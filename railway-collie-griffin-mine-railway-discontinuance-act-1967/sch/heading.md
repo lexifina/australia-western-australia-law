@@ -1,0 +1,4 @@
+## Schedule
+[Section 2.]
+Description of portion of the Collie-Griffin Mine Railway.
+Commencing at a point about 0 miles 65 chains from Collie on the Collie-Griffin Railway and proceeding thence in a westerly direction for approximately 2 chains and thence in a southerly direction for approximately 20 chains, thence in a south-westerly direction for approximately 85 chains and thence in a south-easterly direction for approximately 2 chains and thence in an easterly direction for approximately 22 chains terminating at a point about 2 miles 55 chains from Collie and being a point about 13 chains south-east of the north-west corner of Mineral Lease 315 as more particularly set out and delineated in Red on map marked C.E. Plan No. 59548 and being a portion of the railway constructed under the authority of Act No. 13 of 1953.
