@@ -1,0 +1,10 @@
+## Schedule 7
+[Reg. 24(1)(b)]
+Print or type for use in documents under Credit Act 1984
+Avante Garde Avante Garde Book Avante Garde Medium Bold American Typewriter American Typewriter Medium American Typewriter Bold Baskerville Baskerville Roman Baskerville Roman Italic Baskerville Roman Bold | Claro Demi-Bold De Vinne De Vinne Roman De Vinne Roman Italic De Vinne Bold Dutch Roman Gill Sans Gill Sans Medium Gill Sans Medium Italic Gill Sans Bold
+Bembo Bembo Roman Bembo Roman Italic Bembo Bold Bodoni Bodoni Roman Bodoni Roman Italic Bodoni Bold Century Old Style Century Old Style Roman | Gloucester Old Style Gloucester Old Style Roman Gloucester Old Style Roman Italic Gloucester Old Style Bold Helvetica Helvetica Light Helvetica Medium Helvetica Medium Italic Helvetica Bold ITC Cheltenham Bold
+Century Old Style Roman Italic Century Old Style Bold Century School Book Century School Book Roman Century School Book Roman Italic Century School Book Bold Clarendon Clarendon Roman Clarendon Roman Italic Clarendon Bold | ITC Cheltenham Light Karnak Intermediate Karnak Intermediate Roman Karnak Intermediate Roman Italic Karnak Intermediate Bold Megaron Megaron Light Megaron Medium Megaron Medium Italic Megaron Bold
+Claro Claro Light Claro Medium Claro Medium Italic | Metro Metro Italic Metro Bold Musica
+Musica Roman Musica Roman Italic Musica Bold Old Style Old Style Roman Old Style Roman Italic Old Style Bold Optima Roman Optima Roman Italic Optima Bold | Rockwell Bold Rockwell Italic Souvenir Souvenir Light Souvenir Light Italic Souvenir Bold Souvenir Medium Swiss Roman Times (or English) Times (or English) Roman
+Plantin Plantin Roman Plantin Roman Italic Plantin Bold Press Roman Bold Press Roman Medium Record Gothic Rockwell Light Rockwell Medium | Times (or English) Roman Italics Times (or English) Bold Univers Univers Light Univers Medium Univers Medium Italic Univers Bold Zapf Zapf Medium
+[Schedule 7 amended in Gazette 10 January 1986 p.150; 10 October 1986 p.3875; 8 October 1993 p.5437; 24 March 1995 p.1092.]
