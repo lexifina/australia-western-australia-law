@@ -1,0 +1,2 @@
+### Recited Imperial Acts adopted
+that the said recited Acts and every clause, provision and enactment therein respectively contained, except the fifteenth section of the “Act respecting malicious injuries to persons by fire or by explosive or destructive substances,” shall be and the same is hereby adopted and directed to be applied in the administration of justice, so far as they can be applied respectively to the circumstances of this colony.
