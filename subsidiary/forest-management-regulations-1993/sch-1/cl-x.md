@@ -1,0 +1,8 @@
+### Procedure on breakdown of weighing equipment
+5.1Where weighing equipment that has been approved by the Executive Director for the weighing of log timber breaks down, the manager of the sawmill at which the weighbridge is located shall immediately notify the forest officer in charge of the district in which the sawmill is located of the breakdown.
+5.2In the event of a breakdown referred to in clause 5.1, the Executive Director may authorize —
+(a) use of alternative weighing equipment;
+(b) the determination of the net weight of a load based upon the average net weight of loads for the relevant vehicle over the previous period of 2 months;
+(c) determination of the volume of the log timber by bin measure under Part D; or
+(d) determination of the volume of the log timber by individual measurement under Part A or B.
+5.3In the event of a breakdown, the quantity of log timber shall be determined by use of the alternative method approved under clause 5.2 until the weighing equipment is repaired.
