@@ -1,0 +1,4 @@
+Western Australia
+INTERPRETATION ACT 1984
+WESTERN AUSTRALIAN FINANCIAL INSTITUTIONS AUTHORITY ACT 1992
+Western Australian Financial Institutions Authority Regulations 1992
