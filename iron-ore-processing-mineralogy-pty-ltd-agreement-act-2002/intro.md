@@ -1,0 +1,3 @@
+Western Australia
+Iron Ore Processing (Mineralogy Pty. Ltd.) Agreement Act 2002
+An Act to ratify, and authorise the implementation of, an agreement between the State and Mineralogy Pty. Ltd., Austeel Pty. Ltd., Balmoral Iron Pty. Ltd., Bellswater Pty. Ltd., Brunei Steel Pty. Ltd., International Minerals Pty. Ltd. and Korean Steel Pty. Ltd. relating to the mining and processing of iron ore, predominantly as magnetite, and the transporting of processed iron ore in the Pilbara region, and the establishment of new port facilities in the Pilbara region and the shipping of processed iron ore through those facilities.
