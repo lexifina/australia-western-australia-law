@@ -1,4 +1,0 @@
-## The Schedule
-License
-Whereas . . . . . . . . . . . . . . . . . . . . . . , of . . . . . . . . . . . . . . . . . . . . . . , is the
-Lessee under lease from the Commissioner of Railways dated the . . . . . . . . . day of . . . . . . . . . . . . . . . , 19 , of the Railway Restaurant Car No. . . . . . attached to trains running between . . . . . . . . . . . . . . . and . . . . . . . . . . . . . . : Now, therefore, the Commissioner of Railways of Western Australia, in pursuance of the provisions of the said lease and in consideration of the sum of £1, being the fee in advance for the first year hereof, doth hereby license the said . . . . . . . . . . . . . . . for the term of the said recited lease to sell alcoholic liquor by retail at the said recited Restaurant Car, in accordance with and subject to revocation as prescribed by the By-laws relating to the sale of alcoholic liquor on such Car.
