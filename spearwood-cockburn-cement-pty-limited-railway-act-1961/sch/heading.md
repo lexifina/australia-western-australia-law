@@ -1,0 +1,6 @@
+## Schedule
+section 2.
+SPEARWOOD-COCKBURN CEMENT PTY. LIMITED RAILWAY
+Description of Main Line of Railway
+Commencing at a point opposite 16 miles 55 chains on the Woodman’s Point-Jandakot Railway at the east end of Spearwood Station Yard and proceeding thence generally in an easterly direction for 70 chains parallel to and within the Reserve of the Woodman’s Point-Jandakot Railway, and thence in an east-south-easterly direction for 11 chains, and thence in a south-south-easterly direction for 12 chains, and thence in south-south-westerly direction for 13 chains, and thence in a south-south-easterly direction for 23 chains, and thence in a south-south-westerly direction for 33 chains, and thence in a southerly direction for 20 chains, and thence in a south-south-easterly direction for 36 chains, and thence in a southerly direction for 29 chains, to junction with the proposed Cockburn Cement Pty. Limited private Railway siding at a point on the northern boundary of Cockburn Cement Pty. Limited’s works site a distance of 1 chain due east from that portion of the western boundary of Cockburn Cement Pty. Limited’s works site between Churchill Avenue and Britannia Avenue as more particularly set out and delineated in red on map marked C.E. Plan 51671 deposited pursuant to section 96 of the Public Works Act 1902.
+Total length about 3 miles 7 chains.
