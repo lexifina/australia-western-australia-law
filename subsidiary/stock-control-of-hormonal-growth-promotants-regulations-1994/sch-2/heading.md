@@ -1,0 +1,29 @@
+## Schedule 2 — Forms
+[Heading inserted in Gazette 30 Oct 1998 p. 5997.]
+[Forms 1, 2, 3 deleted in Gazette 30 Oct 1998 p. 5997.]
+FORM 4
+Veterinary Preparations and Animal Feeding Stuffs Act 1976
+STOCK (CONTROL OF HORMONAL GROWTH PROMOTANTS) REGULATIONS 1994
+DECLARATION TO ACCOMPANY APPLICATION FOR TAGS
+I, the owner/authorised representative of the owner (delete if inapplicable) responsible for the husbandry of the livestock to which pink tags indicating that the stock are free of Hormonal Growth Promotants (HGPs) are to be applied, declare —
+(1)that the pink tags with “HGP Free” written on them obtained by me as a result of this declaration will only be applied to stock that are known never to have been treated with Hormonal Growth Promotants (HGPs) at any period of the life of the stock; and
+(2)that where the pink tags are to be applied to stock that have been purchased, I have documentation to show that the previous owner has declared that the stock have never been treated with Hormonal Growth Promotants at any period of the life of the stock.
+Name (Please print) ................................................. Signature .............................
+Date ....................................
+[Form 4 amended in Gazette 23 Apr 1999 p. 1715.]
+FORM 5
+Veterinary Preparations and Animal Feeding Stuffs Act 1976
+STOCK (CONTROL OF HORMONAL GROWTH PROMOTANTS) REGULATIONS 1994
+DECLARATION OF FREEDOM FROM HORMONAL GROWTH PROMOTANTS
+OWNER OF STOCK .............................................................................................
+ADDRESS .............................................................................................................
+.................................................................................................................................
+.................................................................................................................................
+PROPERTY IDENTIFICATION NUMBER OF THE PROPERTY OF ORIGIN OF THE STOCK (AS ON PINK TAGS) ..............................................................
+I, the owner/authorised representative of the owner (delete if inapplicable) responsible for the husbandry of the cattle described below, hereby declare that the cattle described below have never been treated with Hormonal Growth Promotants at any period of their lives.
+Number of Stock | Breed | Sex | Age | Animal ID — Ear Mark, Tattoo, Brand
+(NOTE: The penalty for false declaration under the Stock (Control of Hormonal Growth Promotants) Regulations 1994, is a fine of up to $5 000.)
+Signed: .............................................Date: .....................................................
+Print Name: ............................................................................................................
+[Form 5 amended in Gazette 23 Apr 1999 p. 1715.]
+[Schedule 2 amended in Gazette 30 Oct 1998 p. 5997; 23 Apr 1999 p. 1715.]
