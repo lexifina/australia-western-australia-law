@@ -1,0 +1,4 @@
+## Schedule
+[Section 2.]
+INDUSTRIAL LANDS (KWINANA) RAILWAY
+Commencing at a point 19 miles 34 chains 54 links on the Kenwick-Kwinana Railway, proceeding in a north-westerly direction for a distance of 22 chains 77 links, thence in a westerly direction for a distance of 14 chains 7 links, thence in a south-westerly direction for a distance of 24 chains 65 links, thence in a southerly direction for a distance of 29 chains 6 links thence in a south south-westerly direction for a distance of 10 chains 1 link, thence in south-westerly direction for a distance of 45 chains 14 links and terminating at a point on the prolongation of the southern boundary of the C.S.B.P. and Farmers Ltd. refinery works property, Kwinana, and as more particularly set out and delineated in red on C.E. Plan 57911, deposited pursuant to section 96 of the Public Works Act, 1902. Total length of railway about 1 mile 65 chains 70 links.
