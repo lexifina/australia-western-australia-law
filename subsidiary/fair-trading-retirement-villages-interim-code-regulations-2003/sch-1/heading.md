@@ -1,0 +1,16 @@
+## Schedule 1 — Interim Code of Fair Practice for Retirement Villages 2003
+[r. 3]
+Foreword
+An increasing number of retired people are finding the concept of retirement villages attractive. These villages exist in a number of forms with a range of tenures and accommodation types. Different financial arrangements and forms of contract include lease, licence, a right conferred by shares, strata title, or freehold title. Retirement villages also differ widely with regard to the nature of care and other amenities and services that may be available.
+This Code has been prescribed under section 43(1) and (2) of the Fair Trading Act 1987 and will remain in force for 6 months after the commencement date of 1 April 2003, or until a new Code is prescribed under section 43 of the Act, whichever is the earlier.
+This Code is, in substance, the same as the Code of Fair Practice for Retirement Villages 1998 (the “1998 Code”) that lapsed on 30 September 2001, and has been prepared as an interim Code to follow the Interim Code of Fair Practice for Retirement Villages (No. 2) 2002 that lapsed on 31 March 2003.
+This Code, the Retirement Villages Act 1992 and Retirement Villages Regulations 1992 provide a package for the regulation of the retirement village industry that safeguards the rights of both the residents and the owners of retirement villages, and provides clear guidelines for the industry. The Code sets out the practices that apply to the promotion, sale and operation of retirement villages. The Code must be complied with and is enforceable under sections 44-47 of the Fair Trading Act 1987.
+Division 1 of the Code deals with general matters such as the meaning of terms used in the Code, its application, general principles and objectives, the basic rights of residents and the Code’s relationship to other relevant legislation.
+Division 2 sets out the approvals that must be obtained before any sales promotion of a village is undertaken, and specifies the information that must be disclosed in any advertising or promotional material.
+Division 3 sets out the requirements for disclosures before entering into residence and other related contracts.
+Division 4 specifies the information required to be included in the residence contract and other related contracts.
+Division 5 specifies the rights and obligations of the administering body and residents in relation to the management of a village, including the operating financial arrangements.
+Division 6 recognises that disputes may occur in a retirement village and outline the structures that may be utilised to resolve them.
+Division 7 explains the rights and the obligations of the administering body and a resident, in relation to the termination of a residence contract.
+Appendix 1 is a copy of Form 1 of Schedule 1 to the Retirement Villages Regulations 1992 that specifies the information required to be provided by the owner of a retirement village to a prospective resident of that village. It is important for a prospective resident to read and understand this information before deciding to enter the village.
+Appendix 2 also provides a list of questions which a prospective resident should carefully read and consider before deciding to enter any retirement village.
