@@ -1,0 +1,8 @@
+Notes
+This reprint is a compilation as at 7 May 2004 of the Petroleum (Submerged Lands) Registration Fees Regulations 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+Compilation table
+Citation | Gazettal | Commencement
+Petroleum (Submerged Lands) Registration Fees Regulations 1990 | 28 Sep 1990 p. 5108-9 | 1 Oct 1990 (see r. 2 and Gazette 28 Sep 1990 p. 5099)
+Petroleum (Submerged Lands) Registration Fees Amendment Regulations 2002 | 28 Jun 2002 p. 3094-5 | 1 Jul 2002 (see r. 2)
+Petroleum (Submerged Lands) Registration Fees Amendment Regulations 2003 | 28 Feb 2003 p. 675-6 | 28 Feb 2003
+Reprint 1: The Petroleum (Submerged Lands) Registration Fees Regulations 1990 as at 7 May 2004 (includes amendments listed above)
