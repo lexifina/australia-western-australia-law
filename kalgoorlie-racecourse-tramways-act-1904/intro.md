@@ -1,6 +1,0 @@
-Western Australia
-Kalgoorlie Racecourse Tramways Act 1904
-An Act to authorise The Kalgoorlie Electric Tramways, Limited, to construct, maintain, and manage a line of Tramways on the Racecourse at Kalgoorlie.
-[Assented to 24th December 1904.]
-Preamble
-Whereas the Kalgoorlie Electric Tramways, Limited, being a company properly incorporated under the Companies Act of the Imperial Parliament, and registered and carrying on business in the State of Western Australia, is desirous of constructing, maintaining, and managing a Tramway on the racecourse at Kalgoorlie, being part of Hampton Location 2: And whereas the said Company has agreed with the lessees of the said land, who are trustees for the Kalgoorlie Racing Club, and with the said club, for the construction, maintenance, and management by the Company of the said Tramway: And whereas the Minister for Lands, as lessor of the said land, has consented to the said Agreement: And whereas it is expedient that the Company should be authorised to construct, maintain, and manage the said Tramway: Be it therefore enacted by the King’s Most Excellent Majesty, by and with the advice and consent of the Legislative Council and Legislative Assembly of Western Australia, in this present Parliament assembled, and by the authority of the same, as follows: —
