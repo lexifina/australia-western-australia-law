@@ -1,4 +1,0 @@
-## Schedule
-HARBOUR WORKS TRAMWAY
-Starting at or near a point in Minim Cove, Swan River, bearing about South-East by South from the ‘Buckland Hill’ obelisk and about 38 chains distant therefrom, and proceeding thence in a direction West-South-West or thereabouts for about 77 chains, thence in a direction South by West or thereabouts for about 65 chains, thence in a direction West-South-West or thereabouts for about 25 chains, thence in a direction South-West by South or thereabouts for about 69 chains, thence in a direction West by South or thereabouts for about 70 chains, and terminating at or near a point in the Indian Ocean bearing about West by North from the Fremantle Lighthouse and about 89 chains distant therefrom, as more particularly delineated by a red line on map marked P.W.D. W.A. 2085, deposited at the office of the Commissioner of Railways, Perth, or within the limits of deviation indicated by the red dotted lines on the same map.
-__________
