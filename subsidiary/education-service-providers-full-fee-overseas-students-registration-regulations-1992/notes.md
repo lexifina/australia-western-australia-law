@@ -1,0 +1,10 @@
+Notes
+This is a compilation of the Education Service Providers (Full Fee Overseas Students) Registration Regulations 1992 and includes the amendments made by the other written laws referred to in the following table.
+Compilation table
+Citation | Gazettal | Commencement
+Education Service Providers (Full Fee Overseas Students) Registration Regulations 1992 | 16 Oct 1992 p. 5115-18 | 16 Oct 1992 (see r. 2 and Gazette 16 Oct 1992 p. 5114)
+Education Service Providers (Full Fee Overseas Students) Registration Amendment Regulations 1995 | 6 Oct 1995 p. 4733-4 | 6 Oct 1995
+Education Service Providers (Full Fee Overseas Students) Registration Amendment Regulations (No. 2) 1995 | 22 Dec 1995 p. 6168-9 | 22 Dec 1995
+Education Service Providers (Full Fee Overseas Students) Registration Amendment Regulations 1996 | 6 Sep 1996 p. 4408-9 | 6 Sep 1996
+Education Service Providers (Full Fee Overseas Students) Registration Amendment Regulations 1997 | 7 Mar 1997 p. 1404-5 | 17 Apr 1997 (see r. 2)
+Reprint of the Education Service Providers (Full Fee Overseas Students) Registration Regulations 1992 as at 11 Oct 2002 (includes amendments listed above)
