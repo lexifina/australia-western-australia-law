@@ -1,0 +1,5 @@
+Western Australia
+State Salaries (Commonwealth Taxation) Act 1916
+An Act relating to the Taxation by the Parliament of the Commonwealth of Australia of Salaries, Reimbursements, and other Moneys paid by the State of Western Australia.
+[Assented to 5 December 1916.]
+Whereas it is expedient that the Parliament of Western Australia should allow the salaries of officers of the State of Western Australia earned in the said State, the salaries paid to responsible Ministers of the Crown, and the Chairman of Committees of the Legislative Council, the Speaker and the Chairman of Committees of the Legislative Assembly, and Members of either House of Parliament, to be subject to taxation in common with other salaries earned in the Commonwealth of Australia: Be it enacted by the King’s Most Excellent Majesty, by and with the advice and consent of the Legislative Council and Legislative Assembly of Western Australia, in this present Parliament assembled, and by the authority of the same, as follows: —
