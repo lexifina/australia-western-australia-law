@@ -1,0 +1,57 @@
+Notes
+This is a compilation of the Fire and Emergency Services Superannuation Act 1985 and includes the amendments made by the other written laws referred to in the following table.
+Compilation table
+Short title | Number and year | Assent | Commencement
+Fire Brigades Superannuation Act 1985 | 87 of 1985 | 4 Dec 1985 | 3 Nov 1986 (see s. 2 and Gazette 24 Oct 1986 p. 3938)
+Acts Amendment (Financial Administration and Audit) Act 1986 s. 4 | 4 of 1986 | 27 Jun 1986 | 1 Jul 1986 (see s. 2)
+Fire Brigades Superannuation Order 1987 (see Gazette 14 Aug 1987 p. 3163) | 14 Aug 1987
+Fire Brigades Superannuation (Associated Employer) Order 1988 (see Gazette 18 Nov 1988 p. 4532) | 4 Nov 1988 (see cl. 2)
+Fire Brigades Superannuation Amendment Act 1992 | 19 of 1992 | 16 Jun 1992 | 16 Jun 1992 (see s. 2)
+Fire Brigades Superannuation Amendment Act 1994 | 26 of 1994 | 23 Jun 1994 | s. 5, 10-14, 15(d)-(g), 16-25: 1 Jul 1994 (see s. 2); balance: 29 Jun 1994 (see s. 2 and Gazette 29 Jun 1994 p. 3201)
+Trustees Amendment Act 1997 s. 18 | 1 of 1997 | 6 May 1997 | 16 Jun 1997 (see s. 2 and Gazette 10 Jun 1997 p. 2661)
+Statutes (Repeals and Minor Amendments) Act 1997 s. 61 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2)
+Fire and Emergency Services Authority of Western Australia (Consequential Provisions) Act 1998 s. 38 | 42 of 1998 | 4 Nov 1998 | 1 Jan 1999 (see s. 2 and Gazette 22 Dec 1998 p. 6833)
+Corporations (Consequential Amendments) Act 2001 s. 221 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
+Reprint of the Fire Brigades Superannuation Act 1985 as at 15 Feb 2002 (includes amendments listed above)
+Fire and Emergency Services Legislation Amendment Act 2002 s 63-73 | 38 of 2002 | 20 Nov 2002 | 30 Nov 2002 (see s. 2 and Gazette 29 Nov 2002 p. 5651-2)
+The Fire Brigades Superannuation Amendment Act 1994 Pt. 3 reads as follows:
+“
+Part 3 — Transitional and consequential provisions
+19.Interpretation
+(1) In this Part, unless the contrary intention appears —
+“commencement day” means the day on which this Act comes into operation;
+“former Board” means the Western Australian Fire Brigades Disablement Benefits Board established under the repealed Part;
+“former Fund” means the Western Australian Fire Brigades Disablement Benefits Fund established under the repealed Part;
+“repealed Part” means the Part repealed by section 10;
+“Superannuation Board” means the Western Australian Fire Brigades Superannuation Board established under section 4 of the principal Act;
+“Superannuation Fund” means the Western Australian Fire Brigades Superannuation Fund established under section 5 of the principal Act.
+20.Transfer of assets and liabilities
+On the commencement day, by virtue of this section —
+(a) all assets standing to the credit of or forming part of the former Fund stand to the credit of or form part of the Superannuation Fund without the need for any conveyance, transfer, assignment or assurance;
+(b) all rights and liabilities of the former Board, including contingent liabilities, become rights and liabilities of the Superannuation Board;
+(c) a claim for any benefits from the former Fund that had not been finally dealt with immediately before the commencement day may be dealt with as if it were a claim for benefits from the Superannuation Fund under the principal Act;
+(d) the rights, obligations and entitlements of persons who were members of the former Fund are taken to be rights, obligations and entitlements of those persons as members of the Superannuation Fund;
+(e) any policy of insurance, agreement or instrument to which the former Board is a party and which relates to the administration of the former Fund has effect, by force of this section, as if the Superannuation Board were substituted for the former Board as a party to the policy, instrument or agreement;
+(f) all proceedings commenced before the commencement day by or against the former Board and pending immediately before the commencement day are to be taken to be proceedings pending by or against the Superannuation Board; and
+(g) anything done or omitted to be done in relation to the assets, rights and liabilities referred to in paragraphs (a), (b), (c) and (d) before the commencement day by, to or in respect of the former Board (to the extent that that thing has any force or effect) is to be taken to have been done or omitted by, to or in respect of the Superannuation Board.
+21.Records
+The Superannuation Board becomes, on the commencement day, the owner of all registers, documents, books and other records (however compiled, recorded or stored) relating to the former Fund, and of any tape, disc or other device or medium relating to such records.
+22.Exemption from Stamp Act 1921
+Notwithstanding anything in the Stamp Act 1921, no duty is payable under that Act in respect of the passing of any assets under this Part.
+23.Registration of documents
+(1) The Registrar of Titles, the Registrar of Deeds, the Minister administering the Land Act 1933, and any other person authorised by a written law to record and give effect to the registration of documents relating to transactions affecting any estate or interest in land or other property, are to take notice of the provisions of this Part and are empowered to record and register in the appropriate manner such of those documents as are necessary to give effect to this Part.
+(2) Without limiting subsection (1) a statement in an instrument executed by the Superannuation Board that any estate or interest in land or other property stands to the credit of or is part of the Superannuation Fund under section 20 is evidence of that fact.
+24.Report
+(1) Notwithstanding section 10, the former Board is to report in respect of the former Fund under section 66 of the Financial Administration and Audit Act 1985 in respect of the period between 1 July 1993 and the commencement day as soon as practicable after the commencement day, and the former Board is continued in existence for that purpose.
+(2) A report prepared under subsection (1) is deemed to be an annual report for the purposes of section 69 of the Financial Administration and Audit Act 1985.
+”.
+The Fire and Emergency Services Authority of Western Australia (Consequential Provisions) Act 1998 s. 38, which gives effect to Sch. 1 reads:
+“
+Part 4 — Miscellaneous amendments
+38.Miscellaneous amendments
+The Acts mentioned in Schedule 1 are amended as set out in that Schedule.
+”.
+Schedule 1, clause 13 reads as follows:
+“
+(13) Despite the amendments made to section 4 of the Fire Brigades Superannuation Act 1985 by subclause (12), a person appointed and holding office under that section immediately before the commencement of this clause as a member or alternate member of the Western Australian Fire Brigades Superannuation Board continues, subject to that Act, to hold that office on and after that commencement for the remainder of the period for which the person was appointed.
+”.
