@@ -1,0 +1,3 @@
+## Third Schedule
+Appointment notified in Government Gazette Number .................................. | CERTIFICATE OF AUTHORITY No.
+dated ................................................... ............................................................. Specimen Signature of Holder | This is to Certify that .......................... ............................................................. has been appointed an Inspector under the Chicken Meat Industry Act 1977 and has legal authority to exercise the powers conferred by the Act upon the holder of such office. ............................................................. Minister for Agriculture
