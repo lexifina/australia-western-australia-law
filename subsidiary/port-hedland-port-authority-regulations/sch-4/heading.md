@@ -1,0 +1,4 @@
+## Fourth Schedule
+Restricted Area of the Port
+Commencing at a point which is situated approximately 100 metres north of the Goldsworthy Mining Limited convey, or groyne and coincident with the high water mark on Finucane Island, thence 498 metres on a grid bearing of 124 o 07’ to a point situated on a line parallel to the wharf alignment and 60 metres out from the dredged berth toe line, thence 527.6 metres on a grid bearing of 198 o 43’ to a point on that same alignment, thence 138 metres on a grid bearing of 229 o 48’ to a point which is coincident with the high water mark on the “UTAH” reclamation promontory on Finucane Island and thence generally north-westerly and north-easterly following the high water mark along the shore line of Finucane Island back to the commencement point.
+[Fourth Schedule inserted by Gazette 12 August 1988 p.2711.]
