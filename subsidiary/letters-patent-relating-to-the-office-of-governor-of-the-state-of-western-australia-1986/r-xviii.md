@@ -1,0 +1,2 @@
+### XVIII. Oaths to be taken by deputy of the Governor
+Before performing or exercising any power or function of the Governor a person, who is not the Lieutenant-Governor, appointed to be the deputy of the Governor shall take the usual Oath or Affirmation of Allegiance and the usual Oath or Affirmation of Office before the Governor or the Chief Justice of Western Australia or another Judge of the Supreme Court of the State.

@@ -1,0 +1,2 @@
+### III. Powers and functions of Governor
+The Governor shall have and may exercise all the powers and functions which belong to the office of Governor or are to be performed by the Governor whether conferred by these Our Letters Patent, a law in force in the State or otherwise, including the power to constitute and appoint such Ministers, Judges, Magistrates, justices of the Peace and other necessary officers as may be lawfully constituted or appointed by Us.

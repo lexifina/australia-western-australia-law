@@ -1,0 +1,2 @@
+### XVII. Oaths to be taken by Governor, Lieutenant-Governor and Administrator
+Before assuming office a person appointed to be Governor or Lieutenant-Governor, and before assuming the administration of the government of the State an Administrator who is not the Lieutenant-Governor, shall take the usual Oath or Affirmation of Allegiance and the usual Oath or Affirmation of Office. Such Oaths and Affirmations shall be taken before the Governor or the Chief Justice of Western Australia or another Judge of the Supreme Court of the State.

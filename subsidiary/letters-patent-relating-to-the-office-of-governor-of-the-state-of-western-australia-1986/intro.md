@@ -1,0 +1,10 @@
+Western Australia
+Letters Patent Relating to the Office of Governor of the State of Western Australia 1986
+LETTERS PATENT RELATING TO THE OFFICE OF GOVERNOR OF THE STATE OF WESTERN AUSTRALIA.
+Dated 14th February, 1986.
+ELIZABETH THE SECOND, by the Grace of God of the United Kingdom of Great Britain and Northern Ireland and of Our other Realms and Territories Queen, Head of the Commonwealth, Defender of the Faith.
+TO ALL TO WHOM THESE PRESENTS SHALL COME, GREETING!
+WHEREAS, by Letters Patent dated the 29th October, 1900 and by the Constitution Act, 1889 of the State of Western Australia provision was made in relation to the office of Governor of the State of Western Australia and its Dependencies extending from the parallel of thirteen degrees thirty minutes South latitude, to West Cape Howe in the parallel of thirty-five degrees eight minutes South latitude, and from the Hartog’s Island on the Western Coast, in longitude one hundred and twelve degrees fifty-two minutes to one hundred and twenty-nine degrees East longitude, reckoning from the meridian of Greenwich, including all the islands adjacent in the Indian and Southern Oceans within the latitudes aforesaid of thirteen degrees thirty minutes South, and thirty-five degrees eight minutes South, and within the longitudes aforesaid of one hundred and twelve degrees fifty-two minutes, and one hundred and twenty-nine degrees East from the said meridian of Greenwich:
+And whereas by the Australia Act 1986 of the Commonwealth of Australia. provision is made in relation to the office of the Governor of the State of Western Australia and corresponding provision will also be made in the Act which is expected to result from the Australia Bill at present before Parliament in the United Kingdom (which Acts are hereinafter together referred to as “the Australia Acts”);
+And whereas We desire to make new permanent provisions relating to the office, of Governor of the State of Western Australia and for persons appointed to administer the government of the State:
+Now Know Ye that We do hereby declare Our Will and Pleasure, and direct and ordain as follows:-
