@@ -1,0 +1,3 @@
+## Schedule 2
+[Regulation 222]
+FEES — TECHNICAL AND FURTHER EDUCATION
