@@ -1,0 +1,2 @@
+### LR 314B. Indemnity against claim
+No claim at law or in equity shall be maintainable by a person to whom these rules apply against any authorised officer, official or steward in respect of any action performed by him for the purpose of giving effect to his powers or duties under the rules and he shall stand indemnified against any such claim by all licensed or registered persons or bodies in relation to whom any action is being taken or enquiry is being made by him.

@@ -1,0 +1,3 @@
+### LR 15.Power to enter premises
+(1) Without limiting rule 15, the stewards are empowered to enter upon land and premises owned or occupied by a licensed or registered person or occupied by permission or licence of a licensed or registered person or where any registered horse is kept in the performance of any of the stewards’ powers under these rules.
+(2) A steward who enters and remains upon land or premises under this rule, shall not thereby commit a trespass thereon and no action shall be brought or maintained against the steward or the Controlling Body for any damages or relief in respect of such entry or remainder.
