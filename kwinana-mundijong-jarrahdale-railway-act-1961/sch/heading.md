@@ -1,0 +1,5 @@
+## Schedule
+[Section 4]
+RAILWAY FROM KWINANA TO JARRAHDALE THROUGH MUNDIJONG
+Commencing at a point on the Coogee-Kwinana railway 24 miles 30 chains from Perth in the Kwinana station yard and proceeding thence in a southerly direction for about 3 miles and thence in a south-easterly direction for about 1 mile 10 chains and thence in an easterly direction for about 1 mile 20 chains and thence in a north-easterly direction for about 1 mile 70 chains and thence in an easterly direction for about 7 miles 20 chains and thence in a southerly direction through Mundijong station yard for about 2 miles 30 chains and thence in an easterly direction for about 1 mile and thence in a north-easterly direction for about 1 mile 30 chains and thence in a south-easterly direction for about 4 miles 40 chains and thence in a north-easterly direction for about 3 miles terminating at about the south-west corner of location 819 as more particularly set out and delineated in red on map marked C.E. Plan No. 51871 deposited pursuant to the Public Works Act 1902, Section 96.
+Total length about 26 miles 60 chains.
