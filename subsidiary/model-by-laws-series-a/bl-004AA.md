@@ -1,0 +1,3 @@
+### 4AA. Laundry with copper to be separated from kitchen
+Where laundry facilities provided in accordance with these by-laws consist of wash troughs and copper, and are situated in the same building as and adjacent to a kitchen or room where food is stored or consumed, those facilities shall be separated from the kitchen or room by a wall extending from the floor to the roof or the ceiling and where an opening permitting communication between the laundry and the kitchen or room where food is stored or consumed is provided, the opening shall be not more than 815 millimetres wide, and it shall be provided with a door which when closed, shall completely fill the opening.
+[By-law 4AA inserted by Gazette 18 August 1971 p.3029; amended by Gazette 21 December 1973 p.4672.]
