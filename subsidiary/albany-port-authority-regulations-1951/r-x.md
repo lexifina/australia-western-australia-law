@@ -1,3 +1,0 @@
-### 254aVehicles may be Moved
-Where, in the opinion of the Wharf Manager, any vehicle should be moved from any stand or place, it shall be lawful for him to direct the driver thereof to remove the vehicle to such place as the Wharf Manager shall direct, and any driver who shall refuse to obey such directions shall be guilty of an offence. It shall also be lawful for the Wharf Manager or any officer of the Board to remove any such vehicle, or cause the same to be removed in the absence of the driver thereof, or in case of failure of the driver to remove the said vehicle.
-[Regulation 254a inserted by Gazette 19 July 1956 pp.1780-81.]
