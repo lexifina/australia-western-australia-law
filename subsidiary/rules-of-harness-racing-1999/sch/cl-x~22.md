@@ -1,8 +1,0 @@
-### LR 85A. Record requirements
-(1) A record can only be made in a public race or performance against time, and the horse must pace or trot according to the rules.
-(2) The race or performance against time shall be started by an officially appointed starter. The time shall be taken by 3 timekeepers or one timekeeper and an approved electronic timing device. The race or performance against time shall be supervised by the stipendiary stewards or judge officially appointed by the Controlling Body.
-(3) The record of the race or performance against time must be signed by the starter, the timekeepers and/or electronic timing operator, the stipendiary steward or judge and forwarded to the Controlling Body who, in turn, will forward it to the Australian Harness Racing Council for inclusion or otherwise in the official list.
-(4) In every official race, or performance against time, the time taken shall be placed in the record in minutes, seconds and tenths of seconds.
-(5) When the timekeepers fail to act or agree no official time shall be announced or recorded unless the time has been taken by an approved electronic device in which case the latter time shall be announced and recorded.
-(6) In the event that the time taken by the official timekeepers shall differ from that taken by an electronic timing device the later time shall prevail and be regarded as the official time for announcement and entry into the record unless it is shown that the electronic timing device has failed, when the time taken by the official timekeepers shall be the official time.
-[Local Rule 85A amended in Gazette 30 November 1999 p.5953.]
