@@ -1,0 +1,7 @@
+## First Schedule
+[Section 2]
+## Kalgoorlie-Perth Railway
+Description of Main Line of Railway
+Commencing at a point in the Kalgoorlie station yard at which connection can be made to the existing 4 feet 8½ inches gauge Commonwealth railway and proceeding thence in a general westerly direction to a point adjacent to Koolyanobbing Hill on the area leased to Broken Hill Pty. Co. Ltd. (Yilgarn Loc. 1425) and thence in a general south-westerly and southerly direction to a point adjacent to Southern Cross Station and thence alongside the 3 feet 6 inches gauge railway built under Act number 55 Victoriae 12 of 1892 to East Northam and thence in, a north-westerly direction along the valley of the Avon River to Toodyay and thence generally in, a north-westerly, westerly and south-westerly direction, along the valley of the Avon River to a point alongside The Midland Railway Company of Western Australia Limited’s railway about 7½ miles north of Midland Junction and thence in a southerly direction alongside The Midland Railway Company of Western Australia Limited’s railway to a point about 3 miles north of Midland Junction and thence in a south-easterly direction to a point alongside the 3 feet 6 inches gauge railway at Bellevue and thence alongside the 3 feet 6 inches gauge railway built under Act numbered 44 Victoriae 18 of 1881 to a point between East Perth and Perth.
+[First Schedule inserted by No. 64 of 1963 s. 5.]
+[Second Schedule deleted by No. 64 of 1963 s. 6.]
