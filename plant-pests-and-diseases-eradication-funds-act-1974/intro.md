@@ -1,0 +1,4 @@
+Western Australia
+Plant Pests and Diseases (Eradication Funds) Act 1974
+An Act to impose contributions on growers for the purposes of the establishment of a Fund for eradication of, and the prevention of the spread of, skeleton weed and for the payment of compensation to owners of grain, seed, crop or bags destroyed in the course of steps taken to eradicate, or prevent the spread of, skeleton weed, the establishment of a Fund for the eradication of certain insect pests and the establishment of a Fund for the eradication of, and the prevention of the spread of, certain plant diseases and for the payment of compensation to owners of grain, seed, crop or bags destroyed in the course of steps taken to eradicate, or prevent the spread of, those plant diseases.
+[Long title amended by No. 56 of 1980 s. 2; No. 53 of 1996 s. 4.]
