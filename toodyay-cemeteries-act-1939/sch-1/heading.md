@@ -1,0 +1,2 @@
+## First Schedule
+All that portion of land bounded by lines starting from the south-eastern corner of lot 76 of Avon location U3 (as shown on L.T.O. Deposited plan 3649) and extending southerly along the western alignment of the Toodyay-Bolgart road to the north-eastern corner of lot 143 on plan 3649 aforesaid; thence westerly along the northern boundary of said lot 143 to its north-western corner; thence northerly to the south-western corner of lot 76 aforesaid, and thence easterly along its southern boundary to the starting point.
