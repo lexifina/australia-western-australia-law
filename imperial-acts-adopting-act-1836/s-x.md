@@ -1,0 +1,2 @@
+### Recited Imperial Acts adopted
+Be it therefore enacted, by His Excellency the Governor of Western Australia, with the advice and consent of the Legislative Council thereof, that the said recited Acts of Parliament, and every clause, provision and enactment therein respectively contained, shall be, and the same are and is hereby adopted, and directed to be applied, in the Administration of Justice, so far as they can be applied to the circumstances of the said Colony.
