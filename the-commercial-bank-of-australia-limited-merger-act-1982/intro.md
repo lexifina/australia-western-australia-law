@@ -1,0 +1,8 @@
+Western Australia
+The Commercial Bank of Australia Limited (Merger) Act 1982
+An Act to supplement The Commercial Bank of Australia Limited (Merger) Act 1982 of the State of New South Wales which provides for the transfer to Bank of New South Wales of the undertaking of The Commercial Bank of Australia Limited, and for the transfer to Bank of New South Wales Savings Bank Limited of the undertaking of The Commercial Savings Bank of Australia Limited, and for connected purposes.
+WHEREAS The Commercial Bank of Australia Limited became on or about the 12th day of February 1981 a wholly owned subsidiary of Bank of New South Wales in pursuance of action under Part VIB of the Companies Act 1961 of the State of Victoria:
+AND WHEREAS The Commercial Savings Bank of Australia Limited is a wholly owned subsidiary of The Commercial Bank of Australia Limited, and Bank of New South Wales Savings Bank Limited is a wholly owned subsidiary of Bank of New South Wales:
+AND WHEREAS it is expedient in the interest of banking efficiency that the banking business conducted by The Commercial Bank of Australia Limited should be transferred to Bank of New South Wales, and the banking business conducted by The Commercial Savings Bank of Australia Limited should be transferred to Bank of New South Wales Savings Bank Limited:
+AND WHEREAS it is expedient that the transfers be effected by Act of the Parliament:
+Be it enacted by the Queen's Most Excellent Majesty, by and with the advice and consent of the Legislative Council and the Legislative Assembly of Western Australia, in this present Parliament assembled, and by the authority of the same, as follows: —
