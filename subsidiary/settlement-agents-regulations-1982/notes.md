@@ -1,0 +1,39 @@
+Notes
+This reprint is a compilation as at 18 March 2005 of the Settlement Agents Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+Compilation table
+Citation | Gazettal | Commencement
+Settlement Agents Regulations 1982 | 19 Mar 1982 p. 886-7 | 19 Mar 1982
+Settlement Agents Amendment Regulations 1982 | 29 Oct 1982 p. 4323-4 | 29 Oct 1982
+Settlement Agents Amendment Regulations 1984 | 30 Mar 1984 p. 910 (erratum 6 Apr 1984 p. 998) | 30 Mar 1984
+Settlement Agents Amendment Regulations 1985 | 21 Jun 1985 p. 2263 | 21 Jun 1985
+Settlement Agents Amendment Regulations 1986 | 13 Jun 1986 p. 1997 | 1 Jul 1986 (see r. 2)
+Settlement Agents Amendment Regulations 1987 | 4 Sep 1987 p. 3519 | 4 Sep 1987
+Settlement Agents Amendment Regulations 1988 | 2 Sep 1988 p. 3466 | 2 Sep 1988
+Settlement Agents Amendment Regulations (No. 2) 1988 | 25 Nov 1988 p. 4761 (erratum 2 Dec 1988 p. 4799) | 25 Nov 1988
+Settlement Agents Amendment Regulations 1989 | 30 Jun 1989 p. 1970-1 | 1 Jul 1989 (see r. 2)
+Settlement Agents Amendment Regulations 1990 | 1 Aug 1990 p. 3653 | 1 Aug 1990
+Settlement Agents Amendment Regulations 1991 | 13 Dec 1991 p. 6161 | 13 Dec 1991
+Settlement Agents Amendment Regulations 1992 | 14 Aug 1992 p. 4009 | 14 Aug 1992
+Settlement Agents Amendment Regulations 1993 | 30 Nov 1993 p. 6407-8 | 30 Nov 1993
+Reprint of the Settlement Agents Regulations 1982 as at 9 Apr 1996 (includes amendments listed above)
+Settlement Agents Amendment Regulations (No. 2) 1996 | 25 Jun 1996 p. 2925-8 | 1 Jul 1996 (see r. 2 and Gazette 25 Jun 1996 p. 2902)
+Settlement Agents Amendment Regulations 1996 | 2 Aug 1996 p. 3731-2 | 2 Aug 1996
+Settlement Agents Amendment Regulations (No. 3) 1996 | 30 Aug 1996 p. 4322 | 30 Aug 1996
+Settlement Agents Amendment Regulations 1997 | 23 May 1997 p. 2419-24 | 24 May 1997 (see r. 2 and Gazette 23 May 1997 p. 2417)
+Reprint of the Settlement Agents Regulations 1982 as at 12 Dec 1997 (includes amendments listed above)
+Settlement Agents Amendment Regulations 2000 | 26 May 2000 p. 2525 | 26 Aug 2000 (see r. 2 and Gazette 26 May 2000 p. 2526)
+Settlement Agents Amendment Regulations 2004 | 6 Apr 2004 p. 1131 | 6 Apr 2004
+Settlement Agents Amendment Regulations (No. 2) 2004 | 15 Jun 2004 p. 2024-6 (as amended in Gazette 21 Jan 2005 p. 258) | 15 Jun 2004
+Settlement Agents Amendment Regulations (No. 4) 2004 | 30 Dec 2004 p. 6927 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
+Reprint 3: The Settlement Agents Regulations 1982 as at 18 Mar 2005 (includes amendments listed above)
+These regulations are in place of the Settlement Agents Amendment Regulations 1996 published in Gazette 5 Jul 1996 p. 3224-5. Those regulations were published in the Gazette after the day on which they purported to commence (1 Jul 1996 — see proclamation published in Gazette 1 Jul 1996 p. 3179 fixing 1 Jul 1996 as the day on which Part 9 of the Business Licensing Amendment Act 1995 came into operation).
+The Settlement Agents Amendment Regulations (No. 2) 2004 r. 4 (as amended in Gazette 21 Jan 2004 p. 258) reads as follows:
+“
+4.Transitional
+Despite the repeal effected by regulation 3, in relation to an application for a licence made under Part III of the Act before 1 July 2006, a person is taken to have passed the examinations prescribed for the purposes of clause 1(1)(a) or 2(1)(a) of Schedule 1 to the Act if the person has passed the examinations —
+(a) prescribed by the repealed regulation 6; or
+(b) required to be passed for the conferring by a college (within the meaning of the Vocational Education and Training Act 1996) of —
+(i) a Certificate in Settlement Agency Procedure; or
+(ii) a Certificate IV in Conveyancing.
+[Regulation 4 amended in Gazette 21 Jan 2005 p. 258.]
+”.
