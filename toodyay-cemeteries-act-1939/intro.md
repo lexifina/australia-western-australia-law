@@ -1,0 +1,5 @@
+Western Australia
+Toodyay Cemeteries Act 1939
+An Act for the closure of portion of a certain Road and to vest certain Lands in His Majesty; and for other purposes relative thereto.
+[Assented to 28 October 1939.]
+Whereas the land described in the First Schedule hereto forms portion of a road in the Toodyay Road District: And whereas the lands described in the first and second columns of the Second Schedule hereto are vested in various persons, bodies, or trustees, as set out in the third column of the said Second Schedule: And whereas it is desirable to close the said portion of the said road and to vest the lands described in the First and Second Schedules in His Majesty, with intent that same may be added together and proclaimed a public cemetery: Be it therefore enacted by the King’s Most Excellent Majesty, by and with the advice and consent of the Legislative Council and Legislative Assembly of Western Australia, in this present Parliament assembled, and by the authority of the same, as follows: —
