@@ -1,0 +1,41 @@
+## Schedule 8 — Definitions
+[Reg. 3.]
+In these regulations —
+ablution block means a communal building which contains ablution facilities;
+approved, in relation to a facility, means approved in writing by the local government;
+AS followed by a designation refers to the Australian Standard having that designation that is published by Standards Australia, as amended from time to time;
+AS/NZS followed by a designation refers to the Australian/New Zealand Standard having that designation that is published jointly by Standards Australia and Standards New Zealand, as amended from time to time;
+assemble, in relation to a park home or annexe, means the work required—
+(a)where a park home or annexe arrives at a site in more than one piece, to assemble, position and stabilise the park home or annexe; or
+(b)to position and stabilise the park home or annexe on a site;
+Building Code means the latest edition of the Building Code of Australia published from time to time by, or on behalf of, the Australian Building Codes Board, as amended from time to time, but not including explanatory information published with that Code;
+caravan site means a site which is marked or intended for the use of a caravan;
+components, in relation to a park home which is to be, or has been, assembled from parts, means the 2 or more main parts of the park home;
+construct, in relation to a park home or annexe, includes all work necessary to manufacture or construct the park home or annexe other than such work as is necessary to assemble the park home or annexe at a site;
+cyclonic region means a cyclonic region within the meaning of AS 4055—1992 “Wind loads for housing”;
+design wind speed means the maximum design gust wind speed for the area calculated in accordance with AS 4055—1992 “Wind loads for housing”;
+en suite means a building on a site which contains ablution, toilet and laundry facilities, or some of these facilities, for the use of the occupiers of that site;
+facility road means a road or path inside a facility for the use of vehicles;
+form means a form in Schedule 1;
+flexible annexe means an annexe made entirely of flexible material except for —
+(a)the supporting frame; and
+(b)any windows or doors, which may be made of flexible or rigid material;
+laundry facility means facilities for laundering clothes;
+long stay site means a site at a caravan park which is to be occupied consecutively by the one person or group of persons for any period of time;
+nature based park means a facility where an occupier may stay no longer than 3 consecutive months;
+number plate means a number plate within the meaning of the Road Traffic Act 1974;
+on-site caravan means a caravan owned by, or under the control of, the licence holder of the caravan park and available for hire at a site on the caravan park;
+open sided building means a building that —
+(a)is classified as a Class 10a building under the Building Code;
+(b)has at least /3 of the area of its perimeter open; and
+(c)has 2 or more sides that would be considered open sides in accordance with the Building Code if the building was a carport;
+overflow area means an area of a facility specified as an overflow area in the licence for the facility;
+park home park means a caravan park at which park homes, but not any other caravans or camps, are situated for habitation;
+professional engineer means a corporate member of the Institution of Engineers Australia, or a person who is eligible to become such a member, who has appropriate experience and competence to construct, or supervise the construction of, park homes;
+service means a supply of gas, water or electricity;
+short stay site means a site at a caravan park which is to be occupied consecutively by the one person or one group of persons, for no longer than 3 consecutive months;
+shower means a shower or a bath;
+rigid annexe means an annexe which is not a flexible annexe;
+temporary licence means a licence referred to in regulation 54;
+transit park means a facility where an occupier may stay no longer than 3 consecutive nights.
+[Schedule 8 amended in Gazette 16 Jul 1999 p. 3204; 25 Aug 2000 p. 4919-20.]
