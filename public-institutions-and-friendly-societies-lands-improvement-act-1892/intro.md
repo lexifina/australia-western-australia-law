@@ -1,0 +1,4 @@
+Western Australia
+Public Institutions and Friendly Societies Lands Improvement Act 1892
+An Act to empower Trustees of certain Public and other Institutions to raise Money on Lands by way of Mortgage.
+Whereas it is desirable to empower Trustees of Public Libraries, Public Museums, Lodges of Freemasons and Oddfellows, Working Men’s and Mechanics’ Institutes, Agricultural Societies, Lodges of Good Templars, Temperance Societies, Friendly Societies established under any law heretofore or hereafter to be passed to regulate Friendly Societies, and any Institution of a public character holding lands granted by the Crown for a public purpose, to raise Money on Lands by way of Mortgage for the purpose of improving the same: Be it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Legislative Council and Legislative Assembly of Western Australia, in this present Parliament assembled, and by the authority of the same, as follows: —
