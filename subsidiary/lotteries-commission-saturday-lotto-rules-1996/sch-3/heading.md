@@ -1,0 +1,28 @@
+## Schedule 3
+## Summary of parameters within which Saturday lotto is conducted
+Unit cost (for a Saturday lotto draw up to and including draw 2229) | $0.40
+Unit cost (for a Saturday lotto draw after draw 2229) | $0.45 (+ agent’s component)
+Prize fund — % of subscriptions | 60.0%
+Prize pool — % of subscriptions | 55.0%
+Prize reserve fund — % of subscriptions | 5.0%
+Number of divisions | 5
+Prize pool — division 1 | 26.2%
+Prize pool — division 2 | 6.7%
+Prize pool — division 3 | 12.4%
+Prize pool — division 4 | 21.1%
+Prize pool — division 5 | 33.6%
+Winning numbers drawn | 6
+Supplementary numbers drawn | 2
+Forecast range | 1 to 45 inclusive
+Odds of winning — division 1 division 2 division 3 division 4 division 5 | 1 in 8 145 060 1 in 678 755 1 in 36 690 1 in 733 1 in 298
+Systems range | 4-5/7-20 inclusive
+Multiweek options | 2, 5 or 10 weeks
+Advance sales (maximum) | 10 weeks
+Games per entry coupon (minimum) | 4
+Systems entries per entry coupon (maximum) (subject to maximum aggregate entry cost) | 12
+Games per entry coupon (maximum) Systems entries per entry coupon — systems 4 to 8 (maximum) — systems 9 to 20 (maximum) | 12 12 5
+Games per oral request | 12, 14, 18 or 25
+Systems entries per oral request | 1
+Prize payout period | 12 months
+Maximum Aggregate Entry Cost | $99,999.00
+[Schedule 3 amended in Gazette 29 Apr 1997 p. 2147; 9 Mar 2001 p. 1327-8; 10 Sep 2002 p. 4601.]
