@@ -1,0 +1,35 @@
+## Schedule
+[Section 5.]
+(a)To establish and maintain within the State of Western Australia a public educational institution the purpose of which is to educate members of the public and to awaken, stimulate, encourage and maintain the interest of members of the public in, and to promote public knowledge of, places and things which are of national or local importance by reason of educational, historic, architectural, traditional, legendary, artistic, literary, scientific, antiquarian, archaeological or other special interest attaching to them and of places of natural beauty and the flora and fauna thereof by giving effect to all or any of the objects and purposes hereinafter set out.
+(b)To provide for the holding of classes, lectures, seminars, exhibitions, meetings and conferences calculated directly or indirectly to advance the cause of education of members of the public and imparting knowledge of history of places and things of national or local importance as aforesaid and to that end to co-operate with the Department of Education of the State of Western Australia, the University of Western Australia, the Director of Adult Education of the State and any other public educational institution.
+(c)To print, publish, sell, distribute and circulate books, advertisements and publications of any and every kind as are calculated to promote and advance the objects and purposes of The Trust.
+(d)To compile and preserve suitable records of buildings, places and things, of national or local historic interest or which traditionally are held or believed to be identified with the arts, crafts, history, legends and mythology of early inhabitants and pioneers of the State of Western Australia or the Commonwealth of Australia.
+(e)To employ and remunerate a director or directors of studies, teachers, lecturers, tutors, research workers and students, secretaries and other employees and persons as may be necessary for the purposes of carrying out and giving effect to the objects and purposes of The Trust.
+(f)To establish and maintain a library or libraries, both reference and circulating.
+(g)To offer, give or contribute toward any scholarship, prize, medal or reward for any research, literary contribution, article, essay or effort connected with the objects of The Trust.
+(h)To make grants to persons approved by The Trust to assist them to make studies, research or investigations approved by The Trust.
+(i)To co-operate with any other institution or society having objects similar to the objects of The Trust.
+(j)To acquire by purchase, lease or otherwise, any land, building, places and things of national or local importance as aforesaid for the purpose of maintaining, protecting and preserving them for the benefit of the public.
+(k)To awaken, encourage and stimulate appreciation, enjoyment and respect by members of the public for places and things of national or local importance as aforesaid.
+(l)To take such steps as may be necessary or desirable to manage and preserve any buildings, places or things of national or local importance as aforesaid from time to time owned by or under the control of The Trust.
+(m)To acquire or accept the gift, devise or bequest of, or the control for the time being of, or on loan or lease any building, place, land, relic, chattel or other things considered to be of national or local importance as aforesaid and if any such gift, devise or bequest or control or loan or lease be subject to any trust or condition to give effect to such trust or condition.
+(n)To take such steps as from time to time may be deemed expedient for the purpose of procuring grants, subscriptions and contributions to the funds of The Trust.
+(o)To accept for the promotion, attainment, maintenance and advancement of the objects and purposes herein set out gifts, bequests and legacies of moneys and other valuable assets and property.
+(p)To entrust any land, building, relic, chattel or other things for safe custody and control to any other Local Government, Public, National or other Gallery, museum, association, society or body of persons whether incorporated or not upon such terms and conditions as The Trust thinks fit with power at any time to require the return thereof to The Trust.
+(q)To enter into agreements with Local Governments, corporations, societies and individuals for the management, maintenance and preservation of any places or things of national or local importance as aforesaid.
+(r)To maintain and manage, either alone or jointly with any Local Government or other authority or body of persons (corporate or unincorporate), any building or place or things of national or local importance as aforesaid.
+(s)To cause such steps to be taken as in the opinion of The Trust are necessary to make places and things of national or local importance as aforesaid readily accessible to the public under proper conditions.
+(t)To charge such fees for admission to lands and buildings vested in it or under its control as The Trust thinks fit.
+(u)To expend any money and generally take any action for any purpose that in its opinion is necessary for the exercise of or ancillary to any of the objects, purposes and functions of The Trust.
+(v)To give and enter into any guarantee in relation to the payment of any moneys and to give and enter into any form of indemnity.
+(w)To acquire by purchase, exchange, gift, devise, bequest, lease, hire or otherwise any real or personal property in furtherance of the objects and purposes of The Trust.
+(x)To sell, lease, exchange or otherwise dispose of any real or personal property of The Trust.
+(y)To apply to have any land of The Trust brought under the provisions of the Transfer of Land Act 1893, as amended from time to time, or of any statutory re-enactments thereof.
+(z)To construct, build, repair, maintain and alter any buildings.
+(aa)To invest the moneys of The Trust not immediately required in such manner as may from time to time be deemed expedient.
+(ab)To borrow or raise money and secure the repayment thereof on such terms and at such rate of interest and otherwise as the Council of The Trust from time to time shall think fit and in particular by mortgage or other similar charge on or security over any property real or personal of The Trust.
+(ac)to make gifts and to give and make over moneys and other property of The Trust with or without consideration where the making thereof is calculated to promote the objects and purposes of The Trust.
+(ad)To place any moneys of The Trust on deposit with any bank and to open and pay moneys of The Trust into and operate upon accounts current with any bank.
+(ae)To promote legislation likely to further and advance the objects and purposes of The Trust and to apply for and accept the grant of a Royal Charter for The Trust.
+(af)To do such other acts and things within the State of Western Australia as are incidental or conducive to the attainment of the above objects and purposes or any of them.
+[Schedule amended by No. 14 of 1996 s. 4.]
