@@ -1,0 +1,3 @@
+## First Schedule — Second Part
+Chairs, tables, desks and bureaus, kitchenettes, cupboards, beds, divans, lounges or settees, dressing tables, wardrobes, lowboys, lamp stands and lamp shades, hall stands, bookcases, mattresses, pillows and pillow cases, cushions, quilts and bedspreads, blankets, sheets, table cloths, curtains and curtain materials, pictures and picture frames, floor coverings, door mats, window treatments, blinds and awnings-interior and exterior, wall mirrors, vases, cooking utensils, cutlery, sewing machines, bassinets, perambulators, chests, smokers’ stands, glassware and traymobiles but not any of the foregoing which are powered or heated by electricity.
+[First Schedule amended by No. 107 of 1973 s. 29.]
