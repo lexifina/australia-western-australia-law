@@ -1,0 +1,37 @@
+Notes
+This is a compilation of the Perth Market Act 1926 and includes the amendments made by the other written laws referred to in the following tables.
+Compilation table
+Short title | Number and year | Assent | Commencement
+Metropolitan Market Act 1926 | 55 of 1926 | 24 Dec 1926 | 24 Dec 1926
+Metropolitan Market Act Amendment Act 1941 | 37 of 1941 | 14 Jan 1942 | 14 Jan 1942
+Metropolitan Market Act Amendment Act 1962 | 31 of 1962 | 4 Oct 1962 | 4 Oct 1962
+Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | 14 Feb 1966 (see s. 2(2)); balance on assent
+Metropolitan Market Act Amendment Act 1969 | 73 of 1969 | 7 Nov 1969 | 7 Nov 1969
+Metropolitan Market Act Amendment Act 1977 | 25 of 1977 | 27 Oct 1977 | 27 Oct 1977
+Metropolitan Market Amendment Act 1981 | 77 of 1981 | 9 Nov 1981 | 1 Apr 1983 (see s. 2 and Gazette 25 Feb 1983 p. 640)
+Metropolitan Market Amendment Act 1984 | 64 of 1984 | 5 Nov 1984 | 3 Dec 1984
+Acts Amendment (Financial Administration and Audit) Act 1985, section 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
+Metropolitan Market Regulations 1987 published in Gazette 26 Jun 1987 p. 2519 | 26 Jun 1987
+Metropolitan Market Amendment Act 1987 | 29 of 1987 | 29 Jun 1987 | 27 Aug 1987 (see s. 2 and Gazette 7 Aug 1987 p. 3079)
+Acts Amendment (Public Service) Act 1987, Part III | 113 of 1987 | 31 Dec 1987 | 16 Mar 1988 (see s. 2 and Gazette 16 Mar 1988 p. 813)
+Agricultural Legislation (Penalties) Amendment Act 1989, section 3 | 20 of 1989 | 1 Dec 1989 | 15 Dec 1989 (see s. 2 and Gazette 15 Dec 1989 p. 4513)
+Acts Amendment (Perth Market Authority) Act 1990, Part 2 | 6 of 1990 | 12 Jul 1990 | 1 Jan 1991 (see s. 2 and Gazette 21 Dec 1990 p. 6211)
+Perth Market Amendment Act 1995 | 12 of 1995 | 30 Jun 1995 | 28 Jul 1995
+Sentencing (Consequential Provisions) Act 1995, Part 63 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
+Local Government (Consequential Amendments) Act 1996, section 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+Statutory Corporations (Liability of Directors) Act 1996, section 3 | 41 of 1996 | 10 Oct 1996 | 1 Dec 1996 (see s. 2 and Gazette 12 Nov 1996 p. 6301)
+Acts Amendment (Land Administration) Act 1997, section 142 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
+Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 11 | 70 of 2003 | 15 Dec 2003 | 21 Apr 2004 (see s. 2 and Gazette 20 Apr 2004 p. 1297)
+Statutes (Repeals and Minor Amendments) Act 2003 s. 92 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Under the Public Sector Management Act 1994, s.112(2), a reference in a written law to the Public Service Commissioner or the Public Service Board is to be construed as if it had been amended to be a reference to the Minister for Public Sector Management.
+Under the Public Sector Management Act 1994 s.112(1), a reference to the Public Service Act 1978 is to be construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
+Section 11 of the Acts Amendment (Perth Market Authority) Act 1990 reads as follows —
+“
+11.Transitional
+A reference to the Metropolitan Market Trust, whether by use of that name or a similar or abbreviated form of that name —
+(a) in a written law passed or made before the commencement of this Act;
+(b) in any notice, instrument or other document issued, given, made, executed or entered into before the commencement of this Act; or
+(c) made before the commencement of this Act in any other manner,
+shall, unless the context is such that it would be incorrect or inappropriate to do so, be read and construed as if it had been amended to be a reference to the Perth Market Authority.
+”.
