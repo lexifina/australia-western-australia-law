@@ -1,0 +1,3 @@
+Western Australia
+Diamond (Argyle Diamond Mines Joint Venture) Agreement Act 1981
+An Act to ratify and authorise the implementation of an agreement between the State of Western Australia and CRA Exploration Pty. Limited, Ashton Mining Limited, Tanaust Proprietary Limited, A.O. (Australia) Pty. Limited and Northern Mining Corporation N.L. and CRA Limited relating to the mining, marketing and processing of diamonds and to matters related thereto; to make provisions as to rights in respect of certain land and minerals to which the Agreement relates and as to the security of operations carried on pursuant to or for the purposes of the Agreement; and for incidental and other purposes.
