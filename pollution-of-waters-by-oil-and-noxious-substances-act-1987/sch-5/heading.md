@@ -1,0 +1,48 @@
+## Schedule 5
+Section 3
+ADOPTION OF AMENDMENTS TO THE PROTOCOL OF 1978 RELATING TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973 (RELATING TO PROTOCOL I TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973 AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO)
+adopted on 5 December 1985
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention of the International Maritime Organization concerning the function of the Committee conferred upon it by international conventions for the prevention and control of marine pollution from ships,
+NOTING Article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the “1973 Convention”) and Article VI of the Protocol of 1978 relating to the 1973 Convention (hereinafter referred to as the “1978 Protocol”) which together specify the amendment procedure of the 1978 Protocol and confers upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention as modified by the 1978 Protocol (MARPOL 73/78),
+HAVING CONSIDERED at its twenty-second session amendments to the 1978 Protocol proposed and circulated in accordance with article 16(2)(a) of the 1973 Convention,
+1. ADOPTS in accordance with article 16(2)(d) of the 1973 Convention amendments to the 1978 Protocol (relating to Protocol I of MARPOL 73/78), the text of which is set out in the Annex to the present resolution;
+2. DETERMINES in accordance with article 16(2)(f)(iii) of the 1973 Convention that the amendments shall be deemed to have been accepted on 5 October 1986 unless prior to this date one third or more of the Parties or the Parties the combined merchant fleets of which constitute fifty per cent or more of the gross tonnage of the world’s merchant fleet, have communicated to the Organization their objections to the amendments;
+3. INVITES the Parties to note that in accordance with article 16(2)(g)(ii) of the 1973 Convention the amendments shall enter into force on 6 April 1987 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General in conformity with article 16(2)(e) of the 1973 Convention to transmit to all Parties to the 1978 Protocol certified copies of the present resolution and the text of the amendments contained in the Annex;
+5. FURTHER REQUESTS the Secretary-General to transmit to the Members of the Organization which are not Parties to the 1978 Protocol copies of the resolution and its Annex.
+ANNEX
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973
+PROTOCOL I
+PROVISIONS CONCERNING REPORTS ON INCIDENTS INVOLVING HARMFUL SUBSTANCES (in accordance with Article 8 of the Convention)
+The existing text of Protocol I is replaced by the following:
+“Article I
+Duty to Report
+(1) The Master or other person having charge of any ship involved in an incident referred to in Article II of this Protocol shall report the particulars of such incident without delay and to the fullest extent possible in accordance with the provisions of this Protocol.
+(2) In the event of the ship referred to in paragraph (1) of this Article being abandoned, or in the event of a report from such a ship being incomplete or unobtainable, the owner, charterer, manager or operator of the ship, or their agent shall, to the fullest extent possible, assume the obligations placed upon the Master under the provisions of this Protocol.
+Article II
+When to Make Reports
+(1) The report shall be made when an incident involves:
+(a) a discharge or probable discharge of oil, or noxious liquid substances carried in bulk, resulting from damage to the ship or its equipment, or for the purpose of securing the safety of a ship or saving life at sea; or
+(b) a discharge or probable discharge of harmful substances in packaged form, including those in freight containers, portable tanks, road and rail vehicles and shipborne barges; or
+(c) a discharge during the operation of the ship of oil or noxious liquid substances in excess of the quantity or instantaneous rate permitted under the present Convention.
+(2) For the purposes of this Protocol:
+(a) “Oil” referred to in sub-paragraph 1(a) of this Article means oil as defined in Regulation 1(1) of Annex I of the Convention.
+(b) “Noxious liquid substances” referred to in sub-paragraph 1(a) of this Article means noxious liquid substances as defined in Regulation 1(6) of Annex II of the Convention.
+(c) “Harmful substances” in packaged form referred to in sub-paragraph 1(b) of this Article means substances which are identified as marine pollutants in the International Maritime Dangerous Goods (IMDG) Code.
+Article III
+Contents of Report
+Reports shall in any case include:
+(a) identity of ships involved;
+(b) time, type and location of incident;
+(c) quantity and type of harmful substance involved;
+(d) assistance and salvage measures.
+Article IV
+Supplementary Report
+Any person who is obliged under the provisions of this Protocol to send a report shall, when possible:
+(a) supplement the initial report, as necessary, and provide information concerning further developments; and
+(b) comply as fully as possible with requests from affected States for additional information.
+Article V
+Reporting Procedures
+(1) Reports shall be made by the fastest telecommunications channels available with the highest possible priority to the nearest coastal State.
+(2) In order to implement the provisions of this Protocol, Parties to the present Convention shall issue, or cause to be issued, regulations or instructions on the procedures to be followed in reporting incidents involving harmful substances, based on guidelines developed by the Organization.”
