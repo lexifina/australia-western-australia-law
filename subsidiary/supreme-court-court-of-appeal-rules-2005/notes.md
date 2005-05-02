@@ -1,0 +1,42 @@
+Notes
+This is a compilation of the Supreme Court (Court of Appeal) Rules 2005. The following table contains information about those rules.
+Compilation table
+Citation | Gazettal | Commencement
+Supreme Court (Court of Appeal) Rules 2005 | 29 Apr 2005 p. 1803-75 | 2 May 2005 (see r. 2)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Act3(1)
+appeal3(1)
+appeal notice3(1)
+appellant3(1)
+appellant’s grounds of appeal33(1)
+approved mediator47(1)
+CA matter3(1)
+civil appeal3(1)
+concluded3(1)
+costs66(1)
+criminal appeal3(1)
+decision3(1)
+examiner55(1)
+file3(1)
+Form3(1)
+interim order3(1)
+interlocutory civil appeal3(1)
+lawyer3(1)
+legal issue67(1)
+party3(1)
+primary court3(1)
+primary court case30(1)
+primary court’s decision3(1)
+primary court’s transcript3(1)
+provisional decision19(2)
+record3(1)
+refer to67(1)
+registrar3(1)
+reviewable decision14
+RSC3(1)
+sentence appeal3(1)
+single judge3(1)
+urgent appeal order3(1)
+working day3(1)
