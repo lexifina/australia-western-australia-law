@@ -1,0 +1,24 @@
+## Third Schedule
+[s. 24]
+Register of discoverers of ancient shipwrecks
+Name of Ship | Primary Discoverer/s | Secondary Discoverer/s
+Tryal | Eric Christiansen | Naoom Haimson
+ |  | David Nelley
+ |  | John MacPherson
+ |  | Alan Robinson
+Batavia | Henrietta Drake- Brockman | Greg Allen Graham Cramer
+ | Max Cramer | Bruce Melrose
+ | Hugh Edwards
+ | Dave Johnson
+Vergulde Draeck | Graeme Henderson | John Cowen
+ |  | Alan Henderson
+ |  | James Henderson
+ |  | Alan Robinson
+Zuytdorp | Tom Pepper | Tom Brady
+ | Phillip Playford | Graham Cramer
+ |  | Max Cramer
+ |  | Ada Drage
+Zeewyk | Harry Bingham | Max Cramer
+ | Tom Brady | Colin Jack-Hinton
+ | Hugh Edwards | Neil McLaghlan
+[Third Schedule inserted by No. 44 of 1997 s. 5.]
