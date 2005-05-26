@@ -7,6 +7,7 @@ Censorship Amendment Act 2003 | 30 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2 
 Reprint 1: The Censorship Act 1996 as at 28 Nov 2003 (includes amendments listed above)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Censorship Amendment Act 2006 Pt. 4 | 10 of 2006 | 8 May 2006 | 26 May 2005 (see s. 2(3))
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 Repealed by s. 153 of this Act.
 The Censorship Amendment Act 2003 s. 45-49 read as follows:
@@ -58,3 +59,30 @@ is taken to have been so approved or refused approval under the Commonwealth Act
 Section 141A of the Censorship Act 1996 as amended by this Act applies in relation to proceedings for offences commenced after the commencement of section 38 of this Act whether the offences were committed before or after the commencement of section 38.
 ”.
 The amendment in the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 16 is not included because the section it sought to amend had been repealed by No. 30 of 2003 s. 35 before the amendment purported to come into operation.
+The Censorship Amendment Act 2006 s. 36, which gives effect to Sch. 2, reads as follows:
+“
+36.Transitional
+Schedule 2 sets out transitional provisions.
+”.
+Schedule 2 reads as follows:
+“
+Schedule 2 — Transitional
+[s. 36]
+1.Transitional provisions for films and advertisements with older ratings
+If, just before Part 4 commenced, a film or advertisement had a classification of a type mentioned in column 2 of the following Table, in relation to an item, then, for the purposes of applying the Classification (Publications, Films and Computer Games) Enforcement Act 1996 after that Part commences, the film or advertisement is taken to have, and to have had at all times before that Part commenced when it had that classification, the classification of the type mentioned in column 3 of the Table in relation to the item.
+Table
+Film and advertisement classifications
+Column 1 Item | Column 2 Former type of classification | Column 3 New type of classification
+1 | M (15+) | M
+2 | MA (15+) | MA 15+
+3 | R | R 18+
+4 | X | X 18+
+2.Transitional provisions for computer games and advertisements with older ratings
+If, just before Part 4 commenced, a computer game or advertisement had a classification of a type mentioned in column 2 of the following Table, in relation to an item, then, for the purposes of applying the Classification (Publications, Films and Computer Games) Enforcement Act 1996 after that Part commences, the computer game or advertisement is taken to have, and to have had at all times before that Part commenced when it had that classification, the classification of the type mentioned in column 3 of the Table in relation to the item.
+Table
+Computer game and advertisement classifications
+Column 1 Item | Column 2 Former type of classification | Column 3 New type of classification
+1 | G (8+) | PG
+2 | M (15+) | M
+3 | MA (15+) | MA 15+
+”.
