@@ -1,0 +1,2 @@
+### Rule 37 — Distress signals
+When a vessel is in distress and requires assistance she shall use or exhibit the signals described in Annex IV to these regulations.

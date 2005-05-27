@@ -1,0 +1,22 @@
+### Rule 27 — Vessels not under command or restricted in their ability to manoeuvre
+(a) A vessel not under command shall exhibit:
+(i) two all-round red lights in a vertical line where they can best be seen;
+(ii) two balls or similar shapes in a vertical line where they can best be seen;
+(iii) when making way through the water, in addition to the lights prescribed in this paragraph, sidelights and a sternlight.
+(b) A vessel restricted in her ability to manoeuvre, except a vessel engaged in mine clearance operations, shall exhibit:
+(i) three all-round lights in a vertical line where they can best be seen. The highest and lowest of these lights shall be red and the middle light shall be white;
+(ii) three shapes in a vertical line where they can best be seen. The highest and lowest of these shapes shall be balls and the middle one a diamond;
+(iii) when making way through the water, a masthead light or lights, sidelights and a sternlight, in addition to the lights prescribed in subparagraph (i);
+(iv) when at anchor, in addition to the lights or shapes prescribed in subparagraphs (i) and (ii), the light, or lights or shape prescribed in Rule 30.
+(c) A power-driven vessel engaged in a towing operation which severely restricts the towing vessel and her tow in their ability to deviate from their course shall, in addition to the lights or shapes prescribed in Rule (24)(a), exhibit the lights or shapes prescribed in subparagraphs (b)(i) and (ii) of this Rule.
+(d) A vessel engaged in dredging or underwater operations, when restricted in her ability to manoeuvre, shall exhibit the lights and shapes prescribed in subparagraphs (b)(i), (ii) and (iii) of this Rule and shall in addition, when an obstruction exists, exhibit:
+(i) two all-round red lights or two balls in a vertical line to indicate the side on which the obstruction exists;
+(ii) two all-round green lights or two diamonds in a vertical line to indicate the side on which another vessel may pass;
+(iii) when at anchor, the lights or shapes prescribed in this paragraph instead of the lights or shape prescribed in Rule 30.
+(e) Whenever the size of a vessel engaged in diving operations makes it impracticable to exhibit all lights and shapes prescribed in paragraph (d) of this Rule, the following shall be exhibited:
+(i) three all-round lights in a vertical line where they can best be seen. The highest and lowest of these lights shall be red and the middle light shall be white;
+(ii) except where a vessel exhibits an International Code Flag “A” (diving flag) pursuant to regulation 19C of the Navigable Waters Regulations (WA), a rigid replica of the International Code flag “A” not less than 1 metre in height. Measures shall be taken to ensure its all-round visibility.
+(f) A vessel engaged in mine clearance operations shall in addition to the lights prescribed for a power-driven vessel in Rule 23 or to the lights or shape prescribed for a vessel at anchor in Rule 30 as appropriate, exhibit three all-round green lights or three balls. One of these lights or shapes shall be exhibited near the foremast head and one at each end of the fore yard. These lights or shapes indicate that it is dangerous for another vessel to approach within 1 000 metres of the mine clearance vessel.
+(g) Vessels of less than 12 metres in length, except those engaged in diving operations, shall not be required to exhibit the lights and shapes prescribed in this Rule.
+(h) The signals prescribed in this Rule are not signals of vessels in distress and requiring assistance. Such signals are contained in Annex IV to these regulations.
+[Rule 27 amended: Gazette 27 May 2005 p. 2298.]
