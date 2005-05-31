@@ -1,0 +1,5 @@
+Western Australia
+Street Alignment Act 1844
+An Act to provide for the alignment of streets in the several towns in the Colony of Western Australia.
+Preamble
+Whereas by the first section of an Act of Council passed in the fourth and fifth year of the reign of Her present Majesty Queen Victoria, intituled “An Act to provide for the improvement of Towns in the Colony of Western Australia,” the right of property in all streets, paths, canals, towing-paths, ferries, bridges and other thoroughfares within the limits of any townsite is vested in the respective trustees of each such town; and whereas in several instances a difficulty has been experienced in recognising the exact lines of the streets, because many of the surveyors’ marks by which such lines were originally defined have been either removed, destroyed or obliterated in the course of time; and whereas it is highly expedient to ascertain the precise limits of the streets so vested in each Town Trust respectively and to define the same by conspicuous and permanent marks, so as to enable the said Trustees to preserve the regularity of the streets and to prevent any encroachment thereon:
