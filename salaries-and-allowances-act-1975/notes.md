@@ -1,0 +1,55 @@
+Notes
+This reprint is a compilation as at 10 June 2005 of the Salaries and Allowances Act 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+Compilation table
+Short title | Number and year | Assent | Commencement
+Salaries and Allowances Tribunal Act 1975 | 27 of 1975 | 16 May 1975 | Act other than s. 13: 16 May 1975 (see s. 2(1)); s. 13: 8 Aug 1975 (see s. 2(2) and Gazette 12 Aug 1975 p. 2951)
+Salaries and Allowances Tribunal Act Amendment Act 1975 | 89 of 1975 | 20 Nov 1975 | 19 Sep 1975 (see s. 2)
+Salaries and Allowances Tribunal Act Amendment Act 1978 | 63 of 1978 | 22 Sep 1978 | 22 Sep 1978
+Salaries and Allowances Tribunal Act Amendment Act 1979 | 33 of 1979 | 11 Oct 1979 | 11 Oct 1979
+Salaries and Allowances Tribunal Amendment Act 1980 | 34 of 1980 | 5 Nov 1980 | 5 Nov 1980
+Acts Amendment and Repeal (Disqualification for Parliament) Act 1984 Pt. X | 78 of 1984 | 14 Nov 1984 | 1 Jul 1985 (see s. 2 and Gazette 17 May 1985 p. 1671)
+Salaries and Allowances Amendment Act 1986 | 34 of 1986 | 1 Aug 1986 | 1 Aug 1986 (see s. 2)
+Acts Amendment (Parliamentary Superannuation) Act 1986 Pt. II | 58 of 1986 | 26 Nov 1986 | 24 Dec 1986
+Salaries and Allowances Amendment Act 1987 | 13 of 1987 | 25 Jun 1987 | 25 Jun 1987 (see s. 2)
+Acts Amendment (Electoral Reform) Act 1987 Pt. VII | 40 of 1987 | 12 Jul 1987 | 30 Oct 1987 (see s. 2 and Gazette 30 Oct 1987 p. 3977)
+Acts Amendment (Parliamentary Superannuation) Act 1987 Pt. II | 103 of 1987 | 16 Dec 1987 | 16 Dec 1987 (see s. 2)
+Acts Amendment (Parliamentary Superannuation) and Transitional Arrangements Act 1988 Pt. 2 | 6 of 1988 | 30 Jun 1988 | 30 Jun 1988 (see s. 2(1))
+Reprint of the Salaries and Allowances Act 1975 as at 16 Nov 1988 (includes amendments listed above)
+Acts Amendment (Remuneration of Governor) Act 1989 Pt. 3 | 19 of 1989 | 1 Dec 1989 | 1 Dec 1989 (see s. 2(1))
+Acts Amendment (Parliamentary Superannuation) Act 1989 Pt. 5 | 31 of 1989 | 15 Dec 1989 | 15 Dec 1989 (see s. 2)
+Acts Amendment (Parliamentary Secretaries) Act 1990 Pt. 3 | 38 of 1990 | 8 Nov 1990 | 8 Nov 1990 (see s. 2)
+Salaries and Allowances Amendment Act 1991 | 49 of 1991 | 17 Dec 1991 | 17 Dec 1991 (see s. 2)
+Salaries and Allowances Amendment Act 1992 | 68 of 1992 | 11 Dec 1992 | 11 Dec 1992 (see s. 2)
+Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
+Acts Amendment (Official Corruption Commission) Act 1994 s. 20 | 14 of 1994 | 22 Apr 1994 | 24 May 1994 (see s. 2 and Gazette 24 May 1994 p. 2193)
+Reprint of the Salaries and Allowances Act 1975 as at 26 Apr 1994 (includes amendments listed above)
+Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
+Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
+Industrial Legislation Amendment Act 1995 s. 37 | 1 of 1995 | 9 May 1995 | 9 May 1995 (see s. 2(1))
+Salaries and Allowances Amendment Act 1995 | 45 of 1995 | 18 Oct 1995 | 18 Oct 1995 (see s. 2)
+Official Corruption Commission Amendment Act 1996 s. 26 | 29 of 1996 | 28 Aug 1996 | 30 Aug 1996 (see s. 2 and Gazette 30 Aug 1996 p. 4365)
+Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
+Acts Amendment (Auxiliary Judges) Act 1997 Pt. 9 | 23 of 1997 | 18 Sep 1997 | 18 Sep 1997 (see s. 2)
+Equal Opportunity Amendment Act (No. 3) 1997 s. 8 | 42 of 1997 | 9 Dec 1997 | 6 Jan 1998 (see s. 2(1))
+Reprint of the Salaries and Allowances Act 1975 as at 8 Sep 2000 (includes amendments listed above)
+Electoral Amendment Act 2000 s. 26 and 57 | 36 of 2000 | 10 Oct 2000 | 21 Oct 2000 (see s. 2 and Gazette 20 Oct 2000 p. 5899
+Parliamentary Superannuation Legislation Amendment Act 2000 Pt. 3 | 37 of 2000 | 10 Oct 2000 | 10 Oct 2000 (see s. 2)
+Salaries and Allowances Amendment Act 2001 | 22 of 2001 | 26 Nov 2001 | 26 Nov 2001 (see s. 2)
+Corruption and Crime Commission Act 2003 s. 62 | 48 of 2003 | 3 Jul 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 17 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
+Corruption and Crime Commission Amendment and Repeal Act 2003 s. 74(2) | 78 of 2003 | 22 Dec 2003 | 7 Jul 2004 (see s. 2 and Gazette 6 Jul 2004 p. 2697)
+Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
+Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
+Electoral Amendment and Repeal Act 2005 s. 10 | 1 of 2005 | 20 May 2005 | 20 May 2005 (see s. 2)
+Reprint 4: The Salaries and Allowances Act 1975 as at 10 Jun 2005 (includes amendments listed above)
+The provision in this Act repealing the Parliamentary Salaries and Allowances Act 1967 was repealed by the Parliamentary Superannuation Legislation Amendment Act 2000 s. 22.
+Now see section 52 of the Interpretation Act 1984.
+The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
+“
+6.Transitional provision
+(1) Section 6C of the principal Act applies whether or not the offence was committed before the day when this Act commences and whether or not the person was dealt with before that day, but if the person was dealt with before that day the disqualification takes effect on that day instead of the day when the person was dealt with.
+(2) For the purposes of subsection (1) a person is dealt with —
+(a) if the offence was a Schedule 1 offence committed by the person while holding public office, on the day when the person is convicted;
+(b) in any other case, on the day when the person was sentenced.
+”.
+Now known as the Salaries and Allowances Act 1975; short title changed (see note under s. 1).
