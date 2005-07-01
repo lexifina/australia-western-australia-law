@@ -1,0 +1,87 @@
+Notes
+This is a compilation of the Jetties Regulations 1940 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+Compilation table
+Citation | Gazettal | Commencement
+Jetties Act Regulations 1940 | 6 Sep 1940 p. 1622-40 | 6 Sep 1940 (see Gazette 6 Sep 1940 p. 1622)
+Untitled regulations | 16 Apr 1957 p. 1127 | 16 Apr 1957
+Untitled regulations | 12 Jul 1957 p. 2269-78 | 12 Jul 1957
+Untitled regulations | 17 Mar 1960 p. 777-92 | 17 Mar 1960
+Untitled regulations | 28 Sep 1960 p. 2987-8 | 28 Sep 1960
+Reprint of the Jetties Act Regulations 1940 authorised 21 Jul 1961 in Gazette 1 Aug 1961 p. 2323-68 (includes amendments listed above)
+Untitled regulations | 26 Oct 1962 p. 3482-3 | 26 Oct 1962
+Untitled regulations | 20 Dec 1962 p. 4054 | 20 Dec 1962
+Untitled regulations | 7 Feb 1963 p. 570 | 7 Feb 1963
+Untitled regulations | 16 Sep 1963 p. 2828-31 | 16 Sep 1963
+Untitled regulations | 23 Jun 1964 p. 2500 | 23 Jun 1964
+Untitled regulations | 11 Aug 1964 p. 2880 | 11 Aug 1964
+Untitled regulations | 9 Dec 1964 p. 3907 | 9 Dec 1964
+Untitled regulations | 8 Feb 1965 p. 467 | 8 Feb 1965
+Untitled regulations | 12 May 1965 p. 1464 | 12 May 1965
+Untitled regulations | 26 May 1965 p. 1614 | 26 May 1965
+Untitled regulations | 10 Jun 1965 p. 1726 | 10 Jun 1965
+Untitled regulations | 1 Sep 1965 p. 2590-6 | 1 Sep 1965
+Untitled regulations | 17 Mar 1966 p. 731 | 17 Mar 1966
+Untitled regulations | 14 Apr 1966 p. 918 | 14 Apr 1966
+Untitled regulations | 4 Jun 1968 p. 1684-93 | 4 Jun 1968
+Untitled regulations | 30 Dec 1968 p. 3949 | 30 Dec 1968
+Untitled regulations | 24 Nov 1972 p. 4486-91 | 24 Nov 1972
+Untitled regulations | 15 Jun 1973 p. 2237-42 (erratum 13 Dec 1974 p. 5544) | 1 Jul 1973
+Untitled regulations | 19 Oct 1973 p. 3818-19 | 19 Oct 1973
+Untitled regulations | 9 Nov 1973 p. 4192 | 9 Nov 1973
+Reprint of the Jetties Act Regulations 1940 authorised 29 Nov 1974 in Gazette 10 Dec 1974 p. 5291-318 (includes amendments listed above)
+Untitled regulations | 22 Aug 1975 p. 3040-3 | 22 Aug 1975
+Untitled regulations | 20 Feb 1976 p. 484-7 | 20 Feb 1976
+Untitled regulations | 17 Sep 1976 p. 3463 | 17 Sep 1976
+Untitled regulations | 13 Jan 1978 p. 149-52 | 13 Feb 1978
+Untitled regulations r. 6 and 7 | 31 Mar 1978 p. 989-90 | 31 Mar 1978
+Untitled regulations | 1 Dec 1978 p. 4537-41 | 1 Jan 1979
+Untitled regulations | 13 Jul 1979 p. 1915-16 | 13 Aug 1979
+Untitled regulations | 2 Nov 1979 p. 3467 | 2 Nov 1979
+Untitled regulations | 20 Jun 1980 p. 1834-8 | 1 Jul 1980 (see r. 2)
+Jetties Act Amendment Regulations 1980 | 28 Nov 1980 p. 4050 | 28 Nov 1980
+Jetties Act Amendment Regulations 1981 | 6 Feb 1981 p. 555 | 6 Feb 1981
+Jetties Act Amendment Regulations (No. 2) 1981 | 26 Jun 1981 p. 2410-11 | 1 Jul 1981 (see r. 2)
+Jetties Act Amendment Regulations (No. 3) 1981 | 26 Jun 1981 p. 2413 (erratum 16 Oct 1981 p. 4337) | 1 Jul 1981 (see r. 2)
+Jetties Act Amendment Regulations (No. 4) 1981 | 14 Aug 1981 p. 3340 | 14 Aug 1981
+Jetties Act Amendment Regulations 1982 | 9 Jul 1982 p. 2509-11 | 9 Jul 1982
+Jetties Act Amendment Regulations 1983 | 5 Aug 1983 p. 2834-6 | 5 Aug 1983
+Jetties Act Amendment Regulations (No. 2) 1983 | 23 Sep 1983 p. 3817 | 1 Oct 1983 (see r. 2)
+Jetties Act Amendment Regulations (No. 3) 1983 | 25 Nov 1983 p. 4669-70 | 25 Nov 1983
+Jetties Act Amendment Regulations 1984 | 6 Jul 1984 p. 2028-9 | 6 Jul 1984
+Jetties Act Amendment Regulations (No. 2) 1984 | 7 Sep 1984 p. 2859 | 7 Sep 1984
+Jetties Act Amendment Regulations 1985 | 30 Aug 1985 p. 3077-9 | 2 Sep 1985 (see r. 3)
+Jetties Amendment Regulations 1986 | 8 Aug 1986 p. 2828-30 | 8 Aug 1986
+Jetties Amendment Regulations 1987 | 16 Oct 1987 p. 3893-5 | 16 Oct 1987
+Jetties Amendment Regulations 1988 | 14 Oct 1988 p. 4164-6 | 14 Oct 1988
+Jetties Amendment Regulations 1989 | 19 May 1989 p. 1493-6 | 19 May 1989
+Jetties Amendment Regulations (No. 2) 1989 | 30 Jun 1989 p. 1917-20 | 1 Jul 1989 (see r. 2)
+Jetties Amendment Regulations 1990 | 1 Aug 1990 p. 3633-40 | 1 Aug 1990 (see r. 2)
+Reprint of the Jetties Act Regulations 1940 as at 29 Nov 1990 in Gazette 13 Dec 1990 p. 6069-116 (includes amendments listed above)
+Jetties Amendment Regulations 1991 | 26 Jul 1991 p. 3920-4 | 1 Aug 1991 (see r. 2)
+Jetties Amendment Regulations 1992 | 30 Jun 1992 p. 2892-9 | 1 Jul 1992 (see r. 2)
+Jetties Amendment Regulations 1993 | 7 May 1993 p. 2361 | 7 May 1993
+Jetties Amendment Regulations (No. 2) 1993 | 29 Jun 1993 p. 3191-7 | 1 Jul 1993 (see r. 2)
+Jetties Amendment Regulations 1994 | 14 Jun 1994 p. 2475-82 | 1 Jul 1994 (see r. 2)
+Jetties Amendment Regulations 1995 | 30 Jun 1995 p. 2698-705 | 1 Jul 1995 (see r. 2)
+Jetties Amendment Regulations 1996 | 25 Jun 1996 p. 2981-91 | 1 Jul 1996 (see r. 2)
+Jetties Amendment Regulations 1997 | 13 May 1997 p. 2349 | 13 May 1997
+Jetties Amendment Regulations (No. 2) 1997 | 27 Jun 1997 p. 3151-64 | 1 Jul 1997 (see r. 2)
+Miscellaneous Amendments Regulations 1997 r. 2 | 6 Jan 1998 p. 33 | 6 Jan 1998
+Jetties Amendment Regulations 1998 | 12 May 1998 p. 2775-90 | 1 Jul 1998 (see r. 2)
+Jetties Amendment Regulations 1999 | 22 Jun 1999 p. 2678-89 | 1 Jul 1999 (see r. 2)
+Reprint of the Jetties Act Regulations 1940 as at 10 Dec 1999 (includes amendments listed above)
+Jetties Amendment Regulations 2000 | 20 Jun 2000 p. 3043-60 | 1 Jul 2000 (see r. 2)
+Jetties Amendment Regulations (No. 2) 2000 | 18 Aug 2000 p. 4790 | 18 Aug 2000
+Jetties Amendment Regulations 2001 | 27 Jul 2001 p. 3813-28 | 1 Aug 2001 (see r. 2)
+Jetties Amendment Regulations 2002 | 14 Jun 2002 p. 2799-800 | 14 Jun 2002
+Jetties Amendment Regulations (No. 2) 2002 | 14 Jun 2002 p. 2801-18 | 1 Jul 2002 (see r. 2)
+Jetties Amendment Regulations 2003 | 27 Jun 2003 p. 2502-19 | 1 Jul 2003 (see r. 2)
+Jetties Amendment Regulations (No. 2) 2004 | 25 Jun 2004 p. 2270-87 | 1 Jul 2004 (see r. 2)
+Jetties Amendment Regulations (No. 3 ) 2004 | 24 Aug 2004 p. 3658-9 | 24 Aug 2004
+Jetties Amendment Regulations 2004 | 30 Dec 2004 p. 6953 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
+Reprint 5: The Jetties Regulations 1940 as at 15 Apr 2005 (includes amendments listed above)
+Jetties Amendment Regulations (No. 2) 2005 | 24 Jun 2005 p. 2813-47 | 1 Jul 2005 (see r. 2)
+Repealed by the Explosives and Dangerous Goods Act 1961.
+Formerly referred to the Jetties Act Regulations 1940 the citation of which was changed by the Jetties Amendment Regulations (No. 3) 2003 r. 3. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
+Now known as the Jetties Regulations 1940; citation changed (see note under r. 1).
+Regulation 10 disallowed on 19 Oct 1940.
