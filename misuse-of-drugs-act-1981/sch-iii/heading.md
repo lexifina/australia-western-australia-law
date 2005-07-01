@@ -1,0 +1,150 @@
+## Schedule III
+[Section 9]
+Amounts of prohibited drugs determining court of trial
+Item | Prohibited drug | Amount (in grams unless otherwise stated)
+1. | ACETORPHINE | 6.0
+2. | ACETYLDIHYDROCODEINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 6.0
+3. | ACETYLMETHADOL | 6.0
+4. | ALLOBARBITONE | 30.0
+5. | ALLYLBARBITURIC ACID | 30.0
+6. | ALLYLPRODINE | 6.0
+7. | ALPHACETYLMETHADOL | 30.0
+8. | ALPHAMEPRODINE | 0.6
+9. | ALPHAMETHADOL | 0.6
+10. | ALPHAPRODINE | 75.0
+11. | AMPHETAMINE | 4.0
+12. | AMYLOBARBITONE | 30.0
+13. | ANILERIDINE | 75.0
+14. | APROBARBITONE | 30.0
+15. | BARBITONE | 30.0
+16. | BENZETHIDINE | 30.0
+17. | BENZYLMORPHINE | 15.0
+18. | BETACETYLMETHADOL | 15.0
+19. | BETAMEPRODINE | 15.0
+20. | BETAMETHADOL | 15.0
+21. | BETAPRODINE | 15.0
+22. | BEZITRAMIDE | 15.0
+23. | BUFOTENINE | 6.0
+24. | BUTOBARBITONE | 30.0
+25. | CANNABIS | 500.0
+26. | CANNABIS RESIN | 40.0
+27. | CANNABIS (in cigarette form) | 400 cigarettes each containing any portion of cannabis
+28. | CLONITAZENE | 15.0
+29. | COCAINE | 4.0
+30. | CODEINE (except when included in Schedule 2, 3 or 4 in Appendix A to the Poisons Act 1964) | 30.0
+31. | CODEINE-N-OXIDE | 30.0
+32. | CODOXIME | 30.0
+33. | CYCLOBARBITONE | 30.0
+34. | DESOMORPHINE | 6.0
+35. | DEXAMPHETAMINE | 6.0
+36. | DEXTROMORAMIDE | 3.0
+37. | DIAMPROMIDE | 15.0
+38. | DIETHYLTHIAMBUTENE | 15.0
+39. | DIFENOXIN (excluding preparations containing, per dosage unit, not more than 0.5 mg of difenoxin and a quantity of atropine sulphate equivalent to at least 5% of the dose of difenoxin) | 30.0
+40. | DIHYDROCODEINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 30.0
+41. | DIHYDROMORPHINE | 30.0
+42. | DIMENOXADOL | 30.0
+43. | DIMEPHEPTANOL | 30.0
+44. | 2,5-DIMETHOXY-4-BROMOAMPHETAMINE | 0.25
+45. | 2,5-DIMETHOXY-4-METHYLAMPHETAMINE | 0.25
+46. | DIMETHYLTHIAMBUTENE | 60.0
+47. | DIMETHYLTRYPTAMINE | 6.0
+48. | DIOXAPHETYL BUTYRATE | 6.0
+49. | DIPHENOXYLATE (excluding preparations containing, per dosage unit, not more than 2.5 mg of diphenoxylate calculated as base, and a quantity of atropine sulphate equivalent to at least 1% of the dose of diphenoxylate) | 6.0
+50. | DIPIPANONE | 30.0
+51. | DROTEBANOL | 0.3
+52. | ECGONINE, ITS ESTERS AND DERIVATIVES which are convertible to ECGONINE AND COCAINE | 30.0
+52A. | EPHEDRINE | 4.0
+53. | ETHYLMETHYLTHIAMBUTENE | 30.0
+54. | ETHYLMORPHINE (and substances containing more than 2.5% of ethylmorphine) | 6.0
+55. | ETONITAZENE | 15.0
+56. | ETORPHINE | 15.0
+57. | ETOXERIDINE | 15.0
+58. | FENTANYL | 0.015
+59. | FURETHIDINE | 3.0
+60. | HALLUCINOGENIC SUBSTANCES (structurally derived from methoxyphenethylamine) | 0.25
+61. | HEPTABARBITONE | 30.0
+62. | HEXOBARBITONE | 30.0
+63. | HYDROCODONE | 6.0
+64. | HYDROMORPHINOL | 6.0
+65. | HYDROMORPHONE | 6.0
+66. | HYDROXYPETHIDINE | 15.0
+67. | ISOMETHADONE | 0.6
+68. | KETOBEMIDONE | 0.6
+69. | LEVOMETHORPHAN | 3.0
+70. | LEVOMORAMIDE | 6.0
+71. | LEVOPHENACYLMORPHAN | 6.0
+72. | LEVORPHANOL | 3.0
+73. | LYSERGIC ACID DIETHYLAMIDE (LSD) | 0.004
+74. | MESCALINE | 22.5
+75. | METAZOCINE | 21.0
+76. | METHADONE | 0.6
+77. | METHADONE-INTERMEDIATE | 0.6
+78. | METHAQUALONE | 150.0
+79. | METHARBITONE | 30.0
+80. | METHYLAMPHETAMINE | 6.0
+81. | METHYLDESORPHINE | 6.0
+82. | METHYLDIHYDROMORPHINE | 6.0
+82A. | 3, 4-METHYLENEDIOXYAMPHETAMINE (MDA) | 4.0
+82B. | 3, 4-METHYLENEDIOXY-N, ALPHA-DIMETHYLPHENYLETHYLAMINE (MDMA) | 4.0
+83. | METHYLPHENIDATE | 6.0
+84. | METHYLPHENOBARBITONE | 30.0
+85. | 1-METHYL-4-PHENYLPIPERIDINE- 4-CARBOXYLIC ACID ESTERS | 6.0
+86. | METOPON | 6.0
+87. | MORAMIDE-INTERMEDIATE | 3.0
+88. | MORPHERIDINE | 6.0
+89. | MORPHINE | 6.0
+90. | MORPHINE DERIVATIVES (not specifically included elsewhere in this Schedule or in any Schedule in Appendix A to the Poisons Act 1964) | 6.0
+91. | MORPHINE METHOBROMIDE AND OTHER PENTAVALENT NITROGEN MORPHINE DERIVATIVES | 6.0
+92. | MORPHINE-N-OXIDE | 6.0
+93. | MORPHINE SUBSTITUTES (not specifically included elsewhere in this Schedule) | 6.0
+94. | MYROPHINE | 60.0
+95. | NEALBARBITONE | 30.0
+96. | NICOCODINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 6.0
+97. | NICODICODINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 6.0
+98. | NICOMORPHINE | 6.0
+99. | NORACYMETHADOL | 6.0
+100. | NORCODEINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 6.0
+101. | NORLEVORPHANOL | 6.0
+102. | NORMETHADONE | 1.5
+103. | NORMORPHINE | 60.0
+104. | NORPIPANONE | 30.0
+105. | OPIUM | 40.0
+106. | OXYCODONE | 15.0
+107. | OXYMORPHONE | 6.0
+108. | PENTAZOCINE | 30.0
+109. | PENTOBARBITONE | 30.0
+110. | PETHIDINE | 15.0
+111. | PETHIDINE-INTERMEDIATE A | 15.0
+112. | PETHIDINE-INTERMEDIATE B | 15.0
+113. | PETHIDINE-INTERMEDIATE C | 15.0
+114. | PHENADOXONE | 30.0
+115. | PHENAMPROMIDE | 30.0
+116. | PHENAZOCINE | 3.0
+117. | PHENCYCLIDINE | 0.004
+118. | PHENMETRAZINE | 6.0
+119. | PHENOBARBITONE | 30.0
+120. | PHENOMORPHAN | 15.0
+121. | PHENOPERIDINE | 3.0
+122. | PHENYLMETHYLBARBITURIC ACID | 30.0
+123. | PHOLCODINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 15.0
+124. | PIMINODINE | 30.0
+125. | PIRITRAMIDE | 3.0
+126. | PROHEPTAZINE | 3.0
+127. | PROPERIDINE | 75.0
+128. | PROPIRAM | 12.0
+129. | PSILOCIN | 0.3
+130. | PSILOCYBIN | 0.3
+131. | PSYCHOTOMIMETIC SUBSTANCES (structurally derived from methoxyphenethylamine) | 0.25
+132. | QUINALBARBITONE | 30.0
+133. | RACEMETHORPHAN | 6.0
+134. | RACEMORAMIDE | 3.0
+135. | RACEMORPHAN | 6.0
+136. | SECBUTOBARBITONE | 30.0
+137. | TALBUTAL | 30.0
+138. | TETRAHYDROCANNABINOLS | 4.0
+139. | THEBACON | 6.0
+140. | THEBAINE | 6.0
+141. | TRIMEPERIDINE | 30.0
+142. | VINBARBITONE | 30.0
+[Schedule III amended by No. 48 of 1995 s. 43; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041.]
