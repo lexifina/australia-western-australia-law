@@ -1,0 +1,35 @@
+## Schedule 1 — Licence terms and conditions
+[s. 11]
+A licence may include provisions —
+(a)if the licence is a generation licence or integrated regional licence, requiring the licensee to prepare and implement strategies for the management of greenhouse gas emissions;
+(b)if the licence is a generation licence, a retail licence or an integrated regional licence, requiring the licensee to maintain and publish specified records in respect of greenhouse gas emissions caused by, or associated with, the generation of electricity supplied by the licensee;
+(c)if the licence is a retail licence or an integrated regional licence, requiring the licensee to prepare and implement strategies to encourage the use of renewable energy;
+(d)if the licence is a retail licence or an integrated regional licence, requiring the licensee to give information to customers on matters relating to electricity consumption, electricity conservation and the efficient use of electricity;
+(e)if the licence is a retail licence or an integrated regional licence, specifying methods or principles to be applied by the licensee in determining fees or charges payable by customers of a class prescribed under section 132(1)(a) (“tariff customers”);
+(f)if the licence is a retail licence or an integrated regional licence, requiring the licensee, when seeking payment by tariff customers of a fee or charge, to specify —
+(i)the portion of the fee or charge that is attributable to the cost of generating the electricity supplied;
+(ii)the portion of the fee or charge that is attributable to the cost of transporting that electricity through a transmission system; and
+(iii)the portion of the fee or charge that is attributable to the cost of transporting that electricity through a distribution system;
+(g)if the licence is a retail licence or an integrated regional licence, regulating the extent to which the licensee’s customers may be of a particular class;
+(h)requiring the licensee to maintain specified accounting records;
+(i)preventing the licensee from engaging in or undertaking specified business activities or any other business in the electricity industry in the State;
+(j)specifying methods or standards to be applied in supplying electricity under the authority of the licence;
+(k)requiring the licensee to observe specified codes (including any codes issued by the Authority or the Minister under section 39) with such modifications or exemptions as may be determined by the Authority or the Minister, as the case may be;
+(l)specifying procedures for surrender of the licence;
+(m)requiring the licensee to provide to the Authority, in the manner and form determined by the Authority, specified information on any matter relevant to the operation or enforcement of the licence, the operation of the licensing scheme provided for in Part 2, or the performance of the Authority’s functions under that Part;
+(n)requiring the licensee to lodge with the Authority securities in an amount and of a nature acceptable to the Authority securing the performance by the licensee of the requirements, responsibilities and obligations under the licence;
+(o)relating to the performance of functions by the licensee including —
+(i)the range of functions that may be performed by the licensee;
+(ii)performance criteria to be met by the licensee; and
+(iii)community service obligations, that is obligations that are not commercially justified, to be discharged by the licensee;
+(p)requiring the licensee to publish specified information in relation to its performance under the licence;
+(q)relating to obligations of the licensee with respect to public authorities and other licensees;
+(r)regulating the construction or operation, or both, of any generating works, transmission system or distribution system to which the licence applies;
+(s)relating to the disposal or transfer of property, rights or liabilities of a specified kind either during the term of the licence or on or after its expiration by effluxion of time including provisions —
+(i)prohibiting any disposal or transfer of property except with the approval of a specified person;
+(ii)prohibiting the giving of any encumbrance over specified property except with the approval of the Authority;
+(iii)requiring the transfer of property, rights or liabilities of a specified kind to a specified person on or within a specified time after the expiration of the licence;
+(iv)with respect to the consideration to be provided in respect of any disposal or transfer;
+(v)with respect to the arbitration of disputes that arise in connection with any disposal or transfer; and
+(vi)of a supplementary, consequential or transitional nature in relation to any disposal or transfer.
+[Schedule 1 amended by No. 33 of 2004 s. 36.]
