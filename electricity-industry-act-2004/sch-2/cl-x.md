@@ -1,0 +1,22 @@
+### Objectives stated
+The objectives referred to in section 93 are that —
+(a) all licensees who are required to be members of the scheme —
+(i) are members of the scheme;
+(ii) have agreed to be bound by decisions and directions of the electricity ombudsman under the scheme; and
+(iii) as members, are so bound;
+(b) the scheme will be appropriately funded by the licensees who are required to be members;
+(c) the scheme has satisfactory arrangements in place to deal with all disputes and complaints referred to in section 92(1);
+(d) the electricity ombudsman will be able to operate independently of all licensees in performing his or her functions under the scheme;
+(e) the scheme will be accessible to customers;
+(f) membership of the scheme will —
+(i) be accessible to all potential members; and
+(ii) provide appropriate representation for all members on the governing body of the scheme;
+(g) without limiting any other application of the scheme, the scheme will apply to all disputes and complaints referred to in section 92(1);
+(h) the scheme will operate expeditiously and without cost to customers;
+(i) the scheme will satisfy best practice benchmarks for schemes of a similar kind, both in terms of its constitution and procedure and in terms of its day to day operations;
+(j) the scheme will provide for a monetary limit on claims covered by the scheme of an amount or amounts approved by the Authority;
+(k) the scheme will maintain the capacity of the electricity ombudsman, where appropriate, to refer disputes or complaints to other forums; and
+(l) the scheme will require the electricity ombudsman to inform the Authority of substantial breaches of —
+(i) any licence condition; or
+(ii) the code of conduct under Part 6,
+of which the ombudsman becomes aware.
