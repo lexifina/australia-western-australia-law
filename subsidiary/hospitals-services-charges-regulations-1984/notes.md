@@ -1,0 +1,96 @@
+Notes
+This is a compilation of the Hospitals (Services Charges) Regulations 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+Compilation table
+Citation | Gazettal | Commencement
+Hospitals (Services Charges) Regulations 1984 | 27 Jan 1984 p. 231-4 | 1 Feb 1984 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations 1984 | 19 Apr 1984 p. 1107 | 3 May 1984 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 2) 1984 | 15 Jun 1984 p. 1633 | 1 Jul 1984 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 3) 1984 | 7 Sep 1984 p. 2854 | 7 Sep 1984
+Hospitals (Services Charges) Amendment Regulations (No. 4) 1984 | 26 Oct 1984 p. 3450 | 1 Nov 1984 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations 1985 | 25 Jan 1985 p. 289 | 25 Jan 1985
+Hospitals (Services Charges) Amendment Regulations (No. 2) 1985 | 25 Jan 1985 p. 290 | 1 Feb 1985 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 3) 1985 | 7 Jun 1985 p. 1941 | 13 Jun 1985 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 4) 1985 | 14 Jun 1985 p. 2142 | 1 Jul 1985 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 5) 1985 | 30 Aug 1985 p. 3072-4 | 1 Sep 1985 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 6) 1985 | 27 Sep 1985 p. 3809 | 1 Oct 1985 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 7) 1985 | 1 Nov 1985 p. 4200 | 7 Nov 1985 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations 1986 | 24 Apr 1986 p. 1475-6 | 1 May 1986 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 2) 1986 | 1 Aug 1986 p. 2729 | 1 Aug 1986 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 3) 1986 | 26 Sep 1986 p. 3686-7 | 1 Oct 1986 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 4) 1986 | 21 Nov 1986 p. 4269 | 21 Nov 1986 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 5) 1986 | 19 Dec 1986 p. 4873 | 25 Dec 1986 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations 1987 | 12 Jun 1987 p. 2322 | 18 Jun 1987 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 2) 1987 | 24 Jul 1987 p. 2828 | 1 Aug 1987 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 3) 1987 | 21 Aug 1987 p. 3228 | 1 Sep 1987 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 4) 1987 | 11 Dec 1987 p. 4378-9 | 17 Dec 1987 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations 1988 | 10 Jun 1988 p. 1902 | 16 Jun 1988 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations 1989 | 25 Aug 1989 p. 2844 | 25 Aug 1989 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 2) 1989 | 1 Sep 1989 p. 3020 | 1 Sep 1989 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 3) 1989 | 16 Nov 1989 p. 4087 | 16 Nov 1989 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 4) 1989 | 14 Dec 1989 p. 4511 | 14 Dec 1989
+Hospitals (Services Charges) Amendment Regulations 1990 | 12 Apr 1990 p. 1912 | 19 Apr 1990 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 2) 1990 | 25 May 1990 p. 2397 | 1 Jun 1990 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 3) 1990 | 21 Jun 1990 p. 2835 | 21 Jun 1990
+Hospitals (Services Charges) Amendment Regulations (No. 4) 1990 | 4 Sep 1990 p. 4618 (erratum 14 Sep 1990 p. 4776) | 4 Sep 1990 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 5) 1990 | 14 Sep 1990 p. 4772 | 20 Sep 1990 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations 1991 | 25 Jan 1991 p. 280 | 25 Jan 1991
+Hospitals (Services Charges) Amendment Regulations (No. 2) 1991 | 22 Feb 1991 p. 875-6 (erratum 1 Mar 1991 p. 976) | 1 Mar 1991 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 3) 1991 | 22 Mar 1991 p. 1223 | 28 Mar 1991 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 4) 1991 | 28 Jun 1991 p. 3150-1 | 1 Jul 1991 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 5) 1991 | 18 Oct 1991 p. 5344-5 | 28 Oct 1991 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations 1992 | 24 Dec 1991 p. 6431-3 | 1 Jan 1992 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 2) 1992 | 31 Jan 1992 p. 488-9 | 1 Feb 1992 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 3) 1992 | 20 Mar 1992 p. 1254 | 26 Mar 1992 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 4) 1992 | 26 Jun 1992 p. 2690-2 | 1 Jul 1992 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations 1993 | 11 Feb 1993 p. 1204 | 11 Feb 1993 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 2) 1993 | 30 Mar 1993 p. 1910 | 30 Mar 1993 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 3) 1993 | 9 Jul 1993 p. 3336-41 | 15 Jul 1993 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 4) 1993 | 15 Oct 1993 p. 5522 | 15 Oct 1993
+Hospitals (Services Charges) Amendment Regulations 1994 | 22 Mar 1994 p. 1231 | 24 Mar 1994 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 2) 1994 | 24 Jun 1994 p. 2871-6 | 1 Jul 1994 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 4) 1994 | 30 Sep 1994 p. 4973-4 | 30 Sep 1994 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 3) 1994 | 30 Sep 1994 p. 4975-7 | 1 Nov 1994 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 5) 1994 | 28 Oct 1994 p. 5474 | 28 Oct 1994
+Reprint of the Hospitals (Services Charges) Regulations 1984 as at 14 Feb 1995 (includes amendments listed above)
+Hospitals (Services Charges) Amendment Regulations 1995 | 31 Mar 1995 p. 1156 | 31 Mar 1995 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 2) 1995 | 27 Jun 1995 p. 2552 | 1 Jul 1995 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 3) 1995 | 17 Oct 1995 p. 4842 | 17 Oct 1995
+Hospitals (Services Charges) Amendment Regulations 1996 | 2 Apr 1996 p. 1580-1 | 4 Apr 1996 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 2) 1996 | 17 May 1996 p. 2050-1 | 17 May 1996
+Hospitals (Services Charges) Amendment Regulations (No. 3) 1996 | 28 Jun 1996 p. 3030-2 | 1 Jul 1996 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 4) 1996 | 15 Oct 1996 p. 5446-7 | 17 Oct 1996 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations 1997 | 4 Feb 1997 p. 695 (corrigendum 7 Feb 1997 p. 727) | 4 Feb 1997
+Hospitals (Services Charges) Amendment Regulations (No. 2) 1997 | 27 Feb 1998 p. 1033 | 27 Feb 1998
+Hospitals (Services Charges) Amendment Regulations 1998 | 30 Jun 1998 p. 3532-3 | 30 Jun 1998
+Hospitals (Services Charges) Amendment Regulations (No. 2) 1998 | 22 Jan 1999 p. 215 | 22 Jan 1999
+Hospitals (Services Charges) Amendment Regulations 1999 | 28 May 1999 p. 2148 | 28 May 1999
+Hospitals (Services Charges) Amendment Regulations (No. 2) 1999 | 25 Jun 1999 p. 2739-40 | 1 Jul 1999 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 3) 1999 | 9 Nov 1999 p. 5685 | 9 Nov 1999
+Reprint of the Hospitals (Services Charges) Regulations 1984 as at 26 Nov 1999 (includes amendments listed above)
+Hospitals (Services Charges) Amendment Regulations (No. 2) 2000 | 30 Jun 2000 p. 3414-15 | 1 Jul 2000 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations 2000 | 30 Jun 2000 p. 3415-16 | 1 Jul 2000 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 3) 2000 | 16 Jan 2001 p. 335 | 16 Jan 2001
+Hospitals (Service Charges) Amendment Regulations 2001 | 30 Jan 2001 p. 616-17 | 30 Jan 2001
+Hospitals (Services Charges) Amendment Regulations (No. 2) 2001 | 4 May 2001 p. 2241 | 4 May 2001
+Hospitals (Services Charges) Amendment Regulations (No. 3) 2001 | 25 Sep 2001 p. 5288 | 25 Sep 2001
+Hospitals (Services Charges) Amendment Regulations (No. 4) 2001 | 12 Oct 2001 p. 5562 | 12 Oct 2001
+Reprint of the Hospitals (Services Charges) Regulations 1984 as at 7 Dec 2001 (includes amendments listed above)
+Hospitals (Services Charges) Amendment Regulations 2002 | 18 Jun 2002 p. 2857 | 18 Jun 2002
+Hospitals (Services Charges) Amendment Regulations (No. 2) 2002 | 18 Jun 2002 p. 2858-9 | 18 Jun 2002
+Hospitals (Services Charges) Amendment Regulations (No. 3) 2002 | 1 Nov 2002 p. 5368-9 | 1 Nov 2002
+Hospitals (Services Charges) Amendment Regulations 2003 | 28 Feb 2003 p. 663-4 | 28 Feb 2003
+Hospitals (Services Charges) Amendment Regulations (No. 2) 2003 | 24 Apr 2003 p. 1270-1 | 24 Apr 2003
+Hospitals (Services Charges) Amendment Regulations (No. 3) 2003 | 17 Jun 2003 p. 2213-16 | 1 Jul 2003 (see r. 2)
+Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 16 | 30 Jun 2003 p. 2581-638 | 1 Jul 2003 (see r. 2 and Gazette 30 Jun 2003 p. 2579)
+Hospitals (Services Charges) Amendment Regulations (No. 4) 2003 | 18 Nov 2003 p. 4723-4 | 18 Nov 2003
+Hospitals (Services Charges) Amendment Regulations 2004 | 13 Feb 2004 p. 539 | 13 Feb 2004
+Hospitals (Services Charges) Amendment Regulations (No. 2) 2004 | 4 May 2004 p. 1384 | 4 May 2004
+Hospitals (Services Charges) Amendment Regulations (No. 3) 2004 | 29 Jun 2004 p. 2525-8 | 1 Jul 2004 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 4) 2004 | 30 Nov 2004 p. 5488 | 30 Nov 2004
+Reprint 4: The Hospitals (Services Charges) Regulations 1984 as at 3 Dec 2004 (includes amendments listed above)
+Hospitals (Services Charges) Amendment Regulations 2005 | 11 Mar 2005 p. 913-14 | 11 Mar 2005
+Hospitals (Services Charges) Amendment Regulations (No. 2) 2005 | 19 Apr 2005 p. 1291 | 19 Apr 2005
+Hospitals (Services Charges) Amendment Regulations (No. 4) 2005 | 28 Jun 2005 p. 2921-2 | 1 Jul 2005 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 3) 2005 | 14 Oct 2005 p. 4555-6 | 14 Oct 2005
+The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with the Interpretation Act 1984 s. 42(1), subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
+The commencement date of 1 September 1990 that was specified in these regulations was before the date of their publication in the Gazette.
