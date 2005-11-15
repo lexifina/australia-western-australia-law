@@ -1,0 +1,172 @@
+Notes
+This is a compilation of the Agriculture and Related Resources Protection Act 1976 and includes the amendments made by the other written laws referred to in the following table.
+Compilation table
+Short title | Number and year | Assent | Commencement
+Agriculture and Related Resources Protection Act 1976 | 42 of 1976 | 9 Jun 1976 | Long title and sections 1-5 and 7 and Division 6 of Part V: 18 Jun 1976; balance: 1 Jul 1976 (see s. 2 and Gazette 18 Jun 1976 p.2048)
+Agriculture and Related Resources Protection Act Amendment Act 1978 | 40 of 1978 | 29 Aug 1978 | 29 Aug 1978
+Agriculture and Related Resources Protection Act Amendment Act 1979 | 55 of 1979 | 12 Nov 1979 | Sections 3, 4(b), 7, 10 and 11 deemed operative 1 Jul 1976; balance on Assent (see s. 2)
+Agriculture and Related Resources Protection Amendment Act 1980 | 22 of 1980 | 15 Oct 1980 | Section 5 deemed operative 1 Jul 1980; balance on Assent (see s. 2)
+Agriculture and Related Resources Protection Amendment Act 1981 | 76 of 1981 | 9 Nov 1981 | Section 3(d): 9 Nov 1981; balance deemed operative 1 Jul 1976 (see s. 2)
+Agriculture and Related Resources Protection Amendment Act 1983 | 31 of 1983 | 1 Dec 1983 | 29 Dec 1983
+Acts Amendment (Conservation and Land Management) Act 1984, Part V | 112 of 1984 | 19 Dec 1984 | 22 Mar 1985 (see s. 2 and Gazette 15 Mar 1985 p. 931)
+Agriculture and Related Resources Protection Amendment Act 1986 | 59 of 1986 | 26 Nov 1986 | 5 Jan 1987 (see s. 2 and Gazette 19 Dec 1986 p. 4860)
+Agricultural Legislation (Penalties) Amendment Act 1989, section 3 | 20 of 1989 | 1 Dec 1989 | 15 Dec 1989 (see s. 2 and Gazette 15 Dec 1989 p. 4513)
+Financial Administration Legislation Amendment Act 1993, Part 4 | 6 of 1993 | 27 Aug 1993 | Deemed operative 1 Jul 1993 (see s. 2(1))
+Acts Amendment (Public Sector Management) Act 1994, section 3(1) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
+Industrial Legislation Amendment Act 1995, section 35 | 1 of 1995 | 9 May 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 24 Nov 1995 p. 5389)
+Local Government (Consequential Amendments) Act 1996, section 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+Financial Legislation Amendment Act 1996, section 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
+Transfer of Land Amendment Act 1996, section 153 (1) and (2) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
+Acts Amendment (Land Administration) Act 1997, Part 5 and section 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
+Agricultural Legislation Amendment and Repeal Act 1998, Part 2 | 9 of 1998 | 30 Apr 1998 | 4 Jul 1998 (see s. 2 and Gazette 3 Jul 1998 p. 3581)
+Taxation Administration (Consequential Provisions) Act 2002 s. 7 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
+Statutes (Repeals and Minor Amendments) Act 2003 s. 26 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 6 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
+NB.This Act was affected by the Agriculture Protection Board Act 1950 (No. 76 of 1950) and the Bush Fires Act 1954 (No. 53 of 1954).
+On the date on which this compilation was prepared, provisions referred to in the following table had not come into operation and are not included in this compilation. For the text of the provisions see the endnote referred to after the short title.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Footnote no longer applicable.
+Repealed by the Mining Act 1978 (No. 107 of 1978).
+Repealed by the Public Service Appeal Board Act Repeal Act 1977 (No. 18 of 1977).
+Under the Public Sector Management Act 1994 the names of departments can be changed.
+The head of a department is now the chief executive officer or chief employee. However the title by which that person is known may be changed.
+At the time of this reprint —
+(a) the former Department of Lands and Surveys is called the Department of Land Administration and its administrative head is called the Chief Executive;
+(b) the former department of Mines is called the Department of Minerals and Energy and its administrative head is called the Director General.
+Repealed by the Interpretation Act 1984 (No. 12 of 1984).
+Repealed by the Commercial Arbitration Act 1985 (No. 109 of 1985).
+Repealed by section 6 of this Act.
+Now see the Local Government Act 1995 (No. 74 of 1995).
+Section 8 of the Agricultural and Related Resources Protection Amendment Act 1986 (No. 59 of 1986) reads as follows —
+“
+8.Transitional
+Where, before the day on which this Act comes into operation, proceedings for an offence against this Act have, in accordance with the principal Act as in force before this Act came into operation, been heard or partly heard by a court of summary jurisdiction that is not composed of a stipendiary magistrate, those proceedings may be heard and determined as if section 6 of this Act had not been enacted.
+”.
+On the date on which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 had not come into operation. It reads:
+“
+27.Agriculture and Related Resources Protection Act 1976 amended
+Section 9(5) of the Agriculture and Related Resources Protection Act 1976 is amended as follows:
+(a) by deleting “1994,” and inserting instead —
+“ 1994 or ”;
+(b) by deleting “or the Superannuation and Family Benefits Act 1938”.
+”.
+The Taxation Administration (Consequential Provisions) Act 2002 s. 3 and 4 and Pt. 4 read as follows:
+“
+3.Relationship with other Acts
+The Taxation Administration Act 2003 is to be read with this Act as if they formed a single Act.
+4.Meaning of terms used in this Act
+The Glossary at the end of the Taxation Administration Act 2003 defines or affects the meaning of some of the words and expressions used in this Act and also affects the operation of other provisions.
+Part 4 — Transitional provisions
+Division 1 — Interpretation
+33.Definitions
+In this Part —
+“commencement day” means the day on which the Taxation Administration Act 2003 comes into operation;
+“old Act” means —
+(a)an Act repealed by section 5;
+(b)the old Stamp Act; or
+(c)section 41 of the Metropolitan Region Town Planning Scheme Act 1959 as in force immediately before the commencement day;
+“old Stamp Act” means the Stamp Act 1921 as in force immediately before the commencement day;
+“substantive provisions”, in relation to an old Act, means the provisions of the old Act other than those dealing with matters dealt with in the Taxation Administration Act 2003.
+Division 2 — General transitional provisions
+34.General transitional arrangements
+(1) Section 37(1) of the Interpretation Act 1984, except paragraphs (a) and (b), does not apply in relation to the repeal of an old Act.
+(2) The repeal of an old Act does not, unless the contrary intention appears —
+(a) affect any right, interest, title, power or privilege created, acquired, accrued, established or exercisable or any status or capacity existing prior to the repeal;
+(b) affect any duty, obligation, liability, or burden of proof imposed, created, or incurred prior to the repeal;
+(c) subject to section 11 of The Criminal Code and section 10 of the Sentencing Act 1995, affect any penalty or forfeiture incurred or liable to be incurred in respect of an offence committed against the old Act; or
+(d) affect any investigation, legal proceeding or remedy in respect of any such right, interest, title, power, privilege, status, capacity, duty, obligation, liability, burden of proof, penalty or forfeiture.
+(3) Subject to subsections (4) and (5) —
+(a) a right, interest, title, power, privilege, duty, obligation, liability or burden of proof referred to in subsection (2)(a) or (b) may be exercised or enforced;
+(b) a penalty or forfeiture referred to in subsection (2)(c) may be imposed and enforced; and
+(c) an investigation, legal proceeding or remedy referred to in subsection (2)(d) may be instituted, continued, or enforced,
+as if the substantive provisions of the relevant old Act —
+(d) had not been repealed;
+(e) were a taxation Act for the purposes of the Taxation Administration Act 2003; and
+(f) had been amended to make any modifications necessary for this section to have effect.
+(4) If an objection, appeal or other legal proceeding (the “action”) was instituted under an old Act and was not finally determined before the commencement day —
+(a) the action may be continued;
+(b) any requirement to pay interest on an amount of tax determined in the action to have been overpaid applies and may be enforced;
+(c) any penalty may be imposed and enforced; and
+(d) any decision, order or determination made in the action has effect, and may be enforced,
+as if this Act and the taxation Acts had not commenced.
+(5) If the time limited by an old Act for doing anything is longer than the time limited by a taxation Act for doing the equivalent thing under that Act, then in relation to a matter to which subsection (3) applies, the time limited under the old Act applies in relation to the doing of the thing under the taxation Act.
+(6) If the time limited by an old Act for commencing proceedings in relation to an offence under that Act is shorter than the 5 year period limited by section 111 of the Taxation Administration Act 2003, then despite section 111, proceedings in relation to an offence under the old Act (including an offence under a provision of the old Act that is continued in force under this Part) cannot be commenced after the expiry of the shorter period provided for by the old Act.
+(7) In this section a reference, in relation to the Stamp Act 1921, to the repeal of the old Act is a reference to the amendment of the Act by the Stamp Amendment Act 2003.
+35.Commissioner not to increase tax liability
+Despite Part 3 Division 1 of the Taxation Administration Act 2003, the Commissioner must not make a reassessment that increases the amount of tax a person is liable to pay in relation to anything that happened before the commencement day if the reassessment could not have been made under the relevant old Act.
+36.Delegations
+A delegation made under an old Act and in force immediately before the commencement day continues in force on and after that day as a delegation made under section 10 of the Taxation Administration Act 2003.
+Division 3 — Debits tax
+37.Certificates of exemption from tax (Debits Tax Assessment Act 1990, s. 11)
+(1) A certificate issued under section 11 of the Debits Tax Assessment Act 1990 and in force immediately before the commencement day continues in force on and after that day as a certificate issued under section 10 of the Debits Tax Assessment Act 2002.
+(2) Where section 13(1) of the Debits Tax Assessment Act 2002 applies in relation to a certificate issued under section 11 of the Debits Tax Assessment Act 1990 the Commissioner cannot make a reassessment of the amount of debits tax payable on a debit for the purpose of giving effect to that section more than 3 years after —
+(a) if the financial institution has recovered the amount of the debits tax paid on the debit from the customer — the date on which that amount was recovered; or
+(b) otherwise — the date on which the debits tax on the debits was paid.
+Division 4 — Land tax
+38.Exemptions for certain home unit owners (Land Tax Assessment Act 1976, s. 19)
+If the amount of land tax payable on land for the financial year commencing on 1 July 2001 was assessed under section 19 of the Land Tax Assessment Act 1976, then on and after the commencement day section 16 of the Land Tax Assessment Act 2002 applies in relation to that land as if that assessment had been made under section 16.
+39.Inner city residential property rebate (Land Tax Assessment Act 1976, s. 23AB)
+A notice given by the Commissioner under section 23AB(7) of the Land Tax Assessment Act 1976 and in force immediately before the commencement day continues in force on and after that day as a notice under section 28(4) of the Land Tax Assessment Act 2002.
+40.Land tax relief Acts
+Despite —
+(a) the repeal of the Land Tax Assessment Act 1976 and Land Tax Act 1976; and
+(b) the amendment of section 41 of the Metropolitan Region Town Planning Scheme Act 1959,
+on and after the commencement day the Land Tax Relief Act 1991 and Land Tax Relief Act 1992 apply as if the substantive provisions of the Acts mentioned in paragraphs (a) and (b) —
+(c) had not been repealed;
+(d) were a taxation Act for the purposes of the Taxation Administration Act 2003; and
+(e) had been amended to make any modifications necessary for this section to have effect.
+Division 5 — Pay-roll tax
+41.Treatment of certain contributions (Pay-roll Tax Assessment Act 1971, Sch. 2 cl. 5)
+Despite the repeal of the Pay-roll Tax Assessment Act 1971, Schedule 2 clause 5 of that Act continues to apply on and after the commencement day in relation to contributions wholly or partly in respect of services performed or rendered before 1 July 1997 as if that Act had not been repealed.
+42.Reassessments and refunds (Pay-roll Tax Assessment Act 1971, s. 19)
+Despite sections 16(3), 20(3) and 22(4) of the Pay-roll Tax Assessment Act 2002 and section 16(1)(a) of the Taxation Administration Act 2003, the Commissioner is not required to make a reassessment of the amount of pay-roll tax payable by an employer in respect of wages paid or payable before the commencement day unless an application for a reassessment is made within 2 years after the tax was paid.
+Division 6 — Stamp duty
+43.Adhesive stamps (Stamp Act 1921, s. 15, 21 and 23)
+(1) Despite its repeal by the Stamp Amendment Act 2003, section 15 of the old Stamp Act continues in force for 12 months after the commencement day in relation to adhesive stamps that were affixed on instruments before that day.
+(2) Despite their repeal by the Stamp Amendment Act 2003, sections 21 and 23 of the old Stamp Act continue in force for 3 months after the commencement day in relation to adhesive stamps that were affixed on instruments before that day.
+(3) If adhesive stamps affixed to an instrument have been cancelled in accordance with the old Stamp Act (including the provisions of the old Stamp Act continued in force by subsections (1) and (2)) the instrument is taken to have been endorsed in accordance with section 17C of the Stamp Act 1921.
+44.Printing of “Stamp Duty Paid” on cheques (Stamp Act 1921, s. 52)
+(1) An authorisation of a financial institution granted under section 52 of the old Stamp Act and in force immediately before the commencement day continues in force on and after that day as a special tax arrangement made under the Taxation Administration Act 2003.
+(2) Any requirement that applied, immediately before the commencement day, to a person to whom an authorisation continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the authorisation was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
+45.First home owners — reassessment (Stamp Act 1921, s. 75AG)
+Despite section 17(1) of the Taxation Administration Act 2003, if property that included a dwellinghouse was conveyed or transferred before the commencement day, an application for a reassessment of the duty payable on the conveyance or transfer on the basis that a rebate under section 75AG of the old Stamp Act should have been, but was not, allowed cannot be made more than 12 months after the date of the original assessment.
+46.Reassessment of duty on grant or transfer of vehicle licences (Stamp Act 1921, s. 76C(18) and (19), 76CA(3a) and 76CB(9))
+(1) This section applies in relation to a grant or transfer of a licence that occurred before the commencement day.
+(2) Despite section 17(1) of the Taxation Administration Act 2003, an application for a reassessment of the duty payable on the grant or transfer of a licence on the basis that the duty should not have been paid because —
+(a) in the case of a grant — no vehicle licence fee was payable under the Road Traffic Act 1974 in respect of the licence; or
+(b) in the case of a transfer — had the transferee applied for the licence on the date of the transfer no vehicle licence fee would have been payable under the Road Traffic Act 1974,
+cannot be made more than 15 months after the licence was granted or transferred.
+(3) Despite section 17(1) of the Taxation Administration Act 2003, an application for a reassessment of the duty paid on the transfer of a licence on the basis that the duty should have been, but was not, charged in accordance with item 6 of the Second Schedule to the old Stamp Act because the transfer did not pass a beneficial interest, cannot be made more than 12 months after the licence was transferred.
+(4) Despite section 17(1) of the Taxation Administration Act 2003, an application for a reassessment of the duty payable on the grant or transfer of a licence on the basis that the duty should have been, but was not, assessed on the net market value of the vehicle (as defined in section 76CB of the old Stamp Act), cannot be made more than 12 months after the licence was granted or transferred.
+47.Alternative to stamping individual insurance policies (Stamp Act 1921, s. 95A)
+(1) A permission granted under section 95A of the old Stamp Act and in force immediately before the commencement day continues in force on and after that day as a special tax arrangement made under the Taxation Administration Act 2003.
+(2) Any requirement that applied, immediately before the commencement day, to a person to whom a permission continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the permission was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
+48.Workers’ compensation insurance (Stamp Act 1921, s. 97 and item 16 of the Second Schedule)
+(1) Despite section 17(1) of the Taxation Administration Act 2003, an application for a reassessment of the duty payable on the issue or renewal of a policy of insurance that occurred before the commencement day on the basis that the duty was assessed under item 16(1)(a)(i) of the Second Schedule to the old Stamp Act but should have been assessed under item 16(1)(a)(ii), cannot be made more than 2 years after the beginning of the insurance policy’s cover period.
+(2) Despite the amendment of Schedule 2 item 16(1)(a) of the Stamp Act 1921, on and for 12 months after the commencement day —
+(a) the reference in Schedule 2 item 16(1)(a)(i)(A) to the Pay-roll Tax Assessment Act 2002 includes a reference to the Pay-roll Tax Assessment Act 1971; and
+(b) the reference in Schedule 2 item 16(1)(a)(i)(B) to section 39 or 40 of the Pay-roll Tax Assessment Act 2002 includes a reference to section 10 of the Pay-roll Tax Assessment Act 1971.
+49.Payment of duty by returns (Stamp Act 1921, s. 112V)
+(1) A permission granted under section 112V of the old Stamp Act and in force immediately before the commencement day continues in force on and after that day as a special tax arrangement under the Taxation Administration Act 2003.
+(2) Any requirement that applied, immediately before the commencement day, to a person to whom a permission continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the permission was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
+”.
+On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which give effect to Sch. 2, had not come into operation. It reads as follows:
+“
+142.Other amendments to various Acts
+Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
+”.
+Schedule 2 cl. 4 reads as follows:
+“
+Schedule 2 — Other amendments to Acts
+4.Agriculture and Related Resources Protection Act 1976
+s. 7 | Delete the definition of “Local Court”.
+s. 54(2) | Delete “Local Court having jurisdiction where the land is situated, and the Local Court” and insert instead — “ Magistrates Court, and the Court ”.
+s. 54(4) | Delete “Local Court having jurisdiction where the land is situated” and insert instead — “ Magistrates Court ”.
+”.
+The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
