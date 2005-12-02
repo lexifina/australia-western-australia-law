@@ -1,0 +1,3 @@
+Western Australia
+Tailings Treatment (Kalgoorlie) Agreement Act 1988
+An Act to ratify an agreement between the State of Western Australia and Mulga Mines Pty. Ltd. and Western Australian Mint relating to the removal and treatment of mine tailings for the recovery of gold and silver; to enable the granting of a special licence to remove and treat those mine tailings; to enable Mulga Mines Pty. Ltd. and Western Australian Mint to enter and re-enter certain lands and carry out rehabilitation operations and works thereon; to provide that certain tailings remaining on the expiry or determination of that special licence shall become the absolute property of the Crown; and for purposes incidental to or connected with the foregoing.
