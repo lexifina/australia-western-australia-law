@@ -1,0 +1,121 @@
+## Glossary
+[s. 3]
+“abscond”, in connection with an offence, has the meaning given in section 160;
+“account” means any facility or arrangement through which a financial institution accepts deposits or allows withdrawals and includes a facility or arrangement for fixed term deposit and a safety deposit box;
+“agent” includes, if the agent is a corporation, an officer of the corporation;
+“charge”, in relation to an offence, has the meaning given in section 158;
+“confiscated”, in relation to property, means confiscated under section 6, 7 or 8;
+“confiscable”, in relation to property, has the meaning given in section 142;
+“Confiscation Proceeds Account” means the account established under section 130;
+“confiscable property declaration” means a declaration made under section 28;
+“confiscation offence” has the meaning given in section 141;
+“conviction”, in relation to a confiscation offence, has the meaning given in section 157;
+“corporation” means —
+(a)a financial institution; or
+(b)a corporation within the meaning of the Corporations Act 2001 of the Commonwealth, other than an exempt body within the meaning of section 66A of that Act;
+“corresponding law”, in relation to the Commonwealth, another State or a Territory, means a law of the Commonwealth, State or Territory that is prescribed in the regulations as a law that corresponds to this Act;
+“court” means —
+(a)in relation to making an application under this Act — a court having jurisdiction under section 101 to hear and determine the application;
+(b)in relation to proceedings on an application under this Act — the court in which the application was filed, or another court having jurisdiction, whether under this Act or another enactment, in the proceedings;
+(c)in relation to a freezing notice — the court in which the notice was filed; or
+(d)in relation to a declaration or order under this Act — the court that made the declaration or order;
+“crime-derived”, in relation to property, has the definition given in section 148;
+“crime-used”, in relation to property, has the meaning given in section 146;
+“crime-used property substitution declaration” means a declaration under section 22;
+“criminal benefit” has the definition given in section 145;
+“criminal benefits declaration” means a declaration under section 16 or 17;
+“criminal use”, in relation to a person and property, has the meaning given in section 147;
+“deal”, in relation to property, has the meaning given in section 151;
+“declared drug trafficker” has the meaning given in section 159;
+“director”, in relation to a financial institution or a corporation, means —
+(a)if the institution or corporation is a body corporate incorporated for a public purpose under a law of the Commonwealth or of a State or Territory — a constituent member of the body corporate;
+(b)a person occupying or acting in the position of director of the institution or corporation, by whatever name called and whether or not validly appointed to occupy or duly authorised to act in the position; or
+(c)a person in accordance with whose directions or instructions the directors of the institution or corporation are accustomed to act;
+“dispose of”, in relation to a charge, means —
+(a)withdraw;
+(b)dismiss; or
+(c)file a nolle prosequi in relation to the offence;
+“document” includes —
+(a)any publication and any matter written, expressed, or described, electronically or otherwise, upon any substance by means of letters, figures or marks, or by more than one of those means, which is intended to be used or may be used for the purpose of recording that matter; and
+(b)a computer disk, computer or any other substance or equipment, whether electronic or not, used to create or store any publication or matter referred to in paragraph (a);
+“DPP” means the holder of the office of Director of Public Prosecutions created by section 4 of the Director of Public Prosecutions Act 1991;
+“effective control”, in relation to property, has the definition given in section 156;
+“encumbrance”, in relation to property, includes any interest, mortgage, charge, right, claim or demand in respect of the property;
+“examination” means examination under an order under section 58(1);
+“examination order” means an order under section 58(1);
+“executive officer”, in relation to a financial institution or a corporation, means any person, by whatever name called, and whether or not he or she is a director of the institution or corporation, who is concerned, or takes part, in the management of the institution or corporation;
+“financial institution” means —
+(a)an ADI within the meaning of section 5 of the Banking Act 1959 of the Commonwealth;
+(b)the Reserve Bank of Australia;
+(c)a person who carries on State banking within the meaning of section 51(xiii) of the Commonwealth Constitution;
+(d)a society to which the Housing Societies Act 1976 applies;
+(e)a registered society within the meaning of the Co-operative and Provident Societies Act 1903;
+(f)a financial corporation within the meaning of section 51(xx) of the Constitution of the Commonwealth; or
+(g)a body corporate that would be a financial corporation within the meaning of section 51(xx) of the Constitution of the Commonwealth if the body had been incorporated in Australia;
+“freezing notice” means a freezing notice issued under section 34;
+“freezing order” means an order under section 43;
+“frozen”, in relation to property and in relation to a freezing notice or freezing order, means subject to the freezing notice or the freezing order;
+“give”, in relation to property, includes transfer for consideration that is significantly less than the greater of —
+(a)the market value of the property at the time of transfer; and
+(b)the consideration paid by the transferee;
+“innocent party” has the meaning given in section 153;
+“interested party”, in relation to frozen property, means a person who has an interest in the property that would enable the person to succeed on an objection to the confiscation of the property;
+“interstate confiscation offence” means an offence (including a common law offence) against a law in force in another State or a Territory, being an offence in relation to which an interstate confiscation declaration or an interstate criminal benefits declaration may be made under a corresponding law of the State or Territory;
+“interstate confiscation declaration” means a declaration or order (however described) that is made by or under a corresponding law of another State or a Territory and that is prescribed by the regulations for the purposes of this definition;
+“interstate criminal benefits declaration” means a declaration or order (however described) that is made by or under a corresponding law of another State or a Territory and that is prescribed by the regulations for the purposes of this definition;
+“interstate freezing order” means a notice or order (however described) that is made by or under a corresponding law of another State or a Territory and that is prescribed by the regulations for the purposes of this definition;
+“instrument”, in relation to a dealing with registrable real property, means —
+(a)a memorial under this Act; or
+(b)an instrument as defined in the Transfer of Land Act 1893;
+“lawfully acquired”, in relation to any property, service, advantage or benefit, has the meaning given in section 149;
+“medical practitioner” has the same meaning as in the Medical Act 1894;
+“monitoring order” means an order under section 68(1);
+“objection” means an objection filed under section 79 to the confiscation of property;
+“officer”, in relation to a corporation, means a director, secretary, executive officer, employee or agent of the corporation;
+“owner”, in relation to property, means a person who has a legal or equitable interest in the property;
+“police officer”, in relation to a function, includes a person authorised to carry out the function under regulations made under section 140(2)(f);
+“premises” includes vessel, aircraft, vehicle, structure, building and any land or place whether built on or not;
+“production order” means an order under section 63;
+“prohibited drug” has the same meaning as in the Misuse of Drugs Act 1981;
+“prohibited plant” has the same meaning as in the Misuse of Drugs Act 1981;
+“property” means —
+(a)real or personal property of any description, wherever situated, whether tangible or intangible; or
+(b)a legal or equitable interest in any property referred to in paragraph (a);
+“property-tracking document” has the meaning given in section 155;
+“recipient”, in relation to a freezing notice or freezing order, means a person on whom a copy of the notice or order is served under section 36 or 46;
+“registered”, in relation to an interstate freezing order or an interstate confiscation declaration, means registered under section 118;
+“registrable real property” means property to which the Transfer of Land Act 1893 applies;
+“registration”, in relation to an instrument relating to a dealing in registrable real property, has the same meaning as in section 52 of the Transfer of Land Act 1893;
+“relevant confiscation offence”, in relation to confiscable property, means the confiscation offence or suspected confiscation offence that is relevant to bringing the property within the scope of this Act;
+“respondent” means —
+(a)in relation to an application for an unexplained wealth declaration, a criminal benefits declaration or a crime-used property substitution declaration — the person against whom the declaration is sought; or
+(b)in relation to an unexplained wealth declaration, a criminal benefits declaration or a crime-used property substitution declaration — the person against whom the declaration is made;
+“restricted disclosure” means a disclosure about a matter of a kind referred to in a paragraph of section 70(1);
+“seized”, in relation to property, means seized under section 33(1);
+“service cut off date”, in relation to frozen property, has the meaning given in section 150;
+“sham transaction” has the meaning given in section 161;
+“State taxes”, in relation to frozen property, means any rates, land tax, local government or other statutory charges imposed on the property under a law of this State;
+“suspension order” means an order under section 68(2);
+“transaction”, in relation to an account with a financial institution, includes —
+(a)the making of a fixed term deposit;
+(b)the transferring of the amount of a fixed term deposit, or any part of it, at the end of the term;
+“unexplained wealth” has the meaning given in section 144;
+“unexplained wealth declaration” means a declaration under section 12;
+“valuable consideration”, in relation to the transfer of property, does not include —
+(a)any consideration for the transfer arising from the fact of a family relationship between the transferor and transferee;
+(b)if the transferor is the spouse or de facto partner of the transferee — the making by the transferor of a deed in favour of the transferee;
+(c)a promise by the transferee to become the spouse or de facto partner of the transferor;
+(d)any consideration arising from the transferor’s love or affection for the transferee;
+(e)the transfer of the property as a result of the distribution of a deceased estate;
+(f)the transfer of the property by way of gift; or
+(g)consideration that is significantly less than the greater of —
+(i)the market value of the property at the time of transfer; and
+(ii)the consideration paid by the transferee;
+“value”, in relation to —
+(a)a person’s unexplained wealth — means the amount calculated in accordance with section 13;
+(b)a person’s wealth — has the meaning given in section 144(2);
+(c)a person’s lawfully acquired wealth — has the meaning given in section 144(3);
+(d)property sold by or for the State — has the meaning given in section 152; and
+(e)the transfer of property — has the meaning given in section 154;
+“wealth” has the meaning given in section 143.
+[Glossary amended by No. 12 of 2001 s. 51; No. 20 of 2003 s. 19; No. 28 of 2003 s. 42.]
