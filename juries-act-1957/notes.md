@@ -1,0 +1,156 @@
+Notes
+This is a compilation of the Juries Act 1957 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+Compilation table
+Short title | Number and year | Assent | Commencement
+Juries Act 1957 | 50 of 1957 | 9 Dec 1957 | 1 Jul 1960 (see s. 1(2) and Gazette 6 Mar 1959 p. 539)
+Juries Act Amendment Act 1959 | 35 of 1959 | 30 Oct 1959 | 30 Oct 1959
+Juries Act Amendment Act 1961 | 30 of 1961 | 11 Jun 1962 | 11 Jun 1962
+Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
+Age of Majority Act 1972 s. 6(2) | 46 of 1972 | 18 Sep 1972 | 1 Nov 1972 (see s. 2 and Gazette 13 Oct 1972 p. 4069)
+Juries Act Amendment Act 1973 | 44 of 1973 | 18 Oct 1973 | 1 Jan 1974 (see s. 2 and Gazette 14 Dec 1973 p. 4528)
+Reprint of the Juries Act 1957 approved 26 Apr 1974 (includes amendments listed above)
+Juries Act Amendment Act 1975 | 64 of 1975 | 24 Oct 1975 | Act other than s. 3 and 4: 24 Oct 1975 (see s. 2(1)); s. 3 and 4: 1 Jan 1976 (see s. 2(2) and Gazette 7 Nov 1975 p. 4123)
+Juries Act Amendment Act 1976 | 34 of 1976 | 9 Jun 1976 | 3 Sep 1976 (see s. 2 and Gazette 3 Sep 1976 p. 3271)
+Juries Amendment Act 1981 | 6 of 1981 | 18 May 1981 | s. 4(a) and (b), and only that part of s. 22 which repeals and substitutes s. 33: 1 Jul 1981 (see s. 2 and Gazette 26 Jun 1981 p. 2285); s. 7(a)-(g), and (i), and 8: 30 Oct 1981 (see s. 2 and Gazette 30 Oct 1981 p. 4467);
+ |  |  | Act other than s. 4(a) and (b), 6-8, 17 and 22: 12 Mar 1982 (see s. 2 and Gazette 12 Mar 1982 p. 801); s. 6, 7(h) and (j), 17 and that part of s. 22 which inserts s. 33A: 1 Jul 1982 (see s. 2 and Gazette 12 Mar 1982 p. 801)
+Acts Amendment (Abolition of Capital Punishment) Act 1984 Pt. IV | 52 of 1984 | 5 Sep 1984 | 3 Oct 1984
+Juries Amendment Act 1984 | 59 of 1984 | 24 Oct 1984 | 1 Jul 1985 (see s. 2 and Gazette 14 Dec 1984 p. 4115)
+Reprint of the Juries Act 1957 as at 2 Dec 1987 (includes amendments listed above)
+Juries Amendment Act 1988 | 13 of 1988 | 6 Sep 1988 | 4 Oct 1988
+Acts Amendment (Spent Convictions) Act 1988 Pt. 3 | 56 of 1988 | 8 Dec 1988 | 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2644)
+Acts Amendment (Jurisdiction and Criminal Procedure) Act 1992 s. 9(4) | 53 of 1992 | 9 Dec 1992 | 1 Mar 1993 (see s. 2(1) and Gazette 26 Jan 1993 p. 823)
+Juries Amendment Act 1992 | 47 of 1992 | 10 Dec 1992 | 10 Dec 1992 (see s. 2)
+Acts Amendment (Ministry of Justice) Act 1993 Pt. 11 | 31 of 1993 | 15 Dec 1993 | 1 Jul 1993 (see s. 2)
+Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
+Young Offenders Act 1994 s. 236 | 104 of 1994 | 11 Jan 1995 | 13 Mar 1995 (see s. 2 and Gazette 10 Mar 1995 p. 895)
+Sentencing (Consequential Provisions) Act 1995 Pt. 42 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
+Coroners Act 1996 s. 61 | 2 of 1996 | 24 May 1996 | 7 Apr 1997 (see s. 2 and Gazette 18 Mar 1997 p. 1529)
+Acts Amendment (Auxiliary Judges) Act 1997 Pt. 6 | 23 of 1997 | 18 Sep 1997 | 18 Sep 1997 (see s. 2)
+Juries Amendment Act 1997 | 34 of 1997 | 31 Oct 1997 | 5 Dec 1997 (see s. 2 and Gazette 5 Dec 1997 p. 7161)
+Osteopaths Act 1997 s. 97 | 58 of 1997 | 15 Dec 1997 | 22 Dec 1999 (see s. 2 and Gazette 21 Dec 1999 p. 6393)
+Juries Amendment Act 2000 | 12 of 2000 | 27 May 2000 | Act other than s. 10: 27 May 2000 (see s. 2(1)); s. 10: 2 Oct 2000 (see s. 2(2) and Gazette 26 Sep 2000 p. 5515)
+Reprint of the Juries Act 1957 as at 3 Jul 2000 (includes amendments listed above other than those in the Juries Amendment Act 2000 s. 10)
+Juries Amendment Act 2003 | 25 of 2003 | 16 May 2003 | 18 Jun 2003 (see s. 2 and Gazette 17 Jun 2003 p. 2201)
+Corruption and Crime Commission Act 2003 s. 62 | 48 of 2003 | 3 Jul 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+Sentencing Legislation Amendment and Repeal Act 2003 s. 29(3) and 73 | 50 of 2003 | 9 Jul 2003 | s. 29(3): 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); s. 73: 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
+Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 42 and 127 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
+Corruption and Crime Commission Amendment and Repeal Act 2003 s. 74(2) | 78 of 2003 | 22 Dec 2003 | 7 Jul 2004 (see s. 2 and Gazette 6 Jul 2004 p. 2697)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 10 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Electoral Amendment and Repeal Act 2005 s. 9 | 1 of 2005 | 20 May 2005 | 20 May 2005 (see s. 2)
+Reprint 4: The Juries Act 1957 as at 2 Sep 2005 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | To be proclaimed (see s. 2)
+ | Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+ | Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+ | Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+ | Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Repealed by the Interpretation Act 1984.
+The Juries Amendment Act 1984 s. 25 reads as follows:
+“
+25.Saving
+A certificate of permanent exemption issued or purporting to have been issued pursuant to section 34A(2) of the principal Act as in force before the day that this Act comes into operation and in force before that day shall continue to have effect for the purposes of the principal Act after that day and, notwithstanding anything in the principal Act, the person with respect to whom the certificate is issued is not liable to serve as a juror.
+”.
+Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference to the Ministry of Justice is, unless the contrary is intended, to be read and construed as a reference to the Department of Justice.
+Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference to the Department of Community Services is, unless the contrary is intended, to be read and construed as a reference to the Department of Community Development.
+Under the Public Sector Management Act 1994 the names of departments can be changed. At the time this compilation was prepared the former Department of Police is called the Police Service.
+Repealed by the Nurses Act 1992.
+The Sentencing Legislation Amendment and Repeal Act 1999s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
+The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 contains savings and transitional provisions that are of no further effect.
+The Juries Amendment Act 2003 s. 5(2) is a savings provision that is of no further effect.
+On the date as at which this compilation was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+“
+251.Other Acts amended
+Other Acts are amended as set out in Schedule 2.
+”.
+Schedule 2 cl. 16 reads as follows:
+“
+Schedule 2 — Amendments to other Acts
+[s. 251]
+16.Juries Act 1957 amended
+(1) The amendments in this clause are to the Juries Act 1957.
+(2) The Second Schedule Part I is amended by inserting after item 1(e) the following paragraph —
+“
+(ea) Magistrate of the Children’s Court;
+”.
+(3) The Second Schedule Part I is amended in item 2 as follows:
+(a) by deleting paragraph (c) and inserting the following paragraph instead —
+“
+(c) Member of the Children’s Court;
+”;
+(b) by deleting paragraph (k) and inserting the following paragraph instead —
+“
+(k) Officer as defined in section 3 of the Children and Community Services Act 2004;
+”.
+”.
+On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63, which gives effect to Sch. 1, had not come into operation. It reads as follows:
+“
+63.Various Acts amended
+Each Act listed in Schedule 1 is amended as set out in that Schedule below the short title of the Act.
+”.
+Schedule 1 it. 10 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 63]
+10.Juries Act 1957
+s. 56(2) | Delete “sworn before a commissioner for affidavits or a Justice of the Peace and”.
+”.
+On the date as at which this compilation was prepared, the Psychologists Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+108.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 7 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 108]
+7.Juries Act 1957 amended
+(1) The amendments in this clause are to the Juries Act 1957.
+(2) The Second Schedule Part II item 2 is amended by deleting “Psychologists Registration Act 1976” and inserting instead —
+“ Psychologists Act 2005 ”.
+”.
+On the date as at which this compilation was prepared, the Chiropractors Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+109.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 5 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 109]
+5.Juries Act 1957 amended
+(1) The amendments in this clause are to the Juries Act 1957.
+(2) The Second Schedule Part II item 2 is amended by deleting “Chiropractors Act 1964” and inserting instead —
+“ Chiropractors Act 2005 ”.
+”.
+On the date as at which this compilation was prepared, the Physiotherapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+109.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 5 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 109]
+5.Juries Act 1957 amended
+(1) The amendments in this clause are to the Juries Act 1957.
+(2) The Second Schedule Part II item 2 is amended by deleting “Physiotherapists Act 1950” and inserting instead —
+“ Physiotherapists Act 2005 ”.
+”.
+On the date as at which this compilation was prepared, the Osteopaths Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+108.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 5 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 108]
+5.Juries Act 1957 amended
+(1) The amendments in this clause are to the Juries Act 1957.
+(2) The Second Schedule Part II item 2 is amended by deleting “Osteopaths Act 1997” and inserting instead —
+“ Osteopaths Act 2005 ”.
+”.
