@@ -1,0 +1,83 @@
+Notes
+This is a compilation of the Interpretation Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+Compilation table
+Short title | Number and year | Assent | Commencement
+Interpretation Act 1984 | 12 of 1984 | 31 May 1984 | 1 Jul 1984 (see s. 2)
+Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
+Acts Amendment (Public Service) Act 1987 s. 32 | 113 of 1987 | 31 Dec 1987 | 16 Mar 1988 (see s. 2 and Gazette 16 Mar 1988 p. 813)
+Acts Amendment (Children’s Court) Act 1988 Pt. 3 | 49 of 1988 | 22 Dec 1988 | 1 Dec 1989 (see s. 2 and Gazette 24 Nov 1989 p. 4327)
+Corporations (Western Australia) Act 1990 s. 97 | 105 of 1990 | 2 Jan 1991 | 1 Jan 1991 (see s. 2)
+Children’s Court of Western Australia Amendment Act (No. 2) 1991 s. 21 | 15 of 1991 | 21 Jun 1991 | 9 Aug 1991 (see s. 2(2) and Gazette 9 Aug 1991 p. 4101)
+Financial Institutions (Western Australia) Act 1992 s. 21 | 30 of 1992 | 19 Jun 1992 | 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2643)
+Reprint of the Interpretation Act 1984 as at 4 Nov 1992 (includes amendments listed above)
+Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
+Acts Amendment (Public Sector Management) Act 1994 s. 15 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
+Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
+Interpretation Amendment (Australia Acts) Act 1994 | 85 of 1994 | 20 Dec 1994 | 3 Mar 1986 (see s. 2 and Gazette 28 Feb 1986 p. 683)
+Acts Amendment (Fines, Penalties and Infringement Notices) Act 1994 s. 15 | 92 of 1994 | 23 Dec 1994 | 1 Jan 1995 (see s. 2(1) and Gazette 30 Dec 1994 p. 7211)
+Sentencing (Consequential Provisions) Act 1995 Pt. 41 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
+Reprint of the Interpretation Act 1984 as at 15 Mar 1996 (includes amendments listed above except those in the Sentencing (Consequential Provisions) Act 1995)
+Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+Acts Amendment (Auxiliary Judges) Act 1997 Pt. 3 | 23 of 1997 | 18 Sep 1997 | 18 Sep 1997 (see s. 2)
+Acts Amendment and Repeal (Family Court) Act 1997 s. 33 | 41 of 1997 | 9 Dec 1997 | 26 Sep 1998 (see s. 2 and Gazette 25 Sep 1998 p. 5295)
+Sunday Observance Laws Amendment and Repeal Act 1997 s. 4 | 49 of 1997 | 10 Dec 1997 | 10 Dec 1997 (see s. 2)
+Interpretation Amendment Act 1997 | 54 of 1997 | 12 Dec 1997 | 12 Dec 1997 (see s. 2)
+Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 40 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
+Reprint of the Interpretation Act 1984 as at 1 Jan 1999 (includes amendments listed above)
+Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 89 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
+Statutes (Repeals and Minor Amendments) Act 2000 s. 19 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
+Acts Amendment (Lesbian and Gay Law Reform) Act 2002 Pt. 14 | 3 of 2002 | 17 Apr 2002 | 21 Sep 2002 (see s. 2 and Gazette 20 Sep 2002 p. 4693)
+Taxation Administration (Consequential Provisions) Act 2002 s. 16 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2383)
+Statutes (Repeals and Minor Amendments) Act 2003 s. 69 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+Reprint 4: The Interpretation Act 1984 as at 6 Feb 2004 (includes amendments listed above)
+Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
+Acts Amendment (Court of Appeal) Act 2004 s. 33 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
+State Administrative Tribunal Act 2004 s. 175 | 54 of 2004 | 23 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Criminal Law Amendment (Simple Offences) Act 2004 s. 36(12) | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Reprint 5: The Interpretation Act 1984 as at 12 Aug 2005 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+ | Short title | Number and year | Assent | Commencement
+ | Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 13 | 24 of 2005 | 2 Dec 2005 | To be proclaimed (see s. 2)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Now see the Public Sector Management Act 1994.
+The Sunday Observance Laws Amendment and Repeal Act 1997 s. 4(2) is a transitional provision that is of no further effect.
+On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 13 had not come into operation. It reads as follows:
+“
+Part 13 — Interpretation Act 1984 amended
+54.The Act amended in this Part
+The amendments in this Part are to the Interpretation Act 1984.
+55.Section 5 amended
+Section 5 is amended as follows:
+(a) by deleting the definition of “affidavit” and inserting instead —
+“
+“affidavit” means an affidavit made in accordance with the Oaths, Affidavits and Statutory Declarations Act 2005 or made before the commencement of that Act in accordance with law;
+”;
+(b) by deleting the definition of “oath” and inserting instead —
+“
+“oath” means an oath or affirmation taken or made in accordance with the Oaths, Affidavits and Statutory Declarations Act 2005 or taken or made before the commencement of that Act in accordance with law;
+”;
+(c) by deleting the definition of “statutory declaration” and inserting instead —
+“
+“statutory declaration” means a statutory declaration made in accordance with the Oaths, Affidavits and Statutory Declarations Act 2005 or made before the commencement of that Act in accordance with law;
+”;
+(d) by deleting the definition of “swear” and inserting instead —
+“
+“swear” includes to affirm;
+”.
+”.
+On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+“
+15.Acts in Schedule 2 amended
+The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
+”.
+Schedule 2, cl. 33 reads as follows:
+“
+Schedule 2 — Consequential amendments
+[s. 15]
+33.Interpretation Act 1984
+Section 5 is amended in the definition of “subsidiary legislation” by deleting “town planning scheme” and inserting instead —
+“ local or region planning scheme ”.
+”.
