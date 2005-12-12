@@ -1,0 +1,22 @@
+### 76ATK. Meaning of “interest”, “controlling interest” or “additional interest”
+(1) For the purposes of this Division, a person acquires an “interest” in a corporation if the person acquires, or the person and any related person acquire, an entitlement such that the person, or the person and any related person, would be entitled if the property of the corporation or the holding corporation were to be distributed (in the case of a corporation on the basis of a winding up) to participate in a distribution of the property of the corporation or holding corporation.
+(2) For the purposes of this Division, a person acquires a controlling interest in a corporation if the person acquires, or the person and any related person acquire, an interest in the corporation such that having acquired that interest the person, or the person and any related person, would be entitled if the property of the corporation or a holding corporation were to be distributed (in the case of a corporation on the basis of a winding up) to participate in a distribution of the property of the corporation or holding corporation to an extent not less than 90% of the value of the distributable property and, in section 76ATJ(1)(a)(i) and (ii) and subsection (3), “controlling interest” has a corresponding meaning.
+(3) For the purposes of this Division, a person acquires an “additional interest” in a corporation if —
+(a) the person has, or the person and any related person have, a controlling interest in the corporation;
+(b) the acquisition of that controlling interest gave rise to a liability for duty under this Part; and
+(c) the person acquires, or the person and any related person acquire, an interest in the corporation such that having acquired that interest the person, or the person and any related person, would be entitled if the property of the corporation or a holding corporation were to be distributed (in the case of a corporation on the basis of a winding up) to participate further in a distribution of the property of the corporation or holding corporation.
+(4) In this section —
+“holding corporation” in relation to a corporation —
+(a) means a corporation —
+(i) that is an ultimate holding company as defined in section 9 of the Corporations Act;
+(ii) of which a corporation is a subsidiary by virtue of Division 6 of Part 1.2 of the Corporations Act or would be a subsidiary by virtue of that Division if “more” in section 46(a)(ii) and (iii) of the Corporations Act were deleted and “not less” were inserted instead; or
+(iii) which would be entitled if a corporation were to be wound up to participate in a distribution of the property of that corporation to an extent not less than 50% of the value of the distributable property;
+and
+(b) is deemed to include —
+(i) any trust if the trustee of the trust would be entitled if the corporation or a holding corporation (as defined in paragraph (a)) were to be wound up to participate in a distribution of the property of the corporation or holding corporation to an extent not less than 50% of the value of the distributable property;
+(ii) a corporation, if in respect of any trust referred to in subparagraph (i) that corporation —
+(I) is entitled to a share or interest in the trust whether vested or contingent; or
+(II) in the case of a discretionary trust, may benefit from that trust;
+and
+(iii) any other corporation, or the trustee of any other trust that would by an application of this subsection be a holding corporation of a corporation that is a holding corporation of the corporation.
+[Section 76ATK inserted by No. 11 of 2004 s. 29; amended by No. 11 of 2005 s. 18 and 21.]
