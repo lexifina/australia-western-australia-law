@@ -1,0 +1,8 @@
+### 76ATD. Meaning of “interest”, “controlling interest” or “additional interest”
+(1) For the purposes of this Division, a person acquires an “interest” in a WA company if the person acquires, or the person and any related person acquire, an entitlement such that the person, or the person and any related person, would be entitled if the WA company were to be wound up to participate in a distribution of the property of the WA company.
+(2) For the purposes of this Division, a person acquires a controlling interest in a WA company if the person acquires, or the person and any related person acquire, an interest in the WA company such that having acquired that interest the person, or the person and any related person, would be entitled if the WA company were to be wound up to participate in a distribution of the property of the WA company to an extent not less than 90% of the value of the distributable property and, in section 76ATC(1)(a)(i) and (ii) and subsection (3), “controlling interest” has a corresponding meaning.
+(3) For the purposes of this Division, a person acquires an “additional interest” in a WA company if —
+(a) the person has, or the person and any related person have, a controlling interest in the WA company;
+(b) the acquisition of that controlling interest gave rise to a liability for duty under this Part; and
+(c) the person acquires, or the person and any related person acquire, an interest in the WA company such that having acquired that interest the person, or the person and any related person, would be entitled if the WA company were to be wound up to participate further in a distribution of the property of the WA company.
+[Section 76ATD inserted by No. 11 of 2004 s. 29.]
