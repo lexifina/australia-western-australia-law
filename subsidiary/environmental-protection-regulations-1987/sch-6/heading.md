@@ -1,0 +1,178 @@
+## Schedule 6 — Infringement notice offences
+[r. 41]
+Infringement notice offence | Modified penalty for first offence $ | Modified penalty for subsequent offence $
+Environmental Protection Act 1986
+1.section 77(1), (2) or (3) | 250 | 500
+2.section 78(1) or (3) | 250 | 500
+3.section 79(1) | 250 | 500
+4.section 80 | 250 | 500
+5.section 84(1) | 250 | 500
+6.section 85(1) | 250 | 500
+7.section 97(2) | 250 | 500
+8.section 110H(6) | 250 | 500
+Environmental Protection Regulations 1987
+1.regulation 5B(1) or (4) | 250 | 500
+2.regulation 5M(4) | 250 | 500
+3.regulation 13(1) | 250 | 500
+4.regulation 13A(1) | 250 | 500
+5.regulation 16(1) | 250 | 500
+6.regulation 16(2) | 250 | 500
+7.regulation 16(3) | 250 | 500
+8.regulation 16B | 500 | 1 000
+9.regulation 26(5) | 250 | 500
+10.regulation 28(2) | 250 | 500
+11.regulation 28(4) | 250 | 500
+12.regulation 28(8) | 250 | 500
+13.regulation 29(5) | 250 | 500
+14.regulation 31(2) | 250 | 500
+Environmental Protection (Recovery of Vapours from the Transfer of Organic Liquids) Regulations 1995
+1.regulation 7(1) | 250 | 500
+2.regulation 8(1) | 250 | 500
+3.regulation 8(5) | 250 | 500
+4.regulation 9(1) | 250 | 500
+5.regulation 9(5) | 250 | 500
+6.regulation 10 | 250 | 500
+7.regulation 11 | 250 | 500
+8.regulation 12 | 250 | 500
+9.regulation 13(1) | 250 | 500
+10.regulation 13(2) | 250 | 500
+Environmental Protection (Noise) Regulations 1997
+1.regulation 6(2) | 250 | 500
+2.regulation 23 | 250 | 500
+Environmental Protection (Fibre Reinforced Plastics) Regulations 1998
+1.regulation 3(1) | 250 | 500
+2.regulation 3(2) | 250 | 500
+3.regulation 3(3) | 250 | 500
+4.regulation 4(1) | 250 | 500
+5.regulation 5 | 250 | 500
+6.regulation 6 | 250 | 500
+Environmental Protection (Abrasive Blasting) Regulations 1998
+1.regulation 3 | 250 | 500
+2.regulation 4 | 250 | 500
+3.regulation 5(1) | 250 | 500
+4.regulation 5(2) | 250 | 500
+5.regulation 6 | 250 | 500
+6.regulation 7(2) | 250 | 500
+7.regulation 7(3) | 250 | 500
+8.regulation 7(4) | 250 | 500
+9.regulation 8 | 250 | 500
+Environmental Protection (Concrete Batching and Cement Product Manufacturing) Regulations 1998
+1.regulation 3(1) | 250 | 500
+2.regulation 3(2) | 250 | 500
+3.regulation 4(1) | 250 | 500
+4.regulation 4(2) | 250 | 500
+5.regulation 5(1) | 250 | 500
+6.regulation 5(2) | 250 | 500
+7.regulation 5(3) | 250 | 500
+8.regulation 5(4) | 250 | 500
+9.regulation 6(1) | 250 | 500
+10.regulation 6(3) | 250 | 500
+11.regulation 6(4) | 250 | 500
+12.regulation 7(2) | 250 | 500
+13.regulation 7(3) | 250 | 500
+14.regulation 7(4) | 250 | 500
+15.regulation 8(2) | 250 | 500
+16.regulation 9(1) | 250 | 500
+17.regulation 9(2) | 250 | 500
+18.regulation 10(1) | 250 | 500
+19.regulation 10(2) | 250 | 500
+20.regulation 11(1) | 250 | 500
+21.regulation 11(2) | 250 | 500
+22.regulation 12(1) | 250 | 500
+23.regulation 12(2) | 250 | 500
+24.regulation 12(3) | 250 | 500
+25.regulation 13 | 250 | 500
+Environmental Protection (Domestic Solid Fuel Burning Appliances and Firewood Supply) Regulations 1998
+1.regulation 1B(1) | 250 | 500
+2.regulation 1C | 250 | 500
+3.regulation 1D(3) | 250 | 500
+4.regulation 3 | 250 | 500
+5.regulation 4 | 250 | 500
+6.regulation 5(5) | 250 | 500
+7.regulation 8 | 250 | 500
+Environmental Protection (Abattoirs) Regulations 2001
+1. regulation 4(1) | 250 | 500
+2.regulation 4(2) | 250 | 500
+3.regulation 5 | 250 | 500
+4.regulation 7(1) | 250 | 500
+5.regulation 9 | 250 | 500
+6.regulation 12 | 250 | 500
+7.regulation 13 | 250 | 500
+8.regulation 14 | 250 | 500
+Environmental Protection (Metal Coating) Regulations 2001
+1.regulation 4 | 250 | 500
+2.regulation 5 | 250 | 500
+3.regulation 6 | 250 | 500
+4.regulation 7 | 250 | 500
+5.regulation 8 | 250 | 500
+6.regulation 9 | 250 | 500
+7.regulation 10(1) | 250 | 500
+8.regulation 10(2) | 250 | 500
+9.regulation 11(1) | 250 | 500
+10.regulation 11(2) | 250 | 500
+11.regulation 12 | 250 | 500
+Environmental Protection (Rural Landfill) Regulations 2002
+1.regulation 5 | 250 | 500
+2.regulation 6(1) | 250 | 500
+3.regulation 6(3) | 250 | 500
+4.regulation 7 | 250 | 500
+5.regulation 8 | 250 | 500
+6.regulation 9 | 250 | 500
+7.regulation 10 | 250 | 500
+8.regulation 11 | 250 | 500
+9.regulation 12 | 250 | 500
+10.regulation 13(1) | 250 | 500
+11.regulation 14 | 250 | 500
+12.regulation 15 | 250 | 500
+13.regulation 16 | 250 | 500
+14.regulation 17(1) | 250 | 500
+Environmental Protection (NEPM — UPM) Regulations 2003
+1.regulation 5(1)(a) | 250 | 500
+2.regulation 5(1)(b) | 250 | 500
+3.regulation 8(1) | 250 | 500
+4.regulation 8(2) | 250 | 500
+Environmental Protection (Unauthorised Discharges) Regulations 2004
+1.regulation 3(1) | 250 | 500
+2.regulation 4(1) | 250 | 500
+3.regulation 4(2) | 250 | 500
+Environmental Protection (Controlled Waste) Regulations 2004
+1.regulation 6(4) | 250 | 500
+2.regulation 11(1) | 250 | 500
+3.regulation 13(2) | 250 | 500
+4.regulation 14 | 250 | 500
+5.regulation 15(1) | 250 | 500
+6.regulation 15(2) | 250 | 500
+7.regulation 17 | 250 | 500
+8.regulation 19(2) | 250 | 500
+9.regulation 21 | 250 | 500
+10.regulation 22(5) | 250 | 500
+11.regulation 25(1) | 250 | 500
+12.regulation 25(2) | 250 | 500
+13.regulation 25(3) | 250 | 500
+14.regulation 25(4) | 250 | 500
+15.regulation 25(6) | 250 | 500
+16.regulation 26(2) | 250 | 500
+17.regulation 27(3) | 250 | 500
+18.regulation 28(1) | 250 | 500
+19.regulation 29(1) | 250 | 500
+20.regulation 30(1) | 250 | 500
+21.regulation 31(1) | 250 | 500
+22.regulation 32(1) | 250 | 500
+23.regulation 33 | 250 | 500
+24.regulation 34 | 250 | 500
+25.regulation 35(1) | 250 | 500
+26.regulation 35(2) | 250 | 500
+27.regulation 38(1) | 250 | 500
+28.regulation 38(2) | 250 | 500
+29.regulation 38(3) | 250 | 500
+30.regulation 38(4) | 250 | 500
+31.regulation 39(7) | 250 | 500
+32.regulation 40(2) | 250 | 500
+33.regulation 41(7) | 250 | 500
+34.regulation 43 | 250 | 500
+35.regulation 44 | 250 | 500
+36.regulation 45 | 250 | 500
+38.regulation 47 | 250 | 500
+39.regulation 50 | 250 | 500
+40.regulation 51(2) | 250 | 500
+[Schedule 6 inserted in Gazette 11 Dec 1998 p. 6605-8; amended in Gazette 15 Aug 2000 p. 4718; 19 Dec 2000 p. 7284; 5 Jan 2001 p. 119; 30 Mar 2001 p. 1809, p. 1828 and 1867-8; 12 Apr 2001 p. 2097; 30 Nov 2001 p. 6071; 14 Jun 2002 p. 2794-5; 20 Dec 2002 p. 6020; 23 Jul 2003 p. 3173; 12 Mar 2004 p. 748-9; 1 Jul 2004 p. 2664-6.]
