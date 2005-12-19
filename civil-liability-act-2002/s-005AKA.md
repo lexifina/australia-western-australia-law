@@ -1,0 +1,11 @@
+### 5AKA. Duty of defendant to inform plaintiff about concurrent wrongdoers
+(1) If —
+(a) a defendant in proceedings involving an apportionable claim has reasonable grounds to believe that a particular person (the “other person”) may be a concurrent wrongdoer in relation to the claim;
+(b) the defendant fails to give the plaintiff, as soon as practicable, written notice of the information that the defendant has about —
+(i) the identity of the other person; and
+(ii) the circumstances that may make the other person a concurrent wrongdoer in relation to the claim;
+and
+(c) the plaintiff unnecessarily incurs costs in the proceedings because the plaintiff was not aware that the other person may be a concurrent wrongdoer in relation to the claim,
+the court hearing the proceedings may order that the defendant pay all or any of those costs to the plaintiff.
+(2) The court may order that the costs to be paid by the defendant be assessed on an indemnity basis or otherwise.
+[Section 5AKA inserted by No. 43 of 2004 s. 9.]
