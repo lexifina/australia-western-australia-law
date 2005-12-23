@@ -1,0 +1,19 @@
+## Schedule 5.3 — Hazardous substances for which health surveillance is required
+[Regulation 5.23(1)]
+Hazardous Substance | Type of Health Surveillance
+acrylonitrile | ·Demography, occupational and medical history and health advice. ·Physical examination if indicated. ·Records of personal exposure.
+inorganic arsenic | ·Demography, occupational and medical history and health advice. ·Physical examination with emphasis on the peripheral nervous system and skin. ·Urinary total arsenic. ·Records of personal exposure.
+asbestos | ·Demography, occupational and medical history and health advice. ·Physical examination if indicated. ·Records of personal exposure.
+benzene | ·Demography, occupational and medical history and health advice. ·Baseline blood sample for haematological profile. ·Records of personal exposure.
+cadmium | ·Demography, occupational and medical history. ·Health advice, including counselling on additional cadmium burden from smoking. ·Physical examination with emphasis on the respiratory system. ·Completion of a standardized respiratory questionnaire. ·Standardized respiratory function tests such as FEV1, FVC and FEV1/FVC. ·Urinary cadmium and β2-microglobulin. ·Records of personal exposure.
+inorganic chromium | ·Demography, occupational and medical history and health advice. ·Physical examination with emphasis on the respiratory system and skin. ·Weekly skin inspection of hands and forearms by a responsible person.
+creosote | ·Demography, occupational and medical history. ·Health advice, including recognition of photosensitivity and skin changes. ·Physical examination with emphasis on the neurological system and skin, noting any abnormal lesions, and evidence of skin sensitisation. ·Records of personal exposure, including photosensitivity.
+isocyanates | ·Demography, occupational and medical history and health advice. ·Completion of a standardized respiratory questionnaire. ·Physical examination of the respiratory system and skin. ·Standardized respiratory function tests such as FEV1, FVC and FEV1/FVC.
+inorganic mercury | ·Demography, occupational and medical history and health advice. ·Physical examination with emphasis on neurological, renal and gastrointestinal systems and skin. ·Urinary inorganic mercury.
+4,4’- methylene bis 2- chloroaniline (MOCA) | ·Demography, occupational and medical history and health advice. ·Urinary total MOCA. ·Dipstick analysis of urine for haematuria. ·Urine cytology.
+organophosphate pesticides | ·Demography, occupational and medical history and health advice. ·Physical examination. ·Baseline estimation of red cell and plasma cholinesterase activity levels by the Ellman method. Estimation of red cell and plasma cholinesterase activity towards the end of the working day.
+pentachlorophenol (PCP) | ·Demography, occupational and medical history and health advice. ·Physical examination with emphasis on skin, noting any abnormal lesions or effects of irritancy. ·Urinary total pentacholorophenol. ·Dipstick urinanalysis for haematuria and proteinuria. ·Records of personal exposure.
+polycyclic aromatic hydrocarbons (PAH) | ·Demography, occupational and medical history. ·Health advice, including recognition of photosensitivity and skin changes. ·Physical examination if indicated. ·Records of personal exposure, including photosensitivity.
+crystalline silica | ·Demography, occupational and medical history and health advice. ·Completion of a standardized respiratory questionnaire. ·Standardized respiratory function tests such as FEV1, FVC and FEV1/FVC. ·Chest X-ray, full size PA view. ·Records of personal exposure.
+thallium | ·Demography, occupational and medical history and health advice. ·Physical examination if indicated. ·Urinary thallium.
+vinyl chloride | ·Demography, occupational and medical history and health advice. ·Physical examination if indicated. ·Records of personal exposure.
