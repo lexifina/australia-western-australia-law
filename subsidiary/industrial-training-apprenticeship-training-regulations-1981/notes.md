@@ -28,10 +28,7 @@ Industrial Training (Apprenticeship Training) Amendment Regulations 2001 | 12 Oc
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 2001 | 2 Nov 2001 p. 5794-5 | 2 Nov 2001
 Reprint of the Industrial Training (Apprenticeship Training) Regulations 1981 as at 2 Aug 2002 (includes amendments listed above)
 Industrial Training (Apprenticeship Training) Amendment Regulations 2005 | 12 Aug 2005 p. 3651-2 | 12 Aug 2005
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 2005 r. 4-8 | 18 Nov 2005 p. 5657-9 | 1 Jan 2006 (see r. 2)
+Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 2005 | 18 Nov 2005 p. 5657-9 | 1 Jan 2006 (see r. 2)
 The definition of “Council” was deleted from s. 4 of the Act by the State Employment and Skills Development Authority Act 1990 s. 45(a)(ii). The definition of “Authority” inserted by s. 45(a)(i) of that Act was deleted by the Vocational Education and Training Act 1996 Sch. 3 cl. 12.
 The Education Regulations 1960 r. 4 referred to the Director of technical education. Those regulations were repealed by the School Education Act 1999 s. 246(2).
 “Approved College” is defined in r. 4 of the Industrial Training (General Apprenticeship) Regulations 1981: see r. 3 of these regulations. The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996 s. 70(1).
@@ -94,39 +91,8 @@ The Industrial Training (Apprenticeship Training) Regulations 2001 r. 3 reads as
 (3) Any person who completes the course of training prescribed in relation to a former trade under the Industrial Training (Apprenticeship Training) Regulations 1981 as in force before the commencement of these regulations is entitled to be issued with a certificate for the trade of “Graphic Pre-Press”, listed in Schedule 1 to the Industrial Training (Apprenticeship Training) Regulations 1981 as a consequence of these regulations.
 ”.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
-On the date as at which this compilation was prepared, the Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 2005 r. 4-8 had not come into operation. They read as follows:
+The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 2005 r. 8 reads as follows:
 “
-4.Schedule 1 amended
-Schedule 1 is amended as follows:
-(a) by deleting the items for —
-(i) Baking (Combined Breadmaking and Pastrycooking);
-(ii) Breadmaking; and
-(iii) Pastrycooking;
-(b) before the item for “Composites Laminating” by inserting the following items —
-“
-Baking (Combined Breadmaking and Pastrycooking) | 3 years
-Breadmaking
-”;
-(c) in the item for “Composites Laminating” by deleting “3 years”;
-(d) after the item for “Footwear Manufacturing” by inserting the following item —
-“
-Pastrycooking
-”.
-5.Schedule 2 amended
-Schedule 2 is amended by deleting the item for “Pastrycooking”.
-6.Schedule 3A amended
-Schedule 3A is amended as follows:
-(a) before the item for “Composites Laminating” by inserting the following items —
-“
-Baking (Combined Breadmaking and Pastrycooking) | 310 hours | 310 hours | 170 hours
-Breadmaking | 295 hours | 295 hours
-”;
-(b) after the item for “Furniture Making” by inserting the following item —
-“
-Pastrycooking | 310 hours | 310 hours
-”.
-7.Schedule 4 amended
-Schedule 4 is amended by deleting the item for “Pastrycooking”.
 8.Transitional
 The Industrial Training (Apprenticeship Training) Regulations 1981 as in force immediately before 1 January 2006 continue to apply to and in relation to an apprentice who commenced service under an apprenticeship agreement (but not including any period of employment as a probationer) before 1 January 2006 in one of the following trades —
 (a) Baking (Combined Breadmaking and Pastrycooking);

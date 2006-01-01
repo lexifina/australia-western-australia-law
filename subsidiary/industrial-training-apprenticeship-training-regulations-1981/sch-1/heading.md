@@ -12,11 +12,9 @@ Art Glass
 Autobody Refinisher
 Autobody Repairer
 Automotive Electrical Fitting
-Baking (Combined Breadmaking and Pastrycooking)
 Bespoke and Surgical Bootmaking
 Binding and Finishing
 Boatbuilding
-Breadmaking
 Bricklaying
 Cabinetmaking
 Carpentry and Joinery
@@ -56,7 +54,6 @@ Metal Furniture Making
 Modelling (Fibrous Plaster)
 Optical Mechanics
 Painting and Decorating
-Pastrycooking
 Plastering
 Plumbing and Gasfitting
 Printing Machining
@@ -84,8 +81,11 @@ Weighing Instrument Mechanics
 Wickerworking
 Wood Machining
 Wood Turning
-Composites Laminating | 3 years
+Baking (Combined Breadmaking and Pastrycooking) | 3 years
+Breadmaking
+Composites Laminating
 Floorcovering
 Footwear Manufacturing
+Pastrycooking
 Roof Tiling
-[Schedule 1 inserted in Gazette 24 Dec 1987 p. 4548-9; amended in Gazette 25 Nov 1988 p. 4760-1; 2 Mar 1990 p. 1289; 14 Jan 1992 p. 127-8 and 130; 16 Oct 1992 p. 5199; 28 Sep 1993 p. 5322; 2 Dec 1994 p. 6385; 10 Oct 1995 p. 4773 and 4774; 28 Nov 1995 p. 5493 and 5494; 17 May 1996 p. 2049; 4 Oct 1996 p. 5231; 12 Oct 2001 p. 5564; 2 Nov 2001 p. 5794; 12 Aug 2005 p. 3652.]
+[Schedule 1 inserted in Gazette 24 Dec 1987 p. 4548-9; amended in Gazette 25 Nov 1988 p. 4760-1; 2 Mar 1990 p. 1289; 14 Jan 1992 p. 127-8 and 130; 16 Oct 1992 p. 5199; 28 Sep 1993 p. 5322; 2 Dec 1994 p. 6385; 10 Oct 1995 p. 4773 and 4774; 28 Nov 1995 p. 5493 and 5494; 17 May 1996 p. 2049; 4 Oct 1996 p. 5231; 12 Oct 2001 p. 5564; 2 Nov 2001 p. 5794; 12 Aug 2005 p. 3652; 18 Nov 2005 p. 5657-8.]
