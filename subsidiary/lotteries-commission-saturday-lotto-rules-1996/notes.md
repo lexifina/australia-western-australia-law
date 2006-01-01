@@ -11,3 +11,4 @@ Lotteries Commission (Saturday Lotto) Amendment Rules 2002 | 28 Mar 2002 p. 1765
 Reprint of the Lotteries Commission (Saturday Lotto) Rules 1996 as at 17 May 2002 (includes amendments listed above)
 Lotteries Commission (Saturday Lotto) Amendment Rules (No. 2) 2002 | 10 Sep 2002 p. 4597-601 | 29 Sep 2002 (see r. 2)
 Lotteries Commission (Saturday Lotto) Amendment Rules 2003 | 8 Aug 2003 p. 3577-8 | 10 Aug 2003 (see r. 2)
+Lotteries Commission (Saturday Lotto) Amendment Rules 2005 | 23 Dec 2005 p. 6274-5 | 1 Jan 2006 (see r. 2)

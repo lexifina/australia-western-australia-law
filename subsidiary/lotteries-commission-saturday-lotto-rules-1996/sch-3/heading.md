@@ -16,8 +16,8 @@ Supplementary numbers drawn | 2
 Forecast range | 1 to 45 inclusive
 Odds of winning — division 1 division 2 division 3 division 4 division 5 | 1 in 8 145 060 1 in 678 755 1 in 36 690 1 in 733 1 in 298
 Systems range | 4-5/7-20 inclusive
-Multiweek options | 2, 5 or 10 weeks
-Advance sales (maximum) | 10 weeks
+Multiweek options (if available) | 2, 5 or 10 weeks
+Advance sales (maximum) (if available) | 10 weeks
 Games per entry coupon (minimum) | 4
 Systems entries per entry coupon (maximum) (subject to maximum aggregate entry cost) | 12
 Games per entry coupon (maximum) Systems entries per entry coupon — systems 4 to 8 (maximum) — systems 9 to 20 (maximum) | 12 12 5
@@ -25,4 +25,4 @@ Games per oral request | 12, 14, 18 or 25
 Systems entries per oral request | 1
 Prize payout period | 12 months
 Maximum Aggregate Entry Cost | $99,999.00
-[Schedule 3 amended in Gazette 29 Apr 1997 p. 2147; 9 Mar 2001 p. 1327-8; 10 Sep 2002 p. 4601.]
+[Schedule 3 amended in Gazette 29 Apr 1997 p. 2147; 9 Mar 2001 p. 1327-8; 10 Sep 2002 p. 4601; 23 Dec 2005 p. 6275.]
