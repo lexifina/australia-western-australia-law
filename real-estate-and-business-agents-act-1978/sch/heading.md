@@ -57,7 +57,7 @@ a person who is a licensee and the holder of a current triennial certificate, bu
 (d) the manager referred to in paragraph (b) shall not be a licensee nominated as manager by any other licensee, shall not be a manager of any other office, and shall not carry on business as an agent on his own account, but if the manager of the Real Estate and Business Agents Section of the company is, in the opinion of the Board, normally in substantial attendance at any one office, another licensee is not required in respect of that office.
 (4) In subclause (3)(b) “metropolitan region” means that part of the State that comprised the metropolitan region within the meaning of the Town Planning and Development Act 1928 as amended and in force on the date on which this clause came into operation.
 [Clause 8 amended by No. 74 of 1980 s. 13(d).]
-[9, 10. Omitted under the Reprints Act 1984 s. 7(4)(e).]
+[9, 10.Omitted under the Reprints Act 1984 s. 7(4)(e).]
 Persons of a kind referred to in section 4(3)(v) of the repealed Act and whose licences have been continued under clause 7
 11.Such a licence shall not be effective any longer than is necessary for the licensee to perform his functions, exercise his powers, and carry out his duties as executor, administrator, or trustee of the deceased licensee.
 Persons of a kind referred to in section 4(3)(vi) of the repealed Act and whose licences have been continued under clause 7
