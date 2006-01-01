@@ -1,8 +1,8 @@
 Notes
 This is a compilation of the Imperial Acts Adopting Act 1836 and includes all amendments effected by the other Acts referred to in the following Table.
-Table of Acts
-Act | Number and Year | Assent | Commencement | Miscellaneous
-Imperial Acts Adopting Act 1836 | 6 Will. IV, No. 4, 1836 | 11 April 1836 | 11 April 1836 | Short title subsequently given (see note under last paragraph of Act)
+Complilation table
+Act | Number and Year | Assent | Commencement
+Imperial Acts Adopting Act 1836 | 6 Will. IV, No. 4, 1836 | 11 April 1836 | 11 April 1836
 Criminal Code Act 1902, s 3 & 3rd Schedule | 1 & 2 Edw. VII, No. 14, 1902 | 19 February 1902 | 1 May 1902
 Statute Law Revision Act 1970, s 3 | 10 of 1970 | 29 April 1970 | 29 April 1970
 This preamble refers to Acts passed in the reign of William IV and the Acts referred to were passed in his reign. However the Acts themselves are cited in the Statutes of the United Kingdom as chapters of 11 George IV and 1 William IV.
@@ -13,7 +13,7 @@ This adopted Act (11 Geo. IV & 1 Will. IV c. 65), [the Infants Property Act 1830
 This adopted Act (11 Geo. IV & 1 Will. IV c. 66), so far as it was a part of the law of WA, was subsequently repealed:
 •All but s 21 was repealed by the Criminal Law Consolidation Ordinance 1865 (29 Vict. No. 5) s 5 [Assent 7 July 1865].
 •The balance was repealed by the Criminal Code Act 1902 (1 & 2 Edw. VII No. 14) s 3 [Assent 19 February 1902; Commencement 1 May 1902].
-This adopted Act (1 & 2 Will. IV c. 4), [the Excise Declarations Act 1831 (Imp)] has been reproduced as at 26 October 1999 as part of the document entitled “Imperial Acts Adopted”.
+This adopted Act (1 & 2 Will. IV c. 4), [the Excise Declarations Act 1831 (Imp)], so far as it was a part of the law of WA, was subsequently repealed by the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 (No. 24 of 2005) s 4.
 This adopted Act (2 & 3 Will. IV c. 34), so far as it was a part of the law of WA, was subsequently repealed by the Criminal Law Consolidation Ordinance 1865 (29 Vict. No. 5) s 5 [Assent 7 July 1865].
 This adopted Act (2 & 3 Will. IV c. 71), [the Prescription Act 1832 (Imp)] has been reproduced as at 26 October 1999 as part of the document entitled “Imperial Acts Adopted”.
 This adopted Act (2 & 3 Will. IV c. 98), [the Bills of exchange (non-payment) (1832) (Imp)] has been reproduced as at 26 October 1999 as part of the document entitled “Imperial Acts Adopted”.
