@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 26 August 2005 of the Road Traffic (Licensing) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Licensing) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Licensing) Regulations 1975 | 29 May 1975 p. 1577-88 | 1 Jun 1975
@@ -124,6 +124,7 @@ Road Traffic (Licensing) Amendment Regulations (No. 2) 2005 | 27 May 2005 p. 230
 Road Traffic (Licensing) Amendment Regulations (No. 4) 2005 | 26 Jul 2005 p. 3402 | 26 Jul 2005
 Reprint 6: The Road Traffic (Licensing) Regulations 1975 as at 26 Aug 2005 (includes amendments listed above)
 Road Traffic (Licensing) Amendment Regulations 2005 | 16 Sep 2005 p. 4326 | 16 Sep 2005
+Road Traffic (Licensing) Amendment Regulations (No. 3) 2005 | 23 Dec 2005 p. 6283-5 | 1 Jan 2006 (see r. 2 and Gazette 23 Dec 2005 p. 6244-5)
 Superseded by the Fire and Emergency Services Authority of Western Australia established by the Fire and Emergency Services Authority of Western Australia Act 1998.
 Under the Interpretation Act 1984 s. 16, a reference to the Land Act 1928 may be read as a reference to the Land Administration Act 1997. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Revoked on 4 Oct 1974 (see Gazette 3 Oct 1974 p. 3701).
