@@ -1,6 +1,7 @@
 ## Appendix C
 (Regulation 56)
 ## Basic scale of apparatus, equipment and reference books required by a registered pharmacy
+Bar code scanner .................................................................................. | 1 only
 Beakers:
 100 ml ........................................................................................ | 1 only
 250 ml ........................................................................................ | 1 only
@@ -35,4 +36,4 @@ Stirring Rods:
 Glass and Vulcanite .................................................................... | 2 each different sizes
 Reference Library:
 Current copy of the Australian Medicines Handbook Current copy of Australian Pharmaceutical Formulary Current copy of Martindale OR Current copy of AusDI Current copy of P.P. Guide or MIMS Pharmacy Act 1964 and regulations thereunder Poisons Act 1964 and regulations thereunder.
-[Appendix C inserted in Gazette 27 Jun 1997 p. 3109-10; amended in Gazette 16 Jan 2004 p. 197.]
+[Appendix C inserted in Gazette 27 Jun 1997 p. 3109-10; amended in Gazette 16 Jan 2004 p. 197; 15 Nov 2005 p. 5599.]

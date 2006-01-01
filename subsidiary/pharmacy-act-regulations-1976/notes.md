@@ -19,16 +19,6 @@ Pharmacy Amendment Regulations 2000 | 30 Jun 2000 p. 3405-6 | 1 Jul 2000 (see r.
 Reprint 2: The Pharmacy Act Regulations 1976 as at 14 Nov 2003 (includes amendments listed above)
 Pharmacy Amendment Regulations 2003 | 16 Jan 2004 p. 196-7 | 16 Jan 2004
 Pharmacy Amendment Regulations 2004 | 30 Dec 2004 p. 6969-70 | 1 Jan 2005 (see r 2 and Gazette 31 Dec 2004 p. 7130)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Pharmacy Amendment Regulations 2005 r. 4 | 15 Nov 2005 p. 5599 | 1 Jan 2006 (see r. 2)
+Pharmacy Amendment Regulations 2005 | 15 Nov 2005 p. 5599 | 1 Jan 2006 (see r. 2)
 Repealed by the Friendly Societies (Western Australia) Act 1999.
 The commencement date of 1 Jul 1985 that was specified was before the date of gazettal.
-On the date as at which this compilation was prepared, the Pharmacy Amendment Regulations 2005 r. 4 had not come into operation. It reads as follows:
-“
-4.Appendix C amended
-Appendix C is amended by inserting before the entry relating to “Beakers:” —
-“
-Bar code scanner ....................................................… | 1 only
-”.
