@@ -24,10 +24,7 @@ Financial Administration Legislation Amendment Act 1993, sections 9 and 11 | 6 o
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998, section 76 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see section 2(1))
 Electoral Amendment Act 2000 section 22 | 36 of 2000 | 10 Oct 2000 | Proclaimed 21 Oct 2000 (see section 2(1) and Gazette 20 Oct 2000 p.5899)
 Constitution (Parliamentary Privileges) Amendment Act 2004 Pt. 2 | 41 of 2004 | 3 Nov 2004 | 3 Nov 2004 (see s. 2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 3 | 24 of 2005 | 2 Dec 2005 | To be proclaimed (see s. 2)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 3 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 N.B.:The Constitution Act 1889 was or is affected by —
 An Act to augment Ministerial Salaries. 55 Vict. No. 23 (1892). (Repealed by 60 Vict. No. 18.)
 The Officers of Parliament Act 1893. (56 Vict. No. 17). (Repealed by 63 Vict. No. 19.)
@@ -52,27 +49,3 @@ See Western Australia Constitution Act 1890 (U.K.) (53, 54 Vict. c.26), s.2 whic
 ”.
 [Note the proviso was amended by the Australian States Constitution Act 1907 (U.K.) (7 Ed. VII c.7).]
 Citation changed by Act No. 10 of 1970, s.4.
-On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 3 had not come into operation. It reads as follows:
-“
-Part 3 — Constitution Act 1889 amended
-5.The Act amended in this Part
-The amendments in this Part are to the Constitution Act 1889.
-6.Section 22 amended
-Section 22 is amended as follows —
-(a) by deleting “allegiance” and inserting instead —
-“ office ”;
-(b) by deleting “the” before “form” and inserting instead —
-“ a ”.
-7.Schedule E replaced
-Schedule E is repealed and the following Schedule is inserted instead —
-“
-Schedule E — Oath and affirmation of office
-[s. 22]
-Either —
-(a) I, [name], [insert an oath or affirmation according to the Oaths, Affidavits and Statutory Declarations Act 2005] that I will faithfully serve the people of Western Australia as a member of the *Legislative Council/Legislative Assembly.
-[*Delete the inapplicable.]
-or —
-(b) I, [name], [insert an oath or affirmation according to the Oaths, Affidavits and Statutory Declarations Act 2005] that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth the Second, her heirs and successors, according to law and will faithfully serve the people of Western Australia as a member of the *Legislative Council/Legislative Assembly.
-[*Delete the inapplicable.]
-”.
-”.

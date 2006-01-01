@@ -49,11 +49,11 @@ Courts Legislation Amendment and Repeal Act 2004 Pt. 10 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 7 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 7: The District Court of Western Australia Act 1969 as at 19 Aug 2005 (includes amendments listed above)
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 5 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 6 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 6 | 24 of 2005 | 2 Dec 2005 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
@@ -133,27 +133,5 @@ The Limitation Legislation Amendment and Repeal Act 2005 s. 10(2) reads as follo
 “
 10.Section 37 amended and a savings provision
 (2) The District Court of Western Australia Act 1969 section 37, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
-”.
-On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 6 had not come into operation. It reads as follows:
-“
-Part 6 — District Court of Western Australia Act 1969 amended
-17.The Act amended in this Part
-The amendments in this Part are to the District Court of Western Australia Act 1969.
-18.Section 11 amended
-Section 11(2) is repealed and the following subsection is inserted instead —
-“
-(2) Before a person who is appointed to be a District Court Judge, an acting District Court Judge, an auxiliary District Court Judge, or a commissioner of the Court, performs any function of the office, he or she shall take before the Governor, a Supreme Court Judge, or some person authorised for the purpose by the Governor, an oath or affirmation in the form set out in Schedule 1.
-”.
-19.Section 27 amended
-(1) Section 27(2) is repealed.
-(2) Section 27(3) is amended by deleting “Sections 174, 176 and 177” and inserting instead —
-“ Section 174 ”.
-20.Schedule replaced
-The Schedule is repealed and the following schedule is inserted instead —
-“
-Schedule 1 — Oath and affirmation of office
-[s. 11(2)]
-I, [name], [insert an oath or affirmation according to the Oaths, Affidavits and Statutory Declarations Act 2005] that I will faithfully serve the people and the State of Western Australia in the office of [title of office] of the District Court of Western Australia and I will do right to all manner of people, according to law, without fear or favour, affection or ill will.
-”.
 ”.
 This Act has a retrospective amendment effective from 1 May 2005 see the Acts Amendment (Justice) Act 2008 s. 24. The effect of this retrospective amendment has not been included in this document. To see the provision as amended by the retrospective amendment see the document as at 31 Mar 2008.

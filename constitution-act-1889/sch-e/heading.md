@@ -1,9 +1,10 @@
-## Schedule E
-[Section 22]
-OATH
-I, , do swear that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth the Second, her heirs and successors, according to law.
-So help me God.
-AFFIRMATION
-I, , do solemnly and sincerely affirm and declare that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth the Second, her heirs and successors, according to law.
-(Note: — The name of the reigning Sovereign for the time being is to be substituted from time to time).
-[Schedule E inserted by No. 15 of 1980 s.3]
+## Schedule E — Oath and affirmation of office
+[s. 22]
+[Heading inserted by No. 24 of 2005 s. 7.]
+Either —
+(a) I, [name], [insert an oath or affirmation according to the Oaths, Affidavits and Statutory Declarations Act 2005] that I will faithfully serve the people of Western Australia as a member of the *Legislative Council/Legislative Assembly.
+[*Delete the inapplicable.]
+or —
+(b) I, [name], [insert an oath or affirmation according to the Oaths, Affidavits and Statutory Declarations Act 2005] that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth the Second, her heirs and successors, according to law and will faithfully serve the people of Western Australia as a member of the *Legislative Council/Legislative Assembly.
+[*Delete the inapplicable.]
+[Schedule E inserted by No. 24 of 2005 s. 7.]

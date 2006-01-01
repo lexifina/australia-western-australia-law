@@ -18,11 +18,11 @@ Reprint 2: The Adoption Act 1994 as at 21 May 2004 (includes amendments listed a
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 2 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 79 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | To be proclaimed (see s. 2)
 The day fixed under s. 2(1) of the Adoption Amendment Act (No. 2) 2003 is 1 June 2003: see Gazette 20 May 2003 p. 1783.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Repealed by the Births, Deaths and Marriages Registration Act 1998.
@@ -156,13 +156,3 @@ s. 82(4) | s. 134(1b)
 s. 107(d)
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63, which gives effect to Sch. 1, had not come into operation. It reads as follows:
-“
-63.Various Acts amended
-Each Act listed in Schedule 1 is amended as set out in that Schedule below the short title of the Act.
-Schedule 1 it. 2 reads as follows:
-Schedule 1 — Amendments to various Acts
-[s. 63]
-2.Adoption Act 1994
-Sch. 1 cl. 2(1)(j) | Delete the paragraph and insert instead — “ (j)any person before whom a person may make a statutory declaration under the Oaths, Affidavits and Statutory Declarations Act 2005 or under the Statutory Declarations Act 1959 of the Commonwealth; ”.
-”.

@@ -58,6 +58,7 @@ Courts Legislation Amendment and Repeal Act 2004 Pt. 15 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 570 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 61 | 24 of 2005 | 2 Dec 2005 | s. 61: 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and are not included in this compilation. For the text of the provisions see the endnote referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -66,7 +67,7 @@ Native Title (State Provisions) Act 1999, s. 7.3 | 60 of 1999 | 10 Jan 2000 | Op
 Mining Amendment Act 2002 s. 12 | 15 of 2002 | 8 Jul 2002 | Proclamation published 14 Jan 2005 p. 164 revoked (see Gazette 24 Mar 2005 p. 1001); s. 12 to be proclaimed
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
 Mining Amendment Act 2004 Pt. 2-10 and 12 | 39 of 2004 | 3 Nov 2004 | To be proclaimed (see s. 2); Proclamation published 14 Jan 2005 p. 164 revoked (see Gazette 24 Mar 2005 p. 1002)
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 15 | 24 of 2005 | 2 Dec 2005 | To be proclaimed (see s. 2)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 62 | 24 of 2005 | 2 Dec 2005 | s. 62 operative on commencement of No. 39 of 2004 s. 82 (see s. 2(3))
 Mining Amendment Act 2005 s. 4-11 | 27 of 2005 | 12 Dec 2005 | s. 1-3: 12 Dec 2005 s. 4, 6, 7, 10: to be proclaimed (see s. 2(1)); s. 5 operative immediately after s. 4 of Act No. 39 of 2004 (see s. 2(2)); s. 8 operative immediately after s. 89 of Act No. 39 of 2004 (see s. 2(3)); s. 9 operative immediately after s. 16 of Act No. 39 of 2004 (see s. 2(4)); s. 11 operative immediately after s. 99 of Act No. 39 of 2004 (see s. 2(5))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984 s. 77(1).
@@ -127,20 +128,8 @@ The Mining Amendment Act 1993 s. 30(3) reads as follows:
 (c) the repeal effected by section 19(d) of the principal Act,
 have effect in relation to an exploration licence referred to in section 40(1)(a)(i) or (iii) of the principal Act.
 ”.
-On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 15 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 62 had not come into operation. It reads as follows:
 “
-Part 15 — Mining Act 1978 amended
-60.The Act amended in this Part
-The amendments in this Part are to the Mining Act 1978.
-61.Section 144 amended
-Section 144 is amended as follows:
-(a) by deleting paragraph (a) and inserting the following paragraph instead —
-“
-(a) any person who, under the Oaths, Affidavits and Statutory Declarations Act 2005, is an authorised witness for an affidavit;
-”;
-(b) by inserting after paragraph (c) —
-“ or ”;
-(c) by deleting paragraph (d) and “or” after it.
 62.Section 160D amended
 Section 160D is amended as follows:
 (a) by deleting paragraph (a) and inserting the following paragraph instead —

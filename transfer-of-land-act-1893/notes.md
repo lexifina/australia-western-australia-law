@@ -60,12 +60,12 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 120 | 74 of 2003 | 15 Dec 20
 Courts Legislation Amendment and Repeal Act 2004 Pt. 20 Div. 2 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 7: The Transfer of Land Act 1893 as at 6 May 2005 (includes amendments listed above)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 | 25 Mar 2003 | To be proclaimed (see s. 2)
 Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | To be proclaimed (see s. 2)
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | To be proclaimed (see s. 2)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997 (No. 30 of 1997).
 The Transfer of Land Amendment Act 1996 s. 6(2) reads as follows:
@@ -278,16 +278,7 @@ Schedule 3 cl. 4 reads as follows:
 (2) Section 110 is amended by inserting after “1997” —
 “ and section 32(3)(b) of the Contaminated Sites Act 2003 ”.
 ”.
-On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63, which gives effect to Sch. 1, had not come into operation. It reads as follows:
-“
-63.Various Acts amended
-Each Act listed in Schedule 1 is amended as set out in that Schedule below the short title of the Act.
-Schedule 1 it. 17 reads as follows:
-Schedule 1 — Amendments to various Acts
-[s. 63]
-17.Transfer of Land Act 1893
-Second Schedule Fourth Schedule Twenty-eighth Schedule | In each Schedule, delete “(The applicant if within the State to sign before the Registrar or an Assistant Registrar or a notary public, justice of the peace, commissioner for taking affidavits in the Supreme Court of Western Australia or legal practitioner; if out of the State, before a notary public, justice of the peace, or a commissioner for taking affidavits in the Supreme Court of Western Australia).” and insert instead — “ [The applicant, if in the State, to sign before the Registrar, an Assistant Registrar or any person who, under the Oaths, Affidavits and Statutory Declarations Act 2005, is an authorised witness for an affidavit made in the State; if out of the State, to sign before any person who, under that Act, is an authorised witness for an affidavit made out of the State.] ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 15.Acts in Schedule 2 amended

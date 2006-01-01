@@ -15,6 +15,6 @@ in the Schedule hereto or otherwise after the word thereabouts set forth a suffi
 7.That the names and addresses so far as known to me of the owners of all lands contiguous to the said land are as follows: —
 Dated this day of , 20
 Made and subscribed at in the presence of
-(The applicant if within the State to sign before the Registrar or an Assistant Registrar or a notary public, justice of the peace, commissioner for taking affidavits in the Supreme Court of Western Australia or legal practitioner; if out of the State, before a notary public, justice of the peace, or a commissioner for taking affidavits in the Supreme Court of Western Australia).
+[The applicant, if in the State, to sign before the Registrar, an Assistant Registrar or any person who, under the Oaths, Affidavits and Statutory Declarations Act 2005, is an authorised witness for an affidavit made in the State; if out of the State, to sign before any person who, under that Act, is an authorised witness for an affidavit made out of the State.]
 Schedule of Documents Referred To.
-[Second Schedule amended by No. 17 of 1950 s. 71; No. 113 of 1965 s. 4; No. 81 of 1996 s. 146(3).]
+[Second Schedule amended by No. 17 of 1950 s. 71; No. 113 of 1965 s. 4; No. 81 of 1996 s. 146(3); No. 24 of 2005 s. 63.]

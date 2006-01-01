@@ -75,12 +75,12 @@ Courts Legislation Amendment and Repeal Act 2004 Pt. 18 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 14 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 7: The Supreme Court Act 1935 as at 19 Aug 2005 (includes amendments listed above)
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 8 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 9 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Acts Amendment (Court of Appeal) Act 2004 s. 14 | 45 of 2004 | 9 Nov 2004 | To be proclaimed (see s. 2)
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 9 | 24 of 2005 | 2 Dec 2005 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Acts Amendment (Court of Appeal) Act 2004 s. 5(2) and Pt. 5 read as follows:
 “
@@ -205,41 +205,5 @@ The Limitation Legislation Amendment and Repeal Act 2005 s. 18(2) reads as follo
 “
 18.Section 29 repealed and a savings provision
 (2) The Supreme Court Act 1935 section 29, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
-”.
-On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 9 had not come into operation. It reads as follows:
-“
-Part 9 — Supreme Court Act 1935 amended
-27.The Act amended in this Part
-The amendments in this Part are to the Supreme Court Act 1935.
-28.Section 4 amended
-Section 4(1) is amended by deleting the definition of “Oath”.
-29.Section 9 amended
-Section 9(2) is repealed.
-30.Section 11 amended
-Section 11(1a) is repealed.
-31.Section 11AA amended
-Section 11AA(4) is amended as follows:
-(a) by inserting after paragraph (a) —
-“ and ”;
-(b) by deleting paragraph (b) and “and” after it.
-32.Section 11A amended
-Section 11A(4) is repealed.
-33.Section 13 inserted
-After section 12 the following section is inserted —
-“
-13.Oath of office
-Before a person who is appointed to an office referred to in section 6(3), or to the office of judge of appeal, Chief Justice or President, performs any function of the office, he or she shall take before the Governor, or some person authorised for the purpose by the Governor, an oath or affirmation in the form set out in the Second Schedule.
-”.
-34.Section 49 amended
-Section 49(1a) is repealed.
-35.Sections 175, 176 and 177 repealed
-Sections 175, 176 and 177 are repealed.
-36.Second Schedule replaced
-The Second Schedule is repealed and the following schedule is inserted instead —
-“
-Second Schedule — Oath and affirmation of office
-[s. 13]
-I, [name], [insert an oath or affirmation according to the Oaths, Affidavits and Statutory Declarations Act 2005] that I will faithfully serve the people and the State of Western Australia in the office of [title of office] of the Supreme Court of Western Australia and I will do right to all manner of people, according to law, without fear or favour, affection or ill will.
-”.
 ”.
 This Act has a retrospective amendment effective from 1 May 2005 see the Acts Amendment (Justice) Act 2008 s. 24. The effect of this retrospective amendment has not been included in this document. To see the provision as amended by the retrospective amendment see the document as at 31 Mar 2008.
