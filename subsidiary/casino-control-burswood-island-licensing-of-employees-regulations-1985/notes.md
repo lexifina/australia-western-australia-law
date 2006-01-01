@@ -19,30 +19,4 @@ Racing and Gambling (Miscellaneous) Amendment Regulations 2004 Pt. 3 | 30 Jan 20
 Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2004 | 7 Sep 2004 p. 3882 | 7 Sep 2004
 Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2005 | 24 Jun 2005 p. 2772-3 | 24 Jun 2005
 Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 3) 2005 | 14 Oct 2005 p. 4557-8 | 14 Oct 2005
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2005 r. 4 | 14 Oct 2005 p. 4560-1 | 1 Jan 2006 (see r. 2)
-On the date as at which this compilation was prepared, the Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2005 r. 4 had not come into operation. It reads as follows:
-“
-4.Regulation 6 amended
-(1) Regulation 6(1) is amended as follows:
-(a) in paragraph (a) by deleting “$300;” and inserting instead —
-“ $335; ”;
-(b) in paragraph (b) by deleting “$150.” and inserting instead —
-“ $215. ”.
-(2) Regulation 6(1a) is amended as follows:
-(a) in paragraph (a) by deleting “$75;” and inserting instead —
-“ $95; ”;
-(b) in paragraph (b) by deleting “$75.” and inserting instead —
-“ $95. ”.
-(3) Regulation 6(2) is amended as follows:
-(a) in paragraph (a) by deleting “$200;” and inserting instead —
-“ $250; ”;
-(b) by deleting “or” after paragraph (a);
-(c) by deleting the full stop at the end of paragraph (b) and inserting instead —
-“
-; or
-(c) for a casino key employee licence or a casino employee licence is made by a person who is required under regulation 4(4) to permit his or her fingerprints or palm prints to be taken and recorded, the application must be accompanied by a fee of $40.
-”.
-”.
+Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2005 | 14 Oct 2005 p. 4560-1 | 1 Jan 2006 (see r. 2)
