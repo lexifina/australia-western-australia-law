@@ -59,18 +59,18 @@ Member, or deputy of a member, of the Railways Classification Board, established
 [Heading inserted by No. 32 of 1994 s. 9(b).]
 The office or place of —
 Any person employed in a department or SES organization within the meaning of the Public Sector Management Act 1994, that is to say —
-(a)any person employed in —
-(i)that department who is a public service officer; or
-(ii)that SES organization who is a member of the Senior Executive Service,
+(a) any person employed in —
+(i) that department who is a public service officer; or
+(ii) that SES organization who is a member of the Senior Executive Service,
 within the meaning of that Act;
-(b)any person appointed or employed by the Governor under any Act administered in that department or SES organization;
-(c)any person —
-(i)who is appointed or employed under any enactment; or
-(ii)whose remuneration as such is defrayed in whole or in part out of moneys provided by Parliament,
+(b) any person appointed or employed by the Governor under any Act administered in that department or SES organization;
+(c) any person —
+(i) who is appointed or employed under any enactment; or
+(ii) whose remuneration as such is defrayed in whole or in part out of moneys provided by Parliament,
 being a person appointed or employed by —
-(iii)the Minister of the Crown administering that department or SES organization;
-(iv)the chief executive officer or chief employee, within the meaning of the Public Sector Management Act 1994, of that department or SES organization; or
-(v)a person in that department or SES organization in whom the power to make minor appointments is vested in accordance with the proviso to section 74 of the Constitution Act 1889.
+(iii) the Minister of the Crown administering that department or SES organization;
+(iv) the chief executive officer or chief employee, within the meaning of the Public Sector Management Act 1994, of that department or SES organization; or
+(v) a person in that department or SES organization in whom the power to make minor appointments is vested in accordance with the proviso to section 74 of the Constitution Act 1889.
 Any person appointed or employed by the holder of an office mentioned in Division 2 of Part 1.
 Any person appointed or employed by a body mentioned in Part 3 or by an instrumentality of which such a body is the governing authority or by the Western Australian Museum constituted under the Museum Act 1969, the Library Board of Western Australia constituted under the Library Board of Western Australia Act 1951, or the Western Australian Alcohol and Drug Authority established under the Alcohol and Drug Authority Act 1974.
 Any person who is an employee within the meaning of the Public Sector Management Act 1994 not referred to in a preceding item of this Division.
