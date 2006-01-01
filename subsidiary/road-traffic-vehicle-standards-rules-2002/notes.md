@@ -5,3 +5,4 @@ Citation | Gazettal | Commencement
 Road Traffic (Vehicle Standards) Rules 2002 | 12 Aug 2002 p. 4033-148 | 1 Nov 2002 (see r. 2)
 Road Traffic (Vehicle Standards) Amendment Rules 2002 | 3 Jan 2003 p. 3-5 | 3 Jan 2003
 Road Traffic (Vehicle Standards) Amendment Rules 2004 | 27 Jul 2004 p. 3083 | 27 Jul 2004
+Road Traffic (Vehicle Standards) Amendment Rules 2005 | 23 Dec 2005 p. 6280 | 1 Jan 2006 (see r. 2 and Gazette 23 Dec 2005 p. 6244-5)
