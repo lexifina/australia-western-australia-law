@@ -50,11 +50,11 @@ Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Companies (Co-operative) (Fees) Regulations 2005 published in Gazette 28 Jun 2005 p. 2903-5 | 1 Jul 2005 (see r. 2)
 Reprint 3: The Companies (Co-operative) Act 1943 as at 19 Aug 2005 (includes amendments listed above)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 21 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | To be proclaimed (see s. 2)
 This refers to the Commonwealth Bankruptcy Act 1924 which was replaced by the Commonwealth Bankruptcy Act 1966.
 The Companies Act 1893 was repealed by the Companies Act 1943, which was repealed by Companies Act 1961, s. 4 and 382(2), except in relation to Co-operative Companies, in respect of which it may now be cited as the Companies (Co-operative) Act 1943.
 Repealed by the Public Trustee Act 1941 s. 3.
@@ -77,14 +77,4 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 (3) Section 172(1) is amended by deleting paragraph (a) and “or” after it.
 (4) Section 176A(1)(c) is deleted.
 (5) Section 366 is amended in the definition of “Company” by deleting “, or a society registered under the Housing Societies Act 1976”.
-”.
-On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 which gives effect to Sch. 1 had not come into operation. It reads as follows:
-“
-63.Various Acts amended
-Each Act listed in Schedule 1 is amended as set out in that Schedule below the short title of the Act.
-Schedule 1 reads as follows:
-Schedule 1 — Amendments to various Acts
-[s. 63]
-5.Companies (Co-operative) Act 1943
-s. 432 | Delete “commissioner for taking affidavits in the Supreme Court or commissioner for declarations” and insert instead — “ any person who may witness a statutory declaration ”.
 ”.

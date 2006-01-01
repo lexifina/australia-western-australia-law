@@ -132,14 +132,12 @@ Acts Amendment (Family and Domestic Violence) Act 2004 Pt. 4 | 38 of 2004 | 9 No
 Acts Amendment (Court of Appeal) Act 2004 s. 30 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Law Amendment (Sexual Assault and Other Matters) Act 2004 Pt. 2 | 46 of 2004 | 9 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 9 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-Criminal Law Amendment (Simple Offences) Act 2004 Pt. 2 19-21 | 70 of 2004 | 8 Dec 2004 | Act other than s. 37 & 39: 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
+Criminal Law Amendment (Simple Offences) Act 2004 Pt. 2 | 70 of 2004 | 8 Dec 2004 | Act other than s. 37 & 39: 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Code Amendment (Racial Vilification) Act 2004 | 80 of 2004 | 8 Dec 2004 | 8 Dec 2004 (see s. 2)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 5, s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 12: The Criminal Code Act Compilation Act 1913 as at 1 Jun 2005 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 11 | 24 of 2005 | 2 Dec 2005 | To be proclaimed (see s. 2)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 11 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
+Defamation Act 2005 s. 47 | 44 of 2005 | 19 Dec 2005 | 1 Jan 2006 (see s. 2)
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 The Criminal Code Amendment Act (No. 2) 1996 s. 4(3) reads as follows:
@@ -161,31 +159,8 @@ The Acts Amendment (Ministry of Justice) Act 1993 s. 68 and 69 are savings and t
 The Sentencing (Consequential Provisions) Act 1995 s. 27 is a transitional provision.
 The Mental Health (Consequential Provisions) Act 1996 s. 20 is a transitional provision.
 The Criminal Law Amendment (Simple Offences) Act 2004 s. 37 cannot be proclaimed. See s. 2(4) and the Criminal Code Amendment (Racial Vilification) Act 2004.
-The Criminal Law Amendment (Simple Offences) Act 2004 s. 39 cannot be proclaimed. See s. 2(7). The Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Bill 2004 was not enacted.
+Footnote no longer applicable.
 The amendment in the Criminal Law Amendment (Simple Offences) Act 2004 s. 35(4) to The Criminal Code s. 635A(5) is not included because s. 635A was repealed by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 24 before s. 35(4) commenced.
 The amendments in the Criminal Code Amendment (Racial Vilification) Act 2004 s. 7-9 do not have any effect as, before the Act received the Royal Assent, the provisions they would have amended were amended by the Acts Amendment (Family and Domestic Violence) Act 2004 s. 67-69.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 to The Criminal Code s. 5(11) is not included because s. 5(11) was amended by the Courts Legislation Amendment and Repeal Act 2004 s. 80 before s. 82 commenced.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 to The Criminal Code s. 133A is not included because s. 133A was amended by s. 28 of that Act.
-On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 11 had not come into operation. It reads as follows:
-“
-Part 11 — The Criminal Code amended
-40.The Criminal Code amended in this Part
-The amendments in this Part are to The Criminal Code.
-41.Section 169 replaced
-Section 169 is repealed and the following section is inserted instead —
-“
-169.False statements on oath
-(1) Any person who, when under oath or any sanction that may be lawfully substituted for an oath, knowingly makes a statement, whether orally or in writing, that is false in a material particular is guilty of a crime and is liable to imprisonment for 7 years.
-Summary conviction penalty: imprisonment for 3 years and a fine of $36 000.
-(2) Any person who knowingly makes a statement that is false in a material particular in a statutory declaration is guilty of a crime and is liable to imprisonment for 5 years.
-Summary conviction penalty: imprisonment for 2 years and a fine of $24 000.
-”.
-42.Section 170 replaced
-Section 170 is repealed and the following section is inserted instead —
-“
-170.False information to officials etc.
-(1) Any person who, being required under a written law to give information, whether orally or in writing, to another person, knowingly gives information to the other person that is false in a material particular is guilty of a crime and is liable to imprisonment for 3 years.
-Summary conviction penalty: imprisonment for 18 months and a fine of $18 000.
-(2) Subsection (1) does not apply if the person is required to give the information on oath or in a statutory declaration.
-”.
-”.

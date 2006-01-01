@@ -56,10 +56,7 @@ Acts Amendment and Repeal (Financial Sector Reform) Act 1999, section 59 | 26 of
 Acts Amendment (Lesbian and Gay Law Reform) Act 2002 Pt. 2 | 3 of 2002 | 17 Apr 2002 | 21 Sep 2002 (see s. 2 and Gazette 20 Sep 2002 p.4693)
 Family Court Amendment Act 2002 s. 52 | 25 of 2002 | 25 Sep 2002 | 1 Dec2002 (see s. 2 and Gazette 29 Nov 2002 p. 5651)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | To be proclaimed (see s. 2)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 N.B.In this compilation the numbering of Parts, sections, Divisions etc. effected in the 1934 reprint (not in a volume), the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and subsequent reprints has again been retained. References to the original numbering are contained in those reprints.
 Repealed by section 2 of this Act.
 Part IV, Curator of Intestate Estates, as enacted by this Act (No. 13 of 1903), was repealed by the Curator of Intestate Estates Act 1918 (No. 9 of 1918). Now see the Public Trustee Act 1941 (No. 26 of 1941).
@@ -80,14 +77,4 @@ Section 3(2), (3), (4) and (5) of the Death Duty Assessment Act 1973 (No. 80 of 
 Section 2(2) of the Administration Act Amendment Act 1970 (No. 107 of 1970) reads as follows —
 “
 (2) The provisions of the principal Act as in force immediately before the commencement of this Act shall apply in the same manner and to the same extent to and with respect to the estates of persons dying before the first day of July, nineteen hundred and seventy as those provisions applied immediately before the coming into operation of this Act.
-”.
-On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63, which gives effect to Sch. 1, had not come into operation. It reads as follows:
-“
-63.Various Acts amended
-Each Act listed in Schedule 1 is amended as set out in that Schedule below the short title of the Act.
-Schedule 1 it. 1 reads as follows:
-Schedule 1 — Amendments to various Acts
-[s. 63]
-1.Administration Act 1903
-s. 54(2) | Delete “Commissioners of the Supreme Court” and insert instead — “ the Principal Registrar ”.
 ”.

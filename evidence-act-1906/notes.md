@@ -86,11 +86,11 @@ Misuse of Drugs Amendment Act 2004 s. 9(2) | 62 of 2004 | 24 Nov 2004 | 1 Jan 20
 Criminal Law Amendment (Simple Offences) Act 2004 s. 19(3) and 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 8, s. 80, 82 and 85 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 13: The Evidence Act 1906 as at 1 Jul 2005 (includes amendments listed above)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 12 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 12 | 24 of 2005 | 2 Dec 2005 | To be proclaimed (see s. 2)
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 “
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
@@ -202,50 +202,4 @@ s. 102 | Leaving child unsupervised in vehicle
 “
 2.A proceeding also comes within the provisions of the Schedule if it is an application under Part 4 or 5 of the Children and Community Services Act 2004.
 ”.
-”.
-On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 12 had not come into operation. It reads as follows:
-“
-Part 12 — Evidence Act 1906 amended
-43.The Act amended in this Part
-The amendments in this Part are to the Evidence Act 1906.
-44.Section 97 amended
-Section 97(3) and (4) are repealed and the following subsection is inserted instead —
-“
-(3) The form of oath for a witness is as follows —
-I [insert an oath or affirmation according to the Oaths, Affidavits and Statutory Declarations Act 2005] that the evidence I will give in this case will be the truth, the whole truth and nothing but the truth.
-”.
-45.Sections 98, 98A, 99 and 100 repealed
-Sections 98, 98A, 99 and 100 are repealed.
-46.Section 100A amended
-(1) Section 100A(1) is amended by deleting “solemn”.
-(2) Section 100A(2) is amended by deleting “solemn” in the 2 places where it occurs.
-47.Section 102 amended
-(1) Section 102(1) is repealed and the following subsection is inserted instead —
-“
-(1) If a person is called to act as an interpreter in any court, or before any person acting judicially, and that person, had he or she been tendered as a witness, would have been required to take an oath or make an affirmation, he or she shall be required to take an oath or affirmation as follows —
-I [insert an oath or affirmation according to the Oaths, Affidavits and Statutory Declarations Act 2005] that I will well and truly translate any evidence that I am asked to translate in this case.
-”.
-(2) Section 102(2) is amended by deleting “or made a solemn affirmation or declaration” and inserting instead —
-“ or made an affirmation ”.
-48.Section 103 amended
-Section 103(1) is amended by deleting “a solemn” and inserting instead —
-“ an ”.
-49.Section 104 repealed
-Section 104 is repealed.
-50.Section 105 inserted
-After section 104A the following section is inserted —
-“
-105.Oaths, Affidavits and Statutory Declarations Act 2005, application of
-This Act does not limit the operation of the Oaths, Affidavits and Statutory Declarations Act 2005 and in particular Part 2 of that Act.
-”.
-51.Section 106 repealed
-Section 106 is repealed.
-52.Section 106B amended
-(1) Section 106B(1) is amended by deleting “under section 97(3) or after making a solemn affirmation under section 97(4)” and inserting instead —
-“ or after making an affirmation ”.
-(2) Section 106B(2) is amended by deleting “a solemn” and inserting instead —
-“ an ”.
-53.Section 106C amended
-Section 106C is amended by deleting “a solemn” and inserting instead —
-“ an ”.
 ”.

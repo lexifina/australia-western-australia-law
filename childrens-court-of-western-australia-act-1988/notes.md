@@ -26,13 +26,13 @@ Reprint 3: The Children’s Court of Western Australia Act 1988 as at 10 Sep 200
 Acts Amendment (Court of Appeal) Act 2004 s. 29 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 7 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 4, s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 5 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 On the date as at which this consolidation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Sentencing Legislation Amendment Act 2004 s. 14 | 27 of 2004 | 14 Oct 2004 | To be proclaimed (see s. 2)
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 5 | 24 of 2005 | 2 Dec 2005 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 Chapter XXXII of The Criminal Code was repealed by the Acts Amendment (Evidence) Act 1991 s. 12(9).
 Section 47D of the Child Welfare Act 1947 was repealed by the Adoption Act 1994 s. 145.
@@ -123,26 +123,3 @@ decision on the hearing of an application under Part 4 or 5 of the Children and 
 ”;
 (c) by redesignating paragraphs (bb), (cc) and (dd) as paragraphs (b), (c) and (d) respectively.
 ”.
-On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 5 had not come into operation. It reads as follows:
-“
-Part 5 — Children’s Court of Western Australia Act 1988 amended
-13.The Act amended in this Part
-The amendments in this Part are to the Children’s Court of Western Australia Act 1988.
-14.Section 12 amended
-(1) Section 12(1) is repealed and the following subsection is inserted instead —
-“
-(1) Before a person who is appointed to be a Judge, or a magistrate, of the Court performs any function of the office, he or she shall take before the Governor, a Supreme Court Judge, or some person authorised for the purpose by the Governor, an oath or affirmation in the form set out in Schedule 1.
-”.
-(2) Section 12(1a)(a) is amended by deleting “allegiance and a judicial oath or affirmation” and inserting instead —
-“ office in respect of that office of judge ”.
-15.Section 18 amended
-Section 18(2) is repealed.
-16.Schedule 1 replaced
-Schedule 1 is repealed and the following schedule is inserted instead —
-“
-Schedule 1 — Oath and affirmation of office
-[s. 12(1)]
-I, [name], [insert an oath or affirmation according to the Oaths, Affidavits and Statutory Declarations Act 2005] that I will faithfully serve the people and the State of Western Australia in the office of [title of office] of the Children’s Court of Western Australia and I will do right to all manner of people, according to law, without fear or favour, affection or ill will.
-”.
-”.
-Footnote no longer applicable.

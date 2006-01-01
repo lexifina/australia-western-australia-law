@@ -15,19 +15,6 @@ Petroleum Legislation Amendment Act 2001 s. 18-21 | 11 of 2001 | 13 Jul 2001 | s
 Reprint of the Petroleum Products Pricing Act 1983 as at 11 Jan 2002 (includes amendments listed above) (correction in Gazette 20 Sep 2002 p. 4693)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | To be proclaimed (see s. 2)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Under the Alteration of Statutory Designations Order (No. 2) 2001 a reference in any law to the Department of Consumer Affairs or to the Ministry of Consumer Affairs or the Ministry of Fair Trading is to be read and construed as a reference to the Department of Consumer and Employment Protection.
 Now known as the Petroleum Products Pricing Act 1983; short title changed (see note under s. 1).
-On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63, which gives effect to Sch. 1, had not come into operation. It reads as follows:
-“
-63.Various Acts amended
-Each Act listed in Schedule 1 is amended as set out in that Schedule below the short title of the Act.
-Schedule 1 it. 12 reads as follows:
-Schedule 1 — Amendments to various Acts
-[s. 63]
-12.Petroleum Products Pricing Act 1983
-s. 23(1)(b)(iii) | Delete “has the authority of a Commissioner for Declarations” and insert instead — “ may witness a statutory declaration ”.
-”.

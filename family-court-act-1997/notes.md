@@ -14,12 +14,12 @@ Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 12 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 7 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnote referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 43(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 7 | 24 of 2005 | 2 Dec 2005 | To be proclaimed (see s. 2)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Repealed by the State Superannuation Act 2000.
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 43(2) had not come into operation. It reads as follows:
@@ -92,30 +92,7 @@ s. 160(4) | s. 207(3)
 s. 160(5) | s. 209(2)(f)
 ”.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 95 to amend s. 243(6) is not included because the section had already been repealed by the Criminal Code Amendment Act 2004 s. 58.
-On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 7 had not come into operation. It reads as follows:
-“
-Part 7 — Family Court Act 1997 amended
-21.The Act amended in this Part
-The amendments in this Part are to the Family Court Act 1997.
-22.Section 13 replaced
-Section 13 is repealed and the following section is inserted instead —
-“
-13.Oath of office
-Before a person who is appointed to be a Judge performs any function of the office, he or she shall take before the Governor, a Supreme Court Judge, or some person authorised for the purpose by the Governor, an oath or affirmation in the form set out in Schedule 1.
-”.
-23.Section 22 amended
-Section 22(4) is repealed and the following subsection is inserted instead —
-“
-(4) Before a person who is appointed to be an acting Judge performs any function of the office, he or she shall take before the Governor, a Supreme Court Judge, or some person authorised for the purpose by the Governor to do so, an oath or affirmation in the form set out in Schedule 1.
-”.
-24.Schedule 1 replaced
-Schedule 1 is repealed and the following schedule is inserted instead —
-“
-Schedule 1 — Oath and affirmation of office
-[s. 13 & 22(4)]
-I, [name], [insert an oath or affirmation according to the Oaths, Affidavits and Statutory Declarations Act 2005] that I will faithfully serve the people and the State of Western Australia in the office of [title of office] of the Family Court of Western Australia and I will do right to all manner of people, according to law, without fear or favour, affection or ill will.
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 15.Acts in Schedule 2 amended
