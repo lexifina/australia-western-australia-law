@@ -15,12 +15,12 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 467 | 55 of 2004 | 24 Nov 2004 | 24 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Disability Services Act 1993 as at 15 Jul 2005 (includes amendments listed above)
+Financial Administration Legislation Amendment Act 2005 s. 38 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
-Financial Administration Legislation Amendment Act 2005 s. 38 | 5 of 2005 | 27 Jun 2005 | To be proclaimed (see s. 2)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Disability Services Act 1993 Sch. 6 Pt. 2 reads as follows:
@@ -91,12 +91,7 @@ Schedule 2 — Amendments to other Acts
 ”.
 (3) Section 52(3) is repealed.
 ”.
-On the date as at which this reprint was prepared, the Financial Administration Legislation Amendment Act 2005 s. 38 had not come into operation. It reads as follows:
-“
-38.Disability Services Act 1993 amended
-(1) The amendment in this section is to the Disability Services Act 1993.
-(2) Section 29(1) is amended by deleting “62 or”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 15.Acts in Schedule 2 amended

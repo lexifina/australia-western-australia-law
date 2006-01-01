@@ -15,10 +15,7 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 10(3) and 50 | 74 of 2003 | 
 Reprint 2: The Energy Coordination Act 1994 as at 10 Sep 2004 (includes amendments listed above except those in the Energy Legislation Amendment Act 2003 Pt. 3 Div. 3 & 8)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 42 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Financial Administration Legislation Amendment Act 2005 s. 39 | 5 of 2005 | 27 Jun 2005 | To be proclaimed (see s. 2)
+Financial Administration Legislation Amendment Act 2005 s. 39 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
 The Solar Energy Research Act 1977 expired 30 June 1988.
 Formerly referred to the Energy Corporations (Powers) Act 1979 the short title of which was changed to the Energy Operators (Powers) Act 1979 by the Gas Corporation (Business Disposal) Act 1999 s. 78. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Energy Legislation Amendment Act 2003 Pt. 3 Div. 3 (other than s. 19) reads as follows:
@@ -291,10 +288,3 @@ The operation of any provision of this Schedule is not to be regarded —
 (e) as releasing or allowing the release of any surety.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Financial Administration Legislation Amendment Act 2005 s. 39, had not come into operation. It reads as follows:
-“
-39.Energy Coordination Act 1994 amended
-(1) The amendments in this section are to the Energy Coordination Act 1994.
-(2) Section 10(2)(b) is amended by deleting “section 62” and inserting instead —
-“ section 66 ”.
-”.
