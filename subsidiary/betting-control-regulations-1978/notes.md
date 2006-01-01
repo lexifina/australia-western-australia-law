@@ -40,37 +40,5 @@ Betting Control Amendment Regulations 2004 | 30 Jan 2004 p. 403-12 | 30 Jan 2004
 Betting Control Amendment Regulations (No. 2) 2004 | 1 Jul 2004 p. 2625-6 | 1 Jul 2004
 Betting Control Amendment Regulations (No. 3) 2004 | 9 Jul 2004 p. 2780-1 | 1 Jan 2005 (see r. 2)
 Reprint 4: The Betting Control Regulations 1978 as at 6 May 2005 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Betting Control Amendment Regulations (No. 2) 2005 r. 4 and 5 | 14 Oct 2005 p. 4558-9 | 1 Jan 2006 (see r. 2)
+Betting Control Amendment Regulations (No. 2) 2005 | 14 Oct 2005 p. 4558-9 | 1 Jan 2006 (see r. 2)
 Expired on 30 Jan 2005 (see Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 48 & 120).
-On the date as at which this compilation was prepared, the Betting Control Amendment Regulations (No. 2) 2005 r. 4 and 5 had not come into operation. They read as follows:
-“
-4.Regulation 17 amended
-(1) Regulation 17(1) is amended as follows:
-(a) in paragraph (ab) by deleting “$50;” and inserting instead —
-“ $55; ”;
-(b) in paragraph (ac) by deleting “$265;” and inserting instead —
-“ $270; ”;
-(c) in paragraph (a) by deleting “$525;” and inserting instead —
-“ $535; ”;
-(d) in paragraph (ba) by deleting “$125;” and inserting instead —
-“ $130; ”;
-(e) in paragraph (bb) by deleting “$65;” and inserting instead —
-“ $70; ”;
-(f) in paragraph (c) by deleting “$120;” and inserting instead —
-“ $125; ”.
-(2) Regulation 17(2) is amended by deleting “$75.” and inserting instead —
-“ $80. ”.
-(3) Regulation 17(3) is amended by deleting “$75.” and inserting instead —
-“ $80. ”.
-5.Regulation 17A amended
-Regulation 17A(1)(a) is amended as follows:
-(a) in subparagraph (i) by deleting “$290;” and inserting instead —
-“ $295; ”;
-(b) in subparagraph (ii) by deleting “$580;” and inserting instead —
-“ $595; ”;
-(c) in subparagraph (iii) by deleting “$875,” and inserting instead —
-“ $895, ”.
-”.
