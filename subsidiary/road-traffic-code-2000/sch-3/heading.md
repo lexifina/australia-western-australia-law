@@ -1,6 +1,6 @@
 ## Schedule 3 — Other permitted traffic signs
 [r. 299]
-Note In addition to the traffic signs in the Schedules to these regulations, the following are alternative versions of the signs that may be used to regulate traffic in this jurisdiction. These signs are not included in the Australian Standard AS1742 (Manual of Uniform Traffic Control Devices), but they may be still in use on roads in Western Australia.
+NoteIn addition to the traffic signs in the Schedules to these regulations, the following are alternative versions of the signs that may be used to regulate traffic in this jurisdiction. These signs are not included in the Australian Standard AS1742 (Manual of Uniform Traffic Control Devices), but they may be still in use on roads in Western Australia.
 Bicycle lane sign (regs 3, 132, 218) | Bridge load limit (mass per axle group) sign (reg 85)
 Bridge load limit (mass per axle group) sign (reg 85) | Bus lane sign (regs 3, 133)
 Bus lane sign (regs 3, 133) | Bus lane sign (regs 3, 133)
