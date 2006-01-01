@@ -20,6 +20,7 @@ Road Traffic Amendment Act 1996 Pt. 3 Div. 2 | 76 of 1996 | 14 Nov 1996 | 1 Feb 
 Acts Amendment (Land Administration) Act 1997 Pt. 15 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
 Reprint of the Control of Vehicles (Off-road Areas) Act 1978 as at 5 Mar 1999 (includes amendments listed above except those in the Control of Vehicles (Off-road Areas) Act 1978 s. 11) (Correction to reprint in Gazette 18 May 1999 p. 1965)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 48 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
+Road Traffic Amendment Act 2000 Pt. 3 Div. 1 | 39 of 2000 | 10 Oct 2000 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Machinery of Government (Planning and Infrastructure) Amendment Act 2002 Pt. 2 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
 Reprint of the Control of Vehicles (Off-road Areas) Act 1978 as at 2 Aug 2002 (includes amendments listed above)
 Environmental Protection Amendment Act 2003 s. 142 | 54 of 2003 | 20 Oct 2003 | 19 Nov 2003 (see s. 2 and Gazette 18 Nov 2003 p. 4723)
@@ -31,7 +32,6 @@ On the date on which this compilation was prepared, provisions referred to in th
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
  | Control of Vehicles (Off-road Areas) Act 1978 s. 11 | 117 of 1978 | 28 Dec 1973 | To be proclaimed (see s. 2)
- | Road Traffic Amendment Act 2000 Pt. 3 Div. 1 | 39 of 2000 | 10 Oct 2000 | To be proclaimed (see s. 2)
  | Road Traffic Amendment (Vehicle Licensing) Act 2001 Pt. 3 Div 2 | 28 of 2001 | 21 Dec 2001 | To be proclaimed (see s. 2)
  | Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
  | Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
@@ -67,136 +67,7 @@ The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 
 (2) The balance of the Off-Road Vehicles Account as it was before this section came into operation is to be the opening balance of the account of that name established under the Control of Vehicles (Off-road Areas) Act 1978 section 43(3) as amended by subsection (1).
 (3) The amount of that opening balance is to be reflected by a closing entry in the Off-Road Vehicles Account that was, before this section came into operation, required to be maintained as a part of the Trust Fund constituted under the Financial Administration and Audit Act 1985 section 9.
 ”.
-On the date as at which this reprint was prepared, the Road Traffic Amendment Act 2000 Pt. 3 Div. 1 had not come into operation. It reads:
-“
-Part 3 — Miscellaneous Acts amended
-Division 1 — Control of Vehicles (Off-road areas) Act 1978 amended
-49.The Act amended
-The amendments in this Division are to the Control of Vehicles (Off-road areas) Act 1978.
-50.Section 3 amended
-(1) Section 3(1) is amended by deleting the definition of “owner” and inserting in the appropriate alphabetical positions the following definitions —
-“
-“owner”, in relation to a vehicle, means —
-(a)the person who is entitled to the immediate possession of the vehicle; or
-(b)if there are several persons entitled to its immediate possession, the person whose entitlement is paramount,
-but if one of 2 or more persons fitting that description has been nominated for the purposes of section 3(2), it means only the person nominated;
-“responsible person”, for a vehicle, means a person responsible for the vehicle under section 5A of the Road Traffic Act 1974;
-”.
-(2) Section 3(2) is amended as follows:
-(a) by deleting “as owner or otherwise only one of those persons, to be” and inserting instead —
-“ and one of those persons is ”;
-(b) by deleting “shall be registered as the owner and that person” and inserting instead —
-“ the nominated person ”.
-51.Section 28 amended
-(1) Section 28(3) is repealed.
-(2) Section 28(4) is amended by deleting “, or renew” and inserting instead —
-“ , renew or transfer ”.
-(3) Section 28(5) is amended by inserting after “renewal” —
-“ or transfer ”.
-(4) Section 28(6) is amended by deleting “owner” and inserting instead —
-“ person in whose name the vehicle is registered ”.
-(5) Section 28(8) is amended by deleting “owner” and inserting instead —
-“ person in whose name the vehicle is registered ”.
-52.Section 28A inserted
-After section 28 the following section is inserted —
-“
-28A.Applications for issue, renewal and transfer of registration
-(1)An owner of a vehicle may apply for the registration, renewal of registration or transfer of registration of a vehicle under this Act by —
-(a)submitting an application in a form approved by the Director General;
-(b)providing a statutory declaration made pursuant to section 106 of the Evidence Act 1906, in a form approved by the Director General as to the compliance of the vehicle with the prescribed safety and noise requirements; and
-(c)paying any fee that would be required by section 29.
-(2)Upon an application under subsection (1), the Director General shall —
-(a)register, renew the registration of, or transfer the registration of, a vehicle; and
-(b)issue to the owner a certificate of that registration, and on payment of the prescribed fee a number plate displaying the symbols or numbers or the symbols and numbers allotted to the vehicle by the Director General,
-if, in the case of an application by an individual the applicant has attained the age of 18 years.
-(3)A vehicle cannot be registered in the name of more than one person at a particular time.
-(4)Any one of 2 or more owners may apply for the issue or transfer of a registration and the application is to be signed by each of them.
-(5)An application under subsection (4) is to be regarded as notice of the nomination of the applicant for the purposes of section 3(2).
-(6)The Director General shall refund any amount paid by a person in connection with an application under this section that is refused.
-”.
-53.Section 29 amended
-(1) Section 29(1) and (2) are repealed.
-(2) Section 29(3) is amended as follows:
-(a) by deleting “the subsection (2)” and inserting instead —
-“ section 28A ”;
-(b) by deleting “, and where a registration fee is payable on fee shall be such amount as is prescribed”.
-(3) Section 29(5) is amended as follows:
-(a) after “made” by inserting —
-“ under section 28A ”;
-(b) by deleting “and the appropriate prescribed fee, if any, is paid and a statutory declaration furnished as to the compliance of the vehicle with the prescribed safety and noise requirements,”.
-(4) Section 29(7) to (10) are repealed.
-54.Section 29A inserted
-After section 29 the following section is inserted —
-“
-29A.Transfer of vehicle registrations
-(1)Where a person to whom a certificate of registration of a vehicle has been granted ceases to be the owner of the vehicle, the person shall —
-(a)within 7 days of ceasing to be the owner give notice in writing to the Director General of the name and address of the new owner of the vehicle; and
-(b)if the registration had, pursuant to the provisions of this Act, been granted or renewed without payment of a fee or on payment of a reduced registration fee which was less than the fee that would otherwise have been payable in relation to that vehicle had the particular circumstances not applied, and unless the provisions of section 30(1) have been complied with, within 7 days after ceasing to be the owner, return the certificate of registration and the number plate issued in respect of that vehicle to the Director General.
-(2)A person who becomes the owner of a vehicle in respect of which a certificate of registration has been granted shall, within 14 days after becoming the owner, give notice in writing to the Director General of that fact.
-(3)As soon as practicable after receiving notice under subsection (1)(a) or (2), or otherwise, of a change in the ownership of a vehicle in respect of which a certificate of registration has been granted, if the Director General is satisfied that the registration may be transferred under section 28A(2) and no application has been made under section 28A(1), the Director General may issue to the new owner a notice requiring that —
-(a)an application for the transfer of the registration to the new owner be made under section 28A; or
-(b)the number plates issued in respect of the vehicle be delivered up to the Director General.
-(4)In subsection (3) —
-“new owner”, in relation to a vehicle, means a person who, according to the notice received by the Director General, has become a new owner of the vehicle and, if there is more than one such person, each or any of them.
-(5)A person to whom a notice is issued under subsection (3)(b) commits an offence if an application for the transfer of the registration for the vehicle is not made within 28 days after the notice is issued, or any longer period that the Director General allows, unless it can be shown that —
-(a)the person did not agree to becoming the owner of the vehicle and has notified the Director General in writing accordingly;
-(b)another person has been nominated for the purposes of section 3(2);
-(c)there is more than one owner of the vehicle and there is good reason why a person was not nominated under section 3(2); or
-(d)there was some other good reason why the application for the transfer of the registration was not made.
-(6)The other subsections of this section do not apply if a person to whom a certificate of registration in respect of a vehicle has been issued dies, and in that case the Director General shall on an application under section 28A, if any, by the executor or administrator of the estate of that person endorse on the certificate the transfer of the registration to that executor or administrator.
-”.
-55.Section 32A inserted
-After section 32 the following section is inserted —
-“
-32A.Change of nominated owner
-(1)If a person is the owner of a vehicle as the result of a nomination for the purposes of section 3(2), the person may apply to the Director General, in a form approved by the Director General, to cancel the nomination.
-(2)The application is to include a statement, signed by each person who would be an owner if there had been no nomination, to the effect that they agree to another of them being the owner of the vehicle for the purposes of this Act.
-(3)If the Director General approves the application and the applicant pays the prescribed fee, if any —
-(a)the current nomination ceases to have effect;
-(b)the statement under subsection (2) is to be treated as being a nomination for the purposes of section 3(2); and
-(c)the Director General is to vary the registration in accordance with the application by changing the name of the person in whose name the vehicle is registered.
-”.
-56.Section 35 amended
-Section 35(c) is amended by deleting “owner of a vehicle which” and inserting instead —
-“ person in whose name a vehicle ”.
-57.Section 37 amended
-(1) Section 37(2) is amended as follows:
-(a) by deleting “the owner of” in the first place where it occurs and inserting instead —
-“ a responsible person for ”;
-(b) by deleting “, but where the identity of the driver or person in charge of a vehicle in respect of which an offence is alleged to have been committed is not known and cannot immediately be ascertained, an infringement notice may be addressed to the owner of the vehicle, without naming him or stating his address, and be served by attaching it to the vehicle or leaving it in or on the vehicle”.
-(2) Section 37(3) is amended as follows:
-(a) by deleting “the owner of” in the first place where it occurs and inserting instead —
-“ a responsible person for ”;
-(b) by deleting “owner of a vehicle” in the second place where it occurs and inserting instead —
-“ responsible person ”;
-(c) in paragraph (b) by deleting “owner of the vehicle” and inserting instead —
-“ responsible person ”;
-(d) by deleting “the owner is” and inserting instead —
-“ the responsible person is ”.
-(3) After section 37(5) the following subsection is inserted —
-“
-(5a)In subsection (5) —
-“alleged offender”, in relation to an infringement notice addressed to and served on a responsible person under subsection (3), means the responsible person.
-”.
-(4) Section 37(8) is amended by deleting “the owner, driver or” and inserting instead —
-“ an owner of, a responsible person for, a driver of, or a ”.
-58.Section 38 amended
-(1) Section 38(9) is amended as follows:
-(a) by deleting “of which he is not the owner” and inserting instead —
-“ for which the driver is not a responsible person ”.
-(b) by deleting “attention of the owner” and inserting instead —
-“ attention of a responsible person ”.
-(2) Section 38(11)(b) is amended by deleting “the owner or driver of” and inserting instead —
-“ a responsible person for, or a driver of, ”.
-(3) Section 38(16) is amended by deleting “the owner of” and inserting instead —
-“ a responsible person for ”.
-59.Various references to “owner” replaced
-In each place listed in the Table to this section “the owner” is deleted and the following is inserted instead —
-“ a responsible person ”.
-Table
-s. 38(14) | s. 42(2)(b)
-s. 42(2)(a)
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Road Traffic Amendment (Vehicle Licensing) Act 2001 Pt. 3 Div. 2 had not come into operation. It reads:
 “
 Division 2 — Control of Vehicles (Off-road areas) Act 1978 amended
