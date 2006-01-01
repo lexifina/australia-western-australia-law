@@ -21,22 +21,13 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 46 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | s. 78: 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53)) s. 80 and 82: 31 Oct 2005 (see s. 2 and Gazette 28 Oct 2005 p. 4839)
 Reprint 3: The Finance Brokers Control Act 1975 as at 5 Aug 2005 (includes amendments listed above except those in the Finance Brokers Control Amendment Act 2004)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 27 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | To be proclaimed (see s. 2)
 The appointed day is 1 August 1977; see Gazette 17 June 1977 p. 1834.
-On the date as at which this compilation was prepared, the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63, which gives effect to Sch. 1, had not come into operation. It reads as follows:
-“
-63.Various Acts amended
-Each Act listed in Schedule 1 is amended as set out in that Schedule below the short title of the Act.
-Schedule 1 it. 9 reads as follows:
-Schedule 1 — Amendments to various Acts
-[s. 63]
-9.Finance Brokers Control Act 1975
-s. 15(2)(c)(iv) | Delete “have the authority of a commissioner for declarations.” and insert instead — “ may witness a statutory declaration. ”.
-”.
+The amendment in theOaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 to amend s. s.15(2)(c)(iv) is not included because the subsection it sought to amend had been replaced by the Finance Brokers Control Amendment Act 2004 s. 10.
 The Business Licensing Amendment Act 1995 s. 24 reads as follows:
 “
 24.Transitional
