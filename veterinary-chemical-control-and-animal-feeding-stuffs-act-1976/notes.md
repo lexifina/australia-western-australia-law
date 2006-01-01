@@ -21,11 +21,11 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Veterinary Preparations and Animal Feeding Stuffs Amendment Act 2004 | 76 of 2004 | 8 Dec 2004 | 5 Jan 2005
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Financial Administration Legislation Amendment Act 2005 s. 45 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 142 | 84 of 2004 | 16 Dec 2004 | s. 142 cl. 51: to be proclaimed
- | Financial Administration Legislation Amendment Act 2005 s. 45 | 5 of 2005 | 27 Jun 2005 | To be proclaimed (see s. 2)
 Now called Agriculture Western Australia.
 Section 13 of the Acts Amendment (Chemistry Centre (W.A.) Act 1990 (No. 19 of 1990) reads as follows —
 “
@@ -55,12 +55,6 @@ Schedule 2 — Other amendments to Acts
 51.Veterinary Preparations and Animal Feeding Stuffs Act 1976
 s. 40(3) | Delete “a stipendiary magistrate sitting as a court of summary jurisdiction who may make such order in the matter as he thinks just.” and insert instead — “ the Magistrates Court. ”.
 ”
-On the date as at which this compilation was prepared, the Financial Administration Legislation Amendment Act 2005 s. 45, had not come into operation. It reads as follows:
-“
-45.Veterinary Chemical Control and Animal Feeding Stuffs Act 1976 amended
-(1) The amendments in this section are to the Veterinary Chemical Control and Animal Feeding Stuffs Act 1976.
-(2) Section 10(3) is amended by deleting “section 62” and inserting instead —
-“ section 66 ”.
-”.
+Footnote no longer applicable.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Now known as the Veterinary Chemical Control and Animal Feeding Stuffs Act 1975 (see note under s. 1)

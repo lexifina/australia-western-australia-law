@@ -1,21 +1,21 @@
 Notes
 This is a compilation of the Water Services Licensing Act 1995 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
-Short title | Number and year | Assent | Commencement | Miscellaneous
-Water Services Coordination Act 1995 | 72 of 1995 | 27 December 1995 | 1 January 1996 (see section 2 and Gazette 29 December 1995 p.6291)
-Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996, Part 5 | 12 of 1996 | 28 June 1996 | 28 June 1996 (see section 2) | Part 6 Review
-Water Legislation Amendment Act 1997, Part 6 | 32 of 1997 | 3 October 1997 | Proclaimed 15 April 1998 (see section 2 and Gazette 15 April 1998 p.2041)
-Water Services Coordination Amendment Act 1997 | 33 of 1997 | 3 October 1997 | 3 October 1997 (see section 2)
-Water Services Coordination Amendment Act 1999, sections 1 to 10 | 39 of 1999 | 9 November 1999 | Proclaimed 19 June 2000 (see section 2 and Gazette 16 June 2000 p.2939)
-Gas Corporation (Business Disposal) Act 1999, section 87 | 58 of 1999 | 24 December 1999 | Deemed operative immediately before distribution licence granted, i.e. 1 July 2000 (see section 2(2) and Gazette 4 July 2000 p.3545)
+Short title | Number and year | Assent | Commencement
+Water Services Coordination Act 1995 | 72 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see section 2 and Gazette 29 Dec 1995 p. 6291)
+Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996, Part 5 | 12 of 1996 | 28 Jun 1996 | 28 Jun 1996 (see section 2)
+Water Legislation Amendment Act 1997, Part 6 | 32 of 1997 | 3 Oct 1997 | Proclaimed 15 Apr 1998 (see section 2 and Gazette 15 Apr 1998 p. 2041)
+Water Services Coordination Amendment Act 1997 | 33 of 1997 | 3 Oct 1997 | 3 Oct 1997 (see section 2)
+Water Services Coordination Amendment Act 1999, sections 1 to 10 | 39 of 1999 | 9 Nov 1999 | Proclaimed 19 Jun 2000 (see section 2 and Gazette 16 Jun 2000 p.2939)
+Gas Corporation (Business Disposal) Act 1999, section 87 | 58 of 1999 | 24 Dec 1999 | Deemed operative immediately before distribution licence granted, i.e. 1 Jul 2000 (see section 2(2) and Gazette 4 Jul 2000 p.3545)
 Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 128 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 133 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+Financial Administration Legislation Amendment Act 2005 s. 46 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Financial Administration Legislation Amendment Act 2005 s. 46 | 5 of 2005 | 27 Jun 2005 | To be proclaimed (see s. 2)
 Water Legislation Amendment (Competition Policy) Act 2005 s. 7(4), 28(2), 60(2) and Pt. 8 | 25 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Under section 281(3) of the Land Administration Act 1997 (No. 30 of 1997), references to the Land Act 1933 may be construed as references to the Land Administration Act 1997.
@@ -86,13 +86,7 @@ The operation of any provision of this Schedule is not to be regarded —
 ”.
 Now known as the Water Services Licensing Act 1995; short title changed (see note under s. 1).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Financial Administration Legislation Amendment Act 2005 s. 46, had not come into operation. It reads as follows:
-“
-46.Water Services Licensing Act 1995 amended
-(1) The amendments in this section are to the Water Services Licensing Act 1995.
-(2) Section 59E(7) is amended by deleting “section 62” and inserting instead —
-“ section 66 ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Water Legislation Amendment (Competition Policy) Act 2005 s. 7(4), 28(2), 60(2) and Pt. 8 had not come into operation. They read as follows:
 “
 7.Section 71 repealed and consequential amendments (including to Water Services Licensing Act 1995)

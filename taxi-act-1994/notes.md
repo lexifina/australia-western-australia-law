@@ -12,11 +12,11 @@ Reprint of the Taxi Act 1994 as at 11 Oct 2002 (includes amendments listed above
 Taxi Amendment Act 2003 | 72 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 125 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Financial Administration Legislation Amendment Act 2005 s. 44 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Financial Administration Legislation Amendment Act 2005 s. 44 | 5 of 2005 | 27 Jun 2005 | To be proclaimed (see s. 2)
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 32(7) and (8) read as follows:
 “
 (7) The balance of the Taxi Industry Development Fund as it was before this section came into operation is to be the opening balance of the Taxi Industry Development Account established under the Taxi Act 1994 section 41(1) as inserted by subsection (1).
@@ -35,10 +35,3 @@ Schedule 2 — Other amendments to Acts
 s. 20(4) s. 22(2) s. 23(4) s. 30(3) s. 37(2) s. 38(1) | In each provision delete “a Local Court” and insert instead — “ the Magistrates Court ”.
 s. 20(5) s. 22(3) s. 23(5) s. 30(4) s. 37(3) | In each provision delete “A Local Court” and insert instead — “ The Magistrates Court ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Financial Administration Legislation Amendment Act 2005 s. 44, had not come into operation. It reads as follows:
-“
-44.Taxi Act 1994 amended
-(1) The amendments in this section are to the Taxi Act 1994.
-(2) Section 5(2) is amended by deleting “section 62” and inserting instead —
-“ section 66 ”.
-”.

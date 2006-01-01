@@ -75,11 +75,11 @@ Western Australian Land Authority Amendment Act 2004 s. 45 | 67 of 2004 | 8 Dec 
 Workers’ Compensation Reform Act 2004 s. 168 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
 Public Sector Management (Entities which are not Organisations) Regulations 2004 r. 3 published in Gazette 4 Jan 2005 p. 5-6 | 4 Jan 2005
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Financial Administration Legislation Amendment Act 2005 s. 43 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Financial Administration Legislation Amendment Act 2005 s. 43 | 5 of 2005 | 27 Jun 2005 | To be proclaimed (see s. 2)
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | To be proclaimed (see s.2(2))
 Now known as Police Service.
 On the date on which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) had not come into operation. It reads as follows:
@@ -90,13 +90,7 @@ The Public Sector Management Act 1994 is amended as follows:
 ”.
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
 The amendment that would have been effected by the Western Australian Greyhound Racing Association Amendment Act 1998 s. 20 did not come into operation because of an error in the reference to the provision to be amended.
-On the date as at which this compilation was prepared, the Financial Administration Legislation Amendment Act 2005 s. 43, had not come into operation. It reads as follows:
-“
-43.Public Sector Management Act 1994 amended
-(1) The amendments in this section are to the Public Sector Management Act 1994.
-(2) Section 31(1)(a) is amended by deleting “section 62” and inserting instead —
-“ section 66 ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Electricity Corporations Act 2005 s. 139, which gives effect to Sch. 5 Div. 12 had not come into operation. It reads as follows:
 “
 139.Amendments to other Acts
