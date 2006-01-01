@@ -27,13 +27,16 @@ Abalone in the waters or land between 31° 59.48′ south latitude (the main Cot
 (b)within 200 metres of, and on the landward side of, the high water mark.
 Coral of the Order Scleractinia in any waters within 3 000 metres in any direction of the service jetty near the end of Port Street in Port Gregory.
 Great White Shark.
+Groper, Queensland.
 Humphead Maori Wrasse.
 Live coral of the Order Scleractinia in the waters bounded by a line commencing from the intersection of 27° 30′ south latitude and 112° 50′ east longitude and extending in an easterly direction to the intersection of 27° 30′ south latitude and 113° 37′ east longitude; thence southeasterly to the intersection of 28° 45′ south latitude and 114° 09′ 52.18″ east longitude; thence southeasterly to the intersection of 29° 30′ south latitude and 114° 30′ east longitude; thence west to 112° 50′ east longitude; thence north to the starting point.
 Leafy Seadragon.
 Potato Cod.
 Rock Lobster tail weighing less than 140 grams.
+Sawfish.
+Shark, Speartooth.
 Whale Shark.
-[Division 2 amended in Gazette 5 Dec 1997 p. 7123; 19 Jun 1998 p. 3264; 13 Aug 1999 p. 3827; 28 Nov 2003 p. 4776.]
+[Division 2 amended in Gazette 5 Dec 1997 p. 7123; 19 Jun 1998 p. 3264; 13 Aug 1999 p. 3827; 28 Nov 2003 p. 4776; 22 Dec 2005 p. 6228.]
 ## Division 3 — Marine or fluvio-marine fish
 ## Subdivision 1 — Protected by reference to species, area and period
 [Heading inserted in Gazette 28 Feb 2003 p. 662.]

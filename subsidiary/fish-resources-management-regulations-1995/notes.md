@@ -90,6 +90,7 @@ Fish Resources Management Amendment Regulations (No. 5) 2005 | 16 Sep 2005 p. 43
 Reprint 5: The Fish Resources Management Regulations 1995 as at 14 Oct 2005 (includes amendments listed above)
 Fish Resources Management Amendment Regulations (No. 3) 2005 | 4 Nov 2005 p. 5299-317 | 4 Nov 2005
 Fish Resources Management Amendment Regulations (No. 8) 2005 | 11 Nov 2005 p. 5565-6 | 11 Nov 2005
+Fish Resources Management Amendment Regulations (No. 7) 2005 | 22 Dec 2005 p. 6215-39 | 1 Jan 2006 (see r. 2)
 Repealed by the Land Administration Act 1997 s. 281(1).
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Statutes (Repeals and Minor Amendments) Act 2000 s. 14(3), the name of the Electricity Corporation was changed to the Western Power Corporation.

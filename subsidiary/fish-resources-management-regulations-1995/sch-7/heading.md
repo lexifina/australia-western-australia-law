@@ -9,20 +9,23 @@ Barracuda ......................................... | Sphyraena barracuda
 Barramundi (giant perch) ....................... | Lates calcarifer
 Baitfish ................................................... | Families Clupeidae & Engraulidae
 Billfish (marlins, sailfish, spearfish) ...... | Family Istiophoridae
+Boarfish .................................................. | Family Pentacerotidae
 Bonefish ................................................. | Albula spp.
 Bonito, Leaping ..................................... | Cybiosarda elegans
 Bonito, Oriental ..................................... | Sarda orientalis
 Bream, Black .......................................... | Acanthopagrus butcheri
-Bream, Fingermark (moses perch) ........ | Lutjanus russelli
+Bream, Fingermark ................................ | Lutjanus johnii
 Bream, Northwest-Black ........................ | Acanthopagrus palmaris
 Bream, Yellowfin ................................... | Acanthopagrus latus
+Catfish .................................................... | Families Ariidae and Plotosidae
 Cobbler (estuary catfish) ........................ | Cnidoglanis macrocephalus
 Cobia ..................................................... | Rachycentron canadus
 Cod ......................................................... | Family Serranidae
 Cod, Breaksea ........................................ | Epinephelus armatus
 Cod, Chinaman (Charlie Court) ............. | Epinephelus rivulatus
 Cod, Estuary ........................................... | Epinephelus coioides
-Cod, Malabar …………. | Epinephelus Malabaricus
+Cod, Grey banded rock .......................... | Epinephelus octofasciatus
+Cod, Malabar ......................................... | Epinephelus Malabaricus
 Cod, Murray ........................................... | Maccullochela peeli
 Cod, Potato ............................................. | Epinephelus tukula
 Cod, Rankin ........................................... | Epinephelus multinotatus
@@ -30,8 +33,10 @@ Coral Trout ............................................. | Plectropomus spp.
 Coronation Trout ................................... | Variola louti
 Dart ........................................................ | Trachinotus spp.
 Dolphinfish (mahi mahi) ........................ | Coryphaena hippurus
+Dory, John .............................................. | Zenopsis nebulosus
+Dory, Mirror ........................................... | Zeus faber
 Dhufish, West Australian ........................... | Glaucosoma hebriacum
-Emperor .................................................. | Lethrinus spp.
+Emperor and Seabream ............ | Family Lethrinidae
 Emperor, Blue-lined .............................. | Lethrinus laticaudis
 Emperor, Red (government bream) ....... | Lutjanus sebae
 Emperor, Spangled ................................. | Lethrinus nebulosus
@@ -45,11 +50,15 @@ Garfish .................................................... | Family Hemirhamph
 Goatfish .................................................. | Family Mullidae
 Groper .................................................... | Family Labridae
 Groper, Baldchin .................................... | Choerodon rubescens
+Groper, Bass ........................................... | Polyprion americanus
 Groper, Queensland ............................... | Epinephelus lanceolatus
 Groper, Western Blue ............................ | Achoerodus gouldii
 Hardyhead .............................................. | Family Atherinidae
+Hapuku ................................................... | Polyprion oxygeneios
 Herring, Australian (tommy ruff) ........... | Arripis georgianus
+Herring, Giant ........................................ | Elops hawaiiensis
 Herring, Perth ......................................... | Nematalosa vlaminghi
+Javelinfish and Sweetlips ......... | Family Haemuidae
 Kingfish, Yellowtail ............................... | Seriola lalandi
 Leatherjacket .......................................... | Family Monacanthidae
 Longtom ................................................. | Family Belonidae
@@ -75,6 +84,7 @@ Mulloway (river kingfish) ...................... | Argyrosomus hololepidotus
 Mulloway, Northern .............................. | Protonibea diacanthus
 Nannygai ................................................ | Centroberyx spp.
 Parrot fish ............................................... | Family Scaridae
+Pearl Perch ............................................. | Glaucosoma spp., excluding G. hebraicum
 Pike, Long-finned ................................... | Dinolestes lewini
 Pike, Striped Sea ................................... | Sphyraena obtusata
 Pilchard (mulie) ..................................... | Sardinops neopilchardus
@@ -87,8 +97,12 @@ Salmon, Atlantic ..................................... | Salmo salar
 Samson Fish (sea kingfish) ................... | Seriola hippos
 Scad, Yellowtail .................................... | Trachurus novaezelandiae
 Seadragon, Leafy .................................. | Phycodurus eques
+Sea Perch, Crimson ................................ | Lutjanus erythropterus
+Sea Perch, Scarlett .................................. | Lutjanus malabaricus
+Sea Perch, Stripey .................................. | Lutjanus carponotatus
 Sea perch, tropical ................................. | Family Lutjanidae
 Shark, Great White ................................. | Carcharodon carcharias
+Shark, Speartooth ................................... | Glyphis spp.
 Shark, Whale .......................................... | Rhiniodon typus
 Sharks...................................................... | Orders Squatiniformes, Pristiophoriformes, Squaliformes, Hexanchiformes, Carcharhiniformes, Lamniformes, Orectolobiformes and Heterodontiformes
 Snapper, Northwest ............................... | Lethrinus spp. excluding L. nebulosus
@@ -99,6 +113,7 @@ Snook ..................................................... | Sphyraena novaehol
 Sole ......................................................... | Families Soleidae and Cynoglossidae
 Sprat, Blue ............................................. | Spratelloides robustus
 Sprat, Sandy (whitebait) ........................ | Hyperlophus vittatus
+Swallowtail ............................................ | Centroberyx lineatus
 Sweep, Banded ....................................... | Scorpis georgianus
 Sweep, Sea ............................................. | Scorpis aequipinnis
 Swordfish ............................................... | Family Xiphiidae
@@ -107,13 +122,16 @@ Tarwhine (silver bream) ......................... | Rhabdosargus sarba
 Threadfin ................................................ | Polydactylus spp.
 Threadfin, Blue ...................................... | Eleutheronema tetradactyum
 Threadfin, Giant ..................................... | Polydactylus macrochir
+Trevalla .................................................. | Family Centrolophidae
 Trevally .................................................. | Family Carangidae
 Trevally, Diamond ................................. | Alectis indicus
 Trevally, Giant ....................................... | Caranx ignobilis
 Trevally, Golden .................................... | Gnathanodon speciosus
 Trevally, Silver (skipjack) ..................... | Pseudocaranx spp.
+Tripletail ................................................. | Lobotes surinamensis
 Tuna, Albacore ....................................... | Thunnus alelunga
 Tuna, Bigeye ......................................... | Thunnus obesus
+Tuna, Dogtooth ...................................... | Gymnosarda unicolour
 Tuna, Longtail ........................................ | Thunnus tonggol
 Tuna, Northern Bluefin .......................... | Thunnus thynnus
 Tuna, Skipjack ...................................... | Katsuwonus pelamis
@@ -147,6 +165,7 @@ Perch, Redfin (english or european) ...... | Perca fluviatilis
 Perch, Silver .......................................... | Bidyanus bidyanus
 Pike, Cichlid .......................................... | Crenicichla lepidota
 Piranha ................................................... | Serrasalmus spp.
+Sawfish .................................................. | Family Pristidae
 Snakehead .............................................. | Channa spp.
 Tigerfish ................................................. | Hydroeyanus goliath
 Tilapia ................................................... | Oreochromis mossambicus
@@ -176,6 +195,7 @@ Prawn, Western School ......................... | Metapenaeus dalli
 Prawn, Western King ............................. | Penaeus latisulcatus
 Redclaw, Queensland ............................ | Cherax quadricarinatus
 Rock Lobster .......................................... | Jasus and Panulirus spp.
+Rock Lobster, Ornate ............................. | Panulirus ornatus
 Rock Lobster, Southern ......................... | Jasus novaehollandiae and edwardsii
 Rock Lobster, Tropical .......................... | Panulirus spp. excluding P. cygnus
 Rock Lobster, Western ........................... | Panulirus cygnus
@@ -211,4 +231,4 @@ Common Name | Scientific Name
 Sea Urchin .............................................. | Class Echinoidea
 Coral ....................................................... | Order Scleractinia
 Sea Cucumber (Beche-de-mer, Trepang) | Class Holothurioidae
-[Schedule 7 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 15 Jan 1999 p. 113; 23 Apr 1999 p. 1716; 4 Jun 1999 p. 2271; 21 Dec 1999 p. 6410; 13 Dec 2002 p. 5798; 1 Oct 2003 p. 4341-3; 30 Sep 2004 p. 4187; 4 Nov 2005 p. 5317.]
+[Schedule 7 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 15 Jan 1999 p. 113; 23 Apr 1999 p. 1716; 4 Jun 1999 p. 2271; 21 Dec 1999 p. 6410; 13 Dec 2002 p. 5798; 1 Oct 2003 p. 4341-3; 30 Sep 2004 p. 4187; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9.]
