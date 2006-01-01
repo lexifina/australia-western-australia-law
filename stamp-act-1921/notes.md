@@ -155,13 +155,12 @@ Compilation table
  | Reprint 15: The Stamp Act 1921 as at 3 Jun 2005 (includes amendments listed above)
  | Revenue Laws Amendment Act 2005 Pt. 3 | 11 of 2005 | 30 Aug 2005 | s. 27 & 29: 1 Jan 2004 (see s. 2(3)); s. 28: 1 Jul 2004 (see s. 2(4)); s. 8, 11(1), 13(2) & (3) and 18-25: 18 May 2005 (see s. 2(2)); balance: 30 Aug 2005 (see s. 2(1))
 Revenue Laws Amendment Act (No. 2) 2005 Pt. 3 | 12 of 2005 | 30 Aug 2005 | 30 Aug 2005 (see s. 2(1))
-Stamp Amendment Act 2005 Pt. 1, 2 | 34 of 2005 | 12 Dec 2005 | 12 Dec 2005
+Stamp Amendment Act 2005 | 34 of 2005 | 12 Dec 2005 | Act other than Pt. 3: 12 Dec 2005 (see s. 2); Pt. 3: 1 Jan 2006 (see s. 2(2))
 Stamp Amendment (Assessment) Act 2005 s. 1-5 and 7 | 36 of 2005 | 12 Dec 2005 | s. 1-4 and 7: 12 Dec 2005 (see s. 2(1)); s. 5: 1 Jul 1997 (see s. 2(2))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 30 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Stamp Amendment Act 2005 Pt. 3 | 34 of 2005 | 12 Dec 2005 | 1 Jan 2006 (see s. 2(2))
 Stamp Amendment (Taxing) Act 2005 s. 4 and 5 | 35 of 2005 | 12 Dec 2005 | Operative on commencement of Act No. 36 of 2005 s. 6 (see s. 2)
 Stamp Amendment (Assessment) Act 2005 s. 6 and 8 | 36 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2(3))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
@@ -941,59 +940,9 @@ The Stamp Amendment Act 2005 s. 8 reads as follows:
 “reassessment” has the meaning given to that term in the Taxation Administration Act 2003;
 “retrospective period” means the period beginning on 23 August 2000 and ending on the day before the day on which this Part comes into operation.
 ”.
-On the date as at which this compilation was prepared, the Stamp Amendment Act 2005 Pt. 3 had not come into operation. It reads as follows:
+The Stamp Amendment Act 2005 s. 10(2) reads as follows:
 “
-Part 3 — Mortgage duty
-9.Section 86 amended
-Section 86(1) is amended by inserting after “Third Schedule” —
-“ and in this Part ”.
-10.Sections 86A and 86B inserted and application provision
-(1) After section 86 the following sections are inserted —
-“
-86A.Exemption — refinancing home loans
-(1) Duty is not payable on a home mortgage to the extent to which the secured amount is to refinance a previous secured amount that was used for the dwellinghouse (as provided by section 85(2)).
-(2) A secured amount is to refinance a previous secured amount if —
-(a) the secured amount is, or is to be, used to pay out all of the unpaid amount of the previous secured amount;
-(b) the previous secured amount was secured by a home mortgage (the “previous mortgage”);
-(c) the previous mortgage is, or is to be, discharged;
-(d) the mortgagor, or one of the mortgagors, who executed the previous mortgage is the mortgagor, or one of the mortgagors, who executed the home mortgage; and
-(e) at least some of the property subject to the home mortgage is the same as some of the property subject to the previous mortgage.
-(3) Subsection (1) does not apply unless all mortgage duty payable on the previous mortgage (if any) has been paid.
-(4) If —
-(a) the previous secured amount was used to purchase land upon which a dwellinghouse was to be built for the mortgagor, or at least one of the mortgagors, as the sole or principal place of residence of the mortgagor; or
-(b) the previous secured amount was used to purchase or build a dwellinghouse that was not the sole or principal place of residence of the mortgagor, or any of the mortgagors, and, prior to the home mortgage being executed, the dwellinghouse became the sole or principal place of residence of the mortgagor or one of the mortgagors,
-then —
-(c) subsection (1) has effect as if the reference to the previous secured amount being used for the dwellinghouse included a reference to the previous secured amount being used to purchase the land referred to in paragraph (a); and
-(d) subsection (2)(b) has effect as if it referred to the previous secured amount being secured by a mortgage rather than a home mortgage.
-(5) For the purposes of this section, the amount of the previous secured amount is to be worked out disregarding section 89(2).
-(6) The mortgagee must discharge the previous mortgage as soon as practicable.
-86B.Exemption — refinancing small business loans
-(1) Duty is not payable on a business mortgage to the extent to which —
-(a) the secured amount is to refinance a previous secured amount; and
-(b) the previous secured amount was used for the purposes of carrying on the business.
-(2) A secured amount is to refinance a previous secured amount if —
-(a) the secured amount is, or is to be, used to pay out all of the unpaid amount of the previous secured amount;
-(b) the previous secured amount was secured by a business mortgage (the “previous mortgage”);
-(c) the previous mortgage is, or is to be, discharged;
-(d) the mortgagor, or one of the mortgagors, who executed the previous mortgage is the mortgagor, or one of the mortgagors, who executed the business mortgage;
-(e) the business owner, or one of the business owners, before the business mortgage is executed is the business owner, or one of the business owners, after the business mortgage is executed; and
-(f) at least some of the property subject to the business mortgage is the same as some of the property subject to the previous mortgage.
-(3) Subsection (1) does not apply unless —
-(a) the unpaid amount of the previous secured amount is less than or equal to $5 000 000;
-(b) the secured amount is less than or equal to $5 000 000; and
-(c) mortgage duty was payable on the previous mortgage and all of that duty has been paid, or the previous mortgage was exempt from mortgage duty under this section.
-(4) A mortgage is a “business mortgage” if part or all of the secured amount is, or is to be, used for the purposes of carrying on a business.
-(5) An amount is used for the purposes of carrying on a business if it is used for operating or capital purposes.
-(6) A “business owner”, in relation to a business mortgage, is an entity (which may be an individual, a body corporate, a trust or a partnership) that carries on the business (whether alone or with others) for which the amount secured by the business mortgage is, or is to be, used.
-(7) For the purposes of this section, the amount of the previous secured amount is to be worked out disregarding section 89(2).
-(8) The mortgagee must discharge the previous mortgage as soon as practicable.
-”.
 (2) The Stamp Act 1921 sections 86A(1) and 86B(1) do not apply to mortgages (as defined in the Stamp Act 1921 section 82) executed before 1 January 2006.
-11.Section 91B amended
-Section 91B(3) is amended by inserting after “mortgage package” —
-“
-and the extent to which the mortgage, instrument or mortgage package is exempt from mortgage duty
-”.
 ”.
 On the date as at which this compilation was prepared, the Stamp Amendment (Taxing) Act 2005 s. 4 and 5 had not come into operation. They read as follows:
 “
