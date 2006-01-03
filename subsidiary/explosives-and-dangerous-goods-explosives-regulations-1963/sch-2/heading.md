@@ -22,11 +22,12 @@ Item | Description | Fee ($)
  | (c)inspection of ships conveying explosives, per day or part thereof | 255.00
  | (d)inspection for certificate of release | 160.00
 10. | Tonnage fees for magazines erected on explosives reserves (for every 1 000 kg of licensed capacity) | 215.00
+10A. | Tonnage fee for storing ammonium nitrate on reserved land vested in the Minister for the purpose of magazines for explosives — (a)on the Baldivis Explosives Reserve or the Kalgoorlie Explosives Reserve (per square metre of land used for such storage) (b)on any other such reserved land (per square metre of land used for such storage) | 6.00 3.00
 11. | Shotfirer’s permit, issue and renewal | 17.00
 12. | Examination for a shotfirer’s permit | 160.00
 13. | Issue of an entry permit | 160.00
 14. | Permit for purchase and use of fireworks | 160.00
 15. | Initial approval of equipment used for or in connection with detonation of explosives | 305.00
 16. | Testing of equipment for or in connection with detonation of explosives — per unit | 18.50
-[Second Schedule inserted in Gazette 28 Jun 2005 p. 2926-7.]
+[Second Schedule inserted in Gazette 28 Jun 2005 p. 2926-7; amended in Gazette 3 Jan 2006 p. 4.]
 [Third Schedule repealed in Gazette 23 Oct 1969 p. 3320.]
