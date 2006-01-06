@@ -43,5 +43,6 @@ Occupational Safety and Health Amendment Regulations (No. 5) 2005 | 9 Sep 2005 p
 Occupational Safety and Health Amendment Regulations (No. 10) 2005 | 18 Nov 2005 p. 5660-3 | 1 Dec 2005 (see r. 2)
 Occupational Safety and Health Amendment Regulations (No. 11) 2005 | 9 Dec 2005 p. 5897-8 | 9 Dec 2005
 Occupational Safety and Health Amendment Regulations (No. 12) 2005 | 23 Dec 2005 p. 6294-5 | 23 Dec 2005
+Occupational Safety and Health Amendment Regulations (No. 6) 2005 | 6 Jan 2006 p. 11-12 | 6 Jan 2006
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
 The amendment in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) referring to r. 3.88 does not have effect because that regulation was replaced by the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.

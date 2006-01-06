@@ -1,0 +1,2 @@
+### Type II ingredients
+A “type II ingredient” is an ingredient which is present in a quantity which exceeds the lowest relevant concentration cut-off level specified for the hazard classification in the Approved Criteria for Classifying Hazardous Substances [3rd Edition: NOHSC: 1008 (2004)] and is described in the Approved Criteria for Classifying Hazardous Substances as a harmful substance, but which does not meet the criteria for a type I ingredient.
