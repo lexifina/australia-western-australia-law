@@ -6,3 +6,4 @@ Environmental Protection (Clearing of Native Vegetation) Regulations 2004 | 30 J
 Environmental Protection (Clearing of Native Vegetation) Amendment Regulations 2005 | 21 Jan 2005 p. 259 | 21 Jan 2005
 Environmental Protection (Clearing of Native Vegetation) Amendment Regulations (No. 2) 2005 | 24 Jun 2005 p. 2755-8 | 24 Jun 2005
 Environmental Protection (Clearing of Native Vegetation) Amendment Regulations (No. 3) 2005 | 23 Dec 2005 p. 6268-70 | 23 Dec 2005
+Environmental Protection (Clearing of Native Vegetation) Regulations 2006 | 6 Jan 2006 p. 29-31 | 6 Jan 2006
