@@ -1,17 +1,22 @@
 Notes
-This is a compilation of the Pay-roll Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Pay-roll Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Pay-roll Tax Assessment Act 2002 | 48 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see. s. 2 and Gazette 27 Jun 2003 p. 2383)
-Business Tax Review (Assessment) Act 2003 Pt. 4-5 | 40 of 2003 | 30 Jun 2003 | 1 Jul 2003 (see s. 2(1))
+Business Tax Review (Assessment) Act 2003 Pt. 4 and 5 | 40 of 2003 | 30 Jun 2003 | 1 Jul 2003 (see s. 2(1))
 Revenue Laws Amendment and Repeal Act 2004 Pt. 3 | 12 of 2004 | 29 Jun 2004 | 29 Jun 2004 (see s. 2(1))
-Revenue Laws Amendment (Tax Relief) Act 2004 Pt. 2 Div. 1 and 2 | 82 of 2004 | 8 Dec 2004 | Pt. 2 Div. 1 & 2: 1 Jan 2005 (see s. 2(2))
+Revenue Laws Amendment (Tax Relief) Act 2004 Pt. 2 Div. 1 and 2 | 82 of 2004 | 8 Dec 2004 | 1 Jan 2005 (see s. 2(2))
 Revenue Laws Amendment Act 2005 Pt. 2 | 11 of 2005 | 30 Aug 2005 | 18 May 2005 (see s. 2(2))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 1: The Pay-roll Tax Assessment Act 2002 as at 6 Jan 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Revenue Laws Amendment (Tax Relief) Act 2004 Pt. 2 Div. 3 | 82 of 2004 | 8 Dec 2004 | Pt. 2 Div. 3: 1 Jul 2006 (see s. 2(3))
-On the date as at which this compilation was prepared, the Revenue Laws Amendment (Tax Relief) Act 2004 Pt. 2 Div. 3 had not come into operation. It reads as follows:
+Revenue Laws Amendment (Tax Relief) Act 2004 Pt. 2 Div. 3 | 82 of 2004 | 8 Dec 2004 | 1 Jul 2006 (see s. 2(3))
+The Revenue Laws Amendment (Tax Relief) Act 2004 s. 5(6) reads as follows:
+“
+(6) The amendments made by this section do not affect an exemption given before the coming into operation of this section.
+”.
+On the date as at which this reprint was prepared, the Revenue Laws Amendment (Tax Relief) Act 2004 Pt. 2 Div. 3 had not come into operation. It reads as follows:
 “
 Part 2 — Pay-roll Tax Assessment Act 2002 amended
 Division 3 — Amendments commencing on 1 July 2006
@@ -34,13 +39,13 @@ Section 12(2) is amended as follows:
 “ P ”;
 (c) by inserting before the description of “T” —
 “
-Nis the number of months in the period;
+N is the number of months in the period;
 ”.
 (d) in the description of “D”, by deleting “month” in both places where it occurs and inserting instead —
 “ period ”;
 (e) by deleting the description of “M” and inserting instead —
 “
-Pis the number of days in the period.
+P is the number of days in the period.
 ”.
 9.Section 15 amended
 (1) Section 15(1) is amended as follows:
@@ -127,8 +132,4 @@ After section 45(2)(f) the following paragraph is inserted —
 (i)unless subparagraph (ii) applies, an assessment year;
 (ii)if a condition of the exemption requires returns to be lodged more frequently than annually, a progressive return period;
 ”.
-”.
-The Revenue Laws Amendment (Tax Relief) Act 2004 s.5(6) reads as follows:
-“
-(6) The amendments made by this section do not affect an exemption given before the coming into operation of this section.
 ”.
