@@ -4,8 +4,7 @@ Note: The number in square brackets is the substance’s chemical abstract numbe
 2-Acetylaminofluorene [53-96-3]
 Aflatoxins
 4-Aminodiphenyl [92-67-1]
-Benzidine [92-87-5] and its salts (including benzidine dihydrochloride
-[531-85-1])
+Benzidine [92-87-5] and its salts (including benzidine dihydrochloride [531-85-1])
 bis(chloromethyl) ether [542-88-1]
 Chloromethyl methyl ether [107-30-2] (technical grade containing bis(chloromethyl) ether)
 4-Dimethylaminoazobenzene [60-11-7]
