@@ -22,4 +22,5 @@ Workers’ Compensation and Rehabilitation (Scales of Fees) Amendment Regulation
 Workers’ Compensation and Rehabilitation (Scales of Fees) Amendment Regulations 2005 | 21 Jan 2005 p. 278-86 | 21 Jan 2005
 Workers’ Compensation and Rehabilitation (Scales of Fees) Amendment Regulations (No. 2) 2005 | 1 Nov 2005 p. 4976-84 | 1 Nov 2005
 Workers’ Compensation and Injury Management (Scale of Fees) Amendment Regulations (No. 3) 2005 | 11 Nov 2005 p. 5567-70 | 14 Nov 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7131 and 17 Jun 2005 p. 2657
+Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2006 | 10 Jan 2006 p. 41-71 | 10 Jan 2006
 Now known as the Workers’ Compensation and Injury Management (Scales of Fees) Regulations 1998; short title changed (see note under s. 1).
