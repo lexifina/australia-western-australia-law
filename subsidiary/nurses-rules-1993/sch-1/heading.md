@@ -20,6 +20,7 @@ I declare that the statements above are true and correct in every particular.
 (Signature)(Date)
 Applicant to be recommended by Head of School of Nursing or Director of Nursing of sponsoring institution.
 Applicant will be required to show evidence of identity.
+[Form 1 amended in Gazette 4 May 2001 p. 2243.]
 FORM 2
 [Rule 10(a)]
 NURSES BOARD OF WESTERN AUSTRALIA
@@ -33,6 +34,7 @@ in accordance with section 22 of the Nurses Act 1992.
 .........................................................................................
 Signature Presiding member of Registrar
 of nursethe Board
+[Form 2 amended in Gazette 4 May 2001 p. 2243.]
 FORM 2A
 [Rule 10(aa)]
 NURSES BOARD OF WESTERN AUSTRALIA
@@ -60,6 +62,7 @@ in accordance with section 22 of the Nurses Act 1992.
 .........................................................................................
 SignaturePresiding member ofRegistrar
 of nursethe Board
+[Form 3 amended in Gazette 4 May 2001 p. 2243.]
 FORM 4
 [Rule 10(b)]
 NURSES BOARD OF WESTERN AUSTRALIA
@@ -75,6 +78,7 @@ Conditions or restrictions:
 Signature ofPresiding member ofRegistrar
 principal executivethe Board
 officer
+[Form 4 amended in Gazette 4 May 2001 p. 2243.]
 FORM 5
 [Rule 10(c)]
 NURSES BOARD OF WESTERN AUSTRALIA
@@ -169,7 +173,7 @@ I do solemnly and sincerely declare that the statements made by me on this form 
 I make this statement knowing that I am liable under the Nurses Act 1992, in case of falsehood, to a fine of $2 500.
 ...............................................................
 (Date)(Signature)
-[Form 8 amended in Gazette 30 Dec 2004 p. 6987.]
+[Form 8 amended in Gazette 4 May 2001 p. 2243; 30 Dec 2004 p. 6987.]
 FORM 9
 APPLICATION FOR RESTORATION OF NAME TO THE REGISTER
 (by a body corporate)
@@ -201,22 +205,22 @@ Dated this .......................................... day of ...................
 (Signature of principal executive officer
 for and on behalf of the applicant)
 OFFICE USE ONLY |  | SIGHTED | DATE
-·MEMORANDUM AND ARTICLES OF ASSOCIATION
-·IDENTITY OF MEMBERS OF APPLICANT (NON-NURSES) | 1
+•MEMORANDUM AND ARTICLES OF ASSOCIATION
+•IDENTITY OF MEMBERS OF APPLICANT (NON-NURSES) | 1
 BIRTH CERTIFICATE | 2
 PASSPORT | 3
 DRIVER’S LICENCE | 4
-·2 CHARACTER REFERENCES FOR DIRECTOR OR OFFICER OF APPLICANT (NON-NURSES) | 1
+•2 CHARACTER REFERENCES FOR DIRECTOR OR OFFICER OF APPLICANT (NON-NURSES) | 1
 2
 3
 4
-·TERMS OF CONTRACT OF BODY CORPORATE
-·TRUST DEED
-·EVIDENCE OF RESERVATION OF BUSINESS NAME (CORPORATE AFFAIRS)
-·FEE
-·CERTIFICATE OF INCORPORATION
-·EXTRACT OF REGISTRATION OF BUSINESS NAME
-·EVIDENCE OF REGISTRATION OF NURSE MEMBERS
+•TERMS OF CONTRACT OF BODY CORPORATE
+•TRUST DEED
+•EVIDENCE OF RESERVATION OF BUSINESS NAME (CORPORATE AFFAIRS)
+•FEE
+•CERTIFICATE OF INCORPORATION
+•EXTRACT OF REGISTRATION OF BUSINESS NAME
+•EVIDENCE OF REGISTRATION OF NURSE MEMBERS
 DETAILS OF THE PRINCIPAL EXECUTIVE OFFICER OF THE BODY CORPORATE WHO MUST BE A NURSE:
 NAME: | INITIAL REGISTRATION NO/DATE: PRACTISING CERTIFICATE: EXPIRY DATE:
 ADDRESS:
@@ -262,6 +266,7 @@ DOCUMENTARY REQUIREMENTS TO BE ATTACHED HEREWITH:
 8.THE PROPOSED TERMS OF CONTRACT OF THE BODY CORPORATE TO BE PROVIDED AS SOON AS PRACTICABLE AFTER ISSUE:
 ·A certified copy of the certificate of incorporation of the body corporate.
 ·A certified extract of the registration of the business name.
+[Form 9 amended in Gazette 4 May 2001 p. 2243.]
 FORM 10
 [Rule 41]
 EVIDENTIARY CERTIFICATE
@@ -275,4 +280,3 @@ section 80(4)(a) of the Nurses Act 1992.
 ................................................
 Registrar
 *DELETE WHERE INAPPLICABLE
-[Schedule 1 amended in Gazette 4 May 2001 p. 2243; 29 Aug 2003 p. 3841; 30 Dec 2004 p. 6987.]
