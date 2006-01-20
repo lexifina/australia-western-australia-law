@@ -12,4 +12,5 @@ Electricity Transmission Amendment Regulations 2002 r. 1-5 | 29 Oct 2002 p. 5343
 Electricity Transmission Amendment Regulations (No. 2) 2004 | 22 Jun 2004 p. 2165-7 | 23 Jun 2004 (see r. 2 and Gazette 22 Jun 2004 p. 2161)
 Electricity Transmission Amendment Regulations (No. 3) 2004 | 31 Dec 2004 p. 7139 | 31 Dec 2004
 Electricity Transmission Amendment Regulations 2005 | 24 Jun 2005 p. 2752-4 | 24 Jun 2005
+Electricity Transmission Amendment Regulations 2006 | 20 Jan 2006 p. 377-8 | 20 Jan 2006
 Formerly referred to the Energy Corporations (Powers) Act 1979, the short title of which was changed to the Energy Operators (Powers) Act 1979 by the Gas Corporation (Business Disposal) Act 1999 s. 78. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
