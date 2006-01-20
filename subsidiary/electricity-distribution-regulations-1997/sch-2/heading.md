@@ -1,6 +1,6 @@
 ## Schedule 2 — Access information
 [r. 8 (6) & (8)]
-Part A — Information to be included in an access application
+## Part A — Information to be included in an access application
 An access application must contain the following information:
 (a) the name and address of the person making the access application and of any other persons for whom that person is acting in making the access application;
 (b) the type of distribution access services requested, when those distribution access services are required and for how long they will be required;
@@ -18,8 +18,7 @@ An access application must contain the following information:
 (n) any information as required by the Distribution Technical Code;
 (o) commercial information concerning the applicant to allow Western Power to make an assessment of the ability of the applicant to meet its obligations under any distribution access agreement that results from the access application; and
 (p) any other information reasonably required by Western Power.
-Part B — Information to be included in
-a response
+## Part B — Information to be included in a response
 A response must contain the following information:
 (a) whether it is likely that there is sufficient spare capacity to provide the distribution access services requested in the access application or whether the electricity distribution network will have to be augmented to provide those services;
 (b) whether it is likely that any connection equipment will have to be installed or upgraded to provide the connection services (if any) requested in the access application; and
