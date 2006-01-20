@@ -110,19 +110,33 @@ Under section 2.12 of the Act, a proposal to change from one method to the other
 ·a resident owner or occupier enrolled to vote at State elections;
 ·an owner of rateable property (e.g. an absentee land owner or an owner of business premises, vacant land or other non-residential property);
 ·an occupier of rateable property (e.g. tenant of business premises or other non-residential property).
-Form 5.Oath of allegiance[r. 13(1)(a)]
+[Forms 5 and 6 deleted in Gazette 20 Jan 2006 p. 381.]
+Form 7.Declaration by elected member of council[r. 13(1)(c)]
 Local Government Act 1995
 Local Government (Constitution) Regulations 1998
-Oath of allegiance
-I, ………………………………………………………………………………………..,
-of ………………………………………………………………………………………..
-sincerely promise and swear that I will be faithful and bear true allegiance to
-1………………………………………………………………………………………….,
-her/his heirs and successors, according to law.
-So help me God.
-Sworn at …………………………. on ………………………………………………..
-by……………………………………………..
-Before me:……………………………………………...
-_____________________________________________
-1Insert the name of the reigning sovereign.
-2Delete the one that does not apply.
+Declaration by elected member
+I, …………………………………………………………………………………………,
+of …………………………………………………………………………………………
+having been elected to the office of mayor/ deputy mayor/ president/ deputy president/ councillor of the …………………………………………………………………………
+declare that I take the office upon myself and will duly, faithfully, honestly, and with integrity, fulfil the duties of the office for the people in the district according to the best of my judgment and ability, and will observe the code of conduct adopted by the …….
+……………………………….. under section 5.103 of the Local Government Act 1995.
+Declared at …………………………… on ……………………………………………
+by……………………………………….
+Before me:……………………………………….
+_____________________________
+1Delete those that do not apply.
+2.Insert the name of the local government.
+Form 8.Declaration by commissioner[r. 13(1)(d)]
+Local Government Act 1995
+Local Government (Constitution) Regulations 1998
+Declaration by commissioner
+I, ……………………………………………………………………………………….,
+of ………………………………………………………………………………………,
+having been appointed to the office of commissioner
+of the ………………………………………………………………………………….
+declare that I take the office upon myself and will duly, faithfully, honestly, and with integrity, fulfil the duties of the office according to the best of my judgment and ability.
+Declared at …………………………… on ………………………………………….
+by…………………………………………..
+Before me:…………………………………………...
+___________________________
+1Insert the name of the local government
