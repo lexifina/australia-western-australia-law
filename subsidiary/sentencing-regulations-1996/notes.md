@@ -13,3 +13,4 @@ Sentencing Amendment Regulations (No. 2) 2004 | 14 May 2004 p. 1448-51 | 15 May 
 Sentencing Amendment Regulations 2004 | 3 Aug 2004 p. 3125 | 3 Aug 2004
 Sentencing Amendment Regulations (No. 3) 2004 | 31 Dec 2004 p. 7150-1 | 31 Dec 2004
 Sentencing Amendment Regulations 2005 | 28 Apr 2005 p. 1764-5 | 2 May 2005 (see r. 2)
+Sentencing Amendment Regulations (No. 2) 2005 | 24 Jan 2006 p. 429-31 | 24 Jan 2006
