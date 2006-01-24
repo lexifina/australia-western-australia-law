@@ -56,13 +56,13 @@ Number of allotments | Fee ($)
 Over 300 | 3 520
 4.The fees payable to the strata company are —
  | $
-(a)for an application made under section 43(1)(a) ................................... | 5.00
+(a)for an application made under section 43(1)(a) ................................... | 10.00
 (b)for the inspection of records under section 43(1)(b) —
 (i)by any proprietor or mortgagee who has notified an interest to the strata company ...................... | Nil
-(ii)by any other person ..................... | 20.00
-(c)for a certificate under section 43(1)(c) and (d) ................................................. | 50.00
-(d)for copies provided under section 43(1a) ...................................... | $20.00 for the first 5 pages and $0.50 for each subsequent page
+(ii)by any other person ..................... | 40.00
+(c)for a certificate under section 43(1)(c) and (d) ................................................. | 100.00
+(d)for copies provided under section 43(1a) ...................................... | $40.00 for the first 5 pages and $1.00 for each subsequent page
 5.A fee payable under item 4 to the strata company is increased by 10%, if the company is required to remit GST for the provision of the service for which the fee is payable.
 6.In item 5 —
 “GST” has the meaning given in section 195-1 of the A New Tax System (Goods and Services Tax) Act 1999 of the Commonwealth.
-[Schedule 1 inserted in Gazette 2 Sep 2004 p. 3825-7; amended in Gazette 24 Jun 2005 p. 2759-60.]
+[Schedule 1 inserted in Gazette 2 Sep 2004 p. 3825-7; amended in Gazette 24 Jun 2005 p. 2759-60; 24 Jan 2006 p. 436.]

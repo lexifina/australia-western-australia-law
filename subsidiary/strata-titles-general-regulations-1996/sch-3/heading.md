@@ -1,9 +1,9 @@
 ## Schedule 3
 [Regulation 46]
 Form 1
-Form 2
+[Forms 1 and 2 deleted in Gazette 24 Jan 2006 p. 437.]
 Form 3
-Form 4
+[Form 4 deleted in Gazette 24 Jan 2006 p. 437.]
 Form 5
 Strata Titles Act 1985
 Sections 5B(1), 8A, 22(1)
@@ -24,18 +24,15 @@ DateLicensed Surveyor
 *Delete if inapplicable
 Form 6
 Strata Titles Act 1985
-Sections 5B(1), 8A, 22(2)
-SURVEY-STRATA PLAN No.
+Sections 8A(e), 22(2)
+SURVEY-STRATA PLAN No. ……
 DESCRIPTION OF PARCEL
 CERTIFICATE OF LICENSED SURVEYOR
-I . . . . . . . . . . . . . . . . . . . . . . . being a licensed surveyor registered under the Licensed Surveyors Act 1909 certify that in respect of the survey-strata plan which relates to the parcel described above (in this certificate called “the plan”): —
-(a)the plan is a correct and accurate representation of the survey carried out *by me personally/or under my own personal supervision, inspection and field check, and recorded in Field Books kept, and if required lodged, for the purposes of this plan;
-(b)the measurements are in strict accordance with the Licensed Surveyors (Guidance of Surveyors) Regulations 1961 and in particular regulations 23 and 34 of those regulations;
-(c)this survey and plan are in strict accordance with the requirements of the Licensed Surveyors (Guidance of Surveyors) Regulations 1961 and the relevant law in relation to which it is lodged; and
-*(d)if the plan is a plan of re-subdivision, it complies with Schedule 1 by-law(s) no(s) . . . . . . . . . . . . . . . . . . . . . . on Survey-strata Plan no . . . . . . . . . . . . . . . . . . . . . . . . registered in respect of (name of scheme) or sufficiently complies with that/those by-law(s) in a way that is allowed by regulation 36 of the Strata Titles General Regulations 1996.
-. . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . .
-DateLicensed Surveyor
-*Delete if inapplicable
+I . . . . . . . . . . . . . . . . . . . . . . . being a licensed surveyor registered under the Licensed Surveyors Act 1909, certify that the survey-strata plan which relates to the parcel described above —
+(a) is a plan of re-subdivision; and
+(b) complies with Schedule 1 by-law(s) No(s). . . . . . . . . . . . . . . on Survey-strata Plan No. . . . . . . . . . . . . . . . . . . . . . . . . registered in respect of (name of scheme) or sufficiently complies with that/those by-law(s) in a way that is allowed by regulation 36 of the Strata Titles General Regulations 1996.
+. . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . Date Licensed Surveyor
+[Form 6 inserted in Gazette 24 Jan 2006 p. 437.]
 Form 7
 Strata Titles Act 1985
 Sections 5B(2), 8A(f), 23(1)
@@ -671,10 +668,7 @@ Signed . . . . . . . . . . . . . . . . . . . . . . | Signed . . . . . . . . . . 
 **Delete if inapplicable. If a resolution in the terms of 2(c) is included, a resolution in the terms of 3 must also be included.
 ***This form may be signed by the strata company, all of the registered proprietors in a 2 to 5 lot scheme or by one proprietor where an order made under section 103C or 103M accompanies this form.
 [Form 33 amended in Gazette 30 Dec 2004 p. 6945.]
-Form 34
-Strata Titles Act 1985
- |  | WARNING: CREASING OR FOLDING WILL LEAD TO REJECTION
-STRATA PLAN | SHEET OF SHEETS | MERGER BY RESOLUTION PART II DIVISION 2A SUBDIVISION 4 | NOTICE OF RESOLUTION . . . . . . . . . . . . REGISTERED . . . . . . . . . . . . . . . . . . . . . . . REGISTRAR OF TITLES
+[Form 34 deleted in Gazette 24 Jan 2006 p. 437.]
 Form 35
 Strata Titles Act 1985
 Sections 21T(1)(c), 21U
@@ -771,17 +765,14 @@ STRATA PLAN No. . . . . . . . . . . .
 CERTIFICATE OF LICENSED SURVEYOR — CONVERSION TO A SURVEY-STRATA SCHEME
 I, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ,
 being a licensed surveyor, certify in respect of the survey-strata plan under section 31E(1)(a) of the Act accompanying the notice of resolution of conversion to a survey-strata scheme dated . . . . . . . . . . . . in relation to the strata plan mentioned above (“the strata plan”) —
-(a)the survey-strata plan is a correct and accurate representation of the survey carried out *by me personally/or under my own personal supervision, inspection and field check, and recorded in Field Books kept, and if required lodged, for the purposes of that plan;
-(b)the measurements on the survey-strata plan are in accordance with the Licensed Surveyors (Guidance of Surveyors) Regulations 1961 and in particular regulations 23 and 34 of those regulations;
-(c)the survey and the survey-strata plan are in accordance with the Licensed Surveyors (Guidance of Surveyors) Regulations 1961 and the relevant law in relation to which it is lodged;
-(d)there are not more lots on the survey-strata plan, disregarding any lot designated as a common property lot, than there are on the strata plan;
-(e)a reference on the survey-strata plan to a lot by a designated number is a reference to the lot designated by that number on the strata plan;
-(f)where 2 lots have a common or party wall, the centre plane of that wall is on the boundary of the lots;
-(g)the rights and amenities required to be provided for by the relevant town planning scheme in force under the Town Planning and Development Act 1928, as prescribed by regulation 14O —
+(a)there are not more lots on the survey-strata plan, disregarding any lot designated as a common property lot, than there are on the strata plan;
+(b)a reference on the survey-strata plan to a lot by a designated number is a reference to the lot designated by that number on the strata plan;
+(c)where 2 lots have a common or party wall, the centre plane of that wall is on the boundary of the lots;
+(d)the rights and amenities required to be provided for by the relevant town planning scheme in force under the Town Planning and Development Act 1928, as prescribed by regulation 14O —
 (i)are provided for in accordance with that scheme at the time when this certificate is given; or
 (ii)will be provided for when the notice of resolution and documents referred to in section 31H of the Act are registered;
 and
-(h)the following easement(s) are required to be created on the survey-strata plan under section 5D of the Act for the purposes of satisfying the certification in paragraph (g)(ii) above —
+(e)the following easement(s) are required to be created on the survey-strata plan under section 5D of the Act for the purposes of satisfying the certification in paragraph (d)(ii) above —
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -789,6 +780,7 @@ and
 . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 DateLicensed Surveyor
 *Delete whichever is inapplicable.
+[Form 38 amended in Gazette 24 Jan 2006 p. 437-8.]
 Form 39
 DISPOSITION ON MERGER OF LAND OR CONVERSION TO A SURVEY-STRATA SCHEME
 Strata Titles Act 1985
@@ -869,4 +861,4 @@ Signed . . . . . . . . . . . . . . . . . . . . . . | Signed . . . . . . . . . . 
 *Delete whichever is inapplicable.
 **This form may be signed by one or more of the registered proprietors in the scheme.
 [Form 41 amended in Gazette 30 Dec 2004 p. 6945.]
-[Schedule 3 amended in Gazette 17 Jan 1997 p. 478-510; 14 Apr 2000 p. 1884-9; 30 Dec 2004 p. 6945; 13 May 2005 p. 2083-5.]
+[Schedule 3 amended in Gazette 17 Jan 1997 p. 478-510; 14 Apr 2000 p. 1884-9; 30 Dec 2004 p. 6945; 13 May 2005 p. 2083-5; 24 Jan 2006 p. 437-8.]

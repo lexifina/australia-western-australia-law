@@ -2,13 +2,11 @@
 [Regulation 46]
 Table of prescribed forms
 Section or regulation | Number and Description of Form
-Section 5(1)(a), (b), (d), (e), 5A(1)(a), (b), (c), (e), (f), 5B(1)(c), 8A(g), 25B(2), 31E(1)(a) | Form 1, 2 — Strata/Survey-strata Plan, Certificate of Commission.
-Section 5(1)(c), 5A(1)(d), 5B(1)(b), 8A(h), 14(2), 21T(1)(d), 31E(1)(d) | Form 3 — Schedule of Unit Entitlement and Certificate of Licensed Valuer.
-Regulation 5(5) | Form 4 — Annexure Sheet.
+Section 5(1)(c), 5A(d), 5B(1)(b), 8A(h), 14(2), 21T(1)(d), 31E(1)(d) | Form 3 — Schedule of Unit Entitlement and Certificate of Licensed Valuer.
 Section 5B(1)(a), 8A(d), 8A(e), 22(1) | Form 5 — Certificate of Licensed Surveyor.
-Section 5B(1)(a), 8A(d), 8A(e), 22(2) | Form 6 — Certificate of Licensed Surveyor.
+Section 8A(e), 22(2) | Form 6 — Certificate of Licensed Surveyor.
 Section 5B(2), 8A(f), 23(1) | Form 7 — Certificate of Local Government.
-Section 5(1)(f), 5A(g), Regulation 5(1a) | Form 8 — Schedule of Dealings on Strata/Survey-strata Plan and Encumbrances on Common Property.
+Section 5(1)(f), 5A(g), Regulation 5(1) | Form 8 — Annexure of Strata/Survey Strata Plan No. and Schedule of Encumbrances
 Section 10(2)(a) | Form 9 — Certificate of Local Government Consenting to Conversion of Common Property.
 Section 10(2)(b) | Form 10 — Certificate of Strata Company Consenting to Conversion of Common Property.
 Section 15(2)(a) | Form 11 — Certificate of Consent by Strata Company to Amended Schedule of Unit Entitlement.
@@ -34,7 +32,6 @@ Section 21G | Form 30 — Notice of Resolution of Merger of Buildings.
 Section 21O | Form 31 — Notice of Objection to Automatic Merger of Buildings.
 Section 21S | Form 32 — Notice of Resolution of Merger of Land.
 Sections 21G, 21S | Form 33 — Notice of Resolution of Merger of Buildings and Land.
-Section 21T(1)(b), Regulation 14L | Form 34 — Sketch Plan.
 Sections 21T(1)(c), 21U | Form 35 — Certificate of Licensed Surveyor — Merger in Strata Scheme.
 Section 21T | Form 36 — Certificate of Licensed Valuer —Merger in Strata Scheme.
 Section 31D | Form 37 — Notice of Resolution of Conversion to a Survey-Strata Scheme.
@@ -42,4 +39,4 @@ Sections 31E(1)(b), 31F | Form 38 — Certificate of Licensed Surveyor — Conve
 Sections 21V, 31H, Regulation 21A(1)(b) | Form 39 — Disposition on Merger of Land or Conversion to a Survey-Strata Scheme.
 Sections 123A, 123C | Form 40 — Notice of Objection to Change of Fencing Provisions.
 Section 30 Strata Titles Amendment Act 1996 | Form 41 — Notice of Termination of Insurance Order.
-[Schedule 2 amended in Gazette 28 Jun 1996 p. 3061; 17 Jan 1997 p. 476-8; 30 Dec 2004 p. 6945.]
+[Schedule 2 amended in Gazette 28 Jun 1996 p. 3061; 17 Jan 1997 p. 476-8; 30 Dec 2004 p. 6945; 24 Jan 2006 p. 436-7.]
