@@ -161,8 +161,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 30 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Stamp Amendment (Taxing) Act 2005 s. 4 and 5 | 35 of 2005 | 12 Dec 2005 | Operative on commencement of Act No. 36 of 2005 s. 6 (see s. 2)
-Stamp Amendment (Assessment) Act 2005 s. 6 and 8 | 36 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2(3))
+Stamp Amendment (Taxing) Act 2005 s. 4 and 5 | 35 of 2005 | 12 Dec 2005 | 1 Mar 2006 (see s. 2 and Gazette 24 Jan 2006 p. 429)
+Stamp Amendment (Assessment) Act 2005 s. 6 and 8 | 36 of 2005 | 12 Dec 2005 | 1 Mar 2006 (see s. 2(3) and Gazette 24 Jan 2006 p. 429)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 The Revenue Laws Amendment and Repeal Act 2004 s. 19 and 32 read as follows:
 “
