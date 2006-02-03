@@ -1,22 +1,18 @@
 Notes
-This is a compilation of the University of Notre Dame Australia Act 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 February 2006 of the University of Notre Dame Australia Act 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-University of Notre Dame Australia Act 1989 | 49 of 1989 | 9 Jan 1990 | Proc. 26 Jan 1990 (see s. 2 and Gazette 26 Jan 1990 p. 657)
+University of Notre Dame Australia Act 1989 | 49 of 1989 | 9 Jan 1990 | 26 Jan 1990 (see s. 2 and Gazette 26 Jan 1990 p. 657)
 Voluntary Membership of Student Guilds and Associations Act 1994 Pt. 6 | 91 of 1994 | 5 Jan 1995 | 5 Jan 1995 (see s. 2)
-Industrial Legislation Amendment Act 1995 s. 35 | 1 of 1995 | 9 May 1995 | Proc. 1 Jan 1996 (see s. 2(2) and Gazette 24 Nov 1995 p. 5389)
+Industrial Legislation Amendment Act 1995 s. 35 | 1 of 1995 | 9 May 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 24 Nov 1995 p. 5389)
 University of Notre Dame Australia Amendment Act 1996 | 16 of 1996 | 28 Jun 1996 | 26 Jul 1996
-Trustees Amendment Act 1997 s. 18 | 1 of 1997 | 6 May 1997 | Proc. 16 Jun 1997 (see s. 2 and Gazette 10 Jun 1997 p. 2661)
+Trustees Amendment Act 1997 s. 18 | 1 of 1997 | 6 May 1997 | 16 Jun 1997 (see s. 2 and Gazette 10 Jun 1997 p. 2661)
 Acts Amendment (Education Loan Scheme) Act 1998 Pt. 4 and 5 | 27 of 1998 | 30 Jun 1998 | 30 Jun 1998 (see s. 2)
 Reprint of the University of Notre Dame Australia Act 1989 as at 1 Jun 2001 (includes amendments listed above)
 Acts Amendment (Student Guilds and Associations) Act 2002 Pt. 5 | 44 of 2002 | 3 Jan 2003 | 25 Jan 2003 (see s. 2 and Gazette 24 Jan 2003 p. 141)
 Universities Legislation Amendment Act 2005 Pt. 5 | 8 of 2005 | 7 Jul 2005 | 13 Aug 2005 (see s. 2 and Gazette 12 Aug 2005 p. 3651)
-The Voluntary Membership of Student Guilds and Associations Act 1994 s. 2(2), (3) and (4) reads as follows:
-“
-(2) Except as provided in subsection (3), the amendments to each principal Act effected by this Act do not apply in respect of any subscription, fee or amount that became payable under any such principal Act before the commencement of this Act.
-(3) If, before this Act comes into operation, a subscription, fee or amount has been paid under a principal Act that is amended by this Act for membership of a student guild or association in the year commencing 1 January 1995, or any part of that year, the student guild or association shall, upon written application by the person by or on whose behalf the subscription, fee or amount was paid, refund that subscription, fee or amount.
-(4) The amendments to each principal Act effected by this Act are to be construed subject to the limits of the legislative power of the State and are valid to the extent to which they are within that power.
-”.
+Reprint 2: The University of Notre Dame Australia Act 1989 as at 3 Feb 2006 (includes amendments listed above)
+The Voluntary Membership of Student Guilds and Associations Act 1994 s. 2(2), (3) and (4) are transitional provisions that are of no further effect.
 The Acts Amendment (Education Loan Scheme) Act 1998 Pt. 5 reads as follows:
 “
 Part 5 — Transitional
