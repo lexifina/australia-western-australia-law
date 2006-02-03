@@ -4,5 +4,5 @@
 ## Part B
 ## Part C
 ## Part D
-* Numeral authorized by Authority
-[Schedule 3 amended in Gazette 23 May 1986 p.1741; 27 May 1988 p.1795.]
+* Numeral authorised by Authority
+[Schedule 3 amended in Gazette 23 May 1986 p. 1741; 27 May 1988 p. 1795.]
