@@ -92,5 +92,6 @@ Hospitals (Services Charges) Amendment Regulations 2005 | 11 Mar 2005 p. 913-14 
 Hospitals (Services Charges) Amendment Regulations (No. 2) 2005 | 19 Apr 2005 p. 1291 | 19 Apr 2005
 Hospitals (Services Charges) Amendment Regulations (No. 4) 2005 | 28 Jun 2005 p. 2921-2 | 1 Jul 2005 (see r. 2)
 Hospitals (Services Charges) Amendment Regulations (No. 3) 2005 | 14 Oct 2005 p. 4555-6 | 14 Oct 2005
+Hospitals (Services Charges) Amendment Regulations 2006 | 3 Feb 2006 p. 518 | 3 Feb 2006
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with the Interpretation Act 1984 s. 42(1), subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date of 1 September 1990 that was specified in these regulations was before the date of their publication in the Gazette.
