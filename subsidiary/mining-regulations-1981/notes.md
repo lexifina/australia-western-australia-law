@@ -95,6 +95,7 @@ Mining Amendment Regulations (No. 3) 2004 | 20 Aug 2004 p. 3619-21 | 1 Jul 2005 
 Mining Amendment Regulations (No. 5) 2004 | 28 Jan 2005 p. 360-2 | 1 Jul 2005 (see r. 2)
 Mining Amendment Regulations (No. 3) 2005 | 20 May 2005 p. 2159 | 1 Jul 2005 (see r. 2)
 Mining Amendment Regulations (No. 4) 2005 | 24 Jun 2005 p. 2769-71 | 1 Jul 2005 (see r. 2)
+Mining Amendment Regulations 2006 | 7 Feb 2006 p. 622-3 | 7 Feb 2006
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Mines or to the Department of Minerals and Energy is, unless the contrary intention appears, to be read and construed as a reference to the Department of Industry and Resources.
