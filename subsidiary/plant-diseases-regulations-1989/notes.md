@@ -93,5 +93,6 @@ Plant Diseases Amendment Regulations 2005 | 17 May 2005 p. 2103-28 | 17 May 2005
 Plant Diseases Amendment Regulations (No. 2) 2005 | 17 May 2005 p.2131-4 | 17 May 2005
 Plant Diseases Amendment Regulations (No. 3) 2005 | 31 May 2005 p. 2398-9 | 1 Jul 2005 (see r. 2)
 Plant Diseases Amendment Regulations (No. 4) 2005 | 16 Dec 2005 p. 6074-8 | 16 Dec 2005
+Plant Diseases Amendment Regulations (No. 2) 2006 | 7 Feb 2006 p. 615-19 | 7 Feb 2006
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the department formerly called Agriculture Western Australia is now called the Department of Agriculture.
 The amendment in the Plant Diseases Amendment Regulations (No. 2) 2001 r. 4(1)(b) is not included because of an error in the reference to the provision to be amended.

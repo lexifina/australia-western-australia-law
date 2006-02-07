@@ -77,7 +77,7 @@ Douglas fir............ | 3, 13, 17, 27, 29, 45, 55 | 3, 29, 55 | 16 | 55
 Durian................... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9/9C, 41, 52, 55
 Egg fruit............... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/9J, 41, 52, 55
 Elms ..................... | 13, 17, 27, 29, 38, 41, 45, 52, 55 | 29, 38, 41, 52, 55 | 16 | —
-Eribobotrya spp. (Loquat) ............ | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
+Eribobotrya spp. (Loquat) ............ | 1 | 1 | 16 | 1
 Eugena ................. | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/9F, 41, 52, 55
 European larch..... | 3, 13, 17, 27, 29, 45, 55 | 3, 29, 55 | 16 | 55
 Feijoa.................... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
@@ -167,7 +167,7 @@ Prickly Pear.......... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 
 Prunus salicina..... | 13, 17, 18, 27, 29, 41, 45, 52, 55 | 18, 29, 41, 52, 55 | 16 | 1
 Pummelo.............. | see Citrus
 Pumpkin............... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/8A/9J, 41, 52, 55
-Pyracantha spp. (Firethorn)......... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 41, 52, 55
+Pyracantha spp. (Firethorn)......... | 1 | 1 | 16 | 1
 Pyrus spp. (Pear).. | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 1
 Quince.................. | see Cydonia spp.
 Radish................... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
@@ -188,7 +188,7 @@ Sapote................... | see Black sapote and Casimiroa
 Seed (see also Douglas fir, European larch, Mango, Pinus, Lucerne, Maize, Rice, Soybean, Sorghum and Schedule 5) ....... | — | — | 16 | —
 Serviceberry......... | see Amelanchier spp.
 Shallots................. | 13, 17, 27, 29, 35, 41, 45, 55 | — | 16 | 41, 35, 55
-Sorbus spp. (Mountain ash).. | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 41, 52, 55
+Sorbus spp. (Mountain ash).. | 1 | 1 | 16 | 1
 Sorghum............... | 1 | 1 | 16, 23, 23A | —
 Soursop................. | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
 Soybean................ | 1 | 1 | 16, 25 | —
@@ -227,7 +227,7 @@ Watsonia............... | 13, 17, 27, 29, 41, 45, 52, 53, 55 | 29, 41, 52, 53, 5
 Wax jambu (Rose apple) ................ | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
 Yams.................... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
 Zucchini................ | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/7/9G, 41, 52, 55
-[Part A amended in Gazette 31 Oct 2003 p. 4554-5; 16 Jan 2004 p. 193; 21 Sep 2004 p. 4108-9; 17 May 2005 p. 2106 and 2131-2; 16 Dec 2005 p. 6074.]
+[Part A amended in Gazette 31 Oct 2003 p. 4554-5; 16 Jan 2004 p. 193; 21 Sep 2004 p. 4108-9; 17 May 2005 p. 2106 and 2131-2; 16 Dec 2005 p. 6074; 7 Feb 2006 p. 615.]
 ## Part AA — Potential carriers — other than plants
 Column 1 Potential Carrier | Column 2 Conditions for Entry
 Agricultural machinery ..................................................................….. | 27, 42, 57
@@ -253,13 +253,16 @@ Vegetable containers (used) other than potato containers .................. | 1
 1.(1)Unless specifically dealt with elsewhere, entry not allowed under any conditions
 Apple: fruit and plants — apple scab (Venturia inaequalis), codling moth (Cydia pomonella).
 Banana: plants other than tissue culture — bunchy top virus.
+Eribobotrya spp. (Loquat): fruit and plants — apple scab (Venturia inaequalis).
 Grape: fruit, seed, plants and used machinery/equipment — downy mildew (Plasmopara viticola), grape phylloxera (Daktulosphaira vitifolii).
 Lucerne: plants — bacterial wilt (Clavibacter (Corynebacterium) michiganense subsp. insidiosum).
 Lucerne: seed other than seed from South Australia — bacterial wilt (Clavibacter (Corynebacterium) michiganense subsp. insidiosum).
 Maize: plants — boil smut (Ustilago maydis).
 Pear: fruit — codling moth (Cydia pomonella).
 Potatoes: from Victoria (other than tissue cultured and minitubers).
+Pyracantha spp. (Firethorn): fruit and plants — apple scab (Venturia inaequalis).
 Quince: fruit — codling moth (Cydia pomonella).
+Sorbus spp. (Mountain ash): fruit and plants — apple scab (Venturia inaequalis).
 Sorghum: plants — sorghum midge (Contarinia sorghicola), ergot (Claviceps spp.).
 Soybean: plants — black leaf blight (Arkoola nigra), stem rot (Phytophthora megasperma f. sp. glycinea).
 Stonefruit: fruit other than apricot fruit (Prunus armeniaca) and cherry fruit (Prunus avium) from South Australia and Tasmania, general diseases.
