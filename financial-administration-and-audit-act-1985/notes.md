@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Financial Administration and Audit Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 10 February 2006 of the Financial Administration and Audit Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Financial Administration and Audit Act 1985 | 117 of 1985 | 30 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
@@ -11,12 +11,12 @@ Western Australian Exim Corporation Act 1986 s. 39(b) | 94 of 1986 | 10 Dec 1986
 Western Australian Sports Centre Trust Act 1986 s. 22 | 101 of 1986 | 12 Dec 1986 | 24 Dec 1986 (see s. 2 and Gazette 24 Dec 1986 p. 4963)
 Financial Administration and Audit Act (Designation of Statutory Authorities No. 1) Regulations 1987 published in Gazette 6 Feb 1987 p. 292 | 6 Feb 1987
 Reprint of the Financial Administration and Audit Act 1985 as at 4 Mar 1987 (includes amendments listed except the Western Australian Exim Corporation Act 1986)
-Boxing Control Act 1987 s. 65 | 2 of 1987 | 29 May 1987 | 22 Feb 1991 (see s. 2 and Gazette 22 Feb 1991 p. 867)
+Boxing Control Act 1987 s. 65 | 2 of 1987 | 29May1987 | 22 Feb 1991 (see s. 2 and Gazette 22 Feb 1991 p. 867)
 Great Southern Development Authority Act 1987 s. 35 | 9 of 1987 | 11 Jun 1987 | 29 Apr 1988 (see s. 2 and Gazette 29 Apr 1988 p. 1292)
 Technology Development Amendment Act 1987 s. 36 | 32 of 1987 | 29 Jun 1987 | 30 Jun 1987 (see s. 2 and Gazette 30 Jun 1987 p. 2545)
 Financial Administration and Audit (Designation of Statutory Authorities No. 2) Regulations 1987 published in Gazette 30 Jun 1987 p. 2546 | 30 Jun 1987
 Financial Administration and Audit (Designation of Statutory Authorities No. 3) Regulations 1987 published in Gazette 25 Sep 1987 p. 3717 | 25 Sep 1987
-Acts Amendment (Legal Practitioners, Costs and Taxation) Act 1987 Pt. XVII | 65 of 1987 | 1 Dec 1987 | 12 Feb 1988 (see s. 2 and Gazette 12 Feb 1988 p. 397)
+Acts Amendment (Legal Practitioners, Costs and Taxation) Act 1987 Pt. XVII | 65 of 1987 | 1 Dec 1987 | 12 Feb 1988 (see s. 2(2) and Gazette 12 Feb 1988 p. 397)
 Financial Administration and Audit (Designation of Statutory Authorities No. 4) Regulations 1987 published in Gazette 4 Dec 1987 p. 4326 | 4 Dec 1987
 Solar Energy Research Amendment Act 1987 s. 21 | 88 of 1987 | 9 Dec 1987 | 30 Jun 1988 (see s. 3(2) and Gazette 30 Jun 1988 p. 2135)
 Minerals and Energy Research Act 1987 s. 41 | 89 of 1987 | 9 Dec 1987 | 1 Feb 1988 (see s. 2 and Gazette 15 Jan 1988 p. 67)
@@ -99,7 +99,7 @@ Curtin University of Technology Amendment Act 1996 s. 27 | 35 of 1996 | 27 Sep 1
 Vocational Education and Training Act 1996 s. 71 | 42 of 1996 | 16 Oct 1996 | 1 Jan 1997 (see s. 2 and Gazette 12 Nov 1996 p. 6301)
 Acts Amendment (ICWA) Act 1996 s. 38 (Sch. 1 it. 3(a) and (b)) | 45 of 1996 | 25 Oct 1996 | 1 Oct 1997 (see s. 2 and Gazette 23 Sep 1997 p. 5357)
 Financial Legislation Amendment Act 1996 | 49 of 1996 | 25 Oct 1996 | Act other than s. 42-45: 25 Oct 1996 (see s. 2(1)); s. 42-45: 9 Nov 1996 (see s. 2(2) and Gazette 8 Nov 1996 p. 6211)
-Reprint of the Financial Administration and Audit Act 1985 as at 10 Jun 1997 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 3(a)-(b))
+Reprint of the Financial Administration and Audit Act 1985 as at 10 Jun 1997 (includes amendments listed above)
 Curriculum Council Act 1997 s. 35 | 17 of 1997 | 8 Jul 1997 | 1 Aug 1997 (see s. 2 and Gazette 25 Jul 1997 p. 3907)
 Professional Standards Act 1997 s. 58 | 22 of 1997 | 18 Sep 1997 | 18 Apr 1998 (see s. 2 and Gazette 17 Apr 1998 p. 2045)
 Country Housing Act 1998 s. 48 | 4 of 1998 | 14 Apr 1998 | 1 Jul 1998 (see s. 2 and Gazette 30 Jun 1998 p. 3557)
@@ -147,7 +147,7 @@ Financial Administration and Audit (Designation of Statutory Authorities) Regula
 Reprint of the Financial Administration and Audit Act 1985 as at 16 Sep 2002 (includes amendments listed above)
 Grain Marketing Act 2002 s. 47 | 30 of 2002 | 25 Oct 2002 | 31 Oct 2002 (see s. 2 and Gazette 30 Oct 2002 p. 5351)
 Fire and Emergency Services Legislation Amendment Act 2002 s. 74 | 38 of 2002 | 20 Nov 2002 | 30 Nov 2002 (see s. 2 and Gazette 29 Nov 2002 p. 5651-2)
-Boxing Control Amendment Act 2003 | 16 of 2003 | 17 Apr 2003 | 12 Jan 2005 (see s. 2 and Gazette 11 Jan 2005 p. 89)
+Boxing Control Amendment Act 2003 s. 31 | 16 of 2003 | 17 Apr 2003 | 12 Jan 2005 (see s. 2 and Gazette 11 Jan 2005 p. 89)
 Public Transport Authority Act 2003 s. 204 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
 Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 21, 51, 68(2), 116(2), 175(1) and 221(2) | 35 of 2003 | 26 Jun 2003 | s. 21, 68(2), and 221(2): 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259); s. 51, 116(2) and 175(1): 30 Jan 2004 (see s. 2 and Gazette 30 Jan 2004 p. 397)
 Corruption and Crime Commission Act 2003 s. 62 | 48 of 2003 | 3 Jul 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
@@ -156,24 +156,26 @@ Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2
 Statutes (Repeals and Minor Amendments) Act 2003 s. 55 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Corruption and Crime Commission Amendment and Repeal Act 2003 s. 74(2) | 78 of 2003 | 22 Dec 2003 | 7 Jul 2004 (see s. 2 and Gazette 6 Jul 2004 p. 2697)
 Financial Administration and Audit (Designation of Statutory Authorities) Regulations 2004 published in Gazette 29 Jun 2004 p. 2550-1 | 29 Jun 2004
-Reprint 8: The Financial Administration and Audit Act 1985 as at 9 Jul 2004 (includes amendments listed above)
+Reprint 8: The Financial Administration and Audit Act 1985 as at 9 Jul 2004 (includes amendments listed above except the Boxing Control Amendment Act 2003)
 Marketing of Eggs Amendment Act 2004 s. 8 | 20 of 2004 | 26 Aug 2004 | 2 Jul 2005 (see s. 2(2) and Gazette 28 Jun 2005 p. 2895)
 Pig, Potato and Poultry Industries (Compensation Legislation) Repeal Act 2004 s. 17 | 40 of 2004 | 3 Nov 2004 | 1 Feb 2005 (see. s. 2 and Gazette 7 Jan 2005 p. 53)
 Workers’ Compensation Reform Act 2004 s. 160 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
 Western Australian Land Authority Amendment Act 2004 s. 44 | 67 of 2004 | 8 Dec 2004 | 25 Dec 2004 (see s. 2 and Gazette 24 Dec 2004 p. 6247)
 Financial Administration and Audit (Designation of Statutory Authorities) Regulations (No. 2) 2004 published in Gazette 21 Dec 2004 p. 6133-4 | 21 Dec 2004
-Financial Administration and Audit (Designation of Statutory Authorities) Regulations (No. 3) 2004 published in Gazette 4 Feb 2005 p. 623-4 | 4 Feb 2005 [The commencement date that was specified was before the date of gazettal]
-Financial Administration Legislation Amendment Act 2005 Pt. 2 | 5 of 2005 | 27 Jun 2005 | s. 4(2) and 7: 28 Jun 2005 (see s. 2 and Gazette 28 Jun 2005 p. 2949) s. 4(1), 5, 6 and 8-26: 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
+Financial Administration and Audit (Designation of Statutory Authorities) Regulations (No. 3) 2004 published in Gazette 4 Feb 2005 p. 623-4 | 4 Feb 2005
+Financial Administration Legislation Amendment Act 2005 Pt. 2 (s. 3-26) | 5 of 2005 | 27 Jun 2005 | s. 3, 4(2) and 7: 28 Jun 2005 (see s. 2 and Gazette 28 Jun 2005 p. 2949); s. 4(1), 5, 6 and 8-26: 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
 Financial Administration and Audit (Designation of Statutory Authorities) Regulations 2005 published in Gazette 1 Jul 2005 p. 3007 | 1 Jul 2005
 Financial Administration and Audit (Designation of Statutory Authorities) Regulations (No. 2) 2005 published in Gazette 28 Oct 2005 p. 4842 | 28 Oct 2005
-On the date as at which this consolidation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 9: The Financial Administration and Audit Act 1985 as at 10 Feb 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 Sch. it. 2 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
 Acts Amendment (ICWA) Act 1996 Sch. 1 it. 3(c) | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 44 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Repealed by the State Superannuation Act 2000 s. 39.
+The provision of this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
+The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. (Also see endnote 11).
 Repealed by the Acts Amendment (Financial Administration and Audit) Act 1985 s. 3.
 The amendment in the Western Australian Exim Corporation Act 1986 s. 42 to Schedule 1 of the Financial Administration and Audit Act 1985 is not included because the Schedule it sought to amend had been amended by the Financial Administration and Audit Act (Designation of Statutory Authorities — No. 1) Regulations 1986, published in Gazette 6 Feb 1987 p. 292.
 The Financial Administration Legislation Amendment Act 1993 s. 17 and 18 read as follows:
@@ -199,19 +201,20 @@ as the case may be.
 “Consolidated Revenue Fund” means the fund of that name established by section 64 of the Constitution Act 1889 before section 11 of this Act comes into operation;
 “General Loan and Capital Works Fund” means the fund of that name in existence under the Financial Administration and Audit Act 1985 before section 8 of this Act comes into operation.
 ”.
-On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 1991 s. 57, which gives effect to Sch. it. 2, had not come into operation. It reads as follows:
+The commencement date that was specified was before the date of gazettal.
+On the date as at which this reprint was prepared, the Conservation and Land Management Amendment Act 1991 s. 57, which gives effect to the Sch., had not come into operation. It reads as follows:
 “
 57.Consequential amendments to other Acts
 The Acts referred to in the first column of the Schedule are amended in the manner set out in the second column.
 ”.
-Schedule item 2 reads as follows:
+Item 2 of the Schedule reads as follows:
 “
 Schedule
 (Section 57)
 Short title of Act | Amendment
 2.Financial Administration and Audit Act 1985 | In Schedule 1, the following item is inserted in the appropriate alphabetical position — “ Nature Conservation Trust of Western Australia ”.
 ”.
-On the date as at which this compilation was prepared, the Acts Amendment (ICWA) Act 1996 s. 38, which gives effect to Sch. 1 it. 3(c), had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Acts Amendment (ICWA) Act 1996 s. 38, which gives effect to Sch. 1, had not come into operation. It reads as follows:
 “
 38.Consequential amendments
 The Acts referred to in the Schedule are amended as set out in Schedule 1.
@@ -223,7 +226,7 @@ Schedule 1 — Consequential amendments to other Acts
 Provision amended | Amendment
 Schedule 1 | ... (c)Delete the item “State Government Insurance Corporation”. ...
 ”.
-On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2 Div. 3, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3.Consequential provisions
 Schedule 2 has effect.
@@ -237,7 +240,7 @@ Division 3 — Financial Administration and Audit Act 1985
 Schedule 1 to the Financial Administration and Audit Act 1985 is amended by inserting in the appropriate alphabetical position the following —
 “ Native Title Commission ”.
 ”.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 44 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 44 had not come into operation. It reads as follows:
 “
 44.Financial Administration and Audit Act 1985 amended
 Section 73 of the Financial Administration and Audit Act 1985 is amended as follows:
