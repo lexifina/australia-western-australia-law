@@ -19,3 +19,4 @@ Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2000 | 5 Sep 20
 Reprint of the Licensed Surveyors (Guidance of Surveyors) Regulations 1961 as at 2 Aug 2002 (includes amendments listed above)
 Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2003 | 12 Sep 2003 p. 4074-6 | 12 Sep 2003
 Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2005 | 22 Apr 2005 p. 1342-3 | 22 Apr 2005
+Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2006 | 10 Feb 2006 p. 660-1 | 10 Feb 2006
