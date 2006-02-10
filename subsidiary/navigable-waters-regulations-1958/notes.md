@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Navigable Waters Regulations and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Navigable Waters Regulations | 2 Apr 1958 p. 622-32 | 1 May 1958 (see r. 1)
@@ -109,6 +109,7 @@ Sentencing Legislation (Short Sentences) Amendment Regulations 2004 r. 7 | 14 Ma
 Navigable Waters Amendment Regulations 2004 | 25 Jun 2004 p. 2264-5 | 1 Jul 2004 (see r. 2)
 Navigable Waters Amendment Regulations (No. 2) 2004 | 24 Aug 2004 p. 3659-60 | 24 Aug 2004
 Navigable Waters Amendment Regulations 2005 | 24 Jun 2005 p. 2778-9 | 1 Jul 2005 (see r. 2)
+Navigable Waters Amendment Regulations (No. 2) 2005 | 10 Feb 2006 p. 667-75 | 10 Feb 2006
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 The Navigable Waters Amendment Regulations 1992 r. 9 reads as follows:
 “
@@ -116,3 +117,4 @@ The Navigable Waters Amendment Regulations 1992 r. 9 reads as follows:
 (1) Notwithstanding regulations 4 and 6 of these regulations, regulations 45B and 45D of the principal regulations, as they were immediately before the commencement of these regulations, continue to apply in relation to a vessel registered with the department in the year ending 30 June 1992, until that vessel’s registration expires or is renewed.
 (2) Notwithstanding regulation 5 of these regulations, regulation 45BAA of the principal regulations, as it was immediately before the commencement of these regulations, continues to apply in relation to a foreign pleasure vessel registered with the department in the year ending 30 June 1992, until that foreign pleasure vessel’s registration expires or is renewed.
 ”.
+Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
