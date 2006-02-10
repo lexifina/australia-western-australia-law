@@ -25,3 +25,4 @@ Police (Fees) Amendment Regulations 2003 | 7 Feb 2003 p. 390-1 | 7 Feb 2003
 Police (Fees) Amendment Regulations (No. 2) 2003 | 20 Jun 2003 p. 2246-7 | 1 Jul 2003 (see r. 2)
 Police (Fees) Amendment Regulations 2004 | 29 Jun 2004 p. 2541-2 | 1 Jul 2004 (see r. 2)
 Police (Fees) Amendment Regulations 2005 | 1 Jul 2005 p. 3003-5 | 1 Jul 2005 (see r. 2)
+Police (Fees) Amendment Regulations 2006 | 10 Feb 2006 p. 675-6 | 10 Feb 2006
