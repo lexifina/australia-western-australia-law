@@ -1,2 +1,2 @@
-## Schedule 1 — Constitution and Proceedings of the Board
+## Schedule 1 — Constitution and proceedings of the Board
 [Section 5]
