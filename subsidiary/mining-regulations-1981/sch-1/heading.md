@@ -285,7 +285,7 @@ Instrument of Lease Mining Act 1978
 (Sec. 116 Reg. 26)
 MINING LEASE No.
 The Minister a corporation sole established by the Mining Act 1978 in consideration of the rents hereinafter reserved and of the covenants on the part of the Lessee described in the First Schedule to this lease and of the conditions hereinafter contained and pursuant to the Mining Act 1978 hereby leases to the Lessee the land more particularly delineated and described in the Second Schedule to this lease subject however to the exceptions and reservations if any set out in the Third Schedule to this lease and to any other exceptions and reservations which are by the Mining Act 1978 and by any Act for the time being in force deemed to be contained herein to hold to the Lessee in the shares set out in the First Schedule to this lease for a term of 21 years commencing on the date set out in the Fourth Schedule to this lease upon and subject to such of the provisions of the Mining Act 1978 as are applicable to mining leases granted thereunder and to the covenants and conditions hereinafter contained or implied herein the Lessee paying therefor the rents and royalties for the time being and from time to time respectively prescribed pursuant to the provisions of the Mining Act 1978 at the times and in the manner so prescribed.
-AND it is hereby agreed and declared that unless the Lessee shall at all times duly and punctually perform and observe the covenants and conditions hereinafter contained or implied herein this lease shall be liable to forfeiture and may be forfeited by the Minister pursuant to the powers in that behalf conferred by the Mining Act 1978 provided that the Minister may as he thinks fit impose on the Lessee a penalty not exceeding $1 000 as an alternative to forfeiture of this lease. The covenants and conditions hereinbefore referred to are that the Lessee shall —
+AND it is hereby agreed and declared that unless the Lessee shall at all times duly and punctually perform and observe the covenants and conditions hereinafter contained or implied herein this lease shall be liable to forfeiture and may be forfeited by the Minister pursuant to the powers in that behalf conferred by the Mining Act 1978 provided that the Minister may as he thinks fit impose on the Lessee a penalty as an alternative to forfeiture of this lease. The covenants and conditions hereinbefore referred to are that the Lessee shall —
 1. pay the rents and royalties due under this lease at the prescribed time and in the prescribed manner
 2. use the land in respect of which this lease is granted only for mining purposes in accordance with the Mining Act 1978
 3. comply with the prescribed expenditure conditions applicable to such land unless partial or total exemption therefrom is granted in such manner as is prescribed
@@ -295,7 +295,7 @@ AND it is hereby agreed and declared that unless the Lessee shall at all times d
 7. duly and punctually observe and perform all other provisions of the Mining Act 1978 and of any other Act for the time being in force applicable or relating to the Lessee or this lease or the land the subject of this lease
 8. if any mineral is specified in the Fifth Schedule to this lease, be authorised by this lease to mine on or under or both and remove from the land the subject of this lease only the mineral so specified
 9. duly and punctually perform and observe the further conditions or stipulations if any set out in the Sixth Schedule to this lease as well as any condition which may hereafter be imposed by the Minister pursuant to section 84 of the Mining Act 1978
-10. cause all holes, pits, trenches and other disturbances to the surface of the land and subject of this lease made whilst mining and which in the opinion of the State Mining Engineer are likely to endanger the safety of any person or animal to be filled in or otherwise made safe to the satisfaction of the State Mining Engineer.
+10. cause all holes, pits, trenches and other disturbances to the surface of the land and subject of this lease made whilst mining and which in the opinion of an environmental officer are likely to endanger the safety of any person or animal to be filled in or otherwise made safe to the satisfaction of the environmental officer.
 In this lease: “Lessee” includes the executors administrators and permitted assigns of the Lessee or if the Lessee be more than one of the respective executors administrators and permitted assigns of each Lessee or in the case of a Lessee which is a corporation the successors and permitted assigns of that Lessee.
 If the Lessee be more than one the liability of the Lessee hereunder shall be joint and several.
 Reference to an Act includes all amendments to that Act and to any Act passed in substitution therefor or in lieu thereof and to the regulations and by-laws for the time being in force thereunder.
@@ -321,7 +321,8 @@ IN witness whereof the Minister has affixed his seal
 and set his hand hereto
 this ......................... day of ......................20...............
 MINISTER
-Form 9WESTERN AUSTRALIA Mining Act 1978 (Secs. 45, 61, 70E, 78, 88, 91A, 91B) (Regs. 16A, 23A, 23F, 29, 36A, 42A)
+[Form 8 amended in Gazette 3 Feb 2006 p. 602.]
+Form 9WESTERN AUSTRALIA Mining Act 1978 (Secs. 45, 61, 70E, 78, 88, 91A, 91B) (Regs. 16B, 23A, 23F, 29, 36A, 42A)
  | APPLICATION FOR EXTENSION OF TERM/RENEWAL OF A MINING TENEMENT No.
 (a)Type of Tenement (b)Number (c)Mineral field (d)Expiry date | Details of mining tenement (a)(b) (c) (d)
 (e)Full name and address of holder(s) | Holder (e)
@@ -329,7 +330,8 @@ Form 9WESTERN AUSTRALIA Mining Act 1978 (Secs. 45, 61, 70E, 78, 88, 91A, 91B) (R
 O F F I C E U S E |  | Received at ....................................m. on ........................................................ together with rent of $ for the year ending ....../....../...... ............................................................. (Mining Registrar)
 NOTES: 1. This application is to be accompanied by the lease instrument or licence document, as applicable.
 2. Reporting obligations under the regulations must be complied with to enable consideration of this application.
-3. If this application is for an extension of an exploration licence a detailed report of the exceptional circumstances giving rise to the application, a summary of work already carried out under the licence and a detailed programme of work proposed to be carried out under the licence must be attached.
+3.If this application is for an extension of a prospecting licence or an exploration licence, or a renewal of a retention licence, any information or other material required by regulation 16B(1)(c)(iii), 23A(1)(c)(iii) or 23F(1)(b)(i) (whichever applies) must be attached.
+[Form 9 amended in Gazette 3 Feb 2006 p. 602.]
 Form 10 WESTERN AUSTRALIA
 INSTRUMENT OF LEASE Mining Act 1978
 (Sec. 116 Reg. 35)
@@ -446,10 +448,13 @@ Form 18 | WESTERN AUSTRALIA Mining Act 1978 (s. 102, r. 54) | Office Use
  | APPLICATION FOR EXEMPTION
 (a)Type (b)Number (c)Mineral Field | Details of mining tenement/s (a) (b) (c)
 (d)Full name and address of each holder | Holder (d)
-(e)Amount of expenditure for which exemption is sought (f)Expiry date/s of period to which exemption relates (g)Reasons for application (include relevant paragraph/s of section 102(2) of the Mining Act 1978 if applicable) | Exemption details (for each tenement affected) (e) $ (f) (g)
+(e)Amount of expenditure for which exemption is sought (f)Expiry date/s of period to which exemption relates (g)Reasons for application (include relevant paragraph/s of section 102(2) of the Mining Act 1978 if applicable) (see Note 1) | Exemption details (for each tenement affected) (e) $ (f) (g)
 (h)Signature of holder or authorised agent | APPLICATION is made for exemption for the period specified from the expenditure conditions applicable to the abovementioned mining tenement/s. DATED this day of 20 (h) ....................................................................................
  | OBJECTIONS to this application may be lodged at the office of the mining registrar at ..................................................................................................................... on or before the day of 20 Where an objection to this application is lodged the hearing will take place on a date to be set.
 O F F I C E U S E |  | Received at ........................................................m on .......................................................................... with fee of $........................................................... ............................................................................... (Mining Registrar)
+Note 1:A statutory declaration setting out reasons in support of the application must be lodged at the office of the mining registrar within 28 days after lodgment of the application or within any extension of that period.
+(See regulation 54(3) and (4) of the Mining Regulations 1981.)
+[Form 18 amended in Gazette 3 Feb 2006 p. 603.]
 Form 19 | WESTERN AUSTRALIA Mining Act 1978 (s. 102 and 102A, r. 58)
  | CERTIFICATE OF EXEMPTION No. This is to certify that the holder of —
 (a) | Type of tenement/s Number/s and Mineral Field | (a) has been granted exemption from expenditure under section/s —

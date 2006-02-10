@@ -95,6 +95,7 @@ Mining Amendment Regulations (No. 3) 2004 | 20 Aug 2004 p. 3619-21 | 1 Jul 2005 
 Mining Amendment Regulations (No. 5) 2004 | 28 Jan 2005 p. 360-2 | 1 Jul 2005 (see r. 2)
 Mining Amendment Regulations (No. 3) 2005 | 20 May 2005 p. 2159 | 1 Jul 2005 (see r. 2)
 Mining Amendment Regulations (No. 4) 2005 | 24 Jun 2005 p. 2769-71 | 1 Jul 2005 (see r. 2)
+Mining Amendment Regulations (No. 2) 2006 | 3 Feb 2006 p. 573-605 | 10 Feb 2006 (see r. 2)
 Mining Amendment Regulations 2006 | 7 Feb 2006 p. 622-3 | 7 Feb 2006
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
@@ -113,4 +114,11 @@ The Mining Amendment Regulations (No. 7) 2002 r. 6(2) reads as follows:
 The Mining Amendment Regulations (No. 5) 2004 r. 4(2) reads as follows:
 “
 (2) Despite the amendment effected by subregulation (1), the Table to regulation 86 of the Mining Regulations 1981 as in force immediately before the commencement of these regulations continues to apply for the purpose of determining the rate of royalty payable for ilmenite produced before that commencement.
+”.
+The Mining Amendment Regulations (No. 2) 2006 r. 10(7) and (8) reads as follows:
+“
+(7) Despite the amendments made by this regulation, where, in relation to an existing licence, the commencement day is a day other than the anniversary date of the commencement of the term of the existing licence, regulation 21 of the Mining Regulations 1981 as in force immediately before the commencement day continues to apply for the purpose of determining the expenditure required for the year of the term of the existing licence in which the commencement day falls.
+(8) In subregulation (7) —
+“commencement day” means the day on which these regulations come into operation;
+“existing licence” means an exploration licence in force under the Act on the day on which these regulations come into operation.
 ”.
