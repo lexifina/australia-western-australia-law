@@ -1,6 +1,6 @@
 ## First Schedule
 Modified Penalties
-Item | Navigable Waters Regulation | Description of offence | Modified Penalty $
+Item | Navigable Waters Regulations 1958 | Description of offence | Modified Penalty $
 1 | 6A | Failing to comply with directions ...................... | 200
 1A | 14 | Vessel travelling so as to cause nuisance or damage ............................................................... | 160
 1B | 14A(a) | Navigating vessel so as to endanger safety of vessel or person .................................................. | 200
@@ -31,6 +31,16 @@ Item | Navigable Waters Regulation | Description of offence | Modified Penalty $
 21 | 45E(1)(b) | Failing to notify Department of sale or disposal of registered vessel within 7 days .................. | 60
 22 | 45E(2)(a) | Failing to apply for transfer of registration within 15 days of acquisition of registered vessel ................................................................ | 120
 23 | 45E(3) | Failing to notify Department of loss of registered vessel within 15 days ..................... | 60
+23A | 47AA(3) | Person between 10 and 16 driving an RST vessel unless under supervision (before 1 April 2007) .......................................……….. | 200
+23B | 47AB(3) | Person between 10 and 14 driving an RST vessel unless under supervision (between 1 April 2007 and 1 April 2008) ........…………. | 200
+23C | 47AB(4) | Person between 14 and 16 driving an RST vessel unless — (a)driving at not more than 8 knots and during the day time; or (b)under supervision (between 1 April 2007 and 1 April 2008) | 200
+23D | 47AB(5) | Person between 16 and 25 driving an RST vessel unless holding a recreational skipper’s ticket or under supervision (between 1 April 2007 and 1 April 2008) .......... | 200
+23E | 47A(3) | Person between 10 and 14 driving an RST vessel unless under supervision (on and after 1 April 2008) …............................ | 200
+23F | 47A(4) | Person between 14 and 16 driving an RST vessel unless — (a)holding a recreational skipper’s ticket and driving at not more than 8 knots and during the day time; or (b)under supervision (on and after 1 April 2008) ...................... | 200
+23G | 47A(5) | Person over 16 driving an RST vessel unless holding a recreational skipper’s ticket or under supervision (on and after 1 April 2008) ............. | 200
+23H | 47AA(4) 47AB(6) 47A(6) | Owner allowing RST vessel to be driven in contravention of regulation 47AA, 47AB or 47A ……………………………………………. | 200
+23I | 47H | Failing to produce recreational skipper’s ticket on request ........................................................... | 200
+23J | 47I | Holder of recreational skipper’s ticket failing to notify change of details .................................. | 120
 24 | 48(a)(i) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing in water with a depth of less than 3 metres ...................... | 160
 24A | 48(a)(ii) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing within 45 metres of a river bank or low water mark .... | 160
 24B | 48(b) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing in or through mooring area ......................................... | 160
@@ -42,7 +52,7 @@ Item | Navigable Waters Regulation | Description of offence | Modified Penalty $
 25 | 48A(2) | Driving motor boat towing para-sailor or water skier in area not set aside for purpose ................ | 200
 26 | 49(1) | Towing para-sailor or water skier without observer in towing speed boat .......................... | 160
 27 | 49(2) | Driver of or observer in speed boat towing para-sailor or water skier failing to maintain constant lookout or watch .................................. | 120
-28 | 49A(1)(b) | Owner or person in control of speed boat allowing person under 17 to drive or operate speed boat .......................................................... | 200
+[28deleted]
 29 | 49C | Failing to drive speed boat at least 45 metres behind water skier or other boat ........................ | 120
 30 | 49D | Driver of boat about to take off failing to yield right of way to speed boat landing water skier | 60
 31 | 49E | Trailing ski rope within 30 metres of shore in water ski area ..................................................... | 60
@@ -131,4 +141,4 @@ Item | Navigable Waters Regulation | Description of offence | Modified Penalty $
 98 | 6(1) | Securing vessel to mooring when mooring site is not licensed, vessel is not authorized or vessel is not identifiable ....................... | 100
 99 | 6(2)(a) | Securing vessel to mooring on licensed mooring site when another vessel is secured to the mooring ............................... | 100
 100 | 6(2)(b) | Securing vessel to another vessel secured to a mooring on a licensed mooring site .... | 100
-[Schedule 1 inserted in Gazette 9 Jun 1992 p. 2381-2; amended in Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9.]
+[Schedule 1 inserted in Gazette 9 Jun 1992 p. 2381-2; amended in Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666.]
