@@ -25,7 +25,7 @@ Mining Amendment Act 1990 | 22 of 1990 (as amended by No. 37 of 1993 s. 30(1) an
 Conservation and Land Management Amendment Act 1991 s. 57 | 20 of 1991 | 25 Jun 1991 | 23 Aug 1991 (see s. 2 and Gazette 23 Aug 1991 p. 4353)
 Western Australian Land Authority Act 1992 s. 49 | 35 of 1992 | 23 Jun 1992 | 1 Jul 1992 (see s. 2(2) and Gazette 30 Jun 1992 p. 2869)
 Land (Titles and Traditional Usage) Act 1993 s. 45 | 21 of 1993 | 2 Dec 1993 | 2 Dec 1993 (see s. 2)
-Mining Amendment Act 1993 | 37 of 1993 | 16 Dec 1993 | Pt. 2: 1 Jul 1994 (see s. 2(1) and Gazette 24 Jun 1994 p. 2819); Pt. 3: deemed operative 28 Jun 1991 (see s. 2(2)); balance: 16 Dec 1993
+Mining Amendment Act 1993 | 37 of 1993 | 16 Dec 1993 | Pt. 2: 1 Jul 1994 (see s. 2(1) and Gazette 24 Jun 1994 p. 2819); Pt. 3: 28 Jun 1991 (see s. 2(2)); balance: 16 Dec 1993
 Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
 Mining Amendment Act 1994 | 58 of 1994 (as amended by No. 52 of 1995 Pt. 6; No. 74 of 2003 s. 85) | 2 Nov 1994 | Pt. 2 (except s. 5) and s. 52: 14 Oct 1995 (see s. 2(2) and Gazette 13 Oct 1995 p. 4797 and Printer’s correction to proclamation in Gazette 24 Oct 1995 p. 4917); balance (except s. 5): 2 Nov 1994 (see s. 2(1)); s. 5 repealed by No. 74 of 2003 s. 85
 Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
@@ -34,7 +34,7 @@ Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 
 Sentencing (Consequential Provisions) Act 1995 Pt. 88 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
 Reprint of the Mining Act 1978 as at 27 Feb 1996 (includes amendments listed above except those in the Sentencing (Consequential Provisions) Act 1995) (Correction to reprint in Gazette 19 Apr 1996 p. 1739)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
-Mining Amendment Act 1996 | 54 of 1996 | 11 Nov 1996 | s. 5, 7, 10, 13 and 23: 7 Dec 1996 (see s. 2 and Gazette 6 Dec 1996 p. 6699)
+Mining Amendment Act 1996 | 54 of 1996 (as amended by No. 39 of 2004 Pt. 11) | 11 Nov 1996 | s. 1-2, 5, 7, 10, 13 and 23: 7 Dec 1996 (see s. 2 and Gazette 6 Dec 1996 p. 6699); s. 3, 4, 6, 8, 11, 12 & 14-22: 11 Feb 2006 (see s. 2 and Gazette 3 Feb 2006 p. 515); Proclamation published 14 Jan 2005 p. 164 revoked (see Gazette 24 Mar 2005 p. 1001)
 Acts Amendment (Marine Reserves) Act 1997 Pt. 3 | 5 of 1997 | 10 Jun 1997 | 29 Aug 1997 (see s. 2 and Gazette 29 Aug 1997 p. 4867)
 Acts Amendment (Land Administration) Act 1997 Pt. 44 and s. 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
 Statutes (Repeals and Minor Amendments) Act 1997 s. 89 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
@@ -42,7 +42,7 @@ Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 52 | 10 of 1998 | 30
 Mining Amendment Act 1998 | 35 of 1998 | 6 Jul 1998 | 6 Jul 1998 (see s. 2)
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 Pt. 3 | 61 of 1998 | 11 Jan 1999 | 11 Jan 1999 (see s. 2(1))
 Acts Amendment (Mining and Petroleum) Act 1999 Pt. 2 | 17 of 1999 | 15 Jun 1999 | 24 Jul 1999 (see s. 2 and Gazette 23 Jul 1999 p. 3385)
-Reprint of the Mining Act 1978 as at 26 Jul 1999 (includes amendments listed above except those in the Mining Amendment Act 1994 s. 5 and the Mining Amendment Act 1996 s. 1-4, 6, 8, 9 11, 12 and 14-22)
+Reprint of the Mining Act 1978 as at 26 Jul 1999 (includes amendments listed above except those in the Mining Amendment Act 1994 s. 5 and the Mining Amendment Act 1996 s. 3, 4, 6, 8, 11, 12 and 14-22)
 Acts Amendment (Police Immunity) Act 1999 s. 8 | 42 of 1999 | 25 Nov 1999 | 25 Nov 1999 (see s. 2)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 26 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
 Rights in Water and Irrigation Amendment Act 2000 s. 86 | 49 of 2000 | 28 Nov 2000 | 10 Jan 2001 (see s. 2 and Gazette 10 Jan 2001 p. 163)
@@ -50,7 +50,7 @@ Acts Amendment (Australian Datum) Act 2000 s. 5 | 54 of 2000 | 28 Nov 2000 | 16 
 Mining Amendment Act 2000 | 63 of 2000 | 4 Dec 2000 | 3 Feb 2001 (see s. 2 and Gazette 2 Feb 2001 p. 697)
 Corporations (Consequential Amendments) Act 2001 Pt. 39 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Mining Amendment Act 2002 | 15 of 2002 | 8 Jul 2002 | s. 23: 15 Jul 2001 (see s. 2(3) and Cwlth. Gazette 13 Jul 2001 No. S285); balance (other than s. 12 and 23): 18 Jan 2003 (see s. 2(1) and (2) and Gazette 17 Jan 2003 p. 105); s. 12: 10 Feb 2006 (see s. 2(2) and Gazette 3 Feb 2006 p. 516) Proclamation published 14 Jan 2005 p. 164 revoked (see Gazette 24 Mar 2005 p. 1001)
-Reprint of the Mining Act 1978 as at 7 Sep 2001 (includes amendments listed above except those in the Mining Amendment Act 2002)
+Reprint of the Mining Act 1978 as at 7 Sep 2001 (includes amendments listed above except those in the Mining Amendment Act 1996 s. 3, 4, 6, 8, 11, 12 and 14-22 and the Mining Amendment Act 2002)
 Acts Amendment (Equality of Status) Act 2003 Pt. 46 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 52 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Mining Amendment Act 2004 26-37 | 39 of 2004 | 3 Nov 2004 | Act other than Pt. 9 (s. 47-86): 10 Feb 2006 (see s. 2 and Gazette 3 Feb 2006 p. 516) Proclamation published 14 Jan 2005 p. 164 revoked (see Gazette 24 Mar 2005 p. 1002)
@@ -59,12 +59,12 @@ Courts Legislation Amendment and Repeal Act 2004 Pt. 15 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 570 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 61 | 24 of 2005 | 2 Dec 2005 | s. 61: 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 61 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Mining Amendment Act 2005 | 27 of 2005 | 12 Dec 2005 | 10 Feb 2006 (see s. 2 and Gazette 3 Feb 2006 p. 516)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and are not included in this compilation. For the text of the provisions see the endnote referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Mining Amendment Act 1996 s. 4, 6, 8, 9, 11, 12 and 14-22 | 54 of 1996 (as amended by No. 39 of 2004 Pt. 11) | 11 Nov 1996 | Proclamation published 14 Jan 2005 p. 164 revoked (see Gazette 24 Mar 2005 p. 1001); s. 4, 6, 8, 9, 11, 12 & 14-22:
+Mining Amendment Act 1996 s. 9 | 54 of 1996 | 11 Nov 1996 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999, s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
 Mining Amendment Act 2004 Pt. 9 | 39 of 2004 | 3 Nov 2004 | To be proclaimed (see s. 2)
@@ -154,225 +154,13 @@ The Mining Amendment Act 1994 s. 53 reads as follows:
 (1) Despite sections 2(2) and 30(3)(b) of the Mining Amendment Act 1993, section 65(1c)(b) and (c) of the Mining Act 1978 as inserted by section 19(c) of the Mining Amendment Act 1990 do not have any effect, and are deemed to have never had any effect, in relation to the surrender of an existing licence under section 65 of the Mining Act 1978 where that surrender took place before 1 July 1994.
 (2) In subsection (1) “existing licence” means an exploration licence referred to in section 40(1)(a)(i) or (iii) of the Mining Amendment Act 1990.
 ”.
-On the date as at which this compilation was prepared, the Mining Amendment Act 1996 s. 4, 6, 8, 9, 11, 12 and 14-22 (as amended by the Mining Amendment Act 2004 Pt. 11) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Mining Amendment Act 1996 s. 9 had not come into operation. It reads as follows:
 “
-4.Section 8 amended
-Section 8(1) of the principal Act is amended by inserting in the appropriate alphabetical positions the following definitions —
-“
-“dealing” means a transfer or mortgage of a legal interest in a mining tenement;
-“register” means the register kept under section 103F;
-“registration” means registration under section 103C;
-”.
-6.Section 26A amended
-Section 26A(2) of the principal Act is amended by deleting “kept in accordance with the regulations”.
-8.Section 64 amended
-(1) Section 64(1) of the principal Act is amended —
-(a) by deleting “an exploration licence” in the second place where it occurs and substituting the following —
-“ the exploration licence ”; and
-(b) in paragraphs (a) and (b) by inserting after “dealing” in each case the following —
-“ or other transaction in or affecting the interest ”.
-(2) Section 64(2) of the principal Act is amended by inserting after “dealing” in both places where it occurs the following —
-“ or other transaction ”.
 9.Section 65 amended
 Section 65(1c) of the principal Act is amended —
 (a) by deleting paragraph (a); and
 (b) in paragraph (b) by deleting “at the principal office of the Department at Perth” and substituting the following —
 “ for registration ”.
-11.Section 70H amended
-Section 70H(1)(e) of the principal Act is amended by deleting “assign, underlet or part with possession of” and substituting the following —
-“ transfer or mortgage a legal interest in ”.
-12.Section 82 amended
-Section 82(1)(d) of the principal Act is amended by deleting “assign, underlet or part with possession of ” and substituting the following —
-“ transfer or mortgage a legal interest in ”.
-14.Section 95 amended
-Section 95(1) of the principal Act is repealed and the following subsection is substituted —
-“
-(1) Subject to this Act, the holder of a mining tenement may surrender the tenement in whole or in part by lodging a surrender for registration.
-”.
-15.Division 8 of Part IV repealed and Part IVA inserted
-Division 8 of Part IV of the principal Act is repealed and the following Part is inserted —
-“
-Part IVA — Registration of instruments and register
-103A.Definition
-In this Part —
-“authorised officer” means an officer of the Department authorised under section 103B.
-103B.Authorised officers
-(1) The Minister may in writing authorise officers of the Department for the purposes of this Part and section 122B.
-(2) An authorisation under subsection (1) may be given to a specified officer or to officers of a specified class, or may be given to the holder or holders for the time being of a specified office or class of office.
-103C.Registration
-(1) This section applies to the following instruments —
-(a) a dealing;
-(b) a discharge of a mortgage of a legal interest in a mining tenement;
-(c) a withdrawal of an application for a mining tenement; and
-(d) a surrender under section 26A, 65 or 95.
-(2) An instrument to which this section applies is to be —
-(a) lodged for registration in the prescribed manner and prescribed form; and
-(b) accompanied by the fee (if any) prescribed in respect of the instrument.
-(3) Only an instrument to which this section applies may be registered.
-(4) The registration of an instrument is to be effected by an authorised officer.
-(5) Subject to section 122D(1), an authorised officer is, unless section 103D applies or the regulations otherwise provide, to enter in the register the time and date of the lodgement of an instrument as the time and date of registration.
-(6) Neither the Minister nor an authorised officer is concerned with the effect any instrument lodged under this section may have at law other than for the purposes of this Act.
-(7) The acceptance of an instrument for registration does not give to it any priority (other than in so far as registration may be taken to be constructive notice), force, effect or validity that it would not have had if this section had not been enacted.
-(8) A dealing does not pass any legal estate or interest in a mining tenement or in any way charge or encumber a mining tenement until it is registered in accordance with this section.
-[Section 103C amended by No. 39 of 2004 s. 103(a).]
-103D.Provisional lodgement
-(1) If an authorised officer is of the opinion that an instrument lodged for registration contains an error or defect, the authorised officer is —
-(a) if satisfied that the error or defect can be corrected, to accept the instrument for provisional lodgement; or
-(b) in any other case, to reject the instrument and endorse the register accordingly.
-(2) The regulations may provide for the effect to be given to an instrument accepted for provisional lodgement.
-103E.Priority of dealings
-Dealings affecting the same mining tenement take priority according to the date and time of their registration.
-[Section 103E inserted by No. 39 of 2004 s. 103(b).]
-103F.Register
-(1) The Director General of Mines is to cause a register to be compiled and maintained.
-(2) The register is to contain such particulars, relating to mining tenements and applications for mining tenements, as are prescribed.
-(3) The register may be compiled and maintained in such form as the Director General of Mines determines.
-(4) A person may, on payment of the prescribed fee, obtain at the Department at Perth or at the office of the mining registrar —
-(a) a copy of an entry in the register relating to any mining tenement or application for a mining tenement; and
-(b) subject to such requirements, if any, as are prescribed, a copy of a dealing or other instrument recorded in the register.
-103G.Amendment of register
-(1) A person may apply in the prescribed manner and prescribed form for the amendment of particulars in the register relating to a mining tenement, or an application for a mining tenement, in which that person has an interest.
-(2) If, on an application under subsection (1), an authorised officer is satisfied that there is reasonable cause for the amendment, the authorised officer may amend the particulars accordingly.
-(3) An authorised officer may amend, add to and correct the register in such manner as is necessary to make the register an accurate record of the particulars it contains.
-103H.Regulations relating to register
-The regulations may —
-(a) prescribe the form a copy is to take for the purposes of section 103F(4)(a) or (b); and
-(b) make provision for any other matter relating to the register.
-”.
-[Section 15 amended by No. 39 of 2004 s. 103.]
-16.Section 116 amended
-Section 116 of the principal Act is amended —
-(a) in subsection (2) by deleting “applicant, or”; and
-(b) by inserting after subsection (2) the following subsection —
-“
-(3) In subsection (2) —
-“registered”, in relation to a holder or previous holder of a mining tenement, means that the name of the holder or previous holder is or was entered in the register as the holder of the mining tenement.
-”.
-17.Section 119A repealed and a section substituted
-Section 119A of the principal Act is repealed and the following section is substituted —
-“
-119A.Mining tenement may be mortgaged
-(1) A mining tenement or share in a mining tenement may be mortgaged as security for the repayment of money advanced or agreed to be advanced or for the discharge of any liability.
-(2) If there are 2 or more mortgages affecting the same legal interest in a mining tenement, the mortgages take priority according to the time and date of their registration.
-(3) A mortgage —
-(a) has effect only as security for the repayment of the money intended to be secured by the mortgage and not as an assignment of the mining tenement; and
-(b) may cover all buildings, improvements, machinery and appliances in or upon the land comprised in the mining tenement.
-(4) The regulations may provide that a mortgage is deemed to contain prescribed provisions unless the mortgage contains express provision to the contrary.
-”.
-18.Part VI repealed and a Part substituted
-Part VI of the principal Act is repealed and the following Part is substituted —
-“
-Part VI — Caveats
-121.Definitions
-In this Part, unless the contrary intention appears —
-“absolute caveat” means a caveat referred to in section 122A(1)(a);
-“caveat” means an absolute caveat, a consent caveat or a subject to claim caveat;
-“consent caveat” means a caveat referred to in section 122A(2);
-“subject to claim caveat” means a caveat referred to in section 122A(1)(b).
-122.Certain surrenders not affected by this Part
-(1) A reference in this Part (other than this section) to a surrender does not include a surrender under section 26A or 65.
-(2) Where —
-(a) a surrender under section 26A or 65 is registered under section 103C; and
-(b) the surrender affects a mining tenement or an interest in a mining tenement that is the subject of a caveat,
-notification of the registration of the surrender is to be sent by or on behalf of the Minister in the prescribed manner to the person who lodged that caveat.
-122A.Lodgement of caveats
-(1) A person claiming an interest in a mining tenement may lodge at the Department at Perth or at the office of the mining registrar —
-(a) a caveat against the mining tenement forbidding the registration of a dealing or surrender affecting the mining tenement or interest; or
-(b) a caveat against the mining tenement forbidding the registration of —
-(i) a dealing affecting the mining tenement or interest unless the dealing expressly states that it is to be subject to the interest claimed by the caveator; or
-(ii) a surrender affecting the mining tenement or interest.
-(2) If —
-(a) the holder of a mining tenement has entered into an agreement with another person relating to —
-(i) the sale of the holder’s interest in the mining tenement; or
-(ii) any other matter connected with the holder’s interest in the mining tenement;
-and
-(b) the agreement so provides,
-either party to the agreement may lodge at the Department at Perth or at the office of the mining registrar a caveat against the mining tenement forbidding the registration of a dealing or surrender affecting the mining tenement or interest together with a copy of the agreement.
-(3) A caveat lodged under this section is to —
-(a) be in the prescribed form;
-(b) be accompanied by the prescribed fee;
-(c) state the full name and address of the caveator;
-(d) be signed by the caveator or an agent of the caveator; and
-(e) give an address within the State for the service of notices and proceedings in relation to the caveat.
-(4) If a caveat is lodged under this section —
-(a) a memorial or copy of the caveat is to be entered in the register; and
-(b) except in the case of a consent caveat lodged by the holder of a mining tenement, a notice stating that the caveat has been lodged is to be sent by certified mail to the holder of the mining tenement affected by the caveat.
-(5) Subject to section 122B, a caveat lodged under this section has effect from the time of lodgement.
-(6) Successive caveats shall not be lodged by, or on behalf of, the same person in respect of the same subject matter except with the consent of a warden.
-[Section 122A amended by No. 39 of 2004 s. 104(a) and (b).]
-122B.Provisional lodgement
-(1) If an authorised officer (as defined in section 103A) is of the opinion that a caveat lodged under section 122A contains an error or defect, the officer is —
-(a) if satisfied that the error or defect can be corrected, to accept the caveat for provisional lodgement; or
-(b) in any other case, to reject the caveat and endorse the register accordingly.
-(2) The regulations may provide for the effect to be given to a caveat accepted for provisional lodgement.
-122C.Caveats deemed to be lodged against later tenements
-(1) If a caveat has been lodged against —
-(a) a mining tenement and the holder of that tenement is granted a mining lease or general purpose lease (“the later tenement”) under section 49, 67 or 70L in respect of the land or a part of the land the subject of the tenement;
-(b) a mining tenement and the holder of that tenement is granted a retention licence (“the later tenement”) under section 70B in respect of the land or a part of the land the subject of the tenement; or
-(c) a special prospecting licence granted under section 56A, 70 or 85B and the holder of that licence is granted a mining lease for gold (“the later tenement”) under section 56A(8), 70(8) or 85B(7) in respect of the land or a part of the land the subject of the licence,
-the caveat is to be taken to have been also lodged against the later tenement and a memorial to that effect is to be entered in the register.
-(2) A caveat to which subsection (1) applies has effect, in relation to a later tenement, from the day on which the later tenement is granted.
-122D.Effect of caveat
-(1) A dealing or surrender affecting the subject matter of a caveat shall not be registered under section 103C while the caveat remains in force, except with the consent of a warden.
-(2) Subsection (1) does not apply to a dealing if —
-(a) the caveat concerned is a subject to claim caveat; and
-(b) the dealing is expressed to be subject to the interest claimed by the caveator.
-[Section 122D amended by No. 39 of 2004 s. 104(c).]
-122E.Duration of caveat
-(1) An absolute caveat or a subject to claim caveat ceases to have effect upon —
-(a) the direction of a warden for the removal of the caveat;
-(b) the withdrawal of the caveat by the caveator or an agent of the caveator; or
-(c) the expiry of a period of 14 days after notification that —
-(i) in the case of an absolute caveat, application has been made for the registration of a dealing or surrender affecting the subject matter of the caveat; or
-(ii) in the case of a subject to claim caveat, application has been made for the registration of a dealing or surrender affecting the subject matter of the caveat that is not expressed to be subject to the interest claimed by the caveator,
-has been sent by or on behalf of the Minister by certified mail to the caveator at the address for service given in the caveat, unless within that period a warden otherwise directs.
-(2) A consent caveat ceases to have effect upon —
-(a) the direction of a warden for the removal of the caveat;
-(b) the withdrawal of the caveat by consent of the parties to the agreement; or
-(c) the expiry of the period of time, if any, specified in the agreement.
-(3) If a caveat ceases to have effect under this section a memorial to that effect is to be entered in the register.
-(4) In subsection (2) —
-“agreement” means the agreement referred to in section 122A(2).
-[Section 122E amended by No. 39 of 2004 s. 104(d)-(f).]
-”.
-[Section 18 amended by No. 39 of 2004 s. 104.]
-19.Section 143 amended
-Section 143 of the principal Act is amended —
-(a) by deleting “the warden” and substituting the following —
-“ the party to whom the injunction is granted ”;
-and
-(b) by deleting “kept in accordance with the regulations”.
-20.Section 145 amended
-Section 145 of the principal Act is amended by deleting “in accordance with the regulations” and substituting the following —
-“ under this Act ”.
-21.Section 161 amended
-Section 161(3) of the principal Act is repealed and the following subsection is substituted —
-“
-(3) In any proceedings a document purporting to be certified by a person authorised for that purpose by the Director General of Mines as a correct copy of an extract from a register kept under this Act is, without proof of that person’s signature, evidence of the matter contained in the document.
-”.
-22.Section 162 amended
-Section 162(2) of the principal Act is amended —
-(a) in paragraph (l) —
-(i) by deleting “the registration of mining tenements and documents affecting them, the keeping by prescribed persons of a register of mining tenements and”; and
-(ii) by inserting after “kept by” the following —
-“ a warden, ”;
-(b) by inserting after paragraph (q) the following paragraph —
-“
-(qa) prescribe the mode of dealing with a mining tenement upon the death of the holder of the mining tenement or in other prescribed circumstances and provide for any related matter;
-”;
-(c) in paragraph (u) —
-(i) by deleting “regulating” and substituting the following —
-“ regulate ”; and
-(ii) by deleting “imposing” and substituting the following —
-“ impose ”;
-(d) in paragraph (v) by deleting “providing” in both places where it occurs and substituting in each place the following —
-“ provide ”;
-(e) in paragraph (w) by deleting “providing” and substituting the following —
-“ provide ”;
-(f) in paragraph (x) by deleting “authorising and regulating” and substituting the following —
-“ authorise and regulate ”; and
-(g) in paragraph (y) by deleting “prescribing and regulating” and substituting the following —
-“ prescribe and regulate ”.
 ”.
 The Mining Amendment Act 1998 s. 4(3) reads as follows:
 “
