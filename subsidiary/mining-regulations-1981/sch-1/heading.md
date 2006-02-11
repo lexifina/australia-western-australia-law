@@ -289,7 +289,7 @@ AND it is hereby agreed and declared that unless the Lessee shall at all times d
 1. pay the rents and royalties due under this lease at the prescribed time and in the prescribed manner
 2. use the land in respect of which this lease is granted only for mining purposes in accordance with the Mining Act 1978
 3. comply with the prescribed expenditure conditions applicable to such land unless partial or total exemption therefrom is granted in such manner as is prescribed
-4. not assign, underlet or part with possession of such land or any part thereof without the prior written consent of the Minister, or of an officer of the Department acting with the authority of the Minister
+4. not transfer or mortgage a legal interest in such land or any part thereof without the prior written consent of the Minister, or of an officer of the Department acting with the authority of the Minister
 5. lodge with the Department at Perth such periodical reports and returns as may be prescribed
 6. promptly report in writing to the Minister details of all minerals of economic significance discovered in, on or under the land the subject of this lease
 7. duly and punctually observe and perform all other provisions of the Mining Act 1978 and of any other Act for the time being in force applicable or relating to the Lessee or this lease or the land the subject of this lease
@@ -321,7 +321,7 @@ IN witness whereof the Minister has affixed his seal
 and set his hand hereto
 this ......................... day of ......................20...............
 MINISTER
-[Form 8 amended in Gazette 3 Feb 2006 p. 602.]
+[Form 8 amended in Gazette 3 Feb 2006 p. 524 and 602.]
 Form 9WESTERN AUSTRALIA Mining Act 1978 (Secs. 45, 61, 70E, 78, 88, 91A, 91B) (Regs. 16B, 23A, 23F, 29, 36A, 42A)
  | APPLICATION FOR EXTENSION OF TERM/RENEWAL OF A MINING TENEMENT No.
 (a)Type of Tenement (b)Number (c)Mineral field (d)Expiry date | Details of mining tenement (a)(b) (c) (d)
@@ -340,7 +340,7 @@ The Minister a corporation sole established by the Mining Act 1978 in considerat
 AND it is hereby agreed and declared that unless the Lessee shall at all times duly and punctually perform and observe the covenants and conditions hereinafter contained or implied herein this lease shall be liable to forfeiture and may be forfeited by the Minister pursuant to the powers in that behalf conferred by the Mining Act 1978. The covenants and conditions hereinbefore referred to are that the Lessee shall —
 1. pay the rents due under this lease at the prescribed time and in the prescribed manner
 2. use the land in respect of which this lease is granted solely for the purpose set out in the Second Schedule to this lease
-3. not assign, underlet or part with possession of such land or any part thereof without the prior written consent of the Minister, or of an officer of the Department acting with the authority of the Minister
+3. not transfer or mortgage a legal interest in such land or any part thereof without the prior written consent of the Minister, or of an officer of the Department acting with the authority of the Minister
 4. lodge with the Department at Perth such periodical reports as are approved by the Director General of Mines as being required in respect of a general purpose lease
 5. promptly report in writing to the Minister details of all minerals of economic significance discovered in, on or under the land the subject of this lease
 6. duly and punctually observe and perform all other provisions of the Mining Act 1978 and of any other Act for the time being in force applicable or relating to the Lessee or this lease or the land the subject of this lease
@@ -371,6 +371,7 @@ In addition to any specific conditions that are endorsed on this instrument, the
 IN witness whereof the Minister has affixed his seal and set his
 hand hereto this .............................. day of ................................20...............
 MINISTER
+[Form 10 amended in Gazette 3 Feb 2006 p. 524.]
 Form 11 Instrument of Licence | WESTERN AUSTRALIA Mining Act 1978 (Sec. 116 Reg. 42) MISCELLANEOUS LICENCE No.
 (a)Name and address of holder and number of shares (b)Purpose of Licence (c)Locality (d)Mineral Field (e)Area (f)Date Licence granted (g)Shire (h)Plan | (a) is/are subject to the provisions of the Mining Act 1978 and to the conditions stated in the Schedule hereunder, authorised in accordance with section 94 of the Act to: (b) situated at (c)in the (d)Mineral Field and containing approximately (e)hectares for a term of 5 years commencing on the date of grant of the licence (f) (g) (h)
 ................................................
@@ -433,9 +434,12 @@ Form 16 | WESTERN AUSTRALIA Mining Act 1978 (Secs. 42, 59, 70D, 75, 97A Regs. 49
 (c)Set out grounds for objection | (c) And pending the hearing of this objection, require you to
 (d)“Withhold your recommendation” OR as the case may be | (d)
 (e)Full name and address of objector | (e)
-(f)Signature of objector or agent | DATED this day of 20 (f) .........................................................................................
+(f)Insert date on which copy of application for mining tenement received (See Note 1) | (f)
+(g)Signature of objector or agent | DATED this day of 20 (g) .........................................................................................
  | This objection will be heard in the Warden’s Court at at the hour of .m. on the day of 20
 O F F I C E U S E |  | Received at ............................ m. on ................................................ ..................................................... (Mining Registrar)
+Note 1:To be completed if the objection is in respect of an application for a mining tenement that relates to private land.
+[Form 16 amended in Gazette 3 Feb 2006 p. 524.]
 Form 17 | WESTERN AUSTRALIA Mining Act 1978 (s. 97A, Regs. 51, 51A)
  | APPLICATION FOR RESTORATION No.
 (a)Type (b)Number (c)Mineral Field | Details of Mining Tenement (a)(b) (c)
@@ -583,48 +587,60 @@ INTEREST BEING TRANSFERRED (a)Type of tenement (b)Number (c)Mineral Field (d)Num
 TRANSFEROR (e)Full name and address | (e)
 CONSIDERATION (f)In words — see Note 1 | (f)
 TRANSFEREE (g)Full name and address | (g)
-(h)Mortgage number and Mortgagee or “NIL” (See note 2) | (h)
- | THE TRANSFEROR for the consideration expressed HEREBY TRANSFERS TO THE TRANSFEREE the interest specified in the abovementioned mining tenement, and the TRANSFEREE accepts the said interest subject to any mortgage shown hereon and to all the terms and conditions under which it is now held. DATED this day of 20 .
+(h)Mortgage number and Mortgagee or “NIL” (See Note 2) | (h)
+ | THE TRANSFEROR for the consideration expressed HEREBY TRANSFERS TO THE TRANSFEREE the interest specified in the abovementioned mining tenement, and the TRANSFEREE accepts the said interest subject to any mortgage shown hereon and to all the terms and conditions under which it is now held.
+*See Note 3 | *
+ | DATED this day of 20 .
 (i)Signature of transferor (j)Signature of transferee (k)Signature of witness | TRANSFERORS sign here Signed (i) in the presence of (k) Signed (i) in the presence of (k) Signed (i) in the presence of (k) | TRANSFEREES sign here Signed (j) in the presence of (k) Signed (j) in the presence of (k) Signed (j) in the presence of (k)
 LODGING PARTY (l)Full name and address (for return of documents) | (l)
-O F F I C E U S E |  | Received at ...............................m. on .................................................. with fee of $.................................. ....................................................... (Mining Registrar)
+O F F I C E U S E |  | Received at ................... a.m./p.m. on .................................................. with fee of $ ................................. ....................................................... (Mining Registrar)
 Notes: 1. Where the stamp duty shown on the transfer is not in respect of the full amount of the consideration stated then the documents indicating the full stamp duty must accompany the transfer.
-2. If a mortgage is registered with the Department of Mines and will continue after the transfer, insert the required details.
+2. If a mortgage is registered with the Department of Industry and Resources and will continue after the transfer, insert the required details.
 If no mortgage, or a mortgage is to be discharged prior to or on the transfer, insert “nil”.
-The consent of the mortgagee to the transfer must be lodged with this Form.
-Form 24 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 121 Reg. 76)
+The consent of the mortgagee to the transfer must be lodged with this form.
+3.If section 122A(1)(b) of the Act applies, insert “THE TRANSFEROR and THE TRANSFEREE acknowledge that this transfer is subject to the interest claimed by the caveator in caveat no.” and the relevant caveat number.
+[Form 23 inserted in Gazette 3 Feb 2006 p. 524-5.]
+Form 24 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 122A Reg. 76)
  | CAVEATNo.
 (a)Type (b)Number (c)Mineral Field | Details of Mining Tenement (a)(b) (c)
 (d)Specify “the whole” or the number of shares being caveated (e)Full name of holder of shares being caveated | Interest being caveated (d) (e)
 (f)Full name and address of caveator | Caveator (f)
-(g)Specify the grounds on which the claim is made See Note 1 (h)Address within the State for service of notices | THE CAVEATOR claims an interest as specified in the abovementioned mining tenement BY VIRTUE OF (g) and whilst this caveat remains in force FORBIDS the registration of any transfer or other instrument affecting such tenement or interest and appoints (h) as the place at which notices and proceedings relating to this caveat may be served DATED this day of 20
-(i)Signature of caveator (j)Signature of witness | Caveator or agent signs hereWitness signs here Signed (i) in the presence of (j)
-LODGING PARTY (k)Full name and address (for return of documents) | (k)
-O F F I C E U S E |  | Received at .................................m. on .................................................... with fee of $..................................... ......................................................... (Mining Registrar)
-Note 1:If the caveat is lodged pursuant to section 122(2) of the Act the term of the caveat must be stated and a copy of the agreement attached.
-Form 24A | WESTERN AUSTRALIA Mining Act 1978 (Sec. 122 Reg. 76A)
+(g)Specify the grounds on which the claim is made. (See Note 1) *See Note 2 (h)Address within the State for service of notices | THE CAVEATOR claims an interest as specified in the abovementioned mining tenement BY VIRTUE OF (g) and whilst this caveat remains in force FORBIDS the registration of any transfer or other instrument affecting such tenement or interest* and appoints (h) as the place at which notices and proceedings relating to this caveat may be served DATED this day of 20
+(i)Signature of caveator (j)Signature of witness | Caveator or agent signs here Signed (i) …………………………………………………….. as agent (delete if not applicable) Witness signs here in the presence of (j) …………………………………………..
+(k)Full name and address (for return of documents) | (k)
+O F F I C E U S E |  | Received at ..................... a.m./p.m. on .................................................... with fee of $..................................... ......................................................... (Mining Registrar)
+Notes:1.If the caveat is lodged pursuant to section 122A(2) of the Act the term of the caveat (if any) must be stated and a copy of the agreement attached.
+2.If the caveat is lodged pursuant to section 122A(1)(b) of the Act, insert “unless the instrument is expressed to be subject to the interest claimed in this caveat”.
+[Form 24 inserted in Gazette 3 Feb 2006 p. 525-6.]
+Form 24A | WESTERN AUSTRALIA Mining Act 1978 (Sec. 122E Reg. 76A)
  | WITHDRAWAL OF CAVEATNo.(s)
 (a)Full name & Address of Caveator | Caveator (a)
 (b)Specify caveat(s) to be withdrawn and mining tenement(s) affected | Caveat Number(s) and mining tenement(s) affected (b)
  | THE CAVEATOR HEREBY WITHDRAWS the abovementioned caveat(s) against the interest in the mining tenement(s) described above DATED this day of 20
-(c)Signature of caveator (d)Signature of witness | Caveator or agent signs hereWitness signs here Signed (c) in the presence of (d)
+(c)Signature of caveator (d)Signature of witness | Caveator or agent signs here Signed (c) …………………………………………… as agent (delete if not applicable) Witness signs here in the presence of (d) …………………………………
 (e)LODGING PARTY Full name and address (for return of documents) | (e)
-O F F I C E U S E |  | Received at ............................m. on ............................................... with fee of $................................ .................................................... (Mining Registrar)
-Form 25 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 77) |  | STAMP DUTY
- | MORTGAGENo.
-DETAILS OF TENEMENTS BEING MORTGAGED. State Type, Number and Mineral field
-INTEREST BEING MORTGAGED. State whether the whole of the shares in the above tenement or some lesser interest
-ENCUMBRANCES. Insert details of any encumbrances registered against the mining tenement. If none insert ‘NIL’
-MORTGAGOR. Full name and address
-MORTGAGEE. Full name and address
-Principal Sum secured (in words) How and when Principal Sum is to be repaid Rate of interest to be paid How interest is payable
- | In consideration of the above principal sum owing by the Mortgagor to the Mortgagee, THE MORTGAGOR — FIRSTLY, for the purpose of securing the payment in the manner aforesaid of the principal sum and interest MORTGAGES to the MORTGAGEE the interest herein specified in the abovementioned mining tenements subject however to the encumbrances as shown hereon. SECONDLY, covenants with the Mortgagee as follows: 1.That the Mortgagor will pay to the Mortgagee the said principal sum in the manner, and at the times above set forth.
- | 2.That the Mortgagor will in the meantime pay interest on the said principal sum at the rate, in the manner, and at the times above set forth.
-*Here set forth any further covenants | 3.*
+O F F I C E U S E |  | Received at ............... a.m./p.m. on .............................................. with fee of $............................... ................................................... (Mining Registrar)
+[Form 24A inserted in Gazette 3 Feb 2006 p. 526-7.]
+ | Form 25 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 77) |  | STAMP DUTY
+ |  | MORTGAGENo.
+ | DETAILS OF TENEMENTS BEING MORTGAGED. State Type, Number and Mineral field
+ | INTEREST BEING MORTGAGED. State whether the whole of the shares in the above tenement or some lesser interest
+ | ENCUMBRANCES. Insert details of any encumbrances registered against the mining tenement. If none insert ‘NIL’
+ | MORTGAGOR. Full name and address
+ | MORTGAGEE. Full name and address
+ | Principal Sum secured (in words) How and when Principal Sum is to be repaid Rate of interest to be paid How interest is payable
+ |  | In consideration of the above principal sum owing by the Mortgagor to the Mortgagee, THE MORTGAGOR — FIRSTLY, for the purpose of securing the payment in the manner aforesaid of the principal sum and interest MORTGAGES to the MORTGAGEE the interest herein specified in the abovementioned mining tenements subject however to the encumbrances as shown hereon. SECONDLY, covenants with the Mortgagee as follows: 1.That the Mortgagor will pay to the Mortgagee the said principal sum in the manner, and at the times above set forth.
+ |  | 2.That the Mortgagor will in the meantime pay interest on the said principal sum at the rate, in the manner, and at the times above set forth.
+ | *Here set forth any further covenants | 3.*
+**See Note 1 | **
  | DATED this day of 20
-(a)Signature of Mortgagor/s (b)Signature of witness | MORTGAGOR/S sign here Signed (a) in the presence of (b) Signed (a) in the presence of (b)
+(a)Signature of Mortgagor(s) (b)Signature of witness | MORTGAGOR(S) sign here Signed (a) …………………………………………………………….. in the presence of (b) …………………………………………………. Signed (a) ……………………………………………………………… in the presence of (b) …………………………………………………...
+***See Note 2 | ***
 LODGING PARTY (c)Full name and address (for return of documents) | (c)
-O F F I C E U S E |  | Received at ....................................m. on ....................................................... with fee of $........................................ ............................................................ (Mining Registrar)
+O F F I C E U S E |  | Received at ....................... .a.m./p.m. on ....................................................... with fee of $ ....................................... ............................................................ (Mining Registrar)
+Notes:1.If section 122A(1)(b) of the Act applies, insert “THE MORTGAGOR AND THE MORTGAGEE acknowledge that this mortgage is subject to the interest claimed by the caveator in caveat no.” and the relevant caveat number.
+2.If the words set out in Note 1 are inserted in the mortgage the mortgage must also be signed by the mortgagee(s) and that signature or those signatures duly witnessed.
+[Form 25 amended in Gazette 3 Feb 2006 p. 527.]
 Form 26 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 83)
  | DISCHARGE OF MORTGAGENo.
 (a)Full name and address of mortgagee | (a)
@@ -681,11 +697,12 @@ Form 28 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 102)
  | DEVOLUTIONNo.
 (a)Type (b)Number (c)Mineral Field (d)Number of shares | Details of Mining Tenement application (or application therefor) and interest (a)(b) (c)(d)
 (e)Document from which title derived | (e)
-(f)Full name and address of applicant | (f)
+(f)Full name and address of executor or administrator | (f)
 *Copy of document to be attached | hereby applies to be registered as the holder of the above mentioned interest and *attached hereto is a copy of the document referred to in (e) above DATED this day of 20
-(g)Signature of applicant | (g) ...............................................................................................................
+(g)Signature of executor or administrator | (g) ...............................................................................................................
 LODGING PARTY (h)Full name and address (for return of documents) | (h)
 O F F I C E U S E |  | Received at ........................................m. on ........................................................... with fee of $............................................ ................................................................ (Mining Registrar)
+[Form 28 amended in Gazette 3 Feb 2006 p. 528.]
 Form 29 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 105)
  | APPLICATION FOR COPY DOCUMENTNo.
 (a)Full name (b)Address | I, (a) of (b) declare pursuant to section 106 of the Evidence Act 1906 that the document specified cannot be produced for the reasons indicated, and I request that a copy document be issued in lieu
@@ -695,7 +712,7 @@ Form 29 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 105)
 (f)Signature of witness See Note 1. | (f)
 O F F I C E U S E |  | Received at .....................................m. on ........................................................ with fee of $......................................... ............................................................. (Mining Registrar)
 NOTE 1:This declaration may be made before a Commissioner of Declarations, Justice of the Peace, Mining Registrar or other authorised person.
-Form 30 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 107)
+Form 30 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 84E)
  | APPLICATION TO AMENDNo.
 (a)Type (b)Number (c)Mineral Field | Details of Mining Tenement application therefor (a)(b) (c)
 (d)Full name and address | Holder/Applicant (d)
@@ -706,6 +723,7 @@ Form 30 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 107)
 (f)Amended particulars | (f)
 (g)Signature of holder/applicant | DATED this day of 20 (g) ..................................................................................................
 O F F I C E U S E |  | Received at ..............................m. on ................................................. ...................................................... (Mining Registrar)
+[Form 30 amended in Gazette 3 Feb 2006 p. 528.]
 Form 31 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 108)
  | POWER OF ATTORNEYNo.
 (a)Full name and address of donor | I, (a)
@@ -840,4 +858,4 @@ TENEMENT TYPE | TENEMENT NUMBER | HOLDER/APPLICANT | DATE OF MARKING | FIELD BOO
 ............................................................. APPROVED SURVEYOR.
 NOTE: Any additional information relating to the conduct of this survey should be presented in a written report.
 ............./............/20..........
-[First Schedule amended in Gazette 12 Nov 1982 p. 4491 (erratum in Gazette 19 Nov 1982 p. 4578); 30 May 1986 p. 1841; 20 Jun 1986 p. 2084; 2 Oct 1987 p. 3821-36 (erratum in Gazette 6 Nov 1987 p. 4110); 20 May 1988 p. 1707; 31 May 1991 p. 2700-7; 5 Jul 1991 p. 3359; 31 Jul 1992 p. 3777-80; 24 Dec 1993 p. 6829-30; 24 Jun 1994 p. 2939-42; 13 Oct 1995 p. 4823; 4 Apr 1997 p. 1780-1; 3 Oct 1997 p. 5533-5; 11 Jun 1999 p. 2546-52; 2 Feb 2001 p. 710-11; 13 Dec 2002 p. 5805-6; 17 Jan 2003 p. 107-9 and 114.]
+[First Schedule amended in Gazette 12 Nov 1982 p. 4491 (erratum in Gazette 19 Nov 1982 p. 4578); 30 May 1986 p. 1841; 20 Jun 1986 p. 2084; 2 Oct 1987 p. 3821-36 (erratum in Gazette 6 Nov 1987 p. 4110); 20 May 1988 p. 1707; 31 May 1991 p. 2700-7; 5 Jul 1991 p. 3359; 31 Jul 1992 p. 3777-80; 24 Dec 1993 p. 6829-30; 24 Jun 1994 p. 2939-42; 13 Oct 1995 p. 4823; 4 Apr 1997 p. 1780-1; 3 Oct 1997 p. 5533-5; 11 Jun 1999 p. 2546-52; 2 Feb 2001 p. 710-11; 13 Dec 2002 p. 5805-6; 17 Jan 2003 p. 107-9 and 114; 3 Feb 2006 p. 524-8 and 602-3.]
