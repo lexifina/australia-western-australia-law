@@ -37,4 +37,4 @@
 (b)more than 10 postcodes ................................................. | 65.00
 30.For a full search of the licence record ...................................... | 40.00
 31.Application under section 62(6) of the Act to vary any plans or specifications the subject of a condition .............................. | 210.00
-[Schedule 1 inserted in Gazette 14 Oct 2005 p. 4565-6.]
+[Schedule 3 inserted in Gazette 14 Oct 2005 p. 4565-6.]
