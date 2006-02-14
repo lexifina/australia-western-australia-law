@@ -53,6 +53,7 @@ Liquor Licensing Amendment Regulations 2005 | 11 Jan 2005 p. 98-9 | 11 Jan 2005
 Liquor Licensing Amendment Regulations (No. 2) 2005 | 19 Aug 2005 p. 3873-4 | 19 Aug 2005
 Reprint 5: The Liquor Licensing Regulations 1989 as at 7 Oct 2005 (includes amendments listed above)
 Liquor Licensing Amendment Regulations (No. 3) 2005 | 14 Oct 2005 p. 4564-6 | 1 Jan 2006 (see r. 2)
+Liquor Licensing Amendment Regulations 2006 | 14 Feb 2006 p. 695-6 | 14 Feb 2006
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Disallowed on 26 Apr 1992, see Gazette 1 May 1992 p. 1844.
 The Liquor Licensing Amendment Regulations (No. 2) 2001 r. 2(3) and (4) read as follows:
