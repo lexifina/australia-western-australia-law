@@ -6,8 +6,8 @@ Children and Community Services Act 2004 s. 1-2, 3 and 102 | 34 of 2004 | 20 Oct
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Children and Community Services Act 2004 s. 4-5, Pt. 2-4 (other than s. 102), 5-11 and Sch. 1-2 | 34 of 2004 (as amended by No. 84 of 2004 s. 80) | 20 Oct 2004 | To be proclaimed (see s. 2)
-Working with Children (Criminal Record Checking) Act 2004 Pt. 5 | 65 of 2004 | 8 Dec 2004 | To be proclaimed (see s. 2)
+Children and Community Services Act 2004 s. 4-5, Pt. 2-4 (other than s. 102), Pt. 5-11 and Sch. 1-2 | 34 of 2004 (as amended by No. 65 of 2004 Pt. 5 and 84 of 2004 s. 80 and 85(4)) | 20 Oct 2004 | Act other than s. 3 & 102 and Sch. 2 cl. 9(2) & 25: 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695); Sch. 2 cl. 9(2) and 25: to be proclaimed (see s. 2)
+Working with Children (Criminal Record Checking) Act 2004 s. 50-52 | 65 of 2004 | 8 Dec 2004 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Children and Community Services Act 2004 s. 4-5, Pt. 2-4 (other than s. 102), 5-11 and Sch. 1-2 (as amended by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80) had not come into operation. They read as follows:
 “
 4.Presumptions of parentage
@@ -1612,6 +1612,7 @@ In this Part, unless the contrary intention appears —
 (a)if a licence is applied for on behalf of a public authority, the public authority; or
 (b)otherwise, a person who applies for a licence;
 “application” means an application for a licence;
+“assessment notice” has the meaning given to that term in the Working with Children (Criminal Record Checking) Act 2004 section 4;
 “child care service” has the meaning given to that term in section 198;
 “corporate applicant” means an applicant that is a body corporate other than a public authority;
 “criminal record check” means a document issued by the Australian Federal Police or another body or agency approved by the CEO that sets out the criminal convictions of an individual for offences under the law of Western Australia, the Commonwealth, another State or a Territory;
@@ -1622,13 +1623,15 @@ In this Part, unless the contrary intention appears —
 (a)the person providing the service lives; and
 (b)none of the children to whom the service is provided live;
 “individual applicant” means an applicant who is an individual;
+“interim negative notice” has the meaning given to that term in the Working with Children (Criminal Record Checking) Act 2004 section 4;
 “licence” means a licence under this Part;
 “licensee” means a person who holds a licence;
-“managerial officer”, in relation to a corporate applicant, means —
+“managerial officer”, in relation to a body corporate other than a public authority, means —
 (a)a director or secretary of the body;
 (b)if the applicant is an incorporated association as defined in the Associations Incorporation Act 1987 section 3, a member of the committee of the association;
 (c)a person who holds 50% or more of the issued shares of the body; and
 (d)any other person who, in the opinion of the CEO, exercises or exerts control or influence over the body, or is in a position to do so;
+“negative notice” has the meaning given to that term in the Working with Children (Criminal Record Checking) Act 2004 section 4;
 “nominated supervising officer” means the person nominated in an application made by a corporate applicant or a public authority as the person who will be responsible for the day-to-day supervision and control of the child care service to which the application relates;
 “prescribed offence” means an offence prescribed, or of a class prescribed, in the regulations;
 “supervising officer” for a child care service means —
@@ -1642,6 +1645,7 @@ In this Part, unless the contrary intention appears —
 “usual occupant”, in relation to an application that relates to a family day care service, means —
 (a)a person other than the applicant who usually lives at the place where the service will be provided; or
 (b)any other person who is likely to be present at that place at the times when the service will be provided.
+[Section 197 amended by No. 65 of 2004 s. 49.]
 198.Meaning of “child care service”
 (1) A “child care service” is a service for the casual, part-time or day-to-day care of a child or children under 13 years of age, or such other age as may be prescribed for the purposes of this subsection, that is provided —
 (a) for payment or reward, whether directly or indirectly through payment or reward for some other service;
@@ -1790,20 +1794,26 @@ Division 6 — Suspension and cancellation
 220.Suspension of licence
 (1) The CEO may, subject to section 221, by written notice given to the licensee, suspend a licence if there are reasonable grounds for believing that —
 (a) the licensee has contravened a term or condition of the licence;
-(b) the licensee has contravened a provision of the regulations; or
+(b) the licensee has contravened a provision of the regulations;
+(ba) the licensee has contravened the Working with Children (Criminal Record Checking) Act 2004 section 22;
+(bb) if the licensee is an individual — the licensee has been issued with an interim negative notice;
+(bc) if the licensee is a body corporate other than a public authority — the supervising officer or a managerial officer has been issued with an interim negative notice;
+(bd) if the licensee is a public authority — the supervising officer has been issued with an interim negative notice; or
 (c) the continued provision of the child care service constitutes or would constitute an unacceptable risk to the wellbeing of the children for whom the service is provided.
 (2) The suspension notice must —
 (a) state the day, or the day and time, on or at which the suspension takes effect;
 (b) state the reasons for the CEO’s decision to suspend the licence;
 (c) where appropriate, indicate what steps need to be taken to ensure that there is compliance with the relevant provision, term or condition or that there is no longer a risk as described in subsection (1)(c); and
 (d) inform the licensee that the licensee has a right to apply under section 225 for a review of the CEO’s decision to suspend the licence.
+[Section 220 amended by No. 65 of 2004 s. 53.]
 221.Notice of proposed suspension
-(1) If the CEO proposes to suspend a licence for a reason other than the reason mentioned in section 220(1)(c), the CEO must give written notice to the licensee of the proposed suspension.
+(1) If the CEO proposes to suspend a licence for a reason other than the reason mentioned in section 220(1)(ba), (bb), (bc), (bd) or (c), the CEO must give written notice to the licensee of the proposed suspension.
 (2) The notice must —
 (a) state that the CEO proposes to suspend the licence;
 (b) state the reasons for the proposed suspension; and
 (c) inform the licensee that the licensee is entitled to make representations to the CEO in respect of the proposed suspension within 21 days after the day on which the licensee is given the notice.
 (3) In considering whether to suspend the licence the CEO must have regard to any representations made by the licensee within the period referred to in subsection (2)(2)(c).
+[Section 221 amended by No. 65 of 2004 s. 54.]
 222.Revocation of suspension
 (1) The CEO must, by written notice given to the licensee, revoke the suspension of a licence if the CEO is satisfied that the steps specified in the suspension notice have been taken.
 (2) The CEO may, by written notice given to the licensee, revoke the suspension of a licence if it is appropriate to do so in the circumstances of the particular case.
@@ -1816,11 +1826,18 @@ The suspension of a licence has effect on and from the day, or the day and time,
 (1) Grounds for the cancellation of a licence exist if —
 (a) the licence was obtained improperly;
 (b) the CEO can no longer be satisfied as to a matter referred to in section 206(2), 207, 208 or 209 that was relevant to the decision to grant the licence;
-(c) the licensee has persistently or frequently contravened a term or condition of the licence or a provision of the regulations, whether or not the licence is or has been suspended on the grounds of that contravention; or
+(c) the licensee has persistently or frequently contravened a term or condition of the licence or a provision of the regulations, whether or not the licence is or has been suspended on the grounds of that contravention;
+(ca) the licensee has contravened the Working with Children (Criminal Record Checking) Act 2004 section 22, whether or not the licence is or has been suspended on the grounds of that contravention;
+(cb) there are reasonable grounds for believing that —
+(i) if the licensee is an individual — the licensee has been issued with a negative notice;
+(ii) if the licensee is a body corporate other than a public authority — the supervising officer or a managerial officer has been issued with a negative notice; or
+(iii) if the licensee is a public authority — the supervising officer has been issued with a negative notice;
+or
 (d) there are reasonable grounds for believing that the continued provision of the child care service constitutes or would constitute an unacceptable risk to the wellbeing of the children for whom the service is provided, whether or not the licence has been suspended on the grounds of that risk.
 (2) If the CEO considers that grounds for the cancellation of a licence exist the CEO may refer the matter to the State Administrative Tribunal.
 (3) The CEO must give written notice of a referral under subsection (2) to the licensee as soon as practicable after the referral is made.
 (4) In proceedings commenced by a referral under subsection (2) the State Administrative Tribunal may, if it is satisfied that grounds for the cancellation of the licence exist, cancel the licence.
+[Section 224 amended by No. 65 of 2004 s. 55.]
 Division 7 — Review
 225.Review by State Administrative Tribunal
 (1) A person aggrieved by a reviewable decision may apply to the State Administrative Tribunal for a review of the decision.
@@ -2377,7 +2394,7 @@ Any advisory body established or continued under the Children and Community Serv
 (2) Section 18(c) is amended by deleting “or the Child Welfare Act 1947”.
 9.Evidence Act 1906 amended
 (1) The amendments in this clause are to the Evidence Act 1906.
-(2) Section 106A is amended in the definition of “defendant” by deleting paragraph (a)(i) and inserting the following subparagraph instead —
+(2) Section 106A is amended in the definition of “accused” by deleting paragraph (a)(i) and inserting the following subparagraph instead —
 “
 (i)means any party to the proceeding, other than the affected child and an applicant who is an officer as defined in section 3 of the Children and Community Services Act 2004;
 ”.
@@ -2391,6 +2408,7 @@ s. 102 | Leaving child unsupervised in vehicle
 (4) Schedule 7 Part A is amended by deleting clause 2 and inserting the following clause instead —
 “
 2.A proceeding also comes within the provisions of the Schedule if it is an application under Part 4 or 5 of the Children and Community Services Act 2004.
+[Clause 9 amended by No. 84 of 2004 s. 84(4).]
 ”.
 10.Family Court Act 1997 amended
 (1) The amendments in this clause are to the Family Court Act 1997.
