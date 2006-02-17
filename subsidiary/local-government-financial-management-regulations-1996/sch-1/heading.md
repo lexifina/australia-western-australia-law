@@ -1,8 +1,8 @@
 ## Schedule 1
 [reg. 3]
-Part 1 — Local Government Program Titles
+## Part 1 — Local government program titles
 Column 1 | Column 2
-Program Titles | Sub-Programs Included Within the Program
+Program titles | Sub-programs included within the program
 Governance | Members of council Governance — general
 General purpose funding | Rates Other general purpose funding
 Law, order, public safety | Fire prevention Animal control Other law, order, public safety
@@ -14,7 +14,9 @@ Recreation and culture | Public halls, Civic Centre Swimming areas and beaches O
 Transport | Streets, roads, bridges, depots — Construction (not capitalised) — Maintenance Road plant purchase (if not capitalised) Parking facilities Traffic control Aerodromes Water transport facilities
 Economic services | Rural services Tourism and area promotion Building control Saleyards and markets Plant nursery Other economic services
 Other property and services | Private works Public works overheads Plant operation Salaries and wages Unclassified Town Planning Schemes
-Part 2 — Nature or Type of Classifications
+[Part 1 amended in Gazette 20 Jun 1997 p. 2844.]
+## Part 2 — Nature or type of classifications
+[Heading inserted in Gazette 20 Jun 1997 p. 2845.]
 Revenue
 Rates
 Grants and subsidies
@@ -33,4 +35,4 @@ Loss on asset disposal
 Interest expenses
 Insurance expenses
 Other expenditure
-[Schedule 1 amended in Gazette 20 Jun 1997 p. 2844-5; 31 Mar 2005 p. 1052.]
+[Part 2 inserted in Gazette 20 Jun 1997 p. 2845; amended in Gazette 31 Mar 2005 p. 1052.]
