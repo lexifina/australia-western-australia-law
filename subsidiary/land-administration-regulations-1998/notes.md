@@ -16,3 +16,4 @@ Land Administration Amendment Regulations (No. 2) 2003 | 30 Jun 2003 p. 2569 | 7
 Land Administration Amendment Regulations 2004 | 5 Mar 2004 p. 699-700 | 5 Mar 2004
 Land Administration Amendment Regulations (No. 2) 2004 | 16 Nov 2004 p. 5068 | 16 Nov 2004 [Published again in Gazette 19 Nov 2004 p. 5081 but amendment of 19 Nov 2004 has no effect.]
 Land Administration Amendment Regulations (No. 5) 2004 | 24 Nov 2004 p. 5255-6 | 24 Nov 2004
+Land Administration Amendment Regulations 2006 | 17 Feb 2006 p. 703 | 17 Feb 2006
