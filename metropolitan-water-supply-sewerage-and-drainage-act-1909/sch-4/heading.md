@@ -4,7 +4,7 @@ METROPOLITAN WATER SUPPLY, SEWERAGE, AND DRAINAGE ACT 1909, AND AMENDMENTS
 Notice Under Section 138
 Possession has been taken of this land, being allotment No. of section [or portion] No. [here describe situation of land], by the Water Corporation in accordance with the provisions of the abovementioned Act, and it is to be let on lease.
 Water Corporation
-. . . . . . . . . . . . . . . 19 . . .
-[Ninth Schedule amended by No. 39 of 1963 s.155; No. 37 of 1982 s.60; No. 25 of 1985 s.82; No. 73 of 1995 s.107.]
+. . . . . . . . . . . . . . . 20 . . .
+[Ninth Schedule amended by No. 39 of 1963 s. 155; No. 37 of 1982 s. 60; No. 25 of 1985 s. 82; No. 73 of 1995 s. 107.]
 [Tenth-Twelfth Schedules repealed by No. 59 of 2004 s. 141.]
-[Thirteenth Schedule. Deleted by No. 39 of 1963 s.159.]
+[Thirteenth Schedule deleted by No. 39 of 1963 s. 159.]
