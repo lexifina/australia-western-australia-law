@@ -9,4 +9,4 @@ Road Traffic (Vehicle Standards) (Consequential Provisions) Regulations 2002 Pt.
 Road Traffic (Vehicle Standards 2002) Amendment Regulations 2002 r. 13(2) | 3 Jan 2003 p. 5-11 | 3 Jan 2003
 Reprint 1: The Road Traffic (Towed Agricultural Implements) Regulations 1995 as at 9 May 2003 (includes amendments listed above)
 Road Traffic (Towed Agricultural Implements) Amendment Regulations 2004 | 27 Jul 2004 p. 3081 | 27 Jul 2004
-Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department is read and construed as a reference to the Police Service.
+Road Traffic (Towed Agricultural Implements) Amendment Regulations 2006 | 24 Feb 2006 p. 884-8 | 24 Feb 2006
