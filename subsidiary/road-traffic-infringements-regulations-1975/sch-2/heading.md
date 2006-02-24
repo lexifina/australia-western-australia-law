@@ -1,6 +1,6 @@
-## Schedule 1 — Prescribed offences and modified penalties
+## Schedule 2 — Forms
 [Reg. 7]
-[Heading inserted in Gazette 23 Dec 2005 p. 6287.]
+[Heading inserted in Gazette 24 Feb 2006 p. 884.]
 Form 1
 ................................................................................................................................................................................
 PART C DEFENDANT’S COPY This space for cost register imprintP.149

@@ -19,4 +19,5 @@ Road Traffic (Vehicle Standards) (Consequential Provisions) Regulations 2002 Pt.
 Road Traffic (Infringements) Amendment Regulations 2003 | 28 Feb 2003 p. 679-80 | 28 Feb 2003
 Road Traffic (Infringements) Amendment Regulations (No. 3) 2005 | 23 Dec 2005 p. 6276 | 23 Dec 2005
 Road Traffic (Infringements) Amendment Regulations 2005 | 23 Dec 2005 p. 6285-90 | 1 Jan 2006 (see r. 2 and Gazette 23 Dec 2005 p. 6244-5)
+Road Traffic (Infringements) Amendment Regulations 2006 | 24 Feb 2006 p. 883-4 | 24 Feb 2006
 Operative 1 November 1990 (see regulation 2).
