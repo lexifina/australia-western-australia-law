@@ -7,7 +7,7 @@ Water Agencies (Powers) Act 1984
 (section 103(2))No. .............................
 Date ......../........./........
 .................................................................................................................................
-Surname (Block letters)Other names (in full)
+Surname** (Block letters)Other names (in full)
 Address ..................................................................................................................
 Number and street
 .................................................................................................................................
@@ -17,24 +17,23 @@ day of .............................. 20....... at .............................
 you committed the offence of using water supplied by the Corporation in contravention of the stage of restrictions applicable under by-law 2 of the Water Agencies (Water Restrictions) By-laws 1998, contrary to by-law 2(1).
 ....................................
 Authorised person
+**For a body corporate, set out the body’s name and (if known) ACN, ABN or other registration number
 You may dispose of this matter either —
-(a)by payment of the modified penalty of $100 within 21 days of the date of this notice by mail to —
-Manager, Collections
-Water Corporation
-PO Box 555
-Leederville WA 6900
-(make cheques payable to Water Corporation);
+(a)by payment of the modified penalty of …… within 21 days of the date of this notice;
 or
 (b)by having it dealt with by a court.
 If the modified penalty is not paid within the time specified, court proceedings may be taken against you.
+If you are convicted you will be liable to a maximum penalty of $500.
+[Payment details to be included with this form]
+[Form 1 amended in Gazette 24 Feb 2006 p. 889-90.]
 Form 2
 WATER CORPORATION
 WITHDRAWAL OF INFRINGEMENT NOTICE
 Water Agencies (Powers) Act 1984
 (section 103(6))No. .............................
 Date ......../........./........
-.................................................................................................................................
-Surname (Block letters)Other names (in full)
+................................................................................................................................
+Surname** (Block letters)Other names (in full)
 Address ..................................................................................................................
 Number and street
 .................................................................................................................................
@@ -42,13 +41,16 @@ Town or suburbPostcode
 Infringement Notice No. Date ......../........./........
 for the alleged offence of using water supplied by the Corporation in contravention of the stage of restrictions applicable under by-law 2 of the Water Agencies (Water Restrictions) By-laws 1998, contrary to by-law 2(1), on —
 ............................... at .............................................................................................
-specifying the modified penalty of $100 is withdrawn.
+specifying the modified penalty of …… is withdrawn.
 *No further action will be taken.
 *It is proposed to institute court proceedings for the alleged offence.
 ................................................................................
 * General Manager, Customer Services Division
-* Regional Manager, ................................ Region
-* Delete that which is not applicable
+* Regional Manager, .............................Region
+* Manager, ........................................................
+*Delete that which is not applicable
+**For a body corporate, set out the body’s name and (if known) ACN, ABN or other registration number
+[Form 2 amended in Gazette 24 Feb 2006 p. 890.]
 Form 3
 Water Corporation
 Certificate of Authorised Person
