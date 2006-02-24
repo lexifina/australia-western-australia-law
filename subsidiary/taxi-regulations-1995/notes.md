@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 March 2005 of the Taxi Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Taxi Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Taxi Regulations 1995 | 10 Jan 1995 p. 75-90 | 10 Jan 1995 (see r. 2 and Gazette 10 Jan 1995 p. 73)
@@ -19,5 +19,6 @@ Taxi Amendment Regulations (No. 3) 2004 | 20 Feb 2004 p. 608-9 | 20 Feb 2004
 Taxi Amendment Regulations (No. 4) 2004 | 10 Sep 2004 p. 3923-4 | 10 Sep 2004
 Taxi Amendment Regulations (No. 5) 2004 | 10 Dec 2004 p. 5910-11 | 10 Dec 2004
 Reprint 2: The Taxi Regulations 1995 as at 4 Mar 2005 (includes amendments listed above)
+Taxi Amendment Regulations 2006 | 24 Feb 2006 p. 882-3 | 24 Feb 2006
 Under the Public Sector Management Act 1994 the names of departments may be changed. As at the date this reprint was prepared the former Department of Land Administration is called the Department of Land Information.
 Now cited as the Local Government (Miscellaneous Provisions) Act 1960.

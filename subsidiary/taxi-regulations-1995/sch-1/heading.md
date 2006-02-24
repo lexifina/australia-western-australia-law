@@ -2,7 +2,8 @@
 [r. 22(1)]
 Item | Section of Act or Regulation | Description of Offence | Modified Penalty $
 1 | Section 15(1) | Owner or driver of vehicle operating as a taxi within a control area without using taxi plates | 500
-2 | Section 20(2) | Failure to comply with conditions imposed under section 20(1), other than conditions relating to driver standards | 250
+2 | Section 20(2) | (a)Failure to comply with, or ensure compliance with, conditions imposed under section 20(1), other than conditions relating to driver standards or conditions referred to in regulation 5(4) | 250
+ |  | (b)Failure to comply with, or ensure compliance with, conditions imposed under section 20(1) and referred to in regulation 5(4) | 500
 3 | Section 21(1) | Plate holder failing to ensure that plates used in manner directed | 100
 4 | Section 21(2) | Using taxi plates on vehicle other than taxi | 250
 5 | Section 25(1) | Failure to return taxi plates | 150
@@ -33,4 +34,4 @@ Item | Section of Act or Regulation | Description of Offence | Modified Penalty 
 30 | Regulation 17B | Driver failing to wear uniform, uniform not clean etc. | 200
 31 | Regulation 18(2) | Operating or driving taxi with an unsealed meter | 250
 32 | Regulation 18(4) and (5) | Offences relating to meters | 250
-[Schedule 1 inserted in Gazette 23 Jan 2004 p. 323-5.]
+[Schedule 1 inserted in Gazette 23 Jan 2004 p. 323-5; amended in Gazette 24 Feb 2006 p. 883.]
