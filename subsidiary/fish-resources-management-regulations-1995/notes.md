@@ -91,9 +91,6 @@ Reprint 5: The Fish Resources Management Regulations 1995 as at 14 Oct 2005 (inc
 Fish Resources Management Amendment Regulations (No. 3) 2005 | 4 Nov 2005 p. 5299-317 | 4 Nov 2005
 Fish Resources Management Amendment Regulations (No. 8) 2005 | 11 Nov 2005 p. 5565-6 | 11 Nov 2005
 Fish Resources Management Amendment Regulations (No. 7) 2005 | 22 Dec 2005 p. 6215-39 | 1 Jan 2006 (see r. 2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Fish Resources Management Amendment Regulations (No. 3) 2006 | 7 Feb 2006 p. 619-21 | 1 Mar 2006 (see r. 2)
 Repealed by the Land Administration Act 1997 s. 281(1).
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
@@ -103,30 +100,3 @@ Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Fis
 Repealed by the Fish Resources Management Act 1994 s. 265.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Ministry of Justice is now called the Department of Justice.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
-On the date as at which this compilation was prepared, the Fish Resources Management Amendment Regulations (No. 3) 2006 r. 4 had not come into operation. It reads as follows:
-“
-4.Schedule 1 Part 3 amended
-Schedule 1 Part 3 is amended as follows:
-(a) in item 3(1)(a) and (b) by deleting “46.66” and inserting instead —
-“ 52.32 ”;
-(b) in item 3(1)(c) by deleting “12.86” and inserting instead —
-“ 13.68 ”;
-(c) in item 3(2) by deleting “1 964.00” and inserting instead —
-“ 4 546.00 ”;
-(d) in item 3(8) by deleting “32 809.00” and inserting instead —
-“ 30 949.00 ”;
-(e) in item 3(16) by deleting “36 755.00” and inserting instead —
-“ 41 514.00 ”;
-(f) in item 3(17)(a) by deleting “18 684.00” and inserting instead —
-“ 19 904.00 ”;
-(g) in item 3(17)(b) by deleting “2 422.00” and inserting instead —
-“ 2 580.00 ”;
-(h) in item 3(24)(a) and (c) by deleting “41.29” and inserting instead —
-“ 32.86 ”;
-(i) in items 3(24)(b) and (d) by deleting “38.84” and inserting instead —
-“ 41.60 ”;
-(j) in item 3(26a) by deleting “53.31” and inserting instead —
-“ 59.03 ”;
-(k) in item 3(27)(a) by deleting “2 536.00” and inserting instead —
-“ 1 871.00 ”.
-”.
