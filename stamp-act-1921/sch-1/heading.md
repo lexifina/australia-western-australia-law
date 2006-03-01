@@ -83,11 +83,8 @@ Item | Nature of instrument | Duty payable $ | Person liable to pay duty
  | (1)Any instrument effecting a partition of any property ........................................ | 20.00 | The parties thereto
  | (2)Any instrument setting out any amount required to achieve equality ................ | See section 75AD
 16. | POLICY OF INSURANCE
- | (1)Any instrument evidencing a policy of insurance — [(a)deleted] |  | The person issuing the policy and see sections 92A(4)(a) and 94
- | (b)issued under the Motor Vehicle (Third Party Insurance) Act 1943 ................................... | 10% of the amount calculated under section 96(2)
- | (c)in any other case ...................... | 10% of the amount calculated under section 96(2)
- | (2)On a policy of insurance (undisclosed premium) — |  | Insured
- | for every $100, and also for every fractional part of $100, of the sum insured .......................................... | 0.10
+ | (1)A return under section 94 … | See section 94A | The insurer
+ | (2)A statement under section 95A ……… | See section 95A | The person required to lodge the statement
 17. | RELEASE OR RENUNCIATION OF ANY PROPERTY OR OF ANY RIGHT OR INTEREST IN ANY PROPERTY
  | An instrument of release or renunciation referred to in the heading to this item —
  | (a)by way of sale ....................... | See item 4 | Purchaser
@@ -98,4 +95,4 @@ Item | Nature of instrument | Duty payable $ | Person liable to pay duty
 19. | SETTLEMENT, DEED OF, OR DEED OF GIFT | See item 4 | The settlor or donor
  | (1)Any instrument, whether voluntary or upon any good or valuable consideration other than a bona fide pecuniary consideration whereby any property is settled or agreed to be settled in any manner whatsoever, or is given or agreed to be given in any manner whatsoever. | References to consideration in item 4 being construed as references to the amount or value of the property concerned
  | (2)Any instrument declaring that the property vested in the person executing the same shall be held in trust for the person or persons mentioned therein.
-[Second Schedule inserted by No. 37 of 1979 s. 108; amended by No. 81 of 1981 s. 8 and 9; No. 45 of 1982 s. 4; No. 93 of 1982 s. 8; No. 99 of 1982 s. 5; No. 14 of 1983 s. 6; No. 61 of 1983 s. 13; No. 81 of 1984 s. 37; No. 19 of 1985 s. 22; No. 85 of 1985 s. 3; No. 98 of 1986 s. 20; No. 16 of 1989 s. 4; No. 58 of 1990 s. 6; No. 42 of 1993 s. 5; No. 39 of 1994 s. 12 and 14; No. 22 of 1995 s. 4; No. 20 of 1996 s. 44; No. 48 of 1996 s. 37; No. 13 of 1997 s. 23 and 28; No. 57 of 1997 s. 113(6); No. 18 of 1998 s. 12; No. 22 of 1998 s. 53; No. 25 of 1999 s. 7(1); No. 53 of 1999 s. 30; No. 6 of 2000 s. 7; No. 4 of 2001 s. 8; No. 11 of 2002 s. 4, 7 and 11; No. 46 of 2002 s. 10; No. 2 of 2003 s. 141; No. 21 of 2003 s. 33; No. 44 of 2003 s. 4(2)-(6) and 5; No. 59 of 2003 s. 4; No. 66 of 2003 s. 87, 99 and 107(7); No. 11 of 2004 s. 6 and 7; No. 83 of 2004 s. 8.]
+[Second Schedule inserted by No. 37 of 1979 s. 108; amended by No. 81 of 1981 s. 8 and 9; No. 45 of 1982 s. 4; No. 93 of 1982 s. 8; No. 99 of 1982 s. 5; No. 14 of 1983 s. 6; No. 61 of 1983 s. 13; No. 81 of 1984 s. 37; No. 19 of 1985 s. 22; No. 85 of 1985 s. 3; No. 98 of 1986 s. 20; No. 16 of 1989 s. 4; No. 58 of 1990 s. 6; No. 42 of 1993 s. 5; No. 39 of 1994 s. 12 and 14; No. 22 of 1995 s. 4; No. 20 of 1996 s. 44; No. 48 of 1996 s. 37; No. 13 of 1997 s. 23 and 28; No. 57 of 1997 s. 113(6); No. 18 of 1998 s. 12; No. 22 of 1998 s. 53; No. 25 of 1999 s. 7(1); No. 53 of 1999 s. 30; No. 6 of 2000 s. 7; No. 4 of 2001 s. 8; No. 11 of 2002 s. 4, 7 and 11; No. 46 of 2002 s. 10; No. 2 of 2003 s. 141; No. 21 of 2003 s. 33; No. 44 of 2003 s. 4(2)-(6) and 5; No. 59 of 2003 s. 4; No. 66 of 2003 s. 87, 99 and 107(7); No. 11 of 2004 s. 6 and 7; No. 83 of 2004 s. 8; No. 35 of 2005 s. 4.]
