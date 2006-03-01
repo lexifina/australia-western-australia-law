@@ -1,168 +1,167 @@
 Notes
 This is a compilation of the Stamp Act 1921 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
- | Short title | Number and year | Assent | Commencement
- | Stamp Act 1921 | 10 of 1922 | 31 Jan 1922 | 1 Apr 1922 (see s. 1 and Gazette 17 Mar 1922 p. 479)
- | Stamp Act Amendment Act 1923 | 53 of 1923 | 22 Dec 1923 | 22 Dec 1923
- | Stamp Act Amendment Act 1924 | 23 of 1924 | 31 Dec 1924 | 31 Dec 1924
- | Ministers’ Titles Act 1925 s. 2 | 8 of 1925 | 24 Sep 1925 | 24 Sep 1925
- | Stamp Act Amendment Act 1925 | 47 of 1925 | 31 Dec 1925 | 31 Dec 1925
- | Stamp Act Amendment Act 1926 | 17 of 1926 | 6 Nov 1926 | 6 Nov 1926
- | Stamp Act Amendment Act 1927 | 10 of 1927 | 6 Dec 1927 | 6 Dec 1927
- | Stamp Act Amendment Act 1928 | 22 of 1928 | 21 Dec 1928 | 21 Dec 1928
- | Stamp Act Amendment Act 1929 | 5 of 1929 | 7 Oct 1929 | 7 Oct 1929
- | Stamp Act Amendment Act (No. 3) 1930 | 11 of 1930 | 19 Nov 1930 | 19 Nov 1930
- | Stamp Act Amendment Act (No. 1) 1930 | 12 of 1930 | 19 Nov 1930 | 19 Nov 1930
- | Stamp Act Amendment Act 1931 | 39 of 1931 | 26 Nov 1931 | 1 Dec 1931 (see s. 2 and Gazette 27 Nov 1931 p. 2499)
- | Reprint of the Stamp Act 1921 in Appendix to session Volume 1933-34 (includes amendments listed above)
- | Stamp Act Amendment Act 1941 | 35 of 1941 | 19 Dec 1941 | 19 Dec 1941
- | Stamp Act Amendment Act 1942 | 40 of 1942 | 23 Dec 1942 | 23 Dec 1942
- | Stamp Act Amendment Act 1944 | 20 of 1944 | 23 Dec 1944 | 23 Dec 1944
- | Reprint of the Stamp Act 1921 approved 3 Apr 1950 in Volume 5 of Reprinted Acts (includes amendments listed above)
- | Stamp Act Amendment Act 1950 | 11 of 1950 | 17 Nov 1950 | 17 Nov 1950
- | Stamp Act Amendment Act 1954 | 5 of 1954 | 25 Aug 1954 | 25 Aug 1954
- | Betting Control Act 1954 s. 3(2) | 63 of 1954 | 30 Dec 1954 | 1 Aug 1955 (see s. 2 and Gazette 29 Jul 1955 p. 1767)
- | Stamp Act Amendment Act 1957 | 70 of 1957 | 6 Dec 1957 | 1 Feb 1958 (see s. 2 and Gazette 24 Jan 1958 p. 129)
- | Reprint of the Stamp Act 1921 approved 1 May 1958 in Volume 12 of Reprinted Acts (includes amendments listed above)
- | Stamp Act Amendment Act (No. 2) 1959 | 64 of 1959 | 10 Dec 1959 | 21 Dec 1959 (see s. 2 and Gazette 18 Dec 1959 p. 3337)
- | Stamp Act Amendment Act 1959 | 72 of 1959 | 14 Dec 1959 | 1 Jan 1960 (see s. 2 and Gazette 24 Dec 1959 p. 3457)
- | Stamp Act Amendment Act 1960 | 22 of 1960 | 11 Oct 1960 | 13 Mar 1961 (see s. 2 and Gazette 10 Mar 1961 p. 653)
- | Stamp Act Amendment Act (No. 2) 1960 | 41 of 1960 | 3 Nov 1960 | 1 Jul 1961 (see s. 2 and Gazette 5 May 1961 p. 1069)
- | Stamp Act Amendment Act 1961 | 21 of 1961 | 30 Oct 1961 | 30 Oct 1961
- | Stamp Act Amendment Act 1962 | 20 of 1962 | 1 Oct 1962 | 1 Oct 1962
- | Stamp Act Amendment Act (No. 2) 1962 | 60 of 1962 | 30 Nov 1962 | 1 Jan 1963 (see s. 2)
- | Stamp Act Amendment Act (No. 3) 1962 | 69 of 1962 | 30 Nov 1962 | 30 Nov 1962
- | Reprint of the Stamp Act 1921 approved 22 Apr 1963 (not in a Volume) (includes amendments listed above)
- | Stamp Act Amendment Act 1963 | 7 of 1963 | 15 Oct 1963 | 15 Oct 1963
- | Stamp Act Amendment Act (No. 2) 1963 | 37 of 1963 | 19 Nov 1963 | 31 Dec 1963 (see s. 2 and Gazette 31 Dec 1963 p. 4055)
- | Stamp Act Amendment Act (No. 3) 1963 | 57 of 1963 | 17 Dec 1963 | 17 Dec 1963
- | Stamp Act Amendment Act (No. 4) 1963 | 58 of 1963 | 17 Dec 1963 | 1 Jul 1964 (see s. 2 and Gazette 5 Jun 1964 p. 2335)
- | Stamp Act Amendment Act 1965 | 72 of 1965 | 25 Nov 1965 | s. 7, 8, 16(d), (h)(i), (j)(i)-(iii), (v) and (o): 1 Dec 1965 (see s. 2(2)); balance other than s. 3, 14 and 16(c): 1 Jan 1966 (see s. 2(1)); s. 3, 14 and 16(c): 14 Feb 1966 (see s. 2(2))
- | Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
- | Reprint of the Stamp Act 1921 approved 14 Feb 1966 in Volume 19 of Reprinted Acts (includes amendments listed above)
- | Stamp Act Amendment Act 1966 | 67 of 1966 | 12 Dec 1966 | s. 1, 2, 4 and 15(a), (b) and (f): 1 Jan 1967 (see s. 2(2)); balance: 1 Feb 1967 (see s. 2(1))
- | Stamp Act Amendment Act (No. 2) 1966 | 90 of 1966 | 12 Dec 1966 | 1 Jan 1967 (see s. 2)
- | Stamp Act Amendment Act (No. 3) 1966 | 93 of 1966 | 12 Dec 1966 | 1 Jul 1967 (see s. 2 and Gazette 23 Jun 1967 p. 1691)
- | Stamp Act Amendment Act 1967 | 50 of 1967 | 24 Nov 1967 | 1 Dec 1967 (see s. 2)
- | Reprint of the Stamp Act 1921 approved 27 Aug 1968 (not in a Volume) (includes amendments listed above)
- | Stamp Act Amendment Act 1968 | 54 of 1968 | 13 Nov 1968 | 1 Jan 1969 (see s. 2 and Gazette 13 Dec 1968 p. 3809)
- | Stamp Act Amendment Act 1969 | 113 of 1969 | 28 Nov 1969 | 1 Jan 1970 (see s. 2 and Gazette 16 Dec 1969 p. 4077)
- | Acts Amendment (Commissioner of State Taxation) Act 1970 Pt. VI | 21 of 1970 | 8 May 1970 | 1 Jul 1970 (see s. 2 and Gazette 26 Jun 1970 p. 1831)
- | Stamp Act Amendment Act 1970 | 102 of 1970 | 8 Dec 1970 | s. 12(a), (c)-(e): 1 Jul 1970 (see s. 2(3)); s. 5-11 and 15(b): 1 Oct 1970 (see s. 2(2)); s. 3, 4, 12(b), 13, 14, and 15(a): 1 Jan 1971 (see s. 2(1)(c))
- | Stamp Act Amendment Act 1971 | 3 of 1971 | 13 Sep 1971 | 13 Sep 1971
- | Stamp Act Amendment Act (No. 2) 1971 | 29 of 1971 | 1 Dec 1971 | 1 Jan 1972 (see s. 2 and Gazette 10 Dec 1971 p. 5169)
- | Stamp Act Amendment Act 1972 | 32 of 1972 | 16 Jun 1972 | 1 Jul 1972 (see s. 2 and Gazette 30 Jun 1972 p. 2100)
- | Metric Conversion Act 1972 | 94 of 1972 (as amended by No. 19 of 1973 s. 4) | 4 Dec 1972 | Relevant amendments (see Second Sch.) took effect on 1 Jul 1973 (see s. 4(2) and Gazette 22 Jun 1973 p. 2379)
- | Stamp Act Amendment Act 1974 | 9 of 1974 | 27 Sep 1974 | s. 1, 2 and 7: 27 Sep 1974 (see s. 2(1)); s. 5, 6 and 9: 1 Dec 1974 (see s. 2(2)); s. 3, 4, 8 and 10: 1 Jan 1975 (see s. 2(2) and Gazette 22 Nov 1974 p. 5089)
- | Stamp Act Amendment Act (No. 2) 1974 | 46 of 1974 | 18 Nov 1974 | 1 Dec 1974 (see s. 2 and Gazette 29 Nov 1974 p. 5167)
- | Reprint of the Stamp Act 1921 approved 20 Feb 1976 (includes amendments listed above)
- | Stamp Act Amendment Act 1976 | 96 of 1976 | 12 Nov 1976 | 1 Jan 1977 (see s. 2)
- | Stamp Act Amendment Act 1977 | 63 of 1977 | 23 Nov 1977 | 23 Nov 1977
- | Stamp Act Amendment Act 1979 | 37 of 1979 | 18 Oct 1979 | s. 1, 2, 42 and 61: 18 Oct 1979 (see s. 2(2)); balance: 1 Jan 1980 (see s. 2(1) and Gazette 7 Dec 1979 p. 3769)
- | Credit Unions (Consequential Provisions) Act 1979 Pt. 1 | 47 of 1979 | 7 Nov 1979 | 1 Jul 1980 (see s. 2)
- | Reprint of the Stamp Act 1921 approved 25 Mar 1980 (includes amendments listed above except those in the Credit Unions (Consequential Provisions) Act 1979)
- | Stamp Amendment Act 1980 | 63 of 1980 | 26 Nov 1980 | 4 Nov 1980 (see s. 1(4))
- | Stamp Amendment Act 1981 | 81 of 1981 | 9 Nov 1981 | Act other than s. 3 and 8: 1 Dec 1981 (see s. 2(1)); s. 3 and 8: 1 Jan 1982 (see s. 2(2))
- | Acts Amendment (Traffic Board) Act 1981 Pt. VIII | 106 of 1981 | 4 Dec 1981 | 2 Feb 1982 (see s. 2)
- | Stamp Amendment Act 1982 | 1 of 1982 | 8 Apr 1982 | 8 Apr 1982
- | Companies (Consequential Amendments) Act 1982 s. 28 | 10 of 1982 | 14 May 1982 | 1 Jul 1982 (see s. 2(1) and Gazette 25 Jun 1982 p. 2079)
- | Stamp Amendment Act (No. 2) 1982 | 15 of 1982 | 14 May 1982 | Act other than s. 4: 8 Apr 1982 (see s. 2(1)); s. 4: 14 May 1982 (see s. 2(2))
- | Stamp Amendment Act (No. 3) 1982 | 45 of 1982 | 26 Aug 1982 | 24 Dec 1981 (see s. 2)
- | Stamp Amendment Act (No. 4) 1982 | 93 of 1982 | 22 Nov 1982 | Act other than s. 3-6, 7(1) and 8: 22 Nov 1982 (see s. 2(1)); s. 3-6, 7(1) and 8: 1 Jan 1983 (see s. 2(2))
- | Stamp Amendment Act (No. 5) 1982 | 99 of 1982 | 24 Nov 1982 | 1 Jan 1983 (see s. 2)
- | Stamp Amendment Act (No. 6) 1982 | 112 of 1982 | 8 Dec 1982 | 26 Oct 1982 (see s. 2)
- | Stamp Amendment Act 1983 | 14 of 1983 | 31 Oct 1983 | Act other than s. 6(d): 1 Nov 1983 (see s. 2(2)); s. 6(d): 1 Dec 1983 (see s. 2(1) and Gazette 25 Nov 1983 p. 4649)
- | Stamp Amendment Act (No. 2) 1983 | 61 of 1983 | 13 Dec 1983 | s. 1-4: 13 Dec 1983 (see s. 2(1)); balance: 1 Jan 1984 (see s. 2(2))
- | Stamp Amendment Act 1984 | 81 of 1984 | 7 Dec 1984 | 1 Jan 1985 (see s. 2 and Gazette 28 Dec 1984 p. 4197)
- | Stamp Amendment Act (No. 2) 1984 | 109 of 1984 | 19 Dec 1984 | 1 Jan 1985 (see s. 2)
- | Acts Amendment (Lotteries) Act 1985 Pt. V | 19 of 1985 | 19 Apr 1985 | 19 Apr 1985 (see s. 2(1))
- | Reprint of the Stamp Act 1921 as at 9 Jun 1985 (includes amendments listed above)
- | Stamp Amendment Act 1985 | 84 of 1985 | 4 Dec 1985 | 1 Jan 1986 (see s. 2)
- | Stamp Amendment Act (No. 2) 1985 | 85 of 1985 | 4 Dec 1985 | 1 Jan 1986 (see s. 2)
- | Stamp Amendment Act 1986 | 98 of 1986 | 11 Dec 1986 | s. 4-10: 11 Nov 1986 (see s. 2(2)); s. 13-18, 20, 21(1)(a)(i) and 22: 11 Dec 1986 (see s. 2(1)); s. 21(1)(b) and (2): 1 Jan 1987 (see s. 2(4) and Gazette 19 Dec 1986 p. 4859); s. 11 and 19: 8 Jan 1987 (see s. 2(3)); s. 12 and 21(1)(a)(ii): 1 Feb 1987 (see s. 2(4) and Gazette 19 Dec 1986 p. 4859)
- | Stamp Amendment Act 1987 | 33 of 1987 | 30 Jun 1987 | Act other than s. 5, 15 and 19: 30 Jun 1987 (see s. 2(1)); s. 5, 15 and 19: 24 Jul 1987 (see s. 2(2) and Gazette 24 Jul 1987 p. 2813)
- | Stamp Amendment Act (No. 2) 1987 | 100 of 1987 | 18 Dec 1987 | 1 Jan 1988 (see s. 2)
- | Reprint of the Stamp Act 1921 as at 21 Mar 1989 (includes amendments listed above)
- | Stamp Amendment Act (No. 2) 1989 | 3 of 1989 | 20 Apr 1989 | 20 Apr 1989 (see s. 2)
- | Stamp Amendment Act (No. 4) 1989 | 16 of 1989 (as amended by No. 41 of 1989 s. 28) | 16 Nov 1989 | s. 4(2): 1 Nov 1989 (see s. 2(2) and Gazette 29 Dec 1989 p. 4665); s. 4(4): 1 Nov 1989 (see s. 2(4)); s. 4(1): 16 Nov 1989 (see s. 2(1)); s. 4(3): 1 Jul 1990 (see s. 2(3) and Gazette 8 Jun 1990 p. 2615)
- | Taxation (Reciprocal Powers) Act 1989 s. 16 | 18 of 1989 | 1 Dec 1989 | 5 Oct 1990 (see s. 2 and Gazette 5 Oct 1990 p. 5122)
- | Stamp Amendment Act (No. 3) 1989 | 41 of 1989 | 21 Dec 1989 | s. 27(3): 30 Jun 1989 (see s. 2(4)); s. 11, 13, 20(a) and (b), 24 and 26: 1 Nov 1989 (see s. 2(2)); s. 4, 10(a)-(c), 12, 20(c) and 27(1): 1 Dec 1989 (see s. 2(3)(b)); s. 1-9, 10(d), 12, 14-16, 18(b)-(e), 21-23, 25, 27(4) and 28: 21 Dec 1989 (see s. 2(5)); s. 17, 18(a), (f) and (g), 19 and 27(2): 1 Jul 1990 (see s. 2(1) and Gazette 8 Jun 1990 p. 2615)
- | Stamp Amendment Act 1990 | 20 of 1990 | 24 Jul 1990 | 24 Jul 1990 (see s. 2)
- | Acts Amendment (Betting Tax and Stamp Duty) Act (No. 2) 1990 Pt. 2 | 58 of 1990 | 17 Dec 1990 | 1 Aug 1989 (see s. 2)
- | R & I Bank Act 1990 s. 45(1) | 73 of 1990 | 20 Dec 1990 | 1 Jan 1991 (see s. 2(2) and Gazette 28 Dec 1990 p. 6369)
- | Stamp Amendment Act 1991 | 52 of 1991 | 17 Dec 1991 | s. 4 and 6: 29 Aug 1991 (see s. 2(2)); balance: 17 Dec 1991 (see s. 2(1))
- | Stamp Amendment Act (No. 2) 1991 | 53 of 1991 | 17 Dec 1991 | 17 Dec 1991 (see s. 2)
- | SGIO Privatisation Act 1992 s. 29 | 49 of 1992 | 9 Dec 1992 | 7 Jan 1993 (see s. 2(3) and Gazette 7 Jan 1993 p. 15)
- | Stamp Amendment Act 1993 | 42 of 1993 | 20 Dec 1993 | Act other than s. 6 and Pt. 2: 20 Dec 1993 (see s. 2(1)); Pt. 2: 1 Jan 1994 (see s. 2(2)); s. 6: 11 Jan 1994 (see s. 2(3) and Gazette 11 Jan 1994 p. 43)
- | R & I Bank Amendment Act 1994 s. 13 | 6 of 1994 | 11 Apr 1994 | 26 Apr 1994 (see s. 2 and Gazette 26 Apr 1994 p. 1743)
- | Stamp Amendment Act 1994 | 39 of 1994 | 26 Aug 1994 | 1 Sep 1994 (see s. 2)
- | Stamp Amendment Act (No. 2) 1994 | 79 of 1994 | 22 Dec 1994 | 22 Dec 1994 (see s. 2)
- | Bank of Western Australia Act 1995 s. 44 | 14 of 1995 | 4 Jul 1995 | 1 Dec 1995 (see s. 2(3) and Gazette 29 Nov 1995 p. 5529)
- | Road Traffic Amendment Act 1995 s. 14 | 21 of 1995 | 13 Jul 1995 | 25 Nov 1995 (see s. 2 and Gazette 24 Nov 1995 p. 5390)
- | Stamp Amendment (Marketable Securities Duty) Act 1995 | 22 of 1995 | 13 Jul 1995 | 1 Jul 1995 (see s. 2)
- | Stamp Amendment Act 1995 | 41 of 1995 | 24 Oct 1995 | 24 Oct 1995 (see s. 2)
- | Acts Amendment (Vehicle Licences) Act 1995 Pt. 3 | 57 of 1995 | 20 Dec 1995 | 20 Dec 1995 (see s. 2)
- | Reprint of the Stamp Act 1921 as at 23 Jan 1996 (includes amendments listed above)
- | Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
- | Revenue Laws Amendment (Assessment) Act 1996 Pt. 5 | 20 of 1996 | 28 Jun 1996 | 28 Jun 1996 (see s. 2(1))
- | Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 | 25 Oct 1996 | 1 Oct 1997 (see s. 2 and Gazette 23 Sep 1997 p. 5357)
- | Revenue Laws Amendment (Assessment) Act (No. 2) 1996 Pt. 5 | 48 of 1996 | 25 Oct 1996 | Div. 1-2: 30 Nov 1995 (see s. 2(2)); Div. 3: 15 Jul 1996 (see s. 2(3)); Div. 4: 1 Oct 1996 (see s. 2(4)); Div. 5: 25 Oct 1996 (see s. 2(1))
- | Stamp Amendment Act 1996 | 57 of 1996 | 11 Nov 1996 | 20 Nov 1995 (see s. 2)
- | Strata Titles Amendment Act 1996 s. 40 | 61 of 1996 | 11 Nov 1996 | 20 Jan 1997 (see s. 2 and Gazette 17 Jan 1997 p. 405)
- | Road Traffic Amendment Act 1996 Pt. 3 Div. 8 | 76 of 1996 | 14 Nov 1996 | 1 Feb 1997 (see s. 2 and Gazette 31 Jan 1997 p. 613)
- | Transfer of Land Amendment Act 1996 s. 153(1) and (2) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
- | Revenue Laws Amendment (Assessment) Act 1997 Pt. 4 26-29 | 13 of 1997 | 25 Jun 1997 | Div. 2: 27 Dec 1996 (see s. 2(3)); Div. 3: 14 Jan 1997 (see s. 2(4)); Div. 4: 12 May 1997 (see s. 2(5)); Div. 1, 5-6: 25 Jun 1997 (see s. 2(1))
- | Acts Amendment (Land Administration) Act 1997 Pt. 55 and s. 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
- | Acts Amendment and Repeal (Family Court) Act 1997 s. 37 | 41 of 1997 | 9 Dec 1997 | 26 Sep 1998 (see s. 2)
- | Revenue Laws Amendment (Assessment) Act (No. 2) 1997 Pt. 3 | 51 of 1997 | 12 Dec 1997 | 12 Dec 1997 (see s. 2)
- | Statutes (Repeals and Minor Amendments) Act 1997 s. 113 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
- | Revenue Laws Amendment (Taxation) Act 1998 Pt. 3 | 18 of 1998 | 30 Jun 1998 | 1 Jul 1998 (see s. 2(2) and also take note of s. 2(4) and (5))
- | Revenue Laws Amendment (Assessment) Act 1998 Pt. 5, Pt. 6 Div. 4 and Pt. 7 | 22 of 1998 | 30 Jun 1998 | Pt. 5 Div. 2: 1 Oct 1997 (see s. 2(1)); Pt. 5 Div. 1 and 3 and Pt. 7: 30 Jun 1998 (see s. 2(1)); Pt. 5 Div. 4: 1 Jul 1998 (see s. 2(1)); Pt. 6 Div. 4: 2 Jul 1998 (see s. 2(1))
- | Revenue Laws Amendment (Assessment) Act (No. 2) 1998 Pt. 3 | 58 of 1998 | 18 Dec 1998 | s. 8: 30 Mar 1998 (see s. 2(2)); balance: 18 Dec 1998 (see s. 2(1))
- | Friendly Societies (Western Australia) Act 1999 s. 23 | 2 of 1999 | 25 Mar 1999 | 24 May 1999 (see s. 2 and Gazette 21 May 1999 p. 1999)
- | Revenue Laws Amendment (Assessment) Act 1999 Pt. 2 | 24 of 1999 | 29 Jun 1999 | s. 4: 1 Jul 1998 (see s. 2(2)); s. 5 and 6: 29 Jun 1999 (see s. 2(1)); s. 7: 1 Jul 1999 (see s. 2(3))
- | Revenue Laws Amendment (Taxation) Act 1999 Pt. 3 | 25 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(4))
- | Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 103 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
- | Reprint of the Stamp Act 1921 as at 22 Oct 1999 (includes amendments listed above)
- | Financial Relations Agreement (Consequential Provisions) Act 1999 Pt. 5 | 53 of 1999 | 13 Dec 1999 | Div. 1 and 3: 13 Dec 1999 (see s. 2(1)); Div 2: 1 Jul 2001 (see s. 2(2))
- | Acts Amendment (Continuing Lotteries) Act 2000 Pt. 2 | 6 of 2000 (as amended by No. 45 of 2002 s. 6) | 11 Apr 2000 | 1 Jul 2000 (see s. 2 and Gazette 23 Jun 2000 p. 3191)
- | Stamp Amendment Act 2000 | 28 of 2000 | 6 Jul 2000 | 6 Jul 2000 (see s. 2)
- | Revenue Laws Amendment (Assessment) Act 2000 Pt. 2 | 29 of 2000 | 6 Jul 2000 | 6 Jul 2000 (see s. 2(1))
- | Stamp Amendment Act (No. 3) 2000 | 60 of 2000 | 4 Dec 2000 | 10 Aug 2000 (see s. 2)
- | Revenue Laws Amendment (Assessment) Act 2001 Pt. 4 | 3 of 2001 | 26 Jun 2001 | Div. 1 and 2: 26 Jun 2001 (see s. 2(1)); Div. 3: 30 Jun 2001 (see s. 2(4)); Div. 4: 1 Jul 2001 (see s. 2(6))
- | Revenue Laws Amendment (Taxation) Act 2001 Pt. 3 | 4 of 2001 | 26 Jun 2001 | 30 Jun 2001 (see s. 2(4))
- | Corporations (Consequential Amendments) Act 2001 Pt. 48 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
- | Building Societies Amendment Act 2001 s. 51 | 12 of 2001 | 13 Jul 2001 | 13 Jul 2001 (see s. 2)
- | Reprint of the Stamp Act 1921 as at 3 Aug 2001 (includes amendments listed above) (correction in Gazette 23 Nov 2001 p. 6030)
- | Revenue Laws Amendment (Assessment) Act (No. 2) 2001 Pt. 5 and 6 | 36 of 2001 | 7 Jan 2002 | 7 Jan 2002 (see s. 2(1))
- | Revenue Laws Amendment (Taxation) Act (No. 2) 2001 Pt. 4 (s. 13-15) | 37 of 2001 | 7 Jan 2002 | s. 13: 7 Jan 2002 (see s. 2(1)); s. 14: 7 Jan 2002 (see s. 2(4)); s. 15: 7 Jan 2002 (see s. 2(5))
- | Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 65 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
- | Stamp Amendment (Budget) Act 2002 | 11 of 2002 | 28 Jun 2002 | 1 Jul 2002 (see s. 2)
- | Family Court Amendment Act 2002 s. 52 | 25 of 2002 | 25 Sep 2002 | 1 Dec 2002 (see s. 2 and Gazette 29 Nov 2002 p. 5651)
- | Taxation Administration (Consequential Provisions) (Taxing) Act 2002 Pt. 3 | 46 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
- | Stamp Amendment Act 2003 | 2 of 2003 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
- | Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 14 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth Gazette 24 Oct 2001 No. GN42)
- | Acts Amendment (Equality of Status) Act 2003 Pt. 55 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
- | Stamp Amendment (Budget) Act 2003 | 44 of 2003 | 30 Jun 2003 | s. 4: 1 Jul 2003 (see s. 2(2)); s. 5: 1 Jul 2003, but in relation to certain policies of insurance it comes into operation 8 May 2003 (see s. 2(3))
- | Reprint 14: The Stamp Act 1921 as at 12 Sep 2003 (includes amendments listed above) (correction in Gazette 20 Jul 2004 p. 2909)
- | Acts Amendment (Carbon Rights and Tree Plantation Agreements) Act 2003 Pt. 4 | 56 of 2003 | 29 Oct 2003 | 24 Mar 2004 (see s. 2 and Gazette 23 Mar 2004 p. 975)
- | Business Tax Review (Taxing) Act (No. 2) 2003 | 59 of 2003 | 26 Nov 2003 | Act other than s. 4(3): 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5721); s. 4(3): 1 Jul 2004 (see s. 2 and Gazette 21 May 2004 p. 1711)
- | Business Tax Review (Assessment) Act (No. 2) 2003 Pt. 2 Div. 1 and 2, s. 97-99 and s. 107 | 66 of 2003 | 5 Dec 2003 | s. 107: 1 Jul 2003 (see s. 2(5) and Gazette 27 Jun 2003 p. 2383); Pt. 2 Div. 1 and 2 (other than s. 70(1), 80, 81(1)(a), 82, 83, 85, 87(9), 93, and 94): 1 Jan 2004 (see s. 2(1) and (2) and Gazette 30 Dec 2003 p. 5721); s. 70(1): 1 Mar 2004 (see s. 2(1) and (2) and Gazette 30 Dec 2003 p. 5721); s. 80, 81(1)(a), 82, 83, 85, 87(9), 93 and 94: 1 Jul 2004 (see s. 2(1) and (2) and Gazette 21 May 2004 p. 1711); s. 97-99: 1 Jul 2004 (see s. 2(3))
- | Revenue Laws Amendment Act 2004 Pt. 3 | 11 of 2004 | 29 Jun 2004 | 1 Jul 2004 (see s. 2(2))
- | Revenue Laws Amendment and Repeal Act 2004 Pt. 5 | 12 of 2004 | 29 Jun 2004 | Div. 1 and 4 (other than s. 26 and 32): 29 Jun 2004 (see s. 2(1)); Div. 2 and 3 and s. 26 and 32: 1 Jul 2004 (see s. 2(2))
- | Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
- | Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 Pt. 4 | 83 of 2004 | 8 Dec 2004 | 8 Dec 2004 (see s. 2)
- | Reprint 15: The Stamp Act 1921 as at 3 Jun 2005 (includes amendments listed above)
- | Revenue Laws Amendment Act 2005 Pt. 3 | 11 of 2005 | 30 Aug 2005 | s. 27 & 29: 1 Jan 2004 (see s. 2(3)); s. 28: 1 Jul 2004 (see s. 2(4)); s. 8, 11(1), 13(2) & (3) and 18-25: 18 May 2005 (see s. 2(2)); balance: 30 Aug 2005 (see s. 2(1))
+Short title | Number and year | Assent | Commencement
+Stamp Act 1921 | 10 of 1922 | 31 Jan 1922 | 1 Apr 1922 (see s. 1 and Gazette 17 Mar 1922 p. 479)
+Stamp Act Amendment Act 1923 | 53 of 1923 | 22 Dec 1923 | 22 Dec 1923
+Stamp Act Amendment Act 1924 | 23 of 1924 | 31 Dec 1924 | 31 Dec 1924
+Ministers’ Titles Act 1925 s. 2 | 8 of 1925 | 24 Sep 1925 | 24 Sep 1925
+Stamp Act Amendment Act 1925 | 47 of 1925 | 31 Dec 1925 | 31 Dec 1925
+Stamp Act Amendment Act 1926 | 17 of 1926 | 6 Nov 1926 | 6 Nov 1926
+Stamp Act Amendment Act 1927 | 10 of 1927 | 6 Dec 1927 | 6 Dec 1927
+Stamp Act Amendment Act 1928 | 22 of 1928 | 21 Dec 1928 | 21 Dec 1928
+Stamp Act Amendment Act 1929 | 5 of 1929 | 7 Oct 1929 | 7 Oct 1929
+Stamp Act Amendment Act (No. 3) 1930 | 11 of 1930 | 19 Nov 1930 | 19 Nov 1930
+Stamp Act Amendment Act (No. 1) 1930 | 12 of 1930 | 19 Nov 1930 | 19 Nov 1930
+Stamp Act Amendment Act 1931 | 39 of 1931 | 26 Nov 1931 | 1 Dec 1931 (see s. 2 and Gazette 27 Nov 1931 p. 2499)
+Reprint of the Stamp Act 1921 in Appendix to session Volume 1933-34 (includes amendments listed above)
+Stamp Act Amendment Act 1941 | 35 of 1941 | 19 Dec 1941 | 19 Dec 1941
+Stamp Act Amendment Act 1942 | 40 of 1942 | 23 Dec 1942 | 23 Dec 1942
+Stamp Act Amendment Act 1944 | 20 of 1944 | 23 Dec 1944 | 23 Dec 1944
+Reprint of the Stamp Act 1921 approved 3 Apr 1950 in Volume 5 of Reprinted Acts (includes amendments listed above)
+Stamp Act Amendment Act 1950 | 11 of 1950 | 17 Nov 1950 | 17 Nov 1950
+Stamp Act Amendment Act 1954 | 5 of 1954 | 25 Aug 1954 | 25 Aug 1954
+Betting Control Act 1954 s. 3(2) | 63 of 1954 | 30 Dec 1954 | 1 Aug 1955 (see s. 2 and Gazette 29 Jul 1955 p. 1767)
+Stamp Act Amendment Act 1957 | 70 of 1957 | 6 Dec 1957 | 1 Feb 1958 (see s. 2 and Gazette 24 Jan 1958 p. 129)
+Reprint of the Stamp Act 1921 approved 1 May 1958 in Volume 12 of Reprinted Acts (includes amendments listed above)
+Stamp Act Amendment Act (No. 2) 1959 | 64 of 1959 | 10 Dec 1959 | 21 Dec 1959 (see s. 2 and Gazette 18 Dec 1959 p. 3337)
+Stamp Act Amendment Act 1959 | 72 of 1959 | 14 Dec 1959 | 1 Jan 1960 (see s. 2 and Gazette 24 Dec 1959 p. 3457)
+Stamp Act Amendment Act 1960 | 22 of 1960 | 11 Oct 1960 | 13 Mar 1961 (see s. 2 and Gazette 10 Mar 1961 p. 653)
+Stamp Act Amendment Act (No. 2) 1960 | 41 of 1960 | 3 Nov 1960 | 1 Jul 1961 (see s. 2 and Gazette 5 May 1961 p. 1069)
+Stamp Act Amendment Act 1961 | 21 of 1961 | 30 Oct 1961 | 30 Oct 1961
+Stamp Act Amendment Act 1962 | 20 of 1962 | 1 Oct 1962 | 1 Oct 1962
+Stamp Act Amendment Act (No. 2) 1962 | 60 of 1962 | 30 Nov 1962 | 1 Jan 1963 (see s. 2)
+Stamp Act Amendment Act (No. 3) 1962 | 69 of 1962 | 30 Nov 1962 | 30 Nov 1962
+Reprint of the Stamp Act 1921 approved 22 Apr 1963 (not in a Volume) (includes amendments listed above)
+Stamp Act Amendment Act 1963 | 7 of 1963 | 15 Oct 1963 | 15 Oct 1963
+Stamp Act Amendment Act (No. 2) 1963 | 37 of 1963 | 19 Nov 1963 | 31 Dec 1963 (see s. 2 and Gazette 31 Dec 1963 p. 4055)
+Stamp Act Amendment Act (No. 3) 1963 | 57 of 1963 | 17 Dec 1963 | 17 Dec 1963
+Stamp Act Amendment Act (No. 4) 1963 | 58 of 1963 | 17 Dec 1963 | 1 Jul 1964 (see s. 2 and Gazette 5 Jun 1964 p. 2335)
+Stamp Act Amendment Act 1965 | 72 of 1965 | 25 Nov 1965 | s. 7, 8, 16(d), (h)(i), (j)(i)-(iii), (v) and (o): 1 Dec 1965 (see s. 2(2)); balance other than s. 3, 14 and 16(c): 1 Jan 1966 (see s. 2(1)); s. 3, 14 and 16(c): 14 Feb 1966 (see s. 2(2))
+Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
+Reprint of the Stamp Act 1921 approved 14 Feb 1966 in Volume 19 of Reprinted Acts (includes amendments listed above)
+Stamp Act Amendment Act 1966 | 67 of 1966 | 12 Dec 1966 | s. 1, 2, 4 and 15(a), (b) and (f): 1 Jan 1967 (see s. 2(2)); balance: 1 Feb 1967 (see s. 2(1))
+Stamp Act Amendment Act (No. 2) 1966 | 90 of 1966 | 12 Dec 1966 | 1 Jan 1967 (see s. 2)
+Stamp Act Amendment Act (No. 3) 1966 | 93 of 1966 | 12 Dec 1966 | 1 Jul 1967 (see s. 2 and Gazette 23 Jun 1967 p. 1691)
+Stamp Act Amendment Act 1967 | 50 of 1967 | 24 Nov 1967 | 1 Dec 1967 (see s. 2)
+Reprint of the Stamp Act 1921 approved 27 Aug 1968 (not in a Volume) (includes amendments listed above)
+Stamp Act Amendment Act 1968 | 54 of 1968 | 13 Nov 1968 | 1 Jan 1969 (see s. 2 and Gazette 13 Dec 1968 p. 3809)
+Stamp Act Amendment Act 1969 | 113 of 1969 | 28 Nov 1969 | 1 Jan 1970 (see s. 2 and Gazette 16 Dec 1969 p. 4077)
+Acts Amendment (Commissioner of State Taxation) Act 1970 Pt. VI | 21 of 1970 | 8 May 1970 | 1 Jul 1970 (see s. 2 and Gazette 26 Jun 1970 p. 1831)
+Stamp Act Amendment Act 1970 | 102 of 1970 | 8 Dec 1970 | s. 12(a), (c)-(e): 1 Jul 1970 (see s. 2(3)); s. 5-11 and 15(b): 1 Oct 1970 (see s. 2(2)); s. 3, 4, 12(b), 13, 14, and 15(a): 1 Jan 1971 (see s. 2(1)(c))
+Stamp Act Amendment Act 1971 | 3 of 1971 | 13 Sep 1971 | 13 Sep 1971
+Stamp Act Amendment Act (No. 2) 1971 | 29 of 1971 | 1 Dec 1971 | 1 Jan 1972 (see s. 2 and Gazette 10 Dec 1971 p. 5169)
+Stamp Act Amendment Act 1972 | 32 of 1972 | 16 Jun 1972 | 1 Jul 1972 (see s. 2 and Gazette 30 Jun 1972 p. 2100)
+Metric Conversion Act 1972 | 94 of 1972 (as amended by No. 19 of 1973 s. 4) | 4 Dec 1972 | Relevant amendments (see Second Sch.) took effect on 1 Jul 1973 (see s. 4(2) and Gazette 22 Jun 1973 p. 2379)
+Stamp Act Amendment Act 1974 | 9 of 1974 | 27 Sep 1974 | s. 1, 2 and 7: 27 Sep 1974 (see s. 2(1)); s. 5, 6 and 9: 1 Dec 1974 (see s. 2(2)); s. 3, 4, 8 and 10: 1 Jan 1975 (see s. 2(2) and Gazette 22 Nov 1974 p. 5089)
+Stamp Act Amendment Act (No. 2) 1974 | 46 of 1974 | 18 Nov 1974 | 1 Dec 1974 (see s. 2 and Gazette 29 Nov 1974 p. 5167)
+Reprint of the Stamp Act 1921 approved 20 Feb 1976 (includes amendments listed above)
+Stamp Act Amendment Act 1976 | 96 of 1976 | 12 Nov 1976 | 1 Jan 1977 (see s. 2)
+Stamp Act Amendment Act 1977 | 63 of 1977 | 23 Nov 1977 | 23 Nov 1977
+Stamp Act Amendment Act 1979 | 37 of 1979 | 18 Oct 1979 | s. 1, 2, 42 and 61: 18 Oct 1979 (see s. 2(2)); balance: 1 Jan 1980 (see s. 2(1) and Gazette 7 Dec 1979 p. 3769)
+Credit Unions (Consequential Provisions) Act 1979 Pt. 1 | 47 of 1979 | 7 Nov 1979 | 1 Jul 1980 (see s. 2)
+Reprint of the Stamp Act 1921 approved 25 Mar 1980 (includes amendments listed above except those in the Credit Unions (Consequential Provisions) Act 1979)
+Stamp Amendment Act 1980 | 63 of 1980 | 26 Nov 1980 | 4 Nov 1980 (see s. 1(4))
+Stamp Amendment Act 1981 | 81 of 1981 | 9 Nov 1981 | Act other than s. 3 and 8: 1 Dec 1981 (see s. 2(1)); s. 3 and 8: 1 Jan 1982 (see s. 2(2))
+Acts Amendment (Traffic Board) Act 1981 Pt. VIII | 106 of 1981 | 4 Dec 1981 | 2 Feb 1982 (see s. 2)
+Stamp Amendment Act 1982 | 1 of 1982 | 8 Apr 1982 | 8 Apr 1982
+Companies (Consequential Amendments) Act 1982 s. 28 | 10 of 1982 | 14 May 1982 | 1 Jul 1982 (see s. 2(1) and Gazette 25 Jun 1982 p. 2079)
+Stamp Amendment Act (No. 2) 1982 | 15 of 1982 | 14 May 1982 | Act other than s. 4: 8 Apr 1982 (see s. 2(1)); s. 4: 14 May 1982 (see s. 2(2))
+Stamp Amendment Act (No. 3) 1982 | 45 of 1982 | 26 Aug 1982 | 24 Dec 1981 (see s. 2)
+Stamp Amendment Act (No. 4) 1982 | 93 of 1982 | 22 Nov 1982 | Act other than s. 3-6, 7(1) and 8: 22 Nov 1982 (see s. 2(1)); s. 3-6, 7(1) and 8: 1 Jan 1983 (see s. 2(2))
+Stamp Amendment Act (No. 5) 1982 | 99 of 1982 | 24 Nov 1982 | 1 Jan 1983 (see s. 2)
+Stamp Amendment Act (No. 6) 1982 | 112 of 1982 | 8 Dec 1982 | 26 Oct 1982 (see s. 2)
+Stamp Amendment Act 1983 | 14 of 1983 | 31 Oct 1983 | Act other than s. 6(d): 1 Nov 1983 (see s. 2(2)); s. 6(d): 1 Dec 1983 (see s. 2(1) and Gazette 25 Nov 1983 p. 4649)
+Stamp Amendment Act (No. 2) 1983 | 61 of 1983 | 13 Dec 1983 | s. 1-4: 13 Dec 1983 (see s. 2(1)); balance: 1 Jan 1984 (see s. 2(2))
+Stamp Amendment Act 1984 | 81 of 1984 | 7 Dec 1984 | 1 Jan 1985 (see s. 2 and Gazette 28 Dec 1984 p. 4197)
+Stamp Amendment Act (No. 2) 1984 | 109 of 1984 | 19 Dec 1984 | 1 Jan 1985 (see s. 2)
+Acts Amendment (Lotteries) Act 1985 Pt. V | 19 of 1985 | 19 Apr 1985 | 19 Apr 1985 (see s. 2(1))
+Reprint of the Stamp Act 1921 as at 9 Jun 1985 (includes amendments listed above)
+Stamp Amendment Act 1985 | 84 of 1985 | 4 Dec 1985 | 1 Jan 1986 (see s. 2)
+Stamp Amendment Act (No. 2) 1985 | 85 of 1985 | 4 Dec 1985 | 1 Jan 1986 (see s. 2)
+Stamp Amendment Act 1986 | 98 of 1986 | 11 Dec 1986 | s. 4-10: 11 Nov 1986 (see s. 2(2)); s. 13-18, 20, 21(1)(a)(i) and 22: 11 Dec 1986 (see s. 2(1)); s. 21(1)(b) and (2): 1 Jan 1987 (see s. 2(4) and Gazette 19 Dec 1986 p. 4859); s. 11 and 19: 8 Jan 1987 (see s. 2(3)); s. 12 and 21(1)(a)(ii): 1 Feb 1987 (see s. 2(4) and Gazette 19 Dec 1986 p. 4859)
+Stamp Amendment Act 1987 | 33 of 1987 | 30 Jun 1987 | Act other than s. 5, 15 and 19: 30 Jun 1987 (see s. 2(1)); s. 5, 15 and 19: 24 Jul 1987 (see s. 2(2) and Gazette 24 Jul 1987 p. 2813)
+Stamp Amendment Act (No. 2) 1987 | 100 of 1987 | 18 Dec 1987 | 1 Jan 1988 (see s. 2)
+Reprint of the Stamp Act 1921 as at 21 Mar 1989 (includes amendments listed above)
+Stamp Amendment Act (No. 2) 1989 | 3 of 1989 | 20 Apr 1989 | 20 Apr 1989 (see s. 2)
+Stamp Amendment Act (No. 4) 1989 | 16 of 1989 (as amended by No. 41 of 1989 s. 28) | 16 Nov 1989 | s. 4(2): 1 Nov 1989 (see s. 2(2) and Gazette 29 Dec 1989 p. 4665); s. 4(4): 1 Nov 1989 (see s. 2(4)); s. 4(1): 16 Nov 1989 (see s. 2(1)); s. 4(3): 1 Jul 1990 (see s. 2(3) and Gazette 8 Jun 1990 p. 2615)
+Taxation (Reciprocal Powers) Act 1989 s. 16 | 18 of 1989 | 1 Dec 1989 | 5 Oct 1990 (see s. 2 and Gazette 5 Oct 1990 p. 5122)
+Stamp Amendment Act (No. 3) 1989 | 41 of 1989 | 21 Dec 1989 | s. 27(3): 30 Jun 1989 (see s. 2(4)); s. 11, 13, 20(a) and (b), 24 and 26: 1 Nov 1989 (see s. 2(2)); s. 4, 10(a)-(c), 12, 20(c) and 27(1): 1 Dec 1989 (see s. 2(3)(b)); s. 1-9, 10(d), 12, 14-16, 18(b)-(e), 21-23, 25, 27(4) and 28: 21 Dec 1989 (see s. 2(5)); s. 17, 18(a), (f) and (g), 19 and 27(2): 1 Jul 1990 (see s. 2(1) and Gazette 8 Jun 1990 p. 2615)
+Stamp Amendment Act 1990 | 20 of 1990 | 24 Jul 1990 | 24 Jul 1990 (see s. 2)
+Acts Amendment (Betting Tax and Stamp Duty) Act (No. 2) 1990 Pt. 2 | 58 of 1990 | 17 Dec 1990 | 1 Aug 1989 (see s. 2)
+R & I Bank Act 1990 s. 45(1) | 73 of 1990 | 20 Dec 1990 | 1 Jan 1991 (see s. 2(2) and Gazette 28 Dec 1990 p. 6369)
+Stamp Amendment Act 1991 | 52 of 1991 | 17 Dec 1991 | s. 4 and 6: 29 Aug 1991 (see s. 2(2)); balance: 17 Dec 1991 (see s. 2(1))
+Stamp Amendment Act (No. 2) 1991 | 53 of 1991 | 17 Dec 1991 | 17 Dec 1991 (see s. 2)
+SGIO Privatisation Act 1992 s. 29 | 49 of 1992 | 9 Dec 1992 | 7 Jan 1993 (see s. 2(3) and Gazette 7 Jan 1993 p. 15)
+Stamp Amendment Act 1993 | 42 of 1993 | 20 Dec 1993 | Act other than s. 6 and Pt. 2: 20 Dec 1993 (see s. 2(1)); Pt. 2: 1 Jan 1994 (see s. 2(2)); s. 6: 11 Jan 1994 (see s. 2(3) and Gazette 11 Jan 1994 p. 43)
+R & I Bank Amendment Act 1994 s. 13 | 6 of 1994 | 11 Apr 1994 | 26 Apr 1994 (see s. 2 and Gazette 26 Apr 1994 p. 1743)
+Stamp Amendment Act 1994 | 39 of 1994 | 26 Aug 1994 | 1 Sep 1994 (see s. 2)
+Stamp Amendment Act (No. 2) 1994 | 79 of 1994 | 22 Dec 1994 | 22 Dec 1994 (see s. 2)
+Bank of Western Australia Act 1995 s. 44 | 14 of 1995 | 4 Jul 1995 | 1 Dec 1995 (see s. 2(3) and Gazette 29 Nov 1995 p. 5529)
+Road Traffic Amendment Act 1995 s. 14 | 21 of 1995 | 13 Jul 1995 | 25 Nov 1995 (see s. 2 and Gazette 24 Nov 1995 p. 5390)
+Stamp Amendment (Marketable Securities Duty) Act 1995 | 22 of 1995 | 13 Jul 1995 | 1 Jul 1995 (see s. 2)
+Stamp Amendment Act 1995 | 41 of 1995 | 24 Oct 1995 | 24 Oct 1995 (see s. 2)
+Acts Amendment (Vehicle Licences) Act 1995 Pt. 3 | 57 of 1995 | 20 Dec 1995 | 20 Dec 1995 (see s. 2)
+Reprint of the Stamp Act 1921 as at 23 Jan 1996 (includes amendments listed above)
+Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+Revenue Laws Amendment (Assessment) Act 1996 Pt. 5 | 20 of 1996 | 28 Jun 1996 | 28 Jun 1996 (see s. 2(1))
+Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 | 25 Oct 1996 | 1 Oct 1997 (see s. 2 and Gazette 23 Sep 1997 p. 5357)
+Revenue Laws Amendment (Assessment) Act (No. 2) 1996 Pt. 5 | 48 of 1996 | 25 Oct 1996 | Div. 1-2: 30 Nov 1995 (see s. 2(2)); Div. 3: 15 Jul 1996 (see s. 2(3)); Div. 4: 1 Oct 1996 (see s. 2(4)); Div. 5: 25 Oct 1996 (see s. 2(1))
+Stamp Amendment Act 1996 | 57 of 1996 | 11 Nov 1996 | 20 Nov 1995 (see s. 2)
+Strata Titles Amendment Act 1996 s. 40 | 61 of 1996 | 11 Nov 1996 | 20 Jan 1997 (see s. 2 and Gazette 17 Jan 1997 p. 405)
+Road Traffic Amendment Act 1996 Pt. 3 Div. 8 | 76 of 1996 | 14 Nov 1996 | 1 Feb 1997 (see s. 2 and Gazette 31 Jan 1997 p. 613)
+Transfer of Land Amendment Act 1996 s. 153(1) and (2) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
+Revenue Laws Amendment (Assessment) Act 1997 Pt. 4 26-29 | 13 of 1997 | 25 Jun 1997 | Div. 2: 27 Dec 1996 (see s. 2(3)); Div. 3: 14 Jan 1997 (see s. 2(4)); Div. 4: 12 May 1997 (see s. 2(5)); Div. 1, 5-6: 25 Jun 1997 (see s. 2(1))
+Acts Amendment (Land Administration) Act 1997 Pt. 55 and s. 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
+Acts Amendment and Repeal (Family Court) Act 1997 s. 37 | 41 of 1997 | 9 Dec 1997 | 26 Sep 1998 (see s. 2)
+Revenue Laws Amendment (Assessment) Act (No. 2) 1997 Pt. 3 | 51 of 1997 | 12 Dec 1997 | 12 Dec 1997 (see s. 2)
+Statutes (Repeals and Minor Amendments) Act 1997 s. 113 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
+Revenue Laws Amendment (Taxation) Act 1998 Pt. 3 | 18 of 1998 | 30 Jun 1998 | 1 Jul 1998 (see s. 2(2) and also take note of s. 2(4) and (5))
+Revenue Laws Amendment (Assessment) Act 1998 Pt. 5, Pt. 6 Div. 4 and Pt. 7 | 22 of 1998 | 30 Jun 1998 | Pt. 5 Div. 2: 1 Oct 1997 (see s. 2(1)); Pt. 5 Div. 1 and 3 and Pt. 7: 30 Jun 1998 (see s. 2(1)); Pt. 5 Div. 4: 1 Jul 1998 (see s. 2(1)); Pt. 6 Div. 4: 2 Jul 1998 (see s. 2(1))
+Revenue Laws Amendment (Assessment) Act (No. 2) 1998 Pt. 3 | 58 of 1998 | 18 Dec 1998 | s. 8: 30 Mar 1998 (see s. 2(2)); balance: 18 Dec 1998 (see s. 2(1))
+Friendly Societies (Western Australia) Act 1999 s. 23 | 2 of 1999 | 25 Mar 1999 | 24 May 1999 (see s. 2 and Gazette 21 May 1999 p. 1999)
+Revenue Laws Amendment (Assessment) Act 1999 Pt. 2 | 24 of 1999 | 29 Jun 1999 | s. 4: 1 Jul 1998 (see s. 2(2)); s. 5 and 6: 29 Jun 1999 (see s. 2(1)); s. 7: 1 Jul 1999 (see s. 2(3))
+Revenue Laws Amendment (Taxation) Act 1999 Pt. 3 | 25 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(4))
+Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 103 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
+Reprint of the Stamp Act 1921 as at 22 Oct 1999 (includes amendments listed above)
+Financial Relations Agreement (Consequential Provisions) Act 1999 Pt. 5 | 53 of 1999 | 13 Dec 1999 | Div. 1 and 3: 13 Dec 1999 (see s. 2(1)); Div 2: 1 Jul 2001 (see s. 2(2))
+Acts Amendment (Continuing Lotteries) Act 2000 Pt. 2 | 6 of 2000 (as amended by No. 45 of 2002 s. 6) | 11 Apr 2000 | 1 Jul 2000 (see s. 2 and Gazette 23 Jun 2000 p. 3191)
+Stamp Amendment Act 2000 | 28 of 2000 | 6 Jul 2000 | 6 Jul 2000 (see s. 2)
+Revenue Laws Amendment (Assessment) Act 2000 Pt. 2 | 29 of 2000 | 6 Jul 2000 | 6 Jul 2000 (see s. 2(1))
+Stamp Amendment Act (No. 3) 2000 | 60 of 2000 | 4 Dec 2000 | 10 Aug 2000 (see s. 2)
+Revenue Laws Amendment (Assessment) Act 2001 Pt. 4 | 3 of 2001 | 26 Jun 2001 | Div. 1 and 2: 26 Jun 2001 (see s. 2(1)); Div. 3: 30 Jun 2001 (see s. 2(4)); Div. 4: 1 Jul 2001 (see s. 2(6))
+Revenue Laws Amendment (Taxation) Act 2001 Pt. 3 | 4 of 2001 | 26 Jun 2001 | 30 Jun 2001 (see s. 2(4))
+Corporations (Consequential Amendments) Act 2001 Pt. 48 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
+Building Societies Amendment Act 2001 s. 51 | 12 of 2001 | 13 Jul 2001 | 13 Jul 2001 (see s. 2)
+Reprint of the Stamp Act 1921 as at 3 Aug 2001 (includes amendments listed above) (correction in Gazette 23 Nov 2001 p. 6030)
+Revenue Laws Amendment (Assessment) Act (No. 2) 2001 Pt. 5 and 6 | 36 of 2001 | 7 Jan 2002 | 7 Jan 2002 (see s. 2(1))
+Revenue Laws Amendment (Taxation) Act (No. 2) 2001 Pt. 4 (s. 13-15) | 37 of 2001 | 7 Jan 2002 | s. 13: 7 Jan 2002 (see s. 2(1)); s. 14: 7 Jan 2002 (see s. 2(4)); s. 15: 7 Jan 2002 (see s. 2(5))
+Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 65 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
+Stamp Amendment (Budget) Act 2002 | 11 of 2002 | 28 Jun 2002 | 1 Jul 2002 (see s. 2)
+Family Court Amendment Act 2002 s. 52 | 25 of 2002 | 25 Sep 2002 | 1 Dec 2002 (see s. 2 and Gazette 29 Nov 2002 p. 5651)
+Taxation Administration (Consequential Provisions) (Taxing) Act 2002 Pt. 3 | 46 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
+Stamp Amendment Act 2003 | 2 of 2003 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
+Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 14 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth Gazette 24 Oct 2001 No. GN42)
+Acts Amendment (Equality of Status) Act 2003 Pt. 55 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
+Stamp Amendment (Budget) Act 2003 | 44 of 2003 | 30 Jun 2003 | s. 4: 1 Jul 2003 (see s. 2(2)); s. 5: 1 Jul 2003, but in relation to certain policies of insurance it comes into operation 8 May 2003 (see s. 2(3))
+Reprint 14: The Stamp Act 1921 as at 12 Sep 2003 (includes amendments listed above) (correction in Gazette 20 Jul 2004 p. 2909)
+Acts Amendment (Carbon Rights and Tree Plantation Agreements) Act 2003 Pt. 4 | 56 of 2003 | 29 Oct 2003 | 24 Mar 2004 (see s. 2 and Gazette 23 Mar 2004 p. 975)
+Business Tax Review (Taxing) Act (No. 2) 2003 | 59 of 2003 | 26 Nov 2003 | Act other than s. 4(3): 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5721); s. 4(3): 1 Jul 2004 (see s. 2 and Gazette 21 May 2004 p. 1711)
+Business Tax Review (Assessment) Act (No. 2) 2003 Pt. 2 Div. 1 and 2, s. 97-99 and s. 107 | 66 of 2003 | 5 Dec 2003 | s. 107: 1 Jul 2003 (see s. 2(5) and Gazette 27 Jun 2003 p. 2383); Pt. 2 Div. 1 and 2 (other than s. 70(1), 80, 81(1)(a), 82, 83, 85, 87(9), 93, and 94): 1 Jan 2004 (see s. 2(1) and (2) and Gazette 30 Dec 2003 p. 5721); s. 70(1): 1 Mar 2004 (see s. 2(1) and (2) and Gazette 30 Dec 2003 p. 5721); s. 80, 81(1)(a), 82, 83, 85, 87(9), 93 and 94: 1 Jul 2004 (see s. 2(1) and (2) and Gazette 21 May 2004 p. 1711); s. 97-99: 1 Jul 2004 (see s. 2(3))
+Revenue Laws Amendment Act 2004 Pt. 3 | 11 of 2004 | 29 Jun 2004 | 1 Jul 2004 (see s. 2(2))
+Revenue Laws Amendment and Repeal Act 2004 Pt. 5 | 12 of 2004 | 29 Jun 2004 | Div. 1 and 4 (other than s. 26 and 32): 29 Jun 2004 (see s. 2(1)); Div. 2 and 3 and s. 26 and 32: 1 Jul 2004 (see s. 2(2))
+Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
+Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 Pt. 4 | 83 of 2004 | 8 Dec 2004 | 8 Dec 2004 (see s. 2)
+Reprint 15: The Stamp Act 1921 as at 3 Jun 2005 (includes amendments listed above)
+Revenue Laws Amendment Act 2005 Pt. 3 | 11 of 2005 | 30 Aug 2005 | s. 27 & 29: 1 Jan 2004 (see s. 2(3)); s. 28: 1 Jul 2004 (see s. 2(4)); s. 8, 11(1), 13(2) & (3) and 18-25: 18 May 2005 (see s. 2(2)); balance: 30 Aug 2005 (see s. 2(1))
 Revenue Laws Amendment Act (No. 2) 2005 Pt. 3 | 12 of 2005 | 30 Aug 2005 | 30 Aug 2005 (see s. 2(1))
 Stamp Amendment Act 2005 | 34 of 2005 | 12 Dec 2005 | Act other than Pt. 3: 12 Dec 2005 (see s. 2); Pt. 3: 1 Jan 2006 (see s. 2(2))
-Stamp Amendment (Assessment) Act 2005 s. 1-5 and 7 | 36 of 2005 | 12 Dec 2005 | s. 1-4 and 7: 12 Dec 2005 (see s. 2(1)); s. 5: 1 Jul 1997 (see s. 2(2))
+Stamp Amendment (Taxing) Act 2005 | 35 of 2005 | 12 Dec 2005 | 1 Mar 2006 (see s. 2 and Gazette 24 Jan 2006 p. 429)
+Stamp Amendment (Assessment) Act 2005 | 36 of 2005 | 12 Dec 2005 | s. 1-4 and 7: 12 Dec 2005 (see s. 2(1)); s. 5: 1 Jul 1997 (see s. 2(2)) s. 6 and 8: 1 Mar 2006 (see s. 2(3) and Gazette 24 Jan 2006 p. 429)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 30 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Stamp Amendment (Taxing) Act 2005 s. 4 and 5 | 35 of 2005 | 12 Dec 2005 | 1 Mar 2006 (see s. 2 and Gazette 24 Jan 2006 p. 429)
-Stamp Amendment (Assessment) Act 2005 s. 6 and 8 | 36 of 2005 | 12 Dec 2005 | 1 Mar 2006 (see s. 2(3) and Gazette 24 Jan 2006 p. 429)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 The Revenue Laws Amendment and Repeal Act 2004 s. 19 and 32 read as follows:
 “
@@ -944,19 +943,8 @@ The Stamp Amendment Act 2005 s. 10(2) reads as follows:
 “
 (2) The Stamp Act 1921 sections 86A(1) and 86B(1) do not apply to mortgages (as defined in the Stamp Act 1921 section 82) executed before 1 January 2006.
 ”.
-On the date as at which this compilation was prepared, the Stamp Amendment (Taxing) Act 2005 s. 4 and 5 had not come into operation. They read as follows:
-“
-4.Second Schedule amended
-The Second Schedule item 16 is deleted and the following item is inserted instead —
-“
-16. | POLICY OF INSURANCE
- | (1)A return under section 94 ……. | See section 94A | The insurer
- | (2)A statement under section 95A ………………….. | See section 95A | The person required to lodge the statement
-”.
-5.Third Schedule amended
-The Third Schedule item 8 is deleted.
-”.
-The Stamp Amendment (Assessment) Act 2005 s. 7 reads as follows:
+Footnote no longer applicable.
+The Stamp Amendment (Assessment) Act 2005 s. 7 and 8 read as follows:
 “
 7.Transitional provisions — offshore risk policies
 (1) This section applies to the issue or renewal of a policy of insurance that effects offshore risk insurance, or both offshore risk insurance and other insurance, where the issue or renewal was effected on or after 1 July 1997 but before this Act received the Royal Assent.
@@ -970,166 +958,6 @@ The Stamp Amendment (Assessment) Act 2005 s. 7 reads as follows:
 “original assessment” has the meaning given to that term in the Taxation Administration Act 2003;
 “policy of insurance” has the meaning given to that term in Part IIIF of the Stamp Act 1921 as in force immediately before this Act received the Royal Assent;
 “reassessment” means a reassessment as defined in the Taxation Administration Act 2003, being a reassessment of the amount of duty chargeable in respect of the issue or renewal of a policy of insurance to which this section applies.
-”.
-On the date as at which this compilation was prepared, the Stamp Amendment (Assessment) Act 2005 s. 6 and 8 had not come into operation. They read as follows:
-“
-6.Part IIIF replaced
-Part IIIF is repealed and the following Part is inserted instead —
-“
-Part IIIF — Insurance
-Division 1 — Interpretation in Part IIIF and connection to the State
-92.Terms used in this Part
-In this Part, unless the contrary intention appears —
-“accident insurance” means insurance for any payment agreed to be made on the death of any person only from accident or violence or otherwise than from a natural cause or as compensation for personal injury;
-“contract of insurance” means a contract of insurance that effects general insurance (whether or not it also effects other kinds of insurance);
-“Defence Service Homes Insurance Scheme” has the meaning given to that term in section 38 of the Defence Service Homes Act 1918 of the Commonwealth;
-“Division 4 insurer” has the meaning given to that term in section 95;
-“financial services licensee” has the meaning given to that term in section 761A of the Corporations Act;
-“general insurance” has the meaning given to that term in section 92A;
-“health insurance business” has the meaning given to that term in section 67 of the National Health Act 1953 of the Commonwealth;
-“instalment” means a portion of a premium;
-“insurer” means the Insurance Commission of Western Australia or a person who —
-(a)writes general insurance otherwise than as an intermediary of an insurer (including a Division 4 insurer); and
-(b)is either —
-(i)authorised under the Insurance Act 1973 of the Commonwealth; or
-(ii)registered under the Life Insurance Act 1995 of the Commonwealth;
-“intermediary”, of an insurer, means —
-(a)a representative of the insurer; or
-(b)a financial services licensee, who is not otherwise a representative of the insurer, who arranges or effects insurance for or with the insurer;
-“life insurance” means insurance provided under or in accordance with a policy of insurance or assurance on any life or lives or on any event or contingency relating to or depending on any life or lives, other than a policy of accident insurance;
-“offshore risk insurance” means any kind of insurance that is applicable to —
-(a)property outside Australia; or
-(b)any liability, loss or damage that arises or is brought about as a result of the occurrence of an event outside Australia;
-“premium” means the total consideration paid to an insurer (including a Division 4 insurer) by or on behalf of an insured person to effect insurance, without deductions for any amounts paid or payable, or allowed or allowable, by way of commission or discount to an intermediary of the insurer, but does not include —
-(a)an amount paid to an intermediary of the insurer by the insured person as a fee if the amount can be clearly identified as a fee; or
-(b)an amount paid on account of duty under this Part or interstate duty;
-“registered insurer” means an insurer who is registered under section 93A;
-“registered organisation” has the meaning given to that term in section 4 of the National Health Act 1953 of the Commonwealth;
-“reinsurance” means the indemnification of one party by another against liability or payment arising under a contract or contracts of insurance or reinsurance;
-“representative” has the meaning given to that term in section 910A of the Corporations Act;
-“return period”, of a registered insurer, has the meaning given in section 94B.
-92A.Meaning of general insurance and connection to the State
-(1) “General insurance” means any kind of insurance that is applicable to —
-(a) property in Western Australia; or
-(b) a risk, contingency or event concerning an act or omission that, in the normal course of events, may occur within, or partly within, Western Australia,
-or both.
-(2) General insurance does not include any of the following —
-(a) life insurance;
-(b) insurance against an employer’s liability to pay compensation under the Workers’ Compensation and Injury Management Act 1981;
-(c) reinsurance;
-(d) insurance in respect of goods in the course of being transported, whether by rail, road, air or sea, and whether within Western Australia or elsewhere;
-(e) insurance in respect of a marine hull used primarily for commercial purposes;
-(f) insurance effected by an exempt body (as defined in section 119);
-(g) insurance issued by a registered organisation in the course of its health insurance business;
-(h) insurance under the Defence Service Homes Insurance Scheme;
-(i) offshore risk insurance;
-(j) insurance of a class prescribed by the regulations.
-92B.Additional insurance — life riders
-(1) This section does not apply to a policy of life insurance unless the insured person’s place of residence is in Western Australia.
-(2) If —
-(a) a policy of life insurance, in addition to providing the insurance referred to in the definition of “life insurance” in section 92, also provides for the payment of a benefit on the happening of a contingency or event that does not relate to or depend on a life or lives (the “additional insurance”); and
-(b) an identifiable part of the premium payable in respect of the policy is attributable to the additional insurance,
-then the additional insurance provided under or in accordance with the policy is to be taken to be general insurance and not life insurance.
-(3) Subsection (2) applies —
-(a) whether or not the life insurance and the additional insurance are distinct matters for the purposes of section 19; and
-(b) whether or not payment of a benefit under the additional insurance component of the policy —
-(i) will or may reduce the benefit payable under the life insurance component of the policy; or
-(ii) will or may terminate the policy.
-92C.Payment of premiums
-(1) For the purposes of this Part, a premium, or an instalment, is paid when the first of the following events occurs —
-(a) the premium or instalment is received by the insurer; or
-(b) an account of the insurer is credited with the amount of the premium or instalment.
-(2) A premium, or an instalment (apart from the case where the premium or instalment is received directly by an insurer) is taken to have been received by an insurer if it is received by another person on the insurer’s behalf.
-(3) In this section, a reference to an insurer includes a reference to a Division 4 insurer.
-Division 2 — Registration of insurers
-93.Insurers to be registered
-(1) On becoming an insurer, the insurer must apply to be registered under section 93A.
-(2) An application for registration must be made in an approved form on or before the 21st day after the end of the month in which the insurer became an insurer.
-Penalty: $20 000.
-93A.Registration of insurers
-(1) The Commissioner must register an insurer that applies for registration.
-(2) The Commissioner must register an insurer that has not applied for registration if satisfied that the insurer ought to be registered for the purposes of this Part.
-(3) The Commissioner must give notice to an insurer of its registration.
-93B.Cancelling registration of insurers
-(1) The Commissioner may cancel the registration of an insurer on his or her own initiative or at the request of the insurer.
-(2) The Commissioner is not to cancel an insurer’s registration unless satisfied that registration of the insurer is no longer necessary for the purposes of this Part.
-(3) A cancellation has effect on and from the day specified in the notice of cancellation of registration, which may be a day that is earlier than the day on which the notice is issued.
-Division 3 — Duty payable by insurers
-94.Lodging returns and paying duty
-(1) A registered insurer must —
-(a) lodge a return in an approved form for each return period of the insurer; and
-(b) pay the duty payable on the return (if any),
-on or before the 21st day after the end of the return period.
-Penalty: $5 000.
-(2) The insurer must lodge the return even if no duty is payable on the return.
-(3) On becoming an insurer, the insurer must, for the month in which the insurer became an insurer and for each subsequent month until the month in which the insurer becomes a registered insurer or ceases to be an insurer —
-(a) lodge a return in an approved form for the month; and
-(b) pay the duty payable on the return (if any),
-on or before the 21st day after the end of the month.
-Penalty: $5 000.
-(4) The month referred to in subsection (3) is to be treated as a return period for the purposes of this Part.
-94A.Calculating the amount of duty payable on a return
-(1) The amount of duty payable on the return for a return period is 10% of the assessable amount.
-(2) The assessable amount for a return period of an insurer is the sum of each premium or instalment (to the extent to which the premium or instalment is attributable to general insurance) paid to the insurer in the return period in respect of contracts of insurance entered into by or on behalf of the insurer.
-(3) Section 96 has an effect on the extent to which the premium or instalment is attributable to general insurance.
-94B.Return period of an insurer
-The return period of a registered insurer is —
-(a) one month, if a special tax return arrangement is not in force; or
-(b) the return period provided in a special tax return arrangement in force under section 49 of the Taxation Administration Act 2003.
-Division 4 — Duty payable by insured persons
-95.Meaning of insurer in this Division
-In this Division —
-“Division 4 insurer” means a person, other than the Insurance Commission of Western Australia, who writes general insurance, otherwise than as an intermediary of an insurer (including a Division 4 insurer), but who is not authorised under the Insurance Act 1973 of the Commonwealth and not registered under the Life Insurance Act 1995 of the Commonwealth.
-95A.Insured person to lodge statement and pay duty
-(1) If a person obtains, effects or renews general insurance with a Division 4 insurer, the person must —
-(a) lodge a statement in an approved form; and
-(b) pay the duty payable on the statement,
-on or before the 21st day after the end of the month, or each month, in which the person paid the premium or an instalment for the insurance.
-Penalty: $5 000.
-(2) The amount of duty payable on the statement is 10% of the proportion of the premium or instalment that is attributable to general insurance.
-(3) Section 96 has an effect on the proportion of the premium or instalment that is attributable to general insurance.
-(4) This section does not require a separate statement to be prepared if the document evidencing the insurance contains all the information required in a statement, in which case, the document is taken to be the statement.
-95B.Insurer and intermediary to notify Commissioner of contracts of insurance
-(1) A Division 4 insurer must, for each month in which the insurer is paid a premium or an instalment in respect of a contract of insurance entered into by or on behalf of the insurer, notify the Commissioner in the approved form, of —
-(a) each such contract of insurance for which the insurer has been paid a premium or instalment in that month; and
-(b) the amounts of those premiums or instalments,
-on or before the 21st day after the end of the month.
-Penalty: $5 000.
-(2) An intermediary of a Division 4 insurer must, for each month in which the intermediary receives a premium or an instalment in respect of a contract of insurance for a Division 4 insurer, notify the Commissioner in the approved form, of —
-(a) each contract of insurance for which the intermediary has received a premium or instalment for a Division 4 insurer; and
-(b) the amounts of those premiums or instalments,
-on or before the 21st day after the end of the month.
-Penalty: $5 000.
-(3) If a person complies with a requirement in subsection (1) or (2) in respect of a contract of insurance then the requirement in the other subsection is to be taken to have been complied with.
-Division 5 — General provisions
-96.Apportionment of premiums and instalments
-(1) This section applies to a contract of insurance that effects both general insurance and other insurance.
-(2) If the proportion of the premium that is attributable to general insurance is not ascertainable at the time the contract is entered into, the proportion is the proportion calculated in accordance with the applicable method of apportionment from time to time established as a practice of the Commissioner and published under section 127 of the Taxation Administration Act 2003.
-(3) A method of apportionment published under section 127 of the Taxation Administration Act 2003 may, for a particular class of contracts of insurance, have the effect that the proportion of the premium that is attributable to general insurance is zero.
-(4) If the Commissioner is satisfied that a premium or instalment has not been, or cannot be, appropriately apportioned under this section, the Commissioner may —
-(a) determine the appropriate proportions; and
-(b) if necessary — reassess the amount of duty payable in respect of the contract of insurance.
-(5) The extent to which an instalment is attributable to general insurance is the same as the extent to which the premium is attributable to general insurance under this section.
-96A.Refunds
-(1) If —
-(a) an insurer has paid duty in respect of a contract of insurance in accordance with section 94A; and
-(b) the insurer has refunded some or all of the premium for the contract,
-the insurer is entitled to a refund of the duty paid to the extent to which the premium was refunded.
-(2) If —
-(a) a person has paid duty in respect of a contract of insurance in accordance with section 95A(2); and
-(b) the Division 4 insurer has refunded some or all of the premium for the contract,
-the person is entitled to a refund of the duty paid to the extent to which the premium was refunded.
-(3) For the purposes of this section, an insurer (including a Division 4 insurer) refunds an amount of a premium if the insurer or an intermediary of the insurer —
-(a) repays the amount to the insured person; or
-(b) otherwise provides a benefit to the insured person to the value of the amount refunded.
-96B.Records
-(1) An insurer and a person who is liable to pay duty under Division 4 must keep —
-(a) the records that are prescribed in the regulations for the purposes of this section (if any); and
-(b) any other records necessary to enable the Commissioner to determine the insurer’s or the person’s liability to pay duty under this Part.
-Penalty: $20 000.
-(2) A person who is required to notify the Commissioner under section 95B (disregarding the effect of section 95B(3)) must keep the records necessary to enable the Commissioner to verify the information in the notice.
-Penalty: $20 000.
-”.
 8.Transitional provisions — Part IIIF
 (1) An expression used in this section that is given a meaning in the Stamp Act 1921 (including old Part IIIF and new Part IIIF) has the meaning so given unless the contrary intention appears.
 (2) New Part IIIF does not apply to or in respect of premiums or instalments paid to an insurer after commencement in respect of which duty, under old Part IIIF, became payable before commencement.
@@ -1139,6 +967,7 @@ Penalty: $20 000.
 “new Part IIIF” means Part IIIF of the Stamp Act 1921 as in force after commencement and, for the purposes of this section, is to be taken to include item 16 of the Second Schedule of the Stamp Act 1921 as in force after commencement;
 “old Part IIIF” means Part IIIF of the Stamp Act 1921 as in force immediately before commencement and, for the purposes of this section, is to be taken to include item 16 of the Second Schedule and item 8 of the Third Schedule of the Stamp Act 1921, as in force immediately before commencement.
 ”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 15.Acts in Schedule 2 amended

@@ -88,12 +88,7 @@ Item | Nature of instrument
  | (c)anything that occurs by operation of section 21W, 21Y, 31G, 31J or an order under section 103P; or
  | (d)anything done under, or to give effect to, Division 2A of Part II or Division 3 of Part III,
  | but this subitem does not apply to the extent that the consideration for the passing of property, or for any other thing referred to in this subitem, is other than an interest in common property.
-8. | POLICY OF INSURANCE:
- | (1)Any policy of reinsurance. (See section 95.)
- | (2)Any policy of insurance in respect of goods in the course of being transported, whether by rail, road, air or sea, and whether within Western Australia or elsewhere.
- | (3)Any policy of insurance in respect of a marine hull used primarily for commercial purposes.
- | (3a)Any policy of insurance effected by an exempt body (as defined in section 119) on or after 30 June 1989.
- | (4)Any policy of insurance of a class or description prescribed by regulations made under section 120.
+[8. | deleted]
 9. | VEHICLE LICENCE
  | [(1)deleted]
  | (2)A licence granted to a person for a vehicle which was, before the grant of that licence, last licensed or registered in that person’s name under —
@@ -116,4 +111,4 @@ Item | Nature of instrument
  | (ii)a law of any other country corresponding to the Road Traffic Act 1974; or
  | (iii)a corresponding State law.
  | (6)The exemption in subitem (5) applies whether or not a vehicle that results from the modification needs to meet a standard or requirement before it can be licensed that is different to the one that the original vehicle had to meet.
-[Third Schedule inserted by No. 37 of 1979 s. 109; amended by No. 63 of 1980 s. 3; No. 10 of 1982 s. 28; No. 14 of 1983 s. 7; No. 61 of 1983 s. 14; No. 81 of 1984 s. 38; No. 109 of 1984 s. 3 and 12; No. 84 of 1985 s. 11; No. 98 of 1986 s. 21; No. 100 of 1987 s. 14; No. 3 of 1989 s. 8; No. 41 of 1989 s. 27; No. 73 of 1990 s. 45; No. 52 of 1991 s. 14; No. 39 of 1994 s. 13, 20 and 21; No. 79 of 1994 s. 5(1); No. 14 of 1995 s. 44; No. 14 of 1996 s. 4; No. 20 of 1996 s. 45; No. 48 of 1996 s. 30(1) and 38; No. 61 of 1996 s. 40; No. 13 of 1997 s. 30 and 47; No. 31 of 1997 s. 82 and 141; No. 22 of 1998 s. 43 and 54; No. 58 of 1998 s. 8; No. 2 of 1999 s. 23; No. 26 of 1999 s. 103(3); No. 53 of 1999 s. 31; No. 29 of 2000 s. 4 and 16; No. 10 of 2001 s. 187; No. 12 of 2001 s. 51; No. 11 of 2002 s. 8; No. 2 of 2003 s. 142; No. 56 of 2003 s. 9; No. 66 of 2003 s. 88; No. 12 of 2004 s. 35; (Correction to Reprint in Gazette 20 Jul 2004 p. 2909); No. 11 of 2005 s. 29.]
+[Third Schedule inserted by No. 37 of 1979 s. 109; amended by No. 63 of 1980 s. 3; No. 10 of 1982 s. 28; No. 14 of 1983 s. 7; No. 61 of 1983 s. 14; No. 81 of 1984 s. 38; No. 109 of 1984 s. 3 and 12; No. 84 of 1985 s. 11; No. 98 of 1986 s. 21; No. 100 of 1987 s. 14; No. 3 of 1989 s. 8; No. 41 of 1989 s. 27; No. 73 of 1990 s. 45; No. 52 of 1991 s. 14; No. 39 of 1994 s. 13, 20 and 21; No. 79 of 1994 s. 5(1); No. 14 of 1995 s. 44; No. 14 of 1996 s. 4; No. 20 of 1996 s. 45; No. 48 of 1996 s. 30(1) and 38; No. 61 of 1996 s. 40; No. 13 of 1997 s. 30 and 47; No. 31 of 1997 s. 82 and 141; No. 22 of 1998 s. 43 and 54; No. 58 of 1998 s. 8; No. 2 of 1999 s. 23; No. 26 of 1999 s. 103(3); No. 53 of 1999 s. 31; No. 29 of 2000 s. 4 and 16; No. 10 of 2001 s. 187; No. 12 of 2001 s. 51; No. 11 of 2002 s. 8; No. 2 of 2003 s. 142; No. 56 of 2003 s. 9; No. 66 of 2003 s. 88; No. 12 of 2004 s. 35; (Correction to Reprint in Gazette 20 Jul 2004 p. 2909); No. 11 of 2005 s. 29; No. 35 of 2005 s. 5.]
