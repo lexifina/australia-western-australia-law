@@ -26,40 +26,18 @@ Statutes (Repeals and Minor Amendments) Act 2000 s. 53 | 24 of 2000 | 4 Jul 2000
 Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 9 | 70 of 2003 | 15 Dec 2003 | 1 May 2004 (see s. 2 and Gazette 20 Apr 2004 p. 1297)
 Revenue Laws Amendment and Repeal Act 2004 s. 39 | 12 of 2004 | 29 Jun 2004 | 29 Jun 2004 (see s. 2(1))
 Reprint 6: The Hire-Purchase Act 1959 as at 2 Jul 2004 (includes amendments listed above)
+Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 61 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Under the Public Sector Management Act 1994 s. 112(1), a reference in a written law to the Public Service Act 1978 is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The Community Welfare Act 1972 s. 4 established the Department of Community Welfare. The names of the Act and of the department were amended respectively by the Acts Amendment (Department of Community Services) Act 1984 s. 5 and 6(b) to the Community Services Act 1972 and the Department for Community Services. The name of the department was again amended under the Statutes (Repeals and Minor Amendments) Act 1997 s. 34(2) to the Department for Family and Children’s Services and then under the Alteration of Statutory Designations Order (No. 3) 2001 to the Department for Community Development.
 Under the Alteration of Statutory Designations Order (No. 2) 2003, references in any law to the Department of Consumer Affairs are, unless the contrary intention appears, to be read and construed as a reference to the Department of Consumer and Employment Protection.
-On the date as at which this compilation was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2 cl. 13, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 13 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-13.Hire-Purchase Act 1959 amended
-(1) The amendments in this clause are to the Hire-Purchase Act 1959.
-(2) Section 18(9)(c) is deleted and the following paragraph is inserted instead —
-“
-(c) if there is no parent or legal guardian of the hirer, a person approved by the CEO as defined in section 3 of the Children and Community Services Act 2004,
-”.
-(3) Section 18(10) is repealed and the following subsection is inserted instead —
-“
-(10) The CEO as defined in section 3 of the Children and Community Services Act 2004 (the “CEO”) may in writing signed by the CEO delegate the power conferred by subsection (9)(c) to any other officer as defined in section 3 of that Act, and an officer to whom that power is delegated —
-(a) may exercise the power in the same manner and with the same effect as if the power were directly conferred on the officer by this Act and not by delegation; and
-(b) is presumed to exercise the power in accordance with the terms of the delegation in the absence of proof to the contrary,
-but any such delegation may be revoked wholly or partly by the CEO at any time and does not prevent the CEO from exercising the power.
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts

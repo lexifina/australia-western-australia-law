@@ -200,6 +200,7 @@ Compilation table
  | Criminal Injuries Compensation Act 2003 s. 73 | 77 of 2003 | 15 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
  | Western Australian College of Teaching Act 2004 s. 88 | 8 of 2004 | 10 Jun 2004 | 15 Sep 2004 (see s. 2 and Gazette 3 Sep 2004 p. 3849)
  | Marketing of Eggs Amendment Act 2004 s. 7 | 20 of 2004 | 26 Aug 2004 | 2 Jul 2005 (see s. 2(2) and Gazette 28 Jun 2005 p. 2895)
+ | Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
  | Pig, Potato and Poultry Industries (Compensation Legislation) Repeal Act 2004 s. 16 | 40 of 2004 | 3 Nov 2004 | 1 Feb 2005 (see. s. 2 and Gazette 7 Jan 2005 p. 53)
  | Workers’ Compensation Reform Act 2004 s. 157 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
  | Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
@@ -219,7 +220,6 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 s. 57 (Sch. 1 it. 6) | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | To be proclaimed (see s.2(2))
 Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Optometrists Act 2005 s. 109 | 29 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
@@ -313,24 +313,7 @@ Member of the Native Title Commission established by the Native Title (State Pro
 ”.
 ”.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 5 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-5.Constitution Acts Amendment Act 1899 amended
-(1) The amendments in this clause are to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended as follows:
-(a) by deleting “Any board, committee or council constituted under section 22 of the Community Services Act 1972.”;
-(b) after the item relating to the Advisory Committee appointed under section 435 of the Local Government (Miscellaneous Provisions) Act 1960 by inserting the following item —
-“
-Any advisory body established or continued under the Children and Community Services Act 2004.
-”.
-”.
+Footnote no longer applicable.
 Footnote no longer applicable.
 Footnote no longer applicable.
 The Criminal Law Amendment (Simple Offence) Act 2004 s. 81(4) and (5) read as follows:

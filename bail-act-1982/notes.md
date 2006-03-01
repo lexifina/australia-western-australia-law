@@ -36,16 +36,16 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 88, 97, 121 | 
 Statutes (Repeals and Minor Amendments) Act 2003 s. 29 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Criminal Code Amendment Act 2004 s. 24, 26 and 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Acts Amendment (Family and Domestic Violence) Act 2004 Pt. 3 | 38 of 2004 | 9 Nov 2004 | 1 Dec 2004 (see s. 2 and Gazette 26 Nov 2004 p. 5309)
+Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Acts Amendment (Court of Appeal) Act 2004 s. 28 | 45 of 2004 | 9 Nov 2004 | s. 28(1), (2) and (4) (other than the amendment to s. 7A(1)): 1 Feb 2005 (see. s. 2 and Gazette 14 Jan 2005 p. 163) s. 28(3) and (4) (the amendment to s. 7A(1)): 2 May 2005 (see. s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Misuse of Drugs Amendment Act 2004 s. 9(1) | 62 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 10 Dec 2004 p. 5965)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 3 and s. 82 and 83 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 5: The Bail Act 1982 as at 1 Apr 2005 (includes amendments listed above except those in the Acts Amendment (Court of Appeal) Act 2004 s. 28(3) and (4) (the amendment to s. 7A(1)), the Courts Legislation Amendment and Repeal Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004)
+Reprint 5: The Bail Act 1982 as at 1 Apr 2005 (includes amendments listed above except those in the Acts Amendment (Court of Appeal) Act 2004 s. 28(3) and (4) (the amendment to s. 7A(1)), the Children and Community Services Act 2004, the Courts Legislation Amendment and Repeal Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Sentencing Legislation Amendment Act 2004 s. 13 | 27 of 2004 | 14 Oct 2004 | To be proclaimed (see s. 2)
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 The Bail Amendment Act 1984 s. 10 and 11 were repealed by the Bail Amendment Act 1988 s. 20.
 The Bail Act 1982 was not in operation at the time when the reprint was compiled, but the reprinting was authorised by s. 21 of the Bail Amendment Act 1988.
@@ -83,22 +83,7 @@ On the date as at which this compilation was prepared, the Sentencing Legislatio
 (b) by inserting after “imprisonment” —
 “ or conditional suspended imprisonment ”.
 ”.
-On the date as at which this compilation was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 3 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-3.Bail Act 1982 amended
-(1) The amendments in this clause are to the Bail Act 1982.
-(2) Section 3(1) is amended in the definition of “authorised community services officer” in paragraph (d) by deleting “or departmental facility under the Child Welfare Act 1947”.
-(3) Schedule 1 Part C is amended in clause 2(3) as follows:
-(a) after paragraph (a) by inserting “and”;
-(b) by deleting paragraph (b) and “and” after it.
-”.
+Footnote no longer applicable.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 141 is not included because the clause it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 28(4) before the amendment purported to come into operation.
 On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “

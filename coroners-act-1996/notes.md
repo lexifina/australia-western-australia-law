@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 June 2005 of the Coroners Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Coroners Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Coroners Act 1996 | 2 of 1996 | 24 May 1996 | 7 Apr 1997 (see s. 2 and Gazette 18 Mar 1997 p. 1529)
@@ -16,13 +16,13 @@ Acts Amendment (Equality of Status) Act 2003 Pt. 9 | 28 of 2003 | 22 May 2003 | 
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 25 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Coroners Amendment Act 2004 | 22 of 2004 | 8 Sep 2004 | 6 Oct 2004
+Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 8 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-Reprint 2: The Coroners Act 1996 as at 10 Jun 2005 (includes amendments listed above)
+Reprint 2: The Coroners Act 1996 as at 10 Jun 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 The provision of this Act repealing that Act has been omitted under s. 7(4)(f) of the Reprints Act 1984.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) had not come into operation. It reads as follows:
@@ -40,20 +40,4 @@ The Coroners Amendment Act 2003 s. 14(2) and (3) read as follows:
 The Courts Legislation Amendment and Repeal Act 2004 s. 75(2) reads as follows:
 “
 (2) If immediately before the commencement of this section a person holds office as a Coroner’s clerk, then on the commencement the person is to be taken to have been appointed as a Coroner’s registrar.
-”.
-On the date as at which this reprint was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 6 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-6.Coroners Act 1996 amended
-(1) The amendments in this clause are to the Coroners Act 1996.
-(2) Section 3 is amended in the definition of “person held in care” by deleting paragraph (a)(i) and inserting the following subparagraph instead —
-“
-(i)the CEO as defined in section 3 of the Children and Community Services Act 2004;
-”.
 ”.

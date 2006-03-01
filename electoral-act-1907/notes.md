@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 September 2005 of the Electoral Act 1907 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electoral Act 1907 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electoral Act 1907 | 27 of 1907 | 20 Dec 1907 | 1 Mar 1908 (see s. 2)
@@ -79,18 +79,18 @@ Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 20
 Sentencing Legislation Amendment and Repeal Act 2003 s. 56 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 47 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
+Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 468 | 55 of 2004 | 24 Nov 2004 | 24 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Electoral Amendment and Repeal Act 2005 Pt. 2 | 1 of 2005 | 20 May 2005 | 20 May 2005 (see s. 2)
 Constitution and Electoral Amendment Act 2005 s. 4 | 2 of 2005 | 23 May 2005 | 23 May 2005 (see s. 2)
-Reprint 13: The Electoral Act 1907 as at 9 Sep 2005 (includes amendments listed above)
+Reprint 13: The Electoral Act 1907 as at 9 Sep 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Electoral Amendment (Political Finance) Act 1992 s. 5 and 6 | 75 of 1992 | 16 Dec 1992 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 14.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as a reference to the Public Sector Management Act 1994.
 Repealed by the Interpretation Act 1984.
@@ -195,17 +195,3 @@ Act | Provision
 Electoral Act 1907 | s. 5E(2)
 ……………………….. | …….
 ”.
-On the date as at which this reprint was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 8 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-8.Electoral Act 1907 amended
-(1) The amendment in this clause is to the Electoral Act 1907.
-(2) Section 18(c) is amended by deleting “or the Child Welfare Act 1947”.
-”.
-As at the date this reprint was prepared, the Electoral Distribution Repeal Act 2001 and the Electoral Amendment Act 2001 have been passed by the Legislative Assembly and the Legislative Council but have not received the Royal Assent.

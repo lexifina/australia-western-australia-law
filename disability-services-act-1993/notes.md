@@ -9,18 +9,18 @@ Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 O
 Disability Services Amendment Act 1999 | 44 of 1999 | 25 Nov 1999 | 25 Nov 1999 (see s. 2)
 Reprint of the Disability Services Act 1993 as at 26 May 2000 (includes amendments listed above)
 Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
+Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Carers Recognition Act 2004 Pt. 5 Div. 1 | 37 of 2004 | 28 Oct 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7127)
 Disability Services Amendment Act 2004 | 57 of 2004 | 18 Nov 2004 | 15 Dec 2004 (see s. 2 and Gazette 14 Dec 2004 p. 5999)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 467 | 55 of 2004 | 24 Nov 2004 | 24 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 2: The Disability Services Act 1993 as at 15 Jul 2005 (includes amendments listed above)
+Reprint 2: The Disability Services Act 1993 as at 15 Jul 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 Financial Administration Legislation Amendment Act 2005 s. 38 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Disability Services Act 1993 Sch. 6 Pt. 2 reads as follows:
@@ -73,25 +73,6 @@ Act | Provision
 Disability Services Act 1993 | Sch. 4, cl. 1
 ...................... | ........
 ”.
-On the date as at which this reprint was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 7 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-7.Disability Services Act 1993 amended
-(1) The amendments in this clause are to the Disability Services Act 1993.
-(2) Section 52(1)(bc) and (bd) are deleted and the following paragraphs are inserted instead —
-“
-(bc) for the purpose of enabling or facilitating the investigation by the CEO as defined in section 3 of the Children and Community Services Act 2004, or an officer as defined in that section, of whether or not a child is in need of protection under that Act;
-(bd) for the purpose of protection proceedings under the Children and Community Services Act 2004;
-”.
-(3) Section 52(3) is repealed.
-”.
-Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 15.Acts in Schedule 2 amended

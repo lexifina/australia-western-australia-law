@@ -22,6 +22,7 @@ s. 333
 s. 338A, 338B, or 338C
 s. 343
 s. 396, 397, or 398
-Child Welfare Act 1947
-s. 108(1)
+Children and Community Services Act 2004
+s. 192(1) or (2)
+[Schedule 1 amended by No. 34 of 2004 s. 251.]
 [Schedule 2 omitted under the Reprints Act 1984 s. 7(4)(e).]

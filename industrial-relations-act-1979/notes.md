@@ -54,19 +54,19 @@ Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 4 (publis
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 41 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 68 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 9: The Industrial Relations Act 1979 as at 18 Jun 2004 (includes amendments listed above)
+Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Occupational Safety and Health Legislation Amendment and Repeal Act 2004 Pt. 6 Div. 2 | 51 of 2004 | 12 Nov 2004 | 4 Apr 2005 (see s. 2 and Gazette 14 Dec 2004 p. 5999-6000)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 14 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 469 | 55 of 2004 | 24 Nov 2004 | 24 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Mines Safety and Inspection Amendment Act 2004 Pt. 7 Div. 2 | 68 of 2004 | 8 Dec 2004 | 4 Apr 2005 (see s. 2(3)(a) and Gazette 14 Dec 2004 p. 5999-6000)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 10: The Industrial Relations Act 1979 as at 8 Jul 2005 (includes amendments listed above)
+Reprint 10: The Industrial Relations Act 1979 as at 8 Jul 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 Industrial Relations Amendment Act 2005 | 14 of 2005 | 21 Sep 2005 | 22 Sep 2005 (see s. 2)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Vocational Education and Training Act 1996 s. 62 | 42 of 1996 | 16 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
 See the Commonwealth Fisheries Management Act 1991 s. 4(1).
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
@@ -197,26 +197,7 @@ and
 (3) Any regulations made under the repealed Act and in operation immediately before the commencement of section 61 which were applicable to, or in respect of, an apprenticeship or industrial training agreement referred to in subclause (2) are to continue to apply to such an agreement, until regulations are made under this Act in respect of the matters covered by those regulations.
 (4) Regulations may be made, with effect from a time which is not earlier than the commencement of section 61, amending or supplementing the transitional provisions set out in subclauses (2) and (3) for the purpose of providing an effective and efficient transition from the provisions of the repealed Act to the provisions of this Act.
 ”.
-On the date as at which this compilation was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 15 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-15.Industrial Relations Act 1979 amended
-(1) The amendments in this clause are to the Industrial Relations Act 1979.
-(2) Section 81AA(bc) is deleted and the following paragraph is inserted instead —
-“
-(bc) section 196(2) of the Children and Community Services Act 2004;
-”.
-(3) Section 81CA(1) is amended in the definition of “prosecution jurisdiction” by deleting paragraph (d) and “or” after it and inserting instead —
-“
-(d)section 196(2) of the Children and Community Services Act 2004; or
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49 had not come into operation. It reads as follows:
 “
 49.Industrial Relations Act 1979 amended

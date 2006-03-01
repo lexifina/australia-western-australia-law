@@ -19,32 +19,10 @@ Trustees Amendment Act 1997, section 18 | 1 of 1997 | 6 May 1997 | 16 June 1997 
 Acts Amendment (Land Administration) Act 1997, Part 2 and section 141 | 31 of 1997 | 3 October 1997 | 30 March 1998 (see section 2 and Gazette 27 March 1998 p.1765)
 Statutes (Repeals and Minor Amendments) Act 1997, section 14 | 57 of 1997 | 15 December 1997 | 15 December 1997 (see section 2)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 34 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
+Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 N.B.Affecting Act — 31 of 1990, Unclaimed Money Act 1990, s.9.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 Repealed by Public Sector Management Act 1994 (Act No.31 of 1994 s.110).
-Title of Department changed pursuant to section 7(3)(h) of the Reprints Act 1984.
+Footnote no longer applicable.
 See the Mining Act 1978.
-On the date as at which this compilation was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 1 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-1.Aboriginal Affairs Planning Authority Act 1972 amended
-(1) The amendments in this clause are to the Aboriginal Affairs Planning Authority Act 1972.
-(2) Section 19(1)(c) is amended by deleting “for Community Services” and inserting instead —
-“
-as defined in section 3 of the Children and Community Services Act 2004
-”.
-(3) Section 35(4) is repealed.
-(4) Section 35(5) is amended by deleting “, the Director-General of the department established under section 4 of the Community Services Act 1972”.
-(5) Section 48 is amended by deleting “officer of the department established under section 4 of the Community Services Act 1972, or any”.
-”.

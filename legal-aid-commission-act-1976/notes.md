@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 May 2005 of the Legal Aid Commission Act 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Legal Aid Commission Act 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Legal Aid Commission Act 1976 | 143 of 1976 | 13 Dec 1976 | 17 Jun 1977 (see s. 2 and Gazette 17 Jun 1977 p. 1812)
@@ -25,13 +25,13 @@ Reprint of the Legal Aid Commission Act 1976 as at 5 Mar 1999 (includes amendmen
 Corporations (Consequential Amendments) Act 2001 s. 221 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 47 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 75 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Reprint 4: The Legal Aid Commission Act 1976 as at 20 May 2005 (includes amendments listed above)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 Appointed day 17 April 1978; see Gazette 17 March 1978 p. 800.
 Repealed by the Associations Incorporation Act 1987.
 Repealed by the Statute Stocktake Act 1999 s. 3 of the Commonwealth (No. 118 of 1999).
@@ -50,25 +50,4 @@ Act | Provision
 ...................... | ........
 Legal Aid Commission Act 1976 | s. 22
 ...................... | ........
-”.
-On the date as at which this reprint was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 17 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-17.Legal Aid Commission Act 1976 amended
-(1) The amendments in this clause are to the Legal Aid Commission Act 1976.
-(2) Section 37(3a)(a) is deleted and the following paragraph is inserted instead —
-“
-(a) where the person is a child for whom the CEO has parental responsibility under the Children and Community Services Act 2004, to the resources of the Department that are capable of being applied for the provision of legal aid to the person;
-”.
-(3) Section 37(3b) is repealed and the following subsection is inserted instead —
-“
-(3b) In subsection (3a)(a) —
-“CEO”, “child” and “Department” have the meaning given to those terms in section 3 of the Children and Community Services Act 2004.
-”.
 ”.

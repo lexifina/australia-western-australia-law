@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 January 2006 of the Parks and Reserves Act 1895 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Parks and Reserves Act 1895 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 The Parks and Reserves Act 1895 | 30 of 1895 | 12 Oct 1895 | 12 Oct 1895
@@ -27,30 +27,10 @@ Reprint of the Parks and Reserves Act 1895 as at 5 Mar 1999 (includes amendments
 Criminal Investigation (Identifying People) Act 2002 s. 96 | 6 of 2002 | 4 Jun 2002 | 29 Jun 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 90 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Acts Amendment (Reserves and Reserve Boards) Act 2003 Pt. 3 | 76 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-Reprint 4: The Parks and Reserves Act 1895 as at 6 Jan 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
+Reprint 4: The Parks and Reserves Act 1895 as at 6 Jan 2006 (includes amendments listed above except those in the Children and Community Services Act 2004)
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Now known as the Parks and Reserves Act 1895; short title changed (see note under s. 1).
 The Parks and Reserves Amendment Act 1983 s. 4(2) is a transitional provision that is of no further effect.
-On the date as at which this reprint was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 19 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-19.Parks and Reserves Act 1895 amended
-(1) The amendments in this clause are to the Parks and Reserves Act 1895.
-(2) Section 12A(2) is amended by deleting the definition of “parent” and inserting the following definition instead —
-“
-“parent” has the meaning given to that term in section 3 of the Children and Community Services Act 2004.
-”.
-(3) Section 12A(3) is repealed.
-”.
