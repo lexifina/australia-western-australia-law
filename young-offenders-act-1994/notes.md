@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 July 2005 of the Young Offenders Act 1994 and includes the amendments made by the other written laws referred to in the following table1a, 6-8. The table also contains information about any reprint.
+This is a compilation of the Young Offenders Act 1994 and includes the amendments made by the other written laws referred to in the following table1a, 6-8. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Young Offenders Act 1994 | 104 of 1994 | 11 Jan 1995 | 13 Mar 1995 (see s. 2 and Gazette 10 Mar 1995 p. 895)
@@ -22,6 +22,7 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 73 | 65 of 200
 Inspector of Custodial Services Act 2003 s. 56(1) | 75 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Criminal Code Amendment Act 2004 s. 24 and 26 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
+Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Young Offenders Amendment Act 2004 | 58 of 2004 | 22 Nov 2004 | Act other than s. 6, 7 and 40 and Sch. 1: 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7132); s. 6, 7 and 40 and Sch. 1: 1 Jul 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7132)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Misuse of Drugs Amendment Act 2004 s. 9(4) | 62 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 10 Dec 2004 p. 5965)
@@ -31,7 +32,6 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Sentencing Legislation Amendment Act 2004 s. 17 | 27 of 2004 | 14 Oct 2004 | To be proclaimed (see s. 2)
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -77,22 +77,5 @@ On the date as at which this reprint was prepared, the Sentencing Legislation Am
 (2) Section 118(1)(a) is amended by deleting “Act; or” and inserting instead —
 “
 Act or conditional suspended imprisonment under Part 12 of that Act; or
-”.
-”.
-On the date as at which this reprint was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 27 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-27.Young Offenders Act 1994 amended
-(1) The amendments in this clause are to the Young Offenders Act 1994.
-(2) Section 3 is amended in the definition of “exempt responsible adult” by deleting paragraphs (b) and (c), and “or” after paragraph (c), and inserting instead —
-“
-(b)the CEO as defined in section 3 of the Children and Community Services Act 2004 who, under that Act, has parental responsibility for the young person;
-(c)an officer as defined in section 3 of the Children and Community Services Act 2004; or
 ”.
 ”.

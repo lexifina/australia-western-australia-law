@@ -9,37 +9,16 @@ Statutes (Repeals and Minor Amendments) Act (No. 2) 1998, section 62 | 10 of 199
 Restraining Orders Amendment Act 1999 | 11 of 1999 | 13 May 1999 | 13 May 1999 (see s. 2)
 Restraining Orders Amendment Act 2000 | 22 of 2000 | 30 Jun 2000 | 30 Jun 2000 (see s 2)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 90 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
+Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Acts Amendment (Family and Domestic Violence) Act 2004 s. 3-56 | 38 of 2004 | 9 Nov 2004 | 1 Dec 2004 (see s. 2 and Gazette 26 Nov 2004 p. 5309)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 17 | 59 of 2004 | 23 Nov 2004 | Pt. 17 (other than the amendments in s. 123 to s. 67(2) and in s. 124 to s. 4(a)): 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Acts Amendment (Family and Domestic Violence) Act 2004 s. 57 | 38 of 2004 | 9 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 123, 124 | 59 of 2004 | 23 Nov 2004 | s. 123 the amendment to s. 67(2) and s. 124 the amendment to s. 4(a) to be proclaimed (see s. 2)
-On the date as at which this compilation was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2 cl. 23, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 23 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-23.Restraining Orders Act 1997 amended
-(1) The amendments in this clause are to the Restraining Orders Act 1997.
-(2) Section 3 is amended by deleting the definition of “child welfare officer” and inserting instead —
-“
-“child welfare officer” means —
-(a)the CEO as defined in section 3 of the Children and Community Services Act 2004; or
-(b)a person who is an authorised officer for the purposes of section 37 of that Act;
-”.
-(3) Section 63(3) is amended by deleting “an application under the Child Welfare Act 1947 to declare a child in need of care and protection” and inserting instead —
-“
-protection proceedings under the Children and Community Services Act 2004
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared the Acts Amendment (Family and Domestic Violence) Act 2004 s. 57 had not come into operation. It reads as follows:
 “
 57.Further amendments related to the Children and Community Services Act 2004

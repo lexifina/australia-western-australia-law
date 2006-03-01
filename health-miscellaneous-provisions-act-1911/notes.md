@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 July 2005 of the Health Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Act 1911 | 34 of 1911 | 16 Feb 1911 | 1 Jun 1911 (see s. 1 and Gazette 3 Mar 1911 p. 961)
@@ -107,16 +107,16 @@ Corporations (Consequential Amendments) Act 2001 Pt. 30 | 10 of 2001 | 28 Jun 20
 Acts Amendment (Equality of Status) Act 2003 Pt. 26 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 71 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 64 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 58 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Health Legislation Amendment Act 2004 Pt. 2 | 61 of 2004 | 24 Nov 2004 | 24 Nov 2004 (see s. 2)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 13: The Health Act 1911 as at 15 Jul 2005 (includes amendments listed above)
+Reprint 13: The Health Act 1911 as at 15 Jul 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988.
 The Health Act Amendment Act 1900 is repealed by section 4 of this Act.
@@ -556,26 +556,7 @@ the commission of that offence by the employee.
 When a body corporate is convicted of an offence under this Part or the regulations, every director and every officer concerned in the management of the body corporate commits the same offence if he knowingly authorised or permitted the commission of that offence.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 12 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-12.Health Act 1911 amended
-(1) The amendments in this clause are to the Health Act 1911.
-(2) Section 308 is repealed.
-(3) Section 309(1) is amended as follows:
-(a) by deleting “definitions” and inserting instead —
-“ definition ”;
-(b) by deleting the definition of “Industrial School”;
-(c) in the definition of “Prisoner” by deleting “or subject to detention in an industrial school”.
-(4) Section 309(2) is amended by deleting “or industrial school”.
-(5) Section 312 is amended by deleting “, 308”.
-”.
+Footnote no longer applicable.
 On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts

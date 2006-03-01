@@ -12,13 +12,10 @@ Revenue Laws Amendment (Assessment) Act 1998 Part 4 | 22 of 1998 | 30 Jun 1998 |
 Revenue Laws Amendment (Assessment) Act 2001, Part 3 | 3 of 2001 | 26 Jun 2001 | 1 Jul 2001 (see section 2(2))
 Fire and Emergency Services Legislation (Emergency Services Levy) Amendment Act 2002 Pt. 4 | 42 of 2002 | 11 Dec 2002 | 1 Jan 2003 (see section 2 and Gazette 30 Dec 2002 p. 6635)
 Acts Amendment (Equality of Status) Act 2003 Pt. 50 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
+Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Rates and Charges (Rebates and Deferments) Amendment Act 2005 | 9 of 2005 | 7 July 2005 | s. 4(2), 11, 14(1) and (2) and 15: 1 Jul 2005 (see s. 2(3)); balance: 7 Jul 2005 (see s. 2(1))
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 The Revenue Laws Amendment (Assessment) Act 1998 section 25 reads as follows —
 “
 25.Savings — procedural manuals
@@ -44,30 +41,7 @@ The Fire and Emergency Services Legislation (Emergency Services Levy) Amendment 
 (3) If the registration by a local government of an entitlement as regards land, in relation to a prescribed charge by way of rates, has effect on the commencement of this section, that registration is taken to include the registration by the local government of an entitlement as regards the land, in relation to the emergency services levy.
 (4) Words and expressions used in subsections (2) and (3) have the same meanings as they have in the Rates and Charges (Rebates and Deferments) Act 1992.
 ”.
-On the date as at which this compilation was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2 cl. 22, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 22 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-22.Rates and Charges (Rebates and Deferments) Act 1992 amended
-(1) The amendments in this clause are to the Rates and Charges (Rebates and Deferments) Act 1992.
-(2) Section 3(1) is amended by deleting the definition of “State concession card” and inserting the following definition instead —
-“
-“State concession card” means a currently valid card which bears that designation and is issued under section 6 by the CEO as defined in section 3 of the Children and Community Services Act 2004;
-”.
-(3) Section 6(1) is amended by deleting “Director-General of the department established under section 4 of the Community Services Act 1972” and inserting instead —
-“
-CEO as defined in section 3 of the Children and Community Services Act 2004
-”.
-(4) Section 6(2) is amended by deleting “Director-General” in both places where it occurs and inserting instead —
-“ CEO ”.
-(5) Section 6(3) is amended by deleting “Director-General” and inserting instead —
-“ CEO ”.
-”.
+Footnote no longer applicable.
 The Rates and Charges (Rebates and Deferments) Amendment Act 2005 s. 16 reads as follows:
 “
 16.Transitional

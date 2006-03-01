@@ -9,14 +9,14 @@ Sentencing Legislation Amendment and Repeal Act 2003 s. 94 | 50 of 2003 | 9 Jul 
 Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 (see Gazette 15 Aug 2003 p. 3685-92) | 15 Sep 2003 (see r. 2)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 107 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 1: The School Education Act 1999 as at 3 Sep 2004 (includes amendments listed above)
+Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 | 22 of 2005 | 18 Nov 2005 | Pt. 2 Div. 1 and 2: 18 Nov 2005 (see s. 2(1)) Pt. 2 Div. 4: 1 Jan 2006 (see s. 2(3))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnote referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 2002 | To be proclaimed (see s. 2)
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
-Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 Pt. 2 Div. 3 | 22 of 2005 | 18 Nov 2005 | Pt. 2 Div 3: 1 Jan 2008 (see s. 2(2))
+Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 Pt. 2 Div. 3 | 22 of 2005 | 18 Nov 2005 | 1 Jan 2008 (see s. 2(2))
 On the date as at which this compilation was prepared, the School Education Act 1999 s. 182(3) and 208 had not come into operation. They read as follows:
 “
 182.Minister may allocate moneys
@@ -29,22 +29,7 @@ Regulations made under section 119(2)(a), (b), (f), (g), (h), (i) and (j) have e
 (a) to school premises included community kindergarten premises; and
 (b) to school officials included teaching staff and other persons appointed under section 236(2) who are employed at a community kindergarten.
 ”.
-On the date as at which this compilation was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 24 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-24.School Education Act 1999 amended
-(1) The amendments in this clause are to the School Education Act 1999.
-(2) Section 42(3) is amended by deleting “If a child is a ward for the purposes of the Child Welfare Act 1947” and inserting instead —
-“
-If the CEO as defined in section 3 of the Children and Community Services Act 2004 has parental responsibility for a child under that Act
-”.
-”.
+Footnote no longer applicable.
 The Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 s. 4(2) reads as follows:
 “
 (2) When the meaning of “compulsory education period” changes by operation of section 6(b) of the School Education Act 1999 (inserted by subsection (1)), the change extends to the compulsory education period for a child which, but for the change, would have ended on 31 December 2005.

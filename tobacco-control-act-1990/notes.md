@@ -11,28 +11,9 @@ Acts Amendment (Franchise Fees) Act 1997 Pt. 7 | 56 of 1997 | 12 Dec 1997 | 1 Ma
 Statutes (Repeals and Minor Amendments) Act 1997 s. 120 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2)
 Electoral Amendment Act 2000 s. 27 | 36 of 2000 | 10 Oct 2000 | 21 Oct 2000 (see s. 2(1) and Gazette 20 Oct 2000 p. 5899)
 Reprint of the Tobacco Control Act 1990 as at 2 Nov 2001 (includes amendments listed above)
+Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 Now Minister for Culture and the Arts.
 Now Minister for Community Development.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management.
 The provisions in Part 6 of this Act that amend or repeal those Acts set out in the Long title have had their effect.
-On the date as at which this compilation was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2 cl. 26, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 26 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-26.Tobacco Control Act 1990 amended
-(1) The amendments in this clause are to the Tobacco Control Act 1990.
-(2) Section 17(1)(k) is deleted and the following paragraph is inserted instead —
-“
-(k) one shall be the chief executive officer of the Department as defined in section 3 of the Children and Community Services Act 2004 or the nominee of that chief executive officer.
-”.
-”.

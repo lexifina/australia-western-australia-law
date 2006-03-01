@@ -90,11 +90,11 @@ s. 60 | Reckless driving
 s. 61 | Dangerous driving
 [Part 2 inserted by No. 48 of 1991 s. 10.]
 [Part 3 repealed by No. 70 of 2004 s. 82.]
-## Part 4 — Offence under the Child Welfare Act 1947
-[Heading inserted by No. 48 of 1991 s. 10.]
+## Part 4 — Offences under the Children and Community Services Act 2004
 Provision | Description of offence
-s. 31A | Misconduct or neglect causing a child to become an offender or be in need of care and protection
-[Part 4 inserted by No. 48 of 1991 s. 10.]
+s. 101(1) | Failing to protect child from harm
+s. 102 | Leaving child unsupervised in vehicle
+[Part 4 inserted by No. 34 of 2004 s. 251.]
 ## Part 5 — Offences under the Misuse of Drugs Act 1981
 [Heading inserted by No. 48 of 1991 s. 10.]
 Provision | Description of offence
