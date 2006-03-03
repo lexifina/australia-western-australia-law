@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Bush Fires Act 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 March 2006 of the Bush Fires Act 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Bush Fires Act 1954 | 53 of 1954 | 23 Dec 1954 | 29 Apr 1955 (see s. 3 and Gazette 29 Apr 1955 p. 749)
@@ -9,11 +9,11 @@ Reprint of the Bush Fires Act 1954 approved 3 Jul 1961 in Vol. 15 of Reprinted A
 Bush Fires Act Amendment Act 1963 | 11 of 1963 | 22 Oct 1963 | 22 Nov 1963 (see s. 2 and Gazette 22 Nov 1963 p. 3618)
 Bush Fires Act Amendment Act 1964 | 23 of 1964 | 28 Oct 1964 | 28 Oct 1964
 Bush Fires Act Amendment Act 1965 | 15 of 1965 | 1 Oct 1965 | 1 Oct 1965
-Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | s. 4-9: 14 Feb 1966 (see s. 2(2)); balance: 21 Dec 1965 (see s. 2(1))
+Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Bush Fires Act Amendment Act 1969 | 101 of 1969 | 25 Nov 1969 | 25 Nov 1969
 Bush Fires Act Amendment Act 1970 | 67 of 1970 | 17 Nov 1970 | 17 Nov 1970
 Reprint of the Bush Fires Act 1954 approved 14 Apr 1971 (includes amendments listed above)
-Metric Conversion Act 1972 | 94 of 1972 (as amended by No. 19 and 83 of 1973) | 4 Dec 1972 | Relevant amendments (Third Sch.) took effect on 1 Jun 1974 (see s. 4(2) and Gazette 24 May 1974 p. 1626)
+Metric Conversion Act 1972 | 94 of 1972 (as amended by No. 83 of 1973 s. 3) | 4 Dec 1972 | Relevant amendments (see Third Sch.) took effect on 1 Jun 1974 (see s. 4(2) and Gazette 24 May 1974 p. 1626)
 Bush Fires Act Amendment Act 1977 | 65 of 1977 | 28 Nov 1977 | 1 Jun 1978 (see s. 2 and Gazette 10 Mar 1978 p. 667)
 Reprint of the Bush Fires Act 1954 approved 21 Jun 1978 (includes amendments listed above)
 Bush Fires Act Amendment Act 1979 | 51 of 1979 | 7 Nov 1979 | 7 Nov 1979
@@ -43,12 +43,13 @@ Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 3 | 70 of 2003 | 15 
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
- | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-The provision in this Act repealing that Act has been omitted under s. 7(4)(f) of the Reprints Act 1984.
-Provisions of the Bush Fires Act 1954 referred to in s. 64 are not the same references as originally enacted. Under the Interpretation Act 1984 s. 16(2), as a result of amendments to the Bush Fires Act 1954 by No. 65 of 1977, those references may be construed as if amended. The references were changed under the Reprints Act 1984 s. 7(3)(g).
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the date this compilation was prepared the former Department of Land Administration was called the Department of Land Information and its chief executive officer was called the Chief Executive.
-Officially known as the Director General of Mines.
-Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is read and construed as a reference to the Department of Industry and Resources.
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Reprint 7: The Bush Fires Act 1954 as at 3 Mar 2006 (includes amendments listed above)
+The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
+Provisions of the Bush Fires Act 1954 referred to in s. 64 are not the same references as originally enacted. Under the Interpretation Act 1984 s. 16(2), as a result of amendments to the Bush Fires Act 1954 by the Bush Fires Act Amendment Act 1977 (No. 65 of 1977), those references may be construed as if amended. The references were changed under the Reprints Act 1984 s. 7(3)(g).
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the date this reprint was prepared the former Department of Land Administration was called the Department of Land Information and its chief executive officer was called the Chief Executive.
+At the time this reprint was prepared this office was known as the Director General of Mines.
+Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is, unless the contrary is intended, to be read and construed as a reference to the Department of Industry and Resources.
 The Third Schedule was inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
 The Bush Fires Amendment Act 1992 s. 6(2) reads as follows:
 “
