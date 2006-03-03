@@ -1,5 +1,6 @@
 ## Schedule 2 — Visas
 [r. 14A(b)]
+[Heading inserted in Gazette 17 Dec 2002 p. 5910.]
 Item | Visa Subclass number | Visa Subclass name
 1. | 300 | Prospective Marriage
 2. | 302 | Emergency (Permanent Visa Applicant)
