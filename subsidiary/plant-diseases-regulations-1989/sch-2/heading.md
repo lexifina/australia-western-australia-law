@@ -1,6 +1,7 @@
 ## Schedule 2
 [r. 9]
-Fees
+[Heading inserted in Gazette 31 May 2005 p. 2399.]
+## Fees
  | $
 1.General inspection inside normal or shift hours —
 (a)at an inspection point, per 15 minute unit | 31.75

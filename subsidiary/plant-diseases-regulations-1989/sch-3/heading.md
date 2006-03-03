@@ -1,7 +1,7 @@
 ## Schedule 3
-[Heading amended in Gazette 20 Aug 1996 p. 4056.]
 [Regulations 10, 14, 17A, 20A and 20B
 and Schedules 4A, 4B and 4C]
+[Heading amended in Gazette 20 Aug 1996 p. 4056.]
 Form 1
 [r. 10 and 14]
 Plant Diseases Act 1914
@@ -20,8 +20,7 @@ Issuing quarantine inspector | Release from quarantine
 Signature: .......................................... Printed name: .................................... Date: .................................................. | Signature: ................................ Printed name: .......................... Date: ........................................
 WARNING:Failing to comply with this notice is an offence the penalties for which are set out in section 34 of the Act.
 [Form 1 inserted in Gazette 11 Feb 2003 p. 407-8.]
-[Form 2 deleted.]
-________________
+[Form 2 deleted in Gazette 3 Oct 1997 p. 5513.]
 Form 2A
 [Regulation 17A]
 Plant Diseases Act 1914
@@ -43,7 +42,7 @@ Inspector
 ........................................................
 Date
 * Delete where applicable.
-________________
+[Form 2A inserted in Gazette 25 May 1990 p. 2380; amended in Gazette 20 Aug 1996 p. 4056.]
 Form 3
 [Schedule 4A Parts 1 and 3]
 Plant Diseases Act 1914
@@ -69,7 +68,7 @@ Inspector
 ........................................................
 Date
 * Delete where applicable.
-________________
+[Form 3 inserted in Gazette 25 May 1990 p. 2380; amended in Gazette 20 Aug 1996 p. 4056.]
 Form 4
 [Regulation 17A and
 Schedule 4A Part 1]
@@ -87,7 +86,7 @@ Inspector
 ........................................................
 Date
 * Delete where applicable.
-________________
+[Form 4 inserted in Gazette 25 May 1990 p. 2381; amended in Gazette 20 Aug 1996 p. 4057.]
 Form 5
 [Schedule 4A Parts 2 and 3]
 Plant Diseases Act 1914
@@ -111,7 +110,7 @@ Inspector
 ....................................................
 Date
 * Delete where applicable.
-________________
+[Form 5 inserted in Gazette 25 May 1990 p. 2381; amended in Gazette 20 Aug 1996 p. 4057.]
 Form 6
 [Schedule 4A Part 2]
 Plant Diseases Act 1914
@@ -130,7 +129,7 @@ Inspector
 ...................................................
 Date
 * Delete where applicable.
-________________
+[Form 6 inserted in Gazette 25 May 1990 p. 2381-2; amended in Gazette 20 Aug 1996 p. 4057.]
 Form 7
 [Schedule 4B Parts 1 and 2]
 Plant Diseases Act 1914
@@ -159,7 +158,7 @@ Inspector
 ...................................................
 Date
 * Delete where applicable.
-________________
+[Form 7 inserted in Gazette 25 May 1990 p. 2382; amended in Gazette 20 Aug 1996 p. 4057.]
 Form 8
 [Section 14 and Regulation 20A]
 Plant Diseases Act 1914
@@ -179,7 +178,6 @@ A copy of section 14 of the Plant Diseases Act 1914 is set out below.
 Inspector
 ...................................................
 Date
-________________
 Section 14 of the Plant Diseases Act 1914
 Steps taken by an inspector when orchard infected
 14.(1)Whenever an inspector is satisfied that disease exists on any orchard, land, or premises he may by requisition to the owner and occupier or either of them require them or him to do whatever is necessary in order to eradicate such disease from such orchard, land, or premises and to prevent the spread thereof and the requisition may specify any particular steps which the inspector requires to be taken.
@@ -190,7 +188,7 @@ Penalty: $5 000.
 [REVERSE OF FORM]
 Steps to be taken by owner and/or occupier *.
 * Delete where applicable.
-________________
+[Form 8 inserted in Gazette 25 May 1990 p. 2382-3; amended in Gazette 20 Aug 1996 p. 4058.]
 Form 9
 [Schedule 4C Parts 1 and 2]
 Plant Diseases Act 1914
@@ -220,7 +218,7 @@ as the area(s) in which the fruit or potential carrier shall be distributed.
 Inspector
 ................................. 20.....
 * Delete where applicable.
-________________
+[Form 9 inserted in Gazette 5 Mar 1993 p. 1439-40; amended in Gazette 20 Aug 1996 p. 4058.]
 Form 10
 [Section 35(3),
 Regulation 20B(2)]
@@ -243,7 +241,7 @@ section / regulation ...........................................................
 4.Payment may be made by either posting, or personally giving, this form and the amount of the modified penalty specified in item 3 to the Accountant, Department of Agriculture, 3 Baron-Hay Court, South Perth WA 6151.
 ........................................................
 (Signature of Authorised Person)
-________________
+[Form 10 inserted in Gazette 30 Sep 1994 p. 4954.]
 Form 11
 [Section 35(7),
 Regulation 20B(3)]
@@ -258,5 +256,4 @@ section / regulation ........... is hereby withdrawn.
 Authorised Person
 ............................................20.......
 (Date)
-________________
-[Schedule 3 amended in Gazette 25 May 1990 p. 2380-3; 5 Mar 1993 p. 1439-40; 30 Sep 1994 p. 4954; 20 Aug 1996 p. 4056-8; 3 Oct 1997 p. 5513-14; 11 Feb 2003 p. 407-8.]
+[Form 11 inserted in Gazette 30 Sep 1994 p. 4954.]

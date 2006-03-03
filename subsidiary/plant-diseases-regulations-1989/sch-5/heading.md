@@ -1,6 +1,7 @@
 ## Schedule 5 — Permitted plants
 [Regulation 9 and items 16, 33, 42
 and 43 of Part B of Schedule 1]
+[Heading inserted in Gazette 16 Mar 2000 p. 1241.]
 The plants listed in this Schedule are all plants which are —
 (a) native to this State; or
 (b) included in the following table.
@@ -1323,7 +1324,7 @@ Amaryllis x Crinum | belladonna x moorei |  | Amaryllidaceae
 Amauropelta | spp. |  | Thelypteridaceae
 Ambrosia | artemisiifolia |  | Asteraceae
 Ambrosia | psilostachya |  | Asteraceae
-Ambrosia | spp. | Exceptions: A. confertiflora, A. tenuifolia and A. trifida” | Asteraceae
+Ambrosia | spp. | Exceptions: A. confertiflora, A. tenuifolia and A. trifida | Asteraceae
 Amelanchier | canadensis |  | Rosaceae
 Amelanchier | laevis |  | Rosaceae
 Amelanchier | pumila |  | Rosaceae
@@ -10077,5 +10078,5 @@ Zoysia | spp. |  | Poaceae
 Zygopetalum | spp. |  | Orchidaceae
 Zygophlebia | spp. |  | Pteridophyta
 Zygostates | spp. |  | Orchidaceae
-Schedule 5 inserted in Gazette 16 Mar 2000 p. 1241-459; amended in Gazette 16 Jan 2004 p.195.]
+[Schedule 5 inserted in Gazette 16 Mar 2000 p. 1241-459; amended in Gazette 16 Jan 2004 p. 195.]
 [Schedule 6 repealed in Gazette 6 Jan 1998 p. 173.]

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Plant Diseases Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 March 2006 of the Plant Diseases Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Plant Diseases Regulations 1989 | 30 Jun 1989 p. 1980-93 | 1 Jul 1989 (see r. 2)
@@ -23,8 +23,8 @@ Plant Diseases Amendment Regulations (No. 6) 1993 | 17 Sep 1993 p. 5046 | 17 Sep
 Plant Diseases Amendment Regulations (No. 7) 1993 | 1 Oct 1993 p. 5343 | 1 Oct 1993
 Plant Diseases Amendment Regulations (No. 8) 1993 | 1 Oct 1993 p. 5344 | 1 Oct 1993
 Plant Diseases Amendment Regulations (No. 9) 1993 | 1 Oct 1993 p. 5345-6 | 1 Oct 1993
-Plant Diseases Amendment Regulations 1994 | 24 Jun 1994 p. 2840-1 | 24 Jun 1994
 Plant Diseases Amendment Regulations (No. 2) 1994 | 24 Jun 1994 p. 2836-7 | 1 Jul 1994 (see r. 2)
+Plant Diseases Amendment Regulations 1994 | 24 Jun 1994 p. 2840-1 | 24 Jun 1994
 Plant Diseases Amendment Regulations (No. 3) 1994 | 24 Jun 1994 p. 2841-3 | 30 Jun 1994 (see r. 2)
 Plant Diseases Amendment Regulations (No. 6) 1994 | 2 Sep 1994 p. 4521-2 | 2 Sep 1994
 Plant Diseases Amendment Regulations (No. 5) 1994 | 30 Sep 1994 p. 4949 | 30 Sep 1994
@@ -48,8 +48,8 @@ Plant Diseases Amendment Regulations 1997 | 4 Mar 1997 p. 1352-5 | 4 Mar 1997
 Reprint of the Plant Diseases Regulations 1989 as at 7 Jul 1997 (includes amendments listed above)
 Plant Diseases Amendment Regulations (No. 4) 1997 | 19 Aug 1997 p. 4712 | 19 Aug 1997
 Plant Diseases Amendment Regulations (No. 3) 1997 | 3 Oct 1997 p. 5513-14 | 3 Oct 1997
-Plant Diseases Amendment Regulations (No. 2) 1997 | 6 Jan 1998 p. 48-173 | 6 Jan 1998
 Plant Diseases Amendment Regulations (No. 5) 1997 | 6 Jan 1998 p. 47 | 6 Jan 1998
+Plant Diseases Amendment Regulations (No. 2) 1997 | 6 Jan 1998 p. 48-173 | 6 Jan 1998
 Plant Diseases Amendment Regulations (No. 2) 1998 | 23 Jun 1998 p. 3314 | 23 Jun 1998
 Plant Diseases Amendment Regulations (No. 3) 1998 | 19 Aug 1998 p. 4473-664 | 19 Aug 1998
 Plant Diseases Amendment Regulations (No. 4) 1998 | 19 Aug 1998 p. 4665-6 | 19 Aug 1998
@@ -59,15 +59,15 @@ Plant Diseases Amendment Regulations (No. 3) 1999 | 4 Jun 1999 p. 2267-8 | 4 Jun
 Plant Disease Amendment Regulations (No. 4) 1999 | 22 Jun 1999 p. 2669-70 | 22 Jun 1999
 Plant Diseases Amendment Regulations (No. 6) 1999 | 16 Jul 1999 p. 3184-5 | 16 Jul 1999
 Plant Diseases Amendment Regulations 2000 | 4 Feb 2000 p. 419-21 | 4 Feb 2000
-Plant Diseases Amendment Regulations (No. 2) 2000 | 16 Mar 2000 p. 1239-1459 | 16 Mar 2000
-Reprint of the Plant Diseases Regulations 1989 as at 17 Mar 2000 (Correction in Gazette 7 Apr 2002 p. 1819) (includes amendments listed above)
+Plant Diseases Amendment Regulations (No. 2) 2000 | 16 Mar 2000 p. 1239-459 | 16 Mar 2000
+Reprint of the Plant Diseases Regulations 1989 as at 17 Mar 2000 (correction in Gazette 7 Apr 2000 p. 1819) (includes amendments listed above)
 Plant Diseases Amendment Regulations (No. 4) 2000 | 20 Jun 2000 p. 3005-6 | 1 Jul 2000 (see r. 2)
 Plant Diseases Amendment Regulations (No. 3) 2000 | 30 Jun 2000 p. 3399-400 | 30 Jun 2000
 Plant Diseases Amendment Regulations (No. 5) 2000 | 11 Aug 2000 p. 4692-3 | 11 Aug 2000
 Plant Diseases Amendment Regulations (No. 6) 2000 | 29 Sep 2000 p. 5533-5 | 29 Sep 2000
 Plant Diseases Amendment Regulations (No. 7) 2000 | 5 Jan 2001 p. 113-14 | 5 Jan 2001
 Plant Diseases Amendment Regulations 2001 | 13 Feb 2001 p. 866 | 13 Feb 2001
-Plant Diseases Amendment Regulations (No. 2) 2001 3 | 8 Jun 2001 p. 2921-2 | 8 Jun 2001
+Plant Diseases Amendment Regulations (No. 2) 2001 | 8 Jun 2001 p. 2921-2 | 8 Jun 2001
 Plant Diseases Amendment Regulations (No. 3) 2001 | 8 Jun 2001 p. 2922-3 | 1 Jul 2001 (see r. 2)
 Plant Diseases Amendment Regulations (No. 4) 2001 | 17 Jul 2001 p. 3635 | 17 Jul 2001
 Plant Diseases Amendment Regulations (No. 8) 2001 | 7 Dec 2001 p. 6179-80 | 7 Dec 2001
@@ -90,9 +90,10 @@ Plant Diseases Amendment Regulations (No. 4) 2004 | 21 Sep 2004 p. 4108-19 | 21 
 Plant Diseases Amendment Regulations (No. 5) 2004 | 21 Sep 2004 p. 4119-21 | 21 Sep 2004
 Plant Diseases Amendment Regulations (No. 6) 2004 | 30 Dec 2004 p. 6899 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Plant Diseases Amendment Regulations 2005 | 17 May 2005 p. 2103-28 | 17 May 2005
-Plant Diseases Amendment Regulations (No. 2) 2005 | 17 May 2005 p.2131-4 | 17 May 2005
+Plant Diseases Amendment Regulations (No. 2) 2005 | 17 May 2005 p. 2131-4 | 17 May 2005
 Plant Diseases Amendment Regulations (No. 3) 2005 | 31 May 2005 p. 2398-9 | 1 Jul 2005 (see r. 2)
 Plant Diseases Amendment Regulations (No. 4) 2005 | 16 Dec 2005 p. 6074-8 | 16 Dec 2005
 Plant Diseases Amendment Regulations (No. 2) 2006 | 7 Feb 2006 p. 615-19 | 7 Feb 2006
+Reprint 4: The Plant Diseases Regulations 1989 as at 3 Mar 2006 (includes amendments listed above)
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the department formerly called Agriculture Western Australia is now called the Department of Agriculture.
 The amendment in the Plant Diseases Amendment Regulations (No. 2) 2001 r. 4(1)(b) is not included because of an error in the reference to the provision to be amended.
