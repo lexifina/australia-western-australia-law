@@ -1,7 +1,9 @@
 ## Schedule 1
 [r. 2]
-Scales of fees — medical specialists and other medical practitioners
+## Scales of fees — medical specialists and other medical practitioners
+[Heading inserted in Gazette 20 Jul 1999 p. 3250.]
 ## Part 1 — Medical specialists and other medical practitioners
+[Heading inserted in Gazette 28 Dec 2001 p. 6692.]
 Type of service/by whom | Fee $
 GENERAL PRACTITIONER
 CONSULTATIONS
@@ -174,7 +176,7 @@ Each 15 minutes (or part thereof) of anaesthetic time constitutes one time unit.
 Modifying units
 Many anaesthetic services are provided under particularly difficult circumstances depending on factors such as the medical condition of the patient and unusual risk factors. These factors significantly affect the character of the anaesthetic services provided. Circumstances giving rise to additional modifying units are set out in this Schedule.
 [Note: The modifying units are, in the main, derived from the modifying units set out in the AMA’s “List of Medical Services and Fees”.]
-Description | Units
+ | Description | Units
 A normal healthy patient | 0
 A patient with a mild systemic disease | 0
 A patient with a severe systemic disease | 1
@@ -190,7 +192,7 @@ Anaesthesia for after-hours emergencies
 A 50% loading should apply to emergency after–hours anaesthesia. It is calculated using the “total relative value”. The 50% loading and the emergency surgery modifier should not be used together.
 “After-hours” is defined as that period between 6.00 p.m. and the following 8.00 a.m. on weekdays and between 8.00 a.m. and the following 8.00 a.m. on weekend days and public holidays.
 PART A — PROCEDURES
-Description of procedure, etc. | Units
+Description of procedure, etc | Units
 Head
 Anaesthesia for all procedures on the skin and subcutaneous tissue, muscles, salivary glands and superficial blood vessels of the head, including biopsy, unless otherwise specified | 5
 — plastic repair of cleft lip | 6
@@ -605,13 +607,13 @@ Heart, 2 dimensional real time transoesophageal examination of, at least 2 oesop
 (a)measurement blood flow velocities across the cardiac valves using pulsed wave and continuous Doppler techniques;
 (b)real time colour flow mapping from at least 2 oesophageal windows; and (c)recording on video tape | no | no | 10
 Intra-operative 2 dimensional real time transoesophageal echocardiography incorporating Doppler techniques with colour flow mapping and recording onto video tape, performed during cardiac surgery incorporating sequential assessment of cardiac function before and after the surgical procedure | no | no | 14
-The use of two dimensional imaging ultrasound guidance to assist percutaneous major vascular access involving catheterisation of the jugular, subclavian or femoral vein | no | no | 3
-The use of two dimensional imaging ultrasound guidance to assist percutaneous neural blockade involving the branchial plexus, or femoral and/or sciatic nerve | no | no | 3
+The use of 2 dimensional imaging ultrasound guidance to assist percutaneous major vascular access involving catheterisation of the jugular, subclavian or femoral vein | no | no | 3
+The use of 2 dimensional imaging ultrasound guidance to assist percutaneous neural blockade involving the branchial plexus, or femoral and/or sciatic nerve | no | no | 3
 Skin testing for allergy to anaesthetic agents | no | yes | 4
 Assistance in the administration of an anaesthetic | yes | yes | 5
 Note — Unlisted services
 For an unlisted service, the number of units is to be determined by reference to the nearest listed anaesthetic procedure
-[Part 1 amended in Gazette 19 Mar 2004 p. 864-96; 29 Oct 2004 p. 4941-2; 21 Jan 2005 p. 279-81; 10 Jan 2006 p. 44-52.]
+[Part 1 inserted in Gazette 20 Jul 1999 p. 3250-69; amended in Gazette 31 Aug 1999 p. 4244-5; 21 Dec 2000 p. 7626-34; 28 Dec 2001 p. 6692-7; 23 Sep 2003 p. 4174-7; 19 Mar 2004 p. 864-96; 29 Oct 2004 p. 4941-2; 21 Jan 2005 p. 279-81; 10 Jan 2006 p. 44-52.]
 ## Part 2 — Medical procedures
 Type of procedure | Fee $
 GENERAL
@@ -721,7 +723,7 @@ ASSISTANCE AT OPERATIONS The fee for assistance at any operation (or series or c
 The fee is 20% of the total fee or the minimum sum of $147.65, whichever is greater.
 USE OF PRIVATE THEATRES A theatre fee of $89.10 will be paid to practitioners for the use of their private theatre, but this fee may only be charged if the patient would otherwise have been sent to hospital.
 [Part 2 inserted in Gazette 10 Jan 2006 p. 52-6.]
-## Part 3 — Diagnostic Imaging Services
+## Part 3 — Diagnostic imaging services
 ULTRASOUND
 MBS item number (1 November 2005) | Fee $
 55028 | 143.55
@@ -1119,4 +1121,3 @@ MAGNETIC RESONANCE IMAGING
 MBS item number (1 November 2003) | Fee $
 63000 — 63497 | 526.75
 [Part 3 inserted in Gazette 10 Jan 2006 p. 56-67.]
-[Schedule 1 inserted in Gazette 20 Jul 1999 p. 3250-77; amended in Gazette 31 Aug 1999 p. 4244-5; 21 Dec 2000 p. 7626-46 (Printers correction in Gazette 6 Feb 2001 p. 743); 28 Dec 2001 p. 6692-710; 23 Sep 2003 p. 4174-85; 19 Mar 2004 p. 864-910; 29 Oct 2004 p. 4941-2; 21 Jan 2005 p. 279-83; 1 Nov 2005 p. 4977-84; 10 Jan 2006 p. 44-67.]
