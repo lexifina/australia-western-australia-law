@@ -1,6 +1,7 @@
 ## Schedule 7
 [Regulation 15A]
 ## Prescribed diseases under section 10 of the Act
+[Heading inserted in Gazette 24 Jun 1994 p. 2842.]
 American onion smut (Urocystis cepulae)
 American rib fluked snail (Pseudosuccinea columella)
 Apple scab (Venturia inaequalis)

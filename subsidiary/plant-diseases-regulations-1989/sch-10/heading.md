@@ -1,5 +1,6 @@
 ## Schedule 10 — Asteraceae (Compositae)
 [Schedule 1 Part A and Part B item 58]
+[Heading inserted in Gazette 7 Feb 2006 p. 616.]
 Tribe Mutisieae - 76 ca. 970 species
 Achnopogon
 Achyrothalamus

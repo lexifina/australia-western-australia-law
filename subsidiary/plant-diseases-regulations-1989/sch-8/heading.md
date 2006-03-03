@@ -1,6 +1,6 @@
 ## Schedule 8
 [Regulation 20B]
-[Heading amended in Gazette 20 Aug 1996 p. 4059.]
+[Heading inserted in Gazette 30 Sep 1994 p. 4955; amended in Gazette 20 Aug 1996 p. 4059.]
 Provision creating offence | Nature of offence | Penalty $
 Plant Diseases Act 1914
 1.Section 11(1) | Failure to carry out prescribed steps and measures to eradicate diseases | 200
