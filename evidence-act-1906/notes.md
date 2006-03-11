@@ -80,7 +80,7 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 34 | 65 of 200
 Statutes (Repeals and Minor Amendments) Act 2003 s. 142(2) | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Criminal Code Amendment Act 2004 s. 24, 26, 58 and 61(6) | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Evidence Amendment Act 2004 | 24 of 2004 | 7 Oct 2004 | 18 Jun 2005 (see s. 2 and Gazette 17 Jun 2005 p. 2658)
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
+Children and Community Services Act 2004 s. 251 (Sch. 2 cl. 9) | 34 of 2004 (as amended by No. 84 of 2004 s. 85(4)) | 20 Oct 2004 | Sch. 2 cl. 9(1), (3) and (4): 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695); Sch. 2 cl. 9(2): 11 Mar 2006 (see s. 2 and Gazette 10 Mar 2006 p. 987)
 Criminal Law Amendment (Sexual Assault and Other Matters) Act 2004 Pt. 3 and 4 | 46 of 2004 | 9 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 11 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Misuse of Drugs Amendment Act 2004 s. 9(2) | 62 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 10 Dec 2004 p. 5965)
@@ -88,10 +88,6 @@ Criminal Law Amendment (Simple Offences) Act 2004 s. 19(3) and 82 | 70 of 2004 |
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 8, s. 80, 82 and 85 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 13: The Evidence Act 1906 as at 1 Jul 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 12 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Children and Community Services Act 2004 Sch. 2 cl. 9(2) | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 “
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
@@ -177,18 +173,3 @@ Part 4 — Transitional and validation
 (2) Any payment purporting to have been made under the fee regulations before the coming into operation of section 28 is taken to have been, and to have always been, as valid as it would have been if section 28 had come into operation before the fee regulations were made.
 ”.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to amend s. 56(1) is not included because the subsection it sought to amend was replaced by s. 82 (Sch. 2 it. 118) of this Act.
-On the date as at which this compilation was prepared, the Children and Community Services Act 2004 s. 251, which gives effect to Sch. 2 cl. 9, had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 9 reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-9.Evidence Act 1906 amended
-(2) Section 106A is amended in the definition of “defendant” by deleting paragraph (a)(i) and inserting the following subparagraph instead —
-“
-(i)means any party to the proceeding, other than the affected child and an applicant who is an officer as defined in section 3 of the Children and Community Services Act 2004;
-”.
-”.
