@@ -37,3 +37,4 @@ State Trading Concerns (Authorisation) Amendment Regulations (No. 2) 2004 | 1 Oc
 State Trading Concerns (Authorisation) Amendment Regulations 2005 | 15 Jul 2005 p. 3303-5 | 15 Jul 2005
 State Trading Concerns (Authorisation) Amendment Regulations (No. 2) 2005 | 12 Aug 2005 p. 3657 | 12 Aug 2005
 State Trading Concerns (Authorisation) Amendment Regulations (No. 3) 2005 | 15 Nov 2005 p. 5620 | 15 Nov 2005
+State Trading Concerns (Authorisation) Amendment Regulations (No. 4) 2005 | 17 Mar 2006 p. 1028 | 17 Mar 2006
