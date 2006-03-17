@@ -1,5 +1,6 @@
 ## Schedule 2 — Fees
 [bl. 49, 58A, 66, 66A, 77, 83, 96, 97, 98, 100, 101, 104C]
+[Heading inserted in Gazette 29 Jun 2001 p. 3231; amended in Gazette 29 Jun 2004 p. 2497.]
  |  | $
 [1. | deleted]
 2. | Meter testing —
@@ -14,15 +15,15 @@
  | (b)Urgent reading of meter .............................. | 41.10
  | (c)Electronic lodgment of a combined request for a single statement, reading of meter and orders and requisitions ................................ | 32.45
  | (d)Electronic lodgment of a combined request for a single statement, urgent reading of meter and orders and requisitions ............... | 61.50
- | (e)Lodgment other than under paragraph (c) of a combined request for a single statement, reading of meter and orders and requisitions | 55.50
+ | (e)Lodgment other than under paragraph (c) of a combined request for a single statement, reading of meter and orders and requisitions ................................................. | 55.50
  | (f)Lodgment other than under paragraph (d) of a combined request for a single statement, urgent reading of meter and orders and requisitions ................................ | 84.50
  | (g)Provision of information other than under paragraphs (a) to (f) involving research or investigation of 15 minutes or more — per hour or part of an hour ................................ | 66.45
 5. | Fee under section 43A in respect of land on which it is proposed to —
  | (a)construct a new single residential building or alter an existing single residential building | 106.00 (per residential unit)
  | (b)construct or alter a building other than a residential building — an amount based on the cost of the construction or alteration as assessed by the Corporation, of —
- | over $22 500 but not over $200 000 ........…. | 85.00
- | over $200 000 but not over $500 000 .......…. | 330.00
- | over $500 000 but not over $1 000 000 ...….. | 550.00
+ | over $22 500 but not over $200 000 .............. | 85.00
+ | over $200 000 but not over $500 000 ............ | 330.00
+ | over $500 000 but not over $1 000 000 ......... | 550.00
  | over $1 000 000 but not over $10 000 000 .... | 0.90 (per $1 000 of construction)
  | over $10 000 000 ........................................ | 0.25 (per $1 000 of construction)
 6. | Supply of copy of, or extract from, records or plans (other than those stored in digital format) under section 102(3) of the Water Agencies (Powers) Act 1984 (provided on A4 paper) ............................ | 11.00
