@@ -1,7 +1,7 @@
 Notes
 This is a compilation of the Trustee Companies Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Short Title | Number and year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
 Trustee Companies Act 1987 | 111 of 1987 | 19 Dec 1987 | 1 Sep 1988 (see s. 2 and Gazette 26 Aug 1988 p. 3271)
 Trustee Companies (Designation of Trustee Companies) (No. 1) Regulations 1988 published in Gazette 14 Oct 1988 p. 4156 | 14 Oct 1988
 Trustee Companies (Designation of Trustee Companies) Regulations 1989 published in Gazette 15 Dec 1989 p. 4521 | 15 Dec 1989
@@ -20,3 +20,4 @@ Trustee Companies (Designation of Trustee Companies) Regulations 2002 published 
 Trustees of Western Australia Limited (Transfer of Business) Act 2003 s. 15 | 18 of 2003 | 17 Apr 2003 | 1 Jul 2003 (see s. 2 and Gazette 17 Jun 2003 p. 2201)
 Reprint 2: The Trustee Companies Act 1987 as at 6 Feb 2004 (includes amendments listed above)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 and 7 Jan 2005 p. 53)
+Trustee Companies (Designation of Trustee Companies) Regulations 2006 published in Gazette 21 Mar 2006 p. 1082-3 | 21 Mar 2006
