@@ -26,6 +26,7 @@ Strata Titles General Amendment Regulations (No. 2) 2004 | 30 Dec 2004 p. 6944-5
 Strata Titles General (Amendment) Regulations 2005 | 13 May 2005 p. 2082-5 | 13 May 2005
 Strata Titles General Amendment Regulations (No. 2) 2005 | 24 Jun 2005 p. 2758-60 | 4 Jul 2005 (see r. 2)
 Strata Titles General Amendment Regulations 2006 | 24 Jan 2006 p. 431-8 | 24 Jan 2006
+Strata Titles General Amendment Regulations (No. 2) 2006 | 21 Mar 2006 p. 1083-4 | 21 Mar 2006
 Formerly referred to the Licensed Surveyors (Transfer of Land Act 1893) Regulations the citation of which was changed to the Licensed Surveyors (Transfer of Land Act 1893) Regulations 1961 by the Licensed Surveyors Amendment Regulations 1997 r. 30. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Strata Titles Act 1985.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
