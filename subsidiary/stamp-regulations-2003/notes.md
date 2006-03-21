@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 August 2005 of the Stamp Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Stamp Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Stamp Regulations 2003 | 27 Jun 2003 p. 2415-18 | 1 Jul 2003 (see r. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -11,3 +11,4 @@ Stamp Amendment Regulations (No. 4) 2004 | 13 Aug 2004 p. 3252 | 13 Aug 2004
 Stamp Amendment Regulations (No. 6) 2004 | 16 Nov 2004 p. 5069-70 | 1 Dec 2004 (see r. 2)
 Stamp Amendment Regulations (No. 5) 2004 | 3 Dec 2004 p. 5729 | 3 Dec 2004
 Reprint 1: The Stamp Regulations 2003 as at 12 Aug 2005 (includes amendments listed above)
+Stamp Amendment Regulations 2006 | 21 Mar 2006 p. 1084-5 | 21 Mar 2006
