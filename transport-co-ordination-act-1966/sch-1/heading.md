@@ -4,7 +4,7 @@ For the purposes of this Schedule a vehicle shall not be regarded as being owned
 (a) where the vehicle is owned by a natural person, that person is the producer of the goods being carried on the vehicle or is operating the vehicle for, or on behalf of, another person who is the producer of the goods being carried under a bona fide agreement or arrangement that relates to the production of the goods and not only to the transport thereof;
 (b) where the vehicle is owned by more than 1 person, those persons are bona fide the producers of the goods being carried;
 (c) where the vehicle is owned by a body corporate, the membership of the body corporate consists of natural persons who are bona fide the producers of the goods being carried,
-and that person or one of those persons or one of the members of the body corporate, as the case requires, is registered as the owner of the vehicle under the Road Traffic Act 1974.
+and that person or one of those persons or one of the members of the body corporate, as the case requires, is the person in whose name the vehicle is licensed under the Road Traffic Act 1974.
 1.The carriage of produce of farms or forests or farming requisites or requisites for the production of timber between any farm or forest and the railway station or town nearest to the farm or forest and if the produce of a farm is grain or seed the carriage of that produce from the farm to the nearest bulk grain handling facility that is in the direction of the proposed destination of that produce and that is available for its receival.
 For the purposes of this item the term “farm” includes a sheep station or a cattle station.
 2.The carriage of produce and goods between the station property of any person engaged in the pastoral industry between such property and the railway station or town nearest to the property.
@@ -26,6 +26,6 @@ For the purposes of this item the term “farm” includes a sheep station or a 
 14.Any carriage for which, in the opinion of the Minister, it is necessary, either generally or subject to conditions, to grant an exemption from the provisions of section 20.
 15.The carriage of such goods as may, from time to time, be prescribed by regulation, if the goods are of the same or a similar kind as or to those mentioned in any of the preceding items of this Schedule.
 For the purposes of this Schedule a reference to a railway station or town nearest to a property is a reference to that station or town most accessible to the property or farm, as the case may be, and, notwithstanding the definition of “railway” in this Act, the term “railway station” includes any railway station whatsoever.
-[First Schedule amended by No. 94 of 1972 s. 4(1); No. 30 of 1985 s. 16; No. 54 of 1985 s. 51 and 52; No. 14 of 1996 s. 4; No. 29 of 2002 s. 25.]
+[First Schedule amended by No. 94 of 1972 s. 4(1); No. 30 of 1985 s. 16; No. 54 of 1985 s. 51 and 52; No. 14 of 1996 s. 4; No. 39 of 2000 s. 66; No. 29 of 2002 s. 25.]
 [Second Schedule repealed by No. 13 of 1989 s. 10.]
 [Third Schedule repealed by No. 56 of 1997 s. 60.]

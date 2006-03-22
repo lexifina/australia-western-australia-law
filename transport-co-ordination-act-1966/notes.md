@@ -52,6 +52,7 @@ Perth Parking Management (Consequential Provisions) Act 1999 s. 7(6) | 16 of 199
 Acts Amendment (Police Immunity) Act 1999 s. 10 | 42 of 1999 | 25 Nov 1999 | 25 Nov 1999 (see s. 2)
 Reprint of the Transport Co-ordination Act 1966 as at 19 May 2000 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 43 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
+Road Traffic Amendment Act 2000 s. 66 | 39 of 2000 | 10 Oct 2000 | 22 Mar 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Transport Co-ordination Amendment Act 2000 | 40 of 2000 | 2 Nov 2000 | 2 Nov 2000 (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 69 | 43 of 2000 | 2 Nov 2000 | 17 Feb 2001 (see s. 2(1) and Gazette 16 Feb 2001 p. 903)
 Reprint of the Transport Co-ordination Act 1966 as at 11 May 2001 (includes amendments listed above)
@@ -66,7 +67,6 @@ Reprint 8: The Transport Co-ordination Act 1966 as at 5 Aug 2005 (includes amend
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Amendment Act 2000 Pt. 3 Div. 4 | 39 of 2000 | 10 Oct 2000 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 The State Transport Co-ordination Act 1966 was repealed by the State Transport Co-ordination Act 1981, which was repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 The reference in the Taxi Act 1994 s. 49(a) to an amendment of s. 2 of this Act should refer to an amendment of s. 4 of this Act. Section 49(a) reads as follows:
@@ -146,13 +146,7 @@ Part 12 — Transitional matters
 The Public Transport Authority Act 2003 Pt. 7 Div. 1, 5, and 6 deal with transitional matters to do with the transfer to the Public Transport Authority of metropolitan passenger transport functions that the Transport Coordination Ministerial Body previously had under the Transport Co-ordination Act 1966 Pt. II Div. 4.
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 121(3) is not included because the section it sought to amend had been replaced by Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 47 before the amendment purported to come into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Road Traffic Amendment Act 2000 Pt. 3 Div. 4 had not come into operation. It reads as follows:
-“
-Division 4 — Transport Co-ordination Act 1966 amended
-66.First Schedule amended
-The First Schedule to the Transport Co-ordination Act 1966 is amended after paragraph (c) by deleting “is registered as the owner of the vehicle” and inserting instead —
-“ is the person in whose name the vehicle is licensed ”.
-”.
+Footnote no longer applicable.
 On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
