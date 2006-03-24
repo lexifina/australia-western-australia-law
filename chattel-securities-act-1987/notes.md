@@ -7,7 +7,7 @@ Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 A
 Chattel Securities Amendment Act 1996 | 39 of 1996 | 27 Sep 1996 | 4 Nov 1996 (see s. 2 and Gazette 29 Oct 1996 p. 5715)
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
 Motor Vehicle Dealers Amendment Act 2002 s. 70 | 4 of 2002 | 4 Jun 2002 | 1 Sep 2002 (see s. 2 and Gazette 13 Aug 2002 p. 4151)
-Reprint of the Chattel Securities Act 1987 as at 13 Dec 2002 (includes amendments listed above)
+Reprint of the Chattel Securities Act 1987 as at 13 Dec 2002 (includes amendments listed above) (Correction in Gazette 24 Mar 2006 p. 1102)
 Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 4 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 34 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 18 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
