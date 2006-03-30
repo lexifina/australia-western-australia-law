@@ -138,6 +138,11 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt.
 Reprint 12: The Criminal Code Act Compilation Act 1913 as at 1 Jun 2005 (includes amendments listed above)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 11 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Defamation Act 2005 s. 47 | 44 of 2005 | 19 Dec 2005 | 1 Jan 2006 (see s. 2)
+Criminal Code Amendment (Cyber Predators) Act 2006 s. 3-5 | 3 of 2006 | 30 Mar 2006 | s. 3-5: 30 Mar 2006 (see s. 2(1))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and Year | Assent | Commencement
+Criminal Code Amendment (Cyber Predators) Act 2006 s. 6 | 3 of 2006 | 30 Mar 2006 | To be proclaimed (see s. 2(2))
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 The Criminal Code Amendment Act (No. 2) 1996 s. 4(3) reads as follows:
@@ -164,3 +169,43 @@ The amendment in the Criminal Law Amendment (Simple Offences) Act 2004 s. 35(4) 
 The amendments in the Criminal Code Amendment (Racial Vilification) Act 2004 s. 7-9 do not have any effect as, before the Act received the Royal Assent, the provisions they would have amended were amended by the Acts Amendment (Family and Domestic Violence) Act 2004 s. 67-69.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 to The Criminal Code s. 5(11) is not included because s. 5(11) was amended by the Courts Legislation Amendment and Repeal Act 2004 s. 80 before s. 82 commenced.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 to The Criminal Code s. 133A is not included because s. 133A was amended by s. 28 of that Act.
+On the date as at which this compilation was prepared, the Criminal Code Amendment (Cyber Predators) Act 2006 s. 6 had not come into operation. It reads as follows:
+“
+6.Section 711AA inserted
+After section 711 the following section is inserted —
+“
+711AA.Order to facilitate access to data in data storage devices
+(1) In this section—
+“data” includes —
+(a)information in any form; and
+(b)any program or part of a program;
+“data storage device” means a computer or other thing that —
+(a)contains or is designed to contain; or
+(b)provides access to or is designed to provide access to,
+data in digital, electronic or magnetic form;
+“prescribed offence” means —
+(a)an offence under section 204B, 320, 321, 321A, 322 or 329;
+(b)an offence under section 60 of the Censorship Act 1996; or
+(c)any offence under this Code or another written law that regulations prescribe as an offence to which this section applies.
+(2) A police officer may apply to a magistrate for an order requiring a specified person to provide any information or assistance that is reasonable and necessary to allow the police officer to do one or more of the following —
+(a) obtain access to data contained in or accessible from a data storage device which is in the police officer’s possession, or to which the police officer has access, whether under a warrant or otherwise;
+(b) copy data referred to in paragraph (a) to another data storage device;
+(c) convert data referred to in paragraph (a) into any documentary form.
+(3) The magistrate may make the order if the magistrate is satisfied that —
+(a) there are reasonable grounds for suspecting that anything relevant to a prescribed offence is contained in or accessible from the data storage device;
+(b) the specified person —
+(i) is reasonably suspected of having committed the offence; or
+(ii) is, or is an employee of, the owner or lessee of the data storage device;
+and
+(c) the specified person has relevant knowledge of —
+(i) the data storage device or a computer network of which the data storage device forms a part; or
+(ii) measures applied to protect data contained in or accessible from the data storage device.
+(4) Without limiting subsection (3), a magistrate may make an order under that subsection when issuing a warrant under section 711 in respect of a prescribed offence.
+(5) In an order made under subsection (3) the magistrate must indicate which of subsection (3)(b)(i) or (ii) is applicable to the specified person.
+(6) If a specified person to whom subsection (3)(b)(i) is applicable fails to comply with an order made under subsection (3), the person is guilty of a crime and is liable to imprisonment for 5 years.
+(7) If a specified person to whom subsection (3)(b)(ii) is applicable fails to comply with an order made under subsection (3), the person is guilty of an offence and is liable to imprisonment for 12 months and a fine of $12 000.
+(8) The Governor may make regulations prescribing —
+(a) offences to which this section applies; and
+(b) any other matters that are necessary or convenient to be prescribed for giving effect to the purposes of this section.
+”.
+”.
