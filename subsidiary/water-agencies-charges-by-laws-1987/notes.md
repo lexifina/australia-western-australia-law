@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Water Agencies (Charges) By-laws 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 31 March 2006 of the Water Agencies (Charges) By-laws 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Water Authority (Charges) By-laws 1987 | 14 Jul 1987 p. 2658-72 (errata 24 Jul 1987 p. 2841) | 14 Jul 1987
@@ -43,7 +43,7 @@ Water Authority (Charges) Amendment By-laws (No. 9) 1994 | 16 Sep 1994 p. 4806-7
 Water Authority (Charges) Amendment By-laws (No. 10) 1994 | 28 Oct 1994 p. 5556-7 | 28 Oct 1994
 Water Authority (Charges) Amendment By-laws (No. 11) 1994 | 30 Dec 1994 p. 7351-3 | 30 Dec 1994
 Water Authority (Charges) Amendment By-Laws 1995 | 2 Jun 1995 p. 2215 | 2 Jun 1995
-Water Authority (Charges) Amendment By-Laws (No. 2) 1995 | 30 Jun 1995 p. 2735-66 | 1 Jul 1995 (see bl. 2)
+Water Authority (Charges) Amendment By-laws (No. 2) 1995 | 30 Jun 1995 p. 2735-66 | 1 Jul 1995 (see bl. 2)
 Water Authority (Charges) Amendment By-laws (No. 3) 1995 | 17 Nov 1995 p. 5344-5 | 17 Nov 1995
 Water Authority (Charges) Amendment By-laws (No. 4) 1995 | 17 Nov 1995 p. 5345-6 | 17 Nov 1995
 Water Authority (Charges) Amendment By-laws (No. 5) 1995 | 17 Nov 1995 p. 5346 | 17 Nov 1995
@@ -77,7 +77,7 @@ Reprint of the Water Agencies (Charges) By-laws 1987 as at 16 Feb 2001 (includes
 Water Agencies (Charges) Amendment By-laws (No. 2) 2001 | 29 Jun 2001 p. 3187-229 | 1 Jul 2001 (see bl. 2)
 Water Agencies (Charges) Amendment By-laws (No. 3) 2001 | 7 Aug 2001 p. 4037-8 | 7 Aug 2001
 Water Agencies (Charges) Amendment By-laws (No. 4) 2001 | 5 Oct 2001 p. 5478-9 | 5 Oct 2001
-Water Agencies (Charges) Amendment By-laws (No. 5) 2001 | 22 Feb 2002 p. 767-9 | 22 Feb 2002
+Water Agencies (Charges) Amendment By-Laws (No. 5) 2001 | 22 Feb 2002 p. 767-9 | 22 Feb 2002
 Water Agencies (Charges) Amendment By-laws 2002 | 1 Mar 2002 p. 869-70 | 1 Mar 2002
 Water Agencies (Charges) Amendment By-laws (No. 2) 2002 | 1 Mar 2002 p. 870 | 1 Mar 2002
 Water Agencies (Charges) Amendment By-laws (No. 3) 2002 | 1 Jul 2002 p. 3155-201 | 1 Jul 2002
@@ -92,75 +92,25 @@ Water Agencies (Charges) Amendment By-laws 2005 | 13 May 2005 p. 2088 | 13 May 2
 Water Agencies (Charges) Amendment By-laws (No. 3) 2005 | 1 Jul 2005 p. 3008-9 | 1 Jul 2005 (see bl. 2)
 Water Agencies (Charges) Amendment By-laws (No. 2) 2005 | 1 Jul 2005 p. 3031-78 | 1 Jul 2005 (see bl. 2)
 Water Agencies (Charges) Amendment By-laws (No. 4) 2005 | 4 Nov 2005 p. 5321 | 4 Nov 2005
+Reprint 4: The Water Agencies (Charges) By-laws 1987 as at 31 Mar 2006 (includes amendments listed above)
 Now established by the Port Authorities Act 1999 s. 4.
+Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act.
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
 Repealed by the Western Australian Land Authority Act 1992.
+Repealed by the Public Transport Authority Act 2003.
 Repealed by the WADC and WA Exim Corporation Repeal Act 1998.
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
-Now known as the Western Australian Greyhound Racing Authority.
+Under the Public Transport Authority Act 2003 s. 85 a reference in a written law to the former Western Australian Government Railways Commission is, unless in the context it would be inappropriate to do so, to be construed as a reference to the Public Transport Authority.
+Formerly referred to the Western Australian Greyhound Racing Authority Act 1981 the short title of which was changed to the Western Australian Greyhound Racing Association Act 1981 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 197. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now known as the Water Agencies (Charges) By-laws 1987; citation changed (see note under bl. 1).
-The Water Authority (Charges) Amendment By-laws (No. 3) 1989 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after the day of the coming into operation of these by-laws of a by-law in force before that day insofar as that by-law relates to a charge for a period commencing before that day, to a charge for any matter or thing done before that day, or to a charge for water supplied during a period ending before 31 October 1989.
-”.
-The Water Authority (Charges) Amendment By-laws 1990 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after the day of the coming into operation of these by-laws of a by-law in force before that day insofar as that by-law relates to a charge for a period commencing before that day, to a charge for any matter or thing done before that day, or to a charge for water supplied during a period ending before 31 October 1990.
-”.
-The Water Authority (Charges) Amendment By-laws 1991 bl. 3 and 7 read as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after the day of the coming into operation of these by-laws of a by-law in force before that day insofar as that by-law relates to a charge for a period commencing before that day, to a charge for any matter or thing done before that day, or to a charge for water supplied during a period ending before 31 October 1991.
-”.
-“
-7.Application of certain charges by way of a rate (sewerage)
-The charges by way of a rate applicable to land in the areas set out in paragraphs (a), (b), and (c), and imposed under Schedule 2, Part 2, item 3 of the principal by-laws, shall apply to land in the areas set out in paragraphs (a), (b) and (c), which is connected to, or capable of being connected with a sewer and shall be calculated —
-(a) in the case of Augusta, from 1 March 1991;
-(b) in the case of Capel, from 1 October 1990;
-(c) in the case of Dongara-Denison, from the date of the initial sale of the land; or
-(d) in the case of Augusta, Capel, or Dongara-Denison, from the date of connection with the sewer,
-whichever date is the earlier for the particular area.
-”.
-The Water Authority (Charges) Amendment By-laws 1992 bl. 4 reads as follows:
-“
-4.Application
-The charge set out in by-law 3 applies to and in relation to —
-(a) land connected with a sewer, commencing from the day of such connection; and
-(b) land that is capable of being connected with a sewer and, in relation to which a notice has been sent under by-law 21 of the principal by-laws, commencing from 1 January 1992.
-”.
-The Water Authority (Charges) Amendment By-laws (No. 4) 1992 bl. 4 reads as follows:
-“
-4.Application
-The charge set out in by-law 3 applies to and in relation to —
-(a) land connected with a sewer, commencing from the day of such connection; and
-(b) land that is capable of being connected with a sewer and in relation to which a notice has been sent under by-law 21 of the principal by-laws, commencing from 1 April 1992.
-”.
-The Water Agencies (Charges) Amendment By-laws (No. 5) 1997 bl. 10 reads as follows:
-“
-10.Saving
-Where before the commencement of these by-laws —
-(a) a meter reading was taken to assess the quantity charge for the supply of water to a property in a consumption year; and
-(b) a final meter reading has not been taken to assess that charge,
-the charge is to be assessed under the principal by-laws as if these by-laws had not come into operation.
-”.
-The Water Agencies (Charges) Amendment By-laws (No. 2) 1999 bl. 32(2) reads as follows:
-“
-(2) For the purposes of the formula in Schedule 5 as replaced by sub-bylaw (1), an index set out in Schedule 5 immediately before the day on which these by-laws come into operation is to be regarded as having been prescribed as the value of “A” for the year to which it corresponds.
-”.
-The Water Agencies (Charges) Amendment By-laws (No. 5) 2001 bl. 2 and 6 read as follows:
-“
-2.Application
-These by-laws apply to and in relation to water supplied for irrigation purposes on or after 1 July 2001.
-”.
-“
-6.Transitional arrangements for 2001/02 year
-(1) In relation to water supplied during the 2001/2002 year —
-(a) the fixed charge provided for in Schedule 5 item 1(a)(i) or (b)(i) is to be levied in arrears; and
-(b) the Corporation is to make any adjustments to charges levied in respect of that water that are necessary to give effect to these regulations.
-(2) If notice of a change of selection is received by the Corporation before 1 June 2002, the change has effect with respect to water supplied on or after 1 July 2001.
-”.
+The Water Authority (Charges) Amendment By-laws (No. 3) 1989 bl. 3 is an application provision that is of no further effect.
+The Water Authority (Charges) Amendment By-laws 1990 bl. 3 is an application provision that is of no further effect.
+The Water Authority (Charges) Amendment By-laws 1991 bl. 3 and 7 are application provisions that are of no further effect.
+The Water Authority (Charges) Amendment By-laws 1992 bl. 4 is an application provision that is of no further effect.
+The Water Authority (Charges) Amendment By-laws (No. 4) 1992 bl. 4 is an application provision that is of no further effect.
+The Water Agencies (Charges) Amendment By-laws (No. 5) 1997 bl. 10 is a savings provision that is of no further effect.
+The Water Agencies (Charges) Amendment By-laws (No. 2) 1999 bl. 32(2) is a transitional provision that is of no further effect.
+The Water Agencies (Charges) Amendment By-laws (No. 5) 2001 bl. 2 and 6 are transitional and application provisions that are of no further effect.
 The Water Agencies (Charges) Amendment By-laws 2002 bl. 3 reads as follows:
 “
 3.Saving
