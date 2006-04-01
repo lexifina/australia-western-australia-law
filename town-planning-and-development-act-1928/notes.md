@@ -82,11 +82,11 @@ Environmental Protection Amendment Act 2003 s. 68(9) | 54 of 2003 | 20 Oct 2003 
 Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 126 29-31 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 11: The Town Planning and Development Act 1928 as at 10 Jun 2005 (includes amendments listed above)
+Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | To be proclaimed (see s. 2)
-Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | To be proclaimed (see s.2(2))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time this compilation was prepared, the former Department of Land Administration was called the Department of Land Information and the Minister was the Minister for Land Information.
 Under the Land Administration Act 1997 s. 281(3), a reference to the Land Act 1933 in a written law is, unless the contrary intention appears, to be read and construed as being a reference to the Land Administration Act 1997.
@@ -226,22 +226,7 @@ Schedule 3 — Consequential provisions
 (2) Section 20(1)(a) is amended by inserting after “1986,” —
 “ to section 58(6) of the Contaminated Sites Act 2003, ”.
 ”.
-On the date as at which this compilation was prepared, the Electricity Corporations Act 2005 s. 139, which gives effect to Sch. 5 Div. 15 had not come into operation. It reads as follows:
-“
-139.Amendments to other Acts
-The Acts mentioned in Schedule 5 are amended as set out in that Schedule.
-”.
-Schedule 5 Division 15 reads as follows:
-“
-Division 15 — Town Planning and Development Act 1928
-58.The Act amended
-The amendments in this Division are to the Town Planning and Development Act 1928.
-59.Section 27A amended
-Section 27A(1)(b)(iv) is deleted and the following subparagraph is inserted instead —
-“
-(iv) the holder of a distribution licence or integrated regional licence as defined in section 3 of the Electricity Industry Act 2004 for the purpose of the supply of electricity from or access to a distribution system as defined in that section;
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4, which gives effect to Sch. 1, had not come into operation. It reads as follows:
 “
 4.Acts in Schedule 1 repealed

@@ -14,10 +14,7 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 38 | 65 of 200
 Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 59 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 2: The Gas Pipelines Access (Western Australia) Act 1998 as at 8 Oct 2004 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
- | Short title | Number and Year | Assent | Commencement
-Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | To be proclaimed (see s. 2(2))
+Electricity Corporations Act 2006 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
 The copy of the Code reproduced in Schedule 2 is a copy of the Code in its original form, as agreed by the Council of Australian Governments on 7 November 1997. It does not include subsequent amendments to the Code. Copies of the Code as amended are available from the Code Registrar in accordance with Schedule 1 clause 7.
 Repealed by the Gas Pipelines Access (Western Australia) Act 1998 Sch. 3 cl. 31(1) on approval of Access Arrangement on 18 July 2000.
@@ -79,27 +76,4 @@ The operation of any provision of this Schedule is not to be regarded —
 (c) as giving rise to any remedy by a party to an instrument or as causing or permitting the termination of any instrument, because of a change in the beneficial or legal ownership of any asset, right or liability;
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
-”.
-On the date as at which this compilation was prepared, the Electricity Corporations Act 2005 s. 139, which gives effect to Sch. 5 Div. 9 had not come into operation. It reads as follows:
-“
-139.Amendments to other Acts
-The Acts mentioned in Schedule 5 are amended as set out in that Schedule.
-”.
-Schedule 5 Division 9 reads as follows:
-“
-Division 9 — Gas Pipelines Access (Western Australia) Act 1998
-45.The Act amended
-The amendments in this Division are to the Gas Pipelines Access (Western Australia) Act 1998.
-46.Section 80 amended
-(1) Section 80(1) and (2)(b) are amended by deleting “energy” and inserting instead —
-“ electricity ”.
-(2) Section 80(5) is repealed and the following subsection is inserted instead —
-“
-(5) In this section —
-“electricity corporation” means a body established by section 4(1) of the Electricity Corporations Act 2005, namely —
-(a)the Electricity Generation Corporation;
-(b)the Electricity Networks Corporation;
-(c)the Electricity Retail Corporation; and
-(d)the Regional Power Corporation.
-”.
 ”.

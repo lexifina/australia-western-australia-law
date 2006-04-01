@@ -22,7 +22,8 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Land Administration Act 1997 as at 24 Jun 2005 (includes amendments listed above)
 Financial Administration Legislation Amendment Act 2005 s. 42 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2005 p. 1153)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
@@ -30,7 +31,6 @@ Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Ope
 Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | To be proclaimed (see s. 2)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | To be proclaimed (see s.2(2))
 Water Legislation Amendment (Competition Policy) Act 2005 Pt. 4 | 25 of 2005 | 12 Dec 2005 | To be proclaimed (see s.2)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 Pt. 2 Div. 2 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
@@ -419,25 +419,7 @@ s. 231(c) | Delete the paragraph and insert instead — “ (c)in the case of a 
 s. 237(3) | Delete “stipendiary”.
 ”.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Electricity Corporations Act 2005 s. 139, which gives effect to Sch. 5 Div. 10 had not come into operation. It reads as follows:
-“
-139.Amendments to other Acts
-The Acts mentioned in Schedule 5 are amended as set out in that Schedule.
-”.
-Schedule 5 Division 10 reads as follows:
-“
-Division 10 — Land Administration Act 1997
-47.The Act amended
-The amendments in this Division are to the Land Administration Act 1997.
-48.Section 160 amended
-Section 160(1)(c) is deleted and the following paragraph is inserted instead —
-“
-(c) in the case of the Minister referred to in section 159(c), to a body established by section 4(1) of the Electricity Corporations Act 2005, namely —
-(i) the Electricity Networks Corporation; and
-(ii) the Regional Power Corporation,
-or to an officer of such a body;
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 Pt. 2 Div. 2 had not come into operation. It reads as follows:
 “
 Division 2 — Land Administration Act 1997
