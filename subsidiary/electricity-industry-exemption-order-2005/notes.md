@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Electricity Industry Exemption Order 2005. The following table contains information about this Order.
+This is a compilation of the Electricity Industry Exemption Order 2005 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Electricity Industry Exemption Order 2005 | 9 Dec 2005 p. 5878-84 | 1 Jan 2006 (see cl. 2)
+Electricity Industry Exemption Amendment Order 2006 | 31 Mar 2006 p. 1158-9 | 1 Apr 2006 (see cl. 2)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
