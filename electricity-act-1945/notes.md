@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 December 2005 of the Electricity Act 1945 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Act 1945 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electricity Act 1945 | 19 of 1945 | 9 Jan 1946 | 29 Mar 1946 (see s. 1 and Gazette 29 Mar 1946 p. 310)
@@ -25,12 +25,12 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 48 | 74 of 2003 | 15 Dec 200
 Electricity Legislation Amendment Act 2004 Pt. 2 Div. 1 | 33 of 2004 | 20 Oct 2004 | 31 Dec 2004 (see s. 2 and Gazette 23 Nov 2004 p. 5243)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 40 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Reprint 6: The Electricity Act 1945 as at 16 Dec 2005 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Reprint 6: The Electricity Act 1945 as at 16 Dec 2005 (not including No. 18 of 2005)
+Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2005 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | To be proclaimed (see s. 2(2))
 Repealed by the Interpretation Act 1984.
 Marginal notes in the Electricity Act 1945 referring to the legislation from which provisions were derived have been omitted from this reprint.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
@@ -40,7 +40,7 @@ The Energy Corporations (Transitional and Consequential Provisions) Act 1994 s. 
 Every instrument under a provision of the principal Act in force immediately before the commencement of this Part is to continue to have effect after that commencement according to its terms and conditions, as if it had been made under that provision as amended by this Part.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
 Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
@@ -51,20 +51,5 @@ Schedule 2 — Other amendments to Acts
 16.Electricity Act 1945
 s. 32(3)(f) | Delete “a Local Court” and insert instead — “ the Magistrates Court ”.
 ”.
-On the date as at which this reprint was prepared, the Electricity Corporations Act 2005 s. 139, which gives effect to Sch. 5, had not come into operation. It reads as follows:
-“
-139.Amendments to other Acts
-The Acts mentioned in Schedule 5 are amended as set out in that Schedule.
-”.
-Schedule 5 Division 3 reads as follows:
-“
-Division 3 — Electricity Act 1945
-5.The Act amended
-The amendments in this Division are to the Electricity Act 1945.
-6.Section 5 amended
-Section 5(1) is amended as follows:
-(a) in the definition of “supply authority” by deleting “, but does not include the Western Power Corporation”;
-(b) by deleting the definition of “Western Power Corporation”.
-”.
-”.
+Footnote no longer applicable.
 The amendment to s. 32(3)(f) by the Courts Legislation Amendment and Repeal Act 2004 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 273.
