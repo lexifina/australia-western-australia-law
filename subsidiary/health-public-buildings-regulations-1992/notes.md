@@ -10,3 +10,4 @@ Reprint 1: The Health (Public Buildings) Regulations 1992 as at 1 Aug 2003 (incl
 Health (Public Buildings) Amendment Regulations 2004 | 11 Feb 2004 p. 533 | 11 Feb 2004
 Health (Public Buildings) Amendment Regulations (No. 2) 2004 | 25 Jun 2004 p. 2237-8 | 1 Jul 2004 (see r. 2)
 Health (Public Buildings) Amendment Regulations 2005 | 31 May 2005 p. 2410 | 1 Jul 2005 (see r. 2)
+Electricity Corporations (Consequential Amendments) Regulations 2006 r. 81 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)

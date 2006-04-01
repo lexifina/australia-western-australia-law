@@ -16,11 +16,11 @@ An access application must contain the following information:
 (l) the arrangements which the applicant proposes to enter into in relation to the construction and supply of the connection equipment in respect of the distribution connection;
 (m) the nature of any disturbing load (size of disturbing component MW/MVAr, duty cycle, nature of power electronic plant which may produce harmonic distortion);
 (n) any information as required by the Distribution Technical Code;
-(o) commercial information concerning the applicant to allow Western Power to make an assessment of the ability of the applicant to meet its obligations under any distribution access agreement that results from the access application; and
-(p) any other information reasonably required by Western Power.
+(o) commercial information concerning the applicant to allow the corporation to make an assessment of the ability of the applicant to meet its obligations under any distribution access agreement that results from the access application; and
+(p) any other information reasonably required by the corporation.
 ## Part B — Information to be included in a response
 A response must contain the following information:
 (a) whether it is likely that there is sufficient spare capacity to provide the distribution access services requested in the access application or whether the electricity distribution network will have to be augmented to provide those services;
 (b) whether it is likely that any connection equipment will have to be installed or upgraded to provide the connection services (if any) requested in the access application; and
 (c) whether or not a capital contribution will be required of the user under regulation 12.
-[Schedule 2 amended in Gazette 28 December 2001 p.6717.]
+[Schedule 2 amended in Gazette 28 December 2001 p.6717; 31 Mar 2006 p. 1315.]

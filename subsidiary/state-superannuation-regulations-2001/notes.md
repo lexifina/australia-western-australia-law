@@ -21,6 +21,7 @@ State Superannuation Amendment Regulations (No. 3) 2004 | 1 Dec 2004 p. 5703-4 |
 State Superannuation Amendment Regulations (No. 4) 2004 | 1 Dec 2004 p. 5705-18 | 1 Dec 2004
 State Superannuation Amendment Regulations (No. 5) 2004 | 10 Dec 2004 p. 5894-908 | 10 Dec 2004
 Reprint 2: The State Superannuation Regulations 2001 as at 2 Sep 2005 (includes amendments listed above)
+Electricity Corporations (Consequential Amendments) Regulations 2006 r. 87 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional And Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. Part 9 of these regulations were amending regulations under that subsection. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 Formerly referred to the Water Services Coordination Act 1995 the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).

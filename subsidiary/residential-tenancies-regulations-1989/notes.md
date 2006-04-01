@@ -23,8 +23,9 @@ Reprint 2: The Residential Tenancies Regulations 1989 as at 19 Sep 2003 (include
 Residential Tenancies Amendment Regulations 2004 | 24 Dec 2004 p. 6149-53 | 24 Dec 2004
 Courts and Legal Practice (Consequential Amendments) Regulations 2005 r. 11 | 19 Apr 2005 p. 1294-302 | 19 Apr 2005
 Residential Tenancies Amendment Regulations 2005 | 29 Apr 2005 p. 1771-6 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7128)
+Electricity Corporations (Consequential Amendments) Regulations 2006 r. 84 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
-The State Electricity Commission was renamed the Electricity Corporation, the name of which, under the Statutes (Repeals and Minor Amendments) Act 2000 s. 14(3) was changed to the Western Power Corporation (established by the Electricity Corporation Act 1994).
+Footnote no longer applicable.
 Under the Public Transport Authority Act 2003 the Western Australian Government Railways Commission is succeeded by the Public Transport Authority of Western Australia.
 Now see Commissioner of Main Roads.
 Now see the Western Australian Meat Industry Authority.

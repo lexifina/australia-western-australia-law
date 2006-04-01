@@ -47,5 +47,6 @@ Electricity Amendment Regulations 1997 | 23 May 1997 pp.2417-19 | 23 May 1997
 Electricity Amendment Regulations 2000 | 30 May 2000 pp.2567-72 | 30 May 2000
 Electricity Amendment Regulations (No. 2) 2000 | 19 December 2000 p.7274 | 19 December 2000
 Electricity Amendment Regulations 2004 | 9 Nov 2004 p. 5005-6 | 9 Nov 2004
+Electricity Corporations (Consequential Amendments) Regulations 2006 r. 78 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 The heading to this provision was deleted by the Electricity Amendment Regulations 2000, see Gazette 30 May 2000 pp.2567-72.

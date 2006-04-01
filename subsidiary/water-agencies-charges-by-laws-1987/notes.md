@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 31 March 2006 of the Water Agencies (Charges) By-laws 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Water Agencies (Charges) By-laws 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Water Authority (Charges) By-laws 1987 | 14 Jul 1987 p. 2658-72 (errata 24 Jul 1987 p. 2841) | 14 Jul 1987
@@ -57,8 +57,8 @@ Water Agencies (Charges) Amendment By-laws (No. 6) 1996 | 13 Sep 1996 p. 4606 | 
 Water Agencies (Charges) Amendment By-laws (No. 7) 1996 | 7 Jan 1997 p. 63 | 7 Jan 1997
 Water Agencies (Charges) Amendment By-laws 1997 | 7 Feb 1997 p. 779 | 7 Feb 1997
 Water Agencies (Charges) Amendment By-laws (No. 2) 1997 | 13 May 1997 p. 2350-3 | 13 May 1997
-Water Agencies (Charges) Amendment By-laws (No. 3) 1997 | 27 Jun 1997 p. 3175-203 | 1 Jul 1997 (see bl. 2)
 Water Agencies (Charges) Amendment By-laws (No. 4) 1997 | 10 Jun 1997 p. 2669-70 | 10 Jun 1997
+Water Agencies (Charges) Amendment By-laws (No. 3) 1997 | 27 Jun 1997 p. 3175-203 | 1 Jul 1997 (see bl. 2)
 Reprint of the Water Agencies (Charges) By-laws 1987 as at 25 Aug 1997 (includes amendments listed above)
 Water Agencies (Charges) Amendment By-laws (No. 5) 1997 | 6 Jan 1998 p. 39-41 | 6 Jan 1998
 Water Agencies (Charges) Amendment By-laws 1998 | 9 Apr 1998 p. 2035 | 14 Apr 1998 (see bl. 2)
@@ -93,6 +93,7 @@ Water Agencies (Charges) Amendment By-laws (No. 3) 2005 | 1 Jul 2005 p. 3008-9 |
 Water Agencies (Charges) Amendment By-laws (No. 2) 2005 | 1 Jul 2005 p. 3031-78 | 1 Jul 2005 (see bl. 2)
 Water Agencies (Charges) Amendment By-laws (No. 4) 2005 | 4 Nov 2005 p. 5321 | 4 Nov 2005
 Reprint 4: The Water Agencies (Charges) By-laws 1987 as at 31 Mar 2006 (includes amendments listed above)
+Electricity Corporations (Consequential Amendments) Regulations 2006 r. 89 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
 Now established by the Port Authorities Act 1999 s. 4.
 Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act.
 Repealed by the Gas Corporation (Business Disposal) Act 1999.

@@ -84,4 +84,15 @@ cl. 9.23.3 | B | first contravention: $25 000 plus a daily amount of $5 000 subs
 cl. 9.24.7 | C | first contravention: $40 000 plus a daily amount of $5 000 subsequent contraventions: $80 000 plus a daily amount of $10 000
 cl. 10.1 | B | first contravention: $25 000 subsequent contraventions: $50 000
 cl. 10.2.4 | B | first contravention: $25 000 subsequent contraventions: $50 000
-[Schedule 1 inserted in Gazette 16 Aug 2005 p. 3854-61.]
+Appendix 8 rule 3.2A | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
+Appendix 8 rule 3.2B | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
+Appendix 8 rule 4.2 | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
+Appendix 8 rule 4.3 | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
+Appendix 8 rule 5.9(b) | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
+Appendix 8 rule 5.11 | A | first contravention: $10 000 subsequent contraventions: $20 000
+Appendix 8 rule 5.16 | A | first contravention: $10 000 subsequent contraventions: $20 000
+Appendix 8 rule A2.2 | A | first contravention: $10 000 subsequent contraventions: $20 000
+Appendix 8 rule A2.12 | A | first contravention: $10 000 subsequent contraventions: $20 000
+Appendix 8 rule A5.6A | A | first contravention: $10 000 subsequent contraventions: $20 000
+Appendix 8 rule A6.56 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
+[Schedule 1 inserted in Gazette 16 Aug 2005 p. 3854-61; amended in Gazette 31 Mar 2006 p. 1321-2.]

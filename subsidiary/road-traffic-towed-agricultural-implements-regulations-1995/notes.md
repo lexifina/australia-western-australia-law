@@ -10,3 +10,4 @@ Road Traffic (Vehicle Standards 2002) Amendment Regulations 2002 r. 13(2) | 3 Ja
 Reprint 1: The Road Traffic (Towed Agricultural Implements) Regulations 1995 as at 9 May 2003 (includes amendments listed above)
 Road Traffic (Towed Agricultural Implements) Amendment Regulations 2004 | 27 Jul 2004 p. 3081 | 27 Jul 2004
 Road Traffic (Towed Agricultural Implements) Amendment Regulations 2006 | 24 Feb 2006 p. 884-8 | 24 Feb 2006
+Electricity Corporations (Consequential Amendments) Regulations 2006 r. 85 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
