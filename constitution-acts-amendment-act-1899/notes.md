@@ -214,13 +214,13 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Reprint 13: The Constitution Acts Amendment Act 1899 as at 18 Mar 2005 (includes amendments listed above except those in the Marketing of Eggs Amendment Act 2004, the Finance Brokers Control Amendment Act 2004, the Courts Legislation Amendment and Repeal Act 2004, the Criminal Law Amendment (Simple Offences) Act 2004) and the Architects Act 2004)
  | Electoral Amendment and Repeal Act 2005 s. 7 | 1 of 2005 | 20 May 2005 | 20 May 2005 (see s. 2)
  | Constitution and Electoral Amendment Act 2005 s. 3 | 2 of 2005 | 23 May 2005 | 23 May 2005 (see s. 2)
+ | Electricity Corporation Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
  | Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 4 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 s. 57 (Sch. 1 it. 6) | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | To be proclaimed (see s.2(2))
 Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Optometrists Act 2005 s. 109 | 29 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Podiatrists Act 2005 s. 109 | 30 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
@@ -342,26 +342,7 @@ Schedule 3 — Consequential amendments
 The Psychologists Registration Board of Western Australia established under the Psychologists Act 2005.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Electricity Corporations Act 2005 s. 139, which gives effect to Sch. 5 Div. 1 had not come into operation. It reads as follows:
-“
-139.Amendments to other Acts
-The Acts mentioned in Schedule 5 are amended as set out in that Schedule.
-”.
-Schedule 5 Division 1 reads as follows:
-“
-Division 1 — Constitution Acts Amendment Act 1899
-1.The Act amended
-The amendments in this Division are to the Constitution Acts Amendment Act 1899.
-2.Schedule V amended
-Schedule V Part 3 is amended as follows:
-(a) by deleting the item “The Western Power Corporation established by the Electricity Corporation Act 1994.”;
-(b) by inserting in the appropriate alphabetical positions —
-“
-The Electricity Generation Corporation established by section 4(1)(a) of the Electricity Corporations Act 2005.
-The Electricity Networks Corporation established by section 4(1)(b) of the Electricity Corporations Act 2005.
-The Electricity Retail Corporation established by section 4(1)(c) of the Electricity Corporations Act 2005.
-The Regional Power Corporation established by section 4(1)(d) of the Electricity Corporations Act 2005.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Optometrists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments

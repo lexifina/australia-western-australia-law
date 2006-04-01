@@ -1,3 +1,4 @@
 Western Australia
-Electricity Corporation Act 1994
-An Act to establish a corporation with the function of supplying electricity, and with functions necessary for and related to that purpose, to make provision as to access to the corporation’s transmission and distribution systems and as to new generation by the corporation, and for connected purposes.
+Electricity Transmission and Distribution Systems (Access) Act 1994
+An Act to make provision for the availability of access to electricity transmission and distribution systems, and for related matters.
+[Long title inserted by No. 18 of 2005 s. 139.]

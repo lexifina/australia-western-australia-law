@@ -68,11 +68,11 @@ Environmental Protection Amendment Act 2003 s. 68(5) | 54 of 2003 | 20 Oct 2003 
 Statutes (Repeals and Minor Amendments) Act 2003 s. 81 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 82 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | To be proclaimed (see s.2(2))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 At the date of this compilation the Minister responsible for the administration of this Act, formerly called the Minister for Town Planning, is the Minister for Planning and Infrastructure.
 Repealed by the Interpretation Act 1984.
@@ -351,22 +351,7 @@ The State Administrative Tribunal Regulations 2004 r. 57 reads as follows:
 (b) the owner fails to carry out the direction as confirmed or varied,
 the Western Australian Planning Commission or local government may, on or after the commencement day, take the action specified in the MRTPS Act section 43(5).
 ”.
-On the date as at which this compilation was prepared, the Electricity Corporations Act 2005 s. 139, which gives effect to Sch. 5 Div. 11 had not come into operation. It reads as follows:
-“
-139.Amendments to other Acts
-The Acts mentioned in Schedule 5 are amended as set out in that Schedule.
-”.
-Schedule 5 Division 11 reads as follows:
-“
-Division 11 — Metropolitan Region Town Planning Scheme Act 1959
-49.The Act amended
-The amendments in this Division are to the Metropolitan Region Town Planning Scheme Act 1959.
-50.Second Schedule amended
-The Second Schedule item 13 is deleted and the following item is inserted instead —
-“
-13.The generation, transmission and distribution of electricity.
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4, which gives effect to Sch. 1, had not come into operation. It reads as follows:
 “
 4.Acts in Schedule 1 repealed

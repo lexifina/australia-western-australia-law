@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity Corporation Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Transmission and Distribution Systems (Access) Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electricity Corporation Act 1994 | 86 of 1994 | 15 Dec 1994 | Act other than s. 90, 91 and 93: 1 Jan 1995 (see s. 2(1) and Gazette 23 Dec 1994 p. 7069); s. 90 and 93: 1 Jan 1997 (see s. 2(2) and Gazette 31 Dec 1996 p. 7255); s. 91: 1 Jul 1997 (see s. 2(2) and Gazette 1 Jul 1997 p. 3249)
@@ -22,12 +22,12 @@ Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 (see G
 Energy Legislation Amendment Act 2003 s. 102-108, 109(1)-(3) and 110(1)-(3) | 53 of 2003 | 8 Oct 2003 | 8 Oct 2003 (see s. 2(1) and (2))
 Statutes (Repeals and Minor Amendments) Act 2003 s. 49 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Electricity Legislation Amendment Act 2004 Pt. 2 Div. 2 | 33 of 2004 | 20 Oct 2004 | 24 Nov 2004 (see s. 2 and Gazette 23 Nov 2004 p. 5243)
+Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Energy Legislation Amendment Act 2003 s. 109(4)-(5), 110(4) and 111 | 53 of 2003 | 8 Oct 2003 | To be proclaimed (see s. 2(1) and (2))
-Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | To be proclaimed (see s.2(2))
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Electricity Corporations Act 2005 Sch. 5 cl. 21(2)(a)(ii) | 18 of 2005 | 13 Oct 2005 | To be proclaimed (see s. 2(2))
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
 “
 2.Commencement
@@ -275,322 +275,18 @@ On the date as at which this compilation was prepared, the Energy Legislation Am
 Schedule 7 clause 2(1) is amended by deleting “prepare annually” and inserting instead —
 “ , not later than the prescribed day in each year, prepare ”.
 ”.
-On the date as at which this compilation was prepared, the Electricity Corporations Act 2005 s. 139, which gives effect to Sch. 5 Div. 4 had not come into operation. It reads as follows:
+The Electricity Corporations Act 2005 Sch. 5 cl. 22(2)-(4) reads as follows:
 “
-139.Amendments to other Acts
-The Acts mentioned in Schedule 5 are amended as set out in that Schedule.
-”.
-Schedule 5 Division 4 reads as follows:
-“
-Division 4 — Electricity Corporation Act 1994
-7.The Act amended
-The amendments in this Division are to the Electricity Corporation Act 1994.
-8.Long title amended
-The long title is repealed and the following long title is inserted instead —
-“
-An Act to make provision for the availability of access to electricity transmission and distribution systems, and for related matters.
-”.
-9.Section 1 amended
-Section 1 is amended by deleting “Corporation” and inserting instead —
-“ Transmission and Distribution Systems (Access) ”.
-10.Sections 2 and 3 replaced by section 2
-Sections 2 and 3 are repealed and the following section is inserted instead —
-“
-2.Terms used in this Act
-In this Act, unless the contrary intention appears —
-“corporation” means each of —
-(a)the Electricity Networks Corporation established by section 4(1)(b); and
-(b)the Regional Power Corporation established by section 4(1)(d),
-of the Electricity Corporations Act 2005;
-“isolated system” means a system for the transmission and distribution of electricity that is not connected to —
-(a)the North West interconnected system; or
-(b)the South West interconnected system as defined in section 3 of the Electricity Corporations Act 2005;
-“North West interconnected system” means the interconnected transmission and distribution systems, generating works and associated works —
-(a)located in the Pilbara region of the State; and
-(b)into which electricity is supplied by one or more of the electricity generation plants at Dampier, Port Hedland and Cape Lambert,
-as expanded or altered from time to time.
-”.
-11.Parts 2, 3, 4 and 5 repealed
-Parts 2, 3, 4 and 5 are repealed.
-12.Part 6 heading replaced
-The heading to Part 6 is deleted and the following heading is inserted instead —
-“
-Part 6 — Access to electricity transmission and distribution systems
-”.
-13.Section 89 amended
-(1) Section 89(1) is amended as follows:
-(a) by deleting “, 6 and 7” and inserting instead —
-“ and 6 ”;
-(b) in the definition of “electricity distribution capacity” —
-(i) by inserting before “means” —
-“
-, in relation to the electricity distribution system operated by a corporation,
-”; and
-(ii) by deleting “electricity distribution” in the second place where it occurs;
-(c) in the definition of “electricity distribution system” by inserting before “means” —
-“ , in relation to a corporation, ”;
-(d) in the definition of “electricity transmission capacity” —
-(i) by inserting before “means” —
-“
-, in relation to the electricity transmission system operated by a corporation,
-”; and
-(ii) by deleting “electricity transmission” in the second place where it appears;
-(e) in the definition of “electricity transmission system” by inserting before “means” —
-“ , in relation to a corporation, ”;
-(f) by deleting the definition of “new generation”.
-(2) Section 89(2) is amended by inserting before “means” —
-“ , in relation to a corporation, ”.
-(3) After section 89(2) the following subsection is inserted —
-“
-(3) In this Part and in Schedules 5 and 6, in relation to the Regional Power Corporation referred to in the definition of “corporation” in section 2, references to the electricity transmission system or the electricity distribution system operated by a corporation —
-(a) in Schedule 5 clause 6 and Schedule 6 clause 6 are references to —
-(i) the North West interconnected system; and
-(ii) all isolated systems,
-as if they were a single electricity system; and
-(b) otherwise, are references to any electricity transmission system or electricity distribution system operated by that corporation.
-”.
-14.Sections 92 and 93 repealed
-Sections 92 and 93 are repealed.
-15.Section 94 amended
-(1) Section 94(1) is amended by deleting “the corporation by this Part and by Schedules 5, 6 and 7” and inserting instead —
-“ a corporation by this Part and by Schedules 5 and 6 ”.
-(2) Section 94(2) is amended by inserting after “access” —
-“ by a corporation ”.
-(3) Section 94(3)(a) is amended by deleting “the corporation” and inserting instead —
-“ a corporation ”.
-(4) Section 94(4) is amended by deleting “, 6 and 7.” and inserting instead —
-“ and 6. ”.
-16.Section 95 amended
-Section 95(1) is amended by deleting “100” and inserting instead —
-“ 96 ”.
-17.Section 95A amended
-(1) Section 95A(2) and (3) are repealed and the following subsections are inserted instead —
-“
-(2) A declaration is not to be made in respect of a relevant provision unless the Minister is of the opinion that the matters to which the relevant provision relates —
-(a) no longer need to be dealt with, or will no longer need to be dealt with on and after the specified day, under this Act or any other written law; or
-(b) are adequately dealt with, or will be adequately dealt with on and after the specified day, under —
-(i) another provision of this Act; or
-(ii) Part 8 of the Electricity Industry Act 2004 and the Code established under that Part.
-(3) A declaration is not to be made after the expiration of the period of 18 months beginning on the day on which Schedule 5 clause 17 of the Electricity Corporations Act 2005 comes into operation.
-”.
-(2) Section 95A(4) is amended as follows:
-(a) by deleting “100” and inserting instead —
-“ 96 ”;
-(b) in paragraph (a) by inserting after “specified” —
-“ relevant ”.
-(3) Section 95A(5) is amended in the definition of “relevant provision” —
-(a) by deleting “, 91, 92 or 93” and inserting instead —
-“ or 91 ”;
-(b) by deleting “, 6 or 7” and inserting instead —
-“ or 6 ”.
-18.Section 96 inserted
-After section 95A the following section is inserted in Part 6 —
-“
-96.Regulations
-The Governor may make regulations prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for giving effect to the purposes of this Act.
-”.
-19.Part 7 and Schedules 1, 2, 3 and 4 repealed
-Part 7 and Schedules 1, 2, 3 and 4 are repealed.
-20.Schedule 5 amended
-(1) The amendments in this clause are to Schedule 5.
-(2) Clause 1 is amended as follows:
-(a) in the definition of “firm capacity” —
-(i) by inserting before “means” —
-“
-, in relation to the electricity transmission system operated by a corporation,
-”; and
-(ii) by inserting after “particular point” —
-“ in that system ”;
-(b) in the definition of “new capacity” —
-(i) by inserting before “means” —
-“
-, in relation to the electricity transmission system operated by a corporation,
-”; and
-(ii) by deleting “electricity transmission”;
-(c) in the definition of “non-firm capacity” —
-(i) by inserting before “means” —
-“
-, in relation to the electricity transmission system operated by a corporation,
-”; and
-(ii) by inserting after “particular point” —
-“ in that system ”;
-(d) in the definition of “spare capacity” by inserting before “means” —
-“
-, in relation to the electricity transmission system operated by a corporation,
-”;
-(e) in the definition of “user” by inserting before “means” —
-“ , in relation to a corporation, ”.
-(3) Clause 2(1) is repealed and the following subclause is inserted instead —
-“
-(1) A corporation must make available access to spare capacity and new capacity of the electricity transmission system operated by the corporation on —
-(a) a non-discriminatory basis; and
-(b) a first come first served basis,
-to any existing or prospective user seeking access to either or both of those capacities.
-”.
-(4) Clause 2(1a) and (3) are amended by deleting “the corporation” in each place where it appears and inserting instead —
-“ a corporation ”.
-(5) Clause 2(3)(c) is amended by deleting “the corporation’s” and inserting instead —
-“ a corporation’s ”.
-(6) Clause 2(4) is amended by deleting “The corporation” and inserting instead —
-“ A corporation ”.
-(7) Clause 2A(1) is amended by deleting “the corporation” in the first place where it appears and inserting instead —
-“ a corporation ”.
-(8) Clause 2A(2) is amended by deleting “the corporation.” and inserting instead —
-“ a corporation. ”.
-(9) Clause 3 is amended as follows:
-(a) by inserting after “transmission system” in the first place where it appears —
-“ operated by a corporation ”;
-(b) in paragraph (a) by inserting after “capacity” —
-“ of that system ”.
-(10) Clause 4 is repealed and the following clause is inserted instead —
-“
-4.Obligation to provide information
-(1) A corporation must, not later than the prescribed day in each year, prepare —
-(a) a report on past and current demand for electricity transmission capacity of the electricity transmission system operated by the corporation (the “system”);
-(b) a forecast of future demand for such electricity transmission capacity;
-(c) a report on current firm capacity, non-firm capacity and spare capacity of the system;
-(d) a report on plans for new capacity currently being considered by the corporation for the system;
-(e) a forecast of —
-(i) the expected costs of —
-(I) maintaining the electricity transmission capacity of; and
-(II) providing new capacity for,
-the system; and
-(ii) any capital investment required for that maintenance or provision;
-and
-(f) a report on the costs of the system,
-and must provide to any person copies of those reports and forecasts, upon payment to the corporation by that person of the prescribed fee.
-(2) Any existing or prospective user may request a corporation to provide a report and forecast of firm capacity, non-firm capacity, and spare capacity of the electricity transmission system operated by the corporation as applicable to that user’s particular requirements.
-”.
-(11) Clause 5 is amended as follows:
-(a) by deleting “The corporation” and inserting instead —
-“ A corporation ”;
-(b) by deleting paragraphs (a) and (b) and “and” after paragraph (a) and inserting instead —
-“
-(a) maintain the electricity transmission capacity of the electricity transmission system operated by the corporation; and
-(b) provide new capacity in that system within a reasonable time if requested by any existing or prospective user,
-”.
-(12) Clause 6(1) is amended as follows:
-(a) by deleting “The corporation” and inserting instead —
-“ A corporation ”;
-(b) in paragraph (a)(i) by inserting after “system” —
-“ operated by the corporation (the “system”) ”;
-(c) in paragraphs (a)(ii), (b) and (c) by deleting “electricity transmission” in each place where it occurs.
-(13) Clause 6(2) is repealed and the following subclause is inserted instead —
-“
-(2) A corporation must adopt pricing methods which have as their objective the recovery within a reasonable time from users of —
-(a) the costs of maintaining and providing the electricity transmission capacity of the electricity transmission system operated by the corporation;
-(b) the capital investment in that system; and
-(c) a reasonable rate of return on that capital investment.
-”.
-(14) Clause 6(3) is amended as follows:
-(a) by deleting “The corporation” and inserting instead —
-“ A corporation ”;
-(b) by deleting paragraph (a) and inserting the following paragraph instead —
-“
-(a) make publicly available a schedule of the terms and conditions of access to electricity transmission capacity of the electricity transmission system operated by the corporation;
-”.
-21.Schedule 6 amended
-(1) The amendments in this clause are to Schedule 6.
-(2) Clause 1 is amended as follows:
-(a) in the definition of “new capacity” —
-(i) by inserting before “means” —
-“
-, in relation to the electricity distribution system operated by a corporation,
-”; and
-(ii) by deleting “electricity distribution”;
-(b) in the definition of “spare capacity” by inserting before “means” —
-“
-, in relation to the electricity distribution system operated by a corporation,
-”;
-(c) in the definition of “user” by inserting before “means” —
-“ , in relation to a corporation, ”.
-(3) Clause 2(1) is repealed and the following subclause is inserted instead —
-“
-(1) A corporation must, to the extent prescribed by order under subclause (1b), make available access to spare capacity and new capacity of the electricity distribution system operated by the corporation on —
-(a) a non-discriminatory basis; and
-(b) a first come first served basis,
-to any existing or prospective user seeking access to either or both of those capacities.
-”.
-(4) Clause 2(1a) is amended by deleting “the corporation” and inserting instead —
-“ a corporation ”.
-(5) After clause 2(1a) the following subclauses are inserted —
-“
-(1b) The Minister, by order or orders published in the Gazette, is to prescribe the manner and timing of a corporation’s obligations under subclause (1).
-(1c) An order under subclause (1b) may be amended by further order made by the Minister and published in the Gazette.
-”.
-(6) Clause 2(3) is amended by deleting “the corporation” in each place where it appears and inserting instead —
-“ a corporation ”.
-(7) Clause 2(3)(c) is amended by deleting “the corporation’s” and inserting instead —
-“ a corporation’s ”.
-(8) Clause 2(4) is amended by deleting “The corporation” and inserting instead —
-“ A corporation ”.
-(9) Clause 2A is amended as follows:
-(a) in subclause (1) by deleting “the corporation” in the first place where it appears and inserting instead —
-“ a corporation ”;
-(b) in subclause (2) by deleting “the corporation” and inserting instead —
-“ a corporation ”.
-(10) Clause 3 is amended as follows:
-(a) by inserting after “distribution system” in the first place where it appears —
-“ operated by a corporation ”;
-(b) in paragraph (a) by inserting after “capacity” —
-“ of that system ”.
-(11) Clause 4 is repealed and the following clause is inserted instead —
-”.
-4.Obligation to provide information
-Any existing or prospective user may request a corporation to provide a report and forecast of electricity distribution capacity of the electricity distribution system operated by the corporation as applicable to that user’s particular requirements.
-”.
-(12) Clause 5 is amended as follows:
-(a) by deleting “The corporation” and inserting instead —
-“ A corporation ”;
-(b) by deleting paragraphs (a) and (b) and “and” after paragraph (a) and inserting instead —
-“
-(a) maintain the electricity distribution capacity of the electricity distribution system operated by the corporation; and
-(b) provide new capacity in that system within a reasonable time if requested by any existing or prospective user,
-”.
-(13) Clause 6(1) is amended as follows:
-(a) by deleting “The corporation” and inserting instead —
-“ A corporation ”;
-(b) in paragraph (a)(i) by inserting after “system” —
-“ operated by the corporation (the “system”) ”;
-(c) in paragraphs (a)(ii), (b) and (c) by deleting “electricity distribution” in each place where it appears.
-(14) Clause 6(2) is repealed and the following subclause is inserted instead —
-“
-(2) A corporation must adopt pricing methods which have as their objective the recovery within a reasonable time from users of —
-(a) the costs of maintaining and providing the electricity distribution capacity of the electricity distribution system operated by the corporation;
-(b) the capital investment in that system; and
-(c) a reasonable rate of return on that capital investment.
-”.
-(15) Clause 6(3) is amended as follows:
-(a) by deleting “The corporation” and inserting instead —
-“ A corporation ”;
-(b) by deleting paragraph (a) and inserting the following paragraph instead —
-“
-(a) make publicly available a schedule of the terms and conditions of access to electricity distribution capacity of the electricity distribution system operated by the corporation;
-”.
-22.Schedule 7 repealed and saving provisions
-(1) Schedule 7 is repealed.
 (2) Any procurement of new generation that is in progress under Schedule 7 immediately before its repeal by subclause (1) is to be continued by the Electricity Retail Corporation after the commencement of that subclause as if Schedule 7 clauses 1, 3 and 4 had not been repealed.
 (3) Any act, matter or thing done or omitted to be done before the commencement of subclause (1) by, to or in respect of Western Power Corporation in relation to the procurement of new generation mentioned in that subclause, is to be taken to have been done or omitted by, to or in respect of the Electricity Retail Corporation.
 (4) In subclause (3) —
 “Western Power Corporation” has the meaning given to that term in section 142(1).
 ”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Electricity Corporations Act 2005 Sch. 5 cl. 21(2)(a)(ii) had not come into operation. It reads as follows:
 “
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
+21.Schedule 6 amended
+(2) Clause 1 is amended as follows:
+(a) in the definition of “new capacity” —
+(ii) by deleting “electricity distribution”;
 ”.
-Schedule 2, cl. 19 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-19.Electricity Corporations Act 2005
-(1) Section 60(3) is amended as follows —
-(a) by deleting “Town Planning and Development Act 1928 sections 7B(7) and 10AB(1)” and inserting instead —
-“
-Planning and Development Act 2005 sections 221 and 218
-”.
-(b) in paragraph (b) by deleting “town” and inserting instead —
-“ local ”.
-(2) Section 60(5) is amended by deleting “Town Planning and Development Act 1928” and inserting instead —
-“ Planning and Development Act 2005 ”.
-”.
+Now know as the Electricity Transmission and Distribution Systems (Access) Act 1994; short title changed (see note under s. 1).

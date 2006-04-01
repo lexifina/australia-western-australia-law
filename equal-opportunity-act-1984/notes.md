@@ -31,11 +31,11 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 33, 112 | 65 o
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 4314, 15 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 4: The Equal Opportunity Act 1984 as at 1 Apr 2005 (includes amendments listed above except those in the Courts Legislation Amendment and Repeal Act 2004)
+Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 26 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | To be proclaimed (see s.2(2))
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
 Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1).
 The Uniform Building By-laws 1974 were repealed in Gazette 28 July 1989 p. 2280.
@@ -80,24 +80,4 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 “ or ”;
 (b) after subparagraph (iii) by deleting “or”;
 (c) by deleting subparagraph (iv).
-”.
-On the date as at which this compilation was prepared, the Electricity Corporations Act 2005 s. 139, which gives effect to Sch. 5 Div. 8 had not come into operation. It reads as follows:
-“
-139.Amendments to other Acts
-The Acts mentioned in Schedule 5 are amended as set out in that Schedule.
-”.
-Schedule 5 Division 8 reads as follows:
-“
-Division 8 — Equal Opportunity Act 1984
-43.The Act amended
-The amendments in this Division are to the Equal Opportunity Act 1984.
-44.Section 139 amended
-Section 139(1)(c) is deleted and the following paragraph is inserted instead —
-“
-(c) each of the bodies established by section 4(1) of the Electricity Corporations Act 2005, namely —
-(i) the Electricity Generation Corporation;
-(ii) the Electricity Networks Corporation;
-(iii) the Electricity Retail Corporation; and
-(iv) the Regional Power Corporation;
-”.
 ”.

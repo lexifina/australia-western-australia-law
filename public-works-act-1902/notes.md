@@ -56,10 +56,7 @@ Reprint of the Public Works Act 1902 as at 1 June 2001 (includes amendments list
 Public Transport Authority Act 2003 s. 160-166 | 31 of 2003 | 26 May 2003 | 1 July 2003 (see s. 2(1) and Gazette 27 June 2003 p. 2384)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 98 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
- | Short title | Number and Year | Assent | Commencement
-Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | To be proclaimed (see s. 2(2))
+Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was substituted under the Reprints Act 1984 s. 7(3)(g).
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner or the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management.
 Repealed by the Roads Act 1911 which was repealed by the Road Districts Act 1919 which was repealed by the Local Government Act 1960 which is now cited as the Local Government (Miscellaneous Provisions) Act 1960. The main Act now dealing with local governments is the Local Government Act 1995.
@@ -99,28 +96,4 @@ The Statutes (Repeals and Minor Amendments) Act 2000 s. 35(2) and (3) read as fo
 (2) The purported exercise or performance by a Minister of the Crown other than the responsible Minister of any power conferred or duty imposed on the responsible Minister and purportedly delegated to the Minister of the Crown under section 5A(f) of the Act, as in force during the period beginning on 7 December 1993 and ending immediately before the commencement of this section, is validated and declared to have been lawfully exercised or performed by that Minister of the Crown.
 (3) In subsection (2) —
 “responsible Minister” means the Minister to whom the administration of the Act was committed by the Governor at the time of a purported delegation referred to in subsection (2).
-”.
-On the date as at which this compilation was prepared, the Electricity Corporations Act 2005 s. 139 , which gives effect to Sch. 5 Div. 13 had not come into operation. It reads as follows:
-“
-139.Amendments to other Acts
-The Acts mentioned in Schedule 5 are amended as set out in that Schedule.
-”.
-Schedule 5 Division 13 reads as follows:
-“
-Division 13 — Public Works Act 1902
-53.The Act amended
-The amendments in this Division are to the Public Works Act 1902.
-54.Section 5A amended
-Section 5A(d) is amended by deleting “Corporation Act 1994” and inserting instead —
-“ Corporations Act 2005 ”.
-55.Section 5B amended
-Section 5B(1)(c) is deleted and the following paragraph is inserted instead —
-“
-(c) in the case of the Minister of the Crown referred to in section 5A(d), to a body established by section 4(1) of the Electricity Corporations Act 2005, namely —
-(i) the Electricity Generation Corporation;
-(ii) the Electricity Networks Corporation;
-(iii) the Electricity Retail Corporation; and
-(iv) the Regional Power Corporation,
-or to an officer of such a body;
-”.
 ”.
