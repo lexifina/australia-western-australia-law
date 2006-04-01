@@ -37,4 +37,4 @@ AS/NZS 3947.1:1998 Low voltage switchgear and controlgear – General rules.
 AS 1033.1 – 1990 High voltage fuses (for rated voltages exceeding 1000V) –Expulsion type.
 AS 1033.2 – 1988 High voltage fuses (for rated voltages exceeding 1000V) –Current limiting (powder filled) type.
 AS/NZS 60269.1:2000 Low-voltage fuses – General requirements.
-[Schedules 4 and 5 repealed in Gazette 13 Dec 2005 p. 5979.]
+[Schedules 4 and 5 deleted in Gazette 13 Dec 2005 p. 5979.]
