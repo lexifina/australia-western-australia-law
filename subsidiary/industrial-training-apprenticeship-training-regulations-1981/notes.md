@@ -29,6 +29,10 @@ Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 2001
 Reprint of the Industrial Training (Apprenticeship Training) Regulations 1981 as at 2 Aug 2002 (includes amendments listed above)
 Industrial Training (Apprenticeship Training) Amendment Regulations 2005 | 12 Aug 2005 p. 3651-2 | 12 Aug 2005
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 2005 | 18 Nov 2005 p. 5657-9 | 1 Jan 2006 (see r. 2)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Industrial Training (Aapprenticeship Training) Amendment Regultions 2006 r. 4-9 | 4 Apr 2006 p. 1401-5 | 1 May 2006 (see r. 2)
 The definition of “Council” was deleted from s. 4 of the Act by the State Employment and Skills Development Authority Act 1990 s. 45(a)(ii). The definition of “Authority” inserted by s. 45(a)(i) of that Act was deleted by the Vocational Education and Training Act 1996 Sch. 3 cl. 12.
 The Education Regulations 1960 r. 4 referred to the Director of technical education. Those regulations were repealed by the School Education Act 1999 s. 246(2).
 “Approved College” is defined in r. 4 of the Industrial Training (General Apprenticeship) Regulations 1981: see r. 3 of these regulations. The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996 s. 70(1).
@@ -98,4 +102,105 @@ The Industrial Training (Apprenticeship Training) Regulations 1981 as in force i
 (a) Baking (Combined Breadmaking and Pastrycooking);
 (b) Breadmaking; or
 (c) Pastrycooking.
+”.
+On the date as at which this compilation was prepared, the Industrial Training (Aapprenticeship Training) Amendment Regultions 2006 r. 4-9 had not come into operation. They read as follows:
+“
+4.Schedule 1 amended
+Schedule 1 is amended as follows:
+(a) by deleting the items for —
+(i) Bricklaying;
+(ii) Carpentry and Joinery;
+(iii) Plastering;
+(iv) Tilelaying;
+(v) Wall and Ceiling Fixing;
+(b) after the item for “Baking (Combined Breadmaking and Pastrycooking)” by inserting the following items in the appropriate alphabetical positions —
+“
+Bricklaying
+Carpentry and Joinery
+Plastering
+Tilelaying
+Wall and Ceiling Fixing
+”;
+(c) after the item for “Wall and Ceiling Fixing” (as inserted by paragraph (b)) by inserting the following items —
+“
+Bricklaying (Housing) | 2 Years
+Carpentry (Housing)
+Joinery (Housing)
+Plastering (Housing)
+Wall and Ceiling Fixing (Housing)
+Wall and Floor Tiling (Housing)
+”.
+5.Schedule 2 amended
+Schedule 2 is amended by deleting the items for —
+(a) Carpentry and Joinery;
+(b) Plastering.
+6.Schedule 3 amended
+Schedule 3 is amended in Column 1 by deleting “Bricklaying” and “Carpentry and Joinery”.
+7.Schedule 3A amended
+Schedule 3A is amended by inserting the following items in the appropriate alphabetical positions —
+“
+Bricklaying | 320 hours | 320 hours | 120 hours
+Carpentry and Joinery | 320 hours | 320 hours | 120 hours
+Plastering | 320 hours | 320 hours | 120 hours
+Bricklaying (Housing) | 320 hours | 270 hours
+Carpentry (Housing) | 320 hours | 256 hours
+Joinery (Housing) | 320 hours | 236 hours
+Plastering (Housing) | 320 hours | 272 hours
+Wall and Ceiling Fixing (Housing) | 320 hours | 240 hours
+Wall and Floor Tiling (Housing) | 320 hours | 322 hours
+Tilelaying | 320 hours | 320 hours | 120 hours
+Wall and Ceiling Fixing | 320 hours | 320 hours | 120 hours
+”.
+8.Schedule 4 amended
+Schedule 4 is amended by deleting the items for —
+(a) Bricklaying;
+(b) Carpentry and Joinery;
+(c) Plastering; and
+(d) Wall and Ceiling Fixing.
+9.Transitional
+(1) Subject to this regulation the Industrial Training (Apprenticeship Training) Regulations 1981 as in force immediately before 1 May 2006 continue to apply to and in relation to —
+(a) an apprentice who commenced service in a building trade under an apprenticeship agreement before 1 May 2006 (an “existing apprentice”); or
+(b) a person who —
+(i) commenced employment as a probationer in a building trade before 1 May 2006;
+(ii) completes that probationary employment after 1 May 2006; and
+(iii) on completing that probationary employment commences service under an apprenticeship agreement,
+(an “existing probationer”).
+(2) The parties to the apprenticeship agreement of an existing probationer may, with the approval of the Director, agree in the apprenticeship agreement —
+(a) that the term of the apprenticeship is to be 3 years; or
+(b) that —
+(i) the apprentice is to be employed in a housing building trade (instead of the building trade in which he or she was employed as a probationer); and
+(ii) the term of the apprenticeship is to be 2 years.
+(3) If the parties to an apprenticeship agreement agree in the manner described in subregulation (2)(a) or (b), subsection (1) ceases to apply to and in relation to the apprentice when he or she commences service under the apprenticeship agreement.
+(4) The parties to the apprenticeship agreement of an existing apprentice may, with the approval of the Director, vary the apprenticeship agreement to —
+(a) change the term of the apprenticeship to 3 years (plus any extension made by the Director under subregulation (6)); or
+(b) change —
+(i) the trade in which the apprentice is employed to a housing building trade; and
+(ii) the term of the apprenticeship to 2 years (plus any extension made by the Director under subregulation (6)).
+(5) An application for approval under subregulation (4) must be made —
+(a) in a form and manner approved by the Director; and
+(b) within 3 months of the date on which these regulations come into operation.
+(6) If, when an application is made for approval under subregulation (4) —
+(a) the apprentice has not —
+(i) attended all the classes;
+(ii) obtained all the instruction; and
+(iii) undertaken all the courses and skills training programmes;
+that the apprentice is required by section 33(1) of the Act to attend, obtain or undertake in relation to the trade in which he or she is to be employed under the varied agreement; and
+(b) the Director is satisfied that the apprentice will not reasonably be able to complete those requirements during the term of the apprenticeship (as varied),
+the Director may, before approving the variation, extend the term of the apprenticeship (as specified in the variation) by such period as the Director considers is reasonably necessary for the apprentice to complete those requirements.
+(7) A variation of an apprenticeship agreement under subregulation (4) takes effect on the date on which it is approved by the Director.
+(8) If an apprenticeship agreement is varied under subregulation (4), subsection (1) ceases to apply to and in relation to the apprentice on the date the variation takes effect.
+(9) In this regulation —
+“building trade” means —
+(a)bricklaying;
+(b)carpentry and joinery;
+(c)plastering;
+(d)tilelaying; or
+(e)wall and ceiling fixing;
+“housing building trade” means —
+(a)bricklaying (housing);
+(b)carpentry (housing);
+(c)joinery (housing);
+(d)plastering (housing);
+(e)wall and ceiling fixing (housing); or
+(f)wall and floor tiling (housing).
 ”.
