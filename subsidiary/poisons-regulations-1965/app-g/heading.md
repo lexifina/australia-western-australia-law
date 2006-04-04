@@ -11,9 +11,10 @@ FormDescription of No.Licence or Permit | Initial Fee (1 year) $ | Initial Fee (
 (a)for poisons other than those set out in this item .............. | 200 | 300 | 75 | 175
 (b)for any one or more of the poisons set out in this item | 575 | 1275 | 425 | 1125
 •benzene; •4,4-diaminodiphenylmethane (Methylene dianiline); •4,4’-methylenebis(2-chloroaniline);
-8.Poisons permit (Research or health services) ............................ | 100 | 150 | 50 | 100
+8.Poisons permit (Educational, advisory or research) ................... | 100 | 150 | 50 | 100
+8AA.Poisons permit (Health services) | 200 | 300 | 75 | 175
 11AA. Stockfeed manufacturer’s permit | 200 | 300 | 75 | 175
 13.Poisons permit (Departmental and hospitals) —
 (a)Departmental ...................... | 100 | 150 | 50 | 100
 (b)Hospitals ............................. | No fee | No fee | No fee | No fee
-[Appendix G inserted in Gazette 19 Mar 1996 p. 1238-9; amended in Gazette 11 Apr 1997 p. 1833-4; 14 Sep 2001 p. 5077.]
+[Appendix G inserted in Gazette 19 Mar 1996 p. 1238-9; amended in Gazette 11 Apr 1997 p. 1833-4; 14 Sep 2001 p. 5077; 4 Apr 2006 p. 1407.]
