@@ -1,9 +1,10 @@
 ## Second Schedule
-Schedule of fees and rents
+## Schedule of fees and rents
+[Heading inserted in Gazette 20 Jun 1986 p. 2084.]
  |  | $
 1.Annual Rent of —
-Existing exploration licence per square kilometre or part thereof — (a)for years 1 to 7 of the term of the licence .......... (b)for year 8, and each subsequent year, of the term of the licence ............................. |  | 38.72 131.12
-Graticular exploration licence — (a)one block licence applied for after 1 July 1999 . (b)all other licences, per block — (i)for years 1 to 3 of the term of the licence ................................................... (ii)for years 4 and 5 of the term of the licence …………………….................. (iii)for years 6 and 7 of the term of the licence ................................................... (iv)for year 8, and each subsequent year, of the term of the licence ...................... |  | 244.31 101.42 157.74 214.06 405.46
+Existing exploration licence per square kilometre or part thereof — (a)for years 1 to 7 of the term of the licence .......... (b)for year 8, and each subsequent year, of the term of the licence .............................................. |  | 38.72 131.12
+Graticular exploration licence — (a)one block licence applied for after 1 July 1999 . (b)all other licences, per block — (i)for years 1 to 3 of the term of the licence ................................................... (ii)for years 4 and 5 of the term of the licence .................................................. (iii)for years 6 and 7 of the term of the licence ................................................... (iv)for year 8, and each subsequent year, of the term of the licence ...................... |  | 244.31 101.42 157.74 214.06 405.46
 General purpose lease per hectare or part thereof .......... |  | 11.88
 Lease granted under the Mining Act 1904, either pursuant to or continued in force by virtue of an agreement scheduled to, incorporated in, or appearing in an Act or a variation of such an agreement, per hectare or part thereof ..................................................... |  | 13.42
 Mining lease per hectare or part thereof ......................... |  | 13.42
@@ -24,7 +25,7 @@ Retention Licence ............................................................ |
 2A.Application fee for approval of retention status ............. |  | 205.00
 2B.Copy of all or part of document or report (per copy) ..... | Reg. 25B | 6.50
 3.Copy of —
-Entry in the register (per tenement) …............................ | Reg. 84D | 6.50
+Entry in the register (per tenement) ................................ | Reg. 84D | 6.50
 Dealing or other instrument (per tenement) .................... | Reg. 84D | 6.50
 3A.Certification of a document ............................................. | Reg. 109 | 5.40
 4.Exemption from expenditure conditions —

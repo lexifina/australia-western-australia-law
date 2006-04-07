@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 April 2006 of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Mining Regulations 1981 | 13 Nov 1981 p. 4601-76 | 1 Jan 1982 (see r. 1(2) and Gazette 11 Dec 1981 p. 5085)
@@ -20,14 +20,14 @@ Mining Amendment Regulations (No. 2) 1988 | 8 Apr 1988 p. 1165 | 8 Apr 1988
 Mining Amendment Regulations (No. 3) 1988 | 20 May 1988 p. 1705-7 | 20 May 1988
 Mining Amendment Regulations (No. 5) 1988 | 15 Jul 1988 p. 2474 | 15 Jul 1988
 Mining Amendment Regulations (No. 4) 1988 | 22 Jul 1988 p. 2526-8 | 1 Aug 1988 (see r. 2)
-Reprint of the Mining Regulations 1981 as at 11 Aug 1988 (see Gazette 24 Aug 1988 p. 3147-242) (includes amendments listed above)
+Reprint of the Mining Regulations 1981 as at 11 Aug 1988 in Gazette 24 Aug 1988 p. 3147-242 (includes amendments listed above)
 Mining Amendment Regulations 1989 | 3 Mar 1989 p. 688-9 | 3 Mar 1989
 Mining Amendment Regulations (No. 2) 1989 | 30 Jun 1989 p. 2001 | 1 Jul 1989 (see r. 2)
 Mining Amendment Regulations (No. 3) 1989 | 21 Jul 1989 p. 2249-50 | 1 Aug 1989 (see r. 2)
 Mining Amendment Regulations (No. 5) 1989 | 22 Dec 1989 p. 4655 | 1 Jan 1990 (see r. 2)
 Mining Amendment Regulations 1990 | 20 Apr 1990 p. 2000 | 1 May 1990 (see r. 2)
-Mining Amendment Regulations (No. 2) 1990 | 22 Jun 1990 p. 3073-5 | 1 Jul 1990 (see r. 2)
 Mining Amendment Regulations (No. 3) 1990 | 22 Jun 1990 p. 3073 | 1 Jul 1990 (see r. 2)
+Mining Amendment Regulations (No. 2) 1990 | 22 Jun 1990 p. 3073-5 | 1 Jul 1990 (see r. 2)
 Mining Amendment Regulations (No. 4) 1990 | 16 Nov 1990 p. 5727-9 | 16 Nov 1990
 Mining Amendment Regulations (No. 2) 1991 | 24 May 1991 p. 2593-4 | 24 May 1991
 Mining Amendment Regulations 1991 | 31 May 1991 p. 2695-707 (corrigenda 7 Jun 1991 p. 2836 and 21 Jun 1991 p. 3057) | 1 Jul 1991 (see r. 2 and Gazette 28 Jun 1991 p. 3101)
@@ -99,10 +99,12 @@ Mining Amendment Regulations (No. 3) 2006 | 3 Feb 2006 p. 519-28 | 11 Feb 2006 (
 Mining Amendment Regulations (No. 2) 2006 | 3 Feb 2006 p. 573-605 | 10 Feb 2006 (see r. 2)
 Mining Amendment Regulations 2006 | 7 Feb 2006 p. 622-3 | 7 Feb 2006
 Mining Amendment Regulations (No. 4) 2006 | 4 Apr 2006 p. 1409 | 4 Apr 2006
+Reprint 6: The Mining Regulations 1981 as at 7 Apr 2006 (includes amendments listed above)
 The Mining Amendment Act 1990 was operative 28 June 1991.
+Repealed by the Courts Legislation Amendment and Repeal Act 2004.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Mines or to the Department of Minerals and Energy is, unless the contrary intention appears, to be read and construed as a reference to the Department of Industry and Resources.
-Under the Alterations of Statutory Designations Order (No. 3) 2001 a reference in any law to the Aboriginal Affairs Department is, unless the contrary intention appears, to be read and construed as a reference to the Department of Indigenous Affairs.
+Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Aboriginal Affairs Department is, unless the contrary intention appears, to be read and construed as a reference to the Department of Indigenous Affairs.
 Repealed by the Mining Act 1978.
 The Mining Amendment Regulations (No. 6) 2001 r. 13 reads as follows:
 “
@@ -117,7 +119,7 @@ The Mining Amendment Regulations (No. 5) 2004 r. 4(2) reads as follows:
 “
 (2) Despite the amendment effected by subregulation (1), the Table to regulation 86 of the Mining Regulations 1981 as in force immediately before the commencement of these regulations continues to apply for the purpose of determining the rate of royalty payable for ilmenite produced before that commencement.
 ”.
-The Mining Amendment Regulations (No. 2) 2006 r. 10(7) and (8) reads as follows:
+The Mining Amendment Regulations (No. 2) 2006 r. 10(7) and (8) read as follows:
 “
 (7) Despite the amendments made by this regulation, where, in relation to an existing licence, the commencement day is a day other than the anniversary date of the commencement of the term of the existing licence, regulation 21 of the Mining Regulations 1981 as in force immediately before the commencement day continues to apply for the purpose of determining the expenditure required for the year of the term of the existing licence in which the commencement day falls.
 (8) In subregulation (7) —

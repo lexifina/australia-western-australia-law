@@ -1,5 +1,5 @@
 ## First Schedule
-Schedule of Forms
+## Schedule of Forms
 Form
 1. Miner’s Right.
 1A.Application for Permit under section 20A.
@@ -50,7 +50,8 @@ Form
 42. Notice of Appeal under section 147.
 43. Injunction.
 44. Report of Approved Surveyor.
-Form No. 1 Western Australia Mining Act 1978 (Sec. 20 Reg. 3) MINER’S RIGHT NOT TRANSFERABLE Issued to.................................................................. (Name in full) under the provisions of the Mining Act 1978. Place of Issue ................................... Date of Issue ..................................... ............................................................... Signature of Issuing Officer (note reverse) | Reverse of form NOTE:This miner’s right is issued under section 20 of the Mining Act 1978. It is your responsibility to ascertain your rights and obligations under that section. Information in respect of those rights and obligations may be obtained from any office of the Department of Mines.
+[Schedule of Forms amended in Gazette 2 Oct 1987 p. 3821; 4 Apr 1997 p. 1780; 3 Oct 1997 p. 5533.]
+Form No. 1 Western Australia Mining Act 1978 (Sec. 20 Reg. 3) MINER’S RIGHT NOT TRANSFERABLE Issued to.................................................................. (Name in full) under the provisions of the Mining Act 1978. Place of Issue ................................... Date of Issue ..................................... ............................................................... Signature of Issuing Officer (note reverse) | Reverse of form NOTE:This miner’s right is issued under section 20 of the Mining Act 1978. It is your responsibility to ascertain your rights and obligations under that section. Information in respect of those rights and obligations may be obtained from any office of the Department of Mines. [Form 1 inserted in Gazette 2 Oct 1987 p. 3822.]
 MINER’S RIGHT To whom Issued ......................................... ..................................................................... By whom Issued ......................................... ..................................................................... Place of Issue .............................................. Date of Issue ...............................................
 Form 1A | WESTERN AUSTRALIA Mining Act 1978 (Sec. 20A Reg. 4D)
  | APPLICATION FOR PERMIT UNDER SECTION 20ANo. To:The Mining Registrar/Customer Service Coordinator, Mineral Titles Division
@@ -62,6 +63,7 @@ Form 1A | WESTERN AUSTRALIA Mining Act 1978 (Sec. 20A Reg. 4D)
 DATED this day of 20
 (f)Signature of applicant(s) | (f)................................................................................ Applicant 1 ................................................................................ Applicant 2 ................................................................................ Applicant 3
 O F F I C E U S E |  | Received at ................................m. on .................................................. with fee of $................................... ........................................................ (Mining Registrar/Customer Service Coordinator, Mineral Titles Division) | Receipt No:
+[Form 1A inserted in Gazette 2 Feb 2001 p. 710-11.]
 Form 2 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 30 Reg. 5)
  | APPLICATION FOR PERMIT TO ENTER UPON PRIVATE LANDNo. To:The Warden,
 (a)Mineral Field | (a)Mineral Field The undersigned hereby makes application for a permit to enter upon
@@ -87,6 +89,7 @@ The holder of a permit under section 30 of the Mining Act 1978, or his duly auth
 (c)to remove from the private land such samples for the purpose of assaying or testing the value thereof, and to mark out a mining tenement with respect to that land or any part thereof,
 but the holder or his duly authorised agent shall not carry out any other mining operations on or otherwise disturb the surface of the land.
 The holder of a permit is liable to pay compensation for any loss or damage arising from any entry upon the land effected in pursuance of this permit.
+[Form 3 amended in Gazette 2 Oct 1987 p. 3823.]
 Form 3AWESTERN AUSTRALIA Mining Act 1978 (Sec. 123(3)(a), Reg. 10A)
 CLAIM FOR COMPENSATION AND CONSENT FOR AN INFORMAL DETERMINATION BY THE WARDEN No.
 (a)State whether pastoral lease, Crown grant or other designation (b)Number of lease lot, reserve etc. (c)Name of property (if applicable) | Details of land affected (a)(b) (c)
@@ -95,6 +98,7 @@ CLAIM FOR COMPENSATION AND CONSENT FOR AN INFORMAL DETERMINATION BY THE WARDEN N
 (g)Here state owner, or owner and occupier, or occupier (as applicable) (h)Full name of person liable for compensation (i)Full address of person liable for compensation | WE, the undersigned, being the (g) of the land referred to above and (h) of (i) acknowledge that the claimant is entitled to compensation for loss or damages resulting from mining and that an agreement as to the amount of such compensation has not been reached. The parties herein therefore consent to a determination of the amount of compensation being made by the warden in accordance with section 123(3)(a)
 (j)Signature of owner of land (k)Signature of occupier of land (l)Signature of person liable for compensation | (j) ...................................... (k) ..................................... (l) ...................................... | Received at ............................. .............................................on ............................................. ............................................. (Mining Registrar)
 (NOTE: The owner or occupier of the land will be required to produce proof of ownership or right of occupancy of the land, either by producing the title, a recent title search, or the document/s under which his rights are confirmed.)
+[Form 3A inserted in Gazette 2 Oct 1987 p. 3823.]
 Form 4 Instrument of Licence | WESTERN AUSTRALIA Mining Act 1978 (Sec. 116 Reg. 13)
  | PROSPECTING LICENCE No.
 (a)Name and address of holder and number of shares | (a) is/are subject to the provisions of the Mining Act 1978 and to the conditions stated in the Schedule hereunder, authorised in accordance with section 48 of the Act to prospect the land the subject of this licence situated at
@@ -111,6 +115,7 @@ In addition to any specific conditions that are endorsed on this instrument, the
 For schedule of endorsements/conditions see reverse of form.
 Reverse of form
 Schedule of Endorsement/Conditions:
+[Form 4 amended in Gazette 13 Oct 1995 p. 4823.]
 Form 5WESTERN AUSTRALIAPage 1
 Mining Act 1978
 (Secs. 51, 68, 70H, 82 and 115A)
@@ -124,7 +129,7 @@ Reporting Period: | From: | / / | To: | / /
 Itemise activities and expenditure on Attachment 1
 A.MINERAL-EXPLORATION ACTIVITIES: | $
 B.MINING ACTIVITIES: | $
-Evidence of lodgement to be provided | C.ABORIGINAL HERITAGE SURVEYS: | $
+Evidence of lodgment to be provided | C.ABORIGINAL HERITAGE SURVEYS: | $
 Copy to be lodged with the Registrar of Aboriginal Sites.
 D.ANNUAL TENEMENT RENT AND RATES: | $
 E.ADMINISTRATION/OVERHEADS: | $
@@ -190,7 +195,7 @@ Rehabilitation activities:
 B.MINING ACTIVITIES (DEVELOPMENT AND PRODUCTION)
 Mine planning, open-cut mining, underground mining, shaft sinking, decline construction, underground drilling, pre-blast bench drilling, ore treatment, construction and maintenance of ore stockpiles, waste dumps, tailings dams and dumps, etc. ALSO show tonnes mined or treated. Any costs associated with care and maintenance on an idle mining operation can also be shown here.
 C.ABORIGINAL HERITAGE SURVEYS
-A copy of any survey undertaken to be lodged with the Registrar, Aboriginal Sites, Aboriginal Affairs Department as soon as practicable, where the cost of conducting it is claimed for expenditure purposes. Evidence of lodgement of the survey must be provided to the Department of Minerals and Energy.
+A copy of any survey undertaken to be lodged with the Registrar, Aboriginal Sites, Aboriginal Affairs Department as soon as practicable, where the cost of conducting it is claimed for expenditure purposes. Evidence of lodgment of the survey must be provided to the Department of Minerals and Energy.
 Page 4
 D.ANNUAL TENEMENT RENT AND RATES
 Rental and local government rates, paid in connection with the mining tenement each year.
@@ -259,6 +264,7 @@ Administration/Overheads/Native Title: | SUBTOTAL (E) | $
 (not to exceed 20% of the minimum expenditure commitment or total expenditure on the activities shown at subheadings (A) & (B), whichever is greater)
 TOTAL EXPENDITURE (add SUBTOTALS A to E) | $
 A copy of this page can be obtained by any person on the payment of the prescribed fee in accordance with regulation 96(3).
+[Form 5 inserted in Gazette 11 Jun 1999 p. 2546-51.]
 Form 6 Instrument of Licence | WESTERN AUSTRALIA Mining Act 1978 (Sec. 116 Reg. 19)
  | EXPLORATION LICENCE No.
 (a)Name and address of holder and number of shares | (a) is/are authorised in accordance with section 66 of the Act to explore the land the subject of this licence situated at
@@ -267,6 +273,7 @@ Form 6 Instrument of Licence | WESTERN AUSTRALIA Mining Act 1978 (Sec. 116 Reg. 
 (d)Number of Blocks | containing (d)as described in the First Schedule for a term of 5 years commencing on the date of grant of the licence.
 (e)Date Licence granted | (e)
 (f)Shire | (f) subject to the provisions of the Mining Act 1978 and to the conditions/endorsements as set out in the Second Schedule. ........................................................... Mining Registrar NOTE In addition to any specific conditions that are endorsed on this instrument, the holder in exercising the rights granted herein must first ensure that the necessary consents and permission have been obtained and compensation has been agreed to or determined in respect to certain Crown land, Public Reserves, etc., private land and where the lawful rights of other land users is concerned. For Schedules see attached.
+[Form 6 inserted in Gazette 31 May 1991 p. 2700-1.]
 Form 7 Instrument of Licence | WESTERN AUSTRALIA Mining Act 1978 (Sec. 116 Reg. 23D) RETENTION LICENCE No.
 (a)Name and address of holder and number of shares | (a) is/are, authorised in accordance with section 70J of the Mining Act 1978 to further explore the land which is the subject of this licence situated at
 (b)Locality | (b)in the
@@ -280,6 +287,7 @@ ________
 (Reverse of Form)
 Schedule of Endorsements/Conditions/Description of
 Granted Area
+[Form 7 inserted in Gazette 24 Jun 1994 p. 2939; amended in Gazette 4 Apr 1997 p. 1780.]
 Form 8 WESTERN AUSTRALIA
 Instrument of Lease Mining Act 1978
 (Sec. 116 Reg. 26)
@@ -321,17 +329,17 @@ IN witness whereof the Minister has affixed his seal
 and set his hand hereto
 this ......................... day of ......................20...............
 MINISTER
-[Form 8 amended in Gazette 3 Feb 2006 p. 524 and 602.]
+[Form 8 amended in Gazette 2 Oct 1987 p. 3828; 3 Feb 2006 p. 524 and 602.]
 Form 9WESTERN AUSTRALIA Mining Act 1978 (Secs. 45, 61, 70E, 78, 88, 91A, 91B) (Regs. 16B, 23A, 23F, 29, 36A, 42A)
  | APPLICATION FOR EXTENSION OF TERM/RENEWAL OF A MINING TENEMENT No.
-(a)Type of Tenement (b)Number (c)Mineral field (d)Expiry date | Details of mining tenement (a)(b) (c) (d)
+(a)Type of Tenement (b)Number (c)Mineral field (d)Expiry date | Details of mining tenement (a) (b) (c) (d)
 (e)Full name and address of holder(s) | Holder (e)
 (f)Signature of holder or agent | THE HOLDER of the abovementioned mining tenement hereby applies for extension/renewal thereof for a further period of years. DATED THIS day of 20 Signed (f) ....................................................................................................
 O F F I C E U S E |  | Received at ....................................m. on ........................................................ together with rent of $ for the year ending ....../....../...... ............................................................. (Mining Registrar)
 NOTES: 1. This application is to be accompanied by the lease instrument or licence document, as applicable.
 2. Reporting obligations under the regulations must be complied with to enable consideration of this application.
 3.If this application is for an extension of a prospecting licence or an exploration licence, or a renewal of a retention licence, any information or other material required by regulation 16B(1)(c)(iii), 23A(1)(c)(iii) or 23F(1)(b)(i) (whichever applies) must be attached.
-[Form 9 amended in Gazette 3 Feb 2006 p. 602.]
+[Form 9 inserted in Gazette 2 Oct 1987 p. 3829; amended in Gazette 24 Jun 1994 p. 2939; 4 Apr 1997 p. 1780; 11 Jun 1999 p. 2552; 3 Feb 2006 p. 602.]
 Form 10 WESTERN AUSTRALIA
 INSTRUMENT OF LEASE Mining Act 1978
 (Sec. 116 Reg. 35)
@@ -371,7 +379,7 @@ In addition to any specific conditions that are endorsed on this instrument, the
 IN witness whereof the Minister has affixed his seal and set his
 hand hereto this .............................. day of ................................20...............
 MINISTER
-[Form 10 amended in Gazette 3 Feb 2006 p. 524.]
+[Form 10 amended in Gazette 2 Oct 1987 p. 3830 and 3837; 3 Feb 2006 p. 524.]
 Form 11 Instrument of Licence | WESTERN AUSTRALIA Mining Act 1978 (Sec. 116 Reg. 42) MISCELLANEOUS LICENCE No.
 (a)Name and address of holder and number of shares (b)Purpose of Licence (c)Locality (d)Mineral Field (e)Area (f)Date Licence granted (g)Shire (h)Plan | (a) is/are subject to the provisions of the Mining Act 1978 and to the conditions stated in the Schedule hereunder, authorised in accordance with section 94 of the Act to: (b) situated at (c)in the (d)Mineral Field and containing approximately (e)hectares for a term of 5 years commencing on the date of grant of the licence (f) (g) (h)
 ................................................
@@ -381,13 +389,15 @@ In addition to any specific conditions that are endorsed on this instrument, the
 For Schedule of Endorsements/Conditions see reverse of form.
 Reverse of form
 Schedule of Endorsements/Conditions:
+[Form 11 inserted in Gazette 2 Oct 1987 p. 3830-1.]
 Form 12 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 95 Reg. 43) SURRENDER
 (a)Type (b)Number (c)Mineral Field | Details of Mining Tenement (a)(b) (c)
 (d)Full name and address of each holder | Holder (d)
 *If the surrender is a conditional one, add “conditionally on application for being granted” | THE HOLDER of the abovementioned mining tenement hereby applies to surrender all right title and interest therein.* DATED this day of 20
-(e)Signature of holder (f)Signature of witness | Holders signin the presence ofWitnesses heresign here (e)...................................(f) ................................... ................................... ...................................
+(e)Signature of holder (f)Signature of witness | Holders signin the presence ofWitnesses heresign here (e)...................................(f)................................... ...................................................................... ......................................................................................................... ......................................................................
 LODGING PARTY (g)Full name and address (for return of documents) | (g)
 O F F I C E U S E |  | Received at ....................m. on ........................................ ............................................. (Mining Registrar)
+[Form 12 amended in Gazette 2 Oct 1987 p. 3831.]
 Form 13 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 45) NOTICE OF RE-MARKING (to be fixed to Datum Post of retained portion)
 (a)Type (b)Number (c)Mineral Field | Details of Mining Tenement (a)(b) (c)
 (d)Full name and address of holder | Holder (d)
@@ -402,9 +412,10 @@ Form 14 *If applicable, add whether the surrender is under section 26A or sectio
 PORTION BEING SURRENDERED (e)
  |  | Area***
 ***In ha/km2 or number of blocks | DATED this day of 20
-(f)Signature of holder (g)Signature of witness | Holders sign in the presence ofWitnesses sign herehere (f)....................................(g) ....................................
+(f)Signature of holder (g)Signature of witness | Holders sign in the presence ofWitnesses sign herehere (f)....................................(g)........................................ ............................................................................
 LODGING PARTY (h) Full name and address (for return of documents) | (h)
 O F F I C E U S E |  | Received at ................................... on .................................................. with fee of $ ................................. ....................................................... (Mining Registrar)
+[Form 14 inserted in Gazette 31 May 1991 p. 2701-2.]
 Form 15 WESTERN AUSTRALIA
 Mining Act 1978
 (Sec. 96 Reg. 49)
@@ -419,7 +430,7 @@ DATED this day of 20
 ...........................................................................
 Mining Registrar
 To the Mining Registrar,
-The date on which I intend to hear an application for forfeiture is ........../ ........../ ..........
+The date on which I intend to hear an application for forfeiture is ........../........../..........
 In accordance with regulations 49 and 53 of the Mining Regulations 1981 —
 (a)notify the holder by post
 (b)notify any registered mortgagee
@@ -435,11 +446,12 @@ Form 16 | WESTERN AUSTRALIA Mining Act 1978 (Secs. 42, 59, 70D, 75, 97A Regs. 49
 (d)“Withhold your recommendation” OR as the case may be | (d)
 (e)Full name and address of objector | (e)
 (f)Insert date on which copy of application for mining tenement received (See Note 1) | (f)
-(g)Signature of objector or agent | DATED this day of 20 (g) .........................................................................................
+(g)Signature of objector or agent | DATED this day of 20 (g) ........................................................................................
  | This objection will be heard in the Warden’s Court at at the hour of .m. on the day of 20
 O F F I C E U S E |  | Received at ............................ m. on ................................................ ..................................................... (Mining Registrar)
 Note 1:To be completed if the objection is in respect of an application for a mining tenement that relates to private land.
-[Form 16 amended in Gazette 3 Feb 2006 p. 524.]
+[Form 16 amended in Gazette 12 Nov 1982 p. 4491; 2 Oct 1987 p. 3831; 24 Dec 1993 p. 6829; 24 Jun 1994 p. 2939; 3 Feb 2006 p. 524.]
+[Form 16A deleted in Gazette 4 Apr 1997 p. 1780.]
 Form 17 | WESTERN AUSTRALIA Mining Act 1978 (s. 97A, Regs. 51, 51A)
  | APPLICATION FOR RESTORATION No.
 (a)Type (b)Number (c)Mineral Field | Details of Mining Tenement (a)(b) (c)
@@ -447,24 +459,26 @@ Form 17 | WESTERN AUSTRALIA Mining Act 1978 (s. 97A, Regs. 51, 51A)
 (e)Reason for forfeiture (f)Date of forfeiture (g) (h)Signature of applicant | Application made for the restoration of the abovementioned mining tenement which was forfeited for the following reason — (e) on the (f) This application is made on the following grounds — (g) DATED this ....................... day of .................................. 20........... (h) .....................................................................
  | A NOTICE OF OBJECTION to this application may be lodged at the office of the mining registrar at .............. on or before the .............. day of .................................. 20........... and the hearing will take place on the .................... day of .................................. 20............
 O F F I C E U S E |  | Received at .....................................................m on ....................................................................... with fee of $..................................together with the outstanding rent of........................................ for the period ending ......................................... ............................................................................ (Mining Registrar) | Receipt No. .................................
+[Form 17 inserted in Gazette 2 Oct 1987 p. 3831-2; amended in Gazette 4 Apr 1997 p. 1780.]
 Form 18 | WESTERN AUSTRALIA Mining Act 1978 (s. 102, r. 54) | Office Use
  |  |  |  |  | No.
  | APPLICATION FOR EXEMPTION
 (a)Type (b)Number (c)Mineral Field | Details of mining tenement/s (a) (b) (c)
 (d)Full name and address of each holder | Holder (d)
-(e)Amount of expenditure for which exemption is sought (f)Expiry date/s of period to which exemption relates (g)Reasons for application (include relevant paragraph/s of section 102(2) of the Mining Act 1978 if applicable) (see Note 1) | Exemption details (for each tenement affected) (e) $ (f) (g)
+(e)Amount of expenditure for which exemption is sought (f)Expiry date/s of period to which exemption relates (g)Reasons for application (include relevant paragraph/s of section 102(2) of the Mining Act 1978 if applicable) (See Note 1) | Exemption details (for each tenement affected) (e) $ (f) (g)
 (h)Signature of holder or authorised agent | APPLICATION is made for exemption for the period specified from the expenditure conditions applicable to the abovementioned mining tenement/s. DATED this day of 20 (h) ....................................................................................
  | OBJECTIONS to this application may be lodged at the office of the mining registrar at ..................................................................................................................... on or before the day of 20 Where an objection to this application is lodged the hearing will take place on a date to be set.
 O F F I C E U S E |  | Received at ........................................................m on .......................................................................... with fee of $........................................................... ............................................................................... (Mining Registrar)
 Note 1:A statutory declaration setting out reasons in support of the application must be lodged at the office of the mining registrar within 28 days after lodgment of the application or within any extension of that period.
 (See regulation 54(3) and (4) of the Mining Regulations 1981.)
-[Form 18 amended in Gazette 3 Feb 2006 p. 603.]
+[Form 18 inserted in Gazette 17 Jan 2003 p. 107-8; amended in Gazette 3 Feb 2006 p. 603.]
 Form 19 | WESTERN AUSTRALIA Mining Act 1978 (s. 102 and 102A, r. 58)
  | CERTIFICATE OF EXEMPTION No. This is to certify that the holder of —
 (a) | Type of tenement/s Number/s and Mineral Field | (a) has been granted exemption from expenditure under section/s —
 (b) | Section/s of the Mining Act 1978 under which exemption granted | (b) in the amount/s of —
 (c) | Amount of expenditure (for each mining tenement affected) | (c) ($) for the above mining tenement/s during the year/s of the term of the tenement/s ending on —
 (d) | Expiry date/s of year/s to which exemption relates | (d) DATED this day of 20 ............................................ Mining Registrar .................................................. Mineral Field
+[Form 19 inserted in Gazette 17 Jan 2003 p. 108-9.]
 Form 20 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 105 Reg. 59)
  | NOTICE OF MARKING OUT (To be fixed to Datum Post to complete marking out) NOTICE IS given that
 (a)Full names and address of applicant | (a) has marked out this land under the provisions of the Mining Act 1978 as a
@@ -473,6 +487,7 @@ Form 20 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 105 Reg. 59)
 (d)Approximate area (ha/km2) | (d) Marking out was completed by fixing this notice at
 (e)Time and date marking out completed | (e).m. on the day of 20 .
 (f)Signature of applicant or agent | (f) ...................................................................................................
+[Form 20 amended in Gazette 2 Oct 1987 p. 3833.]
 Form 21 | WESTERN AUSTRALIA Mining Act 1978 (Secs. 41, 58, 70C, 74, 86, 91, Reg. 64) APPLICATION FOR MINING TENEMENT
 (a)Type of tenement | (a) | No................./ ..............
 (b)Time & Date marked out (where applicable) | (b) a.m./p.m. / / (c)
@@ -509,7 +524,7 @@ Note 3: GROUND AVAILABILITY
 (ii)The following action should be taken to ascertain ground availability:
 (a) public plan search; (b) register search; (c) ground inspection.
 Note 4: ALL APPLICATIONS OVER PRIVATE LAND
-The period for lodgement of an objection is within 21 days of service of this notice, or the date noted above for lodging objections, whichever is the longer period.
+The period for lodgment of an objection is within 21 days of service of this notice, or the date noted above for lodging objections, whichever is the longer period.
 WESTERN AUSTRALIA Mining Act 1978FORM 21 — ATTACHMENT 1 Sec. 58, Reg 64
 EXPLORATION LICENCE NO.............../................
 THIS SECTION MUST BE COMPLETED IN FULL FOR ALL EXPLORATION LICENCE APPLICATIONS
@@ -573,6 +588,8 @@ q | r | s | t | u | q | r | s | t | u | q | r | s | t | u | q | r | s | t | u | 
 v | w | x | y | z | v | w | x | y | z | v | w | x | y | z | v | w | x | y | z | v | w | x | y | z
  |  | + | + | + | + | +
  | 1:1,000,000 PLAN NAME(S)
+[Form 21 inserted in Gazette 24 Jun 1994 p. 2940-2; amended in Gazette 13 Oct 1995 p. 4823; 4 Apr 1997 p. 1780.]
+[Form 21A deleted in Gazette 31 May 1991 p. 2705.]
 Form 22 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 69)
  | WITHDRAWAL
 (a)Type (b)Number (c)Mineral Field | Details of Mining Tenement application (a)(b) (c)
@@ -581,6 +598,7 @@ Form 22 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 69)
 (e)Signature of applicant (f)Signature of witness | Applicants signin the presence ofWitnesses heresign here (e)...................................(f)............................................ ............................................................................... ............................................................................... ...............................................................................
 LODGING PARTY (g)Full name and address (for return of documents) | (g)
 O F F I C E U S E |  | Received at ...............................m. on .................................................. ....................................................... (Mining Registrar)
+[Form 22 amended in Gazette 2 Oct 1987 p. 3835.]
 Form 23 | WESTERN AUSTRALIA Mining Act 1978 | STAMP DUTY
  | (Regs. 75, 81, 84 & 134) TRANSFERNo.
 INTEREST BEING TRANSFERRED (a)Type of tenement (b)Number (c)Mineral Field (d)Number of shares | Details of Mining Tenement and Interest (a)(b) (c)(d)
@@ -606,7 +624,7 @@ Form 24 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 122A Reg. 76)
 (d)Specify “the whole” or the number of shares being caveated (e)Full name of holder of shares being caveated | Interest being caveated (d) (e)
 (f)Full name and address of caveator | Caveator (f)
 (g)Specify the grounds on which the claim is made. (See Note 1) *See Note 2 (h)Address within the State for service of notices | THE CAVEATOR claims an interest as specified in the abovementioned mining tenement BY VIRTUE OF (g) and whilst this caveat remains in force FORBIDS the registration of any transfer or other instrument affecting such tenement or interest* and appoints (h) as the place at which notices and proceedings relating to this caveat may be served DATED this day of 20
-(i)Signature of caveator (j)Signature of witness | Caveator or agent signs here Signed (i) …………………………………………………….. as agent (delete if not applicable) Witness signs here in the presence of (j) …………………………………………..
+(i)Signature of caveator (j)Signature of witness | Caveator or agent signs here Signed (i) .................................................................................. as agent (delete if not applicable) Witness signs here in the presence of (j) ..................................................................
 (k)Full name and address (for return of documents) | (k)
 O F F I C E U S E |  | Received at ..................... a.m./p.m. on .................................................... with fee of $..................................... ......................................................... (Mining Registrar)
 Notes:1.If the caveat is lodged pursuant to section 122A(2) of the Act the term of the caveat (if any) must be stated and a copy of the agreement attached.
@@ -617,7 +635,7 @@ Form 24A | WESTERN AUSTRALIA Mining Act 1978 (Sec. 122E Reg. 76A)
 (a)Full name & Address of Caveator | Caveator (a)
 (b)Specify caveat(s) to be withdrawn and mining tenement(s) affected | Caveat Number(s) and mining tenement(s) affected (b)
  | THE CAVEATOR HEREBY WITHDRAWS the abovementioned caveat(s) against the interest in the mining tenement(s) described above DATED this day of 20
-(c)Signature of caveator (d)Signature of witness | Caveator or agent signs here Signed (c) …………………………………………… as agent (delete if not applicable) Witness signs here in the presence of (d) …………………………………
+(c)Signature of caveator (d)Signature of witness | Caveator or agent signs here Signed (c) .................................................................... as agent (delete if not applicable) Witness signs here in the presence of (d) ....................................................
 (e)LODGING PARTY Full name and address (for return of documents) | (e)
 O F F I C E U S E |  | Received at ............... a.m./p.m. on .............................................. with fee of $............................... ................................................... (Mining Registrar)
 [Form 24A inserted in Gazette 3 Feb 2006 p. 526-7.]
@@ -634,13 +652,13 @@ O F F I C E U S E |  | Received at ............... a.m./p.m. on ................
  | *Here set forth any further covenants | 3.*
 **See Note 1 | **
  | DATED this day of 20
-(a)Signature of Mortgagor(s) (b)Signature of witness | MORTGAGOR(S) sign here Signed (a) …………………………………………………………….. in the presence of (b) …………………………………………………. Signed (a) ……………………………………………………………… in the presence of (b) …………………………………………………...
+(a)Signature of Mortgagor(s) (b)Signature of witness | MORTGAGOR(S) sign here Signed (a) .............................................................................................. in the presence of (b) ............................................................................. Signed (a) ................................................................................................ in the presence of (b) ...............................................................................
 ***See Note 2 | ***
 LODGING PARTY (c)Full name and address (for return of documents) | (c)
-O F F I C E U S E |  | Received at ....................... .a.m./p.m. on ....................................................... with fee of $ ....................................... ............................................................ (Mining Registrar)
+O F F I C E U S E |  | Received at ........................ a.m./p.m. on ....................................................... with fee of $ ....................................... ............................................................ (Mining Registrar)
 Notes:1.If section 122A(1)(b) of the Act applies, insert “THE MORTGAGOR AND THE MORTGAGEE acknowledge that this mortgage is subject to the interest claimed by the caveator in caveat no.” and the relevant caveat number.
 2.If the words set out in Note 1 are inserted in the mortgage the mortgage must also be signed by the mortgagee(s) and that signature or those signatures duly witnessed.
-[Form 25 amended in Gazette 3 Feb 2006 p. 527.]
+[Form 25 amended in Gazette 2 Oct 1987 p. 3835; 3 Feb 2006 p. 527.]
 Form 26 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 83)
  | DISCHARGE OF MORTGAGENo.
 (a)Full name and address of mortgagee | (a)
@@ -661,7 +679,8 @@ Form 26A | WESTERN AUSTRALIA Mining Act 1978 (Reg. 83)
 LODGING PARTY (h)Full name and address (for return of documents) | (h)
 O F F I C E U S E |  | Received at ..............................m. on ................................................. with fee of $.................................. ...................................................... (Mining Registrar)
 NOTE 1: If Mortgage is to be totally discharged use Form 26.
-Form 27 WESTERN AUSTRALIA Mining Act 1978QUARTERLY MINERAL (EXCLUDING GOLD) PRODUCTION REPORT [Reg. 85A(1)] (Please Note! A separate report is required for each mining tenement. Complete and furnish to Director General of Mines within 30 days of expiry of relevant quarter.) Report for ............................................... (insert relevant quarter, eg. March quarter, and year) Mining Tenement No..............................Holder............................................................................. Mineral Field................................................................... District..............................Project.................................... | Mineral Produced/Sold | End Use or Uses of Mineral (where known) |  | I certify that the information supplied in this report is a true statement of all production for the period stated. Dated.......................................................................Signed......................................................................... (Holder/Applicant)
+[Form 26A inserted in Gazette 31 Jul 1992 p. 3779-80.]
+Form 27 WESTERN AUSTRALIA Mining Act 1978QUARTERLY MINERAL (EXCLUDING GOLD) PRODUCTION REPORT (Reg. 85A(1)) (Please Note! A separate report is required for each mining tenement. Complete and furnish to Director General of Mines within 30 days of expiry of relevant quarter.) Report for ............................................... (insert relevant quarter, eg. March quarter, and year) Mining Tenement No..............................Holder............................................................................. Mineral Field................................................................... District..............................Project.................................... | Mineral Produced/Sold | End Use or Uses of Mineral (where known) |  | I certify that the information supplied in this report is a true statement of all production for the period stated. Dated.......................................................................Signed......................................................................... (Holder/Applicant) [Form 27 inserted in Gazette 3 Oct 1987 p. 5534; amended in Gazette 20 May 1988 p. 1707; 13 Dec 2002 p. 5805-6.]
 Sales Value (A$)
 Quantity (tonnes)
 Material Mined | Quantity (tonnes)
@@ -669,10 +688,10 @@ Mineral Type Description (e.g. Kaolin)
 Mineral Mined Primary Description (e.g. Clay)
 Form 27AWESTERN AUSTRALIA
 Mining Act 1978
-[Reg. 85A(2)]
+(Reg. 85A(2))
 QUARTERLY GOLD PRODUCTION REPORT
 (Please Note! Separate report required for each gold royalty project. Complete and furnish to Director General of Mines within 30 days of expiry of relevant quarter.)
-Report for ..........................................................................................
+Report for ...........................................................................................................
 (insert relevant quarter, eg. March quarter, and year)
 Mining Tenement(s) No(s) .................................................................................
 Holder .................................................................................................................
@@ -693,6 +712,7 @@ I certify that the information supplied in this report is a true statement of al
 Dated ....................................................................
 Signed ...................................................................
 (Holder/Applicant)
+[Form 27A inserted in Gazette 3 Oct 1987 p. 5535; amended in Gazette 13 Dec 2002 p. 5806.]
 Form 28 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 102)
  | DEVOLUTIONNo.
 (a)Type (b)Number (c)Mineral Field (d)Number of shares | Details of Mining Tenement application (or application therefor) and interest (a)(b) (c)(d)
@@ -702,7 +722,7 @@ Form 28 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 102)
 (g)Signature of executor or administrator | (g) ...............................................................................................................
 LODGING PARTY (h)Full name and address (for return of documents) | (h)
 O F F I C E U S E |  | Received at ........................................m. on ........................................................... with fee of $............................................ ................................................................ (Mining Registrar)
-[Form 28 amended in Gazette 3 Feb 2006 p. 528.]
+[Form 28 amended in Gazette 2 Oct 1987 p. 3835; 31 May 1991 p. 2705-6; 3 Feb 2006 p. 528.]
 Form 29 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 105)
  | APPLICATION FOR COPY DOCUMENTNo.
 (a)Full name (b)Address | I, (a) of (b) declare pursuant to section 106 of the Evidence Act 1906 that the document specified cannot be produced for the reasons indicated, and I request that a copy document be issued in lieu
@@ -734,6 +754,7 @@ Form 31 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 108)
  | The words “mining tenement” herein include any share or interest in a mining tenement, or application therefor.
  | DATED this day of 20 (c)Signature of donor:Signed (c)........................................ in the presence of (d)Signature of witness:Signed (d)........................................ (e)Signature of donee:Signed (e)........................................
 O F F I C E U S E
+[Form 31 amended in Gazette 2 Oct 1987 p. 3835.]
 Form 32 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 126 Reg. 112)
  | SECURITY
  | By this security the subscriber is for himself, his executors and administrators or in the case of a subscriber being a corporation for its successors and assigns pursuant to the Mining Act 1978 bound to the Minister in the State of Western Australia in the sum of
@@ -747,6 +768,7 @@ Form 32 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 126 Reg. 112)
 (d)Signature of applicant/holder (e)Signature of witness | Applicant orin the presence of Witness signs here Holder signs here (d)(e)
 O F F I C E U S E |  | Received at ...............................m. on the ................... day of ...................... 20 .................... ........................................................... (Mining Registrar)
 Note 1:A Post Office Box address is not an acceptable residential or business address. A Post Office Box address may be included in addition to the residential or business address.
+[Form 32 amended in Gazette 2 Oct 1987 p. 3836 (erratum in Gazette 6 Nov 1987 p. 4110); 24 Jun 1994 p. 2939; 4 Apr 1997 p. 1780; 17 Jan 2003 p. 114.]
 Form 33 | WESTERN AUSTRALIA Mining Act 1978 (Regs. 48 & 121)
  | PLAINTNo. In the Warden’s Court at
 (a)Name and address of Plaintiff | Plaintiff (a)
@@ -763,6 +785,7 @@ Kilometrage
  | SEAL OF COURT |  | Copies
 Attendance
 Total
+[Form 33 amended in Gazette 31 May 1991 p. 2706.]
 Form 34 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 123)
  | SUMMONS In the Warden’s Court at | Plaint No. ........... / ..........
 (a)Full name and address of Defendant | TO: (a)
@@ -774,6 +797,7 @@ Form 34 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 123)
 (f)Nature of relief sought | (f) You may apply for the issue of a subpoena compelling the attendance of any witnesses, and production of any books, plans, documents, etc. If you intend to dispute the plaintiff‘s claim you must file a notice of defence in accordance with regulation 126 DATED at this day of 20 .
  | SEAL OF COURT | .......................................................Mining Registrar ............................................................Mineral Field
  | ENDORSEMENT This is the paper writing marked “A” referred to in the annexed affidavit of sworn before me at , this day of 20 . .........................................................
+[Form 34 amended in Gazette 2 Oct 1987 p. 3836.]
 Form 35 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 124) AFFIDAVIT OF SERVICE In the Warden’s Court at
  |  | Plaint No........ / ..........
 (a)Full name and address | Plaintiff (a)
@@ -812,15 +836,16 @@ Form 39 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 130) WARRANT OF EXECUTION In t
 (a)Full name and address | Plaintiff (a)
  | V
 (b)Full name and address | Defendant (b)
-*Delete whichever not applicable †Defendant or Plaintiff | TO: The Bailiff WHEREAS on the DAY of 20 * the plaintiff obtained a judgment of this Court against the defendant for debt (or damages) and costs in the sum of or *it was ordered by the Court that judgment should be entered for the defendant, or that judgment of nonsuit should be entered and the costs be paid by the plaintiff to the defendant in the sum of and whereas default has been made in the payment thereof. These are, therefore, to require and order you FORTHWITH TO LEVY BY DISTRESS AND SALE OF THE GOODS against any property of the † wheresoever it may be found, the sum of in addition to the costs of this execution, and also to seize and take any money, or bank notes or securities for money of the † or such part or so much thereof as may be sufficient to satisfy this execution and the costs of making and executing the same and forthwith to return the same to me, to be paid over to the † together with this warrant. DATED at this day of 20 By the Court .......................................................Mining Registrar ............................................................Mineral Field
+*Delete whichever not applicable †Defendant or Plaintiff | TO: The Bailiff WHEREAS on the day of 20 * the plaintiff obtained a judgment of this Court against the defendant for debt (or damages) and costs in the sum of or *it was ordered by the Court that judgment should be entered for the defendant, or that judgment of nonsuit should be entered and the costs be paid by the plaintiff to the defendant in the sum of and whereas default has been made in the payment thereof. These are, therefore, to require and order you FORTHWITH TO LEVY BY DISTRESS AND SALE OF THE GOODS against any property of the † wheresoever it may be found, the sum of in addition to the costs of this execution, and also to seize and take any money, or bank notes or securities for money of the † or such part or so much thereof as may be sufficient to satisfy this execution and the costs of making and executing the same and forthwith to return the same to me, to be paid over to the † together with this warrant. DATED at this day of 20 By the Court .......................................................Mining Registrar ............................................................Mineral Field
 SEAL OF THE COURT
  | Judgment$ Costs$ Execution$ Other$ Total amount to be levied$ Application was made for this warrant at ...................... m. on ......................................................... Returned this Warrant to the above Warden’s Court on the day of 20 with the sum of in satisfaction thereof. BAILIFF
+[Form 39 amended in Gazette 4 Apr 1997 p. 1781.]
 Form 40 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 141 Reg. 131) WARRANT FOR RECOVERY OF POSSESSION In the Warden’s Court at
  |  | Plaint No........ / .......
 (a)Full name and address | Plaintiff (a)
  | V
 (b)Full name and address | Defendant (b)
-(c)Here state terms of order | TO: The Bailiff WHEREAS on the DAY of 20 an order was made in the above Court that the defendant deliver up possession of (c) to the plaintiff and whereas the said defendant has refused or neglected so to do. These are therefore to require and order you FORTHWITH TO eject the said defendant from the aforementioned land and/or mining tenement and to seize and take chattels or minerals specified above and deliver the same into your possession. By the Court .........................................Warden/Mining Registrar Mineral Field
+(c)Here state terms of order | TO: The Bailiff WHEREAS on the day of 20 an order was made in the above Court that the defendant deliver up possession of (c) to the plaintiff and whereas the said defendant has refused or neglected so to do. These are therefore to require and order you FORTHWITH TO eject the said defendant from the aforementioned land and/or mining tenement and to seize and take chattels or minerals specified above and deliver the same into your possession. By the Court .........................................Warden/Mining Registrar Mineral Field
 SEAL OF THE COURT
 Form 41 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 132)
  | NOTICE OF SEIZURE
@@ -828,6 +853,7 @@ Form 41 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 132)
 (a) Type (b) Number (c) Mineral Field (d) Number of Shares | Details of Mining Tenement (a)(b) (c) (d)
  | You will therefore communicate with me before registering any transfer, or other dealing with the shares specified while this seizure remains in force. DATED at thisday of20 Bailiff
 O F F I C E U S E |  | Received at ..........................................m. on ............................................................ with fee of $ ............................................ .................................................................. (Mining Registrar)
+[Form 41 amended in Gazette 2 Oct 1987 p. 3836.]
 Form 42 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 147 Reg. 135)
  | NOTICE OF APPEAL UNDER SECTION 147
 (a)Full Name and address of appellant | Appellant (a)
@@ -858,4 +884,4 @@ TENEMENT TYPE | TENEMENT NUMBER | HOLDER/APPLICANT | DATE OF MARKING | FIELD BOO
 ............................................................. APPROVED SURVEYOR.
 NOTE: Any additional information relating to the conduct of this survey should be presented in a written report.
 ............./............/20..........
-[First Schedule amended in Gazette 12 Nov 1982 p. 4491 (erratum in Gazette 19 Nov 1982 p. 4578); 30 May 1986 p. 1841; 20 Jun 1986 p. 2084; 2 Oct 1987 p. 3821-36 (erratum in Gazette 6 Nov 1987 p. 4110); 20 May 1988 p. 1707; 31 May 1991 p. 2700-7; 5 Jul 1991 p. 3359; 31 Jul 1992 p. 3777-80; 24 Dec 1993 p. 6829-30; 24 Jun 1994 p. 2939-42; 13 Oct 1995 p. 4823; 4 Apr 1997 p. 1780-1; 3 Oct 1997 p. 5533-5; 11 Jun 1999 p. 2546-52; 2 Feb 2001 p. 710-11; 13 Dec 2002 p. 5805-6; 17 Jan 2003 p. 107-9 and 114; 3 Feb 2006 p. 524-8 and 602-3.]
+[Form 44 inserted in Gazette 5 Jul 1991 p. 3359.]
