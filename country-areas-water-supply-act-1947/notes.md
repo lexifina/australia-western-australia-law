@@ -1,66 +1,72 @@
 Notes
-This is a compilation of the Country Areas Water Supply Act 1947 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 7 April 2006 of the Country Areas Water Supply Act 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Part I — Acts
-Short Title | Number and Year | Assent | Commencement | Miscellaneous
-Country Areas Water Supply Act 1947 | 62 of 1947 | 10 January 1948 | 1 January 1949 (see section 1 and Gazette 24 January 1948 pp.3038-9)
-Country Areas Water Supply Act Amendment Act 1950 | 22 of 1950 | 29 November 1950 | 29 November 1950
-Acts Amendment (Fire Brigades Board and Fire Hydrants) Act 1951, section 6 | 41 of 1951 | 20 December 1951 | 4 April 1952 (see section 2 and Gazette 4 April 1952 pp.799-800)
-Limitation Act Amendment Act 1954, section 8 | 73 of 1954 | 14 January 1955 | 1 March 1955 (see section 2 and Gazette 18 February 1955 p.343)
-Country Areas Water Supply Act Amendment Act 1957 | 14 of 1957 | 30 September 1957 | 30 September 1957
-Country Areas Water Supply Act Amendment Act 1960 | 56 of 1960 | 2 December 1960 | 2 December 1960
-Country Areas Water Supply Act Amendment Act 1964 | 66 of 1964 | 4 December 1964 | 4 December 1964
-Metric Conversion Act 1972, section 4 | 94 of 1972 | 4 December 1972 | The relevant amendments as set out in the Second Schedule took effect from 1 May 1974 (see Gazette 26 April 1974 p.1393) | The Schedule to Act No. 94 of 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973 (Act No. 19 of 1973)
-Country Areas Water Supply Act Amendment Act 1974 | 78 of 1974 | 10 December 1974 | Deemed operative 1 July 1974 (see section 2)
-Country Areas Water Supply Act Amendment Act 1976 | 81 of 1976 | 14 October 1976 | 15 November 1976 (see section 2 and Gazette 12 November 1976 p.4268)
-Country Areas Water Supply Act Amendment Act 1977 | 13 of 1977 | 11 October 1977 | 11 October 1977
-Acts Amendment and Repeal (Valuation of Land) Act 1978, Part IV | 76 of 1978 | 20 October 1978 | 1 July 1979 (see section 2 and Gazette 11 May 1979 p.1211)
-Country Areas Water Supply Act Amendment Act 1978 | 95 of 1978 | 17 November 1978 | 15 December 1978 (see section 2 and Gazette 15 December 1978 p.4691)
-Country Areas Water Supply Act Amendment Act (No. 2) 1979 | 43 of 1979 | 25 October 1979 | Deemed operative 1 July 1979 (see section 2)
-Country Areas Water Supply Act Amendment Act (No. 3) 1979 | 92 of 1979 | 17 December 1979 | 17 December 1979
-Country Areas Water Supply Amendment Act 1980 | 75 of 1980 | 5 December 1980 | 5 December 1980
-Acts Amendment (Statutory Designations) and Validation Act 1981, section 4 | 63 of 1981 | 13 October 1981 | 13 October 1981
-Country Areas Water Supply Amendment Act 1981 | 97 of 1981 | 4 December 1981 | 4 December 1981
-Acts Amendment (Country Water and Sewerage) Act 1982, Part II | 14 of 1982 | 14 May 1982 | 11 June 1982 (see section 2 and Gazette 11 June 1982 p.1911)
-Country Areas Water Supply Amendment Act 1984 | 41 of 1984 | 20 June 1984 | Sections 13 and 18: 18 July 1984 (see section 2(2)); balance (except sections 15 and 16): on assent | Sections 15 and 16 repealed by the Acts Amendment and Repeal (Water Authorities) Act 1985 (Act No. 25 of 1985), section 156
-Acts Amendment and Repeal (Water Authorities) Act 1985, Part VI | 25 of 1985 | 6 May 1985 | 1 July 1985 (see section 2 and Gazette 7 June 1985 p.1931)
-Acts Amendment (Water Authorities) Act 1985 Pt. V | 110 of 1985 (as amended by No. 74 of 2003 s. 24) | 17 Dec 1985 | s. 59(b), 63 (b), and 65: 1 Jul 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726); s. 44: 14 Jul 1987 (see Gazette 14 Jul 1987 p. 2647); s. 43: 1 Feb 1990 (see Gazette 5 Jan 1990 p. 38); s. 68 (a) repealed by No. 74 of 2003 s. 24; balance: 14 Mar 1986 (see Gazette 14 Mar 1986 p. 726)
-Acts Amendment (Water Authority Rates and Charges) Act 1987, Part IV | 24 of 1987 | 25 June 1987 | 14 July 1987 (see section 2 and Gazette 14 July 1987 p.2647)
-Criminal Law Amendment Act (No. 2) 1992, section 16(1) | 51 of 1992 | 9 December 1992 | 6 January 1993
-R&I Bank Amendment Act 1994, section 13 | 6 of 1994 | 11 April 1994 | 26 April 1994 (see section 2(2) and Gazette 26 April 1994 p.1743)
-Bank of Western Australia Act 1995, section 44 (1) | 14 of 1995 | 4 July 1995 | 1 December 1995 (see section 2 and Gazette 29 November 1995 p.5529)
-Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995, Part 3 | 73 of 1995 | 27 December 1995 | 1 January 1996 (see section 2 and Gazette 29 December 1995 p.6291)
-Sentencing (Consequential Provisions) Act 1995, section 147 | 78 of 1995 | 16 January 1996 | 4 November 1996 (see section 2 and Gazette 25 October 1996 p.5632) | Part 16 has no effect as it was repealed by No.10 of 1998 s.23(2) before it was proclaimed
-Local Government (Consequential Amendments) Act 1996, Section 4 | 14 of 1996 | 28 June 1996 | 1 July 1996 (see section 2)
-Transfer of Land Amendment Act 1996, section 153(1) and (2) | 81 of 1996 | 14 November 1996 | 14 November 1996 (see section 2(1))
-Acts Amendment (Land Administration) Act 1997, sections 18 and 142 | 31 of 1997 | 3 October 1997 | 30 March 1998 (see section 2 and Gazette 27 March 1998 p.1765)
-Water Legislation Amendment Act 1997, Part 2 | 32 of 1997 | 3 October 1997 | 15 April 1998 (see section 2 and Gazette 15 April 1998 p.2041)
-Statutes (Repeals and Minor Amendments) Act 1997, section 43 | 57 of 1997 | 15 December 1997 | 15 December 1997 (see section 2)
-Statutes (Repeals and Minor Amendments) Act (No. 2) 1998, section 23 | 10 of 1998 | 30 April 1998 | 30 April 1998 (see section 2(1)
-Fire and Emergency Services Authority of Western Australia (Consequential Provisions) Act 1998, section 38 | 42 of 1998 | 4 November 1998 | 1 January 1999 (see section 2 and Gazette 22 December 1998 p.6833)
-Water Services Coordination Amendment Act 1999, section 11(3) | 39 of 1999 | 9 November 1999 | 19 June 2000 (see section 2 and Gazette 16 June 2000 p.2939)
-Rights in Water and Irrigation Amendment Act 2000, section 83 | 49 of 2000 | 28 November 2000 | 10 January 2001 (see section 2 and Gazette 10 January 2001 p.163
+Short title | Number and year | Assent | Commencement
+Country Areas Water Supply Act 1947 | 62 of 1947 | 10 Jan 1948 | 1 Jan 1949 (see s. 1 and Gazette 24 Dec 1948 p. 3038-9)
+Country Areas Water Supply Act Amendment Act 1950 | 22 of 1950 | 29 Nov 1950 | 29 Nov 1950
+Acts Amendment (Fire Brigades Board and Fire Hydrants) Act 1951 s. 6 | 41 of 1951 | 20 Dec 1951 | 4 Apr 1952 (see s. 2 and Gazette 4 Apr 1952 p. 799-800)
+Limitation Act 1935 s. 48A(1) | 35 of 1935 (as amended by No. 73 of 1954 s. 8) | 14 Jan 1955 | Relevant amendments (see s. 48A and Second Sch.) took effect on 1 Mar 1955 (see No. 73 of 1954 s. 2 and Gazette 18 Feb 1955 p. 343)
+Country Areas Water Supply Act Amendment Act 1957 | 14 of 1957 | 30 Sep 1957 | 30 Sep 1957
+Country Areas Water Supply Act Amendment Act 1960 | 56 of 1960 | 2 Dec 1960 | 2 Dec 1960
+Reprint of the Country Areas Water Supply Act 1947 approved 9 Jul 1963 (not in Volume) (includes amendments listed above)
+Country Areas Water Supply Act Amendment Act 1964 | 66 of 1964 | 4 Dec 1964 | 4 Dec 1964
+Reprint of the Country Areas Water Supply Act 1947 approved 30 Mar 1965 in Vol. 19 of Reprinted Acts (includes amendments listed above)
+Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
+Reprint of the Country Areas Water Supply Act 1947 authorised 8 Jul 1971 (includes amendments listed above)
+Metric Conversion Act 1972 s. 4 | 94 of 1972 (as amended by No. 19 of 1973 s. 4) | 4 Dec 1972 | Relevant amendments (see Second Sch.) took effect on 1 May 1974 (see Gazette 26 Apr 1974 p. 1393)
+Country Areas Water Supply Act Amendment Act 1974 | 78 of 1974 | 10 Dec 1974 | 1 Jul 1974 (see s. 2)
+Country Areas Water Supply Act Amendment Act 1976 | 81 of 1976 | 14 Oct 1976 | 15 Nov 1976 (see s. 2 and Gazette 12 Nov 1976 p. 4268)
+Country Areas Water Supply Act Amendment Act 1977 | 13 of 1977 | 11 Oct 1977 | 11 Oct 1977
+Acts Amendment and Repeal (Valuation of Land) Act 1978 Pt. IV | 76 of 1978 | 20 Oct 1978 | 1 Jul 1979 (see s. 2 and Gazette 11 May 1979 p. 1211)
+Country Areas Water Supply Act Amendment Act 1978 | 95 of 1978 | 17 Nov 1978 | 15 Dec 1978 (see s. 2 and Gazette 15 Dec 1978 p. 4691)
+Country Areas Water Supply Act Amendment Act (No. 2) 1979 | 43 of 1979 | 25 Oct 1979 | 1 Jul 1979 (see s. 2)
+Country Areas Water Supply Act Amendment Act (No. 3) 1979 | 92 of 1979 | 17 Dec 1979 | 17 Dec 1979
+Reprint of the Country Areas Water Supply Act 1947 approved 18 Apr 1980 (includes amendments listed above)
+Country Areas Water Supply Amendment Act 1980 | 75 of 1980 | 5 Dec 1980 | 5 Dec 1980
+Acts Amendment (Statutory Designations) and Validation Act 1981 s. 4 | 63 of 1981 | 13 Oct 1981 | 13 Oct 1981
+Country Areas Water Supply Amendment Act 1981 | 97 of 1981 | 4 Dec 1981 | 4 Dec 1981
+Acts Amendment (Country Water and Sewerage) Act 1982 Pt. II | 14 of 1982 | 14 May 1982 | 11 Jun 1982 (see s. 2 and Gazette 11 Jun 1982 p. 1911)
+Country Areas Water Supply Amendment Act 1984 | 41 of 1984 | 20 Jun 1984 | Act other than s. 13, 15, 16 and 18: 20 Jun 1984 (see s. 2(1)); s. 13 and 18: 18 Jul 1984 (see s. 2(2)); s. 15 and 16: repealed by No. 25 of 1985 s. 156
+Acts Amendment and Repeal (Water Authorities) Act 1985 Pt. VI | 25 of 1985 | 6 May 1985 | 1 Jul 1985 (see s. 2 and Gazette 7 Jun 1985 p. 1931)
+Acts Amendment (Water Authorities) Act 1985 Pt. V | 110 of 1985 (as amended by No. 74 of 2003 s. 24) | 17 Dec 1985 | Act other than s. 43, 44, 59(b), 63(b), 65 and 68(a): 14 Mar 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726); s. 59(b), 63(b), and 65: 1 Jul 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726); s. 44: 14 Jul 1987 (see s. 2 and Gazette 14 Jul 1987 p. 2647); s. 43: 1 Feb 1990 (see s. 2 and Gazette 5 Jan 1990 p. 38); s. 68(a) repealed by No. 74 of 2003 s. 24
+Acts Amendment (Water Authority Rates and Charges) Act 1987 Pt. IV | 24 of 1987 | 25 Jun 1987 | 14 Jul 1987 (see s. 2 and Gazette 14 Jul 1987 p. 2647)
+Country Areas Water Supply (Controlled Land) Notice 1990 published in Gazette 14 Dec 1990 p. 6181 | 14 Dec 1990 (see cl. 2)
+Country Areas Water Supply (Controlled Land) Notice 1991 published in Gazette 19 Jul 1991 p. 3692 | 19 Jul 1991 (see cl. 2)
+Criminal Law Amendment Act (No. 2) 1992 s. 16(1) | 51 of 1992 | 9 Dec 1992 | 6 Jan 1993
+R&I Bank Amendment Act 1994 s. 13 | 6 of 1994 | 11 Apr 1994 | 26 Apr 1994 (see s. 2(2) and Gazette 26 Apr 1994 p. 1743)
+Bank of Western Australia Act 1995 s. 44(1) | 14 of 1995 | 4 Jul 1995 | 1 Dec 1995 (see s. 2 and Gazette 29 Nov 1995 p. 5529)
+Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 3 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 29 Dec 1995 p. 6291)
+Sentencing (Consequential Provisions) Act 1995 s. 147 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
+Reprint of the Country Areas Water Supply Act 1947 as at 27 May 1996 (includes amendments listed above except those in the Acts Amendment (Water Authorities) Act 1985 s. 68(a) and the Sentencing (Consequential Provisions) Act 1995)
+Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+Transfer of Land Amendment Act 1996 s. 153(1) and (2) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
+Acts Amendment (Land Administration) Act 1997 Pt. 16, s. 141 and 142 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
+Water Legislation Amendment Act 1997 Pt. 2 | 32 of 1997 | 3 Oct 1997 | 15 Apr 1998 (see s. 2 and Gazette 15 Apr 1998 p. 2041)
+Statutes (Repeals and Minor Amendments) Act 1997 s. 43 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
+Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 23 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
+Fire and Emergency Services Authority of Western Australia (Consequential Provisions) Act 1998 s. 38 | 42 of 1998 | 4 Nov 1998 | 1 Jan 1999 (see s. 2 and Gazette 22 Dec 1998 p. 6833)
+Reprint of the Country Areas Water Supply Act 1947 as at 19 Mar 1999 (includes amendments listed above except those in the Acts Amendment (Water Authorities) Act 1985 s. 68(a))
+Water Services Coordination Amendment Act 1999 s. 11(3) | 39 of 1999 | 9 Nov 1999 | 19 Jun 2000 (see s. 2 and Gazette 16 Jun 2000 p. 2939)
+Rights in Water and Irrigation Amendment Act 2000 s. 83 | 49 of 2000 | 28 Nov 2000 | 10 Jan 2001 (see s. 2 and Gazette 10 Jan 2001 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 28 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Part II – Notices
-Citation | Gazettal | Commencement
-Country Areas Water Supply (Controlled Land) Notice 1990 | 14 Dec 1990 p. 6181 | 14 Dec 1990
-Country Areas Water Supply (Controlled Land) Notice 1991 | 19 Jul 1991 p. 3692 | 19 Jul 1991
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 7: The Country Areas Water Supply Act 1947 as at 7 Apr 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
 Water Legislation Amendment (Competition Policy) Act 2005 s. 3-7(3), 8-14 | 25 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-NB:This Act is affected by Orders published in Gazette 31 May 1985 p. 1897 and 21 June 1985 p. 2240.
+The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
+Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by section 4 of this Act.
-Repealed by the Land Administration Act 1997 (Act No. 30 of 1997).
-Repealed by the Mining Act 1978 (Act No. 107 of 1978).
-Now see Department of Minerals and Energy.
-Under section 31(1)(f) of the Acts Amendment (Public Service) Act 1987 (Act No. 113 of 1987), references to “Permanent Head” are to be construed as references to “chief executive officer”.
-Now see Department of Land Administration.
-Footnote no longer applicable.
+Repealed by the Mining Act 1978.
+Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Mines is, unless the contrary intention appears, to be read and construed as a reference to the Department of Industry and Resources.
+Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to chief executive officer. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the date of this reprint the former Department of Lands and Surveys is called the Department of Land Information.
+Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
+The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973 s. 4.
 Lapsed on 27 March 1991 under the Interpretation Act 1984 s. 42(2).
-Footnote no longer applicable.
+The Sentencing (Consequential Provisions) Act 1995 Pt. 16 is not included because it had been repealed by the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 23(2) prior to commencement.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 43 reads as follows:
 “
@@ -73,7 +79,7 @@ The State Administrative Tribunal Regulations 2004 r. 43 reads as follows:
 (3) If the Corporation receives, before the commencement day, a notice in accordance with the CWS Act section 60(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the decision to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the CWS Act section 60(1).
 (4) If a notice has been given under the CWS Act section 58(7) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
 ”.
-On the date as at which this compilation was prepared, the Water Legislation Amendment (Competition Policy) Act 2005 s. 3-7(3), 8-14 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Water Legislation Amendment (Competition Policy) Act 2005 s. 3-7(3) and 8-14 had not come into operation. They read as follows:
 “
 Part 2 — Country Areas Water Supply Act 1947
 3.The Act amended
