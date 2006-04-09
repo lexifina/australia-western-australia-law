@@ -14,10 +14,7 @@ Taxation Legislation Amendment Act 1993 Pt. 3 | 16 of 1993 | 29 Nov 1993 | 1 Jul
 Acts Amendment (Annual Valuations and Land Tax) Act 1993 s. 13 | 17 of 1993 | 29 Nov 1993 | 29 Nov 1993 (see s. 2)
 Reprint 3: The Metropolitan Region Improvement Tax Act 1959 as at 9 May 2003 (includes amendments listed above)
 Taxation Administration (Consequential Provisions) (Taxing) Act 2002 Pt. 2 | 46 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Metropolitan Region Improvement Tax Amendment Act 2005 s. 4 | 39 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2) Operative on commencement of Act No. 37 of 2005 (see s. 2)
+Metropolitan Region Improvement Tax Amendment Act 2005 | 39 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077)
 Repealed by the Land Tax Assessment Act 1976.
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2002. Pt. 1 and Pt. 5 Div. 1 of those regulations read as follows:
 “
@@ -119,17 +116,4 @@ The Taxation Administration (Consequential Provisions) (Taxing) Act 2002 s. 3 an
 The Taxation Administration Act 2003 is to be read with this Act as if they formed a single Act.
 4.Meaning of terms used in this Act
 The Glossary at the end of the Taxation Administration Act 2003 defines or affects the meaning of some of the words and expressions used in this Act and also affects the operation of other provisions.
-”.
-On the date as at which this compilation was prepared, the Metropolitan Region Improvement Tax Amendment Act 2005 s. 4 had not come into operation. It reads as follows:
-“
-4.Section 8 amended
-(1) Section 8 is amended by inserting after “subsequent year of assessment” —
-“
-up to and including the year of assessment ending on 30 June immediately following the day on which the Planning and Development Act 2005 comes into operation
-”.
-(2) After section 8 the following section is inserted —
-“
-9.Rate of tax imposed after 30 June following commencement of Planning and Development Act 2005
-For the year of assessment commencing on 1 July immediately following the day on which the Planning and Development Act 2005 comes into operation, and for each subsequent year of assessment, the rate of Metropolitan Region Improvement Tax imposed by this Act and payable under the Planning and Development Act 2005, is 0.15 cent for every dollar of the unimproved value of the land according to the valuation in force under the Valuation of Land Act 1978 at midnight on 30 June in the previous financial year.
-”.
 ”.
