@@ -1,3 +1,3 @@
 Western Australia
-Town Planning and Development Act 1928
+Planning and Development Act 2005
 Town Planning Regulations 1967
