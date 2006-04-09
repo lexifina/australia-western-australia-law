@@ -5,3 +5,4 @@ Citation | Gazettal | Commencement
 Town Planning and Development (Appeal) Regulations 2003 | 17 Apr 2003 p. 1247-50 | 18 Apr 2003 (see r. 2 and Gazette 17 Apr 2003 p. 1243)
 Town Planning and Development (Appeal) Amendment Regulations 2004 | 30 Dec 2004 p. 6956-7 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Now known as the Town Planning and Development (Ministerial Determinations) Regulations 2003; citation changed (see note under r. 1).
+Formerly made under s. 34 of the Town Planning and Development Act 1928, continued under s. 263 of the Planning and Development Act 2005.
