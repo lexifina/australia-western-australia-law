@@ -1,3 +1,3 @@
 Western Australia
-Metropolitan Region Town Planning Scheme Act 1959
+Planning and Development Act 2005
 Metropolitan Region (Valuation Board) Regulations 1967
