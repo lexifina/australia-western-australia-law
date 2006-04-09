@@ -17,11 +17,11 @@ Taxation Administration (Consequential Provisions) Act 2002 s. 15 | 45 of 2002 |
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 60 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation.
 Provisions that have not come into operation
- | Short title | Number and year | Assent | Commencement
- | State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Short title | Number and year | Assent | Commencement
+State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2)
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management.
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads —
 “
@@ -152,32 +152,4 @@ The State Administrative Tribunal Regulations 2004 r. 53 reads as follows:
 (5) On and after the commencement day, a reference in the HWA Act section 37(4) to a finding made by the State Administrative Tribunal on a reference in relation to the same or a related matter under the HWA Act section 37(3) is to be taken to include a reference to such a finding lawfully made by the Town Planning Appeal Tribunal before the commencement day.
 (6) If, before the commencement day, the Minister is required in accordance with the HWA Act section 73(4) (as in force when the requirement was received by the Minister) to refer a question to the Town Planning Appeal Tribunal but does not do so before the commencement day, on and after the commencement day the Minister must refer the question to the State Administrative Tribunal as if the requirement had referred to the State Administrative Tribunal and not to the Town Planning Appeal Tribunal.
 (7) If, before the commencement day, the Minister is requested in accordance with the HWA Act section 76(1) (as in force when the requirement was received by the Minister) to refer a question to the Town Planning Appeal Tribunal but does not do so before the commencement day, on and after the commencement day the Minister must refer the question to the State Administrative Tribunal as if the request had referred to the State Administrative Tribunal and not to the Town Planning Appeal Tribunal.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 29 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-29.Heritage of Western Australia Act 1990
-(1) Section 36(2)(b) is deleted and the following paragraph is inserted instead —
-“
-(b) on being satisfied that there has been consultation by the Council with the Western Australian Planning Commission established by the Planning and Development Act 2005 — remit the whole or any part of the Metropolitan Region Improvement Tax payable by the owner in respect of that place under section 200 of the Planning and Development Act 2005;
-”.
-(2) Section 60(1) is amended by deleting “Part V of the Town Planning and Development Act 1928 shall apply to any such referral under this Act, with any modification that may be necessary, as they apply to other appeals” and inserting instead —
-“
-Part 14 of the Planning and Development Act 2005 apply to any such referral under this Act, with any modification that may be necessary, as they apply to applications for review
-”;
-(3) Section 75(3)(a)(ii) and (iii) are deleted and the following subparagraph is inserted instead —
-“
-(ii) the Planning and Development Act 2005;
-”.
-(4) Section 78(1)(a) and (b) are deleted and the following paragraphs are inserted instead —
-“
-(a) applications for approval of development in a planning control area made under Part 7 of the Planning and Development Act 2005;
-(b) applications for approval under section 135, 136 or 162, or approvals for the purposes of section 147, of the Planning and Development Act 2005;
-”.
 ”.

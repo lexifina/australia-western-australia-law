@@ -28,11 +28,11 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 4: The Motor Vehicle Dealers Act 1973 as at 17 Jun 2005 (includes amendments listed above)
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 | 73 of 2003 | 15 Dec 2003 | To be proclaimed (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to “chief executive officer”.
 The Motor Vehicle Dealers Act 1973 s. 40 did not come into operation and was repealed by the Motor Vehicle Dealers Amendment Act 2002 s. 62.
 The Business Licensing Amendment Act 1995 s. 38 is a transitional provision that is of no further effect.
@@ -147,17 +147,4 @@ A person must not, in relation to a request under section 39B(1), or any attempt
 (b) likely to deceive in a material way.
 Penalty: $5 000.
 ”.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 43 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-43.Motor Vehicle Dealers Act 1973
-(1) Section 20E(2) is amended by deleting “town”.
-(2) Section 21A(2) is amended by deleting “town”.
 ”.

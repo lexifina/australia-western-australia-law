@@ -30,13 +30,13 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 11 and s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
  | Reprint 3: The Local Government Act 1995 as at 5 Aug 2005 (includes amendments listed above)
  | Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 14 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
+ | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Amendment (Vehicle Licensing) Act 2001 s. 33 | 28 of 2001 (as amended by No. 45 of 2002 s. 29) | 21 Dec 2001 | To be proclaimed (see s. 2)
 Local Government Amendment Act 2004 s. 16(1), (2), (3) and (5), 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 The provisions in this Act amending the Local Government Act 1960 have been omitted under s. 7(4)(e) of the Reprints Act 1984. Schedule 9.2 cl. 4 reads as follows:
 “
 4.Parts II to VII repealed
@@ -266,21 +266,3 @@ s. 9.8(1) s. 9.8(4) | In each provision delete “a Local Court” and insert in
 s. 9.8(3) | Delete “A Local Court” and insert instead — “ The Magistrates Court ”.
 ”.
 The amendments it seeks to make cannot be made due to amendments made by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 685, 700 and 705.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 37 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-37.Local Government Act 1995
-(1) Section 1.4 is amended in the definition of “metropolitan area” by deleting “section 6 of the Metropolitan Region Town Planning Scheme Act 1959” and inserting instead —
-“ the Planning and Development Act 2005 ”.
-(2) Section 6.33(1)(a) is deleted and the following paragraph is inserted instead —
-“
-(a) the purpose for which the land is zoned under a local planning scheme in force under the Planning and Development Act 2005;
-”.
-”.

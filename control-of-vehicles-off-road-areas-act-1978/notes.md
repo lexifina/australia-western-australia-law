@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 February 2006 of the Control of Vehicles (Off-road Areas) Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Control of Vehicles (Off-road Areas) Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Control of Vehicles (Off-road Areas) Act 1978 | 117 of 1978 | 12 Dec 1978 | Act other than s. 11: 5 Oct 1979 (see s. 2 and Gazette 5 Oct 1979 p. 3079)
@@ -29,13 +29,13 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 26 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Control of Vehicles (Off-road Areas) Act 1978 as at 17 Feb 2006 (includes amendments listed above except those in the Control of Vehicles (Off-road Areas) Act 1978 s. 11)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Control of Vehicles (Off-road Areas) Act 1978 s. 11 | 117 of 1978 (as amended by No. 7 of 2002 s. 7) | 12 Dec 1978 | To be proclaimed (see s. 2)
 Road Traffic Amendment (Vehicle Licensing) Act 2001 Pt. 3 Div. 2 | 28 of 2001 | 21 Dec 2001 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 On the date as at which this reprint was prepared, the Control of Vehicles (Off-road Areas) Act 1978 s. 11 (as amended by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 7) had not come into operation. It reads as follows:
 “
 11.Responsibility of owners
@@ -96,21 +96,5 @@ Schedule 2 — Other amendments to Acts
 12.Control of Vehicles (Off-road areas) Act 1978
 s. 33(1) | Delete “a court of petty sessions,” and insert instead — “ the Magistrates Court, ”.
 ”.
-On the date as at which this reprint was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2 cl. 14 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-14.Control of Vehicles (Off-road Areas) Act 1978
-(1) Section 16(5)(d) is amended by deleting “town” and inserting instead —
-“ local ”.
-(2) Section 47(1) is amended by deleting “any town planning scheme has been or is made under the Town Planning and Development Act 1928” and inserting instead —
-“
-any local planning scheme has been or is made under the Planning and Development Act 2005
-”.
-”.
+Footnote no longer applicable.
 The amendment to s. 33(1) by the Courts Legislation Amendment and Repeal Act 2004 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 147.

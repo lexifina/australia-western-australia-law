@@ -24,10 +24,7 @@ Reprint 3: The Gaming and Wagering Commission Act 1987 as at 3 Sep 2004 (include
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
- | Short title | Number and Year | Assent | Commencement
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Affecting Acts — Unclaimed Money Act 1990 (No. 31 of 1990) s. 9.
 — Gaming Commission (Continuing Lotteries Levy) Act 2000 (No. 5 of 2000) s. 3 and 4 read as follows:
 “
@@ -200,20 +197,4 @@ Each person holding office as a member of the Gaming Commission under the Gaming
 “ and Wagering ”.
 (3) Section 3(1) is amended by inserting after “Gaming” —
 “ and Wagering ”.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 26 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-26.Gaming and Wagering Commission Act 1987
-Section 55(3)(b) is amended as follows:
-(a) by deleting “town planning matters” and inserting instead —
-“ local planning matters ”;
-(b) by deleting “to town planning” and inserting instead —
-“ to local planning ”.
 ”.

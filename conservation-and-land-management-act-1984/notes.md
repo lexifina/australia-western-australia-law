@@ -42,12 +42,12 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 21(2) and 39(1)-(10) | 74 of
 Reprint 5: The Conservation and Land Management Act 1984 as at 24 Sep 2004 (includes amendments listed above)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 s. 51 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of the Offshore Minerals Act 2003 (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 The Land Act 1933 was repealed by section 281 of the Land Administration Act 1997.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
 The Acts Amendment (Marine Reserves) Act 1997 s. 7(2) reads as follows:
@@ -64,7 +64,7 @@ The Public Service Act 1978 was superseded by the Public Sector Management Act 1
 The Conservation and Land Management Amendment Act 1992 s. 18 reads as follows:
 “
 18.Validation
-Every contract entered into by the Executive Director before the commencement of this Act that would have been lawful if the amendments to the principal Act effected by this Act had been in force at the time when it was entered into is declared to have been lawfully entered into and any Act or thing done under such a contract is declared to have been lawfully done.
+Every contract entered into by the Executive Director before the commencement of this Act that would have been lawful if the amendments to the principal Act effected by this Act had been in force at the time when it was entered into is declared to have been lawfully entered into and any act or thing done under such a contract is declared to have been lawfully done.
 ”.
 The Conservation and Land Management Amendment Act 1993 Pt. 4 reads as follows:
 “
@@ -310,19 +310,4 @@ Section 4(1) is amended by inserting after “Mining Act 1978,” —
 15.Section 60 amended
 Section 60(2b) is amended by inserting after “Mining Act 1978,” —
 “ the Offshore Minerals Act 2003, ”.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 11 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-11.Conservation and Land Management Act 1984
-Section 34B(7) is amended by deleting “section 20 of the Town Planning and Development Act 1928” and inserting instead —
-“
-section 136 of the Planning and Development Act 2005
-”.
 ”.

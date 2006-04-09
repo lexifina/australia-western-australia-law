@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Electricity Corporations Act 2005. The following table contains information about that Act.
+This is a compilation of the Electricity Corporations Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and Year | Assent | Commencement
 Electricity Corporations Act 2005 | 18 of 2005 | 13 Oct 2005 | Pt. 1, s. 141, 142, 144-152, 153(1) and 179: 13 Oct 2005 (see s. 2(1)) Pt. 2-8, s. 143, 153(2)-(4), 154-178, 180-192, Sch. 1-4 and Sch. 5 (other than cl. 21(2)(a)(ii)): 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

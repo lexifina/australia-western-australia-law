@@ -14,11 +14,11 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 93 | 74 of 2003 | 15 Dec 200
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Reprint 1: The Port Authorities Act 1999 as at 1 Oct 2004 (includes amendments listed above)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | To be proclaimed (see s.2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 The Ports and Marine Legislation Amendment Act 2003 s. 4(2) reads as follows:
 “
 (2) The amendment made by subsection (1) does not affect the operation of the Port Authorities (Withdrawal and Revesting of Property) Order 2000 published in the Gazette on 2 June 2000.
@@ -118,28 +118,4 @@ Schedule 2 — Repeals and consequential amendments
 “
 dangerous goods as defined by the Dangerous Goods Safety Act 2004
 ”.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 49 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-49.Port Authorities Act 1999
-(1) Section 38(1) is amended in the definition of “responsible Minister” by deleting paragraph (a) and inserting instead —
-“
-(a)in relation to a planning matter, the Minister administering the Planning and Development Act 2005;
-”.
-(2) Section 38(2)(a) and “and” after it are deleted and the following is inserted instead —
-“
-(a) section 6 of the Planning and Development Act 2005; and
-”.
-(3) Section 38(3) is amended by deleting “for the purposes of section 32 of the Town Planning and Development Act 1928” and inserting instead —
-“
-for the purposes of section 6 of the Planning and Development Act 2005
-”.
-(4) Section 38(6) is amended by deleting “town”.
 ”.

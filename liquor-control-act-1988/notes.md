@@ -28,10 +28,7 @@ Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Fe
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
- | Short title | Number and Year | Assent | Commencement
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Now see the Public Sector Management Act 1994.
 The Liquor Licensing (Moratorium) Act 1983 expired on 30 June 1988 (see Liquor Licensing (Moratorium) Order 1987 in Gazette 24 Dec 1987 p. 4533).
 Repealed by the Liquor Act 1970 which was repealed by this Act.
@@ -78,17 +75,4 @@ The Liquor Licensing Amendment Act 2001 s. 5(2) reads as follows:
 The Liquor Licensing Amendment Act 2001 s. 6(2) reads as follows:
 “
 (2) An application made under section 77(4) of the Liquor Licensing Act 1988 before the commencement of this section and not determined before then must be determined in accordance with the Liquor Licensing Act 1988 as amended by this section.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 36 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-36.Liquor Licensing Act 1988
-(1) Section 40(1) is amended by deleting “town”.
-(2) Section 40(3) is amended by deleting “town”.
 ”.

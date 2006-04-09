@@ -13,11 +13,11 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 128 | 74 of 2003 | 15 Dec 20
 Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 133 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Financial Administration Legislation Amendment Act 2005 s. 46 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Water Legislation Amendment (Competition Policy) Act 2005 s. 7(4), 28(2), 60(2) and Pt. 8 | 25 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Under section 281(3) of the Land Administration Act 1997 (No. 30 of 1997), references to the Land Act 1933 may be construed as references to the Land Administration Act 1997.
 Part 6 of the Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996 (No. 12 of 1996) reads as follows —
 “
@@ -199,21 +199,4 @@ s.109
 (b) by deleting “s.73”, “s.74”, “s.81”, “s.81A”, “s.85”, “s.94”, and “s.100B”.
 (6) Schedule 2 Part 5 is amended after “s.39E” by inserting —
 “ s.39F ”.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 71 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-71.Water Services Licensing Act 1995
-Schedule 2 Part 1 is amended by deleting “Town Planning and Development Act 1928”, “s. 20D(a)(ii)” and “s. 27A(1)(b)(ii)” and inserting instead —
-“
-Planning and Development Act 2005
-s. 157(1)(a)(ii)
-s. 167(2)(b)(ii)
-”.
 ”.

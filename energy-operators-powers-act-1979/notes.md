@@ -37,10 +37,7 @@ Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 4: The Energy Operators (Powers) Act 1979 as at 23 Sep 2005 (includes amendments listed above)
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The State Electricity Commission Act 1945 was repealed by this Act.
 The Energy Operators (Powers) Act 1979 is affected by the Dampier to Bunbury Pipeline Act 1997 Sch. 4 Div. 3 it. 9, which reads as follows:
@@ -275,21 +272,4 @@ the energy operator, as mentioned in subsection (3), is to be presumed to be cor
 (3) In this section —
 “appropriate network development” means “appropriate network development” as defined in section 58(3a) or section 61(1a) of the principal Act, as the case may require;
 “Western Power Corporation” has the meaning given to that term in section 4(1) of the principal Act.
-”.
-Footnote no longer applicable.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 20 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-20.Energy Operators (Powers) Act 1979
-Section 41 is amended by deleting “section 20 of the Town Planning and Development Act 1928” and inserting instead —
-“
-section 135 of the Planning and Development Act 2005
-”.
 ”.

@@ -9,6 +9,6 @@ to amend or modify the operation of —
 •the Hire-Purchase Act 1959;
 •the Land Administration Act 1997;
 •the National Rail Corporation Agreement Act 1992; and
-•the Town Planning and Development Act 1928,
+•the Planning and Development Act 2005,
 and for related purposes.
-[Long title amended by No. 31 of 2003 s. 170.]
+[Long title amended by No. 31 of 2003 s. 170; No. 38 of 2005 s. 15.]

@@ -1,22 +1,19 @@
 Notes
 This is a compilation of the Commercial Tenancy (Retail Shops) Agreements Act 1985 and includes all amendments effected by the other Acts referred to in the following table.
 Compilation table
-Short title | Number and year | Assent | Commencement | Miscellaneous
-Commercial Tenancy (Retail Shops) Agreements Act 1985 | 43 of 1985 | 13 May 1985 | Proclaimed 1 September 1985 (see section 2 and Gazette 30 August 1985 p.3065)
-Commercial Tenancy (Retail Shops) Agreements Amendment Act (No. 2) 1985 | 49 of 1985 | 28 October 1985 | 1 September 1985 (see section 2)
-Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 | 48 of 1990 | 30 November 1990 | 30 November 1990 (see section 2) | Section 22 transitional
-Acts Amendment (Franchise Fees) Act 1997, Part 3 | 56 of 1997 | 12 December 1997 | Proclaimed 31 January 1998 (see section 2 and Gazette 30 January 1998 p.577)
-Lotteries Commission Amendment Act 1998, section 23 | 26 of 1998 | 30 June 1998 | Proclaimed 22 July 1998 (see section 2 and Gazette 21 July 1998 p.3825)
-Commercial Tenancy (Retail Shops) Agreements Amendment Act 1998 | 66 of 1998 | 15 January 1999 | Proclaimed 1 July 1999 (see section 2 and Gazette 18 June 1999 p.2629) | Section 14 transitional
-Acts Amendment and Repeal (Financial Sector Reform) Act 1999, section 65 | 26 of 1999 | 29 June 1999 | Proclaimed 1 July 1999 (see section 2(1) and Gazette 30 June 1999 p.2905)
+Short title | Number and year | Assent | Commencement
+Commercial Tenancy (Retail Shops) Agreements Act 1985 | 43 of 1985 | 13 May 1985 | Proclaimed 1 Sep 1985 (see section 2 and Gazette 30 Aug 1985 p.3065)
+Commercial Tenancy (Retail Shops) Agreements Amendment Act (No. 2) 1985 | 49 of 1985 | 28 Oct 1985 | 1 Sep 1985 (see section 2)
+Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 | 48 of 1990 | 30 Nov 1990 | 30 Nov 1990 (see section 2)
+Acts Amendment (Franchise Fees) Act 1997, Part 3 | 56 of 1997 | 12 Dec 1997 | Proclaimed 31 Jan 1998 (see section 2 and Gazette 30 Jan 1998 p.577)
+Lotteries Commission Amendment Act 1998, section 23 | 26 of 1998 | 30 Jun 1998 | Proclaimed 22 Jul 1998 (see section 2 and Gazette 21 Jul 1998 p.3825)
+Commercial Tenancy (Retail Shops) Agreements Amendment Act 1998 | 66 of 1998 | 15 Jan 1999 | Proclaimed 1 Jul 1999 (see section 2 and Gazette 18 Jun 1999 p.2629)
+Acts Amendment and Repeal (Financial Sector Reform) Act 1999, section 65 | 26 of 1999 | 29 Jun 1999 | Proclaimed 1 Jul 1999 (see section 2(1) and Gazette 30 Jun 1999 p.2905)
 Corporations (Consequential Amendments) Act 2001 Pt. 12 and s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Taxation Administration (Consequential Provisions) Act 2002 s. 10 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Acts Amendment (Equality of Status) Act 2003 Pt. 5 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 21 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
- | Short title | Number and Year | Assent | Commencement
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Footnote no longer applicable.
 The Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 s. 22 reads as follows —
 “
@@ -163,17 +160,4 @@ The State Administrative Tribunal Regulations 2004 r. 29 reads as follows:
 (a) before the commencement day a question arising under a retail shop lease is or is to be subject to mediation under the CTRS Act; and
 (b) the question is transferred to the Tribunal under the Act section 167,
 on or after the commencement day the question is to be dealt with as if it had been referred for mediation under the Act section 54(1) and the Tribunal is to specify a person to be the mediator.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 10 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-10.Commercial Tenancy (Retail Shops) Agreements Act 1985
-Section 12(3) is amended in the definition of “metropolitan region improvement tax” by deleting “the Metropolitan Region Town Planning Scheme Act 1959;” and inserting instead —
-“ the Planning and Development Act 2005; ”.
 ”.

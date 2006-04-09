@@ -4,9 +4,10 @@ Enactments that may apply to licensees, other than the Corporation
 Part 1 — Provisions for which any licensee may be prescribed
 Water Agencies (Powers) Act 1984
 s.3 (definitions of “officer” and “works”) s.3(3) s.34 s.36 s.37 s.41 s.41B s.41E s.41F s.41G s.41GA s.41H s.41J s.41K s.41M | s.62(1) s.63 s.64 s.66 s.67 s.67A s.67B s.68 s.69 s.69A s.69B s.70 (except subsection (3)(b)) s.71(1) & (3) s.72 s.73 | s.83 s.84 s.86 s.87 s.88 s.89 s.90 s.91 s.92 s.93 s.94 s.95 s.96 s.97 s.98 s.99 | s.100 s.101 s.102
-Town Planning and Development Act 1928
-s.20D(a)(ii)
-s.27A(1)(b)(ii)
+Planning and Development Act 2005
+s. 157(1)(a)(ii)
+s. 167(2)(b)(ii)
+[Part 1 amended by No. 38 of 2005 s. 15.]
 Part 2 — Provisions for which a licensee (water supply services) may be prescribed
 Country Areas Water Supply Act 1947
 s.11 s.14 s.28 s.29 s.30 s.31 s.32 s.33 s.35 | s.37 s.38 s.39A s.40 s.42 s.43 s.43A s.43B s.44 | s.45 s.46 s.58 s.59 s.60 s.62A s.71 s.73 s.76 | s.77 s.78 s.108 s.111 s.112 s.113 s.115
@@ -45,4 +46,4 @@ s.63A
 Part 5 — Provisions for which a licensee (irrigation services) may be prescribed
 Rights in Water and Irrigation Act 1914
 s.33 s.35 s.36 s.37 s.38 s.39A | s.39C s.39E s.39G s.39I s.41 s.42 | s.42A s.43 s.44 s.45 s.63 s.66 | s.69 s.70 s.71 s.75 s.79A
-[Schedule 2 amended by No. 12 of 1996 s.16; No. 32 of 1997 s.19; No. 58 of 1999 s.87.]
+[Schedule 2 amended by No. 12 of 1996 s.16; No. 32 of 1997 s.19; No. 58 of 1999 s.87; No. 38 of 2005 s. 15.]

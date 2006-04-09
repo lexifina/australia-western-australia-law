@@ -33,8 +33,8 @@ of section 3(1) of the Sandalwood Act 1929.
 of section 23D of the Wildlife Conservation Act 1950 for the purposes of sale under a licence issued under that section.
 7.Clearing under the Forest Products Act 2000, of vegetation maintained, or established and maintained, under section 10(1)(g) of that Act.
 8.Clearing under a production contract or road contract entered into and having effect under the Forest Products Act 2000.
-9.Clearing in accordance with a subdivision approval given by the responsible authority under the Town Planning and Development Act 1928, including —
-(a) clearing for the purposes of any development that is deemed by section 20D of that Act to have been approved by the responsible authority; and
+9.Clearing in accordance with a subdivision approval given by the responsible authority under the Planning and Development Act 2005, including —
+(a) clearing for the purposes of any development that is deemed by section 157 of that Act to have been approved by the responsible authority; and
 (b) clearing in any building envelope described in the approved plan or diagram.
 10.Clearing that is done —
 (a) as permitted under section 17(5);
@@ -50,4 +50,4 @@ of the Bush Fires Act 1954.
 (b) the pastoral lease; or
 (c) any relevant condition set or determination made by the Pastoral Board under Part 7 of that Act.
 14.Clearing of aquatic vegetation that occurs under the authority of a licence or permit within the meaning of the Fish Resources Management Act 1994.
-[Schedule 6 inserted by No. 54 of 2003 s. 116.]
+[Schedule 6 inserted by No. 54 of 2003 s. 116; amended by No. 38 of 2005 s. 15.]

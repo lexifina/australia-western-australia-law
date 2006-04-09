@@ -24,13 +24,12 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Mines Safety and Inspection Amendment Act 2004 s. 94 | 68 of 2004 | 8 Dec 2004 | 4 Apr 2005 (see s. 2(1) and Gazette 11 Feb 2005 p. 695)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 5: The Occupational Safety and Health Act 1984 as at 24 Jun 2005 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Petroleum Safety Act 1999 s. 92 | 19 of 1999 | 21 Jun 1999 | To be proclaimed (see s. 2)
 Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 65, 66 and 68 | 51 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Petroleum Legislation Amendment and Repeal Act 2005 s. 50 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Occupational Safety and Health Act 1984; short title changed (see note under s. 1).
@@ -111,19 +110,7 @@ as if section 68 had not been enacted.
 (1) An application for leave to appeal made under section 54B(2) of the Occupational Safety and Health Act 1984 but not finally determined before the commencement of section 68, and an appeal for which leave is granted on such an application, may be dealt with and determined as if that section had not been enacted.
 (2) An appeal brought under section 54B(2) of the Occupational Safety and Health Act 1984 but not finally determined before the commencement of section 68, may be dealt with and determined as if that section had not been enacted.
 ”.
-On the date as at which this compilation was prepared, the Petroleum Safety Act 1999 s. 92, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-92.Consequential amendments
-The Acts referred to in the first column of Schedule 2 are amended as set out in the second column of that Schedule.
-”.
-Schedule 2 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[Section 92]
-Short title of Act | Amendment
-Occupational Safety and Health Act 1984 | In section 4(2) delete “, petroleum well or petroleum pipeline” and substitute the following — “or petroleum site ”.
- | In section 4(2) delete “, the Petroleum Act 1967, the Petroleum (Submerged Lands) Act 1982 or the Petroleum Pipelines Act 1969,” and substitute the following — “or the Petroleum Safety Act 1999, ”.
-”.
+The amendment in the Petroleum Safety Act 1999 Sch. 2 that was to amend this Act was repealed by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before the amendment came into operation.
 On the date as at which this compilation was prepared, the Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 65, 66 and 68 had not come into operation. They read as follows:
 “
 65.Section 51C amended
@@ -146,17 +133,4 @@ On the date as at which this compilation was prepared, the Petroleum Legislation
 (c) at which a pipeline operation, as defined in section 4(1) of the Petroleum Pipelines Act 1969, is carried on; or
 (d) at which an offshore petroleum operation, as defined in section 4 of the Petroleum (Submerged Lands) Act 1982, is carried on.
 ”.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 45 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-45.Occupational Safety and Health Act 1984
-Section 23G(1) is amended in paragraph (a)(ii) of the definition of “residential premises” by deleting “section 6 of the Metropolitan Region Town Planning Scheme Act 1959” and inserting instead —
-“ the Planning and Development Act 2005 ”.
 ”.
