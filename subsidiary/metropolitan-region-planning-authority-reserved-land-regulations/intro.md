@@ -1,3 +1,3 @@
 Western Australia
-METROPOLITAN REGION TOWN PLANNING SCHEME ACT 1959
+Planning and Development Act 2005
 Metropolitan Region Planning Authority (Reserved Land) Regulations
