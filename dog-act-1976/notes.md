@@ -21,11 +21,11 @@ Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 220 | 35 of 200
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 38 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 “
@@ -56,21 +56,4 @@ The State Administrative Tribunal Regulations 2004 r. 47 reads as follows:
 47.Dog Act 1976
 (1) If a notice has been given under the Dog Act 1976 section 33F(1) before the commencement day, on or after the commencement day the notice is to be taken to refer to the right to apply to the State Administrative Tribunal for a review.
 (2) If a notice has been given under the Dog Act 1976 section 33G(2) before the commencement day, on or after the commencement day the notice is to be taken to refer to the right to apply to the State Administrative Tribunal for a review.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 17 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-17.Dog Act 1976
-(1) Section 3(1) is amended by deleting the definition of “metropolitan region” and inserting instead —
-“
-“metropolitan region” has the meaning given to that term in the Planning and Development Act 2005 section 4;
-”.
-(2) Section 52(1) is amended by deleting “the Town Planning and Development Act 1928” and inserting instead —
-“ the Planning and Development Act 2005 ”.
 ”.

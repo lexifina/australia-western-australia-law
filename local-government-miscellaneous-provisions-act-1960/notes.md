@@ -123,11 +123,11 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 7: The Local Government (Miscellaneous Provisions) Act 1960 as at 16 Sep 2005 (includes amendments listed above)
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 14 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | s. 141 cl. 94, amendment to s. 430(2)(a): to be proclaimed (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 14 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Act No. 90 of 1964 was passed as the Local Government Act Amendment Act (No. 2) 1964, but was proclaimed to come into operation as the Local Government Act Amendment Act 1964.
 Repealed by the Stock (Brands and Movement) Act 1970, which is now known as the Stock (Identification and Movement) Act 1970.
 Repealed by the Auction Sales Act 1973 s. 3(1).
@@ -309,11 +309,8 @@ Schedule 1 — Amendments to various Acts
 s. 430(2)(a) | Delete the paragraph and “and” after it and insert instead — “ (a)may by leave of the Supreme Court be enforced in that court as if the award were a monetary judgment (within the meaning of section 3 of the Civil Judgments Enforcement Act 2004) of that court; and ”.
 ”.
 The amendment to s. 430(2)(a) in the Local Government (Miscellaneous Provisions) Act 1960 Sch. 1 cl. 94 would not be included because the section it seeks to amend was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 683.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 14 had not come into operation. It reads as follows:
+The Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 14(3) and (4) read as follows:
 “
-14.Local Government (Miscellaneous Provisions) Act 1960 amended and transitional
-(1) The amendment in this section is to the Local Government (Miscellaneous Provisions) Act 1960.
-(2) Section 295 is repealed.
 (3) Despite the repeal of section 295 of the Local Government (Miscellaneous Provisions) Act 1960, section 295(4) and (4a) of that Act continue to apply in relation to the disposal of land where the subdivision of the land was approved before the coming into operation of this section.
 (4) Until minimum standards of construction and drainage are fixed under section 169 of the Planning and Development Act 2005, the minimum standards fixed under section 295(3a) of the Local Government (Miscellaneous Provisions) Act 1960 apply for the purposes of the Planning and Development Act 2005 as if they had been fixed under that Act.
 ”.

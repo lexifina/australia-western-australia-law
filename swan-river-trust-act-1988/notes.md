@@ -27,49 +27,10 @@ Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 200
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 123 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Swan River Trust Act 1988 as at 7 Oct 2005 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management.
 The Swan Valley Planning Act 1995 Sch. 2 cl. 15(2) reads as follows:
 “
 (2) The amendment made by subclause (1)(b) does not apply to any application for approval of development under the principal Act made before the commencement of section 27 of this Act.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 65 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-65.Swan River Trust Act 1988
-(1) Section 3 is amended as follows:
-(a) by deleting the definition of “Metropolitan Scheme Act”;
-(b) in the definitions of “Metropolitan Region Scheme” and “Minister for Planning” by deleting “Metropolitan Scheme Act” and inserting instead —
-“ Planning and Development Act 2005 ”;
-(c) in the definition of “Western Australian Planning Commission” by deleting “by section 4(1) of the Western Australian Planning Commission Act 1985.” and inserting instead —
-“ under the Planning and Development Act 2005. ”.
-(2) Section 7(1)(f) is amended by deleting “statements of planning policy” and inserting instead —
-“ State planning policies ”.
-(3) Section 12(1)(c) is deleted and the following paragraph is inserted instead —
-“
-(c) the holder of such office in the Western Australian Planning Commission as the Minister for Planning may from time to time nominate;
-”.
-(4) Section 47 is amended by deleting the definition of “Minister for Planning”.
-(5) Section 63(2) is amended by deleting “section 36(3)(b) of the Metropolitan Scheme Act” and inserting instead —
-“
-section 177(1)(b) of the Planning and Development Act 2005
-”.
-(6) Section 63(4) is amended by deleting “section 36(3)(a) of the Metropolitan Scheme Act” and inserting instead —
-“
-section 177(1)(a) of the Planning and Development Act 2005
-”.
-(7) Section 63(8) is amended by deleting “Section 36(2)(b), (2a), (2b), (7) and (8) of the Metropolitan Scheme Act” and inserting instead —
-“
-Sections 180, 187 and 188 of the Planning and Development Act 2005
-”.
-”.

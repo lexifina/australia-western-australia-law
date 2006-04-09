@@ -17,10 +17,7 @@ Reprint of the Anzac Day Act 1960 as at 24 May 2002 (includes amendments listed 
 Acts Amendment (Equality of Status) Act 2003 Pt. 3 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 73 | 35 of 2003 | 26 Jun 2003 | 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
 Anzac Day Amendment Act 2003 | 62 of 2003 | 26 Nov 2003 | 26 Nov 2003 (see s. 2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Footnote no longer applicable.
 Repealed by the Liquor Act 1970 which was repealed by the Liquor Licensing Act 1988.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
@@ -29,22 +26,4 @@ The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as
 (1) The Governor, on the recommendation of the Minister, may make regulations amending subsidiary legislation made under any Act.
 (2) The Minister may make a recommendation under subsection (1) only if the Minister considers that each amendment proposed to be made by the regulations is necessary or desirable as a consequence of the enactment of the RWWA Act or this Act.
 (3) Nothing in this section prevents subsidiary legislation from being amended in accordance with the Act under which it was made.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 2 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-2.Anzac Day Act 1960
-(1) Section 5(1)(b) is amended by deleting “area” in both places where it occurs and inserting instead —
-“ region ”.
-(2) Section 5(3) is repealed and the following subsection is inserted instead —
-“
-(3) In this section —
-“metropolitan region” has the meaning given to that term in the Planning and Development Act 2005 section 4.
-”.
 ”.

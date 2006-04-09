@@ -28,11 +28,11 @@ Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2
 Statutes (Repeals and Minor Amendments) Act 2003 s. 125 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 571 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Water Legislation Amendment (Competition Policy) Act 2005 s. 56-60(1), 61-62 | 25 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 N.B.This Act is affected by the Strata Titles Act 1985 (No. 33 of 1985).
 Now see Public Sector Management Act 1994 (No. 31 of 1994).
 Section 13 of the Acts Amendment (Water Authorities) Act 1985 (No. 110 of 1985) reads as follows —
@@ -372,34 +372,4 @@ and
 may be continued and completed under section 81 of that Act as if subsection (1) had not been enacted.
 (3) In subsection (2) —
 “Corporation” has the meaning given to that term in the Water Agencies (Powers) Act 1984 section 3(1).
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 70 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-70.Water Agencies (Powers) Act 1984
-(1) Section 38(1) is amended by deleting “town planning scheme has been or is made under the Town Planning and Development Act 1928” and inserting instead —
-“
-local planning scheme is in force under the Planning and Development Act 2005
-”.
-(2) Section 65(a) is amended as follows:
-(a) in the definition of “development” by deleting “Town Planning and Development Act 1928” and inserting instead —
-“ Planning and Development Act 2005 ”;
-(b) in paragraph (a) of the definition of “planning condition” by deleting “Part III of the Town Planning and Development Act 1928” and inserting instead —
-“
-Part 10 of the Planning and Development Act 2005
-”.
-(3) Section 67(4) is amended by deleting “Part III of the Town Planning and Development Act 1928” and inserting instead —
-“ Part 10 of the Planning and Development Act 2005 ”.
-(4) Section 67(7) is amended by deleting “Town Planning and Development Act 1928” and inserting instead —
-“ Planning and Development Act 2005 ”.
-(5) Section 79 is amended by deleting “section 20 of the Town Planning and Development Act 1928” and inserting instead —
-“
-section 135 of the Planning and Development Act 2005
-”.
 ”.

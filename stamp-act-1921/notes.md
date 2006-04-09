@@ -158,11 +158,11 @@ Revenue Laws Amendment Act (No. 2) 2005 Pt. 3 | 12 of 2005 | 30 Aug 2005 | 30 Au
 Stamp Amendment Act 2005 | 34 of 2005 | 12 Dec 2005 | Act other than Pt. 3: 12 Dec 2005 (see s. 2); Pt. 3: 1 Jan 2006 (see s. 2(2))
 Stamp Amendment (Taxing) Act 2005 | 35 of 2005 | 12 Dec 2005 | 1 Mar 2006 (see s. 2 and Gazette 24 Jan 2006 p. 429)
 Stamp Amendment (Assessment) Act 2005 | 36 of 2005 | 12 Dec 2005 | s. 1-4 and 7: 12 Dec 2005 (see s. 2(1)); s. 5: 1 Jul 1997 (see s. 2(2)) s. 6 and 8: 1 Mar 2006 (see s. 2(3) and Gazette 24 Jan 2006 p. 429)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 30 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 The Revenue Laws Amendment and Repeal Act 2004 s. 19 and 32 read as follows:
 “
 19.Transitional provisions
@@ -966,22 +966,4 @@ The Stamp Amendment (Assessment) Act 2005 s. 7 and 8 read as follows:
 “commencement” means the time at which section 6 of this Act comes into operation;
 “new Part IIIF” means Part IIIF of the Stamp Act 1921 as in force after commencement and, for the purposes of this section, is to be taken to include item 16 of the Second Schedule of the Stamp Act 1921 as in force after commencement;
 “old Part IIIF” means Part IIIF of the Stamp Act 1921 as in force immediately before commencement and, for the purposes of this section, is to be taken to include item 16 of the Second Schedule and item 8 of the Third Schedule of the Stamp Act 1921, as in force immediately before commencement.
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 62 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-62.Stamp Act 1921
-(1) The Second Schedule item 5(1) is amended by deleting “a town planning scheme, including the Metropolitan Region Scheme” and inserting instead —
-“ a planning scheme ”.
-(2) The Second Schedule item 5(2) is deleted and the following subitem is inserted instead —
-“
-(2)Expressions used in this item have the same meaning as they have in the Planning and Development Act 2005.
-”.
 ”.

@@ -18,11 +18,11 @@ Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 115 
 Mines Safety and Inspection Amendment Act 2004 -11 | 68 of 2004 | 8 Dec 2004 | 4 Apr 2005 (see s. 2 and Gazette 14 Dec 2004 p. 5999-6000 and Gazette 11 Feb 2005 p. 695)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Mines Safety and Inspection Act 1994 as at 10 Jun 2005 (includes amendments listed above)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
- | Short title | Number and year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | To be proclaimed (see s. 2)
- | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 The amendment in the Coroners Act 1996 s. 61 is not included because of an error in the reference to the provision to be amended.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 100 is not included because the section it sought to amend had been amended by the Mines Safety and Inspection Amendment Act 2004 s. 76.
 The Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 115(7) reads as follows:
@@ -91,17 +91,4 @@ Schedule 2 — Repeals and consequential amendments
 (c) in section 76(4)(c) by deleting “or blasting agents”;
 (d) in section 104(1)(d)(i) by deleting “, blasting agents,”;
 (e) in section 104(1)(d)(ii) by deleting “, blasting agents”.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 41 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-41.Mines Safety and Inspection Act 1994
-Section 15D(1) is amended in paragraph (a)(ii) of the definition of “residential premises” by deleting “section 6 of the Metropolitan Region Town Planning Scheme Act 1959” and inserting instead —
-“ the Planning and Development Act 2005 ”.
 ”.

@@ -1,24 +1,25 @@
 Notes
 This is a compilation of the Petroleum Pipelines Act 1969 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
-Short title | Number and year | Assent | Commencement | Miscellaneous
-Petroleum Pipelines Act 1969 | 112 of 1969 | 28 November 1969 | Proclaimed 12 December 1969 (see section 2 and Gazette 12 December 1969 p.4002)
-Petroleum Pipelines Act Amendment Act 1970 | 42 of 1970 | 23 September 1970 | 23 September 1970
-Metric Conversion Act 1972 (The Fourth Schedule was inserted by the Metric Conversion Act Amendment Act 1975 (No. 42 of 1975)) | 94 of 1972 | 4 December 1972 | The relevant amendments, as set out in the Fourth Schedule, took effect on 19 December 1975 (see section 4(2) and Gazette 19 December 1975 p.4577)
-Petroleum Pipelines Amendment Act 1983 | 10 of 1983 | 7 October 1983 | Proclaimed 11 November 1983 (see section 2 and Gazette 11 November 1983 p.4503)
-Acts Amendment (Petroleum) Act 1990 | 12 of 1990 | 31 July 1990 | Proclaimed 1 October 1990 (see section 2(1) and Gazette 28 September 1990 p.5099); section 132: deemed to operate from 12 December 1969 (see section 2(2)) | Sections 122(2), 139(2), (3) and (4), 141(2)-(7) and 148(2): Transitional
-Land (Titles and Traditional Usage) Act 1993, section 45 | 21 of 1993 | 2 December 1993 | 2 December 1993 | Clause 3(2) of Part 5 of Schedule 1: Transitional
-Acts Amendment (Petroleum) Act 1994, Part 4 | 28 of 1994 | 29 June 1994 | Proclaimed 22 July 1994 (see section 2 and Gazette 22 July 1994 p.3728)
-Statutes (Repeals and Minor Amendments) Act 1994, section 4 | 73 of 1994 | 9 December 1994 | 9 December 1994
-Acts Amendment and Repeal (Native Title) Act 1995, Part 9 | 52 of 1995 | 24 November 1995 | Proclaimed 9 December 1995 (see section 2 and Gazette 8 December 1995 p.5935)
-Local Government (Consequential Amendments) Act 1996, section 4 | 14 of 1996 | 28 June 1996 | 1 July 1996 (see section 2)
-Acts Amendment (Land Administration) Act 1997, Part 50 and sections 141 and 142 | 31 of 1997 | 3 October 1997 | 30 March 1998 (see section 2 and Gazette 27 March 1998 p.1765)
-Gas Pipelines Access (Western Australia) Act 1998, section 89 | 65 of 1998 | 15 January 1999 | Proclaimed 9 February 1999 (see section 2 and Gazette 8 February 1999 p.441)
-Energy Coordination Amendment Act 1999, section 10(5) | 20 of 1999 | 24 June 1999 | Proclaimed 16 October 1999 (see section 2 and Gazette 15 October 1999 p.4865)
-Statutes (Repeals and Minor Amendments) Act 2000, section 30 | 24 of 2000 | 4 July 2000 | 4 July 2000 (see section 2) | This amendment did not come into operation because of an error in the reference to the provision to be amended.
+Short title | Number and year | Assent | Commencement
+Petroleum Pipelines Act 1969 | 112 of 1969 | 28 Nov 1969 | Proclaimed 12 Dec 1969 (see section 2 and Gazette 12 Dec 1969 p.4002)
+Petroleum Pipelines Act Amendment Act 1970 | 42 of 1970 | 23 Sep 1970 | 23 Sep 1970
+Metric Conversion Act 1972 (The Fourth Schedule was inserted by the Metric Conversion Act Amendment Act 1975 (No. 42 of 1975)) | 94 of 1972 | 4 Dec 1972 | The relevant amendments, as set out in the Fourth Schedule, took effect on 19 Dec 1975 (see section 4(2) and Gazette 19 Dec 1975 p.4577)
+Petroleum Pipelines Amendment Act 1983 | 10 of 1983 | 7 Oct 1983 | Proclaimed 11 November 1983 (see section 2 and Gazette 11 November 1983 p.4503)
+Acts Amendment (Petroleum) Act 1990 | 12 of 1990 | 31 Jul 1990 | Proclaimed 1 Oct 1990 (see section 2(1) and Gazette 28 September 1990 p.5099); section 132: deemed to operate from 12 Dec 1969 (see section 2(2))
+Land (Titles and Traditional Usage) Act 1993, section 45 | 21 of 1993 | 2 Dec 1993 | 2 December 1993
+Acts Amendment (Petroleum) Act 1994, Part 4 | 28 of 1994 | 29 Jun 1994 | Proclaimed 22 Jul 1994 (see section 2 and Gazette 22 Jul 1994 p.3728)
+Statutes (Repeals and Minor Amendments) Act 1994, section 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994
+Acts Amendment and Repeal (Native Title) Act 1995, Part 9 | 52 of 1995 | 24 Nov 1995 | Proclaimed 9 Dec 1995 (see section 2 and Gazette 8 Dec 1995 p.5935)
+Local Government (Consequential Amendments) Act 1996, section 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see section 2)
+Acts Amendment (Land Administration) Act 1997, Part 50 and sections 141 and 142 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see section 2 and Gazette 27 Mar 1998 p.1765)
+Gas Pipelines Access (Western Australia) Act 1998, section 89 | 65 of 1998 | 15 Jan 1999 | Proclaimed 9 Feb 1999 (see section 2 and Gazette 8 Feb 1999 p.441)
+Energy Coordination Amendment Act 1999, section 10(5) | 20 of 1999 | 24 Jun 1999 | Proclaimed 16 Oct 1999 (see section 2 and Gazette 15 Oct 1999 p.4865)
+Statutes (Repeals and Minor Amendments) Act 2000, section 30 | 24 of 2000 (This amendment did not come into operation because of an error in the reference to the provision to be amended) | 4 Jul 2000 | 4 Jul 2000 (see section 2)
 Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 16 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 99 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
@@ -26,7 +27,6 @@ Petroleum Safety Act 1999 s. 92 | 19 of 1999 | 21 Jun 1999 | To be proclaimed
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | s. 7.3 operative on earliest of commencement of Part 2 (except s. 2.2), Part 3 (except s. 3.1) and Part 4
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | To be proclaimed (see s. 2)
 Petroleum Legislation Amendment and Repeal Act 2005 Pt. 3 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 NB.The Petroleum Pipelines Act 1969 is affected by the Dampier to Bunbury Pipeline Act 1997 (No. 53 of 1997), Division 8 of Schedule 4 which reads as follows —
 “
 38.Act applies to DBNGP
@@ -1350,20 +1350,5 @@ regulations made for the purposes of this subclause may declare that this Schedu
 (3) Regulations made for the purposes of subclause (2) do not remain in force for longer than 5 years after they commence, but this subclause does not prevent the making of further regulations of the same substance.
 (4) In subclause (2) —
 “this Schedule” includes regulations made for the purposes of this Schedule.
-”.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 47 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-47.Petroleum Pipelines Act 1969
-Section 10(2)(c) is amended by deleting “any town planning scheme under the Town Planning and Development Act 1928 or the Metropolitan Region Scheme under the Metropolitan Region Town Planning Scheme Act 1959” and inserting instead —
-“
-any planning scheme under the Planning and Development Act 2005
 ”.
 ”.

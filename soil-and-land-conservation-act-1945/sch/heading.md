@@ -13,8 +13,8 @@ Local Government (Miscellaneous Provisions) Act 1960
 Main Roads Act 1930
 Mining Act 1978
 Petroleum Act 1967
+Planning and Development Act 2005
 Rights in Water and Irrigation Act 1914
 Sandalwood Act 1929
 Stock (Identification and Movement) Act 1970
-Town Planning and Development Act 1928
-[Schedule inserted by No. 42 of 1982 s. 43; amended by No. 46 of 1994 s. 40; No. 14 of 1996 s. 4; No. 31 of 1997 s. 141.]
+[Schedule inserted by No. 42 of 1982 s. 43; amended by No. 46 of 1994 s. 40; No. 14 of 1996 s. 4; No. 31 of 1997 s. 141; No. 38 of 2005 s. 15.]

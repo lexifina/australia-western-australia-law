@@ -17,10 +17,7 @@ Transfer of Land Amendment Act 1996 s. 153(1) | 81 of 1996 | 14 Nov 1996 | 14 No
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 76 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
 Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 21 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
 Acts Amendment (Equality of Status) Act 2003 s. 125 and Pt. 49 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Repealed by the Interpretation Act 1984 (No. 12 of 1984).
 Repealed by the Strata Titles Act 1985 (No. 33 of 1985).
 Section 31A proclaimed 21 January 1972, see Gazette 21 January 1972 p 72.
@@ -35,19 +32,4 @@ The Acts Amendment (Equality of Status) Act 2003 s. 125(3) reads as follows:
 (a) at the time it was attached, could not have been attached to the enjoyment of that property by a man; and
 (b) continued to have effect after the commencement of section 31 of the Property Law Act 1969,
 is of no effect.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 51 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-51.Property Law Act 1969
-(1) Section 122(6) is amended by deleting “the Western Australian Planning Commission Act 1985” and inserting instead —
-“ the Planning and Development Act 2005 ”.
-(2) Section 123(8) is amended by deleting “the Western Australian Planning Commission Act 1985” and inserting instead —
-“ the Planning and Development Act 2005 ”.
 ”.

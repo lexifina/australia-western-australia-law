@@ -38,23 +38,6 @@ Criminal Law Amendment (Simple Offences) Act 2004 s. 36(12) | 70 of 2004 | 8 Dec
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 5: The Interpretation Act 1984 as at 12 Aug 2005 (includes amendments listed above)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 13 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
- | Short title | Number and year | Assent | Commencement
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Now see the Public Sector Management Act 1994.
 The Sunday Observance Laws Amendment and Repeal Act 1997 s. 4(2) is a transitional provision that is of no further effect.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 33 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-33.Interpretation Act 1984
-Section 5 is amended in the definition of “subsidiary legislation” by deleting “town planning scheme” and inserting instead —
-“ local or region planning scheme ”.
-”.

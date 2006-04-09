@@ -27,10 +27,7 @@ Reprint of the Waterways Conservation Act 1976 as at 20 Sep 2002 (includes amend
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 134 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Repealed by the Interpretation Act 1984.
 Repealed by the Mining Act 1978.
 Repealed by the Petroleum (Submerged Lands) Act 1982.
@@ -167,27 +164,3 @@ The operation of any provision of this Part is not to be regarded —
 (e) as releasing or allowing the release of any surety.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 72 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-72.Waterways Conservation Act 1976
-Section 36(1) is amended as follows:
-(a) by deleting paragraph (a) and inserting instead —
-“
-(a) the Minister to whom the Governor has for the time being committed the administration of the Planning and Development Act 2005;
-”;
-(b) in paragraph (b) by deleting “the Western Australian Planning Commission Act 1985;” and inserting instead —
-“ the Planning and Development Act 2005; ”;
-(c) in paragraph (d) by deleting “Town Planning and Development Act 1928” and inserting instead —
-“ Planning and Development Act 2005 ”;
-(d) by deleting paragraph (f)(i) and inserting instead the following subparagraph —
-“
-(i) a local planning scheme;
-”.
-”.

@@ -18,29 +18,11 @@ Acts Amendment (Land Administration) Act 1997 s. 142 | 31 of 1997 | 3 Oct 1997 |
 Statutes (Repeals and Minor Amendments) Act 2003 s. 80 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 2: The Marine and Harbours Act 1981 as at 14 May 2004 (includes amendments listed above)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 The Marine and Harbours Amendment Act 1994 s. 6(2) reads as follows:
 “
 (2) A lease which was granted or purportedly granted under section 12 of the principal Act before the commencement of this section —
 (a) to enable land or property to be used for community activities; or
 (b) to enable the commercial development of land or property by any person,
 is to be taken to be, and always to have been, as valid as it would have been if it had been granted for a purpose falling within the purposes of the principal Act or relating to the functions of the Department.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 38 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-38.Marine and Harbours Act 1981
-Section 12(3) is amended by deleting “made under the Metropolitan Region Town Planning Scheme Act 1959” and inserting instead —
-“
-as that term is defined in the Planning and Development Act 2005
-”.
 ”.

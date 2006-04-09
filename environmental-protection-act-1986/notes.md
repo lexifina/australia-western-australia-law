@@ -32,11 +32,11 @@ Environmental Protection Amendment Act 2003 8-12 | 54 of 2003 | 20 Oct 2003 | Ac
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 5: The Environmental Protection Act 1986 as at 16 Sep 2005 (includes amendments listed above)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | To be proclaimed (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -143,89 +143,3 @@ environment or believes on reasonable grounds that the dwelling-house or land is
 “ or onto which any waste has been or is being discharged ”.
 ”.
 The amendments to s. 40(2), 89(2) and 90(1)(a)(i) in the Contaminated Sites Act 2003 Sch. 3 cl. 1(3)(b), (7) and (9) would conflict with amendments in the Environmental Protection Amendment Act 2003 s. 9, 57 and 58.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 21 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-21.Environmental Protection Act 1986
-(1) Section 3(1) is amended by deleting the definitions of “Metropolitan Region Scheme”, “regional planning scheme” and “town planning scheme”.
-(2) Section 3(1) is amended by inserting in the appropriate alphabetical positions the following definitions —
-“
-“local planning scheme” has the meaning given to that term in the Planning and Development Act 2005 section 4;
-“region planning scheme” has the meaning given to that term in the Planning and Development Act 2005 section 4;
-”.
-(3) Section 3(1) is amended in the definition of “assessed scheme” by deleting paragraph (b)(iii) and inserting instead —
-“
-(iii)which is a local planning scheme, or an amendment to a local planning scheme, in respect of which sections 124, 125, 126 or 128 of the Planning and Development Act 2005 have been complied with to the extent, if any, necessary in relation to a region planning scheme, or an amendment to a region planning scheme, which amendment or scheme is a scheme referred to in paragraph (a) or subparagraph (i) or (ii);
-”.
-(4) Section 3(1) is amended in the definition of “final approval” by deleting paragraphs (c), (d), (e) and (f) and “or” after paragraph (e) and inserting instead —
-“
-(c)a region planning scheme, or an amendment to a region planning scheme, means an approval under section 53 or 62, as the case requires, of the Planning and Development Act 2005;
-(d)a local planning scheme, or an amendment to a local planning scheme, means an approval under section 87(2) of the Planning and Development Act 2005; or
-(e)a State planning policy to which section 32 of the Planning and Development Act 2005 applies, or an amendment to such a policy, means an approval under section 87(2), as read with section 32, of that Act;
-”.
-(5) Section 3(1) is amended in the definition of “period of public review” by deleting paragraphs (c), (d), (e) and (f) and “or” after paragraph (e) and inserting instead —
-“
-(c)a region planning scheme, or an amendment to a region planning scheme, means the period referred to in section 44(1) or 58(1)(b), as the case requires, of the Planning and Development Act 2005;
-(d)a local planning scheme, or an amendment to a local planning scheme, means the period of advertisement for public inspection prescribed for the purposes of section 84 of the Planning and Development Act 2005; or
-(e)a State planning policy to which section 32 of the Planning and Development Act 2005 applies, or an amendment to such a policy, means the period of advertisement for public inspection prescribed for the purposes of section 84, as read with section 32, of that Act;
-”.
-(6) Section 3(1) is amended by deleting the definition of “responsible authority” and inserting instead —
-“
-“responsible authority”, in relation to —
-(a)a scheme which is —
-(i)prepared under the Armadale Redevelopment Act 2001, means the Armadale Redevelopment Authority established under that Act;
-(ii)prepared under the East Perth Redevelopment Act 1991, means the East Perth Redevelopment Authority established by that Act;
-(iii)prepared under the Hope Valley-Wattleup Redevelopment Act 2000, means the Western Australian Land Authority established by section 5(1) of the Western Australian Land Authority Act 1992;
-(iv)prepared under the Midland Redevelopment Act 1999, means the Midland Redevelopment Authority established by that Act;
-(v)prepared under the Subiaco Redevelopment Act 1994, means the Subiaco Redevelopment Authority established by that Act;
-(vi)a region planning scheme, or an amendment to a region planning scheme, means the Western Australian Planning Commission;
-(vii)a local planning scheme, or an amendment to a local planning scheme, means the local government which is responsible for the local planning scheme or amendment; or
-(viii)a State planning policy to which section 32 of the Planning and Development Act 2005 applies, or an amendment to such a policy, means the Western Australian Planning Commission;
-or
-(b)a subdivision which is —
-(i)an activity requiring approval under Part 10 Division 2 of the Planning and Development Act 2005, means the Western Australian Planning Commission; or
-(ii)a strata plan, strata plan of subdivision or strata plan of consolidation required to be accompanied by a certificate issued under section 23 of the Strata Titles Act 1985, means the local government within the district of which the subdivision is proposed;
-”.
-(7) Section 3(1) is amended in the definition of “scheme” by deleting paragraphs (f), (g), (h) and (i) and “or” after paragraph (h) and inserting instead —
-“
-(f)a region planning scheme, or an amendment to a region planning scheme;
-(g)a local planning scheme, or an amendment to a local planning scheme; or
-(h)a State planning policy to which section 32 of the Planning and Development Act 2005 applies, or an amendment to such a policy;
-”.
-(8) Section 3(1) is amended by deleting the definition of “scheme Act” and inserting instead —
-“
-“scheme Act” means Armadale Redevelopment Act 2001, East Perth Redevelopment Act 1991, Hope Valley-Wattleup Redevelopment Act 2000, Midland Redevelopment Act 1999, Subiaco Redevelopment Act 1994 or Planning and Development Act 2005;
-”.
-(9) Section 3(1) is amended in the definition of “Western Australian Planning Commission” by deleting “section 4 of the Western Australian Planning Commission Act 1985” and inserting instead —
-“ the Planning and Development Act 2005 ”.
-(10) Section 3(2a)(a) is amended by deleting “under Part III of the Town Planning and Development Act 1928” and inserting instead —
-“
-under Part 10 Division 2 of the Planning and Development Act 2005
-”.
-(11) Section 48C(7) is amended in the definition of “public review” by deleting paragraphs (c), (d), (e) and (f) and “or” after paragraph (e) and inserting instead —
-“
-(c)a region planning scheme, or an amendment to a region planning scheme, means procedure referred to in sections 43, 44, 46 and 48, or section 58, as the case requires, of the Planning and Development Act 2005;
-(d)a local planning scheme, or an amendment to a local planning scheme, means procedure referred to in sections 84 and 87(1) of the Planning and Development Act 2005; or
-(e)a State planning policy to which section 32 of the Planning and Development Act 2005 applies, or an amendment to such a policy, means procedure referred to in sections 84 and 87(1), as read with section 32, of that Act.
-”.
-(12) Section 51O(1) is amended in the definition of “planning instrument” by deleting paragraphs (b) and (c) and “or” after paragraph (b) and inserting instead —
-“
-(b)a State planning policy approved under section 29 of the Planning and Development Act 2005 and published in the Gazette; or
-(c)a local planning strategy made under the Planning and Development Act 2005.
-”.
-(13) Section 68 is amended by deleting “under section 20 of the Town Planning and Development Act 1928” and inserting instead —
-“
-under section 135 of the Planning and Development Act 2005
-”.
-(14) Schedule 6 clause 9 is amended as follows:
-(a) by deleting “Town Planning and Development Act 1928” and inserting instead —
-“ Planning and Development Act 2005 ”;
-(b) in paragraph (a) by deleting “section 20D” and inserting instead —
-“ section 157 ”.
-”.

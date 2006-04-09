@@ -16,26 +16,6 @@ Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 22 | 20 of 2003 | 2
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 64 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Repealed by the Real Estate and Business Agents Act 1978.
 The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Companies (Western Australia) Act 1991 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 56 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-56.Sale of Land Act 1970
-(1) Section 11 is amended in the definition of “lot” by deleting “section 2 of the Town Planning and Development Act 1928” and inserting instead —
-“ the Planning and Development Act 2005 ”.
-(2) Section 16 is amended by deleting “town planning scheme, or any by-law relating to town planning, in force under the Town Planning and Development Act 1928” and inserting instead —
-“
-local planning scheme, or any local law relating to planning, in force under the Planning and Development Act 2005
-”.
-”.

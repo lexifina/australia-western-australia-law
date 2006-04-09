@@ -216,6 +216,7 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Constitution and Electoral Amendment Act 2005 s. 3 | 2 of 2005 | 23 May 2005 | 23 May 2005 (see s. 2)
  | Electricity Corporation Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
  | Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 4 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
+ | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -227,7 +228,6 @@ Podiatrists Act 2005 s. 109 | 30 of 2005 | 12 Dec 2005 | To be proclaimed (see s
 Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be proclaimed (see s. 2)
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
@@ -423,21 +423,7 @@ Schedule 3 — Consequential amendments
 The Osteopaths Registration Board of Western Australia established under the Osteopaths Act 2005.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 12 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-12.Constitution Acts Amendment Act 1899
-(1) Schedule V Part 3 is amended in the item relating to the board of valuers by deleting “the Metropolitan Region Town Planning Scheme Act 1959.” and inserting instead —
-“ the Planning and Development Act 2005. ”.
-(2) Schedule V Part 3 is amended in the item relating to the Western Australian Planning Commission by deleting “the Western Australian Planning Commission Act 1985.” and inserting instead —
-“ the Planning and Development Act 2005. ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Occupational Therapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments

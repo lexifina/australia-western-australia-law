@@ -36,12 +36,12 @@ Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan
 Courts Legislation Amendment and Repeal Act 2004 s. 141 (cl. 150 amendments to s. 15(5)) | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 121 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 5: The Strata Titles Act 1985 as at 20 May 2005 (includes amendments listed above)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Courts Legislation Amendment and Repeal Act 2004 s. 141 and 142 | 59 of 2004 | 23 Nov 2004 | s. 141 (the amendments to s. 116A(4)) and s. 142 cl. 48: to be proclaimed (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 “
 (5) A plan registered under the principal Act before the provision inserted by subsection (3) came into operation is declared to be, and to have always been, valid if it would have been valid at the time of registration had that provision been then in operation.
@@ -275,70 +275,4 @@ s. 72 | Delete “stipendiary”.
 s. 118 | Delete “office of a Clerk of a Local Court” and insert instead — “ Magistrates Court ”. Delete “by a Local Court” and insert instead — “ by the Magistrates Court ”.
 ”.
 The sections that it seeks to amend have been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125 and 1151.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 63 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-63.Strata Titles Act 1985
-(1) Section 3(1) is amended in the definition of “Commission” by deleting “the Western Australian Planning Commission Act 1985;” and inserting instead —
-“ the Planning and Development Act 2005; ”.
-(2) Section 21U(3) is amended by deleting “town planning scheme in force under the Town Planning and Development Act 1928” and inserting instead —
-“
-local planning scheme in force under the Planning and Development Act 2005
-”.
-(3) Section 21U(5) is amended by deleting “town” and inserting instead —
-“ local ”.
-(4) Section 23(2) is amended as follows:
-(a) in paragraph (a) by deleting “town planning scheme prepared or adopted by the local government under the Town Planning and Development Act 1928” and inserting instead —
-“
-local planning scheme in force under the Planning and Development Act 2005
-”;
-(b) in paragraph (b) by deleting “town” and inserting instead —
-“ local ”.
-(5) Section 24(2) is amended by deleting “town” and inserting instead —
-“ local ”.
-(6) Section 25(5) is amended by deleting “sections 20 and 21 of the Town Planning and Development Act 1928” and inserting instead —
-“
-sections 135, 136, 146 and 147 of the Planning and Development Act 2005
-”.
-(7) Section 25A(1) is amended as follows:
-(a) by deleting “section 24 of the Town Planning and Development Act 1928” and inserting instead —
-“
-sections 142, 143 and 144 of the Planning and Development Act 2005, and section 151 of that Act applies,
-”;
-(b) by deleting “Part III of”.
-(8) Section 25B(1) is amended by deleting “Part III of the Town Planning and Development Act 1928, other than section 20(1)(b),” and inserting instead —
-“
-Divisions 1, 2 (other than section 141) and 3 of Part 10 of the Planning and Development Act 2005, and section 166 of that Act,
-”.
-(9) Section 25B(3) is amended by deleting “section 26 of the Town Planning and Development Act 1928” and inserting instead —
-“ section 251 of the Planning and Development Act 2005 ”.
-(10) Section 26(1) is amended as follows:
-(a) in paragraph (e) by deleting “town planning scheme prepared or adopted by the local government under the Town Planning and Development Act 1928” and inserting instead —
-“
-local planning scheme in force under the Planning and Development Act 2005
-”;
-(b) in paragraph (f) by deleting “town” and inserting instead —
-“ local ”.
-(11) Section 26(5) is amended by deleting “Part V of the Town Planning and Development Act 1928” and inserting instead —
-“ Part 14 of the Planning and Development Act 2005 ”.
-(12) Section 27(3) is amended by deleting “Part V of the Town Planning and Development Act 1928” and inserting instead —
-“ Part 14 of the Planning and Development Act 2005 ”.
-(13) Section 31F(2)(e) is amended by deleting “town planning scheme in force under the Town Planning and Development Act 1928” and inserting instead —
-“
-local planning scheme in force under the Planning and Development Act 2005
-”.
-(14) Section 31F(4) is amended by deleting “town” and inserting instead —
-“ local ”.
-(15) Section 65(1)(c) is amended by deleting “the Metropolitan Region Town Planning Scheme Act 1959” and inserting instead —
-“ the Planning and Development Act 2005 ”.
-(16) Section 65(2) is amended by deleting “the Metropolitan Region Town Planning Scheme Act 1959” and inserting instead —
-“ the Planning and Development Act 2005 ”.
-(17) Section 65A(1) is amended by deleting “the Metropolitan Region Town Planning Scheme Act 1959” and inserting instead —
-“ the Planning and Development Act 2005 ”.
-”.
+The amendment in the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2 cl. 63(9), to amend s. 25B(3) is not included because the subsection it sought to amend had been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1116.

@@ -61,6 +61,7 @@ Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 61 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Mining Amendment Act 2005 | 27 of 2005 | 12 Dec 2005 | 10 Feb 2006 (see s. 2 and Gazette 3 Feb 2006 p. 516)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and are not included in this compilation. For the text of the provisions see the endnote referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -69,7 +70,6 @@ Native Title (State Provisions) Act 1999, s. 7.3 | 60 of 1999 | 10 Jan 2000 | Op
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
 Mining Amendment Act 2004 Pt. 9 | 39 of 2004 | 3 Nov 2004 | To be proclaimed (see s. 2)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 62 | 24 of 2005 | 2 Dec 2005 | s. 62 operative on commencement of No. 39 of 2004 s. 82 (see s. 2(3))
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 Formerly referred to the Public Service Commissioner the name of which was changed to the Minister for Public Sector Management by the Public Sector Management Act 1994 s. 112(2). The reference was changed under the Reprints Act 1984 s. 7(3)(h).
@@ -651,33 +651,7 @@ Footnote no longer applicable.
 Footnote no longer applicable.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 42 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-42.Mining Act 1978
-(1) Section 120(1) is amended as follows:
-(a) by deleting “town planning scheme in force under the Town Planning and Development Act 1928 or local laws in force under the Local Government Act 1995” and inserting instead —
-“
-planning scheme in force under the Planning and Development Act 2005
-”;
-(b) by deleting “or local laws” in the second place where it occurs.
-(2) Section 120(2) is amended as follows:
-(a) by deleting “the Town Planning and Development Act 1928” in both places where it occurs and inserting instead —
-“ the Planning and Development Act 2005 ”;
-(b) in paragraph (b) —
-(i) by inserting after “local government” —
-“
-or the Western Australian Planning Commission
-”; and
-(ii) by deleting “town planning scheme or local laws” and inserting instead —
-“ planning scheme ”.
-”;
+Footnote no longer applicable.
 The Mining Amendment Act 2004 s. 5(2) reads as follows:
 “
 (2) Despite the amendment made by subsection (1), section 45 of the Mining Act 1978 as in force immediately before the commencement of this section continues to apply to and in relation to —

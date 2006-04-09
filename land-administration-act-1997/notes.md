@@ -23,6 +23,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 2: The Land Administration Act 1997 as at 24 Jun 2005 (includes amendments listed above)
 Financial Administration Legislation Amendment Act 2005 s. 42 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2005 p. 1153)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 Pt. 2 Div. 2 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -32,7 +33,6 @@ Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | To be proclaimed 
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Water Legislation Amendment (Competition Policy) Act 2005 Pt. 4 | 25 of 2005 | 12 Dec 2005 | To be proclaimed (see s.2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 Pt. 2 Div. 2 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 “
 4.Section 6A inserted
@@ -420,50 +420,7 @@ s. 237(3) | Delete “stipendiary”.
 ”.
 Footnote no longer applicable.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 Pt. 2 Div. 2 had not come into operation. It reads as follows:
-“
-Division 2 — Land Administration Act 1997
-5.Land Administration Act 1997 amended
-The amendments in this Division are to the Land Administration Act 1997.
-6.Section 3 amended
-Section 3(1) is amended in the definition of “Planning Commission” by deleting “by the Western Australian Planning Commission Act 1985;” and inserting instead —
-“ under the Planning and Development Act 2005; ”.
-7.Section 23 amended
-Section 23(1)(b) is amended by deleting “the Town Planning and Development Act 1928,” and inserting instead —
-“ the Planning and Development Act 2005, ”.
-8.Section 26 amended
-Section 26(2) is amended by deleting “The Minister” and inserting instead —
-“ Subject to section 26A, the Minister ”.
-9.Section 26A inserted
-After section 26 the following section is inserted —
-“
-26A.Names of roads and areas in new subdivisions
-(1) If a person delivers a diagram or plan of survey of a subdivision of land approved by the Planning Commission to a local government, and the proposed subdivision includes the provision of a road for use by the public, that person must also deliver to the local government the name proposed to be given to the road.
-(2) The local government may require the person so subdividing the land —
-(a) to propose a name for the proposed road or, if a name has already been proposed, to alter that name; and
-(b) to propose a name for the area the subject of the proposed subdivision, or if a name has already been proposed, to alter that name.
-(3) If the local government approves a name proposed under subsection (1) or (2), the local government is to forward the proposal to the Minister.
-(4) The Minister may —
-(a) approve the proposed name;
-(b) direct the local government to reconsider the proposed name, having regard to such matters as the Minister may mention in the direction; or
-(c) refuse to approve the proposed name.
-(5) A person must not —
-(a) assign a name to the area or road unless the name is first approved by the Minister;
-(b) alter or change a name that has been so assigned, whether initially or from time to time, to the area or road unless the Minister first approves of the alteration or change of that name.
-Penalty: $1 000 and a daily penalty of $100.
-”.
-10.Section 27 amended
-Section 27(5) is repealed.
-11.Section 190 amended
-Section 190(1)(e)(i) is amended by deleting “the Town Planning and Development Act 1928” and inserting instead —
-“ the Planning and Development Act 2005 ”.
-12.Section 196 amended
-Section 196(9) is amended by deleting “the Town Planning and Development Act 1928” and inserting instead —
-“ the Planning and Development Act 2005 ”.
-13.Section 274 amended
-Section 274(6) is amended by deleting “the Metropolitan Region Town Planning Scheme Act 1959” and inserting instead —
-“ the Planning and Development Act 2005 ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Water Legislation Amendment (Competition Policy) Act 2005 Pt. 4 had not come into operation. It reads as follows:
 “
 Part 4 ¾ Land Administration Act 1997

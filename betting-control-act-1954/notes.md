@@ -44,10 +44,7 @@ Betting Legislation Amendment Act 2002 Pt. 2 | 13 of 2002 | 8 Jul 2002 | 21 Sep 
 Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 7 Div. 1 | 35 of 2003 | 26 Jun 2003 | s. 74, 76(b), (d)-(g), 77(1), 80, 81(1)-(4), 82-84, 95, 98: 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259); s. 75, 76(a), (c) and (h), 77(2), 78, 79, 81(5) and (6), 85-94, 96, 97 and 99-115: 30 Jan 2004 (see s. 2 and Gazette 30 Jan 2004 p. 397)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
- | Short title | Number and Year | Assent | Commencement
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Office of Racing Gaming and Liquor is now called the Department of Racing, Gaming and Liquor.
 Repealed by the Associations Incorporation Act 1987 s. 47.
 The Betting Control Amendment Act 1998 s. 5(2) and (3) read as follows:
@@ -139,21 +136,4 @@ has effect after the appointed day as if —
 (a) reporting as required by section 110; and
 (b) performing the functions described in section 106(g).
 (2)The accountable authority, as defined in the Financial Administration and Audit Act 1985, also continues in existence for the purpose described in subsection (1)(a).
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 5 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-5.Betting Control Act 1954
-(1) Section 4(1) is amended by deleting the definition of “metropolitan area” and inserting instead —
-“
-“metropolitan region” has the meaning given to that term in the Planning and Development Act 2005 section 4;
-”.
-(2) Sections 18A(1) and 32(2)(a) are amended by deleting “metropolitan area” in each place where it occurs and inserting instead —
-“ metropolitan region ”.
 ”.

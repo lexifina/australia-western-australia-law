@@ -1,13 +1,13 @@
 Notes
-This is a compilation of the Civil Judgments Enforcement Act 2004. The following table contains information about that Act.
+This is a compilation of the Civil Judgments Enforcement Act 2004 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Civil Judgments Enforcement Act 2004 | 28 of 2004 | 14 Oct 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
- | Short title | Number and year | Assent | Commencement
- | Housing Societies Repeal Act 2005 s. 20 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Short title | Number and year | Assent | Commencement
+Housing Societies Repeal Act 2005 s. 20 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 20 had not come into operation. It reads as follows:
 “
 20.Civil Judgments Enforcement Act 2004 amended
@@ -16,19 +16,6 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 (a) after paragraph (c) by inserting —
 “ or ”;
 (b) by deleting paragraph (d) and “or” after it.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 9 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-9.Civil Judgments Enforcement Act 2004
-Section 106 is amended in the definition of “declared areas” by deleting “the Metropolitan Region Town Planning Scheme Act 1959” and inserting instead —
-“ the Planning and Development Act 2005 ”.
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “

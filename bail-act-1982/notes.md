@@ -42,11 +42,11 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Misuse of Drugs Amendment Act 2004 s. 9(1) | 62 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 10 Dec 2004 p. 5965)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 3 and s. 82 and 83 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 5: The Bail Act 1982 as at 1 Apr 2005 (includes amendments listed above except those in the Acts Amendment (Court of Appeal) Act 2004 s. 28(3) and (4) (the amendment to s. 7A(1)), the Children and Community Services Act 2004, the Courts Legislation Amendment and Repeal Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Sentencing Legislation Amendment Act 2004 s. 13 | 27 of 2004 | 14 Oct 2004 | To be proclaimed (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 The Bail Amendment Act 1984 s. 10 and 11 were repealed by the Bail Amendment Act 1988 s. 20.
 The Bail Act 1982 was not in operation at the time when the reprint was compiled, but the reprinting was authorised by s. 21 of the Bail Amendment Act 1988.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a transitional provision that is of no further effect.
@@ -85,17 +85,3 @@ On the date as at which this compilation was prepared, the Sentencing Legislatio
 ”.
 Footnote no longer applicable.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 141 is not included because the clause it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 28(4) before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 4 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-4.Bail Act 1982
-Section 16A(4) is amended in the definition of “urban area” by deleting paragraph (a) and “and” after it and inserting instead —
-“
-(a)the metropolitan region as defined in the Planning and Development Act 2005 and any prescribed area that adjoins that region; and
-”.
