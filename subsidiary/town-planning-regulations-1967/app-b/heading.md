@@ -24,7 +24,7 @@ Part 11Enforcement and administration — sets out the general provisions for th
 Schedules
 Part 1 — Preliminary
 1.1.Citation
-1.1.1.The City/Town/Shire of .......... Scheme No. ..... (“the Scheme”) comes into operation on its Gazettal date.
+1.1.1.The City/Town/Shire of .......... Scheme No. ..... (the Scheme) comes into operation on its Gazettal date.
 1.1.2.The following Scheme(s) is (are) revoked —
 NameGazettal date
 (Insert (where applicable) existing town planning schemes revoked by the Scheme.)
@@ -517,92 +517,92 @@ Schedule 1 — Dictionary of defined words and expressions
 [cl. 1.7]
 1.General definitions
 In the Scheme —
-“advertisement” means any word, letter, model, sign, placard, board, notice, device or representation, whether illuminated or not, in the nature of, and employed wholly or partly for the purposes of, advertisement, announcement or direction, and includes any hoarding or similar structure used, or adapted for use, for the display of advertisements. The term includes any airborne device anchored to any land or building and any vehicle or trailer or other similar object placed or located so as to serve the purpose of advertising;
-“amenity” means all those factors which combine to form the character of an area and include the present and likely future amenity;
-“building envelope” means an area of land within a lot marked on a plan approved by the responsible authority within which all buildings and effluent disposal facilities on the lot must be contained;
-“conservation” has the same meaning as in the Heritage of Western Australia Act 1990;
-“cultural heritage significance” has the same meaning as in the Heritage of Western Australia Act 1990;
-“floor area” has the same meaning as in the Building Code of Australia 1996 published by the Australian Building Codes Board;
-“frontage”, when used in relation to a building that is used for —
+advertisement means any word, letter, model, sign, placard, board, notice, device or representation, whether illuminated or not, in the nature of, and employed wholly or partly for the purposes of, advertisement, announcement or direction, and includes any hoarding or similar structure used, or adapted for use, for the display of advertisements. The term includes any airborne device anchored to any land or building and any vehicle or trailer or other similar object placed or located so as to serve the purpose of advertising;
+amenity means all those factors which combine to form the character of an area and include the present and likely future amenity;
+building envelope means an area of land within a lot marked on a plan approved by the responsible authority within which all buildings and effluent disposal facilities on the lot must be contained;
+conservation has the same meaning as in the Heritage of Western Australia Act 1990;
+cultural heritage significance has the same meaning as in the Heritage of Western Australia Act 1990;
+floor area has the same meaning as in the Building Code of Australia 1996 published by the Australian Building Codes Board;
+frontage, when used in relation to a building that is used for —
 (a)residential purposes, has the same meaning as in the Residential Planning Codes; and
 (b)purposes other than residential purposes, means the road alignment at the front of a lot and, if a lot abuts 2 or more roads, the one to which the building or proposed building faces;
-“Gazettal date”, in relation to a Scheme, means the date on which the Scheme is published in the Gazette under section 7(3) of the Town Planning Act;
-“height” when used in relation to a building that is used for —
+Gazettal date, in relation to a Scheme, means the date on which the Scheme is published in the Gazette under section 7(3) of the Town Planning Act;
+height when used in relation to a building that is used for —
 (a)residential purposes, has the same meaning as in the Residential Planning Codes; or
 (b)purposes other than residential purposes, means the maximum vertical distance between the ground level and the finished roof height directly above;
-“incidental use” means a use of premises which is ancillary and subordinate to the predominant use;
-“local government” means the City/ Town/ Shire of ..........;
-“Local Planning Strategy” means the Local Planning Strategy in respect of the Scheme, as endorsed by the Commission under regulation 12B of the Town Planning Regulations 1967 and amended from time to time;
-“lot” has the same meaning as in the Town Planning Act but does not include a strata or survey strata lot;
-“minerals” has the same meaning as in the Mining Act 1978;
-“net lettable area (nla)” means the area of all floors within the internal finished surfaces of permanent walls but excludes the following areas —
+incidental use means a use of premises which is ancillary and subordinate to the predominant use;
+local government means the City/ Town/ Shire of ..........;
+Local Planning Strategy means the Local Planning Strategy in respect of the Scheme, as endorsed by the Commission under regulation 12B of the Town Planning Regulations 1967 and amended from time to time;
+lot has the same meaning as in the Town Planning Act but does not include a strata or survey strata lot;
+minerals has the same meaning as in the Mining Act 1978;
+net lettable area (nla) means the area of all floors within the internal finished surfaces of permanent walls but excludes the following areas —
 (a)all stairs, toilets, cleaner’s cupboards, lift shafts and motor rooms, escalators, tea rooms and plant rooms, and other service areas;
 (b)lobbies between lifts facing other lifts serving the same floor;
 (c)areas set aside as public space or thoroughfares and not for the exclusive use of occupiers of the floor or building;
 (d)areas set aside for the provision of facilities or services to the floor or building where such facilities are not for the exclusive use of occupiers of the floor or building;
-“non-conforming use” has the same meaning as it has in section 12(2)(a) of the Town Planning Act;
-“owner”, in relation to any land, includes the Crown and every person who jointly or severally whether at law or in equity —
+non-conforming use has the same meaning as it has in section 12(2)(a) of the Town Planning Act;
+owner, in relation to any land, includes the Crown and every person who jointly or severally whether at law or in equity —
 (a)is entitled to the land for an estate in fee simple in possession;
 (b)is a person to whom the Crown has lawfully contracted to grant the fee simple of that land;
 (c)is a lessor or licensee from the Crown; or
 (d)is entitled to receive or is in receipt of, or if the land were let to a tenant, would be entitled to receive, the rents and profits from the land, whether as beneficial owner, trustee, mortgagee in possession or otherwise;
-“place”, in Part 7 (Heritage Protection) has the same meaning as it has in the Heritage of Western Australia Act 1990;
-“plot ratio”, in the case of residential dwellings has the same meaning as in the Residential Planning Codes;
-“precinct” means a definable area where particular planning policies, guidelines or standards apply;
-“predominant use” means the primary use of premises to which all other uses carried out on the premises are subordinate, incidental or ancillary;
-“premises” means land or buildings;
-“region scheme” means a regional planning scheme made under the Western Australian Planning Commission Act 1985, as amended from time to time;
-“Region Scheme” means the region scheme for the ............region published in the Gazette of .........;
-“Region Scheme - Metropolitan” means the Metropolitan Region Scheme within the meaning of the Metropolitan Region Town Planning Scheme Act 1959;
-“Residential Planning Codes” means the Residential Planning Codes in Appendix 2 to the Western Australian Planning Commission Statement of Planning Policy No. 1, as amended from time to time;
-“retail” means the sale or hire of goods or services to the public;
-“substantially commenced” means that work or development the subject of planning approval has been begun by the performance of some substantial part of that work or development;
-“Town Planning Act” means the Town Planning and Development Act 1928;
-“wholesale” means the sale of goods or materials to be sold by others;
-“zone” means a portion of the Scheme area shown on the map by distinctive colouring, patterns, symbols, hatching or edging for the purpose of indicating the restrictions imposed by the Scheme on the use and development of land, but does not include a reserve or special control area.
+place, in Part 7 (Heritage Protection) has the same meaning as it has in the Heritage of Western Australia Act 1990;
+plot ratio, in the case of residential dwellings has the same meaning as in the Residential Planning Codes;
+precinct means a definable area where particular planning policies, guidelines or standards apply;
+predominant use means the primary use of premises to which all other uses carried out on the premises are subordinate, incidental or ancillary;
+premises means land or buildings;
+region scheme means a regional planning scheme made under the Western Australian Planning Commission Act 1985, as amended from time to time;
+Region Scheme means the region scheme for the ............region published in the Gazette of .........;
+Region Scheme - Metropolitan means the Metropolitan Region Scheme within the meaning of the Metropolitan Region Town Planning Scheme Act 1959;
+Residential Planning Codes means the Residential Planning Codes in Appendix 2 to the Western Australian Planning Commission Statement of Planning Policy No. 1, as amended from time to time;
+retail means the sale or hire of goods or services to the public;
+substantially commenced means that work or development the subject of planning approval has been begun by the performance of some substantial part of that work or development;
+Town Planning Act means the Town Planning and Development Act 1928;
+wholesale means the sale of goods or materials to be sold by others;
+zone means a portion of the Scheme area shown on the map by distinctive colouring, patterns, symbols, hatching or edging for the purpose of indicating the restrictions imposed by the Scheme on the use and development of land, but does not include a reserve or special control area.
 2.Land use definitions
 In the Scheme —
-“agriculture - extensive” means premises used for the raising of stock or crops but does not include agriculture - intensive or animal husbandry - intensive;
-“agriculture - intensive” means premises used for trade or commercial purposes, including outbuildings and earthworks, associated with the following —
+agriculture - extensive means premises used for the raising of stock or crops but does not include agriculture - intensive or animal husbandry - intensive;
+agriculture - intensive means premises used for trade or commercial purposes, including outbuildings and earthworks, associated with the following —
 (a)the production of grapes, vegetables, flowers, exotic or native plants, or fruit or nuts;
 (b)the establishment and operation of plant or fruit nurseries;
 (c)the development of land for irrigated fodder production or irrigated pasture (including turf farms); or
 (d)aquaculture;
-“agroforestry” means land used commercially for tree production and agriculture where trees are planted in blocks of more than one hectare;
-“amusement parlour” means premises open to the public, where the predominant use is for amusement by means of amusement machines and where there are more than 2 amusement machines operating within the premises;
-“animal establishment” means premises used for the breeding, boarding, training or caring of animals for commercial purposes but does not include animal husbandry - intensive or veterinary centre;
-“animal husbandry - intensive” means premises used for keeping, rearing or fattening of pigs, poultry (for either egg or meat production), rabbits (for either meat or fur production) and other livestock in feedlots;
-“bed and breakfast” means a dwelling, used by a resident of the dwelling, to provide accommodation for persons away from their normal place of residence on a short-term commercial basis and includes the provision of breakfast;
-“betting agency” means an office or totalisator agency established under the Totalisator Agency Board Betting Act 1960;
-“caravan park” has the same meaning as in the Caravan Parks and Camping Grounds Act 1995;
-“caretaker’s dwelling” means a dwelling on the same site as a building, operation, or plant, and occupied by a supervisor of that building, operation or plant;
-“carpark” means premises used primarily for parking vehicles whether open to the public or not but does not include any part of a public road used for parking or for a taxi rank, or any premises in which cars are displayed for sale;
-“child care premises” has the same meaning as in the Community Services (Child Care) Regulations 1988;
-“cinema/theatre” means premises where the public may view a motion picture or theatrical production;
-“civic use” means premises used by a government department, an instrumentality of the Crown, or the local government, for administrative, recreational or other purposes;
-“club premises” means premises used by a legally constituted club or association or other body of persons united by a common interest;
-“community purpose” means the use of premises designed or adapted primarily for the provision of educational, social or recreational facilities or services by organisations involved in activities for community benefit;
-“consulting rooms” means premises used by no more than 2 health consultants for the investigation or treatment of human injuries or ailments and for general outpatient care;
-“convenience store” means premises —
+agroforestry means land used commercially for tree production and agriculture where trees are planted in blocks of more than one hectare;
+amusement parlour means premises open to the public, where the predominant use is for amusement by means of amusement machines and where there are more than 2 amusement machines operating within the premises;
+animal establishment means premises used for the breeding, boarding, training or caring of animals for commercial purposes but does not include animal husbandry - intensive or veterinary centre;
+animal husbandry - intensive means premises used for keeping, rearing or fattening of pigs, poultry (for either egg or meat production), rabbits (for either meat or fur production) and other livestock in feedlots;
+bed and breakfast means a dwelling, used by a resident of the dwelling, to provide accommodation for persons away from their normal place of residence on a short-term commercial basis and includes the provision of breakfast;
+betting agency means an office or totalisator agency established under the Totalisator Agency Board Betting Act 1960;
+caravan park has the same meaning as in the Caravan Parks and Camping Grounds Act 1995;
+caretaker’s dwelling means a dwelling on the same site as a building, operation, or plant, and occupied by a supervisor of that building, operation or plant;
+carpark means premises used primarily for parking vehicles whether open to the public or not but does not include any part of a public road used for parking or for a taxi rank, or any premises in which cars are displayed for sale;
+child care premises has the same meaning as in the Community Services (Child Care) Regulations 1988;
+cinema/theatre means premises where the public may view a motion picture or theatrical production;
+civic use means premises used by a government department, an instrumentality of the Crown, or the local government, for administrative, recreational or other purposes;
+club premises means premises used by a legally constituted club or association or other body of persons united by a common interest;
+community purpose means the use of premises designed or adapted primarily for the provision of educational, social or recreational facilities or services by organisations involved in activities for community benefit;
+consulting rooms means premises used by no more than 2 health consultants for the investigation or treatment of human injuries or ailments and for general outpatient care;
+convenience store means premises —
 (a)used for the retail sale of convenience goods commonly sold in supermarkets, delicatessens or newsagents, or the retail sale of petrol and those convenience goods;
 (b)operated during hours which include, but may extend beyond, normal trading hours;
 (c)which provide associated parking; and
 (d)the floor area of which does not exceed 300 square metres net lettable area;
-“corrective institution” means premises used to hold and reform persons committed to it by a court, such as a prison or other type of detention facility;
-“educational establishment” means premises used for the purposes of education and includes a school, tertiary institution, business college, academy or other educational centre;
-“exhibition centre” means premises used for the display, or display and sale, of materials of an artistic, cultural or historical nature, and includes a museum or art gallery;
-“family day care” means premises used to provide family day care within the meaning of the Community Services (Child Care) Regulations 1988;
-“fast food outlet” means premises used for the preparation, sale and serving of food to customers in a form ready to be eaten without further preparation, primarily off the premises, but does not include a lunch bar;
-“fuel depot” means premises used for the storage and sale in bulk of solid or liquid or gaseous fuel, but does not include a service station and specifically excludes the sale by retail into a vehicle for final use of such fuel from the premises;
-“funeral parlour” means premises used to prepare and store bodies for burial or cremation;
-“home business” means a business, service or profession carried out in a dwelling or on land around a dwelling by an occupier of the dwelling which —
+corrective institution means premises used to hold and reform persons committed to it by a court, such as a prison or other type of detention facility;
+educational establishment means premises used for the purposes of education and includes a school, tertiary institution, business college, academy or other educational centre;
+exhibition centre means premises used for the display, or display and sale, of materials of an artistic, cultural or historical nature, and includes a museum or art gallery;
+family day care means premises used to provide family day care within the meaning of the Community Services (Child Care) Regulations 1988;
+fast food outlet means premises used for the preparation, sale and serving of food to customers in a form ready to be eaten without further preparation, primarily off the premises, but does not include a lunch bar;
+fuel depot means premises used for the storage and sale in bulk of solid or liquid or gaseous fuel, but does not include a service station and specifically excludes the sale by retail into a vehicle for final use of such fuel from the premises;
+funeral parlour means premises used to prepare and store bodies for burial or cremation;
+home business means a business, service or profession carried out in a dwelling or on land around a dwelling by an occupier of the dwelling which —
 (a)does not employ more than 2 people not members of the occupier’s household;
 (b)will not cause injury to or adversely affect the amenity of the neighbourhood;
 (c)does not occupy an area greater than 50 square metres;
 (d)does not involve the retail sale, display or hire of goods of any nature;
 (e)in relation to vehicles and parking, does not result in traffic difficulties as a result of the inadequacy of parking or an increase in traffic volumes in the neighbourhood, and does not involve the presence, use or calling of a vehicle more than 3.5 tonnes tare weight; and
 (f)does not involve the use of an essential service of greater capacity than normally required in the zone;
-“home occupation” means an occupation carried out in a dwelling or on land around a dwelling by an occupier of the dwelling which —
+home occupation means an occupation carried out in a dwelling or on land around a dwelling by an occupier of the dwelling which —
 (a)does not employ any person not a member of the occupier’s household;
 (b)will not cause injury to or adversely affect the amenity of the neighbourhood;
 (c)does not occupy an area greater than 20 square metres;
@@ -610,82 +610,82 @@ In the Scheme —
 (e)does not involve the retail sale, display or hire of goods of any nature;
 (f)in relation to vehicles and parking, does not result in the requirement for a greater number of parking facilities than normally required for a single dwelling or an increase in traffic volume in the neighbourhood, does not involve the presence, use or calling of a vehicle more than 2 tonnes tare weight, and does not include provision for the fuelling, repair or maintenance of motor vehicles; and
 (g)does not involve the use of an essential service of greater capacity than normally required in the zone;
-“home office” means a home occupation limited to a business carried out solely within a dwelling by a resident of the dwelling but which does not —
+home office means a home occupation limited to a business carried out solely within a dwelling by a resident of the dwelling but which does not —
 (a)entail clients or customers travelling to and from the dwelling;
 (b)involve any advertising signs on the premises; or
 (c)require any external change to the appearance of the dwelling;
-“home store” means any shop with a net lettable area not exceeding 100 square metres attached to a dwelling and which is operated by a person resident in the dwelling;
-“hospital” means premises in which persons are admitted and lodged for medical treatment or care and includes a maternity hospital;
-“hotel” means premises providing accommodation the subject of a hotel licence under the Liquor Licensing Act 1988, and may include a betting agency on those premises, but does not include a tavern or motel;
-“industry” means premises used for the manufacture, dismantling, processing, assembly, treating, testing, servicing, maintenance or repairing of goods, products, articles, materials or substances and includes premises on the same land used for —
+home store means any shop with a net lettable area not exceeding 100 square metres attached to a dwelling and which is operated by a person resident in the dwelling;
+hospital means premises in which persons are admitted and lodged for medical treatment or care and includes a maternity hospital;
+hotel means premises providing accommodation the subject of a hotel licence under the Liquor Licensing Act 1988, and may include a betting agency on those premises, but does not include a tavern or motel;
+industry means premises used for the manufacture, dismantling, processing, assembly, treating, testing, servicing, maintenance or repairing of goods, products, articles, materials or substances and includes premises on the same land used for —
 (a)the storage of goods;
 (b)the work of administration or accounting;
 (c)the selling of goods by wholesale or retail; or
 (d)the provision of amenities for employees,
 incidental to any of those industrial operations;
-“industry - cottage” means a trade or light industry producing arts and crafts goods which does not fall within the definition of a home occupation and which —
+industry - cottage means a trade or light industry producing arts and crafts goods which does not fall within the definition of a home occupation and which —
 (a)does not cause injury to or adversely affect the amenity of the neighbourhood;
 (b)where operated in a residential zone, does not employ any person other than a member of the occupier’s household;
 (c)is conducted in an out-building which is compatible with the principal uses to which land in the zone in which it is located may be put;
 (d)does not occupy an area in excess of 50 square metres; and
 (e)does not display a sign exceeding 0.2 square metres in area;
-“industry - extractive” means an industry which involves the extraction, quarrying or removal of sand, gravel, clay, hard rock, stone or similar material from the land and includes the treatment and storage of those materials, or the manufacture of products from those materials on, or adjacent to, the land from which the materials are extracted, but does not include industry - mining;
-“industry - general” means an industry other than a cottage, extractive, light, mining, rural or service industry;
-“industry - light” means an industry —
+industry - extractive means an industry which involves the extraction, quarrying or removal of sand, gravel, clay, hard rock, stone or similar material from the land and includes the treatment and storage of those materials, or the manufacture of products from those materials on, or adjacent to, the land from which the materials are extracted, but does not include industry - mining;
+industry - general means an industry other than a cottage, extractive, light, mining, rural or service industry;
+industry - light means an industry —
 (a)in which the processes carried on, the machinery used, and the goods and commodities carried to and from the premises do not cause any injury to or adversely affect the amenity of the locality;
 (b)the establishment or conduct of which does not, or will not, impose an undue load on any existing or proposed service for the supply or provision of essential services;
-“industry - mining” means land used commercially to extract minerals from the land;
-“industry - rural” means —
+industry - mining means land used commercially to extract minerals from the land;
+industry - rural means —
 (a)an industry handling, treating, processing or packing rural products; or
 (b)a workshop servicing plant or equipment used for rural purposes;
-“industry - service” means —
+industry - service means —
 (a)an industry - light carried out from premises which may have a retail shop front and from which goods manufactured on the premises may be sold; or
 (b)premises having a retail shop front and used as a depot for receiving goods to be serviced;
-“lunch bar” means premises or part of premises used for the sale of takeaway food (in a form ready to be consumed without further preparation) within industrial or commercial areas;
-“marina” means premises at which berths or pens, and fuelling, servicing, repairing, storage (including storage on land) and other facilities for boats are provided, with or without the sale of boating gear and equipment, and includes all jetties, piers, embankments, quays and moorings and all offices and storerooms used in connection with the marina;
-“marine filling station” means premises used for the storage and supply of liquid fuels and lubricants for marine craft;
-“market” means premises used for the display and sale of goods from stalls by independent vendors;
-“medical centre” means premises, other than a hospital, used by one or more health consultant(s) for the investigation or treatment of human injuries or ailments and for general outpatient care (including preventative care, diagnosis, medical and surgical treatment, and counselling);
-“motel” means premises used to accommodate patrons in a manner similar to a hotel but in which specific provision is made for the accommodation of patrons with motor vehicles and may comprise premises licensed under the Liquor Licensing Act 1988;
-“motor vehicle, boat or caravan sales” means premises used to sell or hire motor vehicles, boats or caravans;
-“motor vehicle repair” means premises used for or in connection with —
+lunch bar means premises or part of premises used for the sale of takeaway food (in a form ready to be consumed without further preparation) within industrial or commercial areas;
+marina means premises at which berths or pens, and fuelling, servicing, repairing, storage (including storage on land) and other facilities for boats are provided, with or without the sale of boating gear and equipment, and includes all jetties, piers, embankments, quays and moorings and all offices and storerooms used in connection with the marina;
+marine filling station means premises used for the storage and supply of liquid fuels and lubricants for marine craft;
+market means premises used for the display and sale of goods from stalls by independent vendors;
+medical centre means premises, other than a hospital, used by one or more health consultant(s) for the investigation or treatment of human injuries or ailments and for general outpatient care (including preventative care, diagnosis, medical and surgical treatment, and counselling);
+motel means premises used to accommodate patrons in a manner similar to a hotel but in which specific provision is made for the accommodation of patrons with motor vehicles and may comprise premises licensed under the Liquor Licensing Act 1988;
+motor vehicle, boat or caravan sales means premises used to sell or hire motor vehicles, boats or caravans;
+motor vehicle repair means premises used for or in connection with —
 (a)electrical and mechanical repairs, or overhauls, to vehicles; or
 (b)repairs to tyres,
 but does not include premises used for recapping or retreading of tyres, panel beating, spray painting or chassis reshaping;
-“motor vehicle wash” means premises where the primary use is the washing of motor vehicles;
-“night club” means premises —
+motor vehicle wash means premises where the primary use is the washing of motor vehicles;
+night club means premises —
 (a)used for entertainment with or without eating facilities; and
 (b)licensed under the Liquor Licensing Act 1988;
-“office” means premises used for administration, clerical, technical, professional or other like business activities;
-“park home park” has the same meaning as in the Caravan Parks and Camping Grounds Regulations 1997;
-“place of worship” means premises used for religious activities such as a church, chapel, mosque, synagogue or temple;
-“plantation” has the same meaning as in the Code of Practice for Timber Plantations in Western Australia (1997) published by the Department of Conservation and Land Management and the Australian Forest Growers;
-“reception centre” means premises used for functions on formal or ceremonial occasions but not for unhosted use for general entertainment purposes;
-“recreation - private” means premises used for indoor or outdoor leisure, recreation or sport which are not usually open to the public without charge;
-“residential building” has the same meaning as in the Residential Planning Codes;
-“restaurant” means premises where the predominant use is the sale and consumption of food and drinks on the premises and where seating is provided for patrons, and includes a restaurant licensed under the Liquor Licensing Act 1988;
-“restricted premises” means premises used for the sale by retail or wholesale, or the offer for hire, loan or exchange, or the exhibition, display or delivery of —
+office means premises used for administration, clerical, technical, professional or other like business activities;
+park home park has the same meaning as in the Caravan Parks and Camping Grounds Regulations 1997;
+place of worship means premises used for religious activities such as a church, chapel, mosque, synagogue or temple;
+plantation has the same meaning as in the Code of Practice for Timber Plantations in Western Australia (1997) published by the Department of Conservation and Land Management and the Australian Forest Growers;
+reception centre means premises used for functions on formal or ceremonial occasions but not for unhosted use for general entertainment purposes;
+recreation - private means premises used for indoor or outdoor leisure, recreation or sport which are not usually open to the public without charge;
+residential building has the same meaning as in the Residential Planning Codes;
+restaurant means premises where the predominant use is the sale and consumption of food and drinks on the premises and where seating is provided for patrons, and includes a restaurant licensed under the Liquor Licensing Act 1988;
+restricted premises means premises used for the sale by retail or wholesale, or the offer for hire, loan or exchange, or the exhibition, display or delivery of —
 (a)publications that are classified as restricted under the Censorship Act 1996;
 (b)materials, compounds, preparations or articles which are used or intended to be used primarily in or in connection with any form of sexual behaviour or activity;
-“rural pursuit” means any premises used for —
+rural pursuit means any premises used for —
 (a)the rearing or agistment of animals;
 (b)the stabling, agistment or training of horses;
 (c)the growing of trees, plants, shrubs or flowers for replanting in domestic, commercial or industrial gardens; or
 (d)the sale of produce grown solely on the lot,
 but does not include agriculture - extensive or agriculture - intensive;
-“service station” means premises used for —
+service station means premises used for —
 (a)the retail sale of petroleum products, motor vehicle accessories and goods of an incidental/convenience retail nature; and
 (b)the carrying out of greasing, tyre repairs and minor mechanical repairs to motor vehicles,
 but does not include premises used for a transport depot, panel beating, spray painting, major repairs or wrecking;
-“shop” means premises used to sell goods by retail, hire goods, or provide services of a personal nature (including a hairdresser or beauty therapist) but does not include a showroom or fast food outlet;
-“showroom” means premises used to display, sell by wholesale or retail, or hire, automotive parts and accessories, camping equipment, electrical light fittings, equestrian supplies, floor coverings, furnishings, furniture, household appliances, party supplies, swimming pools or goods of a bulky nature;
-“storage” means premises used for the storage of goods, equipment, plant or materials;
-“tavern” means premises licensed as a tavern under the Liquor Licensing Act 1988 and used to sell liquor for consumption on the premises;
-“telecommunications infrastructure” means land used to accommodate any part of the infrastructure of a telecommunications network and includes any line, equipment, apparatus, tower, antenna, tunnel, duct, hole, pit or other structure used, or for use in or in connection with, a telecommunications network;
-“trade display” means premises used for the display of trade goods and equipment for the purpose of advertisement;
-“veterinary centre” means premises used to diagnose animal diseases or disorders, to surgically or medically treat animals, or for the prevention of animal diseases or disorders;
-“warehouse” means premises used to store or display goods and may include sale by wholesale;
-“winery” means premises used for the production of viticultural produce and may include sale of the produce.
+shop means premises used to sell goods by retail, hire goods, or provide services of a personal nature (including a hairdresser or beauty therapist) but does not include a showroom or fast food outlet;
+showroom means premises used to display, sell by wholesale or retail, or hire, automotive parts and accessories, camping equipment, electrical light fittings, equestrian supplies, floor coverings, furnishings, furniture, household appliances, party supplies, swimming pools or goods of a bulky nature;
+storage means premises used for the storage of goods, equipment, plant or materials;
+tavern means premises licensed as a tavern under the Liquor Licensing Act 1988 and used to sell liquor for consumption on the premises;
+telecommunications infrastructure means land used to accommodate any part of the infrastructure of a telecommunications network and includes any line, equipment, apparatus, tower, antenna, tunnel, duct, hole, pit or other structure used, or for use in or in connection with, a telecommunications network;
+trade display means premises used for the display of trade goods and equipment for the purpose of advertisement;
+veterinary centre means premises used to diagnose animal diseases or disorders, to surgically or medically treat animals, or for the prevention of animal diseases or disorders;
+warehouse means premises used to store or display goods and may include sale by wholesale;
+winery means premises used for the production of viticultural produce and may include sale of the produce.
 Schedule 2 — Additional uses
 [cl. 4.5]
 No. | Description of land | Additional use | Conditions

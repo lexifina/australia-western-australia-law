@@ -29,3 +29,4 @@ The Town Planning Amendment Regulations (No. 2) 1996 r. 23 published in the Gaze
 If sections 7A1, 7A2, 7A3 and 7A4 of the Act do not apply to a Scheme or Amendment because of the operation of section 45(2) of the Planning Legislation Amendment Act 1996, the principal regulations apply to that Scheme or Amendment as if regulations 7 to 12 and 15 to 17 of these regulations were not in operation.
 ”.
 Disallowed on 3 May 2000, see Gazette 9 May 2000, p. 2242.
+Formerly made under s. 8 and 9 of the Town Planning and Development Act 1928, continued under s. 256, 258 and 259 of the Planning and Development Act 2005.
