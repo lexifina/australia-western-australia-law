@@ -1,5 +1,5 @@
 Western Australia
-TOWN PLANNING AND DEVELOPMENT ACT 1928
+Planning and Development Act 2005
 Power of Entry and Inspection Regulations
 The Hon. the Minister for Lands has been pleased to approve of the Regulations hereunder, in pursuance of the powers vested in him by “The Town Planning and Development Act 1928.”
 DAVID L. DAVIDSON,
