@@ -6,8 +6,7 @@ Motor Vehicle Repairers Act 2003 | 68 of 2003 | 9 Dec 2003 | s. 1-2: 9 Dec 2003
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Motor Vehicle Repairers Act 2003 s. 3-8, Pt. 2-11 and Sch. 1-3 | 68 of 2003 (as amended by No. 59 of 2004 s. 141 and No. 84 of 2004 s. 80) | 9 Dec 2003 | To be proclaimed (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Motor Vehicle Repairers Act 2003 s. 3-8, Pt. 2-11 and Sch. 1-3 | 68 of 2003 (as amended by No. 59 of 2004 s. 141; No. 84 of 2004 s. 80; No. 38 of 2005 s. 15) | 9 Dec 2003 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Motor Vehicle Repairers Act 2003 s. 3-8, Pt. 2-11 and Sch. 1-3 (as amended by No. 59 of 2004 s. 141 and No. 84 of 2004 s. 80) had not come into operation. They read as follows:
 “
 3.Interpretation
@@ -456,10 +455,11 @@ Penalty: $5 000.
 (a) specify each of the premises at or from which the applicant proposes to carry on business under the authority of the licence; and
 (b) except in the case of mobile premises, be accompanied by a planning certificate or, subject to section 60, with a conditional planning certificate, to the satisfaction of the Board in respect of the premises.
 (2) A planning certificate is a certificate —
-(a) issued by the authority responsible for town planning matters in the district in which the premises are situated; and
+(a) issued by the authority responsible for planning matters in the district in which the premises are situated; and
 (b) showing that the proposed use of the premises will be permitted under the written laws relating to planning that apply in respect of the premises because the proposed use will either —
 (i) comply with all relevant requirements of those laws; or
 (ii) be a non-conforming use under those laws.
+[Section 58 amended by No. 38 of 2005 s. 15.]
 59.Board to authorise premises
 (1) If, in relation to any premises, an application complies with —
 (a) section 58; or
@@ -469,13 +469,14 @@ the Board, if it grants the application, must authorise the holder of the busine
 60.Conditional planning certificate may be provided
 (1) An application, instead of complying with section 58(1)(b), may be accompanied by a conditional planning certificate.
 (2) A conditional planning certificate is a certificate —
-(a) issued by the authority responsible for town planning matters in the district in which the premises are situated; and
+(a) issued by the authority responsible for planning matters in the district in which the premises are situated; and
 (b) showing that the proposed use of the premises would, if any specified consent were given, either —
 (i) comply with all relevant requirements of written laws relating to planning that apply in respect of the premises; or
 (ii) be a non-conforming use under those laws.
 (3) If an application is accompanied by a conditional planning certificate, the Board, if it grants the application, may attach a condition to the business licence that —
 (a) the operation of the licence is suspended until the Board is satisfied that all necessary consents have been given; and
 (b) the grant lapses if the Board is not so satisfied before the expiry of a period specified by it.
+[Section 60 amended by No. 38 of 2005 s. 15.]
 61.Changes in authorised premises
 (1) The Board may on —
 (a) the application of the licensee;
@@ -1026,17 +1027,4 @@ whichever happens first.
 (b) to impose liabilities on any person (other than the State) in respect of anything done or omitted to be done before the day of publication.
 (5) In subclause (1) —
 “transitional matter” means a matter or thing necessary or convenient to provide for the change from the written law, as in force before the commencement of this Act, to the written law as in force after that commencement.
-”.
-On the date as at which this compilation was prepared, the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-15.Acts in Schedule 2 amended
-The Acts mentioned in Schedule 2 are amended as set out in that Schedule.
-”.
-Schedule 2, cl. 44 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[s. 15]
-44.Motor Vehicle Repairers Act 2003
-(1) Section 58(2)(a) is amended by deleting “town”.
-(2) Section 60(2)(a) is amended by deleting “town”.
 ”.
