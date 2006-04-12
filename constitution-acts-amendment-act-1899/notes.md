@@ -229,6 +229,7 @@ Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (see
 Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be proclaimed (see s. 2)
+Tobacco Products Control Act 2006 s. 126 | 5 of 2006 | 12 Apr 2006 | To be proclaimed (see s. 2)
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -423,7 +424,21 @@ Schedule 3 — Consequential amendments
 The Osteopaths Registration Board of Western Australia established under the Osteopaths Act 2005.
 ”.
 ”.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Tobacco Products Control Act 2006 s. 126, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+“
+126.Repeals, transitional provisions, consequential amendments to other Acts
+Schedule 2 has effect.
+”.
+Schedule 2 Division 3 cl. 11 reads as follows:
+“
+Schedule 2 — Repeals, transitional provisions, consequential amendments to other Acts
+[s. 126]
+Division 3 — Consequential amendments to other Acts
+11.Constitution Acts Amendment Act 1899 amended
+(1) The amendments in this clause are to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended in the item relating to the Western Australian Health Promotion Foundation by deleting “by the Tobacco Control Act 1990.” and inserting instead —
+“ under the Tobacco Products Control Act 2005. ”.
+”.
 On the date as at which this compilation was prepared, the Occupational Therapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
