@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Health (Smoking in Enclosed Public Places) Regulations 2004 r. 3-10 | 30 Nov 2004 p. 5507-14 | 31 Jul 2006 (see r. 2)
+Tobacco Products Control Act 2006 assented to 12 Apr 2006 s. 126 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared the Health (Smoking in Enclosed Public Places) Regulations 2004 r. 3-10 have not come into operation. They read as follows:
 “
 3.Interpretation
@@ -73,4 +74,17 @@ and
 (ii) if the offence is a continuing offence, to a daily penalty which is not more than $500.
 10.Health (Smoking in Enclosed Public Places) Regulations 2003 repealed
 The Health (Smoking in Enclosed Public Places) Regulations 2003 are repealed.
+”.
+On the date as at which this compilation was prepared, the Tobacco Products Control Act 2006 s. 126, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+“
+126.Repeals, transitional provisions, consequential amendments to other Acts
+Schedule 2 has effect.
+”.
+Schedule 2 Division 1 cl. 3(2) reads as follows:
+“
+Schedule 2 — Repeals, transitional provisions, consequential amendments to other Acts
+[s. 126]
+Division 1 — Repeals
+3.Regulations under the Health Act 1911 Part IXB repealed
+(2) The Health (Smoking in Enclosed Public Places) Regulations 2004 are repealed.
 ”.
