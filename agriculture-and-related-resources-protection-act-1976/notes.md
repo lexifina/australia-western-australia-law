@@ -25,6 +25,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 6 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
+Agriculture and Related Resources Protection Amendment Act 2006 | 6 of 2006 | 12 Apr 2006 | 12 Apr 2006 (see s. 2)
 NB.This Act was affected by the Agriculture Protection Board Act 1950 (No. 76 of 1950) and the Bush Fires Act 1954 (No. 53 of 1954).
 On the date on which this compilation was prepared, provisions referred to in the following table had not come into operation and are not included in this compilation. For the text of the provisions see the endnote referred to after the short title.
 Provisions that have not come into operation
