@@ -118,6 +118,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Tobacco Products Control Act 2006 s. 126 | 5 of 2006 | 12 Apr 2006 | To be proclaimed (see s. 2)
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988.
 The Health Act Amendment Act 1900 is repealed by section 4 of this Act.
 Section 53B was repealed by the Health Act Amendment Act 1933 (No. 2) s. 6.
@@ -576,3 +577,17 @@ s. 246ZG(3) | Delete “A Local Court to which an application is made under subs
 s. 246ZG(4) | Delete “Local Court concerned” and insert instead — “ Magistrates Court ”. In paragraph (a) delete “that Local Court” and insert instead — “ the court ”.
 ”.
 The amendments it seeks to make cannot be done due to amendments made by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 479, 489, and 490.
+On the date as at which this compilation was prepared, the Tobacco Products Control Act 2006 s. 126, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+“
+126.Repeals, transitional provisions, consequential amendments to other Acts
+Schedule 2 has effect.
+”.
+Schedule 2 Division 3 cl. 12 reads as follows:
+“
+Schedule 2 — Repeals, transitional provisions, consequential amendments to other Acts
+[s. 126]
+Division 3 — Consequential amendments to other Acts
+12.Health Act 1911 amended
+(1) The amendment in this clause is to the Health Act 1911.
+(2) Part IXB is repealed.
+”.
