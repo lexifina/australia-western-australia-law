@@ -20,5 +20,6 @@ Taxi Amendment Regulations (No. 4) 2004 | 10 Sep 2004 p. 3923-4 | 10 Sep 2004
 Taxi Amendment Regulations (No. 5) 2004 | 10 Dec 2004 p. 5910-11 | 10 Dec 2004
 Reprint 2: The Taxi Regulations 1995 as at 4 Mar 2005 (includes amendments listed above)
 Taxi Amendment Regulations 2006 | 24 Feb 2006 p. 882-3 | 24 Feb 2006
+Taxi Amendment Regulations (No. 3) 2006 | 13 Apr 2006 p. 1554 | 13 Apr 2006
 Under the Public Sector Management Act 1994 the names of departments may be changed. As at the date this reprint was prepared the former Department of Land Administration is called the Department of Land Information.
 Now cited as the Local Government (Miscellaneous Provisions) Act 1960.
