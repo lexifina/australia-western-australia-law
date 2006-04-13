@@ -4,3 +4,5 @@ Compilation table
 Citation | Gazettal | Commencement
 State Administrative Tribunal Rules 2004 | 30 Dec 2004 p. 6849-89 | 1 Jan 2005 (see r. 2)
 State Administrative Tribunal Rules (Amendment No.1) 2005 | 14 Oct 2005 p. 4568-70 | 17 Oct 2005 (see r. 2)
+State Administrative Tribunal Rules (Amendment No. 1) 2006 | 13 Apr 2006 p. 1556-8 | 13 Apr 2006
+The commencement date of 9 Apr 2006 that was specified in r. 2 was before the date of gazettal.
