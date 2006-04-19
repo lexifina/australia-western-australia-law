@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Swan Valley Planning Legislation Amendment Act 2006 s. 20(2) | 7 of 2006 | 19 Apr 2006 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) had not come into operation. They read as follows:
 “
 149.Conditions on rural land (tied lots)
@@ -210,4 +211,21 @@ The repeal of section 37A(4a) of the MRTPS Act does not affect the validity of a
 Part 4 — Validation provision
 31.Validation of certain endorsed approvals
 Any approval of the Commission endorsed on a diagram or plan of survey of a stage of a subdivision under the Town Planning and Development Act 1928 before the coming into operation of this section is taken to be, and always to have been, as valid and effective as it would have been if section 145 of the Planning and Development Act 2005 had been in operation at the time of the endorsement and the approval had been endorsed under that section.
+”.
+On the date as at which this compilation was prepared, the Swan Valley Planning Legislation Amendment Act 2006 s. 20(2), which gives effect to Sch. 1 Div. 2, had not come into operation. It reads as follows:
+“
+20.Consequential amendments
+(2) Schedule 1 Division 2 has effect.
+”.
+Schedule 1 Div. 2 reads as follows:
+“
+Schedule 1 — Consequential amendments
+[s. 20]
+Division 2 — Other consequential amendments
+2.Planning and Development Act 2005 amended
+(1) The amendments in this item are to the Planning and Development Act 2005.
+(2) Section 134(7) is repealed and the following subsection is inserted instead —
+“
+(7) Subject to any approval under subsection (6), the Commission is to determine the application after having due regard to the advice of the Committee, but may determine that application otherwise than in accordance with that advice.
+”.
 ”.
