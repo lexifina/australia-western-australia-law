@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Strata Titles General Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 21 April 2006 of the Strata Titles General Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Strata Titles General Regulations 1996 | 14 Mar 1996 p. 917-78 | 14 Apr 1996 (see r. 2 and Gazette 15 Mar 1996 p. 981)
@@ -27,11 +27,9 @@ Strata Titles General (Amendment) Regulations 2005 | 13 May 2005 p. 2082-5 | 13 
 Strata Titles General Amendment Regulations (No. 2) 2005 | 24 Jun 2005 p. 2758-60 | 4 Jul 2005 (see r. 2)
 Strata Titles General Amendment Regulations 2006 | 24 Jan 2006 p. 431-8 | 24 Jan 2006
 Strata Titles General Amendment Regulations (No. 2) 2006 | 21 Mar 2006 p. 1083-4 | 21 Mar 2006
-Formerly referred to the Licensed Surveyors (Transfer of Land Act 1893) Regulations the citation of which was changed to the Licensed Surveyors (Transfer of Land Act 1893) Regulations 1961 by the Licensed Surveyors Amendment Regulations 1997 r. 30. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Reprint 4: The Strata Titles General Regulations 1996 as at 21 Apr 2006 (includes amendments listed above)
 Repealed by the Strata Titles Act 1985.
+Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
-Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Ministry of Planning is read and construed as a reference to the Department for Planning and Infrastructure.
-The Strata Titles General Amendment Regulations 2000 r. 2(2) (published in Gazette 14 April 2000 p. 1884-90) reads as follows:
-“
-(2) Despite subregulation (1) the Form 28 deleted by that subregulation is taken to continue to be prescribed for the purposes of section 69 of the Act until the day 3 months after these regulations commence.
-”.
+The Strata Titles Regulations 1985 were repealed by r. 47 of these regulations, which was omitted under the Reprints Act 1984 s. 7(4)(f).
+The Strata Titles General Amendment Regulations 2000 r. 2(2) is a transitional provision that is of no further effect.
