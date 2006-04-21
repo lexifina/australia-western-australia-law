@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 21 April 2006 of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Constitution Acts Amendment Act 1899 | 63 Vict. No. 19 | 18 May 1900 | 18 May 1900 (see s. 52 and Gazette 18 May 1900 p. 1686) Reserved for Royal Assent 16 Dec 1899
@@ -211,16 +211,17 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1324 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
  | Criminal Law Amendment (Simple Offences) Act 2004 Pt. 5 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
  | Architects Act 2004 s. 79 | 75 of 2004 | 8 Dec 2004 | 16 Nov 2005 (see s. 2 and Gazette 15 Nov 2005 p. 5597)
- | Reprint 13: The Constitution Acts Amendment Act 1899 as at 18 Mar 2005 (includes amendments listed above except those in the Marketing of Eggs Amendment Act 2004, the Finance Brokers Control Amendment Act 2004, the Courts Legislation Amendment and Repeal Act 2004, the Criminal Law Amendment (Simple Offences) Act 2004) and the Architects Act 2004)
+ | Reprint 13: The Constitution Acts Amendment Act 1899 as at 18 Mar 2005 (includes amendments listed above except those in the Marketing of Eggs Amendment Act 2004, the Children and Community Services Act 2004, the Finance Brokers Control Amendment Act 2004, the Courts Legislation Amendment and Repeal Act 2004, the Criminal Law Amendment (Simple Offences) Act 2004 and the Architects Act 2004)
  | Electoral Amendment and Repeal Act 2005 s. 7 | 1 of 2005 | 20 May 2005 | 20 May 2005 (see s. 2)
  | Constitution and Electoral Amendment Act 2005 s. 3 | 2 of 2005 | 23 May 2005 | 23 May 2005 (see s. 2)
- | Electricity Corporation Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
+ | Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
  | Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 4 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
  | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+ | Reprint 14: The Constitution Acts Amendment Act 1899 as at 21 Apr 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Conservation and Land Management Amendment Act 1991 s. 57 (Sch. 1 it. 6) | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
+Conservation and Land Management Amendment Act 1991 s. 57 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Optometrists Act 2005 s. 109 | 29 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
@@ -235,13 +236,13 @@ The Tobacco Control Act 1990 s. 35(2) reads as follows:
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
 ”.
 Now see Electoral Distribution Act 1947.
-Repealed by the Electoral Act 1904 which was repealed by the Electoral Act 1907.
+Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Repealed by the Liquor Licensing Act 1988.
 Relevant provisions repealed by the Health Amendment Act 1985.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Relevant provisions repealed by the Agricultural Products Amendment Act 1985.
-Repealed by the Herd Improvement Service Act 1984 which was repealed by the Dairy Industry and Herd Improvement Legislation Repeal Act 2000.
+Repealed by the Herd Improvement Service Act 1984, which was repealed by the Dairy Industry and Herd Improvement Legislation Repeal Act 2000.
 Repealed by the Honey Pool Repeal Act 1991.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
 Repealed by the Statutes (Repeals and Minor Amendments) Act 1997.
@@ -249,9 +250,9 @@ Repealed by the Podiatrists Registration Act 1984.
 Under the Environmental Protection Act 1986 Sch. 3 cl. 20, a reference to the Conservation and Environment Council shall be construed as a reference to the Environmental Protection Authority unless the context is such that it would be incorrect or inappropriate.
 Relevant provisions repealed by the Consumer Affairs Amendment Act 1981.
 Repealed by the Acts Amendment and Repeal (Statutory Bodies) Act 1985.
-Under the Environmental Protection Act 1986 Sch. 3 cl. 20, a reference to an Environmental Appeal Board shall be construed as a reference to an appeals committee.
+Under the Environmental Protection Act 1986 Sch. 3 cl. 20, a reference to an environmental appeal board shall be construed as a reference to an appeals committee.
 Repealed by the Environmental Protection Act 1986.
-Committee not in existence at the date of this compilation.
+Committee not in existence at the date of this reprint.
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
 Repealed by the Legislative Review and Advisory Committee Repeal Act 1987.
 The Mine Workers’ Relief Board was dissolved. See the Mine Workers’ Relief Act 1932 Sch. 2 para. 3.
@@ -259,14 +260,14 @@ Repealed by the Minerals and Energy Research Act 1987.
 Repealed by the Local Government (Qualifications of Municipal Officers) Regulations 1984 in Gazette 24 Aug 1984 p. 2602.
 Repealed by the Conservation and Land Management Act 1984.
 Now titled the Geographic Names Committee and responsible to the Minister for Lands.
-The Pastoral Appraisement Board was superseded by the Pastoral Board — see the Land Act 1933 s. 98. The Land Act 1933 was subsequently repealed by the Land Administration Act 1997 s. 94 of which establishes the Pastoral Lands Board of Western Australia.
+The Pastoral Appraisement Board was superseded by the Pastoral Board — see the Land Act 1933 s. 98. The Land Act 1933 was subsequently repealed by the Land Administration Act 1997, s. 94 of which establishes the Pastoral Lands Board of Western Australia.
 The Education Regulations 1960 were repealed by School Education Act 1999.
 The Mines Regulation Act Regulations 1976 r. 2.7 was repealed in Gazette 15 Mar 1991 p. 1167.
 Relevant provisions repealed by the Solar Energy Research Amendment Act 1987.
 Repealed by the Censorship Act 1996.
 Repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 Repealed by the Cemeteries Act 1986. The former body corporate continued under the name “Karrakatta Cemetery Board” — see Sch. 2 cl. 4 of that Act.
-This Council not in existence at the date of this compilation.
+This Council was not in existence at the date of this reprint.
 Relevant provisions repealed by the Agricultural Legislation Amendment and Repeal Act 1998 s. 21.
 Repealed by the Western Australian Arts Council Repeal Act 1986.
 Repealed by the Acts Amendment and Repeal (Post Secondary Education) Act 1989.
@@ -275,7 +276,7 @@ Repealed by the Wheat Marketing Act 1984, which was repealed by the Wheat Market
 This Act expired 31 Oct 1984.
 Relevant provisions repealed by the Acts Amendment (Conservation and Land Management) Act 1984.
 Repealed by the Youth, Sport and Recreation Repeal Act 1984.
-Marginal notes in the Constitution Acts Amendment Act 1899 referring to the legislation from which provisions were derived have been omitted from the compilation.
+Marginal notes in the Constitution Acts Amendment Act 1899 referring to the legislation from which provisions were derived have been omitted from the reprint.
 The Motor Vehicle Dealers Amendment Act 2003 s. 25 and 26 read as follows:
 “
 25.Transitional provision: membership of Board
@@ -290,7 +291,16 @@ The persons who were members of the Motor Vehicle Dealers Licensing Board immedi
 (3) On and after the commencement of this Act a reference to the “Motor Vehicle Dealers Licensing Board” in any instrument (including any subsidiary legislation) is to be construed, unless the context otherwise requires, as if the reference had been amended to be a reference to the “Motor Vehicle Industry Board”.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 1991 s. 57, which gives effect to the Schedule, had not come into operation. It reads as follows:
+The Criminal Law Amendment (Simple Offence) Act 2004 s. 81(4) and (5) read as follows:
+“
+(4) A person who is a member of the Legislative Assembly or the Legislative Council immediately before the commencement —
+(a) does not become disqualified, on the commencement, for membership of the Legislative Assembly or the Legislative Council for the purposes of section 38(b) or 40(b) of the Constitution Acts Amendment Act 1899; and
+(b) is not prevented from completing his or her current term as a member,
+by reason only of a conviction that occurred before the commencement.
+(5) In subsection (4) —
+“commencement” means the commencement of this section.
+”.
+On the date as at which this reprint was prepared, the Conservation and Land Management Amendment Act 1991 s. 57, which gives effect to the Schedule, had not come into operation. It reads as follows:
 “
 57.Consequential amendments to other Acts
 The Acts referred to in the column of the Schedule are amended in the manner set out in the second column.
@@ -299,7 +309,7 @@ Item 1 of the Schedule reads as follows:
 “
 1.Constitution Acts Amendment Act 1899 | In Schedule V, in Part 3, the following item is inserted in the appropriate alphabetical position — “The Nature Conservation Trust of Western Australia established under Part IXA of the Conservation and Land Management Act 1984.”.
 ”.
-On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3Consequential amendments
 Schedule 2 has effect.
@@ -313,20 +323,7 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
 ”.
-Footnote no longer applicable.
-Footnote no longer applicable.
-Footnote no longer applicable.
-Footnote no longer applicable.
-The Criminal Law Amendment (Simple Offence) Act 2004 s. 81(4) and (5) read as follows:
-“
-(4) A person who is a member of the Legislative Assembly or the Legislative Council immediately before the commencement —
-(a) does not become disqualified, on the commencement, for membership of the Legislative Assembly or the Legislative Council for the purposes of section 38(b) or 40(b) of the Constitution Acts Amendment Act 1899; and
-(b) is not prevented from completing his or her current term as a member,
-by reason only of a conviction that occurred before the commencement.
-(5) In subsection (4) —
-“commencement” means the commencement of this section.
-”.
-On the date as at which this compilation was prepared, the Psychologists Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Psychologists Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 108.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -343,8 +340,7 @@ Schedule 3 — Consequential amendments
 The Psychologists Registration Board of Western Australia established under the Psychologists Act 2005.
 ”.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Optometrists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Optometrists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -360,7 +356,7 @@ Schedule 3 — Consequential amendments
 The Optometrists Registration Board of Western Australia established under the Optometrists Act 2005.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Podiatrists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Podiatrists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -376,7 +372,7 @@ Schedule 3 — Consequential amendments
 The Podiatrists Registration Board of Western Australia established under the Podiatrists Act 2005.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Chiropractors Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Chiropractors Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -392,7 +388,7 @@ Schedule 3 — Consequential amendments
 The Chiropractors Registration Board of Western Australia established under the Chiropractors Act 2005.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Physiotherapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Physiotherapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -408,7 +404,7 @@ Schedule 3 — Consequential amendments
 The Physiotherapists Registration Board of Western Australia established under the Physiotherapists Act 2005.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Osteopaths Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Osteopaths Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 108.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -424,22 +420,7 @@ Schedule 3 — Consequential amendments
 The Osteopaths Registration Board of Western Australia established under the Osteopaths Act 2005.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Tobacco Products Control Act 2006 s. 126, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-126.Repeals, transitional provisions, consequential amendments to other Acts
-Schedule 2 has effect.
-”.
-Schedule 2 Division 3 cl. 11 reads as follows:
-“
-Schedule 2 — Repeals, transitional provisions, consequential amendments to other Acts
-[s. 126]
-Division 3 — Consequential amendments to other Acts
-11.Constitution Acts Amendment Act 1899 amended
-(1) The amendments in this clause are to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended in the item relating to the Western Australian Health Promotion Foundation by deleting “by the Tobacco Control Act 1990.” and inserting instead —
-“ under the Tobacco Products Control Act 2005. ”.
-”.
-On the date as at which this compilation was prepared, the Occupational Therapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Occupational Therapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -454,4 +435,19 @@ Schedule 3 — Consequential amendments
 “
 The Occupational Therapists Registration Board of Western Australia established under the Occupational Therapists Act 2005.
 ”.
+”.
+On the date as at which this reprint was prepared, the Tobacco Products Control Act 2006 s. 126, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+“
+126.Repeals, transitional provisions, consequential amendments to other Acts
+Schedule 2 has effect.
+”.
+Schedule 2 Div. cl. 11 reads as follows:
+“
+Schedule 2 — Repeals, transitional provisions, consequential amendments to other Acts
+[s. 126]
+Division 3 — Consequential amendments to other Acts
+11.Constitution Acts Amendment Act 1899 amended
+(1) The amendments in this clause are to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended in the item relating to the Western Australian Health Promotion Foundation by deleting “by the Tobacco Control Act 1990.” and inserting instead —
+“ under the Tobacco Products Control Act 2005. ”.
 ”.

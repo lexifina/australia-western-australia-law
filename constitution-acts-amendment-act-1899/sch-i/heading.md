@@ -1,6 +1,6 @@
 ## Schedule I
 [Section 2]
-Enactments repealed
+## Enactments repealed
 Session and Number | Extent of Repeal
 52 Vict., No. 23 ........................... | Sections 14, 18 to 21 inclusive, 23 to 30 inclusive, and 32, 33, and 40.
 54 Vict., No. 6 ............................. | The Whole.
