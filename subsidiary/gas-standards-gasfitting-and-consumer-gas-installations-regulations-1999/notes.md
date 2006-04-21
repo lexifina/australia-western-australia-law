@@ -11,6 +11,7 @@ Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2004 | 13 Jul 2004 p. 2822-3 | 13 Jul 2004
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2004 | 30 Dec 2004 p. 6988-9 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2005 | 19 Aug 2005 p. 3867 | 19 Aug 2005
+Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2006 | 21 Apr 2006 p. 1575-81 | 21 Apr 2006
 The repealed Gas Standards (Gasfitting and Consumers’ Gas Installations) Regulations 1999 r. 13, 14 and 15 read as follows:
 “
 13.Grades of permit or authorisation
