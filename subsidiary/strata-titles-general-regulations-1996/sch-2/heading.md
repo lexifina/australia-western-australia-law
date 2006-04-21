@@ -1,12 +1,12 @@
 ## Schedule 2
 [Regulation 46]
-Table of prescribed forms
-Section or regulation | Number and Description of Form
+## Table of prescribed forms
+Section or regulation | Number and description of form
 Section 5(1)(c), 5A(d), 5B(1)(b), 8A(h), 14(2), 21T(1)(d), 31E(1)(d) | Form 3 — Schedule of Unit Entitlement and Certificate of Licensed Valuer.
 Section 5B(1)(a), 8A(d), 8A(e), 22(1) | Form 5 — Certificate of Licensed Surveyor.
 Section 8A(e), 22(2) | Form 6 — Certificate of Licensed Surveyor.
 Section 5B(2), 8A(f), 23(1) | Form 7 — Certificate of Local Government.
-Section 5(1)(f), 5A(g), Regulation 5(1) | Form 8 — Annexure of Strata/Survey Strata Plan No. and Schedule of Encumbrances
+Section 5(1)(f), 5A(g), Regulation 5(1) | Form 8 — Annexure of Strata/Survey Strata Plan No. and Schedule of Encumbrances.
 Section 10(2)(a) | Form 9 — Certificate of Local Government Consenting to Conversion of Common Property.
 Section 10(2)(b) | Form 10 — Certificate of Strata Company Consenting to Conversion of Common Property.
 Section 15(2)(a) | Form 11 — Certificate of Consent by Strata Company to Amended Schedule of Unit Entitlement.
