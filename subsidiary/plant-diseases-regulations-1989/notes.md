@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 March 2006 of the Plant Diseases Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Plant Diseases Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Plant Diseases Regulations 1989 | 30 Jun 1989 p. 1980-93 | 1 Jul 1989 (see r. 2)
@@ -51,7 +51,7 @@ Plant Diseases Amendment Regulations (No. 3) 1997 | 3 Oct 1997 p. 5513-14 | 3 Oc
 Plant Diseases Amendment Regulations (No. 5) 1997 | 6 Jan 1998 p. 47 | 6 Jan 1998
 Plant Diseases Amendment Regulations (No. 2) 1997 | 6 Jan 1998 p. 48-173 | 6 Jan 1998
 Plant Diseases Amendment Regulations (No. 2) 1998 | 23 Jun 1998 p. 3314 | 23 Jun 1998
-Plant Diseases Amendment Regulations (No. 3) 1998 | 19 Aug 1998 p. 4473-664 | 19 Aug 1998
+Plant Diseases Amendment Regulations (No. 3) 1998 | 19 Aug 1998 p. 4475-664 | 19 Aug 1998
 Plant Diseases Amendment Regulations (No. 4) 1998 | 19 Aug 1998 p. 4665-6 | 19 Aug 1998
 Plant Diseases Amendment Regulations 1999 | 9 Mar 1999 p. 1145-6 | 9 Mar 1999
 Plant Diseases Amendment Regulations (No. 2) 1999 | 23 Mar 1999 p. 1259-62 | 23 Mar 1999
@@ -95,5 +95,6 @@ Plant Diseases Amendment Regulations (No. 3) 2005 | 31 May 2005 p. 2398-9 | 1 Ju
 Plant Diseases Amendment Regulations (No. 4) 2005 | 16 Dec 2005 p. 6074-8 | 16 Dec 2005
 Plant Diseases Amendment Regulations (No. 2) 2006 | 7 Feb 2006 p. 615-19 | 7 Feb 2006
 Reprint 4: The Plant Diseases Regulations 1989 as at 3 Mar 2006 (includes amendments listed above)
+Plant Diseases Amendment Regulations 2006 | 21 Apr 2006 p. 1571-4 | 21 Apr 2006
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the department formerly called Agriculture Western Australia is now called the Department of Agriculture.
 The amendment in the Plant Diseases Amendment Regulations (No. 2) 2001 r. 4(1)(b) is not included because of an error in the reference to the provision to be amended.

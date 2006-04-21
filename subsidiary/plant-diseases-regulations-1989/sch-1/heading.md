@@ -24,6 +24,7 @@ Aquatic plants....... | 21 | 21 | — | —
 Artichoke.............. | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 41, 52, 55
 Asparagus............. | 13, 17, 27, 29, 45, 55 | — | 16 | 55
 Asteraceae (Compositae) see Schedule 10, including chickory, endives, hawk’s beard, hawkweed, nipplewort, hawkbit, tobacco, petunia, figwort and speedwell | 13, 17, 27, 29, 41, 45, 52, 55, 58 | 29, 41, 52, 55, 58 | 16 | 41, 52, 55, 58
+Atalantia spp. | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
 Avocado............... | 13, 17, 27, 29, 41, 45, 46, 52, 55 | 29, 41, 46, 52, 55 | 16 | 4/4B/9C, 41, 46, 52, 55
 Babaco ................. | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9A/9C, 41, 52, 55
 Babiana (baboon flower, baboon root) .................. | 13, 17, 27, 29, 41, 45, 52, 53, 55 | 29, 41, 52, 53, 55 | 16 | —
@@ -58,7 +59,8 @@ Choko................... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 41, 52, 5
 Chrysanthemums (for planting) .... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | —
 Chrysanthemums (cut flowers) ..... | — | 41, 52, 55 | — | —
 Citron.................... | see Citrus
-Citrus (other than Mandarin)......... | 13, 17, 27, 29, 41, 45, 50A, 52, 55 | 29, 41, 50A, 52, 55 | 16 | 4D/7/9C, 41, 52, 55
+Citrus (other than Mandarin)......... | 13, 17, 27, 29, 41, 45, 50A, 51, 52, 55 | 29, 41, 50A, 51, 52, 55 | 16 | 4D/7/9C, 41, 51, 52, 55
+Clausena lansium | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 4/9K, 41, 51, 52
 Coconut................ | 13, 17, 27, 29, 39, 45, 55 | 39A, 55 | — | 55
 Coffee berry......... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9J, 41, 52, 55
 Corms .................. | 13, 17, 27, 45 | — | — | —
@@ -83,6 +85,8 @@ Eribobotrya spp. (Loquat) ............ | 1 | 1 | 16 | 1
 Eugena ................. | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/9F, 41, 52, 55
 European larch..... | 3, 13, 17, 27, 29, 45, 55 | 3, 29, 55 | 16 | 55
 Feijoa.................... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
+Feronia spp. | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
+Feroniella lucida | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
 Fig........................ | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
 Firethorn............... | see Pyracantha spp.
 Fortunella............. | see Citrus
@@ -100,6 +104,7 @@ Guava................... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 
 Hawthorn.............. | see Crataegus spp.
 Hay ...................... | 27, 33 | — | — | —
 Heliconia ............. | 13, 17, 27, 29, 41, 45, 52, 55 | 41, 52, 55 | 16 | —
+Hesperethusa crenulate | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
 Hibiscus................ | 13, 17, 27, 29, 41, 45, 47, 52, 55 | 29, 41, 47, 52, 55 | 16 | —
 Honeydew............ | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9G, 41, 52, 55
 Hugeria spp. ........ | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 29, 41, 52, 55, 57 | 16 | 57
@@ -111,9 +116,9 @@ Kumquat............... | see Cumquat
 Leek...................... | 13, 17, 27, 29, 35, 41, 45, 55 | — | 16 | 35, 41, 55
 Leucothoe spp. .... | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 29, 41, 52, 55, 57 | 16 | 41, 52, 55, 57
 Lemon ................. | see Citrus
-Lemon (Meyer) ... | see Citrus
 Lettuce ................. | 13, 17, 27, 29, 41, 45, 52, 55, 58 | — | 16 | 41, 52, 55, 58
 Lime .................... | see Citrus
+Limonia acidissma | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
 Loganberry........... | see Berries
 Longan ................. | 13, 17, 27, 29, 41, 45, 55 | 29, 41, 55 | 16 | 4/4A/9/9C, 41, 55
 Loquat.................. | see Eribobotrya spp.
@@ -123,7 +128,7 @@ Lychee.................. | 13, 17, 27, 29, 45, 55 | 29, 55 | 16 | 4/4A/7/9/9C, 5
 Lyonia spp. .......... | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 29, 41, 52, 55, 57 | 16 | 41, 52, 55, 57
 Maize.................... | 1 | 1 | 16, 19, 28 | —
 Malay apple.......... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9E, 41, 52, 55
-Mandarin.............. | 13, 17, 27, 29, 41, 45, 50A, 52, 55 | 29, 41, 50A, 52, 55 | 16 | 4/7/9C, 41, 52, 55
+Mandarin.............. | 13, 17, 27, 29, 41, 45, 50A, 51, 52, 55 | 29, 41, 50A, 51, 52, 55 | 16 | 4/7/9C, 41, 51, 52, 55
 Mango.................. | 13, 17, 27, 29, 41, 45, 52, 55, 56 | 29, 41, 52, 55, 56 | 12, 16 | 4/4B/7/9B/9E, 12, 41, 52, 55
 Mangostein........... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9A/9C, 41, 52, 55
 Medlar.................. | see Mespilus spp.
@@ -144,6 +149,7 @@ Orange.................. | see Citrus
 Oxycoccus spp. | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 29, 41, 52, 55, 57 | 16 | 41, 52, 55, 57
 Palms.................... | 13, 17, 27, 29, 39, 45, 55 | 29, 39A, 55 | 16 | —
 Papaya.................. | see Pawpaw
+Paramignya monophylla | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
 Parsnips................ | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
 Passionfruit........... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/4A/9H, 41, 52, 55
 Pawpaw................ | 13, 17, 27, 29, 40, 45, 52, 55 | 29, 40, 52, 55 | 16 | 4/4C/9A/9D, 40, 52, 55
@@ -173,7 +179,7 @@ Pyracantha spp. (Firethorn)......... | 1 | 1 | 16 | 1
 Pyrus spp. (Pear).. | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 1
 Quince.................. | see Cydonia spp.
 Radish................... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
-Rambutan............. | 13, 17, 27, 29, 41, 45, 55 | 29, 41, 55 | 16 | 4/4A/7/9/9C, 41, 55
+Rambutan............. | 13, 17, 27, 29, 45, 55 | 29, 55 | 16 | 4/4A/7/9/9C, 55
 Raspberry............. | see Berries
 Red raspberry....... | see Rubus ideus
 Rhododendron spp. (Azalea) | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 29, 41, 52, 55, 57 | 16 | 41, 52, 55, 57
@@ -207,7 +213,8 @@ Swedes.................. | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
 Sweetcorn............. | see Maize
 Sweet potatoes...... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
 Sweetsop (Sugar apple) ................ | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
-Tahiti lime............ | 13, 17, 27, 29, 41, 45, 50A, 52, 55 | 29, 41, 50A, 52, 55 | 16 | 4/7/9A/9E, 29, 41, 52, 55
+Swinglea spp. | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
+Tahiti lime............ | 13, 17, 27, 29, 41, 45, 50A, 51, 52, 55 | 29, 41, 50A, 51, 52, 55 | 16 | 4/7/9A/9E, 29, 41, 51, 52, 55
 Tamarillo.............. | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
 Tamaruis............... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9E, 41, 52, 55
 Tangelo................. | see Citrus
@@ -229,7 +236,7 @@ Watsonia............... | 13, 17, 27, 29, 41, 45, 52, 53, 55 | 29, 41, 52, 53, 5
 Wax jambu (Rose apple) ................ | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
 Yams.................... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
 Zucchini................ | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/7/9G, 41, 52, 55
-[Part A inserted in Gazette 7 Jun 1996 p. 2373-83; amended in Gazette 14 Jan 1997 p. 381-2 and 383; 4 Mar 1997 p. 1353; 6 Jan 1998 p. 50-2; 19 Aug 1998 p. 4475-6; 9 Mar 1999 p. 1145; 23 Mar 1999 p. 1260-2; 22 Jun 1999 p. 2669; 4 Feb 2000 p. 420; 29 Sep 2000 p. 5534-5; 6 Jan 2001 p. 113; 13 Feb 2001 p. 866; 19 Apr 2002 p. 2077; 11 Feb 2003 p. 409; 31 Oct 2003 p. 4554-5; 16 Jan 2004 p. 193; 21 Sep 2004 p. 4108-9; 17 May 2005 p. 2105-6 and 2131-2; 16 Dec 2005 p. 6074; 7 Feb 2006 p. 615.]
+[Part A inserted in Gazette 7 Jun 1996 p. 2373-83; amended in Gazette 14 Jan 1997 p. 381-2 and 383; 4 Mar 1997 p. 1353; 6 Jan 1998 p. 50-2; 19 Aug 1998 p. 4475-6; 9 Mar 1999 p. 1145; 23 Mar 1999 p. 1260-2; 22 Jun 1999 p. 2669; 4 Feb 2000 p. 420; 29 Sep 2000 p. 5534-5; 6 Jan 2001 p. 113; 13 Feb 2001 p. 866; 19 Apr 2002 p. 2077; 11 Feb 2003 p. 409; 31 Oct 2003 p. 4554-5; 16 Jan 2004 p. 193; 21 Sep 2004 p. 4108-9; 17 May 2005 p. 2105-6 and 2131-2; 16 Dec 2005 p. 6074; 7 Feb 2006 p. 615; 21 Apr 2006 p. 1571-2.]
 ## Part AA — Potential carriers — other than plants
 [Heading inserted in Gazette 18 Sep 1992 p. 4670.]
 Column 1 Potential Carrier | Column 2 Conditions for Entry
@@ -239,8 +246,8 @@ Animal skins/coats .............................................................
 Apple machinery or equipment (used) .................................................. | 50
 Cargo containers ................................................................................... | 27
 Containers ............................................................................................. | 27
-Fruit containers (used) .......................................................................... | 1
-Grape machinery/equipment (used) ...................................................... | 1
+Fruit, vegetable and plant containers (used) other than potato containers ……………………………………….…………………… | 59
+Grape machinery/equipment (used) ...................................................... | 60
 Landscaping material ............................................................................ | 27
 Live fish ................................................................................................ | 42, 43
 Machinery ............................................................................................. | 27
@@ -250,15 +257,14 @@ Potato machinery or equipment (used) ...........................................
 Soil ........................................................................................................ | 2, 27
 Trucks …................................................................................................ | -
 Used vehicles transported by commercial carriers ............................... | -
-Vegetable containers (used) other than potato containers .................... | 1
-[Part AA inserted in Gazette 18 Sep 1992 p. 4670; amended in Gazette 6 Jan 1998 p. 47; 4 Jun 1999 p. 2268; 4 Feb 2000 p. 420-1; 31 Oct 2003 p. 4555; 16 Jan 2004 p. 193; 23 Jan 2004 p. 305; 17 May 2005 p. 2132.]
+[Part AA inserted in Gazette 18 Sep 1992 p. 4670; amended in Gazette 6 Jan 1998 p. 47; 4 Jun 1999 p. 2268; 4 Feb 2000 p. 420-1; 31 Oct 2003 p. 4555; 16 Jan 2004 p. 193; 23 Jan 2004 p. 305; 17 May 2005 p. 2132; 21 Apr 2006 p. 1572.]
 ## Part B — Conditions
 [Heading inserted in Gazette 20 Aug 1996 p. 4054.]
 1.(1)Unless specifically dealt with elsewhere, entry not allowed under any conditions
 Apple: fruit and plants — apple scab (Venturia inaequalis), codling moth (Cydia pomonella).
 Banana: plants other than tissue culture — bunchy top virus.
 Eribobotrya spp. (Loquat): fruit and plants — apple scab (Venturia inaequalis).
-Grape: fruit, seed, plants and used machinery/equipment — downy mildew (Plasmopara viticola), grape phylloxera (Daktulosphaira vitifolii).
+Grape: fruit, seed, plants — downy mildew (Plasmopara viticola), grape phylloxera (Daktulosphaira vitifolii).
 Lucerne: plants — bacterial wilt (Clavibacter (Corynebacterium) michiganense subsp. insidiosum).
 Lucerne: seed other than seed from South Australia — bacterial wilt (Clavibacter (Corynebacterium) michiganense subsp. insidiosum).
 Maize: plants — boil smut (Ustilago maydis).
@@ -270,10 +276,9 @@ Sorbus spp. (Mountain ash): fruit and plants — apple scab (Venturia inaequalis
 Sorghum: plants — sorghum midge (Contarinia sorghicola), ergot (Claviceps spp.).
 Soybean: plants — black leaf blight (Arkoola nigra), stem rot (Phytophthora megasperma f. sp. glycinea).
 Stonefruit: fruit other than apricot fruit (Prunus armeniaca) and cherry fruit (Prunus avium) from South Australia and Tasmania, general diseases.
-Vegetable and fruit containers (used): codling moth (Cydia pomonella), fruit flies (Tephritidae), bacterial wilt (Pseudomonas solanacearum), general diseases.
 (2) For the purposes of subclause (1) —
 “minituber” means potatoes which are grown under conditions approved by the Director General.
-[Item 1 amended in Gazette 26 Jan 1990 p. 649; 18 Sep 1992 p. 4670-1; 20 Aug 1996 p. 4054; 14 Jan 1997 p. 383; 4 Mar 1997 p. 1354; 4 Feb 2000 p. 421; 16 Jan 2004 p. 194; 16 Dec 2005 p. 6074; 7 Feb 2006 p. 616.]
+[Item 1 amended in Gazette 26 Jan 1990 p. 649; 18 Sep 1992 p. 4670-1; 20 Aug 1996 p. 4054; 14 Jan 1997 p. 383; 4 Mar 1997 p. 1354; 4 Feb 2000 p. 421; 16 Jan 2004 p. 194; 16 Dec 2005 p. 6074; 7 Feb 2006 p. 616; 21 Apr 2006 p. 1572.]
 2.Soil — general diseases
 Entry not allowed unless soil —
 (a) comprises mining and scientific samples for laboratory purposes at premises approved by the Director General; or
@@ -294,7 +299,10 @@ To be certified as grown in a State or Territory where Dothistroma needle blight
 or
 (b) to be certified as having been treated at a temperature within a range specified in the first column of the following Table for the number of days corresponding to that temperature range specified in the second column of that Table.
 Table
-0°C ± 0.5°C 1°C ± 0.5°C 1.5°C ± 0.5°C 2.5°C ± 0.5°C | 14 days 16 days 18 days 22 days
+0°C ± 0.5°C | 14 days
+1°C ± 0.5°C | 16 days
+2°C ± 0.5°C | 18 days
+3°C ± 0.5°C | 20 days
 (2) Subitem (1) does not apply to pumpkins which are the cultivars butternut, Jarrahdale or Ken’s special of the species Cucurbita moschata or the cultivars of the delica type of the species Cucurbita maxima.
 (3) From areas infested with B. papayae or B. philippinensis, strawberry, mango, capsicum and hermaphroditic varieties of pawpaw to be certified as —
 (a) having been fumigated with methyl bromide for 2 hours at one of the following rates —
@@ -305,9 +313,12 @@ Table
 or
 (b) having been treated at a temperature within a range specified in the first column of the following Table for the number of days corresponding to that temperature range specified in the second column of that Table.
 Table
-0°C ± 0.5°C 1°C ± 0.5°C 1.5°C ± 0.5°C 2.5°C ± 0.5°C | 14 days 16 days 18 days 22 days
+0°C ± 0.5°C | 14 days
+1°C ± 0.5°C | 16 days
+2°C ± 0.5°C | 18 days
+3°C ± 0.5°C | 20 days
 (4) In addition, if the treatment in subitem (3)(a) is used for hermaphroditic varieties of pawpaw from Queensland and the Northern Territory, to be certified that the fruit was not more than 25% coloured at the time it was harvested.
-[Item 4 inserted in Gazette 7 Jun 1996 p. 2383-4; amended in Gazette 14 Jan 1997 p. 382; 4 Mar 1997 p. 1354; 19 Aug 1998 p. 4476-7; 22 Jun 1999 p. 2670.]
+[Item 4 inserted in Gazette 7 Jun 1996 p. 2383-4; amended in Gazette 14 Jan 1997 p. 382; 4 Mar 1997 p. 1354; 19 Aug 1998 p. 4476-7; 22 Jun 1999 p. 2670; 21 Apr 2006 p. 1573.]
 4A.Caimito, carambola, longan, lychee, passionfruit, rambutan and star apple — fruit fly (B. tryoni, B. cucumis, B. neohumeralis, B. papayae and B. philippinensis)
 To be certified as —
 (a) having been immersed in a dip containing 400 mg/L of dimethoate or fenthion for at least 10 seconds; and
@@ -339,10 +350,18 @@ From all States and Territories —
 40 g/m3 at 15° — 20.9°C
 48 g/m3 at 10° — 14.9°C;
 or
-(b) to be certified as having been treated at a temperature within a range specified in the first column of the following Table for the number of days corresponding to that temperature range specified in the second column of that Table.
+(b) fruit other than lemon to be certified as having been treated at a temperature within a range specified in the first column of the following Table for the number of days corresponding to that temperature range specified in the second column of that Table;
 Table
-0°C ± 0.5°C 1°C ± 0.5°C 1.5°C ± 0.5°C 2.5°C ± 0.5°C | 14 days 16 days 18 days 22 days
-[Item 4D inserted in Gazette 19 Apr 2002 p. 2078.]
+0°C ± 0.5°C | 14 days
+1°C ± 0.5°C | 16 days
+2°C ± 0.5°C | 18 days
+3°C ± 0.5°C | 20 days
+(c) lemon to be certified as having been treated at a temperature within a range specified in the first column of the following Table for the number of days corresponding to that temperature range specified in the second column of that Table.
+Table
+1°C ± 0.5°C | 16 days
+2°C ± 0.5°C | 18 days
+3°C ± 0.5°C | 20 days
+[Item 4D inserted in Gazette 19 Apr 2002 p. 2078; amended in Gazette 21 Apr 2006 p. 1573.]
 5.Banana fruit — fruit fly (B. tryoni, B. musae, B. neohumeralis, B. papayae and B. philippinensis)
 To be certified as fumigated with ethylene di-bromide for 2 hours under conditions specified in the Code of Practice —
 (a) at a rate of 16 gm/m3 (7.4 ml/m3) at a temperature of not less than 13°C and not more than 20°C; or
@@ -400,7 +419,7 @@ The cultivars of the species Cucurbita moschata other than butternut and the cul
 (1) To be certified as having been heated in high humidity air or hot water so that the flesh temperature of the fruit was maintained at a minimum of 46.5°C for 20 minutes or 47°C for 15 minutes before the fruit was cooled in air or water.
 (2) In measuring flesh temperature for the purposes of subitem (1) the number and location of temperature probes are to be in accordance with the specifications issued by the manufacturer of the heat disinfestation unit.
 [Item 9B inserted in Gazette 7 Jun 1996 p. 2386; amended in Gazette 19 Aug 1998 p. 4478; 22 Jun 1999 p. 2670.]
-9C.Fruit (other than fruit referred to in items 9D to 9I) — fruit fly (B. tryoni, B. neohumeralis, B. papayae and B. philippinensis)
+9C.Fruit (other than fruit referred to in items 9D to 9K) — fruit fly (B. tryoni, B. neohumeralis, B. papayae and B. philippinensis)
 (1) From all States and Territories (other than Tasmania) to be certified as from an area free from fruit fly (B. tryoni) in accordance with the Code of Practice.
 (2) From Queensland, New South Wales and the Australian Capital Territory to be certified that the property of origin and the area within a 50 km radius of the property of origin have been free from fruit fly (B. neohumeralis) for the preceding 12 months.
 (3) From Queensland to be certified as grown on a property —
@@ -411,7 +430,7 @@ The cultivars of the species Cucurbita moschata other than butternut and the cul
 (a) situated not less than 50 km from a place where B. philippinensis has been discovered, if the distance between discovery points is more than 1.2 km or a trapping grid does not allow the limits of the outbreak to be defined;
 (b) not less than 15 km from a place where B. philippinensis has been discovered, if the distance between discovery points situated outside a quarantine area defined by the quarantine authority of the Northern Territory is not more than 1.2 km and a trapping grid allows the limits of the outbreak to be defined; or
 (c) if the property is within a quarantine area for B. philippinensis defined by the quarantine authority of the Northern Territory, the property is not less than 30 km from a place where B. philippinensis has been discovered and the distance between discovery points is not more than 1.2 km.
-[Item 9C inserted in Gazette 7 Jun 1996 p. 2386; amended in Gazette 19 Aug 1998 p. 4479; 22 Jun 1999 p. 2670.]
+[Item 9C inserted in Gazette 7 Jun 1996 p. 2386; amended in Gazette 19 Aug 1998 p. 4479; 22 Jun 1999 p. 2670; 21 Apr 2006 p. 1573.]
 9D.Banana and pawpaw — fruit fly (B. tryoni, B. neohumeralis, B. musae, B. papayae and B. philippinensis)
 (1) From all States and Territories (other than Tasmania) to be certified as from an area free from fruit fly (B. tryoni) in accordance with the Code of Practice.
 (2) From Queensland, New South Wales and the Australian Capital Territory to be certified that the property of origin and the area within a 50 km radius of the property of origin have been free from fruit fly (B. neohumeralis) for the preceding 12 months.
@@ -499,6 +518,10 @@ The cultivars of the species Cucurbita moschata other than butternut and the cul
 (c) if the property is within a quarantine area for B. philippinensis defined by the quarantine authority of the Northern Territory, the property is not less than 30 km from a place where B. philippinensis has been discovered and the distance between discovery points is not more than 1.2 km.
 (3) For pumpkins this condition applies to cultivars of the species Cucurbita moschata other than the cultivars butternut, Jarrahdale and Ken’s special and cultivars of the species Cucurbita maxima other than the cultivars of the delica type.
 [Item 9J inserted in Gazette 19 Aug 1998 p. 4485-6.]
+9K.Clausena lansium — fruit fly (B. tryoni and B. neohumeralis)
+(1) From all States and Territories (other than Tasmania) to be certified as from an area free from fruit fly (B. tryoni) in accordance with the Code of Practice.
+(2) From Queensland, New South Wales and the Australian Capital Territory to be certified that the property of origin and the area within a 50 km radius of the property of origin have been free from fruit fly (B. neohumeralis) for the preceding 12 months.
+[Item 9K inserted in Gazette 21 Apr 2006 p. 1573.]
 10.Walnut fruit — codling moth (Cydia pomonella) and European red mite (Panonychus ulmi)
 To be certified as fumigated with methyl bromide at 32 g/m3 at 20°C for 24 hours.
 11.Annona spp. and Annona sp. hybrids — fruit fly (B. tryoni, B. neohumeralis, B. papayae and B. philippinensis)
@@ -560,7 +583,7 @@ Sugar cane plants or parts of plants are prohibited from entering Western Austra
 16.Seed
 All seed imported into Western Australia must not contain seeds of any plant not listed in Schedule 5.
 [Item 16 amended in Gazette 6 Jan 1998 p. 52.]
-17.Plants — grape phylloxera (Daklutosphaira vitifolii)
+17.Plants — grape phylloxera (Daktulosphaira vitifolii)
 (1) From South Australia, Tasmania and the Northern Territory — must be identified as grown in that State or Territory.
 (2) From all other States and Territories —
 (a) to be accompanied by a declaration made by the grower before a Justice of the Peace or before an officer of the Department of Agriculture in the State or Territory of origin that —
@@ -571,6 +594,7 @@ or
 (3) These conditions do not apply to —
 (a) aseptic cultures of plant material grown on agar in sealed flasks (i.e. tissue culture); or
 (b) epiphytic plants (eg. staghorns and elkhorns) provided they are observed to be grown free from soil.
+[Item 17 amended in Gazette 21 Apr 2006 p. 1574.]
 18.Almond, quince and stonefruit plants, cuttings and budwood — brown rot (Monilinia (Sclerotinia) fructicola and M. laxa)
 (1) To be certified as dipped or thoroughly sprayed in an aqueous solution of benomyl at a strength of not less than 0.1% active ingredient in a manner so as to immerse all portions other than the root.
 (2) To be free from dead growth and accompanied by a declaration made by the grower before a Justice of the Peace or before an officer of the Department of Agriculture in the State or Territory of origin that they have not borne any flowers.
@@ -981,7 +1005,16 @@ Entry into Western Australia is prohibited unless the machinery or equipment —
 50A.Citrus, fortunella and poncirus plants — orange stem pitting strain of the citrus tristezea virus
 Entry of plants, cuttings and budwood from other States and Territories is permitted if certified as being from a State or Territory where the orange stem pitting strain of the disease citrus tristeza virus has not been recorded.
 [Item 50A, formerly item 50, inserted in Gazette 28 Oct 1994 p. 5462; amended in Gazette 11 Nov 1994 p. 5689.]
-[51.Deleted in Gazette 4 Feb 2000 p. 421.]
+51.Plants — citrus canker (Xanthomonas axonopodis pv. citri)
+(1) In this item —
+“PQA” means the pest quarantine area declared under section 131F of the Plant Protection Regulation 2002 of Queensland.
+(2) Plants (other than seed) from Queensland grown inside the PQA are prohibited entry into the State.
+(3) Plants (other than fruit and seed) from Queensland packed inside the PQA are prohibited entry into the State.
+(4) Fruit (other than seed) from Queensland grown outside the PQA and packed inside the PQA to be certified as —
+(a) grown in an area free from citrus canker; and
+(b) packed in a packing house approved by the Department of Primary Industries, Queensland.
+(5) Plants (other than seed) from Queensland grown and packed outside the PQA to be certified as grown and packed in an area free from citrus canker.
+[Item 51 inserted in Gazette 21 Apr 2006 p. 1574.]
 52.Plants, fruit and vegetables — silver leaf white fly (Bemisia argentifolii)
 (1) Subject to subitem (2), the entry of any plant other than —
 (aa) fruit, seeds, underground parts or dried or processed plant material; or
@@ -1109,3 +1142,12 @@ Entry of those primary host plants, secondary host plants or parts thereof must 
 (VII) the minimum core temperature during fumigation (°C).
 (4) Containers must be endorsed with the name and address or registration number of the property on which the consignment was grown.
 [Item 58 inserted in Gazette 17 May 2005 p. 2106-10.]
+59.Fruit, vegetable and plant containers (used) other than potato containers — general diseases
+(1) To be constructed in an approved manner using approved material.
+(2) To be certified as having been —
+(a) cleaned of all soil and plant material; and
+(b) treated in an approved manner.
+[Item 59 inserted in Gazette 21 Apr 2006 p. 1574.]
+60.Grape machinery or equipment (used) — grape phylloxera (Daktulosphaira vitifolii)
+Entry into the State is prohibited except with the prior approval of the Director General.
+[Item 60 inserted in Gazette 21 Apr 2006 p. 1574.]
