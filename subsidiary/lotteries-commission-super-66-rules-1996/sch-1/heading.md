@@ -13,5 +13,6 @@ Winning digits drawn | 6
 Forecast range | 0 to 9 for each digit
 Multiweek options | 2, 5 or 10 weeks
 Advance sales (maximum) | 10 weeks
-Games per entry | 1, 2, 4, 8 or 10
+Games per entry (may depend on the coupon used) | 1, 2, 4, 8 or 10
 Prize payout period | 12 months
+[Schedule 1 amended in Gazette 21 Apr 2006 p. 1610.]
