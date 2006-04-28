@@ -52,7 +52,7 @@ To: | ………………………………………………………………�
  | (name and address of respondent/s — attach schedule if necessary)
 TAKE NOTICE THAT | ……………………………………………………………
  | ……………………………………………………………
-(name and address of applicant/s — attach schedule if necessary)
+(name and address of applicant — attach schedule if necessary)
 has this day applied to the Commission for an order in respect of his or her claim that he or she has not been allowed by you a benefit, not being a benefit under an award or order, to which he or she is entitled under his or her contract of employment for the reasons set out in the attached statement.
 …………………………………………………………………………………………...
 …………………………………………………………………………………………...
@@ -60,6 +60,7 @@ has this day applied to the Commission for an order in respect of his or her cla
  | …………………………………………...
  | (signature of applicant/s)
 This notice must be completed by the applicant, signed and, where necessary, sealed, and a written statement of claim or other adequate description of the subject matter of the application must be attached. For endorsements, see the back of this Form. Where a fee is payable with an application it must be paid at the time of lodgment of the application, or within 7 days of the lodgment, or the application will not be processed. (Stamp of Commission)
+[Form 3 amended in Gazette 28 Apr 2006 p. 1652.]
 ## Form 4 — Statutory declaration of service
 [r. 28(1), 98(4) and (5), 99]
 Industrial Relations Act 1979
@@ -82,40 +83,16 @@ by | ...........................................................................
  | (state method of service)
 at | ........................................................................................................
 (city, town or suburb where service occurred, or in case of service by post, address of person or party served)
-And I make this solemn statutory declaration under the Evidence Act 1906 section 106.
+This declaration is made under the Oaths, Affidavits and Statutory Declarations Act 2005.
 Declared at | …………………………………... | in the State of Western Australia,
 (city, town or suburb where declaration made)
 this | …………………….. | day of | ……………………. | 20 ............
 before me | ………………………………….. | ………………………………….
-(signature of authorised person — see back page for persons authorised to witness this declaration) | (signature of deponent)
+(signature of authorised witness) | (signature of person making the declaration)
 …………………………………..
-(authority of person witnessing declaration)
+(authority of witness)
 (Stamp of Commission)
-Reverse of Form 4
-Persons able to witness this form
-1.The chief executive officer or deputy chief executive officer of a local government.
-2.A member of the council of a local government.
-3.An electoral registrar appointed under the Electoral Act 1907.
-4.A person appointed to take charge of a post office in the State.
-5.An officer of the State or Commonwealth public service.
-6.A person employed as a member of the teaching staff within the meaning of the School Education Act 1999 or as a teacher of a non government school within the meaning of that Act.
-7.A police officer.
-8.A person appointed to take charge of the head or any branch office in the State of an authorised deposit taking institution carrying on business under the Banking Act 1959 of the Commonwealth.
-9.A secretary of an organization of employees or employers registered under the Industrial Relations Act 1979 or of an organization registered under the Conciliation and Arbitration Act 1904 of the Commonwealth.
-10.A legal practitioner (as defined in the Legal Practice Act 2003).
-11.A medical practitioner registered under the Medical Act 1894.
-12.A pharmaceutical chemist within the meaning of the Pharmacy Act 1964.
-13.A member of the academic staff of an institution providing courses at post secondary education level.
-14.The holder of a licence under the Real Estate and Business Agents Act 1978 or the Settlement Agents Act 1981.
-15.A financial services licensee (within the meaning of the Corporations Act 2001 of the Commonwealth), who is, in effect, authorised to carry on the business of an insurance broker.
-16.A regulated principal (within the meaning of section 1430 of the Corporations Act 2001 of the Commonwealth), who is authorised to carry on the business of an insurance broker under Part 10.2 Division 1 Subdivision D of that Act.
-17.A person registered as an auditor or a liquidator under the Corporations Act 2001 of the Commonwealth.
-18.A person who is accredited as a chartered accountant or a certified practising accountant.
-19.A surveyor licensed under the Licensed Surveyors Act 1909.
-20.A patent attorney registered under the Patents Act 1990 of the Commonwealth.
-21.A Justice of the Peace (State or Federal).
-22.A commissioner for declarations (State or Federal).
-23.A member of either House of Parliament of the State or of the Commonwealth.
+[Form 4 amended in Gazette 28 Apr 2006 p. 1652-3.]
 ## Form 5 — Notice of answer and counter-proposal
 [r. 14, 48(5), 50(6) and 61(4)]
 Industrial Relations Act 1979
@@ -281,8 +258,8 @@ To: | ………………………………………………………………�
  | ………………………………………………………………………………….
  | (name and address of respondent/s)
 TAKE NOTICE THAT | ……………………………………………………………
-(Minister / Registrar / Deputy Registrar / Industrial Inspector / Interested party)
-applied to the Full Bench of the Western Australian Industrial Relations
+(Minister / Registrar / Deputy Registrar / Industrial Inspector / Interested person)
+has this day applied to the Full Bench of the Western Australian Industrial Relations
 Commission for the enforcement of ……………………………………………………
 (specify part of the Act, direction, order or declaration alleged to be breached)
 You are therefore summoned to appear before the Full Bench of the Western Australian Industrial Relations Commission at 111 St George’s Terrace, Perth
@@ -292,11 +269,12 @@ on ………………………… the …………… day of ………………�
 at …………………………. o’clock in the …………………………………..a.m./p.m.
 to answer the application for enforcement of that……………………………………….
  | (Act, direction order or declaration)
-under the Industrial Relations Act 1979 section 84.
+under the Industrial Relations Act 1979 section 84A.
 Dated at Perth this…………………… day of …………………………… 20 ………..
  | …………………………………………...
- | (signature of appellant/s)
-The appropriate fee must be paid upon lodgment of this appeal. NOTE: Where this application is initiated other than by the Registrar it shall be signed and where necessary, sealed by the applicant. (Stamp of Commission)
+ | (signature of applicant)
+The appropriate fee must be paid upon lodgment of this application. NOTE: Where this application is initiated other than by the Registrar it shall be signed and where necessary, sealed by the applicant. (Stamp of Commission)
+[Form 12 amended in Gazette 28 Apr 2006 p. 1653.]
 ## Form 13 — Notice of objection
 [r. 15(1), 66(3), 67(3), 68(4), 69(5) and 71(3)]
 Industrial Relations Act 1979
@@ -305,63 +283,64 @@ In the Western Australian Industrial Relations Commission
 IN THE MATTER OF an application for | ………………………………………………...
  | (state nature of application)
 Notice of objection
-I, | …………………………………………………………………………………….
+Name of objector | ……………………………………………………………
  | (full name in block letters)
-object to the whole (or part) of the above application.
-…………………………………………………………………………………………...
-…………………………………………………………………………………………...
+The abovenamed objector objects to the whole (or any part) of the abovementioned application.
+……………………………………………………………………………………………
+……………………………………………………………………………………………
 (if part only, specify part objected to)
-I make my objection on the following grounds:
-…………………………………………………………………………………………...
-…………………………………………………………………………………………...
+The grounds of objection are:
+……………………………………………………………………………………………
+……………………………………………………………………………………………
 (attach schedule if necessary)
-I am likely to be affected by the application in the following manner:
-…………………………………………………………………………………………...
-…………………………………………………………………………………………...
+The objector is or is likely to be affected by the application in the following manner, namely:
+……………………………………………………………………………………………
+……………………………………………………………………………………………
 (attach schedule if necessary)
-Dated at Perth this…………………… day of …………………………… 20 ………..
+Dated this …………… day of …………………………… 20………..
  | …………………………………………..
  | (signature of objector)
-The appropriate fee must be paid upon lodgment of this appeal. NOTE: Where this application is initiated other than by the Registrar it must be signed and where necessary, sealed by the applicant. (Stamp of Commission)
+The appropriate fee is to be paid upon lodgment of this notice. (Stamp of Commission)
+[Form 13 inserted in Gazette 28 Apr 2006 p. 1653-4.]
 ## Form 14 — Notice of withdrawal or discontinuance
 [r. 16(1) and (4) and 99]
 Industrial Relations Act 1979
 In the Western Australian Industrial Relations Commission
  | No. …………………….. | of 20………………
-IN THE MATTER OF an application for | ………………………………………………..
- | (state nature of application)
 Notice of withdrawal or discontinuance
-To: | ………………………………………………………………………………….
- | ………………………………………………………………………………….
+To: | …………………………………………………………………………
+ | …………………………………………………………………………
  | (name and address of respondent/s)
-TAKE NOTICE THAT | ……………………………………………………………
- | ……………………………………………………………
+TAKE NOTICE THAT | ………………………………………………………
+ | ………………………………………………………
  | (name and address of applicant/s)
-the applicant has withdrawn/discontinued this application.
- | …………………………………………...
- | …………………………………………...
- | (signature of appellant/s)
-NOTE: After being filed, a copy of the notice must be served on every respondent directly affected by it. Where a counterproposal has been filed in answer to an application the application may only be withdrawn or discontinued with the consent of the respondent making the counter-proposal. (Stamp of Commission)
+the applicant hereby discontinues or withdraws this application or the following part of the claim, namely —
+…………………………………………………………………………………
+(if part only, specify part objected to)
+Dated this …………… day of …………………………… 20………..
+ | ………………………………………
+ | ………………………………………
+ | (signature of applicant/s)
+NOTE: After being filed, a copy of the notice must be served on every respondent directly affected by it. Where a counterproposal has been filed in answer to an application the application may only be withdrawn or discontinued with the consent of the respondent making the counterproposal. (Stamp of Commission)
+[Form 14 inserted in Gazette 28 Apr 2006 p. 1654.]
 ## Form 15 — Notice of hearing
 [r. 32(2), 99 and 103(8)]
 Industrial Relations Act 1979
 In the Western Australian Industrial Relations Commission
- | No. ……………………… | of 20………………
+ | No. ……………………. | of 20………………
+In the matter of: | [state nature of matter]
 Between | ……………………………………………………..
  | (applicant)
 and | ……………………………………………………..
  | (respondent)
 Notice of hearing
-To: | …………………………………………………………………………………..
- | …………………………………………………………………………………..
+To: | ……………………………………………………………………………
+ | ……………………………………………………………………………
  | (name and address)
-TAKE NOTICE that the Full Bench / the Commission in Court Session / the Commission (Commissioner …………..) / the Public Service Arbitrator / the Railways Classification Board will sit at 111 St George’s Terrace, Perth
-in court number………………………………………….. on level…………………….
-on ………………………….the ……………. day of ………………………. 20 ……...
-at …………………………. o’clock in the …………………………………..a.m./p.m.
-to hear the above matter.
-Dated at Perth this……………………. day of …………………………… 20 ………..
-NOTE: After being filed, a copy of the notice must be served on every respondent directly affected by it. Where a counter-proposal has been filed in answer to an application the application may only be withdrawn with the consent of the respondent making the counter-proposal. (Stamp of Commission)
+TAKE NOTICE that the (insert constitution of Commission) will sit at 111 St. George’s Terrace, Perth in court number …..… on level ….… on ……..… at ……..… a.m./p.m. to hear the abovementioned matter.
+Dated this …………… day of ………………… 20 ………..
+Registrar (Stamp of Commission)
+[Form 15 inserted in Gazette 28 Apr 2006 p. 1655.]
 ## Form 16 — Notice to admit
 [r. 23(1) and 99]
 Industrial Relations Act 1979
@@ -382,8 +361,12 @@ TAKE NOTICE that you are required within 7 days of receiving this notice to admi
 …………………………………………………………………………………………...
 (attach schedule if necessary)
 and TAKE FURTHER NOTICE that should you fail to reply to this notice within 7 days or such other time as the Commission upon your application may direct you may be liable to pay the costs of establishing those facts before the Commission.
-Dated at Perth this……………………. day of …………………………… 20 ………..
+Dated this……………………. day of …………………………… 20 ………..
+…………………………………………...
+…………………………………………...
+(signature of party issuing this notice)
 NOTE:This form must be completed and signed by the party requesting the admission or denial of the facts referred to above. (Stamp of Commission)
+[Form 16 amended in Gazette 28 Apr 2006 p. 1655.]
 ## Form 17 — Summons to witness
 [r. 41(1) and 99]
 Industrial Relations Act 1979
@@ -418,19 +401,20 @@ Between | …………………………………………………
 and | …………………………………………………
  | (respondent)
 Warrant to appear as agent
-To: | …………………………………………………………………………………..
  | …………………………………………………………………………………..
- | (name and address)
-is authorised to appear and act, in the abovementioned proceedings, for
+ | …………………………………………………………………………………..
+ | (insert name and address of agent)
+is hereby authorised to appear and act, in the abovementioned proceedings, for
 …………………………………………………………………………………………...
 …………………………………………………………………………………………...
 (name of party for whom agent is appearing and acting)
 This warrant also authorises the agent to receive mail, including email or fax, from the Commission for and on behalf of the party for whom the agent is appearing and acting.
 (delete if not applicable)
-(affix seal where necessary — | ……………………………………….
-incorporate body) | (signature of appellant/s)
-Dated at Perth this……………………. day of …………………………… 20 ………..
+(affix seal where necessary) | ……………………………………….
+ | (signature of party for whom the agent is appearing)
+Dated this……………………. day of …………………………… 20 ………..
 This warrant must be served on all other parties to the application for which the warrant is filed. (Stamp of Commission)
+[Form 18 amended in Gazette 28 Apr 2006 p. 1655-6.]
 ## Form 19 — Application for registration of organisation/association
 [r. 66(1), 67(1) and 68(1)]
 Industrial Relations Act 1979
@@ -508,7 +492,8 @@ The number in favour of this action was | …………
  | ……………………………………………………..
  | (for and on behalf of the organisation/association)
 Dated at Perth this……………………. day of …………………………… 20 …………
-The appropriate fee must be paid upon lodgment of this application. (Stamp of Commission)
+(Stamp of Commission)
+[Form 22 amended in Gazette 28 Apr 2006 p. 1656.]
 ## Form 23 — Application to cancel registration of organisation/association
 [r. 76(1)]
 Industrial Relations Act 1979
@@ -526,11 +511,12 @@ cancelled on the following grounds —
 …………………………………………………………………………………………….
 …………………………………………………………………………………………….
 (grounds for cancellation)
-AND TAKE NOTICE that notice of any objection to the cancellation must be given in writing in accordance with Form 22 with 14 days of the service of this application.
+AND TAKE NOTICE that notice of any objection to the cancellation must be given in writing in accordance with Form 13 with 14 days of the service of this application.
 Dated at Perth this …………………… day of …………………………… 20 …………
  | ……………………………………………………..
  | (signature of Registrar)
 (Stamp of Commission)
+[Form 23 amended in Gazette 28 Apr 2006 p. 1656.]
 ## Form 24 — Certificate of registration as an organisation
 [r. 77(1)]
 Industrial Relations Act 1979
@@ -637,7 +623,7 @@ Dated at Perth this…………………… day of ………………………�
 Industrial Relations Act 1979
 In the Western Australian Industrial Relations Commission
  | No. …………………….. | of 20………………….
-Application by secretary for authority to be issued
+Application by secretary for revocation of an authority
 To the Registrar:
 An application is made under section 49J(6) of the Industrial Relations Act 1979 by —
 …………………………………………………………………………………………….
@@ -653,6 +639,7 @@ for the revocation of an authority issued under section 49J of that Act to —
  | ……………………………………………………..
  | (signature of organisation secretary)
 Dated at Perth this……………………. day of ……………………………. 20 …………
+[Form 30 amended in Gazette 28 Apr 2006 p. 1656.]
 ## Form 31 — Notice of appeal against a decision of the Commissioner of Police to take removal action
 [r. 90(a)(i)]
 Industrial Relations Act 1979
