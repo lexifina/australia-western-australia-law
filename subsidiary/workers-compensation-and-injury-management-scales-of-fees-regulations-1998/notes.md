@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 March 2006 of the Workers’ Compensation and Injury Management (Scales of Fees) Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Workers’ Compensation and Injury Management (Scales of Fees) Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Workers’ Compensation and Rehabilitation (Scales of Fees) Regulations 1998 | 13 Oct 1998 p. 5709-25 | 13 Oct 1998
@@ -24,5 +24,6 @@ Workers’ Compensation and Rehabilitation (Scales of Fees) Amendment Regulation
 Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations (No. 3) 2005 | 11 Nov 2005 p. 5567-70 | 14 Nov 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7131 and 17 Jun 2005 p. 2657)
 Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2006 | 10 Jan 2006 p. 41-71 | 10 Jan 2006
 Reprint 2: The Workers’ Compensation and Injury Management (Scales of Fees) Regulations 1998 as at 3 Mar 2006 (includes amendments listed above)
+Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations (No. 2) 2006 | 28 Apr 2006 p. 1660 | 28 Apr 2006
 The amendments in the Workers’ Compensation and Rehabilitation (Scales of Fees) Amendment Regulations (No. 3) 2004 published in Gazette 4 Jan 2005 p. 6-14 has no effect because of an error in the reference to the principal regulations to be amended.
 Now known as the Workers’ Compensation and Injury Management (Scales of Fees) Regulations 1998; citation changed (see note under r. 1).

@@ -919,7 +919,7 @@ MBS item number (1 November 2005) | Fee $
 57515 | 75.35
 57518 | 45.35
 57521 | 60.55
-57524 | 380.25
+57524 | 69.00
 57527 | 91.75
 57700 | 56.50
 57703 | 75.35
@@ -1120,4 +1120,4 @@ MBS item number (1 November 2005) | Fee $
 MAGNETIC RESONANCE IMAGING
 MBS item number (1 November 2003) | Fee $
 63000 — 63497 | 526.75
-[Part 3 inserted in Gazette 10 Jan 2006 p. 56-67.]
+[Part 3 inserted in Gazette 10 Jan 2006 p. 56-67; amended in Gazette 28 Apr 2006 p. 1660.]
