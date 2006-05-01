@@ -29,10 +29,7 @@ Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 2001
 Reprint of the Industrial Training (Apprenticeship Training) Regulations 1981 as at 2 Aug 2002 (includes amendments listed above)
 Industrial Training (Apprenticeship Training) Amendment Regulations 2005 | 12 Aug 2005 p. 3651-2 | 12 Aug 2005
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 2005 | 18 Nov 2005 p. 5657-9 | 1 Jan 2006 (see r. 2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Industrial Training (Aapprenticeship Training) Amendment Regultions 2006 r. 4-9 | 4 Apr 2006 p. 1401-5 | 1 May 2006 (see r. 2)
+Industrial Training (Apprenticeship Training) Amendment Regulations 2006 | 4 Apr 2006 p. 1401-5 | 1 May 2006 (see r. 2)
 The definition of “Council” was deleted from s. 4 of the Act by the State Employment and Skills Development Authority Act 1990 s. 45(a)(ii). The definition of “Authority” inserted by s. 45(a)(i) of that Act was deleted by the Vocational Education and Training Act 1996 Sch. 3 cl. 12.
 The Education Regulations 1960 r. 4 referred to the Director of technical education. Those regulations were repealed by the School Education Act 1999 s. 246(2).
 “Approved College” is defined in r. 4 of the Industrial Training (General Apprenticeship) Regulations 1981: see r. 3 of these regulations. The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996 s. 70(1).
@@ -103,60 +100,8 @@ The Industrial Training (Apprenticeship Training) Regulations 1981 as in force i
 (b) Breadmaking; or
 (c) Pastrycooking.
 ”.
-On the date as at which this compilation was prepared, the Industrial Training (Aapprenticeship Training) Amendment Regultions 2006 r. 4-9 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Industrial Training (Apprenticeship Training) Amendment Regultions 2006 r. 9 reads as follows:
 “
-4.Schedule 1 amended
-Schedule 1 is amended as follows:
-(a) by deleting the items for —
-(i) Bricklaying;
-(ii) Carpentry and Joinery;
-(iii) Plastering;
-(iv) Tilelaying;
-(v) Wall and Ceiling Fixing;
-(b) after the item for “Baking (Combined Breadmaking and Pastrycooking)” by inserting the following items in the appropriate alphabetical positions —
-“
-Bricklaying
-Carpentry and Joinery
-Plastering
-Tilelaying
-Wall and Ceiling Fixing
-”;
-(c) after the item for “Wall and Ceiling Fixing” (as inserted by paragraph (b)) by inserting the following items —
-“
-Bricklaying (Housing) | 2 Years
-Carpentry (Housing)
-Joinery (Housing)
-Plastering (Housing)
-Wall and Ceiling Fixing (Housing)
-Wall and Floor Tiling (Housing)
-”.
-5.Schedule 2 amended
-Schedule 2 is amended by deleting the items for —
-(a) Carpentry and Joinery;
-(b) Plastering.
-6.Schedule 3 amended
-Schedule 3 is amended in Column 1 by deleting “Bricklaying” and “Carpentry and Joinery”.
-7.Schedule 3A amended
-Schedule 3A is amended by inserting the following items in the appropriate alphabetical positions —
-“
-Bricklaying | 320 hours | 320 hours | 120 hours
-Carpentry and Joinery | 320 hours | 320 hours | 120 hours
-Plastering | 320 hours | 320 hours | 120 hours
-Bricklaying (Housing) | 320 hours | 270 hours
-Carpentry (Housing) | 320 hours | 256 hours
-Joinery (Housing) | 320 hours | 236 hours
-Plastering (Housing) | 320 hours | 272 hours
-Wall and Ceiling Fixing (Housing) | 320 hours | 240 hours
-Wall and Floor Tiling (Housing) | 320 hours | 322 hours
-Tilelaying | 320 hours | 320 hours | 120 hours
-Wall and Ceiling Fixing | 320 hours | 320 hours | 120 hours
-”.
-8.Schedule 4 amended
-Schedule 4 is amended by deleting the items for —
-(a) Bricklaying;
-(b) Carpentry and Joinery;
-(c) Plastering; and
-(d) Wall and Ceiling Fixing.
 9.Transitional
 (1) Subject to this regulation the Industrial Training (Apprenticeship Training) Regulations 1981 as in force immediately before 1 May 2006 continue to apply to and in relation to —
 (a) an apprentice who commenced service in a building trade under an apprenticeship agreement before 1 May 2006 (an “existing apprentice”); or
