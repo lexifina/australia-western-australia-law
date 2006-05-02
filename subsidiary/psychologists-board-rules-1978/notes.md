@@ -15,6 +15,7 @@ Psychologists Board Amendment Rules 2000 | 18 Aug 2000 p. 4768-9 | 18 Aug 2000
 Psychologists Board Amendment Rules (No. 2) 2000 | 7 Nov 2000 p. 6145-6 | 7 Nov 2000
 Reprint 2: The Psychologists Board Rules 1978 as at 12 Dec 2003 (includes amendments listed above)
 Psychologists Board Amendment Rules 2004 | 30 Dec 2004 p. 7005-6 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
+Psychologists Board Amendment Rules 2006 | 2 May 2006 p. 1697 | 2 May 2006
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
