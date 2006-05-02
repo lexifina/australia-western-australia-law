@@ -336,35 +336,7 @@ o Employer of Applicant since being struck off Period of employment / / to / / o
 I certify that — ·to the best of my knowledge, since being struck off the Applicant has not engaged in any illegal or unprofessional conduct; and ·in my opinion the Applicant is a fit and proper person to be re-admitted as a legal practitioner in Western Australia.
 Signature
 Date / /20
-## Form 17 — Application for practice certificate
-Application for practice certificate | Legal Practice Act 2003 s. 37, 38, 39 Legal Practice Board Rules 2004 r. 44 Form 17
-Applicant | Name
-TitleMr / Ms / Mrs / Miss / Dr / Other QC / SC Date of appointment ____/_____/________ Jurisdiction in which appointed
-Residential address No & Street SuburbStatePostcode
-TelephoneFax
-Mobile
-Email
-Practice (If not currently practising, give details of intended practice as at date on which practice certificate will take effect.) | Place of practice
-Street address No & Street SuburbStatePostcode Postal address TelephoneFax Email
-Capacity in which practising
-o Barrister
-o Sole practitioner Practice name
- | o Equity Partner o Salaried Partner Partnership name o Legal partnershipo Multi-disciplinary partnership
- | o Director or officer of incorporated legal practice Name of corporation ACN or ARBN
-o Employee Name of employer o Consultant Name of employer o Corporate solicitor Name of employer
-o Not practising
-Admission outside WA Give details for each jurisdiction in which admitted If more space is required, use page 4 | Jurisdiction Admitted as (e.g. barrister, solicitor, attorney) Date of admission_____/_____/________ Jurisdiction Admitted as Date of admission_____/_____/________ Jurisdiction Admitted as Date of admission_____/_____/________
-Trust account *Delete whichever is not applicable Give details for each trust account If more space is required, use page 4 | I*do / do not receive trust moneys. If yes, trust account used by applicant Name of account Name of bank Branch address BSB No. _________ Account No. Date account opened _____/_____/________ AuditorName Firm/company Address Email
-Professional indemnity insurance *Delete whichever is not applicable | I*hold my own / am covered by my employer’s professional indemnity insurance in accordance with the Legal Practice Act 2003. I*have / have not complied with Law Mutual’s requirements.
-Complaints *Delete whichever is not applicable | An order under the Legal Practice Act 2003 s. 177, 185 or 191 (or an equivalent section of the Legal Practitioners Act 1893) *has / has not been made in relation to me. If yes, made under section __________ on ____/_____/_____ Fineo fined $________________o no fine o paid on ____/____/20____o not paid Costso ordered to pay $_________o no order o paid on ____/____/20____o not paid Expenseso ordered to pay $_________o no order o paid on ____/____/20____o not paid
-Fitness, capacity and solvency *Delete whichever is not applicable If more space is required, use page 4 | I*am / am not an insolvent under administration within the meaning of the Corporations Act (this includes being bankrupt). I*am / am not a legal practitioner director of an incorporated legal practice that is insolvent within the meaning of the Corporations Act. If yes, give details
-I*am / am not in prison. If yes, give details
-Payment | Payment to accompany application Practice certificate fee$________ Guarantee Fund contribution$________ (Contribution No. ______________) Total$________ Method of payment o Chequeo Casho Electronic funds transfer o Credit Card Name on card Card No. __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ Expiry date ______/20 Card holder’s signature _____________________
-Confirmation | I confirm that — ·I am not struck off, suspended, disqualified or otherwise prohibited from engaging in legal practice in WA or in any other place; and ·the information given in or with this application is true and correct and that I have not omitted any relevant information.
-Signature
-Date / /20
-Additional information if required
-[Form 17 inserted in Gazette 12 Apr 2005 p. 1171-3; (Printers correction in Gazette 19 Apr 2005 p. 1292-4).]
+[Form 17 deleted in Gazette 2 May 2006 p. 1706.]
 ## Form 18 — Notice of establishment of office by interstate practitioner
 Notice of establishment of office by interstate practitioner | Legal Practice Act 2003 s. 91 Legal Practice Board Rules 2004 r. 46 Form 18
 Interstate Practitioner | Name
