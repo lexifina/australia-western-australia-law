@@ -9,3 +9,13 @@ Reprint 1: The Health (Food Standards) (Administration) Regulations 1986 as at 1
 Health (Food Standards) (Administration) Amendment Regulations 2004 | 25 Jun 2004 p. 2235-6 | 1 Jul 2004 (see r. 2)
 Health (Food Standards) (Administration) Amendment Regulations (No. 2) 2004 | 30 Dec 2004 p. 6936 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Health (Food Standards) (Administration) Amendment Regulations 2005 | 31 May 2005 p. 2407 | 1 Jul 2005 (see r. 2)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health (Food Standards) (Administration) Amendment Reguilations 2006 r. 4 | 2 May 2006 p. 1699 | 1 Jul 2006 (see r. 2)
+On the date as at which this compilation was prepared, the Health (Food Standards) (Administration) Amendment Reguilations 2006 r. 4 had not come into operation. It reads as follows:
+“
+4.Regulation 6 amended
+Regulation 6 is amended by deleting “$36.” and inserting instead —
+“ $38. ”.
+”.
