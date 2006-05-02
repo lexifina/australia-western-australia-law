@@ -31,9 +31,27 @@ Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment
 Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations 2005 | 7 Jan 2005 p. 64-70 | 1 Feb 2005 (see r. 2)
 Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations (No. 2) 2005 | 31 May 2005 p. 2411 | 1 Jul 2005 (see r. 2)
 Reprint 4: The Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974 as at 7 Oct 2005 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations 2006 r. 4 | 2 May 2006 p. 1702 | 1 Jul 2006 (see r. 2)
 Repealed by the Environmental Protection (Liquid Waste) Repeal Regulations 2003.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 references in any law to the Health Department shall be read as references to the Department of Health.
 Now known as the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974; citation changed (see note under r. 1).
 The Bacteriolytic Treatment of Sewage and Disposal of Effluent and Liquid Waste Amendment Regulations 1989 r. 32 is a transitional provision that is of no further effect.
 The Treatment of Sewage and Disposal of Effluent and Liquid Waste Amendment Regulations (No. 2) 1997 is a transitional and savings provision that is of no further effect.
 If, because of an error made in r. 2, the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations 2004 did not come into operation before 24 Aug 2004, the amendments were made on that day by the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations (No. 4) 2004, but otherwise the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations (No. 4) 2004 do not come into operation.
+On the date as at which this compilation was prepared, the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations 2006 r. 4 had not come into operation. It reads as follows:
+“
+4.Schedule 1 replaced
+Schedule 1 is repealed and the following Schedule is inserted instead —
+“
+Schedule 1 — Fees
+[r. 4, 4A, 10]
+ItemDescription | Fee
+ | $
+1.Application for the approval of an apparatus by local government under regulation 4 ........…….. | 97.00
+2.Application for the approval of an apparatus by the Executive Director, Public Health under regulation 4A — (a)with a local government report .........…. (b)without a local government report (regulation 4A(4)) .............................…. | 35.00 110.00
+3.Fee for the grant of a permit to use an apparatus under regulation 10(2) ...................……………. | 97.00
+”.
+”.
