@@ -20,3 +20,4 @@ Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 
 Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2005 | 24 Jun 2005 p. 2772-3 | 24 Jun 2005
 Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 3) 2005 | 14 Oct 2005 p. 4557-8 | 14 Oct 2005
 Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2005 | 14 Oct 2005 p. 4560-1 | 1 Jan 2006 (see r. 2)
+Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2006 | 2 May 2006 p. 1706-7 | 2 May 2006
