@@ -1,44 +1,44 @@
 Notes
-This is a compilation of the Poisons Regulations 1965 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 May 2006 of the Poisons Regulations 1965 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Poisons Act Regulations 1965 | 29 Jun 1965 p. 1883-914 | 1 Jul 1965
- | 10 Feb 1966 p. 410 | 10 Feb 1966
- | 16 Nov 1966 p. 2935 | 16 Nov 1966
- | 14 Jun 1967 p. 1582-3 | 14 Jun 1967
- | 25 Oct 1967 p. 2962 | 25 Oct 1967
- | 4 Jun 1968 p. 1694-5 | 4 Jun 1968
- | 28 Nov 1968 p. 3457-8 | 28 Nov 1968
- | 22 Sep 1969 p. 2874-6 | 22 Sep 1969
- | 22 Sep 1969 p. 2877 | 22 Sep 1969
- | 9 Feb 1970 p. 370 | 9 Feb 1970
- | 12 Aug 1970 p. 2542-3 | 12 Aug 1970
- | 11 Dec 1970 p. 3752 | 11 Dec 1970
- | 12 Feb 1971 p. 425 | 12 Feb 1971
- | 19 Feb 1971 p. 518-21 | 19 Feb 1971
- | 26 May 1971 p. 1771-3 | 26 May 1971
- | 7 Sep 1971 p. 3277-9 | 7 Sep 1971
- | 23 Dec 1971 p. 5318 | 23 Dec 1971
-Reprint of the Poisons Act Regulations 1965 authorised 12 Jul 1972 published in Gazette 25 Jul 1972 p. 2755-801 (includes amendments listed above except those in Gazette 23 Dec 1971)
- | 22 Feb 1974 p. 553 | 22 Feb 1974
- | 3 May 1974 p. 1434-5 | 3 May 1974
- | 15 Apr 1976 p. 1183 | 15 Apr 1976
- | 26 Aug 1977 p. 2966-73 | 26 Aug 1977
- | 4 Nov 1977 p. 4087 | 4 Nov 1977
- | 20 Oct 1978 p. 3760 | 20 Oct 1978
- | 1 Jun 1979 p. 1437 | 1 Jul 1979
- | 5 Oct 1979 p. 3085-6 | 5 Oct 1979
- | 7 Dec 1979 p. 3799-805 | 7 Dec 1979
- | 29 Aug 1980 p. 3027-31 | 1 Oct 1980 (see Gazette 29 Aug 1980 p. 3015)
+Untitled regulations | 10 Feb 1966 p. 410 | 10 Feb 1966
+Untitled regulations | 16 Nov 1966 p. 2935 | 16 Nov 1966
+Untitled regulations | 14 Jun 1967 p. 1582-3 | 14 Jun 1967
+Untitled regulations | 25 Oct 1967 p. 2962 | 25 Oct 1967
+Untitled regulations | 4 Jun 1968 p. 1694-5 | 4 Jun 1968
+Untitled regulations | 28 Nov 1968 p. 3457-8 | 28 Nov 1968
+Untitled regulations | 22 Sep 1969 p. 2874-6 | 22 Sep 1969
+Untitled regulations | 22 Sep 1969 p. 2877 | 22 Sep 1969
+Untitled regulations | 9 Feb 1970 p. 370 | 9 Feb 1970
+Untitled regulations | 12 Aug 1970 p. 2542-3 | 12 Aug 1970
+Untitled regulations | 11 Dec 1970 p. 3752 | 11 Dec 1970
+Untitled regulations | 12 Feb 1971 p. 425 | 12 Feb 1971
+Untitled regulations | 19 Feb 1971 p. 518-21 | 19 Feb 1971
+Untitled regulations | 26 May 1971 p. 1771-3 | 26 May 1971
+Untitled regulations | 7 Sep 1971 p. 3277-9 | 7 Sep 1971
+Untitled regulations | 23 Dec 1971 p. 5318 | 23 Dec 1971
+Reprint of the Poisons Act Regulations 1965 authorised 12 Jul 1972 in Gazette 25 Jul 1972 p. 2755-99 (includes amendments listed above except those in Gazette 23 Dec 1971)
+Untitled regulations | 22 Feb 1974 p. 553 | 22 Feb 1974
+Untitled regulations | 3 May 1974 p. 1434-5 | 3 May 1974
+Untitled regulations | 15 Apr 1976 p. 1183 | 15 Apr 1976
+Untitled regulations | 26 Aug 1977 p. 2966-73 | 26 Aug 1977
+Untitled regulations | 4 Nov 1977 p. 4087 | 4 Nov 1977
+Untitled regulations | 20 Oct 1978 p. 3760 | 20 Oct 1978
+Untitled regulations | 1 Jun 1979 p. 1437 | 1 Jul 1979
+Untitled regulations | 5 Oct 1979 p. 3085-6 | 5 Oct 1979
+Untitled regulations | 7 Dec 1979 p. 3799-805 | 7 Dec 1979
+Untitled regulations | 29 Aug 1980 p. 3027-31 | 1 Oct 1980 (see Gazette 29 Aug 1980 p. 3015)
 Poisons Act Amendment Regulations 1980 | 7 Nov 1980 p. 3746 | 7 Nov 1980
-Reprint of the Poisons Act Regulations 1965 authorised 7 Sep 1981 published in Gazette 15 Sep 1981 p. 3975-4029 (includes amendments listed above)
+Reprint of the Poisons Act Regulations 1965 authorised 7 Sep 1981 in Gazette 15 Sep 1981 p. 3975-4029 (includes amendments listed above)
 Poisons Act Amendment Regulations 1981 | 6 Nov 1981 p. 4527 | 6 Nov 1981
 Poisons Amendment Regulations 1982 | 16 Jul 1982 p. 2727-8 | 16 Jul 1982
 Poisons Amendment Regulations (No. 2) 1982 | 24 Dec 1982 p. 4904 | 24 Dec 1982
 Poisons Amendment Regulations 1983 | 28 Jan 1983 p. 341 | 28 Jan 1983
 Poisons Amendment Regulations (No. 2) 1983 | 23 Sep 1983 p. 3803-7 | 23 Sep 1983
 Poisons Amendment Regulations 1984 | 6 Apr 1984 p. 928 (erratum 13 Apr 1984 p. 1020) | 6 Apr 1984
-Health Legislation Amendment Regulations 1984 | 29 Jun 1984 p. 1780-4 | 1 Jul 1984 (see r. 2)
+Health Legislation Amendment Regulations 1984 r. 4 | 29 Jun 1984 p. 1780-4 | 1 Jul 1984 (see r. 2)
 Poisons Amendment Regulations (No. 2) 1984 | 12 Oct 1984 p. 3267 | 12 Oct 1984
 Poisons Amendment Regulations 1985 | 8 Feb 1985 p. 519-20 (erratum 19 Apr 1985 p. 1409) | 8 Feb 1985
 Poisons Amendment Regulations (No. 2) 1985 | 8 Feb 1985 p. 520-1 | 8 Feb 1985
@@ -53,7 +53,7 @@ Poisons Amendment Regulations (No. 2) 1986 | 28 Feb 1986 p. 616-17 | 28 Feb 1986
 Poisons Amendment Regulations (No. 3) 1986 | 28 Feb 1986 p. 618 | 28 Feb 1986
 Poisons Amendment Regulations (No. 4) 1986 | 23 May 1986 p. 1716-20 (erratum 20 Jun 1986 p. 2049-54) | 23 May 1986
 Poisons Amendment Regulations (No. 5) 1986 | 23 May 1986 p. 1721 (erratum 30 May 1986 p. 1769) | 23 May 1986
-Poisons Amendment Regulations (No. 7) 1986 | 11 Jul 1986 p. 2339-40 | 15 Jul 1986
+Poisons Amendment Regulations (No. 7) 1986 | 11 Jul 1986 p. 2339-40 | 15 Jul 1986 (see r. 2)
 Poisons Amendment Regulations (No. 6) 1986 | 1 Aug 1986 p. 2739 | 1 Aug 1986
 Poisons Amendment Regulations (No. 8) 1986 | 21 Nov 1986 p. 4269 | 21 Nov 1986
 Poisons Amendment Regulations (No. 9) 1986 | 21 Nov 1986 p. 4270 | 21 Nov 1986
@@ -62,12 +62,12 @@ Poisons Amendment Regulations (No. 12) 1986 | 19 Dec 1986 p. 4874-5 | 19 Dec 198
 Poisons Amendment Regulations 1987 | 23 Jan 1987 p. 187 | 23 Jan 1987
 Poisons Amendment Regulations (No. 2) 1987 | 20 Mar 1987 p. 954 | 20 Mar 1987
 Poisons Amendment Regulations (No. 3) 1987 | 15 May 1987 p. 2121 | 15 May 1987
-Reprint of the Poisons Regulations 1965 as at 22 Jul 1987 published in Gazette 5 Aug 1987 p. 2987-3078 (includes amendments listed above)
+Reprint of the Poisons Regulations 1965 as at 22 Jul 1987 in Gazette 5 Aug 1987 p. 2987-3078 (includes amendments listed above)
 Poisons Amendment Regulations (No. 4) 1987 | 7 Aug 1987 p. 3083-4 | 7 Aug 1987
 Poisons Amendment Regulations (No. 5) 1987 | 18 Sep 1987 p. 3596 | 18 Sep 1987
 Poisons Amendment Regulations (No. 6) 1987 | 2 Oct 1987 p. 3776 | 2 Nov 1987 (see r. 2)
-Poisons Amendment Regulations 1988 | 18 Mar 1988 p. 838-52 | 18 Mar 1988
 Poisons Amendment Regulations (No. 2) 1988 | 18 Mar 1988 p. 837 | 18 Mar 1988
+Poisons Amendment Regulations 1988 | 18 Mar 1988 p. 838-52 | 18 Mar 1988
 Poisons Amendment Regulations (No. 3) 1988 | 27 May 1988 p. 1769-71 | 27 May 1988
 Poisons Amendment Regulations (No. 4) 1988 | 11 Nov 1988 p. 4443-4 | 11 Nov 1988
 Poisons Amendment Regulations (No. 5) 1988 | 9 Dec 1988 p. 4825 | 9 Dec 1988
@@ -88,8 +88,8 @@ Poisons Amendment Regulations (No. 3) 1991 | 26 Jul 1991 p. 3854-5 | 26 Jul 1991
 Poisons Amendment Regulations (No. 5) 1991 | 13 Dec 1991 p. 6090-1 | 13 Dec 1991
 Poisons Amendment Regulations 1992 | 16 Apr 1992 p. 1634-5 | 16 Apr 1992
 Poisons Amendment Regulations (No. 2) 1992 | 26 Jun 1992 p. 2700 | 1 Aug 1992 (see r. 2)
-Poisons Amendment Regulations (No. 3) 1992 | 7 Aug 1992 p. 3868-9 | 7 Aug 1992
 Poisons Amendment Regulations (No. 4) 1992 | 7 Aug 1992 p. 3864-6 | 7 Aug 1992
+Poisons Amendment Regulations (No. 3) 1992 | 7 Aug 1992 p. 3868-9 | 7 Aug 1992
 Reprint of the Poisons Regulations 1965 as at 7 Jan 1993 (includes amendments listed above)
 Poisons Amendment Regulations 1993 | 28 May 1993 p. 2595-7 | 28 May 1993
 Poisons Amendment Regulations (No. 2) 1993 | 25 Jun 1993 p. 3078-85 | 25 Jun 1993
@@ -98,8 +98,8 @@ Poisons Amendment Regulations (No. 4) 1993 | 1 Oct 1993 p. 5360-1 | 1 Nov 1993 (
 Poisons Amendment Regulations (No. 5) 1993 | 12 Nov 1993 p. 6146-7 | 12 Nov 1993
 Poisons Amendment Regulations (No. 7) 1993 | 31 Dec 1993 p. 6883-5 | 31 Dec 1993
 Poisons Amendment Regulations 1994 | 26 May 1994 p. 2195-201 | 26 May 1994
-Poisons Amendment Regulations (No. 2) 1994 | 24 Jun 1994 p. 2864-70 | 24 Jun 1994
 Poisons Amendment Regulations (No. 3) 1994 | 24 Jun 1994 p. 2854-5 | 1 Aug 1994 (see r. 2)
+Poisons Amendment Regulations (No. 2) 1994 | 24 Jun 1994 p. 2864-70 | 24 Jun 1994
 Poisons Amendment Regulations (No. 5) 1994 | 2 Sep 1994 p. 4532-3 | 2 Sep 1994
 Poisons Amendment Regulations (No. 6) 1994 | 16 Sep 1994 p. 4748-9 | 16 Sep 1994
 Poisons Amendment Regulations (No. 7) 1994 | 23 Dec 1994 p. 7076 | 23 Dec 1994
@@ -135,13 +135,15 @@ Poisons Amendment Regulations (No. 3) 2004 | 30 Dec 2004 p. 6943 | 1 Jan 2005 (s
 Poisons Amendment Regulations (No. 2) 2004 | 4 Jan 2005 p. 3-4 | 4 Jan 2005
 Poisons Amendment Regulations 2005 | 15 Nov 2005 p. 5602-8 | 1 Jan 2006 (see r. 2)
 Poisons Amendment Regulations 2006 | 4 Apr 2006 p. 1406-7 | 4 Apr 2006
+Reprint 8: The Poisons Regulations 1965 as at 5 May 2006 (includes amendments listed above)
 Repealed by the Mental Health Act 1981 which was repealed by the Mental Health Act 1996.
 The Poisons Amendment Regulations (No. 3) 2001 r. 4(2) reads as follows:
 “
 (2) A licence issued under regulation 4 of the Poisons Regulations 1965 and in force immediately before the day on which this regulation commences, continues in force on and after that day, as if it were a licence issued under regulation 3 of those regulations as amended by this regulation.
 ”.
-Renumbering of regulation 41 to regulation 40A effected by amendment in Gazette 19 March 1996 p. 1225.
 Repealed by the Security and Related Activities (Control) Act 1996.
+The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia
+Renumbering of regulation 41 to regulation 40A effected by amendment in Gazette 19 March 1996 p. 1225.
 Now known as the Poisons Regulations 1965; citation amended (see note to r. 1).
 The Nurses Amendment Act 2003 s. 50 reads as follows:
 “
