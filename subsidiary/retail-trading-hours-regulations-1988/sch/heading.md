@@ -1,5 +1,5 @@
 ## Schedule
-[Forms 1, 2, 3 and 4 deleted]
+[Forms 1, 2, 3 and 4 deleted in Gazette 23 Dec 1994 p. 7074.]
 Form No. 5
 Western Australia
 Retail Trading Hours Act 1987
@@ -33,4 +33,3 @@ This certificate is issued subject to the following conditions —
 (b)this certificate must be displayed in a prominent position, clearly visible to staff and members of the public, within the special retail shop.
 ..............................................
 Chief Executive Officer
-[Schedule amended by Gazette 31 January 1992 pp.481-3; 23 December 1994 p.7074.]
