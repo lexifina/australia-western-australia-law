@@ -8,7 +8,7 @@ No. | Form | Section of Act
 Surveillance Devices Act 1998, ss. 13, 14, 17, 19 and 22 Warrant |  | o Supreme Court Judge o Magistrate At.........................................
  | Strike out any parts of this form that are not applicable
 Person to whom warrant is issued | Name
-oMember of police force oAnti-Corruption Commission officer oMember of staff of Australian Crime Commission
+oMember of police force oOfficer of the Corruption and Crime Commission oMember of staff of Australian Crime Commission
 oWarrant issued on behalf of another law enforcement officer (Name)
 Person, object or premises under surveillance | oPerson____________________________________________________ oUnknown person oObject____________________________________________________ oPremises__________________________________________________
 Offence | Offence_______________________________________________________ Act or Regulations______________________________________________ Section or regulation no.
@@ -31,13 +31,13 @@ Applicant | Name
 Business address
 Postcode
 Phone no.
-oMember of police force oAnti-Corruption Commission officer oMember of staff of Australian Crime Commission
+oMember of police force oOfficer of the Corruption and Crime Commission oMember of staff of Australian Crime Commission
 Person, object or premises under surveillance | oPerson______________________________________________ oUnknown person oObject______________________________________________ oPremises____________________________________________
 Action for which authorization is required | Authorization is required to — oattach or installouseomaintain oa listening device to record, monitor, or listen to a private conversation oan optical surveillance device to record visually or observe a private activity oa tracking device to determine the geographical location of a person or object in relation to the — opremises under surveillance oobject under surveillance operson under surveillance oretrieve — oa listening device oan optical surveillance device oa tracking device
 Grounds | Imminent threat
 oThreat of serious violence to a person Name______________________________________________ oThreat of substantial damage to property Description
-Grounds cont. | Drug offence or ACC scheduled offence
-oIndictable drug offence Relevant section of Misuse of Drugs Act 1981 — o 6(1)o 7(1)o 33(1)(a)o 33(2)(a) oExternal indictable drug offence External law ________________________________________ Corresponding section of Misuse of Drugs Act 1981 — o 6(1)o 7(1)o 33(1)(a)o 33(2)(a) oACC Scheduled offence Offence_____________________________________________ Relevant Act_________________________________________ section
+Grounds cont. | Offence
+oIndictable drug offence Relevant section of Misuse of Drugs Act 1981 — o 6(1)o 7(1)o 33(1)(a)o 33(2)(a) oExternal indictable drug offence External law ________________________________________ Corresponding section of Misuse of Drugs Act 1981 — o 6(1)o 7(1)o 33(1)(a)o 33(2)(a) oOffence punishable by 2 or more years imprisonment Offence_____________________________________________ Relevant Act_________________________________________ section
  | The offence — ohas been committedomay have been committed ois being committedois about to be committed ois likely to be committed Date offence committed or expected to be committed
 The use of the surveillance device is immediately necessary for the purpose of — odealing with the threat oinvestigating the offence oenabling evidence to be obtained of — othe commission of the offence othe identity of the offender othe location of the offender
 These factors make the circumstances serious___________________ _______________________________________________________ _______________________________________________________ _______________________________________________________ These factors make the matter urgent _________________________ _______________________________________________________ _______________________________________________________
@@ -56,9 +56,9 @@ Signature of applicant | Date
 Surveillance Devices Act 1998, s. 21 Emergency authorization
  | Strike out any parts of this form that are not applicable
 Authorized person | Name
-oCommissioner of Police oDeputy Commissioner of Police oAssistant Commissioner of Police oAnti-Corruption Commission officer authorized by — oChairman of the Anti-Corruption Commission o2 members of the Anti-Corruption Commission oPerson authorized by Chair of Board of Australian Crime Commission
+oCommissioner of Police oDeputy Commissioner of Police oAssistant Commissioner of Police oOfficer of the Corruption and Crime Commission oPerson authorized by Chair of Board of Australian Crime Commission
 Person to whom authorization is issued | Name
-oMember of the police force oAnti-Corruption Commission officer oMember of staff of Australian Crime Commission
+oMember of the police force oOfficer of the Corruption and Crime Commission oMember of staff of Australian Crime Commission
 Person, object or premises under surveillance | oPerson_______________________________________________ oUnknown person oObject_______________________________________________ oPremises_____________________________________________
 Authorization to use surveillance device | This authorization authorizes you to — oattach or installouseomaintain oa listening device to record, monitor, or listen to a private conversation oan optical surveillance device to record visually or observe a private activity oa tracking device to determine the geographical location of a person or object in relation to the — opremises under surveillance oobject under surveillance operson under surveillance oretrieve — oa listening device oan optical surveillance device oa tracking device
 Authority to enter premises | Entry, by force if necessary, is required to — o(specified premises) __________________________________ ________________________________________________ oany premises where the object or person under surveillance is reasonably believed to be or is likely to be and any premises adjoining or providing access to those premises
@@ -78,7 +78,7 @@ Applicant | Name
 Business address
 Postcode
 Phone no.
-oMember of police force oAnti-Corruption Commission officer oMember of staff of Australian Crime Commission
+oMember of police force oOfficer of the Corruption and Crime Commission oMember of staff of Australian Crime Commission
 oApplication is made on behalf of another law enforcement officer (Name)
 Person, object or premises under surveillance | oPerson (see note 1)_______________________________________________ oUnknown person oObject _____________________________________________ oPremises____________________________________________
 Nature of warrant | oTracking device warrant (s. 13) oTracking device (maintenance/retrieval) warrant (s. 14) to — omaintain a tracking device oretrieve a tracking device omaintain and retrieve a tracking device
@@ -93,7 +93,7 @@ The use of a surveillance device would be likely to — oassist an investigation
 Tracking device (maintenance/retrieval) warrant (s. 14)
 Vehicle
 Location when device installed______________________________ Current location
-Person who installed device ________________________________ oMember of police force oAnti-Corruption Commission officer oMember of staff of National Crime Authority oMember of prescribed class of persons Specify class ________________________________________
+Person who installed device ________________________________ oMember of police force oOfficer of the Corruption and Crime Commission oMember of staff of National Crime Authority oMember of prescribed class of persons Specify class ________________________________________
 Entry to premises | Entry, by force if necessary, is required to — o(specified premises) __________________________________ _______________________________________________ oany premises where the object or person under surveillance is reasonably believed to be or is likely to be and any premises adjoining or providing access to those premises oany premises where the vehicle on or in which the device is attached or installed may for the time being be oany premises where the surveillance device to be retrieved may for the time being be
 Use of electricity supply | oAuthority is required to connect the surveillance device to an electricity supply system and use electricity from that system to operate the device
 Removal of vehicle | oAuthority is required to temporarily remove a vehicle from a premises for the purpose of — oattaching oinstalling omaintainingoretrieving a tracking device
@@ -104,4 +104,4 @@ Note 1 — Identification of person under surveillance
 The person under surveillance may be identified by a numerical reference identifying the relevant law enforcement agency and the year in which the application is made. For example —WAPS 1/1999 (for the first application in 1999 by a member of the WA police force)
 Note 2 — Lodging of Application for warrant
 The application is to be lodged with the Magistrate. An application must be accompanied by — ·an “Authorization of surveillance”; and ·an affidavit containing a “Statement of facts in support of application for warrant” in accordance with Surveillance Devices Act 1998, s. 15(3)(a), (b), (c) and (f). An application should also be accompanied by a draft warrant in the form of the warrant being sought.
-[Schedule 1 amended in Gazette 8 February 2000 pp.458-60; amended by No. 74 of 2004 s. 73(3) and (4).]
+[Schedule 1 amended in Gazette 8 Feb 2000 p. 458-60; 5 May 2006 p. 1736; amended by No. 74 of 2004 s. 73(3) and (4).]
