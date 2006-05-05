@@ -15,6 +15,7 @@ Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2
 Statutes (Repeals and Minor Amendments) Act 2003 s. 59 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 2: The Gas Pipelines Access (Western Australia) Act 1998 as at 8 Oct 2004 (includes amendments listed above)
 Electricity Corporations Act 2006 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
+Energy Operators (Powers) Amendment Act 2006 s. 5 | 8 of 2006 | 5 May 2006 | 5 May 2006 (see s. 2)
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
 The copy of the Code reproduced in Schedule 2 is a copy of the Code in its original form, as agreed by the Council of Australian Governments on 7 November 1997. It does not include subsequent amendments to the Code. Copies of the Code as amended are available from the Code Registrar in accordance with Schedule 1 clause 7.
 Repealed by the Gas Pipelines Access (Western Australia) Act 1998 Sch. 3 cl. 31(1) on approval of Access Arrangement on 18 July 2000.
