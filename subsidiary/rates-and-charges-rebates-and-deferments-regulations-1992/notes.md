@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Rates and Charges (Rebates and Deferments) Regulations 1992 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 5 May 2006 of the Rates and Charges (Rebates and Deferments) Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Rates and Charges (Rebates and Deferments) Regulations 1992 | 26 Jun 1992 p. 2809 | 26 Jun 1992
@@ -9,12 +9,14 @@ Rates and Charges (Rebates and Deferments) Amendment Regulations 1995 | 27 Jun 1
 Rates and Charges (Rebates and Deferments) Amendment Regulations 1996 | 25 Jun 1996 p. 3006 | 1 Jul 1996 (see r. 2)
 Rates and Charges (Rebates and Deferments) Amendment Regulations 1997 | 24 Jun 1997 p. 3015-16 | 1 Jul 1997 (see r. 2)
 Rates and Charges (Rebates and Deferments) Amendment Regulations 1998 | 17 Mar 1998 p. 1492-3 | 17 Mar 1998
-Rates and Charges (Rebates and Deferments) Amendment Regulations (No. 2) 1998 | 30 Jun 1998 p. 3555-6 (Correction 17 Jul 1998 p. 3762) | 1 Jul 1998 (see r. 2)
+Rates and Charges (Rebates and Deferments) Amendment Regulations (No. 2) 1998 | 30 Jun 1998 p. 3555-6 (correction 17 Jul 1998 p. 3762) | 1 Jul 1998 (see r. 2)
 Rates and Charges (Rebates and Deferments) Amendment Regulations 1999 | 22 Jun 1999 p. 2677-8 | 22 Jun 1999
 Rates and Charges (Rebates and Deferments) Amendment Regulations 2000 | 20 Jun 2000 p. 3030-1 | 1 Jul 2000 (see r. 2)
+Reprint of the Rates and Charges (Rebates and Deferments) Regulations 1992 as at 2 Feb 2001 (includes amendments listed above)
 Rates and Charges (Rebates and Deferments) Amendment Regulations 2001 | 22 Jun 2001 p. 3025-6 | 1 Jul 2001 (see r. 2)
 Rates and Charges (Rebates and Deferments) Amendment Regulations (No. 2) 2001 | 24 Jul 2001 p. 3732-3 | 1 Jul 2001 (see r. 2)
 Rates and Charges (Rebates and Deferments) Amendment Regulations 2002 | 28 Jun 2002 p. 3111-12 | 1 Jul 2002 (see r. 2)
 Rates and Charges (Rebates and Deferments) Amendment Regulations 2003 | 27 Jun 2003 p. 2414-15 | 1 Jul 2003 (see r. 2)
 Rates and Charges (Rebates and Deferments) Amendment Regulations 2004 | 29 Jun 2004 p. 2548-9 | 1 Jul 2004 (see r. 2)
 Rates and Charges (Rebates and Deferments) Amendment Regulations 2005 | 28 Jun 2005 p. 2934 | 1 Jul 2005 (see r. 2)
+Reprint 2: The Rates and Charges (Rebates and Deferments) Regulations 1992 as at 5 May 2006 (includes amendments listed above)
