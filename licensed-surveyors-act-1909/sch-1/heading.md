@@ -1,11 +1,11 @@
 ## Second Schedule
 [Section 5.]
 ## Rules for the conduct of the Board
-1.The Chairman shall be the executive officer of the Board.
-2.Every appointment and every order, notice, certificate or other document of the Board relating to the execution of this Act shall be sufficiently authenticated if signed by the Chairman or any 2 members of the Board.
+1.The chairman shall be the executive officer of the Board.
+2.Every appointment and every order, notice, certificate or other document of the Board relating to the execution of this Act shall be sufficiently authenticated if signed by the chairman or any 2 members of the Board.
 3.No business shall be transacted at any meeting of the Board unless at least 3 of the members are present when such business is transacted.
-4.The Chairman shall preside at all meetings at which he is present. In the absence of the Chairman, the members present shall elect from their number a Chairman for the day.
-The Chairman, or, in his absence, the Chairman for the day, shall have a vote, and, when there is an equal division of votes upon any question, shall have a second or casting vote.
+4.The chairman shall preside at all meetings at which he is present. In the absence of the chairman, the members present shall elect from their number a chairman for the day.
+The chairman, or, in his absence, the chairman for the day, shall have a vote, and, when there is an equal division of votes upon any question, shall have a second or casting vote.
 5.All powers vested in the Board may be exercised by the majority of the members present at any meeting duly held, and all questions shall be decided by a majority and by open voting.
 At all meetings, save as herein otherwise provided, all members present shall vote.
 If a member refuses to vote, his vote shall be counted for the negative.
