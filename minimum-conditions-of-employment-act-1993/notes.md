@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Minimum Conditions of Employment Act 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 May 2006 of the Minimum Conditions of Employment Act 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Minimum Conditions of Employment Act 1993 | 14 of 1993 | 23 Nov 1993 | 1 Dec 1993 (see s. 2 and Gazette 30 Nov 1993 p. 6439)
@@ -10,10 +10,11 @@ Reprint of the Minimum Conditions of Employment Act 1993 as at 4 Jun 1997 (inclu
 Labour Relations Reform Act 2002 s. 22 and Pt. 10 Div. 1 | 20 of 2002 | 8 Jul 2002 | Pt. 10 Div. 1: 1 Aug 2002 (see s. 2 and Gazette 26 Jul 2002 p. 3459); s. 22: 15 Sep 2002 (see s. 2 and Gazette 6 Sep 2002 p. 4487)
 Reprint of the Minimum Conditions of Employment Act 1993 as at 4 Oct 2002 (includes amendments listed above)
 Acts Amendment (Equality of Status) Act 2003 Pt. 45 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
-Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 9 (see Gazette 15 Aug 2003 p. 3685-92) | 15 Sep 2003 (see r. 2)
+Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 9 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 84 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Reprint 3: The Minimum Conditions of Employment Act 1993 as at 5 May 2006 (includes amendments listed above)
 The Labour Relations Reform Act 2002 s. 165(3)-(5) reads as follows:
 “
 (3) An agreement continues to have effect on and from the commencement day in respect of the employee’s entitlement to annual leave that accrued before the commencement day as if former section 8 had not been amended by this Act.
