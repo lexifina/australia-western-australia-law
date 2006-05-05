@@ -1,5 +1,6 @@
 ## Appendix G
 (reg 12)
+[Heading inserted in Gazette 19 Mar 1996 p. 1238.]
 FormDescription of No.Licence or Permit | Initial Fee (1 year) $ | Initial Fee (3 years) $ | Renewal (1 year) $ | Renewal (3 years) $
 1.Wholesaler’s Licence ................... | 600 | 850 | 175 | 425
 [2.deleted]
@@ -11,7 +12,7 @@ FormDescription of No.Licence or Permit | Initial Fee (1 year) $ | Initial Fee (
 (a)for poisons other than those set out in this item .............. | 200 | 300 | 75 | 175
 (b)for any one or more of the poisons set out in this item | 575 | 1275 | 425 | 1125
 •benzene; •4,4-diaminodiphenylmethane (Methylene dianiline); •4,4’-methylenebis(2-chloroaniline);
-8.Poisons permit (Educational, advisory or research) ................... | 100 | 150 | 50 | 100
+8.Poisons permit (Educational, advisory or research) .................... | 100 | 150 | 50 | 100
 8AA.Poisons permit (Health services) | 200 | 300 | 75 | 175
 11AA. Stockfeed manufacturer’s permit | 200 | 300 | 75 | 175
 13.Poisons permit (Departmental and hospitals) —
