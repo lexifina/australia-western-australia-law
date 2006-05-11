@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Health Professionals (Special Events Exemption) Act 2000. The following table contains information about that Act.
+This is a compilation of the Health Professionals (Special Events Exemption) Act 2000 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and Year | Assent | Commencement
 Health Professionals (Special Events Exemption) Act 2000 | 7 of 2000 | 14 Apr 2000 | 14 Apr 2000 (see s. 2)
+Optical Dispensers Repeal Act 2006 s. 4 | 11 of 2006 | 11 May 2006 | 11 May 2006 (see s. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
