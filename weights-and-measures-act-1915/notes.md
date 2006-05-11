@@ -32,5 +32,86 @@ Part II — Amendments published in Gazette
 Gazettal | Commencement Date
 4 March 1949 pp.414-6 | 4 March 1949
 19 May 1972 pp.1171-2 | 19 May 1972
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and Year | Assent | Commencement
+Trade Measurement Administration Act 2006 s. 36 and Sch. 1 | 12 of 2006 | 11 May 2006 | Sch. 1 cl. 7: 11 May 2006 (see s. 2(1); s. 36 and Sch. 1 cl. 1-6 and 8-9: to be proclaimed (see s. 2)
 Now see the National Measurement Act 1960 of the Commonwealth.
 The office referred to is obsolete.
+On the date as at which this compilation was prepared, the Trade Measurement Administration Act 2006 s. 36, had not come into operation. It read as follows:
+“
+36.Repeal, and savings and transitional provisions
+(1) The Weights and Measures Act 1915 is repealed.
+(2) Schedule 1 has effect to make savings and transitional provisions.
+”.
+Section 36(2) which gives effect to Sch. 1 reads as follows:
+“
+Schedule 1 — Savings and transitional provisions
+[s. 36]
+1.Terms used in this Schedule
+In this Schedule —
+“commencement day” means the day on which this Schedule comes into operation;
+“repealed Act” means the Act repealed by section 36(1).
+2.Interpretation Act 1984 not affected
+Nothing in this Schedule limits the application of the Interpretation Act 1984 to the repeal effected by section 36(1).
+3.Office-holders under the repealed Act
+(1) The person who, immediately before the commencement day, held office as the chief inspector of weights and measures under section 6 of the repealed Act is taken, on and from that day, to have been designated as the Commissioner under section 6(2).
+(2) A person who, immediately before the commencement day, held office as an inspector of weights and measures under section 6 of the repealed Act is taken, on and from that day, to have been designated as an inspector under section 9(1).
+(3) The operation of this clause in relation to a person does not —
+(a) unless the person agrees otherwise, affect the person’s remuneration or terms and conditions of employment;
+(b) prejudice the person’s existing or accruing rights;
+(c) affect any rights under a superannuation scheme; or
+(d) interrupt continuity of service.
+4.Permits for sale of pre-packed articles
+A permit —
+(a) granted under section 27F of the repealed Act; and
+(b) in force immediately before the commencement day,
+is taken, on and from that day, to be a permit issued under section 49 of the principal Act.
+5.Marks of verification
+A mark of verification stamped on a measuring instrument under section 28(1) or 29(1) of the repealed Act —
+(a) is taken, on and from the commencement day, to be an inspector’s mark for the purposes of the principal Act; and
+(b) continues in effect as provided by section 21(4) or (5) of the principal Act, as the case may be.
+6.Identifying marks under Weights and Measures (Exemptions) Regulations 1997
+An identifying mark applied to a measuring instrument by an approved person in accordance with regulation 4 or 5 of the Weights and Measures (Exemptions) Regulations 1997 —
+(a) is taken, on and from the commencement day, to be a licensee’s mark for the purposes of the principal Act; and
+(b) continues in effect as provided by section 21(4) or (5) of the principal Act, as the case may be.
+7.Provisions for licensing before commencement of sections 53 and 54 of the principal Act
+(1) In this clause —
+“chief inspector” means the chief inspector of weights and measures under section 6 of the Weights and Measures Act 1915;
+“licence” means a servicing licence or a public weighbridge licence provided for by Part 6 of the principal Act;
+“pre-commencement period” means the period from the day on which the principal Act receives the Royal Assent until the first day on which both sections 53 and 54 of the principal Act have come into operation.
+(2) The purpose of this clause is to enable —
+(a) applications for licences to be made and decided; and
+(b) licensing decisions to be reviewed,
+during the pre-commencement period.
+(3) During the pre-commencement period the provisions mentioned in the Table to this subclause are taken to apply for the purposes of this clause, to the extent so mentioned, as if they had come into operation.
+Table
+1. | the definitions in section 4, and in section 3 of the principal Act, so far as is necessary for the purposes of this clause
+2. | sections 55, 56, 58, 60, 63, 64 and 70 of the principal Act
+3. | section 81 of the principal Act so far as it applies to a decision described in paragraph (a) or (c) of that section
+4. | section 93 of the principal Act so far as it applies to an application for a licence
+(4) The Governor may make regulations of the kind mentioned in section 15(a), (b), (c), (g) and (h) to have effect for the purposes of this clause during the pre-commencement period.
+(5) Despite section 6, during the pre-commencement period the chief inspector has the powers and duties expressed to be vested in the Commissioner by the provisions referred to in the Table to subclause (3), and to that extent is taken to be the Commissioner.
+(6) The chief inspector may delegate to any other officer employed in the Department any power or duty referred to in subclause (5), and section 8(2) to (6) apply, with all necessary changes, as if references to the Commissioner were references to the chief inspector.
+(7) If a servicing licence is granted for the purposes of section 53 of the principal Act during the pre-commencement period it comes into force on the commencement of that section, or on such later day as may be specified in the licence.
+(8) If a public weighbridge licence is granted for the purposes of section 54 of the principal Act during the pre-commencement period it comes into force on the commencement of that section, or on such later day as may be specified in the licence.
+8.Continuation of things done and commenced
+(1) If anything done or commenced under the repealed Act before the commencement day —
+(a) still has effect or has not been completed immediately before that day; and
+(b) could have been done or commenced under this Act or the principal Act if it had been in force at the time the thing was done or commenced,
+then —
+(c) the thing done continues to have effect; or
+(d) the thing commenced may be completed,
+as if it had been done or commenced under this Act or the principal Act, as the case requires.
+(2) Subclause (1) does not apply to anything in relation to which other provision is made by or under this Schedule.
+9.Further transitional provisions may be made
+(1) If there is no sufficient provision made in this Schedule for any matter or thing necessary or convenient to give effect to the transition from the repealed Act to this Act and the principal Act, that provision may be made by regulations under section 35.
+(2) If regulations under subclause (1) provide that a state of affairs is taken to have existed, or not to have existed, on and from a day that is —
+(a) earlier than the day on which the regulations are published in the Gazette; but
+(b) not earlier than the day on which this Schedule came into operation,
+the regulations have effect according to their terms.
+(3) A provision referred to in subclause (2) does not operate so as —
+(a) to affect in a manner prejudicial to any person (other than the State) the rights of that person existing; or
+(b) to impose liabilities on any person (other than the State) in respect of anything done or omitted to be done,
+before the day of publication of the regulations.
+”.
