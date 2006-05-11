@@ -39,6 +39,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | To be proclaimed (see s. 2)
+Trade Measurement Administration Act 2006 s. 37 | 12 of 2006 | 11 May 2006 | To be proclaimed (see s. 2)
 Footnote no longer applicable.
 Legal Practitioners Amendment (Disciplinary and Miscellaneous Provisions) Act 1992 Pt. 2 came into operation on 1 Feb 1993 (see s. 3(a) and Gazette 26 Jan 1993 p. 823).
 Repealed by the Acts Amendment and Repeal (Fair Trading) Act 1988.
@@ -51,7 +52,7 @@ The Statutes (Repeals and Minor Amendments) Act 1997 s. 39(9) reads as follows:
 “
 (9) The person appointed and holding office under section 15(1) as the Commissioner for Consumer Affairs immediately before the commencement of this section continues to hold office after that commencement as the Commissioner for Fair Trading.
 ”.
-On the date as at which this reprint was prepared, the Dangerous Goods Safety Act 2004 s. 70, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Dangerous Goods Safety Act 2004 s. 70, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 70.Repeals and consequential amendments (Sch. 2)
 Schedule 2 has effect.
@@ -63,5 +64,13 @@ Schedule 2 — Repeals and consequential amendments
 (1) The Consumer Affairs Act 1971 is amended in the Schedule by deleting “Explosives and Dangerous Goods Act 1961” and inserting instead —
 “ Dangerous Goods Safety Act 2004 ”.
 ”.
-Footnote no longer applicable.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Trade Measurement Administration Act 2006 s. 37, had not come into operation. It reads as follows:
+“
+37.Consequential amendment to Consumer Affairs Act 1971
+(1) The amendments in this section are to the Consumer Affairs Act 1971.
+(2) The Schedule is amended as follows:
+(a) by deleting the item “Weights and Measures Act 1915.”;
+(b) by inserting after the item “Spear-guns Control Act 1955.” the following item —
+“ Trade Measurement Act 2006. ”.
+”.
