@@ -83,8 +83,8 @@ Item | Nature of instrument | Duty payable $ | Person liable to pay duty
  | (1)Any instrument effecting a partition of any property ........................................ | 20.00 | The parties thereto
  | (2)Any instrument setting out any amount required to achieve equality ................ | See section 75AD
 16. | POLICY OF INSURANCE
- | (1)A return under section 94 … | See section 94A | The insurer
- | (2)A statement under section 95A ……… | See section 95A | The person required to lodge the statement
+ | (1)A return under section 94 ...................... | See section 94A | The insurer
+ | (2)A statement under section 95A ............. | See section 95A | The person required to lodge the statement
 17. | RELEASE OR RENUNCIATION OF ANY PROPERTY OR OF ANY RIGHT OR INTEREST IN ANY PROPERTY
  | An instrument of release or renunciation referred to in the heading to this item —
  | (a)by way of sale ....................... | See item 4 | Purchaser
