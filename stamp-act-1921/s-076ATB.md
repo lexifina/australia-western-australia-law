@@ -17,7 +17,7 @@ or if the Commissioner determines that paragraphs (a) and (b) would have applied
 (d) money lent by the WA company or a subsidiary to —
 (i) any person who in relation to the WA company is an associated person; or
 (ii) any person at call or in terms that require or allow full repayment to the WA company within 12 months after the money is lent;
-(e) where by a corporation is a subsidiary of the WA company by virtue of Division 6 of Part 1.2 of the Corporations Act, or would be a subsidiary of it by virtue of that Division if “more” in section 46(a)(ii) and (iii) of the Corporations Act were deleted and “not less” were inserted instead, the shareholding of the WA company in the corporation, but without limiting subsection (6);
+(e) where a corporation is a subsidiary of the WA company by virtue of Division 6 of Part 1.2 of the Corporations Act, or would be a subsidiary of it by virtue of that Division if “more” in section 46(a)(ii) and (iii) of the Corporations Act were deleted and “not less” were inserted instead, the shareholding of the WA company in the corporation, but without limiting subsection (6);
 (f) in the case of the WA company, property consisting of a share or interest in a trust referred to in subsection (6);
 (g) a licence or patent or other intellectual property (including knowledge or information that has a commercial value) relating to any process, technique, method, design or apparatus to —
 (i) locate, extract, process, transport or market minerals; or
