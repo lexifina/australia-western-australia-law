@@ -1,9 +1,8 @@
 Notes
-This is a compilation of the Hairdressers Registration Regulations 1965 and includes the amendments referred to in the following Table.
+This is a compilation of the Hairdressers Registration Regulations 1965 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
-Citation | Gazettal | Commencement | Miscellaneous
+Citation | Gazettal | Commencement
 Hairdressers Registration Regulations 1965 | 21 Jul 1965 p. 2121-32 | 21 Jul 1965
-(Regulations effecting amendments included in the previous reprint are not referred to in this Table) |  |  | Previous reprint approved 23 November 1971 and published in Gazette 2 December 1971 pp.4967-79
  | 8 Nov 1974 p. 5039 | 8 Nov 1974
  | 19 Dec 1975 p. 4604 | 19 Dec 1975
  | 17 Dec 1976 p. 5003-7 | 17 Dec 1976
@@ -11,7 +10,7 @@ Hairdressers Registration Regulations 1965 | 21 Jul 1965 p. 2121-32 | 21 Jul 196
  | 28 Dec 1979 p. 4056 | 1 Jan 1980 (see Gazette 28 Dec 1979 p. 4056)
  | 13 Jun 1980 p. 1752 | 13 Jun 1980
 Hairdressers Amendment Regulations 1982 | 5 Feb 1982 p. 441 | Regulation 4 operative 15 Feb 1982; balance: 5 Feb 1982 (see r. 2)
-Hairdressers Registration Amendment Regulations 1983 | 6 Jan 1984 p. 18 | 6 Jan 1984 | This amendment had no effect being superceded by the amendment of 16 March 1984
+Hairdressers Registration Amendment Regulations 1983 | 6 Jan 1984 p. 18 (This amendment had no effect being superceded by the amendment of 16 March 1984) | 6 Jan 1984
 Hairdressers Registration Amendment Regulations 1984 | 16 Mar 1984 p. 716 | 16 Mar 1984
 Hairdressers Registration Amendment Regulations (No.2) 1984 | 30 Mar 984 p. 910 | 30 Mar 1984
 Hairdressers Registration Amendment Regulations (No.3) 1984 | 2 Nov 1984 p. 3545 | 2 Nov 1984
@@ -30,4 +29,5 @@ Hairdressers Registration Amendment Regulations 1998 | 16 Jun 1998 p. 3255 | 16 
 Hairdressers Registration Amendment Regulations 2003 | 4 Apr 2003 p. 1024-5 | 4 Apr 2003
 Hairdressers Registration Amendment Regulations 2004 | 29 Jun 2004 p. 2510-11 | 1 Jul 2004 (see r. 2)
 Hairdressers Registration Amendment Regulations 2005 | 28 Jun 2005 p. 2915-16 | 1 Jul 2005 (see r. 2)
-Repealed by the Industrial Relations Act 1979 (Act No. 114 of 1979).
+Hairdressers Registration Amendment Regulations 2006 | 12 May 2006 p. 1782-3 | 12 May 2006
+Repealed by the Industrial Relations Act 1979 (No. 114 of 1979).
