@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Country Housing Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 May 2006 of the Country Housing Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Country Housing Act 1998 | 4 of 1998 | 14 Apr 1998 | 1 Jul 1998 (see s. 2 and Gazette 30 Jun 1998 p. 3557)
@@ -12,11 +12,14 @@ Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 2 | 21 of 2003 | 23
 Acts Amendment (Equality of Status) Act 2003 Pt. 10 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 2: The Country Housing Act 1998 as at 19 May 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 22 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e) from this reprint.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Treasury Department is read and construed as a reference to the Department of Treasury and Finance.
+Repealed by the Industry and Technology Development Act 1998.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Land Administration Act 1997.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
 “
@@ -37,7 +40,7 @@ In this Part —
 (b) that could not have been validly and lawfully done or omitted if this Act had received the Royal Assent before the FSR commencement time,
 is taken not to be valid, and to never have been valid.
 ”.
-On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 22 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 22 had not come into operation. It reads as follows:
 “
 22.Country Housing Act 1998 amended
 (1) The amendment in this section is to the Country Housing Act 1998.
