@@ -10,3 +10,4 @@ Mooring Amendment Regulations (No. 2) 2003 | 27 Jun 2003 p. 2535 | 1 Jul 2003 (s
 Reprint 1: The Mooring Regulations 1998 as at 8 Aug 2003 (includes amendments listed above)
 Mooring Amendment Regulations 2004 | 25 Jun 2004 p. 2289 | 1 Jul 2004 (see r. 2)
 Mooring Amendment Regulations 2005 | 24 Jun 2005 p. 2779-80 | 1 Jul 2005 (see r. 2)
+Mooring Amendment Regulations 2006 | 26 May 2006 p. 1879-80 | 26 May 2006
