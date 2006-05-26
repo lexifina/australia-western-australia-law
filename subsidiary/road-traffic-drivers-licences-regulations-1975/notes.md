@@ -105,6 +105,11 @@ Road Traffic (Drivers’ Licences) Amendment Regulations 2005 | 27 May 2005 p. 2
 Road Traffic (Drivers’ Licences) Amendment Regulations (No. 2) 2005 | 27 May 2005 p. 2302-3 | 1 Jul 2005 (see r. 2)
 Road Traffic (Drivers’ Licences) Amendment Regulations (No. 5) 2005 | 23 Dec 2005 p. 6277 | 1 Jan 2006 (see r. 2)
 Road Traffic (Drivers’ Licences) Amendment Regulations (No. 4) 2005 | 23 Dec 2005 p. 6279 | 23 Dec 2005
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic (Drivers’ Licences) Amendment Regulations (No. 2) 2006 r. 4 | 26 May 2006 p. 1881 | 1 Jul 2006 (see r. 2)
+Road Traffic (Drivers’ Licences) Amendment Regulations (No. 3) 2006 r. 4-7 | 26 May 2006 p. 1882-3 | 1 Jul 2006 (see r. 2)
 Repealed by the Road Traffic Act 1974 s. 4.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The Road Traffic (Drivers’ Licences) Amendment Regulations (No. 2) 1997 r. 3(c) and (d) disallowance published in Gazette 2 September 1997 p. 5001 has no effect as the relevant provision was subsequently amended prior to disallowance.
@@ -177,4 +182,53 @@ Regulation 4E(1)(a) of the Road Traffic (Drivers’ Licences) Regulations 1975 d
 The Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2004 s. 16(3) reads as follows:
 “
 (3) Nothing in this Act prevents any of the Road Traffic (Drivers’ Licences) Regulations 1975 from being amended in accordance with the Road Traffic Act 1974.
+”.
+On the date as at which this compilation was prepared, the Road Traffic (Drivers’ Licences) Amendment Regulations (No. 2) 2006 r. 4 had not come into operation. It reads as follows:
+“
+4.Schedule 11 amended
+Schedule 11 is amended as follows:
+(a) in item 4(a) by deleting “33.80” and inserting instead —
+“ 35.00 ”;
+(b) in item 4(b) by deleting “107.30” and inserting instead —
+“ 111.00 ”.
+”.
+On the date as at which this compilation was prepared, the Road Traffic (Drivers’ Licences) Amendment Regulations (No. 3) 2006 r. 4-7 had not come into operation. They read as follows:
+“
+4.Regulation 9 amended
+Regulation 9 is amended by deleting “$11.50.” and inserting instead —
+“ $12.10. ”.
+5.Regulation 9A amended
+Regulation 9A(c) is amended by deleting “$11.50;” and inserting instead —
+“ $12.10; ”.
+6.Regulation 15 amended
+(1) Regulation 15(1) is amended as follows:
+(a) in paragraph (a) by deleting “$75.80;” and inserting instead —
+“ $80.30; ”;
+(b) in paragraph (b) by deleting “$151.60.” and inserting instead —
+“ $160.60. ”.
+(2) Regulation 15(2) is amended as follows:
+(a) in paragraph (a) by deleting “$16.40;” and inserting instead —
+“ $17.30; ”;
+(b) in paragraph (b) by deleting “$33.10.” and inserting instead —
+“ $35.00. ”.
+7.Schedule 11 amended
+Schedule 11 is amended as follows:
+(a) in item 1(a)(i) by deleting “53.50” and inserting instead —
+“ 55.40 ”;
+(b) in item 1(a)(ii) by deleting “150.30” and inserting instead —
+“ 155.70 ”;
+(c) in item 1(b) by deleting “41.80” and inserting instead —
+“ 43.30 ”;
+(d) in item 2(a) by deleting “27.40” and inserting instead —
+“ 28.40 ”;
+(e) in item 2(b) by deleting “109.30” and inserting instead —
+“ 113.20 ”;
+(f) in item 3 by deleting “9.90” and inserting instead —
+“ 10.20 ”;
+(g) in item 5(b) by deleting “81.10” and inserting instead —
+“ 84.00 ”;
+(h) in item 6 by deleting “25.20” and inserting instead —
+“ 26.10 ”;
+(i) in item 7 by deleting “15.50” and inserting instead —
+“ 16.00 ”.
 ”.
