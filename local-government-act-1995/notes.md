@@ -37,6 +37,7 @@ Short title | Number and year | Assent | Commencement
 Road Traffic Amendment (Vehicle Licensing) Act 2001 s. 33 | 28 of 2001 (as amended by No. 45 of 2002 s. 29) | 21 Dec 2001 | To be proclaimed (see s. 2)
 Local Government Amendment Act 2004 s. 16(1), (2), (3) and (5), 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Local Government (Amendment of Part VIA - Employee Superannuation) Regulations 2006 r. 4 and 5 published in Gazette 26 May 2006 p. 1877-8 | 1 Jul 2006 (see r. 2)
 The provisions in this Act amending the Local Government Act 1960 have been omitted under s. 7(4)(e) of the Reprints Act 1984. Schedule 9.2 cl. 4 reads as follows:
 “
 4.Parts II to VII repealed
@@ -265,4 +266,59 @@ s. 7.13(d)(iii) | Delete “Local Court” and insert instead — “ Magistrate
 s. 9.8(1) s. 9.8(4) | In each provision delete “a Local Court” and insert instead — “ the Magistrates Court ”.
 s. 9.8(3) | Delete “A Local Court” and insert instead — “ The Magistrates Court ”.
 ”.
-The amendments it seeks to make cannot be made due to amendments made by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 685, 700 and 705.
+The amendments it seeks to make cannot be done due to amendments and repeals made by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 685, 700 and 705.
+The provisions of the Local Government Act 1960 Pt. VIA as continued by Sch. 9.3 cl. 16 of this Act reads as follows:
+“
+Part VIA — Employee Superannuation
+170A.Interpretation
+(1) In this Part —
+“City of Perth scheme” means the superannuation scheme established under section 170C;
+“dependant” has the same definition as in section 10 of the SIS Act;
+“employee” and “employer” have the same definitions as in section 10 of the SIS Act;
+“industry scheme” means the scheme whereby the W.A. Local Government Occupational Superannuation Fund was established by a deed of trust dated 21 March 1990 made by the 5 trustees of the Fund;
+“municipality” includes a regional council;
+“SIS Act” means the Superannuation Industry (Supervision) Act 1993 (Cwlth) as amended from time to time.
+(2) A reference in this Part to the City of Perth scheme is a reference to the scheme as it is amended from time to time.
+(3)A reference in this Part to the industry scheme is a reference to the scheme as it is amended from time to time.
+170B.Municipalities to use industry scheme
+(1) To provide superannuation and other benefits for its employees and their dependants, a municipality shall participate in and comply with the industry scheme.
+(2) A municipality shall exercise such powers and discharge such obligations as are necessary to give effect to the industry scheme.
+(3) Subsections (1) and (2) do not apply in respect of an employee if under section 170D, or section 29 of the City of Perth Restructuring Act 1993, a municipality has to participate in and comply with the City of Perth scheme in respect of that employee.
+(4) Subsections (1) and (2) apply to the City of Perth only in respect of those of its employees who are not members of the City of Perth scheme.
+170C.City of Perth scheme
+(1) The City of Perth shall establish a scheme that accords with the SIS Act to provide superannuation and other benefits for its employees and their dependants and for those of its former employees (and their dependants) whose employers, by virtue of section 170D or section 29 of the City of Perth Restructuring Act 1993, are required to participate in and comply with the scheme.
+(2) The City of Perth shall participate in and comply with the City of Perth scheme.
+(3) The City of Perth shall exercise such powers and discharge such obligations as are necessary to give effect to the City of Perth scheme.
+(4) A person who becomes an employee of the City of Perth shall be a member of and subject to the City of Perth scheme unless he or she elects to be a member of the industry scheme.
+170D.City of Perth scheme members who become employed by a regional council
+(1) If a person —
+(a) is a member of the City of Perth scheme; and
+(b) becomes an employee of a regional council of which the City of Perth is a constituent municipality,
+then, despite section 170B, the regional council shall, in respect of that person, participate in and comply with the City of Perth scheme in the same way and to the same extent as the City of Perth would be required to if the person were its employee; unless the person elects to become a member of the industry scheme.
+(2) A person referred to in subsection (1) does not cease to be a member of the City of Perth scheme by reason only of ceasing to be an employee of the City of Perth.
+170E.Other superannuation schemes
+Nothing in this Part prevents a municipality from participating, in respect of an employee of the municipality, in a superannuation scheme in addition to either the industry scheme or the City of Perth scheme (as the case may be) if the municipality and the employee agree to participate in that other scheme.
+”.
+On the date as at which this compilation was prepared, the Local Government (Amendment of Part VIA - Employee Superannuation) Regulations 2006 r. 4 and 5 had not come into operation. They read as follows:
+“
+4.Section 170A amended
+Section 170A(1) is amended by deleting the definition of “industry scheme” and inserting the following definition instead —
+“
+“industry scheme” means the WA Local Government Superannuation Plan (formerly called the W.A. Local Government Occupational Superannuation Fund) established by a trust deed dated 21 March 1990 and continued under a trust deed dated 4 November 2004;
+”.
+5.Section 170B amended
+After section 170B(4) the following subsections are inserted —
+“
+(5) If, in respect of an employee for any period —
+(a) there is a chosen fund for the employee throughout the period; and
+(b) the chosen fund is not the industry scheme; and
+(c) the municipality makes the minimum SG contributions for the employee for that period to the chosen fund,
+the amount that the municipality would, but for this subsection, be required under subsection (1) and the industry scheme trust deed to contribute to the industry scheme for that employee for that period is reduced by the amount of those minimum SG contributions made to the chosen fund.
+(6) In subsection (5) —
+(a) the following terms have the same meanings as they have in the Superannuation Guarantee (Administration) Act 1992 (Cwlth) —
+(i) chosen fund for the employer;
+(ii) individual superannuation guarantee shortfall;
+and
+(b) a reference to a municipality making the minimum SG contributions for an employee for a period is a reference to the municipality making the contributions necessary for it to avoid incurring an individual superannuation guarantee shortfall in respect of the employee in respect of that period.
+”.
+”.
