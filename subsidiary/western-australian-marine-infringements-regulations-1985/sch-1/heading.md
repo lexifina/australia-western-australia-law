@@ -141,4 +141,5 @@ Item | Navigable Waters Regulations 1958 | Description of offence | Modified Pen
 98 | 6(1) | Securing vessel to mooring when mooring site is not licensed, vessel is not authorized or vessel is not identifiable ....................... | 100
 99 | 6(2)(a) | Securing vessel to mooring on licensed mooring site when another vessel is secured to the mooring ............................... | 100
 100 | 6(2)(b) | Securing vessel to another vessel secured to a mooring on a licensed mooring site .... | 100
-[Schedule 1 inserted in Gazette 9 Jun 1992 p. 2381-2; amended in Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666.]
+101 | 6A | Securing vessel in a mooring control area for more than 6 hours ................................. | 100
+[Schedule 1 inserted in Gazette 9 Jun 1992 p. 2381-2; amended in Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880.]

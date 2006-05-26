@@ -18,5 +18,6 @@ Western Australian Marine (Infringements) Amendment Regulations (No. 2) 1998 | 1
 Western Australian Marine (Infringements) Amendment Regulations 2003 | 17 Jun 2003 p. 2220-1 | 1 Jul 2003 (see r. 2)
 Western Australian Marine (Infringements) Amendment Regulations (No. 3) 2005 | 23 Dec 2005 p. 6278-9 | 23 Dec 2005
 Western Australian Marine (Infringements) Amendment Regulations 2005 | 10 Feb 2006 p. 665-6 | 10 Feb 2006 (see r. 2 and Gazette 10 Feb 2006 p. 667)
+Western Australian Marine (Infringements) Amendment Regulations 2006 | 26 May 2006 p. 1880 | 26 May 2006
 Under section 69 of the Acts Amendment (Ministry of Justice) Act 1993 (No. 31 of 1993) a reference, however expressed, in any law or document, to the former Crown Law Department is to be read as a reference to the Ministry of Justice.
 Now Department of Transport. See Acts Amendment (Department of Transport) Act 1993 (No. 47 of 1993).
