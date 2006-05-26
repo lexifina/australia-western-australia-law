@@ -64,6 +64,7 @@ State Superannuation Amendment Regulations (No. 2) 2002, r. 29 | 28 June 2002 p.
 State Superannuation Amendment Regulations (No. 3) 2002 r. 7 | 28 June 2002 p. 3029-33 | 21 September 2002 (see regulation 2 and Gazette 20 September 2002 p.4693)
 State Superannuation Amendment Regulations (No. 4) 2003 r. 3 | 30 Dec 2003 p. 5726 | 30 Dec 2003
 State Superannuation Amendment Regulations 2004 r.13 | 25 Jun 2004 p. 2228-33 | 25 Jun 2004
+State Superannuation Amendment Regulations 2006 Pt. 4 | 26 May 2006 p. 1915-33 | 26 May 2006
 N.B.The Superannuation and Family Benefits Act 1938 is affected by section 15 of the District Court of Western Australia Act 1969 (No. 84 of 1969).
 Repealed by the Miscellaneous Repeals Act 1991 (No. 10 of 1991).
 Reference amended under section 7(5)(a) of the Reprints Act 1984 to give effect to section 5(2) of the Water Authority Act 1984 (No. 3 of 1984).
@@ -137,4 +138,8 @@ Clause 2 of Part B of Schedule 2 of the Bank of Western Australia Act 1995 (No. 
 Regulation 267(3) of the State Superannuation Regulations 2001 read as follows:
 “
 (3) A widower is eligible to receive a pension under the Sixth Schedule as amended by this regulation on and from the day this regulation comes into operation, whether the circumstances or events which gave rise to the eligibility occurred before, on or after that day.
+”.
+The State Superannuation Amendment Regulations 2006 r. 30(3) reads as follows:
+“
+(3) If a person became entitled to a widower’s pension before this regulation came into operation (the “commencement day”) section 60D(3c) (as inserted by subregulation (2)) applies in relation to that person as if the contributor or pensioner had died on the commencement day.
 ”.
