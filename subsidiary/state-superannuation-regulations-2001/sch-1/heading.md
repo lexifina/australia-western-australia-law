@@ -34,8 +34,8 @@
 29.The Western Australian Museum constituted by the Museum Act 1969
 30.Valuer General appointed under the Valuation of Land Act 1978
 31.Western Australian Planning Commission established by the Western Australian Planning Commission Act 1985
-32.WorkSafe Western Australia Commission established by the Occupational Safety and Health Act 1984
-[Division 1 amended in Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; 1 Dec 2004 p. 5703 and 5717; amended by Act No. 75 of 2003 s. 56(1).]
+32.Commission for Occupational Safety and Health (WorkSafe W A) established by the Occupational Safety and Health Act 1984
+[Division 1 amended in Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; amended by Act No. 75 of 2003 s. 56(1).]
 ## Division 2 — Self funding employers
 1.The Government of Western Australia in relation to a worker in respect of whom the obligations of the Government are being discharged by a person, or by the employing authority of a department or organisation, specified in an order under regulation 9(1)(b)unless the order specifies that in relation to that worker the Government is a Division 1 Employer
 2.Animal Resources Authority established by the Animal Resources Authority Act 1981

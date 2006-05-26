@@ -22,8 +22,13 @@ State Superannuation Amendment Regulations (No. 4) 2004 | 1 Dec 2004 p. 5705-18 
 State Superannuation Amendment Regulations (No. 5) 2004 | 10 Dec 2004 p. 5894-908 | 10 Dec 2004
 Reprint 2: The State Superannuation Regulations 2001 as at 2 Sep 2005 (includes amendments listed above)
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 87 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
+State Superannuation Amendment Regulations 2006 Pt. 1-3 | 26 May 2006 p. 1915-33 | 26 May 2006
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional And Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. Part 9 of these regulations were amending regulations under that subsection. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 Formerly referred to the Water Services Coordination Act 1995 the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Workers’ Compensation and Rehabilitation Commission constituted under the Workers’ Compensation and Rehabilitation Act 1981. The name of the Commission was changed to WorkCover Western Australia Authority and the short title of the Act was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5 and 81. The reference was changed under the Reprints Act 1984 s. 7(3)(gb) and (h).
 Repealed by the State Superannuation Act 2000.
+The State Superannuation Amendment Regulations 2006 r. 20(2) reads as follows:
+“
+(2) If a preserved benefit of less than $200 has not been paid because of the operation of regulation 76(4) (as in force before this regulation came into operation), the benefit ceases to be a preserved benefit when this regulation comes into operation even if, at that time, the benefit plus interest on it, is or exceeds $200.
+”.
