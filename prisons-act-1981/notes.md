@@ -35,6 +35,7 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 94 | 74 of 2003 | 15 Dec 200
 Inspector of Custodial Services Act 2003 s. 56(1) | 75 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Corruption and Crime Commission Amendment and Repeal Act 2003 s. 74(2) | 78 of 2003 | 22 Dec 2003 | 7 Jul 2004 (see s. 2 and Gazette 6 Jul 2004 p. 2697)
 Reprint 4: The Prisons Act 1981 as at 20 Aug 2004 (includes amendments listed above)
+Sentencing Legislation Amendment Act 2004 s. 16 | 27 of 2004 | 14 Oct 2004 | 31 May 2006 (see s. 2 and Gazette 30 May 2006 p. 1965)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
@@ -43,7 +44,6 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prisons Amendment Act 2003 s. 5, 6 and 8 | 24 of 2003 | 24 Apr 2003 | To be proclaimed (see s. 2)
-Sentencing Legislation Amendment Act 2004 s. 16 | 27 of 2004 | 14 Oct 2004 | To be proclaimed (see s. 2)
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
@@ -106,11 +106,5 @@ After section 110(1)(ra) the following paragraph is inserted —
 (rb) requiring a visitor as a condition of entry to a prison to prove his or her identity in a specified manner, including by means of a fingerprint, palm print, eye print, voiceprint or other physical or personal characteristic;
 ”.
 ”.
-On the date as at which this compilation was prepared, the Sentencing Legislation Amendment Act 2004 s. 16 had not come into operation. It reads as follows:
-“
-16.Prisons Act 1981 amended
-(1) The amendment in this section is to the Prisons Act 1981.
-(2) Section 87(6) is amended by inserting after “community order” —
-“ or conditional suspended imprisonment ”.
-”.
+Footnote no longer applicable.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to amend s. 23 is not included because the section it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 37 before the amendment purported to come into operation.

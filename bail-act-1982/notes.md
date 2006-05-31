@@ -35,18 +35,15 @@ Sentencing Legislation Amendment and Repeal Act 2003 s. 29(3) and 37 | 50 of 200
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 88, 97, 121 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 29 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Criminal Code Amendment Act 2004 s. 24, 26 and 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
+Sentencing Legislation Amendment Act 2004 s. 13 | 27 of 2004 | 14 Oct 2004 | 31 May 2006 (see s. 2 and Gazette 30 May 2006 p. 1965)
 Acts Amendment (Family and Domestic Violence) Act 2004 Pt. 3 | 38 of 2004 | 9 Nov 2004 | 1 Dec 2004 (see s. 2 and Gazette 26 Nov 2004 p. 5309)
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Acts Amendment (Court of Appeal) Act 2004 s. 28 | 45 of 2004 | 9 Nov 2004 | s. 28(1), (2) and (4) (other than the amendment to s. 7A(1)): 1 Feb 2005 (see. s. 2 and Gazette 14 Jan 2005 p. 163) s. 28(3) and (4) (the amendment to s. 7A(1)): 2 May 2005 (see. s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Misuse of Drugs Amendment Act 2004 s. 9(1) | 62 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 10 Dec 2004 p. 5965)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 3 and s. 82 and 83 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 5: The Bail Act 1982 as at 1 Apr 2005 (includes amendments listed above except those in the Acts Amendment (Court of Appeal) Act 2004 s. 28(3) and (4) (the amendment to s. 7A(1)), the Children and Community Services Act 2004, the Courts Legislation Amendment and Repeal Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004)
+Reprint 5: The Bail Act 1982 as at 1 Apr 2005 (includes amendments listed above except those in the Sentencing Legislation Amendment Act 2004 s. 13, the Acts Amendment (Court of Appeal) Act 2004 s. 28(3) and (4) (the amendment to s. 7A(1)), the Children and Community Services Act 2004, the Courts Legislation Amendment and Repeal Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Sentencing Legislation Amendment Act 2004 s. 13 | 27 of 2004 | 14 Oct 2004 | To be proclaimed (see s. 2)
 The Bail Amendment Act 1984 s. 10 and 11 were repealed by the Bail Amendment Act 1988 s. 20.
 The Bail Act 1982 was not in operation at the time when the reprint was compiled, but the reprinting was authorised by s. 21 of the Bail Amendment Act 1988.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a transitional provision that is of no further effect.
@@ -68,20 +65,6 @@ The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 97 reads a
 97.References to Crown Solicitor
 If in a written law or other document or instrument there is a reference to the Crown Solicitor that reference may, where the context so requires, be read as if it had been amended to be a reference to the State Solicitor.
 ”.
-On the date as at which this compilation was prepared, the Sentencing Legislation Amendment Act 2004 s. 13 had not come into operation. It reads as follows:
-“
-13.Bail Act 1982 amended
-(1) The amendments in this section are to the Bail Act 1982.
-(2) Section 3(4)(a) is amended as follows:
-(a) by inserting after “79” —
-“ , 84E ”;
-(b) by inserting after “imprisonment” —
-“ or conditional suspended imprisonment ”.
-(3) Schedule 1 Part C clause 6(a) is amended as follows:
-(a) by inserting after “79” —
-“ , 84E ”;
-(b) by inserting after “imprisonment” —
-“ or conditional suspended imprisonment ”.
-”.
+Footnote no longer applicable.
 Footnote no longer applicable.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 141 is not included because the clause it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 28(4) before the amendment purported to come into operation.
