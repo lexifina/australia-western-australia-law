@@ -12,6 +12,7 @@ Co-operative and Provident Societies Act 1903 s. 36, 55
 Credit (Administration) Act 1984 s. 37, 38, 39(4), 39(6)
 The Criminal Code s. 95, 97, 105, 106, 108, 110, 111, 151 (summary conviction), 208 (summary conviction), 426(4), 426A(3), 429, 430, 431, 434, 435
 Criminal Investigation (Extra-Territorial Offences) Act 1987 s. 6
+Criminal Procedure Act 2004 Sch. 2 cl. 5
 Curriculum Council Act 1997 Sch. 1, cl. 16(1)
 Dangerous Goods (Transport) Act 1998 s. 19, 29(6)
 Debt Collectors Licensing Act 1964 s. 5(2)
@@ -31,9 +32,7 @@ Guardianship and Administration Act 1990 s. 49(4), 113(1), Sch. 1 Part B cl. 12(
 Health Act 1911 s. 360(1)(e), 360(1)(f)
 Housing Societies Act 1976 s. 29D(9), 79(a)
 Juries Act 1957 s. 56B(1), 56C(1), 56D(1)
-Justices Act 1902 s. 57(3)
 Land Drainage Act 1925 s. 155
-Local Courts Act 1904 s. 44(2)
 Local Government (Miscellaneous Provisions) Act 1960 s. 474(7), 482(3)
 Medical Act 1894 s. 16A(1), 19, 21A(1)
 Mental Health Act 1996 s. 206(1), Sch. 2 cl. 13(5), Sch. 2 cl. 16
