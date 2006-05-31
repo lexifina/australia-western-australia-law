@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 March 2006 of the Road Traffic Act 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic Act 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic Act 1974 | 59 of 1974 | 3 Dec 1974 | s. 4: 3 Dec 1974 (see s. 2(2)); s. 6-10 and 12: 21 Feb 1975 (see s. 2(1) and Gazette 21 Feb 1975 p. 633); balance: 1 Jun 1975 (see s. 2(1) and Gazette 29 May 1975 p. 1442)
@@ -119,7 +119,8 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 2004 published in Gazette 24 Dec 2004 p. 6255 | 1 Feb 2005 (see r. 2)
 Road Traffic (Fees for Vehicle Licences) Regulations 2005 published in Gazette 27 May 2005 p. 2306-8 | 31 May 2005 (see r. 2)
 Reprint 9: The Road Traffic Act 1974 as at 10 Mar 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Road Traffic (Fees for Vehicle Licences) Regulations 2006 published in Gazette 26 May 2006 p. 1885-8 | 31 May 2006 (see r. 2)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Amendment Act (No. 2) 1987 s. 11(b) | 121 of 1987 (as amended by No. 84 of 2004 s. 80 (cl. 123)) | 24 Dec 1987 | To be proclaimed (see s. 2)
@@ -190,7 +191,7 @@ The Road Traffic Amendment Act (No. 2) 1987 s. 10(2) reads as follows:
 “
 (2) A certificate that was in force under section 72(3)(b) of the principal Act immediately before the commencement of subsection (1)(d) shall have effect after that commencement as if it certified the person named in the certificate as being competent to operate all types of breath analysing equipment.
 ”.
-On the date as at which this reprint was prepared, the Road Traffic Amendment Act (No. 2) 1987 s. 11(b) (as amended by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 (cl. 123)) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Road Traffic Amendment Act (No. 2) 1987 s. 11(b) (as amended by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 (cl. 123)) had not come into operation. It reads as follows:
 “
 11.Section 89 amended
 Section 89 of the principal Act is amended —
@@ -235,7 +236,7 @@ The Road Traffic Amendment Act 1996 s. 52 reads as follows:
 (2) In subsection (1) —
 “Traffic Board” means the Traffic Board constituted under section 6 of the Road Traffic Act 1974 as it was before the commencement of this Act.
 ”.
-On the date as at which this reprint was prepared, the Road Traffic Amendment Act 1996 s. 8(3) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Road Traffic Amendment Act 1996 s. 8(3) had not come into operation. It reads as follows:
 “
 8.Section 42 amended
 (3) After section 42(3) of the principal Act the following subsections are inserted —
@@ -288,7 +289,7 @@ The Road Traffic Amendment (Dangerous Driving) Act 2004 s. 12 reads as follows:
 (2) The Minister is to prepare a report based on the review carried out under subsection (1) and is to cause that report to be laid before each House of Parliament as soon as practicable.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Road Traffic Amendment (Vehicle Licensing) Act 2001 Pt. 2 (as amended by No. 45 of 2002 s. 29(2)) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Road Traffic Amendment (Vehicle Licensing) Act 2001 Pt. 2 (as amended by No. 45 of 2002 s. 29(2)) had not come into operation. It reads as follows:
 “
 Part 2 — Road Traffic Act 1974 amended
 3.The Act amended
@@ -466,7 +467,7 @@ s. 19(17) (7 places) | s. 34 (2 places)
 s. 24(1)(b) (2 places) | s. 37 (3 places)
 s. 31 | s. 38(1)
 ”.
-On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
 Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
@@ -482,3 +483,4 @@ s. 48(6)(a) | Delete “apply by way of a complaint to a court of petty sessions
 s. 48(6)(b) | After “court” insert — “ , which shall be constituted by a magistrate, ”.
 ”.
 The amendments to section 25(1) and 48(4)-(6) by the Courts Legislation Amendment and Repeal Act 2004 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1062 and 1063.
+The Taxation Administration (Consequential Provisions) Act 2002 s. 30 & 32 will not come into operation (see s. 2(2))
