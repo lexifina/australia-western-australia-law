@@ -32,3 +32,15 @@ The State Superannuation Amendment Regulations 2006 r. 20(2) reads as follows:
 “
 (2) If a preserved benefit of less than $200 has not been paid because of the operation of regulation 76(4) (as in force before this regulation came into operation), the benefit ceases to be a preserved benefit when this regulation comes into operation even if, at that time, the benefit plus interest on it, is or exceeds $200.
 ”.
+The Superannuation Legislation Amendment and Validation Act 2006 s. 19 reads as follows:
+“
+19.Validation of statutory membership of workers who ceased to be excluded
+(1) A person who —
+(a) when the State Superannuation Regulations 2001 came into operation —
+(i) was a worker; and
+(ii) was excluded from becoming a statutory Member (as defined in those regulations) by the State Superannuation Regulations 2001 regulation 51(2), (3) or (4);
+and
+(b) before the State Superannuation Amendment Regulations 2006 came into operation, ceased to be so excluded,
+is taken to have become a statutory Member when he or she ceased to be so excluded.
+(2) Anything done or purported to have been done under the State Superannuation Regulations 2001 before this Act came into operation in relation to a person to whom subsection (1) applies, is as valid as it would have been if the State Superannuation Amendment Regulations 2006 had come into operation immediately after the State Superannuation Regulations 2001 came into operation.
+”.
