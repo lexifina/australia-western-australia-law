@@ -1,6 +1,6 @@
 Notes
 This Act was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
-This is a compilation of the Superannuation and Family Benefits Act 1938 and includes all amendments effected by the other written laws referred to in the following table.
+This is a compilation of the Superannuation and Family Benefits Act 1938 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short Title | Number and Year | Assent | Commencement | Miscellaneous
 Superannuation and Family Benefits Act 1938 | 34 of 1938 | 31 January 1939 | 1 March 1939 (except where otherwise provided) (see section 2 and Gazette 24 February 1939 p.319)
@@ -142,4 +142,27 @@ Regulation 267(3) of the State Superannuation Regulations 2001 read as follows:
 The State Superannuation Amendment Regulations 2006 r. 30(3) reads as follows:
 “
 (3) If a person became entitled to a widower’s pension before this regulation came into operation (the “commencement day”) section 60D(3c) (as inserted by subregulation (2)) applies in relation to that person as if the contributor or pensioner had died on the commencement day.
+”.
+The Superannuation Legislation Amendment and Validation Act 2006 s. 17 and 20 read as follows:
+“
+17.Validation of certain payments
+(1) In this section —
+“Superannuation Act” means the State Superannuation Act 2000, the Government Employees Superannuation Act 1987 or the Superannuation and Family Benefits Act 1938.
+(2) A payment or purported payment of a benefit under the State Superannuation Act 2000, the Government Employees Superannuation Act 1987 or the Superannuation and Family Benefits Act 1938 that was —
+(a) made before this section came into operation; and
+(b) invalid or ineffective because of the Administration Act 1903 section 10,
+is, and is to be taken always to have been, as valid and effective as it would have been if the State Superannuation Act 2000 section 40, as inserted by section 15 of this Act, had been in operation in respect of each Superannuation Act at the time of the payment.
+(3) If —
+(a) a benefit under the State Superannuation Act 2000, the Government Employees Superannuation Act 1987 or the Superannuation and Family Benefits Act 1938 was paid to an executor or administrator of the estate of a deceased person before this section came into operation; and
+(b) the executor or administrator paid, or purportedly paid, some or all of the benefit to another person before this section came into operation; and
+(c) the payment was invalid or ineffective because of the Administration Act 1903 section 10,
+the executor or administrator is, and is to be taken always to have been, as liable for the payment referred to in paragraph (b) as the executor or administrator would have been if the State Superannuation Act 2000 section 40, as inserted by section 15 of this Act, had been in operation in respect of each Superannuation Act at the time of the payment referred to in paragraph (a).
+20.Validation of certain things done under the Superannuation and Family Benefits Act 1938
+A thing done or purportedly done —
+(a) under the Superannuation and Family Benefits Act 1938 (whether as continued in force by the State Superannuation (Transitional and Consequential Provisions) Act 2000 section 26 or not); and
+(b) before the State Superannuation Amendment Regulations (No. 4) 2003 came into operation,
+is, and is to be taken always to have been, as valid and effective as it would have been if the definition of “department” in the Superannuation and Family Benefits Act 1938 section 6(1) had been amended on 1 January 1997 by inserting after “port authority” —
+“
+, every college (within the meaning of the Vocational Education and Training Act 1996)
+”.
 ”.
