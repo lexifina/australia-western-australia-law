@@ -30,6 +30,7 @@ Reprint of the Industrial Training (Apprenticeship Training) Regulations 1981 as
 Industrial Training (Apprenticeship Training) Amendment Regulations 2005 | 12 Aug 2005 p. 3651-2 | 12 Aug 2005
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 2005 | 18 Nov 2005 p. 5657-9 | 1 Jan 2006 (see r. 2)
 Industrial Training (Apprenticeship Training) Amendment Regulations 2006 | 4 Apr 2006 p. 1401-5 | 1 May 2006 (see r. 2)
+Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 2006 | 26 May 2006 p. 1873-6 | 1 Jun 2006 (see r. 2)
 The definition of “Council” was deleted from s. 4 of the Act by the State Employment and Skills Development Authority Act 1990 s. 45(a)(ii). The definition of “Authority” inserted by s. 45(a)(i) of that Act was deleted by the Vocational Education and Training Act 1996 Sch. 3 cl. 12.
 The Education Regulations 1960 r. 4 referred to the Director of technical education. Those regulations were repealed by the School Education Act 1999 s. 246(2).
 “Approved College” is defined in r. 4 of the Industrial Training (General Apprenticeship) Regulations 1981: see r. 3 of these regulations. The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996 s. 70(1).
@@ -148,4 +149,44 @@ the Director may, before approving the variation, extend the term of the apprent
 (d)plastering (housing);
 (e)wall and ceiling fixing (housing); or
 (f)wall and floor tiling (housing).
+”.
+The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 2006 r. 9 reads as follows:
+“
+9.Transitional
+(1) Subject to this regulation the Industrial Training (Apprenticeship Training) Regulations 1981 as in force immediately before 1 June 2006 continue to apply to and in relation to —
+(a) an apprentice who commenced service in an old trade under an apprenticeship agreement before 1 June 2006; or
+(b) a person who —
+(i) commenced employment as a probationer in an old trade before 1 June 2006; and
+(ii) completes that probationary employment after 1 June 2006; and
+(iii) on completing that probationary employment commences service under an apprenticeship agreement,
+(an “existing probationer”).
+(2) The parties to the apprenticeship agreement of an existing probationer may, with the approval of the Director, agree in the apprenticeship agreement —
+(a) if the probationer was employed in a trade that is also a new trade, that the apprentice is to be employed in the same trade but that the term of the apprenticeship is to be the new term for that trade; or
+(b) that —
+(i) the apprentice is to be employed in a new trade (instead of the old trade in which he or she was employed as a probationer); and
+(ii) the term of the apprenticeship is to be the new term for that new trade.
+(3) If the parties to an apprenticeship agreement agree in the manner described in subregulation (2)(a) or (b), subregulation (1) ceases to apply to and in relation to the apprentice when he or she commences service under the apprenticeship agreement.
+(4) In this regulation —
+“old trade” means —
+(a)Autobody Refinisher; or
+(b)Autobody Repairer; or
+(c)Automotive Electrical Fitting; or
+(d)Engineering Tradesperson (Automotive); or
+(e)Engineering Tradesperson (Fabrication); or
+(f)Engineering Tradesperson (Mechanical); or
+(g)Fuel Injection Fitting; or
+(h)Shipwrighting; or
+(i)Shipwrighting and Boatbuilding; or
+(j)Trimming;
+“new term”, in relation to a trade, means the term prescribed in relation to that trade in the Industrial Training (Apprenticeship Training) Regulations 1981 Schedule 1, as amended by these regulations;
+“new trade” means —
+(a)Automotive Electrician; or
+(b)Automotive Technician; or
+(c)Engineering Tradesperson (Fabrication); or
+(d)Engineering Tradesperson (Mechanical); or
+(e)Panel Beater; or
+(f)Shipwright and Boatbuilder; or
+(g)Vehicle Body Builder; or
+(h)Vehicle Painter; or
+(i)Vehicle Trimmer.
 ”.
