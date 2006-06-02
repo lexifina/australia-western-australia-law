@@ -1,18 +1,19 @@
-## Schedule 3 — Terms of an access offer
-[r. 11(3)]
-In addition to any matters outlined elsewhere in the regulations, an access offer may include terms and conditions of the following kind:
-(a)details of each connection point;
-(b)the contract maximum demand (if any) in respect of each connection;
-(c)if more than one person is selling or purchasing the electricity transferred at the connection, then the mechanism for determining how much of the electricity transferred at that connection is sold or purchased by each of those persons;
-(d)a requirement that the user complies with the provisions of these regulations and the Technical Code;
-(e)any metering arrangements and, if appropriate, a methodology to adjusting losses where the point of metering is significantly different to the connection point;
-(f)the payment conditions;
-(g)if the relevant connection is a new connection, then the date on which payments in respect of the access services are to commence (whether or not the connection is actually commissioned by that date);
-(h)the duration and termination conditions of the proposed access agreement;
-(i)terms and conditions in relation to the carrying out of works to establish a connection;
-(j)testing and commissioning requirements;
-(k)agreed protocols for maintenance coordination;
-(l)provision, installation, operation and maintenance of automatic load shedding facilities;
-(m)circumstances under which the terms of the resulting access agreement would require renegotiation.
-[Schedule 3 amended in Gazette 24 Jun 2005 p. 2754.]
-[Schedule 4 repealed in Gazette 29 Oct 2002 p. 5344.]
+## Part A — Information to be included in an access application
+An access application must contain the following information:
+(a)the name and address of the person making the access application and of any other persons for whom that person is acting in making the access application;
+(b)the type of access services requested, when those access services are required and for how long they will be required;
+(c)the connection points in respect of which access is being applied for and the capacity (expressed in MW) for each of those connection points which access is being applied for;
+(d)the type of plant in respect of which the access services are required and the configuration of that plant;
+(e)where the connection points are to be on the electricity transmission network and any alternative points (in order of preference);
+(f)the expected maximum demand of the plant connected or to be connected at each of the connection points;
+(g)the maximum generation capacity and the proposed declared sent out capacity of the generating units (including embedded generating units) connected or to be connected at each of the connection points;
+(h)the expected electricity production and consumption of the plant connected or to be connected at each of the connection points;
+(i)when the applicant expects the plant to be connected at each of the connection points to be in service (if appropriate);
+(j)details of the controllers of the plant connected or to be connected at each of the connection points;
+(k)the proposed design of each of the connections (if appropriate);
+(l)the arrangements which the applicant proposes to enter into in relation to the construction and supply of the connection in respect of the plant;
+(m)the nature of any disturbing load (size of disturbing component MW/MVAr, duty cycle, nature of power electronic plant which may produce harmonic distortion);
+(n)any information as required by the Technical Code;
+(o)commercial information concerning the applicant to allow the corporation to make an assessment of the ability of the applicant to meet its obligations under any access agreement that results from the access application; and
+(p)any other information reasonably required by the corporation.
+[Part A amended in Gazette 24 Jun 2005 p. 2754; 31 Mar 2006 p. 1337.]
