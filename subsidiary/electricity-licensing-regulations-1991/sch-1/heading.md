@@ -1,6 +1,6 @@
 ## Schedule 1
 [Reg. 64]
-Fees
+## Fees
  | $
 1.Licences and permits under Part 3 —
 (a)Application for licence or permit .................. | 33
