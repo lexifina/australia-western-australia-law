@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Occupational Safety and Health Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 June 2006 of the Occupational Safety and Health Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Occupational Safety and Health Regulations 1996 | 27 Sep 1996 p. 4837-5080 | 1 Oct 1996 (see r. 1.2)
@@ -44,6 +44,8 @@ Occupational Safety and Health Amendment Regulations (No. 10) 2005 | 18 Nov 2005
 Occupational Safety and Health Amendment Regulations (No. 11) 2005 | 9 Dec 2005 p. 5897-8 | 9 Dec 2005
 Occupational Safety and Health Amendment Regulations (No. 12) 2005 | 23 Dec 2005 p. 6294-5 | 23 Dec 2005
 Occupational Safety and Health Amendment Regulations (No. 6) 2005 | 6 Jan 2006 p. 11-12 | 6 Jan 2006
-Electricity Corporations (Consequential Amendments) Regulations 2006 r. 83 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
+Electricity Corporations (Consequential Amendments) Regulations 2006 r. 83 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
+Reprint 5: The Occupational Safety and Health Regulations 1996 as at 2 Jun 2006 (includes amendments listed above)
+Repealed by the Health (Smoking in Enclosed Public Places) Regulations 2003.
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
-The amendment in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) referring to r. 3.88 does not have effect because that regulation was replaced by the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
+The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
