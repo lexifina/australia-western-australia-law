@@ -1,11 +1,10 @@
-## Seventh Schedule
+## Ninth Schedule
 METROPOLITAN WATER SUPPLY, SEWERAGE, AND DRAINAGE ACT 1909, AND AMENDMENTS
 . . . . . . . . . . . . . . . District
-Notice of Intention to Let Land for Non-payment of Water Charges
-To
-Notice is hereby given that the sum of dollars and cents is now due and unpaid to the Water Corporation for [specify, as the case may be] and interest thereon in respect of allotment No. , of section [or portion] No. , situated in street [or road or other situation setting out a sufficient description of the land to identify it.]
-Payment of the said sum is hereby demanded.
-If the said sum is not paid within 3 months from the date of this notice the Water Corporation will take possession of and lease the said land, under the provisions of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909, and amendments.
+Notice Under Section 138
+Possession has been taken of this land, being allotment No. of section [or portion] No. [here describe situation of land], by the Water Corporation in accordance with the provisions of the abovementioned Act, and it is to be let on lease.
 Water Corporation
-. . . . . . . . . . . . . . . , 20 . . .
-[Seventh Schedule amended by No. 39 of 1963 s. 153; No. 113 of 1965 s. 4(1); No. 37 of 1982 s. 60; No. 25 of 1985 s. 82; No. 24 of 1987 s. 56; No. 73 of 1995 s. 107.]
+. . . . . . . . . . . . . . . 20 . . .
+[Ninth Schedule amended by No. 39 of 1963 s. 155; No. 37 of 1982 s. 60; No. 25 of 1985 s. 82; No. 73 of 1995 s. 107.]
+[Tenth-Twelfth Schedules repealed by No. 59 of 2004 s. 141.]
+[Thirteenth Schedule deleted by No. 39 of 1963 s. 159.]
