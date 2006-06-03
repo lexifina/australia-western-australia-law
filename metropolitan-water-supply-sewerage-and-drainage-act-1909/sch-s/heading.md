@@ -3,3 +3,4 @@
 [Second Schedule repealed by No. 14 of 1967 s. 63.]
 [Third Schedule repealed by No. 37 of 1982 s. 59.]
 [Fourth-Sixth Schedules repealed by No. 76 of 1978 s. 136.]
+[Seventh, Eighth Schedules repealed by No. 25 of 2005 s. 52.]

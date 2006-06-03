@@ -62,12 +62,12 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 82 | 74 of 2003 | 15 Dec 200
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 84 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 9: The Metropolitan Water Supply, Sewerage, and Drainage Act 1909 as at 17 Feb 2006 (includes amendments listed above)
+Water Legislation Amendment (Competition Policy) Act 2005 s. 37-52 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
+Reprint 9: The Metropolitan Water Supply, Sewerage, and Drainage Act 1909 as at 17 Feb 2006 (includes amendments listed above except those in the Water Legislation Amendment (Competition Policy) Act 2005)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Water Legislation Amendment (Competition Policy) Act 2005 Pt. 5 | 25 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Under the Public Sector Management Act 1994 the names of departments can be changed. At the time of this reprint the former Department of Lands is called the Department of Land Information and its administrative head is called the chief executive officer.
 Repealed by the Metropolitan Water Supply, Sewerage, and Drainage Act Amendment Act 1963 s. 129.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 5 and 8.
@@ -92,78 +92,5 @@ s. 57D(2) | Delete “Clerk of the Local Court to which the appeal is made” an
 s. 57D(3) | Delete “Local Court” and insert instead — “ Magistrates Court ”. Delete the comma after paragraph (c) and the rest of the subsection and insert instead a full stop.
 s. 57D(4) s. 57D(5) | In each provision, delete “Local Court” and insert instead — “ Magistrates Court ”.
 ”.
-On the date as at which this reprint was prepared, the Water Legislation Amendment (Competition Policy) Act 2005 Pt. 5 had not come into operation. It reads as follows:
-“
-Part 5 — Metropolitan Water Supply, Sewerage, and Drainage Act 1909
-36.The Act amended
-The amendments in this Part are to the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 unless otherwise stated.
-37.Section 5 amended
-Section 5(1) is amended after the definition of “prescribed” by inserting the following definition —
-“
-“Registrar of Deeds” means the Registrar of Deeds and Transfers under the Registration of Deeds Act 1856;
-”.
-38.Section 15 amended
-Section 15 is amended by deleting “or the Corporation”.
-39.Section 63 amended
-Section 63(1) is amended by deleting “forfeit and pay” and inserting instead —
-“ be liable to ”.
-40.Section 64 amended
-(1) Section 64(2) is amended by deleting “$80,” and inserting instead —
-“ $1 000, ”.
-(2) Section 64(4) is amended by deleting “$40.” and inserting instead —
-“ $500. ”.
-41.Section 68 amended
-Section 68 is amended by deleting “forfeit for every such offence a sum not exceeding $1 000 over and above” and inserting instead —
-“
-be liable for every such offence to a penalty not exceeding $1 000 and shall, in addition, be liable to pay to the Corporation
-”.
-42.Section 69 amended
-Section 69 is amended as follows:
-(a) by deleting “exceeding $2 000,” and inserting instead —
-“
-exceeding —
-(a) for an individual — $10 000; or
-(b) for a body corporate — $20 000,
-”;
-(b) by deleting “ascertained, determined, and recovered in the same manner as such forfeited sum.” and inserting instead —
-“
-recoverable as a debt in a court of competent jurisdiction.
-”.
-43.Section 109 amended
-Section 109 is amended by deleting “or by sale as hereinafter mentioned,”.
-44.Section 112 inserted
-Part VIII is amended by inserting after the heading before section 113 the following section —
-“
-112.Application and expiry of this Division
-(1) Notice cannot be given under section 114(1) after section 44 of the Water Legislation Amendment (Competition Policy) Act 2005 comes into operation.
-(2) For the purposes of this section, the time when notice is given under section 114(1) is when —
-(a) it has been given to every person to whom that provision requires it to be given; and
-(b) it has been affixed upon the relevant land as required by section 114(3).
-(3) When there is no longer any old section 114(1) notice in relation to which the other sections of this Division have any further effect, the Minister is required to publish a notice in the Government Gazette stating that this Division expires at the end of the day on which the notice is published in the Government Gazette.
-(4) This Division expires as stated in the Minister’s notice under subsection (3).
-(5) In this section —
-“old section 114(1) notice” means a notice that was given under section 114(1) at the time of, or before, the coming into operation of section 44 of the Water Legislation Amendment (Competition Policy) Act 2005;
-“this Division” means this section and sections 113 to 117 and the heading before this section.
-”.
-45.Section 124A repealed and heading deleted
-Section 124A is repealed and the heading before that section is deleted.
-46.Section 146 amended
-Section 146(1)(20) is amended by deleting “Corporation; and prohibiting the sale by any person to whom water is supplied bythe Corporation of water supplied, except with the authority in writing of the Corporation.” and inserting instead —
-“ Corporation. ”.
-47.Section 156 amended
-Section 156 is amended in the penalty provision by deleting “$500.” and inserting instead —
-“ $5 000. ”.
-48.Section 157 amended
-Section 157 is amended in the penalty provision by deleting “$1 000.” and inserting instead —
-“ $10 000. ”.
-49.Section 158 amended
-Section 158 is amended by deleting “or the Corporation”.
-50.Section 158A amended
-Section 158A is amended by deleting “$200 and if the offence is a continuing one to a further fine not exceeding $20 for every day or part of a day during which the offence has continued.” and inserting instead —
-“ $10 000. ”.
-51.Section 160 amended
-Section 160 is amended by deleting “or the Corporation” in the 3 places where it occurs.
-52.Seventh and Eighth Schedules repealed
-The Seventh Schedule and the Eighth Schedule are repealed.
-”.
+Footnote no longer applicable.
 The amendment to s. 57D by the Courts Legislation Amendment and Repeal Act 2004 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 273.

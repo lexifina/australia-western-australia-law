@@ -1,56 +1,56 @@
 Notes
 This is a compilation of the Rights in Water and Irrigation Act 1914 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Short title | Number and year | Assent | Commencement | Miscellaneous
-Rights in Water and Irrigation Act 1914 | 19 of 1914 | 22 September 1914 | 22 September 1914
-Ministers’ Titles Act 1925 | 8 of 1925 | 24 September 1925 | 24 September 1925
-Limitation Act 1935, section 48A | 35 of 1935 (as amended by No. 73 of 1954 section 8) | 7 January 1936 | 1 March 1955 (see section 2 of Act No. 73 of 1954 and Gazette 18 February 1955 p.343)
-Rights in Water and Irrigation Act Amendment Act 1939 | 16 of 1939 | 22 November 1939 | 22 November 1939
-Rights in Water and Irrigation Act Amendment Act 1941 | 32 of 1941 | 16 December 1941 | 16 December 1941
+Short title | Number and year | Assent | Commencement
+Rights in Water and Irrigation Act 1914 | 19 of 1914 | 22 Sep 1914 | 22 Sep 1914
+Ministers’ Titles Act 1925 | 8 of 1925 | 24 Sep 1925 | 24 Sep 1925
+Limitation Act 1935, section 48A | 35 of 1935 (as amended by No. 73 of 1954 section 8) | 7 Jan 1936 | 1 Mar 1955 (see section 2 of Act No. 73 of 1954 and Gazette 18 Feb 1955 p.343)
+Rights in Water and Irrigation Act Amendment Act 1939 | 16 of 1939 | 22 Nov 1939 | 22 Nov 1939
+Rights in Water and Irrigation Act Amendment Act 1941 | 32 of 1941 | 16 Dec 1941 | 16 Dec 1941
 Reprint of the Rights in Water and Irrigation Act 1914 in Volume 2 of Reprinted Acts (includes amendments listed above)
-Rights in Water and Irrigation Act Amendment Act 1945 | 3 of 1945 | 18 October 1945 | 18 October 1945
-Rights in Water and Irrigation Act Amendment Act 1949 | 9 of 1949 | 14 September 1949 | 14 September 1949
-Rights in Water and Irrigation Act Amendment Act 1951 | 18 of 1951 | 26 November 1951 | 26 November 1951
+Rights in Water and Irrigation Act Amendment Act 1945 | 3 of 1945 | 18 Oct 1945 | 18 Oct 1945
+Rights in Water and Irrigation Act Amendment Act 1949 | 9 of 1949 | 14 Sep 1949 | 14 Sep 1949
+Rights in Water and Irrigation Act Amendment Act 1951 | 18 of 1951 | 26 Nov 1951 | 26 Nov 1951
 Reprint of the Rights in Water and Irrigation Act 1914 approved 6 Sep 1960 in Volume 15 of Reprinted Acts (includes amendments listed above)
-Rights in Water and Irrigation Act Amendment Act 1962 | 70 of 1962 | 30 November 1962 | 1 March 1963 (see section 2 and Gazette 1 March 1963 p.748)
-Rights in Water and Irrigation Act Amendment Act 1964 | 31 of 1964 | 4 November 1964 | 4 November 1964
-Decimal Currency Act 1965, sections 4-9 | 113 of 1965 | 21 December 1965 | 14 February 1966 (see section 2(2)); balance: 21 December 1965
-Rights in Water and Irrigation Act Amendment Act 1971 | 46 of 1971 | 10 December 1971 | 10 December 1971
-Metric Conversion Act 1972 | 94 of 1972 (The Second Schedule was inserted by No. 19 of 1973) | 4 December 1972 | The relevant amendments as set out in the Second Schedule, took effect on 1 May 1974 (see section 4(2) and Gazette 26 April 1974 p.1393)
+Rights in Water and Irrigation Act Amendment Act 1962 | 70 of 1962 | 30 Nov 1962 | 1 Mar 1963 (see section 2 and Gazette 1 Mar 1963 p.748)
+Rights in Water and Irrigation Act Amendment Act 1964 | 31 of 1964 | 4 Nov 1964 | 4 Nov 1964
+Decimal Currency Act 1965, sections 4-9 | 113 of 1965 | 21 Dec 1965 | 14 Feb 1966 (see section 2(2)); balance: 21 Dec 1965
+Rights in Water and Irrigation Act Amendment Act 1971 | 46 of 1971 | 10 Dec 1971 | 10 Dec 1971
+Metric Conversion Act 1972 | 94 of 1972 (The Second Schedule was inserted by No. 19 of 1973) | 4 Dec 1972 | The relevant amendments as set out in the Second Schedule, took effect on 1 May 1974 (see section 4(2) and Gazette 26 Apr 1974 p.1393)
 Reprint of the Rights in Water and Irrigation Act 1914 approved 12 Aug 1974 (includes amendments listed above)
-Rights in Water and Irrigation Act Amendment Act 1974 | 48 of 1974 (as amended by No. 100 of 1976) | 26 November 1974 | 18 February 1977 (see section 2 and Gazette 18 February 1977 p.468)
-Acts Amendment and Repeal (Valuation of Land) Act 1978, Part XII | 76 of 1978 | 20 October 1978 | 1 July 1979 (see section 2 and Gazette 11 May 1979 p.1211)
-Rights in Water and Irrigation Act Amendment Act 1978 | 98 of 1978 (as amended by No. 119 of 1984 ss. 20-22; No. 74 of 2003 s. 104) | 17 November 1978 | s. 1, 2, 8, 9, 14, 36 and 37: 19 January 1979 (see s. 2 and Gazette 19 Jan 1979 p.114); s. 3 and 15-35 repealed by No. 74 of 2003 s. 104
-Acts Amendment (Statutory Designations) and Validation Act 1981, section 4 | 63 of 1981 | 13 October 1981 | 13 October 1981 | Section 5: validation
-Rights in Water and Irrigation Amendment Act 1984 | 119 of 1984 | 27 December 1984 | 15 February 1985 (see section 2 and Gazette 15 February 1985 p.574)
-Acts Amendment and Repeal (Water Authorities) Act 1985, Part IX | 25 of 1985 | 6 May 1985 | 1 July 1985 (see section 2 and Gazette 7 June 1985 p.1931)
-Commercial Arbitration Act 1985, section 3 | 109 of 1985 | 7 January 1986 | 1 April 1986 (see section 2 and Gazette 28 February 1986 p.605)
-Acts Amendment (Water Authorities) Act 1985, Part VIII | 110 of 1985 | 17 December 1985 | Sections 119-129, 131-133(b), and 134: 14 March 1986; balance: 1 July 1986 (see section 2 and Gazette 14 March 1986 p.726)
+Rights in Water and Irrigation Act Amendment Act 1974 | 48 of 1974 (as amended by No. 100 of 1976) | 26 Nov 1974 | 18 Feb 1977 (see section 2 and Gazette 18 Feb 1977 p.468)
+Acts Amendment and Repeal (Valuation of Land) Act 1978, Part XII | 76 of 1978 | 20 Oct 1978 | 1 Jul 1979 (see section 2 and Gazette 11 May 1979 p.1211)
+Rights in Water and Irrigation Act Amendment Act 1978 | 98 of 1978 (as amended by No. 119 of 1984 ss. 20-22; No. 74 of 2003 s. 104) | 17 Nov 1978 | s. 1, 2, 8, 9, 14, 36 and 37: 19 Jan 1979 (see s. 2 and Gazette 19 Jan 1979 p.114); s. 3 and 15-35 repealed by No. 74 of 2003 s. 104
+Acts Amendment (Statutory Designations) and Validation Act 1981, section 4 | 63 of 1981 | 13 Oct 1981 | 13 Oct 1981
+Rights in Water and Irrigation Amendment Act 1984 | 119 of 1984 | 27 Dec 1984 | 15 Feb 1985 (see section 2 and Gazette 15 Feb 1985 p.574)
+Acts Amendment and Repeal (Water Authorities) Act 1985, Part IX | 25 of 1985 | 6 May 1985 | 1 Jul 1985 (see section 2 and Gazette 7 Jun 1985 p.1931)
+Commercial Arbitration Act 1985, section 3 | 109 of 1985 | 7 Jan 1986 | 1 Apr 1986 (see section 2 and Gazette 28 Feb 1986 p.605)
+Acts Amendment (Water Authorities) Act 1985, Part VIII | 110 of 1985 | 17 Dec 1985 | Sections 119-129, 131-133(b), and 134: 14 Mar 1986; balance: 1 July 1986 (see section 2 and Gazette 14 Mar 1986 p.726)
 Reprint of the Rights in Water and Irrigation Act 1914 as at 23 Oct 1986 (includes amendments listed above except those in the Rights in Water and Irrigation Act Amendment Act 1978 sections 3 & 15-35)
-Acts Amendment and Repeal (Environmental Protection) Act 1986, Part VI | 77 of 1986 | 4 December 1986 | 20 February 1987 (see section 2 and Gazette 20 February 1987 p.440)
-Acts Amendment (Water Authority Rates and Charges) Act 1987, Part VI | 24 of 1987 | 25 June 1987 | 14 July 1987 (see section 2 and Gazette 14 July 1987 p.2647) | Section 167 savings and transitional
-Financial Administration Legislation Amendment Act 1993, section 11 | 6 of 1993 | 27 August 1993 | Deemed operative 1 July 1993 (see section 2(1))
-Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995, Part 8 | 73 of 1995 | 27 December 1995 | 1 January 1996 (see section 2 and Gazette 29 December 1995 p.6291) | Part 14 transitional
-Sentencing (Consequential Provisions) Act 1995, section 112 | 78 of 1995 | 16 January 1996 | 4 November 1996 (see section 2 and Gazette 25 October 1996 p.5632)
+Acts Amendment and Repeal (Environmental Protection) Act 1986, Part VI | 77 of 1986 | 4 Dec 1986 | 20 Feb 1987 (see section 2 and Gazette 20 Feb 1987 p.440)
+Acts Amendment (Water Authority Rates and Charges) Act 1987, Part VI | 24 of 1987 | 25 Jun 1987 | 14 Jul 1987 (see section 2 and Gazette 14 Jul 1987 p.2647)
+Financial Administration Legislation Amendment Act 1993, section 11 | 6 of 1993 | 27 Aug 1993 | Deemed operative 1 Jul 1993 (see section 2(1))
+Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995, Part 8 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see section 2 and Gazette 29 Dec 1995 p.6291)
+Sentencing (Consequential Provisions) Act 1995, section 112 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see section 2 and Gazette 25 Oct 1996 p.5632)
 Reprinted as at 2 Apr 1996 (includes amendments listed above except those in the Sentencing (Consequential Provisions) Act 1995)
-Local Government (Consequential Amendments) Act 1996, section 4 | 14 of 1996 | 28 June 1996 | 1 July 1996 (see section 2)
-Financial Legislation Amendment Act 1996, section 64 | 49 of 1996 | 25 October 1996 | 25 October 1996 (see section 2(1))
-Transfer of Land Amendment Act 1996, section 153(1) | 81 of 1996 | 14 November 1996 | 14 November 1996 (see section 2(1))
-Acts Amendment (Land Administration) Act 1997, Part 52 | 31 of 1997 | 3 October 1997 | 30 March 1998 (see section 2 and Gazette 27 March 1998 p.1765)
-Water Legislation Amendment Act 1997, Part 4 | 32 of 1997 | 3 October 1997 | 15 April 1998 (see section 2 and Gazette 15 April 1998 p.2041)
-Statutes (Repeals and Minor Amendments) Act 1997, section 105 | 57 of 1997 | 15 December 1997 | 15 December 1997 (see section 2)
-Statutes (Repeals and Minor Amendments) Act (No. 2) 1998, section 63 | 10 of 1998 | 30 April 1998 | 30 April 1998 (see section 2(1))
-Rights in Water and Irrigation Amendment Act 2000 | 49 of 2000 | 28 November 2000 | 10 January 2001 (see section 2 and Gazette 10 January 2001 p.163) | Part 8: transitional
+Local Government (Consequential Amendments) Act 1996, section 4 | 14 of 1996 | 28 June 1996 | 1 Jul 1996 (see section 2)
+Financial Legislation Amendment Act 1996, section 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see section 2(1))
+Transfer of Land Amendment Act 1996, section 153(1) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see section 2(1))
+Acts Amendment (Land Administration) Act 1997, Part 52 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see section 2 and Gazette 27 Mar 1998 p.1765)
+Water Legislation Amendment Act 1997, Part 4 | 32 of 1997 | 3 Oct 1997 | 15 Apr 1998 (see section 2 and Gazette 15 Apr 1998 p.2041)
+Statutes (Repeals and Minor Amendments) Act 1997, section 105 | 57 of 1997 | 15 December 1997 | 15 Dec 1997 (see section 2)
+Statutes (Repeals and Minor Amendments) Act (No. 2) 1998, section 63 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see section 2(1))
+Rights in Water and Irrigation Amendment Act 2000 | 49 of 2000 | 28 Nov 2000 | 10 Jan 2001 (see section 2 and Gazette 10 Jan 2001 p.163)
 Reprint of the Rights in Water and Irrigation Act 1914 as at 10 Jan 2001 (includes amendments listed above)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 91 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 103 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 114 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+Water Legislation Amendment (Competition Policy) Act 2005 Pt. 6 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and are not included in this compilation. For the text of the provisions see the endnote referred to after the short title.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Sentencing (Consequential Provisions) Act 1995 Pt. 70 | 78 of 1995 | 16 Jan 1996 | To be proclaimed (see s. 2)
-Water Legislation Amendment (Competition Policy) Act 2005 Pt. 6 | 25 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 NB:The Rights in Water and Irrigation Act 1914 is affected by the Soil and Land Conservation Act 1945 section 3, and the Water Agencies (Powers) Act 1984 section 5.
 NB:This Act is affected by Orders published in Gazette 31 May 1985 p. 1897 and 21 June 1985 p. 2240.
 Now cited as the Water Agencies (Powers) Act 1984.
@@ -164,12 +164,4 @@ the Tribunal may exercise the power referred to in the Rights in Water and Irrig
 (3) If the Corporation receives, before the commencement day, a notice in accordance with the RWI Act section 39F(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the relevant entry to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the RWI Act section 39F(1).
 (4) If the Corporation receives, before the commencement day, a notice in accordance with the RWI Act section 39G(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the decision to refuse to extend time to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the RWI Act section 39G(1).
 (5) If a notice has been given under the RWI Act section 39E(7) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
-”.
-On the date as at which this compilation was prepared, the Water Legislation Amendment (Competition Policy) Act 2005 Pt. 6 had not come into operation. It reads as follows:
-“
-Part 6 — Rights In Water and Irrigation Act 1914
-54.The Act amended
-The amendment in this Part is to the Rights in Water and Irrigation Act 1914.
-55.Section 73 amended
-Section 73 is amended by deleting “or the Corporation”.
 ”.

@@ -28,11 +28,8 @@ Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2
 Statutes (Repeals and Minor Amendments) Act 2003 s. 125 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 571 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Water Legislation Amendment (Competition Policy) Act 2005 Pt. 7 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2005 p. 1985)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Water Legislation Amendment (Competition Policy) Act 2005 s. 56-60(1), 61-62 | 25 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 N.B.This Act is affected by the Strata Titles Act 1985 (No. 33 of 1985).
 Now see Public Sector Management Act 1994 (No. 31 of 1994).
 Section 13 of the Acts Amendment (Water Authorities) Act 1985 (No. 110 of 1985) reads as follows —
@@ -326,43 +323,8 @@ Section 4 of the Acts Amendment (Water Authority Rates and Charges) Act 1987 rea
 The amendments effected by this part are of no effect in relation to the Land Drainage Act 1925 or the doing of anything under or for the purposes of that Act and the principal Act applies in relation thereto as if this Part had not been enacted.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Water Legislation Amendment (Competition Policy) Act 2005 56-60(1), 61-62 had not come into operation. It reads as follows:
+The Water Legislation Amendment (Competition Policy) Act 2005 s. 62(2) and (3) read as follows:
 “
-Part 7 — Water Agencies (Powers) Act 1984
-56.The Act amended
-The amendments in this Part are to the Water Agencies (Powers) Act 1984.
-57.Section 41 amended
-(1) Section 41(1)(g) is amended as follows:
-(a) by deleting “, notwithstanding the limits imposed by sections 41A and 41B,”;
-(b) by deleting “, subject to those limits,”.
-(2) Section 41(1)(k) is amended by deleting “but subject to section 41A,”.
-58.Section 41A repealed
-Section 41A is repealed.
-59.Section 41B repealed
-Section 41B is repealed.
-60.Part III Division 2 inserted and consequential amendment to Water Services Licensing Act 1995
-(1) After Part III Division 1A the following Division is inserted —
-“
-Division 2 — Agreements as to charges
-42.Agreements for different liability
-(1) The Corporation and a person who would be liable to pay a statutory charge (the “customer”) may agree that, instead of becoming liable to pay a statutory charge described in the agreement, the customer will become liable as specified in the agreement.
-(2) The agreement may provide for statutory charge provisions identified in the agreement to apply, with any modifications that may be agreed, in relation to the customer’s agreed liability.
-(3) The agreement has effect according to its terms, except that a person who is not bound by the agreement cannot be placed in a less favourable position than the person would have been in if the agreement had not been made.
-(4) In this section —
-“agreed liability” means the customer’s liability under the agreement that is instead of liability to pay the statutory charge;
-“statutory charge” means a charge under Division 1A relating to the provision by the Corporation of water services in relation to land;
-“statutory charge provisions” means provisions of this Act or a relevant Act that would have applied in relation to the customer’s liability to pay a statutory charge if the customer’s agreed liability had not been substituted for it.
-”.
-61.Section 75 amended
-Section 75(1) is amended as follows:
-(a) by deleting “seeks to acquire” and inserting instead —
-“ seeks the acquisition of ”;
-(b) by deleting “Commission or the Corporation may, subject to section 81(11), acquire such lesser estate or interest and shall not be required to acquire” and inserting instead —
-“
-lesser estate or interest may, subject to section 81(11), be acquired instead of acquiring
-”.
-62.Section 81 amended and transitional
-(1) Section 81(4), (5), (6), (7), (8), (9), (10), (11), (12), and (13) are amended by deleting “or the Corporation” in each place where it occurs.
 (2) Any procedure that —
 (a) has begun under the Water Agencies (Powers) Act 1984 section 81 in relation to —
 (i) the acquisition by the Corporation of land or an estate or interest in land; or

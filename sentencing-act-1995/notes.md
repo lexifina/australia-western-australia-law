@@ -38,11 +38,11 @@ Community Protection (Offender Reporting) Act 2004 s. 116 | 72 of 2004 | 8 Dec 2
 Architects Act 2004 s. 80 | 75 of 2004 | 8 Dec 2004 | 16 Nov 2005 (see s. 2 and Gazette 15 Nov 2005 p. 5597)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 13 and s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 4: The Sentencing Act 1995 as at 12 Aug 2005 (includes amendments listed above except those in the Sentencing Legislation Amendment Act 2004 and the Architects Act 2004)
+Water Legislation Amendment (Competition Policy) Act 2005 s. 53 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Criminal Property) Act 2004 Pt. 3 | 26 of 2004 | 7 Oct 2004 | To be proclaimed (see s. 2(2))
-Water Legislation Amendment (Competition Policy) Act 2005 s. 53 | 25 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
 The Sentencing Act 1995 s. 19 and Pt. 12 did not come into operation and was repealed by the Criminal Law Amendment Act (No. 2) 1998 s. 17 and 18.
@@ -217,12 +217,4 @@ Section 16(1)(f) is amended by deleting “forfeiture to Crown” and inserting 
 confiscation or forfeiture to the Crown (otherwise than under the Criminal Property Confiscation Act 2000)
 ”.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Water Legislation Amendment (Competition Policy) Act 2005 s. 53 had not come into operation. It reads as follows:
-“
-53.Sentencing Act 1995 amended
-(1) The amendments in this section are to the Sentencing Act 1995.
-(2) Schedule 1 is amended as follows:
-(a) by deleting the item relating to the Metropolitan Water Authority Act 1982;
-(b) by deleting the item relating to the Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
-”.
+The amendments in the Sentencing Legislation Amendment Act 2004 s. 6(4) erroneously referred to section 75(3) and (5) as “73(3) and (5)” when identifying where the required amendments were to be made.

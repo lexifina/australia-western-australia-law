@@ -19,8 +19,6 @@ Health Act 1911 | The local government by or on whose behalf the prosecution was
 Land Drainage Act 1925 | Water Corporation.
 Litter Act 1979 | Keep Australia Beautiful Council (W.A.) Fund or as provided by section 31 of that Act.
 Medical Act 1894 | Medical Board.
-Metropolitan Water Authority Act 1982 | Water Corporation.
-Metropolitan Water Supply, Sewerage, and Drainage Act 1909 | Water Corporation or the Water and Rivers Commission, as the case may require.
 Murdoch University Act 1973 | Senate of the Murdoch University.
 National Trust of Australia (W.A.) Act 1964 | The National Trust of Australia (W.A.).
 Painters’ Registration Act 1961 | Painters’ Registration Board.
@@ -38,4 +36,4 @@ Western Australian College of Teaching Act 2004 | Western Australian College of 
 Western Australian Greyhound Racing Association Act 1981 | Western Australian Greyhound Racing Association Fund.
 Workers’ Compensation and Injury Management Act 1981 | Workers’ Compensation and Injury Management General Fund.
 Zoological Parks Authority Act 2001 | Zoological Parks Authority
-[Schedule 1 amended by No. 59 of 1995 s. 88; No. 23 of 1998 s. 20; No. 42 of 1998 s. 38; No. 53 of 1998 s. 56; No. 5 of 1999 s. 21; No. 16 of 1999 s. 7(5); No. 24 of 2001 s. 47; No. 35 of 2003 s. 221(4); No. 8 of 2004 s. 88; No. 40 of 2004 s. 18; No. 42 of 2004 s. 169 and 174; No. 75 of 2004 s. 80; No. 84 of 2004 s. 64.]
+[Schedule 1 amended by No. 59 of 1995 s. 88; No. 23 of 1998 s. 20; No. 42 of 1998 s. 38; No. 53 of 1998 s. 56; No. 5 of 1999 s. 21; No. 16 of 1999 s. 7(5); No. 24 of 2001 s. 47; No. 35 of 2003 s. 221(4); No. 8 of 2004 s. 88; No. 40 of 2004 s. 18; No. 42 of 2004 s. 169 and 174; No. 75 of 2004 s. 80; No. 84 of 2004 s. 64; No. 25 of 2005 s. 53.]

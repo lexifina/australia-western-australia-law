@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 April 2006 of the Country Areas Water Supply Act 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Country Areas Water Supply Act 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Country Areas Water Supply Act 1947 | 62 of 1947 | 10 Jan 1948 | 1 Jan 1949 (see s. 1 and Gazette 24 Dec 1948 p. 3038-9)
@@ -51,11 +51,8 @@ Rights in Water and Irrigation Amendment Act 2000 s. 83 | 49 of 2000 | 28 Nov 20
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 28 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 7: The Country Areas Water Supply Act 1947 as at 7 Apr 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Legislation Amendment (Competition Policy) Act 2005 s. 3-7(3), 8-14 | 25 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Water Legislation Amendment (Competition Policy) Act 2005 Pt. 2 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
+Reprint 7: The Country Areas Water Supply Act 1947 as at 7 Apr 2006 (includes amendments listed above except those listed in the Water Legislation Amendment (Competition Polity) Act 2005)
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by section 4 of this Act.
@@ -78,65 +75,4 @@ The State Administrative Tribunal Regulations 2004 r. 43 reads as follows:
 (2) If the Corporation receives, before the commencement day, a notice in accordance with the CWS Act section 59(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the relevant entry in the records to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the CWS Act section 59(1).
 (3) If the Corporation receives, before the commencement day, a notice in accordance with the CWS Act section 60(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the decision to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the CWS Act section 60(1).
 (4) If a notice has been given under the CWS Act section 58(7) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
-”.
-On the date as at which this reprint was prepared, the Water Legislation Amendment (Competition Policy) Act 2005 s. 3-7(3) and 8-14 had not come into operation. They read as follows:
-“
-Part 2 — Country Areas Water Supply Act 1947
-3.The Act amended
-The amendments in this Part are to the Country Areas Water Supply Act 1947 unless otherwise stated.
-4.Section 5 amended
-Section 5(1) is amended after the definition of “prescribed” by inserting the following definition —
-“
-“Registrar of Deeds” means the Registrar of Deeds and Transfers under the Registration of Deeds Act 1856;
-”.
-5.Section 14 amended
-Section 14(1) is amended by deleting all of the subsection after “in addition to the powers conferred by those Acts,” and inserting instead —
-“
-the powers conferred by the Public Works Act 1902 except that the Public Works Act 1902 is to be read and construed as though —
-(a) a reference in it to the Minister administering that Act were a reference to the Corporation; and
-(b) the provisions of the Water Agencies (Powers) Act 1984 relating to entry onto land and the giving of notice had effect in substitution for the provisions of Part 9 of the Land Administration Act 1997 relating to those matters, in relation to the construction of public works under the Public Works Act 1902.
-”.
-6.Section 38 amended
-Section 38(2) is repealed.
-7.Section 71 repealed and consequential amendments (including to Water Services Licensing Act 1995)
-(1) Section 71 is repealed.
-(2) Section 115(1) is amended in Table 2 by deleting “71(2)”.
-(3) Section 115(3) is amended by deleting “, 71”.
-8.Section 81 amended
-Section 81 is amended by deleting “or by sale as hereinafter mentioned,”.
-9.Section 82 repealed and consequential amendment
-(1) Section 82 is repealed.
-(2) Section 115(1) is amended in Table 2 by deleting “82”.
-10.Section 83 inserted
-Part VII Division 2 is amended by inserting before section 84 the following section —
-“
-83.Application and expiry of this Division
-(1) Notice cannot be given under section 85(1) after section 10 of the Water Legislation Amendment (Competition Policy) Act 2005 comes into operation.
-(2) For the purposes of this section, the time when notice is given under section 85(1) is when —
-(a) it has been given to every person to whom that provision requires it to be given; and
-(b) it has been affixed upon the relevant land as required by section 85(2).
-(3) When there is no longer any old section 85(1) notice in relation to which the other sections of this Division have any further effect, the Minister is required to publish a notice in the Government Gazette stating that this Division expires at the end of the day on which the notice is published in the Government Gazette.
-(4) In subsection (3) —
-“old section 85(1) notice” means a notice that was given under section 85(1) at the time of, or before, the coming into operation of section 10 of the Water Legislation Amendment (Competition Policy) Act 2005.
-(5) This Division expires as stated in the Minister’s notice under subsection (3).
-”.
-11.Section 88A inserted
-Part VII Division 3 is amended by inserting before section 89 the following section —
-“
-88A.Application and expiry of this Division
-(1) Notice cannot be given under section 90 after section 11 of the Water Legislation Amendment (Competition Policy) Act 2005 comes into operation.
-(2) For the purposes of this section, the time when notice is given under section 90 is when all of the notice requirements of that section have been satisfied.
-(3) When there is no longer any old section 90 notice in relation to which the other sections of this Division have any further effect, the Minister is required to publish a notice in the Government Gazette stating that this Division expires at the end of the day on which the notice is published in the Government Gazette.
-(4) In subsection (3) —
-“old section 90 notice” means a notice that was given under section 90 at the time of, or before, the coming into operation of section 11 of the Water Legislation Amendment (Competition Policy) Act 2005.
-(5) This Division expires as stated in the Minister’s notice under subsection (3).
-”.
-12.Section 112 amended
-Section 112 is amended by deleting “$500.” and inserting instead —
-“ $5 000. ”.
-13.Section 113 amended
-Section 113(1) is amended by deleting “$4 000 or imprisonment for 12 months.” and inserting instead —
-“ $10 000. ”.
-14.Section 114 amended
-Section 114 is amended by deleting “or the Corporation”.
 ”.
