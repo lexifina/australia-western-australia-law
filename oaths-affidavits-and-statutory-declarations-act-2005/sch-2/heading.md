@@ -16,6 +16,7 @@ Item | Formal description | Informal description
 13. | A member of the Australian Defence Force who is — •an officer within the meaning of the Defence Force Discipline Act 1982 of the Commonwealth; •a non-commissioned officer within the meaning of that Act with 5 or more years of continuous service; or •a warrant officer within the meaning of that Act. | Defence force officer
 14. | A dentist within the meaning of the Dental Act 1939. | Dentist
 15. | A medical practitioner within the meaning of the Medical Act 1894. | Doctor
+15A. | A person appointed under the Parliamentary and Electorate Staff (Employment) Act 1992 section 4(1)(b)(i) or (2)(b)(i) | Electorate officer of a member of State Parliament
 16. | A member of the Institution of Engineers, Australia, other than at the grade of student. | Engineer
 17. | The secretary of an organisation of employees or employers that is registered under one of the following Acts — •Industrial Relations Act 1979; •Workplace Relations Act 1996 of the Commonwealth. | Industrial organisation secretary
 18. | A member of the National Insurance Brokers Association of Australia (ACN 006 093 849). | Insurance broker
@@ -45,3 +46,4 @@ Item | Formal description | Informal description
 42. | A person employed as a member of the teaching staff within the meaning of the School Education Act 1999 or as a teacher of a non-government school within the meaning of that Act. | Teacher
 43. | A member, registrar or clerk, or the chief executive officer, of any tribunal of the State or the Commonwealth. | Tribunal officer
 44. | A registered veterinary surgeon within the meaning of the Veterinary Surgeons Act 1960. | Veterinary surgeon
+[Schedule 2 amended in Gazette 9 Jun 2006 p. 2030.]
