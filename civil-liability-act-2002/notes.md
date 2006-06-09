@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 February 2006 of the Civil Liability Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Civil Liability Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Civil Liability Act 2002 | 35 of 2002 | 20 Nov 2002 | 1 Jan 2003 (see s. 2 and Gazette 17 Dec 2002 p. 5905)
@@ -8,7 +8,7 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 19 | 65 of 200
 Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
 Civil Liability Amendment Act 2004 | 43 of 2004 | 9 Nov 2004 | Act other than Pt. 3: 9 Nov 2004 (see s. 2(1)); Pt. 3: 1 Dec 2004 (see s. 2(2) and Gazette 26 Nov 2004 p. 5309)
 Reprint 1: The Civil Liability Act 2002 as at 10 Feb 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
@@ -18,7 +18,8 @@ Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (see
 Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be proclaimed (see s. 2)
-On the date as at which this reprint was prepared, the Psychologists Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
+On the date as at which this compilation was prepared, the Psychologists Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 108.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -34,7 +35,7 @@ Schedule 3 — Consequential amendments
 (l)a psychologist as defined in the Psychologists Act 2005 section 3;
 ”.
 ”.
-On the date as at which this reprint was prepared, the Optometrists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Optometrists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -50,7 +51,7 @@ Schedule 3 — Consequential amendments
 (g) an optometrists as defined in the Optometrists Act 2005 section 3;
 ”.
 ”.
-On the date as at which this reprint was prepared, the Podiatrists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Podiatrists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -64,7 +65,7 @@ Schedule 3 — Consequential amendments
 (2) Section 5PA is amended in paragraph (k) of the definition of “health professional” by deleting “Podiatrists Registration Act 1984” and inserting instead —
 “ Podiatrists Act 2005 ”.
 ”.
-On the date as at which this reprint was prepared, the Chiropractors Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Chiropractors Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -78,7 +79,7 @@ Schedule 3 — Consequential amendments
 (2) Section 5PA is amended in paragraph (a) of the definition of “health professional” by deleting “Chiropractors Act 1964 section 4” and inserting instead —
 “ Chiropractors Act 2005 section 3 ”.
 ”.
-On the date as at which this reprint was prepared, the Physiotherapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Physiotherapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -92,7 +93,7 @@ Schedule 3 — Consequential amendments
 (2) Section 5PA is amended in paragraph (j) of the definition of “health professional” by deleting “Physiotherapists Act 1950 section 2;” and inserting instead —
 “ Physiotherapists Act 2005 section 3; ”.
 ”.
-On the date as at which this reprint was prepared, the Osteopaths Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Osteopaths Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 108Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -106,7 +107,7 @@ Schedule 3 — Consequential amendments
 (2) Section 5PA is amended in paragraph (h) of the definition of “health professional” by deleting “Osteopaths Act 1997” and inserting instead —
 “ Osteopaths Act 2005 ”.
 ”.
-On the date as at which this reprint was prepared, the Occupational Therapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Occupational Therapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -119,4 +120,20 @@ Schedule 3 — Consequential amendments
 (1) The amendments in this clause are to the Civil Liability Act 2002.
 (2) Section 5PA is amended in paragraph (f) of the definition of “health professional” by deleting “Occupational Therapists Registration Act 1980” and inserting instead —
 “ Occupational Therapists Act 2005 ”.
+”.
+On the date as at which this compilation was prepared, the Medical Radiation Technologists Act 2006 s. 105, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+105.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 1 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 105]
+1.Civil Liability Act 2002 amended
+(1) The amendment in this clause is to the Civil Liability Act 2002.
+(2) Section 5PA is amended after paragraph (d) of the definition of “health professional” by inserting the following paragraph —
+“
+(da)a medical radiation technologist as defined in the Medical Radiation Technologists Act 2006 section 3;
+”.
 ”.
