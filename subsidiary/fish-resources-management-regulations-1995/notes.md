@@ -87,7 +87,7 @@ Fish Resources Management Amendment Regulations (No. 2) 2005 | 3 Jun 2005 p. 249
 Fish Resources Management Amendment Regulations (No. 4) 2005 | 22 Jul 2005 p. 3372-5 | 1 Sep 2005 (see r. 2)
 Fish Resources Management Amendment Regulations (No. 6) 2005 | 15 Sep 2005 p. 4309-10 | 15 Sep 2005 (see r. 2)
 Fish Resources Management Amendment Regulations (No. 5) 2005 | 16 Sep 2005 p. 4313-17 | 4 Oct 2005 (see r. 2)
-Reprint 5: The Fish Resources Management Regulations 1995 as at 14 Oct 2005 (includes amendments listed above)
+Reprint 5: The Fish Resources Management Regulations 1995 as at 14 Oct 2005 (includes amendments listed above) (correction in Gazette 9 Jun 2006 p. 2030)
 Fish Resources Management Amendment Regulations (No. 3) 2005 | 4 Nov 2005 p. 5299-317 | 4 Nov 2005
 Fish Resources Management Amendment Regulations (No. 8) 2005 | 11 Nov 2005 p. 5565-6 | 11 Nov 2005
 Fish Resources Management Amendment Regulations (No. 7) 2005 | 22 Dec 2005 p. 6215-39 | 1 Jan 2006 (see r. 2)
