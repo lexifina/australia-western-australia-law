@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Conservation and Land Management Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 June 2006 of the Conservation and Land Management Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Act 1984 | 126 of 1984 | 8 Jan 1985 | 22 Mar 1985 (see s. 2 and Gazette 15 Mar 1985 p. 931)
@@ -43,6 +43,7 @@ Reprint 5: The Conservation and Land Management Act 1984 as at 24 Sep 2004 (incl
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+Reprint 6: The Conservation and Land Management Act 1984 as at 9 Jun 2006 (includes amendments listed above)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -59,7 +60,7 @@ The Acts Amendment (Marine Reserves) Act 1997 s. 8(3) reads as follows:
 “
 (3) To avoid doubt it is declared that section 7(5) of the principal Act, as inserted by subsection (1), applies to marine nature reserves and marine parks which, immediately before the commencement of this Act, were vested in the National Parks and Nature Conservation Authority, whether so vested under the principal Act or under the Land Act 1933.
 ”.
-Section 10 of the Wildlife Conservation Act 1950 was repealed by the Acts Amendment (Conservation and Land Management) Act 1984 s. 6.
+The Wildlife Conservation Act 1950 s. 10 was repealed by the Acts Amendment (Conservation and Land Management) Act 1984 s. 6.
 The Public Service Act 1978 was superseded by the Public Sector Management Act 1994.
 The Conservation and Land Management Amendment Act 1992 s. 18 reads as follows:
 “
@@ -192,7 +193,7 @@ The operation of any provision of this Schedule is not to be regarded —
 (d) as causing any contract or other instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
 ”.
-On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 1991 s. 51 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Conservation and Land Management Amendment Act 1991 s. 51 had not come into operation. It reads as follows:
 “
 51.Part IXA inserted
 After section 125 of the principal Act the following Part is inserted —
@@ -284,7 +285,7 @@ Subject to this Part, the provisions of the Financial Administration and Audit A
 (2) The Minister shall prepare a report based on the review carried out under subsection (1) and shall, as soon as practicable, cause that report to be laid before each House of Parliament.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3 had not come into operation. It reads as follows:
 “
 Part 3 — Amendments to Conservation and Land Management Act 1984
 11.The Act amended by this Part
