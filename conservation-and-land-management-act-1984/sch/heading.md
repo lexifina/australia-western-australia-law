@@ -1,6 +1,6 @@
 ## Schedule
 [Section 29]
-Provisions as to constitution and proceedings of the Conservation Commission, the Marine Authority and the Marine Committee
+## Provisions as to constitution and proceedings of the Conservation Commission, the Marine Authority and the Marine Committee
 1.(1)Except as otherwise provided by this Act a member shall hold office for such term, being not more than 3 years, as is specified in his instrument of appointment, but he may from time to time be reappointed.
 (2) A member, unless he sooner resigns or is removed from office, shall continue in office until his successor comes into office, notwithstanding that the term for which he was appointed may have expired.
 2.The office of a member becomes vacant if —
