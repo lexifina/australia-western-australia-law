@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 April 2006 of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Constitution Acts Amendment Act 1899 | 63 Vict. No. 19 | 18 May 1900 | 18 May 1900 (see s. 52 and Gazette 18 May 1900 p. 1686) Reserved for Royal Assent 16 Dec 1899
@@ -218,7 +218,7 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 4 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
  | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
  | Reprint 14: The Constitution Acts Amendment Act 1899 as at 21 Apr 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 s. 57 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
@@ -231,6 +231,7 @@ Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (
 Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be proclaimed (see s. 2)
 Tobacco Products Control Act 2006 s. 126 | 5 of 2006 | 12 Apr 2006 | To be proclaimed (see s. 2)
+Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -267,7 +268,7 @@ Relevant provisions repealed by the Solar Energy Research Amendment Act 1987.
 Repealed by the Censorship Act 1996.
 Repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 Repealed by the Cemeteries Act 1986. The former body corporate continued under the name “Karrakatta Cemetery Board” — see Sch. 2 cl. 4 of that Act.
-This Council was not in existence at the date of this reprint.
+This Council was not in existence at the date of this compilation.
 Relevant provisions repealed by the Agricultural Legislation Amendment and Repeal Act 1998 s. 21.
 Repealed by the Western Australian Arts Council Repeal Act 1986.
 Repealed by the Acts Amendment and Repeal (Post Secondary Education) Act 1989.
@@ -276,7 +277,7 @@ Repealed by the Wheat Marketing Act 1984, which was repealed by the Wheat Market
 This Act expired 31 Oct 1984.
 Relevant provisions repealed by the Acts Amendment (Conservation and Land Management) Act 1984.
 Repealed by the Youth, Sport and Recreation Repeal Act 1984.
-Marginal notes in the Constitution Acts Amendment Act 1899 referring to the legislation from which provisions were derived have been omitted from the reprint.
+Marginal notes in the Constitution Acts Amendment Act 1899 referring to the legislation from which provisions were derived have been omitted from the compilation.
 The Motor Vehicle Dealers Amendment Act 2003 s. 25 and 26 read as follows:
 “
 25.Transitional provision: membership of Board
@@ -300,7 +301,7 @@ by reason only of a conviction that occurred before the commencement.
 (5) In subsection (4) —
 “commencement” means the commencement of this section.
 ”.
-On the date as at which this reprint was prepared, the Conservation and Land Management Amendment Act 1991 s. 57, which gives effect to the Schedule, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 1991 s. 57, which gives effect to the Schedule, had not come into operation. It reads as follows:
 “
 57.Consequential amendments to other Acts
 The Acts referred to in the column of the Schedule are amended in the manner set out in the second column.
@@ -309,7 +310,7 @@ Item 1 of the Schedule reads as follows:
 “
 1.Constitution Acts Amendment Act 1899 | In Schedule V, in Part 3, the following item is inserted in the appropriate alphabetical position — “The Nature Conservation Trust of Western Australia established under Part IXA of the Conservation and Land Management Act 1984.”.
 ”.
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3Consequential amendments
 Schedule 2 has effect.
@@ -323,7 +324,7 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Psychologists Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Psychologists Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 108.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -340,7 +341,7 @@ Schedule 3 — Consequential amendments
 The Psychologists Registration Board of Western Australia established under the Psychologists Act 2005.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Optometrists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Optometrists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -356,7 +357,7 @@ Schedule 3 — Consequential amendments
 The Optometrists Registration Board of Western Australia established under the Optometrists Act 2005.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Podiatrists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Podiatrists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -372,7 +373,7 @@ Schedule 3 — Consequential amendments
 The Podiatrists Registration Board of Western Australia established under the Podiatrists Act 2005.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Chiropractors Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Chiropractors Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -388,7 +389,7 @@ Schedule 3 — Consequential amendments
 The Chiropractors Registration Board of Western Australia established under the Chiropractors Act 2005.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Physiotherapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Physiotherapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -404,7 +405,7 @@ Schedule 3 — Consequential amendments
 The Physiotherapists Registration Board of Western Australia established under the Physiotherapists Act 2005.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Osteopaths Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Osteopaths Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 108.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -420,7 +421,7 @@ Schedule 3 — Consequential amendments
 The Osteopaths Registration Board of Western Australia established under the Osteopaths Act 2005.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Occupational Therapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Occupational Therapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -436,7 +437,7 @@ Schedule 3 — Consequential amendments
 The Occupational Therapists Registration Board of Western Australia established under the Occupational Therapists Act 2005.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Tobacco Products Control Act 2006 s. 126, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Tobacco Products Control Act 2006 s. 126, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 126.Repeals, transitional provisions, consequential amendments to other Acts
 Schedule 2 has effect.
@@ -450,4 +451,20 @@ Division 3 — Consequential amendments to other Acts
 (1) The amendments in this clause are to the Constitution Acts Amendment Act 1899.
 (2) Schedule V Part 3 is amended in the item relating to the Western Australian Health Promotion Foundation by deleting “by the Tobacco Control Act 1990.” and inserting instead —
 “ under the Tobacco Products Control Act 2005. ”.
+”.
+On the date as at which this compilation was prepared, the Medical Radiation Technologists Act 2006 s. 105, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+105.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 2 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 105]
+2.Constitution Acts Amendment Act 1899 amended
+(1) The amendment in this clause is to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended by inserting the following item in the appropriate alphabetical position —
+“
+The Medical Radiation Technologists Registration Board of Western Australia established under the Medical Radiation Technologists Act 2006.
+”.
 ”.
