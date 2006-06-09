@@ -25,6 +25,7 @@ Chiropractorss Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (se
 Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be proclaimed (see s. 2)
+Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. The relevant part of it reads:
 “
 75.Various provisions repealed
@@ -159,5 +160,21 @@ Schedule 3 — Consequential amendments
 (2) Schedule 1 item 5 is deleted and the following item is inserted instead —
 “
 5. | Occupational Therapists Registration Board of Western Australia established under the Occupational Therapists Act 2005.
+”.
+”.
+On the date as at which this compilation was prepared, the Medical Radiation Technologists Act 2006 s. 105, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+105.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 4 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 105]
+4.Health Services (Conciliation and Review) Act 1995 amended
+(1) The amendment in this clause is to the Health Services (Conciliation and Review) Act 1995.
+(2) After Schedule 1 item 3 the following item is inserted —
+“
+3a. | The Medical Radiation Technologists Registration Board of Western Australia established under the Medical Radiation Technologists Act 2006.
 ”.
 ”.
