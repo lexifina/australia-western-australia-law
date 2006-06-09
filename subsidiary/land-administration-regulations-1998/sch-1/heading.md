@@ -1,5 +1,4 @@
-## Schedule 1
-Fees payable to chief executive officer
+## Schedule 1 — Fees payable to chief executive officer
 [Regulation 17]
  | $
 1.For preparing a lease or, subject to item 8, any other document prepared for the purposes of the Act | 89.00
