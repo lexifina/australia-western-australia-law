@@ -1,41 +1,32 @@
 Notes
-This is a compilation of the Heritage of Western Australia Act 1990 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 9 June 2006 of the Heritage of Western Australia Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Heritage of Western Australia Act 1990 | 103 of 1990 | 22 Dec 1990 | Proc. 25 Feb 1991 (see s. 2 and Gazette 22 Feb 1991 p. 868)
-Financial Administration Legislation Amendment Act 1993 s. 11 and 15 | 6 of 1993 | 27 Aug 1993 | Deemed operative 1 Jul 1993 (see s. 2(1))
-Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | Proc. 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
-Planning Legislation Amendment Act (No. 2) 1994 s. 46(1)-(3) | 84 of 1994 | 13 Jan 1995 | Proc. 1 Mar 1995 (see s. 2 and Gazette 21 Feb 1995 p. 567)
-Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 188 | 73 of 1995 | 27 Dec 1995 | Proc. 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
-Sentencing (Consequential Provisions) Act 1995 Pt. 39 | 78 of 1995 | 16 Jan 1996 | Proc. 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
+Heritage of Western Australia Act 1990 | 103 of 1990 | 22 Dec 1990 | 25 Feb 1991 (see s. 2 and Gazette 22 Feb 1991 p. 868)
+Financial Administration Legislation Amendment Act 1993 s. 11 and 15 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
+Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
+Planning Legislation Amendment Act (No. 2) 1994 s. 46(1)-(3) | 84 of 1994 | 13 Jan 1995 | 1 Mar 1995 (see s. 2 and Gazette 21 Feb 1995 p. 567)
+Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 188 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
+Sentencing (Consequential Provisions) Act 1995 Pt. 39 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
 Acts Amendment (Land Administration) Act 1997 Pt. 31 and s. 142 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
 Statutes (Repeals and Minor Amendments) Act 1997 s. 71 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
+Reprint of the Heritage of Western Australia Act 1990 as at 1 Jun 2001 (includes amendments listed above)
 Planning Appeals Amendment Act 2002 s. 24 | 24 of 2002 | 24 Sep 2002 | 18 Apr 2003 (see s. 2 and Gazette 17 Apr 2003 p. 1243)
-Taxation Administration (Consequential Provisions) Act 2002 s. 15 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
+Taxation Administration (Consequential Provisions) Act 2002 s. 15 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2383)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 60 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation.
+Reprint 2: The Heritage of Western Australia Act 1990 as at 9 Jun 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2)
-Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads —
-“
-75.Various provisions repealed
-The provisions listed in the Table to this section are repealed.
-Table of provisions repealed
-Act | Provision
-.......................... | ........
-Heritage of Western Australia Act 1990 | s. 27(4)
-...................... | ........
-”.
-Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. Reference substituted under the Reprints Act 1984 s. 7(3)(g).
-Footnote no longer applicable.
-Footnote no longer applicable.
+State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
+The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time this reprint was prepared, the former Department of Land Administration was called the Department of Land Information.
 The Taxation Administration (Consequential Provisions) Act 2002 s. 3 and 4 and Pt. 4 read as follows:
 “
 3.Relationship with other Acts
@@ -136,8 +127,7 @@ cannot be made more than 15 months after the licence was granted or transferred.
 (1) A permission granted under section 112V of the old Stamp Act and in force immediately before the commencement day continues in force on and after that day as a special tax arrangement under the Taxation Administration Act 2003.
 (2) Any requirement that applied, immediately before the commencement day, to a person to whom a permission continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the permission was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
 ”.
-Footnote no longer applicable.
-The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 42 and 53 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 53 reads as follows:
 “
 53.Heritage of Western Australia Act 1990
@@ -152,4 +142,14 @@ The State Administrative Tribunal Regulations 2004 r. 53 reads as follows:
 (5) On and after the commencement day, a reference in the HWA Act section 37(4) to a finding made by the State Administrative Tribunal on a reference in relation to the same or a related matter under the HWA Act section 37(3) is to be taken to include a reference to such a finding lawfully made by the Town Planning Appeal Tribunal before the commencement day.
 (6) If, before the commencement day, the Minister is required in accordance with the HWA Act section 73(4) (as in force when the requirement was received by the Minister) to refer a question to the Town Planning Appeal Tribunal but does not do so before the commencement day, on and after the commencement day the Minister must refer the question to the State Administrative Tribunal as if the requirement had referred to the State Administrative Tribunal and not to the Town Planning Appeal Tribunal.
 (7) If, before the commencement day, the Minister is requested in accordance with the HWA Act section 76(1) (as in force when the requirement was received by the Minister) to refer a question to the Town Planning Appeal Tribunal but does not do so before the commencement day, on and after the commencement day the Minister must refer the question to the State Administrative Tribunal as if the request had referred to the State Administrative Tribunal and not to the Town Planning Appeal Tribunal.
+”.
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+“
+75.Various provisions repealed
+The provisions listed in the Table to this section are repealed.
+Table of provisions repealed
+Act | Provision
+.......................... | ........
+Heritage of Western Australia Act 1990 | s. 27(4)
+...................... | ........
 ”.
