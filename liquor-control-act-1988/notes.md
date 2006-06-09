@@ -1,12 +1,12 @@
 Notes
-This is a compilation of the Liquor Licensing Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 June 2006 of the Liquor Licensing Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Liquor Licensing Act 1988 | 54 of 1988 | 9 Dec 1988 | 1 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
 Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
 Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
 Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
-Acts Amendment (Fines, Penalties and Infringement Notices) Act 1994 s. 22 | 92 of 1994 | 23 Dec 1994 | 1 Jan 1995 (see s. 2 and Gazette 30 Dec 1994 p. 7211)
+Acts Amendment (Fines, Penalties and Infringement Notices) Act 1994 s. 22 | 92 of 1994 | 23 Dec 1994 | 1 Jan 1995 (see s. 2(1) and Gazette 30 Dec 1994 p. 7211)
 Sentencing (Consequential Provisions) Act 1995 s. 66 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
@@ -29,9 +29,11 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-Now see the Public Sector Management Act 1994.
+Reprint 4: The Liquor Licensing Act 1988 as at 9 Jun 2006 (includes amendments listed above)
+Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
+Repealed by the Public Sector Management Act 1994.
 The Liquor Licensing (Moratorium) Act 1983 expired on 30 June 1988 (see Liquor Licensing (Moratorium) Order 1987 in Gazette 24 Dec 1987 p. 4533).
-Repealed by the Liquor Act 1970 which was repealed by this Act.
+Repealed by the Liquor Act 1970, which was repealed by this Act.
 The Acts Amendment (Franchise Fees) Act 1997 s. 51 reads as follows:
 “
 51.Savings provisions
@@ -63,16 +65,5 @@ A trustee or manager approved under the principal Act at the commencement is to 
 6.Application of Interpretation Act
 Nothing in this Schedule affects any saving provided by the Interpretation Act 1984, except insofar as the saving is inconsistent with this Schedule.
 ”.
-The Courts Legislation Amendment Act 2000 s. 14 reads as follows:
-“
-14.Transitional
-If on the day on which sections 9, 10, 12, and 13 come into operation an Acting Judge of the Liquor Licensing Court is dealing with an application or matter the Acting Judge may continue to deal with the application or matter as if those sections had not come into operation.
-”.
-The Liquor Licensing Amendment Act 2001 s. 5(2) reads as follows:
-“
-(2) An application for a special facility licence made under the Liquor Licensing Act 1988 before the commencement of this section and not determined before then must be determined in accordance with the Liquor Licensing Act 1988 as amended by this section.
-”.
-The Liquor Licensing Amendment Act 2001 s. 6(2) reads as follows:
-“
-(2) An application made under section 77(4) of the Liquor Licensing Act 1988 before the commencement of this section and not determined before then must be determined in accordance with the Liquor Licensing Act 1988 as amended by this section.
-”.
+The Courts Legislation Amendment Act 2000 s. 14 is a transitional provision that is of no further effect.
+The Liquor Licensing Amendment Act 2001 s. 5(2) and 6(2) are transitional provisions that are of no further effect.
