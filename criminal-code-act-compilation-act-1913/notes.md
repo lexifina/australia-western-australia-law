@@ -139,10 +139,7 @@ Reprint 12: The Criminal Code Act Compilation Act 1913 as at 1 Jun 2005 (include
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 11 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Defamation Act 2005 s. 47 | 44 of 2005 | 19 Dec 2005 | 1 Jan 2006 (see s. 2)
 Criminal Code Amendment (Cyber Predators) Act 2006 s. 3-6 | 3 of 2006 | 30 Mar 2006 | s. 3-5: 30 Mar 2006 (see s. 2(1)) s. 6: 7 Apr 2006 (see s. 2(2) and Gazette 7 Apr 2006 p. 1489)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Cittion | Number and year | Assent | Commencement
-Censorship Amendment Act 2006 s.4(2) | 10 of 2006 | 8 May 2006 | To be proclaimed (see s. 2)
+Censorship Amendment Act 2006 s.4(2) | 10 of 2006 | 8 May 2006 | 10 Jun 2006 (see s. 2 and Gazette 9 Jun 2006 p. 2029)
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 The Criminal Code Amendment Act (No. 2) 1996 s. 4(3) reads as follows:
@@ -169,19 +166,3 @@ The amendment in the Criminal Law Amendment (Simple Offences) Act 2004 s. 35(4) 
 The amendments in the Criminal Code Amendment (Racial Vilification) Act 2004 s. 7-9 do not have any effect as, before the Act received the Royal Assent, the provisions they would have amended were amended by the Acts Amendment (Family and Domestic Violence) Act 2004 s. 67-69.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 to The Criminal Code s. 5(11) is not included because s. 5(11) was amended by the Courts Legislation Amendment and Repeal Act 2004 s. 80 before s. 82 commenced.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 to The Criminal Code s. 133A is not included because s. 133A was amended by s. 28 of that Act.
-On the date as at which this compilation was prepared, the Censorship Amendment Act 2006 s.4(2), which gives effect to Sch. 1, had not come into operation. It reads as follows:
-“
-4.Section 1 amended, consequential amendments, transitional and validation
-(2) Schedule 1 sets out consequential amendments.
-”.
-Schedule 1, cl. 2 reads as follows:
-“
-Schedule 1 — Consequential amendments
-[s. 4]
-2.The Criminal Code amended
-(1) The amendments in this clause are to The Criminal Code.
-(2) Section 557K(1) is amended in the definition of “child sex offender” by deleting “Censorship Act” in the 4 places where it occurs and inserting instead —
-“
-Classification (Publications, Films and Computer Games) Enforcement Act
-”.
-”.
