@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Censorship Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Classification (Publications, Films and Computer Games) Enforcement Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Censorship Act 1996 | 40 of 1996 | 10 Oct 1996 | 5 Nov 1996 (see s. 2 and Gazette 5 Nov 1996 p. 5845)
@@ -7,11 +7,7 @@ Censorship Amendment Act 2003 | 30 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2 
 Reprint 1: The Censorship Act 1996 as at 28 Nov 2003 (includes amendments listed above)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Censorship Amendment Act 2006 Pt. 4 | 10 of 2006 | 8 May 2006 | 26 May 2005 (see s. 2(3))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Number and year | Assent | Commencement
-Censorship Amendment Act 2006 s. 3-6, Pt. 2, 3 and 5 | 10 of 2006 | 8 May 2006 | To be proclaimed (see s. 2)
+Censorship Amendment Act 2006 | 10 of 2006 | 8 May 2006 | Pt. 4 and Sch. 2: 26 May 2005 (see s. 2(3)); Act other than Pt. 4 and Sch. 2: 10 Jun 2006 (see s. 2 and Gazette 9 Jun 2006 p. 2029)
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 Repealed by s. 153 of this Act.
 The Censorship Amendment Act 2003 s. 45-49 read as follows:
@@ -90,83 +86,9 @@ Column 1 Item | Column 2 Former type of classification | Column 3 New type of cl
 2 | M (15+) | M
 3 | MA (15+) | MA 15+
 ”.
-On the date as at which this compilation was prepared, the Censorship Amendment Act 2006 s. 3-6, Pt. 2, 3 and 5 had not come into operation. They read as follows:
+The Censorship Amendment Act 2006 s. 4(3) and (4) read as follows:
 “
-3.The Act amended
-The amendments in this Act are to the Censorship Act 1996 unless otherwise indicated.
-4.Section 1 amended, consequential amendments, transitional and validation
-(1) Section 1 is amended by deleting “Censorship” and inserting instead —
-“
-Classification (Publications, Films and Computer Games) Enforcement
-”.
-(2) Schedule 1 sets out consequential amendments.
 (3) A reference in any Act or regulation to the “Censorship Act 1996” shall, unless the context otherwise requires, be read and construed as a reference to the Classification (Publications, Films and Computer Games) Enforcement Act 1996.
 (4) The reference in the Community Protection (Offender Reporting) Act 2004 Schedule 2 or the Working with Children (Criminal Record Checking) Act 2004 Schedule 2 to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 is taken to include, and always to have included, a reference to the Censorship Act 1996.
-5.Section 3 amended
-Section 3 is amended in the definition of “Registrar” by deleting “Censorship”.
-6.Section 128A amended
-Section 128A(1) is amended by deleting “Censorship”.
-Part 2 — Changes relating to investigation of child pornography
-7.Section 117 amended
-(1) Section 117(2a)(c) is amended after “child pornography,” by inserting —
-“
-or an article highly likely to be, or highly likely to contain, child pornography,
 ”.
-(2) Section 117(2a) is amended by deleting “under this Part”.
-(3) Section 117(3) is amended by deleting “seized under section 112 or under a search warrant” and inserting instead —
-“ lawfully seized ”.
-(4) Section 117(6) is amended as follows:
-(a) at the end of paragraph (a) by deleting “or”;
-(b) at the end of paragraph (b) by deleting the full stop and inserting —
-“
-; or
-(c) if the court is satisfied that it is appropriate for a member of the police force to be given more time to investigate or analyse evidence relating to the seized thing, the court may order that the thing be held in the custody of the member of the police force for such further period as the court thinks fit.
-”.
-(5) After section 117(8) the following subsection is inserted —
-“
-(9) In this section —
-“lawfully seized” means lawfully seized in relation to an alleged offence under this Act.
-”.
-8.Section 141 amended
-Section 141 is amended as follows:
-(a) in paragraph (a) after “is” by inserting —
-“ , or was, ”;
-(b) in paragraph (a) after “are” by inserting —
-“ , or were, ”;
-(c) in paragraph (b) after “is” by inserting —
-“ , or was, ”;
-(d) in paragraph (c) by inserting after “is not” in both places where it occurs —
-“ , or was not, ”;
-(e) in paragraph (d) after “is” by inserting —
-“ , or was, ”;
-(f) in paragraph (d) after “approved or has” by inserting —
-“ , or had, ”;
-(g) in paragraph (d) after “approval or has not” by inserting —
-“ , or had not, ”.
-Part 3 — Changes relating to infringement notices
-9.Section 117F amended
-Section 117F is amended by inserting after “A” —
-“
-member of the police force authorised by the Commissioner of Police or a
-”.
-10.Section 117G amended
-Section 117G(1) is amended by inserting after “A” —
-“
-commissioned officer of the police force authorised by the Commissioner of Police or a
-”.
-11.Section 117J amended
-After section 117J(3) the following subsection is inserted —
-“
-(4) A member of the police force who has been authorised by the Commissioner of Police to extend time on, or withdraw, an infringement notice under section 117F or 117G cannot exercise either power in relation to an infringement notice issued by that member.
-Part 5 — Display of MA 15+ Computer Games
-37.Section 85A inserted
-After section 85 the following section is inserted —
-“
-85A.Display of MA 15+ computer games or containers
-A person must not display in a public place —
-(a) a computer game classified MA 15+; or
-(b) the container, wrapping or casing for a computer game classified MA 15+,
-with the intention of selling or supplying the computer game except in an area of the public place set aside by that person and conspicuously identified, as an area for the display of computer games, or containers, wrapping or casings for computer games, with that classification.
-Penalty: $500.
-”.
-”.
+Now known as the Classification (Publications, Films and Computer Games) Enforcement Act 1996; short title changed (see note under s. 1).

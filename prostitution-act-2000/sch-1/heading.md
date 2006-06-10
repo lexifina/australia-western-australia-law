@@ -1,7 +1,7 @@
 ## Schedule 1 — Offence history that may be an element of a section 14 offence
 [s. 14(c)]
 An offence under any of the following enactments:
-Censorship Act 1996
+Classification (Publications, Films and Computer Games) Enforcement Act 1996
 s. 60
 The Criminal Code
 s. 181
@@ -24,5 +24,5 @@ s. 343
 s. 396, 397, or 398
 Children and Community Services Act 2004
 s. 192(1) or (2)
-[Schedule 1 amended by No. 34 of 2004 s. 251.]
+[Schedule 1 amended by No. 34 of 2004 s. 251; No. 10 of 2006 s. 4(2).]
 [Schedule 2 omitted under the Reprints Act 1984 s. 7(4)(e).]
