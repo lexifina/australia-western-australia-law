@@ -12,3 +12,4 @@ Reprint of the Road Traffic (Wardens) Regulations 1986 as at 16 Nov 2001 (includ
 Road Traffic (Vehicle Standards) (Consequential Provisions) Regulations 2002 Pt. 6 | 1 Nov 2002 p. 5388-400 | 1 Nov 2002 (see r. 2)
 Road Traffic (Wardens) Amendment Regulations 2003 | 28 Feb 2003 p. 680-1 | 28 Feb 2003
 Road Traffic (Wardens) Amendment Regulations 2005 | 23 Dec 2005 p. 6280-1 | 1 Jan 2006 (see r. 2 and Gazette 23 Dec 2005 p. 6244-5)
+Road Traffic (Wardens) Amendment Regulations (No. 2) 2006 | 13 Jun 2006 p. 2064-6 | 13 Jun 2006
