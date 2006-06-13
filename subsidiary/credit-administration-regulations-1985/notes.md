@@ -15,3 +15,4 @@ Credit (Administration) Amendment Regulations 1991 | 13 Dec 1991 p. 6158 | 13 De
 Credit (Administration) Amendment Regulations 1992 | 14 Aug 1992 p. 4022-3 | 14 Aug 1992
 Credit (Administration) Amendment Regulations 1993 | 30 Nov 1993 p. 6408-9 | 30 Nov 1993
 Credit (Administration) Amendment Regulations 2005 | 28 Jun 2005 p. 2902 | 1 Jul 2005 (see r. 2)
+Credit (Administration) Amendment Regulations (No. 3) 2006 | 13 Jun 2006 p. 2056 | 13 Jun 2006
