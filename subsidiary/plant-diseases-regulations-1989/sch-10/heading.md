@@ -1,7 +1,7 @@
 ## Schedule 10 — Asteraceae (Compositae)
 [Schedule 1 Part A and Part B item 58]
 [Heading inserted in Gazette 7 Feb 2006 p. 616.]
-Tribe Mutisieae - 76 ca. 970 species
+Tribe Mutisieae – 76 ca. 970 species
 Achnopogon
 Achyrothalamus
 Acourtia
@@ -78,7 +78,7 @@ Trixis
 Uechtritzia
 Urmenetea
 Wunderlichia
-Tribe Cardueae - 83 genera, 2500 species
+Tribe Cardueae – 83 genera, 2500 species
 Acantholepis
 Acroptilon
 Aegopordon
@@ -162,7 +162,7 @@ Volutaria
 Xanthopappus
 Xeranthemum
 Zoegea
-Tribe Lactuceae - 98 genera, 1550 species
+Tribe Lactuceae – 98 genera, 1550 species
 Acanthocephalus
 Actites
 Aetheorhiza
@@ -261,7 +261,7 @@ Tragopogon
 Uropappus
 Urospermum
 Youngia
-Tribe Vernonieae - 98 genera, 1300 species
+Tribe Vernonieae – 98 genera, 1300 species
 Acanthodesmos
 Acilepidopsis
 Adenoon
@@ -360,7 +360,7 @@ Trichospira
 Vernonanthura
 Vernonia
 Xiphochaeta
-Tribe Liabeae - 14 genera, 160 species
+Tribe Liabeae – 14 genera, 160 species
 Bishopanthus
 Cacosmia
 Chionopappus
@@ -375,7 +375,7 @@ Paranephelius
 Philoglossa
 Pseudonoseris
 Sinclairia
-Tribe Arctoteae - 16 genera, 200 species
+Tribe Arctoteae – 16 genera, 200 species
 Arctotheca
 Arctotis
 Berkheya
