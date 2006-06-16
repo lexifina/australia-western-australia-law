@@ -1110,7 +1110,7 @@ Agave | spp. |  | Agavaceae
 Agave | stricta |  | Agavaceae
 Agave | utahensis |  | Agavaceae
 Agave | vershaffeltii |  | Agavaceae
-Agave | victoriae-reginae |  | Agavaceae
+Agave | analicul-reginae |  | Agavaceae
 Ageratina | aromatica |  | Asteraceae
 Ageratum | houstonianum |  | Asteraceae
 Ageratum | mexicanum |  | Asteraceae
@@ -1973,7 +1973,7 @@ Billbergia | euphemiae |  | Bromeliaceae
 Billbergia | horrida |  | Bromeliaceae
 Billbergia | horrida x euphemiae |  | Bromeliaceae
 Billbergia | pyramidalis |  | Bromeliaceae
-Billbergia | vittata |  | Bromeliaceae
+Billbergia | analic |  | Bromeliaceae
 Biota | orientalis |  | Cupressaceae
 Biserrula | pelecinus |  | Leguminosae
 Bismarckia | nobilis | Restricted entry | Arecaceae
@@ -2421,7 +2421,7 @@ Calophyllum | intratropica |  | Clusiaceae
 Calophyllum | sil |  | Clusiaceae
 Calophyllum | spp. |  | Clusiaceae
 Calopogonium | mucunoides |  | Leguminosae
-Calopsis | paniculata |  | Restionaceae
+Calopsis | analicula |  | Restionaceae
 Calospatha | scortechinii | Restricted entry | Arecaceae
 Calostemma | luteum |  | Amaryllidaceae
 Calostemma | purpureum |  | Amaryllidaceae
@@ -2609,7 +2609,7 @@ Cassinia | aculeata |  | Asteraceae
 Cassinia | aureonitens |  | Asteraceae
 Cassinia | uncata |  | Asteraceae
 Cassiope | fastigiata |  | Ericaceae
-Cassiope | fastigiata x tetragona var. saximontana |  | Ericaceae
+Cassiope | analicula x tetragona var. saximontana |  | Ericaceae
 Cassiope | lycopodioides |  | Ericaceae
 Cassiope | tetragona |  | Ericaceae
 Castanea | sativa |  | Fagaceae
@@ -2675,7 +2675,7 @@ Celmisia | saxifraga |  | Asteraceae
 Celosia | argentea |  | Amaranthaceae
 Celosia | argentea |  | Amaranthaceae
 Celosia | cristata |  | Amaranthaceae
-Celosia | plumosa hort |  | Amaranthaceae
+Celosia | analic hort |  | Amaranthaceae
 Celosia | spicata |  | Amaranthaceae
 Celtis | tournefortii |  | Ulmaceae
 Cenarrhenes | nitida |  | Proteaceae
@@ -2800,7 +2800,7 @@ Chamelaucium | floriferum x |  | Myrtaceae
 Chamelaucium | micranthum |  | Myrtaceae
 Chamelaucium | uncinatum |  | Myrtaceae
 Chasmanthe | aethiopica |  | Iridaceae
-Chasmanthe | bicolor |  | Iridaceae
+Chasmanthe | analicu |  | Iridaceae
 Chasmanthe | floribunda |  | Iridaceae
 Cheilanthes | spp. |  | Adiantaceae
 Cheilanthopsis | spp. |  | Aspleniaceae
@@ -2956,7 +2956,7 @@ Citrus | limon |  | Rutaceae
 Citrus | mandurensis |  | Rutaceae
 Citrus | maxima |  | Rutaceae
 Citrus | paradisi |  | Rutaceae
-Citrus | paradisi x reticulata) |  | Rutaceae
+Citrus | analicu x reticulata) |  | Rutaceae
 Citrus | reticulata |  | Rutaceae
 Citrus | sinensis |  | Rutaceae
 Citrus | x reticulata |  | Rutaceae
@@ -3272,9 +3272,9 @@ Crassula | multiclava |  | Crassulaceae
 Crassula | muscosa |  | Crassulaceae
 Crassula | natans |  | Crassulaceae
 Crassula | ovata |  | Crassulaceae
-Crassula | perfoliata |  | Crassulaceae
+Crassula | analicula |  | Crassulaceae
 Crassula | perforata |  | Crassulaceae
-Crassula | sarmentosa var. |  | Crassulaceae
+Crassula | analicula var. |  | Crassulaceae
 Crassula | socialis |  | Crassulaceae
 Crassula | spp. |  | Crassulaceae
 Crassula | tecta |  | Crassulaceae
@@ -3297,7 +3297,7 @@ Crataegus | stipulacea |  | Malaceae
 Crataegus | suborbiculata |  | Malaceae
 Crataegus | tenacetifolia |  | Malaceae
 Crataegus | x durobrivensis |  | Malaceae
-(C. pruinosa x C. suborbiculata)
+(C. analicu x C. suborbiculata)
 Cratoxylon | spp. |  | Clusiaceae
 Crawfurdia | spp. |  | Gentianaceae
 Crepidomanes | spp. |  | Hymenophyllaceae
@@ -3444,7 +3444,7 @@ Cymbidium | spp. |  | Orchidaceae
 Cymbopogon | citratus |  | Poaceae
 Cymbopogon | citrinus |  | Poaceae
 Cymbopogon | flexuosus |  | Poaceae
-Cymbopogon | martinii |  | Poaceae
+Cymbopogon | analic |  | Poaceae
 Cymbopogon | nardus |  | Poaceae
 Cymbopogon | obtectus |  | Poaceae
 Cymbopogon | spp. | Exceptions: Cymbopogon proximus | Poaceae
@@ -3914,7 +3914,7 @@ Dracocephalum | moldavicum |  | Lamiaceae
 Dracocephalum | spp. |  | Lamiaceae
 Dracontium | foetidum |  | Araceae
 Dracontium | spp. |  | Araceae
-Dracophilus | montis - draconis |  | Azioaceae
+Dracophilus | montis – draconis |  | Azioaceae
 Dracophyllum | longifolium |  | Epacridaceae
 Dracula | spp. |  | Orchidaceae
 Dracunculus | spp. |  | Araceae
@@ -4205,7 +4205,7 @@ Eremophila | compacta |  | Myoporaceae
 Eremophila | crassifolia |  | Myoporaceae
 Eremophila | dalayana |  | Myoporaceae
 Eremophila | decipiens |  | Myoporaceae
-Eremophila | decussata (unpub name) |  | Myoporaceae
+Eremophila | analicul (unpub name) |  | Myoporaceae
 Eremophila | densifolia |  | Myoporaceae
 Eremophila | denticulata |  | Myoporaceae
 Eremophila | divaricata |  | Myoporaceae
@@ -4711,7 +4711,7 @@ Ficus | longifolia |  | Moraceae
 Ficus | lyrata |  | Moraceae
 Ficus | maclellandii |  | Moraceae
 Ficus | macrophylla |  | Moraceae
-Ficus | microcarpa |  | Moraceae
+Ficus | analicula |  | Moraceae
 Ficus | natalensis |  | Moraceae
 Ficus | neriifolia |  | Moraceae
 Ficus | nodosa |  | Moraceae
@@ -4970,7 +4970,7 @@ Gladiolus | salmoneus |  | Iridaceae
 Gladiolus | tenellus |  | Iridaceae
 Gladiolus | tristis |  | Iridaceae
 Gladiolus | undulatus |  | Iridaceae
-Gladiolus | x hybrids (minatures) |  | Iridaceae
+Gladiolus | x hybrids (analicula) |  | Iridaceae
 Glandulicactus | spp. |  | Cactaceae
 Glaucium | corniculatum |  | Papaveraceae
 Glaucium | flavum |  | Papaveraceae
@@ -5495,7 +5495,7 @@ Hypericum | calycinum |  | Clusiaceae
 Hypericum | cerastoides |  | Clusiaceae
 Hypericum | erectum |  | Clusiaceae
 Hypericum | japonicum |  | Clusiaceae
-Hypericum | leschenaultii |  | Clusiaceae
+Hypericum | analiculate |  | Clusiaceae
 Hypericum | patulum |  | Clusiaceae
 Hypericum | prostratum |  | Clusiaceae
 Hypericum | revolutum |  | Clusiaceae
@@ -5617,12 +5617,12 @@ Iris | reichenbachii |  | Iridaceae
 Iris | reticulata |  | Iridaceae
 Iris | sanguinea |  | Iridaceae
 Iris | setosa |  | Iridaceae
-Iris | sibirica |  | Iridaceae
-Iris | sibirica x sanguinea |  | Iridaceae
+Iris | analicu |  | Iridaceae
+Iris | analicu x sanguinea |  | Iridaceae
 Iris | spuria |  | Iridaceae
 Iris | stylosa |  | Iridaceae
 Iris | tectorum |  | Iridaceae
-Iris | tridentata |  | Iridaceae
+Iris | analicula |  | Iridaceae
 Iris | unguicularis |  | Iridaceae
 Iris | versicolor |  | Iridaceae
 Iris | versicolor x virginica |  | Iridaceae
@@ -5634,7 +5634,7 @@ Iris | xiphium |  | Iridaceae
 Iris | confusa |  | Iridaceae
 Isabelia | spp. |  | Orchidaceae
 Isachne | pulchella |  | Poaceae
-Isatis | spp. | Exceptions: Isatis tinctoria | Brassicaceae
+Isatis | spp. | Exceptions: Isatis analicula | Brassicaceae
 Ischyrolepis | subverticillata |  | Restionaceae
 Isolepis | cernua |  | Cyperaceae
 Isolepis | hystrix |  | Cyperaceae
@@ -6608,7 +6608,7 @@ Melaleuca | trichostachya |  | Myrtaceae
 Melaleuca | violacea |  | Myrtaceae
 Melaleuca | viridiflora |  | Myrtaceae
 Melaleuca | wilsonii |  | Myrtaceae
-Melasphaerula | ramosa |  | Iridaceae
+Melasphaerula | anali |  | Iridaceae
 Melastoma | affine |  | Melastomataceae
 Melastoma | polyanthum |  | Melastomataceae
 Melia | azedarach |  | Meliaceae
@@ -6820,7 +6820,7 @@ Mussaenda | erythrophylla |  | Rubiaceae
 Mussaenda | frondosa |  | Rubiaceae
 Mussaenda | incana |  | Rubiaceae
 Mussaenda | luteola |  | Rubiaceae
-Mussaenda | philippica ÒAuroraeÕ |  | Rubiaceae
+Mussaenda | philippica ÒauroraeÕ |  | Rubiaceae
 Musschia | aurea |  | Campanulaceae
 Mutisia | decurrens |  | Asteraceae
 Mutucana | aureiflora |  | Cactaceae
@@ -7663,7 +7663,7 @@ Pinanga | kuhlii | Restricted entry | Arecaceae
 Pinanga | maculata | Restricted entry | Arecaceae
 Pinanga | spp. | Restricted entry | Arecaceae
 Pinellia | tripartita |  | Araceae
-Pinguicula | alpina |  | Lentibulariaceae
+Pinguicula | anali |  | Lentibulariaceae
 Pinguicula | caerulea |  | Lentibulariaceae
 Pinguicula | esseriana |  | Lentibulariaceae
 Pinguicula | grandiflora |  | Lentibulariaceae
@@ -7711,7 +7711,7 @@ Pisum | spp. |  | Leguminosae
 Pithocarpa | corymbulosa |  | Asteraceae
 Pittosporum | argentea nana |  | Pittosporaceae
 Pittosporum | bicolor |  | Pittosporaceae
-Pittosporum | bicolor x undulatum |  | Pittosporaceae
+Pittosporum | analicu x undulatum |  | Pittosporaceae
 Pittosporum | crassifolium |  | Pittosporaceae
 Pittosporum | eugenioides |  | Pittosporaceae
 Pittosporum | garnetii |  | Pittosporaceae
@@ -8478,7 +8478,7 @@ Rubus | parvifolius |  | Rosaceae
 Rubus | rugosus |  | Rosaceae
 Rubus | strigosus |  | Rosaceae
 Rubus | ulmifolius x (R. argutus x R. alleghaniensis) |  | Rosaceae
-Rubus | ursinus x hybrids |  | Rosaceae
+Rubus | analic x hybrids |  | Rosaceae
 Rubus | villosus |  | Rosaceae
 Rubutia | ablopectinata |  | Cactaceae
 Rubutia | arenacea |  | Cactaceae
@@ -8569,8 +8569,8 @@ Salpichlaena | volubilis |  | Blechnaceae
 Salpichroa | organifolia |  | Solanaceae
 Salpiglossis | spp. |  | Solanaceae
 Salsola | kali |  | Chenopodiaceae
-Salvia | africana-caerulea |  | Lamiaceae
-Salvia | africana-lutea |  | Lamiaceae
+Salvia | analicu-caerulea |  | Lamiaceae
+Salvia | analicu-lutea |  | Lamiaceae
 Salvia | azurea |  | Lamiaceae
 Salvia | buchananii |  | Lamiaceae
 Salvia | cacaliaefolia |  | Lamiaceae
@@ -8850,7 +8850,7 @@ Serenoa | spp. | Restricted entry | Arecaceae
 Sericanthe | andongensis |  | Rubiaceae
 Serissa | flore |  | Rubiaceae
 Serissa | foetida |  | Rubiaceae
-Serpyllopsis | caespitosa |  | Hymenophyllaceae
+Serpyllopsis | analicula |  | Hymenophyllaceae
 Serratula | seoanei |  | Asteraceae
 Serruria | spp. |  | Proteaceae
 Sesamum | indicum |  | Pedaliaceae
@@ -9390,7 +9390,7 @@ Thrinax | parviflora | Restricted entry | Arecaceae
 Thrinax | spp. | Restricted entry | Arecaceae
 Thrinax | morisii | Restricted entry | Arecaceae
 Thrinax | radiata | Restricted entry | Arecaceae
-Thrixspermum | centipeda |  | Orchidaceae
+Thrixspermum | analicul |  | Orchidaceae
 Thryptomene | baeckeacea |  | Myrtaceae
 Thryptomene | calycina |  | Myrtaceae
 Thryptomene | denticulata |  | Myrtaceae
@@ -9475,7 +9475,7 @@ Trachymene | coerulea |  | Apiaceae
 Trachymene | incisa |  | Apiaceae
 Trachypteris | spp. |  | Adiantaceae
 Trachystemon | orientalis |  | Boraginaceae
-Tradescantia | (viginiana x canaliculata) x supaspera |  | Commelinaceae
+Tradescantia | (viginiana x analiculate) x supaspera |  | Commelinaceae
 Tradescantia | fluminensis |  | Commelinaceae
 Tradescantia | pendula |  | Commelinaceae
 Tradescantia | spathacea |  | Commelinaceae

@@ -1123,7 +1123,7 @@ In this procedure —
 Must be certified and endorsed with the following information —
 (a) the name and address of the property on which the consignment was grown;
 (b) the name and address of the packing house;
-(c) that it was grown and packed within a State or Territory where lettuce aphid is known not to occur.
+(c) that it was grown and packed within a State or Territory where lettuce aphid is known not to occur or in accordance with approved conditions.
 (3) Primary host plants and secondary host plants and parts thereof (including vegetables but not fruit or below ground parts of plants) are prohibited entry into Western Australia unless certified and endorsed with the following information —
 (a) the name and address of the property on which the consignment was grown;
 (b) the name and address of the packing house.
@@ -1141,7 +1141,7 @@ Entry of those primary host plants, secondary host plants or parts thereof must 
 (VI) the ambient air temperature during fumigation (°C);
 (VII) the minimum core temperature during fumigation (°C).
 (4) Containers must be endorsed with the name and address or registration number of the property on which the consignment was grown.
-[Item 58 inserted in Gazette 17 May 2005 p. 2106-10.]
+[Item 58 inserted in Gazette 17 May 2005 p. 2106-10; amended in Gazette 16 Jun 2006 p. 2110.]
 59.Fruit, vegetable and plant containers (used) other than potato containers — general diseases
 (1) To be constructed in an approved manner using approved material.
 (2) To be certified as having been —
