@@ -1,63 +1,51 @@
 Notes
-This is a compilation of the Agriculture and Related Resources Protection Act 1976 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 16 June 2006 of the Agriculture and Related Resources Protection Act 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Agriculture and Related Resources Protection Act 1976 | 42 of 1976 | 9 Jun 1976 | Long title and sections 1-5 and 7 and Division 6 of Part V: 18 Jun 1976; balance: 1 Jul 1976 (see s. 2 and Gazette 18 Jun 1976 p.2048)
+Agriculture and Related Resources Protection Act 1976 | 42 of 1976 | 9 Jun 1976 | Long title and s. 1-5, 7 and Pt. V Div. 6: 18 Jun 1976 (see s. 2 and Gazette 18 Jun 1976 p. 2048); balance: 1 Jul 1976 (see s. 2 and Gazette 18 Jun 1976 p. 2048)
 Agriculture and Related Resources Protection Act Amendment Act 1978 | 40 of 1978 | 29 Aug 1978 | 29 Aug 1978
-Agriculture and Related Resources Protection Act Amendment Act 1979 | 55 of 1979 | 12 Nov 1979 | Sections 3, 4(b), 7, 10 and 11 deemed operative 1 Jul 1976; balance on Assent (see s. 2)
-Agriculture and Related Resources Protection Amendment Act 1980 | 22 of 1980 | 15 Oct 1980 | Section 5 deemed operative 1 Jul 1980; balance on Assent (see s. 2)
-Agriculture and Related Resources Protection Amendment Act 1981 | 76 of 1981 | 9 Nov 1981 | Section 3(d): 9 Nov 1981; balance deemed operative 1 Jul 1976 (see s. 2)
-Agriculture and Related Resources Protection Amendment Act 1983 | 31 of 1983 | 1 Dec 1983 | 29 Dec 1983
-Acts Amendment (Conservation and Land Management) Act 1984, Part V | 112 of 1984 | 19 Dec 1984 | 22 Mar 1985 (see s. 2 and Gazette 15 Mar 1985 p. 931)
+Agriculture and Related Resources Protection Act Amendment Act 1979 | 55 of 1979 | 12 Nov 1979 | s. 3, 4(b), 7, 10 and 11: 1 Jul 1976 (see s. 2(1)); balance: 12 Nov 1979 (see s. 2(2))
+Agriculture and Related Resources Protection Amendment Act 1980 | 22 of 1980 | 15 Oct 1980 | s. 5: 1 Jul 1980 (see s. 2(2)); balance: 15 Oct 1980 (see s. 2(1))
+Reprint of the Agriculture and Related Resources Protection Act 1976 approved 10 Feb 1981 (includes amendments listed above)
+Agriculture and Related Resources Protection Amendment Act 1981 | 76 of 1981 | 9 Nov 1981 | Act other than s. 3(d): 1 Jul 1976 (see s. 2(1)); s. 3(d): 9 Nov 1981 (see s. 2(3))
+Agriculture and Related Resources Protection Amendment Act 1983 | 31 of 1983 | 1 Dec 1983 | 29 Dec 1983 (see s. 2)
+Acts Amendment (Conservation and Land Management) Act 1984 Pt. V | 112 of 1984 | 19 Dec 1984 | 22 Mar 1985 (see s. 2 and Gazette 15 Mar 1985 p. 931)
 Agriculture and Related Resources Protection Amendment Act 1986 | 59 of 1986 | 26 Nov 1986 | 5 Jan 1987 (see s. 2 and Gazette 19 Dec 1986 p. 4860)
-Agricultural Legislation (Penalties) Amendment Act 1989, section 3 | 20 of 1989 | 1 Dec 1989 | 15 Dec 1989 (see s. 2 and Gazette 15 Dec 1989 p. 4513)
-Financial Administration Legislation Amendment Act 1993, Part 4 | 6 of 1993 | 27 Aug 1993 | Deemed operative 1 Jul 1993 (see s. 2(1))
-Acts Amendment (Public Sector Management) Act 1994, section 3(1) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
-Industrial Legislation Amendment Act 1995, section 35 | 1 of 1995 | 9 May 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 24 Nov 1995 p. 5389)
-Local Government (Consequential Amendments) Act 1996, section 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
-Financial Legislation Amendment Act 1996, section 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
-Transfer of Land Amendment Act 1996, section 153 (1) and (2) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
-Acts Amendment (Land Administration) Act 1997, Part 5 and section 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
-Agricultural Legislation Amendment and Repeal Act 1998, Part 2 | 9 of 1998 | 30 Apr 1998 | 4 Jul 1998 (see s. 2 and Gazette 3 Jul 1998 p. 3581)
-Taxation Administration (Consequential Provisions) Act 2002 s. 7 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
+Agricultural Legislation (Penalties) Amendment Act 1989 s. 3 | 20 of 1989 | 1 Dec 1989 | 15 Dec 1989 (see s. 2 and Gazette 15 Dec 1989 p. 4513)
+Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
+Acts Amendment (Public Sector Management) Act 1994 s. 3(1) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
+Industrial Legislation Amendment Act 1995 s. 35 | 1 of 1995 | 9 May 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 24 Nov 1995 p. 5389)
+Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
+Transfer of Land Amendment Act 1996 s. 153(1) and (2) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
+Acts Amendment (Land Administration) Act 1997 Pt. 5 and s. 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
+Agricultural Legislation Amendment and Repeal Act 1998 Pt. 2 | 9 of 1998 | 30 Apr 1998 | 4 Jul 1998 (see s. 2 and Gazette 3 Jul 1998 p. 3581)
+Reprint of the Agriculture and Related Resources Protection Act 1976 as at 15 Oct 1999 (includes amendments listed above)
+Taxation Administration (Consequential Provisions) Act 2002 s. 7 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2383)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 26 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 6 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
 Agriculture and Related Resources Protection Amendment Act 2006 | 6 of 2006 | 12 Apr 2006 | 12 Apr 2006 (see s. 2)
-NB.This Act was affected by the Agriculture Protection Board Act 1950 (No. 76 of 1950) and the Bush Fires Act 1954 (No. 53 of 1954).
-On the date on which this compilation was prepared, provisions referred to in the following table had not come into operation and are not included in this compilation. For the text of the provisions see the endnote referred to after the short title.
+Reprint 3: The Agriculture and Related Resources Protection Act 1976 as at 16 Jun 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Footnote no longer applicable.
-Repealed by the Mining Act 1978 (No. 107 of 1978).
-Repealed by the Public Service Appeal Board Act Repeal Act 1977 (No. 18 of 1977).
-Under the Public Sector Management Act 1994 the names of departments can be changed.
-The head of a department is now the chief executive officer or chief employee. However the title by which that person is known may be changed.
-At the time of this reprint —
-(a) the former Department of Lands and Surveys is called the Department of Land Administration and its administrative head is called the Chief Executive;
-(b) the former department of Mines is called the Department of Minerals and Energy and its administrative head is called the Director General.
-Repealed by the Interpretation Act 1984 (No. 12 of 1984).
-Repealed by the Commercial Arbitration Act 1985 (No. 109 of 1985).
+Repealed by the Mining Act 1978.
+Repealed by the Public Service Appeal Board Act Repeal Act 1977.
+The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also endnote 14.
+Under the Public Sector Management Act 1994 the names of departments can be changed. The head of a department is now the chief executive officer or chief employee. However the title by which that person is known may be changed.
+At the time of this reprint the former Department of Lands and Surveys is called the Department of Land Information and its administrative head is called the Chief Executive.
+Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Mines is, unless the contrary intention appears, to be read and construed as a reference to the Department of Industry and Resources. See also endnote 5 regarding the administrative head.
+Repealed by the Interpretation Act 1984.
+Repealed by the Commercial Arbitration Act 1985.
 Repealed by section 6 of this Act.
-Now see the Local Government Act 1995 (No. 74 of 1995).
-Section 8 of the Agricultural and Related Resources Protection Amendment Act 1986 (No. 59 of 1986) reads as follows —
-“
-8.Transitional
-Where, before the day on which this Act comes into operation, proceedings for an offence against this Act have, in accordance with the principal Act as in force before this Act came into operation, been heard or partly heard by a court of summary jurisdiction that is not composed of a stipendiary magistrate, those proceedings may be heard and determined as if section 6 of this Act had not been enacted.
-”.
-On the date on which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 had not come into operation. It reads:
-“
-27.Agriculture and Related Resources Protection Act 1976 amended
-Section 9(5) of the Agriculture and Related Resources Protection Act 1976 is amended as follows:
-(a) by deleting “1994,” and inserting instead —
-“ 1994 or ”;
-(b) by deleting “or the Superannuation and Family Benefits Act 1938”.
-”.
-The Taxation Administration (Consequential Provisions) Act 2002 s. 3 and 4 and Pt. 4 read as follows:
+Now see the Local Government Act 1995.
+The Agricultural and Related Resources Protection Amendment Act 1986 s. 8 is a transitional provision that is of no further effect.
+The Taxation Administration (Consequential Provisions) Act 2002 s. 3, 4 and Pt. 4 read as follows:
 “
 3.Relationship with other Acts
 The Taxation Administration Act 2003 is to be read with this Act as if they formed a single Act.
@@ -157,7 +145,16 @@ cannot be made more than 15 months after the licence was granted or transferred.
 (1) A permission granted under section 112V of the old Stamp Act and in force immediately before the commencement day continues in force on and after that day as a special tax arrangement under the Taxation Administration Act 2003.
 (2) Any requirement that applied, immediately before the commencement day, to a person to whom a permission continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the permission was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
 ”.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which give effect to Sch. 2, had not come into operation. It reads as follows:
+The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 had not come into operation. It reads as follows:
+“
+27.Agriculture and Related Resources Protection Act 1976 amended
+Section 9(5) of the Agriculture and Related Resources Protection Act 1976 is amended as follows:
+(a) by deleting “1994,” and inserting instead —
+“ 1994 or ”;
+(b) by deleting “or the Superannuation and Family Benefits Act 1938”.
+”.
+On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
 Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
@@ -170,4 +167,4 @@ s. 7 | Delete the definition of “Local Court”.
 s. 54(2) | Delete “Local Court having jurisdiction where the land is situated, and the Local Court” and insert instead — “ Magistrates Court, and the Court ”.
 s. 54(4) | Delete “Local Court having jurisdiction where the land is situated” and insert instead — “ Magistrates Court ”.
 ”.
-The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+The amendments to s. 7, 54(2) and 54(4) in the Courts Legislation Amendment and Repeal Act 2004 s. 142 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 6.
