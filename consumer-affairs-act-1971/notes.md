@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Consumer Affairs Act 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 16 June 2006 of the Consumer Affairs Act 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Consumer Protection Act 1971 | 68 of 1971 | 22 Dec 1971 | 11 Aug 1972 (see s. 2 and Gazette 11 Aug 1972 p. 3102)
@@ -35,12 +35,12 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Veterinary Preparations and Animal Feeding Stuffs Amendment Act 2004 s. 4(2) | 76 of 2004 | 8 Dec 2004 | 5 Jan 2005
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint For the text of the provisions see the endnotes referred to in the table.
+Reprint 5: The Consumer Affairs Act 1971 as at 16 Jun 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | To be proclaimed (see s. 2)
 Trade Measurement Administration Act 2006 s. 37 | 12 of 2006 | 11 May 2006 | To be proclaimed (see s. 2)
-Footnote no longer applicable.
 Legal Practitioners Amendment (Disciplinary and Miscellaneous Provisions) Act 1992 Pt. 2 came into operation on 1 Feb 1993 (see s. 3(a) and Gazette 26 Jan 1993 p. 823).
 Repealed by the Acts Amendment and Repeal (Fair Trading) Act 1988.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -52,20 +52,20 @@ The Statutes (Repeals and Minor Amendments) Act 1997 s. 39(9) reads as follows:
 “
 (9) The person appointed and holding office under section 15(1) as the Commissioner for Consumer Affairs immediately before the commencement of this section continues to hold office after that commencement as the Commissioner for Fair Trading.
 ”.
-On the date as at which this compilation was prepared, the Dangerous Goods Safety Act 2004 s. 70, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this reprint was prepared, the Dangerous Goods Safety Act 2004 s. 70, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 70.Repeals and consequential amendments (Sch. 2)
 Schedule 2 has effect.
 ”.
-Schedule 2 clause 3(1) reads as follows:
+Schedule 2 cl. 3(1) reads as follows:
 “
 Schedule 2 — Repeals and consequential amendments
 3.Consequential amendments
 (1) The Consumer Affairs Act 1971 is amended in the Schedule by deleting “Explosives and Dangerous Goods Act 1961” and inserting instead —
 “ Dangerous Goods Safety Act 2004 ”.
 ”.
-The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Trade Measurement Administration Act 2006 s. 37, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Trade Measurement Administration Act 2006 s. 37, had not come into operation. It reads as follows:
 “
 37.Consequential amendment to Consumer Affairs Act 1971
 (1) The amendments in this section are to the Consumer Affairs Act 1971.
