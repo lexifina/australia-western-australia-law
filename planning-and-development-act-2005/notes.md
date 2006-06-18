@@ -1,13 +1,13 @@
 Notes
-This is a compilation of the Planning and Development Act 2005. The following table contains information about that Act.
+This is a compilation of the Planning and Development Act 2005 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 | 37 of 2005 | 12 Dec 2005 | Act other than s. 149, 150 and Pt. 13 Div. 3: 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077)
+Swan Valley Planning Legislation Amendment Act 2006 s. 20(3) | 7 of 2006 | 19 Apr 2006 | 18 Jun 2006 (see s. 2 and Gazette 16 Jun 2006 p. 2109)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-Swan Valley Planning Legislation Amendment Act 2006 s. 20(2) | 7 of 2006 | 19 Apr 2006 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) had not come into operation. They read as follows:
 “
 149.Conditions on rural land (tied lots)
@@ -212,20 +212,35 @@ Part 4 — Validation provision
 31.Validation of certain endorsed approvals
 Any approval of the Commission endorsed on a diagram or plan of survey of a stage of a subdivision under the Town Planning and Development Act 1928 before the coming into operation of this section is taken to be, and always to have been, as valid and effective as it would have been if section 145 of the Planning and Development Act 2005 had been in operation at the time of the endorsement and the approval had been endorsed under that section.
 ”.
-On the date as at which this compilation was prepared, the Swan Valley Planning Legislation Amendment Act 2006 s. 20(2), which gives effect to Sch. 1 Div. 2, had not come into operation. It reads as follows:
+The Swan Valley Planning Legislation Amendment Act 2006 Sch. 1 cl. 4 reads as follows:
 “
-20.Consequential amendments
-(2) Schedule 1 Division 2 has effect.
+4.Metropolitan Region Scheme amended
+(1) In this item —
+“Metropolitan Region Scheme” has the same meaning as it has in the Planning and Development Act 2005.
+(2) The amendments in this item are to the Metropolitan Region Scheme.
+(3) The amendments to the Metropolitan Region Scheme effected by this item have effect as though the provisions were enacted by the Planning and Development Act 2005.
+(4) Nothing in this item affects the operation of the Planning and Development Act 2005 with respect to the amendments to the Metropolitan Region Scheme as amended by this Act.
+(5) Clause 26 is amended as follows:
+(a) by inserting before “Except” the subclause designation “(1)”;
+(b) after “provided” by inserting —
+“ in subclause (2) or (3) of this clause or ”;
+(c) at the end of the clause by inserting the following subclauses —
+“
+(2) In respect of applications for approval to develop land in the Swan Valley, where the advice of the Swan Valley Planning Committee is accepted by the City of Swan, the determination of the City of Swan under the local planning scheme is taken to be a determination under this Scheme.
+(3) In respect of applications for approval to develop land in the Swan Valley, where the advice of the Committee is not accepted by the City of Swan, the City of Swan is to refer the application, together with any recommendations provided by all bodies consulted, and the reasons why the advice of the Committee was not accepted by the City of Swan, to the Commission for determination.
+(4) In this clause “Committee”, “Swan Valley” and “Swan Valley Planning Committee” have the same meanings as they have in the Swan Valley Planning Act 1995.
 ”.
-Schedule 1 Div. 2 reads as follows:
+(6) Clause 30B(4) is deleted and the following subclause is inserted instead —
 “
-Schedule 1 — Consequential amendments
-[s. 20]
-Division 2 — Other consequential amendments
-2.Planning and Development Act 2005 amended
-(1) The amendments in this item are to the Planning and Development Act 2005.
-(2) Section 134(7) is repealed and the following subsection is inserted instead —
-“
-(7) Subject to any approval under subsection (6), the Commission is to determine the application after having due regard to the advice of the Committee, but may determine that application otherwise than in accordance with that advice.
+(4) Where the responsible authority is the Commission, the Commission is required to have due regard to the advice of the Committee, but may determine the application otherwise than in accordance with that advice.
 ”.
+(7) Clause 30B(5) is amended as follows:
+(a) by deleting “council of the Shire of Swan, the council” and inserting instead —
+“ City of Swan, the City ”;
+(b) by deleting “but may determine the application otherwise than in accordance with that advice.” and inserting instead —
+“
+but if the City of Swan does not accept that advice, the City of Swan is to refer the application, together with any recommendations provided by all bodies consulted, and the reasons why the advice of the Committee was not accepted by the City of Swan, to the Commission for determination.
+”.
+(8) Clause 30B(6) is amended by deleting “council of the Shire” and inserting instead —
+“ City ”.
 ”.
