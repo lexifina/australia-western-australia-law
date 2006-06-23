@@ -7,8 +7,7 @@ Codes of practice
  | First published by the Department in March 2003
 3. | Camels — Code of practice for camels in Western Australia
  | First published by the Department in March 2003
-4. | Cattle — Code of practice for cattle in Western Australia
- | First published by the Department in March 2003
+[4.deleted]
 5. | Cattle Transportation — Code of practice for the transportation of cattle in Western Australia
  | First published by the Department in March 2003
 6. | Circuses — Code of practice for the conduct of circuses in Western Australia
@@ -25,6 +24,8 @@ Codes of practice
  | First published by the Department in March 2003
 12. | Horse Transportation — Code of practice for the transportation of horses in Western Australia
  | First published by the Department in March 2003
+12A. | Model Code of Practice for the Welfare of Animals: Cattle (2nd Edition)
+ | First published by the Primary Industries Ministerial Council in 2004
 13. | Pigs — Code of practice for pigs in Western Australia
  | First published by the Department in March 2003
 14. | Pig Transportation — Code of practice for the transportation of pigs in Western Australia
@@ -47,3 +48,4 @@ Codes of practice
  | First published by the Department in March 2003
 23. | Sheep Transportation — Code of practice for the transportation of sheep in Western Australia
  | First published by the Department in March 2003
+[Schedule 1 amended in Gazette 23 Jun 2006 p. 2193.]
