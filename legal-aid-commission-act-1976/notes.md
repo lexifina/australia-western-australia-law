@@ -28,7 +28,8 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 75 | 74 of 2003 | 15 Dec 200
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Reprint 4: The Legal Aid Commission Act 1976 as at 20 May 2005 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Legal Aid Commission Amendment Act 2006 | 27 of 2006 | 26 Jun 2006 | 26 Jun 2006 (see s. 2)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
@@ -41,7 +42,7 @@ Repealed by the State Superannuation Act 2000.
 Part V of the Legal Contribution Trust Act 1967 was repealed by the Legal Contribution Trust Act Amendment Act 1976 s. 6.
 Repealed by the Public Employment (Consequential and Transitional) Amendment Act 1999 s. 3(1) of the Commonwealth (No. 146 of 1999).
 The amendment in s. 47(7) and (11) cannot be done as the section to be amended has already been amended by the Statutes (Repeals and Minor Amendments) Act 2003 s. 75(4).
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 “
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
