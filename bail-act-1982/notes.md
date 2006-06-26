@@ -44,6 +44,10 @@ Misuse of Drugs Amendment Act 2004 s. 9(1) | 62 of 2004 | 24 Nov 2004 | 1 Jan 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 3 and s. 82 and 83 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 5: The Bail Act 1982 as at 1 Apr 2005 (includes amendments listed above except those in the Sentencing Legislation Amendment Act 2004 s. 13, the Acts Amendment (Court of Appeal) Act 2004 s. 28(3) and (4) (the amendment to s. 7A(1)), the Children and Community Services Act 2004, the Courts Legislation Amendment and Repeal Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and Year | Assent | Commencement
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 The Bail Amendment Act 1984 s. 10 and 11 were repealed by the Bail Amendment Act 1988 s. 20.
 The Bail Act 1982 was not in operation at the time when the reprint was compiled, but the reprinting was authorised by s. 21 of the Bail Amendment Act 1988.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a transitional provision that is of no further effect.
@@ -68,3 +72,35 @@ If in a written law or other document or instrument there is a reference to the 
 Footnote no longer applicable.
 Footnote no longer applicable.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 141 is not included because the clause it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 28(4) before the amendment purported to come into operation.
+On the date as at which this compilation was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 had not come into operation. It reads as follows:
+“
+Part 3 — Attorney General, and Justice
+Division 1 — Bail Act 1982
+30.The Act amended
+The amendments in this Division are to the Bail Act 1982.
+31.Section 3 amended
+(1) Section 3(1) is amended as follows:
+(a) by inserting the following definitions in the appropriate alphabetical positions —
+“
+“CEO” means the chief executive officer of the Department;
+“Department” means the department of the Public Service principally assisting in the administration of this Act;
+”;
+(b) in the definition of “authorised community services officer” in paragraph (a) by deleting “(Justice)” in both places where it occurs;
+(c) by deleting the definition of “CEO (Justice)”.
+(2) Section 3(5) is amended by deleting “department of which he is the chief executive officer” and inserting instead —
+“ Department ”.
+32.Section 66A amended
+Section 66A(2) is amended by deleting “department of which the CEO (Justice) is the chief executive officer” and inserting instead —
+“ Department ”.
+33.Various references to CEO (Justice) changed to CEO
+Each provision listed in the Table to this section is amended by deleting “CEO (Justice)” in each place where it occurs and inserting instead —
+“ CEO ”.
+Table
+s. 3(5) | s. 50E
+s. 24A(4) | s. 50F(1), (3), (4) and (5)
+s. 27A | s. 50H
+s. 50A | s. 50J
+s. 50C(4)(a) and (b) | s. 50L(1)
+s. 50D(1)(a) | Sch. 1 Part D cl. 3(3)(e)
+Note:The headings to sections 27A, 50A, 50E, 50F and 50J will be altered by deleting “(Justice)”.
+”.
