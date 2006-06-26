@@ -38,6 +38,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 5 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 s. 34, 34B and 40 were repealed by the Young Offenders Act 1994.
@@ -63,3 +64,15 @@ for approval in relation to the placement of a child under the Children and Comm
 ”.
 ”.
 The items in clause 2(1) that it seeks to amend were deleted by the Spent Convictions (Act Amendment) Regulations 2005 (see Gazette 31 May 2005 p. 2420).
+On the date as at which this compilation was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 5 had not come into operation. It reads as follows:
+“
+Part 3 — Attorney General, and Justice
+Division 5 — Spent Convictions Act 1988
+42.The Act amended
+The amendments in this Division are to the Spent Convictions Act 1988.
+43.Schedule 3 amended
+Schedule 3 clause 1 item 10 of the Table is amended by deleting “Community and Juvenile Justice Division or the Prisons Division of the Department of Justice” and inserting instead —
+“
+department of the Public Service principally assisting in the administration of this Act
+”.
+”.
