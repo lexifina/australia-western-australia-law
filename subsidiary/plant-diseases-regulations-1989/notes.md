@@ -94,7 +94,7 @@ Plant Diseases Amendment Regulations (No. 2) 2005 | 17 May 2005 p. 2131-4 | 17 M
 Plant Diseases Amendment Regulations (No. 3) 2005 | 31 May 2005 p. 2398-9 | 1 Jul 2005 (see r. 2)
 Plant Diseases Amendment Regulations (No. 4) 2005 | 16 Dec 2005 p. 6074-8 | 16 Dec 2005
 Plant Diseases Amendment Regulations (No. 2) 2006 | 7 Feb 2006 p. 615-19 | 7 Feb 2006
-Reprint 4: The Plant Diseases Regulations 1989 as at 3 Mar 2006 (includes amendments listed above)
+Reprint 4: The Plant Diseases Regulations 1989 as at 3 Mar 2006 (includes amendments listed above) (Correction in Gazette 30 Jun 2006 p. 2363)
 Plant Diseases Amendment Regulations 2006 | 21 Apr 2006 p. 1571-4 | 21 Apr 2006
 Plant Diseases Amendment Regulations (No. 4) 2006 | 30 May 2006 p. 1965-6 | 30 May 2006
 Plant Diseases Amendment Regulations (No. 3) 2006 | 16 Jun 2006 p. 2110 | 16 Jun 2006
