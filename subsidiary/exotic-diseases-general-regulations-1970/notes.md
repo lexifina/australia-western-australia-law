@@ -28,6 +28,7 @@ Exotic Diseases (General) Amendment Regulations 2000 | 20 Jun 2000 p. 3004-5 | 1
 Exotic Diseases (General) Amendment Regulations 2002 | 28 Jun 2002 p. 3043-4 | 1 Jul 2002 (see r. 2)
 Reprint 1: The Exotic Diseases (General) Regulations 1970 as at 11 Apr 2003 (includes amendments listed above)
 Exotic Diseases (General) Amendment Regulations 2003 | 17 Jun 2003 p. 2201-2 | 1 Jul 2003 (see r. 2)
+Exotic Diseases (General) Amendment Regulations 2006 | 16 Jun 2006 p. 2115-16 | 1 Jul 2006 (see r. 2)
 Now known as the Local Government Act 1995.
 Now known as the Exotic Diseases (General) Regulations 1970; citation changed (see note under r. 1).
 These regulations were originally made under the Stock Diseases (Regulations) Act 1968. By virtue of the Exotic Diseases of Animals Act 1993 s. 59(2), these regulations continue as if they had been made under that Act.
