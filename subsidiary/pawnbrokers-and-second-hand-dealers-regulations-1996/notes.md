@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 January 2006 of the Pawnbrokers and Second-hand Dealers Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Pawnbrokers and Second-hand Dealers Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Pawnbrokers and Second-hand Dealers Regulations 1996 | 29 Mar 1996 p. 1557-76 | 1 Apr 1996 (see r. 2)
@@ -18,6 +18,7 @@ Pawnbrokers and Second-hand Dealers Amendment Regulations (No. 2) 2004 | 29 Jun 
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2004 | 30 Dec 2004 p. 6975 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2005 | 1 Jul 2005 p. 3005-6 | 1 Sep 2005 (see r. 2)
 Reprint 2: The Pawnbrokers and Second-hand Dealers Regulations 1996 as at 13 Jan 2006 (includes amendments listed above)
+Pawnbrokers and Second-hand Dealers Amendment Regulations 2006 | 27 Jun 2006 p. 2301-2 | 1 Jul 2006 (see r. 2)
 Repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
 Repealed by the Financial Sector (Collection of Data — Consequential and Transitional Provisions) Act 2001 of the Commonwealth.
 Repealed by the Pawnbrokers and Second-hand Dealers Act 1994.
