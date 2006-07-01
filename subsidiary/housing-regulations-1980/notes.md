@@ -10,5 +10,6 @@ Housing Amendment Regulations 1995 | 13 Apr 1995 p. 1323-4 | 13 Apr 1995
 Housing Amendment Regulations 1996 | 16 Jul 1996 p. 3397-8 | 16 Jul 1996
 Housing Amendment Regulations 1997 | 16 Jan 1998 p. 344 | 16 Jan 1998
 Reprint of the Housing Regulations 1980 as at 24 August 2001 (includes amendments listed above)
+Housing Amendment Regulations 2006 | 30 Jun 2006 p. 2360-1 | 1 Jul 2006 (see r. 2)
 Published in Gazette 12 August 1949 p. 2042.
 Repealed by the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998.
