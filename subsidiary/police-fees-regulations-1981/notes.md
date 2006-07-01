@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 April 2006 of the Police (Fees) Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Police (Fees) Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Police (Fees) Regulations 1981 | 13 Feb 1981 p. 612-13 | 13 Feb 1981
@@ -28,3 +28,4 @@ Police (Fees) Amendment Regulations 2004 | 29 Jun 2004 p. 2541-2 | 1 Jul 2004 (s
 Police (Fees) Amendment Regulations 2005 | 1 Jul 2005 p. 3003-5 | 1 Jul 2005 (see r. 2)
 Police (Fees) Amendment Regulations 2006 | 10 Feb 2006 p. 675-6 | 10 Feb 2006
 Reprint 2: The Police (Fees) Regulations 1981 as at 21 Apr 2006 (includes amendments listed above)
+Police (Fees) Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2297-9 | 1 Jul 2006 (see r. 2)
