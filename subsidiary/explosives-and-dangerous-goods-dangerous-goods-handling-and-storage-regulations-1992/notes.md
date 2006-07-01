@@ -23,6 +23,7 @@ Reprint of the Explosives and Dangerous Goods (Dangerous Goods Handling and Stor
 Explosives and Dangerous Goods (Dangerous Goods Handling and Storage) Amendment Regulations 2003 | 27 Jun 2003 p. 2401-2 | 1 Jul 2003 (see r. 2)
 Explosives and Dangerous Goods (Dangerous Goods Handling and Storage) Amendment Regulations 2004 | 29 Jun 2004 p. 2533-4 | 1 Jul 2004 (see r. 2)
 Explosives and Dangerous Goods (Dangerous Goods Handling and Storage) Amendment Regulations 2005 | 28 Jun 2005 p. 2930-1 | 1 Jul 2005 (see r. 2)
+Explosives and Dangerous Goods (Dangerous Goods Handling and Storage) Amendment Regulations 2006 | 27 Jun 2006 p. 2276-7 | 1 Jul 2006 (see r. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Commencement
