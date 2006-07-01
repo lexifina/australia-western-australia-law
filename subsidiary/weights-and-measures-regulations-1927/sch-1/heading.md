@@ -1,4 +1,4 @@
-## Table I
+## Table I .
 Permissible Abbreviations of Denominations of Weights and Measures
 Weights
 Pound ......................................................................................................... | lb.
