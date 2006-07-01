@@ -68,6 +68,7 @@ Ports and Harbours Amendment Regulations 2003 | 27 Jun 2003 p. 2521-5 | 1 Jul 20
 Reprint 1: The Ports and Harbours Regulations as at 1 Aug 2003 (includes amendments listed above)
 Ports and Harbours Amendment Regulations 2004 | 25 Jun 2004 p. 2265-9 | 1 Jul 2004 (see r. 2)
 Ports and Harbours Amendment Regulations 2005 | 24 Jun 2005 p. 2773-7 | 1 Jul 2005 (see r. 2)
+Ports and Harbours Amendment Regulations 2006 | 23 Jun 2006 p. 2208-11 | 1 Jul 2006 (see r. 2)
 Repealed by the Port Authorities (Consequential Provisions) Act 1999.
 Now known as the Australian Maritime Safety Authority.
 Repealed by the Pollution of Waters by Oil and Noxious Substances Act 1987.
