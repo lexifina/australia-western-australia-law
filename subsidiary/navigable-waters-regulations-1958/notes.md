@@ -110,6 +110,7 @@ Navigable Waters Amendment Regulations 2004 | 25 Jun 2004 p. 2264-5 | 1 Jul 2004
 Navigable Waters Amendment Regulations (No. 2) 2004 | 24 Aug 2004 p. 3659-60 | 24 Aug 2004
 Navigable Waters Amendment Regulations 2005 | 24 Jun 2005 p. 2778-9 | 1 Jul 2005 (see r. 2)
 Navigable Waters Amendment Regulations (No. 2) 2005 | 10 Feb 2006 p. 667-75 | 10 Feb 2006
+Navigable Waters Amendment Regulations 2006 | 23 Jun 2006 p. 2207-8 | 1 Jul 2006 (see r. 2)
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 The Navigable Waters Amendment Regulations 1992 r. 9 reads as follows:
 “
