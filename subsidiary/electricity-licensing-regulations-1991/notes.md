@@ -21,6 +21,7 @@ Electricity (Licensing) Amendment Regulations (No. 3) 2004 | 30 Dec 2004 p. 6990
 Courts and Legal Practice (Consequential Amendments) Regulations 2005 r. 6 | 19 Apr 2005 p. 1294-302 | 19 Apr 2005
 Electricity (Licensing) Amendment Regulations (No. 2) 2005 | 19 Aug 2005 p. 3866-7 | 19 Aug 2005
 Reprint 3: The Electricity (Licensing) Regulations 1991 as at 2 Jun 2006 (includes amendments listed above)
+Electricity (Licensing) Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2283-4 | 1 Jul 2006 (see r. 2)
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 “
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the “licensing regulations”) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
