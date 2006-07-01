@@ -7,6 +7,7 @@ Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 11 | 30
 District Court (Fees) Amendment Regulations 2003 | 30 Dec 2003 p. 5702-9 | 1 Jan 2004 (see r. 2)
 District Court (Fees) Amendment Regulations 2005 | 28 Apr 2005 p. 1751-7 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7128)
 District Court (Fees) Amendment Regulations (No. 2) 2005 | 23 Jun 2005 p. 2690-2 | 1 Jul 2005 (see r. 2)
+District Court (Fees) Amendment Regulations 2006 | 23 Jun 2006 p. 2187-9 | 1 Jul 2006 (see r. 2)
 The District Court (Fees) Amendment Regulations 2005 r. 13 reads as follows:
 “
 13.Transitional: recognised reporting services
