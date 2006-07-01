@@ -4,6 +4,8 @@ Compilation table
 Citation | Gazettal | Commencement
 Electricity Industry Exemption Order 2005 | 9 Dec 2005 p. 5878-84 | 1 Jan 2006 (see cl. 2)
 Electricity Industry Exemption Amendment Order 2006 | 31 Mar 2006 p. 1158-9 | 1 Apr 2006 (see cl. 2)
+Electricity Industry Exemption Amendment Order (No. 2) 2006 | 27 Jun 2006 p. 2285-7 | 1 Jul 2006 (see cl. 2)
+Electricity Industry Exemption Amendment Order (No. 3) 2006 | 27 Jun 2006 p. 2287-8 | 1 Jul 2006 (see cl. 2)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -16,6 +18,8 @@ connection point3(1)
 DBNGP corridor12(1)
 DBNGP Transmission12(1)
 electricity reticulation system6(1)
+Eucla15(1)
+Fremantle Port Authority14(1)
 generation capacity3(1)
 PEP Agreement8(1)
 relevant agreement10(1)
