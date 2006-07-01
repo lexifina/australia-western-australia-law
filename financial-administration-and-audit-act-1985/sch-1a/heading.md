@@ -18,7 +18,7 @@ Section | Modification
  | (c)a report on the operations of the department during the financial year.
 68 | 68.The accountable officer of a department shall cause to be submitted to the Auditor General and the Treasurer a copy of the financial statements and the information referred to in section 66(1)(a) and (b).
 69 | 69.(1)The accountable officer shall transmit — (a)a copy of the annual report referred to in section 66 in relation to a financial year; and
-(b) a copy of the opinion of the Auditor General prepared and signed unde section 93 in relation to the financial statements and performance indicators of the department,
+(b)a copy of the opinion of the Auditor General prepared and signed unde section 93 in relation to the financial statements and performance indicators of the department,
 to both Houses of Parliament within the prescribed period if the Parliament is then in session and sitting.
 (2)In subsection (1) —
 “prescribed period” means — (a)128 days after the end of the financial year; or
