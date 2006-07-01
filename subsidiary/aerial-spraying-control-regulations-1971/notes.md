@@ -28,6 +28,7 @@ Sentencing Legislation (Short Sentences) Amendment Regulations 2004 r. 4 | 14 Ma
 Aerial Spraying Control Amendment Regulations 2004 | 30 Dec 2004 p. 6893 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 3: The Aerial Spraying Control Regulations 1971 as at 4 Mar 2005 (includes amendments listed above)
 Aerial Spraying Control Amendment Regulations 2005 | 31 May 2005 p. 2396-7 | 1 Jul 2005 (see r. 2)
+Aerial Spraying Control Amendment Regulations 2006 | 16 Jun 2006 p. 2111 | 1 Jul 2006 (see r. 2)
 Now the Director General of Agriculture. See Agriculture Act 1988 s. 16.
 Now the Minister for Agriculture and Forestry.
 Land Act 1933 repealed. Now see Land Administration Act 1997 s. 6 and Sch. 1.
