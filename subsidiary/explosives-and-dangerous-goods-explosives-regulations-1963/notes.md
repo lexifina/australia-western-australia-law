@@ -44,6 +44,7 @@ Explosives and Dangerous Goods (Explosives) Amendment Regulations 2003 | 27 Jun 
 Explosives and Dangerous Goods (Explosives) Amendment Regulations 2004 | 29 Jun 2004 p. 2534-6 | 1 Jul 2004 (see r. 2)
 Explosives and Dangerous Goods (Explosives) Amendment Regulations 2005 | 28 Jun 2005 p. 2926-7 | 1 Jul 2005 (see r. 2)
 Explosives and Dangerous Goods (Explosives) Amendment Regulations (No. 2) 2005 | 3 Jan 2006 p. 3-4 | 3 Jan 2006
+Explosives and Dangerous Goods (Explosives) Amendment Regulations 2006 | 27 Jun 2006 p. 2277-9 | 1 Jul 2006 (see r. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Commencement
