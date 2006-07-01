@@ -8,3 +8,4 @@ Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 38 | 30
 Supreme Court (Fees) Amendment Regulations 2003 | 30 Dec 2003 p. 5693-5701 | 1 Jan 2004 (see r. 2)
 Supreme Court (Fees) Amendment Regulations 2005 | 28 Apr 2005 p. 1758-63 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7128)
 Supreme Court (Fees) Amendment Regulations (No. 2) 2005 | 23 Jun 2005 p. 2693-701 | 1 Jul 2005 (see r. 2)
+Supreme Court (Fees) Amendment Regulations 2006 | 23 Jun 2006 p. 2184-7 | 1 Jul 2006 (see r. 2)
