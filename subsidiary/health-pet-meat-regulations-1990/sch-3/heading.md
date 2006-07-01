@@ -206,14 +206,3 @@ Signature of Transferee ........................................................
 Dated at ........................... this ...................... day of ............................. 20 ..........
 *Delete if not applicable.
 [Schedule 3 erratum in Gazette 28 Jun 1991 p. 3154; amended in Gazette 28 Jun 1991 p. 3134; 1 May 2001 p. 2230.]
-## Schedule 4
-Fees
-Item | Regulation | Service | Fee ($)
-1. | 10(2) | Registration of a knackery | 338
-2. | 10(4) | Hire of a stamp for a knackery | 55
-3. | 13(2) | Registration of a processing establishment | 338
-4. | 18(2) | Hire of a brand for a processing establishment | 55
-5. | 33(2) | Registration of a Class 1 pet meat shop | 205
-6. | 33(2) | Registration of a Class 2 pet meat shop | 113
-7. | 52(1) | Transfer of registration | 113
-[Schedule 4 inserted in Gazette 31 May 2005 p. 2409-10.]
