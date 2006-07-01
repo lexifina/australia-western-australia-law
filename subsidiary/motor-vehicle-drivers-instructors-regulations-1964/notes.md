@@ -42,6 +42,7 @@ Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 27 | 30
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2004 | 28 May 2004 p. 1841 | 1 Jul 2004 (see r. 2)
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 3) 2004 | 30 Dec 2004 p. 6954 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2005 | 27 May 2005 p. 2304 | 1 Jul 2005 (see r. 2)
+Motor Vehicle Drivers Instructors Amendment Regulations (No. 4) 2006 | 23 Jun 2006 p. 2222-3 | 1 Jul 2006 (see r. 2)
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the name of the former Education Department of Western Australia was changed to the Department of Education.
 Now superseded by the Fire and Emergency Services Authority of Western Australia.
 These regulations were purportedly repealed by the Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 1982 (published in Gazette 26 Mar 1982 p. 1073).
