@@ -31,4 +31,5 @@ Travel Agents Amendment Regulations 2003 | 27 Jun 2003 p. 2555-6 | 1 Jul 2003 (s
 Reprint 2: The Travel Agents Regulations 1986 as at 14 Nov 2003 (includes amendments listed above)
 Travel Agents Amendment Regulations (No. 2) 2003 | 9 Mar 2004 p. 733-4 | 9 Mar 2004
 Travel Agents Amendment Regulations 2004 | 31 Dec 2004 p. 7136-7 | 1 Jan 2005 (see r. 2)
+Travel Agents Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2259-60 | 1 Jul 2006 (see r. 2)
 The Rural and Industries Bank of Western Australia Act 1987 was repealed by the R and I Bank Act 1990, the short title of which was changed to the R and I Holdings Act 1990 by the Bank of Western Australia Act 1995.
