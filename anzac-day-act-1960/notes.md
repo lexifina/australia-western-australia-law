@@ -18,6 +18,7 @@ Acts Amendment (Equality of Status) Act 2003 Pt. 3 | 28 of 2003 | 22 May 2003 | 
 Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 73 | 35 of 2003 | 26 Jun 2003 | 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
 Anzac Day Amendment Act 2003 | 62 of 2003 | 26 Nov 2003 | 26 Nov 2003 (see s. 2)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Footnote no longer applicable.
 Repealed by the Liquor Act 1970 which was repealed by the Liquor Licensing Act 1988.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:

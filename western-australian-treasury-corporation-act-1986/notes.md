@@ -20,6 +20,7 @@ Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 17 | 21 of 2003 | 2
 Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 132 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 2: The Western Australian Treasury Corporation Act 1986 as at 2 Sep 2005 (includes amendments listed above)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 11 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
@@ -75,4 +76,20 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 31.Western Australian Treasury Corporation Act 1986 amended
 (1) The amendment in this section is to the Western Australian Treasury Corporation Act 1986.
 (2) Schedule 1 item 4 is deleted.
+”.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 12 reads as follows:
+“
+Division 12 — Transitional provisions
+451.Western Australian Treasury Corporation Act 1986 and Gold Corporation Act 1987
+(1) A thing done by the Treasurer before commencement under, or for the purposes of —
+(a) section 10(2)(fa)(xii) or 17A(3) of the Western Australian Treasury Corporation Act 1986; or
+(b) section 16(1)(a) or (b) or 21(1) of the Gold Corporation Act 1987,
+has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done by the Minister with the concurrence of the Treasurer.
+(2) A thing done or omitted to be done by, to or in relation to, the Treasurer before commencement under, or for the purposes of —
+(a) a provision of the Western Australian Treasury Corporation Act 1986 amended by section 450; or
+(b) section 16(2)(a) or 21(2), (4), (5) or (6) of the Gold Corporation Act 1987,
+has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the Minister.
+(3) In this section —
+“commencement” means the time at which this Division comes into operation;
+“Minister” means the Minister to whom the administration of the Western Australian Treasury Corporation Act 1986 is committed.
 ”.

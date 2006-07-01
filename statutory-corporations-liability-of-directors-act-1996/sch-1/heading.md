@@ -31,7 +31,6 @@ Potato Marketing Corporation of Western Australia | a member of the Corporation 
 Racing and Wagering Western Australia | a director of the board | Racing and Wagering Western Australia Act 2003
 Rottnest Island Authority | a member of the Authority | Rottnest Island Authority Act 1987
 State Government Insurance Corporation | a director of the Corporation | Insurance Commission of Western Australia Act 1986
-State Housing Commission | a member of the Commission | Housing Act 1980
 South West Development Commission | a Board member | Regional Development Commissions Act 1993
 Subiaco Redevelopment Authority | a member of the Authority | Subiaco Redevelopment Act 1994
 Western Australian Coastal Shipping Commission | a Commissioner | Western Australian Coastal Shipping Commission Act 1965
@@ -39,5 +38,5 @@ Western Australian Land Authority | a director | Western Australian Land Authori
 Western Australian Meat Commission | a member of the Commission | Abattoirs Act 1909
 Western Australian Meat Industry Authority | a member of the Authority | Western Australian Meat Industry Authority Act 1976
 Western Australian Treasury Corporation | a director | Western Australian Treasury Corporation Act 1986
-[Schedule 1 amended by No. 4 of 1998 s. 48; No. 30 of 1998 s. 8; No. 25 of 1998 s. 27; No. 46 of 1998 s. 12; No. 5 of 1999 s. 21; No. 8 of 1999 s. 19; No. 38 of 1999 s. 76; No. 34 of 2000 s. 72; No. 43 of 2000 s. 65; No. 25 of 2001 s. 69; No. 30 of 2002 s. 47; No. 31 of 2003 s. 208(2); No. 35 of 2003 s. 24(2) and 52; No. 20 of 2004 s. 9; amended in Gazette 26 Nov 2004 p. 5314-15.]
+[Schedule 1 amended by No. 4 of 1998 s. 48; No. 30 of 1998 s. 8; No. 25 of 1998 s. 27; No. 46 of 1998 s. 12; No. 5 of 1999 s. 21; No. 8 of 1999 s. 19; No. 38 of 1999 s. 76; No. 34 of 2000 s. 72; No. 43 of 2000 s. 65; No. 25 of 2001 s. 69; No. 30 of 2002 s. 47; No. 31 of 2003 s. 208(2); No. 35 of 2003 s. 24(2) and 52; No. 20 of 2004 s. 9; No. 28 of 2006 s. 45; amended in Gazette 26 Nov 2004 p. 5314-15.]
 [Schedule 2 omitted by the Reprints Act 1984 s. 7(4)(e).]

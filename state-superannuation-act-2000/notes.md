@@ -8,6 +8,7 @@ Acts Amendment (Lesbian and Gay Law Reform) Act 2002 Pt. 19 | 3 of 2002 | 17 Apr
 Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 15 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth Gazette 24 Oct 2001 (No. GN42)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 120 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Superannuation Legislation Amendment and Validation Act 2006 Pt. 3, s. 17 and 18 | 18 of 2006 | 31 May 2006 | 31 May 2006 (see s. 2)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 9 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 NB.Also see State Superannuation (Transitional and Consequential Provisions) Act 2000 (No. 43 of 2000).
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
 “

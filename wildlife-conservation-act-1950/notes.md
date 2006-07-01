@@ -36,7 +36,9 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 133 | 74 of 2003 | 15 Dec 20
 Reprint 6: The Wildlife Conservation Act 1950 as at 3 Sep 2004 (includes amendments listed above)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+ | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+ | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 5 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Now known as the Wildlife Conservation Act 1950; short title changed (see note under s. 1).
 The table to s. 132(23) of the Statutes (Repeals and Minor Amendments) Act 1997 had no effect in the purported amendments of s. 15(1a) and (1b) and 23C(2a) because s. 15(1a) and (1b) were repealed by s. 132(3) and s. 23C(2a) was inserted by s. 132(13).
 Section 48A and the Second Schedule were inserted by No. 73 of 1954 s. 8.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Part 19 provides general transitional provisions concerning references to Departments and chief executive officers that are amended or repealed by that Act.

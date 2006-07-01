@@ -10,7 +10,8 @@ Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 45 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
 Reprint of the Local Government Grants Act 1978 as at 1 Mar 2002 (includes amendments listed above)
 Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
-Under the Alterations of Statutory Designations Order (No. 3) 2001 the former Department of Local Government is now called the Department of Local Government and Regional Development.
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Footnote no longer applicable.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to chief executive officer. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Local Government Grants Amendment Act 1988 s. 7 reads as follows:
 “

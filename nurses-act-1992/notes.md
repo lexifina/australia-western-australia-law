@@ -9,7 +9,8 @@ Corporations (Consequential Amendments) Act 2001 Pt. 41 | 10 of 2001 | 28 Jun 20
 Nurses Amendment Act 2003 Pt. 2 | 9 of 2003 | 9 Apr 2003 | 9 Apr 2003 (see s. 2)
 Reprint 2: The Nurses Act 1992 as at 20 Feb 2004 (includes amendments listed above)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 88 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+ | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+ | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 10 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
@@ -65,3 +66,14 @@ but the Board has not determined that a formal inquiry is to be held, on or afte
 (b) that matter is transferred to the Tribunal under the Act section 167(5),
 despite the Act section 32(2) and (3), the Evidence Act 1906 and the rules of evidence continue to apply to the matter when it is being dealt with by the Tribunal.
 ”.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
+“
+Division 13 — Transitional provisions
+289.Commissioner of Health
+(1) A thing done or omitted to be done by, to or in relation to, the Commissioner of Health before commencement under, or for the purposes of, an enactment has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the CEO.
+(2) In this section —
+“CEO” has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
+“commencement” means the time at which this Division comes into operation;
+“Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
+”.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Part 19 provides general transitional provisions concerning references to Departments and chief executive officers that are amended or repealed by that Act.

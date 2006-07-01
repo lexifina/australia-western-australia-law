@@ -88,6 +88,7 @@ Criminal Law Amendment (Simple Offences) Act 2004 s. 19(3) and 82 | 70 of 2004 |
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 8, s. 80, 82 and 85 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 13: The Evidence Act 1906 as at 1 Jul 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 12 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
+Machinery of Government (Miscellaneous Amendments) Act 2006 s. 35 and 37 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 “
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
@@ -97,7 +98,7 @@ Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a 
 The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Companies (Western Australia) Act 1991 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
 Largely, but not completely, superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth.
 The Companies Act 1961 was superseded by the Companies (Western Australia) Code (see endnote 5); see section 18 of the Companies (Application of Laws) Act 1981.
-Under the Alteration of Statutory Designations Order 2003 a reference in a written law to the former Department of Mines is, unless the contrary is intended, to be read and construed as a reference to the Department of Industry and Resources. At the time this reprint was prepared the Minister was the Minister for State Development.
+Footnote no longer applicable.
 The Acts Amendment (Video and Audio Links) Act 1998 s. 3 reads as follows:
 “
 3.Power to use certain technology
@@ -110,15 +111,15 @@ The Acts Amendment (Video and Audio Links) Act 1998 s. 3 reads as follows:
 (d)the Sentencing Act 1995,
 as amended by this Act.
 ”.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time this reprint was prepared the former Department of Lands and Surveys was called the Department of Land Information and the Minister was the Minister for Land Information.
-Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in a written law to the Treasurer’s Department is, unless the contrary is intended, to be read and construed as a reference to the Department of Treasury and Finance.
-Under the Alteration of Statutory Designations Order 2003 a reference in a written law to the Education Department is, unless the contrary is intended, to be read and construed as a reference to the Department of Education and Training. At the time this reprint was prepared the Minister was the Minister for Education and Training.
-At the time this reprint was prepared the department was called the Department of Agriculture. The Alteration of Statutory Designations Order (No. 3) 2001 repealed the Alteration of Statutory Designations Order 1996 under which the Department of Agriculture had been designated Agriculture Western Australia.
-At the time this reprint was prepared, the Department of Justice was the department of the Public Service assisting in the administration of the Acts the administration of which had been committed to the Attorney General.
-At the time this reprint was prepared this department did not exist.
-Under the Alteration of Statutory Designations Order (No. 2) 1985 a reference in a written law to the Chief Secretary is, unless the contrary is intended, to be read and construed as a reference to the Minister for Racing and Gaming.
-Under the Acts Amendment (Ministry of Justice) Act 1993 s. 69 a reference in a written law to the former Department of Corrective Services (formerly called Department of Corrections) or to the chief executive officer of that department was to be read as a reference to the Ministry of Justice or to the chief executive officer of the Ministry of Justice, as was appropriate. Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in a written law to the Ministry of Justice is, unless the contrary is intended, to be read and construed as a reference to the Department of Justice.
-Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in a written law to the Public Works Department is, unless the contrary is intended, to be read and construed as a reference to the Department for Housing and Works. At the time this reprint was prepared the Minister was the Minister for Housing and Works.
+Footnote no longer applicable.
+Footnote no longer applicable.
+Footnote no longer applicable.
+Footnote no longer applicable.
+Footnote no longer applicable.
+Footnote no longer applicable.
+Footnote no longer applicable.
+Footnote no longer applicable.
+Footnote no longer applicable.
 The Evidence Amendment Act 1987 s. 10 repealed the Evidence Act Amendment Act 1974.
 The Acts Amendment (Abortion) Act 1998 s. 6(2) reads as follows:
 “
@@ -173,3 +174,4 @@ Part 4 — Transitional and validation
 (2) Any payment purporting to have been made under the fee regulations before the coming into operation of section 28 is taken to have been, and to have always been, as valid as it would have been if section 28 had come into operation before the fee regulations were made.
 ”.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to amend s. 56(1) is not included because the subsection it sought to amend was replaced by s. 82 (Sch. 2 it. 118) of this Act.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 36 to amend s. 106A is not included because the paragraph it sought to amend has been amended by the Children and Community Services Act 2004 Sch. 2 cl. 9.

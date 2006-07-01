@@ -12,6 +12,7 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 51 | 65 of 200
 Reprint 1: The Mental Health Act 1996 as at 6 Aug 2004 (includes amendments listed above)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 81 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 9 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and Year | Assent | Commencement
@@ -196,3 +197,14 @@ Schedule 3 — Consequential amendments
 (2) Section 19(1)(b)(ii) is amended by deleting “Occupational Therapists Registration Act 1980” and inserting instead —
 “ Occupational Therapists Act 2005 ”.
 ”.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
+“
+Division 13 — Transitional provisions
+289.Commissioner of Health
+(1) A thing done or omitted to be done by, to or in relation to, the Commissioner of Health before commencement under, or for the purposes of, an enactment has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the CEO.
+(2) In this section —
+“CEO” has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
+“commencement” means the time at which this Division comes into operation;
+“Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
+”.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Part 19 provides general transitional provisions concerning references to Departments and chief executive officers that are amended or repealed by that Act.

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 May 2006 of the Aboriginal Affairs Planning Authority Act 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Aboriginal Affairs Planning Authority Act 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Aboriginal Affairs Planning Authority Act 1972 | 24 of 1972 | 9 Jun 1972 | 1 Jul 1972 (see s. 2 and Gazette 30 Jun 1972 p. 2099)
@@ -25,10 +25,23 @@ Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 M
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Aboriginal Affairs Planning Authority Act 1972 as at 12 May 2006 (includes amendments listed above)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 11 Div 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Public Sector Management Act 1994.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department of Western Australia is read and construed as a reference to the Department of Health.
-Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Education Department is read and construed as a reference to the Department of Education and Training.
+Footnote no longer applicable.
+Footnote no longer applicable.
 Repealed by the Mining Act 1978.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 11 Div. 2 reads as follows:
+“
+Division 2 — Transitional provisions
+350.Aboriginal Affairs Planning Authority Act 1972
+(1) A thing done or omitted to be done by, to or in relation to the Commissioner before commencement has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to the CEO.
+(2) Section 35(5) of the Aboriginal Affairs Planning Authority Act 1972 (as in force before commencement) continues to apply in relation to things done or omitted to be done before commencement by the Director-General of the department established under section 4 of the Community Services Act 1972 (as in force immediately before commencement).
+(3) In this section —
+“CEO” has the meaning given by section 4 of the Aboriginal Affairs Planning Authority Act 1972 as in force after commencement;
+“commencement” means the time at which section 342 comes into operation;
+“Commissioner” has the meaning given to “Commissioner for Aboriginal Affairs” by section 10 of the Aboriginal Affairs Planning Authority Act 1972 as in force before commencement.
+”.
+The requirement to appoint a Commissioner for Aboriginal Planning was removed from the Act and references to the Commissioner were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 11 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Commissioner in written laws.

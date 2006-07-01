@@ -10,6 +10,7 @@ Sentencing (Consequential Provisions) Act 1995 s. 147 | 78 of 1995 | 16 Jan 1996
 Financial Legislation Amendment Act 1996 s. 63 and 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
 Western Australian Coastal Shipping Commission Amendment Act 1997 | 35 of 1997 | 19 Nov 1997 | 19 Nov 1997 (see s. 3)
 Reprint of the Western Australian Coastal Shipping Commission Act 1965 as at 8 Mar 2002 (includes amendments listed above)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 13 Div 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date on which this reprint was prepared, provisions referred to in the following table had not come into operation and are not included in this reprint. For the text of the provisions see the endnote referred to after the short title.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

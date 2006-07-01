@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 June 2006 of the Conservation and Land Management Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Conservation and Land Management Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Act 1984 | 126 of 1984 | 8 Jan 1985 | 22 Mar 1985 (see s. 2 and Gazette 15 Mar 1985 p. 931)
@@ -44,7 +44,8 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 6: The Conservation and Land Management Act 1984 as at 9 Jun 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 s. 51 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
@@ -193,7 +194,7 @@ The operation of any provision of this Schedule is not to be regarded —
 (d) as causing any contract or other instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
 ”.
-On the date as at which this reprint was prepared, the Conservation and Land Management Amendment Act 1991 s. 51 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 1991 s. 51 had not come into operation. It reads as follows:
 “
 51.Part IXA inserted
 After section 125 of the principal Act the following Part is inserted —
@@ -285,7 +286,7 @@ Subject to this Part, the provisions of the Financial Administration and Audit A
 (2) The Minister shall prepare a report based on the review carried out under subsection (1) and shall, as soon as practicable, cause that report to be laid before each House of Parliament.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3 had not come into operation. It reads as follows:
 “
 Part 3 — Amendments to Conservation and Land Management Act 1984
 11.The Act amended by this Part
@@ -312,3 +313,20 @@ Section 4(1) is amended by inserting after “Mining Act 1978,” —
 Section 60(2b) is amended by inserting after “Mining Act 1978,” —
 “ the Offshore Minerals Act 2003, ”.
 ”.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 7 reads as follows:
+“
+Division 7 — Transitional provisions
+224.Conservation and Land Management Act 1984
+(1) A thing done or omitted to be done before commencement by, to or in relation to the Executive Director (other than as the body corporate referred to in section 38 of the Conservation and Land Management Act 1984 as in force before commencement) under, or for the purposes of, an enactment has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to the CEO under, or for the purposes of, that enactment.
+(2) The Conservation and Land Management Executive Body established by section 36 of the Conservation and Land Management Act 1984 (as in force after commencement) is a continuation of, and the same legal person as, the body corporate referred to in section 38 of that Act (as in force before commencement).
+(3) Land placed under the management of the Department under section 33(2) of the Conservation and Land Management Act 1984 before commencement is to be taken to have been placed, on commencement, under the management of the CEO under that Act.
+(4) The Registrar of Titles or the Registrar of Deeds and Transfers may make any entry in, or any endorsement or notation on, the title, land register or other record in respect of land that is necessary because of subsection (3).
+(5) A reference in a written law or any other instrument to land under the management of the Department under the Conservation and Land Management Act 1984 is to be read as a reference to land under the management of the CEO.
+(6) A reference in a written law or any other instrument to the Director of Nature Conservation, the Director of Forests or the Director of National Parks is to be read as a reference to the CEO.
+(7) In this section —
+“CEO” has the meaning given by section 3 of the Conservation and Land Management Act 1984 as in force after commencement;
+“commencement” means the time at which section 183 comes into operation;
+“Executive Director” means the Executive Director referred to in section 36 of the Conservation and Land Management Act 1984 as in force before commencement,
+and, unless the contrary intention appears, other words and expressions in this section have the same respective meanings as they have in the Conservation and Land Management Act 1984.
+”.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Part 19 provides general transitional provisions concerning references to Departments and chief executive officers that are amended or repealed by that Act.

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 February 2006 of the Financial Administration and Audit Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Financial Administration and Audit Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Financial Administration and Audit Act 1985 | 117 of 1985 | 30 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
@@ -167,7 +167,8 @@ Financial Administration Legislation Amendment Act 2005 Pt. 2 (s. 3-26) | 5 of 2
 Financial Administration and Audit (Designation of Statutory Authorities) Regulations 2005 published in Gazette 1 Jul 2005 p. 3007 | 1 Jul 2005
 Financial Administration and Audit (Designation of Statutory Authorities) Regulations (No. 2) 2005 published in Gazette 28 Oct 2005 p. 4842 | 28 Oct 2005
 Reprint 9: The Financial Administration and Audit Act 1985 as at 10 Feb 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+On the date as at which this consolidation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this consolidation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 Sch. it. 2 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
@@ -202,7 +203,7 @@ as the case may be.
 “General Loan and Capital Works Fund” means the fund of that name in existence under the Financial Administration and Audit Act 1985 before section 8 of this Act comes into operation.
 ”.
 The commencement date that was specified was before the date of gazettal.
-On the date as at which this reprint was prepared, the Conservation and Land Management Amendment Act 1991 s. 57, which gives effect to the Sch., had not come into operation. It reads as follows:
+On the date as at which this consolidation was prepared, the Conservation and Land Management Amendment Act 1991 s. 57, which gives effect to the Sch., had not come into operation. It reads as follows:
 “
 57.Consequential amendments to other Acts
 The Acts referred to in the first column of the Schedule are amended in the manner set out in the second column.
@@ -214,7 +215,7 @@ Schedule
 Short title of Act | Amendment
 2.Financial Administration and Audit Act 1985 | In Schedule 1, the following item is inserted in the appropriate alphabetical position — “ Nature Conservation Trust of Western Australia ”.
 ”.
-On the date as at which this reprint was prepared, the Acts Amendment (ICWA) Act 1996 s. 38, which gives effect to Sch. 1, had not come into operation. It reads as follows:
+On the date as at which this consolidation was prepared, the Acts Amendment (ICWA) Act 1996 s. 38, which gives effect to Sch. 1, had not come into operation. It reads as follows:
 “
 38.Consequential amendments
 The Acts referred to in the Schedule are amended as set out in Schedule 1.
@@ -226,7 +227,7 @@ Schedule 1 — Consequential amendments to other Acts
 Provision amended | Amendment
 Schedule 1 | ... (c)Delete the item “State Government Insurance Corporation”. ...
 ”.
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this consolidation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3.Consequential provisions
 Schedule 2 has effect.
@@ -240,7 +241,7 @@ Division 3 — Financial Administration and Audit Act 1985
 Schedule 1 to the Financial Administration and Audit Act 1985 is amended by inserting in the appropriate alphabetical position the following —
 “ Native Title Commission ”.
 ”.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 44 had not come into operation. It reads as follows:
+On the date as at which this consolidation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 44 had not come into operation. It reads as follows:
 “
 44.Financial Administration and Audit Act 1985 amended
 Section 73 of the Financial Administration and Audit Act 1985 is amended as follows:

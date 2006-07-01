@@ -15,6 +15,7 @@ Reprint of the Street Alignment Act 1884 as at 21 Dec 2001 (includes amendments 
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Machinery of Government (Miscellaneous Amendments) Act 2006 s. 452(2) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 4 & 5 Vict. No. 18 (1841) repealed by 14 Vict. No. 15 (1850).
 The Limitation Act 1935 s. 48A(2) reads as follows:
 “
@@ -24,3 +25,4 @@ The Limitation Act 1935 s. 48A(2) reads as follows:
 are repealed.
 ”.
 Now known as the Street Alignment Act 1844; short title inserted (see note under s. 18).
+The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.

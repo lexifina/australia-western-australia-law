@@ -7,4 +7,5 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 95 & 144(2) | 74 of 2003 | 1
 Professional Standards Amendment Act 2004 | 25 of 2004 | 28 Sep 2004 | 26 Jan 2005 (see s. 2 and Gazette 25 Jan 2005 p. 339)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Reprint 1: The Professional Standards Act 1997 as at 18 Mar 2005 (includes amendments listed above except those in the Courts Legislation Amendment and Repeal Act 2004)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On 15 July 2001 the Corporations (Western Australia) Act 1990 was superseded by the Corporations Act 2001 of the Commonwealth, see Part 2 of the Corporations (Ancillary Provisions) Act 2001.

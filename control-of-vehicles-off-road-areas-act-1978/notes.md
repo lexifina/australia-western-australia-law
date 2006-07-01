@@ -30,6 +30,7 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Control of Vehicles (Off-road Areas) Act 1978 as at 17 Feb 2006 (includes amendments listed above except those in the Control of Vehicles (Off-road Areas) Act 1978 s. 11)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -57,8 +58,8 @@ Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Local Government Department is now called the Department of Local Government and Regional Development.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Public Health Department is now called the Department of Health.
 Under the Health Legislation Amendment Act 1984 the former Commissioner of Public Health is now called the Commissioner of Health.
-Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
-Repealed by the Conservation and Land Management Act 1984.
+Footnote no longer required.
+Footnote no longer required.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 11(2) and (3) read as follows:
 “
 (2) The balance of the Off-Road Vehicles Account as it was before this section came into operation is to be the opening balance of the account of that name established under the Control of Vehicles (Off-road Areas) Act 1978 section 43(3) as amended by subsection (1).

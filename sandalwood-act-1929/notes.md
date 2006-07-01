@@ -12,4 +12,5 @@ Sandalwood Amendment Act 1996 | 74 of 1996 | 13 Nov 1996 | 11 Dec 1996
 Land Administration Amendment Act 2000 s. 51 | 59 of 2000 | 7 Dec 2000 | 10 Apr 2001 (see s. 2(2) and Gazette 10 Apr 2001 p. 2073)
 Reprint of the Sandalwood Act 1929 as at 4 Jan 2002 (includes amendments listed above)
 Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 12 | 70 of 2003 | 15 Dec 2003 | 21 Apr 2004 (see s. 2 and Gazette 20 Apr 2004 p.1297)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Repealed by the Mining Act 1978.
