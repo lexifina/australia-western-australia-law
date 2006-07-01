@@ -58,15 +58,16 @@ Item | Nature of instrument | Duty payable $ | Person liable to pay duty
  | (3)A lease of any lands or tenements at a rent and in consideration of a premium, fine or the like, or an agreement for such a lease | Duty equal to the amount of duty payable on a conveyance in consideration of the premium, fine or the like under item 4 | The lessee
 13. | MORTGAGES (INCLUDING HOME MORTGAGES)
  | (1) | If no advance has been made under the mortgage.................................... | $20.00 | Mortgagor
- | (2) | For the amount secured by a mortgage other than a home mortgage......................................... | $20.00 for any amount up to and including $5 000, plus $0.40 for each additional $100 and every fractional part of $100 | Mortgagor
- | (2a)For the amount secured by a home mortgage where the whole of the secured amount is used for the mortgagor’s dwellinghouse as provided in section 85(2)...................... | $20.00 for any amount up to and including $8 000 plus $0.25 for each additional $100 and every fractional part of $100 | Mortgagor
- | (2b)For the amount secured by a home mortgage where only part of the secured amount is used for the mortgagor’s dwellinghouse as provided in section 85(2)...................... | $20.00 for any amount up to and including $8 000 plus $0.25 for each additional $100 and every fractional part of $100 that is used for the mortgagor’s dwellinghouse, plus $0.40 for each $100 and every fractional part of $100 that is not used for the mortgagor’s dwellinghouse | Mortgagor
+ | (2) | For the amount secured by a mortgage other than a home mortgage......................................... | $20.00 for any amount up to and including $10 000, plus $0.20 for each additional $100 and every fractional part of $100 | Mortgagor
+ | (2a)For the amount secured by a home mortgage where the whole of the secured amount is used for the mortgagor’s dwellinghouse as provided in section 85(2)...................... | $20.00 for any amount up to and including $16 000 plus $0.125 for each additional $100 and every fractional part of $100 | Mortgagor
+ | (2b)For the amount secured by a home mortgage where only part of the secured amount is used for the mortgagor’s dwellinghouse as provided in section 85(2)...................... | $20.00 for any amount up to and including $16 000 plus $0.125 for each additional $100 and every fractional part of $100 that is used for the mortgagor’s dwellinghouse, plus $0.20 for each $100 and every fractional part of $100 that is not used for the mortgagor’s dwellinghouse | Mortgagor
  | (3)An instrument setting out the transfer or assignment of any mortgage —
  | (a)by way of sale for a consideration in money or money’s worth for not less than market value..................... | 20.00 | Transferee
  | (aa)by way of sale, other than a sale to which paragraph (a) of this subitem applies.................. | See item 4 | Transferee
  | (b)by way of gift............................ | See item 19 | Donor
  | [(c)deleted]
  | (d)of any other kind....................... | 20.00 | Transferee
+ |  | The duty payable under item 13 is to be rounded down to the nearest 5 cents.
 14. | VEHICLE LICENCES, GRANT OR TRANSFER
  | (1)On the grant or transfer of a licence for a vehicle that is not a heavy vehicle — |  | The person in whose name the licence is granted or the transferee; and see section 76H(2)
  | (a)where the market value of the vehicle does not exceed $15 000 | 2.75% of the market value
