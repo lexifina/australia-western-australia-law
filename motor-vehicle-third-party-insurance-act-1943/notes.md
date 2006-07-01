@@ -59,11 +59,7 @@ Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 11: The Motor Vehicle (Third Party Insurance) Act 1943 as at 2 Dec 2005 (includes amendments listed above)
-Motor Vehicle (Third Party Insurance) Amendment Act 2006 s. 4, 6 and 7 | 15 of 2006 | 17 May 2006 | 17 May 2006 (see s. 2(1))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
- | Short title | Number and year | Assent | Commencement
-Motor Vehicle (Third Party Insurance) Amendment Act 2006 s. 5 | 15 of 2006 | 17 May 2006 | To be proclaimed (see s. 2(2))
+Motor Vehicle (Third Party Insurance) Amendment Act 2006 | 15 of 2006 | 17 May 2006 | Act other than s. 5: 17 May 2006 (see s. 2(1)); s. 5: 1 Jul 2006 (see s. 2(2) and Gazette 16 Jun 2006 p. 2109)
 For the purposes of s. 3C and 3D, the Amounts A, B, C and D for the financial years beginning after 30 June 1994 up to the date of this reprint are as set out in this Table.
 Financial year beginning | Amount A | Amount B | Amount C | Amount D | Gazette
 1 July 1994 | $201 000 | $10 000 | $30 000 | $5 000 | 24 Jun 1994 p. 2944
@@ -139,16 +135,4 @@ The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 
 (4) To the extent that a regulation including a provision described in subsection (1) may have effect before the day of its publication in the Gazette, it does not —
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State), the rights of that person existing before the day of its publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of its publication.
-”.
-On the date as at which this compilation was prepared, the Motor Vehicle (Third Party Insurance) Amendment Act 2006 s. 5 had not come into operation. It reads as follows:
-“
-5.Section 3G inserted
-Before section 3Q the following section is inserted —
-“
-3G.Liability of employers
-(1) This section has effect if the death of or bodily injury to a person is directly caused by, or by the driving of, a motor vehicle in circumstances giving rise to the owner of the motor vehicle being liable to pay compensation under the Workers’ Compensation and Injury Management Act 1981 in respect of that death or bodily injury or which would have given rise to liability of that kind but for section 22 of that Act.
-(2) If this section has effect, neither this Act nor a contract of insurance under this Act apply in respect of liability for negligence which may be incurred by the owner in respect of the death or bodily injury other than liability for the negligent driving of the motor vehicle.
-(3) In subsection (2) —
-“owner” includes any person for whose negligence the owner is legally responsible.
-”.
 ”.
