@@ -19,3 +19,4 @@ Marine Navigational Aids Amendment Regulations 2003 | 27 Jun 2003 p. 2520 | 1 Ju
 Marine Navigational Aids Amendment Regulations 2004 | 25 Jun 2004 p. 2288 | 1 Jul 2004 (see r. 2)
 Reprint 2: The Marine Navigational Aids Regulations 1985 as at 1 Apr 2005 (includes amendments listed above)
 Marine Navigational Aids Amendment Regulations 2005 | 24 Jun 2005 p. 2783-4 | 1 Jul 2005 (see r. 2)
+Marine Navigational Aids Amendment Regulations 2006 | 23 Jun 2006 p. 2205 | 1 Jul 2006 (see r. 2)
