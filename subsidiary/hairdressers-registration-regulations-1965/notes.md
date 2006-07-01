@@ -30,4 +30,5 @@ Hairdressers Registration Amendment Regulations 2003 | 4 Apr 2003 p. 1024-5 | 4 
 Hairdressers Registration Amendment Regulations 2004 | 29 Jun 2004 p. 2510-11 | 1 Jul 2004 (see r. 2)
 Hairdressers Registration Amendment Regulations 2005 | 28 Jun 2005 p. 2915-16 | 1 Jul 2005 (see r. 2)
 Hairdressers Registration Amendment Regulations 2006 | 12 May 2006 p. 1782-3 | 12 May 2006
+Hairdressers Registration Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2266-7 | 1 Jul 2006 (see r. 2)
 Repealed by the Industrial Relations Act 1979 (No. 114 of 1979).
