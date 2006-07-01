@@ -21,3 +21,4 @@ W.A. Marine Amendment Regulations 2002 r. 5 | 14 Jun 2002 p. 2825-35 | 1 July 20
 W.A. Marine (Radiotelephony) Amendment Regulations 2003 | 27 Jun 2003 p. 2528 | 1 Jul 2003 (see r. 2)
 W.A. Marine (Radiotelephony) Amendment Regulations 2004 | 25 Jun 2004 p. 2262 | 1 Jul 2004 (see r. 2)
 W.A. Marine (Radiotelephony) Amendment Regulations 2005 | 24 Jun 2005 p. 2781-2 | 1 Jul 2005 (see r. 2)
+W.A. Marine (Radiotelephony) Amendment Regulations 2006 | 23 Jun 2006 p. 2213-14 | 1 Jul 2006 (see r. 2)
