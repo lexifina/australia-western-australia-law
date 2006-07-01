@@ -7,6 +7,7 @@ Dangerous Goods (Transport) (Dangerous Goods in Ports) Amendment Regulations 200
 Dangerous Goods (Transport) (Dangerous Goods in Ports) Amendment Regulations 2003 | 27 Jun 2003 p. 2398-9 | 1 Jul 2003 (see r. 2)
 Dangerous Goods (Transport) (Dangerous Goods in Ports) Amendment Regulations 2004 | 29 Jun 2004 p. 2539 | 1 Jul 2004 (see r. 2)
 Dangerous Goods (Transport) (Dangerous Goods in Ports) Amendment Regulations 2005 | 28 Jun 2005 p. 2929-30 | 1 Jul 2005 (see r. 2)
+Dangerous Goods (Transport) (Dangerous Goods in Ports) Amendment Regulations 2006 | 27 Jun 2006 p. 2275 | 1 Jul 2006 (see r. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Commencement
