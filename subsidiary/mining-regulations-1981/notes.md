@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 April 2006 of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Mining Regulations 1981 | 13 Nov 1981 p. 4601-76 | 1 Jan 1982 (see r. 1(2) and Gazette 11 Dec 1981 p. 5085)
@@ -100,6 +100,7 @@ Mining Amendment Regulations (No. 2) 2006 | 3 Feb 2006 p. 573-605 | 10 Feb 2006 
 Mining Amendment Regulations 2006 | 7 Feb 2006 p. 622-3 | 7 Feb 2006
 Mining Amendment Regulations (No. 4) 2006 | 4 Apr 2006 p. 1409 | 4 Apr 2006
 Reprint 6: The Mining Regulations 1981 as at 7 Apr 2006 (includes amendments listed above)
+Mining Amendment Regulations (No. 6) 2006 | 23 Jun 2006 p. 2219-22 | 1 Jul 2006 (see r. 2)
 The Mining Amendment Act 1990 was operative 28 June 1991.
 Repealed by the Courts Legislation Amendment and Repeal Act 2004.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
