@@ -14,5 +14,6 @@ Chattel Securities Amendment Regulations 2001 | 8 May 2001 pp. 2269-72 | 14 May 
 Chattel Securities Amendment Regulations 2002 | 14 Feb 2003 p. 467 | 14 Feb 2003
 Chattel Securities Amendment Regulations 2003 | 27 Jun 2003 p. 2544 | 1 Jul 2003 (see r. 2)
 Chattel Securities Amendment Regulations 2005 | 28 Jun 2005 p. 2905-6 | 1 Jul 2005 (see r. 2)
+Chattel Securities Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2252 | 1 Jul 2006 (see r. 2)
 Taxi-cars Control Act 1985 repealed by the Taxi Act 1994 (No. 83 of 1994).
 Fisheries Act 1905 repealed by the Fish Resources Management Act 1994 (No. 53 of 1994).
