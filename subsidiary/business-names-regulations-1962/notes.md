@@ -33,6 +33,7 @@ Corporations (Consequential Amendments) Regulations 2003 | 6 Jun 2003 p. 2027-8 
 Business Names Amendment Regulations 2004 | 9 Jan 2004 p. 87-8 | 1 Feb 2004 (see r. 2)
 Business Names Amendment Regulations (No. 2) 2004 | 20 Jul 2004 p. 2903-9 | 20 Jul 2004
 Business Names Amendment Regulations 2005 | 28 Jun 2005 p. 2907 | 1 Jul 2005 (see r. 2)
+Business Names Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2251 | 1 Jul 2006 (see r. 2)
 Repealed by the Business Names Act 1962.
 Footnote no longer applicable.
 Under the Alteration of Statutory Designations Order (No. 2) 2001 the former Ministry of Fair Trading is now called the Department of Consumer and Employment Protection.
