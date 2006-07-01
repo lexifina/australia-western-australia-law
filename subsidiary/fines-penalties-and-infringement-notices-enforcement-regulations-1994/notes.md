@@ -28,6 +28,7 @@ Reprint 2: The Fines, Penalties and Infringement Notices Enforcement Regulations
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2005 | 13 May 2005 p. 2079-82 (as amended in Gazette 30 Dec 2005 p. 6876) | 13 May 2005 (see r. 2)
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2005 | 9 Sep 2005 p. 4155-6 | 9 Sep 2005
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 4) 2005 | 30 Dec 2005 p. 6876-7 | 30 Dec 2005
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2006 | 23 Jun 2006 p. 2191-2 | 1 Jul 2006 (see r. 2)
 Under the Public Sector Management Act 1994 the names of departments can be changed. At the time of this compilation the former Department of Environmental Protection is called the Department of Environment.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Fisheries Department of Western Australia is read and construed as a reference to the Department of Fisheries.
 Formerly referred to the Gaming Commission of Western Australia, the name of which was changed to the Gaming and Wagering Commission of Western Australia by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 124. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
