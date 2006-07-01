@@ -14,3 +14,4 @@ Debt Collectors Licensing Amendment Regulations 1990 | 1 Aug 1990 p. 3658 | 1 Au
 Debt Collectors Licensing Amendment Regulations 1991 | 13 Dec 1991 p. 6157 | 13 Dec 1991
 Debt Collectors Licensing Amendment Regulations 1992 | 14 Aug 1992 p. 4023 | 14 Aug 1992
 Debt Collectors Licensing Amendment Regulations 2004 | 30 Dec 2004 p. 6915-17 | 1 Jan 2005 (see r 2 and Gazette 31 Dec 2004 p. 7130)
+Debt Collectors Licensing Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2254 | 1 Jul 2006 (see r. 2)
