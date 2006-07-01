@@ -8,6 +8,7 @@ Dangerous Goods (Transport) (Explosives by Road and Rail) Amendment Regulations 
 Dangerous Goods (Transport) (Explosives by Road and Rail) Amendment Regulations 2003 | 27 Jun 2003 p. 2397-8 | 1 Jul 2003 (see r. 2)
 Dangerous Goods (Transport) (Explosives by Road and Rail) Amendment Regulations 2004 | 29 Jun 2004 p. 2537-8 | 1 Jul 2004 (see r. 2)
 Dangerous Goods (Transport) (Explosives by Road and Rail) Amendment Regulations 2005 | 28 Jun 2005 p. 2928-9 | 1 Jul 2005 (see r. 2)
+Dangerous Goods (Transport) (Explosives by Road and Rail) Amendment Regulations 2006 | 27 Jun 2006 p. 2273 | 1 Jul 2006 (see r. 2)
 NB.Notices under Dangerous Goods (Transport) Act 1998 s.48 —
 Gazette 8 June 1999 pp.2451-53
 25 August 2000 pp.4930
