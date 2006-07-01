@@ -94,31 +94,6 @@ Hospitals (Services Charges) Amendment Regulations (No. 4) 2005 | 28 Jun 2005 p.
 Hospitals (Services Charges) Amendment Regulations (No. 3) 2005 | 14 Oct 2005 p. 4555-6 | 14 Oct 2005
 Hospitals (Services Charges) Amendment Regulations 2006 | 3 Feb 2006 p. 518 | 3 Feb 2006
 Hospitals (Services Charges) Amendment Regulations (No. 2) 2006 | 4 Apr 2006 p. 1408 | 4 Apr 2006
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Hospitals (Services Charges) Amendment Regulations (No. 3) 2006 r. 4 | 13 Jun 2006 p. 2062-3 | 1 Jul 2006 (see r. 2)
+Hospitals (Services Charges) Amendment Regulations (No. 3) 2006 | 13 Jun 2006 p. 2062-3 | 1 Jul 2006 (see r. 2)
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with the Interpretation Act 1984 s. 42(1), subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date of 1 September 1990 that was specified in these regulations was before the date of their publication in the Gazette.
-On the date as at which this compilation was prepared, the Hospitals (Services Charges) Amendment Regulations (No. 3) 2006 r. 4 had not come into operation. It reads as follows:
-“
-4.Schedule 1 amended
-(1) Schedule 1 Division 1 item 1 is amended as follows:
-(a) in paragraph (b)(i) by deleting “$461 per day” and inserting instead —
-“ $473 per day ”;
-(b) in paragraph (b)(ii) by deleting “$261 per day” and inserting instead —
-“ $269 per day ”;
-(c) in paragraph (d) by deleting “$122.60 per day” and inserting instead —
-“ $128 per day ”;
-(d) in paragraph (e) by deleting “$1 098 per day” and inserting instead —
-“ $1 172 per day ”.
-(2) Schedule 1 Division 3 item 4(b) is amended by deleting “$123 per day” and inserting instead —
-“ $130 per day ”.
-(3) Schedule 1 Division 4 item 6 is amended as follows:
-(a) in paragraph (b) by deleting “$201 per day” and inserting instead —
-“ $212 per day ”;
-(b) in paragraph (d) by deleting “$957 per day” and inserting instead —
-“ $1 079 per day ”.
-(4) Schedule 1 Division 5 item 7 is amended by deleting “$22.50 per day” and inserting instead —
-“ $23.70 per day ”.
-”.
