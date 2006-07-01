@@ -12,9 +12,9 @@ Item | Parking facilities | Annual licence fee $
 9. | a parking bay used solely for servicing, inspecting, repairing, fuelling or maintaining vehicles | nil
 10. | a parking bay used solely for a vehicle that forms part of the stock of a business of a motor vehicle dealer who holds a licence under the Motor Vehicle Dealers Act 1973 | nil
 11. | a facility that has more than 5 parking bays for the use of vehicles (excluding a bay set aside for the exclusive use of vehicles referred to in any of the items 2 to 10) —
- | (i)for each motor cycle bay; | 82.00
- | (ii)for each bay (excluding a bay that is on a carriageway) that is available to the public for use without time constraints; | 189.00
- | (iii)for each bay that is on a carriageway; | 163.50
- | (iv)for each bay that is available to the public and in which 50% of the vehicles being parked stay for less than 4 hours and at least 90% stay for less than 6 hours; | 163.50
- | (v)in a building used only for commercial purposes, for each bay concerning which the owner has agreed with a tenant of the owner that it will be set aside for the exclusive use of the tenant. | 189.00
-[Schedule 2 amended in Gazette 15 Jun 2001 p. 2976-7; 17 May 2002 p. 2569; 16 May 2003 p. 1704-5; 21 May 2004 p. 1713-14; 10 Jun 2005 p. 2567.]
+ | (i)for each motor cycle bay; | 84.75
+ | (ii)for each bay (excluding a bay that is on a carriageway) that is available to the public for use without time constraints; | 195.50
+ | (iii)for each bay that is on a carriageway; | 169.00
+ | (iv)for each bay that is available to the public and in which 50% of the vehicles being parked stay for less than 4 hours and at least 90% stay for less than 6 hours; | 169.00
+ | (v)in a building used only for commercial purposes, for each bay concerning which the owner has agreed with a tenant of the owner that it will be set aside for the exclusive use of the tenant. | 195.50
+[Schedule 2 amended in Gazette 15 Jun 2001 p. 2976-7; 17 May 2002 p. 2569; 16 May 2003 p. 1704-5; 21 May 2004 p. 1713-14; 10 Jun 2005 p. 2567; 12 May 2006 p. 1788.]
