@@ -30,3 +30,4 @@ Seeds Amendment Regulations 2004 | 18 May 2004 p. 1566-7 | 1 Jul 2004 (see r. 2)
 Seeds Amendment Regulations 2005 | 31 May 2005 p. 2400-1 | 1 Jul 2005 (see r. 2)
 Seeds Amendment Regulations (No. 2) 2005 | 14 Jun 2005 p. 2629-30 | 14 Jun 2005
 Reprint 2: The Seeds Regulations 1982 as at 16 Sep 2005 (includes amendments listed above)
+Seeds Amendment Regulations 2006 | 16 Jun 2006 p. 2118-19 | 1 Jul 2006 (see r. 2)
