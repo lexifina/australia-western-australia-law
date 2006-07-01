@@ -31,3 +31,4 @@ Motor Vehicle Dealers (Licensing) Amendment Regulations 2003 | 27 Jun 2003 p. 25
 Reprint 3: The Motor Vehicle Dealers (Licensing) Regulations 1974 as at 5 Mar 2004 (includes amendments listed above)
 Motor Vehicle Dealers (Licensing) Amendment Regulations 2004 | 29 Jun 2004 p. 2508-10 | 1 Jul 2004 (see r. 2)
 Motor Vehicle Dealers (Licensing) Amendment Regulations 2005 | 28 Jun 2005 p. 2899-900 | 1 Jul 2005 (see r. 2)
+Motor Vehicle Dealers (Licensing) Amendment Regulations 2006 | 27 Jun 2006 p. 2257-9 | 1 Jul 2006 (see r. 2)
