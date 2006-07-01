@@ -50,6 +50,7 @@ Reprint of the Real Estate and Business Agents (General) Regulations 1979 as at 
 Real Estate and Business Agents (General) Amendment Regulations 2003 | 7 Feb 2003 p. 384-7 (as amended 13 Jan 2004 p. 145-6) | 7 Feb 2003
 Real Estate and Business Agents (General) Amendment Regulations 2004 | 13 Jan 2004 p. 145-6 | 13 Jan 2004
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2004 | 30 Dec 2004 p. 6924 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
+Real Estate and Business Agents (General) Amendment Regulations 2006 | 27 Jun 2006 p. 2269-70 | 1 Jul 2006 (see r. 2)
 Under the Alteration of Statutory Designations Amendment Order (No. 3) 2001 the former Education Department is now known as the Department of Education.
 The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 4(2) (as amended in Gazette 13 Jan 2004 p. 146) reads as follows:
 “
