@@ -94,10 +94,7 @@ Fish Resources Management Amendment Regulations (No. 7) 2005 | 22 Dec 2005 p. 62
 Fish Resources Management Amendment Regulations (No. 3) 2006 | 7 Feb 2006 p. 619-21 | 1 Mar 2006 (see r. 2)
 Fish Resources Management Amendment Regulations (No. 4) 2006 | 7 Mar 2006 p. 975 | 7 Mar 2006
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 80 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Fish Resources Management Amendment Regulations 2006 r. 4-15 | 23 May 2006 p. 1857-1861 | 1 Jul 2006 (see r. 2)
+Fish Resources Management Amendment Regulations 2006 | 23 May 2006 p. 1857-1861 | 1 Jul 2006 (see r. 2)
 Repealed by the Land Administration Act 1997 s. 281(1).
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Statutes (Repeals and Minor Amendments) Act 2000 s. 14(3), the name of the Electricity Corporation was changed to the Western Power Corporation.
@@ -106,79 +103,3 @@ Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Fis
 Repealed by the Fish Resources Management Act 1994 s. 265.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Ministry of Justice is now called the Department of Justice.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
-On the date as at which this compilation was prepared, the Fish Resources Management Amendment Regulations 2006 r. 4-15 had not come into operation. They read as follows:
-“
-4.Regulation 55A replaced by regulations 55A and 55AA
-Regulation 55A is repealed and the following regulations are inserted instead —
-“
-55A.Interpretation
-In this Division —
-“approved automatic location communicator” means an automatic location communicator of a make, model or type approved in accordance with regulation 55AA(1);
-“approved directions” means directions approved in accordance with regulation 55AA(3);
-“automatic location communicator” or “ALC” means —
-(a)an automatic device for tracking the location of a boat and transmitting accurate information as to the geographical position, course and speed of the boat; and
-(b)a computer (including software) that is capable of facilitating the operation of that device;
-“licence holder” means the holder of a fishing boat licence.
-55AA.Approval of ALC’s and directions
-(1) The Executive Director may by notice published in the Gazette approve an automatic location communicator of a particular make, model or type for the purposes of these regulations.
-(2) An automatic location communicator may be approved generally or in respect of a particular fishery specified in the notice.
-(3) The Executive Director may by notice published in the Gazette approve directions for the installation, use and testing of approved automatic location communicators for the purposes of these regulations.
-(4) Directions under subregulation (3) may specify that a particular approved automatic location communicator is to be used in, and in respect of, a particular fishery only.
-(5) The Executive Director may by notice amend or revoke a notice under subregulation (1) or (3).
-”.
-5.Regulation 55B amended
-Regulation 55B(1)(a) and (b) and “and” between them are deleted and the following is inserted instead —
-“
-(a) to have installed in the fishing boat in respect of which the licence is held, in accordance with the approved directions, an approved automatic location communicator; and
-(b) to ensure that that automatic location communicator is used, serviced and tested in accordance with the approved directions.
-”.
-6.Regulation 55C amended
-(1) Regulation 55C(1) is amended by deleting “automatic location communicator has been installed in accordance with regulation 55B or a management plan.” and inserting instead —
-“
-approved automatic location communicator has been installed in accordance with the approved directions.
-”.
-(2) Regulation 55C(2) and the penalty provision at the foot of it are repealed and the following is inserted instead —
-“
-(2) The master of an ALC fishing boat must ensure that the approved automatic location communicator on the boat is operating effectively at all times.
-Penalty: $10 000.
-”.
-(3) Regulation 55C(3) and the penalty provision at the foot of it are repealed and the following is inserted instead —
-“
-(3) If the master of an ALC fishing boat is informed by the Executive Director that the ALC on the boat is not operating effectively the master must ensure that —
-(a) all fishing undertaken from the fishing boat stops immediately and all fishing gear on the boat is stowed until the Executive Director authorises fishing to continue; and
-(b) any directions given by the Executive Director (such as a direction that the fishing boat go to a port specified by the Executive Director) are complied with.
-Penalty: $10 000.
-”.
-7.Regulation 55D amended
-(1) Regulation 55D(1)(a) and “or” after it are deleted and the following is inserted instead —
-“
-(a) an approved automatic location communicator installed on a fishing boat in accordance with the approved directions; or
-”.
-(2) Regulation 55D(1)(b) is amended by deleting “the automatic” and inserting instead —
-“ an approved automatic ”.
-(3) Regulation 55D(2) is repealed and the following subregulation is inserted instead —
-“
-(2) Subregulation (1) does not apply to or in respect of a person installing, using or testing an approved automatic location communicator in accordance with the approved directions.
-”.
-8.Regulation 82 repealed
-Regulation 82 is repealed.
-9.Regulation 83 repealed
-Regulation 83 is repealed.
-10.Regulation 114 amended
-Regulation 114(1) is amended by deleting “The Fisheries Department King Street Arcade Ground Floor, SGIO Atrium” and inserting instead —
-“
-The Department of Fisheries
-The Atrium
-”.
-11.Regulation 182 amended
-Regulation 182(2) is repealed.
-12.Regulation 184 repealed
-Regulation 184 is repealed.
-13.Regulation 185 repealed
-Regulation 185 is repealed.
-14.Schedule 12 amended
-Schedule 12 is amended in Part 2 item 3 by deleting “82, 83,”.
-15.Schedule 15 amended
-Schedule 15 item 2 is amended by deleting “Zone 1: Gascoyne” and inserting instead —
-“ Zone 2: Gascoyne ”.
-”.
