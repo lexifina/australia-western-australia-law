@@ -128,3 +128,11 @@ SIGNATURE: .....................................................................
 TIME OF ISSUE: ...................
 DATE OF ISSUE: ...................
 [Schedule 1 amended in Gazette 22 Feb 1991 p. 909-11.]
+## Schedule 2 — Application fees
+[r. 6(2)(c)]
+ | $
+Category 1 event | 137.00
+Category 2 event | 82.00
+Category 3 event | 55.50
+Category 4 event | 55.50
+[Schedule 2 inserted in Gazette 23 Jun 2006 p. 2225.]

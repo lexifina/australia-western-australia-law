@@ -13,3 +13,4 @@ Road Traffic (Events on Roads) Amendment Regulations 2002 | 28 Jun 2002 p. 3112-
 Road Traffic (Events on Roads) Amendment Regulations 2003 | 27 June 2003 p. 2527 | 1 Jul 2003 (see r. 2)
 Road Traffic (Events on Roads) Amendment Regulations 2004 | 25 Jun 2004 p. 2249-50 | 1 Jul 2004 (see r. 2)
 Road Traffic (Events on Roads) Amendment Regulations 2005 | 30 Aug 2005 p. 4056 | 30 Aug 2005
+Road Traffic (Events on Roads) Amendment Regulations (No. 2) 2006 | 23 Jun 2006 p. 2224-5 | 1 Jul 2006 (see r. 2)
