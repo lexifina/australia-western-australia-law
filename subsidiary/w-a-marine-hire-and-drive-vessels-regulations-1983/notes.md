@@ -20,3 +20,4 @@ W.A. Marine Amendment Regulations 2002 r. 4 | 14 Jun 2002 p. 2825-35 | 1 Jul 200
 W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2003 | 27 Jun 2003 p. 2534 | 1 Jul 2003 (see r. 2)
 W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2004 | 25 Jun 2004 p. 2263 | 1 Jul 2004 (see r. 2)
 W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2005 | 24 Jun 2005 p. 2780-1 | 1 Jul 2005 (see r. 2)
+W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2006 | 23 Jun 2006 p. 2211-12 | 1 Jul 2006 (see r. 2)
