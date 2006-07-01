@@ -69,5 +69,6 @@ Weights and Measures Amendment Regulations 2003 | 1 Apr 2003 p. 1003-6 | 1 Apr 2
 Weights and Measures Amendment Regulations (No. 2) 2003 | 27 Jun 2003 p. 2557-60 | 1 Jul 2003 (see r. 2)
 Weights and Measures Amendment Regulations 2004 | 29 Jun 2004 p. 2513-16 | 1 Jul 2004 (see r. 2)
 Weights and Measures Amendment Regulations 2005 | 28 Jun 2005 p. 2895-8 | 1 Jul 2005 (see r. 2)
+Weights and Measures Amendment Regulations 2006 | 27 Jun 2006 p. 2261-4 | 1 Jul 2006 (see r. 2)
 The Weights and Measures Office no longer exists.
 Currently the Department of Consumer and Employment Protection.
