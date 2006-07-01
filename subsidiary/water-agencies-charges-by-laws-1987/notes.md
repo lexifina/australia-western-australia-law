@@ -94,6 +94,7 @@ Water Agencies (Charges) Amendment By-laws (No. 2) 2005 | 1 Jul 2005 p. 3031-78 
 Water Agencies (Charges) Amendment By-laws (No. 4) 2005 | 4 Nov 2005 p. 5321 | 4 Nov 2005
 Reprint 4: The Water Agencies (Charges) By-laws 1987 as at 31 Mar 2006 (includes amendments listed above)
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 89 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
+Water Agencies (Charges) Amendment By-laws 2006 | 30 Jun 2006 p. 2413-61 | 1 Jul 2006 (see bl. 2)
 Now established by the Port Authorities Act 1999 s. 4.
 Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act.
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
