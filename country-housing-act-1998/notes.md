@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 May 2006 of the Country Housing Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation as at 19 May 2006 of the Country Housing Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Country Housing Act 1998 | 4 of 1998 | 14 Apr 1998 | 1 Jul 1998 (see s. 2 and Gazette 30 Jun 1998 p. 3557)
@@ -13,6 +13,7 @@ Acts Amendment (Equality of Status) Act 2003 Pt. 10 | 28 of 2003 | 22 May 2003 |
 Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 2: The Country Housing Act 1998 as at 19 May 2006 (includes amendments listed above)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 10 Div 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

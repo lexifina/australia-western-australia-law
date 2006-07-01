@@ -1,19 +1,20 @@
 Notes
 This is a compilation of the Insurance Commission of Western Australia Act 1986 and includes the amendments made by the other written laws referred to in the following table.
-Compilation Table
-Short title | Number and year | Assent | Commencement | Miscellaneous
-State Government Insurance Commission Act 1986 | 51 of 1986 | 5 Aug 1986 | 1 Jan 1987 (see s. 2 and Gazette 19 Dec 1986 p.4859) | Short title subsequently amended (see footnote to section 1)
+Compilation table
+Short title | Number and year | Assent | Commencement
+State Government Insurance Commission Act 1986 | 51 of 1986 | 5 Aug 1986 | 1 Jan 1987 (see s. 2 and Gazette 19 Dec 1986 p.4859)
 Acts Amendment (Public Service) Act 1987, section 32 | 113 of 1987 | 31 Dec 1987 | 16 Mar 1988 (see section 2 and Gazette 16 March 1988 p.813)
-Acts Amendment (Accountability) Act 1989, Part 6 | 5 of 1989 | 26 Apr 1989 | 1 July 1989 (see section 2 and Gazette 30 June 1989 p.1893)
-SGIO Privatisation Act 1992, section 28 | 49 of 1992 | 9 Dec 1992 | 7 January 1993 (see section 2(3) and Gazette 7 January 1993 p.15)
-Financial Administration Legislation Amendment Act 1993, Part 4 | 6 of 1993 | 27 Aug 1993 | Deemed operative 1 July 1993 (see section 2(1))
-Acts Amendment (Public Sector Management) Act 1994, Part 4 | 32 of 1994 | 29 Jun 1994 | 1 October 1994 (see section 2 and Gazette 30 September 1994 p.4948)
-Statutory Corporations (Liability of Directors) Act 1996, section 3 | 41 of 1996 | 10 Oct 1996 | 1 December 1996 (see section 2 and Gazette 12 November 1996 p.6301)
-Acts Amendment (ICWA) Act 1996 | 45 of 1996 | 25 Oct 1996 | Sections 3, 6(b) to the extent it inserts definition of “Commission Account”, 6(c), 9 to 12, 15 to 19, 23 and 26: 14 December 1996 (see section 2 and Gazette 13 December 1996 p. 6901); Sections 4, 5, 6(b) to the extent it inserts the definition of “Commission”, 7, 8, Part 3 (ss.29-37): 1 October 1997 (see section 2 and Gazette 23 September 1997 p. 5357); balance to be proclaimed a | Section 11(9) validation Part 3 Transitional and saving
-Financial Legislation Amendment Act 1996, section 64 | 49 of 1996 | 25 Oct 1996 | 25 October 1996 (see section 2(1))
-State Enterprises (Commonwealth Tax Equivalents) Act 1996, section 10(1) | 55 of 1996 | 11 Nov 1996 | Deemed operative 1 July 1996 (see sections 2 and 3(3))
-Insurance Commission of Western Australia Amendment Act 2002 | 34 of 2002 | 20 Nov 2002 | 20 November 2002 (see s.2)
+Acts Amendment (Accountability) Act 1989, Part 6 | 5 of 1989 | 26 Apr 1989 | 1 Jul 1989 (see section 2 and Gazette 30 Jun 1989 p.1893)
+SGIO Privatisation Act 1992, section 28 | 49 of 1992 | 9 Dec 1992 | 7 Jan 1993 (see section 2(3) and Gazette 7 Jan 1993 p.15)
+Financial Administration Legislation Amendment Act 1993, Part 4 | 6 of 1993 | 27 Aug 1993 | Deemed operative 1 Jul 1993 (see section 2(1))
+Acts Amendment (Public Sector Management) Act 1994, Part 4 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see section 2 and Gazette 30 Sep 1994 p.4948)
+Statutory Corporations (Liability of Directors) Act 1996, section 3 | 41 of 1996 | 10 Oct 1996 | 1 Dec 1996 (see section 2 and Gazette 12 Nov 1996 p.6301)
+Acts Amendment (ICWA) Act 1996 | 45 of 1996 | 25 Oct 1996 | Sections 3, 6(b) to the extent it inserts definition of “Commission Account”, 6(c), 9 to 12, 15 to 19, 23 and 26: 14 Dec 1996 (see section 2 and Gazette 13 Dec 1996 p. 6901); Sections 4, 5, 6(b) to the extent it inserts the definition of “Commission”, 7, 8, Part 3 (ss.29-37): 1 Oct 1997 (see section 2 and Gazette 23 Sep 1997 p. 5357); balance to be proclaimed a
+Financial Legislation Amendment Act 1996, section 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see section 2(1))
+State Enterprises (Commonwealth Tax Equivalents) Act 1996, section 10(1) | 55 of 1996 | 11 Nov 1996 | Deemed operative 1 Jul 1996 (see sections 2 and 3(3))
+Insurance Commission of Western Australia Amendment Act 2002 | 34 of 2002 | 20 Nov 2002 | 20 Nov 2002 (see s.2)
 Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 5 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and are not included in this compilation. For the text of the provisions see the endnote referred to after the short title.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

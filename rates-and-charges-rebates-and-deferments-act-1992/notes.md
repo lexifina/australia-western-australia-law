@@ -16,6 +16,8 @@ Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 M
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Rates and Charges (Rebates and Deferments) Amendment Act 2005 | 9 of 2005 | 7 July 2005 | s. 4(2), 11, 14(1) and (2) and 15: 1 Jul 2005 (see s. 2(3)); balance: 7 Jul 2005 (see s. 2(1))
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 8 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Revenue Laws Amendment Act 2006 Pt. 5 | 31 of 2006 | 4 Jul 2006 | 1 Jul 2006 (see s. 2(5))
 The Revenue Laws Amendment (Assessment) Act 1998 section 25 reads as follows —
 “
 25.Savings — procedural manuals

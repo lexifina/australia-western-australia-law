@@ -6,14 +6,12 @@ Class of authorized officer serving infringement notice or instituting proceedin
 Members of the Police Force | The Commissioner of Police
 Members of the council of, or employees or honorary inspectors of, a local government | That local government
 Officers or employees of the Council or officers or employees whose services the Council makes use of | The council
-Inspectors under the Environmental Protection Act 1971 | The Environmental Protection Authority
-Forest Officers under the Forests Act 1918 | The Conservator of Forests
-Wildlife officers under the Wildlife Conservation Act 1950 | The Director of Fisheries and Wildlife
-Rangers under the National Parks Authority Act 1976 | The National Parks Authority of Western Australia
+Inspectors under the Environmental Protection Act 1986 | The CEO as defined in section 3 of the Environmental Protection Act 1986
+Conservation and land management officers, forest officers, wildlife officers or rangers under the Conservation and Land Management Act 1984 | The CEO as defined in section 3 of the Conservation and Land Management Act 1984
 Members of the staff of The Western Australian Museum | The Western Australian Museum
 Inspectors or honorary wardens under the Waterways Conservation Act 1976 | The Management Authority constituted under that Act in relation to the management area in respect of which the authorized officer is exercising his powers
-Fisheries officers referred to in the Fish Resources Management Act 1994 | The Executive Director referred to in the Fish Resources Management Act 1994
+Fisheries officers referred to in the Fish Resources Management Act 1994 | The CEO as defined in section 4(1) of the Fish Resources Management Act 1994
 Bush fire liaison officers under the Bush Fires Act 1954 | Fire and Emergency Services Authority of Western Australia
-Inspectors under the Western Australian Marine Act 1982 | The Manager of the Department of Marine and Harbours
+Inspectors under the Western Australian Marine Act 1982 | The chief executive officer as defined in section 3(1) of the Western Australian Marine Act 1982
 Persons holding or acting in a prescribed office of a public authority | That public authority
-[Third Schedule inserted by No. 49 of 1981 s.7; amended by No. 53 of 1994 s. 264; No. 24 of 1995 s. 55; No. 14 of 1996 s. 4; No. 42 of 1998 s. 38.]
+[Third Schedule inserted by No. 49 of 1981 s.7; amended by No. 53 of 1994 s. 264; No. 24 of 1995 s. 55; No. 14 of 1996 s. 4; No. 42 of 1998 s. 38; No. 28 of 2006 s. 216.]

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 June 2005 of the Gold Corporation Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Gold Corporation Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Gold Banking Corporation Act 1987 | 99 of 1987 | 18 Dec 1987 | Sch. 3 cl. 1(1): 1 Jul 1987 (see Sch. 3 cl. 1(2)); balance: 30 Jun 1988 (see s. 2 and Gazette 30 Jun 1988 p. 2133)
@@ -20,6 +20,7 @@ Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 8 | 70 of 2003 | 15 
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Gold Corporation Act 1987 as at 10 Jun 2005 (includes amendments listed above)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -39,4 +40,20 @@ On the date on which this reprint was prepared, the State Superannuation (Transi
 (b) in clause 3(2)(c) by deleting “in a permanent capacity by any Crown instrumentality or other body which is, or is deemed to be, a department for the purposes of the Superannuation and Family Benefits Act 1938 or”;
 (c) in clause 4(1) by deleting “or otherwise was a contributor to units of pension or to the Provident Account under the Superannuation and Family Benefits Act 1938” and “or any existing accruing rights under the Superannuation and Family Benefits Act 1938”;
 (d) by deleting clause 4(2) and (3).
+”.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 12 reads as follows:
+“
+Division 12 — Transitional provisions
+451.Western Australian Treasury Corporation Act 1986 and Gold Corporation Act 1987
+(1) A thing done by the Treasurer before commencement under, or for the purposes of —
+(a) section 10(2)(fa)(xii) or 17A(3) of the Western Australian Treasury Corporation Act 1986; or
+(b) section 16(1)(a) or (b) or 21(1) of the Gold Corporation Act 1987,
+has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done by the Minister with the concurrence of the Treasurer.
+(2) A thing done or omitted to be done by, to or in relation to, the Treasurer before commencement under, or for the purposes of —
+(a) a provision of the Western Australian Treasury Corporation Act 1986 amended by section 450; or
+(b) section 16(2)(a) or 21(2), (4), (5) or (6) of the Gold Corporation Act 1987,
+has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the Minister.
+(3) In this section —
+“commencement” means the time at which this Division comes into operation;
+“Minister” means the Minister to whom the administration of the Western Australian Treasury Corporation Act 1986 is committed.
 ”.

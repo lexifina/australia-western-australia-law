@@ -22,6 +22,7 @@ Plant Pests and Diseases (Eradication Funds) Amendment Act 2002 | 31 of 2002 | 2
 Plant Pests and Diseases (Eradication Funds) Amendment Act 2003 | 57 of 2003 | 29 Oct 2003 | 29 Oct 2003 (see s. 2)
 Reprint 2: The Plant Pests and Diseases (Eradication Funds) Act 1974 as at 12 Dec 2003 (includes amendments listed above)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 105 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div. 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement

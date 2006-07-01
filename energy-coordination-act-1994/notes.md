@@ -16,6 +16,7 @@ Reprint 2: The Energy Coordination Act 1994 as at 10 Sep 2004 (includes amendmen
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 42 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Financial Administration Legislation Amendment Act 2005 s. 39 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 6 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 The Solar Energy Research Act 1977 expired 30 June 1988.
 Formerly referred to the Energy Corporations (Powers) Act 1979 the short title of which was changed to the Energy Operators (Powers) Act 1979 by the Gas Corporation (Business Disposal) Act 1999 s. 78. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Energy Legislation Amendment Act 2003 Pt. 3 Div. 3 (other than s. 19) reads as follows:

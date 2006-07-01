@@ -12,4 +12,5 @@ Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 |
 Hospitals Amendment Act 1994 s. 18 | 103 of 1994 | 11 Jan 1995 | 3 Feb 1995 (see s. 2 and Gazette 3 Feb 1995 p. 333)
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
 Acts Amendment (Equality of Status) Act 2003 Pt. 28 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 5 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 This provision was renumbered under the Amendments Incorporation Act 1923 s. 2(2).

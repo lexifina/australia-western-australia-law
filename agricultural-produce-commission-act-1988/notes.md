@@ -10,6 +10,7 @@ Agricultural Legislation Amendment and Repeal Act 1998 Pt. 6 | 9 of 1998 | 30 Ap
 Horticultural Produce Commission Amendment Act 2000 | 20 of 2000 | 30 Jun 2000 | 11 Aug 2000 (see s. 2 and Gazette 11 Aug 2000 p. 4691)
 Reprint of the Agricultural Produce Commission Act 1988 as at 5 Apr 2002 (includes amendments listed above)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 5 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement

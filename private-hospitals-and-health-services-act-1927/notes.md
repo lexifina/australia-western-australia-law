@@ -46,6 +46,7 @@ Workers’ Compensation Reform Act 2004 s. 161 | 42 of 2004 | 9 Nov 2004 | 14 No
  | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 63 Subdiv. 1 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
  | Health Legislation Amendment Act 2004 Pt. 4 | 61 of 2004 | 24 Nov 2004 | 24 Nov 2004 (see s. 2)
  | Reprint 5: The Hospitals and Health Services Act 1927 as at 26 Aug 2005 (includes amendments listed above except those in the Workers’ Compensation Reform Act 2004 s. 161)
+ | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -91,3 +92,14 @@ s. 26H(1) | Delete “Local Court” and insert instead — “ Magistrates Cour
 s. 26H(2) | Delete “clerk of the Local Court” and insert instead — “ Magistrates Court ”.
 ”.
 The amendments it seeks to make cannot be done due to amendments made by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 517.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
+“
+Division 13 — Transitional provisions
+289.Commissioner of Health
+(1) A thing done or omitted to be done by, to or in relation to, the Commissioner of Health before commencement under, or for the purposes of, an enactment has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the CEO.
+(2) In this section —
+“CEO” has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
+“commencement” means the time at which this Division comes into operation;
+“Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
+”.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Part 19 provides general transitional provisions concerning references to Departments and chief executive officers that are amended or repealed by that Act.

@@ -41,6 +41,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt.
 Electoral Amendment and Repeal Act 2005 s. 9 | 1 of 2005 | 20 May 2005 | 20 May 2005 (see s. 2)
 Reprint 4: The Juries Act 1957 as at 2 Sep 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
+Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(2) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -48,6 +49,7 @@ Short title | Number and year | Assent | Commencement
  | Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
  | Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
  | Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+ | Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 The Juries Amendment Act 1984 s. 25 reads as follows:
 “
@@ -118,4 +120,12 @@ Schedule 3 — Consequential amendments
 (1) The amendments in this clause are to the Juries Act 1957.
 (2) The Second Schedule Part II item 2 is amended by deleting “Osteopaths Act 1997” and inserting instead —
 “ Osteopaths Act 2005 ”.
+”.
+On the date as at which this compilation was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) had not come into operation. It reads as follows:
+“
+39.Second Schedule amended
+(1) The Second Schedule Part I item 2(i) is deleted and the following item is inserted instead —
+“
+(i) Officer or employee of the department of the Public Service principally assisting in the administration of this Act, other than an officer in the Public Trust Office;
+”.
 ”.

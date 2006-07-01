@@ -21,6 +21,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 51 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Fish Resources Management Act 1994 as at 11 Mar 2005 (includes amendments listed above except those in the Courts Legislation Amendment and Repeal Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -70,3 +71,13 @@ Part 4 — Amendment to Fish Resources Management Act 1994
 Section 114 of the Fish Resources Management Act 1994 is amended by inserting after “Mining Act 1978,” —
 “ the Offshore Minerals Act 2003, ”.
 ”.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 5 reads as follows:
+“
+Division 5 — Transitional provisions
+242.References to the Executive Director
+(1) After commencement, a reference in a written law that is, or is to be taken to be, to the Executive Director (as defined in the Fish Resources Management Act 1994 as in force before commencement) is to have effect as if it had been amended to be a reference to the CEO (as defined in the Fish Resources Management Act 1994 as in force after commencement).
+(2) Subsection (1) does not apply if a contrary intention appears or the context otherwise requires.
+(3) In this section —
+“commencement” means the time at which section 232 comes into operation.
+”.
+The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.

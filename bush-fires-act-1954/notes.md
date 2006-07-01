@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 March 2006 of the Bush Fires Act 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Bush Fires Act 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Bush Fires Act 1954 | 53 of 1954 | 23 Dec 1954 | 29 Apr 1955 (see s. 3 and Gazette 29 Apr 1955 p. 749)
@@ -45,10 +45,11 @@ Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 7: The Bush Fires Act 1954 as at 3 Mar 2006 (includes amendments listed above)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 14 Div 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Provisions of the Bush Fires Act 1954 referred to in s. 64 are not the same references as originally enacted. Under the Interpretation Act 1984 s. 16(2), as a result of amendments to the Bush Fires Act 1954 by the Bush Fires Act Amendment Act 1977 (No. 65 of 1977), those references may be construed as if amended. The references were changed under the Reprints Act 1984 s. 7(3)(g).
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the date this reprint was prepared the former Department of Land Administration was called the Department of Land Information and its chief executive officer was called the Chief Executive.
-At the time this reprint was prepared this office was known as the Director General of Mines.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the date this compilation was prepared the former Department of Land Administration was called the Department of Land Information and its chief executive officer was called the Chief Executive.
+At the time this compilation was prepared this office was known as the Director General of Mines.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is, unless the contrary is intended, to be read and construed as a reference to the Department of Industry and Resources.
 The Third Schedule was inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
 The Bush Fires Amendment Act 1992 s. 6(2) reads as follows:

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 November 2005 of the Cattle Industry Compensation Act 1965 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Cattle Industry Compensation Act 1965 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Cattle Industry Compensation Act 1965 | 41 of 1965 | 8 Nov 1965 | 14 Feb 1966 (see s. 2 and Gazette 11 Feb 1966 p. 437)
@@ -23,6 +23,7 @@ Sentencing Legislation Amendment and Repeal Act 2003 s. 42 | 50 of 2003 | 9 Jul 
 Statutes (Repeals and Minor Amendments) Act 2003 s. 32 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Reprint 3: The Cattle Industry Compensation Act 1965 as at 4 Nov 2005 (includes amendments listed above)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Under the Agriculture Act 1988 s. 16(1), a reference to the Director of Agriculture is to be construed as a reference to the Director General of Agriculture.
 Repealed by this Act, s. 4.
 Repealed by the Dairy Industry Act 1973, which was then repealed by the Dairy Industry and Herd Improvement Legislation Repeal Act 2000.

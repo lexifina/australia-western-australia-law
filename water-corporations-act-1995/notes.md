@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 July 2004 of the Water Corporation Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Water Corporation Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Water Corporation Act 1995 | 70 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
@@ -18,6 +18,8 @@ Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 see Ga
 Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 127 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 2: The Water Corporation Act 1995 as at 2 Jul 2004 (includes amendments listed above)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 14 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
 “
 2.Commencement

@@ -27,12 +27,13 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 40 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 6: The Electricity Act 1945 as at 16 Dec 2005 (not including No. 18 of 2005)
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2005 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 6 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
-Marginal notes in the Electricity Act 1945 referring to the legislation from which provisions were derived have been omitted from this reprint.
+Marginal notes in the Electricity Act 1945 referring to the legislation from which provisions were derived have been omitted from this compilation.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
 The Energy Corporations (Transitional and Consequential Provisions) Act 1994 s. 84 reads as follows:
 “

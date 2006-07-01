@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 22 July 2005 of the Suitors’ Fund Act 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Suitors’ Fund Act 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Suitors’ Fund Act 1964 | 43 of 1964 | 19 Nov 1964 | s. 1-7: 1 Jan 1965 (see s. 2 and Gazette 24 Dec 1964 p. 4093); balance: 2 Aug 1965 (see s. 2 and Gazette 16 Jul 1965 p. 2059)
@@ -25,5 +25,6 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 114 | 74 of 2003 | 15 Dec 20
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Suitors’ Fund Act 1964 as at 22 Jul 2005 (includes amendments listed above)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 7 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Proclaimed 1 Jan 1978, see s. 2 and Gazette 23 Dec 1977, p. 4671.
 The Acts Amendment (Ministry of Justice) Act 1993 s. 68 is a savings provision that is of no further effect.

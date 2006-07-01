@@ -14,6 +14,7 @@ Reprint of the Racing Penalties (Appeals) Act 1990 as at 19 Oct 2001 (includes a
 Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 11 | 35 of 2003 | 26 Jun 2003 | s. 179, 180(1)(a), (b), (d)-(g) and 181-194: 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259); s. 180(1)(c) and (2): 30 Jan 2004 (see s. 2 and Gazette 30 Jan 2004 p. 397)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 58 and 116 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 16 Div 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 and Pt. 11 Div. 2 read as follows:
 “
 19.Power to amend regulations

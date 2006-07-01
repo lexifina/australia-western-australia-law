@@ -23,6 +23,7 @@ Reprint 3: The Statutory Corporations (Liability of Directors) Act 1996 as at 7 
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Marketing of Eggs Amendment Act 2004 s. 9 | 20 of 2004 | 26 Aug 2004 | 2 Jul 2005 (see s. 2(2) and Gazette 28 Jun 2005 p. 2895)
 Statutory Corporations (Liability of Directors) (Act Amendment) Regulations 2004 (see Gazette 26 Nov 2004 p. 5314-15) | 1 Dec 2004 (see r. 2 and Gazette 30 Nov 2004 p. 5515)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Formerly referred to the State Government Insurance Commission the name of which was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8. The reference was substituted under the Reprints Act 1984 s. 7(3)(h).
 Formerly referred to the State Government Insurance Commission Act 1986 the short title of which was changed to the Insurance Commission of Western Australia Act 1986 by the Acts Amendment (ICWA) Act 1996 s. 5. The reference was substituted under the Reprints Act 1984 s. 7(3)(gb).
 The Insurance Commission of Western Australia Act 1986 Part III provides for the establishment of the State Government Insurance Corporation and for a board of directors of the Corporation. The Acts Amendment (ICWA) Act 1996 s. 20, which had not come into operation at the date on which this reprint was prepared, will repeal that Part.

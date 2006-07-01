@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 February 2006 of the Valuation of Land Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Valuation of Land Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Valuation of Land Act 1978 | 74 of 1978 | 20 Oct 1978 | 1 Jul 1979 (see s. 2 and Gazette 11 May 1979 p. 1211)
@@ -38,8 +38,9 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 123 | 74 of 2003 | 15 Dec 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 129 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 4: The Valuation of Land Act 1978 as at 10 Feb 2006 (includes amendments listed above)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Under the Land Administration Act 1997 s. 281(3), a reference to the Land Act 1933 in a written law is, unless the contrary intention appears, to be read and construed as being a reference to the Land Administration Act 1997.
-Under the Conservation and Land Management Act 1984 s. 151(a), a reference in a written law to the former Forests Department shall be read as a reference to the Department of Conservation and Land Management.
+Footnote no longer applicable.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Lands and Surveys is called the Department of Land Information.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources.
 The name of the Local Government Act 1960 was changed to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.

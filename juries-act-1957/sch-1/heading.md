@@ -27,10 +27,10 @@ Persons not eligible to serve as jurors
 (j) officer of the Corruption and Crime Commission under the Corruption and Crime Commission Act 2003;
 (ja) officer of the Parliamentary Inspector of the Corruption and Crime Commission under the Corruption and Crime Commission Act 2003;
 (k) Officer as defined in section 3 of the Children and Community Services Act 2004;
-(l) officer or employee in the Police Department of the Public Service of the State;
+(l) Officer or employee of the department of the Public Service principally assisting in the administration of the Police Act 1892;
 (m) member of the Parole Board or honorary community corrections officer under the Sentence Administration Act 2003;
 (n) member of the Supervised Release Review Board under the Young Offenders Act 1994.
-[Clause 2 inserted by No. 59 of 1984 s. 23; amended by No. 31 of 1993 s. 47; No. 104 of 1994 s. 236; No. 78 of 1995 s. 57; No. 48 of 2003 s. 62; No. 50 of 2003 s. 29(3); No. 34 of 2004 s. 251; No. 59 of 2004 s. 141.]
+[Clause 2 inserted by No. 59 of 1984 s. 23; amended by No. 31 of 1993 s. 47; No. 104 of 1994 s. 236; No. 78 of 1995 s. 57; No. 48 of 2003 s. 62; No. 50 of 2003 s. 29(3); No. 34 of 2004 s. 251; No. 59 of 2004 s. 141; No. 28 of 2006 s. 39(2).]
 Part II
 [Heading inserted by No. 59 of 1984 s. 23.]
 Persons who are excused as of right from serving as jurors if they claim to be excused by virtue of that fact, namely —
