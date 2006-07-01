@@ -38,7 +38,8 @@ Water Agencies Amendment By-laws 2001 Pt. 2 | 29 Jun 2001 p. 3230-42 | 1 Jul 200
  | Water Agencies Amendment By-laws 2003 Pt. 2 | 27 Jun 2003 p. 2422-32 | 1 Jul 2003 (see bl. 2)
  | Reprint 1: The Carnarvon Irrigation District By-laws as at 8 Aug 2003 (includes amendments listed above)
  | Water Agencies Amendment By-laws 2005 Pt. 2 | 1 Jul 2005 p. 3009-17 | 1 Jul 2005 (see bl. 2)
-These by-laws have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is given by the Water Agencies (Powers) Act 1984 s. 34(1).
+ | Water Agencies Amendment By-laws 2006 Pt. 2 | 30 Jun 2006 p. 2399-412 | 1 Jul 2006 (see bl. 2)
+These by-laws have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Now known as the Carnarvon Irrigation District By-laws; citation inserted (see note under bl. 1).
 The Water Agencies Amendment By-laws 1997 bl. 3 reads as follows:
 “
@@ -69,4 +70,9 @@ The Water Agencies Amendment By-laws 2003 bl. 3 reads as follows:
 “
 3.Application
 Nothing in these by-laws affects the application after 1 July 2003 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
+”.
+The Water Agencies Amendment By-laws 2006 bl. 3 reads as follows:
+“
+3.Application
+Nothing in these by-laws affects the application after 1 July 2006 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
 ”.

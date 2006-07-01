@@ -35,7 +35,8 @@ Water Agencies Amendment By-laws 2002 Pt. 4 | 1 Jul 2002 p. 3137-53 | 1 Jul 2002
 Water Agencies Amendment By-laws 2003 Pt. 5 | 27 Jun 2003 p. 2422-32 | 1 Jul 2003 (see bl. 2)
 Water Agencies Amendment By-laws 2004 Pt. 4 | 29 Jun 2004 p. 2497-503 | 1 Jul 2004 (see bl. 2)
 Water Agencies Amendment By-laws 2005 Pt. 5 | 1 Jul 2005 p. 3009-17 | 1 Jul 2005 (see bl. 2)
-These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is given by the Water Agencies (Powers) Act 1984 s. 34(1).
+Water Agencies Amendment By-laws 2006 Pt. 5 | 30 Jun 2006 p. 2399-412 | 1 Jul 2006 (see bl. 2)
+These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Now known as the Metropolitan Water Authority (Miscellaneous) By-laws 1982; citation changed (see note under bl. 1).
 The Metropolitan Water Authority (Rates and Charges) Amendment By-laws 1986 bl. 11 was a savings provision that is of no further effect.
 The Water Authority Amendment By-laws 1993 bl. 2 reads as follows:
@@ -89,3 +90,8 @@ The Water Agencies Amendment By-laws 2003 bl. 3 reads as follows:
 Nothing in these by-laws affects the application after 1 July 2003 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
 ”.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
+The Water Authority Amendment By-laws 2006 bl. 3 reads as follows:
+“
+3.Application
+Nothing in these by-laws affects the application after 1 July 2006 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
+”.

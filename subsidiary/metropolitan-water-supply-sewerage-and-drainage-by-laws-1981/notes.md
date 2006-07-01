@@ -63,6 +63,7 @@ Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2004 | 28 Jun
 Water Agencies Amendment By-laws 2004 Pt. 5 | 29 Jun 2004 p. 2497-503 | 1 Jul 2004 (see bl. 2)
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2005 | 26 Apr 2005 p. 1396-7 | 26 Apr 2005
 Water Agencies Amendment By-laws 2005 Pt. 6 | 1 Jul 2005 p. 3009-17 | 1 Jul 2005 (see bl. 2)
+Water Agencies Amendment By-laws 2006 Pt. 6 | 30 Jun 2006 p. 2399-412 | 1 Jul 2006 (see bl. 2)
 The power to make these by-laws is now contained in the Water Agencies (Powers) Act 1984 s. 34.
 Under the Conservation and Land Management Act 1984 s. 151(a), a reference in any law to the former Forests Department shall be read as a reference to the Department of Conservation and Land Management.
 Under the Public Sector Management Act 1994 the names of departments can be changed. At the date of this reprint the former Public Health Department is called the Department of Health.
@@ -150,4 +151,9 @@ The Water Agencies Amendment By-laws 2003 bl. 3 reads as follows:
 “
 3.Application
 Nothing in these by-laws affects the application after 1 July 2003 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
+”.
+The Water Agencies Amendment By-laws 2006 bl. 3 reads as follows:
+“
+3.Application
+Nothing in these by-laws affects the application after 1 July 2006 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
 ”.

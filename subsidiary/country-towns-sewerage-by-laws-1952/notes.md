@@ -64,7 +64,8 @@ Water Agencies Amendment By-laws 2004 Pt. 3 | 29 Jun 2004 p. 2497-503 | 1 Jul 20
 Country Towns Sewerage Amendment By-Laws 2005 | 26 Apr 2005 p. 1394-5 | 26 Apr 2005
 Reprint 4: The Country Towns Sewerage By-laws 1958 as at 29 Apr 2005 (includes amendments listed above)
 Water Agencies Amendment By-laws 2005 Pt. 4 | 1 Jul 2005 p. 3009-17 | 1 Jul 2005 (see bl. 2)
-These by-laws have effect for the purposes of the Country Towns Sewerage Act 1948 but the formal power to make them is given by the Water Agencies (Powers) Act 1984 s. 34. See also the Country Towns Sewerage Act 1948 s. 102.
+Water Agencies Amendment By-laws 2005 Pt. 4 | 30 Jun 2006 p. 2399-412 | 1 Jul 2006 (see bl. 2)
+These by-laws have effect for the purposes of the Country Towns Sewerage Act 1948 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34. See also the Country Towns Sewerage Act 1948 s. 102.
 The heading to this provision was deleted by the Country Towns Sewerage Amendment By-laws 1999 see Gazette 20 April 1999 p. 1641-2.
 The heading to this provision was deleted by the Water Agencies Amendment By-laws 1999 see Gazette 29 June 1999 p. 2778-82.
 Refers to the Standards Association of Australia, which has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
@@ -97,4 +98,9 @@ The Water Agencies Amendment By-laws 2004 bl. 3 reads as follows:
 “
 3.Application
 Nothing in these by-laws affects the application after 1 July 2004 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
+”.
+The Water Agencies Amendment By-laws 2006 bl. 3 reads as follows:
+“
+3.Application
+Nothing in these by-laws affects the application after 1 July 2006 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
 ”.
