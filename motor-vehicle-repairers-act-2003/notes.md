@@ -6,8 +6,8 @@ Motor Vehicle Repairers Act 2003 | 68 of 2003 | 9 Dec 2003 | s. 1-2: 9 Dec 2003
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Motor Vehicle Repairers Act 2003 s. 3-8, Pt. 2-11 and Sch. 1-3 | 68 of 2003 (as amended by No. 59 of 2004 s. 141; No. 84 of 2004 s. 80; No. 38 of 2005 s. 15) | 9 Dec 2003 | To be proclaimed (see s. 2)
-On the date as at which this compilation was prepared, the Motor Vehicle Repairers Act 2003 s. 3-8, Pt. 2-11 and Sch. 1-3 (as amended by No. 59 of 2004 s. 141 and No. 84 of 2004 s. 80) had not come into operation. They read as follows:
+Motor Vehicle Repairers Act 2003 s. 3-8, Pt. 2-11 and Sch. 1-3 | 68 of 2003 (as amended by No. 59 of 2004 s. 141; No. 84 of 2004 s. 80; No. 38 of 2005 s. 15; No. 28 of 2006 Pt. 4 Div. 16) | 9 Dec 2003 | To be proclaimed (see s. 2)
+On the date as at which this compilation was prepared, the Motor Vehicle Repairers Act 2003 s. 3-8, Pt. 2-11 and Sch. 1-3 (as amended by No. 59 of 2004 s. 141, No. 84 of 2004 s. 80, No. 38 of 2005 s. 15 and No. 28 of 2006 Pt. 4 Div. 16) had not come into operation. They read as follows:
 “
 3.Interpretation
 (1) In this Act, unless the contrary intention appears —
@@ -18,7 +18,7 @@ On the date as at which this compilation was prepared, the Motor Vehicle Repaire
 “certificate” means —
 (a)a repairer’s certificate; or
 (b)a provisional repairer’s certificate;
-“Commissioner” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971;
+“Commissioner” has the meaning given to that term in section 5(1) of the Motor Vehicle Dealers Act 1973;
 “Department” means the department of the Public Service principally assisting the Minister in the administration of this Act;
 “Director General” means the chief executive officer of the Department;
 “inquiry” has the meaning given by subsection (4);
@@ -41,6 +41,7 @@ or
 (2) References in this Act to repairing or repair work in relation to motor vehicles includes the repairing of any part of, or accessory to, a motor vehicle that has been removed from the vehicle for repair.
 (3) If a business licence is granted to 2 or more persons under section 18, references in this Act to the licensee are to those persons jointly, unless a contrary intention appears.
 (4) The references in sections 23(2)(a), 32(2)(a), 62(3)(a) and 66(a) to an inquiry are to proceedings of the kind authorised by section 14 of the Motor Vehicle Dealers Act 1973, and that section applies accordingly.
+[Section 3 amended by No. 28 of 2006 s. 111.]
 4.Limitation on imposition of penalties for offences
 The power of a court to impose a penalty on a person for an offence against this Act is subject to the limitation in Schedule 2 clause 2(1).
 5.Repair work, prescription of
@@ -68,7 +69,8 @@ The power of a court to impose a penalty on a person for an offence against this
 (a) for circumstances in which, and conditions subject to which, an exemption is to apply; and
 (b) that an exemption is of no effect at any time when any condition to which it is subject is not being observed.
 7.Commissioner’s powers
-Without limiting sections 19 to 23A, 24 and 25 of the Consumer Affairs Act 1971, those sections apply, with such modifications as are necessary, to and in relation to the performance of the functions of the Commissioner under this Act and persons and matters affected thereby as if those sections made express provision to that effect.
+Sections 19, 20, 21, 22, 23, 23A, 24 and 25 of the Consumer Affairs Act 1971 apply, with such modifications as are necessary, to and in relation to the functions of the Commissioner and persons and matters affected by the exercise of those functions as if the sections were part of this Act.
+[Section 7 inserted by No. 28 of 2006 s. 112.]
 8.Authorised officers
 (1) The Director General may designate any officer of the Department as an authorised officer for the purposes of this Act.
 (2) The Director General is to issue a certificate of authorisation to each person who is designated as an authorised officer under subsection (1).
@@ -1027,4 +1029,48 @@ whichever happens first.
 (b) to impose liabilities on any person (other than the State) in respect of anything done or omitted to be done before the day of publication.
 (5) In subclause (1) —
 “transitional matter” means a matter or thing necessary or convenient to provide for the change from the written law, as in force before the commencement of this Act, to the written law as in force after that commencement.
+”.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
+“
+Division 23 — Transitional provisions
+151.Commissioner for Fair Trading
+(1) On commencement, the person holding the office of Commissioner for Fair Trading immediately before commencement is to be taken to have been designated as the Commissioner or Registrar (as the case requires) for the purposes of each of the following enactments —
+(a) the Associations Incorporation Act 1987;
+(b) the Business Names Act 1962;
+(c) the Chattel Securities Act 1987;
+(d) the Companies (Co-operative) Act 1943;
+(e) Part 8 of the Competition Policy Reform (Western Australia) Act 1996;
+(f) the Consumer Affairs Act 1971;
+(g) the Co-operative and Provident Societies Act 1903;
+(h) the Credit Act 1984;
+(i) the Credit (Administration) Act 1984;
+(j) the Employment Agents Act 1976;
+(k) the Hire-Purchase Act 1959;
+(l) the Limited Partnerships Act 1909;
+(m) the Motor Vehicle Dealers Act 1973;
+(n) the Petroleum Products Pricing Act 1983;
+(o) the Petroleum Retailers Rights and Liabilities Act 1982;
+(p) the Residential Tenancies Act 1987;
+(q) the Retirement Villages Act 1992;
+(r) the Travel Agents Act 1985.
+(2) A thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading (including in his or her capacity as the Prices Commissioner) before commencement under a provision of the Consumer Affairs Act 1971 for the purposes of another enactment listed in subsection (1) has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted —
+(a) by, to or in relation to, the Commissioner or Registrar (as the case requires) as defined in that other enactment as in force after commencement; and
+(b) where relevant, under the corresponding provision of that other enactment as in force after commencement.
+(3) To the extent that a thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading (including in his or her capacity as the Prices Commissioner) before commencement under, or for the purposes of, an enactment listed in subsection (1) is not covered by subsection (2), it has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the Commissioner or Registrar (as the case requires) as defined in that enactment as in force after commencement.
+(4) A thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading before commencement under, or for the purposes of, an enactment not listed in subsection (1) has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the Commissioner as defined in the Consumer Affairs Act 1971 as in force after commencement.
+(5) A reference in an enactment to the Commissioner for Fair Trading is to have effect after commencement as if it had been amended to be a reference to —
+(a) in the case of an enactment listed in subsection (1) or subsidiary legislation made under such an enactment — the Commissioner or Registrar (as the case requires) as defined in the enactment as in force after commencement; or
+(b) in the case of any other enactment or subsidiary legislation — the Commissioner as defined in the Consumer Affairs Act 1971 as in force after commencement.
+152.Commissioner for Corporate Affairs and Registrar of Co-operative and Financial Institutions
+(1) A thing done or omitted to be done by, to or in relation to, the Commissioner for Corporate Affairs before commencement under, or for the purposes of, the Companies (Co-operative) Act 1943 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
+(2) A thing done or omitted to be done by, to or in relation to, the Registrar of Co-operative and Financial Institutions before commencement under, or for the purposes of, the Co-operative and Provident Societies Act 1903 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
+153.Consumer Affairs Act 1971
+Each office in existence immediately before commencement because of section 15(1) of the Consumer Affairs Act 1971 does not cease merely because that subsection is repealed by this Act.
+154.Petroleum Products Pricing Act 1983
+Each office in existence immediately before commencement because of section 5(2)(b) of the Petroleum Products Pricing Act 1983 does not cease merely because that paragraph is deleted by this Act.
+155.Interpretation
+In this Division —
+“commencement” means the time at which this Division comes into operation;
+“Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
+“Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
