@@ -1,63 +1,61 @@
 Notes
-This is a compilation of the Rights in Water and Irrigation Act 1914 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 July 2006 of the Rights in Water and Irrigation Act 1914 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Rights in Water and Irrigation Act 1914 | 19 of 1914 | 22 Sep 1914 | 22 Sep 1914
-Ministers’ Titles Act 1925 | 8 of 1925 | 24 Sep 1925 | 24 Sep 1925
-Limitation Act 1935, section 48A | 35 of 1935 (as amended by No. 73 of 1954 section 8) | 7 Jan 1936 | 1 Mar 1955 (see section 2 of Act No. 73 of 1954 and Gazette 18 Feb 1955 p.343)
+Ministers’ Titles Act 1925 s. 2 | 8 of 1925 | 24 Sep 1925 | 24 Sep 1925
 Rights in Water and Irrigation Act Amendment Act 1939 | 16 of 1939 | 22 Nov 1939 | 22 Nov 1939
 Rights in Water and Irrigation Act Amendment Act 1941 | 32 of 1941 | 16 Dec 1941 | 16 Dec 1941
 Reprint of the Rights in Water and Irrigation Act 1914 in Volume 2 of Reprinted Acts (includes amendments listed above)
 Rights in Water and Irrigation Act Amendment Act 1945 | 3 of 1945 | 18 Oct 1945 | 18 Oct 1945
 Rights in Water and Irrigation Act Amendment Act 1949 | 9 of 1949 | 14 Sep 1949 | 14 Sep 1949
 Rights in Water and Irrigation Act Amendment Act 1951 | 18 of 1951 | 26 Nov 1951 | 26 Nov 1951
+Limitation Act 1935 s. 48A(1) | 35 of 1935 (as amended by No. 73 of 1954 s. 8) | 14 Jan 1955 | Relevant amendments (see s. 48A and Second Sch.) took effect on 1 Mar 1955 (see No. 73 of 1954 s. 2 and Gazette 18 Feb 1955 p. 343)
 Reprint of the Rights in Water and Irrigation Act 1914 approved 6 Sep 1960 in Volume 15 of Reprinted Acts (includes amendments listed above)
-Rights in Water and Irrigation Act Amendment Act 1962 | 70 of 1962 | 30 Nov 1962 | 1 Mar 1963 (see section 2 and Gazette 1 Mar 1963 p.748)
+Rights in Water and Irrigation Act Amendment Act 1962 | 70 of 1962 | 30 Nov 1962 | 1 Mar 1963 (see s. 2 and Gazette 1 Mar 1963 p. 748)
 Rights in Water and Irrigation Act Amendment Act 1964 | 31 of 1964 | 4 Nov 1964 | 4 Nov 1964
-Decimal Currency Act 1965, sections 4-9 | 113 of 1965 | 21 Dec 1965 | 14 Feb 1966 (see section 2(2)); balance: 21 Dec 1965
+Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Rights in Water and Irrigation Act Amendment Act 1971 | 46 of 1971 | 10 Dec 1971 | 10 Dec 1971
-Metric Conversion Act 1972 | 94 of 1972 (The Second Schedule was inserted by No. 19 of 1973) | 4 Dec 1972 | The relevant amendments as set out in the Second Schedule, took effect on 1 May 1974 (see section 4(2) and Gazette 26 Apr 1974 p.1393)
+Metric Conversion Act 1972 | 94 of 1972 (as amended by No. 19 of 1973) | 4 Dec 1972 | Relevant amendments (see Second Sch.) took effect on 1 May 1974 (see s. 4(2) and Gazette 26 Apr 1974 p. 1393)
 Reprint of the Rights in Water and Irrigation Act 1914 approved 12 Aug 1974 (includes amendments listed above)
-Rights in Water and Irrigation Act Amendment Act 1974 | 48 of 1974 (as amended by No. 100 of 1976) | 26 Nov 1974 | 18 Feb 1977 (see section 2 and Gazette 18 Feb 1977 p.468)
-Acts Amendment and Repeal (Valuation of Land) Act 1978, Part XII | 76 of 1978 | 20 Oct 1978 | 1 Jul 1979 (see section 2 and Gazette 11 May 1979 p.1211)
-Rights in Water and Irrigation Act Amendment Act 1978 | 98 of 1978 (as amended by No. 119 of 1984 ss. 20-22; No. 74 of 2003 s. 104) | 17 Nov 1978 | s. 1, 2, 8, 9, 14, 36 and 37: 19 Jan 1979 (see s. 2 and Gazette 19 Jan 1979 p.114); s. 3 and 15-35 repealed by No. 74 of 2003 s. 104
-Acts Amendment (Statutory Designations) and Validation Act 1981, section 4 | 63 of 1981 | 13 Oct 1981 | 13 Oct 1981
-Rights in Water and Irrigation Amendment Act 1984 | 119 of 1984 | 27 Dec 1984 | 15 Feb 1985 (see section 2 and Gazette 15 Feb 1985 p.574)
-Acts Amendment and Repeal (Water Authorities) Act 1985, Part IX | 25 of 1985 | 6 May 1985 | 1 Jul 1985 (see section 2 and Gazette 7 Jun 1985 p.1931)
-Commercial Arbitration Act 1985, section 3 | 109 of 1985 | 7 Jan 1986 | 1 Apr 1986 (see section 2 and Gazette 28 Feb 1986 p.605)
-Acts Amendment (Water Authorities) Act 1985, Part VIII | 110 of 1985 | 17 Dec 1985 | Sections 119-129, 131-133(b), and 134: 14 Mar 1986; balance: 1 July 1986 (see section 2 and Gazette 14 Mar 1986 p.726)
-Reprint of the Rights in Water and Irrigation Act 1914 as at 23 Oct 1986 (includes amendments listed above except those in the Rights in Water and Irrigation Act Amendment Act 1978 sections 3 & 15-35)
-Acts Amendment and Repeal (Environmental Protection) Act 1986, Part VI | 77 of 1986 | 4 Dec 1986 | 20 Feb 1987 (see section 2 and Gazette 20 Feb 1987 p.440)
-Acts Amendment (Water Authority Rates and Charges) Act 1987, Part VI | 24 of 1987 | 25 Jun 1987 | 14 Jul 1987 (see section 2 and Gazette 14 Jul 1987 p.2647)
-Financial Administration Legislation Amendment Act 1993, section 11 | 6 of 1993 | 27 Aug 1993 | Deemed operative 1 Jul 1993 (see section 2(1))
-Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995, Part 8 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see section 2 and Gazette 29 Dec 1995 p.6291)
-Sentencing (Consequential Provisions) Act 1995, section 112 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see section 2 and Gazette 25 Oct 1996 p.5632)
-Reprinted as at 2 Apr 1996 (includes amendments listed above except those in the Sentencing (Consequential Provisions) Act 1995)
-Local Government (Consequential Amendments) Act 1996, section 4 | 14 of 1996 | 28 June 1996 | 1 Jul 1996 (see section 2)
-Financial Legislation Amendment Act 1996, section 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see section 2(1))
-Transfer of Land Amendment Act 1996, section 153(1) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see section 2(1))
-Acts Amendment (Land Administration) Act 1997, Part 52 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see section 2 and Gazette 27 Mar 1998 p.1765)
-Water Legislation Amendment Act 1997, Part 4 | 32 of 1997 | 3 Oct 1997 | 15 Apr 1998 (see section 2 and Gazette 15 Apr 1998 p.2041)
-Statutes (Repeals and Minor Amendments) Act 1997, section 105 | 57 of 1997 | 15 December 1997 | 15 Dec 1997 (see section 2)
-Statutes (Repeals and Minor Amendments) Act (No. 2) 1998, section 63 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see section 2(1))
-Rights in Water and Irrigation Amendment Act 2000 | 49 of 2000 | 28 Nov 2000 | 10 Jan 2001 (see section 2 and Gazette 10 Jan 2001 p.163)
-Reprint of the Rights in Water and Irrigation Act 1914 as at 10 Jan 2001 (includes amendments listed above)
+Rights in Water and Irrigation Act Amendment Act 1974 | 48 of 1974 (as amended by No. 100 of 1976) | 26 Nov 1974 | 18 Feb 1977 (see s. 2 and Gazette 18 Feb 1977 p. 468)
+Acts Amendment and Repeal (Valuation of Land) Act 1978 Pt. XII | 76 of 1978 | 20 Oct 1978 | 1 Jul 1979 (see s. 2 and Gazette 11 May 1979 p. 1211)
+Rights in Water and Irrigation Act Amendment Act 1978 | 98 of 1978 (as amended by No. 119 of 1984 s. 20-22; No. 74 of 2003 s. 104) | 17 Nov 1978 | s. 1, 2, 8, 9, 14, 36 and 37: 19 Jan 1979 (see s. 2 and Gazette 19 Jan 1979 p. 114); s. 3 and 15-35 repealed by No. 74 of 2003 s. 104
+Acts Amendment (Statutory Designations) and Validation Act 1981 s. 4 | 63 of 1981 | 13 Oct 1981 | 13 Oct 1981
+Rights in Water and Irrigation Amendment Act 1984 | 119 of 1984 | 27 Dec 1984 | 15 Feb 1985 (see s. 2 and Gazette 15 Feb 1985 p. 574)
+Acts Amendment and Repeal (Water Authorities) Act 1985 Pt. IX | 25 of 1985 | 6 May 1985 | 1 Jul 1985 (see s. 2 and Gazette 7 Jun 1985 p. 1931)
+Acts Amendment (Water Authorities) Act 1985 Pt. VIII (s. 119-134) | 110 of 1985 | 17 Dec 1985 | s. 119-129, 131-132, 133(b), and 134: 14 Mar 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726); s. 130 and 133(a): 1 Jul 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726)
+Commercial Arbitration Act 1985 s. 3 | 109 of 1985 | 7 Jan 1986 | 1 Apr 1986 (see s. 2 and Gazette 28 Feb 1986 p. 605)
+Reprint of the Rights in Water and Irrigation Act 1914 as at 23 Oct 1986 (includes amendments listed above except those in the Rights in Water and Irrigation Act Amendment Act 1978 s. 3 and 15-35)
+Acts Amendment and Repeal (Environmental Protection) Act 1986 Pt. VI | 77 of 1986 | 4 Dec 1986 | 20 Feb 1987 (see s. 2 and Gazette 20 Feb 1987 p. 440)
+Acts Amendment (Water Authority Rates and Charges) Act 1987 Pt. VI | 24 of 1987 | 25 Jun 1987 | 14 Jul 1987 (see s. 2 and Gazette 14 Jul 1987 p. 2647)
+Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
+Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 8 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 29 Dec 1995 p. 6291)
+Sentencing (Consequential Provisions) Act 1995 Pt. 70 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
+Reprint of the Rights in Water and Irrigation Act 1914 as at 2 Apr 1996 (includes amendments listed above except those in the Rights in Water and Irrigation Act Amendment Act 1978 s. 3 and 15-35 and the Sentencing (Consequential Provisions) Act 1995)
+Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
+Transfer of Land Amendment Act 1996 s. 153(1) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
+Acts Amendment (Land Administration) Act 1997 Pt. 52 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
+Water Legislation Amendment Act 1997 Pt. 4 | 32 of 1997 | 3 Oct 1997 | 15 Apr 1998 (see s. 2 and Gazette 15 Apr 1998 p. 2041)
+Statutes (Repeals and Minor Amendments) Act 1997 s. 105 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
+Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 63 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
+Rights in Water and Irrigation Amendment Act 2000 | 49 of 2000 | 28 Nov 2000 | 10 Jan 2001 (see s. 2 and Gazette 10 Jan 2001 p. 163)
+Reprint of the Rights in Water and Irrigation Act 1914 as at 10 Jan 2001 (includes amendments listed above except those in the Rights in Water and Irrigation Act Amendment Act 1978 s. 3 and 15-35)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 91 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 103 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 114 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Water Legislation Amendment (Competition Policy) Act 2005 Pt. 6 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and are not included in this compilation. For the text of the provisions see the endnote referred to after the short title.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Sentencing (Consequential Provisions) Act 1995 Pt. 70 | 78 of 1995 | 16 Jan 1996 | To be proclaimed (see s. 2)
-NB:The Rights in Water and Irrigation Act 1914 is affected by the Soil and Land Conservation Act 1945 section 3, and the Water Agencies (Powers) Act 1984 section 5.
-NB:This Act is affected by Orders published in Gazette 31 May 1985 p. 1897 and 21 June 1985 p. 2240.
-Now cited as the Water Agencies (Powers) Act 1984.
-Part II of the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 (No. 73 of 1995) commenced 1 January 1996.
-Now known as the Department of Minerals and Energy (see Alteration of Statutory Designations Order (No. 2) 1992 in Gazette 30 June 1992 p.2924).
+Reprint 7: The Rights in Water and Irrigation Act 1914 as at 4 Jul 2006 (includes amendments listed above)
+The short title of the Water Authority Act 1984 was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7.
+The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 commenced 1 January 1996.
+Under the Public Sector Management Act 1994, the names of departments can be changed. At the time of this reprint, the former Department of Land Administration is called the Department of Land Information.
+Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Minerals and Energy is read and construed as a reference to the department of the Public Service with the designation “Department of Industry and Resources”, unless the contrary intention appears in the law or the context of the reference otherwise requires.
 Marginal notes in the Rights in Water and Irrigation Act 1914 referring to earlier Western Australian legislation and to legislation of other jurisdictions have been omitted from this reprint.
-Part 8 of the Rights in Water and Irrigation Amendment Act 2000 (No. 49 of 2000) reads as follows —
+Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
+The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973 s. 4.
+The Rights in Water and Irrigation Amendment Act 2000 Pt. 8 reads as follows:
 “
 Part 8 — Transitional provisions
 71.Definitions
@@ -93,8 +91,8 @@ but that was not before the relevant commencement finally disposed of by the gra
 (2) An application to which this clause applies is to continue to be governed by the principal Act, including section 26D(4) and (5), as if this Act had not been enacted.
 (3) However, if a licence is granted on the application —
 (a) it is to be treated after the grant as if it were —
-(i) so far as it relates to the taking of water, a licence under section 5C of the principal Act authorizing that taking; and
-(ii) so far as it relates to the carrying out of work, a licence under section 26D of the principal Act authorizing the carrying out of that work;
+(i) so far as it relates to the taking of water, a licence under section 5C of the principal Act authorising that taking; and
+(ii) so far as it relates to the carrying out of work, a licence under section 26D of the principal Act authorising the carrying out of that work;
 (b) those licences may be combined in a single instrument; and
 (c) after the grant, the provisions of the principal Act apply to the licences in the same way as they apply to a licence under section 5C or 26D, as the case may be, granted under the principal Act as amended by this Act.
 76.Licences under section 12 or 13
@@ -108,8 +106,8 @@ but that was not before the relevant commencement finally disposed of by the gra
 77.Licences under section 26D
 (1) This section applies to a licence that immediately before the commencement of section 37 of this Act was in force under section 26D of the principal Act.
 (2) A licence referred to in subsection (1) is taken on the commencement of section 37 —
-(a) so far as it relates to the taking of water (and whether it refers to taking or to drawing), to be a licence under section 5C of the principal Act authorizing that taking; and
-(b) so far as it relates to the carrying out of work, to be a licence under section 26D of the principal Act authorizing the carrying out of that work,
+(a) so far as it relates to the taking of water (and whether it refers to taking or to drawing), to be a licence under section 5C of the principal Act authorising that taking; and
+(b) so far as it relates to the carrying out of work, to be a licence under section 26D of the principal Act authorising the carrying out of that work,
 and those licences are taken to be licences combined in a single instrument as mentioned in clause 2(3) of Schedule 1 to the principal Act.
 (3) Subject to subsection (4), a licence referred to in subsection (2)(a) continues in force for the remainder of its term.
 (4) After the commencement of section 37 of this Act, the provisions of the principal Act as amended by this Act apply to a licence referred to in subsection (2)(a) in the same way as they apply to a licence under section 5C of the principal Act granted after that commencement.
@@ -133,18 +131,7 @@ An order under section 26C of the principal Act that was in force immediately be
 (a) to affect, in a manner prejudicial to any person (other than the State), the rights of that person existing before the day of its publication; or
 (b) to impose liabilities on any person (other than the State) in respect of anything done or omitted to be done before the day of publication.
 ”.
-Footnote no longer applicable.
-On the date on which this compilation was prepared, the Sentencing (Consequential Provisions) Act 1995 Pt. 70 had not come into operation. It reads:
-“
-PART 70 — RIGHTS IN WATER AND IRRIGATION ACT 1914
-112.Section 74 repealed and a section substituted
-Section 74 of the Rights in Water and Irrigation Act 1914 is repealed and the following section is substituted —
-“
-74.Proceedings for offences
-Proceedings for an offence against this Act shall be dealt with summarily in a court of summary jurisdiction.
-”.
-”.
-The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 38 and 61 read as follows:
 “
 38.Rights in Water and Irrigation Act 1914
