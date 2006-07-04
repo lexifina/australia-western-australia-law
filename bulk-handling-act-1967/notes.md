@@ -23,7 +23,7 @@ Reprint of the Bulk Handling Act 1967 as at 13 Sep 1993 (includes amendments lis
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
 Skeleton Weed and Resistant Grain Insects (Eradication Funds) Amendment Act 1996 s. 13 | 53 of 1996 | 31 Oct 1996 | 31 Oct 1996 (see s. 2)
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 19 and 76 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
-Bulk Handling Repeal Act 2000 | 33 of 2000 | 6 Jul 2000 | s. 7: 30 Oct 2000 (see s. 3(1)); balance not in operation (see s. 2)
+Bulk Handling Repeal Act 2000 | 33 of 2000 | 6 Jul 2000 | s. 7: 30 Oct 2000 (see s. 3(1)); balance repealed by No. 37 of 2006 s. 3(1))
 Bulk Handling Amendment Act 2002 | 29 of 2002 | 25 Oct 2002 | 25 Oct 2002 (see s. 2)
 Grain Marketing Act 2002 s. 47 | 30 of 2002 | 25 Oct 2002 | 31 Oct 2002 (see s. 2 and Gazette 30 Oct 2002 p. 5351)
 Reprint 4: The Bulk Handling Act 1967 as at 5 Dec 2003 (includes amendments listed above) (correction in Gazette 23 Jan 2004 p. 306)
