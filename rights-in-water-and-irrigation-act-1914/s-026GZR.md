@@ -1,3 +1,3 @@
-### 26GZR. Register may be amended
+### 26GZR. Register may be amended, added to or corrected
 The Commission may amend, add to and correct the register in such manner as is necessary to make the register an accurate record of the details it contains.
-[Section 26GZR inserted by No. 49 of 2000 s.49.]
+[Section 26GZR inserted by No. 49 of 2000 s. 49.]
