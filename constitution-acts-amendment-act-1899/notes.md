@@ -469,3 +469,5 @@ Schedule 3 — Consequential amendments
 The Medical Radiation Technologists Registration Board of Western Australia established under the Medical Radiation Technologists Act 2006.
 ”.
 ”.
+Repealed by the Statute Law Revision Act 2006 s. 3(1).
+Repealed by the Statute Law Revision Act 2006 s. 3(1).
