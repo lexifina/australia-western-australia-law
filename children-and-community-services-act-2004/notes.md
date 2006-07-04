@@ -10,6 +10,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 Sch. 2 cl. 25 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 Working with Children (Criminal Record Checking) Act 2004 s. 50-52 | 65 of 2004 | 8 Dec 2004 | To be proclaimed (see s. 2)
+Family Legislation Amendment Act 2006 Pt. 6 Div. 1 | 35 of 2006 | 4 Jul 200sw6 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Children and Community Services Act 2004 s. 251 which gives effect to Sch. 2 had not come into operation. It reads as follows:
 “
 251.Other Acts amended
@@ -47,5 +48,40 @@ After section 208(2)(b) the following paragraph is inserted —
 After section 209(2)(b) the following paragraph is inserted —
 “
 (ba) the nominated supervising officer has a current assessment notice;
+”.
+”.
+On the date as at which this compilation was prepared, the Family Legislation Amendment Act 2006 Pt. 6 Div. 1 had not come into operation. It reads as follows:
+“
+Part 6 — Consequential amendments to other Acts
+Division 1 — Children and Community Services Act 2004 amended
+200.The Act amended
+The amendments in this Division are to the Children and Community Services Act 2004.
+201.Section 104 amended
+(1) Section 104(1) is amended by deleting the definitions of “residence order” and “specific issues order” and inserting in the appropriate alphabetical position —
+“
+“parenting order” means a parenting order made under the Family Law Act 1975 of the Commonwealth or the Family Court Act 1997 which deals with —
+(a)the person or persons with whom a child is to live; or
+(b)the time a child is to spend with another person or other persons; or
+(c)the communication a child is to have with another person or other persons; or
+(d)the allocation of parental responsibility for a child;
+”.
+(2) Section 104(2)(d) is amended by deleting “residence order or specific issues” and inserting instead —
+“ parenting ”.
+(3) Section 104(2)(e) is amended by deleting “residence order or specific issues” and inserting instead —
+“ parenting ”.
+202.Section 198 amended
+Section 198(2) is amended as follows:
+(a) by deleting paragraph (b) and inserting instead —
+“
+(b) care provided to a child by a person in accordance with a parenting order under the Family Law Act 1975 of the Commonwealth or the Family Court Act 1997; or
+”;
+(b) after each of paragraphs (a) and (c) to (e) by inserting —
+“ or ”.
+203.Section 238 amended
+Section 238(6)(d) is deleted and the following paragraph is inserted instead —
+“
+(d) if the proceedings are in the Family Court —
+(i) a family consultant, as defined in the Family Court Act 1997; or
+(ii) any other person required or directed to prepare a report on matters relevant to the proceedings, under that Act or the Family Law Act 1975 of the Commonwealth;
 ”.
 ”.
