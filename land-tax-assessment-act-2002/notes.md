@@ -11,7 +11,7 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Revenue Laws Amendment Act (No. 3) 2005 Pt. 3 | 10 of 2005 | 29 Aug 2005 | 1 Jul 2005 (see s. 2(2))
 Revenue Laws Amendment Act (No. 2) 2005 Pt. 2 | 12 of 2005 | 30 Aug 2005 | s. 5: 1 Jul 2003 (see s. 2(2)); balance: 30 Aug 2005 (see s. (2(1))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-Revenue Laws Amendment Act 2006 Pt. 4 (s. 20-27, 29-30) | 31 of 2006 | 4 Jul 2006 | s. 20-27 and 29-30: 1 Jul 2006 (see s. 2(5))
+Revenue Laws Amendment Act 2006 Pt. 4 (s. 19-30) | 31 of 2006 | 4 Jul 2006 | s. 20-27 and 29-30: 1 Jul 2006 (see s. 2(5)); s. 19 and 28: 4 Jul 2006 (see s. 2(1))
 The Business Tax Review (Assessment) Act 2003 s. 7 and s. 10 read as follows:
 “
 7.Financial years before the commencement day
