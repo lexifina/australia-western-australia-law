@@ -11,6 +11,7 @@ Casino (Burswood Island) Agreement Act 1985 Amendment Order 1998 (see Gazette 8 
 Reprint of the Casino (Burswood Island) Agreement Act 1985 as at 5 Apr 2002 (includes amendments listed above)
 Casino (Burswood Island) Agreement Amendment Act 2003 | 51 of 2003 | 2 Sep 2003 | 2 Sep 2003 (see s. 2)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+Casino (Burswood Island) Agreement Amendment Order 2006 (see Gazette 4 Jul 2006 p. 2467-71) | 4 Jul 2006
 The Liquor Licensing (Moratorium) Act 1983 expired on 31 December 1986.
 The Liquor Act 1970 was repealed by the Liquor Licensing Act 1988.
 The Local Government Act 1960 s. 248 was repealed by the Local Government Act 1995.
@@ -18,3 +19,4 @@ On the date as at which this reprint was prepared the title of the Minister resp
 The Land Act 1933 was repealed by the Land Administration Act 1997.
 The page number index to the Agreement set out in Schedule 1 does not reflect the relevant page numbers of this reprint.
 Marginal notes in the agreements have been represented as bold headnotes in this reprint but that does not change their status as marginal notes.
+Lands and Surveys and Department of Land Administration plans and surveys are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).

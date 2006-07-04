@@ -1,7 +1,7 @@
 ## Schedule 9
 [s. 3]
-## Casino (Burswood Island) Agreement
-## EIGHTH SUPPLEMENTARY AGREEMENT
+Casino (Burswood Island) Agreement
+EIGHTH SUPPLEMENTARY AGREEMENT
 THIS AGREEMENT made the 18 day of June 2003
 B E T W E E N :
 THE HONOURABLE NICHOLAS DAVID GRIFFITHS MLC, the Minister of the Crown for the time being charged with the administration of the Control Act acting for and on behalf of the State of Western Australia and its instrumentalities from time to time (“the State”)
