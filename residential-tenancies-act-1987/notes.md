@@ -25,6 +25,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Real Estate Legislation Amendment Act 1995 s. 46 and 52 | 59 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2)
+Residential Parks (Long-stay Tenants) Act 2006 s. 98 | 32 of 2006 | 4 Jul 2006 | To be proclaimed (see s. 2)
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
 “
@@ -185,4 +186,35 @@ In this Division —
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Part 19 provides general transitional provisions concerning references to Departments and chief executive officers that are amended or repealed by that Act.
+Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Residential Parks (Long-stay Tenants) Act 2006 s. 98, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+“
+98.Consequential amendments
+Schedule 2 sets out consequential amendments.
+”.
+Schedule 2 cl. 2 reads as follows:
+“
+Schedule 2 — Consequential amendments
+2.Residential Tenancies Act 1987 amended
+(1) The amendments in this section are to the Residential Tenancies Act 1987*.
+(2) Section 5(5) is amended by deleting “This” and inserting instead —
+“ Subject to subsection (6), this ”.
+(3) After section 5(5) the following is inserted —
+“
+(6) This Act does not apply to a site at a residential park, within the meaning of the Residential Parks (Long-stay Tenants) Act 2006, other than in relation to a residential tenancy agreement —
+(a) under which a person has a right to occupy such a site; and
+(b) that is an existing fixed term long-stay agreement made in writing, to which the Residential Parks (Long-stay Tenants) Act 2006 does not apply in accordance with section 6(4) of that Act.
+(7) Subsection (6) has effect despite section 8(1) of the Residential Parks (Long-stay Tenants) Act 2006.
+”.
+(4) After Schedule 1 clause 3(2)(a) the following paragraph is inserted —
+“
+(aa) money payable to the fund under section 75(3), 92(b) or 94(a) of the Residential Parks (Long-stay Tenants) Act 2006;
+”.
+(5) After Schedule 1 clause 3(3)(a) the following paragraphs are inserted —
+“
+(aa) in payment of any amount required to be paid out of the fund under section 51 of the Residential Parks (Long-stay Tenants) Act 2006 or under an order under section 76(3) or 77(2) of that Act;
+(ab) in reimbursement of the costs and expenses incurred for the purposes of the Residential Parks (Long-stay Tenants) Act 2006 by the bond administrator, bond agents and the Commissioner in carrying out their respective functions;
+”.
+(6) Schedule 1 clause 3(3)(b) is amended by inserting after “this Act” —
+“ or the Residential Parks (Long-stay Tenants) Act 2006 ”.
+”.
