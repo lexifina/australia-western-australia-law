@@ -18,6 +18,10 @@ Rates and Charges (Rebates and Deferments) Amendment Act 2005 | 9 of 2005 | 7 Ju
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 8 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Revenue Laws Amendment Act 2006 Pt. 5 | 31 of 2006 | 4 Jul 2006 | 1 Jul 2006 (see s. 2(5))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Number and year | Assent | Commencement
+Residential Parks (Long-stay Tenants) Act 2006 s. 98 | 32 of 2006 | 4 July 2006 | To be proclaimed (see s. 2)
 The Revenue Laws Amendment (Assessment) Act 1998 section 25 reads as follows —
 “
 25.Savings — procedural manuals
@@ -48,4 +52,48 @@ The Rates and Charges (Rebates and Deferments) Amendment Act 2005 s. 16 reads as
 “
 16.Transitional
 If an eligible person who holds a relevant interest in land of a kind referred to in section 29A or 29B of the Rates and Charges (Rebates and Deferments) Act 1992 registers an entitlement in respect of land under section 32 of that Act after 30 June 2005 and before 1 October 2005, section 40 of that Act applies to that person as if the entitlement had been registered at the commencement of the charged period.
+”.
+On the date as at which this compilation was prepared, the Residential Parks (Long-stay Tenants) Act 2006 s. 98, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+“
+98.Consequential amendments
+Schedule 2 sets out consequential amendments.
+”.
+Schedule 2 cl. 1 reads as follows:
+“
+Schedule 2 — Consequential amendments
+[s. 98]
+1.Rates and Charges (Rebates and Deferments) Act 1992 amended
+(1) The amendments in this section are to the Rates and Charges (Rebates and Deferments) Act 1992.
+(2) Section 3(1) is amended in the definition of “relevant interest” by deleting “or 29B” and inserting instead —
+“ , 29B or 29C ”.
+(3) After section 29B the following section is inserted —
+“
+29C.Relevant interest — owner-occupier of relocatable home
+(1) In this section —
+“park operator” has the meaning given to that term by the Residential Parks (Long-stay Tenants) Act 2006;
+“relocatable home” has the meaning given to that term by the Residential Parks (Long-stay Tenants) Act 2006;
+“residential park” has the meaning given to that term by the Residential Parks (Long-stay Tenants) Act 2006;
+“site” has the meaning given to that term by the Residential Parks (Long-stay Tenants) Act 2006;
+“site-only agreement” has the meaning given to that term by the Residential Parks (Long-stay Tenants) Act 2006.
+(2) Where an eligible person who occupies a site on land in a residential park —
+(a) has entered into a prescribed charge arrangement described in subsection (3) in relation to the land or is taken to have entered into such an arrangement under subsection (4); and
+(b) is and remains liable to pay the prescribed charge as an amount payable under the prescribed charge arrangement,
+that person has an interest in the land which is to be taken to be relevant for the purposes of this Act.
+(3) An eligible person enters into a prescribed charge arrangement for the purposes of this section if the person enters into a written contract, agreement, scheme, deed or other written arrangement with a park operator to pay, either directly or indirectly, a prescribed charge on land in a residential park that is a site occupied by the person as an owner-occupier.
+(4) An eligible person is taken to have entered into a prescribed charge arrangement for the purposes of this section if the eligible person —
+(a) was the spouse or de facto partner of a deceased eligible person who had entered into a prescribed charge arrangement; and
+(b) was residing with the deceased eligible person at the time of his or her death.
+(5) An eligible person occupies a site as an owner-occupier for the purposes of this section if —
+(a) the eligible person —
+(i) is the owner of a relocatable home situated on the site in a residential park; and
+(ii) has, under the terms of a written site-only agreement and from the date on which an entitlement of that person is registered, an exclusive right to occupy that site for a term of 5 years or longer, or such other term as may be prescribed in place of that term;
+or
+(b) the eligible person —
+(i) is the spouse or de facto partner of an eligible person referred to in paragraph (a), or was the spouse or de facto partner of a deceased person who was an eligible person referred to in paragraph (a) at the time of his or her death; and
+(ii) resides with that person or was residing with that deceased person at the time of his or her death.
+”.
+(6) Section 33(1a) is amended by deleting “or 29B,” and inserting instead —
+“ , 29B or 29C, ”.
+(7) Section 43(1a) is amended by deleting “or 29B.” and inserting instead —
+“ , 29B or 29C. ”.
 ”.
