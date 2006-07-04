@@ -15,4 +15,4 @@
 (a) an operating licence (water supply services); or
 (b) an operating licence (irrigation services),
 under the Water Services Licensing Act 1995.
-[Section 26GZJ inserted by No. 49 of 2000 s.49; amended by No. 67 of 2003 s. 62.]
+[Section 26GZJ inserted by No. 49 of 2000 s. 49; amended by No. 67 of 2003 s. 62.]
