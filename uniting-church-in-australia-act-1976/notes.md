@@ -11,4 +11,3 @@ Reprint of the Uniting Church in Australia Act 1976 as at 6 Sep 2002 (includes a
 9 November 1979 (see Gazette 9 November 1979 p. 3491).
 Repealed by s. 3 of this Act.
 Associations Incorporation Act 1895 repealed by the Associations Incorporation Act 1987.
-The amendments to this Act in the Acts Amendment (Mental Health) Act 1981 Pt. VIII never came into operation.This was because the Mental Health Act 1981 never came into operation and was repealed by No. 69 of 1996 s. 73.
