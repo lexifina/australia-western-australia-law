@@ -39,6 +39,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Universities Legislation Amendment Act 2005 Pt. 6 | 8 of 2005 | 7 Jul 2005 | 13 Aug 2005 (see s. 2 and Gazette 12 Aug 2005 p. 3651)
 Reprint 4: The University of Western Australia Act 1911 as at 18 Nov 2005 (includes amendments listed above)
+Statute Law Revision Act 2006 s. 9 | 37 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2)
 Repealed by Interpretation Act 1984 s. 77(1).
 The Acts Amendment (Student Guilds and Associations) Act 1983 s. 7 reads as follows:
 “

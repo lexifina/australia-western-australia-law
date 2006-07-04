@@ -1,6 +1,0 @@
-## Third Schedule
-The Brown Hill Loop Kalgoorlie-Gnumballa Lake Railway
-(a)Commencing at a point 611.212 km on the Kalgoorlie-Gnumballa Lake Railway and proceeding thence on a bearing of 107o 35' for a distance of 104 m, thence on a bearing of 78o 38' for a distance of 104 m, thence on a bearing of 49o 31' for a distance of 104 m, thence on a bearing of 20o 44' for a distance of 296 m, thence on a bearing of 33o 16' for a distance of 324 m thence on a bearing of 337o 4' for a distance of 752 m, thence on a bearing of 302o 25' for a distance of 336 m, thence on a bearing of 341o 23' for a distance of 433 m, terminating at a point 613.676 km via Kamballie from Perth on the Brown Hill Loop Kalgoorlie-Gnumballa Lake Railway and being a total length of 2.453 km or thereabouts.
-The whole being more particularly delineated and shown by a red line on C.E. Plan 66664.
-(b)Commencing at a point 611.212 km or thereabouts from Perth on the Kalgoorlie-Gnumballa Lake Railway and proceeding along the Brown Hill Loop to a point 613.676 km or thereabouts via Kamballie from Perth on the Brown Hill Loop Kalgoorlie-Gnumballa Lake Railway.
-The whole being more particularly delineated and shown coloured yellow on C.E. Plan 66664.

@@ -38,6 +38,7 @@ Acts Amendment (Lesbian and Gay Law Reform) Act 2002 Pt. 18 | 3 of 2002 | 17 Apr
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 95, 97 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Workers’ Compensation Reform Act 2004 s. 175 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Statute Law Revision Act 2006 s. 7 | 37 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2)
 Repealed in First Schedule to this Act.
 The Public Trustee Amendment Act 1989 s. 6(2) reads as follows —
 “

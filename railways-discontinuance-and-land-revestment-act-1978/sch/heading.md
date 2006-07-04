@@ -1,5 +1,0 @@
-## Schedule
-(a)Portion of Fremantle Harbour Works and Tramway and the Quarry Railway Extension (Fremantle Harbour Works and Tramway Act 1893 and Quarry Railway Extension Act 1928)
-All that portion of the Rous Head-Rocky Bay-Quarry railway starting at a point on the Perth-Fremantle Railway, situate 18.44 kilometres from the Perth Terminal and extending generally north-easterly through the Perth-Fremantle Railway Reserve, Stirling Highway, Vacant Crown Land, Lot P82, Craig Street, Thompson Road, North Fremantle Lot 282 (Reserve 5081), Class B Reserve 2976, Vacant Crown Land, North Fremantle Lots 323 and 236, Closed Road; thence generally north-easterly and south-easterly through Vacant Crown Land, generally south-easterly through Closed Road, Vacant Crown Land, Fairbairn Street, again Vacant Crown Land, Stone Street and again Vacant Crown Land to the north-western boundary of Swan Location 79, as shown on Western Australian Government Railways Plan PD.5095.
-(b)Land Revestment
-All that portion of land comprising Reserves 2976 and 5081.
