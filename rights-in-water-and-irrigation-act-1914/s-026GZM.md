@@ -7,4 +7,4 @@ make a notation on the register that the person specified in the application has
 (a) a general description of the nature of the security interest;
 (b) the name and business address of the person who has the security interest; and
 (c) such other details, if any, as are prescribed.
-[Section 26GZM inserted by No. 49 of 2000 s.49.]
+[Section 26GZM inserted by No. 49 of 2000 s. 49.]

@@ -8,4 +8,4 @@
 (a) all plans to which this Division applies; or
 (b) any particular class or description of plans.
 (5) Anything done by the Commission under such a delegation is to be taken to have been done by the Minister.
-[Section 26GZE inserted by No. 49 of 2000 s.44.]
+[Section 26GZE inserted by No. 49 of 2000 s. 44.]

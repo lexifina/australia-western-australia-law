@@ -11,4 +11,4 @@ If the register contains a notation made under section 26GZM that a person has a
 or
 (d) the Commission is notified that the licensee wishes to surrender the licence under clause 27 of Schedule 1,
 the Commission must as soon as practicable give or cause to be given to the person specified in the notation written details of that fact.
-[Section 26GZO inserted by No. 49 of 2000 s.49.]
+[Section 26GZO inserted by No. 49 of 2000 s. 49.]
