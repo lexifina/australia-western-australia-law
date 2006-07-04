@@ -10,4 +10,3 @@ Hospitals Amendment Act 1994 s. 18 | 103 of 1994 | 11 Jan 1995 | 3 Feb 1995 (see
 Mental Health (Consequential Provisions) Act 1996 Pt. 21 | 69 of 1996 | 13 Nov 1996 | 13 Nov 1997 (see s. 2)
 Reprint 2: The University Medical School, Teaching Hospitals, Act 1955 as at 7 May 2004 (includes amendments listed above)
 Formerly referred to the Hospitals Act 1927 the short title of which was changed to the Hospitals and Health Services Act 1927 by the Hospitals Amendment Act 1994 s. 5. Reference changed under the Reprints Act 1984 s. 7(5)(a).
-The amendment purportedly made by the Acts Amendment (Mental Health) Act 1981 Pt. IX is not included because, as a result of the repeal of the Mental Health Act 1981 by the Mental Health Act 1986, the amendment did not come into operation.
