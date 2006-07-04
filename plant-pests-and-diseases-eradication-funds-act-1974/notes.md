@@ -26,7 +26,6 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div. 6 | 28 of
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Bulk Handling Repeal Act 2000 s. 15 | 33 of 2000 | 6 Jul 2000 | Not yet in operation (see s. 2, 3 and 5)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 The Companies Act 1893 was repealed by the Companies Act 1943, which was repealed by the Companies Act 1961 s. 4 and 382(2) except in relation to Co-operative Companies, in respect of which it may now be cited as the Companies (Co-operative) Act 1943. The Companies Act 1961 was superseded by the Companies (Western Australia) Code, see section 18 of the Companies (Application of Laws) Act 1981. The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Companies (Western Australia) Act 1991 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
 Repealed by the Grain Marketing Act 2002.
@@ -40,19 +39,7 @@ The Skeleton Weed and Resistant Grain Insects (Eradication Funds) Amendment Act 
 “lupins” has the same meaning as it has in the principal Act as amended by this Act;
 “reserve fund” has the same meaning as it has in the Grain Marketing Act 1975.
 ”.
-On the date as at which this compilation was prepared, the Bulk Handling Repeal Act 2000 s. 15 had not come into operation. It reads as follows:
-“
-15.Plant Pests and Diseases (Eradication Funds) Act 1974 amended
-(1) The amendments in this section are to the Plant Pests and Diseases (Eradication Funds) Act 1974.
-(2) Section 4(1) is amended as follows:
-(a) by deleting the definition of “Company”;
-(b) in the definition of “crop year” by deleting “or to the Company”;
-(c) in the definition of “receiver of grain or seed” by deleting “but does not include the Company”.
-(3) Section 9(1), (2), (2a) and (4) are amended by deleting “to the Company or”.
-(4) Section 10(c) and (d)(i) and (ii) are amended by deleting “Company or”.
-(5) Section 12(2) is amended by deleting “The Company and every” and inserting instead —
-“ Every ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
