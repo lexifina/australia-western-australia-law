@@ -1,5 +1,0 @@
-## The First Schedule
-[Section 3]
-DESCRIPTION OF CLACKLINE-BOLGART RAILWAY
-(a) Commencing at a point 51 miles 3 chains 01.8 links from Perth on the Bellevue-East Northam Railway and proceeding generally in a northerly direction for 14 miles 27 chains 85.2 links and terminating at a point 65 miles 30 chains 87 links from Perth on the Clackline-Bolgart Railway, a total length of 14 miles 27 chains 85.2 links being part of the railway line authorized to be constructed pursuant to The Clackline-Newcastle Railway Act 1887 (51 Victoriae No. 11).
-(b) Commencing at a point 65 miles 30 chains 87 links from Perth on the Clackline-Bolgart Railway and proceeding generally in a north-westerly direction for 1 mile 65 chains 88 links and terminating at a point 67 miles 16 chains 75 links from Perth on the Clackline-Bolgart Railway a total length of 1 mile 65 chains 88 links being part of the railway line authorized to be constructed pursuant to the Newcastle—Bolgart Railway Act 1907 (7 Edward VII No. 32).

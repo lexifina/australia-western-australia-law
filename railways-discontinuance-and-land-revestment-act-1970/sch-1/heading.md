@@ -1,8 +1,0 @@
-## First Schedule
-[s.3.]
-(1)Description of Northam-Southern Cross Railway.
-Commencing at a point 67 miles 44 chains 60 links from Perth on the Northam-Southern Cross Railway and proceeding generally in an east by northerly direction for 169 miles 10 chains 40 links and terminating at a point 236 miles 55 chains 00 links from Perth on the Northam-Southern Cross Railway, a total length of 169 miles 55 chains 40 links being part of the Railway line authorized by The Yilgarn Railway Act 1892 (55 Victoriae No. 12).
-(2)Description of the Southern Cross-Coolgardie Railway.
-Commencing at a point 236 miles 55 chains 00 links from Perth on the Southern Cross-Coolgardie Railway and proceeding generally in a south-east by easterly direction for about 20 miles; thence in a generally east by northerly direction for about 55 miles; thence in an east-north-easterly direction for about 40 miles, and terminating at a point 351 miles 34 chains 00 links from Perth on the Southern Cross-Coolgardie Railway, a total length of 114 miles 59 chains being the whole of the Railway line authorized by The Southern Cross-Coolgardie Railway Act 1894 (58 Victoriae No. 25).
-(3)Description of portion of the Coolgardie-Kalgoorlie Railway.
-Commencing at a point 351 miles 34 chains 00 links from Perth on the Coolgardie-Kalgoorlie Railway and proceeding generally in an easterly direction for about 0 miles 40 chains 00 links; thence in a north-north-easterly direction for about 0 miles 15 chains 29 links and terminating at a point 352 miles 9 chains 29 links from Perth on the Coolgardie-Kalgoorlie Railway, a total length of 00 miles 55 chains 29 links being part of the Railway line authorized by The Coolgardie-Kalgoorlie Railway Act 1895 (59 Victoriae No. 19).

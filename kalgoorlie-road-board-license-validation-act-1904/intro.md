@@ -1,6 +1,0 @@
-Western Australia
-Kalgoorlie Road Board License Validation Act 1904
-An Act to validate an Agreement dated the Twenty-ninth day of May, 1903, and made and entered into between the Kalgoorlie Road Board of the one part, and the Kalgoorlie Electric Power and Lighting Corporation, Limited, of the other part.
-[Assented to 16th January, 1904.]
-Preamble
-Whereas by an Agreement dated the twenty-ninth day of May, 1903, and made and entered into between the Kalgoorlie Road Board, of the one part, and the Kalgoorlie Electric Power and Lighting Corporation, Limited, of the other part, it was provided that the part of the second part should have full liberty and license to sell and supply electricity and electric energy within the district of the said Road Board: And whereas the said Kalgoorlie Road Board was not, at the date of execution of the said Agreement a body authorized under the provisions of the Electric Lighting Act, 1892, to enter into such an agreement: Be it therefore enacted by the King’s Most Excellent Majesty, by and with the advice and consent of the Legislative Council and Legislative Assembly of Western Australia, in this present Parliament assembled, and by the authority of the same, as follows: —

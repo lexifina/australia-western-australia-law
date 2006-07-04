@@ -1,2 +1,0 @@
-## Second Schedule
-That portion of land commencing at a point 604.59 km or thereabouts from Perth and being a distance of 41.239 m measured along the centre line of the scheduled railway in a south-south westerly direction from its intersection with the north western boundary of Wordsworth Street and terminating on the south eastern boundary of Kanowna Road, being a point 608.231 km from Perth and being more particularly delineated and coloured yellow on CE. Plan 66163.

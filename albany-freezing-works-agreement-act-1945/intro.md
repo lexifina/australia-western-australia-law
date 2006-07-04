@@ -1,3 +1,0 @@
-Western Australia
-Albany Freezing Works Agreement Act 1945
-An Act to ratify an agreement for the purchase by the Government of Western Australia of the undertaking, assets and business of the Albany Freezing Works, Limited; to ratify the purchase price paid or payable in accordance with the terms of the said agreement; to provide that the undertaking, assets and business purchased as aforesaid shall be added to, incorporated with, and be part of the West Australian Meat Export Works as a State Trading concern; to validate all transactions hitherto carried on by the Government as the purchaser of the said undertaking, assets and business aforesaid; and for other purposes.

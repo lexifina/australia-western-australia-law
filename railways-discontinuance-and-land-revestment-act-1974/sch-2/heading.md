@@ -1,6 +1,0 @@
-## Second Schedule
-Boulder Townsite Loop Railway
-(a)Commencing at a point 609.185 km or thereabouts from Perth on the Kalgoorlie-Gnumballa Lake Railway and proceeding thence on a bearing of 173o 54' for a distance of 58 m, thence on a bearing of 201o 00' for a distance of 116 m, thence on a bearing of 228o 7' for a distance of 529 m, thence on a bearing of 200o 27' for a distance of 148 m, thence on a bearing of 172o 46' for a distance of 902 m, thence on a bearing of 136o 38' for a distance of 157 m, thence on a bearing of 100o 30' or a distance of 977 m, thence on a bearing of 66o 0' for a distance of 280 m, thence on a bearing of 114o 0' for a distance of 107 m, terminating at a point 610.784 km from Perth on the Kalgoorlie-Gnumballa Lake Railway and being a total length of 3.122 km or thereabouts.
-The whole being more particularly delineated and shown by a red line on C.E. Plan 66664.
-(b)Commencing at a point 609.185 km or thereabouts from Perth on the Kalgoorlie-Gnumballa Lake Railway and proceeding along the Boulder Townsite Loop and rejoining the Kalgoorlie-Gnumballa Lake Railway at a point 610.784 km or thereabouts from Perth.
-The whole being more particularly delineated and shown coloured yellow on C.E. Plan 66664.

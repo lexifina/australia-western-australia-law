@@ -1,5 +1,0 @@
-Western Australia
-Casual Revenue Appropriation Ordinance 1867
-An Ordinance to provide for the appropriation of the casual revenue of the Crown arising from escheated estates.
-Preamble
-Whereas by a Statute passed by the Imperial Parliament in the session holden in the 15th and 16th years of Her Majesty’s reign, provision is made for the appropriation by or with the assent of the Crown of any casual revenue arising within the colonies or foreign possessions (other than droits of the Crown and droits of the Admiralty) for or towards any public purposes within the colonies or possessions in which the same respectively may have arisen, and it is expedient to provide for the appropriation of such casual revenue, including the revenue to arise from sale of the estates and effects of persons who have died intestate and without heirs or next of kin: Be it therefore enacted by His Excellency the Governor of Western Australia and its Dependencies, by and with the advice and consent of the Legislative Council thereof, as follows: —
