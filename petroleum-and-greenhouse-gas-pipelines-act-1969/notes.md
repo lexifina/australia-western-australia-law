@@ -1,34 +1,78 @@
 Notes
-This is a compilation of the Petroleum Pipelines Act 1969 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 7 July 2006 of the Petroleum Pipelines Act 1969 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Petroleum Pipelines Act 1969 | 112 of 1969 | 28 Nov 1969 | Proclaimed 12 Dec 1969 (see section 2 and Gazette 12 Dec 1969 p.4002)
+Petroleum Pipelines Act 1969 | 112 of 1969 | 28 Nov 1969 | 12 Dec 1969 (see s. 2 and Gazette 12 Dec 1969 p. 4002)
 Petroleum Pipelines Act Amendment Act 1970 | 42 of 1970 | 23 Sep 1970 | 23 Sep 1970
-Metric Conversion Act 1972 (The Fourth Schedule was inserted by the Metric Conversion Act Amendment Act 1975 (No. 42 of 1975)) | 94 of 1972 | 4 Dec 1972 | The relevant amendments, as set out in the Fourth Schedule, took effect on 19 Dec 1975 (see section 4(2) and Gazette 19 Dec 1975 p.4577)
-Petroleum Pipelines Amendment Act 1983 | 10 of 1983 | 7 Oct 1983 | Proclaimed 11 November 1983 (see section 2 and Gazette 11 November 1983 p.4503)
-Acts Amendment (Petroleum) Act 1990 | 12 of 1990 | 31 Jul 1990 | Proclaimed 1 Oct 1990 (see section 2(1) and Gazette 28 September 1990 p.5099); section 132: deemed to operate from 12 Dec 1969 (see section 2(2))
-Land (Titles and Traditional Usage) Act 1993, section 45 | 21 of 1993 | 2 Dec 1993 | 2 December 1993
-Acts Amendment (Petroleum) Act 1994, Part 4 | 28 of 1994 | 29 Jun 1994 | Proclaimed 22 Jul 1994 (see section 2 and Gazette 22 Jul 1994 p.3728)
-Statutes (Repeals and Minor Amendments) Act 1994, section 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994
-Acts Amendment and Repeal (Native Title) Act 1995, Part 9 | 52 of 1995 | 24 Nov 1995 | Proclaimed 9 Dec 1995 (see section 2 and Gazette 8 Dec 1995 p.5935)
-Local Government (Consequential Amendments) Act 1996, section 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see section 2)
-Acts Amendment (Land Administration) Act 1997, Part 50 and sections 141 and 142 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see section 2 and Gazette 27 Mar 1998 p.1765)
-Gas Pipelines Access (Western Australia) Act 1998, section 89 | 65 of 1998 | 15 Jan 1999 | Proclaimed 9 Feb 1999 (see section 2 and Gazette 8 Feb 1999 p.441)
-Energy Coordination Amendment Act 1999, section 10(5) | 20 of 1999 | 24 Jun 1999 | Proclaimed 16 Oct 1999 (see section 2 and Gazette 15 Oct 1999 p.4865)
-Statutes (Repeals and Minor Amendments) Act 2000, section 30 | 24 of 2000 (This amendment did not come into operation because of an error in the reference to the provision to be amended) | 4 Jul 2000 | 4 Jul 2000 (see section 2)
+Metric Conversion Act 1972 | 94 of 1972 (as amended by No. 42 of 1975 s. 3) | 4 Dec 1972 | Relevant amendments (see Fourth Sch.) took effect on 28 Nov 1975 (see s. 4(2) and Gazette 28 Nov 1975 p. 4352)
+Petroleum Pipelines Amendment Act 1983 | 10 of 1983 | 7 Oct 1983 | 11 Nov 1983 (see s. 2 and Gazette 11 Nov 1983 p. 4503)
+Acts Amendment (Petroleum) Act 1990 Pt. III2-5 | 12 of 1990 | 31 Jul 1990 | s. 132: 12 Dec 1969 (see s. 2(2)); s. 120-131 and 133-158: 1 Oct 1990 (see s. 2(1) and Gazette 28 Sep 1990 p. 5099)
+Reprint of the Petroleum Pipelines Act 1969 as at 19 Feb 1992 (includes amendments listed above)
+Land (Titles and Traditional Usage) Act 1993 s. 45 | 21 of 1993 | 2 Dec 1993 | 2 Dec 1993 (see s. 2)
+Acts Amendment (Petroleum) Act 1994 Pt. 4 | 28 of 1994 | 29 Jun 1994 | 22 Jul 1994 (see s. 2 and Gazette 22 Jul 1994 p. 3728)
+Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
+Acts Amendment and Repeal (Native Title) Act 1995 Pt. 9 | 52 of 1995 | 24 Nov 1995 | 9 Dec 1995 (see s. 2 and Gazette 8 Dec 1995 p. 5935)
+Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+Acts Amendment (Land Administration) Act 1997 Pt. 50 and s. 141 and 142 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
+Gas Pipelines Access (Western Australia) Act 1998 s. 89 | 65 of 1998 | 15 Jan 1999 | 9 Feb 1999 (see s. 2 and Gazette 8 Feb 1999 p. 441)
+Energy Coordination Amendment Act 1999 s. 10(5) | 20 of 1999 | 24 Jun 1999 | 16 Oct 1999 (see s. 2 and Gazette 15 Oct 1999 p. 4865)
+Reprint of the Petroleum Pipelines Act 1969 as at 12 May 2000 (includes amendments listed above)
 Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 16 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 99 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2(2) and Gazette 21 Mar 2006 p. 1078)
+Reprint 3: The Petroleum Pipelines Act 1969 as at 7 Jul 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Petroleum Safety Act 1999 s. 92 | 19 of 1999 | 21 Jun 1999 | To be proclaimed
-Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | s. 7.3 operative on earliest of commencement of Part 2 (except s. 2.2), Part 3 (except s. 3.1) and Part 4
+Short title | Number and year | Assent | Commencement
+Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | To be proclaimed (see s. 2)
 Petroleum Legislation Amendment and Repeal Act 2005 Pt. 3 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
-NB.The Petroleum Pipelines Act 1969 is affected by the Dampier to Bunbury Pipeline Act 1997 (No. 53 of 1997), Division 8 of Schedule 4 which reads as follows —
+The Acts Amendment (Petroleum) Act 1990 s. 122(2) reads as follows:
 “
+(2) A declaration made under —
+(a) section 5(1)(a) of the principal Act before its repeal and substitution by this section and in force immediately before the commencement of this section shall on that commencement be deemed to have been made under section 5(1)(a)(iii); or
+(b) section 5(1)(b) of the principal Act before its repeal and substitution by this section and in force immediately before the commencement of this section shall on that commencement be deemed to have been made under section 5(1)(a)(ii),
+of the principal Act as substituted by this section.
+”.
+The Acts Amendment (Petroleum) Act 1990 s. 139(2), (3) and (4) reads as follows:
+“
+(2) Section 44 of the principal Act as amended by this Act applies in relation to applications for approval of transfers of licences lodged after the commencement of this section.
+(3) Notwithstanding the repeal of section 44 of the principal Act effected by subsection (1), that section continues to apply in relation to applications for approval of transfers of licences lodged before the commencement of this section.
+(4) A transfer approved and registered under section 44 of the principal Act shall be deemed to have been approved and registered under section 44 of the principal Act as amended by this Act.
+”.
+The Acts Amendment (Petroleum) Act 1990 s. 141(2)-(7) reads as follows:
+“
+(2) Subject to this section, sections 47 and 47A of the principal Act as amended by this Act apply in relation to dealings evidenced by instruments executed after the commencement of this section.
+(3) A party to an instrument to which section 47 of the principal Act applied, being an instrument that had not been approved under that section of that Act, may, if the instrument evidences a dealing —
+(a) to which section 47 of the principal Act as amended by this Act would, if the instrument had been executed after the commencement of this section, apply; and
+(b) that relates to a licence that was in existence at the time of execution of the instrument,
+make an application in writing, within 12 months after the commencement of this section, to the Minister for approval of the dealing.
+(4) Where —
+(a) before the commencement of this section, 2 or more persons entered into a dealing relating to a licence that was not in existence at the time of execution of the instrument evidencing the dealing;
+(b) that dealing would, if the instrument evidencing the dealing had been executed after the commencement of this section, be a dealing referred to in subsection 47A(1) of the principal Act as amended by this Act; and
+(c) that licence has come, or comes, into existence,
+a party to the dealing may make an application in writing within —
+(d) in a case where that licence came into existence before the commencement of this section, 12 months after that commencement; or
+(e) in any other case, 3 months after that licence comes into existence,
+to the Minister for approval of the dealing.
+(5) Section 47 of the principal Act as amended by this Act (other than subsections (5) and (6) of that section) applies to a dealing in respect of which an application is made under subsection (3) or (4) of this section.
+(6) If, when the first regulations made for the purposes of section 47(4)(b) of the principal Act, as amended by this Act, take effect, an application for approval of a dealing has been made but the Minister has neither approved nor refused to approve the dealing —
+(a) the Minister shall give to the applicant written notice that the applicant is entitled to lodge an instrument for the purpose of section 47(4)(b) in relation to the application;
+(b) the applicant may lodge an instrument for the purpose of section 47(4)(b);
+(c) the application shall not be dealt with by the Minister until after the end of 30 days after the day on which notice is given for the purpose of paragraph (a); and
+(d) where the applicant lodges an instrument under paragraph (b), the applicant shall lodge with the instrument 2 copies of the instrument.
+(7) An instrument lodged under subsection (6) shall be taken, for the purposes of section 47(13) of the principal Act, as amended by this Act, to have accompanied the application when the application was lodged.
+”.
+The Acts Amendment (Petroleum) Act 1990 s. 148(2) reads as follows:
+“
+(2) Notwithstanding the amendment of section 55 of the principal Act by this section, neither a person who was the Principal Registrar within the meaning of the principal Act before the commencement of this section nor a person who acted under the direction or authority of that Principal Registrar before that commencement is liable to an action, suit or proceeding for or in respect of an act or matter in good faith done or omitted to be done in exercise or purported exercise of any power or authority conferred by Part IV of the principal Act.
+”.
+As at the date this reprint was prepared, these offices of the Department of Mines no longer exist (see also note 7).
+Under the Alteration of Statutory Designations Order 2003 a reference in a written law to the Department of Mines is, unless the contrary is intended, to be read and construed as a reference to the Department of Industry and Resources.
+The Petroleum Pipelines Act 1969 is affected by the Dampier to Bunbury Pipeline Act 1997 Sch. 4 Div. 8 which reads as follows:
+“
+Division 8 — Petroleum Pipelines Act 1969
 38.Act applies to DBNGP
 (1) Any pipeline in the privatised DBNGP system is a pipeline for the purposes of the principal Act despite the exceptions to the definition of “pipeline” in that Act.
 (2) At the pipeline transfer time —
@@ -57,76 +101,18 @@ may be specified in the instrument as if it had been brought there by a person e
 (1) Any pipeline that was part of the corporation’s DBNGP system is to be taken, for the purposes of the principal Act, to have been constructed in accordance with any standards, specifications, and conditions prescribed under that Act.
 (2) A licence under the principal Act cannot impose any standards, specifications, or conditions in respect of a pipeline described in subclause (1) except to the extent that they relate to the operation or maintenance of the pipeline.
 ”.
-Section 122(2) of the Acts Amendment (Petroleum) Act 1990 (No. 12 of 1990) reads as follows —
-“
-(2) A declaration made under —
-(a) section 5(1)(a) of the principal Act before its repeal and substitution by this section and in force immediately before the commencement of this section shall on that commencement be deemed to have been made under section 5(1)(a)(iii); or
-(b) section 5(1)(b) of the principal Act before its repeal and substitution by this section and in force immediately before the commencement of this section shall on that commencement be deemed to have been made under section 5(1)(a)(ii),
-of the principal Act as substituted by this section.
-”.
-Section 139(2), (3) and (4) of the Acts Amendment (Petroleum) Act 1990 (No. 12 of 1990) reads as follows —
-“
-(2) Section 44 of the principal Act as amended by this Act applies in relation to applications for approval of transfers of licences lodged after the commencement of this section.
-(3) Notwithstanding the repeal of section 44 of the principal Act effected by subsection (1), that section continues to apply in relation to applications for approval of transfers of licences lodged before the commencement of this section.
-(4) A transfer approved and registered under section 44 of the principal Act shall be deemed to have been approved and registered under section 44 of the principal Act as amended by this Act.
-”.
-Footnote no longer applicable.
-Footnote no longer applicable.
-Section 141(2), (3), (4), (5), (6) and (7) of the Acts Amendment (Petroleum) Act 1990 (No. 12 of 1990) reads as follows —
-“
-(2) Subject to this section, sections 47 and 47A of the principal Act as amended by this Act apply in relation to dealings evidenced by instruments executed after the commencement of this section.
-(3) A party to an instrument to which section 47 of the principal Act applied, being an instrument that had not been approved under that section of that Act, may, if the instrument evidences a dealing —
-(a) to which section 47 of the principal Act as amended by this Act would, if the instrument had been executed after the commencement of this section, apply; and
-(b) that relates to a licence that was in existence at the time of execution of the instrument,
-make an application in writing, within 12 months after the commencement of this section, to the Minister for approval of the dealing.
-(4) Where —
-(a) before the commencement of this section, 2 or more persons entered into a dealing relating to a licence that was not in existence at the time of execution of the instrument evidencing the dealing;
-(b) that dealing would, if the instrument evidencing the dealing had been executed after the commencement of this section, be a dealing referred to in subsection 47A(1) of the principal Act as amended by this Act; and
-(c) that licence has come, or comes, into existence,
-a party to the dealing may make an application in writing within —
-(d) in a case where that licence came into existence before the commencement of this section, 12 months after that commencement; or
-(e) in any other case, 3 months after that licence comes into existence,
-to the Minister for approval of the dealing.
-(5) Section 47 of the principal Act as amended by this Act (other than subsections (5) and (6) of that section) applies to a dealing in respect of which an application is made under subsection (3) or (4) of this section.
-(6) If, when the first regulations made for the purposes of section 47(4)(b) of the principal Act, as amended by this Act, take effect, an application for approval of a dealing has been made but the Minister has neither approved nor refused to approve the dealing —
-(a) the Minister shall give to the applicant written notice that the applicant is entitled to lodge an instrument for the purpose of section 47(4)(b) in relation to the application;
-(b) the applicant may lodge an instrument for the purpose of section 47(4)(b);
-(c) the application shall not be dealt with by the Minister until after the end of 30 days after the day on which notice is given for the purpose of paragraph (a); and
-(d) where the applicant lodges an instrument under paragraph (b), the applicant shall lodge with the instrument 2 copies of the instrument.
-(7) An instrument lodged under subsection (6) shall be taken, for the purposes of section 47(13) of the principal Act, as amended by this Act, to have accompanied the application when the application was lodged.
-”.
-Section 148(2) of the Acts Amendment (Petroleum) Act 1990 (No. 12 of 1990) reads as follows —
-“
-(2) Notwithstanding the amendment of section 55 of the principal Act by this section, neither a person who was the Principal Registrar within the meaning of the principal Act before the commencement of this section nor a person who acted under the direction or authority of that Principal Registrar before that commencement is liable to an action, suit or proceeding for or in respect of an act or matter in good faith done or omitted to be done in exercise or purported exercise of any power or authority conferred by Part IV of the principal Act.
-”.
-Now known as Director, Mining Registration Division.
-Now known as Department of Minerals and Energy.
-Clause 3(2) of Part 5 of Schedule 1 of the Land (Titles and Traditional Usage) Act 1993 (No. 21 of 1993) reads as follows —
-“
-(2) Part IIA inserted by subsection (1) does not apply to an application for a licence made before the commencement of this section.
-”.
-On the date as at which this compilation was prepared, the Petroleum Safety Act 1999 s. 92, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-92.Consequential amendments
-The Acts referred to in the first column of Schedule 2 are amended as set out in the second column of that Schedule.
-”.
-Schedule 2 reads as follows:
-“
-SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS
-[Section 92]
-Short title of ActAmendment
-Petroleum Pipelines Section 36A is amended by deleting “and shall
-Act 1969secure the safety, health and welfare of persons engaged in operations in connection with the pipeline”.
-Section 67(1)(a) is amended by deleting “and the safety measures to be taken in respect thereof”.
-”.
-On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2 Div. 8, had not come into operation. It reads as follows:
+The amendment by the Statutes (Repeals and Minor Amendments) Act 2000 s. 30 is not included because of an error in the reference to the provision to be amended.
+The Fourth Schedule was inserted by the Metric Conversion Act Amendment Act 1975.
+The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+The amendment in the Petroleum Safety Act 1999 Sch. 2 that was to amend this Act was repealed by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before the amendment came into operation.
+On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3.Consequential amendments
 Schedule 2 has effect.
 ”.
-Schedule 2 Division 8 reads as follows:
+Schedule 2 Div. 8 reads as follows:
 “
-SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS
+Schedule 2 — Consequential amendments
 [s. 7.3]
 Division 8 — Petroleum Pipelines Act 1969
 58.The Act amended
@@ -145,20 +131,19 @@ After section 19(1) the following subsection is inserted —
 (1a)Where the taking of land or an easement in land under subsection (1) is a Part 2 act, a Part 3 act or Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of that subsection is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Dangerous Goods Safety Act 2004 s. 70, which gives effect to Sch. 2 it. 3(3), had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Dangerous Goods Safety Act 2004 s. 70, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 70.Repeals and consequential amendments (Sch. 2)
 Schedule 2 has effect.
 ”.
-Schedule 2 reads as follows:
+Schedule 2 it. 3(3) reads as follows:
 “
 Schedule 2 — Repeals and consequential amendments
 3.Consequential amendments
 (3) The Petroleum Pipelines Act 1969 is amended in section 32 by deleting “Explosives and Dangerous Goods Act 1961” and inserting instead —
 “ Dangerous Goods Safety Act 2004 ”.
 ”.
-The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 Pt. 3 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 Pt. 3 had not come into operation. It reads as follows:
 “
 Part 3 — Petroleum Pipelines Act 1969
 18.The Act amended
@@ -349,7 +334,7 @@ In this Schedule —
 “improvement notice” means an improvement notice issued under clause 60(1);
 “inspection” means an inspection conducted under Division 4 and includes an investigation or inquiry;
 “licensee”, in relation to a pipeline operation, means the registered holder of the licence granted in respect of that operation;
-“ licensee’s representative” means a person present at a workplace in compliance with the obligations imposed on the licensee by clause 4;
+“licensee’s representative” means a person present at a workplace in compliance with the obligations imposed on the licensee by clause 4;
 “member of the workforce”, in relation to a pipeline operation, means a natural person who is engaged in the operation, whether —
 (a)as an employee of the licensee or of another person; or
 (b)as a contractor of the licensee or of another person;
