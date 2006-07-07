@@ -1,2 +1,3 @@
-## Schedule 2 — Clearing in existing transport corridors
+## Schedule 2 — Clearing for maintenance in existing transport corridors
 [r. 5(1) item 22]
+[Heading amended in Gazette 7 Jul 2006 p. 2500.]

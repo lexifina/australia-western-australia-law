@@ -9,3 +9,4 @@ Environmental Protection (Clearing of Native Vegetation) Amendment Regulations (
 Environmental Protection (Clearing of Native Vegetation) Regulations 2006 | 6 Jan 2006 p. 29-31 | 6 Jan 2006
 Environmental Protection (Clearing of Native Vegetation) Amendment Regulations (No. 2) 2006 | 31 Mar 2006 p. 1164-5 | 31 Mar 2006
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 79 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
+Environmental Protection (Clearing of Native Vegetation) Amendment Regulations (No. 4) 2006 | 7 Jul 2006 p. 2499-501 | 7 Jul 2006
