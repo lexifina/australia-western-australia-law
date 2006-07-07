@@ -113,6 +113,7 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Health Legislation Amendment Act 2004 Pt. 2 | 61 of 2004 | 24 Nov 2004 | 24 Nov 2004 (see s. 2)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 13: The Health Act 1911 as at 15 Jul 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
+Health Amendment Act 2006 | 23 of 2006 | 9 Jun 2006 | 7 Jul 2006 (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -120,7 +121,6 @@ Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Tobacco Products Control Act 2006 s. 126 | 5 of 2006 | 12 Apr 2006 | To be proclaimed (see s. 2)
-Health Amendment Act 2006 s. 4-13 | 23 of 2006 | 9 Jun 2006 | 7 Jul 2006 (see s. 2)
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988.
 The Health Act Amendment Act 1900 is repealed by section 4 of this Act.
 Section 53B was repealed by the Health Act Amendment Act 1933 (No. 2) s. 6.
@@ -593,83 +593,7 @@ Division 3 — Consequential amendments to other Acts
 (1) The amendment in this clause is to the Health Act 1911.
 (2) Part IXB is repealed.
 ”.
-On the date as at which this compilation was prepared, the Health Amendment Act 2006 s. 4-13 had not come into operation. They read as follows:
-“
-4.Section 3 amended
-Section 3(1) is amended by inserting the following definitions in the appropriate alphabetical positions —
-“
-“AIDS” means acquired immune deficiency syndrome;
-“HIV infection” means human immunodeficiency virus infection;
-“nurse practitioner” means a nurse practitioner, as defined in the Nurses Act 1992, who is carrying on in a designated area (as defined in that Act) the practice of nursing as a nurse practitioner;
-“responsible pathologist”, in relation to a pathology laboratory, means the pathologist responsible for the day to day operations of the pathology laboratory;
-”.
-5.Section 276 replaced by sections 276 and 276A
-Section 276 is repealed and the following sections are inserted instead —
-“
-276.Notification of infectious disease
-(1) If a medical practitioner or nurse practitioner forms the opinion that a patient of the practitioner has an infectious disease, the practitioner must notify the Executive Director, Public Health.
-(2) If analysis of a sample undertaken at a pathology laboratory indicates that the patient from whom the sample was taken has or had an infectious disease, the responsible pathologist of that pathology laboratory must ensure that the Executive Director, Public Health is notified.
-(3) The notification must be given as soon as practicable and in a form and manner approved by the Executive Director, Public Health.
-(4) Subject to section 276A, the notification must include the following information, to the extent to which the medical practitioner, nurse practitioner or responsible pathologist has that information —
-(a) the name of the disease;
-(b) the name, address, telephone number, date of birth and gender of the patient;
-(c) the name, address and telephone number of the patient’s medical practitioner or nurse practitioner;
-(d) any other relevant information required by the approved form.
-(5) A medical practitioner, nurse practitioner or responsible pathologist who fails to comply with this section commits an offence.
-276A.Notification of HIV infections or AIDS — additional requirements
-(1) Unless subsection (2) applies, a notification of HIV infection or AIDS under section 276 must not include the name, address and telephone number of the patient but must instead include only the first 2 letters of the patient’s given and family names and the postcode of the area in which the patient lives.
-(2) The medical practitioner or nurse practitioner may include in a notification of HIV infection or AIDS the patient’s name, address and telephone number if —
-(a) the patient consents; or
-(b) the practitioner has reasonable grounds to believe that the patient may engage in behaviour that is likely to put other persons at risk of infection.
-(3) A notification of HIV infection or AIDS in relation to a patient must be separate from any other notification relating to the patient.
-(4) If, in relation to a patient, the Executive Director, Public Health has reasonable grounds to believe that the patient may engage in behaviour that is likely to put other persons at risk of infection, the Executive Director, Public Health may require the medical practitioner, nurse practitioner or responsible pathologist to give the Executive Director, Public Health the name, address and telephone number of the patient.
-(5) A medical practitioner, nurse practitioner or responsible pathologist who fails to comply with a requirement under subsection (4), other than because the practitioner or pathologist does not have the information, commits an offence.
-”.
-6.Section 289 replaced
-Section 289 is repealed and the following section is inserted instead —
-“
-289.No liability for notifying etc.
-A medical practitioner, nurse practitioner or responsible pathologist who notifies the Executive Director, Public Health under sections 276 and 276A, or who gives additional information in accordance with section 276A(4), incurs no civil liability as a result, and is not to be regarded for any purpose as being in breach of any duty of confidentiality.
-”.
-7.Sections 297 to 299 repealed
-Sections 297, 298 and 299 are repealed.
-8.Section 300 replaced
-Section 300 is repealed and the following section is inserted instead —
-“
-300.Notification of venereal disease
-(1) If a medical practitioner or nurse practitioner forms the opinion that a patient of the practitioner has a venereal disease, the practitioner must notify the Executive Director, Public Health.
-(2) If analysis of a sample undertaken at a pathology laboratory indicates that the patient from whom the sample was taken has or had a venereal disease, the responsible pathologist of that pathology laboratory must ensure that the Executive Director, Public Health is notified.
-(3) The notification must be given as soon as practicable and in a form and manner approved by the Executive Director, Public Health.
-(4) The notification must include the following information, to the extent to which the medical practitioner, nurse practitioner or responsible pathologist has that information —
-(a) the name of the disease;
-(b) the name, address, telephone number, date of birth and gender of the patient;
-(c) the name, address and telephone number of the patient’s medical practitioner or nurse practitioner;
-(d) any other relevant information required by the approved form.
-(5) A medical practitioner, nurse practitioner or responsible pathologist who fails to comply with this section commits an offence.
-”.
-9.Section 300A amended
-(1) Section 300A is amended as follows:
-(a) by inserting before “Where” the subsection designation “(1)”;
-(b) by inserting after “medical practitioner” in the first place where it occurs —
-“ or nurse practitioner ”;
-(c) by deleting “medical” in the second, third and fourth places where it occurs.
-(2) At the end of section 300A the following subsection is inserted —
-“
-(2) A medical practitioner, nurse practitioner or responsible pathologist who notifies the Executive Director, Public Health under this Part incurs no civil liability as a result, and is not to be regarded for any purpose as being in breach of any duty of confidentiality.
-”.
-10.Sections 301 to 305 repealed
-Sections 301, 302, 303, 304 and 305 are repealed.
-11.Section 312 amended
-Section 312 is amended by deleting “297, 298, 299,” and “301, 302, 304,”.
-12.Section 315 repealed
-Section 315 is repealed.
-13.Schedule 5 amended
-(1) Schedule 5 Part I is amended by deleting “276(1)(d),” and “299(2), 300(1), 301, 302(1),”.
-(2) Schedule 5 Part II is amended by deleting “276(1)(b),” and “303(2), 304(1) and (1a),”.
-(3) Schedule 5 Part III is amended by deleting “and 246ZM(1)” and inserting instead —
-“ , 246ZM(1), 276(5), 276A(5) and 300(5) ”.
-(4) Schedule 5 Part IV is amended by deleting “298(1), 299(1),”.
-”.
+Footnote no longer applicable.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
 “
 Division 13 — Transitional provisions
