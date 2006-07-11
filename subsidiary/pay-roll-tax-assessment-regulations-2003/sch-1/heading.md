@@ -5,7 +5,7 @@ The Commissioner of Main Roads
 The Commissioner of Workplace Agreements
 The Corruption and Crime Commission of Western Australia
 The Curriculum Council
-The Department of Agriculture
+The Department of Agriculture and Food
 The Department of the Attorney General
 The Department for Community Development
 The Department of Conservation and Land Management
@@ -56,4 +56,4 @@ The Western Australian Building Management Authority
 The Western Australian Electoral Commission
 The Western Australia Police Service and the Police Force within the meaning of the Police Act 1892
 The Wheatbelt Development Commission
-[Schedule 1 amended in Gazette 7 Sep 2004 p. 3884; 5 Nov 2004 p. 4987; 2 May 2006 p. 1709-10.]
+[Schedule 1 amended in Gazette 7 Sep 2004 p. 3884; 5 Nov 2004 p. 4987; 2 May 2006 p. 1709-10; 11 Jul 2006 p. 2546.]

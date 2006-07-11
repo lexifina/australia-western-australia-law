@@ -12,3 +12,4 @@ Pay-roll Tax Assessment Amendment Regulations 2005 | 19 Apr 2005 p. 1303-4 | 1 J
 Pay-roll Tax Assessment Amendment Regulations (No. 2) 2006 | 2 May 2006 p. 1709-10 | 2 May 2006
 Pay-roll Tax Assessment Amendment Regulations 2006 | 2 May 2006 p. 1710-11 | 1 Jul 2006 (see r. 2)
 Pay-roll Tax Assessment Amendment Regulations (No. 4) 2006 | 27 Jun 2006 p. 2306-7 | 1 Jul 2006 (see r. 2)
+Pay-roll Tax Assessment Amendment Regulations (No. 3) 2006 | 11 Jul 2006 p. 2546 | 11 Jul 2006
