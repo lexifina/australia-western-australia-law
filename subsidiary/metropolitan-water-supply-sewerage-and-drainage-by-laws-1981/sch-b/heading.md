@@ -1,6 +1,6 @@
 ## Schedule B
-(5.2.1.1)
 Form 1
+(5.2.1.1)
 WATER AND RIVERS COMMISSION
 APPLICATION FOR A WELL LICENCE
 (Under Section 57G of the Metropolitan
@@ -9,11 +9,11 @@ Act 1909 as amended).
 OWNER OF LAND | Name................................................................................................... Address............................................................................................... Telephone...........................................................Postcode .................
 OCCUPIER (if same as Owner write “As above”) | Name................................................................................................... Address............................................................................................... Telephone...........................................................Postcode .................
 PROPERTY | Hse No. ..................Lot No. ................ Street .................................. Postal District..................................................................................... Town/City/Shire of.............................................................................
-CLASSIFICA-TION | (Place ü in relevant box) Existing Well (or bore)oMonth/year Sink a new Well (or bore)oconstructed....... /....... Alter or deepen a Well (or bore)oLicence No. .............. Change of licence conditionsoLicence No. ..............
+CLASSIFICA-TION | (Place ü in relevant box) Existing Well (or bore)oMonth/year Sink a new Well (or bore)oconstructed ......./....... Alter or deepen a Well (or bore)oLicence No. .............. Change of licence conditionsoLicence No. ..............
 CONSTRUC- TION | Proposed depth (if known) .............................................m Method of construction (if known) Selfo Contractoro Name ..................................................... ................................................................ Othero................................................................ Proposed pump rate............................................litres/second
 OFFICE USE
  | DOMESTIC GARDEN WATERING HOUSEHOLD USE | o o
-PURPOSE OF WELL OR BORE Indicate by a [tick] in the relevant box | STOCK WATERING — number of horses ................................................ cattle ................................................. sheep ................................................. pigs — open run ............................... penned ............................... other .................................................. | o
+PURPOSE OF WELL OR BORE Indicate by a ü in the relevant box | STOCK WATERING — number of horses ................................................ cattle ................................................. sheep ................................................. pigs — open run ............................... penned ............................... other .................................................. | o
  | COMMERCIAL POULTRY Number of birds ............................... Roof sprinklerso Foggerso | o
  | COMMERCIAL IRRIGATION Area ha Vegetables.............. Lucerne.............. Other pasture.............. Nursery.............. Orchard.............. Other.............. | o
 Information given should include that for adjacent lots where it is proposed water from the well will be shared with these lot owners | PARK & RECREATION Area irrigated .............................. ha ........................................................... ........................................................... ........................................................... INDUSTRIAL Specify intended purposes for water use giving annual quantities. ........................................................... ........................................................... ........................................................... | o o
@@ -33,19 +33,22 @@ SITE PLAN.
 •Show the location of any existing or abandoned septic tanks, leach drains or soak wells and their distance from the proposed well.
 •The Health Act (Underground Water Supply) Regulations 1959 require wells to be not less than 30 m from septic tanks, soak wells or leach drains.
 •The Commission may require alterations to the location, plans and specification of any work proposed in this application before it issues a licence.
+[Form 1 inserted in Gazette 31 Jul 1981 p. 3169-71; amended in Gazette 29 Dec 1995 p. 6324.]
 Form 2
+(5.2.1.3)
 Water Agencies (Powers) Act 1984
 GROUNDWATER WELL LICENCE
-Issued under section 57G of the Metropolitan Water Supply, Sewerage and Drainage Act 1901 as amended
-Name And address of licensee
+Issued under section 57G of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 as amended
+Name and address of licensee
 Description of land upon which wells are located
 Location of wells
-Things that May be Done Pursuant to This licence
-Licence Expiry
+Things that may be done pursuant to this licence
+Licence expiry
 Purpose for which water may be used
 This licence is subject to the following terms, limitations and conditions.
 Given under my hand this ......................................... day of ...............................
 ....................................................................................... Authorised Officer
+[Form 2 inserted in Gazette 12 May 1989 p. 1446; amended in Gazette 29 Dec 1995 p. 6324.]
 Form 3
 (5.2.2.1)
 WATER AND RIVERS COMMISSION
@@ -54,7 +57,7 @@ LICENCE No.
 LICENSEE: | Name.........................................................................................
  | Address.....................................................................................
  | Telephone..................................................Postcode ................
-PROPERTY: | Hse No. ..................Lot No. ................ Street ........................
+PROPERTY: | Hse No. .................. Lot No. ................ Street ........................
  | Postal District...........................................................................
  | Town/City/Shire of...................................................................
 CONTRACTOR: (if applicable) | Name......................................................................................... Address..................................................................................... ...................................................................Postcode ................
@@ -104,7 +107,7 @@ SEE DIAGRAMS BELOW
  | Other......................................................................
  | Is casing slotted? YES/NO If so give details in remarks.
  | Well liners Number ....... mm Total well liner length .......m
-3.SCREENS: | Length ............ m diam ............... mm Aperture ........... mm
+3.SCREENS: | Length ............ m Diam ............. mm Aperture ........... mm
  | Material of construction.........................................................
  | Make.......................................................................................
-[Schedule B inserted in Gazette 31 Jul 1981 p. 3169-73; amended in Gazette 12 May 1989 p. 1445-6; 29 Dec 1995 p. 6324.]
+[Form 3 inserted in Gazette 31 Jul 1981 p. 3172-3; amended in Gazette 29 Dec 1995 p. 6324.]
