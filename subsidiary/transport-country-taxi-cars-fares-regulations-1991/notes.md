@@ -25,3 +25,4 @@ Country Taxi-cars (Fares and Charges) Amendment Regulations 2003 | 24 Dec 2003 p
 Country Taxi-cars (Fares and Charges) Amendment Regulations 2004 | 10 Dec 2004 p. 5911-15 | 10 Dec 2004
 Country Taxi-cars (Fares and Charges) Amendment Regulations 2005 | 21 Jan 2005 p. 270-4 | 21 Jan 2005
 Country Taxi-cars (Fares and Charges) Amendment Regulations (No. 3) 2005 | 1 Dec 2005 p. 5791-801 | 1 Dec 2005
+Country Taxi-cars (Fares and Charges) Amendment Regulations 2006 | 14 Jul 2006 p. 2570-5 | 14 Jul 2006
