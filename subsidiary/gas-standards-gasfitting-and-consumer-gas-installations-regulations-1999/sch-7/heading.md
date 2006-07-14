@@ -1,5 +1,6 @@
 ## Schedule 7 — Codes and standards containing requirements for consumers’ gas installations
 [r. 32(1)(b)]
+[Heading inserted in Gazette 21 Apr 2006 p. 1580.]
 Title | Code or Standard
 Gas Installations Code | AG 601 AS 5601
 Industrial and commercial gas-fired appliances | AG 501 AS 3814
