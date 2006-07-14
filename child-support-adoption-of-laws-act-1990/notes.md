@@ -10,7 +10,7 @@ Reprint 1: The Child Support (Adoption of Laws) Act 1990 as at 2 May 2003 (inclu
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
-Family Legislation Amendment Act 2006 Pt. 5 | 35 of 2006 | 4 Jul 20096 | To be proclaimed (see s. 2)
+Family Legislation Amendment Act 2006 Pt. 5 | 35 of 2006 | 4 Jul 2006 | 1 Aug 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 The Child Support (Adoption of Laws) Amendment Act 2002 s. 3 reads as follows:
 “
 3.Purpose of Act
