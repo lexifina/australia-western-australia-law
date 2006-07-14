@@ -1,0 +1,16 @@
+### 205ZHB. Court to stay proceedings under this Division affected by criminal confiscation order etc. — FLA s. 79C
+(1) A court in which proceedings under this Division are pending must stay those proceedings if notified under section 205ZHA in relation to the proceedings.
+(2) A court may, before staying proceedings under subsection (1), invite or require the DPP to make submissions relating to staying the proceedings.
+(3) A court must, on application of the DPP, stay proceedings under this Division if the property of de facto partners, or either of them, is subject to —
+(a) a criminal confiscation order; or
+(b) an application for a confiscation declaration.
+(4) A court must notify the DPP if the court stays proceedings under subsection (1) or (3).
+(5) The DPP must notify the Registry Manager if —
+(a) a criminal confiscation order ceases to be in force; or
+(b) an order is made under section 87 of the Criminal Property Confiscation Act 2000 for the release of property that has been confiscated; or
+(c) an application for a confiscation declaration is finally determined.
+(6) For the purposes of subsection (5), an application for a confiscation declaration is finally determined when —
+(a) the application is withdrawn; or
+(b) if the application is successful, the resulting confiscation declaration is made; or
+(c) if the application is unsuccessful, the time within which an appeal can be made has expired and any appeals have been finally determined or otherwise disposed of.
+[Section 205ZHBB inserted by No. 35 of 2006 s. 44.]
