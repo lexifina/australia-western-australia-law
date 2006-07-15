@@ -23,10 +23,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 56 Subdiv. 1 | 55 of 2004 | 24 Nov 2004 | 24 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Guardianship and Administration Act 1990 as at 1 Apr 2005 (includes amendments listed above except those in the Children and Community Services Act 2004, the Courts Legislation Amendment and Repeal Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Number and year | Assent | Commencement
-Family Legislation Amendment Act 2006 Pt. 6 Div. 2 | 35 of 2006 | 4 Jul 20096 | To be proclaimed (see s. 2)
+Family Legislation Amendment Act 2006 Pt. 6 Div. 2 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Guardianship and Administration Amendment Act 2000 s. 21 reads as follows:
 “
@@ -70,16 +67,4 @@ on or after the commencement day, the State Administrative Tribunal may make an 
 (a) an enduring power of attorney created by instrument in the form or substantially in the form of the GA Act Schedule 3 Form 1; or
 (b) a statement of acceptance in the form, or substantially in the form, of the GA Act Schedule 3 Form 2,
 in effect immediately before the commencement day contains a reference to the Guardianship and Administration Board, on and after the commencement day that reference is to be taken to be a reference to the State Administrative Tribunal.
-”.
-On the date as at which this compilation was prepared, the Family Legislation Amendment Act 2006 Pt. 6 Div. 2 had not come into operation. It reads as follows:
-“
-Division 2 — Guardianship and Administration Act 1990 amended
-204.The Act amended
-The amendments in this Division are to the Guardianship and Administration Act 1990.
-205.Section 45 amended
-Section 45(1)(a) and (b) and “and” after paragraph (a) are deleted and the following is inserted instead —
-“
-(a) a parenting order which allocates parental responsibility for a child; and
-(b) a parenting order which provides that a person is to share parental responsibility for a child,
-”.
 ”.

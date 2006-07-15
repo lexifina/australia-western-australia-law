@@ -15,11 +15,11 @@ Acts Amendment (Family and Domestic Violence) Act 2004 Pt. 2 (s. 3-57) | 38 of 2
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 17 | 59 of 2004 | 23 Nov 2004 | Pt. 17 (other than the amendments in s. 123 to s. 67(2) and in s. 124 to s. 4(a)): 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Reprint 2: The Restraining Orders Act 1997 as at 5 May 2006 (includes amendments listed above)
+Family Legislation Amendment Act 2006 Pt. 6 Div. 3 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 123 and 124 | 59 of 2004 | 23 Nov 2004 | s. 123 the amendment to s. 67(2) and s. 124 the amendment to s. 4(a) to be proclaimed (see s. 2)
-Family Legislation Amendment Act 2006 Pt. 6 Div. 3 | 35 of 2006 | 4 Jul 20096 | To be proclaimed (see s. 2)
 Part 9 contained transitional provisions relating to orders to keep the peace in force under the Justices Act 1902 when this Act came into operation.
 On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 123 (the amendment to s. 67(2)) and s. 124 (the amendment to s. 4(a)) had not come into operation. They have not been, and will not be, proclaimed as the provisions to be amended were repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004. They read as follows:
 “
@@ -33,29 +33,4 @@ s. 67(2)
 The Act is amended as set out in the Table to this section.
 Table
 s. 4(a) | In each provision delete “a court of petty sessions” or “the court of petty sessions” in each place it occurs and in each place insert instead — “ the Magistrates Court ”.
-”.
-On the date as at which this compilation was prepared, the Family Legislation Amendment Act 2006 Pt. 6 Div. 3 had not come into operation. It reads as follows:
-“
-Division 3 — Restraining Orders Act 1997 amended
-206.The Act amended
-The amendments in this Division are to the Restraining Orders Act 1997.
-207.Section 5 amended
-(1) Section 5(1)(a) and (b) are deleted and the following paragraph is inserted instead —
-“
-(a) a parenting order made under the Family Law Act 1975 of the Commonwealth or the Family Court Act 1997, as is relevant to the case, that deals with —
-(i) the person or persons with whom a child is to live; or
-(ii) the time a child is to spend with another person or other persons; or
-(iii) the communication a child is to have with another person or other persons;
-”.
-(2) Section 5(2) is amended as follows:
-(a) in paragraph (a) by deleting “, a specific issues order”;
-(b) in paragraph (d) by deleting “registered” and inserting instead —
-“ , whether registered or not ”;
-(c) in paragraph (e) by deleting “recognisance” and inserting instead —
-“ bond ”;
-(d) after each of paragraphs (a) to (c) by inserting —
-“ or ”.
-208.Section 62 amended
-Section 62(1)(a) is amended by deleting “primary dispute resolution method, as defined in section 47 of” and inserting instead —
-“ process of family dispute resolution, as defined in ”.
 ”.
