@@ -18,7 +18,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 7 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2(2) and Gazette 21 Mar 2006 p. 1078)
 Reprint 2: The Family Court Act 1997 as at 14 Apr 2006 (includes amendments listed above)
-Family Legislation Amendment Act 2006 Pt. 2 11-21 | 35 of 2005 | 4 Jul 2006 | s. 3 and Pt. 2: 14 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
+Family Legislation Amendment Act 2006 Pt. 2 and 3 11-27 | 35 of 2006 | 4 Jul 2006 | s. 3 and Pt. 2: 14 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559) Pt. 3: 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -493,7 +493,7 @@ The Family Legislation Amendment Act 2006 s. 41 reads as follows:
 41.Transitional provision
 The Family Court Act 1997, as amended by section 36 of this Act, applies in relation to proceedings in a court (within the meaning of that Act section 8) that have not been finally determined before the commencement of that section, whether the proceedings were instituted in the court before, on or after the commencement of that section.
 ”.
-The Family Legislation Amendment Act 2006 s. 41 reads as follows:
+The Family Legislation Amendment Act 2006 s. 48 reads as follows:
 “
 48.Transitional provisions
 (1) In this section —
@@ -529,4 +529,107 @@ The Family Legislation Amendment Act 2006 s. 70(3) reads as follows:
 The Family Legislation Amendment Act 2006 s. 77(3) reads as follows:
 “
 (3) The Family Court Act 1997, as amended by this section, does not apply to, or in respect of, proceedings instituted under that Act before the commencement of this section.
+”.
+The Family Legislation Amendment Act 2006 s. 99 reads as follows:
+“
+99.Transitional provisions
+(1) In this section —
+“commencement” means the day on which this Division comes into operation;
+“new Act” means the Family Court Act 1997 as in force after commencement;
+“parenting order” has the same meaning as in the Family Court Act 1997.
+(2) Section 66C of the new Act applies to orders made on or after commencement.
+(3) The amendments effected by sections 84 and 94 apply in respect of parenting orders made on or after commencement.
+(4) The amendment effected by section 85 applies to proceedings under Part 5 of the Family Court Act 1997, whether the proceedings were initiated before, on or after commencement.
+(5) The amendment effected by section 86 applies to directions given under section 73(2) of the new Act on or after commencement.
+(6) The amendment effected by section 87 applies to parenting plans made on or after commencement.
+(7) The amendment effected by section 90 applies to parenting orders made on or after commencement.
+(8) The amendment effected by section 91 applies to parenting orders made on or after commencement (this includes, without limitation, a parenting order that varies an earlier parenting order, whether the earlier parenting order was made before or after commencement).
+(9) Sections 89AA, 89AB, 89AC and 89AD of the new Act apply to parenting orders made on or after commencement.
+(10) The amendment effected by section 97 applies to a court proposing to make an order mentioned in section 92(1) of the new Act, whether the proceedings to which the order relates were initiated before or after commencement.
+(11) The amendments effected by this Division are taken not to constitute changed circumstances that would justify making an order to discharge or vary, or to suspend or revive the operation of, some or all of a parenting order that was made before commencement.
+”.
+The Family Legislation Amendment Act 2006 s. 103 reads as follows:
+“
+103.Transitional provisions
+(1) In this section —
+“commencement” means the day on which this Division comes into operation;
+“parenting order” has the same meaning as in the Family Court Act 1997.
+(2) The amendments effected by this Division apply to a contravention, or alleged contravention of a parenting order —
+(a) if the contravention occurs, or the alleged contravention is alleged to occur, on or after commencement; and
+(b) do not apply if the contravention occurs, or the alleged contravention is alleged to occur, before commencement.
+”.
+The Family Legislation Amendment Act 2006 s. 107 reads as follows:
+“
+107.Transitional provision
+The amendments effected by this Division —
+(a) apply to proceedings commenced by an application filed on or after 1 July 2006; and
+(b) apply to proceedings commenced by an application filed before 1 July 2006, if the parties to the proceedings consent and the court grants leave.
+”.
+The Family Legislation Amendment Act 2006 Pt. 3 Div. 4 Subdivision 2 reads as follows:
+“
+Subdivision 2 — Transitional provisions
+127.Interpretation
+In this Division —
+“commencement” means the day on which this Division comes into operation.
+128.Arbitration awards registered under section 60A or 60B are taken to be registered under section 65P
+If —
+(a) at any time before commencement, an award in an arbitration had been registered under section 60A or 60B of the Family Court Act 1997; and
+(b) the award is still registered immediately before commencement,
+the registration of the award continues to have effect after commencement as if it had been done under section 65P of that Act.
+129.Powers under Part 4C Division 4 of the Family Court Act 1997 may be exercised in relation to section 60A arbitration and private arbitration
+For the purposes of sections 65O, 65P, 65Q and 65R —
+(a) a reference to section 65M arbitration includes a reference to section 60A arbitration (within the meaning of the Family Court Act 1997 as in force immediately before commencement); and
+(b) a reference to relevant property or financial arbitration includes a reference to private arbitration of a dispute (within the meaning of the Family Court Act 1997 as in force immediately before commencement).
+130.Request for counselling under section 52
+If, at commencement, a notice filed under section 52 of the Family Court Act 1997 has not been acted on, an appropriate officer of the court in which the notice is filed must arrange for the parties to the proceedings to which the notice relates (and the child and any other persons the officer thinks appropriate) to be interviewed by a family counsellor to assess whether counselling is appropriate in all the circumstances, and, if it is —
+(a) to discuss the care, welfare and development of the child; and
+(b) if there are differences between the parties in relation to matters affecting the care, welfare and development of the child, to try to resolve those differences.
+131.Orders under section 72(2)
+If, at commencement, an order under section 72(2) of the Family Court Act 1997 has not yet been complied with, the order is taken to have been complied with if the parties to which the order relate attend a conference with a family counsellor (within the meaning of the Family Court Act 1997 as amended by this Division).
+132.Reports under section 73
+If, at commencement, a family and child counsellor or welfare officer (within the meaning of the Family Court Act 1997 as in force immediately before commencement) has been directed to give a report under section 73(2) of that Act and has not yet given that report —
+(a) the person must still provide the report; and
+(b) references in section 73 of that Act (as amended by this Division) to a family consultant are taken to be references to the person who provides the report.
+133.Pre-parenting order counselling for the purposes of section 72
+If, before commencement, parties to proceedings attended a conference with a family and child counsellor or a welfare officer to discuss the matter to which the proceedings relate, the attendance at that conference is taken to satisfy the requirement in section 72(2) of the Family Court Act 1997 (as amended by this Division) to attend a conference with a family counsellor.
+134.Supervision etc. of parenting orders
+If —
+(a) under a court order made before commencement under section 95 of the Family Court Act 1997, a person is required to do either or both of the following —
+(i) supervise compliance with a parenting order;
+(ii) give any party to the parenting order such assistance as is reasonably requested by that party in relation to compliance with, and the carrying out of, the parenting order;
+and
+(b) immediately after commencement, the person is not a family consultant within the meaning of the Family Court Act 1997 as amended by this Division,
+then the court may make another order substituting a family consultant for the person.
+135.Transitional regulations
+(1) If this Division does not provide sufficiently for a matter or issue of a transitional nature that arises as a result of the amendments made by this Division, the Governor may make regulations prescribing all matters that are required, necessary or convenient to be prescribed for providing for that matter or issue.
+(2) If regulations made under subsection (1) provide that a specified state of affairs is taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations are published in the Gazette but not earlier than commencement, the regulations have effect according to their terms.
+(3) In subsection (2) —
+“specified” means specified or described in the regulations.
+(4) If regulations contain a provision referred to in subsection (2), the provision does not operate so as —
+(a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the day of publication; or
+(b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication.
+”.
+The Family Legislation Amendment Act 2006 s. 141 reads as follows:
+“
+141.Transitional provisions
+(1) In this section —
+“commencement” means the day on which this Division comes into operation;
+“new provision” means section 164 of the Family Court Act 1997 as in force after commencement;
+“old provision” means section 171 of the Family Court Act 1997 as in force immediately before commencement.
+(2) The amendments effected by this Division apply to proceedings initiated under Part 5 of the Family Court Act 1997 before, on or after commencement.
+(3) If —
+(a) a court made an order under the old provision for separate representation of a child; and
+(b) immediately before commencement, the proceedings in which the order was made have not been concluded,
+then —
+(c) the person who was appointed as the child’s representative under the old provision is taken to be appointed as the independent children’s lawyer under the new provision; and
+(d) the order under the old provision for separate representation of the child is taken to be an order under the new provision for independent representation of the child’s interests.
+”.
+The Family Legislation Amendment Act 2006 s. 143 reads as follows:
+“
+143.Transitional provisions
+(1) In this section —
+“commencement” means the day on which this Division comes into operation.
+(2) The amendments effected by this Division —
+(a) apply to orders made after commencement; and
+(b) do not apply to orders made before commencement.
 ”.
