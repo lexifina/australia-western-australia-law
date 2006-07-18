@@ -22,8 +22,9 @@ Occupational Safety and Health Act 1984 | Commissioner for Occupational Health a
 Parliamentary Commissioner Act 1971 | Parliamentary Commissioner for Administrative Investigations Deputy Parliamentary Commissioner for Administrative Investigations
 Police Act 1892 | Commissioner of Police Deputy Commissioner of Police (Operations) Deputy Commissioner of Police (Standards and Reform) Assistant Commissioners of Police
 Public Sector Management Act 1994 | Commissioner for Public Sector Standards
+Solicitor-General Act 1969 | Solicitor-General of the State of Western Australia
 Totalisator Agency Board Betting Act 1960 | Manager
 Water Agencies (Powers) Act 1984 | Managing Director, Water Authority of Western Australia
 Western Australian Coastal Shipping Commission Act 1965 | General Manager, Western Australian Coastal Shipping Commission
 Western Australian Tourism Commission Act 1983 | Chief Executive Officer, Western Australian Tourism Commission
-[Schedule inserted in Gazette 4 Oct 1991 p. 5174-5; amended in Gazette 8 Jan 1993 p. 32; 29 Nov 1994 p. 6341; 20 Feb 1996 p. 645; 24 Sep 1999 p. 4668 and p. 4669; 11 Apr 2000 p. 1844; 5 May 2000 p. 2139; 22 Feb 2002 p. 765; 28 Mar 2002 p. 1767; 15 Aug 2003 p. 3692; 16 Apr 2004 p. 1214; amended by Act No. 75 of 2003 s. 56(1).]
+[Schedule inserted in Gazette 4 Oct 1991 p. 5174-5; amended in Gazette 8 Jan 1993 p. 32; 29 Nov 1994 p. 6341; 20 Feb 1996 p. 645; 24 Sep 1999 p. 4668 and p. 4669; 11 Apr 2000 p. 1844; 5 May 2000 p. 2139; 22 Feb 2002 p. 765; 28 Mar 2002 p. 1767; 15 Aug 2003 p. 3692; 16 Apr 2004 p. 1214; amended by Act No. 75 of 2003 s. 56(1); No. 29 of 2006 s. 13(2).]

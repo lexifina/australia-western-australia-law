@@ -28,8 +28,13 @@ Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 18 | 15 A
 Inspector of Custodial Services Act 2003 s. 56(1) assented to 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Salaries and Allowances Amendment Regulations 2004 | 16 Apr 2004 p. 1213-14 | 16 Apr 2004
 Reprint 2: The Salaries and Allowances Regulations 1975 as at 2 Sep 2005 (includes amendments listed above)
+Solicitor-General Amendment Act 2006 s. 13 assented to 30 Jun 2006 | 18 Jul 2006 (see s. 2)
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
 Repealed by the Public Transport Authority Act 2003.
 Formerly referred to the Occupational Health, Safety and Welfare Act 1984 the short title of which was changed to the Occupational Safety and Health Act 1984 by the Occupational Safety and Health Legislation Amendment Act 1995 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Water Authority Act 1984 the short title of which was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now known as the Salaries and Allowances Regulations 1975; citation changed (see note under r. 1).
+The Solicitor-General Amendment Act 2006 s. 13(3) reads as follows:
+“
+(3) This section does not prevent the Salaries and Allowances Regulations 1975 from being amended or repealed in accordance with the Salaries and Allowances Act 1975.
+”.
