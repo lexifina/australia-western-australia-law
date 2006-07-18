@@ -159,7 +159,7 @@ Stamp Amendment Act 2005 | 34 of 2005 | 12 Dec 2005 | Act other than Pt. 3: 12 D
 Stamp Amendment (Taxing) Act 2005 | 35 of 2005 | 12 Dec 2005 | 1 Mar 2006 (see s. 2 and Gazette 24 Jan 2006 p. 429)
 Stamp Amendment (Assessment) Act 2005 | 36 of 2005 | 12 Dec 2005 | s. 5: 1 Jul 1997 (see s. 2(2)); s. 1-4 and 7: 12 Dec 2005 (see s. 2(1)); s. 6 and 8: 1 Mar 2006 (see s. 2(3) and Gazette 24 Jan 2006 p. 429)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-Reprint 16: The Stamp Act 1921 as at 12 May 2006 (includes amendments listed above except the amendments in the Revenue Laws Amendment Act 2006 s. 4, 5(2) and 6)
+Reprint 16: The Stamp Act 1921 as at 12 May 2006 (includes amendments listed above except the amendments in the Revenue Laws Amendment Act 2006 s. 4, 5(2) and 6) (correction in Gazette 18 Jul 2006 p. 2619)
 Revenue Laws Amendment Act 2006 Pt. 2 (s. 3-16) | 31 of 2006 | 4 Jul 2006 | s. 4: 1 Jan 2004 (see s. 2(2)); s. 5(2) and 6: 1 Jul 2004 (see s. 2(3)); s. 14 and 16: 1 Jul 2006 (see s. 2(5) and (6)); s. 3, 5(1), 7-13 and 15: 4 Jul 2006 (see s. 2(1))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
