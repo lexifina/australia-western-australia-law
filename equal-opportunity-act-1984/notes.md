@@ -33,6 +33,7 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Reprint 4: The Equal Opportunity Act 1984 as at 1 Apr 2005 (includes amendments listed above except those in the Courts Legislation Amendment and Repeal Act 2004)
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 452(1) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Solicitor-General Amendment Act 2006 s. 12 | 29 of 2006 | 30 Jun 2006 | 18 Jul 2006 (see s. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Solicitor-General Act 1969 and includes the amendments made by the other written laws referred to in the following table. For amendments that had not come into operation on the date on which this compilation was prepared see endnote.
+This is a compilation of the Solicitor-General Act 1969 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint
 Compilation table
 Short title | Number and year | Assent | Commencement
 Solicitor-General Act 1969 | 38 of 1969 | 19 May 1969 | 19 May 1969
@@ -11,6 +11,7 @@ Statutes (Repeals and Minor Amendments) Act 1997 s. 112 | 57 of 1997 | 15 Dec 19
 Reprint of the Solicitor-General Act 1969 as at 1 Nov 2002 (Includes amendments listed above)
 Acts Amendment (Equality of Status) Act 2003 Pt. 54 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 118 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
+Solicitor-General Amendment Act 2006 s. 4-11 | 29 of 2006 | 30 Jun 2006 | 18 Jul 2006 (see s. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnote referred to after the short title.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
