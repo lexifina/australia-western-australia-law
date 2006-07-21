@@ -1,16 +1,16 @@
 Notes
-This is a compilation of the Country Towns Sewerage Act 1948 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 21 July 2006 of the Country Towns Sewerage Act 1948 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Country Towns Sewerage Act 1948 | 82 of 1948 | 26 Jan 1949 | 8 Apr 1949 (see s. 1 and Gazette 8 Apr 1949 p. 770)
 Country Towns Sewerage Act Amendment Act 1951 | 15 of 1951 | 23 Nov 1951 | 23 Nov 1951
-Limitation Act Amendment Act 1954 s. 8 | 73 of 1954 | 14 Jan 1955 | 1 Mar 1955 (see s. 2 and Gazette 18 Feb 1955 p. 343)
+Limitation Act 1935 s. 48A(1) | 35 of 1935 (as amended by No. 73 of 1954 s. 8) | 14 Jan 1955 | Relevant amendments (see s. 48A and Second Sch.) took effect on 1 Mar 1955 (see No. 73 of 1954 s. 2 and Gazette 18 Feb 1955 p. 343)
 Country Towns Sewerage Act Amendment Act 1964 | 52 of 1964 | 30 Nov 1964 | 30 Nov 1964
 Reprint of the Country Towns Sewerage Act 1948 approved 30 Mar 1965 in Volume 19 of Reprinted Acts (includes amendments listed above)
-Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | s. 4-9: 14 Feb 1966 (see s. 2(2)); balance: 21 Dec 1965
+Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Country Towns Sewerage Act Amendment Act 1967 | 47 of 1967 | 24 Nov 1967 | 31 Oct 1969 (see s. 2 and Gazette 31 Oct 1969 p. 3362)
 Reprint of the Country Towns Sewerage Act 1948 approved 13 Jul 1971 (includes amendments listed above)
-Metric Conversion Act 1972 | 94 of 1972 | 4 Dec 1972 | Relevant amendments (see Second Sch.) took effect on 1 May 1974 (see s. 4(2) and Gazette 26 Apr 1974 p. 1393)
+Metric Conversion Act 1972 | 94 of 1972 (as amended by No. 19 of 1973 s. 4) | 4 Dec 1972 | Relevant amendments (see Second Sch.) took effect on 1 May 1974 (see s. 4(2) and Gazette 26 Apr 1974 p. 1393)
 Country Towns Sewerage Act Amendment Act 1976 | 49 of 1976 | 10 Sep 1976 | 10 Sep 1976
 Country Towns Sewerage Act Amendment Act 1977 | 15 of 1977 | 11 Oct 1977 | 11 Oct 1977
 Acts Amendment and Repeal (Valuation of Land) Act 1978 Pt. V | 76 of 1978 | 20 Oct 1978 | 1 Jul 1979 (see s. 2 and Gazette 11 May 1979 p. 1211)
@@ -19,9 +19,9 @@ Reprint of the Country Towns Sewerage Act 1948 approved 11 Mar 1980 (includes am
 Acts Amendment (Statutory Designations) and Validation Act 1981 s. 4 | 63 of 1981 | 13 Oct 1981 | 13 Oct 1981
 Country Towns Sewerage Amendment Act 1981 | 104 of 1981 | 4 Dec 1981 | 4 Dec 1981
 Acts Amendment (Country Water and Sewerage) Act 1982 Pt. IV | 14 of 1982 | 14 May 1982 | 11 Jun 1982 (see s. 2 and Gazette 11 Jun 1982 p. 1911)
-Country Towns Sewerage Amendment Act 1984 | 16 of 1984 | 31 May 1984 | s. 8: 28 Jun 1984 (see s. 2(2)); balance (except s. 6 and 7): 31 May 1984
+Country Towns Sewerage Amendment Act 1984 | 16 of 1984 | 31 May 1984 | Act other than s. 6-8: 31 May 1984 (see s. 2(1)); s. 8: 28 Jun 1984 (see s. 2(2)); s. 6 and 7 repealed by No. 25 of 1985 s. 216
 Acts Amendment and Repeal (Water Authorities) Act 1985 Pt. VII | 25 of 1985 | 6 May 1985 | 1 Jul 1985 (see s. 2 and Gazette 7 Jun 1985 p. 1931)
-Acts Amendment (Water Authorities) Act 1985 Pt. VI | 110 of 1985 (as amended by No. 74 of 2003 s. 24) | 17 Dec 1985 | s. 74: 14 Jul 1987 (see s. 2 and Gazette 14 Jul 1987 p. 2647); s. 90: 1 Jul 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726); s. 72: 1 Feb 1990 (see s. 2 and Gazette 5 Jan 1990 p. 38); s. 73 and 94(a) repealed by No. 74 of 2003 s. 24; balance: 14 Mar 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726)
+Acts Amendment (Water Authorities) Act 1985 Pt. VI | 110 of 1985 (as amended by No. 74 of 2003 s. 24) | 17 Dec 1985 | Act other than s. 72-74, 90 and 94(a): 14 Mar 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726); s. 90: 1 Jul 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726); s. 74: 14 Jul 1987 (see s. 2 and Gazette 14 Jul 1987 p. 2647); s. 72: 1 Feb 1990 (see s. 2 and Gazette 5 Jan 1990 p. 38); s. 73 and 94(a) repealed by No. 74 of 2003 s. 24
 Acts Amendment (Water Authority Rates and Charges) Act 1987 Pt. V | 24 of 1987 | 25 Jun 1987 | 14 Jul 1987 (see s. 2 and Gazette 14 Jul 1987 p. 2647)
 R&I Bank Amendment Act 1994 s. 13 | 6 of 1994 | 11 Apr 1994 | 26 Apr 1994 (see s. 2 and Gazette 26 Apr 1994 p. 1743)
 Bank of Western Australia Act 1995 s. 44 | 14 of 1995 | 4 Jul 1995 | 1 Dec 1995 (see s. 2 and Gazette 29 Nov 1995 p. 5529)
@@ -39,17 +39,15 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Water Legislation Amendment (Competition Policy) Act 2005 Pt. 3 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
-NB:This Act is affected by Orders published in Gazette 31 May 1985 p. 1897 and 21 June 1985 p. 2240.
+Reprint 6: The Country Towns Sewerage Act 1948 as at 21 Jul 2006 (includes amendments listed above)
 Now known as the Water Agencies (Powers) Act 1984.
-Under the Public Sector Management Act 1994 the names of departments can be changed. At the time of this reprint the former Department of Lands is called the Department of Land Administration and its administrative head is called the chief executive officer.
-Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to chief executive officer. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
-Under the Alteration of Statutory Designations Order (No. 2) 2001 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Mineral and Petroleum Resources.
+Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time this reprint was prepared, the former Department of Land Administration was called the Department of Land Information.
+Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources.
 Marginal notes in the Country Towns Sewerage Act 1948 referring to other legislation have been omitted from this reprint.
 The amendments in the Sentencing (Consequential Provisions) Act 1995 Pt. 17 are not included because, before it came into operation, it was repealed by the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 24(2).
+Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
-The Country Towns Sewerage Amendment Act 1984 s. 6 and 7 were repealed by the Acts Amendment and Repeal (Water Authorities) Act 1985 s. 216.
-Footnote no longer applicable.
-Footnote no longer applicable.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 44 reads as follows:
 “
