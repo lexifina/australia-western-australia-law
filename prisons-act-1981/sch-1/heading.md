@@ -1,6 +1,6 @@
 ## Schedule 1
 [section 4]
-## Declaration of Prisons
+## Declaration of prisons
 Column 1 | Column 2
 Existing Name | Proposed Name
 Albany Regional Gaol | Albany Regional Prison
