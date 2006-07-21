@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Classification (Publications, Films and Computer Games) Enforcement Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 21 July 2006 of the Classification (Publications, Films and Computer Games) Enforcement Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Censorship Act 1996 | 40 of 1996 | 10 Oct 1996 | 5 Nov 1996 (see s. 2 and Gazette 5 Nov 1996 p. 5845)
@@ -8,8 +8,11 @@ Reprint 1: The Censorship Act 1996 as at 28 Nov 2003 (includes amendments listed
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Censorship Amendment Act 2006 | 10 of 2006 | 8 May 2006 | Pt. 4 and Sch. 2: 26 May 2005 (see s. 2(3)); Act other than Pt. 4 and Sch. 2: 10 Jun 2006 (see s. 2 and Gazette 9 Jun 2006 p. 2029)
+Reprint 2: The Classification (Publications, Films and Computer Games) Enforcement Act 1996 as at 21 Jul 2006 (includes amendments listed above)
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 Repealed by s. 153 of this Act.
+The amendment in the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 16 is not included because the section it sought to amend had been repealed by the Censorship Amendment Act 2003 s. 35 before the amendment purported to come into operation.
+Now known as the Classification (Publications, Films and Computer Games) Enforcement Act 1996; short title changed (see note under s. 1).
 The Censorship Amendment Act 2003 s. 45-49 read as follows:
 “
 45.Transitional and savings provisions: publications
@@ -58,7 +61,6 @@ is taken to have been so approved or refused approval under the Commonwealth Act
 49.Transitional: offences
 Section 141A of the Censorship Act 1996 as amended by this Act applies in relation to proceedings for offences commenced after the commencement of section 38 of this Act whether the offences were committed before or after the commencement of section 38.
 ”.
-The amendment in the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 16 is not included because the section it sought to amend had been repealed by No. 30 of 2003 s. 35 before the amendment purported to come into operation.
 The Censorship Amendment Act 2006 s. 36, which gives effect to Sch. 2, reads as follows:
 “
 36.Transitional
@@ -91,4 +93,3 @@ The Censorship Amendment Act 2006 s. 4(3) and (4) read as follows:
 (3) A reference in any Act or regulation to the “Censorship Act 1996” shall, unless the context otherwise requires, be read and construed as a reference to the Classification (Publications, Films and Computer Games) Enforcement Act 1996.
 (4) The reference in the Community Protection (Offender Reporting) Act 2004 Schedule 2 or the Working with Children (Criminal Record Checking) Act 2004 Schedule 2 to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 is taken to include, and always to have included, a reference to the Censorship Act 1996.
 ”.
-Now known as the Classification (Publications, Films and Computer Games) Enforcement Act 1996; short title changed (see note under s. 1).
