@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Prisons Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprints.
+This reprint is a compilation as at 21 July 2006 of the Prisons Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Prisons Act 1981 | 115 of 1981 | 14 Dec 1981 | 1 Aug 1982 (see s. 2 and Gazette 23 Jul 1982 p. 2841)
@@ -11,13 +11,13 @@ Acts Amendment (Corrective Services) Act 1987 Pt. II | 47 of 1987 | 3 Oct 1987 |
 Acts Amendment (Public Service) Act 1987 s. 32 | 113 of 1987 | 31 Dec 1987 | 16 Mar 1988 (see s. 2 and Gazette 16 Mar 1988 p. 813)
 Acts Amendment (Imprisonment and Parole) Act 1987 Pt. III | 129 of 1987 | 21 Jan 1988 | 15 Jun 1988 (see s. 2 and Gazette 20 May 1988 p. 1664)
 Prisons Amendment Act (No. 2) 1991 | 47 of 1991 | 17 Dec 1991 | Act other than s. 6: 17 Dec 1991 (see s. 2(1)); s. 6: 1 Apr 1992 (see s. 2(2) and Gazette 27 Mar 1992 p. 1341)
-Reprint of the Prisons Act 1981 as at 9 July 1982 (includes amendments listed above) (Correction to reprint in Gazette 18 May 1993 p. 2465)
+Reprint of the Prisons Act 1981 as at 9 Jul 1982 (includes amendments listed above) (correction in Gazette 18 May 1993 p. 2465)
 Criminal Law Amendment Act (No. 2) 1992 s. 16(1) | 51 of 1992 | 9 Dec 1992 | 6 Jan 1993
 Acts Amendment (Ministry of Justice) Act 1993 Pt. 15 | 31 of 1993 | 15 Dec 1993 | 1 Jul 1993 (see s. 2)
 Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
-Acts Amendment (Fines, Penalties and Infringement Notices) Act 1994 Pt. 18 | 92 of 1994 | 23 Dec 1994 | 1 Jan 1995 (see s. 2 and Gazette 30 Dec 1994 p. 7211)
+Acts Amendment (Fines, Penalties and Infringement Notices) Act 1994 Pt. 18 | 92 of 1994 | 23 Dec 1994 | 1 Jan 1995 (see s. 2(1) and Gazette 30 Dec 1994 p. 7211)
 Prisons Amendment Act 1995 | 19 of 1995 | 4 Jul 1995 | 8 Oct 1997 (see s. 2 and Gazette 7 Oct 1997 p. 5607)
-Sentencing (Consequential Provisions) Act 1995 s. 69 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
+Sentencing (Consequential Provisions) Act 1995 Pt. 69 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
 Industrial Relations Legislation Amendment and Repeal Act 1995 s. 66(3) | 79 of 1995 | 16 Jan 1996 | 18 May 1996 (see s. 3(2) and Gazette 14 May 1996 p. 2019)
 Coroners Act 1996 s. 61 | 2 of 1996 | 24 May 1996 | 7 Apr 1997 (see s. 2 and Gazette 18 Mar 1997 p. 1529)
 Mental Health (Consequential Provisions) Act 1996 Pt. 16 | 69 of 1996 | 13 Nov 1996 | 13 Nov 1997 (see s. 2)
@@ -39,24 +39,18 @@ Sentencing Legislation Amendment Act 2004 s. 16 | 27 of 2004 | 14 Oct 2004 | 31 
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint For the text of the provisions see the endnotes referred to in the table.
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
+Reprint 5: The Prisons Act 1981 as at 21 Jul 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prisons Amendment Act 2003 s. 5, 6 and 8 | 24 of 2003 | 24 Apr 2003 | To be proclaimed (see s. 2)
-Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
-Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference to the Western Australian Prisons Department is, unless the contrary intention appears, to be read and construed as a reference to the Department of Justice.
+Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference to the Western Australian Prisons Department was, unless the contrary intention appears, to be read and construed as a reference to the Department of Justice.
+Under the Public Sector Management Act 1994 departments can be established and named. The designation of the department known as the Department of Justice has been altered to the Department of the Attorney General and the Department of Corrective Services is established with effect from 5 Jan 2006.
 Repealed by the Prisons Regulations 1982.
-The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 reads as follows:
-“
-Part 19 — Savings and transitional
-68.Savings
-If this Act is not passed until after 1 July 1993, anything done after that day but before this Act is passed that would have been in accordance with law if this Act had not come into operation but as a result of the coming into operation of this Act is contrary to law, is deemed to be in accordance with law.
-69.Transitional
-Unless the contrary intention appears, a reference, however expressed, in any law or document to the former Department of Corrective Services or Crown Law Department, the chief executive officer of either of those departments, or an office or organisational unit within either of those departments, is to be read as a reference to the Ministry of Justice, the chief executive officer of the Ministry of Justice, or the corresponding office or unit within the Ministry of Justice, as is appropriate.
-”.
+The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 are savings and transitional provisions that are of no further effect.
 The Sentencing (Consequential Provisions) Act 1995 s. 111(1), (2) and (3) read as follows:
 “
 111. Transitional provisions
@@ -79,13 +73,14 @@ The Inspector of Custodial Services Act 2003 s. 56(1), which gives effect to Sch
 “
 56.Consequential amendments to other Acts and regulations
 (1) Schedule 2 has effect.
-.”
+”.
 Schedule 2 cl. 6(5) reads as follows:
 “
 (5) A person who, immediately before the commencement of this Act, was a person who had been appointed by the Governor, under the Prisons Act 1981 section 54, to be a visiting justice is to be regarded, on and from the commencement, as a person who is appointed by the Minister, under the Prisons Act 1981 section 54, as a visiting justice on the same terms and conditions as applied to the person’s appointment by the Governor.
 ”.
 The amendments in the Corruption and Crime Commission Amendment and Repeal Act 2003 Sch. 2 cl. 11(3)-(6) are not included because the sections they sought to amend had been repealed by No. 75 of 2003 s. 56(1) before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Prisons Amendment Act 2003 s. 5, 6 and 8 had not come into operation. They read as follows:
+The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to amend s. 23 is not included because the section it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 37 before the amendment purported to come into operation.
+On the date as at which this reprint was prepared, the Prisons Amendment Act 2003 s. 5, 6 and 8 had not come into operation. They read as follows:
 “
 5.Section 60 amended
 Section 60(1) is amended by deleting “prescribed by regulations for the purposes of this section”.
@@ -106,5 +101,3 @@ After section 110(1)(ra) the following paragraph is inserted —
 (rb) requiring a visitor as a condition of entry to a prison to prove his or her identity in a specified manner, including by means of a fingerprint, palm print, eye print, voiceprint or other physical or personal characteristic;
 ”.
 ”.
-Footnote no longer applicable.
-The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to amend s. 23 is not included because the section it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 37 before the amendment purported to come into operation.
