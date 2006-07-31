@@ -217,7 +217,8 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
  | Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 4 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
  | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
- | Reprint 14: The Constitution Acts Amendment Act 1899 as at 21 Apr 2006 (includes amendments listed above)
+ | Tobacco Products Control Act 2006 s. 126 | 5 of 2006 | 12 Apr 2006 | 31 Jul 2006 (see s. 2 and Gazette 25 Jul 2006 p. 2701)
+ | Reprint 14: The Constitution Acts Amendment Act 1899 as at 21 Apr 2006 (includes amendments listed above except those in the Tobacco Products Control Act 2006 s. 126)
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -231,7 +232,6 @@ Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (see
 Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be proclaimed (see s. 2)
-Tobacco Products Control Act 2006 s. 126 | 5 of 2006 | 12 Apr 2006 | To be proclaimed (see s. 2)
 Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
@@ -438,21 +438,7 @@ Schedule 3 — Consequential amendments
 The Occupational Therapists Registration Board of Western Australia established under the Occupational Therapists Act 2005.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Tobacco Products Control Act 2006 s. 126, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-126.Repeals, transitional provisions, consequential amendments to other Acts
-Schedule 2 has effect.
-”.
-Schedule 2 Div. cl. 11 reads as follows:
-“
-Schedule 2 — Repeals, transitional provisions, consequential amendments to other Acts
-[s. 126]
-Division 3 — Consequential amendments to other Acts
-11.Constitution Acts Amendment Act 1899 amended
-(1) The amendments in this clause are to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended in the item relating to the Western Australian Health Promotion Foundation by deleting “by the Tobacco Control Act 1990.” and inserting instead —
-“ under the Tobacco Products Control Act 2005. ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Medical Radiation Technologists Act 2006 s. 105, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 105.Consequential amendments
