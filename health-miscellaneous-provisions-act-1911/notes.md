@@ -113,6 +113,7 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Health Legislation Amendment Act 2004 Pt. 2 | 61 of 2004 | 24 Nov 2004 | 24 Nov 2004 (see s. 2)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 13: The Health Act 1911 as at 15 Jul 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
+Tobacco Products Control Act 2006 s. 126 | 5 of 2006 | 12 Apr 2006 | 31 Jul 2006 (see s. 2 and Gazette 25 Jul 2006 p. 2701)
 Health Amendment Act 2006 | 23 of 2006 | 9 Jun 2006 | 7 Jul 2006 (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
@@ -120,7 +121,6 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Tobacco Products Control Act 2006 s. 126 | 5 of 2006 | 12 Apr 2006 | To be proclaimed (see s. 2)
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988.
 The Health Act Amendment Act 1900 is repealed by section 4 of this Act.
 Section 53B was repealed by the Health Act Amendment Act 1933 (No. 2) s. 6.
@@ -579,20 +579,7 @@ s. 246ZG(3) | Delete “A Local Court to which an application is made under subs
 s. 246ZG(4) | Delete “Local Court concerned” and insert instead — “ Magistrates Court ”. In paragraph (a) delete “that Local Court” and insert instead — “ the court ”.
 ”.
 The amendments it seeks to make cannot be done due to amendments made by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 479, 489, and 490.
-On the date as at which this compilation was prepared, the Tobacco Products Control Act 2006 s. 126, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-126.Repeals, transitional provisions, consequential amendments to other Acts
-Schedule 2 has effect.
-”.
-Schedule 2 Division 3 cl. 12 reads as follows:
-“
-Schedule 2 — Repeals, transitional provisions, consequential amendments to other Acts
-[s. 126]
-Division 3 — Consequential amendments to other Acts
-12.Health Act 1911 amended
-(1) The amendment in this clause is to the Health Act 1911.
-(2) Part IXB is repealed.
-”.
+Footnote no longer applicable.
 Footnote no longer applicable.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
 “
