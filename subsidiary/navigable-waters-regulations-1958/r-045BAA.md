@@ -15,12 +15,12 @@
 (g) the proposed date of departure of the vessel from navigable waters, and the application shall be accompanied by a recording fee of $27.50 and the appropriate fee ascertained in accordance with the following table for each 3 month period or part of a 3 month period for which it is proposed the vessel will be in navigable waters —
 Table
 Where the length of the vessel is — | $
-(i)less than 5 metres ............... | 4.00
-(ii)5 metres or over but less than 10 metres ................... | 7.25
-(iii)10 metres or over but less than 20 metres ................... | 9.50
-(iv)20 metres or over but less than 30 metres ................... | 19.00
-(v)30 metres or over but less than 40 metres ................... | 38.00
-(vi)40 metres or over ............... | 76.00
+(i)less than 5 metres ......................... | 4.00
+(ii)5 metres or over but less than 10 metres .............................. | 7.25
+(iii)10 metres or over but less than 20 metres ...................................... | 9.50
+(iv)20 metres or over but less than 30 metres ...................................... | 19.00
+(v)30 metres or over but less than 40 metres ..................................... | 38.00
+(vi)40 metres or over ......................... | 76.00
 (5) When the department registers a foreign pleasure vessel under this regulation the department shall, if the vessel has not previously been registered under this regulation, allot a registration number for the vessel and issue to the owner for whom the application was made —
 (a) a boat registration label; and
 (b) a certificate of registration for the vessel, which certificate shall indicate the date of expiry of the registration of the vessel.
