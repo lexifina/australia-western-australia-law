@@ -1,8 +1,8 @@
 ## Schedule 1A
 ## Agent’s component — Saturday lotto draw
+[Heading inserted in Gazette 10 Feb 2006 p. 663.]
 The component of the total cost of entering a Saturday lotto draw (that takes place on or after 18 March 2006) that is allocated for the agent through whom the entry was sold per number and type of game per week is as follows:
-System | No. of games | 1 Week | 2 Weeks | 5 Weeks | 10 Weeks
- |  | $ | $ | $ | $
+System | No. of games | 1 Week $ | 2 Weeks $ | 5 Weeks $ | 10 Weeks $
  | 4 | 0.20 | 0.40 | 1.00 | 2.00
  | 5 | 0.25 | 0.50 | 1.25 | 2.50
  | 6 | 0.30 | 0.60 | 1.50 | 3.00

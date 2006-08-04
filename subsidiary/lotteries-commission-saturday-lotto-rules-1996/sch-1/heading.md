@@ -1,9 +1,9 @@
 ## Schedule 1
 ## Total cost of entry — Saturday lotto draw
 [Rule 5(1)]
+[Heading inserted in Gazette 10 Feb 2006 p. 662.]
 The cost of entering a Saturday lotto draw that takes place on or after 18 March 2006 is made up of a subscription of 50 cents per game and an agent’s component (as set out in Schedule 1A) making the total cost per number and type of game per week as follows:
-System | No. of | 1 Week | 2 Weeks | 5 Weeks | 10 Weeks
- | games | $ | $ | $ | $
+System | No. of games | 1 Week $ | 2 Weeks $ | 5 Weeks $ | 10 Weeks $
  | 4 | 2.20 | 4.40 | 11.00 | 22.00
  | 5 | 2.75 | 5.50 | 13.75 | 27.50
  | 6 | 3.30 | 6.60 | 16.50 | 33.00
