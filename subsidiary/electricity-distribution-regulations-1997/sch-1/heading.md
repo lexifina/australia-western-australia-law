@@ -1,5 +1,6 @@
 ## Schedule 1 — Access application flow chart
 [r. 7]
+R E S P O N S I B I L I T Y
 APPLICANTCORPORATION
 1.Formulate proposal.
  |  |  | 3.Prepare written response to access application. Response to be provided within 20 business days (unless further information requested by the corporation). Response to include: ·time for preliminary assessment ·time to make access offer ·estimate costs.
