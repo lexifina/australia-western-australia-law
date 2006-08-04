@@ -1,5 +1,5 @@
 ## Schedule 3 — Terms of an access offer
-[r. 11 (3)]
+[r. 11(3)]
 In addition to any matters outlined elsewhere in the regulations, an access offer may include terms and conditions of the following kind:
 (a) details of each distribution entry point and each distribution exit point;
 (b) details of any transfer point;
@@ -16,4 +16,4 @@ In addition to any matters outlined elsewhere in the regulations, an access offe
 (m) the provision, installation, operation and maintenance of automatic load shedding facilities;
 (n) the circumstances under which the terms of the resulting distribution access agreement would require renegotiation; and
 (o) the amount of any capital contributions under regulation 12 and the manner in which and the time at which the capital contribution must be paid to the corporation.
-[Schedule 3 amended in Gazette 31 Dec 1998 p.7403; 31 Mar 2006 p. 1316.]
+[Schedule 3 amended in Gazette 31 Dec 1998 p. 7403; 31 Mar 2006 p. 1316.]
