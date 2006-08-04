@@ -1,46 +1,46 @@
 Notes
-This is a compilation of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 August 2006 of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Navigable Waters Regulations | 2 Apr 1958 p. 622-32 | 1 May 1958 (see r. 1)
-Untitled | 23 Dec 1960 p. 4063-4 | 23 Dec 1960
-Untitled | 19 Dec 1962 p. 4014-18 | 28 Dec 1962
-Untitled | 16 Dec 1963 p. 3875-6 | 16 Dec 1963
-Untitled | 9 Dec 1964 p. 3907 | 9 Dec 1964
-Untitled | 23 Mar 1965 p. 900 | 23 Mar 1965
-Untitled | 4 Nov 1965 p. 3803-4 (erratum 26 Nov 1965 p. 4029) | 4 Nov 1965
-Untitled | 30 Dec 1966 p. 3465 | 30 Dec 1966
-Untitled | 23 Mar 1967 p. 814-15 | 23 Mar 1967
-Untitled | 3 Oct 1967 p. 2592-3 | 3 Oct 1967
-Untitled | 28 May 1969 p. 1568 | 28 May 1969
-Untitled | 2 Jul 1969 p. 1954 | 2 Jul 1969
-Untitled | 9 Feb 1970 p. 377 | 9 Feb 1970
-Reprint of the Navigable Waters Regulations authorised 15 Apr 1970 published in Gazette 28 Apr 1970 p. 1181-98 (includes amendments listed above except those in Gazette 9 Feb 1970)
-Untitled | 1 May 1970 p. 1233 | 1 May 1970
-Untitled | 16 Oct 1970 p. 3205-6 | 16 Oct 1970
-Untitled | 16 Dec 1971 p. 5230-2 | 16 Dec 1971
-Untitled | 24 Mar 1972 p. 699 | 24 Mar 1972
-Untitled | 7 Jun 1972 p. 1721 | 7 Jun 1972
-Reprint of the Navigable Waters Regulations authorised 24 Jul 1972 published in Gazette 1 Aug 1972 p. 2901-19 (includes amendments listed above except those in Gazette 7 Jun 1972)
-Untitled | 22 Dec 1972 p. 4777-8 | 22 Dec 1972
-Untitled | 15 Jun 1973 p. 2234 | 1 Jul 1973
-Reprint of the Navigable Waters Regulations authorised 4 Jul 1974 published in Gazette 10 Jul 1974 p. 2547-65 (includes amendments listed above)
-Untitled | 12 Jul 1974 p. 2624-6 | 12 Jul 1974
-Untitled | 14 Feb 1975 p. 572 | 1 Mar 1975
-Untitled | 14 Mar 1975 p. 899-900 | 14 Mar 1975
-Untitled | 22 Aug 1975 p. 3044 | 22 Aug 1975
-Reprint of the Navigable Waters Regulations authorised 6 Apr 1976 published in Gazette 14 Apr 1976 p. 1141-63 (includes amendments listed above)
-Untitled | 17 Sep 1976 p. 3463 | 17 Sep 1976
-Untitled | 18 Feb 1977 p. 505 | 18 Feb 1977
-Reprint of the Navigable Waters Regulations authorised 24 Aug 1977 published in Gazette 7 Sep 1977 p. 3223-45 (includes amendments listed above except those in Gazette 18 Feb 1977)
-Untitled | 17 Mar 1978 p. 816-17 | 20 Mar 1978 (see Gazette 17 Mar 1978 p. 789)
-Untitled | 31 Mar 1978 p. 989-90 | 31 Mar 1978
-Untitled | 22 Sep 1978 p. 3504-5 | 22 Sep 1978
-Untitled | 9 Feb 1979 p. 375 | 9 Feb 1979
-Untitled | 16 Mar 1979 p. 750-1 | 16 Mar 1979
-Reprint of the Navigable Waters Regulations authorised 25 Jun 1979 published in Gazette 23 Jul 1979 p. 2047-69 (includes amendments listed above except those in Gazette 9 Feb 1979 and 16 Mar 1979)
-Untitled | 7 Sep 1979 p. 2735 | 7 Sep 1979
-Untitled | 20 Jun 1980 p. 1831 | 1 Jul 1980 (see r. 2)
+Untitled regulations | 23 Dec 1960 p. 4063-4 | 23 Dec 1960
+Untitled regulations | 19 Dec 1962 p. 4014-18 | 28 Dec 1962
+Untitled regulations | 16 Dec 1963 p. 3875-6 | 16 Dec 1963
+Untitled regulations | 9 Dec 1964 p. 3907 | 9 Dec 1964
+Untitled regulations | 23 Mar 1965 p. 900 | 23 Mar 1965
+Untitled regulations | 4 Nov 1965 p. 3803-4 (erratum 26 Nov 1965 p. 4029) | 4 Nov 1965
+Untitled regulations | 30 Dec 1966 p. 3465 | 30 Dec 1966
+Untitled regulations | 23 Mar 1967 p. 814-15 | 23 Mar 1967
+Untitled regulations | 3 Oct 1967 p. 2592-3 | 3 Oct 1967
+Untitled regulations | 28 May 1969 p. 1568 | 28 May 1969
+Untitled regulations | 2 Jul 1969 p. 1954 | 2 Jul 1969
+Untitled regulations | 9 Feb 1970 p. 377 | 9 Feb 1970
+Reprint of the Navigable Waters Regulations authorised 15 Apr 1970 in Gazette 28 Apr 1970 p. 1181-98 (includes amendments listed above except those in Gazette 9 Feb 1970)
+Untitled regulations | 1 May 1970 p. 1233 | 1 May 1970
+Untitled regulations | 16 Oct 1970 p. 3205-6 | 16 Oct 1970
+Untitled regulations | 16 Dec 1971 p. 5230-2 | 16 Dec 1971
+Untitled regulations | 24 Mar 1972 p. 699 | 24 Mar 1972
+Untitled regulations | 7 Jun 1972 p. 1721 | 7 Jun 1972
+Reprint of the Navigable Waters Regulations authorised 24 Jul 1972 in Gazette 1 Aug 1972 p. 2901-20 (includes amendments listed above except those in Gazette 7 Jun 1972)
+Untitled regulations | 22 Dec 1972 p. 4777-8 | 22 Dec 1972
+Untitled notice under the Metric Conversion Act 1972 s. 6 | 15 Jun 1973 p. 2234 | 1 Jul 1973
+Reprint of the Navigable Waters Regulations authorised 4 Jul 1974 in Gazette 10 Jul 1974 p. 2547-65 (includes amendments listed above)
+Untitled regulations | 12 Jul 1974 p. 2624-6 | 12 Jul 1974
+Untitled regulations | 14 Feb 1975 p. 572 | 1 Mar 1975
+Untitled regulations | 14 Mar 1975 p. 899-900 | 14 Mar 1975
+Untitled regulations | 22 Aug 1975 p. 3044 | 22 Aug 1975
+Reprint of the Navigable Waters Regulations authorised 6 Apr 1976 in Gazette 14 Apr 1976 p. 1141-63 (includes amendments listed above)
+Untitled regulations | 17 Sep 1976 p. 3463 | 17 Sep 1976
+Untitled regulations | 18 Feb 1977 p. 505 | 18 Feb 1977
+Reprint of the Navigable Waters Regulations authorised 24 Aug 1977 in Gazette 7 Sep 1977 p. 3223-45 (includes amendments listed above except those in Gazette 18 Feb 1977)
+Untitled regulations | 17 Mar 1978 p. 816-17 | 20 Mar 1978 (see Gazette 17 Mar 1978 p. 789)
+Untitled regulations | 31 Mar 1978 p. 989-90 | 31 Mar 1978
+Untitled regulations | 22 Sep 1978 p. 3504-5 | 22 Sep 1978
+Untitled regulations | 9 Feb 1979 p. 375 | 9 Feb 1979
+Untitled regulations | 16 Mar 1979 p. 750-1 | 16 Mar 1979
+Reprint of the Navigable Waters Regulations authorised 25 Jun 1979 in Gazette 23 Jul 1979 p. 2047-69 (includes amendments listed above except those in Gazette 9 Feb and 16 Mar 1979)
+Untitled regulations | 7 Sep 1979 p. 2735 | 7 Sep 1979
+Untitled regulations | 20 Jun 1980 p. 1831 | 1 Jul 1980 (see r. 2)
 Navigable Waters Amendment Regulations 1980 | 28 Nov 1980 p. 4050 | 28 Nov 1980
 Navigable Waters Amendment (No. 2) Regulations 1980 | 28 Nov 1980 p. 4051 | 1 Dec 1980 (see r. 2)
 Navigable Waters Amendment (No. 3) Regulations 1980 | 28 Nov 1980 p. 4051 | 28 Nov 1980
@@ -49,7 +49,7 @@ Navigable Waters Amendment Regulations (No. 2) 1981 | 7 Aug 1981 p. 3230 | 7 Aug
 Navigable Waters Amendment Regulations (No. 4) 1981 | 14 Aug 1981 p. 3340 | 14 Aug 1981
 Navigable Waters Amendment Regulations (No. 5) 1981 | 4 Sep 1981 p. 3861-2 | 4 Sep 1981
 Navigable Waters Amendment Regulations (No. 3) 1981 | 9 Oct 1981 p. 4257 | 9 Oct 1981
-Reprint of the Navigable Waters Regulations authorised 3 Dec 1981 published in Gazette 21 Dec 1981 p. 5283-306 (includes amendments listed above except those in the Navigable Waters Amendment Regulations 1981 and the Navigable Waters Amendment Regulations (No. 2) 1981, (No. 3) 1981, (No. 4) 1981 and (No. 5) 1981)
+Reprint of the Navigable Waters Regulations authorised 3 Dec 1981 in Gazette 21 Dec 1981 p. 5283-306 (includes amendments listed above except those in the Navigable Waters Amendment Regulations 1981 and the Navigable Waters Amendment Regulations (No. 2), (No. 3), (No. 4 and (No. 5) 1981)
 Navigable Waters Amendment Regulations (No. 6) 1981 | 18 Dec 1981 p. 5219 | 18 Dec 1981
 Navigable Waters Amendment Regulations 1982 | 7 May 1982 p. 1454 | 7 May 1982
 Navigable Waters Amendment Regulations (No. 2) 1982 | 4 Jun 1982 p. 1808 | 4 Jun 1982
@@ -73,7 +73,7 @@ Navigable Waters Amendment Regulations (No. 2) 1988 | 28 Oct 1988 p. 4289 | 28 O
 Navigable Waters Amendment Regulations (No. 3) 1988 | 13 Jan 1989 p. 75 | 13 Jan 1989
 Navigable Waters Amendment Regulations (No. 2) 1989 | 30 Jun 1989 p. 1926-8 | 1 Jul 1989 (see r. 2)
 Navigable Waters Amendment Regulations 1989 | 25 Aug 1989 p. 2846 | 25 Aug 1989
-Reprint of the Navigable Waters Regulations as at 17 Oct 1989 published in Gazette 8 Nov 1989 p. 4001-39 (includes amendments listed above)
+Reprint of the Navigable Waters Regulations as at 17 Oct 1989 in Gazette 8 Nov 1989 p. 4001-39 (includes amendments listed above)
 Navigable Waters Amendment Regulations (No. 3) 1989 | 2 Mar 1990 p. 1328-9 | 2 Mar 1990
 Navigable Waters Amendment Regulations 1990 | 11 May 1990 p. 2283 | 11 May 1990
 Navigable Waters Amendment Regulations (No. 3) 1990 | 1 Aug 1990 p. 3640-1 | 1 Aug 1990 (see r. 2)
@@ -111,11 +111,12 @@ Navigable Waters Amendment Regulations (No. 2) 2004 | 24 Aug 2004 p. 3659-60 | 2
 Navigable Waters Amendment Regulations 2005 | 24 Jun 2005 p. 2778-9 | 1 Jul 2005 (see r. 2)
 Navigable Waters Amendment Regulations (No. 2) 2005 | 10 Feb 2006 p. 667-75 | 10 Feb 2006
 Navigable Waters Amendment Regulations 2006 | 23 Jun 2006 p. 2207-8 | 1 Jul 2006 (see r. 2)
+Reprint 12: The Navigable Waters Regulations 1958 as at 4 Aug 2006 (includes amendments listed above)
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
+Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 reads as follows:
 “
 9.Transitional
 (1) Notwithstanding regulations 4 and 6 of these regulations, regulations 45B and 45D of the principal regulations, as they were immediately before the commencement of these regulations, continue to apply in relation to a vessel registered with the department in the year ending 30 June 1992, until that vessel’s registration expires or is renewed.
 (2) Notwithstanding regulation 5 of these regulations, regulation 45BAA of the principal regulations, as it was immediately before the commencement of these regulations, continues to apply in relation to a foreign pleasure vessel registered with the department in the year ending 30 June 1992, until that foreign pleasure vessel’s registration expires or is renewed.
 ”.
-Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
