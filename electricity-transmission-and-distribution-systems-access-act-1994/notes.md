@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity Transmission and Distribution Systems (Access) Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 August 2006 of the Electricity Transmission and Distribution Systems (Access) Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electricity Corporation Act 1994 | 86 of 1994 | 15 Dec 1994 | Act other than s. 90, 91 and 93: 1 Jan 1995 (see s. 2(1) and Gazette 23 Dec 1994 p. 7069); s. 90 and 93: 1 Jan 1997 (see s. 2(2) and Gazette 31 Dec 1996 p. 7255); s. 91: 1 Jul 1997 (see s. 2(2) and Gazette 1 Jul 1997 p. 3249)
@@ -7,46 +7,28 @@ State Enterprises (Commonwealth Tax Equivalents) Act 1996 s. 10(3) | 55 of 1996 
 Statutes (Repeals and Minor Amendments) Act 1997 s. 52 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 32 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
 Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 76 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
-Gas Corporation (Business Disposal) Act 1999 s. 45 and 87 | 58 of 1999 | 24 Dec 1999 | s. 45: 24 Dec 1999 (see s. 2(1)); s. 87 deemed operative immediately before a distribution licence is granted i.e. 1 Jul 2000 (see s. 2(2) and Gazette 4 Jul 2000 p. 3545)
+Gas Corporation (Business Disposal) Act 1999 s. 45 and 87 | 58 of 1999 | 24 Dec 1999 | s. 45: 24 Dec 1999 (see s. 2(1)); s. 87: 1 Jul 2000 (see s. 2(2) and Gazette 4 Jul 2000 p. 3545)
 Reprint of the Electricity Corporation Act 1994 as at 4 Jan 2000 (includes amendments listed above except those in the Gas Corporation (Business Disposal) Act 1999 s. 87)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 14 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 42 | 43 of 2000 | 2 Nov 2000 | 17 Feb 2001 (see s. 2(1) and Gazette 16 Feb 2001 p. 903)
 Corporations (Consequential Amendments) Act 2001 Pt. 22 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Labour Relations Reform Act 2002 s. 27 | 20 of 2002 | 8 Jul 2002 | 15 Sep 2002 (see s. 2(1) and Gazette 6 Sep 2002 p. 4487)
-Electricity Corporation (Act Amendment) Regulations 2002 (see Gazette 1 Nov 2002 p. 5375-87) | 1 Nov 2002
+Electricity Corporation (Act Amendment) Regulations 2002 published in Gazette 1 Nov 2002 p. 5375-87 | 1 Nov 2002
 Reprint 2: The Electricity Corporation Act 1994 as at 3 Jan 2003 (includes amendments listed above)
-Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 4 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth Gazette 24 Oct 2001 (No. GN42)
+Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 4 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth Gazette 24 Oct 2001 No. GN42)
 Acts Amendment (Equality of Status) Act 2003 Pt. 18 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 57 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
-Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 (see Gazette 15 Aug 2003 p. 3685-92) | 15 Sep 2003 (see r. 2)
+Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
 Energy Legislation Amendment Act 2003 s. 102-108, 109(1)-(3) and 110(1)-(3) | 53 of 2003 | 8 Oct 2003 | 8 Oct 2003 (see s. 2(1) and (2))
 Statutes (Repeals and Minor Amendments) Act 2003 s. 49 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Electricity Legislation Amendment Act 2004 Pt. 2 Div. 2 | 33 of 2004 | 20 Oct 2004 | 24 Nov 2004 (see s. 2 and Gazette 23 Nov 2004 p. 5243)
-Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Electricity Corporations Act 2005 s. 139 (Sch. 5 cl. 7-22) | 18 of 2005 | 13 Oct 2005 | Sch. 5 (other than cl. 21(2)(a)(ii)): 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
+Reprint 3: The Electricity Transmission and Distribution Systems (Access) Act 1994 as at 4 Aug 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Energy Legislation Amendment Act 2003 s. 109(4)-(5), 110(4) and 111 | 53 of 2003 | 8 Oct 2003 | To be proclaimed (see s. 2(1) and (2))
 Electricity Corporations Act 2005 Sch. 5 cl. 21(2)(a)(ii) | 18 of 2005 | 13 Oct 2005 | To be proclaimed (see s. 2(2))
-The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
-“
-2.Commencement
-(1) If this Act receives the Royal Assent before the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act comes into operation at the same time as that Schedule comes into operation.
-(2) If this Act receives the Royal Assent on or after the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act is deemed to have come into operation at the same time as that Schedule comes into operation.
-3.Interpretation
-In this Part —
-“Financial Services Reform Act” means the Financial Services Reform Act 2001 of the Commonwealth;
-“FSR commencement time” means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
-“statutory rule” means a regulation, rule or by-law.
-4.Validation
-(1) This section applies if this Act comes into operation under section 2(2).
-(2) Anything done or omitted to have been done after the FSR commencement time and before this Act receives the Royal Assent that could have been done if this Act had received the Royal Assent before the FSR commencement time is taken to be as valid and lawful, and to always have been as valid and lawful, as it would have been if this Act had received the Royal Assent before the FSR commencement time.
-(3) Anything done or omitted to have been done by a person after the FSR commencement time and before this Act received the Royal Assent that would have been valid and lawful if the Financial Services Reform Act had not commenced, is taken to be valid and lawful.
-(4) Anything done or omitted to have been done after the FSR commencement time and before this Act receives the Royal Assent —
-(a) that could only have been validly and lawfully done or omitted because this Act received the Royal Assent after the FSR commencement time; and
-(b) that could not have been validly and lawfully done or omitted if this Act had received the Royal Assent before the FSR commencement time,
-is taken not to be valid, and to never have been valid.
-”.
 The Energy Corporations (Transitional and Consequential Provisions) Act 1994 Pt. 3 (as amended by the Electricity Corporations Act 2005 s. 139) reads as follows:
 “
 Part 3 — Transitional provisions for succession from Commission to New Corporations
@@ -72,7 +54,7 @@ Division 2 — Devolution of Commission’s assets and liabilities etc
 (1) As soon as is practicable after this section comes into force the Minister is to make and publish in the Gazette an order specifying —
 (a) how assets, rights and liabilities of the Commission are to be allocated to the Electricity Corporation and the Gas Corporation; and
 (b) any proceedings in which the Electricity Corporation or the Gas Corporation is to be, or both of those corporations are to be, substituted for the Commission as a party or parties.
-(2) An allocation under subsection (1) (a) may be made to —
+(2) An allocation under subsection (1)(a) may be made to —
 (a) the Electricity Corporation;
 (b) the Gas Corporation; or
 (c) both of those corporations either jointly or as tenants in common in equal or unequal shares.
@@ -92,7 +74,7 @@ Division 2 — Devolution of Commission’s assets and liabilities etc
 (a) the assets and rights of the Commission allocated to the Electricity Corporation by the transfer order vest in that corporation by force of this section;
 (b) the liabilities of the Commission (including a share of a liability) allocated to the Electricity Corporation by the transfer order become, by force of this section, the liabilities of that corporation;
 (c) subject to section 49, any agreement or instrument relating to the assets, rights and liabilities referred to in paragraphs (a) and (b) has effect, by force of this section, as if the Electricity Corporation were substituted for the Commission in the agreement or instrument;
-(d) the Electricity Corporation is a party to any proceedings by or against the Commission commenced before the commencement day in accordance with any provision of the transfer order to that effect made under section 44(1) (b);
+(d) the Electricity Corporation is a party to any proceedings by or against the Commission commenced before the commencement day in accordance with any provision of the transfer order to that effect made under section 44(1)(b);
 (e) any proceedings or remedy that might have been commenced by or available against or to the Commission in relation to the assets, rights and liabilities referred to in paragraphs (a) and (b), may be commenced and are available, by or against or to the Electricity Corporation;
 (f) any act, matter or thing done or omitted to be done in relation to the assets, rights and liabilities referred to in paragraphs (a) and (b) before the commencement day by, to or in respect of the Commission (to the extent that that act, matter or thing has any force or effect) is to be taken to have been done or omitted by, to or in respect of the Electricity Corporation;
 (g) the Commission is to deliver to the Electricity Corporation all registers, papers, documents, minutes, receipts, books of account and other records (however compiled, recorded or stored) relating to —
@@ -106,7 +88,7 @@ and
 (a) the assets and rights of the Commission allocated to the Gas Corporation by the transfer order vest in that corporation by force of this section;
 (b) the liabilities of the Commission (including a share of a liability) allocated to the Gas Corporation by the transfer order become, by force of this section, the liabilities of that corporation;
 (c) subject to section 49, any agreement or instrument relating to the assets, rights and liabilities referred to in paragraphs (a) and (b) has effect, by force of this section, as if the Gas Corporation were substituted for the Commission in the agreement or instrument;
-(d) the Gas Corporation is a party to any proceedings by or against the Commission commenced before the commencement day in accordance with any provision of the transfer order to that effect made under section 44(1) (b);
+(d) the Gas Corporation is a party to any proceedings by or against the Commission commenced before the commencement day in accordance with any provision of the transfer order to that effect made under section 44(1)(b);
 (e) any proceedings or remedy that might have been commenced by or available against or to the Commission in relation to the assets, rights and liabilities referred to in paragraphs (a) and (b), may be commenced and are available, by or against or to the Gas Corporation;
 (f) any act, matter or thing done or omitted to be done in relation to the assets, rights and liabilities referred to in paragraphs (a) and (b) before the commencement day by, to or in respect of the Commission (to the extent that that act, matter or thing has any force or effect) is to be taken to have been done or omitted by, to or in respect of the Gas Corporation;
 (g) the Commission is to deliver to the Gas Corporation all registers, papers, documents, minutes, receipts, books of account and other records (however compiled, recorded or stored) relating to —
@@ -114,14 +96,14 @@ and
 (ii) proceedings referred to in paragraph (d);
 and
 (h) all of the provisions of the transfer order relevant to this section have effect.
-(2) Subsection (1) (c) and (e) has effect subject to any provision of the transfer made under section 44 (3) (b).
+(2) Subsection (1)(c) and (e) has effect subject to any provision of the transfer made under section 44(3)(b).
 47.Transfer of assets and liabilities to both corporations
 On and after the commencement day —
 (a) the assets and rights of the Commission allocated to the corporations jointly by the transfer order vest in those corporations jointly by force of this section;
 (b) the assets and rights of the Commission allocated to the corporations as tenants in common by the transfer order vest in those corporations as tenants in common in the shares specified in the transfer order by force of this section;
 (c) the liabilities of the Commission allocated to the corporations jointly by the transfer order become, by force of this section, the liabilities of those corporations jointly;
 (d) subject to section 49, any agreement or instrument relating to the assets, rights and liabilities referred to in paragraphs (a) and (b) has effect, by force of this section, as if the corporations were substituted for the Commission in the agreement or instrument;
-(e) the corporations jointly are parties to any proceedings by or against the Commission commenced before the commencement day in accordance with any provision of the transfer order to that effect made under section 44(1) (b);
+(e) the corporations jointly are parties to any proceedings by or against the Commission commenced before the commencement day in accordance with any provision of the transfer order to that effect made under section 44(1)(b);
 (f) any proceedings or remedy that might have been commenced by or available against or to the Commission in relation to the assets, rights and liabilities referred to in paragraphs (a), (b) and (c), may be commenced and are available, by or against or to the corporations jointly or severally in accordance with the transfer order;
 (g) any act, matter or thing done or omitted to be done in relation to the assets, rights and liabilities referred to in paragraphs (a), (b) and (c) before the commencement day by, to or in respect of the Commission (to the extent that that act, matter or thing has any force or effect) is to be taken to have been done or omitted by, to or in respect of the corporations jointly or severally in accordance with the transfer order;
 (h) the Commission is to deliver to the Electricity Corporation all registers, papers, documents, minutes, receipts, books of account and other records (however compiled, recorded or stored) relating to —
@@ -184,14 +166,14 @@ as if it were a guarantee of the liabilities of the corporation which have been 
 (2) State tax is not payable in relation to —
 (a) anything that occurs by the operation of this Part; or
 (b) anything done (including a transaction entered into or an instrument or document of any kind made, executed, lodged or given) under this Part, or to give effect to this Part, or for a purpose connected with or arising out of, giving effect to this Part.
-(3) The Treasurer or a person authorized by the Treasurer may, on request by the Electricity Corporation or the Gas Corporation, certify in writing that —
+(3) The Treasurer or a person authorised by the Treasurer may, on request by the Electricity Corporation or the Gas Corporation, certify in writing that —
 (a) a specified thing occurred by the operation of this Part; or
 (b) a specified thing was done under this Part, or to give effect to this Part, or for a purpose connected with or arising out of giving effect to this Part.
 (4) For all purposes and in all proceedings, a certificate under subsection (3) is conclusive evidence of the matters it certifies, except so far as the contrary is shown.
 54.Registration of documents
 (1) The relevant officials are to take notice of the provisions of this Part and are empowered to record and register in the appropriate manner the documents necessary to give effect to this Part.
 (2) Without limiting subsection (1), a statement in an instrument executed by the Electricity Corporation or the Gas Corporation that any estate or interest in land or other property has become vested in it or in the corporations jointly or in specified shares under section 45, 46 or 47 is evidence of that fact.
-(3) In subsection (1) “relevant officials” means the Registrar of Titles, the Registrar of Deeds, the Ministers respectively administering the Land Act 1933 and the Mining Act 1978 and any other person authorized by a written law to record and give effect to the registration of documents relating to transactions affecting any estate or interest in land or any other property.
+(3) In subsection (1) “relevant officials” means the Registrar of Titles, the Registrar of Deeds, the Ministers respectively administering the Land Act 1933 and the Mining Act 1978 and any other person authorised by a written law to record and give effect to the registration of documents relating to transactions affecting any estate or interest in land or any other property.
 55.Saving
 The operation of section 45, 46 or 47 is not to be regarded —
 (a) as a breach of contract or confidence or otherwise as a civil wrong;
@@ -216,12 +198,12 @@ Anything commenced to be done by the Commission under the principal Act before t
 60.Continuing effect of things done
 Any act, matter or thing done or omitted to be done before the commencement day by, to or in respect of the Commission, to the extent that that act, matter or thing —
 (a) has any force; and
-(b) is not governed by section 45 (f), 46 (f) or 47 (g),
+(b) is not governed by section 45(f), 46(f) or 47(g),
 is to be taken to have been done or omitted by, to or in respect of a corporation so far as the act, matter or thing is relevant to that corporation.
 61.Immunity to continue
 Despite Part 2 of this Act, where the Commission had the benefit of any immunity in respect of an act, matter or thing done or omitted before the commencement day, that immunity continues in that respect for the benefit of the corporations.
 62.Agreements and instruments generally
-(1) This section applies to any agreement or instrument subsisting immediately before the commencement day that does not come within the provisions of section 45 (1) (c), 46 (1) (c), 47 (d) or 49.
+(1) This section applies to any agreement or instrument subsisting immediately before the commencement day that does not come within the provisions of section 45(1)(c), 46(1)(c), 47(d) or 49.
 (2) Any agreement or instrument to which this section applies —
 (a) to which the Commission was a party; or
 (b) which contains a reference to the Commission,
@@ -234,8 +216,8 @@ has effect after that day as if —
 63.Commission to perform necessary transitional functions
 (1) Despite the repeal of section 7 of the principal Act by section 8 of this Act, the Commission continues in existence for the purpose of —
 (a) reporting as required by section 58; and
-(b) performing the functions described in sections 44(7), 45(1)(g), 46(1) (g), 47(h), 48(f) and 52.
-(2) The accountable authority, within the meaning in the Financial Administration and Audit Act 1985, also continues in existence for the purpose described in subsection (1) (a).
+(b) performing the functions described in sections 44(7), 45(1)(g), 46(1)(g), 47(h), 48(f) and 52.
+(2) The accountable authority, within the meaning in the Financial Administration and Audit Act 1985, also continues in existence for the purpose described in subsection (1)(a).
 (3) Despite the provisions of the principal Act —
 (a) the members of the Commission immediately before the commencement day cease to hold office on that day;
 (b) the Commission is to be constituted by a person appointed by the Minister; and
@@ -250,7 +232,34 @@ has effect after that day as if —
 (a) to affect, in a manner prejudicial to any person (other than the State, the Electricity Corporation, the Gas Corporation or any authority of the State), the rights of that person existing before the day of its publication; or
 (b) to impose liabilities on any person (other than the State, the Electricity Corporation, the Gas Corporation or any authority of the State), in respect of anything done or omitted to be done before the day of publication.
 ”.
-On the date as at which this compilation was prepared, the Energy Legislation Amendment Act 2003 s. 109(4)-(5), 110(4) and 111 had not come into operation. They read as follows:
+Now known as the Electricity Transmission and Distribution Systems (Access) Act 1994; short title changed (see note under s. 1).
+The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
+“
+2.Commencement
+(1) If this Act receives the Royal Assent before the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act comes into operation at the same time as that Schedule comes into operation.
+(2) If this Act receives the Royal Assent on or after the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act is deemed to have come into operation at the same time as that Schedule comes into operation.
+3.Interpretation
+In this Part —
+“Financial Services Reform Act” means the Financial Services Reform Act 2001 of the Commonwealth;
+“FSR commencement time” means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
+“statutory rule” means a regulation, rule or by-law.
+4.Validation
+(1) This section applies if this Act comes into operation under section 2(2).
+(2) Anything done or omitted to have been done after the FSR commencement time and before this Act receives the Royal Assent that could have been done if this Act had received the Royal Assent before the FSR commencement time is taken to be as valid and lawful, and to always have been as valid and lawful, as it would have been if this Act had received the Royal Assent before the FSR commencement time.
+(3) Anything done or omitted to have been done by a person after the FSR commencement time and before this Act received the Royal Assent that would have been valid and lawful if the Financial Services Reform Act had not commenced, is taken to be valid and lawful.
+(4) Anything done or omitted to have been done after the FSR commencement time and before this Act receives the Royal Assent —
+(a) that could only have been validly and lawfully done or omitted because this Act received the Royal Assent after the FSR commencement time; and
+(b) that could not have been validly and lawfully done or omitted if this Act had received the Royal Assent before the FSR commencement time,
+is taken not to be valid, and to never have been valid.
+”.
+The Electricity Corporations Act 2005 Sch. 5 cl. 22(2)-(4) reads as follows:
+“
+(2) Any procurement of new generation that is in progress under Schedule 7 immediately before its repeal by subclause (1) is to be continued by the Electricity Retail Corporation after the commencement of that subclause as if Schedule 7 clauses 1, 3 and 4 had not been repealed.
+(3) Any act, matter or thing done or omitted to be done before the commencement of subclause (1) by, to or in respect of Western Power Corporation in relation to the procurement of new generation mentioned in that subclause, is to be taken to have been done or omitted by, to or in respect of the Electricity Retail Corporation.
+(4) In subclause (3) —
+“Western Power Corporation” has the meaning given to that term in section 142(1).
+”.
+On the date as at which this reprint was prepared, the Energy Legislation Amendment Act 2003 s. 109(4)-(5), 110(4) and 111 had not come into operation. They have been superseded by the Electricity Corporations Act 2005 and will not be proclaimed. They read as follows:
 “
 109.Schedule 5 amended
 (4) Clause 4(1) is amended by deleting “prepare annually” and inserting instead —
@@ -261,8 +270,6 @@ On the date as at which this compilation was prepared, the Energy Legislation Am
 (3) The corporation may make a reasonable charge in respect of the cost of complying with the request.
 (4) Subject to payment of the charge referred to in subclause (3), the corporation must comply with a request under subclause (2) within the prescribed number of days after the request is made.
 ”.
-”.
-“
 110.Schedule 6 amended
 (4) Clause 4 is repealed and the following clause is inserted instead —
 “
@@ -275,18 +282,10 @@ On the date as at which this compilation was prepared, the Energy Legislation Am
 Schedule 7 clause 2(1) is amended by deleting “prepare annually” and inserting instead —
 “ , not later than the prescribed day in each year, prepare ”.
 ”.
-The Electricity Corporations Act 2005 Sch. 5 cl. 22(2)-(4) reads as follows:
-“
-(2) Any procurement of new generation that is in progress under Schedule 7 immediately before its repeal by subclause (1) is to be continued by the Electricity Retail Corporation after the commencement of that subclause as if Schedule 7 clauses 1, 3 and 4 had not been repealed.
-(3) Any act, matter or thing done or omitted to be done before the commencement of subclause (1) by, to or in respect of Western Power Corporation in relation to the procurement of new generation mentioned in that subclause, is to be taken to have been done or omitted by, to or in respect of the Electricity Retail Corporation.
-(4) In subclause (3) —
-“Western Power Corporation” has the meaning given to that term in section 142(1).
-”.
-On the date as at which this compilation was prepared, the Electricity Corporations Act 2005 Sch. 5 cl. 21(2)(a)(ii) had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Electricity Corporations Act 2005 Sch. 5 cl. 21(2)(a)(ii) had not come into operation. As the effect of the provision is unclear, it will not be proclaimed. It reads as follows:
 “
 21.Schedule 6 amended
 (2) Clause 1 is amended as follows:
 (a) in the definition of “new capacity” —
 (ii) by deleting “electricity distribution”;
 ”.
-Now know as the Electricity Transmission and Distribution Systems (Access) Act 1994; short title changed (see note under s. 1).
