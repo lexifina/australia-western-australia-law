@@ -16,5 +16,5 @@ B (in kW)is the contract maximum demand for the distribution connection.
 (d) the corporation must calculate the loss factor for the distribution connection by applying the following formula:
 where —
 A (in kW)is the loss increase or decrease calculated for the distribution connection under step (c);
-B (in kW)is the declared sent out capacity for the distribution connection.
-[Schedule 4 amended in Gazette 31 Dec 1998 pp.7403-4; 31 Mar 2006 p. 1316.]
+B (in kW)is the declared sent-out capacity for the distribution connection.
+[Schedule 4 amended in Gazette 31 Dec 1998 p. 7403-4; 31 Mar 2006 p. 1316.]
