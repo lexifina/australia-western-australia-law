@@ -1,5 +1,5 @@
 ## Schedule 3 — Purposes for which, or matters about which, regulations may be made
-[s.59J]
+[s. 59J]
 1.The membership of the Board and the manner in which the membership is to be determined.
 2.The appointment of a chairperson and deputy chairperson of the Board.
 3.The term of office of members of the Board and the circumstances in which a member of the Board may be removed from office.
@@ -28,4 +28,4 @@
 11.Standards to be observed in, or in connection with, the carrying out of plumbing work.
 12.The appointment or authorisation of persons to inspect plumbing work and investigate complaints in respect of plumbing work, and their powers, including powers of entry, for the purposes of such inspection or investigation.
 13.Fees to be paid for or in connection with matters provided for in the regulations, other than for bringing matters before the State Administrative Tribunal, and the persons liable to pay those fees.
-[Schedule 3 inserted by No. 39 of 1999 s.10; amended by No. 55 of 2004 s. 1304.]
+[Schedule 3 inserted by No. 39 of 1999 s. 10; amended by No. 55 of 2004 s. 1304.]
