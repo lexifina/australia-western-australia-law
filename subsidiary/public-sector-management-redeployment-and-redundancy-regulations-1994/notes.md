@@ -11,3 +11,4 @@ Reprint of the Public Sector Management (Redeployment and Redundancy) Regulation
 Public Sector Management (Redeployment and Redundancy) Amendment Regulations 2002 | 19 Apr 2002 p. 2117-18 | 19 Apr 2002
 Public Sector Management (Redeployment and Redundancy) Amendment Regulations 2003 | 16 May 2003 p. 1703 | 16 May 2003
 Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 15 | 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
+Public Sector Management (Redeployment and Redundancy) Amendment Regulations 2006 | 8 Aug 2006 p. 2903-5 | 8 Aug 2006
