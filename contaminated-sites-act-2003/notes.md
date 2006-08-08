@@ -6,7 +6,7 @@ Contaminated Sites Act 2003 s. 1 and 2 | 60 of 2003 | 7 Nov 2003 | 7 Nov 2003
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Contaminated Sites Act 2003 s. 3-10, Pt. 2-10 and Sch. 1-3 | 60 of 2003 (as amended by No. 59 of 2004 s. 141; No. 84 of 2004 s. 80; No. 38 of 2005 s. 15 which gives effect to Sch. 2 and No. 40 of 2005 s. 4-13) | 7 Nov 2003 | To be proclaimed (see s. 2)
+Contaminated Sites Act 2003 s. 3-10, Pt. 2-10 and Sch. 1-3 | 60 of 2003 (as amended by No. 59 of 2004 s. 141; No. 84 of 2004 s. 80; No. 38 of 2005 s. 15 which gives effect to Sch. 2 and No. 40 of 2005 s. 4-13) | 7 Nov 2003 | 1 Dec 2006 (see s. 2 and Gazette 8 Aug 2006 p. 2899)
 On the date as at which this compilation was prepared, the Contaminated Sites Act 2003 s. 3-10, Pt. 2-10 and Sch. 1-3 (as amended by the Courts Legislation Amendment and Repeal Act 2004 s. 141; the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80; the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 and the Contaminated Sites Amendment Act 2005 s. 4-13)had not come into operation. They read as follows:
 “
 3.Interpretation
