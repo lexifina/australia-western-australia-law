@@ -1,5 +1,6 @@
 ## Schedule 1 — Forms
 [r. 3 and 4]
+[Heading inserted in Gazette 30 Jan 2001 p. 619.]
 Form No. 1
 Western Australia
 Motor Vehicle Drivers Instructors Act 1963
@@ -70,7 +71,7 @@ The names furnished should be those of persons resident in Western Australia and
 10.Have you ever, in Western Australia or elsewhere, been convicted of — |  | (a), (b) and (c) must each be answered “Yes” or “No”.
 (a)Drunkenness? ......................... (b)Driving a motor vehicle whilst under the influence of intoxicating liquor? ................ (c)ANY OTHER OFFENCE? .... | (a) ................... (b) ................... (c) ................... | If the answer is “Yes” to (a) or (b) or (c) particulars of every case as well as the courts and dates must be stated below.
 ........................................................................................................................ ........................................................................................................................
-[Form 1 amended in Gazette 30 Jun 2003 p. 2618.]
+[Form 1 amended in Gazette 5 Sep 1968 p. 2685; 28 Jun 1973 p. 2451; 30 May 1975 p. 1605; 9 Jul 1976 p. 2368; 2 Feb 1982 p. 397; 24 May 1985 p. 1764; 10 Aug 1990 p. 3906; 20 Sep 1991 p. 4943; 27 Apr 2001 p. 2205-6; 30 Jun 2003 p. 2618.]
 Form No. 2
 Western Australia
 Motor Vehicle Drivers Instructors Act 1963
@@ -93,4 +94,5 @@ Fee $22.60 (one year).
 ..........................................................
 Director General
 * Delete whichever inapplicable.
-[Schedule 1, formerly Schedule, amended in Gazette 5 Sep 1968 p. 2685; 28 Jun 1973 p. 2451; 30 May 1975 p. 1604; 9 Jul 1976 p. 2368; 16 Feb 1979 p. 426; 18 Dec 1981 p. 5193; 2 Feb 1982 p. 397; 26 Mar 1982 p. 1073; 20 Aug 1982 p. 3269; 24 May 1985 p. 1764; 26 Sep 1986 p. 3689; 8 Sep 1989 p. 3174; 10 Aug 1990 p. 3906; 7 Sep 1990 p. 4700; 20 Sep 1991 p. 4943; 24 May 1996 p. 2170; 31 Jan 1997 p. 674; 13 May 1997 p. 2344; 12 May 1998 p. 2797; renumbered as Schedule 1 in Gazette 30 Jan 2001 p. 619; amended in Gazette 27 Apr 2001 p. 2205-6; 30 Jun 2003 p. 2618.]
+[Form 2 inserted in Gazette 9 Jul 1976 p. 2368; amended in Gazette 16 Feb 1979 p. 426; 18 Dec 1981 p. 5193; 2 Feb 1982 p. 397; 20 Aug 1982 p. 3269; 26 Sep 1986 p. 3689; 8 Sep 1989 p. 3174; 7 Sep 1990 p. 4700; 24 May 1996 p. 2170; 31 Jan 1997 p. 674; 13 May 1997 p. 2344; 12 May 1998 p. 2797.]
+[Form No. 3 deleted in Gazette 9 Jul 1976 p. 2368.]
