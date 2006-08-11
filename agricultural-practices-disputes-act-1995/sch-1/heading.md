@@ -1,3 +1,2 @@
 ## Schedule 1
 [Section 7]
-THE BOARD, AND ITS PROCEEDINGS
