@@ -1,17 +1,17 @@
 Notes
-This is a compilation of the Motor Vehicle Drivers Instructors Regulations 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 August 2006 of the Motor Vehicle Drivers Instructors Regulations 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Motor Vehicle Drivers Instructors Regulations 1964 | 10 Mar 1964 p. 1025-9 | 10 Mar 1964
- | 5 Apr 1965 p. 985 | 5 Apr 1965
- | 5 Sep 1968 p. 2685 | 5 Sep 1968
- | 9 Feb 1970 p. 369 | 9 Feb 1970
- | 28 Jun 1973 p. 2451 | 1 Jul 1973
- | 30 May 1975 p. 1604-5 | 1 Jun 1975
- | 9 Jul 1976 p. 2367-8 | 9 Jul 1976
- | 29 Oct 1976 p. 4120 | 29 Oct 1976
- | 30 Jun 1978 p. 2142 | 30 Jun 1978
- | 16 Feb 1979 p. 426 | 16 Feb 1979
+Untitled regulations | 5 Apr 1965 p. 985 | 5 Apr 1965
+Untitled regulations | 5 Sep 1968 p. 2685 | 5 Sep 1968
+Untitled regulations | 9 Feb 1970 p. 369 | 9 Feb 1970
+Untitled regulations | 28 Jun 1973 p. 2451 | 1 Jul 1973
+Untitled regulations | 30 May 1975 p. 1604-5 | 1 Jun 1975
+Untitled regulations | 9 Jul 1976 p. 2367-8 | 9 Jul 1976
+Untitled regulations | 29 Oct 1976 p. 4120 | 29 Oct 1976
+Untitled regulations | 30 Jun 1978 p. 2142 | 30 Jun 1978
+Untitled regulations | 16 Feb 1979 p. 426 | 16 Feb 1979
 Reprint of the Motor Vehicle Drivers Instructors Regulations 1964 dated 21 May 1979 in Gazette 24 May 1979 p. 1369-76 (includes amendments listed above except those in Gazette 16 Feb 1979 p. 426)
 Motor Vehicle Drivers Instructors Amendment Regulations 1981 | 18 Dec 1981 p. 5193 | 18 Dec 1981
 Motor Vehicle Drivers Instructors Amendment Regulations 1982 | 2 Feb 1982 p. 397 | 2 Feb 1982 (see r. 2)
@@ -44,9 +44,11 @@ Motor Vehicle Drivers Instructors Amendment Regulations (No. 3) 2004 | 30 Dec 20
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2005 | 27 May 2005 p. 2304 | 1 Jul 2005 (see r. 2)
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 4) 2006 | 23 Jun 2006 p. 2222-3 | 1 Jul 2006 (see r. 2)
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 3) 2006 | 11 Jul 2006 p. 2545-6 | 11 Jul 2006
-Under the Alteration of Statutory Designations Order (No. 3) 2001 the name of the former Education Department of Western Australia was changed to the Department of Education.
+Reprint 4: The Motor Vehicle Drivers Instructors Regulations 1964 as at 11 Aug 2006 (includes amendments listed above)
+Under the Alteration of Statutory Designations Order 2003 the name of the former Education Department of Western Australia was changed to the Department of Education and Training.
+Now superseded by the Public Transport Authority of Western Australia.
 Now superseded by the Fire and Emergency Services Authority of Western Australia.
-These regulations were purportedly repealed by the Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 1982 (published in Gazette 26 Mar 1982 p. 1073).
+These regulations were repealed by the Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 1982 (published in Gazette 26 Mar 1982 p. 1073).
 The Motor Vehicles Instructors Amendment Regulations 1996 r. 6 reads as follows:
 “
 6.Transitional
@@ -81,7 +83,7 @@ In this Schedule —
 (b)is a person of good character;
 (c)is a fit and proper person to act as a driving instructor;
 (d)is competent to teach persons to drive motor vehicles of the class in respect of which the application is made; and
-(e)is the holder of a current and valid licence under the Road Traffic Act 1974, to drive motor vehicles of the class in respect of which the application is made, whether in this State or elsewhere, for a continuous period of not less than three years or such other period as the Director General may approve in a particular case, before the application was made.
+(e)is the holder of a current and valid licence under the Road Traffic Act 1974, to drive motor vehicles of the class in respect of which the application is made, whether in this State or elsewhere, for a continuous period of not less than 3 years or such other period as the Director General may approve in a particular case, before the application was made.
 Schedule 2 — Table of motor vehicle classes
 [r. 9]
 Column 1 | Column 2
