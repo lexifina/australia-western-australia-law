@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Edith Cowan University Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 August 2006 of the Edith Cowan University Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Western Australian College of Advanced Education Act 1984 | 18 of 1984 | 31 May 1984 | 1 Sep 1984 (see s. 2 and Gazette 24 Aug 1984 p. 2567)
@@ -25,24 +25,23 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 46 | 74 of 2003 | 15 Dec 200
 Reprint 3: The Edith Cowan University Act 1984 as at 20 Aug 2004 (includes amendments listed above)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Universities Legislation Amendment Act 2005 Pt. 3 | 8 of 2005 | 7 Jul 2005 | 13 Aug 2005 (see s. 2 and Gazette 12 Aug 2005 p. 3651)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 4: The Edith Cowan University Act 1984 as at 11 Aug 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 40 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Repealed by the School Education Act 1999.
 Under the Teacher Education Act 1972 s. 57, the appointed day was 26 November 1973. See Gazette 23 November 1973 p. 4266. The Act was repealed by the Colleges Act 1978 s. 5.
 Repealed by the Vocational Education and Training Act 1996.
-Referred to and printed incorrectly in the Statutes (Repeals and Minor Amendments) Act 2003 as the Statutes (Repeals and Minor Amendments) Act 2001. The reference was changed under the Reprints Act 1984 s. 7(5)(b)(v) and s. 7(5)(c)(i).
-Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
-Repealed by the State Superannuation Act 2000.
+Repealed by the State Superannuation Act 2000 (see also endnote 12).
 Now known as the Edith Cowan University Act 1984; short title changed (see note under s. 1).
 The Acts Amendment (Educational Institutions Superannuation) Act 1985 s. 14 and 15 read as follows:
 “
 14.Rights of contributors to The Superannuation Fund and the Western Australian Post Secondary Education Superannuation Scheme
 (1) Notwithstanding section 13, where a member of the staff of the University was, immediately before the coming into operation of that section —
-(a)a contributor for pension, superannuation or benefits under an agreement entered into by the Council under section 35 of the Colleges Act as incorporated by section 34 of the principal Act as in force before the coming into operation of section 13, he shall be entitled to continue to be such a contributor and to retain his accrued rights under the Superannuation and Family Benefits Act 1938; or
-(b)a member of the Western Australian Post Secondary Education Superannuation Scheme established under section 36 of the Colleges Act as incorporated by section 34 of the principal Act as in force before the coming into operation of section 13, he shall be entitled to continue to be such a member and to retain his accrued rights under that superannuation scheme.
+(a) a contributor for pension, superannuation or benefits under an agreement entered into by the Council under section 35 of the Colleges Act as incorporated by section 34 of the principal Act as in force before the coming into operation of section 13, he shall be entitled to continue to be such a contributor and to retain his accrued rights under the Superannuation and Family Benefits Act 1938; or
+(b) a member of the Western Australian Post Secondary Education Superannuation Scheme established under section 36 of the Colleges Act as incorporated by section 34 of the principal Act as in force before the coming into operation of section 13, he shall be entitled to continue to be such a member and to retain his accrued rights under that superannuation scheme.
 15.Rights and liabilities of the Council not affected
 Nothing in section 13 affects any rights or liabilities of the Council under an agreement entered into by the Council under section 35 of the Colleges Act as incorporated by section 34 of the principal Act as in force before the coming into operation of section 13.
 ”.
@@ -53,6 +52,15 @@ The Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 30(2) reads as f
 The Statutes (Repeals and Minor Amendments) Act 2003 s. 46(5) reads as follows:
 “
 (5) A person holding office as the chairperson or a member of the Bunbury Campus Advisory Board immediately before the commencement day continues to hold office on and after that day, subject to the Statute of the University under which the person was appointed, as the chairperson or a member of the ECU South West Campus (Bunbury) Advisory Board, as the case requires, for the remainder of the period for which he or she was appointed to the Bunbury Campus Advisory Board.
+”.
+The Universities Legislation Amendment Act 2005 s. 16 reads as follows:
+“
+16.Transitional provision
+(1) In this section —
+“commencement day” means the day on which the Universities Legislation Amendment Act 2005 comes into operation;
+“deleted section 9(1)(g) or (h)” means the Edith Cowan University Act 1984 section 9(1)(g) or (h) as those provisions were in effect immediately before commencement day;
+“member” means a member of the Council of the Edith Cowan University.
+(2) The persons who, immediately before commencement day, were members under deleted section 9(1)(g) or (h) cease to be members on commencement day.
 ”.
 On the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 40 had not come into operation. It reads as follows:
 “
@@ -65,13 +73,4 @@ The Edith Cowan University Act 1984 is amended as follows:
 “
 Member of a superannuation scheme continued by section 29(c) or (d) of the State Superannuation Act 2000.
 ”.
-”.
-The Universities Legislation Amendment Act 2005 s. 16 reads as follows:
-“
-16.Transitional provision
-(1) In this section —
-“commencement day” means the day on which the Universities Legislation Amendment Act 2005 comes into operation;
-“deleted section 9(1)(g) or (h)” means the Edith Cowan University Act 1984 section 9(1)(g) or (h) as those provisions were in effect immediately before commencement day;
-“member” means a member of the Council of the Edith Cowan University.
-(2) The persons who, immediately before commencement day, were members under deleted section 9(1)(g) or (h) cease to be members on commencement day.
 ”.
