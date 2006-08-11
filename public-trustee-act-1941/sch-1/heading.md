@@ -9,7 +9,7 @@ Number of Act | Title of Act | Extent of Amendment or Repeal
  |  | In s. 126: — Delete the words “and insane patient” in lines 3 and 4; delete the words “and patients” in line 7; delete the words “or the insane patient dies or is discharged from the hospital or other place in which he is detained” in lines 9 and 10.
  |  | In s. 127: — Delete the words “or patient” in lines 10 and 11.
  |  | In s. 129: — Delete the words “or patients” in line 6. Sections 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, and 146 are repealed.
- |  | In s. 183: — Insert in sub-section (1) par. (a) the words “and to the Public Trustee” after the word “Master” in the first line.
+ |  | In s. 183: — Insert in subsection (1) par. (a) the words “and to the Public Trustee” after the word “Master” in the first line.
 18 Geo. V 13 | Mental Treatment Act 1927 (No. 13) | In s. 6: — Delete the words “the Official Trustee Act, 1921” in lines 5 and 6 and substitute “The Public Trustee Act 1941”.
 7 Geo. V 29 | Mental Treatment Act 1917 (No. 9), as amended by the Mental Treatment Act Amendment Act 1919 (No. 16) | In s. 3: — Insert the words “and the Public Trustee Act 1941,” after the words “Lunacy Act, 1903,” in line 7; delete the words “that Act” in line 8 and substitute the words “those Acts”. Repeal the whole of subsection (2).
 3 Edw. VII 13 | Administration Act 1903 (No. 13) | Section 22 is repealed.
