@@ -3,15 +3,15 @@
 Group A
 Aldrin Chlordane Chlordecone Dieldrin | Endosulfan Endrin Heptachlor Isobenzan
 Group B
-BHC and its isomers DDT (including DDD and DDE) 1,1-Dichloro-2,2-bis-(4-ethylphenyl) ethane | Dicofol Fenarimol Lindane Methoxychlor Quintozene
+BHC and its isomers DDT (including DDD and DDE) | Dicofol Fenarimol Lindane Methoxychlor Quintozene
 Group C
 Camphechlor
 Chlorinated terpene isomers
 Group D
-Azamethiphos Azinphos-ethyl Azinphos-methyl Bromophos-ethyl Carbophenothion Chlorfenvinphos Chlorpyriphos Chlorpyriphos-methyl Chlorthiophos Coumaphos Crotoxyphos Demeton Diazinon Dichlorvos Dimethoate Dioxathion Disulfoton Dithianon | Ethion Ethoprophos Famphur Fenamiphos Fenchlorphos Fenitrothion Fensulfothion Fenthion Formetanate Formothion Isocarbophos Leptophos Maldison Menazon Methamidophos Methidathion Mevinphos Monocrotophos
+Azamethiphos Azinphos-ethyl Azinphos-methyl Bromophos-ethyl Carbophenothion Chlorfenvinphos Chlorpyriphos Chlorpyriphos-methyl Chlorthiophos Coumaphos Crotoxyphos Demeton Diazinon Dichlorvos Dimethoate Dioxathion Disulfoton Dithianon | Ethion Ethoprophos Famphur Fenamiphos Fenchlorphos Fenitrothion Fensulfothion Fenthion Formothion Isocarbophos Leptophos Maldison Menazon Methamidophos Methidathion Mevinphos Monocrotophos
 Naled Naphthalophos Omethoate Parathion Parathion-methyl Phenkapton Phorate Phosalone Phosmet Phosphamidon Pirimiphos-ethyl | Pirimiphos-methyl Prothiophos Pyrazophos Schradan Sulprofos Temephos Tetrachlorvinphos Thiometon Tributylphosphorotrithioate Trichlorfon Vamidothion
 Group E
-1,2-bis (Dimethyldithio-carbamoyl-dithio (thiocarbonyl) amino) ethylene Ferbam Mancozeb | Maneb Metiram Propineb Thiram Zineb Ziram
+Dithiocarbamates (including — ferbam mancozeb maneb | propineb thiram zineb ziram) Formetanate
 Group F
 4-CPA 2,4-D Diclofop-methyl MCPA | MCPB Picloram 2,4,5-T
 Group G
@@ -23,10 +23,7 @@ Cambendazole
 Parbendazole
 Thiabendazole
 Group J
-Benomyl
-Carbendazim
-Thiophanate
-Thiophanate-methyl
+Carbendazim (including — benomyl thiophanate thiophanate-methyl)
 Group K
 Dinoseb
 DNOC
@@ -60,4 +57,4 @@ Group T
 Etridiazole
 Triadimefon
 Triazbutil
-[Schedule 3 inserted in Gazette 11 Jun 1996 p. 2489-91.]
+[Schedule 3 inserted in Gazette 11 Jun 1996 p. 2489-91; amended in Gazette 11 Aug 2006 p. 2979-80.]]

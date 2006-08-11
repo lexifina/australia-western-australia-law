@@ -21,3 +21,4 @@ Stone fruits | Apricots, Cherries, Nectarines, Peaches, Plums
 Tree nuts | Almond, Brazil, Cashew, Chestnuts, Hazel, Litchi, Macadamia, Pecan, Pistachio, Walnuts
 Vegetables | Alliums, Berry vegetables, Cucurbits, Leafy vegetables, Root vegetables, Seed and pod vegetables, Stalk vegetables
 [Schedule 1 inserted in Gazette 11 Jun 1996 p. 2432-4.]
+[Schedule 2 repealed in Gazette 11 Aug 2006 p. 2979.]
