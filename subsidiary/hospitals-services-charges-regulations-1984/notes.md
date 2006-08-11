@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Hospitals (Services Charges) Regulations 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 August 2006 of the Hospitals (Services Charges) Regulations 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Hospitals (Services Charges) Regulations 1984 | 27 Jan 1984 p. 231-4 | 1 Feb 1984 (see r. 2)
@@ -95,5 +95,7 @@ Hospitals (Services Charges) Amendment Regulations (No. 3) 2005 | 14 Oct 2005 p.
 Hospitals (Services Charges) Amendment Regulations 2006 | 3 Feb 2006 p. 518 | 3 Feb 2006
 Hospitals (Services Charges) Amendment Regulations (No. 2) 2006 | 4 Apr 2006 p. 1408 | 4 Apr 2006
 Hospitals (Services Charges) Amendment Regulations (No. 3) 2006 | 13 Jun 2006 p. 2062-3 | 1 Jul 2006 (see r. 2)
+Reprint 5: The Hospitals (Services Charges) Regulations 1984 as at 11 Aug 2006 (includes amendments listed above)
+Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with the Interpretation Act 1984 s. 42(1), subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date of 1 September 1990 that was specified in these regulations was before the date of their publication in the Gazette.
