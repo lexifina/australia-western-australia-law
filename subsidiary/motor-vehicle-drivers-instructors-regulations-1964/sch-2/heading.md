@@ -6,7 +6,7 @@
 4.Industries Services Training Pty Ltd
 5.Midland College of TAFE, established under the Vocational Education and Training Act 1996
 6.Arkery Pty Ltd trading as Skill Driving School
-7.Marlies Hobbs and Jenny Duke trading as Achieved by Driving Together
+7.Bencable Pty Ltd trading as Achieve by Driving Together
 8.Driving Improvement Consultancy (Tas) Pty. Ltd.
 9.Crossrange Holdings Pty Ltd trading as Nationwide Transport Training
 10.ETAS (WA) Pty Ltd
@@ -16,4 +16,5 @@
 14.Wodonga College of TAFE (Vic), established under the Vocational Education and Training Act 1990 of Victoria
 15.Transport Industries Skills Centre Incorporated (ACT)
 16.Petya Pty Ltd trading as Drive Safe Australia WA
-[Schedule 2 inserted in Gazette 30 Jan 2001 p. 619-20; amended in Gazette 11 Mar 2003 p. 751.]
+17.Job Drive and Skills Training Incorporated trading as B A Workforce
+[Schedule 2 inserted in Gazette 30 Jan 2001 p. 619-20; amended in Gazette 11 Mar 2003 p. 751; 18 Aug 2006 p. 3371.]

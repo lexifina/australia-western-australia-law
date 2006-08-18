@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 August 2006 of the Motor Vehicle Drivers Instructors Regulations 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Motor Vehicle Drivers Instructors Regulations 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Motor Vehicle Drivers Instructors Regulations 1964 | 10 Mar 1964 p. 1025-9 | 10 Mar 1964
@@ -45,6 +45,7 @@ Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2005 | 27 May 20
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 4) 2006 | 23 Jun 2006 p. 2222-3 | 1 Jul 2006 (see r. 2)
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 3) 2006 | 11 Jul 2006 p. 2545-6 | 11 Jul 2006
 Reprint 4: The Motor Vehicle Drivers Instructors Regulations 1964 as at 11 Aug 2006 (includes amendments listed above)
+Motor Vehicle Drivers Instructors Amendment Regulations 2006 | 18 Aug 2006 p. 3371 | 18 Aug 2006
 Under the Alteration of Statutory Designations Order 2003 the name of the former Education Department of Western Australia was changed to the Department of Education and Training.
 Now superseded by the Public Transport Authority of Western Australia.
 Now superseded by the Fire and Emergency Services Authority of Western Australia.
