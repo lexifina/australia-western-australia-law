@@ -3,13 +3,13 @@
 [Heading inserted in Gazette 24 Feb 2006 p. 884.]
 Form 1
 ................................................................................................................................................................................
-PART C DEFENDANT’S COPY This space for cost register imprintP.149
+PART C DEFENDANT’S COPY This space for cash register imprintP.149
 To be retained
 by Cashier
 OFFICE USE ONLY
 Please do not detach from Part B
-PART B DEFENDANT’S COPYThis space for cost register imprintP.149
-GENERAL TRAFFIC INFRINGEMENT NOTICE Road Traffic Act , Section 102 | DATE OF ISSUE oo / oo / oo | B o
+PART B DEFENDANT’S COPYThis space for cash register imprintP.149
+GENERAL TRAFFIC INFRINGEMENT NOTICE Road Traffic Act, Section 102 | DATE OF ISSUE oo / oo / oo | B o
 SEX o SURNAME oooooooooooooooooooooooooooo
 GIVEN NAMES oooooooooooooooooooooooooooooo
 NUMBER/STREET ooooooooooooooooooooooooooooo
@@ -43,6 +43,7 @@ SIGNATURE _____________________________________________ EXPIRY DATE __________/_
 Reverse of Form
 WHO TO PAY
 (The officer to whom payment may be made is to be specified here.)
+[Form 1 inserted in Gazette 8 Mar 1991 p. 1065.]
 Form 2
 TRAFFIC INFRINGEMENT NOTICE — PHOTOGRAPHIC EVIDENCE
 Road Traffic Act 1974 section 102B
@@ -131,7 +132,7 @@ Offence date: | Offence time:
 Issuing officer: | Rank and No.: | Demerit points:
 PART BIMPORTANT INFORMATION
 1. | The primary purpose of this notice is for you to advise the WA Police who was driving or in charge of the vehicle at the time of the offence alleged in Part A. To do this you may complete and return one of the Divisions of Part F of this notice within 14 days of the specified day (specified at the top of this form) to avoid the modified penalty below.
-2. | If photographic evidence of the offence was enclosed with this notice and you failed to comply with s.102C(3) of the Act within 14 days after the specified day shown above, you commit an offence which may be dealt with in the magistrates court or by paying the modified penalty shown in this Part to the officer specified in Part E within 28 days after the specified day shown above. Please note that there is further information in Part E (overleaf).
+2. | If photographic evidence of the offence was enclosed with this notice and you failed to comply with s.102C(3) of the Act within 14 days after the specified day shown above, you commit an offence which may be dealt with in the Magistrates Court or by paying the modified penalty shown in this Part to the officer specified in Part E within 28 days after the specified day shown above. Please note that there is further information in Part E (overleaf).
 MODIFIED PENALTY: |  | DUE DATE:
 PART CPHOTOGRAPHIC EVIDENCE
 The images below are a representation of the original photographic evidence. Due to the limitations of printing photographs in this format they are not intended or expected to duplicate the quality of the original images.
@@ -173,4 +174,3 @@ PART CPRESCRIBED OFFICER WHO ISSUED THIS NOTICE
 Name: |  | Signature:
  |  | Date:
 [Form 5 inserted in Gazette 23 Dec 2005 p. 6290.]
-[Second Schedule inserted in Gazette 21 December 1990 p. 6288-91; amended in Gazette 8 March 1991 p. 1065; 17 January 1997 p. 441-4; 8 December 1998 p. 6588; 28 Feb 2003 p. 680; 23 Dec 2005 p. 6287-90.]
