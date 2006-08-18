@@ -1,7 +1,9 @@
 ## Second Schedule
 [s. 4, 18.]
 Hire-Purchase Act 1959
+[Heading inserted by No. 107 of 1973 s. 29.]
 ## Advice to hirers
+[Heading inserted by No. 107 of 1973 s. 29.]
 Under the provisions of the Hire-Purchase Act 1959 —
 (a)you and each of your guarantors (if any) are entitled to a copy of the agreement and a statement of the amount that you owe if you make a written request to the owner for them; each of you may not request a copy or a statement more than once in 3 months;
 (b)each of your guarantors (if any) is entitled to a copy of the contract of guarantee if he makes a written request to the owner for it; he may not request a copy more than once in 3 months;
