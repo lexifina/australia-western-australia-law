@@ -1,7 +1,9 @@
 ## Third Schedule
 [s. 13(1).]
 Hire-Purchase Act 1959
+[Heading inserted by No. 107 of 1973 s. 29.]
 ## Notice of intention to repossess
+[Heading inserted by No. 107 of 1973 s. 29.]
 TAKE NOTICE that ..........................................................................................., the owner of*............................................................................................................... hired by ............................................................................................................. under an agreement (insert name of hirer)
 dated the ......................................................... day of .........................................................
 20............., intends to retake possession of the goods after the expiration of † ......... days from the service of this notice on the hirer and every one of his guarantors (if any) unless the arrears of instalments which now amount to $ ..................................................

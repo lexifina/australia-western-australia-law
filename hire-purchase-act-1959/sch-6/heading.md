@@ -1,6 +1,8 @@
 ## Fifth Schedule
 Hire-Purchase Act 1959
+[Heading inserted by No. 107 of 1973 s. 29.]
 ## Formula for calculating percentage rate of terms charges
+[Heading inserted by No. 107 of 1973 s. 29.]
 (1) The rate at which the terms charges accrues upon the principal is that nominal annual percentage rate (correct to within one-half of one per cent) which, when applied to the unpaid balances of the principal calculated according to the actuarial method will yield a sum equal to the total amount of the terms charges.
 (2)(a)In lieu of applying the actuarial method above, where repayment of the principal and terms charges is to be made by equal regular periodic payments, the first of which is to fall due at the end of the first period, then the nominal annual percentage rate referred to in paragraph (1) may be calculated in accordance with the following formulae: —
 (i) to calculate the flat rate of interest per cent:
