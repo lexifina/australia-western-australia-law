@@ -1,6 +1,6 @@
 ## Division 7 — Regulations for operation of retail gas market
 [Heading inserted by No. 53 of 2003 s. 15.]
-### 11ZPI.Regulations for retail gas market
+### 11ZPI. Regulations for retail gas market
 (1) On the recommendation of the Authority, regulations may be made in relation to a distribution system that are necessary or convenient to ensure that the retail gas market that is supplied through that system is regulated and operates in a manner that is —
 (a) open and competitive;
 (b) efficient; and

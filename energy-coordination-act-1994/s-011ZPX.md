@@ -2,7 +2,7 @@
 [Heading inserted by No. 53 of 2003 s. 32.]
 ## Division 1 — Preliminary
 [Heading inserted by No. 53 of 2003 s. 32.]
-### 11ZPX. Definitions
+### 11ZPX. Terms used in this Part and Schedule 2B
 In this Part and in Schedule 2B, unless the contrary intention appears —
 “approved scheme” means a scheme approved under section 11ZPZ;
 “customer” means —

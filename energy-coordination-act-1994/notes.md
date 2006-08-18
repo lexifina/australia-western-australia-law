@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Energy Coordination Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 18 August 2006 of the Energy Coordination Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Energy Coordination Act 1994 | 71 of 1994 | 9 Dec 1994 | 1 Jan 1995 (see s. 2 and Gazette 23 Dec 1994 p. 7069)
@@ -9,7 +9,8 @@ Energy Coordination Amendment Act 1999 | 20 of 1999 | 24 Jun 1999 | 16 Oct 1999 
 Gas Corporation (Business Disposal) Act 1999 s. 47-52, 74, 75 and 109 | 58 of 1999 | 24 Dec 1999 | s. 47-52: 24 Dec 1999 (see s. 2(1)); s. 109: 1 Jan 2000 (see s. 2(7)); s. 74-75: 1 Jul 2000 (see s. 2(2) and Gazette 4 Jul 2000 p. 3545)
 Reprint of the Energy Coordination Act 1994 as at 5 May 2000 (includes amendments listed above except those in the Gas Corporation (Business Disposal) Act 1999 s. 74-75)
 Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
-Energy Legislation Amendment Act 2003 Pt. 2, Pt. 3 Div 1-9 (other than s. 34) and 11, Pt. 4, 5 and 6 Div. 2 & 3 and s. 118 | 53 of 2003 (as amended by No. 55 of 2004 s. 299) | 8 Oct 2003 | Pt. 3 Div. 11, Pt. 4, Pt. 5 and s. 97, 98 and 118: 8 Oct 2003 (see s. 2(1) and (2)); Pt. 2 and Pt. 6 (other than s. 97 and 98): 19 Mar 2004 (see s. 2(2)(a) and (c) and Gazette 19 Mar 2004 p. 913); Pt. 3 Div. 1-2, 4-6 (other than s. 34), 7 and 9: 31 May 2004 (see s. 2(2)(b) and (3) and Gazette 28 May 2004 p. 1827); Pt. 3 Div. 8: 14 May 2005 (see s. 2(2) and Gazette 13 May 2005 p. 2073); Pt. 3 Div. 3: 31 May 2005 (see s. 2(4))
+Energy Legislation Amendment Act 2003 Pt. 2, Pt. 3 Div. 1-9 (other than s. 34) and 11, Pt. 4, 5 and 6 Div. 2 & 3 and s. 118 2-5 | 53 of 2003 (as amended by No. 55 of 2004 s. 299) | 8 Oct 2003 | Pt. 3 Div. 11, Pt. 4, Pt. 5 and s. 97, 98 and 118: 8 Oct 2003 (see s. 2(1) and (2)); Pt. 2 and Pt. 6 (other than s. 97 and 98): 19 Mar 2004 (see s. 2(2)(a) and (c) and Gazette 19 Mar 2004 p. 913); Pt. 3 Div. 1-2, 4-6 (other than s. 34), 7 and 9: 31 May 2004 (see s. 2(2)(b) and (3) and Gazette 28 May 2004 p. 1827);
+ |  |  | Pt. 3 Div. 8: 14 May 2005 (see s. 2(2)(b) and Gazette 13 May 2005 p. 2073); Pt. 3 Div. 3: 31 May 2005 (see s. 2(4))
 Economic Regulation Authority Act 2003 s. 62 (Sch. 2 Div. 4) | 67 of 2003 | 5 Dec 2003 | 19 Mar 2004 (see s. 2(3) and Gazette 19 Mar 2004 p. 914)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 10(3) and 50 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 2: The Energy Coordination Act 1994 as at 10 Sep 2004 (includes amendments listed above except those in the Energy Legislation Amendment Act 2003 Pt. 3 Div. 3 & 8)
@@ -17,8 +18,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 42 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Financial Administration Legislation Amendment Act 2005 s. 39 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 6 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-The Solar Energy Research Act 1977 expired 30 June 1988.
-Formerly referred to the Energy Corporations (Powers) Act 1979 the short title of which was changed to the Energy Operators (Powers) Act 1979 by the Gas Corporation (Business Disposal) Act 1999 s. 78. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Reprint 3: The Energy Coordination Act 1994 as at 18 Aug 2006 (includes amendments listed above)
 The Energy Legislation Amendment Act 2003 Pt. 3 Div. 3 (other than s. 19) reads as follows:
 “
 Part 3 — Amendments to facilitate a contestable retail gas market, and related transitional provisions
@@ -55,7 +55,7 @@ has effect after the commencement day as if —
 (a) to remove the anomaly; and
 (b) to achieve the purpose mentioned in section 18.
 ”.
-The Energy Legislation Amendment Act 2003 s. 19(4) is not included because the section it sought to amend has been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 299 before it purported to come into operation.
+The Energy Legislation Amendment Act 2003 s. 19(4) is not included because the section it sought to replace was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 299 before the subsection came into operation.
 The Energy Legislation Amendment Act 2003 Pt. 3 Div. 11 reads as follows:
 “
 Division 11 — Transitional provisions for this Part

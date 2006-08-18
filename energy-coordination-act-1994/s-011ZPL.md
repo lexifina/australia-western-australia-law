@@ -1,6 +1,6 @@
 ## Part 2C — Code of conduct for marketing of gas to small use customers
 [Heading inserted by No. 53 of 2003 s. 31.]
-### 11ZPL. Definitions
+### 11ZPL. Terms used in this Part
 In this Part —
 “code of conduct” means the code of conduct approved under section 11ZPM;
 “committee” means the committee established under section 11ZPO;

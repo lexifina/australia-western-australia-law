@@ -2,7 +2,7 @@
 [Heading inserted by No. 53 of 2003 s. 15.]
 ## Division 1 — Preliminary
 [Heading inserted by No. 53 of 2003 s. 15.]
-### 11ZOA. Definitions
+### 11ZOA. Terms used in this Part
 In this Part, unless the contrary intention appears —
 “approved” means approved by the Authority under Division 3;
 “contravene” includes fail to comply with;
