@@ -1,11 +1,12 @@
 Notes
-This is a compilation of the Hire-Purchase Act 1959 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 18 August 2006 of the Hire-Purchase Act 1959 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Hire-Purchase Act 1959 | 58 of 1959 | 3 Dec 1959 | 31 Mar 1960 (see s. 1(2) and Gazette 26 Feb 1960 p. 475)
 Reprint of the Hire-Purchase Act 1959 authorised 14 Jan 1963
-Hire-Purchase Act Amendment Act 1973 | 107 of 1973 | 4 Jan 1974 | s. 1, 2, 3 except para. (a), 4 except para. (a)(ii)-(v) and the provision in para. (a)(vii) in respect of the interpretation of “Local Court”, and para. (b), 19, and 28: 1 Apr 1975 (see s. 2 and Gazette 24 Jan 1975 p. 173); balance: 15 Sep 1975 (see s. 2 and Gazette 5 Sep 1975 p. 3184)
-Hire-Purchase Act Amendment Act 1974 | 5 of 1974 | 19 Sep 1974 | Act other than s. 4-7: 19 Sep 1974 (see s. 2(1)); s. 4-7: 1 Apr 1975 (see s. 2(2) & (3) and Gazette 24 Jan 1975 p. 173)
+Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
+Hire-Purchase Act Amendment Act 1973 | 107 of 1973 | 4 Jan 1974 | s. 1-3 except para. (a), 4 except para. (a)(ii)-(v) and the provision in para. (a)(vii) in respect of the interpretation of “Local Court”, and para. (b), 19 and 28: 1 Apr 1975 (see s. 2 and Gazette 24 Jan 1975 p. 173); balance: 15 Sep 1975 (see s. 2 and Gazette 5 Sep 1975 p. 3184)
+Hire-Purchase Act Amendment Act 1974 | 5 of 1974 | 19 Sep 1974 | Act other than s. 4-7: 19 Sep 1974 (see s. 2(1)); s. 4-7: 1 Apr 1975 (see s. 2(2) and (3) and Gazette 24 Jan 1975 p. 173)
 Reprint of the Hire-Purchase Act 1959 approved 3 Dec 1975 (includes amendments listed above)
 Hire-Purchase Act Amendment Act 1976 | 82 of 1976 | 21 Oct 1976 | 13 Dec 1976 (see s. 2 and Gazette 3 Dec 1976 p. 4835)
 Hire-Purchase Amendment Act 1980 | 37 of 1980 | 5 Nov 1980 | 1 Jan 1981 (see s. 2 and Gazette 28 Nov 1980 p. 3998)
@@ -31,25 +32,11 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 61 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 13 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 7: The Hire-Purchase Act 1959 as at 18 Aug 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Footnote no longer applicable.
-The Community Welfare Act 1972 s. 4 established the Department of Community Welfare. The names of the Act and of the department were amended respectively by the Acts Amendment (Department of Community Services) Act 1984 s. 5 and 6(b) to the Community Services Act 1972 and the Department for Community Services. The name of the department was again amended under the Statutes (Repeals and Minor Amendments) Act 1997 s. 34(2) to the Department for Family and Children’s Services and then under the Alteration of Statutory Designations Order (No. 3) 2001 to the Department for Community Development.
-Under the Alteration of Statutory Designations Order (No. 2) 2003, references in any law to the Department of Consumer Affairs are, unless the contrary intention appears, to be read and construed as a reference to the Department of Consumer and Employment Protection.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 24 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-24.Hire Purchase Act 1959
-s. 3(4f) s. 3(4g) s. 3(4h) s. 3(4j) s. 12A(2) s. 12A(3) s. 36A(5) s. 36A(6) s. 36A(7) s. 36A(8) | In each provision delete “a Local Court” and insert instead — “ the Magistrates Court ”.
-”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
@@ -95,4 +82,15 @@ In this Division —
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Part 19 provides general transitional provisions concerning references to Departments and chief executive officers that are amended or repealed by that Act.
+On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+“
+142.Other amendments to various Acts
+Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
+”.
+Schedule 2 cl. 24 reads as follows:
+“
+Schedule 2 — Other amendments to Acts
+24.Hire Purchase Act 1959
+s. 3(4f) s. 3(4g) s. 3(4h) s. 3(4j) s. 12A(2) s. 12A(3) s. 36A(5) s. 36A(6) s. 36A(7) s. 36A(8) | In each provision delete “a Local Court” and insert instead — “ the Magistrates Court ”.
+”.
+The amendments to s. 3, 12A and 36A in the Courts Legislation Amendment and Repeal Act 2004 s. 142 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 61.
