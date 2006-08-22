@@ -48,6 +48,7 @@ Gaming and Wagering Commission Amendment Regulations 2004 | 18 May 2004 p. 1571-
 Gaming and Wagering Commission Amendment Regulations (No. 2) 2004 | 9 Jul 2004 p. 2782-4 | 1 Jan 2005 (see r. 2)
 Reprint 3: The Gaming and Wagering Commission Regulations 1988 as at 1 Oct 2004 (not including amendments in Gazette 9 Jul 2004 p. 2782-4)
 Gaming and Wagering Commission Amendment Regulations 2005 | 14 Oct 2005 p. 4562-4 | 1 Jan 2006 (see r. 2)
+Gaming and Wagering Commission Amendment Regulations 2006 | 22 Aug 2006 p. 3465-8 | 22 Aug 2006
 Formerly referred to the Gaming Commission Act 1987 the short title of which was changed to the Gaming and Wagering Commission Act 1987 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 122. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now known as the Gaming and Wagering Commission Regulations 1988; citation changed (see note under r. 1).
 The commencement date of 1 Oct 1972 that was specified was before the date of gazettal.
