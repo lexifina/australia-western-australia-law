@@ -8,13 +8,12 @@ The Curriculum Council
 The Department of Agriculture and Food
 The Department of the Attorney General
 The Department for Community Development
-The Department of Conservation and Land Management
 The Department of Consumer and Employment Protection
 The Department of Corrective Services
 The Department of Culture and the Arts
 The Department of Education and Training
 The Department of Education Services
-The Department of Environment
+The Department of Environment and Conservation
 The Department of Fisheries
 The Department of Health
 The Department of Indigenous Affairs
@@ -56,4 +55,4 @@ The Western Australian Building Management Authority
 The Western Australian Electoral Commission
 The Western Australia Police Service and the Police Force within the meaning of the Police Act 1892
 The Wheatbelt Development Commission
-[Schedule 1 amended in Gazette 7 Sep 2004 p. 3884; 5 Nov 2004 p. 4987; 2 May 2006 p. 1709-10; 11 Jul 2006 p. 2546.]
+[Schedule 1 amended in Gazette 7 Sep 2004 p. 3884; 5 Nov 2004 p. 4987; 2 May 2006 p. 1709-10; 11 Jul 2006 p. 2546; 22 Aug 2006 p. 3469.]
