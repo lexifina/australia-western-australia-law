@@ -1,6 +1,6 @@
 ## Second Schedule
 [Section 7]
-Objects and Functions of the Council
+## Objects and functions of the Council
 (a)To educate members of the public in, and to awaken, stimulate, encourage and maintain the interest of members of the public in, and to promote public knowledge of, the correct disposal of waste items.
 (b)To foster and encourage the appreciation of clean and well-kept cities and countryside.
 (c)To safeguard the character and beauty of the Australian landscape through the prevention of litter.
@@ -17,4 +17,4 @@ Objects and Functions of the Council
 (n)To encourage, organize and coordinate voluntary local anti-litter campaigns seeking to focus the attention of the public on programmes to control and remove litter.
 (o)To take appropriate measures to bring the provisions of this Act to the attention of the public.
 (p)To do such other acts and things as are conducive to the prevention and control of litter.
-[Second Schedule amended by No. 14 of 1996 s.4.]
+[Second Schedule amended by No. 14 of 1996 s. 4.]
