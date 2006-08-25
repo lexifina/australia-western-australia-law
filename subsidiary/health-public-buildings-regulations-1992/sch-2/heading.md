@@ -92,5 +92,4 @@ Contractor’s/in-house electrical installer’s Registration No:_______________
 Contractor’s/in-house electrical installer’s Address:_______________________
 Contractor’s/in-house electrical installer’s Telephone No:__________________
 This form to be forwarded to the Local Government when work is completed.
-[Form 5 amended in Gazette 7 Jun 2002 p. 2731.]
-[Schedule 2 amended in Gazette 3 Aug 2001 p. 3965 (disallowed in Gazette 20 Nov 2001 p. 6012); 7 Jun 2002 p. 2731.]
+[Form 5 amended in Gazette 3 Aug 2001 p. 3965 (disallowed in Gazette 20 Nov 2001 p. 6012); 7 Jun 2002 p. 2731.]
