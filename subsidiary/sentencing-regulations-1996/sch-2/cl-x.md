@@ -13,11 +13,11 @@ Credit (Administration) Act 1984 s. 37, 38, 39(4), 39(6)
 The Criminal Code s. 95, 97, 105, 106, 108, 110, 111, 151 (summary conviction), 208 (summary conviction), 426(4), 426A(3), 429, 430, 431, 434, 435
 Criminal Investigation (Extra-Territorial Offences) Act 1987 s. 6
 Criminal Procedure Act 2004 Sch. 2 cl. 5
-Curriculum Council Act 1997 Sch. 1, cl. 16(1)
+Curriculum Council Act 1997 Sch. 1 cl. 16(1)
 Dangerous Goods (Transport) Act 1998 s. 19, 29(6)
 Debt Collectors Licensing Act 1964 s. 5(2)
 Electoral Act 1907 s. 77(4), 188(2), 190 (Fraudulently putting any ballot or other paper into the ballot box. Fraudulently taking any ballot paper out of any polling place. Supplying ballot papers without authority.), 191A(1), 191A(2), 199A(1)
-Electricity Corporation Act 1994 Sch. 2 cl. 12(1)
+Electricity Transmission and Distribution Systems (Access) Act 1994 Sch. 2 cl. 12(1)
 Explosives and Dangerous Goods Act 1961 s. 54A(6)
 Family Court Act 1997 s. 243(6)
 Fire Brigades Act 1942 s. 33A(12), 59
