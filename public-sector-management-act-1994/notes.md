@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Public Sector Management Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 25 August 2006 of the Public Sector Management Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Public Sector Management Act 1994 | 31 of 1994 | 8 Jul 1994 | s. 3, 16, 19, 20, 26, 28 and Sch. 4: 20 Aug 1994 (see s. 2 and Gazette 19 Aug 1994 p. 4155); s. 4-6, Div. 1, 2 and 4 of Pt. 2, s. 17, 18, 21-25 and 27, Pt. 3-6, 8, and 9 and Sch. 1-3, 5 and 6: 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948); Pt. 7: 1 Jan 1996 (see s. 2 and Gazette 24 Nov 1995 p. 5389)
+Public Sector Management Act 1994 | 31 of 1994 | 8 Jul 1994 | s. 3, 16, 19, 20, 26, 28 and Sch. 4: 20 Aug 1994 (see s. 2 and Gazette 19 Aug 1994 p. 4155); s. 4-6, Pt. 2 Div. 1, 2 and 4, s. 17, 18, 21-25 and 27, Pt. 3-6, 8, and 9 and Sch. 1-3, 5 and 6: 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948); Pt. 7: 1 Jan 1996 (see s. 2 and Gazette 24 Nov 1995 p. 5389)
 Public Sector Management (General) Regulations 1994 r. 27 published in Gazette 16 Sep 1994 p. 4803 | 1 Oct 1994 (see r. 2 and Gazette 30 Sep 1994 p. 4948)
 Public Sector Management (Transitional) Regulations 1994 published in Gazette 16 Sep 1994 p. 4804 | 1 Oct 1994 (see r. 2 and Gazette 30 Sep 1994 p. 4948)
 Public Sector Management (Transitional) Regulations (No. 2) 1994 published in Gazette 9 Dec 1994 p. 6715 | 9 Dec 1994
@@ -49,8 +49,8 @@ Gas Corporation (Business Disposal) Act 1999 s. 106 | 58 of 1999 | 24 Dec 1999 |
 Public Sector Management (SES Organizations) Regulations 2000 published in Gazette 11 Feb 2000 p. 504 | 11 Feb 2000
 Public Sector Management (SES Organizations) Regulations (No. 2) 2000 published in Gazette 9 May 2000 p. 2236 | 9 May 2000
 Reprint of the Public Sector Management Act 1994 as at 9 Jun 2000 (includes amendments listed above except those in the Gas Corporation (Business Disposal) Act 1999)
-Statutes (Repeals and Minor Amendments) Act 2000 s. 14(13) & 34 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
-Dairy Industry and Herd Improvement Legislation Repeal Act 2000 s. 20 & 34 | 25 of 2000 | 5 Jul 2000 | s. 20: 14 Jul 2000 (see s. 2(2) and Gazette 14 Jul 2000 p. 3841); s. 34: 1 Aug 2000 (see s. 2(3) and Gazette 14 Jul 2000 p. 3841)
+Statutes (Repeals and Minor Amendments) Act 2000 s. 14(13) and 34 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
+Dairy Industry and Herd Improvement Legislation Repeal Act 2000 s. 20 and 34 | 25 of 2000 | 5 Jul 2000 | s. 20: 14 Jul 2000 (see s. 2(2) and Gazette 14 Jul 2000 p. 3841); s. 34: 1 Aug 2000 (see s. 2(3) and Gazette 14 Jul 2000 p. 3841)
 Public Sector Management (SES Organisations) Regulations (No. 3) 2000 published in Gazette 11 Aug 2000 p. 4697 | 11 Aug 2000
 Public Sector Management (SES Organisations) Regulations (No. 4) 2000 published in Gazette 15 Sep 2000 p. 5388-9 | 15 Sep 2000
 Electoral Amendment Act 2000 s. 24 | 36 of 2000 | 10 Oct 2000 | 21 Oct 2000 (see s. 2 and Gazette 20 Oct 2000 p. 5899)
@@ -65,29 +65,30 @@ Zoological Parks Authority Act 2001 s. 47 | 24 of 2001 | 26 Nov 2001 | 22 May 20
 Labour Relations Reform Act 2002 s. 25 | 20 of 2002 | 8 Jul 2002 | 15 Sep 2002 (see s. 2(1) and Gazette 6 Sep 2002 p. 4487)
 Public Interest Disclosure Act 2003 s. 28 | 29 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Public Transport Authority Act 2003 s. 207 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
-Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 23 & 221(3) | 35 of 2003 | 26 Jun 2003 | 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
+Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 23 and 221(3) | 35 of 2003 | 26 Jun 2003 | 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
 Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 14 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
 Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2(1) and Gazette 30 Dec 2003 p. 5723)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 97 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 6: The Public Sector Management Act 1994 as at 14 May 2004 (includes amendments listed above)
-Public Sector Management (SES Organisations) Regulations 2004 r. 2 published in Gazette 26 Nov 2004 p. 5315-16 | 26 Nov 2004
-Western Australian Land Authority Amendment Act 2004 s. 45 | 67 of 2004 | 8 Dec 2004 | 25 Dec 2004 (see s. 2 and Gazette 24 Dec 2004 p. 6247)
 Workers’ Compensation Reform Act 2004 s. 168 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
-Public Sector Management (Entities which are not Organisations) Regulations 2004 r. 3 published in Gazette 4 Jan 2005 p. 5-6 | 4 Jan 2005
+Public Sector Management (SES Organisations) Regulations 2004 published in Gazette 26 Nov 2004 p. 5315-16 | 26 Nov 2004
+Western Australian Land Authority Amendment Act 2004 s. 45 | 67 of 2004 | 8 Dec 2004 | 25 Dec 2004 (see s. 2 and Gazette 24 Dec 2004 p. 6247)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Public Sector Management (Entities which are not Organisations) Regulations 2004 published in Gazette 4 Jan 2005 p. 5-6 | 4 Jan 2005
 Financial Administration Legislation Amendment Act 2005 s. 43 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
-Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 18 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2005 p. 1153)
-Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Reprint 7: The Public Sector Management Act 1994 as at 25 Aug 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Now known as Police Service.
-On the date on which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) had not come into operation. It reads as follows:
+Now known as the Police Service.
+The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
+The amendment in the Western Australian Greyhound Racing Association Amendment Act 1998 s. 20 is not included because of an error in the reference to the item to be amended. The same amendment was made by the Statutes (Repeals and Minor Amendments) Act 2000 s. 34(2) and then the provision amended was again amended by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 221(3).
+On the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) had not come into operation. It reads as follows:
 “
 59.Public Sector Management Act 1994 amended
 The Public Sector Management Act 1994 is amended as follows:
 (a) by repealing section 20(1);
 ”.
-Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
-The amendment that would have been effected by the Western Australian Greyhound Racing Association Amendment Act 1998 s. 20 did not come into operation because of an error in the reference to the provision to be amended.
