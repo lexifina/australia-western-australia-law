@@ -11,4 +11,6 @@ Port Authorities Amendment Regulations (No. 2) 2004 | 10 Dec 2004 p. 5915-16 | 1
 Reprint 1: The Port Authorities Regulations 2001 as at 20 May 2005 (includes amendments listed above)
 Port Authorities Amendment Regulations 2005 | 26 Jul 2005 p. 3401-2 | 26 Jul 2005
 Port Authorities Amendment Regulations (No. 2) 2005 | 30 Aug 2005 p. 4057-8 | 30 Aug 2005
-Port Authorities Amendment Regulations (No. 4) 2005 | 16 Sep 2005 p. 4327-8
+Port Authorities Amendment Regulations (No. 4) 2005 | 16 Sep 2005 p. 4327-8 | 16 Sep 2005
+Port Authorities Amendment Regulations (No. 2) 2006 | 29 Aug 2006 p. 3579-81 | 29 Aug 2006
+Port Authorities Amendment Regulations (No. 3) 2006 | 29 Aug 2006 p. 3581-2 | 29 Aug 2006
