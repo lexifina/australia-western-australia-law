@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 August 2006 of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Navigable Waters Regulations | 2 Apr 1958 p. 622-32 | 1 May 1958 (see r. 1)
@@ -112,6 +112,7 @@ Navigable Waters Amendment Regulations 2005 | 24 Jun 2005 p. 2778-9 | 1 Jul 2005
 Navigable Waters Amendment Regulations (No. 2) 2005 | 10 Feb 2006 p. 667-75 | 10 Feb 2006
 Navigable Waters Amendment Regulations 2006 | 23 Jun 2006 p. 2207-8 | 1 Jul 2006 (see r. 2)
 Reprint 12: The Navigable Waters Regulations 1958 as at 4 Aug 2006 (includes amendments listed above)
+Navigable Waters Amendment Regulations (No. 2) 2006 | 1 Sep 2006 p. 3596-9 | 2 Sep 2006 (see r. 2(a) and Gazette 1 Sep 2006 p. 3591)
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 reads as follows:
