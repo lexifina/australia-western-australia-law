@@ -19,41 +19,7 @@ plus, for each lot shown on the plan, other than a lot that is proposed to be ve
 2. The fees payable to a local government are —
 (a)for a certificate under section 5B(2) ........... | 20 cents per square metre of the floor space of the building or $100.00 which ever is greater
 (b)for a certificate under section 8A(f) or 9(3) | 20 cents per square metre of floor space being subdivided or consolidated or $100.00 which ever is greater
-3 The fees payable to the Commission on an application under section 25(3) for a certificate of approval under section 25 are to be in accordance with the following scale —
-Scale
-Number of allotments | Fee ($)
-1 | 160
-2 | 195
-3 | 215
-4 | 255
-5 | 295
-6-10 | 350
-11-15 | 400
-16-20 | 465
-21-25 | 530
-26-30 | 610
-31-35 | 685
-36-40 | 765
-41-45 | 840
-46-50 | 920
-51-55 | 985
-56-60 | 1 075
-61-65 | 1 155
-66-70 | 1 230
-71-75 | 1 300
-76-80 | 1 390
-81-85 | 1 455
-86-90 | 1 545
-91-95 | 1 610
-96-100 | 1 705
-101-125 | 1 785
-126-150 | 1 895
-151-175 | 1 980
-176-200 | 2 075
-201-225 | 2 235
-226-250 | 2 515
-251-300 | 2 995
-Over 300 | 3 520
+3.The fees payable to the Commission on an application under section 25(3) for a certificate of approval under section 25 are an amount of $500 plus a further amount of $50 per lot.
 4.The fees payable to the strata company are —
  | $
 (a)for an application made under section 43(1)(a) .......................................... | 10.00
@@ -65,4 +31,4 @@ Over 300 | 3 520
 5.A fee payable under item 4 to the strata company is increased by 10%, if the company is required to remit GST for the provision of the service for which the fee is payable.
 6.In item 5 —
 “GST” has the meaning given in section 195-1 of the A New Tax System (Goods and Services Tax) Act 1999 of the Commonwealth.
-[Schedule 1 inserted in Gazette 2 Sep 2004 p. 3825-7; amended in Gazette 24 Jun 2005 p. 2759-60; 24 Jan 2006 p. 436; 7 Jul 2006 p. 2513.]
+[Schedule 1 inserted in Gazette 2 Sep 2004 p. 3825-7; amended in Gazette 24 Jun 2005 p. 2759-60; 24 Jan 2006 p. 436; 7 Jul 2006 p. 2513; 1 Sep 2006 p. 3596.]
