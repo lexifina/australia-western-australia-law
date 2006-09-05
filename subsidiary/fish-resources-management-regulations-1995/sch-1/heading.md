@@ -91,70 +91,66 @@ Fees | $
 (i)are of a length not less than 76 mm; and
 (ii)are sold to a person who holds an aquaculture licence or fish processor’s licence .......................................................... | No fee
 3.Managed fishery licence fees
-(1)Abalone Managed Fishery (as defined in the Abalone Management Plan 1992), the sum obtained by multiplying the number of units of entitlement (as defined in that management plan) conferred by the licence by the fee for each unit, as follows —
+(1)Abalone Managed Fishery, the sum obtained by multiplying the number of units of entitlement conferred by the licence by the fee for each unit, as follows —
 (a)for each Greenlip unit .................................. | 52.32
 (b)for each Brownlip unit ................................. | 52.32
 (c)for each Roe’s unit ....................................... | 13.68
-(2)Abrolhos Islands and Mid West Trawl Managed Fishery per gear unit (as defined in the Abrolhos Islands and Mid West Trawl Management Plan 1993) ............................................................... | 4 546.00
-(2a)Broome Prawn Managed Fishery (as defined in the Broome Prawn Managed Fishery Management Plan 1999) ............................................................... | 8 334.00
-(3)Cockburn Sound (Crab) Managed Fishery (per pot) (as defined in the Cockburn Sound (Crab) Management Plan 1995) ......................................... | 26.74
-(4)Cockburn Sound (Fish Net) Managed Fishery (as defined in the Cockburn Sound (Fish Net) Management Plan 1995) ......................................... | 799.00
-(5)Cockburn Sound (Line and Pot) Managed Fishery (as defined in the Cockburn Sound (Line and Pot) Management Plan 1995) ......................................... | 117.00
-(6)Cockburn Sound (Mussel) Managed Fishery (as defined in the Cockburn Sound (Mussel) Management Plan 1995) ......................................... | 118.00
-(7)Esperance Rock Lobster Managed Fishery (per pot) (as defined in the Esperance Rock Lobster Management Plan 1987) ......................................... | 56.05
-(8)Exmouth Gulf Prawn Managed Fishery (as defined in the Exmouth Gulf Prawn Management Plan 1989) ... | 30 949.00
-(9)Kimberley Gillnet and Barramundi Managed Fishery (per boat) (as defined in the Kimberley Gillnet and Barramundi Management Plan 1989) . | 2 416.00
-(10)Kimberley Prawn Managed Fishery (as defined in the Kimberley Prawn Management Plan 1993) —
-(a)for a Class 1 licence ..................................... | 927.00
-(b)for a Class 2 licence ..................................... | 927.00
+(2)Abrolhos Islands and Mid West Trawl Managed Fishery, per gear unit .........................................…. | 4 546.00
+(3)Broome Prawn Managed Fishery ............................ | 7 343.00
+(4)Cockburn Sound (Crab) Managed Fishery, per pot | 23.56
+(5)Cockburn Sound (Fish Net) Managed Fishery ....... | 704.00
+(6)Cockburn Sound (Line and Pot) Managed Fishery . | 103.00
+(7)Cockburn Sound (Mussel) Managed Fishery .......... | 116.00
+(8)Esperance Rock Lobster Managed Fishery, per pot | 58.00
+(9)Exmouth Gulf Prawn Managed Fishery .................... | 30 949.00
+(10)Kimberley Gillnet and Barramundi Managed Fishery, per boat ...................................................... | 2 129.00
+(11)Kimberley Prawn Managed Fishery —
+(a)for a Class 1 licence ..................................... | 816.00
+(b)for a Class 2 licence ..................................... | 816.00
 (c)for a Class 3 licence ..................................... | 5 000.00
-(11)Marine Aquarium Fish Managed Fishery (as defined in the Marine Aquarium Fish Management Plan 1995) —
-(a)for an individual ........................................... | 901.00
-(b)for a body corporate ..................................... | 901.00
-(12)Nickol Bay Prawn Managed Fishery (as defined in the Nickol Bay Prawn Management Plan 1991) ..... | 3 520.00
-(12a)Northern Demersal Scalefish Fishery (as defined in the Northern Demersal Scalefish Fishery Management Plan 2000) —
-(a)for an “A” class licence ............................... | 2.34
-(b)for a “B” class licence (per unit of entitlement) .................................................. | 45.86
-(13)Onslow Prawn Managed Fishery (as defined in the Onslow Prawn Management Plan 1991) —
-(a)for an “A” class licence ............................... | 10 196.00
-(b)for a “B” class licence .................................. | 3 589.00
-(c)for a “C” class licence .................................. | 118.00
-(d)for a “D” class licence ................................. | 118.00
-(13a)Pilbara Fish Trawl Interim Managed Fishery per fish trawl unit (as defined in the Pilbara Fish Trawl Interim Managed Fishery Management Plan 1997) .. | 6.46 (12 months) 3.01 (6 months)
-(14)Pilbara Trap Managed Fishery (per trap unit) (as defined in the Pilbara Trap Management Plan 1992) ............................................................... | 6.81
-(15)Shark Bay Beach Seine and Mesh Net Managed Fishery per fishing unit (as defined in the Shark Bay Beach Seine and Mesh Net Management Plan 1992) ............................................................... | 869.00
-(16)Shark Bay Prawn Managed Fishery (as defined in the Shark Bay Prawn Management Plan 1993) ...... | 41 514.00
-(17)Shark Bay Scallop Managed Fishery (as defined in the Shark Bay Scallop Management Plan 1994) —
-(a)for a class A boat (per boat) ......................... | 19 904.00
-(b)for a class B boat (per boat) ......................... | 2 580.00
-(18)Shark Bay Snapper Managed Fishery (per unit) (as defined in the Shark Bay Snapper Management Plan 1994) ............................................................... | 15.16
-(19)Specimen Shell Managed Fishery (as defined in the Specimen Shell Management Plan 1995) .......... | 1 000.00
-(20)South Coast Purse Seine Managed Fishery (as defined in the South Coast Purse Seine Management Plan 1994), the sum obtained by multiplying the number of tonnes of fish that may be taken in accordance with the appropriate managed fishery licence by —
-(a)for zone 1 ..................................................... | 8.20
-(b)for zone 2 ..................................................... | 8.20
-(c)for zone 3 ..................................................... | 8.20
-(d)for zone 4 ..................................................... | 8.20
-(21)South Coast Salmon Managed Fishery (as defined in the South Coast Salmon Management Plan 1982) (per team) ............................................. | 1 243.00
-(22)South West Coast Salmon Managed Fishery (as defined in the South-West Coast Salmon Management Plan 1982) (per team) ....................... | 611.00
-(23)South West Trawl Managed Fishery (as defined in the South West Trawl Management Plan 1989) —
-(a)for zone A .................................................... | 925.00
-(b)for zone B .................................................... | 925.00
-(c)for zone A and B .......................................... | 925.00
-(d)for zone B and C .......................................... | 925.00
-(e)for zone B and D .......................................... | 925.00
-(24)Southern Demersal Gillnet and Demersal Longline Managed Fishery (as defined in the Joint Authority Southern Demersal Gillnet and Demersal Longline Management Plan 1992), per gear unit —
-(a)for zone 1 ..................................................... | 32.86
-(b)for zone 2 ..................................................... | 41.60
-(c)for zone 3 ..................................................... | 32.86
-(d)for zone 4 ..................................................... | 41.60
-(25)Warnbro Sound (Crab) Managed Fishery (as defined in the Warnbro Sound (Crab) Management Plan 1995) ......................................... | 1 061.00
-(26)West Coast (Beach Bait Fish Net) Managed Fishery (as defined in the West Coast (Beach Bait Fish Net) Management Plan 1995) ......................... | 272.00
-(26a)West Coast Demersal Gillnet and Demersal Longline Interim Managed Fishery (as defined in the West Coast Demersal Gillnet and Demersal Longline Interim Managed Fishery Management Plan 1997 (per unit) ................................................ | 59.03
-(27)West Coast Purse Seine Managed Fishery (as defined in the West Coast Purse Seine Management Plan 1989) —
+(12)Marine Aquarium Fish Managed Fishery —
+(a)for an individual ........................................... | 907.00
+(b)for a body corporate ..................................... | 907.00
+(13)Nickol Bay Prawn Managed Fishery ...................... | 3 102.00
+(14)Northern Demersal Scalefish Fishery —
+(a)for an “A” class licence ............................... | 16.00
+(b)for a “B” class licence, per unit of entitlement ................................................... | 56.06
+(15)Onslow Prawn Managed Fishery —
+(a)for an “A” class licence ............................... | 8 984.00
+(b)for a “B” class licence .................................. | 3 163.00
+(c)for a “C” class licence .................................. | 116.00
+(d)for a “D” class licence ................................. | 116.00
+(16)Pilbara Fish Trawl Interim Managed Fishery, per fish trawl unit .................................................................. | 7.73
+(17)Pilbara Trap Managed Fishery, per trap unit .......... | 6.00
+(18)Shark Bay Beach Seine and Mesh Net Managed Fishery, per fishing unit .......................................... | 2 574.00
+(19)Shark Bay Prawn Managed Fishery ........................ | 41 514.00
+(20)Shark Bay Scallop Managed Fishery —
+(a)for a class A boat, per boat .......................... | 19 904.00
+(b)for a class B boat, per boat ........................... | 2 580.00
+(21)Shark Bay Snapper Managed Fishery, per unit ....... | 13.36
+(22)South Coast Estuarine Managed Fishery ................ | 1 106.00
+(23)South Coast Purse Seine Managed Fishery, the sum obtained by multiplying the number of units of entitlement determined in accordance with that management plan, conferred by the licence by the fee for each unit as follows —
+(a)for zone 1 ..................................................... | 17.16
+(b)for zone 2 ..................................................... | 23.94.
+(c)for zone 3 ..................................................... | 51.39
+(d)for zone 4 ..................................................... | 98.51
+(24)South Coast Salmon Managed Fishery, per team.... | 1 096.00
+(25)South West Coast Salmon Managed Fishery, per team ......................................................................... | 538.00
+(26)South West Trawl Managed Fishery —
+(a)for zone A .................................................... | 907.00
+(b)for zone B .................................................... | 907.00
+(c)for zone A and B .......................................... | 907.00
+(d)for zone B and C .......................................... | 907.00
+(e)for zone B and D .......................................... | 907.00
+(27)Specimen Shell Managed Fishery ........................... | 980.00
+(28)Warnbro Sound (Crab) Managed Fishery ............... | 935.00
+(29)West Coast (Beach Bait Fish Net) Managed Fishery ..................................................................... | 240.00
+(30)West Coast Demersal Gillnet and Demersal Longline Interim Managed Fishery, per unit .......... | 59.03
+(31)West Coast Purse Seine Managed Fishery —
 (a)for a licence to operate ................................. | 1 871.00
 (b)for supplementary access ............................. | 219.00
-(28)West Coast Rock Lobster Managed Fishery (per unit) (as defined in the West Coast Rock Lobster Management Plan 1993) ......................................... | 134.00
-(29)Windy Harbour-Augusta Rock Lobster Managed Fishery (as defined in the Windy Harbour-Augusta Rock Lobster Management Plan 1987) (per pot) .... | 10.88
+(32)West Coast Rock Lobster Managed Fishery, per unit .......................................................................... | 134.00
+(33)Windy Harbour-Augusta Rock Lobster Managed Fishery, per pot ....................................................... | 43.71
 4.Aquatic eco-tourism operator’s licence or restricted fishing tour operator’s licence
 Types of operation —
 (1)(a)Using —
@@ -195,4 +191,4 @@ Types of operation —
 (1)a boat 6.5 m or longer ............................................. | 315.00
 (2)a boat shorter than 6.5 m ......................................... | 85.00
 7.Tag authorising the possession of one pink snapper in the Freycinet Estuary ............................................................... | 10.00
-[Part 3 inserted in Gazette 19 Sep 2003 p. 4120-5; amended in Gazette 19 Sep 2003 p. 4118; 17 Feb 2004 p. 600; 28 May 2004 p. 1896-902 (as amended in Gazette 29 Jun 2004 p. 2524); 30 Sep 2004 p. 4187; 1 Mar 2005 p. 877-8; 22 Jul 2005 p. 3372-5; 16 Sep 2005 p. 4315-17; 7 Feb 2006 p. 620-1.]
+[Part 3 inserted in Gazette 19 Sep 2003 p. 4120-5; amended in Gazette 19 Sep 2003 p. 4118; 17 Feb 2004 p. 600; 28 May 2004 p. 1896-902 (as amended in Gazette 29 Jun 2004 p. 2524); 30 Sep 2004 p. 4187; 1 Mar 2005 p. 877-8; 22 Jul 2005 p. 3372-5; 16 Sep 2005 p. 4315-17; 7 Feb 2006 p. 620-1; 5 Sep 2006 p. 3616-7.]
