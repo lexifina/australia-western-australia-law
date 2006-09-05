@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 July 2003 of the Health (Venereal Diseases) Regulations 1973 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health (Venereal Diseases) Regulations 1973 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Health (Venereal Diseases) Regulations 1973 | 2 Mar 1973 p. 587-9 | 2 Mar 1973
@@ -13,4 +13,9 @@ Health (Venereal Diseases) Amendment Regulations 1987 | 12 Jun 1987 p. 2323 | 12
 Health (Venereal Diseases) Amendment Regulations (No. 2) 1987 | 27 Nov 1987 p. 4261 | 1 Dec 1987 (see r. 2)
 Health (Offences and Penalties) Amendment Regulations (No. 2) 1988 Pt. 13 | 23 Dec 1988 p. 4970-5 | 23 Dec 1988
 Reprint 2: The Health (Venereal Diseases) Regulations 1973 as at 18 Jul 2003 (includes amendments listed above)
+Health (Veneral Diseases) Amendment Regulations 2006 | 5 Sep 2006 p. 3618-19 | 5 Sep 2006
 Under the Alteration of Statutory Designations Order (No. 3) 2001 references in any law, unless the contrary is intended, to the Health Department shall be read as references to the Department of Health.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+the Act2A
