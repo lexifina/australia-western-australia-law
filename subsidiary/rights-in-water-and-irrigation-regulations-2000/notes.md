@@ -6,3 +6,5 @@ Rights in Water and Irrigation Regulations 2000 | 10 Jan 2001 p. 167-210 | 10 Ja
 Rights in Water and Irrigation Amendment Regulations 2002 | 14 Jun 2002 p. 2835-7 | 14 Jun 2002
 Rights in Water and Irrigation Amendment Regulations (No. 2) 2002 | 17 Dec 2002 p. 5911-18 | 17 Dec 2002
 Rights in Water and Irrigation Amendment Regulations 2004 | 30 Dec 2004 p. 7000 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
+Rights in Water and Irrigation Amendment Regulations 2006 | 5 Sep 2006 p. 3623-5 | 5 Sep 2006
+These regulations have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 37.

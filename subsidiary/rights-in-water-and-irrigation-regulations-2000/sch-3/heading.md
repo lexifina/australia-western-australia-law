@@ -49,12 +49,13 @@ Information about this notice | Date: ..........................................
 WHAT YOU MUST DO:
 1. | You may dispose of this matter by paying the modified penalty within a period of 21 days after this notice is given.
  | PAY THE MODIFIED PENALTY TO:
- | Manager, Finance and Administration Water and Rivers Commission GPO Box 6740 EAST PERTH WA 6892
+ | The Chief Finance Officer Water and Rivers Commission PO Box K822 PERTH WA 6842
  | If you wish to do so but are unable to make payment within 21 days you may apply to the Water and Rivers Commission for an extension of time within which the modified penalty may be paid.
 OR | IF YOU DO NOT PAY THE MODIFIED PENALTY
 2. | A complaint may be issued against you for the alleged offence, in which case the matter will be dealt with by a COURT.
 OR
  | The modified penalty may be recovered by the Fines Enforcement Registry, in which case — (a)additional administrative charges may be incurred; (b)action may be taken to suspend your Motor Driver’s Licence or Vehicle Licence until you have paid in full the modified penalty and any additional charge; and (c)you will be given an opportunity to elect to have a complaint for the alleged offence dealt with by a COURT. PAYMENTS AFTER THE DUE DATE CAN ONLY BE MADE WITH A FINAL DEMAND LETTER WHICH INCURS AN ADDITIONAL ENFORCEMENT FEE.
+[Form 3 amended in Gazette 5 Sep 2006 p. 3625.]
 Form 4
 [r.54]
 Water and Rivers Commission
@@ -85,4 +86,4 @@ Commission held by the authorised person)
 ................................................................... (Date of expiry)
 CERTIFICATE OF AUTHORISED PERSON
 This is to certify that the person identified on this certificate is authorised, in accordance with section 103 of the Water Agencies (Powers) Act 1984, to give infringement notices under these regulations.
-[Schedule 3 amended in Gazette 14 Jun 2002 p. 2836-7.]
+[Schedule 3 amended in Gazette 14 Jun 2002 p. 2836-7; 5 Sep 2006 p. 3625.]
