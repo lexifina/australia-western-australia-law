@@ -1,6 +1,6 @@
 ## Schedule 1 — Enactments to which Part 3 of the Act applies
 [r. 3]
-[Headings inserted in Gazette 13 May 2005 p. 2080.]
+[Heading inserted in Gazette 13 May 2005 p. 2080.]
 Act | section(s)
 Builders’ Registration Act 1939
 Bush Fires Act 1954 | 59A
@@ -8,7 +8,7 @@ Caravan Parks and Camping Grounds Act 1995 | 23
 Casino (Burswood Island) Agreement Act 1985
 Casino Control Act 1984
 Cemeteries Act 1986 | 63
-Censorship Act 1996
+Classification (Publications, Films and Computer Games) Enforcement Act 1996
 City of Perth Parking Facilities Act 1956
 Conservation and Land Management Act 1984
 Control of Vehicles (Off-road Areas) Act 1978 | 37

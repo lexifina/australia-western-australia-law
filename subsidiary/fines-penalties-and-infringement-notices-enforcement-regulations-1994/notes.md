@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 September 2006 of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fines, Penalties and Infringement Notices Enforcement Regulations 1994 | 30 Dec 1994 p. 7232-41 | 1 Jan 1995 (see r. 2 and Gazette 30 Dec 1992 p. 7211)
@@ -25,15 +25,20 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2003
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2003 | 30 Dec 2003 p. 5715-16 | 1 Jan 2004 (see r. 2)
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2004 | 4 Jun 2004 p. 1933 | 4 Jun 2004
 Reprint 2: The Fines, Penalties and Infringement Notices Enforcement Regulations 1994 as at 9 Jul 2004 (includes amendments listed above)
-Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2005 | 13 May 2005 p. 2079-82 (as amended in Gazette 30 Dec 2005 p. 6876) | 13 May 2005 (see r. 2)
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2005 | 13 May 2005 p. 2079-82 (as amended 30 Dec 2005 p. 6875-6) | 13 May 2005
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2005 | 9 Sep 2005 p. 4155-6 | 9 Sep 2005
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 4) 2005 | 30 Dec 2005 p. 6876-7 | 30 Dec 2005
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2006 | 23 Jun 2006 p. 2191-2 | 1 Jul 2006 (see r. 2)
-Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2006 | 14 Jul 2006 p. 2563-4 | 14 Jul 2006 (see r. 2)
-Under the Public Sector Management Act 1994 the names of departments can be changed. At the time of this compilation the former Department of Environmental Protection is called the Department of Environment.
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2006 | 14 Jul 2006 p. 2563-4 | 14 Jul 2006 (see r. 2 and Gazette 14 Jul 2006 p. 2575)
+Reprint 3: The Fines, Penalties and Infringement Notices Enforcement Regulations 1994 as at 8 Sep 2006 (includes amendments listed above)
+Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
+Under the Alteration of Statutory Designations Order 2004 a reference in a written law to the Department of Environmental Protection is, unless the contrary is intended, to be read and construed as a reference to the Department of Environment.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Environment is called the Department of Environment and Conservation.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Fisheries Department of Western Australia is read and construed as a reference to the Department of Fisheries.
-Formerly referred to the Gaming Commission of Western Australia, the name of which was changed to the Gaming and Wagering Commission of Western Australia by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 124. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
+Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Office of Racing, Gaming and Liquor is read and construed as a reference to the Department of Racing, Gaming and Liquor.
 Now superseded by the Water Corporation.
+Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Perth Parking Management (Consequential Provisions) Act 1999.
-Formerly referred to the Gaming Commission Act 1987 the short title of which was changed to the Gaming and Wagering Commission Act 1987 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 122. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 1997 were published on 1 Aug 1997 p. 4394 and again on 4 Nov 1997 p. 6079-80. The publication of 4 Nov 1997 has no effect.
