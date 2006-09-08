@@ -1,6 +1,6 @@
 ## Schedule 3 — Forms
 [r. 12]
-[Headings inserted in Gazette 13 May 2005 p. 2081.]
+[Heading inserted in Gazette 13 May 2005 p. 2081.]
 1.Notice of withdrawal for the purposes of section 22
 Fines, Penalties and Infringement Notices Enforcement Act 1994
 [Section 22]
@@ -167,4 +167,3 @@ Date of this certificate:Time:
 [Signature]
 REGISTRAR.
 [Form 9 inserted in Gazette 5 Jul 1996 p. 3229.]
-[Schedule 3 amended in Gazette 30 Jun 1995 p. 2638-42; 5 Jul 1996 p. 3228-9; 4 Oct 1996 p. 5233; 13 May 2005 p. 2081-2.]
