@@ -1,16 +1,17 @@
 Notes
-This is a compilation of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 15 September 2006 of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Administration Act 1997 | 30 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
-Dampier to Bunbury Pipeline Act 1997 s. 52 (Sch. 4 Div. 6) | 53 of 1997 (as amended by this Act, Sch. 4 Div. 1) | 12 Dec 1997 | 30 Mar 1998 (see Sch. 4 Div. 6 cl. 30 and Gazette 27 Mar 1998 p. 1765)
+Dampier to Bunbury Pipeline Act 1997 s. 52 (Sch. 4 Div. 6) | 53 of 1997 (as amended by this Act Sch. 4 Div. 1) | 12 Dec 1997 | 30 Mar 1998 (see Sch. 4 Div. 6 cl. 30 and Gazette 27 Mar 1998 p. 1765)
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 Pt. 2 (except s. 4 & 7) | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | 11 Jan 1999 (see s. 2(1))
 Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 90 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
 Gas Corporation (Business Disposal) Act 1999 s. 104 | 58 of 1999 | 24 Dec 1999 | 16 Dec 2000 (see s. 2(5) and Gazette 15 Dec 2000 p. 7201)
 Rail Freight System Act 2000 Pt. 5 Div. 4 | 13 of 2000 | 8 Jun 2000 | 30 Jun 2000 (see s. 2(1) and Gazette 30 Jun 2000 p. 3397)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 14(13) and 20 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
 Acts Amendment (Australian Datum) Act 2000 s. 4 | 54 of 2000 | 28 Nov 2000 | 16 Dec 2000 (see s. 2 and Gazette 15 Dec 2000 p. 7201)
-Land Administration Amendment Act 2000 | 59 of 2000 | 7 Dec 2000 | s. 38(1): 30 Mar 1988 (see s. 2(4) and Gazette 27 Mar 1988 p. 1765); s. 52: 8 Dec 2000 (see s. 2(5)); Act other than s. 8, 10(2), 12, 14(1) and (2), 19(2) and (3), 22, 24-37, 38(1), 51 and 52: 7 Dec 2000 (see s. 2(1)); s. 8, 10(2), 12, 14(1) and (2), 19(2) and (3), 22, 24-37 and 51: 10 Apr 2001 (see s. 2(2) and Gazette 10 Apr 2001 p. 2073)
+Land Administration Amendment Act 2000 | 59 of 2000 | 7 Dec 2000 | s. 38(1): 30 Mar 1988 (see s. 2(4) and Gazette 27 Mar 1988 p. 1765); s. 52: 8 Dec 2000 (see s. 2(5)); Act other than s. 8, 10(2), 12, 14(1) and (2), 19(2) and (3), 22, 24-37, 38(1), 51 and 52: 7 Dec 2000 (see s. 2(1));
+ |  |  | s. 8, 10(2), 12, 14(1) and (2), 19(2) and (3), 22, 24-37 and 51: 10 Apr 2001 (see s. 2(2) and Gazette 10 Apr 2001 p. 2073)
 Reprint of the Land Administration Act 1997 as at 22 Jun 2001 (includes amendments listed above)
 Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Public Transport Authority Act 2003 s. 150 and 167 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
@@ -22,19 +23,20 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Land Administration Act 1997 as at 24 Jun 2005 (includes amendments listed above)
 Financial Administration Legislation Amendment Act 2005 s. 42 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
-Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
+Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2005 p. 1153)
 Water Legislation Amendment (Competition Policy) Act 2005 Pt. 4 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 Pt. 2 Div. 2 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 13 Div 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 13 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Reprint 3: The Land Administration Act 1997 as at 15 Sep 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
-Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | To be proclaimed (see s. 2)
+Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | 1 Dec 2006 (see s. 2 and Gazette 8 Aug 2006 p. 2899)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
+On the date as at which this reprint was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 “
 4.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
@@ -55,13 +57,13 @@ After section 152 the following section is inserted —
 Where the taking of land or an interest in land under this Part is a Part 3 act, a Part 4 act or a Part 5 act within the meaning of the Native Title (State Provisions) Act 1998, the operation of this Part is subject to section 3.6, 4.5 or 5.3, as the case may be, of that Act.
 ”.
 ”.
-The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this compilation was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this compilation had also not come into operation (see endnotes 1a and 4).
-On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this reprint was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this reprint had also not come into operation (see endnotes 1a and 4).
+On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3.Consequential amendments
 Schedule 2 has effect.
 ”.
-Schedule 2 Division 4 reads as follows:
+Schedule 2 Div. 4 reads as follows:
 “
 Division 4 — Land Administration Act 1997
 6.The Act amended
@@ -288,7 +290,6 @@ The Land Administration Amendment Act 2000 s. 18(2) reads as follows:
 “
 (2) If the Minister has not caused notice of the registration of an order made under section 58(4) of the Land Administration Act 1997 to be published in a newspaper circulating in the district of the relevant local government under section 58(5)(c) of the Land Administration Act 1997, that failure does not render the order invalid and the order is, and is taken always to have been, as valid and effective as it would have been if the notice had been so published.
 ”.
-The Gas Corporation Act 1994 was repealed by the Gas Corporation (Business Disposal) Act 1999 s. 93.
 The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 13(3) reads as follows:
 “
 (3) The application of section 170 of the Land Administration Act 1997 as amended by this section extends to a notice of intention, as defined in section 151 of that Act, that is current at the commencement of this section.
@@ -356,6 +357,7 @@ The Land Administration Amendment Act 2000 s. 52 reads as follows:
 (1) Reserve No. 1667 in the City of Nedlands, classified as a class A reserve, comprising 8.2005 hectares dedicated to the purpose of an “Old Men’s Depot site”, is amended, despite sections 42 and 43 of the Land Administration Act 1997, by changing the purpose of the Reserve to “Retirement village, parks and recreation, community, and ancillary commercial purposes”.
 (2) The Reserve is taken to have been reserved under section 41 of the Land Administration Act 1997 for the purpose specified in subsection (1).
 (3) The Minister is to make an order that is to be taken to be an order made by the Minister under the Land Administration Act 1997 that the purpose of Reserve No. 1667 is changed in the manner referred to in subsection (1).
+”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 33 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 33 reads as follows:
 “
@@ -366,7 +368,7 @@ The State Administrative Tribunal Regulations 2004 r. 33 reads as follows:
 (a) the Act section 167(4)(b) does not apply; and
 (b) the matter is to continue to be dealt with as if the written law applicable to the matter in force immediately before the commencement day continued to apply.
 ”.
-On the date as at which this compilation was prepared, the Contaminated Sites Act 2003 s. 100, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Contaminated Sites Act 2003 s. 100, which gives effect to Sch. 3, had not come into operation. It will come into operation on 1 Dec 2006 (see Gazette 8 Aug 2006 p. 2899). It reads as follows:
 “
 100.Consequential amendments to other Acts
 Schedule 3 has effect.
@@ -390,7 +392,7 @@ and to section 60(2)(b)(i) of the Contaminated Sites Act 2003
 (ea) in the case of the Minister referred to in section 159(ea), to the chief executive officer of the Department principally assisting the Minister in the administration of the Contaminated Sites Act 2003 or to any other officer of that Department;
 ”.
 ”.
-On the date as at which this compilation was prepared, the Acts Amendment (Court of Appeal) Act 2004 s. 37, which gives effect to Sch. 1, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Acts Amendment (Court of Appeal) Act 2004 s. 37, which gives effect to Sch. 1, had not come into operation. It reads as follows:
 “
 37.Various Acts amended
 Each Act listed in Schedule 1 is amended as set out in that Schedule.
@@ -403,7 +405,8 @@ Division 2 — Amendments that may be affected by impending legislation
 22.Land Administration Act 1997
 s. 237(2) | Delete “Full Court” and insert instead — “ Court of Appeal ”.
 ”.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+The amendment to s. 237(2) in the Acts Amendment (Court of Appeal) Act 2004 s. 37 would not be included because the section it seeks to amend was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 560.
+On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
 Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
@@ -419,3 +422,4 @@ s. 226(3) | Delete “a Local Court” and insert instead — “ the Magistrate
 s. 231(c) | Delete the paragraph and insert instead — “ (c)in the case of a magistrate, by some other magistrate of the Magistrates Court; or ”.
 s. 237(3) | Delete “stipendiary”.
 ”.
+The amendments to s. 224(6), 226(2) and (3), 231(c) and 237(3) in the Courts Legislation Amendment and Repeal Act 2004 s. 142 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 67.
