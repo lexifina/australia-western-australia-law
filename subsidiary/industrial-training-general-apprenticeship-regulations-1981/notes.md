@@ -12,6 +12,7 @@ Industrial Training (General Apprenticeship) Amendment Regulations 1987 | 27 Mar
 Industrial Training (General Apprenticeship) Amendment Regulations (No. 2) 1987 | 24 Dec 1987 p. 4550 | 1 Jan 1988 (see r. 2)
 Reprint of the Industrial Training (General Apprenticeship) Regulations 1981 as at 1 Jul 1997 (includes amendments listed above)
 Reprint 2: The Industrial Training (General Apprenticeship) Regulations 1981 as at 13 Feb 2004 (includes amendments listed above)
+Industrial Training Amendment Regulations 2006 r. 2 | 19 Sep 2006 p. 3708-9 | 19 Sep 2006
 Published in the Government Gazette on 27 Jan 1978 p. 291-301.
 Repealed by the Vocational Education and Training Act 1996.
 Under the Alteration of Statutory Designations Order 2003 the former Education Department is now called the Department of Education and Training.
