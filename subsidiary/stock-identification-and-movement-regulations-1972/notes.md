@@ -50,6 +50,7 @@ Stock (Identification and Movement) Amendment Regulations (No. 2) 2005 | 31 May 
 Stock (Identification and Movement) Amendment Regulations 2005 | 14 Jun 2005 p. 2619-25 | 14 Jun 2005
 Reprint 3: The Stock (Identification and Movement) Regulations 1972 as at 7 Oct 2005 (includes amendments listed above)
 Stock (Identification and Movement) Amendment Regulations (No. 2) 2006 | 16 Jun 2006 p. 2120-1 | 1 Jul 2006 (see. r. 2)
+Stock (Identification and Movement) Amendment Regulations 2006 | 19 Sep 2006 p. 3707-8 | 19 Sep 2006
 Now known as the Stock (Identification and Movement) Regulations 1972; citation changed (see note under r. 1).
 The commencement date of 1 Jul 1982 that was specified was before the date of gazettal.
 The commencement date of 1 Oct 1983 that was specified was before the date of gazettal.
