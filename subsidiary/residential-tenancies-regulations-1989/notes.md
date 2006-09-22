@@ -24,6 +24,7 @@ Residential Tenancies Amendment Regulations 2004 | 24 Dec 2004 p. 6149-53 | 24 D
 Courts and Legal Practice (Consequential Amendments) Regulations 2005 r. 11 | 19 Apr 2005 p. 1294-302 | 19 Apr 2005
 Residential Tenancies Amendment Regulations 2005 | 29 Apr 2005 p. 1771-6 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7128)
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 84 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
+Residential Tenancies Amendment Regulations 2006 | 22 Sep 2006 p. 4126-30 | 22 Sep 2006 (see r. 2(a))
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Footnote no longer applicable.
 Under the Public Transport Authority Act 2003 the Western Australian Government Railways Commission is succeeded by the Public Transport Authority of Western Australia.
@@ -32,4 +33,3 @@ Now see the Western Australian Meat Industry Authority.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference to the Ministry of Sport and Recreation is to be read and construed as a reference to the Department of Sport and Recreation.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference to the Health Department of Western Australia is to be read and construed as a reference to the Department of Health.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference to the Crown Law Department is to be read and construed as a reference to the Department of Justice.
-Under the Alteration of Statutory Designations Order (No. 2) 2001 a reference to the Ministry of Fair Trading is to be read and construed as a reference to the Department of Consumer and Employment Protection.

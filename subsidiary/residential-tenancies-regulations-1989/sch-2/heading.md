@@ -1,3 +1,2 @@
 ## Schedule 2
 [reg. 14]
-RESIDENTIAL TENANCIES ACT 1987
