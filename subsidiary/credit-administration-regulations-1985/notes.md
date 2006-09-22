@@ -17,3 +17,4 @@ Credit (Administration) Amendment Regulations 1993 | 30 Nov 1993 p. 6408-9 | 30 
 Credit (Administration) Amendment Regulations 2005 | 28 Jun 2005 p. 2902 | 1 Jul 2005 (see r. 2)
 Credit (Administration) Amendment Regulations (No. 3) 2006 | 13 Jun 2006 p. 2056 | 13 Jun 2006
 Credit (Administration) Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2253 | 1 Jul 2006 (see r. 2)
+Credit (Administration) Amendment Regulations 2006 | 22 Sep 2006 p. 4094-7 | 22 Sep 2006 (see r. 2(a))
