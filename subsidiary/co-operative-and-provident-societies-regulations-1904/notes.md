@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 December 2005 of the Co-operative and Provident Societies Regulations 1904 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Co-operative and Provident Societies Regulations 1904 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Untitled regulations | 19 Jan 1904 p. 161-87 | 19 Jan 1904
@@ -11,5 +11,7 @@ Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 9 | 30 
 Co-operative and Provident Societies Act Amendment Regulations 2004 | 30 Dec 2004 p. 6913 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Co-operative and Provident Societies Amendment Regulations 2005 | 11 Jan 2005 p. 91-5 | 11 Jan 2005
 Reprint 1: The Co-operative and Provident Societies Regulations 1904 as at 2 Dec 2005 (includes amendments listed above)
+Co-operative and Provident Societies Amendment Regulations 2006 | 22 Sep 2006 p. 4091-4 | 22 Sep 2006 (see r. 2(a))
 Repealed by the Evidence Act 1906 First Schedule.
 Now known as the Co-operative and Provident Societies Regulations 1904; citation changed (see note under r. 1).
+These regulations expire 1 Sep 2012 (see Co-operatives Act 2009 s. 491 and Gazette 13 Aug 2010 p. 3975).
