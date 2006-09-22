@@ -45,11 +45,12 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(2) | 28 of 200
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
- | Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
- | Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
- | Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
- | Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
- | Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
+Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
+Parole and Sentencing Legislation Amendment Act 2006 s. 91 | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 The Juries Amendment Act 1984 s. 25 reads as follows:
 “
@@ -128,4 +129,16 @@ On the date as at which this compilation was prepared, the Machinery of Governme
 “
 (i) Officer or employee of the department of the Public Service principally assisting in the administration of this Act, other than an officer in the Public Trust Office;
 ”.
+”.
+On the date as at which this compilation was prepared, the Parole and Sentencing Legislation Amendment Act 2006 s. 91 had not come into operation. It reads as follows:
+“
+91.Juries Act 1957 amended
+(1) The amendments in this section are to the Juries Act 1957.
+(2) The Second Schedule Part I clause 2 is amended as follows:
+(a) by deleting paragraph (l) and inserting instead —
+“
+(l) member of the Mentally Impaired Accused Review Board under the Criminal Law (Mentally Impaired Accused) Act 1996;
+”;
+(b) in paragraph (m) by deleting “Parole Board” and inserting instead —
+“ Prisoners Review Board ”.
 ”.
