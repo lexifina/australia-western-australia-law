@@ -1,5 +1,4 @@
 ## Second Schedule
-Form 7
 Debt Collectors Licensing Act 1964
 FIDELITY BOND
 KNOW ALL MEN BY THESE PRESENTS that
@@ -14,4 +13,4 @@ The Common Seal of
 was hereunto affixed
 pursuant, etc.,
 in the presence of:
-[Form 7 amended in Gazette 30 Dec 2004 p. 6917.]
+[Second Schedule amended in Gazette 30 Dec 2004 p. 6917; 22 Sep 2006 p. 4104.]
