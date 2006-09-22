@@ -28,6 +28,10 @@ Misuse of Drugs Amendment Act 2004 | 62 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see 
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Misuse of Drugs Act 1981 as at 1 Jul 2005 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 14 Div 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Misuse of Drugs Amendment Act 2006 s. 4 | 40 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
 “
@@ -86,3 +90,16 @@ If, immediately before the commencement of this Act, a warrant issued under the 
 (9) To the extent that a provision of this section relating to any property is inconsistent with the Transfer of Land Act 1983, the provision prevails, but this section does not otherwise affect the operation of that Act in relation to the property.
 ”.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Part 19 provides general transitional provisions concerning references to Departments and chief executive officers that are amended or repealed by that Act.
+On the date as at which this compilation was prepared, the Misuse of Drugs Amendment Act 2006 s. 4 had not come into operation. It reads as follows:
+“
+4.Section 32A amended
+Section 32A(3) is amended in the definition of “external serious drug offence” as follows:
+(a) in paragraph (a) after “law of” by inserting —
+“ the Commonwealth, of ”;
+(b) by deleting paragraph (b) and inserting instead —
+“
+(b)offence against —
+(i) the repealed section 233B of the Customs Act 1901 of the Commonwealth; or
+(ii) a law of the Commonwealth, which offence is prescribed to correspond to an offence against that repealed section;
+”.
+”.
