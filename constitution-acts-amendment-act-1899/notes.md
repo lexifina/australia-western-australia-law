@@ -233,6 +233,7 @@ Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (
 Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be proclaimed (see s. 2)
 Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
+Parole and Sentencing Legislation Amendment Act 2006 s. 89 | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -457,3 +458,14 @@ The Medical Radiation Technologists Registration Board of Western Australia esta
 ”.
 Repealed by the Statute Law Revision Act 2006 s. 3(1).
 Repealed by the Statute Law Revision Act 2006 s. 3(1).
+On the date as at which this compilation was prepared, the Parole and Sentencing Legislation Amendment Act 2006 s. 89 had not come into operation. It reads as follows:
+“
+89.Constitution Acts Amendment Act 1899 amended
+(1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended as follows:
+(a) by deleting “The Parole Board established under the Sentence Administration Act 2003.”;
+(b) by inserting in the appropriate alphabetical position —
+“
+The Prisoners Review Board established under the Sentence Administration Act 2003.
+”.
+”.
