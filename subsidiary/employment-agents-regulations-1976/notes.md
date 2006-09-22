@@ -24,5 +24,6 @@ Reprint 2: The Employment Agents Regulations 1976 as at 6 Feb 2004 (includes ame
 Employment Agents Amendment Regulations 2004 | 29 Jun 2004 p. 2512-13 | 1 Jul 2004 (see r. 2)
 Employment Agents Amendment Regulations (No. 2) 2004 | 30 Dec 2004 p. 6918-20 | 1 Jan 2005 (see r 2 and Gazette 31 Dec 2004 p. 7130)
 Employment Agents Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2271-2 | 1 Jul 2006 (see r. 2)
+Employment Agents Amendment Regulations 2006 | 22 Sep 2006 p. 4108-11 | 22 Sep 2006 (see r. 2(a))
 Footnote no longer applicable.
 Now the Minister for Consumer and Employment Protection.
