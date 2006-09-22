@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Young Offenders Act 1994 and includes the amendments made by the other written laws referred to in the following table6-8. The table also contains information about any reprint.
+This is a compilation of the Young Offenders Act 1994 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Young Offenders Act 1994 | 104 of 1994 | 11 Jan 1995 | 13 Mar 1995 (see s. 2 and Gazette 10 Mar 1995 p. 895)
@@ -29,6 +29,10 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Misuse of Drugs Amendment Act 2004 s. 9(4) | 62 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 10 Dec 2004 p. 5965)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 15, s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Young Offenders Act 1994 as at 15 Jul 2005 (includes amendments listed above except those in the Sentencing Legislation Amendment Act 2004 s. 17)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and Year | Assent | Commencement
+Parole and Sentencing Legislation Amendment Act 2006 Pt. 5 | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -66,4 +70,35 @@ In this Schedule —
 3.Conditions of employment of other employees and officers on commencement to continue
 (1) A person who was appointed by the Minister under the Act as an overseer, or as an officer or employee without custodial functions, before commencement, and who is still employed immediately before commencement, is to be regarded, on commencement, as having been appointed by the chief executive officer under section 11(1a)(b) of the principal Act (as amended by this Act), on the same terms and conditions, including as to remuneration, as those which applied to the person immediately before commencement.
 (2) A person to whom subclause (1) applies retains all existing and accruing rights and benefits as if the person’s employment, for the purposes of the principal Act, were a continuation of the person's employment immediately before commencement.
+”.
+On the date as at which this compilation was prepared, the Parole and Sentencing Legislation Amendment Act 2006 Pt. 5 had not come into operation. It reads as follows:
+“
+Part 5 — Young Offenders Act 1994 amended
+85.The Act amended in this Part
+The amendments in this Part are to the Young Offenders Act 1994.
+86.Section 15A amended
+Section 15A(5)(b)(i) is amended by deleting “Parole Board” and inserting instead —
+“ Prisoners Review Board ”.
+87.Section 133 amended
+(1) After section 133(1)(b) the following paragraph is inserted —
+“
+(ba) the Board has considered any statement received from a victim of the offence in respect of which the detainee is in custody;
+”.
+(2) After section 133(2) the following subsection is inserted —
+“
+(3) In this section —
+“victim” of an offence, means —
+(a)a person who has suffered injury, loss or damage as a direct result of the offence, whether or not that injury, loss or damage was reasonably foreseeable by the offender; or
+(b)where the offence results in a death, any member of the immediate family of the deceased.
+”.
+88.Section 152 amended
+Section 152(1) is amended as follows:
+(a) by deleting “5” and inserting instead —
+“ 6 ”;
+(b) in paragraph (b) by inserting after “Governor” —
+“ under subsection (3)(a) and (b) ”;
+(c) by inserting after paragraph (b) —
+“
+(ba) one person with an understanding of victims’ interests and concerns appointed by the Governor;
+”.
 ”.
