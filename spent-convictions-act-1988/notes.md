@@ -39,6 +39,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 5 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
+Parole and Sentencing Legislation Amendment Act 2006 s. 96 | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 s. 34, 34B and 40 were repealed by the Young Offenders Act 1994.
@@ -74,5 +75,17 @@ The amendments in this Division are to the Spent Convictions Act 1988.
 Schedule 3 clause 1 item 10 of the Table is amended by deleting “Community and Juvenile Justice Division or the Prisons Division of the Department of Justice” and inserting instead —
 “
 department of the Public Service principally assisting in the administration of this Act
+”.
+”.
+On the date as at which this compilation was prepared, the Parole and Sentencing Legislation Amendment Act 2006 s. 96 had not come into operation. It reads as follows:
+“
+96.Spent Convictions Act 1988 amended
+(1) The amendments in this section are to the Spent Convictions Act 1988.
+(2) Schedule 3 clause 1(1) is amended in the Table as follows:
+(a) in item 1 by deleting “Parole Board” and inserting instead —
+“ Prisoners Review Board ”;
+(b) by inserting after item 1A the following item —
+“
+1B. | The Mentally Impaired Accused Review Board established by the Criminal Law (Mentally Impaired Accused) Act 1996. | Division 4
 ”.
 ”.
