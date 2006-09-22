@@ -18,3 +18,4 @@ Associations Incorporation Amendment Regulations 2003 | 3 Jun 2003 p. 1977-8 | 3
 Associations Incorporation Amendment Regulations (No. 2) 2003 | 27 Jun 2003 p. 2541-2 | 1 Jul 2003 (see r. 2)
 Associations Incorporation Amendment Regulations 2004 | 30 Dec 2004 p. 6906 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Associations Incorporation Amendment Regulations 2005 | 28 Jun 2005 p. 2909-10 | 1 Jul 2005 (see r. 2)
+Associations Incorporation Amendment Regulations 2006 | 22 Sep 2006 p. 4071-4 | 22 Sep 2006 (see r. 2(a))
