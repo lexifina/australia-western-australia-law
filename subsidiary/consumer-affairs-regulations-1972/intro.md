@@ -1,3 +1,3 @@
 Western Australia
 Consumer Affairs Act 1971
-Consumer Affairs Act Regulations
+Consumer Affairs Regulations 1972
