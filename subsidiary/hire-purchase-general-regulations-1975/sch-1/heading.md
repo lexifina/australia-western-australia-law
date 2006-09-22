@@ -1,4 +1,6 @@
-## The Schedule
+## Schedule 1 — Forms
+[r. 3, 4, 6]
+[Heading inserted in Gazette 22 Sep 2006 p. 4116.]
 Form 1
 HIRE-PURCHASE ACT 1959
 (Section 12A)
@@ -89,4 +91,37 @@ NOTE:
 3. A grant or refusal of relief by the Commissioner shall be by instrument in writing signed by him and served on the hirer, owner and every guarantor.
 4. An owner, hirer or guarantor aggrieved by the decision of the Commissioner may apply to the State Administrative Tribunal for a review of the decision.
 [Form 2 amended in Gazette 30 Jun 2003 p. 2604; 30 Dec 2004 p. 6922.]
+Form 3
+Hire-Purchase Act 1959 Infringement notice | Infringement notice no.
+Alleged offender | Name:Family name
+Given names
+orCompany name ____________________________________ ACN
+Address ________________________________________________ Postcode
+Alleged offence | Description of offence _____________________________________
+Hire-Purchase Act 1959 s.
+Date //20Time a.m./p.m.
+Modified penalty $
+Officer issuing notice | Name
+Signature
+Office
+Date | Date of notice //20
+Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque or money order (payable to ‘Approved Officer — Hire-Purchase Act 1959’) to: Approved Officer — Hire-Purchase Act 1959 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 In person: Pay the cashier at: Department of Consumer and Employment Protection 219 St George’s Terrace, Perth WA If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act your driver’s licence and/or vehicle licence may be suspended. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Approved Officer at the above postal address. If you want this matter to be dealt with by prosecution in court, sign here _______________________________________ and post this notice to the Approved Officer at the above postal address within 28 days after the date of this notice.
+[Form 3 inserted in Gazette 22 Sep 2006 p. 4117.]
+Form 4
+Hire-Purchase Act 1959 Withdrawal of infringement notice | Withdrawal no.
+Alleged offender | Name:Family name
+Given names
+orCompany name _____________________________________ ACN
+Address _________________________________________________ Postcode
+Infringement notice | Infringement notice no.
+Date of issue //20
+Alleged offence | Description of offence ____________________________________
+Hire-Purchase Act 1959 s.
+Date //20Timea.m./p.m.
+Officer withdrawing notice | Name
+Signature
+Office
+Date | Date of withdrawal //20
+Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to: Approved Officer — Hire-Purchase Act 1959 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 Signature//20
+[Form 4 inserted in Gazette 22 Sep 2006 p. 4117-18.]
 [Schedule amended in Gazette 30 Jun 2003 p. 2604; 30 Dec 2004 p. 6922.]
