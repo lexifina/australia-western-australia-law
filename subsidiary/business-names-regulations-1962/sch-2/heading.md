@@ -1,114 +1,50 @@
-## Second Schedule
-Form 1 — Application for registration of a business name
-Business Names Act 1962 s. 7 Business Names Regulations 1962Form 1 Application for registration of a business name [Please use BLOCK LETTERS]
-Details of the business
-1 | Business name to be registered
-2 | Alternative names (if above name not available) | 2nd preference:
-3rd preference:
-4th preference:
-3 | Existing business name [if any] | [if existing business name is to be cancelled, complete Form 5]
-4 | Nature of business [be concise]
-5 | Address(es) in WA where business is or is proposed to be carried on [include postcode(s)] | Principal place of business:
-Other place:
-Other place:
-6 | Address in WA for service of notices under the Act [postal address acceptable]
-7 | Commencement date of business
-Details of the persons who do or will carry on the business
-8 | Applicants who are individuals [give date of birth if under 18 years of age] [if insufficient space, attach an annexure] | Surname: Given names: Date of birth: Residential address: (not P.O. Box No.) Signature:
-Surname: Given names: Date of birth: Residential address: (not P.O. Box No.) Signature:
-Have any of the above persons been convicted in WA or elsewhere — ·on indictment of an offence in connection with the promotion, formation or management of a corporation; ·of an offence involving fraud or dishonesty punishable on conviction with imprisonment for 3 months or more; or ·of any other offence relating to the management or administration of a corporation or the purchase or selling of shares in a corporation? Yes/No If yes you must contact the Department before you lodge this form.
-9 | Applicants who are corporations [the officer signing must be a director or secretary of the corporation] [if insufficient space, attach an annexure] | Corporation name: ACN: Registered office: (not P.O. Box No.) Officer’s full name: Officer’s signature: Officer’s position: | Date:
-Corporation name: ACN: Registered office: (not P.O. Box No.) Officer’s full name: Officer’s signature: Officer’s position: | Date:
-Details of person who may be contacted about this application
-10 | Name: Address: Telephone: Fax: Email:
-[Form 1 inserted in Gazette 20 Jul 2004 p. 2904-5.]
-Form 2
-Western Australia
-Business Names Act 1962
-No. .............................. Section 7(4) and (5).
-CERTIFICATE OF REGISTRATION OF BUSINESS NAME
-I hereby certify that the business name .................................................................. was on the ................... day of .................................. 20......., registered, pursuant to and subject to the Business Names Act 1962.
-Given under my hand at Perth this ..................... day of .......................... 20........
-...........................................................
-Commissioner for Fair Trading
-[Form 2 amended in Gazette 20 Jul 2004 p. 2905.]
-Form 3 — Statement for renewal of registration of a business name
-Business Names Act 1962 s. 11(1) Business Names Regulations 1962Form 3 Statement for renewal of registration of a business name [Please use BLOCK LETTERS]
-Details of the business
-1 | Registered business name
-2 | Registration number
-3 | Date registration expires
-4 | Nature of business [be concise]
-5 | Address(es) in WA where business is being carried on [include postcode(s)] | Principal place of business:
-Other place:
-Other place:
-6 | Address in WA for service of notices under the Act [postal address acceptable]
-Details of the persons who carry on the business
-7 | Individuals | Surname: Given names:
-Surname: Given names:
-Surname: Given names:
-Have any of the above persons been convicted in WA or elsewhere — ·on indictment of an offence in connection with the promotion, formation or management of a corporation; ·of an offence involving fraud or dishonesty punishable on conviction with imprisonment for 3 months or more; or ·of any other offence relating to the management or administration of a corporation or the purchase or selling of shares in a corporation? Yes/No If yes you must contact the Department before you lodge this form.
-8 | Corporations | Corporation name: ACN:
-Corporation name: ACN:
-Corporation name: ACN:
-Declaration
-9 | Declaration [making a false declaration is an offence with a penalty of $1 000] | I declare that the persons named above are carrying on a business under the above business name and that all the details on this form are true and correct. Telephone:Email:
-Surname & given names: Signature: | Date:
-Corporation name: ACN: Officer’s full name: Officer’s signature: Officer’s position: | Date:
-10 | Capacity of person making declaration [tick one box] | An individual carrying on the business. An officer who is a director or secretary of a corporation carrying on the business.
-[Form 3 inserted in Gazette 20 Jul 2004 p. 2905-6.]
-Form 4 — Statement of change in registered particulars
-Business Names Act 1962 s. 12(1), (2), (3) & (4) Business Names Regulations 1962Form 4 Statement of change in registered particulars [Please use BLOCK LETTERS]
-Details of the business
-1 | Registered business name
-2 | Registration number
-Change of place(s) of the business [Act s. 12(1)(b)]
-3 | New address(es) in WA where the business is carried on [include postcode(s)] | New principal place of business: Date opened:
-New additional place of business: Date opened:
-4 | Address(es) in WA where the business no longer carried on [include postcode(s)] | Address: Date closed:
-Address: Date closed:
-Change of address for service of notices [Act s. 12(1)(c)]
-5 | New address in WA for service of notices under the Act [postal address acceptable]
-6 | Date of change
-Change of nature of the business [Act s. 12(1)(a)]
-7 | New nature of business
-8 | Date of change
-Person(s) who have commenced carrying on the business [Act s. 12(4)]
-9 | New individuals carrying on the business [give date of birth if under 18 years of age] | Surname: Given names: Date of birth: Residential address: (not P.O. Box No.) Date commenced:
-Surname: Given names: Date of birth: Residential address: (not P.O. Box No.) Date commenced:
-Has a person specified above been convicted in WA or elsewhere — ·on indictment of an offence in connection with the promotion, formation or management of a corporation; ·of an offence involving fraud or dishonesty punishable on conviction with imprisonment for 3 months or more; or ·of any other offence relating to the management or administration of a corporation or the purchase or selling of shares in a corporation? Yes/No If yes you must contact the Department before you lodge this form.
-10 | New corporations carrying on the business | Corporation name: ACN: Registered office: (not P.O. Box No.) Date commenced: | Date:
-Corporation name: ACN: Registered office: (not P.O. Box No.) Date commenced: | Date:
-Person(s) who have ceased carrying on the business [Act s. 12(3)]
-11 | Individuals who have ceased to carry on the business | Surname: Given names: Date ceased:
-Surname: Given names: Date ceased:
-12 | Corporations that have ceased to carry on the business | Corporation name: ACN: Date ceased:
-Corporation name: ACN: Date ceased:
-Details of all person(s) continuing to carry on the business [To be completed only if any of items 9 to 12 above has been completed]
-13 | Individuals who continue to carry on the business | Surname: Given names: Address:
-Surname: Given names: Address:
-14 | Corporations that continue to carry on the business | Corporation name: ACN: Registered office: (not P.O. Box No.)
-Corporation name: ACN: Registered office: (not P.O. Box No.)
-Change of details of person(s) carrying on the business [Act s. 12(2)]
-15 | Change of name [e.g. by marriage or deed poll] | Old name: New name: ACN (if corporation): Date of change:
-16 | Change of address | Surname & given names or corporation name & ACN: Old address: New address: Date of change:
-Declaration
-Who must complete this declaration ·If item 3, 4, 5 or 7 above is completed — any one of the persons carrying on the business. ·If item 9 or 10 above is completed — the continuing and commencing proprietors. ·If item 11 or 12 above is completed — the continuing and ceasing proprietors. ·If item 15 or 16 above is completed — the person or corporation named in the item. [For details of the above see the Act s. 12(1), (2), (3) & (4).]
-17 | Declaration | I/we declare that all the details on this form are true and correct.
-18 | Signatures [making a false declaration is an offence with a penalty of $1 000] [the officer signing must be a director or secretary of the corporation] | Surname & given names: Signature: | Date:
-Surname & given names: Signature: | Date:
-Corporation name: ACN: Officer’s full name: Officer’s signature: Officer’s position: | Date:
-Corporation name: ACN: Officer’s full name: Officer’s signature: Officer’s position: | Date:
-[Form 4 inserted in Gazette 20 Jul 2004 p. 2906-9.]
-Form 5 — Notice of cessation of business under business name
-Business Names Act 1962 s. 12(3) Business Names Regulations 1962Form 5 Notice of cessation of business under business name [Please use BLOCK LETTERS]
-1 | Registered business name
-2 | Registration number
-3 | Notice of cessation | I/we give notice that the business formerly carried on under the above business name has ceased to be carried on in Western Australia as from and including the day of20 .
-4 | Signatures of all persons in relation to whom the business name is registered [the officer signing must be a director or secretary of the corporation] | Surname & given names Signature: | Date:
-Surname & given names Signature: | Date:
-Corporation name: ACN: Officer’s full name: Officer’s signature: Officer’s position: | Date:
-Corporation name: ACN: Officer’s full name: Officer’s signature: Officer’s position: | Date:
-[Form 5 inserted in Gazette 20 Jul 2004 p. 2909.]
-[Forms 6 and 7 deleted in Gazette 20 Jul 2004 p. 2909.]
-[Second Schedule amended in Gazette 15 Sep 1989 p. 3392-7; 14 Sep 1990 p. 4756; 8 Dec 2000 p. 6917-18; 6 Jun 2003 p. 2027-8; 20 Jul 2004 p. 2904-9.]
+## Third Schedule
+[Regulation 10]
+Item |  | $
+ | General Fees
+1. | Upon lodging a statement under section 7(1) of the Act ........ | 90
+2. | For a further certificate of registration under section 7(5) of the Act ..................................................................................... | 7
+3. | Upon lodging a statement under section 11(1) of the Act to renew the registration of a business name that expires on or after 1 February 2004 ............................................................. | 75
+4. | On the late lodging of a document under the Act, in addition to any other fee —
+(a)if lodged within 1 month after the period prescribed by law ........................................................................... | 12
+(b)if lodged more than 1 month after the period prescribed by law in addition to the fee payable under paragraph (a) ................................................................ | 24
+The Commissioner, if satisfied that just cause existed for the late lodgement, may waive in whole or in part either fee prescribed by this item.
+5. | For every inquiry with respect to any business name specified in the inquiry ........................................................... | 10
+6. | For a certificate under section 23(1)(b) of the Act ................. | 7
+7. | For every inquiry under section 9(1) of the Act — for each name ........................................................................................ | 10
+8. | For any other act by the Commissioner required or authorised to be done under the Act and for which a fee is not elsewhere prescribed ......................................................... | 10
+9. | For every application for consent of the Minister to use of a business name ......................................................................... | 24
+10. | For every order of the Minister granting consent to the use of a business name ...................................................................... | 30
+Inspection Fees and Supply of Uncertified Copies of Statements
+11. | (a)For every inspection of a document or documents lodged with the Commissioner in relation to a business name or of any transparency or reproduction of such document or documents ................................... | 5
+ | (b)For the supply of an uncertified copy or print of any document where the fee prescribed by paragraph (a) has been paid —
+ | for each page of print ............................................... | 2
+ | (c)For the supply of an uncertified copy or print of any document without inspection having been made —
+ | for the first 2 pages of the print ............................... | 5
+ | for each additional page........................................... | 2
+Certified Copies and Extracts
+12. | For certifying by the Commissioner under section 23(1)(a) of the Act a copy of or extract from a document or transparency forming part of the register —
+ | (a)where a printed or typewritten copy of or extract from that document or transparency supplied by the applicant —
+ | for 1 page ................................................................... | 5
+ | for each additional page.............................................. | 2
+ | (b)in any other case —
+ | for 1 page.................................................................... | 5
+ | for each additional page.............................................. | 2
+Supply of Uncertified Copies of Computer Printout of Business Names by Reference to Postcode
+13. | For the supply of a computer printout of the registered business names in a given postcode area showing the —
+ | (a)registered business number;
+ | (b)registered business name; and
+ | (c)principal place of business —
+ | for each request .......................................................... and | 10
+ | for each page of print.................................................. | 2
+Supply of Uncertified Copies of Computer Printout of Business Names by Reference to a Proprietor
+14. | For the supply of a computer printout of the proprietors of a business name, using the surname and first initial of a proprietor as the selection criteria, showing the —
+ | (a)names and addresses of the proprietors;
+ | (b)registered business number;
+ | (c)registered business name; and
+ | (d)principal place of business —
+ | for each request .......................................................... | 30
+15. | For the supply of a computer printout of the registered business names, using an Australian Standard Industry Classification (ASIC) code —
+ | for each request .......................................................... and | 10
+ | for each name shown.................................................. | 1
+[Third Schedule inserted in Gazette 27 Jun 1995 p. 2544-6; amended in Gazette 28 Jun 1996 p. 3019; 9 Jun 1998 p. 3094; 8 Dec 2000 p. 6918; 2 Nov 2001 p. 5793 (disallowed 20 Mar 2002 p. 1756); 28 Dec 2001 p. 6714; 9 Jan 2004 p. 88; 28 Jun 2005 p. 2907; 27 Jun 2006 p. 2251.]
