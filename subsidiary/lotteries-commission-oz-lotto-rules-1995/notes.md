@@ -12,4 +12,5 @@ Reprint of the Lotteries Commission (Oz Lotto) Rules 1995 as at 17 May 2002 (inc
 Lotteries Commission (Oz Lotto) Amendment Rules 2003 | 8 Aug 2003 p. 3580-1 | 10 Aug 2003 (see r. 2)
 Lotteries Commission (Oz Lotto) Amendment Rules 2005 | 5 Aug 2005 p. 3597-8 | 5 Aug 2005
 Lotteries Commission (Oz Lotto) Amendment Rules (No. 2) 2005 | 6 Sep 2005 p. 4119-28 | 12 Oct 2005 (see r. 2)
+Lotteries Commission (Oz Lotto) Amendment Rules 2006 | 29 Sep 2006 p. 4270-1 | 29 Sep 2006
 The Lotteries Commission (Oz Lotto) Amendment Rules 1997 r. 9 was a transitional provision that is of no further effect.
