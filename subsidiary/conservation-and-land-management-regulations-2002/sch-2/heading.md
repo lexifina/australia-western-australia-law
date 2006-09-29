@@ -4,14 +4,22 @@
  | Column 1 | Column 2 | Column 3
 Item No. | Section creating offence | Nature of offence | Penalty $
 1. | 101C | Unlawfully taking flora or fauna in marine nature reserve, marine park or marine management area | 200
+2. | 103(1) | Unlawful taking of forest produce | 200
+3. | 106 | Unlawful occupation of land | 200
+4. | 107(b) | Unlawfully altering signs etc. | 200
+5. | 107(c) | Damaging buildings etc. | 200
+6. | 107(d) | Destroying dams etc. | 200
+7. | 107(i) | Removing forest produce without paying | 200
+[Division 1 amended in Gazette 29 Sep 2006 p. 4330-1.]
 ## Division 2 — Offences under these regulations
  | Column 1 | Column 2 | Column 3
 Item No. | Regulation creating offence | Nature of offence | Penalty $
 1. | 8(1) | Taking flora or fauna | 200
-2. | 9(1) | Fishing in restricted or classified area | 100
+2. | 9(1) | Fishing in restricted area | 100
 3. | 10 | Feeding fauna | 50
 4. | 12(1) | Failing to stow firearm or ammunition | 100
 5. | 12(2) | Possession in restricted or classified area of unstowed spear, speargun or gidgie | 100
+6a. | 12(3a) | Unauthorised use of firearm, spear gun etc. | 200
 6. | 12(3) | Possession of restricted device | 100
 7. | 15 | Bringing animal on to, or allowing animal to enter or remain, on CALM land | 50
 8. | 16(2) | Failing to control or manage dog in designated area | 50
@@ -19,7 +27,7 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 10. | 18 | Hunting etc. non-indigenous animal | 100
 11. | 19 | Failing to remove animal | 50
 12. | 21(1) | Causing or allowing waste to be discharged or placed on CALM land | 200
-13. | 21(4) | Failing to comply with conditions for discharging sewage in restricted area | 200
+13. | 21(4) | Failing to comply with conditions for discharging sewage in designated area | 200
 14. | 22 | Painting or treating vessels | 200
 15. | 23(1) | Polluting water supply | 200
 16. | 23(2) | Swimming etc. in reservoir or tank | 50
@@ -32,35 +40,49 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 23. | 31(1) | Damaging, disturbing or removing naturally occurring feature | 200
 24. | 32 | Sandboarding | 50
 25. | 33 | Abseiling | 50
+25a. | 34(1) | Unauthorised structure | 200
+25b. | 34(4) | Failing to comply with direction to pull down etc. unauthorised structure | 200
+25c. | 35A(1) | Quarrying, removing or disturbing soil etc. | 200
 26. | 36 | Dumping of vehicles etc. | 200
 27. | 37(1) | Billsticking etc. | 50
 28. | 37(2) | Damaging or interfering with thing or structure | 200
 29. | 38(1) | Erecting unauthorised sign or notice | 100
-30. | 39(1) | Unlawful lighting of campfire etc. | 200
+30. | 39(1) or (2) | Unlawful lighting of fires etc. | 200
 31. | 40(2) | Failing to comply with direction to extinguish fire | 200
-32. | 41 | Entering certain classified areas | 200
+32. | 41(1) or (2) | Entering certain classified areas | 200
 33. | 42 | Entering limited access area other than on foot or by vessel | 200
 34. | 43 | Entering wilderness area by vehicle, vessel or animal | 100
 35. | 46(1) | Entering closed area | 100
-36. | 47(1) | Failing to enter through gate or barrier | 35
-37. | 47(2) | Unlawfully opening gate or barrier | 35
+36. | 47(1) | Failing to enter through gate or barrier | 50
+37. | 47(2) | Unlawfully unlocking etc. gate or barrier | 50
+37a. | 47(3) | Unlawfully removing etc. gate or barrier | 50
 38. | 48 | Entering or remaining on area set aside for Departmental purposes | 50
 39. | 49(4) | Entering or remaining in cave | 100
 40. | 49(5) | Failing to comply with condition or restriction of permit to enter cave | 100
+40a. | 50 | Unlawfully organising cross country events etc. | 100
 41. | 51(1) | Unlawfully driving or using vehicle | 100
+41a. | 51(3) | Unlawfully driving or using vehicle in restricted area | 200
+41b. | 51A(1) | Unlawfully riding a bicycle on CALM land | 50
+41c. | 51A(3) | Unlawfully riding a bicycle in restricted area | 100
 42. | 52 | Unlawfully using off-road vehicle | 100
+42a. | 53 | Unlawfully organising car rallies etc. | 200
 43. | 54(1) | Breaching traffic law | 50
 44. | 55 | Failing to obey direction in relation to the parking or movement of vehicle | 50
 45. | 56(1) | Parking contrary to direction on sign | 50
 46. | 56(4) | Failing to pay parking charge or display ticket | 50
 47. | 57 | Obstructing vehicle etc. | 50
+47a. | 59(1) | Unlawfully mooring vessel | 200
 48. | 59(2) | Using an unlawful mooring | 100
 49. | 59(3) | Securing a vessel in an unlawful manner | 100
 50. | 60(1) | Anchoring a vessel in a restricted area | 100
 51. | 61 | Operating certain vessels in a restricted area | 50
+51a. | 61A | Unlawful operation of vessels in nature reserves | 100
+51b. | 62(1) | Unsafe navigation of vessels | 50
 52. | 63 | Failing to obey direction as to vessel | 50
 53. | 64(1) | Launching etc. vessel in restricted area | 100
+53a. | 64(2) | Launching etc. vessel in restricted area — contravention of restriction | 100
 54. | 64(4) | Failing to comply with direction to remove vessel | 100
+54a. | 65(1) | Unlawful landing of aircraft etc. | 100
 55. | 66(1) | Camping other than in camping area | 50
 56. | 66(2) | Failing to comply with condition of camping area | 50
 57. | 67(2) | Failing to comply with direction to vacate camp | 100
@@ -71,17 +93,25 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 62. | 69(4) | Failing to confine camp to allotted or defined site | 50
 63. | 69(6) | Failing to comply with direction to move site | 100
 64. | 70(2) | Failing to comply with direction as to power generator | 100
+64a. | 71(2a) | Unlawfully collecting firewood for campfire | 20
+64b. | 73(2) | Failing to comply with signs | 50
 65. | 75(2) | Taking intoxicating substance into cave | 50
 66. | 76(1) | Removing CALM property | 200
+66a. | 78(1a) | Failing to comply with order to remove unauthorised property | 50
 67. | 88(2) | Failing to comply with requirement to return licence | 50
 68. | 98(3) | Contravention of condition of commercial operations licence | 100
 69. | 99(5) | Failing to pay entrance fee | 35
+69a. | 99A(3) | Failing to pay landing fee for tour aircraft | 100
 70. | 100(4) | Failing to pay fee for Tree Top Walk | 35
+70a. | 100A(4) | Failing to pay entrance fee | 35
 71. | 102 | Failing to pay entrance fee when entering on horseback | 35
+71a. | 102A(4) | Failing to pay abseiling fee | 35
 72. | 103(4) | Failing to pay camping fee | 35
-73. | 105 | Organising etc. meeting etc. | 200
-74. | 106 | Selling goods or services, or carrying on business | 200
+73. | 105(1) | Organising etc. meeting etc. | 200
+74. | 106(1) | Selling goods or services, or carrying on business | 200
+74a. | 106(2) | Advertising goods or services or a business | 200
 75. | 107 | Distributing etc. printed matter etc. | 50
 76. | 108 | Unlawfully taking still or motion pictures | 50
 77. | 109 | Failing to produce licence etc. | 100
 78. | 110 | Giving false or misleading information | 100
+[Division 2 amended in Gazette 29 Sep 2006 p. 4331-3.]
