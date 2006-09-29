@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 August 2006 of the Lotteries Commission (Saturday Lotto) Rules 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Lotteries Commission (Saturday Lotto) Rules 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Lotteries Commission (Saturday Lotto) Rules 1996 | 15 Nov 1996 p. 6529-52 | Rules other than r. 35(1): 18 Nov 1996 (see r. 2(1)); r. 35(1): 1 Jan 1997 (see r. 2(2))
@@ -14,3 +14,4 @@ Lotteries Commission (Saturday Lotto) Amendment Rules 2003 | 8 Aug 2003 p. 3577-
 Lotteries Commission (Saturday Lotto) Amendment Rules 2005 | 23 Dec 2005 p. 6274-5 | 1 Jan 2006 (see r. 2)
 Lotteries Commission (Saturday Lotto) Amendment Rules 2006 | 10 Feb 2006 p. 661-5 | 12 Mar 2006 (see r. 2)
 Reprint 2: The Lotteries Commission (Saturday Lotto) Rules 1996 as at 4 Aug 2006 (includes amendments listed above)
+Lotteries Commission (Saturday Lotto) Amendment Rules (No. 2) 2006 | 29 Sep 2006 p. 4267-8 | 29 Sep 2006
