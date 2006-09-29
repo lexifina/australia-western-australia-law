@@ -1,1 +1,33 @@
-## Cost of entry — Monday or Wednesday Lotto
+## Schedule 2
+## Agent’s component — Monday or Wednesday lotto draw
+The component of the total cost of entering a Monday or Wednesday lotto draw that is allocated for the agent through whom the entry was sold per number and type of game per week is as follows —
+System | No. of | 1 Week | 2 Weeks | 5 Weeks | 10 Weeks
+ | games | $ | $ | $ | $
+ | 4 | 0.10 | 0.20 | 0.50 | 1.00
+ | 5 | 0.15 | 0.30 | 0.75 | 1.50
+ | 6 | 0.15 | 0.30 | 0.75 | 1.50
+ | 7 | 0.20 | 0.40 | 1.00 | 2.00
+ | 8 | 0.20 | 0.40 | 1.00 | 2.00
+ | 9 | 0.25 | 0.50 | 1.25 | 2.50
+ | 10 | 0.25 | 0.50 | 1.25 | 2.50
+ | 11 | 0.30 | 0.60 | 1.50 | 3.00
+ | 12 | 0.30 | 0.60 | 1.50 | 3.00
+ | 14 | 0.40 | 0.80 | 2.00 | 4.00
+ | 18 | 0.50 | 1.00 | 2.50 | 5.00
+ | 25 | 0.70 | 1.40 | 3.50 | 7.00
+System 7 | 7 | 0.20 | 0.40 | 1.00 | 2.00
+System 8 | 28 | 0.80 | 1.60 | 4.00 | 8.00
+System 9 | 84 | 2.30 | 4.60 | 11.50 | 23.00
+System 10 | 210 | 6.00 | 12.00 | 30.00 | 60.00
+System 11 | 462 | 12.40 | 24.80 | 62.00 | 124.00
+System 12 | 924 | 24.80 | 49.60 | 124.00 | 248.00
+System 13 | 1 716 | 46.20 | 92.40 | 231.00 | 462.00
+System 14 | 3 003 | 81.10 | 162.20 | 405.00 | 811.00
+System 15 | 5 005 | 134.50 | 269.00 | 672.50 | 1 345.00
+System 16 | 8 008 | 215.60 | 431.20 | 1 078.00 | 2 156.00
+System 17 | 12 376 | 334.20 | 668.00 | 1 671.00 | 3 342.00
+System 18 | 18 564 | 500.80 | 1 001.60 | 2 504.00 | 5 008.00
+System 19 | 27 132 | 732.40 | 1 464.80 | 3 662.00 | 7 324.00
+System 20 | 38 760 | 1 046.00 | 2 092.00 | 5 230.00 | N/A
+System 4 | 820 | 22.00 | 44.00 | 110.00 | 220.00
+System 5 | 40 | 1.10 | 2.20 | 5.50 | 11.00
