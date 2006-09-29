@@ -1,8 +1,8 @@
 ## Schedule 4 — Summary of parameters within which Soccer Pools are conducted
 Entry cost | $0.50 + agent’s fee
 Prize fund — % of base costs | 50.0%
-Prize pool — % of base costs | 48.0%
-Prize reserve fund — maximum % of base costs | 2.0%
+Prize pool — % of base costs | no less than 45.0%
+Prize reserve fund — % of base costs | balance of prize fund after prize pool (up to 5.0%)
 Number of Divisions | 5
 Prize pool – Division 1 | 65.0%
 Prize pool – Division 2 | 2.0%
@@ -23,4 +23,4 @@ Games per oral request | 12, 14, 18 or 25
 Systems entries per oral request | 1
 Prize Payout Period | 12 months
 Maximum Aggregate Entry Cost | $99,999.00
-[Schedule 4 amended in Gazette 29 Apr 1997 p. 2149; 9 Mar 2001 p. 1347.]
+[Schedule 4 amended in Gazette 29 Apr 1997 p. 2149; 9 Mar 2001 p. 1347; 29 Sep 2006 p. 4275.]
