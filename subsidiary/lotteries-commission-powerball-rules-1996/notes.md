@@ -11,4 +11,5 @@ Lotteries Commission (Powerball Lotto) Amendment Rules 2002 | 28 Mar 2002 p. 176
 Reprint of the Lotteries Commission (Powerball Lotto) Rules 1996 as at 17 May 2002 (includes amendments listed above)
 Lotteries Commission (Powerball Lotto) Amendment Rules 2003 | 8 Aug 2003 p. 3579-80 | 10 Aug 2003 (see r. 2)
 Lotteries Commission (Powerball Lotto) Amendment Rules 2004 | 16 Nov 2004 p. 5054-66 | 16 Nov 2004
+Lotteries Commission (Powerball) Amendment Rules 2006 | 29 Sep 2006 p. 4272-3 | 29 Sep 2006
 Now known as the Lotteries Commission (Powerball) Rules 1996; citation changed (see note under r. 1).
