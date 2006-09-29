@@ -1,8 +1,8 @@
 ## Schedule 1 — Summary of parameters within which Super 66 is conducted
 Unit cost | $1.00
 Prize fund — % of subscriptions | 60.0%
-Prize pool — % of subscriptions | 56.5%
-Prize reserve fund — % of subscriptions | 3.5%
+Prize pool — % of subscriptions | no less than 55.0%
+Prize reserve fund — % of subscriptions | balance of prize fund after prize pool (up to 5.0%)
 Number of divisions | 5
 Prize per winning game — division 1 | Balance of total prize pool
 division 2 | $6 666.00
@@ -15,4 +15,4 @@ Multiweek options | 2, 5 or 10 weeks
 Advance sales (maximum) | 10 weeks
 Games per entry (may depend on the coupon used) | 1, 2, 4, 8 or 10
 Prize payout period | 12 months
-[Schedule 1 amended in Gazette 21 Apr 2006 p. 1610.]
+[Schedule 1 amended in Gazette 21 Apr 2006 p. 1610; 29 Sep 2006 p. 4269-70.]

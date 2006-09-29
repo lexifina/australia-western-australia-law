@@ -9,3 +9,4 @@ Lotteries Commission (Super 66) Amendment Rules 2002 | 28 Mar 2002 p. 1766 | 2 A
 Reprint 1: The Lotteries Commission (Super 66) Rules 1996 as at 4 Jul 2003 (includes amendments listed above)
 Lotteries Commission (Super 66) Amendment Rules 2004 | 16 Nov 2004 p. 5066-7 | 16 Nov 2004 (see r. 2)
 Lotteries Commission (Super 66) Amendment Rules 2006 | 21 Apr 2006 p. 1605-10 | 27 Apr 2006 (see r. 2 and Gazette 21 Apr 2006 p. 1617)
+Lotteries Commission (Super 66) Amendment Rules (No. 2) 2006 | 29 Sep 2006 p. 4269-70 | 29 Sep 2006
