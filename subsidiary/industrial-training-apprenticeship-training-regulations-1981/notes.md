@@ -32,6 +32,9 @@ Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 2005
 Industrial Training (Apprenticeship Training) Amendment Regulations 2006 | 4 Apr 2006 p. 1401-5 | 1 May 2006 (see r. 2)
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 2006 | 26 May 2006 p. 1873-6 | 1 Jun 2006 (see r. 2)
 Industrial Training Amendment Regulations 2006 r. 3 | 19 Sep 2006 p. 3708-9 | 19 Sep 2006
+Industrial Training (Apprenticeship Training) Amendment Regulations (No. 3) 2006 | 29 Sep 2006 p. 4253-6 | 1 Oct 2006 (see r. 2)
+Industrial Training (Apprenticeship Training) Amendment Regulations (No. 4) 2006 | 29 Sep 2006 p. 4256-8 | 1 Oct 2006 (see r. 2)
+Industrial Training (Apprenticeship Training) Amendment Regulations (No. 5) 2006 | 29 Sep 2006 p. 4258-60 | 1 Oct 2006 (see r. 2)
 The definition of “Council” was deleted from s. 4 of the Act by the State Employment and Skills Development Authority Act 1990 s. 45(a)(ii). The definition of “Authority” inserted by s. 45(a)(i) of that Act was deleted by the Vocational Education and Training Act 1996 Sch. 3 cl. 12.
 The Education Regulations 1960 r. 4 referred to the Director of technical education. Those regulations were repealed by the School Education Act 1999 s. 246(2).
 “Approved College” is defined in r. 4 of the Industrial Training (General Apprenticeship) Regulations 1981: see r. 3 of these regulations. The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996 s. 70(1).
@@ -190,4 +193,74 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 
 (g)Vehicle Body Builder; or
 (h)Vehicle Painter; or
 (i)Vehicle Trimmer.
+”.
+The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 3) 2006 r. 8 reads as follows:
+“
+8.Transitional
+(1) Subject to this regulation the Industrial Training (Apprenticeship Training) Regulations 1981 as in force immediately before 1 October 2006 continue to apply to and in relation to —
+(a) an apprentice who commenced service as a cook under an apprenticeship agreement before 1 October 2006 (an “existing apprentice”); or
+(b) a person who —
+(i) commenced employment as a probationer cook before 1 October 2006; and
+(ii) completes that probationary employment after 1 October 2006; and
+(iii) on completing that probationary employment commences service under an apprenticeship agreement,
+(an “existing probationer”).
+(2) The parties to the apprenticeship agreement of an existing probationer may, with the approval of the Director, agree in the apprenticeship agreement that the apprentice is to be employed as a chef and that the term of the apprenticeship is to be 3 years.
+(3) If the parties to an apprenticeship agreement agree in the manner described in subregulation (2), subregulation (1) ceases to apply to and in relation to the apprentice when he or she commences service under the apprenticeship agreement.
+(4) The parties to the apprenticeship agreement of an existing apprentice may, with the approval of the Director, vary the apprenticeship agreement to change —
+(a) the trade in which the apprentice is employed to that of chef; and
+(b) the term of the apprenticeship to 3 years (plus any extension made by the Director under subregulation (6)).
+(5) An application for approval under subregulation (4) must be made —
+(a) in a form and manner approved by the Director; and
+(b) within 3 months of the date on which these regulations come into operation.
+(6) If, when an application is made for approval under subregulation (4) —
+(a) the apprentice has not —
+(i) attended all the classes; and
+(ii) obtained all the instruction; and
+(iii) undertaken all the courses and skills training programmes,
+that the apprentice is required by section 33(1) of the Act to attend, obtain or undertake in relation to the trade in which he or she is to be employed under the varied agreement; and
+(b) the Director is satisfied that the apprentice will not reasonably be able to complete those requirements during the term of the apprenticeship (as varied),
+the Director may, before approving the variation, extend the term of the apprenticeship (as specified in the variation) by such period as the Director considers is reasonably necessary for the apprentice to complete those requirements.
+(7) A variation of an apprenticeship agreement under subregulation (4) takes effect on the date on which it is approved by the Director.
+(8) If an apprenticeship agreement is varied under subregulation (4), subregulation (1) ceases to apply to and in relation to the apprentice on the date the variation takes effect.
+”.
+The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 4) 2006 r. 8 reads as follows:
+“
+8.Transitional
+(1) Subject to this regulation the Industrial Training (Apprenticeship Training) Regulations 1981 as in force immediately before 1 October 2006 continue to apply to and in relation to —
+(a) an apprentice who commenced service in an old trade under an apprenticeship agreement before 1 October 2006; or
+(b) a person who —
+(i) commenced employment as a probationer in an old trade before 1 October 2006; and
+(ii) completes that probationary employment after 1 October 2006; and
+(iii) on completing that probationary employment commences service under an apprenticeship agreement,
+(an “existing probationer”).
+(2) The parties to the apprenticeship agreement of an existing probationer may, with the approval of the Director, agree in the apprenticeship agreement that —
+(a) the apprentice is to be employed as a general butcher (instead of in the old trade in which he or she was employed as a probationer); and
+(b) the term of the apprenticeship is to be 3 years.
+(3) If the parties to an apprenticeship agreement agree in the manner described in subregulation (2), subregulation (1) ceases to apply to and in relation to the apprentice when he or she commences service under the apprenticeship agreement.
+(4) In this regulation —
+“old trade” means —
+(a)General Butchering; or
+(b)Slaughtering; or
+(c)Small Goods Making.
+”.
+The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 5) 2006 r. 8 reads as follows:
+“
+8.Transitional
+(1) Subject to this regulation the Industrial Training (Apprenticeship Training) Regulations 1981 as in force immediately before 1 October 2006 continue to apply to and in relation to —
+(a) an apprentice who commenced service in an old trade under an apprenticeship agreement before 1 October 2006; or
+(b) a person who —
+(i) commenced employment as a probationer in an old trade before 1 October 2006; and
+(ii) completes that probationary employment after 1 October 2006; and
+(iii) on completing that probationary employment commences service under an apprenticeship agreement,
+(an “existing probationer”).
+(2) The parties to the apprenticeship agreement of an existing probationer may, with the approval of the Director, agree in the apprenticeship agreement that —
+(a) the apprentice is to be employed as a hairdresser (instead of in the old trade in which he or she was employed as a probationer); and
+(b) the term of the apprenticeship is to be 3 years.
+(3) If the parties to an apprenticeship agreement agree in the manner described in subregulation (2), subregulation (1) ceases to apply to and in relation to the apprentice when he or she commences service under the apprenticeship agreement.
+(4) In this regulation —
+“old trade” means —
+(a)Combined Hairdressing; or
+(b)Hairdressing; or
+(c)Ladies Hairdressing; or
+(d)Male Hairdressing.
 ”.
