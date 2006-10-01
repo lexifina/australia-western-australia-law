@@ -52,6 +52,7 @@ Environmental Protection Amendment Regulations (No. 3) 2004 | 12 Oct 2004 p. 475
 Environmental Protection Amendment Regulations (No. 2) 2004 | 23 Nov 2004 p. 5222-3 | 23 Nov 2004
 Reprint 5: The Environmental Protection Regulations 1987 as at 11 Mar 2005 (includes amendments listed above)
 Environmental Protection Amendment Regulations 2005 | 13 Dec 2005 p. 5982-4 | 13 Dec 2005
+Environmental Protection Amendment Regulations 2006 | 29 Sep 2006 p. 4260-7 | 1 Oct 2006 (see r. 2)
 Published in Gazette 18 December 1992 p. 6099.
 Proclaimed 1 July 1988 in Gazette 26 June 1998 p. 3369.
 Expired on 1 July 2004; see Gazette 23 July 2003 p. 3172.

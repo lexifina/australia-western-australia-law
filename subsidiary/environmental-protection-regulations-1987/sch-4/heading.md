@@ -132,7 +132,7 @@ Kind of waste | Fee units (for each gram per minute)
 1.Carbon monoxide | 0.01
 2.Oxides of nitrogen, sulphur oxides and particulates | 0.1
 3.Volatile organic compounds (being compounds not specified elsewhere in this Table that participate in atmospheric photochemical reactions) —
-(a)discharged from premises in the metropolitan region (within the meaning of the Metropolitan Region Town Planning Scheme Act 1959) or the Swan Coastal Plain | 1
+(a)discharged from premises in the metropolitan region (as defined in the Planning and Development Act 2005) or the Swan Coastal Plain | 1
 (b)discharged from premises in any other part of the State | 0.1
 4.Inorganic fluoride | 2.5
 5.Pesticides | 2.5
@@ -140,6 +140,7 @@ Kind of waste | Fee units (for each gram per minute)
 7.Vinyl chloride, hydrogen sulphide, benzene carbon oxysulphide, carbon disulphide and acrylates | 10
 8.Beryllium, cadmium, mercury, TDI (toluene-2, 4-di-iso-cyanate), MDI (diphenyl-methane di-iso-cyanate) | 100
 9.Other waste | 1
+[Table 1 amended in Gazette 29 Sep 2006 p. 4266.]
 Table 2 — Discharges onto land or into waters
 Kind of waste | Fee units
 1.Liquid waste that can potentially deprive receiving waters of oxygen (for each kilogram discharged per day) — (a)biochemical oxygen demand (in the absence of chemical oxygen demand limit) (b)chemical oxygen demand (in the absence of total organic carbon limit) (c)total organic carbon | 0.5 1 0.5
@@ -150,4 +151,4 @@ Kind of waste | Fee units
 4.Waste that can potentially accumulate in the environment or living tissue (for each kilogram discharged per day) — (a)aluminium, arsenic, cadmium, chromium, cobalt, copper, lead, mercury, molybdenum, nickel, vanadium and zinc (b)pesticides (c)fish tainting wastes (d)manganese | 100 100 100 10
 5.E coli bacteria as indicator species (in each megalitre discharged per day) — (a)1 000 to 5 000 organisms per 100 ml (b)5 000 to 20 000 organisms per 100 ml (c)more than 20 000 organisms per 100 ml | 5 10 15
 6.Other waste (per kilogram discharged per day) — (a)oil and grease (b)total dissolved solids (c)fluoride (d)iron (e)total residual chlorine (f)other | 0.05 0.05 1 1 10 1
-[Schedule 4 inserted in Gazette 13 Sep 1996 p. 4560-7; amended in Gazette 10 Dec 1996 p. 6878; 15 Aug 2000 p. 4717-18; 14 Jun 2002 p. 2794; 13 Dec 2005 p. 5983-4.]
+[Schedule 4 inserted in Gazette 13 Sep 1996 p. 4560-7; amended in Gazette 10 Dec 1996 p. 6878; 15 Aug 2000 p. 4717-18; 14 Jun 2002 p. 2794; 13 Dec 2005 p. 5983-4; 29 Sep 2006 p. 4266.]

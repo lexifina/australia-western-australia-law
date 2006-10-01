@@ -19,7 +19,8 @@ Environmental Protection Regulations 1987
 6.regulation 16(2) | 250 | 500
 7.regulation 16(3) | 250 | 500
 8.regulation 16B | 500 | 1 000
-9.regulation 26(5) | 250 | 500
+9.regulation 26(1) | 250 | 500
+9A.regulation 26(5) | 250 | 500
 10.regulation 28(2) | 250 | 500
 11.regulation 28(4) | 250 | 500
 12.regulation 28(8) | 250 | 500
@@ -175,4 +176,4 @@ Environmental Protection (Controlled Waste) Regulations 2004
 38.regulation 47 | 250 | 500
 39.regulation 50 | 250 | 500
 40.regulation 51(2) | 250 | 500
-[Schedule 6 inserted in Gazette 11 Dec 1998 p. 6605-8; amended in Gazette 15 Aug 2000 p. 4718; 19 Dec 2000 p. 7284; 5 Jan 2001 p. 119; 30 Mar 2001 p. 1809, p. 1828 and 1867-8; 12 Apr 2001 p. 2097; 30 Nov 2001 p. 6071; 14 Jun 2002 p. 2794-5; 20 Dec 2002 p. 6020; 23 Jul 2003 p. 3173; 12 Mar 2004 p. 748-9; 1 Jul 2004 p. 2664-6.]
+[Schedule 6 inserted in Gazette 11 Dec 1998 p. 6605-8; amended in Gazette 15 Aug 2000 p. 4718; 19 Dec 2000 p. 7284; 5 Jan 2001 p. 119; 30 Mar 2001 p. 1809, p. 1828 and 1867-8; 12 Apr 2001 p. 2097; 30 Nov 2001 p. 6071; 14 Jun 2002 p. 2794-5; 20 Dec 2002 p. 6020; 23 Jul 2003 p. 3173; 12 Mar 2004 p. 748-9; 1 Jul 2004 p. 2664-6; 29 Sep 2006 p. 4267.]
