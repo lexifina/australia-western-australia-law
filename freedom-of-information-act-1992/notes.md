@@ -42,6 +42,7 @@ Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Parole and Sentencing Legislation Amendment Act 2006 s. 90 | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
+Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 6 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
 The Acts Amendment (Ministry of Justice) Act 1993 s. 68 reads as follows:
 “
 Part 19 — Savings and transitional
@@ -76,4 +77,10 @@ On the date as at which this compilation was prepared, the Parole and Sentencing
 (1) The amendments in this section are to the Freedom of Information Act 1992.
 (2) Schedule 2 is amended by deleting “The Parole Board.” and inserting instead —
 “ The Prisoners Review Board. ”.
+”.
+On the date as at which this compilation was prepared, the Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 6 had not come into operation. It reads as follows:
+“
+6.Freedom of Information Act 1992 amended
+(1) The amendment in this section is to the Freedom of Information Act 1992.
+(2) Schedule 2 is amended by deleting “The Perth International Centre for Application of Solar Energy.”.
 ”.
