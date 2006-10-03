@@ -11,7 +11,8 @@ Petroleum Products Pricing Amendment Regulations (No. 5) 2001 | 31 Dec 2001 p. 6
 Reprint of the Petroleum Products Pricing Regulations 2000 as at 19 Apr 2002 (includes amendments listed above)
 Petroleum Products Pricing Amendment Regulations 2003 | 13 May 2003 p. 1665-6 | 20 May 2003 (see r. 2)
 Petroleum Products Pricing Amendment Regulations 2005 | 9 Dec 2005 p. 5875-6 | 1 Jan 2006 (see r. 2)
-Petroleum Products Pricing Amendment Regulations 2006 | 22 Sep 2006 p. 41215-6 | 22 Sep 2006
+Petroleum Products Pricing Amendment Regulations 2006 | 22 Sep 2006 p. 4125-6 | 22 Sep 2006
+Petroleum Products Pricing Amendment Regulations (No. 2) 2006 | 3 Oct 2006 p. 4337 | 3 Oct 2006
 The Petroleum Products Pricing Amendment Regulations 2001 r. 8 reads as follows:
 “
 8.Defence during transitional period
