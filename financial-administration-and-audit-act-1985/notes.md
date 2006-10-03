@@ -175,6 +175,7 @@ Conservation and Land Management Amendment Act 1991 Sch. it. 2 | 20 of 1991 | 25
 Acts Amendment (ICWA) Act 1996 Sch. 1 it. 3(c) | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 44 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 5 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
 The provision of this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. (Also see endnote 11).
 Repealed by the Acts Amendment (Financial Administration and Audit) Act 1985 s. 3.
@@ -248,4 +249,10 @@ Section 73 of the Financial Administration and Audit Act 1985 is amended as foll
 (a) in paragraph (a) by deleting “, including his rights under the Superannuation and Family Benefits Act 1938,”;
 (b) in paragraph (b) by deleting “his rights (if any) under the Superannuation and Family Benefits Act 1938, and such other” and inserting instead —
 “ such ”.
+”.
+On the date as at which this compilation was prepared, the Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 5 had not come into operation. It reads as follows:
+“
+5.Financial Administration and Audit Act 1985 amended
+(1) The amendment in this section is to the Financial Administration and Audit Act 1985.
+(2) Schedule 1 is amended by deleting “Perth International Centre for Application of Solar Energy”.
 ”.
