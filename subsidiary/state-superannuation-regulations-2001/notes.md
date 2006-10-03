@@ -24,6 +24,10 @@ Reprint 2: The State Superannuation Regulations 2001 as at 2 Sep 2005 (includes 
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 87 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
 State Superannuation Amendment Regulations 2006 Pt. 1-3 | 26 May 2006 p. 1915-33 | 26 May 2006
 State Superannuation Amendment Regulations (No. 2) 2006 | 21 Jul 2006 p. 2651-2 | 21 Jul 2006
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 7 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional And Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. Part 9 of these regulations were amending regulations under that subsection. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 Formerly referred to the Water Services Coordination Act 1995 the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -44,4 +48,10 @@ and
 (b) before the State Superannuation Amendment Regulations 2006 came into operation, ceased to be so excluded,
 is taken to have become a statutory Member when he or she ceased to be so excluded.
 (2) Anything done or purported to have been done under the State Superannuation Regulations 2001 before this Act came into operation in relation to a person to whom subsection (1) applies, is as valid as it would have been if the State Superannuation Amendment Regulations 2006 had come into operation immediately after the State Superannuation Regulations 2001 came into operation.
+”.
+On the date as at which this compilation was prepared, the Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 7 had not come into operation. It reads as follows:
+“
+7.State Superannuation Regulations 2001 amended
+(1) The amendment in this section is to State Superannuation Regulations 2001.
+(2) Schedule 1 Division 2 item 37 is deleted.
 ”.
