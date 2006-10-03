@@ -234,6 +234,7 @@ Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s.
 Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be proclaimed (see s. 2)
 Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
 Parole and Sentencing Legislation Amendment Act 2006 s. 89 | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
+Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 4 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -468,4 +469,10 @@ On the date as at which this compilation was prepared, the Parole and Sentencing
 “
 The Prisoners Review Board established under the Sentence Administration Act 2003.
 ”.
+”.
+On the date as at which this compilation was prepared, the Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 4 had not come into operation. It reads as follows:
+“
+4.Constitution Acts Amendment Act 1899 amended
+(1) The amendment in this section is to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended by deleting “The board of directors of the Perth International Centre for Application of Solar Energy established under the Perth International Centre for Application of Solar Energy Act 1994.”.
 ”.
