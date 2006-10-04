@@ -235,6 +235,7 @@ Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be procl
 Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
 Parole and Sentencing Legislation Amendment Act 2006 s. 89 | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
 Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 4 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
+Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -475,4 +476,20 @@ On the date as at which this compilation was prepared, the Perth International C
 4.Constitution Acts Amendment Act 1899 amended
 (1) The amendment in this section is to the Constitution Acts Amendment Act 1899.
 (2) Schedule V Part 3 is amended by deleting “The board of directors of the Perth International Centre for Application of Solar Energy established under the Perth International Centre for Application of Solar Energy Act 1994.”.
+”.
+On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Schedule 1, had not come into operation. It reads as follows:
+“
+65.Consequential amendments
+The Acts mentioned in Schedule 1 are amended as set out in that Schedule.
+”.
+Schedule 1 cl. 1 reads as follows:
+“
+Schedule 1 — Consequential amendments
+[s. 65]
+1.Constitution Acts Amendment Act 1899 amended
+(1) The amendment in this clause is to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 1 Division 2 is amended by inserting after the item relating to the Commissioner appointed under the Corruption and Crime Commission Act 2003 the following item —
+“
+Commissioner for Children and Young People appointed under the Commissioner for Children and Young People Act 2006.
+”.
 ”.
