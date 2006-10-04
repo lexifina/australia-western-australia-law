@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 August 2006 of the Credit (Administration) Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Credit (Administration) Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Credit (Administration) Act 1984 | 100 of 1984 | 19 Dec 1984 | Act other than s. 6-8: 1 Mar 1985 (see s. 2 and Gazette 22 Feb 1985 p. 657); s. 6-8: 30 Apr 1985 (see s. 2 and Gazette 19 Apr 1985 p. 1381)
@@ -20,10 +20,11 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 31 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 10 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 3: The Credit (Administration) Act 1984 as at 4 Aug 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 23 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Pawnbrokers and Second-hand Dealers Amendment Act 2006 s. 23 | 46 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Repealed by the Strata Titles Act 1985.
 Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 of the Commonwealth.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -87,10 +88,17 @@ In this Division —
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 19 provides general transitional provisions concerning references to departments and chief executive officers that are amended or repealed by that Act.
-On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 23 had not come into operation. It reads as follows:
+Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 23 had not come into operation. It reads as follows:
 “
 23.Credit (Administration) Act 1984 amended
 (1) The amendment in this section is to the Credit (Administration) Act 1984.
 (2) Section 7(1)(h) is deleted.
+”.
+On the date as at which this compilation was prepared the Pawnbrokers and Second-hand Dealers Amendment Act 2006 s. 23 had not come into operation. It reads as follows:
+“
+23.Consequential amendment to Credit (Administration) Act 1984
+(1) The amendment in this section is to the Credit (Administration) Act 1984.
+(2) Section 7(1)(f) is amended after “business” by inserting —
+“ as a pawnbroker ”.
 ”.
