@@ -47,6 +47,7 @@ Workers’ Compensation Reform Act 2004 s. 161 | 42 of 2004 | 9 Nov 2004 | 14 No
  | Health Legislation Amendment Act 2004 Pt. 4 | 61 of 2004 | 24 Nov 2004 | 24 Nov 2004 (see s. 2)
  | Reprint 5: The Hospitals and Health Services Act 1927 as at 26 Aug 2005 (includes amendments listed above except those in the Workers’ Compensation Reform Act 2004 s. 161)
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+ | Hospitals and Health Services Amendment Act 2006 | 45 of 2006 | 4 Oct 2006 | 4 Oct 2006 (see s. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -102,4 +103,3 @@ Division 13 — Transitional provisions
 “commencement” means the time at which this Division comes into operation;
 “Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 ”.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Part 19 provides general transitional provisions concerning references to Departments and chief executive officers that are amended or repealed by that Act.
