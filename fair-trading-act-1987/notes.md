@@ -16,6 +16,10 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Fair Trading Act 1987 as at 24 Jun 2005 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 12 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and Year | Assent | Commencement
+Retail Shops and Fair Trading Legislation Amendment Act 2006 Pt. 4 | 47 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 This reference, and all following references, to “TPA”, refers to the Trade Practices Act 1974 of the Commonwealth.
 Footnote no longer applicable.
 Footnote no longer applicable.
@@ -66,4 +70,89 @@ In this Division —
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Part 19 provides general transitional provisions concerning references to Departments and chief executive officers that are amended or repealed by that Act.
+Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Retail Shops and Fair Trading Legislation Amendment Act 2006 Pt. 4 had not come into operation. It reads as follows:
+“
+Part 4 — Fair Trading Act 1987
+26.The Act amended
+The amendments in this Part are to the Fair Trading Act 1987.
+27.Section 11A inserted
+After section 11 the following section is inserted —
+“
+11A.Unconscionable conduct in business transactions (TPA s. 51AC)
+(1) In this section —
+“applicable industry code”, in relation to a person who is a participant in an industry, means a code of practice relating to the industry that has been prescribed under section 43 and that is in force;
+“commencement” means the commencement of section 27 of the Retail Shops and Fair Trading Legislation Amendment Act 2006;
+“industry code” means a code regulating the conduct of participants in an industry towards other participants in the industry or towards consumers in the industry;
+“listed public company” has the same meaning as it has in the Income Tax Assessment Act 1997 of the Commonwealth.
+(2) A person shall not, in trade or commerce, in connection with —
+(a) the supply or possible supply of goods or services to another person (other than a listed public company); or
+(b) the acquisition or possible acquisition of goods or services from another person (other than a listed public company),
+engage in conduct that is, in all the circumstances, unconscionable.
+(3) Without in any way limiting the matters to which a court may have regard for the purpose of determining whether a person (the “supplier”) has contravened subsection (2) in connection with the supply or possible supply of goods or services to a person (the “business consumer”), the court may have regard to —
+(a) the relative strengths of the bargaining positions of the supplier and the business consumer;
+(b) whether, as a result of conduct engaged in by the supplier, the business consumer was required to comply with conditions that were not reasonably necessary for the protection of the legitimate interests of the supplier;
+(c) whether the business consumer was able to understand any documents relating to the supply or possible supply of the goods or services;
+(d) whether any undue influence or pressure was exerted on, or any unfair tactics were used against, the business consumer (or a person acting on behalf of the business consumer) by the supplier or a person acting on behalf of the supplier in relation to the supply or possible supply of the goods or services;
+(e) the amount for which, and the circumstances under which, the business consumer could have acquired identical or equivalent goods or services from a person other than the supplier;
+(f) the extent to which the supplier’s conduct towards the business consumer was consistent with the supplier’s conduct in similar transactions between the supplier and other similar business consumers;
+(g) the requirements of any applicable industry code;
+(h) the requirements of any other industry code, if the business consumer acted on the reasonable belief that the supplier would comply with that code;
+(i) the extent to which the supplier unreasonably failed to disclose to the business consumer —
+(i) any intended conduct of the supplier that might affect the interests of the business consumer; and
+(ii) any risks to the business consumer arising from the supplier’s intended conduct that are risks that the supplier should have foreseen would not be apparent to the business consumer;
+(j) the extent to which the supplier was willing to negotiate the terms and conditions of any contract for the supply of the goods or services with the business consumer; and
+(k) the extent to which the supplier and the business consumer acted in good faith.
+(4) Without in any way limiting the matters to which a court may have regard for the purpose of determining whether a person (the “acquirer”) has contravened subsection (2) in connection with the acquisition or possible acquisition of goods or services from a person (the “small business supplier”), the court may have regard to —
+(a) the relative strengths of the bargaining positions of the acquirer and the small business supplier;
+(b) whether, as a result of conduct engaged in by the acquirer, the small business supplier was required to comply with conditions that were not reasonably necessary for the protection of the legitimate interests of the acquirer;
+(c) whether the small business supplier was able to understand any documents relating to the acquisition or possible acquisition of the goods or services;
+(d) whether any undue influence or pressure was exerted on, or any unfair tactics were used against, the small business supplier (or a person acting on behalf of the small business supplier) by the acquirer or a person acting on behalf of the acquirer in relation to the acquisition or possible acquisition of the goods or services;
+(e) the amount for which, and the circumstances in which, the small business supplier could have supplied identical or equivalent goods or services to a person other than the acquirer;
+(f) the extent to which the acquirer’s conduct towards the small business supplier was consistent with the acquirer’s conduct in similar transactions between the acquirer and other similar small business suppliers;
+(g) the requirements of any applicable industry code;
+(h) the requirements of any other industry code, if the small business supplier acted on the reasonable belief that the acquirer would comply with that code;
+(i) the extent to which the acquirer unreasonably failed to disclose to the small business supplier —
+(i) any intended conduct of the acquirer that might affect the interests of the small business supplier; and
+(ii) any risks to the small business supplier arising from the acquirer’s intended conduct that are risks that the acquirer should have foreseen would not be apparent to the small business supplier;
+(j) the extent to which the acquirer was willing to negotiate the terms and conditions of any contract for the acquisition of the goods or services with the small business supplier; and
+(k) the extent to which the acquirer and the small business supplier acted in good faith.
+(5) A person is not to be taken for the purposes of this section to engage in unconscionable conduct in connection with —
+(a) the supply or possible supply of goods or services to another person; or
+(b) the acquisition or possible acquisition of goods or services from another person,
+only because the first-mentioned person institutes legal proceedings in relation to that supply, possible supply, acquisition or possible acquisition or refers a dispute or claim in relation to that supply, possible supply, acquisition or possible acquisition to arbitration.
+(6) For the purpose of determining whether a person has contravened subsection (2) —
+(a) a court is not to have regard to any circumstances that were not reasonably foreseeable at the time of the alleged contravention; and
+(b) a court may have regard to circumstances existing before the commencement but not to conduct engaged in before the commencement.
+(7) A reference in this section to the supply or possible supply of goods or services is a reference to the supply or possible supply of goods or services to a person whose acquisition or possible acquisition of the goods or services is or would be for the purpose of trade or commerce.
+(8) A reference in this section to the acquisition or possible acquisition of goods or services is a reference to the acquisition or possible acquisition of goods or services by a person whose acquisition or possible acquisition of the goods or services is or would be for the purpose of trade or commerce.
+(9) A reference in this section to the supply or possible supply of goods or services does not include a reference to the supply or possible supply of goods or services at a price in excess of $3 000 000, or such higher amount as is prescribed.
+(10) A reference in this section to the acquisition or possible acquisition of goods or services does not include a reference to the acquisition or possible acquisition of goods or services at a price in excess of $3 000 000, or such higher amount as is prescribed.
+(11) For the purposes of subsections (9) and (10) —
+(a) subject to paragraphs (b), (c), (d) and (e), the price for —
+(i) the supply or possible supply of goods or services to a person; or
+(ii) the acquisition or possible acquisition of goods or services by a person,
+is taken to be the amount paid or payable by the person for the goods or services;
+(b) section 6(3)(c) applies as if references in that provision to the purchase of goods or services by a person were references to —
+(i) the supply of goods or services to a person pursuant to a purchase; or
+(ii) the acquisition of goods or services by a person by way of purchase,
+as the case requires;
+(c) section 6(3)(d) applies as if —
+(i) the reference in that provision to a person acquiring goods or services otherwise than by way of purchase included a reference to a person being supplied with goods or services otherwise than pursuant to a purchase; and
+(ii) a reference in that provision to acquisition included a reference to supply;
+(d) section 5(3) applies as if the reference in that provision to the acquisition of goods or services by a person, or to the acquisition of services by a person, included a reference to the supply of goods or services to a person, or to the supply of services to a person, as the case requires; and
+(e) the price for the supply or possible supply, or the acquisition or possible acquisition, of services comprising or including a loan or loan facility is taken to include the capital value of the loan or loan facility.
+”.
+28.Section 69 amended
+Section 69(1) is amended by deleting “section 10 or 11,” and inserting instead —
+“ section 10, 11 or 11A, ”.
+29.Section 75 amended
+Section 75(2) is amended after “section 11” by inserting —
+“ or 11A ”.
+30.Section 77 amended
+Section 77(4), (5) and (6) are each amended after “section 11” by inserting —
+“ or 11A ”.
+31.Section 79 amended
+Section 79(1) is amended by deleting “(section 11 excepted)” and inserting instead —
+“ (sections 11 and 11A excepted) ”.
+”.
