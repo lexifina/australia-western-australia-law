@@ -176,6 +176,7 @@ Acts Amendment (ICWA) Act 1996 Sch. 1 it. 3(c) | 45 of 1996 | 25 Oct 1996 | To b
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 44 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 5 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
+Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 The provision of this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. (Also see endnote 11).
 Repealed by the Acts Amendment (Financial Administration and Audit) Act 1985 s. 3.
@@ -255,4 +256,23 @@ On the date as at which this compilation was prepared, the Perth International C
 5.Financial Administration and Audit Act 1985 amended
 (1) The amendment in this section is to the Financial Administration and Audit Act 1985.
 (2) Schedule 1 is amended by deleting “Perth International Centre for Application of Solar Energy”.
+”.
+On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Schedule 1, had not come into operation. It reads as follows:
+“
+65.Consequential amendments
+The Acts mentioned in Schedule 1 are amended as set out in that Schedule.
+”.
+Schedule 1 cl. 2 reads as follows:
+“
+Schedule 1 — Consequential amendments
+[s. 65]
+2.Financial Administration and Audit Act 1985 amended
+(1) The amendments in this clause are to the Financial Administration and Audit Act 1985.
+(2) Section 3(2) is amended as follows:
+(a) by deleting “and” after paragraph (f);
+(b) by deleting the comma after paragraph (g) and inserting instead —
+“
+; and
+(h) the Commissioner for Children and Young People,
+”.
 ”.
