@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Commercial Tenancy (Retail Shops) Agreements Act 1985 and includes all amendments effected by the other Acts referred to in the following table.
+This is a compilation of the Commercial Tenancy (Retail Shops) Agreements Act 1985 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Commercial Tenancy (Retail Shops) Agreements Act 1985 | 43 of 1985 | 13 May 1985 | Proclaimed 1 Sep 1985 (see section 2 and Gazette 30 Aug 1985 p.3065)
@@ -14,6 +14,10 @@ Taxation Administration (Consequential Provisions) Act 2002 s. 10 | 45 of 2002 |
 Acts Amendment (Equality of Status) Act 2003 Pt. 5 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 21 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Retail Shops and Fair Trading Legislation Amendment Act 2006 Pt. 3 | 47 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Footnote no longer applicable.
 The Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 s. 22 reads as follows —
 “
@@ -160,4 +164,135 @@ The State Administrative Tribunal Regulations 2004 r. 29 reads as follows:
 (a) before the commencement day a question arising under a retail shop lease is or is to be subject to mediation under the CTRS Act; and
 (b) the question is transferred to the Tribunal under the Act section 167,
 on or after the commencement day the question is to be dealt with as if it had been referred for mediation under the Act section 54(1) and the Tribunal is to specify a person to be the mediator.
+”.
+On the date as at which this compilation was prepared, the Retail Shops and Fair Trading Legislation Amendment Act 2006 Pt. 3 had not come into operation. It reads as follows:
+“
+Part 3 — Commercial Tenancy (Retail Shops) Agreements Act 1985
+19.The Act amended
+The amendments in this Part are to the Commercial Tenancy (Retail Shops) Agreements Act 1985.
+20.Long title amended
+The long title is amended after “shops,” by inserting —
+“
+to prohibit unconscionable conduct by landlords or tenants in relation to such agreements,
+”.
+21.Section 3 amended
+Section 3(1) is amended after the definition of “Tribunal” by deleting the full stop and inserting —
+“
+;
+“unconscionable conduct application” means an application under section 15F(1).
+”.
+22.Section 12D inserted
+After section 12C the following section is inserted —
+“
+12D.Tenants’ associations etc.
+(1) A provision in a retail shop lease is void to the extent that it has the effect of preventing or restricting the tenant from forming, joining or taking part in any activities of a tenants’ association, chamber of commerce or similar body.
+(2) If a tenant under a retail shop lease —
+(a) forms or joins; or
+(b) proposes to form or join,
+a tenants’ association, chamber of commerce or similar body, the landlord is not to treat or propose to treat the tenant less favourably than a tenant in similar circumstances who does not do or propose to do any of those things.
+(3) A tenant under a retail shop lease may apply in writing to the Tribunal in respect of a failure by the landlord to comply with subsection (2) for one or both of the following orders —
+(a) an order that the landlord pay compensation to the tenant in respect of pecuniary loss suffered by the tenant as a result of the failure;
+(b) an order that the landlord do, or refrain from doing, anything specified in the application.
+”.
+23.Part IIA inserted
+After section 15 the following Part is inserted —
+“
+Part IIA — Unconscionable conduct
+15A.Terms used in this Part
+In this Part —
+“applicable industry code”, in relation to a person who is a participant in an industry, means the prescribed provisions of an industry code relating to the industry;
+“commencement” means the commencement of section 23 of the Retail Shops and Fair Trading Legislation Amendment Act 2006;
+“fit out costs” includes the costs of providing or installing finishes, fixtures, fittings, equipment and services;
+“industry code” means a code regulating the conduct of participants in an industry towards other participants in the industry or towards consumers in the industry.
+15B.Application of Part
+(1) In addition to a retail shop lease to which or in relation to which this Part would otherwise apply, this Part also applies to or in relation to a retail shop lease that was entered into —
+(a) before the relevant day; or
+(b) pursuant to an option granted or agreement made before the relevant day,
+if this Act would have applied to the lease had it been entered into on or after that day.
+(2) This Part does not apply to conduct that occurred before the commencement.
+(3) In subsection (1) —
+“relevant day” has the meaning given to that term by section 4(3).
+15C.Unconscionable conduct of landlords
+(1) A landlord under a retail shop lease shall not, in connection with the lease, engage in conduct that is, in all the circumstances, unconscionable.
+(2) Without in any way limiting the matters to which the Tribunal may have regard for the purpose of determining whether a landlord has contravened subsection (1), the Tribunal may have regard to —
+(a) the relative strengths of the bargaining positions of the landlord and tenant;
+(b) whether, as a result of conduct engaged in by the landlord, the tenant was required to comply with conditions that were not reasonably necessary for the protection of the legitimate interests of the landlord;
+(c) whether the tenant was able to understand any documents relating to the lease;
+(d) whether any undue influence or pressure was exerted on, or any unfair tactics were used against, the tenant (or a person acting on behalf of the tenant) by the landlord or a person acting on behalf of the landlord in relation to the lease;
+(e) the amount for which, and the circumstances under which, the tenant could have acquired an identical or equivalent lease from a person other than the landlord;
+(f) the extent to which the landlord’s conduct towards the tenant was consistent with the landlord’s conduct in similar transactions between the landlord and other similar tenants;
+(g) the requirements of any applicable industry code;
+(h) the requirements of any other industry code, if the tenant acted on the reasonable belief that the landlord would comply with that code;
+(i) the extent to which the landlord unreasonably failed to disclose to the tenant —
+(i) any intended conduct of the landlord that might affect the interests of the tenant; and
+(ii) any risks to the tenant arising from the landlord’s intended conduct that are risks that the landlord should have foreseen would not be apparent to the tenant;
+(j) the extent to which the landlord was willing to negotiate the terms and conditions of any lease with the tenant;
+(k) the extent to which the landlord acted in good faith;
+(l) the extent to which the landlord was not reasonably willing to negotiate the rent under the lease;
+(m) the extent to which the landlord unreasonably used information about the turnover of the tenant’s or a previous tenant’s business to negotiate the rent; and
+(n) the extent to which the landlord required the tenant to incur unreasonable refurbishment or fit out costs.
+(3) In considering whether a landlord has contravened subsection (1), the Tribunal —
+(a) is not to have regard to any circumstances that were not reasonably foreseeable at the time of the alleged contravention; and
+(b) may have regard to circumstances existing before the commencement but not to conduct engaged in before the commencement.
+15D.Unconscionable conduct of tenants
+(1) A tenant under a retail shop lease shall not, in connection with the lease, engage in conduct that is, in all the circumstances, unconscionable.
+(2) Without in any way limiting the matters to which the Tribunal may have regard for the purpose of determining whether a tenant has contravened subsection (1), the Tribunal may have regard to —
+(a) the relative strengths of the bargaining positions of the landlord and tenant;
+(b) whether, as a result of conduct engaged in by the tenant, the landlord was required to comply with conditions that were not reasonably necessary for the protection of the legitimate interests of the tenant;
+(c) whether the landlord was able to understand any documents relating to the lease;
+(d) whether any undue influence or pressure was exerted on, or any unfair tactics were used against, the landlord (or a person acting on behalf of the landlord) by the tenant or a person acting on behalf of the tenant in relation to the lease;
+(e) the amount for which, and the circumstances under which, the landlord could have granted an identical or equivalent lease to a person other than the tenant;
+(f) the extent to which the tenant’s conduct towards the landlord was consistent with the tenant’s conduct in similar transactions between the tenant and other similar landlords;
+(g) the requirements of any applicable industry code;
+(h) the requirements of any other industry code, if the landlord acted on the reasonable belief that the tenant would comply with that code;
+(i) the extent to which the tenant unreasonably failed to disclose to the landlord —
+(i) any intended conduct of the tenant that might affect the interests of the landlord; and
+(ii) any risks to the landlord arising from the tenant’s intended conduct that are risks that the tenant should have foreseen would not be apparent to the landlord;
+(j) the extent to which the tenant was willing to negotiate the terms and conditions of any lease with the landlord;
+(k) the extent to which the tenant acted in good faith;
+(l) the extent to which the tenant was not reasonably willing to negotiate the rent under the lease;
+(m) the extent to which the tenant unreasonably used information about the turnover of the tenant’s or a previous tenant’s business to negotiate the rent; and
+(n) the extent to which the tenant was willing to incur reasonable refurbishment or fit out costs.
+(3) In considering whether a tenant has contravened subsection (1), the Tribunal —
+(a) is not to have regard to any circumstances that were not reasonably foreseeable at the time of the alleged contravention; and
+(b) may have regard to circumstances existing before the commencement but not to conduct engaged in before the commencement.
+15E.Certain conduct not unconscionable
+A person is not to be taken for the purposes of section 15C or 15D to engage in unconscionable conduct in connection with a retail shop lease only because —
+(a) the person institutes legal proceedings in relation to the lease or refers a dispute or claim in relation to the lease to arbitration;
+(b) the person fails to renew the lease or enter into a new lease; or
+(c) the person does not agree to having an independent valuation of current market rent carried out.
+15F.Powers of Tribunal relating to unconscionable conduct
+(1) A landlord or tenant, or former landlord or tenant, under a retail shop lease or former retail shop lease who suffers loss or damage because of unconscionable conduct of another person that contravenes section 15C or 15D may recover that loss or damage by applying in writing to the Tribunal.
+(2) An unconscionable conduct application is required to be lodged within 6 years after the alleged unconscionable conduct occurred.
+(3) Without limiting section 26, in proceedings in relation to an unconscionable conduct application, the Tribunal may make any one or more of the following orders that it considers appropriate —
+(a) an order that a party to the proceedings pay money to a specified person, whether by way of debt, damages or restitution, or refund any money paid by a specified person;
+(b) an order that a specified amount of money is not due or owing by a party to the proceedings to a specified person, or that a party to the proceedings is not entitled to a refund of any money paid to another party to the proceedings.
+(4) The Tribunal may make any ancillary orders that it considers necessary for the purpose of enabling an order under this section to have full effect.
+(5) The Tribunal may impose any conditions that it considers appropriate when making an order under this section.
+(6) The Tribunal may make an interim order under this section pending final determination of an unconscionable conduct application, if the Tribunal considers it appropriate to do so.
+(7) In this section —
+“specified”, in relation to an order, means specified in the order.
+”.
+24.Section 27 amended
+After section 27(3) the following subsections are inserted —
+“
+(4) Where —
+(a) an unconscionable conduct application has been made; and
+(b) at the time it was made no issue arising under the application was the subject of civil proceedings before a court,
+a court has no jurisdiction to hear or determine such an issue in civil proceedings unless subsection (5) applies.
+(5) This subsection applies if —
+(a) the unconscionable conduct application, or the part of that application to which the issue referred to in subsection (4) relates, is withdrawn or is dismissed for want of jurisdiction; or
+(b) as a result of judicial review, a court quashes or declares invalid an order, direction or determination of the Tribunal made in respect of the application on the ground that the Tribunal had no jurisdiction to hear and determine that issue.
+(6) Where —
+(a) an unconscionable conduct application has been made; and
+(b) at the time it was made an issue arising under the application was the subject of civil proceedings before a court,
+the Tribunal, on becoming aware of those proceedings, ceases to have jurisdiction to hear or determine the issue unless subsection (7) applies.
+(7) This subsection applies if —
+(a) the proceedings referred to in subsection (6) are, or the part of those proceedings relating to the issue referred to in that subsection is, transferred to the Tribunal by the court concerned;
+(b) those proceedings are, or that part of those proceedings is, withdrawn or dismissed by the court, or by another court on appeal in those proceedings, for want of jurisdiction or without deciding the issue on its merits; or
+(c) as a result of judicial review, a court quashes or declares invalid those proceedings or that part of those proceedings or any order, judgment or decision made in those proceedings in relation to the issue, on the ground that the court concerned had no jurisdiction to hear and determine the issue.
+”.
+25.Minor amendment
+Section 16(1)(a) is amended by deleting “him” and inserting instead —
+“ the Tribunal ”.
 ”.
