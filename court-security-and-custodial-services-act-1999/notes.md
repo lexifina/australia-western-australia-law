@@ -13,6 +13,10 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Court Security and Custodial Services Act 1999 as at 9 Sep 2005 (includes amendments listed above)
 Financial Administration Legislation Amendment Act 2005 s. 37 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and Year | Assent | Commencement
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 The “Inspector provisions” as defined in the Prisons Amendment Act 1999 s. 2(4) came into operation on 18 Jun 2000 (see Gazette 16 Jun 2000 p. 2939).
 The Inspector of Custodial Services Act 2003 s. 57 and Sch. 3 read as follows:
 “
@@ -44,4 +48,20 @@ as if this Act were in effect when the matters to be reported on occurred.
 6.Independent prison visitors and independent detention centre visitors
 (1) A person who, immediately before commencement, was a person who had been appointed or was deemed to have been appointed to be a prison visitor under the Prisons Act 1981 section 54 is to be regarded, on and from commencement, as a person who is appointed to be an independent prison visitor under section 39 of this Act on the same terms and conditions as applied to the person’s appointment under the Prisons Act 1981 section 54.
 (2) A person who, immediately before commencement, was a person who had been appointed to be a detention centre visitor under the Young Offenders Act 1994 section 166 is to be regarded, on and from commencement, as a person who is appointed to be an independent detention centre visitor under section 41 of this Act on the same terms and conditions as applied to the person’s appointment under the Young Offenders Act 1994 section 166.
+”.
+On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+114.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 5 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 114]
+5.Court Security and Custodial Services Act 1999 amended
+(1) The amendments in this clause are to the Court Security and Custodial Services Act 1999.
+(2) Section 3 is amended by deleting the definition of “nurse” and inserting instead —
+“
+“nurse” has the meaning given to “registered nurse” in section 3 of the Nurses and Midwives Act 2006;
+”.
 ”.
