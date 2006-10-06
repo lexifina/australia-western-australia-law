@@ -1,6 +1,6 @@
 ## Schedule V
 [Section 11(a)]
-Amounts of prohibited drugs giving rise to presumption of intention to sell or supply same
+## Amounts of prohibited drugs giving rise to presumption of intention to sell or supply same
 Item | Prohibited drug | Amount (in grams unless otherwise stated)
 1. | ACETORPHINE | 2.0
 2. | ACETYLDIHYDROCODEINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 2.0

@@ -1,6 +1,6 @@
 ## Schedule III
 [Section 9]
-Amounts of prohibited drugs determining court of trial
+## Amounts of prohibited drugs determining court of trial
 Item | Prohibited drug | Amount (in grams unless otherwise stated)
 1. | ACETORPHINE | 6.0
 2. | ACETYLDIHYDROCODEINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 6.0

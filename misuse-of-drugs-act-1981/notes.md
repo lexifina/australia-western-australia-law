@@ -32,6 +32,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Misuse of Drugs Amendment Act 2006 s. 4 | 40 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
 “
@@ -89,7 +90,7 @@ If, immediately before the commencement of this Act, a warrant issued under the 
 (8) The Registrar of Titles is not required to obtain the consent or direction of the Commissioner of Titles to perform a function conferred on the Registrar under this section.
 (9) To the extent that a provision of this section relating to any property is inconsistent with the Transfer of Land Act 1983, the provision prevails, but this section does not otherwise affect the operation of that Act in relation to the property.
 ”.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Part 19 provides general transitional provisions concerning references to Departments and chief executive officers that are amended or repealed by that Act.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Misuse of Drugs Amendment Act 2006 s. 4 had not come into operation. It reads as follows:
 “
 4.Section 32A amended
@@ -102,4 +103,18 @@ Section 32A(3) is amended in the definition of “external serious drug offence�
 (i) the repealed section 233B of the Customs Act 1901 of the Commonwealth; or
 (ii) a law of the Commonwealth, which offence is prescribed to correspond to an offence against that repealed section;
 ”.
+”.
+On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+114.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 15 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 114]
+15.Misuse of Drugs Act 1981 amended
+(1) The amendments in this clause are to the Misuse of Drugs Act 1981.
+(2) Section 3(1) is amended in the definition of “nurse practitioner” by deleting “the Nurses Act 1992;” and inserting instead —
+“ section 3 of the Nurses and Midwives Act 2006; ”.
 ”.
