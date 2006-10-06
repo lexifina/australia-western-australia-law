@@ -26,6 +26,10 @@ Reprint 2: The East Perth Redevelopment Act 1991 as at 20 May 2005 (includes ame
 East Perth Redevelopment (Extension of Redevelopment Area) Regulations 2005 published in Gazette 12 Jul 2005 p. 3235-6 | 12 Jul 2005
 East Perth Redevelopment (Extension of Redevelopment Area) Regulations (No. 2) 2005 published in Gazette 19 Aug 2005 p. 3865-6 | 19 Aug 2005
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 The Planning Legislation Amendment Act 1996 s. 9(2), (3) and (4) read as follows:
@@ -35,3 +39,19 @@ The Planning Legislation Amendment Act 1996 s. 9(2), (3) and (4) read as follows
 (4) If a redevelopment scheme or amendment in respect of which a direction given under subsection (3) has been complied with is subsequently approved, with or without amendments, under section 29(4), or section 34 as read with section 29(4), of the principal Act, the Authority shall, if it wishes to proceed with that redevelopment scheme or amendment, ensure that sections 34C and 34D of the principal Act are complied with in respect of that redevelopment scheme or amendment.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6, which gives effect to Sch. 1, had not come into operation. It reads as follows:
+“
+6.Acts in Schedule 1: consequential amendments
+The Acts mentioned in Schedule 1 are amended as set out in that Schedule.
+”.
+Schedule 1 cl. 2 reads as follows:
+“
+Schedule 1 — Consequential amendments
+[s. 6]
+2.East Perth Redevelopment Act 1991 amended
+(1) The amendments in this clause are to the East Perth Redevelopment Act 1991.
+(2) Section 24(2)(d) is deleted and the following paragraph is inserted instead —
+“
+(d) the Swan River Trust established by the Swan and Canning Rivers Management Act 2006;
+”.
+”.
