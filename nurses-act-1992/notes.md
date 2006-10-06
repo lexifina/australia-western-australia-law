@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Nurses Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 October 2006 of the Nurses Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Nurses Act 1992 | 27 of 1992 | 23 Jun 1992 | 29 Oct 1993 (see s. 2 and Gazette 29 Oct 1993 p. 5881)
@@ -11,10 +11,13 @@ Reprint 2: The Nurses Act 1992 as at 20 Feb 2004 (includes amendments listed abo
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 88 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 10 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+ | Reprint 3: The Nurses Act 1992 as at 6 Oct 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Nurses and Midwives Act 2006 s. 111 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
+Under the Alteration of Statutory Designations Order 2003 a reference in a written law to the Office of Technical and Further Education is, unless the contrary is intended, to be read and construed as a reference to the Department of Education and Training.
 Formerly referred to subsection (1)(h). Reference to subsection (1)(i) substituted as a clerk’s amendment under section 7(5b) of the Reprints Act 1984.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 The Nurses Amendment Act 2003 Pt. 4 reads as follows:
@@ -32,22 +35,6 @@ may carry out the functions of a nurse practitioner at the remote area nursing p
 “designated area” has the meaning given by the Nurses Act 1992;
 “nurse practitioner” has the meaning given by the Nurses Act 1992;
 “remote area nursing post” has the meaning given by the Poisons Regulations 1965.
-”.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 34 reads as follows:
-“
-Schedule 2 — Other Amendments to Acts
-34.Nurses Act 1992
-s. 78(1) | Delete “a magistrate of the appropriate Local Court.” and insert instead — “ the Magistrates Court. ”.
-s. 78(2) | Delete “A Local Court is appropriate for the purposes of this section if it is the nearest Local Court” and insert instead — “ The appeal shall be made to the Magistrates Court at the place nearest ”.
-s. 78(3)(a) | Delete “the clerk of the appropriate Local Court” and insert instead — “ the Court ”.
-s. 78(4) | Delete “a magistrates of the appropriate Local Court,” and insert instead — “ the Magistrates Court, ”.
-s. 78(5) | Delete “magistrate” and insert instead — “ Court, constituted by a magistrate, ”.
-s. 78(7) | Delete “Local Courts Act 1904” and insert instead — “ Magistrates Court (Civil Proceedings) Act 2004 ”.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 35 reads as follows:
@@ -76,4 +63,25 @@ Division 13 — Transitional provisions
 “commencement” means the time at which this Division comes into operation;
 “Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 ”.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Part 19 provides general transitional provisions concerning references to Departments and chief executive officers that are amended or repealed by that Act.
+On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+“
+142.Other amendments to various Acts
+Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
+”.
+Schedule 2 cl. 34 reads as follows:
+“
+Schedule 2 — Other amendments to Acts
+34.Nurses Act 1992
+s. 78(1) | Delete “a magistrate of the appropriate Local Court.” and insert instead — “ the Magistrates Court. ”.
+s. 78(2) | Delete “A Local Court is appropriate for the purposes of this section if it is the nearest Local Court” and insert instead — “ The appeal shall be made to the Magistrates Court at the place nearest ”.
+s. 78(3)(a) | Delete “the clerk of the appropriate Local Court” and insert instead — “ the Court ”.
+s. 78(4) | Delete “a magistrates of the appropriate Local Court,” and insert instead — “ the Magistrates Court, ”.
+s. 78(5) | Delete “magistrate” and insert instead — “ Court, constituted by a magistrate, ”.
+s. 78(7) | Delete “Local Courts Act 1904” and insert instead — “ Magistrates Court (Civil Proceedings) Act 2004 ”.
+”.
+The amendments to s. 78 in the Courts Legislation Amendment and Repeal Act 2004 s. 142 would not be included because the section it seeks to amend was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 88.
+On the date as at which this reprint was prepared, the Nurses and Midwives Act 2006 s. 111 had not come into operation. It reads as follows:
+“
+111.Nurses Act 1992 repealed
+The Nurses Act 1992 is repealed.
+”.
