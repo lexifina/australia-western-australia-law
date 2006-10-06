@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 January 2006 of the Nurses Rules 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Nurses Rules 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Nurses Rules 1993 | 29 Oct 1993 p. 5843-77 (correction 12 Nov 1993 p. 6142) | 29 Oct 1993 (see r. 2 and Gazette 29 Oct 1993 p. 5881)
@@ -16,4 +16,13 @@ Nurses Amendment Rules (No. 2) 2004 | 30 Dec 2004 p. 6986-7 | 1 Jan 2005 (see r.
 Courts and Legal Practice (Consequential Amendments) Regulations 2005 r. 9 | 19 Apr 2005 p. 1294-302 | 19 Apr 2005
 Nurses Amendment Rules (No. 2) 2005 | 19 Aug 2005 p. 3868-9 | 19 Aug 2005
 Reprint 2: The Nurses Rules 1993 as at 13 Jan 2006 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Nurses and Midwives Act 2006 s. 112 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Repealed by the Nurses Act 1992.
+On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 112 had not come into operation. It reads as follows:
+“
+112.Nurses Rules 1993 repealed
+The Nurses Rules 1993 are repealed.
+”.
