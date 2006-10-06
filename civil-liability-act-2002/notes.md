@@ -19,6 +19,7 @@ Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (
 Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be proclaimed (see s. 2)
 Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Psychologists Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 108.Consequential amendments
@@ -135,5 +136,21 @@ Schedule 3 — Consequential amendments
 (2) Section 5PA is amended after paragraph (d) of the definition of “health professional” by inserting the following paragraph —
 “
 (da)a medical radiation technologist as defined in the Medical Radiation Technologists Act 2006 section 3;
+”.
+”.
+On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+114.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 2 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 114]
+2.Civil Liability Act 2002 amended
+(1) The amendments in this clause are to the Civil Liability Act 2002.
+(2) Section 5PA is amended by deleting paragraph (e) of the definition of “health professional” and inserting the following paragraph instead —
+“
+(e)a midwife or nurse as defined in the Nurses and Midwives Act 2006 section 3;
 ”.
 ”.
