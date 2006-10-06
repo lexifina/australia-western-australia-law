@@ -51,6 +51,7 @@ Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (
 Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Parole and Sentencing Legislation Amendment Act 2006 s. 91 | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 The Juries Amendment Act 1984 s. 25 reads as follows:
 “
@@ -141,4 +142,20 @@ On the date as at which this compilation was prepared, the Parole and Sentencing
 ”;
 (b) in paragraph (m) by deleting “Parole Board” and inserting instead —
 “ Prisoners Review Board ”.
+”.
+On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+114.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 12 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 114]
+12.Juries Act 1957 amended
+(1) The amendments in this clause are to the Juries Act 1957.
+(2) The Second Schedule Part II item 2 is amended by deleting “Nurses registered under the Nurses Act 1968” and inserting instead —
+“
+Midwives and nurses registered under the Nurses and Midwives Act 2006
+”.
 ”.
