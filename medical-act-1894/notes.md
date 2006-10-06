@@ -43,10 +43,12 @@ Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 6: The Medical Act 1894 as at 12 Aug 2005 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 8 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Medical Amendment Act 2006 | 49 of 2006 | 6 Oct 2006 | 6 Oct 2006 (see s. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
- | Short title | Number and Year | Assent | Commencement
+Short title | Number and Year | Assent | Commencement
 Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Now see section 77(4) of the Interpretation Act 1984.
 The numbering of Parts, sections, etc., effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and subsequent reprints has been retained. References to the original numbering are contained in the 1943 reprint.
 The Hospitals Amendment Act 1994 s. 18 had no effect on the Medical Act 1894 because the section it would have amended was repealed by the Medical Amendment Act 1994 s. 9.
@@ -138,4 +140,20 @@ Schedule 3 — Consequential amendments
 “ registered under the Chiropractors Act 2005 ”.
 (3) Section 21A(1) is amended by deleting “subsection (2)” and inserting instead —
 “ the provisions of the Radiation Safety Act 1975 ”.
+”.
+On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+114.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 13 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 114]
+13.Medical Act 1894 amended
+(1) The amendments in this clause are to the Medical Act 1894.
+(2) Section 19 is amended by deleting “Nurses Act 1992” and inserting instead —
+“ Nurses and Midwives Act 2006 ”.
+(3) Section 21A(2) is amended by deleting “Nurses Act 1992” and inserting instead —
+“ Nurses and Midwives Act 2006 ”.
 ”.
