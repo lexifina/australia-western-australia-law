@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 July 2006 of the Corruption and Crime Commission Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Corruption and Crime Commission Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Corruption and Crime Commission Act 2003 | 48 of 2003 | 3 Jul 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
@@ -10,6 +10,10 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 79 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Corruption and Crime Commission Act 2003 as at 7 Jul 2006 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and Year | Assent | Commencement
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Repealed by the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003.
 Now called the Telecommunications (Interception and Access) Act 1979.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -112,4 +116,20 @@ to or in relation to any matter.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as to —
 (a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
+”.
+On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+114.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 4 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 114]
+4.Corruption and Crime Commission Act 2003 amended
+(1) The amendments in this clause are to the Corruption and Crime Commission Act 2003.
+(2) Section 54(1) is amended in the definition of “registered nurse” by deleting “means a person registered under Part 3 of the Nurses Act 1992.” and inserting instead —
+“
+has the meaning given to that term in section 3 of the Nurses and Midwives Act 2006.
+”.
 ”.
