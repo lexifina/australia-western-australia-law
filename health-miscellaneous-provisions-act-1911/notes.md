@@ -121,6 +121,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988.
 The Health Act Amendment Act 1900 is repealed by section 4 of this Act.
 Section 53B was repealed by the Health Act Amendment Act 1933 (No. 2) s. 6.
@@ -591,4 +592,18 @@ Division 13 — Transitional provisions
 “commencement” means the time at which this Division comes into operation;
 “Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 ”.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Part 19 provides general transitional provisions concerning references to Departments and chief executive officers that are amended or repealed by that Act.
+On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+114.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 9 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 114]
+9.Health Act 1911 amended
+(1) The amendments in this clause are to the Health Act 1911.
+(2) Section 3(1) is amended by deleting the definition of “midwife” and inserting instead —
+“
+“midwife” has the meaning given to that term in section 3 of the Nurses and Midwives Act 2006;
+”.
