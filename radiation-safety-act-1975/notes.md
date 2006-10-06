@@ -23,6 +23,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 The Radiation Safety (General) Regulations 1983 were published in Gazette 21 Feb 1983 p. 555-636.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -100,4 +101,21 @@ or
 “
 (aa) under section 24A; or
 ”.
+”.
+On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+114.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 19 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 114]
+19.Radiation Safety Act 1975 amended
+(1) The amendments in this clause are to the Radiation Safety Act 1975.
+(2) Section 26(2a) is amended as follows:
+(a) by deleting “Nurses Act 1992” and inserting instead —
+“ Nurses and Midwives Act 2006 ”;
+(b) by deleting “section 9(1)(c)” and inserting instead —
+“ section 100(1)(b) ”.
 ”.
