@@ -1,6 +1,6 @@
 ## Schedule 2
 [Section 60]
-Matters with respect to which regulations may be made
+## Matters with respect to which regulations may be made
 1.The requirements for holding a licence or permit.
 2.The requirements for the transfer of quotas under section 32(5), including providing for the surrender of part of a quota on any such transfer.
 3.The records to be kept, returns to be made and information to be supplied by the holder of a farm lease, licence or permit and the manner of that supply, whether by radio, post or otherwise.
