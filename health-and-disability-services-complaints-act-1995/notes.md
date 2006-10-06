@@ -27,6 +27,7 @@ Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (
 Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be proclaimed (see s. 2)
 Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. The relevant part of it reads:
 “
 75.Various provisions repealed
@@ -189,4 +190,19 @@ Division 13 — Transitional provisions
 “commencement” means the time at which this Division comes into operation;
 “Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 ”.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Part 19 provides general transitional provisions concerning references to Departments and chief executive officers that are amended or repealed by that Act.
+On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+114.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 11 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 114]
+11.Health Services (Conciliation and Review) Act 1995 amended
+(1) The amendments in this clause are to the Health Services (Conciliation and Review) Act 1995.
+(2) Schedule 1 item 4 is deleted and the following item is inserted instead —
+“
+4.The Nurses and Midwives Board of Western Australia established under the Nurses and Midwives Act 2006.
+”.
+”.
