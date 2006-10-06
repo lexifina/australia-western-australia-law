@@ -35,6 +35,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
 The Firearms Amendment Act 1996 s. 9(2), 10(2), 11(2), 15(2), 39 and 53 are transitional, savings and related provisions that are of no further effect.
@@ -85,4 +86,18 @@ Schedule 3 — Consequential amendments
 “
 (b)a psychologist as defined in the Psychologists Act 2005 section 3;
 ”.
+”.
+On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+114.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 8 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 114]
+8.Firearms Act 1973 amended
+(1) The amendments in this clause are to Firearms Act 1973.
+(2) Section 23B(3) is amended in the definition of “registered nurse” by deleting “Part 3 of the Nurses Act 1992.” and inserting instead —
+“ Part 4 of the Nurses and Midwives Act 2006. ”.
 ”.
