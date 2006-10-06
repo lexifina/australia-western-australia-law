@@ -236,6 +236,7 @@ Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To b
 Parole and Sentencing Legislation Amendment Act 2006 s. 89 | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
 Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 4 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -491,5 +492,21 @@ Schedule 1 — Consequential amendments
 (2) Schedule V Part 1 Division 2 is amended by inserting after the item relating to the Commissioner appointed under the Corruption and Crime Commission Act 2003 the following item —
 “
 Commissioner for Children and Young People appointed under the Commissioner for Children and Young People Act 2006.
+”.
+”.
+On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+114.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 3 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 114]
+3.Constitution Acts Amendment Act 1899 amended
+(1) The amendments in this clause are to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended by deleting the item commencing “The Nurses Board” and inserting instead —
+“
+The Nurses and Midwives Board of Western Australia established under the Nurses and Midwives Act 2006.
 ”.
 ”.
