@@ -8,6 +8,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) had not come into operation. They read as follows:
 “
 149.Conditions on rural land (tied lots)
@@ -243,4 +244,42 @@ but if the City of Swan does not accept that advice, the City of Swan is to refe
 ”.
 (8) Clause 30B(6) is amended by deleting “council of the Shire” and inserting instead —
 “ City ”.
+”.
+On the date as at which this compilation was prepared, the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6, which gives effect to Sch. 1, had not come into operation. It reads as follows:
+“
+6.Acts in Schedule 1: consequential amendments
+The Acts mentioned in Schedule 1 are amended as set out in that Schedule.
+”.
+Schedule 1 cl. 6 reads as follows:
+“
+Schedule 1 — Consequential amendments
+[s. 6]
+6.Planning and Development Act 2005 amended
+(1) The amendments in this clause are to the Planning and Development Act 2005.
+(2) Section 36(a) is deleted and the following paragraph is inserted instead —
+“
+(a) in a manner that is contrary to or inconsistent with —
+(i) the Swan and Canning Rivers Management Act 2006 Part 5;
+(ii) any amendment made to the Metropolitan Region Scheme by the Acts Amendment (Swan River Trust) Act 1988 section 14, 15 or 17; or
+(iii) any amendment made to the Metropolitan Region Scheme by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 section 21;
+”.
+(3) Section 80 is amended as follows:
+(a) by deleting “management programme in force under Part 3 of the Swan River Trust Act 1988” and inserting instead —
+“
+strategic document in force under the Swan and Canning Rivers Management Act 2005 Part 4
+”;
+(b) by deleting “Schedule 2” and inserting instead —
+“ Schedule 7 ”.
+(4) Section 112(2) is amended by deleting “management area of the Swan River Trust as defined in the Swan River Trust Act 1988.” and inserting instead —
+“
+development control area as defined in the Swan and Canning Rivers Management Act 2006.
+”.
+(5) Section 241(1)(b) is deleted and the following paragraph is inserted instead —
+“
+(b) any management programme for the development control area in force under the Swan and Canning Rivers Management Act 2006 Part 4 that may affect the subject matter of the application.
+”.
+(6) Section 245(5)(a) is amended by deleting “management area as defined in the Swan River Trust Act 1988,” and inserting instead —
+“
+development control area as defined in the Swan and Canning Rivers Management Act 2006,
+”.
 ”.
