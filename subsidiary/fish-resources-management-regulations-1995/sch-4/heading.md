@@ -6,7 +6,7 @@ Abalone, Brownlip
 Abalone, Greenlip
 Abalone, Roe’s
 Barramundi
-Billfish (marlins, sailfish and spearfish) and Swordfish
+Billfish (Marlins, Sailfish and Spearfish) and Swordfish
 Cod, Potato
 Cod, Estuary
 Coral Trout
@@ -20,14 +20,14 @@ Whale Shark
 Category 2 fish
 Bream, Black
 Bream, Fingermark
-Cobbler (estuary catfish)
+Cobbler (Estuary Catfish)
 Cobia
 Cod, other than Potato, Estuary and Queensland Groper
 Crab, Blue Manna
 Crab, Brown Mud
 Crab, Green Mud
 Cuttlefish
-Dolphinfish (mahi mahi)
+Dolphinfish (Mahi Mahi)
 Emperor, Red
 Emperor, Spangled
 Kingfish, Yellowtail
@@ -43,18 +43,18 @@ Samson Fish
 Sharks, except Whale Shark
 Snapper, Northwest
 Snapper, Pink
-Snapper, Queen (blue morwong)
+Snapper, Queen (Blue Morwong)
 Snapper, Red
 Squid
 Tailor
 Tuna, Southern Bluefin
 Tuskfish and Baldchin Groper
-Whiting, King George (spotted)
+Whiting, King George (Spotted)
 Category 3 fish
 Bream, Northwest Black
 Bream, Yellowfin
 Cobbler, Freshwater
-Cockle, Ark shell and other edible bivalves
+Cockle, Ark Shell and other edible bivalves
 Cherabin
 Clam, Venus
 Flathead
