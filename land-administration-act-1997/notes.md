@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 September 2006 of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Administration Act 1997 | 30 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
@@ -28,7 +28,7 @@ Water Legislation Amendment (Competition Policy) Act 2005 Pt. 4 | 25 of 2005 | 1
 Planning and Development (Consequential and Transitional Provisions) Act 2005 Pt. 2 Div. 2 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 13 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 3: The Land Administration Act 1997 as at 15 Sep 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
@@ -36,6 +36,7 @@ Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Ope
 Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | 1 Dec 2006 (see s. 2 and Gazette 8 Aug 2006 p. 2899)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 On the date as at which this reprint was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 “
 4.Section 6A inserted
@@ -423,3 +424,19 @@ s. 231(c) | Delete the paragraph and insert instead — “ (c)in the case of a 
 s. 237(3) | Delete “stipendiary”.
 ”.
 The amendments to s. 224(6), 226(2) and (3), 231(c) and 237(3) in the Courts Legislation Amendment and Repeal Act 2004 s. 142 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 67.
+On the date as at which this compilation was prepared, the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6, which gives effect to Sch. 1, had not come into operation. It reads as follows:
+“
+6.Acts in Schedule 1: consequential amendments
+The Acts mentioned in Schedule 1 are amended as set out in that Schedule.
+”.
+Schedule 1 cl. 4 reads as follows:
+“
+Schedule 1 — Consequential amendments
+[s. 6]
+4.Land Administration Act 1997 amended
+(1) The amendments in this clause are to the Land Administration Act 1997.
+(2) Section 45(6) is amended by deleting “management area of the Swan River Trust within the meaning of the Swan River Trust Act 1988,” and inserting instead —
+“
+development control area or Riverpark as defined in the Swan and Canning Rivers Management Act 2006,
+”.
+”.
