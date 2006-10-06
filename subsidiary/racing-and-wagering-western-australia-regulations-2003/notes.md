@@ -1,13 +1,14 @@
 Notes
-This is a compilation of the Racing and Wagering Western Australia Regulations 2003 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 6 October 2006 of the Racing and Wagering Western Australia Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Racing and Wagering Western Australia Regulations 2003 | 29 Jul 2003 p. 3273-91 | 1 Aug 2003 (see r. 2 and Gazette 29 Jul 2003 p. 3259)
-Racing and Wagering Western Australia Amendment Regulations 2004 | 30 Jan 2004 p. 355-394 | 30 Jan 2004 (see r. 2)
+Racing and Wagering Western Australia Amendment Regulations 2004 | 30 Jan 2004 p. 355-94 | 30 Jan 2004 (see r. 2)
 Racing and Wagering Western Australia Amendment Regulations (No. 2) 2004 | 5 Nov 2004 p. 4984-6 | 5 Nov 2004 (see r. 2)
 Racing and Wagering Western Australia Amendment Regulations 2005 | 14 Oct 2005 p. 4567-8 | 1 Jan 2006 (see r. 2)
 Racing and Wagering Western Australia Amendment Regulations 2006 | 5 May 2006 p. 1737-40 | 5 May 2006
 Racing and Wagering Western Australia Amendment Regulations (No. 2) 2006 | 14 Jul 2006 p. 2569-70 | 14 Jul 2006
+Reprint 1: The Racing and Wagering Western Australia Regulations 2003 as at 6 Oct 2006 (includes amendments listed above)
 The Racing and Wagering Western Australia Amendment Regulations (No. 2) 2004 r. 5 reads as follows:
 “
 5.Transitional provision
