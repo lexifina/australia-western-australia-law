@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 November 2005 of the Pharmacy Act 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Pharmacy Act 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Pharmacy Act 1964 | 72 of 1964 | 11 Dec 1964 | 1 Jul 1965 (see s. 2 and Gazette 25 Jun 1965 p. 1836)
@@ -25,6 +25,26 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 4: The Pharmacy Act 1964 as at 11 Nov 2005 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and Year | Assent | Commencement
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment to s. 18(3) in the Criminal Law Amendment (Simple Offences) Act 2004 s. 82 is not included because the subsection it seeks to amend was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 926.
+On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+114.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 16 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 114]
+16.Pharmacy Act 1964 amended
+(1) The amendments in this clause are to the Pharmacy Act 1964.
+(2) Section 5(1) is amended in the definition of “dispensing” by deleting “Nurses Act 1992” and inserting instead —
+“ Nurses and Midwives Act 2006 ”.
+(3) Section 39(3) is amended in the definition of “nurse practitioner” by deleting “the Nurses Act 1992.” and inserting instead —
+“ section 3 of the Nurses and Midwives Act 2006. ”.
+”.
