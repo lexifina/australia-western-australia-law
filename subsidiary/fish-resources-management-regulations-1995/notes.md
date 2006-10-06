@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 October 2006 of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -93,14 +93,12 @@ Fish Resources Management Amendment Regulations (No. 8) 2005 | 11 Nov 2005 p. 55
 Fish Resources Management Amendment Regulations (No. 7) 2005 | 22 Dec 2005 p. 6215-39 | 1 Jan 2006 (see r. 2)
 Fish Resources Management Amendment Regulations (No. 3) 2006 | 7 Feb 2006 p. 619-21 | 1 Mar 2006 (see r. 2)
 Fish Resources Management Amendment Regulations (No. 4) 2006 | 7 Mar 2006 p. 975 | 7 Mar 2006
-Electricity Corporations (Consequential Amendments) Regulations 2006 r. 80 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
-Fish Resources Management Amendment Regulations 2006 | 23 May 2006 p. 1857-1861 | 1 Jul 2006 (see r. 2)
+Electricity Corporations (Consequential Amendments) Regulations 2006 r. 80 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
+Fish Resources Management Amendment Regulations 2006 | 23 May 2006 p. 1857-61 | 1 Jul 2006 (see r. 2)
 Fish Resources Management Amendment Regulations (No. 5) 2006 | 5 Sep 2006 p. 3615-17 | 5 Sep 2006
+Reprint 6: The Fish Resources Management Regulations 1995 as at 6 Oct 2006 (includes amendments listed above)
 Repealed by the Land Administration Act 1997 s. 281(1).
-The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
-Under the Statutes (Repeals and Minor Amendments) Act 2000 s. 14(3), the name of the Electricity Corporation was changed to the Western Power Corporation.
-Repealed by the Gas Standards (Gasfitting and Consumers’ Gas Installations) Regulations 1999, which was repealed by the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999.
-Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Fisheries Department is now called the Department of Fisheries.
-Repealed by the Fish Resources Management Act 1994 s. 265.
-Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Ministry of Justice is now called the Department of Justice.
+Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Fisheries Department was redesignated as the Department of Fisheries.
+Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Ministry of Justice was redesignated as the Department of Justice.
+Under the Public Sector Management Act 1994 departments can be established and named. The designation of the department known as the Department of Justice has been altered to the Department of the Attorney General and the Department of Corrective Services is established with effect from 5 Jan 2006.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
