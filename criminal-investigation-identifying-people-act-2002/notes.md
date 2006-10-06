@@ -10,6 +10,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Parole and Sentencing Legislation Amendment Act 2006 s. 95(3) | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Parole and Sentencing Legislation Amendment Act 2006 s. 95(3) had not come into operation. It reads as follows:
 “
 95.Sentencing Legislation Amendment Act 2004 amended
@@ -18,3 +19,17 @@ On the date as at which this compilation was prepared, the Parole and Sentencing
 (3) Section 15 is repealed.
 ”.
 Section 95 which gave effect to Sch. 1 ceased to have effect on 29 June 2005 (see s. 95(2)).
+On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+114.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 7 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 114]
+7.Criminal Investigation (Identifying People) Act 2002 amended
+(1) The amendments in this clause are to Criminal Investigation (Identifying People) Act 2002.
+(2) Section 52 is amended in the definition of “nurse” by deleting “Part 3 of the Nurses Act 1992;” and inserting instead —
+“ Part 4 of the Nurses and Midwives Act 2006; ”.
+”.
