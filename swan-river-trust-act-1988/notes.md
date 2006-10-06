@@ -28,9 +28,18 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Swan River Trust Act 1988 as at 7 Oct 2005 (includes amendments listed above)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and Year | Assent | Commencement
+Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 4 | 52 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management.
 The Swan Valley Planning Act 1995 Sch. 2 cl. 15(2) reads as follows:
 “
 (2) The amendment made by subclause (1)(b) does not apply to any application for approval of development under the principal Act made before the commencement of section 27 of this Act.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 4 had not come into operation. It reads as follows:
+“
+4.Swan River Trust Act 1988 repealed
+The Swan River Trust Act 1988 is repealed.
+”.
