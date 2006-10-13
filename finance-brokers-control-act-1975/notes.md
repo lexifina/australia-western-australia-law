@@ -1,17 +1,17 @@
 Notes
-This is a compilation of the Finance Brokers Control Act 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 13 October 2006 of the Finance Brokers Control Act 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Finance Brokers Control Act 1975 | 88 of 1975 | 20 Nov 1975 | 1 Nov 1976 (see s. 2 and Gazette 29 Oct 1976 p. 4103)
 Companies (Consequential Amendments) Act 1982 s. 28 | 10 of 1982 | 14 May 1982 | 1 Jul 1982 (see s. 2(1) and Gazette 25 Jun 1982 p. 2079)
-Reprint of the Finance Brokers Control Act 1975 as at 2 Apr 1986 (includes amendments listed above) (Correction in Gazette 11 Mar 2003 p. 751)
+Reprint of the Finance Brokers Control Act 1975 as at 2 Apr 1986 (includes amendments listed above)
 Acts Amendment (Legal Practitioners, Costs and Taxation) Act 1987 Pt. X | 65 of 1987 | 1 Dec 1987 | 12 Feb 1988 (see s. 2(2) and Gazette 12 Feb 1988 p. 397)
 Acts Amendment (Public Sector Management) Act 1994 s. 3(1) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
 Business Licensing Amendment Act 1995 Pt. 5 | 56 of 1995 | 20 Dec 1995 | 1 May 1996 (see s. 2(2) and Gazette 30 Apr 1996 p. 1853)
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 76 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
 Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 79 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
-Reprint of the Finance Brokers Control Act 1975 as at 3 Mar 2000 (includes amendments listed above) (Correction in Gazette 11 Mar 2003 p. 751)
+Reprint of the Finance Brokers Control Act 1975 as at 3 Mar 2000 (includes amendments listed above) (correction in Gazette 11 Mar 2003 p. 751)
 Corporations (Consequential Amendments) Act 2001 s. 221 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Building Societies Amendment Act 2001 s. 51 | 12 of 2001 | 13 Jul 2001 | 13 Jul 2001 (see s. 2)
 Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 5 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth Gazette 24 Oct 2001 No. GN42)
@@ -19,20 +19,16 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 35 | 65 of 200
 Finance Brokers Control Amendment Act 2004 | 53 of 2004 | 18 Nov 2004 | 31 Oct 2005 (see s. 2 and Gazette 28 Oct 2005 p. 4839)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 46 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | s. 78: 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53)) s. 80 and 82: 31 Oct 2005 (see s. 2 and Gazette 28 Oct 2005 p. 4839)
-Reprint 3: The Finance Brokers Control Act 1975 as at 5 Aug 2005 (includes amendments listed above except those in the Finance Brokers Control Amendment Act 2004)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | s. 78: 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53)); s. 80 and 82: 31 Oct 2005 (see s. 2 and Gazette 28 Oct 2005 p. 4839)
+Reprint 3: The Finance Brokers Control Act 1975 as at 5 Aug 2005 (includes amendments listed above except those in the Finance Brokers Control Amendment Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 4: The Finance Brokers Control Act 1975 as at 13 Oct 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 27 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 The appointed day is 1 August 1977; see Gazette 17 June 1977 p. 1834.
-The amendment in theOaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 to amend s. s.15(2)(c)(iv) is not included because the subsection it sought to amend had been replaced by the Finance Brokers Control Amendment Act 2004 s. 10.
-The Business Licensing Amendment Act 1995 s. 24 reads as follows:
-“
-24.Transitional
-Despite sections 31(2) and 32(1) of the principal Act as amended by this Act, a business certificate renewed under the principal Act in the 12 month period immediately following the commencement of this Part is, subject to the principal Act, to have effect for a period of one year, 2 years or 3 years as is determined by the Registrar.
-”.
+The Business Licensing Amendment Act 1995 s. 24 is a transitional provision that is of no further effect.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
 “
 2.Commencement
@@ -52,7 +48,6 @@ In this Part —
 (b) that could not have been validly and lawfully done or omitted if this Act had received the Royal Assent before the FSR commencement time,
 is taken not to be valid, and to never have been valid.
 ”.
-The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Finance Brokers Control Amendment Act 2004 Sch. 1 reads as follows:
 “
 Schedule 1 — Transitional and savings
@@ -111,7 +106,9 @@ but in respect of which a decision has not been made by the Board before the com
 “transitional matter” means a matter or thing necessary or convenient to provide for the change from the Finance Brokers Act, to the Finance Brokers Control Act 1975 as in force after the commencement day.
 ”.
 The amendment in the Finance Brokers Amendment Act 2004 s. 74(2) is not included because the subsection it sought to amend had been replaced by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 before it purported to come into operation.
-On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 27 had not come into operation. It reads as follows:
+The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+The amendment in the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 to amend s. 15(2)(c)(iv) is not included because the subsection it sought to amend had been replaced by the Finance Brokers Control Amendment Act 2004 s. 10.
+On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 27 had not come into operation. It reads as follows:
 “
 27.Finance Brokers Control Act 1975 amended
 (1) The amendment in this section is to the Finance Brokers Control Act 1975.
