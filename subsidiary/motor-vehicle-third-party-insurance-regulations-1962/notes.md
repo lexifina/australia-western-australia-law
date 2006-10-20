@@ -40,6 +40,7 @@ Reprint of the Motor Vehicle (Third Party Insurance) Regulations 1962 as at 15 M
 Motor Vehicle (Third Party Insurance) Amendment Regulations 1998 | 23 Jun 1998 p. 3338 | 23 Jun 1998
 Motor Vehicle (Third Party Insurance) Amendment Regulations 1999 | 22 Jun 1999 p. 2674-5 | 22 Jun 1999
 Reprint 3: The Motor Vehicle (Third Party Insurance) Regulations 1962 as at 7 Nov 2003 (includes amendments listed above)
+Motor Vehicle (Third Party Insurance) Amendment Regulations 2006 | 20 Oct 2006 p. 4470 | 20 Oct 2006
 On the commencement of the Road Traffic Amendment Act 1996 this Board ceased to exist.
 Now known as the Motor Vehicle (Third Party Insurance) Regulations 1962; citation changed (see note under r. 1).
 There were published in the Gazette on 26 Aug 1977 two sets of untitled amendments which both appeared on p. 3049.
