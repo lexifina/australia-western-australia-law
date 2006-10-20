@@ -1,19 +1,19 @@
 Notes
-This is a compilation of the Betting Control Act 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 20 October 2006 of the Betting Control Act 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Betting Control Act 1954 | 63 of 1954 | 30 Dec 1954 | 1 Aug 1955 (see s. 2 and Gazette 29 Jul 1955 p. 1767)
-Betting Control Act Amendment Act 1956 | 50 of 1956 | 18 Dec 1956 | 18 Dec 1956
-Betting Control Act Continuance Act 1957 | 36 of 1957 | 18 Nov 1957 | 18 Nov 1957
+Betting Control Act 1954 | 63 of 1954 (3 Eliz. II No. 63) | 30 Dec 1954 | 1 Aug 1955 (see s. 2 and Gazette 29 Jul 1955 p. 1767)
+Betting Control Act Amendment Act 1956 | 50 of 1956 (5 Eliz. II No. 50) | 18 Dec 1956 | 18 Dec 1956
+Betting Control Act Continuance Act 1957 | 36 of 1957 (6 Eliz. II No. 36) | 18 Nov 1957 | 18 Nov 1957
 Reprint of the Betting Control Act 1954 approved 16 Feb 1959 in Vol. 14 of Reprinted Acts (includes amendments listed above)
-Betting Control Act Amendment Act 1959 | 76 of 1959 | 14 Dec 1959 | 21 Dec 1959 (see s. 2 and Gazette 18 Dec 1959 p. 3339)
-Betting Control Act Amendment Act 1960 | 49 of 1960 | 28 Nov 1960 | 31 Dec 1960 (see s. 2 and Gazette 23 Dec 1960 p. 4074)
-Betting Control Act Amendment Act (No. 2) 1960 | 66 of 1960 | 2 Dec 1960 | 2 Dec 1960
-Anzac Day Act 1960 s. 9 | 73 of 1960 | 12 Dec 1960 | 12 Dec 1960
-Betting Control Act Amendment Act 1961 | 14 of 1961 | 20 Oct 1961 | 20 Oct 1961
+Betting Control Act Amendment Act 1959 | 76 of 1959 (8 Eliz. II No. 76) | 14 Dec 1959 | 21 Dec 1959 (see s. 2 and Gazette 18 Dec 1959 p. 3339)
+Betting Control Act Amendment Act 1960 | 49 of 1960 (9 Eliz. II No. 49) | 28 Nov 1960 | 31 Dec 1960 (see s. 2 and Gazette 23 Dec 1960 p. 4074)
+Betting Control Act Amendment Act (No. 2) 1960 | 66 of 1960 (9 Eliz. II No. 66) | 2 Dec 1960 | 2 Dec 1960
+Anzac Day Act 1960 s. 9 | 73 of 1960 (9 Eliz. II No. 73) | 12 Dec 1960 | 12 Dec 1960
+Betting Control Act Amendment Act 1961 | 14 of 1961 (10 Eliz. II No. 14) | 20 Oct 1961 | 20 Oct 1961
 Reprint of the Betting Control Act 1954 approved 11 Apr 1963 in Vol. 17 of Reprinted Acts (includes amendments listed above)
-Betting Control Act Amendment Act 1963 | 28 of 1963 | 13 Nov 1963 | 13 Nov 1963
-Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | s. 4-9: 14 Feb 1966 (see s. 2(2)); balance: 21 Dec 1965 (see s. 2(1))
+Betting Control Act Amendment Act 1963 | 28 of 1963 (12 Eliz. II No. 28) | 13 Nov 1963 | 13 Nov 1963
+Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Acts Amendment (Commissioner of State Taxation) Act 1970 Pt. IX | 21 of 1970 | 8 May 1970 | 1 Jul 1970 (see s. 2 and Gazette 26 Jun 1970 p. 1831)
 Betting Control Act Amendment Act 1970 | 66 of 1970 | 17 Nov 1970 | 17 Nov 1970
 Betting Control Act Amendment Act (No. 2) 1970 | 75 of 1970 | 17 Nov 1970 | 1 Jan 1971 (see s. 2)
@@ -41,12 +41,12 @@ Acts Amendment (Fixed Odds Betting) Act 1999 Pt. 3 | 40 of 1999 | 16 Nov 1999 | 
 Corporations (Consequential Amendments) Act 2001 Pt. 7 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Reprint of the Betting Control Act 1954 as at 12 Apr 2002 (includes amendments listed above)
 Betting Legislation Amendment Act 2002 Pt. 2 | 13 of 2002 | 8 Jul 2002 | 21 Sep 2002 (see s. 2 and Gazette 20 Sep 2002 p. 4693)
-Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 7 Div. 1 | 35 of 2003 | 26 Jun 2003 | s. 74, 76(b), (d)-(g), 77(1), 80, 81(1)-(4), 82-84, 95, 98: 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259); s. 75, 76(a), (c) and (h), 77(2), 78, 79, 81(5) and (6), 85-94, 96, 97 and 99-115: 30 Jan 2004 (see s. 2 and Gazette 30 Jan 2004 p. 397)
+Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 7 Div. 1 | 35 of 2003 | 26 Jun 2003 | s. 74, 76(b), (d)-(g), 77(1), 80, 81(1)-(4), 82-84, 95, 98: 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259); s. 75, 76(a), (c) and (h), 77(2), 78, 79, 81(5) and (6), 85-94, 96, 97 and 99-103: 30 Jan 2004 (see s. 2 and Gazette 30 Jan 2004 p. 397)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Office of Racing Gaming and Liquor is now called the Department of Racing, Gaming and Liquor.
-Repealed by the Associations Incorporation Act 1987 s. 47.
+Reprint 8: The Betting Control Act 1954 as at 20 Oct 2006 (includes amendments listed above)
+Repealed by the Acts Amendment and Repeal (Betting) Act 1992.
 The Betting Control Amendment Act 1998 s. 5(2) and (3) read as follows:
 “
 (2) An approval which was in force under section 4A of the principal Act immediately before the commencement of this section continues in force, subject to subsection (3), for the remainder of the period for which it would, but for this section, have continued in force, and the principal Act as in force immediately before that commencement continues to apply to and in relation to that approval accordingly.
