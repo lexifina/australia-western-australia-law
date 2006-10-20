@@ -13,7 +13,7 @@
 (e) for an injunction under section 235A(2), the court is satisfied that, in all the circumstances, it is just or convenient to grant the injunction; and
 (f) the court is satisfied that the order or injunction takes into account the matters mentioned in subsection (4).
 (4) The matters are as follows —
-(a) the taxation effect (if any) of the order or injunction on the de factor partners;
+(a) the taxation effect (if any) of the order or injunction on the de facto partners;
 (b) the taxation effect (if any) of the order or injunction on the third party;
 (c) the social security effect (if any) of the order or injunction on the de facto partners;
 (d) the third party’s administrative costs in relation to the order or injunction;
