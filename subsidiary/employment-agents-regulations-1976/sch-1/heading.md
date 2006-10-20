@@ -125,7 +125,7 @@ Employment Agents Act 1976
 RESTRICTED LICENCE
 This is to certify that .............................................................................................. ........................................................ trading as ....................................................... of ............................................................................................................................ is licensed to carry on business as an employment agent († on behalf of .......................................................................................................) in the following parts of Western Australia: — ................................................................................................................................. ................................................................................................................................. and in relation to the following class or classes of business: — ................................................................................................................................. ................................................................................................................................. at the following places of business: — ................................................................................................................................. ................................................................................................................................. subject to the following conditions, limitations and restrictions: — ................................................................................................................................. ................................................................................................................................. .................................................................................................................................
 Date of issue: ........................................ Date of expiry: ......................................
-................................................................ Commissioner for Fair Trading.
+................................................................ Commissioner for Fair Trading
 † Delete if not applicable.
 [Form 8 amended in Gazette 30 Dec 2004 p. 6919.]
 Form 9
@@ -148,7 +148,7 @@ TAKE NOTICE THAT ................................ trading as ...................
 ANY PERSON who desires to object to the grant of a licence should lodge a notice in writing with the Commissioner, within 14 days of the date of this publication stating in sufficient details the grounds of the objection and is also required to serve a copy of such notice of objection on the applicant or his authorised representative.
 ................................................................ Signature.
 [Form 11 amended in Gazette 30 Dec 2004 p. 6920.]
-Form 12 Employment Agents Act 1976 REGISTER OF EMPLOYMENT AGENTS Business Name ................................................................................................................................................................ Address of Principal Place of Business .......................................................................................................................... Address of Other Places of Business .............................................................................................................................. | Cancellation or Surrender | Date
+Form 12 Employment Agents Act 1976 REGISTER OF EMPLOYMENT AGENTS Business Name ............................................................................................................................................................. Address of Principal Place of Business ....................................................................................................................... Address of Other Places of Business ........................................................................................................................... | Cancellation or Surrender | Date
 S
 C
 Disqualification of Person, Firm or Body Corporate | To
@@ -196,16 +196,3 @@ Office
 Date | Date of withdrawal //20
 Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to: Approved Officer — Employment Agents Act 1976 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 Signature//20
 [Form 14 inserted in Gazette 22 Sep 2006 p. 4111.]
-## Schedule 2 — Prescribed offences and modified penalties
-[r. 4]
-[Heading inserted in Gazette 22 Sep 2006 p. 4111.]
-Offences under Employment Agents Act 1976 | Modified penalty
-s. 12(1) | Carrying on business as an employment agent without a licence ..................................................... | $100
-s. 12(4) | Carrying on business as an employment agent —
- | (a)under unlicensed name .................................. | $100
- | (b)at unlicensed address .................................... | $100
- | (c)when licence is not in force ......................... | $100
- | (d)in relation to unlicensed class of business ... | $100
- | (e)contrary to condition, limitation or restriction in licence .................................... | $100
-s. 46(6) | Failing to keep records .......................................... | $100
-[Schedule 2 inserted in Gazette 22 Sep 2006 p. 4111.]
