@@ -5,4 +5,3 @@ An Act to —
 •repeal the Zoological Gardens Act 1972;
 •consequentially amend certain other Acts,
 and for related purposes.
-The Parliament of Western Australia enacts as follows:
