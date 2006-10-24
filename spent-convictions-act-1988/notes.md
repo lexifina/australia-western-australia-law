@@ -34,6 +34,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Spent Convictions (Act Amendment) Regulations 2005 (published in Gazette 31 May 2005 p. 2413-20) | 31 May 2005
 Reprint 4: The Spent Convictions Act 1988 as at 8 Jul 2005 (includes amendments listed above)
 Spent Convictions (Act Amendment) Regulations (No. 2) 2005 (published in Gazette 4 Nov 2005 p. 5319-20) | 4 Nov 2005
+Spent Convictions (Act Amendment) Regulations 2006 (published in Gazette 24 Oct 2006 p. 4491-2) | 24 Oct 2006
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
