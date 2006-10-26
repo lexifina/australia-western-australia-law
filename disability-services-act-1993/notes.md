@@ -19,10 +19,11 @@ Reprint 2: The Disability Services Act 1993 as at 15 Jul 2005 (includes amendmen
 Financial Administration Legislation Amendment Act 2005 s. 38 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 5 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Volunteers (Protection from Liability) Amendment Act 2006 s. 12(2) | 53 of 2006 | 26 Oct 2006 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Disability Services Act 1993 Sch. 6 Pt. 2 reads as follows:
 “
@@ -64,7 +65,7 @@ The Disability Services Amendment Act 2004 s. 20(2) reads as follows:
 (2) A public authority that had a disability service plan immediately before commencement of this section is taken to have a disability access and inclusion plan for the purposes of section 28 of the Disability Services Act 1993 as inserted by this section.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 “
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
@@ -73,4 +74,10 @@ Act | Provision
 ...................... | ........
 Disability Services Act 1993 | Sch. 4, cl. 1
 ...................... | ........
+”.
+On the date as at which this compilation was prepared, the Volunteers (Protection from Liability) Amendment Act 2006 s. 12(2) had not come into operation. It reads as follows:
+“
+12.Consequential amendments
+(2) The Disability Services Act 1993 section 3A(2)(b) is amended after “Volunteers” by inserting —
+“ and Food and Other Donors ”.
 ”.
