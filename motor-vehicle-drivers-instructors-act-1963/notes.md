@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 July 2005 of the Motor Vehicle Drivers Instructors Act 1963 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Motor Vehicle Drivers Instructors Act 1963 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Drivers Instructors Act 1963 | 10 of 1963 | 15 Oct 1963 | 28 Feb 1964 (see s. 2 and Gazette 28 Feb 1964 p. 905-6)
@@ -17,10 +17,11 @@ Reprint of the Motor Vehicle Drivers Instructors Act 1963 as at 8 Feb 2002 (incl
 Machinery of Government (Planning and Infrastructure) Amendment Act 2002 Pt. 3 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 87 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 3: The Motor Vehicle Drivers Instructors Act 1963 as at 1 Jul 2005 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Road Traffic Amendment Act 2006 Pt. 4 Div. 2 | 54 of 2006 | 26 Oct 2006 | To be proclaimed (see s. 2)
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
 “
 67.Agreements under former Transport Co-ordination Act 1966 section 15C
@@ -74,7 +75,7 @@ The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of its publication.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
 Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
@@ -88,3 +89,52 @@ s. 10(2)(b) | Delete subparagraph (i) and “and” after it and insert instead 
 s. 10(5) | Repeal the subsection and insert instead — “ (5)An appeal under this section shall be in the nature of a rehearing and shall be heard and determined by the Magistrates Court constituted by a magistrate. ”.
 ”.
 The section that it seeks to amend has been amended by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 782.
+On the date as at which this compilation was prepared, the Road Traffic Amendment Act 2006 Pt. 4 Div. 2 had not come into operation. It reads as follows:
+“
+Part 4 — Consequential amendments to other Acts
+Division 2 — Motor Vehicle Drivers Instructors Act 1963
+38.The Act amended
+The amendments in this Division are to the Motor Vehicle Drivers Instructors Act 1963.
+39.Section 3 amended
+Section 3 is amended as follows:
+(a) by deleting the definition of “motor vehicle” and inserting instead —
+“
+“motor vehicle” has the same meaning as it has in Part IVA of the Road Traffic Act 1974;
+”;
+(b) by deleting the definition of “road” and inserting instead —
+“
+“road” has the same meaning as it has in Part IVA of the Road Traffic Act 1974;
+”.
+40.Section 5 amended
+(1) Section 5(1)(a) and (b) are deleted and the following paragraphs are inserted instead —
+“
+(a) act as a driving instructor in respect of a motor vehicle, unless authorised to do so by a licence or permit held by the person;
+(b) advertise, notify or state that the person acts or is willing to act as a driving instructor unless —
+(i) the advertisement, notification or statement specifies the kinds of motor vehicle, and the kinds of use of them, for which the person acts or is willing to act as a driving instructor; and
+(ii) the person holds a licence or permit authorising the person to act as specified;
+”.
+(2) Section 5(2) is amended by deleting paragraph (a) and “or” after it and inserting instead —
+“
+(a) did not hold an appropriate licence or permit; or
+”.
+(3) Section 5(3) is amended by deleting “Commissioner of Police” and inserting instead —
+“ Director General ”.
+41.Section 6 amended
+Section 6(2) and (3) are repealed and the following subsections are inserted instead —
+“
+(2) A licence may authorise the holder to act as a driving instructor for any kind of motor vehicle, or kind of use, specified in the licence, or for all kinds of motor vehicles and uses.
+(3) If no kind of motor vehicle or use is specified in a licence, the licence authorises the holder to act as a driving instructor for all kinds of motor vehicles and uses.
+”.
+42.Section 7 amended
+(1) Section 7(3) is amended by deleting paragraph (a) and “and” after it and inserting instead —
+“
+(a) of the applicant’s competency for any driving of a kind that the licence would authorise the applicant to teach; and
+”.
+(2) Section 7(5) is amended as follows:
+(a) in paragraph (d), by deleting “of the class in respect of which he has applied for a license” and inserting instead —
+“ as the licence would authorise ”;
+(b) in paragraph (e), by deleting “of the class in respect of which he has applied for a license” and inserting instead —
+“
+as persons would be taught by the applicant to do under the licence sought
+”.
+”.
