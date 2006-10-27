@@ -86,6 +86,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Electoral Amendment and Repeal Act 2005 Pt. 2 | 1 of 2005 | 20 May 2005 | 20 May 2005 (see s. 2)
 Constitution and Electoral Amendment Act 2005 s. 4 | 2 of 2005 | 23 May 2005 | 23 May 2005 (see s. 2)
 Reprint 13: The Electoral Act 1907 as at 9 Sep 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
+Electoral Reform (Electoral Funding) Act 2006 | 55 of 2006 | 26 Oct 2006 | 27 Oct 2006 (see s. 2)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
