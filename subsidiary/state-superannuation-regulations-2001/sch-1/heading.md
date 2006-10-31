@@ -76,7 +76,7 @@
 34.Minerals and Energy Research Institute of Western Australia established under the Minerals and Energy Research Act 1987
 35.Nurses Board of Western Australia established under the Nurses Act 1992
 36.Office of Health Review established under the Health Services (Conciliation and Review) Act 1995
-37.Perth International Centre for Application of Solar Energy established under the Perth International Centre for Application of Solar Energy Act 1994
+[37.deleted]
 38.Perth Market Authority preserved and continued under the Perth Market Act 1926
 39.Port authorities established under the Port Authorities Act 1999
 40.Potato Marketing Corporation of Western Australia preserved and continued under the Marketing of Potatoes Act 1946
@@ -111,4 +111,4 @@
 [67.deleted]
 68.WorkCover Western Australia Authority (WorkCover Western Australia) constituted under the Workers’ Compensation and Injury Management Act 1981
 69.Zoological Parks Authority established under the Zoological Parks Authority Act 2001
-[Division 2 amended in Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354.]
+[Division 2 amended in Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; amended by No. 43 of 2006 s. 7.]
