@@ -168,6 +168,7 @@ Financial Administration and Audit (Designation of Statutory Authorities) Regula
 Financial Administration and Audit (Designation of Statutory Authorities) Regulations (No. 2) 2005 published in Gazette 28 Oct 2005 p. 4842 | 28 Oct 2005
 Reprint 9: The Financial Administration and Audit Act 1985 as at 10 Feb 2006 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 5 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
 On the date as at which this consolidation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this consolidation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -175,7 +176,6 @@ Conservation and Land Management Amendment Act 1991 Sch. it. 2 | 20 of 1991 | 25
 Acts Amendment (ICWA) Act 1996 Sch. 1 it. 3(c) | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 44 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 5 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 The provision of this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. (Also see endnote 11).
@@ -251,12 +251,7 @@ Section 73 of the Financial Administration and Audit Act 1985 is amended as foll
 (b) in paragraph (b) by deleting “his rights (if any) under the Superannuation and Family Benefits Act 1938, and such other” and inserting instead —
 “ such ”.
 ”.
-On the date as at which this compilation was prepared, the Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 5 had not come into operation. It reads as follows:
-“
-5.Financial Administration and Audit Act 1985 amended
-(1) The amendment in this section is to the Financial Administration and Audit Act 1985.
-(2) Schedule 1 is amended by deleting “Perth International Centre for Application of Solar Energy”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Schedule 1, had not come into operation. It reads as follows:
 “
 65.Consequential amendments
