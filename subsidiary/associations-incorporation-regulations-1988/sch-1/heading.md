@@ -1,6 +1,6 @@
 ## Schedule 1
 [Regulation 9]
-Forms
+## Forms
 Application for Incorporation of an Association |  | Associations Incorporation Act 1987 Form 1 (includes certificate required by s. 5(2)(b))
 Association | Name
 Brief description of main purpose(s)__________________________________________________ __________________________________________________ __________________________________________________ __________________________________________________
@@ -30,6 +30,7 @@ Rules | The rules of the Association — ·include provisions dealing with all t
 Declaration | I certify that all the details set out in this Application are true and correct
 Signature of Applicant | Date
 It is an offence, with a penalty of $500, to make a false statement in an application.
+[Form 1 inserted in Gazette 16 Aug 2002 p. 4205-6.]
 Form 2
 Associations Incorporation Act 1987 (Section 6(1))
 ADVERTISEMENT OF INTENDED APPLICATION FOR INCORPORATION OF
@@ -48,6 +49,7 @@ The association is formed for the purpose of
 (insert main purpose)
 Signed .......................................................
 Print full name in block letters................................................................................
+[Form 2 amended in Gazette 9 Oct 2001 p. 5527.]
 Form 3
 Associations Incorporation Act 1987 (Section 9(1))
 CERTIFICATE OF INCORPORATION
@@ -57,6 +59,7 @@ has this day been incorporated under the Associations Incorporation Act 1987.
 Dated this...................................... day of ................................................. 20 .......
 ................................................................
 Commissioner for Fair Trading.
+[Form 3 amended in Gazette 9 Oct 2001 p. 5527.]
 Form 4
 Associations Incorporation Act 1987 (Section 18(6))
 CERTIFICATE OF INCORPORATION ON CHANGE OF NAME
@@ -65,6 +68,7 @@ which was on the ................................ day of .......................
 incorporated under the Associations Incorporation Act 1987 changed its name to ........................ on this .............................. day of ................................ 20 .......
 ................................................................
 Commissioner for Fair Trading.
+[Form 4 amended in Gazette 9 Oct 2001 p. 5527.]
 Form 5
 Associations Incorporation Act 1987 Infringement notice | Infringement notice no.
 Alleged offender | Name:Family name
@@ -99,4 +103,3 @@ Office
 Date | Date of withdrawal //20
 Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to: Approved Officer — Associations Incorporation Act 1987 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 Signature //20
 [Form 6 inserted in Gazette 22 Sep 2006 p. 4074.]
-[Schedule 1 amended in Gazette 9 Oct 2001 p. 5527; 16 Aug 2002 p. 4205-6; 22 Sep 2006 p. 4073-4.]

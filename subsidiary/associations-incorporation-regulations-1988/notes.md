@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Associations Incorporation Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 November 2006 of the Associations Incorporation Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Associations Incorporation Regulations 1988 | 24 Jun 1988 p. 1998-2001 | 25 Jul 1988 (see r. 2 and Gazette 24 Jun 1988 p. 1995)
@@ -19,3 +19,5 @@ Associations Incorporation Amendment Regulations (No. 2) 2003 | 27 Jun 2003 p. 2
 Associations Incorporation Amendment Regulations 2004 | 30 Dec 2004 p. 6906 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Associations Incorporation Amendment Regulations 2005 | 28 Jun 2005 p. 2909-10 | 1 Jul 2005 (see r. 2)
 Associations Incorporation Amendment Regulations 2006 | 22 Sep 2006 p. 4071-4 | 22 Sep 2006 (see r. 2(a))
+Reprint 3: The Associations Incorporation Regulations 1988 as at 3 Nov 2006 (includes amendments listed above)
+As at the time of this reprint the person designated as the Commissioner for the purposes of the Act is known as the Commissioner for Consumer Protection (see Gazette 18 August 2006 p. 3372).
