@@ -16,8 +16,9 @@
 11.Monkey Mia-Shark Bay
 12.Mt. Magnet
 13.Wiluna
+[Division 1 inserted in Gazette 6 Oct 2006 p. 4367-8.]
 ## Division 2
 [Heading inserted in Gazette 6 Oct 2006 p. 4368.]
 1.Fitzroy Crossing
 2.Halls Creek
-[Schedule 3 inserted in Gazette 6 Oct 2006 p. 4367-8.]
+[Division 2 inserted in Gazette 6 Oct 2006 p. 4368.]
