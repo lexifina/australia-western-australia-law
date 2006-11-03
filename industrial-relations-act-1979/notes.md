@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Industrial Relations Act 1979 and includes the amendments made by the other written laws referred to in the following tablea. The table also contains information about any reprint.
+This reprint is a compilation as at 3 November 2006 of the Industrial Relations Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Industrial Arbitration Act 1979 | 114 of 1979 | 21 Dec 1979 | 1 Mar 1980 (see s. 2 and Gazette 8 Feb 1980 p. 383)
@@ -50,7 +50,7 @@ Police Amendment Act 2003 s. 10 | 7 of 2003 | 27 Mar 2003 | 27 Aug 2003 (see s. 
 Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 12 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
 Acts Amendment (Equality of Status) Act 2003 Pt. 31 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Public Transport Authority Act 2003 s. 147 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
-Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 4 (published in Gazette 15 Aug 2003 p. 3685-92) | 15 Sep 2003 (see r. 2)
+Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 4 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 41 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 68 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 9: The Industrial Relations Act 1979 as at 18 Jun 2004 (includes amendments listed above)
@@ -63,13 +63,14 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 10: The Industrial Relations Act 1979 as at 8 Jul 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 Industrial Relations Amendment Act 2005 | 14 of 2005 | 21 Sep 2005 | 22 Sep 2005 (see s. 2)
 Labour Relations Legislation Amendment Act 2006 Pt. 3-5 and 8 | 36 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2(1))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 11: The Industrial Relations Act 1979 as at 3 Nov 2006 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Vocational Education and Training Act 1996 s. 62 | 42 of 1996 | 16 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
-See the Commonwealth Fisheries Management Act 1991 s. 4(1).
+Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
 The Labour Relations Reform Act 2002 s. 112, 113(6), 117(2) and (3), 138(2), 140(2), 141(2), 146(2), 152(2), 155(2) and (3), 186(2)-(4) and Sch. 1 read as follows:
 “
@@ -133,7 +134,7 @@ under 16 years | 40%
 (2) The minimum weekly rate of pay for an apprentice or trainee in relation to whom a workplace agreement or an employer-employee agreement is in force is the rate of pay that is provided for under an award that would, if the workplace agreement or employer-employee agreement were not in force, apply to that apprentice or trainee.
 ”.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 “
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
@@ -145,25 +146,41 @@ Industrial Relations Act 1979 | s. 20(8), (8a), (8b), (8c), (8d)
 ”.
 Now known as the Industrial Relations Act 1979; short title changed (see note under s. 1).
 The Industrial Relations Amendment Act 1990 s. 14 was repealed before it came into operation by the Industrial Legislation Amendment Act 1995 s. 35.
-The Acts Amendment (Industrial Magistrate’s Courts) Act 1991 s. 6 contains transitional provisions relating to persons who were Industrial Magistrates when that section commenced and to proceedings begun and decisions made before that commencement.
+The Acts Amendment (Industrial Magistrate’s Courts) Act 1991 s. 6 contains transitional provisions relating to persons who were industrial magistrates when that section commenced and to proceedings begun and decisions made before that commencement.
 The Acts Amendment (Parliamentary, Electorate and Gubernatorial Staff) Act 1992 s. 9(2) is a transitional provision that is spent.
 The Industrial Relations Amendment Act 1993 s. 15(2) is a transitional provision that is spent. Section 18 of that Act contains savings provisions relating to the Long Service Leave General Order.
-The Hospitals Amendment Act 1994, the Table to s. 18 it. 11 fourth paragraph was repealed by the Industrial Legislation Amendment and Repeal Act 1995 s. 36(4).
+The Hospitals Amendment Act 1994 the Table to s. 18 it. 11 fourth paragraph was repealed before it came into operation by the Industrial Legislation Amendment and Repeal Act 1995 s. 36(4).
 The Industrial Legislation Amendment Act 1995 contains transitional and other provisions —
-(a) in Part 2 Div 3, relating to the Government School Teachers Tribunal;
+(a) in Part 2 Div. 3, relating to the Government School Teachers Tribunal;
 (b) in s. 34, relating to the Promotions Appeal Board; and
 (c) in s. 42, relating to dismissals occurring before the commencement of that section.
 The Industrial Relations Legislation Amendment and Repeal Act 1995 s. 12 and 13 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Vocational Education and Training Act 1996 s. 62, which gives effect to Sch. 2, had not come into operation. Section 62 reads as follows:
+The Labour Relations Legislation Amendment Act 2006 s. 22 reads as follows:
+“
+22.Transitional provisions
+(1) In this section —
+“commencement day” means the day on which Part 4 of the Labour Relations Legislation Amendment Act 2006 comes into operation;
+“section 50A” means section 50A of the Industrial Relations Act 1979 as in force immediately after the commencement day;
+“section 51” means section 51 of the Industrial Relations Act 1979 as in force immediately before the commencement day;
+“State Wage order” means a General Order made under section 50A.
+(2) Any —
+(a) General Order of effect under section 51; and
+(b) order of effect under section 51F of the Industrial Relations Act 1979 as in force immediately before the commencement day,
+remains of effect until a State Wage order takes effect.
+(3) Despite section 50A, the first State Wage order —
+(a) may be made after 1 July;
+(b) if it is made after 1 July, comes into effect on a date specified by the Commission; and
+(c) if it comes into effect on a date after 1 July, is applicable in respect of an employee, apprentice or trainee on and from the commencement of the first pay period of the employee, apprentice or trainee on or after that date.
+(4) A date specified under subsection (3)(b) must not be a date that is earlier than the day on which the order is made.
+(5) Despite section 50A(1)(b), the Commission must not adjust rates of wages paid under awards in a State Wage order made in relation to the period ending 30 June 2007 if, during 2006 and before that State Wage order is made, the Commission has made a General Order under section 50 of the Industrial Relations Act 1979 adjusting rates of wages paid under awards generally.
+”.
+On the date as at which this reprint was prepared, the Vocational Education and Training Act 1996 s. 62, which gives effect to Sch. 2, had not come into operation. Section 62 and Sch. 2 read as follows:
 “
 62. Consequential amendments and transitional provisions relating to this Part
 Schedule 2 has effect —
 (a) to amend the Industrial Relations Act 1979 as a consequence of the repeal of the Industrial Training Act 1975; and
 (b) in relation to the transition from the operation of the Industrial Training Act 1975 to the operation of this Part.
-”.
-Schedule 2 reads as follows:
-“
 Schedule 2
 [Section 62]
 Amendments and transitional provisions relating to Part 7
@@ -198,8 +215,7 @@ and
 (3) Any regulations made under the repealed Act and in operation immediately before the commencement of section 61 which were applicable to, or in respect of, an apprenticeship or industrial training agreement referred to in subclause (2) are to continue to apply to such an agreement, until regulations are made under this Act in respect of the matters covered by those regulations.
 (4) Regulations may be made, with effect from a time which is not earlier than the commencement of section 61, amending or supplementing the transitional provisions set out in subclauses (2) and (3) for the purpose of providing an effective and efficient transition from the provisions of the repealed Act to the provisions of this Act.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49 had not come into operation. It reads as follows:
 “
 49.Industrial Relations Act 1979 amended
 (1) The amendments in this section are to the Industrial Relations Act 1979.
@@ -222,23 +238,4 @@ On the date as at which this compilation was prepared, the Petroleum Legislation
 (IV) the Petroleum Pipelines Act 1969;
 (V) the Petroleum (Submerged Lands) Act 1982;
 ”.
-”.
-The Labour Relations Legislation Amendment Act 2006 s. 22 reads as follows:
-“
-22.Transitional provisions
-(1) In this section —
-“commencement day” means the day on which Part 4 of the Labour Relations Legislation Amendment Act 2006 comes into operation;
-“section 50A” means section 50A of the Industrial Relations Act 1979 as in force immediately after the commencement day;
-“section 51” means section 51 of the Industrial Relations Act 1979 as in force immediately before the commencement day;
-“State Wage order” means a General Order made under section 50A.
-(2) Any —
-(a) General Order of effect under section 51; and
-(b) order of effect under section 51F of the Industrial Relations Act 1979 as in force immediately before the commencement day,
-remains of effect until a State Wage order takes effect.
-(3) Despite section 50A, the first State Wage order —
-(a) may be made after 1 July;
-(b) if it is made after 1 July, comes into effect on a date specified by the Commission; and
-(c) if it comes into effect on a date after 1 July, is applicable in respect of an employee, apprentice or trainee on and from the commencement of the first pay period of the employee, apprentice or trainee on or after that date.
-(4) A date specified under subsection (3)(b) must not be a date that is earlier than the day on which the order is made.
-(5) Despite section 50A(1)(b), the Commission must not adjust rates of wages paid under awards in a State Wage order made in relation to the period ending 30 June 2007 if, during 2006 and before that State Wage order is made, the Commission has made a General Order under section 50 of the Industrial Relations Act 1979 adjusting rates of wages paid under awards generally.
 ”.
