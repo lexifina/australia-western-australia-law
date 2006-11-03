@@ -6,9 +6,9 @@
  | (a)including one driving test to satisfy the Director General that the applicant is able to control a motor vehicle of the appropriate class —
  | (i)where the motor vehicle is not of class HC or MC .................. | 55.40
  | (ii)where the motor vehicle is of class HC or MC ...................... | 155.70
- | (b)where the motor vehicle is of class MC (in which case a driving test is conducted by someone other than the Director General) or where a driving test is not required to satisfy the Director General that the applicant is able to control a motor vehicle of the appropriate class .................................. | 43.30
+ | (b)where the motor vehicle is of class MC (in which case a driving test is conducted by someone other than the Director General) or where a driving test is not required to satisfy the Director General that the applicant is able to control a motor vehicle of the appropriate class ............................ | 43.30
 2. | Each additional driving test required to satisfy the Director General that an applicant is able to control a motor vehicle of the appropriate class, or that a condition or limitation endorsed on a driver’s licence should be revoked —
- | (a)where the motor vehicle is not of class HC or MC ............................................ | 28.40
+ | (a)where the motor vehicle is not of class HC or MC ................................... | 28.40
  | (b)where the motor vehicle is of class HC or MC .................................................. | 113.20
 3. | For each duplicate tax invoice provided in respect of fees paid for any additional driving tests referred to in item 2 ..................................... | 10.20
 4. | Grant or renewal of a driver’s licence —
