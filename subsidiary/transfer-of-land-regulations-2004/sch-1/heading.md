@@ -18,7 +18,7 @@ Note:The fees specified in items 1 to 4 include the creation and registration of
 6. | Of an extension of a mortgage or charge — for each interest ........................................................................... | $82
 7. | Of a Crown lease or of a freehold lease or sub-lease or extension of a freehold lease ......................................... | $82
 8. | Of a memorial or notification under any State or Commonwealth Act (unless exempted from payment under that Act) ............................................................... | $82
-9. | Of an order of the Supreme Court, a warrant of a Local Court or a writ of fieri facias ......................................... | $82
+9. | Of an order of the Supreme Court, a warrant of a Local Court or a writ of fieri facias........................................ | $82
 10. | Of revocation of a power of attorney ............................ | $82
 11. | Of an instrument not specifically provided for in this Division ......................................................................... | $82
 [Division 1 amended in Gazette 24 Jun 2005 p. 2763; 7 Jul 2006 p. 2502.]
@@ -26,16 +26,16 @@ Note:The fees specified in items 1 to 4 include the creation and registration of
 1. | Of a caveat, a power of attorney or a declaration of trust ............................................................................... | $82
 2. | Of a deposited plan —
  | (a)general fee —
- | (i)if approval of Western Australian Planning Commission is required ..…… | $184
- | (ii)if approval of Western Australian Planning Commission is not required …. | $128
- | (b)for each lot (including any lot shown on an inset on the plan) other than a lot vesting in the Crown under the Planning and Development Act 2005 section 152 ................ | $50
+ | (i)if approval of Western Australian Planning Commission is required ......... | $184
+ | (ii)if approval of Western Australian Planning Commission is not required ... | $128
+ | (b)for each lot (including any lot shown on an inset on the plan) other than a lot vesting in the Crown under the Planning and Development Act 2005 section 152 ....................................... | $50
 3. | Of a replacement deposited plan for a certified correct deposited plan —
- | (a)if approval of Western Australian Planning Commission is required ………….. | $184
- | (b)if approval of Western Australian Planning Commission is not required ………. | $128
-4. | Of a replacement deposited plan for a deposited plan in respect of which a requisition has been raised prior to preparation of Western Australian Planning Commission’s prints ……………….......... | $128
+ | (a)if approval of Western Australian Planning Commission is required ................... | $184
+ | (b)if approval of Western Australian Planning Commission is not required ............. | $128
+4. | Of a replacement deposited plan for a deposited plan in respect of which a requisition has been raised prior to preparation of Western Australian Planning Commission’s prints ..................................................... | $128
 5. | Of a duplicate certificate of title or lease for the registration or recording of a dealing lodged by a third party —
  | (a)for the first certificate of title or lease ........... | $41
- | (b)for each subsequent certificate of title or lease ... | $6
+ | (b)for each subsequent certificate of title or lease ............................................................... | $6
 6. | Of a memorandum within the meaning of section 54(1) of the Act — section 54(2) of the Act .... | $82
 7. | Of a form for the notification of a factor affecting the use or enjoyment of land — section 70A(1) of the Act ................................................................................ | $82
 8. | Of an instrument for a restrictive covenant created under section 129BA of the Act — section 129BA(2)(b) of the Act .................................... | $82
@@ -43,7 +43,7 @@ Note:The fees specified in items 1 to 4 include the creation and registration of
 10. | Of an instrument for a restrictive covenant created under Part IVA of the Act — section 136D(3) of the Act ................................................................................ | $82
 [Division 2 amended in Gazette 24 Jun 2005 p. 2763; 7 Jul 2006 p. 2503.]
 ## Division 3 — Withdrawals
-1. | Of a caveat, warrant of a Local Court, writ of fieri facias, a memorial under the Taxation Administration Act 2003 Part 6 Division 2 or a memorial under the Land Tax Assessment Act 1976 section 46 that was registered before that Act was repealed, or any other Act or Commonwealth Act (unless exempted from payment under that Act) ............................................... | $82
+1. | Of a caveat, warrant of a Local Court, writ of fieri facias, a memorial under the Taxation Administration Act 2003 Part 6 Division 2 or a memorial under the Land Tax Assessment Act 1976 section 46 that was registered before that Act was repealed, or any other Act or Commonwealth Act (unless exempted from payment under that Act) .............................................. | $82
 2. | Of a document from registration or recording ............. | $41
 [Division 3 amended in Gazette 24 Jun 2005 p. 2763; 7 Jul 2006 p. 2503.]
 ## Division 4 — Applications
@@ -51,7 +51,7 @@ Note:The fees specified in items 1 to 4 include the creation and registration of
  | (a)for one certificate ................................................ | $82
  | (b)for each additional certificate ............................. | $6
 2. | For a new certificate of title the subject of a deposited plan ............................................................................... | $82
- | plus, for each lot shown on the deposited plan, other than a lot that is proposed to be vested in the Crown under the Planning and Development Act 2005 section 152............................................................... | $6
+ | plus, for each lot shown on the deposited plan, other than a lot that is proposed to be vested in the Crown under the Planning and Development Act 2005 section 152..................................................................... | $6
 3. | For a new certificate of title in any other case ............. | $82
 4. | To amend certificates of title of other owners affected by section 170 of the Act — for each certificate of title affected .................................................................. | $82
 5. | To serve a section 138A caveator with notice under section 138B of the Act ................................................ | $164
@@ -80,7 +80,7 @@ Note:The fees specified in items 1 to 4 include the creation and registration of
 10. | Inspection of a licensed surveyor’s field book ........ | $13
 11. | Copy of a licensed surveyor’s field book ................ | $13
 12. | Copy of a plan, diagram, deposited plan, survey index plan or licensed surveyor’s field book obtained by use of departmental self-service equipment ................................................................ | fee as assessed by the Registrar, not exceeding actual cost
-13. | Inspection of the record of dealings and matters referred to in section 48A(2) or 81P of the Act, as is relevant to the case, that were endorsed on previous digital versions of a digital title, but are not endorsed on the current version of that digital title ……................................................................... | $6.50
+13. | Inspection of the record of dealings and matters referred to in section 48A(2) or 81P of the Act, as is relevant to the case, that were endorsed on previous digital versions of a digital title, but are not endorsed on the current version of that digital title .......................................................................... | $6.50
 14. | Inspection of other documents and related information not specifically provided for in this Division, including documents listed as subject to dealing and status reports ........................................ | $13 per document
 15. | Copy of other documents and related information not specifically provided for in this Division, including documents listed as subject to dealing and status reports ..................................................... | $13 per document
 16. | Search for the number of a certificate of title, Crown lease, Crown title, permit or licence ............ | $6.50
@@ -120,10 +120,9 @@ Note:The fees specified in item 21 include the taking a hard copy of screen prin
 9. | Cancellation of a plan or diagram ........................... | $63
 10. | Search of an historic tenure ..................................... | fee as assessed by the Registrar, not exceeding actual cost
 11. | Providing a replica of a certificate of title, plan or document registered in the State ............................. | actual cost
-12. | Amendment of a deposited plan resulting in a new version (including excision, addition or amendment of lots, easements and interests, notifications table and lodged layer updates) .……. | $42
- | plus, if deposited plan has been certified correct and is to be forwarded to Western Australian Planning Commission ...………………………….. | $56
- | if a deposited plan, plan or diagram has been certified correct, an additional fee of .................. | $53
-13. | For rejection of a document under section 192(1) of the Act ................…............................................. | 75% of the registration, recording, lodgment or application fee paid or
+12. | Amendment of a deposited plan resulting in a new version (including excision, addition or amendment of lots, easements and interests, notifications table and lodged layer updates) ......... | $42
+ | plus, if deposited plan has been certified correct and is to be forwarded to Western Australian Planning Commission …......................................... | $56
+13. | For rejection of a document under section 192(1) of the Act ................................................................ | 75% of the registration, recording, lodgment or application fee paid or
  |  | payable on the document (rounded down to the nearest multiple of $1)
 14. | For registrations and recordings under Division 1, lodgments under Division 2 and applications under Division 4 — involving more than 10 certificates or leases — each certificate or lease in excess of 10 ........................................................................ | $6.00
 15. | For the priority processing of a transfer, mortgage, discharge of mortgage, withdrawal of caveat, or survivorship application, or not more than 4 of such documents if lodged together, or of an enduring power of attorney, subject to regulation 5A ......................................................... | $30
