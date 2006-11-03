@@ -46,7 +46,7 @@ LICENCE NO. | ROUTE NO. | TRIPS | PASS. CARRIED | TOTAL SEATS AVAIL-ABLE | KM TR
 2. REGULAR TIMETABLED SERVICES
 3. CHARTER TRIPS
 4. TRIPS UNDER TEMPORARY LICENCE/PERMITS
-q Please place CROSS in BOX if receipt required | REVENUE FOR ASSESS. OF LICENCE FEES $ | RATE % | LICENCE FEES PAYABLE $
+qPlease place CROSS in BOX if receipt required | REVENUE FOR ASSESS. OF LICENCE FEES $ | RATE % | LICENCE FEES PAYABLE $
 AMOUNT OF GROSS EARNINGS FROM — | TOURS
 R.P.T.
 OTHER
@@ -234,12 +234,12 @@ Name of licensee................................................................
 Address................................................................................................................................
 TYPE OF OPERATION | No. of Passengers | Freight Carried Inc. Mails | Gross Earnings | Licence Fee
 Rate | Amount
- |  | Kg | $ | c |  | $ | c
-Regular Airline Service — Authorised by Licence No.
-Authorised by Licence No......
-Authorised by Licence No......
-Charter Flights — Authorised by Licence No.
-TOTALS....................
+ |  |  | Kg | $ | c |  | $ | c
+ | Regular Airline Service — Authorised by Licence No.
+ | Authorised by Licence No.
+ | Authorised by Licence No.
+ | Charter Flights — Authorised by Licence No.
+ | TOTALS....................
 To the Director General
 I/WE CERTIFY that the above information is true and correct in every particular.
 FOR OFFICE USE ONLY
@@ -254,7 +254,8 @@ To the DIRECTOR GENERAL:
 I/WE (name of applicant)................................................................................................ of (address)...............................................................................................................................
 Designation..........................................................................................................................
 (State whether Owner, Master, Charterer or Agent of ship)
-of the undermentioned ship HEREBY MAKE APPLICATION FOR A LICENCE for such ship to carry cargo of the description set out on the back hereof to and from the Ports specified during the period from the......................... 20........to the.............................20........ (both inclusive)* and to carry passengers also between the ports of.........................................................................................
+of the undermentioned ship HEREBY MAKE APPLICATION FOR A LICENCE for such ship to carry cargo of the description set out on the back hereof to and from the Ports specified during the period from the.................... 20........to the.................. 20........ (both inclusive)* and to carry passengers also between the ports of .................................
+................................................................
 PARTICULARS OF SHIP
 Name of Ship...........................................Port of Registry...................................................
 Name of Registered Owner and Master...............................................................................
@@ -276,7 +277,7 @@ Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
 Form 11
-S.47B
+S. 47B
 LICENCE TO ENGAGE IN THE COASTING TRADE
 WHEREAS..............................................................................................................(Name)
 of..........................................................................................................................(Address)
@@ -299,8 +300,7 @@ I/WE (name of applicant)........................................................
 of (address)..........................................................................................................................
 Designation..........................................................................................................................
 (State whether Owner, Master, Charterer or Agent of ship)
-of the undermentioned ship hereby make application for the renewal of the licence dated the....................................day of......................................................20...........
-authorising the ship to engage in the coasting trade and granted for a period of
+of the undermentioned ship hereby make application for the renewal of the licence dated the.................................day of...........................................20........... authorising the ship to engage in the coasting trade and granted for a period of ................................................
 .............................................................................................................................................
 Period of renewal applied for..............................................................................................
 PARTICULARS OF SHIP
@@ -309,12 +309,12 @@ Name of Registered Owner................................Official Number.........
 [Form 12 amended in Gazette 28 Feb 2003 p. 683.]
 Western Australia TRANSPORT CO-ORDINATION ACT 1966 TRANSPORT CO-ORDINATION REGULATIONS 1985 APPLICATION FOR PERMIT/TEMPORARY LICENCE | Telephone application No. issued (if any) No...............................
 Form 13
-S.41(2)
+S. 41(2)
 To the DIRECTOR GENERAL:
 I (Name)...................................................................hereby make application for a Permit (or Temporary Licence) under the provisions of the Transport Co-ordination Act 1966 to operate the undermentioned vehicle in accordance with the particulars set out hereon.
 PARTICULARS OF THE JOURNEY (OR JOURNEYS): — JOURNEY 1 From................................................................................................... To....................................................................................................... Via...................................................................................................... Departure..................................a.m...................................20............. p.m. | PARTICULARS OF THE VEHICLE: Name of Owner................................................................. Address of Owner............................................................. ............................................................Postcode................ Make of Vehicle..................................Type..................... No. of Axles......................................................................
 PARTICULARS OF THE JOURNEY (OR JOURNEYS): — JOURNEY 2 From................................................................................................... To....................................................................................................... Via...................................................................................................... Departure..................................a.m...................................20............. p.m. | Road Traffic Act Identification Plates...................................../................ ................................................./.....................................
-. ...................................................................................... Prime Mover Owner (if applicable)
+....................................................................................... Prime Mover Owner (if applicable)
 Period for which Permit/Temporary Licence required (if applicable)..................................................................................................
 From.....................................................a.m...................20..............To....................................................a.m...................20..............
 p.m.p.m.
@@ -328,7 +328,7 @@ REASONS why existing transport services cannot be used: — ....................
 ................................................................................................................................................................................................................
 (*OMNIBUS APPLICATIONS ONLY)..............................................................................................................................................
 FOR OFFICE USE ONLY | I HEREBY CERTIFY that the information set out hereon is true and correct in every particular, and that the vehicle proposed to be used is correctly licensed in accordance with the provisions of the Road Traffic Act 1974, as amended from time to time. Date of Application..................................................20............. Signature of Applicant............................................................... Occupation of Applicant............................................................ Address of Applicant.................................................................
-Rec. No............................................. Amount............................................. Date.................................................. | .
+Rec. No............................................. Amount............................................. Date..................................................
 Permit No......................................... Expires.............................................. ..........................................................
 [Form 13 amended in Gazette 28 Feb 2003 p. 683.]
 Western Australia
@@ -424,10 +424,10 @@ TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
 APPLICATION FOR TRANSFER OF AN OMNIBUS LICENCE
 Form 18
-S.30
+S. 30
 To the DIRECTOR GENERAL:
 I (transferee)......................................................................................................................... Occupation........................................................................................................................... of (Address)......................................................................................................................... hereby apply for the transfer to me of Omnibus Licence No................................. held by (transferor) ..........................................................................................................................
-I certify that no monies or other consideration by way of premium, or otherwise has been paid, or is to be paid, for the transfer of this licence, as per Section 30(2) of the Transport Co-ordination Act 1966.
+I certify that no monies or other consideration by way of premium, or otherwise has been paid, or is to be paid, for the transfer of this licence, as per section 30(2) of the Transport Co-ordination Act 1966.
 Signature of Transferee.............................................
 Date.......................................20............ Telephone No.........................................
 The omnibus in respect of which the abovementioned licence has been issued has been disposed of to (transferee)............................................................................. and I agree to the licence being transferred to him.
@@ -436,7 +436,7 @@ Date.......................................20............ Signature of Transfero
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 Form 19
-S.23
+S. 23
 TRANSFER OF LICENCE
 Date of Issue..........................................20................
 Application having been made by —
@@ -453,7 +453,7 @@ Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
 PART 1Form 21
-S.56A
+S. 56A
 NOTICE TO DEFENDANT RELATING TO ELECTING TO APPEAR OR NOT TO APPEAR AT A HEARING
 To.........................................................................................................................................
 (Defendant)
@@ -464,9 +464,9 @@ Date of Hearing.................................................................
 Court....................................................................................................................................
 1.THIS IS TO ADVISE you that under section 56A of the Transport Co-ordination Act 1966, you may by an election in writing in the prescribed form (copies of which are attached to this notice) elect to appear or not to appear on the hearing of the complaint referred to in the summons which this notice accompanies.
 2.If you wish to make an election please complete the copies of the form of election accompanying this notice so as to indicate either that you will appear at the hearing of the complaint contained in the summons or that you will not appear at the hearing.
-3.For an election to be properly made under the Act one copy of the form of election should be delivered by post or otherwise to the clerk of petty sessions at the place appointed in the summons for the hearing and one copy should be delivered by post or otherwise to the complainant whose address is.......................................................
-.............................................................................................................................................so as to reach each addressee not later than 21 days before the time appointed in the summons for the hearing of the complainant.
-4.If you DO NOT APPEAR, whether you elect to do so or not, the court of petty sessions hearing the complaint may under the alternative procedure provided for in the Act proceed —
+3.For an election to be properly made under the Act one copy of the form of election should be delivered by post or otherwise to the registrar of the Magistrates Court at the place appointed in the summons for the hearing and one copy should be delivered by post or otherwise to the complainant whose address is..................................
+............................................................................................................................................. so as to reach each addressee not later than 21 days before the time appointed in the summons for the hearing of the complainant.
+4.If you DO NOT APPEAR, whether you elect to do so or not, the Magistrates Court hearing the complaint may under the alternative procedure provided for in the Act proceed —
 (a)to hear and determine the complaint in your absence;
 (b)to permit the affidavits accompanying the summons and this notice to be tendered in evidence; and
 (c)to determine the complaint on such particulars in the affidavits in support of the matters alleged in the complaints as would, under the laws of evidence apart from section 56A of the Transport Co-ordination Act 1966, be admissible if given orally before the Court, and not on any other particulars.
@@ -477,14 +477,14 @@ PART 2
 ELECTION BY DEFENDANT
 I,...........................................................................................................................................
 of..........................................................................................................................................
-having been served with a summons at least 28 days before the date appointed in the summons for the hearing of a complaint of an offence under the Transport Co-ordination Act 1966, together with a notice that I may, under section 56A of the Act, elect to appear or not to appear at the court of petty sessions on the hearing of the complaint hereby NOTIFY you that I elect —
+having been served with a summons at least 28 days before the date appointed in the summons for the hearing of a complaint of an offence under the Transport Co-ordination Act 1966, together with a notice that I may, under section 56A of the Act, elect to appear or not to appear at the Magistrates Court on the hearing of the complaint hereby NOTIFY you that I elect —
  |  |  | — TO APPEAR AT THE HEARING. — NOT TO APPEAR AT THE HEARING. ........................................................... (Signature of Defendant).
  | PLEASE INDICATE THE SELECTION YOU ARE MAKING BY DELETING WHICHEVER DOES NOT APPLY.
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
 PART 1Form 22
-S.56B
+S. 56B
 NOTICE RELATING TO ALLEGED PRIOR CONVICTIONS
 TO .......................................................................................................................................
 (Defendant)
@@ -497,7 +497,7 @@ the document set out below shall be admissible evidence under section 56B of the
 PART 2
 PARTICULARS OF ALLEGED PRIOR CONVICTIONS
 It is alleged that the defendant in this case has previously been convicted of certain offences particulars of which are as follows —
-Date of offence | Section | Charge Number | Date of Hearing | Fine
+Date of Offence | Section | Charge Number | Date of Hearing | Fine
 ......................................................
 Complainant.
 Western Australia
@@ -506,15 +506,14 @@ TRANSPORT CO-ORDINATION REGULATIONS 1985
 Form 23
 SEARCH WARRANT
 TO: ......................................................................................................................................
-AB1 ....................................... a person who is authorised in writing by the Minister
-for Transport to exercise the power conferred by paragraph (c) of subsection (1) of section 49 of the Transport Co-ordination Act 1966
+AB1 ....................................... a person who is authorised in writing by the Minister for Transport to exercise the power conferred by section 49(1)(c) of the Transport Co-ordination Act 1966
 or
 CD .......................................................... a member of the Police Force of Western Australia.
 WHEREAS I, the undermentioned justice, being satisfied on oath by you that —
 (a)there is reasonable cause to suspect that a vehicle, goods or documents concerned in an offence or suspected offence or attempt to commit an offence under the Transport Co-ordination Act 1966 may be found on the premises situate at EF3 ......................................................................................................
 ............................................................................................................................
 and
-(b)the issue of this warrant is reasonably required for the purpose referred to in subsection (1) of section 49 of the Transport Co-ordination Act 1966
+(b)the issue of this warrant is reasonably required for the purpose referred to in section 49(1) of the Transport Co-ordination Act 1966
 hereby authorise you, together with GH4 .........................../or IJ5 to enter the premises, if necessary by force.
 GIVEN under my hand, at ..................................... in the State of Western Australia, this ............................... day of ........................................ 20 .........
 J.S.,
@@ -528,7 +527,7 @@ If Police Officer no need to mention name of police officer.
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 Form 24
-(S.47AA)
+(S. 47AA)
 APPLICATION FOR A FERRY LICENCE
 To the Director General:
 I/WE (full name) ................................................................................................................. hereby apply, under the provisions of the Transport Co-ordination Act 1966 for a Ferry Licence to operate the vessel described below in accordance with the following particulars.
@@ -556,7 +555,7 @@ Business Address or Registered Office ..........................................
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 Form 25
-(S.47AA)
+(S. 47AA)
 FERRY LICENCE
 Licence No. ....................................
 This licence shall authorise .................................................................................................
@@ -578,16 +577,15 @@ Telephone application
 No. issued (if any)
 No. .
 Form 26
-(S.47AB(2))
+(S. 47AB(2))
 APPLICATION FOR FERRY PERMIT
 To the Director General:
 I ..................................................................................................................... hereby apply
 (name of owner)
 under the provisions of the Transport Co-ordination Act 1966 for a permit (subject to the conditions specified below) to operate the ....................................................................
 (name of ferry)
-No. ............................................
+No. ...................................... in accordance with the particulars described in items 1 or 2.
 (licence No. of ferry)
-in accordance with the particulars described in items 1 or 2.
 1.Description of deviation from the routes specified in the licence.
 OR
 2.Description of —
@@ -599,4 +597,3 @@ Signature of owner
 Occupation of owner
 Address of owner.
 [Form 26 inserted in Gazette 29 Apr 1988 p. 1308; amended in Gazette 28 Feb 2003 p. 684.]
-[Schedule 2 amended in Gazette 29 Apr 1988 p. 1306-8; 28 Feb 2003 p. 683-4; 30 Dec 2004 p. 6960.]
