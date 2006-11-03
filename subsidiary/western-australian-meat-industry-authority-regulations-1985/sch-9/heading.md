@@ -16,25 +16,25 @@
 ## Part 2 — Midland Saleyard : sale fees
 [Heading inserted in Gazette 23 Aug 2005 p. 3907.]
 Animal | Fee per head
-Calves | $2.50
-Cattle | $3.80
-Goats | $0.43
-Horses | $3.80
-Lambs | $0.43
+Calves | $2.60
+Cattle | $4.00
+Goats | $0.45
+Horses | $4.00
+Lambs | $0.45
 Pigs | $1.35
-Sheep | $0.43
-[Part 2 inserted in Gazette 23 Aug 2005 p. 3907-8.]
+Sheep | $0.45
+[Part 2 inserted in Gazette 23 Aug 2005 p. 3907-8; amended in Gazette 3 Nov 2006 p. 4658.]
 ## Part 3 — Midland Saleyard : transhipment fees
 [Heading inserted in Gazette13 Dec 2002 p. 5794.]
 Animal | Amount per head
-Calves | $0.80
-Cattle | $0.80
+Calves | $0.85
+Cattle | $0.85
 Goats | $0.10
-Horses | $0.80
+Horses | $0.85
 Lambs | $0.10
 Pigs | $0.55
 Sheep | $0.10
-[Part 3 inserted in Gazette13 Dec 2002 p. 5794-5.]
+[Part 3 inserted in Gazette13 Dec 2002 p. 5794-5; amended in Gazette 3 Nov 2006 p. 4658.]
 ## Part 4 — Interpretation
 [Heading inserted in Gazette 2 Feb 1996 p. 393.]
 In this Schedule —
