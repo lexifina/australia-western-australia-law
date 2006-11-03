@@ -52,7 +52,8 @@ Have any of the above persons been convicted in WA or elsewhere — ·on indictm
 Corporation name: ACN:
 Corporation name: ACN:
 Declaration
-9 | Declaration [making a false declaration is an offence with a penalty of $1 000] | I declare that the persons named above are carrying on a business under the above business name and that all the details on this form are true and correct. Telephone:Email:
+9 | Declaration [making a false declaration is an offence with a penalty of $1 000] | I declare that the persons named above are carrying on a business under the above business name and that all the details on this form are true and correct.
+Telephone: | Email:
 Surname & given names: Signature: | Date:
 Corporation name: ACN: Officer’s full name: Officer’s signature: Officer’s position: | Date:
 10 | Capacity of person making declaration [tick one box] | An individual carrying on the business. An officer who is a director or secretary of a corporation carrying on the business.
@@ -131,11 +132,11 @@ Form 7 — Withdrawal of infringement notice
 Business Names Act 1962 Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name:Family name
 Given names
-orCompany name _____________________________________ ACN
-Address _________________________________________________ Postcode
+orCompany name ___________________________________ ACN
+Address _______________________________________________ Postcode
 Infringement notice | Infringement notice no.
 Date of issue//20
-Alleged offence | Description of offence ____________________________________
+Alleged offence | Description of offence ___________________________________
 Business Names Act 1962 s.
 Date //20Timea.m./p.m.
 Officer withdrawing notice | Name
@@ -144,4 +145,3 @@ Office
 Date | Date of withdrawal //20
 Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to: Approved Officer — Business Names Act 1962 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 Signature//20
 [Form 7 inserted in Gazette 22 Sep 2006 p. 4077.]
-[Second Schedule amended in Gazette 15 Sep 1989 p. 3392-7; 14 Sep 1990 p. 4756; 8 Dec 2000 p. 6917-18; 6 Jun 2003 p. 2027-8; 20 Jul 2004 p. 2904-9; 22 Sep 2006 p. 4076-7.]
