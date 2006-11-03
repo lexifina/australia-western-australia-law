@@ -48,8 +48,8 @@
 [Division 6 inserted in Gazette 29 Sep 2006 p. 4329.]
 ## Division 7 — Cave entrance fees
  |  | $
-1. | Crystal Cave, Yanchep National Park — each person 16 years of age or over each person of more than 5 and less than 16 years of age a family (2 adults and 2 children of more than 5 and less than 16 years of age) each person who holds a concession card | 6.50 3.50 15.50 5.00
-2. | Calgardup and Giants Caves, Leeuwin-Naturaliste National Park — each person 16 years of age or over each person of more than 5 and less than 16 years of age a family (2 adults and 2 children of more than 5 and less than 16 years of age) each person who holds a concession car | 12.00 6.00 35.00 10.00
+1. | Crystal Cave, Yanchep National Park — each person 16 years of age or over each person of more than 5 and less than 16 years of age a family (2 adults and 2 children of more than 5 and lessthan 16 years of age) each person who holds a concession card | 6.50 3.50 15.50 5.00
+2. | Calgardup and Giants Caves, Leeuwin-Naturaliste National Park — each person 16 years of age or over each person of more than 5 and less than 16 years of age a family (2 adults and 2 children of more than 5 and less than 16 years of age) each person who holds a concession card | 12.00 6.00 35.00 10.00
 [Division 7 amended in Gazette 29 Sep 2006 p. 4329-30.]
 ## Division 8 — Licence and permit fees
  |  | $

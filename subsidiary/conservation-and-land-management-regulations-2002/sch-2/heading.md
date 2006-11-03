@@ -19,8 +19,8 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 3. | 10 | Feeding fauna | 50
 4. | 12(1) | Failing to stow firearm or ammunition | 100
 5. | 12(2) | Possession in restricted or classified area of unstowed spear, speargun or gidgie | 100
-6a. | 12(3a) | Unauthorised use of firearm, spear gun etc. | 200
 6. | 12(3) | Possession of restricted device | 100
+6a. | 12(3a) | Unauthorised use of firearm, spear gun etc. | 200
 7. | 15 | Bringing animal on to, or allowing animal to enter or remain, on CALM land | 50
 8. | 16(2) | Failing to control or manage dog in designated area | 50
 9. | 17(2) | Failing to control or manage horse in designated area | 50
