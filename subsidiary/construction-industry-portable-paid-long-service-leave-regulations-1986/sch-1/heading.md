@@ -1,7 +1,7 @@
 ## Schedule 1
 [Regulations 2 and 3]
 Prescribed awards | Classifications of work
-1.Awards under the Workplace Relations Act 1996 of the Commonwealth Parliament.
+1.Awards as at 26 March 2006 under the Workplace Relations Act 1996 of the Commonwealth Parliament.
 (1)Australian Workers’ Union Asphalt and Bitumen Industry (WA) Award 1988.
 (1a)Australian Workers’ Union Construction and Maintenance (Consolidated) Award 1987.
 (1b)Australian Workers’ Union Construction and Maintenance Award 1989.
@@ -49,4 +49,4 @@ Prescribed awards | Classifications of work
 (23)Sheet Metal Workers (Government) Award 1973. | Limited to temporary employees in receipt of an allowance for construction work under the award.
 (24)State Energy Commission Construction Award. | Limited to temporary employees.
 (25)Thermal Insulation Contracting Industry Award.
-[Schedule 1 amended in Gazette 29 May 1987 p. 2233; 30 Sep 1988 p. 4006; 30 Jun 1989 p. 1899; 1 Dec 1989 p. 4430; 29 Dec 1989 p. 4669; 2 Nov 1990 p. 5453; 24 Dec 1991 p. 6469; 28 Jul 1992 p. 3729; 5 Nov 2002 p. 5417-18; 20 Feb 2004 p. 603.]
+[Schedule 1 amended in Gazette 29 May 1987 p. 2233; 30 Sep 1988 p. 4006; 30 Jun 1989 p. 1899; 1 Dec 1989 p. 4430; 29 Dec 1989 p. 4669; 2 Nov 1990 p. 5453; 24 Dec 1991 p. 6469; 28 Jul 1992 p. 3729; 5 Nov 2002 p. 5417-18; 20 Feb 2004 p. 603; 7 Nov 2006 p. 4678.]
