@@ -90,6 +90,7 @@ Pike, Striped Sea ................................... | Sphyraena obtusata
 Pilchard (Mulie) ..................................... | Sardinops neopilchardus
 Queenfish .............................................. | Scomberoides commersonnianus
 Rays ....................................................... | Superorder Batoidea
+Ray, Eagle .............................................. | Family Myliobatididae
 Ray, Manta ............................................ | Manta birostris
 Redbait ................................................... | Emmelichthys nitidus
 Salmon, Australian ................................. | Arripis truttaceus
@@ -101,6 +102,7 @@ Sea Perch, Crimson ................................ | Lutjanus erythropterus
 Sea Perch, Scarlett .................................. | Lutjanus malabaricus
 Sea Perch, Stripey .................................. | Lutjanus carponotatus
 Sea Perch, Tropical ................................ | Family Lutjanidae
+Shark, Dusky .......................................... | Carcharhinus obscurus
 Shark, Great White ................................. | Carcharodon carcharias
 Shark, Speartooth ................................... | Glyphis spp.
 Shark, Whale .......................................... | Rhiniodon typus
@@ -231,4 +233,4 @@ Common Name | Scientific Name
 Sea Urchin .............................................. | Class Echinoidea
 Coral ....................................................... | Order Scleractinia
 Sea Cucumber (Beche-de-mer, Trepang) | Class Holothurioidae
-[Schedule 7 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 15 Jan 1999 p. 113; 23 Apr 1999 p. 1716; 4 Jun 1999 p. 2271; 21 Dec 1999 p. 6410; 13 Dec 2002 p. 5798; 1 Oct 2003 p. 4341-3; 30 Sep 2004 p. 4187; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9.]
+[Schedule 7 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 15 Jan 1999 p. 113; 23 Apr 1999 p. 1716; 4 Jun 1999 p. 2271; 21 Dec 1999 p. 6410; 13 Dec 2002 p. 5798; 1 Oct 2003 p. 4341-3; 30 Sep 2004 p. 4187; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9; 10 Nov 2006 p. 4710.]

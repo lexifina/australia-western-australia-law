@@ -15,8 +15,9 @@ Groper, Blue
 Groper, Queensland
 Leafy Seadragon
 Marron
+Rays
 Rock Lobster
-Whale Shark
+Sharks
 Category 2 fish
 Bream, Black
 Bream, Fingermark
@@ -40,7 +41,6 @@ Prawn, Western King and Western School
 Queenfish
 Salmon, Australian
 Samson Fish
-Sharks, except Whale Shark
 Snapper, Northwest
 Snapper, Pink
 Snapper, Queen (Blue Morwong)
@@ -68,4 +68,4 @@ Threadfin
 Trevally, Silver
 Category 4 fish
 Any species of fish not specified in this Schedule to be category 1 fish, category 2 fish or category 3 fish.
-[Schedule 4 amended in Gazette 1 Oct 2003 p. 4341 and 4344.]
+[Schedule 4 amended in Gazette 1 Oct 2003 p. 4341 and 4344; 10 Nov 2006 p. 4709.]
