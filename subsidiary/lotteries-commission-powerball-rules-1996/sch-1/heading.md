@@ -2,37 +2,8 @@
 [Rule 5]
 Total cost of entry
 Powerball lotto
-The cost of entering a powerball lotto draw that takes place on or before 27 January 2005 is made up of a subscription of 50 cents per game and a fee payable to the agent (as set out in Schedule 2), making a total cost per number and type of game per week as follows:
-System | No. of Games | 1 Week | 2 Weeks | 5 Weeks | 10 Weeks
- |  | $ | $ | $ | $
- | 2 | 1.10 | 2.20 | 5.50 | 11.00
- | 3 | 1.65 | 3.30 | 8.25 | 16.50
- | 4 | 2.20 | 4.40 | 11.00 | 22.00
- | 5 | 2.70 | 5.40 | 13.50 | 27.00
- | 6 | 3.25 | 6.50 | 16.25 | 32.50
- | 12 | 6.50 | 13.00 | 32.50 | 65.00
- | 14 | 7.50 | 15.00 | 37.50 | 75.00
- | 18 | 9.70 | 19.40 | 48.50 | 97.00
- | 25 | 13.40 | 26.80 | 67.00 | 134.00
-6......... | 6 | 3.25 | 6.50 | 16.25 | 32.50
-7......... | 21 | 11.20 | 22.40 | 56.00 | 112.00
-8......... | 56 | 30.00 | 60.00 | 150.00 | 300.00
-9......... | 126 | 67.70 | 135.40 | 338.50 | 677.00
-10......... | 252 | 135.00 | 270.00 | 675.00 | 1 350.00
-11......... | 462 | 248.00 | 496.00 | 1 240.00 | 2 480.00
-12......... | 792 | 425.00 | 850.00 | 2 125.00 | 4 250.00
-13......... | 1 287 | 692.00 | 1 384.00 | 3 460.00 | 6 920.00
-14......... | 2 002 | 1 076.00 | 2 152.00 | 5 380.00 | 10 760.00
-15......... | 3 003 | 1 614.00 | 3 228.00 | 8 070.00 | 16 140.00
-16......... | 4 368 | 2 347.00 | 4 694.00 | 11 735.00 | 23 470.00
-17......... | 6 188 | 3 326.00 | 6 652.00 | 16 630.00 | 33 260.00
-18......... | 8 568 | 4 605.00 | 9 210.00 | 23 025.00 | 46 050.00
-19......... | 11 628 | 6 250.00 | 12 500.00 | 31 250.00 | 62 500.00
-20......... | 15 504 | 8 333.00 | 16 666.00 | 41 665.00 | 83 330.00
-3.......... | 861 | 462.00 | 924.00 | 2 310.00 | 4 620.00
-4.......... | 41 | 22.00 | 44.00 | 110.00 | 220.00
 Total cost of entry — Powerball draw
-The cost of entering a powerball draw that takes place on or after 28 January 2004 is made up of a subscription of 55 cents per game and an agent’s component (as set out in Schedule 2) making the total cost per number and type of game per week as follows:
+The cost of entering a powerball draw is made up of a subscription of 55 cents per game and an agent’s component (as set out in Schedule 2) making the total cost per number and type of game per week as follows:
 Entry or | No. of | 1 Week | 2 Weeks | 5 Weeks | 10 Weeks
 System | games | $ | $ | $ | $
  | 2 | 1.20 | 2.40 | 6.00 | 12.00
@@ -75,4 +46,4 @@ Powerpik 12 | 35 640 | 21 375.00 | 42 750.00 | N/A | N/A
 Powerpik 13 | 57 915 | 34 650.00 | 69 300.00 | N/A | N/A
 Powerpik 14 | 90 090 | 54 000.00 | N/A | N/A | N/A
 Powerpik 15 | 135 135 | 81 000.00 | N/A | N/A | N/A
-[Schedule 1 amended in Gazette 29 Apr 1997 p. 2149; 9 Mar 2001 p. 1334; 16 Nov 2004 p. 5060-1.]
+[Schedule 1 amended in Gazette 29 Apr 1997 p. 2149; 9 Mar 2001 p. 1334; 16 Nov 2004 p. 5060-1; 13 Oct 2006 p. 4413.]

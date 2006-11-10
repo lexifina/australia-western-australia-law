@@ -2,37 +2,8 @@
 [Schedule 1]
 Agent’s fees
 Powerball lotto
-The component of the total cost of entering a powerball lotto draw (that takes place on or before 27 January 2005) that is allocated as a fee for the agent per number and type of game per week is as follows:
-System | No. of Games | 1 Week | 2 Weeks | 5 Weeks | 10 Weeks
- |  | $ | $ | $ | $
- | 2 | 0.10 | 0.20 | 0.50 | 1.00
- | 3 | 0.15 | 0.30 | 0.75 | 1.50
- | 4 | 0.20 | 0.40 | 1.00 | 2.00
- | 5 | 0.20 | 0.40 | 1.00 | 2.00
- | 6 | 0.25 | 0.50 | 1.25 | 2.50
- | 12 | 0.50 | 1.00 | 2.50 | 5.00
- | 14 | 0.50 | 1.00 | 2.50 | 5.00
- | 18 | 0.70 | 1.40 | 3.50 | 7.00
- | 25 | 0.90 | 1.80 | 4.50 | 9.00
-6......... | 6 | 0.25 | 0.50 | 1.25 | 2.50
-7......... | 21 | 0.70 | 1.40 | 3.50 | 7.00
-8......... | 56 | 2.00 | 4.00 | 10.00 | 20.00
-9......... | 126 | 4.70 | 9.40 | 23.50 | 47.00
-10......... | 252 | 9.00 | 18.00 | 45.00 | 90.00
-11......... | 462 | 17.00 | 34.00 | 85.00 | 170.00
-12......... | 792 | 29.00 | 58.00 | 145.00 | 290.00
-13......... | 1 287 | 48.50 | 97.00 | 242.50 | 485.00
-14......... | 2 002 | 75.00 | 150.00 | 375.00 | 750.00
-15......... | 3 003 | 112.50 | 225.00 | 562.50 | 1 125.00
-16......... | 4 368 | 163.00 | 326.00 | 815.00 | 1 630.00
-17......... | 6 188 | 232.00 | 464.00 | 1 160.00 | 2 320.00
-18......... | 8 568 | 321.00 | 642.00 | 1 605.00 | 3 210.00
-19......... | 11 628 | 436.00 | 872.00 | 2 180.00 | 4 360.00
-20......... | 15 504 | 581.00 | 1 162.00 | 2 905.00 | 5 810.00
-3.......... | 861 | 31.50 | 63.00 | 157.50 | 315.00
-4.......... | 41 | 1.50 | 3.00 | 7.50 | 15.00
 Agent’s fees — Powerball draw
-The component of the total cost of entering a powerball draw (that takes place on or after 28 January 2005) that is allocated as a fee for the agent through whom the entry was sold per number and type of game per week is as follows —
+The component of the total cost of entering a powerball draw that is allocated as a fee for the agent through whom the entry was sold per number and type of game per week is as follows —
 Entry or System | No. of games | 1 Week | 2 Weeks | 5 Weeks | 10 Weeks
  |  | $ | $ | $ | $
  | 2 | 0.10 | 0.20 | 0.50 | 1.00
@@ -75,7 +46,7 @@ Powerpik 12 | 35 640 | 1 773.00 | 3 546.00 | N/A | N/A
 Powerpik 13 | 57 915 | 2 796.75 | 5 593.50 | N/A | N/A
 Powerpik 14 | 90 090 | 4 450.50 | N/A | N/A | N/A
 Powerpik 15 | 135 135 | 6 675.75 | N/A | N/A | N/A
-[Schedule 2 amended in Gazette 29 Apr 1997 p. 2150; 9 Mar 2001 p. 1335; 16 Nov 2004 p. 5061-2.]
+[Schedule 2 amended in Gazette 29 Apr 1997 p. 2150; 9 Mar 2001 p. 1335; 16 Nov 2004 p. 5061-2; 13 Oct 2006 p. 4413.]
 Schedule 3 [Rule 21(2)] Systems entry prize schedule Powerball | NUMBER OF PRIZES SYSTEMS | 20 | 1 – 75 1050 – 4550 - | - 1 - - 75 - 1050 | - - 16 480 - 3360 -
 19 | 1 – 70 910 – 3640 - | - 1 - - 70 - 910 | - - 15 420 - 2730 -
 18 | 1 - 65 780 - 2860 - | - 1 - - 65 - 780 | - - 14 364 - 2184 -
