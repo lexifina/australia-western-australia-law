@@ -21,7 +21,7 @@
 4. | Regulation 104(2): stopping an over-length vehicle in a no-stopping area ................................................................. | $80.00
 5. | Regulation 105(3)(a): parking a vehicle (other than an over-length vehicle) in a parking area otherwise than in accordance with a notice, sign, etc. ..................................... | $40.00
 6. | Regulation 105(3)(a): parking an over-length vehicle in a parking area otherwise than in accordance with a notice, sign, etc. .............................................................................. | $80.00
-7. | Regulation 105(3)(b): parking a vehicle (other than an over-length vehicle) in a no-parking area ........................ | $40.00
+7. | Regulation 105(3)(b): parking a vehicle (other than an over-length vehicle) in a no-parking area ........................... | $40.00
 8. | Regulation 105(3)(b): parking an over-length vehicle in a no-parking area .................................................................. | $80.00
 8A. | Regulation 115(2): giving false name or address to, or failing to comply with direction of, an authorised officer .. | $200.00
  | Dampier Port Authority

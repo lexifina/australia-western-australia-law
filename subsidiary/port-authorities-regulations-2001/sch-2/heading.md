@@ -11,11 +11,11 @@
 8. | Pilotage of a vessel from a place in the port to another place in the port ............................................................. | $500.00
 [Division 1 amended in Gazette 31 Jan 2003 p. 296-7.]
 ## Division 2 — Port of Bunbury
-1. | Pilotage of a vessel into and out of the port ………. | $3 069.00
-2. | Pilotage of a vessel from a place in the port to another place in the port …………………………... | $1 534.50
-3. | Detention of pilot, for each hour or part of an hour | $767.25
-4. | Cancellation of pilot ………………………………. | $767.25
-5. | Cancellation of pilot boat crew only ……………… | $767.25
+1. | Pilotage of a vessel into and out of the port ................... | $3 069.00
+2. | Pilotage of a vessel from a place in the port to another place in the port .............................................................. | $1 534.50
+3. | Detention of pilot, for each hour or part of an hour ....... | $767.25
+4. | Cancellation of pilot ....................................................... | $767.25
+5. | Cancellation of pilot boat crew only .............................. | $767.25
 [Division 2 inserted in Gazette 29 Aug 2006 p. 3580.]
 ## Division 3 — Port of Esperance
 1. | Pilotage of a vessel of not more than 5 000 gross registered tonnes into and out of the port ...................... | $2 310.00
@@ -27,9 +27,9 @@
 7. | Pilotage of a vessel of more than 50 000 but not more than 60 000 gross registered tonnes into and out of the port ................................................................................. | $4 730.00
 8. | Pilotage of a vessel of more than 60 000 but not more than 70 000 gross registered tonnes into and out of the port ................................................................................. | $5 170.00
 9. | Pilotage of a vessel of more than 70 000 gross registered tonnes into and out of the port ...................... | $5 500.00
-10. | Pilotage of a vessel from a place in the port to another place in the port ............................................................. | $ 550.00
-11. | Detention of pilot ........................................................... | $ 550.00 for each hour or part of an hour
-12. | Cancellation of pilot ...................................................... | $ 550.00
+10. | Pilotage of a vessel from a place in the port to another place in the port ............................................................. | $550.00
+11. | Detention of pilot ........................................................... | $550.00 for each hour or part of an hour
+12. | Cancellation of pilot ...................................................... | $550.00
 ## Division 4 — Port of Fremantle
 1. | Pilotage of a vessel of not more than 1 000 gross registered tonnes between Gage Roads and the Inner Harbour .......................................................................... | $603.49
 2. | Pilotage of a vessel of more than 1 000 gross registered tonnes — (a)between the sea pilot boarding ground and Gage Roads .................................................................. | $1 975.05
