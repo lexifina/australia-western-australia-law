@@ -1,8 +1,8 @@
 Notes
-1.This is a compilation of the Credit (Administration) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 10 November 2006 of the Credit (Administration) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
-Credit (Administration) Regulations 1985 | 22 Feb 1985 p. 699-700 | 1 Mar 1985 (see r. 2)
+Credit (Administration) Regulations 1985 | 22 Feb 1985 p. 699-700 (erratum 3 May 1985 p. 1586) | 1 Mar 1985 (see r. 2)
 Credit (Administration) Amendment Regulations 1985 | 31 May 1985 p. 1903 | 31 May 1985
 Credit (Administration) Amendment Regulations (No. 2) 1985 | 21 Jun 1985 p. 2260 | 21 Jun 1985
 Credit (Administration) Amendment Regulations 1986 | 13 Jun 1986 p. 1996 | 1 Jul 1986 (see r. 2)
@@ -14,7 +14,9 @@ Credit (Administration) Amendment Regulations 1990 | 1 Aug 1990 p. 3651 | 1 Aug 
 Credit (Administration) Amendment Regulations 1991 | 13 Dec 1991 p. 6158 | 13 Dec 1991
 Credit (Administration) Amendment Regulations 1992 | 14 Aug 1992 p. 4022-3 | 14 Aug 1992
 Credit (Administration) Amendment Regulations 1993 | 30 Nov 1993 p. 6408-9 | 30 Nov 1993
+Reprint of the Credit (Administration) Regulations 1985 as at 16 Jul 1999 (includes amendments listed above)
 Credit (Administration) Amendment Regulations 2005 | 28 Jun 2005 p. 2902 | 1 Jul 2005 (see r. 2)
 Credit (Administration) Amendment Regulations (No. 3) 2006 | 13 Jun 2006 p. 2056 | 13 Jun 2006
 Credit (Administration) Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2253 | 1 Jul 2006 (see r. 2)
 Credit (Administration) Amendment Regulations 2006 | 22 Sep 2006 p. 4094-7 | 22 Sep 2006 (see r. 2(a))
+Reprint 2: The Credit (Administration) Regulations 1985 as at 10 Nov 2006 (includes amendments listed above)
