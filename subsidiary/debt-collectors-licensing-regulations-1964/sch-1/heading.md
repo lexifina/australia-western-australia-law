@@ -5,7 +5,7 @@ APPLICATION FOR DEBT COLLECTOR’S LICENCE OR RENEWAL THEREOF
 I .............................................. of (place of abode) ................................................ in the State of ................................................, hereby make application for *a grant or renewal of a Debt Collector’s Licence.
 My principal or sole place of business where I propose to carry on business as a debt collector is situated at ....................................................................................
 The other places at which I intend to carry on business as a debt collector are situated at ...............................................................................................................
-*My current licence number .................................... will expire on the ........................... day of ............................. 20 ..........
+*My current licence number ..................................................... will expire on the ........................... day of ............................. 20 ..........
 I am not under the age of 21 years.
 Testimonials as to my character are annexed hereto marked respectively “A” “B” and “C” and signed respectively by
  | Name | Address | Occupation
@@ -24,7 +24,6 @@ Given under my hand at ...................................... this .............
 Commissioner for Fair Trading
 * Insert place of abode.
 [Form 2 amended in Gazette 30 Dec 2004 p. 6917.]
-_______________
 [Form 3 deleted in Gazette 30 Dec 2004 p. 6917.]
 Form 4
 Debt Collectors Licensing Act 1964
@@ -34,7 +33,6 @@ Name of Licensee | Place of Abode | Sole or Principal Place of Business | Licenc
 ......................................................................
 Commissioner for Fair Trading
 [Form 4 amended in Gazette 30 Dec 2004 p. 6917.]
-_______________
 Form 5
 Debt Collectors Licensing Act 1964
 APPLICATION FOR DUPLICATE LICENCE
@@ -48,12 +46,11 @@ Dated this ................................... day of ..........................
 ...................................................
 Applicant
 *Strike out whichever is inapplicable.
-[Form 5 amended in Gazette 30 Dec 2004 p. 6917; 22 Sep 2006 p. 4102.]
-_______________
+[Form 5 amended in Gazette 28 Oct 1983 p. 4370; 30 Dec 2004 p. 6917; 22 Sep 2006 p. 4102.]
 Form 6
 Debt Collectors Licensing Act 1964
 APPLICATION FOR TRANSFER OF A DEBT COLLECTOR’S LICENCE
-I ................................................................... of ...................................................... being the holder of a Debt Collector’s Licence Number ............................ issued on the ....................................... day of ............................................ 20 ......... and whose principal or sole place of business is situated at ................................................................................. hereby make application for the transfer of the licence to ................................................. ........................................ of ...................................................................................
+I ................................................................... of ...................................................... being the holder of a Debt Collector’s Licence Number ............................ issued on the ....................................... day of ............................................ 20 ......... and whose principal or sole place of business is situated at ......................................... ........................................ hereby make application for the transfer of the licence to ......................................................................................... of .............................. .....................................................
 The licence is attached hereto for endorsement.
 And I the said .................................................................................., hereby make application that the licence be transferred to me.
 My principal or sole place of business where I propose to carry on the business of a debt collector is situated at .............................................................................
@@ -66,7 +63,7 @@ A B C
 Dated this ........................................... day of ........................................., 20 ........
 ......................................................................................................
 Signature of TransferorSignature of Transferee
-[Form 6 amended in Gazette 30 Dec 2004 p. 6917; 22 Sep 2006 p. 4102.]
+[Form 6 amended in Gazette 28 Oct 1983 p. 4370; 30 Dec 2004 p. 6917; 22 Sep 2006 p. 4102.]
 Form 7
 Debt Collectors Licensing Act 1964 Infringement notice | Infringement notice no.
 Alleged offender | Name:Family name
@@ -82,7 +79,8 @@ Signature
 Office
 Date | Date of notice //20
 Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque or money order (payable to ‘Approved Officer — Debt Collectors Licensing Act 1964’) to: Approved Officer — Debt Collectors Licensing Act 1964 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850
- | In person: Pay the cashier at: Department of Consumer and Employment Protection 219 St George’s Terrace, Perth WA If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act your driver’s licence and/or vehicle licence may be suspended. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Approved Officer at the above postal address. If you want this matter to be dealt with by prosecution in court, sign here _______________________________________ and post this notice to the Approved Officer at the above postal address within 28 days after the date of this notice.
+ | In person: Pay the cashier at: Department of Consumer and Employment Protection 219 St George’s Terrace, Perth WA If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act your driver’s licence and/or vehicle licence may be suspended. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Approved Officer at the above postal address.
+ | If you want this matter to be dealt with by prosecution in court, sign here ______________________________________________ and post this notice to the Approved Officer at the above postal address within 28 days after the date of this notice.
 [Form 7 inserted in Gazette 22 Sep 2006 p. 4103.]
 Form 8
 Debt Collectors Licensing Act 1964 Withdrawal of infringement notice | Withdrawal no.
@@ -102,4 +100,3 @@ Date | Date of withdrawal //20
 Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or
  | *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to: Approved Officer — Debt Collectors Licensing Act 1964 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 Signature//20
 [Form 8 inserted in Gazette 22 Sep 2006 p. 4103-4.]
-[First Schedule amended in Gazette 28 October 1983 p. 4370; 30 Dec 2004 p. 6917; 22 Sep 2006 p. 4102-4.]
