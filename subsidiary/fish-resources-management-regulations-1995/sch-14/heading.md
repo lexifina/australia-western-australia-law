@@ -34,15 +34,31 @@ Details of the offence and modified penalty:
 Section of ActDescription of OffenceModified Penalty $
 What you must do:
 ______________________________________________________________________________
-1.You may dispose of this matter within 28 days after the service of this notice by paying the modified penalty —
-(i)BY POSTING a cheque or money order made payable to the FISHERIES DEPARTMENT to the Accountant, Ministry of Justice, G.P.O. Box L915, Perth WA 6001; or
-(ii)IN PERSON AT THE MINISTRY OF JUSTICE, 3rd floor, Westralia Square, 141 St George’s Terrace, Perth WA; or at any Clerk of Courts.
+1.You may dispose of this matter within 28 days of the service of this notice by paying the modified penalty in person at any Post Office or Post Office Agency.
 OR
-2. Elect to have this matter dealt with before A COURT.
-Should you not pursue one of the above options within the time specified above, additional administrative charges may be incurred and action may be taken to suspend your Motor Driver’s Licence until you have paid in full the modified penalty and any additional charges OR you have elected to have this matter dealt with before a Court.
-______________________________________________________________________________
+2.Elect to have this matter dealt with before a COURT by completing the Court Election on the reverse side.
+_____________________________________________________________________________
 Information about this notice:
 Issued at: by: Signature:
+Election for Court
+To have this matter dealt with by a Court, complete the details on back of this form and send it to —
+Prosecutions Officer
+Department of Fisheries
+3rd Floor, The Atrium
+168 St George’s Terrace
+Locked Bag 39, Cloisters Square
+PERTH WA 6000
+A summons will then be issued to you.
+[Back of Form 3]
+I elect to have this matter heard by a Court.
+(Please use block letters)
+Surname________________________________________________
+Given Names________________________________________________
+Address ________________________________________________
+______________________________Postcode __________
+Signature ________________________________________________
+Date _____/ _______/ _______
+[Form 3 amended in Gazette 10 Nov 2006 p. 4710-11.]
 Form 4
 [reg. 161]
 Fish Resources Management Act 1994
