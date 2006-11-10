@@ -1,12 +1,9 @@
 ## Schedule 2
 ## Forms — Arrangement
-Form No | Description of Form | Regulation
+Form No. | Description of Form | Regulation
 Form 1 | NOTICE OF SUSPECTED PRESENCE OR ISOLATION OF PATHOGEN | [Regulation 44(2)]
 Form 2 | APPLICATION FOR APPROVAL OF CERTAIN FOOD HANDLING ACTIVITIES IN RESIDENTIAL PREMISES | [Regulation 57(4)]
-Form 3 | APPLICATION FOR LICENCE, OR RENEWAL OF LICENCE, TO CONDUCT A BUSINESS PRODUCING MANUFACTURED SMALLGOODS | [Regulation 9A(2)]
-Form 4 | LICENCE TO CONDUCT A BUSINESS PRODUCING MANUFACTURED SMALLGOODS | [Regulation 9A(5)]
-Form 5 | APPLICATION FOR REGISTRATION OR RENEWAL OF REGISTRATION, OF PREMISES USED FOR PRODUCING MANUFACTURED SMALLGOODS | [Regulation 9B(3)]
-Form 6 | CERTIFICATE OF REGISTRATION OF PREMISES PRODUCING MANUFACTURED SMALLGOODS | [Regulation 9B(4)]
+[Arrangement amended in Gazette 4 Mar 1994 p. 848.]
 HEALTH ACT 1911
 HEALTH (FOOD HYGIENE) REGULATIONS 1993
 FORM 1
@@ -61,6 +58,7 @@ APPROVAL
 Environmental Health Officer,
 local government of .
 * Strike out whichever is not applicable
+[Form 2 inserted in Gazette 4 Mar 1994 p. 848-9; amended in Gazette 29 Jun 2001 p. 3128.]
 HEALTH ACT 1911
 HEALTH (FOOD HYGIENE) REGULATIONS 1993
 FORM 3
@@ -74,6 +72,7 @@ Dated 20 .
 Applicant(s)
 This application must be accompanied by the prescribed fee.
 Insert full name, trading name, and business address of applicant(s).
+[Form 3 inserted in Gazette 30 Jan 1996 p. 360; amended in Gazette 29 Jun 2001 p. 3128.]
 HEALTH ACT 1911
 HEALTH (FOOD HYGIENE) REGULATIONS 1993
 FORM 4
@@ -89,6 +88,7 @@ Clerk,
 local government
 of
 Insert full name, trading name, and business address of licensee.
+[Form 4 inserted in Gazette 30 Jan 1996 p. 361; amended in Gazette 29 Jun 2001 p. 3128.]
 HEALTH ACT 1911
 HEALTH (FOOD HYGIENE) REGULATIONS 1993
 FORM 5
@@ -104,6 +104,7 @@ SCHEDULE
 This application must be accompanied by the prescribed fee, and any specifications and drawings prescribed by the regulations.
 Insert full name, trading name, and business address of applicant(s).
 Insert situation and description of premises.
+[Form 5 inserted in Gazette 30 Jan 1996 p. 361; amended in Gazette 29 Jun 2001 p. 3128.]
 HEALTH ACT 1911
 HEALTH (FOOD HYGIENE) REGULATIONS 1993
 FORM 6
@@ -120,4 +121,4 @@ of
 SCHEDULE
 Insert situation and description of premises.
 Insert full name, trading name and business address of licensee.
-[Schedule 2 amended in Gazette 4 Mar 1994 p. 848-9; 30 Jan 1996 p. 360-2; 29 Jun 2001 p. 3128.]
+[Form 6 inserted in Gazette 30 Jan 1996 p. 362; amended in Gazette 29 Jun 2001 p. 3128.]
