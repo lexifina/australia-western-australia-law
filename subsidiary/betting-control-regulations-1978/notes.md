@@ -44,4 +44,27 @@ Betting Control Amendment Regulations (No. 2) 2005 | 14 Oct 2005 p. 4558-9 | 1 J
 Betting Control Amendment Regulations (No. 2) 2006 | 28 Apr 2006 p. 1659 | 28 Apr 2006
 Betting Control Amendment Regulations 2006 | 21 Jul 2006 p. 2669-89 | 21 Jul 2006
 Betting Control Amendment Regulations (No. 3) 2006 | 10 Oct 2006 p. 4391-2 | 10 Oct 2006
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Betting Control Amendment Regulations (No. 4) 2006 r. 4 and 5 | 14 Nov 2006 p. 4729-30 | 1 Jan 2007 (see r. 2)
 Expired on 30 Jan 2005 (see Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 48 & 120).
+On the date as at which this compilation was prepared, the Betting Control Amendment Regulations (No. 4) 2006 r. 4 and 5 had not come into operation. They read as follows:
+“
+4.Regulation 17 amended
+Regulation 17(1) is amended as follows:
+(a) in paragraph (ac) by deleting “$270;” and inserting instead —
+“ $275; ”;
+(b) in paragraph (a) by deleting “$535;” and inserting instead —
+“ $550; ”;
+(c) in paragraph (f) by deleting “$500.” and inserting instead —
+“ $510. ”.
+5.Regulation 17A amended
+Regulation 17A(1)(a) is amended as follows:
+(a) in subparagraph (i) by deleting “$295;” and inserting instead —
+“ $300; ”;
+(b) in subparagraph (ii) by deleting “$595;” and inserting instead —
+“ $605; ”;
+(c) in subparagraph (iii) by deleting “$895,” and inserting instead —
+“ $910, ”.
+”.
