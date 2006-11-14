@@ -10,3 +10,13 @@ Racing Penalties (Appeals) Amendment Regulations 2000 | 12 May 2000 p. 2287 | 1 
 Reprint 1: The Racing Penalties (Appeals) Regulation 1991 as at 3 Jan 2003 (includes amendments listed above)
 Racing and Gambling (Miscellaneous) Amendment Regulations 2004 Pt. 8 | 30 Jan 2004 p. 413-18 | 30 Jan 2004 (see r. 2)
 Racing Penalties (Appeals) Amendment Regulations 2005 | 14 Oct 2005 p. 4566-7 | 1 Jan 2006 (see r. 2)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Racing Penalties (Appeals) Amendment Regulations 2006 r. 4 | 14 Nov 2006 p. 4735-6 | 1 Jan 2007 (see r. 2)
+On the date as at which this compilation was prepared, the Racing Penalties (Appeals) Amendment Regulations 2006 r. 4 had not come into operation. They read as follows:
+“
+4.Regulation 4 amended
+Regulation 4(1)(b) is amended by deleting “$250.” and inserting instead —
+“ $285. ”.
+”.
