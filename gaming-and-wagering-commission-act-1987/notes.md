@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 August 2006 of the Gaming and Wagering Commission Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Gaming and Wagering Commission Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Gaming Commission Act 1987 | 50 of 1987 | 8 Oct 1987 | Pt. I, Pt. II, Pt. V Div. 2 and s. 111, 112, 115, 116 and 117: 4 Mar 1988 (see s. 2 and Gazette 4 Mar 1988 p. 665); balance: 2 May 1988 (see s. 2 and Gazette 29 Apr 1988 p. 1291)
@@ -27,6 +27,10 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 16 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 4: The Gaming and Wagering Commission Act 1987 as at 18 Aug 2006 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and Year | Assent | Commencement
+Criminal Investigation (Consequential Provisions) Act 2006 Pt. 9 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 Now known as the Gaming and Wagering Commission Act 1987; short title changed (see note under s. 1).
 The Acts Amendment (Continuing Lotteries) Act 2000 Pt. 4 (as amended by the Taxation Administration (Consequential Provisions) Act 2002 s. 6) reads as follows:
@@ -71,4 +75,39 @@ Division 2 — Transitional and savings provisions
 (3) If, in a written law or in a document of any kind there is a reference to the Gaming Commission, that reference is, unless because of the context it would be inappropriate to do so, to be read and construed as if it had been amended to be a reference to the Gaming and Wagering Commission.
 170.Members of the Commission
 Each person holding office as a member of the Gaming Commission under the Gaming Commission Act 1987 immediately before the coming into operation of this section continues in office as a member of the Gaming and Wagering Commission under and subject to the Gaming and Wagering Commission Act 1987 until the expiry of the term of office.
+”.
+On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 Pt. 9 had not come into operation. It reads as follows:
+“
+Part 9 — Gaming and Wagering Commission Act 1987 amended
+47.The Act amended in this Part
+The amendments in this Part are to the Gaming and Wagering Commission Act 1987.
+48.Section 31 amended
+Section 31 is amended by deleting “and take before a justice”.
+49.Section 31A inserted
+After section 31 the following section is inserted —
+“
+31A.Powers to assist seizing things
+Sections 146 to 150 of the Criminal Investigation Act 2006 apply to and in respect of seizing a thing that is or may be seized under this Act or the Betting Control Act 1954.
+”.
+50.Section 32 amended
+(1) Section 32(1) is repealed.
+(2) Section 32(2) is amended by deleting “and either destroyed or dealt with in such manner as the court, then or subsequently, may approve”.
+51.Section 32A inserted
+After section 32 the following section is inserted —
+“
+32A.Disposing of seized or forfeited things
+(1) In this section —
+“seized thing” means any thing that is seized under this Act or the Betting Control Act 1954.
+(2) The Criminal and Found Property Disposal Act 2006 applies to and in respect of any seized thing and any thing that is forfeited to the Crown under this Act or the Betting Control Act 1954.
+(3) For the purposes of the Criminal and Found Property Disposal Act 2006 —
+(a) the Commission is a prescribed agency;
+(b) the chief executive officer of the Department is the chief officer of the Commission.
+”.
+52.Section 41 amended
+Section 41(5) is amended as follows:
+(a) by deleting “Subject to sections 90B and 90C of the Police Act 1892, the” and inserting instead —
+“ The ”;
+(b) by deleting “is brought before the court or is the subject of an embargo notice under section 90B of the Police Act 1892” and inserting instead —
+“ has been seized ”;
+(c) by deleting “and either destroyed or dealt with in such other manner as the court may, then or subsequently, approve”.
 ”.
