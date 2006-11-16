@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 May 2006 of the Sale of Land Act 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Sale of Land Act 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Sale of Land Act 1970 | 119 of 1970 | 10 Dec 1970 | 1 Feb 1971 (see s. 2 and Gazette 22 Jan 1971 p. 149)
@@ -18,4 +18,26 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 3: The Sale of Land Act 1970 as at 19 May 2006 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Land Information Authority Act 2006 s. 157 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 Repealed by the Real Estate and Business Agents Act 1978.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 157 had not come into operation. It reads as follows:
+“
+157.Sale of Land Act 1970 amended
+(1) The amendments in this section are to the Sale of Land Act 1970.
+(2) Section 13(2) is amended by deleting “in the Department within the meaning of that Act.” and inserting instead —
+“
+with the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5.
+”.
+(3) Section 13(3) is amended as follows:
+(a) by deleting “at the Department within the meaning of the Transfer of Land Act 1893 shall be deemed to be and to always have been registrable notwithstanding any” and inserting instead —
+“
+as described in subsection (2) but was defective is to be taken to give as good an entitlement to be registered as proprietor as it would give if there were no
+”;
+(b) in paragraph (a), by deleting “withdrawn from the Department within the meaning of the Transfer of Land Act 1893;” and inserting instead —
+“
+having been withdrawn from the registration process;
+”.
+”.
