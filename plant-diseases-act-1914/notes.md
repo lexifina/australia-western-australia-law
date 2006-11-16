@@ -50,6 +50,10 @@ Reprint of the Plant Diseases Act 1914 as at 21 Dec 2001 (includes amendments li
 Sentencing Legislation Amendment and Repeal Act 2003 s. 83 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 104 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Land Information Authority Act 2006 s. 148 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Formerly referred to the Director of Agriculture, the name of whom was changed to the Director General of Agriculture by the Agriculture Act 1988 s. 16. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 In this compilation the renumbering of sections effected in the 1943 reprint (in volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
@@ -107,3 +111,14 @@ On 30 June 1994 —
 The failure of any Committee, appointed under section 12C of the principal Act and in existence at any time during the period commencing on 1 July 1986 and ending on the commencement of this Act, to comply with Division 14 of Part II of the Financial Administration and Audit Act 1985 during that period is condoned.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 148 had not come into operation. It reads as follows:
+“
+148.Plant Diseases Act 1914 amended
+(1) The amendments in this section are to the Plant Diseases Act 1914.
+(2) Section 38(1)(b) is amended as follows:
+(a) in subparagraph (ii), by deleting “or deputy”;
+(b) by deleting subparagraph (iii) and inserting the following subparagraph instead —
+“
+(iii) the chief executive officer of the department principally assisting in the administration of the Land Administration Act 1997 or of the department principally assisting in the administration of the Mining Act 1978 that any person is registered in the department as the lessee or occupier of any land,
+”.
+”.
