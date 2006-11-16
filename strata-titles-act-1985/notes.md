@@ -42,6 +42,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Courts Legislation Amendment and Repeal Act 2004 s. 141 and 142 | 59 of 2004 | 23 Nov 2004 | s. 141 (the amendments to s. 116A(4)) and s. 142 cl. 48: to be proclaimed (see s. 2)
+Land Information Authority Act 2006 s. 160 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 “
 (5) A plan registered under the principal Act before the provision inserted by subsection (3) came into operation is declared to be, and to have always been, valid if it would have been valid at the time of registration had that provision been then in operation.
@@ -276,3 +277,50 @@ s. 118 | Delete “office of a Clerk of a Local Court” and insert instead — 
 ”.
 The sections that it seeks to amend have been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125 and 1151.
 The amendment in the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2 cl. 63(9), to amend s. 25B(3) is not included because the subsection it sought to amend had been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1116.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 160 had not come into operation. It reads as follows:
+“
+160.Strata Titles Act 1985 amended
+(1) The amendments in this section are to the Strata Titles Act 1985.
+(2) Section 3(1) is amended as follows:
+(a) by inserting in its appropriate alphabetical position —
+“
+“Authority” means the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5;
+”;
+(b) in the definition of “Registrar of Titles” by deleting “appointed” in both places where it occurs and inserting instead —
+“ who is ”.
+(3) Section 18(2) is amended by deleting “office of the Registrar of Titles” and inserting instead —
+“ Authority’s office ”.
+(4) Section 21Z(2) is amended by deleting “Office of Titles” and inserting instead —
+“ Authority’s office ”.
+(5) Section 31K(2) is amended by deleting “Office of Titles” and inserting instead —
+“ Authority’s office ”.
+(6) Section 40(2)(b) is amended by deleting “office of the Registrar of Titles” and inserting instead —
+“ Authority’s office ”.
+(7) Section 41(2)(b) is amended by deleting “office of the Registrar of Titles” and inserting instead —
+“ Authority’s office ”.
+(8) Section 115(1) is amended by deleting “office of the Registrar of Titles” and inserting instead —
+“ Authority’s office ”.
+(9) After section 129A the following sections are inserted —
+“
+129B.Delegation by Commissioner of Titles
+(1) The Commissioner of Titles may delegate the power that section 129A gives the Commissioner to any other member of the Authority’s staff who is a legal practitioner (as defined in the Legal Practice Act 2003) or a barrister or solicitor of the Supreme Court of another State or a Territory.
+(2) The delegation must be in writing signed by the Commissioner.
+(3) A person to whom a power or duty is delegated under this section cannot delegate that power or duty.
+(4) A person exercising or performing a power or duty that has been delegated to the person under this section is to be taken to do so in accordance with the terms of the delegation unless the contrary is shown.
+(5) Nothing in this section limits the ability of the Commissioner to perform a function through an officer or agent.
+(6) In this section —
+“Commissioner of Titles” means the Commissioner of Titles under the Transfer of Land Act 1893 but does not include a Deputy Commissioner of Titles under that Act except when acting as, and in place of, the Commissioner.
+129C.Delegation by Registrar of Titles
+(1) The Registrar of Titles may delegate any power or duty of the Registrar under another provision of this Act to a member of the Authority’s staff.
+(2) The delegation must be in writing signed by the Registrar.
+(3) A person to whom a power or duty is delegated under this section cannot delegate that power or duty.
+(4) A person exercising or performing a power or duty that has been delegated to the person under this section is to be taken to do so in accordance with the terms of the delegation unless the contrary is shown.
+(5) Nothing in this section limits the ability of the Registrar to perform a function through an officer or agent.
+(6) In this section —
+“Registrar of Titles” does not include an Assistant Registrar under the Transfer of Land Act 1893 except when acting as, and in place of, the Registrar.
+129D.Money received by Registrar
+The Registrar of Titles is to pay to the Authority any money paid to the Registrar under this Act.
+”.
+(10) Schedule 3 clause 7(1) is amended by deleting “in the office of the Registrar of Titles” and inserting instead —
+“ for registration ”.
+”.
