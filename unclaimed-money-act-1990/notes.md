@@ -17,5 +17,21 @@ Unclaimed Money (Superannuation and RSA Providers) Act 2003 s. 26 | 19 of 2003 |
 Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 25 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 101 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2004 s. 15 | 10 of 2004 | 23 Jun 2004 | 4 Sep 2004 (see s. 2 and Gazette 3 Sep 2004 p. 3849)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and Year | Assent | Commencement
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 In respect of matters arising after 1 January 1991, the operation of the Companies (Western Australia) Code is subject to the provisions in Division 2 of Part 13 of the Corporations (Western Australia) Act 1990 (No. 105 of 1990).
 In respect of matters arising after 1 January 1991, the operation of the Companies (Acquisition of Shares) (Western Australia) Code is subject to the provisions in Division 2 of Part 13 of the Corporations (Western Australia) Act 1990 (No. 105 of 1990).
+On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 s. 73 which gives effect to Sch. 1 it. 14 had not come into operation. They read as follows:
+“
+73.Various Acts amended (Sch. 1)
+Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
+”.
+Schedule 1 item 14 reads as follows:
+“
+Schedule 1 — Various Acts amended
+[s. 73]
+14.Unclaimed Money Act 1990
+s. 9(1)(h) | Delete the paragraph and insert the following paragraph instead — “ (h)is money that under the Criminal and Found Property Disposal Act 2006 is to be dealt with under this Act; ”.
+”.
