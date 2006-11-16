@@ -46,8 +46,9 @@ Reprint 5: The Bail Act 1982 as at 1 Apr 2005 (includes amendments listed above 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
+Criminal Investigation (Consequential Provisions) Act 2006 Pt. 2 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 The Bail Amendment Act 1984 s. 10 and 11 were repealed by the Bail Amendment Act 1988 s. 20.
 The Bail Act 1982 was not in operation at the time when the reprint was compiled, but the reprinting was authorised by s. 21 of the Bail Amendment Act 1988.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a transitional provision that is of no further effect.
@@ -69,9 +70,76 @@ The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 97 reads a
 97.References to Crown Solicitor
 If in a written law or other document or instrument there is a reference to the Crown Solicitor that reference may, where the context so requires, be read as if it had been amended to be a reference to the State Solicitor.
 ”.
+On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 Pt. 2 had not come into operation. It reads as follows:
+“
+Part 2 — Bail Act 1982 amended
+3.The Act amended by this Part
+The amendments in this Part are to the Bail Act 1982.
+4.Section 6 replaced and consequential amendments
+(1) Section 6 is repealed and the following section is inserted instead —
+“
+6.Duty on arresting officer and others to consider bail
+(1) This section applies to a police officer or other person (the “arrester”) who —
+(a) charges a person who is under arrest (the “accused”) with an offence; and
+(b) does not release the accused unconditionally under section 142 of the Criminal Investigation Act 2006,
+or who arrests a person under a warrant.
+(2) This section is subject to —
+(a) the exercise of the power conferred by section 9; and
+(b) sections 10, 12 and 16 and clause 3A of Part C of Schedule 1.
+(3) The duties in this section shall be performed whether or not an application for bail is made by or on behalf of the accused.
+(4) As soon as is practicable after the accused is charged, or arrested under a warrant, as the case may be, the arrester shall either —
+(a) bring the accused or cause the accused to be brought before a court; or
+(b) perform the other duties of the arrester under this section.
+(5) If the arrester has power to grant the accused bail, the arrester shall consider the accused’s case for bail.
+(6) If the arrester does not have power to grant the accused bail, the arrester shall, unless subsection (8), (9) or (10) applies, bring or cause the accused to be brought before an authorised police officer or a justice or, in the case of a child, any authorised officer or a justice, who shall consider the accused’s case for bail as soon as is practicable.
+(7) Even if the arrester has power to grant the accused bail, the arrester may, instead of complying with subsection (5), comply with subsection (6) as if the arrester did not.
+(8) If under section 15 only a Judge of the Supreme Court or a Judge of the Children’s Court has power to grant the accused bail, the arrester shall bring the accused or cause the accused to be brought before a Judge of the Supreme Court or a Judge of the Children’s Court, as the case requires, who shall consider the accused’s case for bail as soon as is practicable.
+(9) If under section 16 only a justice has power to grant the accused bail, the arrester shall bring the accused or cause the accused to be brought before a justice, who shall consider the accused’s case for bail as soon as is practicable.
+(10) If section 16A applies, the arrester shall bring the accused or cause the accused to be brought before a court or Judge referred to in section 16A(1), who shall consider the accused’s case for bail as soon as is practicable.
+”.
+(2) Section 7(3)(a) is amended by deleting “section 6(3)” and inserting instead —
+“ section 6(8) or (9) ”.
+(3) Section 16(1) is amended by deleting “section 6(2)(b).” and inserting instead —
+“ section 6(9). ”.
+(4) Section 61(2)(b) is amended by deleting “section 6(2a).” and inserting instead —
+“ section 6(7). ”.
+5.Section 6A inserted
+After section 6 the following section is inserted —
+“
+6A.Whether custody justified to be considered in certain cases
+(1) In this section —
+“accused” means an accused who is under arrest, other than pursuant to a warrant;
+“released” means released from custody without being required to enter into, or without having entered into, a bail undertaking;
+“serious offence” means an indictable offence the penalty specified by a written law for which is or includes imprisonment for 5 years or more or life;
+“summary court” means the Magistrates Court or the Children’s Court.
+(2) An authorised officer or justice who is considering an accused’s case for bail for an initial appearance in a summary court on a charge of an indictable offence that is not a serious offence may order that the accused be served with a summons under the Criminal Procedure Act 2004, and released, in respect of the charge unless satisfied —
+(a) that there are reasonable grounds to suspect the accused would not obey the summons if served with it; or
+(b) that not releasing the accused is justified under subsection (4) or for any other reason.
+(3) An authorised officer or justice who is considering an accused’s case for bail for an initial appearance in a summary court on a charge of a simple offence must order that the accused be served with a court hearing notice under the Criminal Procedure Act 2004, and released, in respect of the charge unless satisfied —
+(a) that the presence of the accused when the charge is dealt with is likely to be necessary for any reason or for sentencing purposes; or
+(b) that not releasing the accused is justified under subsection (4) or for any other reason.
+(4) Not releasing an accused is justified if there are reasonable grounds to suspect that if the accused were released —
+(a) the accused —
+(i) would commit an offence;
+(ii) would continue or repeat an offence with which he or she is charged;
+(iii) would endanger another person’s safety or property; or
+(iv) would interfere with witnesses or otherwise obstruct the course of justice, whether in relation to the accused or any other person;
+or
+(b) the accused’s safety would be endangered.
+(5) This section does not affect the operation of section 28 or 30 of the Criminal Procedure Act 2004.
+”.
+6.Section 12 amended
+Section 12 is amended as follows:
+(a) by inserting after “requires” —
+“ or permits ”;
+(b) by deleting “section 236 of The Criminal Code, section 50AA of the Police Act 1892” and inserting instead —
+“ Part 12 of the Criminal Investigation Act 2006 ”.
+7.Sections 18 and 19 repealed and consequential amendment to section 27
+(1) Sections 18 and 19 are repealed.
+(2) Section 27(1) is amended by deleting “, an authorised police officer who dispenses with bail under section 18,”.
+”.
 Footnote no longer applicable.
-Footnote no longer applicable.
-The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 141 is not included because the clause it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 28(4) before the amendment purported to come into operation.
+The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 141 (amending Sch. 1 Pt. A cl. 4) is not included because the clause it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 28(4) before the amendment purported to come into operation.
 On the date as at which this compilation was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 had not come into operation. It reads as follows:
 “
 Part 3 — Attorney General, and Justice
