@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 August 2006 of the Housing Act 1980 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Housing Act 1980 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Housing Act 1980 | 58 of 1980 | 24 Nov 1980 | 1 Jan 1981 (see s. 2 and Gazette 24 Dec 1980 p. 4349)
@@ -24,10 +24,11 @@ Acts Amendment (Equality of Status) Act 2003 Pt. 29 | 28 of 2003 | 22 May 2003 |
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 10 Div. 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 2: The Housing Act 1980 as at 18 Aug 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 28 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Land Information Authority Act 2006 s. 137 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 Under the Public Sector Management Act 1994 s. 112(2), a reference to the Public Service Board is, unless the contrary intention appears appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Housing Amendment Act 1983 s. 4(2) is a transitional provision that is of no further effect.
@@ -67,10 +68,17 @@ In this Division —
 (b)the Government Employees’ Housing Authority established by section 8 of the Government Employees’ Housing Act 1964 as in force before commencement;
 “Housing Authority” means the Housing Authority referred to in section 6(4) of the Housing Act 1980 as in force after commencement.
 ”.
-On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 28 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 28 had not come into operation. It reads as follows:
 “
 28.Housing Act 1980 amended
 (1) The amendments in this section are to the Housing Act 1980.
 (2) Section 52(1) is amended in the definition of “lending institution” by deleting paragraph (a).
 (3) Section 55(5) is amended by deleting “or on termination of the lending institution in the case of a housing society;”.
+”.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 137 had not come into operation. It reads as follows:
+“
+137.Housing Act 1980 amended
+(1) The amendments in this section are to the Housing Act 1980.
+(2) Section 24(2) is amended by deleting “Department within the meaning” and inserting instead —
+“ Authority as defined in section 4(1) ”.
 ”.
