@@ -33,6 +33,10 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 3: The Settlement Agents Act 1981 as at 8 Jul 2005 (includes amendments listed above)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Land Information Authority Act 2006 s. 158 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
 “
@@ -62,3 +66,17 @@ In this Part —
 is taken not to be valid, and to never have been valid.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 158 had not come into operation. It reads as follows:
+“
+158.Settlement Agents Act 1981 amended
+(1) The amendments in this section are to the Settlement Agents Act 1981.
+(2) Schedule 2 clause 1(1) is amended as follows:
+(a) by deleting paragraph (a) and inserting instead —
+“
+(a) searching land titles and dealings in the records of the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5 (the “Authority”) and searching for caveats against any of those dealings;
+”;
+(b) in paragraph (f), by deleting “at the Department within the meaning of the Transfer of Land Act 1893” and inserting instead —
+“ with the Authority ”;
+(c) in paragraph (g), by deleting “Department within the meaning of the Transfer of Land Act 1893” and inserting instead —
+“ Authority ”.
+”.
