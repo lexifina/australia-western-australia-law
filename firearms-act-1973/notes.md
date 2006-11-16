@@ -36,6 +36,7 @@ Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
 The Firearms Amendment Act 1996 s. 9(2), 10(2), 11(2), 15(2), 39 and 53 are transitional, savings and related provisions that are of no further effect.
@@ -100,4 +101,17 @@ Schedule 3 — Consequential amendments
 (1) The amendments in this clause are to Firearms Act 1973.
 (2) Section 23B(3) is amended in the definition of “registered nurse” by deleting “Part 3 of the Nurses Act 1992.” and inserting instead —
 “ Part 4 of the Nurses and Midwives Act 2006. ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 s. 73 which gives effect to Sch. 1 it. 5 had not come into operation. They read as follows:
+“
+73.Various Acts amended (Sch. 1)
+Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
+”.
+Schedule 1 item 5 reads as follows:
+“
+Schedule 1 — Various Acts amended
+[s. 73]
+5.Firearms Act 1973
+s. 24(5) | Delete “taken before a Justice to be”.
+s. 26(1) | Delete “and take”. Delete “before a Justice to be dealt with according to law”.
 ”.
