@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 July 2006 of the Administration Act 1903 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Administration Act 1903 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Administration Act 1903 | 13 of 1903 | 31 Dec 1903 | 1 Jan 1904 (see s. 1)
@@ -69,6 +69,10 @@ Family Court Amendment Act 2002 s. 52 | 25 of 2002 | 25 Sep 2002 | 1 Dec 2002 (s
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Reprint 11: The Administration Act 1903 as at 14 Jul 2006 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Land Information Authority Act 2006 s. 120 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 Repealed by section 2 of this Act.
 Part IV, Curator of Intestate Estates, as enacted by this Act, was repealed by the Curator of Intestate Estates Act 1918. Now see the Public Trustee Act 1941.
 This Part was enacted as Part II of the Administration Act (Estate and Succession Duties) Amendment Act 1934. By section 3 of that Act it was enacted as follows:
@@ -82,3 +86,12 @@ In this reprint the numbering of Parts, sections, Divisions etc. effected in the
 The Administration Act Amendment Act 1970 s. 2(2) is a transitional provision that is of no further effect.
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973 s. 4.
 The Death Duty Assessment Act 1973 s. 3(2), (3), (4) and (5) are transitional provisions that are of no further effect.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 120 had not come into operation. It reads as follows:
+“
+120.Administration Act 1903 amended
+(1) The amendments in this section are to the Administration Act 1903.
+(2) Section 19(2) is amended by deleting “the Registrar of Deeds or Registrar of Titles, as the case may be” and inserting instead —
+“
+the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5
+”.
+”.
