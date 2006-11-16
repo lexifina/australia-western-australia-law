@@ -8,6 +8,10 @@ Church of England in Australia Constitution Act 1960 s. 5 | 4 of 1960 | 6 Oct 19
 Anglican Church of Australia Act 1976 s. 7 | 121 of 1976 | 1 Dec 1976 | 24 Aug 1981 (see s. 2(2) and Gazette 30 Jan 1981 p. 441)
 Transfer of Land Amendment Act 1996 s. 153(2) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
 Reprint of the Anglican Church of Australia Lands Act 1914 as at 3 May 2002 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Land Information Authority Act 2006 s. 124 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 The name “Church of England” was changed to “Anglican Church of Australia” by No. 121 of 1976 s. 7. This reference to the former name is left unamended because of the context.
 Under the Anglican Church of Australia Constitution Act 1960 s. 5 a reference to “the Branch of the Church of England in Western Australia” is to be construed as a reference to the Church of England in Australia so far as it is in the State. The name of the “Church of England” was changed to the “Anglican Church of Australia” by No. 121 of 1976 s. 7. This reference to the former name has not been changed due to its context.
 Formerly referred to the “Branch of the Church of England in Western Australia”. See note 3. Reference changed under the Reprints Act 1984 s. 7(3)(h).
@@ -23,3 +27,12 @@ Anglican Church of Australia School Lands Act 1896
 Anglican Church of Australia Diocesan Trustees and Lands Act 1918
 Anglican Church of Australia (Diocese of North West Australia) Act 1961
 Anglican Church of Australia (Swanleigh land and endowments) Act 1979
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 124 had not come into operation. It reads as follows:
+“
+124.Anglican Church of Australia Lands Act 1914 amended
+(1) The amendments in this section are to the Anglican Church of Australia Lands Act 1914.
+(2) Section 5 is amended by deleting “in the Department within the meaning of the Transfer of Land Act 1893.” and inserting instead —
+“
+with the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5.
+”.
+”.
