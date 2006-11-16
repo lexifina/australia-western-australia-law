@@ -111,6 +111,10 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Law Amendment (Simple Offences) Act 2004 Pt. 3 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 12: The Police Act 1892 as at 1 Jun 2005 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and Year | Assent | Commencement
+Criminal Investigation (Consequential Provisions) Act 2006 Pt. 12 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 Now known as the Police Act 1892; short title changed (see note under s. 3).
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973 s. 3.
 The Police Amendment Act 2003 s. 9 reads as follows:
@@ -161,4 +165,76 @@ Division 2 — Transitional provisions
 Despite section 11 of The Criminal Code and section 10 of the Sentencing Act 1995 and the repeal by Division 1 of an enactment of the Police Act 1892 that creates an offence —
 (a) an investigation or legal proceedings in respect of any such offence alleged to have been committed before the commencement of Division 1 may be commenced or continued; and
 (b) a person may be sentenced or otherwise dealt with for the alleged offence as if the enactment had not been repealed.
+”.
+On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 Pt. 12 had not come into operation. It reads as follows:
+“
+Part 12 — Police Act 1892 amended
+Division 1 — Amendments
+60.The Act amended in this Part
+The amendments in this Part are to the Police Act 1892.
+61.Section 2 repealed
+Section 2 is repealed.
+62.Section 7 amended
+Section 7(1) is amended by deleting “; and such non-commissioned officers and constables shall have all such powers and privileges, and be liable to all such duties and obligations as any constable duly appointed now or hereafter may have, or be liable to, either by the common law, or by virtue of any statute law now or hereafter to be in force in the said State”.
+63.Part III replaced
+Part III is repealed and the following Part is inserted instead —
+“
+Part III — Special constables
+34.Interpretation
+In this Part, unless the contrary intention appears —
+“Commissioner” means the Commissioner of Police appointed under section 5;
+“police officer” means a person appointed under Part I as an officer or constable of the Police Force, other than as the Commissioner;
+“special constable” means a special constable appointed under section 35.
+35.Appointing and terminating special constables
+(1) The Commissioner may appoint any person as a special constable.
+(2) The appointment of a special constable may be for such period and on such terms and conditions as the Commissioner decides.
+(3) The appointment of a special constable must not include a term that provides for the payment of any remuneration to a special constable unless the Minister has approved the term.
+(4) The Commissioner may at any time cancel the appointment of a special constable.
+(5) The appointment of a special constable, its terms and conditions and any cancellation of it must be in writing and signed by the Commissioner.
+(6) The Commissioner must issue a special constable with a certificate of his or her appointment as a special constable.
+(7) A special constable whose appointment as such ceases must return any certificate issued to him or her under subsection (6) to the Commissioner.
+Penalty: $500.
+36.Functions of special constables
+(1) Unless the document appointing a special constable says otherwise —
+(a) a special constable has all of the powers, duties and obligations that a police officer or a member of the Police Force has under any written law other than this Act; and
+(b) any authorisation, exemption or exception in any written law other than this Act that applies to a police officer or a member of the Police Force applies to a special constable,
+unless that written law expressly says otherwise.
+(2) If a provision of a written law other than this Act refers to a police officer or to a member of the Police Force but does not confer a power, duty or obligation on, or create an authorisation, exemption or exception for, a police officer or a member of the Police Force, the provision is to be taken to include a reference to a special constable, unless the contrary intention appears in the provision.
+(3) The document appointing a special constable may limit the powers, duties or obligations of the special constable or the application of any authorisation, exemption or exception to the special constable in any way the Commissioner thinks fit.
+(4) Without limiting subsection (3) or section 35(2), the document appointing a special constable may do any or all of the following —
+(a) limit the powers that the special constable may exercise;
+(b) limit when the special constable may exercise his or her powers or any of them;
+(c) limit where in the State the special constable may exercise his or her powers or any of them;
+(d) limit the circumstances in which the special constable may exercise his or her powers or any of them;
+(e) limit the offences in respect of which the special constable may exercise his or her powers or any of them;
+(f) limit the purposes for which the special constable may exercise his or her powers or any of them;
+(g) limit or prohibit the possession or use of any thing that the special constable would otherwise be authorised under a written law to possess or use, despite the written law.
+(5) The document appointing a special constable may require the special constable to inform the Commissioner about the exercise by the special constable of any power, or the performance of any duty or obligation, that he or she has under the appointment.
+37.Special constables not in the Police Force
+(1) A special constable is not a member of the Police Force of Western Australia for the purposes of this Act.
+(2) Subsection (1) does not affect the operation of section 36(1) or (2) or 136.
+”.
+64.Part V repealed
+Part V is repealed.
+65.Part VI repealed
+Part VI is repealed.
+66.Section 123 repealed
+Section 123 is repealed.
+67.Section 124 repealed
+Section 124 is repealed.
+Division 2 — Transitional provisions
+68.Existing special constables’ appointments terminated
+(1) If immediately before the commencement of section 63 a person holds an appointment as a special constable made under the Police Act 1892 Part III, then on the commencement of section 63 the person ceases to be a special constable.
+(2) Subsection (1) does not prevent the appointment of a person to whom it applies as a special constable under the Police Act 1892 Part III as inserted by section 63.
+69.Search warrants and related matters
+(1) In this section —
+“repeal day” means the day on which section 64 comes into operation.
+(2) This section does not limit the operation of the Interpretation Act 1984 Part V.
+(3) If immediately before repeal day a warrant issued under the Police Act 1892 section 70 is in force but not executed, then, subject to the terms of the warrant, the warrant may be executed on or after repeal day and, if any thing is seized under it —
+(a) despite section 70 and the warrant, the thing must not be taken before a Justice; and
+(b) the Criminal and Found Property Disposal Act 2006 applies to and in respect of the thing.
+70.Embargo notices
+(1) In this section —
+“repeal day” means the day on which section 65 comes into operation.
+(2) If immediately before repeal day any property is subject to an embargo notice granted under the Police Act 1892 section 90B, whether the property was seized under Part V of that Act or under an Act that refers to that section, then on and after repeal day sections 90B and 90C of that Act apply to and in respect of the notice as if they had not been repealed.
 ”.
