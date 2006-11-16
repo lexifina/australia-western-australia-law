@@ -28,6 +28,10 @@ Sentencing Legislation Amendment and Repeal Act 2003 s. 75 | 50 of 2003 | 9 Jul 
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 68 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Land Information Authority Act 2006 s. 141 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 Now known as the Water Agencies (Powers) Act 1984. Short title changed by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 commenced 1 Jan 1996.
 Repealed by the Land Administration Act 1997.
@@ -55,7 +59,22 @@ The Land Drainage Amendment Act 1983 s. 6(2) reads as follows:
 See also the following relevant Orders:
 Water Authority (Appointed Day) Order 1985 in Gazette 31 May 1985 p. 1897.
 Water Authority (Appointed Day) Order (No. 2) 1985 in Gazette 21 June 1985 p. 2240.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 141 had not come into operation. It reads as follows:
+“
+141.Land Drainage Act 1925 amended
+(1) The amendments in this section are to the Land Drainage Act 1925.
+(2) Section 173(1)(b) is amended as follows:
+(a) in subparagraph (ii) —
+(i) by deleting “or deputy”; and
+(ii) by deleting “Department within the meaning of the Transfer of Land Act 1893” and inserting instead —
+“
+records of the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5
+”;
+(b) by deleting subparagraph (iii) and inserting instead —
+“
+(iii) the chief executive officer of the department principally assisting in the administration of the Land Administration Act 1997, or of the department principally assisting in the administration of the Mining Act 1978, that any person is registered in the relevant department as the owner, lessee, or occupier of any land,
+”.
+”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 54 reads as follows:
 “
