@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Kalgoorlie and Boulder Racing Clubs Act 1904 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Kalgoorlie and Boulder Racing Clubs Act 1904 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 The Kalgoorlie and Boulder Racing Clubs Act 1904 | 1904 (4 Edw. VII) | 24 Dec 1904 | 24 Dec 1904
@@ -13,7 +13,17 @@ Land Administration Amendment Act 2000 s. 51 | 59 of 2000 | 7 Dec 2000 | 10 Apr 
 Statutes (Repeals and Minor Amendments) Act 2003 s. 138(1) | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 1: The Kalgoorlie and Boulder Racing Clubs Act 1904 as at 7 May 2004 (includes amendments listed above)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Land Information Authority Act 2006 s. 138 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 Under the Public Sector Management Act 1994 the names of departments can be changed. As at the date of this reprint the former Department of Lands and Surveys was known as the Department of Land Information.
 Under the Alteration of Statutory Designations Order (No. 4) 1983 references in any law to the Chief Secretary shall be read and construed as references to the Minister for Racing and Gaming.
 This Act is to be read as one with the Kalgoorlie and Boulder Racing Clubs Act Amendment Act 1953.
 Now known as the Kalgoorlie and Boulder Racing Clubs Act 1904; the short title was changed (see note under s. 1).
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 138 had not come into operation. It reads as follows:
+“
+138.Kalgoorlie and Boulder Racing Clubs Act 1904 amended
+(1) The amendment in this section is to the Kalgoorlie and Boulder Racing Clubs Act 1904.
+(2) Section 2 is amended in the definition of “Minister for Lands” by deleting “and the Department of Lands and Surveys”.
+”.
