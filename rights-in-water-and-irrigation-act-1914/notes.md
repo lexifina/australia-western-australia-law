@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 July 2006 of the Rights in Water and Irrigation Act 1914 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rights in Water and Irrigation Act 1914 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Rights in Water and Irrigation Act 1914 | 19 of 1914 | 22 Sep 1914 | 22 Sep 1914
@@ -48,6 +48,10 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 103 | 74 of 2003 | 15 Dec 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 114 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Water Legislation Amendment (Competition Policy) Act 2005 Pt. 6 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
 Reprint 7: The Rights in Water and Irrigation Act 1914 as at 4 Jul 2006 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Land Information Authority Act 2006 s. 151 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 The short title of the Water Authority Act 1984 was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 commenced 1 January 1996.
 Under the Public Sector Management Act 1994, the names of departments can be changed. At the time of this reprint, the former Department of Land Administration is called the Department of Land Information.
@@ -151,4 +155,16 @@ the Tribunal may exercise the power referred to in the Rights in Water and Irrig
 (3) If the Corporation receives, before the commencement day, a notice in accordance with the RWI Act section 39F(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the relevant entry to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the RWI Act section 39F(1).
 (4) If the Corporation receives, before the commencement day, a notice in accordance with the RWI Act section 39G(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the decision to refuse to extend time to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the RWI Act section 39G(1).
 (5) If a notice has been given under the RWI Act section 39E(7) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
+”.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 151 had not come into operation. It reads as follows:
+“
+151.Rights in Water and Irrigation Act 1914 amended
+(1) The amendments in this section are to the Rights in Water and Irrigation Act 1914.
+(2) Section 79(2) is amended as follows:
+(a) in subparagraph (a), by deleting “or his deputy”;
+(b) in subparagraph (b), by deleting “or deputy”;
+(c) by deleting subparagraph (c) and inserting instead —
+“
+(c) the chief executive officer of the department principally assisting in the administration of the Land Administration Act 1997 or of the department principally assisting in the administration of the Mining Act 1978, that any person is registered in the department as the occupier or lessee of any land,
+”.
 ”.
