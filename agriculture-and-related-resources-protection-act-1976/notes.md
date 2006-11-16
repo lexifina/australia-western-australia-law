@@ -35,6 +35,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Land Information Authority Act 2006 s. 121 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 Repealed by the Mining Act 1978.
 Repealed by the Public Service Appeal Board Act Repeal Act 1977.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also endnote 14.
@@ -212,4 +213,19 @@ In this Division —
 “commencement” means the time at which this Division comes into operation;
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+”.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 121 had not come into operation. It reads as follows:
+“
+”.
+121.Agriculture and Related Resources Protection Act 1976 amended
+(1) The amendments in this section are to the Agriculture and Related Resources Protection Act 1976.
+(2) Section 92(4)(b) is amended by deleting “the Department within the meaning of the Transfer of Land Act 1893, the Department of Lands and Surveys, the Department of Mines, or the Register of Deeds, as the case may be” and inserting instead —
+“ a register or other records referred to in section 94(1)(b) ”.
+(3) Section 94(1)(b) is amended as follows:
+(a) in subparagraph (i), by deleting “or Deputy”;
+(b) by deleting subparagraph (iii) and inserting instead —
+“
+(iii) the chief executive officer of the department principally assisting in the administration of the Land Administration Act 1997 that a person is registered in that department as the owner or occupier of land;
+(iiia) the chief executive officer of the department principally assisting in the administration of the Mining Act 1978 that a person is registered in that department as the owner or occupier of land;
+”.
 ”.
