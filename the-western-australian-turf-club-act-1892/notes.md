@@ -10,6 +10,10 @@ Turf Club Legislation Amendment Act 1997 Pt. 2 | 24 of 1997 | 24 Sep 1997 | 24 S
 Reprint 2: The Western Australian Turf Club Act 1892 as at 14 Mar 2003 (includes amendments listed above)
 Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 14 | 35 of 2003 | 26 Jun 2003 | 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and Year | Assent | Commencement
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by Government Railways Act 1904.
 The Western Australian Turf Club Amendment Act 1990 s. 6 reads as follows:
@@ -37,4 +41,16 @@ Division 2 — Transitional provision
 (2) Subsection (1) does not continue the operation of any by-law that could not be made under section 13 of The Western Australian Turf Club Act 1892 as amended by this Act.
 (3) The by-laws continued in force under subsection (1), expire 12 months after the coming into operation of this section, or on a day fixed by order of the Minister published in the Gazette, whichever is the earlier day.
 (4) Nothing in this section affects the operation of section 36 of the RWWA Act.
+”.
+On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 s. 73 which gives effect to Sch. 1 it. 16 had not come into operation. They read as follows:
+“
+73.Various Acts amended (Sch. 1)
+Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
+”.
+Schedule 1 item 16 reads as follows:
+“
+Schedule 1 — Various Acts amended
+[s. 73]
+16.The Western Australian Turf Club Act 1892
+s. 22 | Delete “constable who shall convey him with all convenient dispatch before some justice without any warrant or other authority than this Act and such justice” and insert instead — “ officer who ”.
 ”.
