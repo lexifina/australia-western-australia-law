@@ -9,6 +9,7 @@ Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
+Land Information Authority Act 2006 s. 147 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) had not come into operation. They read as follows:
 “
 149.Conditions on rural land (tied lots)
@@ -282,4 +283,55 @@ development control area as defined in the Swan and Canning Rivers Management Ac
 “
 development control area as defined in the Swan and Canning Rivers Management Act 2006,
 ”.
+”.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 147 had not come into operation. It reads as follows:
+“
+147.Planning and Development Act 2005 amended
+(1) The amendments in this section are to the Planning and Development Act 2005.
+(2) Section 4(1) is amended as follows:
+(a) by inserting in its appropriate alphabetical position —
+“
+“Authority” means the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5.
+”;
+(b) in the definition of “lot” —
+(i) by deleting paragraph (a) and inserting instead —
+“
+(a)depicted on a plan or diagram available from, or deposited with, the Authority and for which a separate Crown Grant or certificate of title has been or can be issued; or
+”;
+and
+(ii) by deleting paragraph (c)(iv) and “or” after it and inserting instead —
+“
+(iv)a part-lot shown on a diagram or plan of survey of a subdivision deposited with the Authority; or
+”;
+(c) by deleting the definition of “TLA Department”.
+(3) Section 146(3)(d) is amended by deleting “TLA Department” and inserting instead —
+“ Authority ”.
+(4) Section 150(3)(a) is amended as follows:
+(a) by inserting after “subdivision” a comma;
+(b) by inserting after “1985” a comma;
+(c) by deleting “at the TLA Department;” and inserting instead —
+“ by the Authority; ”.
+(5) Section 165(2) and (4) are each amended by deleting “at the TLA Department” and inserting instead —
+“ with the Authority ”.
+(6) Section 167(1)(a) is amended as follows:
+(a) by inserting after “subdivision” a comma;
+(b) by inserting after “1985” a comma;
+(c) by deleting “at the TLA Department;” and inserting instead —
+“ by the Authority; ”.
+(7) Section 168 is amended as follows:
+(a) in subsection (1) —
+(i) by inserting after “subdivision” a comma; and
+(ii) by inserting after “1985” a comma; and
+(iii) by deleting “in the TLA Department” and inserting instead —
+“ with the Authority ”;
+(b) in subsection (3) —
+(i) by inserting after “subdivision” a comma; and
+(ii) by inserting after “1985” a comma; and
+(iii) by deleting “at the TLA Department” and inserting instead —
+“ with the Authority ”;
+(c) in subsection (5), by deleting “in the TLA Department”;
+(d) in subsection (6), by deleting “in the TLA Department or in” and inserting instead —
+“ with the Authority or ”.
+(8) Schedule 3 is amended by deleting “Department as defined in the Transfer of Land Act 1893” in both places where it occurs and inserting instead —
+“ Land Titles Office ”.
 ”.
