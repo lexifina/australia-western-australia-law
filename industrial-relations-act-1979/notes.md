@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 November 2006 of the Industrial Relations Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Industrial Relations Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Industrial Arbitration Act 1979 | 114 of 1979 | 21 Dec 1979 | 1 Mar 1980 (see s. 2 and Gazette 8 Feb 1980 p. 383)
@@ -70,6 +70,7 @@ Short title | Number and year | Assent | Commencement
 Vocational Education and Training Act 1996 s. 62 | 42 of 1996 | 16 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
 The Labour Relations Reform Act 2002 s. 112, 113(6), 117(2) and (3), 138(2), 140(2), 141(2), 146(2), 152(2), 155(2) and (3), 186(2)-(4) and Sch. 1 read as follows:
@@ -238,4 +239,16 @@ On the date as at which this reprint was prepared, the Petroleum Legislation Ame
 (IV) the Petroleum Pipelines Act 1969;
 (V) the Petroleum (Submerged Lands) Act 1982;
 ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 s. 73, which gives effect to Sch. 1 it. 7, had not come into operation. They read as follows:
+“
+73.Various Acts amended (Sch. 1)
+Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
+”.
+Schedule 1 item 7 reads as follows:
+“
+Schedule 1 — Various Acts amended
+[s. 73]
+7.Industrial Relations Act 1979
+Schedule 3 | In clause 2(3), insert after “officer” — “ or, in the case of a special constable, the cancellation of the constable’s appointment ”.
 ”.
