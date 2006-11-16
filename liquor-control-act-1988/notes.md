@@ -30,6 +30,10 @@ Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 4: The Liquor Licensing Act 1988 as at 9 Jun 2006 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and Year | Assent | Commencement
+Criminal Investigation (Consequential Provisions) Act 2006 Pt. 10 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
 The Liquor Licensing (Moratorium) Act 1983 expired on 30 June 1988 (see Liquor Licensing (Moratorium) Order 1987 in Gazette 24 Dec 1987 p. 4533).
@@ -67,3 +71,34 @@ Nothing in this Schedule affects any saving provided by the Interpretation Act 1
 ”.
 The Courts Legislation Amendment Act 2000 s. 14 is a transitional provision that is of no further effect.
 The Liquor Licensing Amendment Act 2001 s. 5(2) and 6(2) are transitional provisions that are of no further effect.
+On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 Pt. 10 had not come into operation. It reads as follows:
+“
+Part 10 — Liquor Licensing Act 1988 amended
+53.The Act amended in this Part
+The amendments in this Part are to the Liquor Licensing Act 1988.
+54.Section 113 amended
+Section 113(3) is repealed.
+55.Section 155 amended
+(1) Section 155(4) is amended as follows:
+(a) by deleting “, carry away and take before a justice”;
+(b) by deleting “section 113” and inserting instead —
+“ this Act ”.
+(2) Section 155(5) is repealed and the following subsection is inserted instead —
+“
+(5) Subject to section 161, sections 146 to 150 of the Criminal Investigation Act 2006, with any necessary changes, apply to and in respect of seizing a thing that is or may be seized under this Act.
+”.
+56.Section 172A inserted
+After section 172 the following section is inserted in Part 6 —
+“
+172A.Forfeiture
+(1) If a court convicts a person of an offence under this Act of illegally selling, supplying, consuming or storing liquor, or of unlawfully possessing liquor, or of possessing liquor for an unlawful purpose, the court may declare all, or any specified part, of the liquor, including any container or packaging, that relates to the offence to be forfeited.
+(2) If under section 167 an infringement notice is issued to an alleged offender in respect of an alleged offence under this Act of illegally selling, supplying, consuming or storing liquor, or of unlawfully possessing liquor, or of possessing liquor for an unlawful purpose, and the modified penalty is paid and the notice is not withdrawn, any liquor, including any container or packaging, that relates to the offence and has been seized is forfeited.
+”.
+57.Section 174A inserted
+After section 174 the following section is inserted —
+“
+174A.Application of Criminal and Found Property Disposal Act 2006
+(1) The Criminal and Found Property Disposal Act 2006 applies to and in respect of any thing that is seized or forfeited under this Act.
+(2) For the purposes of the Criminal and Found Property Disposal Act 2006 the department of the Public Service that principally assists the Minister to administer this Act is a prescribed agency.
+”.
+”.
