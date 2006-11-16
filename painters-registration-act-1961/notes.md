@@ -26,6 +26,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Land Information Authority Act 2006 s. 119 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 To be read as a reference to the Minister for Public Sector Management in accordance with section 112(2) of the Acts Amendment (Public Sector Management) Act 1994.
 Repealed by No. 42 of 1996.
 Section 3(2) and (3) of Act No. 33 of 1983 read as follows —
@@ -55,3 +56,19 @@ s. 18(3) | Delete “magistrate” and insert instead — “ Court ”. Delete 
 s. 18(4) | Delete “magistrate” and insert instead — “ Court ”.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 119 had not come into operation. It reads as follows:
+“
+119.Certain references in other Acts to plans and diagrams amended
+(1) Other Acts are amended by deleting “Department within the meaning of the Transfer of Land Act 1893 Plan” in each place indicated in the Table to this section and inserting instead —
+“ Land Titles Office Plan ”.
+Table
+....................
+Painters’ Registration Act 1961 Schedule
+....................
+(2) Other Acts are amended by deleting “Department within the meaning of the Transfer of Land Act 1893 Diagram” in each place indicated in the Table to this section and inserting instead —
+“ Land Titles Office Diagram ”.
+Table
+....................
+Painters’ Registration Act 1961 Schedule
+....................
+”.
