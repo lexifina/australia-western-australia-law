@@ -122,6 +122,7 @@ Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
+Land Information Authority Act 2006 s. 135 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988.
 The Health Act Amendment Act 1900 is repealed by section 4 of this Act.
 Section 53B was repealed by the Health Act Amendment Act 1933 (No. 2) s. 6.
@@ -560,7 +561,19 @@ the commission of that offence by the employee.
 When a body corporate is convicted of an offence under this Part or the regulations, every director and every officer concerned in the management of the body corporate commits the same offence if he knowingly authorised or permitted the commission of that offence.
 ”.
 ”.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 135 had not come into operation. It reads as follows:
+“
+135.Health Act 1911 amended
+(1) The amendments in this section are to the Health Act 1911.
+(2) Section 372 is amended by deleting “department within the meaning of the Transfer of Land Act 1893 or Registry of Deeds, as the case may require” and inserting instead —
+“
+records of the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5
+”.
+(3) Section 375 is amended by deleting “Department within the meaning of the Transfer of Land Act 1893 and Registry of Deeds, or any office of the Department of Lands and Surveys, or of the Department of Mines” and inserting instead —
+“
+records of the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5, of the department principally assisting in the administration of the Land Administration Act 1997, or of the department principally assisting in the administration of the Mining Act 1978
+”.
+”.
 On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
