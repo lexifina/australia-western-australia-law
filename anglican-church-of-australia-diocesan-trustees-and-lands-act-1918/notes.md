@@ -7,6 +7,10 @@ Church of England Diocesan Trustees and Lands Act Amendment Act 1956 | 56 of 195
 Anglican Church of Australia Act 1976 s. 7 | 121 of 1976 | 1 Dec 1976 | 24 Aug 1981 (see s. 2(2) and Gazette 30 Jan 1981 p. 441)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Reprint of the Anglican Church of Australia Diocesan Trustees and Lands Act 1918 as at 3 May 2002 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Land Information Authority Act 2006 s. 123 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 52 Vict. No. 2 (1888). Now cited as the Anglican Church of Australia (Diocesan Trustees) Act 1888.
 Now cited as the Anglican Church of Australia Lands Act 1914. The short title of the Church of England Lands Act 1914 was amended by No. 121 of 1976 s. 7.
 Under the Anglican Church of Australia Constitution Act 1960 s. 5 a reference to “the Church of England in Western Australia” shall be construed as a reference to the Church of England in Australia so far as it is in the State. The name of the “Church of England” was changed to the “Anglican Church of Australia” by No. 121 of 1976 s. 7. This reference to the former name has not been changed due to its context.
@@ -26,3 +30,13 @@ Anglican Church of Australia School Lands Act 1896
 Anglican Church of Australia Lands Act 1914
 Anglican Church of Australia (Diocese of North West Australia) Act 1961
 Anglican Church of Australia (Swanleigh land and endowments) Act 1979
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 123 had not come into operation. It reads as follows:
+“
+”.
+123.Anglican Church of Australia Diocesan Trustees and Lands Act 1918 amended
+(1) The amendments in this section are to the Anglican Church of Australia Diocesan Trustees and Lands Act 1918.
+(2) Section 11 is amended by deleting “in the Office of Titles, the office of the Registrar of Deeds, and in the Department of Lands and Surveys” and inserting instead —
+“
+under the Transfer of Land Act 1893 and the Registration of Deeds Act 1856
+”.
+”.
