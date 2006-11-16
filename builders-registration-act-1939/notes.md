@@ -64,6 +64,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Land Information Authority Act 2006 s. 119 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 9.
 In this reprint the renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
 The Builders’ Registration Amendment Act 1986 s. 11(2) is a transitional provision that is of no further effect.
@@ -82,4 +83,18 @@ The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repe
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) had not come into operation. It reads as follows:
 “
 (2) Section 5AA(2)(a) of the Builders’ Registration Act 1939 is amended by deleting “, including rights under the Superannuation and Family Benefits Act 1938,”.
+”.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 119 had not come into operation. It reads as follows:
+“
+119.Certain references in other Acts to plans and diagrams amended
+(1) Other Acts are amended by deleting “Department within the meaning of the Transfer of Land Act 1893 Plan” in each place indicated in the Table to this section and inserting instead —
+“ Land Titles Office Plan ”.
+Table
+Builders’ Registration Act 1939 Schedule
+....................
+(2) Other Acts are amended by deleting “Department within the meaning of the Transfer of Land Act 1893 Diagram” in each place indicated in the Table to this section and inserting instead —
+“ Land Titles Office Diagram ”.
+Table
+Builders’ Registration Act 1939 Schedule
+....................
 ”.
