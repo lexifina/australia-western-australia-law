@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 October 2006 of the Public Works Act 1902 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Public Works Act 1902 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Works Act 1902 | 1902 (2 Edw. VII No. 47) | 20 Dec 1902 | 20 Dec 1902
@@ -59,6 +59,10 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 10 Div. 5 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 9: The Public Works Act 1902 as at 6 Oct 2006 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and Year | Assent | Commencement
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Roads Act 1911 which was repealed by the Road Districts Act 1919 which was repealed by the Local Government Act 1960 which is now cited as the Local Government (Miscellaneous Provisions) Act 1960. The main Act now dealing with local governments is the Local Government Act 1995.
 Repealed by the Dividing Fences Act 1961 s. 2(1).
@@ -92,4 +96,16 @@ The Statutes (Repeals and Minor Amendments) Act 2000 s. 35(2) and (3) read as fo
 (2) The purported exercise or performance by a Minister of the Crown other than the responsible Minister of any power conferred or duty imposed on the responsible Minister and purportedly delegated to the Minister of the Crown under section 5A(f) of the Act, as in force during the period beginning on 7 December 1993 and ending immediately before the commencement of this section, is validated and declared to have been lawfully exercised or performed by that Minister of the Crown.
 (3) In subsection (2) —
 “responsible Minister” means the Minister to whom the administration of the Act was committed by the Governor at the time of a purported delegation referred to in subsection (2).
+”.
+On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 s. 73 which gives effect to Sch. 1 it. 13 had not come into operation. They read as follows:
+“
+73.Various Acts amended (Sch. 1)
+Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
+”.
+Schedule 1 item 13 reads as follows:
+“
+Schedule 1 — Various Acts amended
+[s. 73]
+13.Public Works Act 1902
+s. 109(3) | Delete “until he can be conveniently taken before some Justice of the Peace to be dealt with according to law.” and insert instead — “ who shall as soon as practicable take him to a police officer or arrange for a police officer to attend. ”.
 ”.
