@@ -37,6 +37,7 @@ Short title | Number and year | Assent | Commencement
 Control of Vehicles (Off-road Areas) Act 1978 s. 11 | 117 of 1978 (as amended by No. 7 of 2002 s. 7) | 12 Dec 1978 | To be proclaimed (see s. 2)
 Road Traffic Amendment (Vehicle Licensing) Act 2001 Pt. 3 Div. 2 | 28 of 2001 | 21 Dec 2001 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Land Information Authority Act 2006 s. 128 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 On the date as at which this reprint was prepared, the Control of Vehicles (Off-road Areas) Act 1978 s. 11 (as amended by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 7) had not come into operation. It reads as follows:
 “
 11.Responsibility of owners
@@ -58,7 +59,15 @@ Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Local Government Department is now called the Department of Local Government and Regional Development.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Public Health Department is now called the Department of Health.
 Under the Health Legislation Amendment Act 1984 the former Commissioner of Public Health is now called the Commissioner of Health.
-Footnote no longer required.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 128 had not come into operation. It reads as follows:
+“
+128.Control of Vehicles (Off-road Areas) Act 1978 amended
+(1) The amendments in this section are to the Control of Vehicles (Off-road Areas) Act 1978.
+(2) Section 19(1)(a)(i) is amended by deleting “Lands and Surveys Department” and inserting instead —
+“
+Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5
+”.
+”.
 Footnote no longer required.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 11(2) and (3) read as follows:
 “
