@@ -18,6 +18,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
+Criminal Investigation (Consequential Provisions) Act 2006 Pt. 13 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
@@ -32,4 +33,16 @@ Schedule 3 — Consequential amendments
 (1) The amendments in this clause are to the Prostitution Act 2000.
 (2) Section 29(7) is amended in the definition of “registered nurse” by deleting “Part 3 of the Nurses Act 1992.” and inserting instead —
 “ Part 4 of the Nurses and Midwives Act 2006. ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 Pt. 13 had not come into operation. It reads as follows:
+“
+Part 13 — Prostitution Act 2000 amended
+71.The Act amended in this Part
+The amendments in this Part are to the Prostitution Act 2000.
+72.Section 34 replaced
+Section 34 is repealed and the following section is inserted instead —
+“
+34.Powers to assist seizing things
+Sections 146 to 150 of the Criminal Investigation Act 2006, with any necessary changes, apply to and in respect of seizing a thing that is or may be seized under this Act.
+”.
 ”.
