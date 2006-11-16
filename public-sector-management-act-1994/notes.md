@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 25 August 2006 of the Public Sector Management Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Public Sector Management Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Sector Management Act 1994 | 31 of 1994 | 8 Jul 1994 | s. 3, 16, 19, 20, 26, 28 and Sch. 4: 20 Aug 1994 (see s. 2 and Gazette 19 Aug 1994 p. 4155); s. 4-6, Pt. 2 Div. 1, 2 and 4, s. 17, 18, 21-25 and 27, Pt. 3-6, 8, and 9 and Sch. 1-3, 5 and 6: 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948); Pt. 7: 1 Jan 1996 (see s. 2 and Gazette 24 Nov 1995 p. 5389)
@@ -83,6 +83,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Land Information Authority Act 2006 s. 187 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 Now known as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The amendment in the Western Australian Greyhound Racing Association Amendment Act 1998 s. 20 is not included because of an error in the reference to the item to be amended. The same amendment was made by the Statutes (Repeals and Minor Amendments) Act 2000 s. 34(2) and then the provision amended was again amended by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 221(3).
@@ -91,4 +92,13 @@ On the date on which this reprint was prepared, the State Superannuation (Transi
 59.Public Sector Management Act 1994 amended
 The Public Sector Management Act 1994 is amended as follows:
 (a) by repealing section 20(1);
+”.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 187 had not come into operation. It reads as follows:
+“
+187.Public Sector Management Act 1994 Schedule 2 amended
+(1) The amendment in this section is to the Public Sector Management Act 1994.
+(2) Schedule 2 is amended by inserting after item 58 the following item —
+“
+59Western Australian Land Information Authority, established by the Land Information Authority Act 2006
+”.
 ”.
