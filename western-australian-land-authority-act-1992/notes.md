@@ -23,6 +23,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 72 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Land Information Authority Act 2006 s. 119 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 The Western Australian Land Authority Amendment Act 1998 s. 19(3) and (4) read as follows:
 “
 (3) Despite subsections (1) and (2), on and from the commencement of this Act —
@@ -79,4 +80,18 @@ As at the date on which this reprint was prepared, the State Superannuation (Tra
 “
 72.Western Australian Land Authority Act 1992 amended
 Clause 2(4) in Schedule 4 to the Western Australian Land Authority Act 1992 is amended by deleting “(including rights under the Superannuation and Family Benefits Act 1938)”.
+”.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 119 had not come into operation. It reads as follows:
+“
+119.Certain references in other Acts to plans and diagrams amended
+(1) Other Acts are amended by deleting “Department within the meaning of the Transfer of Land Act 1893 Plan” in each place indicated in the Table to this section and inserting instead —
+“ Land Titles Office Plan ”.
+Table
+....................
+Western Australian Land Authority Act 1992 Schedule 2
+(2) Other Acts are amended by deleting “Department within the meaning of the Transfer of Land Act 1893 Diagram” in each place indicated in the Table to this section and inserting instead —
+“ Land Titles Office Diagram ”.
+Table
+....................
+Western Australian Land Authority Act 1992 Schedule 2
 ”.
