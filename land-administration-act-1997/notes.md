@@ -23,7 +23,7 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Land Administration Act 1997 as at 24 Jun 2005 (includes amendments listed above)
 Financial Administration Legislation Amendment Act 2005 s. 42 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
-Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2005 p. 1153)
+Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 Water Legislation Amendment (Competition Policy) Act 2005 Pt. 4 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 Pt. 2 Div. 2 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 13 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
@@ -37,6 +37,7 @@ Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | 1 Dec 2006 (see s
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
+Land Information Authority Act 2006 s. 139 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 On the date as at which this reprint was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 “
 4.Section 6A inserted
@@ -439,4 +440,11 @@ Schedule 1 — Consequential amendments
 “
 development control area or Riverpark as defined in the Swan and Canning Rivers Management Act 2006,
 ”.
+”.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 139 had not come into operation. It reads as follows:
+“
+139.Land Administration Act 1997 amended
+(1) The amendments in this section are to the Land Administration Act 1997.
+(2) Section 3(1) is amended in the definition of ““Registrar” or “Registrar of Titles”” by deleting “appointed under” and inserting instead —
+“ referred to in ”.
 ”.
