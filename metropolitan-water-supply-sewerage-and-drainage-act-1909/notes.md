@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 February 2006 of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Metropolitan Water Supply, Sewerage, and Drainage Act 1909 | 43 of 1909 | 21 Dec 1909 | 24 Jan 1910 in Perth, Fremantle, and Claremont Districts of the Metropolitan Water, Sewerage and Drainage Area (see s. 2 and Gazette 21 Jan 1910 p. 47)
@@ -68,7 +68,8 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Under the Public Sector Management Act 1994 the names of departments can be changed. At the time of this reprint the former Department of Lands is called the Department of Land Information and its administrative head is called the chief executive officer.
+Land Information Authority Act 2006 s. 145 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Under the Public Sector Management Act 1994 the names of departments can be changed. At the time of this compilation the former Department of Lands is called the Department of Land Information and its administrative head is called the chief executive officer.
 Repealed by the Metropolitan Water Supply, Sewerage, and Drainage Act Amendment Act 1963 s. 129.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 5 and 8.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
@@ -78,7 +79,7 @@ The Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 50(2) reads as f
 (2) Any by-laws made and in operation under section 57B(1) of the Act as in force immediately before the commencement of this section continue in operation and have effect for all purposes as if made under that subsection as amended by this section.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
 Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
@@ -92,5 +93,20 @@ s. 57D(2) | Delete “Clerk of the Local Court to which the appeal is made” an
 s. 57D(3) | Delete “Local Court” and insert instead — “ Magistrates Court ”. Delete the comma after paragraph (c) and the rest of the subsection and insert instead a full stop.
 s. 57D(4) s. 57D(5) | In each provision, delete “Local Court” and insert instead — “ Magistrates Court ”.
 ”.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 145 had not come into operation. It reads as follows:
+“
+145.Metropolitan Water Supply, Sewerage, and Drainage Act 1909 amended
+(1) The amendments in this section are to the Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
+(2) Section 114 is amended by deleting “Department within the meaning of the Transfer of Land Act 1893 or the Registry of Deeds” and inserting instead —
+“
+records of the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5
+”.
+(3) Section 165(2) is amended as follows:
+(a) in subparagraph (a), by deleting “or deputy”;
+(b) in subparagraph (b), by deleting “or his deputy,”;
+(c) by deleting subparagraph (c) and inserting instead —
+“
+(c) the chief executive officer of the department principally assisting in the administration of the Land Administration Act 1997 that any person is registered in the department as the owner, occupier, or lessee of any land,
+”.
+”.
 The amendment to s. 57D by the Courts Legislation Amendment and Repeal Act 2004 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 273.
