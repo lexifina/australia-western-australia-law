@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 May 2006 of the Licensed Surveyors Act 1909 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Licensed Surveyors Act 1909 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Licensed Surveyors Act 1909 | 25 of 1909 | 29 Oct 1909 | 1 Jan 1910 (see s. 1)
@@ -27,6 +27,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration) Act 1987 Pt. IX | 126 of 1987 | 31 Dec 1987 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Land Information Authority Act 2006 s. 143 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 The Acts Amendment and Repeal (Competition Policy) Act 2003 s. 40(7)-(9) reads as follows:
 “
 (7) A person appointed under section 4 of the Licensed Surveyors Act 1909 as a member of the Land Surveyors Licensing Board and holding office immediately before the commencement of this section continues to hold office under the first-mentioned section during the period from that commencement until the following 31 December (“the transitional period”) as if this section had not been enacted.
@@ -101,3 +102,16 @@ s. 21(1b) s. 21(1c) | In each provision, delete “a Local Court” and insert i
 s. 21(1b) | Delete “the clerk of”.
 ”.
 The amendments to section 21(1b) and (1c) in the Courts Legislation Amendment and Repeal Act 2004 have not been proclaimed because those subsections were repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 562.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 143 had not come into operation. It reads as follows:
+“
+143.Licensed Surveyors Act 1909 amended
+(1) The amendments in this section are to the Licensed Surveyors Act 1909.
+(2) Section 3(1) is amended in the definition of “Authorised Survey”, in paragraph (d), by deleting “for acceptance or adoption by that department” and inserting instead —
+“
+or the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5 for acceptance or adoption
+”.
+(3) Section 18 is amended by inserting after “department” —
+“
+or the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5
+”.
+”.
