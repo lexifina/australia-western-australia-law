@@ -39,6 +39,10 @@ Reprint 4: The Energy Operators (Powers) Act 1979 as at 23 Sep 2005 (includes am
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Energy Operators (Powers) Amendment Act 2006 s. 4 | 8 of 2006 | 5 May 2006 | 5 May 2006 (see s. 2)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and Year | Assent | Commencement
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The State Electricity Commission Act 1945 was repealed by this Act.
 The Energy Operators (Powers) Act 1979 is affected by the Dampier to Bunbury Pipeline Act 1997 Sch. 4 Div. 3 it. 9, which reads as follows:
@@ -273,4 +277,17 @@ the energy operator, as mentioned in subsection (3), is to be presumed to be cor
 (3) In this section —
 “appropriate network development” means “appropriate network development” as defined in section 58(3a) or section 61(1a) of the principal Act, as the case may require;
 “Western Power Corporation” has the meaning given to that term in section 4(1) of the principal Act.
+”.
+On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 s. 73 which gives effect to Sch. 1 it. 4 had not come into operation. They read as follows:
+“
+73.Various Acts amended (Sch. 1)
+Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
+”.
+Schedule 1 item 4 reads as follows:
+“
+Schedule 1 — Various Acts amended
+[s. 73]
+4.Energy Operators (Powers) Act 1979
+s. 74(2) | Delete “or convey him before a justice to be dealt with” and insert instead — “ who shall deal with him ”.
+s. 78 | Delete “or convey him before a Justice to be dealt with” and insert instead — “ who shall deal with him ”.
 ”.
