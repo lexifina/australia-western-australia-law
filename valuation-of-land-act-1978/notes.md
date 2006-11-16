@@ -39,8 +39,139 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 4: The Valuation of Land Act 1978 as at 10 Feb 2006 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Land Information Authority Act 2006 s. 167-182 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 Under the Land Administration Act 1997 s. 281(3), a reference to the Land Act 1933 in a written law is, unless the contrary intention appears, to be read and construed as being a reference to the Land Administration Act 1997.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 167-182 had not come into operation. They read as follows:
+“
+167.Section 4 amended
+Section 4(1) is amended as follows:
+(a) by deleting the definitions of “section” and “subsection”;
+(b) by inserting in its appropriate alphabetical position —
+“
+“Authority” means the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5;
+”.
+168.Section 6 replaced
+Section 6 is repealed and the following section is inserted instead —
+“
+6.Valuer-General
+(1) The Governor may designate a person to be the Valuer-General under this Act.
+(2) A person cannot be the Valuer-General unless —
+(a) the person is a member of the Authority’s staff; and
+(b) the person has, in the opinion of the Minister, the qualifications and experience appropriate to the exercise of the powers, and the performance of the duties and functions, conferred or imposed upon the Valuer-General by or under this Act.
+(3) The power to designate a person to be the Valuer-General includes —
+(a) the power to revoke a designation previously made under that power; and
+(b) the power to designate a person to perform functions of another person who is designated to be the Valuer-General when it is impractical for that other person to perform the functions.
+(4) When the Land Information Authority Act 2006 section 168 comes into operation the person who, immediately before then, is the Valuer-General becomes the Valuer-General as if designated under subsection (1) for the balance of the person’s term of office.
+”.
+169.Section 9 amended
+Section 9 is amended by deleting “Department within the meaning of the Transfer of Land Act 1893, the office for the Registration of Deeds, any office of the Department of Lands and Surveys and the Department of Mines and” and inserting instead —
+“
+records of the Authority, a department principally assisting in the administration of the Land Administration Act 1997 or the Mining Act 1978, or
+”.
+170.Section 13 amended
+Section 13(1) is amended by inserting after “this Act” —
+“
+and to the Authority and every person who is or has been a member of the Authority’s board of management or of a committee appointed by the Authority or is or has been a member of the Authority’s staff
+”.
+171.Section 14 amended
+Section 14(2) is amended as follows:
+(a) by deleting “when in his opinion” and inserting instead —
+“
+being of the opinion after consulting the Valuer-General that
+”;
+(b) by deleting “Valuer-General to” and inserting instead —
+“ Authority to ”.
+172.Section 16 amended
+(1) Section 16(1) is amended by deleting “The Valuer-General may engage under contract for services” and inserting instead —
+“
+The Authority’s employing authority has to act on the advice of the Valuer-General whenever it exercises its powers under the Public Sector Management Act 1994 section 100(1) relating to the engagement under contract for services of
+”.
+(2) Section 16(2) is amended by deleting “The Valuer-General shall not engage a person under this section as a valuer” and inserting instead —
+“
+A person cannot be engaged under contract for services as a valuer to assist in the performance of the Valuer-General’s duties and functions
+”.
+(3) Section 16(3) is amended by deleting “by the Valuer-General under this section” and inserting instead —
+“
+under contract for services as a valuer to assist in the performance of the Valuer-General’s duties and functions
+”.
+(4) Section 16(4) is repealed.
+173.Section 16A amended
+Section 16A(4) is amended in the definition of “staff of the Valuer-General” by deleting “appointed under section 6(1)” and inserting instead —
+“ provided by the Authority to assist the Valuer-General ”.
+174.Section 16B inserted
+After section 16A the following section is inserted in Part II —
+16B.Yearly report by Valuer-General
+(1) The Valuer-General is required, after the end of each financial year of the Authority, to submit to the Minister a report on the performance of the Valuer-General’s functions during the year, containing —
+(a) information about the accuracy, currency, and completeness of valuation rolls and about any significant matters associated with the making of other valuations by the Valuer-General during the year; and
+(b) a summary of —
+(i) the number, if any, and the nature of objections received by the Valuer-General under this Act during the year, and the outcomes of objections, if any, resolved during the year; and
+(ii) the number, if any, and the nature of proceedings under the State Administrative Tribunal Act 2004 commenced during the year for the review of decisions of the Valuer-General, and the outcomes of review proceedings, if any, resolved during the year.
+(2) The Valuer-General has to submit the report that subsection (1) requires within the period of 2 months after the last day of the year to which the report relates.
+(3) When submitting the report to the Minister, the Valuer-General has to give a copy of the report to the Authority’s chief executive officer for submission to the Authority’s board of management.
+”.
+175.Section 25 amended
+Section 25(8) is amended as follows:
+(a) by deleting “he” and inserting instead —
+“ the Authority ”;
+(b) by deleting “Valuer-General” before “determines” and inserting instead —
+“ Authority ”;
+(c) by deleting “Valuer-General” before “would have raised” and inserting instead —
+“ Authority ”.
+176.Section 28 replaced
+Section 28 is repealed and the following section is inserted instead —
+“
+28.Custody, inspection and availability of valuation rolls
+(1) After completing a valuation roll for a valuation district or making any addition, deletion, correction or amendment to it the Valuer-General is to provide a copy of the original valuation roll to the Authority.
+(2) The Authority is required to —
+(a) make true copies of a valuation roll available for public inspection at such places, at such times and upon payment of such fee as may be prescribed; and
+(b) furnish to each rating or taxing authority that is obliged to adopt or use any valuations entered in a valuation roll and pays any fee that may be prescribed a true copy of the valuation roll or of any addition, deletion, correction or amendment to it, as the case may be.
+(3) A copy of a valuation roll and of any addition, deletion, correction or amendment to it furnished to a rating or taxing authority may be in writing or transcribed upon magnetic tape or in such other form as the Authority and the rating or taxing authority may agree.
+”.
+177.Section 29 amended
+(1) Section 29(1) is amended by deleting “Valuer-General” and inserting instead —
+“ Authority ”.
+(2) Section 29(2) is amended as follows:
+(a) by inserting before each of “copy” and “extract” —
+“ certified ”;
+(b) by deleting “certified by the Valuer-General”.
+(3) At the end of the section the following subsection is inserted —
+“
+(3) In this section —
+“certified” means certified by the Valuer-General.
+”.
+178.Section 38 inserted
+After section 37 the following section is inserted —
+“
+38.Charges for making valuations under Part III
+The Authority may, after the Valuer-General makes or causes to be made valuations under Part III, raise against each rating or taxing authority required to use the valuations a charge in accordance with the pricing principles fixed in the Land Information Authority Act 2006 section 16.
+”.
+179.Section 39 amended
+(1) Section 39(1) is amended by inserting after “make valuations of land for” —
+“ , and provide valuation advice to ”.
+(2) Section 39(2) is repealed and the following subsection is inserted instead —
+“
+(2) The Authority may determine the charge payable to it for a valuation made, or for advice given, under subsection (1) but, in doing so, has to accord with the pricing principles fixed in the Land Information Authority Act 2006 section 16.
+”.
+180.Section 39A replaced
+Section 39A is repealed and the following section is inserted instead —
+“
+39A.Authority may provide goods and services
+(1) Subsection (2) limits the extent to which the Authority may, under the Land Information Authority Act 2006 and otherwise than as authorised by this Act, provide goods and services derived from or related to the performance of the Valuer-General’s functions under this Act (called “valuation related goods and services” in this section).
+(2) The exception in section 13(2) does not apply to the provision by the Authority of valuation related goods and services.
+”.
+181.Section 40 replaced
+Section 40 is repealed and the following section is inserted instead —
+“
+40.Money received by Valuer-General
+The Valuer-General is to pay to the Authority any money paid to the Valuer-General under this Act.
+”.
+182.Section 48 amended
+Section 48(b) is amended by deleting “office of the Valuer-General.” and inserting instead —
+“ office of the Authority. ”.
+”.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Lands and Surveys is called the Department of Land Information.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources.
 The name of the Local Government Act 1960 was changed to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
