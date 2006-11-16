@@ -45,6 +45,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prisons Amendment Act 2003 s. 5, 6 and 8 | 24 of 2003 | 24 Apr 2003 | To be proclaimed (see s. 2)
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
 Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference to the Western Australian Prisons Department was, unless the contrary intention appears, to be read and construed as a reference to the Department of Justice.
@@ -100,4 +101,16 @@ After section 110(1)(ra) the following paragraph is inserted —
 “
 (rb) requiring a visitor as a condition of entry to a prison to prove his or her identity in a specified manner, including by means of a fingerprint, palm print, eye print, voiceprint or other physical or personal characteristic;
 ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 s. 73 which gives effect to Sch. 1 it. 11 had not come into operation. They read as follows:
+“
+73.Various Acts amended (Sch. 1)
+Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
+”.
+Schedule 1 item 11 reads as follows:
+“
+Schedule 1 — Various Acts amended
+[s. 73]
+11.Prisons Act 1981
+s. 3(1) | Amend the definition of “police officer” as follows: (a)insert “or” after paragraph (a); (b)delete paragraph (b) and “or” after it.
 ”.
