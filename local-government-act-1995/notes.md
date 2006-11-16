@@ -35,9 +35,10 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Amendment (Vehicle Licensing) Act 2001 s. 33 | 28 of 2001 (as amended by No. 45 of 2002 s. 29) | 21 Dec 2001 | To be proclaimed (see s. 2)
+Road Traffic Amendment (Vehicle Licensing) Act 2001 s. 33 | 28 of 2001 | 21 Dec 2001 | To be proclaimed (see s. 2)
 Local Government Amendment Act 2004 s. 16(1), (2), (3) and (5), 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Land Information Authority Act 2006 s. 144 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under s. 7(4)(e) of the Reprints Act 1984. Schedule 9.2 cl. 4 reads as follows:
 “
 4.Parts II to VII repealed
@@ -313,3 +314,18 @@ then, despite section 170B, the regional council shall, in respect of that perso
 Nothing in this Part prevents a municipality from participating, in respect of an employee of the municipality, in a superannuation scheme in addition to either the industry scheme or the City of Perth scheme (as the case may be) if the municipality and the employee agree to participate in that other scheme.
 ”.
 References to the Executive Director were replaced by references to the Departmental CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 144 had not come into operation. It reads as follows:
+“
+144.Local Government Act 1995 amended
+(1) The amendments in this section are to the Local Government Act 1995.
+(2) Section 9.41(1)(b) is amended by deleting “or Deputy”.
+(3) Section 9.69 is amended as follows:
+(a) in subsection (1), by deleting the definition of “Department” and inserting instead —
+“
+“Authority” means the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5;
+”;
+(b) in each of subsections (2) and (4), by deleting “registered or deposited in the Department” and inserting instead —
+“ deposited with the Authority ”.
+(4) Schedule 6.3 is amended in each of clause 1(1)(a) and (3) by deleting “by the Registrar of Deeds” and inserting instead —
+“ under the Registration of Deeds Act 1856 ”.
+”.
