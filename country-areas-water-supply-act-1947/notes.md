@@ -54,12 +54,39 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Water Legislation Amendment (Competition Policy) Act 2005 Pt. 2 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
 Reprint 7: The Country Areas Water Supply Act 1947 as at 7 Apr 2006 (includes amendments listed above except those listed in the Water Legislation Amendment (Competition Polity) Act 2005)
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 452(1) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Land Information Authority Act 2006 s. 129 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by section 4 of this Act.
 Repealed by the Mining Act 1978.
 Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Mines is, unless the contrary intention appears, to be read and construed as a reference to the Department of Industry and Resources.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 129 had not come into operation. It reads as follows:
+“
+129.Country Areas Water Supply Act 1947 amended
+(1) The amendments in this section are to the Country Areas Water Supply Act 1947.
+(2) Section 85(1) is amended by deleting “Department within the meaning of the Transfer of Land Act 1893 or the Registry of Deeds or in the Department of Mines” and inserting instead —
+“
+records of the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5 or of the department principally assisting in the administration of the Mining Act 1978
+”.
+(3) Section 90(1)(b) and (c) are each amended by deleting “in the Office of the Registrar of Deeds” and inserting instead —
+“ registered under the Registration of Deeds Act 1856 ”.
+(4) Section 102 is amended as follows:
+(a) in subsection (3), by deleting “of the Office of the Registrar of Deeds” and inserting instead —
+“ under the Registration of Deeds Act 1856 ”;
+(b) in subsection (4), by deleting “in the Department within the meaning of the Transfer of Land Act 1893 or the Office of the Registrar of Deeds.” and inserting instead —
+“ as referred to in subsection (3). ”.
+(5) Section 120(1)(b) is amended as follows:
+(a) in subparagraph (i), by deleting “or deputy”;
+(b) in subparagraph (ii), by deleting “or his deputy”;
+(c) by deleting subparagraphs (iii) and (iv) and “or” after each of them and inserting instead —
+“
+(iii) the chief executive officer of the department principally assisting in the administration of the Land Administration Act 1997 that any person is registered in that department as the owner, occupier or lessee of any land; or
+(iv) the chief executive officer of the department principally assisting in the administration of the Mining Act 1978 that any person is registered in that department as the lessee or holder of any mining lease or other mining tenement; or
+”.
+”.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the date of this reprint the former Department of Lands and Surveys is called the Department of Land Information.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973 s. 4.
