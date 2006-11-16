@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 August 2006 of the Land Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Tax Assessment Act 2002 | 52 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -13,10 +13,14 @@ Revenue Laws Amendment Act (No. 2) 2005 Pt. 2 (s. 3-5) | 12 of 2005 | 30 Aug 200
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Revenue Laws Amendment Act 2006 Pt. 4 (s. 19-30) | 31 of 2006 | 4 Jul 2006 | s. 20-27 and 29 and 30: 1 Jul 2006 (see s. 2(5)); s. 19 and 28: 4 Jul 2006 (see s. 2(1))
 Reprint 1: The Land Tax Assessment Act 2002 as at 11 Aug 2006 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Land Information Authority Act 2006 s. 142 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time this reprint was prepared, the former Department of Land Administration was called the Department of Land Information.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time this compilation was prepared, the former Department of Land Administration was called the Department of Land Information.
 Repealed by the Land Administration Act 1997 s. 281.
 The Business Tax Review (Assessment) Act 2003 s. 7 and s. 10 read as follows:
 “
@@ -28,3 +32,21 @@ The Business Tax Review (Assessment) Act 2003 s. 7 and s. 10 read as follows:
 The Commissioner of State Revenue must make any reassessment necessary to give effect to the amendments effected by this Part.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 142 had not come into operation. It reads as follows:
+“
+142.Land Tax Assessment Act 2002 amended
+(1) The amendments in this section are to the Land Tax Assessment Act 2002.
+(2) The Glossary is amended in clause 1 in the definition of “registered” by deleting “Department within the meaning of the Transfer of Land Act 1893, the Registry of Deeds” and inserting instead —
+“
+Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5
+”.
+(3) The Glossary is amended in clause 2 as follows:
+(a) in subclause (1)(a), by deleting “publicly exhibited in the public office of the Department of Land Administration, or deposited in the Department within the meaning of the Transfer of Land Act 1893 or Registry of Deeds” and inserting instead —
+“
+deposited with the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5
+”;
+(b) in subclause (2)(e), by deleting “in the Department of Land Administration, or the Department within the meaning of the Transfer of Land Act 1893 or Registry of Deeds;” and inserting instead —
+“
+with the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5;
+”.
+”.
