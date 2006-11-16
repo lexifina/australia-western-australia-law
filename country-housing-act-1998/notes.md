@@ -18,6 +18,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 22 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Land Information Authority Act 2006 s. 130 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e) from this reprint.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Treasury Department is read and construed as a reference to the Department of Treasury and Finance.
 Repealed by the Industry and Technology Development Act 1998.
@@ -46,4 +47,11 @@ On the date as at which this reprint was prepared, the Housing Societies Repeal 
 22.Country Housing Act 1998 amended
 (1) The amendment in this section is to the Country Housing Act 1998.
 (2) Section 43 is repealed.
+”.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 130 had not come into operation. It reads as follows:
+“
+130.Country Housing Act 1998 amended
+(1) The amendments in this section are to the Country Housing Act 1998.
+(2) Schedule 2 clause 8(1) is amended by deleting “Land Act 1933” and inserting instead —
+“ Land Administration Act 1997 ”.
 ”.
