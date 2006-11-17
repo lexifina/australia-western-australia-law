@@ -221,6 +221,7 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Reprint 14: The Constitution Acts Amendment Act 1899 as at 21 Apr 2006 (includes amendments listed above except those in the Tobacco Products Control Act 2006 s. 126)
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
  | Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 4 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
+ | Parliamentary Legislation Amendment Act 2006 Pt. 2 | 56 of 2006 | 16 Nov 2006 | 17 Nov 2006 (see s. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -237,6 +238,7 @@ Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To b
 Parole and Sentencing Legislation Amendment Act 2006 s. 89 | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
+Land Information Authority Act 2006 s. 185 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -503,5 +505,14 @@ Schedule 3 — Consequential amendments
 (2) Schedule V Part 3 is amended by deleting the item commencing “The Nurses Board” and inserting instead —
 “
 The Nurses and Midwives Board of Western Australia established under the Nurses and Midwives Act 2006.
+”.
+”.
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 185 had not come into operation. It reads as follows:
+“
+185.Constitution Acts Amendment Act 1899 Schedule V amended
+(1) The amendment in this section is to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended by inserting before the item commencing “The board of management of the Western Australian Sports Centre Trust” the following item —
+“
+The board of management of the Western Australian Land Information Authority established by the Land Information Authority Act 2006.
 ”.
 ”.

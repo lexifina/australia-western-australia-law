@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 June 2005 of the Salaries and Allowances Act 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Salaries and Allowances Act 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Salaries and Allowances Tribunal Act 1975 | 27 of 1975 | 16 May 1975 | Act other than s. 13: 16 May 1975 (see s. 2(1)); s. 13: 8 Aug 1975 (see s. 2(2) and Gazette 12 Aug 1975 p. 2951)
@@ -42,6 +42,7 @@ Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Fe
 Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
 Electoral Amendment and Repeal Act 2005 s. 10 | 1 of 2005 | 20 May 2005 | 20 May 2005 (see s. 2)
 Reprint 4: The Salaries and Allowances Act 1975 as at 10 Jun 2005 (includes amendments listed above)
+Parliamentary Legislation Amendment Act 2006 Pt. 3 | 56 of 2006 | 16 Nov 2006 | 17 Nov 2006 (see s. 2)
 The provision in this Act repealing the Parliamentary Salaries and Allowances Act 1967 was repealed by the Parliamentary Superannuation Legislation Amendment Act 2000 s. 22.
 Now see section 52 of the Interpretation Act 1984.
 The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
