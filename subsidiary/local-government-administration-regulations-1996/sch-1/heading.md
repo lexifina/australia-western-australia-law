@@ -112,7 +112,7 @@ Section 5.86 of the Act
 (a)section 5.86(1)
 Address of property | Manner of disposition | Date of disposition | Nature of interest retained
 (b)section 5.86(2)
-Address of property | Person by whom property disposed | Person to whom property disposed | Manner of disposition | Date of dispo- sition | Nature of interest obtained
+Address of property | Person by whom property disposed | Person to whom property disposed | Manner of disposition | Date of disposition | Nature of interest obtained
 9.Discretionary disclosures
 Section 5.87 of the Act
 ................................................................................................................................
