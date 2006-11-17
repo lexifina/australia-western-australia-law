@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 June 2006 of the Subiaco Redevelopment Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Subiaco Redevelopment Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Subiaco Redevelopment Act 1994 | 35 of 1994 | 8 Jul 1994 | 24 Aug 1994 (see s. 2 and Gazette 23 Aug 1994 p. 4364)
@@ -17,6 +17,10 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Subiaco Redevelopment (Subtracted Area) Regulations 2005 r. 3 published in Gazette 16 Sep 2005 p. 4318-21 | 17 Sep 2005 (see r. 3(2) and Gazette 16 Sep 2005 p. 4322)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 2: The Subiaco Redevelopment Act 1994 as at 2 Jun 2006 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Subiaco Redevelopment (Subtracted Area - Stage 2) Regulations 2006 r. 3 published in Gazette 17 Nov 2006 p. 4764-8 | Operative when an order under r. 4 takes effect (see r. 3(2))
 Under section 112(1) of the Public Sector Management Act 1994 references to the Public Service Act 1978 may be construed as references to the Public Sector Management Act 1994 (No. 31 of 1994).
 The Planning Legislation Amendment Act 1996 s. 39(2), (3) and (4) read as follows:
 “
@@ -29,3 +33,16 @@ The Statutes (Repeals and Minor Amendments) Act 1997 s. 116(2) reads as follows:
 (2) The person appointed and holding office under section 7(1)(c) as a member of the Subiaco Redevelopment Authority immediately before the commencement of this section continues to hold office after that commencement as if appointed as a member of the Subiaco Redevelopment Authority under section 7(1)(a).
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Subiaco Redevelopment (Subtracted Area – Stage 2) Regulations 2006 r. 3 had not come into operation. It reads as follows:
+“
+3.Schedule 1 to the Act replaced
+(1) In this regulation —
+“Schedule 1” means the Subiaco Redevelopment Act 1994 Schedule 1.
+(2) When an order under regulation 4 takes effect, Schedule 1 is repealed and the following Schedule is inserted instead —
+“
+Schedule 1
+[Section 4]
+Redevelopment Area
+All of the land outlined by a broken black and white line on Plan No. 3.1786/2 held at the office of the Authority. For guidance, the redevelopment area is indicated in the following representation of Plan No. 3.1786/2 —
+”.
+”.
