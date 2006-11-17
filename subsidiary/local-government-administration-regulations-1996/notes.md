@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Administration) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 17 November 2006 of the Local Government (Administration) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Local Government (Administration) Regulations 1996 | 24 Jun 1996 p. 2799-826 | 1 Jul 1996 (see r. 2)
@@ -12,6 +12,7 @@ Local Government (Administration) Amendment Regulations 2005 | 31 Mar 2005 p. 10
 Local Government (Administration) Amendment Regulations (No. 2) 2005 | 31 Mar 2005 p. 1037-41 | 7 May 2005 (see r. 2)
 Local Government (Administration) Amendment Regulations (No. 3) 2005 | 13 May 2005 p. 2086 | 13 May 2005
 Local Government (Administration) Amendment Regulations (No. 4) 2005 | 19 Aug 2005 p. 3871-3 | 19 Aug 2005
+Reprint 2: The Local Government (Administration) Regulations 1996 as at 17 Nov 2006 (includes amendments listed above)
 The Local Government (Administration) Amendment Regulations 2005 r. 15 reads as follows:
 “
 15.Increased minimum fees and allowances not mandatory until 1 July 2005
