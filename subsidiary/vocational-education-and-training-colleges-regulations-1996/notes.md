@@ -20,6 +20,7 @@ Vocational Education and Training Amendment Regulations 2004 | 26 Nov 2004 p. 53
 Reprint 2: The Vocational Education and Training Regulations 1996 as at 17 Dec 2004 (includes amendments listed above)
 Vocational Education and Training Amendment Regulations 2005 | 23 Dec 2005 p. 6246-50 | 23 Dec 2005
 Vocational Education and Training Amendment Regulations 2006 | 20 Oct 2006 p. 4467-9 | 20 Oct 2006
+Vocational Education and Training Amendment Regulations (No. 2) 2006 | 24 Nov 2006 p. 4813-14 | 24 Nov 2006
 Formerly referred, incorrectly, to the Student and Youth Allowances Act 1973 of the Commonwealth. The correct short title of the Act was the Student and Youth Assistance Act 1973. That short title was changed to the Student Assistance Act 1973 by the Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 of the Commonwealth. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Repealed by the Vocational Education and Training Act 1996.
 Repealed by the School Education Act 1999.
