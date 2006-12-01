@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Trading Concerns (Authorisation) Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 December 2006 of the State Trading Concerns (Authorisation) Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 State Trading Concerns (Authorization) Regulations 1998 | 17 Apr 1998 p. 2105 | 17 Apr 1998
@@ -11,7 +11,7 @@ State Trading Concerns (Authorization) Amendment Regulations (No. 3) 1999 | 6 Ju
 State Trading Concerns (Authorization) Amendment Regulations (No. 2) 1999 | 13 Jul 1999 p. 3173-4 | 13 Jul 1999
 State Trading Concerns (Authorization) Amendment Regulations (No. 4) 1999 | 31 Aug 1999 p. 4241-4 | 31 Aug 1999
 State Trading Concerns (Authorization) Amendment Regulations (No. 5) 1999 | 21 Jan 2000 p. 345-6 | 21 Jan 2000
-State Trading Concerns (Authorization) Amendment Regulations 2000 | 18 Feb 2000 p. 915-17 (Correction in Gazette 29 Feb 2000 p. 996) | 18 Feb 2000
+State Trading Concerns (Authorization) Amendment Regulations 2000 | 18 Feb 2000 p. 915-17 (correction 29 Feb 2000 p. 996) | 18 Feb 2000
 State Trading Concerns (Authorization) Amendment Regulations (No. 2) 2000 | 5 May 2000 p. 2139-40 | 5 May 2000
 Reprint of the State Trading Concerns (Authorization) Regulations 1998 as at 15 Sep 2000 (includes amendments listed above)
 State Trading Concerns (Authorisation) Amendment Regulations (No. 5) 2000 | 3 Nov 2000 p. 6108-9 | 3 Nov 2000
@@ -37,4 +37,6 @@ State Trading Concerns (Authorisation) Amendment Regulations (No. 2) 2004 | 1 Oc
 State Trading Concerns (Authorisation) Amendment Regulations 2005 | 15 Jul 2005 p. 3303-5 | 15 Jul 2005
 State Trading Concerns (Authorisation) Amendment Regulations (No. 2) 2005 | 12 Aug 2005 p. 3657 | 12 Aug 2005
 State Trading Concerns (Authorisation) Amendment Regulations (No. 3) 2005 | 15 Nov 2005 p. 5620 | 15 Nov 2005
-State Trading Concerns (Authorisation) Amendment Regulations (No. 4) 2005 | 17 Mar 2006 p. 1028 | 17 Mar 2006
+State Trading Concerns (Authorisation) Amendment Regulations (No. 4) 2005 | 17 Mar 2006 p. 1028 | 17 Mar 2006 (see r. 2)
+Reprint 3: The State Trading Concerns (Authorisation) Regulations 1998 as at 1 Dec 2006 (includes amendments listed above)
+Under the Public Sector Management Act 1994 departments can be established and named. At the time this reprint was prepared, the designation of the department known as the Department of Justice has been altered to the Department of the Attorney General and the Department of Corrective Services is established.

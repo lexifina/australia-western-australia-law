@@ -48,7 +48,7 @@ The provision by the Department of Consumer and Employment Protection —
 (ii) the sale or provision of advertising opportunities, or opportunities having a purpose similar to advertising,
 relating to Worksafe Western Australia.
 Department of Environment
-The provision by the Department of Environment of goods information or intellectual property, scientific, technical, educational, training, management or advisory services relating to activities it carries out.
+The provision by the Department of Environment of goods, information or intellectual property, scientific, technical, educational, training, management or advisory services relating to activities it carries out.
 The provision or sale by the Department of Environment of advertising opportunities, or opportunities having a purpose similar to advertising in relation to its activities.
 Department of Fisheries
 The sale by the Department of Fisheries of publications relating to fisheries matters.
