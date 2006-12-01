@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Metropolitan Water Authority (Miscellaneous) By-laws 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 December 2006 of the Metropolitan Water Authority (Miscellaneous) By-laws 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Metropolitan Water Authority (Rates and Charges) By-laws 1982 | 18 Jun 1982 p. 2025-9 | 1 Jul 1982 (see bl. 2)
@@ -12,12 +12,12 @@ Metropolitan Water Authority (Rates and Charges) Amendment By-laws (No. 2) 1984 
 Metropolitan Water Authority (Rates and Charges) Amendment By-laws 1985 | 28 Jun 1985 p. 2345-8 | 1 Jul 1985 (see bl. 2)
 Metropolitan Water Authority (Rates and Charges) Amendment By-laws 1986 | 27 Jun 1986 p. 2129-31 | 27 Jun 1986
 Metropolitan Water Authority (Rates and Charges) Amendment By-laws (No. 2) 1986 | 19 Sep 1986 p. 3425 | 19 Sep 1986
-Water Authority Amendment By-laws 1987 Pt. IV | 14 Jul 1987 p. 2649-58 (Errata 24 Jul 1987 p. 2841) | 14 Jul 1987
+Water Authority Amendment By-laws 1987 Pt. IV | 14 Jul 1987 p. 2649-58 (errata 24 Jul 1987 p. 2841) | 14 Jul 1987
 Water Authority Amendment By-laws 1988 Pt. 3 | 29 Jun 1988 p. 2122-6 | 1 Jul 1988 (see bl. 3)
 Water Authority Amendment By-laws 1989 Pt. 4 | 29 Jun 1989 p. 1883-91 | 1 Jul 1989 (see bl. 3)
 Metropolitan Water Authority (Miscellaneous) Amendment By-laws 1989 | 7 Jul 1989 p. 2077 | 7 Jul 1989
-Water Authority Amendment By-laws 1990 Pt. 4 | 29 Jun 1990 p. 3240-8 (Errata 6 Jul 1990 p. 3318) | 1 Jul 1990 (see bl. 3)
-Water Authority Amendment By-laws 1991 Pt. 4 | 28 Jun 1991 p. 3281-9 (Erratum 19 Jul 1991 p. 3692) | 1 Jul 1991 (see bl. 3)
+Water Authority Amendment By-laws 1990 Pt. 4 | 29 Jun 1990 p. 3240-8 (errata 6 Jul 1990 p. 3318) | 1 Jul 1990 (see bl. 3)
+Water Authority Amendment By-laws 1991 Pt. 4 | 28 Jun 1991 p. 3281-9 (erratum 19 Jul 1991 p. 3692) | 1 Jul 1991 (see bl. 3)
 Water Authority Amendment By-laws 1992 Pt. 4 | 26 Jun 1992 p. 2832-44 | 1 Jul 1992 (see bl. 3)
 Water Authority Amendment By-laws 1993 Pt. 4 | 1 Jul 1993 p. 3238-50 | 1 Jul 1993
 Water Authority Amendment By-laws 1994 Pt. 4 | 29 Jun 1994 p. 3159-70 | 1 Jul 1994 (see bl. 2)
@@ -36,60 +36,17 @@ Water Agencies Amendment By-laws 2003 Pt. 5 | 27 Jun 2003 p. 2422-32 | 1 Jul 200
 Water Agencies Amendment By-laws 2004 Pt. 4 | 29 Jun 2004 p. 2497-503 | 1 Jul 2004 (see bl. 2)
 Water Agencies Amendment By-laws 2005 Pt. 5 | 1 Jul 2005 p. 3009-17 | 1 Jul 2005 (see bl. 2)
 Water Agencies Amendment By-laws 2006 Pt. 5 | 30 Jun 2006 p. 2399-412 | 1 Jul 2006 (see bl. 2)
+Reprint 3: The Metropolitan Water Authority (Miscellaneous) By-laws 1982 as at 1 Dec 2006 (includes amendments listed above)
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Now known as the Metropolitan Water Authority (Miscellaneous) By-laws 1982; citation changed (see note under bl. 1).
+The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The Metropolitan Water Authority (Rates and Charges) Amendment By-laws 1986 bl. 11 was a savings provision that is of no further effect.
-The Water Authority Amendment By-laws 1993 bl. 2 reads as follows:
-“
-2.Application
-Nothing in these by-laws affects the application after 1 July 1993 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Authority Amendment By-laws 1994 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 1994 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Authority Amendment By-laws 1995 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 1995 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 1997 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 1997 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 1999 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 1999 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2001 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2001 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
+These by-laws contain an application provision concerning the period before the by-laws came into operation.
 The Metropolitan Water Authority (Miscellaneous) Amendment By-laws 2002 bl. 5 reads as follows:
 “
 5.Saving
 Where, before the commencement of these by-laws, a person hired a standpipe from the Corporation for attachment to a fire hydrant, the charge under Schedule 6 item 3 to the Metropolitan Water Authority (Miscellaneous) By-laws 1982 in respect of the standpipe is to be assessed as if these by-laws had not come into operation.
 ”.
-The Metropolitan Water Authority (Miscellaneous) Amendment By-laws 1998 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 1998 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Metropolitan Water Authority (Miscellaneous) Amendment By-laws 2000 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2000 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2003 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2003 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The Water Authority Amendment By-laws 2006 bl. 3 reads as follows:
 “
 3.Application
