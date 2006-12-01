@@ -54,17 +54,39 @@ ________________________________________________ (“Articled Clerk”)
 3.2During the articles period, the Principal must comply with the proper standards of the legal profession in relation to dealing with articled clerks.
 3.3If the Articled Clerk —
 (a) complies with the Articled Clerk’s obligations under this deed;
-(b) attends the courses and passes the examinations required under the Act; and
-(c) otherwise complies with the Act in relation to admission as a legal practitioner,
+(b) has satisfied the requirements for practical legal training prescribed for the purposes of section 27(2)(a) of the Act; and
+(c) has satisfied any requirements imposed on the articled clerk under section 27(3)(a); and
+(d) otherwise complies with the Act in relation to admission as a legal practitioner,
 at the end of the articles period the Principal must use his or her best endeavours to have the Articled Clerk admitted.
 3.4Clause 3.3 does not require the Principal to pay any costs associated with the Articled Clerk’s admission.
-4.Date of effect
+4.Obligation under deed in addition to obligations under Act
+The obligations of the Articled Clerk and the Principal under this deed are in addition to their obligations under the Act.
+5.Date of effect
 This deed takes effect from the date on which the articles are registered by the Legal Practice Board.
 Signed as a deed
 Principal (Signature of Principal)
 Witness (Signature of Witness) (Name of Witness) (Address of Witness)
 Articled clerk (Signature of Articled Clerk)
 Witness (Signature of Witness) (Name of Witness) (Address of Witness)
+[Form 2 amended in Gazette 1 Dec 2006 p. 5305.]
+## Form 2A — Undertaking as to practical legal training
+Undertaking as to practical legal training | Legal Practice Act 2003 Legal Practice Board Rules 2004 r. 22, 23 Form 2A
+Applicant | Name
+Address____________________________________________
+Principal | Name
+Address____________________________________________
+TelephoneFax
+Mobile
+Email
+Articles | Date of Deed of Articles / /20
+The Applicant and Principal have agreed that the Applicant’s practical legal training in the following subjects will be provided as follows:
+ | ATP course | By or on behalf of Principal
+Commercial and corporate law practice | ❑ | ❑
+Property law practice | ❑ | ❑
+In relation to the subjects indicated above as to be provided by or on behalf of the Principal, I undertake to provide, or arrange for the provision on my behalf of, practical legal training to the standard required by the Uniform Admission Rules.
+Signature:
+Date / /20
+[Form 2A inserted in Gazette 1 Dec 2006 p. 5305-6.]
 ## Form 3 — Certificate of good character for registration as an articled clerk
 Certificate of good character for registration as an articled clerk | Legal Practice Act 2003 s. 19 Legal Practice Board Rules 2004 r. 22 Form 3
 Applicant | Name
@@ -89,7 +111,7 @@ Telephone (h)(w)
 Fax (h)(w)
 Email(h)
 (w)
-Old Principal | Name
+Former Principal | Name
 Address
 TelephoneFax
 Mobile
@@ -102,15 +124,16 @@ Email
 Articles | Date of Deed of Articles of Clerkship / /20
 Date of registration / /20
 Date of Deed of Assignment of Articles / /20
-Reason for assignment | The Old Principal — qis incapacitated by reason of mental disability. qhas become a disqualified person. qhas ceased to practise in Western Australia on his or her own account or to be a legal practitioner director. qhas had his or her approval to have an articled clerk revoked by the Board. or Another reason consented to by the Board (details)
+Reason for assignment | The Former Principal — qis incapacitated by reason of mental disability. qhas become a disqualified person. qhas ceased to practise in Western Australia on his or her own account or to be a legal practitioner director. qhas had his or her approval to have an articled clerk revoked by the Board. or Another reason consented to by the Board (details)
 Articled Clerk | Signature
 Date / /20
+[Form 4 amended in Gazette 1 Dec 2006 p. 5306.]
 ## Form 5 — Deed of assignment of articles
 Deed of Assignment of Articles of Clerkship
 Date _____/_____/20_____
 Between
 _____________________________of_________________________________
-_________________________________________________(“Old Principal”)
+_____________________________________________(“Former Principal”)
 and
 _____________________________of_________________________________
 ________________________________________________(“New Principal”)
@@ -118,27 +141,27 @@ and
 _____________________________of _________________________________
 ________________________________________________ (“Articled Clerk”)
 Recitals
-A.By a deed of articles of clerkship dated _____/_____/20_____ (“deed”), and registered with the Legal Practice Board on _____/_____/20_____ the articled clerk became articled to the Old Principal.
+A.By a deed of articles of clerkship dated _____/_____/20_____ (“deed”), and registered by the Legal Practice Board on _____/_____/20_____ the articled clerk became articled to the Former Principal.
 B.The parties agree that, subject to registration by the Legal Practice Board, the articles be assigned to the New Principal.
 Deed
 1.Assignment
-The Old Principal assigns to the New Principal the obligations and benefit of the position of principal under the deed.
+The Former Principal assigns to the New Principal the obligations and benefit of the position of principal under the deed.
 2.Obligations under assigned deed
 For the remainder of the term of the articles —
 (a) the New Principal is to perform the obligations of principal under the deed; and
 (b) the Articled Clerk is to perform his or her obligations as an articled clerk to the New Principal.
 3.Date of effect
 This deed takes effect from the date on which the assignment of the articles is registered by the Legal Practice Board.
-4.Release of Old Principal
-The Old Principal’s obligations under the deed cease on the date of this deed.
+4.Release of Former Principal
+The Former Principal’s obligations under the deed cease on the date of this deed.
 Signed as a deed.
-Old Principal (Signature of Old Principal)
+Former Principal (Signature of Former Principal)
 Witness (Signature of Witness) (Name of Witness) (Address of Witness)
 New Principal (Signature of New Principal)
 Witness (Signature of Witness) (Name of Witness) (Address of Witness)
 Articled Clerk (Signature of Articled Clerk)
 Witness (Signature of Witness) (Name of Witness) (Address of Witness)
-[Form 5 amended in Gazette 12 Apr 2005 p. 1170.]
+[Form 5 amended in Gazette 12 Apr 2005 p. 1170; 1 Dec 2006 p. 5306.]
 ## Form 6 — Application for cancellation of registration of articles and registration of new articles
 Application for cancellation of registration of articles and registration of new articles | Legal Practice Act 2003 s. 22 Legal Practice Board Rules 2004 r. 23 Form 6
 Articled Clerk | Name
@@ -148,7 +171,7 @@ Telephone (h)(w)
 Fax (h)(w)
 Email(h)
 (w)
-Old Principal | Name
+Former Principal | Name
 Address
 New Principal | Name
 Address
@@ -158,24 +181,30 @@ Email
 Articles | Date of original Deed of Articles of Clerkship / /20
 Date of registration / /20
 Date of new Deed of Articles of Clerkship / /20
-Reason for cancellation of articles | The Old Principal — qhas died qis incapacitated by reason of mental disability qhas become a disqualified person qhas ceased to practise in Western Australia on his or her own account or to be a legal practitioner director qhas had his or her approval to have an articled clerk revoked by the Board or Another reason consented to by the Board (details)
+Reason for cancellation of articles | The Former Principal — qhas died qis incapacitated by reason of mental disability qhas become a disqualified person qhas ceased to practise in Western Australia on his or her own account or to be a legal practitioner director qhas had his or her approval to have an articled clerk revoked by the Board or Another reason consented to by the Board (details)
 Articled Clerk | Signature
 Date / /20
+[Form 6 amended in Gazette 1 Dec 2006 p. 5306.]
 ## Form 7 — Certificate of completion of articles
 Certificate of completion of articles | Legal Practice Act 2003 Legal Practice Board Rules 2004 r. 27 Form 7
 Articled clerk | Name
-Address
+Address__________________________________________
 Principal | Name
-Address
+Address__________________________________________
 TelephoneFax
 Mobile
 Email
 Articles | Date of registration / /20
-Term of articles: From / /20 to / /20
-I certify that the Articled Clerk — ❑has completed 12 months service as my articled clerk; or ❑has served as my articled clerk since (date of commencement of articles) _____/_____/20_____ and that I intend the Articled Clerk to continue as my articled clerk for the duration of the term of articles, which will be completed before the date proposed for the Articled Clerk’s admission. I will notify the Board immediately if the Articled Clerk ceases to be my articled clerk before the term of articles is completed. I certify that while serving as my articled clerk, the Articled Clerk has complied with all of the Articled Clerk’s obligations under the Legal Practice Act 2003 and the Deed of Articles of Clerkship.
-Signature
+Practical legal training | The Articled Clerk’s practical legal training in the following subjects was provided as follows:
+ | ATP course | By or on behalf of Principal
+Commercial and corporate law practice | ❑ | ❑
+Property law practice | ❑ | ❑
+I certify that the Articled Clerk — ❑has completed 12 months service as my articled clerk; or ❑served as my articled clerk from _____/_____/20_____ to _____/_____/20_____; or ❑has served as my articled clerk since _____/_____/20_____ and that I intend the Articled Clerk to continue as my articled clerk for the duration of the term of articles, which will be completed before the date proposed for the Articled Clerk’s admission. I will notify the Board immediately if the Articled Clerk ceases to be my articled clerk before the term of articles is completed.
+In relation to the subjects indicated above as those in which practical legal training was provided by me or on my behalf, I certify that the Articled Clerk has completed that training and in my opinion has attained the standard required by the Uniform Admission Rules.
+I certify that while serving as my articled clerk, the Articled Clerk has complied with all of the Articled Clerk’s obligations under the Legal Practice Act 2003 and the Deed of Articles of Clerkship.
+Signature:
 Date / /20
-[Form 7 amended in Gazette 12 Apr 2005 p. 1171.]
+[Form 7 inserted in Gazette 1 Dec 2006 p. 5306-7.]
 ## Form 8 — Application for approval of qualification for s. 27(2)(a)(ii)
 Application for approval of qualification for s. 27(2)(a)(ii) | Legal Practice Act 2003 s. 27 Legal Practice Board Rules 2004 r. 33 Form 8
 Applicant | Name
@@ -233,10 +262,8 @@ Email(h)
 (w)
 Qualification | ❑Bachelor of Laws degree from — qThe University of Western Australia qMurdoch University qThe University of Notre Dame Australia or o Qualifications approved for the purposes of s. 27(2)(a)(ii) on (date of approval) _____/_____/20_____ or oQualifications approved for the purposes of s. 27(2)(b) on (date of approval) _____/_____/20_____
 Articles | Date of registration / /20
-Term of articles
 Principal Name Address
 Articles were❑ assigned❑ replaced with new articles If yes, date of registration_____/_____/20_____ New Principal Name Address
-ATP | I passed the Articles Training Programme on / /20
 Admission in other jurisdictions | Place of admission Admitted as (e.g. barrister, solicitor, attorney) Date of admission
 Place of admission Admitted as (e.g. barrister, solicitor, attorney) Date of admission
 I have not / have committed any act which would render my name liable to be struck off the rolls of any jurisdiction to which I am admitted or to be suspended from practice If yes, give details
@@ -249,6 +276,7 @@ Witness
 Signature
 Name
 Address
+[Form 10 amended in Gazette 1 Dec 2006 p. 5307.]
 ## Form 11 — Certificate of good character for applicant for admission
 Certificate of good character for applicant for admission | Legal Practice Act 2003 s. 28 Legal Practice Board Rules 2004 r. 36 Form 11
 Applicant | Name
