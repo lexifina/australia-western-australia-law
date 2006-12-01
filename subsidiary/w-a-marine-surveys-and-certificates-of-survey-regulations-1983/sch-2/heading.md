@@ -4,7 +4,7 @@
 Appendix II
 In this Appendix items listed shall be subjected to a survey unless otherwise indicated.
 Part I — Vessels less than 35 metres in length
-Annual Surveys
+Annual surveys
 1.Equipment.
 2.Running trial of each main engine and associated gear box.
 3.Operational test of bilge pumps, bilge alarms and bilge valves.
@@ -22,12 +22,12 @@ Annual Surveys
 15.Inspection of personnel protection arrangements in machinery spaces.
 16.Inspection of casings, superstructures, skylights, hatchways, companionways, bulwarks and guard rails, ventilators and air pipes, together with all closing devices.
 17.Inspection of ground tackle.
-2-Yearly Surveys
+2-Yearly surveys
 18.Hull externally and internally except in way of tanks forming part of the structure.
 19.Sea injection and overboard discharge valves and cocks.
 20.Inspection of propellers, rudders and underwater fittings.
 21.Pressure vessel and associated mountings, of an air pressure/salt water system having a working pressure of more than 275 kPa.
-4-Yearly Surveys
+4-Yearly surveys
 22.Each screw and tube shaft.
 23.Anchors and cables to range.
 24.Chain locker internally.
@@ -37,17 +37,17 @@ Annual Surveys
 28.Pressure vessel and associated mountings of an air pressure/fresh water system having a working pressure of more than 275 kPa.
 29.Cargo handling, fishing and trawling gear.
 30.Insulation tests of all electrical installations above 32V A.C. or D.C.
-8-Yearly Surveys
+8-Yearly surveys
 31.Each rudder stock and rudder stock bearing.
 32.Steering gear.
 33.Hull in way of removable ballast.
 34.Selected sections of internal structure in way of refrigerated space.
-12-Yearly Surveys
+12-Yearly surveys
 35.Fuel oil tanks internally.
-Other Survey Periods
+Other survey periods
 36.The survey period for an item not specified in this Part shall be that period determined by the Authority.
 Part II — Vessels of 35 metres in length and over
-Annual Surveys
+Annual surveys
 1.Equipment.
 2.Running trial of each main engine and associated gear box.
 3.Operation test of all valves in the fire main system.
@@ -65,7 +65,7 @@ Annual Surveys
 15.Inspection of casings, superstructures, skylights, hatchways, companionways, bulwarks and guard rails, ventilators and air pipes, together with all closing devices.
 16.A boiler and its mountings where the boiler has been in service for more than 8 years (not being a pressure vessel referred to in item 10).
 17.An evaporator and its mountings which has been in service for more than 8 years, and in which the operating pressure is above atmospheric.
-2-Yearly Surveys
+2-Yearly surveys
 18.Hull externally and internally except in way of tanks forming part of the structure.
 19.Sea cocks and valves, bilge injection valves and overboard discharge valves, of ferrous construction.
 20.Inspection of propellers, rudders, and under water fittings.
@@ -73,7 +73,7 @@ Annual Surveys
 22.Pressure vessel and associate mountings of an air pressure/salt system having a working pressure of more than 275 kPa.
 23.A boiler and its mountings where the boiler has been in service for less than 8 years (not being a pressure vessel referred to in item 10).
 24.An evaporator and its mountings, which has been in service for less than 8 years, and in which the operating pressure is above atmospheric.
-4-Yearly Surveys
+4-Yearly surveys
 25.Sea cocks and valves, bilge injection valves and overboard discharge valves, of non-ferrous construction.
 26.Bilge pumps.
 27.Independent pumps used for pumping sea water, fresh water, fuel oil, condensate and boiler feed.
@@ -96,19 +96,19 @@ Annual Surveys
 44.Pressure vessel and associated mountings of an air pressure/fresh water system having a working pressure of more than 275 kPa.
 45.After the twelfth year in service all solid drawn copper steam pipes having an internal diameter exceeding 75 mm are to be annealed and hydraulically tested.
 46.After the twelfth year in service selected lengths of steel steam pipes having an internal diameter exceeding 75 mm and carrying steam not exceeding 455oC are to be hydraulically tested.
-5-Yearly Surveys
+5-Yearly surveys
 47.Peak tanks internally. Peak tanks are to be tested to a head sufficient to give the maximum pressure than can be experienced in service.
 48.Deep tanks (except those tanks used exclusively for oil fuel) internally. All deep tanks are to be tested to a head sufficient to give the maximum pressure that can be experienced in service. Deep tanks used exclusively for oil fuel need not be examined internally subject to satisfactory external survey and hydraulic test.
 49.Double bottom tanks (except those tanks used exclusively for oil fuel) internally. All double bottom tanks are to be tested to a head sufficient to give the maximum pressure that can be experienced in service. Double bottom tanks used exclusively for oil fuel need not be examined internally subject to satisfactory external survey and hydraulic test.
 50.Ballast tanks and tanks forming part of the ship’s main structure internally. Ballast tanks and tanks forming part of the ship’s structure are to be hydraulically tested to a head sufficient to give the maximum pressure that can be experienced in service.
-6-Yearly Survey
+6-Yearly survey
 51.Independent pumps used solely for pumping lubricating oil (except those pumps used for the supply of oil under pressure to hydraulically operated machinery).
-8-Yearly Surveys
+8-Yearly surveys
 52.Independent pumps used for the supply of lubricating oil under pressure to hydraulically operated machinery.
 53.Electrically operated or hydraulically operated steering gear.
 54.All solid drawn copper steam pipes having an internal diameter exceeding 75 mm are to be annealed and hydraulically tested.
 55.Selected lengths of steel steam pipes having an internal diameter exceeding 75 mm and carrying steam at a temperature not exceeding 455oC are to be hydraulically tested.
-Other Survey Periods
+Other survey periods
 56.Emergency generator i.e. generator used normally for emergency purposes shall be surveyed once in the first 12 years and thereafter once in every subsequent period of 8 years.
 57.One deep tank that is used exclusively for fuel oil to be surveyed internally every 5 years starting when the ship is 10 years old and all such deep tanks to be surveyed by the time the ship is 25 years old.
 58.At least one double bottom tank that is used exclusively for fuel oil to be surveyed internally every 5 years starting when the ship is 10 years old and all such double bottom tanks to be surveyed by the time the ship is 25 years old.
