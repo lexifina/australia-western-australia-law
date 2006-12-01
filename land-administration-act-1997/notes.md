@@ -1,39 +1,39 @@
 Notes
 This is a compilation of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Short title | Number and year | Assent | Commencement
-Land Administration Act 1997 | 30 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
-Dampier to Bunbury Pipeline Act 1997 s. 52 (Sch. 4 Div. 6) | 53 of 1997 (as amended by this Act Sch. 4 Div. 1) | 12 Dec 1997 | 30 Mar 1998 (see Sch. 4 Div. 6 cl. 30 and Gazette 27 Mar 1998 p. 1765)
-Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 Pt. 2 (except s. 4 & 7) | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | 11 Jan 1999 (see s. 2(1))
-Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 90 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
-Gas Corporation (Business Disposal) Act 1999 s. 104 | 58 of 1999 | 24 Dec 1999 | 16 Dec 2000 (see s. 2(5) and Gazette 15 Dec 2000 p. 7201)
-Rail Freight System Act 2000 Pt. 5 Div. 4 | 13 of 2000 | 8 Jun 2000 | 30 Jun 2000 (see s. 2(1) and Gazette 30 Jun 2000 p. 3397)
-Statutes (Repeals and Minor Amendments) Act 2000 s. 14(13) and 20 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
-Acts Amendment (Australian Datum) Act 2000 s. 4 | 54 of 2000 | 28 Nov 2000 | 16 Dec 2000 (see s. 2 and Gazette 15 Dec 2000 p. 7201)
-Land Administration Amendment Act 2000 | 59 of 2000 | 7 Dec 2000 | s. 38(1): 30 Mar 1988 (see s. 2(4) and Gazette 27 Mar 1988 p. 1765); s. 52: 8 Dec 2000 (see s. 2(5)); Act other than s. 8, 10(2), 12, 14(1) and (2), 19(2) and (3), 22, 24-37, 38(1), 51 and 52: 7 Dec 2000 (see s. 2(1));
- |  |  | s. 8, 10(2), 12, 14(1) and (2), 19(2) and (3), 22, 24-37 and 51: 10 Apr 2001 (see s. 2(2) and Gazette 10 Apr 2001 p. 2073)
-Reprint of the Land Administration Act 1997 as at 22 Jun 2001 (includes amendments listed above)
-Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
-Public Transport Authority Act 2003 s. 150 and 167 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
-Acts Amendment (Carbon Rights and Tree Plantation Agreements) Act 2003 Pt. 2 | 56 of 2003 | 29 Oct 2003 | 24 Mar 2004 (see s. 2 and Gazette 23 Mar 2004 p. 975)
-Statutes (Repeals and Minor Amendments) Act 2003 s. 72 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
-Acts Amendment (Reserves and Reserve Boards) Act 2003 Pt. 2 | 76 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 67 Subdiv. 1 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 2: The Land Administration Act 1997 as at 24 Jun 2005 (includes amendments listed above)
-Financial Administration Legislation Amendment Act 2005 s. 42 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
-Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
-Water Legislation Amendment (Competition Policy) Act 2005 Pt. 4 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 Pt. 2 Div. 2 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 13 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Reprint 3: The Land Administration Act 1997 as at 15 Sep 2006 (includes amendments listed above)
+ | Short title | Number and year | Assent | Commencement
+ | Land Administration Act 1997 | 30 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
+ | Dampier to Bunbury Pipeline Act 1997 s. 52 (Sch. 4 Div. 6) | 53 of 1997 (as amended by this Act Sch. 4 Div. 1) | 12 Dec 1997 | 30 Mar 1998 (see Sch. 4 Div. 6 cl. 30 and Gazette 27 Mar 1998 p. 1765)
+ | Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 Pt. 2 (except s. 4 & 7) | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | 11 Jan 1999 (see s. 2(1))
+ | Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 90 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
+ | Gas Corporation (Business Disposal) Act 1999 s. 104 | 58 of 1999 | 24 Dec 1999 | 16 Dec 2000 (see s. 2(5) and Gazette 15 Dec 2000 p. 7201)
+ | Rail Freight System Act 2000 Pt. 5 Div. 4 | 13 of 2000 | 8 Jun 2000 | 30 Jun 2000 (see s. 2(1) and Gazette 30 Jun 2000 p. 3397)
+ | Statutes (Repeals and Minor Amendments) Act 2000 s. 14(13) and 20 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
+ | Acts Amendment (Australian Datum) Act 2000 s. 4 | 54 of 2000 | 28 Nov 2000 | 16 Dec 2000 (see s. 2 and Gazette 15 Dec 2000 p. 7201)
+ | Land Administration Amendment Act 2000 | 59 of 2000 | 7 Dec 2000 | s. 38(1): 30 Mar 1988 (see s. 2(4) and Gazette 27 Mar 1988 p. 1765); s. 52: 8 Dec 2000 (see s. 2(5)); Act other than s. 8, 10(2), 12, 14(1) and (2), 19(2) and (3), 22, 24-37, 38(1), 51 and 52: 7 Dec 2000 (see s. 2(1));
+ |  |  |  | s. 8, 10(2), 12, 14(1) and (2), 19(2) and (3), 22, 24-37 and 51: 10 Apr 2001 (see s. 2(2) and Gazette 10 Apr 2001 p. 2073)
+ | Reprint of the Land Administration Act 1997 as at 22 Jun 2001 (includes amendments listed above)
+ | Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
+ | Public Transport Authority Act 2003 s. 150 and 167 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
+ | Acts Amendment (Carbon Rights and Tree Plantation Agreements) Act 2003 Pt. 2 | 56 of 2003 | 29 Oct 2003 | 24 Mar 2004 (see s. 2 and Gazette 23 Mar 2004 p. 975)
+Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | 1 Dec 2006 (see s. 2 and Gazette 8 Aug 2006 p. 2899)
+ | Statutes (Repeals and Minor Amendments) Act 2003 s. 72 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+ | Acts Amendment (Reserves and Reserve Boards) Act 2003 Pt. 2 | 76 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+ | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+ | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 67 Subdiv. 1 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+ | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+ | Reprint 2: The Land Administration Act 1997 as at 24 Jun 2005 (includes amendments listed above)
+ | Financial Administration Legislation Amendment Act 2005 s. 42 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
+ | Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2005 p. 1153)
+ | Water Legislation Amendment (Competition Policy) Act 2005 Pt. 4 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
+ | Planning and Development (Consequential and Transitional Provisions) Act 2005 Pt. 2 Div. 2 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+ | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 13 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+ | Reprint 3: The Land Administration Act 1997 as at 15 Sep 2006 (includes amendments listed above)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
-Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | 1 Dec 2006 (see s. 2 and Gazette 8 Aug 2006 p. 2899)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
@@ -370,30 +370,7 @@ The State Administrative Tribunal Regulations 2004 r. 33 reads as follows:
 (a) the Act section 167(4)(b) does not apply; and
 (b) the matter is to continue to be dealt with as if the written law applicable to the matter in force immediately before the commencement day continued to apply.
 ”.
-On the date as at which this reprint was prepared, the Contaminated Sites Act 2003 s. 100, which gives effect to Sch. 3, had not come into operation. It will come into operation on 1 Dec 2006 (see Gazette 8 Aug 2006 p. 2899). It reads as follows:
-“
-100.Consequential amendments to other Acts
-Schedule 3 has effect.
-”.
-Schedule 3 cl. 2 reads as follows:
-“
-Schedule 3 — Consequential provisions
-[s. 100]
-2.Land Administration Act 1997 amended
-(1) The amendments in this clause are to the Land Administration Act 1997.
-(2) Section 10(5) is amended by inserting after “Act” —
-“
-and to section 60(2)(b)(i) of the Contaminated Sites Act 2003
-”.
-(3) Section 159 is amended by inserting after paragraph (e) the following paragraph —
-“
-(ea) the Minister responsible for administering the Contaminated Sites Act 2003;
-”.
-(4) Section 160(1) is amended by inserting after paragraph (e) the following paragraph —
-“
-(ea) in the case of the Minister referred to in section 159(ea), to the chief executive officer of the Department principally assisting the Minister in the administration of the Contaminated Sites Act 2003 or to any other officer of that Department;
-”.
-”.
+The amendment in the Contaminated Sites Act 2003 Sch. 3 cl. 2(3) and (4) are not included because the sections they sought to amend had been previously amended by the Water Legislation Amendment (Competition Policy) Act 2005 s. 159 and 160.
 On the date as at which this reprint was prepared, the Acts Amendment (Court of Appeal) Act 2004 s. 37, which gives effect to Sch. 1, had not come into operation. It reads as follows:
 “
 37.Various Acts amended
