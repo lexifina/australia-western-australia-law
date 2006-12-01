@@ -29,15 +29,12 @@ Corporations (Consequential Amendments) Act 2001 Pt. 23 | 10 of 2001 | 28 Jun 20
 Armadale Redevelopment Act 2001 s. 69 | 25 of 2001 | 26 Nov 2001 | 23 Mar 2002 (see s. 2 and Gazette 22 Mar 2002 p. 1651)
 Reprint of the Environmental Protection Act 1986 as at 11 Jan 2002 (includes amendments listed above except those in the Environmental Protection Amendment Act 1998 s. 5 and the Armadale Redevelopment Act 2001)
 Environmental Protection Amendment Act 2003 8-12 | 54 of 2003 | 20 Oct 2003 | Act, other than s. 37, 54(2), 55, 72(2) and (4), 75(3) and (4) and Pt. 9: 19 Nov 2003 (see s. 2 and Gazette 18 Nov 2003 p. 4723); s. 37, 54(2), 55, 72(2) and (4), 75(3) and (4) and Pt. 9: 8 Jul 2004 (see s. 2 and Gazette 30 Jun 2004 p. 2581)
+Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | 1 Dec 2006 (see s. 2 and Gazette 8 Aug 2006 p. 2899)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 5: The Environmental Protection Act 1986 as at 16 Sep 2005 (includes amendments listed above)
+Reprint 5: The Environmental Protection Act 1986 as at 16 Sep 2005 (includes amendments listed above except those in the Contaminated Sites Act 2003)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | To be proclaimed (see s. 2)
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -95,52 +92,3 @@ but does not include clearing of a kind set out in Schedule 6 to the EP Act.
 (4) Section 70(3) to (11) and 74A of the EP Act apply in relation to a notice given under subsection (3) as if it were a vegetation conservation notice given under section 70(2)(b) of the EP Act and as if the reference to an offence in section 70(6) were a reference to an offence under an enactment mentioned in the definition of “unlawful clearing” in subsection (2).
 (5) Section 74A, Part VA and sections 89 and 103 of the EP Act apply in relation to a notice given under subsection (3) as if it were a vegetation conservation notice given under section 70(2)(b) of the EP Act.
 ”.
-On the date as at which this reprint was prepared, the Contaminated Sites Act 2003 s. 100, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-100.Consequential amendments to other Acts
-Schedule 3 has effect.
-”.
-The relevant provisions of Schedule 3 are in cl. 1 which reads as follows:
-“
-1.Environmental Protection Act 1986 amended
-(1) The amendments in this clause are to the Environmental Protection Act 1986.
-(2) Section 3(1) is amended by inserting in the appropriate alphabetical positions the following definitions —
-“
-“contaminated” has the same meaning as it has in the Contaminated Sites Act 2003;
-“contaminated sites auditor” means a person accredited as a contaminated sites auditor under the Contaminated Sites Act 2003;
-”.
-(3) Section 40(2) is amended as follows:
-(a) by inserting after paragraph (a) the following paragraph —
-“
-(aa) require the proponent to provide to the Authority a contaminated sites auditor’s report on the proposal, which complies with any relevant regulations made under the Contaminated Sites Act 2003;
-”;
-(b) by deleting “any 2 or all 3” and inserting instead —
-“ any or all ”.
-(4) Section 40(4)(a) is amended as follows:
-(a) by inserting after “information” —
-“ or report ”;
-(b) by inserting after “(2)(a)” —
-“ or (aa) ”.
-(5) Section 48C(1) is amended by inserting after paragraph (a) the following paragraph —
-“
-(aa) require the responsible authority, if it wishes that scheme to proceed, to provide to the Authority a contaminated sites auditor’s report on that scheme, which complies with any relevant regulations made under the Contaminated Sites Act 2003;
-”.
-(6) Section 48C(4)(a) is amended by inserting after “(1)(a)” —
-“ or (aa) ”.
-(7) Section 89(2) is amended by deleting “environment.” and inserting instead —
-“
-environment or believes on reasonable grounds that the dwelling-house or land is contaminated.
-”.
-(8) Section 89(3) is amended as follows:
-(a) by deleting “groundwater” and inserting instead —
-“ water ”;
-(b) after paragraph (a) by deleting “or”;
-(c) after paragraph (b) by deleting the comma and inserting —
-“
-; or
-(c) if the inspector believes on reasonable grounds that the land or water is contaminated, to investigate whether contamination is present or to monitor or assess any contamination that is present,
-”.
-(9) Section 90(1)(a)(i) is amended by inserting after “discharged” —
-“ or onto which any waste has been or is being discharged ”.
-”.
-The amendments to s. 40(2), 89(2) and 90(1)(a)(i) in the Contaminated Sites Act 2003 Sch. 3 cl. 1(3)(b), (7) and (9) would conflict with amendments in the Environmental Protection Amendment Act 2003 s. 9, 57 and 58.

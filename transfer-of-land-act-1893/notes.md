@@ -55,6 +55,7 @@ Taxation Administration (Consequential Provisions) Act 2002 s. 25 | 45 of 2002 |
 Transfer of Land Amendment Act 2003 s. 4-84 | 6 of 2003 | 25 Mar 2003 | Act other than s. 43, 46, 56, 57, 74, 80-82: 3 May 2003 (see s. 2 and Gazette 2 May 2003 p. 1491); s. 74, 80, 82: 6 Sep 2004 (see s. 2 and Gazette 2 Sep 2004 p. 3821)
 Acts Amendment (Equality of Status) Act 2003 s. 129 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Acts Amendment (Carbon Rights and Tree Plantation Agreements) Act 2003 Pt. 5 | 56 of 2003 | 29 Oct 2003 | 24 Mar 2004 (see s. 2 and Gazette 23 Mar 2004 p. 975)
+Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | 1 Dec 2006 (see s. 2 and Gazette 8 Aug 2006 p. 2899)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 120 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 120 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 20 Div. 2 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
@@ -66,7 +67,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 | 25 Mar 2003 | To be proclaimed (see s. 2)
-Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | To be proclaimed (see s. 2)
 Land Information Authority Act 2006 s. 103-118 and 164 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997 (No. 30 of 1997).
 The Transfer of Land Amendment Act 1996 s. 6(2) reads as follows:
@@ -267,18 +267,7 @@ and the proprietors of the freehold in the land (the “proprietors”) wish to 
 Section 167 is amended by deleting “or 166A” and inserting instead —
 “ , 166A or 166C ”.
 ”.
-On the date as at which this compilation was prepared, the Contaminated Sites Act 2003 s. 100, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-100.Consequential amendments to other Acts
-Schedule 3 has effect.
-”.
-Schedule 3 cl. 4 reads as follows:
-“
-4.Transfer of Land Act 1893 amended
-(1) The amendment in this clause is to the Transfer of Land Act 1893.
-(2) Section 110 is amended by inserting after “1997” —
-“ and section 32(3)(b) of the Contaminated Sites Act 2003 ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 103-118 and 164 had not come into operation. It reads as follows:
 “
 103.Section 4 amended
