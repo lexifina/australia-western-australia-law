@@ -46,6 +46,7 @@ Motor Vehicle Drivers Instructors Amendment Regulations (No. 4) 2006 | 23 Jun 20
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 3) 2006 | 11 Jul 2006 p. 2545-6 | 11 Jul 2006
 Reprint 4: The Motor Vehicle Drivers Instructors Regulations 1964 as at 11 Aug 2006 (includes amendments listed above)
 Motor Vehicle Drivers Instructors Amendment Regulations 2006 | 18 Aug 2006 p. 3371 | 18 Aug 2006
+Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2006 | 28 Nov 2006 p. 4894 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
 Under the Alteration of Statutory Designations Order 2003 the name of the former Education Department of Western Australia was changed to the Department of Education and Training.
 Now superseded by the Public Transport Authority of Western Australia.
 Now superseded by the Fire and Emergency Services Authority of Western Australia.
