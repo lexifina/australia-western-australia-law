@@ -20,3 +20,4 @@ Road Traffic (Blood Sampling and Analysis) Amendment Regulations 1993 | 1 Jun 19
 Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2001 | 30 Jan 2001 p. 622-5 | 30 Jan 2001
 Road Traffic (Blood Sampling and Analysis) Amendment Regulations (No. 2) 2001 | 30 Nov 2001 p. 6077 | 30 Nov 2001
 Reprint of the Road Traffic (Blood Sampling and Analysis) Regulations 1975 as at 19 Apr 2002 (includes amendments listed above)
+Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2006 | 28 Nov 2006 p. 4896-7 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
