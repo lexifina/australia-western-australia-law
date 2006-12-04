@@ -97,6 +97,7 @@ Acts Amendment (Fines Enforcement and Licence Suspension) Act 2000 Pt. 3 | 51 of
  | Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 2001 published in Gazette 14 Aug 2001 p. 4256-8 | 14 Aug 2001 (see r. 2)
 Reprint of the Road Traffic Act 1974 as at 19 Oct 2001 (includes amendments listed above except those in the Road Traffic Amendment Act 2000 s. 4-16, 17(2), 30-33, 38-44, 46, 47(1), (2) and (4))
  | Road Traffic Amendment Act 2001 | 27 of 2001 | 21 Dec 2001 | 10 Aug 2002 (see s. 2 and Gazette 9 Aug 2002 p. 3853-4)
+ | Road Traffic Amendment (Vehicle Licensing) Act 2001 Pt. 2 | 28 of 2001 (as amended by No. 45 of 2002 s. 29(2)) | 21 Dec 2001 | 4 Dec 2006 (see s. 2 and Gazette 28 Nov 2006 p. 4889)
  | Road Traffic (Fees for Vehicle Licenses) Regulations 2002 published in Gazette 17 May 2002 p. 2558-60 | 17 May 2002 (see r. 2)
  | Motor Vehicle Dealers Amendment Act 2002 s. 72 | 4 of 2002 | 4 Jun 2002 | 1 Sep 2002 (see s. 2 and Gazette 13 Aug 2002 p. 4151)
  | Road Safety Council Act 2002 s. 15 | 5 of 2002 | 4 Jun 2002 | 1 Jul 2002 (see s. 2(1) and Gazette 1 Jul 2002 p. 3205)
@@ -110,7 +111,7 @@ Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (
  | Road Traffic (Fees for Vehicle Licences) Regulations 2004 published in Gazette 28 May 2004 p. 1843-5 | 31 May 2004 (see r. 2)
  | Road Traffic Amendment Act 2004 | 6 of 2004 | 10 Jun 2004 | 10 Jun 2004 (see s. 2)
  | Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2004 | 10 of 2004 | 23 Jun 2004 | 4 Sep 2004 (see s. 2 and Gazette 3 Sep 2004 p. 3849)
- | Reprint 8: The Road Traffic Act 1974 as at 16 Jul 2004 (includes amendments listed above except those in the Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2004)
+ | Reprint 8: The Road Traffic Act 1974 as at 16 Jul 2004 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001 and the Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2004)
  | Road Traffic Amendment (Dangerous Driving) Act 2004 | 44 of 2004 | 9 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7132)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
  | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 115 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
@@ -118,14 +119,13 @@ Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 2004 published in Gazette 24 Dec 2004 p. 6255 | 1 Feb 2005 (see r. 2)
 Road Traffic (Fees for Vehicle Licences) Regulations 2005 published in Gazette 27 May 2005 p. 2306-8 | 31 May 2005 (see r. 2)
-Reprint 9: The Road Traffic Act 1974 as at 10 Mar 2006 (includes amendments listed above)
+Reprint 9: The Road Traffic Act 1974 as at 10 Mar 2006 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001)
 Road Traffic (Fees for Vehicle Licences) Regulations 2006 published in Gazette 26 May 2006 p. 1885-8 | 31 May 2006 (see r. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Amendment Act (No. 2) 1987 s. 11(b) | 121 of 1987 (as amended by No. 84 of 2004 s. 80 (cl. 123)) | 24 Dec 1987 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act 1996 s. 8(3) | 76 of 1996 (as amended by No. 54 of 2006 s. 43) | 14 Nov 1996 | To be proclaimed (see s. 2)
-Road Traffic Amendment (Vehicle Licensing) Act 2001 Pt. 2 | 28 of 2001 (as amended by No. 45 of 2002 s. 29(2) and No 54 of 2006 s. 44-48) | 21 Dec 2001 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act 2006 Pt. 2, 3 and 4 Div. 3 and 4 | 54 of 2006 | 26 Oct 2006 | To be proclaimed (see s. 2)
@@ -291,184 +291,7 @@ The Road Traffic Amendment (Dangerous Driving) Act 2004 s. 12 reads as follows:
 (2) The Minister is to prepare a report based on the review carried out under subsection (1) and is to cause that report to be laid before each House of Parliament as soon as practicable.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Road Traffic Amendment (Vehicle Licensing) Act 2001 Pt. 2 (as amended by No. 45 of 2002 s. 29(2)) had not come into operation. It reads as follows:
-“
-Part 2 — Road Traffic Act 1974 amended
-3.The Act amended
-The amendments in this Part are to the Road Traffic Act 1974.
-4.Section 5 amended
-Section 5(1) is amended as follows:
-(a) by deleting the definition of “agricultural implement”;
-(b) in the definition of “licensing provisions of this Act”, by deleting “and the First and Second Schedules” in paragraph (a);
-(c) by deleting the definition of “vehicle licence fee” and inserting instead —
-“
-“vehicle licence charge” means the charge payable under section 19(3);
-”.
-5.Section 8 amended
-Section 8(5) is amended by deleting “issue or”.
-6.Section 15 amended
-(1) Section 15(1) is repealed and the following subsection is inserted instead —
-“
-(1) A vehicle licence is required for a vehicle prescribed in the regulations.
-”.
-(2) Section 15(2) and (2a) are repealed.
-(3) Section 15(3) is amended as follows:
-(a) by deleting “or issued” in both places where it occurs;
-(b) by deleting paragraph (a) and inserting instead —
-“
-(a) if the regulations provide that when a vehicle licence is renewed on an application made within a prescribed period after the expiry of the licence the renewal is to be regarded as having taken effect immediately after the licence expired, this subsection does not apply to the use of the vehicle within that prescribed period;
-”.
-(4) Section 15(4) is amended as follows:
-(a) by deleting “fees” and inserting instead —
-“ charges ”;
-(b) by deleting “, except where the licence for the vehicle has, prior to the conviction being recorded, been renewed under section 18(5)”.
-(5) Section 15(5) is amended by deleting “fees” in both places where it occurs and inserting instead —
-“ charges ”.
-(6) Section 15(6) is amended by inserting after “vehicle licence” —
-“ document ”.
-7.Section 16 repealed
-Section 16 is repealed.
-8.Section 17 amended
-(1) Section 17(1)(b)(i) is amended by inserting after “fee” —
-“ or charge ”.
-(2) After section 17(1) the following subsection is inserted —
-“
-(1a) On the payment of —
-(a) a sum ordered under section 24(3) to be paid; or
-(b) a sum specified under section 102(2a) in a traffic infringement notice,
-an application for a transfer under subsection (1) is to be taken to have been made, and the payment is to be taken to have been a payment under subsection (1)(b).
-”.
-(3) Section 17(2) is amended as follows:
-(a) by inserting after “shall” —
-“ , subject to the regulations, ”;
-(b) after paragraph (b) by deleting “and”;
-(c) after paragraph (c) by deleting the full stop and inserting —
-“
-;
-(d) the Director General is satisfied that —
-(i) the vehicle is kept primarily in this State; or
-(ii) the vehicle is not kept primarily in any State or Territory;
-and
-(e) the applicant would not be prevented by or under the law of another State or a Territory from holding a licence for, or being registered in respect of, the vehicle.
-”.
-9.Section 18 replaced
-Section 18 is repealed and the following section is inserted instead —
-“
-18.Regulations for the grant and renewal of vehicle licences
-(1) The regulations may provide for the grant or renewal of a vehicle licence by the Director General to the extent that a matter is not provided for in section 17.
-(2) Without limiting subsection (1), the regulations may —
-(a) fix the periods for which a vehicle licence may be granted or renewed;
-(b) fix the period, whether before or after the expiry of a licence, within which the licence may be renewed;
-(c) if the regulations enable a licence to be renewed after its expiry, provide that renewal within a specified period after the expiry continues the licence, except that the licence is to be regarded as having been suspended on and from the day of its expiry to the day before the renewal; and
-(d) provide for 3 or more vehicle licences held by the same person to expire on the same day.
-”.
-10.Section 19 amended
-(1) Section 19(3) is amended by deleting “fee specified in Part III of the Second Schedule” and inserting instead —
-“ charge prescribed in the regulations ”.
-(2) Section 19(18) is amended by inserting after “fees” in both places where it occurs —
-“ or charges ”.
-11.Section 20 amended
-Section 20(1) is amended by inserting after “fees” —
-“ or charges ”.
-12.Section 22 amended
-Section 22(1) is amended by deleting “fees received for the issue and renewal of motor vehicle licences, other than recording fees.” and inserting instead —
-“ vehicle licence charges. ”.
-13.Section 23A amended
-(1) Section 23A is amended as follows:
-(a) by inserting before “The” the subsection designation “(1)”;
-(b) by deleting “fee has” and inserting instead —
-“ fees and charges have ”.
-(2) At the end of section 23A the following subsection is inserted —
-“
-(2) The Director General may, in circumstances described in subsection (1), suspend the licence in respect of a vehicle until the circumstances giving rise to the suspension are remedied.
-”.
-14.Section 25 amended
-Section 25(1) is amended by deleting the full stop and inserting instead —
-“
-, or where a licence is cancelled or suspended under section 23A.
-”.
-15.Section 28A amended
-(1) Section 28A(1) is repealed.
-(2) Section 28A(2) is amended as follows:
-(a) by deleting “Where Part III of the Second Schedule is amended or substituted by regulations made under this section, that Part as in force immediately before the commencement day of those regulations” and inserting instead —
-“
-Where regulations made under section 19(3) are amended or replaced, the regulations as in force immediately before the commencement day of the amending or replacing regulations
-”;
-(b) in paragraph (b) by deleting “pursuant to section 18(4)” and inserting instead —
-“
-in accordance with regulations made under section 18
-”.
-(3) Section 28A(3) is amended by deleting “section 36 of the Interpretation Act 1918” and inserting instead —
-“ section 41 of the Interpretation Act 1984 ”.
-16.Section 31 amended
-Section 31 is amended by deleting “issues” and inserting instead —
-“ grants ”.
-17.Section 35 amended
-Section 35 is amended by deleting “issue,”.
-18.Section 48C amended
-Section 48C(1)(a) is amended by deleting “issued”.
-19.Section 49 amended
-Section 49(4) is repealed and the following subsection is inserted instead —
-“
-(4) Regulations may except a prescribed vehicle from the application of subsection (1) when it is being driven by a person with a physical disability.
-”.
-20.Section 75 amended
-Section 75(2) is amended by deleting “of its issue.” and inserting instead —
-“ it was granted. ”.
-21.Section 100 amended
-Section 100(2) is amended by deleting “the issue of a renewal of the licence or of a registration label” and inserting instead —
-“
-the renewal of the licence or the issue of a registration label
-”.
-22.First and Second Schedules repealed
-The First and Second Schedules are repealed.
-23.Various references to “issue” changed to “grant”
-(1) The Act is amended by deleting “issue” in each place where it occurs that is specified in the Table to this subsection and inserting instead —
-“ grant ”.
-Table
-s. 15(4) | s. 43(1)(d) (2 places)
-s. 17(1) | s. 44(1)
-s. 17(2) | s. 47(1)
-s. 17(4) | s. 47(2)
-s. 17(6) | s. 48(1)
-s. 20(1) (2 places) | s. 48(3)(a)
-s. 22(4) | s. 48(5)
-s. 25(1) | s. 48(10)(a)
-s. 26(1) | s. 48C(1)
-s. 26(3)(a) | s. 48C(1a)
-s. 27(1) (first and third places) | s. 48C(2)
-s. 29(1) | s. 49(2)(a)(i)
-s. 42(2) | s. 76(1)
-s. 42(7) (2 places) | s. 76(3)
-s. 42(8) | s. 76(3a)
-s. 42B(1) | s. 76(5)(a)
-s. 42B(2) | s. 111(2)(i)
-(2) The Act is amended by deleting “issued” in each place where it occurs that is specified in the Table to this subsection and inserting instead —
-“ granted ”.
-Table
-s. 5(1) (definition of “driver’s licence”) s. 5(1) (definition of “unrestricted licence”) s. 8(2) (2 places) s. 8(5) s. 19(17) (3 places) s. 19(18) (3 places) s. 20(2) s. 20(3) s. 24(4) s. 24B(3)(c) | s. 45(1a) s. 45(3) s. 45(4) (2 places) s. 46(1)(a) s. 48(6)(a) s. 48(8) (2 places) s. 48A(1) s. 48C(2) s. 48C(3) s. 48C(4) s. 48D(1) (2 places) s. 48E(1)(b)
-s. 26(3)(a) s. 26(4) s. 26(5)(b) s. 27(1) s. 27(2) s. 27A(2) s. 28(b) s. 28(c) s. 32 | s. 49(2)(b) (2 places) s. 50 s. 51(1) s. 51(3) s. 64A(3)(b) s. 75(2) s. 75(2c)(a) s. 76(3) s. 76(5)(a)(i)
-s. 33 (2 places) s. 36 (2 places) s. 37 (2 places) s. 38(1) s. 38(2) (first place) s. 42(7)(b) s. 45(1) (4 places) | s. 76(6) s. 76(7)(a) s. 76(7)(b) s. 76(8)(a) s. 76(8)(b) s. 77(1) s. 77(1)(b)
-(3) The Act is amended by deleting “issued with” in each place where it occurs that is specified in the Table to this subsection and inserting instead —
-“ granted ”.
-Table
-s. 31 | s. 51(5)
-s. 34
-(4) The Act is amended by deleting “of issue” in each place where it occurs that is specified in the Table to this subsection and inserting instead —
-“ it is granted ”.
-Table
-s. 45(1a) | s. 48C(3)
-s. 46(1)(a)
-[Section 23 amended by No. 45 of 2002 s. 29(2).]
-24.Various references to “fee” changed to “charge”
-The Act is amended by deleting “fee” in each place where it occurs that is specified in the Table to this section and inserting instead —
-“ charge ”.
-Table
-s. 19(1) (second place) | s. 33 (2 places)
-s. 19(17) (7 places) | s. 34 (2 places)
-s. 24(1)(b) (2 places) | s. 37 (3 places)
-s. 31 | s. 38(1)
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
@@ -1279,10 +1102,11 @@ Unless it has already come into operation, section 20 of the Road Traffic Amendm
 48.Section 23 amended if not commenced
 Unless it has already come into operation, section 23 of the Road Traffic Amendment (Vehicle Licensing) Act 2001 is, immediately before section 6 of this Act comes into operation, amended as follows:
 (a) in the Table to subsection (1), by deleting each item relating to any provision of sections 42 to 76 of the Road Traffic Act 1974;
-,(b)in the Table to subsection (2), by deleting —
+(b) in the Table to subsection (2), by deleting —
 (i) both items relating to section 5(1) of the Road Traffic Act 1974;
 (ii) each item relating to any provision of sections 42 to 51 of the Road Traffic Act 1974;
 (iii) the items relating to any provision of sections 75 to 77 of the Road Traffic Act 1974;
 (c) in the Table to subsection (3), by deleting the item relating to section 51(5) of the Road Traffic Act 1974;
 (d) by repealing subsection (4) and the Table to it.
 ”.
+Pt. 4 Div. 4 will not be included because the Road Traffic Amendment (Vehicle Licensing) Act 2001 has already commenced (see s. 45-48).
