@@ -10,3 +10,4 @@ HR | The person is to have held a driver’s licence appropriate to a class C mo
 HC | The person is to have held a driver’s licence appropriate to a class C motor vehicle for a period of 2 years. AND The person is to hold a driver’s licence appropriate to a class MR or HR motor vehicle.
 MC | The person is to hold a driver’s licence appropriate to a class HR or HC motor vehicle.
 [Schedule 10 inserted in Gazette 9 Feb 2001 p. 790.]
+[Schedule 11 repealed in Gazette 28 Nov 2006 p. 4916.]
