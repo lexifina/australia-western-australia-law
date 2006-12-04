@@ -16,5 +16,6 @@ Road Traffic (Vehicle Standards) Amendment Regulations 2005 | 13 Dec 2005 p. 598
 Road Traffic (Vehicle Standards) Amendment Regulations (No. 6) 2005 | 23 Dec 2005 p. 6281-3 | 1 Jan 2006 (see r. 2 and Gazette 23 Dec 2005 p. 6244-5)
 Road Traffic (Vehicle Standards) Amendment Regulations (No. 2) 2006 | 26 May 2006 p. 1883-4 | 1 Jul 2006 (see r. 2)
 Road Traffic (Vehicle Standards) Amendment Regulations (No. 3) 2006 | 23 Jun 2006 p. 2225-6 | 1 Jul 2006 (see r. 2)
+Road Traffic (Vehicle Standards) Amendment Regulations 2006 | 28 Nov 2006 p. 4895-6 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
 The Local Courts Act 1904 was repealed by the Courts Legislation Amendment and Repeal Act 2004 s. 4. Under s. 10 of that Act a reference in a written law to the Local Court is, unless the contrary intention appears, to be read as a reference to the Magistrates Court.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
