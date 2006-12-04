@@ -13,14 +13,14 @@ Dated this....................................day of............................
 Form 5
 [Reg. 25A(1)]
 Road Traffic Act 1974
-Road Traffic (Licensing) Regulations 1975
+Road Traffic (Vehicle Licensing) Regulations 1975
 CERTIFICATE OF RIGHT TO DISPLAY AND TRADE
 In accordance with the regulations made pursuant to the Road Traffic Act 1974 ................................................................................................................................ has the right to display and trade the special plate bearing the characters............. ................................................................................................................................
 ............................................... For and on behalf of the Director General.
-[Form 5 inserted in Gazette 24 May 1985 p. 1763; amended in Gazette 31 Jan 1997 p. 683.]
+[Form 5 inserted in Gazette 24 May 1985 p. 1763; amended in Gazette 31 Jan 1997 p. 683; 28 Nov 2006 p. 4910.]
 Form 6
 Road Traffic Act 1974
-Road Traffic (Licensing) Regulations 1975
+Road Traffic (Vehicle Licensing) Regulations 1975
 TRANSFER OF RIGHT TO DISPLAY SPECIAL PLATES
 Description of special plate
 Vendor
@@ -31,4 +31,5 @@ Purchaser
 Dated this ............................... day of .............................., 20......
 ....................................................... Signed by Vendor
 ...................................................... Signed by Purchaser
-[Form 6 inserted in Gazette 24 May 1985 p. 1763.]
+[Form 6 inserted in Gazette 24 May 1985 p. 1763; amended in Gazette 28 Nov 2006 p. 4910.]
+[Schedule 2 repealed in Gazette 28 Nov 2006 p. 4909.]
