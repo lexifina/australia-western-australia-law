@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 August 2006 of the Road Traffic (Infringements) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Infringements) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Infringements) Regulations 1975 | 29 May 1975 p. 1521-31 | 1 Jun 1975
@@ -61,7 +61,7 @@ Road Traffic (Infringements) Amendment Regulations (No. 3) 1997 | 23 Dec 1997 p.
 Road Traffic (Infringements) Amendment Regulations 1998 | 23 Jun 1998 p. 3340-2 | 1 Jul 1998 (see r. 2)
 Road Traffic (Infringements) Amendment Regulations (No. 3) 1998 | 8 Dec 1998 p. 6588-9 | 8 Dec 1998 (see r. 2)
 Road Traffic (Infringements) Amendment Regulations (No. 3) 1999 | 20 Jul 1999 p. 3248-9 | 20 Jul 1999
-Road Traffic (Infringements) Amendment Regulations (No. 2) 1999 | 28 Sep 1999 p. 4705-6 | 1 Jan 2001 (see r. 2)
+Road Traffic (Infringements) Amendment Regulations (No. 2) 1999 | 28 Sep 1999 p. 4705-6 | 1 Jan 2001 (see r. 2) [The amendments to the First Schedule do not have effect because the items they would have amended were deleted in Gazette 1 Dec 2000 p. 6759.]
 Road Traffic (Infringements) Amendment Regulations 1999 | 30 Nov 1999 p. 5954-5 | 30 Nov 1999
 Reprint of the Road Traffic (Infringements) Regulations 1975 as at 18 Feb 2000 (includes amendments listed above except those in Gazette 28 Sep 1999)
 Road Traffic (Infringements) Amendment Regulations (No. 2) 2000 | 1 Dec 2000 p. 6759 | 1 Dec 2000 (see r. 2)
@@ -71,7 +71,6 @@ Road Traffic (Infringements) Amendment Regulations (No. 3) 2005 | 23 Dec 2005 p.
 Road Traffic (Infringements) Amendment Regulations 2005 | 23 Dec 2005 p. 6285-90 | 1 Jan 2006 (see r. 2 and Gazette 23 Dec 2005 p. 6244-5)
 Road Traffic (Infringements) Amendment Regulations 2006 | 24 Feb 2006 p. 883-4 | 24 Feb 2006
 Road Traffic (Infringements) Amendment Regulations (No. 3) 2006 | 1 Aug 2006 p. 2835-6 | 1 Aug 2006
-Citation | Gazettal | Commencement
 Reprint 5: The Road Traffic (Infringements) Regulations 1975 as at 18 Aug 2006 (includes amendments listed above)
+Road Traffic (Infringements) Amendment Regulations (No. 2) 2006 | 28 Nov 2006 p. 4911-12 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
 This amendment was superseded in Gazette 29 Jun 1979 p. 1777-8.
-By Authority: JOHN A. STRIJK, Government Printer

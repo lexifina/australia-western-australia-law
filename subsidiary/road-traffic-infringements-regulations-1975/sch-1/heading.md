@@ -17,7 +17,7 @@ Road Traffic Act 1974
 [Heading and items 12-86 deleted]
 [Heading and items 87-106 deleted]
 Road Traffic (Drivers’ Licences) Regulations 1975
-107.Regulation 13(1) | Driving without “P” plate displayed when the holder of a driver’s licence issued on probation ........................................................ | 2
+107.Regulation 13(1) | Driving without “P” plate displayed when the holder of a driver’s licence granted on probation ........................................................ | 2
 Road Traffic (Licensing) Regulations 1975
 108.Regulation 15(2) | Failure to deliver up on demand a suspended or cancelled vehicle licence or licence obtained by misrepresentation or fraud.......... | 2
 109.Regulation 22(3) | Failure to return number plates....................... | 2
@@ -26,4 +26,4 @@ Road Traffic (Licensing) Regulations 1975
 111.Regulation 27 | Painting or interfering with, or suffering another, paint or interfere with, any number plate, except for the purposes of reinstatement ................................................. | 2
 112.Regulation 28(6) | Altering, defacing, obliterating or removing identification mark from engine, or stamping on or affixing to engine a purported identification mark......................................... | 2
 113.Regulation 34 | Failure to hand over vehicle licence when disposing of used vehicle............................... | 2
-[Schedule 1, formerly First Schedule, inserted in Gazette 23 Dec 1997 p. 7445-51; amended in Gazette 23 Jun 1998 p. 3340-2; 20 Jul 1999 p. 3249; 30 Nov 1999 p. 5955; 1 Dec 2000 p. 6759; 1 Nov 2002 p. 5390; 23 Dec 2005 p. 6276 and 6286.]
+[Schedule 1, formerly First Schedule, inserted in Gazette 23 Dec 1997 p. 7445-51; amended in Gazette 23 Jun 1998 p. 3340-2; 20 Jul 1999 p. 3249; 30 Nov 1999 p. 5955; 1 Dec 2000 p. 6759; 1 Nov 2002 p. 5390; 23 Dec 2005 p. 6276 and 6286; 28 Nov 2006 p. 4912.]
