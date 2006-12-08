@@ -239,6 +239,7 @@ Parole and Sentencing Legislation Amendment Act 2006 s. 89 | 41 of 2006 | 22 Sep
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Land Information Authority Act 2006 s. 185 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Electoral Legislation Amendment Act 2006 Pt. 2 | 64 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2(2))
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -514,5 +515,32 @@ On the date as at which this compilation was prepared, the Land Information Auth
 (2) Schedule V Part 3 is amended by inserting before the item commencing “The board of management of the Western Australian Sports Centre Trust” the following item —
 “
 The board of management of the Western Australian Land Information Authority established by the Land Information Authority Act 2006.
+”.
+”.
+On the date as at which this compilation was prepared, the Electoral Legislation Amendment Act 2006 Pt. 2 had not come into operation. It reads as follows:
+“
+Part 2 — Constitution Acts Amendment Act 1899 amended
+3.The Act amended in this Part
+The amendments in this Part are to the Constitution Acts Amendment Act 1899.
+4.Section 7 repealed
+Section 7 is repealed.
+5.Section 15 repealed
+Section 15 is repealed.
+6.Section 20 repealed
+Section 20 is repealed.
+7.Section 33 amended
+Section 33 is amended by inserting after “Part” —
+“ or the Electoral Act 1907 section 149A(2) ”.
+8.Section 35 repealed
+Section 35 is repealed.
+9.Section 38 amended
+Section 38(a) is amended by deleting “section 7 or section 20 to be elected a member of the House of which he is a member;” and inserting instead —
+“
+the Electoral Act 1907 section 76A to be elected as a member of the Legislature;
+”.
+10.Section 40 amended
+Section 40(a) is amended by deleting “section 7 or section 20 to be elected” and inserting instead —
+“
+the Electoral Act 1907 section 76A to be elected as
 ”.
 ”.
