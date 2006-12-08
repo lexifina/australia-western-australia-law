@@ -49,6 +49,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 2 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
+Prisons and Sentencing Legislation Amendment Act 2006 Pt. 5 | 65 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2)
 The Bail Amendment Act 1984 s. 10 and 11 were repealed by the Bail Amendment Act 1988 s. 20.
 The Bail Act 1982 was not in operation at the time when the reprint was compiled, but the reprinting was authorised by s. 21 of the Bail Amendment Act 1988.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a transitional provision that is of no further effect.
@@ -171,4 +172,38 @@ s. 50A | s. 50J
 s. 50C(4)(a) and (b) | s. 50L(1)
 s. 50D(1)(a) | Sch. 1 Part D cl. 3(3)(e)
 Note:The headings to sections 27A, 50A, 50E, 50F and 50J will be altered by deleting “(Justice)”.
+”.
+On the date as at which this compilation was prepared, the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 5 had not come into operation. It reads as follows:
+“
+Part 5 — Bail Act 1982 amended
+50.The Act amended in this Part
+The amendments in this Part are to the Bail Act 1982.
+51.Section 3 amended
+Section 3(1) is amended as follows:
+(a) by deleting the definition of “CEO (Justice)”;
+(b) by inserting in the appropriate alphabetical position —
+“
+“CEO (corrections)” means the chief executive officer of the Public Sector agency principally assisting the Minister administering Part 8 of the Sentence Administration Act 2003 in its administration;
+”;
+(c) in paragraph (a) of the definition of “authorised community services officer” by deleting “CEO (Justice)” in each place where it occurs and inserting instead —
+“ CEO (corrections) ”.
+52.Section 66A amended
+Section 66A(2) is amended as follows:
+(a) by inserting after “detention centre” —
+“ under the Young Offenders Act 1994 ”;
+(b) by deleting “department of which the CEO (Justice) is the chief executive officer” and inserting instead —
+“
+Public Sector agency principally assisting the Minister administering that Act in its administration
+”.
+53.References to “CEO (Justice)” changed to “CEO (corrections)”
+Each provision in the Table to this section is amended by deleting “(Justice)” in each place where it occurs and inserting instead —
+“ (corrections) ”.
+Table
+s. 3(5) | s. 50E
+s. 24A(4) | s. 50F(1), (3), (4) and (5)
+s. 27A | s. 50H
+s. 50A | s. 50J
+s. 50C(4)(a) and (b) | s. 50L(1)
+s. 50D(1)(a) | Schedule 1 Part D clause 3(3)(e)
+Note:The headings to sections 50A, 50E, 50F and 50J are to be altered by deleting “(Justice)” and inserting instead “(corrections)”.
 ”.
