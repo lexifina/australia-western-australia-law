@@ -52,6 +52,7 @@ Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s.
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Parole and Sentencing Legislation Amendment Act 2006 s. 91 | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
+Prisons and Sentencing Legislation Amendment Act 2006 Pt. 9 | 65 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 The Juries Amendment Act 1984 s. 25 reads as follows:
 “
@@ -157,5 +158,24 @@ Schedule 3 — Consequential amendments
 (2) The Second Schedule Part II item 2 is amended by deleting “Nurses registered under the Nurses Act 1968” and inserting instead —
 “
 Midwives and nurses registered under the Nurses and Midwives Act 2006
+”.
+”.
+On the date as at which this compilation was prepared, the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 9 had not come into operation. It reads as follows:
+“
+Part 9 — Juries Act 1957 amended
+65.The Act amended in this Part
+The amendments in this Part are to the Juries Act 1957.
+66.Second Schedule amended
+The Second Schedule Part I clause 2 is amended as follows:
+(a) by deleting paragraph (i);
+(b) in paragraph (n) by deleting “1994.” and inserting instead —
+“ 1994; ”;
+(c) by inserting after paragraph (n) —
+“
+(o) person who —
+(i) is an officer or employee of an agency as defined in section 3(1) of the Public Sector Management Act 1994; or
+(ii) provides services to such an agency under a contract for services; or
+(iii) is a contract worker as defined in section 3 of the Court Security and Custodial Services Act 1999 or section 15A of the Prisons Act 1981,
+being a person prescribed or of a class prescribed by regulations.
 ”.
 ”.
