@@ -102,7 +102,7 @@ Notes:
 4.In Part B-1 subjects may be taken separately, that is on a single subject basis. In Part B-2 the subjects must be attempted and passed as a group.
 MATE CLASS IV — Prerequisites —
 (a)Qualifying service (in trading and/or fishing vessels as appropriate) required for the basic certificate of competency —
-—3 years of approved seagoing service.
+—3 years of approved sea service.
 (b)Qualifying service for endorsement of basic certificate of competency for “Trading” or “Fishing” endorsements —
 —6 months of approved service in the industry (i.e. trading or fishing) in vessels of less than 80 metres in length engaged in operations appropriate to the endorsement, including 3 months obtained within the preceding 5 years.
 Notes: Candidates may take Parts B-1 and B-2 of the examination after completing one-half of the qualifying service. However Part C may be attempted only after all the qualifying service is acquired.
@@ -293,7 +293,7 @@ Examination Subjects —
 Engineering Knowledge (1 3-hour paper)
 Engineering Knowledge (Oral)
 (b)The examination for refrigeration endorsement of a certificate as Marine Engine-Driver Grade II shall be in accordance with the syllabuses set out in Schedule 2 to Section 2 of the Code.
-[Schedule 4 amended in Gazette 2 Aug 1985 p. 2697; 11 Aug 1992 p. 3977; 24 Aug 2004 p. 3661.]
+[Schedule 4 amended in Gazette 2 Aug 1985 p. 2697; 11 Aug 1992 p. 3977; 24 Aug 2004 p. 3661; 8 Dec 2006 p. 5390.]
 Schedule 5 [r. 28] Safety manning PART I TOTAL SAFETY MANNING FOR SHELTERED WATERS (SEE NOTE 7) AND INSHORE OPERATIONAL AREAS | Engine room manning | Other personnel | As determined by Manning Committee
 Certificated personnel (see Note 1) | Qualification (see Note 3) | Marine Engine Driver Grade I | Marine Engine Driver Grade II | Master’s certificate with Engineer Endorsement (see Note 9)
 Duty | Engineer | Engineer | Engineer

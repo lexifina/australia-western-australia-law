@@ -36,4 +36,5 @@ W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulation
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2005 | 24 Jun 2005 p. 2782-3 | 1 Jul 2005 (see r. 2)
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2006 | 16 Jun 2006 p. 2124-6 | 16 Jun 2006
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations (No. 2) 2006 | 23 Jun 2006 p. 2212-13 | 1 Jul 2006 (see r. 2)
+W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations (No. 3) 2006 | 8 Dec 2006 p. 5387-90 | 8 Dec 2006
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
