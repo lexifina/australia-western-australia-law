@@ -6,8 +6,8 @@ Land Information Authority Act 2006 Pt. 1 | 60 of 2006 | 16 Nov 2006 | Pt. 1: 17
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Land Information Authority Act 2006 Pt. 2-8 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
-2On the date as at which this compilation was prepared, the Land Information Authority Act 2006 Pt. 2-8 had not come into operation. They read as follows:
+Land Information Authority Act 2006 Pt. 2-8 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2 and Gazette 8 Dec 2006 p. 5369)
+On the date as at which this compilation was prepared, the Land Information Authority Act 2006 Pt. 2-8 had not come into operation. They read as follows:
 “
 Part 2 — Western Australian Land Information Authority
 5.Authority established
