@@ -16,13 +16,13 @@ up to a maximum fee for a —
 (ii)with trains travelling 15 000 km or less per annum |  | 500
 [3.deleted]
 4.Annual private siding registration fee, per siding | s. 22(1) | 50
-5. Annual fee for an owner (per kilometre of track or part thereof) with the minimum fee prescribed in item 9 | s. 22(1) | 27.7664
+5. Annual fee for an owner (per kilometre of track or part thereof) with the minimum fee prescribed in item 9 | s. 22(1) | 26.7664
 6. Annual fee for an operator (per train/tram kilometre) with the minimum fee prescribed in item 9 | s. 22(1) | 0.0249
-7.Additional annual fee for an owner if an accreditation is varied (per kilometre of track or part thereof) | s. 22(2) | 25.9868
+7.Additional annual fee for an owner if an accreditation is varied (per kilometre of track or part thereof) | s. 22(2) | 26.7664
 8.Additional annual fee for an operator if an accreditation is varied (per train/tram kilometre) | s. 22(2) | 0.0249
 9.Minimum Annual Accreditation fee for an operator or owner for a — | s. 22(1)
 (a)commercial enterprise |  | 5 000
 (b)heritage, non-profit organization
 (i)with trains travelling more than 15 000 km per annum |  | 1 200
 (ii)with trains travelling 15 000 km or less per annum |  | 500
-[Schedule 2 amended in Gazette 19 May 2000 p. 2438-9; 13 Jul 2001 p. 3476; 25 Jun 2004 p. 2291; 24 Jun 2005 p. 2790; 23 Jun 2006 p. 2224.]
+[Schedule 2 amended in Gazette 19 May 2000 p. 2438-9; 13 Jul 2001 p. 3476; 25 Jun 2004 p. 2291; 24 Jun 2005 p. 2790; 23 Jun 2006 p. 2224; 8 Dec 2006 p. 5393.]
