@@ -36,6 +36,7 @@ Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Sentencing Legislation Amendment Act 2004 s. 14(2) | 27 of 2004 | 14 Oct 2004 | To be proclaimed (see s. 2)
 Parole and Sentencing Legislation Amendment Act 2006 s. 95(2) | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
+Prisons and Sentencing Legislation Amendment Act 2006 Pt. 6 | 65 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 Chapter XXXII of The Criminal Code was repealed by the Acts Amendment (Evidence) Act 1991 s. 12(9).
 Now known as the Children’s Court of Western Australia Act 1988; short title changed (see note under s. 1).
@@ -61,4 +62,31 @@ On the date as at which this compilation was prepared, the Parole and Sentencing
 95.Sentencing Legislation Amendment Act 2004 amended
 (1) The amendments in this section are to the Sentencing Legislation Amendment Act 2004.
 (2) Section 14(2) is repealed.
+”.
+On the date as at which this compilation was prepared, the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 6 had not come into operation. It reads as follows:
+“
+Part 6 — Children’s Court of Western Australia Act 1988 amended
+54.The Act amended in this Part
+The amendments in this Part are to the Children’s Court of Western Australia Act 1988.
+55.Section 3 amended
+Section 3(1) is amended as follows:
+(a) by inserting in the appropriate alphabetical positions —
+“
+“CEO (young offenders)” means the chief executive officer of the young offenders agency;
+“young offenders agency” means the Public Sector agency principally assisting the Minister administering the Young Offenders Act 1994 in its administration.
+”;
+(b) in the definition of “registrar” by deleting “place.” and inserting instead —
+“ place; ”;
+(c) by deleting the definitions of “CEO” and “Department”.
+56.Section 28 amended
+Section 28(2)(a) is amended by deleting “the CEO or” and inserting instead —
+“ the CEO (young offenders) or ”.
+57.Section 33 amended
+Section 33(1) is amended in the definition of “prescribed officer” by deleting paragraph (a) and “or” after it and inserting instead —
+“
+(a)the CEO (young offenders) or an officer of the young offenders agency who is authorised by that CEO; or
+”.
+58.Section 40 amended
+Section 40(2)(b) is amended by inserting after “CEO” —
+“ (young offenders) ”.
 ”.
