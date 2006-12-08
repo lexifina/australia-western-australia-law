@@ -17,6 +17,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Parole and Sentencing Legislation Amendment Act 2006 Pt. 4 | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
+Prisons and Sentencing Legislation Amendment Act 2006 Pt. 7 | 65 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2)
 Now known as the Criminal Law (Mentally Impaired Accused) Act 1996; short title changed (see note under s. 1).
 On the date as at which this compilation was prepared, the Parole and Sentencing Legislation Amendment Act 2006 Pt. 4 had not come into operation. It reads as follows:
 “
@@ -69,4 +70,17 @@ Section 43 is repealed and the following section is inserted instead —
 “ chairperson ”.
 (3) Section 46(3)(b) is amended by deleting “judicial member” and inserting instead —
 “ chairperson ”.
+”.
+On the date as at which this compilation was prepared, the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 7 had not come into operation. It reads as follows:
+“
+Part 7 — Criminal Law (Mentally Impaired Accused) Act 1996 amended
+59.The Act amended in this Part
+The amendments in this Part are to the Criminal Law (Mentally Impaired Accused) Act 1996.
+60.Section 32 amended
+Section 32(2) is amended by deleting “accused.” and inserting instead —
+“
+accused unless the reason for the absence is —
+(a) the facilitation of the provision of medical or health services to the accused; or
+(b) the furthering of the interests of justice.
+”.
 ”.
