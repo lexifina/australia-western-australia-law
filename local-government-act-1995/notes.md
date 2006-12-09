@@ -18,7 +18,7 @@ Disability Services Amendment Act 1999 s. 28(3) | 44 of 1999 | 25 Nov 1999 | 25 
 Reprint of the Local Government Act 1995 as at 18 Feb 2000 (includes amendments listed above except those in the School Education Act 1999)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 22 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
 Corporations (Consequential Amendments) Act 2001 Pt. 36 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
-Road Traffic Amendment (Vehicle Licensing) Amendment Act 2001 Pt. 3 Div. 3 | 28 of 2001 | 21 Dec 2001 | 4 Dec 2006 (see s. 2 and Gazette 28 Nov 2006 p. 4889)
+Road Traffic Amendment (Vehicle Licensing) Act 2001 Pt. 3 Div. 3 | 28 of 2001 | 21 Dec 2001 | 4 Dec 2006 (see s. 2 and Gazette 28 Nov 2006 p. 4889)
 Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 14 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
 Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 7 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth Gazette 24 Oct 2001 No. GN42)
 Acts Amendment (Equality of Status) Act 2003 Pt. 38 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
@@ -33,12 +33,14 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
  | Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 14 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
  | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+ | Local Government Amendment Act 2006 | 66 of 2006 | 8 Dec 2006 | Act other than s. 14: 9 Dec 2006 (see s. 2(1))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2004 s. 16(1), (2), (3) and (5), 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Land Information Authority Act 2006 s. 144 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Local Government Amendment Act 2006 s. 14 | 66 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2(2))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under s. 7(4)(e) of the Reprints Act 1984. Schedule 9.2 cl. 4 reads as follows:
 “
 4.Parts II to VII repealed
@@ -210,7 +212,11 @@ The State Administrative Tribunal Regulations 2004 r. 56 reads as follows:
 (2) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.77 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.77.
 (3) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.78 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.78.
 ”.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Local Government Amendment Act 2006 s. 14 had not come into operation. It reads as follows:
+“
+14.Schedule 2.3 amended
+Schedule 2.3 is amended in clause 4(6) by deleting “the procedures set out in”.
+”.
 On the date as at which this compilation was prepared, the Local Government Amendment Act 2004 s. 16(1), (2), (3) and (5), 19(2), 20 and 38(3) had not come into operation. They read as follows:
 “
 Part 4 — Other amendments
