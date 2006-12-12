@@ -5,7 +5,7 @@
  | Local government | Fee per animal ($)
 Pigs | Bovines (70kg & under) Other animals | Bovines (over 70kg)
 1 | Augusta-Margaret River ....... | 5.50 | 1.10 | 8.80
-2 | Bunbury ................................ | 2.00 | 0.65 | 2.95
+2 | Bunbury ................................ | 2.25 | 0.70 | 3.25
 3 | Busselton ............................. | — | 0.33 | 2.64
 4 | Capel ................................... | — | 0.60 | 3.52
 5 | Coolgardie ........................... | 1.10 | 0.22 | —
@@ -23,7 +23,7 @@ Pigs | Bovines (70kg & under) Other animals | Bovines (over 70kg)
 17 | Serpentine-Jarrahdale .......... | — | 0.36 | —
 18 | Tammin ............................... | — | 1.00 | —
 19 | Wyndham/East Kimberley .. | — | 0.55 | 4.40
-[Part 1 inserted in Gazette 22 Feb 2005 p. 811-12; amended in Gazette 31 May 2005 p. 2408; 15 Nov 2005 p. 5602.]
+[Part 1 inserted in Gazette 22 Feb 2005 p. 811-12; amended in Gazette 31 May 2005 p. 2408; 15 Nov 2005 p. 5602; 12 Dec 2006 p. 5493.]
 ## Part 2 — Game meat premises fees
 [r. 17(1)(f)(ii)]
  |  | $
