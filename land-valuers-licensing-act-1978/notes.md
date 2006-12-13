@@ -18,6 +18,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | To be proclaimed (see s. 2)
+Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 6 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 The Land Valuers Licensing Amendment Act 1984 s. 4(2) and 6(2) are transitional provisions that are of no further effect.
 The Business Licensing Amendment Act 1995 s. 32 is a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -40,3 +41,36 @@ Table 2 — Various provisions
 Land Valuers Licensing Act 1978 | s. 14(2)
 ”.
 The amendment of section 14(2) by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 is not possible because of the repeal of section 14(2) by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 591.
+On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 6 had not come into operation. It reads as follows:
+“
+Part 6 — Land Valuers Licensing Act 1978 amended
+14.The Act amended
+The amendments in this Part are to the Land Valuers Licensing Act 1978.
+15.Section 12 amended
+Section 12(6) is amended by deleting “$500.” and inserting instead —
+“ $5 000. ”.
+16.Section 13 amended
+Section 13(2) is amended by deleting “$500.” and inserting instead —
+“ $5 000. ”.
+17.Section 23 amended
+Section 23(1) is amended by deleting “$500.” and inserting instead —
+“ $50 000. ”.
+18.Section 24 amended
+Section 24(1) is amended by deleting “$500.” and inserting instead —
+“ $50 000. ”.
+19.Section 25 amended
+Section 25(3) is amended by deleting “$500.” and inserting instead —
+“ $5 000. ”.
+20.Section 28 amended
+Section 28(1)(b) is amended by deleting “$500” and inserting instead —
+“ $10 000 ”.
+21.Section 29A amended
+Section 29A(1) is amended by deleting “$250.” and inserting instead —
+“ $2 000. ”.
+22.Section 33 amended
+Section 33(2) is amended by deleting “$500.” and inserting instead —
+“ $5 000. ”.
+23.Section 36 amended
+Section 36(2)(g) is amended by deleting “$100” and inserting instead —
+“ $1 000 ”.
+”.
