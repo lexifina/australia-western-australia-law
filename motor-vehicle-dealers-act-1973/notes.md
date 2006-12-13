@@ -34,6 +34,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 | 73 of 2003 | 15 Dec 2003 | To be proclaimed (see s. 2)
+Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 7 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 Footnote no longer applicable.
 The Motor Vehicle Dealers Act 1973 s. 40 did not come into operation and was repealed by the Motor Vehicle Dealers Amendment Act 2002 s. 62.
 The Business Licensing Amendment Act 1995 s. 38 is a transitional provision that is of no further effect.
@@ -192,4 +193,13 @@ In this Division —
 “commencement” means the time at which this Division comes into operation;
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+”.
+On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 7 had not come into operation. It reads as follows:
+“
+Part 7 — Motor Vehicle Dealers Act 1973 amended
+24.The Act amended
+The amendments in this Part are to the Motor Vehicle Dealers Act 1973.
+25.Section 32K amended
+Section 32K(4) is amended by deleting “agent” and inserting instead —
+“ dealer ”.
 ”.
