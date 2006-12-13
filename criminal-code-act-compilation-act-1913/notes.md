@@ -145,6 +145,7 @@ Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 5 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
+Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 The Criminal Code Amendment Act (No. 2) 1996 s. 4(3) reads as follows:
@@ -249,4 +250,14 @@ Division 2 — Transitional provisions
 (4) If immediately before repeal day a warrant issued under The Criminal Code section 716 is in force but not executed, then, subject to the terms of the warrant, the warrant may be executed on or after repeal day and, if any person is found under it, then, despite section 716 and the warrant, the person must be released unless another written law provides to the contrary.
 (5) If immediately before repeal day a person is in possession of any thing seized or taken under The Criminal Code, then on repeal day, subject to any order previously made in respect of the thing under The Criminal Code section 714, the thing is to be taken to be seized property for the purposes of the Criminal and Found Property Disposal Act 2006 and that Act applies to and in respect of it accordingly.
 (6) If immediately before repeal day proceedings under The Criminal Code section 714A in respect of any property are pending in the Magistrates Court, then section 714A operates in respect of the property on and after repeal day despite its repeal on repeal day.
+”.
+On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 114 had not come into operation. It reads as follows:
+“
+114.Amendments relating to the amended title of the Liquor Licensing Act 1988
+The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Liquor Licensing Act 1988” and inserting instead —
+“ Liquor Control Act 1988 ”.
+Table
+............
+The Criminal Code | s. 206(1) (“intoxicant”)
+...........................
 ”.
