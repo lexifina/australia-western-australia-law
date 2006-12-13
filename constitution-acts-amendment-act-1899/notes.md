@@ -240,6 +240,7 @@ Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Land Information Authority Act 2006 s. 185 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 Electoral Legislation Amendment Act 2006 Pt. 2 | 64 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2(2))
+Liquor and Gaming Legislation Amendment Act 2006 s. 116 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -542,5 +543,15 @@ the Electoral Act 1907 section 76A to be elected as a member of the Legislature;
 Section 40(a) is amended by deleting “section 7 or section 20 to be elected” and inserting instead —
 “
 the Electoral Act 1907 section 76A to be elected as
+”.
+”.
+On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 116 had not come into operation. It reads as follows:
+“
+116.Constitution Acts Amendment Act 1899 amended
+(1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 1 Division 1 is amended by deleting the item relating to the Liquor Licensing Court Judge appointed under the Liquor Act 1970.
+(3) Schedule V Part 3 is amended after the item relating to the Legislative Review and Advisory Committee by inserting —
+“
+The Liquor Commission established under the Liquor Control Act 1988.
 ”.
 ”.
