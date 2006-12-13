@@ -20,6 +20,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Retail Shops and Fair Trading Legislation Amendment Act 2006 Pt. 4 | 47 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
+Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 5 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 This reference, and all following references, to “TPA”, refers to the Trade Practices Act 1974 of the Commonwealth.
 Footnote no longer applicable.
 Footnote no longer applicable.
@@ -155,4 +156,41 @@ Section 77(4), (5) and (6) are each amended after “section 11” by inserting 
 31.Section 79 amended
 Section 79(1) is amended by deleting “(section 11 excepted)” and inserting instead —
 “ (sections 11 and 11A excepted) ”.
+”.
+On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 5 had not come into operation. It reads as follows:
+“
+Part 5 — Fair Trading Act 1987 amended
+12.The Act amended
+The amendment in this Part is to the Fair Trading Act 1987.
+13.Part II Division 4 inserted
+After section 32 the following Division is inserted in Part II —
+“
+Division 4 — Third party trading schemes
+32A.Interpretation
+In this Division —
+“approved third party trading scheme” means a third party trading scheme in relation to which a notice has been given under section 32B;
+“prohibited third party trading scheme” means a third party trading scheme that is the subject of a declaration under section 32C;
+“third party trading scheme” means a scheme or arrangement under which the acquisition of goods or services by a consumer from a supplier is a condition, or one of a number of conditions, compliance with which gives rise, or apparently gives rise, to an entitlement to a benefit from a third party in the form of goods or services or some discount, concession, or advantage in connection with the acquisition of goods or services.
+32B.Minister may approve third party trading scheme
+(1) The Minister may, on application, give notice in writing that a specified third party trading scheme is an approved third party trading scheme.
+(2) The Minister is not to approve a third party trading scheme under this section unless satisfied that the scheme is genuine, reasonable, and not contrary to the interests of consumers.
+(3) An approval under this section may be given subject to such conditions as the Minister thinks fit and specifies in the notice to the applicant.
+(4) An application under this section is to be supported by such information as the Minister may require.
+32C.Prohibition of third party trading scheme
+(1) The Commissioner may recommend to the Minister that a third party trading scheme be declared to be a prohibited third party trading scheme if —
+(a) the scheme is not an approved third party trading scheme and the Commissioner is of the opinion that the scheme is not genuine and reasonable or is contrary to the interests of consumers;
+(b) in the case of an approved third party trading scheme, a condition of the approval has been contravened or not complied with; or
+(c) in the case of an approved third party trading scheme, the scheme is conducted in a manner that is not genuine, reasonable or in the interests of consumers.
+(2) The Minister may, on the recommendation of the Commissioner, by notice published in the Gazette, declare a third party trading scheme to be a prohibited third party trading scheme.
+(3) The Minister may by notice published in the Gazette revoke a declaration under this section.
+32D.Offence
+A person who —
+(a) acts as a promoter of a prohibited third party trading scheme;
+(b) as a party to a prohibited third party trading scheme, supplies goods or services; or
+(c) publishes an advertisement relating to a prohibited third party trading scheme or causes such an advertisement to be published,
+commits an offence.
+Penalty: $5 000.
+32E.Codes of practice
+The Governor may make regulations prescribing codes of practice to be complied with by persons who act as promoters of third party trading schemes or supply goods or services as parties to such schemes.
+”.
 ”.
