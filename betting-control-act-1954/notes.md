@@ -50,6 +50,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
+Betting and Racing Legislation Amendment Act 2006 Pt. 2 | 70 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
+Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 Repealed by the Acts Amendment and Repeal (Betting) Act 1992.
 The Betting Control Amendment Act 1998 s. 5(2) and (3) read as follows:
 “
@@ -152,4 +154,173 @@ Schedule 1 — Various Acts amended
 [s. 73]
 1.Betting Control Act 1954
 s. 31A(3) | Delete “and take before a justice”.
+”.
+On the date as at which this compilation was prepared, the Betting and Racing Legislation Amendment Act 2006 Pt. 2 had not come into operation. It reads as follows:
+“
+Part 2 — Betting Control Act 1954
+3.The Act amended
+The amendments in this Part are to the Betting Control Act 1954.
+4.Long title amended
+The long title is amended after “through, RWWA;” by inserting —
+“
+to prohibit betting through, and the establishment and operation of, betting exchanges;
+”.
+5.Section 4 amended
+Section 4(1) is amended after the definition of “authorised officer” by inserting —
+“
+“betting exchange” has the meaning given to that term in section 4AA;
+”.
+6.Section 4AA inserted
+After section 4 the following section is inserted —
+“
+4AA.Meaning of “betting exchange”
+In this Act —
+“betting exchange” means a facility, electronic or otherwise, that enables persons —
+(a)to place or accept, through the operator of the betting exchange, bets with other persons; or
+(b)to place with the operator of the betting exchange bets that, on acceptance, are matched with opposing bets placed with and accepted by the operator,
+but does not include a facility, electronic or otherwise, that enables persons to place bets only with a bookmaker or a totalisator.
+”.
+7.Section 24 amended
+(1) After section 24(1) the following subsection is inserted —
+“
+(1aa) A person who bets through the use of a betting exchange commits an offence.
+Penalty: $10 000, or 24 months imprisonment, or both.
+”.
+(2) Section 24(1a) is amended after “subsection (1)” by inserting —
+“ or (1aa) ”.
+(3) Section 24(2) is amended by deleting the definition of “interstate offence” and inserting instead —
+“
+“interstate offence” means —
+(a)in relation to an offence under subsection (1) — an offence under the law of another State or a Territory, which offence is declared by the regulations to be an offence that corresponds to an offence under that subsection; or
+(b)in relation to an offence under subsection (1aa) — an offence under the law of another State or a Territory, which offence is declared by the regulations to be an offence that corresponds to an offence under that subsection.
+”.
+8.Section 27A amended
+(1) Section 27A(1) is amended as follows:
+(a) before the definition of “authorised person” by inserting —
+“
+“approved sporting event” means —
+(a)a sporting event; or
+(b)a specific contingency of, or relating to, a sporting event,
+that is the subject of an approval given under section 4B(2);
+”;
+(b) after “races” in paragraph (b) of the definition of “authorised person” by inserting —
+“ or sporting events ”;
+(c) after “race” in paragraph (a) of the definition of “offshore bet” by inserting —
+“ , or on an approved sporting event, ”;
+(d) after “races” in the definition of “offshore betting operator” by inserting —
+“ or sporting events ”.
+(2) Section 27A(2) is amended by deleting “whom” and inserting instead —
+“ who ”.
+(3) Section 27A(5)(a) is amended after “races” by inserting —
+“ or sporting events ”.
+(4) Section 27A(5)(b) is amended as follows:
+(a) after “racing” by inserting —
+“ or sporting ”;
+(b) after “races” by inserting —
+“ or sporting events ”.
+9.Sections 27B to 27F inserted and consequential amendment to the Gaming and Wagering Commission Act 1987
+(1) After section 27A the following sections are inserted —
+“
+27B.Establishing or operating a betting exchange prohibited
+(1) A person who establishes or operates a betting exchange commits an offence.
+Penalty: $10 000, or 24 months imprisonment, or both.
+(2) For the purposes of subsection (1) —
+(a) anything done by the holder of a current bookmaker’s licence in accordance with this Act in carrying on the business or vocation of, or acting as, a bookmaker; or
+(b) anything done by RWWA in accordance with the RWWA Act or another written law; or
+(c) anything done as prescribed by the regulations,
+does not constitute the establishment or operation of a betting exchange.
+27C.Interpretation and application of section 27D
+(1) In section 27D —
+“approval” means an approval under section 27D(2);
+“WA race field” means information that identifies, or is capable of identifying, the names or numbers of the horses or greyhounds —
+(a)that have been nominated for, or that will otherwise take part in, an intended race to be conducted in this State; or
+(b)that have been scratched or withdrawn from an intended race to be conducted in this State.
+(2) Subject to subsections (3) and (4), section 27D applies to —
+(a) a person who in this State or elsewhere —
+(i) carries on the business or vocation of, or acts as, a bookmaker; or
+(ii) conducts betting by the operation of a totalisator; or
+(iii) operates a betting exchange (however described); or
+(iv) gains or endeavours to gain a livelihood wholly or partly by making bets;
+or
+(b) a person who is an employee or agent of a person referred to in paragraph (a).
+(3) Section 27D does not apply to RWWA in respect of the performance of its functions in accordance with the RWWA Act or another written law.
+(4) Section 27D does not apply to a person holding a licence under Part 2 until —
+(a) the day notified under subsection (5); or
+(b) the expiry of 12 months after the commencement of the Betting and Racing Legislation Amendment Act 2006 section 9,
+whichever occurs first.
+(5) The Minister may, by notice published in the Gazette, notify the day on and from which section 27D applies to a person holding a licence under Part 2.
+27D.Publication of WA race fields restricted
+(1) A person to whom this section applies who, in this State or elsewhere, publishes or otherwise makes available a WA race field in the course of business commits an offence unless the person —
+(a) is authorised to do so by an approval; and
+(b) complies with any condition to which the approval is subject.
+Penalty: $5 000.
+(2) On the application of a person and the payment of the prescribed fee, the Minister may, by notice in writing, give an approval authorising the person to publish or otherwise make available WA race fields specified in the notice or of a class specified in the notice.
+(3) An approval may be unconditional or subject to one or more conditions specified in the notice.
+(4) The Minister may, by notice in writing, amend, suspend or revoke an approval.
+(5) Before deciding —
+(a) to give or to refuse to give an approval; or
+(b) to impose one or more conditions on an approval; or
+(c) to amend, suspend or revoke an approval,
+the Minister is to have regard to the prescribed criteria.
+(6) Without limiting any other power of the Minister under this section, the Minister may refuse to give an approval if satisfied that the approval would not be in the public interest.
+(7) If the Minister decides —
+(a) to refuse to give an approval; or
+(b) to impose one or more conditions on an approval; or
+(c) to amend, suspend or revoke an approval,
+the Minister is to give notice in writing of the decision and the reasons for the decision to the person applying for, or holding, the approval.
+27E.Delegation
+(1) The Minister may, in writing signed by the Minister, delegate the Minister’s powers and duties under section 27D to —
+(a) the Commission; or
+(b) a prescribed person.
+(2) RWWA is not to be prescribed for the purposes of subsection (1)(b).
+27F.Review of Minister’s decision
+(1) In this section —
+“approval” means an approval under section 27D(2).
+(2) A person aggrieved by the decision of the Minister —
+(a) to refuse to give an approval; or
+(b) to impose one or more conditions on an approval; or
+(c) to amend, suspend or revoke an approval,
+may apply to the State Administrative Tribunal for a review of the decision.
+”.
+(2) After the Gaming and Wagering Commission Act 1987* section 43A(3) the following subsection is inserted —
+“
+(4) In subsection (3)(c) —
+“approval” does not include an approval under the Betting Control Act 1954 section 27D(2).
+”.
+10.Sections 27G and 27H inserted and consequential repeal of sections 11H and 11I
+(1) Before section 28 the following sections are inserted —
+“
+27G.Liability of persons who occupy a position of authority in a body corporate
+(1) If a body corporate commits an offence against this Act, and it is proved that —
+(a) the offence was committed with the consent or connivance of a person who occupies a position of authority in the body corporate; or
+(b) a person who occupies a position of authority in the body corporate failed to exercise such due diligence to prevent the commission of the offence as ought to have been exercised having regard to the nature of the person’s functions and to all other circumstances,
+the person commits the same offence.
+(2) A person may be proceeded against and convicted of an offence against this Act by virtue of subsection (1) whether or not the body corporate has been proceeded against and convicted of the offence.
+27H.Liability of natural persons, partners, bodies corporate and officers
+(1) If an employee of a bookmaker who is a natural person commits an offence against this Act related to the business of the bookmaker, the bookmaker is to be treated as having committed an offence and is liable to the penalty prescribed for the offence committed by the employee.
+(2) If a manager, an employee or an agent of a bookmaker that is a partnership or a body corporate commits an offence against this Act related to the business of the partnership or body corporate as a bookmaker —
+(a) each of the partners; or
+(b) the body corporate,
+as the case may be, is to be treated as having committed an offence and is liable to the penalty prescribed for the offence committed by the manager, employee or agent of the partnership or body corporate.
+(3) If under subsection (2) a body corporate is treated as having committed an offence, each person who occupies a position of authority in the body corporate is to be treated as having committed the offence and is liable to the penalty prescribed for the offence committed by the manager, employee or agent of the body corporate, unless the person proves that —
+(a) the offence was committed without the person’s consent or connivance; and
+(b) the person exercised all such due diligence to prevent the commission of the offence as ought to have been exercised having regard to the nature of the person’s functions and to all the circumstances.
+(4) If an employee of a bookmaker that is a partnership or a body corporate commits an offence against this Act related to the business of the bookmaker, the licensed manager of the bookmaker is to be treated as having committed an offence and is liable to the penalty prescribed for the offence committed by the employee.
+”.
+(2) Sections 11H and 11I are repealed.
+11.Section 28A amended
+Section 28A(3) is amended by deleting “27 or 27A.” and inserting instead —
+“ 27, 27A or 27B. ”.
+12.Section 28B amended
+Section 28B is amended by deleting “27 or 27A — ” and inserting instead —
+“ , 27, 27A or 27B — ”.
+”.
+On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 114 had not come into operation. It reads as follows:
+“
+114.Amendments relating to the amended title of the Liquor Licensing Act 1988
+The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Liquor Licensing Act 1988” and inserting instead —
+“ Liquor Control Act 1988 ”.
+Table
+Betting Control Act 1954 | s. 26C(1)(b) s. 26C(4)
+.................................... | .........
 ”.
