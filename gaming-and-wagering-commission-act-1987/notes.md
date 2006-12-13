@@ -31,6 +31,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 9 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
+Betting and Racing Legislation Amendment Act 2006 s. 9(2) | 70 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
+Liquor and Gaming Legislation Amendment Act 2006 Pt. 3 and s. 114 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 Now known as the Gaming and Wagering Commission Act 1987; short title changed (see note under s. 1).
 The Acts Amendment (Continuing Lotteries) Act 2000 Pt. 4 (as amended by the Taxation Administration (Consequential Provisions) Act 2002 s. 6) reads as follows:
@@ -110,4 +112,52 @@ Section 41(5) is amended as follows:
 (b) by deleting “is brought before the court or is the subject of an embargo notice under section 90B of the Police Act 1892” and inserting instead —
 “ has been seized ”;
 (c) by deleting “and either destroyed or dealt with in such other manner as the court may, then or subsequently, approve”.
+”.
+On the date as at which this compilation was prepared, the Betting and Racing Legislation Amendment Act 2006 s. 9(2) had not come into operation. It reads as follows:
+“
+(2) After the Gaming and Wagering Commission Act 1987 section 43A(3) the following subsection is inserted —
+“
+(4) In subsection (3)(c) —
+“approval” does not include an approval under the Betting Control Act 1954 section 27D(2).
+”.
+”.
+On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 Pt. 3 and s. 114 had not come into operation. It reads as follows:
+“
+Part 3 — Amendments to the Gaming and Wagering Commission Act 1987
+112.The Act amended
+The amendments in this Part are to the Gaming and Wagering Commission Act 1987.
+113.Part II Division 7 inserted
+After section 20 the following Division is inserted in Part II —
+“
+Division 7 — Confidential police information
+20A.Confidential police information
+(1) In this section —
+“confidential police information” means any information or document classified as confidential under subsection (2);
+“relevant Act” means this Act, the Betting Control Act 1954¸ the RWWA Act or the Casino Control Act 1984.
+(2) For the purposes of this section, the Commissioner of Police may classify as confidential any information or document that is —
+(a) provided by the Commissioner of Police to the Commission as a report, or part of a report, under section 18(4); or
+(b) otherwise provided by the Commissioner of Police to the Commission for the purposes of a relevant Act.
+(3) Despite any provision of a relevant Act, any information or document provided by the Commissioner of Police to the Commission for the purposes of a relevant Act must not be published or disclosed by the Commission to any person (except to the Minister, the Parliamentary Commissioner for Administrative Investigations appointed under section 5 of the Parliamentary Commissioner Act 1971, the Corruption and Crime Commission established under the Corruption and Crime Commission Act 2003, the Parliamentary Inspector of the Corruption and Crime Commission appointed under the Corruption and Crime Commission Act 2003, a court or a person to whom the Commissioner of Police authorises its disclosure) if the information or document is classified as confidential police information.
+(4) If —
+(a) the Commission —
+(i) refuses to grant or issue or renew; or
+(ii) amends, suspends, cancels or revokes,
+any permit, approval, certificate, licence or authorisation under a relevant Act; and
+(b) the decision to do so is made solely or partly on the basis of confidential police information provided to the Commission,
+the Commission is not required to give any reasons for the decision other than that the decision is made in the public interest.
+(5) In any proceedings (other than proceedings for an offence) before a court under a relevant Act, the court —
+(a) must, on the application of the Commissioner of Police, take all reasonable steps to maintain the confidentiality of confidential police information, including steps —
+(i) to receive evidence and hear argument about confidential police information in private and in the absence of any party to the proceedings other than the Commission or the Commissioner of Police or their representatives; and
+(ii) to prohibit the publication of evidence about confidential police information;
+and
+(b) may take evidence consisting of or relating to confidential police information by way of an affidavit of a member of the Police Force of or above the rank of Superintendent.
+(6) The Commissioner of Police must not delegate the function of classifying information or documents as confidential police information except to a Deputy Commissioner of Police or an Assistant Commissioner of Police.
+”.
+114.Amendments relating to the amended title of the Liquor Licensing Act 1988
+The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Liquor Licensing Act 1988” and inserting instead —
+“ Liquor Control Act 1988 ”.
+Table
+..............
+Gaming and Wagering Commission Act 1987 | s. 110(1) s. 110(2)
+.....................
 ”.
