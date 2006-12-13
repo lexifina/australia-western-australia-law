@@ -23,6 +23,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 60(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 10 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 37 reads as follows:
 “
@@ -96,4 +97,19 @@ In this Division —
 “commencement” means the time at which this Division comes into operation;
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+”.
+On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 10 had not come into operation. It reads as follows:
+“
+Part 10 — Retirement Villages Act 1992 amended
+33.The Act amended
+The amendments in this Part are to the Retirement Villages Act 1992.
+34.Section 5 amended
+(1) Section 5 is amended by inserting before “Except as” the subsection designation “(1)”.
+(2) At the end of section 5 the following subsection is inserted —
+“
+(2) This Act does not apply to a resident or prospective resident of a retirement village or to the administering body of that retirement village if —
+(a) the administering body is an “approved provider” as defined in the Aged Care Act 1997 Schedule 1 of the Commonwealth in relation to the residential premises used or intended to be used as a place of residence by the resident or prospective resident;
+(b) the administering body provides, or is to provide, the resident or prospective resident with “residential care” as defined in the Aged Care Act 1997 section 41-3 of the Commonwealth; and
+(c) the resident or prospective resident is receiving, or is entitled to receive, residential care in respect of which the administering body is eligible for a “residential care subsidy” as defined in the Aged Care Act 1997 Schedule 1 of the Commonwealth.
+”.
 ”.
