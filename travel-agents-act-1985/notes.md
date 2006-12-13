@@ -25,6 +25,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Repairers Act 2003 Pt. 11 | 68 of 2003 | 9 Dec 2003 | To be proclaimed (see s. 2)
+Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 13 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 41 and 64 read as follows:
@@ -103,3 +104,14 @@ In this Division —
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
+On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 13 had not come into operation. It reads as follows:
+“
+Part 13 — Travel Agents Act 1985 amended
+38.The Act amended
+(1) The amendments in this Part are to the Travel Agents Act 1985.
+(2) Section 5(2) is amended as follows:
+(a) in paragraph (b) by deleting “or any statutory corporation representing the Crown”;
+(b) in paragraph (c) by inserting after “prescribed” —
+“ statutory corporation or ”.
+”.
+,
