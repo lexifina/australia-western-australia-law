@@ -17,6 +17,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Land Information Authority Act 2006 s. 142 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources.
@@ -49,4 +50,14 @@ deposited with the Western Australian Land Information Authority established by 
 “
 with the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5;
 ”.
+”.
+On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 114 had not come into operation. It reads as follows:
+“
+114.Amendments relating to the amended title of the Liquor Licensing Act 1988
+The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Liquor Licensing Act 1988” and inserting instead —
+“ Liquor Control Act 1988 ”.
+Table
+..................
+Land Tax Assessment Act 2002 | s. 39A(1) (“excluded purpose”, para. (b))
+........................
 ”.
