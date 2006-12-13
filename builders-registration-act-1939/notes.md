@@ -65,6 +65,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Land Information Authority Act 2006 s. 119 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 2 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 9.
 In this reprint the renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
 The Builders’ Registration Amendment Act 1986 s. 11(2) is a transitional provision that is of no further effect.
@@ -97,4 +98,17 @@ Builders’ Registration Act 1939 Schedule
 Table
 Builders’ Registration Act 1939 Schedule
 ....................
+”.
+On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 2 had not come into operation. It reads as follows:
+“
+Part 2 — Builders’ Registration Act 1939 amended
+3.The Act amended
+The amendments in this Part are to the Builders’ Registration Act 1939.
+4.Section 3 amended
+Section 3(1a) is repealed and the following subsection is inserted instead —
+“
+(1a) Notwithstanding subsection (1) —
+(a) section 4B applies throughout the State; and
+(b) sections 12A and 12B apply throughout the State to building work that is home building work as defined in the Home Building Contracts Act 1991 section 3(1).
+”.
 ”.
