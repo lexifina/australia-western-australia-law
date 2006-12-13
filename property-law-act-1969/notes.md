@@ -18,6 +18,10 @@ Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 76 | 10 of 1998 | 30
 Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 21 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
 Acts Amendment (Equality of Status) Act 2003 s. 125 and Pt. 49 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 Repealed by the Interpretation Act 1984 (No. 12 of 1984).
 Repealed by the Strata Titles Act 1985 (No. 33 of 1985).
 Section 31A proclaimed 21 January 1972, see Gazette 21 January 1972 p 72.
@@ -32,4 +36,14 @@ The Acts Amendment (Equality of Status) Act 2003 s. 125(3) reads as follows:
 (a) at the time it was attached, could not have been attached to the enjoyment of that property by a man; and
 (b) continued to have effect after the commencement of section 31 of the Property Law Act 1969,
 is of no effect.
+”.
+On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 115 had not come into operation. It reads as follows:
+“
+115.Amendments relating to the title of the repealed Liquor Act 1970
+The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Liquor Act 1970” and inserting instead —
+“ Liquor Control Act 1988 ”.
+Table
+..................
+Property Law Act 1969 | s. 81(8)(c)
+..................
 ”.
