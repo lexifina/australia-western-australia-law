@@ -38,6 +38,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 26 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Liquor and Gaming Legislation Amendment Act 2006 s. 117 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
 Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1).
 The Uniform Building By-laws 1974 were repealed in Gazette 28 July 1989 p. 2280.
@@ -84,3 +85,11 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 (c) by deleting subparagraph (iv).
 ”.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
+On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 117 had not come into operation. It reads as follows:
+“
+117.Equal Opportunity Act 1984 amended
+(1) The amendments in this section are to the Equal Opportunity Act 1984.
+(2) Section 66ZN(2) is amended as follows:
+(a) by deleting the semicolon at the end of paragraph (g) and inserting a comma instead;
+(b) by deleting paragraph (h).
+”.
