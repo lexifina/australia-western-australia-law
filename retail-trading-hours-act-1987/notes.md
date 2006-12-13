@@ -15,6 +15,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Retail Shops and Fair Trading Legislation Amendment Act 2006 Pt. 2 | 47 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
+Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 Repealed by the Liquor Licensing Act 1988.
 In respect of matters arising after 1 Jan 1991, the operation of the Companies (Western Australia) Code is subject to the provisions in the Corporations (Western Australia) Act 1990 Pt. 13 Div. 2. The Corporations (Western Australia) Act 1990 was superseded by the Corporations Act 2001 of the Commonwealth on 15 Jul 2001.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
@@ -321,4 +322,13 @@ An order made, or purporting to have been made, under the Retail Trading Hours A
 (a) is taken to have been validly made under that section of that Act;
 (b) continues, on and after that commencement, to have effect and the force of law; and
 (c) in relation to an order made under section 5, 12, 13 or 14 of that Act that continues to have effect and the force of law under paragraph (b) — may be amended or revoked as if it had been made under section 12E of that Act as amended by this Act.
+”.
+On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 115 had not come into operation. It reads as follows:
+“
+115.Amendments relating to the title of the repealed Liquor Act 1970
+The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Liquor Act 1970” and inserting instead —
+“ Liquor Control Act 1988 ”.
+Table
+...............................
+Retail Trading Hours Act 1987 | s. 4(4)
 ”.
