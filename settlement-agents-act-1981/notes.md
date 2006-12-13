@@ -37,6 +37,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Land Information Authority Act 2006 s. 158 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 11 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
 “
@@ -79,4 +80,22 @@ On the date as at which this compilation was prepared, the Land Information Auth
 “ with the Authority ”;
 (c) in paragraph (g), by deleting “Department within the meaning of the Transfer of Land Act 1893” and inserting instead —
 “ Authority ”.
+”.
+On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 11 had not come into operation. It reads as follows:
+“
+Part 11 — Settlement Agents Act 1981 amended
+35.The Act amended
+The amendment in this Part is to the Settlement Agents Act 1981.
+36.Section 49 amended
+After section 49(5) the following subsections are inserted —
+“
+(5a) If —
+(a) a settlement of a real estate transaction or a business transaction is completed;
+(b) the settlement agent who arranged or effected the settlement received moneys in respect of the real estate transaction or business transaction in the course of arranging or effecting the settlement; and
+(c) the settlement agent is authorised in writing by the vendor to make a payment from those moneys to an agent as payment of the whole or part of the commission, reward or remuneration to which the agent is entitled for arranging the real estate transaction or business transaction to which the settlement relates,
+the settlement agent may, despite subsections (4) and (5), pay to the agent from those moneys such sum as the settlement agent is so authorised to pay.
+(5b) In subsection (5a) —
+“agent” means an agent as defined in section 4(1) of the Real Estate and Business Agents Act 1978 who is entitled to a commission, reward or remuneration for arranging the real estate transaction or business transaction to which a settlement relates;
+“vendor” means the person or persons lawfully entitled to receive the purchase price in respect of a real estate transaction or business transaction.
+”.
 ”.
