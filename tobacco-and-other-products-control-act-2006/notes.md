@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Tobacco Products Control Act 2006 s. 16-25, 26(2), (3) and (4), Pt. 4, s. 103(2), 105 and 113(3) | 5 of 2006 | 12 Apr 2006 | To be proclaimed (see s. 2)
+Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 On the date as at which this compilation was prepared, the Tobacco Products Control Act 2006 s. 16-25, 26(2), (3) and (4), Pt. 4, s. 103(2), 105 and 113(3) had not come into operation. They read as follows:
 “
 16.Retailers of tobacco products to be licensed
@@ -299,4 +300,13 @@ The holder of a licence must not, without reasonable excuse, be in possession or
 Penalty: see section 115.
 113.Evidentiary matters
 (3) In proceedings for an offence under this Act a licence, including the conditions and restrictions applying to the licence, may be proved by tendering a copy of the licence certified by the CEO to be a true copy of the original licence.
+”.
+On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 114 had not come into operation. It reads as follows:
+“
+114.Amendments relating to the amended title of the Liquor Licensing Act 1988
+The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Liquor Licensing Act 1988” and inserting instead —
+“ Liquor Control Act 1988 ”.
+Table
+......................
+Tobacco Products Control Act 2006 | s. 113(1)(g) and (h) Glossary (“licensed premises”, “responsible person”, para. (a))
 ”.
