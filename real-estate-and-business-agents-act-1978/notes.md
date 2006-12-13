@@ -46,6 +46,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Real Estate Legislation Amendment Act 1995 s. 11 | 59 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2)
 Housing Societies Repeal Act 2005 s. 29 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 8 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 The provision in this Act repealing the Land Agents Act 1921 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The “appointed day” was 1 December 1979. See Gazette 31 August 1979 p. 2615.
 The Land Agents Act 1921.
@@ -106,4 +107,18 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 (a) after paragraph (b) by inserting —
 “ and ”;
 (b) by deleting paragraph (e) and “and” after it.
+”.
+On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 8 had not come into operation. It reads as follows:
+“
+Part 8 — Real Estate and Business Agents Act 1978 amended
+26.The Act amended
+The amendments in this Part are to the Real Estate and Business Agents Act 1978.
+27.Section 4 amended
+Section 4(4) is amended as follows:
+(a) after paragraph (b) by deleting “or”;
+(b) after paragraph (c) by deleting the full stop and inserting instead —
+“
+; or
+(d) a person, other than a licensee, when performing a prescribed duty as an agent for the owner of premises ordinarily used for holiday accommodation, whether or not for consideration, in respect of the right of a person to occupy those premises for a period of not more than 3 consecutive months.
+”.
 ”.
