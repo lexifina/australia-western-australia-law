@@ -42,6 +42,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | To be proclaimed (see s. 2)
 Trade Measurement Administration Act 2006 s. 37 | 12 of 2006 | 11 May 2006 | To be proclaimed (see s. 2)
+Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 3 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 Legal Practitioners Amendment (Disciplinary and Miscellaneous Provisions) Act 1992 Pt. 2 came into operation on 1 Feb 1993 (see s. 3(a) and Gazette 26 Jan 1993 p. 823).
 Repealed by the Acts Amendment and Repeal (Fair Trading) Act 1988.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -118,4 +119,34 @@ In this Division —
 “commencement” means the time at which this Division comes into operation;
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+”.
+On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 3 had not come into operation. It reads as follows:
+“
+Part 3 — Consumer Affairs Act 1971 amended
+5.The Act amended
+The amendments in this Part are to the Consumer Affairs Act 1971.
+6.Section 23G amended
+Section 23G(1) is amended by deleting “12 months” and inserting instead —
+“ 3 years ”.
+7.Section 23Q amended
+Section 23Q(6) is amended by inserting after “revoke” —
+“ or amend ”.
+8.Section 23R amended
+(1) Section 23R(2), (3) and (4) are repealed and the following subsections are inserted instead —
+“
+(2) The Commissioner may make an order prohibiting the supply of goods of a class or description without making a reference to the Committee under section 23L(1) if —
+(a) the supply of goods of that class or description is prohibited under a law of the Commonwealth or another State or a Territory; and
+(b) the Commissioner considers it necessary in the interests of the safety of the public to make the order.
+(3) If the supply of goods of a class or description is allowed under a law of the Commonwealth or another State or a Territory subject to conditions or restrictions relating to the goods, the Commissioner, without making a reference to the Committee under section 23L(1) in respect of goods of that class or description, may if he considers it necessary in the interests of the safety of the public make an order allowing the supply of goods of that class or description in this State, subject to conditions or restrictions specified or referred to in the order being conditions or restrictions that are in conformity with those specified or referred to under that law that relate to the goods.
+(4) For the avoidance of doubt, an order made under subsection (2) or (3) is not affected by the subsequent amendment, repeal or expiry of a law referred to in those subsections.
+”.
+(2) Section 23R(6) is repealed and the following subsection is inserted instead —
+“
+(6) The Commissioner may by notice published in the Gazette on his own motion, or on the recommendation of the Committee, revoke or amend an order made under this section.
+”.
+9.Section 23U amended
+Section 23U(2)(b) is amended by deleting “Standards Australia” and inserting instead —
+“
+Standards Australia, as in force at the time of adoption or as amended from time to time
+”.
 ”.
