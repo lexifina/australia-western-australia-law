@@ -17,7 +17,8 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and are not included in this compilation. For the text of the provisions see the endnote referred to after the short title.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Business Licensing Amendment Act 1995 Pt. 2 | 56 of 1995 | 20 Dec 1995 | To be proc. (see s. 2(2))
+Business Licensing Amendment Act 1995 Pt. 2 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
+Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 Footnote no longer applicable.
 Repealed by the Liquor Licensing Act 1988 (No. 54 of 1988) section 176.
 On the date as at which this compilation was prepared, the Business Licensing Amendment Act 1994 Pt. 2 had not come into operation. It reads:
@@ -50,4 +51,12 @@ Section 37 of the principal Act is amended —
 (2) Subsections (1) and (2) of section 45 of the Interpretation Act 1984 apply in respect of fees prescribed under this Act despite sections 3(3) and 45(3) of that Act.
 ”.
 ”.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 115 had not come into operation. It reads as follows:
+“
+115.Amendments relating to the title of the repealed Liquor Act 1970
+The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Liquor Act 1970” and inserting instead —
+“ Liquor Control Act 1988 ”.
+Table
+Auction Sales Act 1973 | s. 33(1) s. 33(2) s. 33(3)(a) s. 33(4)
+..............
+”.
