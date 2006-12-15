@@ -14,18 +14,19 @@ I understand that the conditions specified in s. 33 of the Act will apply to thi
 I undertake —
 (a)to observe and comply with —
 (i)the Code of Practice; and
-(ii)any direction from the Commissioner of Health,
+(ii)any direction from the Chief Executive Officer of the Department of Health,
 in so far as it relates to any relevant artificial insemination procedure;
 (b)to furnish such detail as is possible and may be required to —
 (i)the storage licensee from whom sperm was obtained; or
-(ii)if the sperm was not obtained from a storage licensee, the Commissioner of Health,
+(ii)if the sperm was not obtained from a storage licensee, the Chief Executive Officer of the Department of Health,
 of the outcome of each procedure I perform, or authorise, involving donor insemination;
 and
 (c)to comply with any requirement made under the Act as to the obtaining of effective consent from participants.
 Signed .........................................Date ............./............./.............
 For further information contact:
-Coordinator/Reproductive Technology Health Department of Western Australia 189 Royal Street EAST PERTH 6004
+Coordinator/Reproductive Technology Department of Health 189 Royal Street EAST PERTH 6004
 Phone (08) 9222 4260 Fax (08) 9222 4236
+[Form 1 amended in Gazette 15 Dec 2006 p. 5629.]
 FORM 2
 [Reg. 2(2)]
 HUMAN REPRODUCTIVE TECHNOLOGY ACT 1991
@@ -49,7 +50,8 @@ subject, in addition to the conditions specified in s. 33 of the Act, to the fol
 ................................................................................................................................
 ................................................................................................................................
 ................................................................................................................................
-........................................................................ Signed (Commissioner of Health)
+........................................................................ Signed (Chief Executive Officer, Department of Health)
 For information contact:
-Coordinator/Reproductive Technology Health Department of Western Australia 189 Royal Street EAST PERTH 6004
+Coordinator/Reproductive Technology Department of Health 189 Royal Street EAST PERTH 6004
 Phone (08) 9222 4260 Fax (08) 9222 4236
+[Form 2 amended in Gazette 15 Dec 2006 p. 5629.]
