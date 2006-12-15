@@ -111,8 +111,8 @@ This permit is issued subject to the following conditions —
 Dated at Perth .................................... 20.............
 Valid until 30 June 20..............
 .........................................
-Commissioner of Health
-[Form 8 amended in Gazette 7 Jun 1985 p. 1941; 27 May 1988 p. 1771; 16 Apr 1992 p. 1635; 25 Jun 1993 p. 3085; 26 May 1994 p. 2201; 19 Mar 1996 p. 1235; 4 Apr 2006 p. 1406.]
+CEO
+[Form 8 amended in Gazette 7 Jun 1985 p. 1941; 27 May 1988 p. 1771; 16 Apr 1992 p. 1635; 25 Jun 1993 p. 3085; 26 May 1994 p. 2201; 19 Mar 1996 p. 1235; 4 Apr 2006 p. 1406; 15 Dec 2006 p. 5630-1.]
 Form 8AA
 Poisons Act 1964
 POISONS PERMIT (HEALTH SERVICES)
@@ -135,8 +135,8 @@ This permit is issued subject to the following conditions —
 Dated at Perth .................................... 20.............
 Valid until 30 June 20..............
 .........................................
-Commissioner of Health
-[Form 8AA inserted in Gazette 4 Apr 2006 p. 1407.]
+CEO
+[Form 8AA inserted in Gazette 4 Apr 2006 p. 1407; amended in Gazette 15 Dec 2006 p. 5630-1.]
 [Forms 9 and 9A deleted in Gazette 27 May 1988 p. 1771.]
 [Form 10 deleted in Gazette 19 Mar 1996 p. 1236.]
 [Forms 11 and 11A deleted in Gazette 2 Oct 1987 p. 3776.]
@@ -184,8 +184,8 @@ This permit is issued subject to the following conditions —
 Dated at Perth ...................................... 20................
 Valid until 30 June 20............
 .........................................
-Commissioner of Health
-[Form 13 inserted in Gazette 14 Jun 1967 p. 1582; amended in Gazette 7 Jun 1985 p. 1941; 27 May 1988 p. 1771; 16 Apr 1992 p. 1635; 25 Jun 1993 p. 3085; 26 May 1994 p. 2201; 19 Mar 1996 p. 1236.]
+CEO
+[Form 13 inserted in Gazette 14 Jun 1967 p. 1582; amended in Gazette 7 Jun 1985 p. 1941; 27 May 1988 p. 1771; 16 Apr 1992 p. 1635; 25 Jun 1993 p. 3085; 26 May 1994 p. 2201; 19 Mar 1996 p. 1236; 15 Dec 2006 p. 5630-1.]
 Form 13A
 [Reg. 10B]
 Poisons Act 1964
@@ -209,9 +209,9 @@ subject to the following conditions —
 Dated: ............................................
 Valid until 30 June 20...........
 .........................................
-Commissioner of Health
+CEO
 [* delete if not applicable]
-[Form 13A inserted in Gazette 23 Aug 1996 p. 4089.]
+[Form 13A inserted in Gazette 23 Aug 1996 p. 4089; amended in Gazette 15 Dec 2006 p. 5630-1.]
 Form 14
 Poisons Act 1964
 APPLICATION FOR APPROVAL OF NEEDLE AND SYRINGE PROGRAMME

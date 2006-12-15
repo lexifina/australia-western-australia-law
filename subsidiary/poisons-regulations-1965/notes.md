@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 May 2006 of the Poisons Regulations 1965 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation as at 5 May 2006 of the Poisons Regulations 1965 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Poisons Act Regulations 1965 | 29 Jun 1965 p. 1883-914 | 1 Jul 1965
@@ -136,6 +136,7 @@ Poisons Amendment Regulations (No. 2) 2004 | 4 Jan 2005 p. 3-4 | 4 Jan 2005
 Poisons Amendment Regulations 2005 | 15 Nov 2005 p. 5602-8 | 1 Jan 2006 (see r. 2)
 Poisons Amendment Regulations 2006 | 4 Apr 2006 p. 1406-7 | 4 Apr 2006
 Reprint 8: The Poisons Regulations 1965 as at 5 May 2006 (includes amendments listed above)
+Poisons Amendment Regulations (No. 2) 2006 | 15 Dec 2006 p. 5629-31 | 15 Dec 2006
 Repealed by the Mental Health Act 1981 which was repealed by the Mental Health Act 1996.
 The Poisons Amendment Regulations (No. 3) 2001 r. 4(2) reads as follows:
 “
