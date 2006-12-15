@@ -97,6 +97,7 @@ Hospitals (Services Charges) Amendment Regulations (No. 2) 2006 | 4 Apr 2006 p. 
 Hospitals (Services Charges) Amendment Regulations (No. 3) 2006 | 13 Jun 2006 p. 2062-3 | 1 Jul 2006 (see r. 2)
 Reprint 5: The Hospitals (Services Charges) Regulations 1984 as at 11 Aug 2006 (includes amendments listed above)
 Hospitals (Services Charges) Amendment Regulations (No. 5) 2006 | 14 Nov 2006 p. 4727 | 14 Nov 2006
+Hospitals (Services Charges) Amendment Regulations (No. 4) 2006 | 15 Dec 2006 p. 5627 | 15 Dec 2006
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with the Interpretation Act 1984 s. 42(1), subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date of 1 September 1990 that was specified in these regulations was before the date of their publication in the Gazette.
