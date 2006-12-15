@@ -26,7 +26,7 @@ Form 2
 Dental Prosthetists Act 1985
 Dental Prosthetists Regulations 1986
 APPLICATION FOR ISSUE OF A LICENCE TO ENGAGE IN THE PRACTICE OF DENTAL PROSTHETICS
-I hereby apply to the Commissioner of Health to be issued with a licence to engage in the practice of dental prosthetics under the Dental Prosthetists Act 1985 and submit the following —
+I hereby apply to the Chief Executive Officer of the Department of Health to be issued with a licence to engage in the practice of dental prosthetics under the Dental Prosthetists Act 1985 and submit the following —
 (a) my answers to the following questionnaire which I have completed in all relevant particulars;
 (b)(i)proof of the qualifications mentioned in item 5 of the following questionnaire, by virtue of which I claim to be entitled to be licensed; or
 (ii) proof that on 1 October 1986, I was actively engaged in the practice of dental prosthetics in Western Australia and have been continuously so engaged for a period of not less than 5 years and that I have performed to the satisfaction of the Director of the Dental Health Services in an assessment of proficiency as referred to in section 18 (2) of the Dental Prosthetists Act 1985; AND
@@ -57,6 +57,7 @@ Description of practice ........................................................
 ......................................................................................................................
 NOTE: * Persons claiming entitlement to a licence by virtue of having been actively engaged in the practice of dental prosthetics for a period of 5 years prior to 1 October 1986 and who have satisfactorily undergone an assessment of proficiency should answer “Not applicable” to questions 5, 6 and 7 of the questionnaire.
 * + Persons claiming entitlement to a licence by virtue of qualification gained from an educational authority should answer “Not applicable” to questions 8, 9, and 10 of this questionnaire.
+[Form 2 amended in Gazette 15 Dec 2006 p. 5621.]
 Form 3
 [Regulation 5]
 Dental Prosthetists Act 1985
@@ -68,13 +69,14 @@ LICENCE TO ENGAGE IN THE PRACTICE OF DENTAL PROSTHETICS
 (address)
 is hereby licensed under the Dental Prosthetists Act 1985 to engage in the practice of dental prosthetics to the extent that it relates to the fitting, constructing, inserting, repairing, or renewing of full artificial dentures or mouthguards.
 Date ................................................Signed.............................................................
-Commissioner of Health.
+Chief Executive Officer of the Department of Health.
+[Form 3 amended in Gazette 15 Dec 2006 p. 5621.]
 Form 4
 [Regulation 7]
 Dental Prosthetists Act 1985
 Dental Prosthetists Regulations 1986
 CERTIFICATE REGARDING LICENSING
-I, ......................................................................................Commissioner of Health,
+I, ...................................................................................... Chief Executive Officer of the Department of Health,
 hereby certify in accordance with section 27 (6) (a) of the Dental Prosthetists Act 1985 that —
 *(a)...................................................................................................
 (name in full)
@@ -89,6 +91,6 @@ of .............................................................................
 (address)
 to engage in the practice of dental prosthetics was suspended.
 .........................................................................................................................
-(date)Commissioner of Health
+(date)Chief Executive Officer of the Department of Health
 * Delete as appropriate
-[Schedule 2 amended in Gazette 30 Dec 2004 p. 6934.]
+[Form 4 amended in Gazette 15 Dec 2006 p. 5621.]
