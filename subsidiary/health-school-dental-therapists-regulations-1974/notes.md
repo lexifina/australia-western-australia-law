@@ -9,4 +9,5 @@ Health (Offences and Penalties) Amendment Regulations (No. 2) 1988 Pt. 10 | 23 D
 Health (School Dental Therapists) Amendment Regulations 1996 | 31 Dec 1996 p. 7433 | 1 Jan 1997 (see r. 2 and Gazette 31 Dec 1996 p. 7427)
 Reprint of the Health (School Dental Therapists) Regulations 1974 at at 15 Nov 2002 (includes amendments listed above)
 Health (School Dental Therapists) Amendment Regulations 2004 | 7 Dec 2004 p. 5783 | 7 Dec 2004
+Health (School Dental Therapists) Amendment Regulations 2006 | 15 Dec 2006 p. 5623-4 | 15 Dec 2006
 Now known as the Health (School Dental Therapists) Regulations 1974; citation changed (see note under r. 1).
