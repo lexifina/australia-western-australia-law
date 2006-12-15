@@ -11,3 +11,4 @@ Health Laboratory Service (Fees) Amendment Regulations (No. 2) 1984 | 27 Jul 198
 Health Laboratory Service (Fees) Amendment Regulations 1987 | 6 Feb 1987 p. 322 | 6 Feb 1987
 Health Laboratory Service (Fees) Amendment Regulations 1990 | 9 Feb 1990 p. 828 | 9 Feb 1990
 Health Laboratory Service (Fees) Amendment Regulations (No. 2) 1990 | 20 Jul 1990 p. 3467 | 20 Jul 1990
+Health Laboratory Service (Fees) Amendment Regulations 2006 | 15 Dec 2006 p. 5625 | 15 Dec 2006
