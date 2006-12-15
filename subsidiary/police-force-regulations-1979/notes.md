@@ -50,6 +50,7 @@ Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 31 | 30
 Police Force Amendment Regulations 2003 | 26 Aug 2003 p. 3758-64 | 27 Aug 2003 (see r. 2 and Gazette 26 Aug 2003 p. 3753)
 Police Force Amendment Regulations (No. 2) 2004 | 17 Dec 2004 p. 6087 | 17 Dec 2004
 Police Force Amendment Regulations (No. 3) 2005 | 30 Dec 2005 p. 6879 | 30 Dec 2005
+Police Force Amendment Regulations 2006 | 15 Dec 2006 p. 5631-6 | 15 Dec 2006
 Under the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984, a reference to the Industrial Arbitration Act 1912 is to be read as a reference to the Industrial Relations Act 1979. The reference was substituted under the Reprints Act 1984 s. 7(3)(g).
 The Liquor Act 1970 was repealed by the Liquor Licensing Act 1988.
 Formerly referred to the Commissioner of Public Health, the name of which was changed to the Commissioner of Health by the Health Legislation Amendment Act 1984. The reference was changed under the Reprints Act 1984 s. 7(3)(h).

@@ -8,8 +8,8 @@ Four 25 mm buttons at front. One 19 mm button on each breast pocket in balance b
 Black serge material identical with tunic. Side pockets, one hip and fob pocket if desired. Cuffless bottoms not more than 508 mm in width. Plain black braid 38 mm wide from waist to cuffless bottom to be sewn over outside seam.
 3. Caps —
 Black material with chequered band and badge of a type approved by the Commissioner.
-Superintendent’s, Chief Inspector’s and Inspector’s cap peaks to have a single row of silver embroidery 19 mm wide.
-Commander’s and Chief Superintendent’s cap peaks to have a single row of silver embroidered oak leaf pattern 19 mm wide at the top and a single row of silver embroidery 19 mm wide below. Assistant Commissioner’s cap peak to have a single silver embroidered row of oak leaf pattern 19 mm wide.
+Superintendent’s and Inspector’s cap peaks to have a single row of silver embroidery 19 mm wide.
+Commander’s cap peaks to have a single row of silver embroidered oak leaf pattern 19 mm wide at the top and a single row of silver embroidery 19 mm wide below. Assistant Commissioner’s cap peak to have a single silver embroidered row of oak leaf pattern 19 mm wide.
 Commissioner’s and Deputy Commissioner’s cap peak to have 2 rows of silver embroidered oak leaf pattern 19 mm wide.
 4. Shirt —
 White, collar attached.
@@ -25,7 +25,7 @@ Black leather of a type approved by the Commissioner.
 Black leather of a type approved by the Commissioner.
 Ceremonial Dress
 Commissioner — In addition to the uniform described above there shall be a pouch belt of black leather 73 mm wide with silver breast ornament whistle and chain, silver ornamented buckle and slide worn over left shoulder.
-Deputy Commissioner, Assistant Commissioner, Commander and Chief Superintendent — In addition to the uniform described above there shall be a black leather 54 mm belt with 38 mm wide cross belt worn over right shoulder.
+Deputy Commissioner, Assistant Commissioner and Commander — In addition to the uniform described above there shall be a black leather 54 mm belt with 38 mm wide cross belt worn over right shoulder.
 1. Male Officer’s Mess Jacket:
 Black or white barathea material with blue collar, lapels and epaulettes made from material approved by the Commissioner.
 Jacket to be of patrol type with 3 piece back, having rolled collar 44 mm at back shaping to lapels 57 mm wide and tapered. Jacket to button with link style small “officer type” buttons 21 mm diameter.
@@ -55,8 +55,8 @@ Inverted centre front pleat, 2 piece back, skirt closure by means of slide faste
 May be worn with or without a tunic.
 3. Caps —
 Black material with chequered band and a badge of a type approved by the Commissioner.
-Superintendent’s, Chief Inspector’s and Inspector’s cap peaks to have a single row of silver embroidery 19 mm wide.
-Commander’s and Chief Superintendent’s cap peaks to have a single row of silver embroidered oak leaf pattern 19 mm wide at top and a single row of silver embroidery 19 mm wide below. Assistant Commissioner’s cap peak to have a single silver embroidered row of oak pattern 19 mm wide.
+Superintendent’s and Inspector’s cap peaks to have a single row of silver embroidery 19 mm wide.
+Commander’s cap peaks to have a single row of silver embroidered oak leaf pattern 19 mm wide at top and a single row of silver embroidery 19 mm wide below. Assistant Commissioner’s cap peak to have a single silver embroidered row of oak pattern 19 mm wide.
 Commissioner’s and Deputy Commissioner’s cap peaks to have 2 rows of silver embroidered oak leaf pattern 19 mm wide.
 4. Shirt —
 White, collar attached.
@@ -70,7 +70,7 @@ Black court, 50 mm high heel.
 Black leather.
 Ceremonial Dress
 Commissioner — In addition to the uniform described above there shall be a pouch belt of black leather 73 mm wide with silver breast ornament whistle and chain, silver ornamented buckle and slide worn over left shoulder.
-Deputy Commissioner, Assistant Commissioner, Commander and Chief Superintendent — In addition to the uniform described above there shall be a black leather 54 mm belt with 38 mm wide cross belt worn over right shoulder.
+Deputy Commissioner, Assistant Commissioner and Commander — In addition to the uniform described above there shall be a black leather 54 mm belt with 38 mm wide cross belt worn over right shoulder.
 1. Female Officer’s Mess Jacket —
 Black or white barathea material with blue collar, lapels and epaulettes made from material approved by the Commissioner.
 Jacket to be of patrol type with 3 piece back, having rolled collar 44 mm at back shaping to lapels 57 mm wide and tapered. Jacket to button with link style small “officer type” buttons 21 mm diameter.
@@ -83,4 +83,4 @@ White with Chinese style collar and 2 rows of ruffles down front.
 Flesh coloured.
 5. Shoes —
 Black court.
-[Second Schedule inserted in Gazette 6 Oct 1989 p. 3740-1.]
+[Second Schedule inserted in Gazette 6 Oct 1989 p. 3740-1; amended in Gazette 15 Dec 2006 p. 5636.]
