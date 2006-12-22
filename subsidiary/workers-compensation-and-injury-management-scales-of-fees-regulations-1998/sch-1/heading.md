@@ -10,147 +10,147 @@ CONSULTATIONS
 Surgery Consultation
 in hours
 Content based | $
-Minor or Specific Service (Level A or B) | 51.35
-Extended Service (Level C) | 93.85
-Comprehensive Service (Level D) | 144.20
+Minor or Specific Service (Level A or B) | 53.45
+Extended Service (Level C) | 97.65
+Comprehensive Service (Level D) | 150.05
 Time based | $
-up to 5 mins | 30.60
-more than 5 mins to 15 mins | 40.00
-more than 15 mins to 30 mins | 77.05
-more than 30 mins to 45 mins | 116.55
-more than 45 mins to 60 mins | 158.05
+up to 5 mins | 31.85
+more than 5 mins to 15 mins | 41.60
+more than 15 mins to 30 mins | 80.20
+more than 30 mins to 45 mins | 121.30
+more than 45 mins to 60 mins | 164.45
 Surgery Consultations
 out of hours
-For attendances between the hours of 6 p.m. and 8 a.m. on a weekday or between 12 noon on Saturday and 8 a.m. on the following Monday, and Public Holiday.
+For attendances between the hours of 6 p.m. and 8 a.m. on a weekday or between 12 noon on Saturday and 8 a.m. on the following Monday and Public Holiday.
 Content based | $
-Minor Service (Level A) | 38.55
-Specific Service (Level B) | 77.05
-Extended Service (Level C) | 140.30
-Comprehensive Service (Level D) | 217.35
+Minor Service (Level A) | 40.10
+Specific Service (Level B) | 80.20
+Extended Service (Level C) | 146.00
+Comprehensive Service (Level D) | 226.15
 Time based | $
-up to 5 mins | 61.00
-more than 5 mins to 15 mins | 66.20
-more than 15 mins to 30 mins | 102.75
-more than 30 mins to 45 mins | 140.30
+up to 5 mins | 63.50
+more than 5 mins to 15 mins | 68.90
+more than 15 mins to 30 mins | 106.90
+more than 30 mins to 45 mins | 146.00
 VISITS
 Consultations at a place other than the Consulting Rooms
 in hours | $
-Minor Service (Level A) | 64.25
-Specific Service (Level B) | 87.90
-Extended Service (Level C) | 130.40
-Comprehensive Service (Level D) | 181.75
+Minor Service (Level A) | 66.85
+Specific Service (Level B) | 91.45
+Extended Service (Level C) | 135.70
+Comprehensive Service (Level D) | 189.15
 out of hours | $
-Minor Service (Level A) | 77.05
-Specific Service (Level B) | 114.60
-Extended Service (Level C) | 175.85
-Comprehensive Service (Level D) | 256.85
+Minor Service (Level A) | 80.20
+Specific Service (Level B) | 119.25
+Extended Service (Level C) | 183.00
+Comprehensive Service (Level D) | 267.30
 TELEPHONE CONSULTATIONS
 Time based | $
-up to 5 mins | 17.15
-more than 5 mins to 15 mins | 21.50
-more than 15 mins to 30 mins | 44.90
-more than 30 mins | 67.30
-CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments etc.
-per hour | 193.20
-TRAVELLING FEES Outside the metropolitan area Rate per kilometre | 3.42
+up to 5 mins | 17.85
+more than 5 mins to 15 mins | 22.35
+more than 15 mins to 30 mins | 46.70
+more than 30 mins | 70.05
+CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments etc. | $
+per hour | 201.05
+TRAVELLING FEES Outside the metropolitan area Rate per kilometre | $ 3.56
 PHYSICIANS, OCCUPATIONAL & REHABILITATION PHYSICIANS
 PHYSICIANS
 CONSULTATIONS
 Professional attendance at consulting rooms and issue of certificate (if required) et al | $
-first attendance | 195.05
-subsequent attendances | 97.60
+first attendance | 202.95
+subsequent attendances | 101.55
 VISITS
 Professional attendance at a place other than consulting rooms and issue of certificate (if required) et al | $
-first attendance | 233.60
-subsequent attendances | 134.80
+first attendance | 243.10
+subsequent attendances | 140.25
 REHABILITATION PHYSICIANS
 CONSULTATIONS
 Professional attendance at consulting rooms and issue of certificate (if required) et al | $
-first attendance | 195.05
-subsequent attendances | 97.60
+first attendance | 202.95
+subsequent attendances | 101.55
 VISITS
 Professional attendance at a place other than consulting rooms and issue of certificate (if required) et al | $
-first attendance | 233.60
-subsequent attendances | 134.80
+first attendance | 243.10
+subsequent attendances | 140.25
 OCCUPATIONAL PHYSICIANS
 CONSULTATIONS
 Professional attendance at consulting rooms and issue of certificate (if required) et al | $
-first attendance | 198.25
-subsequent attendances | 97.60
+first attendance | 206.30
+subsequent attendances | 101.55
 VISITS
 Professional attendance at a place other than consulting rooms and issue of certificate (if required) et al | $
-first attendance | 233.60
-subsequent attendances | 134.80
+first attendance | 243.10
+subsequent attendances | 140.25
 TELEPHONE CONSULTATIONS
 Time based | $
-up to 5 mins | 25.55
-more than 5 mins to 15 mins | 31.55
-more than 15 mins to 30 mins | 66.00
-more than 30 mins | 99.65
-CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments etc.
-per hour | 286.45
+up to 5 mins | 26.60
+more than 5 mins to 15 mins | 32.85
+more than 15 mins to 30 mins | 68.70
+more than 30 mins | 103.70
+CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments etc. | $
+per hour | 298.10
 TRAVELLING FEES
-Outside the metropolitan area
-Rate per kilometre | 3.42
+Outside the metropolitan area | $
+Rate per kilometre | 3.55
 CONSULTANT PSYCHIATRISTS
 CONSULTATIONS
 Professional attendance at consulting rooms and issue of certificate (if required) et al Time based | $
-up to 15 mins | 57.25
-more than 15 mins to 30 mins | 114.15
-more than 30 mins to 45 mins | 170.95
-more than 45 mins to 60 mins | 228.75
-more than 60 mins to 75 mins | 258.85
-more than 75 mins | 288.90
+up to 15 mins | 59.55
+more than 15 mins to 30 mins | 118.80
+more than 30 mins to 45 mins | 177.90
+more than 45 mins to 60 mins | 238.05
+more than 60 mins to 75 mins | 269.35
+more than 75 mins | 300.65
 VISITS
 Professional attendance at a place other than consulting rooms and issue of certificate (if required) et al Visits include both attendance at hospitals and home visits Time based | $
-up to 15 mins | 93.95
-more than 15 mins to 30 mins | 151.70
-more than 30 mins to 45 mins | 207.05
-more than 45 mins to 75 mins | 264.85
-more than 75 mins | 319.10
+up to 15 mins | 97.75
+more than 15 mins to 30 mins | 157.85
+more than 30 mins to 45 mins | 215.45
+more than 45 mins to 75 mins | 275.60
+more than 75 mins | 332.05
 TELEPHONE CONSULTATIONS
 Time based | $
-up to 45 mins | 75.85
-more than 45 mins | 165.70
-CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments etc.
-per hour | 286.45
+up to 45 mins | 78.95
+more than 45 mins | 172.45
+CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments etc. | $
+per hour | 298.10
 TRAVELLING FEES
-Outside the metropolitan area
-Rate per kilometre | 3.42
+Outside the metropolitan area | $
+Rate per kilometre | 3.56
 SPECIALISTS
 SURGEONS
 CONSULTATIONS
 Professional attendance at consulting rooms and issue of certificate (if required) et al | $
-first attendance | 110.90
-subsequent attendances | 57.85
+first attendance | 115.40
+subsequent attendances | 60.20
 VISITS
 Professional attendance at a place other than consulting rooms and issue of certificate (if required) et al | $
-first attendance | 149.50
-subsequent attendances | 95.25
+first attendance | 155.55
+subsequent attendances | 99.10
 DERMATOLOGISTS
 CONSULTATIONS
 Professional attendance at consulting rooms and issue of certificate (if required) et al | $
-first attendance | 110.90
-subsequent attendances | 57.85
+first attendance | 115.40
+subsequent attendances | 60.20
 VISITS
 Professional attendance at a place other than consulting rooms and issue of certificate (if required) et al | $
-first attendance | 149.25
-subsequent attendances | 95.10
+first attendance | 155.30
+subsequent attendances | 98.95
 TELEPHONE CONSULTATIONS
 Time based | $
-up to 5 mins | 25.55
-more than 5 mins to 15 mins | 31.55
-more than 15 mins to 30 mins | 66.00
-more than 30 mins | 99.65
-CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments etc.
-per hour | 286.45
+up to 5 mins | 26.60
+more than 5 mins to 15 mins | 32.85
+more than 15 mins to 30 mins | 68.70
+more than 30 mins | 103.70
+CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments etc. | $
+per hour | 298.10
 TRAVELLING FEES
-Outside the metropolitan area
-Rate per kilometre | 3.42
+Outside the metropolitan area | $
+Rate per kilometre | 3.55
 ANAESTHETISTS
 All anaesthesia fees are calculated by multiplying the units for the consultation, attendance, procedure or service by the $ value per unit allocated by this Schedule.
 $ VALUE PER UNIT
-$ value per unit | $35.45
+$ value per unit | $60.00
 CONSULTATIONS AND ATTENDANCES | Units
 Anaesthetist Consultation
 — an attendance of 15 minutes or less duration | 2
@@ -172,7 +172,7 @@ Base units
 The appropriate number of base units for each procedure has been established and is set out in this Schedule.
 [The number of base units for each procedure has been calculated so as to include usual postoperative visits, the administration of fluids and/or blood incidental to the anaesthesia care and usual monitoring procedures.]
 Time units
-Each 15 minutes (or part thereof) of anaesthetic time constitutes one time unit. After 4 hours, time units are calculated at 1 per 10 minutes.
+For the first 2 hours, each 15 minutes (or part thereof) of anaesthetic time constitutes one time unit. After 2 hours, time units are calculated at one per 10 minutes (or part thereof).
 Modifying units
 Many anaesthetic services are provided under particularly difficult circumstances depending on factors such as the medical condition of the patient and unusual risk factors. These factors significantly affect the character of the anaesthetic services provided. Circumstances giving rise to additional modifying units are set out in this Schedule.
 [Note: The modifying units are, in the main, derived from the modifying units set out in the AMA’s “List of Medical Services and Fees”.]
@@ -286,13 +286,13 @@ Anaesthesia for all hernia repairs in upper abdomen unless otherwise specified |
 — transabdominal repair of diaphragmatic hernia | 9
 Anaesthesia for all procedures on major abdominal blood vessels | 15
 Anaesthesia for all procedures within the peritoneal cavity in upper abdomen including cholecystectomy, gastrectomy, laparoscopic nephrectomy, bowel shunts and cadaver harvesting of organs unless otherwise specified | 8
-— gastric reduction or gastroplasty for the treatment of morbid obesity | 10
-— partial hepatectomy (excluding liver biopsy) | 13
-— extended or trisegmental hepatectomy | 15
-— pancreatectomy, partial or total (eg. Whipple procedure) | 12
-— liver transplant (recipient) | 30
-— neuro endocrine tumour removal (eg. carcinoid) | 10
-— percutaneous procedures on an intra-abdominal organ in the upper abdomen | 6
+Anaesthesia for gastric reduction or gastroplasty for the treatment of morbid obesity | 10
+Anaesthesia for partial hepatectomy (excluding liver biopsy) | 13
+Anaesthesia for extended or trisegmental hepatectomy | 15
+Anaesthesia for pancreatectomy, partial or total (eg. Whipple procedure) | 12
+Anaesthesia for liver transplant (recipient) | 30
+Anaesthesia for neuro endocrine tumour removal (eg. carcinoid) | 10
+Anaesthesia for percutaneous procedures on an intra-abdominal organ in the upper abdomen | 6
 Lower abdomen
 Anaesthesia for all procedures on the skin or subcutaneous tissue of the lower abdominal wall unless otherwise specified | 3
 — lipectomy | 5
@@ -335,8 +335,8 @@ Anaesthesia for all transurethral procedures (including urethrocystoscopy) unles
 Anaesthesia for all procedures on male external genitalia unless otherwise specified | 3
 — undescended testis, unilateral or bilateral | 4
 Anaesthesia for procedures on the cord and/or testes unless otherwise specified | 4
-— radical orchidectomy, inguinal | 4
-— radical orchidectomy, abdominal | 6
+— radical orchidectomy, inguinal approach | 4
+— radical orchidectomy, abdominal approach | 6
 — orchiopexy, unilateral or bilateral | 4
 — complete amputation of the penis | 4
 — complete amputation of the penis with bilateral inguinal lymphadenectomy | 6
@@ -555,8 +555,8 @@ Intrathecal or epidural injection (subsequent) of a therapeutic substance, in as
 Subarachnoid puncture, lumbar, diagnostic | no | no | 5
 Insertion of subarachnoid drain | no | no | 8
 Intrathecal, or epidural or injection, (initial or commencement of infusion) of a therapeutic substance, including up to one hour of continuous attendance by a medical practitioner | no | no | 8
-Intrathecal, or epidural or injection, (initial or commencement of infusion) of a therapeutic substance, where continuous attendance by a medical practitioner extends beyond one hour, add one unit for each 15 minutes over the first hour | no | no | 0
-Intrathecal, or epidural or injection, (initial or commencement of infusion) of a therapeutic substance, including up to one hour of continuous attendance by a medical practitioner after hours for a patient in labour | no | no | 15
+Intrathecal, or epidural or injection, (initial or commencement of infusion) of a therapeutic substance, where continuous attendance by a medical practitioner extends beyond the first hour. Derived fee being 8 units for the first hour plus one unit for each additional 15 minutes or part thereof | no | no | 0
+Intrathecal, or epidural or injection, (initial or commencement of infusion) of a therapeutic substance, where continuous after hours attendance by a medical practitioner extends beyond the first hour for a patient in labour. Derived fee being 15 units for the first hour plus one unit for each additional 15 minutes or part thereof | no | no | 0
 Intrathecal, or epidural or injection, (initial or commencement of infusion) of a therapeutic substance, where continuous after hours attendance by a medical practitioner extends beyond the first hour, add one unit for each 15 minutes of the first hour for a patient in labour | no | no | 0
 Subsequent injection (or revision of infusion) of a therapeutic substance to maintain regional anaesthesia or analgesia where the period of continuous medical practitioner attendance is 15 minutes or less | no | no | 3
 Subsequent injection (or revision of infusion) of a therapeutic substance to maintain regional anaesthesia or analgesia where the period of continuous medical practitioner attendance is more than 15 minutes | no | no | 4
@@ -613,511 +613,517 @@ Skin testing for allergy to anaesthetic agents | no | yes | 4
 Assistance in the administration of an anaesthetic | yes | yes | 5
 Note — Unlisted services
 For an unlisted service, the number of units is to be determined by reference to the nearest listed anaesthetic procedure
-[Part 1 inserted in Gazette 20 Jul 1999 p. 3250-69; amended in Gazette 31 Aug 1999 p. 4244-5; 21 Dec 2000 p. 7626-34; 28 Dec 2001 p. 6692-7; 23 Sep 2003 p. 4174-7; 19 Mar 2004 p. 864-96; 29 Oct 2004 p. 4941-2; 21 Jan 2005 p. 279-81; 10 Jan 2006 p. 44-52.]
+[Part 1 inserted in Gazette 20 Jul 1999 p. 3250-69; amended in Gazette 31 Aug 1999 p. 4244-5; 21 Dec 2000 p. 7626-34; 28 Dec 2001 p. 6692-7; 23 Sep 2003 p. 4174-7; 19 Mar 2004 p. 864-96; 29 Oct 2004 p. 4941-2; 21 Jan 2005 p. 279-81; 10 Jan 2006 p. 44-52; 22 Dec 2006 p. 5759-68.]
 ## Part 2 — Medical procedures
+[Heading inserted in Gazette 22 Dec 2006 p. 5768.]
 Type of procedure | Fee $
 GENERAL
-Localised burns | 42.80
-Localised burns, including dressing of, under general anaesthetic | 121.90
-Extensive burns | 73.85
-Extensive burns, including dressing of, under general anaesthetic | 257.90
-Dressing of wounds, under general anaesthetic | 121.90
-Acupuncture, including consultation | 56.85
+Localised burns | 44.55
+Localised burns, including dressing of, under general anaesthetic | 126.85
+Extensive burns | 76.85
+Extensive burns, including dressing of, under general anaesthetic | 268.35
+Dressing of wounds, under general anaesthetic | 126.85
+Acupuncture, including consultation | 59.15
 DISLOCATIONS
 “closed reduction” means non-operative reduction of the dislocation, and included percutaneous fixation and/or external splintage by cast or splint.
 “open reduction” means treatment by either closed reduction and intra-medullary fixation or treatment by operative exposure of the dislocation including internal or external fixation.
 “other” means treatment by any other method and includes the use of external splintage.
-[Where injuries are associated with a compound (open) wound, an additional fee of 50% of the fee listed is to apply]
-Elbow, by closed reduction | 229.75
-Elbow, by open reduction | 304.70
-Interphalangeal joint, by closed reduction | 98.50
-Interphalangeal joint, by open reduction | 131.30
-Mandible, by closed reduction | 82.10
-Clavicle, by closed reduction | 97.35
-Clavicle, by open reduction | 196.95
-Shoulder, not requiring general anaesthetic | 109.55
-Shoulder, by open reduction, with general anaesthetic | 392.70
-Shoulder, other, with general anaesthetic | 194.55
-Metacarpophalangeal joint, by closed reduction | 131.30
-Metacarpophalangeal joint, by open reduction | 175.85
-Patella, by closed reduction | 147.65
-Patella, by open reduction | 196.95
-Radioulnar joint, by closed reduction | 229.75
-Radioulnar joint, by open reduction | 304.70
-Toe, by closed reduction | 82.10
-Toe, by open reduction | 109.00
+[Where injuries are associated with a compound (open) wound, an additional fee of 50% of the fee listed is to apply.]
+Elbow, by closed reduction | 239.10
+Elbow, by open reduction | 317.05
+Interphalangeal joint, by closed reduction | 102.50
+Interphalangeal joint, by open reduction | 136.65
+Mandible, by closed reduction | 85.45
+Clavicle, by closed reduction | 101.30
+Clavicle, by open reduction | 204.95
+Shoulder, not requiring general anaesthetic | 114.00
+Shoulder, by open reduction, with general anaesthetic | 408.65
+Shoulder, other, with general anaesthetic | 202.45
+Metacarpophalangeal joint, by closed reduction | 136.65
+Metacarpophalangeal joint, by open reduction | 183.00
+Patella, by closed reduction | 153.65
+Patella, by open reduction | 204.95
+Radioulnar joint, by closed reduction | 239.10
+Radioulnar joint, by open reduction | 317.05
+Toe, by closed reduction | 85.45
+Toe, by open reduction | 113.45
 REMOVAL OF FOREIGN BODIES —
-as independent procedure | 35.75
-superficial | 159.40
-deep tissue or muscle | 445.45
-ear, other than by syringing | 114.85
-nose, other than by simple probing | 114.85
-cornea or sclera, embedded | 117.20
+as independent procedure | 37.20
+superficial | 165.85
+deep tissue or muscle | 463.55
+ear, other than by syringing | 119.50
+nose, other than by simple probing | 119.50
+cornea or sclera, embedded | 121.95
 FRACTURES
 “closed reduction” means non-operative reduction of the fracture, and included percutaneous fixation and/or external splintage by cast or splint.
 “open reduction” means treatment by either closed reduction and intra-medullary fixation or treatment by operative exposure of the fracture including internal or external fixation.
 “other” means treatment by any other method and includes the use of external splintage.
-[Where injuries are associated with a compound (open) wound, an additional fee of 50% of the fee listed is to apply]
+[Where injuries are associated with a compound (open) wound, an additional fee of 50% of the fee listed is to apply.]
 Distal phalanx of finger or thumb
-fracture, by closed reduction | 147.65
-fracture, intra-articular, by closed reduction | 171.15
-fracture, by open reduction | 196.95
-fracture, intra-articular, by open reduction | 246.15
+fracture, by closed reduction | 153.65
+fracture, intra-articular, by closed reduction | 178.10
+fracture, by open reduction | 204.95
+fracture, intra-articular, by open reduction | 256.15
 Middle phalanx of finger
-fracture, by closed reduction | 222.70
-fracture, intra-articular, by closed reduction | 251.95
-fracture, by open reduction | 293.00
-fracture, intra-articular, by open reduction | 369.15
+fracture, by closed reduction | 231.75
+fracture, intra-articular, by closed reduction | 262.20
+fracture, by open reduction | 304.90
+fracture, intra-articular, by open reduction | 384.15
 Proximal phalanx of finger or thumb
-fracture, by closed reduction | 293.00
-fracture, intra-articular, by closed reduction | 345.70
-fracture, by open reduction | 392.70
-fracture, intra-articular, by open reduction | 492.30
+fracture, by closed reduction | 304.90
+fracture, intra-articular, by closed reduction | 359.75
+fracture, by open reduction | 408.65
+fracture, intra-articular, by open reduction | 512.30
 Metacarpal
-fracture, by closed reduction | 293.00
-fracture, intra-articular, by closed reduction | 345.70
-fracture, by open reduction | 392.70
-fracture, intra-articular, by open reduction | 492.30
-Carpal Scaphoid, by open reduction | 656.35
-Carpal Scaphoid, other | 293.00
-Carpus (excluding Scaphoid), by open reduction | 410.20
-Carpus (excluding Scaphoid), other | 164.10
+fracture, by closed reduction | 304.90
+fracture, intra-articular, by closed reduction | 359.75
+fracture, by open reduction | 408.65
+fracture, intra-articular, by open reduction | 512.30
+Carpal Scaphoid, by open reduction | 683.00
+Carpal Scaphoid, other | 304.90
+Carpus (excluding Scaphoid), by open reduction | 426.85
+Carpus (excluding Scaphoid), other | 170.75
 Radius
-by closed management | 328.15
-by open management | 656.35
+by closed management | 341.45
+by open management | 683.00
 Radius or Ulnar, distal end, (Colies’, Smith’s or Barton’s)
-by closed reduction | 492.30
-by open reduction | 656.35
-Ribs (1 or more), each attendance | 75.10
+by closed reduction | 512.30
+by open reduction | 683.00
+Ribs (1 or more), each attendance | 78.15
 Tibia, plateau of, medial or lateral
-by closed reduction | 591.90
-by open reduction | 785.25
+by closed reduction | 615.95
+by open reduction | 817.15
 Tibia, plateau of, medial and lateral
-by closed reduction | 984.50
-by open reduction | 1 318.50
+by closed reduction | 1 024.45
+by open reduction | 1 372.05
 SUTURES
-face or neck, less than 7 cm, superficial | 117.20
-face or neck, less than 7 cm, deep | 178.10
-face or neck, more than 7 cm, superficial | 178.10
-face or neck, more than 7 cm, deep | 304.70
-except face or neck, less than 7 cm, superficial | 89.10
-except face or neck, less than 7 cm, deep | 133.60
-except face or neck, more than 7 cm, superficial | 133.60
-except face or neck, more than 7 cm, deep | 293.00
+face or neck, less than 7 cm, superficial | 121.95
+face or neck, less than 7 cm, deep | 185.35
+face or neck, more than 7 cm, superficial | 185.35
+face or neck, more than 7 cm, deep | 317.05
+except face or neck, less than 7 cm, superficial | 92.70
+except face or neck, less than 7 cm, deep | 139.00
+except face or neck, more than 7 cm, superficial | 139.00
+except face or neck, more than 7 cm, deep | 304.90
 AMPUTATIONS
-Hand, midcarpal or transmetacarpal | 445.45
-Hand, forearm or through arm | 515.70
-At shoulder | 873.10
-Interscapulothoracic | 1 734.55
-One digit of foot | 234.35
-Two digits of one foot | 351.60
-Three digits of one foot | 474.70
-Four digits of one foot | 591.90
-Five digits of one foot | 709.10
-Toe including metatarsal or part of metatarsal | 276.65
-Foot, at ankle | 515.70
-Foot, midtarsal or transmetatarsal | 445.45
-Through thigh, at knee or below knee | 761.85
-At hip | 1 072.30
+Hand, midcarpal or transmetacarpal | 463.55
+Hand, forearm or through arm | 536.65
+At shoulder | 908.55
+Interscapulothoracic | 1 804.95
+One digit of foot | 243.85
+Two digits of one foot | 365.85
+Three digits of one foot | 493.95
+Four digits of one foot | 615.95
+Five digits of one foot | 737.90
+Toe including metatarsal or part of metatarsal | 287.90
+Foot, at ankle | 536.65
+Foot, midtarsal or transmetatarsal | 463.55
+Through thigh, at knee or below knee | 792.80
+At hip | 1 115.85
 ASSISTANCE AT OPERATIONS The fee for assistance at any operation (or series or combination of operations) is to be related to the fee listed for the operation (or series or combination of operations) itself.
-The fee is 20% of the total fee or the minimum sum of $147.65, whichever is greater.
-USE OF PRIVATE THEATRES A theatre fee of $89.10 will be paid to practitioners for the use of their private theatre, but this fee may only be charged if the patient would otherwise have been sent to hospital.
-[Part 2 inserted in Gazette 10 Jan 2006 p. 52-6.]
-## Part 3 — Diagnostic imaging services
+The fee is 20% of the total fee or the minimum sum of $153.65, whichever is greater.
+USE OF PRIVATE THEATRES A theatre fee of $92.70 will be paid to practitioners for the use of their private theatre, but this fee may only be charged if the patient would otherwise have been sent to hospital.
+[Part 2 inserted in Gazette 22 Dec 2006 p. 5768-72.]
+## Part 3 — Diagnostic Imaging Services
+[Heading inserted in Gazette 22 Dec 2006 p. 5773.]
 ULTRASOUND
 MBS item number (1 November 2005) | Fee $
-55028 | 143.55
-55029 | 49.80
-55030 | 143.55
-55031 | 49.80
-55032 | 143.55
-55033 | 49.80
-55036 | 146.40
-55037 | 49.80
-55038 | 143.55
-55039 | 49.80
-55044 | 146.40
-55045 | 49.80
-55048 | 143.55
-55049 | 49.80
-55054 | 143.55
-55070 | 129.25
-55073 | 44.80
-55076 | 143.55
-55079 | 49.80
-55084 | 129.25
-55085 | 44.80
-55113 | 303.50
-55114 | 303.50
-55115 | 303.50
-55116 | 337.45
-55117 | 337.45
-55118 | 362.45
-55130 | 223.70
-55135 | 465.25
-55238 | 223.00
-55244 | 223.00
-55246 | 223.00
-55248 | 223.00
-55252 | 223.00
-55274 | 223.00
-55276 | 223.00
-55278 | 223.00
-55280 | 223.00
-55282 | 223.00
-55284 | 223.00
-55292 | 223.00
-55294 | 223.00
-55296 | 146.10
-55600 | 143.55
-55603 | 143.55
-55700 | 78.90
-55703 | 46.05
-55704 | 92.10
-55705 | 46.05
-55706 | 131.60
-55707 | 92.10
-55708 | 46.05
-55709 | 50.00
-55712 | 151.30
-55715 | 52.60
-55718 | 131.60
-55721 | 151.30
-55723 | 50.00
-55725 | 52.60
-55728 | 131.60
-55729 | 35.85
-55731 | 128.95
-55733 | 46.05
-55736 | 167.05
-55739 | 74.95
-55759 | 197.35
-55762 | 78.90
-55764 | 210.50
-55766 | 85.50
-55768 | 197.35
-55770 | 78.90
-55772 | 210.50
-55774 | 85.50
-55800 | 143.55
-55802 | 49.80
-55804 | 143.55
-55806 | 49.80
-55808 | 143.55
-55810 | 49.80
-55812 | 143.55
-55814 | 49.80
-55816 | 143.55
-55818 | 49.80
-55820 | 143.55
-55822 | 49.80
-55824 | 143.55
-55826 | 49.80
-55828 | 143.55
-55830 | 49.80
-55832 | 143.55
-55834 | 49.80
-55836 | 143.55
-55838 | 49.80
-55840 | 143.55
-55842 | 49.80
-55844 | 114.95
-55846 | 49.80
-55848 | 143.55
-55850 | 201.10
-55852 | 143.55
-55854 | 49.80
+55028 | 149.40
+55029 | 51.80
+55030 | 149.40
+55031 | 51.80
+55032 | 149.40
+55033 | 51.80
+55036 | 152.35
+55037 | 51.80
+55038 | 149.40
+55039 | 51.80
+55044 | 152.35
+55045 | 51.80
+55048 | 149.40
+55049 | 51.80
+55054 | 149.40
+55070 | 134.50
+55073 | 46.60
+55076 | 149.40
+55079 | 51.80
+55084 | 134.50
+55085 | 46.60
+55113 | 315.80
+55114 | 315.80
+55115 | 315.80
+55116 | 351.15
+55117 | 351.15
+55118 | 377.15
+55130 | 232.80
+55135 | 484.15
+55238 | 232.05
+55244 | 232.05
+55246 | 232.05
+55248 | 232.05
+55252 | 232.05
+55274 | 232.05
+55276 | 232.05
+55278 | 232.05
+55280 | 232.05
+55282 | 232.05
+55284 | 232.05
+55292 | 232.05
+55294 | 232.05
+55296 | 152.05
+55600 | 149.40
+55603 | 149.40
+55700 | 82.10
+55703 | 47.90
+55704 | 95.85
+55705 | 47.90
+55706 | 136.95
+55707 | 95.85
+55708 | 47.90
+55709 | 52.05
+55712 | 157.45
+55715 | 54.75
+55718 | 136.95
+55721 | 157.45
+55723 | 52.05
+55725 | 54.75
+55728 | 136.95
+55729 | 37.30
+55731 | 134.20
+55733 | 47.90
+55736 | 173.85
+55739 | 78.00
+55759 | 205.35
+55762 | 82.10
+55764 | 219.05
+55766 | 88.95
+55768 | 205.35
+55770 | 82.10
+55772 | 219.05
+55774 | 88.95
+55800 | 149.40
+55802 | 51.80
+55804 | 149.40
+55806 | 51.80
+55808 | 149.40
+55810 | 51.80
+55812 | 149.40
+55814 | 51.80
+55816 | 149.40
+55818 | 51.80
+55820 | 149.40
+55822 | 51.80
+55824 | 149.40
+55826 | 51.80
+55828 | 149.40
+55830 | 51.80
+55832 | 149.40
+55834 | 51.80
+55836 | 149.40
+55838 | 51.80
+55840 | 149.40
+55842 | 51.80
+55844 | 119.60
+55846 | 51.80
+55848 | 149.40
+55850 | 209.25
+55852 | 149.40
+55854 | 51.80
 COMPUTED TOMOGRAPHY — EXAMINATION AND REPORT
 MBS item number (1 November 2005) | Fee $
-56001 | 235.70
-56007 | 302.15
-56010 | 304.60
-56013 | 302.15
-56016 | 350.45
-56022 | 271.90
-56028 | 407.00
-56030 | 271.90
-56036 | 407.00
-56041 | 119.35
-56047 | 152.40
-56050 | 154.95
-56053 | 154.95
-56056 | 187.80
-56062 | 136.70
-56068 | 203.50
-56070 | 136.70
-56076 | 203.50
-56101 | 277.95
-56107 | 410.90
-56141 | 140.70
-56147 | 207.40
-56219 | 394.15
-56220 | 290.05
-56221 | 290.05
-56223 | 290.05
-56224 | 424.65
-56225 | 424.65
-56226 | 424.65
-56227 | 148.05
-56228 | 148.05
-56229 | 148.05
-56230 | 214.45
-56231 | 214.45
-56232 | 214.45
-56233 | 290.05
-56234 | 424.65
-56235 | 148.00
-56236 | 214.45
-56237 | 290.05
-56238 | 424.65
-56239 | 148.00
-56240 | 214.45
-56259 | 199.15
-56301 | 356.50
-56307 | 483.35
-56341 | 180.60
-56347 | 244.10
-56401 | 302.15
-56407 | 435.00
-56409 | 302.15
-56412 | 435.00
-56441 | 153.20
-56447 | 219.30
-56449 | 153.20
-56452 | 219.30
-56501 | 465.25
-56507 | 580.05
-56541 | 233.40
-56547 | 294.55
-56549 | 465.25
-56551 | 465.25
-56619 | 265.85
-56625 | 404.40
-56659 | 135.45
-56665 | 202.30
-56801 | 563.80
-56807 | 676.70
-56841 | 282.00
-56847 | 343.00
-57001 | 563.90
-57007 | 686.10
-57041 | 282.05
-57047 | 343.05
-57201 | 187.55
-57247 | 93.70
-57341 | 567.95
-57345 | 291.95
-57350 | 616.30
-57351 | 616.30
-57355 | 319.20
-57356 | 319.20
+56001 | 245.25
+56007 | 314.40
+56010 | 316.95
+56013 | 314.40
+56016 | 364.70
+56022 | 282.95
+56028 | 423.50
+56030 | 282.95
+56036 | 423.50
+56041 | 124.20
+56047 | 158.60
+56050 | 161.25
+56053 | 161.25
+56056 | 195.40
+56062 | 142.25
+56068 | 211.75
+56070 | 142.25
+56076 | 211.75
+56101 | 289.25
+56107 | 427.60
+56141 | 146.40
+56147 | 215.80
+56219 | 410.15
+56220 | 301.85
+56221 | 301.85
+56223 | 301.85
+56224 | 441.90
+56225 | 441.90
+56226 | 441.90
+56227 | 154.05
+56228 | 154.05
+56229 | 154.05
+56230 | 223.15
+56231 | 223.15
+56232 | 223.15
+56233 | 301.85
+56234 | 441.90
+56235 | 154.00
+56236 | 223.15
+56237 | 301.85
+56238 | 441.90
+56239 | 154.00
+56240 | 223.15
+56259 | 207.25
+56301 | 370.95
+56307 | 502.95
+56341 | 187.95
+56347 | 254.00
+56401 | 314.40
+56407 | 452.65
+56409 | 314.40
+56412 | 452.65
+56441 | 159.40
+56447 | 228.20
+56449 | 159.40
+56452 | 228.20
+56501 | 484.15
+56507 | 603.60
+56541 | 242.90
+56547 | 306.50
+56549 | 484.15
+56551 | 484.15
+56619 | 276.65
+56625 | 420.80
+56659 | 140.95
+56665 | 210.50
+56801 | 586.70
+56807 | 704.15
+56841 | 293.45
+56847 | 356.95
+57001 | 586.80
+57007 | 713.95
+57041 | 293.50
+57047 | 357.00
+57201 | 195.15
+57247 | 97.50
+57341 | 591.00
+57345 | 303.80
+57350 | 641.30
+57351 | 641.30
+57355 | 332.15
+57356 | 332.15
 DIAGNOSTIC RADIOLOGY
 MBS item number (1 November 2005) | Fee $
-57506 | 41.50
-57509 | 55.45
-57512 | 56.50
-57515 | 75.35
-57518 | 45.35
-57521 | 60.55
-57524 | 69.00
-57527 | 91.75
-57700 | 56.50
-57703 | 75.35
-57706 | 45.35
-57709 | 60.55
-57712 | 65.80
-57715 | 85.00
-57721 | 138.50
-57901 | 90.00
-57902 | 90.00
-57903 | 66.00
-57906 | 90.00
-57909 | 90.00
-57912 | 65.80
-57915 | 65.80
-57918 | 65.80
-57921 | 65.80
-57924 | 65.80
-57927 | 69.25
-57930 | 45.90
-57933 | 109.20
-57939 | 90.00
-57942 | 69.25
-57945 | 60.55
-57960 | 66.15
-57963 | 66.15
-57966 | 66.15
-57969 | 66.15
-58100 | 93.70
-58103 | 76.90
-58106 | 107.45
-58108 | 185.45
-58109 | 65.60
-58112 | 135.75
-58115 | 185.45
-58300 | 56.00
-58306 | 124.80
-58500 | 49.35
-58503 | 65.80
-58506 | 84.80
-58509 | 55.45
-58521 | 60.55
-58524 | 78.85
-58527 | 96.85
-58700 | 64.30
-58706 | 220.35
-58715 | 211.50
-58718 | 176.00
-58721 | 192.90
-58900 | 49.80
-58903 | 66.40
-58909 | 125.50
-58912 | 153.85
-58915 | 110.15
-58916 | 193.25
-58921 | 188.75
-58924 | 117.30
-58927 | 106.70
-58933 | 286.90
-58936 | 273.45
-58939 | 194.40
-59103 | 29.75
-59300 | 124.90
-59303 | 75.30
-59306 | 140.00
-59309 | 279.90
-59312 | 121.40
-59314 | 73.25
-59318 | 65.65
-59503 | 124.80
-59700 | 134.75
-59703 | 105.90
-59712 | 158.65
-59715 | 200.35
-59718 | 187.95
-59724 | 316.05
-59733 | 150.30
-59736 | 86.55
-59739 | 102.95
-59751 | 194.20
-59754 | 306.10
-59760 | 160.70
-59763 | 186.85
-59903 | 159.85
-59912 | 425.90
-59925 | 505.75
-59970 | 234.90
-59971 | 79.95
-59972 | 212.95
-59973 | 252.95
-59974 | 117.50
-60000 | 787.05
-60003 | 1 154.25
-60006 | 1 641.25
-60009 | 1 920.65
-60012 | 787.05
-60015 | 1 154.25
-60018 | 1 641.25
-60021 | 1 920.65
-60024 | 787.05
-60027 | 1 154.25
-60030 | 1 641.25
-60033 | 1 920.65
-60036 | 787.05
-60039 | 1 154.25
-60042 | 1 641.25
-60045 | 1 920.65
-60048 | 787.05
-60051 | 1 154.25
-60054 | 1 641.25
-60057 | 1 920.65
-60060 | 787.05
-60063 | 1 154.25
-60066 | 1 641.25
-60069 | 1 920.65
-60072 | 67.15
-60075 | 134.10
-60078 | 201.30
-60100 | 84.80
-60500 | 60.55
-60503 | 41.50
-60506 | 89.00
-60509 | 138.00
-60918 | 65.80
-60927 | 53.10
-61109 | 361.30
+57506 | 43.20
+57509 | 57.70
+57512 | 58.80
+57515 | 78.40
+57518 | 47.20
+57521 | 63.00
+57524 | 71.80
+57527 | 95.50
+57700 | 58.80
+57703 | 78.40
+57706 | 47.20
+57709 | 63.00
+57712 | 68.45
+57715 | 88.45
+57721 | 144.10
+57901 | 93.65
+57902 | 93.65
+57903 | 68.70
+57906 | 93.65
+57909 | 93.65
+57912 | 68.45
+57915 | 68.45
+57918 | 68.45
+57921 | 68.45
+57924 | 68.45
+57927 | 72.05
+57930 | 47.75
+57933 | 113.65
+57939 | 93.65
+57942 | 72.05
+57945 | 63.00
+57960 | 68.85
+57963 | 68.85
+57966 | 68.85
+57969 | 68.85
+58100 | 97.50
+58103 | 80.00
+58106 | 111.80
+58108 | 193.00
+58109 | 68.25
+58112 | 141.25
+58115 | 193.00
+58300 | 58.25
+58306 | 129.85
+58500 | 51.35
+58503 | 68.45
+58506 | 88.25
+58509 | 57.70
+58521 | 63.00
+58524 | 82.05
+58527 | 100.80
+58700 | 66.90
+58706 | 229.30
+58715 | 220.10
+58718 | 183.15
+58721 | 200.75
+58900 | 51.80
+58903 | 69.10
+58909 | 130.60
+58912 | 160.10
+58915 | 114.60
+58916 | 201.10
+58921 | 196.40
+58924 | 122.05
+58927 | 111.05
+58933 | 298.55
+58936 | 284.55
+58939 | 202.30
+59103 | 30.95
+59300 | 129.95
+59303 | 78.35
+59306 | 145.70
+59309 | 291.25
+59312 | 126.35
+59314 | 76.20
+59318 | 68.30
+59503 | 129.85
+59700 | 140.20
+59703 | 110.20
+59712 | 165.10
+59715 | 208.50
+59718 | 195.60
+59724 | 328.90
+59733 | 156.40
+59736 | 90.05
+59739 | 107.15
+59751 | 202.10
+59754 | 318.55
+59760 | 167.20
+59763 | 194.45
+59903 | 166.35
+59912 | 443.20
+59925 | 526.30
+59970 | 244.45
+59971 | 83.20
+59972 | 221.60
+59973 | 263.20
+59974 | 122.25
+60000 | 819.00
+60003 | 1 201.10
+60006 | 1 707.90
+60009 | 1 998.65
+60012 | 819.00
+60015 | 1 201.10
+60018 | 1 707.90
+60021 | 1 998.65
+60024 | 819.00
+60027 | 1 201.10
+60030 | 1 707.90
+60033 | 1 998.65
+60036 | 819.00
+60039 | 1 201.10
+60042 | 1 707.90
+60045 | 1 998.65
+60048 | 819.00
+60051 | 1 201.10
+60054 | 1 707.90
+60057 | 1 998.65
+60060 | 819.00
+60063 | 1 201.10
+60066 | 1 707.90
+60069 | 1 998.65
+60072 | 69.90
+60075 | 139.55
+60078 | 209.45
+60100 | 88.25
+60500 | 63.00
+60503 | 43.20
+60506 | 92.60
+60509 | 143.60
+60918 | 68.45
+60927 | 55.25
+61109 | 375.95
 NUCLEAR MEDICINE IMAGING
 MBS item number (1 November 2005) | Fee $
-61302 | 482.50
-61303 | 607.65
-61306 | 762.80
-61307 | 897.45
-61310 | 394.80
-61313 | 326.10
-61314 | 451.45
-61316 | 409.75
-61317 | 529.25
-61320 | 246.05
-61328 | 244.70
-61340 | 271.95
-61348 | 476.55
-61352 | 278.80
-61353 | 415.55
-61356 | 422.20
-61360 | 433.55
-61361 | 495.95
-61364 | 534.20
-61368 | 239.80
-61369 | 2 166.70
-61372 | 239.80
-61373 | 526.35
-61376 | 154.10
-61381 | 617.35
-61383 | 671.75
-61384 | 739.20
-61386 | 357.40
-61387 | 463.00
-61389 | 398.30
-61390 | 440.65
-61393 | 650.85
-61397 | 265.35
-61401 | 174.45
-61402 | 650.40
-61405 | 371.90
-61409 | 938.90
-61413 | 242.85
-61417 | 127.75
-61421 | 515.75
-61425 | 645.70
-61426 | 596.35
-61429 | 583.65
-61430 | 708.80
-61433 | 534.20
-61434 | 661.50
-61437 | 583.45
-61438 | 723.40
-61441 | 526.35
-61442 | 808.70
-61445 | 308.25
-61446 | 358.55
-61449 | 490.35
-61450 | 427.30
-61453 | 553.25
-61454 | 374.15
-61457 | 505.65
-61458 | 426.65
-61461 | 567.35
-61462 | 140.05
-61465 | 285.35
-61469 | 374.15
-61473 | 188.50
-61480 | 415.80
-61484 | 946.85
-61485 | 1 074.00
-61495 | 239.80
-61499 | 271.95
-61650 | 944.50
+61302 | 502.10
+61303 | 632.30
+61306 | 793.75
+61307 | 933.90
+61310 | 410.85
+61313 | 339.35
+61314 | 469.80
+61316 | 426.40
+61317 | 550.75
+61320 | 256.05
+61328 | 254.65
+61340 | 283.00
+61348 | 495.90
+61352 | 290.10
+61353 | 432.40
+61356 | 439.35
+61360 | 451.15
+61361 | 516.10
+61364 | 555.90
+61368 | 249.55
+61369 | 2 254.65
+61372 | 249.55
+61373 | 547.70
+61376 | 160.35
+61381 | 642.40
+61383 | 699.00
+61384 | 769.20
+61386 | 371.90
+61387 | 481.80
+61389 | 414.45
+61390 | 458.55
+61393 | 677.25
+61397 | 276.10
+61401 | 181.55
+61402 | 676.80
+61405 | 387.00
+61409 | 977.00
+61413 | 252.70
+61417 | 132.95
+61421 | 536.70
+61425 | 671.90
+61426 | 620.55
+61429 | 607.35
+61430 | 737.60
+61433 | 555.90
+61434 | 688.35
+61437 | 607.15
+61438 | 752.75
+61441 | 547.70
+61442 | 841.55
+61445 | 320.75
+61446 | 373.10
+61449 | 510.25
+61450 | 444.65
+61453 | 575.70
+61454 | 389.35
+61457 | 526.20
+61458 | 443.95
+61461 | 590.40
+61462 | 145.75
+61465 | 296.95
+61469 | 389.35
+61473 | 196.15
+61480 | 432.70
+61484 | 985.30
+61485 | 1 117.60
+61495 | 249.55
+61499 | 283.00
+61650 | 982.85
 MAGNETIC RESONANCE IMAGING
-MBS item number (1 November 2003) | Fee $
-63000 — 63497 | 526.75
-[Part 3 inserted in Gazette 10 Jan 2006 p. 56-67; amended in Gazette 28 Apr 2006 p. 1660.]
+MBS item number (1 November 2005) | Fee $
+63000-63204 | 728.35
+63219-63243 | 1 092.50
+63271-63473 | 728.35
+63491-63494 | 83.25
+63497 | 250.00
+[Part 3 inserted in Gazette 22 Dec 2006 p. 5773-84.]
