@@ -99,6 +99,7 @@ Fish Resources Management Amendment Regulations (No. 5) 2006 | 5 Sep 2006 p. 361
 Reprint 6: The Fish Resources Management Regulations 1995 as at 6 Oct 2006 (includes amendments listed above)
 Fish Resources Management Amendment Regulations (No. 6) 2006 | 10 Nov 2006 p. 4703 | 10 Nov 2006
 Fish Resources Management Amendment Regulations (No. 8) 2006 | 10 Nov 2006 p. 4704-12 | 10 Nov 2006
+Fish Resources Management Amendment Regulations (No. 7) 2006 | 29 Dec 2006 p. 5888-92 | 29 Dec 2006
 Repealed by the Land Administration Act 1997 s. 281(1).
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Fisheries Department was redesignated as the Department of Fisheries.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Ministry of Justice was redesignated as the Department of Justice.
