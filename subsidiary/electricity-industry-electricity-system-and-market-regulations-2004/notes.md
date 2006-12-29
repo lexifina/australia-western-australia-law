@@ -5,3 +5,4 @@ Citation | Gazettal | Commencement
 Electricity Industry (Wholesale Electricity Market) Regulations 2004 | 30 Sep 2004 p. 4189-205 | 30 Sep 2004
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2005 | 16 Aug 2005 p. 3825-62 | 16 Aug 2005 (see r. 2)
 Electricity Corporations (Consequential Amendments) Regulations 2006 Pt. 3 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
+Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2) 2006 | 29 Dec 2006 p. 5881-3 | 29 Dec 2006
