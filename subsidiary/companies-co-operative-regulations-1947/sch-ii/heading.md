@@ -17,7 +17,7 @@ A — Fees payable by a Company having a capital divided into shares
 9. | For the production of any document in the Supreme Court.............................................................................. | 0 | 12 | 0
 10. | For the production of any document in the Local Court | 0 | 12 | 0
 11. | For the production of any document in the Police Court | 0 | 12 | 0
-12. | For the production of any document in the Land Titles Office ............................................................................ | 0 | 12 | 0
+12. | For the production of any document in the office of the Western Australian Land Information Authority................................................. | 0 | 12 | 0
 13. | Registration of a company under Part XI., whose nominal capital does not exceed £5,000........................ | 2 | 0 | 0
  | (1)For every £1,000 of nominal capital or part of £1,000 after the first £5,000 up to £20,000……………………………………… | 0 | 5 | 0
  | (2)For every £1,000 of nominal capital or part of £1,000 after the first £20,000….. | 0 | 1 | 0
@@ -65,4 +65,4 @@ C — Other Fees
  | Liquidator and Auditor.................................................. | 8 | 8 | 0
 39. | For every search of the register of authorised sharebrokers or the register of auditors and liquidators in respect of each name searched.................................. | 0 | 2 | 0
 40. | Deposit of any book or document under section 288, 2s. 6d. Provided that the total fees to be paid by a liquidator under section 288 in respect of any one company shall not exceed £1.
-[Schedule II amended by Gazette 25 March 1948 p.676.]
+[Schedule II amended in Gazette 25 Mar 1948 p. 676; 22 Dec 2006 p. 5801.]
