@@ -4,7 +4,7 @@
 [Heading inserted by No. 138 of 1976 s. 16; amended by No. 25 of 2002 s. 52.]
 1.(1)Subject to the provisions of this Schedule where —
 [(a)deleted]
-(b) the whole or a part of the intestate property consists of an interest in a dwelling house that, at the date of the death of the deceased person, was ordinarily used by the surviving husband or wife as his or her ordinary place of residence (in this Schedule called “the interest”); and
+(b) the whole or a part of the intestate property consists of an interest in a dwelling house that, at the date of the death of the deceased person, was ordinarily used by the surviving husband or wife as his or her ordinary place of residence (in this Schedule called the interest); and
 (c) the surviving husband or wife is not entitled under sections 14 and 15 to the whole of the intestate property,
 the surviving husband or wife may elect to have the interest appropriated under section 30(1)(k) of the Trustees Act 1962 in or towards satisfaction of any entitlement or entitlements that the surviving husband or wife has under item 2 or 3 of the Table.
 (2) The right conferred by this paragraph shall not be exercisable where the interest is —
@@ -29,7 +29,7 @@ the right conferred by paragraph 1 shall not be exercisable unless the Court, on
 (2) A notification under subparagraph (1) is not revocable except with the consent of the personal representative or of each personal representative, as the case may be, of the intestate.
 (3) Where the surviving husband or wife is not a personal representative of the intestate he or she may require the personal representative to have the interest valued and to inform him or her of the result of that valuation before he or she decides whether to exercise the right conferred by paragraph 1.
 5.Notwithstanding section 50 of the Trustees Act 1962, as respects an appropriation in pursuance of paragraph 1 the value of the interest is the amount determined by a qualified valuer engaged by the personal representative of the intestate to be the market value of the interest.
-6.(1)In this paragraph “the election period” means the period of 12 months mentioned in paragraph 3 and includes any extension of that period granted under subparagraph (2) of that paragraph.
+6.(1)In this paragraph the election period means the period of 12 months mentioned in paragraph 3 and includes any extension of that period granted under subparagraph (2) of that paragraph.
 (2) During the election period the personal representative of the intestate shall not, without the written consent of the surviving husband or wife, sell or otherwise dispose of the interest except in the course of administration owing to want of other assets or except with the approval of the Court.
 (3) An application to the Court under paragraph 2 may be made by the personal representative of the intestate as well as by the surviving husband or wife, and if, on an application under that paragraph, the Court does not order that the right conferred by paragraph 1 shall be exercisable by the surviving husband or wife, the Court may authorise the personal representative to dispose of the interest within the election period.
 (4) This paragraph shall not apply where the surviving husband or wife is the sole personal representative, or one of 2 or more personal representatives, of the intestate.
