@@ -17,9 +17,10 @@ Public Sector Management (General) Amendment Regulations 2002 | 5 Apr 2002 p. 18
 Reprint 2: The Public Sector Management (General) Regulations 1994 as at 25 Jul 2003 (includes amendments listed above)
 Inspector of Custodial Services Act 2003 s. 56(1) assented to 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Public Sector Management (General) Amendment Regulations 2005 | 16 Sep 2005 p. 4347-8 | 16 Sep 2005
+Public Sector Management (General) Amendment Regulations 2006 | 29 Dec 2006 p. 5920 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
 Under the Alteration of Statutory Designations Order (No. 2) 2001 references to the former Department of Planning and Urban Development are to be read and construed as references to the Department for Planning and Infrastructure.
 Repealed by the Country Housing Act 1998.
-Under the Alteration of Statutory Designations Order (No. 2) 2001 references to the former State Taxation Department are to be read and construed as references to the Department of Treasury and Finance.
+Footnote no longer applicable.
 Repealed by the School Education Act 1999.
 Repealed by the Vocational Education and Training Act 1996.
 Formerly referred to the Occupational Health, Safety and Welfare Act 1984, the short title of which was changed to the Occupational Safety and Health Act 1984 by the Occupational Safety and Health Legislation Amendment Act 1995. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
