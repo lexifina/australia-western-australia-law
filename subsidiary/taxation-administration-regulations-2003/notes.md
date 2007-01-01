@@ -7,3 +7,4 @@ Taxation Administration Amendment Regulations 2004 | 7 May 2004 p. 1413 | 7 May 
 Taxation Administration Amendment Regulations (No. 2) 2004 | 13 Aug 2004 p. 3253 | 1 Sep 2004 (see r. 2)
 Taxation Administration Amendment Regulations (No. 3) 2004 | 17 Dec 2004 p. 6092-3 | 1 Jan 2005 (see r. 2)
 Taxation Administration Amendment Regulations 2005 | 13 Dec 2005 p. 5992-3 | 13 Dec 2005
+Taxation Administration Amendment Regulations 2006 | 22 Dec 2006 p. 5811 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
