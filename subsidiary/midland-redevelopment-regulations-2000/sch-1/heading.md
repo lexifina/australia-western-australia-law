@@ -18,7 +18,7 @@ Surname (or Company name) . . . . . . . . . . . . . Other names . . . . . . . . 
 Telephone No. . . . . . . . . . . . . . . .
 5.Locality of development (street number, street, suburb) . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-6.Titles Office Description of land: Lot No(s). . . . . Location No. . . . . . .
+6.Description of land: Lot No(s). . . . . Location No. . . . . . .
 Plan/Diagram No. . . . . . Certificate of Title Vol. . . . . . Folio . . . . . . . .
 Plan/Diagram No. . . . . . Certificate of Title Vol. . . . . . Folio . . . . . . . .
 7.Name of nearest road junction/intersection . . . . . . . . . . . . . . . . . . . . . .
@@ -42,3 +42,4 @@ Note 2:It is an offence under regulation 6 for a person —
 (a)to make a statement or give any information which that person knows to be false in a material particular in connection with an application for approval of a development; or
 (b)to omit to supply to the Authority any information or particulars which that person knows to be relevant to the application.
 The offence is punishable by a fine of up to $1 000.
+[Form 1 amended in Gazette 29 Dec 2006 p. 5904.]
