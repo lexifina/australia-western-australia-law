@@ -12,6 +12,7 @@ Credit Amendment Regulations 1993 | 8 Oct 1993 p. 5437 | 8 Oct 1993
 Credit Amendment Regulations 1995 | 24 Mar 1995 p. 1092 | 24 Mar 1995
 Credit Amendment Regulations 2004 | 30 Dec 2004 p. 6914 | 1 Jan 2005 (see r 2 and Gazette 31 Dec 2004 p. 7130)
 Credit Amendment Regulations 2006 | 22 Sep 2006 p. 4097-101 | 22 Sep 2006 (see r. 2(a))
+Credit Amendment Regulations (No. 3) 2006 | 22 Dec 2006 p. 5803 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
 Repealed by the Fish Resources Management Act 1994 (No. 53 of 1994).
 Under the Public Sector Management Act 1994 the names of departments can be changed. At the date of this reprint the former Department of Consumer Affairs is called the Ministry of Fair Trading and the former Commissioner for Consumer Affairs is called the Commissioner for Fair Trading.
 Repealed by the Financial Institutions (Western Australia) Act 1992 (No. 30 of 1992).
