@@ -13,7 +13,8 @@ Forest Management Amendment Regulations (No. 2) 1998 | 18 Aug 1998 p.4447 Disall
 Forrest Management Amendment Regulation 2000 | 30 Jun 2000 pp.3401-2 | 1 Jul 2000 (see regulation 2)
 Conservation and Land Management Regulations 2002 r. 114 | 3 May 2002 p. 2233-308 | 3 May 2002
 Forest Management Amendment Regulations 2003 | 12 Aug 2003 p. 3657-8 | 12 Aug 2003
-The Land Act 1933 was repealed by the Land Administration Act 1997 (No. 30 of 1997) s.281(1).
+Forest Management Amendment Regulations (No. 2) 2006 | 22 Dec 2006 p. 5804 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
+The Land Act 1933 was repealed by the Land Administration Act 1997 (No. 30 of 1997) s. 281(1).
 The Forest Regulations 1957 are repealed by regulation 153(1) of these regulations.
 The Forest Diseases Regulations 1975 are repealed by regulation 153(2) of these regulations.
 The Conservation and Land Management Regulations 2002 r. 116 reads as follows:
@@ -26,5 +27,5 @@ The Conservation and Land Management Regulations 2002 r. 116 reads as follows:
 (a) any notice erected on any land; and
 (b) any licence granted under Part 5 of the Conservation and Land Management Regulations 1992.
 (5) In subregulation (1) —
-“former provision” means a provision repealed by regulation 114 or 115.
+former provision means a provision repealed by regulation 114 or 115.
 ”.
