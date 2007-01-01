@@ -94,6 +94,6 @@ Received the sum of ............. dollars ............... cents ($... c..) in pr
 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 for Executive Director
 Date . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-[Forms 3 and 4 repealed]
+[Forms 3 and 4 deleted]
 [Schedule 2 amended in Gazette 29 March 1996 pp.1508-09; 3 May 2002 p.2295.]
-[Schedules 2A and 2B Repealed in Gazette 3 May 2002 p.2294-5.]
+[Schedules 2A and 2B Deleted in Gazette 3 May 2002 p.2294-5.]

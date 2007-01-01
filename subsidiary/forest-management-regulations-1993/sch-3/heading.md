@@ -11,4 +11,4 @@ Product:hardwood mining rounds.
 Area RoyaltyKimberley, Pilbara, Gascoyne, Goldfields, Greenough,
 applies to:Wheatbelt and South Coast Regions of the Department of Conservation and Land Management.
 Royalty:$7.92 per tonne.
-[Schedule 4. Repealed in Gazette 29 March 1996 p.1511.]
+[Schedule 4. Deleted in Gazette 29 March 1996 p.1511.]
