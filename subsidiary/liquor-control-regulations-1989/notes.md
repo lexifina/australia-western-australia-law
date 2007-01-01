@@ -54,10 +54,7 @@ Liquor Licensing Amendment Regulations (No. 2) 2005 | 19 Aug 2005 p. 3873-4 | 19
 Reprint 5: The Liquor Licensing Regulations 1989 as at 7 Oct 2005 (includes amendments listed above)
 Liquor Licensing Amendment Regulations (No. 3) 2005 | 14 Oct 2005 p. 4564-6 | 1 Jan 2006 (see r. 2)
 Liquor Licensing Amendment Regulations 2006 | 14 Feb 2006 p. 695-6 | 14 Feb 2006
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Liquor Licensing Amendment Regulations (No. 2) 2006 r. 4 | 14 Nov 2006 p. 4734-5 | 1 Jan 2007 (see r. 2)
+Liquor Licensing Amendment Regulations (No. 2) 2006 | 14 Nov 2006 p. 4734-5 | 1 Jan 2007 (see r. 2)
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Disallowed on 26 Apr 1992, see Gazette 1 May 1992 p. 1844.
 The Liquor Licensing Amendment Regulations (No. 2) 2001 r. 2(3) and (4) read as follows:
@@ -71,32 +68,3 @@ The Liquor Licensing Amendment Regulations (No. 2) 2001 r. 2(3) and (4) read as 
 instituted but not finally determined before the coming into operation of this regulation.
 ”.
 The amendments in the Liquor Licensing Amendment Regulations 2004 cl. 3 and 5 are not included because of an error in the reference to the provision to be amended.
-On the date as at which this compilation was prepared, the Liquor Licensing Amendment Regulations (No. 2) 2006 r. 4 had not come into operation. They read as follows:
-“
-4.Schedule 3 amended
-Schedule 3 is amended as follows:
-(a) in item 1 by deleting “1 750.00” and inserting instead —
-“ 2 025.00 ”;
-(b) in item 2 by deleting “450.00” and inserting instead —
-“ 460.00 ”;
-(c) in item 3 by deleting “450.00” and inserting instead —
-“ 460.00 ”;
-(d) in item 3a by deleting “140.00” and inserting instead —
-“ 145.00 ”;
-(e) in item 3b by deleting “300.00” and inserting instead —
-“ 305.00 ”;
-(f) in item 4(d) by deleting “565.00” and inserting instead —
-“ 575.00 ”;
-(g) in item 4(e) by deleting “1 130.00” and inserting instead —
-“ 1 155.00 ”;
-(h) in item 4(f) by deleting “2 260.00” and inserting instead —
-“ 2 310.00 ”;
-(i) in item 5(a) by deleting “340.00” and inserting instead —
-“ 345.00 ”;
-(j) in item 5(b) by deleting “225.00” and inserting instead —
-“ 230.00 ”;
-(k) in item 5(c) by deleting “610.00” and inserting instead —
-“ 625.00 ”;
-(l) in item 10 by deleting “280.00” and inserting instead —
-“ 285.00 ”.
-”.
