@@ -109,11 +109,7 @@ Road Traffic (Drivers’ Licences) Amendment Regulations (No. 2) 2006 | 26 May 2
 Road Traffic (Drivers’ Licences) Amendment Regulations (No. 3) 2006 | 26 May 2006 p. 1882-3 | 1 Jul 2006 (see r. 2)
 Reprint 7: The Road Traffic (Drivers’ Licences) Regulations 1975 as at 3 Nov 2006 (includes amendments listed above)
 Road Traffic (Drivers’ Licences) Amendment Regulations (No. 4) 2006 | 28 Nov 2006 p. 4893 | 28 Nov 2006
-Road Traffic (Drivers’ Licences) Amendment Regulations 2006 | 28 Nov 2006 p. 4913-16 | Regulations other than r. 5: 4 Dec 2006 (see r. 2(1) and Gazette 28 Nov 2006 p. 4889)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Road Traffic (Drivers’ Licences) Amendment Regulations 2006 r. 5 | 28 Nov 2006 p. 4913-16 | 1 Jan 2007 (see r. 2(2))
+Road Traffic (Drivers’ Licences) Amendment Regulations 2006 | 28 Nov 2006 p. 4913-16 | Regulations other than r. 5: 4 Dec 2006 (see r. 2(1) and Gazette 28 Nov 2006 p. 4889); r. 5: 1 Jan 2007 (see r. 2(2))
 Repealed by the Children and Community Services Act 2004 s. 250(2)(c). See the Children and Community Services (Outside School Hours Care) Regulations 2006.
 Repealed by the Road Traffic Act 1974 s. 4.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
@@ -187,10 +183,4 @@ Regulation 4E(1)(a) of the Road Traffic (Drivers’ Licences) Regulations 1975 d
 The Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2004 s. 16(3) reads as follows:
 “
 (3) Nothing in this Act prevents any of the Road Traffic (Drivers’ Licences) Regulations 1975 from being amended in accordance with the Road Traffic Act 1974.
-”.
-On the date as at which this compilation was prepared, the Road Traffic (Drivers’ Licences) Amendment Regulations 2006 r. 5 had not come into operation. It reads as follows:
-“
-5.Regulation 4E amended
-Regulation 4E(2) is amended by deleting “in a form approved by the Director General” and inserting instead —
-“ obtained from the Director General, ”.
 ”.
