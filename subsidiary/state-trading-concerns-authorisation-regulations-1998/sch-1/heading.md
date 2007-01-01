@@ -11,7 +11,6 @@ Department of Fisheries
 Department of Health
 Department of Industry and Resources
 Department of Justice
-Department of Land Information
 Department of Treasury and Finance
 Fire and Emergency Services Authority of Western Australia
 Department of Culture and the Arts
@@ -20,7 +19,7 @@ Office of the Auditor General
 Office of the Public Sector Standards Commissioner
 Office of Water Regulation
 Western Australia Police Service
-[Part 1 inserted in Gazette 31 Aug 1999 p. 4241; amended in Gazette 21 Jan 2000 p. 346; 18 Feb 2000 p. 916 (correction in Gazette 29 Feb 2000 p. 996); 5 May 2000 p. 2140; 3 Nov 2000 p. 6109; 7 Jun 2002 p. 2733; 9 Aug 2002 p. 3856; 12 Nov 2002 p. 5468; 3 Jan 2003 p. 12; 13 Jun 2003 p. 2118; 30 Sep 2003 p. 4259; 24 Oct 2003 p. 4500; 19 Mar 2004 p. 916 and 917; 23 Mar 2004 p. 979; 1 Oct 2004 p. 4285; 15 Jul 2005 p. 3303-4; 12 Aug 2005 p. 3657.]
+[Part 1 inserted in Gazette 31 Aug 1999 p. 4241; amended in Gazette 21 Jan 2000 p. 346; 18 Feb 2000 p. 916 (correction in Gazette 29 Feb 2000 p. 996); 5 May 2000 p. 2140; 3 Nov 2000 p. 6109; 7 Jun 2002 p. 2733; 9 Aug 2002 p. 3856; 12 Nov 2002 p. 5468; 3 Jan 2003 p. 12; 13 Jun 2003 p. 2118; 30 Sep 2003 p. 4259; 24 Oct 2003 p. 4500; 19 Mar 2004 p. 916 and 917; 23 Mar 2004 p. 979; 1 Oct 2004 p. 4285; 15 Jul 2005 p. 3303-4; 12 Aug 2005 p. 3657; 22 Dec 2006 p. 5810.]
 ## Part 2 — Prescribed activities (regulation 3)
 Chemistry Centre (WA)
 The provision by the Chemistry Centre (WA) of scientific support (primarily chemistry based) to industry and to the public.
@@ -61,15 +60,6 @@ The sale, leasing or licensing of intellectual property or software that is or h
 The provision of management, advisory and training services relating to activities developed or currently carried out, by the Department of Industry and Resources.
 Department of Justice
 The provision of information or intellectual property that is or has been developed by the Department of Justice in relation to scientific, technical, educational, training, management and advisory services provided by the Department of Justice.
-Department of Land Information
-The provision by the Department of Land Information of services, maps, land information and computer software developed primarily by the department for the administration of land, and the sales and licensing of intellectual property rights, and access to digital land information and software.
-The provision by the Department of Land Information of land information value adding services, by means of entering into contractual arrangements with organisations that provide —
-(a) land information value adding services; or
-(b) services that add value to intellectual property developed by the Department of Land Information.
-In this item —
-“land information” includes information relating to land ownership, land boundaries, topographic features, the geodetic network infrastructure, property street address, mapping, aerial photography and satellite remote-sensed data.
-“land information value adding services” includes specialist analysis of data contained in land information, integrating different sets of data contained in land information and creating new data from data contained in land information.
-“services” includes technical, educational, training, managerial and advisory services.
 Department of Treasury and Finance
 The provision by the Department of Treasury and Finance of —
 (a) goods, information or intellectual property; and
@@ -94,4 +84,4 @@ Office of Water Regulation
 The provision or sale by the Office of Water Regulation of goods, information, or publications as a part of, or incidental to, the hosting of a 4 day international conference between 29 September and 2 October 2003.
 Western Australia Police Service
 The provision by the Western Australia Police Service of goods, information or intellectual property, technical, educational, training, management or advisory services relating to services provided by or activities carried out by Western Australia Police Service.
-[Part 2 inserted in Gazette 31 Aug 1999 p. 4241-3; amended in Gazette 21 Jan 2000 p. 346; 18 Feb 2000 p. 916 (correction in Gazette 29 Feb 2000 p. 996); 5 May 2000 p. 2140; 3 Nov 2000 p. 6109; 5 Jan 2001 p. 126; 7 Jun 2002 p. 2733; 9 Aug 2002 p. 3856; 12 Nov 2002 p. 5468; 3 Jan 2003 p. 12; 13 Jun 2003 p. 2118-19; 30 Sep 2003 p. 4259; 24 Oct 2003 p. 4500; 19 Mar 2004 p. 916 and 917; 23 Mar 2004 p. 979; 1 Oct 2004 p. 4285; 15 Jul 2005 p. 3303 and 3304; 12 Aug 2005 p. 3657; 15 Nov 2005 p. 5620; 17 Mar 2006 p. 1028.]
+[Part 2 inserted in Gazette 31 Aug 1999 p. 4241-3; amended in Gazette 21 Jan 2000 p. 346; 18 Feb 2000 p. 916 (correction in Gazette 29 Feb 2000 p. 996); 5 May 2000 p. 2140; 3 Nov 2000 p. 6109; 5 Jan 2001 p. 126; 7 Jun 2002 p. 2733; 9 Aug 2002 p. 3856; 12 Nov 2002 p. 5468; 3 Jan 2003 p. 12; 13 Jun 2003 p. 2118-19; 30 Sep 2003 p. 4259; 24 Oct 2003 p. 4500; 19 Mar 2004 p. 916 and 917; 23 Mar 2004 p. 979; 1 Oct 2004 p. 4285; 15 Jul 2005 p. 3303 and 3304; 12 Aug 2005 p. 3657; 15 Nov 2005 p. 5620; 17 Mar 2006 p. 1028; 22 Dec 2006 p. 5810.]
