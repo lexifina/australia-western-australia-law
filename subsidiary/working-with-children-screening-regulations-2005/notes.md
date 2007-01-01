@@ -6,3 +6,4 @@ Working with Children (Criminal Record Checking) Regulations 2005 | 21 Dec 2005 
 Working with Children (Criminal Record Checking) Amendment Regulations 2006 | 28 Feb 2006 p. 907-12 | 1 Mar 2006 (see r. 2 and Gazette 14 Feb 2006 p. 695.)
 Working with Children (Criminal Record Checking) Amendment Regulations (No. 2) 2006 | 1 Mar 2006 p. 940 | 2 Mar 2006 (see r. 2)
 Working with Children (Criminal Record Checking) Amendment Regulations (No. 3) 2006 | 1 Dec 2006 p. 5297-301 | 1 Dec 2006
+Working with Children (Criminal Record Checking) Amendment Regulations (No. 4) 2006 | 29 Dec 2006 p. 5876-8 | 1 Jan 2007 (see r. 2)
