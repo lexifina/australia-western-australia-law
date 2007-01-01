@@ -17,7 +17,6 @@ The Department of Environment and Conservation
 The Department of Fisheries
 The Department of Health
 The Department of Indigenous Affairs
-The Department of Land Administration
 The Department of Local Government and Regional Development
 The Department of Industry and Resources
 The Department for Planning and Infrastructure
@@ -49,10 +48,9 @@ The Pilbara Development Commission
 The Recreation Camps and Reserves Board
 The South West Development Commission
 The State Supply Commission
-The Valuer General’s Office
 The Water and Rivers Commission
 The Western Australian Building Management Authority
 The Western Australian Electoral Commission
 The Western Australia Police Service and the Police Force within the meaning of the Police Act 1892
 The Wheatbelt Development Commission
-[Schedule 1 amended in Gazette 7 Sep 2004 p. 3884; 5 Nov 2004 p. 4987; 2 May 2006 p. 1709-10; 11 Jul 2006 p. 2546; 22 Aug 2006 p. 3469.]
+[Schedule 1 amended in Gazette 7 Sep 2004 p. 3884; 5 Nov 2004 p. 4987; 2 May 2006 p. 1709-10; 11 Jul 2006 p. 2546; 22 Aug 2006 p. 3469; 22 Dec 2006 p. 5807.]

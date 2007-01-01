@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 October 2006 of the Pay-roll Tax Assessment Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Pay-roll Tax Assessment Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Pay-roll Tax Assessment Regulations 2003 | 27 Jun 2003 p. 2341-80 | 1 Jul 2003 (see r. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -15,4 +15,4 @@ Pay-roll Tax Assessment Amendment Regulations (No. 4) 2006 | 27 Jun 2006 p. 2306
 Pay-roll Tax Assessment Amendment Regulations (No. 3) 2006 | 11 Jul 2006 p. 2546 | 11 Jul 2006
 Pay-roll Tax Assessment Amendment Regulations (No. 5) 2006 | 22 Aug 2006 p. 3468-9 | 22 Aug 2006
 Reprint 1: The Pay-roll Tax Assessment Regulations 2003 as at 13 Oct 2006 (includes amendments listed above)
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time this reprint was prepared, the former Department of Land Administration was called the Department of Land Information.
+Pay-roll Tax Assessment Amendment Regulations (No. 6) 2006 | 22 Dec 2006 p. 5806-7 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
