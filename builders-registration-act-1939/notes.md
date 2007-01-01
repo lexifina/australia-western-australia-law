@@ -60,11 +60,11 @@ Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 11: The Builders’ Registration Act 1939 as at 2 Sep 2005 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Land Information Authority Act 2006 s. 119 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Land Information Authority Act 2006 s. 119 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 2 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 9.
 In this reprint the renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
@@ -85,20 +85,7 @@ On the date as at which this compilation was prepared, the State Superannuation 
 “
 (2) Section 5AA(2)(a) of the Builders’ Registration Act 1939 is amended by deleting “, including rights under the Superannuation and Family Benefits Act 1938,”.
 ”.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 119 had not come into operation. It reads as follows:
-“
-119.Certain references in other Acts to plans and diagrams amended
-(1) Other Acts are amended by deleting “Department within the meaning of the Transfer of Land Act 1893 Plan” in each place indicated in the Table to this section and inserting instead —
-“ Land Titles Office Plan ”.
-Table
-Builders’ Registration Act 1939 Schedule
-....................
-(2) Other Acts are amended by deleting “Department within the meaning of the Transfer of Land Act 1893 Diagram” in each place indicated in the Table to this section and inserting instead —
-“ Land Titles Office Diagram ”.
-Table
-Builders’ Registration Act 1939 Schedule
-....................
-”.
+Lands Titles Office diagrams and plans are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 2 had not come into operation. It reads as follows:
 “
 Part 2 — Builders’ Registration Act 1939 amended

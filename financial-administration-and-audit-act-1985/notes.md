@@ -169,6 +169,7 @@ Financial Administration and Audit (Designation of Statutory Authorities) Regula
 Reprint 9: The Financial Administration and Audit Act 1985 as at 10 Feb 2006 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 5 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
+Land Information Authority Act 2006 s. 186 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 On the date as at which this consolidation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this consolidation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -177,7 +178,7 @@ Acts Amendment (ICWA) Act 1996 Sch. 1 it. 3(c) | 45 of 1996 | 25 Oct 1996 | To b
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 44 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
-Land Information Authority Act 2006 s. 186 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Financial Legislation Amendment and Repeal Act 2006 s. 3 and Sch. 2 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 The provision of this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. (Also see endnote 11).
 Repealed by the Acts Amendment (Financial Administration and Audit) Act 1985 s. 3.
@@ -252,12 +253,84 @@ Section 73 of the Financial Administration and Audit Act 1985 is amended as foll
 (b) in paragraph (b) by deleting “his rights (if any) under the Superannuation and Family Benefits Act 1938, and such other” and inserting instead —
 “ such ”.
 ”.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 186 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 3 and Sch. 2 had not come into operation. They read as follows:
 “
-186.Financial Administration and Audit Act 1985 Schedule 1 amended
-(1) The amendment in this section is to the Financial Administration and Audit Act 1985*.
-(2) Schedule 1 is amended by inserting in the appropriate alphabetical position the following item —
-“ Western Australian Land Information Authority ”.
+3.Financial Administration and Audit Act 1985 repealed
+The Financial Administration and Audit Act 1985 is repealed.
+“
+Schedule 2 — Transitional provisions
+[s. 19]
+Division 1 — Preliminary
+1.Interpretation
+(1) In this Schedule —
+“commencement day” means the day on which this Schedule comes into operation;
+“FAA Act” means the Financial Administration and Audit Act 1985;
+“FM Act” means the Financial Management Act 2006.
+(2) Unless the contrary intention appears, words and expressions used in this Schedule have the same respective meaning as they have in the FAA Act or the FM Act, as the case requires.
+2.Application of Interpretation Act 1984
+(1) The provisions of the Interpretation Act 1984 (for example, sections 16, 36 and 38) about the repeal of written laws and the substitution of other written laws for those so repealed apply to the repeal of the Financial Administration and Audit Act 1985 as if —
+(a) Part II of that Act were repealed and re-enacted by the Financial Management Act 2006; and
+(b) Part III of that Act were repealed and re-enacted by the Auditor General Act 2006.
+(2) The other provisions of this Schedule are additional to the provisions applied by subclause (1) and do not affect the operation of the provisions applied by that subclause.
+Division 2 — Transitional provisions for the Financial Administration and Audit Act 1985
+3.Financial Administration and Audit Act 1985 section 6 (Consolidated Fund)
+A determination made by the Treasurer as to moneys that may be credited to the Consolidated Fund under the FAA Act section 6(3)(d) that has effect immediately before the commencement day continues to have effect, on and after that day, as if it were a determination made by the Treasurer as to amounts that may be credited to the Consolidated Account under the FM Act section 8(3)(a).
+4.Financial Administration and Audit Act 1985 section 9 (trust accounts)
+A trust account, forming part of the Trust Fund constituted under the FAA Act section 9 and established under subsection (2)(c) of that section, that is operative immediately before the commencement day continues to operate, on and after that day, as —
+(a) a Treasurer’s special purpose account under the FM Act section 10(a) or (f); or
+(b) an agency special purpose account under the FM Act section 16(1)(c) or (d),
+as the case requires.
+5.Financial Administration and Audit Act 1985 section 10 (trust statements)
+(1) Unless the Treasurer directs otherwise and subject to subclause (2), a trust statement approved by the Treasurer under the FAA Act section 10 that has effect immediately before the commencement day continues to have effect, on and after that day, as if it were a special purpose statement or a trust statement, as the case requires, approved by the Treasurer under the FM Act section 17.
+(2) A trust statement prepared for the Hospital Fund established under the Hospital Fund Act 1930 section 3 that —
+(a) is approved by the Treasurer under the FAA Act section 10; and
+(b) has effect immediately before the commencement day,
+continues to have effect, on and after that day, as if —
+(c) it were a special purpose statement approved by the Treasurer under the FM Act section 17; and
+(d) the FM Act section 17(1)(a) were amended to read as follows —
+“
+(a) a special purpose statement for an agency special purpose account operated by the agency that is referred to in section 16(1)(a);
+”.
+6.Financial Administration and Audit Act 1985 section 15B (operating accounts)
+An operating account established for the purposes of the operations of a department under the FAA Act section 15B that is operative immediately before the commencement day continues to operate, on and after that day, as an agency special purpose account established for the purposes of the operations of the department under the FM Act section 16(1)(a).
+7.Financial Administration and Audit Act 1985 section 21 (bank accounts)
+(1) A bank account maintained immediately before the commencement day under an authorisation given by the Treasurer under the FAA Act section 21 is taken, on and after that day, to be maintained under an authorisation given by the Treasurer under the FM Act section 13.
+(2) Despite the FM Act section 13, a bank account to which subclause (1) applies that, immediately before the commencement day, does not form part of the Public Bank Account continues, on and after that day, not to form part of the Public Bank Account.
+8.Financial Administration and Audit Act 1985 section 23A (prescribed revenue)
+A determination made by the Treasurer in respect of prescribed revenue under the FAA Act section 23A that has effect immediately before the commencement day continues to have effect, on and after that day, as if it were a determination made by the Treasurer in respect of prescribed receipts under the FM Act section 23.
+9.Financial Administration and Audit Act 1985 section 39 (investment income)
+A determination made by the Treasurer in respect of investment income under the FAA Act section 39(5) that has effect immediately before the commencement day continues to have effect, on and after that day, as if it were a determination made by the Treasurer in respect of money received from investment under the FM Act section 38(5).
+10.Financial Administration and Audit Act 1985 section 58 (Treasurer’s Instructions)
+(1) Subject to subclause (3), a Treasurer’s Instruction issued under the FAA Act section 58 that has effect immediately before the commencement day continues to have effect, on and after that day, as if it were a Treasurer’s instruction issued under the FM Act section 78.
+(2) Without limiting subclause (1) and subject to subclause (3), an exemption provided by a Treasurer’s Instruction or by the written direction of the Treasurer under the FAA Act section 58(3)(e) that has effect immediately before the commencement day continues to have effect on and after that day.
+(3) A Treasurer’s Instruction or exemption that continues to have effect under this clause does not have effect to the extent of any inconsistency with the FM Act.
+11.References to the Financial Administration and Audit Act 1985
+A reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
+Division 3 — Other transitional provisions
+12.Treasurer’s Advance Authorisation Act payments and advances
+An authorisation for the Treasurer to make payments or advances in a financial year under a Treasurer’s Advance Authorisation Act that has effect on the commencement day continues to have effect, after that day, as if it were an authorisation —
+(a) to make payments in that financial year under the Financial Management Act 2006 section 27; or
+(b) to make advances in that financial year under the Financial Management Act 2006 section 28,
+as the case requires.
+13.References to the Consolidated Fund
+(1) In this clause —
+“Consolidated Account” means the account of that name established by the Constitution Act 1889 section 64 as amended under Part 2;
+“Consolidated Fund” means the fund of that name established by the Constitution Act 1889 section 64 before the commencement of Part 2.
+(2) A reference in a written law or other document or instrument to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account.
+14.Transitional regulations
+(1) If this Schedule does not provide sufficiently for a matter or issue of a transitional nature that arises as a result of —
+(a) the repeal of the Financial Administration and Audit Act 1985 and the enactment of the Financial Management Act 2006 or the Auditor General Act 2006; or
+(b) the amendments effected by this Act,
+the Governor may make regulations under this clause (“transitional regulations”) prescribing all matters that are required, necessary or convenient to be prescribed for providing for the matter or issue.
+(2) If the transitional regulations provide that a state of affairs specified or described in the regulations is taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations are published in the Gazette but not earlier than the commencement day, the regulations have effect according to their terms.
+(3) If the transitional regulations contain a provision referred to in subclause (2), the provision does not operate so as —
+(a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the day of publication of those regulations; or
+(b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
+15.Power to amend subsidiary legislation
+(1) The Governor, on the recommendation of the Treasurer, may make regulations amending subsidiary legislation made under any Act.
+(2) The Treasurer may make a recommendation under subclause (1) only if the Treasurer considers that each amendment proposed to be made by the regulations is necessary or desirable as a consequence of the enactment of the Financial Management Act 2006, the Auditor General Act 2006 or this Act.
+(3) Nothing in this clause prevents subsidiary legislation from being amended in accordance with the Act under which it was made.
+”.
 ”.
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Schedule 1, had not come into operation. It reads as follows:
 “

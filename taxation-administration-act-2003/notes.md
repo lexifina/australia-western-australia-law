@@ -11,11 +11,11 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Revenue Laws Amendment Act (No. 2) 2005 Pt. 4 | 12 of 2005 | 30 Aug 2005 | 30 Aug 2005 (see s. 2(1))
 Reprint 1: The Taxation Administration Act 2003 as at 14 Oct 2005 (includes amendments listed above)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+Land Information Authority Act 2006 s. 184 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnote referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Taxation Administration Act 2003 s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59 | 1 of 2003 (as amended by No. 55 of 2004) | 20 Mar 2003 | To be proclaimed (see s. 2)
-Land Information Authority Act 2006 s. 184 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 On the date as at which this compilation was prepared, the Taxation Administration Act 2003 s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59 (as amended by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004) had not come into operation. They read as follows:
 “
 34.Right to object
@@ -62,10 +62,4 @@ Part 4 — Reassessment
 (b) on which duty has been assessed under the former provisions.
 (3) Subsection (2) does not authorise the Commissioner to make an assessment under the new provisions of the duty on an instrument to the extent (if any) to which the former provisions apply in relation to it under the Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 section 9(2)(b).
 (4) The Taxation Administration Act 2003 sections 18 and 54(1)(a) apply in relation to an assessment under subsection (2) as if it were a reassessment under section 16 of that Act.
-”.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 184 had not come into operation. It reads as follows:
-“
-184.Taxation Administration Act 2003 amended
-(1) The amendment in this section is to the Taxation Administration Act 2003.
-(2) The Glossary at the end of the Act is amended by deleting the definition of “Valuer-General”.
 ”.

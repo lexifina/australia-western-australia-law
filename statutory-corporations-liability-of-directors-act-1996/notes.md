@@ -24,10 +24,7 @@ Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (
 Marketing of Eggs Amendment Act 2004 s. 9 | 20 of 2004 | 26 Aug 2004 | 2 Jul 2005 (see s. 2(2) and Gazette 28 Jun 2005 p. 2895)
 Statutory Corporations (Liability of Directors) (Act Amendment) Regulations 2004 (see Gazette 26 Nov 2004 p. 5314-15) | 1 Dec 2004 (see r. 2 and Gazette 30 Nov 2004 p. 5515)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Land Information Authority Act 2006 s. 188 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Land Information Authority Act 2006 s. 188 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Formerly referred to the State Government Insurance Commission the name of which was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8. The reference was substituted under the Reprints Act 1984 s. 7(3)(h).
 Formerly referred to the State Government Insurance Commission Act 1986 the short title of which was changed to the Insurance Commission of Western Australia Act 1986 by the Acts Amendment (ICWA) Act 1996 s. 5. The reference was substituted under the Reprints Act 1984 s. 7(3)(gb).
 The Insurance Commission of Western Australia Act 1986 Part III provides for the establishment of the State Government Insurance Corporation and for a board of directors of the Corporation. The Acts Amendment (ICWA) Act 1996 s. 20, which had not come into operation at the date on which this reprint was prepared, will repeal that Part.
@@ -38,13 +35,4 @@ The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as
 (1) The Governor, on the recommendation of the Minister, may make regulations amending subsidiary legislation made under any Act.
 (2) The Minister may make a recommendation under subsection (1) only if the Minister considers that each amendment proposed to be made by the regulations is necessary or desirable as a consequence of the enactment of the RWWA Act or this Act.
 (3) Nothing in this section prevents subsidiary legislation from being amended in accordance with the Act under which it was made.
-”.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 188 had not come into operation. It reads as follows:
-“
-188.Statutory Corporations (Liability of Directors) Act 1996 Schedule 1 amended
-(1) The amendment in this section is to the Statutory Corporations (Liability of Directors) Act 1996.
-(2) Schedule 1 is amended by inserting in its appropriate alphabetical position the following item —
-“
-Western Australian Land Information Authority | a member of the Authority’s board of management | Land Information Authority Act 2006
-”.
 ”.

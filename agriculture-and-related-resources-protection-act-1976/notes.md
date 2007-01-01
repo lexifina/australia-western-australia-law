@@ -30,18 +30,17 @@ Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 No
 Agriculture and Related Resources Protection Amendment Act 2006 | 6 of 2006 | 12 Apr 2006 | 12 Apr 2006 (see s. 2)
 Reprint 3: The Agriculture and Related Resources Protection Act 1976 as at 16 Jun 2006 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Land Information Authority Act 2006 s. 121 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Land Information Authority Act 2006 s. 121 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2)
 Repealed by the Mining Act 1978.
 Repealed by the Public Service Appeal Board Act Repeal Act 1977.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also endnote 14.
-Under the Public Sector Management Act 1994 the names of departments can be changed. The head of a department is now the chief executive officer or chief employee. However the title by which that person is known may be changed.
-At the time of this reprint the former Department of Lands and Surveys is called the Department of Land Information and its administrative head is called the Chief Executive.
-Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Mines is, unless the contrary intention appears, to be read and construed as a reference to the Department of Industry and Resources. See also endnote 5 regarding the administrative head.
+No longer applicable.
 Repealed by the Interpretation Act 1984.
 Repealed by the Commercial Arbitration Act 1985.
 Repealed by section 6 of this Act.
@@ -214,18 +213,39 @@ In this Division —
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 121 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17, which gives effect to Sch. 1, had not come into operation. They read as follows:
 “
+4.References to “Consolidated Fund” changed to “Consolidated Account”
+The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Consolidated Fund” (whether in ordinary type, italics, bold or capitals) in each place where it occurs and inserting instead (in corresponding type) —
+“ Consolidated Account ”.
+Table
+................
+Agriculture and Related Resources Protection Act 1976 | s. 65(3)(b) s. 65(4)
+.................
 ”.
-121.Agriculture and Related Resources Protection Act 1976 amended
-(1) The amendments in this section are to the Agriculture and Related Resources Protection Act 1976.
-(2) Section 92(4)(b) is amended by deleting “the Department within the meaning of the Transfer of Land Act 1893, the Department of Lands and Surveys, the Department of Mines, or the Register of Deeds, as the case may be” and inserting instead —
-“ a register or other records referred to in section 94(1)(b) ”.
-(3) Section 94(1)(b) is amended as follows:
-(a) in subparagraph (i), by deleting “or Deputy”;
-(b) by deleting subparagraph (iii) and inserting instead —
 “
-(iii) the chief executive officer of the department principally assisting in the administration of the Land Administration Act 1997 that a person is registered in that department as the owner or occupier of land;
-(iiia) the chief executive officer of the department principally assisting in the administration of the Mining Act 1978 that a person is registered in that department as the owner or occupier of land;
+17.Various Acts amended
+Schedule 1 sets out amendments to various Acts.
 ”.
+Schedule 1 cl. 6 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 17]
+6.Agriculture and Related Resources Protection Act 1976
+(1) Section 7(1) is amended by deleting the definition of “Control Fund” and inserting instead —
+“
+“Control Account” means the Declared Plants and Animals Control Account referred to in section 65;
+”.
+(2) Section 12(2) is amended by deleting “Fund” and inserting instead —
+“ Account ”.
+(3) Section 31A(2) is amended by deleting “Fund.” and inserting instead —
+“ Account. ”.
+(4) Section 58(1) is amended by deleting “Fund” in each place where it occurs and inserting instead —
+“ Account ”.
+(5) Section 65(1) is repealed and the following subsection is inserted instead —
+“
+(1) An agency special purpose account called the Declared Plants and Animals Control Account is established under section 16 of the Financial Management Act 2006 to which all rates recovered under section 60 or 61 are to be credited.
+”.
+(6) Section 65(3)(b) and (4) are amended by deleting “Control Fund” and inserting instead —
+“ Control Account ”.
 ”.

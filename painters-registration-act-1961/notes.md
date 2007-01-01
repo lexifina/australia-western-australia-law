@@ -19,14 +19,14 @@ Painters’ Registration (Scheduled Areas) Regulations (No. 2) 1994 published in
 Painters’ Registration (Scheduled Areas) Regulations (No. 3) 1994 published in Gazette 9 Dec1994 p. 6660-61 | 1 Feb 1995 (see r. 2)
 Local Government (Consequential Amendments) Act 1996, s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Transfer of Land Amendment Act 1996, s. 153(3) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2)
-Acts Amendment (Land Administration) Act 1997, Part 47 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
+Acts Amendment (Land Administration) Act 1997, Pt. 47 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 93 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Land Information Authority Act 2006 s. 119 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Land Information Authority Act 2006 s. 119 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 To be read as a reference to the Minister for Public Sector Management in accordance with section 112(2) of the Acts Amendment (Public Sector Management) Act 1994.
 Repealed by No. 42 of 1996.
 Section 3(2) and (3) of Act No. 33 of 1983 read as follows —
@@ -56,19 +56,4 @@ s. 18(3) | Delete “magistrate” and insert instead — “ Court ”. Delete 
 s. 18(4) | Delete “magistrate” and insert instead — “ Court ”.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 119 had not come into operation. It reads as follows:
-“
-119.Certain references in other Acts to plans and diagrams amended
-(1) Other Acts are amended by deleting “Department within the meaning of the Transfer of Land Act 1893 Plan” in each place indicated in the Table to this section and inserting instead —
-“ Land Titles Office Plan ”.
-Table
-....................
-Painters’ Registration Act 1961 Schedule
-....................
-(2) Other Acts are amended by deleting “Department within the meaning of the Transfer of Land Act 1893 Diagram” in each place indicated in the Table to this section and inserting instead —
-“ Land Titles Office Diagram ”.
-Table
-....................
-Painters’ Registration Act 1961 Schedule
-....................
-”.
+Lands Titles Office plans and diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).

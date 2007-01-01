@@ -23,12 +23,12 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 5: The Dog Act 1976 as at 4 Aug 2006 (includes amendments listed above)
+Land Information Authority Act 2006 s. 132 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Land Information Authority Act 2006 s. 132 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
-Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
+Footnote no longer applicable.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 “
 19.Power to amend regulations
@@ -60,12 +60,3 @@ s. 33I(2)(b) | Delete “that Local Court” and insert instead — “ the Magi
 s. 36(3) | Delete “nearest Local Court and the dog shall be detained until that Local Court” and insert instead — “ Magistrates Court at the place in or nearest to the local government district and the dog shall be detained until that court ”.
 ”.
 The amendments sought to be made in the Courts Legislation Amendment and Repeal Act 2004 s. 142 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 38.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 132 had not come into operation. It reads as follows:
-“
-132.Dog Act 1976 amended
-(1) The amendments in this section are to the Dog Act 1976.
-(2) Section 3(1) is amended in the definition of “townsite” by deleting “the Department within the meaning of the Transfer of Land Act 1893 or the Department within the meaning of the Land Act 1933;” and inserting instead —
-“
-the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5 or with the department principally assisting in the administration of the Land Administration Act 1997;
-”.
-”.

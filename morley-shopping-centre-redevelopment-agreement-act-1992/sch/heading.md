@@ -42,7 +42,7 @@ as to which the Joint Venturers are for the time being registered as the proprie
 “MSC” means Morley Shopping Centre Pty. Limited, its successors and permitted assigns;
 “parties” means the State and the Joint Venturers, and
 “party” is a reference to any of them;
-“Plan” means Department of Land Administration Miscellaneous Diagram 347 a copy of which is Schedule 1 to this Agreement;
+“Plan” means Department of Land 4 Administration Miscellaneous Diagram 347 a copy of which is Schedule 1 to this Agreement;
 “Project Commencement Date” means the commencement date notified to the Minister pursuant to clause 4(1);
 “Project Completion” means completion of the Redevelopment in accordance with this Agreement to the state where the whole of the Morley Shopping Centre, as so redeveloped, is capable of occupation for its intended purpose;
 “ratifying Act” means the Bill referred to in clause 3 when that Bill is passed and comes into operation as an Act as contemplated by that clause;
@@ -316,7 +316,7 @@ In this lease unless the contrary intention appears —
 “Institute of Valuers” means the Australian Institute of Valuers and Land Economists (Inc) (Western Australian Division);
 “Land Act” means the Land Act 1933;
 “leased premises” means the natural surface and the land below the natural surface to depth of 30 metres of the land described in the First Schedule together with all structures buildings improvements and appurtenances now or hereafter thereon other than works of a public nature;
-“Lessee” means The Colonial Mutual Life Assurance Society Limited (ACN 004 405 556) of 330 Collins Street Melbourne, Victoria (“CML”) and Morley Shopping Centre Pty Limited (ACN 002 154 458) of 800 Toorak Road, Tooronga, Melbourne Victoria (“MSC”) as tenants in common as to one undivided half share each and the successors and permitted assigns of MSC and CML pursuant to clause 2(r) to the intent that all covenants and obligations imposed upon and powers given by MSC and CML shall be binding upon and enforceable against MSC and CML and the successors and permitted assigns of the rights of MSC and CML under this lease;
+“Lessee” means The Colonial Mutual Life Assurance Society Limited (ACN 004 405 556) of 330 Collins Street Melbourne, Victoria (“CML”) and Morley Shopping Centre Pty Limited (CAN 002 154 458) of 800 Toorak Road, Tooronga, Melbourne Victoria (“MSC”) as tenants in common as to one undivided half share each and the successors and permitted assigns of MSC and CML pursuant to clause 2(r) to the intent that all covenants and obligations imposed upon and powers given by MSC and CML shall be binding upon and enforceable against MSC and CML and the successors and permitted assigns of the rights of MSC and CML under this lease;
 “Lessor” means Her Majesty Queen Elizabeth the Second Her heirs and successors in right of the State;
 “Local” or “Public Authority” means any municipality Health Board, Health Commissioner, Town Planning Board, Water Supply Sewerage and Drainage Board and every and any other board department commission person or authority whatsoever now or hereafter exercising or entitled to exercise under any present or future Act (Federal or State) any control or jurisdiction over or power in connection with the leased premises or any part thereof or the owner or occupier thereof and every officer or person acting under the authority of the local or public authority or under the authority of any Act or By-Law made thereunder;
 “Market Value” means, in relation to the leased premises or the Option Premises, the market value of the leased premises or the Option Premises as the case may be determined having regard to the following:
@@ -584,7 +584,7 @@ Portion of Swan Location Q1 and being Lot 3 on Diagram 24053 being the whole of 
 “Plan” means the plan annexed and marked Annexure “A”.
 “PS Works” means all works necessary for the construction of a Paved Surface.
 “State” means the State of Western Australia.
-“Titles Office” means the Office of Titles, Perth.
+“Titles Office” means the Office of Titles 5, Perth.
 “Water Authority Land” means:
 (a)portion of Swan Location T and being part of the land on Diagram 27251 and being the whole of the land comprised in Certificate of Title Volume 280 Folio 77A; and
 (b)portion of Swan Location T and being part of Lot 1152 on Plan 3401 and being the whole of the land comprised in Certificate of Title Volume 1255 Folio 789.
@@ -744,7 +744,7 @@ for the WAWA Relocation Work;
 “SPC Date” means the date on which the last of the following occurs:
 (a)the determination of the Market Value of the Russell Street Land in accordance with clause 11; and
 (b)the Completion of the WAWA Relocation Work in accordance with clause 13;
-“Specified Amount” means the amount specified in clause 5;
+Specified Amount means the amount specified in clause 5;
 “WAWA Facilities” means the water, sewage and drainage facilities established on the Water Authority Land and includes the Drainage Facilities, Sewage Pump Facilities and the Pipe Facilities;
 “WAWA Relocation Work” means the work necessary for;
 (a)the relocation of the Drainage Facilities from the Water Authority Land to the Russell Street Land;

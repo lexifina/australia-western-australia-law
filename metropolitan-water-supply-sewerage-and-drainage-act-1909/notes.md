@@ -64,12 +64,12 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Water Legislation Amendment (Competition Policy) Act 2005 s. 37-52 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
 Reprint 9: The Metropolitan Water Supply, Sewerage, and Drainage Act 1909 as at 17 Feb 2006 (includes amendments listed above except those in the Water Legislation Amendment (Competition Policy) Act 2005)
+Land Information Authority Act 2006 s. 145 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Land Information Authority Act 2006 s. 145 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
-Under the Public Sector Management Act 1994 the names of departments can be changed. At the time of this compilation the former Department of Lands is called the Department of Land Information and its administrative head is called the chief executive officer.
+Footnote no longer applicable.
 Repealed by the Metropolitan Water Supply, Sewerage, and Drainage Act Amendment Act 1963 s. 129.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 5 and 8.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
@@ -93,20 +93,5 @@ s. 57D(2) | Delete “Clerk of the Local Court to which the appeal is made” an
 s. 57D(3) | Delete “Local Court” and insert instead — “ Magistrates Court ”. Delete the comma after paragraph (c) and the rest of the subsection and insert instead a full stop.
 s. 57D(4) s. 57D(5) | In each provision, delete “Local Court” and insert instead — “ Magistrates Court ”.
 ”.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 145 had not come into operation. It reads as follows:
-“
-145.Metropolitan Water Supply, Sewerage, and Drainage Act 1909 amended
-(1) The amendments in this section are to the Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
-(2) Section 114 is amended by deleting “Department within the meaning of the Transfer of Land Act 1893 or the Registry of Deeds” and inserting instead —
-“
-records of the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5
-”.
-(3) Section 165(2) is amended as follows:
-(a) in subparagraph (a), by deleting “or deputy”;
-(b) in subparagraph (b), by deleting “or his deputy,”;
-(c) by deleting subparagraph (c) and inserting instead —
-“
-(c) the chief executive officer of the department principally assisting in the administration of the Land Administration Act 1997 that any person is registered in the department as the owner, occupier, or lessee of any land,
-”.
-”.
+Footnote no longer applicable.
 The amendment to s. 57D by the Courts Legislation Amendment and Repeal Act 2004 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 273.

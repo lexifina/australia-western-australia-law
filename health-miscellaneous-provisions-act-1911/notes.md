@@ -116,13 +116,14 @@ Reprint 13: The Health Act 1911 as at 15 Jul 2005 (includes amendments listed ab
 Tobacco Products Control Act 2006 s. 126 | 5 of 2006 | 12 Apr 2006 | 31 Jul 2006 (see s. 2 and Gazette 25 Jul 2006 p. 2701)
 Health Amendment Act 2006 | 23 of 2006 | 9 Jun 2006 | 7 Jul 2006 (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Land Information Authority Act 2006 s. 135 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
-Land Information Authority Act 2006 s. 135 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988.
 The Health Act Amendment Act 1900 is repealed by section 4 of this Act.
 Section 53B was repealed by the Health Act Amendment Act 1933 (No. 2) s. 6.
@@ -561,17 +562,23 @@ the commission of that offence by the employee.
 When a body corporate is convicted of an offence under this Part or the regulations, every director and every officer concerned in the management of the body corporate commits the same offence if he knowingly authorised or permitted the commission of that offence.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 135 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 17, which gives effect to Sch. 1, had not come into operation. It reads as follows:
 “
-135.Health Act 1911 amended
-(1) The amendments in this section are to the Health Act 1911.
-(2) Section 372 is amended by deleting “department within the meaning of the Transfer of Land Act 1893 or Registry of Deeds, as the case may require” and inserting instead —
-“
-records of the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5
+17.Various Acts amended
+Schedule 1 sets out amendments to various Acts.
 ”.
-(3) Section 375 is amended by deleting “Department within the meaning of the Transfer of Land Act 1893 and Registry of Deeds, or any office of the Department of Lands and Surveys, or of the Department of Mines” and inserting instead —
+Schedule 1 cl. 80 reads as follows:
 “
-records of the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5, of the department principally assisting in the administration of the Land Administration Act 1997, or of the department principally assisting in the administration of the Mining Act 1978
+Schedule 1 — Amendments to various Acts
+[s. 17]
+80.Health Act 1911
+(1) Section 246F(4)(a) and “or” after it are deleted and the following is inserted instead —
+“
+(a) in the case of fees paid to or recovered by the Executive Director, Public Health, to an account called the State Meat Inspection Account established as an agency special purpose account under section 16 of the Financial Management Act 2006; or
+”.
+(2) Section 247E is amended by deleting “Financial Administration and Audit Act 1985” and inserting instead —
+“
+Financial Management Act 2006 and the Auditor General Act 2006
 ”.
 ”.
 On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:

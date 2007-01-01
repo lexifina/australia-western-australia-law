@@ -29,15 +29,16 @@ Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 200
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 26 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 3: The Control of Vehicles (Off-road Areas) Act 1978 as at 17 Feb 2006 (includes amendments listed above except those in the Control of Vehicles (Off-road Areas) Act 1978 s. 11 and the Road Traffic Amendment (Vehicle Licensing) Act 2001)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+Reprint 3: The Control of Vehicles (Off-road Areas) Act 1978 as at 17 Feb 2006 (includes amendments listed above except those in the Control of Vehicles (Off-road Areas) Act 1978 s. 11 and the Road Traffic Amendment (Vehicle Licensing) Act 2001)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Land Information Authority Act 2006 s. 128 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Control of Vehicles (Off-road Areas) Act 1978 s. 11 | 117 of 1978 (as amended by No. 7 of 2002 s. 7) | 12 Dec 1978 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Land Information Authority Act 2006 s. 128 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 On the date as at which this compilation was prepared, the Control of Vehicles (Off-road Areas) Act 1978 s. 11 (as amended by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 7) had not come into operation. It reads as follows:
 “
 11.Responsibility of owners
@@ -52,21 +53,26 @@ shall in all proceedings in respect of damage, injury or death arising from the 
 a person has been nominated and is deemed, for the purposes of that Act or for the purposes of this Act other than this section, to be the owner of the vehicle to which the nomination relates that nomination shall not take or have effect to limit the liability of any other person who would but for such nomination be or be deemed to be an owner of the vehicle.
 [Section 11 amended by No. 7 of 2002 s. 7.]
 ”.
-Under the Public Sector Management Act 1994 the names of departments can be changed. At the time of this compilation the former Lands and Surveys Department is called the Department of Land Administration.
+Footnote no longer applicable.
 Abolished by the Environmental Protection Act 1986 Sch. 3 cl. 5.
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Conservator of Forests is read as a reference to the Executive Director of the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Local Government Department is now called the Department of Local Government and Regional Development.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Public Health Department is now called the Department of Health.
 Under the Health Legislation Amendment Act 1984 the former Commissioner of Public Health is now called the Commissioner of Health.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 128 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 17, which gives effect to Sch. 1, had not come into operation. It reads as follows:
 “
-128.Control of Vehicles (Off-road Areas) Act 1978 amended
-(1) The amendments in this section are to the Control of Vehicles (Off-road Areas) Act 1978.
-(2) Section 19(1)(a)(i) is amended by deleting “Lands and Surveys Department” and inserting instead —
-“
-Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5
+17.Various Acts amended
+Schedule 1 sets out amendments to various Acts.
 ”.
+Schedule 1 cl. 34 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 17]
+34.Control of Vehicles (Off-road Areas) Act 1978
+Section 43(3) is amended by deleting “a trust account under the Financial Administration and Audit Act 1985 section 15B” and inserting instead —
+“
+an agency special purpose account under the Financial Management Act 2006 section 16
 ”.
 Footnote no longer required.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 11(2) and (3) read as follows:

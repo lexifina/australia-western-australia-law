@@ -63,11 +63,12 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 7: The Transfer of Land Act 1893 as at 6 May 2005 (includes amendments listed above)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+Land Information Authority Act 2006 s. 103-118 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 | 25 Mar 2003 | To be proclaimed (see s. 2)
-Land Information Authority Act 2006 s. 103-118 and 164 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997 (No. 30 of 1997).
 The Transfer of Land Amendment Act 1996 s. 6(2) reads as follows:
 “
@@ -237,7 +238,7 @@ After section 166B the following section is inserted —
 and the proprietors of the freehold in the land (the “proprietors”) wish to subdivide the land between themselves only, they may apply to the Registrar under this section, instead of applying under section 166, for the creation and registration of new certificates of title for the land.
 (2) An application under this section shall be in an approved form and —
 (a) shall be made in relation to a plan or diagram of the proposed subdivision that —
-(i) is lodged or deposited with the Department;
+(i) is lodged or deposited with the Authority;
 (ii) is prepared in accordance with any relevant regulations made under this Act or the Licensed Surveyors Act 1909;
 (iii) contains, or is accompanied by a document that contains, such information, certificates and consents as are prescribed in the regulations; and
 (iv) is signed by or on behalf of the inspector of plans and surveys referred to in section 163 as being in order for dealings with or without conditions;
@@ -262,164 +263,19 @@ and the proprietors of the freehold in the land (the “proprietors”) wish to 
 (7) On registration of the certificates of title for the land that is the subject of an application under this section —
 (a) every lot that is enlarged or diminished under the plan or diagram referred to in subsection (2)(a) is, by operation of law, subject to each encumbrance, caveat, notification or memorial allocated to it in the disposition statement to the extent provided in the disposition statement; and
 (b) every such encumbrance, caveat, notification and memorial is deemed to be amended accordingly.
+[Section 56 amended by No. 60 of 2006 s. 164.]
 ”.
 57.Section 167 amended
 Section 167 is amended by deleting “or 166A” and inserting instead —
 “ , 166A or 166C ”.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 103-118 and 164 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 4 had not come into operation. It reads as follows:
 “
-103.Section 4 amended
-Section 4(1) is amended as follows:
-(a) by deleting the definitions of “Department”, “Examiner of Titles”, and “Minister”;
-(b) by inserting in their appropriate alphabetical positions —
-“
-“Authority” means the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5;
-“Examiner of Titles” means a person who is an Examiner of Titles under section 8(1);
-”.
-104.Section 5 replaced
-(1) Section 5 is repealed and the following section is inserted instead —
-“
-5.Commissioner of Titles
-(1) The Governor may designate a person to be the Commissioner of Titles under this Act.
-(2) A person cannot be the Commissioner of Titles unless —
-(a) the person is a member of the Authority’s staff; and
-(b) the person is a legal practitioner (as defined in the Legal Practice Act 2003), or a barrister or solicitor of the Supreme Court of another State or a Territory, of not less than 7 years’ standing and practice.
-(3) When the Land Information Authority Act 2006 section 104(1) comes into operation the person who, immediately before then, is the Commissioner of Titles becomes the Commissioner of Titles as if designated under subsection (1) for the balance of the person’s term of office.
-”.
-105.Section 6 amended
-(1) Section 6(1), (1a), (2), and (3) are repealed and the following subsections are inserted instead —
-“
-(1) The Governor may designate a person, or each of 2 or more persons, to be a Deputy Commissioner of Titles under this Act.
-(2) A person cannot be a Deputy Commissioner of Titles unless —
-(a) the person is a member of the Authority’s staff; and
-(b) the person is a legal practitioner (as defined in the Legal Practice Act 2003), or a barrister or solicitor of the Supreme Court of another State or a Territory, of not less than 5 years’ standing.
-(2a) When the Land Information Authority Act 2006 section 105(1) comes into operation a person who, immediately before then, is a Deputy Commissioner of Titles becomes a Deputy Commissioner of Titles as if designated under subsection (1) for the balance of the person’s term of office.
-(3) When and as often as the Commissioner is incapacitated by illness, absence or other sufficient cause from performing the duties of the Commissioner, a Deputy Commissioner nominated in writing by the Commissioner is to act as, and in the place of, the Commissioner during the Commissioner’s incapacity.
-(3a) When there is no Commissioner, a Deputy Commissioner nominated in writing by the former Commissioner before ceasing to be the Commissioner is to act as, and in the place of, the Commissioner.
-(3b) If, in a circumstance described in subsection (3) or (3a), there is no Deputy Commissioner who has been nominated as described in that subsection and is able to act, a Deputy Commissioner nominated in writing by the Minister, is to act as, and in the place of, the Commissioner.
-”.
-(2) Section 6(4) is amended by deleting “subsection (5)” and inserting instead —
-“ section 15 ”.
-(3) Section 6(5) and (6) are repealed.
-106.Section 7 replaced
-Section 7 is repealed and the following section is inserted instead —
-“
-7.Registrar of Titles
-(1) The Governor may designate a person to be the Registrar of Titles under this Act.
-(2) A person cannot be the Registrar of Titles unless the person is a member of the Authority’s staff.
-(3) When the Land Information Authority Act 2006 section 106 comes into operation the person who, immediately before then, is the Registrar of Titles becomes the Registrar of Titles as if designated under subsection (1).
-”.
-107.Section 7A amended
-(1) Section 7A(1) is repealed and the following subsection is inserted instead —
-“
-(1) A person qualified to be the Commissioner of Titles may be, and may perform the functions of, both the Commissioner of Titles and the Registrar of Titles.
-”.
-(2) Section 7A(2) is amended by deleting “appointed to both offices under this section” and inserting instead —
-“
-who is both the Registrar of Titles and the Commissioner of Titles
-”.
-108.Section 8 replaced
-Section 8 is repealed and the following section is inserted instead —
-“
-8.Other designations
-(1) The Governor may designate a person, or each of 2 or more persons, to be an Examiner of Titles under this Act.
-(2) The Governor may designate a person, or each of 2 or more persons, to be an Assistant Registrar of Titles under this Act.
-(3) A person cannot be an Examiner of Titles or an Assistant Registrar of Titles unless the person is a member of the Authority’s staff.
-(4) A person cannot be an Examiner of Titles unless the person is a legal practitioner (as defined in the Legal Practice Act 2003), or a barrister or solicitor of the Supreme Court of another State or a Territory.
-(5) When the Land Information Authority Act 2006 section 108 comes into operation a person who, immediately before then, is an Assistant Registrar of Titles becomes an Assistant Registrar of Titles as if designated under subsection (2).
-”.
-109.Section 8A inserted
-After section 8 the following section is inserted —
-“
-8A.Designating statutory officers, generally
-(1) This section applies to —
-(a) the designation of a person under section 5 to be the Commissioner of Titles; and
-(b) the designation of a person under section 6 to be a Deputy Commissioner of Titles; and
-(c) the designation of a person under section 7 to be the Registrar of Titles; and
-(d) the designation of a person under section 8(1) to be an Examiner of Titles; and
-(e) the designation of a person under section 8(2) to be an Assistant Registrar of Titles.
-(2) The power to designate a person includes —
-(a) the power to revoke a designation previously made under that power; and
-(b) the power to designate a person to perform functions of another person who has that designation when it is impractical for that other person to perform the functions.
-”.
-110.Section 11 amended
-Section 11 is amended by inserting before the full stop at the end of the section —
-“
-, except that an Assistant Registrar cannot exercise the power of delegation given to the Registrar by section 15A
-”.
-111.Section 13 amended
-Section 13 is amended as follows:
-(a) by deleting “to be hereafter appointed”;
-(b) by deleting “of the duties of his office” and inserting instead —
-“ duties as the Registrar or an Assistant Registrar ”;
-(c) by deleting “office and”.
-112.Sections 15 and 15A inserted
-After section 14 the following sections are inserted —
-“
-15.Delegation by Commissioner
-(1) The Commissioner may delegate any power or duty of the Commissioner under another provision of this Act to —
-(a) a Deputy Commissioner;
-(b) an Examiner of Titles;
-(c) any other member of the Authority’s staff who is a legal practitioner (as defined in the Legal Practice Act 2003) or a barrister or solicitor of the Supreme Court of another State or a Territory.
-(2) The delegation must be in writing signed by the Commissioner.
-(3) A person to whom a power or duty is delegated under this section cannot delegate that power or duty.
-(4) A person exercising or performing a power or duty that has been delegated to the person under this section is to be taken to do so in accordance with the terms of the delegation unless the contrary is shown.
-(5) Nothing in this section limits the ability of the Commissioner to perform a function through an officer or agent.
-(6) A delegation to a Deputy Commissioner that the Commissioner made before the repeal effected by the Land Information Authority Act 2006 section 105(3) becomes, when section 112 of that Act inserts this section, of the same effect as if the Commissioner had made the delegation under this section.
-15A.Delegation by Registrar
-(1) The Registrar may delegate any power or duty of the Registrar under another provision of this Act to a member of the Authority’s staff.
-(2) The delegation must be in writing signed by the Registrar.
-(3) A person to whom a power or duty is delegated under this section cannot delegate that power or duty.
-(4) A person exercising or performing a power or duty that has been delegated to the person under this section is to be taken to do so in accordance with the terms of the delegation unless the contrary is shown.
-(5) Nothing in this section limits the ability of the Registrar to perform a function through an officer or agent.
-”.
-113.Section 181 amended
-(1) Section 181(1) is amended by deleting “The Commissioner may, with the approval of the Governor make regulations” and inserting instead —
-“ The Governor may make regulations ”;
-(2) After section 181(1) the following subsection is inserted —
-“
-(1a) On the coming into operation of the Land Information Authority Act 2006 section 113(1) (the “commencement”), regulations made by the Commissioner under subsection (1) before the commencement become of the same effect as if they were made by the Governor under subsection (1) as amended by the Land Information Authority Act 2006 section 113(1).
-”.
-(3) After section 181(2) the following subsection is inserted —
-“
-(2a) Subsection (1a) does not prevent the Governor from amending regulations to which that subsection applies.
-”.
-114.Section 188 amended
-Section 188(iv) is amended by deleting “or registered in the Department” and inserting instead —
-“ the Authority or registered in its office ”.
-115.Section 190 replaced
-Section 190 is repealed and the following section is inserted instead —
-“
-190.Money received by Registrar
-The Registrar is to pay to the Authority any money paid to the Registrar under this Act.
-”.
-116.Section 239 amended
-Section 239(1) is amended as follows:
-(a) by deleting the full stop at the end of paragraph (j) and inserting instead a semicolon;
-(b) by inserting after paragraph (j) the following paragraph —
-“
-(k) any other document or information that is derived from records and dealings in relation to land under the operation of this Act and is prescribed for the purposes of this subsection by the regulations.
-”.
-117.Section 239A repealed
-Section 239A is repealed.
-118.Various references to department amended
-(1) The Act is amended by deleting “Department” in each place listed in the Table to this section and inserting instead —
-“ Authority ”.
+4.References to “Consolidated Fund” changed to “Consolidated Account”
+The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Consolidated Fund” (whether in ordinary type, italics, bold or capitals) in each place where it occurs and inserting instead (in corresponding type) —
+“ Consolidated Account ”.
 Table
-s. 63A(2)(b) | s. 178(4)
-s. 78 | s. 181(1)(b), (ba), and (bb)
-s. 105A(2)(a) | s. 189
-s 149 | s. 240(3)(b)
-s. 150 | Third Schedule
-(2) The Act is amended by deleting “Department’s” in each place listed in the Table to this section and inserting instead —
-“ Authority’s ”.
-Table
-s. 23 | s. 172(3)
-s. 162 | s. 175
-164.Transfer of Land Amendment Act 2003 amended
-(1) The amendments in this section are to the Transfer of Land Amendment Act 2003.
-(2) Section 56 is amended in the proposed section 166C(2)(a)(i) by deleting “Department” and inserting instead —
-“ Authority ”.
+................
+Transfer of Land Act 1893 | s. 126(1)(b)s. 165s. 181(1)(c) s. 190 s. 201 s. 204 s. 208 s. 210
+.................
 ”.

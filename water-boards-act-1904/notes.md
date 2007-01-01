@@ -51,10 +51,11 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 5: The Water Boards Act 1904 as at 12 Aug 2005 (includes amendments listed above)
+Land Information Authority Act 2006 s. 165 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Land Information Authority Act 2006 s. 165 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 Now see Department within the meaning of the Transfer of Land Act 1893.
 Under the Public Sector Management Act 1994 the names of departments can be changed. At the time of this compilation the former Department of Lands is called the Department of Land Information and its administrative head is called the chief executive officer.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources and its administrative head is called the Director General.
@@ -80,19 +81,20 @@ The State Administrative Tribunal Regulations 2004 r. 66 reads as follows:
 (3) If a Water Board receives, before the commencement day, a notice in accordance with the WB Act section 88(1) (as in force when the notice was received by the Water Board) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Water Board must refer the relevant entry in the rating records to the State Administrative Tribunal for a review as if the notice were a notice served on the Water Board under the WB Act section 88(1).
 (4) If a Water Board receives, before the commencement day, a notice in accordance with the WB Act section 89(1) (as in force when the notice was received by the Water Board) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Water Board must refer the decision to refuse to extend time to the State Administrative Tribunal for a review as if the notice were a notice served on the Water Board under the WB Act section 89(1).
 ”.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 165 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 17, which gives effect to Sch. 1, had not come into operation. It reads as follows:
 “
-165.Water Boards Act 1904 amended
-(1) The amendments in this section are to the Water Boards Act 1904.
-(2) Section 158 is amended by deleting “Land Titles and Registry of Deeds, or any office of the Department of Lands or of Mines” and inserting instead —
-“
-the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5, of the department principally assisting with the administration of the Land Administration Act 1997, or of the department principally assisting with the administration of the Mining Act 1978
+17.Various Acts amended
+Schedule 1 sets out amendments to various Acts.
 ”.
-(3) Section 160(2) is amended as follows:
-(a) in subparagraph (a), by deleting “or his deputy,”;
-(b) in subparagraph (b), by deleting “or deputy”;
-(c) by deleting subparagraph (c) and inserting instead —
+Schedule 1 cl. 176 reads as follows:
 “
-(c) the chief executive officer of the department principally assisting in the administration of the Land Administration Act 1997 or of the department principally assisting in the administration of the Mining Act 1978, that any person is registered in the department as the occupier or lessee of any land,
+Schedule 1 — Amendments to various Acts
+[s. 17]
+176.Water Boards Act 1904
+(1) Section 130 is amended by deleting “Financial Administration and Audit Act 1985” and inserting instead —
+“
+Financial Management Act 2006 and the Auditor General Act 2006
 ”.
+(2) Section 131(1) is amended by deleting “Financial Administration and Audit Act 1985” and inserting instead —
+“ Financial Management Act 2006 ”.
 ”.
