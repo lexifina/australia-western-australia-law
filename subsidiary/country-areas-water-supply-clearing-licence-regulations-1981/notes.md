@@ -9,3 +9,4 @@ Water Agencies (Amendment and Repeal) Regulations 1995 Pt. 2 | 29 Dec 1995 p. 62
 Reprint 1: The Country Areas Water Supply (Clearing Licence) Regulations 1981 as at 23 May 2003 (includes amendments listed above)
 Country Areas Water Supply (Clearing Licence) Amendment Regulations 2004 | 30 Jun 2004 p. 2583-4 | 8 Jul 2004 (see r. 2 and Gazette 30 Jun 2004 p. 2581)
 Country Areas Water Supply (Clearing Licence) Amendment Regulations (No. 2) 2004 | 30 Dec 2004 p. 6999 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
+Country Areas Water Supply (Clearing Licence) Amendment Regulations 2006 | 22 Dec 2006 p. 5802 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
