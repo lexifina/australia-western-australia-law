@@ -30,6 +30,7 @@ Strata Titles General Amendment Regulations (No. 2) 2006 | 21 Mar 2006 p. 1083-4
 Reprint 4: The Strata Titles General Regulations 1996 as at 21 Apr 2006 (includes amendments listed above)
 Strata Titles General Amendment Regulations (No. 3) 2006 | 7 Jul 2006 p. 2512-13 | 10 Jul 2006 (see. r. 2)
 Strata Titles General Amendment Regulations (No. 4) 2006 | 1 Sep 2006 p. 3595-6 | 4 Sep 2006 (see r. 2)
+Strata Titles General Amendment Regulations (No. 5) 2006 | 29 Dec 2006 p. 5913-14 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
 Repealed by the Strata Titles Act 1985.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
