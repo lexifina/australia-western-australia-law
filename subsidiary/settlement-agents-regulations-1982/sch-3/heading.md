@@ -6,7 +6,7 @@
 2.“Contract for Sale of Strata Title Property by Offer and Acceptance” incorporating the “1994 Joint Form of General Conditions for the Sale of Land”, as adopted jointly by the Law Society of Western Australia (Inc) and the Real Estate Institute of Western Australia (Inc) and approved by the Settlement Agents Association (Inc) and the Associated Settlement Agents of Western Australia (Inc).
 [Part A inserted in Gazette 23 May 1997 p. 2421.]
 ## Part B — Requisitions on title
-1.Is the certificate or certificates of title to the land the subject of any dealing or dealings at the Land Titles Office? If so, please provide true copies of all documents lodged at the Land Titles Office relating to such dealing or dealings.
+1.Is the certificate or certificates of title to the land the subject of any dealing or dealings under the Transfer of Land Act 1893? If so, please provide true copies of all documents lodged under the Transfer of Land Act 1893 relating to such dealing or dealings.
 2.Is the vendor aware of any circumstances which could give rise to a claim to an interest in the land, or any parts of it, by virtue of adverse possession? If so, please provide details.
 3.Is the vendor, after due enquiry, aware of any pending or threatened suit relating to the title of the land or any claim to its use generally or for any particular purpose adverse to the title of the vendor? If so, please provide details.
 4.Is the vendor aware of any circumstances, including enjoyment or use, which would give rise to claims to rights of way, liens, restrictive covenants, grants of licence or of other rights or easements, public or private, or trusts, affecting the land, not referred to in the certificate or certificates of title to the land? If so, please provide details.
@@ -24,8 +24,8 @@
 (j)Strata Titles Act 1985?
 6.Is anybody in occupation of the land under any or any alleged lease or licence? If so, please provide precise details of the terms of any such lease or licence or alleged lease or licence and provide copies of any agreements in respect thereof.
 7. Are there any claims by any third parties to a mining lease or licence under the Mining Act 1978? If so, please provide precise details of the terms of any claim.
-8. The vendor is to list all Land Titles Office applications, transfers, instruments, statutory declarations, discharges of mortgages, withdrawals of caveats or other documents to be tendered at settlement in order for the purchaser to become registered as the proprietor of the freehold of the land without any encumbrances on the title to it.
-[Part B inserted in Gazette 23 May 1997 p. 2421-2; amended in Gazette 15 Jun 2004 p. 2026.]
+8. The vendor is to list all applications, transfers, instruments, statutory declarations, discharges of mortgages, withdrawals of caveats or other documents to be tendered at settlement in order for the purchaser to become registered as the proprietor of the freehold of the land without any encumbrances on the title to it.
+[Part B inserted in Gazette 23 May 1997 p. 2421-2; amended in Gazette 15 Jun 2004 p. 2026; 22 Dec 2006 p. 5808.]
 ## Part C — Documents for registration or lodgement
 1.Under or for the purposes of the Strata Titles Act 1985 the following documents, subject to the condition that a licensee shall not draft a resolution of a strata company under or for the purposes of that Act:
 (a)these documents for the purposes of these provisions of that Act:
