@@ -11,5 +11,6 @@ State Enterprises (Commonwealth Tax Equivalents) (Application) Amendment Regulat
 State Enterprises (Commonwealth Tax Equivalents) (Application) Amendment Regulations 2003 | 6 May 2003 p. 1572-3 | 6 May 2003
 Reprint 1: The State Enterprises (Commonwealth Tax Equivalents) (Application) Regulations 1997 as at 6 Jun 2003 (includes amendments listed above)
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 86 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
+State Enterprises (Commonwealth Tax Equivalents) (Application) Amendment Regulations 2006 | 22 Dec 2006 p. 5808-9 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
 Came into operation on 1 Jan 2000.
 Formerly referred to the State Government Insurance Commission Act 1986 the short title of which was changed to the Insurance Commission of Western Australia Act 1986 by the Acts Amendment (ICWA) Act 1996 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
