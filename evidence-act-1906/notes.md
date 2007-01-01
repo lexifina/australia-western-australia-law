@@ -92,7 +92,7 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 s. 35 and 37 | 28 of
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Land Information Authority Act 2006 s. 133 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 “
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
@@ -179,12 +179,14 @@ Part 4 — Transitional and validation
 ”.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to amend s. 56(1) is not included because the subsection it sought to amend was replaced by s. 82 (Sch. 2 it. 118) of this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 36 to amend s. 106A is not included because the paragraph it sought to amend has been amended by the Children and Community Services Act 2004 Sch. 2 cl. 9.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 133 had not come into operation. It reads as follows:
+The Land Information Authority Act 2006 s. 133 to amend the Fifth Schedule is not included because the entry it sought to amend has been amended by the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 37.
+On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 4 had not come into operation. It reads as follows:
 “
-133.Evidence Act 1906 amended
-(1) The amendments in this section are to the Evidence Act 1906.
-(2) The Fifth Schedule is amended by deleting in each column the entry for the item that refers to “The Lands and Surveys Department” and inserting instead —
-“
-The department principally assisting in the administration of the Land Administration Act 1997 | The Minister responsible for the administration of that Act, the chief executive officer of that department, or the Surveyor General
-”.
+4.References to “Consolidated Fund” changed to “Consolidated Account”
+The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Consolidated Fund” (whether in ordinary type, italics, bold or capitals) in each place where it occurs and inserting instead (in corresponding type) —
+“ Consolidated Account ”.
+Table
+................
+Evidence Act 1906 | s. 119(4)
+.................
 ”.
