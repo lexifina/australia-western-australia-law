@@ -46,13 +46,10 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 7: The Bush Fires Act 1954 as at 3 Mar 2006 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 14 Div 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Land Information Authority Act 2006 s. 126 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Land Information Authority Act 2006 s. 126 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Provisions of the Bush Fires Act 1954 referred to in s. 64 are not the same references as originally enacted. Under the Interpretation Act 1984 s. 16(2), as a result of amendments to the Bush Fires Act 1954 by the Bush Fires Act Amendment Act 1977 (No. 65 of 1977), those references may be construed as if amended. The references were changed under the Reprints Act 1984 s. 7(3)(g).
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the date this compilation was prepared the former Department of Land Administration was called the Department of Land Information and its chief executive officer was called the Chief Executive.
+Footnote no longer applicable.
 At the time this compilation was prepared this office was known as the Director General of Mines.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is, unless the contrary is intended, to be read and construed as a reference to the Department of Industry and Resources.
 The Third Schedule was inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
@@ -74,22 +71,4 @@ The Fire and Emergency Services Legislation Amendment Act 2002 s. 27(2) and (3) 
 `(b)the Bush Fires (Section 25B) Notice 2000 — Shire of Williams issued by the Minister under section 25B of the Bush Fires Act 1954 and published in the Gazette on 18 August 2000; or
 (c)the Bush Fires (Section 25B) Notice 2000 — Shire of Pingelly issued by the Minister under section 25B of the Bush Fires Act 1954 and published in the Gazette on 18 August 2000;
 “specified”, in relation to a rubbish tip notice, means specified in the notice.
-”.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 126 had not come into operation. They read as follows:
-“
-126.Bush Fires Act 1954 amended
-(1) The amendments in this section are to the Bush Fires Act 1954.
-(2) Section 66(1) is amended as follows:
-(a) by deleting paragraph (b)(iii) and inserting instead —
-“
-(iii) a certificate signed by the chief executive officer of the department principally assisting in the administration of the Land Administration Act 1997 that a person is registered in that department as the owner, lessee, or occupier of land; or
-(iv) a certificate signed by the chief executive officer of the department principally assisting in the administration of the Mining Act 1978 that a person is registered in that department as the lessee or occupier of land or the holder of a concession or permit; or
-(v) a certificate signed by the chief executive officer of the department principally assisting in the administration of the Conservation and Land Management Act 1984 that a person is registered in that department as the lessee or occupier of land or the holder of a timber lease, concession or permit,
-”;
-(b) in paragraph (b), by inserting after subparagraph (i) —
-“ or ”;
-(c) by deleting “the owner, lessee or occupier, as the case may be, of the land.” and inserting instead —
-“
-, as the case requires, the owner, lessee, or occupier of the land or the holder of the timber lease, concession or permit.
-”.
 ”.

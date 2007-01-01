@@ -85,6 +85,5 @@ whether or not the use or assistance of some electronic, electrical, mechanical,
 (c)a person of a prescribed class who is subject to statutory obligations relating to the assessment or payment of tax;
 “tax payment arrangement” means an arrangement approved under section 47;
 “tax record” means a record required to be kept under a taxation Act or under a special tax return arrangement;
-“Valuer-General” means the Valuer-General appointed under section 6 of the Valuation of Land Act 1978;
 “vehicle” includes a train, vessel or aircraft.
-[Glossary amended by No. 66 of 2003 s. 95(5) and 108(3); No. 12 of 2004 s. 12; No. 55 of 2004 s. 1183.]
+[Glossary amended by No. 66 of 2003 s. 95(5) and 108(3); No. 12 of 2004 s. 12; No. 55 of 2004 s. 1183; No. 60 of 2006 s. 184.]

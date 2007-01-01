@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Boundaries Act 1841 and includes the amendments made by the other written laws referred to in the following table. . The table also contains information about any reprint.
+This is a compilation of the Land Boundaries Act 1841 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Untitled | 4 & 5 Vict. No. 20 | 30 Sep 1841 | 30 Sep 1841
@@ -12,17 +12,9 @@ Sentencing (Consequential Provisions) Act 1995 s. 63 | 78 of 1995 | 16 Jan 1996 
 Acts Amendment (Land Administration) Act 1997 s. 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
 Reprint of the Land Boundaries Act 1841 as at 22 Nov 2002 (includes amendments listed above)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Land Information Authority Act 2006 s. 140 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Land Information Authority Act 2006 s. 140 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Now known as the Land Boundaries Act 1841; short title inserted (see note under s. 11).
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 140 had not come into operation. It reads as follows:
-“
-140.Land Boundaries Act 1841 amended
-(1) The amendments in this section are to the Land Boundaries Act 1841.
-(2) Section 5 is amended by deleting “the Department within the meaning of the Land Administration Act 1997” and inserting instead —
-“
-the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5
-”.
-”.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+authorised land officer10

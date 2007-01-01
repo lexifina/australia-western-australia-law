@@ -40,13 +40,10 @@ Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Water Legislation Amendment (Competition Policy) Act 2005 Pt. 3 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
 Reprint 6: The Country Towns Sewerage Act 1948 as at 21 Jul 2006 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Land Information Authority Act 2006 s. 131 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Land Information Authority Act 2006 s. 131 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
 Now known as the Water Agencies (Powers) Act 1984.
 Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time this compilation was prepared, the former Department of Land Administration was called the Department of Land Information.
+Footnote no longer applicable.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources.
 Marginal notes in the Country Towns Sewerage Act 1948 referring to other legislation have been omitted from this compilation.
 The amendments in the Sentencing (Consequential Provisions) Act 1995 Pt. 17 are not included because, before it came into operation, it was repealed by the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 24(2).
@@ -63,24 +60,4 @@ The State Administrative Tribunal Regulations 2004 r. 44 reads as follows:
 (2) If the Corporation receives, before the commencement day, a notice in accordance with the CTS Act section 62(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the relevant entry to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the CTS Act section 62(1).
 (3) If the Corporation receives, before the commencement day, a notice in accordance with the CTS Act section 63(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the decision to the State Administrative Tribunal under the CTS Act section 63(1).
 (4) If a notice has been given under the CTS Act section 61(6) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
-”.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 131 had not come into operation. It reads as follows:
-“
-131.Country Towns Sewerage Act 1948 amended
-(1) The amendments in this section are to the Country Towns Sewerage Act 1948.
-(2) Section 84(1)(b) and (c) are each amended by deleting “in the Office of the Registrar of Deeds” and inserting instead —
-“ registered under the Registration of Deeds Act 1856 ”.
-(3) Section 96 is amended as follows:
-(a) in subsection (3), by deleting “of the Office of the Registrar of Deeds” and inserting instead —
-“ under the Registration of Deeds Act 1856 ”;
-(b) in subsection (4), by deleting “in the Department within the meaning of the Transfer of Land Act 1893 or the Office of the Registrar of Deeds.” and inserting instead —
-“ as referred to in subsection (3). ”.
-(4) Section 118(1)(b) is amended as follows:
-(a) in subparagraph (i), by deleting “or deputy”;
-(b) in subparagraph (ii), by deleting “or his deputy,”;
-(c) by deleting subparagraphs (iii) and (iv) and “or” after each of them and inserting instead —
-“
-(iii) the chief executive officer of the department principally assisting in the administration of the Land Administration Act 1997 that any person is registered in that department as the owner, occupier or lessee of any land; or
-(iv) the chief executive officer of the department principally assisting in the administration of the Mining Act 1978 that any person is registered in that department as the lessee or holder of any mining lease or other mining tenement; or
-”.
 ”.

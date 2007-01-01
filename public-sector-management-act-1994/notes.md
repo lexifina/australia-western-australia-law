@@ -79,11 +79,12 @@ Financial Administration Legislation Amendment Act 2005 s. 43 | 5 of 2005 | 27 J
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 7: The Public Sector Management Act 1994 as at 25 Aug 2006 (includes amendments listed above)
+Land Information Authority Act 2006 s. 187 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Land Information Authority Act 2006 s. 187 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 6, 7 and 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 Now known as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The amendment in the Western Australian Greyhound Racing Association Amendment Act 1998 s. 20 is not included because of an error in the reference to the item to be amended. The same amendment was made by the Statutes (Repeals and Minor Amendments) Act 2000 s. 34(2) and then the provision amended was again amended by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 221(3).
@@ -93,12 +94,41 @@ On the date on which this reprint was prepared, the State Superannuation (Transi
 The Public Sector Management Act 1994 is amended as follows:
 (a) by repealing section 20(1);
 ”.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 187 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 4, 6, 7 and 17, which gives effect to Sch. 1, had not come into operation. They read as follows:
 “
-187.Public Sector Management Act 1994 Schedule 2 amended
-(1) The amendment in this section is to the Public Sector Management Act 1994.
-(2) Schedule 2 is amended by inserting after item 58 the following item —
-“
-59Western Australian Land Information Authority, established by the Land Information Authority Act 2006
+4.References to “Consolidated Fund” changed to “Consolidated Account”
+The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Consolidated Fund” (whether in ordinary type, italics, bold or capitals) in each place where it occurs and inserting instead (in corresponding type) —
+“ Consolidated Account ”.
+Table
+................
+Public Sector Management Act 1994 | s. 19(1a)
+.................
 ”.
+6.References to “accountable officer” changed to “accountable authority”
+The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “accountable officer” and inserting instead —
+“ accountable authority ”.
+Table
+Public Sector Management Act 1994 | s. 5(1), in paragraph (c)(i) of the definition of “employing authority”
+................................
+7.Public Sector Management Act 1994 amended
+(1) The amendments in this section are to the Public Sector Management Act 1994.
+(2) Section 5(2)(b) is deleted and the following paragraph is inserted instead —
+“
+(b) “accountable authority” has the meaning given by section 3 of the Financial Management Act 2006.
+”.
+“
+17.Various Acts amended
+Schedule 1 sets out amendments to various Acts.
+”.
+Schedule 1 cl. 137 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 17]
+137.Public Sector Management Act 1994
+(1) Section 31(1) is amended by deleting the passage from and including “submitted — ” to the end of paragraph (b) and inserting instead —
+“
+submitted by the accountable authority of the relevant department or organisation under Part 5 of the Financial Management Act 2006
+”.
+(2) Section 31(2) is amended by deleting “Financial Administration and Audit Act 1985” and inserting instead —
+“ Financial Management Act 2006 ”.
 ”.

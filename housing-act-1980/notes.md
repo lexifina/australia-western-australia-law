@@ -24,11 +24,12 @@ Acts Amendment (Equality of Status) Act 2003 Pt. 29 | 28 of 2003 | 22 May 2003 |
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 10 Div. 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 2: The Housing Act 1980 as at 18 Aug 2006 (includes amendments listed above)
+Land Information Authority Act 2006 s. 137 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 28 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Land Information Authority Act 2006 s. 137 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 Under the Public Sector Management Act 1994 s. 112(2), a reference to the Public Service Board is, unless the contrary intention appears appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Housing Amendment Act 1983 s. 4(2) is a transitional provision that is of no further effect.
@@ -75,10 +76,46 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 (2) Section 52(1) is amended in the definition of “lending institution” by deleting paragraph (a).
 (3) Section 55(5) is amended by deleting “or on termination of the lending institution in the case of a housing society;”.
 ”.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 137 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17, which gives effect to Sch. 1, had not come into operation. They read as follows:
 “
-137.Housing Act 1980 amended
-(1) The amendments in this section are to the Housing Act 1980.
-(2) Section 24(2) is amended by deleting “Department within the meaning” and inserting instead —
-“ Authority as defined in section 4(1) ”.
+4.References to “Consolidated Fund” changed to “Consolidated Account”
+The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Consolidated Fund” (whether in ordinary type, italics, bold or capitals) in each place where it occurs and inserting instead (in corresponding type) —
+“ Consolidated Account ”.
+Table
+................
+Housing Act 1980 | s. 62(4) s. 63(6)
+.................
+”.
+“
+17.Various Acts amended
+Schedule 1 sets out amendments to various Acts.
+”.
+Schedule 1 cl. 87 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 17]
+87.Housing Act 1980
+(1) Section 5(1)(a) is amended as follows:
+(a) by inserting in the appropriate alphabetical position —
+“
+“the Account” means The State Housing Commission Account referred to in section 62;
+”;
+(b) by deleting the definition of “the Fund”.
+(2) Section 11A(6) is amended by deleting “section 66 of the Financial Administration and Audit Act 1985.” and inserting instead —
+“ Part 5 of the Financial Management Act 2006. ”.
+(3) Section 22(1)(b) is amended by deleting “Fund” and inserting instead —
+“ Account ”.
+(4) Section 24 is amended by deleting “Fund” and inserting instead —
+“ Account ”.
+(5) Section 62(2) is repealed and the following subsection is inserted instead —
+“
+(2) All such moneys are —
+(a) to be credited to an agency special purpose account called The State Housing Commission Account established under section 16 of the Financial Management Act 2006; and
+(b) to be applied to the purposes of this Act.
+”.
+(6) Section 62(4), (5), (6) and (8) are amended by deleting “The State Housing Commission Fund” and inserting instead —
+“ the Account ”.
+(7) Section 65 is amended by deleting “Financial Administration and Audit Act 1985” and inserting instead —
+“
+Financial Management Act 2006 and the Auditor General Act 2006
 ”.

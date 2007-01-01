@@ -12,7 +12,7 @@ Reprint of the Administration Act 1903 not in a Volume (includes amendments list
 Administration Act Amendment Act 1939 | 24 of 1939 | 22 Nov 1939 | 22 Nov 1939
 Public Trustee Act 1941 s. 3 | 26 of 1941 | 8 Dec 1941 | 1 Jul 1942 (see s. 1(2) and Gazette 26 Jun 1942 p. 689)
 Administration Act Amendment Act (No. 2) 1941 | 52 of 1941 | 15 Jan 1942 | 15 Jan 1942
-Administration Act Amendment Act 1941 | 55 of 1941 | 15 Jan 1942 | 15 Jan 1942
+Administration Act Amendment Act 1941 | 55 of 1941 | 15 Jan 1942 | 1 Jul 1942 (see s. 8)
 Administration Act Amendment Act 1942 | 21 of 1942 | 9 Dec 1942 | 9 Dec 1942
 Reprint of the Administration Act 1903 approved in Volume 2 of Reprinted Acts (includes amendments listed above)
 Administration Act Amendment Act 1945 | 39 of 1945 | 30 Jan 1946 | 30 Jan 1946
@@ -69,10 +69,7 @@ Family Court Amendment Act 2002 s. 52 | 25 of 2002 | 25 Sep 2002 | 1 Dec 2002 (s
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Reprint 11: The Administration Act 1903 as at 14 Jul 2006 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Land Information Authority Act 2006 s. 120 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Land Information Authority Act 2006 s. 120 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Repealed by section 2 of this Act.
 Part IV, Curator of Intestate Estates, as enacted by this Act, was repealed by the Curator of Intestate Estates Act 1918. Now see the Public Trustee Act 1941.
 This Part was enacted as Part II of the Administration Act (Estate and Succession Duties) Amendment Act 1934. By section 3 of that Act it was enacted as follows:
@@ -86,12 +83,3 @@ In this reprint the numbering of Parts, sections, Divisions etc. effected in the
 The Administration Act Amendment Act 1970 s. 2(2) is a transitional provision that is of no further effect.
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973 s. 4.
 The Death Duty Assessment Act 1973 s. 3(2), (3), (4) and (5) are transitional provisions that are of no further effect.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 120 had not come into operation. It reads as follows:
-“
-120.Administration Act 1903 amended
-(1) The amendments in this section are to the Administration Act 1903.
-(2) Section 19(2) is amended by deleting “the Registrar of Deeds or Registrar of Titles, as the case may be” and inserting instead —
-“
-the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5
-”.
-”.

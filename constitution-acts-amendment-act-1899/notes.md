@@ -222,6 +222,7 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
  | Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 4 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
  | Parliamentary Legislation Amendment Act 2006 Pt. 2 | 56 of 2006 | 16 Nov 2006 | 17 Nov 2006 (see s. 2)
+ | Land Information Authority Act 2006 s. 185 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -235,12 +236,12 @@ Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (
 Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be proclaimed (see s. 2)
 Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
-Parole and Sentencing Legislation Amendment Act 2006 s. 89 | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
+Parole and Sentencing Legislation Amendment Act 2006 s. 89 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
-Land Information Authority Act 2006 s. 185 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 Electoral Legislation Amendment Act 2006 Pt. 2 | 64 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2(2))
 Liquor and Gaming Legislation Amendment Act 2006 s. 116 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -509,14 +510,18 @@ Schedule 3 — Consequential amendments
 The Nurses and Midwives Board of Western Australia established under the Nurses and Midwives Act 2006.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 185 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 17, which gives effect to Sch. 1, had not come into operation. It reads as follows:
 “
-185.Constitution Acts Amendment Act 1899 Schedule V amended
-(1) The amendment in this section is to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended by inserting before the item commencing “The board of management of the Western Australian Sports Centre Trust” the following item —
-“
-The board of management of the Western Australian Land Information Authority established by the Land Information Authority Act 2006.
+17.Various Acts amended
+Schedule 1 sets out amendments to various Acts.
 ”.
+Schedule 1 cl. 30 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 17]
+30.Constitution Acts Amendment Act 1899
+Schedule V Part 1 Division 2 is amended in the item relating to the Auditor General by deleting “Financial Administration and Audit Act 1985.” and inserting instead —
+“ Auditor General Act 2006. ”.
 ”.
 On the date as at which this compilation was prepared, the Electoral Legislation Amendment Act 2006 Pt. 2 had not come into operation. It reads as follows:
 “

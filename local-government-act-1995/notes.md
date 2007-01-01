@@ -33,14 +33,15 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
  | Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 14 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
  | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+ | Land Information Authority Act 2006 s. 144 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
  | Local Government Amendment Act 2006 | 66 of 2006 | 8 Dec 2006 | Act other than s. 14: 9 Dec 2006 (see s. 2(1))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2004 s. 16(1), (2), (3) and (5), 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Land Information Authority Act 2006 s. 144 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
 Local Government Amendment Act 2006 s. 14 | 66 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2(2))
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under s. 7(4)(e) of the Reprints Act 1984. Schedule 9.2 cl. 4 reads as follows:
 “
 4.Parts II to VII repealed
@@ -313,18 +314,25 @@ then, despite section 170B, the regional council shall, in respect of that perso
 Nothing in this Part prevents a municipality from participating, in respect of an employee of the municipality, in a superannuation scheme in addition to either the industry scheme or the City of Perth scheme (as the case may be) if the municipality and the employee agree to participate in that other scheme.
 ”.
 References to the Executive Director were replaced by references to the Departmental CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 144 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17, which gives effect to Sch. 1, had not come into operation. They read as follows:
 “
-144.Local Government Act 1995 amended
-(1) The amendments in this section are to the Local Government Act 1995.
-(2) Section 9.41(1)(b) is amended by deleting “or Deputy”.
-(3) Section 9.69 is amended as follows:
-(a) in subsection (1), by deleting the definition of “Department” and inserting instead —
+4.References to “Consolidated Fund” changed to “Consolidated Account”
+The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Consolidated Fund” (whether in ordinary type, italics, bold or capitals) in each place where it occurs and inserting instead (in corresponding type) —
+“ Consolidated Account ”.
+Table
+................
+Local Government Act 1995 | Schedule 6.3 cl. 5(f)(III)
+.................
+”.
 “
-“Authority” means the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5;
-”;
-(b) in each of subsections (2) and (4), by deleting “registered or deposited in the Department” and inserting instead —
-“ deposited with the Authority ”.
-(4) Schedule 6.3 is amended in each of clause 1(1)(a) and (3) by deleting “by the Registrar of Deeds” and inserting instead —
-“ under the Registration of Deeds Act 1856 ”.
+17.Various Acts amended
+Schedule 1 sets out amendments to various Acts.
+”.
+Schedule 1 cl. 102 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 17]
+102.Local Government Act 1995
+Section 6.26(2)(i) is amended by deleting “Financial Administration and Audit Act 1985” and inserting instead —
+“ Financial Management Act 2006 ”.
 ”.

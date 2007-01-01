@@ -4,12 +4,13 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 | 37 of 2005 | 12 Dec 2005 | Act other than s. 149, 150 and Pt. 13 Div. 3: 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077)
 Swan Valley Planning Legislation Amendment Act 2006 s. 20(3) | 7 of 2006 | 19 Apr 2006 | 18 Jun 2006 (see s. 2 and Gazette 16 Jun 2006 p. 2109)
+Land Information Authority Act 2006 s. 147 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) | 37 of 2005 (as amended by No. 60 of 2006 s. 147(4) | 12 Dec 2005 | To be proclaimed (see s. 2)
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
-Land Information Authority Act 2006 s. 147 | 60 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2(1))
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) had not come into operation. They read as follows:
 “
 149.Conditions on rural land (tied lots)
@@ -45,12 +46,13 @@ a condition referred to in subsection (2) commits an offence.
 (1) Without limiting section 143, the Commission may impose a condition under that section that access to and from a portion of land shown on a plan or diagram of survey relating to the subdivision to a road abutting the portion of land is to be restricted or prohibited as set out in the condition and in accordance with the regulations.
 (2) A condition referred to in subsection (1) is to specify a covenantee.
 (3) Where —
-(a) a diagram or plan of survey of a subdivision or a plan lodged for registration under the Strata Titles Act 1985 is received at the TLA Department; and
+(a) a diagram or plan of survey of a subdivision, or a plan lodged for registration under the Strata Titles Act 1985, is received by the Authority; and
 (b) it is shown on the plan or diagram that access to and from any portion of land shown on the plan or diagram to and from a road abutting the portion of land is subject to or intended to be subject to a restriction or prohibition as set out in a condition imposed by the Commission,
 the land becomes subject to a covenant so restricting or prohibiting that access —
 (c) in the case of a plan lodged for registration under the Strata Titles Act 1985, at the time the Registrar of Titles registers the plan under that Act; and
 (d) in any other case, at the time the new certificate, or if more than one, all the new certificates, for the land the subject of the diagram or plan have been registered under the Transfer of Land Act 1893.
 (4) It is sufficient description for the purposes of subsection (3)(b) if reference is made on the plan or diagram to this section and regulations made for the purposes of this section.
+[Section 150 amended by No. 60 of 2006 s. 147(4).]
 Part 13 — Enforcement and legal proceedings
 Division 3 — Infringement notices
 226.Interpretation
@@ -284,54 +286,52 @@ development control area as defined in the Swan and Canning Rivers Management Ac
 development control area as defined in the Swan and Canning Rivers Management Act 2006,
 ”.
 ”.
-On the date as at which this compilation was prepared, the Land Information Authority Act 2006 s. 147 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17, which gives effect to Sch. 1, had not come into operation. They read as follows:
 “
-147.Planning and Development Act 2005 amended
-(1) The amendments in this section are to the Planning and Development Act 2005.
-(2) Section 4(1) is amended as follows:
-(a) by inserting in its appropriate alphabetical position —
+4.References to “Consolidated Fund” changed to “Consolidated Account”
+The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Consolidated Fund” (whether in ordinary type, italics, bold or capitals) in each place where it occurs and inserting instead (in corresponding type) —
+“ Consolidated Account ”.
+Table
+................
+Planning and Development Act 2005 | s. 201(1) s. 201(2) s. 207(3) s. 207(4)
+.................
+”.
 “
-“Authority” means the Western Australian Land Information Authority established by the Land Information Authority Act 2006 section 5.
-”;
-(b) in the definition of “lot” —
-(i) by deleting paragraph (a) and inserting instead —
+17.Various Acts amended
+Schedule 1 sets out amendments to various Acts.
+”.
+Schedule 1 cl. 127 reads as follows:
 “
-(a)depicted on a plan or diagram available from, or deposited with, the Authority and for which a separate Crown Grant or certificate of title has been or can be issued; or
-”;
-and
-(ii) by deleting paragraph (c)(iv) and “or” after it and inserting instead —
+Schedule 1 — Amendments to various Acts
+[s. 17]
+127.Planning and Development Act 2005
+(1) Section 4(1) is amended as follows:
+(a) by deleting the definition of “Fund”;
+(b) by inserting in the appropriate alphabetical position —
 “
-(iv)a part-lot shown on a diagram or plan of survey of a subdivision deposited with the Authority; or
-”;
-(c) by deleting the definition of “TLA Department”.
-(3) Section 146(3)(d) is amended by deleting “TLA Department” and inserting instead —
-“ Authority ”.
-(4) Section 150(3)(a) is amended as follows:
-(a) by inserting after “subdivision” a comma;
-(b) by inserting after “1985” a comma;
-(c) by deleting “at the TLA Department;” and inserting instead —
-“ by the Authority; ”.
-(5) Section 165(2) and (4) are each amended by deleting “at the TLA Department” and inserting instead —
-“ with the Authority ”.
-(6) Section 167(1)(a) is amended as follows:
-(a) by inserting after “subdivision” a comma;
-(b) by inserting after “1985” a comma;
-(c) by deleting “at the TLA Department;” and inserting instead —
-“ by the Authority; ”.
-(7) Section 168 is amended as follows:
-(a) in subsection (1) —
-(i) by inserting after “subdivision” a comma; and
-(ii) by inserting after “1985” a comma; and
-(iii) by deleting “in the TLA Department” and inserting instead —
-“ with the Authority ”;
-(b) in subsection (3) —
-(i) by inserting after “subdivision” a comma; and
-(ii) by inserting after “1985” a comma; and
-(iii) by deleting “at the TLA Department” and inserting instead —
-“ with the Authority ”;
-(c) in subsection (5), by deleting “in the TLA Department”;
-(d) in subsection (6), by deleting “in the TLA Department or in” and inserting instead —
-“ with the Authority or ”.
-(8) Schedule 3 is amended by deleting “Department as defined in the Transfer of Land Act 1893” in both places where it occurs and inserting instead —
-“ Land Titles Office ”.
+“MRI Account” means the Metropolitan Region Improvement Account established under section 198;
+”.
+(2) Section 17(6) is amended by deleting “section 66 of the Financial Administration and Audit Act 1985.” and inserting instead —
+“ Part 5 of the Financial Management Act 2006. ”.
+(3) Section 198(1) is amended by deleting “a fund called the Metropolitan Region Improvement Fund is established as an account forming part of the Trust Fund constituted under section 9 of the Financial Administration and Audit Act 1985.” and inserting instead —
+“
+an agency special purpose account called the Metropolitan Region Improvement Account is established under section 16 of the Financial Management Act 2006.
+”.
+(4) Section 201(2) is amended by deleting “Improvement Fund” and inserting instead —
+“ Improvement Account ”.
+(5) The provisions listed in the Table to this subclause are amended by deleting “Fund” in each place where it occurs and inserting instead —
+“ MRI Account ”.
+Table
+s. 198(2) | s. 199(1)
+s. 198(3) | s. 199(2)
+(6) Section 203(2) is amended by deleting the passage from and including “held — ” to the end of the subsection and inserting instead —
+“
+that is to be established —
+(a) as an agency special purpose account under section 16 of the Financial Management Act 2006; or
+(b) with the approval of the Treasurer, at a bank as defined in section 3 of that Act.
+”.
+(7) Section 208 is amended by deleting “Financial Administration and Audit Act 1985” and inserting instead —
+“
+Financial Management Act 2006 and the Auditor General Act 2006
+”.
 ”.
