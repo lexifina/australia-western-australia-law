@@ -3,14 +3,13 @@ This is a compilation of the Children and Community Services Act 2004 and includ
 Compilation table
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 | 34 of 2004 | 20 Oct 2004 | s. 3 & 102: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); Act other than s. 3 & 102 and Sch. 2 cl. 9(2) & 25: 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695); Sch. 2 cl. 9(2): 11 Mar 2006 (see s. 2 and Gazette 10 Mar 2006 p. 987)
-Working with Children (Criminal Record Checking) Act 2004 Pt. 5 (s. 48-49 & 53-55) | 65 of 2004 | 8 Dec 2004 | 1 Jan 2006 (see s. 2 and Gazette 30 Dec 2005 p. 6875)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 & 85(4) | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Working with Children (Criminal Record Checking) Act 2004 Pt. 5 | 65 of 2004 | 8 Dec 2004 | Pt. 5 other than s. 50-52: 1 Jan 2006 (see s. 2 and Gazette 30 Dec 2005 p. 6875); s. 50-52: 1 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 85(4) | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Family Legislation Amendment Act 2006 Pt. 6 Div. 1 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 Sch. 2 cl. 25 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
-Working with Children (Criminal Record Checking) Act 2004 s. 50-52 | 65 of 2004 | 8 Dec 2004 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Children and Community Services Act 2004 s. 251 which gives effect to Sch. 2 had not come into operation. It reads as follows:
 “
 251.Other Acts amended
@@ -30,23 +29,5 @@ to provide a child care service under Part 8 of the Children and Community Servi
 (b) in item 5 by deleting “for licensing as a foster parent under the Child Welfare Act 1947.” and inserting instead —
 “
 for approval in relation to the placement of a child under the Children and Community Services Act 2004.
-”.
-”.
-On the date as at which this compilation was prepared, the Working with Children (Criminal Record Checking) Act 2004 s. 50-52 had not come into operation. They read as follows:
-“
-50.Section 207 amended
-Before section 207(2)(a) the following paragraph is inserted —
-“
-(aa) has a current assessment notice;
-”.
-51.Section 208 amended
-After section 208(2)(b) the following paragraph is inserted —
-“
-(ba) the nominated supervising officer and each managerial officer have a current assessment notice;
-”.
-52.Section 209 amended
-After section 209(2)(b) the following paragraph is inserted —
-“
-(ba) the nominated supervising officer has a current assessment notice;
 ”.
 ”.
