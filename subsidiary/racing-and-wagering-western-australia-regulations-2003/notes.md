@@ -9,10 +9,7 @@ Racing and Wagering Western Australia Amendment Regulations 2005 | 14 Oct 2005 p
 Racing and Wagering Western Australia Amendment Regulations 2006 | 5 May 2006 p. 1737-40 | 5 May 2006
 Racing and Wagering Western Australia Amendment Regulations (No. 2) 2006 | 14 Jul 2006 p. 2569-70 | 14 Jul 2006
 Reprint 1: The Racing and Wagering Western Australia Regulations 2003 as at 6 Oct 2006 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Racing and Wagering Western Australia Amendment Regulations (No. 3) 2006 r. 4 | 14 Nov 2006 p. 4736-7 | 1 Jan 2007 (see r. 2)
+Racing and Wagering Western Australia Amendment Regulations (No. 3) 2006 | 14 Nov 2006 p. 4736-7 | 1 Jan 2007 (see r. 2)
 The Racing and Wagering Western Australia Amendment Regulations (No. 2) 2004 r. 5 reads as follows:
 “
 5.Transitional provision
@@ -24,10 +21,4 @@ The Racing and Wagering Western Australia Amendment Regulations (No. 2) 2004 r. 
 “old Rules of Racing” has the meaning given to that term in section 4 of the Racing and Gambling Legislation Amendment and Repeal Act 2003;
 “old warning off notice” means a notice having the same or similar effect as a notice that could be made by RWWA in accordance with regulation 72(1) of the Racing and Wagering Western Australia Regulations 2003 (as inserted by regulation 4 of these regulations);
 “RWWA” has the meaning given to that term in section 3(1) of the Racing and Wagering Western Australia Act 2003.
-”.
-On the date as at which this compilation was prepared, the Racing and Wagering Western Australia Amendment Regulations (No. 3) 2006 r. 4 had not come into operation. It reads as follows:
-“
-4.Schedule 1 amended
-Schedule 1 item 1 is amended by deleting “345” and inserting instead —
-“ 350 ”.
 ”.
