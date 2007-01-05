@@ -14,8 +14,9 @@ Item | Section or regulation | Description of offence | Modified penalty ($)
 11. | s. 42 | Failing to display licensee’s name, branch manager’s name, etc. | 400
 12. | s. 45(1) | Publishing an unauthorised advertisement | 400
 13. | s. 45(2) | Failing to display licence number in advertisement | 400
-14. | s. 45(2) | Failing to include comparative rate in advertisement where required | 400
+14. | s. 45(3) | Failing to include comparative rate in advertisement where required | 400
 15. | s. 46 | Failing to provide a copy of a loan document as required or failing to obtain acknowledgment of receipt of the copy | 400
 16. | s. 49 | Failing to issue and record a receipt as required | 400
-17. | r. 14(1) | Failing to give notice of changes in particulars of directors, partners, etc. | 200
-18. | r. 14(2) | Failing to give notice of change of address of principal place of business | 200
+17. | r. 15(1) | Failing to give notice of changes in particulars of directors, partners, etc. | 200
+18. | r. 15(2) | Failing to give notice of change of address of principal place of business | 200
+[Schedule 2 amended in Gazette 5 Jan 2007 p. 10.]
