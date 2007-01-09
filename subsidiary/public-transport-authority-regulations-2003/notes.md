@@ -5,3 +5,4 @@ Citation | Gazettal | Commencement
 Public Transport Authority Regulations 2003 | 27 Jun 2003 p. 2465-97 | 1 Jul 2003 (see r. 2 and Gazette 27 Jun 2003 p. 2384)
 Public Transport Authority Amendment Regulations 2003 | 12 Dec 2003 p. 5040-1 | 12 Dec 2003
 Public Transport Authority Amendment Regulations 2005 | 11 Feb 2005 p. 696-9 | 11 Feb 2005
+Public Transport Authority Amendment Regulations 2007 | 9 Jan 2007 p. 27-8 | 9 Jan 2007
