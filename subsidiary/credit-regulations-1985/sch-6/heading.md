@@ -27,5 +27,5 @@ and
 6.The date by which a payment by the debtor is requested | Due date
 7.The Act | Credit Act 1984
 8.This Regulation | Credit Regulations 1985
-9.The Commissioner or the Department of Consumer Affairs | Consumer Affairs
-[Schedule 6 amended in Gazette 10 January 1986 p.150.]
+9.The Commissioner or the Department of Consumer and Employment Protection | Consumer and Employment Protection
+[Schedule 6 amended in Gazette 10 January 1986 p.150; 12 Jan 2007 p. 46.]

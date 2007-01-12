@@ -21,5 +21,5 @@ and
 (h)fees payable to a legal practitioner (not being the credit provider or an employee of the credit provider) authorised to prepare documents for the loan contract or for a mortgage relating to the loan contract entered into at or before the time of the making of the loan contract | Legal fees
 5.The Act | Credit Act 1984
 6.This Regulation | Credit Regulations 1985
-7.The Commissioner or the Department of Consumer Affairs | Consumer Affairs
-[Schedule 4 amended in Gazette 10 January 1986 p.150.]
+7.The Commissioner or the Department of Consumer and Employment Protection | Consumer and Employment Protection
+[Schedule 4 amended in Gazette 10 January 1986 p.150; 12 Jan 2007 p. 46.]

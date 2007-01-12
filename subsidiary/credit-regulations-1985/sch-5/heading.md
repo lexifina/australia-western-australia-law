@@ -8,5 +8,5 @@ Matters Described or Referred to | Descriptive Terms
 3.The annual percentage rate in respect of the continuing credit contract | Annual percentage rate
 4.The Act | Credit Act 1984
 5.This Regulation | Credit Regulations 1985
-6.The Commissioner or the Department of Consumer Affairs | Consumer Affairs
-[Schedule 5 amended in Gazette 10 January 1986 p.150.]
+6.The Commissioner or the Department of Consumer and Employment Protection | Consumer and Employment Protection
+[Schedule 5 amended in Gazette 10 January 1986 p.150; 12 Jan 2007 p. 46.]

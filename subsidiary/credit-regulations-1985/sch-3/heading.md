@@ -34,5 +34,5 @@ and
 (m)fees payable to a legal practitioner (not being the credit provider or an employee of the credit provider) authorised to prepare documents for the credit sale contract or for a mortgage relating to the credit sale contract entered into at or before the time of the making of the credit sale contract. | Legal fees
 7.The Act | Credit Act 1984
 8.This Regulation | Credit Regulations 1985
-9.The Commissioner or the Department of Consumer Affairs | Consumer Affairs
-[Schedule 3 amended in Gazette 10 January 1986 p.150.]
+9.The Commissioner or the Department of Consumer and Employment Protection | Consumer and Employment Protection
+[Schedule 3 amended in Gazette 10 January 1986 p.150; 12 Jan 2007 p. 46.]
