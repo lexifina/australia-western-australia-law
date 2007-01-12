@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Vehicle Standards) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 12 January 2007 of the Road Traffic (Vehicle Standards) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Vehicle Standards) Regulations 2002 | 9 Aug 2002 p. 3903-4020 | 1 Nov 2002 (see r. 2)
@@ -17,5 +17,6 @@ Road Traffic (Vehicle Standards) Amendment Regulations (No. 6) 2005 | 23 Dec 200
 Road Traffic (Vehicle Standards) Amendment Regulations (No. 2) 2006 | 26 May 2006 p. 1883-4 | 1 Jul 2006 (see r. 2)
 Road Traffic (Vehicle Standards) Amendment Regulations (No. 3) 2006 | 23 Jun 2006 p. 2225-6 | 1 Jul 2006 (see r. 2)
 Road Traffic (Vehicle Standards) Amendment Regulations 2006 | 28 Nov 2006 p. 4895-6 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
-The Local Courts Act 1904 was repealed by the Courts Legislation Amendment and Repeal Act 2004 s. 4. Under s. 10 of that Act a reference in a written law to the Local Court is, unless the contrary intention appears, to be read as a reference to the Magistrates Court.
-The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
+Reprint 2: The Road Traffic (Vehicle Standards) Regulations 2002 as at 12 Jan 2007 (includes amendments listed above)
+Under the Courts Legislation Amendment and Repeal Act 2004 s. 10 a reference in a written law to the Local Court is, unless the contrary intention appears, to be read as a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
+Formerly referred to as the Road Traffic (Licensing) Regulations 1975, the citation of which was changed to the Road Traffic (Vehicle Licensing) Regulations 1975 by the Road Traffic (Licensing) Amendment Regulations 2006. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
