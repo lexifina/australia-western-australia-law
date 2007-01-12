@@ -21,9 +21,9 @@ DEBT COLLECTOR’S LICENCE
 PURSUANT to the provisions of the abovementioned Act .................................. ........................................ of* ................................................., whose principal or sole place of business is situated at ........................................................................ is hereby licensed to carry on business as a debt collector on his or its behalf in Western Australia from the date hereof until the ........................................ day of ....................................................., 20 ........, unless this licence is before that date cancelled in accordance with the Act.
 Given under my hand at ...................................... this ................................ day of .......................................... 20 ..........
 ......................................................................
-Commissioner for Fair Trading
+Commissioner for Consumer Protection
 * Insert place of abode.
-[Form 2 amended in Gazette 30 Dec 2004 p. 6917.]
+[Form 2 amended in Gazette 30 Dec 2004 p. 6917; 12 Jan 2007 p. 47.]
 [Form 3 deleted in Gazette 30 Dec 2004 p. 6917.]
 Form 4
 Debt Collectors Licensing Act 1964
@@ -31,8 +31,8 @@ NOTIFICATION TO COMMISSIONER OF POLICE
 Name of Licensee | Place of Abode | Sole or Principal Place of Business | Licence No. and Expiry Date | Date of Issue, Renewal or Cancellation | Action Notified*
 * Issue, renewal, cancellation or surrender or notification of change of place of business or transfer of licence.
 ......................................................................
-Commissioner for Fair Trading
-[Form 4 amended in Gazette 30 Dec 2004 p. 6917.]
+Commissioner for Consumer Protection
+[Form 4 amended in Gazette 30 Dec 2004 p. 6917; 12 Jan 2007 p. 47.]
 Form 5
 Debt Collectors Licensing Act 1964
 APPLICATION FOR DUPLICATE LICENCE

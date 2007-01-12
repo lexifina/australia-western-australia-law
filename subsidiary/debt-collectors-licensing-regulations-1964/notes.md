@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 November 2006 of the Debt Collectors Licensing Regulations 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Debt Collectors Licensing Regulations 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Debt Collectors Licensing Regulations 1964 | 14 Apr 1965 p. 1031-7 | 1 May 1965 (see Gazette 15 Apr 1965 p. 1041)
@@ -19,4 +19,4 @@ Debt Collectors Licensing Amendment Regulations 2004 | 30 Dec 2004 p. 6915-17 | 
 Debt Collectors Licensing Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2254 | 1 Jul 2006 (see r. 2)
 Debt Collectors Licensing Amendment Regulations 2006 | 22 Sep 2006 p. 4101-4 | 22 Sep 2006 (see r. 2(a))
 Reprint 3: The Debt Collectors Licensing Regulations 1964 as at 10 Nov 2006 (includes amendments listed above)
-As at the time of this reprint the person designated as the Commissioner for the purposes of the Act is known as the Commissioner for Consumer Protection (see Gazette 18 August 2006 p. 3372).
+Debt Collectors Licensing Amendment Regulations (No. 3) 2006 | 12 Jan 2007 p. 46-7 | 12 Jan 2007
