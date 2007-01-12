@@ -14,9 +14,10 @@ Division 7 explains the rights and the obligations of the administering body and
 Division 8 specifies the method of delivery of any written notice, correspondence or other document that must be given under this Code to a resident or the administering body of a retirement village.
 Appendix 1 provides a list of questions that a prospective resident should carefully read and consider before deciding to enter any retirement village.
 Compliance with this Code
-The Code must be complied with and is enforceable by the Commissioner for Fair Trading and the State Administrative Tribunal under the Fair Trading Act 1987.
+The Code must be complied with and is enforceable by the Commissioner and the State Administrative Tribunal under the Fair Trading Act 1987.
 Where it appears to the Commissioner that an administering body has not complied with the Code, the Commissioner may —
 ·request the administering body to give a deed of undertaking to comply with the Code and/or rectify the consequences of its failure to comply; or
 ·if the administering body does not give the requested undertaking, apply to the State Administrative Tribunal for an order that the administering body act in a manner required by the Code.
 If the administering body fails to observe an undertaking to the Commissioner, the Commissioner may apply to the State Administrative Tribunal for an order requiring the administering body to do so.
 An administering body that fails to comply with an order made by the State Administrative Tribunal commits an offence that is punishable by a fine of up to $10,000.
+[Foreword amended in Gazette 12 Jan 2007 p. 48.]
