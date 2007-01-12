@@ -4,7 +4,7 @@
 Application for Incorporation of an Association |  | Associations Incorporation Act 1987 Form 1 (includes certificate required by s. 5(2)(b))
 Association | Name
 Brief description of main purpose(s)__________________________________________________ __________________________________________________ __________________________________________________ __________________________________________________
-Category rReligion, education, charity or other benevolent purpose rPromotion or encouragement of literature, science or the arts rSport, recreation or amusement rCommunity, social or cultural centre rPromotion of the interests of a local community rPolitics rOther — to be approved by the Commissioner [Extra fee applies]
+Category rReligion, education, charity or other benevolent purpose rPromotion or encouragement of literature, science or the arts rSport, recreation or amusement rCommunity, social or cultural centre rPromotion of the interests of a local community rPolitics rOther — to be approved by the Commissioner for Consumer Protection [Extra fee applies]
 Is the Association formed for the purpose of trading or securing a pecuniary profit to its membersr Yes r No
 Applicant | Name
 Addressstreet suburb/townpostcode
@@ -30,7 +30,7 @@ Rules | The rules of the Association — ·include provisions dealing with all t
 Declaration | I certify that all the details set out in this Application are true and correct
 Signature of Applicant | Date
 It is an offence, with a penalty of $500, to make a false statement in an application.
-[Form 1 inserted in Gazette 16 Aug 2002 p. 4205-6.]
+[Form 1 inserted in Gazette 16 Aug 2002 p. 4205-6; amended in Gazette 12 Jan 2007 p. 43.]
 Form 2
 Associations Incorporation Act 1987 (Section 6(1))
 ADVERTISEMENT OF INTENDED APPLICATION FOR INCORPORATION OF
@@ -39,7 +39,7 @@ ADVERTISEMENT OF INTENDED APPLICATION FOR INCORPORATION OF
 NOTICE is hereby given that ................................................................................
 .................................................................................................................................
 (full name, address and occupation of applicant)
-being duly authorised by the abovenamed association intends to apply to the Commissioner for Fair Trading on or after
+being duly authorised by the abovenamed association intends to apply to the Commissioner for Consumer Protection on or after
 .................................................................................................................................
 (insert date being at least one month but not more than 3 months after publication of this notice)
 for incorporation of.................................................................................................
@@ -49,7 +49,7 @@ The association is formed for the purpose of
 (insert main purpose)
 Signed .......................................................
 Print full name in block letters................................................................................
-[Form 2 amended in Gazette 9 Oct 2001 p. 5527.]
+[Form 2 amended in Gazette 9 Oct 2001 p. 5527; 12 Jan 2007 p. 43.]
 Form 3
 Associations Incorporation Act 1987 (Section 9(1))
 CERTIFICATE OF INCORPORATION
@@ -58,8 +58,8 @@ THIS IS TO CERTIFY THAT.........................................................
 has this day been incorporated under the Associations Incorporation Act 1987.
 Dated this...................................... day of ................................................. 20 .......
 ................................................................
-Commissioner for Fair Trading.
-[Form 3 amended in Gazette 9 Oct 2001 p. 5527.]
+Commissioner for Consumer Protection.
+[Form 3 amended in Gazette 9 Oct 2001 p. 5527; 12 Jan 2007 p. 43.]
 Form 4
 Associations Incorporation Act 1987 (Section 18(6))
 CERTIFICATE OF INCORPORATION ON CHANGE OF NAME
@@ -67,8 +67,8 @@ THIS IS TO CERTIFY THAT.........................................................
 which was on the ................................ day of .......................................... 20 ........
 incorporated under the Associations Incorporation Act 1987 changed its name to ........................ on this .............................. day of ................................ 20 .......
 ................................................................
-Commissioner for Fair Trading.
-[Form 4 amended in Gazette 9 Oct 2001 p. 5527.]
+Commissioner for Consumer Protection.
+[Form 4 amended in Gazette 9 Oct 2001 p. 5527; 12 Jan 2007 p. 43.]
 Form 5
 Associations Incorporation Act 1987 Infringement notice | Infringement notice no.
 Alleged offender | Name:Family name
