@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 November 2006 of the Business Names Regulations 1962 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Business Names Regulations 1962 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Business Names Regulations 1962 | 27 Sep 1962 p. 2663-72 | 12 Oct 1962 (see r. 2 and Gazette 12 Oct 1962 p. 3366)
@@ -36,6 +36,7 @@ Business Names Amendment Regulations 2005 | 28 Jun 2005 p. 2907 | 1 Jul 2005 (se
 Business Names Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2251 | 1 Jul 2006 (see r. 2)
 Business Names Amendment Regulations 2006 | 22 Sep 2006 p. 4075-8 | 22 Sep 2006 (see r. 2(a))
 Reprint 3: The Business Names Regulations 1962 as at 3 Nov 2006 (includes amendments listed above)
+Business Names Amendment Regulations (No. 3) 2006 | 12 Jan 2007 p. 44 | 12 Jan 2007
 Repealed by the Business Names Act 1962.
 As at the time of this reprint the person designated as the Commissioner for the purposes of the Act is known as the Commissioner for Consumer Protection (see Gazette 18 August 2006 p. 3372).
 Disallowed on 20 March 2002, see Gazette 26 March 2002 p. 1756.

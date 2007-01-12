@@ -30,8 +30,8 @@ CERTIFICATE OF REGISTRATION OF BUSINESS NAME
 I hereby certify that the business name .................................................................. was on the ................... day of .................................. 20......., registered, pursuant to and subject to the Business Names Act 1962.
 Given under my hand at Perth this ..................... day of .......................... 20........
 ...........................................................
-Commissioner for Fair Trading
-[Form 2 amended in Gazette 20 Jul 2004 p. 2905.]
+Commissioner for Consumer Protection
+[Form 2 amended in Gazette 20 Jul 2004 p. 2905; 12 Jan 2007 p. 44.]
 Form 3 — Statement for renewal of registration of a business name
 Business Names Act 1962 s. 11(1) Business Names Regulations 1962Form 3 Statement for renewal of registration of a business name [Please use BLOCK LETTERS]
 Details of the business
