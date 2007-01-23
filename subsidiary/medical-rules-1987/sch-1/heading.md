@@ -16,3 +16,4 @@ The following fees are payable in respect of the matters specified below — $
 8. | Application for restoration after erasure under section 10(6)....................................................................... | 75.00
 9. | Application for restoration under section 16A(2) or 16A(1)(b) and (4)................................................................ | 75.00
 [Schedule 1 amended in Gazette 9 Dec 1988 p. 4819; 17 Nov 1989 p. 4094; 29 Sep 1995 p. 4695; 8 Dec 1995 p. 5989-90; 1 Oct 1996 p. 5088; 15 Oct 1996 p. 5491; 1 Jul 1997 p. 3256; 7 Sep 2001 p. 4974; 23 Aug 2002 p. 4323; 29 Jun 2004 p. 2525.]
+[Schedule 2 repealed in Gazette 23 Jan 2007 p. 184.]

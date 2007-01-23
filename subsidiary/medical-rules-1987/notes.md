@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 February 2006 of the Medical Rules 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Medical Rules 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Medical Rules 1987 | 31 Dec 1987 p. 4572-9 (erratum 19 Feb 1988 p. 525) | 1 Jan 1988 (see r. 2)
@@ -22,3 +22,4 @@ Medical Amendment Rules 2002 | 23 Aug 2002 p. 4323 | 23 Aug 2002
 Medical Amendment Rules 2004 | 29 Jun 2004 p. 2524-5 | 29 Jun 2004
 Medical Amendment Rules (No. 2) 2004 | 30 Dec 2004 p. 7022 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 2: The Medical Rules 1987 as at 10 Feb 2006 (includes amendments listed above)
+Medical Amendment Rules 2007 | 23 Jan 2007 p. 183-4 | 23 Jan 2007
