@@ -8,3 +8,4 @@ THE TENANT —
 (b) must take care to avoid damage to the premises and chattels; and
 (c) must give notice to the owner of any damage to the premises or chattels as soon as practicable but at the latest within three (3) days.
 In this clause and in clause 8 “chattels” includes furniture, household appliances and other household items provided with the premises for use by the tenant.
+[Clause 7 amended in Gazette 25 Jun 1996 p. 2908.]
