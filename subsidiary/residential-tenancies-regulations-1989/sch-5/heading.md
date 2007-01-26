@@ -25,8 +25,8 @@ s. 54(1)(a) | Failing to give tenant copy of lease ........................ | $2
 s. 54(1)(b) | Failing to give tenant copy of executed lease ......... | $200
 s. 63(3) | Giving notice of termination on false grounds ....... | $400
 s. 80 | Entering leased premises to recover possession without court order .................................................. | $800
-s. 86(1) | Agent demanding unauthorised letting fee .....….... | $100
-Sch 1 cl. 7(2) | Failing to repay bond when required …..……........ | $200
+s. 86(1) | Agent demanding unauthorised letting fee ............. | $100
+Sch 1 cl. 7(2) | Failing to repay bond when required ...................... | $200
 Offences under Residential Tenancies Regulations 1989 | Modified penalty
 r. 14(2) | Failing to give ‘Information to Tenant’ notice ....... | $20
 [Schedule 5 inserted in Gazette 22 Sep 2006 p. 4129-30.]
