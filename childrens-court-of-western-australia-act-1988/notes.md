@@ -23,7 +23,7 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 17, 107 and 12
 Statutes (Repeals and Minor Amendments) Act 2003 s. 35 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Reprint 3: The Children’s Court of Western Australia Act 1988 as at 10 Sep 2004 (includes amendments listed above)
-Sentencing Legislation Amendment Act 2004 s. 14(3) | 27 of 2004 | 14 Oct 2004 | 31 May 2006 (see s. 2 and Gazette 30 May 2006 p. 1965)
+Sentencing Legislation Amendment Act 2004 s. 14(3) | 27 of 2004 (as amended by No. 41 of 2006 s. 95(2) | 14 Oct 2004 | 31 May 2006 (see s. 2 and Gazette 30 May 2006 p. 1965)
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Acts Amendment (Court of Appeal) Act 2004 s. 29 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 7 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
@@ -34,8 +34,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Sentencing Legislation Amendment Act 2004 s. 14(2) | 27 of 2004 | 14 Oct 2004 | To be proclaimed (see s. 2)
-Parole and Sentencing Legislation Amendment Act 2006 s. 95(2) | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 6 | 65 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 Chapter XXXII of The Criminal Code was repealed by the Acts Amendment (Evidence) Act 1991 s. 12(9).
@@ -50,19 +48,9 @@ Act | Provision
 Children’s Court of Western Australia Act 1988 | s. 7(4)
 ...................... | ........
 ”.
-On the date as at which this compilation was prepared, the Sentencing Legislation Amendment Act 2004 s. 14(2) had not come into operation. It reads as follows:
-“
-14.Children’s Court of Western Australia Act 1988 amended
-(2) Section 19(1) is amended by inserting after “78,” —
-“ 84D, ”.
-”.
-The amendment to s. 19(1) in the Sentencing Legislation Amendment Act 2004 s. 14(2) is not included because the subsection it seeks to amend was repealed by the Courts Legislation Amendment and Repeal Act 2004 s. 68(1).
-On the date as at which this compilation was prepared, the Parole and Sentencing Legislation Amendment Act 2006 s. 95(2) had not come into operation. It reads as follows:
-“
-95.Sentencing Legislation Amendment Act 2004 amended
-(1) The amendments in this section are to the Sentencing Legislation Amendment Act 2004.
-(2) Section 14(2) is repealed.
-”.
+Footnote no longer applicable.
+Footnote no longer applicable.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 6 had not come into operation. It reads as follows:
 “
 Part 6 — Children’s Court of Western Australia Act 1988 amended
