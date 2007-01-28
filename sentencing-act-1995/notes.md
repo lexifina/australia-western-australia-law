@@ -24,7 +24,7 @@ Criminal Law Amendment Act 2001 Pt. 3 | 23 of 2001 | 26 Nov 2001 | 24 Dec 2001
 Zoological Parks Authority Act 2001 s. 47 | 24 of 2001 | 26 Nov 2001 | 22 May 2002 (see s. 2 and Gazette 10 May 2002 p. 2445)
 Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 64 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
 Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 221(4) | 35 of 2003 | 26 Jun 2003 | 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
-Sentencing Legislation Amendment and Repeal Act 2003Pt. 2, s. 29(3) and 33 | 50 of 2003 | 9 Jul 2003 | Pt. 2 Div. 1 and 3: 30 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); Pt. 2 Div. 2, 4 and 5 and s. 29(3): 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); s. 33: 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
+Sentencing Legislation Amendment and Repeal Act 2003Pt. 2, s. 29(3) and 33 | 50 of 2003 (as amended by No. 41 of 2006 s. 94) | 9 Jul 2003 | Pt. 2 Div. 1 and 3: 30 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); Pt. 2 Div. 2, 4 and 5 and s. 29(3): 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); s. 33: 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Reprint 3: The Sentencing Act 1995 as at 10 Oct 2003 (includes amendments listed above except the Sentencing Legislation Amendment and Repeal Act 2003s. 33)
 Criminal Injuries Compensation Act 2003 s. 73 | 77 of 2003 | 15 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
@@ -39,12 +39,12 @@ Architects Act 2004 s. 80 | 75 of 2004 | 8 Dec 2004 | 16 Nov 2005 (see s. 2 and 
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 13 and s. 82 | 84 of 2004 (as amended by No. 41 of 2006 s. 74(2) and 75(2)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 4: The Sentencing Act 1995 as at 12 Aug 2005 (includes amendments listed above except those in the Sentencing Legislation Amendment Act 2004 and the Architects Act 2004)
 Water Legislation Amendment (Competition Policy) Act 2005 s. 53 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
-Parole and Sentencing Legislation Amendment Act 2006 s. 74(1) and 75(1) | 41 of 2006 | 22 Sep 2006 | 22 Sep 2006 (see s. 2(4)(b))
+Parole and Sentencing Legislation Amendment Act 2006 Pt. 3 | 41 of 2006 | 22 Sep 2006 | s. 74 & 75: 22 Sep 2006 (see s. 2(4)(b)) Pt. 3 other than s. 71, 74 & 75: 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867);
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Criminal Property) Act 2004 Pt. 3 | 26 of 2004 | 7 Oct 2004 | To be proclaimed (see s. 2(2))
-Parole and Sentencing Legislation Amendment Act 2006 s. 70-73, 76-79 and 94 | 41 of 2006 | 22 Sep 2006 | s. 71: operative on commencement of Act No. 26 of 2004 Pt. 3 (see s. 2(3)); s. 70, 72, 73, 76-79 and 94: to be proclaimed (see s. 2(1))
+Parole and Sentencing Legislation Amendment Act 2006 s. 71 | 41 of 2006 | 22 Sep 2006 | Operative on commencement of Act No. 26 of 2004 Pt. 3 (see s. 2(3))
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 4 | 65 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2)
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
@@ -57,16 +57,7 @@ The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as
 (2) The Minister may make a recommendation under subsection (1) only if the Minister considers that each amendment proposed to be made by the regulations is necessary or desirable as a consequence of the enactment of the RWWA Act or this Act.
 (3) Nothing in this section prevents subsidiary legislation from being amended in accordance with the Act under which it was made.
 ”.
-The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 6 reads as follows:
-“
-Part 6 — Review
-107.Review
-(1) The Minister administering the Sentencing Act 1995 is to carry out a review of the operation and effectiveness of —
-(a) the Sentencing Act 1995 to the extent that it is affected by the amendments made to it by Part 2 Divisions 2 and 4 and section 33(3); and
-(b) Part 3 of the Sentence Administration Act 2003,
-as soon as practicable after the expiration of 4 years from the day on which this Act receives the Royal Assent.
-(2) The Minister is to prepare a report based on the review and cause it to be laid before each House of Parliament within 5 years after the day on which this Act receives the Royal Assent.
-”.
+Footnote no longer applicable.
 The Sentencing Legislation Amendment and Repeal Act 2003 s. 22 and 29(2), which give effect to Sch. 1, read as follows:
 “
 22.Transitional provisions
@@ -221,76 +212,13 @@ confiscation or forfeiture to the Crown (otherwise than under the Criminal Prope
 ”.
 ”.
 The amendments in the Sentencing Legislation Amendment Act 2004 s. 6(4) erroneously referred to section 75(3) and (5) as “73(3) and (5)” when identifying where the required amendments were to be made.
-On the date as at which this compilation was prepared, the Parole and Sentencing Legislation Amendment Act 2006 s. 70-73, 76-79 and 94 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Parole and Sentencing Legislation Amendment Act 2006 s. 71 had not come into operation. It reads as follows:
 “
-Part 3 — Sentencing Act 1995 amended
-70.The Act amended in this Part
-The amendments in this Part are to the Sentencing Act 1995.
 71.Sections 8 and 16 amended
 (1) Section 8(6) is amended in paragraph (b) of the definition of “criminal property confiscation” by deleting “Crown” and inserting instead —
 “ State ”.
 (2) Section 16(1)(f) is amended by deleting “Crown” and inserting instead —
 “ State ”.
-72.Section 33A amended
-(1) After section 33A(2) the following subsection is inserted —
-“
-(2a) This section does not apply if a court is sentencing an offender for one or more offences that were committed —
-(a) while the offender was subject to —
-(i) a parole order, home detention order, or work release order, made under the Sentence Administration Act 1995; or
-(ii) a parole order, or re-entry release order, made under the Sentence Administration Act 2003,
-for another offence; or
-(b) during the suspension period of a suspended term of imprisonment imposed for another offence.
-”.
-(2) Section 33A(4) is amended after “sentencing” by inserting —
-“ the ”.
-73.Section 33O amended
-Section 33O(5) is amended by deleting the full stop after paragraph (a) and inserting a semicolon instead.
-76.Section 89 amended
-(1) Section 89(2) is repealed and the following subsection is inserted instead —
-“
-(2) A parole eligibility order must not be made if the fixed term, or the aggregate of the fixed terms, imposed by the court is less than 12 months, except where the offender, at the date of the sentence, is serving or has yet to serve —
-(a) a parole term imposed previously; or
-(b) a fixed term or fixed terms imposed previously —
-(i) which, or the aggregate of which, is less than 12 months; and
-(ii) which, with the term or terms imposed by the court, would result in an aggregate of 12 months or more.
-”.
-(2) After section 89(5) the following subsections are inserted —
-“
-(5a) If, in a case to which subsection (2)(b) applies, a court decides that an offender is to be eligible for parole, it is to make a single parole eligibility order in respect of the fixed term or fixed terms it imposes and the term or terms imposed previously.
-(5b) If, in any other case —
-(a) a court decides that an offender is to be eligible for parole; and
-(b) at the date of the sentence the offender is serving or has yet to serve a fixed term or fixed terms imposed previously which, or the aggregate of which, is less than 12 months,
-the court may make a single parole eligibility order in respect of a fixed term or fixed terms that it imposes and the term or terms imposed previously.
-”.
-77.Section 94 amended
-The Table to section 94 is amended as follows:
-(a) in column 4 of the first example by deleting “Non-parole period = 3 years.” and inserting instead —
-“ Non-parole period = 4 years. ”;
-(b) in column 4 of the second example by deleting “Non-parole period = 5 years.” and inserting instead —
-“ Non-parole period = 8 years. ”;
-(c) in column 4 of the third example by deleting “Non-parole period on term 2 = 3 years.” and inserting instead —
-“ Non-parole period on term 2 = 4 years. ”;
-(d) in column 4 of the third example by deleting “serve 4 years.” and inserting instead —
-“ serve 5 years. ”.
-78.Section 150 inserted
-After section 149 the following section is inserted —
-“
-150.Review of Act
-(1) The Minister must carry out a review of the operation and effectiveness of this Act as soon as is practicable after —
-(a) 1 July 2007; and
-(b) the expiry of each 5 yearly interval after that day.
-(2) The Minister must prepare a report based on each review under subsection (1) and, as soon as is practicable after the report is prepared (and in any event not more than 12 months after the relevant day or expiry), must cause it to be laid before each House of Parliament.
-”.
-79.References to “Crown” amended
-Each provision in the Table to this section is amended by deleting “Crown” in each place where it occurs and inserting instead —
-“ State ”.
-Table
-s. 8(3) | s. 51(8) | s. 52(5)
-s. 33(2) | s. 52(2) (3 times) | s. 60(7)
-s. 51(1) (2 times) | s. 52(4) | s. 139
-94.Sentencing Legislation Amendment and Repeal Act 2003 amended
-(1) The amendment in this section is to the Sentencing Legislation Amendment and Repeal Act 2003.
-(2) Part 6 is repealed.
 ”.
 On the date as at which this compilation was prepared, the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 4 had not come into operation. It reads as follows:
 “

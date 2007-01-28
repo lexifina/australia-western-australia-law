@@ -36,13 +36,13 @@ Inspector of Custodial Services Act 2003 s. 56(1) | 75 of 2003 | 15 Dec 2003 | 1
 Corruption and Crime Commission Amendment and Repeal Act 2003 s. 74(2) | 78 of 2003 | 22 Dec 2003 | 7 Jul 2004 (see s. 2 and Gazette 6 Jul 2004 p. 2697)
 Reprint 4: The Freedom of Information Act 1992 as at 10 Sep 2004 (includes amendments listed above)
 Freedom of Information Amendment Act 2004 | 56 of 2004 | 19 Nov 2004 | 19 Nov 2004 (see s. 2)
+Parole and Sentencing Legislation Amendment Act 2006 s. 90 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
 Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 6 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Parole and Sentencing Legislation Amendment Act 2006 s. 90 | 41 of 2006 | 22 Sep 2006 | To be proclaimed (see s. 2)
 The Acts Amendment (Ministry of Justice) Act 1993 s. 68 reads as follows:
 “
 Part 19 — Savings and transitional
@@ -70,11 +70,4 @@ Act | Provision
 .......................... | ........
 Freedom of Information Act 1992 | s. 62(2)
 ...................... | ........
-”.
-On the date as at which this compilation was prepared, the Parole and Sentencing Legislation Amendment Act 2006 s. 90 had not come into operation. It reads as follows:
-“
-90.Freedom of Information Act 1992 amended
-(1) The amendments in this section are to the Freedom of Information Act 1992.
-(2) Schedule 2 is amended by deleting “The Parole Board.” and inserting instead —
-“ The Prisoners Review Board. ”.
 ”.
