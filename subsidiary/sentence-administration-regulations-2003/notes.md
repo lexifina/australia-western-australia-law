@@ -5,28 +5,13 @@ Citation | Gazettal | Commencement
 Sentence Administration Regulations 2003 | 29 Aug 2003 p. 3842-50 | 31 Aug 2003 (see r. 2 and Gazette 29 Aug 2003 p. 3833)
 Sentence Administration Amendment Regulations 2004 | 11 Jun 2004 p. 2002-3 | 11 Jun 2004
 Sentence Administration Amendment Regulations 2005 | 25 Feb 2005 p. 847 | 31 May 2006 (see r. 2 and Gazette 30 May 2006 p. 1965)
+Sentence Administration Amendment Regulations 2006 | 29 Dec 2006 p. 5869-72 | Regulations other than r. 5: 28 Jan 2007 (see r. 2(1) and Gazette 29 Dec 2006 p. 5867)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Sentence Administration Amendment Regulations 2006 r. 3-5 | 29 Dec 2006 p. 5869-72 | Regulations other than r. 5: 28 Jan 2007 (see r. 2(1) and Gazette 29 Dec 2006 p. 5867); r. 5: operative on commencement of the Prisons and Sentencing Legislation Amendment Act 2006 (see r. 2(2))
-On the date as at which this compilation was prepared, the Sentence Administration Amendment Regulations 2006 r. 3-5 had not come into operation. They read as follows:
+Sentence Administration Amendment Regulations 2006 r. 5 | 29 Dec 2006 p. 5869-72 | Operative on commencement of the Prisons and Sentencing Legislation Amendment Act 2006 (see r. 2(2))
+On the date as at which this compilation was prepared, the Sentence Administration Amendment Regulations 2006 r. 5 had not come into operation. It reads as follows:
 “
-3.The regulations amended
-The amendments in these regulations are to the Sentence Administration Regulations 2003.
-4.Part 1A inserted
-After regulation 3 the following Part is inserted —
-“
-Part 1A — General matters
-Division 1 — Prescribed terms and times
-3A.Prescribed term (definition of “prisoner” s. 11A)
-For the purposes of the definition of “prisoner” in section 11A(1) of the Act —
-(a) in relation to a prisoner sentenced before 31 August 2003 — a fixed term of 14 years is prescribed; and
-(b) in relation to a prisoner sentenced on or after 31 August 2003 — a fixed term of 9 years is prescribed.
-3B.Prescribed time (s. 13)
-For the purposes of section 13(2) of the Act, the prescribed time in the sentence of a prisoner is no later than 2 years before the day on which the first report about the prisoner under section 12A(2) of the Act is due.
-3C.Prescribed time (s. 14)
-For the purposes of section 14(2) of the Act, the prescribed time in the sentence of a prisoner is no earlier than 2 years before the day on which the prisoner is eligible for release (whether under a parole order or not).
-”.
 5.Part 1A Division 2 inserted
 After Part 1A Division 1 the following Division is inserted —
 “
