@@ -220,6 +220,7 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Tobacco Products Control Act 2006 s. 126 | 5 of 2006 | 12 Apr 2006 | 31 Jul 2006 (see s. 2 and Gazette 25 Jul 2006 p. 2701)
  | Reprint 14: The Constitution Acts Amendment Act 1899 as at 21 Apr 2006 (includes amendments listed above except those in the Tobacco Products Control Act 2006 s. 126)
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+ | Parole and Sentencing Legislation Amendment Act 2006 s. 89 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
  | Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 4 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
  | Parliamentary Legislation Amendment Act 2006 Pt. 2 | 56 of 2006 | 16 Nov 2006 | 17 Nov 2006 (see s. 2)
  | Land Information Authority Act 2006 s. 185 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
@@ -236,7 +237,6 @@ Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (
 Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be proclaimed (see s. 2)
 Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
-Parole and Sentencing Legislation Amendment Act 2006 s. 89 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Electoral Legislation Amendment Act 2006 Pt. 2 | 64 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2(2))
@@ -466,17 +466,7 @@ The Medical Radiation Technologists Registration Board of Western Australia esta
 ”.
 Repealed by the Statute Law Revision Act 2006 s. 3(1).
 Repealed by the Statute Law Revision Act 2006 s. 3(1).
-On the date as at which this compilation was prepared, the Parole and Sentencing Legislation Amendment Act 2006 s. 89 had not come into operation. It reads as follows:
-“
-89.Constitution Acts Amendment Act 1899 amended
-(1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended as follows:
-(a) by deleting “The Parole Board established under the Sentence Administration Act 2003.”;
-(b) by inserting in the appropriate alphabetical position —
-“
-The Prisoners Review Board established under the Sentence Administration Act 2003.
-”.
-”.
+Footnote no longer applicable.
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Schedule 1, had not come into operation. It reads as follows:
 “
