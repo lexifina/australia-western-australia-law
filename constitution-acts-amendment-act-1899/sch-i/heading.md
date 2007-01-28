@@ -10,3 +10,5 @@ Session and Number | Extent of Repeal
 58 Vict., No. 15 ........................... | The Whole.
 60 Vict., No. 18 ........................... | The Whole.
 [Schedule II repealed by No. 46 of 1963 s. 9.]
+[Schedule III related to section 30 which was repealed by No. 27 of 1907 s. 211.]
+[Schedule IV repealed by No. 19 of 1989 s. 5.]
