@@ -46,11 +46,12 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 8: The Betting Control Act 1954 as at 20 Oct 2006 (includes amendments listed above)
+Betting and Racing Legislation Amendment Act 2006 s. 3, 5-8 and 10 | 70 of 2006 | 13 Dec 2006 | 29 Jan 2007 (see s. 2 and Gazette 23 Jan 2007 p. 181)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
-Betting and Racing Legislation Amendment Act 2006 Pt. 2 | 70 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
+Betting and Racing Legislation Amendment Act 2006 s. 4, 9, 11 and 12 | 70 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 Repealed by the Acts Amendment and Repeal (Betting) Act 1992.
 The Betting Control Amendment Act 1998 s. 5(2) and (3) read as follows:
@@ -155,69 +156,13 @@ Schedule 1 — Various Acts amended
 1.Betting Control Act 1954
 s. 31A(3) | Delete “and take before a justice”.
 ”.
-On the date as at which this compilation was prepared, the Betting and Racing Legislation Amendment Act 2006 Pt. 2 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Betting and Racing Legislation Amendment Act 2006 s. 4, 9, 11 and 12 had not come into operation. They read as follows:
 “
-Part 2 — Betting Control Act 1954
-3.The Act amended
-The amendments in this Part are to the Betting Control Act 1954.
 4.Long title amended
 The long title is amended after “through, RWWA;” by inserting —
 “
 to prohibit betting through, and the establishment and operation of, betting exchanges;
 ”.
-5.Section 4 amended
-Section 4(1) is amended after the definition of “authorised officer” by inserting —
-“
-“betting exchange” has the meaning given to that term in section 4AA;
-”.
-6.Section 4AA inserted
-After section 4 the following section is inserted —
-“
-4AA.Meaning of “betting exchange”
-In this Act —
-“betting exchange” means a facility, electronic or otherwise, that enables persons —
-(a)to place or accept, through the operator of the betting exchange, bets with other persons; or
-(b)to place with the operator of the betting exchange bets that, on acceptance, are matched with opposing bets placed with and accepted by the operator,
-but does not include a facility, electronic or otherwise, that enables persons to place bets only with a bookmaker or a totalisator.
-”.
-7.Section 24 amended
-(1) After section 24(1) the following subsection is inserted —
-“
-(1aa) A person who bets through the use of a betting exchange commits an offence.
-Penalty: $10 000, or 24 months imprisonment, or both.
-”.
-(2) Section 24(1a) is amended after “subsection (1)” by inserting —
-“ or (1aa) ”.
-(3) Section 24(2) is amended by deleting the definition of “interstate offence” and inserting instead —
-“
-“interstate offence” means —
-(a)in relation to an offence under subsection (1) — an offence under the law of another State or a Territory, which offence is declared by the regulations to be an offence that corresponds to an offence under that subsection; or
-(b)in relation to an offence under subsection (1aa) — an offence under the law of another State or a Territory, which offence is declared by the regulations to be an offence that corresponds to an offence under that subsection.
-”.
-8.Section 27A amended
-(1) Section 27A(1) is amended as follows:
-(a) before the definition of “authorised person” by inserting —
-“
-“approved sporting event” means —
-(a)a sporting event; or
-(b)a specific contingency of, or relating to, a sporting event,
-that is the subject of an approval given under section 4B(2);
-”;
-(b) after “races” in paragraph (b) of the definition of “authorised person” by inserting —
-“ or sporting events ”;
-(c) after “race” in paragraph (a) of the definition of “offshore bet” by inserting —
-“ , or on an approved sporting event, ”;
-(d) after “races” in the definition of “offshore betting operator” by inserting —
-“ or sporting events ”.
-(2) Section 27A(2) is amended by deleting “whom” and inserting instead —
-“ who ”.
-(3) Section 27A(5)(a) is amended after “races” by inserting —
-“ or sporting events ”.
-(4) Section 27A(5)(b) is amended as follows:
-(a) after “racing” by inserting —
-“ or sporting ”;
-(b) after “races” by inserting —
-“ or sporting events ”.
 9.Sections 27B to 27F inserted and consequential amendment to the Gaming and Wagering Commission Act 1987
 (1) After section 27A the following sections are inserted —
 “
@@ -287,27 +232,6 @@ may apply to the State Administrative Tribunal for a review of the decision.
 (4) In subsection (3)(c) —
 “approval” does not include an approval under the Betting Control Act 1954 section 27D(2).
 ”.
-10.Sections 27G and 27H inserted and consequential repeal of sections 11H and 11I
-(1) Before section 28 the following sections are inserted —
-“
-27G.Liability of persons who occupy a position of authority in a body corporate
-(1) If a body corporate commits an offence against this Act, and it is proved that —
-(a) the offence was committed with the consent or connivance of a person who occupies a position of authority in the body corporate; or
-(b) a person who occupies a position of authority in the body corporate failed to exercise such due diligence to prevent the commission of the offence as ought to have been exercised having regard to the nature of the person’s functions and to all other circumstances,
-the person commits the same offence.
-(2) A person may be proceeded against and convicted of an offence against this Act by virtue of subsection (1) whether or not the body corporate has been proceeded against and convicted of the offence.
-27H.Liability of natural persons, partners, bodies corporate and officers
-(1) If an employee of a bookmaker who is a natural person commits an offence against this Act related to the business of the bookmaker, the bookmaker is to be treated as having committed an offence and is liable to the penalty prescribed for the offence committed by the employee.
-(2) If a manager, an employee or an agent of a bookmaker that is a partnership or a body corporate commits an offence against this Act related to the business of the partnership or body corporate as a bookmaker —
-(a) each of the partners; or
-(b) the body corporate,
-as the case may be, is to be treated as having committed an offence and is liable to the penalty prescribed for the offence committed by the manager, employee or agent of the partnership or body corporate.
-(3) If under subsection (2) a body corporate is treated as having committed an offence, each person who occupies a position of authority in the body corporate is to be treated as having committed the offence and is liable to the penalty prescribed for the offence committed by the manager, employee or agent of the body corporate, unless the person proves that —
-(a) the offence was committed without the person’s consent or connivance; and
-(b) the person exercised all such due diligence to prevent the commission of the offence as ought to have been exercised having regard to the nature of the person’s functions and to all the circumstances.
-(4) If an employee of a bookmaker that is a partnership or a body corporate commits an offence against this Act related to the business of the bookmaker, the licensed manager of the bookmaker is to be treated as having committed an offence and is liable to the penalty prescribed for the offence committed by the employee.
-”.
-(2) Sections 11H and 11I are repealed.
 11.Section 28A amended
 Section 28A(3) is amended by deleting “27 or 27A.” and inserting instead —
 “ 27, 27A or 27B. ”.
