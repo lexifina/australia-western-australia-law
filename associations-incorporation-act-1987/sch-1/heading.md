@@ -7,7 +7,7 @@ The property and income of the association shall be applied solely towards the p
 3.The qualifications (if any) for membership of the incorporated association.
 4.The register of members of the incorporated association.
 5.The entrance fees, subscriptions and other amounts (if any) to be paid by members of the incorporated association.
-6.The name, constitution, membership and powers of the committee or other body having the management of the incorporated association (in this clause referred to as “the committee”) and provision for —
+6.The name, constitution, membership and powers of the committee or other body having the management of the incorporated association (in this clause referred to as the committee) and provision for —
 (a) the election or appointment of members of the committee;
 (b) the terms of office of members of the committee;
 (c) the grounds on which, or reasons for which, the office of a member of the committee shall become vacant;
