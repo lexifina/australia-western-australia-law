@@ -7,6 +7,7 @@ Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 |
 Financial Administration and Audit Amendment Act 1990 s. 39(1) | 92 of 1990 | 20 Dec 1990 | 8 Mar 1991 (see s. 2 and Gazette 8 Mar 1991 p. 1029)
 Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
 Reprint of the Financial Agreement Act 1928 as at 1 Feb 2002 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 The Financial Agreement Act 1928 is affected by and should be read with the following:
 Financial Agreement (Amendment) Act 1944 (No. 18 of 1944)
 Financial Agreement (Amendment) Act 1966 (No. 48 of 1966)

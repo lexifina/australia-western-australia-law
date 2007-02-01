@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 August 2006 of the Public Trustee Act 1941 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Public Trustee Act 1941 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Trustee Act 1941 | 26 of 1941 | 8 Dec 1941 | 1 Jul 1942 (see s. 1(2) and Gazette 26 Jun 1942 p. 689)
@@ -40,6 +40,7 @@ Workers’ Compensation Reform Act 2004 s. 175 | 42 of 2004 | 9 Nov 2004 | 4 Jan
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Statute Law Revision Act 2006 s. 7 | 37 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2)
 Reprint 5: The Public Trustee Act 1941 as at 11 Aug 2006 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Repealed in First Schedule to this Act.
 The Administration Act 1903 s. 22 was repealed by the Public Trustee Act 1941 s. 3.
 Repealed by the Liquor Act 1970 which was repealed by the Liquor Licensing Act 1988.

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 January 2006 of the Legal Contribution Trust Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Legal Contribution Trust Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Legal Contribution Trust Act 1967 | 74 of 1967 | 11 Dec 1967 | Act other than Pt. V: 29 Mar 1968 (see s. 2 and Gazette 29 Mar 1968 p. 805); Pt. V: 30 Jul 1971 (see s. 2 and Gazette 30 Jul 1971 p. 2897)
@@ -22,6 +22,7 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 Pt. 4 | 65 of 200
 Statutes (Repeals and Minor Amendments) Act 2003 s. 76 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 71 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 3: The Legal Contribution Trust Act 1967 as at 20 Jan 2006 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Repealed by the Associations Incorporation Act 1987.
 The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 78(2) and 87 read as follows:
 “
@@ -29,8 +30,8 @@ The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 78(2) and 
 (2) Despite section 11 of The Criminal Code, a person may be punished after the commencement of subsection (1) for an offence against repealed section 11.
 87.Transitional provisions
 (1) In this section —
-“commencement day” means the day on which Part 10 of the Legal Practice Act 2003 comes into operation;
-“Trust” means the Legal Contribution Trust established under the Legal Contribution Trust Act 1967.
+commencement day means the day on which Part 10 of the Legal Practice Act 2003 comes into operation;
+Trust means the Legal Contribution Trust established under the Legal Contribution Trust Act 1967.
 (2) Moneys that, on the commencement day, are maintained on deposit by a legal practitioner to the credit of the Trust under section 11 of the Legal Contribution Trust Act 1967 —
 (a) are to be taken on and after that day to be moneys deposited by the legal practitioner to the credit of a trust account under section 137 of the Legal Practice Act 2003; and
 (b) may be dealt with under the Legal Practice Act 2003 and the Legal Contribution Trust Act 1967 accordingly.

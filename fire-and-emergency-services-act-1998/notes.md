@@ -10,6 +10,7 @@ Fire and Emergency Services Legislation (Emergency Services Levy) Amendment Act 
 Reprint 1: The Fire and Emergency Services Authority of Western Australia Act 1998 as at 4 Apr 2003 (includes amendments as listed above)
 Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 (see Gazette 15 Aug 2003 p. 3685-92) | 15 Sep 2003 (see r. 2)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 47 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Repealed by the Mining Act 1978.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 49 reads as follows:

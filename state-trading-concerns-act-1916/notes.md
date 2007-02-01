@@ -20,6 +20,7 @@ State Trading Concerns Amendment Act 1997 | 18 of 1997 | 8 Jul 1997 | 8 Jul 1997
 Reprint of the State Trading Concerns Act 1916 as at 18 Aug 1997 (includes amendments listed above)
 State Trading Concerns Amendment Act 1999 | 45 of 1999 | 7 Dec 1999 | 7 Dec 1999 (see s. 2)
 Reprint 3: The State Trading Concerns Act 1916 as at 6 Feb 2004 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 6, 9 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Repealed by the Acts Amendment (Western Australian Meat Commission) Act 1975.
 Under the Acts Amendment (Meat Industry) Act 1985 s. 37, a reference to the Western Australian Meat Commission in a written law, in relation to its meat marketing operations, was, unless the context was such that it would be inappropriate, to be read as a reference to the Western Australian Meat Marketing Corporation. The Western Australian Meat Marketing Corporation has not existed since the Marketing of Meat Act 1971 expired as a result of the amendment made to it by the Marketing of Meat Amendment Act 1999 s. 14.
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.

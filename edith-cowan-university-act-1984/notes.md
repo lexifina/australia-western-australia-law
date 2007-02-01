@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 August 2006 of the Edith Cowan University Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Edith Cowan University Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Western Australian College of Advanced Education Act 1984 | 18 of 1984 | 31 May 1984 | 1 Sep 1984 (see s. 2 and Gazette 24 Aug 1984 p. 2567)
@@ -26,7 +26,8 @@ Reprint 3: The Edith Cowan University Act 1984 as at 20 Aug 2004 (includes amend
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Universities Legislation Amendment Act 2005 Pt. 3 | 8 of 2005 | 7 Jul 2005 | 13 Aug 2005 (see s. 2 and Gazette 12 Aug 2005 p. 3651)
 Reprint 4: The Edith Cowan University Act 1984 as at 11 Aug 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 40 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
@@ -57,12 +58,12 @@ The Universities Legislation Amendment Act 2005 s. 16 reads as follows:
 “
 16.Transitional provision
 (1) In this section —
-“commencement day” means the day on which the Universities Legislation Amendment Act 2005 comes into operation;
-“deleted section 9(1)(g) or (h)” means the Edith Cowan University Act 1984 section 9(1)(g) or (h) as those provisions were in effect immediately before commencement day;
-“member” means a member of the Council of the Edith Cowan University.
+commencement day means the day on which the Universities Legislation Amendment Act 2005 comes into operation;
+deleted section 9(1)(g) or (h) means the Edith Cowan University Act 1984 section 9(1)(g) or (h) as those provisions were in effect immediately before commencement day;
+member means a member of the Council of the Edith Cowan University.
 (2) The persons who, immediately before commencement day, were members under deleted section 9(1)(g) or (h) cease to be members on commencement day.
 ”.
-On the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 40 had not come into operation. It reads as follows:
+On the date on which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 40 had not come into operation. It reads as follows:
 “
 40.Edith Cowan University Act 1984 amended
 The Edith Cowan University Act 1984 is amended as follows:

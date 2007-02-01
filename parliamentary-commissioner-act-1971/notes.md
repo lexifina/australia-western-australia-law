@@ -103,6 +103,7 @@ Electricity Legislation Amendment Act 2004 Pt. 2 Div. 5 | 33 of 2004 | 20 Oct 20
 State Administrative Tribunal Act 2004 s. 177 | 54 of 2004 | 23 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 4 s. 1325 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -129,7 +130,7 @@ The Corruption and Crime Commission Amendment and Repeal Act 2003 s. 73 reads as
 “
 73.Parliamentary Commissioner must refer certain investigations to CCC
 (1) In this section —
-“records” includes —
+records includes —
 (a)evidence in any form; and
 (b)information and other things.
 (2) On the commencement of this Division the Parliamentary Commissioner must —

@@ -10,3 +10,4 @@ Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 A
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 76 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
 Reprint 2: The Statistics Act 1907 as at 6 Jun 2003 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)

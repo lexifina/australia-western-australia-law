@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 October 2005 of the Curtin University of Technology Act 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Curtin University of Technology Act 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Western Australian Institute of Technology Act 1966 | 94 of 1966 | 12 Dec 1966 | 26 May 1967 (see s. 2 and Gazette 26 May 1967 p. 1363)
@@ -37,7 +37,8 @@ Acts Amendment (Equality of Status) Act 2003 Pt. 16 | 28 of 2003 | 22 May 2003 |
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Universities Legislation Amendment Act 2005 Pt. 2 | 8 of 2005 | 7 Jul 2005 | 13 Aug 2005 (see s. 2 and Gazette 12 Aug 2005 p. 3651)
 Reprint 4: The Curtin University of Technology Act 1966 as at 14 Oct 2005 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnote referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnote referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 38 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
@@ -67,10 +68,10 @@ The Acts Amendment (Educational Institutions Superannuation) Act 1985 s. 8 reads
 8. Rights of members of the former Scheme
 (1) Notwithstanding section 7, where a member of the staff, officer or employee of the Institute was, immediately before the coming into operation of that section, a member of the former Scheme he shall be entitled to continue to be such a member and to retain his accrued rights under the former Scheme and for the purposes of this section the Council shall and is hereby empowered to maintain and continue the former Scheme until the appointed day in order to make financial provision in respect of the retirement, invalidity or death of that person.
 (2) In this section —
-“the appointed day” means such day as may be fixed by the Minister by notice published in the Government Gazette certifying that —
+the appointed day means such day as may be fixed by the Minister by notice published in the Government Gazette certifying that —
 (a)there is no longer a person who is entitled to be a member of the former Scheme; and
 (b)there is no further need for the Council to administer the former Scheme; and
-“the former Scheme” means the Western Australian Institute of Technology Superannuation Scheme established under section 30A of the principal Act as in force before the coming into operation of section 7.
+the former Scheme means the Western Australian Institute of Technology Superannuation Scheme established under section 30A of the principal Act as in force before the coming into operation of section 7.
 ”.
 The Voluntary Membership of Student Guilds and Associations Act 1994 s. 2(2) and (3) are transitional provisions that are of no further effect.
 The Curtin University of Technology Amendment Act 1996 s. 14-26 and 30 are transitional and consequential provisions that are of no further effect.
@@ -78,12 +79,12 @@ The Universities Legislation Amendment Act 2005 s. 5 reads as follows:
 “
 5.Transitional provision
 (1) In this section —
-“commencement day” means the day on which the Universities Legislation Amendment Act 2005 comes into operation;
-“deleted section 9(1)(ia), (j) or (k)” means the Curtin University of Technology Act 1966 section 9(1)(ia), (j) or (k) as those provisions were in effect immediately before commencement day;
-“member” means a member of the Council of the Curtin University of Technology.
+commencement day means the day on which the Universities Legislation Amendment Act 2005 comes into operation;
+deleted section 9(1)(ia), (j) or (k) means the Curtin University of Technology Act 1966 section 9(1)(ia), (j) or (k) as those provisions were in effect immediately before commencement day;
+member means a member of the Council of the Curtin University of Technology.
 (2) The persons who, immediately before commencement day, were members under deleted section 9(1)(ia), (j) or (k) cease to be members on commencement day.
 ”.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 38 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 38 had not come into operation. It reads as follows:
 “
 38.Curtin University of Technology Act 1966 amended
 The Curtin University of Technology Act 1966 is amended as follows:

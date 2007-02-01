@@ -20,11 +20,11 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 129 | 74 of 2003 | 15 Dec 20
 Western Australian Land Authority Amendment Act 2004 Pt. 2 | 67 of 2004 | 8 Dec 2004 | 25 Dec 2004 (see s. 2 and Gazette 24 Dec 2004 p. 6247)
 Reprint 2: The Western Australian Land Authority Act 1992 as at 4 Feb 2005 (includes amendments listed above)
 Land Information Authority Act 2006 s. 119 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 15 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 72 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 15 and 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 The Western Australian Land Authority Amendment Act 1998 s. 19(3) and (4) read as follows:
 “
 (3) Despite subsections (1) and (2), on and from the commencement of this Act —
@@ -82,87 +82,4 @@ As at the date on which this reprint was prepared, the State Superannuation (Tra
 72.Western Australian Land Authority Act 1992 amended
 Clause 2(4) in Schedule 4 to the Western Australian Land Authority Act 1992 is amended by deleting “(including rights under the Superannuation and Family Benefits Act 1938)”.
 ”.
-On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 4, 5, 15 and 17, which gives effect to Sch. 1, had not come into operation. It reads as follows:
-“
-4.References to “Consolidated Fund” changed to “Consolidated Account”
-The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Consolidated Fund” (whether in ordinary type, italics, bold or capitals) in each place where it occurs and inserting instead (in corresponding type) —
-“ Consolidated Account ”.
-Table
-................
-Western Australian Land Authority Act 1992 | s. 36(3)(b) s. 36(4) s. 37(1) s. 38(1)(a) s. 38(5)
-.................
-”.
-5.References to “Fund” and “fund” changed to “Account”
-(1) The Acts listed in the first column of the Table to this subsection are amended in the corresponding provisions listed in the second column by deleting “that Fund” in each place where it occurs and inserting instead —
-“ that Account ”.
-Table
-................
-Western Australian Land Authority Act 1992 | s. 36(3)(b)
-.................
-15.Western Australian Land Authority Act 1992 amended
-(1) The amendments in this section are to the Western Australian Land Authority Act 1992.
-(2) Section 25A(1) is amended as follows:
-(a) by deleting “at the prescribed times,” and inserting instead —
-“ in each year, ”;
-(b) in paragraph (a) before “strategic” by inserting —
-“ draft ”;
-(c) in paragraph (b) before “statement” by inserting —
-“ draft ”.
-(3) After section 25A(1) the following subsections are inserted —
-“
-(1a) The Minister may from time to time, with the concurrence of the Treasurer, by written notice to the board —
-(a) fix a day in each year by which a draft strategic development plan is to be submitted under subsection (1); and
-(b) fix a day in each year by which a draft statement of corporate intent is to be submitted under subsection (1).
-(1b) The Minister may, with the occurrence of the Treasurer, by written notice to the board, cancel a notice given under subsection (1a).
-(1c) Each draft strategic development plan is to be submitted not later than —
-(a) the day fixed under subsection (1a)(a); or
-(b) if there is for the time being no day so fixed — the period prescribed by the regulations before the start of the next financial year.
-(1d) Each draft statement of corporate intent is to be submitted not later than —
-(a) the day fixed under subsection (1a)(b); or
-(b) if there is for the time being no day so fixed — the period prescribed by the regulations before the start of the next financial year.
-”.
-”.
-“
-17.Various Acts amended
-Schedule 1 sets out amendments to various Acts.
-”.
-Schedule 1 cl. 182 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 17]
-182.Western Australian Land Authority Act 1992
-(1) Section 4(1) is amended as follows:
-(a) at the end of the definition of “Treasurer” by deleting the semicolon and inserting a full stop instead;
-(b) by deleting the definition of “Trust Fund”.
-(2) Section 31(1) is repealed and the following subsection is inserted instead —
-“
-(1) In this section —
-“account” means —
-(a)an agency special purpose account established under section 16 of the Financial Management Act 2006; or
-(b)an account held, with the approval of the Treasurer, at a bank as defined in section 3 of that Act.
-”.
-(3) Section 33 is amended by deleting “account held as part of the Trust Fund” and inserting instead —
-“
-agency special purpose account established under section 16 of the Financial Management Act 2006
-”.
-(4) Section 39(1) is amended as follows:
-(a) by deleting “Financial Administration and Audit Act 1985, that Act,” and inserting instead —
-“
-Financial Management Act 2006 or the Auditor General Act 2006, those Acts,
-”;
-(b) by deleting “does not” and inserting instead —
-“ do not ”.
-(5) Section 39(2) is amended by deleting “section 58C of the Financial Administration and Audit Act 1985” and inserting instead —
-“
-sections 81 and 82 of the Financial Management Act 2006
-”.
-(6) Schedule 3A clause 33(2) is amended by deleting “Section 92 of the Financial Administration and Audit Act 1985” and inserting instead —
-“ Section 21 of the Auditor General Act 2006 ”.
-(7) Schedule 3A clause 34(2) is amended as follows:
-(a) by deleting “sections 78 to 80 and 82 to 91 and section 95 of the Financial Administration and Audit Act 1985” and inserting instead —
-“
-sections 14, 16 to 18, 24 to 37, 45 and 46 of the Auditor General Act 2006
-”;
-(b) by deleting “that Act.” and inserting instead —
-“ the Financial Management Act 2006. ”.
-”.
+Lands Titles Office diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).

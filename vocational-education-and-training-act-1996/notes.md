@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Vocational Education and Training Act 1996 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Vocational Education and Training Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Vocational Education and Training Act 1996 | 42 of 1996 | 16 Oct 1996 | Act other than Pt. 7 and Sch. 2: 1 Jan 1997 (see s. 2 and Gazette 12 Nov 1996 p. 6301); balance to be proclaimed
@@ -8,12 +8,13 @@ School Education Act 1999 s. 247 | 36 of 1999 | 2 Nov 1999 | 1 Jan 2001 (see s. 
 Vocational Education and Training Amendment Regulations (No. 2) 1999 r. 3 (see Gazette 5 Nov 1999 p. 5634) | 1 Jan 1997 (see r. 2(2) and Gazette 12 Nov 1996 p. 6301)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 45 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
 Reprint of the Vocational Education and Training Act 1996 as at 11 Jan 2002 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and are not included in this reprint. For the text of the provisions see the endnote referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Vocational Education and Training Act 1996 Pt. 7 and Sch. 2 | 42 of 1996 (as amended by No. 20 of 2002 s. 184) | 16 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2)
-On the date as at which this reprint was prepared, the Vocational Education and Training Act 1996 Pt. 7 and Sch. 2 (as amended by the Labour Relations Reform Act 2002 s. 184) had not come into operation. They read:
+On the date as at which this compilation was prepared, the Vocational Education and Training Act 1996 Pt. 7 and Sch. 2 (as amended by the Labour Relations Reform Act 2002 s. 184) had not come into operation. They read:
 “
 Part 7 — Training schemes
 58.Minister may establish training schemes
@@ -23,7 +24,7 @@ Part 7 — Training schemes
 (b) may take the form of, or include, an apprenticeship.
 (3) A training scheme may provide for training relevant to a particular occupation or to several occupations.
 (4) In this section —
-“apprenticeship” means a training scheme involving a contract between an employer and an employee under which the employer undertakes to train the employee in a particular trade.
+apprenticeship means a training scheme involving a contract between an employer and an employee under which the employer undertakes to train the employee in a particular trade.
 59. Regulations relating to training schemes
 (1) Regulations may provide for any matters necessary for or incidental to the establishment, implementation or recognition of a training scheme and in particular may —
 (a) prescribe the vocations in relation to which a training scheme may operate;
@@ -38,7 +39,7 @@ Part 7 — Training schemes
 (iii) the termination or threatened termination of,
 any such agreement.
 (2) In this section —
-“trainee” means a person receiving vocational education and training under a training scheme.
+trainee means a person receiving vocational education and training under a training scheme.
 60. Inconsistency
 Where a provision of this Part or of a regulation made under section 59 (1) is inconsistent with a provision of the Industrial Relations Act 1979 or any order, award or industrial agreement in force under that Act, the former provision prevails.
 61. Repeal
@@ -73,7 +74,7 @@ an apprenticeship contract or other agreement forming part of a training scheme 
 [(e)deleted]
 2.Transitional
 (1) In this clause —
-“repealed Act” means the Industrial Training Act 1975 repealed by section 61.
+repealed Act means the Industrial Training Act 1975 repealed by section 61.
 (2) On the commencement of section 61 any apprenticeship agreement or industrial training agreement entered into and registered under the repealed Act and in force immediately before that commencement is to be taken to be an agreement entered into under a training scheme established or recognised under section 58 but with the same terms, conditions and provisions as were applicable before that commencement.
 (3) Any regulations made under the repealed Act and in operation immediately before the commencement of section 61 which were applicable to, or in respect of, an apprenticeship or industrial training agreement referred to in subclause (2) are to continue to apply to such an agreement, until regulations are made under this Act in respect of the matters covered by those regulations.
 (4) Regulations may be made, with effect from a time which is not earlier than the commencement of section 61, amending or supplementing the transitional provisions set out in subclauses (2) and (3) for the purpose of providing an effective and efficient transition from the provisions of the repealed Act to the provisions of this Act.
@@ -89,10 +90,10 @@ Despite the repeal of sections 9A(5)(c) and 27C(3) of the Education Act 1928, se
 (2) The Education Minister may borrow moneys under section 9D(1) of the Education Act 1928, as amended by this Act, or section 25C(1) of the University of Notre Dame Australia Act 1989, as amended by this Act, for the purpose of meeting obligations under subsection (1).
 (3) The Vocational Education and Training Minister may borrow moneys under section 17A(1) of the Vocational Education and Training Act 1996, as amended by this Act, for the purpose of meeting obligations under subsection (1).
 (4) In this section —
-“Education Minister” means the Minister in whom the administration of the Education Act 1928 is for the time being committed by the Governor;
-“Vocational Education and Training Minister” means the Minister in whom the administration of the Vocational Education and Training Act 1996 is for the time being committed by the Governor.
+Education Minister means the Minister in whom the administration of the Education Act 1928 is for the time being committed by the Governor;
+Vocational Education and Training Minister means the Minister in whom the administration of the Vocational Education and Training Act 1996 is for the time being committed by the Governor.
 ”.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads:
 “
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.

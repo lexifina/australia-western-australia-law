@@ -1,16 +1,16 @@
 Notes
 This is a compilation of the Planning and Development Act 2005 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
-Short title | Number and year | Assent | Commencement
-Planning and Development Act 2005 | 37 of 2005 | 12 Dec 2005 | Act other than s. 149, 150 and Pt. 13 Div. 3: 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077)
-Swan Valley Planning Legislation Amendment Act 2006 s. 20(3) | 7 of 2006 | 19 Apr 2006 | 18 Jun 2006 (see s. 2 and Gazette 16 Jun 2006 p. 2109)
-Land Information Authority Act 2006 s. 147 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+ | Short title | Number and year | Assent | Commencement
+ | Planning and Development Act 2005 | 37 of 2005 | 12 Dec 2005 | Act other than s. 149, 150 and Pt. 13 Div. 3: 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077)
+ | Swan Valley Planning Legislation Amendment Act 2006 s. 20(3) | 7 of 2006 | 19 Apr 2006 | 18 Jun 2006 (see s. 2 and Gazette 16 Jun 2006 p. 2109)
+ | Land Information Authority Act 2006 s. 147 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) | 37 of 2005 (as amended by No. 60 of 2006 s. 147(4) | 12 Dec 2005 | To be proclaimed (see s. 2)
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) had not come into operation. They read as follows:
 “
 149.Conditions on rural land (tied lots)
@@ -286,52 +286,5 @@ development control area as defined in the Swan and Canning Rivers Management Ac
 development control area as defined in the Swan and Canning Rivers Management Act 2006,
 ”.
 ”.
-On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17, which gives effect to Sch. 1, had not come into operation. They read as follows:
-“
-4.References to “Consolidated Fund” changed to “Consolidated Account”
-The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Consolidated Fund” (whether in ordinary type, italics, bold or capitals) in each place where it occurs and inserting instead (in corresponding type) —
-“ Consolidated Account ”.
-Table
-................
-Planning and Development Act 2005 | s. 201(1) s. 201(2) s. 207(3) s. 207(4)
-.................
-”.
-“
-17.Various Acts amended
-Schedule 1 sets out amendments to various Acts.
-”.
-Schedule 1 cl. 127 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
 [s. 17]
-127.Planning and Development Act 2005
-(1) Section 4(1) is amended as follows:
-(a) by deleting the definition of “Fund”;
-(b) by inserting in the appropriate alphabetical position —
-“
-“MRI Account” means the Metropolitan Region Improvement Account established under section 198;
-”.
-(2) Section 17(6) is amended by deleting “section 66 of the Financial Administration and Audit Act 1985.” and inserting instead —
-“ Part 5 of the Financial Management Act 2006. ”.
-(3) Section 198(1) is amended by deleting “a fund called the Metropolitan Region Improvement Fund is established as an account forming part of the Trust Fund constituted under section 9 of the Financial Administration and Audit Act 1985.” and inserting instead —
-“
-an agency special purpose account called the Metropolitan Region Improvement Account is established under section 16 of the Financial Management Act 2006.
-”.
-(4) Section 201(2) is amended by deleting “Improvement Fund” and inserting instead —
-“ Improvement Account ”.
-(5) The provisions listed in the Table to this subclause are amended by deleting “Fund” in each place where it occurs and inserting instead —
-“ MRI Account ”.
-Table
-s. 198(2) | s. 199(1)
-s. 198(3) | s. 199(2)
-(6) Section 203(2) is amended by deleting the passage from and including “held — ” to the end of the subsection and inserting instead —
-“
-that is to be established —
-(a) as an agency special purpose account under section 16 of the Financial Management Act 2006; or
-(b) with the approval of the Treasurer, at a bank as defined in section 3 of that Act.
-”.
-(7) Section 208 is amended by deleting “Financial Administration and Audit Act 1985” and inserting instead —
-“
-Financial Management Act 2006 and the Auditor General Act 2006
-”.
-”.
+Lands Titles Office diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).

@@ -19,6 +19,7 @@ Coal Mines Legislation Amendment and Revival Act 1998 Pt. 2-3 | 59 of 1998 | 31 
 Reprint of the Coal Miners’ Welfare Act 1947 as at 21 Dec 2001 (includes amendments listed above)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Coal Miners’ Welfare Amendment Act 2006 | 17 of 2006 | 17 May 2006 | 1 Jan 2007 (see s. 2)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Section 48A of the Limitation Act 1935 (No. 35 of 1935) was inserted by s. 5 of the Limitation Act Amendment Act 1954 (No. 73 of 1954).
 Section 5 of the Limitation Act Amendment Act 1954, and consequently s. 48A of the Limitation Act 1935, commenced on 1 March 1955.
 The Limitation Act 1935 s. 48A(2) reads as follows:

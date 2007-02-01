@@ -60,6 +60,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 11: The Motor Vehicle (Third Party Insurance) Act 1943 as at 2 Dec 2005 (includes amendments listed above)
 Motor Vehicle (Third Party Insurance) Amendment Act 2006 | 15 of 2006 | 17 May 2006 | Act other than s. 5: 17 May 2006 (see s. 2(1)); s. 5: 1 Jul 2006 (see s. 2(2) and Gazette 16 Jun 2006 p. 2109)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 For the purposes of s. 3C and 3D, the Amounts A, B, C and D for the financial years beginning after 30 June 1994 up to the date of this reprint are as set out in this Table.
 Financial year beginning | Amount A | Amount B | Amount C | Amount D | Gazette
 1 July 1994 | $201 000 | $10 000 | $30 000 | $5 000 | 24 Jun 1994 p. 2944

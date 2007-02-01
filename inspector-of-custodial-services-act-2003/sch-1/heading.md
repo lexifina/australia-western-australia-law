@@ -1,22 +1,27 @@
-## Schedule 1 — Financial Administration and Audit Act 1985 application to the office of the Inspector
+## Schedule 1 — Application of Financial Management Act 2006 to office of the Inspector
 [s. 38]
-For the purposes of section 38 of this Act, the Financial Administration and Audit Act 1985 Part II Division 14 is to be read as follows —
+[Heading inserted by No. 77 of 2006 s. 17.]
+For the purposes of section 38 of this Act, the Financial Management Act 2006 Part 5 Division 2 is to be read as follows —
 “
-Division 14 — Reports of accountable officer of Office of Inspector of Custodial Services
-66.Accountable officer of Office of Inspector of Custodial Services to report to Parliament
-(1) The accountable officer of the Office of the Inspector of Custodial Services shall cause to be prepared, as part of the report referred to in the Inspector of Custodial Services Act 2003 section 33(2), an annual report containing —
-(a) financial statements for the relevant financial year;
-(b) performance indicators and such other information as may be directed by the Treasurer’s Instructions; and
-(c) a report on the operations of the Office during the relevant financial year.
-(2) Unless the Treasurer otherwise approves, the financial statements referred to in subsection (1)(a) shall be prepared on an accrual accounting basis and shall consist of —
-(a) a statement of financial transactions of the Office for the relevant financial year;
-(b) a statement of the financial position of the Office at the end of the relevant financial year;
-(c) proper and adequate notes to the financial statements; and
-(d) such other financial statements and information as may be directed by the Treasurer’s Instructions.
-(2a) The financial statements referred to in subsection (2) shall —
-(a) present fairly the financial transactions of the Office during the financial year to which they relate;
-(b) where a statement of financial position at the end of the financial year is required to be prepared, present fairly the financial position of the Office at the end of the financial year; and
-(c) be certified in the manner required by the Treasurer’s Instructions.
-(3) A report of operations required to be prepared by subsection (1) shall contain all the information that is required by the Treasurer’s Instructions.
+Division 2 — Reports by accountable authority of office of Inspector of Custodial Services
+61.Reports by accountable authority of office of Inspector of Custodial Services
+(1) The accountable authority of the office of the Inspector of Custodial Services is to prepare, as part of the report referred to in the Inspector of Custodial Services Act 2003 section 33(2), an annual report that contains —
+(a) financial statements for the relevant financial year; and
+(b) key performance indicators; and
+(c) a report on the operations of the office during the relevant financial year; and
+(d) any information prescribed by the Treasurer’s instructions; and
+(e) if applicable, the report referred to in subsection (2).
+(2) If the relevant financial year is covered by a resource agreement, the accountable authority of the office of the Inspector of Custodial Services is to include in the annual report a report on the extent to which the office achieved any objectives described in the resource agreement.
+62.Financial statements
+(1) Unless the Treasurer approves otherwise, the financial statements referred to in section 61(1)(a) are to be prepared in accordance with the accounting standards and other requirements issued by the Australian Accounting Standards Board.
+(2) Without limiting subsection (1), the financial statements referred to in section 61(1)(a) —
+(a) are to include any financial statements and information prescribed by the Treasurer’s instructions; and
+(b) are to be certified in the manner prescribed by the Treasurer’s instructions.
+(3) In subsection (1) —
+“Australian Accounting Standards Board” means the body of that name continued in existence under the Commonwealth Australian Securities and Investments Commission Act 2001.
+63.Accountable authority to submit financial reports and other information
+The accountable authority of the office of the Inspector of Custodial Services is to submit to the Auditor General —
+(a) the financial statements and key performance indicators referred to in section 61(1)(a) and (b); and
+(b) any other information referred to in section 61(1)(d) that is required by the Treasurer’s instructions to be submitted to the Auditor General under this section.
 ”.
-[Schedule 1 amended by No. 5 of 2005 s. 41(4).]
+[Schedule 1 inserted by No. 77 of 2006 s. 17.]

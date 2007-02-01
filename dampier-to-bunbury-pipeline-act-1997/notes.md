@@ -8,6 +8,7 @@ Gas Corporation (Business Disposal) Act 1999, sections 41 to 44, 70 to 72, 87 an
 Statutes (Repeals and Minor Amendments) Act 2000, section 14(13) | 24 of 2000 | 4 July 2000 | 4 July 2000 (see section 2) | This amendment does not have effect because the section it would have amended was repealed by Act No. 65 of 1998 s.89
 Statute (Repeals and Minor Amendments) Act 2003 s. 10(2) | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Short title changed to the Public Works Act 1902, and section 33A repealed, by the Acts Amendment (Land Administration) Act 1997 (No. 31 of 1997).
 Clause 4(2) of Schedule 3 to the Gas Pipelines Access (Western Australia) Act 1998 (No. 65 of 1998) reads as follows —
 “
@@ -25,7 +26,7 @@ Clause 9 of Schedule 3 of the Gas Pipelines Access (Western Australia) Act 1998 
 (i) matters in progress; and
 (ii) dispute proceedings that have been begun.
 (3) In this clause —
-“repealed access scheme” means —
+repealed access scheme means —
 (a)Part 5 of the principal Act repealed by clause 7;
 (b)Schedule 1 to that Act repealed by clause 8;
 (c)the Dampier to Bunbury Pipeline Regulations 1998; and

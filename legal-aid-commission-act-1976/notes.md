@@ -29,6 +29,7 @@ Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 M
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Reprint 4: The Legal Aid Commission Act 1976 as at 20 May 2005 (includes amendments listed above)
 Legal Aid Commission Amendment Act 2006 | 27 of 2006 | 26 Jun 2006 | 26 Jun 2006 (see s. 2)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

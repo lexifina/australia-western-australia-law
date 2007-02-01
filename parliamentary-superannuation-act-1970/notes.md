@@ -21,6 +21,7 @@ Acts Amendment (Lesbian and Gay Law Reform) Act 2002 Pt. 17 | 3 of 2002 | 17 Apr
 Reprint 3: The Parliamentary Superannuation Act 1970 as at 4 Apr 2003 (includes amendments listed above)
 Superannuation Legislation Amendment and Validation Act 2006 Pt. 2 | 18 of 2006 | 31 May 2006 | 31 May 2006 (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 7 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Repealed by the Salaries and Allowances Tribunal Act 1975 s. 13.
 The Parliamentary Superannuation Legislation Amendment Act 2000 s. 8(2) reads as follows:
 “

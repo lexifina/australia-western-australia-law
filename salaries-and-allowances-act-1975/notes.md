@@ -43,6 +43,7 @@ Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 200
 Electoral Amendment and Repeal Act 2005 s. 10 | 1 of 2005 | 20 May 2005 | 20 May 2005 (see s. 2)
 Reprint 4: The Salaries and Allowances Act 1975 as at 10 Jun 2005 (includes amendments listed above)
 Parliamentary Legislation Amendment Act 2006 Pt. 3 | 56 of 2006 | 16 Nov 2006 | 17 Nov 2006 (see s. 2)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 The provision in this Act repealing the Parliamentary Salaries and Allowances Act 1967 was repealed by the Parliamentary Superannuation Legislation Amendment Act 2000 s. 22.
 Now see section 52 of the Interpretation Act 1984.
 The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:

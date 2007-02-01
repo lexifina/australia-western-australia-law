@@ -19,6 +19,7 @@ Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 O
 Trustees Amendment Act 1997 s. 18 | 1 of 1997 | 6 May 1997 | 16 Jun 1997 (see s. 2 and Gazette 10 Jun 1997 p. 2661)
 Reprint of the Queen Elizabeth II Medical Centre Act 1966 as at 3 Aug 2001 (includes amendments listed above)
 Health Legislation Amendment Act 2004 Pt 5 | 61 of 2004 | 24 Nov 2004 | 24 Nov 2004 (see s. 2)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Repealed by the Cancer Council of Western Australia Act Repeal Act 1982.
 Now known as the Queen Elizabeth II Medical Centre Act 1966; short title changed (see note under s. 1).
 The Health Legislation Amendment Act 2004 s. 18 reads as follows:

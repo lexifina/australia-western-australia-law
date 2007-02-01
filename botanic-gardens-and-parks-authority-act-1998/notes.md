@@ -9,4 +9,5 @@ Reprint 1: The Botanic Gardens and Parks Authority Act 1998 as at 13 Jun 2003 (i
 Sentencing Legislation Amendment and Repeal Act 2003 s. 39 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 (see Gazette 15 Aug 2003 p. 3685-92) | 15 Sep 2003 (see r. 2)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 The provision in this Act consequentially amending other Acts has been omitted under s. 7(4)(e) of the Reprints Act 1984.

@@ -15,4 +15,10 @@ Trustees Amendment Act 1997 s. 18 | 1 of 1997 | 6 May 1997 | 16 Jun 1997 (see s.
 School Education Act 1999 s. 247 | 36 of 1999 | 2 Nov 1999 | 1 Jan 2001 (see s. 2 and Gazette 29 Dec 2000 p. 7904)
 Universities Legislation Amendment Act 2000 s. 18 | 75 of 2000 | 7 Dec 2000 | 13 Jan 2001 (see s. 2(1) and Gazette 12 Jan 2001 p. 245)
 Reprint of the Public Education Endowment Act 1909 as at 4 Jan 2002 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Marginal notes in the Public Education Endowment Act 1909 referring to the University Endowment Act 1904 have been omitted from this and later reprints.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+chief executive officer of the department1A
+purposes of public education1A

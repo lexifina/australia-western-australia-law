@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 February 2006 of the Workers’ Compensation and Injury Management Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Workers’ Compensation and Injury Management Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Workers’ Compensation and Assistance Act 1981 | 86 of 1981 | 23 Nov 1981 | 3 May 1982 (see s. 2 and Gazette 8 Apr 1982 p. 1205)
@@ -55,7 +55,8 @@ Reprint 6: The Workers’ Compensation and Injury Management Act 1981 as at 5 Au
 Workers’ Compensation Legislation Amendment Act 2005 Pt. 3, 4 and s. 32 | 16 of 2005 | 27 Sep 2005 | s. 30(1) and (2): 1 Jul 2005 (see s. 2(2)); s. 30(3): 27 Sep 2005 (see s. 2(1)); Pt. 3 and s. 32: 14 Nov 2005 (see s. 2(3))
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 9 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
 Reprint 7: The Workers’ Compensation and Injury Management Act 1981 as at 3 Feb 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 (as amended by No. 42 of 2004 s. 155) | 25 Oct 1996 | To be proclaimed (see s. 2)
@@ -73,7 +74,7 @@ The effect of this section was removed by the Western Australian Marine Act 1982
 The Workers’ Compensation (Common Law Proceedings) Act 2004 Pt. 2 may also be relevant.
 Repealed by the Interpretation Act 1984.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 (as amended by the Workers’ Compensation Reform Act 2004 s. 174) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 (as amended by the Workers’ Compensation Reform Act 2004 s. 174) had not come into operation. It reads as follows:
 “
 74.Workers’ Compensation and Injury Management Act 1981 amended
 Section 201(2) of the Workers’ Compensation and Injury Management Act 1981 is amended by deleting “or the Superannuation and Family Benefits Act 1938”.
@@ -427,7 +428,7 @@ The Workers’ Compensation Legislation Amendment Act 2005 s. 30(3) reads as fol
 (a) any compensation paid under the relevant clause before this Act received the Royal Assent is to be deducted; and
 (b) if an apportionment of compensation has been determined or agreed in relation to compensation under the relevant clause before this Act receives the Royal Assent, any compensation payable under the relevant clause after this Act receives the Royal Assent is to be apportioned in a like manner.
 ”.
-On the date as at which this reprint was prepared, the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16 (as amended by the Workers’ Compensation Reform Act 2004 s. 155(2)(a)) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16 (as amended by the Workers’ Compensation Reform Act 2004 s. 155(2)(a)) had not come into operation. It reads as follows:
 “
 Schedule 1 — Consequential amendments to other Acts
 16.Workers’ Compensation and Rehabilitation Act 1981
@@ -437,7 +438,7 @@ Section 162(1) | Delete “State Government Insurance Commission”, substitute 
 Section 163 | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
 [Item 16 amended by No. 42 of 2004 s. 155(2)(a).]
 ”.
-On the date as at which this reprint was prepared, the Chiropractors Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Chiropractors Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
 Schedule 3 sets out consequential amendments.

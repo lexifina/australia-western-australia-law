@@ -8,6 +8,7 @@ Corporations (Consequential Amendments) Act 2001 Pt. 46 | 10 of 2001 | 28 Jun 20
 Public Transport Authority Act 2003 Pt. 8 Div. 4 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
 Reprint 1: The Rail Freight System Act 2000 as at 21 Jan 2005 (includes amendments listed above)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 The provisions in this Act amending other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Government Railways (Access) Act 1998 the short title of which was changed to the Railways (Access) Act 1998 by s. 62 of this Act. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the National Rail Corporation Agreement Repeal Act 1999.

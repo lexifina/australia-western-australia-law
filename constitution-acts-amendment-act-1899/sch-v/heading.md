@@ -28,7 +28,7 @@ Western Australian Gas Disputes Arbitrator appointed under section 62 of the Gas
 [Division 1 inserted by No. 78 of 1984 s. 14; amended by No. 97 of 1986 s. 40; No. 21 of 1987 s. 11; No. 28 of 1989 s. 33(3); No. 15 of 1991 s. 22(a); No. 44 of 1991 s. 3; No. 34 of 1992 s. 85; No. 37 of 1992 s. 39(a); No. 1 of 1995 s. 23(a); No. 2 of 1996 s. 61; No. 65 of 1998 s. 89; No. 34 of 1999 s. 61; No. 77 of 2003 s. 73; No. 55 of 2004 s. 1324; No. 59 of 2004 s. 141.]
 ## Division 2
 [Heading inserted by No. 32 of 1994 s. 9(a).]
-Auditor General appointed under the Financial Administration and Audit Act 1985.
+Auditor General appointed under the Auditor General Act 2006.
 Agent General appointed under the Agent General Act 1895.
 Chief executive officer of an agency within the meaning of the Public Sector Management Act 1994.
 Clerk of the Legislative Assembly.
@@ -46,7 +46,7 @@ Parliamentary Inspector of the Corruption and Crime Commission appointed under t
 Senior executive officer within the meaning of the Public Sector Management Act 1994.
 Solicitor-General appointed under the Solicitor-General Act 1969.
 A prescribed office within the meaning of the Salaries and Allowances Act 1975.
-[Division 2 inserted by No. 32 of 1994 s. 9(a); amended by No. 57 of 1997 s. 70; No. 43 of 1999 s. 20; No. 55 of 2000 s. 10; No. 20 of 2002 s. 109; No. 67 of 2003 s. 62; No. 75 of 2003 s. 56(1).]
+[Division 2 inserted by No. 32 of 1994 s. 9(a); amended by No. 57 of 1997 s. 70; No. 43 of 1999 s. 20; No. 55 of 2000 s. 10; No. 20 of 2002 s. 109; No. 67 of 2003 s. 62; No. 75 of 2003 s. 56(1); No. 77 of 2006 s. 17.]
 [Division 3 repealed by No. 32 of 1994 s. 9(a).]
 ## Part 2
 [Heading inserted by No. 78 of 1984 s. 14.]

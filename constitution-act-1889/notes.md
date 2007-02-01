@@ -25,13 +25,14 @@ Statutes (Repeals and Minor Amendments) Act (No. 2) 1998, section 76 | 10 of 199
 Electoral Amendment Act 2000 section 22 | 36 of 2000 | 10 Oct 2000 | Proclaimed 21 Oct 2000 (see section 2(1) and Gazette 20 Oct 2000 p.5899)
 Constitution (Parliamentary Privileges) Amendment Act 2004 Pt. 2 | 41 of 2004 | 3 Nov 2004 | 3 Nov 2004 (see s. 2)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 3 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 5(1) | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 N.B.:The Constitution Act 1889 was or is affected by —
 An Act to augment Ministerial Salaries. 55 Vict. No. 23 (1892). (Repealed by 60 Vict. No. 18.)
 The Officers of Parliament Act 1893. (56 Vict. No. 17). (Repealed by 63 Vict. No. 19.)
 Constitution Acts Amendment Act 1933. (No. 25 of 1933). (Amended by Act No. 46 of 1963, s.10. Repealed by Act No. 57 of 1965.)
 Constitution Acts Amendment (Temporary) Act 1934. (No. 3 of 1934). (Expired on 31 December 1934 (see section 4). Repealed by Act No. 57 of 1965.)
 Judges’ Retirement Act 1937. (No. 8 of 1937).
-Constitution Acts Amendment Act 1942. (No. 29 of 1942). (Amended by Act No. 45 of 1950 and Act No. 46 of 1963, s.10. Repealed by Act No. 57 of 1965.)
+Constitution Acts Amendment Act 1942. (No. 29 of 1942). (Amended by Act No. 45 of 1950 and Act No. 46 of 1963, s. 10. Repealed by Act No. 57 of 1965.)
 Queen Victoria.
 This provision ceased to operate on 18 October 1893. See s.43.
 Now see Electoral Act 1907 (No. 27 of 1907), s.64.

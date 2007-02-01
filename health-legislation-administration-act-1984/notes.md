@@ -10,6 +10,7 @@ Mental Health (Consequential Provisions) Act 1996 Pt. 9 | 69 of 1996 | 13 Nov 19
 Statutes (Repeals and Minor Amendments) Act 1997 s. 69 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
 Reprint of the Health Legislation Administration Act 1984 as at 11 Jan 2002 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Under the Interpretation Act 1984 s. 16, a reference to the Industrial Arbitration Act 1979 may be read as a reference to the Industrial Relations Act 1979. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Repealed by the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).

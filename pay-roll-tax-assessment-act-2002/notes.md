@@ -8,6 +8,7 @@ Revenue Laws Amendment and Repeal Act 2004 Pt. 3 | 12 of 2004 | 29 Jun 2004 | 29
 Revenue Laws Amendment (Tax Relief) Act 2004 | 82 of 2004 | 8 Dec 2004 | Pt. 2 Div. 1 & 2: 1 Jan 2005 (see s. 2(2)); Pt. 2 Div. 3: 1 Jul 2006 (see s. 2(3))
 Revenue Laws Amendment Act 2005 Pt. 2 | 11 of 2005 | 30 Aug 2005 | 18 May 2005 (see s. 2(2))
 Reprint 1: The Pay-roll Tax Assessment Act 2002 as at 6 Jan 2006 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 The Revenue Laws Amendment (Tax Relief) Act 2004 s. 5(6) reads as follows:
 “
 (6) The amendments made by this section do not affect an exemption given before the coming into operation of this section.

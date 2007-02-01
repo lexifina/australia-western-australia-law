@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 October 2006 of the Government Employees’ Housing Act 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Government Employees’ Housing Act 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Government Employees’ Housing Act 1964 | 95 of 1964 (13 Eliz. II No. 95) | 14 Dec 1964 | 2 Aug 1965 (see s. 2 and Gazette 23 Jul 1965 p. 2133)
@@ -18,6 +18,7 @@ Acts Amendment (Equality of Status) Act 2003 Pt. 25 | 28 of 2003 | 22 May 2003 |
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 10 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 2: The Government Employees’ Housing Act 1964 as at 13 Oct 2006 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 The Government Employees’ Housing Amendment Act 1987 s. 4(2) reads as follows:
 “
 (2) The appointment of the holder of an office specified in section 8(2) of the principal Act as in force immediately before the coming into operation of this section is hereby determined.
@@ -58,3 +59,4 @@ In this Division —
 (b)the Government Employees’ Housing Authority established by section 8 of the Government Employees’ Housing Act 1964 as in force before commencement;
 “Housing Authority” means the Housing Authority referred to in section 6(4) of the Housing Act 1980 as in force after commencement.
 ”.
+The amendment to s. 25 in the Financial Legislation Amendment and Repeal Act 2006 s. 17, which gives effect to Sch. 1 cl.77, is not included because the section it sought to amend was repealed by the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 306.

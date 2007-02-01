@@ -40,6 +40,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Universities Legislation Amendment Act 2005 Pt. 6 | 8 of 2005 | 7 Jul 2005 | 13 Aug 2005 (see s. 2 and Gazette 12 Aug 2005 p. 3651)
 Reprint 4: The University of Western Australia Act 1911 as at 18 Nov 2005 (includes amendments listed above)
 Statute Law Revision Act 2006 s. 9 | 37 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Repealed by Interpretation Act 1984 s. 77(1).
 The Acts Amendment (Student Guilds and Associations) Act 1983 s. 7 reads as follows:
 “
@@ -61,10 +62,10 @@ The Universities Legislation Amendment Act 2005 s. 53 reads as follows:
 “
 53.Transitional provisions
 (1) In this section —
-“commencement day” means the day on which the Universities Legislation Amendment Act 2005 comes into operation;
-“new section 8(1)” means the University of Western Australia Act 1911 section 8(1) as that provision is in effect on commencement day;
-“repealed section 10” means the University of Western Australia Act 1911 section 10 as that provision was in effect immediately before commencement day;
-“Senate” means the University of Western Australia Senate.
+commencement day means the day on which the Universities Legislation Amendment Act 2005 comes into operation;
+new section 8(1) means the University of Western Australia Act 1911 section 8(1) as that provision is in effect on commencement day;
+repealed section 10 means the University of Western Australia Act 1911 section 10 as that provision was in effect immediately before commencement day;
+Senate means the University of Western Australia Senate.
 (2) The persons who, immediately before commencement day, were members of the Senate under repealed section 10(a) continue in office as members of the Senate under new section 8(1)(a) on and from commencement day.
 (3) The persons who, immediately before commencement day, were members of the Senate under repealed section 10(b) or (e) continue in office as members of the Senate under new section 8(1)(b) on and from commencement day.
 (4) The persons who, immediately before commencement day, were members of the Senate under repealed section 10(c) continue in office as members of the Senate under new section 8(1)(c) on and from commencement day.

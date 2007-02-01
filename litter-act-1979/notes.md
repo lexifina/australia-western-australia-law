@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 25 August 2006 of the Litter Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Litter Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Litter Act 1979 | 81 of 1979 | 11 Dec 1979 | 9 May 1980 (see s. 2 and Gazette 9 May 1980 p. 1446)
@@ -32,5 +32,6 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
  | Reprint 4: The Litter Act 1979 as at 25 Aug 2006 (includes amendments listed above)
+ | Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Repealed by the Associations Incorporation Act 1987.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.

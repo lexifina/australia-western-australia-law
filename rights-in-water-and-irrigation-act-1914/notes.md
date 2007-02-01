@@ -49,13 +49,10 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Water Legislation Amendment (Competition Policy) Act 2005 Pt. 6 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
 Reprint 7: The Rights in Water and Irrigation Act 1914 as at 4 Jul 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 151 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 The short title of the Water Authority Act 1984 was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 commenced 1 January 1996.
-Under the Public Sector Management Act 1994, the names of departments can be changed. At the time of this reprint, the former Department of Land Administration is called the Department of Land Information.
+Footnote no longer applicable.
 Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Minerals and Energy is read and construed as a reference to the department of the Public Service with the designation “Department of Industry and Resources”, unless the contrary intention appears in the law or the context of the reference otherwise requires.
 Marginal notes in the Rights in Water and Irrigation Act 1914 referring to earlier Western Australian legislation and to legislation of other jurisdictions have been omitted from this reprint.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
@@ -156,26 +153,4 @@ the Tribunal may exercise the power referred to in the Rights in Water and Irrig
 (3) If the Corporation receives, before the commencement day, a notice in accordance with the RWI Act section 39F(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the relevant entry to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the RWI Act section 39F(1).
 (4) If the Corporation receives, before the commencement day, a notice in accordance with the RWI Act section 39G(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the decision to refuse to extend time to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the RWI Act section 39G(1).
 (5) If a notice has been given under the RWI Act section 39E(7) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
-”.
-On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17, which gives effect to Sch. 1, had not come into operation. They read as follows:
-“
-4.References to “Consolidated Fund” changed to “Consolidated Account”
-The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Consolidated Fund” (whether in ordinary type, italics, bold or capitals) in each place where it occurs and inserting instead (in corresponding type) —
-“ Consolidated Account ”.
-Table
-................
-Rights in Water and Irrigation Act 1914 | Schedule 1 cl. 39(9)
-.................
-”.
-“
-17.Various Acts amended
-Schedule 1 sets out amendments to various Acts.
-”.
-Schedule 1 cl. 150 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 17]
-150.Rights in Water and Irrigation Act 1914
-Schedule 1 clause 12(5) is amended by deleting “section 66 of the Financial Administration and Audit Act 1985.” and inserting instead —
-“ Part 5 of the Financial Management Act 2006. ”.
 ”.

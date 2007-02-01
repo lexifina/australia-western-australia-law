@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 October 2005 of the Water and Rivers Commission Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Water and Rivers Commission Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Water and Rivers Commission Act 1995 | 71 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
@@ -10,3 +10,4 @@ Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 20
  | Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
  | Statutes (Repeals and Minor Amendments) Act 2003 s. 126 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
  | Reprint 1: The Water and Rivers Commission Act 1995 as at 7 Oct 2005 (includes amendments listed above)
+ | Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)

@@ -21,5 +21,6 @@ Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 20
 Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 171 | 35 of 2003 | 26 Jun 2003 | 30 Jan 2004 (see s. 2 and Gazette 30 Jan 2004 p. 397)
 Reprint 3: The Casino Control Act 1984 as at 2 Apr 2004 (includes amendments listed above)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 The Acts Amendment and Validation (Casino Control) Act 1985 s. 44 is a validation provision.
 The Acts Amendment (Gaming) Act 1998 s. 6(2) and 11(2) are transitional provisions that are of no further effect.

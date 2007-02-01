@@ -51,18 +51,15 @@ Sentencing Legislation Amendment and Repeal Act 2003 s. 83 | 50 of 2003 | 9 Jul 
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 104 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Land Information Authority Act 2006 s. 148 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Formerly referred to the Director of Agriculture, the name of whom was changed to the Director General of Agriculture by the Agriculture Act 1988 s. 16. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 In this compilation the renumbering of sections effected in the 1943 reprint (in volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
 Formerly referred to the Horticultural Produce Commission Act 1988 the short title of which was changed to the Agricultural Produce Commission Act 1988 by the Horticultural Produce Commission Amendment Act 2000 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Under the Public Sector Management Act 1994 the names of offices may be changed. This formerly read “Under Secretary for Lands” and on a previous reprint it was changed under the Reprints Act 1984 s. 7(3)(h). At the time of this reprint the chief executive officer of the Department of Land Administration is called the Chief Executive.
+Footnote no longer applicable.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to “chief executive officer”. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Alteration of Statutory Designations Order (No. 2) 2001 a reference in a written law to the Department of Mines is read and construed as a reference to the Department of Mineral and Petroleum Resources.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Lands and Surveys is called the Department of Land Administration and its administrative head is called the Chief Executive. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
+Footnote no longer applicable.
 The Second Schedule was inserted by the Metric Conversion Amendment Act 1973.
 The Plant Diseases Amendment and Repeal Act 1981 s. 6(2) and (3) and s. 14 read as follows:
 “
@@ -112,24 +109,3 @@ On 30 June 1994 —
 The failure of any Committee, appointed under section 12C of the principal Act and in existence at any time during the period commencing on 1 July 1986 and ending on the commencement of this Act, to comply with Division 14 of Part II of the Financial Administration and Audit Act 1985 during that period is condoned.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 17, which gives effect to Sch. 1, had not come into operation. It reads as follows:
-“
-17.Various Acts amended
-Schedule 1 sets out amendments to various Acts.
-”.
-Schedule 1 cl. 128 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 17]
-128.Plant Diseases Act 1914
-(1) Section 35AA(1) is repealed and the following subsection is inserted instead —
-“
-(1) An agency special purpose account called the Plant Diseases Modified Penalties Revenue Account (in this section and section 35AB referred to as the “Account”) is established under section 16 of the Financial Management Act 2006.
-”.
-(2) The provisions listed in the Table to this subclause are amended by deleting “Fund” and inserting instead —
-“ Account ”.
-Table
-s. 35(9) | s. 35AB(2)
-s. 35AA(2) | s. 35AB(3)
-s. 35AB(1)
-”.

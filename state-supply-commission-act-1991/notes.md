@@ -11,5 +11,6 @@ Corporations (Consequential Amendments) Act 2001 s. 220 and 221 | 10 of 2001 | 2
 Reprint of the State Supply Commission Act 1991 as at 7 Jun 2002 (includes amendments listed above)
 Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 13 | 70 of 2003 | 15 Dec 2003 | 21 Apr 2004 (see s. 2 and Gazette 20 Apr 2004 p. 1297)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 10 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 The State Supply Commission Amendment Act (No. 2) 1994 s. 7(2) and (3) were transitional provisions that are of no further effect.

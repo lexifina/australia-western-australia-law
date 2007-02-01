@@ -48,6 +48,7 @@ Workers’ Compensation Reform Act 2004 s. 161 | 42 of 2004 | 9 Nov 2004 | 14 No
  | Reprint 5: The Hospitals and Health Services Act 1927 as at 26 Aug 2005 (includes amendments listed above except those in the Workers’ Compensation Reform Act 2004 s. 161)
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
  | Hospitals and Health Services Amendment Act 2006 | 45 of 2006 | 4 Oct 2006 | 4 Oct 2006 (see s. 2)
+ | Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

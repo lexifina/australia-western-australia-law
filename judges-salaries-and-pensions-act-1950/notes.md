@@ -37,6 +37,7 @@ Acts Amendment (Equality of Status) Act 2003 Pt. 33 | 28 of 2003 | 22 May 2003 |
 Reprint 5: The Judges’ Salaries and Pensions Act 1950 as at 19 Sep 2003 (includes amendments listed above)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 98-105 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Acts Amendment (Court of Appeal) Act 2004 s. 35 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 5(2) | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnote referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
