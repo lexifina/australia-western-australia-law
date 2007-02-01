@@ -6,7 +6,7 @@ Swan and Canning Rivers Management Act 2006 s. 1-2 | 51 of 2006 | 6 Oct 2006 | 6
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Swan and Canning Rivers Management Act 2006 s. 3-7, Pt. 2-10 and Sch. 1-8 | 51 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
+Swan and Canning Rivers Management Act 2006 s. 3-7, Pt. 2-10 and Sch. 1-8 | 51 of 2006 (as amended by No. 77 of 2006 s. 17) | 6 Oct 2006 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Swan and Canning Rivers Management Act 2006 s. 3-7, Pt. 2-10 and Sch. 1-8 had not come into operation. They read as follows:
 “
 3.Terms used in this Act
@@ -363,7 +363,8 @@ The functions of the Trust are —
 (7) If land is leased under a power conferred under this section, the lessee may, unless the terms of the lease otherwise provide, restrict public access to the area leased.
 (8) If the Minister and the Minister to whom the administration of the Marine and Harbours Act 1981 is committed so approve, in respect of a lease granted under this section or referred to in the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 section 14 —
 (a) the department responsible for administering the Marine and Harbours Act 1981 may manage the lease as an agent of the Trust; and
-(b) with the approval of the Treasurer, revenue derived from the lease may be credited to an operating account of the department established and administered under the Financial Administration and Audit Act 1985.
+(b) with the approval of the Treasurer, revenue derived from the lease may be credited to an agency special purpose account of the department established and maintained under the Financial Management Act 2006 section 16.
+[Section 29 amended by No. 77 of 2006 s. 17.]
 30.Failure to comply with terms or conditions of lease
 (1) If a River reserve lessee fails to comply with any term or condition of the lease the Trust may give the lessee a default notice in accordance with this section.
 (2) A default notice given under subsection (1) must —
@@ -433,7 +434,8 @@ Penalty:
 (9) This section does not apply to the execution of documents but the authority to execute documents on behalf of the Trust can be given under section 46.
 34.Minister may give directions
 (1) The Minister may give written directions to the Trust with respect to the exercise or performance of its functions, either generally or in relation to a particular matter, and the Trust must give effect to any such direction.
-(2) The text of a direction under subsection (1) must be included in the annual report submitted by the accountable authority of the Trust under the Financial Administration and Audit Act 1985 section 66.
+(2) The text of a direction under subsection (1) must be included in the annual report submitted by the accountable authority of the Trust under the Financial Management Act 2006 Part 5.
+[Section 34 amended by No. 77 of 2006 s. 17.]
 35.Minister to have access to information
 (1) In this section —
 “document” includes any tape, disc or other device or medium on which information is recorded or stored;
@@ -489,14 +491,17 @@ Division 5 — Financial provisions
 (b) any other moneys lawfully received by, made available to, or payable to, the Trust under this Act or any other written law.
 (3) Where any moneys or property, including moneys or property representing a gift by will, have been accepted by the Trust upon lawful conditions, it must apply the moneys or property in accordance with those conditions.
 42.Swan River Trust Account
-(1) The funds referred to in section 41 must be credited to an account called the “Swan River Trust Account” —
-(a) forming part of the Trust Fund constituted under the Financial Administration and Audit Act 1985 section 9; or
-(b) with the Treasurer’s approval, at a bank as defined in the Financial Administration and Audit Act 1985 section 3(1).
+(1) An account called the Swan River Trust Account is to be established —
+(a) as an agency special purpose account under the Financial Management Act 2006 section 16; or
+(b) with the approval of the Treasurer, at a bank as defined in section 3 of that Act,
+to which the funds referred to in section 41 must be credited.
 (2) All expenditure incurred by the Trust for the purposes of performing its functions under this Act, including the repayment of moneys borrowed by the Trust under section 45, is to be charged to the Account and moneys standing to the credit of that Account must be applied only for the purposes of this Act.
+[Section 42 amended by No. 77 of 2006 s. 17.]
 43.Temporary investment of moneys
 If section 42(1)(b) applies, moneys standing to the credit of the Account may, until required by the Trust for the purposes of this Act, be temporarily invested by the Trust in such manner as the Treasurer approves.
-44.Application of Financial Administration and Audit Act 1985
-The provisions of the Financial Administration and Audit Act 1985 regulating the financial administration, audit and reporting of statutory authorities apply to and in relation to the Trust and its operations.
+44.Application of Financial Management Act 2006 and Auditor General Act 2006
+The provisions of the Financial Management Act 2006 and the Auditor General Act 2006 regulating the financial administration, audit and reporting of statutory authorities apply to and in relation to the Trust and its operations.
+[Section 44 amended by No. 77 of 2006 s. 17.]
 45.Power to borrow from Treasurer
 The Trust may borrow from the Treasurer such amounts as the Treasurer approves on such conditions relating to repayment, payment of interest or any other matter as the Treasurer imposes.
 Division 6 — Miscellaneous
@@ -665,7 +670,8 @@ and
 (b) to make recommendations to the Minister as to changes to the prescribed ecological and community benefits and amenity targets and strategic documents.
 (2) The Trust may, by notice in writing, require a public authority to provide, within such reasonable time as is specified in the notice, such information as the Trust may reasonably require to assist it in carrying out its functions under subsection (1).
 (3) A public authority must comply with a request under subsection (2).
-(4) Any report under subsection (1) must be included in the annual report submitted by the accountable authority of the Trust under the Financial Administration and Audit Act 1985 section 66.
+(4) Any report under subsection (1) must be included in the annual report submitted by the accountable authority of the Trust under the Financial Management Act 2006 Part 5.
+[Section 66 amended by No. 77 of 2006 s. 17.]
 Part 5 — Development in development control area
 67.Definitions
 In this Part, unless the contrary intention appears —
@@ -1293,16 +1299,18 @@ The functions of the Foundation are —
 130.Powers
 The Foundation has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
 131.Financial arrangements
-(1) Funds received by the Foundation must be credited to an account called the Swan and Canning Rivers Foundation Account —
-(a) forming part of the Trust Fund constituted under the Financial Administration and Audit Act 1985 section 9; or
-(b) with the Treasurer’s approval, at a bank as defined in the Financial Administration and Audit Act 1985 section 3(1).
+(1) An account called the Swan and Canning Rivers Foundation Account is to be established —
+(a) as an agency special purpose account under the Financial Management Act 2006 section 16; or
+(b) with the approval of the Treasurer, at a bank as defined in section 3 of that Act,
+to which the funds received by the Foundation must be credited.
 (2) The Foundation Account is to be charged with all expenditure lawfully incurred by the Foundation in the performance of its functions.
 (3) Moneys standing to the credit of the Foundation Account —
 (a) are subject to the direction and control of the Trust; and
 (b) may be transferred to the Trust for the purposes of carrying this Act into effect or otherwise applied for the purposes of the Trust or the Foundation.
 (4) The operation of the Foundation Account is to be regarded as —
-(a) a service under the control of the Trust for the purposes of the Financial Administration and Audit Act 1985 section 54; and
-(b) part of the operations of the Trust for the purposes of Part II Division 14 of that Act.
+(a) a service under the control of the Trust for the purposes of the Financial Management Act 2006 section 52; and
+(b) part of the operations of the Trust for the purposes of Part 5 of that Act.
+[Section 131 amended by No. 77 of 2006 s. 17.]
 132.Rules
 (1) The Minister may, on the recommendation of the Trust, make rules that are necessary or convenient for giving effect to this Part.
 (2) Without limiting subsection (1), the rules may —
