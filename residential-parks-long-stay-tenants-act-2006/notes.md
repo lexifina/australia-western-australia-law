@@ -6,7 +6,7 @@ Residential Parks (Long-stay Tenants) Act 2006 s. 1 and 2 | 32 of 2006 | 4 Jul 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Number and year | Assent | Commencement
-Residential Parks (Long-stay Tenants) Act 2006 s. 3-9. Pt. 2-6, Sch. 1, 2 and Glossary | 32 of 2006 | 4 Jul 2006 | To be proclaimed (see s. 2)
+Residential Parks (Long-stay Tenants) Act 2006 s. 3-9. Pt. 2-6, Sch. 1, 2 and Glossary | 32 of 2006 (as amended by No. 77 of 2006 s. 4) | 4 Jul 2006 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Residential Parks (Long-stay Tenants) Act 2006 s. 3-9. Pt. 2-6, Sch. 1, 2 and Glossary had not come into operation. They read as follows:
 “
 3.Glossary of terms used in this Act
@@ -677,7 +677,8 @@ In this Division —
 (1) Any amount (excluding costs) recovered by the Commissioner in proceedings to which the Commissioner is a party under section 79 belongs and must be paid to the original party without deduction.
 (2) Any amount awarded against the original party is payable by and recoverable from the original party.
 (3) The costs of the proceedings must be borne by or paid to and retained by the Commissioner, as the case requires.
-(4) Any amount that the Commissioner becomes liable to pay as a result of the operation of this section is charged to the Consolidated Fund, and the Consolidated Fund is appropriated accordingly.
+(4) Any amount that the Commissioner becomes liable to pay as a result of the operation of this section is charged to the Consolidated Account, and the Consolidated Account is appropriated accordingly.
+[Section 83 amended by No. 77 of 2006 s. 4.]
 Part 6 — Other matters
 84.Commissioner
 (1) The Minister is required, by notice published in the Gazette, to designate a person who is an executive officer of the Department as the Commissioner for the purposes of this Act.
