@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 September 2006 of the Anzac Day Act 1960 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Anzac Day Act 1960 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Anzac Day Act 1960 | 73 of 1960 (9 Eliz. II No. 73) | 12 Dec 1960 | 12 Dec 1960
@@ -20,3 +20,4 @@ Anzac Day Amendment Act 2003 | 62 of 2003 | 26 Nov 2003 | 26 Nov 2003 (see s. 2)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 3: The Anzac Day Act 1960 as at 15 Sep 2006 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)

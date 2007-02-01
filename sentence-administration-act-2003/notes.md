@@ -7,6 +7,7 @@ Criminal Code Amendment Act 2004 s. 5 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (s
 Sentencing Legislation Amendment Act 2004 Pt. 2 Div. 2 | 27 of 2004 | 14 Oct 2004 | 31 May 2006 (see s. 2 and Gazette 30 May 2006 p. 1965)
 Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
 Parole and Sentencing Legislation Amendment Act 2006 Pt. 2 and 7 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
+Financial Legislation Amendment and Repeal Act 2006 s. 6 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

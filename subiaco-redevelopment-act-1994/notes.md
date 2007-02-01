@@ -18,6 +18,7 @@ Subiaco Redevelopment (Subtracted Area) Regulations 2005 r. 3 published in Gazet
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 2: The Subiaco Redevelopment Act 1994 as at 2 Jun 2006 (includes amendments listed above)
 Subiaco Redevelopment (Subtracted Area - Stage 2) Regulations 2006 r. 3 published in Gazette 17 Nov 2006 p. 4764-8 | 31 Jan 2007 (see r. 3(2) and Gazette 30 Jan 2007 p. 218)
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Under section 112(1) of the Public Sector Management Act 1994 references to the Public Service Act 1978 may be construed as references to the Public Sector Management Act 1994 (No. 31 of 1994).
 The Planning Legislation Amendment Act 1996 s. 39(2), (3) and (4) read as follows:
 “

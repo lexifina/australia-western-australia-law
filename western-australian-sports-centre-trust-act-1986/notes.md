@@ -11,6 +11,7 @@ Equal Opportunity Amendment Act (No. 3) 1997 s. 8 | 42 of 1997 | 9 Dec 1997 | 6 
 Reprint of the Western Australian Sports Centre Trust Act 1986 as at 22 Mar 2002 (includes amendments listed above)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 5 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 On the date on which this reprint was prepared, provisions referred to in the following table had not come into operation and are not included in this reprint. For the text of the provisions see the endnote referred to after the short title.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 February 2006 of the Library Board of Western Australia Act 1951 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Library Board of Western Australia Act 1951 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Library Board of Western Australia Act 1951 | 42 of 1951 | 20 Dec 1951 | 30 Sep 1952 (see s. 2 and Gazette 26 Sep 1952 p. 2358)
@@ -25,7 +25,8 @@ State Records (Consequential Provisions) Act 2000 Pt. 6 | 53 of 2000 | 28 Nov 20
 Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Reprint 4: The Library Board of Western Australia Act 1951 as at 10 Feb 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 54 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
@@ -39,7 +40,7 @@ The State Records (Consequential Provisions) Act 2000 Pt. 6 Div. 2 reads as foll
 Division 2 — Transitional provisions
 13.Interpretation
 (1) In this Division —
-“commencement” means the commencement of the State Records Act 2000.
+commencement means the commencement of the State Records Act 2000.
 (2) In this Division, unless the contrary intention appears, words and expressions have the same definitions as in the State Records Act 2000.
 14.State archives to continue as such
 (1) If immediately before commencement a record was a State archive under the Library Board of Western Australia Act 1951, then on commencement the record is to be taken to be a State archive for the purposes of the State Records Act 2000.
@@ -70,7 +71,7 @@ If immediately before commencement an agreement is in force under section 26 of 
 19.Applications to restrict access to archives not limited
 This Division does not limit any right to apply under section 37(2)(b) of the State Records Act 2000 in respect of a State archive that immediately before commencement was a State archive under the Library Board of Western Australia Act 1951.
 ”.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 54 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 54 had not come into operation. It reads as follows:
 “
 54.Library Board of Western Australia Act 1951 amended
 The Library Board of Western Australia Act 1951 is amended as follows:

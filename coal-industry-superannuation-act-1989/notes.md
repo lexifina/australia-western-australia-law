@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 August 2006 of the Coal Industry Superannuation Act 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Coal Industry Superannuation Act 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Coal Industry Superannuation Act 1989 | 28 of 1989 | 12 Dec 1989 | 1 Jul 1990 (see s. 2 and Gazette 22 Jun 1990 p. 3027)
@@ -12,6 +12,7 @@ Coal Industry Superannuation Act Amendment Order 2000 published in Gazette 29 Se
 Reprint of the Coal Industry Superannuation Act 1989 as at 8 Dec 2000 (includes amendments listed above)
 Coal Industry Superannuation Amendment Act 2006 | 16 of 2006 | 17 May 2006 | 14 Jun 2006
 Reprint 2: The Coal Industry Superannuation Act 1989 as at 4 Aug 2006 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 The Acts Amendment (Coal Mining Industry) Act 1994 s. 8(2) is a transitional provision that is of no further effect.
 The Coal Industry Superannuation Amendment Act 1995 s. 8(2) is a transitional provision that is of no further effect.

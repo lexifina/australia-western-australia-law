@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 September 2006 of the Insurance Commission of Western Australia Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Insurance Commission of Western Australia Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 State Government Insurance Commission Act 1986 | 51 of 1986 | 5 Aug 1986 | 1 Jan 1987 (see s. 2 and Gazette 19 Dec 1986 p. 4859)
@@ -17,7 +17,8 @@ Insurance Commission of Western Australia Amendment Act 2002 | 34 of 2002 | 20 N
 Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 5 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 2: The Insurance Commission of Western Australia Act 1986 as at 8 Sep 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 6(a), 13, 14, 20-22, 24, 25, 27 and 28 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
@@ -44,7 +45,7 @@ The Insurance Commission of Western Australia Amendment Act 2002 s. 10 reads as 
 10.Transition and savings
 The functions conferred on the Insurance Commission of Western Australia by section 6(ca) and (e) of the Insurance Commission of Western Australia Act 1986 as amended by this Act are taken always to have been functions of the Commission.
 ”.
-On the date as at which this reprint was prepared, the Acts Amendment (ICWA) Act 1996 s. 6(a), 13, 14, 20-22, 24, 25, 27 and 28 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Acts Amendment (ICWA) Act 1996 s. 6(a), 13, 14, 20-22, 24, 25, 27 and 28 had not come into operation. They read as follows:
 “
 6.Section 3 amended
 (a) by deleting the definitions of “board of directors”, “Corporation”, “debt paper” and “director of the Corporation”;
@@ -78,7 +79,7 @@ Schedule 2 to the principal Act is repealed.
 28.Schedule 4 repealed
 Schedule 4 to the principal Act is repealed.
 ”.
-On the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 50 had not come into operation. It reads as follows:
+On the date on which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 50 had not come into operation. It reads as follows:
 “
 50.Insurance Commission of Western Australia Act 1986 amended
 Clause 16(2) of Schedule 4 to the Insurance Commission of Western Australia Act 1986 is amended by deleting “(including, if he is a contributor under the Superannuation and Family Benefits Act 1938, his rights under that Act)”.

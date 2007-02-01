@@ -26,5 +26,6 @@ Dairy Industry and Herd Improvement Legislation Repeal Act 2000 s. 21 | 25 of 20
 Reprint of the Stock (Brands and Movement) Act 1970 as at 7 Dec 2001 (includes amendments listed above)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Now known as the Stock (Identification and Movement) Act 1970; short title changed (see note under s. 1).
 The Third Schedule was inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.

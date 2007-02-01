@@ -9,7 +9,7 @@ The Electoral Commissioner within the meaning of the Electoral Act 1907 to the e
 The Deputy Electoral Commissioner within the meaning of the Electoral Act 1907.
 The Commissioner for Equal Opportunity appointed under the Equal Opportunity Act 1984.
 The Director of Equal Opportunity in Public Employment appointed under the Equal Opportunity Act 1984.
-The Auditor General appointed under the Financial Administration and Audit Act 1985 to the extent of the Auditor General’s functions other than that of chief executive officer of the department of the Public Service known as the Office of the Auditor General.
+The Auditor General appointed under the Auditor General Act 2006 to the extent of the Auditor General’s functions other than that of chief executive officer of the department of the Public Service known as the Office of the Auditor General.
 The Information Commissioner under the Freedom of Information Act 1992.
 The Inspector of Custodial Services under the Inspector of Custodial Services Act 2003.
 The Parliamentary Commissioner for Administrative Investigations and the Deputy Commissioner for Administrative Investigations under the Parliamentary Commissioner Act 1971.
@@ -18,4 +18,4 @@ Racing and Wagering Western Australia established under section 4 of the Racing 
 Any Royal Commission constituted under the Royal Commissions Act 1968 and any member of a Royal Commission.
 The Solicitor-General appointed under the Solicitor-General Act 1969.
 The State Administrative Tribunal established under the State Administrative Tribunal Act 2004.
-[Schedule 1 inserted by No. 78 of 1996 s. 20; amended by No. 65 of 1998 s. 89; No. 43 of 1999 s. 20; No. 55 of 2000 s. 12; No. 35 of 2003 s. 22; No. 67 of 2003 s. 62; No. 74 of 2003 s. 91(20); No. 75 of 2003 s. 56(1); No. 78 of 2003 s. 72; No. 54 of 2004 s. 177.]
+[Schedule 1 inserted by No. 78 of 1996 s. 20; amended by No. 65 of 1998 s. 89; No. 43 of 1999 s. 20; No. 55 of 2000 s. 12; No. 35 of 2003 s. 22; No. 67 of 2003 s. 62; No. 74 of 2003 s. 91(20); No. 75 of 2003 s. 56(1); No. 78 of 2003 s. 72; No. 54 of 2004 s. 177; No. 77 of 2006 s. 17.]

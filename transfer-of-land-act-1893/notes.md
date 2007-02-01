@@ -64,11 +64,11 @@ Reprint 7: The Transfer of Land Act 1893 as at 6 May 2005 (includes amendments l
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Land Information Authority Act 2006 s. 103-118 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997 (No. 30 of 1997).
 The Transfer of Land Amendment Act 1996 s. 6(2) reads as follows:
 “
@@ -269,13 +269,4 @@ and the proprietors of the freehold in the land (the “proprietors”) wish to 
 Section 167 is amended by deleting “or 166A” and inserting instead —
 “ , 166A or 166C ”.
 ”.
-On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 4 had not come into operation. It reads as follows:
-“
-4.References to “Consolidated Fund” changed to “Consolidated Account”
-The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Consolidated Fund” (whether in ordinary type, italics, bold or capitals) in each place where it occurs and inserting instead (in corresponding type) —
-“ Consolidated Account ”.
-Table
-................
-Transfer of Land Act 1893 | s. 126(1)(b)s. 165s. 181(1)(c) s. 190 s. 201 s. 204 s. 208 s. 210
-.................
-”.
+The amendment to s. 190 in the Financial Legislation Amendment and Repeal Act 2006 s. 4 is not included because the section it sought to amend was replaced by the Land Information Authority Act 2006 s. 115.

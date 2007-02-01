@@ -6,7 +6,16 @@ Chevron-Hilton Hotel Agreement Act 1960 | 20 of 1960 | 6 Oct 1960 | 28 Oct 1960 
 Chevron-Hilton Hotel Agreement Act Amendment Act 1964 | 54 of 1964 | 30 Nov 1964 | 30 Nov 1964
 Financial Administration Legislation Amendment Act 1993 s. 11 and 13 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
 Reprint of the Chevron-Hilton Hotel Agreement Act 1960 as at 11 Oct 2002 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Repealed by the Liquor Act 1970 which was repealed by the Liquor Licensing Act 1988.
 Repealed by the Swan River Conservation Act Amendment Act 1966.
 The name of the State Government Insurance Office was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8.
 Repealed by the State Government Insurance Commission Act 1986 the short title of which was changed to the Insurance Commission of Western Australia Act 1986 by the Acts Amendment (ICWA) Act 1996 s. 5.
+Department of Lands and Surveys plans are now held by the Western Australian Land Information Authority (see Land Information Authority Act 2006 s. 100).
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Agreement3
+Company,3
+Council,3
+Trustees3

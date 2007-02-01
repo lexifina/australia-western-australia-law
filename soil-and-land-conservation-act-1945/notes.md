@@ -45,6 +45,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 7: The Soil and Land Conservation Act 1945 as at 19 May 2006 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div. 7 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 6 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Under the Alteration of Statutory Designations Order 2006, a reference in any law to the Department of Agriculture is read and construed as a reference to the department of the Public Service with the designation “Department of Agriculture and Food”, unless the contrary intention appears in the law or the context of the reference otherwise requires.
 At the time this compilation was prepared, the Minister was called the Minister for Agriculture and Food.
 Repealed by the Conservation and Land Management Act 1984 s. 147.

@@ -8,6 +8,7 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 1: The Perth Parking Management Act 1999 as at 28 Oct 2005 (includes amendments listed above)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 21(2) and (3) read as follows:
 “
 (2) The balance of the Perth Parking Licensing Account as it was before this section came into operation is to be the opening balance of the account of that name established under the Perth Parking Management Act 1999 section 23(1) as amended by subsection (1).

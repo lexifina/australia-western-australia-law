@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 September 2006 of the Regional Development Commissions Act 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Regional Development Commissions Act 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Regional Development Commissions Act 1993 | 53 of 1993 | 22 Dec 1993 | 8 Apr 1994 (see s. 2 and Gazette 8 Apr 1994 p. 1462)
@@ -15,6 +15,7 @@ Regional Development Commissions Amendment Act 2003 | 5 of 2003 | 24 Mar 2003 | 
 Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 5 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 2: The Regional Development Commissions Act 1993 as at 15 Sep 2006 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Regional Development Commissions Amendment Act 2003 s. 4(2) reads as follows:

@@ -10,4 +10,5 @@ Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
 Reprint of the Warehousemen’s Liens Act 1952 as at 2 Aug 2002 (includes amendments listed above)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Marginal notes in the Warehousemen’s Liens Act 1952 referring to legislation of other jurisdictions have been omitted from this reprint.

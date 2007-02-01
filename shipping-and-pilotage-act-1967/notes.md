@@ -18,6 +18,7 @@ Port Authorities (Consequential Provisions) Act 1999 s. 21 (Sch. 1-8) and 24 | 5
 Reprint of the Shipping and Pilotage Act 1967 as at 18 Jan 2002 (includes amendments listed above)
 Reprint 3: The Shipping and Pilotage Act 1967 as at 21 Mar 2003
 Statutes (Repeals and Minor Amendments) Act 2003 s. 110 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -45,18 +46,18 @@ The amendments in this Act are to the Shipping and Pilotage Act 1967.
 Section 3 is amended as follows:
 (a) by inserting in the appropriate alphabetical positions —
 “
-“CEO” means the chief executive officer of the Department;
-“controlled area” means an area of water outside a port that is declared under section 10(1c) to be an area in which pilotage services are to be used;
-“marine safety plan” has the meaning given to that term in section 7B(1);
-“pilotage area” means a port or a controlled area;
+CEO means the chief executive officer of the Department;
+controlled area means an area of water outside a port that is declared under section 10(1c) to be an area in which pilotage services are to be used;
+marine safety plan has the meaning given to that term in section 7B(1);
+pilotage area means a port or a controlled area;
 ”;
 (b) by deleting the definitions of “harbour master” and “port” and inserting instead —
 “
-“harbour master” of a port means —
+harbour master of a port means —
 (a)a harbour master of the port appointed under section 4; or
 (b)an acting harbour master of the port appointed under the Interpretation Act 1984 section 52(1)(b); or
 (c)a deputy harbour master of the port appointed under section 7A when performing a function of the harbour master as authorised by section 7A(2), (3) or (5);
-“port” means an area of water, or land and water, for the time being declared to be a port under section 10(1).
+port means an area of water, or land and water, for the time being declared to be a port under section 10(1).
 ”.
 5.Section 4 replaced
 Section 4 is repealed and the following section is inserted instead —
@@ -85,17 +86,17 @@ Before section 8 the following section is inserted —
 “
 7B.Marine safety plans
 (1) In this section —
-“marine department” means the department of the Public Service principally assisting the Minister administering the Marine and Harbours Act 1981 in the administration of that Act;
-“marine safety plan” means a plan prepared by the safety operator for an MSP area and approved by the CEO setting out the arrangements for marine safety in the MSP area;
-“MSP area” means an area of water, or land and water, declared to be an MSP area under this section;
-“safety operator” has the meaning given to that term in subsection (4).
+marine department means the department of the Public Service principally assisting the Minister administering the Marine and Harbours Act 1981 in the administration of that Act;
+marine safety plan means a plan prepared by the safety operator for an MSP area and approved by the CEO setting out the arrangements for marine safety in the MSP area;
+MSP area means an area of water, or land and water, declared to be an MSP area under this section;
+safety operator has the meaning given to that term in subsection (4).
 (2) For the purposes of this section, the CEO may, by notice published in the Gazette, declare an area of water, or land and water, to be an MSP area.
 (3) An MSP area cannot include —
 (a) any land or water that is outside a port or outside any controlled area outside a port; or
 (b) any land that is controlled or managed by the marine department; or
 (c) any part of a mooring control area or fishing boat harbour; or
 (d) any land or water where the marine department controls and manages shipping movements and the use of facilities provided for shipping.
-(4) If under subsection (2) the CEO declares an MSP area, the CEO must, by notice published in the Gazette, designate a person as the “safety operator” for the MSP area.
+(4) If under subsection (2) the CEO declares an MSP area, the CEO must, by notice published in the Gazette, designate a person as the safety operator for the MSP area.
 (5) In designating a person as the safety operator for an MSP area the CEO must take into account —
 (a) the ability of the person to undertake the functions of a safety operator; and
 (b) the views of the person, or persons, who control or manage shipping movements, and the use of facilities provided for shipping, in the MSP area.
@@ -117,7 +118,7 @@ the chief executive officer of the marine department is to have, maintain and im
 “ pilotage area. ”.
 (2) Section 9(2)(a) is deleted and the following paragraphs are inserted instead —
 “
-(a) provide for the issue of a licence to a person to act as a pilot for a pilotage area specified in the licence (a “pilot’s licence”);
+(a) provide for the issue of a licence to a person to act as a pilot for a pilotage area specified in the licence (a pilot’s licence);
 (aa) provide for the period for which a pilot’s licence has effect;
 (ab) provide for the imposition of conditions on a pilot’s licence and for the revocation or amendment of conditions so imposed;
 (ac) prescribe procedures and prerequisites for, and other matters relating to, the issue or renewal of a pilot’s licence;
@@ -155,8 +156,8 @@ specified in the regulations in relation to that port.
 (3) Section 10(3) is repealed and the following subsections are inserted instead —
 “
 (3) In subsections (4) and (5) —
-“existing port” means a port specified in the Schedule repealed by the Shipping and Pilotage Amendment Act 2006 section 14;
-“regulations” means regulations made for the purposes of subsection (1).
+existing port means a port specified in the Schedule repealed by the Shipping and Pilotage Amendment Act 2006 section 14;
+regulations means regulations made for the purposes of subsection (1).
 (4) An area declared to be a port by the initial regulations is taken to be the same port as an existing port of the same name even if it is bounded by different limits.
 (5) If —
 (a) the initial regulations divide an existing port into 2 or more ports; or
@@ -216,3 +217,4 @@ After section 11 the following section is inserted —
 (d) the proclamation about the port of Varanus Island published in the Gazette 18 April 1986;
 (e) the proclamation varying the boundaries of Port Walcott published in the Gazette 17 November 1989.
 ”.
+Lands and Surveys plans are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).

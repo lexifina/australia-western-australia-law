@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 22 September 2006 of the Rates and Charges (Rebates and Deferments) Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rates and Charges (Rebates and Deferments) Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Rates and Charges (Rebates and Deferments) Act 1992 | 31 of 1992 | 19 Jun 1992 | 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2643)
@@ -20,7 +20,8 @@ Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 No
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 8 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Revenue Laws Amendment Act 2006 Pt. 5 | 31 of 2006 | 4 Jul 2006 | 1 Jul 2006 (see s. 2(5))
 Reprint 2: The Rates and Charges (Rebates and Deferments) Act 1992 as at 22 Sep 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 8 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Residential Parks (Long-stay Tenants) Act 2006 s. 98 | 32 of 2006 | 4 Jul 2006 | To be proclaimed (see s. 2)
@@ -57,7 +58,7 @@ The Rates and Charges (Rebates and Deferments) Amendment Act 2005 s. 16 reads as
 16.Transitional
 If an eligible person who holds a relevant interest in land of a kind referred to in section 29A or 29B of the Rates and Charges (Rebates and Deferments) Act 1992 registers an entitlement in respect of land under section 32 of that Act after 30 June 2005 and before 1 October 2005, section 40 of that Act applies to that person as if the entitlement had been registered at the commencement of the charged period.
 ”.
-On the date as at which this reprint was prepared, the Residential Parks (Long-stay Tenants) Act 2006 s. 98, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Residential Parks (Long-stay Tenants) Act 2006 s. 98, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 98.Consequential amendments
 Schedule 2 sets out consequential amendments.

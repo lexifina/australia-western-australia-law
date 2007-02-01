@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 August 2006 of the Energy Coordination Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Energy Coordination Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Energy Coordination Act 1994 | 71 of 1994 | 9 Dec 1994 | 1 Jan 1995 (see s. 2 and Gazette 23 Dec 1994 p. 7069)
@@ -19,6 +19,7 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Financial Administration Legislation Amendment Act 2005 s. 39 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 6 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 3: The Energy Coordination Act 1994 as at 18 Aug 2006 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 The Energy Legislation Amendment Act 2003 Pt. 3 Div. 3 (other than s. 19) reads as follows:
 “
 Part 3 — Amendments to facilitate a contestable retail gas market, and related transitional provisions

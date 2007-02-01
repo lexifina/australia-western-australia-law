@@ -5,3 +5,4 @@ Short title | Number and Year | Assent | Commencement
 Public Transport Authority Act 2003 | 31 of 2003 | 26 May 2003 | Pt. 1 and Pt. 7 Div. 1: 26 May 2003 (see s. 2(2)); balance: 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 12 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)

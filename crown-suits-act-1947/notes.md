@@ -11,6 +11,7 @@ Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 O
 Reprint 2: The Crown Suits Act 1947 as at 9 May 2003 (includes amendments listed above)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 90, 97 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 4 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 The provision in this Act repealing that Act has been omitted under s. 7(4)(f) of the Reprints Act 1984 from this reprint.
 The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 97 reads as follows:
 “

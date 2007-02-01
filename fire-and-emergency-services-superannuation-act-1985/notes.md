@@ -14,6 +14,7 @@ Fire and Emergency Services Authority of Western Australia (Consequential Provis
 Corporations (Consequential Amendments) Act 2001 s. 221 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Reprint of the Fire Brigades Superannuation Act 1985 as at 15 Feb 2002 (includes amendments listed above)
 Fire and Emergency Services Legislation Amendment Act 2002 s 63-73 | 38 of 2002 | 20 Nov 2002 | 30 Nov 2002 (see s. 2 and Gazette 29 Nov 2002 p. 5651-2)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 The Fire Brigades Superannuation Amendment Act 1994 Pt. 3 reads as follows:
 “
 Part 3 — Transitional and consequential provisions

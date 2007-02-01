@@ -30,6 +30,7 @@ Courts Legislation Amendment and Repeal Act 2004 Pt. 7 | 59 of 2004 | 23 Nov 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 4 and s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 5 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Reprint 4: The Children’s Court of Western Australia Act 1988 as at 21 Apr 2006 (includes amendments listed above except those in the Sentencing Legislation Amendment Act 2004 s. 14)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

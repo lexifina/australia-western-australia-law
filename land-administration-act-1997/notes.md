@@ -30,6 +30,7 @@ Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | 1 Dec 2006 (see s
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 13 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
  | Reprint 3: The Land Administration Act 1997 as at 15 Sep 2006 (includes amendments listed above)
  | Land Information Authority Act 2006 s. 139 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+ | Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -38,7 +39,6 @@ Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Ope
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 On the date as at which this reprint was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 “
 4.Section 6A inserted
@@ -418,47 +418,4 @@ Schedule 1 — Consequential amendments
 “
 development control area or Riverpark as defined in the Swan and Canning Rivers Management Act 2006,
 ”.
-”.
-On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17, which gives effect to Sch. 1, had not come into operation. They read as follows:
-“
-4.References to “Consolidated Fund” changed to “Consolidated Account”
-The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Consolidated Fund” (whether in ordinary type, italics, bold or capitals) in each place where it occurs and inserting instead (in corresponding type) —
-“ Consolidated Account ”.
-Table
-................
-Land Administration Act 1997 | s. 10(5)(b) s. 188(1)
-.................
-”.
-“
-17.Various Acts amended
-Schedule 1 sets out amendments to various Acts.
-”.
-Schedule 1 cl. 93 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 17]
-93.Land Administration Act 1997
-(1) Section 8(3) is repealed and the following subsection is inserted instead —
-“
-(3) The Minister may, with the prior approval of the Treasurer, establish under section 16 of the Financial Management Act 2006 an agency special purpose account called the International Program Trust Account for the purposes of the Program.
-”.
-(2) Section 8(7) is amended by deleting “Financial Administration and Audit Act 1985” and inserting instead —
-“
-Financial Management Act 2006 and the Auditor General Act 2006
-”.
-(3) Section 8(8) is amended by deleting “section 52 of the Financial Administration and Audit Act 1985” and inserting instead —
-“ section 52 of the Financial Management Act 2006 ”.
-(4) Section 10(5) is amended as follows:
-(a) in paragraph (a), by deleting “Financial Administration and Audit Act 1985” and inserting instead —
-“ Financial Management Act 2006 ”;
-(b) in paragraph (b), by deleting “section 23A” and inserting instead —
-“ section 23 ”.
-(5) Section 96(2) is amended by deleting “officer of the Department under section 66 of the Financial Administration and Audit Act 1985.” and inserting instead —
-“
-authority of the Department under Part 5 of the Financial Management Act 2006.
-”.
-(6) Section 159(g) is amended by deleting “Financial Administration and Audit Act 1985,” and inserting instead —
-“ Financial Management Act 2006, ”.
-(7) Section 160(1)(g) is amended by deleting “Financial Administration and Audit Act 1985” and inserting instead —
-“ Financial Management Act 2006 ”.
 ”.

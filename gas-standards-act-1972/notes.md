@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 July 2006 of the Gas Standards Act 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Gas Standards Act 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Gas Standards Act 1972 | 15 of 1972 | 26 May 1972 | 21 Jul 1972 (see s. 2 and Gazette 21 Jul 1972 p. 2645)
@@ -15,16 +15,17 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 10(5) and 60 | 74 of 2003 | 
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 54 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 3: The Gas Standards Act 1972 as at 7 Jul 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | To be proclaimed (see s. 2)
-The provision in this Act repealing that Act has been omitted from this reprint under the Reprints Act 1984 s. 7(4)(f).
+The provision in this Act repealing that Act has been omitted from this compilation under the Reprints Act 1984 s. 7(4)(f).
 The “appointed day” is 1 Sep 1986 (see Gazette 27 Jun 1986 p. 2202).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, to the extent that it gives effect to Sch. 2 cl. 21, had not come into operation. It has not been, and will not be, proclaimed as the provisions to be amended by cl. 21 (being s. 13B(6)-(8) of this Act) were repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004.
-On the date as at which this reprint was prepared, the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent that it amends this Act, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, to the extent that it gives effect to Sch. 2 cl. 21, had not come into operation. It has not been, and will not be, proclaimed as the provisions to be amended by cl. 21 (being s. 13B(6)-(8) of this Act) were repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004.
+On the date as at which this compilation was prepared, the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent that it amends this Act, had not come into operation. It reads as follows:
 “
 82.References to “defendant” changed to “accused”
 Each provision listed in Table 2, 3 or 4 to this section is amended by deleting any expression listed in Table 1 column 1 in each place it occurs (whether in ordinary type, italics, bold or capitals) and in each place inserting instead (in corresponding type) the expression opposite the deleted expression in Table 1 column 2.

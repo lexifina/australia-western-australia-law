@@ -15,6 +15,7 @@ Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 2 | 20 of 2003 | 23
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 10 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 2: The Associations Incorporation Act 1987 as at 28 Oct 2005 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 The Corporations (Consequential Amendments) Act 2001 s. 11(2) reads as follows:
 “
 (2) Regulations (the “old regulations”) made under section 30(4) (the “old provision”) of the Associations Incorporation Act 1987 as in force immediately before the commencement of subsection (1) of this section continue in force, despite the repeal of the old provision, until regulations are made under section 30(4) of the Associations Incorporation Act 1987 as in force immediately after the commencement of subsection (1) of this section, and any winding up commenced under the old regulations is to be dealt with under the provisions applied by those old regulations.
@@ -60,7 +61,7 @@ Each office in existence immediately before commencement because of section 15(1
 Each office in existence immediately before commencement because of section 5(2)(b) of the Petroleum Products Pricing Act 1983 does not cease merely because that paragraph is deleted by this Act.
 155.Interpretation
 In this Division —
-“commencement” means the time at which this Division comes into operation;
-“Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
-“Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+commencement means the time at which this Division comes into operation;
+Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
+Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.

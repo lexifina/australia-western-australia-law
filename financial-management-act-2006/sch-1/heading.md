@@ -107,6 +107,7 @@ Western Australian Gas Disputes Arbitrator
 Western Australian Greyhound Racing Association
 Western Australian Health Promotion Foundation
 Western Australian Institute of Sport
+Western Australian Land Information Authority
 Western Australian Meat Industry Authority
 Western Australian Planning Commission
 Western Australian Sports Centre Trust
@@ -115,3 +116,4 @@ Western Australian Treasury Corporation
 Wheatbelt Development Commission
 WorkCover Western Australia Authority
 Zoological Parks Authority
+[Schedule 1 amended by No. 77 of 2006 s. 17.]

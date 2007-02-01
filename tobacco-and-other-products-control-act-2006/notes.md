@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Tobacco Products Control Act 2006. The following table contains information about that Act.
+This is a compilation of the Tobacco Products Control Act 2006 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and Year | Assent | Commencement
 Tobacco Products Control Act 2006 | 5 of 2006 | 12 Apr 2006 | Act other than s. 16-25, 26(2), (3) &(4), Pt. 4 and s. 103(2), 105 & 113(3): 31 Jul 2006 (see s. 2 and Gazette 25 Jul 2006 p. 2701)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement

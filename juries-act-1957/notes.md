@@ -43,6 +43,7 @@ Reprint 4: The Juries Act 1957 as at 2 Sep 2005 (includes amendments listed abov
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(2) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Parole and Sentencing Legislation Amendment Act 2006 s. 91 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -63,7 +64,7 @@ Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference to
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference to the Department of Community Services is, unless the contrary is intended, to be read and construed as a reference to the Department of Community Development.
 Under the Public Sector Management Act 1994 the names of departments can be changed. At the time this compilation was prepared the former Department of Police is called the Police Service.
 Repealed by the Nurses Act 1992.
-The Sentencing Legislation Amendment and Repeal Act 1999s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
+The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 contains savings and transitional provisions that are of no further effect.
 The Juries Amendment Act 2003 s. 5(2) is a savings provision that is of no further effect.
 Footnote no longer applicable.

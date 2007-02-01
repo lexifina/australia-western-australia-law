@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 August 2006 of the Racing Penalties (Appeals) Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Racing Penalties (Appeals) Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Racing Penalties (Appeals) Act 1990 | 46 of 1990 | 26 Nov 1990 | 15 Apr 1991 (see s. 2 and Gazette 12 Apr 1991 p. 1597)
@@ -16,6 +16,7 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 58 and 116 | 6
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 16 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 2: The Racing Penalties (Appeals) Act 1990 as at 18 Aug 2006 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 and Pt. 11 Div. 2 read as follows:
 “

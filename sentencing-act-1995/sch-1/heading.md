@@ -1,6 +1,7 @@
 ## Schedule 1
-## Acts, fines under which are not to be credited to the Consolidated Fund
+## Acts, fines under which are not to be credited to the Consolidated Account
 [Section 60(2)]
+[Heading amended by No. 77 of 2006 s. 4.]
 Act | Person or fund to which a fine under the Act is to be paid or credited
 Aboriginal Communities Act 1979 | The council of the community that made the by-law under which the fine was imposed.
 Architects Act 2004 | Architects Board of Western Australia

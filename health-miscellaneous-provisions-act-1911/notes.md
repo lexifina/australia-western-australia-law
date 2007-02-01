@@ -117,13 +117,13 @@ Tobacco Products Control Act 2006 s. 126 | 5 of 2006 | 12 Apr 2006 | 31 Jul 2006
 Health Amendment Act 2006 | 23 of 2006 | 9 Jun 2006 | 7 Jul 2006 (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Land Information Authority Act 2006 s. 135 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988.
 The Health Act Amendment Act 1900 is repealed by section 4 of this Act.
 Section 53B was repealed by the Health Act Amendment Act 1933 (No. 2) s. 6.
@@ -145,7 +145,7 @@ Other proclamations relating to offensive trades are made in the following Gazet
 16 June 1995
 28 June 1996
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993 s. 10(1).
-Under the Public Sector Management Act 1994 the names of departments can be changed. At the time of this reprint the former Department of Lands and Surveys is called the Department of Land Information.
+Footnote no longer applicable.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources.
 Renumbering of sections of the Act and certain Division headings was effected in earlier reprints under the Health Act Amendment Act 1933 (No. 2) s. 42.
 The amendment in the Caravan Park and Camping Grounds Act 1995 s. 33 is not included as the section it sought to amend had been repealed before the amendment purported to come into operation.
@@ -562,26 +562,7 @@ the commission of that offence by the employee.
 When a body corporate is convicted of an offence under this Part or the regulations, every director and every officer concerned in the management of the body corporate commits the same offence if he knowingly authorised or permitted the commission of that offence.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 17, which gives effect to Sch. 1, had not come into operation. It reads as follows:
-“
-17.Various Acts amended
-Schedule 1 sets out amendments to various Acts.
-”.
-Schedule 1 cl. 80 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 17]
-80.Health Act 1911
-(1) Section 246F(4)(a) and “or” after it are deleted and the following is inserted instead —
-“
-(a) in the case of fees paid to or recovered by the Executive Director, Public Health, to an account called the State Meat Inspection Account established as an agency special purpose account under section 16 of the Financial Management Act 2006; or
-”.
-(2) Section 247E is amended by deleting “Financial Administration and Audit Act 1985” and inserting instead —
-“
-Financial Management Act 2006 and the Auditor General Act 2006
-”.
-”.
-On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+Footnote no longer applicable.On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
 Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.

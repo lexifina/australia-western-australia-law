@@ -34,11 +34,11 @@ Reprint 3: The Settlement Agents Act 1981 as at 8 Jul 2005 (includes amendments 
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Land Information Authority Act 2006 s. 158 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 11 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
 “
@@ -68,99 +68,7 @@ In this Part —
 is taken not to be valid, and to never have been valid.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 17, which gives effect to Sch. 1, had not come into operation. It reads as follows:
-“
-17.Various Acts amended
-Schedule 1 sets out amendments to various Acts.
-”.
-Schedule 1 cl. 156 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 17]
-156.Settlement Agents Act 1981
-(1) Section 3(1) is amended as follows:
-(a) by deleting the definition of “ “Fidelity Guarantee Fund” or “Fund” ” and inserting instead —
-“
-“Fidelity Guarantee Account” or “Account” means the account established under section 87;
-”;
-(b) by deleting the definition of “General Purpose Fund” and inserting instead —
-“
-“General Purpose Account” means the Education and General Purpose Account established under section 102A;
-”.
-(2) The provisions listed in the Table to this subclause are amended by deleting “Fund” in each place where it occurs and inserting instead —
-“ Account ”.
-Table
-s. 11 | s. 95(5)
-s. 23(2) | s. 96
-s. 34(2)(b) | s. 97
-s. 71(2) | s. 98(1)
-s. 88 | s. 98(2)
-s. 89(1) | s. 98(3)
-s. 89(2) | s. 100
-s. 90 | s. 101(3)
-s. 92(2) | s. 102A(2)
-s. 93(1) | s. 102B
-s. 93(2) | s. 102C
-s. 94(1) | s. 102D(1)
-s. 95(1) | s. 102D(2)
-s. 95(2) | s. 105(b)
-s. 95(3) | s. 114
-s. 95(4) | s. 123(2)(j)
-(3) Section 12B(2) is amended by deleting “section 66 of the Financial Administration and Audit Act 1985.” and inserting instead —
-“ Part 5 of the Financial Management Act 2006. ”.
-(4) Section 74(3)(b)(ii) and “and” after it are deleted and the following is inserted instead —
-“
-(ii) credit such moneys, or such balance, to a separate agency special purpose account established for the Board under section 16 of the Financial Management Act 2006; and
-”.
-(5) Section 74(4) is amended after “separate” in both places where it occurs by inserting —
-“ agency special purpose ”.
-(6) Section 79(2)(a) is amended by deleting “account to be kept at the Treasury as part of the Trust Fund constituted under section 9 of the Financial Administration and Audit Act 1985;” and inserting instead —
-“
-Treasurer’s special purpose account established under section 10 of the Financial Management Act 2006;
-”.
-(7) Section 79(4) is amended by deleting “account at the Treasury,” and inserting instead —
-“ Treasurer’s special purpose account, ”.
-(8) The heading to Part V is amended by deleting “Fund” and inserting instead —
-“ Account ”.
-(9) Section 87 is repealed and the following section is inserted instead —
-“
-87.Settlement Agents Fidelity Guarantee Account
-An account called the Settlement Agents Fidelity Guarantee Account is to be established —
-(a) as an agency special purpose account under section 16 of the Financial Management Act 2006; or
-(b) with the approval of the Treasurer, at a bank as defined in section 3 of that Act,
-which is to be administered by the Board.
-”.
-(10) Section 89(1) is amended by deleting the passage from and including “as — ” to the end of the subsection and inserting instead —
-“
-as trust funds may be invested in accordance with Part III of the Trustees Act 1962.
-”.
-(11) The heading to Part VA is amended by deleting “Fund” and inserting instead —
-“ Account ”.
-(12) Section 102A(1) is repealed and the following subsection is inserted instead —
-“
-(1) An account called the Education and General Purpose Account is to be established —
-(a) as an agency special purpose account under section 16 of the Financial Management Act 2006; or
-(b) with the approval of the Treasurer, at a bank as defined in section 3 of that Act.
-”.
-(13) Section 102D(1) is amended by deleting the passage from and including “as — ” to the end of the subsection and inserting instead —
-“
-as trust funds may be invested in accordance with Part III of the Trustees Act 1962.
-”.
-(14) Section 103(1) is repealed and the following subsection is inserted instead —
-“
-(1) An account called the Board Interest Account is to be established —
-(a) as an agency special purpose account under section 16 of the Financial Management Act 2006; or
-(b) with the approval of the Treasurer, at a bank as defined in section 3 of that Act.
-”.
-(15) Section 106(1) is amended by deleting the passage from and including “as — ” to the end of the subsection and inserting instead —
-“
-as money standing to the credit of the Public Bank Account may be invested under section 37 of the Financial Management Act 2006.
-”.
-(16) Section 112(1) is amended by deleting “Financial Administration and Audit Act 1985” and inserting instead —
-“
-Financial Management Act 2006 and the Auditor General Act 2006
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 11 had not come into operation. It reads as follows:
 “
 Part 11 — Settlement Agents Act 1981 amended

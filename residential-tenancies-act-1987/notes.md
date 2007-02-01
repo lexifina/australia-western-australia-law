@@ -21,6 +21,7 @@ Courts Legislation Amendment and Repeal Act 2004 Pt. 16 | 59 of 2004 | 23 Nov 20
 Reprint 3: The Residential Tenancies Act 1987 as at 27 May 2005 (includes amendments listed above)
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 20 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

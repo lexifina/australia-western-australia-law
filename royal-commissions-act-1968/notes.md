@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 December 2006 of the Royal Commissions Act 1968 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Royal Commissions Act 1968 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Royal Commissions Act 1968 | 65 of 1968 | 18 Nov 1968 | 18 Nov 1968
@@ -15,3 +15,4 @@ Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Fe
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Royal Commissions (Powers) Amendment Act 2006 Pt. 2 | 30 of 2006 | 4 Jul 2006 | 16 Sep 2006 (see s. 2 and Gazette 15 Sep 2006 p. 3683)
 Reprint 3: The Royal Commissions Act 1968 as at 8 Dec 2006 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)

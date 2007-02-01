@@ -31,6 +31,7 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 86 | 74 of 2003 | 15 Dec 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Murdoch University Act 1973 as at 1 Jul 2005 (includes amendments listed above)
 Universities Legislation Amendment Act 2005 Pt. 4 | 8 of 2005 | 7 Jul 2005 | 13 Aug 2005 (see s. 2 and Gazette 12 Aug 2005 p. 3651)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Now see the Interpretation Act 1984 s. 60.
 Now see the Interpretation Act 1984 Pt. VI.
 The Murdoch University Amendment Act 1980 s. 5 is a validation provision that is of no further effect.
@@ -39,10 +40,10 @@ The Universities Legislation Amendment Act 2005 s. 26 reads as follows:
 “
 26.Transitional provisions
 (1) In this section —
-“commencement day” means the day on which the Universities Legislation Amendment Act 2005 comes into operation;
-“new section 12(1)” means the Murdoch University Act 1973 section 12(1) as that provision is in effect on commencement day;
-“repealed section 12(1)” means the Murdoch University Act 1973 section 12(1) as that provision was in effect immediately before commencement day;
-“Senate” means the Murdoch University Senate.
+commencement day means the day on which the Universities Legislation Amendment Act 2005 comes into operation;
+new section 12(1) means the Murdoch University Act 1973 section 12(1) as that provision is in effect on commencement day;
+repealed section 12(1) means the Murdoch University Act 1973 section 12(1) as that provision was in effect immediately before commencement day;
+Senate means the Murdoch University Senate.
 (2) The persons who, immediately before commencement day, were members of the Senate under repealed section 12(1)(a) continue in office as members of the Senate under new section 12(1)(a) on and from commencement day.
 (3) The persons who, immediately before commencement day, were members of the Senate under repealed section 12(1)(b) or (c) cease to be members of the Senate on commencement day.
 (4) The persons who, immediately before commencement day, were members of the Senate under repealed section 12(1)(d) continue in office as members of the Senate under new section 12(1)(b) on and from commencement day.

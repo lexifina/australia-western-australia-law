@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 October 2006 of the Finance Brokers Control Act 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Finance Brokers Control Act 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Finance Brokers Control Act 1975 | 88 of 1975 | 20 Nov 1975 | 1 Nov 1976 (see s. 2 and Gazette 29 Oct 1976 p. 4103)
@@ -23,7 +23,8 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 3: The Finance Brokers Control Act 1975 as at 5 Aug 2005 (includes amendments listed above except those in the Finance Brokers Control Amendment Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Reprint 4: The Finance Brokers Control Act 1975 as at 13 Oct 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 27 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
@@ -108,7 +109,7 @@ but in respect of which a decision has not been made by the Board before the com
 The amendment in the Finance Brokers Amendment Act 2004 s. 74(2) is not included because the subsection it sought to amend had been replaced by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 before it purported to come into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment in the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 to amend s. 15(2)(c)(iv) is not included because the subsection it sought to amend had been replaced by the Finance Brokers Control Amendment Act 2004 s. 10.
-On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 27 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 27 had not come into operation. It reads as follows:
 “
 27.Finance Brokers Control Act 1975 amended
 (1) The amendment in this section is to the Finance Brokers Control Act 1975.

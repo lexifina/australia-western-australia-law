@@ -121,6 +121,7 @@ Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 2004 published in G
 Road Traffic (Fees for Vehicle Licences) Regulations 2005 published in Gazette 27 May 2005 p. 2306-8 | 31 May 2005 (see r. 2)
 Reprint 9: The Road Traffic Act 1974 as at 10 Mar 2006 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001)
 Road Traffic (Fees for Vehicle Licences) Regulations 2006 published in Gazette 26 May 2006 p. 1885-8 | 31 May 2006 (see r. 2)
+ | Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

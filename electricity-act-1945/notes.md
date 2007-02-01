@@ -28,6 +28,7 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Reprint 6: The Electricity Act 1945 as at 16 Dec 2005 (not including No. 18 of 2005)
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2005 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 6 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

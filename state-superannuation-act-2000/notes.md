@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 August 2006 of the State Superannuation Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the State Superannuation Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 State Superannuation Act 2000 | 42 of 2000 | 2 Nov 2000 | 17 Feb 2001 (see s. 2 and Gazette 16 Feb 2001 p. 903)
@@ -10,6 +10,7 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Superannuation Legislation Amendment and Validation Act 2006 Pt. 35 | 18 of 2006 | 31 May 2006 | 31 May 2006 (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 9 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 1: The State Superannuation Act 2000 as at 18 Aug 2006 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 The Superannuation and Family Benefits Act 1938 and the Government Employees Superannuation Act 1987were repealed by s. 39 of this Act. Certain provisions of those Acts continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
 “

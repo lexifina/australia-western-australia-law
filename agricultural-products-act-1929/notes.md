@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 August 2006 of the Agricultural Products Act 1929 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Agricultural Products Act 1929 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Agricultural Products Act 1929 | 19 of 1929 (20 Geo. V No. 17) | 27 Nov 1929 | 27 Nov 1929
@@ -27,3 +27,4 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 25 | 74 of 2003 | 15 Dec 200
 Marketing of Eggs Amendment Act 2004 s. 6 | 20 of 2004 | 26 Aug 2004 | 2 Jul 2005 (see s. 2(2) and Gazette 28 Jun 2005 p. 2895)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 4: The Agricultural Products Act 1929 as at 4 Aug 2006 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)

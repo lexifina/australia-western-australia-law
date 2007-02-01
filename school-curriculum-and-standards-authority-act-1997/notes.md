@@ -9,4 +9,5 @@ Labour Relations Reform Act 2002 s. 27 | 20 of 2002 | 8 Jul 2002 | 15 Sep 2002 (
 Reprint 1: The Curriculum Council Act 1997 as at 11 Apr 2003 (includes amendments listed above)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 53 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 (see Gazette 15 Aug 2003 p. 3685-92) | 15 Sep 2003 (see r. 2)
- | Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 Pt. 3 | 22 of 2005 | 18 Nov 2005 | 1 Jan 2006 (see s. 2(3))
+Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 Pt. 3 | 22 of 2005 | 18 Nov 2005 | 1 Jan 2006 (see s. 2(3))
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)

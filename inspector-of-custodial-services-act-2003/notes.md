@@ -4,3 +4,4 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Inspector of Custodial Services Act 2003 | 75 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Financial Administration Legislation Amendment Act 2005 s. 41 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)

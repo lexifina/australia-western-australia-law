@@ -9,3 +9,4 @@ Corruption and Crime Commission Act 2003 s. 62 | 48 of 2003 | 3 Jul 2003 | 1 Jan
 Reprint 1: The Witness Protection (Western Australia) Act 1996 as at 10 Oct 2003 (includes all amendments listed above except No. 48 of 2003)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Australian Crime Commission (Western Australia) Act 2004 s. 75 | 74 of 2004 | 8 Dec 2004 | 1 Feb 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)

@@ -13,4 +13,6 @@ Statutes (Repeals and Minor Amendments) Act 1997 s. 107 | 57 of 1997 | 15 Dec 19
 Sentencing Legislation Amendment and Repeal Act 2003 s. 93 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 106 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Under section 112(2) of the Public Sector Management Act 1994 (No. 31 of 1994) references to the Public Service Board are to be construed as references to the Minister for Public Sector Management.
+Department of Land Administration plans and diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).

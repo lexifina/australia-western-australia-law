@@ -24,6 +24,7 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 32 | 74 of 2003 | 15 Dec 200
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Reprint 3: The Cattle Industry Compensation Act 1965 as at 4 Nov 2005 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Under the Agriculture Act 1988 s. 16(1), a reference to the Director of Agriculture is to be construed as a reference to the Director General of Agriculture.
 Repealed by this Act, s. 4.
 Repealed by the Dairy Industry Act 1973, which was then repealed by the Dairy Industry and Herd Improvement Legislation Repeal Act 2000.

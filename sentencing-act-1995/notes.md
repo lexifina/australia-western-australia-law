@@ -40,6 +40,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt.
 Reprint 4: The Sentencing Act 1995 as at 12 Aug 2005 (includes amendments listed above except those in the Sentencing Legislation Amendment Act 2004 and the Architects Act 2004)
 Water Legislation Amendment (Competition Policy) Act 2005 s. 53 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
 Parole and Sentencing Legislation Amendment Act 2006 Pt. 3 | 41 of 2006 | 22 Sep 2006 | s. 74 & 75: 22 Sep 2006 (see s. 2(4)(b)) Pt. 3 other than s. 71, 74 & 75: 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867);
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -49,7 +50,7 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 4 | 65 of 2006 | 8 Dec
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
 The Sentencing Act 1995 s. 19 and Pt. 12 did not come into operation and was repealed by the Criminal Law Amendment Act (No. 2) 1998 s. 17 and 18.
-The Act other than s. 6(3), 27-33, 36, 37 and 39 of the Sentencing Legislation Amendment and Repeal Act 1999was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
+The Act other than s. 6(3), 27-33, 36, 37 and 39 of the Sentencing Legislation Amendment and Repeal Act 1999 was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 “
 19.Power to amend regulations

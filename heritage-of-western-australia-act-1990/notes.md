@@ -22,69 +22,14 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Reprint 2: The Heritage of Western Australia Act 1990 as at 9 Jun 2006 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 10 Div 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Land Information Authority Act 2006 s. 136 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | To be proclaimed (see s. 2(1))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17, which gives effect to Sch. 1, had not come into operation. They read as follows:
-“
-4.References to “Consolidated Fund” changed to “Consolidated Account”
-The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Consolidated Fund” (whether in ordinary type, italics, bold or capitals) in each place where it occurs and inserting instead (in corresponding type) —
-“ Consolidated Account ”.
-Table
-................
-Heritage of Western Australia Act 1990 | s. 14(8)(a) s. 16(2)(b) s. 16(2) s. 16(5) s. 27(4)
-.................
-”.
-“
-17.Various Acts amended
-Schedule 1 sets out amendments to various Acts.
-”.
-Schedule 1 cl. 83 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 17]
-83.Heritage of Western Australia Act 1990
-(1) Section 3(1) is amended by deleting the definition of “the Fund” and inserting instead —
-“
-“the Account” means the Heritage Account established under section 14;
-”.
-(2) Section 6(4) is amended by deleting “section 66 of the Financial Administration and Audit Act 1985.” and inserting instead —
-“ Part 5 of the Financial Management Act 2006. ”.
-(3) Section 13 is amended by deleting “Financial Administration and Audit Act 1985” and inserting instead —
-“
-Financial Management Act 2006 and the Auditor General Act 2006
-”.
-(4) Section 14(4) is repealed and the following subsections are inserted instead —
-“
-(4) An agency special purpose account called the Heritage Account is established under section 16 of the Financial Management Act 2006 to which, subject to this Division, all moneys received by the Council are to be credited.
-(4a) Subject to any direction given by the Minister, the Account is to be controlled by the Council and may be operated in such manner as the Treasurer approves.
-”.
-(5) The provisions listed in the Table to this subclause are amended by deleting “Fund” and inserting instead —
-“ Account ”.
-Table
-s. 7(1)(k) | s. 14(7)
-s. 7(2)(a) | s. 14(10)
-s. 14(6) | s. 33(4)
-(6) Section 14(5) is amended as follows:
-(a) by deleting “in the Fund a trust account” and inserting instead —
-“
-under section 16 of the Financial Management Act 2006 an agency special purpose account
-”;
-(b) after “and such other” by inserting —
-“ agency special purpose ”;
-(c) in paragraph (d), by deleting “sections 27 and 29 of the Financial Administration and Audit Act 1985” and inserting instead —
-“
-sections 26 and 30 of the Financial Management Act 2006
-”.
-(7) Section 14(6) is amended by deleting “Financial Administration and Audit Act 1985” and inserting instead —
-“ Financial Management Act 2006 ”.
-(8) Section 16(8) is amended by deleting “section 66 of the Financial Administration and Audit Act 1985.” and inserting instead —
-“ Part 5 of the Financial Management Act 2006. ”.
-”.
+Footnote no longer applicable.
 The Taxation Administration (Consequential Provisions) Act 2002 s. 3 and 4 and Pt. 4 read as follows:
 “
 3.Relationship with other Acts

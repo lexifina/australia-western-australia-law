@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 22 September 2006 of the Agriculture Protection Board Act 1950 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Agriculture Protection Board Act 1950 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Agriculture Protection Board Act 1950 | 76 of 1950 (14 & 15 Geo. VI No. 76) | 5 Jan 1951 | 1 Mar 1951 (see s. 2 and Gazette 23 Feb 1951 p. 412)
@@ -32,7 +32,8 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 27 | 74 of 2003 | 15 Dec 200
 Workers’ Compensation Reform Act 2004 s. 175 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Reprint 5: The Agriculture Protection Board Act 1950 as at 22 Sep 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 28 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
@@ -46,7 +47,7 @@ The Public Transport Authority Act 2003 s. 93 reads as follows:
 93.Certain contributions by former body suffice
 An obligation imposed by the Agriculture Protection Board Act 1950 section 11 on the Public Transport Authority of Western Australia to contribute in respect of a year is satisfied to the extent that The Western Australian Government Railways Commission had, before section 140 commenced, already made a contribution in respect of that year under that section.
 ”.
-On the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 28 had not come into operation. It reads as follows:
+On the date on which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 28 had not come into operation. It reads as follows:
 “
 28.Agriculture Protection Board Act 1950 amended
 Section 8A of the Agriculture Protection Board Act 1950 is amended as follows:

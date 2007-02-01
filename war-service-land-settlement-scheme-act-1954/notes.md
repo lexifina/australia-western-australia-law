@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the War Service Land Settlement Scheme Act 1954 and includes all amendments effected by the other Acts referred to in the following Table.
+This is a compilation of the War Service Land Settlement Scheme Act 1954 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short Title | Number and Year | Assent | Commencement
 War Service Land Settlement Scheme Act 1954 | 29 of 1954 | 5 Nov 1954 | 28 Jan 1955 (see s. 2 and Gazette 28 Jan 1955 p. 171)
@@ -13,6 +13,7 @@ R & I Bank Amendment Act 1994, section 13 | 6 of 1994 | 11 Apr 1994 | 26 Apr 199
 Bank of Western Australia Act 1995, section 44 | 14 of 1995 | 4 Jul 1995 | 1 Dec 1995 (see s. 2(3) and Gazette 29 Nov 1995 p. 5529)
 Financial Legislation Amendment Act 1996, section 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
 Acts Amendment (Land Administration) Act 1997, Part 63 and section 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Now Interpretation Act 1984 (No. 12 of 1984).
 Repealed by the Conservation and Land Management Act 1984 (No. 126 of 1984).
 Repealed by the Petroleum Act 1967 (No. 72 of 1967).

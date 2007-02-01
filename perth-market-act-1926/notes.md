@@ -24,8 +24,9 @@ Acts Amendment (Land Administration) Act 1997, section 142 | 31 of 1997 | 3 Oct 
 Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 11 | 70 of 2003 | 15 Dec 2003 | 21 Apr 2004 (see s. 2 and Gazette 20 Apr 2004 p. 1297)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 92 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Under the Public Sector Management Act 1994, s.112(2), a reference in a written law to the Public Service Commissioner or the Public Service Board is to be construed as if it had been amended to be a reference to the Minister for Public Sector Management.
-Under the Public Sector Management Act 1994 s.112(1), a reference to the Public Service Act 1978 is to be construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Under the Public Sector Management Act 1994, s. 112(2), a reference in a written law to the Public Service Commissioner or the Public Service Board is to be construed as if it had been amended to be a reference to the Minister for Public Sector Management.
+Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 Section 11 of the Acts Amendment (Perth Market Authority) Act 1990 reads as follows —
 “
 11.Transitional

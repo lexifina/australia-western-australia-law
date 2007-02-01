@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 July 2006 of the Prisons Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Prisons Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Prisons Act 1981 | 115 of 1981 | 14 Dec 1981 | 1 Aug 1982 (see s. 2 and Gazette 23 Jul 1982 p. 2841)
@@ -41,7 +41,8 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Reprint 5: The Prisons Act 1981 as at 21 Jul 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prisons Amendment Act 2003 s. 5, 6 and 8 | 24 of 2003 | 24 Apr 2003 | To be proclaimed (see s. 2)
@@ -82,7 +83,7 @@ Schedule 2 cl. 6(5) reads as follows:
 ”.
 The amendments in the Corruption and Crime Commission Amendment and Repeal Act 2003 Sch. 2 cl. 11(3)-(6) are not included because the sections they sought to amend had been repealed by No. 75 of 2003 s. 56(1) before the amendment purported to come into operation.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to amend s. 23 is not included because the section it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 37 before the amendment purported to come into operation.
-On the date as at which this reprint was prepared, the Prisons Amendment Act 2003 s. 5, 6 and 8 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Prisons Amendment Act 2003 s. 5, 6 and 8 had not come into operation. They read as follows:
 “
 5.Section 60 amended
 Section 60(1) is amended by deleting “prescribed by regulations for the purposes of this section”.

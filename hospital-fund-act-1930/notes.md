@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Hospital Fund Act 1930 and includes the amendments made by the other written laws referred to in the following table.
+1. This is a compilation of the Hospital Fund Act 1930 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and Year | Assent | Commencement
 Hospital Fund Act 1930 | 39 of 1930 (21 Geo. V No. 39) | 15 Dec 1930 | 1 Jan 1931 (see s. 1(1) and Gazette 19 Dec 1930 p. 2706)
@@ -13,4 +13,5 @@ Hospitals Amendment Act 1994 s. 18 | 103 of 1994 | 11 Jan 1995 | 3 Feb 1995 (see
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
 Acts Amendment (Equality of Status) Act 2003 Pt. 28 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 5 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 85 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 This provision was renumbered under the Amendments Incorporation Act 1923 s. 2(2).

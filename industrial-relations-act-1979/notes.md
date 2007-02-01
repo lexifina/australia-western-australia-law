@@ -64,6 +64,7 @@ Reprint 10: The Industrial Relations Act 1979 as at 8 Jul 2005 (includes amendme
 Industrial Relations Amendment Act 2005 | 14 of 2005 | 21 Sep 2005 | 22 Sep 2005 (see s. 2)
 Labour Relations Legislation Amendment Act 2006 Pt. 3-5 and 8 | 36 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2(1))
 Reprint 11: The Industrial Relations Act 1979 as at 3 Nov 2006 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

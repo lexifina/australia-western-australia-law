@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 February 2006 of the University of Notre Dame Australia Act 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the University of Notre Dame Australia Act 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 University of Notre Dame Australia Act 1989 | 49 of 1989 | 9 Jan 1990 | 26 Jan 1990 (see s. 2 and Gazette 26 Jan 1990 p. 657)
@@ -12,6 +12,7 @@ Reprint of the University of Notre Dame Australia Act 1989 as at 1 Jun 2001 (inc
 Acts Amendment (Student Guilds and Associations) Act 2002 Pt. 5 | 44 of 2002 | 3 Jan 2003 | 25 Jan 2003 (see s. 2 and Gazette 24 Jan 2003 p. 141)
 Universities Legislation Amendment Act 2005 Pt. 5 | 8 of 2005 | 7 Jul 2005 | 13 Aug 2005 (see s. 2 and Gazette 12 Aug 2005 p. 3651)
 Reprint 2: The University of Notre Dame Australia Act 1989 as at 3 Feb 2006 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 The Voluntary Membership of Student Guilds and Associations Act 1994 s. 2(2), (3) and (4) are transitional provisions that are of no further effect.
 The Acts Amendment (Education Loan Scheme) Act 1998 Pt. 5 reads as follows:
 “
@@ -23,18 +24,18 @@ Despite the repeal of sections 9A(5)(c) and 27C(3) of the Education Act 1928, se
 (2) The Education Minister may borrow moneys under section 9D(1) of the Education Act 1928, as amended by this Act, or section 25C(1) of the University of Notre Dame Australia Act 1989, as amended by this Act, for the purpose of meeting obligations under subsection (1).
 (3) The Vocational Education and Training Minister may borrow moneys under section 17A(1) of the Vocational Education and Training Act 1996, as amended by this Act, for the purpose of meeting obligations under subsection (1).
 (4) In this section —
-“Education Minister” means the Minister in whom the administration of the Education Act 1928 is for the time being committed by the Governor;
-“Vocational Education and Training Minister” means the Minister in whom the administration of the Vocational Education and Training Act 1996 is for the time being committed by the Governor.
+Education Minister means the Minister in whom the administration of the Education Act 1928 is for the time being committed by the Governor;
+Vocational Education and Training Minister means the Minister in whom the administration of the Vocational Education and Training Act 1996 is for the time being committed by the Governor.
 ”.
 The Universities Legislation Amendment Act 2005 s. 50 reads as follows:
 “
 50.Transitional provisions
 (1) In this section —
-“commencement day” means the day on which the Universities Legislation Amendment Act 2005 comes into operation;
-“existing Trustee” means a person who was a Trustee of the University immediately before commencement day;
-“new section 7” means the UNDA Act section 7 as that provision is in effect on commencement day;
-“UNDA Act” means the University of Notre Dame Australia Act 1989;
-“University” has the meaning given to that term in the UNDA Act section 3.
+commencement day means the day on which the Universities Legislation Amendment Act 2005 comes into operation;
+existing Trustee means a person who was a Trustee of the University immediately before commencement day;
+new section 7 means the UNDA Act section 7 as that provision is in effect on commencement day;
+UNDA Act means the University of Notre Dame Australia Act 1989;
+University has the meaning given to that term in the UNDA Act section 3.
 (2) Each existing Trustee continues in office as a Trustee of the University under new section 7 on and from commencement day for the balance of the term of office that applied to the Trustee immediately before commencement day.
 (3) As soon as practicable after commencement day —
 (a) the Roman Catholic Archbishop of the Archdiocese of Perth is to nominate, with the approval of the existing Trustees, 2 of the existing Trustees to be his representatives; and
