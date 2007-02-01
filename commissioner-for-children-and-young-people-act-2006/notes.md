@@ -6,7 +6,7 @@ Commissioner for Children and Young People Act 2006 s. 1-2 | 48 of 2006 | 4 Oct 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Commissioner for Children and Young People Act 2006 s. 3-5, Pt. 2-9 and Sch. 1 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
+Commissioner for Children and Young People Act 2006 s. 3-5, Pt. 2-9 and Sch. 1 | 48 of 2006 (as amended by No. 77 of 2006 s. 17) | 4 Oct 2006 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 3-5, Pt. 2-9 and Sch. 1 had not come into operation. They read as follows:
 “
 3.Principle that best interests of children and young people paramount
@@ -268,7 +268,8 @@ Part 6 — Reporting
 Division 1 — Reports
 42.Annual reports
 (1) The Commissioner must, within 3 months after 30 June in each year, prepare a report as to the Commissioner’s general activities during the financial year ending on that day.
-(2) The report required under this section may be prepared and dealt with in conjunction with any report required under the Financial Administration and Audit Act 1985 in respect of the Commissioner.
+(2) The report required under this section may be prepared and dealt with in conjunction with any report required under the Financial Management Act 2006 in respect of the Commissioner.
+[Section 42 amended by No. 77 of 2006 s. 17.]
 43.Reports on special inquiries
 The Commissioner must, as soon as practicable after the conclusion of a special inquiry under Part 5, prepare a report on the findings of the inquiry.
 44.Reports on other matters
