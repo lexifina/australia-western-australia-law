@@ -36,6 +36,7 @@ Industrial Training (Apprenticeship Training) Amendment Regulations (No. 3) 2006
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 4) 2006 | 29 Sep 2006 p. 4256-8 | 1 Oct 2006 (see r. 2)
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 5) 2006 | 29 Sep 2006 p. 4258-60 | 1 Oct 2006 (see r. 2)
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 6) 2006 | 27 Oct 2006 p. 4565-9 | 1 Nov 2006 (see r. 2)
+Industrial Training (Apprenticeship Training) Amendment Regulations 2007 | 31 Jan 2007 p. 235-9 | 1 Feb 2007 (see r. 2)
 The definition of “Council” was deleted from s. 4 of the Act by the State Employment and Skills Development Authority Act 1990 s. 45(a)(ii). The definition of “Authority” inserted by s. 45(a)(i) of that Act was deleted by the Vocational Education and Training Act 1996 Sch. 3 cl. 12.
 The Education Regulations 1960 r. 4 referred to the Director of technical education. Those regulations were repealed by the School Education Act 1999 s. 246(2).
 “Approved College” is defined in r. 4 of the Industrial Training (General Apprenticeship) Regulations 1981: see r. 3 of these regulations. The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996 s. 70(1).
@@ -106,7 +107,7 @@ The Industrial Training (Apprenticeship Training) Regulations 1981 as in force i
 (b) Breadmaking; or
 (c) Pastrycooking.
 ”.
-On the date as at which this compilation was prepared, the Industrial Training (Apprenticeship Training) Amendment Regultions 2006 r. 9 reads as follows:
+On the date as at which this compilation was prepared, the Industrial Training (Apprenticeship Training) Amendment Regulations 2006 r. 9 reads as follows:
 “
 9.Transitional
 (1) Subject to this regulation the Industrial Training (Apprenticeship Training) Regulations 1981 as in force immediately before 1 May 2006 continue to apply to and in relation to —
@@ -308,4 +309,35 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 6) 
 (o)Wickerworking;
 (p)Wood Machining;
 (q)Wood Turning.
+”.
+The Industrial Training (Apprenticeship Training) Amendment Regulations 2007 r. 8 reads as follows:
+“
+8.Transitional
+(1) Subject to this regulation the Industrial Training (Apprenticeship Training) Regulations 1981 as in force immediately before 1 February 2007 continue to apply to and in relation to —
+(a) an apprentice who commenced service in an old trade under an apprenticeship agreement before 1 February 2007; or
+(b) a person who —
+(i) commenced employment as a probationer in an old trade before 1 February 2007; and
+(ii) completes that probationary employment after 1 February 2007; and
+(iii) on completing that probationary employment commences service under an apprenticeship agreement,
+(an “existing probationer”).
+(2) The parties to the apprenticeship agreement of an existing probationer may, with the approval of the Director, agree in the apprenticeship agreement —
+(a) if the probationer was employed in a trade that is also a new trade, that the apprentice is to be employed in the same trade but that the term of the apprenticeship is to be the new term for that trade; or
+(b) that —
+(i) the apprentice is to be employed in a new trade (instead of the old trade in which he or she was employed as a probationer); and
+(ii) the term of the apprenticeship is to be the new term for that new trade.
+(3) If the parties to an apprenticeship agreement agree in the manner described in subregulation (2)(a) or (b), subregulation (1) ceases to apply to and in relation to the apprentice when he or she commences service under the apprenticeship agreement.
+(4) In this regulation —
+“new trade” means —
+(a)Gardener;
+(b)Landscape Gardener;
+(c)Nurseryperson;
+(d)Sawdoctor;
+(e)Turf Management;
+“new term”, in relation to a trade, means the term prescribed in relation to that trade in the Industrial Training (Apprenticeship Training) Regulations 1981 Schedule 1, as amended by these regulations;
+“old trade” means —
+(a)Horticulture (Gardening);
+(b)Horticulture (Landscape Gardening);
+(c)Horticulture (Nursery);
+(d)Horticulture (Turf Management);
+(e)Saw Doctoring.
 ”.
