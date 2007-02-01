@@ -6,7 +6,7 @@ Gene Technology Act 2006 s. 1-2 | 20 of 2006 | 9 Jun 2006 | 9 Jun 2006
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Gene Technology Act 2006 s. 3-8C and Pt. 2-13 | 20 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
+Gene Technology Act 2006 s. 3-8C and Pt. 2-13 | 20 of 2006 (as amended by No. 77 of 2006 s. 4 and 17) | 9 Jun 2006 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Gene Technology Act 2006 s. 3-8C and Pt. 2-13 had not come into operation. They read as follows:
 “
 3.Object of Act
@@ -903,8 +903,9 @@ Division 3 — Money
 The Regulator may charge for services provided by, or on behalf of, the Regulator in the performance of the Regulator’s functions under this Act or the regulations.
 128.Notional payments by the State
 (1) The purpose of this section is to ensure that fees and charges under this Act and the regulations are notionally payable by the State of Western Australia and bodies representing the State.
-(2) The Minister responsible for administering the Financial Administration and Audit Act 1985 may give written directions for the purpose of this section, including directions relating to the transfer of accounts within, or between, accounts operated by the State of Western Australia.
+(2) The Minister responsible for administering the Financial Management Act 2006 may give written directions for the purpose of this section, including directions relating to the transfer of accounts within, or between, accounts operated by the State of Western Australia.
 Note: This section differs from section 128 of the Commonwealth Act.
+[Section 128 amended by No. 77 of 2006 s. 17.]
 129.Gene Technology Account
 Note: Section 129 of the Commonwealth Act provides for the establishment of the Gene Technology Account.
 130.Credits to Gene Technology Account
@@ -913,8 +914,9 @@ Note: Section 129 of the Commonwealth Act provides for the establishment of the 
 (b) amounts equal to fees received by the State of Western Australia under sections 40(6) and83(3);
 (c) amounts equal to amounts received by the State of Western Australia in connection with the performance of the Regulator’s functions under this Act or the regulations;
 (d) amounts equal to amounts recovered by the State of Western Australia under section 146(5) or 158(4) to the extent that they are referable to costs paid out of the Gene Technology Account.
-(2) The Consolidated Fund is appropriated to the necessary extent to enable amounts to be paid to the Commonwealth in accordance with subsection (1).
+(2) The Consolidated Account is appropriated to the necessary extent to enable amounts to be paid to the Commonwealth in accordance with subsection (1).
 Note: This section differs from section 130 of the Commonwealth Act.
+[Section 130 amended by No. 77 of 2006 s. 4.]
 131.Recovery of amounts
 The following amounts may be recovered in a court of competent jurisdiction as debts due to the State of Western Australia —
 (a) amounts payable to the State of Western Australia under Part 5 Division 8;
