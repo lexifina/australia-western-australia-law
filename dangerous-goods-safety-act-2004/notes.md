@@ -6,7 +6,7 @@ Dangerous Goods Safety Act 2004 | 7 of 2004 | 10 Jun 2004 | s. 1-2: 10 Jun 2004;
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnote referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Dangerous Goods Safety Act 2004 s. 3-7, Pt. 2-8, Sch. 1-2 | 7 of 2004 (as amended by No. 55 of 2004 Pt. 2 Div. 33 and No. 84 of 2004 s. 80 and 82) | 10 Jun 2004 | To be proclaimed(see s. 2)
+Dangerous Goods Safety Act 2004 s. 3-7, Pt. 2-8, Sch. 1-2 | 7 of 2004 (as amended by No. 55 of 2004 Pt. 2 Div. 33, No. 84 of 2004 s. 80 and 82 and No. 77 of 2006 s. 4) | 10 Jun 2004 | To be proclaimed(see s. 2)
 On the date as at which this compilation was prepared, the Dangerous Goods Safety Act 2004 s. 3-7, Pt. 2-8 and Sch. 1-2 (as amended by No. 55 of 2004 Pt. 2 Div. 33 and No. 84 of 2004 s. 80 and 82) had not come into operation. They read as follows:
 “
 3.Interpretation and abbreviations
@@ -687,7 +687,8 @@ the court may order the dangerous goods and their container (if any) to be forfe
 (2) An order made under subsection (1) forms part of the sentence imposed for the offence.
 (3) The Chief Officer may destroy, sell or otherwise dispose of dangerous goods and containers forfeited to the Crown, as he or she sees fit.
 (4) The Crown may recover from the person convicted, as a debt in a court of competent jurisdiction, the reasonable costs and expenses of the destruction, sale or other disposal of dangerous goods and containers forfeited to the Crown.
-(5) The net proceeds of any sale under this section are to be credited to the Consolidated Fund.
+(5) The net proceeds of any sale under this section are to be credited to the Consolidated Account.
+[Section 64 amended by No. 77 of 2006 s. 4.]
 65.Prohibiting offender from involvement with dangerous goods
 (1) If a court convicts a person of an offence against this Act, the court, having regard to the matters set out in subsection (3), may make a prohibition order prohibiting the person for a period set by the court from all or any of the following —
 (a) possessing or having the control or management of dangerous goods;
