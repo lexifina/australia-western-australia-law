@@ -2,11 +2,11 @@ Notes
 This is a compilation of the Motor Vehicle Repairers Act 2003. The following table contains information about that Act.
 Compilation table
 Short title | Number and Year | Assent | Commencement
-Motor Vehicle Repairers Act 2003 | 68 of 2003 | 9 Dec 2003 | s. 1-2: 9 Dec 2003
+Motor Vehicle Repairers Act 2003 s. 1 and 2 | 68 of 2003 | 9 Dec 2003 | s. 1-2: 9 Dec 2003
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Motor Vehicle Repairers Act 2003 s. 3-8, Pt. 2-11 and Sch. 1-3 | 68 of 2003 (as amended by No. 59 of 2004 s. 141; No. 84 of 2004 s. 80; No. 38 of 2005 s. 15; No. 28 of 2006 Pt. 4 Div. 16) | 9 Dec 2003 | To be proclaimed (see s. 2)
+Motor Vehicle Repairers Act 2003 s. 3-8, Pt. 2-11 and Sch. 1-3 | 68 of 2003 (as amended by No. 59 of 2004 s. 141; No. 84 of 2004 s. 80; No. 38 of 2005 s. 15; No. 28 of 2006 Pt. 4 Div. 16; No. 77 of 2006 s. 17) | 9 Dec 2003 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Motor Vehicle Repairers Act 2003 s. 3-8, Pt. 2-11 and Sch. 1-3 (as amended by No. 59 of 2004 s. 141, No. 84 of 2004 s. 80, No. 38 of 2005 s. 15 and No. 28 of 2006 Pt. 4 Div. 16) had not come into operation. They read as follows:
 “
 3.Interpretation
@@ -688,34 +688,34 @@ Penalty: $5 000.
 Part 9 — Claims for losses in connection with repair work
 89.Interpretation
 In this Part —
-“Compensation Fund” means the account referred to in section 90(2);
+“Compensation Account” means the account referred to in section 90(2);
 “insolvent” means —
 (a)in relation to a natural person, being an insolvent under administration as that expression is defined in the Corporations Act 2001 of the Commonwealth;
 (b)in relation to a body corporate, being subject to external administration under the Corporations Act 2001 of the Commonwealth;
 “owner”, in relation to a motor vehicle, includes —
 (a)a hirer or lessee of the motor vehicle; and
 (b)a former owner of the motor vehicle.
-90.Motor Vehicle Repair Industry Compensation Fund
+[Section 89 amended by No. 77 of 2006 s. 17.]
+90.Motor Vehicle Repair Industry Compensation Account
 (1) In this section —
 “prescribed percentage” means 1% or such other percentage as may be prescribed by the regulations.
-(2) There is to be an account called the Motor Vehicle Repair Industry Compensation Fund.
-(3) The Compensation Fund —
-(a) is to be administered by the Director General; and
-(b) is to form part of the Trust Fund constituted under section 9 of the Financial Administration and Audit Act 1985.
-(4) There are to be credited to the Compensation Fund —
+(2) An agency special purpose account called the Motor Vehicle Repair Industry Compensation Account is established under section 16 of the Financial Management Act 2006.
+(3) The Compensation Account is to be administered by the Director General.
+(4) There are to be credited to the Compensation Account —
 (a) in respect of each year, an amount equal to the prescribed percentage of all fees paid under sections 13, 31 and 41 during that year;
 (b) moneys recovered by the Board —
 (i) in the exercise of the rights and remedies referred to in section 95; or
 (ii) under section 96;
 (c) moneys borrowed under subsection (6); and
-(d) any other moneys lawfully payable to the Compensation Fund.
-(5) There are to be paid out of the Compensation Fund —
+(d) any other moneys lawfully payable to the Compensation Account.
+(5) There are to be paid out of the Compensation Account —
 (a) all amounts payable under section 93(5);
 (b) the costs incurred by the Board in respect of claims under this Part; and
 (c) interest on, and amounts required to repay, moneys borrowed under subsection (6).
-(6) Moneys may be borrowed from the Treasurer for the purposes of the Compensation Fund —
+(6) Moneys may be borrowed from the Treasurer for the purposes of the Compensation Account —
 (a) in such amounts as the Treasurer may approve; and
 (b) on such terms relating to repayment and payment of interest as the Treasurer imposes.
+[Section 90 amended by No. 77 of 2006 s. 17.]
 91.Losses to which this Part applies
 (1) If a licensee —
 (a) carries out repair work on a motor vehicle incompetently; or
@@ -734,7 +734,7 @@ before the commencement of this Part;
 (1) The owner of a motor vehicle who —
 (a) has incurred a loss to which this Part applies in connection with the vehicle; and
 (b) has taken all reasonable steps to exercise all legal remedies, all rights under insurance policies, and all rights of action, that are available in respect of the loss,
-may claim from the Compensation Fund —
+may claim from the Compensation Account —
 (c) the amount of the loss; or
 (d) the sum of $6 000,
 whichever is the less.
@@ -743,6 +743,7 @@ whichever is the less.
 (a) made in the approved form and verified by statutory declaration; and
 (b) lodged with the Board.
 (4) A claimant must provide the Board with such information about the claim as the Board may require.
+[Section 92 amended by No. 77 of 2006 s. 17.]
 93.How claim to be determined
 (1) For the purposes of this section a claim is duly made if —
 (a) the claimant meets the requirements of section 92; and
@@ -758,20 +759,22 @@ and
 (b) decline to accept the recommendation; or
 (c) determine the claim in such manner as he or she thinks fit.
 (4) Where the Director General does not accept the recommendation of the Board he or she must inform the Board of the reasons for his or her determination.
-(5) The amount of any claim that is allowed is to be paid out of the Compensation Fund.
+(5) The amount of any claim that is allowed is to be paid out of the Compensation Account.
+[Section 93 amended by No. 77 of 2006 s. 17.]
 94.No proceedings to be brought
 (1) A person may not bring proceedings against the Board or the Director General for the recovery of compensation in respect of any loss to which this Part applies.
 (2) A determination of the Board or the Director General under section 93 is not liable to be challenged, reviewed or called in question by a court on account of anything that the Board or the Director General has done or failed to do for the purposes of that section.
 95.Subrogation where claim allowed
-(1) On payment of an amount to a claimant out of the Compensation Fund (the “amount paid”), the Director General is subrogated, to the extent of the amount paid, to all the rights and remedies of the claimant against —
+(1) On payment of an amount to a claimant out of the Compensation Account (the “amount paid”), the Director General is subrogated, to the extent of the amount paid, to all the rights and remedies of the claimant against —
 (a) the person in relation to whom the claim arose;
 (b) any other person incurring any liability to the claimant in relation to the subject matter of the claim; or
 (c) any person having legal authority in respect of any estate or assets concerned,
 and to the extent of the amount paid the claimant is not entitled to enforce those rights and remedies.
 (2) In the enforcement of any rights and remedies referred to in subsection (1) for the purpose of recovering the amount paid, that amount is taken to be a debt due to the Director General and recoverable accordingly.
 (3) No form of conveyance or assignment is required for the purposes of subsection (1).
+[Section 95 amended by No. 77 of 2006 s. 17.]
 96.Recovery from directors of body corporate
-(1) This section applies if payment of an amount to a claimant out of the Compensation Fund results from —
+(1) This section applies if payment of an amount to a claimant out of the Compensation Account results from —
 (a) the act or omission of a body corporate; or
 (b) a body corporate becoming insolvent.
 (2) The persons who were directors of the body corporate when —
@@ -782,6 +785,7 @@ are jointly and severally liable to the Director General for the amount paid.
 (4) In any proceedings under this section for the recovery of an amount paid as a result of an act or omission, judgment is not to be entered against a defendant who proves that the act or omission occurred without his or her express or implied authority or consent.
 (5) Where subsection (2) applies the body corporate is not liable to reimburse a person for any amount that he or she pays to the Director General under this section.
 (6) This section does not affect the operation of section 95.
+[Section 96 amended by No. 77 of 2006 s. 17.]
 Part 10 — Miscellaneous
 Division 1 — Infringement notices
 97.Interpretation
@@ -827,31 +831,30 @@ Payment of a modified penalty is not to be regarded as an admission for the purp
 106.Application of penalties collected
 An amount paid as a modified penalty is to be dealt with as if it were imposed by a court as a penalty for an offence, unless section 103(3) requires that the amount be refunded.
 Division 2 — General
-107.Motor Vehicle Repair Industry Education and Research Fund
+107.Motor Vehicle Repair Industry Education and Research Account
 (1) In this section —
-“Fund” means the Motor Vehicle Repair Industry Education and Research Fund established by subsection (2);
+“Account” means the Motor Vehicle Repair Industry Education and Research Account established by subsection (2);
 “prescribed percentage” means 1% or such other percentage as may be prescribed by the regulations;
-“purposes of the Fund” means —
+“purposes of the Account” means —
 (a)education or research in respect of; or
 (b)any public purpose connected with,
 repair work.
-(2) There is to be an account called the Motor Vehicle Repair Industry Education and Research Fund.
-(3) The Fund —
-(a) is to be administered by the Director General; and
-(b) is to form part of the Trust Fund constituted under section 9 of the Financial Administration and Audit Act 1985.
-(4) There are to be credited to the Fund —
+(2) An agency special purpose account called the Motor Vehicle Repair Industry Education and Research Account is established under section 16 of the Financial Management Act 2006.
+(3) The Account is to be administered by the Director General.
+(4) There are to be credited to the Account —
 (a) in respect of each year, an amount equal to the prescribed percentage of all fees paid under sections 13, 31 and 41 during that year; and
 (b) any moneys borrowed under subsection (8).
-(5) The Board may recommend to the Director General that moneys standing to the credit of the Fund be applied for or towards the purposes of the Fund.
+(5) The Board may recommend to the Director General that moneys standing to the credit of the Account be applied for or towards the purposes of the Account.
 (6) The Director General must give due weight to, but is not bound to follow, a recommendation under subsection (5).
-(7) Subject to subsections (5) and (6), the Director General may apply moneys standing to the credit of the Fund for or towards the purposes of the Fund.
-(8) Moneys may be borrowed from the Treasurer for the purposes of the Fund —
+(7) Subject to subsections (5) and (6), the Director General may apply moneys standing to the credit of the Account for or towards the purposes of the Account.
+(8) Moneys may be borrowed from the Treasurer for the purposes of the Account —
 (a) in such amounts as the Treasurer may approve; and
 (b) on such terms relating to repayment and payment of interest as the Treasurer imposes.
-(9) The Fund is charged with —
+(9) The Account is charged with —
 (a) interest on; and
 (b) amounts required to repay,
 moneys borrowed under subsection (8).
+[Section 107 amended by No. 77 of 2006 s. 17.]
 108.Licensee to publicise licensing information
 A licensee must cause the business name shown in the business licence and the number of the licence to appear —
 (a) in a conspicuous position on the outside of every premises authorised under section 59 in respect of the licence;
