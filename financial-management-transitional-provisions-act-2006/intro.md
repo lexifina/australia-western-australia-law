@@ -1,5 +1,5 @@
 Western Australia
-Financial Legislation Amendment and Repeal Act 2006
+Financial Management (Transitional Provisions) Act 2006
 No. 77 of 2006
 An Act —
 ·to repeal the Financial Administration and Audit Act 1985;
