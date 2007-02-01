@@ -23,3 +23,4 @@ Section 10 of the Solicitor-General Act 1969 is amended as follows:
 (a) in subsection (1)(a) by deleting “and in particular his rights, if any, under the Superannuation and Family Benefits Act 1938”;
 (b) by repealing subsection (2).
 ”.
+The amendment to s. 4 in the Financial Legislation Amendment and Repeal Act 2006 s. 4 is not included because the section it sought to amend was replaced by the Solicitor-General Amendment Act 2006 s. 6.
