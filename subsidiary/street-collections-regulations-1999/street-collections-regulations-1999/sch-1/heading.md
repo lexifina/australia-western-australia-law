@@ -1,6 +1,6 @@
-## Schedule 1 — Form of Permit
+## Schedule 1 — Form of permit
 [r. 4]
-Street Collection (Regulation) Act 1940
+Street Collections (Regulation) Act 1940
 Permit to conduct a Street Collection
 (Name)
 has permission under the Street Collections (Regulation) Act 1940 to conduct a street collection in the Perth metropolitan area.
