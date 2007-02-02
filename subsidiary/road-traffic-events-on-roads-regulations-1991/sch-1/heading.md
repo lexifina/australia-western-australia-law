@@ -86,6 +86,7 @@ The event is being conducted on behalf of ......................................
 (club, group, organization)
 OCCUPIER’S NAME ADDRESS DATE CONSENT/OBJECT
 (F)Where insufficient space is provided relevant details are to be included on a separate sheet and submitted with the application.
+[Form 1 inserted in Gazette 22 Feb 1991 p. 909-11.]
 Form 2
 ROAD TRAFFIC ACT 1974
 ORDER FOR ROAD CLOSURE
@@ -127,5 +128,4 @@ SIGNATURE: .....................................................................
 (Authorised Officer)
 TIME OF ISSUE: ...................
 DATE OF ISSUE: ...................
-[Schedule 1 amended in Gazette 22 Feb 1991 p. 909-11.]
 [Schedule 2 repealed in Gazette 28 Nov 2006 p. 4913.]
