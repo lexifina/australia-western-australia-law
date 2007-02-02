@@ -7,3 +7,4 @@ Finance Brokers Control (General) Amendment Regulations 2006 | 10 Feb 2006 p. 65
 Finance Brokers Control (General) Amendment Regulations (No. 2) 2006 | 5 May 2006 p. 1729 | 5 May 2006
 Finance Brokers Control (General) Amendment Regulations (No. 3) 2006 | 27 Jun 2006 p. 2255 | 1 Jul 2006 (see r. 2)
 Finance Brokers Control (General) Amendment Regulations (No. 5) 2006 | 5 Jan 2007 p. 7-10 | 5 Jan 2007
+Finance Brokers Control (General) Amendment Regulations 2007 | 2 Feb 2007 p. 243-4 | 2 Feb 2007
