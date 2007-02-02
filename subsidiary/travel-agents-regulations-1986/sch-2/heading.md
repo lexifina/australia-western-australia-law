@@ -18,7 +18,8 @@ II.The settlors hereby appoint the following persons to act as Trustees:
 (iii)as the nominee of the South Australian Minister under clause 4.2, Philip Herschel Nicholls of 5 Robert Street, Unley in the State of South Australia;
 (iv)as the nominee of the Western Australian Minister under clause 4.2, Paul Richard Glanville of Unit 5, 286 Mill Point Road, South Perth in the State of Western Australia;
 (v)as the nominees of the Ministers under clause 4.3, Osmond Francis William Pitts of 18 Greenfield Avenue, Middle Cove in the State of New South Wales;
-Allan Charles Corbett of 2 Singleton Road, North Balwyn in the State of Victoria; Michael Anthony Gilmour Thompson of 103 Monmouth Street, North Perth in the State of Western Australia;
+Allan Charles Corbett of 2 Singleton Road, North Balwyn in the State of Victoria;
+Michael Anthony Gilmour Thompson of 103 Monmouth Street, North Perth in the State of Western Australia;
 Francis William O’Gorman of 77 Rugby Street, Malvern in the State of South Australia; and
 (vi)as the nominee of the Ministers under clause 4.5, Neil Francis Francey of Unit 6, 59 Kirribilli Avenue, Kirribilli in the State of New South Wales.
 III.This Deed shall come into force and effect when it is executed by each of the settlors and when the persons appointed to act as Trustees under clause II have consented so to act.
@@ -117,7 +118,7 @@ Schedule
 4.12Where a trustee —
 (a)becomes bankrupt or makes any arrangement or composition with the trustee’s creditors generally;
 (b)becomes of unsound mind or the trustee’s estate is liable to be dealt with in any way under the law relating to mental health which applies in the State where the trustee resides;
-(c)is subject to any penalty contained in and imposed pursuant to section 21 (1) of the Act in New South Wales or the equivalent provision in an Act in another State;
+(c)is subject to any penalty contained in and imposed pursuant to section 21(1) of the Act in New South Wales or the equivalent provision in an Act in another State;
 (d)being a participant, is found by the Trustees not to be eligible to remain a contributor to the Fund;
 (e)is convicted of a criminal offence punishable on conviction by imprisonment for 2 years or more; or
 (f)is for some other reason unfit to continue to be a trustee —
