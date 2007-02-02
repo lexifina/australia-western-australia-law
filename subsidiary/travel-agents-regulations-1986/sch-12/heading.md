@@ -1,6 +1,7 @@
 ## Schedule 12
 [Regulation 15]
 ## Resolution of the Trustees
+[Heading inserted in Gazette 22 Dec 1995 p. 6177.]
 Amendment resolution
 The Travel Agents Compensation Trust Fund Deed set out in Schedule 2 and amended in schedules 3 to 11 is amended —
 (a)by deleting clauses 4.1 to 4.16 and substituting the following clauses —
@@ -14,7 +15,7 @@ The Travel Agents Compensation Trust Fund Deed set out in Schedule 2 and amended
 4.8Where a Trustee —
 (a)becomes bankrupt or makes any arrangement or composition with the Trustee’s creditors generally;
 (b)becomes of unsound mind or the Trustee’s estate is liable to be dealt with in any way under the law relating to mental health which applies in the State where the Trustee resides;
-(c)is subject to any penalty contained in and imposed pursuant to section 21 (1) of the Act in New South Wales or the equivalent provision in an Act in another State;
+(c)is subject to any penalty contained in and imposed pursuant to section 21(1) of the Act in New South Wales or the equivalent provision in an Act in another State;
 (d)being a participant, is found by the Trustees not to be eligible to remain a contributor to the Fund;
 (e)is convicted of a criminal offence punishable on conviction by imprisonment for 2 years or more; or
 (f)is for some other reason unfit to continue to be a Trustee

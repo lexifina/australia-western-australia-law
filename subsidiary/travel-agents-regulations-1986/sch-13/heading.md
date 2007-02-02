@@ -1,6 +1,7 @@
 ## Schedule 13
 [Regulation 15]
 ## Resolution of the Trustees
+[Heading inserted in Gazette 22 Dec 1995 p. 6181.]
 Resolved amendments
 The Travel Agents Compensation Trust Fund Deed set out in Schedule 2 and amended in schedules 3 to 12 is amended —
 (a)in clause 6.1 by deleting paragraphs (e) and (f) and substituting the following paragraphs —
@@ -19,7 +20,7 @@ The Travel Agents Compensation Trust Fund Deed set out in Schedule 2 and amended
 11.12Before the Trustees determine to reinstate a person as a participant pursuant to clause 11.10 they may require:
 (a)the person to pay part or all of the current application and administration fees payable by persons applying to be a contributor to the Fund pursuant to clause 9.3; and
 (b)the person to provide the Trustees any information that they may reasonably require about the person’s financial resources.
-11.13Apart from the fees that may be imposed by the Trustees under clause 11.12 (a) no other fees shall be imposed by the Trustees as a condition of the Trustees exercising their discretion under clause 11.10.”;
+11.13Apart from the fees that may be imposed by the Trustees under clause 11.12(a) no other fees shall be imposed by the Trustees as a condition of the Trustees exercising their discretion under clause 11.10.”;
 and
 (f)by deleting clause 22.3 and substituting the following clause —
 “22.3The Trustees may not delegate their powers, duties and obligations under clauses 4.4, 6.1, 6.2, 12.1, 20.8, 22.1, 22.5, 24.1, 24.2, 25.1, 28.1, 30.1”.
@@ -29,13 +30,11 @@ Page 2
 NOW THIS DEED WITNESSES as follows —
 (Amendment to cross-references):
 II.(i)
-(ii)Reference to clause 4.2, should now
-(iii)read 4.1
+(ii)Reference to clause 4.2, should now read 4.1
+(iii)
 (iv)
-II.(v)Reference to clause 4.3, should now
-read 4.1
-II.(vi)Reference to clause 4.5, should now
-read 4.3
+II.(v)Reference to clause 4.3, should now read 4.1
+II.(vi)Reference to clause 4.5, should now read 4.3
 Page 5
 1.1 Paragraph 7 “Incidental arrangements” — delete the word “to” | 1.1“Incidental arrangements” means arrangements which are entered into in conjunction with travel arrangements and which in the opinion of the Trustees, are reasonably incidental to travel arrangements.
 Page 6
