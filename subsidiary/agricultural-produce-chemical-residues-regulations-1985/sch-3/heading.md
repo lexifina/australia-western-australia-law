@@ -3,13 +3,13 @@
 Group A
 Aldrin Chlordane Chlordecone Dieldrin | Endosulfan Endrin Heptachlor Isobenzan
 Group B
-BHC and its isomers DDT (including DDD and DDE) | Dicofol Fenarimol Lindane Methoxychlor Quintozene
+BHC and its isomers DDT (including DDD and DDE) Dicofol Fenarimol | Lindane Methoxychlor Quintozene
 Group C
 Camphechlor
 Chlorinated terpene isomers
 Group D
-Azamethiphos Azinphos-ethyl Azinphos-methyl Bromophos-ethyl Carbophenothion Chlorfenvinphos Chlorpyriphos Chlorpyriphos-methyl Chlorthiophos Coumaphos Crotoxyphos Demeton Diazinon Dichlorvos Dimethoate Dioxathion Disulfoton Dithianon | Ethion Ethoprophos Famphur Fenamiphos Fenchlorphos Fenitrothion Fensulfothion Fenthion Formothion Isocarbophos Leptophos Maldison Menazon Methamidophos Methidathion Mevinphos Monocrotophos
-Naled Naphthalophos Omethoate Parathion Parathion-methyl Phenkapton Phorate Phosalone Phosmet Phosphamidon Pirimiphos-ethyl | Pirimiphos-methyl Prothiophos Pyrazophos Schradan Sulprofos Temephos Tetrachlorvinphos Thiometon Tributylphosphorotrithioate Trichlorfon Vamidothion
+Azamethiphos Azinphos-ethyl Azinphos-methyl Bromophos-ethyl Carbophenothion Chlorfenvinphos Chlorpyriphos Chlorpyriphos-methyl Chlorthiophos Coumaphos Crotoxyphos Demeton Diazinon Dichlorvos Dimethoate Dioxathion Disulfoton Dithianon Ethion Ethoprophos | Famphur Fenamiphos Fenchlorphos Fenitrothion Fensulfothion Fenthion Formothion Isocarbophos Leptophos Maldison Menazon Methamidophos Methidathion Mevinphos Monocrotophos Naled Naphthalophos Omethoate Parathion Parathion-methyl
+Phenkapton Phorate Phosalone Phosmet Phosphamidon Pirimiphos-ethyl Pirimiphos-methyl Prothiophos Pyrazophos | Schradan Sulprofos Temephos Tetrachlorvinphos Thiometon Tributylphosphorotrithioate Trichlorfon Vamidothion
 Group E
 Dithiocarbamates (including — ferbam mancozeb maneb | propineb thiram zineb ziram) Formetanate
 Group F
@@ -57,4 +57,4 @@ Group T
 Etridiazole
 Triadimefon
 Triazbutil
-[Schedule 3 inserted in Gazette 11 Jun 1996 p. 2489-91; amended in Gazette 11 Aug 2006 p. 2979-80.]]
+[Schedule 3 inserted in Gazette 11 Jun 1996 p. 2489-91; amended in Gazette 11 Aug 2006 p. 2979-80.]
