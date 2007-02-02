@@ -1,6 +1,7 @@
 ## Schedule 1A
 [Regulation 8]
 ## Qualifications for carrying on a business offering international air travel
+[Heading inserted in Gazette 14 Dec 1990 p. 6133.]
 The successful completion of a course itemized in column 3, which is conducted by the corresponding institution in column 2, is a qualification for carrying on a business offering international air travel.
 Item | Institution | Course
 1 | AFTA Travel College..................... | International Travel Consultant Course.

@@ -1,6 +1,7 @@
 ## Schedule 8
 [Regulation 15]
 ## Resolution of the Trustees
+[Heading inserted in Gazette 23 Aug 1991 p. 4358.]
 The Travel Agents Compensation Fund Trust Deed set out in Schedule 2 and amended in later schedules is amended —
 (a)in clause 13.2 —
 (i)by deleting the full stop at the end of paragraph (e) and substituting a semi colon; and

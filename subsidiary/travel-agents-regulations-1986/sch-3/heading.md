@@ -1,6 +1,7 @@
 ## Schedule 3
 [Regulation 15]
 ## Resolution of the Trustees
+[Heading inserted in Gazette 23 Jun 1989 p. 1853.]
 Amendment resolution
 The Travel Agents Compensation Trust Fund Deed set out in Schedule 2 is amended —
 (a)in clause 1.1 by —

@@ -1,6 +1,7 @@
 ## Schedule 11
 [Regulation 15]
 ## Resolution of the Trustees
+[Heading inserted in Gazette 22 Dec 1995 p. 6176.]
 Amendment resolution
 The Travel Agents Compensation Trust Fund Deed set out in Schedule 2 and amended in schedules 3 to 10 is amended —
 (a)by deleting clause 5.2 and substituting the following clauses —

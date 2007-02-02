@@ -1,6 +1,7 @@
 ## Schedule 14
 [Regulation 15]
 ## Resolution of the Trustees
+[Heading inserted in Gazette 22 Dec 1995 p. 6183.]
 Resolved amendments
 The Trustees made the following resolutions on 30 March 1995, resolutions 2, 3, 4 and 5 of which relate to the amendment of the Travel Agents Compensation Trust Fund Deed set out in Schedule 2 and amended in schedules 3 to 13 —
 1.PARTICIPATION AGREEMENT

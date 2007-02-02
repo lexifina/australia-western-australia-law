@@ -1,6 +1,7 @@
 ## Schedule 9
 [Regulation 15]
 ## Resolution of the Trustees
+[Heading inserted in Gazette 23 Aug 1991 p. 4358.]
 Amendment resolution
 The Travel Agents Compensation Fund Trust Deed set out in Schedule 2 and amended in later schedules is amended in clause 2.2 by deleting paragraph (b) and substituting the following paragraph —
 “(b)every person who entrusts money or other valuable consideration to another person (or an employee or agent of the other person) in the course of the other person’s carrying on business as a travel agent in a State if either:
