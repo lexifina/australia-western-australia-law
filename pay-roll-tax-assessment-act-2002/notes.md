@@ -17,3 +17,205 @@ The Revenue Laws Amendment (Tax Relief) Act 2004 s. 15(7) reads as follows:
 “
 (7) The amendments made by this section do not affect an exemption given before the coming into operation of this section.
 ”.
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 5 Div. 2 of those regulations read as follows:
+“
+1.Citation
+These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
+2.Commencement
+These regulations come into operation on the day on which the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007 comes into operation.
+3.When certain modifications have effect
+(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
+(2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes Administration) Regulations 2002 Part 5 to the extent of any inconsistency.
+Note:Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
+4.Modification of State taxing laws
+(1) For the purposes of section 7(2) of the Act, each State taxing law is taken to be modified to the extent necessary to give effect to subregulation (2).
+(2) If —
+(a) a State taxing law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding applied law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction; and
+(b) a person is required or permitted, or could be required or permitted, to take an action under both the State taxing law and the corresponding applied law in relation to the event, state of affairs or transaction; and
+(c) the person has taken the action in accordance with the corresponding applied law; and
+(d) the Commissioner of State Revenue has sufficient information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the State taxing law or the corresponding applied law or both, as the case requires,
+then —
+(e) the person is not required to take the action under the State taxing law; and
+(f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the State taxing law in relation to the event, state of affairs or transaction.
+(3) The particular modifications set out in these regulations of certain State taxing laws have effect for the purposes of section 7(2) of the Act.
+Part 5 — Pay-roll tax
+Division 2 — The Pay-roll Tax Assessment Act 2002
+27.Modification of the Pay-roll Tax Assessment Act 2002
+This Division sets out modifications of the Pay-roll Tax Assessment Act 2002 in its application as a law of Western Australia.
+28.Section 4A inserted
+After section 4 the following section is inserted —
+“
+4A.Application of Act in non-Commonwealth places
+(1)In this Act, unless the contrary intention appears —
+(a) a reference to this Act is to be read as a reference to this Act in its application as a law of Western Australia; and
+(b) a reference to the regulations is to be read as a reference to the Pay-roll Tax Assessment Regulations 2003 in their application as a law of Western Australia; and
+(c) a reference to the Pay-roll Tax Act 2002 is to be read as a reference to that Act in its application as a law of Western Australia; and
+(d) a reference to the Taxation Administration Act 2003 is to be read as a reference to that Act in its application as a law of Western Australia.
+(2)This Act is to be read with the applied Pay-roll Tax Assessment Act as a single body of law.
+(3)In the following provisions, a reference to WA taxable wages is to be read as a reference to WA taxable wages as defined in this Act or WA taxable wages as defined in the applied Pay-roll Tax Assessment Act — sections 17(1) and (3) and 23(1) and the Glossary clause 1 (the definitions of “interstate non-group employer” and “local non-group employer”).
+(4)In section 22A(6), a reference to WA taxable wages is to be read as a reference to WA taxable wages as defined in this Act and WA taxable wages as defined in the applied Pay-roll Tax Assessment Act.
+”.
+29.Section 5 modified
+(1) Section 5(2)(b) is modified by inserting after “State” —
+“
+(whether or not in Commonwealth places in that State) or wholly in Commonwealth places in Western Australia
+”.
+(2) After section 5(2) the following subsection is inserted —
+“
+(3)In this section, a reference to Western Australia (except the reference inserted by the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 regulation 29(1)) is to be read as not including Commonwealth places in Western Australia.
+”.
+30.Section 16A inserted
+After section 16 the following section is inserted —
+“
+16A.Dual liability — non-group employers
+(1)If a non-group employer is, for a period, liable to pay pay-roll tax under Part 2 Division 2 of this Act and liable to pay pay-roll tax under Part 2 Division 2 of the applied Pay-roll Tax Assessment Act then, for the purposes of calculating the amount of pay-roll tax the employer is liable to pay, a reference to WA taxable wages in Part 2 Division 2 of this Act is to be read as a reference to WA taxable wages as defined in this Act and WA taxable wages as defined in the applied Pay-roll Tax Assessment Act.
+(2)The employer need not pay the pay-roll tax which the employer is otherwise liable to pay for the period, in accordance with subsection (1), to the extent to which the employer has paid pay-roll tax under Part 2 Division 2 of the applied Pay-roll Tax Assessment Act for the period.
+”.
+31.Section 20A inserted
+After section 20 the following section is inserted —
+“
+20A.Dual liability — groups
+(1)If a group is, for a period, liable to pay pay-roll tax under Part 2 Division 3 of this Act and liable to pay pay-roll tax under Part 2 Division 3 of the applied Pay-roll Tax Assessment Act then, for the purposes of calculating the amount of pay-roll tax the group is liable to pay, a reference to WA taxable wages in Part 2 Division 3 of this Act (other than section 17(1) and (3)) is to be read as a references to WA taxable wages as defined in this Act and WA taxable wages as defined in the applied Pay-roll Tax Assessment Act.
+(2)The members of a group need not pay the pay-roll tax which the group is otherwise liable to pay for the period, in accordance with subsection (1), to the extent to which the members of the group have paid pay-roll tax under Part 2 Division 3 of the applied Pay-roll Tax Assessment Act for the period.
+”.
+32.Section 29 modified
+After section 29(1b) the following subsection is inserted —
+“
+(1ba)If the employer or group is liable to pay pay-roll tax under both this Act and the applied Pay-roll Tax Assessment Act then, in subsection (1a), the expected pay-roll tax liability is the sum of —
+(a) the amount of expected pay-roll tax liability in subsection (1b) of this Act; and
+(b) the amount of expected pay-roll tax liability in subsection (1b) of the applied Pay-roll Tax Assessment Act.
+”.
+33.Section 29A inserted
+After section 29 the following section is inserted in Part 3 —
+“
+29A.Dual liability — returns
+(1)In sections 26(1) and 29(9), a reference to WA taxable wages to be specified in a return for a period is to be read as a reference to the sum of —
+(a) the amount of WA taxable wages to be specified in the return for that period for the purposes of section 26(1) or 29(9) of this Act (which ever is relevant); and
+(b) the amount of WA taxable wages to be specified in a return for that period for the purposes of section 26(1) or 29(9) of the applied Pay-roll Tax Assessment Act (which ever is relevant).
+(2)If a person has lodged a return relating to a period under section 26(1) or 29(9) of the applied Pay-roll Tax Assessment Act, the person need not lodge a return for that period under section 26(1) or 29(9) of this Act.
+”.
+34.Glossary modified
+(1) The Glossary clause 1 is modified by inserting in their appropriate alphabetical positions —
+“
+applied Pay-roll Tax Act means the Pay-roll Tax Act 2002 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act;
+applied Pay-roll Tax Assessment Act means the Pay-roll Tax Assessment Act 2002 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act;
+Commonwealth Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth;
+”.
+(2) The Glossary clause 1 is modified in the definition of “WA taxable wages” by deleting “in Western Australia”.
+(3) The Glossary clause 4 is modified as follows:
+(a) in subclause (1)(a) by inserting after “State” —
+“
+(whether or not in Commonwealth places in that State) or wholly in Commonwealth places in Western Australia
+”;
+(b) by inserting after subclause (2) the following subclause —
+“
+(3) In subclause (1)(a) and (b), a reference to Western Australia (except the reference inserted by the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 regulation 34(3)(a)) is to be read as not including Commonwealth places in Western Australia.
+”.
+”.
+Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. r. 1-5 and Pt. 5 Div. 2 of that notice read as follows:
+“
+1.Citation
+This notice is the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
+2.Commencement
+This notice comes into operation on the day after the day on which it is registered under the Legislative Instruments Act 2003 of the Commonwealth.
+3.When certain modifications have effect
+(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
+(2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2002 Part 5 to the extent of any inconsistency.
+Note:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
+4.Definitions
+In this notice —
+applied WA law means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
+Commissioner of State Revenue means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
+Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
+5.Modification of applied WA laws
+(1) For the purposes of the Commonwealth Mirror Taxes Act section 8, each applied WA law is taken to be modified to the extent necessary to give effect to subclause (2).
+(2) If —
+(a) an applied WA law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding State taxing law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction; and
+(b) a person is required or permitted, or could be required or permitted, to take an action under both the applied WA law and the corresponding State taxing law in relation to the event, state of affairs or transaction; and
+(c) the person has taken the action in accordance with the corresponding State taxing law; and
+(d) the Commissioner of State Revenue has sufficient information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the applied WA law or the corresponding State taxing law or both, as the case requires,
+then —
+(e) the person is not required to take the action under the applied WA law; and
+(f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the applied WA law in relation to the event, state of affairs or transaction.
+(3) The particular modifications set out in this notice of certain applied WA laws have effect for the purposes of the Commonwealth Mirror Taxes Act section 8.
+Part 5 — Pay-roll tax
+Division 2 — The applied Pay-roll Tax Assessment Act 2002
+28.Modification of the applied Pay-roll Tax Assessment Act 2002
+This Division sets out modifications of the Pay-roll Tax Assessment Act 2002 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia.
+29.Section 4A inserted
+After section 4 the following section is inserted —
+“
+4A.Application of Act in Commonwealth places
+(1) In this Act, unless the contrary intention appears —
+(a) a reference to this Act is to be read as a reference to this Act in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
+(b) a reference to the regulations is to be read as a reference to the Pay-roll Tax Assessment Regulations 2003 of Western Australia in their application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
+(c) a reference to the Pay-roll Tax Act 2002 is to be read as a reference to the Pay-roll Tax Act 2002 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
+(d) a reference to the Taxation Administration Act 2003 is to be read as a reference to the Taxation Administration Act 2003 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act.
+(2) This Act is to be read with the corresponding Pay-roll Tax Assessment Act as a single body of law.
+(3) In the following provisions, a reference to WA taxable wages is to be read as a reference to WA taxable wages as defined in this Act or WA taxable wages as defined in the corresponding Pay-roll Tax Assessment Act — sections 17(1) and (3) and 23(1) and the Glossary clause 1 (the definitions of “interstate non-group employer” and “local non-group employer”).
+(4) In section 22A(6), a reference to WA taxable wages is to be read as a reference to WA taxable wages as defined in this Act and WA taxable wages as defined in the corresponding Pay-roll Tax Assessment Act.
+(5) In addition to being modified as prescribed by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007, this Act is deemed to be further modified to any extent that is necessary or convenient —
+(a) to enable this Act to operate effectively as a law of the Commonwealth; and
+(b) to ensure that the combined liability of a taxpayer under this Act and the corresponding Pay-roll Tax Assessment Act is as nearly as possible the same as the taxpayer’s liability would be under the corresponding Pay-roll Tax Assessment Act alone if the Commonwealth places in Western Australia were not Commonwealth places.
+”.
+30.Section 5 modified
+(1) Section 5(2)(b) is modified by inserting after “State” —
+“
+(whether or not in Commonwealth places in that State) or wholly in Western Australia (other than in Commonwealth places in Western Australia)
+”.
+(2) After section 5(2) the following subsection is inserted —
+“
+(3) In this section, a reference to Western Australia (except the references inserted by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007 clause 30(1)) is to be read as referring only to Commonwealth places in Western Australia.
+”.
+31.Section 16A inserted
+After section 16 the following section is inserted —
+“
+16A.Dual liability — non-group employers
+(1) If a non-group employer is, for a period, liable to pay pay-roll tax under both Part 2 Division 2 of this Act and liable to pay pay-roll tax under Part 2 Division 2 of the corresponding Pay-roll Tax Assessment Act then, for the purposes of calculating the amount of pay-roll tax the employer is liable to pay, a reference to WA taxable wages in Part 2 Division 2 of this Act is to be read as a reference to WA taxable wages as defined in this Act and WA taxable wages as defined in the corresponding Pay-roll Tax Assessment Act.
+(2) The employer need not pay the pay-roll tax which the employer is otherwise liable to pay for the period, in accordance with subsection (1), to the extent to which the employer has paid pay-roll tax under Part 2 Division 2 of the corresponding Pay-roll Tax Assessment Act for the period.
+”.
+32.Section 20A inserted
+After section 20 the following section is inserted —
+“
+20A.Dual liability — groups
+(1) If a group is, for a period, liable to pay pay-roll tax under both Part 2 Division 3 of this Act and liable to pay pay-roll tax under Part 2 Division 3 of the corresponding Pay-roll Tax Assessment Act then, for the purposes of calculating the amount of pay-roll tax the group is liable to pay, a reference to WA taxable wages in Part 2 Division 3 of this Act (other than section 17(1) and (3)) is to be read as a references to WA taxable wages as defined in this Act and WA taxable wages as defined in the corresponding Pay-roll Tax Assessment Act.
+(2) The members of a group need not pay the pay-roll tax which the group is otherwise liable to pay for the period, in accordance with subsection (1), to the extent to which the members of the group have paid pay-roll tax under Part 2 Division 3 of the corresponding Pay-roll Tax Assessment Act for the period.
+”.
+33.Section 29 modified
+After section 29(1b) the following subsection is inserted —
+“
+(1ba) If the employer or group is liable to pay pay-roll tax under both this Act and the corresponding Pay-roll Tax Assessment Act then, in subsection (1a), the expected pay-roll tax liability is the sum of —
+(a) the amount of expected pay-roll tax liability in subsection (1b) of this Act; and
+(b) the amount of expected pay-roll tax liability in section 29(1b) of the corresponding Pay-roll Tax Assessment Act.
+”.
+34.Section 29A inserted
+After section 29 the following section is inserted in Part 3 —
+“
+29A.Dual liability — returns
+(1) In sections 26(1) and 29(9), a reference to WA taxable wages to be specified in a return for a period is to be read as a reference to the sum of —
+(a) the amount of WA taxable wages to be specified in the return for that period for the purposes of section 26(1) or 29(9) of this Act (which ever is relevant); and
+(b) the amount of WA taxable wages to be specified in a return for that period for the purposes of section 26(1) or 29(9) of the corresponding Pay-roll Tax Assessment Act (which ever is relevant).
+(2) If a person has lodged a return relating to a period under section 26(1) or 29(9) of the corresponding Pay-roll Tax Assessment Act, the person need not lodge a return for that period under section 26(1) or 29(9) of this Act.
+”.
+35.Glossary modified
+(1) The Glossary clause 1 is modified by inserting the following definitions in their appropriate alphabetical positions —
+“
+Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998;
+corresponding Pay-roll Tax Act means the Pay-roll Tax Act 2002 of Western Australia in its application as a law of Western Australia;
+corresponding Pay-roll Tax Assessment Act means the Pay-roll Tax Assessment Act 2002 of Western Australia in its application as a law of Western Australia;
+”.
+(2) The Glossary clause 1 is modified in the definition of “employer” by inserting after “Western Australia” —
+“ or the Commonwealth ”.
+(3) The Glossary clause 1 is modified in the definition of “WA taxable wages” by deleting “in Western Australia”.
+(4) The Glossary clause 2(1)(c) is modified by inserting after “Western Australia” in both places where it occurs —
+“ or the Commonwealth ”.
+(5) The Glossary clause 4 is modified as follows:
+(a) in subclause (1)(a) by inserting after “State” —
+“
+(whether or not in Commonwealth places in that State) or wholly in Western Australia (other than in Commonwealth places in Western Australia)
+”;
+(b) by inserting after subclause (2) the following subclause —
+“
+(3) In subclause (1)(a) and (b), a reference to Western Australia (except the references inserted by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007 clause 35(5)(a)) is to be read as referring only to Commonwealth places in Western Australia.
+”.
+”.
