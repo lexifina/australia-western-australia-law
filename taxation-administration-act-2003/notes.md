@@ -64,3 +64,217 @@ Part 4 — Reassessment
 (3) Subsection (2) does not authorise the Commissioner to make an assessment under the new provisions of the duty on an instrument to the extent (if any) to which the former provisions apply in relation to it under the Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 section 9(2)(b).
 (4) The Taxation Administration Act 2003 sections 18 and 54(1)(a) apply in relation to an assessment under subsection (2) as if it were a reassessment under section 16 of that Act.
 ”.
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 7 Div. 1 of those regulations read as follows:
+“
+1.Citation
+These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
+2.Commencement
+These regulations come into operation on the day on which the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007 comes into operation.
+3.When certain modifications have effect
+(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
+(2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes Administration) Regulations 2002 Part 5 to the extent of any inconsistency.
+Note:Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
+4.Modification of State taxing laws
+(1) For the purposes of section 7(2) of the Act, each State taxing law is taken to be modified to the extent necessary to give effect to subregulation (2).
+(2) If —
+(a) a State taxing law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding applied law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction; and
+(b) a person is required or permitted, or could be required or permitted, to take an action under both the State taxing law and the corresponding applied law in relation to the event, state of affairs or transaction; and
+(c) the person has taken the action in accordance with the corresponding applied law; and
+(d) the Commissioner of State Revenue has sufficient information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the State taxing law or the corresponding applied law or both, as the case requires,
+then —
+(e) the person is not required to take the action under the State taxing law; and
+(f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the State taxing law in relation to the event, state of affairs or transaction.
+(3) The particular modifications set out in these regulations of certain State taxing laws have effect for the purposes of section 7(2) of the Act.
+Part 7 — Taxation administration
+Division 1 — The Taxation Administration Act 2003
+45.Modification of the Taxation Administration Act 2003
+This Division sets out modifications of the Taxation Administration Act 2003 in its application as a law of Western Australia.
+46.Section 3 modified
+Section 3(1)(k) is modified by inserting after “taxation Act” —
+“ in its application as a law of Western Australia ”.
+47.Sections 5A and 5B inserted
+After section 5 the following sections are inserted —
+“
+5A.Application of Act in non-Commonwealth places
+(1)In this Act, unless the contrary intention appears —
+(a)a reference to this Act is to be read as a reference to this Act in its application as a law of Western Australia; and
+(b)a reference to the regulations is to be read as a reference to the Taxation Administration Regulations 2003 in their application as a law of Western Australia; and
+(c)a reference to any of the following Acts is to be read as a reference to the Act of that name in its application as a law of Western Australia —
+(i)the Debits Tax Act 2002;
+(ii)the Debits Tax Assessment Act 2002;
+(iii)the Land Tax Act 2002;
+(iv)the Land Tax Assessment Act 2002;
+(v)the Metropolitan Region Improvement Tax Act 1959;
+(vi)the Metropolitan Region Town Planning Scheme Act 1959;
+(vii)the Pay-roll Tax Act 2002;
+(viii)the Pay-roll Tax Assessment Act 2002;
+(ix)the Planning and Development Act 2005;
+(x)the Stamp Act 1921.
+(2)This Act is to be read with the applied Taxation Administration Act as a single body of law.
+5B.Application of taxation Acts in non-Commonwealth places
+In each taxation Act, unless the contrary intention appears, a reference (however expressed) to an Act administered by the Commissioner is to be read as including a reference to an Act of which the Commissioner has the general administration under an arrangement under the Commonwealth Places (Mirror Taxes Administration) Act 1999 section 5.
+”.
+48.Section 10 modified
+Section 10(6) is modified by inserting after “Commissioner” in the first place where it occurs —
+“
+under this Act, or taken to be delegated under the applied Taxation Administration Act,
+”.
+49.Section 114 modified
+(1) Section 114(1)(e) is modified by inserting after “a taxation Act” —
+“ or an applied taxation Act ”.
+(2) Section 114(2) is modified as follows:
+(a) by inserting after “a taxation Act” in both places where it occurs —
+“ or an applied taxation Act ”;
+(b) in paragraph (a) by inserting after “the taxation Act” —
+“ or the applied taxation Act ”;
+(c) in paragraph (b) by inserting after “this Act” —
+“ or the applied Taxation Administration Act ”.
+50.Glossary modified
+The Glossary is modified by inserting in their appropriate alphabetical positions —
+“
+“applied taxation Act” means a taxation Act in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act;
+“applied Taxation Administration Act” means the Taxation Administration Act 2003 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act;
+“Commonwealth Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth;
+“Commonwealth place” means a Commonwealth place in or in relation to which the applied Taxation Administration Act applies, or is taken to have applied, under the Commonwealth Act;
+”.
+”.
+Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. r. 1-5 and Pt. 7 Div. 1 of that notice read as follows:
+“
+1.Citation
+This notice is the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
+2.Commencement
+This notice comes into operation on the day after the day on which it is registered under the Legislative Instruments Act 2003 of the Commonwealth.
+3.When certain modifications have effect
+(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
+(2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2002 Part 5 to the extent of any inconsistency.
+Note:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
+4.Definitions
+In this notice —
+“applied WA law” means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
+“Commissioner of State Revenue” means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
+“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
+5.Modification of applied WA laws
+(1) For the purposes of the Commonwealth Mirror Taxes Act section 8, each applied WA law is taken to be modified to the extent necessary to give effect to subclause (2).
+(2) If —
+(a) an applied WA law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding State taxing law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction; and
+(b) a person is required or permitted, or could be required or permitted, to take an action under both the applied WA law and the corresponding State taxing law in relation to the event, state of affairs or transaction; and
+(c) the person has taken the action in accordance with the corresponding State taxing law; and
+(d) the Commissioner of State Revenue has sufficient information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the applied WA law or the corresponding State taxing law or both, as the case requires,
+then —
+(e) the person is not required to take the action under the applied WA law; and
+(f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the applied WA law in relation to the event, state of affairs or transaction.
+(3) The particular modifications set out in this notice of certain applied WA laws have effect for the purposes of the Commonwealth Mirror Taxes Act section 8.
+Part 7 — Taxation administration
+Division 1 — The applied Taxation Administration Act 2003
+48.Modification of the applied Taxation Administration Act 2003
+This Division sets out modifications of the Taxation Administration Act 2003 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia.
+49.Section 3 modified
+Section 3(1) is modified by deleting paragraph (k) and inserting instead —
+“
+(k) any other enactment that is prescribed by the regulations as a taxation Act and that is a State taxing law, in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act.
+”.
+50.Section 5 modified
+Section 5 is modified by deleting “Western Australia” and inserting instead —
+“ the Commonwealth ”.
+51.Sections 5A and 5B inserted
+After section 5 the following sections are inserted —
+“
+5A.Application of Act in Commonwealth places
+(1) In this Act, unless the contrary intention appears —
+(a) a reference to this Act is to be read as a reference to this Act in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
+(b) a reference to the regulations is to be read as a reference to the Taxation Administration Regulations 2003 in their application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
+(c) a reference to the Minister is to be read as a reference to the Minister of the Crown in right of Western Australia to whom the administration of the corresponding Taxation Administration Act is for the time being committed by the Governor of Western Australia; and
+(d) a reference to any of the following Acts, or provisions of an Act, is to be read as a reference to the Act, or the provision of the Act, of that name of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act —
+(i) the Debits Tax Act 2002;
+(ii) the Debits Tax Assessment Act 2002;
+(iii) the Land Tax Act 2002;
+(iv) the Land Tax Assessment Act 2002;
+(v) the Metropolitan Region Improvement Tax Act 1959;
+(vi) the Metropolitan Region Town Planning Scheme Act 1959 section 41;
+(vii) the Pay-roll Tax Act 2002;
+(viii) the Pay-roll Tax Assessment Act 2002;
+(ix) the Planning and Development Act 2005 section 200;
+(x) the Stamp Act 1921.
+(2) This Act is to be read with the corresponding Taxation Administration Act as a single body of law.
+(3) In addition to being modified as prescribed by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007, this Act is deemed to be further modified to any extent that is necessary or convenient —
+(a) to enable this Act to operate effectively as a law of the Commonwealth; and
+(b) to ensure that the combined liability of a taxpayer under this Act and another taxation Act and the corresponding Taxation Administration Act and taxation Act is as nearly as possible the same as the taxpayer’s liability would be under the corresponding Taxation Administration Act and taxation Act alone if the Commonwealth places in Western Australia were not Commonwealth places.
+5B.Application of taxation Acts in Commonwealth places
+In each taxation Act, unless the contrary intention appears —
+(a) a reference (however expressed) to an Act administered by the Commissioner is to be read as a reference to —
+(i) an Act of which the Commissioner has the general administration under an arrangement under the Commonwealth Mirror Taxes Act section 9; or
+(ii) an Act administered by the Commissioner as a law of Western Australia;
+and
+(b) a reference to an Act, other than a taxation Act or an Act of another jurisdiction, is to be read as a reference to the Act of that name of the Parliament of Western Australia.
+”.
+52.Section 6 repealed
+Section 6 is repealed.
+53.Sections 10 and 11 replaced
+Sections 10 and 11 are repealed and the following sections are inserted instead —
+“
+10.Delegation
+(1) A person to whom the Commissioner has, under the corresponding Taxation Administration Act section 10, delegated a function under a corresponding taxation Act (the “corresponding delegation”) is to be taken to have been delegated the equivalent function under the taxation Act that corresponds to the corresponding taxation Act —
+(a) while the corresponding delegation remains in effect; and
+(b) on terms that are the same as the terms of the corresponding delegation.
+(2) A person exercising or performing a power or duty that is taken to have been delegated to the person under this section is to be taken to do so in accordance with terms that are the same as the terms of the corresponding delegation unless the contrary is shown.
+(3) A person who the Commissioner has authorised to perform a function of the Commissioner under a corresponding taxation Act (the “corresponding authorisation”) is to be taken to be authorised to perform the equivalent function under the taxation Act that corresponds to the corresponding taxation Act —
+(a) while the corresponding authorisation remains in effect; and
+(b) on terms that are the same as the terms of the corresponding authorisation.
+(4) Nothing in this section limits the ability of the Commissioner to perform a function under a taxation Act through an agent.
+11.Tax investigators
+(1) A person who the Commissioner has, under the corresponding Taxation Administration Act section 11, appointed as an investigator is to be taken to be an investigator for the purposes of the taxation Acts —
+(a) while that appointment remains in effect; and
+(b) on terms that are the same as the terms of the person’s appointment under the corresponding Taxation Administration Act.
+(2) An identity card issued to the person under the corresponding Taxation Administration Act section 11 has effect for the purposes of the taxation Acts.
+”.
+54.Section 43 modified
+Section 43(2ab)(a) is modified by deleting “State” and inserting instead —
+“ Commonwealth ”.
+55.Section 60 modified
+Section 60(1) and (2) are modified by deleting “State” and inserting instead —
+“ Crown in right of the Commonwealth ”.
+56.Section 76 modified
+Section 76(8) is modified by deleting “State” in both places where it occurs and inserting instead —
+“ Crown in right of the Commonwealth ”.
+57.Section 77 modified
+After section 77(7) the following subsection is inserted —
+“
+(8) This section does not apply in relation to land owned by, or vested in the Crown in right of the Commonwealth, or any agency or instrumentality of the Crown in right of the Commonwealth, or any other public statutory authority.
+”.
+58.Section 114 modified
+(1) Section 114(1)(e) is modified by inserting after “a taxation Act” —
+“ or a corresponding taxation Act ”.
+(2) Section 114(2) is modified as follows:
+(a) by inserting after “a taxation Act” in both places where it occurs —
+“ or a corresponding taxation Act ”;
+(b) in paragraph (a) by inserting after “the taxation Act” —
+“ or the corresponding taxation Act ”;
+(c) in paragraph (b) by inserting after “this Act” —
+“ or the corresponding Taxation Administration Act ”.
+59.Section 125 modified
+Section 125(2) is modified by inserting after “State” —
+“ or the Commonwealth ”.
+60.Glossary modified
+(1) The Glossary is modified by inserting in their appropriate alphabetical positions —
+“
+“Commissioner” means the Commissioner of State Revenue of Western Australia appointed in accordance with the corresponding Taxation Administration Act section 6;
+“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998;
+“Commonwealth place” means a Commonwealth place in or in relation to which this Act applies or is taken to have applied under the Commonwealth Mirror Taxes Act section 6;
+“corresponding taxation Act” means a taxation Act within the meaning of the corresponding Taxation Administration Act;
+“corresponding Taxation Administration Act” means the Taxation Administration Act 2003 of Western Australia in its application as a law of Western Australia;
+”.
+(2) The Glossary is modified by deleting the definition of “Commissioner”.
+(3) The Glossary is modified as follows:
+(a) in the definition of “identity card” by deleting “issued to an investigator under” and inserting instead —
+“ of an investigator referred to in ”;
+(b) in the definition of “investigator” by deleting “appointed” and inserting instead —
+“ taken ”;
+(c) in the definition of “recognised jurisdiction” by deleting “another State” and inserting instead —
+“ a State other than Western Australia ”;
+(d) in the definition of “recognised revenue law”, in paragraphs (a) and (b), by deleting “another State” and inserting instead —
+“ a State other than Western Australia ”;
+(e) in the definition of “taxation Act” by inserting after “enactment” —
+“
+(in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act)
+”.
+”.
