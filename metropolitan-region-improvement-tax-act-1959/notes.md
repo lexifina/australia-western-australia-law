@@ -16,93 +16,86 @@ Reprint 3: The Metropolitan Region Improvement Tax Act 1959 as at 9 May 2003 (in
 Taxation Administration (Consequential Provisions) (Taxing) Act 2002 Pt. 2 | 46 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Metropolitan Region Improvement Tax Amendment Act 2005 | 39 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077)
 Repealed by the Land Tax Assessment Act 1976.
-Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2002. Pt. 1 and Pt. 5 Div. 1 of those regulations read as follows:
-“
-Part 1 — Preliminary
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 4 Div. 1 of those regulations read as follows:
 1.Citation
-These regulations may be cited as the Commonwealth Places (Mirror Taxes Administration) Regulations 2002.
+These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
 2.Commencement
-(1) These regulations do not have effect unless an arrangement is in operation under section 5 of the Act.
-(2) When such an arrangement is in operation, these regulations and the modifications they prescribe are deemed to have taken effect on 6 October 1997.
-(3) If a State taxing law was repealed before these regulations take effect then, despite the repeal, when these regulations are deemed under subsection (2) to have taken effect, the repealed law is deemed to have been modified, in accordance with these regulations, on 6 October 1997.
-3.Modification of State taxing laws
-(1) In its operation as an applied WA law, the Act is modified by omitting section 7.
-(2) For the purposes of section 7(2) of the Act, each State taxing law is taken to be modified to the extent necessary to give effect to subregulation (3).
-(3) If —
-(a) a State taxing law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding applied law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction;
-(b) a person is required or permitted, or could be required or permitted, to take an action under both the State taxing law and the corresponding applied law in relation to the event, state of affairs or transaction;
+These regulations come into operation on the day on which the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007 comes into operation.
+3.When certain modifications have effect
+(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
+(2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes Administration) Regulations 2002 Part 5 to the extent of any inconsistency.
+Note:Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
+4.Modification of State taxing laws
+(1) For the purposes of section 7(2) of the Act, each State taxing law is taken to be modified to the extent necessary to give effect to subregulation (2).
+(2) If —
+(a) a State taxing law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding applied law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction; and
+(b) a person is required or permitted, or could be required or permitted, to take an action under both the State taxing law and the corresponding applied law in relation to the event, state of affairs or transaction; and
 (c) the person has taken the action in accordance with the corresponding applied law; and
-(d) the Commissioner has enough information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the State taxing law or the corresponding applied law or both, as the case requires,
+(d) the Commissioner of State Revenue has sufficient information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the State taxing law or the corresponding applied law or both, as the case requires,
 then —
 (e) the person is not required to take the action under the State taxing law; and
 (f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the State taxing law in relation to the event, state of affairs or transaction.
-(4) The particular modifications set out in these regulations of certain State taxing laws have effect for the purposes of section 7(2) of the Act.
-Part 5 — Metropolitan region improvement and planning
+(3) The particular modifications set out in these regulations of certain State taxing laws have effect for the purposes of section 7(2) of the Act.
+Part 4 — Metropolitan region improvement and planning
 Division 1 — The Metropolitan Region Improvement Tax Act 1959
-42.Modification of the Metropolitan Region Improvement Tax Act 1959
-This Division sets out modifications of the Metropolitan Region Improvement Tax Act 1959.
-43.Section 1A inserted
+21.Modification of the Metropolitan Region Improvement Tax Act 1959
+This Division sets out modifications of the Metropolitan Region Improvement Tax Act 1959 in its application as a law of Western Australia.
+22.Section 1A inserted
 After section 1 the following section is inserted —
 “
 1A.Application of Act in non-Commonwealth places
-(1)In this Act, unless the contrary intention appears —
-(a)a reference to this Act is to be read as a reference to this Act in its application as a law of Western Australia;
-(b)a reference to the Land Tax Assessment Act 1976 is to be read as a reference to that Act in its application as a law of Western Australia; and
-(c)a reference to the Metropolitan Region Town Planning Scheme Act 1959 is to be read as a reference to that Act in its application as a law of Western Australia.
-(2)This Act is to be read with the applied Metropolitan Region Improvement Tax Act as a single body of law.
-(3)In this section, unless the contrary intention appears —
-“applied Metropolitan Region Improvement Tax Act” means the Metropolitan Region Improvement Tax Act 1959 of Western Australia in its application in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
-“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth;
-“Commonwealth place” means a Commonwealth place in or in relation to which the applied Metropolitan Region Improvement Tax Act applies, or is taken to have applied, under the Commonwealth Mirror Taxes Act.
+(1) In this section —
+“applied Metropolitan Region Improvement Tax Act” means the Metropolitan Region Improvement Tax Act 1959 of Western Australia in its application in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
+(2) In this Act, unless the contrary intention appears —
+(a) a reference to this Act is to be read as a reference to this Act in its application as a law of Western Australia; and
+(b) a reference to the Planning and Development Act 2005 is to be read as a reference to that Act in its application as a law of Western Australia.
+(3) This Act is to be read with the applied Metropolitan Region Improvement Tax Act as a single body of law.
 ”.
 ”.
-Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2002. Pt. 1 and Pt. 5 Div. 1 of that notice read as follows:
+Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. r. 1-5 and Pt. 4 Div. 1 of that notice read as follows:
 “
-Part 1 — Preliminary
 1.Citation
-This notice may be cited as the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2002.
+This notice is the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
 2.Commencement
-(1) This notice does not have effect unless an arrangement is in operation under section 9 of the Commonwealth Places Mirror Taxes Act in relation to Western Australia.
-(2) When such an arrangement is in operation, this notice and the modifications it prescribes are deemed to have taken effect on 6 October 1997.
-(3) If an applied WA law was repealed before this notice takes effect then, despite the repeal, when this notice is deemed under subsection (2) to have taken effect, the repealed law is deemed to have been modified on 6 October 1997 as set out in this notice.
-3.Definitions
+This notice comes into operation on the day after the day on which it is registered under the Legislative Instruments Act 2003 of the Commonwealth.
+3.When certain modifications have effect
+(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
+(2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2002 Part 5 to the extent of any inconsistency.
+Note:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
+4.Definitions
 In this notice —
 “applied WA law” means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
-“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth;
-“WA taxing law” means a State taxing law of Western Australia.
-4.Modification of applied WA laws
-(1) For the purposes of section 8 of the Commonwealth Mirror Taxes Act, each applied WA law is taken to be modified to the extent necessary to give effect to subregulation (2).
+“Commissioner of State Revenue” means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
+“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
+5.Modification of applied WA laws
+(1) For the purposes of the Commonwealth Mirror Taxes Act section 8, each applied WA law is taken to be modified to the extent necessary to give effect to subclause (2).
 (2) If —
-(a) an applied WA law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding State taxing law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction;
-(b) a person is required or permitted, or could be required or permitted, to take an action under both the applied WA law and the corresponding State taxing law in relation to the event, state of affairs or transaction;
+(a) an applied WA law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding State taxing law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction; and
+(b) a person is required or permitted, or could be required or permitted, to take an action under both the applied WA law and the corresponding State taxing law in relation to the event, state of affairs or transaction; and
 (c) the person has taken the action in accordance with the corresponding State taxing law; and
-(d) the Commissioner has enough information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the applied WA law or the corresponding State taxing law or both, as the case requires,
+(d) the Commissioner of State Revenue has sufficient information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the applied WA law or the corresponding State taxing law or both, as the case requires,
 then —
 (e) the person is not required to take the action under the applied WA law; and
 (f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the applied WA law in relation to the event, state of affairs or transaction.
-(3) The particular modifications set out in this notice of certain applied WA laws have effect for the purposes of section 8 of the Commonwealth Mirror Taxes Act.
-Part 5 — Metropolitan region improvement and planning
+(3) The particular modifications set out in this notice of certain applied WA laws have effect for the purposes of the Commonwealth Mirror Taxes Act section 8.
+Part 4 — Metropolitan region improvement and planning
 Division 1 — The applied Metropolitan Region Improvement Tax Act 1959
-60.Modification of the applied Act
-This Division sets out modifications of the Metropolitan Region Improvement Tax Act 1959 of Western Australia.
-61.Section 1A inserted
+22.Modification of the applied Metropolitan Region Improvement Tax Act 1959
+This Division sets out modifications of the Metropolitan Region Improvement Tax Act 1959 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia.
+23.Section 1A inserted
 After section 1 the following section is inserted —
 “
 1A.Application of Act in Commonwealth places
-(1)In this Act, unless the contrary intention appears —
-(a)a reference to this Act is to be read as a reference to this Act in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
-(b)a reference to the Land Tax Assessment Act 1976 of Western Australia is to be read as a reference to the applied Land Tax Assessment Act; and
-(c)a reference to the Metropolitan Region Town Planning Scheme Act 1959 of Western Australia is to be read as a reference to the applied Metropolitan Region Town Planning Scheme Act.
-(2)This Act is to be read with the corresponding Metropolitan Region Improvement Tax Act as a single body of law.
-(3)In addition to being modified as prescribed by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2002, this Act is deemed to be further modified to any extent that is necessary or convenient —
-(a)to enable this Act to operate effectively as a law of the Commonwealth; and
-(b)to ensure that the combined liability of a taxpayer under this Act and the corresponding Metropolitan Region Improvement Tax Act is as nearly as possible the same as the taxpayer’s liability would be under the corresponding Metropolitan Region Improvement Tax Act alone if the Commonwealth places in Western Australia were not Commonwealth places.
-(4)In this Act, unless the contrary intention appears —
-“applied Land Tax Assessment Act” means the Land Tax Assessment Act 1976 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
-“applied Metropolitan Region Town Planning Scheme Act” means the Metropolitan Region Town Planning Scheme Act 1959 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
+(1) In this section —
 “Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth;
-“Commonwealth place” means a Commonwealth place in or in relation to which this Act applies or is taken to have applied under section 6 of the Commonwealth Mirror Taxes Act;
 “corresponding Metropolitan Region Improvement Tax Act” means the Metropolitan Region Improvement Tax Act 1959 of Western Australia in its application as a law of Western Australia.
+(2) In this Act, unless the contrary intention appears —
+(a) a reference to this Act is to be read as a reference to this Act in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
+(b) a reference to the Planning and Development Act 2005 of Western Australia is to be read as a reference to the Planning and Development Act 2005 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act.
+(3) This Act is to be read with the corresponding Metropolitan Region Improvement Tax Act as a single body of law.
+(4) In addition to being modified as prescribed by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007, this Act is deemed to be further modified to any extent that is necessary or convenient —
+(a) to enable this Act to operate effectively as a law of the Commonwealth; and
+(b) to ensure that the combined liability of a taxpayer under this Act and the corresponding Metropolitan Region Improvement Tax Act is as nearly as possible the same as the taxpayer’s liability would be under the corresponding Metropolitan Region Improvement Tax Act alone if the Commonwealth places in Western Australia were not Commonwealth places.
 ”.
 ”.
 The Acts Amendment (Annual Valuations and Land Tax) Act 1993 s. 3 reads as follows:
