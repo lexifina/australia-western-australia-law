@@ -52,6 +52,7 @@ Police Force Amendment Regulations (No. 2) 2004 | 17 Dec 2004 p. 6087 | 17 Dec 2
 Police Force Amendment Regulations (No. 3) 2005 | 30 Dec 2005 p. 6879 | 30 Dec 2005
 Police Force Amendment Regulations 2006 | 15 Dec 2006 p. 5631-6 | 15 Dec 2006
 Police Force Amendment Regulations (No. 4) 2006 | 22 Dec 2006 p. 5823 | 22 Dec 2006
+Police Force Amendment Regulations 2007 | 2 Feb 2007 p. 246-51 | 7 Feb 2007 (see r. 2)
 Under the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984, a reference to the Industrial Arbitration Act 1912 is to be read as a reference to the Industrial Relations Act 1979. The reference was substituted under the Reprints Act 1984 s. 7(3)(g).
 The Liquor Act 1970 was repealed by the Liquor Licensing Act 1988.
 Formerly referred to the Commissioner of Public Health, the name of which was changed to the Commissioner of Health by the Health Legislation Amendment Act 1984. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
