@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Statutory Corporations (Liability of Directors) Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 February 2007 of the Statutory Corporations (Liability of Directors) Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Statutory Corporations (Liability of Directors) Act 1996 | 41 of 1996 | 10 Oct 1996 | 1 Dec 1996 (see s. 2 and Gazette 12 Nov 1996 p. 6301)
@@ -22,12 +22,12 @@ Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 24 and 52 | 35 
 Reprint 3: The Statutory Corporations (Liability of Directors) Act 1996 as at 7 Nov 2003 (includes amendments listed above except those in the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 52)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Marketing of Eggs Amendment Act 2004 s. 9 | 20 of 2004 | 26 Aug 2004 | 2 Jul 2005 (see s. 2(2) and Gazette 28 Jun 2005 p. 2895)
-Statutory Corporations (Liability of Directors) (Act Amendment) Regulations 2004 (see Gazette 26 Nov 2004 p. 5314-15) | 1 Dec 2004 (see r. 2 and Gazette 30 Nov 2004 p. 5515)
+Statutory Corporations (Liability of Directors) (Act Amendment) Regulations 2004 published in Gazette 26 Nov 2004 p. 5314-15 | 1 Dec 2004 (see r. 2 and Gazette 30 Nov 2004 p. 5515)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Land Information Authority Act 2006 s. 188 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
-Formerly referred to the State Government Insurance Commission the name of which was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8. The reference was substituted under the Reprints Act 1984 s. 7(3)(h).
+Reprint 4: The Statutory Corporations (Liability of Directors) Act 1996 as at 9 Feb 2007 (includes amendments listed above)
+The Insurance Commission of Western Australia Act 1986 Part III provides for the establishment of the State Government Insurance Corporation and for a board of directors of the Corporation. The Acts Amendment (ICWA) Act 1996 s. 20, which had not come into operation at the date on which this reprint was prepared, would repeal that Part.
 Formerly referred to the State Government Insurance Commission Act 1986 the short title of which was changed to the Insurance Commission of Western Australia Act 1986 by the Acts Amendment (ICWA) Act 1996 s. 5. The reference was substituted under the Reprints Act 1984 s. 7(3)(gb).
-The Insurance Commission of Western Australia Act 1986 Part III provides for the establishment of the State Government Insurance Corporation and for a board of directors of the Corporation. The Acts Amendment (ICWA) Act 1996 s. 20, which had not come into operation at the date on which this reprint was prepared, will repeal that Part.
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 “
