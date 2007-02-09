@@ -2,11 +2,11 @@ Notes
 This is a compilation of the Motor Vehicle Repairers Act 2003. The following table contains information about that Act.
 Compilation table
 Short title | Number and Year | Assent | Commencement
-Motor Vehicle Repairers Act 2003 s. 1 and 2 | 68 of 2003 | 9 Dec 2003 | s. 1-2: 9 Dec 2003
+Motor Vehicle Repairers Act 2003 | 68 of 2003 | 9 Dec 2003 | s. 1-2: 9 Dec 2003
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Motor Vehicle Repairers Act 2003 s. 3-8, Pt. 2-11 and Sch. 1-3 | 68 of 2003 (as amended by No. 59 of 2004 s. 141; No. 84 of 2004 s. 80; No. 38 of 2005 s. 15; No. 28 of 2006 Pt. 4 Div. 16; No. 77 of 2006 s. 17) | 9 Dec 2003 | To be proclaimed (see s. 2)
+Motor Vehicle Repairers Act 2003 | 68 of 2003 (as amended by No. 59 of 2004 s. 141; No. 84 of 2004 s. 80; No. 38 of 2005 s. 15; No. 28 of 2006 Pt. 4 Div. 16; No. 77 of 2006 s. 17) | 9 Dec 2003 | Pt. 1 (other than s. 1, 2, 3(4) and 4), Pt. 3, Pt. 4, s. 65 & 69, Pt. 7, s. 89 & 90, Pt. 10 (other than s. 108 & 109), Pt. 11 and Sch. 3 cl. 2 & 3: 19 Mar 2007 (see s. 2 and Gazette 9 Feb 2007 p. 451); s. 3(4) & 4, Pt. 2, Pt. 5, Pt. 6 (other than s. 65 & 69), Pt. 8, Pt 9 (other than s. 89 & 90), s. 108 & 109, Sch. 1 & 2 and Sch. 3 cl. 1: to be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Motor Vehicle Repairers Act 2003 s. 3-8, Pt. 2-11 and Sch. 1-3 (as amended by No. 59 of 2004 s. 141, No. 84 of 2004 s. 80, No. 38 of 2005 s. 15 and No. 28 of 2006 Pt. 4 Div. 16) had not come into operation. They read as follows:
 “
 3.Interpretation
