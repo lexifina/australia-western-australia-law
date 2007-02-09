@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Towed Agricultural Implements) Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 February 2007 of the Road Traffic (Towed Agricultural Implements) Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Towed Agricultural Implements) Regulations 1995 | 12 May 1995 p. 1809-18 | 12 May 1995
@@ -10,5 +10,6 @@ Road Traffic (Vehicle Standards 2002) Amendment Regulations 2002 r. 13(2) | 3 Ja
 Reprint 1: The Road Traffic (Towed Agricultural Implements) Regulations 1995 as at 9 May 2003 (includes amendments listed above)
 Road Traffic (Towed Agricultural Implements) Amendment Regulations 2004 | 27 Jul 2004 p. 3081 | 27 Jul 2004
 Road Traffic (Towed Agricultural Implements) Amendment Regulations 2006 | 24 Feb 2006 p. 884-8 | 24 Feb 2006
-Electricity Corporations (Consequential Amendments) Regulations 2006 r. 85 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
+Electricity Corporations (Consequential Amendments) Regulations 2006 r. 85 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
 Road Traffic (Towed Agricultural Implements) Amendment Regulations (No. 2) 2006 | 28 Nov 2006 p. 4917 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
+Reprint 2: The Road Traffic (Towed Agricultural Implements) Regulations 1995 as at 9 Feb 2007 (includes amendments listed above)
