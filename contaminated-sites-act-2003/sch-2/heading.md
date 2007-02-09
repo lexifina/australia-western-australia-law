@@ -33,3 +33,4 @@
 11.The scope and content of mandatory auditor’s reports, including in respect of particular reports or reports made under particular provisions of this Act or the EP Act.
 12.The powers and duties of auditors in prescribed circumstances.
 13.A scale of maximum fees for services provided by auditors.
+[Schedule 3 omitted under the Reprints Act s.7(4)(e).]
