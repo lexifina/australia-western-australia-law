@@ -1,6 +1,6 @@
 ## Schedule 3 — Forms
 Form 1
-[r.33(1)]
+[r. 33(1)]
 Water and Rivers Commission
 Application for a licence under section 26D of the Rights in Water and Irrigation Act 1914
 Water Agencies (Powers) Act 1984
@@ -27,12 +27,10 @@ The depth reached in the well ..................................................
 The depth from the surface, with the thickness and character of each of the different beds of strata pierced ..............................................................................
 Particulars of water struck (if any), whether salt, brackish, or fresh, and the depths from the surface at which each water-bearing bed was struck ................................................................................................................................................................................................................................................................
 Also the height below ground level to which the water will rise in the casing ................................................................................................................................
-I, ...................................................... of ..................................................................
-in the State of Western Australia, being the holder of a licence for the construction, enlargement, deepening, or alteration of a non-artesian well situated at ......................................................................................... in the local government district of ......................................... the ............................................
-hereby forward the statement under section 26E of the Rights in Water and Irrigation Act 1914 in respect of this work.
+I, ...................................................... of .................................................................. in the State of Western Australia, being the holder of a licence for the construction, enlargement, deepening, or alteration of a non-artesian well situated at ......................................................................................... in the local government district of ......................................... the ............................................ hereby forward the statement under section 26E of the Rights in Water and Irrigation Act 1914 in respect of this work.
 ................................................. Signature of Licensee
 Form 3
-[r.53]
+[r. 53]
 Water and Rivers Commission
 Infringement Notice
 Water Agencies (Powers) Act 1984, section 103(2)
@@ -55,9 +53,9 @@ OR | IF YOU DO NOT PAY THE MODIFIED PENALTY
 2. | A complaint may be issued against you for the alleged offence, in which case the matter will be dealt with by a COURT.
 OR
  | The modified penalty may be recovered by the Fines Enforcement Registry, in which case — (a)additional administrative charges may be incurred; (b)action may be taken to suspend your Motor Driver’s Licence or Vehicle Licence until you have paid in full the modified penalty and any additional charge; and (c)you will be given an opportunity to elect to have a complaint for the alleged offence dealt with by a COURT. PAYMENTS AFTER THE DUE DATE CAN ONLY BE MADE WITH A FINAL DEMAND LETTER WHICH INCURS AN ADDITIONAL ENFORCEMENT FEE.
-[Form 3 amended in Gazette 5 Sep 2006 p. 3625.]
+[Form 3 amended in Gazette 14 Jun 2002 p. 2837; 5 Sep 2006 p. 3625.]
 Form 4
-[r.54]
+[r. 54]
 Water and Rivers Commission
 Withdrawal of Infringement Notice
 Water Agencies (Powers) Act 1984, section 103(6)
@@ -70,6 +68,7 @@ Infringement Notice No. ......................... Date ...... / ...... / ......
  | AN INFRINGEMENT NOTICE GIVEN TO YOU HAS BEEN WITHDRAWN AND NO FURTHER ACTION WILL BE TAKEN*/A SUMMONS WILL BE ISSUED* * Delete where not applicable.
 Information about the withdrawn notice | Date of issue: ....................................................................... Alleged offence: .................................................................. Notice number: ....................................................................
 Information about this notice | Date: .................................................................................... Issued at: ............................................................................. By: ....................................................................................... Signature of prescribed person: .......................................... Title of the office in the Water and Rivers Commission held by the prescribed person: ............................................
+[Form 4 amended in Gazette 14 Jun 2002 p. 2837.]
 Form 5
 Water and Rivers Commission
 Certificate of authorised person
@@ -86,4 +85,4 @@ Commission held by the authorised person)
 ................................................................... (Date of expiry)
 CERTIFICATE OF AUTHORISED PERSON
 This is to certify that the person identified on this certificate is authorised, in accordance with section 103 of the Water Agencies (Powers) Act 1984, to give infringement notices under these regulations.
-[Schedule 3 amended in Gazette 14 Jun 2002 p. 2836-7; 5 Sep 2006 p. 3625.]
+[Form 5 amended in Gazette 14 Jun 2002 p. 2837.]
