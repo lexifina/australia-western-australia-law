@@ -44,4 +44,4 @@ TERMS AND CONDITIONS
 9.NOTICES
 9.1All Notices required by this Contract may be given by direct communication, telephone, electronically, fax or post to the addresses and numbers included in this Contract.
 9.2If sent by post, a Notice will be considered to have been received, unless the contrary is shown, at the time when the Notice would have been delivered in the ordinary course of the post.
-[Schedule 5 formerly Fifth Schedule inserted in Gazette 13 Aug 2002 p. 4169-71.]
+[Schedule 5, formerly Fifth Schedule, inserted in Gazette 13 Aug 2002 p. 4169-71.]
