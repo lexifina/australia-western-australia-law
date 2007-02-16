@@ -100,8 +100,38 @@ Reprint 6: The Fish Resources Management Regulations 1995 as at 6 Oct 2006 (incl
 Fish Resources Management Amendment Regulations (No. 6) 2006 | 10 Nov 2006 p. 4703 | 10 Nov 2006
 Fish Resources Management Amendment Regulations (No. 8) 2006 | 10 Nov 2006 p. 4704-12 | 10 Nov 2006
 Fish Resources Management Amendment Regulations (No. 7) 2006 | 29 Dec 2006 p. 5888-92 | 29 Dec 2006
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Fish Resources Management Amendment Regulations (No. 2) 2007 r. 4 | 16 Feb 2007 p. 489-90 | 1 Mar 2007 (see r. 2)
 Repealed by the Land Administration Act 1997 s. 281(1).
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Fisheries Department was redesignated as the Department of Fisheries.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Ministry of Justice was redesignated as the Department of Justice.
 Under the Public Sector Management Act 1994 departments can be established and named. The designation of the department known as the Department of Justice has been altered to the Department of the Attorney General and the Department of Corrective Services is established with effect from 5 Jan 2006.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
+On the date as at which this compilation was prepared, the Fish Resources Management Amendment Regulations (No. 2) 2007 r. 4 had not come into operation. It reads as follows:
+“
+4.Schedule 1 amended
+Schedule 1 Part 3 is amended as follows:
+(a) by deleting item 3(1) and inserting instead —
+“
+(1)Abalone Managed Fishery, the sum obtained by multiplying the total kg of entitlement conferred by the licence (but excluding any entitlement transferred to or from the licence under section 141 of the Act) by the fee for each kg, as follows —
+(a)for greenlip abalone, per kg ..... | 10.45
+(b)for brownlip abalone, per kg .... | 10.45
+(c)for Roe’s abalone, per kg ........ | 3.15
+”;
+(b) in item 3(2), by deleting “4 546.00” and inserting instead —
+“ 9 070.00 ”;
+(c) in item 3(9), by deleting “30 949.00” and inserting instead —
+“ 34 265.00 ”;
+(d) in item 3(20)(a), by deleting “19 904.00” and inserting instead —
+“ 21 629.00 ”;
+(e) in item 3(20)(b), by deleting “2 580.00” and inserting instead —
+“ 2 804.00 ”;
+(f) in item 3(30), by deleting “59.03” and inserting instead —
+“ 60.98 ”;
+(g) by deleting item 3(31) and inserting instead —
+“
+(31)West Coast Purse Seine Managed Fishery ............................................ | 2 094.00
+”.
+”.
