@@ -12,7 +12,7 @@ s. 19(2), 69 | Failing to supply goods, services or land as advertised .........
 s. 20, 69 | Inducing consumer to acquire goods or services by representation that the customer will receive a benefit for supplying names of prospective customers .....…………………………………....... | $2 000
 s. 28(1), 69 | Sending unsolicited debit or credit card .................. | $2 000
 s. 28(3), 69 | Enabling a person to use a credit card or debit card without written request .................................... | $2 000
-s. 29(5) | Requesting goods, services or directory entry on behalf of another person without authority ............. | $2 000
+s. 29(5) | Requesting goods, services or directory entry on behalf of another person without authority ............. | $200
 s. 51(1), 69 | Supplying goods that do not comply with product safety standard ........................................... | $1 000
 s. 51(2), 69 | Supplying components that do not comply with product safety standard ........................................... | $1 000
 s. 52(1), 69 | Supplying goods in contravention of a banning order ........................................................................ | $1 000
@@ -23,3 +23,4 @@ s. 60(2), 69 | Supplying components that do not comply with product information 
 s. 61(1), 69 | Providing inaccurate information in respect of goods, services or land ........................................ | $1 000
 s. 65(1), 69 | Supplying goods that do not comply with product quality standard .......................................... | $1 000
 s. 67(1), 69 | Supplying goods that do not comply with packaging standard .................................................. | $1 000
+[Schedule 1 amended in Gazette 20 Feb 2007 p. 506.]

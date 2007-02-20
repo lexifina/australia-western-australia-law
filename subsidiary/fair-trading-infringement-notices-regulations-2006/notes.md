@@ -4,3 +4,4 @@ Compilation table
 Citation | Gazettal | Commencement
 Fair Trading (Infringement Notices) Regulations 2006 | 22 Sep 2006 p. 4112-15 | 22 Sep 2006
 Fair Trading (Infringement Notices) Amendment Regulations 2006 | 12 Jan 2007 p. 47 | 12 Jan 2007
+Fair Trading (Infringement Notices) Amendment Regulations 2007 | 20 Feb 2007 p. 505-6 | 20 Feb 2007
