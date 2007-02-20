@@ -15,6 +15,7 @@ Coal Industry Superannuation Amendment Regulations 2003 | 23 May 2003 p. 1823-7 
 Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 5 | 30 Jun 2003 p. 2581-638 | 1 Jul 2003 (see r. 2 and Gazette 30 Jun 2003 p. 2579)
 Coal Industry Superannuation Amendment Regulations 2005 | 21 Jun 2005 p. 2677-8 | 21 Jun 2005
 Coal Industry Superannuation Amendment Regulations 2006 | 11 Jul 2006 p. 2535-40 | 11 Jul 2006
+Coal Industry Superannuation Amendment Regulations 2007 | 20 Feb 2007 p. 506-7 | 20 Feb 2007
 The Coal Industry Superannuation Amendment Regulations 1996 r. 34 reads as follows:
 “
 34.Transitional
