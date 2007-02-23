@@ -41,6 +41,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt.
 Electoral Amendment and Repeal Act 2005 s. 9 | 1 of 2005 | 20 May 2005 | 20 May 2005 (see s. 2)
 Reprint 4: The Juries Act 1957 as at 2 Sep 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
+Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | 23 Feb 2007 (see s. 2 and Gazette 20 Feb 2007 p. 505)
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(2) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Parole and Sentencing Legislation Amendment Act 2006 s. 91 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
@@ -49,7 +50,6 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
@@ -97,20 +97,7 @@ Schedule 3 — Consequential amendments
 (2) The Second Schedule Part II item 2 is amended by deleting “Chiropractors Act 1964” and inserting instead —
 “ Chiropractors Act 2005 ”.
 ”.
-On the date as at which this compilation was prepared, the Physiotherapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-109.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 5 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 109]
-5.Juries Act 1957 amended
-(1) The amendments in this clause are to the Juries Act 1957.
-(2) The Second Schedule Part II item 2 is amended by deleting “Physiotherapists Act 1950” and inserting instead —
-“ Physiotherapists Act 2005 ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Osteopaths Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 108.Consequential amendments
