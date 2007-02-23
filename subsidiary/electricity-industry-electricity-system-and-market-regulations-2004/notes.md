@@ -1,8 +1,10 @@
 Notes
-This is a compilation of the Electricity Industry (Wholesale Electricity Market) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 23 February 2007 of the Electricity Industry (Wholesale Electricity Market) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
-Electricity Industry (Wholesale Electricity Market) Regulations 2004 | 30 Sep 2004 p. 4189-205 | 30 Sep 2004
+Electricity Industry (Wholesale Electricity Market) Regulations 2004 | 30 Sep 2004 p. 4189-205 | Regs other than r. 4(3)(b): 30 Sep 2004; r. 4(3)(b): 1 Oct 2004 (see r. 4(3) and the Wholesale Electricity Market Rules published in Gazette 5 Oct 2004 r. 1.8.2 and 1.9.7)
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2005 | 16 Aug 2005 p. 3825-62 | 16 Aug 2005 (see r. 2)
-Electricity Corporations (Consequential Amendments) Regulations 2006 Pt. 3 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
+Electricity Corporations (Consequential Amendments) Regulations 2006 Pt. 3 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2) 2006 | 29 Dec 2006 p. 5881-3 | 29 Dec 2006
+Reprint 1: The Electricity Industry (Wholesale Electricity Market) Regulations 2004 as at 23 Feb 2007 (includes amendments listed above)
+Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
