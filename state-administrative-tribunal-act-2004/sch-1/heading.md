@@ -22,7 +22,7 @@ Osteopaths Act 1997
 Painters’ Registration Act 1961
 Pearling Act 1990
 Pharmacy Act 1964
-Physiotherapists Act 1950
+Physiotherapists Act 2005
 Podiatrists Registration Act 1984
 Psychologists Registration Act 1976
 Real Estate and Business Agents Act 1978
@@ -31,3 +31,4 @@ Taxi Act 1994
 Travel Agents Act 1985
 Valuation of Land Act 1978
 Veterinary Surgeons Act 1960
+[Schedule 1 amended by No. 32 of 2005 s. 109.]

@@ -9,7 +9,7 @@ Registration Boards
 6.Optometrists Registration Board under the Optometrists Act 1940.
 6a.Osteopaths Registration Board under the Osteopaths Act 1997.
 7.Pharmaceutical Council of Western Australia under the Pharmacy Act 1964.
-8.Physiotherapists’ Registration Board under the Physiotherapists Act 1950.
+8.Physiotherapists Registration Board of Western Australia under the Physiotherapists Act 2005.
 9.Podiatrists Registration Board under the Podiatrists Registration Act 1984.
 10.Psychologists Board of Western Australia under the Psychologists Registration Act 1976.
-[Schedule 1 amended by No. 58 of 1997 s. 97.]
+[Schedule 1 amended by No. 58 of 1997 s. 97; No. 32 of 2005 s. 109.]
