@@ -49,7 +49,7 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 29. | 38(1) | Erecting unauthorised sign or notice | 100
 30. | 39(1) or (2) | Unlawful lighting of fires etc. | 200
 31. | 40(2) | Failing to comply with direction to extinguish fire | 200
-32. | 41(1) or (2) | Entering certain classified areas | 200
+32. | 41 | Entering certain classified areas | 200
 33. | 42 | Entering limited access area other than on foot or by vessel | 200
 34. | 43 | Entering wilderness area by vehicle, vessel or animal | 100
 35. | 46(1) | Entering closed area | 100
@@ -71,7 +71,7 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 45. | 56(1) | Parking contrary to direction on sign | 50
 46. | 56(4) | Failing to pay parking charge or display ticket | 50
 47. | 57 | Obstructing vehicle etc. | 50
-47a. | 59(1) | Unlawfully mooring vessel | 200
+47a. | 59(1) | Unlawfully installing a mooring | 200
 48. | 59(2) | Using an unlawful mooring | 100
 49. | 59(3) | Securing a vessel in an unlawful manner | 100
 50. | 60(1) | Anchoring a vessel in a restricted area | 100
@@ -105,7 +105,7 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 70. | 100(4) | Failing to pay fee for Tree Top Walk | 35
 70a. | 100A(4) | Failing to pay entrance fee | 35
 71. | 102 | Failing to pay entrance fee when entering on horseback | 35
-71a. | 102A(4) | Failing to pay abseiling fee | 35
+71a. | 102A(3) | Failing to pay abseiling fee | 35
 72. | 103(4) | Failing to pay camping fee | 35
 73. | 105(1) | Organising etc. meeting etc. | 200
 74. | 106(1) | Selling goods or services, or carrying on business | 200
@@ -114,4 +114,4 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 76. | 108 | Unlawfully taking still or motion pictures | 50
 77. | 109 | Failing to produce licence etc. | 100
 78. | 110 | Giving false or misleading information | 100
-[Division 2 amended in Gazette 29 Sep 2006 p. 4331-3.]
+[Division 2 amended in Gazette 29 Sep 2006 p. 4331-3; 27 Feb 2007 p. 625-6.]
