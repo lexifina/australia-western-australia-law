@@ -116,44 +116,26 @@ Reprint 6: The Rules of the Supreme Court 1971 as at 15 Oct 2004 (includes amend
 Courts and Legal Practice (Consequential Amendments) Regulations 2005 r. 12 | 19 Apr 2005 p. 1294-302 | 19 Apr 2005
 Supreme Court Amendment Rules 2005 | 29 Apr 2005 p. 1791-6 | 2 May 2005 (see r. 2)
 Supreme Court Amendment Rules (No. 2) 2005 | 29 Apr 2005 p. 1797-802 | 2 May 2005 (see r. 2)
-Repealed by the Supreme Court (Mental Health) Repeal Rules 2004.
-Repealed by the Mental Health (Consequential Provisions) Act 1996.
-Repealed by the Acts Amendment and Repeal (Family Court) Act 1997.
-Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Crown Law Department or the Ministry of Justice is to be read and construed as a reference to the Department of Justice.
-Footnote no longer applicable.
-Footnote no longer applicable.
+Supreme Court Amendment Rules 2007 | 21 Feb 2007 p. 531-96 | 1 Mar 2007 (see r. 2)
+2-7Footnotes no longer applicable.
 Rule 12 of rules published in Gazette 10 January 1975 p. 54, read as follows:
 “
 12.Saving
 A judgment or order for recovery or delivery up of possession of land given or made before the day on which these rules come into operation may be enforced in the manner in which it was enforceable before that day and leave to enforce any such judgment or order shall not be required.
 ”.
-The Fourth Schedule has effect only in respect of work done before 15 July 1988. Since then scales of costs have been set by determinations of the Legal Costs Committee made under the Legal Practitioners Act 1893 s. 58W and published in the Government Gazette from time to time.
-Section 17E of the Bills of Sale Act 1899 was repealed by the Bills of Sale Amendment Act 1986 s. 4.
-Short title amended to the Tobacco Sellers Licensing Act 1975 and then repealed by the Financial Relations Agreement (Consequential Provisions) Act 1999.
-Repealed by the Statutes (Repeals and Minor Amendments) Act 1997.
-Section 660 was repealed by the Local Government Act 1995.
+9-13Footnotes no longer applicable.
 Formerly referred to as The Partnership Act 1895, the short title of which was changed to the Partnership Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 144. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999.
-Repealed by the Housing Act 1980.
-Footnote no longer applicable.
+15-17Footnotes no longer applicable.
 This Rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
-Under the Alteration of Statutory Designations Order (No. 2) 1996 a reference in any law to the Commissioner of State Taxation is to be read and construed as a reference to the Commissioner of State Revenue.
-Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
-Repealed by the Vexatious Proceedings Restriction Act 2002.
-Repealed by the Environmental Protection Act 1986.
+19-22Footnotes no longer applicable.
 The Supreme Court Amendment Rules 1994 r. 14 published in Gazette 1 Mar 1994 at p. 789 reads as follows:
 “
 14.Transitional
 Any Rules made under section 27 of the Service and Execution of Process Act 1901 of the Commonwealth that were in force immediately before the commencement of the Service and Execution of Process (Transitional Provisions and Consequential Amendments) Act 1992 of the Commonwealth continue to apply with respect to any matter commenced or action taken under the Service and Execution of Process Act 1901 of the Commonwealth as if that Act had not been repealed.
 ”.
-There is no longer a Board under section 6 of the Act.
-Repealed by the Criminal Property Confiscation (Consequential Provisions) Act 2000.
-Repealed by section 3 of the Service and Execution of Process (Transitional Provisions and Consequential Amendments) Act 1992 of the Commonwealth. Now see the Service and Execution of Process Act 1992 of the Commonwealth.
-Repealed by the Supreme Court (Fees) Regulations 2002.
-The Colonial Courts of Admiralty Act 1890 was repealed, so far as it is part of the law of the Commonwealth or of an external Territory, by section 44(1) of the Admiralty Act 1988 of the Commonwealth.
-Order 74 repealed in Gazette 30 October 1992 p. 5310.
-This should be a reference to the District Court of Western Australia Act 1969 s. 41(6).
-Marginal notes in the Rules of the Supreme Court 1971 referring to legislation of other jurisdictions have been omitted from this reprint.
+Form No. 22 has been deleted and the correct form is Form No. 21.
+25-30Footnotes no longer applicable.
+Marginal notes in the Rules of the Supreme Court 1971 referring to legislation of other jurisdictions have been omitted from this compilation.
 The commencement date of 1 Jul 1982 that was specified was before the date of gazettal.
 Rule 10 of the rules published in the Gazette on 20 June 1986, reads as follows:
 “
