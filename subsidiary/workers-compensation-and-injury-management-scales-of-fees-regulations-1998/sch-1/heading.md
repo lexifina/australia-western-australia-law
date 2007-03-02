@@ -176,7 +176,7 @@ For the first 2 hours, each 15 minutes (or part thereof) of anaesthetic time con
 Modifying units
 Many anaesthetic services are provided under particularly difficult circumstances depending on factors such as the medical condition of the patient and unusual risk factors. These factors significantly affect the character of the anaesthetic services provided. Circumstances giving rise to additional modifying units are set out in this Schedule.
 [Note: The modifying units are, in the main, derived from the modifying units set out in the AMA’s “List of Medical Services and Fees”.]
- | Description | Units
+Description | Units
 A normal healthy patient | 0
 A patient with a mild systemic disease | 0
 A patient with a severe systemic disease | 1
@@ -515,7 +515,7 @@ Anaesthesia where no procedure ensues | 3
 Note — Unlisted anaesthetic procedures
 The AMA recognise that in determining the number of units applicable, the anaesthetist shall have regard to equivalent procedures
 PART B — THERAPEUTIC AND DIAGNOSTIC SERVICES
-Description of service, etc. | Mus | TUs | BUs
+Description of service, etc. | MUs | TUs | BUs
 Collection of blood for autologous transfusion or when homologous blood is required for immediate transfusion in an emergency situation | no | no | 3
 Administration of blood or bone marrow already collected when performed in association with the administration of anaesthesia | no | no | 4
 Venous cannulation and blood transfusion (or blood products) not associated with anaesthesia | no | no | 5
@@ -556,8 +556,8 @@ Subarachnoid puncture, lumbar, diagnostic | no | no | 5
 Insertion of subarachnoid drain | no | no | 8
 Intrathecal, or epidural or injection, (initial or commencement of infusion) of a therapeutic substance, including up to one hour of continuous attendance by a medical practitioner | no | no | 8
 Intrathecal, or epidural or injection, (initial or commencement of infusion) of a therapeutic substance, where continuous attendance by a medical practitioner extends beyond the first hour. Derived fee being 8 units for the first hour plus one unit for each additional 15 minutes or part thereof | no | no | 0
+Intrathecal, or epidural or injection, (initial or commencement of infusion) of a therapeutic substance, including up to one hour of continuous attendance by a medical practitioner after hours for a patient in labour | no | no | 15
 Intrathecal, or epidural or injection, (initial or commencement of infusion) of a therapeutic substance, where continuous after hours attendance by a medical practitioner extends beyond the first hour for a patient in labour. Derived fee being 15 units for the first hour plus one unit for each additional 15 minutes or part thereof | no | no | 0
-Intrathecal, or epidural or injection, (initial or commencement of infusion) of a therapeutic substance, where continuous after hours attendance by a medical practitioner extends beyond the first hour, add one unit for each 15 minutes of the first hour for a patient in labour | no | no | 0
 Subsequent injection (or revision of infusion) of a therapeutic substance to maintain regional anaesthesia or analgesia where the period of continuous medical practitioner attendance is 15 minutes or less | no | no | 3
 Subsequent injection (or revision of infusion) of a therapeutic substance to maintain regional anaesthesia or analgesia where the period of continuous medical practitioner attendance is more than 15 minutes | no | no | 4
 Interpleural block, initial injection or commencement of infusion of a therapeutic substance | no | no | 5
