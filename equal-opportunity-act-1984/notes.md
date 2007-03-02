@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Equal Opportunity Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 March 2007 of the Equal Opportunity Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Equal Opportunity Act 1984 | 83 of 1984 | 7 Dec 1984 | 8 Jul 1985 (see s. 2 and Gazette 5 Jul 1985 p. 2387)
@@ -27,24 +27,24 @@ Reprint of the Equal Opportunity Act 1984 as at 21 Jul 2000 (includes amendments
 Building Societies Amendment Act 2001 s. 48 | 12 of 2001 | 13 Jul 2001 | 13 Jul 2001 (see s. 2)
 Acts Amendment (Lesbian and Gay Law Reform) Act 2002 Pt. 8 | 3 of 2002 | 17 Apr 2002 | 21 Sep 2002 (see s. 2 and Gazette 20 Sep 2002 p. 4693)
 Labour Relations Reform Act 2002 s. 183 | 20 of 2002 | 8 Jul 2002 | 1 Aug 2002 (see s. 2 and Gazette 26 Jul 2002 p. 3459)
-Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 33, 112 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
+Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 33 and 112 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 4314, 15 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 43 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 4: The Equal Opportunity Act 1984 as at 1 Apr 2005 (includes amendments listed above except those in the Courts Legislation Amendment and Repeal Act 2004)
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 452(1) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Solicitor-General Amendment Act 2006 s. 12 | 29 of 2006 | 30 Jun 2006 | 18 Jul 2006 (see s. 2)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 5: The Equal Opportunity Act 1984 as at 2 Mar 2007 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 26 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Liquor and Gaming Legislation Amendment Act 2006 s. 117 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
-Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1).
+Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
 The Uniform Building By-laws 1974 were repealed in Gazette 28 July 1989 p. 2280.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner or Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
-Footnote no longer applicable.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Acts 1984 s. 7(3)(g).
 Now known as the Police Service.
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
@@ -65,7 +65,8 @@ The State Administrative Tribunal Regulations 2004 r. 48 reads as follows:
 48.Equal Opportunity Act 1984
 Unless the context otherwise requires, where in an arrangement made under the Equal Opportunity Act 1984 section 7 there is a reference to the Equal Opportunity Tribunal that reference is to be read and construed as a reference to the State Administrative Tribunal.
 ”.
-On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 26 had not come into operation. It reads as follows:
+The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
+On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 26 had not come into operation. It reads as follows:
 “
 26.Equal Opportunity Act 1984 amended
 (1) The amendments in this section are to the Equal Opportunity Act 1984.
@@ -85,8 +86,7 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 (b) after subparagraph (iii) by deleting “or”;
 (c) by deleting subparagraph (iv).
 ”.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
-On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 117 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 117 had not come into operation. It reads as follows:
 “
 117.Equal Opportunity Act 1984 amended
 (1) The amendments in this section are to the Equal Opportunity Act 1984.
