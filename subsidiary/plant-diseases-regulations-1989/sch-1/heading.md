@@ -19,7 +19,7 @@ Amelanchier spp. (Juneberry, Serviceberry)..... | see Berries
 Annona spp. and Annona sp. hybrids.............. | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 11, 4/7/9C, 41, 52, 55
 Apple.................... | 1 | 1 | 16 | 1
 Apple tissue culture............... | 49 | — | — | —
-Apricot.................. | see Stonefruit | see Stonefruit | see Stonefruit | 31
+Apricot.................. | 13, 17, 18, 27, 29, 41, 45, 52, 55 | 18, 29, 41, 52, 55 | 16 | 1, 31, 31A
 Aquatic plants....... | 21 | 21 | — | —
 Artichoke.............. | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 41, 52, 55
 Asparagus............. | 13, 17, 27, 29, 45, 55 | — | 16 | 55
@@ -50,7 +50,7 @@ Cashew apple....... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9
 Casimiroa (White sapote) .............. | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/7/9C, 41, 52, 55
 Cauliflower........... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 41, 52, 55
 Cherimoya............ | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
-Cherry.................. | see Stonefruit | see Stonefruit | see Stonefruit | 26
+Cherry................... | 13, 17, 18, 27, 29, 41, 45, 52, 55 | 18, 29, 41, 52, 55 | 16 | 1, 26, 31A
 Chilli..................... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/7/9C, 41, 52, 55
 Chinese cabbage... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 41, 52, 55
 Chinese gooseberry......... | see Kiwi fruit
@@ -140,7 +140,7 @@ Monstera............... | 13, 17, 27, 29, 45, 52, 55 | 29, 52, 55 | 16 | 4/9J, 5
 Mountain ash........ | see Sorbus spp.
 Mulberry............... | see Berries
 Mungbean............. | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16, 48 | —
-Nectarine.............. | see Stonefruit
+Nectarine.............. | 13, 17, 18, 27, 29, 41, 45, 52, 55 | 18, 29, 41, 52, 55 | 16 | 1, 31A
 Nuts (not specified elsewhere) ........ | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 41, 52, 55
 Okra...................... | 13, 17, 27, 29, 41, 45, 47, 52, 55 | 29, 41, 47, 52, 55 | 16 | 4/9J, 41, 47, 52, 55
 Olive..................... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9J, 41, 52, 55
@@ -154,7 +154,7 @@ Parsnips................ | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
 Passionfruit........... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/4A/9H, 41, 52, 55
 Pawpaw................ | 13, 17, 27, 29, 40, 45, 52, 55 | 29, 40, 52, 55 | 16 | 4/4C/9A/9D, 40, 52, 55
 Pea........................ | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 41, 52, 55
-Peach.................... | see Stonefruit
+Peach.................... | 13, 17, 18, 27, 29, 41, 45, 52, 55 | 18, 29, 41, 52, 55 | 16 | 1, 31A
 Peanut................... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
 Pear....................... | see Pyrus spp.
 Pepino................... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
@@ -164,7 +164,7 @@ Pieris spp. ............ | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 29, 41, 52, 55, 
 Pineapple.............. | 13, 17, 27, 29, 45, 55 | 29, 55 | 16 | 55
 Pinus..................... | 3, 13, 17, 27, 29, 45, 55 | 3, 29, 55 | 16 | 55
 Plants (not specified elsewhere) ........ | 13, 17, 27, 28, 29, 41, 45, 52, 55 | 28, 29, 41, 52, 55 | 16 | —
-Plum..................... | see Stonefruit (also see Prunus salicina)
+Plum..................... | 13, 17, 18, 27, 29, 41, 45, 52, 55 | 18, 29, 41, 52, 55 | 16 | 1, 31A
 Poaceae (Gramineae) (genera specified in Schedule 9)…... | 13, 17, 27, 28, 29, 41, 45, 52, 55 | 28, 29, 41, 52, 55 | 16 | —
 Pomegranate......... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9/9C, 41, 52, 55
 Poncirus................ | see Citrus
@@ -172,7 +172,6 @@ Poplar................... | 13, 17, 27, 29, 36, 41, 45, 52, 55 | 29, 36, 41, 52,
 Potato (seed) ........ | 1, 13, 14, 17, 27, 29, 41, 45, 52, 55 | — | — | 1, 14, 17
 Potato (Ware) ...... | — | — | — | 1, 14
 Prickly Pear.......... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
-Prunus salicina..... | 13, 17, 18, 27, 29, 41, 45, 52, 55 | 18, 29, 41, 52, 55 | 16 | 1
 Pummelo.............. | see Citrus
 Pumpkin............... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/8A/9J, 41, 52, 55
 Pyracantha spp. (Firethorn)......... | 1 | 1 | 16 | 1
@@ -203,7 +202,7 @@ Soybean................ | 1 | 1 | 16, 25 | —
 Spring onion......... | 13, 17, 27, 29, 35, 41, 45, 55 | — | 16 | 41, 35, 55
 Squash.................. | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/7/9G, 41, 52, 55
 Star apple.............. | see Caimito
-Stonefruit.............. | 13, 17, 18, 27, 29, 41, 45, 52, 55 | 18, 29, 41, 52, 55 | 16 | 1
+Stonefruit not specified elsewhere.............. | 13, 17, 18, 27, 29, 41, 45, 52, 55 | 18, 29, 41, 52, 55 | 16 | 1
 Stransvaesia spp... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 41, 52, 55
 Straw and straw packing.............. | see Hay
 Strawberry............ | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/8/9E, 41, 52, 55
@@ -236,7 +235,7 @@ Watsonia............... | 13, 17, 27, 29, 41, 45, 52, 53, 55 | 29, 41, 52, 53, 5
 Wax jambu (Rose apple) ................ | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
 Yams.................... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
 Zucchini................ | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/7/9G, 41, 52, 55
-[Part A inserted in Gazette 7 Jun 1996 p. 2373-83; amended in Gazette 14 Jan 1997 p. 381-2 and 383; 4 Mar 1997 p. 1353; 6 Jan 1998 p. 50-2; 19 Aug 1998 p. 4475-6; 9 Mar 1999 p. 1145; 23 Mar 1999 p. 1260-2; 22 Jun 1999 p. 2669; 4 Feb 2000 p. 420; 29 Sep 2000 p. 5534-5; 6 Jan 2001 p. 113; 13 Feb 2001 p. 866; 19 Apr 2002 p. 2077; 11 Feb 2003 p. 409; 31 Oct 2003 p. 4554-5; 16 Jan 2004 p. 193; 21 Sep 2004 p. 4108-9; 17 May 2005 p. 2105-6 and 2131-2; 16 Dec 2005 p. 6074; 7 Feb 2006 p. 615; 21 Apr 2006 p. 1571-2.]
+[Part A inserted in Gazette 7 Jun 1996 p. 2373-83; amended in Gazette 14 Jan 1997 p. 381-2 and 383; 4 Mar 1997 p. 1353; 6 Jan 1998 p. 50-2; 19 Aug 1998 p. 4475-6; 9 Mar 1999 p. 1145; 23 Mar 1999 p. 1260-2; 22 Jun 1999 p. 2669; 4 Feb 2000 p. 420; 29 Sep 2000 p. 5534-5; 6 Jan 2001 p. 113; 13 Feb 2001 p. 866; 19 Apr 2002 p. 2077; 11 Feb 2003 p. 409; 31 Oct 2003 p. 4554-5; 16 Jan 2004 p. 193; 21 Sep 2004 p. 4108-9; 17 May 2005 p. 2105-6 and 2131-2; 16 Dec 2005 p. 6074; 7 Feb 2006 p. 615; 21 Apr 2006 p. 1571-2; 6 Mar 2007 p. 725-6.]
 ## Part AA — Potential carriers — other than plants
 [Heading inserted in Gazette 18 Sep 1992 p. 4670.]
 Column 1 Potential Carrier | Column 2 Conditions for Entry
@@ -275,10 +274,16 @@ Quince: fruit — codling moth (Cydia pomonella).
 Sorbus spp. (Mountain ash): fruit and plants — apple scab (Venturia inaequalis).
 Sorghum: plants — sorghum midge (Contarinia sorghicola), ergot (Claviceps spp.).
 Soybean: plants — black leaf blight (Arkoola nigra), stem rot (Phytophthora megasperma f. sp. glycinea).
-Stonefruit: fruit other than apricot fruit (Prunus armeniaca) and cherry fruit (Prunus avium) from South Australia and Tasmania, general diseases.
+Stonefruit: fresh fruit other than —
+(a)apricot fruit (Prunus armeniaca) grown in South Australia, Tasmania or South Island New Zealand; and
+(b)cherry fruit (Prunus avium) grown in South Australia, Tasmania or New Zealand; and
+(c)peach fruit (Prunus persica) grown in South Island New Zealand; and
+(d)plum fruit (Prunus salicina or Prunus domestica) grown in South Island New Zealand; and
+(e)nectarine fruit (Prunus persica var. nucipersica) grown in South Island New Zealand,
+general diseases and individual pests.
 (2) For the purposes of subclause (1) —
 “minituber” means potatoes which are grown under conditions approved by the Director General.
-[Item 1 amended in Gazette 26 Jan 1990 p. 649; 18 Sep 1992 p. 4670-1; 20 Aug 1996 p. 4054; 14 Jan 1997 p. 383; 4 Mar 1997 p. 1354; 4 Feb 2000 p. 421; 16 Jan 2004 p. 194; 16 Dec 2005 p. 6074; 7 Feb 2006 p. 616; 21 Apr 2006 p. 1572.]
+[Item 1 amended in Gazette 26 Jan 1990 p. 649; 18 Sep 1992 p. 4670-1; 20 Aug 1996 p. 4054; 14 Jan 1997 p. 383; 4 Mar 1997 p. 1354; 4 Feb 2000 p. 421; 16 Jan 2004 p. 194; 16 Dec 2005 p. 6074; 7 Feb 2006 p. 616; 21 Apr 2006 p. 1572; 6 Mar 2007 p. 726.]
 2.Soil — general diseases
 Entry not allowed unless soil —
 (a) comprises mining and scientific samples for laboratory purposes at premises approved by the Director General; or
@@ -651,35 +656,34 @@ To be certified as —
 26.Cherry fruit (Prunus avium) — General diseases
 (1) In this item —
 “AQIS” means the Australian Quarantine and Inspection Service of the Commonwealth;
+“cherry fruit” means fresh fruit of Prunus avium;
 “FPE Appendix 2” means Appendix 2 to Part A of the document entitled Final Policy Extension for the Importation of Cherry Fruit (Prunus avium) from Tasmania into Western Australia and dated 22 December 2003;
 “IRA” means the Import Risk Analysis entitled Categorisation of Pests of Stone Fruit from Eastern Australia — Final State Import Risk Analysis of Cherry Fruit (Prunus avium) from South Australia into Western Australia. (21 September 2001);
 “relevant department” means —
 (a)for South Australia, the Department of Primary Industries and Resources South Australia; and
 (b)for Tasmania, the Department of Primary Industries, Water and Environment.
-(2) For States and Territories other than South Australia and Tasmania, cherry fruit entry not allowed except in accordance with subitem (8).
-(2a) For South Australia and Tasmania cherry fruit entry not allowed except in accordance with subitems (3) to (7) or subitem (8).
-(3) From South Australia and Tasmania to be certified as from an orchard and packed in a packing house registered in accordance with the IRA.
-(4) From South Australia and Tasmania to be accompanied by certification stating —
+(2) For cherry fruit grown in South Australia or Tasmania entry is not allowed except in accordance with subitems (3) to (7).
+[(2a)deleted]
+(3) Cherry fruit grown in South Australia or Tasmania to be certified as from an orchard and packed in a packing house registered in accordance with the IRA.
+(4) Cherry fruit grown in South Australia or Tasmania to be accompanied by certification stating —
 (a) the name, address and registration number of —
 (i) the orchard on which the cherry fruit was grown; and
 (ii) the packing house in which it was packed;
 and
 (b) that the orchard and the packing house are registered by the relevant department for growing or packing cherry fruit, as the case may be, that may be exported to Western Australia.
-(5) From South Australia and Tasmania to be —
+(5) Cherry fruit grown in South Australia or Tasmania to be —
 (a) transported in containers with —
 (i) the registration number or the name of the producer of the cherry fruit and the address of the property on which it was grown; and
 (ii) the registration number or the name of the packer of the cherry fruit and the address of the property on which it was packed,
 printed on an external surface in letters not less than 5 mm in height;
 (b) packed in clean new packaging; and
 (c) substantially free from leaves, soil and other plant debris, other than a peduncle or pedicel.
-(6) From South Australia and Tasmania to be inspected on arrival in Western Australia in accordance with the sampling procedures set out in FPE Appendix 2 and found to be free from the pests specified in the IRA.
-(7) From South Australia and Tasmania —
+(6) Cherry fruit grown in South Australia or Tasmania to be inspected on arrival in Western Australia in accordance with the sampling procedures set out in FPE Appendix 2 and found to be free from the pests specified in the IRA.
+(7) Cherry fruit grown in South Australia or Tasmania —
 (a) to be certified as described in Schedule 1 Part B item 4(1)(a) or (b); or
 (b) to be certified as from an area free from fruit fly (B. tryoni) in accordance with the Code of Practice.
-(8) Cherry fruit originating from New Zealand may enter Western Australia via another State or a Territory subject to —
-(a) equivalent entry requirements to those applied by AQIS to cherry fruit imported directly from New Zealand to Western Australia; and
-(b) any further requirements considered necessary by the Director General.
-[Item 26 inserted in Gazette 11 Feb 2003 p. 409-11; amended in Gazette 16 Jan 2004 p. 194; 18 May 2004 p. 1563-4; 16 Dec 2005 p. 6075.]
+[(8)deleted]
+[Item 26 inserted in Gazette 11 Feb 2003 p. 409-11; amended in Gazette 16 Jan 2004 p. 194; 18 May 2004 p. 1563-4; 16 Dec 2005 p. 6075; 6 Mar 2007 p. 726.]
 27.Red Imported Fire Ant (Solenopsis invicta)
 (1) In this item —
 “landscaping materials” includes a non-liquid mixture of organic or inorganic material in which plants may grow, soils, potting mixtures and mulches;
@@ -782,10 +786,10 @@ and
 (e)Bactrocera tryoni (Queensland fruit fly);
 “oriental fruit moth” means Grapholita molesta;
 “relevant department” has the same meaning as in item 26.
-(2) For States and Territories other than South Australia or Tasmania, apricot fruit entry not allowed except in accordance with subitem (10).
-(3) For South Australia and Tasmania apricot fruit entry not allowed except in accordance with subitems (4) to (9) or subitem (10).
-(4) From South Australia or Tasmania to be certified as from a property and packed in a packing house registered in accordance with the FPE.
-(5) From South Australia or Tasmania to be accompanied by certification stating —
+[(2)deleted]
+(3) For apricot fruit grown in South Australia or Tasmania entry is not allowed except in accordance with subitems (4) to (9).
+(4) Apricot fruit grown in South Australia or Tasmania to be certified as from a property and packed in a packing house registered in accordance with the FPE.
+(5) Apricot fruit grown in South Australia or Tasmania to be accompanied by certification stating —
 (a) the name, address and registration number of —
 (i) the property on which the apricot fruit was grown; and
 (ii) the packing house in which it was packed;
@@ -795,15 +799,15 @@ and displaying the following words on the certification —
 “
 THE PROPERTY AND PACKING HOUSE HAVE BEEN REGISTERED FOR EXPORT TO WESTERN AUSTRALIA IN ACCORDANCE WITH THE FPE
 ”.
-(6) From South Australia or Tasmania to be —
+(6) Apricot fruit grown in South Australia or Tasmania to be —
 (a) transported in containers with —
 (i) the registration number or the name of the producer of the apricot fruit and the address of the property on which it was grown; and
 (ii) the registration number or the name of the packer of the apricot fruit and the address of the property on which it was packed,
 printed on the external surface in letters not less than 5 mm in height;
 (b) packed in clean new packaging; and
 (c) substantially free from leaves, soil and other plant debris, other than a peduncle or pedicel.
-(7) From South Australia or Tasmania to be inspected on arrival in Western Australia in accordance with the sampling procedures set out in the FPE Appendix 3.
-(8) From South Australia and Tasmania to be certified as —
+(7) Apricot fruit grown in South Australia or Tasmania to be inspected on arrival in Western Australia in accordance with the sampling procedures set out in the FPE Appendix 3.
+(8) Apricot fruit grown in South Australia and Tasmania to be certified as —
 (a) grown on a property which is declared to be an area of low pest prevalence for oriental fruit moth in accordance with the FPE,
 and displaying the following words on the certification —
 “
@@ -821,20 +825,33 @@ and displaying the following words on the certification —
 “
 FUMIGATED IN ACCORDANCE WITH AQIS QUARANTINE TREATMENTS ASPECTS AND PROCEDURES
 ”.
-(9) From South Australia or Tasmania to be certified as —
+(9) Apricot fruit grown in South Australia or Tasmania to be certified as —
 (a) fumigated in accordance with item 31(8)(b); or
 (b) from an area free from fruit fly in accordance with the Code of Practice or as approved by the Director General,
 and displaying the following words on the certification —
 “
 FROM AN AREA FREE FROM FRUIT FLY IN ACCORDANCE WITH THE CODE OF PRACTICE
 ”.
-(10) Apricot fruit originating from New Zealand may enter Western Australia via another State or a Territory subject to —
-(a) equivalent entry requirements to those applied by AQIS to apricot fruit imported directly from New Zealand to Western Australia; and
-(b) any further requirements considered necessary by the Director General.
+[(10)deleted]
 (11) The Department of Agriculture is to make available —
 (a) a summary of the FPE from its website at www.agric.wa.gov.au; and
 (b) a current version of the FPE from the offices of the Department of Agriculture at Baron-Hay Court, South Perth.
-[Item 31 inserted in Gazette 16 Dec 2005 p. 6075-8.]
+[Item 31 inserted in Gazette 16 Dec 2005 p. 6075-8; amended in Gazette 6 Mar 2007 p. 726-7.]
+31A.Stonefruit grown in New Zealand
+(1) In this item —
+“cherry fruit” means fresh fruit of Prunus avium;
+“stonefruit” means fresh fruit of —
+(a)apricot (Prunus armeniaca); or
+(b)nectarine (Prunus persica var. nucipersica); or
+(c)peach (Prunus persica); or
+(d)plum (Prunus domestic or Prunus salicina).
+(2) For cherry fruit grown in New Zealand entry is not allowed except in accordance with —
+(a) requirements considered by the Director General to be equivalent to those specified in item 26(3) to (6); and
+(b) any further requirements specified by the Director General.
+(3) For stonefruit grown in South Island New Zealand entry is not allowed except in accordance with —
+(a) requirements considered by the Director General to be equivalent to those specified in item 31(4) to (8); and
+(b) any further requirements specified by the Director General.
+[Item 31A inserted in Gazette 6 Mar 2007 p. 727.]
 32.Mushroom growing medium (Verticillium fungicola)
 (1) Sterilized growing medium accepted from approved nurseries provided it is certified as prepared and sterilized in isolation from mushroom growing areas.
 (2) Sterilization can be either steam pasteurization at 60°C for 30 minutes or fumigation with methyl bromide at 0.5 kg/m3 for 24 hours on an impervious floor with the material to be fumigated being not more than 300 mm deep.
