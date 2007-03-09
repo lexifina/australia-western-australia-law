@@ -4,3 +4,4 @@ Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Written-Off Vehicle Register) Regulations 2003 | 31 Oct 2003 p. 4595-610 | 31 Oct 2003
 Road Traffic (Written-Off Vehicle Register) Amendment Regulations 2005 | 16 Sep 2005 p. 4324-5 | 16 Sep 2005
+Road Traffic (Written-Off Vehicle Register) Amendment Regulations 2007 | 9 Mar 2007 p. 849 | 9 Mar 2007
