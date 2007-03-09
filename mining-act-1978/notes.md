@@ -69,8 +69,8 @@ Short title | Number and year | Assent | Commencement
 Mining Amendment Act 1996 s. 9 | 54 of 1996 | 11 Nov 1996 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999, s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
-Mining Amendment Act 2004 Pt. 9 | 39 of 2004 | 3 Nov 2004 | To be proclaimed (see s. 2)
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 62 | 24 of 2005 | 2 Dec 2005 | Operative on commencement of No. 39 of 2004 s. 82 (see s. 2(3))
+Mining Amendment Act 2004 Pt. 9 | 39 of 2004 | 3 Nov 2004 | 31 Mar 2007 (see s. 2 and Gazette 9 Mar 2007 p. 847)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 62 | 24 of 2005 | 2 Dec 2005 | 31 Mar 2007 (see s. 2(3) and Gazette 9 Mar 2007 p. 847)
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in a written law to the Department of Mines is, unless the contrary is intended, to be read and construed as a reference to the Department of Industry and Resources.
