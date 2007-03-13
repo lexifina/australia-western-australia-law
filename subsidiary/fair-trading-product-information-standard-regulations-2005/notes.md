@@ -4,3 +4,4 @@ Compilation table
 Citation | Gazettal | Commencement
 Fair Trading (Product Information Standard) Regulations 2005 | 29 Jun 2005 p. 2971-81 | 29 Jun 2005
 Fair Trading (Product Information Standard) Amendment Regulations 2006 | 1 Sep 2006 p. 3591-5 | 2 Sep 2006 (see r. 2)
+Fair Trading (Product Information Standard) Amendment Regulations 2007 | 13 Mar 2007 p. 926 | 13 Mar 2007
