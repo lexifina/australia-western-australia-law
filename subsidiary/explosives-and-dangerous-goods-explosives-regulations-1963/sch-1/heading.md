@@ -1,5 +1,6 @@
 ## First Schedule — Explosives too dangerous to transport and other explosives not in Class 1
 [r. 2]
+[Heading inserted in Gazette 8 Jun 1999 p. 2484.]
 Notes
 (1) This Schedule lists those of the goods named in Appendix 5 to the sixth edition of the Australian Code for the Transport of Dangerous Goods by Road and Rail (“ADG 6”) that are explosives. Appendix 5 lists goods considered too dangerous to transport.
 (2) ‘N.E.S.’ means “not elsewhere specified”. If an entry in this Schedule includes ‘N.E.S.’ it means the explosives named in the entry are not only named in Appendix 5 to ADG 6, but also in an entry in another Appendix to ADG 6.
