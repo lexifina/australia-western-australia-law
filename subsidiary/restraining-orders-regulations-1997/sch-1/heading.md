@@ -1,5 +1,6 @@
 ## Schedule 1 — Forms
 [r. 3]
+[Heading inserted in Gazette 26 Nov 2004 p. 5267.]
 Table of forms
 Forms about violence restraining orders
 Form |  | Provisions of Act
@@ -27,37 +28,39 @@ Form |  | Provisions of Act
 12 | Part A — Interstate restraining order — Application to register Part B — Information to be on the copy of the application given to the applicant Part C — Information to be on the copy of the application given to the Commissioner of Police Part D — Information to be on the copy of the application given to the interstate court where the interstate order was made | Section 75(2)
 13 | Part A — Restraining order — Summons Part B — Information to be on the proof of service copy | Sections 26(3) and 39
 14 | Application to have decision under section 42 of the Act set aside | Section 43A
+[Table of forms inserted in Gazette 26 Nov 2004 p. 5267-8.]
 Form 1 — Application for violence restraining order
- | Restraining Orders Act 1997 s. 25 Violence restraining order Application |  | Number:
- | Jurisdiction:
- | Location:
- | Person seeking to be protected | Family name: | Date of birth:
- | Other names:
- | Address:street:
- | suburb:postcode:
- | Phone nos.:work:home:
- | Applicant [If not the person seeking to be protected] | Are you:rthe person seeking to be protected rthe parent or guardian of a child who is the person seeking to be protected ra child welfare officer on behalf of a child who is seeking to be protected ra police officer rthe legal guardian of the person who is seeking to be protected
- | Family name: | Date of birth:
- | Other names:
- | Address:street: suburb:postcode:
- | Phone nos.:work:home:
- | Respondent [Fill in as many details as you can.] | Family name: | Date of birth:
- | Other names:
- | Homestreet: address:suburb:postcode:
- | Workstreet: address:suburb:postcode:
- | Phone nos.:workhome:
- | Grounds for application | Why do you need a violence restraining order? To prevent the respondent from — rcommitting an act of abuse against the person seeking to be protected; rbehaving in a way that could reasonably be expected to cause fear that a person seeking to be protected will have an act of abuse committed against him or her; rexposing a child to an act of family and domestic violence; or rbehaving in a way that could reasonably be expected to cause fear that a child will be exposed to an act of family and domestic violence. Give details of the respondent’s behaviour.
- | Family orders [If yes, see the Details of family order Annexure.] | Are there any current family orders relating to the respondent’s rights in relation to children who may be affected by a restraining order? | r Yes r No r Unknown
- | Are there any current Family Court proceedings in which such orders are being sought? | r Yes r No r Unknown
- | Firearms | Does the respondent have a firearm or firearms licence? | r Yes r No r Unknown
- | Does the respondent have access to a firearm at work? | r Yes r No r Unknown
- | First hearing | Do you want the respondent to be present at the first hearing? | r Yes r No
- | Applicant [Not essential if applicant is a police officer] | Signature: | Date:
- | Hearing [To by filled in by the court.] | Court: | Date: | Time:
- | Signature of clerk:
- | Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ __ __ at _______ am/pm at ____________________________________ I notified the applicant of the hearing date. Signature of clerk:
- | Affidavit evidence may be provided on request
- |  | If you, or the respondent, request a copy of any affidavit received in evidence in relation to this application the clerk of courts where this application is made is to provide a copy of the affidavit to the person who made the request.
+Restraining Orders Act 1997 s. 25 Violence restraining order Application |  | Number:
+Jurisdiction:
+Location:
+Person seeking to be protected | Family name: | Date of birth:
+Other names:
+Address:street:
+suburb:postcode:
+Phone nos.:work:home:
+Applicant [If not the person seeking to be protected] | Are you:rthe person seeking to be protected rthe parent or guardian of a child who is the person seeking to be protected ra child welfare officer on behalf of a child who is seeking to be protected ra police officer rthe legal guardian of the person who is seeking to be protected
+Family name: | Date of birth:
+Other names:
+Address:street: suburb:postcode:
+Phone nos.:work:home:
+Respondent [Fill in as many details as you can] | Family name: | Date of birth:
+Other names:
+Homestreet: address:suburb:postcode:
+Workstreet: address:suburb:postcode:
+Phone nos.:work:home:
+Grounds for application | Why do you need a violence restraining order? To prevent the respondent from — rcommitting an act of abuse against the person seeking to be protected; rbehaving in a way that could reasonably be expected to cause fear that a person seeking to be protected will have an act of abuse committed against him or her; rexposing a child to an act of family and domestic violence; or rbehaving in a way that could reasonably be expected to cause fear that a child will be exposed to an act of family and domestic violence. Give details of the respondent’s behaviour.
+Family orders [If yes, see the Details of family order Annexure] | Are there any current family orders relating to the respondent’s rights in relation to children who may be affected by a restraining order? | r Yes r No r Unknown
+Are there any current Family Court proceedings in which such orders are being sought? | r Yes r No r Unknown
+Firearms | Does the respondent have a firearm or firearms licence? | r Yes r No r Unknown
+Does the respondent have access to a firearm at work? | r Yes r No r Unknown
+First hearing | Do you want the respondent to be present at the first hearing? | r Yes r No
+Applicant [Not essential if applicant is a police officer] | Signature: | Date:
+Hearing [To by filled in by the court] | Court: | Date: | Time:
+Signature of clerk:
+Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ __ __ at _______ am/pm at ____________________________________ I notified the applicant of the hearing date. Signature of clerk:
+Affidavit evidence may be provided on request
+ | If you, or the respondent, request a copy of any affidavit received in evidence in relation to this application the clerk of courts where this application is made is to provide a copy of the affidavit to the person who made the request.
+[Form 1 inserted in Gazette 26 Nov 2004 p. 5269.]
 Form 2 — Violence restraining order
 Part A — Violence restraining order
 Restraining Orders Act 1997 s. 29, 32, 43, 49 and 63 Violence Restraining Order |  | Number:
@@ -68,7 +71,7 @@ Other names:
 Homestreet: address:suburb:postcode:
 Workstreet: address:suburb:postcode:
 Phone nos.:work:home:
-Person protected | Family name: | Date of Birth:
+Person protected | Family name: | Date of birth:
 Other names:
 Type of order | The order isr for 72 hours or lessr an interim orderr a final order
 Terms of this order
@@ -129,7 +132,7 @@ THIS ORDER COMES INTO FORCE IMMEDIATELY IF THE PERSON WHO IS BOUND BY THE ORDER 
 Form 2 — Violence restraining order
 Part E — Information to be on the proof of service copy
 Certificate of Service
- | Restraining order No: Court of issue:
+ | Restraining order No.: Court of issue:
 Person serving order | Name of person serving order:
 I amrthe clerk of the court ra police officer Name and other identifying information: ra prison officerPrison: ____________________________________________ ra person authorised by the clerk Date of authorisation:
 Service | Method of service: r personalr oralr by postr substituted service
@@ -158,6 +161,7 @@ Current proceedings for family order | Court: | Family Court matter no.:
 Terms of family order being sought which relate to the respondent’s rights in relation to children:
 Are these terms of the order being opposed?r Yesr Nor Unknown
 Applicant | Signature: | Date:
+[Form 2 inserted in Gazette 26 Nov 2004 p. 5270-5.]
 Form 3 — Section 63A violence restraining order
 Part A — Section 63A violence restraining order
 Restraining Orders Act 1997 s. 63A Section 63A Violence Restraining Order |  | Number:
@@ -168,7 +172,7 @@ Other names:
 Homestreet: address:suburb:postcode:
 Workstreet: address:suburb:postcode:
 Phone nos.:work:home:
-Person protected | Family name: | Date of Birth:
+Person protected | Family name: | Date of birth:
 Other names:
 Lifelong order | This order remains in force for the period of the life of the person who is bound by this order.
 Terms of this order
@@ -188,6 +192,7 @@ FOR THE PERSON WHO IS PROTECTED BY THIS ORDER
 Section 63A violence restraining order
 A violence restraining order has been made to protect you under section 63A of the Restraining Orders Act 1997. The order is in the terms set out on the front of this order. This order came into force when it was served on the person who is bound by the order, or at a later time if this is specified on the front of this order. The person who is bound by this order must comply with this order for the rest of his or her life. Penalty: It is an offence to breach a violence restraining order. If the person who is bound by this order breaches this order he or she may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. Counselling and support services may be of assistance to you.
 THIS ORDER COMES INTO FORCE IMMEDIATELY IF THE PERSON WHO IS BOUND BY THE ORDER WAS PRESENT IN COURT WHEN IT WAS MADE
+[Form 3 inserted in Gazette 26 Nov 2004 p. 5276-7.]
 Form 4 — Application for misconduct restraining order
 Restraining Orders Act 1997 s. 38(2) Misconduct restraining order Application |  | Number:
 Jurisdiction:
@@ -197,12 +202,12 @@ Other names:
 Address:street:
 suburb:postcode:
 Phone nos.:work:home:
-Applicant [[If not the person seeking to be protected] | Are you:rthe person seeking to be protected rthe parent or guardian of a child who is seeking to be protected ra police officer rthe legal guardian of the person who is seeking to be protected
+Applicant [If not the person seeking to be protected] | Are you:rthe person seeking to be protected rthe parent or guardian of a child who is seeking to be protected ra police officer rthe legal guardian of the person who is seeking to be protected
 Family name: | Date of birth:
 Other names:
 Address:street: suburb:postcode:
 Phone nos.:work:home:
-Respondent [Fill in as many details as you can.] | Family name: | Date of birth:
+Respondent [Fill in as many details as you can] | Family name: | Date of birth:
 Other names:
 Homestreet: address:suburb:postcode:
 Workstreet: address:suburb:postcode:
@@ -211,9 +216,10 @@ Grounds for application | Why do you need a misconduct restraining order? Becaus
 Firearms | Does the respondent have a firearm or firearms licence? | r Yes r No r Unknown
 Does the respondent have access to a firearm at work? | r Yes r No r Unknown
 Applicant | Signature: | Date:
-Hearing [To by filled in by the court.] | Court: | Date: | Time:
+Hearing [To by filled in by the court] | Court: | Date: | Time:
 Signature of clerk:
 Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ __ __ at _______ am/pm at ____________________________________ I notified the applicant of the hearing date. Signature of clerk:
+[Form 4 inserted in Gazette 26 Nov 2004 p. 5278.]
 Form 5 — Misconduct restraining order
 Part A — Misconduct restraining order
 Restraining Orders Act 1997 s. 43, 49 and 63 Misconduct Restraining Order |  | Number:
@@ -239,7 +245,7 @@ Affidavit evidence may be provided on request
 If you, or the person protected by this order, request a copy of any affidavit received in evidence in relation to this order the clerk of courts where the application for the order was made is to provide a copy of the affidavit to the person who made the request.
 THIS ORDER COMES INTO FORCE IMMEDIATELY IF THE PERSON WHO IS BOUND BY THE ORDER WAS PRESENT IN COURT WHEN IT WAS MADE
 Form 5 — Misconduct restraining order
-Part C —Information to be on the copy of the order given to the person protected by the order
+Part C — Information to be on the copy of the order given to the person protected by the order
 IMPORTANT INFORMATION
 FOR THE PERSON PROTECTED BY THE ORDER
 Misconduct Restraining Order
@@ -250,7 +256,7 @@ THIS ORDER COMES INTO FORCE IMMEDIATELY IF THE PERSON WHO IS BOUND BY THE ORDER 
 Form 5 — Misconduct restraining order
 Part D — Information to be on the proof of service copy
 Certificate of Service
- | Restraining order No: Court of issue:
+ | Restraining order No.: Court of issue:
 Person serving order | Name of person serving order:
 I amrthe clerk of the court ra police officer Rank, number and station: ra prison officerPrison: ____________________________________________ ra person authorised by the clerk Date of authorisation:
 Service | Method of service: r personalr oralr by postr substituted service
@@ -261,6 +267,7 @@ Date of birth:
 Signature:………………………………………………….. [If possible to obtain]
 Certificate | I certify that on the day and at the time and place set out above: r I personally served this order on the person who is bound by the order r I orally served this order on the person who is bound by the order r I posted this order to the person who is bound by the order r I took the steps directed by the court to effect substituted service of this order on the person who is bound by the order in accordance with Part 6 Division 2 of the Restraining Orders Act 1997. In the case of oral service, I also certify that I gave the person who is bound by this order the information required by section 55(5) of the Restraining Orders Act 1997 and that he or she appeared to understand what was said.
 Signature: | Date:
+[Form 5 inserted in Gazette 26 Nov 2004 p. 5279-81.]
 Form 6 — Telephone order
 Part A — Court copy of telephone order
 Restraining Orders Act 1997 s. 23 Telephone Violence Restraining Order |  | Number:
@@ -348,7 +355,7 @@ If you, or the person bound by this order, request a copy of any affidavit recei
 Form 6 — Telephone order
 Part F — Information to be on the proof of service copy
 Certificate of Service
- | Restraining order No: Court of issue:
+ | Restraining order No.: Court of issue:
  | Name of person serving order:
 I amrthe clerk of the court ra police officer Name and other identifying information: ra prison officerPrison: ____________________________________________ ra person authorised by the clerk Date of authorisation:
 Service | Method of service: r personalr oralr by postr substituted service
@@ -359,13 +366,14 @@ Date of birth:
 Signature:……………………………………………… [If possible to obtain]
 Certificate | I certify that on the day and at the time and place set out above r I personally served this order on the person who is bound by the order r I orally served this order on the person who is bound by this order r I posted this order to the person who is bound by this order r I took the steps directed by the court to effect substituted service of this order on the person who is bound by this order in accordance with Part 6 Division 2 of the Restraining Orders Act 1997. In the case of oral service, I also certify that I gave the person who is bound by this order the information required by section 55(5) of the Restraining Orders Act 1997 and that he or she appeared to understand what was said.
 Signature: | Date:
+[Form 6 inserted in Gazette 26 Nov 2004 p. 5282-7.]
 Form 7 — Restraining order record of telephone application
 Restraining Orders Act 1997 s. 21(4) Restraining order Record of telephone application |  | Number:
 Jurisdiction:
 Location:
 Authorised person | Name:
 Rank and number/identification:
-Contact phone no: | Date of application:
+Contact phone no.: | Date of application:
 Reason for applying by telephone
 Ir amr am not satisfied that the matter is sufficiently urgent to justify a telephone application.
 Person seeking to be protected | Family name: | Date of birth:
@@ -396,6 +404,7 @@ Magistrate | Name:
 Court where Magistrate is based:
 Magistrate’s location when hearing application:
 Signature: | Date: | Time:
+[Form 7 inserted in Gazette 26 Nov 2004 p. 5288-9.]
 Form 8 — Application to vary or cancel a restraining order
 Part A — Application to vary or cancel a restraining order
 Restraining Orders Act 1997 s. 45 Restraining order Application to vary or cancel |  | Number:
@@ -407,13 +416,13 @@ Address:street: suburb:postcode:
 Phone nos.:work:home:
 Are you:rthe person protected by the order rthe parent or guardian of a child protected by the order ra police officer rthe legal guardian of the person protected by the order rthe person bound by the order
 Restraining order | Type of order: r Violence Restraining Orderr Misconduct Restraining Order
-Date order was made: | Restraining order no:
+Date order was made: | Restraining order no.:
 Person who is bound by the order:
 Person who is protected by the order:
 Grounds for leave to continue this application [Only fill this in if the application is being made by the person bound by the order] | If you are the person bound by the restraining order, on what grounds do you seek leave to continue the application?
 Variation or cancellation | Do you want the restraining order to ber cancelledr varied If varied, what do you want changed?
 Grounds for variation or cancellation | Why do you want the restraining order varied or cancelled?
-Hearing [To be filled in by the court] | Court: Date: Time::
+Hearing [To be filled in by the court] | Court: Date: Time:
 Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ __ __ at _____ am/pm at I notified the person applying to vary or cancel of the hearing date. Signature of clerk:
 Form 8 — Application to vary or cancel a restraining order
 Part B — Information to be on the copy of the application to be given to the applicant
@@ -425,6 +434,7 @@ Application by the person who is bound by the restraining order
 If you are the person who is bound by the restraining order and you have applied to vary or cancel a restraining order, you must attend a hearing on the date set out on the front of this application. The person protected by the restraining order will not attend this hearing. At this hearing you will have the opportunity to satisfy the court that you should be granted leave to continue the application. To do this you will need to satisfy the court that one of the following applies: (i)you had a reasonable cause not to attend a prior hearing where the restraining order was made (this does not apply in respect of a hearing where you were not present because the person protected by the order chose to have the matter heard in your absence under section 26 of the Restraining Orders Act 1997); (ii)there is evidence to support a claim that a person protected by the order has persistently invited or encouraged you to breach the order, or by his or her actions has persistently attempted to cause you to breach the order; (iii)there has been a substantial change in the relevant circumstances since the order was made; or (iv)if this application is made to vary or cancel an interim order, there is evidence to support a claim that the restraints imposed by the order are causing you unnecessary hardship. If you do not attend the hearing, your application may be dismissed. Your application to vary or cancel the restraining order will be dismissed if you do not satisfy the court that one of the grounds set out above applies. If the court is satisfied that one of the grounds set out above applies to you then the court will set a date for a further hearing and will summons the person protected by the order to attend. At that hearing the court will decide whether or not to vary or cancel the restraining order. If you do not attend the hearing, your application may be dismissed.
 Application to extend duration of order
 If this application is to vary the restraining order by extending the duration of the order, then, despite anything else in the Restraining Orders Act 1997, THE ORDER WILL NOT EXPIRE before the application is determined if the person bound by the order has been given a copy of this application.
+[Form 8 inserted in Gazette 26 Nov 2004 p. 5290-1.]
 Form 9 — Summons to vary or cancel restraining order
 Part A — Summons to vary or cancel restraining order
 Restraining Orders Act 1997 s. 47 Restraining order Summons to vary or cancel |  | Number:
@@ -449,7 +459,7 @@ If you do not attend the court hearing the restraining order may be varied or ca
 Form 9 — Summons to vary or cancel restraining order
 Part B —Information to be on the proof of service copy
 Certificate of Service
- | Restraining order No: Court of issue:
+ | Restraining order No.: Court of issue:
 Person serving summons | Name of person serving summons:
 I amrthe clerk of the court ra police officer Rank, number and station: ra prison officerPrison: ____________________________________________ ra person authorised by the clerk Date of authorisation:
 Service | Method of service: r personalr by postr substituted service
@@ -468,9 +478,10 @@ Steps taken to attempt service:
 I was unable to serve this summons because: r the person to be summonsed does not appear to live or work at the addresses given and cannot be found elsewhere r the person to be summonsed appears to be deliberately avoiding being served with this summons r other [give details]
 Signature: | Date:
 Please return this proof of service copy of the summons to the court before the hearing date, even if you have been unable to serve it.
+[Form 9 inserted in Gazette 26 Nov 2004 p. 5292-3.]
 Form 10 — Police order
 Part A — Police order
-Restraining Orders Act 1997 Part 2 Division 3A. Police Order
+Restraining Orders Act 1997 Part 2 Division 3A Police Order
 Person who is bound by this order | Family name: | Date of birth:
 Other names:
 Homestreet: address:suburb:postcode:
@@ -487,11 +498,11 @@ Signature:
 Form 10 — Police order
 Part B — Information to be on the proof of service copy
 Certificate of Service
-Person served (Person who is bound by the order) | Name:
+Person served [Person who is bound by the order] | Name:
 Date of birth:
 Signature:
 Consent for 72 hour police order | Order for the protection of an adult I,…………………………………………………….. Date of birth ………………………… (name of person protected by the police order) consent to the making of this 72 hour police order. Signature…………………….
-Order for the protection of a child I,………………………..the parent/ guardian* of the child to be protected by this police order consent to the making of this order. Signature……………………. OR r a child welfare officer * consents to the making of this order. Name and other identifying information ……………………. *Delete as applicable
+Order for the protection of a child I,………………………..the parent/guardian* of the child to be protected by this police order consent to the making of this order. Signature……………………. OR r a child welfare officer * consents to the making of this order. Name and other identifying information ……………………. *Delete as applicable
 Details of Service | Place where order served:
 Date of service: | Time of service:
 Officer servicing order | Name and other identifying information: I certify that on the day and at the time and place set out above: r I personally served this order on the person bound by this order r I gave the explanation required by section 30E(3) of the Restraining Orders Act 1997 to the person bound by this order and the person protected by this order Signature: Date:
@@ -505,11 +516,12 @@ Part D — Information to be on the copy of a police order given to a person pro
 IMPORTANT INFORMATION
 FOR PERSON PROTECTED BY A POLICE ORDER
 This is a police order which has been made for your benefit. In this police order you are referred to as the person protected. This police order came into force when it was served on the person who is bound by the order. The person bound by this order must comply with the terms of this order until it expires. The date and time of expiry are written on the front of this order. The terms of this police order are written on the front of this order. You should read the terms carefully so that you are aware of the restraints that have been imposed to protect you. This police order has been issued to — ·ensure that a person is protected from acts of family and domestic violence; ·prevent behaviour that could reasonably be expected to cause fear that a person will have committed against them an act of family and domestic violence; or ·ensure that children are not exposed to acts of domestic violence. The person bound by this order commits an offence if he or she fails to comply with this order. You must not — ·invite or encourage the person bound by this order to breach this order; or ·by your actions cause the person bound by this order to breach the order. Penalty: It is an offence to breach a police order. If the person bound by this order breaches this order he or she may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. Counselling and support services may be of assistance to you.
+[Form 10 inserted in Gazette 26 Nov 2004 p. 5294-7.]
 Form 11 — Restraining order made during other proceedings — record of proceedings
 Restraining Orders Act 1997 s. 63 Restraining order made during other proceedings Record of proceedings |  | Number:
 Jurisdiction:
 Location:
-Application | Order made:r by Court of its own motionr on an application or request by
+Application | Order made:r by court of its own motion r on an application or request by
 Person protected by the order | Family name: | Date of birth:
 Other names:
 Address:street: suburb:postcode:
@@ -519,20 +531,21 @@ Person who is bound by the restraining order | Family name: | Date of birth:
 Other names:
 Homestreet: address:suburb:postcode:
 Workstreet: address:suburb:postcode:
-Phone nos.:workhome:
+Phone nos.:work:home:
 Role in proceeding in which restraining order was made: r applicant/complainantr respondent/defendant r other witnessr other_______________________________________________
 Grounds on which order applied for or considered
 Family orders | Are there any current family orders relating to the person who is bound by the restraining order’s rights in relation to children who may be affected by a restraining order?r Yesr No
 Are there any current Family Court proceedings in which suchr Yesr No orders are being sought?
 Details of family order or proceedings:
 Firearms | Does the person who is bound by the restraining order have a firearm or a firearms licence? r Yesr No
-Does the person who is bound by the restringing order have access to a firearm at work?r Yesr No
+Does the person who is bound by the restraining order have access to a firearm at work?r Yesr No
 Witness and summary of evidence | Person protected by the restraining order: Person who is bound by the restraining order:
  | Other people:
 Other notes
 Terms of the order
 Order made | Date order made: | Time order made:
 Clerk | Signature: | Date:
+[Form 11 inserted in Gazette 26 Nov 2004 p. 5298-9.]
 Form 12 — Application to register an interstate restraining order
 Part A — Application to register an interstate restraining order
 Restraining Orders Act 1997 s. 75 Interstate restraining order Application to register |  | Number:
@@ -561,18 +574,19 @@ Registered [To be filled in by the court] | Date of registration: | Time of regi
 Signature of clerk: | Date:
 Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ __ __ at ______ am/pm at I notified the applicant that the order had been registered. Signature of clerk:
 When you lodge this application you must also give the clerk the original interstate order or a copy certified to be a true copy by an officer of the court in which it was made. The clerk may also ask for evidence to show that the interstate order has been served on the person who is to be bound by the order.
-Form 12— Application to register an interstate restraining order
+Form 12 — Application to register an interstate restraining order
 Part B — Information to be on the copy of the application given to the applicant
 Notification to applicant
 The interstate restraining order described in this form has been registered in Western Australia. It can now be enforced in this State as if it had been made here.
-Form 12— Application to register an interstate restraining order
-Part C— Information to be on the copy of the application given to the Commissioner of Police
+Form 12 — Application to register an interstate restraining order
+Part C — Information to be on the copy of the application given to the Commissioner of Police
 Notification to the Commissioner of Police
 The interstate order described in this form has been registered in Western Australia. A copy of the interstate order is attached.
 Form 12 — Application to register an interstate restraining order
 Part D — Information to be on the copy of the application given to the interstate court where the relevant interstate order was made
 Notification to the Registrar or Clerk
 The restraining order described above and made in your court has been registered in Western Australia. If the original order is varied or cancelled please notify the clerk of the court mentioned above.
+[Form 12 inserted in Gazette 26 Nov 2004 p. 5300-1.]
 Form 13 — Restraining order — summons
 Part A — Restraining order — summons
 Restraining Orders Act 1997 s. 26(3) and 39 Restraining order Summons |  | Number:
@@ -617,19 +631,20 @@ Steps taken to attempt service:
 I was unable to serve this summons because: r the respondent does not appear to live or work at the addresses given and cannot be found elsewhere r the respondent appears to be deliberately avoiding being served with this summons r other [give details]
 Signature: | Date:
 Please return this proof of service copy of the summons to the court before the hearing date, even if you have been unable to serve it.
+[Form 13 inserted in Gazette 26 Nov 2004 p. 5302-3.]
 Form 14 — Application to have decision under section 42 of the Act set aside
-Restraining Orders Act 1997 Section 43A. Application to set aside decision under section 42 of the Restraining Orders Act 1997 |  | Number:
+Restraining Orders Act 1997 s. 43A Application to set aside decision under section 42 of the Restraining Orders Act 1997 |  | Number:
 Jurisdiction:
 Location:
 Applicant’s details | Name: | Date of birth:
 Address:
-Phone nos.:work:home: mobile
+Phone nos.:work:home: mobile:
 Respondent’s details | Name:
 Date of decision
-Date of application | This application is made within 21 days from the date that I first became aware of/ was served with a copy of the order This application is not made within 21 days from the date that I first became aware of/ was served with a copy of the order
-Application | I apply for the following orders — Leave be granted to proceed with this application out of time. The decision and orders made in this matter on the date above be set aside.
+Date of application | rThis application is made within 21 days from the date that I first became aware of/was served with a copy of the order rThis application is not made within 21 days from the date that I first became aware of/was served with a copy of the order
+Application | I apply for the following orders — rLeave be granted to proceed with this application out of time. rThe decision and orders made in this matter on the date above be set aside.
 Grounds for application | I rely on the following grounds in support of this application. (Outline grounds, if insufficient space please attach further information.)
 Signature of applicant and date
 Notice of court hearing | Court: Address:
 Date and time of hearing:
-[Schedule 1 inserted in Gazette 26 Nov 2004 p. 5267-304.]
+[Form 14 inserted in Gazette 26 Nov 2004 p. 5304.]

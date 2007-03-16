@@ -1,9 +1,13 @@
 Notes
-This is a compilation of the Restraining Orders Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 16 March 2007 of the Restraining Orders Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
-Restraining Orders Regulations 1997 | 12 Sep 1997 p. 5079-146 (correction 16 Sep 19697 p. 5235) | 15 Sep 1997 (see r. 2 and Gazette 12 Sep 1997 p. 5149)
+Restraining Orders Regulations 1997 | 12 Sep 1997 p. 5079-146 (correction 16 Sep 1997 p. 5235) | 15 Sep 1997 (see r. 2 and Gazette 12 Sep 1997 p. 5149)
 Restraining Orders Amendment Regulations 1998 | 27 Mar 1998 p. 1714 | 27 Mar 1998
 Restraining Orders Amendment Regulations (No. 2) 2001 | 8 Jan 2002 p. 32-3 | 8 Jan 2002
 Reprint 1: The Restraining Orders Regulations 1997 as at 13 Feb 2004 (includes amendments listed above)
 Restraining Orders Amendment Regulations 2004 | 26 Nov 2004 p. 5257-305 | 1 Dec 2004 (see r. 2)
+Reprint 2: The Restraining Orders Regulations 1997 as at 16 Mar 2007 (includes amendments listed above)
+The definition of, and references to, “clerk” in the Act were changed by the Courts Legislation Amendment and Repeal Act 2004 Pt. 17 to “registrar”.
+Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
+Formerly referred to the Criminal Law (Mentally Impaired Defendants) Act 1996 the short title of which was changed to the Criminal Law (Mentally Impaired Accused) Act 1996 by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
