@@ -9,7 +9,7 @@ Item | Description | Fee ($)
 3. | Licence to manufacture a blasting agent | 35.00
 4. | Licence to sell explosives | 51.00
 5. | Licence to store explosives —
- | (a)licensed premised Mode A | 35.00
+ | (a)licensed premises Mode A | 35.00
  | (b)licensed premises Mode B | 80.00
  | (c)magazine not exceeding 1 000 kg | 80.00
  | (d)magazine exceeding 1 000 kg but not exceeding 5 000 kg | 120.00
@@ -22,7 +22,7 @@ Item | Description | Fee ($)
  | (b)inspection of packages damaged, per day or part thereof | 260.00
  | (c)inspection of ships conveying explosives, per day or part thereof | 260.00
  | (d)inspection for certificate of release | 165.00
-10. | Tonnage fees for magazines erected on explosives reserves (for every 1 000 kg of licensed capacity) — | 220.00
+10. | Tonnage fees for magazines erected on explosives reserves (for every 1 000 kg of licensed capacity) | 220.00
 11. | Tonnage fee for storing ammonium nitrate on reserved land vested in the Minister for the purpose of magazines for explosives —
  | (a)on the Baldivis Explosives Reserve or the Kalgoorlie Explosives Reserve (per square metre of land used for such storage) | 6.20
  | (b)on any other such reserved land (per square metre of land used for such storage) | 3.10
