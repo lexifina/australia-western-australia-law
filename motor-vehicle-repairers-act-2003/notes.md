@@ -1,81 +1,23 @@
 Notes
-This is a compilation of the Motor Vehicle Repairers Act 2003. The following table contains information about that Act.
+This is a compilation of the Motor Vehicle Repairers Act 2003 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
-Short title | Number and Year | Assent | Commencement
-Motor Vehicle Repairers Act 2003 | 68 of 2003 | 9 Dec 2003 | s. 1-2: 9 Dec 2003
+Short title | Number and year | Assent | Commencement
+Motor Vehicle Repairers Act 2003 | 68 of 2003 | 9 Dec 2003 | s. 1-2: 9 Dec 2003; Pt. 1 (other than s. 1, 2, 3(4) and 4), Pt. 3, Pt. 4, s. 65 & 69, Pt. 7, s. 89 & 90, Pt. 10 (other than s. 108 & 109), Pt. 11 and Sch. 3 cl. 2 & 3: 19 Mar 2007 (see s. 2 and Gazette 9 Feb 2007 p. 451)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 16 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Motor Vehicle Repairers Act 2003 | 68 of 2003 (as amended by No. 59 of 2004 s. 141; No. 84 of 2004 s. 80; No. 38 of 2005 s. 15; No. 28 of 2006 Pt. 4 Div. 16; No. 77 of 2006 s. 17) | 9 Dec 2003 | Pt. 1 (other than s. 1, 2, 3(4) and 4), Pt. 3, Pt. 4, s. 65 & 69, Pt. 7, s. 89 & 90, Pt. 10 (other than s. 108 & 109), Pt. 11 and Sch. 3 cl. 2 & 3: 19 Mar 2007 (see s. 2 and Gazette 9 Feb 2007 p. 451); s. 3(4) & 4, Pt. 2, Pt. 5, Pt. 6 (other than s. 65 & 69), Pt. 8, Pt 9 (other than s. 89 & 90), s. 108 & 109, Sch. 1 & 2 and Sch. 3 cl. 1: to be proclaimed (see s. 2)
-On the date as at which this compilation was prepared, the Motor Vehicle Repairers Act 2003 s. 3-8, Pt. 2-11 and Sch. 1-3 (as amended by No. 59 of 2004 s. 141, No. 84 of 2004 s. 80, No. 38 of 2005 s. 15 and No. 28 of 2006 Pt. 4 Div. 16) had not come into operation. They read as follows:
+Motor Vehicle Repairers Act 2003 s. 3(4) & 4, Pt. 2, Pt. 5, Pt. 6 (other than s. 65 & 69), Pt. 8, Pt 9 (other than s. 89 & 90), s. 108 & 109, Sch. 1 & 2 and Sch. 3 cl. 1 | 68 of 2003 (as amended No. 38 of 2005 s. 15; No. 77 of 2006 s. 17) | 9 Dec 2003 | To be proclaimed (see s. 2)
+On the date as at which this compilation was prepared, the Motor Vehicle Repairers Act 2003 s. 3(4) & 4, Pt. 2, Pt. 5, Pt. 6 (other than s. 65 & 69), Pt. 8, Pt 9 (other than s. 89 & 90), s. 108 & 109, Sch. 1 & 2 and Sch. 3 cl. 1: (as amended by No. 38 of 2005 s. 15 and No. 77 of 2006 s. 17) had not come into operation. They read as follows:
 “
 3.Interpretation
-(1) In this Act, unless the contrary intention appears —
-“approved”, in relation to a form, means approved by the Board for the purposes of the provision in which the term appears;
-“authorised officer” means an officer designated as such under section 8;
-“Board” means the Motor Vehicle Industry Board established by section 7 of the Motor Vehicle Dealers Act 1973;
-“business licence” means a business licence granted under section 16, 18 or 20;
-“certificate” means —
-(a)a repairer’s certificate; or
-(b)a provisional repairer’s certificate;
-“Commissioner” has the meaning given to that term in section 5(1) of the Motor Vehicle Dealers Act 1973;
-“Department” means the department of the Public Service principally assisting the Minister in the administration of this Act;
-“Director General” means the chief executive officer of the Department;
-“inquiry” has the meaning given by subsection (4);
-“licensee” means the holder of a business licence;
-“motor vehicle” means a vehicle that is propelled wholly or partly by —
-(a)any volatile spirit, steam, gas, oil or electricity; or
-(b)any other means apart from human or animal power,
-and includes a trailer, but does not include —
-(c)a vehicle that is constructed or adapted —
-(i)for use on a railway or tramway;
-(ii)principally for use in primary production; or
-(iii)otherwise for use in a manner that does not involve the carriage of persons or goods over public roads;
-or
-(d)anything that is excluded from this definition by the regulations;
-“provisional repairer’s certificate” means a provisional repairer’s certificate granted under section 44;
-“regulations” means regulations made under section 114;
-“repair work” means any kind of work that is done on or to motor vehicles and that under section 5(1) is prescribed by the regulations to be repair work but does not include any kind of such work that is prescribed by the regulations not to be repair work;
-“repairer’s certificate” means a repairer’s certificate granted under section 42;
-“secretary” means the secretary referred to in section 13 of the Motor Vehicle Dealers Act 1973.
-(2) References in this Act to repairing or repair work in relation to motor vehicles includes the repairing of any part of, or accessory to, a motor vehicle that has been removed from the vehicle for repair.
-(3) If a business licence is granted to 2 or more persons under section 18, references in this Act to the licensee are to those persons jointly, unless a contrary intention appears.
 (4) The references in sections 23(2)(a), 32(2)(a), 62(3)(a) and 66(a) to an inquiry are to proceedings of the kind authorised by section 14 of the Motor Vehicle Dealers Act 1973, and that section applies accordingly.
 [Section 3 amended by No. 28 of 2006 s. 111.]
 4.Limitation on imposition of penalties for offences
 The power of a court to impose a penalty on a person for an offence against this Act is subject to the limitation in Schedule 2 clause 2(1).
-5.Repair work, prescription of
-(1) The regulations may prescribe any kind of work that is done on or to motor vehicles to be repair work for the purposes of this Act, including, but not limited to —
-(a) examining motor vehicles;
-(b) diagnosing and detecting faults in motor vehicles;
-(c) adjusting, servicing and maintaining motor vehicles;
-(d) overhauling motor vehicles;
-(e) replacing components of motor vehicles;
-(f) modifying and altering motor vehicles; and
-(g) painting or treating the surfaces of motor vehicles.
-(2) The regulations may prescribe any kind of work that is done on or to motor vehicles not to be repair work for the purposes of this Act.
-(3) For the purposes of Part 2, the regulations may classify repair work.
-(4) For the purposes of Part 3, the regulations may classify repair work.
-(5) The classification of repair work for the purposes of Part 2 need not be the same as the classification of repair work for the purposes of Part 3.
-6.Exemptions
-(1) The regulations may exempt from all or any of the provisions of this Act —
-(a) any person or class of persons;
-(b) persons carrying on any business or any specified class of business; or
-(c) any other class of person, act, matter or thing.
-(2) An exemption may be expressed to apply —
-(a) generally; or
-(b) only in respect of a specified area or specified areas of the State.
-(3) The regulations may provide —
-(a) for circumstances in which, and conditions subject to which, an exemption is to apply; and
-(b) that an exemption is of no effect at any time when any condition to which it is subject is not being observed.
-7.Commissioner’s powers
-Sections 19, 20, 21, 22, 23, 23A, 24 and 25 of the Consumer Affairs Act 1971 apply, with such modifications as are necessary, to and in relation to the functions of the Commissioner and persons and matters affected by the exercise of those functions as if the sections were part of this Act.
-[Section 7 inserted by No. 28 of 2006 s. 112.]
-8.Authorised officers
-(1) The Director General may designate any officer of the Department as an authorised officer for the purposes of this Act.
-(2) The Director General is to issue a certificate of authorisation to each person who is designated as an authorised officer under subsection (1).
-(3) An authorised officer is to produce the certificate whenever required to do so by a person in respect of whom he or she has exercised, or is about to exercise, any power under this Act.
-(4) Production of a certificate referred to in subsection (2) in respect of a person is evidence in any court that the person is duly designated under subsection (1).
 Part 2 — Licensing of motor vehicle repair businesses
 Division 1 — Repair businesses to be licensed
 9.Licensing requirement
@@ -301,149 +243,6 @@ Penalty: $1 500.
 Penalty: $2 000.
 (2) If a business licence is held by a body corporate, the licensee commits an offence if a new person is included in the persons who are concerned in the management or conduct of the body corporate without an application being made under section 36.
 Penalty: $2 000.
-Part 3 — Certification of individuals performing repair work
-Division 1 — Requirement for certification
-39.Individuals carrying out repair work to hold certificate
-(1) This section applies to —
-(a) a person or firm that carries on a business that consists of or includes the carrying out of repair work; and
-(b) a person or firm that —
-(i) holds a licence under the Motor Vehicle Dealers Act 1973; and
-(ii) carries out repair work for the purposes of section 34 of that Act, but not otherwise.
-(2) Any —
-(a) individual; or
-(b) individual member of a firm,
-that comes within subsection (1) must not, in connection with the business, personally carry out repair work of a class prescribed by the regulations unless he or she holds a certificate for that class of repair work.
-Penalty: $5 000.
-(3) Any person or firm that comes within subsection (1) must not permit any other person to carry out any repair work of a class prescribed by the regulations unless the other person —
-(a) holds a certificate for that class of repair work; or
-(b) carries out the repair work under the supervision of a person who holds a repairer’s certificate for that class of repair work.
-Penalty: $5 000.
-(4) For the purposes of subsection (3)(b), a person under whose supervision repair work is being carried out is required to exercise effective oversight and control of the carrying out of the work, but need not be continuously present while it is being carried out.
-40.Falsely holding out
-An individual must not hold himself or herself out as the holder of —
-(a) a certificate; or
-(b) a certificate for a particular class of repair work,
-if he or she does not hold a certificate or the relevant certificate.
-Penalty: $5 000.
-Division 2 — Certification provisions
-41.Application
-(1) An application for a repairer’s certificate may be made to the Board by an individual.
-(2) An application must be —
-(a) made in the approved form; and
-(b) accompanied by the prescribed fee.
-(3) An application may relate to more than one class of repair work.
-(4) Despite subsection (2)(b), the prescribed fee is not payable on an application relating to a class of repair work if —
-(a) the applicant held a provisional repairer’s certificate for that class of repair work; and
-(b) the application is made not later than 3 months after the expiry date specified in that certificate under section 45(2)(b).
-42.Grant of repairer’s certificate
-(1) The Board must grant a repairer’s certificate applied for under section 41 if the applicant satisfies it that he or she —
-(a) is a fit person to hold the certificate; and
-(b) is sufficiently qualified to carry out each class of repair work to which the application relates.
-(2) A person is sufficiently qualified if he or she —
-(a) either —
-(i) has the qualifications; or
-(ii) has passed the examinations,
-prescribed by the regulations for the class of repair work concerned; or
-(b) either —
-(i) has some other qualifications or has passed some other examinations; or
-(ii) has experience,
-that the Board determines to be sufficient for the class of repair work concerned.
-43.Conditions may be attached
-(1) The Board may, when granting a repairer’s certificate, attach any condition or restriction to the certificate.
-(2) The Board may at any time decide that —
-(a) a new condition or restriction is to be attached to an existing repairer’s certificate; or
-(b) a condition or restriction attached to an existing repairer’s certificate is to be amended or removed.
-(3) A decision under subsection (2) does not take effect until a day determined by the Board.
-(4) The day so determined cannot be before the Board has —
-(a) notified the holder of the certificate of the decision; and
-(b) given him or her a reasonable opportunity to make submissions on it either orally or in writing.
-(5) The Board may determine that subsection (4) does not apply in the case of a decision to remove a condition or restriction.
-(6) If a decision under subsection (2) has taken effect the holder of the certificate must, if required by the Board —
-(a) produce the certificate to the Board for amendment; and
-(b) do so within the time specified by the Board.
-Penalty: $1 500.
-(7) The powers conferred by this section are in addition to the powers described in Schedule 1 item 4.
-44.Provisional repairer’s certificate
-(1) Subsection (2) applies if —
-(a) a person has applied under section 41 for a repairer’s certificate;
-(b) the Board is satisfied under section 42(1)(a); and
-(c) the Board is not satisfied under section 42(1)(b) that the person is sufficiently qualified but is satisfied that the person —
-(i) has acquired; or
-(ii) is capable of acquiring,
-the skills that will enable him or her to become so qualified.
-(2) The Board may grant the applicant a provisional repairer’s certificate for the class of repair work concerned subject to any condition or restriction determined by the Board.
-(3) A provisional repairer’s certificate is of no effect at any time when any condition or restriction to which it is subject is not being observed.
-(4) A provisional repairer’s certificate may relate to more than one class of repair work.
-45.Form of certificate
-(1) Subject to subsection (2), a certificate is to be in a form determined by the Board.
-(2) A provisional repairer’s certificate must specify —
-(a) the conditions and restrictions to which the certificate is subject; and
-(b) the day on which it expires.
-46.Duration of certificate
-(1) A repairer’s certificate continues in force until —
-(a) it is surrendered under section 53; or
-(b) the holder of the certificate is disqualified by an order of the kind described in Schedule 1 item 1.
-(2) A provisional repairer’s certificate continues in force until —
-(a) it is surrendered under section 53;
-(b) the holder of the certificate is disqualified by an order of the kind described in Schedule 1 item 1; or
-(c) the day specified in the certificate under section 45(2)(b),
-whichever happens first.
-47.Return of expired provisional certificate
-If a provisional repairer’s certificate has expired, the person who was the holder must, as soon as is practicable after the expiry, return the certificate to the Board.
-Penalty: $1 500.
-48.Change of address to be notified by certificate holder
-(1) The holder of a certificate who changes his or her place of residence must give to the secretary notice of the address of the new place of residence not later than 14 days after the change occurs.
-Penalty: $1 500.
-(2) The secretary is to enter in the register referred to in section 50(1)(b) particulars of any change notified under subsection (1).
-Part 4 — Provisions applicable to business licences and to certificates
-49.False or misleading information
-(1) A person must not in relation to an application to which this section applies give information orally or in writing that the person knows to be —
-(a) false or misleading in a material particular; or
-(b) likely to deceive in a material way.
-Penalty: $5 000.
-(2) This section applies to —
-(a) an application for a business licence or a repairer’s certificate;
-(b) an application for the renewal of a business licence; and
-(c) an application under section 34, 35, 36 or 61.
-50.Registers
-(1) The secretary must keep —
-(a) a register for the purposes of Part 2 recording such particulars and matters relating to business licences as are prescribed; and
-(b) a register for the purposes of Part 3 recording such particulars and matters relating to certificates as are prescribed.
-(2) The regulations may provide for the form and manner in which a register is to be kept, including for a register to be in the form of information stored on a computer.
-(3) Subject to the regulations, a register may be kept in a form and manner determined by the Board.
-51.Inspection of register
-The secretary must allow any person, on payment of the prescribed fee —
-(a) to inspect a register; and
-(b) to take copies of, or extracts from, any part of it.
-52.Secretary may certify as to matters in the register
-(1) The secretary may, on the application of a person, issue to the person a written statement certifying any of the following —
-(a) that a person specified in the statement is or was, or is not or was not —
-(i) the holder of a business licence or certificate; or
-(ii) the holder of a business licence or certificate for a particular class of repair work;
-(b) that premises specified in the statement are or were, or are not or were not, authorised under section 59;
-(c) the conditions and restrictions that are or were attached to a business licence or certificate;
-(d) any other matter appearing in the register.
-(2) A statement under subsection (1) may specify the day or days or period on or during which anything referred to in subsection (1) applied.
-(3) In all courts and proceedings a statement under this section is evidence of any matter that appears in it.
-53.Surrender of business licence or certificate
-(1) A licensee or the holder of a certificate may surrender the business licence or certificate by —
-(a) giving the Board notice in writing to that effect; and
-(b) returning the licence or certificate to it.
-(2) If a business licence is surrendered, the Board is to refund to the former licensee so much (if any) of the fee last paid in respect of the licence as the Board, on application made by the former licensee, determines to be appropriate.
-54.Certified copy of business licence or certificate
-(1) The secretary may, on payment of the prescribed fee, issue a certified copy of a business licence or certificate.
-(2) In all courts and proceedings a certified copy so issued is evidence of the contents of the business licence or certificate.
-(3) A document that purports to be a certified copy of a business licence or certificate issued by the secretary is to be taken to be such a copy unless the contrary is proved.
-55.Production of business licence or certificate
-(1) An authorised officer may require a licensee or the holder of a certificate to produce his or her business licence or certificate to the officer.
-(2) A request under subsection (1) may only be made —
-(a) at premises that are authorised under section 59; or
-(b) in the case of the holder of a certificate, at premises where he or she is engaged in carrying out repair work on a motor vehicle.
-(3) Any —
-(a) licensee; or
-(b) holder of a certificate,
-to whom a requirement under subsection (1) is addressed must comply with the requirement unless he or she has reasonable excuse for not doing so.
-Penalty: $1 500.
 Part 5 — Restrictions on use of premises by licensees
 56.Interpretation
 In this Part —
@@ -505,12 +304,6 @@ Penalty: $1 500.
 (2) Subject to any order under section 81, the licensee must comply with a direction given under subsection (1).
 Penalty: $1 500.
 Part 6 — Disciplinary powers of Board
-65.Interpretation
-In this Part —
-“person to whom this Part applies” means —
-(a)a licensee or one of the licensees;
-(b)a person concerned in the management or conduct of a body corporate that is a licensee or one of the licensees; and
-(c)the holder of a certificate.
 66.Restriction on exercise of powers
 The Board cannot make an order under section 68 or 70 in respect of a person unless it has —
 (a) conducted an inquiry; and
@@ -528,15 +321,6 @@ The Board may make an order under section 68 or 70 of its own motion or on the a
 or
 (c) in the case of the holder of a certificate, to be not competent to carry out the class of repair work to which the certificate applies.
 (2) Schedule 2 has effect to make further provision in respect of the orders referred to in subsection (1).
-69.Person to notify Board of conviction
-(1) In this section —
-“relevant offence” means an offence against any law of this State or another State, the Commonwealth or a Territory for which the maximum penalty on conviction is —
-(a)a fine of $8 000 or more; or
-(b)imprisonment for more than 2 years or for an indeterminate period.
-(2) A person to whom this Part applies must —
-(a) notify the Board within 7 days after he or she becomes aware that he or she has been convicted of a relevant offence; and
-(b) provide the Board with such information about the offence and the conviction as the Board may require.
-Penalty: $1 500.
 70.Cancellation of business licence on certain grounds
 Subject to section 66, the Board may cancel a business licence if it is satisfied that the licensee —
 (a) does not have sufficient resources, within the meaning in section 12, for each class of repair work to which the licence applies; or
@@ -559,84 +343,6 @@ Penalty: $5 000 and a daily penalty of $100.
 (b) allow the person to frequent such premises,
 without the prior consent of the Board.
 Penalty: $5 000 and a daily penalty of $100.
-Part 7 — Appeals
-73.Notice of decision to person affected
-(1) The Board must give notice of a decision or order to which this section applies, and the reasons for it, to —
-(a) the person who made an application for the decision concerned;
-(b) the licensee;
-(c) the person in respect of whom an order is made under section 68; or
-(d) the holder of a certificate,
-as the case may require (the “affected person”).
-(2) This section applies to a decision or order of the Board —
-(a) refusing an application for —
-(i) a business licence or a repairer’s certificate; or
-(ii) the renewal of a business licence;
-(b) refusing —
-(i) to authorise premises under section 59;
-(ii) to grant an approval under section 61;
-(iii) to amend a business licence under section 34; or
-(iv) to approve a proposed change under section 35 or 36;
-or
-(c) in exercise of —
-(i) its powers under section 68 or 70;
-(ii) its power under section 62 to revoke an authorisation of premises; or
-(iii) its powers under Part 2 Division 3 or section 43 or 44 in relation to conditions or restrictions.
-74.Notice of certain decisions to Commissioner
-(1) The Board must give notice of a decision to which this section applies to the Commissioner.
-(2) This section applies to a decision of the Board —
-(a) granting an application for —
-(i) a business licence or a repairer’s certificate; or
-(ii) the renewal of a business licence;
-(b) amending a business licence under section 34;
-(c) granting an approval under section 35 or 36;
-(d) authorising premises under section 59; or
-(e) granting an approval under section 61.
-75.Appeal by affected person
-(1) The affected person under section 73(1) may appeal to the Magistrates Court (the “Court”) against a decision or order to which that section applies.
-(2) The appeal must be brought within 30 days after the person received notice under section 73 of the decision or order.
-[Section 75 amended by No. 59 of 2004 s. 141.]
-76.Appeal by Commissioner
-(1) The Commissioner may appeal to the Magistrates Court (the “Court”) against a decision to which section 74 applies.
-(2) The appeal must be brought within 30 days after the Commissioner received notice under section 74 of the decision.
-[Section 76 amended by No. 59 of 2004 s. 141.]
-77.Appeal procedures
-(1) An appeal under this Part is to be brought and dealt with in accordance with the Magistrates Court (Civil Proceedings) Act 2004 and rules of court.
-(2) Subject to the rules of court, the affected person, the Board and the Commissioner are entitled to appear or be represented in appeal proceedings under this Part.
-(3) If in relation to any matter of practice or procedure there is no provision applicable under subsection (1), the matter is to be dealt with as the Court directs.
-[Section 77 amended by No. 59 of 2004 s. 141.]
-78.Material to be considered
-(1) The Court is to determine an appeal —
-(a) on the material that was before the Board; and
-(b) on such further evidence or information, either oral or by affidavit, as the Court thinks fit to receive.
-(2) For the purposes of subsection (1) the Court may ascertain what material was before the Board on such evidence, statement or record of what occurred before the Board as the Court considers sufficient.
-79.Relevant matters and burden of proof
-(1) In determining an appeal the Court may have regard to all matters that it considers relevant, including the public interest.
-(2) It is for the appellant to satisfy the Court that —
-(a) the decision or order should be varied or reversed; or
-(b) the Court should exercise its powers under section 80(1)(b) or (c).
-80.Disposition of appeal
-(1) The Court may —
-(a) confirm, vary or reverse the decision or order of the Board;
-(b) replace the decision or order of the Board with its own decision or order;
-(c) remit the matter to the Board for reconsideration with any direction or recommendation it thinks fit; and
-(d) make any consequential or ancillary order (including an order for costs) that it thinks appropriate.
-(2) If the Court —
-(a) varies a decision or order of the Board; or
-(b) replaces the decision or order of the Board with its own decision or order,
-the decision or order as varied or replaced has effect for the purposes of this Act as if it were the decision or order of the Board.
-(3) The determination of an appeal by the Court is final.
-81.Effect of decision or order pending appeal
-The operation or effect of a decision or order is not affected by the bringing of an appeal unless the Court, on an application by the appellant, orders that the operation or effect be suspended —
-(a) until the appeal is determined or discontinued; or
-(b) until some other time fixed by the Court.
-82.Position pending appeal where renewal has been refused
-(1) This section applies if —
-(a) the Board has decided to refuse an application for the renewal of a business licence; and
-(b) under section 81 the Court orders the suspension of that decision.
-(2) The Court may further order that the business licence is to be taken to have effect —
-(a) until the appeal is determined or discontinued; or
-(b) until some other time fixed by the Court,
-as if it had been renewed in accordance with the application.
 Part 8 — Conciliation of certain disputes
 83.Interpretation
 In this Part —
@@ -686,36 +392,6 @@ Penalty: $5 000.
 (2) A person must not without reasonable excuse obstruct or hinder an authorised officer in the exercise of his or her powers under section 87.
 Penalty: $5 000.
 Part 9 — Claims for losses in connection with repair work
-89.Interpretation
-In this Part —
-“Compensation Account” means the account referred to in section 90(2);
-“insolvent” means —
-(a)in relation to a natural person, being an insolvent under administration as that expression is defined in the Corporations Act 2001 of the Commonwealth;
-(b)in relation to a body corporate, being subject to external administration under the Corporations Act 2001 of the Commonwealth;
-“owner”, in relation to a motor vehicle, includes —
-(a)a hirer or lessee of the motor vehicle; and
-(b)a former owner of the motor vehicle.
-[Section 89 amended by No. 77 of 2006 s. 17.]
-90.Motor Vehicle Repair Industry Compensation Account
-(1) In this section —
-“prescribed percentage” means 1% or such other percentage as may be prescribed by the regulations.
-(2) An agency special purpose account called the Motor Vehicle Repair Industry Compensation Account is established under section 16 of the Financial Management Act 2006.
-(3) The Compensation Account is to be administered by the Director General.
-(4) There are to be credited to the Compensation Account —
-(a) in respect of each year, an amount equal to the prescribed percentage of all fees paid under sections 13, 31 and 41 during that year;
-(b) moneys recovered by the Board —
-(i) in the exercise of the rights and remedies referred to in section 95; or
-(ii) under section 96;
-(c) moneys borrowed under subsection (6); and
-(d) any other moneys lawfully payable to the Compensation Account.
-(5) There are to be paid out of the Compensation Account —
-(a) all amounts payable under section 93(5);
-(b) the costs incurred by the Board in respect of claims under this Part; and
-(c) interest on, and amounts required to repay, moneys borrowed under subsection (6).
-(6) Moneys may be borrowed from the Treasurer for the purposes of the Compensation Account —
-(a) in such amounts as the Treasurer may approve; and
-(b) on such terms relating to repayment and payment of interest as the Treasurer imposes.
-[Section 90 amended by No. 77 of 2006 s. 17.]
 91.Losses to which this Part applies
 (1) If a licensee —
 (a) carries out repair work on a motor vehicle incompetently; or
@@ -788,73 +464,6 @@ are jointly and severally liable to the Director General for the amount paid.
 [Section 96 amended by No. 77 of 2006 s. 17.]
 Part 10 — Miscellaneous
 Division 1 — Infringement notices
-97.Interpretation
-In this Division —
-“authorised officer” has the meaning given by section 3(1) except that it does not include the secretary if he or she is an authorised officer;
-“prescribed” means prescribed by the regulations;
-“prescribed offence” means an offence prescribed under section 98.
-98.Prescribed offences
-The regulations may prescribe offences against this Act for which an infringement notice may be given under section 100.
-99.Modified penalties
-(1) For each prescribed offence the regulations must prescribe —
-(a) a modified penalty; or
-(b) a different modified penalty according to the circumstances of the offence.
-(2) The modified penalty for an offence cannot exceed 20% of the maximum penalty that could be imposed for that offence by a court.
-100.Giving of notice
-(1) An authorised officer who has reason to believe that a person has committed a prescribed offence may give an infringement notice to the alleged offender.
-(2) The notice must be given within 6 months after the alleged offence is believed to have been committed.
-101.Contents of notice
-(1) An infringement notice is to be in the prescribed form.
-(2) An infringement notice is to —
-(a) contain a description of the alleged offence;
-(b) specify the amount of the modified penalty for the offence; and
-(c) advise the alleged offender that, if he or she does not wish to be prosecuted for the alleged offence in a court, that amount may be paid to the secretary within 28 days after the giving of the notice.
-(3) The amount referred to in subsection (2)(b) is to be the amount that was the prescribed modified penalty at the time when the alleged offence is believed to have been committed.
-[Section 101 amended by No. 84 of 2004 s. 80.]
-102.Extension of time
-(1) The Board or the secretary may, in a particular case, extend the period of 28 days within which the modified penalty may be paid.
-(2) An extension may be granted under subsection (1) either before or after the period of 28 days has elapsed.
-103.Withdrawal of notice
-(1) The Board or the secretary may withdraw an infringement notice by sending to the alleged offender a notice in the prescribed form stating that the infringement notice has been withdrawn.
-(2) Subsection (1) applies even if the modified penalty has been paid.
-(3) If an infringement notice is withdrawn after the modified penalty has been paid, the amount is to be refunded.
-104.Benefit of paying modified penalty
-(1) This section applies if —
-(a) the modified penalty specified in an infringement notice has been paid within 28 days or such further time as is allowed; and
-(b) the notice has not been withdrawn.
-(2) The payment prevents —
-(a) the bringing of proceedings; and
-(b) the imposition of penalties,
-to the same extent that they would be prevented if the alleged offender had been convicted by a court of, and punished for, the alleged offence.
-105.No admission implied by payment
-Payment of a modified penalty is not to be regarded as an admission for the purposes of any proceedings, whether civil or criminal.
-106.Application of penalties collected
-An amount paid as a modified penalty is to be dealt with as if it were imposed by a court as a penalty for an offence, unless section 103(3) requires that the amount be refunded.
-Division 2 — General
-107.Motor Vehicle Repair Industry Education and Research Account
-(1) In this section —
-“Account” means the Motor Vehicle Repair Industry Education and Research Account established by subsection (2);
-“prescribed percentage” means 1% or such other percentage as may be prescribed by the regulations;
-“purposes of the Account” means —
-(a)education or research in respect of; or
-(b)any public purpose connected with,
-repair work.
-(2) An agency special purpose account called the Motor Vehicle Repair Industry Education and Research Account is established under section 16 of the Financial Management Act 2006.
-(3) The Account is to be administered by the Director General.
-(4) There are to be credited to the Account —
-(a) in respect of each year, an amount equal to the prescribed percentage of all fees paid under sections 13, 31 and 41 during that year; and
-(b) any moneys borrowed under subsection (8).
-(5) The Board may recommend to the Director General that moneys standing to the credit of the Account be applied for or towards the purposes of the Account.
-(6) The Director General must give due weight to, but is not bound to follow, a recommendation under subsection (5).
-(7) Subject to subsections (5) and (6), the Director General may apply moneys standing to the credit of the Account for or towards the purposes of the Account.
-(8) Moneys may be borrowed from the Treasurer for the purposes of the Account —
-(a) in such amounts as the Treasurer may approve; and
-(b) on such terms relating to repayment and payment of interest as the Treasurer imposes.
-(9) The Account is charged with —
-(a) interest on; and
-(b) amounts required to repay,
-moneys borrowed under subsection (8).
-[Section 107 amended by No. 77 of 2006 s. 17.]
 108.Licensee to publicise licensing information
 A licensee must cause the business name shown in the business licence and the number of the licence to appear —
 (a) in a conspicuous position on the outside of every premises authorised under section 59 in respect of the licence;
@@ -876,84 +485,6 @@ for any repair work to be carried out on the vehicle by a person or firm that is
 (b) must not specify in a contract of insurance that any repair work be carried out by a particular person or firm if that person or firm is an unlicensed repairer; or
 (c) must not do any act which assists, or is intended to assist, a person or firm that is an unlicensed repairer to carry on a business that consists of or includes the carrying out of any class of repair work on a motor vehicle.
 Penalty: $5 000.
-110.Liability of directors and officers of body corporate
-(1) If —
-(a) a body corporate at any time contravenes a provision of this Act; and
-(b) a person who was at that time —
-(i) a director of the body corporate; or
-(ii) an officer concerned in its management,
-authorised or permitted the contravention,
-that person is taken to have contravened the same provision.
-(2) A person referred to in subsection (1) may be proceeded against and convicted under a provision whether or not the body corporate has been proceeded against or convicted under that provision.
-(3) A person referred to in subsection (1) may be convicted in the proceedings in which the body corporate is convicted if —
-(a) the prosecutor so requests; and
-(b) the court is satisfied that the person had reasonable notice that the prosecutor intended to make the request.
-[Section 110 amended by No. 84 of 2004 s. 80.]
-111.Authorised officers may require information
-(1) The powers in this section may be exercised by an authorised officer for the purpose of ascertaining whether a person is contravening, or has contravened, a provision of this Act.
-(2) If under section 85(3) an authorised officer has been appointed to assist in investigating and conciliating a dispute, the powers in this section may be exercised by the officer for the purpose of investigating the dispute while the Board is acting as conciliator in the dispute.
-(3) An authorised officer may require any person —
-(a) to give the officer such information as the officer requires;
-(b) to answer any question put by the officer.
-(4) A person is not excused from answering a question on the ground that the answer to the question might tend to incriminate the person, but except in the case of a body corporate —
-(a) the answer to the question; or
-(b) any information, record or thing obtained as a direct consequence of the answer to the question,
-is not admissible in evidence against the person in criminal proceedings other than proceedings for an offence against subsection (5).
-(5) A person who, having been required under subsection (3) to give information or to answer a question, without reasonable excuse —
-(a) fails to give the information or answer the question; or
-(b) gives any information or answer that is false in any particular,
-commits an offence.
-Penalty: $1 000.
-112.Powers of entry
-(1) An authorised officer may at any reasonable time enter any place which the officer reasonably believes to be a place at which a person is carrying on a business that consists of or includes the carrying out of any class of repair work on motor vehicles.
-(2) An entry under subsection (1) may only be made for the purpose of ascertaining whether a person is contravening, or has contravened, a provision of this Act.
-(3) An authorised officer who enters a place under subsection (1) may, for a purpose mentioned in subsection (2) —
-(a) inspect the place and any motor vehicle or other relevant thing situated in the place;
-(b) require a person to produce any record or document under his or her control that is required to be kept under this Act;
-(c) examine, copy or take extracts from a record or document so produced;
-(d) require a person to provide a copy of a record or document referred to in paragraph (b) if it is reasonably practicable for the person to do so; and
-(e) require a person to give any relevant information, including by way of answers to questions.
-(4) An authorised officer who enters a place under subsection (1) may be accompanied and assisted by other persons.
-113.Offences relating to powers of entry
-(1) A person must not without reasonable excuse —
-(a) obstruct or hinder an authorised officer in the exercise of his or her powers under section 112 or a person accompanying such an officer; or
-(b) fail to comply with a requirement made under section 112(3).
-Penalty: $5 000.
-(2) A person must not give information in response to a requirement made under section 112(3)(e) that he or she knows to be —
-(a) false or misleading in a material particular; or
-(b) likely to deceive in a material way.
-Penalty: $5 000.
-(3) It is not a reasonable excuse as mentioned in subsection (1) for a person to refuse to give information, answer a question or produce a document or record on the grounds that the information, answer, document or record might tend to incriminate the person or make him or her liable to a penalty.
-(4) Despite subsection (3), an answer given or a statement made for the purposes of section 112(3)(e) is not, except in proceedings under this section, admissible in evidence in any civil or criminal proceedings against the person who gave the answer or made the statement.
-114.Regulations
-(1) The Governor may make regulations prescribing all matters that —
-(a) are required or permitted to be prescribed; or
-(b) are necessary or convenient to be prescribed,
-for giving effect to the purposes of this Act.
-(2) Without limiting subsection (1), the regulations may make provision for or in relation to —
-(a) the manner and form in which licensees are to quote for repair work;
-(b) the manner and form in which repair work is to be authorised by the owner of a motor vehicle;
-(c) advertising by licensees;
-(d) the records and documents that are to be kept by licensees;
-(e) the display of business licences and certificates; and
-(f) the conduct of licensees and their employees and agents in respect of the business to which the business licence applies.
-(3) Without limiting subsection (1), the regulations may —
-(a) create offences; and
-(b) provide for a penalty not exceeding $2 000 for the commission of an offence.
-115.Transitional provisions
-Schedule 3 has effect to make transitional provisions.
-116.Review of Act
-(1) The Minister is to carry out a review of the operation and effectiveness of this Act as soon as is practicable after the expiry of 5 years from its commencement.
-(2) In the course of that review the Minister is to consider and have regard to —
-(a) the effectiveness of the operations of the Board for the purposes of this Act;
-(b) the need for the continuation of the functions of the Board for the purposes of this Act; and
-(c) any other matters that appear to the Minister to be relevant to the operation and effectiveness of this Act.
-(3) The Minister is to prepare a report based on the review and, as soon as is practicable after the report is prepared, is to cause it to be laid before each House of Parliament.
-Part 11 — Consequential amendment
-117.Travel Agents Act 1985 amended
-(1) The amendment in this section is to the Travel Agents Act 1985.
-(2) The Schedule is amended by inserting after item 10 the following item —
-“ 10A.Motor Vehicle Repairers Act 2003. ”.
 Schedule 1 — Disciplinary orders
 [s. 68]
 1.An order disqualifying a person from holding or obtaining, whether solely or jointly —
@@ -1004,34 +535,6 @@ whichever happens first.
 (4) For the purposes of subclause (3)(c) an appeal against a refusal is unsuccessful if —
 (a) it results in the refusal being confirmed; or
 (b) it is withdrawn, discontinued or dismissed for want of prosecution.
-2.Existing repairers
-(1) Despite section 39 but subject to subclauses (2) and (3), a person or any member of a firm referred to in section 39(1) may, until the expiry of 12 months after the commencement of section 39 —
-(a) personally carry out any class of repair work on a motor vehicle in connection with the business without holding a certificate for that class of repair work; or
-(b) permit another person to carry out any class of repair work on a motor vehicle without the other person holding a certificate for that class of repair work.
-(2) A person is not authorised by subclause (1)(a) to carry out any repair work if —
-(a) he or she has been refused a repairer’s certificate, and is not granted a provisional repairer’s certificate, for that class of repair work; and
-(b) either —
-(i) the time for appeal against the refusal under section 75 has expired without an appeal being brought; or
-(ii) an appeal has been brought but has been unsuccessful.
-(3) Another person cannot be permitted to carry out any repair work as mentioned in subclause (1)(b) if —
-(a) the person has been refused a repairer’s certificate, and is not granted a provisional repairer’s certificate, for that class of repair work; and
-(b) either —
-(i) the time for appeal against the refusal under section 75 has expired without an appeal being brought; or
-(ii) an appeal has been brought but has been unsuccessful.
-(4) For the purposes of subclauses (2)(b) and (3)(b) an appeal against a refusal is unsuccessful if —
-(a) it results in the refusal being confirmed; or
-(b) it is withdrawn, discontinued or dismissed for want of prosecution.
-3.Regulations for transitional matters
-(1) The regulations may make provision for any transitional matter for which there is no sufficient provision in this Schedule.
-(2) If in the opinion of the Minister an anomaly arises in the carrying out of any provision of this Schedule, the regulations may —
-(a) modify that provision to remove the anomaly; and
-(b) make such provision as is necessary or expedient to carry out the intention of that provision.
-(3) Regulations may be made for the purposes of this clause to have effect from the commencement of this Act.
-(4) To the extent that a provision of any such regulation has effect on a day that is earlier than the day of its publication in the Gazette, the provision does not operate so as —
-(a) to affect, in a manner prejudicial to any person (other than the State), the rights of that person existing before the day of publication; or
-(b) to impose liabilities on any person (other than the State) in respect of anything done or omitted to be done before the day of publication.
-(5) In subclause (1) —
-“transitional matter” means a matter or thing necessary or convenient to provide for the change from the written law, as in force before the commencement of this Act, to the written law as in force after that commencement.
 ”.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
