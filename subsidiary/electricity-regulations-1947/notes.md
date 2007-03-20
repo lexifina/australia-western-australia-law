@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 March 2007 of the Electricity Regulations 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Regulations 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Electricity Act Regulations 1947 | 27 Jun 1947 p. 1156-94 | 27 Jun 1947
@@ -39,7 +39,7 @@ Electricity Amendment Regulations (No. 4) 1987 | 22 May 1987 p. 2189-93 | 22 May
 Electricity Amendment Regulations 1988 | 31 Mar 1988 p. 971 | 31 Mar 1988
 Electricity Amendment Regulations 1989 | 27 Oct 1989 p. 3911 | 31 Oct 1989 (see r. 2)
 Electricity Amendment Regulations (No. 2) 1989 | 29 Dec 1989 p. 4701 | 29 Dec 1989
-Electricity (Licensing) Regulations 1991 r. 66 | 14 Oct 1991 p. 5294 | 1 Nov 1991 (see r. 2)
+Electricity (Licensing) Regulations 1991 r. 66 | 14 Oct 1991 p. 5249-99 | 1 Nov 1991 (see r. 2)
 Electricity (Amendment) Regulations 1995 | 23 Dec 1994 p. 7124-33 | 1 Jan 1995 (see r. 3 and Gazette 23 Dec 1994 p. 7069)
 Electricity (Amendment) (No. 2) Regulations 1995 | 20 Jun 1995 p. 2400 | 20 Jun 1995
 Electricity Amendment Regulations 1996 | 30 Aug 1996 p. 4316-17 | 30 Nov 1996 (see r. 2)
@@ -51,6 +51,7 @@ Electricity Amendment Regulations 2004 | 9 Nov 2004 p. 5005-6 | 9 Nov 2004
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 78 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
 Electricity Amendment Regulations (No. 2) 2006 | 31 Oct 2006 p. 4597-602 | 31 Oct 2006
 Reprint 4: The Electricity Regulations 1947 as at 2 Mar 2007 (includes amendments listed above)
+Electricity Amendment Regulations (No. 2) 2007 | 20 Mar 2007 p. 1038-43 | 20 Mar 2007
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Electricity Regulations 1947; citation changed (see note under r. 1).
 Regulations 180 and 278 disallowed on 24 Sep 1947, see Gazette 5 Dec 1947 p. 2209.
