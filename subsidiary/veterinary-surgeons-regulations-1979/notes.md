@@ -30,6 +30,8 @@ Reprint 2: The Veterinary Surgeons Regulations 1979 as at 14 May 2004 (includes 
 Veterinary Surgeons Amendment Regulations 2004 | 14 Dec 2004 p. 6001 | 14 Dec 2004
 Veterinary Surgeons Amendment Regulations (No. 2) 2004 | 30 Dec 2004 p. 6901 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Veterinary Surgeons Amendment Regulations 2006 | 12 Dec 2006 p. 5489-91 | 12 Dec 2006
+Veterinary Surgeons Amendment Regulations 2007 | 20 Mar 2007 p. 1005-32 | 20 Mar 2007
+Veterinary Surgeons Amendment Regulations (No. 2) 2007 | 20 Mar 2007 p. 1035-6 | 20 Mar 2007 (see r. 2(a))
 Repealed by the Public Sector Management Act 1994.
 Formerly referred to the Poisons Act Regulations 1965 the citation of which was changed to the Poisons Regulations 1965 by the Poisons Amendment Regulations (No. 2) 1984 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now known as the Veterinary Surgeons Regulations 1979; citation changed (see note under r. 1).
