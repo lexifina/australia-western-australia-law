@@ -4,6 +4,7 @@ Compilation table
 Citation | Gazettal | Commencement
 Land Tax Assessment Regulations 2003 | 27 Jun 2003 p. 2409-14 | 1 Jul 2003 (see r. 2(1) and Gazette 27 Jun 2003 p. 2383)
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 82 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
+Land Tax Assessment Amendment Regulations 2007 | 20 Mar 2007 p. 1049 | 20 Mar 2007
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 3 Div. 3 of those regulations read as follows:
 “
 1.Citation
