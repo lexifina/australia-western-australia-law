@@ -9,3 +9,4 @@ Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 12 | 30
 First Home Owner Grant Amendment Regulations 2004 | 13 Aug 2004 p. 3251-2 | 1 Sep 2004 (see r. 2)
 Australian Crime Commission (Western Australia) Act 2004 s. 70 assented to 8 Dec 2004 | 1 Feb 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 1: The First Home Owner Grant Regulations 2000 as at 4 Feb 2005 (includes amendments listed above)
+First Home Owner Grant Amendment Regulations 2007 | 20 Mar 2007 p. 1048 | 20 Mar 2007
