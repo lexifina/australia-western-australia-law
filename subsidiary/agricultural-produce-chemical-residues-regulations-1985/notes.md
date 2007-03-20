@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 February 2007 of the Agricultural Produce (Chemical Residues) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Agricultural Produce (Chemical Residues) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Agricultural Produce (Chemical Residues) Regulations 1985 | 30 Aug 1985 p. 3127-45 | 1 Sep 1985 (see r. 2)
@@ -11,3 +11,4 @@ Reprint of the Agricultural Produce (Chemical Residues) Regulations 1985 as at 9
 Agricultural Produce (Chemical Residues) Amendment Regulations 2004 | 30 Dec 2004 p. 6894 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Agricultural Produce (Chemical Residues) Amendment Regulations 2006 | 11 Aug 2006 p. 2977-80 | 11 Aug 2006
 Reprint 2: The Agricultural Produce (Chemical Residues) Regulations 1985 as at 2 Feb 2007 (includes amendments listed above)
+Agricultural Produce (Chemical Residues) Amendment Regulations 2007 | 20 Mar 2007 p. 1036-7 | 20 Mar 2007
