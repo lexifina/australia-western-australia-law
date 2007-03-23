@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Criminal Investigation (Identifying People) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 23 March 2007 of the Criminal Investigation (Identifying People) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Criminal Investigation (Identifying People) Regulations 2002 | 28 Jun 2002 p. 3103-5 | 29 Jun 2002 (see r. 2 and Gazette 28 Jun 2002 p. 3037)
 Criminal Investigation (Identifying People) Amendment Regulations 2002 | 19 Nov 2002 p. 5507-14 | 20 Nov 2002 (see r. 2 and Gazette 19 Nov 2002 p. 5505)
 Criminal Investigation (Identifying People) Amendment Regulations 2005 | 14 Oct 2005 p. 4556 | 14 Oct 2005
 Criminal Investigation (Identifying People) Amendment Regulations 2006 | 27 Jun 2006 p. 2304-6 | 27 Jun 2006
+Reprint 1: The Criminal Investigation (Identifying People) Regulations 2002 as at 23 Mar 2007 (includes amendments listed above)
