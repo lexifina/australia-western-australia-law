@@ -12,6 +12,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Betting and Racing Legislation Amendment Act 2006 Pt. 3 | 70 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
+Racing and Wagering Legislation Amendment Act 2007 Pt. 2 | 2 of 2007 | 28 Mar 2007 | 1 Jul 2007 (see s. 2)
 Under the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 7(2) the appointed day is 30 Jan 2004 (see Gazette 30 Jan 2004 p. 401).
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 “
@@ -43,4 +44,32 @@ Section 35(1) is amended as follows:
 ”;
 (b) after paragraphs (a) and (b) and each of paragraphs (c) to (h) by inserting —
 “ and ”.
+”.
+On the date as at which this compilation was prepared, the Racing and Wagering Legislation Amendment Act 2007 Pt. 2 had not come into operation. It reads as follows:
+“
+Part 2 — Racing and Wagering Western Australia Act 2003
+3.The Act amended
+The amendments in this Part are to the Racing and Wagering Western Australia Act 2003.
+4.Section 102 replaced
+Section 102 is repealed and the following section is inserted instead —
+“
+102.RWWA wagering tax
+(1) In this section —
+“off-course racing wager” means a wager —
+(a)made on a horse or greyhound race; and
+(b)included in an off-course totalisator,
+that is made through or with RWWA under this Act.
+(2) RWWA must, in accordance with this Act —
+(a) make at such times and in such manner as may be prescribed true and full returns of —
+(i) all amounts of money received by it in respect of wagers made; and
+(ii) without limiting subparagraph (i), all amounts of money received by it in respect of off-course racing wagers and all amounts of money paid by it by way of winnings in respect of off-course racing wagers;
+and
+(b) pay tax, at the rates imposed by and in accordance with the Racing and Wagering Western Australia Tax Act 2003 sections 4 and 5, on moneys received by it in respect of wagers made.
+”.
+5.Minor amendments
+The provisions mentioned in the Table to this section are amended by deleting “imposed” and inserting instead —
+“ payable ”.
+Table
+s. 105(1)(f) | s. 107(1)(b)
+s. 106(1)(f)
 ”.
