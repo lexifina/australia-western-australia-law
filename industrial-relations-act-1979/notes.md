@@ -62,15 +62,16 @@ Mines Safety and Inspection Amendment Act 2004 Pt. 7 Div. 2 | 68 of 2004 | 8 Dec
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 10: The Industrial Relations Act 1979 as at 8 Jul 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 Industrial Relations Amendment Act 2005 | 14 of 2005 | 21 Sep 2005 | 22 Sep 2005 (see s. 2)
+Petroleum Legislation Amendment and Repeal Act 2005 | 13 of 2005 | 1 Sep 2005 | s. 49(1), (2)(b), (3) and 4(b): 28 Mar 2007 (see s. 2 and Gazette 27 Mar 2007 p. 1405)
 Labour Relations Legislation Amendment Act 2006 Pt. 3-5 and 8 | 36 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2(1))
-Reprint 11: The Industrial Relations Act 1979 as at 3 Nov 2006 (includes amendments listed above)
+Reprint 11: The Industrial Relations Act 1979 as at 3 Nov 2006 (includes amendments listed above except those in the Petroleum Legislation Amendment and Repeal Act 2005)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Vocational Education and Training Act 1996 s. 62 | 42 of 1996 | 16 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Petroleum Legislation Amendment and Repeal Act 2005 s. 49 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
+Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
@@ -217,29 +218,13 @@ and
 (3) Any regulations made under the repealed Act and in operation immediately before the commencement of section 61 which were applicable to, or in respect of, an apprenticeship or industrial training agreement referred to in subclause (2) are to continue to apply to such an agreement, until regulations are made under this Act in respect of the matters covered by those regulations.
 (4) Regulations may be made, with effect from a time which is not earlier than the commencement of section 61, amending or supplementing the transitional provisions set out in subclauses (2) and (3) for the purpose of providing an effective and efficient transition from the provisions of the repealed Act to the provisions of this Act.
 ”.
-On the date as at which this reprint was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2a) and 4(a) had not come into operation. It reads as follows:
 “
 49.Industrial Relations Act 1979 amended
-(1) The amendments in this section are to the Industrial Relations Act 1979.
 (2) Section 7(3) is amended as follows:
 (a) after paragraph (a) by deleting “or”;
-(b) after paragraph (b) by deleting “1994,”and inserting instead —
-“
-1994; or
-(c) clause 69(1) of Schedule 1 to the Petroleum Act 1967, clause 69(1) of Schedule 1 to the Petroleum Pipelines Act 1969, or clause 70(1) of Schedule 5 to the Petroleum (Submerged Lands) Act 1982,
-”.
-(3) Section 8(2a)(b) is amended by deleting “and the Mines Safety and Inspection Act 1994,” and inserting instead —
-“
-, the Mines Safety and Inspection Act 1994, the Petroleum Act 1967, the Petroleum Pipelines Act 1969 or the Petroleum (Submerged Lands) Act 1982,
-”.
 (4) Section 113(1)(d)(ii) is amended as follows:
 (a) after item (I) by deleting “and”;
-(b) after item (II) by inserting the following items —
-“
-(III) the Petroleum Act 1967;
-(IV) the Petroleum Pipelines Act 1969;
-(V) the Petroleum (Submerged Lands) Act 1982;
-”.
 ”.
 On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 s. 73, which gives effect to Sch. 1 it. 7, had not come into operation. They read as follows:
 “
