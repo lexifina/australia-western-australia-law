@@ -6,7 +6,7 @@ Optometrists Act 2005 s. 1 and 2 | 29 of 2005 | 12 Dec 2005 | 12 Dec 2005
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and Year | Assent | Commencement
-Optometrists Act 2005 s. 3, 4, Pt. 2-8 and Sch. 1-3 | 29 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Optometrists Act 2005 s. 3, 4, Pt. 2-8 and Sch. 1-3 | 29 of 2005 | 12 Dec 2005 | 20 Apr 2007 (see s. 2 and Gazette 30 Mar 2007 p. 1451)
 On the date as at which this compilation was prepared, the Optometrists Act 2005 s. 3, 4, Pt. 2-8 and Sch. 1-3 had not come into operation. They read as follows:
 “
 3.Terms used in this Act
