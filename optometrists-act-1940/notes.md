@@ -26,7 +26,7 @@ Optical Dispensers Repeal Act 2006 s. 5 | 11 of 2006 | 11 May 2006 | 11 May 2006
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
-Optometrists Act 2005 s. 106 | 29 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Optometrists Act 2005 s. 106 | 29 of 2005 | 12 Dec 2005 | 20 Apr 2007 (see s. 2 and Gazette 30 Mar 2007 p. 1451)
 See declaration in Gazette 2/10/53, p. 2029 which reads, in part, as follows:
 “
 His Excellency the Governor in Executive Council declares the following to be matters in respect of which rules may be made by the Board:
