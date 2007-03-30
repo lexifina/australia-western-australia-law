@@ -6,7 +6,7 @@ Optometrists Regulations 2006 r. 1-2 | 13 Dec 2006 p. 5573-84 | 13 Dec 2006
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Optometrists Regulations 2006 r. 3-16 and Sch. 1-2 | 13 Dec 2006 p. 5573-84 | Operative on commencement of the Optometrists Act 2005 (see r. 2)
+Optometrists Regulations 2006 r. 3-16 and Sch. 1-2 | 13 Dec 2006 p. 5573-84 | 20 Apr 2007 (see r. 2 and Gazette 30 Mar 2007 p. 1451)
 On the date as at which this compilation was prepared, the Optometrists Regulations 2006 r. 3-16 and Sch. 1-2 had not come into operation. They read as follows:
 “
 3.Criminal record screening
