@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 September 2006 of the Environmental Protection (Clearing of Native Vegetation) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Environmental Protection (Clearing of Native Vegetation) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Environmental Protection (Clearing of Native Vegetation) Regulations 2004 | 30 Jun 2004 p. 2587-623 | 8 Jul 2004 (see r. 2 and Gazette 30 Jun 2004 p. 2581)
@@ -11,3 +11,4 @@ Environmental Protection (Clearing of Native Vegetation) Amendment Regulations (
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 79 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
 Environmental Protection (Clearing of Native Vegetation) Amendment Regulations (No. 4) 2006 | 7 Jul 2006 p. 2499-501 | 7 Jul 2006
 Reprint 1: The Environmental Protection (Clearing of Native Vegetation) Regulations 2004 as at 15 Sep 2006 (includes amendments listed above)
+Environmental Protection (Clearing of Native Vegetation) Amendment Regulations 2007 | 30 Mar 2007 p. 1457-8 | 30 Mar 2007
