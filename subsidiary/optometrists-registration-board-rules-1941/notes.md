@@ -42,7 +42,7 @@ Optometrists Registration Board Amendment Rules (No. 3) 2004 | 25 Jan 2005 p. 34
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and Year | Assent | Commencement
-Optometrists Act 2005 s. 107 | 29 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Optometrists Act 2005 s. 107 | 29 of 2005 | 12 Dec 2005 | 20 Apr 2007 (see s. 2 and Gazette 30 Mar 2007 p. 1451)
 On the date as at which this compilation was prepared, the Optometrists Act 2005 s. 107 had not come into operation. It reads as follows:
 “
 107.Optometrists Registration Board Rules 1941 repealed
