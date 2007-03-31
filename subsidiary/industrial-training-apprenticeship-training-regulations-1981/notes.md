@@ -37,6 +37,7 @@ Industrial Training (Apprenticeship Training) Amendment Regulations (No. 4) 2006
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 5) 2006 | 29 Sep 2006 p. 4258-60 | 1 Oct 2006 (see r. 2)
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 6) 2006 | 27 Oct 2006 p. 4565-9 | 1 Nov 2006 (see r. 2)
 Industrial Training (Apprenticeship Training) Amendment Regulations 2007 | 31 Jan 2007 p. 235-9 | 1 Feb 2007 (see r. 2)
+Industrial Training (Apprenticeship Training) Amendment Regulations (No. 3) 2007 | 30 Mar 2007 p. 1453-7 | 31 Mar 2007 (see r. 2)
 The definition of “Council” was deleted from s. 4 of the Act by the State Employment and Skills Development Authority Act 1990 s. 45(a)(ii). The definition of “Authority” inserted by s. 45(a)(i) of that Act was deleted by the Vocational Education and Training Act 1996 Sch. 3 cl. 12.
 The Education Regulations 1960 r. 4 referred to the Director of technical education. Those regulations were repealed by the School Education Act 1999 s. 246(2).
 “Approved College” is defined in r. 4 of the Industrial Training (General Apprenticeship) Regulations 1981: see r. 3 of these regulations. The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996 s. 70(1).
@@ -340,4 +341,52 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations 2007 r. 
 (c)Horticulture (Nursery);
 (d)Horticulture (Turf Management);
 (e)Saw Doctoring.
+”.
+The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 3) 2007 r. 8 reads as follows:
+“
+8.Transitional
+(1) In this regulation —
+“new term”, in relation to a trade, means the term prescribed in relation to that trade in the Industrial Training (Apprenticeship Training) Regulations 1981 Schedule 1, as amended by these regulations;
+“new trade” means —
+(a)Carpentry Fixing (Housing);
+(b)Carpentry Formwork (Housing);
+(c)Carpentry Framing (Housing);
+(d)Painter and Decorator;
+(e)Painting (Housing);
+(f)Signwriter;
+(g)Stonemason;
+“old trade” means —
+(a)Carpentry and Joinery;
+(b)Carpentry (Housing);
+(c)Joinery (Housing);
+(d)Painting and Decorating;
+(e)Signwriting;
+(f)Stonemasonry.
+(2) Subject to this regulation the Industrial Training (Apprenticeship Training) Regulations 1981 as in force immediately before 31 March 2007 continue to apply to and in relation to —
+(a) an apprentice who commenced service in an old trade under an apprenticeship agreement before 31 March 2007 (an “existing apprentice”); or
+(b) a person who —
+(i) commenced employment as a probationer in an old trade before 31 March 2007; and
+(ii) completes that probationary employment after 31 March 2007; and
+(iii) on completing that probationary employment commences service under an apprenticeship agreement,
+(an “existing probationer”).
+(3) The parties to the apprenticeship agreement of an existing probationer may, with the approval of the Director, agree in the apprenticeship agreement that —
+(a) the apprentice is to be employed in a new trade (instead of the old trade in which he or she was employed as a probationer); and
+(b) the term of the apprenticeship is to be the new term for that new trade.
+(4) If the parties to an apprenticeship agreement agree in the manner described in subregulation (3), subregulation (2) ceases to apply to and in relation to the apprentice when he or she commences service under the apprenticeship agreement.
+(5) The parties to the apprenticeship agreement of an existing apprentice may, with the approval of the Director, vary the apprenticeship agreement to —
+(a) change the trade in which the apprentice is employed to a new trade; and
+(b) if the new term for that new trade is different to the term of the apprenticeship, change the term of the apprenticeship to the new term (plus any extension made by the Director under subregulation (7)).
+(6) An application for approval under subregulation (5) must be made —
+(a) before 1 July 2007; and
+(b) in a form and manner approved by the Director.
+(7) If, when an application is made for approval under subregulation (5) —
+(a) the apprentice has not —
+(i) attended all the classes; or
+(ii) obtained all the instruction; or
+(iii) undertaken all the courses and skills training programmes,
+that the apprentice is required under section 33(1) of the Act to attend, obtain or undertake in relation to the trade in which he or she is to be employed under the varied agreement; and
+(b) the Director is satisfied that the apprentice will not reasonably be able to complete those requirements during the term of the apprenticeship under the varied agreement,
+the Director may, before approving the variation, extend the term of the apprenticeship under the varied agreement by such period as the Director considers reasonably necessary for the apprentice to complete those requirements.
+(8) A variation of an apprenticeship agreement under subregulation (5) takes effect on the date on which it is approved by the Director.
+(9) If an apprenticeship agreement is varied under subregulation (5), subregulation (2) ceases to apply to and in relation to the apprentice on the date the variation takes effect.
 ”.
