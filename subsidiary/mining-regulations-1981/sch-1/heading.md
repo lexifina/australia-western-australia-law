@@ -17,7 +17,7 @@ Form
 12. Surrender.
 13. Notice of Re-Marking.
 14. Partial Surrender.
-15. Application for Forfeiture.
+15. Application for Forfeiture under section 96(1)(a).
 16. Objection.
 17. Application for restoration.
 18. Application for Exemption.
@@ -41,16 +41,14 @@ Form
 33. Plaint.
 34. Summons.
 35. Affidavit of Service.
-36. Notice of Defence.
-37. Subpoena for Witness.
-38. Judgment/Order of Warden’s Court.
-39. Warrant of Execution.
-40. Warrant for Recovery of Possession.
-41. Notice of Seizure.
+35A.Application for Forfeiture under section 96(1)(b) or 98.
+36.Response.
+37. Summons to Witness.
+38. Judgment of a Warden’s Court / Determination of a Warden.
 42. Notice of Appeal under section 147.
 43. Injunction.
 44. Report of Approved Surveyor.
-[Schedule of Forms amended in Gazette 2 Oct 1987 p. 3821; 4 Apr 1997 p. 1780; 3 Oct 1997 p. 5533.]
+[Schedule of Forms amended in Gazette 2 Oct 1987 p. 3821; 4 Apr 1997 p. 1780; 3 Oct 1997 p. 5533; 9 Mar 2007 p. 904-5.]
 Form No. 1 Western Australia Mining Act 1978 (Sec. 20 Reg. 3) MINER’S RIGHT NOT TRANSFERABLE Issued to.................................................................. (Name in full) under the provisions of the Mining Act 1978. Place of Issue ................................... Date of Issue ..................................... ............................................................... Signature of Issuing Officer (note reverse) | Reverse of form NOTE:This miner’s right is issued under section 20 of the Mining Act 1978. It is your responsibility to ascertain your rights and obligations under that section. Information in respect of those rights and obligations may be obtained from any office of the Department of Mines. [Form 1 inserted in Gazette 2 Oct 1987 p. 3822.]
 MINER’S RIGHT To whom Issued ......................................... ..................................................................... By whom Issued ......................................... ..................................................................... Place of Issue .............................................. Date of Issue ...............................................
 Form 1A | WESTERN AUSTRALIA Mining Act 1978 (Sec. 20A Reg. 4D)
@@ -419,7 +417,7 @@ O F F I C E U S E |  | Received at ................................... on ......
 Form 15 WESTERN AUSTRALIA
 Mining Act 1978
 (Sec. 96 Reg. 49)
-APPLICATION FOR FORFEITURE
+APPLICATION FOR FORFEITURE UNDER SECTION 96(1)(b)
 To the Warden,
 Mineral Field
 Application is made for forfeiture of the mining tenement/s referred to in Column 1 hereunder for the breach of condition stated opposite in Column 2 or 3 —
@@ -438,19 +436,18 @@ In accordance with regulations 49 and 53 of the Mining Regulations 1981 —
 (d)publish a notice in the Government Gazette
 ...........................................................................
 Warden
-Form 16 | WESTERN AUSTRALIA Mining Act 1978 (Secs. 42, 59, 70D, 75, 97A Regs. 49, 51B, 55, 67, 120A)
+[Form 15 amended in Gazette 9 Mar 2007 p. 905.]
+Form 16 | WESTERN AUSTRALIA Mining Act 1978 (s. 42, 59, 70D, 75, 97A and r. 120A, 146)
  | OBJECTIONNo. To: The Warden
-(a)Mineral Field | (a)Mineral Field The undersigned objects to
-(b)Insert particulars of the matter objected to and mining tenement affected | (b) for the following reasons —
-(c)Set out grounds for objection | (c) And pending the hearing of this objection, require you to
-(d)“Withhold your recommendation” OR as the case may be | (d)
-(e)Full name and address of objector | (e)
-(f)Insert date on which copy of application for mining tenement received (See Note 1) | (f)
-(g)Signature of objector or agent | DATED this day of 20 (g) ........................................................................................
- | This objection will be heard in the Warden’s Court at at the hour of .m. on the day of 20
-O F F I C E U S E |  | Received at ............................ m. on ................................................ ..................................................... (Mining Registrar)
-Note 1:To be completed if the objection is in respect of an application for a mining tenement that relates to private land.
-[Form 16 amended in Gazette 12 Nov 1982 p. 4491; 2 Oct 1987 p. 3831; 24 Dec 1993 p. 6829; 24 Jun 1994 p. 2939; 3 Feb 2006 p. 524.]
+(a)Mineral Field affected | (a)Mineral Field…… The undersigned objects to
+(b)Insert particulars of the matter objected to and mining tenement application affected | (b) for the following reasons —
+(c)Set out grounds for objection | (c)
+(d)Particulars of objector: (i)Full name (ii)Residential or business address (iii)Phone / Fax No (iv)Reference | (d) (i) (ii) (iii) (iv)
+(e)Signature of objector/agent/lawyer | DATED this ..……… day of ………… 20……… (e) ..............................................................................
+THE TENEMENT APPLICANT AND OBJECTOR WILL BE ADVISED OF THE DATE SET BY THE MINING REGISTRAR FOR THE MENTION HEARING FOR THE APPLICATION (See Note).
+OFFICIAL USE | Received at ………a.m./p.m. on ……………… 20……...... .................................................................................................. Mining Registrar
+Note: A “mention hearing” is an initial hearing where the warden may give directions to the parties, set a hearing date and/or adjourn to a further mention hearing. A party who does not wish to attend in person or by lawyer or agent on the nominated mention hearing date must make written application not less than 7 days before the hearing. Costs may be awarded against a party for nonattendance.
+[Form 16 inserted in Gazette 9 Mar 2007 p. 905-6.]
 [Form 16A deleted in Gazette 4 Apr 1997 p. 1780.]
 Form 17 | WESTERN AUSTRALIA Mining Act 1978 (s. 97A, Regs. 51, 51A)
  | APPLICATION FOR RESTORATION No.
@@ -493,7 +490,7 @@ Form 21 | WESTERN AUSTRALIA Mining Act 1978 (Secs. 41, 58, 70C, 74, 86, 91, Reg.
 (b)Time & Date marked out (where applicable) | (b) a.m./p.m. / / (c)
 (c)Mineral Field | (d) & (e) | (f) Shares
 APPLICANT:
-(d)Full Name (e)Address (f)No. of shares (g)Total No. of shares |  | for each appli- cant
+(d)Full Name (e)Address (f)No. of shares (g)Total No. of shares |  | for each appli-cant
 DESCRIPTION OF GROUND |  | (g) Total
 APPLIED FOR. | (h)
 (For Exploration Licences see
@@ -600,7 +597,7 @@ LODGING PARTY (g)Full name and address (for return of documents) | (g)
 O F F I C E U S E |  | Received at ...............................m. on .................................................. ....................................................... (Mining Registrar)
 [Form 22 amended in Gazette 2 Oct 1987 p. 3835.]
 Form 23 | WESTERN AUSTRALIA Mining Act 1978 | STAMP DUTY
- | (Regs. 75, 81, 84 & 134) TRANSFERNo.
+ | (Regs. 75, 81, 84) TRANSFERNo.
 INTEREST BEING TRANSFERRED (a)Type of tenement (b)Number (c)Mineral Field (d)Number of shares | Details of Mining Tenement and Interest (a)(b) (c)(d)
 TRANSFEROR (e)Full name and address | (e)
 CONSIDERATION (f)In words — see Note 1 | (f)
@@ -617,7 +614,7 @@ Notes: 1. Where the stamp duty shown on the transfer is not in respect of the fu
 If no mortgage, or a mortgage is to be discharged prior to or on the transfer, insert “nil”.
 The consent of the mortgagee to the transfer must be lodged with this form.
 3.If section 122A(1)(b) of the Act applies, insert “THE TRANSFEROR and THE TRANSFEREE acknowledge that this transfer is subject to the interest claimed by the caveator in caveat no.” and the relevant caveat number.
-[Form 23 inserted in Gazette 3 Feb 2006 p. 524-5.]
+[Form 23 inserted in Gazette 3 Feb 2006 p. 524-5; amended in Gazette 9 Mar 2007 p. 906.]
 Form 24 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 122A Reg. 76)
  | CAVEATNo.
 (a)Type (b)Number (c)Mineral Field | Details of Mining Tenement (a)(b) (c)
@@ -769,91 +766,117 @@ Form 32 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 126 Reg. 112)
 O F F I C E U S E |  | Received at ...............................m. on the ................... day of ...................... 20 .................... ........................................................... (Mining Registrar)
 Note 1:A Post Office Box address is not an acceptable residential or business address. A Post Office Box address may be included in addition to the residential or business address.
 [Form 32 amended in Gazette 2 Oct 1987 p. 3836 (erratum in Gazette 6 Nov 1987 p. 4110); 24 Jun 1994 p. 2939; 4 Apr 1997 p. 1780; 17 Jan 2003 p. 114.]
-Form 33 | WESTERN AUSTRALIA Mining Act 1978 (Regs. 48 & 121)
+Form 33 | WESTERN AUSTRALIA Mining Act 1978 (r. 121)
  | PLAINTNo. In the Warden’s Court at
 (a)Name and address of Plaintiff | Plaintiff (a)
  | V
-(b)Name and address of defendant | Defendant (b)
+(b)Name and address of respondent | Respondent (b)
 (c)Nature of the claim | The Plaintiff claims that — (c) and asks —
 (d)Nature of relief sought | (d)
 (e)Signature of Plaintiff | DATED this day of 20 (e).....................................................................................................
  |  | Fees Paid | $ | c
  | Received at ....................................................m. | Plaint (inc.
-O F F I C E U S E | on ......................../ ......................./ .................... with fees as stated. .............................................................................. (Mining Registrar) | Summons and Subpoena) Service
+O F F I C E U S E | on ......................../ ......................./ .................... with fees as stated. .............................................................................. (Mining Registrar) | Summons and Summons to Witness) Service
 Affidavit
 Kilometrage
  | SEAL OF COURT |  | Copies
 Attendance
 Total
-[Form 33 amended in Gazette 31 May 1991 p. 2706.]
+[Form 33 amended in Gazette 31 May 1991 p. 2706; 9 Mar 2007 p. 906.]
 Form 34 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 123)
  | SUMMONS In the Warden’s Court at | Plaint No. ........... / ..........
-(a)Full name and address of Defendant | TO: (a)
+(a)Full name and address of Respondent | TO: (a)
  | YOU are hereby summoned to appear before the Warden’s Court
 (b)Place of hearing | (b)
 (c)Time and date of hearing | at (c) .m. on the day of 20 to answer the claim of the plaintiff
 (d)Full name of Plaintiff | (d) as follows —
 (e)Nature of claim as stated in Plaint | (e)
-(f)Nature of relief sought | (f) You may apply for the issue of a subpoena compelling the attendance of any witnesses, and production of any books, plans, documents, etc. If you intend to dispute the plaintiff‘s claim you must file a notice of defence in accordance with regulation 126 DATED at this day of 20 .
+(f)Nature of relief sought | (f) You may apply for the issue of a summons compelling the attendance of any witnesses, and production of any books, plans, documents, etc. IF YOU INTEND TO DISPUTE THE PLAINTIFF’S CLAIM YOU MUST LODGE A NOTICE OF RESPONSE IN ACCORDANCE WITH REGULATION 126. DATED at this day of 20 .
  | SEAL OF COURT | .......................................................Mining Registrar ............................................................Mineral Field
  | ENDORSEMENT This is the paper writing marked “A” referred to in the annexed affidavit of sworn before me at , this day of 20 . .........................................................
-[Form 34 amended in Gazette 2 Oct 1987 p. 3836.]
-Form 35 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 124) AFFIDAVIT OF SERVICE In the Warden’s Court at
- |  | Plaint No........ / ..........
-(a)Full name and address | Plaintiff (a)
+[Form 34 amended in Gazette 2 Oct 1987 p. 3836; 9 Mar 2007 p. 906-7.]
+Form 35 | WESTERN AUSTRALIA Mining Act 1978 (r. 127D, 150) AFFIDAVIT OF SERVICE In the Warden’s Court at Before the Warden at (delete whichever is not applicable)
+(a)Select an option or specify other document being served | (a)Plaint / Application / Other | No ........ / ..........
+(b)Name and address | Plaintiff / Applicant (b)
+ | AND
+(c)Name and address of tenement holder (for service) | Respondent / Objector (c)
+(d)Full name and address | (d)I,
+ | make oath and say that I did on the …… day of ……………… 20……, duly serve a copy of the application (which is marked “A” and annexed hereto) as follows —
+ | Full name of person on whom service effected: …………………………………………………………… Manner of service: …………………………………………………………… Address where service effected: …………………………………………………………… Sworn before me at this ......………… day of ..…………………… 20……… ............................................................................................ (Experienced lawyer/Warden/Mining Registrar/Justice of the Peace.)
+[Form 35 inserted in Gazette 9 Mar 2007 p. 907-8.]
+Form 35A | WESTERN AUSTRALIA Mining Act 1978 (r. 140)
+ | APPLICATION FOR FORFEITURE UNDER SECTION 96(1)(b) OR 98 No. Before the Warden at
+(a)Name and address of applicant | Applicant for forfeiture (a)
  | V
-(b)Full name and address | Defendant (b)
-(c)Full name and address | (c) I,
- | make oath and say that I did on the day of 20 , duly serve a copy of the summons (which is marked “A” and annexed hereto) as follows —
- | Full name of person on whom service effected: Manner of service: Address where service effected: Sworn before me at this day of 20 . .......................................................................................................... (Commissioner for taking affidavits in the Supreme Court/Warden/Mining Registrar/Justice of the Peace).
-Form 36 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 126) NOTICE OF DEFENCE In the Warden’s Court at
- |  | Plaint No......../.........
-(a)Full name and address | Plaintiff (a)
- | V
-(b)Full name and address | Defendant (b)
-(c)Grounds of defence | TAKE NOTICE that I intend to defend the plaintiff’s claim in this action on the following grounds — (c)
-+Delete if not applicable (see Note 1) (d)Signature of defendant | +and the defendant claims _______________ DATED at this day of 20 . (d) ....................................................................................................
-O F F I C E U S E |  | Received at ...............................m. on .................................................. with fee of $.................................. ....................................................... (Mining Registrar)
-NOTE 1: If the defendant claims a set off or asks for cross relief, particulars of the relief sought should be stated.
-Form 37 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 127) SUBPOENA FOR WITNESS In the Warden’s Court at
- |  | Plaint No............. / .....
-(a)Full name and address | Plaintiff (a)
- | V
-(b)Full name and address | Defendant (b)
-(c)Place of hearing (d)Time and date of hearing (e)Plaintiff/ Defendant (f)State the particular things required to be produced | TO: You are hereby required to attend before this Court at (c)at (d) .m on the day of 20 . and at every adjournment thereof to give evidence on behalf of (e) and to produce to the Court (f)
- | If you neglect to comply with this summons you will be liable to a fine not exceeding $100 or to arrest. Dated at this day of 20 . Conduct Money $_______ ....................................................... Mining Register ........................................................... Mineral Field
-SEAL OF WARDEN’S COURT
- | Received $ Conduct money ............................................................... Signature ENDORSEMENT This is the paper writing marked “A” referred to in the annexed affidavit of sworn before me at this day of 20 . ...............................................................
-Form 38 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 129) JUDGMENT/ORDER OF WARDEN’S COURT In the Warden’s Court at
- |  | Plaint No........ / ..........
-(a)Full name and address | Plaintiff (a)
- | V
-(b)Full name and address | Defendant (b)
-(c)Insert decision (d)Set forth the order in full | THE Court adjudges that — (c) AND the Court orders — (d) DATED at this day of 20 .
-SEAL OF WARDEN’S COURT | .......................................................Warden/Mining Registrar
-Form 39 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 130) WARRANT OF EXECUTION In the Warden’s Court at
- |  | Plaint No.......... / ............
-(a)Full name and address | Plaintiff (a)
- | V
-(b)Full name and address | Defendant (b)
-*Delete whichever not applicable †Defendant or Plaintiff | TO: The Bailiff WHEREAS on the day of 20 * the plaintiff obtained a judgment of this Court against the defendant for debt (or damages) and costs in the sum of or *it was ordered by the Court that judgment should be entered for the defendant, or that judgment of nonsuit should be entered and the costs be paid by the plaintiff to the defendant in the sum of and whereas default has been made in the payment thereof. These are, therefore, to require and order you FORTHWITH TO LEVY BY DISTRESS AND SALE OF THE GOODS against any property of the † wheresoever it may be found, the sum of in addition to the costs of this execution, and also to seize and take any money, or bank notes or securities for money of the † or such part or so much thereof as may be sufficient to satisfy this execution and the costs of making and executing the same and forthwith to return the same to me, to be paid over to the † together with this warrant. DATED at this day of 20 By the Court .......................................................Mining Registrar ............................................................Mineral Field
-SEAL OF THE COURT
- | Judgment$ Costs$ Execution$ Other$ Total amount to be levied$ Application was made for this warrant at ...................... m. on ......................................................... Returned this Warrant to the above Warden’s Court on the day of 20 with the sum of in satisfaction thereof. BAILIFF
-[Form 39 amended in Gazette 4 Apr 1997 p. 1781.]
-Form 40 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 141 Reg. 131) WARRANT FOR RECOVERY OF POSSESSION In the Warden’s Court at
- |  | Plaint No........ / .......
-(a)Full name and address | Plaintiff (a)
- | V
-(b)Full name and address | Defendant (b)
-(c)Here state terms of order | TO: The Bailiff WHEREAS on the day of 20 an order was made in the above Court that the defendant deliver up possession of (c) to the plaintiff and whereas the said defendant has refused or neglected so to do. These are therefore to require and order you FORTHWITH TO eject the said defendant from the aforementioned land and/or mining tenement and to seize and take chattels or minerals specified above and deliver the same into your possession. By the Court .........................................Warden/Mining Registrar Mineral Field
-SEAL OF THE COURT
-Form 41 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 132)
- | NOTICE OF SEIZURE
- | In theCourt at Plaint No.Warrant No. Between Plaintiff and Defendant TO: The MINING REGISTRAR, at TAKE NOTICE that under and by virtue of , dated theday of 20 , issued out of theCourt at(copy attached) I have this day seized all theright, title and interest (if any) in and to the shares specified in the undermentioned mining tenement —
-(a) Type (b) Number (c) Mineral Field (d) Number of Shares | Details of Mining Tenement (a)(b) (c) (d)
- | You will therefore communicate with me before registering any transfer, or other dealing with the shares specified while this seizure remains in force. DATED at thisday of20 Bailiff
-O F F I C E U S E |  | Received at ..........................................m. on ............................................................ with fee of $ ............................................ .................................................................. (Mining Registrar)
-[Form 41 amended in Gazette 2 Oct 1987 p. 3836.]
+(b)Name and address of tenement holder (for service) | Respondent (b)
+(c)Mining tenement number | The Applicant claims that the Respondent has failed to comply with the expenditure conditions in relation to (c)
+(d)Relevant year | for the year ending — (d) and applies for the mining tenement to be forfeited.
+ | DATED this ………… day of ………………… 20……
+(e)Signature of applicant/lawyer/authorised representative | (e) ......................................................................................
+OFFICIAL USE | Received at ..........…. a,m./p.m. on the ......………… day of …………………… 20 …… with the prescribed application fee. ………………………………………………. Mining Registrar
+ | SUMMONS TO RESPONDENT: YOU ARE HEREBY REQUIRED TO ATTEND A MENTION HEARING (see Note) before the Warden at ……………………........... at ............……a.m./p.m. on the ……….. day of …………………… 20 .......... to answer the application for forfeiture as outlined above.
+ | If at a mention hearing a date for the hearing and determination of the application for forfeiture is fixed, you may apply for the issue of a witness summons to compel the attendance of any witnesses and/or production of relevant documents. If you intend to dispute the applicant’s claim you must file a response in accordance with regulation 141.
+STAMP OF MINING REGISTRAR | Dated this ….... day of ……………………….... 20........ ……………………………………………….. Mining Registrar
+Note: A “mention hearing” is an initial hearing where the warden may give directions to the parties, set a hearing date and/or adjourn to a further mention hearing. A party who does not wish to attend in person or by lawyer or agent on the nominated mention hearing date must make written application not less than 7 days before the hearing. Costs may be awarded against a party for non-attendance.
+ | ENDORSEMENT This is the document marked “A” referred to in the annexed affidavit of sworn before me at ........................................................... this ………… day of …………………… 20….... .........................................................................
+[Form 35A inserted in Gazette 9 Mar 2007 p. 908-9.]
+Form 36 | WESTERN AUSTRALIA Mining Act 1978 (r. 126, 141) RESPONSE In the Warden’s Court at Before the Warden at (delete whichever is not applicable)
+(a)Select an option | (a)Plaint / Application for forfeiture No. ……./…….. | Affecting tenement ........../.....…....
+(b)Name and address | Plaintiff / Applicant for forfeiture (b)
+ | AND
+(c)Name and address of tenement holder | Respondent (c)
+(d)Grounds of defence | TAKE NOTICE that I intend to defend the plaint/application in this proceeding on the following grounds — (d)
+ | DATED at ……… this ……… day of ...………20……
+(e)Signature of applicant/lawyer/authorised representative | (e) ......................................................................................
+OFFICIAL USE | Received at .......................a.m./p.m. on ............................ with fee of $....................... .............................................................................. Mining Registrar
+ | ENDORSEMENT This is the document marked “A” referred to in the annexed affidavit of sworn before me at ........................................................... this ………… day of …………………… 20….... ...............................................................
+[Form 36 inserted in Gazette 9 Mar 2007 p. 910.]
+Form 36A | WESTERN AUSTRALIA Mining Act 1978 (r. 127E, 151, 154)
+Tenement No. .………. | INTERLOCUTORY APPLICATION In the Warden’s Court at ................................................... Before the warden at ......................................................... (delete whichever is not applicable)
+(a)Insert number of plaint/application/objection | (a) ………………………………………………………….... …………………………………………………………… …………………………………………………………….
+ | In the matter of:
+(b)Names of parties | (b)
+ | AND
+ | (b)
+(c)Name of party making the application | (c) I / WE ……………………………………………………………………………………………………………………………………………………………..………..………...............……
+(d)State order sought | (d) (see Note 1)
+(e)Applicant’s details OR lawyer/agent acting on behalf | (e) Residential or business address: ……………………………..………………………………………………………………………………..….....……. Tel No: …………………………………..………….….... Fax No: ………………………………………………..…. Email: ………………………………………………….… Reference (if any): …………………………………….…
+(f)Address for service by other party/parties | (f) (see Note 2) Residential or business address: ……………………………..…………………………………..…………………………………………………….......
+(g)Signature of applicant or lawyer/agent | (g) ………………………….……….. Date …………….........
+OFFICIAL USE | Received at……..… this ….. day of …………… 20 .. With fee of $ ..……
+Note 1: This application is to be supported by affidavit outlining the reasons the order is sought, including the relevant facts. Note 2: This application must be served on the other party/parties and an affidavit as proof of service must be lodged.
+ | ENDORSEMENT This is the document marked “A” referred to in the annexed affidavit of ......................................................................... sworn before me at ............................................................ this ………… day of …………………… 20….... ...............................................................
+[Form 36A inserted in Gazette 9 Mar 2007 p. 911-12.]
+Form 37 | WESTERN AUSTRALIA Mining Regulations 1981 (r. 127, 157)
+ | SUMMONS TO WITNESS In the Warden’s Court at ................................................... Before the warden at ......................................................... (delete whichever is not applicable)
+(a)Tenement or tenement application No. |  | (a) No. ......... / ..........
+(b)Name and address (delete inapplicable) | Plaintiff / Applicant / Objector (b)
+ | AND
+(c)Name and address (delete inapplicable) | Tenement Holder (Respondent) / Tenement Applicant (c)
+(d)Full name and address of person being summoned | TO: (d)
+ | YOU are hereby summoned (see Note 1) to attend before the warden/Warden’s Court at
+(e)Place of hearing | (e)
+(f)Time and Date of hearing | at (f) ………….a.m./p.m. on the ........……day of……………....................... 20…….................
+(g)Objector /applicant/ plaintiff/ respondent | to give evidence on behalf of the (g) .………………………….
+(h)State the particular documents required to be produced | (h) and to produce at the hearing …………………………………………………………… …………………………………………………………… …………………………………………………………… ……………………………………………………………
+(i)Nature of claim as stated in application or objection | (i) …………………………………………………………… …………………………………………………………… ……………………………………………………………
+(j)Phone / fax / or other contact for party initiating the summons | (j) …………………………………………………………… ……………………………………………………………
+ | (see Note 2)
+SEAL OF WARDEN’S COURT / STAMP OF MINING REGISTRAR | Dated at ……………………… this …………… day of ......…………………… 20……
+............................................................... Mining Registrar ............................................................... Mineral Field
+Note 1: A person failing to attend as directed is liable to a fine of $10 000. Note 2: This summons must be served PERSONALLY on the witness (see regulation 127 and 157) and the witness is entitled to an amount sufficient for the purposes of regulation 127(3) or 157(3), as the case requires.
+___________________________________________________________________________ | Received $ ................. Conduct money ........................................... Signature
+ENDORSEMENT This is the document marked “A” referred to in the annexed affidavit of ......................................................................... sworn before me at ........................................................... this ………… day of …………………… 20….... ...............................................................
+[Form 37 inserted in Gazette 9 Mar 2007 p. 912-13.]
+Form 38 Tenement No. .………. | WESTERN AUSTRALIA Mining Regulations 1981 (r. 129, 173) JUDGMENT OF A WARDEN’S COURT / DETERMINATION OF A WARDEN In the Warden’s Court at ................................................... Before the Warden at ........................................................ (delete whichever is not applicable)
+(a)Specify either the application for forfeiture or plaint number |  | (a) No. ........ / .….....
+(b)Specify full name and address of either forfeiture applicant or plaintiff | (b)
+ | AND
+(c)Specify full name and address of tenement holder | (c)
+(d)Insert result (e)Set forth the decision in full (or attach) | (d) AND the Court / Warden directs — (e) DATED at ........................................................................... this ...................... day of ................................... 20 ..........
+SEAL OF WARDEN’S COURT / STAMP OF MINING REGISTRAR | ...................................................Warden/Mining Registrar
+[Form 38 inserted in Gazette 9 Mar 2007 p. 914.]
+[Forms 39-41 deleted in Gazette 9 Mar 2007 p. 914.]
 Form 42 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 147 Reg. 135)
  | NOTICE OF APPEAL UNDER SECTION 147
 (a)Full Name and address of appellant | Appellant (a)
