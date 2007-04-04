@@ -14,22 +14,5 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80, 82 and 84 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Criminal Law (Mentally Impaired Accused) Act 1996 as at 12 Aug 2005 (includes amendments listed above)
 Parole and Sentencing Legislation Amendment Act 2006 Pt. 4 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Prisons and Sentencing Legislation Amendment Act 2006 Pt. 7 | 65 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2)
+Prisons and Sentencing Legislation Amendment Act 2006 Pt. 7 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Now known as the Criminal Law (Mentally Impaired Accused) Act 1996; short title changed (see note under s. 1).
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 7 had not come into operation. It reads as follows:
-“
-Part 7 — Criminal Law (Mentally Impaired Accused) Act 1996 amended
-59.The Act amended in this Part
-The amendments in this Part are to the Criminal Law (Mentally Impaired Accused) Act 1996.
-60.Section 32 amended
-Section 32(2) is amended by deleting “accused.” and inserting instead —
-“
-accused unless the reason for the absence is —
-(a) the facilitation of the provision of medical or health services to the accused; or
-(b) the furthering of the interests of justice.
-”.
-”.
