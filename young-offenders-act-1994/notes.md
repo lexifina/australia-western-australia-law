@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Young Offenders Act 1994 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Young Offenders Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Young Offenders Act 1994 | 104 of 1994 | 11 Jan 1995 | 13 Mar 1995 (see s. 2 and Gazette 10 Mar 1995 p. 895)
@@ -30,10 +30,7 @@ Misuse of Drugs Amendment Act 2004 s. 9(4) | 62 of 2004 | 24 Nov 2004 | 1 Jan 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 15, s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Young Offenders Act 1994 as at 15 Jul 2005 (includes amendments listed above except those in the Sentencing Legislation Amendment Act 2004 s. 17)
 Parole and Sentencing Legislation Amendment Act 2006 Pt. 5 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Prisons and Sentencing Legislation Amendment Act 2006 Pt. 13 | 65 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2)
+Prisons and Sentencing Legislation Amendment Act 2006 Pt. 13 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -71,81 +68,4 @@ In this Schedule —
 3.Conditions of employment of other employees and officers on commencement to continue
 (1) A person who was appointed by the Minister under the Act as an overseer, or as an officer or employee without custodial functions, before commencement, and who is still employed immediately before commencement, is to be regarded, on commencement, as having been appointed by the chief executive officer under section 11(1a)(b) of the principal Act (as amended by this Act), on the same terms and conditions, including as to remuneration, as those which applied to the person immediately before commencement.
 (2) A person to whom subclause (1) applies retains all existing and accruing rights and benefits as if the person’s employment, for the purposes of the principal Act, were a continuation of the person's employment immediately before commencement.
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 13 had not come into operation. It reads as follows:
-“
-Part 13 — Young Offenders Act 1994 amended
-74.The Act amended in this Part
-The amendments in this Part are to the Young Offenders Act 1994.
-75.Section 12 amended
-(1) Section 12(1) is amended by deleting “Governor” and inserting instead —
-“ Minister ”.
-(2) After section 12(1) the following subsection is inserted —
-“
-(1a) A facility that is a Departmental or subsidised facility immediately before the coming into operation of section 75 of the Prisons and Sentencing Legislation Amendment Act 2006 continues as a Departmental or subsidised facility as if the Minister had made the order under subsection (1) declaring it to be such a facility.
-”.
-(3) Section 12(2) is amended by deleting “Governor” and inserting instead —
-“ Minister ”.
-76.Section 15A amended
-(1) Section 15A(1) is amended as follows:
-(a) by deleting “Director-General of the Department” and inserting instead —
-“ CEO (child welfare) ”;
-(b) by deleting “Director-General with” and inserting instead —
-“ CEO (child welfare) with ”;
-(c) in paragraphs (c), (d) and (e) by deleting “Department” in each place where it occurs and inserting instead —
-“ welfare agency ”;
-(d) in paragraph (e) by deleting “Director-General” and inserting instead —
-“ CEO (child welfare) ”.
-(2) Section 15A(2) is repealed and the following subsection is inserted instead —
-“
-(2) In subsection (1) —
-“CEO (child welfare)” means the chief executive officer of the welfare agency;
-“welfare agency” means the Public Sector agency principally assisting the Minister administering the Children and Community Services Act 2004 in its administration.
-”.
-(3) Section 15A(5)(b)(i) is amended by deleting “supervisor” and inserting instead —
-“ manager ”.
-77.Section 16 replaced by sections 16 and 16A
-Section 16 is repealed and the following sections are inserted instead —
-“
-16.Exchange of information
-(1) In this section —
-“contractor” has the meaning given to that term in section 3 of the Court Security and Custodial Services Act 1999;
-“public authority” means —
-(a)a department of the Public Service; or
-(b)a State agency or instrumentality; or
-(c)a court or tribunal to the extent that it is an agency for the purposes of the Freedom of Information Act 1992; or
-(d)a body, whether corporate or unincorporate, or the holder of an office, post or position, established or continued for a public purpose under a written law;
-“relevant information” means information that, in the opinion of the chief executive officer, is, or is likely to be, relevant to the administration of this Act;
-“research” means research to promote the development of juvenile justice services.
-(2) The chief executive officer may request a public authority or contractor that holds relevant information to disclose the information to the chief executive officer.
-(3) A request under subsection (2) —
-(a) may relate to particular information or information of a particular kind; and
-(b) may relate to information that may be held from time to time.
-(4) A public authority or contractor may disclose information in compliance with a request under subsection (2).
-(5) The chief executive officer may disclose information regarding —
-(a) young persons who have committed offences; or
-(b) detainees or persons who have been detainees,
-to a public authority or other body for use in research.
-(6) A public authority, contractor or other body may disclose information regarding —
-(a) young persons who have committed offences; or
-(b) detainees or persons who have been detainees,
-to the chief executive officer for use in research.
-(7) The chief executive officer must establish procedures for the disclosure of information under subsection (5).
-(8) The regulations may include provisions about —
-(a) the receipt and storage of information disclosed under this section; and
-(b) the restriction of access to such information.
-16A.Disclosure authorised
-(1) Information may be disclosed under section 15 or 16 despite any written law relating to confidentiality or secrecy.
-(2) If information is disclosed, in good faith, under section 15 or 16 —
-(a) no civil or criminal liability, or liability to be punished for a contempt of court, is incurred in respect of the disclosure; and
-(b) the disclosure is not to be regarded as a breach of any duty of confidentiality or secrecy imposed by law; and
-(c) the disclosure is not to be regarded as a breach of professional ethics or standards or as unprofessional conduct.
-”.
-78.Section 151 amended
-Section 151(3) is repealed and the following subsections are inserted instead —
-“
-(3) A person is to be appointed as the secretary of the Board.
-(4) The secretary and any other staff of the Board are to be appointed under Part 3 of the Public Sector Management Act 1994.
-”.
 ”.

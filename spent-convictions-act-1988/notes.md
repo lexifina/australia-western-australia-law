@@ -36,12 +36,12 @@ Reprint 4: The Spent Convictions Act 1988 as at 8 Jul 2005 (includes amendments 
 Spent Convictions (Act Amendment) Regulations (No. 2) 2005 (published in Gazette 4 Nov 2005 p. 5319-20) | 4 Nov 2005
 Parole and Sentencing Legislation Amendment Act 2006 s. 96 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
 Spent Convictions (Act Amendment) Regulations 2006 (published in Gazette 24 Oct 2006 p. 4491-2) | 24 Oct 2006
+Prisons and Sentencing Legislation Amendment Act 2006 Pt. 11 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 5 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
-Prisons and Sentencing Legislation Amendment Act 2006 Pt. 11 | 65 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2)
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 s. 34, 34B and 40 were repealed by the Young Offenders Act 1994.
@@ -78,14 +78,4 @@ Schedule 3 clause 1 item 10 of the Table is amended by deleting “Community and
 “
 department of the Public Service principally assisting in the administration of this Act
 ”.
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 11 had not come into operation. It reads as follows:
-“
-Part 11 — Spent Convictions Act 1988 amended
-69.The Act amended in this Part
-The amendments in this Part are to the Spent Convictions Act 1988.
-70.Schedule 3 amended
-Schedule 3 clause 1(1) item 10 is amended by deleting “Community and Juvenile Justice Division or the Prisons Division of the Department of Justice” and inserting instead —
-“ Department of Corrective Services ”.
 ”.

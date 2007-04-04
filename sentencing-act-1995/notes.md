@@ -40,13 +40,13 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt.
 Reprint 4: The Sentencing Act 1995 as at 12 Aug 2005 (includes amendments listed above except those in the Sentencing Legislation Amendment Act 2004 and the Architects Act 2004)
 Water Legislation Amendment (Competition Policy) Act 2005 s. 53 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
 Parole and Sentencing Legislation Amendment Act 2006 Pt. 3 | 41 of 2006 | 22 Sep 2006 | s. 74 & 75: 22 Sep 2006 (see s. 2(4)(b)) Pt. 3 other than s. 71, 74 & 75: 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867);
+Prisons and Sentencing Legislation Amendment Act 2006 Pt. 4 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Criminal Property) Act 2004 Pt. 3 | 26 of 2004 | 7 Oct 2004 | To be proclaimed (see s. 2(2))
 Parole and Sentencing Legislation Amendment Act 2006 s. 71 | 41 of 2006 | 22 Sep 2006 | Operative on commencement of Act No. 26 of 2004 Pt. 3 (see s. 2(3))
-Prisons and Sentencing Legislation Amendment Act 2006 Pt. 4 | 65 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2)
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
 The Sentencing Act 1995 s. 19 and Pt. 12 did not come into operation and was repealed by the Criminal Law Amendment Act (No. 2) 1998 s. 17 and 18.
@@ -220,43 +220,4 @@ On the date as at which this compilation was prepared, the Parole and Sentencing
 “ State ”.
 (2) Section 16(1)(f) is amended by deleting “Crown” and inserting instead —
 “ State ”.
-”.
-On the date as at which this compilation was prepared, the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 4 had not come into operation. It reads as follows:
-“
-Part 4 — Sentencing Act 1995 amended
-44.The Act amended in this Part
-The amendments in this Part are to the Sentencing Act 1995.
-45.Section 4 amended
-(1) Section 4(1) is amended as follows:
-(a) by inserting in the appropriate alphabetical position —
-“
-“CEO (corrections)” means the chief executive officer of the Public Sector agency principally assisting the Minister administering Part 8 of the Sentence Administration Act 2003 in its administration;
-”;
-(b) in the definition of “community work” by deleting “CEO;” and inserting instead —
-“ CEO (corrections); ”.
-(2) Section 4(2) is amended by deleting the abbreviation “CEO”.
-46.Section 22 amended
-After section 22(4) the following subsection is inserted —
-“
-(4a) The CEO (corrections) may use the information in a pre-sentence report to assist with the management of the convicted or sentenced offender to whom the report relates.
-”.
-47.Section 33N amended
-Section 33N(3) is amended by deleting all of the subsection after “33H(3) and (5)” and inserting instead —
-“
-, 75(3) and (5) and 84C(3) and (5), amend any curfew requirement in the PSO by extending its term by not more than one month at a time or add a curfew requirement the term of which is not more than one month.
-”.
-48.Section 148 amended
-Section 148(2) is amended by deleting “CEO” and inserting instead —
-“ chief executive officer ”.
-49.References to “CEO” changed to “CEO (corrections)”
-Each provision in the Table to this section is amended by inserting after “CEO” in each place where it occurs —
-“ (corrections) ”.
-Table
-s. 22(1) and (4) | s. 33Q(5) | s. 83(1)(c)
-s. 23(4) | s. 63(c) | s. 84C(15)
-s. 29 | s. 67(2)(c) | s. 84J(2)(a)
-s. 33D(c) | s. 70(c) | s. 84M(4) and (5)
-s. 33H(15) | s. 74(2)(c) | s. 129(3)(a) and (b)
-s. 33I(5) | s. 75(15) | s. 131(2)(a) and (b)
-s. 33P(1) | s. 79(3) | s. 134(5) and (6)
 ”.

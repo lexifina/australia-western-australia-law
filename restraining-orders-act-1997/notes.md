@@ -16,11 +16,11 @@ Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Fe
 Courts Legislation Amendment and Repeal Act 2004 Pt. 17 | 59 of 2004 | 23 Nov 2004 | Pt. 17 (other than the amendments in s. 123 to s. 67(2) and in s. 124 to s. 4(a)): 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Reprint 2: The Restraining Orders Act 1997 as at 5 May 2006 (includes amendments listed above)
 Family Legislation Amendment Act 2006 Pt. 6 Div. 3 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
+Prisons and Sentencing Legislation Amendment Act 2006 Pt. 10 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 123 and 124 | 59 of 2004 | 23 Nov 2004 | s. 123 the amendment to s. 67(2) and s. 124 the amendment to s. 4(a) to be proclaimed (see s. 2)
-Prisons and Sentencing Legislation Amendment Act 2006 Pt. 10 | 65 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2)
 Part 9 contained transitional provisions relating to orders to keep the peace in force under the Justices Act 1902 when this Act came into operation.
 On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 123 (the amendment to s. 67(2)) and s. 124 (the amendment to s. 4(a)) had not come into operation. They have not been, and will not be, proclaimed as the provisions to be amended were repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004. They read as follows:
 “
@@ -34,17 +34,4 @@ s. 67(2)
 The Act is amended as set out in the Table to this section.
 Table
 s. 4(a) | In each provision delete “a court of petty sessions” or “the court of petty sessions” in each place it occurs and in each place insert instead — “ the Magistrates Court ”.
-”.
-On the date as at which this compilation was prepared, the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 10 had not come into operation. It reads as follows:
-“
-Part 10 — Restraining Orders Act 1997 amended
-67.The Act amended in this Part
-The amendments in this Part are to the Restraining Orders Act 1997.
-68.Section 70A amended
-Section 70A(1) is amended in the definition of “interested party” by deleting paragraph (b) and “or” after it and inserting instead —
-“
-or
-(b)the chief executive officer of the Public Sector agency principally assisting the Minister in the administration of this Act; or
-(ba)the chief executive officer of the Public Sector agency principally assisting the Minister administering Part 8 of the Sentence Administration Act 2003 in its administration; or
-”.
 ”.
