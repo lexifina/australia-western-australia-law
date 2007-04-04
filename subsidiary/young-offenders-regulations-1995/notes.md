@@ -7,3 +7,4 @@ Young Offenders Amendment Regulations 1995 | 9 Jan 1996 p. 53-4 | 9 Jan 1996
 Young Offenders Amendment Regulations 2000 | 25 Jul 2000 p. 3909-10 | 25 Jul 2000
 Reprint 1: The Young Offenders Regulations 1995 as at 21 Nov 2003 (includes amendments listed above)
 Young Offenders Amendment Regulations 2005 | 27 Jun 2005 p. 2849-87 | 1 Jul 2005 (see r. 2)
+Young Offenders Amendment Regulations 2007 | 3 Apr 2007 p. 1509-10 | 4 Apr 2007 (see r. 2 and Gazette 3 Apr 2007 p. 1491)
