@@ -26,6 +26,7 @@ Road Traffic Code Amendment Regulations 2005 | 23 Dec 2005 p. 6291 | 1 Jan 2006 
 Road Traffic Code Amendment Regulations (No. 4) 2006 | 22 Dec 2006 p. 5817-22 | 1 Jan 2007 (see r. 2)
 Road Traffic Code Amendment Regulations (No. 3) 2006 | 29 Dec 2006 p. 5921-5 | 29 Dec 2006
 Road Traffic Code Amendment Regulations 2007 | 9 Mar 2007 p. 848-9 | 9 Mar 2007
+Road Traffic Code Amendment Regulations (No. 2) 2007 | 5 Apr 2007 p. 1553-8 | 5 Apr 2007
 The Road Traffic Amendment Regulations (No. 4) 2000 r. 5 is not included because of an error in the reference to the provision to be amended.
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 “
