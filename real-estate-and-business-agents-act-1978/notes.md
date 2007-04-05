@@ -22,7 +22,7 @@ Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun
 Real Estate and Business Agents Amendment Act 1994 | 43 of 1994 | 31 Aug 1994 | Act other than s. 7 and 8(b)(i): 31 Aug 1994 (see s. 2(1)); s. 7 and 8(b)(i): 6 Oct 1994 (see s. 2(2) and Gazette 30 Sep 1994 p. 4947)
 Bank of Western Australia Act 1995 s. 44(1) | 14 of 1995 | 4 Jul 1995 | 1 Dec 1995 (see s. 2(3) and 9(1) and Gazette 29 Nov 1995 p. 5529)
 Business Licensing Amendment Act 1995 Pt. 8 | 56 of 1995 | 20 Dec 1995 | 1 Jul 1996 (see s. 2(2) and Gazette 1 Jul 1996 p. 3179)
-Real Estate Legislation Amendment Act 1995 Pt. 2 | 59 of 1995 | 20 Dec 1995 | Pt. 2, other than s. 11: 1 Jul 1996 (see s. 2 and Gazette 25 Jun 1996 p. 2902 and 6 Sep 1996 p. 4405)
+Real Estate Legislation Amendment Act 1995 Pt. 2 | 59 of 1995 | 20 Dec 1995 | Pt. 2, other than s. 11: 1 Jul 1996 (see s. 2 and Gazette 25 Jun 1996 p. 2902 and 6 Sep 1996 p. 4405) s. 11: 5 Apr 2007 (see s. 2 and Gazette 30 Mar 2007 p. 1451)
 Reprint of the Real Estate and Business Agents Act 1978 as at 6 Sep 1996 (includes amendments listed above) (correction in Gazette 11 Oct 1996 p. 5396)
 Real Estate and Business Agents Amendment Act 1998 | 34 of 1998 | 6 Jul 1998 | 1 Nov 1998 (see s. 2 and Gazette 16 Oct 1998 p. 5729)
 Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 99 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
@@ -45,7 +45,6 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Real Estate Legislation Amendment Act 1995 s. 11 | 59 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2)
 Housing Societies Repeal Act 2005 s. 29 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 8 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 The provision in this Act repealing the Land Agents Act 1921 has been omitted under the Reprints Act 1984 s. 7(4)(f).
@@ -82,20 +81,7 @@ In this Part —
 is taken not to be valid, and to never have been valid.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Real Estate Legislation Amendment Act 1995 s. 11 had not come into operation. It reads as follows:
-“
-11.Section 61A inserted
-After section 61 of the principal Act the following section is inserted —
-“
-61A.Letting and management fees not payable by tenant
-(1)An agent shall not demand or receive from a tenant a commission, reward or other valuable consideration for a service rendered by the agent in connection with —
-(a)the letting or management of residential premises; or
-(b)the renewal, extension or continuation of a tenancy where, upon the expiry of the term of the tenancy, a further right of occupancy of the same premises is granted to the same tenant.
-Penalty: $5 000.
-(2)A commission, reward or other valuable consideration received in contravention of subsection (1) is recoverable by the tenant as a debt due in a court of competent jurisdiction.
-(3)In this section —
-“residential premises”, “tenancy” and “tenant” have the same meanings as in section 3 of the Residential Tenancies Act 1987.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 29 had not come into operation. It reads as follows:
 “
 29.Real Estate and Business Agents Act 1978 amended

@@ -7,7 +7,7 @@ Residential Tenancies Amendment Act 1988 | 50 of 1988 | 8 Dec 1988 | 8 Dec 1988 
 Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
 Acts Amendment (Ministry of Justice) Act 1993 Pt. 17 | 31 of 1993 | 15 Dec 1993 | 1 Jul 1993 (see s. 2)
 Caravan Parks and Camping Grounds Act 1995 s. 33 | 34 of 1995 | 29 Sep 1995 | 1 Jul 1997 (see s. 2 and Gazette 20 Jun 1997 p. 2805)
-Real Estate Legislation Amendment Act 1995 Pt. 3 | 59 of 1995 | 20 Dec 1995 | Pt. 3 other than s. 46 and 52: 1 Jul 1996 (see s. 2 and Gazette 25 Jun 1996 p. 2902)
+Real Estate Legislation Amendment Act 1995 Pt. 3 | 59 of 1995 | 20 Dec 1995 | Pt. 3 other than s. 46 and 52: 1 Jul 1996 (see s. 2 and Gazette 25 Jun 1996 p. 2902) s. 46 and 52: 5 Apr 2007 (see s. 2 and Gazette 30 Mar 2007 p. 1451
 Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 188 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 29 Dec 1995 p. 6291)
 Reprint of the Residential Tenancies Act 1987 as at 15 Mar 1996 (includes amendments listed above except those in the Real Estate Legislation Amendment Act 1995) (correction in Gazette 6 Dec 1996 p. 6725)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
@@ -25,7 +25,6 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Real Estate Legislation Amendment Act 1995 s. 46 and 52 | 59 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2)
 Residential Parks (Long-stay Tenants) Act 2006 s. 98 | 32 of 2006 | 4 Jul 2006 | To be proclaimed (see s. 2)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 9 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
@@ -135,15 +134,7 @@ cannot be made more than 15 months after the licence was granted or transferred.
 (1) A permission granted under section 112V of the old Stamp Act and in force immediately before the commencement day continues in force on and after that day as a special tax arrangement under the Taxation Administration Act 2003.
 (2) Any requirement that applied, immediately before the commencement day, to a person to whom a permission continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the permission was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
 ”.
-On the date as at which this compilation was prepared, the Real Estate and Business Agents Act 1978 s. 46 and 52 had not come into operation. They read as follows:
-“
-46.Section 27 amended
-Section 27(2) of the principal Act is amended —
-(a) by inserting “and” after paragraph (b); and
-(b) by deleting paragraph (c) and “and” after that paragraph.
-52.Section 86 repealed
-Section 86 of the principal Act is repealed.
-”.
+Footnote no longer applicable.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
 Division 23 — Transitional provisions
