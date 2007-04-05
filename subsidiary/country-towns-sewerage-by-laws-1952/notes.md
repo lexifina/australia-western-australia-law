@@ -65,6 +65,7 @@ Country Towns Sewerage Amendment By-Laws 2005 | 26 Apr 2005 p. 1394-5 | 26 Apr 2
 Reprint 4: The Country Towns Sewerage By-laws 1958 as at 29 Apr 2005 (includes amendments listed above)
 Water Agencies Amendment By-laws 2005 Pt. 4 | 1 Jul 2005 p. 3009-17 | 1 Jul 2005 (see bl. 2)
 Water Agencies Amendment By-laws 2005 Pt. 4 | 30 Jun 2006 p. 2399-412 | 1 Jul 2006 (see bl. 2)
+Country Towns Sewerage Amendment By-laws (No. 2) 2007 | 5 Apr 2007 p. 1531-3 | 5 Apr 2007
 These by-laws have effect for the purposes of the Country Towns Sewerage Act 1948 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34. See also the Country Towns Sewerage Act 1948 s. 102.
 The heading to this provision was deleted by the Country Towns Sewerage Amendment By-laws 1999 see Gazette 20 April 1999 p. 1641-2.
 The heading to this provision was deleted by the Water Agencies Amendment By-laws 1999 see Gazette 29 June 1999 p. 2778-82.
@@ -103,4 +104,9 @@ The Water Agencies Amendment By-laws 2006 bl. 3 reads as follows:
 “
 3.Application
 Nothing in these by-laws affects the application after 1 July 2006 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
+”.
+The Country Towns Sewerage Amendment By-laws (No. 2) 2007 bl. 4 reads as follows:
+“
+4.Transitional provision
+By-law 36 of the Country Towns Sewerage By-laws 1952, as amended by these by-laws, applies, after the commencement of these by-laws, in relation to a permit to discharge industrial waste, whether the permit is granted before, on or after that commencement.
 ”.
