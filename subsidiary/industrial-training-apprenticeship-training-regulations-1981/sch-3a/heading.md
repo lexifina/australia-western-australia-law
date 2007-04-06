@@ -1,4 +1,4 @@
-## Schedule 3A — Attendance at Technical Training Classes (irrespective of release type)
+## Schedule 3A — Attendance at technical training classes (irrespective of release type)
 [r. 7(1)]
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 Trade | Technical Year 1 | Technical Year 2 | Technical Year 3 | Technical Year 4
@@ -38,8 +38,8 @@ Shipwright and Boatbuilder | 352 hours | 352 hours | 160 hours
 Signwriter | 320 hours | 280 hours | 160 hours
 Steel Framing (Housing) | 248 hours | 248 hours
 Stonemason | 280 hours | 280 hours | 160 hours
-Timber Furniture Finisher | 400 hours | 400 hours
 Tilelaying | 320 hours | 320 hours | 120 hours
+Timber Furniture Finisher | 400 hours | 400 hours
 Turf Management | 316 hours | 316 hours | 316 hours | 315 hours
 Upholsterer | 400 hours | 400 hours
 Vehicle Body Builder | 352 hours | 352 hours | 160 hours
@@ -50,4 +50,4 @@ Wall and Ceiling Fixing (Housing) | 320 hours | 240 hours
 Wall and Floor Tiling (Housing) | 320 hours | 322 hours
 Wood Machinist | 320 hours | 320 hours | 160 hours
 For the purpose of this Schedule attendance for one day shall be taken to constitute attendance for 8 hours.
-[Schedule 3A inserted in Gazette 2 Nov 2001 p. 5795; amended in Gazette 12 Aug 2005 p. 3652; 18 Nov 2005 p. 5658; 4 Apr 2006 p. 1403; 26 May 2006 p. 1874-5; 29 Sep 2006 p. 4254, 4257 and 4259; 27 Oct 2006 p. 4567; 31 Jan 2007 p. 238; 30 Mar 2007 p. 1454.]
+[Schedule 3A inserted in Gazette 2 Nov 2001 p. 5795; amended in Gazette 12 Aug 2005 p. 3652; 18 Nov 2005 p. 5658; 4 Apr 2006 p. 1403; 26 May 2006 p. 1874-5; 29 Sep 2006 p. 4254, 4257 and 4259; 27 Oct 2006 p. 4567; 31 Jan 2007 p. 238; 30 Mar 2007 p. 1455.]

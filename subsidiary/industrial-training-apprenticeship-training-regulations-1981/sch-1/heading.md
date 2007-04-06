@@ -2,8 +2,8 @@
 [Reg. 6]
 Prescribed apprenticeship trades and terms of indenture
 TRADE | TERM
-Jewellery
-Watch and Clock Making | 5 years
+Jewellery | 5 years
+Watch and Clock Making
 Watch and Clock Repairing
 Aircraft Maintenance Engineer — Avionics | 4 years
 Aircraft Maintenance Engineer — Mechanical
@@ -30,11 +30,11 @@ Roof Plumbing
 Screen Printing Stencil Preparation
 Ship Carpentry and Joinery
 Sprinkler Fitting
-Tailoring | 4 years
+Tailoring
 Toolmaking and Jigmaking (Metal Furniture)
 Turf Management
 Weighing Instrument Mechanics
-Automotive Electrician | 3.5 Years
+Automotive Electrician | 3.5 years
 Automotive Technician
 Cabinet Maker
 Engineering Tradesperson (Fabrication)
@@ -71,7 +71,7 @@ Timber Furniture Finisher
 Upholsterer
 Vehicle Trimmer
 Wall and Ceiling Fixing
-Bricklaying (Housing) | 2 Years
+Bricklaying (Housing) | 2 years
 Carpentry (Housing)
 Carpentry Fixing (Housing)
 Carpentry Formwork (Housing)
