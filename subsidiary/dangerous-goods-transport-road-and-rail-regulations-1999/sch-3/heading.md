@@ -25,7 +25,7 @@
 “attachment system” —
 (a)means a system for attaching a bulk container to a vehicle, or a bulk container or freight container to a rail wagon; and
 (b)includes all the components of the system;
-“authorized officer” see section 3 of the Act;
+“authorised officer” see section 3 of the Act;
 “bulk container” see regulation 2.17;
 “bulk driver licence” means a licence that is in force under Division 3 of Part 18;
 “bulk vehicle licence” means a licence that is in force under Division 4 of Part 18;
@@ -52,7 +52,7 @@
 “dangerous goods in bulk” see regulation 2.12;
 “dangerous situation” see section 3 of the Act;
 “determination”, for a provision of these regulations, means a determination made by the Competent Authority that is in force under the provision;
-“driving licence” means a licence (including a probationary and a conditional licence but not including a provisional or learner licence) issued under a State or Territory law authorizing the licensee to drive a vehicle;
+“driving licence” means a licence (including a probationary and a conditional licence but not including a provisional or learner licence) issued under a State or Territory law authorising the licensee to drive a vehicle;
 “emergency service” means —
 (a)an ambulance, fire, police or other emergency service of a participating jurisdiction; or
 (b)a unit of the Defence Force corresponding to a service mentioned in paragraph (a);
@@ -170,7 +170,7 @@
 “UN dangerous goods tests and criteria” means the tests and criteria specified in —
 (a)the UN Recommendations; or
 (b)the UN Recommendations, Manual of Tests and Criteria;
-“unit load” see regulation 2.14;
 “UN Recommendations” means the ninth revised edition of the Recommendations on the Transport of Dangerous Goods published by the United Nations;
 “UN Recommendations, Manual of Tests and Criteria” means the second revised edition of the Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria published by the United Nations;
+“unit load” see regulation 2.14;
 “vehicle” means a vehicle used or capable of being used to transport people or things by road and includes a combination road vehicle.
