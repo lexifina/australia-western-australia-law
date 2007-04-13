@@ -66,10 +66,11 @@ State Superannuation Amendment Regulations (No. 4) 2003 r. 3 | 30 Dec 2003 p. 57
 State Superannuation Amendment Regulations 2004 r.13 | 25 Jun 2004 p. 2228-33 | 25 Jun 2004
 State Superannuation Amendment Regulations 2006 Pt. 4 | 26 May 2006 p. 1915-33 | 26 May 2006
 Financial Legislation Amendment and Repeal Act 2006 s. 5(1) | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+State Superannuation Amendment Regulations 2007 Pt. 3 | 13 Apr 2007 p. 1577-613 | 13 Apr 2007 (see r. 2)
 N.B.The Superannuation and Family Benefits Act 1938 is affected by section 15 of the District Court of Western Australia Act 1969 (No. 84 of 1969).
 Repealed by the Miscellaneous Repeals Act 1991 (No. 10 of 1991).
 Reference amended under section 7(5)(a) of the Reprints Act 1984 to give effect to section 5(2) of the Water Authority Act 1984 (No. 3 of 1984).
-Formerly Hospitals Act 1927. Title changed by the Hospitals Amendment Act 1994 (No. 103 of 1994, section 5).
+Footnote no longer applicable.
 Abolished by section 37 of the Industrial Arbitration Act Amendment Act (No. 2) 1963. See now sections 8 and 85 of the Industrial Relations Act 1979 (No. 114 of 1979) which provide for the Western Australian Industrial Commission and the Western Australian Industrial Appeal Court respectively.
 Repealed by the Police Benefit Fund Abolition Act 1939 (No. 40 of 1939).
 Reference was originally to section 68A. That section was renumbered as section 76 in 1949 reprint of the Government Railways Act 1904 (No. 23 of 1904) pursuant to section 4(g) of the Amendments Incorporation Act 1938.
