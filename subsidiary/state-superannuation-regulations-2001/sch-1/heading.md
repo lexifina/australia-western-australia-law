@@ -10,6 +10,7 @@
 [6.deleted]
 7.Chemistry Centre (WA)
 8.Colleges established or continued under the Vocational Education and Training Act 1996
+8a.Commission for Occupational Safety and Health (WorkSafe W A) established by the Occupational Safety and Health Act 1984
 9.Commissioner for Public Sector Standards under the Public Sector Management Act 1994
 10.Commissioner for Equal Opportunity appointed under the Equal Opportunity Act 1984
 11.Commissioner of Police appointed under the Police Act 1892
@@ -32,10 +33,10 @@
 27.The Library Board of Western Australia constituted under the Library Board of Western Australia Act 1951
 28.The Western Australian Industrial Relations Commission continued by the Industrial Relations Act 1979
 29.The Western Australian Museum constituted by the Museum Act 1969
-30.Valuer General appointed under the Valuation of Land Act 1978
-31.Western Australian Planning Commission established by the Western Australian Planning Commission Act 1985
-32.Commission for Occupational Safety and Health (WorkSafe W A) established by the Occupational Safety and Health Act 1984
-[Division 1 amended in Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; amended by Act No. 75 of 2003 s. 56(1).]
+30.Western Australian Land Information Authority established by the Land Information Authority Act 2006
+31.Western Australian Planning Commission established by the Planning and Development Act 2005
+[32.deleted]
+[Division 1 amended in Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; amended by Act No. 75 of 2003 s. 56(1); 13 Apr 2007 p. 1609-10.]
 ## Division 2 — Self funding employers
 1.The Government of Western Australia in relation to a worker in respect of whom the obligations of the Government are being discharged by a person, or by the employing authority of a department or organisation, specified in an order under regulation 9(1)(b)unless the order specifies that in relation to that worker the Government is a Division 1 Employer
 2.Animal Resources Authority established by the Animal Resources Authority Act 1981
@@ -49,8 +50,8 @@
 10.Country High School Hostels Authority established under the Country High School Hostels Authority Act 1960
 11.Country Housing Authority established under the Country Housing Act 1998
 12.Curriculum Council established under the Curriculum Council Act 1997
-13.Department of Conservation and Land Management
-14.Department of Transport
+[13.deleted]
+[14.deleted]
 15.Disability Services Commission continued under the Disability Services Act 1993
 16.East Perth Redevelopment Authority established under the East Perth Redevelopment Act 1991
 17.Eastern Goldfields Transport Board continued under the Eastern Goldfields Transport Board Act 1984
@@ -62,10 +63,11 @@
 20.Forest Products Commission established by the Forest Products Act 2000
 21.Fremantle Cemetery Board established by the Governor under the Cemeteries Act 1986
 22.Gaming and Wagering Commission of Western Australia established under the Gaming and Wagering Commission Act 1987
-23.Government Employees’ Housing Authority established under the Government Employees’ Housing Act 1964
+[23.deleted]
 24.Government Employees Superannuation Board under the Act
 25.Heritage Council of Western Australia established under the Heritage of Western Australia Act 1990
 26.Hospitals and Health Services Act 1927 — all agencies established under section 7B(1) of that Act
+26A.Housing Authority continued under the Housing Act 1980
 27.Insurance Commission of Western Australia continued under the Insurance Commission of Western Australia Act 1986
 28.Keep Australia Beautiful Council (W.A.) established under the Litter Act 1979
 29.Legal Aid Commission of Western Australia established under the Legal Aid Commission Act 1976
@@ -91,7 +93,7 @@
 47.The Aboriginal Affairs Planning Authority continued by the Aboriginal Affairs Planning Authority Act 1972
 48.The Burswood Park Board established under the Parks and Reserves Act 1895
 49.The National Trust of Australia (W.A.) established and incorporated under the National Trust of Australia (W.A.) Act 1964
-50.The State Housing Commission (Homeswest) preserved and continued under the Housing Act 1980
+[50.deleted]
 [51.deleted]
 [52.deleted]
 53.Water and Rivers Commission established under the Water and Rivers Commission Act 1995
@@ -99,9 +101,9 @@
 55.Waterways Conservation Act 1976 — all management authorities constituted under section 10 and 14 of that Act
 56.Western Australian Alcohol and Drug Authority established under the Alcohol and Drug Authority Act 1974
 57.Western Australian Coastal Shipping Commission established under the Western Australian Coastal Shipping Commission Act 1965
-58.Western Australian Egg Marketing Board constituted under the Marketing of Eggs Act 1945
+[58.deleted]
 59.Western Australian Greyhound Racing Association established under the Western Australian Greyhound Racing Association Act 1981
-60.Western Australian Health Promotion Foundation established under the Tobacco Control Act 1990
+60.Western Australian Health Promotion Foundation established under the Tobacco Products Control Act 2006
 61.Western Australian Land Authority (Landcorp) established under the Western Australian Land Authority Act 1992
 62.Western Australian Meat Industry Authority established under the Western Australian Meat Industry Authority Act 1976
 63.Western Australian Mint preserved and continued in existence under the Gold Corporation Act 1987
@@ -111,4 +113,4 @@
 [67.deleted]
 68.WorkCover Western Australia Authority (WorkCover Western Australia) constituted under the Workers’ Compensation and Injury Management Act 1981
 69.Zoological Parks Authority established under the Zoological Parks Authority Act 2001
-[Division 2 amended in Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; amended by No. 43 of 2006 s. 7.]
+[Division 2 amended in Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; amended by No. 43 of 2006 s. 7; 13 Apr 2007 p. 1610.]
