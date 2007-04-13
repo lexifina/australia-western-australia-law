@@ -65,9 +65,9 @@ Form 3
 rule 2.2
 Interlocutory process
 [Title]
-A.DETAILS OF INTERLOCUTORY APPLICATION
-*This interlocutory application is made under *section/*regulation [number] of the *Corporations Act/*ASIC Act/*Corporations Regulations.
-On the facts stated in the supporting affidavit(s), the applicant, [name], applies for the following interlocutory relief —
+A.DETAILS OF APPLICATION
+*This application is made under *section/*regulation [number] of the *Corporations Act/*ASIC Act/*Corporations Regulations.
+On the facts stated in the supporting affidavit(s), the applicant, [name], applies for the following relief —
 1
 2
 etc.
@@ -75,7 +75,7 @@ AND
 Date:
 . . . . . . . . . . . . . . . . . . . . .
 Signature of applicant making this application or applicant’s legal practitioner
-This interlocutory application will be heard by . . . . . . . . . . . . . . . . . . . . . . . . . at [address of Court] at . . . . . . . . *a.m./*p.m. on . . . . . . . ..
+This application will be heard by . . . . . . . . . . . . . . . . . . . . . . . . . at [address of Court] at . . . . . . . . *a.m./*p.m. on . . . . . . . ..
 B.NOTICE TO RESPONDENT(S) (IF ANY)
 TO: [name and address of each respondent to this interlocutory process (if any). If applicable, also state the respondent’s address for service.]
 If you or your legal practitioner do not appear before the Court at the time shown above, the application may be dealt with, and an order made, in your absence.
@@ -92,6 +92,7 @@ OR
 [Complete the following section if the time for service has been abridged.]
 The time by which a copy of this interlocutory process is to be served has been abridged by order made by [name of Judge or other Court officer] on [date] to [time and date].
 * Omit if not applicable
+[Form 3 amended in Gazette 13 Apr 2007 p. 1673.]
 Form 4
 rule 2.9
 Notice of appearance
