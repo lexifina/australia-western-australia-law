@@ -20,6 +20,10 @@ Financial Administration Legislation Amendment Act 2005 s. 39 | 5 of 2005 | 27 J
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 6 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 3: The Energy Coordination Act 1994 as at 18 Aug 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Gas and Electricity Safety Legislation Amendment Act 2007 Pt. 3 | 5 of 2007 | 18 Apr 2007 | To be proclaimed (see s. 2)
 The Energy Legislation Amendment Act 2003 Pt. 3 Div. 3 (other than s. 19) reads as follows:
 “
 Part 3 — Amendments to facilitate a contestable retail gas market, and related transitional provisions
@@ -290,3 +294,208 @@ The operation of any provision of this Schedule is not to be regarded —
 (e) as releasing or allowing the release of any surety.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Gas and Electricity Safety Legislation Amendment Act 2007 Pt. 3 had not come into operation. It reads as follows:
+“
+Part 3 — Energy Coordination Act 1994 amended
+10.The Act amended by this Part
+The amendments in this Part are to the Energy Coordination Act 1994.
+11.Section 3 amended
+(1) Section 3 is amended by inserting in the appropriate alphabetical positions —
+“
+“commercial information” means —
+(a)any knowledge or information relating to technology, marketing or energy used in a person’s business and that might reasonably be expected adversely to affect the business or interests of that person if disclosed to another person; or
+(b)other information that has commercial value;
+“component” means a component of a distribution system, distribution works, transmission works or service apparatus;
+“distribution works” has the same meaning as it has in the Electricity Act 1945 section 5(1);
+“network operator” means —
+(a)in relation to gas —
+(i)the holder of a distribution licence for a distribution system and includes a person who operates the system on behalf of that holder; and
+(ii)a person granted an exemption under section 11H from holding a distribution licence for a distribution system and includes a person who operates the system on behalf of that person;
+or
+(b)in relation to electricity —
+(i)a network operator as defined in the Electricity Act 1945 section 5(1); and
+(ii)any other person lawfully operating transmission or distribution works;
+“supply authority” has the meaning given to that term in the Electricity Act 1945 section 5(1);
+“transmission works” has the meaning given to that term in the Electricity Act 1945 section 5(1).
+”.
+(2) Section 3 is amended by deleting the full stop after the definition of “trading licence” and inserting a semicolon instead.
+12.Section 7 amended
+Section 7 is amended as follows:
+(a) after paragraph (a)(i) by inserting the following subparagraph —
+“
+(ia) this Act; and
+”.
+(b) after paragraph (a)(i) by inserting —
+“ and ”.
+13.Section 12 amended
+Section 12(2) is repealed and the following subsection is inserted instead —
+“
+(2) The Director may designate persons to be inspectors for the purposes of —
+(a) this Act; or
+(b) the Electricity Act 1945; or
+(c) the Gas Standards Act 1972,
+or all or any of those Acts.
+”.
+14.Section 14 amended
+Section 14 is amended as follows:
+(a) in paragraph (a) by deleting “apparatus or installation used for any of those purposes is or may be situated;” and inserting instead —
+“
+installation, component or activity used or undertaken for any of those purposes is or may be situated or undertaken;
+”;
+(b) in paragraph (c) by deleting “apparatus or installation used or intended to be used” and inserting instead —
+“
+installation, component or activity used or undertaken or intended to be used or undertaken
+”;
+(c) in paragraph (d)(iii) by deleting “apparatus or installation” and inserting instead —
+“ installation, component or activity ”.
+15.Sections 18A to 18C inserted
+After section 18 the following sections are inserted —
+“
+18A.Orders as to dangerous things in relation to electricity or gas
+(1) If an inspector is of the opinion, having inspected any thing in relation to electricity or gas which that inspector is authorised to inspect, that —
+(a) the thing is dangerous; or
+(b) the thing has been rendered dangerous, having regard to its actual or possible use, by —
+(i) the introduction of any other object into the proximity of that thing; or
+(ii) the use of any other object in conjunction with or in relation to that thing; or
+(iii) any other circumstance,
+the inspector may make an order under subsection (2).
+(2) An inspector may by order, in writing, specifying the reason for the opinion referred to in subsection (1), require —
+(a) the person who has apparently caused the danger; or
+(b) the person who has apparent control of the thing; or
+(c) the person who is responsible under a written law for the control of the thing,
+to take immediate steps to remove or mitigate the danger in such manner, if any, as the order may specify.
+(3) If the inspector is of the further opinion that any immediate steps taken or to be taken under an order made under subsection (2) may not remove the danger, or are in the nature of a temporary expedient, the inspector may make an order under subsection (4).
+(4) The inspector may by order, in writing, specifying the reason for the opinion referred to in subsection (3), require —
+(a) the person having apparent control of the thing; or
+(b) the person who is responsible under a written law for the control of the thing; or
+(c) the person having apparent control of an object, specified in the order, which may render the thing dangerous; or
+(d) the person who is responsible for the circumstances, specified in the order, which may render the thing dangerous,
+to —
+(e) modify, dismantle or remove the thing giving rise to the danger; or
+(f) deal with or remove a specified object the introduction of which may render the thing dangerous; or
+(g) deal with or remove the specified circumstances which may render that thing dangerous,
+within a period of not less than 28 days specified in the order and in such manner, if any, as the order may specify.
+18B.Orders as to unsafe work practices in relation to electricity or gas
+(1) If an inspector is of the opinion on reasonable grounds that any work practice related to safety used in, or in relation to, the construction, repair, maintenance or operation of any thing the inspector is authorised to inspect may give rise to any danger from electricity or gas or does not conform with any Act to which the inspector’s powers extend the inspector may make an order under subsection (2).
+(2) The inspector may, by order in writing, require the person appearing to be responsible for the carrying out of the work practice —
+(a) to modify that work practice, in such manner, if any, as the order may specify, within a period of not less than 28 days specified in the order; and
+(b) meanwhile, to carry out the work practice in accordance with any condition, restriction or limitation specified in the order until the modification required under paragraph (a) has taken effect,
+or may prohibit the carrying out of the work practice absolutely.
+(3) An order under subsection (2) is to specify the work practice in question and the reason why it is unsafe or does not comply with the relevant Act.
+18C.Orders as to distribution systems or distribution or transmission works
+(1) If an inspector is of the opinion that a component that the inspector is authorised to inspect —
+(a) does not conform with any Act to which his or her powers extend; or
+(b) is unsafe,
+the inspector may make an order under subsection (2).
+(2) The inspector may, by order in writing served on the network operator of the distribution system or distribution or transmission works, require work to be done, or other measures to be taken, by the network operator within the period specified in the order to ensure that each component specified in the order conforms with the relevant Act or is rendered safe.
+(3) In making an order under subsection (2), the inspector may extend the scope and operation of the order to other components that are similar to a component that has been inspected under section 14 either generally or in relation to a specified type of component.
+(4) Subsection (3) does not apply unless the Director approves of the terms of the order before it is made.
+(5) Before the Director approves the terms of the order, the Director must —
+(a) consult with the relevant network operator; and
+(b) consider the effect of the terms of the order on work or other measures being undertaken or proposed to be undertaken by the network operator on the distribution system or distribution or transmission works.
+(6) An order under subsection (3) is not to be served on the network operator unless —
+(a) the inspector has given the network operator an opportunity to assess the extent to which the other components of the distribution system or distribution or transmission works conform with the relevant Act or need to be rendered safe; and
+(b) the inspector has made a reasonable effort to consult with the network operator about means of ensuring that the component or type of component conforms with the relevant Act or is rendered safe; and
+(c) the inspector and the network operator cannot within a reasonable time reach an agreement in writing on —
+(i) the work to be done, or other measures to be taken, to ensure that the component or type of component conforms with the relevant Act or is rendered safe; and
+(ii) the time within which the work is to be done or the measures are to be taken.
+(7) If the inspector and the network operator reach an agreement of the kind described in subsection (6)(c), the agreement does not take effect until it is approved by the Director.
+(8) If the Director approves an agreement between an inspector and the network operator on —
+(a) the work to be done, or other measures to be taken, to ensure that the component or type of component conforms with the relevant Act or is rendered safe; and
+(b) the time within which the work is to be done or the measures are to be taken,
+the network operator must carry out that work or take those measures in the agreed time or within such further time as the Director may specify.
+(9) If a network operator does not carry out the work or take the measures referred to in subsection (8) in the agreed time or within such further time as the Director may specify, the inspector may, by order in writing served on the network operator, require the work to be done or the measures taken, by the network operator within the period specified in the order.
+”.
+16.Section 19 amended
+Section 19(1) is amended by inserting after “section 18” —
+“ , 18A(2) or (4) or 18B(2) ”.
+17.Sections 19A and 19B inserted
+After section 19 the following sections are inserted —
+“
+19A.Review of certain orders of inspectors on the application of a network operator
+(1) A network operator who is aggrieved by an order under section 18A(2) or (4), 18B(2), or 18C(2), or an order extended by an inspector under section 18C(3) may apply in writing to the Director for a review of the decision.
+(2) The application is to be made within 14 days after the applicant receives notice of the order or within such further period as the Director in a particular case allows.
+(3) The Director must give the applicant a reasonable opportunity to make submissions in relation to the application.
+(4) An application stays the operation of an order until the review is completed unless the Director determines on the ground of safety that the operation of the order is not affected by the application.
+(5) The Director, after considering submissions (if any) made under subsection (3), may determine the application by —
+(a) confirming the order; or
+(b) varying the order; or
+(c) reversing the order.
+(6) The Director must give the applicant written notice of his or her determination and the reasons for the determination.
+(7) Subject to subsection (8), the Director may publicise his or her determination and any submission made under subsection (3) in such manner as the Director thinks fit.
+(8) If —
+(a) a submission contains a statement that information provided in and identified in the submission is commercial information relating to the applicant or another person; and
+(b) the Director is satisfied that the information is commercial information relating to the applicant or another person,
+the Director is not to publicise the determination or submission in such a manner as to disclose that information unless the Director is of the opinion that the disclosure of the information would not be unduly harmful to the legitimate business interests of the applicant or the other person, as the case may be.
+19B.Review of determinations of Director in relation to orders by inspectors against a network operator
+(1) In this section —
+“decision” means —
+(a)a determination of the Director under section 19A(5); or
+(b)a refusal of the Director to approve an agreement reached under section 18C(6).
+(2) A network operator aggrieved by a decision may —
+(a) if a question of law is involved, apply to the State Administrative Tribunal for a review of the decision; or
+(b) in any other case, appeal in the prescribed manner to a technical review panel appointed under the regulations.
+(3) On an appeal made under subsection (2)(b) the technical review panel may confirm, reverse or vary the decision and the decision of the technical review panel is final.
+(4) If an application for review or an appeal has been made under subsection (2) in relation to a decision, the State Administrative Tribunal or the technical review panel, as the case may be —
+(a) may suspend the operation of the decision until the determination of the review or appeal; and
+(b) may revoke any suspension under paragraph (a).
+(5) A decision is not to be suspended under subsection (4)(a) if failure to comply with the decision would endanger the safety of a person or result in a risk of damage to property.
+(6) Subject to subsections (7) and (8), the Director may publicise —
+(a) any submission made to the technical review panel by a party to an appeal; and
+(b) the technical review panel’s decision on an appeal,
+in such manner as the Director thinks fit and, for that purpose, the panel is to make submissions made to it and its decision available to the Director.
+(7) Before the Director publicises a submission or decision containing commercial information relating to the appellant or another party to the appeal, the Director must consult with the appellant or the other party.
+(8) If a submission or a decision contains commercial information, the Director may publicise the submission or decision in such a manner as the Director thinks fit so as to avoid the disclosure of commercial information relating to the appellant or the other party.
+(9) If the technical review panel confirms a decision under subsection (3), the appellant is liable to pay the reasonable costs of the review.
+(10) Any costs payable by the appellant under subsection (9) are recoverable by the Director in a court of competent jurisdiction as a debt due to the State.
+”.
+18.Section 20 amended
+(1) Section 20(1) is amended as follows:
+(a) by deleting “$5 000.” and inserting instead —
+“ $50 000. ”;
+(b) by deleting “$20 000.” and inserting instead —
+“ $250 000. ”.
+(2) Section 20(2) is amended as follows:
+(a) by deleting “$5 000.” and inserting instead —
+“ $50 000. ”;
+(b) by deleting “$20 000.” and inserting instead —
+“ $250 000. ”.
+(3) Section 20(3) is amended as follows:
+(a) by deleting “$5 000.” and inserting instead —
+“ $50 000. ”;
+(b) by deleting “$20 000.” and inserting instead —
+“ $250 000. ”.
+(4) Section 20(4) is amended as follows:
+(a) by inserting after “section 18” —
+“ , 18A, 18B, or 18C ”;
+(b) by deleting “$5 000.” and inserting instead —
+“ $50 000. ”;
+(c) by deleting “$20 000.” and inserting instead —
+“ $250 000. ”.
+19.Sections 24B and 24C inserted
+After section 24A the following sections are inserted —
+“
+24B.Disclosure of information for promotion of safety and compliance purposes
+(1) Without limiting section 24(1)(b) but subject to subsection (2), information obtained in the course of a duty relating to inspection for compliance or safety purposes may be recorded, disclosed and used by, or with the approval of, the Director for the purposes of —
+(a) increasing public awareness of any matter to do with safety related to the use of energy; and
+(b) increasing levels of compliance with the Electricity Act 1945 and the Gas Standards Act 1972.
+(2) The Director is not to record, disclose or use information, or approve of information being recorded, disclosed or used for a purpose described in subsection (1)(a) or (b) unless —
+(a) in the case of commercial information or information that is confidential, the Director has consulted any person he or she believes may be affected by the recording, disclosure or use; and
+(b) in any case, the Director is of the opinion that the public benefit from the recording, disclosure or use will outweigh any detriment that may be caused to any person, and that there is no other way to achieve the purposes described in subsection (1)(a) and (b).
+24C.Gas supply emergency plans
+(1) The holder of a pipeline licence under the Petroleum Pipelines Act 1969 to convey gaseous petroleum to a distribution system or a network operator must, if the regulations so require, have a supply system emergency management plan (an “emergency plan”).
+(2) Without limiting section 26(1), the regulations may provide for —
+(a) the preparation and content of emergency plans; and
+(b) the submission of emergency plans for assessment and review by the Director; and
+(c) how emergency plans are to have effect and be complied with; and
+(d) the exemption of persons from the requirement to have an emergency plan if the person has an emergency plan under another written law specified in the regulations.
+”.
+20.Section 26 amended
+After section 26(2) the following subsection is inserted —
+“
+(2a) Without limiting the generality of subsection (1), the regulations may —
+(a) provide for the convening of a technical review panel of independent professional engineers; and
+(b) provide for the procedure to be followed on a review by a technical review panel and the period of time within which a review is to be completed; and
+(c) provide for the payment of remuneration to members of a technical review panel.
+”.
+”.
