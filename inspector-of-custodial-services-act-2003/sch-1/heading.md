@@ -18,10 +18,11 @@ Division 2 — Reports by accountable authority of office of Inspector of Custod
 (a) are to include any financial statements and information prescribed by the Treasurer’s instructions; and
 (b) are to be certified in the manner prescribed by the Treasurer’s instructions.
 (3) In subsection (1) —
-“Australian Accounting Standards Board” means the body of that name continued in existence under the Commonwealth Australian Securities and Investments Commission Act 2001.
+Australian Accounting Standards Board means the body of that name continued in existence under the Commonwealth Australian Securities and Investments Commission Act 2001.
 63.Accountable authority to submit financial reports and other information
 The accountable authority of the office of the Inspector of Custodial Services is to submit to the Auditor General —
 (a) the financial statements and key performance indicators referred to in section 61(1)(a) and (b); and
 (b) any other information referred to in section 61(1)(d) that is required by the Treasurer’s instructions to be submitted to the Auditor General under this section.
 ”.
 [Schedule 1 inserted by No. 77 of 2006 s. 17.]
+[Schedule 2 omitted under the Reprints Act 1984 s. 7(4)(e).]
