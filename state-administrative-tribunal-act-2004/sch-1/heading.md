@@ -17,7 +17,7 @@ Motor Vehicle Dealers Act 1973
 Nurses Act 1992
 Occupational Therapists Registration Act 1980
 Optical Dispensers Act 1966
-Optometrists Act 1940
+Optometrists Act 2005
 Osteopaths Act 1997
 Painters’ Registration Act 1961
 Pearling Act 1990
@@ -31,4 +31,4 @@ Taxi Act 1994
 Travel Agents Act 1985
 Valuation of Land Act 1978
 Veterinary Surgeons Act 1960
-[Schedule 1 amended by No. 32 of 2005 s. 109.]
+[Schedule 1 amended by No. 29 of 2005 s. 109; No. 32 of 2005 s. 109.]
