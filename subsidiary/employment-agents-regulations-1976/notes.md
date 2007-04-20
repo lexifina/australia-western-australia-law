@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 October 2006 of the Employment Agents Regulations 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Employment Agents Regulations 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Employment Agents Regulations 1976 | 10 Sep 1976 p. 3386-93 | 1 Nov 1976 (see Gazette 24 Sep 1976 p. 3493)
@@ -26,4 +26,4 @@ Employment Agents Amendment Regulations (No. 2) 2004 | 30 Dec 2004 p. 6918-20 | 
 Employment Agents Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2271-2 | 1 Jul 2006 (see r. 2)
 Employment Agents Amendment Regulations 2006 | 22 Sep 2006 p. 4108-11 | 22 Sep 2006 (see r. 2(a))
 Reprint 3: The Employment Agents Regulations 1976 as at 20 Oct 2006 (includes amendments listed above)
-As at the time of this reprint the person designated as the Commissioner for the purposes of the Act is known as the Commissioner for Consumer Protection (see Gazette 18 August 2006 p. 3372).
+Employment Agents Amendment Regulations 2007 | 20 Apr 2007 p. 1739-40 | 20 Apr 2007
