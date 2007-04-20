@@ -5,3 +5,4 @@ An Act to —
 ·repeal the Optometrists Act 1940;
 ·make consequential amendments to various Acts,
 and for related purposes.
+The Parliament of Western Australia enacts as follows:
