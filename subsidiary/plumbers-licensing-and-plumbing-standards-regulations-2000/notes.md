@@ -13,6 +13,7 @@ Reprint 1: The Water Services Licensing (Plumbers Licensing and Plumbing Standar
 Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations (No. 3) 2004 | 30 Dec 2004 p. 6928-30 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Courts and Legal Practice (Consequential Amendments) Regulations 2005 r. 14 | 19 Apr 2005 p. 1294-302 | 19 Apr 2005
 Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations 2005 | 7 Oct 2005 p. 4507-28 | 7 Oct 2005
+Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations 2007 | 1 May 2007 p. 1896-7 | 1 May 2007
 Now known as the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000; citation changed (see note under r. 1).
 The Water Services Coordination (Plumbers Licensing) Amendment Regulations (No. 2) 2004 Pt. 3 reads as follows:
 “
