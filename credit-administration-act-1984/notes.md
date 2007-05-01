@@ -20,12 +20,12 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 31 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 10 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 3: The Credit (Administration) Act 1984 as at 4 Aug 2006 (includes amendments listed above)
+Pawnbrokers and Second-hand Dealers Amendment Act 2006 s. 23 | 46 of 2006 | 4 Oct 2006 | 1 May 2007 (see s. 2 and Gazette 30 Apr 2007 p. 1833)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 23 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Pawnbrokers and Second-hand Dealers Amendment Act 2006 s. 23 | 46 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 4 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 Repealed by the Strata Titles Act 1985.
 Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 of the Commonwealth.
@@ -97,13 +97,7 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 (1) The amendment in this section is to the Credit (Administration) Act 1984.
 (2) Section 7(1)(h) is deleted.
 ”.
-On the date as at which this compilation was prepared the Pawnbrokers and Second-hand Dealers Amendment Act 2006 s. 23 had not come into operation. It reads as follows:
-“
-23.Consequential amendment to Credit (Administration) Act 1984
-(1) The amendment in this section is to the Credit (Administration) Act 1984.
-(2) Section 7(1)(f) is amended after “business” by inserting —
-“ as a pawnbroker ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 4 had not come into operation. It reads as follows:
 “
 Part 4 — Credit (Administration) Act 1984 amended
