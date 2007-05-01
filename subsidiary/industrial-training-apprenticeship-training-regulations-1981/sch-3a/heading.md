@@ -18,6 +18,7 @@ Chef | 425 hours | 425 hours
 Composites Laminating | 267 hours | 218 hours | 234 hours
 Engineering Tradesperson (Fabrication) | 352 hours | 352 hours | 160 hours
 Engineering Tradesperson (Mechanical) | 352 hours | 352 hours | 160 hours
+Farrier | 350 hours | 326 hours | 280 hours
 Floorcoverer | 400 hours | 400 hours
 Furniture Maker | 320 hours | 320 hours | 160 hours
 Gardener | 332 hours | 332 hours | 332 hours
@@ -50,4 +51,4 @@ Wall and Ceiling Fixing (Housing) | 320 hours | 240 hours
 Wall and Floor Tiling (Housing) | 320 hours | 322 hours
 Wood Machinist | 320 hours | 320 hours | 160 hours
 For the purpose of this Schedule attendance for one day shall be taken to constitute attendance for 8 hours.
-[Schedule 3A inserted in Gazette 2 Nov 2001 p. 5795; amended in Gazette 12 Aug 2005 p. 3652; 18 Nov 2005 p. 5658; 4 Apr 2006 p. 1403; 26 May 2006 p. 1874-5; 29 Sep 2006 p. 4254, 4257 and 4259; 27 Oct 2006 p. 4567; 31 Jan 2007 p. 238; 30 Mar 2007 p. 1455.]
+[Schedule 3A inserted in Gazette 2 Nov 2001 p. 5795; amended in Gazette 12 Aug 2005 p. 3652; 18 Nov 2005 p. 5658; 4 Apr 2006 p. 1403; 26 May 2006 p. 1874-5; 29 Sep 2006 p. 4254, 4257 and 4259; 27 Oct 2006 p. 4567; 31 Jan 2007 p. 238; 30 Mar 2007 p. 1455; 1 May 2007 p. 1894 .]
