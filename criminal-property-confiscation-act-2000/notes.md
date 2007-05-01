@@ -10,24 +10,14 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 1: The Criminal Property Confiscation Act 2000 as at 9 Dec 2005 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Road Traffic Amendment Act 2007 s. 26 | 4 of 2007 | 11 Apr 2007 | 1 May 2007 (see s. 2 and Gazette 27 Apr 2007 p. 1831)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 25 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Road Traffic Amendment Act 2007 s. 26 | 4 of 2007 | 11 Apr 2007 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 25 had not come into operation. It reads as follows:
 “
 25.Criminal Property Confiscation Act 2000 amended
 (1) The amendment in this section is to the Criminal Property Confiscation Act 2000.
 (2) The Glossary is amended in the definition of “financial institution” by deleting paragraph (d).
-”.
-On the date as at which this compilation was prepared, the Road Traffic Amendment Act 2007 s. 26 had not come into operation. It reads as follows:
-“
-26.Criminal Property Confiscation Act 2000 amended in consequence
-(1) The amendments in this section are to the Criminal Property Confiscation Act 2000.
-(2) Section 131(1) is amended as follows:
-(a) by deleting the full stop at the end of paragraph (c) and inserting instead a semicolon;
-(b) by inserting at the end of the subsection —
-“
-(d) money that the Road Traffic Act 1974 section 80J(7)(j)(ii) requires to be paid to the credit of the account.
 ”.
