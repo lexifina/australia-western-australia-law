@@ -5,3 +5,4 @@ An Act to —
 ·repeal the Psychologists Registration Act 1976;
 ·make consequential amendments to various Acts,
 and for related purposes.
+The Parliament of Western Australia enacts as follows:
