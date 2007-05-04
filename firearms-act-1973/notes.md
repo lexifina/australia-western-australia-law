@@ -30,12 +30,12 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Firearms Amendment Act 2004 | 69 of 2004 | 8 Dec 2004 | s. 13 and 21: 8 Dec 2004 (see s. 2(3)); Act other than s. 13, 17, 21, 22(4)(a) and 26: 1 Jan 2005 (see s. 2 and Gazette 24 Dec 2004 p. 6265); s. 17: 1 Feb 2005 (see s. 2 and Gazette 24 Dec 2004 p. 6265)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 4: The Firearms Act 1973 as at 1 Jul 2005 (includes amendments listed above)
+Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 and Gazette 4 May 2007 p. 1963)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
@@ -73,22 +73,7 @@ Schedule 3 cl. 1 | Delete the definition of “CSM” and insert instead — “
 Schedule 3 | Delete “CSM” wherever it occurs and insert instead — “ Chief Magistrate ”.
 ”.
 The sections that it seeks to amend have been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 369 and 371.
-On the date as at which this compilation was prepared, the Psychologists Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-108.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 4 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 108]
-4.Firearms Act 1973 amended
-(1) The amendments in this clause are to the Firearms Act 1973.
-(2) Section 23B(3) is amended in the definition of “health professional” by deleting paragraph (b) and inserting instead —
-“
-(b)a psychologist as defined in the Psychologists Act 2005 section 3;
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 114.Consequential amendments
