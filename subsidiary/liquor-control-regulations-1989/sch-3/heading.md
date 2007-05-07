@@ -2,19 +2,19 @@
 [r. 26(1)]
 [Heading inserted in Gazette 14 Oct 2005 p. 4565.]
  | $
-1.Application for the grant or removal of a Category A licence | 2 025.00
-2.Application for the grant or removal of a Category B (other than an occasional licence) licence .......................................... | 460.00
+1.Application for the grant or removal of a hotel licence, nightclub licence, casino liquor licence, special facility licence or liquor store licence ............................................. | 2 025.00
+2.Application for the grant or removal of a club licence, restaurant licence, producer’s licence or wholesaler’s licence | 460.00
 3.Application for the transfer of a licence .................................. | 460.00
 3a.Licence fee for all licences other than a wholesaler’s licence | 145.00
 3b.Licence fee for a wholesaler’s licence ..................................... | 305.00
 4.Application for an occasional licence where the anticipated number of persons attending* is — (a)up to 250 ....................................................................... (b)between 251 and 500 .................................................... (c)between 501 and 1 000 ................................................. (d)between 1 001 and 5 000 ............................................. (e)between 5 001 and 10 000 ........................................... (f)over 10 000 ................................................................... [*See regulation 26(4) as to the anticipated number of persons attending] | 30.00 70.00 130.00 575.00 1 155.00 2 310.00
-5.Application for extended trading permit for a period of over 21 days — (a)issued for a purpose referred to in section 60(4)(ca) of the Act ........................................................................... (b)issued for a purpose referred to in section 60(4)(h) of the Act ........................................................................... (c)issued for any other purpose ......................................... | 345.00 230.00 625.00
+5.Application for extended trading permit for a period of over 21 days — (a)issued for a purpose referred to in section 60(4)(ca) .... (b)issued for a purpose referred to in section 60(4)(h) ...... (c)issued for any other purpose ......................................... | 345.00 230.00 625.00
 6.Application for extended trading permit for a period of 21 days or less (for each day, up to a maximum of $500) ....... | 60.00
 7.Application for approval of manager (other than under club restricted licence), after licence is granted ............................... | 70.00
 8.Application for approval of manager under club restricted licence, after licence is granted ................................................ | 20.00
 9.Application for approval of person in position of authority, after licence is granted ............................................................. | 80.00
 10.Application for approval for alteration or redefinition of licensed premises ..................................................................... | 285.00
-11.Application for a protection order under section 87(1) of the Act ............................................................................................ | 70.00
+11.Application for a protection order under section 87(1) ........... | 70.00
 12.Application for duplicate licence ............................................. | 30.00
 13.Application for approval of change of name of licensed premises ................................................................................... | 60.00
 14.Application to add, vary or cancel condition of licence or permit (other than club restricted licence) ............................... | 70.00
@@ -36,5 +36,6 @@
 (a)1 to 10 postcodes ........................................................... | 30.00
 (b)more than 10 postcodes ................................................. | 65.00
 30.For a full search of the licence record ...................................... | 40.00
-31.Application under section 62(6) of the Act to vary any plans or specifications the subject of a condition .............................. | 210.00
-[Schedule 3 inserted in Gazette 14 Oct 2005 p. 4565-6; amended in Gazette 14 Nov 2006 p. 4734-5.]
+31.Application under section 62(6) to vary any plans or specifications the subject of a condition .............................. | 210.00
+32.Application under section 126A for approval of entertainment for juveniles on licensed premises ............... | 55.00
+[Schedule 3 inserted in Gazette 14 Oct 2005 p. 4565-6; amended in Gazette 14 Nov 2006 p. 4734-5; 1 May 2007 p. 1888-9.]

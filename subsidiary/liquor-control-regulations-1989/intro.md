@@ -1,3 +1,3 @@
 Western Australia
-Liquor Licensing Act 1988
-Liquor Licensing Regulations 1989
+Liquor Control Act 1988
+Liquor Control Regulations 1989
