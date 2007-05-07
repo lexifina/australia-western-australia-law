@@ -228,6 +228,7 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Parliamentary Legislation Amendment Act 2006 Pt. 2 | 56 of 2006 | 16 Nov 2006 | 17 Nov 2006 (see s. 2)
  | Land Information Authority Act 2006 s. 185 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
  | Electoral Legislation Amendment Act 2006 Pt. 2 | 64 of 2006 | 8 Dec 2006 | 5 Mar 2007 (see s. 2 and Gazette 2 Mar 2007 p. 689)
+ | Liquor and Gaming Legislation Amendment Act 2006 s. 116 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
  | Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -241,7 +242,6 @@ Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be procl
 Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
-Liquor and Gaming Legislation Amendment Act 2006 s. 116 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -452,17 +452,5 @@ Schedule 3 — Consequential amendments
 (2) Schedule V Part 3 is amended by deleting the item commencing “The Nurses Board” and inserting instead —
 “
 The Nurses and Midwives Board of Western Australia established under the Nurses and Midwives Act 2006.
-”.
-”.
-Footnote no longer applicable.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 116 had not come into operation. It reads as follows:
-“
-116.Constitution Acts Amendment Act 1899 amended
-(1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 1 Division 1 is amended by deleting the item relating to the Liquor Licensing Court Judge appointed under the Liquor Act 1970.
-(3) Schedule V Part 3 is amended after the item relating to the Legislative Review and Advisory Committee by inserting —
-“
-The Liquor Commission established under the Liquor Control Act 1988.
 ”.
 ”.

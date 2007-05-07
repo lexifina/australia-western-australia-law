@@ -137,15 +137,15 @@ Criminal Code Amendment (Racial Vilification) Act 2004 | 80 of 2004 | 8 Dec 2004
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 5, s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 12: The Criminal Code Act Compilation Act 1913 as at 1 Jun 2005 (includes amendments listed above)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 11 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
-Defamation Act 2005 s. 47 | 44 of 2005 | 19 Dec 2005 | 1 Jan 2006 (see s. 2)
+Defamation Act 2005s. 47 | 44 of 2005 | 19 Dec 2005 | 1 Jan 2006 (see s. 2)
 Criminal Code Amendment (Cyber Predators) Act 2006 s. 3-6 | 3 of 2006 | 30 Mar 2006 | s. 3-5: 30 Mar 2006 (see s. 2(1)) s. 6: 7 Apr 2006 (see s. 2(2) and Gazette 7 Apr 2006 p. 1489)
 Censorship Amendment Act 2006 s.4(2) | 10 of 2006 | 8 May 2006 | 10 Jun 2006 (see s. 2 and Gazette 9 Jun 2006 p. 2029)
+Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 5 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
-Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 The Criminal Code Amendment Act (No. 2) 1996 s. 4(3) reads as follows:
@@ -250,14 +250,4 @@ Division 2 — Transitional provisions
 (4) If immediately before repeal day a warrant issued under The Criminal Code section 716 is in force but not executed, then, subject to the terms of the warrant, the warrant may be executed on or after repeal day and, if any person is found under it, then, despite section 716 and the warrant, the person must be released unless another written law provides to the contrary.
 (5) If immediately before repeal day a person is in possession of any thing seized or taken under The Criminal Code, then on repeal day, subject to any order previously made in respect of the thing under The Criminal Code section 714, the thing is to be taken to be seized property for the purposes of the Criminal and Found Property Disposal Act 2006 and that Act applies to and in respect of it accordingly.
 (6) If immediately before repeal day proceedings under The Criminal Code section 714A in respect of any property are pending in the Magistrates Court, then section 714A operates in respect of the property on and after repeal day despite its repeal on repeal day.
-”.
-On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 114 had not come into operation. It reads as follows:
-“
-114.Amendments relating to the amended title of the Liquor Licensing Act 1988
-The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Liquor Licensing Act 1988” and inserting instead —
-“ Liquor Control Act 1988 ”.
-Table
-............
-The Criminal Code | s. 206(1) (“intoxicant”)
-...........................
 ”.

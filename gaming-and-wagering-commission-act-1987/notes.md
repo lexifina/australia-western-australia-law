@@ -27,13 +27,14 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 16 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 4: The Gaming and Wagering Commission Act 1987 as at 18 Aug 2006 (includes amendments listed above)
+Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 9 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 Betting and Racing Legislation Amendment Act 2006 s. 9(2) | 70 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
-Liquor and Gaming Legislation Amendment Act 2006 Pt. 3 and s. 114 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
+Liquor and Gaming Legislation Amendment Act 2006 Pt. 3 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 Now known as the Gaming and Wagering Commission Act 1987; short title changed (see note under s. 1).
 The Acts Amendment (Continuing Lotteries) Act 2000 Pt. 4 (as amended by the Taxation Administration (Consequential Provisions) Act 2002 s. 6) reads as follows:
@@ -122,7 +123,7 @@ On the date as at which this compilation was prepared, the Betting and Racing Le
 “approval” does not include an approval under the Betting Control Act 1954 section 27D(2).
 ”.
 ”.
-On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 Pt. 3 and s. 114 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 Pt. 3 had not come into operation. It reads as follows:
 “
 Part 3 — Amendments to the Gaming and Wagering Commission Act 1987
 112.The Act amended
@@ -154,11 +155,4 @@ and
 (b) may take evidence consisting of or relating to confidential police information by way of an affidavit of a member of the Police Force of or above the rank of Superintendent.
 (6) The Commissioner of Police must not delegate the function of classifying information or documents as confidential police information except to a Deputy Commissioner of Police or an Assistant Commissioner of Police.
 ”.
-114.Amendments relating to the amended title of the Liquor Licensing Act 1988
-The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Liquor Licensing Act 1988” and inserting instead —
-“ Liquor Control Act 1988 ”.
-Table
-..............
-Gaming and Wagering Commission Act 1987 | s. 110(1) s. 110(2)
-.....................
 ”.

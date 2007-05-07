@@ -47,12 +47,12 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 8: The Betting Control Act 1954 as at 20 Oct 2006 (includes amendments listed above)
 Betting and Racing Legislation Amendment Act 2006 s. 3, 5-8 and 10 | 70 of 2006 | 13 Dec 2006 | 29 Jan 2007 (see s. 2 and Gazette 23 Jan 2007 p. 181)
+Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 Betting and Racing Legislation Amendment Act 2006 s. 4, 9, 11 and 12 | 70 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
-Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 Repealed by the Acts Amendment and Repeal (Betting) Act 1992.
 The Betting Control Amendment Act 1998 s. 5(2) and (3) read as follows:
 “
@@ -238,13 +238,4 @@ Section 28A(3) is amended by deleting “27 or 27A.” and inserting instead —
 12.Section 28B amended
 Section 28B is amended by deleting “27 or 27A — ” and inserting instead —
 “ , 27, 27A or 27B — ”.
-”.
-On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 114 had not come into operation. It reads as follows:
-“
-114.Amendments relating to the amended title of the Liquor Licensing Act 1988
-The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Liquor Licensing Act 1988” and inserting instead —
-“ Liquor Control Act 1988 ”.
-Table
-Betting Control Act 1954 | s. 26C(1)(b) s. 26C(4)
-.................................... | .........
 ”.

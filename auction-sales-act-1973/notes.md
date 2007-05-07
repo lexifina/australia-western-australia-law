@@ -14,14 +14,13 @@ Statutes (Repeals and Minor Amendments) Act 1997, section 20 | 57 of 1997 | 15 D
 Corporations (Consequential Amendments) Act 2001 Pt. 5 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and are not included in this compilation. For the text of the provisions see the endnote referred to after the short title.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Business Licensing Amendment Act 1995 Pt. 2 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
-Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
-Footnote no longer applicable.
-Repealed by the Liquor Licensing Act 1988 (No. 54 of 1988) section 176.
+2-3Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Business Licensing Amendment Act 1994 Pt. 2 had not come into operation. It reads:
 “
 Part 2 — Auction Sales Act 1973
@@ -51,13 +50,4 @@ Section 37 of the principal Act is amended —
 “
 (2) Subsections (1) and (2) of section 45 of the Interpretation Act 1984 apply in respect of fees prescribed under this Act despite sections 3(3) and 45(3) of that Act.
 ”.
-”.
-On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 115 had not come into operation. It reads as follows:
-“
-115.Amendments relating to the title of the repealed Liquor Act 1970
-The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Liquor Act 1970” and inserting instead —
-“ Liquor Control Act 1988 ”.
-Table
-Auction Sales Act 1973 | s. 33(1) s. 33(2) s. 33(3)(a) s. 33(4)
-..............
 ”.

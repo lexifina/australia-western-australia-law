@@ -14,10 +14,7 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Revenue Laws Amendment Act 2006 Pt. 4 (s. 19-30) | 31 of 2006 | 4 Jul 2006 | s. 20-27 and 29 and 30: 1 Jul 2006 (see s. 2(5)); s. 19 and 28: 4 Jul 2006 (see s. 2(1))
 Reprint 1: The Land Tax Assessment Act 2002 as at 11 Aug 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 142 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
+Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources.
@@ -145,14 +142,4 @@ Section 5 is modified by inserting before “in the State” —
 or
 (c)any body that the Parliament of the Commonwealth has given consent to the State to impose tax on or in respect of;
 ”.
-”.
-On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 114 had not come into operation. It reads as follows:
-“
-114.Amendments relating to the amended title of the Liquor Licensing Act 1988
-The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Liquor Licensing Act 1988” and inserting instead —
-“ Liquor Control Act 1988 ”.
-Table
-..................
-Land Tax Assessment Act 2002 | s. 39A(1) (“excluded purpose”, para. (b))
-........................
 ”.
