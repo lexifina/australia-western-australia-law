@@ -21,7 +21,7 @@ In this Act —
 “investigation purposes” means any or all of the purposes for which an investigation may be carried out under section 83;
 “investigator” means a person appointed under section 76;
 “licence” means a licence issued under this Act;
-“licensed premises” has the meaning given to that term in the Liquor Licensing Act 1988 section 3(1);
+“licensed premises” has the meaning given to that term in the Liquor Control Act 1988 section 3(1);
 “member” means a member of the Foundation under section 61;
 “mines amenity” means premises that are set aside as a staff amenity area at a mine as defined in the Mines Safety and Inspection Act 1994 section 4(1);
 “officer”, in relation to a body corporate, has the same meaning as in the Corporations Act 2001 of the Commonwealth but does not include an employee of the body unless the employee is concerned in the management of the body;
@@ -56,7 +56,7 @@ whether on payment of money, by virtue of membership of a club or other body, by
 whether or not the use or assistance of some electronic, electrical, mechanical, chemical or other device or process is required to recover or convey the information or meaning;
 “registered design” in relation to a tobacco product or smoking implement means a design that is registered under the Designs Act 2003 of the Commonwealth in relation to the tobacco product or smoking implement;
 “responsible person” —
-(a)in relation to licensed premises, means a licensee, as defined in the Liquor Licensing Act 1988 section 3(1), in relation to those premises;
+(a)in relation to licensed premises, means a licensee, as defined in the Liquor Control Act 1988 section 3(1), in relation to those premises;
 (b)in relation to premises that are a mines amenity, means a person having the management or control, or otherwise being in charge, of the mines amenity;
 “retailer’s licence” means a licence issued under section 36(1)(a);
 “seized thing” means a thing possession of which is taken under section 89(1)(b) or a warrant issued under section 87;
@@ -99,4 +99,4 @@ but does not include —
 “vending machine” means a device from which a tobacco product can be obtained by the inserting of money, a card or a token or similar object;
 “wholesale” means a sale, other than by way of retail, in any quantity;
 “wholesaler’s licence” means a licence issued under section 36(1)(b).
-[Glossary amended by No. 77 of 2006 s. 17.]
+[Glossary amended by No. 73 of 2006 s. 114; No. 77 of 2006 s. 17.]

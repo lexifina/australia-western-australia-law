@@ -8,11 +8,11 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 65 | 65 of 200
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 117 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 1: The Security and Related Activities (Control) Act 1996 as at 3 Jun 2005 (includes amendments listed above)
+Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 62 reads as follows:
 “
@@ -34,14 +34,4 @@ s. 71 | Repeal the section and insert the following section instead — “ 71.I
 s. 72(1) | Delete “a Court” and insert instead — “ the Court ”.
 After s. 72(1) | Insert — “ (1a)The Court, constituted by a magistrate, shall hear and determine an appeal commenced under this section. ”.
 s. 72(3) | Delete “A Court” and insert instead — “ The Court ”.
-”.
-On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 114 had not come into operation. It reads as follows:
-“
-114.Amendments relating to the amended title of the Liquor Licensing Act 1988
-The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Liquor Licensing Act 1988” and inserting instead —
-“ Liquor Control Act 1988 ”.
-Table
-............
-Security and Related Activities (Control) Act 1996 | s. 35(2)
-................................
 ”.

@@ -70,11 +70,8 @@ Sentencing Legislation Amendment and Repeal Act 2003 s. 68 | 50 of 2003 | 9 Jul 
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 8: The Government Railways Act 1904 as at 2 Sep 2005 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
- | Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
-Repealed by the Liquor Licensing Act 1988.
+Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
+Footnote no longer applicable.
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 62 is not included because the subsection it sought to amend had been replaced by the Public Transport Authority Act 2003 s. 137(1) before the amendment purported to come into operation.
 The Second Schedule was inserted by the Limitation Act Amendment Act 1954 s. 8.
 The Government Railways Act Amendment Act 1957 s. 11 and 12 are validation and savings provisions that are of no further effect.
@@ -90,7 +87,7 @@ and, for the purpose of giving effect to paragraph (a), that section shall be co
 (d) a reference in that section to the by-laws relating to the fund mentioned in that subsection had been a reference to the rules of the new fund; and
 (e) a reference in that section to the committee of management of the fund mentioned in that subsection had been a reference to the company.
 (2) In this section, unless the contrary intention appears —
-“the transfer date” means 2 February 1990, being the date of the publication in the Gazette of the orders made under section 34 of the Associations Incorporation Act 1987 transferring to the company the undertakings of Western Australian Government Railways Employees’ Endowment Fund Incorporated and Western Australian Government Railways Employees’ Provident Fund Incorporated; and
+the transfer date means 2 February 1990, being the date of the publication in the Gazette of the orders made under section 34 of the Associations Incorporation Act 1987 transferring to the company the undertakings of Western Australian Government Railways Employees’ Endowment Fund Incorporated and Western Australian Government Railways Employees’ Provident Fund Incorporated; and
 expressions used in section 76 of the principal Act (as substituted by section 6 of this Act) that are used in this section have the same respective meanings as they have in that section.
 ”.
 The Government Railways Amendment Act 1990 s. 15 is a transitional provision that is of no further effect.
@@ -105,18 +102,18 @@ Part 7 — Transitional matters
 Division 2 — Transition from former Government Railways Act 1904 bodies to Authority
 79.Terms used in this Division
 In this Division, unless the contrary intention appears —
-“asset” means property of any kind belonging, immediately before the commencement time, to a former body, whether tangible, intangible, real, or personal and, without limiting that meaning, includes —
+asset means property of any kind belonging, immediately before the commencement time, to a former body, whether tangible, intangible, real, or personal and, without limiting that meaning, includes —
 (a)any chose in action or goodwill; or
 (b)any right, interest, or claim of any kind,
 whether arising from, accruing under, created or evidenced by or the subject of, an instrument or otherwise and whether liquidated or unliquidated, actual, contingent or prospective;
-“commencement time” means the time when this Division comes into operation;
-“former body” means the Minister for Western Australian Government Railways or The Western Australian Government Railways Commission;
-“liability” means any liability, duty or obligation that, immediately before the commencement time, a former body had —
+commencement time means the time when this Division comes into operation;
+former body means the Minister for Western Australian Government Railways or The Western Australian Government Railways Commission;
+liability means any liability, duty or obligation that, immediately before the commencement time, a former body had —
 (a)whether actual, contingent or prospective, liquidated or unliquidated; or
 (b)whether owed alone or jointly or jointly and severally with any other person;
-“Minister for Western Australian Government Railways” means the former body corporate named Minister for Western Australian Government Railways established under the Government Railways Act 1904 section 4;
-“right” means any right, power, privilege or immunity that, immediately before the commencement time, a former body had whether actual, contingent or prospective;
-“The Western Australian Government Railways Commission” means the former body corporate named The Western Australian Government Railways Commission constituted under the Government Railways Act 1904 section 8.
+Minister for Western Australian Government Railways means the former body corporate named Minister for Western Australian Government Railways established under the Government Railways Act 1904 section 4;
+right means any right, power, privilege or immunity that, immediately before the commencement time, a former body had whether actual, contingent or prospective;
+The Western Australian Government Railways Commission means the former body corporate named The Western Australian Government Railways Commission constituted under the Government Railways Act 1904 section 8.
 80.Authority is successor of former bodies
 At the commencement time, the body corporate under the name “Minister for Western Australian Government Railways” and the body corporate under the name “The Western Australian Government Railways Commission” are each succeeded by the Authority.
 81.Transitional provisions
@@ -140,13 +137,13 @@ At the commencement time, the body corporate under the name “Minister for West
 (1) The Authority is to cause to be delivered to each relevant official a schedule, in a form acceptable to the relevant official, of the information that the relevant official needs in order to register changes effected by this Division.
 (2) The relevant officials are to take notice of this Division and are to record and register in the appropriate manner the documents necessary to show the effect of this Division.
 (3) In this section —
-“relevant official” means —
+relevant official means —
 (a)the Registrar of Titles;
 (b)the Registrar of Deeds;
 (c)the Minister administering the Mining Act 1978; or
 (d)any other person authorised by a written law to record and give effect to the registration of documents relating to property transactions,
 according to which, if any, of them has responsibility for a register relating to the relevant property;
-“relevant property” means property of a kind affected by this Division, whether it is an estate or interest in land or any other property.
+relevant property means property of a kind affected by this Division, whether it is an estate or interest in land or any other property.
 84.By-laws under Government Railways Act 1904 section 23 continue
 By-laws that, immediately before the commencement time, are in force under the Government Railways Act 1904 section 23 continue under that section as if they had been made by the Authority.
 85.References in written laws to former bodies
@@ -155,7 +152,7 @@ By-laws that, immediately before the commencement time, are in force under the G
 Division 5 — State tax implications of transitions
 92.Exemption from State tax
 (1) In this section —
-“State tax” includes stamp duty chargeable under the Stamp Act 1921 and any other tax, duty, fee, levy or charge, under a law of the State.
+State tax includes stamp duty chargeable under the Stamp Act 1921 and any other tax, duty, fee, levy or charge, under a law of the State.
 (2) State tax is not payable in relation to —
 (a) anything that occurs by operation of this Part; or
 (b) anything done (including a transaction entered into or an instrument or document of any kind made, executed, lodged or given) under this Part, or to give effect to this Part, or for a purpose connected with or arising out of, giving effect to this Part.
@@ -163,7 +160,7 @@ Division 6 — Other provisions
 93.Certain contributions by former body suffice
 An obligation imposed by the Agriculture Protection Board Act 1950 section 11 on the Public Transport Authority of Western Australia to contribute in respect of a year is satisfied to the extent that The Western Australian Government Railways Commission had, before section 140 commenced, already made a contribution in respect of that year under that section.
 94.Tourist railways
-If, immediately before the commencement of section 123, an order was in force under the Government Railways Act 1904 section 66A (the “former order”) authorising a person to occupy land for a tourist railway, the land is to be regarded as having been —
+If, immediately before the commencement of section 123, an order was in force under the Government Railways Act 1904 section 66A (the former order) authorising a person to occupy land for a tourist railway, the land is to be regarded as having been —
 (a) reserved under the Land Administration Act 1997 section 41 for the purposes of operating a tourist railway; and
 (b) placed under the care, control, and management of that person for the purposes described in paragraph (a) by an order under the Land Administration Act 1997 section 46 containing the same conditions as applied under the former order.
 95.Saving
@@ -174,14 +171,5 @@ The operation of a provision of this Part is not to be regarded as —
 (d) causing any contract or instrument to be void or otherwise unenforceable; or
 (e) releasing, or allowing the release of, any surety.
 ”.
-On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 115 had not come into operation. It reads as follows:
-“
-115.Amendments relating to the title of the repealed Liquor Act 1970
-The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Liquor Act 1970” and inserting instead —
-“ Liquor Control Act 1988 ”.
-Table
-...................
-Government Railways Act 1904 | s. 2 (“liquor”)
-....................
-”.
+Footnote no longer applicable.
 Office of Titles plans are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).

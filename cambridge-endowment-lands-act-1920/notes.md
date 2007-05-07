@@ -14,10 +14,7 @@ City of Perth Restructuring Act 1993 Pt. 5 | 38 of 1993 | 20 Dec 1993 | 1 Jul 19
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see section 2)
 Statutes (Repeals and Minor Amendments) Act 1997 s. 27 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see section 2(1))
 Perry Lakes Redevelopment Act 2005 Pt. 6 | 43 of 2005 | 19 Dec 2005 | 19 Dec 2005 (see s. 2(1))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
+Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Repealed by the Housing Act 1946 which was repealed by the Housing Act 1980 (No. 58 of 1980).
 Sections 23 and 24 of the City of Perth Restructuring Act 1993 (No. 38 of 1993) read as follows —
 “
@@ -28,14 +25,4 @@ By-laws made under the Endowment Act and in force immediately before division da
 (2) On division day, all land within the said lands (as defined in the Endowment Act) which immediately before division day is owned by or vested in the City of Perth and which is not contracted to be sold, is transferred to and becomes the property of or vested in (as the case may be) the Town of Cambridge.
 (3) On division day, Reserve ↑16921 is vested in the Town of Cambridge.
 (4) The Town of Cambridge is not liable to indemnify the City of Perth for any expenses incurred before division day in connection with land transferred under subsections (2) and (3).
-”.
-On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 114 had not come into operation. It reads as follows:
-“
-114.Amendments relating to the amended title of the Liquor Licensing Act 1988
-The Acts listed in the first column of the Table to this section are amended in the corresponding provisions listed in the second column by deleting “Liquor Licensing Act 1988” and inserting instead —
-“ Liquor Control Act 1988 ”.
-Table
-.................
-Cambridge Endowment Lands Act 1920 | s. 45
-......................
 ”.
