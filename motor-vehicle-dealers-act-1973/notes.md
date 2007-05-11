@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Motor Vehicle Dealers Act 1973 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 May 2007 of the Motor Vehicle Dealers Act 1973 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Dealers Act 1973 | 101 of 1973 | 28 Dec 1973 | s. 1-3 and 5-13: 15 Feb 1974 (see s. 2 and Gazette 15 Feb 1974 p. 375); s. 14-24, 30, 50 and 56: 5 Apr 1974 (see s. 2 and Gazette 5 Apr 1974 p. 1180); balance, except s. 40: 12 Aug 1974 (see s. 2 and Gazette 9 Aug 1974 p. 2935)
@@ -21,8 +21,8 @@ Industrial Relations Legislation Amendment and Repeal Act 1995 s. 68(4) | 79 of 
 Reprint of the Motor Vehicle Dealers Act 1973 as at 14 Nov 1996 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 1997 s. 39(10) and 90 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 53 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
-Motor Vehicle Dealers Amendment Act 2002 | 4 of 2002 | 4 Jun 2002 | 1 Sep 2002 (see s. 2 and Gazette 13 Aug 2002 p. 4151)
-Motor Vehicle Dealers Amendment Act 2003 | 73 of 2003 | 15 Dec 2003 | Act other than s. 19-21: 22 Dec 2004 (see s. 2 and Gazette 21 Dec 2004 p. 6133); s. 19: 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
+Motor Vehicle Dealers Amendment Act 2002 | 4 of 2002 | 4 Jun 2002 | s. 1 and 2: 4 Jun 2002; Act other than s. 1 and 2: 1 Sep 2002 (see s. 2 and Gazette 13 Aug 2002 p. 4151)
+Motor Vehicle Dealers Amendment Act 2003 | 73 of 2003 | 15 Dec 2003 | s. 1 and 2: 15 Dec 2003; Act other than s. 1, 2 and 19-21: 22 Dec 2004 (see s. 2 and Gazette 21 Dec 2004 p. 6133); s. 19: 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 86 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
@@ -30,13 +30,13 @@ Reprint 4: The Motor Vehicle Dealers Act 1973 as at 17 Jun 2005 (includes amendm
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 15 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 5: The Motor Vehicle Dealers Act 1973 as at 11 May 2007 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 | 73 of 2003 | 15 Dec 2003 | To be proclaimed (see s. 2)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 7 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
-Footnote no longer applicable.
 The Motor Vehicle Dealers Act 1973 s. 40 did not come into operation and was repealed by the Motor Vehicle Dealers Amendment Act 2002 s. 62.
 The Business Licensing Amendment Act 1995 s. 38 is a transitional provision that is of no further effect.
 The Motor Vehicle Dealers Amendment Act 2002 Pt. 7 reads as follows:
@@ -103,7 +103,51 @@ The persons who were members of the Motor Vehicle Dealers Licensing Board immedi
 (3) On and after the commencement of this Act a reference to the “Motor Vehicle Dealers Licensing Board” in any instrument (including any subsidiary legislation) is to be construed, unless the context otherwise requires, as if the reference had been amended to be a reference to the “Motor Vehicle Industry Board”.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 had not come into operation. They read as follows:
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
+“
+Division 23 — Transitional provisions
+151.Commissioner for Fair Trading
+(1) On commencement, the person holding the office of Commissioner for Fair Trading immediately before commencement is to be taken to have been designated as the Commissioner or Registrar (as the case requires) for the purposes of each of the following enactments —
+(a) the Associations Incorporation Act 1987;
+(b) the Business Names Act 1962;
+(c) the Chattel Securities Act 1987;
+(d) the Companies (Co-operative) Act 1943;
+(e) Part 8 of the Competition Policy Reform (Western Australia) Act 1996;
+(f) the Consumer Affairs Act 1971;
+(g) the Co-operative and Provident Societies Act 1903;
+(h) the Credit Act 1984;
+(i) the Credit (Administration) Act 1984;
+(j) the Employment Agents Act 1976;
+(k) the Hire-Purchase Act 1959;
+(l) the Limited Partnerships Act 1909;
+(m) the Motor Vehicle Dealers Act 1973;
+(n) the Petroleum Products Pricing Act 1983;
+(o) the Petroleum Retailers Rights and Liabilities Act 1982;
+(p) the Residential Tenancies Act 1987;
+(q) the Retirement Villages Act 1992;
+(r) the Travel Agents Act 1985.
+(2) A thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading (including in his or her capacity as the Prices Commissioner) before commencement under a provision of the Consumer Affairs Act 1971 for the purposes of another enactment listed in subsection (1) has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted —
+(a) by, to or in relation to, the Commissioner or Registrar (as the case requires) as defined in that other enactment as in force after commencement; and
+(b) where relevant, under the corresponding provision of that other enactment as in force after commencement.
+(3) To the extent that a thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading (including in his or her capacity as the Prices Commissioner) before commencement under, or for the purposes of, an enactment listed in subsection (1) is not covered by subsection (2), it has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the Commissioner or Registrar (as the case requires) as defined in that enactment as in force after commencement.
+(4) A thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading before commencement under, or for the purposes of, an enactment not listed in subsection (1) has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the Commissioner as defined in the Consumer Affairs Act 1971 as in force after commencement.
+(5) A reference in an enactment to the Commissioner for Fair Trading is to have effect after commencement as if it had been amended to be a reference to —
+(a) in the case of an enactment listed in subsection (1) or subsidiary legislation made under such an enactment — the Commissioner or Registrar (as the case requires) as defined in the enactment as in force after commencement; or
+(b) in the case of any other enactment or subsidiary legislation — the Commissioner as defined in the Consumer Affairs Act 1971 as in force after commencement.
+152.Commissioner for Corporate Affairs and Registrar of Co-operative and Financial Institutions
+(1) A thing done or omitted to be done by, to or in relation to, the Commissioner for Corporate Affairs before commencement under, or for the purposes of, the Companies (Co-operative) Act 1943 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
+(2) A thing done or omitted to be done by, to or in relation to, the Registrar of Co-operative and Financial Institutions before commencement under, or for the purposes of, the Co-operative and Provident Societies Act 1903 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
+153.Consumer Affairs Act 1971
+Each office in existence immediately before commencement because of section 15(1) of the Consumer Affairs Act 1971 does not cease merely because that subsection is repealed by this Act.
+154.Petroleum Products Pricing Act 1983
+Each office in existence immediately before commencement because of section 5(2)(b) of the Petroleum Products Pricing Act 1983 does not cease merely because that paragraph is deleted by this Act.
+155.Interpretation
+In this Division —
+“commencement” means the time at which this Division comes into operation;
+“Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
+“Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+”.
+On the date as at which this reprint was prepared, the Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 had not come into operation. They read as follows:
 “
 20.Part III Division 5 Subdivision 1 heading inserted
 Before section 36 the following heading is inserted —
@@ -151,51 +195,7 @@ A person must not, in relation to a request under section 39B(1), or any attempt
 Penalty: $5 000.
 ”.
 ”.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
-“
-Division 23 — Transitional provisions
-151.Commissioner for Fair Trading
-(1) On commencement, the person holding the office of Commissioner for Fair Trading immediately before commencement is to be taken to have been designated as the Commissioner or Registrar (as the case requires) for the purposes of each of the following enactments —
-(a) the Associations Incorporation Act 1987;
-(b) the Business Names Act 1962;
-(c) the Chattel Securities Act 1987;
-(d) the Companies (Co-operative) Act 1943;
-(e) Part 8 of the Competition Policy Reform (Western Australia) Act 1996;
-(f) the Consumer Affairs Act 1971;
-(g) the Co-operative and Provident Societies Act 1903;
-(h) the Credit Act 1984;
-(i) the Credit (Administration) Act 1984;
-(j) the Employment Agents Act 1976;
-(k) the Hire-Purchase Act 1959;
-(l) the Limited Partnerships Act 1909;
-(m) the Motor Vehicle Dealers Act 1973;
-(n) the Petroleum Products Pricing Act 1983;
-(o) the Petroleum Retailers Rights and Liabilities Act 1982;
-(p) the Residential Tenancies Act 1987;
-(q) the Retirement Villages Act 1992;
-(r) the Travel Agents Act 1985.
-(2) A thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading (including in his or her capacity as the Prices Commissioner) before commencement under a provision of the Consumer Affairs Act 1971 for the purposes of another enactment listed in subsection (1) has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted —
-(a) by, to or in relation to, the Commissioner or Registrar (as the case requires) as defined in that other enactment as in force after commencement; and
-(b) where relevant, under the corresponding provision of that other enactment as in force after commencement.
-(3) To the extent that a thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading (including in his or her capacity as the Prices Commissioner) before commencement under, or for the purposes of, an enactment listed in subsection (1) is not covered by subsection (2), it has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the Commissioner or Registrar (as the case requires) as defined in that enactment as in force after commencement.
-(4) A thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading before commencement under, or for the purposes of, an enactment not listed in subsection (1) has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the Commissioner as defined in the Consumer Affairs Act 1971 as in force after commencement.
-(5) A reference in an enactment to the Commissioner for Fair Trading is to have effect after commencement as if it had been amended to be a reference to —
-(a) in the case of an enactment listed in subsection (1) or subsidiary legislation made under such an enactment — the Commissioner or Registrar (as the case requires) as defined in the enactment as in force after commencement; or
-(b) in the case of any other enactment or subsidiary legislation — the Commissioner as defined in the Consumer Affairs Act 1971 as in force after commencement.
-152.Commissioner for Corporate Affairs and Registrar of Co-operative and Financial Institutions
-(1) A thing done or omitted to be done by, to or in relation to, the Commissioner for Corporate Affairs before commencement under, or for the purposes of, the Companies (Co-operative) Act 1943 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
-(2) A thing done or omitted to be done by, to or in relation to, the Registrar of Co-operative and Financial Institutions before commencement under, or for the purposes of, the Co-operative and Provident Societies Act 1903 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
-153.Consumer Affairs Act 1971
-Each office in existence immediately before commencement because of section 15(1) of the Consumer Affairs Act 1971 does not cease merely because that subsection is repealed by this Act.
-154.Petroleum Products Pricing Act 1983
-Each office in existence immediately before commencement because of section 5(2)(b) of the Petroleum Products Pricing Act 1983 does not cease merely because that paragraph is deleted by this Act.
-155.Interpretation
-In this Division —
-“commencement” means the time at which this Division comes into operation;
-“Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
-“Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
-”.
-On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 7 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 7 had not come into operation. It reads as follows:
 “
 Part 7 — Motor Vehicle Dealers Act 1973 amended
 24.The Act amended
