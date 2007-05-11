@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 May 2006 of the Retail Trading Hours Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Retail Trading Hours Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Retail Trading Hours Regulations 1988 | 12 Aug 1988 p. 2756-60 | 1 Sep 1988 (see r. 2 and Gazette 12 Aug 1988 p. 2695)
@@ -22,5 +22,6 @@ Retail Trading Hours Amendment Regulations (No. 2) 2001 | 3 Jul 2001 p. 3281-2 |
 Retail Trading Hours Amendment Regulations 2004 | 13 Feb 2004 p. 537-8 | 13 Feb 2004
 Retail Trading Hours Amendment Regulations (No. 2) 2004 | 20 Apr 2004 p. 1297-8 | 20 Apr 2004
 Reprint 2: The Retail Trading Hours Regulations 1988 as at 5 May 2006 (includes amendments listed above)
+Retail Trading Hours Amendment Regulations 2007 | 11 May 2007 p. 2027-31 | 11 May 2007 (see r. 2 and Gazette 11 May 2007 p. 2017)
 Formerly referred to the Third Schedule of the Metropolitan Region Town Planning Scheme Act 1959. Under the Reprints Act 1984 s. 7(3)(g)(i) the current reference was substituted for the former one.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
