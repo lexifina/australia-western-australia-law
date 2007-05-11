@@ -6,7 +6,8 @@ FORM OF ELECTORAL ROLL
 Roll of electors for the .............................................................................. District and that part of the ..................................................................................... Region in that District.
 SurnameChristian orResidenceOccupation*Sex*
 given names
-[* This column may be omitted when rolls are printed under section 24 of the Act, made available under section 25 of the Act, provided under section 25A of the Act or supplied under section 112 of the Act or when information on or derived from rolls is made available under section 25 or provided under section 25A.]
+[* This column may be omitted when rolls are printed under section 24 of the Act, made available under section 25 of the Act or supplied under section 112 of the Act or when information on rolls or other information relating to electors is provided or made available under section 25B or 25C of the Act.]
+[Form 1 amended in Gazette 11 May 2007 p. 1997.]
 Form 2
 Western Australia
 Electoral Act 1907 (s.42)
@@ -150,10 +151,11 @@ Please do not show my address on the electoral roll
 7 | DATE OF BIRTH ...................................... | Day Month Year
 8 | I REQUEST THAT MY ADDRESS .......... (Please tick the appropriate box) NOTE: A statutory declaration must be completed attesting to the existence of the risk(s) claimed and forwarded with this application. That declaration may be made by the elector or some other person able to attest to the facts. | (a) onot be entered on the electoral roll. An Electoral Enrolment Form claiming enrolment for my address is attached; OR (b) obe removed from the electoral roll.
  | Having my address shown on the electoral roll places the personal safety of myself or members of my family at personal risk.
-9 | I ALSO REQUEST THAT MY NAME BE OMITTED WHEN THE ROLL OR INFORMATION ON THE ROLL IS MADE AVAILABLE FOR INSPECTION OR PURCHASE BY THE PUBLIC UNDER SECTION 25 OF THE ACT (Tick the box if required) | o
+9 | I ALSO REQUEST THAT MY NAME BE OMITTED WHEN THE ROLL IS MADE AVAILABLE UNDER SECTION 25 OR 25B OF THE ACT (Tick the box if required) | o
 10 0 | I ALSO APPLY TO BE REGISTERED AS A GENERAL EARLY VOTER UNDER SECTION 93 OF THE ACT (Tick the box if required) | o
  | ..................................................................... Signature or mark of applicant (Not required if applicant makes the declaration below. Please ensure that the declaration is made before this application is sent to the Electoral Commissioner)
 Statutory declaration as to risk I solemnly and sincerely declare that the risk referred to in 8 above is as follows: ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ And I make this declaration by virtue of section 106 of the Evidence Act 1906. ................................................................ Signature of declarant Declared at .................................................................................................... this ..................... day of .............................................................................................................before me ................................................................... Commissioner for Declarations Justice of the Peace Police Officer or other person authorised by the Declarations and Attestations Act 1913
+[Form 10 amended in Gazette 11 May 2007 p. 1998.]
 Form 11
 Western Australia
 Electoral Act 1907 (s.56(a))
@@ -171,31 +173,7 @@ Late occupation.................................................................
 Registrar General
 ___________________
 [Forms 12 and 13 deleted]
-Form 14
-Western Australia
-Electoral Act 1907 (s.59(a))
-PERSONS OF THE KIND REFERRED TO IN
-SECTION 18(c)(i)-(vi) DETAINED IN CUSTODY
-To the Electoral Commissioner
-List of persons of the age of 17 years or over who are attainted of treason, are under sentence or sentences of imprisonment of or totalling one year or longer, or are subject to an order, direction or sentence, as the case may be, to be detained or kept in my custody under section 19(6a), 631, 652, 653, 693(4), 661 or 662 of The Criminal Code and received by me during the 3 months ended ......................................................................................................................
-Surname | Christian or Given Names | Date of Birth | Sex | Address Occupation Immediately Prior to Admission
-..........................................................................................................................
-Date Chief Executive Officer,
-Ministry of Justice
-Form 15
-Western Australia
-Electoral Act 1907 (s.59(b))
-LIST OF NAMES OF MENTALLY IMPAIRED DEFENDANTS
-To the Electoral Commissioner
-Western Australian Electoral Commission
-In accordance with the requirements of section 59(b) of the Electoral Act 1907 the following is a list of persons who became mentally impaired defendants (as defined in part 5 of the Criminal Law (Mentally Impaired Defendants) Act 1996) during the 3 months ended on the ............./............/.............
-Date Became Mentally Impaired Defendant | Particulars of Persons
-Full Name | Date of Birth | Sex | Former Address | Former Occupation
-Dated this ........................ day of ...........................................................................
-..............................................................................
-Secretary
-Mentally Impaired Defendants
-Review Board
+[Forms 14 and 15 deleted in Gazette 11 May 2007 p. 1998.]
 Form 16
 Western Australia
 Electoral Act 1907 (ss.64(1) and 69)
@@ -573,24 +551,15 @@ ISSUING OFFICER
 .........................................................
 DATE
 Form 28
-Front of ballot paper envelope flap: ................................................................................................................................
- | Authorised witness to complete |  | You MUST fill in your name, address and sign this certificate
- | FULL NAME |  |  | EARLY VOTE – DECLARATION OF ELECTOR Electoral Act 1907 (s.90(4)(c) and (4b)(a), s.92)
-If you need assistance you may appoint an elector to fill in this form and mark the ballot paper. He or she must complete the section overleaf.
- | ADDRESS |  |  | FULL NAME
-ADDRESS AS ENROLLED
- | SIGNATURE OF WITNESS: |  | Signed before me on / / |  | DATE OF BIRTH | / /
- | An authorised witness may be anyone over the age of 18 years and must not be a candidate in this election. The person need not be on a Western Australian electoral roll. |  | I declare that — ·I am the elector on whose application this ballot paper(s) was issued for the election on Saturday / / ; ·I am entitled to apply for an early ballot paper(s); ·I have not already voted at that election; and ·I live at, or have, within the 3 months prior to election day, lived at the above enrolled address.
-SIGNATURE OF ELECTOR | DATE / /
-If the elector is able to sign the Declaration of Elector but is unable to vote without assistance, and no other elector is appointed as an assistant, the elector may request the authorised witness to mark the ballot paper(s) on his/her behalf.
-Reverse of ballot paper envelope flap:
-.................................................................................................................................................................................
-Where an elector requires assistance (and the assistant is not the authorised witness), assistant to complete this section
-I have been appointed by the elector to mark the ballot paper or papers on his/her behalf.
-NAME OF ASSISTANT
-ADDRESS OF ASSISTANT
-SIGNATURE OF ASSISTANT
-An assistant must not be a candidate in this election and must be on a Western Australian electoral roll.
+Western Australia
+Electoral Act 1907 (s. 90(4)(c) and (4c)(b))
+DECLARATION FOR EARLY VOTE
+Electoral District of:
+Please use BLOCK LETTERS when completing this form.
+ELECTOR to complete. Family name:Given name: Address as enrolled: Date of birth:Former family name: To the Electoral Commissioner, I declare that: ·I am the elector who applied for and was issued the enclosed ballot paper(s) for the election on Saturday ...../...../.....; and ·I live at, or within the previous 3 months have lived at, the above enrolled address; and ·I have not already voted at this election. Elector to sign: ....................................
+If you need assistance you may appoint a person, other than a candidate in this election, to fill in this form and mark the ballot paper(s). The person must complete the following section. ASSISTANT to complete. Family name:Given name: Address: I have been appointed by the elector to mark the enclosed ballot paper(s) and I have marked the ballot paper(s) in the way he/she has instructed. Assistant to sign:Date:
+AUTHORISED WITNESS to complete. A witness must be more than 18 years of age and must not be a candidate in this election. Family name:Given name: Address: Witness to sign:Date:
+[Form 28 inserted in Gazette 11 May 2007 p. 1998.]
 Form 29
 Western Australia
 Electoral Act 1907 (s.92(6))
@@ -607,41 +576,17 @@ Declared before me on ..........................................................
 at ....................................... polling place in the .................................. District.
 ..................................................................
 Signature of presiding officer
-Form 30
-Western Australia
-Electoral Act 1907 (s.99A)
-[Regulation 14(b)(i)]
- |  | DECLARATION OF ABSENT VOTER
- | Electoral District of
- | TO THE ELECTORAL COMMISSIONER I declare that I am the person enrolled as —
- | Surname
- | Christian or Given Names
- | Address (as enrolled, or as claimed to be enrolled)
- | Date of Birth | / /
- | Former Surname or Family Name
- | for the above electoral district and that I live at, or have, within the 3 months prior to election day, lived at the above enrolled address and am qualified to vote for that district.
- | Signature of Elector
- | Signature of (Asst.) Pres. Officer
- | at Polling Place
- | Date | / /
+[Form 30 deleted in Gazette 11 May 2007 p. 1998.]
 Form 31
 Western Australia
-Electoral Act 1907 (ss.119(4), 122(1), 122A)
-[Regulation 15(a)(i)]
- |  | DECLARATION OF PROVISIONAL VOTER
- | Electoral District of
- | TO THE ELECTORAL COMMISSIONER
-I | Surname
- | Former Surname or Family Name
- | Christian or Given Names
-of | Address (as enrolled, or as claimed to be enrolled)
- | Date of Birth | / /
- | Declare that I have claimed to be enrolled and am entitled to be on the roll and to vote for the above electoral district and that I live at, or have, within the 3 months prior to election day, lived at the above address and accordingly claim a vote pursuant to —
-TICK APPLICABLE BOX oSECTION 122A — Name not on roll oSECTION 122A — Name marked off in error, etc oSECTION 122(2) — Marked for objection — 47(3)(g) oSECTION 119(4) — Objection by a Scrutineer — On the grounds that: ...........................................................................................................
- | Signature of Claimant
- | Signature of Presiding Officer
- | Polling Place
- | Date | / /
+Electoral Act 1907 (s. 99A, 119(4), 122(1), 122A)
+[r. 14(b)(i), 15(a)(i)]
+DECLARATION FOR: ABSENT VOTE; PROVISIONAL VOTE.
+Electoral District of:
+Please use BLOCK LETTERS when completing this form.
+ELECTOR to complete. Family name:Given name: Address as enrolled: Date of birth:Former family name: To the Electoral Commissioner, I declare that: ·I live at, or within the previous 3 months have lived at, the above enrolled address; and ·I enrolled to vote before close of the roll for this election; and ·I have not already voted at this election. Elector to sign: ....................................
+Presiding Officer/Assistant Presiding Officer/Poll Clerk to complete. Polling place at which vote claimed: Presiding officer to sign:Date:
+[Form 31 inserted in Gazette 11 May 2007 p. 1999.]
 Form 32 Western Australia Electoral Act 1907 (s.150) STATISTICAL RETURN .............................................(District (or Region)) ...........................................(Date of election) | Total Votes |  |  |  |  | I certify that this return is correct. ................................................... Signature of Returning Officer [This return may be made in a written or electronic form.] ................................................... Date [This return may be made in a written or electronic form.]
 Ballot papers rejected as informal
 Total Valid Votes
@@ -653,67 +598,60 @@ Candidate
 Polling Places | Remote areas | Special Institutions and hospitals | Total: Ordinary Votes Postal Votes Absent Votes Provisional Votes | Total
 Form 33
 Western Australia
-Electoral Act 1907 (s.156(6) and (9))
-APPARENT FAILURE TO VOTE — (1) PENALTY NOTICE
-Name and address of elector: | Electoral district:
+Electoral Act 1907 (s. 156(6))
+APPARENT FAILURE TO VOTE — PENALTY NOTICE
+[insert name and address of elector]
 Dear elector
-It appears from the Electoral Commission’s records that you did not vote at the State election held on .............................................................
-The law requires that all electors must vote at State elections. An elector who fails to vote commits an offence unless he or she has a valid and sufficient reason for not voting (such as being out of the State or being seriously ill or injured so as to be unable to go to a polling place).
-To resolve this matter please complete the form on the back of this notice and return it to the Electoral Commission in the enclosed envelope before........................................................................................
-If you do not return this form by that date you may be prosecuted in court or the matter may be referred to the Fines Enforcement Registry — which may lead to your driver’s licence or vehicle licence being cancelled.
-If you did vote you should fill in Part A of the form.
-If you have a valid and sufficient reason for having not voted you should fill in Part B of the form.
-If you did not vote and you do not have a valid and sufficient reason you may pay a modified penalty of $20(2) and that will be the end of the matter. To do this you should fill in Part C — of the form and send your payment with the form. If you do not pay the modified penalty you may be prosecuted in court or the matter may be referred to the Fines Enforcement Registry — which may lead to your driver’s licence or vehicle licence being cancelled.
-This matter cannot be settled by telephone. If you have any more information you wish to give to the Electoral Commission you must put it in writing and send it with this form. You may attach more pages if you need to.
-If you (the elector) are unable to fill in this form because your are away from home or are physically incapacitated, another elector may fill it in for you, as long as that other elector has personal knowledge of the facts.
-........................................................... ..............................................................
-Electoral Commissioner Date
+It appears from the Western Australian Electoral Commission’s records that you did not vote at the State election held on [insert election date].
+The Electoral Act 1907 section 156 requires every elector to vote at a State election unless the elector has a valid and sufficient reason for not voting.
+If you did vote at the State election please tell us where or how you voted. Do this by completing Part A of Section 1 on the reverse of this notice.
+If you did not vote at the State election and you believe you have a valid and sufficient reason for not voting, please tell us your reason. Do this by completing Part B of Section 1 on the reverse of this notice. If your reason is accepted, you will not need to pay a penalty. If your reason is not accepted, we will tell you and you will need to pay a penalty of [insert amount of penalty].
+If you did not vote at the State election and you do not have a valid and sufficient reason for not voting and you wish to finalise this matter, please pay the penalty of [insert amount of penalty]. Do this in one of the ways described in Section 2 on the reverse of this notice.
+You must either complete and return this notice or pay the penalty before the following date. If you do not, this matter may be dealt with in court or referred to the Fines Enforcement Registry.
+Due date for return of notice or payment of penalty: [insert date]
+If you are away from home or physically incapacitated at the time this notice is delivered then you may direct another person to either complete and return this notice on your behalf or pay the penalty on your behalf.
+This matter cannot be settled by telephone. However if you have any questions about how to deal with this notice please contact the Western Australian Electoral Commission by telephoning [insert telephone numbers].
+Thank you for your cooperation.
+Electoral Commissioner Date: [insert date]
 [Back of Form 33]
-APPARENT FAILURE TO VOTE — (1) PENALTY NOTICE
-Please print your details on this form and tick the appropriate boxes.
-Elector’s details
-Full name:
-Residential address: | Daytime phone number [if convenient] ( )
-Fill in Part A OR Part B OR Part C
-Part A | I did vote at the State election. I voted: oat .......................................................................................... (name of polling place) or oby lodging a postal vote
-Part B | I had a valid and sufficient reason for not voting. I did not vote because:............................................................................ ................................................................................................................. .................................................................................................................
-Part C | I did not vote at the State election and I wish to pay the modified penalty of $20(2) to put an end to this matter. Method of payment: ocash[if paying in cash please deliver this form to the Electoral Commission in person. Do not send cash through the post] or ocheque or money order made payable to the WA Electoral Commission or oby credit card Type of card:............................................ Card number:............................................ Expiry date:............................................ Signature:............................................ [Note: Payment of this penalty fully discharges any liability in relation to your apparent failure to vote. However if your cheque or credit card payment is dishonoured, you will be treated as if you had not paid.]
-Signature: | Date:
-If you have completed this form on behalf of the elector, please print your full name and daytime telephone number. Name: Phone: ( )
-Making a false or misleading statement in this form is an offence.
-Notes
-(1)In a notice under section 156(9) of the Act insert “SECOND”.
-(2)If this is the elector’s second or subsequent offence replace with “$50”.
+The address for which you are enrolled is: [insert address] Please provide your current residential address if different from the above address:
+SECTION 1
+·Unless you choose to pay the penalty amount in one of the ways described in Section 2, complete this section and return this notice to the Western Australian Electoral Commission by posting it in the reply paid envelope provided or by delivering it to [insert address]. ·Complete either Part A or Part B but not both. ·Making a false or misleading statement on this notice is an offence.
+Part A | If you did vote, complete this Part by ticking the appropriate box and completing the required details.
+ | I voted: oby ordinary vote oby absent vote oby provisional vote oby early vote at the following polling place*…………………………………. (*not applicable if early vote obtained by written application).
+Part B | If you did not vote and you believe you have a valid and sufficient reason, complete this Part.
+ | I did not vote because: …………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
+The person completing Section 1 is to provide the following information about himself or herself: Name: ..........................Daytime contact phone number: ……………… Signature of person completing this form: ……………………………...
+SECTION 2
+Penalty: [insert penalty amount] Due date: [insert date] If you did not vote and you wish to finalise this matter, please pay the penalty in one of the following ways by the due date.
+Payment with Australia Post | [insert information about payment]
+Payment by mail | Using the reply paid envelope provided, return this notice with a cheque or money order made payable to the Western Australian Electoral Commission. Do not send cash in the mail.
+Payment in person | Cash or cheque payments can be made at the Western Australian Electoral Commission [insert address].
+Payment of the penalty will end this matter. However if you pay by cheque or credit card and that payment is dishonoured, you will be treated as if you had not paid the penalty.
+[Form 33 inserted in Gazette 11 May 2007 p. 1999-2001.]
 Form 34
 Western Australia
-Electoral Act 1907 (s.156(12))
-FAILURE TO VOTE — FINAL NOTICE
-Name and address of elector: | Electoral district
+Electoral Act 1907 (s. 156(12))
+FAILURE TO VOTE — INFRINGEMENT NOTICE
+[insert name and address of elector]
 Dear elector
-Thank you for returning the Penalty Notice in relation to your apparent failure to vote at the State election held on .......................................................................
-In that notice (1)
-you indicated that you voted at ................................................. . The Electoral Commission has re-checked it records for that polling place but is still unable to find any record of you having voted.
-you indicated that you posted a postal vote on ......................... . The Electoral Commission has re-checked its records of postal votes for your electoral district but is still unable to find any record of your vote having been received.
-you indicated that you did not vote and gave your reason for not doing so. The Electoral Commissioner has considered your reason but is unable to accept it as a valid and sufficient reason for not voting.
-The Electoral Commissioner therefore considers that you have committed an offence by failing to vote without a valid and sufficient reason.
-If you wish to avoid this matter being dealt with in court or by the Fines Enforcement Registry you may pay a modified penalty of $20(2) and that will be the end of the matter.
-To do this you should fill in the form on the back of this notice and send it and your payment to the Electoral Commission in the enclosed envelope before ............................................
-If you (the elector) are unable to fill in this form because you are away from home or are physically incapacitated, another elector may fill it in for you, as long as that other elector has personal knowledge of the facts.
-............................................................... ..............................................................
-Electoral Commissioner Date
-[Back of Form 34]
-FAILURE TO VOTE — FINAL NOTICE
-Please print your details on this form and tick the appropriate boxes.
-Elector’s details
-Full name:
-Residential address: | Daytime phone number [if convenient] ( )
-I did not vote at the State election and I wish to pay the modified penalty of $20(2) to put an end to this matter. Method of payment: ocash[if paying in cash please deliver this form to the Electoral Commission in person. Do not send cash through the post] or ocheque or money order made payable to the WA Electoral Commission or oby credit card Type of card:............................................................. Card number:............................................................. Expiry date:............................................................. Signature:............................................................. [Note: Payment of this penalty fully discharges any liability in relation to your failure to vote. However if your cheque or credit card payment is dishonoured, you will be treated as if you had not paid.]
-Signature: | Date:
-If you have completed this form on behalf of the elector, please print your full name and daytime telephone number. Name: Phone: ( )
-Making a false or misleading statement in this form is an offence.
-Notes:
-(1)Insert text in box applicable to the case.
-(2)If this is the elector’s second or subsequent offence replace with “$50”.
+Thank you for returning the notice we sent you regarding your apparent failure to vote at the State election held on [insert date].
+In that notice you told us that
+[insert whichever paragraph applies —
+·you voted at [insert polling place]. The Western Australian Electoral Commission has used that information to re-check its records but remains unable to find any record of you having voted.
+·you voted by absent/provisional/early [insert whichever applies] vote. The Western Australian Electoral Commission has used that information to re-check its records but remains unable to find any record of you having voted.
+·you told us that you did not vote and you told us your reason for not doing so. The Electoral Commissioner has considered that reason but is unable to accept it as a valid and sufficient reason for not voting.]
+The Electoral Commissioner therefore considers that you have committed an offence by failing to vote without a valid and sufficient reason. The penalty for this offence is [insert penalty amount].
+You must pay the penalty before the following date:
+Due date for payment of penalty: [insert date]
+If you do not pay the penalty before this date, this matter may be dealt with in court or referred to the Fines Enforcement Registry.
+You may pay the penalty in one of the following ways:
+Payment by mail | Using the reply paid envelope provided, return this notice with a cheque or money order made payable to the Western Australian Electoral Commission. Do not send cash in the mail.
+Payment in person | Cash or cheque payments can be made at the Western Australian Electoral Commission [insert address].
+Payment of the penalty will end this matter. However if you pay by cheque and your cheque is dishonoured, you will be treated as if you had not paid the penalty.
+Thank you for your cooperation.
+Electoral CommissionerDate: [insert date]
+[Form 34 inserted in Gazette 11 May 2007 p. 2001-2.]
 Form 35
 Western Australia
 Electoral Act 1907 (s.156C(1)(a))
