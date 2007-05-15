@@ -16,6 +16,10 @@ Pay-roll Tax Assessment Amendment Regulations (No. 3) 2006 | 11 Jul 2006 p. 2546
 Pay-roll Tax Assessment Amendment Regulations (No. 5) 2006 | 22 Aug 2006 p. 3468-9 | 22 Aug 2006
 Reprint 1: The Pay-roll Tax Assessment Regulations 2003 as at 13 Oct 2006 (includes amendments listed above)
 Pay-roll Tax Assessment Amendment Regulations (No. 6) 2006 | 22 Dec 2006 p. 5806-7 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Pay-roll Tax Assessment Amendment Regulations 2007 r. 4 | 15 May 2007 p. 2096 | 1 Jul 2007 (see r. 2)
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 5 Div. 3 of those regulations read as follows:
 “
 1.Citation
@@ -98,4 +102,10 @@ After regulation 3 the following regulation is inserted —
 38.Glossary modified
 The Glossary clause 1 is modified in paragraph (c) of the definition of “industrial award” by deleting “another State” and inserting instead —
 “ a State other than Western Australia ”.
+”.
+On the date as at which this compilation was prepared, the Pay-roll Tax Assessment Amendment Regulations 2007 r. 4 had not come into operation. It reads as follows:
+“
+4.Regulation 31 amended
+Regulation 31(b) is amended by deleting “67” and inserting instead —
+“ 70 ”.
 ”.
