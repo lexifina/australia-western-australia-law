@@ -20,5 +20,6 @@ Reprint 2: The Pharmacy Act Regulations 1976 as at 14 Nov 2003 (includes amendme
 Pharmacy Amendment Regulations 2003 | 16 Jan 2004 p. 196-7 | 16 Jan 2004
 Pharmacy Amendment Regulations 2004 | 30 Dec 2004 p. 6969-70 | 1 Jan 2005 (see r 2 and Gazette 31 Dec 2004 p. 7130)
 Pharmacy Amendment Regulations 2005 | 15 Nov 2005 p. 5599 | 1 Jan 2006 (see r. 2)
+Pharmacy Amendment Regulations 2007 | 15 May 2007 p. 2093-4 | r. 1 and 2: 15 May 2007 (see r. 2(a)) r. 3 and 4: 16 May 2007 (see r. 2(b))
 Repealed by the Friendly Societies (Western Australia) Act 1999.
 The commencement date of 1 Jul 1985 that was specified was before the date of gazettal.
