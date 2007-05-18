@@ -33,6 +33,7 @@ Reprint 4: The Building Regulations 1989 as at 11 Mar 2005 (includes amendments 
 Building Amendment Regulations 2005 | 16 Dec 2005 p. 6078-9 | 16 Dec 2005
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 68 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
 Building Amendment Regulations 2007 | 4 May 2007 p. 1964-5 | 4 May 2007
+Building Amendment Regulations (No. 2) 2007 | 18 May 2007 p. 2256-7 | 18 May 2007
 Repealed on 1 July 1999 by No. 59 of 1997 s. 3 (Cwlth). Now see the Telecommunications Act 1997 (Cwlth).
 The Building Amendment Regulations (No. 2) 2001 r. 7 reads as follows:
 “
