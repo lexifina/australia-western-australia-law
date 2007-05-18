@@ -2956,7 +2956,7 @@ Citrus | limon |  | Rutaceae
 Citrus | mandurensis |  | Rutaceae
 Citrus | maxima |  | Rutaceae
 Citrus | paradisi |  | Rutaceae
-Citrus | paradisi x reticulata) |  | Rutaceae
+Citrus | paradisi x reticulata |  | Rutaceae
 Citrus | reticulata |  | Rutaceae
 Citrus | sinensis |  | Rutaceae
 Citrus | x reticulata |  | Rutaceae
