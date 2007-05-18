@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 25 August 2006 of the Health (Public Buildings) Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health (Public Buildings) Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Health (Public Buildings) Regulations 1992 | 1 Apr 1992 p. 1429-56 | 1 Apr 1992 (see r. 2)
@@ -13,3 +13,13 @@ Health (Public Buildings) Amendment Regulations 2005 | 31 May 2005 p. 2410 | 1 J
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 81 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
 Health (Public Buildings) Amendment Regulations 2006 | 2 May 2006 p. 1701 | 1 Jul 2006 (see r. 2)
 Reprint 2: The Health (Public Buildings) Regulations 1992 as at 25 Aug 2006 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health (Public Buildings) Amendment Regulations 2007 r. 4 | 18 May 2007 p. 2254 | 1 Jul 2007 (see r. 2)
+On the date as at which this compilation was prepared, the Health (Public Buildings) Amendment Regulations 2007 r. 4 had not come into operation. It reads as follows:
+“
+4.Schedule 1 amended
+Schedule 1 is amended by deleting “$713.” and inserting instead —
+“ $744. ”.
+”.
