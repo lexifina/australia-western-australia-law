@@ -24,7 +24,7 @@ Aquatic plants....... | 21 | 21 | — | —
 Artichoke.............. | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 41, 52, 55
 Asparagus............. | 13, 17, 27, 29, 45, 55 | — | 16 | 55
 Asteraceae (Compositae) see Schedule 10, including chickory, endives, hawk’s beard, hawkweed, nipplewort, hawkbit, tobacco, petunia, figwort and speedwell | 13, 17, 27, 29, 41, 45, 52, 55, 58 | 29, 41, 52, 55, 58 | 16 | 41, 52, 55, 58
-Atalantia spp. | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
+Atalantia spp. ...... | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
 Avocado............... | 13, 17, 27, 29, 41, 45, 46, 52, 55 | 29, 41, 46, 52, 55 | 16 | 4/4B/9C, 41, 46, 52, 55
 Babaco ................. | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9A/9C, 41, 52, 55
 Babiana (baboon flower, baboon root) .................. | 13, 17, 27, 29, 41, 45, 52, 53, 55 | 29, 41, 52, 53, 55 | 16 | —
@@ -85,7 +85,7 @@ Eribobotrya spp. (Loquat) ............ | 1 | 1 | 16 | 1
 Eugena ................. | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/9F, 41, 52, 55
 European larch..... | 3, 13, 17, 27, 29, 45, 55 | 3, 29, 55 | 16 | 55
 Feijoa.................... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
-Feronia spp. | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
+Feronia spp. ........ | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
 Feroniella lucida | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
 Fig........................ | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
 Firethorn............... | see Pyracantha spp.
@@ -104,7 +104,7 @@ Guava................... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 
 Hawthorn.............. | see Crataegus spp.
 Hay ...................... | 27, 33 | — | — | —
 Heliconia ............. | 13, 17, 27, 29, 41, 45, 52, 55 | 41, 52, 55 | 16 | —
-Hesperethusa crenulate | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
+Hesperethusa crenulata........... | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
 Hibiscus................ | 13, 17, 27, 29, 41, 45, 47, 52, 55 | 29, 41, 47, 52, 55 | 16 | —
 Honeydew............ | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9G, 41, 52, 55
 Hugeria spp. ........ | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 29, 41, 52, 55, 57 | 16 | 57
@@ -118,7 +118,7 @@ Leucothoe spp. .... | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 29, 41, 52, 55, 57 | 
 Lemon ................. | see Citrus
 Lettuce ................. | 13, 17, 27, 29, 41, 45, 52, 55, 58 | — | 16 | 41, 52, 55, 58
 Lime .................... | see Citrus
-Limonia acidissma | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
+Limonia acidissma ......... | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
 Loganberry........... | see Berries
 Longan ................. | 13, 17, 27, 29, 41, 45, 55 | 29, 41, 55 | 16 | 4/4A/9/9C, 41, 55
 Loquat.................. | see Eribobotrya spp.
@@ -133,7 +133,7 @@ Mango.................. | 13, 17, 27, 29, 41, 45, 52, 55, 56 | 29, 41, 52, 55, 5
 Mangostein........... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9A/9C, 41, 52, 55
 Medlar.................. | see Mespilus spp.
 Melons (other than Honeydew and Rockmelon) | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/9J, 41, 52, 55
-Menziesia spp. | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 16 | 41, 52, 55, 57
+Menziesia spp. ..... | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 16 | 41, 52, 55, 57
 Mespilus spp. (Medlar)............ | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 41, 52, 55
 Miracle fruit......... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9E, 41, 52, 55
 Monstera............... | 13, 17, 27, 29, 45, 52, 55 | 29, 52, 55 | 16 | 4/9J, 52, 55
@@ -146,10 +146,10 @@ Okra...................... | 13, 17, 27, 29, 41, 45, 47, 52, 55 | 29, 41, 47, 52
 Olive..................... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9J, 41, 52, 55
 Onions (also see spring onion) .... | 13, 17, 27, 29, 35, 41, 45, 55 | — | 16 | 35
 Orange.................. | see Citrus
-Oxycoccus spp. | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 29, 41, 52, 55, 57 | 16 | 41, 52, 55, 57
+Oxycoccus spp. ... | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 29, 41, 52, 55, 57 | 16 | 41, 52, 55, 57
 Palms.................... | 13, 17, 27, 29, 39, 45, 55 | 29, 39A, 55 | 16 | —
 Papaya.................. | see Pawpaw
-Paramignya monophylla | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
+Paramignya monophylla ..... | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
 Parsnips................ | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
 Passionfruit........... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/4A/9H, 41, 52, 55
 Pawpaw................ | 13, 17, 27, 29, 40, 45, 52, 55 | 29, 40, 52, 55 | 16 | 4/4C/9A/9D, 40, 52, 55
@@ -165,7 +165,7 @@ Pineapple.............. | 13, 17, 27, 29, 45, 55 | 29, 55 | 16 | 55
 Pinus..................... | 3, 13, 17, 27, 29, 45, 55 | 3, 29, 55 | 16 | 55
 Plants (not specified elsewhere) ........ | 13, 17, 27, 28, 29, 41, 45, 52, 55 | 28, 29, 41, 52, 55 | 16 | —
 Plum..................... | 13, 17, 18, 27, 29, 41, 45, 52, 55 | 18, 29, 41, 52, 55 | 16 | 1, 31A
-Poaceae (Gramineae) (genera specified in Schedule 9)…... | 13, 17, 27, 28, 29, 41, 45, 52, 55 | 28, 29, 41, 52, 55 | 16 | —
+Poaceae (Gramineae) (genera specified in Schedule 9) ....... | 13, 17, 27, 28, 29, 41, 45, 52, 55 | 28, 29, 41, 52, 55 | 16 | —
 Pomegranate......... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9/9C, 41, 52, 55
 Poncirus................ | see Citrus
 Poplar................... | 13, 17, 27, 29, 36, 41, 45, 52, 55 | 29, 36, 41, 52, 55 | 16 | —
@@ -181,7 +181,7 @@ Radish................... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
 Rambutan............. | 13, 17, 27, 29, 45, 55 | 29, 55 | 16 | 4/4A/7/9/9C, 55
 Raspberry............. | see Berries
 Red raspberry....... | see Rubus ideus
-Rhododendron spp. (Azalea) | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 29, 41, 52, 55, 57 | 16 | 41, 52, 55, 57
+Rhododendron spp. (Azalea) .... | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 29, 41, 52, 55, 57 | 16 | 41, 52, 55, 57
 Rhubarb................ | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 41, 52, 55
 Ribes spp. (Currants) including Ribes alpinum, Ribes aureum, Ribes nigrum (blackcurrant), Ribes rubrum (red currant) and Ribes uva crispa (gooseberry) | 13, 17, 27, 29, 41, 45, 52, 55, 58 | 29, 41, 52, 55, 58 | 16 | 4/9E, 41, 52, 55
 Rice...................... | 13, 17, 27, 29, 45, 52, 55 | — | 16, 22 | 22
@@ -202,7 +202,7 @@ Soybean................ | 1 | 1 | 16, 25 | —
 Spring onion......... | 13, 17, 27, 29, 35, 41, 45, 55 | — | 16 | 41, 35, 55
 Squash.................. | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/7/9G, 41, 52, 55
 Star apple.............. | see Caimito
-Stonefruit not specified elsewhere.............. | 13, 17, 18, 27, 29, 41, 45, 52, 55 | 18, 29, 41, 52, 55 | 16 | 1
+Stonefruit not specified elsewhere .......... | 13, 17, 18, 27, 29, 41, 45, 52, 55 | 18, 29, 41, 52, 55 | 16 | 1
 Stransvaesia spp... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 41, 52, 55
 Straw and straw packing.............. | see Hay
 Strawberry............ | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/8/9E, 41, 52, 55
@@ -212,7 +212,7 @@ Swedes.................. | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
 Sweetcorn............. | see Maize
 Sweet potatoes...... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
 Sweetsop (Sugar apple) ................ | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
-Swinglea spp. | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
+Swinglea spp. ...... | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
 Tahiti lime............ | 13, 17, 27, 29, 41, 45, 50A, 51, 52, 55 | 29, 41, 50A, 51, 52, 55 | 16 | 4/7/9A/9E, 29, 41, 51, 52, 55
 Tamarillo.............. | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
 Tamaruis............... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9E, 41, 52, 55
@@ -245,7 +245,7 @@ Animal skins/coats .............................................................
 Apple machinery or equipment (used) .................................................. | 50
 Cargo containers ................................................................................... | 27
 Containers ............................................................................................. | 27
-Fruit, vegetable and plant containers (used) other than potato containers ……………………………………….…………………… | 59
+Fruit, vegetable and plant containers (used) other than potato containers ........................................................................................... | 59
 Grape machinery/equipment (used) ...................................................... | 60
 Landscaping material ............................................................................ | 27
 Live fish ................................................................................................ | 42, 43
@@ -663,7 +663,6 @@ To be certified as —
 (a)for South Australia, the Department of Primary Industries and Resources South Australia; and
 (b)for Tasmania, the Department of Primary Industries, Water and Environment.
 (2) For cherry fruit grown in South Australia or Tasmania entry is not allowed except in accordance with subitems (3) to (7).
-[(2a)deleted]
 (3) Cherry fruit grown in South Australia or Tasmania to be certified as from an orchard and packed in a packing house registered in accordance with the IRA.
 (4) Cherry fruit grown in South Australia or Tasmania to be accompanied by certification stating —
 (a) the name, address and registration number of —
@@ -682,7 +681,6 @@ printed on an external surface in letters not less than 5 mm in height;
 (7) Cherry fruit grown in South Australia or Tasmania —
 (a) to be certified as described in Schedule 1 Part B item 4(1)(a) or (b); or
 (b) to be certified as from an area free from fruit fly (B. tryoni) in accordance with the Code of Practice.
-[(8)deleted]
 [Item 26 inserted in Gazette 11 Feb 2003 p. 409-11; amended in Gazette 16 Jan 2004 p. 194; 18 May 2004 p. 1563-4; 16 Dec 2005 p. 6075; 6 Mar 2007 p. 726.]
 27.Red Imported Fire Ant (Solenopsis invicta)
 (1) In this item —
