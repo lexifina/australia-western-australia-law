@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Lotteries Commission (Powerball) Rules 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 18 May 2007 of the Lotteries Commission (Powerball) Rules 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Lotteries Commission (Powerball Lotto) Rules 1996 | 29 Apr 1996 p. 1821-48 | 17 May 1996 (see r. 2)
@@ -13,4 +13,5 @@ Lotteries Commission (Powerball Lotto) Amendment Rules 2003 | 8 Aug 2003 p. 3579
 Lotteries Commission (Powerball Lotto) Amendment Rules 2004 | 16 Nov 2004 p. 5054-66 | 16 Nov 2004
 Lotteries Commission (Powerball) Amendment Rules 2006 | 29 Sep 2006 p. 4272-3 | 29 Sep 2006
 Lotteries Commission (Powerball) Amendment Rules (No. 2) 2006 | 13 Oct 2006 p. 4412-14 | 10 Nov 2006 (see r. 2)
+Reprint 2: The Lotteries Commission (Powerball) Rules 1996 as at 18 May 2007 (includes amendments listed above)
 Now known as the Lotteries Commission (Powerball) Rules 1996; citation changed (see note under r. 1).

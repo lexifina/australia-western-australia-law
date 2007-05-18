@@ -1,9 +1,10 @@
 ## Schedule 4
-Summary of parameters within which powerball is conducted
+## Summary of parameters within which powerball is conducted
+[Heading amended in Gazette 16 Nov 2004 p. 5065.]
 Unit cost for a powerball draw | $0.55 (+ agent’s component)
 Prize fund — % of subscriptions | 60.0%
-Prize pool — % of Subscriptions | no less than 55.0%
-Prize reserve fund — % of Subscriptions | balance of prize fund after prize pool (up to 5.0%)
+Prize pool — % of subscriptions | no less than 55.0%
+Prize reserve fund — % of subscriptions | balance of prize fund after prize pool (up to 5.0%)
 Number of divisions | 7
 Prize pool – division 1 | 40.0%
 Prize pool – division 2 | 12.9%
