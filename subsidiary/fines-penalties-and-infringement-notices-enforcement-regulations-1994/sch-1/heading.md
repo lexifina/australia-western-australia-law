@@ -27,6 +27,7 @@ Litter Act 1979 | 30
 Local Government Act 1995
 Local Government (Miscellaneous Provisions) Act 1960
 Murdoch University Act 1973 | 24
+Pawnbrokers and Second-hand Dealers Act 1994
 Perth Market Act 1926 | 13B
 Petroleum Products Pricing Act 1983
 Plant Diseases Act 1914 | 35
@@ -41,4 +42,4 @@ University of Western Australia Act 1911 | 16A
 Water Agencies (Powers) Act 1984 | 103
 Western Australian Marine Act 1982 | 132
 Zoological Parks Authority Act 2001
-[Schedule 1 amended in Gazette 30 Jun 1995 p. 2637 and 2643; 19 Jul 1996 p. 3458; 1 Aug 1997 p. 4394; 23 Jan 1998 p. 408; 8 Dec 1998 p. 6574; 2 Jul 1999 p. 2919; 31 Dec 1999 p. 7076; 27 Aug 2002 p. 4354; 12 Dec 2003 p. 5037; 4 Jun 2004 p. 1933; 13 May 2005 p. 2080; 14 Jul 2006 p. 2564.]
+[Schedule 1 amended in Gazette 30 Jun 1995 p. 2637 and 2643; 19 Jul 1996 p. 3458; 1 Aug 1997 p. 4394; 23 Jan 1998 p. 408; 8 Dec 1998 p. 6574; 2 Jul 1999 p. 2919; 31 Dec 1999 p. 7076; 27 Aug 2002 p. 4354; 12 Dec 2003 p. 5037; 4 Jun 2004 p. 1933; 13 May 2005 p. 2080; 14 Jul 2006 p. 2564; 18 May 2007 p. 2257.]
