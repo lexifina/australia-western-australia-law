@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Settlement Agents Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 25 May 2007 of the Settlement Agents Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Settlement Agents Act 1981 | 33 of 1981 | 26 May 1981 | 1 Jul 1981 (see s. 2 and Gazette 26 Jun 1981 p. 2285)
@@ -35,7 +35,8 @@ Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Land Information Authority Act 2006 s. 158 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 4: The Settlement Agents Act 1981 as at 25 May 2007 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 11 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
@@ -68,8 +69,7 @@ In this Part —
 is taken not to be valid, and to never have been valid.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 11 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 11 had not come into operation. It reads as follows:
 “
 Part 11 — Settlement Agents Act 1981 amended
 35.The Act amended
