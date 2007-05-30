@@ -53,8 +53,8 @@ Nurses registered under the Nurses Act 1968 if actually practising.
 Chiropractors registered under the Chiropractors Act 1964 if actually practising.
 Physiotherapists registered under the Physiotherapists Act 2005 and in private practice.
 Pharmaceutical chemists registered under the Pharmacy Act 1964 and actually in business whether as principal or manager for a principal.
-Osteopaths registered under the Osteopaths Act 1997 if actually practising.
-[Clause 2 inserted by No. 59 of 1984 s. 23; amended by No. 58 of 1997 s. 97; No. 28 of 2005 s. 108; No. 32 of 2005 s. 109.]
+Osteopaths registered under the Osteopaths Act 2005 if actually practising.
+[Clause 2 inserted by No. 59 of 1984 s. 23; amended by No. 58 of 1997 s. 97; No. 28 of 2005 s. 108; No. 32 of 2005 s. 109; No. 33 of 2005 s. 108.]
 3.Religion.
 Persons in holy orders, or who preach or teach in any religious congregation, but only if they follow no secular occupation except that of a schoolteacher.
 [Clause 3 inserted by No. 59 of 1984 s. 23.]
