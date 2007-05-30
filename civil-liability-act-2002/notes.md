@@ -9,33 +9,18 @@ Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan
 Civil Liability Amendment Act 2004 | 43 of 2004 | 9 Nov 2004 | Act other than Pt. 3: 9 Nov 2004 (see s. 2(1)); Pt. 3: 1 Dec 2004 (see s. 2(2) and Gazette 26 Nov 2004 p. 5309)
 Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 and Gazette 4 May 2007 p. 1963)
 Optometrists Act 2005 s. 109 | 29 of 2005 | 12 Dec 2005 | 20 Apr 2007 (see s. 2 and Gazette 30 Mar 2007 p. 1451)
+Podiatrists Act 2005 s. 109 | 30 of 2005 | 12 Dec 2005 | 30 May 2007 (see s. 2 and Gazette 29 May 2007 p. 2486)
 Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | 23 Feb 2007 (see s. 2 and Gazette 2-0 Feb 2007 p. 505)
-Reprint 1: The Civil Liability Act 2002 as at 10 Feb 2006 (includes amendments listed above, except those in the Optometrists Act 2005 and the Physiotherapists Act 2005)
+Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | 30 May 2007 (see s. 2 and Gazette 29 May 2007 p. 2486)
+Reprint 1: The Civil Liability Act 2002 as at 10 Feb 2006 (includes amendments listed above, except those in the Psychologists Act 2005, the Optometrists Act 2005, the Podiatrists Act 2005, the Physiotherapists Act 2005 and the Osteopaths Act 2005)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Podiatrists Act 2005 s. 109 | 30 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be proclaimed (see s. 2)
 Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
-Footnote no longer applicable.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Podiatrists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-109.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 1 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 109]
-1.Civil Liability Act 2002 amended
-(1) The amendments in this clause are to the Civil Liability Act 2002.
-(2) Section 5PA is amended in paragraph (k) of the definition of “health professional” by deleting “Podiatrists Registration Act 1984” and inserting instead —
-“ Podiatrists Act 2005 ”.
-”.
+-4Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Chiropractors Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
@@ -51,20 +36,6 @@ Schedule 3 — Consequential amendments
 “ Chiropractors Act 2005 section 3 ”.
 ”.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Osteopaths Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-108Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 1 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 108]
-1.Civil Liability Act 2002 amended
-(1) The amendments in this clause are to the Civil Liability Act 2002.
-(2) Section 5PA is amended in paragraph (h) of the definition of “health professional” by deleting “Osteopaths Act 1997” and inserting instead —
-“ Osteopaths Act 2005 ”.
-”.
 On the date as at which this compilation was prepared, the Occupational Therapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
