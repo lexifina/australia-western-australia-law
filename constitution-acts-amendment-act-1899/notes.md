@@ -218,10 +218,12 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 4 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
  | Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 and Gazette 4 May 2007 p. 1963)
  | Optometrists Act 2005 s. 109 | 29 of 2005 | 12 Dec 2005 | 20 Apr 2007 (see s. 2 and Gazette 30 Mar 2007 p. 1451)
+ | Podiatrists Act 2005 s. 109 | 30 of 2005 | 12 Dec 2005 | 30 May 2007 (see s. 2 and Gazette 29 May 2007 p. 2486)
  | Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | 23 Feb 2007 (see s. 2 and Gazette 20 Feb 2007 p. 505)
+ | Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | 30 May 2007 (see s. 2 and Gazette 29 May 2007 p. 2486)
  | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
  | Tobacco Products Control Act 2006 s. 126 | 5 of 2006 | 12 Apr 2006 | 31 Jul 2006 (see s. 2 and Gazette 25 Jul 2006 p. 2701)
- | Reprint 14: The Constitution Acts Amendment Act 1899 as at 21 Apr 2006 (includes amendments listed above except those in the Optometrists Act 2005 and the Tobacco Products Control Act 2006)
+ | Reprint 14: The Constitution Acts Amendment Act 1899 as at 21 Apr 2006 (includes amendments listed above except those in the Psychologists Act 2005, the Optometrists Act 2005, the Podiatrists Act 2005, the Physiotherapists Act 2005, the Osteopaths Act 2005 and the Tobacco Products Control Act 2006)
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
  | Parole and Sentencing Legislation Amendment Act 2006 s. 89 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
  | Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 4 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
@@ -235,9 +237,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 s. 57 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Podiatrists Act 2005 s. 109 | 30 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be proclaimed (see s. 2)
 Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
@@ -334,24 +334,7 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
 ”.
-Footnote no longer applicable.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Podiatrists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-109.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 2 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 109]
-2.Constitution Acts Amendment Act 1899 amended
-(1) The amendments in this clause are to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended by deleting the item commencing “The Podiatrists Registration Board” and inserting the following item instead —
-“
-The Podiatrists Registration Board of Western Australia established under the Podiatrists Act 2005.
-”.
-”.
+50-52Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Chiropractors Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 109.Consequential amendments
@@ -369,21 +352,6 @@ The Chiropractors Registration Board of Western Australia established under the 
 ”.
 ”.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Osteopaths Act 2005 s. 108, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-108.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 2 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 108]
-2.Constitution Acts Amendment Act 1899 amended
-(1) The amendments in this clause are to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended by deleting the item commencing “The Osteopaths Registration Board” and inserting instead —
-“
-The Osteopaths Registration Board of Western Australia established under the Osteopaths Act 2005.
-”.
 ”.
 On the date as at which this compilation was prepared, the Occupational Therapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
