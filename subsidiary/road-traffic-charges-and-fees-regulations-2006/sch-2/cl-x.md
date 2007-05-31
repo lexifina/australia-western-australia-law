@@ -18,8 +18,8 @@ In this Schedule —
  | (b)where the motor vehicle is of class HC or MC ............................................................. | 111.70
 3. | For each duplicate tax invoice provided in respect of fees paid for any additional driving tests referred to in item 2 ..................................................................... | 10.20
 4. | Grant or renewal of a driver’s licence —
- | (a)where the licence is granted or renewed for a period of one year ..............................…. | 35.00
- | (b)where the licence is granted or renewed for a period of 5 years ...................................... | 111.00
+ | (a)where the licence is granted or renewed for a period of one year ..............................…. | 36.60
+ | (b)where the licence is granted or renewed for a period of 5 years ...................................... | 116.00
  | (c)for a period determined under the Road Traffic (Drivers’ Licences) Regulations 1975 regulation 5A(2), not being a period provided for by paragraph (a) or (b) ................................... | for each year or part of a year to which the licence relates, /5 of the fee under paragraph (b)
 5. | Application for the endorsement of a driver’s licence as of class F or class T under the Road Traffic (Drivers’ Licences) Regulations 1975 regulation 5 —
  | (a)where the application is made within 15 days of the expiry of an endorsement of that class on the licence .............................. | nil
@@ -27,4 +27,4 @@ In this Schedule —
 6. | First hazard perception test in respect of a driver’s licence application ...................................................... | 33.00
 7. | Each additional hazard perception test in respect of a driver’s licence application ......................................... | 22.00
 8. | Fee for logbook under the Road Traffic (Drivers’ Licences) Regulations 1975 regulation 4E(2) ……… | 20.00
-[Schedule 2 amended in Gazette 22 Dec 2006 p. 5813.]
+[Schedule 2 amended in Gazette 22 Dec 2006 p. 5813; 29 May 2007 p. 2502.]
