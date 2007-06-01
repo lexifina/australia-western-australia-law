@@ -35,14 +35,14 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Veterinary Preparations and Animal Feeding Stuffs Amendment Act 2004 s. 4(2) | 76 of 2004 | 8 Dec 2004 | 5 Jan 2005
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
-Reprint 5: The Consumer Affairs Act 1971 as at 16 Jun 2006 (includes amendments listed above)
+Trade Measurement Administration Act 2006 s. 37 | 12 of 2006 | 11 May 2006 | 1 Jun 2007 (see s. 2 and Gazette 29 May 2007 p. 2485)
+Reprint 5: The Consumer Affairs Act 1971 as at 16 Jun 2006 (includes amendments listed above, except those in the Trade Measurement Administration Act 2006)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div 7 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | To be proclaimed (see s. 2)
-Trade Measurement Administration Act 2006 s. 37 | 12 of 2006 | 11 May 2006 | To be proclaimed (see s. 2)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 3 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 Legal Practitioners Amendment (Disciplinary and Miscellaneous Provisions) Act 1992 Pt. 2 came into operation on 1 Feb 1993 (see s. 3(a) and Gazette 26 Jan 1993 p. 823).
 Repealed by the Acts Amendment and Repeal (Fair Trading) Act 1988.
@@ -68,15 +68,7 @@ Schedule 2 — Repeals and consequential amendments
 (1) The Consumer Affairs Act 1971 is amended in the Schedule by deleting “Explosives and Dangerous Goods Act 1961” and inserting instead —
 “ Dangerous Goods Safety Act 2004 ”.
 ”.
-On the date as at which this reprint was prepared, the Trade Measurement Administration Act 2006 s. 37, had not come into operation. It reads as follows:
-“
-37.Consequential amendment to Consumer Affairs Act 1971
-(1) The amendments in this section are to the Consumer Affairs Act 1971.
-(2) The Schedule is amended as follows:
-(a) by deleting the item “Weights and Measures Act 1915.”;
-(b) by inserting after the item “Spear-guns Control Act 1955.” the following item —
-“ Trade Measurement Act 2006. ”.
-”.
+Footnote no longer applicable.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
 Division 23 — Transitional provisions

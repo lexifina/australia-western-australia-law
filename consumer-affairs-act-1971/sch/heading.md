@@ -20,6 +20,6 @@ Radiation Safety Act 1975.
 Road Traffic Act 1974.
 Seeds Act 1981.
 Spear-guns Control Act 1955.
+Trade Measurement Act 2006.
 Veterinary Chemical Control and Animal Feeding Stuffs Act 1976.
-Weights and Measures Act 1915.
-[Schedule inserted by No. 90 of 1978 s. 9; amended by No. 62 of 1994 s. 109; No. 24 of 2000 s. 3(7); No. 70 of 2003 s. 3(2); No. 76 of 2004 s. 4(2).]
+[Schedule inserted by No. 90 of 1978 s. 9; amended by No. 62 of 1994 s. 109; No. 24 of 2000 s. 3(7); No. 70 of 2003 s. 3(2); No. 76 of 2004 s. 4(2); No. 12 of 2006 s. 37.]
