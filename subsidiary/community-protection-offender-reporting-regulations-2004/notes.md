@@ -6,3 +6,4 @@ Community Protection (Offender Reporting) Regulations 2004 | 31 Dec 2004 p. 7025
 Community Protection (Offender Reporting) Amendment Regulations 2005 | 9 Dec 2005 p. 5886-7 | 9 Dec 2005
 Community Protection (Offender Reporting) Amendment Regulations (No. 2) 2005 | 9 Dec 2005 p. 5887-91 | 9 Dec 2005
 Community Protection (Offender Reporting) Amendment Regulations 2006 | 8 Sep 2006 p. 3641-2 | 8 Sep 2006
+Community Protection (Offender Reporting) Amendment Regulations 2007 | 1 Jun 2007 p. 2525-8 | 1 Jun 2007
