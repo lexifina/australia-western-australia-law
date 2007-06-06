@@ -242,6 +242,7 @@ Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be procl
 Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | To be proclaimed (see s. 2)
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
+Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -389,7 +390,22 @@ The Medical Radiation Technologists Registration Board of Western Australia esta
 Repealed by the Statute Law Revision Act 2006 s. 3(1).
 Repealed by the Statute Law Revision Act 2006 s. 3(1).
 Footnote no longer applicable.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Owner-Drivers (Contracts and Disputes) Act 2007 s. 58, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+58.Consequential amendments
+The Acts mentioned in Schedule 3 are amended as set out in that Schedule.
+”.
+Schedule 3 cl. 2 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 58]
+2.Constitution Acts Amendment Act 1899 amended
+(1) The amendment in this clause is to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended by inserting after the item relating to the Road Safety Council the following item —
+“
+The Road Freight Transport Industry Council established under the Owner-Drivers (Contracts and Disputes) Act 2007.
+”.
+”.
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Schedule 1, had not come into operation. It reads as follows:
 “
 65.Consequential amendments
