@@ -1,7 +1,7 @@
 ## Second Schedule
 [Section 5]
-Part I
-Persons not eligible to serve as jurors
+## Part I
+## Persons not eligible to serve as jurors
 [Heading inserted by No. 59 of 1984 s. 23.]
 1.A person who is or has been a —
 (a) judge of the Supreme Court, Family Court or District Court;
@@ -11,13 +11,13 @@ Persons not eligible to serve as jurors
 (da) Commissioner appointed under the Corruption and Crime Commission Act 2003;
 (db) Parliamentary Inspector of the Corruption and Crime Commission appointed under the Corruption and Crime Commission Act 2003;
 (e) magistrate;
-(ea) Magistrate of the Children’s Court;
+(ea) magistrate of the Children’s Court;
 (f) legal practitioner (as defined in the Legal Practice Act 2003).
 [Clause 1 inserted by No. 59 of 1984 s. 23; amended by No. 48 of 2003 s. 62; No. 65 of 2003 s. 42(3); No. 34 of 2004 s. 251; No. 59 of 2004 s. 141.]
 2.A person who is or has been, within a period of 5 years before being summoned to serve as a juror —
 (a) member or officer of the Legislative Assembly;
 (b) member or officer of the Legislative Council;
-(c) Member of the Children’s Court;
+(c) member of the Children’s Court;
 (d) justice of the peace;
 (e) Sheriff of Western Australia or officer of the Sheriff of Western Australia;
 (f) bailiff or assistant bailiff appointed under the Civil Judgments Enforcement Act 2004;
@@ -26,7 +26,7 @@ Persons not eligible to serve as jurors
 [(i)deleted]
 (j) officer of the Corruption and Crime Commission under the Corruption and Crime Commission Act 2003;
 (ja) officer of the Parliamentary Inspector of the Corruption and Crime Commission under the Corruption and Crime Commission Act 2003;
-(k) Officer as defined in section 3 of the Children and Community Services Act 2004;
+(k) officer as defined in section 3 of the Children and Community Services Act 2004;
 (l) member of the Mentally Impaired Accused Review Board under the Criminal Law (Mentally Impaired Accused) Act 1996;
 (m) member of the Prisoners Review Board or honorary community corrections officer under the Sentence Administration Act 2003;
 (n) member of the Supervised Release Review Board under the Young Offenders Act 1994;
@@ -36,9 +36,9 @@ Persons not eligible to serve as jurors
 (iii) is a contract worker as defined in section 3 of the Court Security and Custodial Services Act 1999 or section 15A of the Prisons Act 1981,
 being a person prescribed or of a class prescribed by regulations.
 [Clause 2 inserted by No. 59 of 1984 s. 23; amended by No. 31 of 1993 s. 47; No. 104 of 1994 s. 236; No. 78 of 1995 s. 57; No. 48 of 2003 s. 62; No. 50 of 2003 s. 29(3); No. 34 of 2004 s. 251; No. 59 of 2004 s. 141; No. 28 of 2006 s. 39(2); No. 41 of 2006 s. 91; No. 65 of 2006 s. 66.]
-Part II
+## Part II
 [Heading inserted by No. 59 of 1984 s. 23.]
-Persons who are excused as of right from serving as jurors if they claim to be excused by virtue of that fact, namely —
+## Persons who are excused as of right from serving as jurors if they claim to be excused by virtue of that fact, namely —
 1.Emergency services.
 Full-time operational staff of the State Emergency Service.
 Officers and firemen of permanent fire brigades.
