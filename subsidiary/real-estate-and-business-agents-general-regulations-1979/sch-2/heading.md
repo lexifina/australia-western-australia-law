@@ -1,6 +1,6 @@
 ## Schedule 2
 [Regulation 7A]
-Forms
+## Forms
 Form 1
 Western Australia
 Real Estate and Business Agents Act 1978
