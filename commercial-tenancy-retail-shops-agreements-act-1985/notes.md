@@ -1,22 +1,24 @@
 Notes
-This is a compilation of the Commercial Tenancy (Retail Shops) Agreements Act 1985 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 8 June 2007 of the Commercial Tenancy (Retail Shops) Agreements Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Commercial Tenancy (Retail Shops) Agreements Act 1985 | 43 of 1985 | 13 May 1985 | Proclaimed 1 Sep 1985 (see section 2 and Gazette 30 Aug 1985 p.3065)
-Commercial Tenancy (Retail Shops) Agreements Amendment Act (No. 2) 1985 | 49 of 1985 | 28 Oct 1985 | 1 Sep 1985 (see section 2)
-Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 | 48 of 1990 | 30 Nov 1990 | 30 Nov 1990 (see section 2)
-Acts Amendment (Franchise Fees) Act 1997, Part 3 | 56 of 1997 | 12 Dec 1997 | Proclaimed 31 Jan 1998 (see section 2 and Gazette 30 Jan 1998 p.577)
-Lotteries Commission Amendment Act 1998, section 23 | 26 of 1998 | 30 Jun 1998 | Proclaimed 22 Jul 1998 (see section 2 and Gazette 21 Jul 1998 p.3825)
-Commercial Tenancy (Retail Shops) Agreements Amendment Act 1998 | 66 of 1998 | 15 Jan 1999 | Proclaimed 1 Jul 1999 (see section 2 and Gazette 18 Jun 1999 p.2629)
-Acts Amendment and Repeal (Financial Sector Reform) Act 1999, section 65 | 26 of 1999 | 29 Jun 1999 | Proclaimed 1 Jul 1999 (see section 2(1) and Gazette 30 Jun 1999 p.2905)
+Commercial Tenancy (Retail Shops) Agreements Act 1985 | 43 of 1985 | 13 May 1985 | s. 1 and 2: 13 May 1985; Act other than s. 1 and 2: 1 Sep 1985 (see s. 2 and Gazette 30 Aug 1985 p. 3065)
+Commercial Tenancy (Retail Shops) Agreements Amendment Act (No. 2) 1985 | 49 of 1985 | 28 Oct 1985 | 1 Sep 1985 (see s. 2)
+Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 | 48 of 1990 | 30 Nov 1990 | 30 Nov 1990 (see s. 2)
+Reprint of the Commercial Tenancy (Retail Shops) Agreements as at 27 Sep 1991 (includes amendments listed above)
+Acts Amendment (Franchise Fees) Act 1997 Pt. 3 | 56 of 1997 | 12 Dec 1997 | 31 Jan 1998 (see s. 2 and Gazette 30 Jan 1998 p. 577)
+Lotteries Commission Amendment Act 1998 s. 23 | 26 of 1998 | 30 Jun 1998 | 22 Jul 1998 (see s. 2 and Gazette 21 Jul 1998 p. 3825)
+Commercial Tenancy (Retail Shops) Agreements Amendment Act 1998 | 66 of 1998 | 15 Jan 1999 | s. 1 and 2: 15 Jan 1999; Act other than s. 1 and 2: 1 Jul 1999 (see s. 2 and Gazette 18 Jun 1999 p. 2629)
+Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 65 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
+Reprint of the Commercial Tenancy (Retail Shops) Agreements as at 21 Jul 2000 (includes amendments listed above)
 Corporations (Consequential Amendments) Act 2001 Pt. 12 and s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Taxation Administration (Consequential Provisions) Act 2002 s. 10 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Acts Amendment (Equality of Status) Act 2003 Pt. 5 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
-State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 21 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 21 , 5, 6 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Retail Shops and Fair Trading Legislation Amendment Act 2006 Pt. 3 | 47 of 2006 | 4 Oct 2006 | 11 May 2007 (see s. 2 and Gazette 11 May 2007 p. 2017)
-Footnote no longer applicable.
-The Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 s. 22 reads as follows —
+Reprint 3: The Commercial Tenancy (Retail Shops) Agreements as at 8 Jun 2007 (includes amendments listed above)
+The Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 s. 22 reads as follows:
 “
 22.Saving and transitional
 (1) Subject to subsection (2), an amendment made to the principal Act by a provision of this Act does not apply to or in relation to a retail shop lease entered into before the day on which that provision comes into operation and the provisions of the principal Act as in force prior to the coming into operation of that provision shall continue to apply to and in relation to any such lease as if this Act had not been passed.
@@ -24,7 +26,7 @@ The Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 s. 22 reads 
 (3) Subsections (1) and (2) apply notwithstanding an agreement to the contrary between parties to a retail shop lease to which the principal Act applies, whether or not such agreement is contained in the retail shop lease.
 (4) In this section “retail shop lease” has the same meaning as it has in the principal Act.
 ”.
-The Commercial Tenancy (Retail Shops) Agreements Amendment Act 1998 s. 14reads as follows —
+The Commercial Tenancy (Retail Shops) Agreements Amendment Act 1998 s. 14 reads as follows:
 “
 14.Saving and transitional
 (1) In this section —
@@ -147,7 +149,7 @@ cannot be made more than 15 months after the licence was granted or transferred.
 (1) A permission granted under section 112V of the old Stamp Act and in force immediately before the commencement day continues in force on and after that day as a special tax arrangement under the Taxation Administration Act 2003.
 (2) Any requirement that applied, immediately before the commencement day, to a person to whom a permission continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the permission was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
 ”.
-The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 29 reads as follows:
 “
 29.Commercial Tenancy (Retail Shops) Agreements Act 1985
