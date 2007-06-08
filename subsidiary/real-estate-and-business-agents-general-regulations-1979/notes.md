@@ -1,13 +1,13 @@
 Notes
-This is a compilation of the Real Estate and Business Agents (General) Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 June 2007 of the Real Estate and Business Agents (General) Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Real Estate and Business Agents (General) Regulations 1979 | 31 Aug 1979 p. 2616-18 | 1 Sep 1979
 Real Estate and Business Agents (General) Amendment Regulations 1980 | 26 Sep 1980 p. 3312 | 26 Sep 1980
 Real Estate and Business Agents (General) Amendment Regulations 1981 | 26 Jun 1981 p. 2293 | 26 Jun 1981
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 1981 | 6 Nov 1981 p. 4526 | 1 Dec 1981 (see r. 2)
-Real Estate and Business Agents (General) Amendment Regulations 1982 | 2 Jul 1982 p. 2334-6 | 2 Jul 1982 (The commencement date in r. 2 was of no effect as it was before the date of gazettal.)
-Reprint of the Real Estate and Business Agents (General) Regulations 1976 in Gazette 26 Nov 1982 p. 4667-74 (includes amendments listed above)
+Real Estate and Business Agents (General) Amendment Regulations 1982 | 2 Jul 1982 p. 2334-6 | 2 Jul 1982
+Reprint of the Real Estate and Business Agents (General) Regulations 1979 in Gazette 26 Nov 1982 p. 4667-74 (includes amendments listed above)
 Real Estate and Business Agents (General) Amendment Regulations 1983 | 21 Oct 1983 p. 4298 | 1 Jan 1984 (see r. 2)
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 1983 | 30 Dec 1983 p. 5121-2 | 30 Dec 1983
 Real Estate and Business Agents (General) Amendment Regulations 1984 | 21 Dec 1984 p. 4191 | 21 Dec 1984
@@ -54,18 +54,19 @@ Real Estate and Business Agents (General) Amendment Regulations 2006 | 27 Jun 20
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2006 | 17 Nov 2006 p. 4759-60 | 17 Nov 2006
 Real Estate and Business Agents (General) Amendment Regulations 2007 | 6 Feb 2007 p. 307-10 | 6 Feb 2007
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2007 | 9 Mar 2007 p. 847-8 | 9 Mar 2007
-Under the Alteration of Statutory Designations Amendment Order (No. 3) 2001 the former Education Department is now known as the Department of Education.
+Reprint 5: The Real Estate and Business Agents (General) Regulations 1979 as at 8 June 2007 (includes amendments listed above)
+The commencement date in r. 2 was of no effect as it was before the date of gazettal.
+The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 4(2) (as amended in Gazette 13 Jan 2004 p. 146) reads as follows:
 “
 (2) Despite the amendments effected by subregulation (1), examinations referred to in a provision of the Real Estate and Business Agents (General) Regulations 1979 referred to in column 1 of the Table to this subregulation, as in force immediately before the commencement of these regulations, continue to be prescribed examinations for the purposes of clause 1(a) of the Schedule to the Act until the date specified in column 2 of that Table opposite the reference to the provision.
 Table
-r. 6(a)(i) | 1 July 2003
-r. 6(a)(ii), (b) or (c) | 1 January 2004
-r. 6(a)(iii) | 1 January 2006
-”.
+r. 6(a)(i) | 1 Jul 2003
+r. 6(a)(ii), (b) or (c) | 1 Jan 2004
+r. 6(a)(iii) | 1 Jan 2006
 [Regulation 4(2) amended in Gazette 13 Jan 2004 p. 146.]
+”.
 The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 5(2) reads as follows:
 “
 (2) Despite the amendment effected by subregulation (1), the qualification referred to in regulation 6A(c) of the Real Estate and Business Agents (General) Regulations 1979, as in force immediately before the commencement of these regulations, continues to be a prescribed qualification for the purposes of section 47(2) of the Act in respect of an application for registration as a real estate and business sales representative made under the Act on or before 1 January 2004.
 ”.
-The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
