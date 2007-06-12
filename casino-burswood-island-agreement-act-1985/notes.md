@@ -13,6 +13,7 @@ Casino (Burswood Island) Agreement Amendment Act 2003 | 51 of 2003 | 2 Sep 2003 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Casino (Burswood Island) Agreement Amendment Order 2006 (see Gazette 4 Jul 2006 p. 2467-71) | 4 Jul 2006
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Casino (Burswood Island) Agreement Amendment Order 2007 (see Gazette 12 Jun 2007 p. 2731-5) | 12 Jun 2007
 The Liquor Licensing (Moratorium) Act 1983 expired on 31 December 1986.
 The Liquor Act 1970 was repealed by the Liquor Licensing Act 1988.
 The Local Government Act 1960 s. 248 was repealed by the Local Government Act 1995.
