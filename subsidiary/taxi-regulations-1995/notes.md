@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 25 May 2007 of the Taxi Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Taxi Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Taxi Regulations 1995 | 10 Jan 1995 p. 75-90 | 10 Jan 1995 (see r. 2 and Gazette 10 Jan 1995 p. 73)
@@ -25,9 +25,26 @@ Taxi Amendment Regulations (No. 4) 2006 | 23 Jun 2006 p. 2227 | 1 Jul 2006 (see 
 Taxi Amendment Regulations (No. 5) 2006 | 8 Dec 2006 p. 5391-2 | 8 Dec 2006
 Taxi Amendment Regulations (No. 6) 2006 | 22 Dec 2006 p. 5822-3 | 22 Dec 2006
 Reprint 3: The Taxi Regulations 1995 as at 25 May 2007 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Taxi Amendment Regulations 2007 r. 3 and 4 | 12 Jun 2007 | 1 Jul 2007 (see r. 2)
 Plans of the former Department of Land Administration are now held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 Now cited as the Local Government (Miscellaneous Provisions) Act 1960.
-Under the Public Sector Management Act 1994 departments can be established and named. At the time this reprint was prepared, the designation of the department known as the Department of Justice had been altered to the Department of the Attorney General and the Department of Corrective Services is established.
+Under the Public Sector Management Act 1994 departments can be established and named. At the time this compilation was prepared, the designation of the department known as the Department of Justice had been altered to the Department of the Attorney General and the Department of Corrective Services is established.
 Now known as the registrar of the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
+On the date as at which this compilation was prepared, the Taxi Amendment Regulations 2007 r. 3 and 4 had not come into operation. They read as follows:
+“
+3.The regulations amended
+The amendments in these regulations are to the Taxi Regulations 1995.
+4.Regulation 19 amended
+(1) Regulation 19(1)(a) is amended by deleting “$88” and inserting instead —
+“ $100 ”.
+(2) Regulation 19(4) is amended as follows:
+(a) in paragraph (a) by deleting “$31” and inserting instead —
+“ $32.50 ”;
+(b) in paragraph (b) by deleting “$51.80” and inserting instead —
+“ $54.30 ”.
+”.
