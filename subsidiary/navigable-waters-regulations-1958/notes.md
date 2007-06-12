@@ -113,6 +113,10 @@ Navigable Waters Amendment Regulations (No. 2) 2005 | 10 Feb 2006 p. 667-75 | 10
 Navigable Waters Amendment Regulations 2006 | 23 Jun 2006 p. 2207-8 | 1 Jul 2006 (see r. 2)
 Reprint 12: The Navigable Waters Regulations 1958 as at 4 Aug 2006 (includes amendments listed above)
 Navigable Waters Amendment Regulations (No. 2) 2006 | 1 Sep 2006 p. 3596-9 | 2 Sep 2006 (see r. 2(a) and Gazette 1 Sep 2006 p. 3591)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Navigable Waters Amendment Regulations 2007 r. 3-6 | 12 Jun 2007 | 1 Jul 2007 (see r. 2)
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 reads as follows:
@@ -120,4 +124,34 @@ The Navigable Waters Amendment Regulations 1992 r. 9 reads as follows:
 9.Transitional
 (1) Notwithstanding regulations 4 and 6 of these regulations, regulations 45B and 45D of the principal regulations, as they were immediately before the commencement of these regulations, continue to apply in relation to a vessel registered with the department in the year ending 30 June 1992, until that vessel’s registration expires or is renewed.
 (2) Notwithstanding regulation 5 of these regulations, regulation 45BAA of the principal regulations, as it was immediately before the commencement of these regulations, continues to apply in relation to a foreign pleasure vessel registered with the department in the year ending 30 June 1992, until that foreign pleasure vessel’s registration expires or is renewed.
+”.
+On the date as at which this compilation was prepared, the Navigable Waters Amendment Regulations 2007 r. 3-6 had not come into operation. They read as follows:
+“
+3.The regulations amended
+The amendments in these regulations are to the Navigable Waters Regulations 1958.
+4.Regulation 45B amended
+(1) The Table to regulation 45B(3a)(b) is amended as follows:
+(a) by deleting “$58.60” and inserting instead —
+“ $61.40 ”;
+(b) by deleting “$114.80” and inserting instead —
+“ $120.30 ”;
+(c) by deleting “$213.50” and inserting instead —
+“ $223.70 ”;
+(d) by deleting “$292.30” and inserting instead —
+“ $306.30 ”.
+(2) Regulation 45B(4) is amended by deleting “$27.50.” and inserting instead —
+“ $28.80. ”.
+5.Regulation 45BAA amended
+Regulation 45BAA(4)(g) is amended by deleting “$27.50” and inserting instead —
+“ $28.80 ”.
+6.Regulation 45BA amended
+(1) Regulation 45BA(2) is amended as follows:
+(a) by deleting “$241.60” and inserting instead —
+“ $253.10 ”;
+(b) by deleting “$65.80” and inserting instead —
+“ $68.90 ”.
+(2) Regulation 45BA(3) is amended by deleting “$181.80” and inserting instead —
+“ $190.50 ”.
+(3) Regulation 45BA(6a)(b) is amended by deleting “$65.80.” and inserting instead —
+“ $68.90. ”.
 ”.
