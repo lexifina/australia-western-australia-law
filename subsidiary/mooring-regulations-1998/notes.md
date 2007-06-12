@@ -12,3 +12,18 @@ Mooring Amendment Regulations 2004 | 25 Jun 2004 p. 2289 | 1 Jul 2004 (see r. 2)
 Mooring Amendment Regulations 2005 | 24 Jun 2005 p. 2779-80 | 1 Jul 2005 (see r. 2)
 Mooring Amendment Regulations 2006 | 26 May 2006 p. 1879-80 | 26 May 2006
 Mooring Amendment Regulations (No. 2) 2006 | 23 Jun 2006 p. 2206 | 1 Jul 2006 (see r. 2)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Mooring Amendment Regulations 2007 r. 3 and 4 | 12 Jun 2007 | 1 Jul 2007 (see r. 2)
+On the date as at which this compilation was prepared, the Mooring Amendment Regulations 2007 r. 3 and 4 had not come into operation. They read as follows:
+“
+3.The regulations amended
+The amendments in these regulations are to the Mooring Regulations 1998.
+4.Schedule 2 amended
+Schedule 2 is amended as follows:
+(a) in items 1, 3, 4, 5, 6 and 7 by deleting “$51.50” and inserting instead —
+“ $64.20 ”;
+(b) in item 2 by deleting “$251.60” and inserting instead —
+“ $364.30 ”.
+”.
