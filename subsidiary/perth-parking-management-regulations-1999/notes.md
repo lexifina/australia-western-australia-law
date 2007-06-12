@@ -11,3 +11,24 @@ Perth Parking Management Amendment Regulations 2004 | 21 May 2004 p. 1713-14 | 1
 Reprint 1: The Perth Parking Management Regulations 1999 as at 21 Jan 2005 (includes amendments listed above)
 Perth Parking Management Amendment Regulations 2005 | 10 Jun 2005 p. 2567 | 1 Jul 2005 (see r. 2)
 Perth Parking Management Amendment Regulations 2006 | 12 May 2006 p. 1788 | 1 Jul 2006 (see r. 2)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Perth Parking Management Amendment Regulations (No. 2) 2007 r. 3 and 4 | 12 Jun 2007 | 1 Jul 2007 (see r. 2)
+On the date as at which this compilation was prepared, the Perth Parking Management Amendment Regulations (No. 2) 2007 r. 3 and 4 had not come into operation. They read as follows:
+“
+3.The regulations amended
+The amendments in these regulations are to the Perth Parking Management Regulations 1999.
+4.Schedule 2 amended
+Schedule 2 is amended as follows:
+(a) in item 11(i), by deleting “84.75” and inserting instead —
+“ 88.50 ”;
+(b) in item 11(ii), by deleting “195.50” and inserting instead —
+“ 205.00 ”;
+(c) in item 11(iii), by deleting “169.00” and inserting instead —
+“ 177.00 ”;
+(d) in item 11(iv), by deleting “169.00” and inserting instead —
+“ 177.00 ”;
+(e) in item 11(v), by deleting “195.50” and inserting instead —
+“ 205.00 ”.
+”.
