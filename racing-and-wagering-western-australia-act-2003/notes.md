@@ -8,6 +8,7 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 16 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 1: The Racing and Wagering Western Australia Act 2003 as at 22 Sep 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 13 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Racing, Wagering and Betting Legislation Amendment and Repeal Act 2007 Pt. 5 | 8 of 2007 | 13 Jun 2007 | 14 Jun 2007 (see s. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and are not included in this compilation. For the text of the provisions see the endnote referred to after the short title.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

@@ -48,6 +48,7 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Reprint 8: The Betting Control Act 1954 as at 20 Oct 2006 (includes amendments listed above)
 Betting and Racing Legislation Amendment Act 2006 s. 3, 5-8 and 10 | 70 of 2006 | 13 Dec 2006 | 29 Jan 2007 (see s. 2 and Gazette 23 Jan 2007 p. 181)
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
+Racing, Wagering and Betting Legislation Amendment and Repeal Act 2007 Pt. 2 | 8 of 2007 | 13 Jun 2007 | 14 Jun 2007 (see s. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
