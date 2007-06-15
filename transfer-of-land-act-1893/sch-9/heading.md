@@ -21,7 +21,7 @@ NOTES 1.A separate attestation should be made by each person signing this docume
  | Duplicates, Declarations, etc., lodged with this document. (To be filled in by person lodging.)
  | 1. .......................... 2. .......................... 3. .......................... 4. .......................... 5. .......................... 6. .......................... |  | Received items No’s. .................... Rec. Clerk.
 BELOW THIS LINE FOR OFFICE USE ONLY
- | Deposited at .......................................... o’clock this .................... day of ........................ 20 ........
+ | Deposited at ....................................... o’clock this .................... day of ............................... 20 ........
  | Initials of Signing Officer. | REGISTRAR OF TITLES
 EXAMINED.
 [Nineteenth Schedule inserted in Gazette 24 Feb 1970 p. 544-5; amended by No. 31 of 1997 s. 133.]
