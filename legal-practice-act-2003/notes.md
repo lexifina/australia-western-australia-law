@@ -1,13 +1,18 @@
 Notes
-This is a compilation of the Legal Practice Act 2003 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 15 June 2007 of the Legal Practice Act 2003 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
-Short title | Number and Year | Assent | Commencement
-Legal Practice Act 2003 | 64 of 2003 | 4 Dec 2003 | Act other than Pt. 8: 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722); Pt. 8: 1 Apr 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
+Short title | Number and year | Assent | Commencement
+Legal Practice Act 2003 | 64 of 2003 | 4 Dec 2003 | s. 1 and 2: 4 Dec 2003; Act other than s. 1 and 2 and Pt. 8: 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722); Pt. 8: 1 Apr 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Workers’ Compensation Reform Act 2004 s. 163 | 42 of 2004 | 9 Nov 2004 | 14 Nov 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131 and 17 Jun 2005 p. 2657); Para (b) of proclamation published 31 Dec 2004 p. 7131 revoked (see Gazette 17 Jun 2005 p. 2657)
-Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
+Acts Amendment (Court of Appeal) Act 2004 s. 37 (Sch. 1 it. 12) | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 72 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 1: The Legal Practice Act 2003 as at 15 Jun 2007 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Acts Amendment (Court of Appeal) Act 2004 s. 37 (Sch. 1 it. 23) | 45 of 2004 | 9 Nov 2004 | To be proclaimed (see s. 2)
 The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 Pt. 2 reads as follows:
 “
 Part 2 — Repeal of Legal Practitioners Act 1893 and transitional and savings provisions
@@ -70,7 +75,12 @@ to or in relation to any matter.
 (a) to affect in a manner prejudicial to any person (other than the State), the rights of that person existing before the day of publication of those regulations; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
 ”.
-Footnote no longer applicable.
-Footnote no longer applicable.
-Footnote no longer applicable.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this reprint was prepared, the Acts Amendment (Court of Appeal) Act 2004 Sch. 1 it. 23 had not come into operation. It reads as follows:
+“
+Schedule 1 — Minor amendments to various Acts
+[s. 37]
+23.Legal Practice Act 2003
+s. 202(2) | Delete “Full Court” and insert instead — “ Supreme Court (Full Bench) ”.
+”.
+The amendment to s. 202(2) in the Acts Amendment (Court of Appeal) Act 2004 Sch. 1 it. 23 would not be included because the subsection it seeks to amend was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 631.
