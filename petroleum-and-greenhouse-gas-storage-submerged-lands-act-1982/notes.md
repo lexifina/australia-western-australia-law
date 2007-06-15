@@ -1,28 +1,35 @@
 Notes
-This is a compilation of the Petroleum (Submerged Lands) Act 1982 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 15 June 2007 of the Petroleum (Submerged Lands) Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum (Submerged Lands) Act 1982 | 33 of 1982 | 27 May 1982 | 14 Feb 1983 (see s. 2(1))
-Acts Amendment (Petroleum) Act 1990, Part IV (as amended by Act No. 28 of 1994, Part 2) 2-5, 7, 9, 11 | 12 of 1990 | 31 Jul 1990 | 1 Oct 1990 (see s. 2 and Gazette 28 Sep 1990 p. 5099)
-Financial Administration Legislation Amendment Act 1993, Part 4 | 6 of 1993 | 27 Aug 1993 | Deemed operative 1 Jul 1993 (see s.2(1))
-Land (Titles and Traditional Usage) Act 1993, section 45 | 21 of 1993 | 2 Dec 1993 | 2 Dec 1993 (see s. 2)
-Petroleum Royalties Legislation Amendment Act 1994, Part 3 | 11 of 1994 | 15 Apr 1994 | Deemed operative 1 Mar 1994 (see s. 2)
-Acts Amendment (Petroleum) Act 1994, Part 6 | 28 of 1994 | 29 Jun 1994 | 22 Jul 1994 (see s. 2 and Gazette 22 Jul 1994 p. 3728)
-Acts Amendment (Public Sector Management) Act 1994, section 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
-Statutes (Repeals and Minor Amendments) Act 1994, section 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
-Acts Amendment and Repeal (Native Title) Act 1995, Part 8 | 52 of 1995 | 24 Nov 1995 | 9 Dec 1995 (see s. 2 and Gazette 8 Dec 1995 p. 5935)
-Acts Amendment (Marine Reserves) Act 1997, Part 5 | 5 of 1997 | 10 Jun 1997 | 29 Aug 1997 (see s. 2 and Gazette 29 Aug 1997 p. 4867)
-Statutes (Repeals and Minor Amendments) Act 1997, section 94 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2)
-Acts Amendment (Land Administration, Mining and Petroleum) Act 1998, Part 5 | 61 of 1998 | 11 Jan 1999 | 11 Jan 1999 (see s. 2(1))
-Gas Pipelines Access (Western Australia) Act 1998, section 89 | 65 of 1998 | 15 Jan 1999 | 9 Feb 1999 (see s. 2 and Gazette 8 Feb 1999 p. 441)
-Acts Amendment (Mining and Petroleum) Act 1999, Part 4 | 17 of 1999 | 15 Jun 1999 | 24 Jul 1999 (see s. 2 and Gazette 23 Jul 1999 p. 3385)
-Acts Amendment (Australian Datum) Act 2000, section 8 | 54 of 2000 | 28 Nov 2000 | 16 Dec 2000 (see s. 2 and Gazette 15 Dec 2000 p. 7201)
+Acts Amendment (Petroleum) Act 1990 Pt. IV 6-12 | 12 of 1990 (as amended by No. 28 of 1994 Pt. 2) | 31 Jul 1990 | 1 Oct 1990 (see s. 2 and Gazette 28 Sep 1990 p. 5099)
+Reprint of the Petroleum (Submerged Lands) Act 1982 as at 24 Mar 1992 (includes amendments listed above)
+Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
+Land (Titles and Traditional Usage) Act 1993 s. 45 | 21 of 1993 | 2 Dec 1993 | 2 Dec 1993 (see s. 2)
+Petroleum Royalties Legislation Amendment Act 1994 Pt. 3 | 11 of 1994 | 15 Apr 1994 | 1 Mar 1994 (see s. 2)
+Acts Amendment (Petroleum) Act 1994 Pt. 6 | 28 of 1994 | 29 Jun 1994 | 22 Jul 1994 (see s. 2 and Gazette 22 Jul 1994 p. 3728)
+Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
+Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
+Acts Amendment and Repeal (Native Title) Act 1995 Pt. 8 | 52 of 1995 | 24 Nov 1995 | 9 Dec 1995 (see s. 2 and Gazette 8 Dec 1995 p. 5935)
+Acts Amendment (Marine Reserves) Act 1997 Pt. 5 | 5 of 1997 | 10 Jun 1997 | 29 Aug 1997 (see s. 2 and Gazette 29 Aug 1997 p. 4867)
+Statutes (Repeals and Minor Amendments) Act 1997 s. 94 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
+Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 Pt. 5 | 61 of 1998 | 11 Jan 1999 | 11 Jan 1999 (see s. 2(1))
+Gas Pipelines Access (Western Australia) Act 1998 s. 89 | 65 of 1998 | 15 Jan 1999 | 9 Feb 1999 (see s. 2 and Gazette 8 Feb 1999 p. 441)
+Acts Amendment (Mining and Petroleum) Act 1999 Pt. 4 | 17 of 1999 | 15 Jun 1999 | 24 Jul 1999 (see s. 2 and Gazette 23 Jul 1999 p. 3385)
+Reprint of the Petroleum (Submerged Lands) Act 1982 as at 6 Aug 1999 (includes amendments listed above)
+Acts Amendment (Australian Datum) Act 2000 s. 8 | 54 of 2000 | 28 Nov 2000 | 16 Dec 2000 (see s. 2 and Gazette 15 Dec 2000 p. 7201)
 Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 18 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 97 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Petroleum Legislation Amendment and Repeal Act 2005 Pt. 4 | 13 of 2005 | 1 Sep 2005 | 28 Mar 2007 (see s. 2 and Gazette 27 Mar 2007 p. 1405)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-Section 191(2) of the Acts Amendment (Petroleum) Act 1990 (No. 12 of 1990) ( as amended by the Acts Amendment (Petroleum) Act 1994 (No. 28 of 1994 s.3)) reads —
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 3: The Petroleum (Submerged Lands) Act 1982 as at 15 Jun 2007 (includes amendments listed above)
+See the Gas Pipelines Access (Western Australia) Act 1998 s. 9.
+Repealed by the Off-shore (Application of Laws) Act 1982 s. 5.
+Repealed by the Petroleum Act 1967 s. 3.
+The amendment in the Petroleum Safety Act 1999 s. 92 was repealed by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before the amendment purported to come into operation.
+The Acts Amendment (Petroleum) Act 1990 s. 191(2) (as amended by the Acts Amendment (Petroleum) Act 1994 s. 3) reads as follows:
 “
 (2) Notwithstanding anything in the principal Act —
 (a) section 4 of the principal Act shall have effect in relation to the Barrow Island Pipeline and the Withnell Bay Pipeline as if —
@@ -59,7 +66,7 @@ in the instrument served under that subsection on that person.
 (d) section 66 of the principal Act shall have effect in relation to the Barrow Island Pipeline and the Withnell Bay Pipeline as if it had been enacted in the following form —
 “
 66.Rights conferred by pipeline licence
-A pipeline licence, while it remains in force, authorizes the pipeline licensee, subject to this Act and the regulations and to the conditions to which the pipeline licence is subject —
+A pipeline licence, while it remains in force, authorises the pipeline licensee, subject to this Act and the regulations and to the conditions to which the pipeline licence is subject —
 (a) to operate the existing pipeline to which the pipeline licence relates and its pumping stations, tank stations and valve stations specified in the pipeline licence; and
 (b) to carry on such operations, to execute such works and to do all such other things in the adjacent area as are necessary for or incidental to the operation of the existing pipeline, and the pumping stations, tank stations and valve stations, referred to in paragraph (a).
 ”;
@@ -75,13 +82,13 @@ or
 (2) If the Minister considers that, having regard to the dates of expiry of the licences that relate to the licence areas from which petroleum is conveyed by means of an existing pipeline, it is not necessary for the relevant pipeline licence to remain in force for a period of 21 years after renewal, that pipeline licence remains in force after renewal, subject to this Part, for such period of less than 21 years as the Minister determines and specifies in that pipeline licence.
 ”;
 ”;
-Section 191(3) of the Acts Amendment (Petroleum) Act 1990 (No. 12 of 1990) reads —
+The Acts Amendment (Petroleum) Act 1990 s. 191(3) reads as follows:
 “
 (3) In subsection (2) —
 “the Barrow Island Pipeline” means the pipeline which extends from Barrow Island to the offshore mooring terminal and which is more fully described in Special Lease No. 3116/3628 granted under section 116 of the Land Act 1933;
 “the Withnell Bay Pipeline” means the pipeline which extends from the North West Shelf Development Project Treatment Plant to the Product Loading Jetty near Withnell Bay and which is the subject of Pipeline Licence PL9 granted under the Petroleum Pipelines Act 1969.
 ”.
-Section 172(2), (3), (4), (5) and (6) of the Acts Amendment (Petroleum) Act 1990 (No. 12 of 1990) reads —
+The Acts Amendment (Petroleum) Act 1990 s. 172(2), (3), (4), (5) and (6) reads as follows:
 “
 (2) Where —
 (a) at the commencement of this section, a nomination had been made under section 36 of the principal Act; and
@@ -104,25 +111,23 @@ section 40(1) of the principal Act, as amended by this Act, applies as if the fi
 (e) the number of blocks specified in the notification exceeds the number of blocks in the location referred to in paragraph (b),
 section 40A(1) of the principal Act, as amended by this Act, applies as if the lease were in respect of the number of blocks specified in the notification referred to in paragraph (d).
 ”.
-Section 181(2) of the Acts Amendment (Petroleum) Act 1990 (No. 12 of 1990) reads —
+The Acts Amendment (Petroleum) Act 1990 s. 181(2) reads as follows:
 “
 (2) The revocation under section 46(3) of the principal Act of a declaration in respect of a location shall be deemed not to have affected the validity of a licence granted under the principal Act in respect of any block forming part of that location.
 ”.
-Section 188(2) and (3) of the Acts Amendment (Petroleum) Act 1990 (No. 12 of 1990) reads —
+The Acts Amendment (Petroleum) Act 1990 s. 188(2) and (3) reads as follows:
 “
 (2) Notwithstanding anything in section 37 of the Interpretation Act 1984, if, in respect of a year of the term of his licence that has elapsed prior to the commencement of this section, a licensee has not complied with section 57(1) or (2) of the principal Act, the licensee is not required after that commencement to comply with that section in respect of that year and section 57(3) of the principal Act does not apply to or in relation to such a non-compliance.
 (3) in subsection (2) —
 “licence” and “licensee” have the respective meanings given by the principal Act.
 ”.
-See the Gas Pipelines Access (Western Australia) Act 1998 (No. 65 of 1998), section 9.
-Section 201(2), (3) and (4) of the Acts Amendment (Petroleum) Act 1990 (No. 12 of 1990) reads —
+The Acts Amendment (Petroleum) Act 1990 s. 201(2), (3) and (4) reads as follows:
 “
 (2) Section 78 of the principal Act as amended by this Act applies in relation to applications for approval of transfers of permits, licences, pipeline licences or access authorities lodged after the commencement of this section.
 (3) Notwithstanding the repeal of section 78 of the principal Act effected by subsection (1), that section continues to apply in relation to applications for approval of transfers of permits, licences, pipeline licences or access authorities lodged before the commencement of this section.
 (4) A transfer approved and registered under section 78 of the principal Act shall be deemed to have been approved and registered under section 78 of the principal Act as amended by this Act.
 ”.
-The amendment in the Petroleum Safety Act 1999 s. 92 was repealed by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before the amendment purported to come into operation.
-Section 203(2), (3), (4), (5), (6) and (7) of the Acts Amendment (Petroleum) Act 1990 (No. 12 of 1990) reads —
+The Acts Amendment (Petroleum) Act 1990 s. 203(2), (3), (4), (5), (6) and (7) reads as follows:
 “
 (2) Subject to this section, sections 81 and 81A of the principal Act as amended by this Act apply in relation to dealings evidenced by instruments executed after the commencement of this section.
 (3) A party to an instrument to which section 81 of the principal Act applied, being an instrument that had not been approved under that section of that Act, may, if the instrument evidences a dealing —
@@ -145,15 +150,13 @@ to the Minister for approval of the dealing.
 (d) where the applicant lodges an instrument under paragraph (b), the applicant shall lodge with the instrument 2 copies of the instrument.
 (7) An instrument lodged under subsection (6) shall be taken, for the purposes of section 81(13) of the principal Act as amended by this Act, to have accompanied the application when the application was lodged.
 ”.
-Repealed by the Off-shore (Application of Laws) Act 1982 (No. 21 of 1982), section 5.
-Section 218(2) and (3) of the Acts Amendment (Petroleum) Act 1990 (No. 12 of 1990) reads —
+The Acts Amendment (Petroleum) Act 1990 s. 218(2) and (3) reads as follows:
 “
 (2) A direction in force under section 101 of the principal Act immediately before the commencement of this section shall, after that commencement, continue to apply to the person or persons to whom it applied before that commencement as if it were a direction under section 101 of the principal Act as amended by this Act.
 (3) A registered holder is not required by subsection 101(2a) of the principal Act as amended by this Act to cause a copy of a direction to which subsection (2) applies to be given to another person or to cause a copy of such a direction to be exhibited at a place frequented by that other person if the direction or a copy of the direction was served, within the meaning of the principal Act, on the person before the commencement of this section.
 ”.
-Repealed by the Petroleum Act 1967 (No. 72 of 1967), section 3.
-Clause 5(2) of Part 4 of Schedule 1 of the Land (Titles and Traditional Usage) Act 1993 (No. 21 of 1993) reads as follows —
+The Land (Titles and Traditional Usage) Act 1993 Sch. 1 Pt. 4 cl. 5(2) reads as follows:
 “
 (2) Division 4A inserted by subsection (1) does not apply to an application for approval lodged before the commencement of this section.
 ”.
-The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
