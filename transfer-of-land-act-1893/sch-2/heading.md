@@ -7,7 +7,7 @@ I [insert name and address] hereby apply to have the land hereinafter described 
 1.That I am the owner of an estate in fee simple in possession [or of an estate of freehold in possession for my life or otherwise as the case may require] in All That
 [if the land be part only of that granted by the Crown add which land contains (insert area) or thereabouts and is described in the document numbered
 in the Schedule hereto or otherwise after the word thereabouts set forth a sufficient description to identify the land.]
-2.That such land including all buildings and other improvements thereon is of the value of $and no more.
+2.That such land including all buildings and other improvements thereon is of the value of $ and no more.
 3.That there are no documents or evidences of title affecting such land in my possession or under my control other than those included in the Schedule hereto.
 4.That I am not aware of any mortgage or encumbrance or lease affecting the said land or that any other person hath any estate or interest therein at law or in equity in possession remainder reversion or expectancy [if there be any add other than as follows and set the same forth.]
 5.That the said land is occupied [if unoccupied prefix un to occupied if occupied add by whom and state the name and address of the occupant and the nature of his occupancy.]

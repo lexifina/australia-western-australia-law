@@ -1,5 +1,5 @@
 ## Schedule 9A
-Short and Long Forms of Certain Easements
+## Short and long forms of certain easements
 [Section 65(3)]
 Column 1 Short form description of easement | Column 2 Long form description of easement
 an easement for a right of footway | the right of every person who, for the time being, is entitled to an estate or interest in possession in the land indicated as the dominant tenement or any part of the land with which the right is capable of enjoyment or in the case of an easement in gross the person having the benefit of the easement and the right for that person and the person’s employees, agents and visitors, at any time, to go, pass and repass on foot for any purpose, without vehicles, to and from the dominant tenement or any such part of it by the way delineated in this plan /diagram /instrument
