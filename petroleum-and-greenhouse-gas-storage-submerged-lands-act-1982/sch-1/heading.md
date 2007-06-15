@@ -1,6 +1,6 @@
 ## Schedule 1
 [Section 4]
-CONVENTION ON THE CONTINENTAL SHELF
+## CONVENTION ON THE CONTINENTAL SHELF
 The States Parties to this Convention
 have agreed as follows:
 Article 1
