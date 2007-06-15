@@ -9,5 +9,5 @@ I (insert name, address, and occupation) hereby apply to have the land hereinaft
 Dated this day of 20 Made and subscribed at in the presence of —
 [The applicant, if in the State, to sign before the Registrar, an Assistant Registrar or any person who, under the Oaths, Affidavits and Statutory Declarations Act 2005, is an authorised witness for an affidavit made in the State; if out of the State, to sign before any person who, under that Act, is an authorised witness for an affidavit made out of the State.]
 Schedule of Documents referred to
-[Twenty-eighth Schedule inserted by No. 54 of 1909 s. 19 (as amended by No. 17 of 1950 s. 75; No. 24 of 2005 s. 63.]
+[Twenty-eighth Schedule inserted by No. 54 of 1909 s. 19 (as amended by No. 17 of 1950 s. 75); amended by No. 24 of 2005 s. 63.]
 [Schedule titled The Last Schedule repealed by No. 17 of 1950 s. 74.]
