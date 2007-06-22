@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 May 2007 of the Road Traffic (Vehicle Licensing) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Licensing) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Licensing) Regulations 1975 | 29 May 1975 p. 1577-88 | 1 Jun 1975
@@ -129,10 +129,11 @@ Road Traffic (Licensing) Amendment Regulations (No. 2) 2006 | 26 May 2006 p. 188
 Road Traffic (Licensing) Amendment Regulations (No. 3) 2006 | 26 May 2006 p. 1888-92 | 1 Jul 2006 (see r. 2)
 Road Traffic (Licensing) Amendment Regulations 2006 | 28 Nov 2006 p. 4898-911 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
 Reprint 7: The Road Traffic (Vehicle Licensing) Regulations 1975 as at 18 May 2007 (includes amendments listed above)
+Road Traffic (Vehicle Licensing) Amendment Regulations 2007 | 22 Jun 2007 p. 2873-4 | 22 Jun 2007
 Revoked on 4 Oct 1974 (see Gazette 3 Oct 1974 p. 3701).
 Revoked on 1 Jun 1975 (see Gazette 29 May 1975 p. 1577).
 Under the Local Government Act 1995 Sch. 9.3 cl. 3(2) a reference to a municipality or municipal district under the Local Government Act 1960 may, when the context requires, be read as if it had been amended to include or be a reference to a local government or local government district under the Local Government Act 1995. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
-Now known as the Road Traffic (Vehicle Licensing) Regulations 1975; citation changed (see note under r. 1).
+Now known as the Road Traffic (Licensing) Regulations 1975; citation changed (see note under r. 1).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The Road Traffic (Licensing) Amendment Regulations 1996 r. 15 is a transitional provision of no further effect.
 The Road Traffic (Licensing) Amendment Regulations (No. 3) 1996 r. 6 is a transitional provision of no further effect.
