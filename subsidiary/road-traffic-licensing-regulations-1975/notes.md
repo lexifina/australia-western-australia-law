@@ -129,6 +129,7 @@ Road Traffic (Licensing) Amendment Regulations (No. 2) 2006 | 26 May 2006 p. 188
 Road Traffic (Licensing) Amendment Regulations (No. 3) 2006 | 26 May 2006 p. 1888-92 | 1 Jul 2006 (see r. 2)
 Road Traffic (Licensing) Amendment Regulations 2006 | 28 Nov 2006 p. 4898-911 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
 Reprint 7: The Road Traffic (Vehicle Licensing) Regulations 1975 as at 18 May 2007 (includes amendments listed above)
+Road Traffic (Vehicle Licensing) Amendment Regulations (No. 4) 2007 | 22 Jun 2007 p. 2871-2 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)) Regulations other than r. 1 and 2: 23 Jun 2007 (see r. (2(b))
 Road Traffic (Vehicle Licensing) Amendment Regulations 2007 | 22 Jun 2007 p. 2873-4 | 22 Jun 2007
 Revoked on 4 Oct 1974 (see Gazette 3 Oct 1974 p. 3701).
 Revoked on 1 Jun 1975 (see Gazette 29 May 1975 p. 1577).
