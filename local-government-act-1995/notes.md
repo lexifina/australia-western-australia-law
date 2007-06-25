@@ -43,6 +43,7 @@ Local Government Amendment Act 2004 s. 16(1), (2), (3) and (5), 19(2), 20 and 38
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Local Government Amendment Act 2006 s. 14 | 66 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2(2))
 Local Government (Official Conduct) Amendment Act 2007 s. 4-13 | 1 of 2007 | 28 Mar 2007 | To be proclaimed (see s. 2)
+Local Government Amendment Act 2007 s. 3-6 | 9 of 2007 | 25 Jun 2007 | To be proclaimed (see s. 2)
 The provisions in this Act amending the Local Government Act 1960 have been omitted under s. 7(4)(e) of the Reprints Act 1984. Schedule 9.2 cl. 4 reads as follows:
 “
 4.Parts II to VII repealed
@@ -623,4 +624,125 @@ No liability attaches to a member for any act or omission by the member or on th
 (3) The primary standards panel may apply to the Minister before 31 August for an extension of time in which to lodge the annual report and the Minister may grant an extension on such terms as the Minister thinks fit.
 (4) As soon as practicable after receiving the annual report, the Minister is to cause a copy of it to be laid before each House of Parliament.
 ”.
+”.
+On the date as at which this compilation was prepared, the Local Government Amendment Act 2007 s. 3-6 had not come into operation. They read as follows:
+“
+3.The Act amended
+The amendments in this Act are to the Local Government Act 1995.
+4.Section 4.69 amended
+(1) Section 4.69(1) is amended by inserting after “election” —
+“ and only 2 candidates are named on the ballot paper ”.
+(2) Section 4.69(2) is repealed and the following subsections are inserted instead —
+“
+(2) In any other case, an elector is to cast his or her vote by marking the ballot paper in accordance with regulations so as to indicate the sequence in which all the candidates named on the ballot paper rank in the order of the elector’s preference for them.
+(3) If preferences are indicated for all but one of the candidates, that candidate is taken to rank lowest in the order of the elector’s preference for the candidates.
+”.
+5.Schedule 4.1 replaced
+Schedule 4.1 is repealed and the following Schedule is inserted instead —
+“
+Schedule 4.1 — How to count votes and ascertain the result of an election
+[s. 4.74]
+Division 1 — Preliminary
+1.Terms used in this Schedule
+(1) In this Schedule —
+“continuing candidate” means a candidate who has not already been elected or excluded from the count;
+“first preference vote” received by a candidate means a vote cast by an elector that indicates that the candidate ranks highest in the order of the elector’s preference for the candidates;
+“one office election” means an election to fill the office of mayor or president or to fill one office of councillor;
+“quota” means the quota determined under clause 10(1);
+“total vote” means the total number of all the first preference votes received by candidates.
+(2) A reference in this Schedule to votes of or obtained or received by a candidate includes votes obtained or received by the candidate on any transfer under this Schedule.
+Division 2 — One office elections
+2.One office election: 2 candidates
+(1) If there are only 2 candidates in a one office election —
+(a) the number of votes received by each candidate is to be ascertained; and
+(b) the candidate who has the greater number of votes is elected.
+(2) If the candidates have an equal number of votes, the returning officer is to draw lots in accordance with regulations to determine which candidate is elected.
+3.One office election: 3 or more candidates
+Clauses 4 to 8 apply if there are 3 or more candidates in a one office election.
+4.Count of first preference votes
+(1) The number of first preference votes received by each candidate and the total vote are to be ascertained.
+(2) If the number of first preference votes received by a candidate is more than half of the total vote, the candidate is elected.
+5.Exclusion of candidate and transfer of votes if vacancy remains
+(1) If the office has not been filled, the candidate who has the fewest first preference votes is excluded and all of that candidate’s votes are to be transferred to the continuing candidates as follows —
+(a) any ballot papers of the excluded candidate that express the first preference vote for the excluded candidate and the next available preference for a particular continuing candidate are to be transferred to the continuing candidate;
+(b) the total number of ballot papers that are transferred to a continuing candidate under paragraph (a) is to be added to the number of votes of the continuing candidate.
+(2) If the number of votes that a continuing candidate has received on the completion of the transfer under subclause (1) is more than half of the total vote, the candidate is elected.
+6.Further exclusions if necessary
+(1) If, after the transfer of all the votes of an excluded candidate, the office has not been filled, the candidate who has the fewest votes is excluded and all of that candidate’s votes are to be transferred to the continuing candidates as follows —
+(a) any ballot papers of the excluded candidate that express the first preference vote for the excluded candidate and the next available preference for a particular continuing candidate are to be transferred to the continuing candidate;
+(b) the total number of ballot papers that are transferred to a continuing candidate under paragraph (a) is to be added to the number of votes of the continuing candidate;
+(c) any ballot papers previously transferred to the excluded candidate under this Division that express the next available preference for a particular continuing candidate are to be transferred to the continuing candidate;
+(d) the total number of ballot papers that are transferred to a continuing candidate under paragraph (c) is to be added to the number of votes of the continuing candidate.
+(2) If the number of votes that a continuing candidate has received on the completion of the transfer under subclause (1) is more than half of the total vote, the candidate is elected.
+7.Filling vacancy if 2 candidates have equal votes after a transfer
+If there are only 2 continuing candidates and they have received the same number of votes on the completion of a transfer under clause 5(1) or 6(1), the returning officer is to draw lots in accordance with regulations to determine which candidate is elected.
+8.Procedure to determine excluded candidate if votes equal
+If the candidate who has the fewest votes is required to be excluded under clause 5(1) or 6(1), and 2 or more candidates (the “tied candidates”) have an equal number of votes (no other candidate having fewer votes) the returning officer is to draw lots in accordance with regulations to determine which of the tied candidates is excluded.
+Division 3 — Elections for 2 or more councillors
+9.Application of Division
+This Division applies to an election other than a one office election.
+10.Count of first preference votes and determination of quota
+(1) The number of first preference votes received by each candidate and the total vote are to be ascertained and a quota is to be determined by dividing the total vote by one more than the number of candidates required to be elected and by increasing the quotient so obtained (disregarding any remainder) by one.
+(2) Any candidate who has received a number of first preference votes equal to or greater than the quota is elected.
+11.Transfer of surplus votes if any vacancy remains
+(1) Unless all the offices have been filled, the votes (if any) that each elected candidate has received in excess of the quota (“surplus votes”) are to be transferred to the continuing candidates as follows —
+(a) the number of surplus votes of the elected candidate is to be divided by the number of first preference votes received by the elected candidate and the resulting fraction is the “transfer value”;
+(b) the total number of ballot papers of the elected candidate that express the first preference vote for the elected candidate and the next available preference for a particular continuing candidate is to be multiplied by the transfer value;
+(c) the number so obtained (disregarding any fraction) is to be added to the number of first preference votes of the continuing candidate;
+(d) all those ballot papers are to be transferred to the continuing candidate.
+(2) Any continuing candidate who has received a number of votes equal to or greater than the quota on the completion of any transfer under subclause (1) is elected.
+12.Further transfer of votes if any vacancy remains
+(1) Unless all the offices have been filled, the surplus votes (if any) of any candidate elected under clause 11(2), or elected subsequently under subclause (2), are to be transferred to the continuing candidates as follows —
+(a) the number of surplus votes of the elected candidate is to be divided by the number of votes received by the elected candidate and the resulting fraction is the “surplus fraction”;
+(b) in relation to any particular ballot papers for surplus votes of the elected candidate, the surplus fraction is to be multiplied by the transfer value at which those ballot papers were transferred to the elected candidate, or by one if they expressed first preference votes for the elected candidate, and the product is the “continued transfer value” of those particular ballot papers;
+(c) the total number of ballot papers for surplus votes of the elected candidate that each —
+(i) express the next available preference for a particular continuing candidate; and
+(ii) have a particular continued transfer value,
+are to be multiplied by that transfer value, the number so obtained (disregarding any fraction) is to be added to the number of votes of the continuing candidate and all those ballot papers are to be transferred to the continuing candidate.
+(2) If on the completion of the transfer of the surplus votes of the elected candidate to a particular continuing candidate that candidate has received a number of votes equal to or greater than the quota, that candidate is elected.
+13.Votes of other candidates not to be transferred to a candidate who has obtained a quota
+If a continuing candidate has received a number of votes equal to or greater than the quota on the completion of a transfer under clause 11 or 12 of the surplus votes of a particular elected candidate, no votes of any other candidate are to be transferred to the continuing candidate.
+14.Exclusion of candidate and transfer of votes if any vacancy remains
+If, after the counting of first preference votes or the transfer of surplus votes (if any) of elected candidates, no candidate has, or less than the number of candidates required to be elected have, received a number of votes equal to the quota, the candidate who has the fewest votes is excluded and all of that candidate’s votes are to be transferred to the continuing candidates as follows —
+(a) any ballot papers of the excluded candidate that express the first preference vote for the excluded candidate and the next available preference for a particular continuing candidate are to be transferred to the continuing candidate (each ballot paper at a transfer value of one);
+(b) the total number of ballot papers that are transferred to a continuing candidate under paragraph (a) is to be added to the number of votes of the continuing candidate;
+(c) the total number (if any) of other votes obtained by the excluded candidate on transfers under this Division are to be transferred from the excluded candidate in the order of the transfers on which the excluded candidate obtained them, the votes obtained on the earliest transfer being transferred first, as follows —
+(i) the total number of ballot papers transferred to the excluded candidate from a particular candidate and expressing the next available preference for a particular continuing candidate are to be multiplied by the transfer value at which the ballot papers were so transferred to the excluded candidate;
+(ii) the number so obtained (disregarding any fraction) is to be added to the number of votes of the continuing candidate;
+(iii) all those ballot papers are to be transferred to the continuing candidate.
+15.Further transfer of surplus votes if necessary
+Any continuing candidate who has received a number of votes equal to or greater than the quota on the completion of a transfer under clause 14 or 16 of votes of an excluded candidate is elected, and, unless all the offices have been filled, the surplus votes (if any) of the candidate so elected are to be transferred in accordance with clause 12, except that, if the candidate so elected is elected before all the votes of the excluded candidate have been transferred, the surplus votes (if any) of the candidate so elected are not to be transferred until the remaining votes of the excluded candidate have been transferred in accordance with clause 14 to continuing candidates.
+16.Further exclusions if necessary
+Subject to clause 18, if, after the transfer of all the votes of an excluded candidate, no continuing candidate has received a number of votes greater than the quota, the continuing candidate who has the fewest votes is excluded and that candidate’s votes are to be transferred in accordance with clause 14.
+17.Transfer of votes to a candidate to cease as soon as quota has been obtained
+If a candidate is elected as a result of a transfer of the first preference votes of an excluded candidate or a transfer of all the votes of an excluded candidate that were transferred to the excluded candidate from a particular candidate, no other votes of the excluded candidate are to be transferred to the candidate so elected.
+18.Filling final vacancy
+In respect of the last office to be filled for which 2 continuing candidates remain, the continuing candidate who has the larger number of votes is elected even if that number is below the quota, and if they have an equal number of votes the returning officer is to draw lots in accordance with regulations to determine which candidate is elected.
+19.No need for further count if number of continuing candidates equals number of vacancies
+Despite any other provision of this Division, if the number of continuing candidates is equal to the number of remaining unfilled offices, those candidates are elected.
+20.Order of transfer of surpluses
+Subject to clauses 21 and 22, if, after any count or transfer under this Division, 2 or more candidates have surplus votes, the order of any transfers of the surplus votes of those candidates is to be in accordance with the relative sizes of the surpluses, the larger or largest surplus being transferred first.
+21.Procedure in case of equal surpluses
+Subject to clause 22, if, after any count or transfer under this Division, 2 or more candidates have equal surpluses, the order of any transfers of the surplus votes of those candidates is to be in accordance with the relative numbers of votes of those candidates at the last count or transfer at which each of those candidates had a different number of votes, the surplus of the candidate with the larger or largest number of votes at that count or transfer being transferred first, but if there has been no such count or transfer the returning officer is to draw lots in accordance with regulations to determine which candidate is, as between those candidates, taken to have had the larger or largest surplus.
+22.Surplus from earlier count or transfer to be transferred before later surplus
+If, after any count or transfer under this Division, a candidate obtains surplus votes, those surplus votes are not to be transferred before the transfer of any surplus votes obtained by any other candidate on an earlier count or transfer.
+23.Procedure to determine excluded candidate if votes equal
+If the candidate who has the fewest votes is required to be excluded under clause 14 or 16 and 2 or more candidates (the “tied candidates”) have an equal number of votes (no other candidate having fewer votes), whichever of the tied candidates had the fewer or fewest votes at the last count or transfer at which each of the tied candidates had a different number of votes is excluded, but if there has been no such count or transfer the returning officer is to draw lots in accordance with regulations to determine which of the tied candidates is excluded.
+24.When votes are to be set aside as finally dealt with
+If a candidate is elected by reason that the number of first preference votes received by the candidate, or the aggregate of first preference votes received by the candidate and all other votes obtained by the candidate on transfers under this Division, is equal to the quota, all the ballot papers expressing those votes are to be set aside as finally dealt with.
+25.Transfers to be treated separately
+Each of the following constitutes a separate transfer for the purposes of this Division —
+(a) a transfer under clause 11, 12 or 15 of all the surplus votes of an elected candidate;
+(b) a transfer in accordance with clause 14(a) and (b) of all first preference votes of an excluded candidate;
+(c) a transfer in accordance with clause 14(c) of all the votes of an excluded candidate that were transferred to the excluded candidate from a particular candidate.
+”.
+6.Schedule 4.2 amended
+(1) Schedule 4.2 clause 8 is amended by inserting before “votes” in each place where it occurs —
+“ primary ”.
+(2) After Schedule 4.2 clause 8 the following clause is inserted —
+“
+8A.In clause 8 —
+“primary vote” received by a person on his or her election means —
+(a)in relation to an election in which there are only 2 candidates to fill one office of councillor, a vote cast by an elector that indicates the person whom the elector wishes to be elected; or
+(b)in any other case, a vote cast by an elector that indicates that the person ranks highest in the order of the elector’s preference for the candidates.
 ”.
