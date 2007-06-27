@@ -13,7 +13,7 @@ Pigs | Bovines (70kg & under) Other animals | Bovines (over 70kg)
 7 | Esperance ............................ | 3.30 | 0.66 | 5.28
 8 | Gingin .................................. | — | 0.33 | 4.23
 9 | Greenough ........................... | 6.50 | 1.85 | 10.20
-10 | Harvey ................................. | — | 0.60 | 4.84
+10 | Harvey ................................. | — | 0.83 | 5.28
 11 | Manjimup ............................. | 4.12 | 0.82 | 6.60
 12 | Merredin .............................. | 1.10 | 0.22 | 1.76
 13 | Narrogin .............................. | 2.47 | 0.49 | 3.96
@@ -23,7 +23,7 @@ Pigs | Bovines (70kg & under) Other animals | Bovines (over 70kg)
 17 | Serpentine-Jarrahdale .......... | — | 0.36 | —
 18 | Tammin ............................... | — | 1.00 | —
 19 | Wyndham/East Kimberley .. | — | 0.55 | 4.40
-[Part 1 inserted in Gazette 22 Feb 2005 p. 811-12; amended in Gazette 31 May 2005 p. 2408; 15 Nov 2005 p. 5602; 12 Dec 2006 p. 5493; 30 Jan 2007 p. 213.]
+[Part 1 inserted in Gazette 22 Feb 2005 p. 811-12; amended in Gazette 31 May 2005 p. 2408; 15 Nov 2005 p. 5602; 12 Dec 2006 p. 5493; 30 Jan 2007 p. 213; 26 Jun 2007 p. 3029.]
 ## Part 2 — Game meat premises fees
 [r. 17(1)(f)(ii)]
  |  | $
