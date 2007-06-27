@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 November 2006 of the Lotteries Commission (Oz Lotto) Rules 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Lotteries Commission (Oz Lotto) Rules 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Lotteries Commission (Oz Lotto) Rules 1995 | 30 Oct 1995 p. 5007-29 | 20 Nov 1995 (see r. 2 and Gazette 30 Oct 1995 p. 5065)
@@ -14,5 +14,6 @@ Lotteries Commission (Oz Lotto) Amendment Rules 2005 | 5 Aug 2005 p. 3597-8 | 5 
 Lotteries Commission (Oz Lotto) Amendment Rules (No. 2) 2005 | 6 Sep 2005 p. 4119-28 | 12 Oct 2005 (see r. 2)
 Lotteries Commission (Oz Lotto) Amendment Rules 2006 | 29 Sep 2006 p. 4270-1 | 29 Sep 2006
 Reprint 2: The Lotteries Commission (Oz Lotto) Rules 1995 as at 17 Nov 2006 (includes amendments listed above)
+Lotteries Commission (Oz Lotto) Amendment Rules 2007 | 26 Jun 2007 p. 3054-5 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Rules other than r. 1 and 2: 27 Jun 2007 (see r. 2(b))
 Repealed by the Lotteries Commission (Saturday Lotto) Rules 1996.
 The Lotteries Commission (Oz Lotto) Amendment Rules 1997 r. 9 is a transitional provision that is of no further effect.

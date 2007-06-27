@@ -6,13 +6,6 @@ Prize Fund % Subscriptions | 60.0%
 Prize pool — % of Subscriptions | no less than 55.0%
 Prize reserve fund — % of Subscriptions | balance of prize fund after prize pool (up to 5.0%)
 Number of Divisions | Seven
-Prize Pool – division 1 | 40.0%
-Prize Pool – division 2 | 1.7%
-Prize Pool – division 3 | 3.5%
-Prize Pool – division 4 | 1.8%
-Prize Pool – division 5 | 2.1%
-Prize Pool – division 6 | 24.0%
-Prize Pool – division 7 | 26.9%
 Winning Numbers Drawn | 7
 Supplementary Numbers Drawn | 2
 Odds of winning —
@@ -34,4 +27,4 @@ Games per oral request | 6, 12, 14, 18 or 25
 Systems entries per oral request | 1
 Prize Payment Period | 12 Months
 Maximum Aggregate Entry Cost | $99,999.00
-[Schedule 4 inserted in Gazette 6 Sep 2005 p. 4127-8; amended in Gazette 29 Sep 2006 p. 4271.]
+[Schedule 4 inserted in Gazette 6 Sep 2005 p. 4127-8; amended in Gazette 29 Sep 2006 p. 4271; 26 Jun 2007 p. 3055.]
