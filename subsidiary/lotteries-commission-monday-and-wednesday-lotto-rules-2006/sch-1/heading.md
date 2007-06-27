@@ -1,6 +1,6 @@
 ## Schedule 1
-## Cost of entry — Monday or Wednesday Lotto
-## Total cost of entry — Monday or Wednesday lotto draw
+Cost of entry — Monday or Wednesday Lotto
+Total cost of entry — Monday or Wednesday lotto draw
 [r. 5(1)]
 The cost of entering a Monday or a Wednesday lotto draw is made up of a subscription of 30 cents per game and an agent’s component (as set out in Schedule 2) making the total cost per number and type of game per week as follows —
 System | No. of | 1 Week | 2 Weeks | 5 Weeks | 10 Weeks
