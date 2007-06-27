@@ -6,13 +6,6 @@ Prize fund — % of subscriptions | 60.0%
 Prize pool — % of subscriptions | no less than 55.0%
 Prize reserve fund — % of subscriptions | balance of prize fund after prize pool (up to 5.0%)
 Number of divisions | 7
-Prize pool – division 1 | 40.0%
-Prize pool – division 2 | 12.9%
-Prize pool – division 3 | 5.9%
-Prize pool – division 4 | 4.6%
-Prize pool – division 5 | 2.6%
-Prize pool – division 6 | 11.7%
-Prize pool – division 7 | 22.3%
 Winning numbers drawn — barrel A | 5
 Powerball numbers drawn | 1
 Forecast range — barrel A | 1 to 45 inclusive
@@ -32,4 +25,4 @@ Systems entries per oral request | 1
 Powerpik entries per oral request | 1
 Prize payout period | 12 months
 Maximum Aggregate Entry Cost | $99,999.00
-[Schedule 4 amended in Gazette 29 Apr 1997 p. 2150; 9 Mar 2001 p. 1335-6; 16 Nov 2004 p. 5065; 29 Sep 2006 p. 4272-3; 13 Oct 2006 p. 4414.]
+[Schedule 4 amended in Gazette 29 Apr 1997 p. 2150; 9 Mar 2001 p. 1335-6; 16 Nov 2004 p. 5065; 29 Sep 2006 p. 4272-3; 13 Oct 2006 p. 4414; 26 Jun 2007 p. 3052-3.]

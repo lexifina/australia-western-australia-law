@@ -1,9 +1,7 @@
 ## Schedule 1
 [Rule 5]
-Total cost of entry
-Powerball lotto
-Total cost of entry — Powerball draw
-The cost of entering a powerball draw is made up of a subscription of 55 cents per game and an agent’s component (as set out in Schedule 2) making the total cost per number and type of game per week as follows:
+Total cost of entry (up to but not including draw 586)
+The cost of entering a powerball draw drawn before 9 August 2007 is made up of a subscription of 55 cents per game and an agent’s component (as set out in Schedule 2) making the total cost per number and type of game per week as follows —
 Entry or | No. of | 1 Week | 2 Weeks | 5 Weeks | 10 Weeks
 System | games | $ | $ | $ | $
  | 2 | 1.20 | 2.40 | 6.00 | 12.00
@@ -46,4 +44,48 @@ Powerpik 12 | 35 640 | 21 375.00 | 42 750.00 | N/A | N/A
 Powerpik 13 | 57 915 | 34 650.00 | 69 300.00 | N/A | N/A
 Powerpik 14 | 90 090 | 54 000.00 | N/A | N/A | N/A
 Powerpik 15 | 135 135 | 81 000.00 | N/A | N/A | N/A
-[Schedule 1 amended in Gazette 29 Apr 1997 p. 2149; 9 Mar 2001 p. 1334; 16 Nov 2004 p. 5060-1; 13 Oct 2006 p. 4413.]
+Total cost of entry (from draw 586 onwards)
+The cost of entering a powerball draw drawn on or after 9 August 2007 is made up of a subscription of 60 cents per game and an agent’s component (as set out in Schedule 2) making the total cost per number and type of game per week as follows —
+Entry or | No. of | 1 Week | 2 Weeks | 5 Weeks | 10 Weeks
+System | games | $ | $ | $ | $
+ | 2 | 1.30 | 2.60 | 6.50 | 13.00
+ | 3 | 1.95 | 3.90 | 9.75 | 19.50
+ | 4 | 2.60 | 5.20 | 13.00 | 26.00
+ | 5 | 3.25 | 6.50 | 16.25 | 32.50
+ | 6 | 3.90 | 7.80 | 19.50 | 39.00
+ | 12 | 7.85 | 15.70 | 39.25 | 78.50
+ | 14 | 9.15 | 18.30 | 45.75 | 91.50
+ | 18 | 11.75 | 23.50 | 58.75 | 117.50
+ | 25 | 16.35 | 32.70 | 81.75 | 163.50
+System 6 | 6 | 3.90 | 7.80 | 19.50 | 39.00
+System 7 | 21 | 13.75 | 27.50 | 68.75 | 137.50
+System 8 | 56 | 36.60 | 73.20 | 183.00 | 366.00
+System 9 | 126 | 82.40 | 164.80 | 412.00 | 824.00
+System 10 | 252 | 164.80 | 329.60 | 824.00 | 1 648.00
+System 11 | 462 | 302.15 | 604.30 | 1 510.75 | 3 021.50
+System 12 | 792 | 517.95 | 1 035.90 | 2 589.75 | 5 179.50
+System 13 | 1 287 | 841.70 | 1 683.40 | 4 208.50 | 8 417.00
+System 14 | 2 002 | 1 309.30 | 2 618.60 | 6 546.50 | 13 093.00
+System 15 | 3 003 | 1 963.95 | 3 927.90 | 9 819.75 | 19 639.50
+System 16 | 4 368 | 2 856.65 | 5 713.30 | 14 283.25 | 28 566.50
+System 17 | 6 188 | 4 046.95 | 8 093.90 | 20 234.75 | 40 469.50
+System 18 | 8 568 | 5 603.45 | 11 206.90 | 28 017.25 | 56 034.50
+System 19 | 11 628 | 7 604.70 | 15 209.40 | 38 023.50 | 76 047.00
+System 20 | 15 504 | 10 139.60 | 20 279.20 | 50 698.00 | N/A
+System 3 | 861 | 563.10 | 1 126.20 | 2 815.50 | 5 631.00
+System 4 | 41 | 26.80 | 53.60 | 134.00 | 268.00
+ | Powerpik
+Powerpik 3 | 38 745 | 25 339.50 | 50 679.00 | N/A | N/A
+Powerpik 4 | 1 845 | 1 206.00 | 2 412.00 | 6 030.00 | 12 060.00
+Powerpik 5 | 45 | 29.45 | 58.90 | 147.25 | 294.50
+Powerpik 6 | 270 | 175.50 | 351.00 | 877.50 | 1 755.00
+Powerpik 7 | 945 | 618.75 | 1 237.50 | 3 093.75 | 6 187.50
+Powerpik 8 | 2 520 | 1 647.00 | 3 294.00 | 8 235.00 | 16 470.00
+Powerpik 9 | 5 670 | 3 708.00 | 7 416.00 | 18 540.00 | 37 080.00
+Powerpik 10 | 11 340 | 7 416.00 | 14 832.00 | 37 080.00 | 74 160.00
+Powerpik 11 | 20 790 | 13 596.75 | 27 193.50 | 67 983.75 | N/A
+Powerpik 12 | 35 640 | 23 307.75 | 46 615.50 | N/A | N/A
+Powerpik 13 | 57 915 | 37 876.50 | 75 753.00 | N/A | N/A
+Powerpik 14 | 90 090 | 58 918.50 | N/A | N/A | N/A
+Powerpik 15 | 135 135 | 88 377.75 | N/A | N/A | N/A
+[Schedule 1 amended in Gazette 29 Apr 1997 p. 2149; 9 Mar 2001 p. 1334; 16 Nov 2004 p. 5060-1; 13 Oct 2006 p. 4413; 26 Jun 2007 p. 3050-1.]
