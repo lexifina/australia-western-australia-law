@@ -66,6 +66,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 2 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
+Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 14 | 11 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 9.
 In this reprint the renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
 The Builders’ Registration Amendment Act 1986 s. 11(2) is a transitional provision that is of no further effect.
@@ -98,4 +99,21 @@ Section 3(1a) is repealed and the following subsection is inserted instead —
 (a) section 4B applies throughout the State; and
 (b) sections 12A and 12B apply throughout the State to building work that is home building work as defined in the Home Building Contracts Act 1991 section 3(1).
 ”.
+”.
+On the date as at which this compilation was prepared, the Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 14 had not come into operation. It reads as follows:
+“
+14.Consequential amendments to the Builders’ Registration Act 1939
+(1) The amendments in this section are to the Builders’ Registration Act 1939.
+(2) After section 4B(1) the following subsections are inserted —
+“
+(1a) A person to whom a building approval certificate is issued under section 374AA of the Local Government (Miscellaneous Provisions) Act 1960 must pay to the local government by which the certificate is issued (at the time of issue) such fee as is determined by the Minister.
+(1b) Subsection (1a) applies if and only if the certificate is issued in respect of building work for which no building licence was issued.
+”.
+(3) Section 4B(2) is amended as follows:
+(a) by deleting “referred to in subsection (1)” and inserting instead —
+“ or building approval certificate ”;
+(b) in paragraph (a) by inserting after “licence” —
+“ or certificate ”;
+(c) in paragraph (b) by inserting after “subsection (1)” —
+“ or (1a) ”.
 ”.
