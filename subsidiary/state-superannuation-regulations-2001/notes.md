@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Superannuation Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the State Superannuation Regulations 2001 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 State Superannuation Regulations 2001 | 16 Feb 2001 p. 921-1074 | 17 Feb 2001 (see r. 2 and Gazette 16 Feb 2001 p. 903)
@@ -28,6 +28,10 @@ Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 7 
 State Superannuation Amendment Regulations 2007 | 13 Apr 2007 p. 1577-613 | r. 70(5): 1 Jul 2002 (see r. 2(5)); r. 70(3): 9 Apr 2006 (see r. 2(3)); r. 70(4): 1 Jul 2006 (see r. 2(4)); r. 70(6): 31 Jul 2006 (see r. 2(6)); r. 70(2): 1 Jan 2007 (see r. 2(2)); Regulations other than r. 70(2)-(6): 13 Apr 2007 (see r. 2(1))
 State Superannuation Amendment Regulations (No. 2) 2007 | 13 Apr 2007 p. 1615-65 | 16 Apr 2007 (see r. 2)
 State Superannuation Amendment Regulations (No. 3) 2007 | 6 Jun 2007 p. 2615-26 | 6 Jun 2007
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2(1))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional And Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. Part 9 of these regulations were amending regulations under that subsection. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
 Footnote no longer applicable.
 Formerly referred to the Water Services Coordination Act 1995 the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -48,4 +52,21 @@ and
 (b) before the State Superannuation Amendment Regulations 2006 came into operation, ceased to be so excluded,
 is taken to have become a statutory Member when he or she ceased to be so excluded.
 (2) Anything done or purported to have been done under the State Superannuation Regulations 2001 before this Act came into operation in relation to a person to whom subsection (1) applies, is as valid as it would have been if the State Superannuation Amendment Regulations 2006 had come into operation immediately after the State Superannuation Regulations 2001 came into operation.
+”.
+On the date as at which this compilation was prepared, the Chemistry Centre (WA) Act 2007 s. 43, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+43.Amendments to other Acts
+Schedule 3 has effect.
+”.
+Schedule 3 cl. 6 reads as follows:
+“
+Schedule 3 — Amendment of other written laws
+[s. 43]
+6.State Superannuation Regulations 2001 amended
+(1) The amendments in this clause are to the State Superannuation Regulations 2001.
+(2) Schedule 1 Division 1 is amended by deleting item 7.
+(3) Schedule 1 Division 2 is amended by inserting after item 6 the following item —
+“
+6a.Chemistry Centre (WA) established by the Chemistry Centre (WA) Act 2007
+”.
 ”.
