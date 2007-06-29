@@ -132,6 +132,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 20
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act 2006 Pt. 2, 3 and 4 Div. 3 and 4 | 54 of 2006 | 26 Oct 2006 | To be proclaimed (see s. 2)
 Road Traffic Amendment (Drugs) Act 2007 Pt. 2 | 6 of 2007 | 23 May 2007 | To be proclaimed (see s. 2)
+Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2(1))
 Repealed by the Interpretation Act 1984.
 The Traffic Act Amendment Act (No. 2) 1968 came into operation on 20 December 1968 (see s. 2 and Gazette 19 December 1968 p. 3885).
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
@@ -1520,3 +1521,21 @@ Unless it has already come into operation, section 23 of the Road Traffic Amendm
 (d) by repealing subsection (4) and the Table to it.
 ”.
 Pt. 4 Div. 4 will not be included because the Road Traffic Amendment (Vehicle Licensing) Act 2001 has already commenced (see s. 45-48).
+On the date as at which this compilation was prepared, the Chemistry Centre (WA) Act 2007 s. 43, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+43.Amendments to other Acts
+Schedule 3 has effect.
+”.
+Schedule 3 cl. 5 reads as follows:
+“
+Schedule 3 — Amendment of other written laws
+[s. 43]
+5.Various references to Director of the Chemistry Centre changed to chief executive officer of the Chemistry Centre
+Each provision listed in the Table to this clause is amended by deleting “Director” in each place where it occurs and inserting instead —
+“ chief executive officer ”.
+Table
+…………..
+Road Traffic Act 1974 | s. 65 definitions of “analyst”, “authorised person” and “drug analyst”
+ | s. 70(2), (3b) and (3c)
+ | s. 72(3)
+”.
