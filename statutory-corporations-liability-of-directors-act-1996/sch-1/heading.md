@@ -1,4 +1,5 @@
 ## Schedule 1
+## Persons who are directors under Part 3
 [Section 7(1)]
 Corporation | Persons who are directors for the purposes of this Act | Act under which holds position
 Albany Port Authority | a director of the Authority | Port Authorities Act 1999
