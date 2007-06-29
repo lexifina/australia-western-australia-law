@@ -44,6 +44,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 20
 Local Government Amendment Act 2006 s. 14 | 66 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2(2))
 Local Government (Official Conduct) Amendment Act 2007 s. 4-13 | 1 of 2007 | 28 Mar 2007 | To be proclaimed (see s. 2)
 Local Government Amendment Act 2007 s. 3-6 | 9 of 2007 | 25 Jun 2007 | To be proclaimed (see s. 2)
+Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 | 11 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2)
 The provisions in this Act amending the Local Government Act 1960 have been omitted under s. 7(4)(e) of the Reprints Act 1984. Schedule 9.2 cl. 4 reads as follows:
 “
 4.Parts II to VII repealed
@@ -745,4 +746,13 @@ Each of the following constitutes a separate transfer for the purposes of this D
 “primary vote” received by a person on his or her election means —
 (a)in relation to an election in which there are only 2 candidates to fill one office of councillor, a vote cast by an elector that indicates the person whom the elector wishes to be elected; or
 (b)in any other case, a vote cast by an elector that indicates that the person ranks highest in the order of the elector’s preference for the candidates.
+”.
+On the date as at which this compilation was prepared, the Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 had not come into operation. It reads as follows:
+“
+13.Consequential amendment to the Local Government Act 1995 and transitional provision
+(1) The amendment in this section is to the Local Government Act 1995.
+(2) Schedule 9.2 clause 4(2) is repealed.
+(3) The regulations referred to in the Local Government Act 1995 Schedule 9.2 clause 4(2)(b) —
+(a) continue in effect so far as they relate to building surveyors and Part XV of the Local Government (Miscellaneous Provisions) Act 1960; and
+(b) are to be taken to have been made under the Local Government Act 1995 section 9.59 for the purposes of the Local Government (Miscellaneous Provisions) Act 1960 section 373A and 374AAB inserted by section 5 and 7 of this Act.
 ”.
