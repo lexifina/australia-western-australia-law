@@ -15,6 +15,7 @@ Revenue Laws Amendment Act 2006 Pt. 4 (s. 19-30) | 31 of 2006 | 4 Jul 2006 | s. 
 Reprint 1: The Land Tax Assessment Act 2002 as at 11 Aug 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 142 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
+Revenue Laws Amendment (Taxation) Act 2007 Pt. 3 | 12 of 2007 | 29 Jun 2007 | 30 Jun 2007 (see s. 2(c)(i))
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources.

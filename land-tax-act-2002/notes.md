@@ -9,6 +9,7 @@ Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 Pt. 2 | 83 of 2004 | 8 Dec 
 Revenue Laws Amendment Act (No. 3) 2005 Pt. 2 | 10 of 2005 | 29 Aug 2005 | 1 Jul 2005 (see s. 2(2))
 Reprint 1: The Land Tax Act 2002 as at 4 Nov 2005 (includes amendments listed above)
 Revenue Laws Amendment Act 2006 Pt. 3 | 31 of 2006 | 4 Jul 2006 | 1 Jul 2006 (see s. 2(5))
+Revenue Laws Amendment (Taxation) Act 2007 Pt. 2 | 12 of 2007 | 29 Jun 2007 | 30 Jun 2007 (see s. 2(b))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 3 Div. 1 of those regulations read as follows:
 “
 1.Citation

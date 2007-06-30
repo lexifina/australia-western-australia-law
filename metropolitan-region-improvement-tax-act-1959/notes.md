@@ -15,6 +15,7 @@ Acts Amendment (Annual Valuations and Land Tax) Act 1993 s. 13 | 17 of 1993 | 29
 Reprint 3: The Metropolitan Region Improvement Tax Act 1959 as at 9 May 2003 (includes amendments listed above)
 Taxation Administration (Consequential Provisions) (Taxing) Act 2002 Pt. 2 | 46 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Metropolitan Region Improvement Tax Amendment Act 2005 | 39 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077)
+Revenue Laws Amendment (Taxation) Act 2007 Pt. 4 | 12 of 2007 | 29 Jun 2007 | 30 Jun 2007 (see s. 2(b))
 Repealed by the Land Tax Assessment Act 1976.
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 4 Div. 1 of those regulations read as follows:
 1.Citation
