@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Ord Irrigation District By-laws and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Ord Irrigation District By-laws 1963 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Untitled by-laws | 18 Jul 1963 p. 2044-8 | 18 Jul 1963
@@ -26,8 +26,9 @@ Water Authority Amendment By-laws 1994 Pt. 7 | 29 Jun 1994 p. 3159-70 | 1 Jul 19
 Water Authority Amendment By-laws 1995 Pt. 7 | 30 Jun 1995 p. 2767-76 | 1 Jul 1995 (see bl. 2)
 Water Agencies (Amendment and Repeal) By-laws 1995 Pt. 9 | 29 Dec 1995 p. 6305-32 | 1 Jan 1996 (see bl. 2 and Gazette 29 Dec 1995 p. 6291)
 Reprint 1: The Ord Irrigation District By-laws as at 8 Aug 2003 (includes amendments listed above) (correction in Gazette 16 Sep 2003 p. 4103)
+Water Agencies Amendment By-laws 2007 Pt. 7 | 29 Jun 2007 p. 3233-44 | 1 Jul 2007 (see bl. 2)
 These by-laws have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
-Now known as the Ord Irrigation District By-laws; citation inserted (see note under bl. 1).
+Now known as the Ord Irrigation District By-laws 1963; citation inserted (see note under bl. 1).
 The Ord Irrigation District Amendment By-laws 1986 bl. 8 reads as follows:
 “
 8.Savings
@@ -54,4 +55,9 @@ The Water Authority Amendment By-laws 1995 bl. 3 reads as follows:
 “
 3.Application
 Nothing in these by-laws affects the application after 1 July 1995 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
+”.
+The Water Agencies Amendment By-laws 2007 bl. 3 reads as follows:
+“
+3.Application
+Nothing in these by-laws affects the application after 1 July 2007 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
 ”.

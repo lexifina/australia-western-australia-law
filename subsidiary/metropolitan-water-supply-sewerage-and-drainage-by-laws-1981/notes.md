@@ -67,6 +67,7 @@ Water Agencies Amendment By-laws 2006 Pt. 6 | 30 Jun 2006 p. 2399-412 | 1 Jul 20
 Reprint 5: The Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 as at 14 Jul 2006 (includes amendments listed above)
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws (No. 2) 2007 | 5 Apr 2007 p. 1529-31 | 5 Apr 2007
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws (No. 3) 2007 | 13 Apr 2007 p. 1685-6 | 13 Apr 2007 (see bl. 2)
+Water Agencies Amendment By-laws 2007 Pt. 6 | 29 Jun 2007 p. 3233-44 | 1 Jul 2007 (see bl. 2)
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Under the Conservation and Land Management Act 1984 s. 151(a), a reference in any law to the former Forests Department shall be read as a reference to the Department of Conservation and Land Management.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Public Health Department is to be read and construed as a reference to the Department of Health.
@@ -88,4 +89,9 @@ The Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws (No. 2) 2
 “
 4.Transitional provision
 By-law 28.1 of the Metropolitan Water Supply, Sewerage and Drainage By-laws 1981, as amended by these by-laws, applies, after the commencement of these by-laws, in relation to a permit to discharge industrial waste, whether the permit is granted before, on or after that commencement.
+”.
+The Water Agencies Amendment By-laws 2007 bl. 3 reads as follows:
+“
+3.Application
+Nothing in these by-laws affects the application after 1 July 2007 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
 ”.
