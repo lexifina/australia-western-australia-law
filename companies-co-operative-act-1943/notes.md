@@ -52,6 +52,7 @@ Companies (Co-operative) (Fees) Regulations 2005 published in Gazette 28 Jun 200
 Reprint 3: The Companies (Co-operative) Act 1943 as at 19 Aug 2005 (includes amendments listed above)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 5 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Companies (Co-operative) (Fees) Regulations 2007 published in Gazette 15 Jun 2007 p. 2767-70 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
