@@ -4,3 +4,4 @@ Compilation table
 Citation | Gazettal | Commencement
 Magistrates Court (Fees) Regulations 2005 | 28 Apr 2005 p. 1573-603 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
 Magistrates Court (Fees) Amendment Regulations 2006 | 23 Jun 2006 p. 2178-81 | 1 Jul 2006 (see r. 2)
+Magistrates Court (Fees) Amendment Regulations 2007 | 26 Jun 2007 p. 3033-5 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
