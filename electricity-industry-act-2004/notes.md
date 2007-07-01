@@ -7,3 +7,8 @@ Electricity Legislation Amendment Act 2004 Pt. 2 Div. 3 | 33 of 2004 | 20 Oct 20
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 Reprint 1: The Electricity Industry Act 2004 as at 16 Jun 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+The Electricity Industry Act 2004 s. 120 reads as follows:
+“
+120.Expiry
+This Division expires at the expiration of the period of 3 years from the day on which it comes into operation.
+”.
