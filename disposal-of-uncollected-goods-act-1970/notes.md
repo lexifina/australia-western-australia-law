@@ -11,21 +11,5 @@ Port Authorities (Consequential Provisions) Act 1999, section 21 | 5 of 1999 | 1
 Perth Parking Management (Consequential Provisions) Act 1999, section 7(1) | 16 of 1999 | 19 May 1999 | 7 Aug 1999 (see s. 2 and Gazette 6 Aug 1999 p. 3727)
 Public Transport Authority Act 2003 s. 157 and 203 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 N.B.This Act is affected by the Unclaimed Money Act 1990 (No. 31 of 1990).
-Repealed by the Firearms Act 1973 (No. 36 of 1973).
-On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 s. 73 which gives effect to Sch. 1 it. 3 had not come into operation. They read as follows:
-“
-73.Various Acts amended (Sch. 1)
-Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 1 item 3 reads as follows:
-“
-Schedule 1 — Various Acts amended
-[s. 73]
-3.Disposal of Uncollected Goods Act 1970
-Schedule | Delete the column headed “Number of Act.”. Delete “Firearms and Guns Act 1931.”. Delete “Police Act 1892.”. Insert in the appropriate alphabetical positions — “ Criminal and Found Property Disposal Act 2006. Criminal Investigation Act 2006. Firearms Act 1973. ”.
-”.

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 March 2007 of the Unclaimed Money Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Unclaimed Money Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Unclaimed Money Act 1990 | 31 of 1990 | 9 Oct 1990 | 12 Apr 1991 (see s. 2 and Gazette 12 Apr 1991 p. 1597)
@@ -18,24 +18,10 @@ Unclaimed Money (Superannuation and RSA Providers) Act 2003 s. 26 | 19 of 2003 |
 Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 25 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 101 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2004 s. 15 | 10 of 2004 | 23 Jun 2004 | 4 Sep 2004 (see s. 2 and Gazette 3 Sep 2004 p. 3849)
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 2: The Unclaimed Money Act 1990 as at 9 Mar 2007 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
+Reprint 2: The Unclaimed Money Act 1990 as at 9 Mar 2007 (includes amendments listed above except the amendments in the Criminal Investigation (Consequential Provisions) Act 2006 s. 73)
 Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 of the Commonwealth.
-The Companies (Western Australia) Code and the Companies (Acquisition of Shares) (Western Australia) Code were superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1991 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
-On the date as at which this reprint was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 s. 73, which gives effect to Sch. 1, had not come into operation. It reads as follows:
-“
-73.Various Acts amended (Sch. 1)
-Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 1 it. 14 reads as follows:
-“
-Schedule 1 — Various Acts amended
-[s. 73]
-14.Unclaimed Money Act 1990
-s. 9(1)(h) | Delete the paragraph and insert the following paragraph instead — “ (h)is money that under the Criminal and Found Property Disposal Act 2006 is to be dealt with under this Act; ”.
-”.
+The Companies (Western Australia) Code and the Companies (Acquisition of Shares) (Western Australia) Code were superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
+Footnote no longer applicable.
 The former Consolidated Fund became the Consolidated Account.

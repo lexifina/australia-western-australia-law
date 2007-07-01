@@ -5,20 +5,5 @@ Short title | Number and year | Assent | Commencement
 Public Interest Disclosure Act 2003 | 29 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Corruption and Crime Commission Act 2003 s. 62 | 48 of 2003 (as amended by No. 78 of 2003 s. 35(13)) | 3 Jul 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Corruption and Crime Commission Amendment and Repeal Act 2003 s. 74(2) | 78 of 2003 | 22 Dec 2003 | 7 Jul 2004 (see s. 2 and Gazette 6 Jul 2004 p. 2697)
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
-On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 s. 73 which gives effect to Sch. 1 it. 12 had not come into operation. They read as follows:
-“
-73.Various Acts amended (Sch. 1)
-Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 1 item 12 reads as follows:
-“
-Schedule 1 — Various Acts amended
-[s. 73]
-12.Public Interest Disclosure Act 2003
-s. 3(1) | Amend the definition of “police officer” as follows — (a)insert “or” after paragraph (a); (b)delete paragraph (b) and “or” after it.
-”.

@@ -49,10 +49,10 @@ Reprint 8: The Betting Control Act 1954 as at 20 Oct 2006 (includes amendments l
 Betting and Racing Legislation Amendment Act 2006 s. 3, 5-8 and 10 | 70 of 2006 | 13 Dec 2006 | 29 Jan 2007 (see s. 2 and Gazette 23 Jan 2007 p. 181)
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Racing, Wagering and Betting Legislation Amendment and Repeal Act 2007 Pt. 2 | 8 of 2007 | 13 Jun 2007 | 14 Jun 2007 (see s. 2)
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 Betting and Racing Legislation Amendment Act 2006 s. 4, 9, 11 and 12 | 70 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 Repealed by the Acts Amendment and Repeal (Betting) Act 1992.
 The Betting Control Amendment Act 1998 s. 5(2) and (3) read as follows:
@@ -145,18 +145,7 @@ has effect after the appointed day as if —
 (b) performing the functions described in section 106(g).
 (2)The accountable authority, as defined in the Financial Administration and Audit Act 1985, also continues in existence for the purpose described in subsection (1)(a).
 ”.
-On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 s. 73 which gives effect to Sch. 1 it. 1 had not come into operation. They read as follows:
-“
-73.Various Acts amended (Sch. 1)
-Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 1 item 1 reads as follows:
-“
-Schedule 1 — Various Acts amended
-[s. 73]
-1.Betting Control Act 1954
-s. 31A(3) | Delete “and take before a justice”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Betting and Racing Legislation Amendment Act 2006 s. 4, 9, 11 and 12 had not come into operation. They read as follows:
 “
 4.Long title amended

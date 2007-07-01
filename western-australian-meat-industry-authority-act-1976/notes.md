@@ -16,11 +16,8 @@ Western Australian Meat Industry Authority Amendment Act 1998 | 46 of 1998 | 19 
 Reprint of the Western Australian Meat Industry Authority Act 1976 as at 1 Mar 2002 (includes amendments listed above)
 Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 15 | 70 of 2003 | 15 Dec 2003 | 21 Apr 2004 (see s. 2 and Gazette 20 Apr 2004 p. 1297)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 136 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 The Meat Industry Legislation (Amendment and Repeal) Act 1993 s. 16(2) and (3) read as follows:
 “
@@ -28,15 +25,3 @@ The Meat Industry Legislation (Amendment and Repeal) Act 1993 s. 16(2) and (3) r
 (3) Subsection (2) does not affect the eligibility of the person to be appointed as a member of the Authority under section 8 of the principal Act as amended by this section.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 s. 73 which gives effect to Sch. 1 it. 15 had not come into operation. They read as follows:
-“
-73.Various Acts amended (Sch. 1)
-Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 1 item 15 reads as follows:
-“
-Schedule 1 — Various Acts amended
-[s. 73]
-15.Western Australian Meat Industry Authority Act 1976
-s. 24H(2) | Repeal the subsection and insert the following subsection instead — “ (2)If an inspector seizes any thing under this section, the inspector is a prescribed agency, as that term is defined in the Criminal and Found Property Disposal Act 2006, and that Act applies to and in respect of the seized thing. ”.
-”.
