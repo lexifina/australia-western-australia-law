@@ -21,12 +21,11 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 8 | 28 o
 Revenue Laws Amendment Act 2006 Pt. 5 | 31 of 2006 | 4 Jul 2006 | 1 Jul 2006 (see s. 2(5))
 Reprint 2: The Rates and Charges (Rebates and Deferments) Act 1992 as at 22 Sep 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 8 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-Revenue Laws Amendment (Assessment) Act 2007 Pt. 2 Div. 2 | 13 of 2007 | 29 Jun 2007 | 30 Jun 2007 (see s. 2(b))
+Revenue Laws Amendment (Assessment) Act 2007 Pt. 2 | 13 of 2007 | 29 Jun 2007 | Div. 1 & 2: 30 Jun 2007 (see s. 2(b)); Div. 3: 1 Jul 2007 (see s. 2(c)(i))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Residential Parks (Long-stay Tenants) Act 2006 s. 98 | 32 of 2006 | 4 Jul 2006 | To be proclaimed (see s. 2)
-Revenue Laws Amendment (Assessment) Act 2007 Pt. 2 Div. 3 | 13 of 2007 | 29 Jun 2007 | 1 Jul 2007 (see s. 2(c)(i))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 Repealed by s. 51(1) of this Act.
@@ -103,51 +102,4 @@ or
 “ , 29B or 29C, ”.
 (7) Section 43(1a) is amended by deleting “or 29B.” and inserting instead —
 “ , 29B or 29C. ”.
-”.
-On the date as at which this compilation was prepared, the Revenue Laws Amendment (Assessment) Act 2007 Pt. 2 Div. 3 had not come into operation. It reads as follows:
-“
-Division 3 — Amendments that come into operation on 1 July 2007
-8.Section 3 amended
-Section 3(1) is amended by deleting the definition of “pensioner concession card” and inserting instead —
-“
-“pensioner concession card” means —
-(a)a currently valid pensioner concession card issued by or on behalf of the Commonwealth Government; and
-(b)a card prescribed by the regulations to be a pensioner concession card for the purposes of this Act,
-but does not include a pensioner concession card issued by or on behalf of the Commonwealth Government that is, or is of a class that is, excluded from this definition under the regulations;
-”.
-9.Section 23 amended
-(1) Section 23(1) is amended as follows:
-(a) by deleting paragraph (a) and “or” after it and inserting instead —
-“
-(a) that person is the holder of a pensioner concession card; and
-”;
-(b) by deleting paragraph (aa) and “or” after it and paragraph (b) and “and” after it.
-(2) After section 23(1) the following subsection is inserted —
-“
-(1a) The regulations may provide that a person of a prescribed class is not eligible to make an application under subsection (1) despite being the holder of a pensioner concession card.
-”.
-10.Section 40 amended
-(1) Section 40(2) is amended by deleting “charged period” and inserting instead —
-“
-charged period or, if that person has been allowed an extended period under subsection (2a), before the end of that period
-”.
-(2) After section 40(2) the following subsection is inserted —
-“
-(2a) If the Minister is satisfied that a person to whom this section applies has not paid the rebated amount before the end of the charged period because of exceptional circumstances, the Minister may allow that person an extended period within which the payment may be made.
-”.
-11.Section 41 amended
-Section 41 is amended by deleting “within the charged period” and inserting instead —
-“
-before the end of the charged period or, if that person has been allowed an extended period under section 40(2a), before the end of that period
-”.
-12.Section 44 amended
-(1) Section 44(1) is amended by deleting “the charged period, or such period as may have been specified under section 42(2),” and inserting instead —
-“ a period prescribed under subsection (1a) ”.
-(2) After section 44(1) the following subsection is inserted —
-“
-(1a) For the purposes of subsection (1), the following periods are prescribed:
-(a) the charged period;
-(b) if the person has been allowed an extended period under section 40(2a), that period;
-(c) if a period has been specified under section 42(2), that period.
-”.
 ”.
