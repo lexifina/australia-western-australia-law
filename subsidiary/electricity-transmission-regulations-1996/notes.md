@@ -16,4 +16,5 @@ Electricity Transmission Amendment Regulations 2006 | 20 Jan 2006 p. 377-8 | 20 
 Electricity Corporations (Consequential Amendments) Regulations 2006 Pt. 5 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
 Reprint 2: The Electricity Transmission Regulations 1996 as at 2 Jun 2006 (includes amendments listed above)
 Electricity Transmission Amendment Regulations (No. 2) 2006 | 25 Aug 2006 p. 3497-9 | 21 Sep 2006 08:00 (WST) (see r. 2 and Gazette 19 Sep 2006 p. 4065)
+Electricity Transmission Amendment Regulations 2007 | 26 Jun 2007 p. 3022-4 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Formerly referred to the Electricity Corporation Act 1994 the short title of which was changed to the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 s. 139.
