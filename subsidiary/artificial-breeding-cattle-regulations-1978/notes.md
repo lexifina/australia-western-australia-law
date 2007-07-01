@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Artificial Breeding (Cattle) Regulations 1978 and includes the amendments referred to in the following table.
+This is a compilation of the Artificial Breeding (Cattle) Regulations 1978 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
-Citation | Gazettal | Commencement | Miscellaneous
+Citation | Gazettal | Commencement
 Artificial Breeding (Cattle) Regulations 1978 | 26 January 1979 pp.240-58 | 26 January 1979
  | 24 August 1979 p.2581 | 24 August 1979
  | 18 July 1980 p.2436 | 18 July 1980
@@ -23,5 +23,6 @@ Artificial Breeding of Stock Amendment Regulations 1997, Part 2 | 19 August 1997
 Artificial Breeding of Stock Amendment Regulations 1998, Part 2 | 23 June 1998 p.3316 | 23 June 1998
 Artificial Breeding of Stock Amendment Regulations 2000, Part 2 | 20 June 2000 p.3008 | 1 July 2000 (see regulation 2)
 Artificial Breeding of Stock Amendment Regulations 2001, Pt. 2 | 5 Jun 2001 p. 2844 | 1 Jul 2001 (see r. 2)
+Artificial Breeding (Cattle) Amendment Regulations 2007 | 15 Jun 2007 p. 2753-4 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 The designation of Ministers may be altered by the Governor under the Alterations of Statutory Designations Act 1974. As at the date of this reprint the former Minister for Agriculture is known as the Minister for Primary Industries.
 Under the Alteration of Statutory Designations Order 1996, references in any law to the “Department of Agriculture” shall be read and construed as references to “Agriculture Western Australia”.
