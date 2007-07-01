@@ -6,6 +6,7 @@ Road Traffic (Charges and Fees) Regulations 2006 | 24 Nov 2006 p. 4843-85 | 4 De
 Road Traffic (Charges and Fees) Amendment Regulations 2006 | 22 Dec 2006 p. 5812-13 | 1 Jan 2007 (see r. 2)
 Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2006 | 22 Dec 2006 p. 5814-16 | 22 Dec 2006
 Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 | 29 May 2007 p. 2499-502 | r. 1 and 2: 29 May 2007 (see r. 2(a); Regulations other than r. 1 and 2: 31 May 2007 (see r. 2(b))
+Road Traffic (Charges and Fees) Amendment Regulations (No. 3) 2007 | 22 Jun 2007 p. 2866-71 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 r. 3 reads as follows:
 “
 3.Specified day: section 28A
