@@ -8,7 +8,7 @@ Type of fee | Provision of Act | Fee $
 (i)with trains travelling more than 15 000 km per annum |  | 1 200
 (ii)with trains travelling 15 000 km or less per annum |  | 500
 2.Application for interim accreditation. | s. 21(1)
-Fee for processing application (per hour) |  | 87.09
+Fee for processing application (per hour) |  | 85.03
 up to a maximum fee for a —
 (a)commercial enterprise |  | 5 000
 (b)heritage, not-for-profit organization
@@ -16,13 +16,13 @@ up to a maximum fee for a —
 (ii)with trains travelling 15 000 km or less per annum |  | 500
 [3.deleted]
 4.Annual private siding registration fee, per siding | s. 22(1) | 50
-5. Annual fee for an owner (per kilometre of track or part thereof) with the minimum fee prescribed in item 9 | s. 22(1) | 26.7664
-6. Annual fee for an operator (per train/tram kilometre) with the minimum fee prescribed in item 9 | s. 22(1) | 0.0249
-7.Additional annual fee for an owner if an accreditation is varied (per kilometre of track or part thereof) | s. 22(2) | 26.7664
-8.Additional annual fee for an operator if an accreditation is varied (per train/tram kilometre) | s. 22(2) | 0.0249
+5. Annual fee for an owner (per kilometre of track or part thereof) with the minimum fee prescribed in item 9 | s. 22(1) | 35.5442
+6. Annual fee for an operator (per train/tram kilometre) with the minimum fee prescribed in item 9 | s. 22(1) | 0.0264
+7.Additional annual fee for an owner if an accreditation is varied (per kilometre of track or part thereof) | s. 22(2) | 35.5442
+8.Additional annual fee for an operator if an accreditation is varied (per train/tram kilometre) | s. 22(2) | 0.0264
 9.Minimum Annual Accreditation fee for an operator or owner for a — | s. 22(1)
 (a)commercial enterprise |  | 5 000
 (b)heritage, non-profit organization
 (i)with trains travelling more than 15 000 km per annum |  | 1 200
 (ii)with trains travelling 15 000 km or less per annum |  | 500
-[Schedule 2 amended in Gazette 19 May 2000 p. 2438-9; 13 Jul 2001 p. 3476; 25 Jun 2004 p. 2291; 24 Jun 2005 p. 2790; 23 Jun 2006 p. 2224; 8 Dec 2006 p. 5393.]
+[Schedule 2 amended in Gazette 19 May 2000 p. 2438-9; 13 Jul 2001 p. 3476; 25 Jun 2004 p. 2291; 24 Jun 2005 p. 2790; 23 Jun 2006 p. 2224; 8 Dec 2006 p. 5393; 12 Jun 2007 p. 2737-8.]
