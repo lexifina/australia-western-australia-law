@@ -1,21 +1,11 @@
-## Schedule 4 — Fees
-[r. 9]
-Item | Matter | Fee $
-1. | Application by —
- | (a)an individual | 558.00
- | (b)a person other than an individual | 837.00
-2. | Application by —
- | (a)an individual | 147.00
- | (b)a person other than an individual | 221.00
-3. | Application to extend time for lodging an application by — (a)an individual (b)a person other than an individual | 210.00 315.00
-4. | Hearing fee (for each day allocated) for an application by —
- | (a)an individual | 420.00
- | (b)a person other than an individual | 840.00
-5. | Hearing fee (for each half day allocated) for an application by —
- | (a)an individual | 210.00
- | (b)a person other than an individual | 420.00
-6. | Assessment of costs —
- | (a)fee for application by —
- | (i)an individual | 147.00
- | (ii)a person other than an individual | 221.00
- | (b)in addition to the application fee, an assessment fee at the rate of | 2.5%
+## Schedule 4 — Provision under which proceedings commenced
+[r. 9(2)]
+[Heading inserted in Gazette 26 Jun 2007 p. 2988.]
+Armadale Redevelopment Act 2001 s. 50(1) or 52(2)
+East Perth Redevelopment Act 1991 s. 45 or 47(2)
+Heritage of Western Australia Act 1990 s. 60(1)(a)
+Hope Valley-Wattleup Redevelopment Act 2000 s. 29(1) or 31(2)
+Midland Redevelopment Act 1999 s. 52(1) or 54(2)
+Strata Titles Act 1985 s. 26(4) or (5) or 27(3)
+Subiaco Redevelopment Act 1994 s. 52(1) or 54(2)
+[Schedule 4 inserted in Gazette 26 Jun 2007 p. 2988.]
