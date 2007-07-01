@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 May 2007 of the Plant Diseases Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Plant Diseases Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Plant Diseases Regulations 1989 | 30 Jun 1989 p. 1980-93 | 1 Jul 1989 (see r. 2)
@@ -101,6 +101,7 @@ Plant Diseases Amendment Regulations (No. 3) 2006 | 16 Jun 2006 p. 2110 | 16 Jun
 Plant Diseases Amendment Regulations (No. 5) 2006 | 16 Jun 2006 p. 2116-18 | 1 Jul 2006 (see r. 2)
 Plant Diseases Amendment Regulations 2007 | 6 Mar 2007 p. 725-7 | 6 Mar 2007
 Reprint 5: The Plant Diseases Regulations 1989 as at 18 May 2007 (includes amendments listed above)
+Plant Diseases Amendment Regulations (No. 3) 2007 | 15 Jun 2007 p. 2756-7 | 1 Jul 2007 (see r. 2)
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the department formerly called Agriculture Western Australia was called the Department of Agriculture.
 Under the Alteration of Statutory Designations Order 2006 a reference to the Department of Agriculture is, unless the contrary is intended, to be read and construed as a reference to the Department of Agriculture and Food.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 30 June 1989, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
