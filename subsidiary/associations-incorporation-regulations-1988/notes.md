@@ -21,3 +21,4 @@ Associations Incorporation Amendment Regulations 2005 | 28 Jun 2005 p. 2909-10 |
 Associations Incorporation Amendment Regulations 2006 | 22 Sep 2006 p. 4071-4 | 22 Sep 2006 (see r. 2(a))
 Reprint 3: The Associations Incorporation Regulations 1988 as at 3 Nov 2006 (includes amendments listed above)
 Associations Incorporation Amendment Regulations (No. 2) 2006 | 12 Jan 2007 p. 43 | 12 Jan 2007
+Associations Incorporation Amendment Regulations 2007 | 15 Jun 2007 p. 2765-6 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b)(i))
