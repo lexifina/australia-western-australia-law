@@ -21,12 +21,12 @@ Item | Nature of instrument | Duty payable $ | Person liable to pay duty
  | (e)exceeds $500 000 .................. | $20 700 and $5.40 for every $100 of the amount or value of the consideration and every fractional part of $100 by which the consideration exceeds $500 000
  | (2)Transfer under the Transfer of Land Act 1893 of land that includes a home within the meaning of section 75AG, where duty on the instrument of transfer becomes chargeable under that section |  | the transferee as defined in section 75AG
  | Where the amount or value of the consideration —
- | (a)does not exceed $250 000...... | nil
- | (b)exceeds $250 000 but does not exceed $350 000 ................... | $13.20 for every $100 and any fractional part of $100 by which the amount or value of the consideration exceeds $250 000
+ | (a)does not exceed $500 000...... | nil
+ | (b)exceeds $500 000 but does not exceed $600 000............... | $26.10 for every $100 and any fractional part of $100 by which the amount or value of the consideration exceeds $500 000
  | (3)Transfer under the Transfer of Land Act 1893 of vacant land, where duty on the instrument of transfer becomes chargeable under section 75AG |  | the transferee as defined in section 75AG
  | Where the amount or value of the consideration —
- | (a)does not exceed $150 000....... | nil
- | (b)exceeds $150 000 but does not exceed $200 000...................... | $12.40 for every $100 and for any fractional part of $100 by which the amount or value of the consideration exceeds $150 000
+ | (a)does not exceed $300 000....... | nil
+ | (b)exceeds $300 000 but does not exceed $400 000................ | $15.70 for every $100 and for any fractional part of $100 by which the amount or value of the consideration exceeds $300 000
  | [(4), (4a) deleted]
  | (5)Transfer of land under the Transfer of Land Act 1893 on a sale thereof or conveyance or transfer of any other property where the conveyance or transfer is chargeable under section 75AE with duty under this subitem — |  | The purchaser
  | (a)where the amount or value of the consideration does not exceed $100 000..................... | $1.50 for every $100 of the amount or value of the consideration and every fractional part of $100
@@ -70,15 +70,11 @@ Item | Nature of instrument | Duty payable $ | Person liable to pay duty
  |  | The duty payable under item 13 is to be rounded down to the nearest 5 cents.
 14. | VEHICLE LICENCES, GRANT OR TRANSFER
  | (1)On the grant or transfer of a licence for a vehicle that is not a heavy vehicle — |  | The person in whose name the licence is granted or the transferee; and see section 76H(2)
- | (a)where the market value of the vehicle does not exceed $15 000 | 2.75% of the market value
- | (b)where the market value of the vehicle exceeds $15 000 but does not exceed $40 000 .......... | (rounded to 2 decimal places) of the market value (MV)
- | (c)where the market value of the vehicle exceeds $40 000 ......... | 6.5% of the market value
- | (2)On the grant of a licence for a heavy vehicle that has not previously been used nor licensed or registered under the Road Traffic Act 1974 or a corresponding State law ...................... | The lesser of — (a)3% of the market value; and (b)$12 000
- | (3)On the grant or transfer of a licence for any other heavy vehicle —
- | (a)where the market value of the vehicle does not exceed $15 000 | 2.5% of the market value
- | (b)where the market value of the vehicle exceeds $15 000 but does not exceed $40 000 ........ | (rounded to 2 decimal places) of the market value (MV)
- | (c)where the market value of the vehicle exceeds $40 000 ......... | The lesser of — (a)5% of the market value; and (b)$20 000
- |  | The duty payable under item 14 is to be rounded down to the nearest 5 cents
+ | (a)where the market value of the vehicle does not exceed $20 000 | 2.75% of the market value
+ | (b)where the market value of the vehicle exceeds $20 000 but does not exceed $45 000.......... | (rounded to 2 decimal places) of the market value (MV)
+ | (c)where the market value of the vehicle exceeds $45 000......... | 6.5% of the market value
+ | (2)On the grant or transfer of a licence for a heavy vehicle..................................... | The lesser of — (a)3% of the market value; and (b)$12 000
+ | [(3)deleted]
 14A. | ORDER TO WHICH SECTION 112UB(2) APPLIES | See item 4. Property transferred or vested under an order. On the value of the property referred to the same duty as that set out in item 4, references to consideration in that item being construed as references to the amount or value of the property concerned | Transferee or the person in whom the property is ordered to be vested
 15. | PARTITION
  | (1)Any instrument effecting a partition of any property ........................................ | 20.00 | The parties thereto
@@ -96,4 +92,4 @@ Item | Nature of instrument | Duty payable $ | Person liable to pay duty
 19. | SETTLEMENT, DEED OF, OR DEED OF GIFT | See item 4 | The person on whom the property is settled or the donee.
  | (1)Any instrument, whether voluntary or upon any good or valuable consideration other than a bona fide pecuniary consideration whereby any property is settled or agreed to be settled in any manner whatsoever, or is given or agreed to be given in any manner whatsoever. | References to consideration in item 4 being construed as references to the amount or value of the property concerned
  | (2)Any instrument declaring that the property vested in the person executing the same shall be held in trust for the person or persons mentioned therein.
-[Second Schedule inserted by No. 37 of 1979 s. 108; amended by No. 81 of 1981 s. 8 and 9; No. 45 of 1982 s. 4; No. 93 of 1982 s. 8; No. 99 of 1982 s. 5; No. 14 of 1983 s. 6; No. 61 of 1983 s. 13; No. 81 of 1984 s. 37; No. 19 of 1985 s. 22; No. 85 of 1985 s. 3; No. 98 of 1986 s. 20; No. 16 of 1989 s. 4; No. 58 of 1990 s. 6; No. 42 of 1993 s. 5; No. 39 of 1994 s. 12 and 14; No. 22 of 1995 s. 4; No. 20 of 1996 s. 44; No. 48 of 1996 s. 37; No. 13 of 1997 s. 23 and 28; No. 57 of 1997 s. 113(6); No. 18 of 1998 s. 12; No. 22 of 1998 s. 53; No. 25 of 1999 s. 7(1); No. 53 of 1999 s. 30; No. 6 of 2000 s. 7; No. 4 of 2001 s. 8; No. 11 of 2002 s. 4, 7 and 11; No. 46 of 2002 s. 10; No. 2 of 2003 s. 141; No. 21 of 2003 s. 33; No. 44 of 2003 s. 4(2)-(6) and 5; No. 59 of 2003 s. 4; No. 66 of 2003 s. 87, 99 and 107(7); No. 11 of 2004 s. 6 and 7; No. 83 of 2004 s. 8; No. 35 of 2005 s. 4; No. 38 of 2005 s. 15; No. 31 of 2006 s. 14 and 15.]
+[Second Schedule inserted by No. 37 of 1979 s. 108; amended by No. 81 of 1981 s. 8 and 9; No. 45 of 1982 s. 4; No. 93 of 1982 s. 8; No. 99 of 1982 s. 5; No. 14 of 1983 s. 6; No. 61 of 1983 s. 13; No. 81 of 1984 s. 37; No. 19 of 1985 s. 22; No. 85 of 1985 s. 3; No. 98 of 1986 s. 20; No. 16 of 1989 s. 4; No. 58 of 1990 s. 6; No. 42 of 1993 s. 5; No. 39 of 1994 s. 12 and 14; No. 22 of 1995 s. 4; No. 20 of 1996 s. 44; No. 48 of 1996 s. 37; No. 13 of 1997 s. 23 and 28; No. 57 of 1997 s. 113(6); No. 18 of 1998 s. 12; No. 22 of 1998 s. 53; No. 25 of 1999 s. 7(1); No. 53 of 1999 s. 30; No. 6 of 2000 s. 7; No. 4 of 2001 s. 8; No. 11 of 2002 s. 4, 7 and 11; No. 46 of 2002 s. 10; No. 2 of 2003 s. 141; No. 21 of 2003 s. 33; No. 44 of 2003 s. 4(2)-(6) and 5; No. 59 of 2003 s. 4; No. 66 of 2003 s. 87, 99 and 107(7); No. 11 of 2004 s. 6 and 7; No. 83 of 2004 s. 8; No. 35 of 2005 s. 4; No. 38 of 2005 s. 15; No. 31 of 2006 s. 14 and 15; No. 12 of 2007 s. 12 and 13(1), (3) and (4).]
