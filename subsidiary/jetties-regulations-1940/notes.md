@@ -82,6 +82,7 @@ Jetties Amendment Regulations 2004 | 30 Dec 2004 p. 6953 | 1 Jan 2005 (see r. 2 
 Reprint 5: The Jetties Regulations 1940 as at 15 Apr 2005 (includes amendments listed above)
 Jetties Amendment Regulations (No. 2) 2005 | 24 Jun 2005 p. 2813-47 | 1 Jul 2005 (see r. 2)
 Jetties Amendment Regulations 2006 | 23 Jun 2006 p. 2193-204 | 1 Jul 2006 (see r. 2)
+Jetties Amendment Regulations 2007 | 22 Jun 2007 p. 2903-40 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Repealed by the Explosives and Dangerous Goods Act 1961.
 Formerly referred to the Jetties Act Regulations 1940 the citation of which was changed by the Jetties Amendment Regulations (No. 3) 2003 r. 3. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
 Now known as the Jetties Regulations 1940; citation changed (see note under r. 1).

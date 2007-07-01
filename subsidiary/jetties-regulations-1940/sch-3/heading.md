@@ -38,3 +38,4 @@ The fee payable is $ ......................................... Details are shown
 ........................................................
 Officer in Charge of Slip
 [Form 3 inserted in Gazette 6 Jul 1984 p. 2029.]
+[Schedule 4 repealed in Gazette 22 Jun 2007 p. 2940.]
