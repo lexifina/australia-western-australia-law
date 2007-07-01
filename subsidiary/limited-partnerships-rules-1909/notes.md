@@ -11,6 +11,7 @@ Limited Partnerships Amendment Rules 1993 | 31 Aug 1993 p. 4687 | 1 Sep 1993 (se
 Limited Partnerships Amendment Rules 1995 | 27 Jun 1995 p. 2540 | 1 Jul 1995 (see r. 2)
 Reprint 1: The Limited Partnerships Rules 1909 as at 21 Mar 2003 (includes amendments listed above)
 Limited Partnerships Amendment Rules 2005 | 28 Jun 2005 p. 2901 | 1 Jul 2005 (see r. 2)
+Limited Partnerships Amendment Rules 2007 | 15 Jun 2007 p. 2775 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 The Limited Partnerships Act 1909 s. 15 reads as follows:
 “
 The Commissioner within the meaning of the Consumer Affairs Act 1972 shall be the Registrar of limited partnerships, and the office for the registration of companies in Perth shall be the office for the registration of limited partnerships.
