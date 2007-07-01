@@ -102,6 +102,7 @@ Mining Amendment Regulations (No. 4) 2006 | 4 Apr 2006 p. 1409 | 4 Apr 2006
 Reprint 6: The Mining Regulations 1981 as at 7 Apr 2006 (includes amendments listed above)
 Mining Amendment Regulations (No. 6) 2006 | 23 Jun 2006 p. 2219-22 | 1 Jul 2006 (see r. 2)
 Mining Amendment Regulations 2007 | 9 Mar 2007 p. 861-920 | 31 Mar 2007 (see r. 2 and Gazette 9 Mar 2007 p. 847)
+Mining Amendment Regulations (No. 3) 2007 | 22 Jun 2007 p. 2857-60 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 The Mining Amendment Act 1990 was operative 28 June 1991.
 Footnote no longer applicable.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
