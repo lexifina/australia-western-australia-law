@@ -37,31 +37,5 @@ W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulation
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2006 | 16 Jun 2006 p. 2124-6 | 16 Jun 2006
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations (No. 2) 2006 | 23 Jun 2006 p. 2212-13 | 1 Jul 2006 (see r. 2)
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations (No. 3) 2006 | 8 Dec 2006 p. 5387-90 | 8 Dec 2006
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2007 r. 3 and 4 | 12 Jun 2007 | 1 Jul 2007 (see r. 2)
+W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2007 | 12 Jun 2007 p. 2728-9 | 1 Jul 2007 (see r. 2)
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
-On the date as at which this compilation was prepared, the W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2007 r. 3 and 4 had not come into operation. They read as follows:
-“
-3.The regulations amended
-The amendments in these regulations are to the W.A. Marine (Certificates of Competency and Safety Manning) Regulations 1983.
-4.Schedule 3 amended
-Schedule 3 is amended as follows:
-(a) by deleting “$59.10” in the 3 places where it occurs and inserting instead —
-“ $70.80 ”;
-(b) by deleting “$47.90” in both places where it occurs and inserting instead —
-“ $57.30 ”;
-(c) by deleting “$36.70” and inserting instead —
-“ $43.90 ”;
-(d) by deleting “$102.70” and inserting instead —
-“ $123.60 ”;
-(e) by deleting “$95.90” and inserting instead —
-“ $114.80 ”;
-(f) by deleting “$61.40” and inserting instead —
-“ $73.50 ”;
-(g) by deleting “$5.90” and inserting instead —
-“ $7.00 ”;
-(h) by deleting “$8.80” and inserting instead —
-“ $10.50 ”.
-”.
