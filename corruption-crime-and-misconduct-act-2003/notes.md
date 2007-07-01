@@ -10,12 +10,12 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 79 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Corruption and Crime Commission Act 2003 as at 7 Jul 2006 (includes amendments listed above)
+Criminal Investigation (Consequential Provisions) Act 2006 Pt. 3 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
-Criminal Investigation (Consequential Provisions) Act 2006 Pt. 3 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 Repealed by the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003.
 Now called the Telecommunications (Interception and Access) Act 1979.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -133,44 +133,5 @@ Schedule 3 — Consequential amendments
 (2) Section 54(1) is amended in the definition of “registered nurse” by deleting “means a person registered under Part 3 of the Nurses Act 1992.” and inserting instead —
 “
 has the meaning given to that term in section 3 of the Nurses and Midwives Act 2006.
-”.
-”.
-On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 Pt. 3 had not come into operation. It reads as follows:
-“
-Part 3 — Corruption and Crime Commission Act 2003 amended
-8.The Act amended in this Part
-The amendments in this Part are to the Corruption and Crime Commission Act 2003.
-9.Section 56 repealed
-Section 56 is repealed.
-10.Section 101 amended
-(1) After section 101(2) the following subsection is inserted —
-“
-(2a) An application for a warrant must be made in accordance with section 13 of the Criminal Investigation Act 2006 which applies with any necessary changes.
-”.
-(2) Section 101(7) is repealed.
-11.Section 184 amended
-(1) Section 184(3) is repealed and the following subsections are inserted instead —
-“
-(3) For the purposes of the Criminal Investigation Act 2006 —
-(a) the office of authorised officer is prescribed to be a public officer; and
-(b) a holder of that office may exercise all of the powers of a public officer in that Act; and
-(c) the Commissioner is prescribed to be a senior officer in relation to the authorised officer for the purposes of sections 44, 47, 97 and 133 of that Act.
-(3a) In addition to the powers conferred by subsection (3), an authorised officer may exercise the powers of a police officer in section 40 of the Criminal Investigation Act 2006.
-(3b) For the purposes of the Criminal Investigation (Identifying People) Act 2002 —
-(a) the office of authorised officer is prescribed to be a public officer; and
-(b) a holder of that office may exercise all of the powers of a public officer in that Act; and
-(c) the Commissioner is prescribed to be a senior officer in relation to the authorised officer.
-(3c) An authorised officer has and may perform all of the functions that a police officer has and may perform under any law of the State, other than the Acts referred to in subsections (3) to (3b).
-”.
-(2) Section 184(4) is amended by deleting “subsection (3)” and inserting instead —
-“ subsections (3) to (3c) ”.
-12.Section 223A inserted
-After section 223 the following section is inserted —
-“
-223A.Disposal of things seized under this Act
-(1) The Criminal and Found Property Disposal Act 2006 applies to and in respect of anything seized under this Act, other than a thing seized under section 75(4).
-(2) For the purposes of the Criminal and Found Property Disposal Act 2006 —
-(a) the Commission is a prescribed agency; and
-(b) the Commissioner is the chief officer of the Commission.
 ”.
 ”.

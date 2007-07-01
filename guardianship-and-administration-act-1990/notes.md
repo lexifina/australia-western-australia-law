@@ -24,10 +24,7 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Guardianship and Administration Act 1990 as at 1 Apr 2005 (includes amendments listed above except those in the Children and Community Services Act 2004, the Courts Legislation Amendment and Repeal Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004)
 Family Legislation Amendment Act 2006 Pt. 6 Div. 2 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Guardianship and Administration Amendment Act 2000 s. 21 reads as follows:
 “
@@ -71,16 +68,4 @@ on or after the commencement day, the State Administrative Tribunal may make an 
 (a) an enduring power of attorney created by instrument in the form or substantially in the form of the GA Act Schedule 3 Form 1; or
 (b) a statement of acceptance in the form, or substantially in the form, of the GA Act Schedule 3 Form 2,
 in effect immediately before the commencement day contains a reference to the Guardianship and Administration Board, on and after the commencement day that reference is to be taken to be a reference to the State Administrative Tribunal.
-”.
-On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 s. 73 which gives effect to Sch. 1 it. 6 had not come into operation. They read as follows:
-“
-73.Various Acts amended (Sch. 1)
-Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 1 item 6 reads as follows:
-“
-Schedule 1 — Various Acts amended
-[s. 73]
-6.Guardianship and Administration Act 1990
-s. 97(1) | Delete “Advocate are — ” and insert instead — “ Advocate are as follows — ”. Delete “and” after paragraph (g). Delete the full stop after paragraph (h) and insert instead a semicolon. After paragraph (h) insert the following paragraph — “ (i)any other function conferred on the Public Advocate by a written law. ”.
 ”.

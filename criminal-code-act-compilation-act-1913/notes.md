@@ -138,14 +138,14 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt.
 Reprint 12: The Criminal Code Act Compilation Act 1913 as at 1 Jun 2005 (includes amendments listed above)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 11 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Defamation Act 2005s. 47 | 44 of 2005 | 19 Dec 2005 | 1 Jan 2006 (see s. 2)
-Criminal Code Amendment (Cyber Predators) Act 2006 s. 3-6 | 3 of 2006 | 30 Mar 2006 | s. 3-5: 30 Mar 2006 (see s. 2(1)) s. 6: 7 Apr 2006 (see s. 2(2) and Gazette 7 Apr 2006 p. 1489)
+Criminal Code Amendment (Cyber Predators) Act 2006 s. 3-6 | 3 of 2006 | 30 Mar 2006 | s. 3-5: 30 Mar 2006 (see s. 2(1)); s. 6: 7 Apr 2006 (see s. 2(2) and Gazette 7 Apr 2006 p. 1489)
 Censorship Amendment Act 2006 s.4(2) | 10 of 2006 | 8 May 2006 | 10 Jun 2006 (see s. 2 and Gazette 9 Jun 2006 p. 2029)
+Criminal Investigation (Consequential Provisions) Act 2006 Pt. 5 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
-Criminal Investigation (Consequential Provisions) Act 2006 Pt. 5 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 The Criminal Code Amendment Act (No. 2) 1996 s. 4(3) reads as follows:
@@ -186,59 +186,8 @@ Schedule 3 — Consequential amendments
 (2) Section 236(b) is amended by deleting “Nurses Act 1992,” and inserting instead —
 “ Nurses and Midwives Act 2006, ”.
 ”.
-On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 Pt. 5 had not come into operation. It reads as follows:
+The Criminal Investigation (Consequential Provisions) Act 2006 Pt. 5 Div. 2 reads as follows:
 “
-Part 5 — The Criminal Code amended
-Division 1 — Amendments
-16.The Criminal Code amended in this Part
-The amendments in this Part are to The Criminal Code.
-17.Section 70A amended
-Section 70A(1) is amended in the definition of “police officer” by deleting “Part I, III” and inserting instead —
-“ Part I ”.
-18.Section 74A amended
-Section 74A(4) is repealed.
-19.Section 80J inserted
-After section 80I the following section is inserted in Chapter XI —
-“
-80J.Forfeiture of unlawful material
-A court that convicts a person of an offence under section 79, 80, 80C or 80D may make an order for the forfeiture to the State, or the destruction or disposal, of any written or pictorial material in respect of which the offence was committed.
-”.
-20.Section 231 amended
-(1) Section 231 is amended by inserting before “It is lawful” the subsection designation “(1)”.
-(2) At the end of section 231 the following subsection is inserted —
-“
-(2) In determining whether any process or warrant might have been executed, or any arrest made, in a less forcible manner, the following shall be taken into account —
-(a) whether the person executing the process or warrant had it with him or her and produced it at the time;
-(b) if it was practicable to do so at the time, whether the person making an arrest, whether with or without a warrant, gave notice of the process or warrant under which the person was acting or of the cause of the arrest.
-”.
-21.Section 232 repealed
-Section 232 is repealed.
-22.Sections 236 and 237 repealed
-Sections 236 and 237 are repealed.
-23.Section 243 replaced
-Section 243 is repealed and the following section is inserted instead —
-“
-243.Prevention of violence by mentally impaired person
-It is lawful for any person to use such force as is reasonably necessary in order to prevent a person whom he believes, on reasonable grounds, to be mentally impaired from doing violence to any person or property.
-”.
-24.Section 473 amended
-After section 473(2) the following subsection is inserted —
-“
-(3) A court that convicts a person of an offence under this section may make an order for the forfeiture to the State, or the destruction or disposal, of any record in respect of which the offence was committed.
-”.
-25.Section 557B repealed
-Section 557B is repealed.
-26.Chapters LX and LXA repealed
-Chapters LX and LXA are repealed.
-27.Chapter LXXII repealed
-Chapter LXXII is repealed.
-28.Section 731 inserted
-After section 730 the following section is inserted —
-“
-731.Forfeiture etc. of property used to commit offences
-(1) A court that convicts a person of an offence under this Code may make an order for the forfeiture to the State, or the destruction or disposal, of any thing that was used in or in connection with the commission of the offence.
-(2) A court must not make an order under subsection (1) in respect of any property unless the owner or any person who claims to be the owner of it has been afforded the opportunity to show cause why the order should not be made.
-”.
 Division 2 — Transitional provisions
 29.Search warrants and related matters
 (1) In this section —

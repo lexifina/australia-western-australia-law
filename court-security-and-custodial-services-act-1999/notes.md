@@ -13,12 +13,12 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Court Security and Custodial Services Act 1999 as at 9 Sep 2005 (includes amendments listed above)
 Financial Administration Legislation Amendment Act 2005 s. 37 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
+Criminal Investigation (Consequential Provisions) Act 2006 Pt. 4 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
-Criminal Investigation (Consequential Provisions) Act 2006 Pt. 4 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 The “Inspector provisions” as defined in the Prisons Amendment Act 1999 s. 2(4) came into operation on 18 Jun 2000 (see Gazette 16 Jun 2000 p. 2939).
 The Inspector of Custodial Services Act 2003 s. 57 and Sch. 3 read as follows:
 “
@@ -65,31 +65,5 @@ Schedule 3 — Consequential amendments
 (2) Section 3 is amended by deleting the definition of “nurse” and inserting instead —
 “
 “nurse” has the meaning given to “registered nurse” in section 3 of the Nurses and Midwives Act 2006;
-”.
-”.
-On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 Pt. 4 had not come into operation. It reads as follows:
-“
-Part 4 — Court Security and Custodial Services Act 1999 amended
-13.The Act amended in this Part
-The amendments in this Part are to the Court Security and Custodial Services Act 1999.
-14.Section 3 amended
-Section 3 is amended in the definition of “police officer” as follows:
-(a) by inserting “or” after paragraph (a);
-(b) by deleting paragraph (b) and “or” after it.
-15.Schedule 2 amended
-Schedule 2 clause 7 is repealed and the following clause is inserted instead —
-“
-7.Power to take identifying particulars of persons in custody
-(1) In this clause —
-“identifying particular” of a person means —
-(a)a print of the person’s hands (including fingers), feet (including toes) or ears;
-(b)a photograph of the person (including of an identifying feature of the person);
-(c)a measurement of any identifying feature of the person.
-(2) In respect of a person in custody who is at a custodial place or being moved between custodial places, the power to take or cause to be taken from the person any identifying particular of the person that an authorised person suspects on reasonable grounds —
-(a) is not or may not be held by the Police Force; or
-(b) is or may be needed to verify the person’s identity with identification particulars already held by the Police Force.
-(3) Sections 49 to 51 of the Criminal Investigation (Identifying People) Act 2002, with any necessary changes, apply to and in respect of taking an identifying particular from a person under subclause (2) as if the person were a charged suspect.
-(4) The taking of an identifying particular under subclause (2) must be done in accordance with Part 8 of the Criminal Investigation (Identifying People) Act 2002 which applies with any necessary changes.
-(5) Sections 67 and 69 of the Criminal Investigation (Identifying People) Act 2002, with any necessary changes, apply to and in respect of any identifying particular taken under this clause from a person as if the particular had been obtained under Part 7 of that Act and the person were a suspect.
 ”.
 ”.

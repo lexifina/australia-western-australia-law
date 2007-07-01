@@ -41,12 +41,9 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Reprint 5: The Prisons Act 1981 as at 21 Jul 2006 (includes amendments listed above)
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 2 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
 Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference to the Western Australian Prisons Department was, unless the contrary intention appears, to be read and construed as a reference to the Department of Justice.
@@ -82,16 +79,3 @@ Schedule 2 cl. 6(5) reads as follows:
 ”.
 The amendments in the Corruption and Crime Commission Amendment and Repeal Act 2003 Sch. 2 cl. 11(3)-(6) are not included because the sections they sought to amend had been repealed by No. 75 of 2003 s. 56(1) before the amendment purported to come into operation.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to amend s. 23 is not included because the section it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 37 before the amendment purported to come into operation.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 s. 73 which gives effect to Sch. 1 it. 11 had not come into operation. They read as follows:
-“
-73.Various Acts amended (Sch. 1)
-Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 1 item 11 reads as follows:
-“
-Schedule 1 — Various Acts amended
-[s. 73]
-11.Prisons Act 1981
-s. 3(1) | Amend the definition of “police officer” as follows: (a)insert “or” after paragraph (a); (b)delete paragraph (b) and “or” after it.
-”.

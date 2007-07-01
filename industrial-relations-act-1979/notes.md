@@ -65,6 +65,7 @@ Industrial Relations Amendment Act 2005 | 14 of 2005 | 21 Sep 2005 | 22 Sep 2005
 Petroleum Legislation Amendment and Repeal Act 2005 | 13 of 2005 | 1 Sep 2005 | s. 49(1), (2)(b), (3) and 4(b): 28 Mar 2007 (see s. 2 and Gazette 27 Mar 2007 p. 1405)
 Labour Relations Legislation Amendment Act 2006 Pt. 3-5 and 8 | 36 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2(1))
 Reprint 11: The Industrial Relations Act 1979 as at 3 Nov 2006 (includes amendments listed above except those in the Petroleum Legislation Amendment and Repeal Act 2005)
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -72,7 +73,6 @@ Short title | Number and year | Assent | Commencement
 Vocational Education and Training Act 1996 s. 62 | 42 of 1996 | 16 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
-Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
@@ -227,18 +227,7 @@ On the date as at which this reprint was prepared, the Petroleum Legislation Ame
 (4) Section 113(1)(d)(ii) is amended as follows:
 (a) after item (I) by deleting “and”;
 ”.
-On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 s. 73, which gives effect to Sch. 1 it. 7, had not come into operation. They read as follows:
-“
-73.Various Acts amended (Sch. 1)
-Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 1 item 7 reads as follows:
-“
-Schedule 1 — Various Acts amended
-[s. 73]
-7.Industrial Relations Act 1979
-Schedule 3 | In clause 2(3), insert after “officer” — “ or, in the case of a special constable, the cancellation of the constable’s appointment ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Owner-Drivers (Contracts and Disputes) Act 2007 s. 58, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 58.Consequential amendments
