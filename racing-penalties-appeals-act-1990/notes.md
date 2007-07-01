@@ -17,9 +17,6 @@ Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 20
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 16 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 2: The Racing Penalties (Appeals) Act 1990 as at 18 Aug 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and are not included in this compilation. For the text of the provisions see the endnote referred to after the short title.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Racing and Wagering Legislation Amendment Act 2007 Pt. 3 | 2 of 2007 | 28 Mar 2007 | 1 Jul 2007 (see s. 2)
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 and Pt. 11 Div. 2 read as follows:
@@ -35,20 +32,4 @@ If, immediately before the coming into operation of this section, the Tribunal h
 Despite the amendments to section 24 of the Racing Penalties (Appeals) Act 1990 effected by section 189 of this Act —
 (a) the amount of funds available to the Racing Penalties Appeal Tribunal of Western Australia under subsection (1)(c) of section 24 of the Racing Penalties (Appeals) Act 1990 for any financial year commencing before the coming into operation of section 189 of this Act is to be the amount approved by the Minister for that financial year under that section before the coming into operation of section 189 of this Act;
 (b) to the extent that that amount has not been paid to the Tribunal by the Totalisator Agency Board before the coming into operation of section 189 of this Act, the amount is to be paid by RWWA.
-”.
-On the date as at which this compilation was prepared, the Racing and Wagering Legislation Amendment Act 2007 Pt. 3 had not come into operation. It reads as follows:
-“
-Part 3 — Racing Penalties (Appeals) Act 1990
-6.The Act amended
-The amendments in this Part are to the Racing Penalties (Appeals) Act 1990.
-7.Section 24 amended
-(1) Section 24(9) is amended by deleting “Subject to subsection (10), the” and inserting instead —
-“ The ”.
-(2) Section 24(10) is repealed and the following subsection is inserted instead —
-“
-(10) The financial year of the Tribunal that —
-(a) began on 1 August 2006; and
-(b) would have ended on 31 July 2007 in accordance with this subsection, as in force immediately before the commencement of the Racing and Wagering Legislation Amendment Act 2007 section 7,
-is to be taken to have ended on 30 June 2007.
-”.
 ”.
