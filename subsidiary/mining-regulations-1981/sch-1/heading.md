@@ -490,7 +490,7 @@ Form 21 | WESTERN AUSTRALIA Mining Act 1978 (Secs. 41, 58, 70C, 74, 86, 91, Reg.
 (b)Time & Date marked out (where applicable) | (b) a.m./p.m. / / (c)
 (c)Mineral Field | (d) & (e) | (f) Shares
 APPLICANT:
-(d)Full Name (e)Address (f)No. of shares (g)Total No. of shares |  | for each appli-cant
+(d)Full Name (e)Address (f)No. of shares (g)Total No. of shares |  | for each appli- cant
 DESCRIPTION OF GROUND |  | (g) Total
 APPLIED FOR. | (h)
 (For Exploration Licences see
