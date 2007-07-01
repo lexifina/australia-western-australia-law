@@ -19,7 +19,10 @@ plus, for each lot shown on the plan, other than a lot that is proposed to be ve
 2. The fees payable to a local government are —
 (a)for a certificate under section 5B(2) ........... | 20 cents per square metre of the floor space of the building or $100.00 which ever is greater
 (b)for a certificate under section 8A(f) or 9(3) | 20 cents per square metre of floor space being subdivided or consolidated or $100.00 which ever is greater
-3.The fees payable to the Commission on an application under section 25(3) for a certificate of approval under section 25 are an amount of $500 plus a further amount of $50 per lot.
+3.The fees payable to the Commission on an application under section 25(3) for a certificate of approval under section 25 are —
+(a)for 1 to 5 lots — $600 plus $60 for each lot;
+(b)for 6 to 99 lots — $900 (being the fee payable for the first 5 lots under subitem (a)) plus $40 for each other lot;
+(c)for 100 or more lots — $4 700.
 4.The fees payable to the strata company are —
  | $
 (a)for an application made under section 43(1)(a) .......................................... | 10.00
@@ -31,4 +34,4 @@ plus, for each lot shown on the plan, other than a lot that is proposed to be ve
 5.A fee payable under item 4 to the strata company is increased by 10%, if the company is required to remit GST for the provision of the service for which the fee is payable.
 6.In item 5 —
 “GST” has the meaning given in section 195-1 of the A New Tax System (Goods and Services Tax) Act 1999 of the Commonwealth.
-[Schedule 1 inserted in Gazette 2 Sep 2004 p. 3825-7; amended in Gazette 24 Jun 2005 p. 2759-60; 24 Jan 2006 p. 436; 7 Jul 2006 p. 2513; 1 Sep 2006 p. 3596.]
+[Schedule 1 inserted in Gazette 2 Sep 2004 p. 3825-7; amended in Gazette 24 Jun 2005 p. 2759-60; 24 Jan 2006 p. 436; 7 Jul 2006 p. 2513; 1 Sep 2006 p. 3596; 25 Jun 2007 p. 2965.]
