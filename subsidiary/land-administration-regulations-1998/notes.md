@@ -19,5 +19,6 @@ Land Administration Amendment Regulations (No. 5) 2004 | 24 Nov 2004 p. 5255-6 |
 Land Administration Amendment Regulations 2006 | 17 Feb 2006 p. 703 | 17 Feb 2006
 Reprint 2: The Land Administration Regulations 1998 as at 9 Jun 2006 (includes amendments listed above)
 Land Administration Amendment Regulations (No. 3) 2006 | 29 Dec 2006 p. 5896 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
+Land Administration Amendment Regulations 2007 | 22 Jun 2007 p. 2847-8 | 1 Jul 2007 (see r. 2)
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 Published again in Gazette 19 Nov 2004 p. 5081 but amendment of 19 Nov 2004 has no effect.
