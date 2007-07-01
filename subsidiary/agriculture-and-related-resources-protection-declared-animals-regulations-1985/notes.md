@@ -13,3 +13,4 @@ Agriculture and Related Resources Protection (Declared Animals) Amendment Regula
 Agriculture and Related Resources Protection (Declared Animals) Amendment Regulations 2002 | 28 Jun 2002 p. 3038-41 | 1 Jul 2002 (see r. 2)
 Agriculture and Related Resources Protection (Declared Animals) Amendment Regulations 2005 | 31 May 2005 p. 2395-6 | 1 Jul 2005 (see r. 2)
 Agriculture and Related Resources Protection (Declared Animals) Amendment Regulations 2006 | 16 Jun 2006 p. 2112 | 1 Jul 2006 (see r. 2)
+Agriculture and Related Resources Protection (Declared Animals) Amendment Regulations 2007 | 15 Jun 2007 p. 2752 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
