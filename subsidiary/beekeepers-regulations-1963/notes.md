@@ -35,5 +35,6 @@ Beekeepers Amendment Regulations 2004 | 18 May 2004 p. 1569 | 1 Jul 2004 (see r.
 Reprint 2: The Beekeepers Regulations 1963 as at 21 Jan 2005 (includes amendments listed above)
 Beekeepers Amendment Regulations 2005 | 31 May 2005 p. 2397-8 | 1 Jul 2005 (see r. 2)
 Beekeepers Amendment Regulations 2006 | 16 Jun 2006 p. 2113 | 1 Jul 2006 (see r. 2)
+Beekeepers Amendment Regulations 2007 | 15 Jun 2007 p. 2754-5 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Repealed by the Conservation and Land Management Act 1984.
 Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference in a written law to Agriculture Western Australia is, unless the contrary is intended, to be read and construed as a reference to the Department of Agriculture.
