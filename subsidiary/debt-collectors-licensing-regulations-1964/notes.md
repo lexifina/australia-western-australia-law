@@ -20,3 +20,4 @@ Debt Collectors Licensing Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 22
 Debt Collectors Licensing Amendment Regulations 2006 | 22 Sep 2006 p. 4101-4 | 22 Sep 2006 (see r. 2(a))
 Reprint 3: The Debt Collectors Licensing Regulations 1964 as at 10 Nov 2006 (includes amendments listed above)
 Debt Collectors Licensing Amendment Regulations (No. 3) 2006 | 12 Jan 2007 p. 46-7 | 12 Jan 2007
+Debt Collectors Licensing Amendment Regulations 2007 | 15 Jun 2007 p. 2771-2 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
