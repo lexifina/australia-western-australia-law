@@ -58,7 +58,7 @@ Category number | Description of category | Production or design capacity
  | (a)clay, limesand or limestone material is used in a furnace or kiln in the production of cement clinker or lime; or (b)cement clinker, clay, limestone or similar material is ground.
 44 | Metal smelting or refining: premises on which metal ore, metal ore concentrate or metal waste is smelted, fused, roasted, refined or processed. | 1 000 tonnes or more per year
 45 | Metal melting or casting: premises on which metal or scrap metal is melted in furnaces or cast. | 100 tonnes or more per year
-46 | Bauxite refining: premises (other than premises within paragraph (b) of category 6) on which alumina is produced from bauxite refining. | Not applicable
+46 | Bauxite refining: premises (other than premises within paragraph (b) of category 5) on which alumina is produced from bauxite refining. | Not applicable
 47 | Scrap metal recovery: premises (other than premises within category 45) on which metal scrap is fragmented or melted, including premises on which lead acid batteries are reprocessed. | 100 tonnes or more per year
 48 | Metal finishing: premises on which metals are chemically cleaned or metals, plastics or metal or plastic products are plated, electroplated, anodized, coloured or otherwise coated or finished. | Not applicable
 48A | Metal finishing: premises on which iron or steel is galvanized. | Not applicable
@@ -86,6 +86,7 @@ Category number | Description of category | Production or design capacity
 66 | Class V intractable landfill site: premises on which waste (as determined by reference to the waste type set out in the document entitled “Landfill Waste Classification and Waste Definitions 1996” published by the Chief Executive Officer and as amended from time to time) is accepted for burial. | Not applicable
 67 | Fuel burning: premises on which gaseous, liquid or solid fuel is burnt in a boiler for the supply of steam or in power generation equipment. | In aggregate 500 kilograms or more per hour (fuel with a sulphur content of 0.25% or more) or In aggregate 2 000 kilograms or more per hour (fuel with a sulphur content of less than 0.25%)
 67A | Compost manufacturing and soil blending: premises on which organic material (excluding silage) or waste is stored pending processing, mixing, drying or composting to produce commercial quantities of compost or blended soils. | 1 000 tonnes or more per year
+[Part 1 amended in Gazette 22 Jun 2007 p. 2843.]
 Part 2
 Category number | Description of category | Production or design capacity
 68 | Cattle feedlot: premises on which the watering and feeding of cattle occurs, being premises — (a)situated 100 metres or more from a watercourse; and (b)on which the number of cattle per hectare exceeds 50. | 500 animals or more
@@ -112,4 +113,4 @@ Category number | Description of category | Production or design capacity
 87 | Fuel burning: premises on which gaseous, liquid or solid fuel with a sulphur content of less than 0.25% is burnt in a boiler for the supply of steam or in power generation equipment. | More than 500 but less than 2 000 kilograms per hour in aggregate
 88 | Metal finishing: premises on which — (a)metals are chemically cleaned or metals, plastics or metal or plastic products are plated, electroplated, anodised, coloured or otherwise coated or finished; and (b)from which liquid waste is discharged into a sewer. | Not applicable
 89 | Putrescible landfill site: premises on which waste (as determined by reference to the waste type set out in the document entitled “Landfill Waste Classification and Waste Definitions 1996” published by the Chief Executive Officer, as amended from time to time) is accepted for burial. | More than 20 but less than 5 000 tonnes per year
-[Schedule 1 inserted in Gazette 13 Sep 1996 p. 4549-59; amended in Gazette 10 Dec 1996 p. 6877; 12 Sep 1997 p. 5151; 15 Aug 2000 p. 4715-17; 14 Jun 2002 p. 2793-4; 13 Dec 2005 p. 5983.]
+[Schedule 1 inserted in Gazette 13 Sep 1996 p. 4549-59; amended in Gazette 10 Dec 1996 p. 6877; 12 Sep 1997 p. 5151; 15 Aug 2000 p. 4715-17; 14 Jun 2002 p. 2793-4; 13 Dec 2005 p. 5983; 22 Jun 2007 p. 2843.]

@@ -171,7 +171,6 @@ Environmental Protection (Controlled Waste) Regulations 2004
 38.regulation 47 | 250 | 500
 39.regulation 50 | 250 | 500
 40.regulation 51(2) | 250 | 500
-Table
 Environmental Protection (NEPM-UPM) Regulations 2007
 1.regulation 5(1)(a) | 250 | 500
 2.regulation 5(1)(b) | 250 | 500
