@@ -13,16 +13,7 @@ Health (Food Hygiene) Amendment Regulations 2005 | 8 Feb 2005 p. 661-2 | 8 Feb 2
 Health (Food Hygiene) Amendment Regulations (No. 2) 2005 | 31 May 2005 p. 2406-7 | 1 Jul 2005 (see r. 2)
 Health (Food Hygiene) Amendment Regulations 2006 | 2 May 2006 p. 1698 | 1 Jul 2006 (see r. 2)
 Reprint 2: The Health (Food Hygiene) Regulations 1993 as at 10 Nov 2006 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Health (Food Hygiene) Amendment Regulations 2007 r. 4 | 18 May 2007 p. 2249 | 1 Jul 2007 (see r. 2)
+Health (Food Hygiene) Amendment Regulations 2007 | 18 May 2007 p. 2249 | 1 Jul 2007 (see r. 2)
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Health Department of Western Australia is now called the Department of Health.
 Repealed by the Health (Food Hygiene) Amendment Regulations 1993.
-On the date as at which this compilation was prepared, the Health (Food Hygiene) Amendment Regulations 2007 r. 4 had not come into operation. It reads as follows:
-“
-4.Schedule 5 amended
-Schedule 5 is amended by deleting “48” in both places where it occurs and inserting instead —
-“ 50 ”.
-”.
