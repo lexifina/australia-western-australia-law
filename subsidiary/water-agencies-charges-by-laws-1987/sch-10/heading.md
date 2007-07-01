@@ -1,6 +1,6 @@
 ## Schedule 10 — Classification of towns/areas for the purpose of determining quantity charges in the current year
 [bl. 17D(4)]
-[Heading inserted in Gazette 30 Jun 2006 p. 2460.]
+[Heading inserted in Gazette 29 Jun 2007 p. 3287.]
 Class 1
 Albany, Albany Farmlands, Allanooka Farmlands, Australind/Eaton, Avon Hills, Boyanup, Broome, Capel, Cervantes, Collie, Collie Farmlands, Cunderdin, Dampier, Dathagnoorara Farmlands, Dongara/Denison, Donnybrook, Elleker, Esperance, Geraldton, Gnarabup, Hamel/Waroona, Harvey/Wokalup, Jurien, Kalbarri, Kununurra, Mandurah, Margaret River, Moora, Narngulu, Northam, Park Ridge, Pinjarra, Porongorup, Port Hedland, Riverside Gardens, South Hedland, Walkaway, Wedgefield, Wundowie, Yarloop/Wagerup.
 Class 2
@@ -10,5 +10,5 @@ Arrowsmith Farmlands, Augusta, Balingup, Bindoon/Chittering, Bremer Bay, Bridget
 Class 4
 Ballidu, Bendering, Bolgart, Bruce Rock, Bunjil, Camballin, Caron, Condingup, Corrigin, Cowaramup, Cranbrook, Dandaragan, Denmark, Frankland, Gascoyne, Gibson, Gnowangerup, Horrocks, Hyden, Jerramungup, Kalannie, Kalgoorlie Farmlands, Kendenup, Kirup, Kondinin, Kulin, Kununoppin, Lake Argyle, Lake Grace, Latham, Marble Bar, Marvel Loch, Merredin Farmlands, Mukinbudin, Mullewa, Narembeen, Narrogin Farmlands, Newdegate, New Norcia, Norseman, Northam Farmlands, Northcliffe, Nullagine, Nungarin, Nyabing, Onslow, Perenjori, Popanyinning, Sandstone, Tambellup, Trayning, Walpole, Wandering, Watheroo, Widgiemooltha, Wongan Hills, Wubin, Wyndham, Yalgoo.
 Class 5
-Arrino, Badgingarra, Beacon, Bencubbin, Bindi Bindi, Borden, Broad Arrow, Bullfinch, Buntine, Coomberdale, Dudinin/Harrismith/Jitarning, Dumbleyung, Grass Patch, Karlgarin, Kukerin/Moulyinning, Lake King, Menzies, Moorine Rock, Mount Roe, Mullalyup, Munglinup, Muntadgin, Ongerup, Ora Banda, Pingaring, Pingrup, Quininup, Ravensthorpe, Rocky Gully, Salmon Gums, Tincurrin, Varley, Wellstead, Yerecoin, Yuna.
-[Schedule 10 inserted in Gazette 30 Jun 2006 p. 2460-1; amended in Gazette 14 Nov 2006 p. 4738.]
+Arrino, Badgingarra, Beacon, Bencubbin, Bindi Bindi, Borden, Broad Arrow, Bullfinch, Buntine, Coomberdale, Coral Bay, Dudinin/Harrismith/Jitarning, Dumbleyung, Grass Patch, Karlgarin, Kukerin/Moulyinning, Lake King, Menzies, Moorine Rock, Mount Roe, Mullalyup, Munglinup, Muntadgin, Ongerup, Ora Banda, Pingaring, Pingrup, Quininup, Ravensthorpe, Rocky Gully, Salmon Gums, Tincurrin, Varley, Wellstead, Yerecoin, Yuna.
+[Schedule 10 inserted in Gazette 29 Jun 2007 p. 3287-8.]
