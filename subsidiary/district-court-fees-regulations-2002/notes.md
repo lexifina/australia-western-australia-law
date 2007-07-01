@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 December 2006 of the District Court (Fees) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the District Court (Fees) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 District Court (Fees) Regulations 2002 | 27 Dec 2001 p. 6617-43 | 1 Jan 2002 (see r. 2)
@@ -9,6 +9,7 @@ District Court (Fees) Amendment Regulations 2005 | 28 Apr 2005 p. 1751-7 | 1 May
 District Court (Fees) Amendment Regulations (No. 2) 2005 | 23 Jun 2005 p. 2690-2 | 1 Jul 2005 (see r. 2)
 District Court (Fees) Amendment Regulations 2006 | 23 Jun 2006 p. 2187-9 | 1 Jul 2006 (see r. 2)
 Reprint 1: The District Court (Fees) Regulations 2002 as at 8 Dec 2006 (includes amendments listed above)
+District Court (Fees) Amendment Regulations 2007 | 26 Jun 2007 p. 3035-7 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Repealed by the District Court Rules 2005 r. 72.
 The District Court (Fees) Amendment Regulations 2005 r. 13 reads as follows:
 “
