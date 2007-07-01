@@ -69,106 +69,10 @@ Reprint 1: The Ports and Harbours Regulations as at 1 Aug 2003 (includes amendme
 Ports and Harbours Amendment Regulations 2004 | 25 Jun 2004 p. 2265-9 | 1 Jul 2004 (see r. 2)
 Ports and Harbours Amendment Regulations 2005 | 24 Jun 2005 p. 2773-7 | 1 Jul 2005 (see r. 2)
 Ports and Harbours Amendment Regulations 2006 | 23 Jun 2006 p. 2208-11 | 1 Jul 2006 (see r. 2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Ports and Harbours Amendment Regulations 2007 r. 3 and 4 | 12 Jun 2007 p. 2721-2 | 1 Jul 2007 (see r. 2)
-Ports and Harbours Amendment Regulations (No. 2) 2007 r. 3-10 | 12 Jun 2007 p. 2723-5 | 1 Jul 2007 (see r. 2)
+Ports and Harbours Amendment Regulations 2007 | 12 Jun 2007 p. 2721-2 | 1 Jul 2007 (see r. 2)
+Ports and Harbours Amendment Regulations (No. 2) 2007 | 12 Jun 2007 p. 2723-5 | 1 Jul 2007 (see r. 2)
 Repealed by the Port Authorities (Consequential Provisions) Act 1999.
 Now known as the Australian Maritime Safety Authority.
 Repealed by the Pollution of Waters by Oil and Noxious Substances Act 1987.
 Repealed by the Fish Resources Management Act 1994.
 Now known as the Ports and Harbours Regulations 1966; citation changed (see note under r. 1).
-On the date as at which this compilation was prepared, the Ports and Harbours Amendment Regulations 2007 r. 3 and 4 had not come into operation. They read as follows:
-“
-3.The regulations amended
-The amendments in these regulations are to the Ports and Harbours Regulations 1966.
-4.Third Schedule amended
-(1) The Third Schedule Division 2 item 1(a) is amended as follows:
-(a) by deleting “$103.30” and inserting instead —
-“ $108.20 ”;
-(b) by deleting “$135.10” and inserting instead —
-“ $141.50 ”;
-(c) by deleting “$197.70” and inserting instead —
-“ $207.10 ”;
-(d) by deleting “$303.40” and inserting instead —
-“ $317.90 ”.
-(e) by deleting “$463.00” and inserting instead —
-“ $485.20 ”.
-(f) by deleting “$723.40” and inserting instead —
-“ $758.10 ”.
-(2) The Third Schedule Division 2 item 1(b) is amended by deleting “$92.10” and inserting instead —
-“ $96.50 ”.
-(3) The Third Schedule Division 2 item 3 is amended as follows:
-(a) by deleting “$103.30” and inserting instead —
-“ $108.20 ”;
-(b) by deleting “$135.10” and inserting instead —
-“ $141.50 ”;
-(c) by deleting “$197.80” and inserting instead —
-“ $207.10 ”;
-(d) by deleting “$303.40” and inserting instead —
-“ $317.90 ”;
-(e) by deleting “$463.00” and inserting instead —
-“ $485.20 ”;
-(f) by deleting “$723.40” and inserting instead —
-“ $758.10 ”.
-”.
-On the date as at which this compilation was prepared, the Ports and Harbours Amendment Regulations (No. 2) 2007 r. 3-10 had not come into operation. They read as follows:
-“
-3.The regulations amended
-The amendments in these regulations are to the Ports and Harbours Regulations 1966.
-4.Regulation 14 amended
-Regulation 14(3) is amended by deleting “$4 200.95” and inserting instead —
-“ $4 402.60 ”.
-5.Regulation 15 amended
-Regulation 15(3) is amended by deleting “$691.34” and inserting instead —
-“ $724.53 ”.
-6.Regulation 15A amended
-(1) Regulation 15A(1)(a) is amended by deleting “$688.76” and inserting instead —
-“ $721.82 ”.
-(2) Regulation 15A(2) is amended as follows:
-(a) in paragraph (a) by deleting “$688.76” and inserting instead —
-“ $721.82 ”;
-(b) in paragraph (c) by deleting “$817.75” and inserting instead —
-“ $857.00 ”.
-7.Regulation 15B amended
-Regulation 15B is amended as follows:
-(a) by deleting “$327.61” and inserting instead —
-“ $343.34 ”;
-(b) by deleting “$469.50” and inserting instead —
-“ $492.04 ”.
-8.Regulation 15C amended
-Regulation 15C(a) is amended as follows:
-(a) by deleting “$103.19” and inserting instead —
-“ $108.14 ”;
-(b) by deleting “$691.34” and inserting instead —
-“ $724.53 ”;
-(c) by deleting “$1 795.43” and inserting instead —
-“ $1 881.62 ”.
-9.Regulation 16 amended
-Regulation 16(d)(i) is amended by deleting “$759.70” and inserting instead —
-“ $796.17 ”.
-10.Third Schedule amended
-(1) The Third Schedule Division 1 item 1 is amended as follows:
-(a) by deleting “$4 616.83” and inserting instead —
-“ $4 838.44 ”;
-(b) by deleting “$4 724.63” and inserting instead —
-“ $4 951.42 ”;
-(c) by deleting “$5 244.42” and inserting instead —
-“ $5 496.15 ”;
-(d) by deleting “$5 799.04” and inserting instead —
-“ $6 077.39 ”;
-(e) by deleting “$6 958.58” and inserting instead —
-“ $7 292.59 ”;
-(f) by deleting “$7 780.21” and inserting instead —
-“ $8 153.66 ”;
-(g) by deleting “$8 517.99” and inserting instead —
-“ $8 926.85 ”.
-(2) The Third Schedule Division 1 item 2 is amended as follows:
-(a) in paragraph (a) by deleting “$573.97” and inserting instead —
-“ $601.52 ”;
-(b) in paragraph (c)(i) by deleting “$327.61/hour” and inserting instead —
-“ $343.34/hour ”;
-(c) in paragraph (c)(ii) by deleting “$469.50/hour” and inserting instead —
-“ $492.04/hour ”.
-”.
