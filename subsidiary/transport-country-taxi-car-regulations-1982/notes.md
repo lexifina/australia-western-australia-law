@@ -37,3 +37,4 @@ Reprint 2: The Transport (Country Taxi-car) Regulations 1982 as at 2 Apr 2004 (i
 Transport (Country Taxi-car) Amendment Regulations 2004 | 30 Dec 2004 p. 6961 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Transport (Country Taxi-car) Amendment Regulations (No. 2) 2006 | 23 Jun 2006 p. 2229 | 1 Jul 2006 (see r. 2)
 Transport (Country Taxi-car) Amendment Regulations 2006 | 14 Jul 2006 p. 2575-81 | 14 Jul 2006
+Transport (Country Taxi-car) Amendment Regulations 2007 | 22 Jun 2007 p. 2874-5 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
