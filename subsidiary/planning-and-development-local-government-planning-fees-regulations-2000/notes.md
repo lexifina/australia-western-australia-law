@@ -4,5 +4,6 @@ Compilation table
 Citation | Gazettal | Commencement
 Town Planning (Local Government Planning Fees) Regulations 2000 | 19 Dec 2000 p. 7245-59 | 19 Dec 2000 (see r. 2 and Gazette 19 Dec 2000 p.7273)
 Town Planning (Local Government Planning Fees) Amendment Regulations 2007 | 8 Jun 2007 p. 2632-5 | 8 Jun 2007
+Planning and Development (Local Government Planning Fees) Amendment Regulations (No. 2) 2007 | 22 Jun 2007 p. 2860-1 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Formerly made under s. 33B of the Town Planning and Development Act 1928, continued under s. 261 of the Planning and Development Act 2005.
 Now known as the Planning and Development (Local Government Planning Fees) Regulations 2000; citation changed (see note under r. 1).
