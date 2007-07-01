@@ -32,5 +32,6 @@ Painters’ Registration Board Amendment Rules (No. 3) 2001 | 4 Jan 2002 p. 3-4 
 Reprint of the Painters’ Registration Board Rules 1962 as at 22 Mar 2002 (includes amendments listed above)
 Painters’ Registration Board Amendment Rules 2004 | 30 Dec 2004 p. 7019 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Painters’ Registration Board Amendment Rules 2005 | 28 Jun 2005 p. 2917-18 | 1 Jul 2005 (see r. 2)
-Painters’ Registration Board Amendment Rules 2006 | 27 Jun 2006 p. 2267-8 | 1 Jul 2006 (see e. 2)
+Painters’ Registration Board Amendment Rules 2006 | 27 Jun 2006 p. 2267-8 | 1 Jul 2006 (see r. 2)
+Painters’ Registration Board Amendment Rules 2007 | 15 Jun 2007 p. 2780-1 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Repealed by the Industrial Arbitration Act 1979 which is now called the Industrial Relations Act 1979.
