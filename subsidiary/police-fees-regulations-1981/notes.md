@@ -29,3 +29,4 @@ Police (Fees) Amendment Regulations 2005 | 1 Jul 2005 p. 3003-5 | 1 Jul 2005 (se
 Police (Fees) Amendment Regulations 2006 | 10 Feb 2006 p. 675-6 | 10 Feb 2006
 Reprint 2: The Police (Fees) Regulations 1981 as at 21 Apr 2006 (includes amendments listed above)
 Police (Fees) Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2297-9 | 1 Jul 2006 (see r. 2)
+Police (Fees) Amendment Regulations 2007 | 29 Jun 2007 p. 3198-200 | r. 1 and 2: 29 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
