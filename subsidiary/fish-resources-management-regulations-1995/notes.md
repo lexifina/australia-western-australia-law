@@ -101,77 +101,7 @@ Fish Resources Management Amendment Regulations (No. 6) 2006 | 10 Nov 2006 p. 47
 Fish Resources Management Amendment Regulations (No. 8) 2006 | 10 Nov 2006 p. 4704-12 | 10 Nov 2006
 Fish Resources Management Amendment Regulations (No. 7) 2006 | 29 Dec 2006 p. 5888-92 | 29 Dec 2006
 Fish Resources Management Amendment Regulations (No. 2) 2007 | 16 Feb 2007 p. 489-90 | 1 Mar 2007 (see r. 2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Fish Resources Management Amendment Regulations (No. 5) 2007 r. 3 and 4 | 12 Jun 2007 p. 2717-19 | 1 Jul 2007 (see r. 2)
+Fish Resources Management Amendment Regulations (No. 5) 2007 | 12 Jun 2007 p. 2717-9 | 1 Jul 2007 (see r. 2)
 Repealed by the Land Administration Act 1997 s. 281(1).
 Footnotes not longer applicable.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
-On the date as at which this compilation was prepared, the Fish Resources Management Amendment Regulations (No. 5) 2007 r. 3 and 4 had not come into operation. They read as follows:
-“
-3.The regulations amended
-The amendments in these regulations are to the Fish Resources Management Regulations 1995.
-4.Schedule 1 amended
-Schedule 1 Part 3 is amended as follows:
-(a) in item 3(3), by deleting “7 343.00” and inserting instead —
-“ 8 231.00 ”;
-(b) in item 3(4), by deleting “23.56” and inserting instead —
-“ 26.41 ”;
-(c) in item 3(5), by deleting “704.00” and inserting instead —
-“ 790.00 ”;
-(d) in item 3(6), by deleting “103.00” and inserting instead —
-“ 115.00 ”;
-(e) in item 3(7), by deleting “116.00” and inserting instead —
-“ 119.00 ”;
-(f) in item 3(8), by deleting “58.00” and inserting instead —
-“ 59.94 ”;
-(g) in item 3(10), by deleting “2 129.00” and inserting instead —
-“ 2 386.00 ”;
-(h) in item 3(11)(a) and (b), by deleting “816.00” and inserting instead —
-“ 915.00 ”;
-(i) in item 3(12)(a) and (b), by deleting “907.00” and inserting instead —
-“ 930.00 ”;
-(j) in item 3(13), by deleting “3 102.00” and inserting instead —
-“ 3 477.00 ”;
-(k) in item 3(14)(b), by deleting “56.06” and inserting instead —
-“ 61.00 ”;
-(l) in item 3(15)(a), by deleting “8 984.00” and inserting instead —
-“ 10 071.00 ”;
-(m) in item 3(15)(b), by deleting “3 163.00” and inserting instead —
-“ 3 545.00 ”;
-(n) in item 3(15)(c) and (d), by deleting “116.00” and inserting instead —
-“ 119.00 ”;
-(o) in item 3(16), by deleting “7.73” and inserting instead —
-“ 7.98 ”;
-(p) in item 3(17), by deleting “6.00” and inserting instead —
-“ 6.73 ”;
-(q) in item 3(18), by deleting “2 574.00” and inserting instead —
-“ 2 660.00 ”;
-(r) in item 3(21), by deleting “13.36” and inserting instead —
-“ 14.98 ”;
-(s) in item 3(22), by deleting “1 106.00” and inserting instead —
-“ 1 126.00 ”;
-(t) in item 3(23)(a), by deleting “17.16” and inserting instead —
-“ 17.73 ”;
-(u) in item 3(23)(b), by deleting “23.94” and inserting instead —
-“ 24.74 ”;
-(v) in item 3(23)(c), by deleting “51.39” and inserting instead —
-“ 53.11 ”;
-(w) in item 3(23)(d), by deleting “98.51” and inserting instead —
-“ 101.79 ”;
-(x) in item 3(24), by deleting “1 096.00” and inserting instead —
-“ 1 228.00 ”;
-(y) in item 3(25), by deleting “538.00” and inserting instead —
-“ 604.00 ”;
-(z) in item 3(26)(a), (b), (c), (d) and (e), by deleting “907.00” and inserting instead —
-“ 930.00 ”;
-(aa) in item 3(27), by deleting “980.00” and inserting instead —
-“ 1 005.00 ”;
-(bb) in item 3(28), by deleting “935.00” and inserting instead —
-“ 1 048.00 ”;
-(cc) in item 3(29), by deleting “240.00” and inserting instead —
-“ 268.00 ”;
-(dd) in item 3(33), by deleting “43.71” and inserting instead —
-“ 45.17 ”.
-”.
