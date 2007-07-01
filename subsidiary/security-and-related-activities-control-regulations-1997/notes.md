@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 December 2006 of the Security and Related Activities (Control) Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Security and Related Activities (Control) Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Security and Related Activities (Control) Regulations 1997 | 27 Mar 1997 p. 1651-90 | 1 Apr 1997 (see r. 2 and Gazette 27 Mar 1997 p. 1693)
@@ -23,4 +23,5 @@ Security and Related Activities (Control) Amendment Regulations 2006 | 28 Apr 20
 Security and Related Activities (Control) Amendment Regulations (No. 4) 2006 | 27 Jun 2006 p. 2303-4 | 1 Jul 2006 (see r. 2)
 Security and Related Activities (Control) Amendment Regulations (No. 3) 2006 | 3 Oct 2006 p. 4343-7 | 3 Oct 2006
 Reprint 4: The Security and Related Activities (Control) Regulations 1997 as at 1 Dec 2006 (includes amendments listed above)
+Security and Related Activities (Control) Amendment Regulations 2007 | 29 Jun 2007 p. 3200-1 | r. 1 and 2: 29 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Repealed by the Security and Related Activities (Control) Act 1996.
