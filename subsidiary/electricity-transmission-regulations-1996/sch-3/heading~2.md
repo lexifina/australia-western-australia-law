@@ -15,4 +15,4 @@ In addition to any matters outlined elsewhere in the regulations, an access offe
 (l)provision, installation, operation and maintenance of automatic load shedding facilities;
 (m)circumstances under which the terms of the resulting access agreement would require renegotiation.
 [Schedule 3 amended in Gazette 24 Jun 2005 p. 2754.]
-[Schedule 4 repealed in Gazette 29 Oct 2002 p. 5344.]
+[Schedule 4 deleted in Gazette 29 Oct 2002 p. 5344.]
