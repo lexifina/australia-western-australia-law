@@ -32,6 +32,7 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No.
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2006 | 14 Jul 2006 p. 2563-4 | 14 Jul 2006 (see r. 2 and Gazette 14 Jul 2006 p. 2575)
 Reprint 3: The Fines, Penalties and Infringement Notices Enforcement Regulations 1994 as at 8 Sep 2006 (includes amendments listed above)
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2007 | 18 May 2007 p. 2257 | r. 1 and 2: 18 May 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 19 May 2007 (see r. 2(b))
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2007 | 26 Jun 2007 p. 3031-2 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
