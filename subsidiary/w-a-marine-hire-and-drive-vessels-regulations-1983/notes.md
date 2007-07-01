@@ -23,20 +23,4 @@ W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2004 | 25 Jun 2004 p.
 W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2005 | 24 Jun 2005 p. 2780-1 | 1 Jul 2005 (see r. 2)
 W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2006 | 23 Jun 2006 p. 2211-12 | 1 Jul 2006 (see r. 2)
 Reprint 2: The W.A. Marine (Hire and Drive Vessels) Regulations 1983 as at 10 Nov 2006 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2007 r. 3 and 4 | 12 Jun 2007 | 1 Jul 2007 (see r. 2)
-On the date as at which this compilation was prepared, the W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2007 r. 3 and 4 had not come into operation. They read as follows:
-“
-3.The regulations amended
-The amendments in these regulations are to the W.A. Marine (Hire and Drive Vessels) Regulations 1983.
-4.Regulation 4 amended
-Regulation 4(2)(e) is amended as follows:
-(a) in substituted clause 3.1.2(1)(b) by deleting “$308.30” and inserting instead —
-“ $389.80 ”;
-(b) in substituted clause 3.1.2(3)(b) by deleting “$153.40” and inserting instead —
-“ $191.40 ”;
-(c) in substituted clause 3.1.3(m) by deleting “$58.90.” and inserting instead —
-“ $73.50. ”.
-”.
+W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2007 | 12 Jun 2007 p. 2729-30 | 1 Jul 2007 (see r. 2)
