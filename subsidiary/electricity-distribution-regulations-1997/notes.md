@@ -12,5 +12,6 @@ Electricity Distribution Amendment Regulations 2006 | 20 Jan 2006 p. 378-9 | 20 
 Electricity Corporations (Consequential Amendments) Regulations 2006 Pt. 2 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
 Reprint 1: The Electricity Distribution Regulations 1997 as at 4 Aug 2006 (includes amendments listed above)
 Electricity Distribution Amendment Regulations (No. 2) 2006 | 25 Aug 2006 p. 3499-501 | Regs other than r. 4(b) & 5-9: 25 Aug 2006 (see r. 2(1)); r. 4(b) & 5-9: 21 Sep 2006 08:00 (WST) (see r. 2(2) and Gazette 19 Sep 2006 p. 4065)
+Electricity Distribution Amendment Regulations 2007 | 26 Jun 2007 p. 3024-7 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Formerly referred to the Electricity Corporation Act 1994, the short title of which was changed to the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 s. 139.
 Formerly referred to the Energy Corporations (Powers) Act 1979, the short title of which was changed to the Energy Operators (Powers) Act 1979 by the Gas Corporation (Business Disposal) Act 1999 s. 78. The reference was amended under the Reprints Act 1984 s. 7(3)(gb).
