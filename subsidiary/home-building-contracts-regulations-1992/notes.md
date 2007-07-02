@@ -15,6 +15,7 @@ Home Building Contracts Amendment Regulations 2001 | 31 Jul 2001 p. 3947-51 | 1 
 Reprint of the Home Building Contracts Regulations 1992 as at 7 Jun 2002 (includes amendments listed above)
 Home Building Contracts (Home Indemnity Insurance — Multi-storey Multi-unit Developments Exemption) Amendment Regulations 2003 r. 10 | 8 Apr 2003 p. 1099-104 | 9 Apr 2003 (see r. 2)
 Home Building Contracts Amendment Regulations 2003 | 2 Sep 2003 p. 3923-30 | 2 Sep 2003
+Home Building Contracts Amendment Regulations 2007 | 29 Jun 2007 p. 3190-2 | r. 1 and 2: 29 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2007 (see r. 2(b)(i))
 Address at time of printing: 10 William Street Perth 6000
 Tel. No. 9321 7688
 Address at time of printing: 18 Harvest Terrace West Perth 6005

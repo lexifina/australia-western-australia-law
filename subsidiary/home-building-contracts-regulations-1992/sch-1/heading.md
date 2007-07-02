@@ -8,19 +8,19 @@ This notice explains relevant provisions of that Act as required by section 4(2)
 Who are “owners” and “builders”?
 In this notice “owner” means the person for whom the home building work is to be done and “builder” means the person who, in the course of business, is to do the work or arrange for it to be done.
 What the Act covers
-The Act deals with contracts for home building work where the contract price is above $6 000 and below $200 000. The Act also applies to contracts, within that price range, for associated work (e.g. swimming pools, carports and landscaping) and for alterations. It makes some provisions that are implied in all contracts, and also states what is not allowed in any contract.
+The Act deals with contracts for home building work where the contract price is above $7 500 and below $500 000. The Act also applies to contracts, within that price range, for associated work (e.g. swimming pools, carports and landscaping) and for alterations. It makes some provisions that are implied in all contracts, and also states what is not allowed in any contract.
 Under the Act a builder must not do anything in connection with a contract that is “unconscionable, harsh or oppressive”. Furthermore, neither you nor the builder may do anything that is “misleading or deceptive”.
 The Act deals with “cost plus” contracts only to a limited extent — see later in this notice under “Special rules for cost plus contracts”.
 You may seek appropriate redress through the Building Disputes Tribunal for breaches of the contract and the Act, including for unconscionable or misleading conduct — see later in this notice under “Disputes”. The builder’s rights are similar, but do not extend to any unconscionable behaviour by you.
 A person can be prosecuted or fined for not complying with some provisions of the Act. Some of these provisions apply to owners as well as builders.
 Rights conferred by the Act cannot be taken away, diminished or waived and it is forbidden to make any agreement or arrangement to by-pass the Act.
 Home indemnity insurance
-It is compulsory for all home building work except associated work alone (e.g. swimming pools, carports, pergolas and landscaping), the cost of which is above $12 000, to be covered by home indemnity insurance.
-Home indemnity insurance is also compulsory for associated work if that work is performed under a contract that includes construction or renovation of a residence and the total cost of all the building work is above $12 000.
+It is compulsory for all home building work except associated work alone (e.g. swimming pools, carports, pergolas and landscaping), the cost of which is above $20 000, to be covered by home indemnity insurance.
+Home indemnity insurance is also compulsory for associated work if that work is performed under a contract that includes construction or renovation of a residence and the total cost of all the building work is above $20 000.
 Before commencing work or demanding any payment (including a deposit) from you, the builder must take out home indemnity insurance and give you a certificate confirming the existence of the insurance cover.
 There may be periods when a builder is exempt from the requirement to take out home indemnity insurance. During, and in some circumstances after, one of these periods a builder must give you a notice in a prescribed form.
 Home indemnity insurance will protect you and any successive owners against financial loss due to the insolvency, death or disappearance of the builder that results in —
-(a)loss of deposit (up to a limit of $13 000);
+(a)loss of deposit (up to a limit of $20 000);
 (b)the non-completion of the building work; or
 (c)the failure to rectify faulty or unsatisfactory building work.
 Home indemnity insurance generally does not cover an owner for any money paid in advance other than a deposit. In any event it is a breach of the Act for a builder to request and receive such a payment — see later in this notice under “Provisions that are not allowed”.
@@ -96,5 +96,5 @@ Please note that disputes can be brought before the Tribunal under the Builders�
 Before you or the builder apply to the Building Disputes Tribunal, a notice in the prescribed form must be given to the other party outlining the complaint and asking that it be put right or that a settlement be agreed to. You must keep a copy of that notice to give to the Tribunal at the time of making an application.
 Parties to proceedings before the Tribunal must represent themselves except as set out in section 45A of the Builders’ Registration Act 1939.
 Advice on how a dispute may be placed before the Building Disputes Tribunal and related matters may be obtained from the staff of the Tribunal.
-[Schedule 1 inserted in Gazette 2 Sep 2003 p. 3924-30.]
+[Schedule 1 inserted in Gazette 2 Sep 2003 p. 3924-30; amended in Gazette 29 Jun 2007 p. 3191-2.]
 [Schedules 2-8 repealed in Gazette 2 Sep 2003 p. 3930.]
