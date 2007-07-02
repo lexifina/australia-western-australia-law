@@ -29,6 +29,7 @@ Reprint 2: The Builders’ Registration Regulations as at 17 Feb 2006 (includes 
 Builders’ Registration Amendment Regulations 2006 | 27 Jun 2006 p. 2264-5 | 1 Jul 2006 (see r. 2)
 Builders’ Registration Amendment Regulations (No. 2) 2007 | 15 Jun 2007 p. 2763-4 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b)(i))
 Builders’ Registration Amendment Regulations (No. 3) 2007 | 15 Jun 2007 p. 2766-7 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b)(i))
+Builders’ Registration Amendment Regulations 2007 | 29 Jun 2007 p. 3189-90 | r. 1 and 2: 29 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2007 (see r. 2(b)(i))
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference to the Department for Community Welfare is, unless the contrary intention appears, to be read and construed as a reference to the Department for Community Development.
 The Builders’ Registration Amendment Regulations 2003 as published in Gazette 12 Sep 2003 p. 4071 has no effect because it was made in error by the Governor instead of the Board.
 Now known as the Builders’ Registration Regulations; citation changed (see note under r. 1).
