@@ -2,8 +2,8 @@
 [r. 6(3)]
 [Heading amended in Gazette 27 May 2005 p. 2295.]
 1.Lodgment or withdrawal of a memorial under —
-(a) the Local Government (Miscellaneous Provisions) Act 1960 section 412A or the Local Government Act 1995 Schedule 6.3 clause 2;
-(b) the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 section 124A;
+(a) the Local Government (Miscellaneous Provisions) Act 1960 section 412A or the Local Government Act 1995 Schedule 6.3 clause 2; or
+[(b)deleted]
 (c) the Country Areas Water Supply Act 1947 section 12BA, 12BB or 12EA; or
 (d) the Environmental Protection Act 1986 section 66.
 2.In respect of the transfer of loans for housing to financial institutions participating in the Home Buyers Guarantee Scheme of the State from other financial institutions, fees for the registration of a mortgage or the discharge of a mortgage, photocopy of a certificate of title, search of a deposited plan, plan, diagram or other document and photocopying or check search.
@@ -19,3 +19,4 @@
 6.Creation and registration of a certificate of title by the Registrar under regulation 4 (if different from the applicant’s request) or regulation 5.
 7.Lodgments by or on behalf of the Registrar.
 8.Lodgment of a dealing, deposited plan or other document by or on behalf of the Minister for Lands (other than such a lodgment by the Minister on behalf of another person).
+[Schedule 2 amended in Gazette 25 Jun 2007 p. 2978.]
