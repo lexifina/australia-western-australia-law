@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Liquor Control Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 July 2007 of the Liquor Control Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Liquor Licensing Act 1988 | 54 of 1988 | 9 Dec 1988 | 1 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
+Liquor Licensing Act 1988 | 54 of 1988 | 9 Dec 1988 | s. 1 and 2: 9 Dec 1988; Act other than s. 1 and 2: 1 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
 Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
 Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
 Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
@@ -11,13 +11,13 @@ Sentencing (Consequential Provisions) Act 1995 s. 66 | 78 of 1995 | 16 Jan 1996 
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
 Acts Amendment (Franchise Fees) Act 1997 Pt. 4 | 56 of 1997 | 12 Dec 1997 | 31 Jan 1998 (see s. 2 and Gazette 30 Jan 1998 p. 577)
-Liquor Licensing Amendment Act 1998 | 12 of 1998 | 12 May 1998 | 23 May 1998 (see s. 2 and Gazette 22 May 1998 p. 2921)
+Liquor Licensing Amendment Act 1998 | 12 of 1998 | 12 May 1998 | s. 1 and 2: 12 May 1988; Act other than s. 1 and 2: 23 May 1998 (see s. 2 and Gazette 22 May 1998 p. 2921)
 Reprint of the Liquor Licensing Act 1988 as at 12 Jun 1998 (includes amendments listed above) (Correction in Gazette 31 Jul 1998 p. 3942)
-Liquor Licensing Amendment (Petrol Stations and Lodgers’ Registers) Act 2000 | 23 of 2000 | 30 Jun 2000 | 30 Sep 2000 (see s. 2 and Gazette 29 Sep 2000 p. 5533)
+Liquor Licensing Amendment (Petrol Stations and Lodgers’ Registers) Act 2000 | 23 of 2000 | 30 Jun 2000 | s. 1 and 2: 30 Jun 2000; Act other than s. 1 and 2: 30 Sep 2000 (see s. 2 and Gazette 29 Sep 2000 p. 5533)
 Courts Legislation Amendment Act 2000 Pt. 3 | 27 of 2000 | 6 Jul 2000 | 6 Jul 2000 (see s. 2(1))
 Reprint of the Liquor Licensing Act 1988 as at 23 Feb 2001 (includes amendments listed above)
 Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
-Liquor Licensing Amendment Act 2001 | 26 of 2001 | 5 Dec 2001 | 7 Jan 2002 (see s. 2 and Gazette 4 Jan 2002 p. 3)
+Liquor Licensing Amendment Act 2001 | 26 of 2001 | 5 Dec 2001 | s. 1 and 2: 5 Dec 2001; Act other than s. 1 and 2: 7 Jan 2002 (see s. 2 and Gazette 4 Jan 2002 p. 3)
 Vexatious Proceedings Restriction Act 2002 s. 13 | 23 of 2002 | 18 Sep 2002 | 28 Sep 2002 (see s. 2 and Gazette 27 Sep 2002 p. 4877)
 Acts Amendment (Equality of Status) Act 2003 Pt. 36 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Public Transport Authority Act 2003 s. 151 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
@@ -31,53 +31,23 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 4: The Liquor Licensing Act 1988 as at 9 Jun 2006 (includes amendments listed above)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 10 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
-Liquor and Gaming Legislation Amendment Act 2006 Pt. 2 | 73 of 2006 | 13 Dec 2006 | s. 1 and 2: 13 Dec 2006; s. 6(1)(b) & (u), 67, 68 & 107: 17 Dec 2006 (see s. 2(2) and Gazette 15 Dec 2006 p. 5661); s. 3-5, 6(1)(a), (c)-(t), (v)-(z), (2)-(4), 7-26, 28-66, 69-77, 79-82, 84-106 & 108-111: 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893); s. 27, 78 & 83: to be proclaimed (see s. 2(2))
-Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Liquor and Gaming Legislation Amendment Act 2006 Pt. 2 (s. 3-26, 28-77, 79-82 and 84-111) | 73 of 2006 | 13 Dec 2006 | s. 6(1)(b) and (u), 67, 68 and 107: 17 Dec 2006 (see s. 2(2) and Gazette 15 Dec 2006 p. 5661); s. 3-5, 6(1)(a), (c)-(t), (v)-(z), (2)-(4), 7-26, 28-66, 69-77, 79-82, 84-106 and 108-111: 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 5: The Liquor Control Act 1988 as at 3 Jul 2007 (includes amendments listed above)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Liquor and Gaming Legislation Amendment Act 2006 s. 27, 78 & 83 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
+ | Short title | Number and year | Assent | Commencement
+Liquor and Gaming Legislation Amendment Act 2006 s. 27, 78 and 83 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
+The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Acts 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
 The Liquor Licensing (Moratorium) Act 1983 expired on 30 June 1988 (see Liquor Licensing (Moratorium) Order 1987 in Gazette 24 Dec 1987 p. 4533).
 Repealed by the Liquor Act 1970, which was repealed by this Act.
-The Acts Amendment (Franchise Fees) Act 1997 s. 51 reads as follows:
-“
-51.Savings provisions
-(1) A licence fee paid under the principal Act before 6 August 1997 may be re-assessed and, as is appropriate, an amount may be paid to, or recovered from, the licensee, under the principal Act as in force immediately before the commencement of this Act.
-(2) If the Director considers it appropriate to do so, the Director may conduct an inquiry or cause an investigation to be made under the principal Act as in force immediately before the commencement of this Act with respect to the re-assessment of a licence fee referred to in subsection (1).
-”.
-The Liquor Licensing Amendment Act 1998 s. 98 reads as follows:
-“
-98.Schedule 1 — Transitional provisions
-Schedule 1 has effect.
-Schedule 1 — Transitional provisions
-[s. 98]
-1.Interpretation
-In this Schedule —
-“commencement” means the commencement of section 98 of the Liquor Licensing Amendment Act 1998.
-2.Transitional provisions with respect to applications
-(1) Subject to subclause (2), an application for a licence or permit under the principal Act made, but not finally determined, by the commencement is to be determined under the principal Act as amended by this Act.
-(2) An —
-(a) application for review under section 25; and
-(b) appeal under section 28,
-of the principal Act instituted, but not finally determined, by the commencement is to be determined under the principal Act as in force immediately before the commencement.
-3.Certificates of exemption
-A certificate of exemption held under the principal Act immediately before the commencement of section 35 of this Act shall, on the commencement of that section, be taken to be a producer’s licence held by the same person, and in relation to the same premises, as the certificate.
-4.Disciplinary proceedings
-(1) A complaint under section 95 of the principal Act which is part heard at the commencement, is to be dealt with under the principal Act as in force immediately before the commencement.
-(2) A complaint under section 95 of the principal Act which is lodged at the commencement but in respect of which hearing has not commenced, is to be dealt with under the principal Act as amended by this Act.
-5.Managers and trustees approved under principal Act
-A trustee or manager approved under the principal Act at the commencement is to be taken to be a manager or trustee approved under the principal Act as amended by this Act.
-6.Application of Interpretation Act
-Nothing in this Schedule affects any saving provided by the Interpretation Act 1984, except insofar as the saving is inconsistent with this Schedule.
-”.
+Now known as the Liquor Control Act 1988; short title changed (see note under s. 1).
 The Courts Legislation Amendment Act 2000 s. 14 is a transitional provision that is of no further effect.
 The Liquor Licensing Amendment Act 2001 s. 5(2) and 6(2) are transitional provisions that are of no further effect.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 27, 78 & 83 had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 27, 78 and 83 had not come into operation. They read as follows:
 “
-Part 2 — Amendments to the Liquor Licensing Act 1988
 27.Part 2 Division 7 replaced
 Part 2 Division 7 is repealed and the following Division is inserted instead —
 “
@@ -128,4 +98,3 @@ Penalty: $5 000.
 Penalty: $5 000.
 ”.
 ”.
-Now known as the Liquor Control Act 1988 short title changed (see note under s. 1)
