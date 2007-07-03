@@ -244,6 +244,7 @@ Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2(1))
+Child Care Services Act 2007 Pt. 7 Div. 2 | 19 of 2007 | 3 Jul 2007 | To be proclaimed (see s. 2(b))
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -437,5 +438,17 @@ Schedule 3 — Consequential amendments
 (2) Schedule V Part 3 is amended by deleting the item commencing “The Nurses Board” and inserting instead —
 “
 The Nurses and Midwives Board of Western Australia established under the Nurses and Midwives Act 2006.
+”.
+”.
+On the date as at which this compilation was prepared, the Child Care Services Act 2007 Pt. 7 Div. 2 had not come into operation. It reads as follows:
+“
+Part 7 — Other Acts amended
+Division 2 — Constitution Acts Amendment Act 1899
+66.The Act amended in this Division
+The amendment in this Division is to the Constitution Acts Amendment Act 1899.
+67.Schedule V amended
+Schedule V Part 3 is amended after the item relating to any advisory body established or continued under the Children and Community Services Act 2004 by inserting —
+“
+Any advisory body established under the Child Care Services Act 2007.
 ”.
 ”.
