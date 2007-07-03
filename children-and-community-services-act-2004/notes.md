@@ -10,6 +10,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 Sch. 2 cl. 25 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
+Child Care Services Act 2007 Pt. 7 Div. 1 | 19 of 2007 | 3 Jul 2007 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Children and Community Services Act 2004 s. 251 which gives effect to Sch. 2 had not come into operation. It reads as follows:
 “
 251.Other Acts amended
@@ -30,4 +31,22 @@ to provide a child care service under Part 8 of the Children and Community Servi
 “
 for approval in relation to the placement of a child under the Children and Community Services Act 2004.
 ”.
+”.
+On the date as at which this compilation was prepared, the Child Care Services Act 2007 Pt. 7 Div. 1 had not come into operation. It reads as follows:
+“
+Part 7 — Other Acts amended
+Division 1 — Children and Community Services Act 2004
+62.The Act amended in this Division
+The amendments in this Division are to the Children and Community Services Act 2004.
+63.Long title amended
+The long title is amended by deleting “, the employment of children, and child care services;” and inserting instead —
+“ and the employment of children; ”.
+64.Section 6 amended
+Section 6 is amended as follows:
+(a) after paragraph (e) by deleting “; and” and inserting a full stop instead;
+(b) by deleting paragraph (f);
+(c) after each of paragraphs (a) to (d) by inserting —
+“ and ”.
+65.Part 8 repealed
+Part 8 is repealed.
 ”.
