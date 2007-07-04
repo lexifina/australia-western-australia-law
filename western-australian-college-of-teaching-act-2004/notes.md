@@ -4,3 +4,4 @@ Compilation table
 Short title | Number and Year | Assent | Commencement
 Western Australian College of Teaching Act 2004 | 8 of 2004 | 10 Jun 2004 | 15 Sep 2004 (see s. 2 and Gazette 3 Sep 2004 p. 3849)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Western Australian College of Teaching Amendment Act 2007 | 18 of 2007 | 3 Jul 2007 | s. 1 and 2: 3 Jul 2007 (see s. 2(a)); Act other than s. 1 and 2: 4 Jul 2007 (see s. 2(b))
