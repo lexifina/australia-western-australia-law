@@ -3,7 +3,7 @@
 ## Forms
 [Form 1-18 deleted in Gazette 1 May 2007 p. 1887.]
 Form 19
-Liquor Licensing Act 1988
+Liquor Control Act 1988
 [Regulation 19(1)]
 Application Form for Liquor Subsidy (WA Producers Only)
 1.CLAIM FOR THE MONTH/PERIOD OF:
@@ -15,9 +15,9 @@ Application Form for Liquor Subsidy (WA Producers Only)
 ADDRESS OF LICENSED
 PREMISES:
  |  | Postcode
-6.AMOUNT OF SUBSIDY CLAIM: | (a)WET subsidy claimable for Cellar door sales to persons other than liquor merchants (including sales made in a restaurant on the licensed premises). …… | $
- | (b)WET subsidy claimable for Mail Order Sales. …………………………………… | $
-(a) + (b) + (c) = Total for this period | (c)WET subsidy claimable for Tastings, promotions and donations for which no charge has been made. ………………… | $
+6.AMOUNT OF SUBSIDY CLAIM: | (a)WET subsidy claimable for Cellar door sales to persons other than liquor merchants (including sales made in a restaurant on the licensed premises). ........ | $
+ | (b)WET subsidy claimable for Mail Order Sales. ........................................................ | $
+(a) + (b) + (c) = Total for this period | (c)WET subsidy claimable for Tastings, promotions and donations for which no charge has been made. ............................ | $
  | TOTAL FOR THIS PERIOD: | $
 7.ADJUSTMENTS (IF APPLICABLE): | (e)Amount overpaid/underpaid for the month of ................................................... | $
  | TOTAL AMOUNT CLAIMED: | $
@@ -40,7 +40,7 @@ FOR OFFICE | DATE RECEIVED: ____ / ____ / ____ | AMOUNT PAYABLE: $
 USE ONLY | DATE PAID:____ / ____ / ____ | PAYMENT DETAILS:
 [Form 19 inserted in Gazette 9 Jul 2004 p. 2774-5.]
 Form 19A
-Liquor Licensing Act 1988
+Liquor Control Act 1988
 [Regulation 19(1)]
 Application for Liquor Subsidy — Low Alcohol (WA Wholesalers/Beer Producers)
 1.CLAIM FOR THE MONTH/PERIOD OF:
@@ -76,10 +76,10 @@ FOR OFFICE | DATE RECEIVED: ____ / ____ / ____ | AMOUNT PAYABLE: $
 USE ONLY | DATE PAID:____ / ____ / ____ | PAYMENT DETAILS:
 [Form 19A inserted in Gazette 9 Jul 2004 p. 2776-7.]
 Form 20
-Liquor Licensing Act 1988
+Liquor Control Act 1988
 [Section 161]
 SEARCH WARRANT
-Under section 161 of the Liquor Licensing Act 1988 I, [insert name of Justice of the Peace granting the warrant], of
+Under section 161 of the Liquor Control Act 1988 I, [insert name of Justice of the Peace granting the warrant], of
 .............................................................................................................................................
 being a Justice of the Peace and being satisfied upon complaint by [insert name of complainant] that there is reason to suspect that [insert description of circumstances justifying issue of warrant] .................................................................................................
 .............................................................................................................................................
@@ -98,7 +98,7 @@ at .............................................................................
 Signature of Justice of the Peace granting
 the warrant
 Form 21
-Liquor Licensing Act 1988
+Liquor Control Act 1988
 [Section 167(2)]
 INFRINGEMENT NOTICE
 No. .............................................
@@ -133,7 +133,7 @@ agree to pay the modified penalty for the offence indicated in this form.
 (Signature of Offender)
 [Form 21 amended in Gazette 1 May 2007 p. 1887-8.]
 Form 22
-Liquor Licensing Act 1988
+Liquor Control Act 1988
 [Section 167(5)]
 WITHDRAWAL OF INFRINGEMENT NOTICE
 No. ...........................................
