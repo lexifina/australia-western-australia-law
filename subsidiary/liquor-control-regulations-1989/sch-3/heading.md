@@ -2,12 +2,12 @@
 [r. 26(1)]
 [Heading inserted in Gazette 14 Oct 2005 p. 4565.]
  | $
-1.Application for the grant or removal of a hotel licence, nightclub licence, casino liquor licence, special facility licence or liquor store licence ............................................. | 2 025.00
+1.Application for the grant or removal of a hotel licence, nightclub licence, casino liquor licence, special facility licence or liquor store licence .................................................. | 2 025.00
 2.Application for the grant or removal of a club licence, restaurant licence, producer’s licence or wholesaler’s licence | 460.00
 3.Application for the transfer of a licence .................................. | 460.00
 3a.Licence fee for all licences other than a wholesaler’s licence | 145.00
 3b.Licence fee for a wholesaler’s licence ..................................... | 305.00
-4.Application for an occasional licence where the anticipated number of persons attending* is — (a)up to 250 ....................................................................... (b)between 251 and 500 .................................................... (c)between 501 and 1 000 ................................................. (d)between 1 001 and 5 000 ............................................. (e)between 5 001 and 10 000 ........................................... (f)over 10 000 ................................................................... [*See regulation 26(4) as to the anticipated number of persons attending] | 30.00 70.00 130.00 575.00 1 155.00 2 310.00
+4.Application for an occasional licence where the anticipated number of persons attending* is — (a)up to 250 ....................................................................... (b)between 251 and 500 .................................................... (c)between 501 and 1 000 ................................................. (d)between 1 001 and 5 000 .............................................. (e)between 5 001 and 10 000 ............................................ (f)over 10 000 ................................................................... [*See regulation 26(4) as to the anticipated number of persons attending] | 30.00 70.00 130.00 575.00 1 155.00 2 310.00
 5.Application for extended trading permit for a period of over 21 days — (a)issued for a purpose referred to in section 60(4)(ca) .... (b)issued for a purpose referred to in section 60(4)(h) ...... (c)issued for any other purpose ......................................... | 345.00 230.00 625.00
 6.Application for extended trading permit for a period of 21 days or less (for each day, up to a maximum of $500) ....... | 60.00
 7.Application for approval of manager (other than under club restricted licence), after licence is granted ............................... | 70.00
@@ -27,8 +27,8 @@
 21.Copy of plan — per sheet ........................................................ | 20.00
 22.Certified copy of plan defining licensed premises ................... | 30.00
 23.Issue of a summons to a witness .............................................. | 15.00
-24.Copy of a licence or a permit, or a decision of the Court or the Director .............................................................................. | 20.00
-25.For the certification of a copy of a licence or permit or a decision of the Court or the Director — an additional fee of .. | 20.00
+24.Copy of a licence or a permit, or a decision of the court or the Director .................................................................................... | 20.00
+25.For the certification of a copy of a licence or permit or a decision of the court or the Director — an additional fee of ... | 20.00
 26.For a search of records of licences — per licence ................... | 30.00
 27.For a notice of application for approval of arrangement or agreement (section 68(1)(b)(i)) ................................................ | 60.00
 28.For a copy of documentation, other than that already prescribed, per page ................................................................. | 4.00
@@ -36,6 +36,6 @@
 (a)1 to 10 postcodes ........................................................... | 30.00
 (b)more than 10 postcodes ................................................. | 65.00
 30.For a full search of the licence record ...................................... | 40.00
-31.Application under section 62(6) to vary any plans or specifications the subject of a condition .............................. | 210.00
-32.Application under section 126A for approval of entertainment for juveniles on licensed premises ............... | 55.00
+31.Application under section 62(6) to vary any plans or specifications the subject of a condition .................................. | 210.00
+32.Application under section 126A for approval of entertainment for juveniles on licensed premises .................... | 55.00
 [Schedule 3 inserted in Gazette 14 Oct 2005 p. 4565-6; amended in Gazette 14 Nov 2006 p. 4734-5; 1 May 2007 p. 1888-9.]

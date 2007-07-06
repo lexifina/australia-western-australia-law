@@ -1,7 +1,7 @@
 ## Schedule 2
 [Regulation 13]
-## Details of Applicant
-Item | Category of Applicant | Details to be provided
+## Details of applicant
+Item | Category of applicant | Details to be provided
 1. | Natural person .................. | (a)full name;
  |  | (b)any other name used now or previously;
  |  | (c)present residential address;
