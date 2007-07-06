@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Sentencing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 July 2007 of the Sentencing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Sentencing Act 1995 | 76 of 1995 | 16 Jan 1996 | Act other than s. 19 and Pt. 12: 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
+Sentencing Act 1995 | 76 of 1995 | 16 Jan 1996 | s. 1 and 2: 16 Jan 1996; Act other than s. 1, 2 and 19, and Pt. 12: 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
 Real Estate Legislation Amendment Act 1995 Pt. 5 | 59 of 1995 | 20 Dec 1995 | 1 Jul 1996 (see s. 2 and Gazette 25 Jun 1996 p. 2902)
 Firearms Amendment Act 1996 s. 52 | 59 of 1996 | 11 Nov 1996 | 6 Dec 1996 (see s. 3(1) and Gazette 6 Dec 1996 p. 6699)
 Road Traffic Amendment Act 1996 s. 42 | 76 of 1996 | 14 Nov 1996 | 1 Feb 1997 (see s. 2 and Gazette 31 Jan 1997 p. 613)
@@ -17,7 +17,7 @@ Port Authorities (Consequential Provisions) Act 1999 s. 21 | 5 of 1999 | 13 Apr 
 Reprint of the Sentencing Act 1995 as at 16 Apr 1999 (includes amendments listed above except those in the Botanic Gardens and Parks Authority Act 1998 and the Port Authorities (Consequential Provisions) Act 1999)
 Perth Parking Management (Consequential Provisions) Act 1999 s. 7(5) | 16 of 1999 | 19 May 1999 | 7 Aug 1999 (see s. 2 and Gazette 6 Aug 1999 p. 3727)
 Sentencing Legislation Amendment and Repeal Act 1999 s. 6(3), 27-33, 36, 37 and 39 | 57 of 1999 (as amended by No. 62 of 2000 and 50 of 2003 s. 31) | 16 Dec 1999 | s. 37 and 39: 8 Apr 2000 (see s. 2(1) and Gazette 7 Apr 2000 p. 1813); Pt. 3 (s. 27-33): 8 Jan 2001 (see s. 2 and Gazette 29 Dec 2000 p. 7903); s. 6(3) and 36: 30 Jun 2001 (see s. 2(1) and Gazette 29 Jun 2001 p. 3111)
-Sentencing Amendment Regulations 2000 Pt. 3 (published in Gazette 3 Mar 2000 p. 1013-15) | 3 Mar 2000
+Sentencing Amendment Regulations 2000 Pt. 3 published in Gazette 3 Mar 2000 p. 1013-15 | 3 Mar 2000
 Acts Amendment (Fines Enforcement) Act 2000 Pt. 3 | 9 of 2000 | 19 May 2000 | 25 Aug 2000 (see s. 2 and Gazette 25 Aug 2000 p. 4903)
 Reprint of the Sentencing Act 1995 as at 4 May 2001 (includes amendments listed above except those in the Sentencing Legislation Amendment and Repeal Act 1999 s. 6(3) and 36)
 Criminal Law Amendment Act 2001 Pt. 3 | 23 of 2001 | 26 Nov 2001 | 24 Dec 2001
@@ -39,18 +39,20 @@ Architects Act 2004 s. 80 | 75 of 2004 | 8 Dec 2004 | 16 Nov 2005 (see s. 2 and 
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 13 and s. 82 | 84 of 2004 (as amended by No. 41 of 2006 s. 74(2) and 75(2)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 4: The Sentencing Act 1995 as at 12 Aug 2005 (includes amendments listed above except those in the Sentencing Legislation Amendment Act 2004 and the Architects Act 2004)
 Water Legislation Amendment (Competition Policy) Act 2005 s. 53 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
-Parole and Sentencing Legislation Amendment Act 2006 Pt. 3 | 41 of 2006 | 22 Sep 2006 | s. 74 & 75: 22 Sep 2006 (see s. 2(4)(b)) Pt. 3 other than s. 71, 74 & 75: 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867);
+Parole and Sentencing Legislation Amendment Act 2006 Pt. 3 | 41 of 2006 | 22 Sep 2006 | s. 74 & 75: 22 Sep 2006 (see s. 2(4)(b)); Pt. 3 other than s. 71, 74 & 75: 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 4 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 5: The Sentencing Act 1995 as at 6 Jul 2007 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Criminal Property) Act 2004 Pt. 3 | 26 of 2004 | 7 Oct 2004 | To be proclaimed (see s. 2(2))
 Parole and Sentencing Legislation Amendment Act 2006 s. 71 | 41 of 2006 | 22 Sep 2006 | Operative on commencement of Act No. 26 of 2004 Pt. 3 (see s. 2(3))
+The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
-The Sentencing Act 1995 s. 19 and Pt. 12 did not come into operation and was repealed by the Criminal Law Amendment Act (No. 2) 1998 s. 17 and 18.
-The Act other than s. 6(3), 27-33, 36, 37 and 39 of the Sentencing Legislation Amendment and Repeal Act 1999 was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
+The Sentencing Act 1995 s. 19 and Pt. 12 did not come into operation and were repealed by the Criminal Law Amendment Act (No. 2) 1998 s. 17 and 18.
+The Sentencing Legislation Amendment and Repeal Act 1999 (other than s. 6(3), 27-33, 36, 37 and 39) did not come into operation and was repealed by No. 50 of 2003 s. 31.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 “
 19.Power to amend regulations
@@ -58,7 +60,6 @@ The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as
 (2) The Minister may make a recommendation under subsection (1) only if the Minister considers that each amendment proposed to be made by the regulations is necessary or desirable as a consequence of the enactment of the RWWA Act or this Act.
 (3) Nothing in this section prevents subsidiary legislation from being amended in accordance with the Act under which it was made.
 ”.
-Footnote no longer applicable.
 The Sentencing Legislation Amendment and Repeal Act 2003 s. 22 and 29(2), which give effect to Sch. 1, read as follows:
 “
 22.Transitional provisions
@@ -185,9 +186,10 @@ to or in relation to any matter.
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the date of publication of those regulations; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the date of publication of those regulations.
 ”.
-The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 59 repealed by No. 41 of 2006 s. 74(2).
-The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 65 which purported to amend s. 84P(3) repealed by No. 41 of 2006 s. 75(2).
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Criminal Property) Act 2004 Pt. 3 had not come into operation. It reads as follows:
+The amendments in the Sentencing Legislation Amendment Act 2004 s. 6(4) erroneously referred to “73(3) and (5)” instead of “75(3) and (5)” when identifying the required amendments to be made to s. 33N(3).
+The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 59 which purported to replace s. 84E could not be included because s. 84E was not in operation when s. 59 came into operation. S. 59 was subsequently repealed by No. 41 of 2006 s. 74(2).
+The amendments in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 65 that purported to amend s. 84P(3) could not be included because s. 84P(3) was not in operation when s. 65 came into operation. Those amendments were subsequently repealed by No. 41 of 2006 s. 75(2).
+On the date as at which this reprint was prepared, the Criminal Law Amendment (Criminal Property) Act 2004 Pt. 3 had not come into operation. It reads as follows:
 “
 Part 3 — Amendments to Sentencing Act 1995
 6.The Act amended
@@ -212,8 +214,7 @@ Section 16(1)(f) is amended by deleting “forfeiture to Crown” and inserting 
 confiscation or forfeiture to the Crown (otherwise than under the Criminal Property Confiscation Act 2000)
 ”.
 ”.
-The amendments in the Sentencing Legislation Amendment Act 2004 s. 6(4) erroneously referred to section 75(3) and (5) as “73(3) and (5)” when identifying where the required amendments were to be made.
-On the date as at which this compilation was prepared, the Parole and Sentencing Legislation Amendment Act 2006 s. 71 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Parole and Sentencing Legislation Amendment Act 2006 s. 71 had not come into operation. It reads as follows:
 “
 71.Sections 8 and 16 amended
 (1) Section 8(6) is amended in paragraph (b) of the definition of “criminal property confiscation” by deleting “Crown” and inserting instead —
