@@ -6,13 +6,13 @@
 Fees | $
 1.Application for an exemption under section 7(4) —
 (a)to the Minister, for any purpose (as provided by section 7(2) of the Act) ................................................. | 1 900.00
-(b)to the Executive Director, for the purposes of scientific research (as provided by section 7(3)(a)), or for educational and community awareness programmes (as provided by section 7(3)(g)) ............... | 250.00
-(c)to the Executive Director, for one of the purposes provided by section 7(3)(b), (c), (d), (e), or (f) ............ | 1 000.00
+(b)to the CEO, for the purposes of scientific research (as provided by section 7(3)(a)), or for educational and community awareness programmes (as provided by section 7(3)(g)) ............... | 250.00
+(c)to the CEO, for one of the purposes provided by section 7(3)(b), (c), (d), (e), or (f) ............ | 1 000.00
 2.Copy of entry on, or extract from, the register (reg. 114(2)(a)) ......................................................................... | 27.00
 3.Access to the register in electronic form (reg. 114(2)(b)) ........ | 27.00
 [4.deleted]
 5.Application for replacement authorisation (reg. 129) .............. | 17.00
-[Part 1 inserted in Gazette 19 Sep 2003 p. 4119; amended in Gazette 17 Feb 2004 p. 599-600; 30 Dec 2004 p. 6965; 16 Sep 2005 p. 4313.]
+[Part 1 inserted in Gazette 19 Sep 2003 p. 4119; amended in Gazette 17 Feb 2004 p. 599-600; 30 Dec 2004 p. 6965; 16 Sep 2005 p. 4313; 6 Jul 2007 p. 3389-90.]
 ## Part 2 — Application fees
 [reg. 135]
 [Heading inserted in Gazette 16 Sep 2005 p. 4314.]

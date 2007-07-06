@@ -252,12 +252,14 @@ Whiting, Southern School .............................. All other West Coast spe
 ## Division 4 — Crustaceans
 [Heading inserted in Gazette 1 Oct 2003 p. 4340.]
 Fish | Species, or group of species, bag limit for one day
-Crab, Blue Manna ........................................ | 20
+Crab, Blue Manna —
+(a)before 1 November 2007 ............ | 20
+(b)on and after 1 November 2007 .... | 10
 Crab, Brown Mud or Green Mud (combined) ............................................... | 5
 Marron ......................................................... | 10
 Prawn ........................................................... | 9 litres
 Rock Lobster ................................................ | 8
-[Division 4 inserted in Gazette 1 Oct 2003 p. 4340.]
+[Division 4 inserted in Gazette 1 Oct 2003 p. 4340; amended in Gazette 6 Jul 2007 p. 3389.]
 ## Division 5 — Molluscs
 [Heading inserted in Gazette 1 Oct 2003 p. 4340.]
 Fish | Species, or group of species, bag limit for one day

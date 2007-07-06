@@ -102,6 +102,7 @@ Fish Resources Management Amendment Regulations (No. 8) 2006 | 10 Nov 2006 p. 47
 Fish Resources Management Amendment Regulations (No. 7) 2006 | 29 Dec 2006 p. 5888-92 | 29 Dec 2006
 Fish Resources Management Amendment Regulations (No. 2) 2007 | 16 Feb 2007 p. 489-90 | 1 Mar 2007 (see r. 2)
 Fish Resources Management Amendment Regulations (No. 5) 2007 | 12 Jun 2007 p. 2717-9 | 1 Jul 2007 (see r. 2)
+Fish Resources Management Amendment Regulations 2007 | 6 Jul 2007 p. 3387-90 | 6 Jul 2007
 Repealed by the Land Administration Act 1997 s. 281(1).
 Footnotes not longer applicable.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
