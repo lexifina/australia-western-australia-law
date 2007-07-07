@@ -121,6 +121,7 @@ Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 2004 published in G
 Road Traffic (Fees for Vehicle Licences) Regulations 2005 published in Gazette 27 May 2005 p. 2306-8 | 31 May 2005 (see r. 2)
 Reprint 9: The Road Traffic Act 1974 as at 10 Mar 2006 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001)
 Road Traffic (Fees for Vehicle Licences) Regulations 2006 published in Gazette 26 May 2006 p. 1885-8 | 31 May 2006 (see r. 2)
+Road Traffic Amendment Act 2006 s. 27 | 54 of 2006 | 26 Oct 2006 | 7 Jul 2007 (see s. 2 and Gazette 6 Jul 2007 p. 3385)
  | Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
  | Road Traffic Amendment Act 2007 | 4 of 2007 | 11 Apr 2007 | s. 1 and 2: 11 Apr 2007; Act other than s. 1 and 2: 1 May 2007 (see s. 2 and Gazette 27 Apr 2007 p. 1831)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
@@ -130,7 +131,7 @@ Road Traffic Amendment Act (No. 2) 1987 s. 11(b) | 121 of 1987 (as amended by No
 Road Traffic Amendment Act 1996 s. 8(3) | 76 of 1996 (as amended by No. 54 of 2006 s. 43) | 14 Nov 1996 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
-Road Traffic Amendment Act 2006 Pt. 2, 3 and 4 Div. 3 and 4 | 54 of 2006 | 26 Oct 2006 | To be proclaimed (see s. 2)
+Road Traffic Amendment Act 2006 Pt. 2 (other than s. 27), 3 and 4 Div. 3 and 4 | 54 of 2006 | 26 Oct 2006 | To be proclaimed (see s. 2)
 Road Traffic Amendment (Drugs) Act 2007 Pt. 2 | 6 of 2007 | 23 May 2007 | To be proclaimed (see s. 2)
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2(1))
 Repealed by the Interpretation Act 1984.
@@ -738,7 +739,7 @@ Schedule 3 — Consequential amendments
 “registered nurse” has the meaning given to that term in section 3 of the Nurses and Midwives Act 2006;
 ”.
 ”.
-On the date as at which this compilation was prepared, the Road Traffic Amendment Act 2006 Pt. 2, 3 and 4 Div. 3 and 4 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Road Traffic Amendment Act 2006 Pt. 2 (other than s. 27), 3 and 4 Div. 3 and 4 had not come into operation. They read as follows:
 “
 Part 2 — Road Traffic Act 1974
 3.The Act amended
@@ -1221,19 +1222,6 @@ Section 98(1a) is repealed and the following subsections are inserted instead �
 (1a) In any prosecution or proceedings for an offence under this Act an averment in the prosecution notice that the alleged offender was, at the time of the alleged offence, a person to whom section 64A applied is to be taken to be proved in the absence of proof to the contrary.
 (1b) For the purposes of any prosecution or proceedings for an offence under this Act or verifying the accuracy of information provided under Part IVA to another Australian driver licensing authority, the Director General or a person authorised by the Director General may issue a certificate stating that a fact specified in the certificate appears in or is derived from the driver’s licence register under Part IVA or another record kept by the Director General under this Act.
 (1c) A certificate purporting to be issued under subsection (1b) or under a law in force in another jurisdiction that corresponds to that subsection is evidence of any fact stated in the certificate.
-”.
-27.Section 101A inserted
-After section 101 the following section is inserted —
-“
-101A.Protection of people testing or examining or giving certain information
-(1) The protection given by this section is in addition to any protection given by section 101.
-(2) Proceedings for an offence are not to be brought against a person for expressing to the Director General, in good faith, an opinion formed as a result of having carried out a test or examination under this Act.
-(3) An action in tort does not lie against a person, and proceedings for an offence are not to be brought against a person, for reporting to the Director General, in good faith, information that discloses or suggests that —
-(a) another person is or may be unfit to drive; or
-(b) it may be dangerous to —
-(i) allow another person to hold a driver’s licence or learner’s permit;
-(ii) grant a driver’s licence or learner’s permit to another person; or
-(iii) vary, or not to vary, another person’s driver’s licence or learner’s permit.
 ”.
 28.Section 102 amended
 Section 102(7) is amended by deleting “sections 48, 51(1)(a) and 103” and inserting instead —
