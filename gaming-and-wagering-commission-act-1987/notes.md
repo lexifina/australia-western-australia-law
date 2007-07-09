@@ -28,13 +28,13 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 16 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 4: The Gaming and Wagering Commission Act 1987 as at 18 Aug 2006 (includes amendments listed above)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 9 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
+Betting and Racing Legislation Amendment Act 2006 s. 9(2) | 70 of 2006 | 13 Dec 2006 | 9 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2837)
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Racing, Wagering and Betting Legislation Amendment and Repeal Act 2007 Pt. 3 | 8 of 2007 | 13 Jun 2007 | 14 Jun 2007 (see s. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Betting and Racing Legislation Amendment Act 2006 s. 9(2) | 70 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 Liquor and Gaming Legislation Amendment Act 2006 Pt. 3 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 Now known as the Gaming and Wagering Commission Act 1987; short title changed (see note under s. 1).
@@ -81,15 +81,7 @@ Division 2 — Transitional and savings provisions
 170.Members of the Commission
 Each person holding office as a member of the Gaming Commission under the Gaming Commission Act 1987 immediately before the coming into operation of this section continues in office as a member of the Gaming and Wagering Commission under and subject to the Gaming and Wagering Commission Act 1987 until the expiry of the term of office.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Betting and Racing Legislation Amendment Act 2006 s. 9(2) had not come into operation. It reads as follows:
-“
-(2) After the Gaming and Wagering Commission Act 1987 section 43A(3) the following subsection is inserted —
-“
-(4) In subsection (3)(c) —
-“approval” does not include an approval under the Betting Control Act 1954 section 27D(2).
-”.
-”.
+6-7Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 Pt. 3 had not come into operation. It reads as follows:
 “
 Part 3 — Amendments to the Gaming and Wagering Commission Act 1987
