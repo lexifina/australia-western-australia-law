@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 May 2006 of the Pearling (General) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Pearling (General) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Pearling (General) Regulations 1991 | 27 Dec 1990 p. 6335-66 (erratum 11 Jan 1991 p. 47-8) | 1 Jan 1991 (see r. 2 and Gazette 21 Dec 1990 p. 6199)
@@ -18,3 +18,4 @@ Pearling (General) Amendment Regulations 2003 | 19 Aug 2003 p. 3713-14 | 8 Nov 2
 Pearling (General) Amendment Regulations (No. 2) 2003 | 7 Oct 2003 p. 4380-1 | 7 Oct 2003
 Pearling (General) Amendment Regulations 2005 | 15 Nov 2005 p. 5597-8 | 15 Nov 2005
 Reprint 2: The Pearling (General) Regulations 1991 as at 5 May 2006 (includes amendments listed above)
+Pearling (General) Amendment Regulations 2007 | 10 Jul 2007 p. 3417-18 | r. 1 and 2: 10 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jul 2007 (see r. 2(b))
