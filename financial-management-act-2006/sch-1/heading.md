@@ -57,7 +57,6 @@ Murdoch University
 Office of Health Review
 Parliamentary Inspector of the Corruption and Crime Commission
 Peel Development Commission
-Perth International Centre for Application of Solar Energy
 Perth Market Authority
 Perth Theatre Trust
 Pilbara Development Commission
@@ -116,4 +115,4 @@ Western Australian Treasury Corporation
 Wheatbelt Development Commission
 WorkCover Western Australia Authority
 Zoological Parks Authority
-[Schedule 1 amended by No. 77 of 2006 s. 17.]
+[Schedule 1 amended by No. 77 of 2006 s. 17; amended in Gazette 13 Jul 2007 p. 3454.]
