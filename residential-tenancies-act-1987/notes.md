@@ -21,12 +21,12 @@ Courts Legislation Amendment and Repeal Act 2004 Pt. 16 | 59 of 2004 | 23 Nov 20
 Reprint 3: The Residential Tenancies Act 1987 as at 27 May 2005 (includes amendments listed above)
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 20 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 9 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Residential Parks (Long-stay Tenants) Act 2006 s. 98 | 32 of 2006 | 4 Jul 2006 | To be proclaimed (see s. 2)
-Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 9 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
 “
@@ -210,32 +210,4 @@ Schedule 2 — Consequential amendments
 ”.
 (6) Schedule 1 clause 3(3)(b) is amended by inserting after “this Act” —
 “ or the Residential Parks (Long-stay Tenants) Act 2006 ”.
-”.
-On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 9 had not come into operation. It reads as follows:
-“
-Part 9 — Residential Tenancies Act 1987 amended
-28.The Act amended
-The amendments in this Part are to the Residential Tenancies Act 1987.
-29.Section 13B inserted
-After section 13A the following section is inserted —
-“
-13B.Appeals from decisions of a registrar
-A person dissatisfied with a decision of a registrar in respect of a matter on which a registrar has exercised jurisdiction under section 13A(2) may appeal to a magistrate under section 29 of the Magistrates Court Act 2004.
-”.
-30.Section 26 amended
-Section 26(1) is amended by deleting “, or by a registrar acting under section 13A(2),”.
-31.Section 29 amended
-Section 29(4)(c) is amended by deleting “in the prescribed form” and inserting instead —
-“ in a form approved by the Minister ”.
-32.Schedule 1 amended
-(1) Schedule 1 clause 2(1)(a) is amended by inserting after “either directly” —
-“ , including by electronic means, ”.
-(2) Schedule 1 clause 5(1)(a) is amended by deleting “in the prescribed form” and inserting instead —
-“ in a form approved by the Minister ”.
-(3) Schedule 1 clause 5(1)(a)(ii) is amended by inserting after “lodged” —
-“ , including lodged by facsimile or electronic means, ”.
-(4) Schedule 1 clause 7(1)(a) is amended by deleting “in the prescribed form” and inserting instead —
-“ in a form approved by the Minister ”.
-(5) Schedule 1 clause 7(3)(a) is amended by deleting “in the prescribed form” and inserting instead —
-“ in a form approved by the Minister ”.
 ”.

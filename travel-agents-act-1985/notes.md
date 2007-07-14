@@ -22,11 +22,8 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Travel Agents Act 1985 as at 14 Oct 2005 (includes amendments listed above except those in the Motor Vehicle Repairers Act 2003)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 22 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 13 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 13 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 41 and 64 read as follows:
@@ -97,14 +94,4 @@ In this Division —
 “commencement” means the time at which this Division comes into operation;
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
-”.
-On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 13 had not come into operation. It reads as follows:
-“
-Part 13 — Travel Agents Act 1985 amended
-38.The Act amended
-(1) The amendments in this Part are to the Travel Agents Act 1985.
-(2) Section 5(2) is amended as follows:
-(a) in paragraph (b) by deleting “or any statutory corporation representing the Crown”;
-(b) in paragraph (c) by inserting after “prescribed” —
-“ statutory corporation or ”.
 ”.

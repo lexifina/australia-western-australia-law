@@ -30,13 +30,13 @@ Reprint 4: The Motor Vehicle Dealers Act 1973 as at 17 Jun 2005 (includes amendm
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 15 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 7 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 5: The Motor Vehicle Dealers Act 1973 as at 11 May 2007 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Reprint 5: The Motor Vehicle Dealers Act 1973 as at 11 May 2007 (includes amendments listed above except those in the Consumer Protection Legislation Amendment and Repeal Act 2006)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 | 73 of 2003 | 15 Dec 2003 | To be proclaimed (see s. 2)
-Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 7 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 The Motor Vehicle Dealers Act 1973 s. 40 did not come into operation and was repealed by the Motor Vehicle Dealers Amendment Act 2002 s. 62.
 The Business Licensing Amendment Act 1995 s. 38 is a transitional provision that is of no further effect.
 The Motor Vehicle Dealers Amendment Act 2002 Pt. 7 reads as follows:
@@ -44,7 +44,7 @@ The Motor Vehicle Dealers Amendment Act 2002 Pt. 7 reads as follows:
 Part 7 —Transitional provisions
 73.Definition
 In this Part —
-“the principal Act” means the Motor Vehicle Dealers Act 1973.
+the principal Act means the Motor Vehicle Dealers Act 1973.
 74.Licence applications in progress
 (1) If, before the commencement of section 6, 7 or 8 of this Act, an application for the grant or renewal of a dealer’s licence, yard manager’s licence or salesman’s licence —
 (a) has been made; but
@@ -55,7 +55,7 @@ the application is to be determined as if Part 2 of this Act had not been enacte
 (b) has not been determined,
 the application is to be taken to be an application by the person, persons or body corporate to be registered as a car market operator under section 17B of the principal Act as in force after the commencement of section 10.
 75.Existing dealer’s licence
-(1) This section applies where a person, persons constituting a firm, or a body corporate held a dealer’s licence under the principal Act (“the existing licence”) immediately before the commencement of section 6 of this Act.
+(1) This section applies where a person, persons constituting a firm, or a body corporate held a dealer’s licence under the principal Act (the existing licence) immediately before the commencement of section 6 of this Act.
 (2) The person, the persons constituting the firm, or the body corporate is or are to be taken on that commencement to hold a dealer’s licence for each class or description of business prescribed by regulations referred to in section 5A of the principal Act.
 (3) Subject to the principal Act, the licence referred to in subsection (2) continues in force —
 (a) until the expiry of the period stated in the existing licence; and
@@ -143,11 +143,11 @@ Each office in existence immediately before commencement because of section 15(1
 Each office in existence immediately before commencement because of section 5(2)(b) of the Petroleum Products Pricing Act 1983 does not cease merely because that paragraph is deleted by this Act.
 155.Interpretation
 In this Division —
-“commencement” means the time at which this Division comes into operation;
-“Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
-“Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+commencement means the time at which this Division comes into operation;
+Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
+Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
-On the date as at which this reprint was prepared, the Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 had not come into operation. They read as follows:
 “
 20.Part III Division 5 Subdivision 1 heading inserted
 Before section 36 the following heading is inserted —
@@ -158,7 +158,7 @@ After section 38 the following Subdivision is inserted —
 Subdivision 2 — Conciliation of disputes
 39.Definition
 In this Subdivision —
-“dealer” includes a former dealer.
+dealer includes a former dealer.
 39A.When section 39B applies
 (1) Section 39B applies if —
 (a) a dispute has arisen between a purchaser and a dealer as to any matter described in section 36(a), (b), (c) or (d); and
@@ -194,13 +194,4 @@ A person must not, in relation to a request under section 39B(1), or any attempt
 (b) likely to deceive in a material way.
 Penalty: $5 000.
 ”.
-”.
-On the date as at which this reprint was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 7 had not come into operation. It reads as follows:
-“
-Part 7 — Motor Vehicle Dealers Act 1973 amended
-24.The Act amended
-The amendments in this Part are to the Motor Vehicle Dealers Act 1973.
-25.Section 32K amended
-Section 32K(4) is amended by deleting “agent” and inserting instead —
-“ dealer ”.
 ”.

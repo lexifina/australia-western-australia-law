@@ -38,12 +38,12 @@ Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005
 Trade Measurement Administration Act 2006 s. 37 | 12 of 2006 | 11 May 2006 | 1 Jun 2007 (see s. 2 and Gazette 29 May 2007 p. 2485)
 Reprint 5: The Consumer Affairs Act 1971 as at 16 Jun 2006 (includes amendments listed above, except those in the Trade Measurement Administration Act 2006)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div 7 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 3 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | To be proclaimed (see s. 2)
-Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 3 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 Legal Practitioners Amendment (Disciplinary and Miscellaneous Provisions) Act 1992 Pt. 2 came into operation on 1 Feb 1993 (see s. 3(a) and Gazette 26 Jan 1993 p. 823).
 Repealed by the Acts Amendment and Repeal (Fair Trading) Act 1988.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -112,34 +112,4 @@ In this Division —
 “commencement” means the time at which this Division comes into operation;
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
-”.
-On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 3 had not come into operation. It reads as follows:
-“
-Part 3 — Consumer Affairs Act 1971 amended
-5.The Act amended
-The amendments in this Part are to the Consumer Affairs Act 1971.
-6.Section 23G amended
-Section 23G(1) is amended by deleting “12 months” and inserting instead —
-“ 3 years ”.
-7.Section 23Q amended
-Section 23Q(6) is amended by inserting after “revoke” —
-“ or amend ”.
-8.Section 23R amended
-(1) Section 23R(2), (3) and (4) are repealed and the following subsections are inserted instead —
-“
-(2) The Commissioner may make an order prohibiting the supply of goods of a class or description without making a reference to the Committee under section 23L(1) if —
-(a) the supply of goods of that class or description is prohibited under a law of the Commonwealth or another State or a Territory; and
-(b) the Commissioner considers it necessary in the interests of the safety of the public to make the order.
-(3) If the supply of goods of a class or description is allowed under a law of the Commonwealth or another State or a Territory subject to conditions or restrictions relating to the goods, the Commissioner, without making a reference to the Committee under section 23L(1) in respect of goods of that class or description, may if he considers it necessary in the interests of the safety of the public make an order allowing the supply of goods of that class or description in this State, subject to conditions or restrictions specified or referred to in the order being conditions or restrictions that are in conformity with those specified or referred to under that law that relate to the goods.
-(4) For the avoidance of doubt, an order made under subsection (2) or (3) is not affected by the subsequent amendment, repeal or expiry of a law referred to in those subsections.
-”.
-(2) Section 23R(6) is repealed and the following subsection is inserted instead —
-“
-(6) The Commissioner may by notice published in the Gazette on his own motion, or on the recommendation of the Committee, revoke or amend an order made under this section.
-”.
-9.Section 23U amended
-Section 23U(2)(b) is amended by deleting “Standards Australia” and inserting instead —
-“
-Standards Australia, as in force at the time of adoption or as amended from time to time
-”.
 ”.
