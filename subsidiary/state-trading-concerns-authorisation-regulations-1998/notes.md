@@ -40,4 +40,5 @@ State Trading Concerns (Authorisation) Amendment Regulations (No. 3) 2005 | 15 N
 State Trading Concerns (Authorisation) Amendment Regulations (No. 4) 2005 | 17 Mar 2006 p. 1028 | 17 Mar 2006 (see r. 2)
 Reprint 3: The State Trading Concerns (Authorisation) Regulations 1998 as at 1 Dec 2006 (includes amendments listed above)
 State Trading Concerns (Authorisation) Amendment Regulations (No. 2) 2006 | 22 Dec 2006 p. 5809-10 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
+State Trading Concerns (Authorisation) Amendment Regulations 2007 | 13 Jul 2007 p. 3454-5 | r. 1 and 2: 13 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jul 2007 (see s. 2(b))
 Under the Public Sector Management Act 1994 departments can be established and named. At the time this reprint was prepared, the designation of the department known as the Department of Justice has been altered to the Department of the Attorney General and the Department of Corrective Services is established.
