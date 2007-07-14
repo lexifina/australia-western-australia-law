@@ -21,12 +21,12 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 10 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 3: The Credit (Administration) Act 1984 as at 4 Aug 2006 (includes amendments listed above)
 Pawnbrokers and Second-hand Dealers Amendment Act 2006 s. 23 | 46 of 2006 | 4 Oct 2006 | 1 May 2007 (see s. 2 and Gazette 30 Apr 2007 p. 1833)
+Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 4 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 23 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 4 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 Repealed by the Strata Titles Act 1985.
 Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 of the Commonwealth.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -96,42 +96,4 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 23.Credit (Administration) Act 1984 amended
 (1) The amendment in this section is to the Credit (Administration) Act 1984.
 (2) Section 7(1)(h) is deleted.
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 4 had not come into operation. It reads as follows:
-“
-Part 4 — Credit (Administration) Act 1984 amended
-10.The Act amended
-The amendment in this Part is to the Credit (Administration) Act 1984.
-11.Part VA inserted
-After section 44 the following Part is inserted —
-“
-Part VA — Consumer Credit Fund
-44A.Establishment of Consumer Credit Fund
-(1) There is hereby established a fund to be called the Consumer Credit Fund.
-(2) The Consumer Credit Fund is —
-(a) to form part of the Trust Fund constituted under section 9 of the Financial Administration and Audit Act 1985; or
-(b) with the approval of the Treasurer, to be kept at a bank.
-(3) If subsection (2)(b) applies, moneys standing to the credit of the Consumer Credit Fund that are not immediately required for the purposes of section 44C may, if approved by the Treasurer, be invested in any manner that moneys in the Public Bank Account may be invested under section 38 of the Financial Administration and Audit Act 1985.
-44B.Payments to Consumer Credit Fund
-(1) The Consumer Credit Fund is the fund established and operated for the purpose of section 106 of the Consumer Credit (Western Australia) Code.
-(2) The Consumer Credit Fund is to be credited with —
-(a) any amount paid to the fund by a credit provider;
-(b) income derived from the investment, under section 44A, of moneys standing to the credit of the Consumer Credit Fund;
-(c) any moneys received by, made available to or payable to the Consumer Credit Fund;
-(d) costs awarded to the Commissioner in a proceeding under this Act; and
-(e) costs awarded to the Commissioner in a proceeding under the Credit Act 1984.
-44C.Payments from Consumer Credit Fund
-The Consumer Credit Fund is to be applied by the Commissioner for —
-(a) the payment of such moneys as are approved by the Minister, on the terms approved by the Minister, for the following purposes —
-(i) providing financial counselling services to consumers;
-(ii) giving legal advice to consumers about consumer credit;
-(iii) providing information about consumer credit;
-(iv) providing research about the use of credit;
-(b) the administration of this Act;
-(c) legal fees incurred by the Commissioner, or costs awarded against the Commissioner, in a proceeding under this Act; and
-(d) legal fees incurred by the Commissioner, or costs awarded against the Commissioner, in a proceeding under the Credit Act 1984.
-44D.Report on operations of Consumer Credit Fund
-For the purposes of section 52 of the Financial Administration and Audit Act 1985, the administration of the Consumer Credit Fund is to be taken to be a service of the department principally assisting the Minister in the administration of this Act.
-”.
 ”.
