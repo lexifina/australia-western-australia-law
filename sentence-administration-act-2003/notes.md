@@ -1,14 +1,26 @@
 Notes
-This is a compilation of the Sentence Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 20 July 2007 of the Sentence Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Short title | Number and Year | Assent | Commencement
-Sentence Administration Act 2003 | 49 of 2003 | 9 Jul 2003 | 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833)
+Short title | Number and year | Assent | Commencement
+Sentence Administration Act 2003 | 49 of 2003 | 9 Jul 2003 | s. 1 and 2: 9 Jul 2003; Act other than s. 1 and 2: 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833)
 Criminal Code Amendment Act 2004 s. 5 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Sentencing Legislation Amendment Act 2004 Pt. 2 Div. 2 | 27 of 2004 | 14 Oct 2004 | 31 May 2006 (see s. 2 and Gazette 30 May 2006 p. 1965)
 Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
-Parole and Sentencing Legislation Amendment Act 2006 Pt. 2 and 7 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
+Parole and Sentencing Legislation Amendment Act 2006 Pt. 2 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 3 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
-Financial Legislation Amendment and Repeal Act 2006 s. 6 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 6 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 1: The Sentence Administration Act 2003 as at 20 Jul 2007 (includes amendments listed above)
+The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 2 Div. 4 commenced 31 Aug 2003 (see Gazette 29 Aug 2003 p. 3833).
+The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 6 reads as follows:
+“
+Part 6 — Review
+107.Review
+The Minister administering the Sentencing Act 1995 is to carry out a review of the operation and effectiveness of —
+the Sentencing Act 1995 to the extent that it is affected by the amendments made to it by Part 2 Divisions 2 and 4 and section 33(3); and
+Part 3 of the Sentence Administration Act 2003,
+as soon as practicable after the expiration of 4 years from the day on which this Act receives the Royal Assent.
+The Minister is to prepare a report based on the review and cause it to be laid before each House of Parliament within 5 years after the day on which this Act receives the Royal Assent.
+”.
 The Parole and Sentencing Legislation Amendment Act 2006 Pt. 7 reads as follows:
 “
 Part 7 — Transitional provisions
