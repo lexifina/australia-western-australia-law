@@ -1,6 +1,6 @@
 ## Schedule 2 — Offences under laws of other jurisdictions prescribed as Class 2 offences
 [r. 5]
-Enactment and Jurisdiction | Description of offence
+Enactment and jurisdiction | Description of offence
 Criminal Code Act 1995 of the Commonwealth
 s. 271.4 | Offence of trafficking in children
 s. 271.7 | Offence of domestic trafficking in children
