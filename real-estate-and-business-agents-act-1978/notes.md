@@ -41,12 +41,12 @@ Reprint 5: The Real Estate and Business Agents Act 1978 as at 8 Apr 2005 (includ
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 19 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 8 | 69 of 2006 | 13 Dec 2006 | 25 Jul 2007 (see s. 2 and Gazette 24 Jul 2007 p. 3657)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 29 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 8 | 69 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 The provision in this Act repealing the Land Agents Act 1921 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The “appointed day” was 1 December 1979. See Gazette 31 August 1979 p. 2615.
 The Land Agents Act 1921.
@@ -94,18 +94,4 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 (a) after paragraph (b) by inserting —
 “ and ”;
 (b) by deleting paragraph (e) and “and” after it.
-”.
-On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 8 had not come into operation. It reads as follows:
-“
-Part 8 — Real Estate and Business Agents Act 1978 amended
-26.The Act amended
-The amendments in this Part are to the Real Estate and Business Agents Act 1978.
-27.Section 4 amended
-Section 4(4) is amended as follows:
-(a) after paragraph (b) by deleting “or”;
-(b) after paragraph (c) by deleting the full stop and inserting instead —
-“
-; or
-(d) a person, other than a licensee, when performing a prescribed duty as an agent for the owner of premises ordinarily used for holiday accommodation, whether or not for consideration, in respect of the right of a person to occupy those premises for a period of not more than 3 consecutive months.
-”.
 ”.
