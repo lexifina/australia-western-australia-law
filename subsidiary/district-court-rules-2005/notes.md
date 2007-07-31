@@ -4,3 +4,4 @@ Compilation table
 Citation | Gazettal | Commencement
 District Court Rules 2005 | 27 May 2005 p. 2335-92 | 30 May 2005 (see r. 2)
 District Court Amendment Rules 2005 | 23 Dec 2005 p. 6270-3 | 1 Jan 2006 (see r. 2)
+District Court Amendment Rules 2007` | 31 Jul 2007 p. 3807-22 | 31 Jul 2007
