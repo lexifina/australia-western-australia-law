@@ -57,7 +57,7 @@ Form 4
 Restraint of Debtors Act 1984
 [Section 10]
 NOTICE
-To *the Registrar Supreme/District Court Clerk of Local Court/Court of Petty Sessions at ........................................................
+To *the Registrar Supreme/District Court/Magistrates Court at ........................................................
 In the matter of .................................................................................... (applicant) and ...................................................................................... (hereinafter described as the debtor).
 WHEREAS a summons pursuant to section 6 was issued to the debtor requiring his appearance in your court on ........................................................ at ........................................................
 NOTICE is hereby given that the debtor has —
@@ -66,6 +66,7 @@ NOTICE is hereby given that the debtor has —
 Dated 20 .
 ........................................................ Applicant
 *delete as appropriate.
+[Form 4 amended: Gazette 31 Jul 2007 p. 3804.]
 Form 5
 Restraint of Debtors Act 1984
 [Section 13]
@@ -79,9 +80,10 @@ Whereas the debtor has been detained in my custody pursuant to a warrant issued 
 the sum of $ (being the amount claimed plus costs); or
 *(b)the applicant has consented in writing to the release of the debtor,
 the debtor is entitled to be released from custody, and has accordingly been released from custody.
-To Registrar, Clerk Court
+To Registrar Court
 ........................................................ Signature Officer in charge Police Station
 *delete as appropriate.
+[Form 5 amended: Gazette 31 Jul 2007 p. 3804.]
 Form 6
 Restraint of Debtors Act 1984
 [Sections 14, 16, 18, 19, 20 and 22]
