@@ -7,8 +7,7 @@
 3a.The Government of Western Australia in relation to a worker who is a parliamentarian
 4.Agent General appointed under the Agent General Act 1895
 5.Agricultural Produce Commission established by the Agricultural Produce Commission Act 1988
-[6.deleted]
-7.Chemistry Centre (WA)
+[6, 7.deleted]
 8.Colleges established or continued under the Vocational Education and Training Act 1996
 8a.Commission for Occupational Safety and Health (WorkSafe W A) established by the Occupational Safety and Health Act 1984
 9.Commissioner for Public Sector Standards under the Public Sector Management Act 1994
@@ -36,7 +35,7 @@
 30.Western Australian Land Information Authority established by the Land Information Authority Act 2006
 31.Western Australian Planning Commission established by the Planning and Development Act 2005
 [32.deleted]
-[Division 1 amended in Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; 13 Apr 2007 p. 1609-10; amended by Act No. 75 of 2003 s. 56(1).]
+[Division 1 amended in Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; 13 Apr 2007 p. 1609-10; amended by Act No. 75 of 2003 s. 56(1); No. 10 of 2007 s. 43.]
 ## Division 2 — Self funding employers
 1.The Government of Western Australia in relation to a worker in respect of whom the obligations of the Government are being discharged by a person, or by the employing authority of a department or organisation, specified in an order under regulation 9(1)(b)unless the order specifies that in relation to that worker the Government is a Division 1 Employer
 2.Animal Resources Authority established by the Animal Resources Authority Act 1981
@@ -44,6 +43,7 @@
 4.Botanic Gardens and Parks Authority established under the Botanic Gardens and Parks Authority Act 1998
 5.Builders’ Registration Board of Western Australia continued under the Builders’ Registration Act 1939
 6.Building and Construction Industry Training Board established under the Building and Construction Industry Training Fund and Levy Collection Act 1990
+6a.Chemistry Centre (WA) established by the Chemistry Centre (WA) Act 2007
 7.Commissioner of Main Roads appointed under the Main Roads Act 1930
 [8.deleted]
 9.Construction Industry Long Service Leave Payments Board established under Construction Industry Portable Paid Long Service Leave Act 1985
@@ -113,4 +113,4 @@
 [67.deleted]
 68.WorkCover Western Australia Authority (WorkCover Western Australia) constituted under the Workers’ Compensation and Injury Management Act 1981
 69.Zoological Parks Authority established under the Zoological Parks Authority Act 2001
-[Division 2 amended in Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; amended by No. 43 of 2006 s. 7; 13 Apr 2007 p. 1610.]
+[Division 2 amended in Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; amended by No. 43 of 2006 s. 7; 13 Apr 2007 p. 1610; amended by Act No. 10 of 2007 s. 43.]
