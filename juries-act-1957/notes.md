@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 June 2007 of the Juries Act 1957 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Juries Act 1957 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Juries Act 1957 | 50 of 1957 (6 Eliz. II No. 50) | 9 Dec 1957 | 1 Jul 1960 (see s. 1(2) and Gazette 6 Mar 1959 p. 539)
@@ -42,17 +42,17 @@ Electoral Amendment and Repeal Act 2005 s. 9 | 1 of 2005 | 20 May 2005 | 20 May 
 Reprint 4: The Juries Act 1957 as at 2 Sep 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 and Gazette 4 May 2007 p. 1963)
+Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
 Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | 23 Feb 2007 (see s. 2 and Gazette 20 Feb 2007 p. 505)
 Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | 30 May 2007 (see s. 2 and Gazette 29 May 2007 p. 2486)
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(2) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Parole and Sentencing Legislation Amendment Act 2006 s. 91 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 9 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 5: The Juries Act 1957 as at 8 Jun 2007 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Reprint 5: The Juries Act 1957 as at 8 Jun 2007 (includes amendments listed above except those in the Chiropractors Act 2005)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
-Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
@@ -65,21 +65,8 @@ A certificate of permanent exemption issued or purporting to have been issued pu
 ”.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 contains savings and transitional provisions that are of no further effect.
 The Juries Amendment Act 2003 s. 5(2) is a savings provision that is of no further effect.
-On the date as at which this reprint was prepared, the Chiropractors Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-109.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 5 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 109]
-5.Juries Act 1957 amended
-(1) The amendments in this clause are to the Juries Act 1957.
-(2) The Second Schedule Part II item 2 is amended by deleting “Chiropractors Act 1964” and inserting instead —
-“ Chiropractors Act 2005 ”.
-”.
-On the date as at which this reprint was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) had not come into operation. It reads as follows:
+Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) had not come into operation. It reads as follows:
 “
 39.Second Schedule amended
 (1) The Second Schedule Part I item 2(i) is deleted and the following item is inserted instead —
@@ -88,7 +75,7 @@ On the date as at which this reprint was prepared, the Machinery of Government (
 ”.
 ”.
 The amendment to the Second Schedule, Pt. I it. (2)(i) in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) would not be included because the item it seeks to amend was repealed by the Prisons and Sentencing Legislation Amendment Act 2006 s. 66.
-On the date as at which this reprint was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 114.Consequential amendments
 Schedule 3 sets out consequential amendments.
