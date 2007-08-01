@@ -11,7 +11,7 @@ and
 (Respondent)
 INDEMNITY CERTIFICATE
 WHEREAS:
-1.On the day of 20 , the abovenamed (appellant or respondent as the case may be) issued out of Court (name of Court) at (place) a (writ, summons, complaint, etc., as the case may be) against the abovenamed (respondent or appellant as the case may be):
+1.On the day of 20 , the abovenamed (appellant or respondent as the case may be) issued out of Court (name of Court) at (place) a (writ, summons, prosecution notice, etc., as the case may be) against the abovenamed (respondent or appellant as the case may be):
 2.On the day of 20 the said Court ordered in favour of the respondent against the appellant that:
 (Set out substance of order.)
 3.On the day of 20 the appellant appealed against the said decision to (name of Court) (hereinafter called “the Appeal Court”) on grounds which included a question of law:
@@ -23,6 +23,7 @@ and thereby the said appeal succeeded on a question of law:
 IT IS HEREBY CERTIFIED THAT the respondent be indemnified in respect of the costs of the said appeal pursuant to the provisions of the Suitors’ Fund Act 1964.
 Dated the day of 20 .
 Judge.
+[Form 1 amended: Gazette 31 Jul 2007 p. 3806.]
 Form 1a
 SUITORS’ FUND ACT 1964
 IN THE SUPREME COURT OF WESTERN AUSTRALIA
@@ -41,7 +42,7 @@ WHEREAS:
 NOW IT IS HEREBY CERTIFIED that the Court grants to the appellant a costs certificate in respect of the costs of the appeal (or such part of the costs of the appeal being ).
 Dated the day of 20 .
 JUDGE.
-[Form 1a inserted in Gazette 18 Feb 1972 p. 365; amended in Gazette 19 Apr 2005 p. 1301.]
+[Form 1a inserted: Gazette 18 Feb 1972 p. 365; amended: Gazette 19 Apr 2005 p. 1301.]
 Form 1b
 SUITORS’ FUND ACT 1964
 IN THE SUPREME COURT OF WESTERN AUSTRALIA
@@ -63,7 +64,7 @@ The Order which the Court would have so made is:
 A costs certificate is granted to the Appellant.
 Dated the day of 20 .
 JUDGE.
-[Form 1b inserted in Gazette 18 Feb 1972 p. 365.]
+[Form 1b inserted: Gazette 18 Feb 1972 p. 365.]
 Form 2
 Suitors’ Fund Act 1964
 In the
@@ -71,12 +72,12 @@ In the
 In the matter of the Suitors’ Fund Act 1964
 and
 In the matter of proceedings between
-(plaintiff, prosecutor or as the case may be)
+(plaintiff, claimant, prosecutor or as the case may be)
 and
-(defendant or as the case may be).
+(defendant, accused or as the case may be).
 CERTIFICATE PURSUANT TO SECTION 14(1)(c) OF THE SUITORS’ FUND ACT 1964
 WHEREAS:
-1.On the day of 20 (civil or criminal as the case may be) proceedings were commenced by the abovenamed (plaintiff or as the case may be) against the abovenamed (defendant or as the case may be) in the (name of Court) at (place):
+1.On the day of 20 (civil or criminal as the case may be) proceedings were commenced by the abovenamed (plaintiff, claimant, prosecutor or as the case may be) against the abovenamed (defendant, accused or as the case may be) in the (name of Court) at (place):
 2.On the day of 20 the said proceedings were being heard in the said Court before (name of Judge, Magistrate or Justice) (hereinafter called “the presiding judicial officer”) and on the said date the said hearing was discontinued and a new trial ordered by the presiding judicial officer.
 It is hereby certified that:
 1.The reason why the said proceedings were discontinued was:
@@ -85,6 +86,7 @@ It is hereby certified that:
 3.The said reason was not attributable in any way to the act, neglect or default of (in the case of civil proceedings) all or any one or more of the parties to the said proceedings or their legal practitioners (or in the case of criminal proceedings) the accused or his legal practitioner.
 Dated the day of 20 .
 (Set out name of Judge, etc., under signature and capacity, e.g. “Judge of the Supreme Court”.)
+[Form 2 amended: Gazette 31 Jul 2007 p. 3806-7.]
 Form 2a
 SUITORS’ FUND ACT 1964
 IN THE SUPREME COURT OF WESTERN AUSTRALIA
@@ -93,7 +95,7 @@ IN THE MATTER OF THE SUITORS’ FUND
 ACT 1964,
 and
 IN THE MATTER OF CRIMINAL PROCEEDINGS BETWEEN
-(Complainant or as the case may be)
+(Prosecutor or as the case may be)
 and
 (Accused or as the case may be)
 CERTIFICATE PURSUANT TO SECTION 14(1)(d) OF THE SUITORS’ FUND ACT 1964
@@ -107,7 +109,7 @@ Dated the day of 20 .
 PRESIDING JUDGE, MAGISTRATE
 OR JUSTICE
 (or as the case may be).
-[Form 2a inserted in Gazette 18 Feb 1972 p. 366.]
+[Form 2a inserted: Gazette 18 Feb 1972 p. 366; amended: Gazette 31 Jul 2007 p. 3807.]
 Form 3
 Suitors’ Fund Act 1964
 In the matter of the Suitors’ Fund Act 1964
@@ -130,15 +132,15 @@ Form 4
 Suitors’ Fund Act 1964
 In the matter of the Suitors’ Fund Act 1964,
 and
-In the matter of a (state nature of proceedings, e.g., complaint information action or presentment) in the (name of Court) wherein
-was (complainant or as the case may be)
+In the matter of a (state nature of proceedings, e.g., prosecution notice or application) in the (name of Court) wherein
+was (prosecutor or as the case may be)
 and
-was (defendant or as the case may be)
-APPLICATION TO THE APPEAL COSTS BOARD BY THE COMPLAINANT (OR AS THE CASE MAY BE) FOR A CERTIFICATE AUTHORISING PAYMENT OUT OF THE SUITORS’ FUND PURSUANT TO SECTION 14 OR 15 OF THE ACT (AS THE CASE MAY BE)
-I of in the State of (occupation) being the abovenamed complainant (or as the case may be) hereby apply to the Appeal Costs Board for a certificate for payment to me from the Suitors’ Fund of the following amounts:
+was (accused or as the case may be)
+APPLICATION TO THE APPEAL COSTS BOARD BY THE PROSECUTOR (OR AS THE CASE MAY BE) FOR A CERTIFICATE AUTHORISING PAYMENT OUT OF THE SUITORS’ FUND PURSUANT TO SECTION 14 OR 15 OF THE ACT (AS THE CASE MAY BE)
+I of in the State of (occupation) being the abovenamed prosecutor (or as the case may be) hereby apply to the Appeal Costs Board for a certificate for payment to me from the Suitors’ Fund of the following amounts:
 (Set out in numbered paragraphs each amount claimed).
 The ground on which this application is made is as follows:
-(Set out ground, e.g., that the abovenamed proceedings were rendered abortive by the death of Mr. S.M., the Magistrate before whom the proceedings were had.)
+(Set out ground, e.g., that the abovenamed proceedings were rendered abortive by the death of Magistrate , the Magistrate before whom the proceedings were had.)
 (Where the application is made under section 14(1)(c), insert the following paragraph:
 A certificate under section 14(1)(c) of the Act was granted to the applicant in respect of the abovenamed proceedings by (name of the presiding Magistrate, etc.) the presiding Magistrate (or as the case may be) on the day of , 20 ).
 (Where the application is made under section 14(1)(d) of the Act insert the following paragraph:
@@ -148,7 +150,7 @@ The following documents are lodged with this application:
 (Set out such of the documents referred to in Regulation 4(5) as are relevant).
 Dated the day of , 20 .
 (Signature of Applicant.)
-[Form 4 amended in Gazette 18 Feb 1972 p. 366.]
+[Form 4 amended: Gazette 18 Feb 1972 p. 366; 31 Jul 2007 p. 3807.]
 Form 5
 Suitors’ Fund Act 1964
 In the matter of the Suitors’ Fund Act 1964,

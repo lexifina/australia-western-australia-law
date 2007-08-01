@@ -8,3 +8,12 @@ Suitors’ Fund Regulations 1965 | 31 Aug 1965 p. 2551-7 | 31 Aug 1965
 Suitors’ Fund Amendment Regulations 1980 | 19 Dec 1980 p. 4295 | 1 Jan 1981 (see r. 2)
 Reprint 1: Suitors’ Fund Regulations 1965 as at 7 Mar 2003 (includes amendments listed above)
 Courts and Legal Practice (Consequential Amendments) Regulations 2005 r. 13 | 19 Apr 2005 p. 1294-302 | 19 Apr 2005
+Suitors’ Fund Amendment Regulations 2007 | 31 Jul 2007 p. 3806-7 | r. 1 and 2: 31 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2007 (see r. 2(b))
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+applicant2
+costs certificate2
+indemnity certificate2
+Secretary2
+the Act2
