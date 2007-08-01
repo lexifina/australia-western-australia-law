@@ -11,6 +11,7 @@ Busselton Water Board
 Central TAFE
 Central West TAFE
 Challenger TAFE
+Chemistry Centre (WA)
 Coal Industry Superannuation Board
 Commissioner of Main Roads
 Construction Industry Long Service Leave Payments Board
@@ -115,4 +116,4 @@ Western Australian Treasury Corporation
 Wheatbelt Development Commission
 WorkCover Western Australia Authority
 Zoological Parks Authority
-[Schedule 1 amended by No. 77 of 2006 s. 17; amended in Gazette 13 Jul 2007 p. 3454.]
+[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; amended in Gazette 13 Jul 2007 p. 3454.]
