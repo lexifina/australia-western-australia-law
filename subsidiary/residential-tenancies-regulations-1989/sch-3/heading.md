@@ -4,7 +4,7 @@
 1.(a)Filing of an application under the Act by —
 (i)a financially disadvantaged person .................... | 19.50
 (ii)any other person ................................................. | 26.50
-(b)In sub-Item (a)(i) “financially disadvantaged person” means —
+(b)In sub-Item (a)(i) financially disadvantaged person means —
 (i)a person who produces, or in respect of whom there is produced, to a registrar of the court evidence to the satisfaction of the registrar showing that the person holds a Health Care Card, a Health Benefit Card, or a Pensioner Health Benefit Card issued by the Department of Social Security or the Department of Veteran’s Affairs of the Government of the Commonwealth; or
 (ii)a person who satisfies the registrar that he is, by reason of his financial circumstances, unable to pay the prescribed fee.
 2.Filing under clause 8(3) of Schedule 1 to the Act of a notice of intention to dispute ............................................. | 18.00
