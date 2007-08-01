@@ -13,12 +13,12 @@ Reprint 1: The Mental Health Act 1996 as at 6 Aug 2004 (includes amendments list
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 81 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 and Gazette 4 May 2007 p. 1963)
+Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 9 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Reprint 2: The Mental Health Act 1996 as at 12 Jan 2007 (includes amendments listed above)
+Reprint 2: The Mental Health Act 1996 as at 12 Jan 2007 (includes amendments listed above except those in the Occupational Therapists Act 2005)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 The Mental Health (Consequential Provisions) Act 1996 Pt. 12 Div. 2 (s. 53-72 inclusive) reads as follows:
 “
@@ -179,21 +179,7 @@ Division 13 — Transitional provisions
 “commencement” means the time at which this Division comes into operation;
 “Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Occupational Therapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-109.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 5 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 109]
-5.Mental Health Act 1996 amended
-(1) The amendments in this clause are to the Mental Health Act 1996.
-(2) Section 19(1)(b)(ii) is amended by deleting “Occupational Therapists Registration Act 1980” and inserting instead —
-“ Occupational Therapists Act 2005 ”.
-”.
+6-7Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 114.Consequential amendments
