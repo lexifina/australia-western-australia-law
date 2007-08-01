@@ -220,10 +220,12 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Optometrists Act 2005 s. 109 | 29 of 2005 | 12 Dec 2005 | 20 Apr 2007 (see s. 2 and Gazette 30 Mar 2007 p. 1451)
  | Podiatrists Act 2005 s. 109 | 30 of 2005 | 12 Dec 2005 | 30 May 2007 (see s. 2 and Gazette 29 May 2007 p. 2486)
  | Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | 23 Feb 2007 (see s. 2 and Gazette 20 Feb 2007 p. 505)
+ | Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
  | Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | 30 May 2007 (see s. 2 and Gazette 29 May 2007 p. 2486)
+ | Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
  | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
  | Tobacco Products Control Act 2006 s. 126 | 5 of 2006 | 12 Apr 2006 | 31 Jul 2006 (see s. 2 and Gazette 25 Jul 2006 p. 2701)
- | Reprint 14: The Constitution Acts Amendment Act 1899 as at 21 Apr 2006 (includes amendments listed above except those in the Psychologists Act 2005, the Optometrists Act 2005, the Podiatrists Act 2005, the Physiotherapists Act 2005, the Osteopaths Act 2005 and the Tobacco Products Control Act 2006)
+ | Reprint 14: The Constitution Acts Amendment Act 1899 as at 21 Apr 2006 (includes amendments listed above except those in the Psychologists Act 2005, the Optometrists Act 2005, the Podiatrists Act 2005, the Physiotherapists Act 2005, the Osteopaths Act 2005, the Tobacco Products Control Act 2006, the Chiropractors Act 2005 and the Occupational Therapists Act 2005)
  | Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | 1 Jul 2007 (see s. 2 and Gazette 26 Jun 2007 p. 3013)
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
  | Parole and Sentencing Legislation Amendment Act 2006 s. 89 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
@@ -233,17 +235,15 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Electoral Legislation Amendment Act 2006 Pt. 2 | 64 of 2006 | 8 Dec 2006 | 5 Mar 2007 (see s. 2 and Gazette 2 Mar 2007 p. 689)
  | Liquor and Gaming Legislation Amendment Act 2006 s. 116 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
  | Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+ | Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 s. 57 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | To be proclaimed (see s. 2)
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
-Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2(1))
 Child Care Services Act 2007 Pt. 7 Div. 2 | 19 of 2007 | 3 Jul 2007 | To be proclaimed (see s. 2(b))
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
@@ -337,58 +337,7 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Chemistry Centre (WA) Act 2007 s. 43, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-43.Amendments to other Acts
-Schedule 3 has effect.
-”.
-Schedule 3 cl. 1 reads as follows:
-“
-Schedule 3 — Amendment of other written laws
-[s. 43]
-1.Constitution Acts Amendment Act 1899 amended
-(1) The amendment in this clause is to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended by inserting before the item relating to the Chicken Meat Industry Committee the following item —
-“
-The Chemistry Centre (WA) established by the Chemistry Centre (WA) Act 2007.
-”.
-”.
-Footnotes no longer applicable.
-On the date as at which this compilation was prepared, the Chiropractors Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-109.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 2 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 109]
-2.Constitution Acts Amendment Act 1899 amended
-(1) The amendments in this clause are to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended by deleting the item commencing “The Chiropractors Registration Board” and inserting instead —
-“
-The Chiropractors Registration Board of Western Australia established under the Chiropractors Act 2005.
-”.
-”.
-Footnote no longer applicable.
-”.
-On the date as at which this compilation was prepared, the Occupational Therapists Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-109.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 2 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 109]
-2.Constitution Acts Amendment Act 1899 amended
-(1) The amendments in this clause are to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended by deleting the item commencing “The Occupational Therapists Registration Board of Western Australia” and inserting instead —
-“
-The Occupational Therapists Registration Board of Western Australia established under the Occupational Therapists Act 2005.
-”.
-”.
-Footnote no longer applicable.
+50-58Footnotes no longer applicable.
 Repealed by the Statute Law Revision Act 2006 s. 3(1).
 Repealed by the Statute Law Revision Act 2006 s. 3(1).
 Footnote no longer applicable.
