@@ -56,11 +56,11 @@ Does the respondent have access to a firearm at work? | r Yes r No r Unknown
 First hearing | Do you want the respondent to be present at the first hearing? | r Yes r No
 Applicant [Not essential if applicant is a police officer] | Signature: | Date:
 Hearing [To by filled in by the court] | Court: | Date: | Time:
-Signature of clerk:
-Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ __ __ at _______ am/pm at ____________________________________ I notified the applicant of the hearing date. Signature of clerk:
+Signature ofregistrar:
+Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ __ __ at _______ am/pm at ____________________________________ I notified the applicant of the hearing date. Signature ofregistrar:
 Affidavit evidence may be provided on request
- | If you, or the respondent, request a copy of any affidavit received in evidence in relation to this application the clerk of courts where this application is made is to provide a copy of the affidavit to the person who made the request.
-[Form 1 inserted in Gazette 26 Nov 2004 p. 5269.]
+ | If you, or the respondent, request a copy of any affidavit received in evidence in relation to this application the registrar of the court where this application is made is to provide a copy of the affidavit to the person who made the request.
+[Form 1 inserted in Gazette 26 Nov 2004 p. 5269; amended in Gazette 31 Jul 2007 p. 3801 and 3802.]
 Form 2 — Violence restraining order
 Part A — Violence restraining order
 Restraining Orders Act 1997 s. 29, 32, 43, 49 and 63 Violence Restraining Order |  | Number:
@@ -76,7 +76,7 @@ Other names:
 Type of order | The order isr for 72 hours or lessr an interim orderr a final order
 Terms of this order
 Order made | Date order made: | Time order made:
-Clerk | Signature: | Date:
+Registrar | Signature: | Date:
 Form 2 — Violence restraining order
 Part B — Information to be on the copy of order given to the person who is bound by the order
 IMPORTANT INFORMATION
@@ -86,9 +86,9 @@ A violence restraining order has been made against you for 72 hours or less on t
 If the order is an interim order
 An interim violence restraining order has been made against you on the terms set out on the front of this order. This order came into force when it was served on you, or a later time, if this is specified on the front of this order, and it will remain in force until a final order is made or a court decides not to make a final order. You must comply with this order at all times while it is in force. You have an opportunity to object to the order before it becomes a final order. If you want to object to this order being made final you must fill in the “Objection” section on the back of the other copy of this order and return it to the court within 21 days from the date this order was served on you. The court will then arrange a final order hearing at which it will consider anything you want to say before deciding whether to make a final violence restraining order. The court will let you know where and when the final order hearing will be held. If you do not object to this order being made final you should fill in the “Consent” section on the back of the other copy of this order and return it to the court within 21 days from the date this order was served on you. You will then not need to attend a final order hearing and the order will automatically become a final order which remains in force for the period specified in the order, or if no period is specified for 2 years, from the date this interim order was served on you. If you do nothing and do not fill in and return the other copy of this order within 21 days the court will assume that you do not object and the interim order will automatically become a final order. Penalty: It is an offence to breach a violence restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both.
 If the order is a final order
-A final violence restraining order has been made against you on the terms set out on the front of this order. This order came into force when it was served on you, or a later time, if this is specified on the front of this order, and it will remain in force until it expires or is varied or cancelled by a court. You must comply with this order at all times while it is in force. If there is a duration specified in the order the order expires at the end of the specified period. If there is no duration specified in the order the order expires: • if it was made at a final order hearing, 2 years after this final order comes into force; or • if it was a telephone order which became a final order because you did not object, 3 months, or any shorter period specified in the order, after the telephone order was served on you. If, in the future, you want the order varied or cancelled you may apply to the court. If you would like more information about doing this you should consult your lawyer or the clerk of the court. Penalty: It is an offence to breach a violence restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both.
+A final violence restraining order has been made against you on the terms set out on the front of this order. This order came into force when it was served on you, or a later time, if this is specified on the front of this order, and it will remain in force until it expires or is varied or cancelled by a court. You must comply with this order at all times while it is in force. If there is a duration specified in the order the order expires at the end of the specified period. If there is no duration specified in the order the order expires: • if it was made at a final order hearing, 2 years after this final order comes into force; or • if it was a telephone order which became a final order because you did not object, 3 months, or any shorter period specified in the order, after the telephone order was served on you. If, in the future, you want the order varied or cancelled you may apply to the court. If you would like more information about doing this you should consult your lawyer or the registrar of the court. Penalty: It is an offence to breach a violence restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both.
 Affidavit evidence may be provided on request
- | If you, or the person protected by this order, request a copy of any affidavit received in evidence in relation to this order the clerk of courts where the application for the order was made is to provide a copy of the affidavit to the person who made the request.
+ | If you, or the person protected by this order, request a copy of any affidavit received in evidence in relation to this order the registrar of the court where the application for the order was made is to provide a copy of the affidavit to the person who made the request.
 THIS ORDER COMES INTO FORCE IMMEDIATELY IF YOU WERE PRESENT IN COURT WHEN IT WAS MADE
 Form 2 — Violence restraining order
 Part C — Information to be on the respondent’s endorsed copy of the order
@@ -125,16 +125,16 @@ A violence restraining order has been made to protect you for 72 hours or less o
 If the order is an interim order
 An interim violence restraining order has been made to protect you on the terms set out on the front of this order. This order will come into force when it is served on the person bound by this order, or at a later time, if this is specified on the front of this order, and it will remain in force until a final order is made or a court decides not to make a final order. The person who is bound by this order must comply with this order at all times while it is in force. The person who is bound by this order has 21 days within which to object to the order before it becomes a final order. If the person who is bound by this order does object you will need to attend a final order hearing. At that hearing the court will consider anything you and the person who is bound by this order want to say before deciding whether to make a final restraining order. The court will let you know if a final order hearing is to be held and where and when you need to attend. Even if the person who is bound by this order does object, this interim order will remain in force until the final order hearing. If the person who is bound by this order does not object this order will automatically become a final order which remains in force for the period specified in the order, or if no period is specified for 2 years, from the date this interim order was served on the person bound by this order. You will then not need to attend a final order hearing. Penalty: It is an offence to breach a violence restraining order. If the person who is bound by this order breaches this order he or she may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. Counselling and support services may be of assistance to you.
 If the order is a final order
-A final violence restraining order has been made to protect you on the terms set out on the front of this order. This order will come into force when it is served on the person who is bound by this order, or at a later time, if this is specified on the front of this order, and it will remain in force until it expires or is varied or cancelled by a court. The person who is bound by this order must comply with this order at all times while it is in force. If there is a duration specified in the order the order expires at the end of the specified period. If there is no duration specified in the order the order expires: • if it was made at a final order hearing, 2 years after this final order comes into force; • if it was a telephone order which became a final order because the person who is bound by the order did not object, 3 months (or any shorter time specified in the order) after the telephone order was served on the person who is bound by the order. If, in the future, you want the order varied or cancelled you may apply to the court. The person who is bound by this order may also apply to have the order varied or cancelled. If you would like more information about doing this you should consult your lawyer or the clerk of the court. Penalty: It is an offence to breach a violence restraining order. If the person who is bound by this order breaches this order he or she may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. Counselling and support services may be of assistance to you.
+A final violence restraining order has been made to protect you on the terms set out on the front of this order. This order will come into force when it is served on the person who is bound by this order, or at a later time, if this is specified on the front of this order, and it will remain in force until it expires or is varied or cancelled by a court. The person who is bound by this order must comply with this order at all times while it is in force. If there is a duration specified in the order the order expires at the end of the specified period. If there is no duration specified in the order the order expires: • if it was made at a final order hearing, 2 years after this final order comes into force; • if it was a telephone order which became a final order because the person who is bound by the order did not object, 3 months (or any shorter time specified in the order) after the telephone order was served on the person who is bound by the order. If, in the future, you want the order varied or cancelled you may apply to the court. The person who is bound by this order may also apply to have the order varied or cancelled. If you would like more information about doing this you should consult your lawyer or the registrar of the court. Penalty: It is an offence to breach a violence restraining order. If the person who is bound by this order breaches this order he or she may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. Counselling and support services may be of assistance to you.
 Affidavit evidence may be provided on request
- | If you, or the person bound by this order, request a copy of any affidavit received in evidence in relation to this order the clerk of courts where the application for the order was made is to provide a copy of the affidavit to the person who made the request.
+ | If you, or the person bound by this order, request a copy of any affidavit received in evidence in relation to this order the registrar of the court where the application for the order was made is to provide a copy of the affidavit to the person who made the request.
 THIS ORDER COMES INTO FORCE IMMEDIATELY IF THE PERSON WHO IS BOUND BY THE ORDER WAS PRESENT IN COURT WHEN IT WAS MADE
 Form 2 — Violence restraining order
 Part E — Information to be on the proof of service copy
 Certificate of Service
  | Restraining order No.: Court of issue:
 Person serving order | Name of person serving order:
-I amrthe clerk of the court ra police officer Name and other identifying information: ra prison officerPrison: ____________________________________________ ra person authorised by the clerk Date of authorisation:
+I amrthe registrar of the court ra police officer Name and other identifying information: ra prison officerPrison: ____________________________________________ ra person authorised by the registrar Date of authorisation:
 Service | Method of service: r personalr oralr by postr substituted service
 Place where order served:
 Date of service: | Time of service:
@@ -161,7 +161,7 @@ Current proceedings for family order | Court: | Family Court matter no.:
 Terms of family order being sought which relate to the respondent’s rights in relation to children:
 Are these terms of the order being opposed?r Yesr Nor Unknown
 Applicant | Signature: | Date:
-[Form 2 inserted in Gazette 26 Nov 2004 p. 5270-5.]
+[Form 2 inserted in Gazette 26 Nov 2004 p. 5270-5; amended in Gazette 31 Jul 2007 p. 3801 and 3802.]
 Form 3 — Section 63A violence restraining order
 Part A — Section 63A violence restraining order
 Restraining Orders Act 1997 s. 63A Section 63A Violence Restraining Order |  | Number:
@@ -177,7 +177,7 @@ Other names:
 Lifelong order | This order remains in force for the period of the life of the person who is bound by this order.
 Terms of this order
 Order made | Date order made: | Time order made:
-Clerk | Signature: | Date:
+Registrar | Signature: | Date:
 Form 3 — Section 63A violence restraining order
 Part B — Information to be on the copy of the order given to the person who is bound by the order
 IMPORTANT INFORMATION
@@ -192,7 +192,7 @@ FOR THE PERSON WHO IS PROTECTED BY THIS ORDER
 Section 63A violence restraining order
 A violence restraining order has been made to protect you under section 63A of the Restraining Orders Act 1997. The order is in the terms set out on the front of this order. This order came into force when it was served on the person who is bound by the order, or at a later time if this is specified on the front of this order. The person who is bound by this order must comply with this order for the rest of his or her life. Penalty: It is an offence to breach a violence restraining order. If the person who is bound by this order breaches this order he or she may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. Counselling and support services may be of assistance to you.
 THIS ORDER COMES INTO FORCE IMMEDIATELY IF THE PERSON WHO IS BOUND BY THE ORDER WAS PRESENT IN COURT WHEN IT WAS MADE
-[Form 3 inserted in Gazette 26 Nov 2004 p. 5276-7.]
+[Form 3 inserted in Gazette 26 Nov 2004 p. 5276-7; amended in Gazette 31 Jul 2007 p. 3802.]
 Form 4 — Application for misconduct restraining order
 Restraining Orders Act 1997 s. 38(2) Misconduct restraining order Application |  | Number:
 Jurisdiction:
@@ -217,9 +217,9 @@ Firearms | Does the respondent have a firearm or firearms licence? | r Yes r No 
 Does the respondent have access to a firearm at work? | r Yes r No r Unknown
 Applicant | Signature: | Date:
 Hearing [To by filled in by the court] | Court: | Date: | Time:
-Signature of clerk:
-Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ __ __ at _______ am/pm at ____________________________________ I notified the applicant of the hearing date. Signature of clerk:
-[Form 4 inserted in Gazette 26 Nov 2004 p. 5278.]
+Signature ofregistrar:
+Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ __ __ at _______ am/pm at ____________________________________ I notified the applicant of the hearing date. Signature of registrar:
+[Form 4 inserted in Gazette 26 Nov 2004 p. 5278; amended in Gazette 31 Jul 2007 p. 3802.]
 Form 5 — Misconduct restraining order
 Part A — Misconduct restraining order
 Restraining Orders Act 1997 s. 43, 49 and 63 Misconduct Restraining Order |  | Number:
@@ -234,31 +234,31 @@ Person protected | Family name: | Date of birth:
 Other names:
 Terms of the order
 Order made | Date order made: | Time order made:
-Clerk | Signature: | Date:
+Registrar | Signature: | Date:
 Form 5 — Misconduct restraining order
 Part B — Information to be on the copy of the order given to the person who is bound by the order
 IMPORTANT INFORMATION
 FOR THE PERSON WHO IS BOUND BY THIS ORDER
 Misconduct Restraining Order
-A misconduct restraining order has been made against you on the terms set out on the front of this order. This order comes into force when it was served on you, or at a later time, if this is specified on the front of this order, and it will remain in force until it expires or is varied or cancelled by a court. You must comply with this order at all times while it is in force. If there is a duration specified in the order the order expires at the end of the specified period. If there is no duration specified in the order the order expires 12 months after it comes into force. If, in the future, you want the order varied or cancelled you may apply to the court. The person who is bound by this order may also apply to have the order varied or cancelled. If you would like more information about doing this you should consult your lawyer or the clerk of the court. Penalty: It is an offence to breach a misconduct restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $1 000. Counselling and support services may be of assistance to you.
+A misconduct restraining order has been made against you on the terms set out on the front of this order. This order comes into force when it was served on you, or at a later time, if this is specified on the front of this order, and it will remain in force until it expires or is varied or cancelled by a court. You must comply with this order at all times while it is in force. If there is a duration specified in the order the order expires at the end of the specified period. If there is no duration specified in the order the order expires 12 months after it comes into force. If, in the future, you want the order varied or cancelled you may apply to the court. The person who is bound by this order may also apply to have the order varied or cancelled. If you would like more information about doing this you should consult your lawyer or the registrar of the court. Penalty: It is an offence to breach a misconduct restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $1 000. Counselling and support services may be of assistance to you.
 Affidavit evidence may be provided on request
-If you, or the person protected by this order, request a copy of any affidavit received in evidence in relation to this order the clerk of courts where the application for the order was made is to provide a copy of the affidavit to the person who made the request.
+If you, or the person protected by this order, request a copy of any affidavit received in evidence in relation to this order the registrar of the court where the application for the order was made is to provide a copy of the affidavit to the person who made the request.
 THIS ORDER COMES INTO FORCE IMMEDIATELY IF THE PERSON WHO IS BOUND BY THE ORDER WAS PRESENT IN COURT WHEN IT WAS MADE
 Form 5 — Misconduct restraining order
 Part C — Information to be on the copy of the order given to the person protected by the order
 IMPORTANT INFORMATION
 FOR THE PERSON PROTECTED BY THE ORDER
 Misconduct Restraining Order
-A misconduct restraining order has been made to protect you on the terms set out on the front of this order. This order comes into force when it is served on the person who is bound by this order, or at a later time, if this is specified on the front of this order, and it will remain in force until it expires or is varied or cancelled by a court. The person who is bound by this order must comply with this order at all times while it is in force. If there is a duration specified in the order the order expires at the end of the specified period. If there is no duration specified in the order the order expires 12 months after it comes into force. If, in the future, you want the order varied or cancelled you may apply to the court. The person who is bound by this order may also apply to have the order varied or cancelled. If you would like more information about doing this you should consult your lawyer or the clerk of the court. Penalty: It is an offence to breach a misconduct restraining order. If the person bound by this order breaches this order he or she may be arrested and on conviction will face a penalty of up to $1 000. Counselling and support services may be of assistance to you.
+A misconduct restraining order has been made to protect you on the terms set out on the front of this order. This order comes into force when it is served on the person who is bound by this order, or at a later time, if this is specified on the front of this order, and it will remain in force until it expires or is varied or cancelled by a court. The person who is bound by this order must comply with this order at all times while it is in force. If there is a duration specified in the order the order expires at the end of the specified period. If there is no duration specified in the order the order expires 12 months after it comes into force. If, in the future, you want the order varied or cancelled you may apply to the court. The person who is bound by this order may also apply to have the order varied or cancelled. If you would like more information about doing this you should consult your lawyer or the registrar of the court. Penalty: It is an offence to breach a misconduct restraining order. If the person bound by this order breaches this order he or she may be arrested and on conviction will face a penalty of up to $1 000. Counselling and support services may be of assistance to you.
 Affidavit evidence may be provided on request
-If you, or the person bound by this order, request a copy of any affidavit received in evidence in relation to this order the clerk of courts where the application for the order was made is to provide a copy of the affidavit to the person who made the request.
+If you, or the person bound by this order, request a copy of any affidavit received in evidence in relation to this order the registrar of the court where the application for the order was made is to provide a copy of the affidavit to the person who made the request.
 THIS ORDER COMES INTO FORCE IMMEDIATELY IF THE PERSON WHO IS BOUND BY THE ORDER WAS PRESENT IN COURT WHEN IT WAS MADE
 Form 5 — Misconduct restraining order
 Part D — Information to be on the proof of service copy
 Certificate of Service
  | Restraining order No.: Court of issue:
 Person serving order | Name of person serving order:
-I amrthe clerk of the court ra police officer Rank, number and station: ra prison officerPrison: ____________________________________________ ra person authorised by the clerk Date of authorisation:
+I amrthe registrar of the court ra police officer Rank, number and station: ra prison officerPrison: ____________________________________________ ra person authorised by the registrar Date of authorisation:
 Service | Method of service: r personalr oralr by postr substituted service
 Place where order served:
 Date of service: | Time of service:
@@ -267,7 +267,7 @@ Date of birth:
 Signature:………………………………………………….. [If possible to obtain]
 Certificate | I certify that on the day and at the time and place set out above: r I personally served this order on the person who is bound by the order r I orally served this order on the person who is bound by the order r I posted this order to the person who is bound by the order r I took the steps directed by the court to effect substituted service of this order on the person who is bound by the order in accordance with Part 6 Division 2 of the Restraining Orders Act 1997. In the case of oral service, I also certify that I gave the person who is bound by this order the information required by section 55(5) of the Restraining Orders Act 1997 and that he or she appeared to understand what was said.
 Signature: | Date:
-[Form 5 inserted in Gazette 26 Nov 2004 p. 5279-81.]
+[Form 5 inserted in Gazette 26 Nov 2004 p. 5279-81; amended in Gazette 31 Jul 2007 p. 3801 and 3802.]
 Form 6 — Telephone order
 Part A — Court copy of telephone order
 Restraining Orders Act 1997 s. 23 Telephone Violence Restraining Order |  | Number:
@@ -315,7 +315,7 @@ A violence restraining order has been made against you for 72 hours or less on t
 If the order is an interim order
 An interim violence restraining order has been made against you on the terms set out on the front of this order. This order came into force when it was served on you, or a later time, if this is specified on the front of this order, and it will remain in force until a final order is made or a court decides not to make a final order. You must comply with this order at all times while it is in force. You have an opportunity to object to the order before it becomes a final order. If you want to object to this order being made final you must fill in the “Objection” section on the back of the other copy of this order and return it to the court within 21 days from the date this order was served on you. The court will then arrange a final order hearing at which it will consider anything you want to say before deciding whether to make a final violence restraining order. The court will let you know where and when the final order hearing will be held. If you do not object to this order being made final you should fill in the “Consent” section on the back of the other copy of this order and return it to the court within 21 days from the date this order was served on you. You will then not need to attend a final order hearing and the order will automatically become a final order which remains in force for the period specified in the order, or if no period is specified for 2 years, from the date this interim order was served on you. If you do nothing and do not fill in and return the other copy of this order within 21 days the court will assume that you do not object and the interim order will automatically become a final order. Penalty: It is an offence to breach a violence restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both.
 Affidavit evidence may be provided on request
-If you, or the person protected by this order, request a copy of any affidavit received in evidence in relation to this order the clerk of courts where the application for the order was made is to provide a copy of the affidavit to the person who made the request.
+If you, or the person protected by this order, request a copy of any affidavit received in evidence in relation to this order the registrar of the court where the application for the order was made is to provide a copy of the affidavit to the person who made the request.
 Form 6 — Telephone order
 Part D — Information to be on the respondent’s endorsed copy
 IMPORTANT INFORMATION
@@ -351,13 +351,13 @@ A violence restraining order has been made to protect you for 72 hours or less o
 If the order is an interim order
 An interim violence restraining order has been made to protect you on the terms set out on the front of this order. This order will come into force when it is served on the person bound by this order, or at a later time, if this is specified on the front of this order, and it will remain in force until a final order is made or a court decides not to make a final order. The person who is bound by this order must comply with this order at all times while it is in force. The person who is bound by this order has 21 days within which to object to the order before it becomes a final order. If the person who is bound by this order does object you will need to attend a final order hearing. At that hearing the court will consider anything you and the person who is bound by this order want to say before deciding whether to make a final restraining order. The court will let you know if a final order hearing is to be held and where and when you need to attend. Even if the person who is bound by this order does object, this interim order will remain in force until the final order hearing. If the person who is bound by this order does not object this order will automatically become a final order which remains in force for the period specified in the order, or if no period is specified for 2 years, from the date this interim order was served on the person bound by this order. You will then not need to attend a final order hearing. Penalty: It is an offence to breach a violence restraining order. If the person who is bound by this order breaches this order he or she may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. Counselling and support services may be of assistance to you.
 Affidavit evidence may be provided on request
-If you, or the person bound by this order, request a copy of any affidavit received in evidence in relation to this order the clerk of courts where the application for the order was made is to provide a copy of the affidavit to the person who made the request.
+If you, or the person bound by this order, request a copy of any affidavit received in evidence in relation to this order the registrar of the court where the application for the order was made is to provide a copy of the affidavit to the person who made the request.
 Form 6 — Telephone order
 Part F — Information to be on the proof of service copy
 Certificate of Service
  | Restraining order No.: Court of issue:
- | Name of person serving order:
-I amrthe clerk of the court ra police officer Name and other identifying information: ra prison officerPrison: ____________________________________________ ra person authorised by the clerk Date of authorisation:
+Person serving order | Name of person serving order:
+I amrthe registrar of the court ra police officer Name and other identifying information: ra prison officerPrison: ____________________________________________ ra person authorised by the registrar Date of authorisation:
 Service | Method of service: r personalr oralr by postr substituted service
 Place where order served:
 Date of service: | Time of service:
@@ -366,7 +366,7 @@ Date of birth:
 Signature:……………………………………………… [If possible to obtain]
 Certificate | I certify that on the day and at the time and place set out above r I personally served this order on the person who is bound by the order r I orally served this order on the person who is bound by this order r I posted this order to the person who is bound by this order r I took the steps directed by the court to effect substituted service of this order on the person who is bound by this order in accordance with Part 6 Division 2 of the Restraining Orders Act 1997. In the case of oral service, I also certify that I gave the person who is bound by this order the information required by section 55(5) of the Restraining Orders Act 1997 and that he or she appeared to understand what was said.
 Signature: | Date:
-[Form 6 inserted in Gazette 26 Nov 2004 p. 5282-7.]
+[Form 6 inserted in Gazette 26 Nov 2004 p. 5282-7; amended in Gazette 31 Jul 2007 p. 3801 and 3802.]
 Form 7 — Restraining order record of telephone application
 Restraining Orders Act 1997 s. 21(4) Restraining order Record of telephone application |  | Number:
 Jurisdiction:
@@ -423,7 +423,7 @@ Grounds for leave to continue this application [Only fill this in if the applica
 Variation or cancellation | Do you want the restraining order to ber cancelledr varied If varied, what do you want changed?
 Grounds for variation or cancellation | Why do you want the restraining order varied or cancelled?
 Hearing [To be filled in by the court] | Court: Date: Time:
-Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ __ __ at _____ am/pm at I notified the person applying to vary or cancel of the hearing date. Signature of clerk:
+Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ __ __ at _____ am/pm at I notified the person applying to vary or cancel of the hearing date. Signature ofregistrar:
 Form 8 — Application to vary or cancel a restraining order
 Part B — Information to be on the copy of the application to be given to the applicant
 IMPORTANT INFORMATION
@@ -434,7 +434,7 @@ Application by the person who is bound by the restraining order
 If you are the person who is bound by the restraining order and you have applied to vary or cancel a restraining order, you must attend a hearing on the date set out on the front of this application. The person protected by the restraining order will not attend this hearing. At this hearing you will have the opportunity to satisfy the court that you should be granted leave to continue the application. To do this you will need to satisfy the court that one of the following applies: (i)you had a reasonable cause not to attend a prior hearing where the restraining order was made (this does not apply in respect of a hearing where you were not present because the person protected by the order chose to have the matter heard in your absence under section 26 of the Restraining Orders Act 1997); (ii)there is evidence to support a claim that a person protected by the order has persistently invited or encouraged you to breach the order, or by his or her actions has persistently attempted to cause you to breach the order; (iii)there has been a substantial change in the relevant circumstances since the order was made; or (iv)if this application is made to vary or cancel an interim order, there is evidence to support a claim that the restraints imposed by the order are causing you unnecessary hardship. If you do not attend the hearing, your application may be dismissed. Your application to vary or cancel the restraining order will be dismissed if you do not satisfy the court that one of the grounds set out above applies. If the court is satisfied that one of the grounds set out above applies to you then the court will set a date for a further hearing and will summons the person protected by the order to attend. At that hearing the court will decide whether or not to vary or cancel the restraining order. If you do not attend the hearing, your application may be dismissed.
 Application to extend duration of order
 If this application is to vary the restraining order by extending the duration of the order, then, despite anything else in the Restraining Orders Act 1997, THE ORDER WILL NOT EXPIRE before the application is determined if the person bound by the order has been given a copy of this application.
-[Form 8 inserted in Gazette 26 Nov 2004 p. 5290-1.]
+[Form 8 inserted in Gazette 26 Nov 2004 p. 5290-1; amended in Gazette 31 Jul 2007 p. 3802.]
 Form 9 — Summons to vary or cancel restraining order
 Part A — Summons to vary or cancel restraining order
 Restraining Orders Act 1997 s. 47 Restraining order Summons to vary or cancel |  | Number:
@@ -454,14 +454,14 @@ Person protected by the order:
 Application | An application has been made for the restraining order to be: r cancelled r varied The variations sought to the order are as follows:
 Grounds for application
 Hearing [To be filled in by the court] | Court: | Date: | Time:
-Signature of clerk:
+Signature ofregistrar:
 If you do not attend the court hearing the restraining order may be varied or cancelled in your absence.
 Form 9 — Summons to vary or cancel restraining order
 Part B —Information to be on the proof of service copy
 Certificate of Service
  | Restraining order No.: Court of issue:
 Person serving summons | Name of person serving summons:
-I amrthe clerk of the court ra police officer Rank, number and station: ra prison officerPrison: ____________________________________________ ra person authorised by the clerk Date of authorisation:
+I amrthe registrar of the court ra police officer Rank, number and station: ra prison officerPrison: ____________________________________________ ra person authorised by the registrar Date of authorisation:
 Service | Method of service: r personalr by postr substituted service
 Place where summons served:
 Date of service: | Time of service:
@@ -472,13 +472,13 @@ Certificate | I certify that on the day and at the time and place set out above:
 Signature: | Date:
 OR
 Summons not served | Name of person attempting to serve summons:
-I amrthe clerk of the court ra police officer Rank, number and station: ra prison officerPrison: _____________________________________________ ra person authorised by the clerk Date of authorisation:
+I amrthe registrar of the court ra police officer Rank, number and station: ra prison officerPrison: _____________________________________________ ra person authorised by the registrar Date of authorisation:
 Attempted method of service: r personalr by postr substituted service
 Steps taken to attempt service:
 I was unable to serve this summons because: r the person to be summonsed does not appear to live or work at the addresses given and cannot be found elsewhere r the person to be summonsed appears to be deliberately avoiding being served with this summons r other [give details]
 Signature: | Date:
 Please return this proof of service copy of the summons to the court before the hearing date, even if you have been unable to serve it.
-[Form 9 inserted in Gazette 26 Nov 2004 p. 5292-3.]
+[Form 9 inserted in Gazette 26 Nov 2004 p. 5292-3; amended in Gazette 31 Jul 2007 p. 3802.]
 Form 10 — Police order
 Part A — Police order
 Restraining Orders Act 1997 Part 2 Division 3A Police Order
@@ -526,13 +526,13 @@ Person protected by the order | Family name: | Date of birth:
 Other names:
 Address:street: suburb:postcode:
 Phone nos.:work:home:
-Role in proceeding in which restraining order was made: r applicant/complainantr respondent/defendant r other witnessr other
+Role in proceeding in which restraining order was made: r applicant/prosecutorr respondent/accused r other witnessr other
 Person who is bound by the restraining order | Family name: | Date of birth:
 Other names:
 Homestreet: address:suburb:postcode:
 Workstreet: address:suburb:postcode:
 Phone nos.:work:home:
-Role in proceeding in which restraining order was made: r applicant/complainantr respondent/defendant r other witnessr other_______________________________________________
+Role in proceeding in which restraining order was made: r applicant/prosecutorr respondent/accused r other witnessr other_______________________________________________
 Grounds on which order applied for or considered
 Family orders | Are there any current family orders relating to the person who is bound by the restraining order’s rights in relation to children who may be affected by a restraining order?r Yesr No
 Are there any current Family Court proceedings in which suchr Yesr No orders are being sought?
@@ -544,8 +544,8 @@ Witness and summary of evidence | Person protected by the restraining order: Per
 Other notes
 Terms of the order
 Order made | Date order made: | Time order made:
-Clerk | Signature: | Date:
-[Form 11 inserted in Gazette 26 Nov 2004 p. 5298-9.]
+Registrar | Signature: | Date:
+[Form 11 inserted in Gazette 26 Nov 2004 p. 5298-9; amended in Gazette 31 Jul 2007 p. 3802.]
 Form 12 — Application to register an interstate restraining order
 Part A — Application to register an interstate restraining order
 Restraining Orders Act 1997 s. 75 Interstate restraining order Application to register |  | Number:
@@ -571,9 +571,9 @@ Date order was made: | Order/matter no.:
 Notice | Ir dor do not want notice of the registration of this order given to the person who is to be bound by this order
 Applicant | Signature: | Date:
 Registered [To be filled in by the court] | Date of registration: | Time of registration:
-Signature of clerk: | Date:
-Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ __ __ at ______ am/pm at I notified the applicant that the order had been registered. Signature of clerk:
-When you lodge this application you must also give the clerk the original interstate order or a copy certified to be a true copy by an officer of the court in which it was made. The clerk may also ask for evidence to show that the interstate order has been served on the person who is to be bound by the order.
+Signature of registrar: | Date:
+Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ __ __ at ______ am/pm at I notified the applicant that the order had been registered. Signature of registrar:
+When you lodge this application you must also give the registrar the original interstate order or a copy certified to be a true copy by an officer of the court in which it was made. The registrar may also ask for evidence to show that the interstate order has been served on the person who is to be bound by the order.
 Form 12 — Application to register an interstate restraining order
 Part B — Information to be on the copy of the application given to the applicant
 Notification to applicant
@@ -584,9 +584,9 @@ Notification to the Commissioner of Police
 The interstate order described in this form has been registered in Western Australia. A copy of the interstate order is attached.
 Form 12 — Application to register an interstate restraining order
 Part D — Information to be on the copy of the application given to the interstate court where the relevant interstate order was made
-Notification to the Registrar or Clerk
-The restraining order described above and made in your court has been registered in Western Australia. If the original order is varied or cancelled please notify the clerk of the court mentioned above.
-[Form 12 inserted in Gazette 26 Nov 2004 p. 5300-1.]
+Notification to the Registrar
+The restraining order described above and made in your court has been registered in Western Australia. If the original order is varied or cancelled please notify the registrar of the court mentioned above.
+[Form 12 inserted in Gazette 26 Nov 2004 p. 5300-1; amended in Gazette 31 Jul 2007 p. 3802.]
 Form 13 — Restraining order — summons
 Part A — Restraining order — summons
 Restraining Orders Act 1997 s. 26(3) and 39 Restraining order Summons |  | Number:
@@ -606,7 +606,7 @@ Other names:
 Type of order | The application is forr a Violence Restraining Orderr a Misconduct Restraining Order
 Grounds for application
 Hearing | Court: | Date: | Time:
-Signature of clerk:
+Signature of registrar:
 If you do not attend the court hearing a restraining order may be made against you in your absence.
 A restraining order may prohibit you from going to certain places (such as the home of the person seeking to be protected) and place other restrictions on where you may go and what you may do.
 A restraining order may also prohibit you from being in possession of a firearm or a firearms licence.
@@ -614,7 +614,7 @@ Form 13 — Restraining order — summons
 Part B — Information to be on the proof of service copy
 Certificate of Service
 Person serving summons | Name of person serving summons:
-I amrthe clerk of the court ra police officer Rank, number and station: ____________________________ ra prison officerPrison: ____________________________________________ ra person authorised by the clerk Date of authorisation: _______________________
+I amrthe registrar of the court ra police officer Rank, number and station: ____________________________ ra prison officerPrison: ____________________________________________ ra person authorised by the registrar Date of authorisation: _______________________
 Details of service | Method of service: r personalr by postr substituted service
 Place where summons served:
 Date of service: | Time of service:
@@ -625,13 +625,13 @@ Certificate | I certify that on the day and at the time and place set out above:
 Signature: | Date:
 OR
 Summons not served | Name of person attempting to serve summons:
-I amrthe clerk of the court ra police officer Rank, number and station: ____________________________ ra prison officerPrison: ____________________________________________ ra person authorised by the clerk Date of authorisation: _______________________
+I amrthe registrar of the court ra police officer Rank, number and station: ____________________________ ra prison officerPrison: ____________________________________________ ra person authorised by the registrar Date of authorisation: _______________________
 Attempted method of service: r personalr by postr substituted service
 Steps taken to attempt service:
 I was unable to serve this summons because: r the respondent does not appear to live or work at the addresses given and cannot be found elsewhere r the respondent appears to be deliberately avoiding being served with this summons r other [give details]
 Signature: | Date:
 Please return this proof of service copy of the summons to the court before the hearing date, even if you have been unable to serve it.
-[Form 13 inserted in Gazette 26 Nov 2004 p. 5302-3.]
+[Form 13 inserted in Gazette 26 Nov 2004 p. 5302-3; amended in Gazette 31 Jul 2007 p. 3802.]
 Form 14 — Application to have decision under section 42 of the Act set aside
 Restraining Orders Act 1997 s. 43A Application to set aside decision under section 42 of the Restraining Orders Act 1997 |  | Number:
 Jurisdiction:
