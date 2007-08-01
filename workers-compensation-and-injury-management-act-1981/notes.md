@@ -54,6 +54,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 6: The Workers’ Compensation and Injury Management Act 1981 as at 5 Aug 2005 (includes amendments listed above except those in the Workers’ Compensation and Rehabilitation Amendment (Cross Border) Act 2004 Pt. 3 and certain provisions of the Workers’ Compensation Reform Act 2004)
 Workers’ Compensation Legislation Amendment Act 2005 Pt. 3, 4 and s. 32 | 16 of 2005 | 27 Sep 2005 | s. 30(1) and (2): 1 Jul 2005 (see s. 2(2)); s. 30(3): 27 Sep 2005 (see s. 2(1)); Pt. 3 and s. 32: 14 Nov 2005 (see s. 2(3))
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 9 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
+Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
 Reprint 7: The Workers’ Compensation and Injury Management Act 1981 as at 3 Feb 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
@@ -61,7 +62,6 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 (as amended by No. 42 of 2004 s. 155) | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 The name of the State Government Insurance Commission was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8 (see also note 44.)
 Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia (see also note 44).
 The Workers’ Compensation Legislation Amendment Act 2005 s. 9(2) reads as follows:
@@ -438,19 +438,4 @@ Section 162(1) | Delete “State Government Insurance Commission”, substitute 
 Section 163 | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
 [Item 16 amended by No. 42 of 2004 s. 155(2)(a).]
 ”.
-On the date as at which this compilation was prepared, the Chiropractors Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-109.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 8 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 109]
-8.Workers’ Compensation and Injury Management Act 1981 amended
-(1) The amendments in this clause are to the Workers’ Compensation and Injury Management Act 1981.
-(2) Section 5(1) is amended in the definition of “chiropractor” by deleting “Chiropractors Act 1964 and holds a licence to practise chiropractic issued by the Chiropractors Registration Board constituted under that Act;” and inserting instead —
-“ Chiropractors Act 2005; ”.
-(3) Section 176(1b)(d) is amended by deleting “Chiropractors Registration Board;” and inserting instead —
-“ Chiropractors Registration Board of Western Australia; ”.
-”.
+The amendment in the Chiropractors Act 2005 s. 109 relating to s. 176(1b)(d) is not included because the section it sought to amend had been replaced by the Workers’ Compensation Reform Act 2004 s. 130 before the amendment purported to come into operation.

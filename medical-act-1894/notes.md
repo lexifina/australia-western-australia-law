@@ -42,12 +42,12 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 6: The Medical Act 1894 as at 12 Aug 2005 (includes amendments listed above)
+Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 8 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Medical Amendment Act 2006 | 49 of 2006 | 6 Oct 2006 | 6 Oct 2006 (see s. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Now see section 77(4) of the Interpretation Act 1984.
 The numbering of Parts, sections, etc., effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and subsequent reprints has been retained. References to the original numbering are contained in the 1943 reprint.
@@ -125,22 +125,7 @@ The Medical Amendment Act 2000 s. 10 reads as follows:
 “State Interview Panel” means the panel established by the Western Australian Centre for Remote and Rural Medicine for the purposes of assessing, and advising the Board as to, the suitability of overseas trained persons to be general practitioners in remote and rural WA.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Chiropractors Act 2005 s. 109, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-109.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 6 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 109]
-6.Medical Act 1894 amended
-(1) The amendments in this clause are to the Medical Act 1894.
-(2) The proviso to section 19 is amended by inserting after “chiropractor” —
-“ registered under the Chiropractors Act 2005 ”.
-(3) Section 21A(1) is amended by deleting “subsection (2)” and inserting instead —
-“ the provisions of the Radiation Safety Act 1975 ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 114.Consequential amendments
