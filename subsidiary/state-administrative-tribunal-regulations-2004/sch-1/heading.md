@@ -1,6 +1,6 @@
 ## Schedule 1 — Enabling Acts prescribed for the purposes of the definition of “vocational regulatory body”
 [r. 4]
-Architects Act 1921
+Architects Act 2004
 Boxing Control Act 1987
 Builders’ Registration Act 1939
 Chiropractors Act 1964
@@ -22,19 +22,18 @@ Motor Vehicle Dealers Act 1973
 Motor Vehicle Drivers Instructors Act 1963
 Nurses Act 1992
 Occupational Therapists Registration Act 1980
-Optical Dispensers Act 1966
-Optometrists Act 1940
-Osteopaths Act 1997
+Optometrists Act 2005
+Osteopaths Act 2005
 Painters’ Registration Act 1961
 Pawnbrokers and Second-hand Dealers Act 1994
 Pharmacy Act 1964
-Physiotherapists Act 1950
-Podiatrists Registration Act 1984
-Psychologists Registration Act 1976
+Physiotherapists Act 2005
+Podiatrists Act 2005
+Psychologists Act 2005
 Radiation Safety Act 1975
 Real Estate and Business Agents Act 1978
-Security and Related Activities (Control) Act 1996
 Settlement Agents Act 1981
 Travel Agents Act 1985
 Veterinary Surgeons Act 1960
 Water Services Licensing Act 1995
+[Schedule 1 amended in Gazette 31 Jul 2007 p. 3805.]
