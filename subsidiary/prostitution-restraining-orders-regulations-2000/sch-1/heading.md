@@ -8,7 +8,7 @@ Form | Title | Section
 5 | Affidavit in support of application for leave to apply vary or cancel a prostitution restraining order | 42
 6 | Application to vary or cancel a prostitution restraining order Court copy (front and back) Copy for person applying to vary or cancel Other party’s copy | 42
 Prostitution Act 2000 Application for a prostitution restraining order |  | Number
-Jurisdictionr Court of Petty Sessions r Children’s Court
+Jurisdictionr Magistrates Court r Children’s Court
 Location
 Applicant | Name on behalf of the Commissioner of Police
 Regimental no.
@@ -25,7 +25,7 @@ Public place
 Directions given under s. 26 of Act | Date | Given by (name & regimental no.) | Given at (place)
 Applicant | Signature | Date
 Hearing (To by filled in by the court) | Court | Date | Time
-Signature of clerk
+Signature of registrar
 Court copy
 Record of Proceedings
 Date | Attendance | Representation | Adjournments
@@ -35,7 +35,7 @@ _______________________________________________________________ Judicial Officer
 Clerk’s record
 Back of court copy
 Prostitution Act 2000 Application for a prostitution restraining order |  | Number
-Jurisdictionr Court of Petty Sessions r Children’s Court
+Jurisdictionr Magistrates Court r Children’s Court
 Location
 Applicant | Name on behalf of the Commissioner of Police
 Regimental no.
@@ -52,10 +52,10 @@ Public place
 Directions given under s. 26 of Act | Date | Given by (name & regimental no.) | Given at (place)
 Applicant | Signature | Date
 Hearing (To by filled in by the court) | Court | Date | Time
-Signature of clerk
+Signature of registrar
 Applicant’s copy
 Prostitution Act 2000 Application for a prostitution restraining order |  | Number
-Jurisdictionr Court of Petty Sessions r Children’s Court
+Jurisdictionr Magistrates Court r Children’s Court
 Location
 Applicant | Name on behalf of the Commissioner of Police
 Regimental no.
@@ -72,11 +72,11 @@ Public place
 Directions given under s. 26 of Act | Date | Given by (name & regimental no.) | Given at (place)
 Applicant | Signature | Date
 Hearing (To by filled in by the court) | Court | Date | Time
-Signature of clerk
+Signature of registrar
 An application for a restraining order has been made against you. The details of the application are set out above. You are required to attend a court hearing on this matter at the place and time set out above. If you do not attend the court hearing a restraining order may be made against you in your absence. A restraining order may prohibit you from going to certain places or doing certain things, or impose restrictions on the places where you may go and the things that you may do.
 Copy for person to be restrained
 Prostitution Act 2000 Application for a prostitution restraining order |  | Number
-Jurisdictionr Court of Petty Sessions r Children’s Court
+Jurisdictionr Magistrates Court r Children’s Court
 Location
 Applicant | Name on behalf of the Commissioner of Police
 Regimental no.
@@ -93,7 +93,7 @@ Public place
 Directions given under s. 26 of Act | Date | Given by (name & regimental no.) | Given at (place)
 Applicant | Signature | Date
 Hearing (To by filled in by the court) | Court | Date | Time
-Signature of clerk
+Signature of registrar
 Proof of service copy
 Certificate of service
 Officer serving application | Name
@@ -109,7 +109,7 @@ Certificate | I certify that on the day and at the time and place set out above 
 Signature | Date
 Back of proof of service copy
 Prostitution Act 2000 Prostitution restraining order under s. 39 Record of proceedings |  | Number
-Jurisdictionr Court of Petty Sessions r Children’s Court r Other _____________
+Jurisdictionr Magistrates Court r Children’s Court r Other _____________
 Location
 Application | Order maderby the court of its own motion rat request of _________________________________
 Person to be restrained (Fill in as many details as known) | Family name | Date of birth
@@ -125,10 +125,10 @@ Witnesses and summary of evidence | Police Person to be restrained Other witness
 Other notes
 Terms of the order
 Order made | Date order made | Time order made
-Clerk / Registrar |  | Date
+Registrar |  | Date
 Court copy
 Prostitution Act 2000 Prostitution restraining order |  | Number
-Jurisdictionr Court of Petty Sessions r Children’s Court r Other ______________
+Jurisdictionr Magistrates Court r Children’s Court r Other ______________
 Location
 Restrained person | Family name | Date of birth
 Other names
@@ -137,10 +137,10 @@ Workstreet Addresssuburbpostcode
 Phone nos.workhome
 Terms of the order
 Order made | Date | Time
-Clerk/ Registrar | Signature | Date
+Registrar | Signature | Date
 Court copy
 Prostitution Act 2000 Prostitution restraining order |  | Number
-Jurisdictionr Court of Petty Sessions r Children’s Court r Other ______________
+Jurisdictionr Magistrates Court r Children’s Court r Other ______________
 Location
 Restrained person | Family name | Date of birth
 Other names
@@ -149,14 +149,14 @@ Workstreet Addresssuburbpostcode
 Phone nos.workhome
 Terms of the order
 Order made | Date | Time
-Clerk/ Registrar | Signature | Date
+Registrar | Signature | Date
 Restrained person’s copy
 IMPORTANT INFORMATION
 Prostitution restraining order
-A restraining order has been made against you on the terms set out on the front of this order. It will take effect when it is served on you and it will remain in force until it expires or is varied or cancelled by a court. You must comply with this order at all times while it is in force. If there is a duration specified in the order, the order expires at the end of the specified period. If there is no duration specified in the order, it expires 1 year after it was served on you. If, in the future, there is a substantial change in the circumstances which led to the order being made you may apply to the court for leave to apply to have the order varied or cancelled. If you would like more information about doing this you should consult your lawyer or the clerk of the court. Penalty It is an offence to breach this restraining order. If you do, you may be arrested and will face a penalty of up to $5 000.
+A restraining order has been made against you on the terms set out on the front of this order. It will take effect when it is served on you and it will remain in force until it expires or is varied or cancelled by a court. You must comply with this order at all times while it is in force. If there is a duration specified in the order, the order expires at the end of the specified period. If there is no duration specified in the order, it expires 1 year after it was served on you. If, in the future, there is a substantial change in the circumstances which led to the order being made you may apply to the court for leave to apply to have the order varied or cancelled. If you would like more information about doing this you should consult your lawyer or the registrar of the court. Penalty It is an offence to breach this restraining order. If you do, you may be arrested and will face a penalty of up to $5 000.
 Back of restrained person’s copy
 Prostitution Act 2000 Prostitution restraining order |  | Number
-Jurisdictionr Court of Petty Sessions r Children’s Court r Other ______________
+Jurisdictionr Magistrates Court r Children’s Court r Other ______________
 Location
 Restrained person | Family name | Date of birth
 Other names
@@ -165,7 +165,7 @@ Workstreet Addresssuburbpostcode
 Phone nos.workhome
 Terms of the order
 Order made | Date | Time
-Clerk/ Registrar | Signature | Date
+Registrar | Signature | Date
 Police copy
 Certificate of service
 Officer serving order | Name
@@ -181,7 +181,7 @@ Certificate | I certify that on the day and at the time and place set out above 
 Signature | Date
 Back of police copy
 Prostitution Act 2000 Prostitution restraining order |  | Number
-Jurisdictionr Court of Petty Sessions r Children’s Court r Other ______________
+Jurisdictionr Magistrates Court r Children’s Court r Other ______________
 Location
 Restrained person | Family name | Date of birth
 Other names
@@ -190,7 +190,7 @@ Workstreet Addresssuburbpostcode
 Phone nos.workhome
 Terms of the order
 Order made | Date | Time
-Clerk/ Registrar | Signature | Date
+Registrar | Signature | Date
 Proof of service copy
 Certificate of service
 Officer serving order | Name
@@ -219,7 +219,7 @@ Variation or cancellation | Do you want the order to ber cancelledr varied If va
 Grounds for variation or cancellation | Why do you want the restraining order varied or cancelled?
 Person applying for leave | Signature | Date
 Hearing (To be filled in by the court) | Court | Date | Time
-Signature of clerk
+Signature of registrar
 Court copy
 Record of Proceedings
 Date | Attendance | Representation | Adjournments
@@ -242,7 +242,7 @@ Variation or cancellation | Do you want the order to ber cancelledr varied If va
 Grounds for variation or cancellation | Why do you want the restraining order varied or cancelled?
 Person applying for leave | Signature | Date
 Hearing (To be filled in by the court) | Court | Date | Time
-Signature of clerk
+Signature of registrar
 Restrained person’s copy
 IMPORTANT INFORMATION
 Application for leave to apply to vary or cancel
@@ -263,7 +263,7 @@ Variation or cancellation | Do you want the order to ber cancelledr varied If va
 Grounds for variation or cancellation | Why do you want the restraining order varied or cancelled?
 Person applying for leave | Signature | Date
 Hearing (To be filled in by the court) | Court | Date | Time
-Signature of clerk
+Signature of registrar
 Respondent’s copy
  | This form must not be lodged until application has been served on the Respondent
 Prostitution Act 2000 Application for leave to apply to vary or cancel a prostitution restraining order |  | Number
@@ -280,7 +280,7 @@ Variation or cancellation | Do you want the order to ber cancelledr varied If va
 Grounds for variation or cancellation | Why do you want the restraining order varied or cancelled?
 Person applying for leave | Signature | Date
 Hearing (To be filled in by the court) | Court | Date | Time
-Signature of clerk
+Signature of registrar
 Proof of service copy
 Certificate of service
 Person serving application | Name
@@ -296,7 +296,7 @@ Certificate | I certify that on the day and at the time and place set out above 
 Signature | Date
 Back of proof of service copy
 Prostitution Act 2000 Affidavit in support of application for leave to apply to vary or cancel a prostitution restraining order |  | Number
-Jurisdiction r Court of Petty Sessions r Children’s Court
+Jurisdiction r Magistrates Court r Children’s Court
 Location
 Person making affidavit | Family name | Date of birth
 Other names
@@ -305,7 +305,7 @@ Affidavit NOTE You must set out ALL the relevant circumstances — this includes
 Sworn before a Justice of the Peace | Signature Date
 Justice of the Peace Signature Name
 Prostitution Act 2000 Application to vary or cancel a prostitution restraining order |  | Number
-Jurisdictionr Court of Petty Sessions r Children’s Court
+Jurisdictionr Magistrates Court r Children’s Court
 Location
 Applicant | r Police officer nominated by the Commissioner of Police
 Name
@@ -324,7 +324,7 @@ Variation or cancellation | Do you want the order to ber cancelledr varied If va
 Grounds for variation or cancellation | Why do you want the restraining order to be varied or cancelled?
 Signature of applicant |  | Date
 Hearing (To be filled in by the court) | Court | Date | Time
-Signature of clerk
+Signature of registrar
 Court copy
 Record of Proceedings
 Date | Attendance | Representation | Adjournments
@@ -334,7 +334,7 @@ _______________________________________________________________ Judicial Officer
 Clerk’s record
 Back of court copy
 Prostitution Act 2000 Application to vary or cancel a prostitution restraining order |  | Number
-Jurisdictionr Court of Petty Sessions r Children’s Court
+Jurisdictionr Magistrates Court r Children’s Court
 Location
 Applicant | r Police officer nominated by the Commissioner of Police
 Name
@@ -353,10 +353,10 @@ Variation or cancellation | Do you want the order to ber cancelledr varied If va
 Grounds for variation or cancellation | Why do you want the restraining order to be varied or cancelled?
 Signature of applicant |  | Date
 Hearing (To be filled in by the court) | Court | Date | Time
-Signature of clerk
+Signature of registrar
 Copy for person applying to vary or cancel
 Prostitution Act 2000 Application to vary or cancel a prostitution restraining order |  | Number
-Jurisdictionr Court of Petty Sessions r Children’s Court
+Jurisdictionr Magistrates Court r Children’s Court
 Location
 Applicant | r Police officer nominated by the Commissioner of Police
 Name
@@ -375,5 +375,6 @@ Variation or cancellation | Do you want the order to ber cancelledr varied If va
 Grounds for variation or cancellation | Why do you want the restraining order to be varied or cancelled?
 Signature of applicant |  | Date
 Hearing (To be filled in by the court) | Court | Date | Time
-Signature of clerk
+Signature of registrar
 Other party’s copy
+[Schedule 1 amended: Gazette 31 Jul 2007 p. 3799.]
