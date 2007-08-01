@@ -26,10 +26,7 @@ Statutory Corporations (Liability of Directors) (Act Amendment) Regulations 2004
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Land Information Authority Act 2006 s. 188 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Reprint 4: The Statutory Corporations (Liability of Directors) Act 1996 as at 9 Feb 2007 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2(1))
+Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
 The Insurance Commission of Western Australia Act 1986 Part III provides for the establishment of the State Government Insurance Corporation and for a board of directors of the Corporation. The Acts Amendment (ICWA) Act 1996 s. 20, which had not come into operation at the date on which this reprint was prepared, would repeal that Part.
 Formerly referred to the State Government Insurance Commission Act 1986 the short title of which was changed to the Insurance Commission of Western Australia Act 1986 by the Acts Amendment (ICWA) Act 1996 s. 5. The reference was substituted under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
@@ -39,20 +36,4 @@ The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as
 (1) The Governor, on the recommendation of the Minister, may make regulations amending subsidiary legislation made under any Act.
 (2) The Minister may make a recommendation under subsection (1) only if the Minister considers that each amendment proposed to be made by the regulations is necessary or desirable as a consequence of the enactment of the RWWA Act or this Act.
 (3) Nothing in this section prevents subsidiary legislation from being amended in accordance with the Act under which it was made.
-”.
-On the date as at which this compilation was prepared, the Chemistry Centre (WA) Act 2007 s. 43, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-43.Amendments to other Acts
-Schedule 3 has effect.
-”.
-Schedule 3 cl. 4 reads as follows:
-“
-Schedule 3 — Amendment of other written laws
-[s. 43]
-4.Statutory Corporations (Liability of Directors) Act 1996 amended
-(1) The amendment in this clause is to the Statutory Corporations (Liability of Directors) Act 1996.
-(2) Schedule 1 is amended by inserting after the item relating to the Busselton Water Board the following item —
-“
-Chemistry Centre (WA) | a member of the Board | Chemistry Centre (WA) Act 2007
-”.
 ”.

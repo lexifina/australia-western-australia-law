@@ -81,11 +81,11 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div. 2 | 28 o
 Reprint 7: The Public Sector Management Act 1994 as at 25 Aug 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 187 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 6, 7 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2(1))
 Now known as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The amendment in the Western Australian Greyhound Racing Association Amendment Act 1998 s. 20 is not included because of an error in the reference to the item to be amended. The same amendment was made by the Statutes (Repeals and Minor Amendments) Act 2000 s. 34(2) and then the provision amended was again amended by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 221(3).
@@ -94,19 +94,4 @@ On the date as at which this compilation was prepared, the State Superannuation 
 59.Public Sector Management Act 1994 amended
 The Public Sector Management Act 1994 is amended as follows:
 (a) by repealing section 20(1);
-On the date as at which this compilation was prepared, the Chemistry Centre (WA) Act 2007 s. 43, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-43.Amendments to other Acts
-Schedule 3 has effect.
-”.
-Schedule 3 cl. 3 reads as follows:
-“
-Schedule 3 — Amendment of other written laws
-[s. 43]
-3.Public Sector Management Act 1994 amended
-(1) The amendment in this clause is to the Public Sector Management Act 1994.
-(2) Schedule 2 is amended by inserting after item 3D the following item —
-“
-3E | Chemistry Centre (WA), established by the Chemistry Centre (WA) Act 2007
-”.
 ”.

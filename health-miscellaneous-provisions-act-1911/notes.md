@@ -118,13 +118,13 @@ Health Amendment Act 2006 | 23 of 2006 | 9 Jun 2006 | 7 Jul 2006 (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Land Information Authority Act 2006 s. 135 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
-Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2(1))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988.
 The Health Act Amendment Act 1900 is repealed by section 4 of this Act.
 Section 53B was repealed by the Health Act Amendment Act 1933 (No. 2) s. 6.
@@ -563,7 +563,8 @@ the commission of that offence by the employee.
 When a body corporate is convicted of an offence under this Part or the regulations, every director and every officer concerned in the management of the body corporate commits the same offence if he knowingly authorised or permitted the commission of that offence.
 ”.
 ”.
-Footnote no longer applicable.On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+Footnote no longer applicable.
+On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
 Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
@@ -608,21 +609,4 @@ Schedule 3 — Consequential amendments
 (2) Section 3(1) is amended by deleting the definition of “midwife” and inserting instead —
 “
 “midwife” has the meaning given to that term in section 3 of the Nurses and Midwives Act 2006;
-”.
-On the date as at which this compilation was prepared, the Chemistry Centre (WA) Act 2007 s. 43, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-43.Amendments to other Acts
-Schedule 3 has effect.
-”.
-Schedule 3 cl. 5 reads as follows:
-“
-Schedule 3 — Amendment of other written laws
-[s. 43]
-5.Various references to Director of the Chemistry Centre changed to chief executive officer of the Chemistry Centre
-Each provision listed in the Table to this clause is amended by deleting “Director” in each place where it occurs and inserting instead —
-“ chief executive officer ”.
-Table
-………
-Health Act 1911 | s. 246B(2)(b)
-………
 ”.

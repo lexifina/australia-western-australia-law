@@ -11,30 +11,10 @@ Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 
 Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 188 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
 Reprint of the Fluoridation of Public Water Supplies Act 1966 as at 3 Aug 2001 (includes amendments listed above)
 Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2(1))
+Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
 Repealed by the Commercial Arbitration Act 1985.
 The Acts Amendment (Chemistry Centre (WA)) Act 1990 s. 6 reads as follows:
 “
 6.Saving of certificates
 A certificate given under section 15 of the principal Act that purports to have been signed by the Director (Government Mineralogist, Analyst) of the Government Chemical Laboratories before the commencement of this Act shall continue to have effect as if this Act had not come into operation.
-”.
-On the date as at which this compilation was prepared, the Chemistry Centre (WA) Act 2007 s. 43, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-43.Amendments to other Acts
-Schedule 3 has effect.
-”.
-Schedule 3 cl. 5 reads as follows:
-“
-Schedule 3 — Amendment of other written laws
-[s. 43]
-5.Various references to Director of the Chemistry Centre changed to chief executive officer of the Chemistry Centre
-Each provision listed in the Table to this clause is amended by deleting “Director” in each place where it occurs and inserting instead —
-“ chief executive officer ”.
-Table
-Fluoridation of Public Water | s. 5(2)(d)
-Supplies Act 1966 | s. 15(3)
-…..
 ”.
