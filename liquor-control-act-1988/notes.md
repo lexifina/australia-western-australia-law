@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 July 2007 of the Liquor Control Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Liquor Control Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Liquor Licensing Act 1988 | 54 of 1988 | 9 Dec 1988 | s. 1 and 2: 9 Dec 1988; Act other than s. 1 and 2: 1 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
@@ -31,13 +31,13 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 4: The Liquor Licensing Act 1988 as at 9 Jun 2006 (includes amendments listed above)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 10 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
-Liquor and Gaming Legislation Amendment Act 2006 Pt. 2 (s. 3-26, 28-77, 79-82 and 84-111) | 73 of 2006 | 13 Dec 2006 | s. 6(1)(b) and (u), 67, 68 and 107: 17 Dec 2006 (see s. 2(2) and Gazette 15 Dec 2006 p. 5661); s. 3-5, 6(1)(a), (c)-(t), (v)-(z), (2)-(4), 7-26, 28-66, 69-77, 79-82, 84-106 and 108-111: 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
+Liquor and Gaming Legislation Amendment Act 2006 Pt. 2 (other than s. 27) | 73 of 2006 | 13 Dec 2006 | s. 6(1)(b) and (u), 67, 68 and 107: 17 Dec 2006 (see s. 2(2) and Gazette 15 Dec 2006 p. 5661); s. 3-5, 6(1)(a), (c)-(t), (v)-(z), (2)-(4), 7-26, 28-66, 69-77, 79-82, 84-106 and 108-111: 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893) s. 78 and 83: 1 Aug 2007 (see s. 2(2) and Gazette 20 Jul 2007 p. 3629)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 5: The Liquor Control Act 1988 as at 3 Jul 2007 (includes amendments listed above)
+Reprint 5: The Liquor Control Act 1988 as at 3 Jul 2007 (includes amendments listed above except those in the Liquor and Gaming Legislation Amendment Act 2006 s. 78 and 83)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
- | Short title | Number and year | Assent | Commencement
-Liquor and Gaming Legislation Amendment Act 2006 s. 27, 78 and 83 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
+Short title | Number and year | Assent | Commencement
+ | Liquor and Gaming Legislation Amendment Act 2006 s. 27 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Acts 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
@@ -46,7 +46,7 @@ Repealed by the Liquor Act 1970, which was repealed by this Act.
 Now known as the Liquor Control Act 1988; short title changed (see note under s. 1).
 The Courts Legislation Amendment Act 2000 s. 14 is a transitional provision that is of no further effect.
 The Liquor Licensing Amendment Act 2001 s. 5(2) and 6(2) are transitional provisions that are of no further effect.
-On the date as at which this reprint was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 27, 78 and 83 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 27 had not come into operation. It reads as follows:
 “
 27.Part 2 Division 7 replaced
 Part 2 Division 7 is repealed and the following Division is inserted instead —
@@ -76,25 +76,5 @@ the licensing authority is not required to give any reasons for the decision oth
 and
 (b) may take evidence consisting of or relating to confidential police information by way of an affidavit of a member of the Police Force of or above the rank of Superintendent.
 (7) The Commissioner of Police must not delegate the function of classifying information or documents as confidential police information except to a Deputy Commissioner of Police or an Assistant Commissioner of Police.
-”.
-78.Section 113A inserted
-After section 113 the following section is inserted —
-“
-113A.Licensees to include certain details on website
-Where —
-(a) an internet website is maintained by or on behalf of a licensee for the purpose of advertising, promoting or otherwise facilitating the business carried on under the licence; and
-(b) the licence is of a prescribed class,
-the licensee is to include on the website any information prescribed in respect of a licence of that class.
-Penalty: $5 000.
-”.
-83.Section 116A inserted
-After section 116 the following section is inserted in Part 4 Division 6 —
-“
-116A.Register of incidents at licensed premises to be maintained
-(1) A licensee must maintain a register of the incidents, of the prescribed kind, that take place at the licensed premises.
-Penalty: $5 000.
-(2) The register is to be maintained in a form acceptable to the Director and is to contain the prescribed information.
-(3) A licensee, or the employee or agent of a licensee, must, at the request of an authorised officer, make the register available for inspection by the authorised officer.
-Penalty: $5 000.
 ”.
 ”.
