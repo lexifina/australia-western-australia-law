@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 July 2007 of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Liquor Licensing Regulations 1989 | 27 Jan 1989 p. 209-61 | 1 Feb 1989 (see r. 2 and Gazette 27 Jan 1989 p. 263)
@@ -55,64 +55,11 @@ Reprint 5: The Liquor Licensing Regulations 1989 as at 7 Oct 2005 (includes amen
 Liquor Licensing Amendment Regulations (No. 3) 2005 | 14 Oct 2005 p. 4564-6 | 1 Jan 2006 (see r. 2)
 Liquor Licensing Amendment Regulations 2006 | 14 Feb 2006 p. 695-6 | 14 Feb 2006
 Liquor Licensing Amendment Regulations (No. 2) 2006 | 14 Nov 2006 p. 4734-5 | 1 Jan 2007 (see r. 2)
-Liquor Licensing Amendment Regulations 2007 (other than r. 18 and 19) | 1 May 2007 p. 1861-89 | r. 1 and 2: 1 May 2007 (see r. 2(a)); r. 3-17 and 20-26: 7 May 2007 (see r. 2(d))
-Reprint 6: The Liquor Control Regulations 1989 as at 6 Jul 2007 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Liquor Licensing Amendment Regulations 2007 r. 18 and 19 | 1 May 2007 p. 1861-89 | r. 18: operative on commencement of the Liquor and Gaming Legislation Amendment Act 2006 s. 78 (see r. 2(b)); r. 19: operative on commencement of the Liquor and Gaming Legislation Amendment Act 2006 s. 83 (see r. 2(c))
+Liquor Licensing Amendment Regulations 2007 | 1 May 2007 p. 1861-89 | r. 1 and 2: 1 May 2007 (see r. 2(a)); r. 3-17 and 20-26: 7 May 2007 (see r. 2(d)) r. 18 and 19: 1 Aug 2007 (see r. 2(b) and (c) and Gazette 20 Jul 2007 p. 3629
+Reprint 6: The Liquor Control Regulations 1989 as at 6 Jul 2007 (includes amendments listed above except those in the Liquor Licensing Amendment Regulations 2007 r. 18 and 19)
 Commenced 7 May 2007.
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now known as the Liquor Control Regulations 1989; citation changed (see note under r. 1).
 Disallowed on 26 Apr 1992, see Gazette 1 May 1992 p. 1844.
 The Liquor Licensing Amendment Regulations (No. 2) 2001 r. 2(3) and (4) are transitional provisions that are of no further effect.
 The amendments in the Liquor Licensing Amendment Regulations 2004 r. 3 and 5 are not included because of an error in the reference to the provisions to be amended.
-On the date as at which this reprint was prepared, the Liquor Licensing Amendment Regulations 2007 r. 18 and 19 had not come into operation. They read as follows:
-“
-18.Regulation 18EA inserted
-After regulation 18E the following regulation is inserted —
-“
-18EA.Information to be included on internet websites of certain licensees — section 113A
-(1) This regulation applies to —
-(a) a hotel licence; and
-(b) a liquor store licence; and
-(c) a producer’s licence; and
-(d) a wholesaler’s licence; and
-(e) a special facility licence that authorises the sale or supply of packaged liquor.
-(2) For the purposes of section 113A, the information to be included on an internet website maintained by or on behalf of a licensee of a licence of a class to which this regulation applies is —
-(a) the licence number; and
-(b) the class of licence; and
-(c) the name of the licensee; and
-(d) the address of and telephone number for the licensed premises; and
-(e) the following notice —
-WARNING
-Under the Liquor Control Act 1988, it is an offence:
-·to sell or supply liquor to a person under the age of 18 years on licensed or regulated premises; or
-·for a person under the age of 18 years to purchase, or attempt to purchase, liquor on licensed or regulated premises.
-(3) The information to be included on an internet website under subregulation (2) is to be displayed on the home page or front page of the internet website.
-”.
-19.Regulation 18EB inserted
-Before regulation 18F the following regulation is inserted —
-“
-18EB.Incidents to be included in register — section 116A
-(1) For the purposes of section 116A(1), the following incidents that take place at licensed premises are prescribed —
-(a) a person is refused entry to, required to leave or removed from the premises;
-(b) a juvenile or suspected juvenile fails to produce evidence of age when required to do so;
-(c) a document produced by a juvenile or suspected juvenile as evidence of age is suspected to be forged, false or counterfeit;
-(d) a person engages in indecent behaviour;
-(e) a person is drunk;
-(f) a person (including a person employed or engaged in the business conducted under the licence) is injured;
-(g) a local resident or other person complains to the licensee, an approved manager or an employee about noise or any other matter related to the business conducted under the licence.
-(2) For the purposes of section 116A(2), the following information is prescribed in relation to an incident that takes place at licensed premises —
-(a) the name of the premises;
-(b) details of the incident;
-(c) the date and time when the incident took place;
-(d) the location at the premises where the incident took place;
-(e) the full name of any person employed or engaged in the business conducted under the licence, or any crowd controller, who was present when the incident took place;
-(f) details of any action taken by the licensee, an approved manager or an employee in response to the incident, including any action taken to notify the licensing authority or a member of the Police Force or any other person engaged in providing emergency services.
-(3) In subregulation (2)(e) —
-“crowd controller”, in relation to licensed premises, means a person who —
-(a)holds a crowd controller’s licence; and
-(b)is employed by a crowd control agent engaged under a contract for services by the licensee or occupier or a manager of the licensed premises to supply the services of crowd controllers at those premises.
-”.
-”.
