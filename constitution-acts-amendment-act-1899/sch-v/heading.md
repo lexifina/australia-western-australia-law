@@ -1,6 +1,6 @@
 ## Schedule V
-[Heading inserted by No. 78 of 1984 s. 14.]
 [Sections 34 and 37]
+[Heading inserted by No. 78 of 1984 s. 14.]
 ## Part 1
 [Heading inserted by No. 78 of 1984 s. 14.]
 ## Division 1
@@ -95,7 +95,7 @@ Any advisory panel appointed under Part 6 of the Land Administration Act 1997.
 Agricultural Practices Board of Western Australia.
 The Agricultural Produce Commission or any producers’ committee established under the Agricultural Produce Commission Act 1988.
 The Agriculture Protection Board of Western Australia constituted under the Agriculture Protection Board Act 1950.
-The Air Pollution Control Council established by the Clean Air Act 1964
+The Air Pollution Control Council established by the Clean Air Act 1964.
 The Albany Port Authority established under the Port Authorities Act 1999.
 The Anaesthetic Mortality Committee constituted under the Health Act 1911.
 The Animal Resources Authority established by the Animal Resources Authority Act 1981.
@@ -268,7 +268,7 @@ The Western Australia Marine Manning Committee established by the Western Austra
 The Western Australian Arts Council established by the Western Australian Arts Council Act 1973.
 The Western Australian Coastal Shipping Commission established by the Western Australian Coastal Shipping Commission Act 1965.
 The Western Australian College of Teaching established by the Western Australian College of Teaching Act 2004.
-The Western Australian Health Promotion Foundation established under the Tobacco Products Control Act 2005.
+The Western Australian Health Promotion Foundation established under the Tobacco Products Control Act 2006.
 The Western Australian Herbarium Committee responsible to the Minister for Agriculture.
 The Western Australian Heritage Committee responsible to the Minister for the Environment.
 The Western Australian Local Government Grants Commission established under the Local Government Grants Act 1978.

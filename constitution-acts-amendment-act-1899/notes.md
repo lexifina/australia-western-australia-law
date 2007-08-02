@@ -1,61 +1,61 @@
 Notes
-This is a compilation of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 August 2007 of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
- | Constitution Acts Amendment Act 1899 | 63 Vict. No. 19 | 18 May 1900 | 18 May 1900 (see s. 52 and Gazette 18 May 1900 p. 1686) Reserved for Royal Assent 16 Dec 1899
- | Untitled Act | 64 Vict. No. 2 | 25 Sep 1900 | 25 Sep 1900
- | Electoral Act 1904 s. 14 | 20 of 1904 | 16 Jan 1904 | 22 Apr 1904 (see Interpretation Act 1918 s. 8 and Gazette 22 Apr 1904 p. 1047) Reserved for Royal Assent 16 Jan 1904
- | Electoral Act 1907 s. 211 | 27 of 1907 | 20 Dec 1907 | 20 Dec 1907
- | Constitution Acts Amendment Act 1911 | 31 of 1911 | 16 Feb 1911 | 16 Feb 1911
- | Legislative Assembly Duration Act 1919 s. 2 | 48 of 1919 | 17 Dec 1919 | 17 Dec 1919
- | Parliament (Qualification of Women) Act 1920 s. 2(2) | 7 of 1920 | 3 Nov 1920 | 3 Nov 1920
- | Constitution Act Amendment Act 1921 s. 2 | 34 of 1921 | 30 Dec 1921 | 30 Dec 1921
- | Constitution Act Amendment Act 1927 | 25 of 1927 | 14 Dec 1927 | 14 Dec 1927 (see s. 1 and Gazette 14 Dec 1927 p. 2743)
- | Constitution Acts Amendment Act 1933 | 25 of 1933 (as amended by No. 46 of 1963 s. 10) | 1 Dec 1933 | 1 Dec 1933
- | Constitution Acts Amendment Act 1934 | 40 of 1934 | 4 Jan 1935 | 4 Jan 1935
- | Constitution Acts Amendment Act 1942 | 29 of 1942 (as amended by No. 46 of 1963 s. 10) | 23 Dec 1942 | 23 Dec 1942
- | Constitution Acts Amendment Act (No. 4) 1945 | 52 of 1945 | 30 Jan 1946 | 30 Jan 1946
- | Constitution Acts Amendment Act (No. 1) 1947 | 2 of 1947 | 26 Sep 1947 | 14 Dec 1927 (see s. 3)
- | Constitution Acts Amendment (Re-election of Ministers) Act 1947 | 4 of 1947 (as amended by No. 46 of 1963 s. 10) | 2 Oct 1947 | 2 Oct 1947
- | Acts Amendment (Allowances and Salaries Adjustment) Act 1947 s. 4 | 52 of 1947 | 19 Dec 1947 | 19 Dec 1947
- | Constitution Acts Amendment Act (No. 1) 1948 | 12 of 1948 (as amended by No. 46 of 1963 s. 10) | 11 Nov 1948 | 12 Jun 1947 (see s. 4)
- | Acts Amendment (Increase in number of Judges of the Supreme Court) Act 1949 s. 3 | 17 of 1949 | 24 Sep 1949 | 24 Sep 1949 (commencement date amended by No. 35 of 1950 s. 4)
- | Acts Amendment (Increase in number of Ministers of the Crown) Act 1950 s. 2 | 2 of 1950 | 24 Oct 1950 | 24 Oct 1950
- | Judges’ Salaries and Pensions Act 1950 s. 4 | 35 of 1950 | 16 Dec 1950 | 16 Dec 1950
- | Constitution Acts Amendment Act (No. 2) 1950 | 45 of 1950 (as amended by No. 46 of 1963 s. 10) | 18 Dec 1950 | 18 Dec 1950
- | Constitution Acts Amendment Act (No. 4) 1950 | 63 of 1950 | 29 Dec 1950 | 29 Dec 1950
- | Constitution Acts Amendment Act (No. 2) 1954 | 32 of 1954 | 18 Nov 1954 | 18 Nov 1954
- | Constitution Acts Amendment Act 1955 | 34 of 1955 | 28 Nov 1955 | 28 Nov 1955
- | Constitution Acts Amendment Act (No. 3) 1955 | 48 of 1955 | 25 Jan 1956 | 4 May 1956 (see Interpretation Act 1918 s. 8 and Gazette 4 May 1956 p. 1147) Reserved for Royal Assent 9 Dec 1955
- | Constitution Acts Amendment Act 1958 | 2 of 1958 | 19 Sep 1958 | 19 Sep 1958
- | Constitution Acts Amendment Act (No. 3) 1959 | 71 of 1959 | 8 Feb 1960 | 25 Mar 1960 (see Interpretation Act 1918 s. 8 and Gazette 25 Mar 1960 p. 883) Reserved for Royal Assent 10 Dec 1959
- | Constitution Acts Amendment Act (No. 2) 1962 | 48 of 1962 | 20 Nov 1962 | 20 Nov 1962
- | Constitution Acts Amendment and Revision Act 1963 | 46 of 1963 | 3 Dec 1963 | 3 Dec 1963
- | Constitution Acts Amendment Act (No. 2) 1963 | 72 of 1963 | 17 Dec 1963 | 26 Mar 1964 (see s. 2 and Gazette 6 Mar 1964 p. 993)
+ | Constitution Acts Amendment Act 1899 | 1899 (63 Vict. No. 19) | 18 May 1900 | 18 May 1900 (see s. 52 and Gazette 18 May 1900 p. 1686). Reserved for Royal Assent 16 Dec 1899
+ | Untitled Act | 1900 (64 Vict. No. 2) | 25 Sep 1900 | 25 Sep 1900
+ | Electoral Act 1904 s. 14 | 20 of 1904 (3 Edw. VII No. 35) | 16 Jan 1904 | 22 Apr 1904 (see Interpretation Act 1918 s. 8 and Gazette 22 Apr 1904 p. 1047). Reserved for Royal Assent 16 Jan 1904
+ | Electoral Act 1907 s. 211 | 27 of 1907 (7 Edw. VII No. 27) | 20 Dec 1907 | 20 Dec 1907
+ | Constitution Acts Amendment Act 1911 | 31 of 1911 (1 Geo. V No. 42) | 16 Feb 1911 | 16 Feb 1911
+ | Legislative Assembly Duration Act 1919 s. 2 | 48 of 1919 (10 Geo. V No. 36) | 17 Dec 1919 | 17 Dec 1919
+ | Parliament (Qualification of Women) Act 1920 s. 2(2) | 7 of 1920 (11 Geo. V No. 7) | 3 Nov 1920 | 3 Nov 1920
+ | Constitution Act Amendment Act 1921 s. 2 | 34 of 1921 (12 Geo. V No. 34) | 30 Dec 1921 | 30 Dec 1921
+ | Constitution Act Amendment Act 1927 | 25 of 1927 (18 Geo. V No. 25) | 14 Dec 1927 | 14 Dec 1927 (see s. 1 and Gazette 14 Dec 1927 p. 2743)
+ | Constitution Acts Amendment Act 1933 | 25 of 1933 (24 Geo. V No. 25) (as amended by No. 46 of 1963 s. 10) | 1 Dec 1933 | 1 Dec 1933
+ | Constitution Acts Amendment Act 1934 | 40 of 1934 (25 Geo. V No. 39) | 4 Jan 1935 | 4 Jan 1935
+ | Constitution Acts Amendment Act 1942 | 29 of 1942 (6 & 7 Geo. VI No. 29) (as amended by No. 46 of 1963 s. 10) | 23 Dec 1942 | 23 Dec 1942
+ | Constitution Acts Amendment Act Amendment Act (No. 4) 1945 | 52 of 1945 (9 & 10 Geo. VI No. 52) | 30 Jan 1946 | 30 Jan 1946
+ | Constitution Acts Amendment Act (No. 1) 1947 | 2 of 1947 (11 Geo. VI No. 2) | 26 Sep 1947 | 14 Dec 1927 (see s. 3)
+ | Constitution Acts Amendment (Re-election of Ministers) Act 1947 | 4 of 1947 (11 Geo. VI No. 4) (as amended by No. 46 of 1963 s. 10) | 2 Oct 1947 | 2 Oct 1947
+ | Acts Amendment (Allowances and Salaries Adjustment) Act 1947 s. 4 | 52 of 1947 (11 & 12 Geo. VI No. 52) | 19 Dec 1947 | 19 Dec 1947
+ | Constitution Acts Amendment Act (No. 1) 1948 | 12 of 1948 (12 Geo. VI No. 12) (as amended by No. 46 of 1963 s. 10) | 11 Nov 1948 | 12 Jun 1947 (see s. 4)
+ | Acts Amendment (Increase in number of Judges of the Supreme Court) Act 1949 s. 3 | 17 of 1949 (13 Geo. VI No. 103) | 24 Sep 1949 | 24 Sep 1949 (commencement date amended by No. 35 of 1950 s. 4)
+ | Acts Amendment (Increase in number of Ministers of the Crown) Act 1950 s. 2 | 2 of 1950 (14 Geo. VI No. 2) | 24 Oct 1950 | 24 Oct 1950
+ | Judges’ Salaries and Pensions Act 1950 s. 4 | 35 of 1950 (14 & 15 Geo. VI No. 35) | 16 Dec 1950 | 16 Dec 1950
+ | Constitution Acts Amendment Act (No. 2) 1950 | 45 of 1950 (14 & 15 Geo. VI No. 45) (as amended by No. 46 of 1963 s. 10) | 18 Dec 1950 | 18 Dec 1950
+ | Constitution Acts Amendment Act (No. 4) 1950 | 63 of 1950 (14 & 15 Geo. VI No. 63) | 29 Dec 1950 | 29 Dec 1950
+ | Constitution Acts Amendment Act (No. 2) 1954 | 32 of 1954 (3 Eliz. II No. 32) | 18 Nov 1954 | 18 Nov 1954
+ | Constitution Acts Amendment Act 1955 | 34 of 1955 (4 Eliz. II No. 34) | 28 Nov 1955 | 28 Nov 1955
+ | Constitution Acts Amendment Act (No. 3) 1955 | 48 of 1955 (4 Eliz. II No. 48) | 4 May 1956 | 4 May 1956 (see Interpretation Act 1918 s. 8 and Gazette 4 May 1956 p. 1147). Reserved for Royal Assent 9 Dec 1955
+ | Constitution Acts Amendment Act 1958 | 2 of 1958 (7 Eliz. II No. 2) | 19 Sep 1958 | 19 Sep 1958
+ | Constitution Acts Amendment Act (No. 3) 1959 | 71 of 1959 (8 Eliz. II No. 71) | 8 Feb 1960 | 25 Mar 1960 (see Interpretation Act 1918 s. 8 and Gazette 25 Mar 1960 p. 883). Reserved for Royal Assent 10 Dec 1959
+ | Constitution Acts Amendment Act (No. 2) 1962 | 48 of 1962 (11 Eliz. II No. 48) | 20 Nov 1962 | 20 Nov 1962
+ | Constitution Acts Amendment and Revision Act 1963 | 46 of 1963 (12 Eliz. II No. 46) | 3 Dec 1963 | 3 Dec 1963
+ | Constitution Acts Amendment Act (No. 2) 1963 | 72 of 1963 (12 Eliz. II No. 72) | 17 Dec 1963 | 26 Mar 1964 (see s. 2 and Gazette 6 Mar 1964 p. 993)
  | Reprint of the Constitution Acts Amendment Act 1899 approved 30 Nov 1964 (not in Volume) (includes amendments listed above)
  | Constitution Acts Amendment Act 1965 | 2 of 1965 | 13 Aug 1965 | 13 Aug 1965
  | Constitution Acts Amendment Act (No. 2) 1965 | 49 of 1965 | 8 Nov 1965 | 12 Nov 1965 (see s. 2 and Gazette 12 Nov 1965 p. 3913)
- | Constitution Acts Amendment Act (No. 3) 1965 | 105 of 1965 | 10 Mar 1966 | 29 Apr 1966 (see Interpretation Act 1918 s. 8 and Gazette 29 Apr 1966 p. 1017) Reserved for Royal Assent 20 Dec 1965
  | Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
+ | Constitution Acts Amendment Act (No. 3) 1965 | 105 of 1965 | 10 Mar 1966 | 29 Apr 1966 (see Interpretation Act 1918 s. 8 and Gazette 29 Apr 1966 p. 1017). Reserved for Royal Assent 20 Dec 1965
  | Reprint of the Constitution Acts Amendment Act 1899 approved 23 Jan 1967 (in Vol. 20 of Reprinted Acts) (includes amendments listed above)
- | Constitution Acts Amendment Act 1969 | 111 of 1969 | 4 Feb 1970 | 20 Mar 1970 (see Interpretation Act 1918 s. 8 and Gazette 20 Mar 1970 p. 843) Reserved for Royal Assent 25 Nov 1969
+ | Constitution Acts Amendment Act 1969 | 111 of 1969 | 4 Feb 1970 | 20 Mar 1970 (see Interpretation Act 1918 s. 8 and Gazette 20 Mar 1970 p. 843). Reserved for Royal Assent 25 Nov 1969
  | Reprint of the Constitution Acts Amendment Act 1899 approved 18 May 1971 (includes amendments listed above)
  | Constitution Acts Amendment Act 1972 | 9 of 1972 | 25 May 1972 | 25 May 1972
  | Constitution Acts Amendment Act 1973 | 52 of 1973 | 6 Nov 1973 | 1 Jan 1974 (see s. 2 and Gazette 28 Dec 1973 p. 4725)
- | Constitution Acts Amendment Act 1974 | 30 of 1974 | 4 Dec 1974 | 28 Feb 1975 (see Interpretation Act 1918 s. 8 and Gazette 28 Feb 1975 p. 719) Reserved for Royal Assent 1 Nov 1974
+ | Constitution Acts Amendment Act 1974 | 30 of 1974 | 4 Dec 1974 | 28 Feb 1975 (see Interpretation Act 1918 s. 8 and Gazette 28 Feb 1975 p. 719). Reserved for Royal Assent 1 Nov 1974
  | Constitution Acts Amendment Act 1975 | 15 of 1975 | 9 May 1975 | 9 May 1975
  | Constitution Acts Amendment Act (No. 2) 1975 | 71 of 1975 | 7 Nov 1975 | 7 Nov 1975
  | Constitution Acts Amendment Act (No. 4) 1975 | 86 of 1975 | 20 Nov 1975 | 20 Nov 1975
  | Constitution Acts Amendment (No. 3) Act 1975 | 111 of 1975 | 1 Dec 1975 | 1 Dec 1975
  | Constitution Acts Amendment Act 1977 | 28 of 1977 | 31 Oct 1977 | 31 Oct 1977
- | Acts Amendment (Constitution) Act 1978 Pt. II | 59 of 1978 | 15 Nov 1978 | 22 Dec 1978 (see Interpretation Act 1918 s. 8 and Gazette 22 Dec 1978 p. 4769-70) Reserved for Royal Assent 20 Sep 1978
+ | Acts Amendment (Constitution) Act 1978 Pt. II | 59 of 1978 | 15 Nov 1978 | 22 Dec 1978 (see Interpretation Act 1918 s. 8 and Gazette 22 Dec 1978 p. 4769-70). Reserved for Royal Assent 20 Sep 1978
  | Constitution Amendment Act (No. 2) 1980 | 4 of 1980 | 9 Sep 1980 | 9 Sep 1980
  | Constitution Amendment Act 1980 | 5 of 1980 | 9 Sep 1980 | 9 Sep 1980
  | Acts Amendment (Electoral Provinces and Districts) Act 1981 Pt. I | 13 of 1981 | 22 May 1981 | 22 May 1981
  | Constitution Amendment Act 1983 | 8 of 1983 | 29 Sep 1983 | 26 Jan 1984 (see s. 2 and Gazette 20 Jan 1984 p. 119)
  | Reprint of the Constitution Acts Amendment Act 1899 approved 26 Jun 1984 (includes amendments listed above)
  | Acts Amendment and Repeal (Disqualification for Parliament) Act 1984 Pt. V | 78 of 1984 | 14 Nov 1984 | 1 Jul 1985 (see s. 2 and Gazette 17 May 1985 p. 1671)
- | Constitution Amendment Act 1984 | 75 of 1984 | 20 Mar 1985 | 14 Jun 1985 (see Interpretation Act 1984 s. 20(3) and Gazette 14 Jun 1985 p. 2133) Reserved for Royal Assent 4 Feb 1985
+ | Constitution Amendment Act 1984 | 75 of 1984 | 20 Mar 1985 | 14 Jun 1985 (see Interpretation Act 1984 s. 20(3) and Gazette 14 Jun 1985 p. 2133). Reserved for Royal Assent 4 Feb 1985
  | Constitution Amendment Act 1986 | 10 of 1986 | 22 Jul 1986 | 22 Jul 1986 (see s. 2)
  | Liquor Amendment Act (No. 2) 1986 Pt. IV | 97 of 1986 | 11 Dec 1986 | 11 Feb 1987 (see s. 2(3) and Gazette 6 Feb 1987 p. 287)
  | Western Australia Sports Centre Trust Act 1986 s. 23 | 101 of 1986 | 12 Dec 1986 | 24 Dec 1986 (see s. 2 and Gazette 24 Dec 1986 p. 4963)
@@ -100,7 +100,7 @@ Compilation table
  | Pilbara Development Commission Act 1992 s. 25 | 59 of 1992 | 11 Dec 1992 | 1 Jul 1993 (see s. 2 and Gazette 1 Jul 1993 p. 3209)
  | Freedom of Information Act 1992 Pt. 7 | 76 of 1992 | 15 Dec 1992 | 1 Nov 1993 (see s. 2 and Gazette 29 Oct 1993 p. 5881)
  | Disability Services Act 1992 s. 41 | 77 of 1992 | 18 Dec 1992 | 8 Apr 1993 (see s. 2(1) and Gazette 8 Apr 1993 p. 2033)
- | Reprint of the Constitution Acts Amendment Act 1899 as at 6 Apr 1993 (includes amendments listed above except those in the Soil and Land Conservation Amendment Act 1990 Sch. 3 it. 1(b), the Nurses Act 1992, the Pilbara Development Commission Act 1992, the Freedom of Information Act 1992 and the Disability Services Act 1992)
+ | Reprint of the Constitution Acts Amendment Act 1899 as at 6 Apr 1993 (includes amendments listed above except those in the Soil and Land Conservation Amendment Act 1990 Sch. it. 1(b), the Nurses Act 1992, the Pilbara Development Commission Act 1992, the Freedom of Information Act 1992 and the Disability Services Act 1992)
  | Local Government (Superannuation) Amendment and Repeal Act 1993 s. 15 | 2 of 1993 | 18 Aug 1993 | 1 Jul 1993 (see s. 2)
  | Rural Adjustment and Finance Corporation Act 1993 s. 56 | 10 of 1993 | 6 Oct 1993 | 24 Dec 1993 (see s. 2 and Gazette 24 Dec 1993 p. 6796)
  | Workplace Agreements Act 1993 s. 103 | 13 of 1993 | 23 Nov 1993 | 1 Dec 1993 (see s. 2 and Gazette 30 Nov 1993 p. 6439)
@@ -125,7 +125,7 @@ Compilation table
  | Young Offenders Act 1994 s. 236 | 104 of 1994 | 11 Jan 1995 | 13 Mar 1995 (see s. 2 and Gazette 10 Mar 1995 p. 895)
  | Planning Legislation Amendment Act (No. 2) 1994 s. 46(5) | 84 of 1994 | 13 Jan 1995 | 1 Mar 1995 (see s. 2 and Gazette 21 Feb 1995 p. 567)
  | Industrial Legislation Amendment Act 1995 s. 23 | 1 of 1995 | 9 May 1995 | 9 May 1995 (see s. 2(1))
- | Reprint of the Constitution Acts Amendment Act 1899 as at 17 May 1995 (includes amendments listed above except those in the Soil and Land Conservation Amendment Act 1990 Sch. 3 it. 1(b), the Meat Industry Legislation (Amendment and Repeal) Act 1993, the Fish Resources Management Act 1994 and the Mines Safety and Inspection Act 1994)
+ | Reprint of the Constitution Acts Amendment Act 1899 as at 17 May 1995 (includes amendments listed above except those in the Soil and Land Conservation Amendment Act 1990 Sch. it. 1(b), the Meat Industry Legislation (Amendment and Repeal) Act 1993, the Fish Resources Management Act 1994 and the Mines Safety and Inspection Act 1994)
  | Marketing of Potatoes Amendment Act 1995 s. 58(1) | 11 of 1995 | 30 Jun 1995 | 4 Sep 1995 (see s. 2 and Gazette 1 Sep 1995 p. 4063)
  | Bank of Western Australia Act 1995 s. 44 | 14 of 1995 | 4 Jul 1995 | 1 Dec 1995 (see s. 2 and Gazette 29 Nov 1995 p. 5529)
  | Agricultural Practices (Disputes) Act 1995 s. 23 | 26 of 1995 | 6 Sep 1995 | 26 Jun 1996 (see s. 2 and Gazette 25 Jun 1996 p. 2901)
@@ -219,24 +219,25 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 and Gazette 4 May 2007 p. 1963)
  | Optometrists Act 2005 s. 109 | 29 of 2005 | 12 Dec 2005 | 20 Apr 2007 (see s. 2 and Gazette 30 Mar 2007 p. 1451)
  | Podiatrists Act 2005 s. 109 | 30 of 2005 | 12 Dec 2005 | 30 May 2007 (see s. 2 and Gazette 29 May 2007 p. 2486)
- | Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | 23 Feb 2007 (see s. 2 and Gazette 20 Feb 2007 p. 505)
  | Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
+ | Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | 23 Feb 2007 (see s. 2 and Gazette 20 Feb 2007 p. 505)
  | Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | 30 May 2007 (see s. 2 and Gazette 29 May 2007 p. 2486)
- | Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
  | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+ | Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
  | Tobacco Products Control Act 2006 s. 126 | 5 of 2006 | 12 Apr 2006 | 31 Jul 2006 (see s. 2 and Gazette 25 Jul 2006 p. 2701)
- | Reprint 14: The Constitution Acts Amendment Act 1899 as at 21 Apr 2006 (includes amendments listed above except those in the Psychologists Act 2005, the Optometrists Act 2005, the Podiatrists Act 2005, the Physiotherapists Act 2005, the Osteopaths Act 2005, the Tobacco Products Control Act 2006, the Chiropractors Act 2005 and the Occupational Therapists Act 2005)
+ | Reprint 14: The Constitution Acts Amendment Act 1899 as at 21 Apr 2006 (includes amendments listed above except those in the Psychologists Act 2005, the Optometrists Act 2005, the Podiatrists Act 2005, the Chiropractors Act 2005, the Physiotherapists Act 2005, the Osteopaths Act 2005, the Occupational Therapists Act 2005 and the Tobacco Products Control Act 2006)
  | Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | 1 Jul 2007 (see s. 2 and Gazette 26 Jun 2007 p. 3013)
- | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+ | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
  | Parole and Sentencing Legislation Amendment Act 2006 s. 89 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
  | Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 4 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
  | Parliamentary Legislation Amendment Act 2006 Pt. 2 | 56 of 2006 | 16 Nov 2006 | 17 Nov 2006 (see s. 2)
  | Land Information Authority Act 2006 s. 185 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
- | Electoral Legislation Amendment Act 2006 Pt. 2 | 64 of 2006 | 8 Dec 2006 | 5 Mar 2007 (see s. 2 and Gazette 2 Mar 2007 p. 689)
+ | Electoral Legislation Amendment Act 2006 Pt. 2 | 64 of 2006 | 8 Dec 2006 | 5 Mar 2007 (see s. 2(2) and Gazette 2 Mar 2007 p. 689)
  | Liquor and Gaming Legislation Amendment Act 2006 s. 116 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
- | Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+ | Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
  | Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the compilation. For the text of the provisions see the endnotes referred to in the table.
+ | Reprint 15: The Constitution Acts Amendment Act 1899 as at 2 Aug 2007 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 s. 57 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
@@ -252,7 +253,6 @@ The Tobacco Control Act 1990 s. 35(2) reads as follows:
 Now see Electoral Distribution Act 1947.
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
-Repealed by the Liquor Licensing Act 1988.
 Relevant provisions repealed by the Health Amendment Act 1985.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Relevant provisions repealed by the Agricultural Products Amendment Act 1985.
@@ -266,31 +266,32 @@ Relevant provisions repealed by the Consumer Affairs Amendment Act 1981.
 Repealed by the Acts Amendment and Repeal (Statutory Bodies) Act 1985.
 Under the Environmental Protection Act 1986 Sch. 3 cl. 20, a reference to an environmental appeal board shall be construed as a reference to an appeals committee.
 Repealed by the Environmental Protection Act 1986.
-Committee not in existence at the date of this reprint.
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
 Repealed by the Legislative Review and Advisory Committee Repeal Act 1987.
 The Mine Workers’ Relief Board was dissolved. See the Mine Workers’ Relief Act 1932 Sch. 2 para. 3.
 Repealed by the Minerals and Energy Research Act 1987.
 Repealed by the Local Government (Qualifications of Municipal Officers) Regulations 1984 in Gazette 24 Aug 1984 p. 2602.
+Repealed by the Statute Law Revision Act 2006 s. 3(1).
 Repealed by the Conservation and Land Management Act 1984.
 Now titled the Geographic Names Committee and responsible to the Minister for Lands.
 The Pastoral Appraisement Board was superseded by the Pastoral Board — see the Land Act 1933 s. 98. The Land Act 1933 was subsequently repealed by the Land Administration Act 1997, s. 94 of which establishes the Pastoral Lands Board of Western Australia.
 The Education Regulations 1960 were repealed by School Education Act 1999.
 The Mines Regulation Act Regulations 1976 r. 2.7 was repealed in Gazette 15 Mar 1991 p. 1167.
 Relevant provisions repealed by the Solar Energy Research Amendment Act 1987.
-Repealed by the Censorship Act 1996.
+Repealed by the Censorship Act 1996, now known as the Classification (Publications, Films and Computer Games) Enforcement Act 1996.
 Repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 Repealed by the Cemeteries Act 1986. The former body corporate continued under the name “Karrakatta Cemetery Board” — see Sch. 2 cl. 4 of that Act.
-This Council was not in existence at the date of this compilation.
+This Council was not in existence at the date of this reprint.
 Relevant provisions repealed by the Agricultural Legislation Amendment and Repeal Act 1998 s. 21.
 Repealed by the Western Australian Arts Council Repeal Act 1986.
+Committee not in existence at the date of this reprint.
 Repealed by the Acts Amendment and Repeal (Post Secondary Education) Act 1989.
 This Act expired 7 Jun 1991.
 Repealed by the Wheat Marketing Act 1984, which was repealed by the Wheat Marketing Act 1989.
 This Act expired 31 Oct 1984.
 Relevant provisions repealed by the Acts Amendment (Conservation and Land Management) Act 1984.
 Repealed by the Youth, Sport and Recreation Repeal Act 1984.
-Marginal notes in the Constitution Acts Amendment Act 1899 referring to the legislation from which provisions were derived have been omitted from the compilation.
+Marginal notes in the Constitution Acts Amendment Act 1899 referring to the legislation from which provisions were derived have been omitted from the reprint.
 The Motor Vehicle Dealers Amendment Act 2003 s. 25 and 26 read as follows:
 “
 25.Transitional provision: membership of Board
@@ -305,7 +306,7 @@ The persons who were members of the Motor Vehicle Dealers Licensing Board immedi
 (3) On and after the commencement of this Act a reference to the “Motor Vehicle Dealers Licensing Board” in any instrument (including any subsidiary legislation) is to be construed, unless the context otherwise requires, as if the reference had been amended to be a reference to the “Motor Vehicle Industry Board”.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The Criminal Law Amendment (Simple Offence) Act 2004 s. 81(4) and (5) read as follows:
+The Criminal Law Amendment (Simple Offences) Act 2004 s. 81(4) and (5) read as follows:
 “
 (4) A person who is a member of the Legislative Assembly or the Legislative Council immediately before the commencement —
 (a) does not become disqualified, on the commencement, for membership of the Legislative Assembly or the Legislative Council for the purposes of section 38(b) or 40(b) of the Constitution Acts Amendment Act 1899; and
@@ -314,7 +315,7 @@ by reason only of a conviction that occurred before the commencement.
 (5) In subsection (4) —
 “commencement” means the commencement of this section.
 ”.
-On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 1991 s. 57, which gives effect to the Schedule, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Conservation and Land Management Amendment Act 1991 s. 57, which gives effect to the Schedule, had not come into operation. It reads as follows:
 “
 57.Consequential amendments to other Acts
 The Acts referred to in the column of the Schedule are amended in the manner set out in the second column.
@@ -323,7 +324,7 @@ Item 1 of the Schedule reads as follows:
 “
 1.Constitution Acts Amendment Act 1899 | In Schedule V, in Part 3, the following item is inserted in the appropriate alphabetical position — “The Nature Conservation Trust of Western Australia established under Part IXA of the Conservation and Land Management Act 1984.”.
 ”.
-On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3Consequential amendments
 Schedule 2 has effect.
@@ -337,27 +338,7 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
 ”.
-50-58Footnotes no longer applicable.
-Repealed by the Statute Law Revision Act 2006 s. 3(1).
-Repealed by the Statute Law Revision Act 2006 s. 3(1).
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Owner-Drivers (Contracts and Disputes) Act 2007 s. 58, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-58.Consequential amendments
-The Acts mentioned in Schedule 3 are amended as set out in that Schedule.
-”.
-Schedule 3 cl. 2 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 58]
-2.Constitution Acts Amendment Act 1899 amended
-(1) The amendment in this clause is to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended by inserting after the item relating to the Road Safety Council the following item —
-“
-The Road Freight Transport Industry Council established under the Owner-Drivers (Contracts and Disputes) Act 2007.
-”.
-”.
-On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Schedule 1, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Schedule 1, had not come into operation. It reads as follows:
 “
 65.Consequential amendments
 The Acts mentioned in Schedule 1 are amended as set out in that Schedule.
@@ -373,7 +354,7 @@ Schedule 1 — Consequential amendments
 Commissioner for Children and Young People appointed under the Commissioner for Children and Young People Act 2006.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 114.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -389,7 +370,23 @@ Schedule 3 — Consequential amendments
 The Nurses and Midwives Board of Western Australia established under the Nurses and Midwives Act 2006.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Child Care Services Act 2007 Pt. 7 Div. 2 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Owner-Drivers (Contracts and Disputes) Act 2007 s. 58, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+“
+58.Consequential amendments
+The Acts mentioned in Schedule 3 are amended as set out in that Schedule.
+”.
+Schedule 3 cl. 2 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 58]
+2.Constitution Acts Amendment Act 1899 amended
+(1) The amendment in this clause is to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended by inserting after the item relating to the Road Safety Council the following item —
+“
+The Road Freight Transport Industry Council established under the Owner-Drivers (Contracts and Disputes) Act 2007.
+”.
+”.
+On the date as at which this reprint was prepared, the Child Care Services Act 2007 Pt. 7 Div. 2 had not come into operation. It reads as follows:
 “
 Part 7 — Other Acts amended
 Division 2 — Constitution Acts Amendment Act 1899
