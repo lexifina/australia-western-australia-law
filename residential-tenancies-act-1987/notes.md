@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 July 2007 of the Residential Tenancies Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Residential Tenancies Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Residential Tenancies Act 1987 | 128 of 1987 | 21 Jan 1988 | s. 1 and 2: 21 Jan 1988; Act other than s. 1 and 2: 1 Oct 1989 (see s. 2 and Gazette 18 Aug 1989 p. 2748)
@@ -21,13 +21,10 @@ Courts Legislation Amendment and Repeal Act 2004 Pt. 16 | 59 of 2004 | 23 Nov 20
 Reprint 3: The Residential Tenancies Act 1987 as at 27 May 2005 (includes amendments listed above except those in the Real Estate Legislation Amendment Act 1995 s. 46 and 52)
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 20 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Residential Parks (Long-stay Tenants) Act 2006 s. 98 | 32 of 2006 | 4 Jul 2006 | 3 Aug 2007 (see r. 2 and Gazette 1 Aug 2007 p. 3835)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 9 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 4: The Residential Tenancies Act 1987 as at 20 Jul 2007 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Residential Parks (Long-stay Tenants) Act 2006 s. 98 | 32 of 2006 | 4 Jul 2006 | To be proclaimed (see s. 2)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
@@ -80,35 +77,4 @@ In this Division —
 “commencement” means the time at which this Division comes into operation;
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
-”.
-On the date as at which this reprint was prepared, the Residential Parks (Long-stay Tenants) Act 2006 s. 98, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-98.Consequential amendments
-Schedule 2 sets out consequential amendments.
-”.
-Schedule 2 cl. 2 reads as follows:
-“
-Schedule 2 — Consequential amendments
-2.Residential Tenancies Act 1987 amended
-(1) The amendments in this section are to the Residential Tenancies Act 1987.
-(2) Section 5(5) is amended by deleting “This” and inserting instead —
-“ Subject to subsection (6), this ”.
-(3) After section 5(5) the following is inserted —
-“
-(6) This Act does not apply to a site at a residential park, within the meaning of the Residential Parks (Long-stay Tenants) Act 2006, other than in relation to a residential tenancy agreement —
-(a) under which a person has a right to occupy such a site; and
-(b) that is an existing fixed term long-stay agreement made in writing, to which the Residential Parks (Long-stay Tenants) Act 2006 does not apply in accordance with section 6(4) of that Act.
-(7) Subsection (6) has effect despite section 8(1) of the Residential Parks (Long-stay Tenants) Act 2006.
-”.
-(4) After Schedule 1 clause 3(2)(a) the following paragraph is inserted —
-“
-(aa) money payable to the fund under section 75(3), 92(b) or 94(a) of the Residential Parks (Long-stay Tenants) Act 2006;
-”.
-(5) After Schedule 1 clause 3(3)(a) the following paragraphs are inserted —
-“
-(aa) in payment of any amount required to be paid out of the fund under section 51 of the Residential Parks (Long-stay Tenants) Act 2006 or under an order under section 76(3) or 77(2) of that Act;
-(ab) in reimbursement of the costs and expenses incurred for the purposes of the Residential Parks (Long-stay Tenants) Act 2006 by the bond administrator, bond agents and the Commissioner in carrying out their respective functions;
-”.
-(6) Schedule 1 clause 3(3)(b) is amended by inserting after “this Act” —
-“ or the Residential Parks (Long-stay Tenants) Act 2006 ”.
 ”.
