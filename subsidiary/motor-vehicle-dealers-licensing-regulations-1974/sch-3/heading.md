@@ -6,12 +6,12 @@
  | (a)if the dealer only specifies single premises to be authorised under section 20E(5) in relation to the licence .................................................................... | 1 335.00
  | (b)if the dealer specifies 2 or more premises to be authorised under section 20E(5) ............................ | 667.00
  | plus
- | in respect of each further premises to be authorised under section 20E(5) in relation to the licence, a further …………...……….............. | 667.00
-2. | Application under section 20F in respect of alteration of premises .................................................................... | 112.00
-3. | Application under section 20F in respect of each added premises ....................................................................... | 667.00
+ | in respect of each further premises to be authorised under section 20E(5) in relation to the licence, a further .............................................. | 667.00
+2. | Application under section 20F in respect of alteration of premises ..................................................................... | 112.00
+3. | Application under section 20F in respect of each added premises ......................................................................... | 667.00
 4. | Application for a temporary permit under section 20H | 44.50
-5. | Application for yard manager’s licence or renewal of yard manager’s licence for the period prescribed by regulation 6A ................................................................ | 341.00
-6. | Application for salesperson’s licence or renewal of salesperson’s licence for the period prescribed by regulation 6A ................................................................ | 231.00
+5. | Application for yard manager’s licence or renewal of yard manager’s licence for the period prescribed by regulation 6A ................................................................. | 341.00
+6. | Application for salesperson’s licence or renewal of salesperson’s licence for the period prescribed by regulation 6A ................................................................. | 231.00
 7. | Application for car market operator’s registration or renewal of car market operator’s registration —
  | (a)if the operator only specifies single premises to be authorised under section 21A(5) in relation to the registration ............................................................. | 1 335.00
  | (b)if the operator specifies 2 or more premises to be authorised under section 21A(5) in relation to the registration ............................................................. | 667.00
