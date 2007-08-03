@@ -1,6 +1,5 @@
-## Schedule 1
+## Schedule 1 — Westpac business names
 [Section 11]
-WESTPAC BUSINESS NAMES
 Challenge Bank
 Challenge Bank Conveyancing
 Challenge Conveyancing

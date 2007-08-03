@@ -10,4 +10,3 @@ Reasons for enactment
 6.Accordingly it is necessary and expedient to transfer the banking business of Challenge to Westpac, but at the same time to facilitate the preservation of the character of the business of Challenge.
 7.On 22 November 1995 the Treasurer of Australia consented pursuant to section 63 of the Banking Act 1959 of the Commonwealth to the amalgamation of the banking business of Challenge with that of Westpac.
 8.It is expedient to enact legislation to provide for the vesting of the banking business of Challenge in Westpac.
-The Parliament of Western Australia enacts as follows:
