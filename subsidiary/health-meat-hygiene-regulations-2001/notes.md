@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health (Meat Hygiene) Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 August 2007 of the Health (Meat Hygiene) Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Health (Meat Hygiene) Regulations 2001 | 1 Jun 2001 p. 2749-64 | 1 Jun 2001
@@ -23,5 +23,6 @@ Health (Meat Hygiene) Amendment Regulations (No. 4) 2005 | 15 Nov 2005 p. 5601-2
 Health (Meat Hygiene) Amendment Regulations (No. 2) 2006 | 12 Dec 2006 p. 5492-3 | 12 Dec 2006
 Health (Meat Hygiene) Amendment Regulations 2007 | 30 Jan 2007 p. 213 | 30 Jan 2007
 Health (Meat Hygiene) Amendment Regulations (No. 2) 2007 | 26 Jun 2007 p. 3029 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2007 (see r. 2(b))
+Reprint 3: The Health (Meat Hygiene) Regulations 2001 as at 3 Aug 2007 (includes amendments listed above)
 Repealed by the Public Employment (Consequential and Transitional) Amendment Act 1999 (Cwlth) No. 146 of 1999 s. 3. Now see the Public Service Act 1999 (Cwlth) No. 147 of 1999.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department of Western Australia is read and construed as a reference to the Department of Health.
