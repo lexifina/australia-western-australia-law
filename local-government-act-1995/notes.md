@@ -43,7 +43,7 @@ Local Government Amendment Act 2004 s. 16(1), (2), (3) and (5), 19(2), 20 and 38
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Local Government Amendment Act 2006 s. 14 | 66 of 2006 | 8 Dec 2006 | To be proclaimed (see s. 2(2))
 Local Government (Official Conduct) Amendment Act 2007 s. 4-13 | 1 of 2007 | 28 Mar 2007 | To be proclaimed (see s. 2)
-Local Government Amendment Act 2007 s. 3-6 | 9 of 2007 | 25 Jun 2007 | To be proclaimed (see s. 2)
+Local Government Amendment Act 2007 s. 3-6 | 9 of 2007 | 25 Jun 2007 | 6 Sep 2007 (see s. 2 and Gazette 3 Aug 2007 p. 3989)
 Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 | 11 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2)
 The provisions in this Act amending the Local Government Act 1960 have been omitted under s. 7(4)(e) of the Reprints Act 1984. Schedule 9.2 cl. 4 reads as follows:
 “
