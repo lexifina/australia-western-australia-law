@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Coal Industry Superannuation Regulations 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 August 2007 of the Coal Industry Superannuation Regulations 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Coal Industry Superannuation Regulations 1990 | 28 Jun 1990 p. 3109-36 | 1 Jul 1990 (see r. 2 and Gazette 22 Jun 1990 p. 3027)
@@ -16,6 +16,8 @@ Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 5 | 30 
 Coal Industry Superannuation Amendment Regulations 2005 | 21 Jun 2005 p. 2677-8 | 21 Jun 2005
 Coal Industry Superannuation Amendment Regulations 2006 | 11 Jul 2006 p. 2535-40 | 11 Jul 2006
 Coal Industry Superannuation Amendment Regulations 2007 | 20 Feb 2007 p. 506-7 | 20 Feb 2007
+Reprint 3: The Coal Industry Superannuation Regulations 1990 as at 3 Aug 2007 (includes amendments listed above)
+The Superannuation Industry (Supervision) Act 1993 of the Commonwealth.
 The Coal Industry Superannuation Amendment Regulations 1996 r. 34 reads as follows:
 “
 34.Transitional
