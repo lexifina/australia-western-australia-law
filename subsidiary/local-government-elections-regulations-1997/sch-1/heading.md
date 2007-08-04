@@ -37,7 +37,8 @@ Witness | Full name:
 Officer:
 Signature: | Date:
 Notes
-Declaration | The declaration must be signed before: ·a Justice of the Peace; ·a person authorised under the Declarations and Attestations Act 1913 to take statutory declarations; or ·a more senior electoral officer.
+Declaration | The declaration must be signed before: ·a Justice of the Peace; ·a person authorised under the Oaths, Affidavits and Statutory Declarations Act 2005 to take statutory declarations; or ·a more senior electoral officer.
+[Form 1 amended in Gazette 3 Aug 2007 p. 4006.]
 Form 2.Enrolment Eligibility Claim incorporating Notice of Nomination of co-owners or co-occupiers (if required by CEO)
 Local Government Act 1995, s. 4.32(2) ENROLMENT ELIGIBILITY CLAIM See back for notes on when and how to complete this form
 Person making claim | Family name:
@@ -212,7 +213,7 @@ DISCLOSURE OF GIFTS
 Details of Candidate
 Surname . . . . . . . . . . . . . . . . . . . . . . . . Other names . . . . . . . . . . . . . . . . . . . . . .
 Complete and sign the declaration at the end of the Form
-Details of Gifts (Money or value above $200)
+Details of Gift (value of which is $200 or more, or which is one of 2 or more gifts with a total value of $200 or more)
 Name and Address of Donor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Date gift promised or received . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -227,6 +228,7 @@ IF YOU ARE UNABLE TO PROVIDE THE INFORMATION REQUIRED BY THIS FORM, SET OUT THE 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 It is declared that all information and details provided are true and correct, and no known, relevant information is omitted.
 Signature . . . . . . . . . . . . . . . . . . . . .Date. . . . . . . . . . . . . . . . . . . . . . . .
+[Form 9A amended in Gazette 3 Aug 2007 p. 3997.]
 Form 10.Ballot Paper
 BALLOT PAPER
 Election of ______________________________
@@ -458,12 +460,12 @@ Witness | Full name:
 Office:
 Signature: | Date:
 Back of duplicate copy of Form 18
-1Declaration | The declaration by the scrutineer must be signed before: ·a Justice of the Peace; ·a person authorised under the Declarations and Attestations Act 1913 to take statutory declarations; or ·the Returning Officer, Deputy Returning Officer or a Presiding Officer.
+1Declaration | The declaration by the scrutineer must be signed before: ·a Justice of the Peace; ·a person authorised under the Oaths, Affidavits and Statutory Declarations Act 2005 to take statutory declarations; or ·the Returning Officer, Deputy Returning Officer or a Presiding Officer.
 The rights and duties of a scrutineer
 What you may do | As a scrutineer you may: ·attend at a polling place mentioned in your notice of appointment to observe the conduct of the election and to make sure that the Local Government Act 1995 is being complied with; ·observe the checking of absent and postal votes; ·be present at the preparation of postal voting papers but only at a sufficient distance so that you cannot ascertain the markings on the ballot papers; and ·be present when ballot boxes are opened and votes are being counted.
 What you must do | As a scrutineer you must: ·wear identification of your appointment as a scrutineer; ·have your copy of the Appointment of Scrutineer form with you at all times and produce it when requested to do so by the Presiding Officer at a polling place; and ·comply with all directions given by the Returning Officer and all reasonable requests made by any other electoral officer.
 What you must not do | As a scrutineer you must not: ·enter a polling place if another scrutineer appointed by the same candidate is already there (unless one of you is just to cast your vote); ·take part in the conduct of the election; ·while in or within 6 metres of a polling place: ·canvass for votes; ·solicit the vote of an elector; ·induce an elector to vote for a particular candidate; ·induce an elector not to vote at the election; ·record the name of a person who attends a polling place to vote or record any information given by a person to an electoral officer in order to receive a ballot paper.
-[Form 18 amended in Gazette 21 Jan 2005 p. 268.]
+[Form 18 amended in Gazette 21 Jan 2005 p. 268; 3 Aug 2007 p. 4006.]
 Form 19.Results of Election
 Local Government Act 1995, s. 4.77 RESULTS OF ELECTION FOR _________________________________________________________________
 Results | These are the results of the local government election held on ______________.
