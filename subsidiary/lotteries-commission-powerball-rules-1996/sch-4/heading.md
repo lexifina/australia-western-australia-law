@@ -1,7 +1,7 @@
 ## Schedule 4
 ## Summary of parameters within which powerball is conducted
 [Heading amended in Gazette 16 Nov 2004 p. 5065.]
-Unit cost for a powerball draw | $0.55 (+ agent’s component)
+Unit cost for a powerball draw | $0.60 (+ agent's component)
 Prize fund — % of subscriptions | 60.0%
 Prize pool — % of subscriptions | no less than 55.0%
 Prize reserve fund — % of subscriptions | balance of prize fund after prize pool (up to 5.0%)
@@ -25,4 +25,4 @@ Systems entries per oral request | 1
 Powerpik entries per oral request | 1
 Prize payout period | 12 months
 Maximum Aggregate Entry Cost | $99,999.00
-[Schedule 4 amended in Gazette 29 Apr 1997 p. 2150; 9 Mar 2001 p. 1335-6; 16 Nov 2004 p. 5065; 29 Sep 2006 p. 4272-3; 13 Oct 2006 p. 4414; 26 Jun 2007 p. 3052-3.]
+[Schedule 4 amended in Gazette 29 Apr 1997 p. 2150; 9 Mar 2001 p. 1335-6; 16 Nov 2004 p. 5065; 29 Sep 2006 p. 4272-3; 13 Oct 2006 p. 4414; 26 Jun 2007 p. 3052-3; 3 Aug 2007 p. 4007.]
