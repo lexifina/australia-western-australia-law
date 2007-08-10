@@ -6,17 +6,12 @@ Children and Community Services Act 2004 | 34 of 2004 | 20 Oct 2004 | s. 3 & 102
 Working with Children (Criminal Record Checking) Act 2004 Pt. 5 | 65 of 2004 | 8 Dec 2004 | Pt. 5 other than s. 50-52: 1 Jan 2006 (see s. 2 and Gazette 30 Dec 2005 p. 6875); s. 50-52: 1 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 85(4) | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Family Legislation Amendment Act 2006 Pt. 6 Div. 1 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
+Child Care Services Act 2007 Pt. 7 Div. 1 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 Sch. 2 cl. 25 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
-Child Care Services Act 2007 Pt. 7 Div. 1 | 19 of 2007 | 3 Jul 2007 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Children and Community Services Act 2004 s. 251 which gives effect to Sch. 2 had not come into operation. It reads as follows:
-“
-251.Other Acts amended
-Other Acts are amended as set out in Schedule 2.
-”.
-Schedule 2 cl. 25 read as follows:
+On the date as at which this compilation was prepared, the Children and Community Services Act 2004 Sch. 2 cl. 25 had not come into operation. It reads as follows:
 “
 Schedule 2 — Amendments to other Acts
 [s. 251]
@@ -32,21 +27,41 @@ to provide a child care service under Part 8 of the Children and Community Servi
 for approval in relation to the placement of a child under the Children and Community Services Act 2004.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Child Care Services Act 2007 Pt. 7 Div. 1 had not come into operation. It reads as follows:
+The Child Care Services Act 2007 Pt. 6 contains transitional provisions which read as follows:
 “
-Part 7 — Other Acts amended
-Division 1 — Children and Community Services Act 2004
-62.The Act amended in this Division
-The amendments in this Division are to the Children and Community Services Act 2004.
-63.Long title amended
-The long title is amended by deleting “, the employment of children, and child care services;” and inserting instead —
-“ and the employment of children; ”.
-64.Section 6 amended
-Section 6 is amended as follows:
-(a) after paragraph (e) by deleting “; and” and inserting a full stop instead;
-(b) by deleting paragraph (f);
-(c) after each of paragraphs (a) to (d) by inserting —
-“ and ”.
-65.Part 8 repealed
-Part 8 is repealed.
+Part 6 — Transitional provisions
+54.Terms used in this Part
+In this Part —
+“commencement day” means the day on which section 65 comes into operation;
+“Part 8 provisions” means the provisions of the Children and Community Services Act 2004 Part 8 in force immediately before the commencement day.
+55.Interpretation Act 1984 not affected
+This Part is additional to and does not affect the operation of the Interpretation Act 1984 (in particular, section 36 of that Act) in relation to the repeal and re-enactment of the Part 8 provisions by this Act.
+56.Continuation of certain regulations
+(1) In this section —
+“child care regulations” means the following regulations as in force immediately before the commencement day —
+(a)the Children and Community Services (Child Care) Regulations 2006;
+(b)the Children and Community Services (Family Day Care) Regulations 2006;
+(c)the Children and Community Services (Outside School Hours Care) Regulations 2006;
+(d)the Children and Community Services (Outside School Hours Family Day Care) Regulations 2006.
+(2) The child care regulations have effect on and after the commencement day, with all necessary changes, as if they were regulations made under section 52 and may be amended or repealed accordingly.
+57.Exemptions
+An order under the Children and Community Services Act 2004 section 229(1) that is in force immediately before the commencement day has effect on and after that day, with all necessary changes, as if it were an order made under section 45(1) and may be amended or repealed accordingly.
+58.Applications for licence or renewal of licence
+An application for a licence or the renewal of a licence made under the Part 8 provisions that has not been finally determined immediately before the commencement day is to be dealt with and determined as if it were an application for a licence or the renewal of a licence under this Act.
+59.Licences
+(1) A licence under the Part 8 provisions that is in force immediately before the commencement day is to be regarded on and after that day as a licence under this Act and may be dealt with accordingly.
+(2) The reference in subsection (1) to a licence under the Part 8 provisions includes a reference to a licence or permit that has effect as if it were a licence under the Part 8 provisions because of the Children and Community Services Act 2004 Schedule 1 clause 18(1).
+60.References to Part 8 provisions
+If in a written law or other document or instrument there is a reference to a Part 8 provision, the reference is, unless the context otherwise requires, to be read on and after the commencement day as a reference to the provision of this Act that corresponds to the Part 8 provision.
+61.Transitional regulations
+(1) If there is no sufficient provision in this Part for dealing with a transitional matter, regulations under this Act may prescribe all matters that are required or necessary or convenient to be prescribed for dealing with the matter.
+(2) In subsection (1) —
+“transitional matter” means a matter that needs to be dealt with for the transition from the Part 8 provisions to the provisions of this Act.
+(3) Regulations under subsection (1) may provide that specified provisions of a written law do not apply, or apply with specified modifications, to or in relation to any matter.
+(4) If regulations under subsection (1) provide that a specified state of affairs is to be taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations are published in the Gazette but not earlier than the commencement day, the regulations have effect according to their terms.
+(5) In subsections (3) and (4) —
+“specified” means specified or described in the regulations.
+(6) If regulations contain a provision referred to in subsection (4), the provision does not —
+(a) affect, in a manner prejudicial to any person (other than the State, an authority of the State or a local government), rights that the person had before the regulations were published in the Gazette; or
+(b) impose liabilities on any person (other than the State, an authority of the State or a local government) in respect of anything done or omitted to be done before the regulations were published in the Gazette.
 ”.

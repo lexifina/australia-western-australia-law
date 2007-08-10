@@ -90,10 +90,7 @@ Reprint 13: The Evidence Act 1906 as at 1 Jul 2005 (includes amendments listed a
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 12 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 35 and 37 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Child Care Services Act 2007 Pt. 7 Div. 3 | 19 of 2007 | 3 Jul 2007 | To be proclaimed (see s. 2(b))
+Child Care Services Act 2007 Pt. 7 Div. 3 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 “
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
@@ -173,19 +170,3 @@ Part 4 — Transitional and validation
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to amend s. 56(1) is not included because the subsection it sought to amend was replaced by s. 82 (Sch. 2 it. 118) of this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 36 to amend s. 106A is not included because the paragraph it sought to amend has been amended by the Children and Community Services Act 2004 Sch. 2 cl. 9.
 The Land Information Authority Act 2006 s. 133 to amend the Fifth Schedule is not included because the entry it sought to amend has been amended by the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 37.
-On the date as at which this compilation was prepared, the Child Care Services Act 2007 Pt. 7 Div. 3 had not come into operation. It reads as follows:
-“
-Part 7 — Other Acts amended
-Division 3 — Evidence Act 1906
-68.The Act amended in this Division
-The amendments in this Division are to the Evidence Act 1906.
-69.Section 19L amended
-(1) Section 19L(3) is repealed and the following subsection is inserted instead —
-“
-(3) Subject to subsections (4) and (4a), sections 238 and 239 of the Children and Community Services Act 2004 and section 46 of the Child Care Services Act 2007 do not apply to the production or disclosure of a protected communication in criminal proceedings.
-”.
-(2) After section 19L(4) the following subsection is inserted —
-“
-(4a) If in criminal proceedings leave is given under the protection provisions to require disclosure of a child care record as defined in subsection (1) of section 46 of the Child Care Services Act 2007, subsections (5) to (8) of that section apply as if the child care record had been produced in response to a requirement referred to in subsection (2) of that section.
-”.
-”.

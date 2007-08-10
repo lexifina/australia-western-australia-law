@@ -4,11 +4,11 @@ Compilation table
 Short title | Number and Year | Assent | Commencement
 Working with Children (Criminal Record Checking) Act 2004 | 65 of 2004 | 8 Dec 2004 | Act other than s. 50-52: 1 Jan 2006 (see s. 2 and Gazette 30 Dec 2005 p. 6875) s. 50-52: 1 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
 Criminal Code Amendment (Cyber Predators) Act 2006 s. 7 | 3 of 2006 | 30 Mar 2006 | 30 Mar 2006 (see s. 2(1))
+Child Care Services Act 2007 Pt. 7 Div. 4 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
-Child Care Services Act 2007 Pt. 7 Div. 4 | 19 of 2007 | 3 Jul 2007 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Schedule 1, had not come into operation. It reads as follows:
 “
 65.Consequential amendments
@@ -56,29 +56,4 @@ s. 17(1) and (3) | s. 38(2), (3) and (4)
 s. 18(1) and (2) | s. 42(2)
 s. 19(1), (9) and (10) | s. 44(3), (4) and (5)
 s. 20(2), (3), (5) and (6) | s. 45(1), (3), (4) and (6)
-”.
-On the date as at which this compilation was prepared, the Child Care Services Act 2007 Pt. 7 Div. 4 had not come into operation. It reads as follows:
-“
-Part 7 — Other Acts amended
-Division 4 — Working with Children (Criminal Record Checking) Act 2004
-70.The Act amended in this Division
-The amendments in this Division are to the Working with Children (Criminal Record Checking) Act 2004.
-71.Section 4 amended
-Section 4 is amended by deleting the definition of “child care service” and inserting instead —
-“
-“child care service” has the meaning given in the Child Care Services Act 2007 section 3;
-”.
-72.Section 5 amended
-(1) Section 5(1) is amended in the definition of “managerial officer” by deleting “Children and Community Services Act 2004 section 197.” and inserting instead —
-“ Child Care Services Act 2007 section 3. ”.
-(2) Section 5(2) is amended by deleting “Children and Community Services Act 2004 Part 8” and inserting instead —
-“ Child Care Services Act 2007 ”.
-73.Section 38 amended
-(1) Section 38(1) is amended in the definition of “Department” by deleting “Children and Community Services Act 2004;” and inserting instead —
-“ Child Care Services Act 2007; ”.
-(2) Section 38(3) is amended as follows:
-(a) in paragraph (a) by deleting “Children and Community Services Act 2004 Part 8;” and inserting instead —
-“ Child Care Services Act 2007; ”;
-(b) in paragraph (b) by deleting “197” and inserting instead —
-“ 3 ”.
 ”.
