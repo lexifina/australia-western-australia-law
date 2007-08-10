@@ -1,3 +1,3 @@
 Western Australia
-Children and Community Services Act 2004
-Children and Community Services (Child Care) Regulations 2006
+Child Care Services Act 2007
+Child Care Services (Child Care) Regulations 2006
