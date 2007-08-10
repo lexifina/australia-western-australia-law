@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 August 2007 of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Constitution Acts Amendment Act 1899 | 1899 (63 Vict. No. 19) | 18 May 1900 | 18 May 1900 (see s. 52 and Gazette 18 May 1900 p. 1686). Reserved for Royal Assent 16 Dec 1899
@@ -236,8 +236,9 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Liquor and Gaming Legislation Amendment Act 2006 s. 116 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
  | Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
  | Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
- | Reprint 15: The Constitution Acts Amendment Act 1899 as at 2 Aug 2007 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+ | Child Care Services Act 2007 Pt. 7 Div. 2 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
+ | Reprint 15: The Constitution Acts Amendment Act 1899 as at 2 Aug 2007 (includes amendments listed above except those in the Child Care Services Act 2007)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 s. 57 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
@@ -245,7 +246,6 @@ Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 1
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
-Child Care Services Act 2007 Pt. 7 Div. 2 | 19 of 2007 | 3 Jul 2007 | To be proclaimed (see s. 2(b))
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -281,17 +281,17 @@ Relevant provisions repealed by the Solar Energy Research Amendment Act 1987.
 Repealed by the Censorship Act 1996, now known as the Classification (Publications, Films and Computer Games) Enforcement Act 1996.
 Repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 Repealed by the Cemeteries Act 1986. The former body corporate continued under the name “Karrakatta Cemetery Board” — see Sch. 2 cl. 4 of that Act.
-This Council was not in existence at the date of this reprint.
+This Council was not in existence at the date of this compilation.
 Relevant provisions repealed by the Agricultural Legislation Amendment and Repeal Act 1998 s. 21.
 Repealed by the Western Australian Arts Council Repeal Act 1986.
-Committee not in existence at the date of this reprint.
+Committee not in existence at the date of this compilation.
 Repealed by the Acts Amendment and Repeal (Post Secondary Education) Act 1989.
 This Act expired 7 Jun 1991.
 Repealed by the Wheat Marketing Act 1984, which was repealed by the Wheat Marketing Act 1989.
 This Act expired 31 Oct 1984.
 Relevant provisions repealed by the Acts Amendment (Conservation and Land Management) Act 1984.
 Repealed by the Youth, Sport and Recreation Repeal Act 1984.
-Marginal notes in the Constitution Acts Amendment Act 1899 referring to the legislation from which provisions were derived have been omitted from the reprint.
+Marginal notes in the Constitution Acts Amendment Act 1899 referring to the legislation from which provisions were derived have been omitted from this compilation.
 The Motor Vehicle Dealers Amendment Act 2003 s. 25 and 26 read as follows:
 “
 25.Transitional provision: membership of Board
@@ -315,7 +315,7 @@ by reason only of a conviction that occurred before the commencement.
 (5) In subsection (4) —
 “commencement” means the commencement of this section.
 ”.
-On the date as at which this reprint was prepared, the Conservation and Land Management Amendment Act 1991 s. 57, which gives effect to the Schedule, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 1991 s. 57, which gives effect to the Schedule, had not come into operation. It reads as follows:
 “
 57.Consequential amendments to other Acts
 The Acts referred to in the column of the Schedule are amended in the manner set out in the second column.
@@ -324,7 +324,7 @@ Item 1 of the Schedule reads as follows:
 “
 1.Constitution Acts Amendment Act 1899 | In Schedule V, in Part 3, the following item is inserted in the appropriate alphabetical position — “The Nature Conservation Trust of Western Australia established under Part IXA of the Conservation and Land Management Act 1984.”.
 ”.
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3Consequential amendments
 Schedule 2 has effect.
@@ -338,7 +338,7 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Schedule 1, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Schedule 1, had not come into operation. It reads as follows:
 “
 65.Consequential amendments
 The Acts mentioned in Schedule 1 are amended as set out in that Schedule.
@@ -354,7 +354,7 @@ Schedule 1 — Consequential amendments
 Commissioner for Children and Young People appointed under the Commissioner for Children and Young People Act 2006.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 114.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -370,7 +370,7 @@ Schedule 3 — Consequential amendments
 The Nurses and Midwives Board of Western Australia established under the Nurses and Midwives Act 2006.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Owner-Drivers (Contracts and Disputes) Act 2007 s. 58, which gives effect to Sch. 3, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Owner-Drivers (Contracts and Disputes) Act 2007 s. 58, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 58.Consequential amendments
 The Acts mentioned in Schedule 3 are amended as set out in that Schedule.
@@ -384,17 +384,5 @@ Schedule 3 — Consequential amendments
 (2) Schedule V Part 3 is amended by inserting after the item relating to the Road Safety Council the following item —
 “
 The Road Freight Transport Industry Council established under the Owner-Drivers (Contracts and Disputes) Act 2007.
-”.
-”.
-On the date as at which this reprint was prepared, the Child Care Services Act 2007 Pt. 7 Div. 2 had not come into operation. It reads as follows:
-“
-Part 7 — Other Acts amended
-Division 2 — Constitution Acts Amendment Act 1899
-66.The Act amended in this Division
-The amendment in this Division is to the Constitution Acts Amendment Act 1899.
-67.Schedule V amended
-Schedule V Part 3 is amended after the item relating to any advisory body established or continued under the Children and Community Services Act 2004 by inserting —
-“
-Any advisory body established under the Child Care Services Act 2007.
 ”.
 ”.
