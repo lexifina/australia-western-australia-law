@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Environmental Protection Regulations 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 17 August 2007 of the Environmental Protection Regulations 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Environmental Protection Regulations 1987 | 20 Feb 1987 p. 444-9 | 20 Feb 1987 (see r. 2 and Gazette 20 Feb 1987 p. 440)
@@ -55,22 +55,10 @@ Environmental Protection Amendment Regulations 2005 | 13 Dec 2005 p. 5982-4 | 13
 Environmental Protection Amendment Regulations 2006 | 29 Sep 2006 p. 4260-7 | 1 Oct 2006 (see r. 2)
 Environmental Protection (NEPM-UPM) Regulations 2007 Pt. 6 | 27 Apr 2007 p. 1793-812 | 27 Apr 2007
 Environmental Protection Amendment Regulations 2007 | 22 Jun 2007 p. 2839-44 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+Reprint 6: The Environmental Protection Regulations 1987 as at 17 Aug 2007 (includes amendments listed above)
 Published in Gazette 18 December 1992 p. 6099.
 Proclaimed 1 July 1988 in Gazette 26 June 1998 p. 3369.
 Expired on 1 July 2004; see Gazette 23 July 2003 p. 3172.
-Under the Alteration of Statutory Designations Order 2004 a reference in a written law to the Department of Environmental Protection is, unless the contrary is intended, to be read and construed as a reference to the Department of Environment.
-The Environmental Protection Amendment Regulations (No. 3) 1996 r. 7 (as amended by the Environmental Protection Amendment Regulation (No. 6) 1996 r. 10) reads as follows:
-“
-7.Transitional
-(1) The principal regulations as amended by these regulations do not apply to an existing landfill site until the expiration of the period of 6 months after the commencement of these regulations.
-(2) In this regulation —
-“existing landfill site” means a landfill site that, immediately before the commencement of these regulations, was operated as —
-(a)by a local government with the consent of the Governor under section 119 of the Health Act 1911; or
-(b)as a landfill site at which only inert waste (as determined by reference to the specifications set out in the document entitled “Landfill Waste Classification and Waste Definitions 1996”, published by the Chief Executive Officer and as amended from time to time) was accepted for burial.
-(3) This regulation does not operate so as to prevent —
-(a) an occupier of an existing landfill site from applying for a licence in respect of those premises within the period of 6 months after the commencement of these regulations as if the principal regulations as amended by these regulations applied to that site; or
-(b) the granting of a licence under the Act, within the period of 6 months after the commencement of these regulations, in respect of those premises as if the principal regulations as amended by these regulations applied to that site,
-and such an application or licence is to have the same effect as if the principal regulations as amended by these regulations applied to that site at the time the application was made or the licence was granted.
-[Regulation 7 amended in Gazette 10 Dec 1996 p. 6879.]
-”.
+Under the Alteration of Statutory Designations Order (No. 2) 2006 a reference in a written law to the Department of Environmental Protection is, unless the contrary is intended, to be read and construed as a reference to the Department of Environment and Conservation.
+The Environmental Protection Amendment Regulations (No. 3) 1996 r. 7 (as amended by the Environmental Protection Amendment Regulation (No. 6) 1996 r. 10) is a transitional provision that is of no further effect.
 The amendment in regulation 12 referring to items 8 and 9 of Schedule 6 is not included because these items were previously deleted in Gazette 19 December 2000 p. 7284.
