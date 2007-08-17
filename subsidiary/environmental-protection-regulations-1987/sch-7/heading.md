@@ -1,5 +1,6 @@
 ## Schedule 7 — Forms
 [r. 37, 38, 42, 43]
+[Heading inserted in Gazette 11 Dec 1998 p. 6608.]
 Form 1
 Environmental Protection Act 1986 (Section 99B)
 Modified penalty notice
@@ -30,6 +31,7 @@ If you wish to do so but are unable to make payment within 28 days you may apply
 OR
 2.Elect to have the matter dealt with by a COURT.
 If you do not take one of the above options within the time specified above, this matter will be dealt with before a COURT.
+[Form 1 inserted in Gazette 11 Dec 1998 p. 6608-9.]
 Form 2
 Environmental Protection Act 1986 (Section 99D)
 Withdrawal of modified penalty notice
@@ -47,6 +49,7 @@ Issued at: | ...................................................................
 by: | .............................................................................
 Signature: | .............................................................................
 * Delete where not applicable.
+[Form 2 inserted in Gazette 11 Dec 1998 p. 6609.]
 Form 3
 Environmental Protection Act 1986 (Section 99K)
 Infringement notice
@@ -82,6 +85,7 @@ The modified penalty may be recovered by the Fines Enforcement Registry, in whic
 (b)action may be taken to suspend your Motor Driver’s Licence or Vehicle Licence until you have paid in full the modified penalty and any additional charges; and
 (c)you will be given an opportunity to elect to have a complaint for the alleged offence dealt with by a COURT.
 PAYMENTS AFTER THE DUE DATE CAN ONLY BE MADE WITH A FINAL DEMAND LETTER WHICH INCURS AN ADDITIONAL ENFORCEMENT FEE.
+[Form 3 inserted in Gazette 11 Dec 1998 p. 6610-11.]
 Form 4
 Environmental Protection Act 1986 (Section 99N)
 Withdrawal of infringement notice
@@ -99,4 +103,4 @@ Issued at: | ...................................................................
 by: | ..........................................................................
 Signature: | ..........................................................................
 * Delete where not applicable.
-[Schedule 7 inserted in Gazette 11 Dec 1998 p. 6608-11.]
+[Form 4 inserted in Gazette 11 Dec 1998 p. 6611.]
