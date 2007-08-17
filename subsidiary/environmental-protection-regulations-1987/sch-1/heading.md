@@ -1,7 +1,7 @@
 ## Schedule 1 — Prescribed premises
 [r. 5]
 [Heading inserted in Gazette 13 Sep 1996 p. 4549.]
-Part 1
+## Part 1
 Category number | Description of category | Production or design capacity
 1 | Cattle feedlot: premises on which the watering and feeding of cattle occurs, being premises — (a)situated less than 100 metres from a watercourse; and (b)on which the number of cattle per hectare exceeds 50. | 500 animals or more
 2 | Intensive piggery: premises on which pigs are fed, watered and housed in pens. | 1 000 animals or more
@@ -87,7 +87,7 @@ Category number | Description of category | Production or design capacity
 67 | Fuel burning: premises on which gaseous, liquid or solid fuel is burnt in a boiler for the supply of steam or in power generation equipment. | In aggregate 500 kilograms or more per hour (fuel with a sulphur content of 0.25% or more) or In aggregate 2 000 kilograms or more per hour (fuel with a sulphur content of less than 0.25%)
 67A | Compost manufacturing and soil blending: premises on which organic material (excluding silage) or waste is stored pending processing, mixing, drying or composting to produce commercial quantities of compost or blended soils. | 1 000 tonnes or more per year
 [Part 1 amended in Gazette 22 Jun 2007 p. 2843.]
-Part 2
+## Part 2
 Category number | Description of category | Production or design capacity
 68 | Cattle feedlot: premises on which the watering and feeding of cattle occurs, being premises — (a)situated 100 metres or more from a watercourse; and (b)on which the number of cattle per hectare exceeds 50. | 500 animals or more
 69 | Intensive piggery: premises on which pigs are fed, watered and housed in pens. | More than 500 but less than 1 000 animals
