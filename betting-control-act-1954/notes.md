@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Betting Control Act 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 17 August 2007 of the Betting Control Act 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Betting Control Act 1954 | 63 of 1954 (3 Eliz. II No. 63) | 30 Dec 1954 | 1 Aug 1955 (see s. 2 and Gazette 29 Jul 1955 p. 1767)
@@ -35,7 +35,7 @@ Acts Amendment (Racing and Betting Legislation) Act 1995 Pt. 3 | 63 of 1995 | 27
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Reprint of the Betting Control Act 1954 as at 20 Feb 1997 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 1997 s. 22 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
-Betting Control Amendment Act 1998 | 17 of 1998 | 15 Jun 1998 | 1 Aug 1998 (see s. 2 and Gazette 21 Jul 1998 p. 3825)
+Betting Control Amendment Act 1998 | 17 of 1998 | 15 Jun 1998 | s. 1 and 2: 15 Jun 1998; Act other than s. 1 and 2: 1 Aug 1998 (see s. 2 and Gazette 21 Jul 1998 p. 3825)
 Western Australian Greyhound Racing Association Amendment Act 1998 s. 20 | 23 of 1998 | 30 Jun 1998 | 1 Aug 1998 (see s. 3 and Gazette 21 Jul 1998 p. 3825)
 Acts Amendment (Fixed Odds Betting) Act 1999 Pt. 3 | 40 of 1999 | 16 Nov 1999 | 15 Jan 2000 (see s. 2 and Gazette 14 Jan 2000 p. 153)
 Corporations (Consequential Amendments) Act 2001 Pt. 7 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
@@ -46,10 +46,11 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 8: The Betting Control Act 1954 as at 20 Oct 2006 (includes amendments listed above)
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Betting and Racing Legislation Amendment Act 2006 Pt. 2 | 70 of 2006 | 13 Dec 2006 | s. 3, 5-8 and 10: 29 Jan 2007 (see s. 2 and Gazette 23 Jan 2007 p. 181); s. 4, 9, 11 and 12: 9 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2837)
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Racing, Wagering and Betting Legislation Amendment and Repeal Act 2007 Pt. 2 | 8 of 2007 | 13 Jun 2007 | 14 Jun 2007 (see s. 2)
-Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
+Reprint 9: The Betting Control Act 1954 as at 17 Aug 2007 (includes amendments listed above)
 Repealed by the Acts Amendment and Repeal (Betting) Act 1992.
 The Betting Control Amendment Act 1998 s. 5(2) and (3) read as follows:
 “
@@ -77,9 +78,9 @@ Subdivision 1 — Preliminary
 The intention of the provisions of this Division is that the Commission will, in accordance with these provisions, stand in place of and be the successor to the BCB.
 105.Definitions
 In this Division, unless the contrary intention appears —
-“BCB” means the Betting Control Board established under the BC Act;
-“BC Act” means the Betting Control Act 1954;
-“Commission” means the Gaming and Wagering Commission established under section 4 of the Gaming and Wagering Commission Act 1987.
+BCB means the Betting Control Board established under the BC Act;
+BC Act means the Betting Control Act 1954;
+Commission means the Gaming and Wagering Commission established under section 4 of the Gaming and Wagering Commission Act 1987.
 Subdivision 2 — Devolution of the BCB’s assets and liabilities
 106.Transfer of assets and liabilities to Commission
 On and after the appointed day —
@@ -100,7 +101,7 @@ and the Western Australian Betting Control Board Fund is then to be closed.
 (2)If in an agreement, instrument or other document there is a reference to the Western Australian Betting Control Board Fund, that reference is, unless the context otherwise requires, to be read or to have effect on and after the appointed day as if it were a reference to the Gaming and Wagering Commission Account established under section 9 of the Gaming and Wagering Commission Act 1987.
 108.Exemption from State taxation
 (1)In this section —
-“State tax” includes stamp duty chargeable under the Stamp Act 1921 and any other tax, duty, fee, levy or charge under a law of the State.
+State tax includes stamp duty chargeable under the Stamp Act 1921 and any other tax, duty, fee, levy or charge under a law of the State.
 (2)State tax is not payable in relation to —
 (a) anything that occurs by the operation of this Division; or
 (b) anything done (including a transaction entered into or an instrument or document of any kind made, executed, lodged or given) under this Division, or to give effect to this Division, or for a purpose connected with or arising out of, giving effect to this Division.
