@@ -1,46 +1,46 @@
 Notes
-This is a compilation of the Stamp Act 1921 and includes the amendments made by the other written laws referred to in the following table 1a, 5-9. The table also contains information about any reprint.
+This reprint is a compilation as at 24 August 2007 of the Stamp Act 1921 and includes the amendments made by the other written laws referred to in the following table 1a, 5-9. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Stamp Act 1921 | 10 of 1922 | 31 Jan 1922 | 1 Apr 1922 (see s. 1 and Gazette 17 Mar 1922 p. 479)
-Stamp Act Amendment Act 1923 | 53 of 1923 | 22 Dec 1923 | 22 Dec 1923
-Stamp Act Amendment Act 1924 | 23 of 1924 | 31 Dec 1924 | 31 Dec 1924
-Ministers’ Titles Act 1925 s. 2 | 8 of 1925 | 24 Sep 1925 | 24 Sep 1925
-Stamp Act Amendment Act 1925 | 47 of 1925 | 31 Dec 1925 | 31 Dec 1925
-Stamp Act Amendment Act 1926 | 17 of 1926 | 6 Nov 1926 | 6 Nov 1926
-Stamp Act Amendment Act 1927 | 10 of 1927 | 6 Dec 1927 | 6 Dec 1927
-Stamp Act Amendment Act 1928 | 22 of 1928 | 21 Dec 1928 | 21 Dec 1928
-Stamp Act Amendment Act 1929 | 5 of 1929 | 7 Oct 1929 | 7 Oct 1929
-Stamp Act Amendment Act (No. 3) 1930 | 11 of 1930 | 19 Nov 1930 | 19 Nov 1930
-Stamp Act Amendment Act (No. 1) 1930 | 12 of 1930 | 19 Nov 1930 | 19 Nov 1930
-Stamp Act Amendment Act 1931 | 39 of 1931 | 26 Nov 1931 | 1 Dec 1931 (see s. 2 and Gazette 27 Nov 1931 p. 2499)
+Stamp Act 1921 | 10 of 1922 (12 Geo. V No. 44) | 31 Jan 1922 | 1 Apr 1922 (see s. 1 and Gazette 17 Mar 1922 p. 479)
+Stamp Act Amendment Act 1923 | 53 of 1923 (14 Geo. V No. 32) | 22 Dec 1923 | 22 Dec 1923
+Stamp Act Amendment Act 1924 | 23 of 1924 (15 Geo. V No. 23) | 31 Dec 1924 | 31 Dec 1924
+Ministers’ Titles Act 1925 s. 2 | 8 of 1925 (16 Geo. V No. 8) | 24 Sep 1925 | 24 Sep 1925
+Stamp Act Amendment Act 1925 | 47 of 1925 (16 Geo. V No. 47) | 31 Dec 1925 | 31 Dec 1925
+Stamp Act Amendment Act 1926 | 17 of 1926 (17 Geo. V No. 17) | 6 Nov 1926 | 6 Nov 1926
+Stamp Act Amendment Act 1927 | 10 of 1927 (18 Geo. V No. 10) | 6 Dec 1927 | 6 Dec 1927
+Stamp Act Amendment Act 1928 | 22 of 1928 (19 Geo. V No. 22) | 21 Dec 1928 | 21 Dec 1928
+Stamp Act Amendment Act 1929 | 5 of 1929 (20 Geo. V No. 3) | 7 Oct 1929 | 7 Oct 1929
+Stamp Act Amendment Act (No. 3) 1930 | 11 of 1930 (21 Geo. V No. 11) | 19 Nov 1930 | 19 Nov 1930
+Stamp Act Amendment Act (No. 1) 1930 | 12 of 1930 (21 Geo. V No. 12) | 19 Nov 1930 | 19 Nov 1930
+Stamp Act Amendment Act 1931 | 39 of 1931 (22 Geo. V No. 39) | 26 Nov 1931 | 1 Dec 1931 (see s. 2 and Gazette 27 Nov 1931 p. 2499)
 Reprint of the Stamp Act 1921 in Appendix to session Volume 1933-34 (includes amendments listed above)
-Stamp Act Amendment Act 1941 | 35 of 1941 | 19 Dec 1941 | 19 Dec 1941
-Stamp Act Amendment Act 1942 | 40 of 1942 | 23 Dec 1942 | 23 Dec 1942
-Stamp Act Amendment Act 1944 | 20 of 1944 | 23 Dec 1944 | 23 Dec 1944
+Stamp Act Amendment Act 1941 | 35 of 1941 (5 & 6 Geo. VI No. 35) | 19 Dec 1941 | 19 Dec 1941
+Stamp Act Amendment Act 1942 | 40 of 1942 (6 & 7 Geo. VI No. 40) | 23 Dec 1942 | 23 Dec 1942
+Stamp Act Amendment Act 1944 | 20 of 1944 (8 & 9 Geo. VI No. 20) | 23 Dec 1944 | 23 Dec 1944
 Reprint of the Stamp Act 1921 approved 3 Apr 1950 in Volume 5 of Reprinted Acts (includes amendments listed above)
-Stamp Act Amendment Act 1950 | 11 of 1950 | 17 Nov 1950 | 17 Nov 1950
-Stamp Act Amendment Act 1954 | 5 of 1954 | 25 Aug 1954 | 25 Aug 1954
-Betting Control Act 1954 s. 3(2) | 63 of 1954 | 30 Dec 1954 | 1 Aug 1955 (see s. 2 and Gazette 29 Jul 1955 p. 1767)
-Stamp Act Amendment Act 1957 | 70 of 1957 | 6 Dec 1957 | 1 Feb 1958 (see s. 2 and Gazette 24 Jan 1958 p. 129)
+Stamp Act Amendment Act 1950 | 11 of 1950 (14 Geo. VI No. 11) | 17 Nov 1950 | 17 Nov 1950
+Stamp Act Amendment Act 1954 | 5 of 1954 (3 Eliz. II No. 5) | 25 Aug 1954 | 25 Aug 1954
+Betting Control Act 1954 s. 3(2) | 63 of 1954 (3 Eliz. II No. 63) | 30 Dec 1954 | 1 Aug 1955 (see s. 2 and Gazette 29 Jul 1955 p. 1767)
+Stamp Act Amendment Act 1957 | 70 of 1957 (6 Eliz. II No. 70) | 6 Dec 1957 | 1 Feb 1958 (see s. 2 and Gazette 24 Jan 1958 p. 129)
 Reprint of the Stamp Act 1921 approved 1 May 1958 in Volume 12 of Reprinted Acts (includes amendments listed above)
-Stamp Act Amendment Act (No. 2) 1959 | 64 of 1959 | 10 Dec 1959 | 21 Dec 1959 (see s. 2 and Gazette 18 Dec 1959 p. 3337)
-Stamp Act Amendment Act 1959 | 72 of 1959 | 14 Dec 1959 | 1 Jan 1960 (see s. 2 and Gazette 24 Dec 1959 p. 3457)
-Stamp Act Amendment Act 1960 | 22 of 1960 | 11 Oct 1960 | 13 Mar 1961 (see s. 2 and Gazette 10 Mar 1961 p. 653)
-Stamp Act Amendment Act (No. 2) 1960 | 41 of 1960 | 3 Nov 1960 | 1 Jul 1961 (see s. 2 and Gazette 5 May 1961 p. 1069)
-Stamp Act Amendment Act 1961 | 21 of 1961 | 30 Oct 1961 | 30 Oct 1961
-Stamp Act Amendment Act 1962 | 20 of 1962 | 1 Oct 1962 | 1 Oct 1962
-Stamp Act Amendment Act (No. 2) 1962 | 60 of 1962 | 30 Nov 1962 | 1 Jan 1963 (see s. 2)
-Stamp Act Amendment Act (No. 3) 1962 | 69 of 1962 | 30 Nov 1962 | 30 Nov 1962
+Stamp Act Amendment Act (No. 2) 1959 | 64 of 1959 (8 Eliz. II No. 64) | 10 Dec 1959 | 21 Dec 1959 (see s. 2 and Gazette 18 Dec 1959 p. 3337)
+Stamp Act Amendment Act 1959 | 72 of 1959 (8 Eliz. II No. 72) | 14 Dec 1959 | 1 Jan 1960 (see s. 2 and Gazette 24 Dec 1959 p. 3457)
+Stamp Act Amendment Act 1960 | 22 of 1960 (9 Eliz. II No. 22) | 11 Oct 1960 | 13 Mar 1961 (see s. 2 and Gazette 10 Mar 1961 p. 653)
+Stamp Act Amendment Act (No. 2) 1960 | 41 of 1960 (9 Eliz. II No. 41) | 3 Nov 1960 | 1 Jul 1961 (see s. 2 and Gazette 5 May 1961 p. 1069)
+Stamp Act Amendment Act 1961 | 21 of 1961 (10 Eliz. II No. 21) | 30 Oct 1961 | 30 Oct 1961
+Stamp Act Amendment Act 1962 | 20 of 1962 (11 Eliz. II No. 20) | 1 Oct 1962 | 1 Oct 1962
+Stamp Act Amendment Act (No. 2) 1962 | 60 of 1962 (11 Eliz. II No. 60) | 30 Nov 1962 | 1 Jan 1963 (see s. 2)
+Stamp Act Amendment Act (No. 3) 1962 | 69 of 1962 (11 Eliz. II No. 69) | 30 Nov 1962 | 30 Nov 1962
 Reprint of the Stamp Act 1921 approved 22 Apr 1963 (not in a Volume) (includes amendments listed above)
-Stamp Act Amendment Act 1963 | 7 of 1963 | 15 Oct 1963 | 15 Oct 1963
-Stamp Act Amendment Act (No. 2) 1963 | 37 of 1963 | 19 Nov 1963 | 31 Dec 1963 (see s. 2 and Gazette 31 Dec 1963 p. 4055)
-Stamp Act Amendment Act (No. 3) 1963 | 57 of 1963 | 17 Dec 1963 | 17 Dec 1963
-Stamp Act Amendment Act (No. 4) 1963 | 58 of 1963 | 17 Dec 1963 | 1 Jul 1964 (see s. 2 and Gazette 5 Jun 1964 p. 2335)
+Stamp Act Amendment Act 1963 | 7 of 1963 (12 Eliz. II No. 7) | 15 Oct 1963 | 15 Oct 1963
+Stamp Act Amendment Act (No. 2) 1963 | 37 of 1963 (12 Eliz. II No. 37) | 19 Nov 1963 | 31 Dec 1963 (see s. 2 and Gazette 31 Dec 1963 p. 4055)
+Stamp Act Amendment Act (No. 3) 1963 | 57 of 1963 (12 Eliz. II No. 57) | 17 Dec 1963 | 17 Dec 1963
+Stamp Act Amendment Act (No. 4) 1963 | 58 of 1963 (12 Eliz. II No. 58) | 17 Dec 1963 | 1 Jul 1964 (see s. 2 and Gazette 5 Jun 1964 p. 2335)
 Stamp Act Amendment Act 1965 | 72 of 1965 | 25 Nov 1965 | s. 7, 8, 16(d), (h)(i), (j)(i)-(iii), (v) and (o): 1 Dec 1965 (see s. 2(2)); balance other than s. 3, 14 and 16(c): 1 Jan 1966 (see s. 2(1)); s. 3, 14 and 16(c): 14 Feb 1966 (see s. 2(2))
 Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Reprint of the Stamp Act 1921 approved 14 Feb 1966 in Volume 19 of Reprinted Acts (includes amendments listed above)
-Stamp Act Amendment Act 1966 | 67 of 1966 | 12 Dec 1966 | s. 1, 2, 4 and 15(a), (b) and (f): 1 Jan 1967 (see s. 2(2)); balance: 1 Feb 1967 (see s. 2(1))
+Stamp Act Amendment Act 1966 | 67 of 1966 | 12 Dec 1966 | s. 1, 2, 4 and 15(a), (b) and (f): 1 Jan 1967 (see s. 2(2)); balance: 1 Feb 1967 see s. 2(1))
 Stamp Act Amendment Act (No. 2) 1966 | 90 of 1966 | 12 Dec 1966 | 1 Jan 1967 (see s. 2)
 Stamp Act Amendment Act (No. 3) 1966 | 93 of 1966 | 12 Dec 1966 | 1 Jul 1967 (see s. 2 and Gazette 23 Jun 1967 p. 1691)
 Stamp Act Amendment Act 1967 | 50 of 1967 | 24 Nov 1967 | 1 Dec 1967 (see s. 2)
@@ -72,19 +72,19 @@ Stamp Amendment Act (No. 4) 1982 | 93 of 1982 | 22 Nov 1982 | Act other than s. 
 Stamp Amendment Act (No. 5) 1982 | 99 of 1982 | 24 Nov 1982 | 1 Jan 1983 (see s. 2)
 Stamp Amendment Act (No. 6) 1982 | 112 of 1982 | 8 Dec 1982 | 26 Oct 1982 (see s. 2)
 Stamp Amendment Act 1983 | 14 of 1983 | 31 Oct 1983 | Act other than s. 6(d): 1 Nov 1983 (see s. 2(2)); s. 6(d): 1 Dec 1983 (see s. 2(1) and Gazette 25 Nov 1983 p. 4649)
-Stamp Amendment Act (No. 2) 1983 | 61 of 1983 | 13 Dec 1983 | s. 1-4: 13 Dec 1983 (see s. 2(1)); balance: 1 Jan 1984 (see s. 2(2))
-Stamp Amendment Act 1984 | 81 of 1984 | 7 Dec 1984 | 1 Jan 1985 (see s. 2 and Gazette 28 Dec 1984 p. 4197)
+Stamp Amendment Act (No. 2) 1983 | 61 of 1983 | 13 Dec 1983 | s. 1-4: 13 Dec 1983 (see s. 2(1)); Act other than s. 1-4: 1 Jan 1984 (see s. 2(2))
+Stamp Amendment Act 1984 | 81 of 1984 | 7 Dec 1984 | s. 1 and 2: 7 Dec 1984; Act other than s. 1 and 2: 1 Jan 1985 (see s. 2 and Gazette 28 Dec 1984 p. 4197)
 Stamp Amendment Act (No. 2) 1984 | 109 of 1984 | 19 Dec 1984 | 1 Jan 1985 (see s. 2)
 Acts Amendment (Lotteries) Act 1985 Pt. V | 19 of 1985 | 19 Apr 1985 | 19 Apr 1985 (see s. 2(1))
 Reprint of the Stamp Act 1921 as at 9 Jun 1985 (includes amendments listed above)
 Stamp Amendment Act 1985 | 84 of 1985 | 4 Dec 1985 | 1 Jan 1986 (see s. 2)
 Stamp Amendment Act (No. 2) 1985 | 85 of 1985 | 4 Dec 1985 | 1 Jan 1986 (see s. 2)
-Stamp Amendment Act 1986 | 98 of 1986 | 11 Dec 1986 | s. 4-10: 11 Nov 1986 (see s. 2(2)); s. 13-18, 20, 21(1)(a)(i) and 22: 11 Dec 1986 (see s. 2(1)); s. 21(1)(b) and (2): 1 Jan 1987 (see s. 2(4) and Gazette 19 Dec 1986 p. 4859); s. 11 and 19: 8 Jan 1987 (see s. 2(3)); s. 12 and 21(1)(a)(ii): 1 Feb 1987 (see s. 2(4) and Gazette 19 Dec 1986 p. 4859)
+Stamp Amendment Act 1986 | 98 of 1986 | 11 Dec 1986 | s. 4-10: 11 Nov 1986 (see s. 2(2)); s. 1, 2, 13-18, 20, 21(1)(a)(i) and 22: 11 Dec 1986 (see s. 2(1)); s. 21(1)(b) and (2): 1 Jan 1987 (see s. 2(4) and Gazette 19 Dec 1986 p. 4859); s. 11 and 19: 8 Jan 1987 (see s. 2(3)); s. 12 and 21(1)(a)(ii): 1 Feb 1987 (see s. 2(4) and Gazette 19 Dec 1986 p. 4859)
 Stamp Amendment Act 1987 | 33 of 1987 | 30 Jun 1987 | Act other than s. 5, 15 and 19: 30 Jun 1987 (see s. 2(1)); s. 5, 15 and 19: 24 Jul 1987 (see s. 2(2) and Gazette 24 Jul 1987 p. 2813)
 Stamp Amendment Act (No. 2) 1987 | 100 of 1987 | 18 Dec 1987 | 1 Jan 1988 (see s. 2)
 Reprint of the Stamp Act 1921 as at 21 Mar 1989 (includes amendments listed above)
 Stamp Amendment Act (No. 2) 1989 | 3 of 1989 | 20 Apr 1989 | 20 Apr 1989 (see s. 2)
-Stamp Amendment Act (No. 4) 1989 | 16 of 1989 (as amended by No. 41 of 1989 s. 28) | 16 Nov 1989 | s. 4(2): 1 Nov 1989 (see s. 2(2) and Gazette 29 Dec 1989 p. 4665); s. 4(4): 1 Nov 1989 (see s. 2(4)); s. 4(1): 16 Nov 1989 (see s. 2(1)); s. 4(3): 1 Jul 1990 (see s. 2(3) and Gazette 8 Jun 1990 p. 2615)
+Stamp Amendment Act (No. 4) 1989 | 16 of 1989 (as amended by No. 41 of 1989 s. 28) | 16 Nov 1989 | s. 4(2): 1 Nov 1989 (see s. 2(2) and Gazette 29 Dec 1989 p. 4665); s. 4(4): 1 Nov 1989 (see s. 2(4)); s. 1, 2 and 4(1): 16 Nov 1989 (see s. 2(1)); s. 4(3): 1 Jul 1990 (see s. 2(3) and Gazette 8 Jun 1990 p. 2615)
 Taxation (Reciprocal Powers) Act 1989 s. 16 | 18 of 1989 | 1 Dec 1989 | 5 Oct 1990 (see s. 2 and Gazette 5 Oct 1990 p. 5122)
 Stamp Amendment Act (No. 3) 1989 | 41 of 1989 | 21 Dec 1989 | s. 27(3): 30 Jun 1989 (see s. 2(4)); s. 11, 13, 20(a) and (b), 24 and 26: 1 Nov 1989 (see s. 2(2)); s. 4, 10(a)-(c), 12, 20(c) and 27(1): 1 Dec 1989 (see s. 2(3)(b)); s. 1-9, 10(d), 12, 14-16, 18(b)-(e), 21-23, 25, 27(4) and 28: 21 Dec 1989 (see s. 2(5)); s. 17, 18(a), (f) and (g), 19 and 27(2): 1 Jul 1990 (see s. 2(1) and Gazette 8 Jun 1990 p. 2615)
 Stamp Amendment Act 1990 | 20 of 1990 | 24 Jul 1990 | 24 Jul 1990 (see s. 2)
@@ -111,7 +111,7 @@ Stamp Amendment Act 1996 | 57 of 1996 | 11 Nov 1996 | 20 Nov 1995 (see s. 2)
 Strata Titles Amendment Act 1996 s. 40 | 61 of 1996 | 11 Nov 1996 | 20 Jan 1997 (see s. 2 and Gazette 17 Jan 1997 p. 405)
 Road Traffic Amendment Act 1996 Pt. 3 Div. 8 | 76 of 1996 | 14 Nov 1996 | 1 Feb 1997 (see s. 2 and Gazette 31 Jan 1997 p. 613)
 Transfer of Land Amendment Act 1996 s. 153(1) and (2) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
-Revenue Laws Amendment (Assessment) Act 1997 Pt. 4 23-25 | 13 of 1997 | 25 Jun 1997 | Div. 2: 27 Dec 1996 (see s. 2(3)); Div. 3: 14 Jan 1997 (see s. 2(4)); Div. 4: 12 May 1997 (see s. 2(5)); Div. 1, 5-6: 25 Jun 1997 (see s. 2(1))
+Revenue Laws Amendment (Assessment) Act 1997 Pt. 4 | 13 of 1997 | 25 Jun 1997 | Div. 2: 27 Dec 1996 (see s. 2(3)); Div. 3: 14 Jan 1997 (see s. 2(4)); Div. 4: 12 May 1997 (see s. 2(5)); Div. 1, 5 and 6: 25 Jun 1997 (see s. 2(1))
 Acts Amendment (Land Administration) Act 1997 Pt. 55 and s. 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
 Acts Amendment and Repeal (Family Court) Act 1997 s. 37 | 41 of 1997 | 9 Dec 1997 | 26 Sep 1998 (see s. 2)
 Revenue Laws Amendment (Assessment) Act (No. 2) 1997 Pt. 3 | 51 of 1997 | 12 Dec 1997 | 12 Dec 1997 (see s. 2)
@@ -137,17 +137,17 @@ Reprint of the Stamp Act 1921 as at 3 Aug 2001 (includes amendments listed above
 Revenue Laws Amendment (Assessment) Act (No. 2) 2001 Pt. 5 and 6 | 36 of 2001 | 7 Jan 2002 | 7 Jan 2002 (see s. 2(1))
 Revenue Laws Amendment (Taxation) Act (No. 2) 2001 Pt. 4 (s. 13-15) | 37 of 2001 | 7 Jan 2002 | s. 13: 7 Jan 2002 (see s. 2(1)); s. 14: 7 Jan 2002 (see s. 2(4)); s. 15: 7 Jan 2002 (see s. 2(5))
 Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 65 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
-Stamp Amendment (Budget) Act 2002 | 11 of 2002 | 28 Jun 2002 | 1 Jul 2002 (see s. 2)
+Stamp Amendment (Budget) Act 2002 | 11 of 2002 | 28 Jun 2002 | s. 1 and 2: 28 Jun 2002; Act other than s. 1 and 2: 1 Jul 2002 (see s. 2)
 Family Court Amendment Act 2002 s. 52 | 25 of 2002 | 25 Sep 2002 | 1 Dec 2002 (see s. 2 and Gazette 29 Nov 2002 p. 5651)
 Taxation Administration (Consequential Provisions) (Taxing) Act 2002 Pt. 3 | 46 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
-Stamp Amendment Act 2003 | 2 of 2003 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
+Stamp Amendment Act 2003 | 2 of 2003 | 20 Mar 2003 | s. 1 and 2: 20 Mar 2003; Act other than s. 1 and 2: 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 14 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth Gazette 24 Oct 2001 No. GN42)
 Acts Amendment (Equality of Status) Act 2003 Pt. 55 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
-Stamp Amendment (Budget) Act 2003 | 44 of 2003 | 30 Jun 2003 | s. 4: 1 Jul 2003 (see s. 2(2)); s. 5: 1 Jul 2003, but in relation to certain policies of insurance it comes into operation 8 May 2003 (see s. 2(3))
+Stamp Amendment (Budget) Act 2003 | 44 of 2003 | 30 Jun 2003 | s. 1 and 2: 30 Jun 2003; s. 3, 4: 1 Jul 2003 (see s. 2(2)); s. 5: 1 Jul 2003, but in relation to certain policies of insurance it comes into operation 8 May 2003 (see s. 2(3))
 Reprint 14: The Stamp Act 1921 as at 12 Sep 2003 (includes amendments listed above) (correction in Gazette 20 Jul 2004 p. 2909)
 Acts Amendment (Carbon Rights and Tree Plantation Agreements) Act 2003 Pt. 4 | 56 of 2003 | 29 Oct 2003 | 24 Mar 2004 (see s. 2 and Gazette 23 Mar 2004 p. 975)
-Business Tax Review (Taxing) Act (No. 2) 2003 | 59 of 2003 | 26 Nov 2003 | Act other than s. 4(3): 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5721); s. 4(3): 1 Jul 2004 (see s. 2 and Gazette 21 May 2004 p. 1711)
-Business Tax Review (Assessment) Act (No. 2) 2003 Pt. 2 Div. 1 and 2, s. 97-99 and s. 107 | 66 of 2003 | 5 Dec 2003 | s. 107: 1 Jul 2003 (see s. 2(5) and Gazette 27 Jun 2003 p. 2383); Pt. 2 Div. 1 and 2 (other than s. 70(1), 80, 81(1)(a), 82, 83, 85, 87(9), 93, and 94): 1 Jan 2004 (see s. 2(1) and (2) and Gazette 30 Dec 2003 p. 5721); s. 70(1): 1 Mar 2004 (see s. 2(1) and (2) and Gazette 30 Dec 2003 p. 5721); s. 80, 81(1)(a), 82, 83, 85, 87(9), 93 and 94: 1 Jul 2004 (see s. 2(1) and (2) and Gazette 21 May 2004 p. 1711); s. 97-99: 1 Jul 2004 (see s. 2(3))
+Business Tax Review (Taxing) Act (No. 2) 2003 | 59 of 2003 | 26 Nov 2003 | s. 1 and 2: 26 Nov 2003; Act other than s. 1, 2 and 4(3): 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5721); s. 4(3): 1 Jul 2004 (see s. 2 and Gazette 21 May 2004 p. 1711)
+Business Tax Review (Assessment) Act (No. 2) 2003 Pt. 2 Div. 1 and 2, s. 97-99 and 107 | 66 of 2003 | 5 Dec 2003 | s. 107: 1 Jul 2003 (see s. 2(5) and Gazette 27 Jun 2003 p. 2383); Pt. 2 Div. 1 and 2 (other than s. 70(1), 80, 81(1)(a), 82, 83, 85, 87(9), 93, and 94): 1 Jan 2004 (see s. 2(1) and (2) and Gazette 30 Dec 2003 p. 5721); s. 70(1): 1 Mar 2004 (see s. 2(1) and (2) and Gazette 30 Dec 2003 p. 5721); s. 80, 81(1)(a), 82, 83, 85, 87(9), 93 and 94: 1 Jul 2004 (see s. 2(1) and (2) and Gazette 21 May 2004 p. 1711); s. 97-99: 1 Jul 2004 (see s. 2(3))
 Revenue Laws Amendment Act 2004 Pt. 3 | 11 of 2004 | 29 Jun 2004 | 1 Jul 2004 (see s. 2(2))
 Revenue Laws Amendment and Repeal Act 2004 Pt. 5 | 12 of 2004 | 29 Jun 2004 | Div. 1 and 4 (other than s. 26 and 32): 29 Jun 2004 (see s. 2(1)); Div. 2 and 3 and s. 26 and 32: 1 Jul 2004 (see s. 2(2))
 Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
@@ -156,26 +156,24 @@ Reprint 15: The Stamp Act 1921 as at 3 Jun 2005 (includes amendments listed abov
 Revenue Laws Amendment Act 2005 Pt. 3 (s. 5-30) | 11 of 2005 | 30 Aug 2005 | s. 27 and 29: 1 Jan 2004 (see s. 2(3)); s. 28: 1 Jul 2004 (see s. 2(4)); s. 8, 11(1), 13(2) and (3) and 18-25: 18 May 2005 (see s. 2(2)); balance: 30 Aug 2005 (see s. 2(1))
 Revenue Laws Amendment Act (No. 2) 2005 Pt. 3 | 12 of 2005 | 30 Aug 2005 | 30 Aug 2005 (see s. 2(1))
 Stamp Amendment Act 2005 | 34 of 2005 | 12 Dec 2005 | Act other than Pt. 3: 12 Dec 2005 (see s. 2(1)); Pt. 3: 1 Jan 2006 (see s. 2(2))
-Stamp Amendment (Taxing) Act 2005 | 35 of 2005 | 12 Dec 2005 | 1 Mar 2006 (see s. 2 and Gazette 24 Jan 2006 p. 429)
+Stamp Amendment (Taxing) Act 2005 | 35 of 2005 | 12 Dec 2005 | s. 1 and 2: 12 Dec 2005; Act other than s. 1 and 2: 1 Mar 2006 (see s. 2 and Gazette 24 Jan 2006 p. 429)
 Stamp Amendment (Assessment) Act 2005 | 36 of 2005 | 12 Dec 2005 | s. 5: 1 Jul 1997 (see s. 2(2)); s. 1-4 and 7: 12 Dec 2005 (see s. 2(1)); s. 6 and 8: 1 Mar 2006 (see s. 2(3) and Gazette 24 Jan 2006 p. 429)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 16: The Stamp Act 1921 as at 12 May 2006 (includes amendments listed above except the amendments in the Revenue Laws Amendment Act 2006 s. 4, 5(2) and 6) (correction in Gazette 18 Jul 2006 p. 2619)
 Revenue Laws Amendment Act 2006 Pt. 2 (s. 3-16) | 31 of 2006 | 4 Jul 2006 | s. 4: 1 Jan 2004 (see s. 2(2)); s. 5(2) and 6: 1 Jul 2004 (see s. 2(3)); s. 14 and 16: 1 Jul 2006 (see s. 2(5) and (6)); s. 3, 5(1), 7-13 and 15: 4 Jul 2006 (see s. 2(1))
 Stamp Amendment Act 2006 | 67 of 2006 | 11 Dec 2006 | s. 4: 27 Jun 2006 (see s. 2(2)); Act other than s. 4: 12 Dec 2006 (see s. 2(1))
-Revenue Laws Amendment (Taxation) Act 2007 Pt. 5 | 12 of 2007 | 29 Jun 2007 | Pt. 5 (other than s. 13(2)): 1 Jul 2007 (see s. 2(d)(i))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Revenue Laws Amendment (Taxation) Act 2007 Pt. 5 | 12 of 2007 | 29 Jun 2007 | Pt. 5 other than s. 13(2): 1 Jul 2007 (see s. 2(d)(i))
+Reprint 17: The Stamp Act 1921 as at 24 Aug 2007 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 30 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Revenue Laws Amendment (Taxation) Act 2007 s. 13(2) | 12 of 2007 | 29 Jun 2007 | 1 Jan 2009 (see s. 2(e))
 Repealed by the Mining Act 1978.
-The Stamp Amendment Act (No. 2) 1994 s. 4(2) reads as follows:
-“
-(2) An exemption or refund may be allowed under Part IIIBAA of the principal Act as inserted by this section in respect of an instrument executed on or after the day on which this Act comes into operation.
-”.
+This section has a retrospective commencement date effective from 1 Jul 2004 see the Revenue Laws Amendment Act 2006 s. 2(3).
 The Acts Amendment (Land Administration) Act 1997 came into operation 30 Mar 1998.
-The Stamp Act Amendment Act (No. 2) 1952 was repealed by the Betting Control Act 1954 s. 3(1).
-The Road Traffic Amendment Act 2000 Pt. 3 Div. 3 was repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 28(3).
+The Stamp Act Amendment Act (No. 2) 1952 commenced on 5 Jan 1953 (see Gazette 31 Dec 1952 p. 2985) but was repealed by the Betting Control Act 1954 s. 3(1).
+The Road Traffic Amendment Act 2000 Pt. 3 Div. 3 would have amended the Stamp Act 1921 but was repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 28(3) without coming into operation.
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 6 Div. 1 of those regulations read as follows:
 “
 1.Citation
@@ -238,7 +236,7 @@ Section 119(1) is modified in the definition of “exempt body” by inserting a
 (aa) the Commonwealth or the Crown in right of the Commonwealth;
 ”.
 ”.
-Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. r. 1-5 and Pt. 6 Div. 1 of that notice read as follows:
+Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. R. 1-5 and Pt. 6 Div. 1 of that notice read as follows:
 “
 1.Citation
 This notice is the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
@@ -316,50 +314,11 @@ Section 16(1) is modified by deleting “for the use of the Crown”.
 Section 81 is modified in the definition of “corresponding Act” by inserting after “State” —
 “ or an applied interstate law ”.
 ”.
-The amendment in the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 175(3) is not included because the section it sought to amend has been repealed by the Stamp Amendment Act 2003 s. 7 before the amendment purported to come into operation.
-The renumbering of Parts, Divisions, sections, etc., effected in the 1934 reprint (in the appendix to the annual sessional volume of 1933-1934) and subsequent reprints has been retained. References to the original numbering are contained in those reprints.
+The amendment in the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 175(3) is not included because the section it sought to amend had been repealed by the Stamp Amendment Act 2003 s. 7 before the amendment purported to come into operation.
+The renumbering of Parts, Divisions, sections etc. effected in the 1934 reprint (in the appendix to the annual sessional volume of 1933-1934) and subsequent reprints has been retained. References to the original numbering are contained in those reprints.
 The Second Schedule to the Metric Conversion Act 1972 was inserted by the Metric Conversion Act Amendment Act 1973.
-The Stamp Amendment Act 1981 s. 5(2) reads as follows:
-“
-(2) Where duty has been or is being paid under section 112K of this Act in respect of a loan, other than a loan upon an account current, at the rate provided for by that section as it was prior to the coming into operation of this section of this Act, section 112K(1)(b) shall continue to apply in respect of every such loan as if this section had not been enacted.
-”.
-The Stamp Amendment Act 1986 s. 21(2) reads as follows:
-“
-(2) The exemptions provided for by subitems (2) and (3) inserted by paragraph (b) of subsection (1) apply to a policy of insurance, or a renewal, entered into after the commencement of that paragraph.
-”.
-The Stamp Amendment Act 1987 s. 4 reads as follows:
-“
-4.Retrospective application and transitional provisions
-(1) Section 76AG inserted in the principal Act by section 22 of this Act extends to any relevant acquisition of a majority interest or a further interest in a company to which Division 2 of Part IIIBA of the principal Act applies that occurred on or after 19 January 1987, and the provisions of Divisions 1 and 2 of that Part and any regulations having effect for the purposes of those Divisions shall have effect accordingly.
-(2) Section 76AN inserted in the principal Act by section 22 of this Act extends to any relevant acquisition of a majority interest or a further interest in a corporation to which Division 3 of Part IIIBA of the principal Act applies that occurred on or after 19 January 1987, and the provisions of Divisions 1 and 3 of that Part and any regulations having effect for the purposes of those Divisions shall have effect accordingly.
-(3) Subsections (1) and (2) have effect notwithstanding that duty on an instrument effecting or evidencing an acquisition has already been paid under item 4(3) of the Second Schedule.
-(4) A statement required by subsection (1) or (2) shall be prepared and lodged not later than 3 months after the commencement of this section.
-(5) Notwithstanding subsection (1) or (2), a previous acquisition referred to in subparagraph (ii) of section 76AJ(1)(a) or subparagraph (ii) of section 76AQ(1)(a) of the principal Act shall not be taken into account for the purposes of that subparagraph if it occurred before 19 January 1987.
-(6) Regulations having retrospective effect to 19 January 1987 may be made under section 120(1) of the principal Act so far as it is necessary or expedient to do so to give effect to this section.
-(7) An expression used in this section in relation to a Division of Part IIIBA of the principal Act has the same meaning as it has for the purposes of that Division.
-”.
-The Stamp Amendment Act (No. 2) 1987 s. 9(2) reads as follows:
-“
-(2) A notice of election given under section 112K(2) of the principal Act as in force before the commencement of this Act and not cancelled shall continue to have effect as if given under that subsection after the commencement of this Act.
-”.
-The Stamp Amendment Act 1991 s. 8(2) reads as follows:
-“
-(2) Nothing in this section affects the approval of an odd lot specialist given under the principal Act before the coming into operation of this section and any odd lot specialist so approved shall be taken to have been approved as an odd lot specialist under the principal Act as amended by this Act.
-”.
-The Stamp Amendment Act (No. 2) 1994 s. 5(2) and (3) read as follows:
-“
-(2) If before the commencement of this Act, duty has been paid under item 8(1) of the Second Schedule to the principal Act in respect of an instrument that is exempt from duty because of the amendment to the Third Schedule made by subsection (1), the person by or on whose behalf the duty was paid may make written application to the Commissioner for the refund of the duty.
-(3) On receipt of an application under subsection (1) and on being satisfied that the applicant is the person by or on whose behalf the duty was paid, the Commissioner is to refund the duty to the applicant.
-”.
-The Stamp Amendment (Marketable Securities Duty) Act 1995 s. 5 reads as follows:
-“
-5.Saving provision
-The principal Act as in force immediately before the commencement of this Act continues to operate in respect of conveyances and transfers of marketable securities and rights in respect of shares made or executed before 1 July 1995.
-”.
-The Stamp Amendment Act 1995 s. 4(2) reads as follows:
-“
-(2) Subsection (3) as inserted in section 27 of the principal Act by this Act applies to an instrument or document executed before or after the commencement of this Act.
-”.
+The Stamp Amendment Act 1987 s. 4 provided for s. 76AG and 76AN, which were inserted by the 1987 Act, to have retrospective application to transactions occurring on or after 19 Jan 1987.
+The Stamp Amendment Act (No. 2) 1994 s. 4(2) and 5(2) and (3) contain transitional provisions relating to documents executed before the commencement of this Act.
 The Stamp Amendment Act 1995 s. 6(2) reads as follows:
 “
 (2) Section 73F is enacted to avoid doubt and does not limit the application of the principal Act as enacted before the commencement of this section to transactions entered into in relation to business licences (within the meaning of that section) before that commencement.
@@ -368,58 +327,12 @@ The Revenue Laws Amendment (Assessment) Act 1996 s. 32(5) reads as follows:
 “
 (5) Section 75E of the principal Act as amended by this Act applies to an instrument executed on or after the commencement of the Revenue Laws Amendment (Assessment) Act 1996.
 ”.
-The Stamp Amendment Act 1996 s. 9 reads as follows:
-“
-9.Transitional
-(1) If because of the amendments made by this Act to the Stamp Act 1921, a person is required under Division 2 of Part IIIBA of that Act to lodge a statement in respect of a relevant acquisition that occurred on or after 20 November 1995 and before this Act receives the Royal Assent, then despite section 76AG(3) of that Act the statement shall be lodged within 3 months after the date on which this Act receives the Royal Assent.
-(2) If under section 112HA of the Stamp Act 1921 as inserted by section 8 of this Act, a statement in respect of a capital reduction or a share cancellation is required to be lodged by that section before this Act receives the Royal Assent, then despite section 112HA of that Act the statement shall be lodged within 3 months after the date on which this Act receives the Royal Assent.
-”.
 The Revenue Laws Amendment (Assessment) Act 1997 s. 36(2) reads as follows:
 “
 (2) Section 27(3) as inserted in the principal Act by subsection (1) applies to an instrument or document executed before or after the day on which this section commences.
 ”.
-The Revenue Laws Amendment (Assessment) Act 1997 s. 39(2) and (3) read as follows:
-“
-(2) Section 76D of the principal Act as it was in force immediately before the commencement day continues to have effect after the commencement day in relation to deeds made before the commencement day despite the repeal of Part IIICA by this Act.
-(3) In subsection (2) —
-“commencement day” means the day on which this Act comes into operation.
-”.
-The Revenue Laws Amendment (Assessment) Act 1997 s. 24 and 48 read as follows:
-“
-24.Reassessment
-(1) This Division has effect notwithstanding that duty on an instrument has been assessed on or after 27 December 1996 and before the day on which this Act receives the Royal Assent (the “original assessment”).
-(2) If it appears to the Commissioner that the original assessment is for a lesser amount than would be assessed under the principal Act as amended by this Division, the Commissioner may make a reassessment of the duty chargeable.
-(3) The reassessment supersedes the original assessment.
-(4) The reassessment is taken to have been made under the principal Act and the provisions of the principal Act apply to and in relation to the reassessment as if it were an assessment under that Act.
-48.Transitional
-The Commissioner is to refund the amount of any duty paid on a vehicle licence if —
-(a) the licence was issued on or after 16 January 1997;
-(b) the Commissioner is satisfied that, because of the amendments made to the principal Act by this Division duty is not payable on that licence; and
-(c) an application is made in writing to the Commissioner for the refund within 12 months after the duty was paid.
-”.
-The Revenue Laws Amendment (Taxation) Act 1998 s. 13 reads as follows:
-“
-13.Saving
-Subject to section 2(4) and (5), and without limiting the operation of the Interpretation Act 1984, the provisions of the Stamp Act 1921 as in force immediately before 1 July 1998 continue to have effect in relation to instruments executed before 1 July 1998.
-”.
-The Revenue Laws Amendment (Taxation) Act 1998 s. 2(4) and (5) read as follows:
-“
-(4) Section 12(11) is deemed to have come into operation on 30 April 1998 in relation to a policy of insurance that is effected on or after 30 April 1998 and before 1 July 1998 if —
-(a) the period for which the policy is valid commences on or after 1 July 1998; or
-(b) the period for which the policy is valid commences on or after 30 April 1998 and before 1 July 1998 and the policy replaces another policy with the same insurer that would otherwise have expired on or after 1 July 1998.
-(5) Section 12(11) is deemed to have come into operation on 30 April 1998 in relation to a policy of insurance that is renewed on or after 30 April 1998 and before 1 July 1998 if —
-(a) the period for which the policy is renewed commences on or after 1 July 1998; or
-(b) the policy being renewed would otherwise have expired on or after 1 July 1998.
-”.
-The Revenue Laws Amendment (Taxation) Act 1999 s. 7(2), (3) and (4) read as follows:
-“
-(2) Subject to subsection (3), if an application for the issue or transfer of a motor vehicle licence is made to a licensing authority before this section commences, then the Stamp Act 1921 as it was in force immediately before this section commences continues to operate in respect of the issue or transfer of the licence.
-(3) If —
-(a) an application for the issue or transfer of a motor vehicle licence is made to a licensing authority on or after 1 July 1999; and
-(b) stamp duty in respect of the issue or transfer is not paid before the day on which this section commences,
-then the Stamp Act 1921 as amended by subsection (1) operates in respect of the issue or transfer of the licence.
-(4) If under section 76C(9), (10) or (10C) of the Stamp Act 1921 duty is assessed before this section commences, then the Stamp Act 1921 as it was in force immediately before this section commences continues to operate in respect of any issue or transfer of a licence as a result of the assessment.
-”.
+The Revenue Laws Amendment (Taxation) Act 1998 s. 2(4) and (5) and 13 contain transitional provisions relating to instruments executed before 1 July 1998.
+The Revenue Laws Amendment (Taxation) Act 1999 s. 7(2), (3) and (4) contain transitional provisions relating to applications made before 1 July 1999.
 The Financial Relations Agreement (Consequential Provisions) Act 1999 s. 3 and 32 read as follows:
 “
 3.Objectives
@@ -479,12 +392,11 @@ Where a licensed supplier is entitled to a refund of duty from the Commissioner 
 (1) Where the Commissioner of State Revenue was entitled to create a memorandum under section 111E of the Stamp Act, and that entitlement had not been exercised by the Commissioner of State Revenue before or on the commencement day, then on and from the commencement day the Commission is instead entitled to create that memorandum.
 (2) In addition to the entitlement under subsection (1), the Commission is entitled to assess the amount to be paid (including any fine), and to collect the outstanding amount, in relation to a memorandum created under subsection (1).
 ”.
-The Revenue Laws Amendment (Assessment) Act 2000 s. 6(2) reads as follows:
+The Revenue Laws Amendment (Assessment) Act 2000 s. 6(2) and 8(2), (3) and (4) read as follows:
 “
+6.Section 75JB amended and transitional provision
 (2) In the event of a cessation of ownership or control referred to in section 75JB(5f)(a) or (b) of the Stamp Act 1921 as inserted by subsection (1) taking place on or after 25 May 2000 and before this Act receives the Royal Assent, the notification required by section 75JB(5f)(c) of that Act is to be given within one month after this Act receives the Royal Assent.
-”.
-The Revenue Laws Amendment (Assessment) Act 2000 s. 8(2), (3) and (4) read as follows:
-“
+8.Section 75JDA inserted and transitional provision
 (2) In subsections (3) and (4) —
 “transitional period” means the period beginning on 25 October 1999 and ending when subsection (1) comes into operation.
 (3) If an exemption under section 75JB of the Stamp Act 1921 has been granted during the transitional period and the Commissioner is of the opinion that it would not have been granted if subsection (1) had come into operation on 25 October 1999, the claw-back under Part IIIBAAA of that Act applies.
@@ -625,6 +537,7 @@ is taken not to be valid, and to never have been valid.
 ”.
 The Stamp Amendment (Budget) Act 2003 s. 4(7) reads as follows:
 “
+4.Second Schedule item 4 amended and transitional provision
 (7) Despite the amendments made by this section, the Stamp Act 1921 as in force immediately before 1 July 2003 continues to apply to and in relation to instruments of a kind referred to in the Second Schedule item 4(1) to that Act that were executed before 1 July 2003.
 ”.
 The Business Tax Review (Assessment) Act (No. 2) 2003 s. 16(2), 24(3), 25(2), 27(2), 40(3), 50(2), (11), (12), 89-94 and 98(2) read as follows:
@@ -737,12 +650,10 @@ The Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 s. 9 reads as follows:
 (b) if an instrument first executed on or after 29 October 2004 replaces the existing instrument, apply in relation to the replacement instrument to the extent to which it is a conveyance or transfer of the dutiable property.
 (3) Subject to subsection (2)(b), the provisions of the Stamp Act 1921 as amended by this Part apply in relation to a conveyance or transfer of property first executed on or after 29 October 2004.
 ”.
-The Revenue Laws Amendment Act 2005 s. 13(5) reads as follows:
+The Revenue Laws Amendment Act 2005 s. 13(5) and 30 read as follows:
 “
+13.Section 75JB amended and transitional provision
 (5) A notification required under the Stamp Act 1921 section 75JB(4) as amended by subsection (4) does not have to be given before the end of the period of one month after the day on which this Act receives the Royal Assent.
-”.
-The Revenue Laws Amendment Act 2005 s. 30 reads as follows:
-“
 30.Saving and transitional provisions
 (1) In this section —
 “amended provisions” means the Stamp Act 1921 sections 76AI, 76AP, 76AR, 76ATB, 76ATI, 76ATK and 76AW as enacted after the coming into operation of sections 18 to 25 of this Act;
@@ -755,7 +666,7 @@ The Revenue Laws Amendment Act 2005 s. 30 reads as follows:
 (c) the existing provisions would not have required such a statement to be lodged,
 the statement does not have to be lodged before the end of the period of 2 months after the day on which this Act receives the Royal Assent.
 ”.
-The Stamp Amendment Act 2005 s. 8 reads as follows:
+The Stamp Amendment Act 2005 s. 8 and 10(2) read as follows:
 “
 8.Retrospective effect of certain provisions
 (1) A person who was a dealer at any time during the retrospective period is to be treated, in respect of the person’s liability to duty under Part IIIC during that period, as if Part IIIC included a provision to the effect of the Stamp Act 1921 section 76D(5a) (excluding paragraph (b)) as inserted by section 5(1) of this Act.
@@ -768,9 +679,7 @@ The Stamp Amendment Act 2005 s. 8 reads as follows:
 “Commissioner” has the meaning given to that term in the Taxation Administration Act 2003;
 “reassessment” has the meaning given to that term in the Taxation Administration Act 2003;
 “retrospective period” means the period beginning on 23 August 2000 and ending on the day before the day on which this Part comes into operation.
-”.
-The Stamp Amendment Act 2005 s. 10(2) reads as follows:
-“
+10.Section 86A and 86B inserted and application provision
 (2) The Stamp Act 1921 sections 86A(1) and 86B(1) do not apply to mortgages (as defined in the Stamp Act 1921 section 82) executed before 1 January 2006.
 ”.
 The Stamp Amendment (Assessment) Act 2005 s. 7 and 8 read as follows:
@@ -796,14 +705,13 @@ The Stamp Amendment (Assessment) Act 2005 s. 7 and 8 read as follows:
 “new Part IIIF” means Part IIIF of the Stamp Act 1921 as in force after commencement and, for the purposes of this section, is to be taken to include item 16 of the Second Schedule of the Stamp Act 1921 as in force after commencement;
 “old Part IIIF” means Part IIIF of the Stamp Act 1921 as in force immediately before commencement and, for the purposes of this section, is to be taken to include item 16 of the Second Schedule and item 8 of the Third Schedule of the Stamp Act 1921, as in force immediately before commencement.
 ”.
-On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 30 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 30 had not come into operation. It reads as follows:
 “
 30.Stamp Act 1921 amended
 (1) The amendments in this section are to the Stamp Act 1921.
 (2) The Third Schedule is amended by deleting items 3(2) and 7(11).
 ”.
-This section has a retrospective commencement date effective from 1 Jul 2004 see the Revenue Laws Amendment Act 2006 s. 2(3).
-On the date as at which this compilation was prepared, the Revenue Laws Amendment (Taxation) Act 2007 s. 13(2) had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Revenue Laws Amendment (Taxation) Act 2007 s. 13(2) had not come into operation. It reads as follows:
 “
 13.Second Schedule amended
 (2) The Second Schedule item 14(1) is amended as follows:
