@@ -1,6 +1,6 @@
 ## Third Schedule
 [Section 45]
-Implied covenants
+## Implied covenants
 Part I
 [Section 45(1)(a)]
 Covenant implied in a Conveyance for Valuable Consideration other than a Mortgage, by a Person who conveys and is expressed to Convey as Beneficial Owner.
@@ -30,8 +30,8 @@ Part V
 Covenant implied in a Conveyance by way of Settlement, by a Person who conveys and is expressed to Convey as Settlor.
 That the person so conveying, and every person deriving title under him by deed or act or operation of law in his lifetime subsequent to that conveyance, or by testamentary disposition or devolution in law, on his death, will, from time to time, and at all times, after the date of that conveyance, at the request and cost of any person deriving title thereunder, execute and do all such lawful assurances and things for further or more perfectly assuring the subject-matter of the conveyance to the persons to whom the conveyance is made and those deriving title under them, as by them or any of them shall be reasonably required, subject as if so expressed, and in the manner in which the conveyance is expressed to be made.
 Part VI
-[Section 45(1)(f).]
+[Section 45(1)(f)]
 Covenant implied in any Conveyance, by every Person who Conveys and is expressed to Convey as Trustee or Mortgagee, or as Personal Representative of a Deceased Person, or as Administrator of the Estate of a represented person or under an Order of the Court.
 That the person so conveying has not executed or done, or knowingly suffered, or been party or privy to any deed or thing, whereby or by means whereof the subject-matter of the conveyance or any part thereof, is or may be impeached, charged, affected or encumbered in title, estate, or otherwise, or whereby or by means whereof the person who so conveys is in anywise hindered from conveying the subject-matter of the conveyance, or any part thereof, in the manner in which it is expressed to be conveyed.
 The foregoing covenant may be implied in an assent in like manner as in a conveyance by deed.
-[Third Schedule amended by No. 24 of 1990 s.123.]
+[Third Schedule amended by No. 24 of 1990 s. 123.]
