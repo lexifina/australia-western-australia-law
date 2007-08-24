@@ -1,6 +1,6 @@
 ## Schedule 1 — Forms
-[Heading inserted in Gazette 30 Jan 2004 p. 411.]
 [r. 77]
+[Heading inserted in Gazette 30 Jan 2004 p. 411.]
 Form 1
 Betting Control Act 1954
 [s. 28A]

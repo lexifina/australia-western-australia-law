@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Betting Control Regulations 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 24 August 2007 of the Betting Control Regulations 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Betting Control Regulations 1978 | 22 Jun 1978 p. 1991-2014 | 22 Jun 1978
@@ -46,4 +46,4 @@ Betting Control Amendment Regulations 2006 | 21 Jul 2006 p. 2669-89 | 21 Jul 200
 Betting Control Amendment Regulations (No. 3) 2006 | 10 Oct 2006 p. 4391-2 | 10 Oct 2006
 Betting Control Amendment Regulations (No. 4) 2006 | 14 Nov 2006 p. 4729-30 | 1 Jan 2007 (see r. 2)
 Betting Control Amendment Regulations (No. 2) 2007 | 22 Jun 2007 p. 2863-5 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jul 2007 (see r. 2(b) and Gazette 22 Jun 2007 p. 2837)
-Expired on 30 Jan 2005 (see Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 48 & 120).
+Reprint 5: The Betting Control Regulations 1978 as at 24 Aug 2007 (includes amendments listed above)
