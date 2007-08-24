@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Construction Industry Portable Paid Long Service Leave Regulations 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 24 August 2007 of the Construction Industry Portable Paid Long Service Leave Regulations 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
- | Gazettal | Commencement
+Citation | Gazettal | Commencement
 Construction Industry Portable Paid Long Service Leave Regulations 1986 | 19 Dec 1986 p. 4924-5 | 19 Dec 1986
 Construction Industry Portable Paid Long Service Leave Amendment Regulations 1987 | 29 May 1987 p. 2233 | 29 May 1987
 Construction Industry Portable Paid Long Service Leave Amendment Regulations 1988 | 30 Sep 1988 p. 4006 | 30 Sep 1988
@@ -31,3 +31,4 @@ Construction Industry Portable Paid Long Service Leave Amendment Regulations 200
 Construction Industry Portable Paid Long Service Leave Amendment Regulations (No. 2) 2004 | 12 Oct 2004 p. 4753-4 (as amended in Gazette 14 Dec 2004 p. 6002) | 1 Jan 2005 (see r. 2)
 Construction Industry Portable Paid Long Service Leave Amendment Regulations 2005 | 8 Jul 2005 p. 3159 | 8 Jul 2005
 Construction Industry Portable Paid Long Service Leave Amendment Regulations 2006 | 7 Nov 2006 p. 4677-8 | Regulations other than r. 4: 7 Nov 2006 (see r. 2(1)); r. 4: 1 Jan 2007 (see r. 2(2))
+Reprint 3: The Construction Industry Portable Paid Long Service Leave Regulations 1986 as at 24 Aug 2007 (includes amendments listed above)
