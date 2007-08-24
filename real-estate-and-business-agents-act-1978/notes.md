@@ -1,10 +1,10 @@
 Notes
-This is a compilation of the Real Estate and Business Agents Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 24 August 2007 of the Real Estate and Business Agents Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Real Estate and Business Agents Act 1978 | 72 of 1978 | 20 Oct 1978 | Act other than s. 5, 54, 55, 57-100, 102-131 and 135: 1 Sep 1979 (see s. 2(1) and Gazette 31 Aug 1979 p. 2601); s. 5: 1 Dec 1979 (see s. 2(2) and Gazette 31 Aug 1979 p. 2615); s. 54, 55, 57-100, 102-131 and 135: 1 Dec 1979 (see s. 2(1) and Gazette 31 Aug 1979 p. 2601)
 Real Estate and Business Agents Act Amendment Act 1979 | 74 of 1979 | 27 Nov 1979 | 27 Nov 1979
-Real Estate and Business Agents Amendment Act 1980 | 74 of 1980 | 5 Dec 1980 | s. 13: 1 Dec 1980 (see s. 2(2)); balance: 2 Jan 1981 (see s. 2(1))
+Real Estate and Business Agents Amendment Act 1980 | 74 of 1980 | 5 Dec 1980 | s. 13: 1 Dec 1980 (see s. 2(2)); Act other than s. 13: 2 Jan 1981 (see s. 2(1))
 Reprint of the Real Estate and Business Agents Act 1978 approved 23 Feb 1982 (includes amendments listed above)
 Companies (Consequential Amendments) Act 1982 s. 28 | 10 of 1982 | 14 May 1982 | 1 Jul 1982 (see s. 2(1) and Gazette 25 Jun 1982 p. 2079)
 Real Estate and Business Agents Amendment Act 1982 | 29 of 1982 | 27 May 1982 | 25 Jun 1982 (see s. 2 and Gazette 25 Jun 1982 p. 2091)
@@ -15,19 +15,19 @@ Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 |
 State Government Insurance Commission Act 1986 s. 46(2) | 51 of 1986 | 5 Aug 1986 | 1 Jan 1987 (see s. 2 and Gazette 19 Dec 1986 p. 4859)
 Acts Amendment (Legal Practitioners, Costs and Taxation) Act 1987 Pt. XV | 65 of 1987 | 1 Dec 1987 | 12 Feb 1988 (see s. 2(2) and Gazette 12 Feb 1988 p. 397)
 Residential Tenancies Act 1987 s. 89 | 128 of 1987 | 21 Jan 1988 | 1 Oct 1989 (see s. 2 and Gazette 18 Aug 1989 p. 2748)
-Real Estate and Business Agents Amendment Act 1988 | 18 of 1988 | 9 Sep 1988 | 28 Oct 1988 (see s. 2 and Gazette 28 Oct 1988 p. 4327)
+Real Estate and Business Agents Amendment Act 1988 | 18 of 1988 | 9 Sep 1988 | s. 1 and 2: 9 Sep 1988; Act other than s. 1 and 2: 28 Oct 1988 (see s. 2 and Gazette 28 Oct 1988 p. 4327)
 R & I Bank Act 1990 s. 45(1) | 73 of 1990 | 20 Dec 1990 | 1 Jan 1991 (see s. 2(2) and Gazette 28 Dec 1990 p. 6369)
 R & I Bank Amendment Act 1994 s. 13 | 6 of 1994 | 11 Apr 1994 | 26 Apr 1994 (see s. 2(2) and Gazette 26 Apr 1994 p. 1743)
 Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
 Real Estate and Business Agents Amendment Act 1994 | 43 of 1994 | 31 Aug 1994 | Act other than s. 7 and 8(b)(i): 31 Aug 1994 (see s. 2(1)); s. 7 and 8(b)(i): 6 Oct 1994 (see s. 2(2) and Gazette 30 Sep 1994 p. 4947)
 Bank of Western Australia Act 1995 s. 44(1) | 14 of 1995 | 4 Jul 1995 | 1 Dec 1995 (see s. 2(3) and 9(1) and Gazette 29 Nov 1995 p. 5529)
 Business Licensing Amendment Act 1995 Pt. 8 | 56 of 1995 | 20 Dec 1995 | 1 Jul 1996 (see s. 2(2) and Gazette 1 Jul 1996 p. 3179)
-Real Estate Legislation Amendment Act 1995 Pt. 2 | 59 of 1995 | 20 Dec 1995 | Pt. 2, other than s. 11: 1 Jul 1996 (see s. 2 and Gazette 25 Jun 1996 p. 2902 and 6 Sep 1996 p. 4405) s. 11: 5 Apr 2007 (see s. 2 and Gazette 30 Mar 2007 p. 1451)
-Reprint of the Real Estate and Business Agents Act 1978 as at 6 Sep 1996 (includes amendments listed above) (correction in Gazette 11 Oct 1996 p. 5396)
-Real Estate and Business Agents Amendment Act 1998 | 34 of 1998 | 6 Jul 1998 | 1 Nov 1998 (see s. 2 and Gazette 16 Oct 1998 p. 5729)
+Real Estate Legislation Amendment Act 1995 Pt. 2 | 59 of 1995 | 20 Dec 1995 | Pt. 2, other than s. 11: 1 Jul 1996 (see s. 2 and Gazette 25 Jun 1996 p. 2902 and 6 Sep 1996 p. 4405); s. 11: 5 Apr 2007 (see s. 2 and Gazette 30 Mar 2007 p. 1451)
+Reprint of the Real Estate and Business Agents Act 1978 as at 6 Sep 1996 (includes amendments listed above except those in the Real Estate Legislation Amendment Act 1995 s. 11) (correction in Gazette 11 Oct 1996 p. 5396)
+Real Estate and Business Agents Amendment Act 1998 | 34 of 1998 | 6 Jul 1998 | s. 1 and 2: 6 Jul 1998; Act other than s. 1 and 2: 1 Nov 1998 (see s. 2 and Gazette 16 Oct 1998 p. 5729)
 Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 99 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
 Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 Pt. 2 | 3 of 2000 | 12 Apr 2000 | 12 Apr 2000 (see s. 2)
-Reprint of the Real Estate and Business Agents Act 1978 as at 9 Mar 2001 (includes amendments listed above)
+Reprint of the Real Estate and Business Agents Act 1978 as at 9 Mar 2001 (includes amendments listed above except those in the Real Estate Legislation Amendment Act 1995 s. 11)
 Corporations (Consequential Amendments) Act 2001 s. 220 and 222 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Building Societies Amendment Act 2001 s. 50 and 51 | 12 of 2001 | 13 Jul 2001 | 13 Jul 2001 (see s. 2)
 Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 12 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth Gazette 24 Oct 2001 No. GN42)
@@ -37,13 +37,14 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 59 | 65 of 200
 Statutes (Repeals and Minor Amendments) Act 2003 s. 101 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 112 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Reprint 5: The Real Estate and Business Agents Act 1978 as at 8 Apr 2005 (includes amendments listed above except those in the Courts Legislation Amendment and Repeal Act 2004)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
+Reprint 5: The Real Estate and Business Agents Act 1978 as at 8 Apr 2005 (includes amendments listed above except those in the Real Estate Legislation Amendment Act 1995 s. 11, Courts Legislation Amendment and Repeal Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 19 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 8 | 69 of 2006 | 13 Dec 2006 | 25 Jul 2007 (see s. 2 and Gazette 24 Jul 2007 p. 3657)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 6: The Real Estate and Business Agents Act 1978 as at 24 Aug 2007 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 29 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
@@ -51,6 +52,7 @@ The provision in this Act repealing the Land Agents Act 1921 has been omitted un
 The “appointed day” was 1 December 1979. See Gazette 31 August 1979 p. 2615.
 The Land Agents Act 1921.
 Repealed by the Interpretation Act 1984.
+Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 The Business Licensing Amendment Act 1995 s. 49 is a transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 10(2) reads as follows:
 “
@@ -81,8 +83,7 @@ In this Part —
 is taken not to be valid, and to never have been valid.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 29 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 29 had not come into operation. It reads as follows:
 “
 29.Real Estate and Business Agents Act 1978 amended
 (1) The amendments in this section are to the Real Estate and Business Agents Act 1978.
