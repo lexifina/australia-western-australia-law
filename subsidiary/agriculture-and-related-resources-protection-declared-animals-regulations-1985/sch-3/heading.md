@@ -44,4 +44,4 @@ Waxbill, Common; St Helena Waxbill | Estrilda astrild
 Weaver, Cut-throat; Cut-throat Finch; Ribbon Finch | Amadina fasciata
 Weaver, Grenadier; Red Bishop; Orange Bishop Weaver; Northern Red Bishop Weaver | Euplectes orix
 Whydah, White-winged | Euplectes albonotatus
-[Schedule 3 inserted in Gazette 28 June 2002 p. 3040-1.]
+[Schedule 3 inserted in Gazette 28 Jun 2002 p. 3040-1.]
