@@ -4,3 +4,4 @@ Compilation table
 Citation | Gazettal | Commencement
 Magistrates Court (General) Rules 2005 | 28 Apr 2005 p. 1605-49 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2005 p. 7127)
 Magistrates Court (General) Amendment Rules 2005 | 8 Jul 2005 p. 3160 | 8 Jul 2005
+Magistrates Court (General) Amendment Rules 2007 | 24 Aug 2007 p. 4322-7 | r. 1, 2 and 3: 24 Aug 2007 (see r. 2(a)); Rules other than r. 1, 2 and 3: 25 Aug 2007 (see r. 2(b))
