@@ -4,3 +4,4 @@ Compilation table
 Citation | Gazettal | Commencement
 Magistrates Court (Minor Cases Procedure) Rules 2005 | 28 Apr 2005 p. 1711-48 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2005 p. 7127)
 Magistrates Court (Minor Cases Procedure) Amendment Rules 2005 | 10 Jun 2005 p. 2565-6 | 10 Jun 2005
+Magistrates Court (Minor Cases Procedure) Amendment Rules 2007 | 24 Aug 2007 p. 4333-4 | r. 1 and 2: 24 Aug 2007 (see r. 2(a)); Rules other than r. 1 and 2: 25 Aug 2007 (see r. 2(b))
