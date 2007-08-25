@@ -11,3 +11,4 @@ School Education Amendment Regulations (No. 2) 2005 | 2 Dec 2005 p. 5810 | 2 Dec
 School Education Amendment Regulations (No. 3) 2005 | 23 Dec 2005 p. 6254-5 | 1 Jan 2006 (see r. 2)
 Reprint 1: The School Education Regulations 2000 as at 3 Mar 2006 (includes amendments listed above)
 School Education Amendment Regulations 2006 | 17 Nov 2006 p. 4760-2 | 1 Jan 2007 (see r. 2)
+School Education Amendment Regulations 2007 | 24 Aug 2007 p. 4317-19 | r. 1 and 2: 24 Aug 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Aug 2007 (see r. 2(b))
