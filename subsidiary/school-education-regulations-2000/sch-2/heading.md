@@ -57,7 +57,7 @@ or in any part of any of those periods; or
 4.The level of demand in the applicant school’s catchment area for educational programmes of the kind to be provided by the applicant school and the extent to which that demand is not met by existing schools.
 5.The level of public support in the applicant school’s catchment area for the establishment of the applicant school, including expressions of interest in enrolment.
 6.In this Schedule —
-“applicant school” means the school the subject of the application;
-“catchment area” means the geographic region from which a school draws, or is expected to draw, its students;
-“existing school” includes a proposed school for which a determination under section 157(2) is in force.
+applicant school means the school the subject of the application;
+catchment area means the geographic region from which a school draws, or is expected to draw, its students;
+existing school includes a proposed school for which a determination under section 157(2) is in force.
 [Schedule 3 inserted in Gazette 22 Jul 2005 p. 3370-1.]
