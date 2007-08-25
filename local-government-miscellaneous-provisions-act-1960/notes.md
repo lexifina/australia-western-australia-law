@@ -126,11 +126,12 @@ Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 No
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 14 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 3 and 4 | 11 of 2007 | 29 Jun 2007 | 25 Aug 2007 (see s. 2 and Gazette 24 Aug 2007 p. 4317)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | s. 141 cl. 94, amendment to s. 430(2)(a): to be proclaimed (see s. 2)
-Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 3-12 | 11 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2)
+Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 5-12 | 11 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2)
 Act No. 90 of 1964 was passed as the Local Government Act Amendment Act (No. 2) 1964, but was proclaimed to come into operation as the Local Government Act Amendment Act 1964.
 Repealed by the Stock (Brands and Movement) Act 1970, which is now known as the Stock (Identification and Movement) Act 1970.
 Repealed by the Auction Sales Act 1973 s. 3(1).
@@ -317,13 +318,8 @@ The Planning and Development (Consequential and Transitional Provisions) Act 200
 (3) Despite the repeal of section 295 of the Local Government (Miscellaneous Provisions) Act 1960, section 295(4) and (4a) of that Act continue to apply in relation to the disposal of land where the subdivision of the land was approved before the coming into operation of this section.
 (4) Until minimum standards of construction and drainage are fixed under section 169 of the Planning and Development Act 2005, the minimum standards fixed under section 295(3a) of the Local Government (Miscellaneous Provisions) Act 1960 apply for the purposes of the Planning and Development Act 2005 as if they had been fixed under that Act.
 ”.
-On the date as at which this compilation was prepared, the Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 3-12 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 5-12 had not come into operation. They read as follows:
 “
-3.The Act amended
-The amendments in this Act (other than in sections 13 and 14) are to the Local Government (Miscellaneous Provisions) Act 1960.
-4.Section 245A amended
-Section 245A(1) is amended in the definition of “swimming pool” by inserting after “entitled to use” —
-“ and includes a spa-pool but not a spa-bath ”.
 5.Part XV Division 1A inserted
 After Part XV Division 1 the following Division is inserted —
 “
