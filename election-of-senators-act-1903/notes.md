@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 May 2003 of the Election of Senators Act 1903 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Election of Senators Act 1903 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Election of Senators Act 1903 | 11 of 1903 | 11 Dec 1903 | 11 Dec 1903
@@ -9,3 +9,8 @@ Reprint of the Election of Senators Act 1903 as at 13 Jul 1987 (includes amendme
 Election of Senators Amendment Act 1989 | 6 of 1989 | 23 Oct 1989 | 23 Oct 1989 (see s. 2)
 Election of Senators Amendment Act 2001 | 16 of 2001 | 28 Aug 2001 | 28 Aug 2001 (see s. 2)
 Reprint 2: The Election of Senators Act 1903 as at 16 May 2003 (includes amendments listed above)
+Election of Senators Amendment Act 2007 | 20 of 2007 | 4 Sep 2007 | s. 1 and 2: 4 Sep 2007 (see s. 2(a)); Act other than s. 1 and 2: 5 Sep 2007 (see s. 2(b))
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+working day3(1a)
