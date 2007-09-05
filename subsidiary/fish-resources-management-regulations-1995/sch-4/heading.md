@@ -61,6 +61,7 @@ Flathead
 Flounder
 Leatherjacket
 Mussel
+Oyster
 Pike
 Snook
 Tarwhine
@@ -68,4 +69,4 @@ Threadfin
 Trevally, Silver
 Category 4 fish
 Any species of fish not specified in this Schedule to be category 1 fish, category 2 fish or category 3 fish.
-[Schedule 4 amended in Gazette 1 Oct 2003 p. 4341 and 4344; 10 Nov 2006 p. 4709.]
+[Schedule 4 amended in Gazette 1 Oct 2003 p. 4341 and 4344; 10 Nov 2006 p. 4709; 4 Sep 2007 p. 4520.]

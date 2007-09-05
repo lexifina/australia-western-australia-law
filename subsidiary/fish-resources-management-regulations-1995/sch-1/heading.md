@@ -52,7 +52,7 @@ For variation (non-freehold land) ............................................. 
 For renewal .............................................................................. | 76.00
 For transfer ............................................................................... | 420.00
 For variation ............................................................................. | 420.00
-13.Oyster fishing licence (reg. 128) .............................................. | 265.00
+[13.deleted]
 For renewal ............................................................................... | 70.00
 14.Exclusive licence, grant or renewal (reg. 166) ......................... | 680.00
 15.Authority to take fish for scientific purposes (reg. 178) .......... | 76.00
@@ -70,7 +70,7 @@ For variation ..................................................................
 For renewal .............................................................................. | 65.00
 For transfer ............................................................................... | 365.00
 For variation ............................................................................. | 365.00
-[Part 2 inserted in Gazette 16 Sep 2005 p. 4314-15; amended in Gazette 14 Aug 2007 p. 4100-1.]
+[Part 2 inserted in Gazette 16 Sep 2005 p. 4314-15; amended in Gazette 14 Aug 2007 p. 4100-1; 4 Sep 2007 p. 4520.]
 ## Part 3 — Fees for the grant or renewal of authorisations
 [reg. 137]
 [Heading inserted in Gazette 19 Sep 2003 p. 4120.]
@@ -145,7 +145,7 @@ Fees | $
 (29)West Coast (Beach Bait Fish Net) Managed Fishery ..................................................................... | 268.00
 (30)West Coast Demersal Gillnet and Demersal Longline Interim Managed Fishery, per unit .......... | 60.98
 (31)West Coast Purse Seine Managed Fishery............... | 2 094.00
-(32)West Coast Rock Lobster Managed Fishery, per unit .......................................................................... | 134.00
+(32)West Coast Rock Lobster Managed Fishery, per unit .......................................................................... | 147.00
 (33)Windy Harbour-Augusta Rock Lobster Managed Fishery, per pot ....................................................... | 45.17
 4.Aquatic eco-tourism operator’s licence or restricted fishing tour operator’s licence
 Types of operation —
@@ -187,4 +187,4 @@ Types of operation —
 (1)a boat 6.5 m or longer .............................................. | 315.00
 (2)a boat shorter than 6.5 m ......................................... | 85.00
 7.Tag authorising the possession of one pink snapper in the Freycinet Estuary ................................................................ | 10.00
-[Part 3 inserted in Gazette 19 Sep 2003 p. 4120-5; amended in Gazette 19 Sep 2003 p. 4118; 17 Feb 2004 p. 600; 28 May 2004 p. 1896-902 (as amended in Gazette 29 Jun 2004 p. 2524); 30 Sep 2004 p. 4187; 1 Mar 2005 p. 877-8; 22 Jul 2005 p. 3372-5; 16 Sep 2005 p. 4315-17; 7 Feb 2006 p. 620-1; 5 Sep 2006 p. 3616-17; 16 Feb 2007 p. 489-90; 12 Jun 2007 p. 2717-9; 14 Aug 2007 p. 4101-2.]
+[Part 3 inserted in Gazette 19 Sep 2003 p. 4120-5; amended in Gazette 19 Sep 2003 p. 4118; 17 Feb 2004 p. 600; 28 May 2004 p. 1896-902 (as amended in Gazette 29 Jun 2004 p. 2524); 30 Sep 2004 p. 4187; 1 Mar 2005 p. 877-8; 22 Jul 2005 p. 3372-5; 16 Sep 2005 p. 4315-17; 7 Feb 2006 p. 620-1; 5 Sep 2006 p. 3616-17; 16 Feb 2007 p. 489-90; 12 Jun 2007 p. 2717-9; 14 Aug 2007 p. 4101-2; 4 Sep 2007 p. 4520.]
