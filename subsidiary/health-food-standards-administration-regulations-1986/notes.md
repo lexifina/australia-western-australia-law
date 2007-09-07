@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health (Food Standards) (Administration) Regulations 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 September 2007 of the Health (Food Standards) (Administration) Regulations 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Health (Food Standards) (Administration) Regulations 1986 | 21 Nov 1986 p. 4266-9 | 21 Nov 1986
@@ -9,5 +9,6 @@ Reprint 1: The Health (Food Standards) (Administration) Regulations 1986 as at 1
 Health (Food Standards) (Administration) Amendment Regulations 2004 | 25 Jun 2004 p. 2235-6 | 1 Jul 2004 (see r. 2)
 Health (Food Standards) (Administration) Amendment Regulations (No. 2) 2004 | 30 Dec 2004 p. 6936 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Health (Food Standards) (Administration) Amendment Regulations 2005 | 31 May 2005 p. 2407 | 1 Jul 2005 (see r. 2)
-Health (Food Standards) (Administration) Amendment Reguilations 2006 | 2 May 2006 p. 1699 | 1 Jul 2006 (see r. 2)
+Health (Food Standards) (Administration) Amendment Regulations 2006 | 2 May 2006 p. 1699 | 1 Jul 2006 (see r. 2)
 Health (Food Standards) (Administration) Amendment Regulations 2007 | 18 May 2007 p. 2251 | 1 Jul 2007 (see r. 2)
+Reprint 2: The Health (Food Standards) (Administration) Regulations 1986 as at 7 Sep 2007 (includes amendments listed above)
