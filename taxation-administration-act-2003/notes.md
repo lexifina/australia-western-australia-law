@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Taxation Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 September 2007 of the Taxation Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Taxation Administration Act 2003 | 1 of 2003 | 20 Mar 2003 | Act other than s. 34(2)(c), (4) and (5), 41(2) and (4), 47(8), 48, 56(3), 57(3), 59 and 127 and the definition of “non-reviewable” in the Glossary: 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383); s. 127: 2 Jan 2004 (see s. 2 and Gazette 19 Dec 2003 p. 5137)
+Taxation Administration Act 2003 | 1 of 2003 | 20 Mar 2003 | s. 1 and 2: 20 Mar 2003; Act other than s. 1, 2, 34(2)(c), (4) and (5), 41(2) and (4), 47(8), 48, 56(3), 57(3), 59 and 127 and the definition of “non-reviewable decision” in the Glossary: 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383); s. 127: 2 Jan 2004 (see s. 2 and Gazette 19 Dec 2003 p. 5137)
 Business Tax Review (Assessment) Act (No. 2) 2003 s. 95, 100 and 108 | 66 of 2003 | 5 Dec 2003 | s. 108: 1 Jul 2003 (see s. 2(5) and Gazette 27 Jun 2003 p. 2383); s. 95(1)-(4) and (5)(a): 1 Jan 2004 (see s. 2(1) and (2) and Gazette 30 Dec 2003 p. 5721); s. 100: 1 Jul 2004 (see s. 2(3)); s. 95(5)(b): 1 Jul 2004 (see s. 2(1) and (2) and Gazette 21 May 2004 p. 1711)
 Revenue Laws Amendment and Repeal Act 2004 Pt. 4 | 12 of 2004 | 29 Jun 2004 | 29 Jun 2004 (see s. 2(1))
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 124 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
@@ -14,11 +14,13 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Land Information Authority Act 2006 s. 184 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Revenue Laws Amendment (Assessment) Act 2007 Pt. 3 | 13 of 2007 | 29 Jun 2007 | 30 Jun 2007 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnote referred to in the table.
+Reprint 2: The Taxation Administration Act 2003 as at 7 Sep 2007 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Taxation Administration Act 2003 s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59 | 1 of 2003 (as amended by No. 55 of 2004) | 20 Mar 2003 | To be proclaimed (see s. 2)
-On the date as at which this compilation was prepared, the Taxation Administration Act 2003 s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59 (as amended by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004) had not come into operation. They read as follows:
+Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
+On the date as at which this reprint was prepared, the Taxation Administration Act 2003 s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59 (as amended by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004) had not come into operation. They read as follows:
 “
 34.Right to object
 (2)...
@@ -42,29 +44,6 @@ No action can be brought in a court to compel the Commissioner to approve a tax 
 [Section 59 amended by No. 55 of 2004 s. 1182.]
 ”.
 The amendment to s. 114(3)(f) in the Workers’ Compensation Reform Act 2004 s. 174 is not included because the paragraph it seeks to amend was deleted by the Business Tax Review (Assessment) Act (No. 2) 2003 s. 100.
-Section 34(5) of this Act had not come into operation when it was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1171(3).
-The Business Tax Review (Assessment) Act (No. 2) 2003 s. 100(3) reads as follows:
-“
-100.Taxation Administration Act 2003 amended and transitional
-(3) The amendment effected by this section does not apply in relation to a policy of insurance of the kind described in that section 114(3)(f) if the period for which the insurance is effected commenced on or before 29 June 2004.
-”.
-The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The Revenue Laws Amendment (Tax Relief) Act 2004 Pt. 4 reads as follows:
-“
-Part 4 — Reassessment
-20.Certain instruments to be assessed again
-(1) In this section —
-“Commissioner” means the Commissioner of State Revenue appointed in accordance with the Taxation Administration Act 2003 section 6;
-“duty” means duty payable under the Stamp Act 1921;
-“former provisions” means the provisions of the Stamp Act 1921 that are amended by the Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 Part 4, as those provisions were enacted immediately before 29 October 2004;
-“instrument” means a conveyance or transfer of property or a contract, agreement or other instrument that is chargeable with duty as a conveyance or transfer of property;
-“new provisions” means the provisions of the Stamp Act 1921 as amended by the Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 Part 4.
-(2) The Commissioner must make an assessment under the new provisions of the duty on any instrument —
-(a) which was first executed on or after 29 October 2004; and
-(b) on which duty has been assessed under the former provisions.
-(3) Subsection (2) does not authorise the Commissioner to make an assessment under the new provisions of the duty on an instrument to the extent (if any) to which the former provisions apply in relation to it under the Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 section 9(2)(b).
-(4) The Taxation Administration Act 2003 sections 18 and 54(1)(a) apply in relation to an assessment under subsection (2) as if it were a reassessment under section 16 of that Act.
-”.
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 7 Div. 1 of those regulations read as follows:
 “
 1.Citation
@@ -97,21 +76,21 @@ Section 3(1)(k) is modified by inserting after “taxation Act” —
 After section 5 the following sections are inserted —
 “
 5A.Application of Act in non-Commonwealth places
-(1)In this Act, unless the contrary intention appears —
-(a)a reference to this Act is to be read as a reference to this Act in its application as a law of Western Australia; and
-(b)a reference to the regulations is to be read as a reference to the Taxation Administration Regulations 2003 in their application as a law of Western Australia; and
-(c)a reference to any of the following Acts is to be read as a reference to the Act of that name in its application as a law of Western Australia —
-(i)the Debits Tax Act 2002;
-(ii)the Debits Tax Assessment Act 2002;
-(iii)the Land Tax Act 2002;
-(iv)the Land Tax Assessment Act 2002;
-(v)the Metropolitan Region Improvement Tax Act 1959;
-(vi)the Metropolitan Region Town Planning Scheme Act 1959;
-(vii)the Pay-roll Tax Act 2002;
-(viii)the Pay-roll Tax Assessment Act 2002;
-(ix)the Planning and Development Act 2005;
-(x)the Stamp Act 1921.
-(2)This Act is to be read with the applied Taxation Administration Act as a single body of law.
+(1) In this Act, unless the contrary intention appears —
+(a) a reference to this Act is to be read as a reference to this Act in its application as a law of Western Australia; and
+(b) a reference to the regulations is to be read as a reference to the Taxation Administration Regulations 2003 in their application as a law of Western Australia; and
+(c) a reference to any of the following Acts is to be read as a reference to the Act of that name in its application as a law of Western Australia —
+(i) the Debits Tax Act 2002;
+(ii) the Debits Tax Assessment Act 2002;
+(iii) the Land Tax Act 2002;
+(iv) the Land Tax Assessment Act 2002;
+(v) the Metropolitan Region Improvement Tax Act 1959;
+(vi) the Metropolitan Region Town Planning Scheme Act 1959;
+(vii) the Pay-roll Tax Act 2002;
+(viii) the Pay-roll Tax Assessment Act 2002;
+(ix) the Planning and Development Act 2005;
+(x) the Stamp Act 1921.
+(2) This Act is to be read with the applied Taxation Administration Act as a single body of law.
 5B.Application of taxation Acts in non-Commonwealth places
 In each taxation Act, unless the contrary intention appears, a reference (however expressed) to an Act administered by the Commissioner is to be read as including a reference to an Act of which the Commissioner has the general administration under an arrangement under the Commonwealth Places (Mirror Taxes Administration) Act 1999 section 5.
 ”.
@@ -278,4 +257,29 @@ Section 125(2) is modified by inserting after “State” —
 “
 (in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act)
 ”.
+”.
+Section 34(5) of this Act had not come into operation when it was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1171(3).
+Section 41 of this Act was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1175
+The definition of “non reviewable decision” in the Glossary of this Act had not come into operation when it was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1183.
+The Business Tax Review (Assessment) Act (No. 2) 2003 s. 100(3) reads as follows:
+“
+100.Taxation Administration Act 2003 amended and transitional
+(3) The amendment effected by this section does not apply in relation to a policy of insurance of the kind described in that section 114(3)(f) if the period for which the insurance is effected commenced on or before 29 June 2004.
+.”
+The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+The Revenue Laws Amendment (Tax Relief) Act 2004 Pt. 4 reads as follows:
+“
+Part 4 — Reassessment
+20.Certain instruments to be assessed again
+(1) In this section —
+“Commissioner” means the Commissioner of State Revenue appointed in accordance with the Taxation Administration Act 2003 section 6;
+“duty” means duty payable under the Stamp Act 1921;
+“former provisions” means the provisions of the Stamp Act 1921 that are amended by the Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 Part 4, as those provisions were enacted immediately before 29 October 2004;
+“instrument” means a conveyance or transfer of property or a contract, agreement or other instrument that is chargeable with duty as a conveyance or transfer of property;
+“new provisions” means the provisions of the Stamp Act 1921 as amended by the Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 Part 4.
+(2) The Commissioner must make an assessment under the new provisions of the duty on any instrument —
+(a) which was first executed on or after 29 October 2004; and
+(b) on which duty has been assessed under the former provisions.
+(3) Subsection (2) does not authorise the Commissioner to make an assessment under the new provisions of the duty on an instrument to the extent (if any) to which the former provisions apply in relation to it under the Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 section 9(2)(b).
+(4) The Taxation Administration Act 2003 sections 18 and 54(1)(a) apply in relation to an assessment under subsection (2) as if it were a reassessment under section 16 of that Act.
 ”.
