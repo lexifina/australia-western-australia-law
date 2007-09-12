@@ -10,3 +10,4 @@ Weapons Amendment Regulations (No. 4) 2000 | 28 Jul 2000 p. 4027 | 28 Jul 2000
 Reprint of the Weapons Regulations 1999 as at 18 May 2001 (includes amendments listed above)
 Weapons Amendment Regulations 2004 | 1 Oct 2004 p. 4284 | 1 Oct 2004
 Weapons Amendment Regulations (No. 2) 2006 | 12 Sep 2006 p. 3665-6 | 12 Sep 2006
+Weapons Amendment Regulations 2007 | 11 Sep 2007 p. 4613 | r. 1 and 2: 11 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Sep 2007 (see r. 2(b))
