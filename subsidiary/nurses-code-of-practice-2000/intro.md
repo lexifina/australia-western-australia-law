@@ -1,5 +1,5 @@
 Western Australia
-Nurses Act 1992
+Nurses and Midwives Act 2006
 Nurses Code of Practice 2000
 Introduction
 A.Guidelines for the standards expected of nurses should be considered in the context of the profession’s role in the community.
