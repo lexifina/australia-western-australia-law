@@ -1,3 +1,3 @@
 Western Australia
-Nurses Act 1992
+Nurses and Midwives Act 2006
 Nurse Practitioners Code of Practice 2004
