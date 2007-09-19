@@ -116,6 +116,7 @@ Reprint 13: The Health Act 1911 as at 15 Jul 2005 (includes amendments listed ab
 Tobacco Products Control Act 2006 s. 126 | 5 of 2006 | 12 Apr 2006 | 31 Jul 2006 (see s. 2 and Gazette 25 Jul 2006 p. 2701)
 Health Amendment Act 2006 | 23 of 2006 | 9 Jun 2006 | 7 Jul 2006 (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Land Information Authority Act 2006 s. 135 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
@@ -124,7 +125,6 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988.
 The Health Act Amendment Act 1900 is repealed by section 4 of this Act.
 Section 53B was repealed by the Health Act Amendment Act 1933 (No. 2) s. 6.
@@ -594,19 +594,4 @@ Division 13 — Transitional provisions
 “CEO” has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
 “commencement” means the time at which this Division comes into operation;
 “Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
-”.
-On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-114.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 9 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 114]
-9.Health Act 1911 amended
-(1) The amendments in this clause are to the Health Act 1911.
-(2) Section 3(1) is amended by deleting the definition of “midwife” and inserting instead —
-“
-“midwife” has the meaning given to that term in section 3 of the Nurses and Midwives Act 2006;
 ”.

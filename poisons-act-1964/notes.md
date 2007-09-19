@@ -43,11 +43,11 @@ Poisons (Appendix A Amendment) Order (No. 2) 2003 published in Gazette 10 Oct 20
  | Reprint 7: The Poisons Act 1964 as at 1 Sep 2006 (includes amendments listed above)
  | Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
  | Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
+ | Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Under the Alteration of Statutory Designations Order 2006, a reference to the department of the Public Service with the designation “Department of Agriculture” is, unless the contrary intention appears or the context of the reference otherwise requires, to be read and construed as a reference to the department of the Public Service with the designation “Department of Agriculture and Food”. At the time of this compilation the Minister is known as the Minister for Agriculture and Food.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
@@ -74,21 +74,3 @@ s. 29(1) | Delete “a stipendiary magistrate sitting as a court of summary juri
 s. 29(2) | Repeal the subsection and insert instead — “ (2)The Magistrates Court, constituted by a magistrate, shall hear the appeal and shall inquire into and decide upon the appeal and may make such order in the matter as it may think just, and its decision shall be final and conclusive. ”.
 ”.
 The amendments to s. 29 in the Courts Legislation Amendment and Repeal Act 2004 s. 142 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 107.
-On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114 which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-114.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 17 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 114]
-17.Poisons Act 1964 amended
-(1) The amendments in this clause are to the Poisons Act 1964.
-(2) Section 5(1) is amended in the definition of “nurse practitioner” by deleting “the Nurses Act 1992;” and inserting instead —
-“ section 3 of the Nurses and Midwives Act 2006; ”.
-(3) Section 61(b)(ia) is amended by deleting “Nurses Board of Western Australia constituted under the Nurses Act 1992;” and inserting instead —
-“
-Nurses and Midwives Board of Western Australia established under the Nurses and Midwives Act 2006;
-”.
-”.

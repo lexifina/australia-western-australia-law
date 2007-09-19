@@ -15,11 +15,8 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 and Gazette 4 May 2007 p. 1963)
 Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 9 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Reprint 2: The Mental Health Act 1996 as at 12 Jan 2007 (includes amendments listed above except those in the Occupational Therapists Act 2005)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
+Reprint 2: The Mental Health Act 1996 as at 12 Jan 2007 (includes amendments listed above except those in the Occupational Therapists Act 2005 and the Nurses and Midwives Act 2006)
 The Mental Health (Consequential Provisions) Act 1996 Pt. 12 Div. 2 (s. 53-72 inclusive) reads as follows:
 “
 Division 2 — Transitional
@@ -178,19 +175,4 @@ Division 13 — Transitional provisions
 “CEO” has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
 “commencement” means the time at which this Division comes into operation;
 “Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
-”.
-6-7Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-114.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 14 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 114]
-14.Mental Health Act 1996 amended
-(1) The amendments in this clause are to the Mental Health Act 1996.
-(2) Section 19(1)(b)(i) is amended by deleting “Nurses Act 1992;” and inserting instead —
-“ Nurses and Midwives Act 2006; ”.
 ”.

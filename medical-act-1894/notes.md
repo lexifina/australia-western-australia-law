@@ -45,10 +45,7 @@ Reprint 6: The Medical Act 1894 as at 12 Aug 2005 (includes amendments listed ab
 Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 8 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Medical Amendment Act 2006 | 49 of 2006 | 6 Oct 2006 | 6 Oct 2006 (see s. 2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Now see section 77(4) of the Interpretation Act 1984.
 The numbering of Parts, sections, etc., effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and subsequent reprints has been retained. References to the original numbering are contained in the 1943 reprint.
 The Hospitals Amendment Act 1994 s. 18 had no effect on the Medical Act 1894 because the section it would have amended was repealed by the Medical Amendment Act 1994 s. 9.
@@ -60,9 +57,9 @@ Schedule 1
 Savings and transitional provisions
 1.Interpretation
 In this Schedule —
-“assent day” means the day on which this Act receives the Royal Assent;
-“Board” means the Board as defined in section 3 of the principal Act;
-“Separate Register” means the Separate Register referred to in clause 2(1).
+assent day means the day on which this Act receives the Royal Assent;
+Board means the Board as defined in section 3 of the principal Act;
+Separate Register means the Separate Register referred to in clause 2(1).
 2.Certain medical practitioners transferred to a Separate Register
 (1) The name of a person who was registered as a medical practitioner during the period commencing on 1 February 1992 and ending on the assent day but who is not entitled to be registered as a medical practitioner under section 11 of the principal Act as amended by section 5 of this Act is, by force of this clause, removed from the register kept under section 10 of the principal Act and transferred to a register to be kept by the Board that is to be known as the “Separate Register”.
 (2) Notwithstanding anything in this Act, a medical practitioner —
@@ -116,29 +113,12 @@ The Medical Amendment Act 2000 s. 10 reads as follows:
 (1) On the commencement of this section the Board is to register under section 11AG all eligible persons.
 (2) For the purpose of calculating any period of time in relation to a condition imposed by section 11AG(2), an eligible person is taken to have been registered under section 11AG on the day on which the State Interview Panel assessed the person as being suitable to be a general practitioner in remote and rural WA.
 (3) In this section —
-“eligible person” means a person —
+eligible person means a person —
 (a)who is registered as a medical practitioner under section 11AF;
 (b)who was so registered on or after 26 April 1999 but before the commencement of this Act; and
 (c)who has been assessed by the State Interview Panel as being suitable to be a general practitioner in remote and rural WA;
-“remote and rural WA” has the same meaning as in section 11AG;
-“section” means a section of the Medical Act 1894;
-“State Interview Panel” means the panel established by the Western Australian Centre for Remote and Rural Medicine for the purposes of assessing, and advising the Board as to, the suitability of overseas trained persons to be general practitioners in remote and rural WA.
+remote and rural WA has the same meaning as in section 11AG;
+section means a section of the Medical Act 1894;
+State Interview Panel means the panel established by the Western Australian Centre for Remote and Rural Medicine for the purposes of assessing, and advising the Board as to, the suitability of overseas trained persons to be general practitioners in remote and rural WA.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-114.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 13 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 114]
-13.Medical Act 1894 amended
-(1) The amendments in this clause are to the Medical Act 1894.
-(2) Section 19 is amended by deleting “Nurses Act 1992” and inserting instead —
-“ Nurses and Midwives Act 2006 ”.
-(3) Section 21A(2) is amended by deleting “Nurses Act 1992” and inserting instead —
-“ Nurses and Midwives Act 2006 ”.
-”.
