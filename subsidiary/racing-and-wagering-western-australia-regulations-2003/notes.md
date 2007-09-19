@@ -10,6 +10,7 @@ Racing and Wagering Western Australia Amendment Regulations 2006 | 5 May 2006 p.
 Racing and Wagering Western Australia Amendment Regulations (No. 2) 2006 | 14 Jul 2006 p. 2569-70 | 14 Jul 2006
 Reprint 1: The Racing and Wagering Western Australia Regulations 2003 as at 6 Oct 2006 (includes amendments listed above)
 Racing and Wagering Western Australia Amendment Regulations (No. 3) 2006 | 14 Nov 2006 p. 4736-7 | 1 Jan 2007 (see r. 2)
+Racing and Wagering Western Australia Amendment Regulations 2007 | 18 Sep 2007 p. 4715-16 | r. 1 and 2: 18 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2007 (see r. 2(b))
 The Racing and Wagering Western Australia Amendment Regulations (No. 2) 2004 r. 5 reads as follows:
 “
 5.Transitional provision
