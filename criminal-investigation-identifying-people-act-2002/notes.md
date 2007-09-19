@@ -7,23 +7,6 @@ Acts Amendment (Equality of Status) Act 2003 Pt. 14 | 28 of 2003 | 22 May 2003 |
 Sentencing Legislation Amendment Act 2004 s. 15 | 27 of 2004 | 14 Oct 2004 | 31 May 2006 (see s. 2 and Gazette 30 May 2006 p. 1965)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 1: The Criminal Investigation (Identifying People) Act 2002 as at 10 Nov 2006 (includes amendments listed above)
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 7 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
- | Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Section 95 of this Act gave effect to Sch. 1 which set out some temporary provisions relating to obtaining and using identifying particulars of people in custody and others. These provisions ceased to have effect on 29 June 2005.
-On the date as at which this reprint was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-114.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 7 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 114]
-7.Criminal Investigation (Identifying People) Act 2002 amended
-(1) The amendments in this clause are to Criminal Investigation (Identifying People) Act 2002.
-(2) Section 52 is amended in the definition of “nurse” by deleting “Part 3 of the Nurses Act 1992;” and inserting instead —
-“ Part 4 of the Nurses and Midwives Act 2006; ”.
-”.

@@ -14,23 +14,6 @@ Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 1: The Prostitution Act 2000 as at 22 Jul 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 Censorship Amendment Act 2006 s. 4(2) | 10 of 2006 | 8 May 2006 | 10 Jun 2006 (see s. 2 and Gazette 9 Jun 2006 p. 2029)
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 13 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
-On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-114.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 18 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 114]
-18.Prostitution Act 2000 amended
-(1) The amendments in this clause are to the Prostitution Act 2000.
-(2) Section 29(7) is amended in the definition of “registered nurse” by deleting “Part 3 of the Nurses Act 1992.” and inserting instead —
-“ Part 4 of the Nurses and Midwives Act 2006. ”.
-”.

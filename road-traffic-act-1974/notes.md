@@ -125,13 +125,13 @@ Road Traffic Amendment Act 2006 s. 27 | 54 of 2006 | 26 Oct 2006 | 7 Jul 2007 (s
  | Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
  | Road Traffic Amendment Act 2007 | 4 of 2007 | 11 Apr 2007 | s. 1 and 2: 11 Apr 2007; Act other than s. 1 and 2: 1 May 2007 (see s. 2 and Gazette 27 Apr 2007 p. 1831)
  | Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
+ | Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Amendment Act (No. 2) 1987 s. 11(b) | 121 of 1987 (as amended by No. 84 of 2004 s. 80 (cl. 123)) | 24 Dec 1987 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act 1996 s. 8(3) | 76 of 1996 (as amended by No. 54 of 2006 s. 43) | 14 Nov 1996 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act 2006 Pt. 2 (other than s. 27), 3 and 4 Div. 3 and 4 | 54 of 2006 | 26 Oct 2006 | To be proclaimed (see s. 2)
 Road Traffic Amendment (Drugs) Act 2007 Pt. 2 | 6 of 2007 | 23 May 2007 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
@@ -721,24 +721,7 @@ s. 48(6)(b) | After “court” insert — “ , which shall be constituted by a
 ”.
 The amendments to section 25(1) and 48(4)-(6) by the Courts Legislation Amendment and Repeal Act 2004 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1062 and 1063.
 The Taxation Administration (Consequential Provisions) Act 2002 s. 30 & 32 will not come into operation (see s. 2(2))
-On the date as at which this compilation was prepared, the Nurses and Midwives Act 2006 s. 114, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-114.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 20 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 114]
-20.Road Traffic Act 1974 amended
-(1) The amendments in this clause are to the Road Traffic Act 1974.
-(2) Section 63(7) is amended by deleting “Nurses Act 1992,” in both places where it occurs and in each case inserting instead —
-“ Nurses and Midwives Act 2006, ”.
-(3) Section 65 is amended by deleting the definition of “registered nurse” and inserting instead —
-“
-“registered nurse” has the meaning given to that term in section 3 of the Nurses and Midwives Act 2006;
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Road Traffic Amendment Act 2006 Pt. 2 (other than s. 27), 3 and 4 Div. 3 and 4 had not come into operation. They read as follows:
 “
 Part 2 — Road Traffic Act 1974
