@@ -1,13 +1,13 @@
 ## Schedule 1 — Information to be published
 [s. 27(1)(a)]
 1.In this Schedule —
-“complaint” means a complaint that a provision of —
+complaint means a complaint that a provision of —
 (a)Part 2; or
 (b)an instrument made under section 14(3),
 has not been, or is not being, complied with;
-“customer premises” means premises on which electrical installations are connected to a transmission or distribution system for the purpose of receiving supply;
-“isolated system” means a system for the transmission and distribution of electricity that is not connected to the North West interconnected system or the South West interconnected system;
-“North West interconnected system” means the interconnected transmission and distribution systems, generating works and associated works —
+customer premises means premises on which electrical installations are connected to a transmission or distribution system for the purpose of receiving supply;
+isolated system means a system for the transmission and distribution of electricity that is not connected to the North West interconnected system or the South West interconnected system;
+North West interconnected system means the interconnected transmission and distribution systems, generating works and associated works —
 (a)located in the Pilbara region of the State; and
 (b)into which electricity is supplied by one or more of the electricity generation plants at Dampier, Port Hedland and Cape Lambert,
 as expanded or altered from time to time.
