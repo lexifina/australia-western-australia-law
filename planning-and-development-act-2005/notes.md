@@ -4,13 +4,13 @@ Compilation table
  | Short title | Number and year | Assent | Commencement
  | Planning and Development Act 2005 | 37 of 2005 | 12 Dec 2005 | Act other than s. 149, 150 and Pt. 13 Div. 3: 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077)
  | Swan Valley Planning Legislation Amendment Act 2006 s. 20(3) | 7 of 2006 | 19 Apr 2006 | 18 Jun 2006 (see s. 2 and Gazette 16 Jun 2006 p. 2109)
+ | Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
  | Land Information Authority Act 2006 s. 147 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) | 37 of 2005 (as amended by No. 60 of 2006 s. 147(4) | 12 Dec 2005 | To be proclaimed (see s. 2)
-Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) had not come into operation. They read as follows:
 “
 149.Conditions on rural land (tied lots)
@@ -248,45 +248,7 @@ but if the City of Swan does not accept that advice, the City of Swan is to refe
 (8) Clause 30B(6) is amended by deleting “council of the Shire” and inserting instead —
 “ City ”.
 ”.
-On the date as at which this compilation was prepared, the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6, which gives effect to Sch. 1, had not come into operation. It reads as follows:
-“
-6.Acts in Schedule 1: consequential amendments
-The Acts mentioned in Schedule 1 are amended as set out in that Schedule.
-”.
-Schedule 1 cl. 6 reads as follows:
-“
-Schedule 1 — Consequential amendments
-[s. 6]
-6.Planning and Development Act 2005 amended
-(1) The amendments in this clause are to the Planning and Development Act 2005.
-(2) Section 36(a) is deleted and the following paragraph is inserted instead —
-“
-(a) in a manner that is contrary to or inconsistent with —
-(i) the Swan and Canning Rivers Management Act 2006 Part 5;
-(ii) any amendment made to the Metropolitan Region Scheme by the Acts Amendment (Swan River Trust) Act 1988 section 14, 15 or 17; or
-(iii) any amendment made to the Metropolitan Region Scheme by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 section 21;
-”.
-(3) Section 80 is amended as follows:
-(a) by deleting “management programme in force under Part 3 of the Swan River Trust Act 1988” and inserting instead —
-“
-strategic document in force under the Swan and Canning Rivers Management Act 2005 Part 4
-”;
-(b) by deleting “Schedule 2” and inserting instead —
-“ Schedule 7 ”.
-(4) Section 112(2) is amended by deleting “management area of the Swan River Trust as defined in the Swan River Trust Act 1988.” and inserting instead —
-“
-development control area as defined in the Swan and Canning Rivers Management Act 2006.
-”.
-(5) Section 241(1)(b) is deleted and the following paragraph is inserted instead —
-“
-(b) any management programme for the development control area in force under the Swan and Canning Rivers Management Act 2006 Part 4 that may affect the subject matter of the application.
-”.
-(6) Section 245(5)(a) is amended by deleting “management area as defined in the Swan River Trust Act 1988,” and inserting instead —
-“
-development control area as defined in the Swan and Canning Rivers Management Act 2006,
-”.
-”.
-[s. 17]
+Footnote no longer applicable.
 Lands Titles Office diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 4 Div. 2 of those regulations read as follows:
 “

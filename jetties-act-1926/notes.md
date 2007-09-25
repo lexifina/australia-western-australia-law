@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 June 2007 of the Jetties Act 1926 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Jetties Act 1926 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Jetties Act 1926 | 45 of 1926 (17 Geo. V No. 45) | 23 Dec 1926 | 23 Dec 1926
@@ -21,26 +21,7 @@ Public Transport Authority Act 2003 s. 148 | 31 of 2003 | 26 May 2003 | 1 Jul 20
 Statutes (Repeals and Minor Amendments) Act 2003 s. 70 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 66 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 3: The Jetties Act 1926 as at 8 Jun 2007 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
+Reprint 3: The Jetties Act 1926 as at 8 Jun 2007 (includes amendments listed above except those in the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006)
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6, which gives effect to Sch. 1, had not come into operation. It reads as follows:
-“
-6.Acts in Schedule 1: consequential amendments
-The Acts mentioned in Schedule 1 are amended as set out in that Schedule.
-”.
-Schedule 1 cl. 3 reads as follows:
-“
-Schedule 1 — Consequential amendments
-[s. 6]
-3.Jetties Act 1926 amended
-(1) The amendments in this clause are to the Jetties Act 1926.
-(2) Section 7(3) is amended by deleting “section 50 of the Swan River Trust Act 1988” and inserting instead —
-“
-the Swan and Canning Rivers Management Act 2006 section 70
-”.
-”.
