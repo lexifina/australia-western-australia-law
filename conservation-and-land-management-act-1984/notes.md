@@ -45,13 +45,13 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 6: The Conservation and Land Management Act 1984 as at 9 Jun 2006 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1 16-18 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 s. 51 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of the Offshore Minerals Act 2003 (see s. 2)
-Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | To be proclaimed (see s. 2)
 The Land Act 1933 was repealed by section 281 of the Land Administration Act 1997.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
 The Acts Amendment (Marine Reserves) Act 1997 s. 7(2) reads as follows:
@@ -333,27 +333,3 @@ and, unless the contrary intention appears, other words and expressions in this 
 ”.
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
 The requirement to establish the Department of Conservation and Land Management was removed from the Act, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 453 of that Act is a general transitional provision that applies to references to the Department of Conservation and Land Management in written laws.
-On the date as at which this compilation was prepared, the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6, which gives effect to Sch. 1, had not come into operation. It reads as follows:
-“
-6.Acts in Schedule 1: consequential amendments
-The Acts mentioned in Schedule 1 are amended as set out in that Schedule.
-”.
-Schedule 1 cl. 1 reads as follows:
-“
-Schedule 1 — Consequential amendments
-[s. 6]
-1.Conservation and Land Management Act 1984 amended
-(1) The amendments in this clause are to the Conservation and Land Management Act 1984.
-(2) Section 13(3a) is amended by deleting “Swan River Trust Act 1988 before any waters that are in the management area” and inserting instead —
-“
-Swan and Canning Rivers Management Act 2006 before any waters that are in the development control area or the Riverpark
-”.
-(3) Section 17(4a) is amended by deleting “management area of the Swan River Trust within the meaning of the Swan River Trust Act 1988 ” and inserting instead —
-“
-development control area or the Riverpark as defined in the Swan and Canning Rivers Management Act 2006
-”.
-(4) Section 99(1)(ac) is deleted and the following paragraph is inserted instead —
-“
-(ac) in the case of land that is in the development control area or the Riverpark as defined in the Swan and Canning Rivers Management Act 2006, after consultation with the Swan River Trust;
-”.
-”.
