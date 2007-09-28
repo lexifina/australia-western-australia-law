@@ -4,8 +4,8 @@
 1.The fees payable to the Registrar of Titles are —
  | $
 (a)on lodgment of any plan — general fee, including provision of copies of the plan to relevant rating authorities —
-(i)if approval of the Commission is required ………………………..... | 191.00
-(ii)if approval of the Commission is not required .....………………….. | 133.00
+(i)if approval of the Commission is required ........................................ | 191.00
+(ii)if approval of the Commission is not required .................................. | 133.00
 plus, for each lot shown on the plan, other than a lot that is proposed to be vested in the Crown under the Planning and Development Act 2005 section 152 ....................... | 52.00
 (b)on lodgment of a replacement plan for a plan in respect of which a requisition has been raised ............................................................. | 133.00
 (c)on the issuing, by the Registrar of Titles, of a requisition in respect of a lodged plan ....... | 86.00
