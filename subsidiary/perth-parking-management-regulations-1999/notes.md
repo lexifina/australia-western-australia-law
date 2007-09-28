@@ -12,3 +12,4 @@ Reprint 1: The Perth Parking Management Regulations 1999 as at 21 Jan 2005 (incl
 Perth Parking Management Amendment Regulations 2005 | 10 Jun 2005 p. 2567 | 1 Jul 2005 (see r. 2)
 Perth Parking Management Amendment Regulations 2006 | 12 May 2006 p. 1788 | 1 Jul 2006 (see r. 2)
 Perth Parking Management Amendment Regulations (No. 2) 2007 | 12 Jun 2007 p. 2736-7 | 1 Jul 2007 (see r. 2)
+Perth Parking Management Amendment Regulations 2007 | 28 Sep 2007 p. 4933 | 28 Sep 2007
