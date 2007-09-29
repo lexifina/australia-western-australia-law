@@ -10,4 +10,5 @@ Water Agencies (Infringements) Amendment Regulations 1999 | 29 Oct 1999 p. 5402-
 Water Agencies (Infringements) Amendment Regulations 2001 | 23 Oct 2001 p. 5638-9 | 23 Oct 2001
 Reprint of the Water Authority (Infringements) Regulations 1994 as at 16 Aug 2002 (includes amendments listed above)
 Water Agencies (Infringements) Amendment Regulations 2006 | 24 Feb 2006 p. 889-90 | 24 Feb 2006
+Water Agencies (Infringements) Amendment Regulations 2007 | 28 Sep 2007 p. 4934-5 | r. 1 and 2: 28 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Sep 2007 (see r. 2(b))
 Now known as the Water Agencies (Infringements) Regulations 1994; citation changed (see note under r. 1).

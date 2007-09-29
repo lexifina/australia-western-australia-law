@@ -14,7 +14,7 @@ Number and street
 Town or suburbPostcode
 It is alleged that at .......................... hours on ............................... the ..................
 day of .............................. 20....... at ......................................................................
-you committed the offence of using water supplied by the Corporation in contravention of the stage of restrictions applicable under by-law 2 of the Water Agencies (Water Restrictions) By-laws 1998, contrary to by-law 2(1).
+you committed the offence of using water supplied by the Corporation in contravention of the stage of restrictions applicable under the Water Agencies (Water Use) By-laws 2007, contrary to by-law 4.
 ....................................
 Authorised person
 **For a body corporate, set out the body’s name and (if known) ACN, ABN or other registration number
@@ -25,7 +25,7 @@ or
 If the modified penalty is not paid within the time specified, court proceedings may be taken against you.
 If you are convicted you will be liable to a maximum penalty of $500.
 [Payment details to be included with this form]
-[Form 1 amended in Gazette 24 Feb 2006 p. 889-90.]
+[Form 1 amended in Gazette 24 Feb 2006 p. 889-90; 28 Sep 2007 p. 4935.]
 Form 2
 WATER CORPORATION
 WITHDRAWAL OF INFRINGEMENT NOTICE
@@ -39,7 +39,7 @@ Number and street
 .................................................................................................................................
 Town or suburbPostcode
 Infringement Notice No. Date ......../........./........
-for the alleged offence of using water supplied by the Corporation in contravention of the stage of restrictions applicable under by-law 2 of the Water Agencies (Water Restrictions) By-laws 1998, contrary to by-law 2(1), on —
+for the alleged offence of using water supplied by the Corporation in contravention of the stage of restrictions applicable under the Water Agencies (Water Use) By-laws 2007, contrary to by-law 4, on —
 ............................... at .............................................................................................
 specifying the modified penalty of …… is withdrawn.
 *No further action will be taken.
@@ -50,7 +50,7 @@ specifying the modified penalty of …… is withdrawn.
 * Manager, ........................................................
 *Delete that which is not applicable
 **For a body corporate, set out the body’s name and (if known) ACN, ABN or other registration number
-[Form 2 amended in Gazette 24 Feb 2006 p. 890.]
+[Form 2 amended in Gazette 24 Feb 2006 p. 890; 28 Sep 2007 p. 4935.]
 Form 3
 Water Corporation
 Certificate of Authorised Person
@@ -60,5 +60,6 @@ Water Agencies (Powers) Act 1984
 Water Corporation
  | Photograph | …………………………………. Name ………………………………… Employee No.
 (Back)
-Certificate of Authorised Person This is to certify that the person identified on the front of this certificate is authorised, in accordance with section 103 of the Water Agencies (Powers) Act 1984, to give infringement notices in respect of alleged offences under by-law 2(1) of the Water Agencies (Water Restrictions) By-laws 1998.
-[Schedule amended in Gazette 29 Dec 1995 p. 6301-2; 17 Feb 1998 p. 923-4; 29 Sep 1998 p. 5407; 29 Oct 1999 p. 5403; 23 Oct 2001 p. 5639.]
+Certificate of Authorised Person This is to certify that the person identified on the front of this certificate is authorised, in accordance with section 103 of the Water Agencies (Powers) Act 1984, to give infringement notices in respect of alleged offences under by-law 4 of the Water Agencies (Water Use) By-laws 2007.
+[Form 3 amended in Gazette 28 Sep 2007 p. 4935.]
+[Schedule amended in Gazette 29 Dec 1995 p. 6301-2; 17 Feb 1998 p. 923-4; 29 Sep 1998 p. 5407; 29 Oct 1999 p. 5403; 23 Oct 2001 p. 5639; 28 Sep 2007 p. 4935.]
