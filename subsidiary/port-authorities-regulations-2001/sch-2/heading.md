@@ -1,15 +1,14 @@
 ## Schedule 2 — Charges for pilotage
 [r. 41]
 ## Division 1 — Port of Broome
-1. | Pilotage of a vessel of not more than 1 499 gross registered tonnes into and out of the port ...................... | $3 060.00
-2. | Pilotage of a vessel of more than 1 499 but not more than 3 000 gross registered tonnes into and out of the port ................................................................................. | $3 430.00
-3. | Pilotage of a vessel of more than 3 000 but not more than 5 000 gross registered tonnes into and out of the port ................................................................................. | $3 700.00
-4. | Pilotage of a vessel of more than 5 000 but not more than 10 000 gross registered tonnes into and out of the port ................................................................................. | $4 080.00
-5. | Pilotage of a vessel of more than 10 000 but not more than 20 000 gross registered tonnes into and out of the port ................................................................................. | $4 950.00
-6. | Pilotage of a vessel of more than 20 000 but not more than 30 000 gross registered tonnes into and out of the port ................................................................................. | $5 720.00
-7. | Pilotage of a vessel of more than 30 000 gross registered tonnes into and out of the port ...................... | $6 240.00
-8. | Pilotage of a vessel from a place in the port to another place in the port ............................................................. | $500.00
-[Division 1 amended in Gazette 31 Jan 2003 p. 296-7.]
+[Heading inserted in Gazette 2 Oct 2007 p. 4972.]
+1. | Pilotage of a vessel of not more than 10 000 gross registered tonnes into and out of the port ................... | $3 800.00
+2. | Pilotage of a vessel of more than 10 000 but not more than 30 000 gross registered tonnes into and out of the port ............................................................. | $6 300.00
+3. | Pilotage of a vessel of more than 30 000 gross registered tonnes into and out of the port ................... | $6 900.00
+4. | Pilotage of a vessel from a place in the port to another place in the port ............................................. | $1 535.00
+5. | Detention of pilot, per hour or part of an hour | $750.00
+6. | Cancellation of pilot ................................................... | 50% of the charge set out in item 1, 2, 3 or 4, as the case requires.
+[Division 1 inserted in Gazette 2 Oct 2007 p. 4972.]
 ## Division 2 — Port of Bunbury
 [Heading inserted in Gazette 22 Jun 2007 p. 2852.]
 1. | Pilotage of a vessel into and out of the port ………. | $3 338.50
