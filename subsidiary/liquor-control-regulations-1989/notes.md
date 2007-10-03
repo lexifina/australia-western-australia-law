@@ -58,6 +58,7 @@ Liquor Licensing Amendment Regulations (No. 2) 2006 | 14 Nov 2006 p. 4734-5 | 1 
 Liquor Licensing Amendment Regulations 2007 | 1 May 2007 p. 1861-89 | r. 1 and 2: 1 May 2007 (see r. 2(a)); r. 3-17 and 20-26: 7 May 2007 (see r. 2(d)) r. 18 and 19: 1 Aug 2007 (see r. 2(b) and (c) and Gazette 20 Jul 2007 p. 3629
 Reprint 6: The Liquor Control Regulations 1989 as at 6 Jul 2007 (includes amendments listed above except those in the Liquor Licensing Amendment Regulations 2007 r. 18 and 19)
 Liquor Control Amendment Regulations (No. 2) 2007 | 28 Sep 2007 p. 4928-32 | r. 1 and 2: 28 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Sep 2007 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 5) 2007 | 2 Oct 2007 p. 4974 | r. 1 and 2: 2 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2007 (see r. 2(b))
 Commenced 7 May 2007.
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now known as the Liquor Control Regulations 1989; citation changed (see note under r. 1).
