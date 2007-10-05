@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 October 2007 of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Mining Regulations 1981 | 13 Nov 1981 p. 4601-76 | 1 Jan 1982 (see r. 1(2) and Gazette 11 Dec 1981 p. 5085)
@@ -103,8 +103,8 @@ Reprint 6: The Mining Regulations 1981 as at 7 Apr 2006 (includes amendments lis
 Mining Amendment Regulations (No. 6) 2006 | 23 Jun 2006 p. 2219-22 | 1 Jul 2006 (see r. 2)
 Mining Amendment Regulations 2007 | 9 Mar 2007 p. 861-920 | 31 Mar 2007 (see r. 2 and Gazette 9 Mar 2007 p. 847)
 Mining Amendment Regulations (No. 3) 2007 | 22 Jun 2007 p. 2857-60 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+Reprint 7: The Mining Regulations 1981 as at 5 Oct 2007 (includes amendments listed above)
 The Mining Amendment Act 1990 was operative 28 June 1991.
-Footnote no longer applicable.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Mines or to the Department of Minerals and Energy is, unless the contrary intention appears, to be read and construed as a reference to the Department of Industry and Resources.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Aboriginal Affairs Department is, unless the contrary intention appears, to be read and construed as a reference to the Department of Indigenous Affairs.
