@@ -59,7 +59,7 @@ Mortgage ............................................................ | Reg. 84 
 11A.Copy of front page of Form 5, together with either Attachment 1 — “Summary of Mineral Exploration/Mining Activities” or Attachment 2 — “Summary of Prospecting and/or Small Scale Mining Activities”, as the case may be ....................................... | Reg. 96(3) | 7.00
 [12.deleted]
 13.Fees relating to proceedings under Parts VII and VIII —
-(i)For entering a plaint or an application, excluding service fee, but including the issue of summons for each respondent and all necessary witness summonses |  | 50.00
+(i)For entering a plaint or an application, excluding service fee, but including the issue of summons for each respondent and all necessary witness summonses .......................... |  | 50.00
 (ii)Response and all necessary witness summonses......................................................... |  | 35.00
 (iii)All necessary applications and affidavits .......... |  | 5.00
 (iv)Order made by warden including an order for an injunction ....................................................... |  | 15.00
