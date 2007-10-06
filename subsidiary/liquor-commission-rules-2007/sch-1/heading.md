@@ -1,0 +1,6 @@
+## Schedule 1 — Costs and charges payable in relation to proceedings
+[r. 15]
+ | Cost or charge | $
+1. | Charge payable for lodging an application for the review of a decision by the Director (rule 4 and section 25 of the Act) | 228.00
+2. | Charge payable for lodging an appeal against a decision of the Commission constituted by one member (rule 9 and section 28(4a) of the Act) | 228.00
+3. | Cost per page for the supply of a copy of a document or transcript of an electronic recording under rule 13 | 3.50
