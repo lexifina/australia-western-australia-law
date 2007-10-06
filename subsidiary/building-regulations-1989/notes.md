@@ -35,6 +35,7 @@ Electricity Corporations (Consequential Amendments) Regulations 2006 r. 68 | 31 
 Building Amendment Regulations 2007 | 4 May 2007 p. 1964-5 | 4 May 2007
 Building Amendment Regulations (No. 2) 2007 | 18 May 2007 p. 2256-7 | 18 May 2007
 Building Amendment Regulations (No. 3) 2007 | 21 Aug 2007 p. 4174-8 | r. 1 and 2: 21 Aug 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2007 (see r. 2(b))
+Building Amendment Regulations (No. 4) 2007 | 5 Oct 2007 p. 5327-8 | r. 1 and 2: 5 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Oct 2007 (see r. 2(b))
 Repealed on 1 July 1999 by No. 59 of 1997 s. 3 (Cwlth). Now see the Telecommunications Act 1997 (Cwlth).
 The Building Amendment Regulations (No. 2) 2001 r. 7 reads as follows:
 “
