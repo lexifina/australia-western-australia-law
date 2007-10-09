@@ -9,4 +9,17 @@ Racing and Gambling (Miscellaneous) Amendment Regulations 2004 Pt. 2 | 30 Jan 20
 Casino Control Amendment Regulations 2004 | 7 Sep 2004 p. 3881 | 7 Sep 2004
 Reprint 1: The Casino Control Regulations 1999 as at 21 Jan 2005 (includes amendments listed above)
 Casino Control Amendment Regulations 2005 | 14 Oct 2005 p. 4560 | 1 Jan 2006 (see r. 2)
+Casino Control Amendment Regulations 2007 r. 1 and 2 | 9 Oct 2007 p. 5350 | 9 Oct 2007 (see r. 2(a))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Casino Control Amendment Regulations 2007 r. 3 and 4 | 9 Oct 2007 p. 5350 | 1 Jan 2008 (see r. 2(b))
 The commencement date of 1 Oct 2001 that was specified was before the date of gazettal.
+On the date as at which this compilation was prepared, the Casino Control Amendment Regulations 2007 r. 3 and 4 had not come into operation. They read as follows:
+“
+3.The regulations amended
+The amendments in these regulations are to the Casino Control Regulations 1999.
+4.Regulation 4 amended
+Regulation 4 is amended by deleting “$115.” and inserting instead —
+“ $125. ”.
+”.
