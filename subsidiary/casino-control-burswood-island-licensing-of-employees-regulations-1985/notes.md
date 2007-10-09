@@ -24,3 +24,26 @@ Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 
 Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2006 | 2 May 2006 p. 1706-7 | 2 May 2006
 Reprint 2: The Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 as at 23 Jun 2006 (includes amendments listed above)
 Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2006 | 14 Nov 2006 p. 4730-1 | 1 Jan 2007 (see r. 2)
+Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2007 r. 1 and 2 | 9 Oct 2007 p. 5351-2 | 9 Oct 2007 (see r. 2(a))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2007 r. 3 and 4 | 9 Oct 2007 p. 5351-2 | 1 Jan 2008 (see r. 2(b))
+On the date as at which this compilation was prepared, the Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2007 r. 3 and 4 had not come into operation. They read as follows:
+“
+3.The regulations amended
+The amendments in these regulations are to the Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985.
+4.Regulation 6 amended
+(1) Regulation 6(1) is amended as follows:
+(a) in paragraph (a) by deleting “$350;” and inserting instead —
+“ $365; ”;
+(b) in paragraph (b) by deleting “$220.” and inserting instead —
+“ $230. ”.
+(2) Regulation 6(1a) is amended as follows:
+(a) in paragraph (a) by deleting “$95;” and inserting instead —
+“ $100; ”;
+(b) in paragraph (b) by deleting “$95.” and inserting instead —
+“ $100. ”.
+(3) Regulation 6(2)(a) is amended by deleting “$255;” and inserting instead —
+“ $265; ”.
+”.
