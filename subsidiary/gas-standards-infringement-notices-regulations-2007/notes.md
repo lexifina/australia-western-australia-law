@@ -1,5 +1,6 @@
 Notes
-This is a compilation of the Gas Standards (Infringement Notices) Regulations 2007. The following table contains information about those regulations.
+This is a compilation of the Gas Standards (Infringement Notices) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Gas Standards (Infringement Notices) Regulations 2007 | 20 Mar 2007 p. 1061-70 | 20 Mar 2007
+Gas Standards (Infringement Notices) Amendment Regulations 2007 | 9 Oct 2007 p. 5347 | r. 1 and 2: 9 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Oct 2007 (see r. 2(b))

@@ -6,6 +6,7 @@ s. 13(1) | Commencing to supply gas to consumer gas installation that does not c
 s. 13D | Selling or hiring, or advertising for sale or hire, gas appliance that — (a)is not approved; or (b)is not marked, stamped or labelled in approved manner ..................................................................... | $400
 s. 13H(4) | Failing to comply with order prohibiting, or imposing conditions or restrictions on, sale, hire or use of appliance or component .................................................. | $400
 Offences under Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 [Failure to comply with these regulations is an offence under s. 14 of the Act.] | Modified penalty
+r. 18(2)(a) | Failing to ensure gas installation complied with prescribed requirements and is safe to use ................. | $400
 r. 19(b) | Performing work outside scope of gas fitter’s authorisation .................................................................... | $400
 r. 20(1)(b) | Installing appliance, apparatus or part contrary to manufacturer’s instructions ............................................. | $400
 r. 20(3) | Failing to endorse note as to safe operation on notice of completion for used appliance .................................... | $400
@@ -13,6 +14,7 @@ r. 20(4a) | Modifying appliance without approval ........................... | $
 r. 22 | Leaving Type B appliance permanently connected without certificate of compliance .................................... | $400
 r. 23 | Failing to record service information in required manner ............................................................................. | $400
 r. 26(1)(a) | Failing to ensure gas installation system is gas-tight ...... | $400
+r. 28(2) | Failing to attach approved badge or label on completion of work .......................................................................... | $400
 r. 28(3) | Failing to give notice of completion of gasfitting work within required time ........................................................ | $400
 r. 30 | Failing to rectify defects and give notice of rectification within required time .................................... | $400
 r. 34(1) | Failing to keep records of employed gas fitters in required manner .............................................................. | $250
@@ -38,3 +40,4 @@ r. 41(3) | Failing to keep records in required manner ..................... | $4
 r. 41(4) | Failing to keep records for required time ........................ | $400
 r. 43(1) | Failing to notify Director of notifiable incident within required time ........................................................ | $400
 r. 44(3) | Failing to lodge report of notifiable incident within required time ........................................................ | $400
+[Schedule 1 amended in Gazette 9 Oct 2007 p. 5347.]
