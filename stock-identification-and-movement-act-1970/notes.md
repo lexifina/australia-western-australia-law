@@ -27,5 +27,25 @@ Reprint of the Stock (Brands and Movement) Act 1970 as at 7 Dec 2001 (includes a
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 79 and 81 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Now known as the Stock (Identification and Movement) Act 1970; short title changed (see note under s. 1).
 The Third Schedule was inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 79 and 81 had not come into operation. They read as follows:
+“
+79.Repeal
+The Stock (Identification and Movement) Act 1970 is repealed.
+Subdivision 2 — Transitional provision
+81.Brands
+(1) In this section —
+commencement day means the day on which section 79 comes into operation;
+repealed Act means the Stock (Identification and Movement) Act 1970.
+(2) Any stock that was, immediately before the commencement day, duly branded with a brand registered under the repealed Act, is, for the purposes of the BAM Act, to be taken to be duly identified with an identifier under the BAM Act.
+(3) If a person was, immediately before the commencement day, the registered owner of a brand registered under the repealed Act —
+(a) that brand is to be regarded, for the purposes of the BAM Act, as a registered identifier; and
+(b) that person is to be regarded, for the purposes of the BAM Act, as the registered owner of that identifier.
+(4) Subsections (2) and (3) apply, with such modifications and adaptations as are necessary, to earmarks registered under the repealed Act.
+(5) A registration referred to in this section, unless sooner cancelled or re-registered under the BAM Act, expires 5 years after the date of registration or re-registration, as the case may be, under the repealed Act.
+”.
