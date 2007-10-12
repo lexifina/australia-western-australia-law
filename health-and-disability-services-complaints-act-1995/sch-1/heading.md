@@ -1,6 +1,6 @@
 ## Schedule 1
 [Sections 3 and 54]
-Registration Boards
+## Registration Boards
 1.Chiropractors Registration Board of Western Australia under the Chiropractors Act 2005.
 2.Dental Board of Western Australia under the Dental Act 1939.
 3.Medical Board under the Medical Act 1894.
