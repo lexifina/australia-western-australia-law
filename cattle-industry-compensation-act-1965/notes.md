@@ -25,6 +25,11 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Reprint 3: The Cattle Industry Compensation Act 1965 as at 4 Nov 2005 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 85(4) | 24 of 2007 | 12 Oct 2007 | 24 Oct 2007 (see s. 2 and Gazette 23 Oct 2007 p. 5645)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 53, 56-59, 78 and 85(1-3) | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Under the Agriculture Act 1988 s. 16(1), a reference to the Director of Agriculture is to be construed as a reference to the Director General of Agriculture.
 Repealed by this Act, s. 4.
 Repealed by the Dairy Industry Act 1973, which was then repealed by the Dairy Industry and Herd Improvement Legislation Repeal Act 2000.
@@ -38,13 +43,13 @@ Part 4 — Transitional provisions
 Division 1 — Interpretation
 33.Definitions
 In this Part —
-“commencement day” means the day on which the Taxation Administration Act 2003 comes into operation;
-“old Act” means —
+commencement day means the day on which the Taxation Administration Act 2003 comes into operation;
+old Act means —
 (a)an Act repealed by section 5;
 (b)the old Stamp Act; or
 (c)section 41 of the Metropolitan Region Town Planning Scheme Act 1959 as in force immediately before the commencement day;
-“old Stamp Act” means the Stamp Act 1921 as in force immediately before the commencement day;
-“substantive provisions”, in relation to an old Act, means the provisions of the old Act other than those dealing with matters dealt with in the Taxation Administration Act 2003.
+old Stamp Act means the Stamp Act 1921 as in force immediately before the commencement day;
+substantive provisions, in relation to an old Act, means the provisions of the old Act other than those dealing with matters dealt with in the Taxation Administration Act 2003.
 Division 2 — General transitional provisions
 34.General transitional arrangements
 (1) Section 37(1) of the Interpretation Act 1984, except paragraphs (a) and (b), does not apply in relation to the repeal of an old Act.
@@ -61,7 +66,7 @@ as if the substantive provisions of the relevant old Act —
 (d) had not been repealed;
 (e) were a taxation Act for the purposes of the Taxation Administration Act 2003; and
 (f) had been amended to make any modifications necessary for this section to have effect.
-(4) If an objection, appeal or other legal proceeding (the “action”) was instituted under an old Act and was not finally determined before the commencement day —
+(4) If an objection, appeal or other legal proceeding (the action) was instituted under an old Act and was not finally determined before the commencement day —
 (a) the action may be continued;
 (b) any requirement to pay interest on an amount of tax determined in the action to have been overpaid applies and may be enforced;
 (c) any penalty may be imposed and enforced; and
@@ -127,4 +132,45 @@ cannot be made more than 15 months after the licence was granted or transferred.
 49.Payment of duty by returns (Stamp Act 1921, s. 112V)
 (1) A permission granted under section 112V of the old Stamp Act and in force immediately before the commencement day continues in force on and after that day as a special tax arrangement under the Taxation Administration Act 2003.
 (2) Any requirement that applied, immediately before the commencement day, to a person to whom a permission continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the permission was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
+”.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 53, 56-59, 78 and 85(1-3) had not come into operation. They read as follows:
+“
+53.Repeal
+The Cattle Industry Compensation Act 1965 is repealed.
+Subdivision 2 — Transitional provisions
+56.Meaning of terms used in this Subdivision
+In this Subdivision —
+commencement day means the day on which section 53 comes into operation;
+former account means the Cattle Industry Compensation Fund established under the repealed Act section 21;
+repealed Act means the Cattle Industry Compensation Act 1965.
+57.Compensation claims made before repeal
+Despite section 53, an application for compensation under the repealed Act that arose but that was not fully dealt with before the commencement day is to be dealt with under the repealed Act as if the Act had not been repealed.
+58.Funds in, or payable to, former account
+(1) On the commencement day any moneys standing to the credit of the former account are to be credited to an account established for the cattle industry under the BAM Act section 141 to be applied —
+(a) in the payment of compensation payable on an application referred to in section 57 made under the repealed Act; and
+(b) in the payment of any liabilities of the former account which arose before the commencement day; and
+(c) for the purposes set out in the regulations under the BAM Act section 141 establishing the account for the cattle industry,
+and the former account is then to be closed.
+(2) The account established for the cattle industry under the BAM Act section 141 is to be credited with any money that became payable to the former account before the commencement day and that is paid after that day.
+59.Reference to former account
+If in an agreement, instrument or other document there is a reference to the former account, that reference is, unless the context otherwise requires, to be read and have effect on and after the commencement day as if it were a reference to the account established under the BAM Act section 141 for the cattle industry.
+78.Cattle Industry Compensation Act 1965 amended
+(1) The amendments in this section are to the Cattle Industry Compensation Act 1965.
+(2) Section 6 is amended as follows:
+(a) by deleting the definition of “Chief Inspector” and inserting instead —
+“
+Chief Inspector means —
+(a)before the coming into operation of the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 section 76, the person for the time being holding the office of Chief Inspector of Stock under the Stock Diseases (Regulations) Act 1968; and
+(b)after the coming into operation of that section, an inspector appointed by the Director General to the office of Chief Inspector of Stock for the purposes of this Act;
+”;
+(b) in the definition of “disease” by deleting “, within the meaning of the Stock Diseases (Regulations) Act 1968,”;
+(c) in the definition of “specified disease” by deleting “within the meaning of the Stock Diseases (Regulations) Act 1968,”.
+85.Cattle Industry Compensation Act 1965 amended
+(1) The amendments in this section are to the Cattle Industry Compensation Act 1965.
+(2) Section 6 is amended by deleting the definition of “inspector” and inserting instead —
+“
+inspector means an inspector appointed under the Biosecurity and Agriculture Management Act 2007 section 162;
+”.
+(3) Section 19(b) is amended by deleting “the Stock Diseases (Regulations) Act 1968” and inserting instead —
+“ the Biosecurity and Agriculture Management Act 2007 ”.
 ”.
