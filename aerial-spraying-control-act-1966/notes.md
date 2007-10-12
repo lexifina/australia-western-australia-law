@@ -19,6 +19,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 18 and 19 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Short title changed to Air Navigation Regulations 1947 (see Air Navigation Amendment Regulations 1998 (No. 1) of the Commonwealth).
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
@@ -33,3 +34,14 @@ Schedule 2 — Other amendments to Acts
 s. 8(1) | Delete “to a Court of Petty Sessions constituted by a stipendiary magistrate sitting alone” and insert instead — “ to the Magistrates Court constituted by a magistrate ”.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 18 and 19 had not come into operation. They read as follows:
+“
+18.Repeal
+The Aerial Spraying Control Act 1966 is repealed.
+19.Transitional provision
+(1) In this section —
+“aerial spraying” has the same meaning as in the repealed Act;
+“repealed Act” means the Aerial Spraying Control Act 1966.
+“spray drift” has the same meaning as in the repealed Act;
+(2) Sections 14(4), (5) and (6) and 15 of the repealed Act continue to apply in relation to aerial spraying carried out before the coming into operation of this section, and in relation to any spray drift from that aerial spraying.
+”.
