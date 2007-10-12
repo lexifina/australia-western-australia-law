@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Agricultural Produce Commission Act 1988 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Agricultural Produce Commission Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Horticultural Produce Commission Act 1988 | 75 of 1988 | 23 Dec 1988 | 1 Sep 1989 (see s. 2 and Gazette 1 Sep 1989 p. 3017)
@@ -16,6 +16,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 63 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Now known as the Agricultural Produce Commission Act 1988; short title changed (see note under s. 1).
 The Horticultural Produce Commission Amendment Act 2000 s. 32 and 34 read as follows:
 “
@@ -42,3 +43,21 @@ s. 16(2) | Delete “a Local Court and the Local Court” and insert instead —
 s. 16(3) | Delete “Local Court” and insert instead — “ Magistrates Court ”.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 63 had not come into operation. It reads as follows:
+“
+63.Agricultural Produce Commission Act 1988 amended
+(1) The amendment in this section is to the Agricultural Produce Commission Act 1988.
+(2) After section 12 the following section is inserted —
+“
+12A.Powers of officers, employees and other persons
+(1) Any officers, employees and other persons employed or engaged under section 12(2) by a producers’ committee established to administer a fruit fly foliage baiting scheme may, when authorised by the producers’ committee, enter any orchard within the specified area to bait or spray all or any of the fruit trees and fruit vines in the manner and with the materials determined by the producers’ committee.
+(2) A person must not enter an orchard under subsection (1) unless —
+(a) the person has taken reasonable steps to give the owner or occupier of the orchard notice of the intended entry; or
+(b) the owner or occupier of the orchard consents to the entry.
+(3) The notice must specify the purpose for which the entry is required and successive entries for that purpose are to be regarded as entries to which the notice relates.
+(4) The notice must be given not less than 24 hours before the power of entry is exercised.
+(5) In subsection (1) —
+“orchard” means any land used for the purpose of growing or cultivating plants, and includes any garden, farm, vinery, vineyard, and hothouse, any place where any plant is cultivated or where any plant which has been cultivated is growing;
+“specified area” means the portion of the State specified in a notice under section 11(1)(a)(ii) in relation to which the producers’ committee is established.
+”.
+”.
