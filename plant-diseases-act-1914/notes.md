@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 April 2007 of the Plant Diseases Act 1914 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Plant Diseases Act 1914 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Plant Diseases Act 1914 | 23 of 1914 (5 Geo. V No. 23) | 22 Sep 1914 | 29 Dec 1914 (see s. 1 and Gazette 24 Dec 1914 p. 4655)
@@ -53,6 +53,10 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Land Information Authority Act 2006 s. 148 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 6: The Plant Diseases Act 1914 as at 5 Apr 2007 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 62 and 65-67 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Formerly referred to the Director of Agriculture, the name of whom was changed to the Director General of Agriculture by the Agriculture Act 1988 s. 16. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 In this compilation the renumbering of sections effected in the 1943 reprint (in volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
@@ -62,3 +66,21 @@ The Second Schedule was inserted by the Metric Conversion Amendment Act 1973.
 The Plant Diseases Amendment and Repeal Act 1981 s. 6(2) and (3) and s. 14 are transitional provisions that are of no further effect.
 The Plant Diseases Amendment Act 1993 s. 19 (which gives effect to Sch. 1) and 21 are transitional and savings provisions that are of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 62 and 65-67 had not come into operation. They read as follows:
+“
+62.Repeal
+The Plant Diseases Act 1914 is repealed.
+65.Meaning of terms used in this Subdivision
+In this Subdivision —
+commencement day means the day on which section 62 comes into operation;
+former account means the Plant Diseases Modified Penalties Revenue Fund referred to in the repealed Act section 35AA;
+repealed Act means the Plant Diseases Act 1914.
+66.Funds in, or payable to, former account
+(1) On the commencement day any moneys standing to the credit of the former account are to be credited to the Modified Penalties Revenue Account established under the BAM Act to be applied —
+(a) in the payment of any liabilities of the former account which arose before the commencement day; and
+(b) for the purposes set out in the BAM Act section 149,
+and the former account is then to be closed.
+(2) The Modified Penalties Revenue Account established under the BAM Act is to be credited with any money that became payable to the former account before the commencement day and that is paid after that day.
+67.Reference to former account
+If in an agreement, instrument or other document there is a reference to the former account, that reference is, unless the context otherwise requires, to be read and have effect on and after the commencement day as if it were a reference to the Modified Penalties Revenue Account established under the BAM Act.
+”.
