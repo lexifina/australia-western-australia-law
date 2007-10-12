@@ -27,6 +27,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 4 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 This Act is affected by the Fishing Industry Promotion Training and Management Levy Act 1994.
 The Fish Resources Management Amendment Act 2002 s. 8(2)-(4) reads as follows:
 “
@@ -82,3 +83,27 @@ Division 5 — Transitional provisions
 “commencement” means the time at which section 232 comes into operation.
 ”.
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 had not come into operation. It reads as follows:
+“
+89.Fish Resources Management Act 1994 amended
+(1) The amendments in this section are to the Fish Resources Management Act 1994.
+(2) Section 4(1) is amended by deleting the definition of “noxious fish”.
+(3) Part 9 is repealed.
+(4) Section 193 is amended as follows:
+(a) by inserting “or” after paragraph (f);
+(b) by deleting paragraph (g) and “or” after it.
+(5) Section 220 is amended as follows:
+(a) by inserting “or” after paragraph (b);
+(b) by deleting paragraph (c) and “or” after it;
+(c) in paragraph (d) by deleting “, (b) or (c)” and inserting instead —
+“ or (b) ”.
+(6) Section 222(1) is amended by inserting after “regulations” —
+“
+or the Biosecurity and Agriculture Management Act 2007
+”.
+(7) Section 224(1)(a) is amended by inserting after “Act” —
+“
+or the Biosecurity and Agriculture Management Act 2007
+”.
+(8) Section 258(i) is deleted.
+”.
