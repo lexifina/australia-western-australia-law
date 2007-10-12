@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 September 2007 of the Taxation Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Taxation Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Taxation Administration Act 2003 | 1 of 2003 | 20 Mar 2003 | s. 1 and 2: 20 Mar 2003; Act other than s. 1, 2, 34(2)(c), (4) and (5), 41(2) and (4), 47(8), 48, 56(3), 57(3), 59 and 127 and the definition of “non-reviewable decision” in the Glossary: 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383); s. 127: 2 Jan 2004 (see s. 2 and Gazette 19 Dec 2003 p. 5137)
@@ -15,12 +15,13 @@ Land Information Authority Act 2006 s. 184 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Revenue Laws Amendment (Assessment) Act 2007 Pt. 3 | 13 of 2007 | 29 Jun 2007 | 30 Jun 2007 (see s. 2(b))
 Reprint 2: The Taxation Administration Act 2003 as at 7 Sep 2007 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Taxation Administration Act 2003 s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59 | 1 of 2003 (as amended by No. 55 of 2004) | 20 Mar 2003 | To be proclaimed (see s. 2)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 94 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
-On the date as at which this reprint was prepared, the Taxation Administration Act 2003 s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59 (as amended by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Taxation Administration Act 2003 s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59 (as amended by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004) had not come into operation. They read as follows:
 “
 34.Right to object
 (2)...
@@ -282,4 +283,14 @@ Part 4 — Reassessment
 (b) on which duty has been assessed under the former provisions.
 (3) Subsection (2) does not authorise the Commissioner to make an assessment under the new provisions of the duty on an instrument to the extent (if any) to which the former provisions apply in relation to it under the Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 section 9(2)(b).
 (4) The Taxation Administration Act 2003 sections 18 and 54(1)(a) apply in relation to an assessment under subsection (2) as if it were a reassessment under section 16 of that Act.
+”.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 94 had not come into operation. It reads as follows:
+“
+94.Taxation Administration Act 2003 amended
+(1) The amendment in this section is to the Taxation Administration Act 2003.
+(2) After section 3(1)(j) the following paragraphs are inserted —
+“
+(ja) the Biosecurity and Agriculture Management Act 2007 Part 6 Division 1 Subdivision 2;
+(jb) the Biosecurity and Agriculture Management Rates and Charges Act 2007;
+”.
 ”.
