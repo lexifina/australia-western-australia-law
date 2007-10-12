@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 August 2007 of the Fair Trading (Product Safety Standard) Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fair Trading (Product Safety Standard) Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fair Trading (Product Safety Standard) Regulations 2001 | 15 Jan 2002 p. 183-228 | 15 Jan 2002
@@ -18,4 +18,5 @@ Fair Trading (Product Safety Standard) Amendment Regulations (No. 3) 2006 | 20 O
 Fair Trading (Product Safety Standard) Amendment Regulations (No. 2) 2006 | 29 Dec 2006 p. 5879-80 | 29 Dec 2006
 Fair Trading (Product Safety Standard) Amendment Regulations (No. 2) 2007 | 24 Apr 2007 p. 1759-60 | 24 Apr 2007
 Reprint 2: The Fair Trading (Product Safety Standard) Regulations 2001 as at 3 Aug 2007 (includes amendments listed above)
+Fair Trading (Product Safety Standard) Amendment Regulations 2007 | 12 Oct 2007 p. 5503-6 | 12 Oct 2007
 The amendments in the Fair Trading (Product Safety Standard) Amendment Regulations 2002 (published in Gazette 26 Mar 2002 p. 1741-3) are not included because, before it came into operation, it was repealed by the Fair Trading (Product Safety Standard) Amendment Repeal Regulations 2002 (see Gazette 23 Apr 2002 p. 2123-4).
