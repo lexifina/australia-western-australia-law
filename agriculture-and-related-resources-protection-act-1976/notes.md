@@ -32,11 +32,12 @@ Reprint 3: The Agriculture and Related Resources Protection Act 1976 as at 16 Ju
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Land Information Authority Act 2006 s. 121 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 and 30-33 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Repealed by the Mining Act 1978.
 Repealed by the Public Service Appeal Board Act Repeal Act 1977.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also endnote 14.
@@ -147,7 +148,7 @@ cannot be made more than 15 months after the licence was granted or transferred.
 (2) Any requirement that applied, immediately before the commencement day, to a person to whom a permission continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the permission was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 had not come into operation. It reads as follows:
+On the date on which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 had not come into operation. It reads as follows:
 “
 27.Agriculture and Related Resources Protection Act 1976 amended
 Section 9(5) of the Agriculture and Related Resources Protection Act 1976 is amended as follows:
@@ -155,7 +156,7 @@ Section 9(5) of the Agriculture and Related Resources Protection Act 1976 is ame
 “ 1994 or ”;
 (b) by deleting “or the Superannuation and Family Benefits Act 1938”.
 ”.
-On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
 Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
@@ -212,4 +213,28 @@ In this Division —
 “commencement” means the time at which this Division comes into operation;
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+”.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 and 30-33 had not come into operation. They read as follows:
+“
+Division 6 — Agriculture and Related Resources Protection Act 1976
+Subdivision 1 — Repeal and consequential amendments
+27.Repeal
+(1) The Agriculture and Related Resources Protection Act 1976 is repealed on a day to be fixed by proclamation.
+(2) Different days may be fixed under subsection (1) for different provisions.
+Subdivision 2 — Transitional and savings provisions
+30.Meaning of terms used in this Subdivision
+In this Subdivision —
+“commencement day” means the day on which the repealed Act Part V Division 6 is repealed;
+“former account” means the Declared Plants and Animals Control Fund referred to in the repealed Act section 65;
+“repealed Act” means the Agriculture and Related Resources Protection Act 1976.
+31.Rates on pastoral leases
+Despite section 27, the repealed Act Part V Division 6, as in force immediately before the commencement day, continues to apply in relation to a rate payable under that Division for a financial year commencing before the commencement day.
+32.Funds in, or payable to, former account
+(1) On the commencement day any moneys standing to the credit of the former account are to be credited to the Declared Pest Account established under the BAM Act to be applied —
+(a) in the payment of any liabilities of the former account which arose before the commencement day; and
+(b) for the purposes set out in the BAM Act section 138,
+and the former account is then to be closed.
+(2) The Declared Pest Account established under the BAM Act is to be credited with any money that became payable to the former account before the commencement day and that is paid after that day.
+33.Reference to former account
+If in an agreement, instrument or other document there is a reference to the former account, that reference is, unless the context otherwise requires, to be read and have effect on and after the commencement day as if it were a reference to the Declared Pest Account established under the BAM Act.
 ”.
