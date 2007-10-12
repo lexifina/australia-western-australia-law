@@ -14,3 +14,12 @@ Sentencing (Consequential Provisions) Act 1995 Pt. 4 | 78 of 1995 | 16 Jan 1996 
 Agricultural Legislation Amendment and Repeal Act 1998 Pt. 4 | 9 of 1998 | 30 Apr 1998 | 4 Jul 1998 (see s. 2 and Gazette 3 Jul 1998 p. 3581)
 Reprint 3: The Artificial Breeding of Stock Act 1965 as at 10 Oct 2003 (includes amendments listed above)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 50 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 50 had not come into operation. It reads as follows:
+“
+50.Repeal
+The Artificial Breeding of Stock Act 1965 is repealed.
+”.
