@@ -55,6 +55,10 @@ Water Legislation Amendment (Competition Policy) Act 2005 Pt. 2 | 25 of 2005 | 1
 Reprint 7: The Country Areas Water Supply Act 1947 as at 7 Apr 2006 (includes amendments listed above except those listed in the Water Legislation Amendment (Competition Polity) Act 2005)
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 452(1) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Land Information Authority Act 2006 s. 129 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by section 4 of this Act.
@@ -78,3 +82,10 @@ The State Administrative Tribunal Regulations 2004 r. 43 reads as follows:
 (4) If a notice has been given under the CWS Act section 58(7) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
 ”.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 had not come into operation. It reads as follows:
+“
+87.Country Areas Water Supply Act 1947 amended
+(1) The amendments in this section are to the Country Areas Water Supply Act 1947.
+(2) Section 12C(1)(c) is amended by deleting “the Agriculture and Related Resources Protection Act 1976” and inserting instead —
+“ the Biosecurity and Agriculture Management Act 2007 ”.
+”.
