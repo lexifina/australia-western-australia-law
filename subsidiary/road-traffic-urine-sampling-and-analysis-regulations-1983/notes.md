@@ -9,3 +9,4 @@ Road Traffic Amendment Regulations 1991 Pt. 4 | 9 Aug 1991 p. 4232-3 | 9 Aug 199
 Road Traffic (Urine Sampling and Analysis) Amendment Regulations 2001 | 30 Jan 2001 p. 625-7 | 30 Jan 2001
 Reprint of the Road Traffic (Urine Sampling and Analysis) Regulations 1983 as at 14 Jun 2002 (includes amendments listed above)
 Road Traffic (Urine Sampling and Analysis) Amendment Regulations 2006 | 28 Nov 2006 p. 4897-8 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
+Road Traffic (Urine Sampling and Analysis) Amendment Regulations 2007 | 11 Oct 2007 p. 5481-2 | r. 1 and 2: 11 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Oct 2007 (see r. 2(b) and Gazette 11 Oct 2007 p. 5475)
