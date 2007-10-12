@@ -27,6 +27,10 @@ Bulk Handling Repeal Act 2000 | 33 of 2000 | 6 Jul 2000 | s. 7: 30 Oct 2000 (see
 Bulk Handling Amendment Act 2002 | 29 of 2002 | 25 Oct 2002 | 25 Oct 2002 (see s. 2)
 Grain Marketing Act 2002 s. 47 | 30 of 2002 | 25 Oct 2002 | 31 Oct 2002 (see s. 2 and Gazette 30 Oct 2002 p. 5351)
 Reprint 4: The Bulk Handling Act 1967 as at 5 Dec 2003 (includes amendments listed above) (correction in Gazette 23 Jan 2004 p. 306)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 69 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 The Companies Act 1893 was repealed by the Companies Act 1943. The latter Act was repealed by the Companies Act 1961 s. 4 except in relation to co-operative companies in respect of which it is now cited as the Companies (Co-operative) Act 1943 (s. 382).
 Now 30 Delhi Street, West Perth.
 Now see Insurance (Deposits) Act 1932 of the Commonwealth.
@@ -36,8 +40,8 @@ Schedule 1 — Transitional and savings
 [s. 24]
 1.Interpretation
 In this Schedule —
-“CBH” means Co-operative Bulk Handling Limited, a company registered under the Companies (Co-operative) Act 1943;
-“commencement day” means the day on which this Act comes into operation.
+CBH means Co-operative Bulk Handling Limited, a company registered under the Companies (Co-operative) Act 1943;
+commencement day means the day on which this Act comes into operation.
 2.Tolls and debentures (s. 31 and 32)
 (1) Debentures issued before the commencement day in accordance with section 31 or 32 of the Bulk Handling Act 1967 continue on and after that day on the terms on which they were issued.
 (2) If, before the commencement day, a grower paid a foundation toll or a port equipment toll but as at that day had not been issued a debenture in satisfaction of the debt created by that payment —
@@ -54,3 +58,24 @@ Repealed by the Wheat Marketing Act 1984 s. 31.
 Marginal notes containing sectional references to the Bulk Handling Act 1935 have been omitted from this reprint.
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 and the Financial Administration Legislation Amendment Act 1993 s. 18 are transitional provisions that are of no further effect.
 The amendment in the Grain Marketing Act 2002 Sch. 2 cl. 1(2) to s. 8 of this Act is not included because s. 8 was repealed by the Bulk Handling Amendment Act 2002 s. 5.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 69 had not come into operation. It reads as follows:
+“
+69.Bulk Handling Act 1967 amended
+(1) The amendments in this section are to the Bulk Handling Act 1967.
+(2) Section 34D is repealed and the following section is inserted instead —
+“
+34D.Company authorised to pay certain statutory contributions
+(1) The Company is authorised, without further authority than this section, to pay, in accordance with the provisions of —
+(a) the Plant Pests and Diseases (Eradication Funds) Act 1974; or
+(b) regulations made for the purposes of the Biosecurity and Agriculture Management Act 2007 section 141,
+the amount of any contribution for which a person who has delivered any grain or seed to the Company appears to be liable under those provisions.
+(2) The amount of a contribution so paid —
+(a) is a debt due to the Company by the person in respect of whom it is paid; and
+(b) is a first charge in priority to all claims on the moneys payable to that person in respect of grain and seed, other than a charge created under any other section.
+(3) Payment of an amount under subsection (1) operates to discharge the person from liability for that amount.
+”.
+(3) Section 51(1)(aa) is amended by deleting “the contribution paid by the Company in respect of a grower under the Plant Pests and Diseases (Eradication Funds) Act 1974” and inserting instead —
+“
+a contribution paid by the Company in respect of a person in accordance with a written law referred to in section 34D(1)
+”.
+”.
