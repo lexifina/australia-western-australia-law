@@ -31,10 +31,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt.
 Reprint 3: The Young Offenders Act 1994 as at 15 Jul 2005 (includes amendments listed above except those in the Sentencing Legislation Amendment Act 2004 s. 17)
 Parole and Sentencing Legislation Amendment Act 2006 Pt. 5 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 13 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Road Traffic Amendment (Drugs) Act 2007 Pt. 3 | 6 of 2007 | 23 May 2007 | To be proclaimed (see s. 2)
+Road Traffic Amendment (Drugs) Act 2007 Pt. 3 | 6 of 2007 | 23 May 2007 | 12 Oct 2007 (see s. 2 and Gazette 11 Oct 2007 p. 5475)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -72,23 +69,4 @@ In this Schedule —
 3.Conditions of employment of other employees and officers on commencement to continue
 (1) A person who was appointed by the Minister under the Act as an overseer, or as an officer or employee without custodial functions, before commencement, and who is still employed immediately before commencement, is to be regarded, on commencement, as having been appointed by the chief executive officer under section 11(1a)(b) of the principal Act (as amended by this Act), on the same terms and conditions, including as to remuneration, as those which applied to the person immediately before commencement.
 (2) A person to whom subclause (1) applies retains all existing and accruing rights and benefits as if the person’s employment, for the purposes of the principal Act, were a continuation of the person's employment immediately before commencement.
-”.
-On the date as at which this compilation was prepared, the Road Traffic Amendment (Drugs) Act 2007 Pt. 3 had not come into operation. It reads as follows:
-“
-Part 3 — Young Offenders Act 1994 amended
-22.The Act amended in this Part
-The amendments in this Part are to the Young Offenders Act 1994.
-23.Schedule 1 amended
-Schedule 1 is amended in the division headed “3. Road Traffic Act 1974” as follows:
-(a) by inserting after the item relating to section 63 —
-“
-s. 64AB | Driving while impaired by drugs
-s. 64AC | Driving with prescribed illicit drug in oral fluid or blood
-”;
-(b) by deleting the item relating to section 67 and inserting instead —
-“
-s. 67 | Failing to provide a breath sample, allow taking of a blood sample or provide a urine sample
-s. 67AA | Failing to undergo a driver assessment, allow taking of a blood sample or provide a urine sample
-s. 67AB | Failing to provide a sample of oral fluid or allow taking of a blood sample
-”.
 ”.
