@@ -40,10 +40,11 @@ Reprint 5: The Consumer Affairs Act 1971 as at 16 Jun 2006 (includes amendments 
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div 7 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 3 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | To be proclaimed (see s. 2)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Legal Practitioners Amendment (Disciplinary and Miscellaneous Provisions) Act 1992 Pt. 2 came into operation on 1 Feb 1993 (see s. 3(a) and Gazette 26 Jan 1993 p. 823).
 Repealed by the Acts Amendment and Repeal (Fair Trading) Act 1988.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -56,7 +57,7 @@ The Statutes (Repeals and Minor Amendments) Act 1997 s. 39(9) reads as follows:
 (9) The person appointed and holding office under section 15(1) as the Commissioner for Consumer Affairs immediately before the commencement of this section continues to hold office after that commencement as the Commissioner for Fair Trading.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Dangerous Goods Safety Act 2004 s. 70, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Dangerous Goods Safety Act 2004 s. 70, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 70.Repeals and consequential amendments (Sch. 2)
 Schedule 2 has effect.
@@ -112,4 +113,29 @@ In this Division —
 “commencement” means the time at which this Division comes into operation;
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+”.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 had not come into operation. They read as follows:
+“
+23.Consumer Affairs Act 1971 amended
+(1) The amendment in this section is to the Consumer Affairs Act 1971.
+(2) The Schedule is amended by deleting “Agricultural Products Act 1929.”.
+29.Consumer Affairs Act 1971 amended
+(1) The amendment in this section is to the Consumer Affairs Act 1971.
+(2) The Schedule is amended by deleting “Agriculture and Related Resources Protection Act 1976.”.
+61.Consumer Affairs Act 1971 amended
+(1) The amendment in this section is to the Consumer Affairs Act 1971.
+(2) The Schedule is amended by deleting “Fertilizers Act 1977.”.
+64.Consumer Affairs Act 1971 amended
+(1) The amendment in this section is to the Consumer Affairs Act 1971.
+(2) The Schedule is amended by deleting “Plant Diseases Act 1914.”.
+75.Consumer Affairs Act 1971 amended
+(1) The amendment in this section is to the Consumer Affairs Act 1971.
+(2) The Schedule is amended by deleting “Seeds Act 1981.”.
+83.Consumer Affairs Act 1971 amended
+(1) The amendment in this section is to the Consumer Affairs Act 1971.
+(2) The Schedule is amended by deleting “Veterinary Chemical Control and Animal Feeding Stuffs Act 1976.”.
+86.Consumer Affairs Act 1971 amended
+(1) The amendment in this section is to the Consumer Affairs Act 1971.
+(2) The Schedule is amended by inserting in the appropriate alphabetical position —
+“ Biosecurity and Agriculture Management Act 2007. ”.
 ”.
