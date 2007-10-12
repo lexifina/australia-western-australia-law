@@ -55,7 +55,7 @@ Regulation 12: Road Traffic (Blood Sampling and Analysis) Regulations 1975
 FORM D
 To:(1) ...................................................................................................................
 at (2) ...................................................................................................................
-Acting pursuant to the provisions of section 66(5) of the Road Traffic Act 1974, I, the undersigned member of the Police Force, hereby request you the said (1) ...................................................................... to take a sample of the blood of (3) ...................................................................................................... presently at (4) .................................................................................................. in accordance with the abovementioned regulations.
+Acting pursuant to the provisions of section 66(5) or 66B(1) of the Road Traffic Act 1974, I, the undersigned member of the Police Force, hereby request you the said (1) ...................................................................... to take a sample of the blood of (3) ...................................................................................................... presently at (4) .................................................................................................. in accordance with the abovementioned regulations.
 Dated at ................................................ this ......................................... day of........................................, 20..............
 ...................................................
 Signature, Rank and Number.
@@ -63,6 +63,7 @@ Signature, Rank and Number.
 (2)Address or name of hospital, as the case may require.
 (3)Name of subject.
 (4)Place where subject is then to be found.
+[Form D amended in Gazette 11 Oct 2007 p. 5478.]
 FORM E
 Western Australia
 ROAD TRAFFIC ACT 1974
@@ -81,4 +82,4 @@ I, .............................................................................
 .....................................................
 Director, Chemistry Centre (WA).
 * Delete whichever is not applicable.
-[Schedule amended in Gazette 23 Jan 1976 p. 132; 10 Mar 1978 p. 688; 2 Feb 1982 p. 398; 25 Feb 1983 p. 650-1; 29 Jun 1984 p. 1795; 9 Aug 1991 p. 4232; 30 Jan 2001 p. 624-5.]
+[Schedule amended in Gazette 23 Jan 1976 p. 132; 10 Mar 1978 p. 688; 2 Feb 1982 p. 398; 25 Feb 1983 p. 650-1; 29 Jun 1984 p. 1795; 9 Aug 1991 p. 4232; 30 Jan 2001 p. 624-5; 11 Oct 2007 p. 5478.]
