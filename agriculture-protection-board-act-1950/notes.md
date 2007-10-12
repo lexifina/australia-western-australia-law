@@ -37,6 +37,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 28 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 34 and 40-48 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Under the Public Sector Management Act 1994 s. 112(2), a reference to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Public Service Appeal Board Act Repeal Act 1977.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -54,4 +55,51 @@ Section 8A of the Agriculture Protection Board Act 1950 is amended as follows:
 (a) by deleting “1994,” and inserting instead —
 “ 1994 or ”;
 (b) by deleting “or the Superannuation and Family Benefits Act 1938”.
+”.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 34 and 40-48 had not come into operation. They read as follows:
+“
+34.Repeal
+The Agriculture Protection Board Act 1950 is repealed.
+40.Meaning of terms used in this Subdivision
+In this Subdivision —
+Authority means the Western Australian Agriculture Authority established under the Biosecurity and Agriculture Management Act 2007;
+commencement day means the day on which section 34 comes into operation;
+Director General means the chief executive officer of the department principally assisting in the administration of the Biosecurity and Agriculture Management Act 2007;
+former account means The Agriculture Protection Board Fund referred to in the repealed Act section 9;
+repealed Act means the Agriculture Protection Board Act 1950.
+41.Funds in, or payable to, former account
+(1) On the commencement day any moneys standing to the credit of the former account are to be credited to the Consolidated Account and the former account is then to be closed.
+(2) The Consolidated Account is to be credited with any money that became payable to the former account before the commencement day and that is paid after that day.
+42.Devolution of assets and liabilities
+On and after the commencement day —
+(a) the assets and rights of the APB that were immediately before that day vested in the APB vest in the Authority by force of this section; and
+(b) the liabilities of the APB (including a share of a liability) immediately before that day become, by force of this section, the liabilities of the Authority; and
+(c) any proceeding or remedy that immediately before that day might have been brought or continued by or available against or to the APB, may be brought or continued and are available, by or against or to the Authority; and
+(d) all records and data of the APB pass to the Authority.
+43.Proceeds of sale of certain assets
+(1) If any assets vested in the Authority under section 42 that were purchased from moneys in the Declared Plants and Animals Control Fund referred to in the Agriculture and Related Resources Protection Act 1976 section 65 are sold, the proceeds from that sale must be credited to the Declared Pest Account established under the BAM Act.
+(2) If any assets vested in the Authority under section 42 that were purchased from moneys in the Skeleton Weed Eradication Fund established by the Plant Pests and Diseases (Eradication Funds) Act 1974 section 5 are sold, the proceeds from that sale must be credited to the prescribed account referred to in section 2(5)(a).
+(3) The Authority may certify in writing that a specified asset was, or was not, purchased from moneys in a former account, and such a certificate is conclusive evidence of that fact, unless the contrary is shown.
+44.Exemption from State taxation
+(1) In this section —
+State tax includes stamp duty chargeable under the Stamp Act 1921 and any other tax, duty, fee, levy or charge under a law of the State.
+(2) State tax is not payable in relation to anything that occurs by reason of this Subdivision.
+45.Agreements and instruments generally
+Any agreement or instrument subsisting immediately before the commencement day —
+(a) to which the APB was a party; or
+(b) which contains a reference to the APB,
+has effect on and after the commencement day as if —
+(c) the Authority were substituted for the APB as a party to the agreement or instrument; and
+(d) any reference in the agreement or instrument to the APB were (unless the context otherwise requires) amended to be or include a reference to the Authority.
+46.Immunity continues
+Despite the repeal of the Agriculture Protection Board Act 1950, where the APB had the benefit of any immunity in respect of an act, matter or thing done or omitted before the commencement day, that immunity continues in that respect for the benefit of the State.
+47.Registration of documents
+The Registrar of Titles is to take notice of the provisions of this Division and is empowered to record and register in the appropriate manner the necessary documents, and otherwise to give effect to this Division.
+48.Saving
+The operation of any provision of this Division is not to be regarded —
+(a) as a breach of contract or confidence or otherwise as a civil wrong; or
+(b) as a breach of any contractual provision prohibiting, restricting or regulating the assignment or transfer of assets, rights or liabilities or the disclosure of information; or
+(c) as giving rise to any remedy by a party to an instrument or as causing or permitting the termination of any instrument, because of a change in the beneficial or legal ownership of any assets, right or liability; or
+(d) as causing any contract or instrument to be void or otherwise unenforceable; or
+(e) as releasing or allowing the release of any surety.
 ”.
