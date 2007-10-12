@@ -46,6 +46,10 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Reprint 7: The Soil and Land Conservation Act 1945 as at 19 May 2006 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div. 7 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 6 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 80 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Under the Alteration of Statutory Designations Order 2006, a reference in any law to the Department of Agriculture is read and construed as a reference to the department of the Public Service with the designation “Department of Agriculture and Food”, unless the contrary intention appears in the law or the context of the reference otherwise requires.
 At the time this compilation was prepared, the Minister was called the Minister for Agriculture and Food.
 Repealed by the Conservation and Land Management Act 1984 s. 147.
@@ -55,3 +59,9 @@ Now known as the Soil and Land Conservation Act 1945; short title changed (see n
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 was a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 80 had not come into operation. It reads as follows:
+“
+80.Soil and Land Conservation Act 1945 amended
+(1) The amendment in this section is to the Soil and Land Conservation Act 1945.
+(2) The Schedule is amended by deleting “Stock (Identification and Movement) Act 1970”.
+”.
