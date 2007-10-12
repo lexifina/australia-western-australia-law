@@ -17,7 +17,16 @@ Local Government (Consequential Amendments) Act 1996, section 4 | 14 of 1996 | 2
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998, section 76 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see section 2(1))
 Sentencing Legislation Amendment and Repeal Act 2003 s. 95 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Marketing of Eggs Amendment Act 2004 s. 10 | 20 of 2004 | 26 Aug 2004 | 2 Jul 2005 (see s. 2(2) and Gazette 28 Jun 2005 p. 2895)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 76 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Section 59(2) of the Exotic Diseases of Animals Act 1993 (No. 33 of 1993) reads as follows —
 “
 (2) On the coming into operation of this Act, any subsidiary legislation under the Stock Diseases (Regulations) Act 1968 then in operation for the purposes of Part III of that Act shall, in so far as not inconsistent with this Act, continue in operation and have effect for the purposes of this Act as if made under this Act.
+”.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 76 had not come into operation. It reads as follows:
+“
+76.Repeal
+The Stock Diseases (Regulations) Act 1968 is repealed.
 ”.
