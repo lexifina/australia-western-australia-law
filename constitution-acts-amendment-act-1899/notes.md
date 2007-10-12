@@ -246,6 +246,7 @@ Conservation and Land Management Amendment Act 1991 s. 57 | 20 of 1991 | 25 Jun 
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22, 35 and 51 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -370,4 +371,18 @@ Schedule 3 — Consequential amendments
 “
 The Road Freight Transport Industry Council established under the Owner-Drivers (Contracts and Disputes) Act 2007.
 ”.
+”.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22, 35 and 51 had not come into operation. They read as follows:
+“
+22.Constitution Acts Amendment Act 1899 amended
+(1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended by deleting “The Apple Sales Advisory Committee constituted under the Agricultural Products Act 1929.”.
+(3) Schedule V Part 3 is amended by deleting “The Citrus Sales Advisory Committee constituted under the Agricultural Products Act 1929.”.
+(4) Schedule V Part 3 is amended by deleting “The Stone-Fruit Sales Advisory Committee constituted under the Agricultural Products Act 1929.”.
+35.Constitution Acts Amendment Act 1899 amended
+(1) The amendment in this section is to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended by deleting “The Agriculture Protection Board of Western Australia constituted under the Agriculture Protection Board Act 1950.”.
+51.Constitution Acts Amendment Act 1899 amended
+(1) The amendment in this section is to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended by deleting “The Artificial Breeding Board constituted under the Artificial Breeding Board Act 1965.”.
 ”.
