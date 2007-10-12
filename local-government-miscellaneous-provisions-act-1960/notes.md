@@ -132,6 +132,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | s. 141 cl. 94, amendment to s. 430(2)(a): to be proclaimed (see s. 2)
 Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 5-12 | 11 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Act No. 90 of 1964 was passed as the Local Government Act Amendment Act (No. 2) 1964, but was proclaimed to come into operation as the Local Government Act Amendment Act 1964.
 Repealed by the Stock (Brands and Movement) Act 1970, which is now known as the Stock (Identification and Movement) Act 1970.
 Repealed by the Auction Sales Act 1973 s. 3(1).
@@ -480,4 +481,13 @@ s. 374(5) | s. 415(1)
 s. 377(2) and (4) | s. 420(1)
 s. 379(1) | s. 433(26)
 s. 399(3)(a)
+”.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 had not come into operation. It reads as follows:
+“
+91.Local Government (Miscellaneous Provisions) Act 1960 amended
+(1) The amendments in this section are to the Local Government (Miscellaneous Provisions) Act 1960.
+(2) Section 474(7) is amended by deleting “, brand it with the brands, on the portions, and in the order, prescribed by the Brands Act 1904, in such manner as to show that the brand is the last brand at the time imprinted on the beast.” and inserting instead —
+“
+label it with an identifier in accordance with the Biosecurity and Agriculture Management Act 2007.
+”.
 ”.
