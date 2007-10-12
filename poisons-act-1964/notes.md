@@ -48,6 +48,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Under the Alteration of Statutory Designations Order 2006, a reference to the department of the Public Service with the designation “Department of Agriculture” is, unless the contrary intention appears or the context of the reference otherwise requires, to be read and construed as a reference to the department of the Public Service with the designation “Department of Agriculture and Food”. At the time of this compilation the Minister is known as the Minister for Agriculture and Food.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
@@ -74,3 +75,12 @@ s. 29(1) | Delete “a stipendiary magistrate sitting as a court of summary juri
 s. 29(2) | Repeal the subsection and insert instead — “ (2)The Magistrates Court, constituted by a magistrate, shall hear the appeal and shall inquire into and decide upon the appeal and may make such order in the matter as it may think just, and its decision shall be final and conclusive. ”.
 ”.
 The amendments to s. 29 in the Courts Legislation Amendment and Repeal Act 2004 s. 142 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 107.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 had not come into operation. It reads as follows:
+“
+93.Poisons Act 1964 amended
+(1) The amendments in this section are to the Poisons Act 1964.
+(2) Section 32(c) is amended by deleting “by section 69 of the Agriculture and Related Resources Protection Act 1976 or section 8(2) of the Agriculture Protection Board Act 1950” and inserting instead —
+“
+under the Biosecurity and Agriculture Management Act 2007
+”.
+”.
