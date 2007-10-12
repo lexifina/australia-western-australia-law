@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 May 2003 of the Beekeepers Act 1963 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Beekeepers Act 1963 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Beekeepers Act 1963 | 4 of 1963 | 3 Oct 1963 | 20 Dec 1963 (see s. 2 and Gazette 20 Dec 1963 p. 3923)
@@ -15,5 +15,14 @@ Bee Industry Amendment and Repeal Act 1993 Pt. 2 | 26 of 1993 | 15 Dec 1993 | 4 
 Stock (Brands and Movement) Amendment Act 1994 s. 40 | 46 of 1994 | 27 Sep 1994 | 17 May 1995 (see s. 2 and Gazette 16 May 1995 p. 1839)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 6 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
 Reprint 3: The Beekeepers Act 1963 as at 2 May 2003 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 52 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 The Third Schedule was inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
 The Beekeepers Amendment Act 1984 s. 5 is a transitional provision that is of no further effect.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 52 had not come into operation. It reads as follows:
+“
+52.Repeal
+The Beekeepers Act 1963 is repealed.
+”.
