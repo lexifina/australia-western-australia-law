@@ -28,3 +28,26 @@ Marketing of Eggs Amendment Act 2004 s. 6 | 20 of 2004 | 26 Aug 2004 | 2 Jul 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 4: The Agricultural Products Act 1929 as at 4 Aug 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 21 and 24-26 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 21 and 24-26 had not come into operation. They read as follows:
+“
+21.Repeal
+The Agricultural Products Act 1929 is repealed.
+Subdivision 2 — Transitional and savings provisions
+24.Meaning of terms used in this Subdivision
+In this Subdivision —
+commencement day means the day on which section 21 comes into operation;
+former account means the Agricultural Products Act Modified Penalties Revenue Fund established under the repealed Act section 8B;
+repealed Act means the Agricultural Products Act 1929.
+25.Funds in, or payable to, former account
+(1) On the commencement day any moneys standing to the credit of the former account are to be credited to the Modified Penalties Revenue Account established under the BAM Act to be applied —
+(a) in the payment of any liabilities of the former account which arose before the commencement day; and
+(b) for the purposes set out in the BAM Act section 149,
+and the former account is then to be closed.
+(2) The Modified Penalties Revenue Account established under the BAM Act is to be credited with any money that became payable to the former account before the commencement day and that is paid after that day.
+26.Reference to former account
+If in an agreement, instrument or other document there is a reference to the former account, that reference is, unless the context otherwise requires, to be read and have effect on and after the commencement day as if it were a reference to the Modified Penalties Revenue Account established under the BAM Act.
+”.
