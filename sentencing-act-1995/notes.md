@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 July 2007 of the Sentencing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Sentencing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Sentencing Act 1995 | 76 of 1995 | 16 Jan 1996 | s. 1 and 2: 16 Jan 1996; Act other than s. 1, 2 and 19, and Pt. 12: 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
@@ -43,11 +43,12 @@ Parole and Sentencing Legislation Amendment Act 2006 Pt. 3 | 41 of 2006 | 22 Sep
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 4 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 5: The Sentencing Act 1995 as at 6 Jul 2007 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Criminal Property) Act 2004 Pt. 3 | 26 of 2004 | 7 Oct 2004 | To be proclaimed (see s. 2(2))
 Parole and Sentencing Legislation Amendment Act 2006 s. 71 | 41 of 2006 | 22 Sep 2006 | Operative on commencement of Act No. 26 of 2004 Pt. 3 (see s. 2(3))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
@@ -189,7 +190,7 @@ to or in relation to any matter.
 The amendments in the Sentencing Legislation Amendment Act 2004 s. 6(4) erroneously referred to “73(3) and (5)” instead of “75(3) and (5)” when identifying the required amendments to be made to s. 33N(3).
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 59 which purported to replace s. 84E could not be included because s. 84E was not in operation when s. 59 came into operation. S. 59 was subsequently repealed by No. 41 of 2006 s. 74(2).
 The amendments in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 65 that purported to amend s. 84P(3) could not be included because s. 84P(3) was not in operation when s. 65 came into operation. Those amendments were subsequently repealed by No. 41 of 2006 s. 75(2).
-On the date as at which this reprint was prepared, the Criminal Law Amendment (Criminal Property) Act 2004 Pt. 3 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Criminal Property) Act 2004 Pt. 3 had not come into operation. It reads as follows:
 “
 Part 3 — Amendments to Sentencing Act 1995
 6.The Act amended
@@ -214,11 +215,17 @@ Section 16(1)(f) is amended by deleting “forfeiture to Crown” and inserting 
 confiscation or forfeiture to the Crown (otherwise than under the Criminal Property Confiscation Act 2000)
 ”.
 ”.
-On the date as at which this reprint was prepared, the Parole and Sentencing Legislation Amendment Act 2006 s. 71 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Parole and Sentencing Legislation Amendment Act 2006 s. 71 had not come into operation. It reads as follows:
 “
 71.Sections 8 and 16 amended
 (1) Section 8(6) is amended in paragraph (b) of the definition of “criminal property confiscation” by deleting “Crown” and inserting instead —
 “ State ”.
 (2) Section 16(1)(f) is amended by deleting “Crown” and inserting instead —
 “ State ”.
+”.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 had not come into operation. It reads as follows:
+“
+54.Sentencing Act 1995 amended
+(1) The amendment in this section is to the Sentencing Act 1995.
+(2) Schedule 1 is amended by deleting the item relating to the Cattle Industry Compensation Act 1965.
 ”.
