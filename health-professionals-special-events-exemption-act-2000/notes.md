@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health Professionals (Special Events Exemption) Act 2000 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 12 October 2007 of the Health Professionals (Special Events Exemption) Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Professionals (Special Events Exemption) Act 2000 | 7 of 2000 | 14 Apr 2000 | 14 Apr 2000 (see s. 2)
@@ -13,3 +13,4 @@ Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | 1 Aug 2007 
 Optical Dispensers Repeal Act 2006 s. 4 | 11 of 2006 | 11 May 2006 | 11 May 2006 (see s. 2)
 Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | 1 Jul 2007 (see s. 2 and Gazette 26 Jun 2007 p. 3013)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
+Reprint 1: The Health Professionals (Special Events Exemption) Act 2000 as at 12 Oct 2007 (includes amendments listed above)
