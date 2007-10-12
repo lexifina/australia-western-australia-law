@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic Code 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 12 October 2007 of the Road Traffic Code 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic Code 2000 | 4 Aug 2000 p. 4213-538 | 1 Dec 2000 (see r. 2)
@@ -28,9 +28,12 @@ Road Traffic Code Amendment Regulations (No. 3) 2006 | 29 Dec 2006 p. 5921-5 | 2
 Road Traffic Code Amendment Regulations 2007 | 9 Mar 2007 p. 848-9 | 9 Mar 2007
 Road Traffic Code Amendment Regulations (No. 2) 2007 | 5 Apr 2007 p. 1553-8 | 5 Apr 2007
 Road Traffic Code Amendment Regulations (No. 3) 2007 | 2 Oct 2007 p. 4975-6 | 2 Oct 2007 (see r. 2)
-The Road Traffic Amendment Regulations (No. 4) 2000 r. 5 is not included because of an error in the reference to the provision to be amended.
+Reprint 2: The Road Traffic Code 2000 as at 12 Oct 2007 (includes amendments listed above)
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 “
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
 ”.
+Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
+Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+The Road Traffic Amendment Regulations (No. 4) 2000 r. 5 is not included because of an error in the reference to the provision to be amended.
 The commencement date of 1 Oct 2007 that was specified in r. 2(b) was before the date of gazettal.
