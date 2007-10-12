@@ -38,6 +38,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 37 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
 The Firearms Amendment Act 1996 s. 9(2), 10(2), 11(2), 15(2), 39 and 53 are transitional, savings and related provisions that are of no further effect.
@@ -73,3 +74,38 @@ Schedule 3 cl. 1 | Delete the definition of “CSM” and insert instead — “
 Schedule 3 | Delete “CSM” wherever it occurs and insert instead — “ Chief Magistrate ”.
 ”.
 The sections that it seeks to amend have been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 369 and 371.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 37 had not come into operation. It reads as follows:
+“
+37.Firearms Act 1973 amended
+(1) The amendments in this section are to the Firearms Act 1973.
+(2) Section 17B(1) is amended by deleting “officer or employee of the Board” and inserting instead —
+“ agriculture inspector ”.
+(3) Section 17B(3) is amended as follows:
+(a) by deleting “officer or employee” and inserting instead —
+“ agriculture inspector ”;
+(b) in paragraph (c) by deleting “common starlings Sturnus vulgaris” and inserting instead —
+“
+birds that are declared pests under the Biosecurity and Agriculture Management Act 2007
+”.
+(4) Section 17B(4) is amended as follows:
+(a) by deleting “officer or employee” and inserting instead —
+“ agriculture inspector ”;
+(b) by deleting “the Board” and inserting instead —
+“ the Director General ”.
+(5) Section 17B(6) is amended by deleting “officer or employee of the Board” and inserting instead —
+“ agriculture inspector ”.
+(6) Section 17B(7) is amended by deleting “the Board” in both places where it occurs and inserting instead —
+“ the department ”.
+(7) Section 17B(8) is amended as follows:
+(a) by inserting before the definition of “authority” —
+“
+“agriculture inspector” means an inspector appointed under the Biosecurity and Agriculture Management Act 2007 section 162;
+”;
+(b) by inserting after the definition of “Corporate Licence” —
+“
+“department” means the department principally assisting in the administration of the Biosecurity and Agriculture Management Act 2007;
+”;
+(c) in the definition of “silencer” by deleting the semicolon and inserting instead a full stop;
+(d) by deleting the definition of “subsection”;
+(e) by deleting the definition of “the Board”.
+”.
