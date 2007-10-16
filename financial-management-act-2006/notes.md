@@ -10,9 +10,17 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 36 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+State Superannuation Amendment Act 2007 s. 82 | 25 of 2007 | 16 Oct 2007 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 36 had not come into operation. It reads as follows:
 “
 36.Financial Management Act 2006 amended
 (1) The amendment in this section is to the Financial Management Act 2006.
 (2) Schedule 1 is amended by deleting “The Agriculture Protection Board of Western Australia”.
+”.
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 82 had not come into operation. It reads as follows:
+“
+82.Financial Management Act 2006 amended
+(1) The amendments in this section are to the Financial Management Act 2006.
+(2) Schedule 1 is amended by deleting “Government Employees Superannuation Board” and inserting in the appropriate alphabetical position —
+“ State Superannuation Board ”.
 ”.
