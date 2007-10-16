@@ -9,6 +9,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Electricity Corporations Act 2005 Sch. 5 cl. 21(2)(a)(ii) | 18 of 2005 | 13 Oct 2005 | To be proclaimed (see s. 2(2))
+State Superannuation Amendment Act 2007 s. 81 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 On the date as at which this compilation was prepared, the Electricity Corporations Act 2005 Sch. 5 cl. 21(2)(a)(ii) had not come into operation. It reads as follows:
 “
 Schedule 5 — Amendments to other Acts
@@ -18,4 +19,11 @@ Division 4 — Electricity Corporation Act 1994
 (2) Clause 1 is amended as follows:
 (a) in the definition of “new capacity” —
 (ii) by deleting “electricity distribution”;
+”.
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 81 had not come into operation. It reads as follows:
+“
+81.Electricity Corporations Act 2005 amended
+(1) The amendments in this section are to the Electricity Corporations Act 2005.
+(2) Section 26(4) is amended by deleting “section 30.” and inserting instead —
+“ section 76. ”.
 ”.
