@@ -247,6 +247,7 @@ Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 1
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22, 35 and 51 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | To be proclaimed (see s. 2)
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -385,4 +386,13 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 51.Constitution Acts Amendment Act 1899 amended
 (1) The amendment in this section is to the Constitution Acts Amendment Act 1899.
 (2) Schedule V Part 3 is amended by deleting “The Artificial Breeding Board constituted under the Artificial Breeding Board Act 1965.”.
+”.
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 79 had not come into operation. It reads as follows:
+“
+79.Constitution Acts Amendment Act 1899 amended
+(1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended by deleting the item for the Government Employees Superannuation Board and inserting in the appropriate alphabetical position —
+“
+The State Superannuation Board under the State Superannuation Act 2000.
+”.
 ”.
