@@ -25,6 +25,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 72 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+State Superannuation Amendment Act 2007 s. 88 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 The Western Australian Land Authority Amendment Act 1998 s. 19(3) and (4) read as follows:
 “
 (3) Despite subsections (1) and (2), on and from the commencement of this Act —
@@ -37,8 +38,8 @@ The Western Australian Land Authority Amendment Act 1998 s. 19(3) and (4) read a
 as if the Part had not been repealed; and
 (d) Part 4 and section 46 continue to apply and have effect in relation to any memorial referred to in paragraph (a) or (c) and to offences and other matters related to the memorial.
 (4) In subsection (3) —
-“pending memorial” means a memorial in respect of any land disposed of by the Authority pursuant to a transaction entered into before the commencement of this Act;
-“relevant official” has the same meaning as it had under the Western Australian Land Authority Act 1992 immediately before the commencement of this Act.
+pending memorial means a memorial in respect of any land disposed of by the Authority pursuant to a transaction entered into before the commencement of this Act;
+relevant official has the same meaning as it had under the Western Australian Land Authority Act 1992 immediately before the commencement of this Act.
 ”.
 The Western Australian Land Authority Amendment Act 1998 s. 20(2) reads as follows:
 “
@@ -83,3 +84,10 @@ As at the date on which this reprint was prepared, the State Superannuation (Tra
 Clause 2(4) in Schedule 4 to the Western Australian Land Authority Act 1992 is amended by deleting “(including rights under the Superannuation and Family Benefits Act 1938)”.
 ”.
 Lands Titles Office diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 88 had not come into operation. It reads as follows:
+“
+88.Western Australian Land Authority Act 1992 amended
+(1) The amendments in this section are to the Western Australian Land Authority Act 1992.
+(2) Section 13A(1) is amended by deleting “section 30” and inserting instead —
+“ section 76 ”.
+”.
