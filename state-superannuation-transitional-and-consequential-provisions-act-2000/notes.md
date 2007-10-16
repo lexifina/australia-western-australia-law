@@ -2,13 +2,14 @@ Notes
 This is a compilation of the State Superannuation (Transitional and Consequential Provisions) Act 2000 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and Year | Assent | Commencement
-State Superannuation (Transitional and Consequential Provisions) Act 2000 | 43 of 2000 (as amended by 65 of 2003 s. 106) | 2 November 2000 | Pt. 1 & 2 and s. 35, 42, 45, 49, 52, 58, 59(b), 65, 69 & 70: 17 Feb 2001 (see s. 2(1) and Gazette 16 Feb 2001 p. 903); s. 33(1), 36(1), 37(1), 39(1), 43(1), 46(1), 48(1), 60(1) and 62: 17 Feb 2001 (see section 2(2) and Gazette 16 February 2001 p. 903)
+State Superannuation (Transitional and Consequential Provisions) Act 2000 | 43 of 2000 | 2 November 2000 | Pt. 1 & 2 and s. 35, 42, 45, 49, 52, 58, 59(b), 65, 69 & 70: 17 Feb 2001 (see s. 2(1) and Gazette 16 Feb 2001 p. 903); s. 33(1), 36(1), 37(1), 39(1), 43(1), 46(1), 48(1), 60(1) and 62: 17 Feb 2001 (see section 2(2) and Gazette 16 February 2001 p. 903)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 111 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 | 43 of 2000 (as amended by 65 of 2003 s. 106 and 42 of 2004 s. 174) | 2 November 2000 | s. 27-32, 33(2), 34, 36(2), 37(2), 38, 39(2), 40, 43(2), 44, 46(2), 47, 48(2), 50, 51, 53-57, 59(a), 60(2), 63, 64, 66-68 & 71-75 to be proclaimed (see s. 2(2))
-The following sections of Part 3 of the State Superannuation (Transitional and Consequential Provisions) Act 2000 (No. 43 of 2000) read as follows —
+State Superannuation Amendment Act 2007 s. 78 | 25 of 2007 | 16 Oct 2007 | To be proclaimed (see s. 2)
+The State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27-32, 33(2), 34, 36(2), 37(2), 38, 39(2), 40, 43(2), 44, 46(2), 47, 48(2), 50, 51, 53-57, 59(a), 60(2), 63, 64, 66-68 & 71-75 (as amended by 65 of 2003 s. 106 and 42 of 2004 s. 174) read as follows —
 “
 Part 3 — Consequential amendments
 27.Agriculture and Related Resources Protection Act 1976 amended
@@ -190,3 +191,9 @@ Western Australian Sports Centre Trust Act 1986 | s. 19(3)
 Workplace Agreements Act 1993 | Sch. 2, Part B, cl. 2
 ”.
 The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 78 had not come into operation. It reads as follows:
+“
+78.State Superannuation (Transitional and Consequential Provisions) Act 2000 amended
+(1) The amendments in this section are to the State Superannuation (Transitional and Consequential Provisions) Act 2000.
+(2) Section 26(2)(a) and (3) are amended by deleting “section 38 of”.
+”.
