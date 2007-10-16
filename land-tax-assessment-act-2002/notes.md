@@ -16,6 +16,10 @@ Reprint 1: The Land Tax Assessment Act 2002 as at 11 Aug 2006 (includes amendmen
 Land Information Authority Act 2006 s. 142 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Revenue Laws Amendment (Taxation) Act 2007 Pt. 3 | 12 of 2007 | 29 Jun 2007 | 30 Jun 2007 (see s. 2(c)(i))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+State Superannuation Amendment Act 2007 s. 83 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources.
@@ -143,4 +147,11 @@ Section 5 is modified by inserting before “in the State” —
 or
 (c)any body that the Parliament of the Commonwealth has given consent to the State to impose tax on or in respect of;
 ”.
+”.
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 83 had not come into operation. It reads as follows:
+“
+83.Land Tax Assessment Act 2002 amended
+(1) The amendments in this section are to the Land Tax Assessment Act 2002.
+(2) The Glossary clause 1 is amended in the definition of “taxable authority” by deleting “Government Employees Superannuation Board” and inserting instead —
+“ State Superannuation Board ”.
 ”.
