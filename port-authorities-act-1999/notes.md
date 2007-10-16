@@ -20,6 +20,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | To be proclaimed (see s.2)
+State Superannuation Amendment Act 2007 s. 84 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 The Ports and Marine Legislation Amendment Act 2003 s. 4(2) reads as follows:
 “
 (2) The amendment made by subsection (1) does not affect the operation of the Port Authorities (Withdrawal and Revesting of Property) Order 2000 published in the Gazette on 2 June 2000.
@@ -121,3 +122,10 @@ dangerous goods as defined by the Dangerous Goods Safety Act 2004
 ”.
 ”.
 Lands and Surveys plans are now held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 84 had not come into operation. It reads as follows:
+“
+84.Port Authorities Act 1999 amended
+(1) The amendments in this section are to the Port Authorities Act 1999.
+(2) Section 19(1) is amended by deleting “section 30” and inserting instead —
+“ section 76 ”.
+”.
