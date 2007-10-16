@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 25 November 2005 of the Director of Public Prosecutions Act 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Director of Public Prosecutions Act 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Director of Public Prosecutions Act 1991 | 12 of 1991 | 21 Jun 1991 | 3 Feb 1992 (see s. 2 and Gazette 3 Feb 1992 p. 531)
@@ -16,17 +16,18 @@ Director of Public Prosecutions Amendment Act 2004 | 21 of 2004 | 8 Sep 2004 | 6
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 6 and s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Director of Public Prosecutions Act 1991 as at 25 Nov 2005 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 39(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+State Superannuation Amendment Act 2007 s. 80 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 12(3) reads as follows:
 “
 (3) Despite the amendment effected by subsection (1), the Director of Public Prosecutions Act 1991 as in force before the commencement of this Act continues to apply in relation to the administration of the Crimes (Confiscation of Profits) Act 1988 to the extent that the operation of the latter Act is continued by this Act.
 ”.
 The amendment to s. 11(2) in the Courts Legislation Amendment and Repeal Act 2004 s. 141, which gives effect to Sch. 1 cl. 46, is not included because it would conflict with amendments in the Director of Public Prosecutions Amendment Act 2004 s. 3.
-On the date at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 39(2) had not come into operation. It reads as follows:
+On the date at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 39(2) had not come into operation. It reads as follows:
 “
 (2) Clause 3 of Schedule 1 to the Director of Public Prosecutions Act 1991 is amended as follows:
 (a) subclauses (1), (2) and (4) are deleted;
@@ -34,4 +35,19 @@ On the date at which this reprint was prepared, the State Superannuation (Transi
 (c) in subclause (7) by deleting “Superannuation and Family Benefits Act 1938 or the”;
 (d) in subclause (8) by deleting “the Superannuation and Family Benefits Act 1938 or”.
 ”.
-By Authority: JOHN A. STRIJK, Government Printer
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 80 had not come into operation. It reads as follows:
+“
+80.Director of Public Prosecutions Act 1991 amended
+(1) The amendments in this section are to the Director of Public Prosecutions Act 1991.
+(2) Schedule 1 clause 3(5) to (8) are repealed.
+(3) After Schedule 1 clause 3 the following clause is inserted —
+“
+3A.Superannuation if subsequently appointed as judge
+(1) A person who was the Director and is, on termination of his or her appointment as Director, appointed to a pensionable office as defined in the Judges’ Salaries and Pensions Act 1950 section 2(4) may elect for subsection (2) to apply to the person.
+(2) If this subsection applies to a person, for the purposes of the Judges’ Salaries and Pensions Act 1950 the person’s service as Director is to be taken to be service in a pensionable office.
+(3) If a person who makes an election under subsection (1) was, while Director, a contributor to, or a member of, a superannuation scheme continued by the State Superannuation Act 2000 section 29(1)(b) or (c), the person’s entitlements to benefits under that scheme in respect of the period of his or her service as Director cease when the person makes that election.
+(4) If a person who makes an election under subsection (1) is not a person to whom subsection (3) applies, any pension that becomes payable to or in respect of the person under the Judges’ Salaries and Pensions Act 1950 is to be reduced by an amount determined by the Minister, on the advice of an actuary, to be actuarially equivalent to the value of the employer sponsored component of any benefit accrued in a superannuation fund in respect of the period of his or her service as Director.
+(5) An election under subsection (1) is to be made in writing to the Minister within 30 days after ceasing to be Director and is irrevocable.
+(6) This section has effect despite anything in the Superannuation and Family Benefits Act 1938, State Superannuation Act 2000 or the Judges’ Salaries and Pensions Act 1950.
+”.
+”.
