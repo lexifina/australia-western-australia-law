@@ -207,7 +207,7 @@ Mackerel, Shark ................................................. | 2
 Mackerel, Broad-barred Spanish and Narrow-barred Spanish (combined) .............. | 2
 Mackerel, Wahoo .............................................. | 2
 Mulloway .......................................................... | 2
-Parrot Fish (combined) ............................... | 4
+Parrot Fish (combined) ...................................... | 4
 Salmon, Australian ............................................ | 4
 Samson Fish, Amberjack and Yellowtail Kingfish (combined) ...................................... | 2
 Sea Perch, Tropical, except Red Emperor (combined) ..................................................... | 2
