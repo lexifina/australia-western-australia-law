@@ -5,8 +5,8 @@
 Fees | $
 1.Application for an exemption under section 7(4) —
 (a)to the Minister, for any purpose (as provided by section 7(2) of the Act) ................................................. | 2 060.00
-(b)to the CEO, for the purposes of scientific research (as provided by section 7(3)(a)), or for educational and community awareness programmes (as provided by section 7(3)(g)) ............... | 270.00
-(c)to the CEO, for one of the purposes provided by section 7(3)(b), (c), (d), (e), or (f) ............ | 1 085.00
+(b)to the CEO, for the purposes of scientific research (as provided by section 7(3)(a)), or for educational and community awareness programmes (as provided by section 7(3)(g)) ............................................................. | 270.00
+(c)to the CEO, for one of the purposes provided by section 7(3)(b), (c), (d), (e), or (f) ................................. | 1 085.00
 2.Copy of entry on, or extract from, the register (reg. 114(2)(a)) ......................................................................... | 29.00
 3.Access to the register in electronic form (reg. 114(2)(b)) ........ | 29.00
 [4.deleted]
@@ -53,7 +53,6 @@ For renewal ....................................................................
 For transfer ............................................................................... | 420.00
 For variation ............................................................................. | 420.00
 [13.deleted]
-For renewal ............................................................................... | 70.00
 14.Exclusive licence, grant or renewal (reg. 166) ......................... | 680.00
 15.Authority to take fish for scientific purposes (reg. 178) .......... | 76.00
 16.Authority to bring in non-endemic fish (reg. 176) ................... | 135.00
@@ -93,7 +92,7 @@ Fees | $
 (a)for greenlip abalone, per kg .......................... | 10.45
 (b)for brownlip abalone, per kg ......................... | 10.45
 (c)for Roe’s abalone, per kg .............................. | 3.15
-(2)Abrolhos Islands and Mid West Trawl Managed Fishery, per gear unit .........................................…. | 9 070.00
+(2)Abrolhos Islands and Mid West Trawl Managed Fishery, per gear unit .............................................. | 9 070.00
 (3)Broome Prawn Managed Fishery ............................ | 8 231.00
 (4)Cockburn Sound (Crab) Managed Fishery, per pot | 26.41
 (5)Cockburn Sound (Fish Net) Managed Fishery ....... | 790.00
@@ -153,7 +152,7 @@ Types of operation —
 (i)one boat with a surveyed length of more than 7.5 m and an open water passenger capacity of 20 persons or less and an associated power boat with a length of 4.5 m or more but 7.5 m or less, in one zone; or
 (ii)one or more boats with a surveyed length of 7.5 m or less and a combined open water passenger carrying capacity of 20 persons or less, in one zone ............................................ | 240.00
 (b)In addition to the fee specified in item 4(1)(a) —
-(i)for each additional 10 passengers or part thereof ............................................................. | 120.00
+(i)for each additional 10 passengers or part thereof ................................................................ | 120.00
 (ii)for each additional associated power boat with a surveyed length of 4.5 m or more but 7.5 m or less .................................................. | 240.00
 (iii)for a licence to operate the boat in more than one zone, for each additional zone ....... | 120.00
 (iv)for each additional boat specified in the licence with a surveyed length of more than 7.5 m and an open water passenger capacity of 20 persons or less ..................................... | 240.00
@@ -187,4 +186,4 @@ Types of operation —
 (1)a boat 6.5 m or longer .............................................. | 315.00
 (2)a boat shorter than 6.5 m ......................................... | 85.00
 7.Tag authorising the possession of one pink snapper in the Freycinet Estuary ................................................................ | 10.00
-[Part 3 inserted in Gazette 19 Sep 2003 p. 4120-5; amended in Gazette 19 Sep 2003 p. 4118; 17 Feb 2004 p. 600; 28 May 2004 p. 1896-902 (as amended in Gazette 29 Jun 2004 p. 2524); 30 Sep 2004 p. 4187; 1 Mar 2005 p. 877-8; 22 Jul 2005 p. 3372-5; 16 Sep 2005 p. 4315-17; 7 Feb 2006 p. 620-1; 5 Sep 2006 p. 3616-17; 16 Feb 2007 p. 489-90; 12 Jun 2007 p. 2717-9; 14 Aug 2007 p. 4101-2; 4 Sep 2007 p. 4520.]
+[Part 3 inserted in Gazette 19 Sep 2003 p. 4120-5; amended in Gazette 19 Sep 2003 p. 4118; 17 Feb 2004 p. 600; 28 May 2004 p. 1896-902 (as amended in Gazette 29 Jun 2004 p. 2524); 30 Sep 2004 p. 4187; 1 Mar 2005 p. 877-8; 22 Jul 2005 p. 3372-5; 16 Sep 2005 p. 4315-17; 7 Feb 2006 p. 620-1; 5 Sep 2006 p. 3616-17; 16 Feb 2007 p. 489-90; 12 Jun 2007 p. 2717-19; 14 Aug 2007 p. 4101-2; 4 Sep 2007 p. 4520.]

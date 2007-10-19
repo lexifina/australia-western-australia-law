@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 October 2007 of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -101,10 +101,11 @@ Fish Resources Management Amendment Regulations (No. 6) 2006 | 10 Nov 2006 p. 47
 Fish Resources Management Amendment Regulations (No. 8) 2006 | 10 Nov 2006 p. 4704-12 | 10 Nov 2006
 Fish Resources Management Amendment Regulations (No. 7) 2006 | 29 Dec 2006 p. 5888-92 | 29 Dec 2006
 Fish Resources Management Amendment Regulations (No. 2) 2007 | 16 Feb 2007 p. 489-90 | 1 Mar 2007 (see r. 2)
-Fish Resources Management Amendment Regulations (No. 5) 2007 | 12 Jun 2007 p. 2717-9 | 1 Jul 2007 (see r. 2)
+Fish Resources Management Amendment Regulations (No. 5) 2007 | 12 Jun 2007 p. 2717-19 | 1 Jul 2007 (see r. 2)
 Fish Resources Management Amendment Regulations 2007 | 6 Jul 2007 p. 3387-90 | 6 Jul 2007
 Fish Resources Management Amendment Regulations (No. 6) 2007 | 14 Aug 2007 p. 4099-102 | r. 1 and 2: 14 Aug 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2007 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 7) 2007 | 4 Sep 2007 p. 4519-21 | r. 1 and 2: 4 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2007 (see r. 2(b))
+Reprint 7: The Fish Resources Management Regulations 1995 as at 19 Oct 2007 (includes amendments listed above)
 Repealed by the Land Administration Act 1997 s. 281(1).
-Footnotes not longer applicable.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
