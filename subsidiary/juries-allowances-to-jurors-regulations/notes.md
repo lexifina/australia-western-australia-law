@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 April 2004 of the Juries (Allowances to Jurors) Regulations and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Juries (Allowances to Jurors) Regulations and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Untitled regulations | 18 Jan 1929 p. 70 | 18 Jan 1929
@@ -20,4 +20,5 @@ Juries (Allowances to Jurors) Amendment Regulations 1987 | 19 Jun 1987 p. 2387 |
 Reprint of the Juries (Allowances to Jurors) Regulations as at 5 Oct 1988 in Gazette 13 Oct 1988 p. 4145-51 (includes amendments listed above)
 Juries (Allowances to Jurors) Amendment Regulations 1995 | 5 Dec 1995 p. 5584 | 5 Dec 1995
 Reprint 2: The Juries (Allowances to Jurors) Regulations as at 2 Apr 2004 (includes amendments listed above)
+Juries (Allowances to Jurors) Amendment Regulations (No. 2) 2007 | 19 Oct 2007 p. 5614 | r. 1 and 2: 19 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Oct 2007 (see r. 2(b))
 Now known as the Juries (Allowances to Jurors) Regulations; citation inserted (see note under r. 1).
