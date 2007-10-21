@@ -114,28 +114,30 @@ Form 7.Declaration by elected member of council[r. 13(1)(c)]
 Local Government Act 1995
 Local Government (Constitution) Regulations 1998
 Declaration by elected member
-I, ........................................................................................................................................,
-of ........................................................................................................................................
-having been elected to the office of mayor/deputy mayor/president/deputy president/councillor of the .................................................................................................
-declare that I take the office upon myself and will duly, faithfully, honestly, and with integrity, fulfil the duties of the office for the people in the district according to the best of my judgment and ability, and will observe the code of conduct adopted by the .........
-.................................................. under section 5.103 of the Local Government Act 1995.
+I, .........................................................................................................................................
+of.....................................................................................................................................,
+having been elected to the office of mayor/deputy mayor/president/deputy president/councillor of the...............................................................................................,
+declare that I take the office upon myself and will duly, faithfully, honestly, and with integrity, fulfil the duties of the office for the people in the district according to the best of my judgment and ability, and will observe the Local Government (Rules of Conduct) Regulations 2007.
 Declared at ............................................ on ....................................................................
 by.............................................................
 Before me:.............................................................
 _____________________________
+Insert your residential address.
 Delete those that do not apply.
-.Insert the name of the local government.
+Insert the name of the local government.
+[Form 7 inserted in Gazette 21 Aug 2007 p. 4187.]
 Form 8.Declaration by commissioner[r. 13(1)(d)]
 Local Government Act 1995
 Local Government (Constitution) Regulations 1998
 Declaration by commissioner
-I, .....................................................................................................................................,
-of ....................................................................................................................................,
+I, .......................................................................................................................................
+of....................................................................................................................................,
 having been appointed to the office of commissioner
-of the .............................................................................................................................
-declare that I take the office upon myself and will duly, faithfully, honestly, and with integrity, fulfil the duties of the office according to the best of my judgment and ability.
+of the.............................................................................................................................., declare that I take the office upon myself and will duly, faithfully, honestly, and with integrity, fulfil the duties of the office according to the best of my judgment and ability.
 Declared at ............................................ on .................................................................
 by..................................................................
 Before me:...................................................................
 ___________________________
-Insert the name of the local government
+Insert your residential address.
+Insert the name of the local government.
+[Form 8 inserted in Gazette 21 Aug 2007 p. 4188.]
