@@ -32,14 +32,16 @@ Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | 1 Dec 2006 (see s
  | Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
  | Land Information Authority Act 2006 s. 139 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
  | Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+ | Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 11 | 24 of 2007 | 12 Oct 2007 | 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-On the date as at which this reprint was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(2))
+On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 “
 4.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
@@ -61,7 +63,7 @@ Where the taking of land or an interest in land under this Part is a Part 3 act,
 ”.
 ”.
 The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this reprint was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this reprint had also not come into operation (see endnotes 1a and 4).
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3.Consequential amendments
 Schedule 2 has effect.
@@ -372,7 +374,7 @@ The State Administrative Tribunal Regulations 2004 r. 33 reads as follows:
 (b) the matter is to continue to be dealt with as if the written law applicable to the matter in force immediately before the commencement day continued to apply.
 ”.
 Footnote no longer applicable.
-On the date as at which this reprint was prepared, the Acts Amendment (Court of Appeal) Act 2004 s. 37, which gives effect to Sch. 1, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Acts Amendment (Court of Appeal) Act 2004 s. 37, which gives effect to Sch. 1, had not come into operation. It reads as follows:
 “
 37.Various Acts amended
 Each Act listed in Schedule 1 is amended as set out in that Schedule.
@@ -386,7 +388,7 @@ Division 2 — Amendments that may be affected by impending legislation
 s. 237(2) | Delete “Full Court” and insert instead — “ Court of Appeal ”.
 ”.
 The amendment to s. 237(2) in the Acts Amendment (Court of Appeal) Act 2004 s. 37 would not be included because the section it seeks to amend was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 560.
-On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
 Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
@@ -403,3 +405,18 @@ s. 231(c) | Delete the paragraph and insert instead — “ (c)in the case of a 
 s. 237(3) | Delete “stipendiary”.
 ”.
 The amendments to s. 224(6), 226(2) and (3), 231(c) and 237(3) in the Courts Legislation Amendment and Repeal Act 2004 s. 142 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 67.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 had not come into operation. It reads as follows:
+“
+90.Land Administration Act 1997 amended
+(1) The amendments in this section are to the Land Administration Act 1997.
+(2) Section 111(3) is amended by deleting “declared animals and declared plants on the land under the lease in compliance with the Agriculture and Related Resources Protection Act 1976” and inserting instead —
+“
+declared pests on the land under the lease in compliance with the Biosecurity and Agriculture Management Act 2007
+”.
+(3) Section 112(2) is amended by deleting “declared animals and declared plants” and inserting instead —
+“ declared pests ”.
+(4) Section 117(a) is deleted and the following paragraph is inserted instead —
+“
+(a) the Biosecurity and Agriculture Management Act 2007;
+”.
+”.
