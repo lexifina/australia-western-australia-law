@@ -23,6 +23,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 2: The Fish Resources Management Act 1994 as at 11 Mar 2005 (includes amendments listed above except those in the Courts Legislation Amendment and Repeal Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Fish Resources Management Amendment Act 2007 | 28 of 2007 | 26 Oct 2007 | 26 Oct 2007 (see s. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
