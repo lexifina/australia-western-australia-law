@@ -41,6 +41,10 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Statute Law Revision Act 2006 s. 7 | 37 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2)
 Reprint 5: The Public Trustee Act 1941 as at 11 Aug 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | To be proclaimed (see s. 2)
 Repealed in First Schedule to this Act.
 The Administration Act 1903 s. 22 was repealed by the Public Trustee Act 1941 s. 3.
 Repealed by the Liquor Act 1970 which was repealed by the Liquor Licensing Act 1988.
@@ -61,4 +65,24 @@ The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 97 reads a
 “
 97.References to Crown Solicitor
 If in a written law or other document or instrument there is a reference to the Crown Solicitor that reference may, where the context so requires, be read as if it had been amended to be a reference to the State Solicitor.
+”.
+On the date as at which this compilation was prepared, the Wills Amendment Act 2007 s. 25, which gives effect to Sch. 1 cl. 5, had not come into operation. It reads as follows:
+“
+25.Consequential amendments to other Acts
+Schedule 1 has effect.
+”.
+Schedule 1 cl. 5 reads as follows:
+“
+Schedule 1 — Consequential amendments to other Acts
+[s. 25]
+“
+5.Public Trustee Act 1941 amended
+(1) The amendments in this clause are to the Public Trustee Act 1941.
+(2) Section 32 is amended as follows:
+(a) by inserting before “The Public Trustee” the subsection designation “(1)”;
+(b) by inserting at the end of the section the following subsection —
+“
+(2) In subsection (1) —
+“document” has the meaning given to that term by section 32(1) of the Wills Act 1970.
+”.
 ”.
