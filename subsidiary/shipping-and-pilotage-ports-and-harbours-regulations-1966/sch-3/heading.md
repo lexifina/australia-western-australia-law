@@ -32,9 +32,9 @@ Exceeding 30 000 | $8 926.85
  | (v)exceeds 30 m but does not exceed 50 m | $485.20
  | (vi)exceeds 50 m but does not exceed 70 m | $758.10
  | (b)where vessel enters port for coal, fuel oil, supplies or orders, and not loading or unloading cargo or taking on more than 10 passengers | $96.50
-2. | Conservancy dues payable in advance in respect of vessels engaged in Pearl Fishing north of North West Cape —
+2. | Conservancy dues payable in advance in respect of vessels engaged in pearl fishing north of North West Cape —
  | (a)Storeships, for each period of 12 months ending on 31 December, in any year | $15.00
- | (b)Other Pearl Fishing Vessels, for each period of 6 months ending on 30 June and 31 December respectively, in any year | $7.00
+ | (b)Other pearl fishing vessels, for each period of 6 months ending on 30 June and 31 December respectively, in any year | $7.00
 3. | Conservancy dues payable in respect of the use by a fishing vessel of —
  | ·the Emu Point Fishing Boat Harbour, Albany; ·the Fishing Boat Harbour, Carnarvon; ·the Bandy Creek Small Boat Harbour, Esperance; ·the Fishing Boat Harbour, Fremantle; ·the Inner Harbour, Geraldton; or ·the Fishing Boat Harbour, Port Denison,
  | for a period of 12 months ending on 30 June, where the length of the vessel exclusive of the bowsprit —
@@ -44,4 +44,4 @@ Exceeding 30 000 | $8 926.85
  | (d)exceeds 20 m but does not exceed 30 m | $317.90
  | (e)exceeds 30 m but does not exceed 50 m | $485.20
  | (f)exceeds 50 m | $758.10
-[Division 2 inserted in Gazette 24 Jun 2005 p. 2776-7; 23 Jun 2006 p. 2210-11; 12 Jun 2007 p. 2722.]
+[Division 2 inserted in Gazette 24 Jun 2005 p. 2776-7; amended in Gazette 23 Jun 2006 p. 2210-11; 12 Jun 2007 p. 2722.]
