@@ -32,6 +32,7 @@ Settlement Agents Amendment Regulations 2006 | 22 Sep 2006 p. 4130-3 | 22 Sep 20
 Settlement Agents Amendment Regulations (No. 4) 2006 | 22 Dec 2006 p. 5807-8 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
 Settlement Agents Amendment Regulations 2007 | 6 Feb 2007 p. 310 | 6 Feb 2007
 Settlement Agents Amendment Regulations (No. 2) 2007 | 29 Jun 2007 p. 3187-8 | r. 1 and 2: 29 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+Settlement Agents Amendment Regulations (No. 3) 2007 | 26 Oct 2007 p. 5651-2 | r. 1 and 2: 26 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Oct 2007 (see r. 2(b))
 These regulations are in place of the Settlement Agents Amendment Regulations 1996 published in Gazette 5 Jul 1996 p. 3224-5. Those regulations were published in the Gazette after the day on which they purported to commence (1 Jul 1996 — see proclamation published in Gazette 1 Jul 1996 p. 3179 fixing 1 Jul 1996 as the day on which Part 9 of the Business Licensing Amendment Act 1995 came into operation).
 The Settlement Agents Amendment Regulations (No. 2) 2004 r. 4 (as amended in Gazette 21 Jan 2004 p. 258 and 16 Jun 2006 p. 2122) reads as follows:
 “
