@@ -72,7 +72,8 @@ Category number | Description of category | Production or design capacity
 55 | Livestock saleyard or holding pen: premises on which live animals are held pending their sale, shipment or slaughter. | 10 000 animals or more per year
 56 | Used tyre storage (tyre fitting business): premises on which used tyres are stored in connection with a tyre fitting business. | 500 tyres or more
 57 | Used tyre storage (general): premises (other than premises within category 56) on which used tyres are stored. | 100 tyres or more
-58 | Bulk material loading or unloading: premises on which clinker, coal, ore, ore concentrate or any other bulk granular material is loaded onto or unloaded from vessels by an open materials loading system. | 100 tonnes or more per day
+58 | Bulk material loading or unloading: premises on which clinker, coal, ore, ore concentrate or any other bulk granular material (other than salt) is loaded onto or unloaded from vessels by an open materials loading system. | 100 tonnes or more per day
+58A | Bulk material loading or unloading: premises on which salt is loaded onto or unloaded from vessels by an open materials loading system. | 100 tonnes or more per day
 59 | Biomedical waste incineration: premises on which — | Not applicable
  | (a)infectious or potentially infectious waste produced by health care establishments, or by pathology, dental, or veterinary practices, or by laboratories, is incinerated;
  | (b)quarantine waste is incinerated; or (c)cytotoxic waste is destroyed, but not including premises on which there are only facilities used exclusively for human or animal cremation.
@@ -86,7 +87,7 @@ Category number | Description of category | Production or design capacity
 66 | Class V intractable landfill site: premises on which waste (as determined by reference to the waste type set out in the document entitled “Landfill Waste Classification and Waste Definitions 1996” published by the Chief Executive Officer and as amended from time to time) is accepted for burial. | Not applicable
 67 | Fuel burning: premises on which gaseous, liquid or solid fuel is burnt in a boiler for the supply of steam or in power generation equipment. | In aggregate 500 kilograms or more per hour (fuel with a sulphur content of 0.25% or more) or In aggregate 2 000 kilograms or more per hour (fuel with a sulphur content of less than 0.25%)
 67A | Compost manufacturing and soil blending: premises on which organic material (excluding silage) or waste is stored pending processing, mixing, drying or composting to produce commercial quantities of compost or blended soils. | 1 000 tonnes or more per year
-[Part 1 amended in Gazette 22 Jun 2007 p. 2843.]
+[Part 1 amended in Gazette 22 Jun 2007 p. 2843, 30 Oct 2007 p. 5877.]
 ## Part 2
 Category number | Description of category | Production or design capacity
 68 | Cattle feedlot: premises on which the watering and feeding of cattle occurs, being premises — (a)situated 100 metres or more from a watercourse; and (b)on which the number of cattle per hectare exceeds 50. | 500 animals or more

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 August 2007 of the Environmental Protection Regulations 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Environmental Protection Regulations 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Environmental Protection Regulations 1987 | 20 Feb 1987 p. 444-9 | 20 Feb 1987 (see r. 2 and Gazette 20 Feb 1987 p. 440)
@@ -56,6 +56,7 @@ Environmental Protection Amendment Regulations 2006 | 29 Sep 2006 p. 4260-7 | 1 
 Environmental Protection (NEPM-UPM) Regulations 2007 Pt. 6 | 27 Apr 2007 p. 1793-812 | 27 Apr 2007
 Environmental Protection Amendment Regulations 2007 | 22 Jun 2007 p. 2839-44 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Reprint 6: The Environmental Protection Regulations 1987 as at 17 Aug 2007 (includes amendments listed above)
+Environmental Protection Amendment Regulations (No. 2) 2007 | 30 Oct 2007 p. 5877-8 | r. 1 and 2: 30 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2007 (see r. 2(b))
 Published in Gazette 18 December 1992 p. 6099.
 Proclaimed 1 July 1988 in Gazette 26 June 1998 p. 3369.
 Expired on 1 July 2004; see Gazette 23 July 2003 p. 3172.

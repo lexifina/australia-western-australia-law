@@ -92,10 +92,11 @@ Category 54A | Not more than 20 gigalitres per year | 20
 Category 55 | Not more than 50 000 animals per year | 20
  | More than 50 000 animals per year | 50
 Categories 56 and 57 | Not applicable | 20
-Category 58 | Not more than 5 000 tonnes per day | 75
- | More than 5 000 but not more than 10 000 tonnes per day | 150
- | More than 10 000 but not more than 50 000 tonnes per day | 250
- | More than 50 000 tonnes per day | 350
+Category 58 | Not more than 5 000 tonnes per day | 500
+ | More than 5 000 but not more than 10 000 tonnes per day | 625
+ | More than 10 000 but not more than 50 000 tonnes per day | 750
+ | More than 50 000 tonnes per day | 1 400
+Category 58A | No applicable | 500
 Category 59 | Not more than 100 kilograms per hour | 50
  | More than 100 kilograms per hour | 100
 Category 60 | Not more than 500 kilograms per hour | 50
@@ -118,8 +119,10 @@ Category 67A | Not more than 500 tonnes per year | Nil
  | More than 5 000 but not more than 50 000 tonnes per year | 160
  | More than 50 000 but not more than 100 000 tonnes per year | 320
  | More than 100 000 tonnes per year | 640
-Categories 68 to 89 | Not applicable | 24
-[Part 1 inserted in Gazette 13 Sep 1996 p. 4560-7; amended in Gazette 10 Dec 1996 p. 6878; 15 Aug 2000 p. 4717-18; 14 Jun 2002 p. 2794; 13 Dec 2005 p. 5983; 22 Jun 2007 p. 2844.]
+Categories 68 to 85 | Not applicable | 24
+Category 86 | Not applicable | 500
+Categories 87 to 89 | Not applicable | 24
+[Part 1 inserted in Gazette 13 Sep 1996 p. 4560-7; amended in Gazette 10 Dec 1996 p. 6878; 15 Aug 2000 p. 4717-18; 14 Jun 2002 p. 2794; 13 Dec 2005 p. 5983; 22 Jun 2007 p. 2844; 30 Oct 2007 p. 5878.]
 ## Part 2 — Part 2 waste
 [Heading inserted in Gazette 13 Dec 2005 p. 5984.]
 Discharge quantity | Fee units
