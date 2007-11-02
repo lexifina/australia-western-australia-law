@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Gaming and Wagering Commission Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 November 2007 of the Gaming and Wagering Commission Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Gaming Commission Act 1987 | 50 of 1987 | 8 Oct 1987 | Pt. I, Pt. II, Pt. V Div. 2 and s. 111, 112, 115, 116 and 117: 4 Mar 1988 (see s. 2 and Gazette 4 Mar 1988 p. 665); balance: 2 May 1988 (see s. 2 and Gazette 29 Apr 1988 p. 1291)
+Gaming Commission Act 1987 | 50 of 1987 | 8 Oct 1987 | s. 1 and 2: 8 Oct 1987; s. 3, Pt. II, V Div. 2 and s. 111, 112, 115-117: 4 Mar 1988 (see s. 2 and Gazette 4 Mar 1988 p. 665); Act other than Pt. I, II, V Div. 2 and s. 111, 112 and 115-117: 2 May 1988 (see s. 2 and Gazette 29 Apr 1988 p. 1291)
 Acts Amendment (Totalisator Agency Board Betting) Act 1987 Pt. III | 125 of 1987 | 31 Dec 1987 | 25 Mar 1988 (see s. 2 and Gazette 25 Mar 1988 p. 933)
 Lotteries Commission Act 1990 s. 31(3) and 33 | 16 of 1990 | 31 Jul 1990 | 1 Jan 1991 (see s. 2 and Gazette 28 Dec 1990 p. 6369)
 Financial Administration Legislation Amendment Act 1993 s. 11 and 15 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
@@ -10,7 +10,7 @@ Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1
 Sentencing (Consequential Provisions) Act 1995 s. 147 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Financial Legislation Amendment Act 1996 s. 55 and 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
-Reprint of the Gaming Commission Act 1987 as at 5 May 1997 (includes amendments listed above) (Correction to reprint in Gazette 6 Jun 1997 p. 2644)
+Reprint of the Gaming Commission Act 1987 as at 5 May 1997 (includes amendments listed above) (Correction in Gazette 6 Jun 1997 p. 2644)
 Acts Amendment (Gaming) Act 1998 Pt. 3 | 24 of 1998 | 30 Jun 1998 | 5 Aug 1998 (see s. 2 and Gazette 4 Aug 1998 p. 3981)
 Lotteries Commission Amendment Act 1998 s. 23 | 26 of 1998 | 30 Jun 1998 | 22 Jul 1998 (see s. 2 and Gazette 21 Jul 1998 p. 3825)
 Reprint of the Gaming Commission Act 1987 as at 30 Oct 1998 (includes amendments listed above)
@@ -30,11 +30,12 @@ Reprint 4: The Gaming and Wagering Commission Act 1987 as at 18 Aug 2006 (includ
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 9 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Betting and Racing Legislation Amendment Act 2006 s. 9(2) | 70 of 2006 | 13 Dec 2006 | 9 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2837)
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Racing, Wagering and Betting Legislation Amendment and Repeal Act 2007 Pt. 3 | 8 of 2007 | 13 Jun 2007 | 14 Jun 2007 (see s. 2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 5: The Gaming and Wagering Commission Act 1987 as at 2 Nov 2007 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
 Liquor and Gaming Legislation Amendment Act 2006 Pt. 3 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 Now known as the Gaming and Wagering Commission Act 1987; short title changed (see note under s. 1).
@@ -81,8 +82,7 @@ Division 2 — Transitional and savings provisions
 170.Members of the Commission
 Each person holding office as a member of the Gaming Commission under the Gaming Commission Act 1987 immediately before the coming into operation of this section continues in office as a member of the Gaming and Wagering Commission under and subject to the Gaming and Wagering Commission Act 1987 until the expiry of the term of office.
 ”.
-6-7Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 Pt. 3 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Liquor and Gaming Legislation Amendment Act 2006 Pt. 3 had not come into operation. It reads as follows:
 “
 Part 3 — Amendments to the Gaming and Wagering Commission Act 1987
 112.The Act amended
