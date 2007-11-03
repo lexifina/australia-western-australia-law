@@ -1353,7 +1353,7 @@ Section 93EC
  | Note: If —
 (a) | under section 93EA(5)(b)(i), the Director notifies a worker that the referral of a question relating to an injury is accepted and that this section applies; and
 (b) | the time limited by any written law for the commencement of an action seeking damages in respect of the injury —
-(i) | has elapsed before the day on which the Director notifies the worker (the “notification day”); or
+(i) | has elapsed before the day on which the Director notifies the worker (the notification day); or
 (ii) | is due to elapse on the notification day or before the expiry of a period of 2 years after the notification day,
  | an action seeking damages in respect of the injury may, despite that written law, be commenced at any time before the expiry of a period of 2 years after the notification day.
 Objection If you (the employer) consider the worker’s degree of disability is less than the relevant level, you should complete the bottom section of this form and return it to the Director within 21 days of receiving this notice. If you do not notify the Director within 21 days you will be taken to have agreed that the worker’s degree of disability is not less than the relevant level.
@@ -1394,7 +1394,7 @@ Section 93EC
  | Note: If —
 (a) | under section 93EB(5)(b)(i), the Director notifies a worker that the referral of a question relating to an injury is accepted and that this section applies; and
 (b) | the time limited by any written law for the commencement of an action seeking damages in respect of the injury —
-(i) | has elapsed before the day on which the Director notifies the worker (the “notification day”); or
+(i) | has elapsed before the day on which the Director notifies the worker (the notification day); or
 (ii) | is due to elapse on the notification day or before the expiry of a period of 2 years after the notification day,
  | an action seeking damages in respect of the injury may, despite that written law, be commenced at any time before the expiry of a period of 2 years after the notification day.
 Objection If you (the employer) consider the worker’s degree of disability is less than the relevant level, you should complete the bottom section of this form and return it to the Director within 21 days of receiving this notice. If you do not notify the Director within 21 days you will be taken to have agreed that the worker’s degree of disability is not less than the relevant level.
