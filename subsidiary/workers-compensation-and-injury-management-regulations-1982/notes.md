@@ -59,6 +59,7 @@ Workers’ Compensation and Injury Management Amendment Regulations (No. 3) 2005
 Reprint 5: The Workers’ Compensation and Injury Management Regulations 1982 as at 3 Feb 2006 (includes amendments listed above)
 Workers’ Compensation and Injury Management Amendment Regulations 2006 | 4 Aug 2006 p. 2855-6 | 4 Aug 2006
 Workers’ Compensation and Injury Management Amendment Regulations (No. 2) 2006 | 15 Dec 2006 p. 5636-7 | 15 Dec 2006
+Workers’ Compensation and Injury Management Amendment Regulations 2007 | 2 Nov 2007 p. 5933-4 | r. 1 and 2: 2 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Nov 2007 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Assistance Act 1981 the short title of which was changed to the Workers’ Compensation and Rehabilitation Act 1981 by the Workers’ Compensation and Assistance Amendment Act 1990 s. 5 and then to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Workers’ Compensation and Injury Management Regulations 1982; citation changed (see note under r. 1).
