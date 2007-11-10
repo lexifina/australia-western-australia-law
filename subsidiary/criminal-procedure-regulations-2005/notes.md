@@ -6,3 +6,4 @@ Criminal Procedure Regulations 2005 | 28 Apr 2005 p. 1441-82 | 2 May 2005 (see r
 Criminal Procedure Amendment Regulations 2006 | 12 May 2006 p. 1784 | 31 May 2006 (see r. 2 and Gazette 30 May 2006 p. 1965)
 Criminal Procedure Amendment Regulations (No. 2) 2006 | 14 Jul 2006 p. 2567-9 | 14 Jul 2006
 Criminal Procedure Amendment Regulations (No. 3) 2006 | 14 Nov 2006 p. 4728-9 | 14 Nov 2006
+Criminal Procedure Amendment Regulations 2007 | 9 Nov 2007 p. 5611-14 | r. 1 and 2: 9 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Nov 2007 (see r. 2(b))
