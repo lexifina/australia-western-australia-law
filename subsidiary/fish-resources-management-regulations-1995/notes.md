@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 October 2007 of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -106,6 +106,116 @@ Fish Resources Management Amendment Regulations 2007 | 6 Jul 2007 p. 3387-90 | 6
 Fish Resources Management Amendment Regulations (No. 6) 2007 | 14 Aug 2007 p. 4099-102 | r. 1 and 2: 14 Aug 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2007 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 7) 2007 | 4 Sep 2007 p. 4519-21 | r. 1 and 2: 4 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2007 (see r. 2(b))
 Reprint 7: The Fish Resources Management Regulations 1995 as at 19 Oct 2007 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Fish Resources Management Amendment Regulations (No. 4) 2007 r. 3-10 | 13 Nov 2007 | 1 Jan 2008 (see r. 2(b))
 Repealed by the Land Administration Act 1997 s. 281(1).
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
+On the date as at which this compilation was prepared, the Fish Resources Management Amendment Regulations (No. 4) 2007 r. 3-10 had not come into operation. They read as follows:
+“
+3.The regulations amended
+The amendments in these regulations are to the Fish Resources Management Regulations 1995.
+4.Regulation 38A amended
+Regulation 38A is amended by deleting the definition of “deep sea crab” and inserting instead —
+“
+“deep sea crab” means a champagne crab, crystal crab or giant crab.
+”.
+5.Schedule 2 amended
+Schedule 2 Part 2 Division 5 is amended as follows:
+(a) by deleting the items for “Crab, Giant (King)” and “Crab, Spiny”;
+(b) by inserting in the appropriate alphabetical positions —
+“
+Crab, Champagne ........................................ | 92
+Crab, Crystal ................................................ | 120
+Crab, Giant ... .............................................. | 140
+”.
+6.Schedule 4 amended
+Schedule 4 is amended under the heading “Category 2 fish” by inserting in the appropriate alphabetical positions —
+“
+Crab, Champagne
+Crab, Crystal
+Crab, Giant
+”.
+7.Schedule 7 amended
+Schedule 7 is amended under the heading “Crustaceans” as follows:
+(a) by deleting the items for “Crab”, “Crab, Giant (King)”, “Crab, Snow” and “Crab, Spiny”;
+(b) by inserting in the appropriate alphabetical positions —
+“
+Crab ....................................... | Chaceon, Hypothalassia, Ovalipes, Portunus, Pseudocarcinus and Scylla spp.
+Crab, Champagne .................. | Hypothalassia acerba
+Crab, Crystal ......................... | Chaceon spp.
+Crab, Giant ............................ | Pseudocarcinus gigas
+”.
+8.Schedule 7 amended — headings and alphabetical matters
+(1) Schedule 7 is amended as follows:
+(a) by deleting the heading “Marine or fluvio-marine fish” and inserting instead —
+“ Division 1 — Marine or fluvio-marine fish ”;
+(b) by deleting the heading “Freshwater Fish” and inserting instead —
+“ Division 2 — Freshwater fish ”;
+(c) by deleting the heading “Crustaceans” and inserting instead —
+“ Division 3 — Crustaceans ”;
+(d) by deleting the heading “Molluscs” and inserting instead —
+“ Division 4 — Molluscs ”;
+(e) by deleting the heading “Other” and inserting instead —
+“ Division 5 — Other ”.
+(2) Schedule 7 is amended under the heading “Marine or fluvio-marine fish” as follows:
+(a) by deleting the items for “Bait Fish”, “Dhufish, West Australian”, “Hapuku”, “Rays”, “Salmon, Australian” and “sharks”;
+(b) by inserting in the appropriate alphabetical positions —
+“
+Bait Fish ................................ | Families Clupeidae and Engraulidae
+Dhufish, West Australian ..... | Glaucosoma hebriacum
+Hapuku ................................. | Polyprion oxygeneios
+Rays ...................................... | Superorder Batoidea
+Salmon, Australian ................ | Arripis truttaceus
+Sharks .................................... | Orders Squatiniformes, Pristiophoriformes, Squaliformes, Hexanchiformes, Carcharhiniformes, Lamniformes, Orectolobiformes and Heterodontiformes
+”.
+(3) Schedule 7 is amended under the heading “Freshwater Fish” as follows:
+(a) by deleting the items for “Carp, European (Common)” and “Carp, Grass”;
+(b) by inserting in the appropriate alphabetical positions —
+“
+Carp, European (Common) ... | Cyprinus carpio
+Carp, Grass ........................... | Ctenopharyngodon idellus
+”.
+(4) Schedule 7 is amended under the heading “Crustaceans” as follows:
+(a) by deleting the item “Prawn, Western School”;
+(b) by inserting in the appropriate alphabetical position —
+“
+Prawn, Western School ......... | Metapenaeus dalli
+”.
+(5) Schedule 7 is amended under the heading “Molluscs” as follows:
+(a) under the subheading “Cephalopods” —
+(i) by deleting the items for “Squid” and “Octopus”;
+(ii) by inserting in the appropriate alphabetical positions —
+“
+Squid .................................... | Sub-class Coleoidea Order Teuthoidea
+Octopus ................................. | Sub-class Coleoidea Order Octopoda
+”;
+(b) under the subheading “Bivalves” —
+(i) by deleting the item for “Oyster”;
+(ii) by inserting in the appropriate alphabetical position —
+“
+Oyster .................................... | Family Ostreidae
+”.
+(6) Schedule 7 is amended under the heading “Other” as follows:
+(a) by deleting the item for “Sea Urchin”;
+(b) by inserting in the appropriate alphabetical position —
+“
+Sea Urchin ............................. | Class Echinoidea
+”.
+9.Schedule 8 amended
+Schedule 8 Part 1 items 2 and 2a are deleted and the following items are inserted instead —
+“
+2.Crab, Champagne Crab, Giant | By measuring from the inside of the frontal groove midway between the eyes on the anterior margin of the carapace along the mid-ventral line of the carapace to the posterior margin where it joins the abdomen.
+2a.Crab, Crystal | By measuring across the carapace at the widest point.
+2b.Crab, any other | By measuring from tip to tip of the posterior carapace spikes.
+”.
+10.Schedule 9 amended
+Schedule 9 is amended under the heading “Category 2 fish” by inserting in the appropriate alphabetical positions —
+“
+Crab, Champagne ............................... | 8 | 4
+Crab, Crystal ....................................... | 15 | 9
+Crab, Giant .......................................... | 30 | 20
+”.
+”.
