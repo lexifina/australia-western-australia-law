@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Employers’ Indemnity Supplementation Fund Act 1980 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 16 November 2007 of the Employers’ Indemnity Supplementation Fund Act 1980 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Workers’ Compensation Supplementation Fund Act 1980 | 80 of 1980 | 5 Dec 1980 | 8 May 1981 (see s. 2 and Gazette 8 May 1981 p. 1402)
@@ -19,7 +19,8 @@ Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 8 | 20 of 2003 | 23
 Reprint 2: The Employers’ Indemnity Supplementation Fund Act 1980 as at 16 May 2003 (includes amendments listed above)
 Workers’ Compensation (Common Law Proceedings) Act 2004 s. 12 | 35 of 2004 | 25 Oct 2004 | 25 Oct 2004 (see s. 2(1))
 Workers’ Compensation Reform Act 2004 s. 159 and 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 3: The Employers’ Indemnity Supplementation Fund Act 1980 as at 16 Nov 2007 (includes amendments listed above)
 Now known as the Employers’ Indemnity Supplementation Fund Act 1980; short title changed (see note under s. 1).
 The Employers’ Indemnity Supplementation Fund Amendment Act 1993 s. 5(2) and 15 read as follows:
 “
