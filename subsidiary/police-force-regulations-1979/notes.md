@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 April 2007 of the Police Force Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Police Force Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Police Regulations 1979 | 20 Dec 1978 p. 4731-62 | 1 Jan 1979
@@ -54,9 +54,11 @@ Police Force Amendment Regulations 2006 | 15 Dec 2006 p. 5631-6 | 15 Dec 2006
 Police Force Amendment Regulations (No. 4) 2006 | 22 Dec 2006 p. 5823 | 22 Dec 2006
 Police Force Amendment Regulations 2007 | 2 Feb 2007 p. 246-51 | 7 Feb 2007 (see r. 2)
 Reprint 4: The Police Force Regulations 1979 as at 13 Apr 2007 (includes amendments listed above)
+Police Force Amendment Regulations (No. 3) 2007 | 16 Nov 2007 p. 5786-7 | r. 1 and 2: 16 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Nov 2007 (see r. 2(b))
 Under the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984, a reference to the Industrial Arbitration Act 1912 is to be read as a reference to the Industrial Relations Act 1979. The reference was substituted under the Reprints Act 1984 s. 7(3)(g).
 The Liquor Act 1970 was repealed by the Liquor Licensing Act 1988.
 Formerly referred to the Commissioner of Public Health, the name of which was changed to the Commissioner of Health by the Health Legislation Amendment Act 1984. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Now known as the Police Force Regulations 1979, citation changed (see note under r. 101).
 The Police Force Amendment Regulations (No. 2) 1995 r. 3(2) is a transitional provision that is of no further effect.
 The Police Force Amendment Regulations (No. 2) 1998 r. 13 is a transitional provision that is of no further effect.
+Correction to reprint published in Gazette 9 May 2008 p. 1859.
