@@ -1,7 +1,7 @@
 ## Schedule 6 — Planning control areas: purposes for which land may be required
 [s. 112(1)]
 Item | Purpose
-1. | Car Parks
+1. | Car parks
 2. | Civic and cultural amenity
 3. | Commonwealth Government
 4. | Cultural heritage conservation
