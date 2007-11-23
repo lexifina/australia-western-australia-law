@@ -7,8 +7,8 @@ Home Building Contracts (Home Indemnity Insurance Exemptions) Regulations 2002
 Builder’s notice
 Important notice about home indemnity insurance for multi-storey multi-unit developments
 The development or dwelling unit concerned
-1.This notice is about ………………………………………………………
-……………………………………………………………………………..
+1.This notice is about ..........................................................................
+..........................................................................................................
 [insert details of the development/dwelling unit]
 Background to home indemnity insurance
 2.The Home Building Contracts Act 1991 requires that the builder take out home indemnity insurance for residential building work costing over $12 000, unless there is an exemption.
@@ -36,25 +36,25 @@ For example: you receive a copy of this notice on 21 June, the one month starts 
 Other matters
 12.Just because you have been given this notice, or a copy of it, does not necessarily mean that the person who gave it to you is at fault.
 13.If you are in doubt about your rights, or you don’t understand this notice, you should seek legal advice.
-...............................................................……………............................ Builder
+............................................................................................................... Builder
  | Date ..........................................
 I acknowledge that I have read this notice:
-.......................................................................................................... Person to whom the builder has given this notice
+................................................................................................................ Person to whom the builder has given this notice
  | Date ..........................................
 *I acknowledge that I have read this notice:
-.......................................................................................................... Person receiving this copy of the notice
+................................................................................................................ Person receiving this copy of the notice
  | Date ..........................................
 *Complete or delete as necessary.
 Notice of exercise of right to rescind
-To .............................................................................………..................................
+To ................................................................................................................
 [name of builder or developer]
-*I/We ...............................................................................………................[insert
-name(s)] rescind the contract dated ..........………................. [insert date] for the
-*construction/purchase of the ....................................................................………
-....................................................................................................................………
+*I/We .................................................................................................[insert
+name(s)] rescind the contract dated ............................ [insert date] for the
+*construction/purchase of the ......................................................................
+......................................................................................................................
 [insert details of the development / unit(s)]
-...........................................................…….......................................................... Person rescinding the contract
- | Date ...............................................
+................................................................................................................. Person rescinding the contract
+ | Date ..................................
 NB:You should make sure that you have some evidence of the time and date on which you sent or gave this notice.
 *Complete or delete as necessary.
 [Form 1 amended in Gazette 8 Apr 2003 p. 1104; 16 Nov 2004 p. 5051.]
@@ -65,8 +65,8 @@ Home Building Contracts (Home Indemnity Insurance Exemptions) Regulations 2002
 Developer’s notice
 Important notice about home indemnity insurance for multi-storey multi-unit developments where a developer sells off-the-plan to a purchaser before engaging a builder
 The development or dwelling unit concerned
-1.This notice is about ………………………………………………………..
-……………………………………………………………………………..
+1.This notice is about ..........................................................................
+..........................................................................................................
 [insert details of the development/dwelling unit]
 Background to home indemnity insurance
 2.The Home Building Contracts Act 1991 requires that the builder take out home indemnity insurance for residential building work costing over $12 000, unless there is an exemption.
@@ -84,11 +84,11 @@ Why did you get this notice?
 (b)you, as a person purchasing the property from the developer,
 are not insured against financial loss if the builder is unable to meet a valid claim for faulty workmanship because the builder has died, disappeared or become insolvent.
 8.If you are in doubt about your rights, or you don’t understand this notice, you should seek legal advice or contact the Department of Consumer and Employment Protection Call Centre on 1300 30 40 54 (local call).
-..............................................................................................……………..
+............................................................................................................
 Developer
-Date ……………………………
+Date ..........................................
 I acknowledge that I have read this notice:
-..............................................................................................……………..
+...........................................................................................................
 Person to whom the developer has given this notice
-Date …………………………….
+Date ..........................................
 [Form 2 inserted in Gazette 16 Nov 2004 p. 5052-3.]
