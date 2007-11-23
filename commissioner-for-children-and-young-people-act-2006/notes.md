@@ -6,7 +6,8 @@ Commissioner for Children and Young People Act 2006 s. 1-2 | 48 of 2006 | 4 Oct 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Commissioner for Children and Young People Act 2006 s. 3-5, Pt. 2-9 and Sch. 1 | 48 of 2006 (as amended by No. 77 of 2006 s. 17) | 4 Oct 2006 | To be proclaimed (see s. 2)
+Commissioner for Children and Young People Act 2006 s. 3-5, Pt. 2-9 and Sch. 1 (other than cl. 2 and 3) | 48 of 2006 | 4 Oct 2006 | Act other than s. 1 and 2 and Sch. 1 cl. 2 and 3: 10 Dec 2007 (see s. 2 and Gazette 23 Nov 2007 p. 5861) Sch. 1 cl. 2 and 3: to be proclaimed (see s. 2)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 3-5, Pt. 2-9 and Sch. 1 had not come into operation. They read as follows:
 “
 3.Principle that best interests of children and young people paramount
@@ -268,8 +269,7 @@ Part 6 — Reporting
 Division 1 — Reports
 42.Annual reports
 (1) The Commissioner must, within 3 months after 30 June in each year, prepare a report as to the Commissioner’s general activities during the financial year ending on that day.
-(2) The report required under this section may be prepared and dealt with in conjunction with any report required under the Financial Management Act 2006 in respect of the Commissioner.
-[Section 42 amended by No. 77 of 2006 s. 17.]
+(2) The report required under this section may be prepared and dealt with in conjunction with any report required under the Financial Administration and Audit Act 1985 in respect of the Commissioner.
 43.Reports on special inquiries
 The Commissioner must, as soon as practicable after the conclusion of a special inquiry under Part 5, prepare a report on the findings of the inquiry.
 44.Reports on other matters
@@ -425,4 +425,15 @@ s. 17(1) and (3) | s. 38(2), (3) and (4)
 s. 18(1) and (2) | s. 42(2)
 s. 19(1), (9) and (10) | s. 44(3), (4) and (5)
 s. 20(2), (3), (5) and (6) | s. 45(1), (3), (4) and (6)
+”.
+On the date as at which this compilation was prepared, the Financial Legislation Amendment and Repeal Act 2006 s. 17, which gives effect to Sch. 1 cl. 27, had not come into operation. It reads as follows:
+“
+17.Various Acts amended
+Schedule 1 sets out amendments to various Acts.
+”.
+Schedule 1 cl. 27 reads as follows:
+“
+27.Commissioner for Children and Young People Act 2006
+Section 42(2) is amended by deleting “Financial Administration and Audit Act 1985” and inserting instead —
+“ Financial Management Act 2006 ”.
 ”.
