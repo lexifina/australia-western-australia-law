@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Police Act 1892 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 23 November 2007 of the Police Act 1892 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 The Police Act 1892 | 1892 (55 Vict. No. 27) | 18 Mar 1892 | 1 Apr 1892 (see s. 142)
@@ -9,33 +9,33 @@ Police Act Amendment Act 1898 | 1898 (62 Vict. No. 21) (as amended by No. 15 of 
 Criminal Code Act 1902 s. 3(2) | 1902 (1 & 2 Edw. VII No. 14) | 19 Feb 1902 | 1 May 1902 (see s. 2)
 Justices Act 1902 s. 2 | 1902 (2 Edw. VII No. 11) | 18 Nov 1902 | 18 Nov 1902
 Police Act Amendment Act 1902 | 1902 (2 Edw. VII No. 31) (as amended by No. 15 of 1952 s. 7(1)) | 20 Dec 1902 | 20 Dec 1902
-Police Act Amendment Act 1907 | 10 of 1907 (as amended by No. 15 of 1952 s. 7(1)) | 20 Dec 1907 | 20 Dec 1907
-Prevention of Cruelty to Animals Act 1912 s. 2 | 33 of 1912 | 10 Oct 1912 | 10 Oct 1912
-Police Act Amendment Act 1915 | 13 of 1915 (as amended by No. 15 of 1952 s. 7(1)) | 18 Feb 1915 | 18 Feb 1915
-Ministers’ Titles Act 1925 s. 2 | 8 of 1925 | 24 Sep 1925 | 24 Sep 1925
-Police Offences (Drugs) Act 1928 s. 2 | 11 of 1928 (as amended by No. 15 of 1952 s. 7(1)) | 23 Nov 1928 | 23 Nov 1928
-Police Act Amendment Act 1933 | 19 of 1933 | 13 Nov 1933 | 13 Nov 1933
-Police Act Amendment Act 1940 | 19 of 1940 | 29 Nov 1940 | 29 Nov 1940
-Police Act Amendment Act 1945 | 5 of 1945 | 27 Nov 1945 | 27 Nov 1945
-Police Act Amendment Act 1902 Amendment Act 1945 | 6 of 1945 (as amended by No. 15 of 1952 s. 7(1)) | 27 Nov 1945 | 27 Nov 1945
-Police Act Amendment Act 1952 | 15 of 1952 | 7 Nov 1952 | 19 Jun 1953 (see s. 2 and Gazette 19 Jun 1953 p. 1225)
+Police Act Amendment Act 1907 | 10 of 1907 (7 Edw. VII No. 10) (as amended by No. 15 of 1952 s. 7(1)) | 20 Dec 1907 | 20 Dec 1907
+Prevention of Cruelty to Animals Act 1912 s. 2 | 33 of 1912 (3 Geo. V No. 14) | 10 Oct 1912 | 10 Oct 1912
+Police Act Amendment Act 1915 | 13 of 1915 (5 Geo. V No. 40) (as amended by No. 15 of 1952 s. 7(1)) | 18 Feb 1915 | 18 Feb 1915
+Ministers’ Titles Act 1925 s. 2 | 8 of 1925 (16 Geo. V No. 8) | 24 Sep 1925 | 24 Sep 1925
+Police Offences (Drugs) Act 1928 s. 2 | 11 of 1928 (19 Geo. V No. 11) (as amended by No. 15 of 1952 s. 7(1)) | 23 Nov 1928 | 23 Nov 1928
+Police Act Amendment Act 1933 | 19 of 1933 (24 Geo. V No. 19) | 13 Nov 1933 | 13 Nov 1933
+Police Act Amendment Act 1940 | 19 of 1940 (4 Geo. VI No. 19) | 29 Nov 1940 | 29 Nov 1940
+Police Act Amendment Act 1945 | 5 of 1945 (9 Geo. VI No. 5) | 27 Nov 1945 | 27 Nov 1945
+Police Act Amendment Act 1902 Amendment Act 1945 | 6 of 1945 (9 Geo. VI No. 6) (as amended by No. 15 of 1952 s. 7(1)) | 27 Nov 1945 | 27 Nov 1945
+Police Act Amendment Act 1952 | 15 of 1952 (1 Eliz. II No. 15) | 7 Nov 1952 | 19 Jun 1953 (see s. 2 and Gazette 19 Jun 1953 p. 1225)
 Reprint of the Police Act 1892 approved 23 Mar 1953 in Volume 6 of Reprinted Acts (includes amendments listed above except those in the Police Act Amendment Act 1952)
-Police Act Amendment Act 1953 | 28 of 1953 | 18 Dec 1953 | 1 Jan 1955 (see s. 2 and Gazette 26 Feb 1954 p. 304)
-Police Act Amendment Act 1954 | 6 of 1954 | 25 Aug 1954 | 25 Aug 1954
-Police Act Amendment Act (No. 2) 1954 | 25 of 1954 | 20 Oct 1954 | 18 Mar 1955 (see s. 2 and Gazette 18 Mar 1955 p. 517)
-Betting Control Act 1954 s. 5 | 63 of 1954 | 30 Dec 1954 | 1 Aug 1955 (see s. 2(1) and Gazette 29 Jul 1955 p. 1767)
-Police Act Amendment Act 1955 | 8 of 1955 | 19 Oct 1955 | 19 Oct 1955
-Police Act Amendment Act 1956 | 20 of 1956 | 19 Nov 1956 | 19 Nov 1956
-Licensing (Police Force Canteen) Act 1958 Pt. III | 40 of 1958 | 11 Dec 1958 | 18 Jul 1959 (see s. 2 and Gazette 10 Jul 1959 p. 1829)
-Police Act Amendment Act 1959 | 10 of 1959 | 25 Sep 1959 | 25 Sep 1959
-Totalisator Agency Board Betting Act 1960 s. 20 | 50 of 1960 | 28 Nov 1960 | 31 Dec 1960 (see s. 2 and Gazette 23 Dec 1960 p. 4073)
-Police Act Amendment Act 1961 | 71 of 1961 | 28 Nov 1961 | 28 Nov 1961
+Police Act Amendment Act 1953 | 28 of 1953 (2 Eliz. II No. 28) | 18 Dec 1953 | 1 Jan 1955 (see s. 2 and Gazette 26 Feb 1954 p. 304)
+Police Act Amendment Act 1954 | 6 of 1954 (3 Eliz. II No. 6) | 25 Aug 1954 | 25 Aug 1954
+Police Act Amendment Act (No. 2) 1954 | 25 of 1954 (3 Eliz. II No. 25) | 20 Oct 1954 | 18 Mar 1955 (see s. 2 and Gazette 18 Mar 1955 p. 517)
+Betting Control Act 1954 s. 5 | 63 of 1954 (3 Eliz. II No. 63) | 30 Dec 1954 | 1 Aug 1955 (see s. 2(1) and Gazette 29 Jul 1955 p. 1767)
+Police Act Amendment Act 1955 | 8 of 1955 (4 Eliz. II No. 8) | 19 Oct 1955 | 19 Oct 1955
+Police Act Amendment Act 1956 | 20 of 1956 (5 Eliz. II No. 20) | 19 Nov 1956 | 19 Nov 1956
+Licensing (Police Force Canteen) Act 1958 Pt. III | 40 of 1958 (7 Eliz. II No. 40) | 11 Dec 1958 | 18 Jul 1959 (see s. 2 and Gazette 10 Jul 1959 p. 1829)
+Police Act Amendment Act 1959 | 10 of 1959 (8 Eliz. II No. 10) | 25 Sep 1959 | 25 Sep 1959
+Totalisator Agency Board Betting Act 1960 s. 20 | 50 of 1960 (9 Eliz. II No. 50) | 28 Nov 1960 | 31 Dec 1960 (see s. 2 and Gazette 23 Dec 1960 p. 4073)
+Police Act Amendment Act 1961 | 71 of 1961 (10 Eliz. II No. 71) | 28 Nov 1961 | 28 Nov 1961
 Reprint of the Police Act 1892 approved 26 Jun 1962 (not in a Volume) (includes amendments listed above)
-Police Act Amendment Act 1962 | 29 of 1962 | 4 Oct 1962 | 4 Oct 1962
-Police Act Amendment Act 1963 | 42 of 1963 | 25 Nov 1963 | 25 Nov 1963
-Factories and Shops Act 1963 s. 4 | 44 of 1963 | 3 Dec 1963 | 1 Jan 1964 (see s. 2 and Gazette 13 Dec 1963 p. 3836)
-Police Act Amendment Act 1964 | 28 of 1964 | 4 Nov 1964 | 4 Nov 1964
-Police Act Amendment Act (No. 2) 1964 | 71 of 1964 | 11 Dec 1964 | 1 Jul 1965 (see s. 2 and Gazette 29 Jun 1965 p. 1933)
+Police Act Amendment Act 1962 | 29 of 1962 (11 Eliz. II No. 29) | 4 Oct 1962 | 4 Oct 1962
+Police Act Amendment Act 1963 | 42 of 1963 (12 Eliz. II No. 42) | 25 Nov 1963 | 25 Nov 1963
+Factories and Shops Act 1963 s. 4 | 44 of 1963 (12 Eliz. II No. 44) | 3 Dec 1963 | 1 Jan 1964 (see s. 2 and Gazette 13 Dec 1963 p. 3836)
+Police Act Amendment Act 1964 | 28 of 1964 (13 Eliz. II No. 28) | 4 Nov 1964 | 4 Nov 1964
+Police Act Amendment Act (No. 2) 1964 | 71 of 1964 (13 Eliz. II No. 71) | 11 Dec 1964 | 1 Jul 1965 (see s. 2 and Gazette 29 Jun 1965 p. 1933)
 Police Act Amendment Act 1965 | 22 of 1965 | 1 Oct 1965 | 1 Oct 1965
 Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Police Act Amendment Act 1967 | 7 of 1967 | 5 Oct 1967 | 5 Oct 1967
@@ -100,7 +100,7 @@ Statutes (Repeals and Minor Amendments) Act 2000 s. 33 and 54 | 24 of 2000 | 4 J
 Protective Custody Act 2000 s. 30 | 50 of 2000 | 28 Nov 2000 | 1 Jan 2001 (see s. 2 and Gazette 29 Dec 2000 p. 7903)
 Reprint of the Police Act 1892 as at 12 Jan 2001 (includes amendments listed above) (Correction to reprint in Gazette 27 Feb 2001 p. 1209)
 Criminal Investigation (Identifying People) Act 2002 s. 96 | 6 of 2002 | 4 Jun 2002 | Sch. 2 cl. 5(1): 29 Jun 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037); Sch. 2 cl. 5(2): 20 Nov 2002 (see s. 2 and Gazette 19 Nov 2002 p. 5505)
-Police Amendment Act 2003 | 7 of 2003 | 27 Mar 2003 | 27 Aug 2003 (see s. 2 and Gazette 26 Aug 2003 p. 3753)
+Police Amendment Act 2003 | 7 of 2003 | 27 Mar 2003 | s. 1 and 2: 27 Mar 2003; Act other than s. 1 and 2: 27 Aug 2003 (see s. 2 and Gazette 26 Aug 2003 p. 3753)
 Acts Amendment (Equality of Status) Act 2003 Pt. 48 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 175(2) and Pt. 10 | 35 of 2003 | 26 Jun 2003 | 30 Jan 2004 (see s. 2 and Gazette 30 Jan 2004 p. 397)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 85 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
@@ -112,7 +112,8 @@ Criminal Law Amendment (Simple Offences) Act 2004 Pt. 3 | 70 of 2004 | 8 Dec 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 12: The Police Act 1892 as at 1 Jun 2005 (includes amendments listed above)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 12 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 13: The Police Act 1892 as at 23 Nov 2007 (includes amendments listed above)
 Now known as the Police Act 1892; short title changed (see note under s. 3).
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973 s. 3.
 The Police Amendment Act 2003 s. 9 reads as follows:
@@ -164,7 +165,7 @@ Despite section 11 of The Criminal Code and section 10 of the Sentencing Act 199
 (a) an investigation or legal proceedings in respect of any such offence alleged to have been committed before the commencement of Division 1 may be commenced or continued; and
 (b) a person may be sentenced or otherwise dealt with for the alleged offence as if the enactment had not been repealed.
 ”.
-On the date as at which this compilation was prepared, the Criminal Investigation (Consequential Provisions) Act 2006 Pt. 12 Div/ 12 reads as follows:
+The Criminal Investigation (Consequential Provisions) Act 2006 Pt. 12 Div. 2 reads as follows:
 “
 Division 2 — Transitional provisions
 68.Existing special constables’ appointments terminated
