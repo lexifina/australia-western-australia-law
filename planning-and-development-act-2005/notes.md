@@ -1,17 +1,20 @@
 Notes
-This is a compilation of the Planning and Development Act 2005 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 23 November 2007 of the Planning and Development Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
- | Planning and Development Act 2005 | 37 of 2005 | 12 Dec 2005 | Act other than s. 149, 150 and Pt. 13 Div. 3: 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077)
+ | Planning and Development Act 2005 | 37 of 2005 | 12 Dec 2005 | s. 1 and 2: 12 Dec 2005; Act other than s. 1, 2, 149, 150 and Pt. 13 Div. 3: 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077)
  | Swan Valley Planning Legislation Amendment Act 2006 s. 20(3) | 7 of 2006 | 19 Apr 2006 | 18 Jun 2006 (see s. 2 and Gazette 16 Jun 2006 p. 2109)
  | Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
  | Land Information Authority Act 2006 s. 147 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 1: The Planning and Development Act 2005 as at 23 Nov 2007 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) | 37 of 2005 (as amended by No. 60 of 2006 s. 147(4) | 12 Dec 2005 | To be proclaimed (see s. 2)
-On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) had not come into operation. They read as follows:
+Short title | Number and year | Assent | Commencement
+Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) | 37 of 2005 (as amended by No. 60 of 2006 s. 147(4)) | 12 Dec 2005 | To be proclaimed (see s. 2)
+Repealed by the Land Administration Act 1997.
+Repealed by the Mining Act 1978.
+On the date as at which this reprint was prepared, the Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) had not come into operation. They read as follows:
 “
 149.Conditions on rural land (tied lots)
 (1) In this section —
@@ -98,6 +101,8 @@ An amount paid as a modified penalty is, subject to section 231(2), to be dealt 
 (3) Where the modified penalty specified in an infringement notice has been paid within 28 days or such further time as is allowed, section 225(6) does not have effect to deem the owner to have committed the offence.
 (4) The statement required by section 225(5) is to include a description of the effect of subsection (3) if an infringement notice is given with a notice under section 225.
 ”.
+Now known as the Local Government (Miscellaneous Provisions) Act 1960. Section 48 was repealed by the Local Government Act 1995 s. 970.
+Lands Titles Office diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 The Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 3, s. 4 (which gives effect to Sch. 1), Pt. 3 and 4 read as follows:
 “
 3.Interpretation
@@ -216,40 +221,6 @@ Part 4 — Validation provision
 31.Validation of certain endorsed approvals
 Any approval of the Commission endorsed on a diagram or plan of survey of a stage of a subdivision under the Town Planning and Development Act 1928 before the coming into operation of this section is taken to be, and always to have been, as valid and effective as it would have been if section 145 of the Planning and Development Act 2005 had been in operation at the time of the endorsement and the approval had been endorsed under that section.
 ”.
-The Swan Valley Planning Legislation Amendment Act 2006 Sch. 1 cl. 4 reads as follows:
-“
-4.Metropolitan Region Scheme amended
-(1) In this item —
-“Metropolitan Region Scheme” has the same meaning as it has in the Planning and Development Act 2005.
-(2) The amendments in this item are to the Metropolitan Region Scheme.
-(3) The amendments to the Metropolitan Region Scheme effected by this item have effect as though the provisions were enacted by the Planning and Development Act 2005.
-(4) Nothing in this item affects the operation of the Planning and Development Act 2005 with respect to the amendments to the Metropolitan Region Scheme as amended by this Act.
-(5) Clause 26 is amended as follows:
-(a) by inserting before “Except” the subclause designation “(1)”;
-(b) after “provided” by inserting —
-“ in subclause (2) or (3) of this clause or ”;
-(c) at the end of the clause by inserting the following subclauses —
-“
-(2) In respect of applications for approval to develop land in the Swan Valley, where the advice of the Swan Valley Planning Committee is accepted by the City of Swan, the determination of the City of Swan under the local planning scheme is taken to be a determination under this Scheme.
-(3) In respect of applications for approval to develop land in the Swan Valley, where the advice of the Committee is not accepted by the City of Swan, the City of Swan is to refer the application, together with any recommendations provided by all bodies consulted, and the reasons why the advice of the Committee was not accepted by the City of Swan, to the Commission for determination.
-(4) In this clause “Committee”, “Swan Valley” and “Swan Valley Planning Committee” have the same meanings as they have in the Swan Valley Planning Act 1995.
-”.
-(6) Clause 30B(4) is deleted and the following subclause is inserted instead —
-“
-(4) Where the responsible authority is the Commission, the Commission is required to have due regard to the advice of the Committee, but may determine the application otherwise than in accordance with that advice.
-”.
-(7) Clause 30B(5) is amended as follows:
-(a) by deleting “council of the Shire of Swan, the council” and inserting instead —
-“ City of Swan, the City ”;
-(b) by deleting “but may determine the application otherwise than in accordance with that advice.” and inserting instead —
-“
-but if the City of Swan does not accept that advice, the City of Swan is to refer the application, together with any recommendations provided by all bodies consulted, and the reasons why the advice of the Committee was not accepted by the City of Swan, to the Commission for determination.
-”.
-(8) Clause 30B(6) is amended by deleting “council of the Shire” and inserting instead —
-“ City ”.
-”.
-Footnote no longer applicable.
-Lands Titles Office diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 4 Div. 2 of those regulations read as follows:
 “
 1.Citation
@@ -337,4 +308,36 @@ Section 201 is repealed and the following section is inserted instead —
 (iv) the Taxation Administration Act 2003.
 (3) This Act is to be read with the corresponding Planning and Development Act as a single body of law.
 ”.
+”.
+The Swan Valley Planning Legislation Amendment Act 2006 Sch. 1 it. 4 reads as follows:
+“
+4.Metropolitan Region Scheme amended
+(1) In this item —
+“Metropolitan Region Scheme” has the same meaning as it has in the Planning and Development Act 2005.
+(2) The amendments in this item are to the Metropolitan Region Scheme.
+(3) The amendments to the Metropolitan Region Scheme effected by this item have effect as though the provisions were enacted by the Planning and Development Act 2005.
+(4) Nothing in this item affects the operation of the Planning and Development Act 2005 with respect to the amendments to the Metropolitan Region Scheme as amended by this Act.
+(5) Clause 26 is amended as follows:
+(a) by inserting before “Except” the subclause designation “(1)”;
+(b) after “provided” by inserting —
+“ in subclause (2) or (3) of this clause or ”;
+(c) at the end of the clause by inserting the following subclauses —
+“
+(2) In respect of applications for approval to develop land in the Swan Valley, where the advice of the Swan Valley Planning Committee is accepted by the City of Swan, the determination of the City of Swan under the local planning scheme is taken to be a determination under this Scheme.
+(3) In respect of applications for approval to develop land in the Swan Valley, where the advice of the Committee is not accepted by the City of Swan, the City of Swan is to refer the application, together with any recommendations provided by all bodies consulted, and the reasons why the advice of the Committee was not accepted by the City of Swan, to the Commission for determination.
+(4) In this clause “Committee”, “Swan Valley” and “Swan Valley Planning Committee” have the same meanings as they have in the Swan Valley Planning Act 1995.
+”.
+(6) Clause 30B(4) is deleted and the following subclause is inserted instead —
+“
+(4) Where the responsible authority is the Commission, the Commission is required to have due regard to the advice of the Committee, but may determine the application otherwise than in accordance with that advice.
+”.
+(7) Clause 30B(5) is amended as follows:
+(a) by deleting “council of the Shire of Swan, the council” and inserting instead —
+“ City of Swan, the City ”;
+(b) by deleting “but may determine the application otherwise than in accordance with that advice.” and inserting instead —
+“
+but if the City of Swan does not accept that advice, the City of Swan is to refer the application, together with any recommendations provided by all bodies consulted, and the reasons why the advice of the Committee was not accepted by the City of Swan, to the Commission for determination.
+”.
+(8) Clause 30B(6) is amended by deleting “council of the Shire” and inserting instead —
+“ City ”.
 ”.
