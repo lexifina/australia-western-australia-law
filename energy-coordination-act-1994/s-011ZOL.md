@@ -10,5 +10,5 @@
 (a) is required by the regulations to be consulted under that subsection; or
 (b) meets any criteria in relation to the requirement for consultation that are prescribed for the purposes of this paragraph.
 (5) In this section and in section 11ZOM —
-“amendment” includes a replacement for the whole or part of the retail market scheme.
+amendment includes a replacement for the whole or part of the retail market scheme.
 [Section 11ZOL inserted by No. 53 of 2003 s. 15; amended by No. 53 of 2003 s. 19(1).]

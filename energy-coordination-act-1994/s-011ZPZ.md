@@ -1,7 +1,7 @@
 ## Division 2 — Approval of gas industry ombudsman scheme
 [Heading inserted by No. 53 of 2003 s. 32.]
 ### 11ZPZ. Authority may approve scheme
-(1) The Authority may, by instrument in writing, approve a scheme that provides for a person (the “gas industry ombudsman”) to investigate and deal with —
+(1) The Authority may, by instrument in writing, approve a scheme that provides for a person (the gas industry ombudsman) to investigate and deal with —
 (a) disputes and complaints under customer contracts;
 (b) disputes between —
 (i) customers and licensees; or

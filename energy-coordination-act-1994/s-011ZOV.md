@@ -1,7 +1,7 @@
 ## Subdivision 3 — Prohibition of certain conduct in relation to a retail market scheme
 [Heading inserted by No. 53 of 2003 s. 15.]
 ### 11ZOV. Conduct preventing or hindering operation
-(1) A person to whom this section applies must not engage in conduct (the “prohibited conduct”) for the purpose of —
+(1) A person to whom this section applies must not engage in conduct (the prohibited conduct) for the purpose of —
 (a) preventing or hindering;
 (b) attempting to prevent or hinder; or
 (c) conspiring with others to prevent or hinder,
