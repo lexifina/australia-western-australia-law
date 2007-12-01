@@ -15,4 +15,5 @@ Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2284-5 | 1 Jul 2006 (see r. 2)
 Reprint 2: The Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 as at 14 Jul 2006 (includes amendments listed above)
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2007 | 15 Jun 2007 p. 2784-5 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2007 | 30 Nov 2007 p. 5933-7 | r. 1 and 2: 30 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2007 (see r. 2(b) and Gazette 30 Nov 2007 p. 5927)
 The Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2000 r. 16 is a transitional provision that is of no further effect.
