@@ -29,11 +29,11 @@ Reprint 6: The Electricity Act 1945 as at 16 Dec 2005 (not including No. 18 of 2
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2005 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 6 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Gas and Electricity Safety Legislation Amendment Act 2007 Pt. 2 | 5 of 2007 | 18 Apr 2007 | 1 Dec 2007 (see s. 2 and Gazette 30 Nov 2007 p. 5927)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
-Gas and Electricity Safety Legislation Amendment Act 2007 Pt. 2 | 5 of 2007 | 18 Apr 2007 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 Marginal notes in the Electricity Act 1945 referring to the legislation from which provisions were derived have been omitted from this compilation.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
@@ -54,42 +54,5 @@ Schedule 2 — Other amendments to Acts
 16.Electricity Act 1945
 s. 32(3)(f) | Delete “a Local Court” and insert instead — “ the Magistrates Court ”.
 ”.
-On the date as at which this compilation was prepared, the Gas and Electricity Safety Legislation Amendment Act 2007 Pt. 2 had not come into operation. It reads as follows:
-“
-Part 2 — Electricity Act 1945 amended
-3.The Act amended by this Part
-The amendments in this Part are to the Electricity Act 1945.
-4.Part III repealed
-Part III is repealed.
-5.Section 32 amended
-Section 32(1)(s) is amended as follows:
-(a) by deleting “$5 000” and inserting instead —
-“ $50 000 ”;
-(b) by deleting “$20 000.” and inserting instead —
-“ $250 000. ”.
-6.Section 33B amended
-Section 33B(6)(d) is amended as follows:
-(a) by deleting “$5 000” and inserting instead —
-“ $50 000 ”;
-(b) by deleting “$20 000” and inserting instead —
-“ $250 000 ”.
-7.Section 33D amended
-Section 33D is amended as follows:
-(a) by deleting “$5 000” and inserting instead —
-“ $50 000 ”;
-(b) by deleting “$20 000.” and inserting instead —
-“ $250 000. ”.
-8.Section 33F amended
-Section 33F is amended as follows:
-(a) by deleting “$5 000” and inserting instead —
-“ $50 000 ”;
-(b) by deleting “$20 000.” and inserting instead —
-“ $250 000. ”.
-9.Section 52 amended
-Section 52 is amended as follows:
-(a) by deleting “$5 000” and inserting instead —
-“ $50 000 ”;
-(b) by deleting “$20 000.” and inserting instead —
-“ $250 000. ”.
-”.
+Footnote no longer applicable.
 The amendment to s. 32(3)(f) by the Courts Legislation Amendment and Repeal Act 2004 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 273.
