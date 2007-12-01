@@ -1,7 +1,7 @@
 ### 11ZOD. Persons required to comply with retail market rules
 (1) The following persons must comply with the relevant provisions of the retail market rules made as part of any approved retail market scheme for a distribution system —
-(a) a person (a “gas transmission operator”) who operates a pipeline that is used to transport gas into that distribution system for supply to customers of retail gas operators;
-(b) any other person (a “prescribed person”) who —
+(a) a person (a gas transmission operator) who operates a pipeline that is used to transport gas into that distribution system for supply to customers of retail gas operators;
+(b) any other person (a prescribed person) who —
 (i) is prescribed; or
 (ii) belongs to a class of persons that is prescribed,
 for the purposes of this paragraph.
