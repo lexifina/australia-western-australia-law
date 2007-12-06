@@ -2,14 +2,15 @@ Notes
 This is a compilation of the State Superannuation (Transitional and Consequential Provisions) Act 2000 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and Year | Assent | Commencement
-State Superannuation (Transitional and Consequential Provisions) Act 2000 | 43 of 2000 | 2 November 2000 | Pt. 1 & 2 and s. 35, 42, 45, 49, 52, 58, 59(b), 65, 69 & 70: 17 Feb 2001 (see s. 2(1) and Gazette 16 Feb 2001 p. 903); s. 33(1), 36(1), 37(1), 39(1), 43(1), 46(1), 48(1), 60(1) and 62: 17 Feb 2001 (see section 2(2) and Gazette 16 February 2001 p. 903)
+State Superannuation (Transitional and Consequential Provisions) Act 2000 5-7 | 43 of 2000 | 2 November 2000 | Pt. 1 & 2 and s. 35, 42, 45, 49, 52, 58, 59(b), 65, 69 & 70: 17 Feb 2001 (see s. 2(1) and Gazette 16 Feb 2001 p. 903); s. 33(1), 36(1), 37(1), 39(1), 43(1), 46(1), 48(1), 60(1) and 62: 17 Feb 2001 (see s. 2(2) and Gazette 16 Feb 2001 p. 903)
+Public Transport Authority Act 2003 s. 153 and 158 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 111 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+State Superannuation Amendment Act 2007 s. 78 | 25 of 2007 | 16 Oct 2007 | 6 Dec 2007 (see s. 2(1)(b) and Gazette 5 Dec 2007 p. 5973)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-State Superannuation (Transitional and Consequential Provisions) Act 2000 | 43 of 2000 (as amended by 65 of 2003 s. 106 and 42 of 2004 s. 174) | 2 November 2000 | s. 27-32, 33(2), 34, 36(2), 37(2), 38, 39(2), 40, 43(2), 44, 46(2), 47, 48(2), 50, 51, 53-57, 59(a), 60(2), 63, 64, 66-68 & 71-75 to be proclaimed (see s. 2(2))
-State Superannuation Amendment Act 2007 s. 78 | 25 of 2007 | 16 Oct 2007 | To be proclaimed (see s. 2)
-The State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27-32, 33(2), 34, 36(2), 37(2), 38, 39(2), 40, 43(2), 44, 46(2), 47, 48(2), 50, 51, 53-57, 59(a), 60(2), 63, 64, 66-68 & 71-75 (as amended by 65 of 2003 s. 106 and 42 of 2004 s. 174) read as follows —
+State Superannuation (Transitional and Consequential Provisions) Act 2000 | 43 of 2000 (as amended by 65 of 2003 s. 106 and 42 of 2004 s. 174) | 2 November 2000 | s. 27-32, 33(2), 34, 36(2), 37(2), 38, 39(2), 40, 43(2), 44, 46(2), 48(2), 50, 51, 53, 54, 56, 57, 59(a), 60(2), 63, 64, 66-68 & 71-75 to be proclaimed (see s. 2(2))
+The State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27-32, 33(2), 34, 36(2), 37(2), 38, 39(2), 40, 43(2), 44, 46(2), 48(2), 50, 51, 53, 54, 56, 57, 59(a), 60(2), 63, 64, 66-68 & 71-75 (as amended by 31 of 2003 s. 153(2)(b), 65 of 2003 s. 106 and 42 of 2004 s. 174) read as follows —
 “
 Part 3 — Consequential amendments
 27.Agriculture and Related Resources Protection Act 1976 amended
@@ -80,8 +81,6 @@ Section 73 of the Financial Administration and Audit Act 1985 is amended as foll
 (b) in clause 3(2)(c) by deleting “in a permanent capacity by any Crown instrumentality or other body which is, or is deemed to be, a department for the purposes of the Superannuation and Family Benefits Act 1938 or”;
 (c) in clause 4(1) by deleting “or otherwise was a contributor to units of pension or to the Provident Account under the Superannuation and Family Benefits Act 1938” and “or any existing accruing rights under the Superannuation and Family Benefits Act 1938”;
 (d) by deleting clause 4(2) and (3).
-47.Government Railways Act 1904 amended
-Section 11(1) of the Government Railways Act 1904 is amended by deleting “or the Superannuation and Family Benefits Act 1938-1947,”.
 48.Hospitals and Health Services Act 1927 amended
 (2) The Hospitals and Health Services Act 1927 is amended as follows:
 (a) in section 7E(2) —
@@ -118,11 +117,6 @@ Section 9 of the Law Reform Commission Act 1972 is amended as follows:
 The Library Board of Western Australia Act 1951 is amended as follows:
 (a) in section 5(14) by deleting “or the Superannuation and Family Benefits Act 1938-1950,”;
 (b) in section 6(2) by deleting “and to such rights prescribed by or pursuant to the provisions of the Superannuation and Family Benefits Act 1938-1950,”.
-55.Metropolitan (Perth) Passenger Transport Trust Act 1957 amended
-Section 42(3)(a), (b) and (c) of the Metropolitan (Perth) Passenger Transport Trust Act 1957 are deleted and the following paragraph is inserted instead —
-“
-(a) The Trust may enter into and carry out an agreement for the purpose of providing pension, superannuation, sickness, or family benefits, or long service leave benefits, or other benefits of a similar nature, for all or any of its employees.
-”.
 56.Museum Act 1969 amended
 The Museum Act 1969 is amended as follows:
 (a) in section 26 by deleting “and, in particular, his rights, if any, under the Superannuation and Family Benefits Act 1938”;
@@ -178,7 +172,6 @@ Disability Services Act 1993 | Sch. 4, cl. 1
 District Court of Western Australia Act 1969 | s. 15
 Electoral Act 1907 | s. 5E(2)
 Freedom of Information Act 1992 | s. 62(2)
-Government Railways Act 1904 | s. 11
 Health Services (Conciliation and Review) Act 1995 | Sch. 2, cl. 3
 Heritage of Western Australia Act 1990 | s. 27(4)
 Industrial Relations Act 1979 | s. 20(8), (8a), (8b), (8c), (8d)
@@ -189,11 +182,17 @@ Vocational Education and Training Act 1996 | Sch. 4, cl. 7A
 Western Australian Planning Commission Act 1985 | s. 43
 Western Australian Sports Centre Trust Act 1986 | s. 19(3)
 Workplace Agreements Act 1993 | Sch. 2, Part B, cl. 2
+[Section 75 amended by No. 31 of 2003 s. 153(2)(b).]
 ”.
 The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
-On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 78 had not come into operation. It reads as follows:
-“
-78.State Superannuation (Transitional and Consequential Provisions) Act 2000 amended
-(1) The amendments in this section are to the State Superannuation (Transitional and Consequential Provisions) Act 2000.
-(2) Section 26(2)(a) and (3) are amended by deleting “section 38 of”.
-”.
+The amendment in s. 75 to the Workplace Agreements Act 1993 will not be included because the Schedule it sought to amend was deleted by the Labour Relations Reform Act 2002 s. 72 prior to commencement.
+Sections 41 and 61 deleted by the Statutes (Repeals and Minor Amendments) Act 2003 s. 111.
+Section 47 deleted by the Public Transport Authority Act 2003 s. 153(2)(a).
+Section 55 deleted by the Public Transport Authority Act 2003 s. 158.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+commencement day3(1)
+continues3(1)
+current3(1)
+transitional matter25(4)
