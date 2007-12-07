@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Veterinary Surgeons Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 December 2007 of the Veterinary Surgeons Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Veterinary Surgeons Act Regulations 1979 | 21 Dec 1979 p. 3992-4010 | 21 Dec 1979 (see Gazette 21 Dec 1979 p. 3909)
@@ -33,6 +33,6 @@ Veterinary Surgeons Amendment Regulations 2006 | 12 Dec 2006 p. 5489-91 | 12 Dec
 Veterinary Surgeons Amendment Regulations 2007 | 20 Mar 2007 p. 1005-32 | 20 Mar 2007
 Veterinary Surgeons Amendment Regulations (No. 2) 2007 | 20 Mar 2007 p. 1035-6 | 20 Mar 2007 (see r. 2(a))
 Veterinary Surgeons Amendment Regulations (No. 3) 2007 | 19 Oct 2007 p. 5609-13 | r. 1 and 2: 19 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Oct 2007 (see r. 2(b))
-Repealed by the Public Sector Management Act 1994.
-Formerly referred to the Poisons Act Regulations 1965 the citation of which was changed to the Poisons Regulations 1965 by the Poisons Amendment Regulations (No. 2) 1984 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Reprint 3: The Veterinary Surgeons Regulations 1979 as at 7 Dec 2007 (includes amendments listed above)
+The headings before r. 1-4, 7-9, 13, 15, 18, 19-23, 28, 34, 44, 55, 60, 61, 63, 64, 67, 69, 74 and 80 were deleted by the Veterinary Surgeons Amendment Regulations (No. 3) 2003, see Gazette 16 Dec 2003 p. 5089-90.
 Now known as the Veterinary Surgeons Regulations 1979; citation changed (see note under r. 1).
