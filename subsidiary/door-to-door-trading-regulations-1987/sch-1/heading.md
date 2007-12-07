@@ -53,9 +53,9 @@ Form 3
 Door to Door Trading Act 1987 Infringement notice | Infringement notice no.
 Alleged offender | Name:Family name
 Given names
-orCompany name ________________________________ ACN
-Address _______________________________________________ Postcode
-Alleged offence | Description of offence __________________________________
+orCompany name _________________________________ ACN
+Address ______________________________________________ Postcode
+Alleged offence | Description of offence ___________________________________
 Door to Door Trading Act 1987 s.
 Date //20Time a.m./p.m.
 Modified penalty $
