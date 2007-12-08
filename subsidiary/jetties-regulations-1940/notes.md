@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 November 2007 of the Jetties Regulations 1940 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Jetties Regulations 1940 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Jetties Act Regulations 1940 | 6 Sep 1940 p. 1622-40 | 6 Sep 1940 (see Gazette 6 Sep 1940 p. 1622)
@@ -84,11 +84,12 @@ Jetties Amendment Regulations (No. 2) 2005 | 24 Jun 2005 p. 2813-47 | 1 Jul 2005
 Jetties Amendment Regulations 2006 | 23 Jun 2006 p. 2193-204 | 1 Jul 2006 (see r. 2)
 Jetties Amendment Regulations 2007 | 22 Jun 2007 p. 2903-40 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b)(ii))
 Reprint 6: The Jetties Regulations 1940 as at 9 Nov 2007 (includes amendments listed above)
+Jetties Amendment Regulations (No. 2) 2007 | 7 Dec 2007 p. 5983-4 | r. 1 and 2: 7 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2007 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Police Service.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Explosives and Dangerous Goods Act 1961.
-Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act. As at the date this reprint was prepared the department principally assisting the Minister in the administration of the Marine and Harbours Act 1981 is the Department of Planning and Infrastructure.
+Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act. As at the date this compilation was prepared the department principally assisting the Minister in the administration of the Marine and Harbours Act 1981 is the Department of Planning and Infrastructure.
 Formerly referred to the Jetties Act Regulations 1940 the citation of which was changed by the Jetties Amendment Regulations (No. 3) 2003 r. 3. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
 Now known as the Jetties Regulations 1940; citation changed (see note under r. 1).
 Regulation 10 disallowed on 19 Oct 1940.
