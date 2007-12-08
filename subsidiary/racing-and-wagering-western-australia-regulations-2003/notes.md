@@ -12,6 +12,7 @@ Reprint 1: The Racing and Wagering Western Australia Regulations 2003 as at 6 Oc
 Racing and Wagering Western Australia Amendment Regulations (No. 3) 2006 | 14 Nov 2006 p. 4736-7 | 1 Jan 2007 (see r. 2)
 Racing and Wagering Western Australia Amendment Regulations 2007 | 18 Sep 2007 p. 4715-16 | r. 1 and 2: 18 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2007 (see r. 2(b))
 Racing and Wagering Western Australia Amendment Regulations (No. 3) 2007 r. 1 and 2 | 9 Oct 2007 p. 5357 | 9 Oct 2007 (see r. 2(a))
+Racing and Wagering Western Australia Amendment Regulations (No. 2) 2007 | 7 Dec 2007 p. 5985-6 | r. 1 and 2: 7 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2007 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
