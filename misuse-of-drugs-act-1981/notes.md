@@ -28,8 +28,9 @@ Misuse of Drugs Amendment Act 2004 | 62 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see 
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Misuse of Drugs Act 1981 as at 1 Jul 2005 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 14 Div 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Misuse of Drugs Amendment Act 2006 | 40 of 2006 | 22 Sep 2006 | S. 1 and 2: 22 Sep 2006; Act other than s. 1 and 2: 28 Apr 2007 (see s. 2 and Gazette 27 Apr 2007 p. 1775)
+Misuse of Drugs Amendment Act 2006 | 40 of 2006 | 22 Sep 2006 | s. 1 and 2: 22 Sep 2006; Act other than s. 1 and 2: 28 Apr 2007 (see s. 2 and Gazette 27 Apr 2007 p. 1775)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
+Misuse of Drugs (Amount of Prohibited Drugs) Order 2007 (published in Gazette 7 Dec 2007 p. 5985) | cl. 1 and 2: 7 Dec 2007 (see cl. 2(a)); Order other than cl. 1 and 2: 8 Dec 2007 (see cl. 2(b))
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
 “

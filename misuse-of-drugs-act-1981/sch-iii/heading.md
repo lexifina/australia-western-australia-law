@@ -82,7 +82,7 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 77. | METHADONE-INTERMEDIATE | 0.6
 78. | METHAQUALONE | 150.0
 79. | METHARBITONE | 30.0
-80. | METHYLAMPHETAMINE | 6.0
+80. | METHYLAMPHETAMINE | 4.0
 81. | METHYLDESORPHINE | 6.0
 82. | METHYLDIHYDROMORPHINE | 6.0
 82A. | 3, 4-METHYLENEDIOXYAMPHETAMINE (MDA) | 4.0
@@ -147,4 +147,4 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 140. | THEBAINE | 6.0
 141. | TRIMEPERIDINE | 30.0
 142. | VINBARBITONE | 30.0
-[Schedule III amended by No. 48 of 1995 s. 43; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041.]
+[Schedule III amended by No. 48 of 1995 s. 43; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 7 Dec 2007 p. 5985.]
