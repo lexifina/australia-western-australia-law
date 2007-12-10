@@ -33,6 +33,7 @@ Chief executive officer of an agency within the meaning of the Public Sector Man
 Clerk of the Legislative Assembly.
 Clerk of the Legislative Council.
 Commissioner appointed under the Corruption and Crime Commission Act 2003.
+Commissioner for Children and Young People appointed under the Commissioner for Children and Young People Act 2006.
 Commissioner for Public Sector Standards appointed under the Public Sector Management Act 1994.
 Commissioner of Police appointed under the Police Act 1892.
 The Director appointed under the Health Services (Conciliation and Review) Act 1995.
@@ -45,7 +46,7 @@ Parliamentary Inspector of the Corruption and Crime Commission appointed under t
 Senior executive officer within the meaning of the Public Sector Management Act 1994.
 Solicitor-General appointed under the Solicitor-General Act 1969.
 A prescribed office within the meaning of the Salaries and Allowances Act 1975.
-[Division 2 inserted by No. 32 of 1994 s. 9(a); amended by No. 57 of 1997 s. 70; No. 43 of 1999 s. 20; No. 55 of 2000 s. 10; No. 20 of 2002 s. 109; No. 67 of 2003 s. 62; No. 75 of 2003 s. 56(1); No. 77 of 2006 s. 17.]
+[Division 2 inserted by No. 32 of 1994 s. 9(a); amended by No. 57 of 1997 s. 70; No. 43 of 1999 s. 20; No. 55 of 2000 s. 10; No. 20 of 2002 s. 109; No. 67 of 2003 s. 62; No. 75 of 2003 s. 56(1); No. 48 of 2006 s. 65; No. 77 of 2006 s. 17.]
 [Division 3 repealed by No. 32 of 1994 s. 9(a).]
 ## Part 2
 [Heading inserted by No. 78 of 1984 s. 14.]

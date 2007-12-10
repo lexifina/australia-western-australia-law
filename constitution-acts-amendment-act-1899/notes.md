@@ -230,6 +230,7 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
  | Parole and Sentencing Legislation Amendment Act 2006 s. 89 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
  | Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 4 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
+ | Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | 10 Dec 2007 (see s. 2 and Gazette 23 Nov 2007 p. 5861)
  | Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
  | Parliamentary Legislation Amendment Act 2006 Pt. 2 | 56 of 2006 | 16 Nov 2006 | 17 Nov 2006 (see s. 2)
  | Land Information Authority Act 2006 s. 185 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
@@ -244,7 +245,6 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 s. 57 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22, 35 and 51 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | To be proclaimed (see s. 2)
@@ -338,22 +338,6 @@ Division 2 — Constitution Acts Amendment Act 1899
 Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amended by inserting after the item relating to the Western Australian Gas Disputes Arbitrator —
 “
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
-”.
-”.
-On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Schedule 1, had not come into operation. It reads as follows:
-“
-65.Consequential amendments
-The Acts mentioned in Schedule 1 are amended as set out in that Schedule.
-”.
-Schedule 1 cl. 1 reads as follows:
-“
-Schedule 1 — Consequential amendments
-[s. 65]
-1.Constitution Acts Amendment Act 1899 amended
-(1) The amendment in this clause is to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 1 Division 2 is amended by inserting after the item relating to the Commissioner appointed under the Corruption and Crime Commission Act 2003 the following item —
-“
-Commissioner for Children and Young People appointed under the Commissioner for Children and Young People Act 2006.
 ”.
 ”.
 Footnote no longer applicable.
