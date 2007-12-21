@@ -44,6 +44,7 @@ Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2004 s. 16(1), (2), (3) and (5), 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 | 11 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2)
+Petroleum Amendment Act 2007 s. 99 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under s. 7(4)(e) of the Reprints Act 1984. Schedule 9.2 cl. 4 reads as follows:
 “
 4.Parts II to VII repealed
@@ -322,4 +323,39 @@ On the date as at which this compilation was prepared, the Local Government (Mis
 (3) The regulations referred to in the Local Government Act 1995 Schedule 9.2 clause 4(2)(b) —
 (a) continue in effect so far as they relate to building surveyors and Part XV of the Local Government (Miscellaneous Provisions) Act 1960; and
 (b) are to be taken to have been made under the Local Government Act 1995 section 9.59 for the purposes of the Local Government (Miscellaneous Provisions) Act 1960 section 373A and 374AAB inserted by section 5 and 7 of this Act.
+”.
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 99 had not come into operation. It reads as follows:
+“
+99.Local Government Act 1995 amended
+(1) The amendments in this section are to the Local Government Act 1995.
+(2) Section 1.4 is amended in paragraph (e)(iii) of the definition of “owner” as follows:
+(a) by deleting “Petroleum Act 1967” and inserting instead —
+“
+Petroleum and Geothermal Energy Resources Act 1967
+”;
+(b) by deleting “petroleum production licence or a petroleum exploration permit” and inserting instead —
+“
+permit, drilling reservation, lease or licence
+”.
+(3) Section 6.27 is amended as follows:
+(a) in paragraph (c) —
+(i) by deleting “Petroleum Act 1967” and inserting instead —
+“
+Petroleum and Geothermal Energy Resources Act 1967
+”;
+(ii) by deleting “petroleum production licence or exploration permit,” and inserting instead —
+“
+permit, drilling reservation, lease or licence,
+”;
+(b) by deleting “licence or permit” and inserting instead —
+“ permit, drilling reservation, lease or licence ”.
+(4) Section 6.29(1) is amended as follows:
+(a) by deleting “petroleum production licence or exploration permit held under the Petroleum Act 1967” and inserting instead —
+“
+permit, drilling reservation, lease or licence held under the Petroleum and Geothermal Energy Resources Act 1967
+”;
+(b) by deleting “licence or permit” and inserting instead —
+“ permit, drilling reservation, lease or licence ”.
+(5) Section 6.29(2) is amended by deleting “licence or permit” and inserting instead —
+“ permit, drilling reservation, lease or licence ”.
 ”.
