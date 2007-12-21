@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 February 2007 of the Valuation of Land Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Valuation of Land Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Valuation of Land Act 1978 | 74 of 1978 | 20 Oct 1978 | 1 Jul 1979 (see s. 2 and Gazette 11 May 1979 p. 1211)
@@ -41,6 +41,10 @@ Reprint 4: The Valuation of Land Act 1978 as at 10 Feb 2006 (includes amendments
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Land Information Authority Act 2006 s. 166-182 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Reprint 5: The Valuation of Land Act 1978 as at 2 Feb 2007 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Petroleum Amendment Act 2007 s. 107 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Under the Land Administration Act 1997 s. 281(3), a reference to the Land Act 1933 in a written law is, unless the contrary intention appears, to be read and construed as being a reference to the Land Administration Act 1997.
 The name of the Local Government Act 1960 was changed to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 Repealed by the Interpretation Act 1984 s. 77(1).
@@ -84,4 +88,21 @@ The State Administrative Tribunal Regulations 2004 r. 65 reads as follows:
 (2) If advice has been given under the VL Act section 32(9) before the commencement day, on or after the commencement day the advice is to be taken to refer to the time within which and the manner in which a review of the valuation may be sought.
 (3) If the Valuer-General receives, before the commencement day, a notice in accordance with the VL Act section 33(1) (as in force when the notice was received by the Valuer-General) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Valuer-General must refer the valuation to the State Administrative Tribunal for a review as if the notice were a notice served on the Valuer-General under the VL Act section 33(1).
 (4) If the Valuer-General receives, before the commencement day, a notice in accordance with the VL Act section 35(1) (as in force when the notice was received by the Valuer-General) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Valuer-General must refer the decision to the State Administrative Tribunal for a review as if the notice were a notice served on the Valuer-General under the VL Act section 35(1).
+”.
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 107 had not come into operation. It reads as follows:
+“
+107.Valuation of Land Act 1978 amended
+(1) The amendments in this section are to the Valuation of Land Act 1978.
+(2) Section 4(1) is amended in the definition of “unimproved value” as follows:
+(a) in paragraph (b)(ii)(III) —
+(i) by deleting “is held under the Petroleum Act 1967” and inserting instead —
+“
+or geothermal production licence is held under the Petroleum and Geothermal Energy Resources Act 1967
+”;
+(ii) by deleting “the petroleum production” and inserting instead —
+“ the relevant ”;
+(b) in paragraph (b)(ii)(IV), by deleting “Petroleum Act 1967” and inserting instead —
+“
+Petroleum and Geothermal Energy Resources Act 1967
+”.
 ”.
