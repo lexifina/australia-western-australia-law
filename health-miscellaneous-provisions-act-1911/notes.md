@@ -127,6 +127,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 Repealed by the Nurses and Midwives Act 2006.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
@@ -588,3 +589,25 @@ s. 246ZG(3) | Delete “A Local Court to which an application is made under subs
 s. 246ZG(4) | Delete “Local Court concerned” and insert instead — “ Magistrates Court ”. In paragraph (a) delete “that Local Court” and insert instead — “ the court ”.
 ”.
 The amendments it seeks to make cannot be done due to amendments made by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 479, 489, and 490.
+On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 s. 100, which gives effect to Sch.4 cl. 4 had not come into operation. It reads as follows:
+“
+100.Consequential amendments
+Each Act specified in Schedule 4 is amended as set out in that Schedule.
+”.
+Schedule 4, cl. 4 read as follows:
+“
+Schedule 4 — Amendments and repeals
+[s. 100]
+4.Health Act 1911 amended
+(1) The amendments in this clause are to the Health Act 1911.
+(2) Section 41 is amended by deleting “refuse” and inserting instead —
+“ sewage ”.
+(3) Section 106(1) is amended by deleting “, rubbish or refuse”.
+(4) Section 111 is amended by deleting “, rubbish, or refuse”.
+(5) Section 112(1) is amended by deleting paragraph (a) and paragraphs (f) to (h).
+(6) Sections 112A, 114(2), 115, 118 and 134(20), (21), (22), (23), (24) and (30) are repealed.
+(7) The Table to section 344C is amended as follows:
+(a) by deleting “112A(1)(b) and (3)(b),”;
+(b) by deleting “(30),”.
+(8) Schedule 5 is amended by deleting “112A(4),”.
+”.
