@@ -69,6 +69,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Water Resources Legislation Amendment Act 2007 Pt. 4 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
 Footnote no longer applicable.
 Repealed by the Metropolitan Water Supply, Sewerage, and Drainage Act Amendment Act 1963 s. 129.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 5 and 8.
@@ -95,3 +96,106 @@ s. 57D(4) s. 57D(5) | In each provision, delete “Local Court” and insert ins
 ”.
 Footnote no longer applicable.
 The amendment to s. 57D by the Courts Legislation Amendment and Repeal Act 2004 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 273.
+On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 Pt. 4 had not come into operation. It reads as follows:
+“
+Part 4 — Amendments to the Metropolitan Water Supply, Sewerage, and Drainage Act 1909
+32.The Act amended
+The amendments in this Part are to the Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
+33.Section 5 amended
+Section 5(1) is amended as follows:
+(a) by deleting the definitions of “Commission” and “officer”;
+(b) by inserting in the appropriate alphabetical positions —
+“
+“CEO” means the chief executive officer of the Department;
+“Department” means the department of the Public Service principally assisting in the administration of this Act;
+“officer”, in relation to the Corporation, means a member of the staff of the Corporation engaged under section 15 of the Water Corporation Act 1995;
+”.
+34.Section 14 amended
+Section 14(2) is repealed and the following subsection is inserted instead —
+“
+(2) The Corporation shall not exercise the powers conferred by subsection (1) in relation to water to which section 5C of the Rights in Water and Irrigation Act 1914 applies, except under a licence or right granted or conferred under Part III of that Act.
+”.
+35.Section 16 amended
+Section 16 is amended by deleting “without the authority of the Commission” and inserting instead —
+“
+other than with the authority of the Minister or under another written law
+”.
+36.Section 35 repealed
+Section 35 is repealed.
+37.Section 57C amended
+Section 57C(1) is amended by deleting “it” and inserting instead —
+“ the Minister ”.
+38.Section 57EA amended
+Section 57EA(2) is repealed and the following subsection is inserted instead —
+“
+(2) The Corporation shall not exercise the power conferred by subsection (1) in relation to water to which section 5C of the Rights in Water and Irrigation Act 1914 applies, except under a licence or right granted or conferred under Part III of that Act.
+”.
+39.Section 57G amended
+Section 57G(2)(a) and (b) are amended by deleting “it” and inserting instead —
+“ the Minister ”.
+40.Section 57H amended
+Section 57H(3) is amended as follows:
+(a) by deleting “Commission” in the first place where it occurs and inserting instead —
+“ Minister ”;
+(b) by deleting “Commission” in the second place where it occurs and inserting instead —
+“ Crown ”.
+41.Section 57I amended
+Section 57I(1) is amended by deleting “it” and inserting instead —
+“ the Minister ”.
+42.Section 146 amended
+Section 146(1)(3a) is amended by deleting “Commission” and inserting instead —
+“ CEO ”.
+43.Section 153 amended
+Section 153 is amended by deleting “Commission” and inserting instead —
+“ Crown ”.
+44.Section 156 amended
+Section 156 is amended as follows:
+(a) by deleting “Commission” in the first place where it occurs and inserting instead —
+“ Minister ”;
+(b) by deleting “Commission” in the second place where it occurs and inserting instead —
+“ Department ”;
+(c) by deleting “, in the performance of any Act or thing which it or he” and inserting instead —
+“
+or any person authorised by the Minister or the Corporation, in the performance of any act or thing which the Minister or Corporation, or officer or person
+”.
+45.Section 157 amended
+Section 157 is amended by deleting “Commission” and inserting instead —
+“ Crown ”.
+46.Section 158 amended
+Section 158 is amended by deleting “Commission” and inserting instead —
+“
+Department authorised by the Minister for the purposes of this section
+”.
+47.Section 159 amended
+(1) Section 159(1) is amended as follows:
+(a) by deleting “relevant authority” in the first place where it occurs and inserting instead —
+“ Minister or the Corporation ”;
+(b) by deleting “relevant authority” in the second place where it occurs and inserting instead —
+“ Department or the Corporation ”;
+(c) by deleting “relevant authority” in the third place where it occurs and inserting instead —
+“
+Minister or the Corporation (which ever, in each case, is relevant)
+”.
+(2) Section 159(4) is repealed.
+48.Section 160 repealed
+Section 160 is repealed.
+49.Section 161 replaced
+Section 161 is repealed and the following section is inserted instead —
+“
+161.Corporation may be represented by officer
+In any proceeding before a court, judge or person acting judicially, any authorised officer of the Corporation may represent the Corporation in all respects as if he were the party concerned.
+”.
+50.Various references to “Commission” changed to “Minister”
+Each provision of the Act listed in the Table to this section is amended by deleting “Commission” in each place where it occurs and inserting instead —
+“ Minister ”.
+Table
+s. 13(a) | s. 57D(1)
+s. 15 | s. 57E(1), (2) and (3)
+s. 17(1) | s. 57G(1), (2), (5) and (7)
+s. 57A(1) and (2) | s. 57H(1) and (2)
+s. 57B(4) | s. 57I(1) and (2)
+s. 57C(1) and (2)
+Note:The headings to sections 17, 57C and 156 will be altered by deleting “Commission” and inserting instead “Minister”.
+The heading to section 146 will be altered by deleting “Corporation” and inserting instead “Minister”.
+”.
+The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
