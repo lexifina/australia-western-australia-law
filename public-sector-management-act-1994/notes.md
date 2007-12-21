@@ -88,6 +88,7 @@ Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 39 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 State Superannuation Amendment Act 2007 s. 85 | 25 of 2007 | 16 Oct 2007 | To be proclaimed (see s. 2)
+Water Resources Legislation Amendment Act 2007 s. 197 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
 Now known as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The amendment in the Western Australian Greyhound Racing Association Amendment Act 1998 s. 20 is not included because of an error in the reference to the item to be amended. The same amendment was made by the Statutes (Repeals and Minor Amendments) Act 2000 s. 34(2) and then the provision amended was again amended by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 221(3).
@@ -108,4 +109,10 @@ On the date as at which this compilation was prepared, the State Superannuation 
 85.Public Sector Management Act 1994 amended
 (1) The amendments in this section are to the Public Sector Management Act 1994.
 (2) Schedule 2 item 16 is deleted.
+”.
+On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 s. 197 had not come into operation. It reads as follows:
+“
+197.Public Sector Management Act 1994 amended
+(1) The amendment in this section is to the Public Sector Management Act 1994.
+(2) Schedule 2 is amended by deleting item 56.
 ”.
