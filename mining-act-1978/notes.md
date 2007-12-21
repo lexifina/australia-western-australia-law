@@ -69,6 +69,7 @@ Short title | Number and year | Assent | Commencement
 Mining Amendment Act 1996 s. 9 | 54 of 1996 | 11 Nov 1996 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999, s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
+Petroleum Amendment Act 2007 s. 100 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in a written law to the Department of Mines is, unless the contrary is intended, to be read and construed as a reference to the Department of Industry and Resources.
@@ -426,4 +427,32 @@ The Mining Amendment Act 1981 s. 3 reads as follows:
 (2) Subsection (1) of this section shall not be construed so as to derogate in any way from sections 15 and 16 of the Interpretation Act 1918.
 (3) A miner’s right issued under the Mining Act 1904 before 8 December 1978 shall be deemed to have been valid and in force until the date of expiry expressed thereon.
 (4) Subsection (3) of this section shall not be construed so as to derogate in any way from the effect of the Mining Act Amendment Clause 1978 as set out in Clause 3 of the Second Schedule to the Mining Act 1978.
+”.
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 100 had not come into operation. It reads as follows:
+“
+100.Mining Act 1978 amended
+(1) The amendments in this section are to the Mining Act 1978.
+(2) Section 8(1) is amended in the definition of “minerals” as follows:
+(a) in paragraph (b) by deleting “Petroleum Act 1967” and inserting instead —
+“
+Petroleum and Geothermal Energy Resources Act 1967
+”;
+(b) after paragraph (b) by inserting —
+“
+(ba)without limiting paragraph (b), geothermal energy resources as defined in the Petroleum and Geothermal Energy Resources Act 1967 section 5(1); or
+”;
+(c) after each of paragraphs (a) and (b) and (d)(i) and (ii) by inserting —
+“ or ”.
+(3) Section 8(2) is amended by deleting “Petroleum Act 1967” and inserting instead —
+“ Petroleum and Geothermal Energy Resources Act 1967 ”.
+(4) Section 8A(1) is amended by deleting “Petroleum Act 1967” and inserting instead —
+“ Petroleum and Geothermal Energy Resources Act 1967 ”.
+(5) Section 159(1) is amended by deleting “Petroleum Act 1967” and inserting instead —
+“ Petroleum and Geothermal Energy Resources Act 1967 ”.
+(6) After section 159(3) the following subsection is inserted —
+“
+(4) In this section —
+(a) a reference to a licence or permit includes a reference to a drilling reservation or lease; and
+(b) a reference to a licensee or permittee includes a reference to the registered holder of a drilling reservation or lease.
+”.
 ”.
