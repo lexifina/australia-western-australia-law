@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 June 2007 of the Transfer of Land Act 1893 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Transfer of Land Act 1893 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 The Transfer of Land Act 1893 | 1893 (56 Vict. No. 14) | 13 Jan 1893 | 13 Jan 1893
@@ -66,10 +66,11 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Land Information Authority Act 2006 s. 103-118 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 8: The Transfer of Land Act 1893 as at 15 Jun 2007 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
+Petroleum Amendment Act 2007 s. 106 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
 The Transfer of Land Amendment Act 1996 s. 6(2) reads as follows:
@@ -89,7 +90,7 @@ The Transfer of Land Amendment Act 1996 s. 37(3) reads as follows:
 “
 (3) Section 65 of and the Ninth Schedule to the principal Act as in force immediately before the commencement of subsection (1) continue to apply to all transfers, leases and certificates of title in effect before that commencement on which an easement was marked in accordance with those provisions.
 ”.
-Under the Public Sector Management Act 1994 departments may be changed. At the date of this reprint the department of the Public Service principally assisting in the administration of the Transfer of Land Act 1893 (formerly the Department of Lands and Surveys) is known as the Western Australian Land Information Authority.
+Under the Public Sector Management Act 1994 departments may be changed. At the date of this compilation the department of the Public Service principally assisting in the administration of the Transfer of Land Act 1893 (formerly the Department of Lands and Surveys) is known as the Western Australian Land Information Authority.
 The Acts Amendment (Land Administration) Act 1997 s. 104(2) reads as follows:
 “
 (2) A lease of Crown land (not being a Crown lease) granted before the commencement of this section, which lease would have been valid had it been granted as a lease under the Land Administration Act 1997, is validated by force of this subsection and is to be treated as if it were a lease registered under section 81Q of the principal Act as amended by this Act.
@@ -118,7 +119,7 @@ The Transfer of Land Amendment Act 1996 s. 152 reads as follows:
 (3) Subsection (2) does not affect or prejudice the application of the Interpretation Act 1984 but a right, obligation or liability of, or in respect of, the assurance fund subsisting immediately before commencement becomes, on commencement, a right, obligation or liability of, or in respect of, the State in accordance with Part XI or XII of the principal Act, as the case requires.
 ”.
 The amendment in the Financial Legislation Amendment and Repeal Act 2006 s. 4 to amend s. 190 is not included because the section had been replaced by the Land Information Authority Act 2006 s. 115.
-On the date as at which this reprint was prepared, the Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 had not come into operation. They read as follows:
 “
 43.Section 136A amended
 Section 136A is amended by deleting “section 166 or 166A” and inserting instead —
@@ -171,4 +172,22 @@ and the proprietors of the freehold in the land (the “proprietors”) wish to 
 57.Section 167 amended
 Section 167 is amended by deleting “or 166A” and inserting instead —
 “ , 166A or 166C ”.
+”.
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 106 had not come into operation. It reads as follows:
+“
+106.Transfer of Land Act 1893 amended
+(1) The amendments in this section are to the Transfer of Land Act 1893.
+(2) Section 3(2) is amended as follows:
+(a) in paragraph (a) by deleting “or petroleum;” and inserting instead —
+“
+, petroleum, geothermal energy or geothermal energy resources;
+”;
+(b) in paragraph (b) by deleting “or petroleum” and inserting instead —
+“ , petroleum or geothermal energy ”.
+(3) Section 3(3) is repealed and the following subsection is inserted instead —
+“
+(3) In subsection (2) —
+“geothermal energy” and “geothermal energy resources” have the same meanings as they have in the Petroleum and Geothermal Energy Resources Act 1967;
+“mining, petroleum or geothermal energy rights” has the same meaning as it has in the Land Administration Act 1997.
+”.
 ”.
