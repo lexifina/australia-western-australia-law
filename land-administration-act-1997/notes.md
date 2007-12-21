@@ -41,6 +41,8 @@ Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Ope
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(2))
+Petroleum Amendment Act 2007 s. 98 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
+Water Resources Legislation Amendment Act 2007 s. 196 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
 On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 “
 4.Section 6A inserted
@@ -62,7 +64,7 @@ After section 152 the following section is inserted —
 Where the taking of land or an interest in land under this Part is a Part 3 act, a Part 4 act or a Part 5 act within the meaning of the Native Title (State Provisions) Act 1998, the operation of this Part is subject to section 3.6, 4.5 or 5.3, as the case may be, of that Act.
 ”.
 ”.
-The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this reprint was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this reprint had also not come into operation (see endnotes 1a and 4).
+The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this compilation was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this compilation had also not come into operation (see endnotes 1a and 4).
 On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3.Consequential amendments
@@ -419,4 +421,67 @@ declared pests on the land under the lease in compliance with the Biosecurity an
 “
 (a) the Biosecurity and Agriculture Management Act 2007;
 ”.
+”.
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 98 had not come into operation. It reads as follows:
+“
+98.Land Administration Act 1997 amended
+(1) The amendments in this section are to the Land Administration Act 1997.
+(2) Section 3(1) is amended in the definition of “interest” by deleting paragraph (d) and inserting instead —
+“
+(d)mining, petroleum or geothermal energy right;
+”.
+(3) Section 3(1) is amended in the definition of “mining or petroleum right” as follows:
+(a) by deleting ““mining or petroleum right” means — ” and inserting instead —
+“
+“mining, petroleum or geothermal energy right” means —
+”;
+(b) in paragraph (b) by deleting “Petroleum Act 1967,” and inserting instead —
+“
+Petroleum and Geothermal Energy Resources Act 1967,
+”.
+(4) Section 5 is amended as follows:
+(a) before “This” by inserting the subsection designation “(1)”;
+(b) in paragraph (a) by deleting “or petroleum;” and inserting instead —
+“
+, petroleum, geothermal energy or geothermal energy resources;
+”;
+(c) in paragraph (b) by deleting “or petroleum” and inserting instead —
+“ , petroleum or geothermal energy ”;
+(d) at the end of the section by inserting —
+“
+(2) In subsection (1) —
+“geothermal energy” and “geothermal energy resources” have the same meanings as they have in the Petroleum and Geothermal Energy Resources Act 1967.
+”.
+(5) Section 24 is amended by deleting “Petroleum Act 1967 or the Petroleum (Submerged Lands) Act 1982” and inserting instead —
+“
+Petroleum and Geothermal Energy Resources Act 1967 or the Petroleum (Submerged Lands) Act 1982 and geothermal energy resources and geothermal energy within the meaning of the Petroleum and Geothermal Energy Resources Act 1967
+”.
+(6) Section 91(5) is amended by deleting “or petroleum” in each place where it occurs and inserting instead —
+“ , petroleum or geothermal energy ”.
+(7) Section 164(1)(b) is amended as follows:
+(a) by deleting “Petroleum Act 1967,” and inserting instead —
+“
+Petroleum and Geothermal Energy Resources Act 1967,
+”;
+(b) at the end of paragraph (b) by deleting the comma and inserting —
+“
+; and
+(c) the rights relating to geothermal energy resources and geothermal energy referred to in the Petroleum and Geothermal Energy Resources Act 1967,
+”.
+(8) Section 170(5)(b) is amended by deleting “or petroleum” and inserting instead —
+“ , petroleum or geothermal energy ”.
+(9) Section 175(1)(a)(iii) is amended by deleting “or petroleum” and inserting instead —
+“ , petroleum or geothermal energy ”.
+(10) Section 177(5)(c) is amended by deleting “or petroleum” and inserting instead —
+“ , petroleum or geothermal energy ”.
+”.
+On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 s. 196 had not come into operation. It reads as follows:
+“
+196.Land Administration Act 1997 amended
+(1) The amendments in this section are to the Land Administration Act 1997.
+(2) Section 160(1)(e) is amended as follows:
+(a) by deleting “Commission” in the first place where it occurs and inserting instead —
+“ CEO ”;
+(b) by deleting “Commission” in the second place where it occurs and inserting instead —
+“ Department ”.
 ”.
