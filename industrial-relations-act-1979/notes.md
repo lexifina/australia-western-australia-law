@@ -74,6 +74,7 @@ Vocational Education and Training Act 1996 s. 62 | 42 of 1996 | 16 Oct 1996 | To
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
+Petroleum Amendment Act 2007 s. 97 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
 The Labour Relations Reform Act 2002 s. 112, 113(6), 117(2) and (3), 138(2), 140(2), 141(2), 146(2), 152(2), 155(2) and (3), 186(2)-(4) and Sch. 1 read as follows:
@@ -244,4 +245,15 @@ Schedule 3 — Consequential amendments
 and
 (III) the Owner-Drivers (Contracts and Disputes) Act 2007;
 ”.
+”.
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 97 had not come into operation. It reads as follows:
+“
+97.Industrial Relations Act 1979 amended
+(1) The amendments in this section are to the Industrial Relations Act 1979.
+(2) Section 7(3)(c) is amended by deleting “Petroleum Act 1967,” and inserting instead —
+“ Petroleum and Geothermal Energy Resources Act 1967, ”.
+(3) Section 8(2a)(b) is amended by deleting “Petroleum Act 1967,” and inserting instead —
+“ Petroleum and Geothermal Energy Resources Act 1967, ”.
+(4) Section 113(1)(d)(ii)(III) is amended by deleting “Petroleum Act 1967;” and inserting instead —
+“ Petroleum and Geothermal Energy Resources Act 1967; ”.
 ”.
