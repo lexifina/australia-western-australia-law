@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Rights in Water and Irrigation Act 1914 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rights in Water and Irrigation Act 1914 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Rights in Water and Irrigation Act 1914 | 19 of 1914 | 22 Sep 1914 | 22 Sep 1914
@@ -50,6 +50,10 @@ Water Legislation Amendment (Competition Policy) Act 2005 Pt. 6 | 25 of 2005 | 1
 Reprint 7: The Rights in Water and Irrigation Act 1914 as at 4 Jul 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 151 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Water Resources Legislation Amendment Act 2007 Pt. 5 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
 The short title of the Water Authority Act 1984 was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 commenced 1 January 1996.
 Footnote no longer applicable.
@@ -154,3 +158,332 @@ the Tribunal may exercise the power referred to in the Rights in Water and Irrig
 (4) If the Corporation receives, before the commencement day, a notice in accordance with the RWI Act section 39G(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the decision to refuse to extend time to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the RWI Act section 39G(1).
 (5) If a notice has been given under the RWI Act section 39E(7) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
 ”.
+On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 Pt. 5 had not come into operation. It reads as follows:
+“
+Part 5 — Amendments to the Rights in Water and Irrigation Act 1914
+51.The Act amended
+The amendments in this Part are to the Rights in Water and Irrigation Act 1914.
+52.Section 2 amended
+Section 2(1) is amended as follows:
+(a) by deleting the definition of “Commission”;
+(b) by inserting in the appropriate alphabetical positions —
+“
+“CEO” means the chief executive officer of the Department;
+“Department” means the department of the Public Service principally assisting in the administration of this Act;
+“officer”, in relation to the Corporation, means a member of the staff of the Corporation engaged under section 15 of the Water Corporation Act 1995;
+“Water Resources Council” means the Water Resources Council established by section 16 of the Water Agencies (Powers) Act 1984;
+”.
+53.Section 5 amended
+Section 5(2) is amended as follows:
+(a) after paragraph (a) by inserting —
+“ and ”;
+(b) in paragraph (b) by deleting “Commission” and inserting instead —
+“ Minister ”;
+(c) after paragraph (b) by deleting “; and” and inserting a full stop;
+(d) by deleting paragraph (c).
+54.Section 5A amended
+Section 5A is amended by deleting “appropriated” and inserting instead —
+“ allocated ”.
+55.Section 6 amended
+Section 6(4)(d) is amended by deleting “and given a report on them to the Minister”.
+56.Section 16 amended
+(1) Section 16(2) is amended as follows:
+(a) by deleting “The Commission may, with the approval of the Minister, in the name and on behalf of the Crown,” and inserting instead —
+“ The Minister may ”;
+(b) by deleting “Commission” in the second and third places where it occurs and inserting instead —
+“ Minister ”.
+(2) Section 16(3) is amended by deleting “, the Commission,” in both places where it occurs.
+57.Section 26B amended
+Section 26B(5) is amended by inserting after “26C” —
+“ and any local by-laws ”.
+58.Section 26GE amended
+Section 26GE(3) is amended by inserting after “order” —
+“ under section 26GD(1) ”.
+59.Section 26GH amended
+Section 26GH(2) is amended as follows:
+(a) by inserting after “compensation” in the first place where it occurs —
+“ under clause 39 of Schedule 1 ”;
+(b) by deleting “6(b)” and inserting instead —
+“ (6)(b) ”.
+60.Section 26GL amended
+Section 26GL(1) is amended as follows:
+(a) by inserting at the end of each of paragraph (b)(i) and (ii) —
+“ or ”;
+(b) by deleting paragraph (b)(iv) and inserting the following subparagraph instead —
+“
+(iv) are officers of the Department.
+”.
+61.Section 26GS amended
+Section 26GS(3) is amended by deleting “neither the Commission nor the State is” and inserting instead —
+“ the Crown is not ”.
+62.Section 26GU amended
+Section 26GU(1) is repealed and the following subsection is inserted instead —
+“
+(1) A plan for the purposes of this Act may be prepared by the Minister.
+”.
+63.Sections 26GX and 26GY amended
+Sections 26GX(2)(c)(iii) and (d) and 26GY(2)(b)(iii) are amended by deleting “Commission’s” and inserting instead —
+“ Minister’s ”.
+64.Heading to Part III Division 3D Subdivision 2 amended
+The heading to Part III Division 3D Subdivision 2 is amended by deleting “approval” and inserting instead —
+“ making ”.
+65.Section 26GZC amended
+(1) Section 26GZC(1) and (2) are amended by deleting “submit” and inserting instead —
+“ give ”.
+(2) Section 26GZC(3) is amended by deleting “submitted” and inserting instead —
+“ given ”.
+66.Section 26GZE replaced
+Section 26GZE is repealed and the following section is inserted instead —
+“
+26GZE.Minister to make plan
+(1) The Minister must give the proposed plan, modified as the Minister thinks fit under section 26GZD, to the Water Resources Council and indicate the time within which the Water Resources Council may submit its report under subsection (3).
+(2) The plan must be accompanied by —
+(a) a summary of all submissions made under section 26GZB and requests made under section 26GZC(4); and
+(b) a report of the Minister indicating the Minister’s opinion of the merits of those submissions and requests.
+(3) The Water Resources Council may submit to the Minister a report indicating its opinion of the plan and making recommendations about modification and approval of the plan.
+(4) The Minister may make the proposed plan with or without modifications.
+(5) The Minister must not make the plan before the time referred to in subsection (1) has elapsed.
+”.
+67.Section 26GZG amended
+After section 26GZG(4) the following subsection is inserted —
+“
+(4a) The Minister must advise the Water Resources Council of the Minister’s decision, and reasons, as to whether action needs to be taken in respect of a plan under subsection (1).
+”.
+68.Section 26GZI amended
+Section 26GZI(3) is amended by deleting all of the subsection from and including “hours at” and inserting instead —
+“
+hours at the office or offices of the Department designated by the CEO for the purposes of this subsection.
+”.
+69.Section 26GZK amended
+Section 26GZK is amended as follows:
+(a) by deleting “Commission” in the first place where it occurs and inserting instead —
+“ Minister ”;
+(b) by deleting “Commission” in the second place where it occurs and inserting instead —
+“ CEO ”.
+70.Section 26GZO amended
+Section 26GZO is amended as follows:
+(a) by deleting “Commission” in the first, second and third places where it occurs and inserting instead —
+“ Minister ”;
+(b) by deleting “Commission” in the fourth place where it occurs and inserting instead —
+“ CEO ”.
+71.Section 26GZQ amended
+Section 26GZQ(2)(b)(i) is amended by deleting “it” and inserting instead —
+“ the CEO ”.
+72.Section 26H amended
+(1) Section 26H(1) is amended as follows:
+(a) by deleting “Commission, any officer of the Commission or any person authorised by the Commission, may” and inserting instead —
+“ Minister may, ”;
+(b) by deleting “their duties” and inserting instead —
+“ the Minister’s duties ”.
+(2) Section 26H(1a) is repealed and the following subsection is inserted instead —
+“
+(1a) The provisions of Part VI of the Water Agencies (Powers) Act 1984 that regulate entry onto land apply in relation to any entry under subsection (1).
+”.
+(3) Section 26H(2) is amended by deleting “Commission or any person acting in the exercise of an authorisation conferred under subsection (1) by the Commission,” and inserting instead —
+“
+Minister or any other person exercising powers under subsection (1)
+”.
+73.Section 26J amended
+(1) Section 26J(1) is amended by deleting “Commission shall be entitled, in the name and on behalf of the Crown, to institute and maintain by any officer of the Commission authorised for that purpose by the Commission” and inserting instead —
+“
+Minister, or an officer of the Department authorised by the Minister for the purpose, may institute and maintain
+”.
+(2) Section 26J(2) is amended as follows:
+(a) by deleting “Commission” in the first, fourth and fifth places where it occurs and inserting instead —
+“ Minister ”;
+(b) by deleting “either the Crown or the Commission or any person” and inserting instead —
+“ the Crown or any other person ”;
+(c) by deleting “or the Commission” in the second place where it occurs;
+(d) by deleting “Commission’s” and inserting instead —
+“ Crown’s ”.
+74.Section 26N amended
+(1) Section 26N(2)(e) is amended by deleting “Minister” and inserting instead —
+“ Water Resources Council ”.
+(2) Section 26N(3) is amended by deleting “(2)(c)” and inserting instead —
+“ (2)(d) ”.
+75.Section 26Q amended
+Section 26Q(1) is amended by deleting “with the approval of the Minister,”.
+76.Section 27 amended
+(1) Section 27(1)(a) is deleted.
+(2) Subsection 27(1) is amended by inserting after section 27(1)(ga) —
+“
+(h) the fees or charges payable in respect of licenses under section 5C;
+”.
+(3) At the end of section 27 the following subsection is inserted —
+“
+(3) Without limiting the generality of paragraph (h) of subsection (1) the fees or charges referred to in that paragraph may be set by reference to the volume of water allocated under a license.
+”.
+77.Section 27C amended
+Section 27C(2)(a) is amended by deleting “the operations of the Commission” and inserting instead —
+“ operations ”.
+78.Section 35 amended
+Section 35 is amended as follows:
+(a) by deleting “, the Commission” in both places where it occurs;
+(b) by deleting “the Commission or” in the second place where it occurs.
+79.Section 36 amended
+(1) Section 36 is amended by inserting before “Subject to” the subsection designation “(1)”.
+(2) At the end of section 36 the following subsection is inserted —
+“
+(2) This section does not make the Minister or the Crown liable for anything done or omitted to be done by the Corporation.
+”.
+80.Section 39 replaced
+Section 39 is repealed and the following section is inserted instead —
+“
+39.Allocation of water for irrigation
+The Minister may, under Part III, allocate water for the purposes of this Part.
+”.
+81.Section 69 amended
+Section 69 is amended by deleting “Commission” and inserting instead —
+“ Crown ”.
+82.Section 70 amended
+Section 70 is amended as follows:
+(a) by deleting “Commission” in the first, third and fourth places where it occurs and inserting instead —
+“ Minister ”;
+(b) by deleting “Commission” in the second place where it occurs and inserting instead —
+“ Department ”.
+83.Section 71 amended
+Section 71 is amended by deleting “Commission” and inserting instead —
+“ Crown ”.
+84.Section 73 amended
+Section 73 is amended by deleting “Commission” and inserting instead —
+“
+Department authorised by the Minister for the purposes of this section
+”.
+85.Section 75 replaced
+Section 75 is repealed and the following section is inserted instead —
+“
+75.Corporation may be represented by officer
+In any proceeding before a court, judge or person acting judicially, any authorised officer of the Corporation may represent the Corporation in all respects as if he or she were the party concerned.
+”.
+86.Section 79A amended
+Section 79A is amended by deleting “chief executive officer of the Commission or” and inserting instead —
+“ CEO or the chief executive officer of ”.
+87.Schedule 1 clause 3 amended
+Schedule 1 clause 3(d) is amended as follows:
+(a) by deleting “is” in the first place where it occurs;
+(b) in subparagraph (i) by inserting before “authorised” —
+“ is ”.
+88.Schedule 1 clause 6 amended
+(1) Schedule 1 clause 6(2) is amended as follows:
+(a) in paragraph (a) by deleting “its” and inserting instead —
+“ the Minister’s ”;
+(b) by deleting paragraph (b) and inserting the following paragraph instead —
+“
+(b) that the applicant has a right to make written submissions to the Minister, or be heard by a person designated by the Minister for that purpose, before the Minister makes a decision on the application.
+”.
+(2) Schedule 1 clause 6(4) is amended by deleting “its” and inserting instead —
+“ a ”.
+89.Schedule 1 clause 12 amended
+Schedule 1 clause 12(5) is amended by deleting “accountable authority of the Commission” and inserting instead —
+“ accountable authority of the Department ”.
+90.Schedule 1 clause 15 amended
+Schedule 1 clause 15(2) is amended by deleting “its” and inserting instead —
+“ the Minister’s ”.
+91.Schedule 1 clause 22 amended
+Schedule 1 clause 22(2)(b) is amended by deleting “its” and inserting instead —
+“ the ”.
+92.Schedule 1 clause 26 amended
+(1) Schedule 1 clause 26(4) is amended as follows:
+(a) in paragraph (a) by deleting “its” and inserting instead —
+“ the Minister’s ”;
+(b) by deleting paragraph (b) and inserting the following paragraph instead —
+“
+(b) that the licensee has a right to make written submissions to the Minister, or be heard by a person designated by the Minister for that purpose, before the Minister makes a decision to exercise the power.
+”.
+(2) Schedule 1 clause 26(5) is amended by deleting “applicant” and inserting instead —
+“ licensee ”.
+(3) Schedule 1 clause 26(6) is amended by deleting “it makes its” and inserting instead —
+“ the Minister makes a ”.
+93.Schedule 1 clause 29A inserted
+After clause 29 the following clause is inserted —
+“
+29A.Transfers of licence — death of licence holder
+(1) If —
+(a) a holder of a licence (the “deceased holder”) dies; and
+(b) probate of the will, or letters of administration of the estate, of the deceased holder is granted before the end of the 12 months immediately following the death of the deceased holder or that period as extended under subclause (5) in relation to the deceased holder,
+the executor or administrator becomes, on the grant of probate or letters of administration, the holder of the deceased holder’s interest in the licence to deal with as executor or administrator.
+(2) If the death of a holder of a licence (the “deceased holder”) means that no person holds the licence, the licence does not cease but continues, under this subclause, until the earlier of —
+(a) the end of the 12 months immediately following the death of the deceased holder or that period as extended under subclause (5) in relation to the deceased holder; or
+(b) the time at which probate of the will, or letters of administration of the estate, of the deceased holder, or any other person who was a holder of the licence at the time of his or her death, is granted.
+(3) Any thing done or omitted to be done under the licence, while it continues under subclause (2), on behalf of the deceased holder, or any other person who was a holder of the licence at the time of his or her death, is as valid and as lawful as it would have been if done, or omitted to be done, by the deceased holder or that other person.
+(4) This clause does not apply so as to extend the term of a licence that is for a fixed term.
+(5) The Minister may, on application, extend the period referred to in subclause (1)(b) or (2)(a) in relation to a particular deceased holder if the circumstances of the case warrant it.
+”.
+94.Schedule 1 clause 30 amended
+Schedule 1 clause 30(5) is amended by deleting “(7)(2)” and inserting instead —
+“ 7(2) ”.
+95.Schedule 1 clause 35 amended
+(1) Schedule 1 clause 35(6) is amended as follows:
+(a) by deleting “Commission” in the first place where it occurs and inserting instead —
+“ Minister ”;
+(b) by deleting “an appearance before the Commission” and inserting instead —
+“ that the person be heard ”;
+(c) in paragraph (a) by deleting “the Commission” and inserting instead —
+“ a person designated by the Minister for that purpose ”.
+(2) Schedule 1 clause 35(8)(a) is amended by deleting “its” and inserting instead —
+“ the Minister’s ”.
+96.Heading to Schedule 1 Division 8 amended
+The heading to Schedule 1 Division 8 is amended by deleting “Commission” and inserting instead —
+“ Minister ”.
+97.Schedule 1 clause 38 amended
+Schedule 1 clause 38(1)(d) is amended by deleting “it” in the second place where it occurs and inserting instead —
+“ the Minister ”.
+98.Heading to Schedule 1 Division 10 amended
+The heading to Schedule 1 Division 10 is amended by deleting “Commission” and inserting instead —
+“ Minister ”.
+99.Schedule 1 clause 40 amended
+Schedule 1 clause 40(1)(b) is amended by deleting “Commission” and inserting instead —
+“ Crown ”.
+100.Schedule 1 clause 45 amended
+Schedule 1 clause 45 is amended by deleting “Commission” in both places where it occurs and inserting instead —
+“ CEO ”.
+101.Various references to “Commission” changed to “Minister”
+(1) Each provision of the Act listed in the Table to this subsection is amended by deleting “Commission” in each place where it occurs and inserting instead —
+“ Minister ”.
+Table
+s. 4(3) | s. 26GM(1) and (2)
+s. 5C(1)(d) | s. 26GP(1) and (2)
+s. 6(4) and (6) | s. 26GQ
+s. 11(1)(a) | s. 26GW(2) and (3)
+s. 17(3a), (4), (6) and (7) | s. 26GX(2) and (3)
+s. 21A(1)(a) | s. 26GY(2) and (3)
+s. 22(1), (2), (2a), (3) and (4) | s. 26GZB(a) and (b)
+s. 25(4) and (5) | s. 26GZC(1), (2), (3) and (4)
+s. 26B(4)(d) and (5)(d) | s. 26GZD
+s. 26D(1) and (2) | s. 26GZG(2), (3), (4) and (5)
+s. 26E(1) and (2) | s. 26N(2) and (3)
+s. 26F(1) and (2) | s. 26P(c)
+s. 26G(1), (2), (2b) and (4) | s. 26Q(1) and (2)
+s. 26GC(1) and (4) | s. 27A(1)(a) and (c)
+s. 26GD(1) and (2) | s. 27B
+s. 26GE(1) and (2) | s. 36
+s. 26GG(1) | s. 37
+s. 26GH(2) | s. 38(a), (c) and (d)
+s. 26GI | s. 66(3)
+(2) Each provision of the Act listed in the Table to this subsection is amended by deleting “it” in each place where it occurs and inserting instead —
+“ the Minister ”.
+Table
+s. 26GE(2) | Sch. 1 cl. 18(3)(b)(ii)
+s. 26GZC(2) | Sch. 1 cl. 22(2)(b) and (3)(b)
+s. 26GZD | Sch. 1 cl. 30(5)
+Sch. 1 cl. 6(1)(b) and (4) | Sch. 1 cl. 31(5)
+Sch. 1 cl. 7(2) and (4) | Sch. 1 cl. 36(c) and (d)
+Sch. 1 cl. 8 | Sch. 1 cl. 39(4)
+Sch. 1 cl. 17(2)
+(3) Each clause of Schedule 1 (other than clauses 6(2)(b), 12(5), 26(4)(b), 35(6), 40(1)(b) and 45) is amended by deleting “Commission” in each place where it occurs and inserting instead —
+“ Minister ”.
+102.Various references to “Commission” changed to “CEO”
+Each provision of the Act listed in the Table to this subsection is amended by deleting “Commission” in each place where it occurs and inserting instead —
+“ CEO ”.
+Table
+s. 26GZI(1), (2), (4) and (5) | s. 26GZP(1)
+s. 26GZJ(1)(e) | s. 26GZQ(1) and (2)
+s. 26GZL | s. 26GZR
+s. 26GZM(1) | s. 26GZS
+s. 26GZN(1)
+Note:The heading to section 26J will be altered by deleting “Commission entitled to” and inserting instead “Minister may”.
+The headings to sections 26G, 26GC, 26GQ and 26Q and Schedule 1 clauses 8, 10, 18, 24, 25, 31, 33, 38, 40 and 41 will be altered by deleting “Commission” and inserting instead “Minister”.
+The heading to Schedule 1 clauses 7 and 32 will be altered by deleting “Commission’s” and inserting instead “Minister’s”.
+The heading to section 26GZN will be altered by deleting “Commission” and inserting instead “CEO”.
+”.
+The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
