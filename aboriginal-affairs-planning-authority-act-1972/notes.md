@@ -27,6 +27,10 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 3: The Aboriginal Affairs Planning Authority Act 1972 as at 12 May 2006 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 11 Div 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Petroleum Amendment Act 2007 s. 88 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Public Sector Management Act 1994.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -46,3 +50,12 @@ Division 2 — Transitional provisions
 “Commissioner” has the meaning given to “Commissioner for Aboriginal Affairs” by section 10 of the Aboriginal Affairs Planning Authority Act 1972 as in force before commencement.
 ”.
 The requirement to appoint a Commissioner for Aboriginal Planning was removed from the Act and references to the Commissioner were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 11 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Commissioner in written laws.
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 88 had not come into operation. It reads as follows:
+“
+88.Aboriginal Affairs Planning Authority Act 1972 amended
+(1) The amendments in this section are to the Aboriginal Affairs Planning Authority Act 1972.
+(2) Section 21A(8) is amended in paragraph (b) of the definition of “mineral resources” by deleting “Petroleum Act 1967.” and inserting instead —
+“ Petroleum and Geothermal Energy Resources Act 1967. ”.
+(3) Section 30 is amended in the proviso by deleting “Petroleum Act 1967” and inserting instead —
+“ Petroleum and Geothermal Energy Resources Act 1967 ”.
+”.
