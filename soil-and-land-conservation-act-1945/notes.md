@@ -50,6 +50,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 80 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Petroleum Amendment Act 2007 s. 105 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
+Water Resources Legislation Amendment Act 2007 s. 200 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
 Under the Alteration of Statutory Designations Order 2006, a reference in any law to the Department of Agriculture is read and construed as a reference to the department of the Public Service with the designation “Department of Agriculture and Food”, unless the contrary intention appears in the law or the context of the reference otherwise requires.
 At the time this compilation was prepared, the Minister was called the Minister for Agriculture and Food.
 Repealed by the Conservation and Land Management Act 1984 s. 147.
@@ -64,4 +66,18 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 80.Soil and Land Conservation Act 1945 amended
 (1) The amendment in this section is to the Soil and Land Conservation Act 1945.
 (2) The Schedule is amended by deleting “Stock (Identification and Movement) Act 1970”.
+”.
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 105 had not come into operation. It reads as follows:
+“
+105.Soil and Land Conservation Act 1945 amended
+(1) The amendments in this section are to the Soil and Land Conservation Act 1945.
+(2) The Schedule is amended by deleting “Petroleum Act 1967” and inserting instead —
+“ Petroleum and Geothermal Energy Resources Act 1967 ”.
+”.
+On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 s. 200 had not come into operation. It reads as follows:
+“
+200.Soil and Land Conservation Act 1945 amended
+(1) The amendment in this section is to the Soil and Land Conservation Act 1945.
+For subsequent amendments see Western Australian Legislation Information Tables for 2005, Table 1, p. 417-8 and Act No. 38 of 2005.]
+(2) Section 4 is amended in the definition of “Public Authority” by deleting paragraph (e).
 ”.
