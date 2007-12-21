@@ -19,6 +19,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Petroleum Amendment Act 2007 s. 89 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 N.B.The Aboriginal Heritage Act 1972 is affected by the Aboriginal Heritage (Marandoo) Act 1992 (No. 2 of 1992), section 3.
 The Aboriginal Heritage Act 1972 is affected by the Dampier to Bunbury Pipeline Act 1997 (No. 53 of 1997), Division 2 of Schedule 4 which reads as follows —
 “
@@ -58,3 +59,10 @@ s. 46(4) | Delete “Local Court” and insert instead — “ Magistrates Court
 s. 47(2) | Delete “Local Court” and insert instead — “ Magistrates Court ”.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 89 had not come into operation. It reads as follows:
+“
+89.Aboriginal Heritage Act 1972 amended
+(1) The amendments in this section are to the Aboriginal Heritage Act 1972.
+(2) Section 18(1) is amended by deleting “Petroleum Act 1967,” and inserting instead —
+“ Petroleum and Geothermal Energy Resources Act 1967, ”.
+”.
