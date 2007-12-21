@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 July 2006 of the Petroleum Pipelines Act 1969 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum Pipelines Act 1969 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum Pipelines Act 1969 | 112 of 1969 | 28 Nov 1969 | 12 Dec 1969 (see s. 2 and Gazette 12 Dec 1969 p. 4002)
@@ -22,12 +22,13 @@ Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 99 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2(2) and Gazette 21 Mar 2006 p. 1078)
 Reprint 3: The Petroleum Pipelines Act 1969 as at 7 Jul 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | To be proclaimed (see s. 2)
 Petroleum Legislation Amendment and Repeal Act 2005 Pt. 3 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
+Petroleum Amendment Act 2007 s. 102 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 The Acts Amendment (Petroleum) Act 1990 s. 122(2) reads as follows:
 “
 (2) A declaration made under —
@@ -68,7 +69,7 @@ The Acts Amendment (Petroleum) Act 1990 s. 148(2) reads as follows:
 “
 (2) Notwithstanding the amendment of section 55 of the principal Act by this section, neither a person who was the Principal Registrar within the meaning of the principal Act before the commencement of this section nor a person who acted under the direction or authority of that Principal Registrar before that commencement is liable to an action, suit or proceeding for or in respect of an act or matter in good faith done or omitted to be done in exercise or purported exercise of any power or authority conferred by Part IV of the principal Act.
 ”.
-As at the date this reprint was prepared, these offices of the Department of Mines no longer exist (see also note 7).
+As at the date this compilation was prepared, these offices of the Department of Mines no longer exist (see also note 7).
 Under the Alteration of Statutory Designations Order 2003 a reference in a written law to the Department of Mines is, unless the contrary is intended, to be read and construed as a reference to the Department of Industry and Resources.
 The Petroleum Pipelines Act 1969 is affected by the Dampier to Bunbury Pipeline Act 1997 Sch. 4 Div. 8 which reads as follows:
 “
@@ -105,7 +106,7 @@ The amendment by the Statutes (Repeals and Minor Amendments) Act 2000 s. 30 is n
 The Fourth Schedule was inserted by the Metric Conversion Act Amendment Act 1975.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment in the Petroleum Safety Act 1999 Sch. 2 that was to amend this Act was repealed by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before the amendment came into operation.
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3.Consequential amendments
 Schedule 2 has effect.
@@ -131,7 +132,7 @@ After section 19(1) the following subsection is inserted —
 (1a)Where the taking of land or an easement in land under subsection (1) is a Part 2 act, a Part 3 act or Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of that subsection is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Dangerous Goods Safety Act 2004 s. 70, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Dangerous Goods Safety Act 2004 s. 70, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 70.Repeals and consequential amendments (Sch. 2)
 Schedule 2 has effect.
@@ -143,7 +144,7 @@ Schedule 2 — Repeals and consequential amendments
 (3) The Petroleum Pipelines Act 1969 is amended in section 32 by deleting “Explosives and Dangerous Goods Act 1961” and inserting instead —
 “ Dangerous Goods Safety Act 2004 ”.
 ”.
-On the date as at which this reprint was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 Pt. 3 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 Pt. 3 had not come into operation. It reads as follows:
 “
 Part 3 — Petroleum Pipelines Act 1969
 18.The Act amended
@@ -1336,4 +1337,11 @@ regulations made for the purposes of this subclause may declare that this Schedu
 (4) In subclause (2) —
 “this Schedule” includes regulations made for the purposes of this Schedule.
 ”.
+”.
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 102 had not come into operation. It reads as follows:
+“
+102.Petroleum Pipelines Act 1969 amended
+(1) The amendments in this section are to the Petroleum Pipelines Act 1969.
+(2) Section 67(1c) is amended by deleting “Petroleum Act 1967,” and inserting instead —
+“ Petroleum and Geothermal Energy Resources Act 1967, ”.
 ”.
