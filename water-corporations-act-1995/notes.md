@@ -20,6 +20,10 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 127 | 74 of 2003 | 15 Dec 20
 Reprint 2: The Water Corporation Act 1995 as at 2 Jul 2004 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 14 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Water Resources Legislation Amendment Act 2007 Pt. 7 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
 “
 2.Commencement
@@ -40,3 +44,27 @@ In this Part —
 is taken not to be valid, and to never have been valid.
 ”.
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 127(5) is not included because the Schedule it sought to amend had been replaced in Gazette 24 May 2002 p. 2605-17 before the amendment purported to come into operation.
+On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 Pt. 7 had not come into operation. It reads as follows:
+“
+Part 7 — Amendments to the Water Corporation Act 1995
+136.The Act amended
+The amendments in this Part are to the Water Corporation Act 1995.
+137.Section 7 amended
+After section 7(2)(a) the following paragraph is inserted —
+“
+(ab) each nomination is made only after consultation with the Minister administering the Water Agencies (Powers) Act 1984; and
+”.
+138.Section 49 amended
+(1) Section 49 is amended by inserting before “The” the subsection designation “(1)”.
+(2) At the end of section 49 the following subsection is inserted —
+“
+(2) If the Minister does not administer the Water Agencies (Powers) Act 1984, the Minister must consult with the Minister administering that Act prior to taking an action under subsection (1).
+”.
+139.Section 58 amended
+(1) Section 58 is amended by inserting before “The” the subsection designation “(1)”.
+(2) At the end of section 58 the following subsection is inserted —
+“
+(2) If the Minister does not administer the Water Agencies (Powers) Act 1984, the Minister must consult with the Minister administering that Act prior to taking an action under subsection (1).
+”.
+”.
+The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
