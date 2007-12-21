@@ -248,6 +248,8 @@ Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 1
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22, 35 and 51 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | To be proclaimed (see s. 2)
+Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
+Water Resources Legislation Amendment Act 2007 s. 192 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -378,5 +380,34 @@ On the date as at which this compilation was prepared, the State Superannuation 
 (2) Schedule V Part 3 is amended by deleting the item for the Government Employees Superannuation Board and inserting in the appropriate alphabetical position —
 “
 The State Superannuation Board under the State Superannuation Act 2000.
+”.
+”.
+On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 192 had not come into operation. It reads as follows:
+“
+192.Constitution Acts Amendment Act 1899 amended
+(1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended as follows:
+(a) by deleting the item relating to the board of management of the Water and Rivers Commission;
+(b) by deleting the item relating to management authorities under the Waterways Conservation Act 1976;
+(c) by deleting the item relating to the Rivers and Estuaries Council established by the Waterways Conservation Act 1976;
+(d) by inserting before the item relating to the Western Australia Marine Manning Committee the following item —
+“
+The Water Resources Council established by the Water Agencies (Powers) Act 1984.
+”.
+”.
+On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 s. 100, which gives effect to Sch. 4 cl. 1, had not come into operation. It reads as follows:
+“
+100.Consequential amendments
+Each Act specified in Schedule 4 is amended as set out in that Schedule.
+”.
+Schedule 4, cl. 1 reads as follows:
+“
+Schedule 4 — Amendments and repeals
+[s. 100]
+1.Constitution Acts Amendment Act 1899 amended
+(1) The amendment in this clause is to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended by inserting after the item relating to the Veterinary Surgeons’ Board the following item —
+“
+The Waste Authority established under the Waste Avoidance and Resource Recovery Act 2007.
 ”.
 ”.
