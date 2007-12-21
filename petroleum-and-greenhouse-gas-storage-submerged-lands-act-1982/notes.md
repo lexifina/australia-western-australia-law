@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 June 2007 of the Petroleum (Submerged Lands) Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum (Submerged Lands) Act 1982 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum (Submerged Lands) Act 1982 | 33 of 1982 | 27 May 1982 | 14 Feb 1983 (see s. 2(1))
@@ -25,6 +25,10 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Petroleum Legislation Amendment and Repeal Act 2005 Pt. 4 | 13 of 2005 | 1 Sep 2005 | 28 Mar 2007 (see s. 2 and Gazette 27 Mar 2007 p. 1405)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 3: The Petroleum (Submerged Lands) Act 1982 as at 15 Jun 2007 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Petroleum Amendment Act 2007 s. 104 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 See the Gas Pipelines Access (Western Australia) Act 1998 s. 9.
 Repealed by the Off-shore (Application of Laws) Act 1982 s. 5.
 Repealed by the Petroleum Act 1967 s. 3.
@@ -160,3 +164,14 @@ The Land (Titles and Traditional Usage) Act 1993 Sch. 1 Pt. 4 cl. 5(2) reads as 
 (2) Division 4A inserted by subsection (1) does not apply to an application for approval lodged before the commencement of this section.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 104 had not come into operation. It reads as follows:
+“
+104.Petroleum (Submerged Lands) Act 1982 amended
+(1) The amendments in this section are to the Petroleum (Submerged Lands) Act 1982.
+(2) Section 112(6) and (13) are amended by deleting “Petroleum Act 1967” and inserting instead —
+“ Petroleum and Geothermal Energy Resources Act 1967 ”.
+(3) Section 145(3) is amended by deleting “Petroleum Act 1967,” and inserting instead —
+“ Petroleum and Geothermal Energy Resources Act 1967, ”.
+(4) Section 152(2c) is amended by deleting “Petroleum Act 1967” and inserting instead —
+“ Petroleum and Geothermal Energy Resources Act 1967 ”.
+”.
