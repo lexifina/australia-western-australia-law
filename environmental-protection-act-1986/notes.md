@@ -36,6 +36,10 @@ Reprint 5: The Environmental Protection Act 1986 as at 16 Sep 2005 (includes ame
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Water Resources Legislation Amendment Act 2007 s. 194 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -92,4 +96,18 @@ but does not include clearing of a kind set out in Schedule 6 to the EP Act.
 (3) If the CEO suspects on reasonable grounds that unlawful clearing has taken place on any land during the transitional period, the CEO may cause a notice to be given under this subsection in respect of the land.
 (4) Section 70(3) to (11) and 74A of the EP Act apply in relation to a notice given under subsection (3) as if it were a vegetation conservation notice given under section 70(2)(b) of the EP Act and as if the reference to an offence in section 70(6) were a reference to an offence under an enactment mentioned in the definition of “unlawful clearing” in subsection (2).
 (5) Section 74A, Part VA and sections 89 and 103 of the EP Act apply in relation to a notice given under subsection (3) as if it were a vegetation conservation notice given under section 70(2)(b) of the EP Act.
+”.
+On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 s. 194 had not come into operation. It reads as follows:
+“
+194.Environmental Protection Act 1986 amended
+(1) The amendments in this section are to the Environmental Protection Act 1986.
+(2) Section 57 is amended as follows:
+(a) in subsection (2)(b)(ii) by deleting “the Water and Rivers Commission” and inserting instead —
+“
+a person nominated by the Minister (Water Resources)
+”;
+(b) in subsection (3) by deleting “or from the Water and Rivers Commission”;
+(c) in subsection (5) by deleting the definition of “Water and Rivers Commission” and inserting instead —
+“
+“Minister (Water Resources)” means the Minister administering the Water Agencies (Powers) Act 1984.
 ”.
