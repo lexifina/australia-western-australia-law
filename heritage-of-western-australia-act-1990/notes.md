@@ -27,6 +27,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Petroleum Amendment Act 2007 s. 96 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Footnote no longer applicable.
@@ -155,4 +156,11 @@ Act | Provision
 .......................... | ........
 Heritage of Western Australia Act 1990 | s. 27(4)
 ...................... | ........
+”.
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 96 had not come into operation. It reads as follows:
+“
+96.Heritage of Western Australia Act 1990 amended
+(1) The amendments in this section are to the Heritage of Western Australia Act 1990.
+(2) Section 3(2)(a)(v) is amended by deleting “Petroleum Act 1967;” and inserting instead —
+“ Petroleum and Geothermal Energy Resources Act 1967; ”.
 ”.
