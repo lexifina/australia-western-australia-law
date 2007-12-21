@@ -30,6 +30,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 65, 66 and 68 | 51 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Petroleum Legislation Amendment and Repeal Act 2005 s. 50 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
+Petroleum Amendment Act 2007 s. 101 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Occupational Safety and Health Act 1984; short title changed (see note under s. 1).
@@ -132,5 +133,17 @@ On the date as at which this compilation was prepared, the Petroleum Legislation
 (b) at which a petroleum operation, as defined in section 5(1) of the Petroleum Act 1967, is carried on;
 (c) at which a pipeline operation, as defined in section 4(1) of the Petroleum Pipelines Act 1969, is carried on; or
 (d) at which an offshore petroleum operation, as defined in section 4 of the Petroleum (Submerged Lands) Act 1982, is carried on.
+”.
+”.
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 101 had not come into operation. It reads as follows:
+“
+101.Occupational Safety and Health Act 1984 amended
+(1) The amendments in this section are to the Occupational Safety and Health Act 1984 as amended by the Petroleum Legislation Amendment and Repeal Act 2005.
+(2) Section 4(2)(b) is amended as follows:
+(a) after “petroleum operation” by inserting —
+“ or geothermal energy operation ”;
+(b) by deleting “Petroleum Act 1967,” and inserting instead —
+“
+Petroleum and Geothermal Energy Resources Act 1967,
 ”.
 ”.
