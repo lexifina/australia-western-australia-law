@@ -40,6 +40,10 @@ Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Energy Operators (Powers) Amendment Act 2006 s. 4 | 8 of 2006 | 5 May 2006 | 5 May 2006 (see s. 2)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Water Resources Legislation Amendment Act 2007 s. 193 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The State Electricity Commission Act 1945 was repealed by this Act.
 The Energy Operators (Powers) Act 1979 is affected by the Dampier to Bunbury Pipeline Act 1997 Sch. 4 Div. 3 it. 9, which reads as follows:
@@ -274,4 +278,13 @@ the energy operator, as mentioned in subsection (3), is to be presumed to be cor
 (3) In this section —
 “appropriate network development” means “appropriate network development” as defined in section 58(3a) or section 61(1a) of the principal Act, as the case may require;
 “Western Power Corporation” has the meaning given to that term in section 4(1) of the principal Act.
+”.
+On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 s. 193 had not come into operation. It reads as follows:
+“
+193.Energy Operators (Powers) Act 1979 amended
+(1) The amendments in this section are to the Energy Operators (Powers) Act 1979.
+(2) Section 42(2)(a) is amended by deleting “Water and Rivers Commission established by the Water and Rivers Commission Act 1995” and inserting instead —
+“
+Minister referred to in the Water Agencies (Powers) Act 1984
+”.
 ”.
