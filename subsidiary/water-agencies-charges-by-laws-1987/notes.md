@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 October 2007 of the Water Agencies (Charges) By-laws 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Water Agencies (Charges) By-laws 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Water Authority (Charges) By-laws 1987 | 14 Jul 1987 p. 2658-72 (errata 24 Jul 1987 p. 2841) | 14 Jul 1987
@@ -99,6 +99,7 @@ Water Agencies (Charges) Amendment By-laws (No. 3) 2006 | 14 Nov 2006 p. 4738 | 
 Water Agencies (Charges) Amendment By-laws 2007 | 13 Apr 2007 p. 1686-8 | 13 Apr 2007
 Water Agencies (Charges) Amendment By-laws (No. 2) 2007 | 29 Jun 2007 p. 3245-88 | bl. 1 and 2: 29 Jun 2007 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2007 (see bl. 2(b))
 Reprint 5: The Water Agencies (Charges) By-laws 1987 as at 5 Oct 2007 (includes amendments listed above)
+Water Agencies (Charges) Amendment By-laws (No. 4) 2007 | 21 Dec 2007 p. 6349 | bl. 1 and 2: 21 Dec 2007 (see bl. 2(a)); By-laws other than bl. 1 and 2: 22 Dec 2007 (see bl. 2(b))
 Now established by the Port Authorities Act 1999 s. 4.
 Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act.
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
