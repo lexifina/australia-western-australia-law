@@ -5,7 +5,7 @@ A licence may include provisions —
 (b)if the licence is a generation licence, a retail licence or an integrated regional licence, requiring the licensee to maintain and publish specified records in respect of greenhouse gas emissions caused by, or associated with, the generation of electricity supplied by the licensee;
 (c)if the licence is a retail licence or an integrated regional licence, requiring the licensee to prepare and implement strategies to encourage the use of renewable energy;
 (d)if the licence is a retail licence or an integrated regional licence, requiring the licensee to give information to customers on matters relating to electricity consumption, electricity conservation and the efficient use of electricity;
-(e)if the licence is a retail licence or an integrated regional licence, specifying methods or principles to be applied by the licensee in determining fees or charges payable by customers of a class prescribed under section 132(1)(a) (“tariff customers”);
+(e)if the licence is a retail licence or an integrated regional licence, specifying methods or principles to be applied by the licensee in determining fees or charges payable by customers of a class prescribed under section 132(1)(a) (tariff customers);
 (f)if the licence is a retail licence or an integrated regional licence, requiring the licensee, when seeking payment by tariff customers of a fee or charge, to specify —
 (i)the portion of the fee or charge that is attributable to the cost of generating the electricity supplied;
 (ii)the portion of the fee or charge that is attributable to the cost of transporting that electricity through a transmission system; and
