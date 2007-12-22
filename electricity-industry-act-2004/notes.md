@@ -7,6 +7,7 @@ Electricity Legislation Amendment Act 2004 Pt. 2 Div. 3 | 33 of 2004 | 20 Oct 20
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 Reprint 1: The Electricity Industry Act 2004 as at 16 Jun 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Electricity Industry Amendment Act 2007 | 32 of 2007 | 21 Dec 2007 | s. 1 and 2: 21 Dec 2007 (see s. 2(a)); Act other than s. 1 and 2: 22 Dec 2007 (see s. 2(b))
 The Electricity Industry Act 2004 s. 120 reads as follows:
 “
 120.Expiry
