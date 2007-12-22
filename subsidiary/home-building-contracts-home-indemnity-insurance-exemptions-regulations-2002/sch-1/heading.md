@@ -11,7 +11,7 @@ The development or dwelling unit concerned
 ..........................................................................................................
 [insert details of the development/dwelling unit]
 Background to home indemnity insurance
-2.The Home Building Contracts Act 1991 requires that the builder take out home indemnity insurance for residential building work costing over $12 000, unless there is an exemption.
+2.The Home Building Contracts Act 1991 requires that the builder take out home indemnity insurance for residential building work costing over $20 000, unless there is an exemption.
 3.Generally, home indemnity insurance covers the person for whom the builder is doing the work against financial loss if the builder is unable to complete the work or meet a valid claim for faulty workmanship because the builder has died, disappeared or become insolvent. The insurance also covers any other person obtaining the property from that person. In most cases the insurance policy must cover the construction period and the 6 years after practical completion of the building work.
 4.Residential building work done under a cost plus contract is usually only insured for faulty workmanship.
 Exemptions from the requirement to have insurance
@@ -57,7 +57,7 @@ name(s)] rescind the contract dated ............................ [insert date] f
  | Date ..................................
 NB:You should make sure that you have some evidence of the time and date on which you sent or gave this notice.
 *Complete or delete as necessary.
-[Form 1 amended in Gazette 8 Apr 2003 p. 1104; 16 Nov 2004 p. 5051.]
+[Form 1 amended in Gazette 8 Apr 2003 p. 1104; 16 Nov 2004 p. 5051; 21 Dec 2007 p. 6319.]
 Form 2
 [r. 7(4)]
 Home Building Contracts Act 1991
@@ -69,7 +69,7 @@ The development or dwelling unit concerned
 ..........................................................................................................
 [insert details of the development/dwelling unit]
 Background to home indemnity insurance
-2.The Home Building Contracts Act 1991 requires that the builder take out home indemnity insurance for residential building work costing over $12 000, unless there is an exemption.
+2.The Home Building Contracts Act 1991 requires that the builder take out home indemnity insurance for residential building work costing over $20 000, unless there is an exemption.
 3.Generally, home indemnity insurance covers the person for whom the builder is doing the work against financial loss if the builder is unable to complete the work or meet a valid claim for faulty workmanship because the builder has died, disappeared or become insolvent. The insurance also covers any other person (in this case, you) obtaining the property from that person. In most cases the insurance policy must cover the construction period and the 6 years after practical completion of the building work.
 Exemption from the requirement to have insurance
 4.Building work on multi-storey multi-unit developments is exempt from the requirement for the builder to take out home indemnity insurance, provided that the builder of the development gives a notice (known as a builder’s notice) to the person for whom the builder is doing the work. See the Home Building Contracts (Home Indemnity Insurance Exemptions) Regulations 2002.
@@ -91,4 +91,4 @@ I acknowledge that I have read this notice:
 ...........................................................................................................
 Person to whom the developer has given this notice
 Date ..........................................
-[Form 2 inserted in Gazette 16 Nov 2004 p. 5052-3.]
+[Form 2 inserted in Gazette 16 Nov 2004 p. 5052-3; amended in Gazette 21 Dec 2007 p. 6320.]
