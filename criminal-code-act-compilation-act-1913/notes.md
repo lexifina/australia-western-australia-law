@@ -143,6 +143,7 @@ Censorship Amendment Act 2006 s.4(2) | 10 of 2006 | 8 May 2006 | 10 Jun 2006 (se
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 5 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
+Criminal Code Amendment (Drink and Food Spiking) Act 2007 | 31 of 2007 | 21 Dec 2007 | s. 1 and 2: 21 Dec 2007 (see s. 2(a)); Act other than s. 1 and 2: 22 Dec 2007 (see s. 2(b))
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 The Criminal Code Amendment Act (No. 2) 1996 s. 4(3) reads as follows:
