@@ -106,6 +106,7 @@ Fish Resources Management Amendment Regulations 2007 | 6 Jul 2007 p. 3387-90 | 6
 Fish Resources Management Amendment Regulations (No. 6) 2007 | 14 Aug 2007 p. 4099-102 | r. 1 and 2: 14 Aug 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2007 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 7) 2007 | 4 Sep 2007 p. 4519-21 | r. 1 and 2: 4 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2007 (see r. 2(b))
 Reprint 7: The Fish Resources Management Regulations 1995 as at 19 Oct 2007 (includes amendments listed above)
+Fish Resources Management Amendment Regulations (No. 8) 2007 | 21 Dec 2007 p. 6325-6 | r. 1 and 2: 21 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Dec 2007 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
