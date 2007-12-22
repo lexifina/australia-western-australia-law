@@ -4,3 +4,4 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Oaths, Affidavits and Statutory Declarations Act 2005 | 23 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Oaths, Affidavits and Statutory Declarations (Act Amendment) Regulations 2006 r. 3 published in Gazette 9 Jun 2006 p. 2030 | 9 Jun 2006
+Oaths, Affidavits and Statutory Declarations (Act Amendment) Regulations 2007 r. 4 published in Gazette 21 Dec 2007 p. 6328 | r. 1 and 2: 21 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Dec 2007 (see r. 2(b))
