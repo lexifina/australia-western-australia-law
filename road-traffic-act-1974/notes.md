@@ -127,6 +127,7 @@ Road Traffic Amendment Act 2007 | 4 of 2007 | 11 Apr 2007 | s. 1 and 2: 11 Apr 2
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Road Traffic Amendment (Drugs) Act 2007 Pt. 2 | 6 of 2007 | 23 May 2007 | 12 Oct 2007 (see s. 2 and Gazette 11 Oct 2007 p. 5475)
+Road Traffic Amendment Act (No. 2) 2007 Pt. 1 and Pt. 2 Div. 6 | 39 of 2007 | 21 Dec 2007 | Pt. 1: 21 Dec 2007 (see s. 2(a)); Pt. 2 Div. 6: 22 Dec 2007 (see s. 2(j))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -134,6 +135,7 @@ Road Traffic Amendment Act (No. 2) 1987 s. 11(b) | 121 of 1987 (as amended by No
 Road Traffic Amendment Act 1996 s. 8(3) | 76 of 1996 (as amended by No. 54 of 2006 s. 43) | 14 Nov 1996 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act 2006 Pt. 2 (other than s. 19 and 27), 3 and 4 Div. 3 and 4 | 54 of 2006 | 26 Oct 2006 | To be proclaimed (see s. 2)
+Road Traffic Amendment Act (No. 2) 2007 Pt.2 | 39 of 2007 | 21 Dec 2007 | Pt. 2 other than s. 38: to be proclaimed (see s. 2(b)-(i) ); s. 38: operative when the rest of Pt. 2 Div. 5 comes into operation (see s. 2(i))
 Repealed by the Interpretation Act 1984.
 The Traffic Act Amendment Act (No. 2) 1968 came into operation on 20 December 1968 (see s. 2 and Gazette 19 December 1968 p. 3885).
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
@@ -1082,3 +1084,336 @@ Unless it has already come into operation, section 23 of the Road Traffic Amendm
 (d) by repealing subsection (4) and the Table to it.
 ”.
 Pt. 4 Div. 4 will not be included because the Road Traffic Amendment (Vehicle Licensing) Act 2001 has already commenced (see s. 45-48).
+On the date as at which this compilation was prepared, the Road Traffic Amendment Act (No. 2) 2007 Pt.2 had not come into operation. It reads as follows:
+“
+Part 2 — Road Traffic Act 1974 amended
+Division 1 — Act amended
+3.The Act amended in this Part
+The amendments in this Part are to the Road Traffic Act 1974.
+Division 2 — Amendments relating to breath analysis
+Subdivision 1 — Amendments not based on Road Traffic Amendment Act 2006 having commenced
+4.Section 59B amended
+Section 59B(5) is amended by deleting “percentage of alcohol in his blood of or exceeding 0.15%” and inserting instead —
+“
+blood alcohol content of or above 0.15g of alcohol per 100ml of blood
+”.
+5.Section 63 amended
+Section 63(5) is amended by deleting “percentage of alcohol in his blood of or exceeding 0.15%” and inserting instead —
+“
+blood alcohol content of or above 0.15g of alcohol per 100ml of blood
+”.
+6.Section 64 amended
+(1) Section 64(1) is amended by deleting “the percentage of alcohol in his blood equals or exceeds 0.08%,” and inserting instead —
+“
+having a blood alcohol content of or above 0.08g of alcohol per 100ml of blood
+”.
+(2) The Table to section 64(2) is amended as follows:
+(a) by deleting the heading to the first column and inserting instead —
+“
+Blood alcohol content (g/100ml)
+”;
+(b) in the first column —
+(i) by deleting “%” in each place where it occurs;
+(ii) by deleting “but <0.15”.
+(3) The note at the end of the Table to section 64(2) is amended by deleting “greater than or equal to” and inserting instead —
+“ of or above ”.
+(4) Section 64(2a) is amended by deleting “percentage of alcohol in the blood” and inserting instead —
+“ blood alcohol content ”.
+Note:The heading to section 64 is to read “Driving with blood alcohol content of or above 0.08”.
+7.Section 64AA amended
+(1) Section 64AA(1) is amended by deleting “the percentage of alcohol in his blood equals or exceeds 0.05%” and inserting instead —
+“
+having a blood alcohol content of or above 0.05g of alcohol per 100ml of blood
+”.
+(2) The Table to section 64AA(2a) is amended as follows:
+(a) by deleting the heading to the first column and inserting instead —
+“
+Blood alcohol content (g/100ml)
+”;
+(b) in the first column —
+(i) by deleting “%” in each place where it occurs;
+(ii) by deleting “but <0.08”.
+(3) The note at the end of the Table to section 64AA(2a) is amended by deleting “greater than or equal to” and inserting instead —
+“ of or above ”.
+Note:The heading to section 64AA is to read “Driving with blood alcohol content of or above 0.05”.
+8.Section 64A amended
+Section 64A(1) is amended by deleting “the percentage of alcohol in his blood equals or exceeds 0.02%” and inserting instead —
+“
+having a blood alcohol content of or above 0.02g of alcohol per 100ml of blood
+”.
+Note:The heading to section 64A is to read “Certain persons driving with blood alcohol content of or above 0.02”.
+9.Section 65 amended
+Section 65 is amended as follows:
+(a) in the definition of “analyst”, by deleting “percentage” and inserting instead —
+“ concentration ”;
+(b) in the definition of “breath analysing equipment”, by deleting “ascertaining the percentage of alcohol present in a person’s blood,” and inserting instead —
+“
+the purpose of ascertaining a person’s blood alcohol content
+”;
+(c) by deleting the definition of “percentage of alcohol” and inserting in the appropriate alphabetical position —
+“
+“blood alcohol content” means the concentration of alcohol in a person’s blood, expressed in grams of alcohol per 100ml of blood;
+”;
+(d) in the definition of “preliminary test”, by deleting “the percentage of alcohol in the blood of the person or an indication as to whether or not the percentage of alcohol in the blood of a person equals or exceeds a predetermined percentage” and inserting instead —
+“
+a person’s blood alcohol content or an indication of whether or not a person’s blood alcohol content is of or above a predetermined level
+”.
+10.Section 65A inserted
+After section 65 the following section is inserted —
+“
+65A.Using breath sample to find blood alcohol content
+(1) For the purposes of section 59B(5) and sections 63 to 73, inclusive, if the concentration of alcohol in a person’s breath is a particular number of grams of alcohol per 210 litres of breath the person’s blood alcohol content is to be regarded as being that number of grams of alcohol per 100ml of blood.
+(2) For the purposes of section 72(2)(a) and the definition of “breath analysing equipment” in section 65, apparatus is to be regarded as being for the purpose of ascertaining a person’s blood alcohol content by analysis of a sample of the person’s breath whether the apparatus gives the blood alcohol content directly as the analysis result or enables it to be derived under subsection (1).
+(3) For the purposes of the definition of “preliminary test” in section 65, apparatus is to be regarded as being for the purpose of providing an indication of the kind mentioned in that definition whether the apparatus gives the indication directly or enables it to be derived under subsection (1).
+”.
+11.Section 66 amended
+(1) Section 66(2)(a)(i) is amended by deleting “percentage of alcohol in the blood of the person equals or exceeds 0.05% of alcohol” and inserting instead —
+“
+person has a blood alcohol content of or above 0.05g of alcohol per 100ml of blood
+”.
+(2) Section 66(11)(b) is amended by deleting “percentage of alcohol present in the blood of the person” and inserting instead —
+“ person’s blood alcohol content ”.
+12.Section 68 amended
+(1) Section 68(4)(a) is amended as follows:
+(a) by inserting after “analysis result and” —
+“
+the person’s blood alcohol content given by or derived under section 65A from the analysis result
+”;
+(b) by deleting “percentage of alcohol present in the blood of the person” and inserting instead —
+“ person’s blood alcohol content ”.
+(2) Section 68(8) is amended as follows:
+(a) by inserting after “analysis result and” —
+“
+the person’s blood alcohol content given by or derived under section 65A from the analysis result
+”;
+(b) by deleting “percentage of alcohol present in the blood of the person” and inserting instead —
+“ person’s blood alcohol content ”.
+13.Section 69 amended
+Section 69(2) is amended as follows:
+(a) by deleting “percentage of alcohol found by the analyst to be present in” and inserting instead —
+“ blood alcohol content of ”;
+(b) by deleting “percentage of alcohol present in the blood of the person” and inserting instead —
+“ person’s blood alcohol content ”.
+14.Section 71 amended
+(1) Section 71(1) is repealed and the following subsection is inserted instead —
+“
+(1) In any proceeding such as is mentioned in section 70(1) a person’s blood alcohol content at any time which is or may be material in the proceeding (the “material time”) shall be calculated having regard to —
+(a) the time of the person’s last drink containing alcohol taken at or before the material time; and
+(b) the material time; and
+(c) the time at which the sample of the person’s breath or blood was provided or taken for analysis (the “time of sampling”); and
+(d) the person’s blood alcohol content at the time of sampling,
+so as to give effect to the presumption that after a person’s latest drink containing alcohol the person’s blood alcohol content increases at the rate of 0.016g of alcohol per 100ml of blood per hour for a period of 2 hours and, after that period, decreases at the rate of 0.016g of alcohol per 100ml of blood per hour.
+”.
+(2) Section 71(4) is amended by deleting “percentage” and inserting instead —
+“ concentration ”.
+Note:The heading to section 71 is to read “Determination of blood alcohol content at material time”.
+15.Section 72 amended
+(1) Section 72(2) is amended by deleting paragraph (a) and “and” after it and inserting instead —
+“
+(a) types of apparatus for the purpose of ascertaining a person’s blood alcohol content by analysis of a sample of the person’s breath; and
+”.
+(2) Section 72(3)(a) is amended by deleting “percentage” and inserting instead —
+“ concentration ”.
+16.Section 98A amended
+Section 98A is amended as follows:
+(a) in subsection (2), by inserting before “ascertaining” —
+“ the purpose of ”;
+(b) in subsection (2a), by inserting before “ascertaining” —
+“ the purpose of ”.
+Subdivision 2 — Amendments depending on Road Traffic Amendment Act 2006
+17.Section 64AA amended
+Section 64AA(2b) is amended by deleting “percentage of alcohol in the blood” and inserting instead —
+“ blood alcohol content ”.
+18.Section 67 amended
+Section 67(3)(a)(i) is amended by deleting “relevant percentage of alcohol in the person’s blood exceeded 0.14%” in both places where it occurs and inserting instead —
+“
+person’s blood alcohol content were above 0.14g of alcohol per 100ml of blood
+”.
+Division 3 — Amendments about driving incidents
+Subdivision 1 — Amendments not based on Road Traffic Amendment Act 2006 having commenced
+19.Division 1A inserted in Part V
+After the heading to Part V the following Division is inserted —
+“
+Division 1A — Terms used in this Part
+49AA.Meanings of “bodily harm” and “grievous bodily harm”
+In this Part —
+“bodily harm” has the meaning given in The Criminal Code section 1(1);
+“grievous bodily harm” has the meaning given in The Criminal Code section 1(1).
+”.
+20.Sections 54, 55 and 56 replaced
+Sections 54, 55 and 56 are repealed and the following sections are inserted instead —
+“
+54.Bodily harm: duty to stop and give information and assistance
+(1) If a vehicle driven by a person (the “driver”) is involved in an incident occasioning bodily harm to another person, the driver must stop immediately after the occurrence of the incident and for as long as is necessary to comply with subsections (2) and (6).
+(2) If a vehicle driven by a person (the “driver”) is involved in an incident occasioning bodily harm to another person (a “victim”), the driver must ensure that each victim receives all the assistance, including medical aid, that is necessary and practicable in the circumstances.
+(3) A person who contravenes subsection (1) or (2) commits a crime.
+Penalty: imprisonment for —
+(a)20 years, if the incident occasioned death;
+(b)14 years, if the incident occasioned grievous bodily harm but not death;
+(c)10 years, in any other case.
+Summary conviction penalty in a case to which paragraph (c) applies: imprisonment for 3 years.
+(4) If in the opinion of the court an offence under subsection (3) is of a sufficiently serious nature the court may make an order disqualifying the offender from holding or obtaining a driver’s licence for such period as it thinks fit.
+(5) It is a defence to a charge of an offence under subsection (3) for the accused to prove that the accused was not aware of the occurrence of the incident.
+(6) If a vehicle driven by a person (the “driver”) is involved in an incident occasioning bodily harm to another person (a “victim”), the driver must, if required to do so by a victim, a representative of a victim, or a member of the Police Force, give the driver’s name and address and, if known to the driver, the name and address of a responsible person for the vehicle.
+Penalty: a fine of 30 PU.
+(7) It is a defence to a charge of an offence under subsection (3) or (6) for the accused to prove that the accused could not comply with a requirement in the relevant provision because of an injury suffered by the accused in the incident.
+55.Damage to property: duty to stop and give information
+(1) If a vehicle driven by a person (the “driver”) is involved in an incident in which any property is damaged, the driver must stop immediately after the occurrence of the incident and for as long as is necessary to comply with subsection (4).
+Penalty: a fine of 30 PU.
+(2) If in the opinion of the court an offence under subsection (1) is of a sufficiently serious nature the court may make an order disqualifying the offender from holding or obtaining a driver’s licence for such period as it thinks fit.
+(3) It is a defence to a charge of an offence under subsection (1) for the accused to prove that the accused was not aware of the occurrence of the incident.
+(4) If a vehicle driven by a person (the “driver”) is involved in an incident in which any property is damaged, the driver must, if required to do so by a person whose property was damaged in the incident or a representative of that person or a member of the Police Force, give the driver’s name and address and, if known to the driver, the name and address of a responsible person for the vehicle.
+Penalty: a fine of 30 PU.
+(5) It is a defence to a charge of an offence under subsection (1) or (4) for the accused to prove that the accused could not comply with a requirement in that subsection because of an injury suffered by the accused in the incident.
+56.Duty to report incidents involving bodily harm or damage to property
+(1) If a vehicle driven by a person (the “driver”) is involved in an incident occasioning bodily harm to another person, the driver must report the incident forthwith to the officer in charge of a police station.
+(2) If a person contravenes subsection (1) and the incident occasioned death or grievous bodily harm, the person commits a crime.
+Penalty: imprisonment for 10 years and in any event the court convicting the person must order that the offender is disqualified from holding or obtaining a driver’s licence for a period of not less than 12 months.
+Summary conviction penalty: imprisonment for 12 months and in any event the court convicting the person must order that the offender is disqualified from holding or obtaining a driver’s licence for a period of not less than 12 months.
+(3) If a person contravenes subsection (1) and the incident did not occasion death or grievous bodily harm, the person commits an offence.
+Penalty: imprisonment for 12 months and in any event the court convicting the person must order that the offender is disqualified from holding or obtaining a driver’s licence for a period of not less than 12 months.
+(4) If a vehicle driven by a person (the “driver”) is involved in an incident in which any property is damaged the driver must report the incident forthwith to the officer in charge of a police station.
+Penalty:
+(a)for a first offence, a fine of 8 PU;
+(b)for a subsequent offence, a fine of 16 PU.
+(5) It is a defence to a charge of an offence under subsection (2), (3) or (4) for the accused to prove that —
+(a) the accused could not comply with a requirement in the relevant provision because of an injury suffered by the accused in the incident; or
+(b) a member of the Police Force attended at the scene of the incident and took the necessary particulars of the incident.
+(6) It is a defence to a charge of an offence under subsection (4) for the accused to prove —
+(a) that the accused had reasonable cause for believing that the total value of the damage did not exceed the amount prescribed for the purposes of this subsection; and
+(b) that the owner, in each case, of any property damaged was present or represented at the place where and at the time when, or immediately after, the incident occurred.
+”.
+21.Section 57 amended
+(1) Section 57(1) is amended by deleting the penalty clause.
+(2) Section 57(2) is repealed and the following is inserted instead —
+“
+(2) A person who is required under subsection (1) by a member of the Police Force to give information must not in response to the request give false information.
+Penalty: applicable to subsections (1) and (2), a fine of 60 PU or imprisonment for 12 months.
+”.
+22.Section 59 amended
+(1) Section 59(1) is amended in the penalty clause by deleting “18 months” and inserting instead —
+“ 3 years ”.
+(2) Section 59(2) is amended as follows:
+(a) by inserting at the end of paragraph (b) —
+“ and ”;
+(b) by deleting “; and” at the end of paragraph (c) and inserting instead a full stop;
+(c) by deleting paragraph (d).
+(3) Section 59(3)(b) is amended by deleting “4 years” and inserting instead —
+“ 10 years ”.
+23.Section 59A amended
+Section 59A(2) is amended as follows:
+(a) by deleting the semicolon at the end of paragraph (b) and inserting instead a full stop;
+(b) by deleting paragraph (c).
+24.Section 73 amended
+Section 73 is amended by inserting after “sections” —
+“ 54, 55 and 56 and in sections ”.
+Subdivision 2 — Amendments depending on Road Traffic Amendment Act 2006
+25.Section 50 amended
+Section 50 is amended by deleting “with whom the holder is authorised to drive under section 43(2)” and inserting instead —
+“
+under whose instruction the permit authorises the holder to drive
+”.
+Division 4 — Amendments about graduated demerit point system for novice drivers
+26.Section 104 amended
+Section 104 is amended as follows:
+(a) by inserting before “In this Part” at the beginning of the section the subsection designation “(1)”;
+(b) by inserting in their appropriate alphabetical positions —
+“
+“excessive demerit points (novice driver) notice” means an excessive demerit points (novice driver) notice under section 104IA(2);
+“novice driver” has the meaning given in subsection (2);
+“novice driver (type 1)” means a novice driver who is not a novice driver (type 2);
+“novice driver (type 2)” means a novice driver who has, for a period of at least 1 year or periods adding up to at least 1 year, held —
+(a)an Australian driver licence; or
+(b)a licence or other authorisation granted to the person by an external licensing authority authorising the person to drive a motor vehicle other than solely for the purpose of learning to drive it;
+”;
+(c) by inserting at the end of the section the following subsections —
+“
+(2) For the purposes of this Part a person is a novice driver unless the person has, for a period of at least 2 years or periods adding up to at least 2 years, held —
+(a) an Australian driver licence; or
+(b) a licence or other authorisation granted to the person by an external licensing authority authorising the person to drive a motor vehicle other than solely for the purpose of learning to drive it.
+(3) When deciding whether a person is a novice driver, or which type of novice driver a person is, a period for which the person held an Australian driver licence or other authorisation is to be regarded as not including any period for which the person, although holding an Australian driver licence or other authorisation, was excluded by law from driving under that authorisation.
+”.
+27.Section 104IA inserted
+After section 104I the following section is inserted —
+“
+104IA.Excessive demerit points (novice driver) notice
+(1) In this section —
+“post-commencement demerit points” means current demerit points other than those recorded for an offence committed before the day on which the Road Traffic Amendment Act (No. 2) 2007 section 27 comes into operation.
+(2) If the number of post-commencement demerit points recorded in the demerit points register against a novice driver (type 1) reaches at least 4, or against a novice driver (type 2) reaches at least 8, the Director General is to give the novice driver, in accordance with section 104R, an excessive demerit points (novice driver) notice stating —
+(a) the day on which that number of post-commencement demerit points was reached; and
+(b) the number of post-commencement demerit points reached on that day; and
+(c) that the period of disqualification is 3 months; and
+(d) that the period of disqualification will commence on the day after the notice is given or a later day specified in the notice.
+(3) Post-commencement demerit points recorded against the person in the demerit points register on or before the day on which, according to the notice, the stated number of demerit points was reached are cancelled.
+(4) The person to whom the notice is given is disqualified from holding or obtaining a driver’s licence for the period of 3 months specified in the notice.
+(5) Nothing in this section prevents the day on which the period of disqualification commences from being postponed under section 104M.
+(6) Regulations referred to in section 104O(7) may provide for all or some of the post-commencement demerit points cancelled under subsection (3) to be again recorded against the person.
+(7) Nothing in this section prevents section 104I from applying to a novice driver.
+”.
+28.Section 104J amended
+Section 104J(2) is amended by deleting the full stop at the end of the subsection and inserting instead —
+“ and must not be a novice driver. ”.
+29.Section 104O amended
+(1) Section 104O(2) is amended as follows:
+(a) before paragraph (e), by inserting —
+“
+(da) the day on which an excessive demerit points (novice driver) notice was given, and the number of demerit points and period of disqualification stated in it; and
+”;
+(b) after each of paragraphs (a) to (f), by inserting —
+“ and ”.
+(2) Section 104O(4) is amended by inserting after paragraph (a) —
+“ or ”.
+30.Section 104R amended
+Section 104R(1) is amended by inserting before paragraph (b) —
+“
+(aa) an excessive demerit points (novice driver) notice; or
+”.
+Division 5 — Amendments about zero blood alcohol content for novice drivers
+31.Section 63 amended
+Section 63(6) is amended as follows:
+(a) by inserting before “applied” —
+“ or 64AAA ”;
+(b) by inserting before the full stop —
+“ or 64AAA ”.
+32.Section 64 amended
+Section 64(4) is amended as follows:
+(a) by inserting before “applied” —
+“ or 64AAA ”;
+(b) by inserting before the full stop —
+“ or 64AAA ”.
+33.Section 64AA amended
+Section 64AA(3) is amended as follows:
+(a) by inserting before “where” —
+“ or 64AAA ”;
+(b) by inserting before “applied” —
+“ or 64AAA ”.
+34.Section 64A amended
+After section 64A(3) the following subsection is inserted —
+“
+(4) A person charged with an offence against this section may, instead of being convicted of that offence, be convicted of an offence against section 64AAA where, at the time of the alleged offence, the person charged was a person to whom that section applied.
+”.
+35.Section 64AAA inserted
+After section 64A the following section is inserted —
+“
+64AAA.Novice driver driving with any blood alcohol content
+(1) A person who, being a novice driver, drives or attempts to drive a motor vehicle while having any blood alcohol content commits an offence.
+Penalty: Not less than 2 PU or more than 6 PU.
+(2) In subsection (1) —
+“novice driver” has the same meaning as it has in section 104(2).
+(3) It is a defence to a charge of an offence under subsection (1) for the accused to prove that the accused’s blood alcohol content was not to any extent caused by any of the following:
+(a) the consumption of an alcoholic beverage (otherwise than for the purposes of religious observance);
+(b) the consumption or use of any other substance (for example, food or medicine) for the purpose of consuming alcohol.
+”.
+36.Section 66 amended
+Section 66(2)(a)(ii) is amended by inserting before “applies” —
+“ or 64AAA ”.
+37.Section 70 amended
+Section 70(1) is amended by deleting “or 64A,” and inserting instead —
+“ , 64A or 64AAA, ”.
+38.Section 71B amended
+Section 71B(1) is amended by inserting after “64A” —
+“ , 64AAA ”.
+39.Section 98 amended
+Section 98(1a) is amended by deleting “64A” and inserting instead —
+“ 64A(1) or 64AAA ”.
+”.
