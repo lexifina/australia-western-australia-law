@@ -21,6 +21,7 @@ Item | Formal description | Informal description
 17. | The secretary of an organisation of employees or employers that is registered under one of the following Acts — •Industrial Relations Act 1979; •Workplace Relations Act 1996 of the Commonwealth. | Industrial organisation secretary
 18. | A member of the National Insurance Brokers Association of Australia (ACN 006 093 849). | Insurance broker
 19. | A Justice of the Peace. | Justice of the Peace
+19A. | A person who is a member of the Authority’s staff within the meaning given to that term by the Land Information Authority Act 2006 section 3. | Landgate officer
 20. | A legal practitioner within the meaning of the Legal Practice Act 2003. | Lawyer
 21. | The chief executive officer or deputy chief executive officer of a local government. | Local government CEO or deputy CEO
 22. | A member of the council of a local government within the meaning of the Local Government Act 1995. | Local government councillor
@@ -46,4 +47,4 @@ Item | Formal description | Informal description
 42. | A person employed as a member of the teaching staff within the meaning of the School Education Act 1999 or as a teacher of a non-government school within the meaning of that Act. | Teacher
 43. | A member, registrar or clerk, or the chief executive officer, of any tribunal of the State or the Commonwealth. | Tribunal officer
 44. | A registered veterinary surgeon within the meaning of the Veterinary Surgeons Act 1960. | Veterinary surgeon
-[Schedule 2 amended in Gazette 9 Jun 2006 p. 2030.]
+[Schedule 2 amended in Gazette 9 Jun 2006 p. 2030; 21 Dec 2007 p. 6328.]
