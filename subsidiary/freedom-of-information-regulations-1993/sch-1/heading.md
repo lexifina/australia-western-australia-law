@@ -18,4 +18,4 @@ and
 3.Advance Deposits
 (a)Advance deposit which may be required by an agency under section 18 (1) of the Act, expressed as a percentage of the estimated charges which will be payable in excess of the application fee….25%
 (b)Further advance deposit which may be required by an agency under section 18 (4) of the Act, expressed as a percentage of the estimated charges which will be payable in excess of the application fee……………………………………..75%
-[Schedule amended by Gazettes 12 November 1993 p.6202; 30 September 1994 p.4984.]
+[Schedule amended in Gazettes 12 Nov 1993 p. 6202; 30 Sep 1994 p. 4984.]
