@@ -10,5 +10,6 @@ Adoption Amendment Regulations 2003 | 20 May 2003 p. 1783-93 | 1 Jun 2003 (see r
 Reprint 1: The Adoption Regulations 1995 as at 3 Oct 2003 (includes amendments listed above)
 Adoption Amendment Regulations 2004 | 30 Dec 2004 p. 6903-5 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Adoption Amendment Regulations 2005 | 29 Jul 2005 p. 3517 | 29 Jul 2005
+Adoption Amendment Regulations 2007 | 28 Dec 2007 p. 6402 | r. 1 and 2: 28 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Dec 2007 (see r. 2(b))
 Repealed by the Adoption Rules 1995.
 Repealed by the Adoption Act 1994.
