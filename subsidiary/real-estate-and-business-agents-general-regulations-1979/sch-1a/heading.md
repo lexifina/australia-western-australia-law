@@ -1,14 +1,6 @@
 ## Schedule 1A — Professional development subjects
-[r. 4AA]
-[Heading inserted in Gazette 6 Feb 2007 p. 309.]
-## Division 1 — Mandatory professional development subjects
-[Heading inserted in Gazette 6 Feb 2007 p. 309.]
-1.Valid appointments
-2.Conflicts of interest and disclosures
-3.Reconciliation of trust accounts
-[Division 1 inserted in Gazette 6 Feb 2007 p. 309.]
-## Division 2 — Elective professional development subjects
-[Heading inserted in Gazette 6 Feb 2007 p. 309.]
+[r. 4AB]
+[Heading inserted in Gazette 28 Dec 2007 p. 6407.]
 1.Agency agreements
 2.Auctions
 3.Business broking
@@ -28,4 +20,4 @@
 17.Trust accounting
 18.Understanding real estate documents
 19.Valid appointment to act
-[Division 2 inserted in Gazette 6 Feb 2007 p. 309-10.]
+[Schedule 1A inserted in Gazette 28 Dec 2007 p. 6407.]

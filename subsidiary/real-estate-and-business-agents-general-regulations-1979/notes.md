@@ -56,6 +56,7 @@ Real Estate and Business Agents (General) Amendment Regulations 2007 | 6 Feb 200
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2007 | 9 Mar 2007 p. 847-8 | 9 Mar 2007
 Reprint 5: The Real Estate and Business Agents (General) Regulations 1979 as at 8 June 2007 (includes amendments listed above)
 Real Estate and Business Agents (General) Amendment Regulations (No. 4) 2007 | 24 Jul 2007 p. 3659-60 | r. 1 and 2: 24 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2007 (see r. 2(b) and Gazette 25 Jul 2007 p. 3657)
+Real Estate and Business Agents (General) Amendment Regulations (No. 5) 2007 | 28 Dec 2007 p. 6403-7 | r. 1 and 2: 28 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Dec 2007 (see r. 2(b))
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 4(2) (as amended in Gazette 13 Jan 2004 p. 146) reads as follows:
