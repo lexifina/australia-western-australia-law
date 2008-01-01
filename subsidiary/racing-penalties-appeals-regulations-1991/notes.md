@@ -11,29 +11,4 @@ Reprint 1: The Racing Penalties (Appeals) Regulation 1991 as at 3 Jan 2003 (incl
 Racing and Gambling (Miscellaneous) Amendment Regulations 2004 Pt. 8 | 30 Jan 2004 p. 413-18 | 30 Jan 2004 (see r. 2)
 Racing Penalties (Appeals) Amendment Regulations 2005 | 14 Oct 2005 p. 4566-7 | 1 Jan 2006 (see r. 2)
 Racing Penalties (Appeals) Amendment Regulations 2006 | 14 Nov 2006 p. 4735-6 | 1 Jan 2007 (see r. 2)
-Racing Penalties (Appeals) Amendment Regulations 2007 r. 1 and 2 | 9 Oct 2007 p. 5358-9 | 9 Oct 2007 (see r. 2(a))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Racing Penalties (Appeals) Amendment Regulations 2007 r. 3–5 | 9 Oct 2007 p. 5358-9 | 1 Jan 2008 (see r. 2(b))
-On the date as at which this compilation was prepared, the Racing Penalties (Appeals) Amendment Regulations 2007 r. 3–5 had not come into operation. They read as follows:
-“
-3.The regulations amended
-The amendments in these regulations are to the Racing Penalties (Appeals) Regulations 1991.
-4.Regulation 4 amended
-(1) Regulation 4(1) is amended as follows:
-(a) in paragraph (a) by deleting “$115;” and inserting instead —
-“ $125; ”;
-(b) in paragraph (b) by deleting “$285.” and inserting instead —
-“ $305. ”.
-(2) Regulation 4(2) is amended as follows:
-(a) in paragraph (a)(i) by deleting “$115;” and inserting instead —
-“ $125; ”;
-(b) in paragraph (a)(ii) by deleting “$285;” and inserting instead —
-“ $305; ”;
-(c) by deleting “$55.” and inserting instead —
-“ $60. ”.
-5.Regulation 7 amended
-Regulation 7 is amended by deleting “$3.50” and inserting instead —
-“ $4 ”.
-”.
+Racing Penalties (Appeals) Amendment Regulations 2007 | 9 Oct 2007 p. 5358-9 | r. 1 and 2: 9 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2008 (see r. 2(b))
