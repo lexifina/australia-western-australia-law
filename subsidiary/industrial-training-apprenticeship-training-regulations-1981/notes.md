@@ -40,6 +40,7 @@ Industrial Training (Apprenticeship Training) Amendment Regulations 2007 | 31 Ja
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 3) 2007 | 30 Mar 2007 p. 1453-7 | 31 Mar 2007 (see r. 2)
 Reprint 2: The Industrial Training (Apprenticeship Training) Regulations 1981 as at 6 Apr 2007 (includes amendments listed above)
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 4) 2007 | 1 May 2007 p. 1893-4 | 1 May 2007 (see r. 2)
+Industrial Training (Apprenticeship Training) Amendment Regulations (No. 5) 2007 | 21 Dec 2007 p. 6320-5 | r. 1 and 2: 21 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2008 (see r. 2(b))
 The definition of “Council” was deleted from s. 4 of the Act by the State Employment and Skills Development Authority Act 1990 s. 45(a)(ii). The definition of “Authority” inserted by s. 45(a)(i) of that Act was deleted by the Vocational Education and Training Act 1996 Sch. 3 cl. 12.
 The Education Regulations 1960 r. 4 referred to the Director of technical education. Those regulations were repealed by the School Education Act 1999 s. 246(2).
 “Approved College” is defined in r. 4 of the Industrial Training (General Apprenticeship) Regulations 1981: see r. 3 of these regulations. The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996 s. 70(1).
