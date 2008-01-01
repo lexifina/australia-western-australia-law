@@ -1,13 +1,14 @@
 ## Schedule 7
 [reg. 3(2)]
 ## List of common and scientific names
-Marine or fluvio-marine fish
+## Division 1 — Marine or fluvio-marine fish
+[Heading inserted in Gazette 13 Nov 2007 p. 5692.]
 Common Name | Scientific Name
 Amberjack .............................................. | Seriola dumerlii
 Anchovy, Australian .............................. | Engraulis australis
+Bait Fish ................................................. | Families Clupeidae and Engraulidae
 Barracuda ............................................... | Sphyraena barracuda
 Barramundi (Giant Perch) ...................... | Lates calcarifer
-Bait Fish ................................................. | Families Clupeidae and Engraulidae
 Billfish (Marlins, Sailfish, Spearfish) .... | Family Istiophoridae
 Boarfish .................................................. | Family Pentacerotidae
 Bonefish ................................................. | Albula spp.
@@ -32,10 +33,10 @@ Cod, Rankin ........................................... | Epinephelus multinotat
 Coral Trout ............................................. | Plectropomus spp.
 Coronation Trout ................................... | Variola louti
 Dart ........................................................ | Trachinotus spp.
+Dhufish, West Australian ........................... | Glaucosoma hebriacum
 Dolphinfish (Mahi Mahi) ....................... | Coryphaena hippurus
 Dory, John .............................................. | Zenopsis nebulosus
 Dory, Mirror ........................................... | Zeus faber
-Dhufish, West Australian ........................... | Glaucosoma hebriacum
 Emperor and Seabream .......................... | Family Lethrinidae
 Emperor, Blue-lined .............................. | Lethrinus laticaudis
 Emperor, Red (Government Bream) ...... | Lutjanus sebae
@@ -53,8 +54,8 @@ Groper, Baldchin .................................... | Choerodon rubescens
 Groper, Bass ........................................... | Polyprion americanus
 Groper, Queensland ............................... | Epinephelus lanceolatus
 Groper, Western Blue ............................ | Achoerodus gouldii
-Hardyhead .............................................. | Family Atherinidae
 Hapuku ................................................... | Polyprion oxygeneios
+Hardyhead .............................................. | Family Atherinidae
 Herring, Australian (Tommy Ruff) ........ | Arripis georgianus
 Herring, Giant ........................................ | Elops hawaiiensis
 Herring, Perth ......................................... | Nematalosa vlaminghi
@@ -89,12 +90,12 @@ Pike, Long-finned ................................... | Dinolestes lewini
 Pike, Striped Sea ................................... | Sphyraena obtusata
 Pilchard (Mulie) ..................................... | Sardinops neopilchardus
 Queenfish .............................................. | Scomberoides commersonnianus
-Rays ....................................................... | Superorder Batoidea
 Ray, Eagle .............................................. | Family Myliobatididae
 Ray, Manta ............................................ | Manta birostris
+Rays ....................................................... | Superorder Batoidea
 Redbait ................................................... | Emmelichthys nitidus
-Salmon, Australian ................................. | Arripis truttaceus
 Salmon, Atlantic ..................................... | Salmo salar
+Salmon, Australian ................................. | Arripis truttaceus
 Samson Fish (Sea Kingfish) ................... | Seriola hippos
 Scad, Yellowtail .................................... | Trachurus novaezelandiae
 Seadragon, Leafy .................................. | Phycodurus eques
@@ -149,13 +150,14 @@ Whiting, Southern School (Silver) ......... | Sillago bassensis
 Whiting, Yellow-finned ......................... | Sillago schomburgkii
 Wrasse .................................................... | Family Labridae
 Wrasse, Humphead Maori ..................... | Cheilinus undulatus
-Freshwater Fish
+## Division 2 — Freshwater fish
+[Heading inserted in Gazette 13 Nov 2007 p. 5692.]
 Common Name | Scientific Name
+Carp, European (Common) .................... | Cyprinus carpio
+Carp, Grass ............................................. | Ctenopharyngodon idellus
 Catfish, Parasitic .................................... | Family Trichomycteridae
 Catfish Tiger .......................................... | Pseudoplatystoma fasciatum
 Catfish, Walking .................................... | Clarias batrachus
-Carp, European (Common) .................... | Cyprinus carpio
-Carp, Grass ............................................. | Ctenopharyngodon idellus
 Cobbler, Freshwater ............................... | Tandanus bostocki
 Cod, Murray ........................................... | Maccullochella peeli
 Eel, Short-finned ................................... | Anguilla australis
@@ -174,16 +176,17 @@ Tilapia ................................................... | Oreochromis mossam
 Trout, Brown .......................................... | Salmo trutta
 Trout, Rainbow ...................................... | Oncorhynchus mykiss
 Weatherloach ......................................... | Misgurnus anguillicardatus
-Crustaceans
+## Division 3 — Crustaceans
+[Heading inserted in Gazette 13 Nov 2007 p. 5692.]
 Common Name | Scientific Name
 Cherabin ................................................. | Macrobrachium spp.
-Crab ....................................................... | Portunus, Scylla and Ovalipes spp.
+Crab ........................................................ | Chaceon, Hypothalassia, Ovalipes, Portunus, Pseudocarcinus and Scylla spp.
 Crab, Blue Manna (Blue Swimmer) ...... | Portunus pelagicus
 Crab, Brown Mud .................................. | Scylla serrata
-Crab, Giant (King) ................................. | Pseudocarcinus gigas
+Crab, Champagne ................................... | Hypothalassia acerba
+Crab, Crystal .......................................... | Chaceon spp.
+Crab, Giant ............................................. | Pseudocarcinus gigas
 Crab, Green Mud ................................... | Scylla paramamosain
-Crab, Snow ............................................ | Chaceon bicolor
-Crab, Spiny ........................................... | Hypothalassia armata
 Crab, White Spotted Sand ..................... | Ovalipes australiensis
 Freshwater Crayfish .............................. | Cherax spp. excluding C. tenuimanus and C. cainii
 Gilgie .................................................... | Cherax quinquecarinatus and crassimanus
@@ -193,8 +196,8 @@ Marron, Blue ......................................... | Cherax tenuimanus var. 
 Prawn .................................................... | Family Penaeidae
 Prawn, Banana ....................................... | Penaeus merguiensis
 Prawn, Brown Tiger ............................... | Penaeus esculentus
-Prawn, Western School ......................... | Metapenaeus dalli
 Prawn, Western King ............................. | Penaeus latisulcatus
+Prawn, Western School ......................... | Metapenaeus dalli
 Redclaw, Queensland ............................ | Cherax quadricarinatus
 Rock Lobster .......................................... | Jasus and Panulirus spp.
 Rock Lobster, Ornate ............................. | Panulirus ornatus
@@ -203,12 +206,13 @@ Rock Lobster, Tropical .......................... | Panulirus spp. excluding P. 
 Rock Lobster, Western ........................... | Panulirus cygnus
 Yabbie, Common ................................... | Cherax destructor
 Yabbie, White ........................................ | Cherax albidus
-Molluscs
+## Division 4 — Molluscs
+[Heading inserted in Gazette 13 Nov 2007 p. 5693.]
 Common Name | Scientific Name
 CEPHALOPODS
+Cuttlefish ................................................ | Sub-class Coleoidea Order Sepioidea
 Squid ...................................................... | Sub-class Coleoidea Order Teuthoidea
 Octopus .................................................. | Sub-class Coleoidea Order Octopoda
-Cuttlefish ................................................ | Sub-class Coleoidea Order Sepioidea
 GASTROPODS
 Abalone (all species) .............................. | Haliotis spp.
 Abalone, Brownlip ................................. | Haliotis conicopora
@@ -221,16 +225,17 @@ BIVALVES
 Ark Shell ................................................ | Family Arcidae
 Clam, Venus ........................................... | Family Veneridae, Katelysia spp.
 Cockle .................................................... | Family Cardiidae
-Oyster ..................................................... | Family Ostreidae
 Mussel .................................................... | Family Mytilidae
 Mussel, Black Striped ............................ | Mytilopsis and Congeria spp.
 Mussel, Blue .......................................... | Mytilus edulis
+Oyster ..................................................... | Family Ostreidae
 Pipis ........................................................ | Family Donacidae
 Razorfish ................................................ | Family Pinnidae
 Scallop .................................................... | Family Pectinidae
-Other
+Division 5 — Other
+[Heading inserted in Gazette 13 Nov 2007 p. 5693.]
 Common Name | Scientific Name
-Sea Urchin .............................................. | Class Echinoidea
 Coral ....................................................... | Order Scleractinia
 Sea Cucumber (Beche-de-mer, Trepang) | Class Holothurioidae
-[Schedule 7 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 15 Jan 1999 p. 113; 23 Apr 1999 p. 1716; 4 Jun 1999 p. 2271; 21 Dec 1999 p. 6410; 13 Dec 2002 p. 5798; 1 Oct 2003 p. 4341-3; 30 Sep 2004 p. 4187; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9; 10 Nov 2006 p. 4710.]
+Sea Urchin .............................................. | Class Echinoidea
+[Schedule 7 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 15 Jan 1999 p. 113; 23 Apr 1999 p. 1716; 4 Jun 1999 p. 2271; 21 Dec 1999 p. 6410; 13 Dec 2002 p. 5798; 1 Oct 2003 p. 4341-3; 30 Sep 2004 p. 4187; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9; 10 Nov 2006 p. 4710; 13 Nov 2007 p. 5692-4.]

@@ -26,6 +26,9 @@ Cobia
 Cod, other than Potato, Estuary and Queensland Groper
 Crab, Blue Manna
 Crab, Brown Mud
+Crab, Champagne
+Crab, Crystal
+Crab, Giant
 Crab, Green Mud
 Cuttlefish
 Dolphinfish (Mahi Mahi)
@@ -69,4 +72,4 @@ Threadfin
 Trevally, Silver
 Category 4 fish
 Any species of fish not specified in this Schedule to be category 1 fish, category 2 fish or category 3 fish.
-[Schedule 4 amended in Gazette 1 Oct 2003 p. 4341 and 4344; 10 Nov 2006 p. 4709; 4 Sep 2007 p. 4520.]
+[Schedule 4 amended in Gazette 1 Oct 2003 p. 4341 and 4344; 10 Nov 2006 p. 4709; 4 Sep 2007 p. 4520; 13 Nov 2007 p. 5692.]
