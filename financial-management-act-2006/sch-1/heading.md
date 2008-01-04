@@ -32,13 +32,13 @@ Gaming and Wagering Commission of Western Australia
 Gascoyne Development Commission
 Gold Corporation
 Goldfields-Esperance Development Commission
-Government Employees’ Housing Authority
 Government Employees Superannuation Board
 Great Southern Development Commission
 Great Southern TAFE
 Heritage Council of Western Australia
 Agencies established under the Hospitals and Health Services Act 1927 section 7B
 Hospital boards constituted under the Hospitals and Health Services Act 1927 section 15 and the Minister in relation to any public hospital controlled by the Minister under section 7 of that Act
+Housing Authority
 Insurance Commission of Western Australia
 Keep Australia Beautiful Council (W.A.)
 Kimberley TAFE
@@ -94,7 +94,6 @@ The Eastern Goldfields Transport Board
 The Library Board of Western Australia
 The National Trust of Australia (W.A.)
 The Queen Elizabeth II Medical Centre Trust
-The State Housing Commission
 The University of Western Australia
 The Western Australian Museum
 Trustees of the Public Education Endowment
@@ -116,4 +115,4 @@ Western Australian Treasury Corporation
 Wheatbelt Development Commission
 WorkCover Western Australia Authority
 Zoological Parks Authority
-[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; amended in Gazette 13 Jul 2007 p. 3454.]
+[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29.]
