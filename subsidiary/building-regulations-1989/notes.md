@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 January 2008 of the Building Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Building Regulations 1989 | 28 Jul 1989 p. 2261-93 | 28 Jul 1989 (see r. 2)
@@ -31,12 +31,13 @@ Building Amendment Regulations 2004 | 13 Aug 2004 p. 3250-1 | 13 Aug 2004
 Building Amendment Regulations (No. 2) 2004 | 30 Dec 2004 p. 6949-50 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 4: The Building Regulations 1989 as at 11 Mar 2005 (includes amendments listed above)
 Building Amendment Regulations 2005 | 16 Dec 2005 p. 6078-9 | 16 Dec 2005
-Electricity Corporations (Consequential Amendments) Regulations 2006 r. 68 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
+Electricity Corporations (Consequential Amendments) Regulations 2006 r. 68 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
 Building Amendment Regulations 2007 | 4 May 2007 p. 1964-5 | 4 May 2007
 Building Amendment Regulations (No. 2) 2007 | 18 May 2007 p. 2256-7 | 18 May 2007
 Building Amendment Regulations (No. 3) 2007 | 21 Aug 2007 p. 4174-8 | r. 1 and 2: 21 Aug 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2007 (see r. 2(b))
 Building Amendment Regulations (No. 4) 2007 | 5 Oct 2007 p. 5327-8 | r. 1 and 2: 5 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Oct 2007 (see r. 2(b))
-Repealed on 1 July 1999 by No. 59 of 1997 s. 3 (Cwlth). Now see the Telecommunications Act 1997 (Cwlth).
+Reprint 5: The Building Regulations 1989 as at 4 Jan 2008 (includes amendments listed above)
+The Gas Corporation does not exist. The Act that established it was repealed by the Gas Corporation (Business Disposal) Act 1999 s. 93.
 The Building Amendment Regulations (No. 2) 2001 r. 7 reads as follows:
 “
 7.Transitional
