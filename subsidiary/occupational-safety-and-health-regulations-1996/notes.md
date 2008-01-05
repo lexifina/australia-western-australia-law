@@ -52,6 +52,7 @@ Occupational Safety and Health Amendment Regulations (No. 5) 2007 | 15 Jun 2007 
 Occupational Safety and Health Amendment Regulations 2007 | 3 Jul 2007 p. 3293-4 | 3 Jul 2007
 Occupational Safety and Health Amendment Regulations (No. 3) 2007 | 24 Aug 2007 p. 4255-314 | r. 1 and 2: 24 Aug 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2007 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 4) 2007 | 2 Oct 2007 p. 4978-85 | r. 1 and 2: 2 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jan 2008 (see r. 2(b))
+Occupational Safety and Health Amendment Regulations (No. 9) 2007 | 4 Jan 2008 p. 15-16 | r. 1 and 2: 4 Jan 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jan 2008 (see r. 2(b))
 Repealed by the Health (Smoking in Enclosed Public Places) Regulations 2003.
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
 The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
