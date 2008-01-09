@@ -4,3 +4,4 @@ Compilation table
 Citation | Gazettal | Commencement
 Chiropractors Regulations 2007 | 15 May 2007 p. 2111-22 | r. 1 and 2: 15 May 2007 Regulations other than r. 1 and 2: 1 Aug 2007 (see r. 2 and Gazette 31 Jul 2007 p. 3789)
 Chiropractors Amendment Regulations 2007 | 31 Jul 2007 p. 3792-3 | r. 1 and 2: 31 Jul 2007 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Aug 2007 (see r. 2(b))
+Chiropractors Amendment Regulations (No. 2) 2007 | 8 Jan 2008 | r. 1 and 2: 8 Jan 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jan 2008 (see r. 2(b))
