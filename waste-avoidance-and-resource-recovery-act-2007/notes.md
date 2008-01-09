@@ -2,53 +2,13 @@ Notes
 This is a compilation of the Waste Avoidance and Resource Recovery Act 2007. The following table contains information about that Act.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Waste Avoidance and Resource Recovery Act 2007 s. 1 and 2 | 36 of 2007 | 21 Dec 2007 | 21 Dec 2007 (see s. 2(a))
+Waste Avoidance and Resource Recovery Act 2007 | 36 of 2007 | 21 Dec 2007 | s. 1 and 2: 21 Dec 2007 (see s. 2(a)); s. 3, 100 (Sch. 4 cl. 2(1), (2) and (4) and 5) and 101 (Sch. 5 cl. 1, 7 and 8): 9 Jan 2008 (see s. 2(b) and Gazette 8 Jan 2008 p. 33)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Waste Avoidance and Resource Recovery Act 2007 s. 3-7, Pt. 2-9, Sch. 1-5 | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 s. 3-7, Pt. 2-9, Sch. 1-5 had not come into operation. They read as follows:
+Waste Avoidance and Resource Recovery Act 2007 s. 4-7, Pt. 2-8, s. 91-99, Sch. 1-3, Sch. 4 cl. 1, 2(3) and (5), 3, 4 and Sch. 5 cl. 2-6 | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 s. 4-7, Pt. 2-8, s. 91-99, Sch. 1-3, Sch. 4 cl. 1, 2(3) and (5), 3, 4 and Sch. 5 cl. 2-6 had not come into operation. They read as follows:
 “
-3.Meaning of terms used in this Act
-(1) In this Act unless the contrary intention appears —
-“approved product stewardship plan” means a product stewardship plan registered under section 45(3);
-“business plan” means a business plan approved under section 39;
-“CEO” means chief executive officer of the department of the Public Service principally assisting in the administration of this Act;
-“district” means an area that has been declared to be a district under the Local Government Act 1995, and any place outside the boundaries of the district which is under the control of the local government for the district;
-“entity” means any person or body, including a public authority;
-“EP Act” means the Environmental Protection Act 1986;
-“EP authorisation” means a licence, permit or approval granted under the EP Act;
-“Executive Director, Public Health” has the meaning given in the Health Act 1911 section 3(1);
-“extended producer responsibility scheme” means a scheme for giving effect to a policy in which the producer’s responsibility for a product (including physical or financial responsibility) is extended to the post-consumer stage of the product’s life-cycle;
-“inspector” means an inspector appointed under the EP Act section 88 for the purposes of this Act and includes the CEO;
-“levy” means a levy imposed under the Waste Avoidance and Resource Recovery Levy Act 2007;
-“local government” includes a regional local government established for the purpose of providing waste services;
-“local government waste” means —
-(a)waste from residential sources; and
-(b)any other waste of a kind prescribed by the regulations for the purposes of this paragraph,
-but does not include sewage or waste of a kind prescribed by the regulations as excluded for the purposes of this definition;
-“member” means a member of the Waste Authority appointed under section 11(1);
-“producer” of a product includes a manufacturer, importer, supplier or distributor, of the product in this State or an entity having a proprietary interest in the name under which the product is manufactured, imported, supplied or distributed in this State;
-“product stewardship plan” means a plan in which the producers of a product —
-(a)share responsibility with governments and consumers for the environmental impact of the product throughout its use, including end of use management; and
-(b)seek to reduce the adverse environmental impact of the product;
-“public authority” means —
-(a)an agency or organisation as those terms are defined in the Public Sector Management Act 1994; or
-(b)a body, corporate or unincorporate, that is established or continued for a public purpose by the State, regardless of the way it is established; or
-(c)a local government;
-“WARR Account” means the Waste Avoidance and Resource Recovery Account established by section 79;
-“waste” includes matter —
-(a)whether liquid, solid, gaseous or radioactive and whether useful or useless, which is discharged into the environment; or
-(b)prescribed by the regulations to be waste;
-“Waste Authority” means the Waste Authority established by section 8;
-“waste collection permit” has the meaning given by section 56(1);
-“waste facility” means premises used for the storage, treatment, processing, sorting, recycling or disposal of waste;
-“waste service” means —
-(a)the collection, transport, storage, treatment, processing, sorting, recycling or disposal of waste; or
-(b)the provision of receptacles for the temporary deposit of waste; or
-(c)the provision and management of waste facilities, machinery for the disposal of waste and processes for dealing with waste;
-“waste strategy” means the waste strategy approved and in force under Part 4 Division 1.
-(2) If a term has a meaning in the EP Act, it has the same meaning in this Act unless the contrary intention appears in this Act.
 4.State bound
 This Act binds the State and, so far as the legislative power of Parliament permits, the Crown in all its other capacities.
 5.Objects of this Act
@@ -765,10 +725,6 @@ the Minister must transmit a copy of the document to the Clerk of that House.
 (a) the fifth anniversary of its commencement; and
 (b) the expiry of each 5 yearly interval after that anniversary.
 (2) The Minister must prepare a report based on the review and, as soon as practicable after the report is prepared (and in any event not more than 12 months after the relevant anniversary), cause it to be laid before each House of Parliament.
-100.Consequential amendments
-Each Act specified in Schedule 4 is amended as set out in that Schedule.
-101.Transitional and savings provisions
-Schedule 5 sets out transitional and savings provisions.
 Schedule 1 — Constitution and proceedings of the Waste Authority
 [s. 14]
 Division 1 — General provisions
@@ -918,10 +874,7 @@ Schedule 4 — Amendments and repeals
 The Waste Authority established under the Waste Avoidance and Resource Recovery Act 2007.
 ”.
 2.Environmental Protection Act 1986 amended
-(1) The amendments in this clause are to the Environmental Protection Act 1986.
-(2) Section 3(1) is amended by deleting the definition of “Waste Management (WA)”.
 (3) Part VIIA is repealed.
-(4) Part VIIB is repealed.
 (5) Schedule 2 item 33 is amended by inserting after “controlling the” —
 “ collection, ”.
 3.Environmental Protection (Landfill) Levy Act 1998 repealed
@@ -938,43 +891,8 @@ The Environmental Protection (Landfill) Levy Act 1998 is repealed.
 (a) by deleting “112A(1)(b) and (3)(b),”;
 (b) by deleting “(30),”.
 (8) Schedule 5 is amended by deleting “112A(4),”.
-5.Public Works Act 1902 amended
-(1) The amendment in this clause is to the Public Works Act 1902.
-(2) After section 111 the following Part is inserted —
-“
-Part VIA — Miscellaneous
-112.Waste management operations at Mt Walton
-(1) In this section —
-“waste” has the meaning given by the Waste Avoidance and Resource Recovery Act 2007;
-“waste management operation” means an operation for the collection, transport, receipt, storage, treatment or disposal of waste, or for 2 or more of those activities.
-(2) Subject to the Waste Avoidance and Resource Recovery Act 2007, the Environmental Protection Act 1986 and any other written law relating to the treatment and disposal of waste, the Minister may, but is not obliged to —
-(a) carry on waste management operations at or in relation to the intractable waste disposal facility operated at Mt Walton East, Shire of Coolgardie; and
-(b) do all things necessary or convenient to be done for or in connection with the performance of functions under paragraph (a).
-(3) Without limiting subsection (2), the Minister may, for the purpose of performing any function under this section —
-(a) enter into any contract or arrangement, including a contract or arrangement with any person for —
-(i) the performance of the function by that person on behalf of the Minister; or
-(ii) the supply of equipment or services;
-and
-(b) charge for the use of services or facilities.
-113.Delegation of powers and duties under section 112
-(1) In this section —
-“public authority” means —
-(a)a Minister of the State;
-(b)an agency, authority or instrumentality of the State; or
-(c)a local government; or
-(d)a body, whether corporate or unincorporate, that is established or continued for a public purpose under a written law.
-(2) Without limiting sections 5A and 5B, the Minister may delegate any power or duty of the Minister under section 112 to —
-(a) a public authority or an officer or employee of a public authority; or
-(b) any other person.
-(3) Notice of the delegation is to be published in the Gazette.
-(4) A person exercising or performing a power or duty that has been delegated to the person under this section is taken to do so in accordance with the terms of the delegation unless the contrary is shown.
-(5) Nothing in this section limits the ability of the Minister to perform a function through an officer or agent.
-”.
 Schedule 5 — Savings and transitional provisions
 [s. 101]
-1.Terms used in this Schedule
-In this Schedule —
-“commencement day” means the day on which section 101 comes into operation.
 2.Application of the Interpretation Act 1984
 (1) The provisions of the Interpretation Act 1984 (for example sections 36 and 38) about the repeal of written laws and the substitution of other written laws for those so repealed apply to the repeal of the Environmental Protection (Landfill) Levy Act 1998 and its substitution by the Waste Avoidance and Resource Recovery Levy Act 2007 as if the repeal and substitution were effected under this Act.
 (2) The other provisions of this Schedule are additional to the provisions applied by subclause (1).
@@ -994,39 +912,3 @@ The regulations made for the purposes of the Environmental Protection Act 1986 P
 (b) for the purposes set out in section 80,
 and the former account is then to be closed.
 (3) The WARR Account is to be credited with any moneys that became payable to the former fund before the commencement day and that is paid after that day.
-7.Waste Management (WA): devolution of assets and liabilities
-(1) In this clause —
-“assets” means —
-(a)property of every kind whether tangible or intangible, real or personal, corporeal or incorporeal; and
-(b)without limiting paragraph (a) includes choses in action, goodwill, rights, interests and claims of every kind in or to property, whether arising from, accruing under, created or evidenced by or the subject of, an instrument or otherwise and whether liquidated or unliquidated, actual, contingent or prospective;
-“liability” means any liability, duty or obligation whether actual, contingent or prospective, liquidated or unliquidated, or whether owned alone or jointly or jointly and severally with any other person;
-“right” means any right, power, privilege or immunity whether actual, prospective or contingent;
-“Waste Management (WA)” means the body established under the EP Act section 110L.
-(2) On and after the commencement day —
-(a) the assets and rights of Waste Management (WA) that were immediately before that day vested in Waste Management (WA) vest in the State by force of this clause; and
-(b) the liabilities of Waste Management (WA) (including a share of a liability) immediately before that day become, by force of this clause, the liabilities of the State; and
-(c) any proceeding or remedy that immediately before that day might have been brought or continued by or available against or to Waste Management (WA), may be brought or continued and are available, by or against or to the State; and
-(d) all records and data of Waste Management (WA) pass to the State.
-(3) Any agreement or instrument subsisting immediately before the commencement day —
-(a) to which Waste Management (WA) was a party; or
-(b) which contains a reference to Waste Management (WA),
-has effect on and after the commencement day as if —
-(c) the State were substituted for Waste Management (WA) as a party to the agreement or instrument; and
-(d) any reference in the agreement or instrument to Waste Management (WA) were (unless the context otherwise requires) amended to be or include a reference to the State.
-8.Transitional regulations
-(1) If there is no sufficient provision in this Act for dealing with a transitional matter, regulations under this Act may prescribe all matters that are required or necessary or convenient to be prescribed for dealing with the matter.
-(2) In subclause (1) —
-“transitional matter” means a matter that needs to be dealt with for the purpose of —
-(a)effecting the transition from the provisions repealed by this Act to the provisions of this Act; or
-(b)effecting the transition from the provisions of an Act amended by a provision of this Act (the “amending provision”) as in force before the commencement day to the provisions of that Act as in force after the commencement day.
-(3) Regulations made under subclause (1) may provide that specified provisions of this Act as in force on or after the commencement day, or of subsidiary legislation made under this Act, or of an Act amended by this Act —
-(a) do not apply; or
-(b) apply with specified modifications,
-to or in relation to any matter.
-(4) If regulations made under subclause (1) provide that a specified state of affairs is to be taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations are published in the Gazette but not earlier than the commencement day, the regulations have effect according to their terms.
-(5) In subclauses (3) and (4) —
-“specified” means specified or described in the regulations.
-(6) If regulations contain a provision referred to in subclause (4), the provision does not operate so as to —
-(a) affect in a manner prejudicial to any person (other than the State, an authority of the State or a local government), the rights of that person existing before the day of publication of those regulations; or
-(b) impose liabilities on any person (other than the State, an authority of the State or a local government) in respect of anything done or omitted to be done before the day of publication of those regulations.
-”.
