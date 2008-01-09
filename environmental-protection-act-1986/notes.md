@@ -36,9 +36,11 @@ Reprint 5: The Environmental Protection Act 1986 as at 16 Sep 2005 (includes ame
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | cl. 2(1), (2) and (4): 9 Jan 2008 (see s. 2 and Gazette 8 Jan 2008 p. 33)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
+Waste Avoidance and Resource Recovery Act 2007 s. 100 (cl. 2(3) and (5)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Water Resources Legislation Amendment Act 2007 s. 194 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
@@ -110,4 +112,18 @@ a person nominated by the Minister (Water Resources)
 (c) in subsection (5) by deleting the definition of “Water and Rivers Commission” and inserting instead —
 “
 “Minister (Water Resources)” means the Minister administering the Water Agencies (Powers) Act 1984.
+”.
+On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 s. 100, which gives effect to Sch. 4 cl. 2(3) and (5) had not come into operation. They read as follows:
+“
+100.Consequential amendments
+Each Act specified in Schedule 4 is amended as set out in that Schedule.
+”.
+Schedule 4, cl. 2(3) and (5) read as follows:
+“
+Schedule 4 — Amendments and repeals
+[s. 100]
+2.Environmental Protection Act 1986 amended
+(3) Part VIIA is repealed.
+(5) Schedule 2 item 33 is amended by inserting after “controlling the” —
+“ collection, ”.
 ”.
