@@ -52,7 +52,7 @@ Statutes (Repeals and Minor Amendments) Act 1997 s. 78 | 57 of 1997 | 15 Dec 199
 Reprint of the Public Works Act 1902 as at 27 Aug 1999 (includes all amendments listed above)
 Gas Corporation (Business Disposal) Act 1999 s. 107 | 58 of 1999 | 24 Dec 1999 | 16 Dec 2000 (see s. 2(5) and Gazette 15 Dec 2000 p. 7201)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 14(13) and 35 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
-Reprint of the Public Works Act 1902 as at 1 Jun 2001 (includes amendments listed above)
+`Reprint of the Public Works Act 1902 as at 1 Jun 2001 (includes amendments listed above)
 Public Transport Authority Act 2003 s. 160-166 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 98 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
@@ -61,6 +61,7 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 10 Div. 5 | 28 o
 Reprint 9: The Public Works Act 1902 as at 6 Oct 2006 (includes amendments listed above)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | 9 Jan 2008 (see s. 2 and Gazette 8 Jan 2008 p. 33)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
