@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fire and Emergency Services (Superannuation Fund) Regulations 1986 and includes the amendments made by the other written laws referred to in the following table. The table also includes information about any reprint.
+This reprint is a compilation as at 11 January 2008 of the Fire and Emergency Services (Superannuation Fund) Regulations 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fire Brigades (Superannuation Fund) Regulations 1986 | 29 Oct 1986 p. 3991-4016 | 3 Nov 1986 (see r. 2 and Gazette 24 Oct 1986 p. 3938)
@@ -15,7 +15,7 @@ Fire Brigades (Superannuation Fund) Amendment Regulations 1994 | 29 Jun 1994 p. 
 Fire Brigades (Superannuation Fund) Amendment Regulations (No. 2) 1994 | 29 Jun 1994 p. 3206-28 | 1 Jul 1994 (see r. 2 and Gazette 29 June 1994 p. 3201)
 Reprint of the Fire Brigades (Superannuation Fund) Regulations 1986 as at 11 Oct 1994 (includes amendments listed above)
 Fire Brigades (Superannuation Fund) Amendment Regulations 1995 | 21 Nov 1995 p. 5356-9 | 21 Nov 1995
-Fire Brigades (Superannuation Fund) Amendment Regulations 1998 | 17 Apr 1998 p. 2097-104 (Correction 28 Apr 1998 p. 2177) | 17 Apr 1998
+Fire Brigades (Superannuation Fund) Amendment Regulations 1998 | 17 Apr 1998 p. 2097-104 (correction 28 Apr 1998 p. 2177) | 17 Apr 1998
 Fire Brigades (Superannuation Fund) Amendment Regulations (No. 2) 1998 | 22 Dec 1998 p. 6849-53 | 1 Jan 1999 (see r. 2 and Gazette 22 Dec 1998 p. 6833)
 Fire Brigades (Superannuation Fund) Amendment Regulations 1999 | 23 Jul 1999 p. 3385-95 | 23 Jul 1999
 Fire Brigades (Superannuation Fund) Amendment Regulations 2000 | 18 Aug 2000 p. 4782-90 | 18 Aug 2000
@@ -26,7 +26,8 @@ Fire Brigades (Superannuation Fund) Amendment Regulations 2003 | 2 May 2003 p. 1
 Fire and Emergency Services (Superannuation Fund) Amendment Regulations (No. 2) 2003 | 15 Jul 2003 p. 2831-2 | 15 July 2003
 Fire and Emergency Services (Superannuation Fund) Amendment Regulations 2004 | 29 Jun 2004 p. 2520-2 | 1 Jul 2004 (see r. 2)
 Fire and Emergency Services (Superannuation Fund) Amendment Regulations (No. 2) 2004 | 21 Jan 2005 p. 260-3 | 21 Jan 2005
-Footnote no longer applicable.
+Reprint 3: The Fire and Emergency Services (Superannuation Fund) Regulations 1986 as at 11 Jan 2008 (includes amendments listed above)
+Now known as the Fire and Emergency Services (Superannuation Fund) Regulations 1986; citation changed (see note under r. 1).
 The Fire Brigades (Superannuation Fund) Amendment Regulations 1988 r. 5 reads as follows:
 “
 5.Saving and transitional
@@ -35,4 +36,55 @@ The Fire Brigades (Superannuation Fund) Amendment Regulations 1988 r. 5 reads as
 “Public Service Commissioner” means the Public Service Commissioner within the meaning of the Public Service Act 1978; and
 “Senior Executive Service” means the Senior Executive Service within the meaning of the Public Service Act 1978.
 ”.
-Now known as the Fire and Emergency Services (Superannuation Fund) Regulations 1986; citation changed (see note under r. 1).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+accumulation account3(1)
+actuarial amount16(1)
+actuarial report3(1)
+associated employee12(4)
+benefit24
+Category A member3(1)
+Category B member3(1)
+Category C member3(1)
+child9(1)
+complying superannuation fund3(1), 21B(5)
+complying superannuation scheme3(1)
+effect42(4)
+employer16(1)
+employment12(4)
+FESA Act3(1)
+Fire Brigades Board employee10(2)
+GES member11(6)
+instalment benefit3(1)
+insurance16D(3)
+last election23C(3)
+maximum benefit3(1)
+maximum percentage3(1)
+member3(1)
+member’s notional defined benefit14A(4)
+nominator12C(1)
+non-C member3(1)
+normal rate of remuneration7(1)
+original salary7(3a)
+partial and permanent disablement benefit3(1)
+prescribed member41(1)
+preservation age3(1)
+previous superannuation fund3(1)
+relevant month3(1)
+salary day16(1), 40(5)
+satisfactory alternative employment23B(10)
+SIS Act3(1)
+SIS standards3(1)
+Superannuation Guarantee Charge3(1)
+supplementary disablement benefit3(1)
+temporary or casual employee3(1), 12A(3)
+the amount commuted22(1)
+the election day14A(4)
+the employer3(1)
+the member’s notional benefit14(1)(b)
+the original rate7(3)
+the relevant date8(1)
+the service percentage41(2)
+trustee corporation25(5)
+By Authority: JOHN A. STRIJK, Government Printer
