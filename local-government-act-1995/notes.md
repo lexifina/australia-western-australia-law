@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 18 January 2008 of the Local Government Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Local Government Act 1995 | 74 of 1995 | 9 Jan 1996 | 1 Jul 1996 (see s. 1.2)
@@ -25,23 +25,24 @@ Acts Amendment (Equality of Status) Act 2003 Pt. 38 | 28 of 2003 | 22 May 2003 |
 Statutes (Repeals and Minor Amendments) Act 2003 s. 79 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 2: The Local Government Act 1995 as at 2 Apr 2004 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001) (correction in Gazette 1 Oct 2004 p. 4283)
 Workers’ Compensation Reform Act 2004 s. 165 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
-Local Government Amendment Act 2004 s. 4-15, 16(4), 17, 18, 19(1), 21-37, 38(1) and (2) and 39-74 15-18 | 49 of 2004 | 12 Nov 2004 | s. 17, 30-37, 38(1) & (2) and 39-41: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); s. 10-15, 18, 21, 22, 42, 46(3), 47, 48, 53, 55-58, 61-64, 67, 68, 70, 71, 73 and 74: 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029); s. 4-9, 16(4), 19(1), 23-29, 43-45, 46(1), (2) and (4), 49-52, 54, 65, 66, 69 and 72: 7 May 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029 and 29 Apr 2005 p. 1771); Proclamation published 31 Mar 2005 p. 1029 revoked to the extent that the proclamation applies to s. 16(1), (2), (3) & (5) and s. 19(2) (see Gazette 29 Apr 2005 p. 1771); s. 59 and 60: 1 Jul 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
+Local Government Amendment Act 2004 s. 4-15, 16(4), 17, 18, 19(1), 21-37, 38(1) and (2) and 39-74 16-19 | 49 of 2004 | 12 Nov 2004 | s. 17, 30-37, 38(1) and (2) and 39-41: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); s. 10-15, 18, 21, 22, 42, 46(3), 47, 48, 53, 55-58, 61-64, 67, 68, 70, 71, 73 and 74: 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029); s. 4-9, 16(4), 19(1), 23-29, 43-45, 46(1), (2) and (4), 49-52, 54, 65, 66, 69 and 72: 7 May 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029 and 29 Apr 2005 p. 1771); Proclamation published 31 Mar 2005 p. 1029 revoked to the extent that the proclamation applies to s. 16(1), (2), (3) and (5) and s. 19(2) (see Gazette 29 Apr 2005 p. 1771); s. 59 and 60: 1 Jul 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
  | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 76 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 11 and s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
  | Reprint 3: The Local Government Act 1995 as at 5 Aug 2005 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001)
- | Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 14 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
+ | Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 14 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
  | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
  | Land Information Authority Act 2006 s. 144 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
  | Local Government Amendment Act 2006 | 66 of 2006 | 8 Dec 2006 | Act other than s. 14: 9 Dec 2006 (see s. 2(1)); s. 14: 6 Sep 2007 (see s. 2(2) and Gazette 21 Aug 2007 p. 4173)
- | Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
- | Local Government (Official Conduct) Amendment Act 2007 | 1 of 2007 | 28 Mar 2007 | 21 Oct 2007 (see s. 2 and Gazette 21 Aug 2007 p. 4173)
- | Local Government Amendment Act 2007 | 9 of 2007 | 25 Jun 2007 | s. 1 & 2: 25 Jun 2007; Act other than s. 1 & 2: 6 Sep 2007 (see s. 2 and Gazette 3 Aug 2007 p. 3989)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+ | Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+ | Local Government (Official Conduct) Amendment Act 2007 | 1 of 2007 | 28 Mar 2007 | s. 1 and 2: 28 Mar 2007; Act other than s. 1 and 2: 21 Oct 2007 (see s. 2 and Gazette 21 Aug 2007 p. 4173)
+ | Local Government Amendment Act 2007 | 9 of 2007 | 25 Jun 2007 | s. 1 and 2: 25 Jun 2007; Act other than s. 1 and 2: 6 Sep 2007 (see s. 2 and Gazette 3 Aug 2007 p. 3989)
+ | Reprint 4: The Local Government Act 1995 as at 18 Jan 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Local Government Amendment Act 2004 s. 16(1), (2), (3) and (5), 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
+ | Short title | Number and year | Assent | Commencement
+Local Government Amendment Act 2004 s. 16(1)-(3) and (5), 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 | 11 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2)
 Petroleum Amendment Act 2007 s. 99 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
@@ -57,6 +58,51 @@ continue to have effect so far as they relate to building surveyors and Part XV.
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be read and construed as if that reference were a reference to the Land Administration Act 1997.
+The provisions of the Local Government Act 1960 Pt. VIA as continued by Sch. 9.3 cl. 16 of this Act and amended by the Local Government (Amendment of Part VIA – Employee Superannuation) Regulations 2006 r. 4 and 5 (published in Gazette 26 May 2006 p. 1877-8) reads as follows:
+“
+Part VIA — Employee Superannuation
+170A.Interpretation
+(1) In this Part —
+“City of Perth scheme” means the superannuation scheme established under section 170C;
+“dependant” has the same definition as in section 10 of the SIS Act;
+“employee” and “employer” have the same definitions as in section 10 of the SIS Act;
+“industry scheme” means the WA Local Government Superannuation Plan (formerly called the W.A. Local Government Occupational Superannuation Fund) established by a trust deed dated 21 March 1990 and continued under a trust deed dated 4 November 2004;
+“municipality” includes a regional council;
+“SIS Act” means the Superannuation Industry (Supervision) Act 1993 (Cwlth) as amended from time to time.
+(2) A reference in this Part to the City of Perth scheme is a reference to the scheme as it is amended from time to time.
+(3) A reference in this Part to the industry scheme is a reference to the scheme as it is amended from time to time.
+[Section 170A amended in Gazette 26 May 2006 p. 1877.]
+170B.Municipalities to use industry scheme
+(1) To provide superannuation and other benefits for its employees and their dependants, a municipality shall participate in and comply with the industry scheme.
+(2) A municipality shall exercise such powers and discharge such obligations as are necessary to give effect to the industry scheme.
+(3) Subsections (1) and (2) do not apply in respect of an employee if under section 170D, or section 29 of the City of Perth Restructuring Act 1993, a municipality has to participate in and comply with the City of Perth scheme in respect of that employee.
+(4) Subsections (1) and (2) apply to the City of Perth only in respect of those of its employees who are not members of the City of Perth scheme.
+(5) If, in respect of an employee for any period —
+(a) there is a chosen fund for the employee throughout the period; and
+(b) the chosen fund is not the industry scheme; and
+(c) the municipality makes the minimum SG contributions for the employee for that period to the chosen fund,
+the amount that the municipality would, but for this subsection, be required under subsection (1) and the industry scheme trust deed to contribute to the industry scheme for that employee for that period is reduced by the amount of those minimum SG contributions made to the chosen fund.
+(6) In subsection (5) —
+(a) the following terms have the same meanings as they have in the Superannuation Guarantee (Administration) Act 1992 (Cwlth) —
+(i) chosen fund for the employer;
+(ii) individual superannuation guarantee shortfall;
+and
+(b) a reference to a municipality making the minimum SG contributions for an employee for a period is a reference to the municipality making the contributions necessary for it to avoid incurring an individual superannuation guarantee shortfall in respect of the employee in respect of that period.
+[Section 170B amended in Gazette 26 May 2006 p. 1878.]
+170C.City of Perth scheme
+(1) The City of Perth shall establish a scheme that accords with the SIS Act to provide superannuation and other benefits for its employees and their dependants and for those of its former employees (and their dependants) whose employers, by virtue of section 170D or section 29 of the City of Perth Restructuring Act 1993, are required to participate in and comply with the scheme.
+(2) The City of Perth shall participate in and comply with the City of Perth scheme.
+(3) The City of Perth shall exercise such powers and discharge such obligations as are necessary to give effect to the City of Perth scheme.
+(4) A person who becomes an employee of the City of Perth shall be a member of and subject to the City of Perth scheme unless he or she elects to be a member of the industry scheme.
+170D.City of Perth scheme members who become employed by a regional council
+(1) If a person —
+(a) is a member of the City of Perth scheme; and
+(b) becomes an employee of a regional council of which the City of Perth is a constituent municipality,
+then, despite section 170B, the regional council shall, in respect of that person, participate in and comply with the City of Perth scheme in the same way and to the same extent as the City of Perth would be required to if the person were its employee; unless the person elects to become a member of the industry scheme.
+(2) A person referred to in subsection (1) does not cease to be a member of the City of Perth scheme by reason only of ceasing to be an employee of the City of Perth.
+170E.Other superannuation schemes
+Nothing in this Part prevents a municipality from participating, in respect of an employee of the municipality, in a superannuation scheme in addition to either the industry scheme or the City of Perth scheme (as the case may be) if the municipality and the employee agree to participate in that other scheme.
+”.
 The Local Government Act 1995 is affected by the Dampier to Bunbury Pipeline Act 1997 Sch. 4 cl. 36 which reads as follows:
 “
 36.Payment in place of local government rates
@@ -216,8 +262,8 @@ The State Administrative Tribunal Regulations 2004 r. 56 reads as follows:
 (2) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.77 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.77.
 (3) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.78 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.78.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Local Government Amendment Act 2004 s. 16(1), (2), (3) and (5), 19(2), 20 and 38(3) had not come into operation. They read as follows:
+References to the Executive Director were replaced by references to the Departmental CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
+On the date as at which this reprint was prepared, the Local Government Amendment Act 2004 s. 16(1)-(3) and (5), 19(2), 20 and 38(3) had not come into operation. They read as follows:
 “
 Part 4 — Other amendments
 16.Amendments about special majority
@@ -251,7 +297,7 @@ or if, within that time, the member advises the CEO in writing that the member a
 and is not the holder of an office of member of a council other than an office the term of which will end on, or before, election day
 ”.
 ”.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
 Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
@@ -267,55 +313,7 @@ s. 9.8(1) s. 9.8(4) | In each provision delete “a Local Court” and insert in
 s. 9.8(3) | Delete “A Local Court” and insert instead — “ The Magistrates Court ”.
 ”.
 The amendments it seeks to make cannot be done due to amendments and repeals made by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 685, 700 and 705.
-The provisions of the Local Government Act 1960 Pt. VIA as continued by Sch. 9.3 cl. 16 of this Act and amended by the Local Government (Amendment of Part VIA – Employee Superannuation) Regulations 2006 r. 4 and 5 (published in Gazette 26 May 2006 p. 1877-8) reads as follows:
-“
-Part VIA — Employee Superannuation
-170A.Interpretation
-(1) In this Part —
-“City of Perth scheme” means the superannuation scheme established under section 170C;
-“dependant” has the same definition as in section 10 of the SIS Act;
-“employee” and “employer” have the same definitions as in section 10 of the SIS Act;
-“industry scheme” means the WA Local Government Superannuation Plan (formerly called the W.A. Local Government Occupational Superannuation Fund) established by a trust deed dated 21 March 1990 and continued under a trust deed dated 4 November 2004;
-“municipality” includes a regional council;
-“SIS Act” means the Superannuation Industry (Supervision) Act 1993 (Cwlth) as amended from time to time.
-(2) A reference in this Part to the City of Perth scheme is a reference to the scheme as it is amended from time to time.
-(3)A reference in this Part to the industry scheme is a reference to the scheme as it is amended from time to time.
-[Section 170A amended in Gazette 26 May 2006 p. 1877.]
-170B.Municipalities to use industry scheme
-(1) To provide superannuation and other benefits for its employees and their dependants, a municipality shall participate in and comply with the industry scheme.
-(2) A municipality shall exercise such powers and discharge such obligations as are necessary to give effect to the industry scheme.
-(3) Subsections (1) and (2) do not apply in respect of an employee if under section 170D, or section 29 of the City of Perth Restructuring Act 1993, a municipality has to participate in and comply with the City of Perth scheme in respect of that employee.
-(4) Subsections (1) and (2) apply to the City of Perth only in respect of those of its employees who are not members of the City of Perth scheme.
-(5) If, in respect of an employee for any period —
-(a) there is a chosen fund for the employee throughout the period; and
-(b) the chosen fund is not the industry scheme; and
-(c) the municipality makes the minimum SG contributions for the employee for that period to the chosen fund,
-the amount that the municipality would, but for this subsection, be required under subsection (1) and the industry scheme trust deed to contribute to the industry scheme for that employee for that period is reduced by the amount of those minimum SG contributions made to the chosen fund.
-(6) In subsection (5) —
-(a) the following terms have the same meanings as they have in the Superannuation Guarantee (Administration) Act 1992 (Cwlth) —
-(i) chosen fund for the employer;
-(ii) individual superannuation guarantee shortfall;
-and
-(b) a reference to a municipality making the minimum SG contributions for an employee for a period is a reference to the municipality making the contributions necessary for it to avoid incurring an individual superannuation guarantee shortfall in respect of the employee in respect of that period.
-[Section 170B amended in Gazette 26 May 2006 p. 1878.]
-170C.City of Perth scheme
-(1) The City of Perth shall establish a scheme that accords with the SIS Act to provide superannuation and other benefits for its employees and their dependants and for those of its former employees (and their dependants) whose employers, by virtue of section 170D or section 29 of the City of Perth Restructuring Act 1993, are required to participate in and comply with the scheme.
-(2) The City of Perth shall participate in and comply with the City of Perth scheme.
-(3) The City of Perth shall exercise such powers and discharge such obligations as are necessary to give effect to the City of Perth scheme.
-(4) A person who becomes an employee of the City of Perth shall be a member of and subject to the City of Perth scheme unless he or she elects to be a member of the industry scheme.
-170D.City of Perth scheme members who become employed by a regional council
-(1) If a person —
-(a) is a member of the City of Perth scheme; and
-(b) becomes an employee of a regional council of which the City of Perth is a constituent municipality,
-then, despite section 170B, the regional council shall, in respect of that person, participate in and comply with the City of Perth scheme in the same way and to the same extent as the City of Perth would be required to if the person were its employee; unless the person elects to become a member of the industry scheme.
-(2) A person referred to in subsection (1) does not cease to be a member of the City of Perth scheme by reason only of ceasing to be an employee of the City of Perth.
-170E.Other superannuation schemes
-Nothing in this Part prevents a municipality from participating, in respect of an employee of the municipality, in a superannuation scheme in addition to either the industry scheme or the City of Perth scheme (as the case may be) if the municipality and the employee agree to participate in that other scheme.
-”.
-References to the Executive Director were replaced by references to the Departmental CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
-Footnote no longer applicable.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 had not come into operation. It reads as follows:
 “
 13.Consequential amendment to the Local Government Act 1995 and transitional provision
 (1) The amendment in this section is to the Local Government Act 1995.
@@ -324,7 +322,7 @@ On the date as at which this compilation was prepared, the Local Government (Mis
 (a) continue in effect so far as they relate to building surveyors and Part XV of the Local Government (Miscellaneous Provisions) Act 1960; and
 (b) are to be taken to have been made under the Local Government Act 1995 section 9.59 for the purposes of the Local Government (Miscellaneous Provisions) Act 1960 section 373A and 374AAB inserted by section 5 and 7 of this Act.
 ”.
-On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 99 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Petroleum Amendment Act 2007 s. 99 had not come into operation. It reads as follows:
 “
 99.Local Government Act 1995 amended
 (1) The amendments in this section are to the Local Government Act 1995.
@@ -334,9 +332,7 @@ On the date as at which this compilation was prepared, the Petroleum Amendment A
 Petroleum and Geothermal Energy Resources Act 1967
 ”;
 (b) by deleting “petroleum production licence or a petroleum exploration permit” and inserting instead —
-“
-permit, drilling reservation, lease or licence
-”.
+“ permit, drilling reservation, lease or licence ”.
 (3) Section 6.27 is amended as follows:
 (a) in paragraph (c) —
 (i) by deleting “Petroleum Act 1967” and inserting instead —
@@ -344,9 +340,7 @@ permit, drilling reservation, lease or licence
 Petroleum and Geothermal Energy Resources Act 1967
 ”;
 (ii) by deleting “petroleum production licence or exploration permit,” and inserting instead —
-“
-permit, drilling reservation, lease or licence,
-”;
+“ permit, drilling reservation, lease or licence, ”;
 (b) by deleting “licence or permit” and inserting instead —
 “ permit, drilling reservation, lease or licence ”.
 (4) Section 6.29(1) is amended as follows:
@@ -359,3 +353,241 @@ permit, drilling reservation, lease or licence held under the Petroleum and Geot
 (5) Section 6.29(2) is amended by deleting “licence or permit” and inserting instead —
 “ permit, drilling reservation, lease or licence ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+75% majority1.4
+abandoned vehicle wreck3.40A(5)
+absent vote4.67(a)
+absolute majority1.4
+absolute majority required1.9
+acquire3.59(1)
+additional purpose6.8(1a)
+address5.74(1)
+Advisory Board1.4
+affected electorsSch. 2.1 cl. 1, Sch. 2.2 cl. 1
+affected local governmentSch. 2.1 cl. 1
+affected person9.2
+alleged offender3.38
+amending ActSch. 9.3 cl. 14A(1)
+amount misapplied8.35(3)
+an authorised person8.3(6)(a) and (b)
+annual budget6.1
+annual return5.74(1)
+approved auditor7.1
+arrangement5.49(1)
+audit committee7.1
+auditor1.4
+authorisation9.2
+authorised employee9.31
+authorised land officer9.69(1)
+authorised person8.1, 8.35(3), 9.13(1), 9.15
+Authority9.69(1)
+breach5.102A
+budget deficiency6.1
+campaign period5.123(3)
+candidate A4.81(4), Sch. 2.3 cl. 12(4)
+candidate B4.81(4), Sch. 2.3 cl. 12(4)
+CEO1.4
+certified copy9.31
+close of enrolments4.39(1)
+close of nominations4.49(a)
+commencement daySch. 9.3 cl. 1
+commissioner1.4
+committee5.1
+committee meeting5.98(7)
+complaints officer5.102A
+conditions5.44(5)
+continued transfer valueSch. 4.1 cl. 12(1)(b)
+continuing authoritySch. 9.3 cl. 1
+continuing candidateSch. 4.1 cl. 1(1)
+contravention that can lead to impounding3.38
+corporation5.74(1)
+council1.4
+councillor1.4
+councillor mayor or president1.4
+court3.26(5)
+Crown lands1.4
+Crown lease1.4
+Crown lessee1.4
+debt5.85(3)
+deceptive material4.88(4)
+decision5.125(2), 9.2
+Department1.4
+Departmental CEO1.4
+designated employee5.74(1), Sch. 9.3 cl. 1
+details4.52(3)
+detriment4.85(4)
+differential general rate6.1
+dispose3.58(1), 3.59(1)
+disposition of real property5.86(3)
+disqualified2.27(1)
+disqualified person7.1, 7.4(2)
+district1.4
+disused materialSch. 3.1 it. 5A(2)
+early vote4.67(b)
+election4.1, Sch. 2.3 cl. 10
+election day4.1
+election notice4.1, 4.64(2)
+election year1.4
+elector1.4
+elector mayor or president1.4
+Electoral Commissioner1.4
+electoral conduct4.85(4)
+Electoral Division4.1A(6)
+electoral material4.87(3)
+electoral officer4.1
+electoral requirements1.4, 4.1
+electoral roll4.1
+electors5.26
+eligible body5.49(1)
+employee1.4, 5.48(1), 5.70(1), 7.10(2)
+entitled person6.67(3)
+establishment agreement3.61(2)
+existing rollSch. 9.3 cl. 12(1)
+extent5.59
+extraordinary election1.4, 4.8(3)
+extraordinary vacancySch. 2.3 cl. 1 and 6
+financial year1.4
+first preference voteSch. 4.1 cl. 1(1)
+former districtSch. 9.3 cl. 1
+former municipalitySch. 9.3 cl. 1
+former provisions2.22(3), Sch. 9.3 cl. 1
+former section 3003.53(1)
+former valuationSch. 6.1 cl. 1(2)
+general funds6.21(4)
+general rate6.1
+gift5.82(4)
+goods3.38
+Government agreement6.25
+gross rental value6.25
+inaugural election1.4, 4.2(2)
+income5.80(4)
+inquiry8.1
+Inquiry Panel1.4
+interest5.60, 5.79(3), 5.84(2)
+interim valuation6.25
+invalidity complaint4.80(2), Sch. 2.3 cl. 11(2)
+judicial proceedings9.69(1)
+land transaction3.59(1)
+lease6.60(1)
+lessee6.60(1)
+lessor6.60(1)
+local government1.4, 9.15
+local government property1.4
+local public notice1.4
+long service benefit5.48(1)
+major land transaction3.59(1)
+major trading undertaking3.59(1)
+making3.12(8)
+meeting minutes9.37(2)
+member1.4, 5.59, Sch. 2.5 cl. 1, Sch. 5.1 cl. 1
+member of a parliament2.20(2)
+metropolitan area1.4
+minimum payment6.1
+minor breach5.102A
+municipal fund1.4
+new ordinary election day provisionsSch. 9.3 cl. 14A(1)
+new valuationSch. 6.1 cl. 1(2)
+nomination place4.47(2)(b)
+non-perishable goods3.38
+noticeSch. 2.1 cl. 1
+notice recipient3.26(2)
+notifiable gift5.62(2)
+occupier1.4
+official plan9.48(2)
+officially certified9.48(2)
+one office electionSch. 4.1 cl. 1(1)
+ordinary election1.4, 4.4(2)
+ordinary elections day1.4
+original valuationsSch. 6.1 cl. 2(2)
+other person5.9(1)
+otherwise unvested facility3.53(1)
+owner1.4, 9.13(1), 9.15
+parkSch. 9.1 cl. 1(1)
+parking facilitiesSch. 9.1 cl. 1(1)
+parking regionSch. 9.1 cl. 1(1)
+participants3.61(1)
+party5.102A
+person having an interest3.51(1)
+political party5.83(4)
+polling place4.1
+postal election4.61(1)
+power of sale6.68(1)
+power to borrow6.20(2)
+power to lease6.65
+prescribed1.4, 9.13(1), 9.15
+prescribed financial market5.84(2)
+primary return5.74(1)
+primary standards panel5.102A, 5.122(1)
+primary voteSch. 4.2 cl. 8
+print4.87(3), 4.88(4)
+private landSch. 9.1 cl. 7(1)
+private thoroughfareSch. 3.1 it. 14(2), Sch. 9.1 cl. 7(1)
+proceedings9.29(1)
+property3.58(1)
+proposalSch. 2.1 cl. 1
+public facility9.46(4)
+publish4.88(4), 5.90(2)
+qualified person7.1
+quotaSch. 4.1 cl. 1(1)
+rate9.40(3)
+rate record6.25
+recurrent breach5.102A
+regional purpose3.62(2)
+registered company auditor7.1
+regulations7.1
+relative5.74(1)
+relevant district2.45(2)
+relevant period4.88(4)
+relevant person5.59, 5.74(1)
+return5.74(1)
+return period5.74(1)
+reviewSch. 2.2 cl. 1
+reward4.85(4)
+rules of conduct5.102A
+senior employeeSch. 9.3 cl. 1
+serious breach5.102A
+serious local government offence2.22(3)
+service charge6.1, 6.42, 6.54, 6.63
+special majority required1.10
+specified3.38
+specified area rate6.1
+standSch. 9.1 cl. 1(1)
+standards panel5.102A
+start day5.74(1)
+Statewide public notice1.4
+statutory provision administered by the local government9.28(2)
+submissionSch. 2.2 cl. 1
+surplus fractionSch. 4.1 cl. 12(1)(a)
+surplus votesSch. 4.1 cl. 11(1)
+suspended order5.117(2)
+the authorised person8.3(6)(a)
+the districtsSch. 2.1 cl. 8(1)
+the election4.36(2)
+the electorate4.29(1), 4.30(1), Sch. 9.3 cl. 12(2)(a)
+the former sectionSch. 9.3 cl. 38(1)
+the officeSch. 2.3 cl. 1 and 6
+the proposal land5.60B(2)
+this Act4.1
+this Part4.1
+thoroughfare1.4
+tied candidatesSch. 4.1 cl. 8, Sch. 4.1 cl. 23
+total voteSch. 4.1 cl. 1(1)
+trading undertaking3.59(1)
+transfer valueSch. 4.1 cl. 11(1)(a)
+travel5.83(4)
+trust fund6.1
+unimproved value6.25
+unsightlySch. 3.1 it. 5(2)
+vacant land6.25
+value5.62(2)
+vehicle3.38
+vehicle offence9.13(1)
+voting in person election4.61(1)
+voting papers4.71(2)
+WALGA1.4
+ward1.4
+WCIM Act5.49(1)
+WorkCover WA5.49(1)
+By Authority: JOHN A. STRIJK, Government Printer
