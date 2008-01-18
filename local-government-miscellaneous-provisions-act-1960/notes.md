@@ -127,6 +127,7 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 3 and 4 | 11 of 2007 | 29 Jun 2007 | 25 Aug 2007 (see s. 2 and Gazette 24 Aug 2007 p. 4317)
+Local Government (Miscellaneous Provisions) Amendment (Smoke Alarms) Act 2007 | 34 of 2007 | 21 Dec 2007 | 18 Jan 2008
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
