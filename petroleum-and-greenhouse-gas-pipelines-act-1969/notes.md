@@ -28,7 +28,7 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | To be proclaimed (see s. 2)
 Petroleum Legislation Amendment and Repeal Act 2005 Pt. 3 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
-Petroleum Amendment Act 2007 s. 102 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
+Petroleum Amendment Act 2007 s. 102 | 35 of 2007 | 21 Dec 2007 | See
 The Acts Amendment (Petroleum) Act 1990 s. 122(2) reads as follows:
 “
 (2) A declaration made under —
@@ -278,7 +278,7 @@ purporting to be certified by the CEO to be a true copy as at any date or during
 ”.
 (2) After section 67(1b) the following subsection is inserted —
 “
-(1c) The regulations under this section may adopt or apply, with or without modification, any regulation made under the Petroleum Act 1967, the Petroleum (Submerged Lands) Act 1982 or the Commonwealth Act as defined in that Act, that is in force or existing at the time when the regulations under this section take effect or as in force or existing from time to time.
+(1c) The regulations under this section may adopt or apply, with or without modification, any regulation made under the Petroleum Act 1967 the Petroleum (Submerged Lands) Act 1982 or the Commonwealth Act as defined in that Act, that is in force or existing at the time when the regulations under this section take effect or as in force or existing from time to time.
 ”.
 31.Various sections amended to delete “or the regulations” (Interpretation Act 1984 s. 46)
 The provisions set out in the Table to this section are amended by deleting “or the regulations” in each case.
@@ -1338,10 +1338,4 @@ regulations made for the purposes of this subclause may declare that this Schedu
 “this Schedule” includes regulations made for the purposes of this Schedule.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 102 had not come into operation. It reads as follows:
-“
-102.Petroleum Pipelines Act 1969 amended
-(1) The amendments in this section are to the Petroleum Pipelines Act 1969.
-(2) Section 67(1c) is amended by deleting “Petroleum Act 1967,” and inserting instead —
-“ Petroleum and Geothermal Energy Resources Act 1967, ”.
-”.
+When the Petroleum Legislation Amendment and Repeal Act 2005 s. 30(2) commences and inserts the Petroleum Pipelines Act 1969 s. 67(1c) the new s. 67(1c) will be amended by the Petroleum Amendment Act 2007 s. 102 which was proclaimed to come into operation on 19 Jan 2008 (see s. 2(2) and Gazette 18 Jan 2008 p. 147) but can have no effect until the new s. 67(1c) is inserted.
