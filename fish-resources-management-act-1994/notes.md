@@ -24,12 +24,12 @@ Reprint 2: The Fish Resources Management Act 1994 as at 11 Mar 2005 (includes am
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Fish Resources Management Amendment Act 2007 | 28 of 2007 | 26 Oct 2007 | 26 Oct 2007 (see s. 2)
+Petroleum Amendment Act 2007 s. 94 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 4 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Petroleum Amendment Act 2007 s. 94 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 This Act is affected by the Fishing Industry Promotion Training and Management Levy Act 1994.
 The Fish Resources Management Amendment Act 2002 s. 8(2)-(4) reads as follows:
 “
@@ -108,11 +108,4 @@ or the Biosecurity and Agriculture Management Act 2007
 or the Biosecurity and Agriculture Management Act 2007
 ”.
 (8) Section 258(i) is deleted.
-”.
-On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 94 had not come into operation. It reads as follows:
-“
-94.Fish Resources Management Act 1994 amended
-(1) The amendments in this section are to the Fish Resources Management Act 1994.
-(2) Section 114 is amended by deleting “Petroleum Act 1967,” and inserting instead —
-“ Petroleum and Geothermal Energy Resources Act 1967, ”.
 ”.

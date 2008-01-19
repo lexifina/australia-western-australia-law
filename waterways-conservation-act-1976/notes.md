@@ -31,11 +31,11 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 3: The Waterways Conservation Act 1976 as at 6 Apr 2007 (includes amendments listed above except those in the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006)
+Petroleum Amendment Act 2007 s. 108 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Water Resources Legislation Amendment Act 2007 Pt. 8 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
-Petroleum Amendment Act 2007 s. 108 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Repealed by the Mining Act 1978.
 Repealed by the Petroleum (Submerged Lands) Act 1982.
@@ -172,197 +172,7 @@ The operation of any provision of this Part is not to be regarded —
 (e) as releasing or allowing the release of any surety.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The Water Resources Legislation Amendment Act 2007 Pt. 11 reads as follows:
-“
-Part 11 — Transitional provisions
-Division 1 — Interpretation
-202.Terms used in this Part
-In this Part —
-“assets” means property of any kind whether tangible or intangible, real or personal and, without limiting that meaning, includes —
-(a)any chose in action; and
-(b)goodwill; and
-(c)any right, interest or claim of any kind,
-whether arising from, accruing under, created or evidenced by or the subject of, an instrument or otherwise and whether liquidated or unliquidated, actual, contingent or prospective;
-“CEO” means the chief executive officer of the Department;
-“Commission” means the Water and Rivers Commission established by the Water and Rivers Commission Act 1995 section 4 and in existence before the repeal of that Act;
-“Department” means the department of the Public Service principally assisting in the administration of the Water Agencies (Powers) Act 1984;
-“former body” means the Commission or a former Management Authority;
-“former Management Authority” means a Management Authority constituted under the Waterways Conservation Act 1976 sections 10 and 14 as in force before the transfer time;
-“liability” means any liability, duty or obligation —
-(a)whether actual, contingent or prospective, liquidated or unliquidated; or
-(b)whether owed alone or jointly or jointly and severally with any other person;
-“management area” has the meaning given by the Waterways Conservation Act 1976 section 3(1);
-“Minister” means the Minister administering the Water Agencies (Powers) Act 1984;
-“Ministerial Body” means the Water Resources Ministerial Body established by the Water Agencies (Powers) Act 1984 section 11;
-“Minister for the Environment” means the Minister to whom the administration of the Environmental Protection Act 1986 is committed;
-“relevant successor” means —
-(a)the Minister in relation to a former body and a function of the former body that, after the transfer time, became a function of the Minister; and
-(b)the CEO in relation to a former body and a function of the former body that, after the transfer time, became a function of the CEO; and
-(c)the State in relation to assets and liabilities transferred to the State by section 205; and
-(d)the Ministerial Body in relation to assets and liabilities transferred to the Ministerial Body by section 205;
-“repealed Act” means the Water and Rivers Commission Act 1995;
-“right” means any right, power, privilege or immunity whether actual, contingent or prospective;
-“transfer order” means an order under section 204;
-“transfer time” means the time at which section 4 comes into operation.
-203.Interpretation Act 1984 not limited
-This Part does not limit the operation of the Interpretation Act 1984.
-Division 2 — Transfer of assets, liabilities, accounts, proceedings etc.
-204.Minister to make transfer orders
-(1) As soon as is practicable after this section comes into operation the Minister is to make and publish in the Gazette a transfer order that —
-(a) specifies which assets and liabilities of the Commission are to be assigned to the Ministerial Body by operation of section 205; and
-(b) specifies proceedings in which the Ministerial Body is to be substituted for the Commission as a party by operation of section 205; and
-(c) specifies any agreement or instrument that, by operation of section 205, is to have effect as if references to the State or the Ministerial Body were substituted, in accordance with the order, for references in it to the Commission; and
-(d) specifies land the care, control and management of which is to be placed with the Minister for the Environment by operation of section 206.
-(2) A transfer order may also deal with incidental or supplementary matters and has effect accordingly.
-(3) The transfer order may specify things by reference to schedules which —
-(a) need not be published in the Gazette; but
-(b) must be available for public inspection,
-and anything specified in a Schedule is to be taken to be specified in the order.
-(4) A thing may be specified in a transfer order by describing the class to which it belongs.
-(5) Before a transfer order is made specifying anything by reference to a Schedule, a copy of which will be required to be delivered to a relevant official under section 210, the Minister is to consult with the, or each, relevant official as to the form and content of the Schedule.
-(6) To the extent to which a Schedule to a transfer order relates to the functions of the Registrar of Titles, the Schedule is to be in a form that meets the requirements of the Registrar.
-(7) A thing done by, under or for the purposes of this Part is not invalid merely because subsection (5) or (6) was not complied with.
-(8) A transfer order can only be made before the transfer time.
-(9) The fact that a previous transfer order has been made does not prevent a further transfer order from being made.
-(10) A transfer order, or a Schedule to which it refers, may be amended by the Minister, by further order published in the Gazette, but no such amendment may be made after the transfer time.
-205.Transfer of assets and liabilities
-If a transfer order is made, then —
-(a) at the transfer time —
-(i) the assets of the Commission specified in the transfer order are, by operation of this section, assigned to the Ministerial Body; and
-(ii) the rest of the assets of the Commission are, by operation of this section, assigned to the State;
-and
-(b) at the transfer time —
-(i) the liabilities of the Commission specified in the transfer order are, by operation of this section, assigned to and become the liabilities of the Ministerial Body; and
-(ii) the rest of the liabilities of the Commission are, by operation of this section, assigned to and become the liabilities of the State;
-and
-(c) at the transfer time, the Ministerial Body is substituted for the Commission as a party to any proceedings specified in the transfer order and the State is substituted for the Commission as a party to all other proceedings in which the Commission was a party immediately before the transfer time; and
-(d) any agreement or instrument specified in the order has effect, by operation of this section, as if references to the State or the Ministerial Body were, at the transfer time, substituted, in accordance with the order, for references in it to the Commission; and
-(e) any proceedings or remedy that might have been commenced by, or available against or to, the Commission in relation to the assets and liabilities assigned by paragraphs (a) and (b) may be commenced by, or are available against or to —
-(i) the Ministerial Body, in the case of assets and liabilities assigned by paragraphs (a)(i) and (b)(i); and
-(ii) the State, in the case of assets and liabilities assigned by paragraphs (a)(ii) and (b)(ii);
-and
-(f) anything done or omitted to be done in relation to the assets and liabilities assigned by paragraphs (a) and (b) before the assignment, by, to or in respect of the Commission (to the extent that that thing has any effect) is to be taken to have been done or omitted by, to or in respect of —
-(i) the Ministerial Body, in the case of assets and liabilities assigned by paragraphs (a)(i) and (b)(i); and
-(ii) the State, in the case of assets and liabilities assigned by paragraphs (a)(ii) and (b)(ii).
-206.Transfer of care, control and management of reserved land
-(1) In this section —
-“Minister for the Environment” means the Minister administering the Environmental Protection Act 1986.
-(2) Land that, immediately before the transfer time, is under the care, control and management of the Commission under the Land Administration Act 1997 is to be regarded as if it had, at that time, been placed under the care, control and management of the Minister, under section 46 of that Act.
-(3) Land that, immediately before the transfer time, is under the care, control and management of the Commission under an enactment (other than the Land Administration Act 1997) is to be regarded as if it had, at that time, been placed under the care, control and management of the Minister, under that enactment as in force after the transfer time.
-(4) Subsections (2) and (3) do not apply to land specified in a transfer order under section 204(1)(d).
-(5) Land to which subsection (2) or (3) would apply but for subsection (4), is to be regarded as if it had, immediately before the transfer time, been placed under the care, control and management of the Minister for the Environment under the relevant enactment as in force after the transfer time.
-(6) Any conditions to which the care, control or management was subject immediately before the transfer time apply to the Minister or the Minister for the Environment (which ever is relevant) after the transfer time.
-207.The Water and Rivers Commission Account
-The balance, immediately before the transfer time, of the Water and Rivers Commission Account referred to in section 26 of the repealed Act is, at the transfer time, to be credited to an account established under the Financial Management Act 2006 section 16 for the Department.
-208.Commission to complete necessary transactions
-(1) If an asset or liability of the Commission cannot be properly assigned to the State or the Ministerial Body by the operation of this Division (whether because the matter is governed otherwise than by the law of the State or for any other reason) —
-(a) the Commission is to be taken to continue to hold that asset or be liable for that liability until it is effectively assigned to the State or the Ministerial Body in accordance with this Division; and
-(b) the Commission is to take all practicable steps for the purpose of ensuring that the asset or liability is effectively assigned to the State or the Ministerial Body in accordance with this Division.
-(2) The fact that subsection (1)(a) applies to an asset or liability that is assigned to the State or the Ministerial Body under this Division does not affect the duty of the accountable authority of the Department under the Financial Management Act 2006.
-(3) Despite the repeal of the repealed Act, the Commission continues in existence for the purpose of performing the functions described in subsection (1).
-(4) The Commission is to perform the functions referred to in subsection (3) through a person appointed by the Minister.
-(5) The person holds office at the pleasure of the Minister and on such terms and conditions as the Minister determines.
-(6) The Commission as continued by this section has the powers that are necessary or convenient for the purposes of this section.
-209.The Water Supply, Sewerage, and Drainage Act 1912
-(1) In this section —
-“the body corporate” means the body corporate constituted under the Water Supply, Sewerage, and Drainage Act 1912.
-(2) At the transfer time, the Ministerial Body becomes the successor of the body corporate.
-(3) Despite subsection (2), land that, immediately before the transfer time, is under the care, control and management (however described) of the body corporate —
-(a) under the Water Supply, Sewerage, and Drainage Act 1912 — is to be regarded as if it had, at that time, been placed under the care, control and management of the Minister, under the Land Administration Act 1997 section 46; and
-(b) under an enactment (other than the Water Supply, Sewerage, and Drainage Act 1912) — is to be regarded as if it had, at that time, been placed under the care, control and management of the Minister, under that enactment as in force after the transfer time.
-210.Registration of documents
-(1) In this section —
-“relevant official” means —
-(a)the Registrar of Titles; or
-(b)the Minister administering the Mining Act 1978; or
-(c)any other person authorised by a written law to record and give effect to the registration of documents relating to property transactions,
-according to which of them, if any, has responsibility for a register relating to the relevant property;
-“relevant property” means property of a kind affected by this Part, whether it is an estate or interest in land or any other property.
-(2) The relevant officials are to take notice of this Part and any transfer order, including a Schedule to which the order refers, and are to record and register in the appropriate manner the documents necessary to show the effect of this Part and the transfer order.
-(3) The Minister is to cause a copy of each transfer order and any Schedule to which it refers to be delivered to each relevant official.
-211.Exemption from State taxes
-(1) In this section —
-“State tax” includes stamp duty chargeable under the Stamp Act 1921 and any other tax under a written law.
-(2) State tax is not payable in relation to —
-(a) anything that occurs by the operation of this Part; or
-(b) anything done (including a transaction entered into or an instrument or document of any kind made, executed, lodged or given) under this Part, or to give effect to this Part, or for a purpose connected with or arising out of giving effect to this Part.
-(3) The Minister may certify in writing that —
-(a) a specified thing occurred by the operation of this Part; or
-(b) a specified thing was done under this Part, or to give effect to this Part, or for a purpose connected with or arising out of giving effect to this Part.
-(4) For all purposes and in all proceedings, a certificate under subsection (3) is sufficient evidence of the matters it certifies, except so far as the contrary is shown.
-212.Rectifying error in transfer order
-(1) The Minister may, by order published in the Gazette, make any provision that is necessary to correct any error in a transfer order or a Schedule to which a transfer order refers.
-(2) An order under this section may be made so as to have effect from the transfer time.
-(3) To the extent that a provision of an order under this section has effect before the day of its publication in the Gazette, section 205 does not, as a result of that provision, operate so as —
-(a) to affect, in a manner prejudicial to any person (other than the State, the Ministerial Body, or a Minister, officer or agency of the State), the rights of that person existing before the day of publication; or
-(b) to impose liabilities on any person (other than the State, the Ministerial Body, or a Minister, officer or agency of the State) in respect of anything done or omitted to be done before the day of publication.
-Division 3 — Staff etc.
-213.Transfer of staff
-(1) At the transfer time, the CEO becomes the employing authority, within the meaning of the Public Sector Management Act 1994, of each person for whom the board of the Commission was the employing authority under that Act immediately before the transfer time.
-(2) A person whose engagement under section 23(2) of the repealed Act is in force immediately before the transfer time becomes, at the transfer time, a person engaged by the CEO under the Water Agencies (Powers) Act 1984 section 107.
-214.Transfer of arrangements about use of other staff
-An arrangement between the Commission and an employer under the repealed Act section 24 that is in force immediately before the transfer time becomes, at the transfer time, an arrangement between the CEO and the employer.
-215.Employees’ rights preserved
-(1) Except as otherwise agreed by an employee, the operation of this Division does not —
-(a) affect the employee’s pay, as that term is defined in the Public Sector Management (Redeployment and Redundancy) Regulations 1994 regulation 3; or
-(b) affect the employee’s existing or accruing rights in respect of annual leave, long service leave, sick leave or any other leave, which are enforceable against the State; or
-(c) affect any rights under a superannuation scheme; or
-(d) interrupt the continuity of the employee’s service.
-(2) For the purposes of subsection (1)(d), the employee’s service with the Commission is to be taken to have been with the Department.
-216.Transfer of contracts for services
-A person engaged by the Commission under a contract for services (under the Public Sector Management Act 1994 section 100) that is in force immediately before the transfer time, is to be taken to have been engaged, at the transfer time, by the CEO under that section on the same terms and conditions, for the remainder of the duration of the contract.
-Division 4 — Committees of the Commission
-217.Transfer of members of committees of the Commission
-(1) The members of a committee of the board of the Commission (established under the repealed Act Schedule 1 clause 15) that was in existence immediately before the transfer time become, at the transfer time, the members of an equivalent committee that is to be taken, for all purposes, to have been established by the Minister under the Water Agencies (Powers) Act 1984 section 109.
-(2) A committee that is to be taken to have been established because of subsection (1) —
-(a) has the same name as that of the committee from which the members came; and
-(b) has the same functions (to the extent to which the functions are not inconsistent with the Water Agencies (Powers) Act 1984 section 109) as those of the committee from which the members came.
-Division 5 — Former Management Authorities under the Waterways Conservation Act 1976
-218.By-laws under the Waterways Conservation Act 1976
-By-laws made under the Waterways Conservation Act 1976 section 54 by a former Management Authority in relation to a management area and in force immediately before the transfer time become, at the transfer time, by-laws under that section (as in force after the transfer time) in relation to that management area, as if they had been made by the Minister administering the Waterways Conservation Act 1976.
-219.Proceedings in relation to a former Management Authority
-At the transfer time —
-(a) in relation to any proceedings by or against a former Management Authority commenced before the transfer time, the State is substituted for the Authority as a party to the proceedings; and
-(b) any proceedings or remedy that might have been commenced by, or available against or to, a former Management Authority in relation to anything done or omitted to be done by the Authority, may be commenced by, or are available against or to, the State.
-Division 6 — Continuing effect of things done
-220.Continuing effect of licences, directions, determinations, notices etc.
-(1) A licence, permit or permission (however described) granted under an enactment by a former body and in force immediately before the transfer time is to be taken, for all purposes, to have been granted, at the transfer time, by the relevant successor of the former body under that enactment (as in force after the transfer time).
-(2) A direction, determination or notice (however described) given under an enactment by a former body and in force immediately before the transfer time is to be taken, for all purposes, to have been given or made, at the transfer time, by the relevant successor of the former body under that enactment (as in force after the transfer time).
-221.Completion of things commenced
-Anything commenced to be done by a former body under a written law before the transfer time may be continued by the relevant successor of the former body so far as the doing of that thing is within the functions of the relevant successor after the transfer time.
-222.Continuing effect of things done generally
-Any act, matter or thing done or omitted to be done before the transfer time by, to or in respect of a former body, to the extent that that act, matter or thing —
-(a) has any force or significance after the transfer time; and
-(b) is not governed by another provision of this Part,
-is to be taken, after the transfer time, to have been done or omitted by, to or in respect of the relevant successor of the former body.
-223.Agreements and instruments generally
-(1) Any agreement or instrument (including subsidiary legislation) in force immediately before the transfer time —
-(a) to which a former body was a party; or
-(b) which contains a reference to a former body,
-has effect after the transfer time, to the extent to which the agreement or instrument relates to the functions of a relevant successor to the former body, as if —
-(c) the relevant successor were substituted for the former body as a party to the agreement or instrument; and
-(d) any reference in the agreement or instrument to the former body were (unless the context otherwise requires) amended to be or include a reference to the relevant successor.
-(2) This section does not apply to any agreement or instrument covered by another provision of this Part.
-Division 7 — General transitional provisions
-224.Confidentiality obligations to continue
-(1) Despite the repeal of the repealed Act section 34, the section continues to apply to a person to whom it applied immediately before the transfer time as if paragraph (a) of that section were amended by inserting “or under another written law” after “this Act”.
-(2) Subsection (1) only applies to the extent that another enactment about the use and disclosure of the information does not apply to the person and the information.
-225.Further transitional provision may be made
-(1) If there is not sufficient provision in this Part for any matter or thing necessary or convenient to give effect to the transition from a former body to a relevant successor, the regulations may make that provision.
-(2) The regulations may be made so as to have effect from the transfer time.
-(3) To the extent that a provision of the regulations has effect on a day that is earlier than the day of its publication in the Gazette, the provision does not operate so as —
-(a) to affect, in a manner prejudicial to any person (other than the State, the Ministerial Body or any other authority of the State), the rights of that person existing before the day of its publication; or
-(b) to impose liabilities on any person (other than the State, the Ministerial Body or any other authority of the State) in respect of anything done or omitted to be done before the day of publication.
-(4) The Governor may make regulations for the purposes of this section.
-(5) Regulations may not be made under this section after the end of the 24 months after the day on which this Act receives the Royal Assent.
-226.Saving
-The operation of any provision of this Part is not to be regarded —
-(a) as a breach of contract or confidence or otherwise as a civil wrong; or
-(b) as a breach of any contractual provision prohibiting, restricting or regulating the assignment or transfer of assets or liabilities or the disclosure of information; or
-(c) as giving rise to any remedy by a party to an instrument or as causing or permitting the termination of any instrument, because of a change in the beneficial or legal ownership of any asset or liability; or
-(d) as causing any contract or instrument to be void or otherwise unenforceable; or
-(e) as releasing or allowing the release of any surety.
-”.
+The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
 On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 Pt. 8 had not come into operation. It reads as follows:
 “
 Part 8 — Amendments to the Waterways Conservation Act 1976
@@ -818,11 +628,4 @@ s. 38(2)
 s. 46(3), (4), (5), (6), (7), (8),
 (9), (10) and (11)
 Note:The heading to section 32 will be altered by deleting “Commission” and inserting instead “Minister”.
-”.
-On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 108 had not come into operation. It reads as follows:
-“
-108.Waterways Conservation Act 1976 amended
-(1) The amendments in this section are to the Waterways Conservation Act 1976.
-(2) Section 5(4)(b) is amended by deleting “Petroleum Act 1967;” and inserting instead —
-“ Petroleum and Geothermal Energy Resources Act 1967; ”.
 ”.

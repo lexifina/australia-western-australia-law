@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum (Registration Fees) Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum and Geothermal Energy Resources (Registration Fees) Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum (Registration Fees) Act 1967 | 77 of 1967 | 11 Dec 1967 | 5 Sep 1969 (see s. 2 and Gazette 5 Sep 1969 p. 2540)
@@ -11,27 +11,14 @@ Reprint of the Petroleum (Registration Fees) Act 1967 as at 16 Jan 1992 (include
 Acts Amendment (Petroleum) Act 1994 Pt. 5 | 28 of 1994 | 29 Jun 1994 | 22 Jul 1994 (see s. 2 and Gazette 22 Jul 1994 p. 3728)
 Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 17 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
 Reprint 3: The Petroleum (Registration Fees) Act 1967 as at 19 Sep 2003 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Petroleum Amendment Act 2007 s. 103 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
+Petroleum Amendment Act 2007 s. 103 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 The Petroleum (Registration Fees) Amendment Act 1990 s. 6 reads as follows:
 “
 6.Application of principal Act
 The principal Act continues to apply in relation to transfers to which section 72 of the Petroleum Act 1967 continues to apply by virtue of the operation of section 56(3) of the Acts Amendment (Petroleum) Act 1990.
 ”.
-On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 103 had not come into operation. It reads as follows:
-“
-103.Petroleum (Registration Fees) Act 1967 amended
-(1) The amendments in this section are to the Petroleum (Registration Fees) Act 1967.
-(2) The long title is amended by deleting “Petroleum Act 1967.” and inserting instead —
-“
-Petroleum and Geothermal Energy Resources Act 1967.
-”.
-(3) Section 1 is amended after “Petroleum” by inserting —
-“ and Geothermal Energy Resources ”.
-(4) Section 3 is amended by deleting “Petroleum Act 1967” and inserting instead —
-“ Petroleum and Geothermal Energy Resources Act 1967 ”.
-(5) Section 4(2), (4)(a), (5), (6)(b) and (7)(a) are amended by deleting “Petroleum Act 1967” in each place where it occurs and inserting instead —
-“ Petroleum and Geothermal Energy Resources Act 1967 ”.
-”.
+Now known as the Petroleum and Geothermal Energy Resources (Registration Fees) Act 1967; short title changed (see note under s. 1)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+title4(1)
