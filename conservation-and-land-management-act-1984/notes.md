@@ -47,12 +47,12 @@ Reprint 6: The Conservation and Land Management Act 1984 as at 9 Jun 2006 (inclu
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1 16-18 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Petroleum Amendment Act 2007 s. 92 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 s. 51 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of the Offshore Minerals Act 2003 (see s. 2)
-Petroleum Amendment Act 2007 s. 92 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Water Resources Legislation Amendment Act 2007 s. 191 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
 The Land Act 1933 was repealed by section 281 of the Land Administration Act 1997.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
@@ -335,51 +335,7 @@ and, unless the contrary intention appears, other words and expressions in this 
 ”.
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
 The requirement to establish the Department of Conservation and Land Management was removed from the Act, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 453 of that Act is a general transitional provision that applies to references to the Department of Conservation and Land Management in written laws.
-On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 92 had not come into operation. It reads as follows:
-“
-92.Conservation and Land Management Act 1984 amended
-(1) The amendments in this section are to the Conservation and Land Management Act 1984.
-(2) Section 3 is amended in the definition of “Minister for Mines” by deleting “Petroleum Act 1967,” and inserting instead —
-“ Petroleum and Geothermal Energy Resources Act 1967, ”.
-(3) Section 4(1) is amended by deleting “Petroleum Act 1967,” and inserting instead —
-“ Petroleum and Geothermal Energy Resources Act 1967, ”.
-(4) Section 13A(3) is amended by deleting “petroleum under the Petroleum Act 1967 or” and inserting instead —
-“
-petroleum, geothermal energy resources or geothermal energy under the Petroleum and Geothermal Energy Resources Act 1967 or petroleum under
-”.
-(5) Section 13B(9) is amended by deleting “petroleum under the Petroleum Act 1967 or” and inserting instead —
-“
-petroleum, geothermal energy resources or geothermal energy under the Petroleum and Geothermal Energy Resources Act 1967 or petroleum under
-”.
-(6) Before section 13C(1) the following subsection is inserted —
-“
-(1aa) In this section —
-“geothermal energy” and “geothermal energy resources” have the same meanings as they have in the Petroleum and Geothermal Energy Resources Act 1967.
-”.
-(7) Section 13C(2) is amended in the definition of “commercial purposes” as follows:
-(a) in paragraph (c) by deleting “petroleum;” and inserting instead —
-“ petroleum or geothermal energy resources; ”;
-(b) in paragraph (d) by deleting “petroleum,” and inserting instead —
-“ petroleum or geothermal energy, ”.
-(8) Section 13C(7) is amended as follows:
-(a) in paragraph (a) by deleting “Petroleum Act 1967” and inserting instead —
-“
-Petroleum and Geothermal Energy Resources Act 1967
-”;
-(b) after paragraph (a) by inserting —
-“
-(ab) exploratory drilling for geothermal energy resources and recovery of geothermal energy under the Petroleum and Geothermal Energy Resources Act 1967;
-”.
-(9) Section 13E(1) is amended in the definitions of “drilling reservation” and “petroleum law” by deleting “Petroleum Act 1967” and inserting instead —
-“ Petroleum and Geothermal Energy Resources Act 1967 ”.
-(10) Section 60(2b) is amended as follows:
-(a) after “or petroleum” by inserting —
-“ or geothermal energy ”;
-(b) by deleting “Petroleum Act 1967,” and inserting instead —
-“
-Petroleum and Geothermal Energy Resources Act 1967,
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 s. 191 had not come into operation. It reads as follows:
 “
 191.Conservation and Land Management Act 1984 amended

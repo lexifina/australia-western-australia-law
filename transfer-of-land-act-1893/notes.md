@@ -66,11 +66,11 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Land Information Authority Act 2006 s. 103-118 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 8: The Transfer of Land Act 1893 as at 15 Jun 2007 (includes amendments listed above)
+Petroleum Amendment Act 2007 s. 106 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
-Petroleum Amendment Act 2007 s. 106 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
 The Transfer of Land Amendment Act 1996 s. 6(2) reads as follows:
@@ -172,22 +172,4 @@ and the proprietors of the freehold in the land (the “proprietors”) wish to 
 57.Section 167 amended
 Section 167 is amended by deleting “or 166A” and inserting instead —
 “ , 166A or 166C ”.
-”.
-On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 106 had not come into operation. It reads as follows:
-“
-106.Transfer of Land Act 1893 amended
-(1) The amendments in this section are to the Transfer of Land Act 1893.
-(2) Section 3(2) is amended as follows:
-(a) in paragraph (a) by deleting “or petroleum;” and inserting instead —
-“
-, petroleum, geothermal energy or geothermal energy resources;
-”;
-(b) in paragraph (b) by deleting “or petroleum” and inserting instead —
-“ , petroleum or geothermal energy ”.
-(3) Section 3(3) is repealed and the following subsection is inserted instead —
-“
-(3) In subsection (2) —
-“geothermal energy” and “geothermal energy resources” have the same meanings as they have in the Petroleum and Geothermal Energy Resources Act 1967;
-“mining, petroleum or geothermal energy rights” has the same meaning as it has in the Land Administration Act 1997.
-”.
 ”.

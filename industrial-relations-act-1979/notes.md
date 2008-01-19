@@ -67,14 +67,14 @@ Labour Relations Legislation Amendment Act 2006 Pt. 3-5 and 8 | 36 of 2006 | 4 J
 Reprint 11: The Industrial Relations Act 1979 as at 3 Nov 2006 (includes amendments listed above except those in the Petroleum Legislation Amendment and Repeal Act 2005)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Petroleum Amendment Act 2007 s. 97 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Vocational Education and Training Act 1996 s. 62 | 42 of 1996 | 16 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
-Petroleum Amendment Act 2007 s. 97 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
 The Labour Relations Reform Act 2002 s. 112, 113(6), 117(2) and (3), 138(2), 140(2), 141(2), 146(2), 152(2), 155(2) and (3), 186(2)-(4) and Sch. 1 read as follows:
@@ -139,7 +139,7 @@ under 16 years | 40%
 (2) The minimum weekly rate of pay for an apprentice or trainee in relation to whom a workplace agreement or an employer-employee agreement is in force is the rate of pay that is provided for under an award that would, if the workplace agreement or employer-employee agreement were not in force, apply to that apprentice or trainee.
 ”.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 “
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
@@ -180,7 +180,7 @@ remains of effect until a State Wage order takes effect.
 (4) A date specified under subsection (3)(b) must not be a date that is earlier than the day on which the order is made.
 (5) Despite section 50A(1)(b), the Commission must not adjust rates of wages paid under awards in a State Wage order made in relation to the period ending 30 June 2007 if, during 2006 and before that State Wage order is made, the Commission has made a General Order under section 50 of the Industrial Relations Act 1979 adjusting rates of wages paid under awards generally.
 ”.
-On the date as at which this reprint was prepared, the Vocational Education and Training Act 1996 s. 62, which gives effect to Sch. 2, had not come into operation. Section 62 and Sch. 2 read as follows:
+On the date as at which this compilation was prepared, the Vocational Education and Training Act 1996 s. 62, which gives effect to Sch. 2, had not come into operation. Section 62 and Sch. 2 read as follows:
 “
 62. Consequential amendments and transitional provisions relating to this Part
 Schedule 2 has effect —
@@ -220,7 +220,7 @@ and
 (3) Any regulations made under the repealed Act and in operation immediately before the commencement of section 61 which were applicable to, or in respect of, an apprenticeship or industrial training agreement referred to in subclause (2) are to continue to apply to such an agreement, until regulations are made under this Act in respect of the matters covered by those regulations.
 (4) Regulations may be made, with effect from a time which is not earlier than the commencement of section 61, amending or supplementing the transitional provisions set out in subclauses (2) and (3) for the purpose of providing an effective and efficient transition from the provisions of the repealed Act to the provisions of this Act.
 ”.
-On the date as at which this reprint was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2a) and 4(a) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2a) and 4(a) had not come into operation. It reads as follows:
 “
 49.Industrial Relations Act 1979 amended
 (2) Section 7(3) is amended as follows:
@@ -245,15 +245,4 @@ Schedule 3 — Consequential amendments
 and
 (III) the Owner-Drivers (Contracts and Disputes) Act 2007;
 ”.
-”.
-On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 97 had not come into operation. It reads as follows:
-“
-97.Industrial Relations Act 1979 amended
-(1) The amendments in this section are to the Industrial Relations Act 1979.
-(2) Section 7(3)(c) is amended by deleting “Petroleum Act 1967,” and inserting instead —
-“ Petroleum and Geothermal Energy Resources Act 1967, ”.
-(3) Section 8(2a)(b) is amended by deleting “Petroleum Act 1967,” and inserting instead —
-“ Petroleum and Geothermal Energy Resources Act 1967, ”.
-(4) Section 113(1)(d)(ii)(III) is amended by deleting “Petroleum Act 1967;” and inserting instead —
-“ Petroleum and Geothermal Energy Resources Act 1967; ”.
 ”.
