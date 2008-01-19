@@ -67,6 +67,7 @@ State Superannuation Amendment Regulations 2004 r.13 | 25 Jun 2004 p. 2228-33 | 
 State Superannuation Amendment Regulations 2006 Pt. 4 | 26 May 2006 p. 1915-33 | 26 May 2006
 Financial Legislation Amendment and Repeal Act 2006 s. 5(1) | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 State Superannuation Amendment Regulations 2007 Pt. 3 | 13 Apr 2007 p. 1577-613 | 13 Apr 2007 (see r. 2)
+State Superannuation Amendment Regulations 2008 Pt. 3 published in Gazette 18 Jan 2008 p. 149-56 | 19 Jan 2008 (see r. 2(b))
 N.B.The Superannuation and Family Benefits Act 1938 is affected by section 15 of the District Court of Western Australia Act 1969 (No. 84 of 1969).
 Repealed by the Miscellaneous Repeals Act 1991 (No. 10 of 1991).
 Reference amended under section 7(5)(a) of the Reprints Act 1984 to give effect to section 5(2) of the Water Authority Act 1984 (No. 3 of 1984).
