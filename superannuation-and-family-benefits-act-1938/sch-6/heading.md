@@ -5,7 +5,7 @@ Column 1 | Column 2 | Column 3 | Column 4
 ItemEligible person No. | Rate of pension or benefit | Commencement of pension | Termination of pension
 1.Widow or widower of former contributor who died after his or her retirement, if their marriage took place prior to retirement. | /3 of the pension that would at the relevant time, have been payable to the former contributor if he or she — (a)had not died; and | As from day after former contributor’s death. | (a) deleted (b) On death of widow or widower.
  | (b)had not commuted any of the Fund share of his or her pension that he or she in fact commuted.
-2.Widow or widower of former contributor if — (a)the marriage took place after retirement; and (b)the former contributor died after his or her retirement; and (c)either — (i)the former contributor died before the State Superannuation Amendment Regulations (No. 3) 2006 came into operation; or (ii)the former contributor died after the State Superannuation Amendment Regulations (No. 3) 2006 came into operation and either — (I)the marriage took place not less than 5 years before the former contributor died; or (II)at the time the former contributor died there was at least one child of the former contributor and the widow or widower who was wholly or substantially dependent on them. | As in item 1. | (a)As from day after former contributor’s death if widow or widower then aged 55 or more. | On death of widow or widower.
+2.Widow or widower of former contributor if — (a)the marriage took place after retirement; and (b)the former contributor died after his or her retirement; and (c)either — (i)the former contributor died before the State Superannuation Amendment Regulations 2007 came into operation; or (ii)the former contributor died after the State Superannuation Amendment Regulations 2007 came into operation and either — (I)the marriage took place not less than 5 years before the former contributor died; or (II)at the time the former contributor died there was at least one child of the former contributor and the widow or widower who was wholly or substantially dependent on them. | As in item 1. | (a)As from day after former contributor’s death if widow or widower then aged 55 or more. | On death of widow or widower.
  |  | (b)If widow or widower is aged less than 55 on day of former contributor’s death and he or she was aged less than 65 on day of their marriage —
  |  | (i)as from day she or he attains age of 55; or
  |  | (ii)as from day after former contributor’s death if Board satisfied that the marriage was of a bona fide nature.
@@ -19,6 +19,7 @@ ItemEligible person No. | Rate of pension or benefit | Commencement of pension |
  | OR
  | (b)If widow or widower so elects in writing to Board within 3 months of former contributor’s death, a lump sum refund of contributions paid by contributor plus compound interest thereon at rate determined by Board, in lieu of (a).
 [4, 5 deleted]
+[Part 1 amended in Gazette 18 Jan 2008 p. 156.]
 Part II — Children’s allowances
 Eligibility and Rate of Benefit, etc.
 Item 1:
