@@ -25,12 +25,12 @@ Mines Safety and Inspection Amendment Act 2004 s. 94 | 68 of 2004 | 8 Dec 2004 |
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 5: The Occupational Safety and Health Act 1984 as at 24 Jun 2005 (includes amendments listed above)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+Petroleum Amendment Act 2007 s. 101 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 65, 66 and 68 | 51 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Petroleum Legislation Amendment and Repeal Act 2005 s. 50 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
-Petroleum Amendment Act 2007 s. 101 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Occupational Safety and Health Act 1984; short title changed (see note under s. 1).
@@ -135,7 +135,7 @@ On the date as at which this compilation was prepared, the Petroleum Legislation
 (d) at which an offshore petroleum operation, as defined in section 4 of the Petroleum (Submerged Lands) Act 1982, is carried on.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 101 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 101 was proclaimed but cannot take effect until the Petroleum Legislation Amendment and Repeal Act 2005 s. 50 comes into operation. It reads as follows:
 “
 101.Occupational Safety and Health Act 1984 amended
 (1) The amendments in this section are to the Occupational Safety and Health Act 1984 as amended by the Petroleum Legislation Amendment and Repeal Act 2005.
