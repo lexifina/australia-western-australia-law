@@ -138,9 +138,10 @@ operated by me in accordance with the regulations.
 6.The analysis result obtained from the analysis referred to in this certificate was that the following prescribed illicit drugs were detected —
 yes/notetrahydrocannabinol;
 yes/nomethylamphetamine;
-yes/no3, 4-methylenedioxy-n, alpha-dimethylphenylamine (MDMA).
+yes/no3, 4-methylenedioxy-n, alpha-dimethylphenylethylamine (MDMA).
 .............................................................
 (Authorised drug tester)
+[Form 5 amended in Gazette 25 Jan 2008 p. 217.]
 Form 6
 (r. 10(6))
 WESTERN AUSTRALIA
