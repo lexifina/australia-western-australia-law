@@ -23,13 +23,13 @@
  | (b)for ineligible out-patients — for each individual service rendered ................................... | $138
 5. | Drugs and medication, for each item —
  | (a)for holders of an entitlement card ......................... | no charge
- | (b)for other people who are — •war service veterans who hold a — ▪personal treatment entitlement card; or ▪specific treatment entitlement card •pensioners; or •concessional beneficiaries.............................. | $4.90
+ | (b)for other people who are — •war service veterans who hold a — ▪personal treatment entitlement card; or ▪specific treatment entitlement card •pensioners; or •concessional beneficiaries.............................. | $5.00
  | (c)for all other people —
  | (i)at a participating hospital —
- | (I)for an item on the PBS list .................... | PBS price up to a maximum of $30.70
- | (II)for an item not on the PBS list .............. | $24.60
- | (ii)at a hospital that is not a participating hospital...................................... | $24.60
-[Division 3 inserted in Gazette 29 Jun 2004 p. 2527; amended in Gazette 11 Mar 2005 p. 914; 28 Jun 2005 p. 2922; 3 Feb 2006 p. 518; 13 Jun 2006 p. 2062; 14 Nov 2006 p. 4727; 23 Jan 2007 p. 182; 10 Jul 2007 p. 3419.]
+ | (I)for an item on the PBS list .................... | PBS price up to a maximum of $31.30
+ | (II)for an item not on the PBS list .............. | $25.00
+ | (ii)at a hospital that is not a participating hospital...................................... | $25.00
+[Division 3 inserted in Gazette 29 Jun 2004 p. 2527; amended in Gazette 11 Mar 2005 p. 914; 28 Jun 2005 p. 2922; 3 Feb 2006 p. 518; 13 Jun 2006 p. 2062; 14 Nov 2006 p. 4727; 23 Jan 2007 p. 182; 10 Jul 2007 p. 3419; 25 Jan 2008 p. 213-14.]
 ## Division 4 — Same day patients
 6. | Same day treatment, other than a service subject to any determination made under regulation 5 associated with the rendering of such treatment —
  | (a)for public same day patients .................................. | no charge
