@@ -9,4 +9,5 @@ Conservation and Land Management Amendment Regulations (No. 2) 2004 | 27 Jul 200
 Conservation and Land Management Amendment Regulations 2006 | 29 Sep 2006 p. 4297-334 | 29 Sep 2006 (see r. 2)
 Reprint 1: The Conservation and Land Management Regulations 2002 as at 3 Nov 2006 (includes amendments listed above)
 Conservation and Land Management Amendment Regulations 2007 | 27 Feb 2007 p. 625-6 | 27 Feb 2007
+Conservation and Land Management Amendment Regulations (No. 2) 2007 | 29 Jan 2008 p. 241-2 | r. 1 and 2: 29 Jan 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2008 (see r. 2(b))
 Repealed by these regulations r. 115.
