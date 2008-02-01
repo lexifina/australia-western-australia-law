@@ -16,7 +16,7 @@
 13.Strata title settlements
 14.Understanding real estate and settlement documents
 15.Valid appointment to act
-16.Office of State revenue rulings and practices
+16.Office of State Revenue rulings and practices
 17.Landgate practices and procedures
 18.Legislative change affecting conveyancing
 [Schedule 1A inserted in Gazette 28 Dec 2007 p. 6411.]
