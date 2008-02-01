@@ -82,13 +82,13 @@ Reprint 7: The Public Sector Management Act 1994 as at 25 Aug 2006 (includes ame
 Land Information Authority Act 2006 s. 187 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 6, 7 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
+Water Resources Legislation Amendment Act 2007 s. 197 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 39 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-State Superannuation Amendment Act 2007 s. 85 | 25 of 2007 | 16 Oct 2007 | To be proclaimed (see s. 2)
-Water Resources Legislation Amendment Act 2007 s. 197 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
+State Superannuation Amendment Act 2007 s. 85 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Now known as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The amendment in the Western Australian Greyhound Racing Association Amendment Act 1998 s. 20 is not included because of an error in the reference to the item to be amended. The same amendment was made by the Statutes (Repeals and Minor Amendments) Act 2000 s. 34(2) and then the provision amended was again amended by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 221(3).
@@ -109,10 +109,4 @@ On the date as at which this compilation was prepared, the State Superannuation 
 85.Public Sector Management Act 1994 amended
 (1) The amendments in this section are to the Public Sector Management Act 1994.
 (2) Schedule 2 item 16 is deleted.
-”.
-On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 s. 197 had not come into operation. It reads as follows:
-“
-197.Public Sector Management Act 1994 amended
-(1) The amendment in this section is to the Public Sector Management Act 1994.
-(2) Schedule 2 is amended by deleting item 56.
 ”.

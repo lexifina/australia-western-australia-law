@@ -240,6 +240,7 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
  | Child Care Services Act 2007 Pt. 7 Div. 2 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
  | Reprint 15: The Constitution Acts Amendment Act 1899 as at 2 Aug 2007 (includes amendments listed above except those in the Child Care Services Act 2007 and the Nurses and Midwives Act 2006)
+ | Water Resources Legislation Amendment Act 2007 s. 192 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -247,9 +248,8 @@ Conservation and Land Management Amendment Act 1991 s. 57 | 20 of 1991 | 25 Jun 
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22, 35 and 51 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | To be proclaimed (see s. 2)
+State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
-Water Resources Legislation Amendment Act 2007 s. 192 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -382,19 +382,7 @@ On the date as at which this compilation was prepared, the State Superannuation 
 The State Superannuation Board under the State Superannuation Act 2000.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 192 had not come into operation. It reads as follows:
-“
-192.Constitution Acts Amendment Act 1899 amended
-(1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended as follows:
-(a) by deleting the item relating to the board of management of the Water and Rivers Commission;
-(b) by deleting the item relating to management authorities under the Waterways Conservation Act 1976;
-(c) by deleting the item relating to the Rivers and Estuaries Council established by the Waterways Conservation Act 1976;
-(d) by inserting before the item relating to the Western Australia Marine Manning Committee the following item —
-“
-The Water Resources Council established by the Water Agencies (Powers) Act 1984.
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 s. 100, which gives effect to Sch. 4 cl. 1, had not come into operation. It reads as follows:
 “
 100.Consequential amendments

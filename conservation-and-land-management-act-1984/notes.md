@@ -48,12 +48,12 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1 16-18 |
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Petroleum Amendment Act 2007 s. 92 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
+Water Resources Legislation Amendment Act 2007 s. 191 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 s. 51 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of the Offshore Minerals Act 2003 (see s. 2)
-Water Resources Legislation Amendment Act 2007 s. 191 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
 The Land Act 1933 was repealed by section 281 of the Land Administration Act 1997.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
 The Acts Amendment (Marine Reserves) Act 1997 s. 7(2) reads as follows:
@@ -335,24 +335,3 @@ and, unless the contrary intention appears, other words and expressions in this 
 ”.
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
 The requirement to establish the Department of Conservation and Land Management was removed from the Act, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 453 of that Act is a general transitional provision that applies to references to the Department of Conservation and Land Management in written laws.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 s. 191 had not come into operation. It reads as follows:
-“
-191.Conservation and Land Management Act 1984 amended
-(1) The amendments in this section are to the Conservation and Land Management Act 1984.
-(2) Section 3 is amended as follows:
-(a) by inserting in the appropriate alphabetical position —
-“
-“Minister (Water Resources)” means the Minister administering the Water Agencies (Powers) Act 1984;
-”;
-(b) in the definition of “public water catchment area” in paragraph (a) by deleting “Water and Rivers Commission” and inserting instead —
-“ Minister (Water Resources) ”;
-(c) by deleting the definition of “Water and Rivers Commission”.
-(3) Section 53 is amended by deleting the definition of “Minister for Water Resources”.
-(4) Section 54(3)(a)(iii) is amended by deleting “Water and Rivers Commission” and inserting instead —
-“ Minister (Water Resources) ”.
-(5) Section 58(3) is amended by deleting “Water and Rivers Commission” and inserting instead —
-“ Minister (Water Resources) ”.
-(6) Section 59(7) is amended by deleting “Minister for Water Resources” and inserting instead —
-“ Minister (Water Resources) ”.
-”.

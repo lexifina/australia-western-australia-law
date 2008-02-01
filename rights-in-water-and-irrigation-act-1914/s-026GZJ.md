@@ -6,7 +6,7 @@
 (i) in the case of a licence under section 5C, of the person who for the time being holds the licence; or
 (ii) in the case of a direction under section 22, 26G or 26GC, of the person who is bound by the direction;
 (d) a description of the water resource to which the instrument relates, including the locality in which, and a legal description of the land on which, it is situated;
-(e) in the case of a licence, details relating to any security interest in the licence that the Commission is required to note on the register under section 26GZM;
+(e) in the case of a licence, details relating to any security interest in the licence that the CEO is required to note on the register under section 26GZM;
 (f) details of any conviction of a person referred to in paragraph (c) for an offence against this Act; and
 (g) any other details that are prescribed by the regulations.
 (2) In the case of a licence under section 5C held by the holder of an operating licence, the details referred to in subsection (1) are to be set out in a separate part of the register.
@@ -15,4 +15,4 @@
 (a) an operating licence (water supply services); or
 (b) an operating licence (irrigation services),
 under the Water Services Licensing Act 1995.
-[Section 26GZJ inserted by No. 49 of 2000 s. 49; amended by No. 67 of 2003 s. 62.]
+[Section 26GZJ inserted by No. 49 of 2000 s. 49; amended by No. 67 of 2003 s. 62; No. 38 of 2007 s. 102.]

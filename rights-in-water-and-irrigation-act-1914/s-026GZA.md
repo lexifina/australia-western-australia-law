@@ -1,5 +1,5 @@
-## Subdivision 2 — Public consultation and approval of plans
-[Heading inserted by No. 49 of 2000 s. 44.]
+## Subdivision 2 — Public consultation and making of plans
+[Heading inserted by No. 49 of 2000 s. 44; amended by No. 38 of 2007 s. 64.]
 ### 26GZA. Plan to be publicly notified
 (1) Public notification that a proposed plan has been prepared must be given in accordance with subsections (2) and (3).
 (2) A notice complying with subsection (3) must be published —

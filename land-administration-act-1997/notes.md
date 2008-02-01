@@ -34,6 +34,7 @@ Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | 1 Dec 2006 (see s
  | Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
  | Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 11 | 24 of 2007 | 12 Oct 2007 | 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645)
  | Petroleum Amendment Act 2007 s. 98 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
+ | Water Resources Legislation Amendment Act 2007 s. 196 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -42,7 +43,6 @@ Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Ope
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | To be proclaimed (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(2))
-Water Resources Legislation Amendment Act 2007 s. 196 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
 On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 “
 4.Section 6A inserted
@@ -421,15 +421,4 @@ declared pests on the land under the lease in compliance with the Biosecurity an
 “
 (a) the Biosecurity and Agriculture Management Act 2007;
 ”.
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 s. 196 had not come into operation. It reads as follows:
-“
-196.Land Administration Act 1997 amended
-(1) The amendments in this section are to the Land Administration Act 1997.
-(2) Section 160(1)(e) is amended as follows:
-(a) by deleting “Commission” in the first place where it occurs and inserting instead —
-“ CEO ”;
-(b) by deleting “Commission” in the second place where it occurs and inserting instead —
-“ Department ”.
 ”.
