@@ -97,7 +97,6 @@ The Queen Elizabeth II Medical Centre Trust
 The University of Western Australia
 The Western Australian Museum
 Trustees of the Public Education Endowment
-Water and Rivers Commission
 West Coast TAFE
 Western Australian Alcohol and Drug Authority
 Western Australian Building Management Authority
@@ -115,4 +114,4 @@ Western Australian Treasury Corporation
 Wheatbelt Development Commission
 WorkCover Western Australia Authority
 Zoological Parks Authority
-[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29.]
+[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; No. 38 of 2007 s. 195; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29.]

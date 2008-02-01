@@ -53,10 +53,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 5: The Water Boards Act 1904 as at 12 Aug 2005 (includes amendments listed above)
 Land Information Authority Act 2006 s. 165 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Resources Legislation Amendment Act 2007 s. 201 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
+Water Resources Legislation Amendment Act 2007 s. 201 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Now see Department within the meaning of the Transfer of Land Act 1893.
 Footnote no longer applicable.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources and its administrative head is called the Director General.
@@ -75,18 +72,10 @@ The State Administrative Tribunal Regulations 2004 r. 66 reads as follows:
 “
 66.Water Boards Act 1904
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 132 comes into operation;
-“the WB Act” means the Water Boards Act 1904;
-“Water Board” means a Water Board constituted under the WB Act.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 132 comes into operation;
+the WB Act means the Water Boards Act 1904;
+Water Board means a Water Board constituted under the WB Act.
 (2) If advice has been given under the WB Act section 87(7) before the commencement day, on or after the commencement day the advice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
 (3) If a Water Board receives, before the commencement day, a notice in accordance with the WB Act section 88(1) (as in force when the notice was received by the Water Board) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Water Board must refer the relevant entry in the rating records to the State Administrative Tribunal for a review as if the notice were a notice served on the Water Board under the WB Act section 88(1).
 (4) If a Water Board receives, before the commencement day, a notice in accordance with the WB Act section 89(1) (as in force when the notice was received by the Water Board) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Water Board must refer the decision to refuse to extend time to the State Administrative Tribunal for a review as if the notice were a notice served on the Water Board under the WB Act section 89(1).
-”.
-On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 s. 201 had not come into operation. It reads as follows:
-“
-201.Water Boards Act 1904 amended
-(1) The amendments in this section are to the Water Boards Act 1904.
-(2) Section 3(1) is amended by deleting the definition of “Commission”.
-(3) Sections 36(1)(c) and (d) and 37 are amended by deleting “Commission” in each place where it occurs and inserting instead —
-“ Minister ”.
 ”.

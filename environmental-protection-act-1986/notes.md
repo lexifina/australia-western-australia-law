@@ -29,7 +29,7 @@ Corporations (Consequential Amendments) Act 2001 Pt. 23 | 10 of 2001 | 28 Jun 20
 Armadale Redevelopment Act 2001 s. 69 | 25 of 2001 | 26 Nov 2001 | 23 Mar 2002 (see s. 2 and Gazette 22 Mar 2002 p. 1651)
 Reprint of the Environmental Protection Act 1986 as at 11 Jan 2002 (includes amendments listed above except those in the Environmental Protection Amendment Act 1998 s. 5 and the Armadale Redevelopment Act 2001)
 Environmental Protection Amendment Act 2003 8-12 | 54 of 2003 | 20 Oct 2003 | Act, other than s. 37, 54(2), 55, 72(2) and (4), 75(3) and (4) and Pt. 9: 19 Nov 2003 (see s. 2 and Gazette 18 Nov 2003 p. 4723); s. 37, 54(2), 55, 72(2) and (4), 75(3) and (4) and Pt. 9: 8 Jul 2004 (see s. 2 and Gazette 30 Jun 2004 p. 2581)
-Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | 1 Dec 2006 (see s. 2 and Gazette 8 Aug 2006 p. 2899)
+Contaminated Sites Act 2003 s. 100 | 60 of 2003 (as amended by No. 40 of 2005 s. 13) | 7 Nov 2003 | 1 Dec 2006 (see s. 2 and Gazette 8 Aug 2006 p. 2899)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 5: The Environmental Protection Act 1986 as at 16 Sep 2005 (includes amendments listed above except those in the Contaminated Sites Act 2003)
@@ -37,11 +37,11 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | cl. 2(1), (2) and (4): 9 Jan 2008 (see s. 2 and Gazette 8 Jan 2008 p. 33)
+Water Resources Legislation Amendment Act 2007 s. 194 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (cl. 2(3) and (5)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
-Water Resources Legislation Amendment Act 2007 s. 194 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -99,20 +99,7 @@ but does not include clearing of a kind set out in Schedule 6 to the EP Act.
 (4) Section 70(3) to (11) and 74A of the EP Act apply in relation to a notice given under subsection (3) as if it were a vegetation conservation notice given under section 70(2)(b) of the EP Act and as if the reference to an offence in section 70(6) were a reference to an offence under an enactment mentioned in the definition of “unlawful clearing” in subsection (2).
 (5) Section 74A, Part VA and sections 89 and 103 of the EP Act apply in relation to a notice given under subsection (3) as if it were a vegetation conservation notice given under section 70(2)(b) of the EP Act.
 ”.
-On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 s. 194 had not come into operation. It reads as follows:
-“
-194.Environmental Protection Act 1986 amended
-(1) The amendments in this section are to the Environmental Protection Act 1986.
-(2) Section 57 is amended as follows:
-(a) in subsection (2)(b)(ii) by deleting “the Water and Rivers Commission” and inserting instead —
-“
-a person nominated by the Minister (Water Resources)
-”;
-(b) in subsection (3) by deleting “or from the Water and Rivers Commission”;
-(c) in subsection (5) by deleting the definition of “Water and Rivers Commission” and inserting instead —
-“
-“Minister (Water Resources)” means the Minister administering the Water Agencies (Powers) Act 1984.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 s. 100, which gives effect to Sch. 4 cl. 2(3) and (5) had not come into operation. They read as follows:
 “
 100.Consequential amendments

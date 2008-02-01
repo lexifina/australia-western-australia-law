@@ -55,11 +55,11 @@ Water Legislation Amendment (Competition Policy) Act 2005 Pt. 2 | 25 of 2005 | 1
 Reprint 7: The Country Areas Water Supply Act 1947 as at 7 Apr 2006 (includes amendments listed above except those listed in the Water Legislation Amendment (Competition Polity) Act 2005)
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 452(1) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Land Information Authority Act 2006 s. 129 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+Water Resources Legislation Amendment Act 2007 Pt. 2 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Water Resources Legislation Amendment Act 2007 Pt. 2 | 38 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(2))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by section 4 of this Act.
@@ -89,127 +89,5 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 (1) The amendments in this section are to the Country Areas Water Supply Act 1947.
 (2) Section 12C(1)(c) is amended by deleting “the Agriculture and Related Resources Protection Act 1976” and inserting instead —
 “ the Biosecurity and Agriculture Management Act 2007 ”.
-”.
-On the date as at which this compilation was prepared, the Water Resources Legislation Amendment Act 2007 Pt. 2 had not come into operation. It reads as follows:
-“
-Part 2 — Amendments to the Country Areas Water Supply Act 1947
-4.The Act amended
-The amendments in this Part are to the Country Areas Water Supply Act 1947.
-5.Section 5 amended
-Section 5(1) is amended as follows:
-(a) by deleting the definitions of “Commission” and “officer”;
-(b) by inserting in the appropriate alphabetical positions —
-“
-“CEO” means the chief executive officer of the Department;
-“Department” means the department of the Public Service principally assisting in the administration of this Act;
-“former authority” means the former Authority, the former Commission or a former Minister;
-“former Commission” means the Water and Rivers Commission established by section 4 of the Water and Rivers Commission Act 1995 and in existence before the repeal of that Act;
-“officer”, in relation to the Corporation, means a member of the staff of the Corporation engaged under section 15 of the Water Corporation Act 1995;
-”.
-6.Section 7 repealed
-Section 7 is repealed.
-7.Section 11 amended
-Section 11(2) is repealed and the following subsection is inserted instead —
-“
-(2) The Corporation shall not exercise the powers conferred by subsection (1) in relation to water to which section 5C of the Rights in Water and Irrigation Act 1914 applies, except under a licence or right granted or conferred under Part III of that Act.
-”.
-8.Section 12BA amended
-Section 12BA(3) is amended by deleting “the former Authority” and inserting instead —
-“ a former authority ”.
-9.Section 12BD amended
-Section 12BD(1) is amended as follows:
-(a) by deleting “any officer of the Commission” and inserting instead —
-“ the Minister ”;
-(b) by deleting “Commission” in the second place where it occurs and inserting instead —
-“ Minister ”.
-10.Section 12BE amended
-Section 12BE(4) is amended by deleting “Minister or of the Commission” and inserting instead —
-“ Crown ”.
-11.Section 12E amended
-Section 12E(7) is amended as follows:
-(a) in paragraph (a) by deleting “the former Minister, the former Authority” and inserting instead —
-“ a former authority ”;
-(b) in paragraph (b) by deleting “former Minister, the former Authority” and inserting instead —
-“ former authority ”.
-12.Section 12EB amended
-(1) Section 12EB(2), (3)(b) and (4) are amended by deleting “former Minister, the former Authority” and inserting instead —
-“ former authority ”.
-(2) Section 12EB(3) and (4) are amended by deleting “former Minister or the former Authority” and inserting instead —
-“ former authority ”.
-13.Section 12ED amended
-(1) Section 12ED(2) is amended by deleting “any officer of the Commission or other person authorised by the Commission or”.
-(2) Section 12ED(4) is amended by deleting “authorise any officer of the Commission or other person authorised by the Commission or the Minister” and inserting instead —
-“
-authorise any officer of the Department, and other persons authorised by the Minister,
-”.
-(3) Section 12ED(5) is amended as follows:
-(a) by deleting “or the Commission or a person acting with the authority of the Minister or of the Commission” and inserting instead —
-“
-, an officer of the Department or a person authorised by the Minister for the purposes of this subsection,
-”;
-(b) by deleting “the Commission or any such person” and inserting instead —
-“ officer or person so authorised ”.
-14.Section 12EE amended
-Section 12EE(2) is amended as follows:
-(a) by deleting “the Commission” in the first place where it occurs and inserting instead —
-“ an officer of the Department ”;
-(b) by deleting “or of the Commission”.
-15.Section 45 amended
-Section 45(3a) is amended by deleting “Commission” and inserting instead —
-“ the Crown ”.
-16.Section 111 amended
-Section 111 is amended by deleting “Commission” and inserting instead —
-“ Crown ”.
-17.Section 112 amended
-Section 112 is amended as follows:
-(a) by deleting “Commission” in the first, third and fourth places where it occurs and inserting instead —
-“ Minister ”;
-(b) by deleting “Commission” in the second place where it occurs and inserting instead —
-“ Department ”.
-18.Section 113 amended
-Section 113(1) is amended by deleting “Commission” and inserting instead —
-“ Crown ”.
-19.Section 114 amended
-Section 114 is amended by deleting “Commission” and inserting instead —
-“
-Department authorised by the Minister for the purposes of this section
-”.
-20.Section 115 amended
-Section 115(1) is amended as follows:
-(a) in paragraph (a) by deleting “Commission” in the first place where it occurs and inserting instead —
-“ Minister ”;
-(b) in paragraph (a) by deleting “Commission” in the second place where it occurs and inserting instead —
-“ Department ”;
-(c) in the heading to Table 1 by deleting “Commission” and inserting instead —
-“ Minister ”;
-(d) in Table 1 by deleting “12C(7a)” and inserting instead —
-“ 12C(7)(a) ”;
-(e) in Table 1 by deleting “obstruction of the Commission” and inserting instead —
-“ obstruction of the Minister, etc. ”;
-(f) in Table 1 by deleting “used by the Commission” and inserting instead —
-“ used by the Crown ”;
-(g) in Table 2 by deleting “obstruction of the Corporation” and inserting instead —
-“ obstruction of the Corporation, etc. ”.
-21.Section 116 replaced
-Section 116 is repealed and the following section is inserted instead —
-“
-116.Corporation may be represented by officer
-In any proceeding before a court, judge or person acting judicially, any authorised officer of the Corporation may represent the Corporation in all respects as if he were the party concerned.
-”.
-22.Section 121 amended
-Section 121 is amended by deleting “chief executive officer of the Commission or” and inserting instead —
-“ CEO or the chief executive officer of ”.
-23.Various references to “Commission” changed to “Minister”
-Each provision of the Act listed in the Table to this section is amended by deleting “Commission” in each place where it occurs and inserting instead —
-“ Minister ”.
-Table
-s. 12 | s. 12D(1)
-s. 12B(2) | s. 12E(5), (6), (7) and (8)
-s. 12BA(3) | s. 12EB(2), (3) and (4)
-s. 12BD(2) | s. 45(1)(ca) and (2)
-s. 12C(2), (3), (4), (5), (6) | s. 108
-and (7)
-Note:The heading to sections 12 and 112 will be altered by deleting “Commission” and inserting instead “Minister”.
-The headings to section 121 will be altered by deleting “chief executive officer of the Commission or” and inserting instead “CEO or the chief executive officer of”.
 ”.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.

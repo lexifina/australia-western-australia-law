@@ -1,11 +1,9 @@
-### 26GZE. Approval of plan
-(1) The Commission must, except where subsection (4) applies, submit the proposed plan, modified as it thinks fit under section 26GZD, to the Minister for approval.
-(2) The plan as so submitted must be accompanied by —
+### 26GZE. Minister to make plan
+(1) The Minister must give the proposed plan, modified as the Minister thinks fit under section 26GZD, to the Water Resources Council and indicate the time within which the Water Resources Council may submit its report under subsection (3).
+(2) The plan must be accompanied by —
 (a) a summary of all submissions made under section 26GZB and requests made under section 26GZC(4); and
-(b) a report of the Commission indicating its opinion of the merits of those submissions and requests.
-(3) The Minister may approve the proposed plan, or approve it with such modifications as the Minister thinks fit.
-(4) The Minister may by instrument delegate to the Commission the exercise of the powers vested in the Minister by subsection (3) in relation to —
-(a) all plans to which this Division applies; or
-(b) any particular class or description of plans.
-(5) Anything done by the Commission under such a delegation is to be taken to have been done by the Minister.
-[Section 26GZE inserted by No. 49 of 2000 s. 44.]
+(b) a report of the Minister indicating the Minister’s opinion of the merits of those submissions and requests.
+(3) The Water Resources Council may submit to the Minister a report indicating its opinion of the plan and making recommendations about modification and approval of the plan.
+(4) The Minister may make the proposed plan with or without modifications.
+(5) The Minister must not make the plan before the time referred to in subsection (1) has elapsed.
+[Section 26GZE inserted by No. 38 of 2007 s. 66.]
