@@ -45,7 +45,7 @@ The State Agreement is amended by inserting after Schedule E new Schedule F in t
 The amendments to the State Agreement set out in clauses 3, 4 and 5 of this Agreement shall take effect not earlier than 1 January 2007.
 AS WITNESS the execution of this Agreement by or on behalf of the parties the day and year first hereinbefore written.
 SIGNED by THE HONOURABLE MARK MCGOWAN MLA for and on behalf of the State of Western Australia in the presence of: Jon Martin Nichols Principal Policy Officer | ))))) | Mark McGowan Hon Mark McGowan MLA Minister for the Environment; Racing and Gaming J Nichols
-THE COMMON SEAL of the said BURSWOOD NOMINEES LTD (ACN 078 250 307) was hereunto affixed by authority of the Board of Directors in the presence of: David Courtney David Graeme Courtney Director | )))))) | D.S. J Henwood Justine Lisa Henwood Secretary
+THE COMMON SEAL of the said BURSWOOD NOMINEES LTD (ACN 078 250 307) was hereunto affixed by authority of the Board of Directors in the presence of: David Courtney David Graeme Courtney Director | ))))) | D.S. J Henwood Justine Lisa Henwood Secretary
 THE COMMON SEAL of BURSWOOD RESORT (MANAGEMENT) LIMITED (ACN 009 396 945) was hereunto affixed by authority of the Board of Directors in the presence of: David Courtney David Graeme Courtney Director | )))))) | C.S. J Henwood Justine Lisa Henwood Secretary
 SCHEDULE F
 ITEM 1 – ELECTRONIC GAMING MACHINE LEVY

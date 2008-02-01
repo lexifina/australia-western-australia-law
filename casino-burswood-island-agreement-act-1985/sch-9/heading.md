@@ -309,7 +309,7 @@ Office heldOffice held
 M. J. EGAN
 Name of authorised personName of authorised person
 (block letters)(block letters)
-THE COMMON SEAL of ) BURSWOOD RESORT ) C.S. (MANAGEMENT) LTD) (ACN 009 396 945) is duly affixed by) authority of its directors in the presence) of:)
+THE COMMON SEAL of ) BURSWOOD RESORT ) C.S. (MANAGEMENT) LTD) (ACN 009 396 945) is duly affixed) by authority of its directors in the) presence of:)
 John W SchaapM J Egan
 Signature of authorised personSignature of authorised person
 MANAGING DIRECTORCOMPANY SECRETARY

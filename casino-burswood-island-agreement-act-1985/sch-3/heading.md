@@ -31,7 +31,7 @@ R. Chapman
 PERPETUAL TRUSTEES W.A. LTD by its Attorney who state they have no notice of revocation of the Power of Attorney dated 5 February 1990 under which this document is signed.
 P. G. Webse — Manager Corporate Trusts.
 B. Romeo — Accountant Corporate Trusts.
-THE COMMON SEAL of BURSWOOD MANAGEMENT LIMITED was hereunto affixed by authority of the Board of Directors in the presence of: |  | [C. S.]
+THE COMMON SEAL of BURSWOOD MANAGEMENT LIMITED was hereunto affixed by authority of the Board of Directors in the presence of: |  | [C.S.]
 Dallas R. Dempster, Director.
 Yew Seng Kwa, Secretary.
 [Schedule 3 inserted by No. 15 of 1990 s. 6.]

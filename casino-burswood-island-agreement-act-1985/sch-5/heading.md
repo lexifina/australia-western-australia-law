@@ -23,7 +23,7 @@ NOW IT IS HEREBY AGREED AS FOLLOWS:
 “(c)prevent the State from permitting the playing of the game known as “two-up” on Anzac Day as defined in section 3 of the Anzac Day Act 1960 in premises in any part of the State of The Returned and Services League of Australia, W.A. Branch, Incorporated or of any of its affiliated sub branches and normally used for social functions or activities of members of any such organisation.”
 (2)The amendment to the Principal Agreement made by paragraph (a) of sub-clause (1) takes effect on and from the date on which, with the approval required by clause 17(l)(d) of the Principal Agreement, an amendment to the Trust Deed in the same terms takes effect.
 AS WITNESS the execution of this Agreement by or on behalf of the parties hereto the day and year first hereinbefore written.
-SIGNED by THE HONOURABLE PAMELA ANNE BEGGS, J.P., M.L.A., for and on behalf of the State of Western Australia in the presence of. A J Secker CT 6217 | ) ) ) ) ) ) | Pam Beggs
+SIGNED by THE HONOURABLE PAMELA ANNE BEGGS, J.P., M.L.A., for and on behalf of the State of Western Australia in the presence of: A J Secker CT 6217 | ) ) ) ) ) ) | Pam Beggs
 SIGNED by PERPETUAL TRUSTEES WA. LTD. by it’s Attorney who state they have no notice of revocation of the Power of Attorney dated 5 February 1990 under which this Agreement is signed. | ) ) ) ) ) ) ) | R P Jenkins Company Solicitor George Butcher Manager Corporate Trusts
 THE COMMON SEAL of) BURSWOOD RESORT (MANAGEMENT) LIMITED was hereunto affixed by authority of the Board of Directors in the presence of: Bill MartinDirector Yew Seng KwaSecretary | ) ) ) ) ) ) | C.S.
 [Schedule 5 inserted in Gazette 8 May 1998 p. 2390-2.]
