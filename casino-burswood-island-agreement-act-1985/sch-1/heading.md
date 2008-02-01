@@ -16,7 +16,7 @@ PART II — DEVELOPMENT OF THE RESORT AND RELATED MATTERS.
 8.Zoning of the Site21
 9.Construction of Resort and operation of Resort Complex21
 10.Use of local professional services labour and materials22
-11.Committee’s Nomnated Representative23
+11.Committee’s Nominated Representative23
 12.Burswood Park Technical Committee24
 13.Stage 224
 PART III — CORPORATE ORGANISATION AND RELATED MATTERS.
@@ -302,7 +302,7 @@ Issue of further shares — Approval of Committee required in certain circumstan
 (b)refrain from issuing allotting reallotting or otherwise disposing of any shares in the capital of the Manager other than those provided for in paragraph (a) except —
 (i)with the approval of the Committee;
 or
-(ii)the issuing of shares to each of the shareholders for the time being in proportion to their respective share-holdings;
+(ii)the issuing of shares to each of the shareholders for the time being in proportion to their respective shareholdings;
 Committee to approve appointment of Directors
 (c)obtain the prior approval of the Committee to any appointment of a director or alternate director of the Manager;
 Committee to approve transfers of shares
@@ -436,7 +436,7 @@ Conditions attaching to payments to the Board
 (b)subject to sub-clause (3) the area of the Resort Site as determined by survey, exclusive of the part or parts thereof to be dedicated as public streets pursuant to clause 6(1)(d), remains unchanged;
 Right of State to excise land from the Resort Site
 (3)Without affecting the obligation of the Trustee under sub-clause (1)(c) the State shall be at liberty to:
-(a)excise from the Resort Site any part or parts thereof which may from time to time be reasonably required for public streets or for the purpose of providing services or facilities of like or similar kind to those referred to in clause 9(4) or, with the agreement of the Trustee, for any other purpose, provided that the area or aggregate of the areas so excised shall not without the consent of the Trustee exceed 10% of the area of the Resort Site as determined by the survey referred to in subclause (2)(b); and
+(a)excise from the Resort Site any part or parts thereof which may from time to time be reasonably required for public streets or for the purpose of providing services or facilities of like or similar kind to those referred to in clause 9(4) or, with the agreement of the Trustee, for any other purpose, provided that the area or aggregate of the areas so excised shall not without the consent of the Trustee exceed 10% of the area of the Resort Site as determined by the survey referred to in sub-clause (2)(b); and
 (b)designate or permit the designation of:
 (i)that part of the Resort Site which immediately prior to the coming into operation of the Agreement Act comprised reserve 27743 by the name “Charles Paterson Park”;
 (ii)that part of the Resort Site bounded by a prolongation of the southern boundary of Swan Location 10662 and Great Eastern Highway by the name “Kagoshima Park”.
