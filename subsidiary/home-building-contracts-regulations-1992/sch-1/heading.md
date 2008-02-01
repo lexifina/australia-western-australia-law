@@ -77,7 +77,7 @@ Contract remains in force on the same terms and conditions unless you and the bu
  | (i)the builder may by written notice increase the contract price;
  | (ii)if the increase exceeds 5% you may terminate the contract within 10 working days after receiving the notice provided you compensate the builder for all reasonable costs incurred up to the date of termination — see below under “Termination of contract”;
  | (iii)you may apply, within 10 working days after receiving the notice, to have the increase reviewed by the Building Disputes Tribunal.
-Defects - making good
+Defects — making good
 Any defect in work done or materials supplied under a contract must be made good by the builder if the builder is notified of the defect within 4 months (or a greater period if provided for in the contract) after practical completion of the building work.
 However, you and the builder may agree in the contract that particular defects are excluded from this provision.
 Inspection
@@ -97,4 +97,4 @@ Before you or the builder apply to the Building Disputes Tribunal, a notice in t
 Parties to proceedings before the Tribunal must represent themselves except as set out in section 45A of the Builders’ Registration Act 1939.
 Advice on how a dispute may be placed before the Building Disputes Tribunal and related matters may be obtained from the staff of the Tribunal.
 [Schedule 1 inserted in Gazette 2 Sep 2003 p. 3924-30; amended in Gazette 29 Jun 2007 p. 3191-2.]
-[Schedules 2-8 repealed in Gazette 2 Sep 2003 p. 3930.]
+[Schedules 2-8 deleted in Gazette 2 Sep 2003 p. 3930.]

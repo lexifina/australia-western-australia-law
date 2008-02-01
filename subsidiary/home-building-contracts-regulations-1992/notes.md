@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Home Building Contracts Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 February 2008 of the Home Building Contracts Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Home Building Contracts Regulations 1992 | 3 Apr 1992 p. 1465-8 | 4 Apr 1992 (see r. 2 and Gazette 3 Apr 1992 p. 1461)
@@ -16,7 +16,4 @@ Reprint of the Home Building Contracts Regulations 1992 as at 7 Jun 2002 (includ
 Home Building Contracts (Home Indemnity Insurance — Multi-storey Multi-unit Developments Exemption) Amendment Regulations 2003 r. 10 | 8 Apr 2003 p. 1099-104 | 9 Apr 2003 (see r. 2)
 Home Building Contracts Amendment Regulations 2003 | 2 Sep 2003 p. 3923-30 | 2 Sep 2003
 Home Building Contracts Amendment Regulations 2007 | 29 Jun 2007 p. 3190-2 | r. 1 and 2: 29 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2007 (see r. 2(b)(i))
-Address at time of printing: 10 William Street Perth 6000
-Tel. No. 9321 7688
-Address at time of printing: 18 Harvest Terrace West Perth 6005
-Tel. No. 9321 6891
+Reprint 3: The Home Building Contracts Regulations 1992 as at 1 Feb 2008 (includes amendments listed above)
