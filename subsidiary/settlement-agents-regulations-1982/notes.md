@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Settlement Agents Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 31 January 2008 of the Settlement Agents Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Settlement Agents Regulations 1982 | 19 Mar 1982 p. 886-7 | 19 Mar 1982
@@ -34,7 +34,8 @@ Settlement Agents Amendment Regulations 2007 | 6 Feb 2007 p. 310 | 6 Feb 2007
 Settlement Agents Amendment Regulations (No. 2) 2007 | 29 Jun 2007 p. 3187-8 | r. 1 and 2: 29 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Settlement Agents Amendment Regulations (No. 3) 2007 | 26 Oct 2007 p. 5651-2 | r. 1 and 2: 26 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Oct 2007 (see r. 2(b))
 Settlement Agents Amendment Regulations (No. 4) 2007 | 28 Dec 2007 p. 6407-11 | r. 1 and 2: 28 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Dec 2007 (see r. 2(b))
-These regulations are in place of the Settlement Agents Amendment Regulations 1996 published in Gazette 5 Jul 1996 p. 3224-5. Those regulations were published in the Gazette after the day on which they purported to commence (1 Jul 1996 — see proclamation published in Gazette 1 Jul 1996 p. 3179 fixing 1 Jul 1996 as the day on which Part 9 of the Business Licensing Amendment Act 1995 came into operation).
+Reprint 4: The Settlement Agents Regulations 1982 as at 1 Feb 2008 (includes amendments listed above)
+These regulations were in place of the Settlement Agents Amendment Regulations 1996 published in Gazette 5 Jul 1996 p. 3224-5. Those regulations were published in the Gazette after the day on which they purported to commence (1 Jul 1996 — see proclamation published in Gazette 1 Jul 1996 p. 3179 fixing 1 Jul 1996 as the day on which Part 9 of the Business Licensing Amendment Act 1995 came into operation).
 The Settlement Agents Amendment Regulations (No. 2) 2004 r. 4 (as amended in Gazette 21 Jan 2004 p. 258 and 16 Jun 2006 p. 2122) reads as follows:
 “
 4.Transitional
@@ -45,3 +46,18 @@ Despite the repeal effected by regulation 3, in relation to an application for a
 (ii) a Certificate IV in Conveyancing.
 [Regulation 4 amended in Gazette 21 Jan 2005 p. 258; 16 Jun 2006 p. 2122.]
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+approved educational activity2
+core professional development subject2
+holding fee4A(1)
+points2
+public training provider6(3)
+record2
+register2
+registered training provider6(3)
+relevant bank accepted bills rate6D(2)
+specified4C(6)
+unit6(3)
+working day2
