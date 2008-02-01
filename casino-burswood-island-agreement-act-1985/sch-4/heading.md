@@ -196,7 +196,7 @@ Clause 36 amended
 “Commission”.
 Table
 2 (definition of “Casino Gross Revenue”)15(e)
-2(definition of “Commissioning”)19
+2 (definition of “Commissioning”)19
 2 (definition of “Committee’s Nominated Representative)20(1)
 6(1)(c)20(2)
 7(8)(a)21(d)
