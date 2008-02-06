@@ -749,3 +749,4 @@ Schedule 1 — Consequential amendments to other Acts
 (2) Section 76D(2)(a) is amended by deleting “instrument” in both places where it occurs and inserting instead —
 “ disposition ”.
 ”.
+This section has a retrospective commencement date effective from 6 Feb 2008 see the Revenue Laws Amendment Act 2008 Pt. 8.
