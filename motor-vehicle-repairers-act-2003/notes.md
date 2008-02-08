@@ -1,21 +1,22 @@
 Notes
-This is a compilation of the Motor Vehicle Repairers Act 2003 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 8 February 2008 of the Motor Vehicle Repairers Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Motor Vehicle Repairers Act 2003 | 68 of 2003 | 9 Dec 2003 | s. 1-2: 9 Dec 2003; Pt. 1 (other than s. 1, 2, 3(4) and 4), Pt. 3, Pt. 4, s. 65 & 69, Pt. 7, s. 89 & 90, Pt. 10 (other than s. 108 & 109), Pt. 11 and Sch. 3 cl. 2 & 3: 19 Mar 2007 (see s. 2 and Gazette 9 Feb 2007 p. 451)
+Motor Vehicle Repairers Act 2003 | 68 of 2003 | 9 Dec 2003 | s. 1-2: 9 Dec 2003; Pt. 1 (other than s. 1, 2, 3(4) and 4), Pt. 3, Pt. 4, s. 65 and 69, Pt. 7, s. 89 and 90, Pt. 10 (other than s. 108 and 109), Pt. 11 and Sch. 3 cl. 2 and 3: 19 Mar 2007 (see s. 2 and Gazette 9 Feb 2007 p. 451)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 16 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 1: The Motor Vehicle Repairers Act 2003 as at 8 Feb 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, the provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of those provisions see the endnote referred to in the table.
 Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Motor Vehicle Repairers Act 2003 s. 3(4) & 4, Pt. 2, Pt. 5, Pt. 6 (other than s. 65 & 69), Pt. 8, Pt 9 (other than s. 89 & 90), s. 108 & 109, Sch. 1 & 2 and Sch. 3 cl. 1 | 68 of 2003 (as amended No. 38 of 2005 s. 15; No. 77 of 2006 s. 17) | 9 Dec 2003 | To be proclaimed (see s. 2)
-On the date as at which this compilation was prepared, the Motor Vehicle Repairers Act 2003 s. 3(4) & 4, Pt. 2, Pt. 5, Pt. 6 (other than s. 65 & 69), Pt. 8, Pt 9 (other than s. 89 & 90), s. 108 & 109, Sch. 1 & 2 and Sch. 3 cl. 1: (as amended by No. 38 of 2005 s. 15 and No. 77 of 2006 s. 17) had not come into operation. They read as follows:
+Short title | Number and year | Assent | Commencement
+Motor Vehicle Repairers Act 2003 s. 3(4) and 4, Pt. 2, Pt. 5, Pt. 6 (other than s. 65 and 69), Pt. 8, Pt 9 (other than s. 89 and 90), s. 108 and 109, Sch. 1 and 2 and Sch. 3 cl. 1 | 68 of 2003 (as amended by No. 38 of 2005 s. 15; No. 77 of 2006 s. 17) | 9 Dec 2003 | To be proclaimed (see s. 2)
+On the date as at which this reprint was prepared, the following provisions of the Motor Vehicle Repairers Act 2003 (as amended by No. 38 of 2005 s. 15 and No. 77 of 2006 s. 17) had not come into operation. They read as follows:
 “
-3.Interpretation
+3.Terms used in this Act
 (4) The references in sections 23(2)(a), 32(2)(a), 62(3)(a) and 66(a) to an inquiry are to proceedings of the kind authorised by section 14 of the Motor Vehicle Dealers Act 1973, and that section applies accordingly.
-[Section 3 amended by No. 28 of 2006 s. 111.]
 4.Limitation on imposition of penalties for offences
 The power of a court to impose a penalty on a person for an offence against this Act is subject to the limitation in Schedule 2 clause 2(1).
 Part 2 — Licensing of motor vehicle repair businesses
@@ -463,7 +464,6 @@ are jointly and severally liable to the Director General for the amount paid.
 (6) This section does not affect the operation of section 95.
 [Section 96 amended by No. 77 of 2006 s. 17.]
 Part 10 — Miscellaneous
-Division 1 — Infringement notices
 108.Licensee to publicise licensing information
 A licensee must cause the business name shown in the business licence and the number of the licence to appear —
 (a) in a conspicuous position on the outside of every premises authorised under section 59 in respect of the licence;
@@ -580,3 +580,35 @@ In this Division —
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+Account107(1)
+affected person73(1)
+approved3(1)
+authorised officer3(1), 97
+Board3(1)
+business licence3(1)
+certificate3(1)
+Commissioner3(1)
+Compensation Account89
+Court75(1), 76(1)
+Department3(1)
+Director General3(1)
+inquiry3(1)
+insolvent89
+licensee3(1)
+motor vehicle3(1)
+owner89
+person to whom this Part applies65
+prescribed97
+prescribed offence97
+prescribed percentage90(1), 107(1)
+provisional repairer’s certificate3(1)
+purposes of the Account107(1)
+regulations3(1)
+relevant offence69(1)
+repair work3(1)
+repairer’s certificate3(1)
+secretary3(1)
+transitional matterSch. 3 cl. 3(5)
