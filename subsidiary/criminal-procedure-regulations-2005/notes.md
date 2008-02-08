@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Criminal Procedure Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 February 2008 of the Criminal Procedure Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Criminal Procedure Regulations 2005 | 28 Apr 2005 p. 1441-82 | 2 May 2005 (see r. 2)
@@ -8,3 +8,13 @@ Criminal Procedure Amendment Regulations (No. 2) 2006 | 14 Jul 2006 p. 2567-9 | 
 Criminal Procedure Amendment Regulations (No. 3) 2006 | 14 Nov 2006 p. 4728-9 | 14 Nov 2006
 Criminal Procedure Amendment Regulations 2007 | 9 Nov 2007 p. 5611-14 | r. 1 and 2: 9 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Nov 2007 (see r. 2(b))
 Criminal Procedure Amendment Regulations (No. 2) 2007 | 13 Nov 2007 p. 5696 | 13 Nov 2007 (see note to r. 1)
+Reprint 1: The Criminal Procedure Regulations 2005 as at 8 Feb 2008 (includes amendments listed above)
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+CPA3(1)
+Form3(1)
+lodge3(1)
+remote communication9(1)
+trial date21
+working day3(1)
