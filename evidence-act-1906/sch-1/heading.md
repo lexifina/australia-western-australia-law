@@ -1,6 +1,6 @@
 ## The Second Schedule
-[Heading inserted by No. 48 of 1991 s. 10.]
 [Section 9]
+[Heading inserted by No. 48 of 1991 s. 10.]
 ## Part 1 — Offences under The Criminal Code
 [Heading inserted by No. 48 of 1991 s. 10.]
 Provision | Description of offence
@@ -91,6 +91,7 @@ s. 61 | Dangerous driving
 [Part 2 inserted by No. 48 of 1991 s. 10.]
 [Part 3 repealed by No. 70 of 2004 s. 82.]
 ## Part 4 — Offences under the Children and Community Services Act 2004
+[Heading inserted by No. 34 of 2004 s. 251.]
 Provision | Description of offence
 s. 101(1) | Failing to protect child from harm
 s. 102 | Leaving child unsupervised in vehicle
