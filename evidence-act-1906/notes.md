@@ -1,20 +1,20 @@
 Notes
-This is a compilation of the Evidence Act 1906 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 February 2008 of the Evidence Act 1906 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Evidence Act 1906 | 28 of 1906 | 14 Dec 1906 | 14 Dec 1906
-Evidence Act Amendment Act 1913 | 16 of 1913 | 30 Dec 1913 | 30 Dec 1913
-Evidence Act Amendment Act 1921 | 19 of 1921 | 29 Nov 1921 | 29 Nov 1921
-Ministers’ Titles Act 1925 s. 2 | 8 of 1925 | 24 Sep 1925 | 24 Sep 1925
+Evidence Act 1906 | 28 of 1906 (6 Edw. VII No. 28) | 14 Dec 1906 | 14 Dec 1906
+Evidence Act Amendment Act 1913 | 16 of 1913 (4 Geo. V No. 16) | 30 Dec 1913 | 30 Dec 1913
+Evidence Act Amendment Act 1921 | 19 of 1921 (12 Geo. V No. 19) | 29 Nov 1921 | 29 Nov 1921
+Ministers’ Titles Act 1925 s. 2 | 8 of 1925 (16 Geo. V No. 8) | 24 Sep 1925 | 24 Sep 1925
 Reprint of the Evidence Act 1906 in Appendix Session Volume 1928 (includes amendments listed above)
-Evidence Act Amendment Act 1930 | 34 of 1930 | 22 Dec 1930 | 22 Dec 1930
-Matrimonial Causes and Personal Status Code 1948 s. 3(2) | 73 of 1948 | 4 Mar 1949 | 1 Jan 1950 (see s. 1 and Gazette 19 Oct 1949 p. 2499)
+Evidence Act Amendment Act 1930 | 34 of 1930 (21 Geo. V No. 34) | 22 Dec 1930 | 22 Dec 1930
+Matrimonial Causes and Personal Status Code 1948 s. 3(2) | 73 of 1948 (12 and 13 Geo. VI No. 73) | 4 Mar 1949 | 1 Jan 1950 (see s. 1 and Gazette 19 Oct 1949 p. 2499)
 Reprint of the Evidence Act 1906 approved 13 Jun 1956 in Volume 10 of Reprinted Acts (includes amendments listed above)
-Evidence Act Amendment Act 1956 | 16 of 1956 | 26 Oct 1956 | 26 Oct 1956
-Evidence Act Amendment Act 1960 | 10 of 1960 | 6 Oct 1960 | 6 Oct 1960
-Evidence Act Amendment Act 1962 | 12 of 1962 | 1 Oct 1962 | 1 Oct 1962
-Evidence Act Amendment Act 1963 | 54 of 1963 | 17 Dec 1963 | 1 Jul 1964 (see s. 2 and Gazette 26 Jun 1964 p. 2525)
-Evidence Act Amendment Act 1964 | 11 of 1964 | 2 Oct 1964 | 2 Oct 1964
+Evidence Act Amendment Act 1956 | 16 of 1956 (5 Eliz. II No. 16) | 26 Oct 1956 | 26 Oct 1956
+Evidence Act Amendment Act 1960 | 10 of 1960 (9 Eliz. II No. 10) | 6 Oct 1960 | 6 Oct 1960
+Evidence Act Amendment Act 1962 | 12 of 1962 (11 Eliz. II No. 12) | 1 Oct 1962 | 1 Oct 1962
+Evidence Act Amendment Act 1963 | 54 of 1963 (12 Eliz. II No. 54) | 17 Dec 1963 | 1 Jul 1964 (see s. 2 and Gazette 26 Jun 1964 p. 2525)
+Evidence Act Amendment Act 1964 | 11 of 1964 (13 Eliz. II No. 11) | 2 Oct 1964 | 2 Oct 1964
 Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Reprint of the Evidence Act 1906 approved 4 Aug 1966 (not in a Volume) (includes amendments listed above)
 Evidence Act Amendment Act 1966 | 20 of 1966 | 17 Oct 1966 | 1 Feb 1967 (see s. 2 and Gazette 20 Jan 1967 p. 89)
@@ -38,9 +38,9 @@ Artificial Conception Act 1985 s. 8 | 14 of 1985 | 12 Apr 1985 | 1 Jul 1985 (see
 Acts Amendment (Sexual Assaults) Act 1985 Pt. III | 74 of 1985 | 20 Nov 1985 | 1 Apr 1986 (see s. 2 and Gazette 28 Feb 1986 p. 605)
 Reprint of the Evidence Act 1906 as at 14 Aug 1986 (includes amendments listed above)
 Acts Amendment (Recording of Depositions) Act 1986 Pt. III | 81 of 1986 | 9 Dec 1986 | 1 Aug 1987 (see s. 2 and Gazette 10 Jul 1987 p. 2607)
-Evidence Amendment Act 1987 | 66 of 1987 | 1 Dec 1987 | Act other than s. 9 and 10: 8 Apr 1988 (see s. 2 and Gazette 8 Apr 1988 p. 1107); s. 9 and 10: 8 Mar 1991 (see s. 2 and Gazette 8 Mar 1991 p. 1030)
+Evidence Amendment Act 1987 | 66 of 1987 | 1 Dec 1987 | s. 1 and 2: 1 Dec 1987; Act other than s. 1, 2, 9 and 10: 8 Apr 1988 (see s. 2 and Gazette 8 Apr 1988 p. 1107); s. 9 and 10: 8 Mar 1991 (see s. 2 and Gazette 8 Mar 1991 p. 1030)
 Criminal Law Amendment Act 1988 Pt. 3 | 70 of 1988 | 15 Dec 1988 | 1 Feb 1989 (see s. 2(1) and Gazette 20 Jan 1989 p. 110)
-Evidence Amendment Act 1989 | 34 of 1989 | 22 Dec 1989 | 8 Mar 1991 (see s. 2 and Gazette 8 Mar 1991 p. 1029)
+Evidence Amendment Act 1989 | 34 of 1989 | 22 Dec 1989 | s. 1 and 2: 22 Dec 1989; Act other than s. 1 and 2: 8 Mar 1991 (see s. 2 and Gazette 8 Mar 1991 p. 1029)
 Evidence Amendment Act 1990 | 47 of 1990 | 4 Dec 1990 | 4 Dec 1990 (see s. 2)
 Children’s Court of Western Australia Amendment Act (No. 2) 1991 s. 23 | 15 of 1991 | 21 Jun 1991 | 9 Aug 1991 (see s. 2(2) and Gazette 9 Aug 1991 p. 4101)
 Acts Amendment (Evidence) Act 1991 Pt. 2 | 48 of 1991 | 17 Dec 1991 | 31 Mar 1992 (see s. 2 and Gazette 24 Mar 1992 p. 1317)
@@ -79,7 +79,7 @@ Reprint 12: The Evidence Act 1906 as at 10 Oct 2003 (includes amendments listed 
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 34 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 142(2) | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Criminal Code Amendment Act 2004 s. 24, 26, 58 and 61(6) | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
-Evidence Amendment Act 2004 | 24 of 2004 | 7 Oct 2004 | 18 Jun 2005 (see s. 2 and Gazette 17 Jun 2005 p. 2658)
+Evidence Amendment Act 2004 | 24 of 2004 | 7 Oct 2004 | s. 1 and 2: 7 Oct 2004; Act other than s. 1 and 2: 18 Jun 2005 (see s. 2 and Gazette 17 Jun 2005 p. 2658)
 Children and Community Services Act 2004 s. 251 (Sch. 2 cl. 9) | 34 of 2004 (as amended by No. 84 of 2004 s. 85(4)) | 20 Oct 2004 | Sch. 2 cl. 9(1), (3) and (4): 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695); Sch. 2 cl. 9(2): 11 Mar 2006 (see s. 2 and Gazette 10 Mar 2006 p. 987)
 Criminal Law Amendment (Sexual Assault and Other Matters) Act 2004 Pt. 3 and 4 | 46 of 2004 | 9 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 11 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
@@ -87,20 +87,19 @@ Misuse of Drugs Amendment Act 2004 s. 9(2) | 62 of 2004 | 24 Nov 2004 | 1 Jan 20
 Criminal Law Amendment (Simple Offences) Act 2004 s. 19(3) and 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 8, s. 80, 82 and 85 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 13: The Evidence Act 1906 as at 1 Jul 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 12 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
-Machinery of Government (Miscellaneous Amendments) Act 2006 s. 35 and 37 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 12 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Child Care Services Act 2007 Pt. 7 Div. 3 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
+Reprint 14: The Evidence Act 1906 as at 8 Feb 2008 (includes amendments listed above)
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 “
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
 ”.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
-Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to the Permanent Head of a Department is, unless the contrary is intended, to be read and construed as a reference to the chief executive officer of the department.
-The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Companies (Western Australia) Act 1991 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
+The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
 Largely, but not completely, superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth.
-The Companies Act 1961 was superseded by the Companies (Western Australia) Code (see endnote 5); see section 18 of the Companies (Application of Laws) Act 1981.
-Footnote no longer applicable.
+The Companies Act 1961 was superseded by the Companies (Western Australia) Code which has also been superseded (see endnote 4); see section 18 of the Companies (Application of Laws) Act 1981.
 The Acts Amendment (Video and Audio Links) Act 1998 s. 3 reads as follows:
 “
 3.Power to use certain technology
@@ -113,8 +112,8 @@ The Acts Amendment (Video and Audio Links) Act 1998 s. 3 reads as follows:
 (d)the Sentencing Act 1995,
 as amended by this Act.
 ”.
-10-18Footnote no longer applicable.
-The Evidence Amendment Act 1987 s. 10 repealed the Evidence Act Amendment Act 1974.
+The amendment in the Land Information Authority Act 2006 s. 133 to the Fifth Schedule is not included because the entry it sought to amend had been amended by the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 37.
+The Evidence Act Amendment Act 1974 is not included as it was repealed by the Evidence Amendment Act 1987 s. 10.
 The Acts Amendment (Abortion) Act 1998 s. 6(2) reads as follows:
 “
 (2) In relation to an offence committed before the commencement of this Act, the Evidence Act 1906 applies as if subsection (1) had not been enacted.
@@ -167,6 +166,102 @@ Part 4 — Transitional and validation
 “fee regulations” means regulations 6(2) and 13 of the Evidence (Witnesses’ and Interpreters’ Fees and Expenses) Regulations 1976.
 (2) Any payment purporting to have been made under the fee regulations before the coming into operation of section 28 is taken to have been, and to have always been, as valid as it would have been if section 28 had come into operation before the fee regulations were made.
 ”.
-The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to amend s. 56(1) is not included because the subsection it sought to amend was replaced by s. 82 (Sch. 2 it. 118) of this Act.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 36 to amend s. 106A is not included because the paragraph it sought to amend has been amended by the Children and Community Services Act 2004 Sch. 2 cl. 9.
-The Land Information Authority Act 2006 s. 133 to amend the Fifth Schedule is not included because the entry it sought to amend has been amended by the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 37.
+The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to amend s. 56(1) is not included because the subsection it sought to amend was replaced by s. 82 (Sch. 2 it. 118) of the same Act.
+The amendment in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 36 to s. 106A is not included because the paragraph it sought to amend had been amended by the Children and Community Services Act 2004 Sch. 2 cl. 9.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+a broadcast36C(4)
+accused36A(1), 106A
+Act3
+affected child106A
+application for leave19A(1)
+audio link120(1)
+Australasian colony3
+Australia109(1), 115, 120(1)
+authorised officer50B(1)
+authority104A(5)
+bank3
+bankers’ books3
+broadcast106MB(3)
+business79B
+business day50B(1)
+business record79B
+child106A
+colony3
+complainant19A(1), 36A(1), 36C(4)
+corroboration warning50(1)
+counsel106A
+counselling communication19A(1)
+counsellor19A(1)
+counsels19A(1), 19A(2)
+court3, 79B
+derived79B
+disclose19A(1)
+DNA profile50B(1)
+document3, 79B
+examination50B(1), 109(1)
+examined copy3
+forensic scientist50B(1)
+Gazette3
+Government Printer3
+harm19A(1)
+hearing106T(5)
+hearing day50B(1)
+inferior court109(1)
+judge3, 11(3), 12(5), 106M(3)
+judicial authority109(1)
+legal proceeding3
+new offence106A
+officer of the Library Board of Western Australia65A(2)
+opinion rule27B(4)
+participating jurisdiction120(1)
+party19C(7), 50B(1)
+periodical42
+person acting judicially3
+photograph3
+prisoner3
+privilege32A(2)
+Privy Council57(4)
+proceeding3, 106A, 106HB(1)
+proceedings79B, 115
+propensity evidence31A(1)
+property115
+prosecutor106A
+protected communication19A(1)
+protected person19A(1)
+protected witness106G(3)
+public official119(1)
+qualified person79B
+recognized court120(1)
+relationship evidence31A(1)
+relevant statement106H(3)
+repealed Code section9(6), 36A(1), Sch. 7 Pt. A cl. 1(2)
+request115
+requesting court115
+require disclosure19A(1)
+rules of court32A(2)
+Schedule 7 proceeding106A
+serious sexual offence106A
+sexual offence36A(1)
+special hearing106S(2)
+special witness106A
+State3
+statement79B
+superior court109(1)
+support person19A(1)
+supporting affidavit19A(1)
+the Commonwealth3
+the protection provisions19A(1)
+the State3
+thing50B(1)
+tribunal120(1)
+uncorroborated evidence3
+video link120(1)
+visual recording106A
+visual recording of evidence106A
+visually recorded interview106A, 106HA(3)
+votes and proceedings3
+WA court120(1)
+witness106RA(1)
+written publication36C(4)
