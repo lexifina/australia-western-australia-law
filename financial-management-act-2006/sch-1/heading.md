@@ -70,7 +70,6 @@ Public Trustee
 Racing and Wagering Western Australia
 Racing Penalties Appeal Tribunal of Western Australia
 Real Estate and Business Agents Supervisory Board
-Recreation Camps and Reserve Board
 Rottnest Island Authority
 Rural Business Development Corporation
 Screen West (Inc.)
@@ -114,4 +113,4 @@ Western Australian Treasury Corporation
 Wheatbelt Development Commission
 WorkCover Western Australia Authority
 Zoological Parks Authority
-[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; No. 38 of 2007 s. 195; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29.]
+[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; No. 38 of 2007 s. 195; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29; 8 Feb 2008 p. 323.]
