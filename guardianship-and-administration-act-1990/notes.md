@@ -25,10 +25,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 3: The Guardianship and Administration Act 1990 as at 1 Apr 2005 (includes amendments listed above except those in the Children and Community Services Act 2004, the Courts Legislation Amendment and Repeal Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004)
 Family Legislation Amendment Act 2006 Pt. 6 Div. 2 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | To be proclaimed (see s. 2)
+Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Guardianship and Administration Amendment Act 2000 s. 21 reads as follows:
 “
@@ -72,31 +69,4 @@ on or after the commencement day, the State Administrative Tribunal may make an 
 (a) an enduring power of attorney created by instrument in the form or substantially in the form of the GA Act Schedule 3 Form 1; or
 (b) a statement of acceptance in the form, or substantially in the form, of the GA Act Schedule 3 Form 2,
 in effect immediately before the commencement day contains a reference to the Guardianship and Administration Board, on and after the commencement day that reference is to be taken to be a reference to the State Administrative Tribunal.
-”.
-On the date as at which this compilation was prepared, the Wills Amendment Act 2007 s. 25, which gives effect to Sch. 1 cl. 1, had not come into operation. It reads as follows:
-“
-25.Consequential amendments to other Acts
-Schedule 1 has effect.
-”.
-Schedule 1 cl. 1 reads as follows:
-“
-Schedule 1 — Consequential amendments to other Acts
-[s. 25]
-1.Guardianship and Administration Act 1990 amended
-(1) The amendments in this clause are to the Guardianship and Administration Act 1990.
-(2) Section 45 is amended as follows:
-(a) by deleting subsection (3)(b);
-(b) by inserting after subsection (3) the following subsection —
-“
-(4) A plenary guardian may not make a will or other testamentary disposition on behalf of a represented person but this subsection does not affect the operation of section 111A.
-”.
-(3) After section 71(2) the following subsection is inserted —
-“
-(2a) Despite subsection (2), a plenary administrator may not make a will or other testamentary disposition on behalf of a represented person, but this subsection does not affect the operation of section 111A.
-”.
-(4) After section 111 the following section is inserted —
-“
-111A.Applications under section 40 of the Wills Act 1970
-Subject to sections 43(3) and 64(3)(a), a plenary guardian or a plenary administrator may, in accordance with Part XI of the Wills Act 1970, make an application to the Supreme Court for an order under section 40 of that Act if the plenary guardian or the plenary administrator considers that the represented person lacks testamentary capacity.
-”.
 ”.

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Property Law Act 1969 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Property Law Act 1969 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Property Law Act 1969 | 32 of 1969 | 19 May 1969 | 1 Aug 1969 (see s. 2 and Gazette 27 Jun 1969 p. 1873)
@@ -23,10 +23,7 @@ Acts Amendment (Equality of Status) Act 2003 s. 1258 and Pt. 49 | 28 of 2003 | 2
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Reprint 4: The Property Law Act 1969 as at 24 Aug 2007 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | To be proclaimed (see s. 2)
+Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
 Repealed by the Interpretation Act 1984.
 Repealed by the Strata Titles Act 1985.
 Section 31A proclaimed 21 January 1972, see Gazette 21 January 1972 p 72.
@@ -39,19 +36,4 @@ The Acts Amendment (Equality of Status) Act 2003 s. 125(3) reads as follows:
 (a) at the time it was attached, could not have been attached to the enjoyment of that property by a man; and
 (b) continued to have effect after the commencement of section 31 of the Property Law Act 1969,
 is of no effect.
-”.
-On the date as at which this compilation was prepared, the Wills Amendment Act 2007 s. 25, which gives effect to Sch. 1 cl. 4, had not come into operation. It reads as follows:
-“
-25.Consequential amendments to other Acts
-Schedule 1 has effect.
-”.
-Schedule 1 cl. 4 reads as follows:
-“
-Schedule 1 — Consequential amendments to other Acts
-[s. 25]
-“
-4.Property Law Act 1969 amended
-(1) The amendments in this clause are to the Property Law Act 1969.
-(2) Section 120(g) is amended by deleting “instrument” and inserting instead —
-“ disposition ”.
 ”.

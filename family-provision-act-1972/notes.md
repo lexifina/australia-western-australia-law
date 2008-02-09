@@ -7,28 +7,10 @@ Inheritance (Family and Dependants Provision) Amendment Act 1986 | 75 of 1986 | 
 Acts Amendment (Lesbian and Gay Law Reform) Act 2002 Pt. 13 | 3 of 2002 | 17 Apr 2002 | 21 Sep 2002 (see s. 2 and Gazette 20 Sep 2002 p. 4693)
 Acts Amendment (Equality of Status) Act 2003 Pt. 32 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Reprint 1: The Inheritance (Family and Dependants Provision) Act 1972 as at 5 Sep 2003 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | To be proclaimed (see s. 2)
+Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
 Repealed by the Guardianship of Children Act 1972 which was repealed by the Family Court Act 1975 (as amended by the Family Court Act Amendment and Acts Repeal Act 1979) which was repealed by the Family Court Act 1997.
 The Acts Amendment (Lesbian and Gay Reform) Act 2002 s. 82 reads as follows:
 “
 82.Applications regarding the estates of persons who died before the commencement of this Part
 An application under the Inheritance (Family and Dependants Provision) Act 1972 for provision out of the estate of a person who died before the commencement of this Part is to be dealt with under that Act as if this Part had not commenced.
-”.
-On the date as at which this compilation was prepared, the Wills Amendment Act 2007 s. 25, which gives effect to Sch. 1 cl. 2, had not come into operation. It reads as follows:
-“
-25.Consequential amendments to other Acts
-Schedule 1 has effect.
-”.
-Schedule 1 cl. 2 reads as follows:
-“
-Schedule 1 — Consequential amendments to other Acts
-[s. 25]
-“
-2.Inheritance (Family and Dependants Provision) Act 1972 amended
-(1) The amendments in this clause are to the Inheritance (Family and Dependants Provision) Act 1972.
-(2) Section 4(1) is amended in the definition of “will” by deleting “instrument.” and inserting instead —
-“ disposition. ”.
 ”.
