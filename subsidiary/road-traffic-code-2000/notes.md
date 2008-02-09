@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 October 2007 of the Road Traffic Code 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic Code 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic Code 2000 | 4 Aug 2000 p. 4213-538 | 1 Dec 2000 (see r. 2)
@@ -29,6 +29,8 @@ Road Traffic Code Amendment Regulations 2007 | 9 Mar 2007 p. 848-9 | 9 Mar 2007
 Road Traffic Code Amendment Regulations (No. 2) 2007 | 5 Apr 2007 p. 1553-8 | 5 Apr 2007
 Road Traffic Code Amendment Regulations (No. 3) 2007 | 2 Oct 2007 p. 4975-6 | 2 Oct 2007 (see r. 2)
 Reprint 2: The Road Traffic Code 2000 as at 12 Oct 2007 (includes amendments listed above)
+Road Traffic Code Amendment Regulations 2008 | 8 Feb 2008 p. 315-20 | r. 1 and 2: 8 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2008 (see r. 2(b))
+Road Traffic Amendment (Holiday Periods) Regulations 2008 r. 4 | 8 Feb 2008 p. 321-2 | 9 Feb 2008 (see r. 2(b))
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 “
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
