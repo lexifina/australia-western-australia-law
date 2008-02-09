@@ -6,7 +6,7 @@ Bicycle path sign (regs 3, 204, 218) | Bridge load limit (gross mass) sign (reg 
 Bridge load limit (mass per axle group) sign (reg 85) | Bus lane sign (regs 3, 133)
 Busway sign (regs 3, 133A)
 Bus zone sign (arrow and background to words in red) (regs 3, 154) | Buses must enter sign (reg 89)
-Children crossing - stop sign (octagonal background in red) (regs 3, 61, 62) | Children crossing - stop sign (background in orange) (regs 3, 61, 62)
+Children crossing - stop sign (octagonal background in red) (square background in lime/yellow) (regs 3, 61, 62)
 Clearance sign (reg 84) | Clearway sign (background to letter in red) (reg 148)
 De-restriction sign (regs 3, 11) | Emergency stopping lane only sign (reg 3, 76, 150)
 End area speed limit sign (reg 3, 11) | End bicycle lane sign (regs 3, 132)
@@ -58,4 +58,4 @@ Truck lane sign (regs 3, 135) | Trucks and buses low gear sign (reg 90)
 Trucks must enter sign (reg 87) | Trucks use left lane sign (reg 137)
 Truck zone sign (arrow and background to words in red) (regs 3, 152) | Two-way sign (regs 80, 118)
 U turn permitted sign (regs 31, 72) | Works zone sign (arrow and background to words in red) (regs 3, 153)
-[Schedule 2 amended in Gazette 13 Jul 2001 p. 3474-5; 11 Jan 2002 p. 52; 29 Dec 2006 p. 5924.]
+[Schedule 2 amended in Gazette 13 Jul 2001 p. 3474-5; 11 Jan 2002 p. 52; 29 Dec 2006 p. 5924; 8 Feb 2008 p. 320.]
