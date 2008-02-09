@@ -9,9 +9,10 @@ Item | Matter | Fee $
  | (c)if the gross value of the estate the subject of the application exceeds $100 000 ................. | 595.00
  | NOTES: This fee covers: (a)all documents filed in support of the application; (b)preparation of the necessary photographic copies of documents including will (if any) required for the grant and Court files; and (c)the issue of the grant.
 2. | For depositing a will of a deceased person in the Registry, (including renunciation of executor) ......... | 48.00
+2A. | For depositing a will or instrument under the Wills Act 1970 section 44(1) ............................................. | 48.00
 3. | (a)For the supply of copies of a will or other document, including marking as an office copy if required — for each page .................. | 3.00
  | (b)For certifying under seal that a copy of a document is a true copy — an additional fee of .................................................................... | 11.50
 4. | (a)For an exemplification of a grant (in addition to the fee payable under item 3(a));
  | (b)For settling and sealing a citation or a subpoena ........................................................ | 59.50
 5. | For a search for and inspection of a document or file of documents ...................................................... | 24.00
-[Schedule 3 amended in Gazette 30 Dec 2003 p. 5699; 23 Jun 2005 p. 2700; 23 Jun 2006 p. 2187; 26 Jun 2007 p. 3044.]
+[Schedule 3 amended in Gazette 30 Dec 2003 p. 5699; 23 Jun 2005 p. 2700; 23 Jun 2006 p. 2187; 26 Jun 2007 p. 3044; 8 Feb 2008 p. 314.]
