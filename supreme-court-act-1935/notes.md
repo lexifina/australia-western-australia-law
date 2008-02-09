@@ -77,12 +77,12 @@ Reprint 7: The Supreme Court Act 1935 as at 19 Aug 2005 (includes amendments lis
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 8 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 9 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Acts Amendment (Court of Appeal) Act 2004 s. 14 | 45 of 2004 | 9 Nov 2004 | To be proclaimed (see s. 2)
-Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | To be proclaimed (s. 2)
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Acts Amendment (Court of Appeal) Act 2004 s. 5(2) and Pt. 5 read as follows:
 “
@@ -207,22 +207,5 @@ The Limitation Legislation Amendment and Repeal Act 2005 s. 18(2) reads as follo
 “
 18.Section 29 repealed and a savings provision
 (2) The Supreme Court Act 1935 section 29, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
-”.
-On the date as at which this compilation was prepared, the Wills Amendment Act 2007 s. 25, which gives effect to Sch. 1 cl. 7, had not come into operation. It reads as follows:
-“
-25.Consequential amendments to other Acts
-Schedule 1 has effect.
-”.
-Schedule 1 cl. 7 reads as follows:
-“
-Schedule 1 — Consequential amendments to other Acts
-[s. 25]
-“
-7.Supreme Court Act 1935 amended
-(1) The amendment in this clause is to the Supreme Court Act 1935.
-(2) Section 171(1)(c) is amended by inserting after “Court” —
-“
-or depositing a will or instrument under section 44 of the Wills Act 1970
-”.
 ”.
 This Act has a retrospective amendment effective from 1 May 2005 see the Acts Amendment (Justice) Act 2008 s. 24. The effect of this retrospective amendment has not been included in this document. To see the provision as amended by the retrospective amendment see the document as at 31 Mar 2008.

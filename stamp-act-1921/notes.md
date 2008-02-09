@@ -164,13 +164,13 @@ Revenue Laws Amendment Act 2006 Pt. 2 (s. 3-16) | 31 of 2006 | 4 Jul 2006 | s. 4
 Stamp Amendment Act 2006 | 67 of 2006 | 11 Dec 2006 | s. 4: 27 Jun 2006 (see s. 2(2)); Act other than s. 4: 12 Dec 2006 (see s. 2(1))
 Revenue Laws Amendment (Taxation) Act 2007 Pt. 5 | 12 of 2007 | 29 Jun 2007 | Pt. 5 other than s. 13(2): 1 Jul 2007 (see s. 2(d)(i))
 Reprint 17: The Stamp Act 1921 as at 24 Aug 2007 (includes amendments listed above)
+Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 30 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Revenue Laws Amendment (Taxation) Act 2007 s. 13(2) | 12 of 2007 | 29 Jun 2007 | 1 Jan 2009 (see s. 2(e))
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 55 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | To be proclaimed (s. 2)
 Repealed by the Mining Act 1978.
 This section has a retrospective commencement date effective from 1 Jul 2004 see the Revenue Laws Amendment Act 2006 s. 2(3).
 The Acts Amendment (Land Administration) Act 1997 came into operation 30 Mar 1998.
@@ -733,20 +733,5 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 55.Stamp Act 1921 amended
 (1) The amendment in this section is to the Stamp Act 1921.
 (2) The Second Schedule item 3 is deleted.
-”.
-On the date as at which this compilation was prepared, the Wills Amendment Act 2007 s. 25, which gives effect to Sch. 1 cl. 6, had not come into operation. It reads as follows:
-“
-25.Consequential amendments to other Acts
-Schedule 1 has effect.
-”.
-Schedule 1 cl. 6 reads as follows:
-“
-Schedule 1 — Consequential amendments to other Acts
-[s. 25]
-“
-6.Stamp Act 1921 amended
-(1) The amendments in this clause are to the Stamp Act 1921.
-(2) Section 76D(2)(a) is amended by deleting “instrument” in both places where it occurs and inserting instead —
-“ disposition ”.
 ”.
 This section has a retrospective commencement date effective from 6 Feb 2008 see the Revenue Laws Amendment Act 2008 Pt. 8.
