@@ -85,6 +85,7 @@ Jetties Amendment Regulations 2006 | 23 Jun 2006 p. 2193-204 | 1 Jul 2006 (see r
 Jetties Amendment Regulations 2007 | 22 Jun 2007 p. 2903-40 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b)(ii))
 Reprint 6: The Jetties Regulations 1940 as at 9 Nov 2007 (includes amendments listed above)
 Jetties Amendment Regulations (No. 2) 2007 | 7 Dec 2007 p. 5983-4 | r. 1 and 2: 7 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2007 (see r. 2(b))
+Jetties Amendment Regulations 2008 | 8 Feb 2008 p. 314-15 | r. 1 and 2: 8 Feb 2008 (see r. 2(a)); Regulations other than r 1 and 2: 9 Feb 2008 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Police Service.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
