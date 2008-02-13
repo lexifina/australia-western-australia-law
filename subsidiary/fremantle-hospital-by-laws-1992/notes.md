@@ -8,3 +8,4 @@ Fremantle Hospital Amendment By-laws 1995 | 29 Aug 1995 p. 3899-901 | 1 Sep 1995
 Fremantle Hospital Amendment By-laws 1998 | 10 Jul 1998 p. 3634 | 10 Jul 1998
 Reprint 1: The Fremantle Hospital By-laws 1992 as at 25 Jul 2003 (includes amendments listed above)
 Fremantle Hospital Amendment By-laws 2004 | 29 Jun 2004 p. 2528-9 | 1 Jul 2004 (see bl. 2)
+Fremantle Hospital Amendment By-laws 2008 | 12 Feb 2008 p. 340 | bl. 1 and 2: 12 Feb 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 13 Feb 2008 (see bl. 2(b))
