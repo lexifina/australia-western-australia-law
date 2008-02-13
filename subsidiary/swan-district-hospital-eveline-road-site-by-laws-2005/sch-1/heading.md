@@ -1,7 +1,7 @@
 ## Schedule 1 — Infringement notices and modified penalties
 [bl. 17]
 By-law | Description of offence | Modified penalty $
-6(2) | Smoking on the site, unless the person is in a specified area and a specified person | 25
+[6(2) deleted]
 8(1) | Driving or bringing vehicle on part of the site other than on roadway or parking facility, without permission | 40
 8(2) | Driving or bringing onto the site, a vehicle with an unladen weight of more than 4 tonnes, without permission | 20
 8(3) | Driving, using or standing on part of the site, a vehicle contrary to a sign | 40
@@ -21,3 +21,4 @@ By-law | Description of offence | Modified penalty $
 16(8) | Parking in an area on the site set apart for permit holders only, without a current permit | 30
 21 | Unauthorised person endorsing or altering an infringement notice | 20
 22 | Removing an infringement notice when not authorised to do so | 20
+[Schedule 1 amended in Gazette 12 Feb 2008 p. 344.]
