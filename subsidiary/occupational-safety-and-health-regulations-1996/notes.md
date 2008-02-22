@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Occupational Safety and Health Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 22 February 2008 of the Occupational Safety and Health Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Occupational Safety and Health Regulations 1996 | 27 Sep 1996 p. 4837-5080 | 1 Oct 1996 (see r. 1.2)
@@ -53,6 +53,272 @@ Occupational Safety and Health Amendment Regulations 2007 | 3 Jul 2007 p. 3293-4
 Occupational Safety and Health Amendment Regulations (No. 3) 2007 | 24 Aug 2007 p. 4255-314 | r. 1 and 2: 24 Aug 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2007 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 4) 2007 | 2 Oct 2007 p. 4978-85 | r. 1 and 2: 2 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jan 2008 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 9) 2007 | 4 Jan 2008 p. 15-16 | r. 1 and 2: 4 Jan 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jan 2008 (see r. 2(b))
-Repealed by the Health (Smoking in Enclosed Public Places) Regulations 2003.
+Reprint 6: The Occupational Safety and Health Regulations 1996 as at 22 Feb 2008 (includes amendments listed above)
+Repealed by the Health (Smoking in Enclosed Public Places) Regulations 2003 which were repealed by the Tobacco Products Control Act 2006.
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
 The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+abrasive blasting1.3, 3.102
+abrasive material1.3, 3.102
+allied process1.3, 3.94
+alter4.1
+amusement structure4.1
+anchorage3.48
+appointed medical practitioner5.1(1)
+approved1.3
+approved safety awareness training course3.135
+article5.1(1)
+AS1.3
+AS/NZS1.3
+asbestos1.3, 5.1(1)
+asbestos dust5.42
+asbestos removal area5.42
+asbestos removal site5.42
+asbestos removal work5.42
+assessment instrument6.1(1)
+assessor6.1(1)
+atmospheric monitoring5.53
+audiogram7.4(1)
+authorised person4.37A(2)(b)
+award2.2(11)
+barricade3.66
+biological monitoring5.1(1), 5.53
+blasting cabinet3.102
+blasting chamber3.102
+blood lead level5.53
+boiler4.1, Sch. 6.3 cl. 10
+bona fide research5.28
+boom-type elevating work platform4.1, Sch. 6.3 cl. 6
+bridge crane4.1, Sch. 6.3 cl. 6
+Building Code1.3
+building maintenance equipment4.1
+building maintenance unit1.3, 4.1
+building or structure1.3
+cantilevered scaffold3.66, Sch. 6.3 cl. 2
+carcinogenic substance5.28
+certificate of competency6.1(1), 7.9(1)
+chemical name5.1(1)
+class 13.114
+class 23.114
+class 33.114
+classified plant7.1
+client3.137
+commencement7.1
+commencement day7.9(1)
+commercial vehicle3.130
+commercial vehicle driver3.130
+commissioning4.1
+competent person1.3
+compressed air wet abrasive blast cleaning3.102
+concrete panel3.88(1)
+concrete placing unit4.1
+confined space3.82
+confirmed blood lead level5.53
+construction diving work3.29(1)
+construction site1.3
+construction work1.3
+consumer package5.1(1)
+container5.1(1)
+contaminant3.82
+conveyor4.1
+crane1.3, 4.1
+curing agent5.72
+current3.135
+damp5.53
+danger tag1.3
+danger zone3.64(1)
+dangerous substance5.32A(9)
+decision2.16(1)
+demolition1.3, 3.114
+derrick craneSch. 6.3 cl. 6
+design verifier4.1
+designated plant7.1
+designated smoking area3.44A(1)
+designer3.137
+direct fired process heaterSch. 6.3 cl. 10
+documentary evidence of forklift competency7.9(1)
+dogger4.54(1)
+dogging workSch. 6.3 cl. 4
+domestic construction work3.137
+driver fatigue management plan3.130
+dry abrasive blasting1.3, 3.102
+earthmoving machinery1.3, 4.1
+elevating work platform4.1
+emergency services5.1(1)
+employee3.135
+employer3.135
+enclosed workplace3.44A(1)
+energy source4.37A(1)
+escalator4.1
+exhaust system1.3
+existing assessor7.20(1)
+existing assessor of forklift competency7.21(1)
+expiry date6.11(2), 6.27(2)(a)
+explosive powered tool4.1
+exposure standard5.1(1)
+exposure standard for noise3.45
+fall injury prevention system3.48
+filter3.37
+finalised6.1(2), 7.9(2)
+fired heater4.1
+first aid3.12(1)
+flammable paint3.99
+forklift truck7.9(1), Sch. 6.3 cl. 8
+forklift work7.9(1)
+former regulations6.1(1), 7.9(1)
+gantry3.66, Sch. 6.3 cl. 2
+gantry crane4.1, Sch. 6.3 cl. 6
+gas cylinder1.3, 4.1
+gear1.3
+generic name5.1(1)
+hand-held equipment3.60(2)
+hazardous substance5.1(1)
+health surveillance5.1(1), 5.53
+high risk work6.1(1), 7.9(1)
+high risk work (interstate) licence6.1(1), 7.9(1)
+high risk work (WA) licence6.1(1), 7.9(1)
+high risk work licence1.3, 6.1(1)
+high-risk construction work3.137
+hoarding1.3, 3.66
+hoist1.3, 4.1
+holder6.1(3)
+holds6.1(3), 7.9(3)
+hung scaffold3.66, Sch. 6.3 cl. 1
+industrial equipment7.9(1)
+industrial lift truck4.1
+industrial robot4.1
+ingredient5.1(1)
+inorganic lead5.53
+interlocked4.1
+introductory course2.2(2)
+isocyanate5.72
+L C,peak3.45
+LAeq,8h3.45
+laser4.1
+laser product4.1
+lead material5.53
+lead process5.53
+lead-risk job5.53
+licence3.114, 6.4
+licensed asbestos removalist5.42
+licensed person3.72(1), 3.114, 6.3(1)
+lift4.1
+lower explosive limit5.68
+main contractor1.3
+manual handling3.4(1)
+manufacturing process1.3
+mast climbing work platform4.1, Sch. 6.3 cl. 1
+Material Safety Data Sheet5.1(1)
+materials hoistSch. 6.3 cl. 1
+medical practitioner1.3
+mobile crane4.1, Sch. 6.3 cl. 6
+monitoring5.1(1)
+MSDS5.1(1)
+nail gun4.1
+national standard7.9(1)
+noise3.45
+non-slewing mobile craneSch. 6.3 cl. 6
+notice of satisfactory assessment6.1(1), 7.9(1)
+ongoing surveillance5.24(1)
+operator protective devices4.1
+order-picking forklift truckSch. 6.3 cl. 8
+other facility3.20(1)
+out-of-service tag4.1
+overhead power line3.64(1)
+oxygen deficient atmosphere3.37
+person having control of a workplace1.3
+person having control of access to a workplace1.3
+personal hearing protectors3.45
+personnel and materials hoistSch. 6.3 cl. 6
+plant4.22
+platform1.3
+polyhydroxy compound5.72
+polyurethane manufacturing process5.72
+portable equipment3.60(2)
+portal boom craneSch. 6.3 cl. 6
+post-introductory course2.3(2)
+powder paint3.99
+prescribed equipment6.3(1)
+prescribed work7.9(1)
+presence sensing safeguarding system4.1
+pressure equipment4.1
+pressure piping4.1
+pressure vessel1.3, 4.1
+pressurized liquid blast cleaning3.102
+previously registered as an assessor6.22(1)
+promoter5.72
+purchaser5.1(1)
+qualification or statement of attainment6.1(1)
+reciprocating steam engineSch. 6.3 cl. 10
+record5.1(1)
+registered training organisation6.1(1)
+registration6.18
+regulatory authority4.1
+removal level5.53
+repair4.1
+repairsSch. 5.2
+repealed regulations7.1
+representative2.2(2), 2.3(2)
+resin5.72
+responsible person3.88H, 4.54(1)
+responsible person at a workplace3.130
+retailer5.1(1)
+rigger4.54(1)
+rigging workSch. 6.3 cl. 4
+risk phrase5.1(1)
+safe work method statement3.137
+safety awareness training certificate3.135
+safety awareness training course3.135
+safety phrase5.1(1)
+safety training induction certificate3.135
+sanitary facilities3.20(1)
+scaffold1.3, 3.66
+scaffolding equipment3.66
+scaffolding workSch. 6.3 cl. 2
+Schedule 5.4 substance5.28
+Schedule 5.5 substance5.28
+Schedule 5.6 substance5.28
+self-contained breathing apparatus3.37
+self-erecting tower craneSch. 6.3 cl. 6
+slewing mobile craneSch. 6.3 cl. 6
+smoke3.44A(1)
+spray painting3.99
+spray painting process3.99
+spur scaffold3.66, Sch. 6.3 cl. 2
+substance5.1(1)
+supplied air respirator1.3, 3.37
+supplier5.1(1)
+supply authority3.58
+suspended scaffold3.66, Sch. 6.3 cl. 1
+the instructor4.44(8)
+the passenger4.44(7)
+the regulation 1.15 penalty1.3
+the regulation 1.16 penalty1.3
+tilt-up work3.88(1)
+tobacco product3.44A(1)
+tower crane4.1, Sch. 6.3 cl. 6
+toxic atmosphere3.37, 3.40(1)
+toxic paint3.99
+tractor4.1
+transition period7.9(1)
+transitional course2.2(2)
+turbineSch. 6.3 cl. 10
+type I ingredient5.1(1), Sch. 5.1
+type II ingredient5.1(1), Sch. 5.1
+type III ingredient5.1(1), Sch. 5.1
+use4.1, 5(1), 6.3(1), Sch. 6.3 cl. 1
+vehicle hoist4.1
+vehicle loading crane4.54(1), Sch. 6.3 cl. 6
+vehicle-mounted concrete placing boomSch. 6.3 cl. 6
+vocational education and training6.1(1)
+wall3.88(1)
+warehouse operator5.1(1)
+welding1.3, 3.94
+wet abrasive blasting1.3, 3.102
+work box4.1
+work that the person was authorised to do7.9(1)
+work time3.130
+worker6.2(3)
+workplace3.60(2)
