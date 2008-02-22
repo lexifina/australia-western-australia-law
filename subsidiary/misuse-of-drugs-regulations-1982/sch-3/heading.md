@@ -1,6 +1,8 @@
 ## Schedule 3 — Category 1 items
+[Heading inserted in Gazette 10 Dec 2004 p. 5974.]
 [r. 5, 5C]
 ## Division 1 — Substances
+[Heading inserted in Gazette 10 Dec 2004 p. 5974.]
 Chemical name | Alternate name | Quantity substance in seized sample
 Acetic anhydride |  | 50 ml
 4-Amino-Butanoic acid | Piperidinic acid
@@ -15,7 +17,7 @@ Gamma butyrolactone |  | 3.5 ml
 Gamma hydroxybutanoic acid (including salts) | Gamma hydroxybutyric acid
 Hydroiodic acid | Hydrogen iodide | 250 ml
 4-Hydroxybutanal | 4-Hydroxy butyraldehyde
-2-Hydroxytetrahydrofuran | Tetrahydro- 2-furanol
+2-Hydroxytetrahydrofuran | Tetrahydro-2-furanol
 4-Hydroxy-butanoic acid lactone | Gamma-valerolactone
 4-Hydroxy-butanoic acid nitrile | 4-Hydroxy butyronitrile
 4-Hydroxy pentanoic acid | Gamma Valerolactone
@@ -43,7 +45,9 @@ Phosphorus red/white |  | 19 g
 Phosphorous acid | Phosphonic Acid
 Pseudoephedrine (including salts) |  | 37 g
 Pyridine
+[Division 1 inserted in Gazette 10 Dec 2004 p. 5974-5.]
 ## Division 2 — Things
+[Heading inserted in Gazette 10 Dec 2004 p. 5976.]
 Description | Details
 Gas cylinder containing ammonia gas
-[Schedule 3 inserted in Gazette 10 Dec 2004 p. 5974-6.]
+[Division 2 inserted in Gazette 10 Dec 2004 p. 5976.]

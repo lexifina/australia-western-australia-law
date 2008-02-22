@@ -1,5 +1,6 @@
 ## Schedule 1 — Forms
 [r. 3, 5D]
+[Heading amended in Gazette 2 Jul 1996 p. 3199.]
 Form M.D. 1
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -12,37 +13,37 @@ The intended use for the chemical product and/or the scientific apparatus is:
 Analytical Research & Design Manufacturing Resale Other
 Please specify full details of assay, project, product customer and other details of the purpose to which the product/apparatus will be put.
 Purchaser Details and Declaration
-I, ……………………………….. being ………………………………
+I, .............................................. being ....................................................................
 (Full name)(Position)
-on behalf of …………………………………………………………….
-(Company or Institution)
-Address ………………………………………………………………...
-Contact Telephone No. …………… Account No. …….……. (ACN)
+on behalf of ............................................................................................................(Company or Institution)
+Address ..................................................................................................................
+Contact Telephone No. .................... Account No. .................... (ACN) ..............
 declare that the above chemical product/apparatus will not be used by me, nor a recipient I represent, for the manufacture of illicit drugs.
-Signature ……………………………………………. Date …………..
+Signature ............................................................... Date .......................................
 Identification (100 points / valid ID photo required – attach copy)
-Current Passport No. ………………. Country of Issue ……………….
-Drivers Licence (with Photograph) No. ………….. Expiry date ……….
-Photo Identification Card Type ……………………………………….
-Further identifier(s) required by the regulations (if any) …………………………………………………………
-………………………………………………………….
+Current Passport No. ................................ Country of Issue .................................
+Drivers Licence (with Photograph) No. ..................... Expiry date .........................
+Photo Identification Card Type .............................................................................
+Further identifier(s) required by the regulations (if any)
+............................................................................................
+............................................................................................
 Details of Collection Agent’s Identification (100 points / valid photo ID required) (if different to purchaser)
-Current Passport No. ………………. Country of Issue ……………….
-Drivers Licence (with Photograph) No. ………….. Expiry date ……….
-Photo Identification Card Type ……………………………………….
-Further identifier(s) required by the regulations (if any) …………………………………………………………
-………………………………………………………….
+Current Passport No. ..................... Country of Issue ............................................
+Drivers Licence (with Photograph) No. .................... Expiry date ..........................
+Photo Identification Card Type .............................................................................
+Further identifier(s) required by the regulations (if any) ............................................................................................
+............................................................................................
 Note: Please attach a copy of all photo identification.
 All applicable details on this declaration must be completed.
-[Form M.D.1 inserted in Gazette 10 Dec 2004 p. 5972-3.]
-[Forms M.D.2 to M.D. 6 deleted]
+[Form M.D. 1 inserted in Gazette 10 Dec 2004 p. 5972-3.]
+[Forms M.D. 2 to M.D. 6 deleted in Gazette 19 Dec 2000 p. 7292.]
 Form M.D. 7
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
 MISUSE OF DRUGS REGULATIONS 1982
 INFORMATION ON OATH FOR SEARCH WARRANT
-I, [insert name of informant], of,
-being [insert occupation], do swear by Almighty God*/solemnly, sincerely and truly declare* that I suspect that the following thing [insert particulars of thing] is a thing referred to in section 23(1)(a), (b) or (c) of the Misuse of Drugs Act 1981 and that it may be in or on the following vehicle* [insert particulars of vehicle]/in or on the following premises or other place* [insert particulars of premises or other place] on the following grounds —
+I, [insert name of informant], of , being
+[insert occupation], do swear by Almighty God*/solemnly, sincerely and truly declare* that I suspect that the following thing [insert particulars of thing] is a thing referred to in section 23(1)(a), (b) or (c) of the Misuse of Drugs Act 1981 and that it may be in or on the following vehicle* [insert particulars of vehicle] /in or on the following premises or other place* [insert particulars of premises or other place] on the following grounds —
 [insert grounds for suspicion]
 Sworn*/affirmed* before me [insert name of justice of the peace], being a justice of the peace, on [insert date of swearing or affirmation] at [insert place of swearing or affirmation].
 ........................................................
@@ -78,6 +79,7 @@ at .............................................................................
 Signature of Commissioner of Police*/
 delegate of Commissioner of Police*
 * Please delete inapplicable alternative.
+[Form M.D. 8A inserted in Gazette 2 Jul 1996 p. 3199-200.]
 Form M.D. 8B
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -88,6 +90,7 @@ Analysis*/examination* applied for on ............................. at .........
 ..................................................
 Signature of applicant
 * Please delete inapplicable alternative.
+[Form M.D. 8B inserted in Gazette 2 Jul 1996 p. 3200.]
 Form M.D. 9
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -101,19 +104,20 @@ on .......................................................... at ...............
 Signature and designation, if any, of applicant
 police officer*/approved person*.
 * Please delete inapplicable alternative.
+[Form M.D. 9 amended in Gazette 2 Jul 1996 p. 3200.]
 Form M.D. 10
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
 MISUSE OF DRUGS REGULATIONS 1982
 HOLDING ORDER
-I, [insert name of justice of the peace granting holding order] of,
-being a justice of the peace and being satisfied on the application of the following police officer*/approved person* [insert name and designation, if any, of applicant police officer or approved person] that there are reasonable grounds to suspect that the following thing (not being a prohibited drug, prohibited plant or dangerous substance) [insert particulars of thing] seized or acquired and detained under section 26 of the Misuse of Drugs Act 1981 is a thing referred to in section 23(1)(a), (b) or (c) of that Act, hereby grant to that police officer*/approved person* a holding order authorising the continued detention of that thing for the period specified in section 28(1) of that Act.
+I, [insert name of justice of the peace granting holding order] of , being a justice of the peace and being satisfied on the application of the following police officer*/approved person* [insert name and designation, if any, of applicant police officer or approved person] that there are reasonable grounds to suspect that the following thing (not being a prohibited drug, prohibited plant or dangerous substance) [insert particulars of thing] seized or acquired and detained under section 26 of the Misuse of Drugs Act 1981 is a thing referred to in section 23(1)(a), (b) or (c) of that Act, hereby grant to that police officer*/approved person* a holding order authorising the continued detention of that thing for the period specified in section 28(1) of that Act.
 Granted on .............................................................................................................
 at ............................................................................................................................
 .........................................................
 Signature of justice of the peace
 granting holding order.
 * Please delete inapplicable alternative.
+[Form M.D. 10 inserted in Gazette 2 Jul 1996 p. 3200.]
 Form M.D. 11
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -159,6 +163,7 @@ Certified on ............................................... at ................
 ...................................................... ........................................................
 Signature of approved analyst Address of approved analyst
 * Please delete inapplicable alternative.
+[Form M.D. 13 amended in Gazette 2 Jul 1996 p. 3201.]
 Form M.D. 14
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -179,6 +184,7 @@ Certified on ............................................... at ................
 ...................................................... ........................................................
 Signature of approved analyst Address of approved botanist
 * Please delete inapplicable alternative.
+[Form M.D. 14 amended in Gazette 2 Jul 1996 p. 3201-2.]
 Form M.D. 15
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -188,4 +194,4 @@ I [insert name of applicant defendant] apply for a copy of [insert details of re
 Certificate applied for on ..................... at .....................
 ...............................................................
 Signature of applicant defendant
-[Schedule 1 amended in Gazette 2 Jul 1996 p. 3199-202; 19 Dec 2000 p. 7291-2.]
+[Form 15 inserted in Gazette 2 Jul 1996 p. 3202.]
