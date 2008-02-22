@@ -14,26 +14,26 @@
  | (a)construct a new single residential building or alter an existing single residential building | 106.00 (per residential unit)
  | (b)construct an outbuilding to a single residential building (including a pool, garage or pergola) | 31.00
  | (c)construct or alter a building other than a residential building — an amount based on the cost of the construction or alteration as assessed by the Corporation, of —
- | up to $22 500 ............................................…. | 25.00
- | over $22 500 but not over $200 000 ........……. | 85.00
- | over $200 000 but not over $500 000 ......……. | 330.00
- | over $500 000 but not over $1 000 000 ......….. | 550.00
- | over $1 000 000 but not over $10 000 000 …... | 0.90 (per $1 000 of construction)
+ | up to $22 500 ................................................. | 25.00
+ | over $22 500 but not over $200 000 ................ | 85.00
+ | over $200 000 but not over $500 000 .............. | 330.00
+ | over $500 000 but not over $1 000 000 . ......... | 550.00
+ | over $1 000 000 but not over $10 000 000 ...... | 0.90 (per $1 000 of construction)
  | over $10 000 000 ........................................... | 0.25 (per $1 000 of construction)
 [Division 2 inserted in Gazette 29 Jun 2007 p. 3239.]
 ## Division 3 — Fees for copies of records, plans and diagrams
 [bl. 225]
 [Heading inserted in Gazette 29 Jun 2007 p. 3239.]
  | $
-3. | Supply of copy of, or extract from, records or plans (other than those stored in digital format) under section 102(3) of the Water Agencies (Powers) Act 1984 (provided on A4 paper) ............................. | 12.65
-4. | Property sewer diagram (per A4 copy) ....................... | 12.65
+3. | Supply of copy of, or extract from, records or plans (other than those stored in digital format) under section 102(3) of the Water Agencies (Powers) Act 1984 (provided on A4 paper) .............................. | 12.65
+4. | Property sewer diagram (per A4 copy) ..................... | 12.65
 [Division 3 inserted in Gazette 29 Jun 2007 p. 3239.]
 ## Division 4 — Statements and information
 [bl. 224]
 [Heading inserted in Gazette 29 Jun 2007 p. 3239.]
  |  | $
-5. | Electronic lodgment of a combined request for a copy of any portion of the records kept under section 69A of the Water Agencies (Powers) Act 1984 and answers to orders and requisitions in relation to land | 35.20
-6. | Lodgment other than under item 7 of a combined request for a copy of any portion of the records kept under section 69A of the Water Agencies (Powers) Act 1984 and answers to orders and requisitions in relation to land .........................................….........… | 60.50
+5. | Electronic lodgment of a combined request for a copy of any portion of the records kept under section 69A of the Water Agencies (Powers) Act 1984 and answers to orders and requisitions in relation to land ........................................................... | 35.20
+6. | Lodgment other than under item 7 of a combined request for a copy of any portion of the records kept under section 69A of the Water Agencies (Powers) Act 1984 and answers to orders and requisitions in relation to land .......................................................... | 60.50
 7. | Provision of information other than under items 7 or 8 that involves research or investigation of 15 minutes or more — per hour or part of an hour .. | 69.00
 [Division 4 inserted in Gazette 29 Jun 2007 p. 3239.]
 ## Division 5 — Fees for the provision of plan sheets for preparation of diagrams of property sewer installations
