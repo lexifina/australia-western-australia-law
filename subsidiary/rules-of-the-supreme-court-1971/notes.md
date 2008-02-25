@@ -117,96 +117,8 @@ Courts and Legal Practice (Consequential Amendments) Regulations 2005 r. 12 | 19
 Supreme Court Amendment Rules 2005 | 29 Apr 2005 p. 1791-6 | 2 May 2005 (see r. 2)
 Supreme Court Amendment Rules (No. 2) 2005 | 29 Apr 2005 p. 1797-802 | 2 May 2005 (see r. 2)
 Supreme Court Amendment Rules 2007 | 21 Feb 2007 p. 531-96 | 1 Mar 2007 (see r. 2)
-Supreme Court Amendment Rules 2008 Pt. 1 and 2 | 22 Feb 2008 p. 629-56 | Pt. 1: 22 Feb 2008 (see r. 2(a)); Pt. 2: 23 Feb 2008 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Supreme Court Amendment Rules 2008 Pt. 3 | 22 Feb 2008 p. 629-56 | 25 Feb 2008 (see r. 2(c))
-On the date as at which this compilation was prepared, the Supreme Court Amendment Rules 2008 Pt. 3 had not come into operation. It reads as follows:
-“
-Part 3 — Amendments about filing and service
-33.Order 67 amended
-(1) Order 67 rule 9(1) is amended by inserting after “was filed” —
-“
-and, if the document was filed under rule 20, a record of the fact that it was filed electronically
-”.
-(2) Order 67 rule 9(2) is amended by inserting after “delivery” —
-“ or receipt ”.
-(3) After Order 67 rule 18 the following rules are inserted —
-“
-19.Some documents may be filed by fax
-(1) Subject to this rule, a document may be filed by fax.
-(2) A person wanting to file a document by fax must use the published fax number for the Central Office.
-(3) A document that, with any attachments and a cover page, is more than 20 pages long, must not be filed by fax and any such document received by the Central Office is to be taken not to have been filed.
-(4) A document that is sent by fax to the Central Office must have a cover page stating —
-(a) the sender’s name, postal address, document exchange number (if any), telephone number and fax number; and
-(b) the number of pages (including the cover page) being sent by fax.
-(5) A person that files a document by fax must —
-(a) endorse the first page of the original document with —
-(i) a statement that the document is the original of a document sent by fax; and
-(ii) the date and time the document was sent by fax;
-and
-(b) keep the endorsed original document and the fax machine’s report evidencing the successful transmission of the document; and
-(c) if directed to do so by the Court, produce the items in paragraph (b) to the Court.
-(6) A document filed by fax is to be taken to have been filed —
-(a) if the whole document is received before 4.00 p.m. on a day when the Central Office is open for business, on that day;
-(b) otherwise, on the next day when the Central Office is open for business.
-(7) A person who files a document by fax must have the original paper version of the document with him or her at any conference or hearing in the course of the case concerned.
-(8) The Court may at any time, on the application of a party or on its own initiative, order a person who has filed a document by fax to file the paper version of the document.
-20.Some documents may be filed using the Court’s website
-(1) Subject to the requirements of the Court’s website and this rule, a person may file a document in the Central Office electronically by filing an electronic version of it by means of the Court’s website.
-(2) If these Rules require a document to be signed by a person who is not, or who is not acting on behalf of, the person filing it, the document cannot be filed electronically unless it is an affidavit.
-(3) If these Rules require a document, before it is filed, to be signed by or on behalf of the person filing it and the document is being filed electronically —
-(a) the document need not be signed by that person; and
-(b) the person filing the document electronically must ensure that the electronic version of the document, instead of showing a signature at any place where a signature is required, states the name of the person whose signature is required at the place.
-(4) A person who files an affidavit electronically must either file an electronic version of it that includes the signatures on it or —
-(a) file an electronic version of it that does not include the signatures on it; and
-(b) ensure that the electronic version, instead of showing a signature at any place where a signature appears in the paper version, states the name of the person whose signature it is; and
-(c) also file an undertaking that the person —
-(i) has possession of the paper version signed according to law; and
-(ii) will retain the paper version subject to any order of the Court.
-(5) A document filed electronically is to be taken to have been filed —
-(a) if the whole document is received by the Central Office before 4.00 p.m. on a day when it is open for business, on that day; or
-(b) otherwise, on the next day when the Central Office is open for business.
-(6) A document that is sent electronically to the Court but not in accordance with the requirements of the Court’s website and this rule is to be taken not to have been filed.
-(7) A person who files a document electronically must have the original paper version of the document with him or her at any conference or hearing in the course of the case concerned.
-(8) The Court may at any time, on the application of a party or on its own initiative, order a person who has filed a document electronically to file the paper version of the document.
-”.
-34.Order 71A amended
-(1) Order 71A rule 2(a)(ii) is amended by inserting after “place” —
-“ where ”.
-(2) Order 71A rule 3(2)(c) is amended by inserting after “address” —
-“ in Australia ”.
-(3) After Order 71A rule 3(4) the following subrules are inserted —
-“
-(5) If a party who is self-represented is registered by the Court’s website as a person authorised to file documents electronically, any email address stated under subrule (1) must be the email address of the party recorded on the website.
-(6) If a practitioner is registered by the Court’s website as a person authorised to file documents electronically, any email address stated under subrule (2) must be the email address of the practitioner recorded on the website.
-”.
-35.Order 72 amended
-(1) Order 72 rule 3 is amended by deleting “town clerk,” and inserting instead —
-“ chief executive officer, ”.
-(2) Order 72 rule 3A is amended by inserting after “serving it” —
-“ in ”.
-(3) Order 72 is amended by inserting after rule 5A(2) the following subrule —
-“
-(3) If a document is served on a person in accordance with the Court’s directions given in a particular case, the document is to be taken to be served on the person at the time directed by the Court.
-”.
-(4) Order 72 rule 6 is repealed and the following rules are inserted instead —
-“
-6.Service of documents by the Court
-(1) If service of a document on a person by the Court is required, the proper officer must —
-(a) serve it on the person under rule 5; or
-(b) if the person is registered by the Court’s website as a person authorised to file documents electronically —
-(i) put it in an electronic mailbox maintained by the Court; and
-(ii) send to the person’s email address recorded on the website an email that says the document is in the mailbox,
-or serve it on the person under rule 5; or
-(c) if the Court has directed how the document is to be served — obey the directions.
-(2) Rule 5A applies to a document served under subrule (1).
-6A.Serving documents by email
-Order 67 rule 20(3) and (4), with any necessary changes, apply to a document being served by email in the same way as they apply to a document being filed electronically.
-”.
-”.
-3-7Footnotes no longer applicable.
+Supreme Court Amendment Rules 2008 | 22 Feb 2008 p. 629-56 | Pt. 1: 22 Feb 2008 (see r. 2(a)); Pt. 2: 23 Feb 2008 (see r. 2(b)); Pt. 3: 25 Feb 2008 (see r. 2(c))
+-7Footnotes no longer applicable.
 Rule 12 of rules published in Gazette 10 January 1975 p. 54, read as follows:
 “
 12.Saving
@@ -240,3 +152,4 @@ The Supreme Court (Corporations Law) (Transitional) Rules 1991 are repealed.
 Notwithstanding Rule 117 the Supreme Court (Corporations Law) (Transitional) Rules 1991 shall continue to apply to all proceedings under the Corporations Law or the Code commenced before the coming into operation of this Order.
 ”.
 Disallowed on 10 Mar 1998, see Gazette 13 Mar 1998 p. 1389.
+By Authority: JOHN A. STRIJK, Government Printer
