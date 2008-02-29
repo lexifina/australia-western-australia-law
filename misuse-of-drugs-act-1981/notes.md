@@ -1,18 +1,18 @@
 Notes
-This is a compilation of the Misuse of Drugs Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 29 February 2008 of the Misuse of Drugs Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Misuse of Drugs Act 1981 | 66 of 1981 | 23 Oct 1981 | 1 Sep 1982 (see s. 2 and Gazette 20 Aug 1982 p. 3250)
-Misuse of Drugs (Amounts of Prohibited Drugs) Order 1990 (published in Gazette 30 Nov 1990 p. 5967) | 30 Nov 1990
+Misuse of Drugs (Amounts of Prohibited Drugs) Order 1990 published in Gazette 30 Nov 1990 p. 5937 | 30 Nov 1990
 Misuse of Drugs Amendment Act 1990 | 50 of 1990 | 4 Dec 1990 | 4 Dec 1990 (see s. 2)
 Conservation and Land Management Amendment Act 1991 s. 57 | 20 of 1991 | 25 Jun 1991 | 23 Aug 1991 (see s. 2 and Gazette 23 Aug 1991 p. 4353)
-Misuse of Drugs (Amounts of Prohibited Drugs) Order 1991 (published in Gazette 29 Nov 1991 p. 6040-1) | 29 Nov 1991
-Misuse of Drugs (Amounts of Prohibited Drugs) Order 1994 (published in Gazette 22 Mar 1994 p. 1245) | 22 Mar 1994
+Misuse of Drugs (Amounts of Prohibited Drugs) Order 1991 published in Gazette 29 Nov 1991 p. 6040-1 | 29 Nov 1991
+Misuse of Drugs (Amounts of Prohibited Drugs) Order 1994 published in Gazette 22 Mar 1994 p. 1245 | 22 Mar 1994
 Poisons Amendment Act 1994 s. 11 | 12 of 1994 | 15 Apr 1994 | 27 May 1994 (see s. 2 and Gazette 27 May 1994 p. 2205)
 Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
 Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
 Acts Amendment (Fines, Penalties and Infringement Notices) Act 1994 Pt. 15 | 92 of 1994 | 23 Dec 1994 | 1 Jan 1995 (see s. 2(1) and Gazette 30 Dec 1994 p. 7211)
-Misuse of Drugs Amendment Act 1995 | 44 of 1995 | 18 Oct 1995 | 16 Aug 1996 (see s. 2 and Gazette 16 Aug 1996 p. 4007)
+Misuse of Drugs Amendment Act 1995 | 44 of 1995 | 18 Oct 1995 | s. 1 and 2: 18 Oct 1995; Act other than s. 1 and 2: 16 Aug 1996 (see s. 2 and Gazette 16 Aug 1996 p. 4007)
 Poisons Amendment Act 1995 s. 43 | 48 of 1995 | 6 Nov 1995 | 20 Mar 1996 (see s. 2 and Gazette 19 Mar 1996 p. 1203)
 Reprint of the Misuse of Drugs Act 1981 as at 11 Nov 1996 (includes amendments listed above)
 Misuse of Drugs Amendment Act 1998 | 3 of 1998 | 26 Mar 1998 | 26 Mar 1998 (see s. 2)
@@ -24,13 +24,14 @@ Cannabis Control Act 2003 Pt. 5 | 52 of 2003 | 1 Oct 2003 | 22 Mar 2004 (see s. 
 Industrial Hemp Act 2004 Pt. 7 | 1 of 2004 | 12 Mar 2004 | 19 May 2004 (see s. 2 and Gazette 18 May 2004 p. 1561)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-Misuse of Drugs Amendment Act 2004 | 62 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 10 Dec 2004 p. 5965)
+Misuse of Drugs Amendment Act 2004 | 62 of 2004 | 24 Nov 2004 | s. 1 and 2: 24 Nov 2004; Act other than s. 1 and 2: 1 Jan 2005 (see s. 2 and Gazette 10 Dec 2004 p. 5965)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Misuse of Drugs Act 1981 as at 1 Jul 2005 (includes amendments listed above)
-Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 14 Div 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 14 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Misuse of Drugs Amendment Act 2006 | 40 of 2006 | 22 Sep 2006 | s. 1 and 2: 22 Sep 2006; Act other than s. 1 and 2: 28 Apr 2007 (see s. 2 and Gazette 27 Apr 2007 p. 1775)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
-Misuse of Drugs (Amount of Prohibited Drugs) Order 2007 (published in Gazette 7 Dec 2007 p. 5985) | cl. 1 and 2: 7 Dec 2007 (see cl. 2(a)); Order other than cl. 1 and 2: 8 Dec 2007 (see cl. 2(b))
+Misuse of Drugs (Amounts of Prohibited Drugs) Order 2007 published in Gazette 7 Dec 2007 p. 5985 | cl. 1 and 2: 7 Dec 2007 (see cl. 2(a)); Order other than cl. 1 and 2: 8 Dec 2007 (see cl. 2(b))
+Reprint 4: The Misuse of Drugs Act 1981 as at 29 Feb 2008 (includes amendments listed above)
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
 “
@@ -88,3 +89,60 @@ If, immediately before the commencement of this Act, a warrant issued under the 
 (8) The Registrar of Titles is not required to obtain the consent or direction of the Commissioner of Titles to perform a function conferred on the Registrar under this section.
 (9) To the extent that a provision of this section relating to any property is inconsistent with the Transfer of Land Act 1983, the provision prevails, but this section does not otherwise affect the operation of that Act in relation to the property.
 ”.
+This should read “1893”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+analyst3(1)
+approved analyst3(1)
+approved botanist3(1)
+approved person21
+authorised person14(4)(a), 26(3), 31(8)
+authorised prescription3(1)
+botanist3(1)
+cannabis3(1)
+cannabis resin3(1)
+category 1 item12
+category 2 item12
+CEO (Health)38D(1)
+Commissioner3(1)
+confidential information27B(1)
+dangerous substance3(1)
+dentist3(1)
+drug of addiction3(1)
+external serious drug offence32A(3)
+heroin3(1)
+holding order21
+industrial hemp3(1)
+industrial hemp seed3(1)
+medical practitioner3(1)
+nurse practitioner3(1)
+opium3(1)
+owner5(2)
+police officer3(1)
+principal offence33(1), 33(3)
+processed industrial hemp3(1)
+prohibited drug3(1)
+prohibited plant3(1)
+recipient12
+sample3(1)
+search warrant21
+serious drug offence32A(3)
+simple offence3(1)
+specified27A(7)
+specified drug3(1)
+substance12
+sufficient samples27(6)
+summary court3(1)
+supplier12
+the claimant27(1)(b), 28(2)
+the Poisons Act 19643(1)
+the principal offence33(2)
+the regulations3(1)
+to cultivate3(1)
+to possess3(1)
+to supply3(1)
+undercover officer26(3), 31(8)
+vehicle21
+veterinary surgeon3(1)
+By Authority: JOHN A. STRIJK, Government Printer
