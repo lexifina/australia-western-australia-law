@@ -89,17 +89,17 @@ Fees | $
 (ii)are sold to a person who holds an aquaculture licence or fish processor’s licence .......................................................... | No fee
 3.Managed fishery licence fees
 (1)Abalone Managed Fishery, the sum obtained by multiplying the total kg of entitlement conferred by the licence (but excluding any entitlement transferred to or from the licence under section 141 of the Act) by the fee for each kg, as follows —
-(a)for greenlip abalone, per kg .......................... | 10.45
-(b)for brownlip abalone, per kg ......................... | 10.45
-(c)for Roe’s abalone, per kg .............................. | 3.15
-(2)Abrolhos Islands and Mid West Trawl Managed Fishery, per gear unit .............................................. | 9 070.00
+(a)for greenlip abalone, per kg .......................... | 10.62
+(b)for brownlip abalone, per kg ......................... | 10.62
+(c)for Roe’s abalone, per kg .............................. | 3.30
+(2)Abrolhos Islands and Mid West Trawl Managed Fishery, per gear unit .............................................. | 5 971.00
 (3)Broome Prawn Managed Fishery ............................ | 8 231.00
 (4)Cockburn Sound (Crab) Managed Fishery, per pot | 26.41
 (5)Cockburn Sound (Fish Net) Managed Fishery ....... | 790.00
 (6)Cockburn Sound (Line and Pot) Managed Fishery . | 115.00
 (7)Cockburn Sound (Mussel) Managed Fishery .......... | 119.00
 (8)Esperance Rock Lobster Managed Fishery, per pot | 59.94
-(9)Exmouth Gulf Prawn Managed Fishery .................... | 34 265.00
+(9)Exmouth Gulf Prawn Managed Fishery .................... | 22 562.00
 (10)Kimberley Gillnet and Barramundi Managed Fishery, per boat ...................................................... | 2 386.00
 (11)Kimberley Prawn Managed Fishery —
 (a)for a Class 1 licence ..................................... | 915.00
@@ -120,10 +120,10 @@ Fees | $
 (16)Pilbara Fish Trawl Interim Managed Fishery, per fish trawl unit .................................................................. | 7.98
 (17)Pilbara Trap Managed Fishery, per trap unit .......... | 6.73
 (18)Shark Bay Beach Seine and Mesh Net Managed Fishery, per fishing unit .......................................... | 2 660.00
-(19)Shark Bay Prawn Managed Fishery ........................ | 41 514.00
+(19)Shark Bay Prawn Managed Fishery ........................ | 34 978.00
 (20)Shark Bay Scallop Managed Fishery —
-(a)for a class A boat, per boat .......................... | 21 629.00
-(b)for a class B boat, per boat ........................... | 2 804.00
+(a)for a class A boat, per boat .......................... | 19 816.00
+(b)for a class B boat, per boat ........................... | 2 569.00
 (21)Shark Bay Snapper Managed Fishery, per unit ....... | 14.98
 (22)South Coast Estuarine Managed Fishery ................ | 1 126.00
 (23)South Coast Purse Seine Managed Fishery, the sum obtained by multiplying the number of units of entitlement determined in accordance with that management plan, conferred by the licence by the fee for each unit as follows —
@@ -142,8 +142,8 @@ Fees | $
 (27)Specimen Shell Managed Fishery ........................... | 1 005.00
 (28)Warnbro Sound (Crab) Managed Fishery ............... | 1 048.00
 (29)West Coast (Beach Bait Fish Net) Managed Fishery ..................................................................... | 268.00
-(30)West Coast Demersal Gillnet and Demersal Longline Interim Managed Fishery, per unit .......... | 60.98
-(31)West Coast Purse Seine Managed Fishery............... | 2 094.00
+(30)West Coast Demersal Gillnet and Demersal Longline Interim Managed Fishery, per unit .......... | 63.01
+(31)West Coast Purse Seine Managed Fishery............... | 2 164.00
 (32)West Coast Rock Lobster Managed Fishery, per unit .......................................................................... | 147.00
 (33)Windy Harbour-Augusta Rock Lobster Managed Fishery, per pot ....................................................... | 45.17
 4.Aquatic eco-tourism operator’s licence or restricted fishing tour operator’s licence
@@ -186,4 +186,4 @@ Types of operation —
 (1)a boat 6.5 m or longer .............................................. | 315.00
 (2)a boat shorter than 6.5 m ......................................... | 85.00
 7.Tag authorising the possession of one pink snapper in the Freycinet Estuary ................................................................ | 10.00
-[Part 3 inserted in Gazette 19 Sep 2003 p. 4120-5; amended in Gazette 19 Sep 2003 p. 4118; 17 Feb 2004 p. 600; 28 May 2004 p. 1896-902 (as amended in Gazette 29 Jun 2004 p. 2524); 30 Sep 2004 p. 4187; 1 Mar 2005 p. 877-8; 22 Jul 2005 p. 3372-5; 16 Sep 2005 p. 4315-17; 7 Feb 2006 p. 620-1; 5 Sep 2006 p. 3616-17; 16 Feb 2007 p. 489-90; 12 Jun 2007 p. 2717-19; 14 Aug 2007 p. 4101-2; 4 Sep 2007 p. 4520.]
+[Part 3 inserted in Gazette 19 Sep 2003 p. 4120-5; amended in Gazette 19 Sep 2003 p. 4118; 17 Feb 2004 p. 600; 28 May 2004 p. 1896-902 (as amended in Gazette 29 Jun 2004 p. 2524); 30 Sep 2004 p. 4187; 1 Mar 2005 p. 877-8; 22 Jul 2005 p. 3372-5; 16 Sep 2005 p. 4315-17; 7 Feb 2006 p. 620-1; 5 Sep 2006 p. 3616-17; 16 Feb 2007 p. 489-90; 12 Jun 2007 p. 2717-19; 14 Aug 2007 p. 4101-2; 4 Sep 2007 p. 4520; 5 Feb 2008 p. 301-2.]

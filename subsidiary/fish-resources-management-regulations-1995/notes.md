@@ -108,35 +108,7 @@ Fish Resources Management Amendment Regulations (No. 7) 2007 | 4 Sep 2007 p. 451
 Reprint 7: The Fish Resources Management Regulations 1995 as at 19 Oct 2007 (includes amendments listed above)
 Fish Resources Management Amendment Regulations (No. 4) 2007 | 13 Nov 2007 | r. 1 and 2: 13 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2008 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 8) 2007 | 21 Dec 2007 p. 6325-6 | r. 1 and 2: 21 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Dec 2007 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Fish Resources Management Amendment Regulations 2008 r. 3 and 4 | 5 Feb 2008 p. 301-2 | 1 Mar 2008 (see r. 2(b))
+Fish Resources Management Amendment Regulations 2008 | 5 Feb 2008 p. 301-2 | r. 1 and 2: 5 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b))
 Repealed by the Land Administration Act 1997 s. 281(1).
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
-On the date as at which this compilation was prepared, the Fish Resources Management Amendment Regulations 2008 r. 3 and 4 had not come into operation. They read as follows:
-“
-3.The regulations amended
-The amendments in these regulations are to the Fish Resources Management Regulations 1995.
-4.Schedule 1 amended
-Schedule 1 Part 3 is amended as follows:
-(a) in item 3(1)(a) and (b) by deleting “10.45” and inserting instead —
-“ 10.62 ”;
-(b) in item 3(1)(c) by deleting “3.15” and inserting instead —
-“ 3.30 ”;
-(c) in item 3(2) by deleting “9 070.00” and inserting instead —
-“ 5 971.00 ”;
-(d) in item 3(9) by deleting “34 265.00” and inserting instead —
-“ 22 562.00 ”;
-(e) in item 3(19) by deleting “41 514.00” and inserting instead —
-“ 34 978.00 ”;
-(f) in item 3(20)(a) by deleting “21 629.00” and inserting instead —
-“ 19 816.00 ”;
-(g) in item 3(20)(b) by deleting “2 804.00” and inserting instead —
-“ 2 569.00 ”;
-(h) in item 3(30) by deleting “60.98” and inserting instead —
-“ 63.01 ”;
-(i) in item 3(31) by deleting “2 094.00” and inserting instead —
-“ 2 164.00 ”.
-”.
