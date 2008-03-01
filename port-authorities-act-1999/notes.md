@@ -13,13 +13,13 @@ Ports and Marine Legislation Amendment Act 2003 Pt. 2 | 71 of 2003 | 15 Dec 2003
 Statutes (Repeals and Minor Amendments) Act 2003 s. 93 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Reprint 1: The Port Authorities Act 1999 as at 1 Oct 2004 (includes amendments listed above)
+Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | 1 Mar 2008 (see s. 2 and Gazette 29 Feb 2008 p. 669)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 11 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | To be proclaimed (see s.2)
 State Superannuation Amendment Act 2007 s. 84 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 The Ports and Marine Legislation Amendment Act 2003 s. 4(2) reads as follows:
 “
@@ -107,20 +107,7 @@ In this Part —
 (b) that could not have been validly and lawfully done or omitted if this Act had received the Royal Assent before the FSR commencement time,
 is taken not to be valid, and to never have been valid.
 ”.
-On the date as at which this compilation was prepared, the Dangerous Goods Safety Act 2004 s. 70, which gives effect to Sch. 2 it. 3(4), had not come into operation. It reads as follows:
-“
-70.Repeals and consequential amendments (Sch. 2)
-Schedule 2 has effect.
-”.
-Schedule 2 it. 3(4) reads as follows:
-“
-Schedule 2 — Repeals and consequential amendments
-3.Consequential amendments
-(4) The Port Authorities Act 1999 is amended in Schedule 7 item 7 by deleting “explosives and dangerous goods as respectively defined by the Explosives and Dangerous Goods Act 1961” and inserting instead —
-“
-dangerous goods as defined by the Dangerous Goods Safety Act 2004
-”.
-”.
+Footnote no longer applicable.
 Lands and Surveys plans are now held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 84 had not come into operation. It reads as follows:
 “

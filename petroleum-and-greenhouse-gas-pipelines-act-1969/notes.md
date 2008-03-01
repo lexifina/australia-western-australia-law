@@ -19,14 +19,14 @@ Energy Coordination Amendment Act 1999 s. 10(5) | 20 of 1999 | 24 Jun 1999 | 16 
 Reprint of the Petroleum Pipelines Act 1969 as at 12 May 2000 (includes amendments listed above)
 Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 16 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
+Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | 1 Mar 2008 (see s. 2 and Gazette 29 Feb 2008 p. 669)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 99 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2(2) and Gazette 21 Mar 2006 p. 1078)
-Reprint 3: The Petroleum Pipelines Act 1969 as at 7 Jul 2006 (includes amendments listed above)
+Reprint 3: The Petroleum Pipelines Act 1969 as at 7 Jul 2006 (includes amendments listed above, except those in the Dangerous Goods Safety Act 2004 s. 70)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | To be proclaimed (see s. 2)
 Petroleum Legislation Amendment and Repeal Act 2005 Pt. 3 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
 Petroleum Amendment Act 2007 s. 102 | 35 of 2007 | 21 Dec 2007 | See
 The Acts Amendment (Petroleum) Act 1990 s. 122(2) reads as follows:
@@ -96,8 +96,8 @@ Section 21 of the principal Act does not apply to the privatised DBNGP system.
 (b) is in the DBNGP corridor as defined in section 27 of this Act,
 may be specified in the instrument as if it had been brought there by a person engaged or concerned in the operations authorised by the licence.
 (2) In this clause —
-“licence holder” means a person who is or was the holder of a licence under the principal Act;
-“property holder” means the licence holder or a nominee of the licence holder approved under section 34(3) of this Act.
+licence holder means a person who is or was the holder of a licence under the principal Act;
+property holder means the licence holder or a nominee of the licence holder approved under section 34(3) of this Act.
 44.Section 34 (pipeline standards, specifications, and conditions)
 (1) Any pipeline that was part of the corporation’s DBNGP system is to be taken, for the purposes of the principal Act, to have been constructed in accordance with any standards, specifications, and conditions prescribed under that Act.
 (2) A licence under the principal Act cannot impose any standards, specifications, or conditions in respect of a pipeline described in subclause (1) except to the extent that they relate to the operation or maintenance of the pipeline.
@@ -124,7 +124,7 @@ After section 10 the following section is inserted —
 10A.Licence not to affect native title
 (1)A licence is not to be taken to authorise the licensee or any other person to do any act that affects native title.
 (2)In subsection (1) —
-“affects” and “native title” have the meanings given to them respectively by sections 227 and 223 of the Native Title Act 1993 of the Commonwealth.
+affects and native title have the meanings given to them respectively by sections 227 and 223 of the Native Title Act 1993 of the Commonwealth.
 ”.
 60.Section 19 amended
 After section 19(1) the following subsection is inserted —
@@ -132,18 +132,7 @@ After section 19(1) the following subsection is inserted —
 (1a)Where the taking of land or an easement in land under subsection (1) is a Part 2 act, a Part 3 act or Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of that subsection is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Dangerous Goods Safety Act 2004 s. 70, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-70.Repeals and consequential amendments (Sch. 2)
-Schedule 2 has effect.
-”.
-Schedule 2 it. 3(3) reads as follows:
-“
-Schedule 2 — Repeals and consequential amendments
-3.Consequential amendments
-(3) The Petroleum Pipelines Act 1969 is amended in section 32 by deleting “Explosives and Dangerous Goods Act 1961” and inserting instead —
-“ Dangerous Goods Safety Act 2004 ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 Pt. 3 had not come into operation. It reads as follows:
 “
 Part 3 — Petroleum Pipelines Act 1969
@@ -152,16 +141,16 @@ The amendments in this Part are to the Petroleum Pipelines Act 1969.
 19.Section 4 amended
 Section 4(1) is amended by inserting in the appropriate alphabetical positions the following definitions —
 “
-“listed OSH law” means —
+listed OSH law means —
 (a)section 65;
 (b)Schedule 1;
 (c)a regulation made for the purposes of Schedule 1;
 (d)a regulation made for the purposes of section 56B; or
 (e)any other written law relating to occupational safety and health matters that is prescribed for the purposes of this paragraph;
-“other protected person” means a person who is at or near a place where a pipeline operation is being carried on at the invitation of, or with the express or implied consent of —
+other protected person means a person who is at or near a place where a pipeline operation is being carried on at the invitation of, or with the express or implied consent of —
 (a)the licensee for the pipeline operation; or
 (b)a person in control of a part of the pipeline operation;
-“pipeline operation” means an operation —
+pipeline operation means an operation —
 (a)in connection with the construction, operation, inspection (by a person other than an inspector), maintenance or repair of a pipeline; and
 (b)carried out on land that is specified in any licence as licence area;
 ”.
@@ -173,7 +162,7 @@ After section 5 the following section is inserted in Part 1 —
 (a) a pipeline operation; or
 (b) a person engaged in a pipeline operation or any other protected person.
 (2) In this section —
-“prescribed occupational safety and health laws” means any laws of the State relating to occupational safety and health (whether or not they also relate to other matters) that are prescribed by the regulations for the purposes of this section.
+prescribed occupational safety and health laws means any laws of the State relating to occupational safety and health (whether or not they also relate to other matters) that are prescribed by the regulations for the purposes of this section.
 ”.
 21.Section 36A amended
 Section 36A is amended by deleting “and shall secure the safety, health and welfare of persons engaged in operations in connection with the pipeline”.
@@ -265,9 +254,9 @@ is to be taken to have been proved in the absence of evidence to the contrary.
 (c) an Australian/New Zealand Standard,
 purporting to be certified by the CEO to be a true copy as at any date or during any period is, without proof of the signature of the CEO, sufficient evidence of the contents of the code of practice or Standard as at that date or during that period.
 (4) In subsection (3) —
-“Australian Standard” means a document having that title published by Standards Australia;
-“Australian/New Zealand Standard” means a document having that title jointly published by Standards Australia and the Standards Council of New Zealand;
-“CEO” means the chief executive officer of the department of the Public Service principally assisting in the administration of this Act.
+Australian Standard means a document having that title published by Standards Australia;
+Australian/New Zealand Standard means a document having that title jointly published by Standards Australia and the Standards Council of New Zealand;
+CEO means the chief executive officer of the department of the Public Service principally assisting in the administration of this Act.
 ”.
 (2) Section 51 of the Justices Act 1902 as in force immediately before the commencement of subsection (1) applies to an offence against the Petroleum Pipelines Act 1969 committed before that commencement as if subsection (1) had not been enacted.
 30.Section 67 amended
@@ -278,7 +267,7 @@ purporting to be certified by the CEO to be a true copy as at any date or during
 ”.
 (2) After section 67(1b) the following subsection is inserted —
 “
-(1c) The regulations under this section may adopt or apply, with or without modification, any regulation made under the Petroleum Act 1967 the Petroleum (Submerged Lands) Act 1982 or the Commonwealth Act as defined in that Act, that is in force or existing at the time when the regulations under this section take effect or as in force or existing from time to time.
+(1c) The regulations under this section may adopt or apply, with or without modification, any regulation made under the Petroleum Act 1967, the Petroleum (Submerged Lands) Act 1982 or the Commonwealth Act as defined in that Act, that is in force or existing at the time when the regulations under this section take effect or as in force or existing from time to time.
 ”.
 31.Various sections amended to delete “or the regulations” (Interpretation Act 1984 s. 46)
 The provisions set out in the Table to this section are amended by deleting “or the regulations” in each case.
@@ -320,50 +309,50 @@ The following is a simplified outline of this Schedule —
 ·The licensee for a pipeline operation must report to the Minister accidents and dangerous occurrences arising out of the pipeline operation.
 3.Definitions
 In this Schedule —
-“accident” includes the contraction of a disease;
-“contract” includes an arrangement or understanding;
-“contractor” has the meaning given by clause 6;
-“dangerous occurrence” means an occurrence declared by the regulations to be a dangerous occurrence for the purposes of this definition;
-“designated work group” means —
+accident includes the contraction of a disease;
+contract includes an arrangement or understanding;
+contractor has the meaning given by clause 6;
+dangerous occurrence means an occurrence declared by the regulations to be a dangerous occurrence for the purposes of this definition;
+designated work group means —
 (a)a group of members of the workforce engaged in a pipeline operation that is established as a designated work group under clause 17 or 18; or
 (b)that group as varied in accordance with clause 19 or 20;
-“employee”, in relation to an employer, means an employee of that employer;
-“employer” means an employer who carries on a pipeline operation;
-“group member”, in relation to a designated work group for a pipeline operation, means a person who is —
+employee, in relation to an employer, means an employee of that employer;
+employer means an employer who carries on a pipeline operation;
+group member, in relation to a designated work group for a pipeline operation, means a person who is —
 (a)a member of the workforce engaged in that operation; and
 (b)included in that designated work group;
-“improvement notice” means an improvement notice issued under clause 60(1);
-“inspection” means an inspection conducted under Division 4 and includes an investigation or inquiry;
-“licensee”, in relation to a pipeline operation, means the registered holder of the licence granted in respect of that operation;
-“licensee’s representative” means a person present at a workplace in compliance with the obligations imposed on the licensee by clause 4;
-“member of the workforce”, in relation to a pipeline operation, means a natural person who is engaged in the operation, whether —
+improvement notice means an improvement notice issued under clause 60(1);
+inspection means an inspection conducted under Division 4 and includes an investigation or inquiry;
+licensee, in relation to a pipeline operation, means the registered holder of the licence granted in respect of that operation;
+licensee’s representative means a person present at a workplace in compliance with the obligations imposed on the licensee by clause 4;
+member of the workforce, in relation to a pipeline operation, means a natural person who is engaged in the operation, whether —
 (a)as an employee of the licensee or of another person; or
 (b)as a contractor of the licensee or of another person;
-“own” includes own jointly and own in part;
-“plant” includes any machinery, equipment or tool, or any component;
-“premises” includes the following —
+own includes own jointly and own in part;
+plant includes any machinery, equipment or tool, or any component;
+premises includes the following —
 (a)a structure or building;
 (b)a place (whether or not enclosed or built on);
 (c)a part of a thing referred to in paragraph (a) or (b);
-“prohibition notice” means a prohibition notice issued under clause 58(1);
-“registered organisation” means an organisation —
+prohibition notice means a prohibition notice issued under clause 58(1);
+registered organisation means an organisation —
 (a)within the meaning of the Workplace Relations Act 1996 of the Commonwealth; or
 (b)as defined in section 7(1) of the Industrial Relations Act 1979;
-“regulated business premises” means —
+regulated business premises means —
 (a)a place where a pipeline operation is carried on; or
 (b)premises that are —
 (i)occupied by a person who is the licensee for a pipeline operation; and
 (ii)used, or proposed to be used, wholly or principally in connection with a pipeline operation;
-“regulations” means regulations made for the purposes of this Schedule;
-“Tribunal” has the meaning given to that term in the Occupational Safety and Health Act 1984 section 51G(2);
-“work” means work that is directly or indirectly related to a pipeline operation;
-“workforce representative” means —
+regulations means regulations made for the purposes of this Schedule;
+Tribunal has the meaning given to that term in the Occupational Safety and Health Act 1984 section 51G(2);
+work means work that is directly or indirectly related to a pipeline operation;
+workforce representative means —
 (a)in relation to a person who is a member of the workforce engaged in a pipeline operation — a registered organisation of which that person is a member, if the person is qualified to be a member of that organisation because of the work the person performs in relation to the pipeline operation; or
 (b)in relation to a designated work group or a proposed designated work group — a registered organisation of which a person who is, or who is likely to be, in the work group is a member, if the person is qualified to be a member of that organisation because of the work the person performs, or will perform, in relation to the pipeline operation as a member of the group;
-“work group employer”, in relation to a designated work group in relation to a pipeline operation, means an employer of one or more group members, but does not include the licensee for the pipeline operation;
-“workplace”, in relation to a pipeline operation, means the whole place where the pipeline operation is carried on or any part of a place where the pipeline operation is carried on.
+work group employer, in relation to a designated work group in relation to a pipeline operation, means an employer of one or more group members, but does not include the licensee for the pipeline operation;
+workplace, in relation to a pipeline operation, means the whole place where the pipeline operation is carried on or any part of a place where the pipeline operation is carried on.
 4.Licensee must ensure presence of licensee’s representative
-(1) The licensee for a pipeline operation must ensure that, at all times when one or more natural persons are engaged in the pipeline operation, there is present at the workplace a natural person (the “licensee’s representative”) who has day to day management and control of the pipeline operation.
+(1) The licensee for a pipeline operation must ensure that, at all times when one or more natural persons are engaged in the pipeline operation, there is present at the workplace a natural person (the licensee’s representative) who has day to day management and control of the pipeline operation.
 Penalty:$5 500.
 (2) The licensee for a pipeline operation must ensure that the name of the licensee’s representative is displayed in a prominent place at the workplace.
 Penalty:$5 500.
@@ -371,7 +360,7 @@ Penalty:$5 500.
 5.Safety and health of persons using an accommodation amenity
 For the avoidance of doubt, a reference in this Schedule to the occupational safety and health of a person includes a reference to the safety and health of a person using an accommodation amenity provided for the accommodation of persons engaged in a pipeline operation.
 6.Contractor
-For the purposes of this Schedule, a natural person is taken to be a “contractor” of another person (the “relevant person”) if the natural person is engaged in a pipeline operation under a contract for services between —
+For the purposes of this Schedule, a natural person is taken to be a “contractor” of another person (the relevant person) if the natural person is engaged in a pipeline operation under a contract for services between —
 (a) the relevant person; and
 (b) either —
 (i) the natural person; or
@@ -476,9 +465,9 @@ adequate written information, in connection with the use of the pipeline, plant 
 (v) the steps that need to be taken in order to eliminate that risk; and
 (vi) in the case of a substance — the first aid and medical procedures that should be followed if the condition of the substance causes injury to a member of the workforce engaged in a pipeline operation.
 Penalty:$22 000.
-(2) For the purposes of subclause (1), if a person (the “ostensible supplier”) supplies to a person either a pipeline, or any plant or substance, that is for use by members of the workforce engaged in a pipeline operation, and the ostensible supplier —
+(2) For the purposes of subclause (1), if a person (the ostensible supplier) supplies to a person either a pipeline, or any plant or substance, that is for use by members of the workforce engaged in a pipeline operation, and the ostensible supplier —
 (a) carries on the business of financing the acquisition or the use of goods by other persons;
-(b) has, in the course of that business, acquired an interest in the pipeline, or in the plant or substance, from another person (the “actual supplier”), solely for the purpose of financing its acquisition by, or its provision to, the person to whom it is finally supplied; and
+(b) has, in the course of that business, acquired an interest in the pipeline, or in the plant or substance, from another person (the actual supplier), solely for the purpose of financing its acquisition by, or its provision to, the person to whom it is finally supplied; and
 (c) has not taken possession of the pipeline, plant or substance, or has taken possession of the pipeline, plant or substance solely for the purpose of passing possession of the pipeline, plant or substance to the person to whom it is finally supplied,
 a reference in subclause (1) to a supplier is, in relation to the pipeline, plant or substance referred to in this subclause, to be read as a reference to the actual supplier and not as a reference to the ostensible supplier.
 (3) This clause does not affect the operation of any other law of this State that imposes an obligation in respect of the sale or supply of goods or in respect of the information to be supplied in relation to goods.
@@ -493,7 +482,7 @@ Penalty:$22 000.
 (ii) the safety and health of any other protected person;
 (b) in respect of any obligation imposed on the licensee or on any other person under a listed OSH law — to cooperate with the licensee or that other person to the extent necessary to enable the licensee or that other person to fulfil that obligation; and
 (c) to use equipment that is —
-(i) supplied to the person by the licensee, an employer of the person or any other person having control of the pipeline operation (the “equipment supplier”); and
+(i) supplied to the person by the licensee, an employer of the person or any other person having control of the pipeline operation (the equipment supplier); and
 (ii) necessary to protect the occupational safety and health of the person, or the safety and health of any other person engaged in the pipeline operation or protected person,
 in accordance with any instructions given by the equipment supplier, consistent with the safe and proper use of the equipment.
 Penalty:$5 500.
@@ -607,7 +596,7 @@ then, within 14 days after the completion of the consultations, the licensee mus
 (b) notify all parties to the disagreement of the decision.
 (4) If the matter of a disagreement is referred to the reviewing authority, the parties to the disagreement must complete the consultation in accordance with the resolution of that matter by the reviewing authority.
 (5) In this clause —
-“reviewing authority” means a person prescribed by the regulations to be a reviewing authority for the purposes of this clause.
+reviewing authority means a person prescribed by the regulations to be a reviewing authority for the purposes of this clause.
 22.Manner of grouping members of the workforce
 (1) Consultations about the establishment or variation of a designated work group must be directed principally at the determination of the manner of grouping members of the workforce —
 (a) that best and most conveniently enables their interests relating to occupational safety and health to be represented and safeguarded; and
@@ -755,7 +744,7 @@ This Schedule does not —
 and
 (b) the contravention affects or may affect one or more group members,
 the representative must consult with the person supervising the relevant activity in an attempt to reach agreement on rectifying the contravention or preventing the likely contravention.
-(2) If, in the safety and health representative’s opinion, agreement is not reached within a reasonable time, the safety and health representative may issue a provisional improvement notice to any or each person (a “responsible person”) responsible for the contravention.
+(2) If, in the safety and health representative’s opinion, agreement is not reached within a reasonable time, the safety and health representative may issue a provisional improvement notice to any or each person (a responsible person) responsible for the contravention.
 (3) If a responsible person is the licensee, the improvement notice may be issued to the licensee by giving it to the licensee’s representative.
 (4) If it is not practicable to issue the notice to a responsible person (other than the licensee or the supervisor) by giving it to that responsible person —
 (a) the notice may be issued to that responsible person by giving it to the person who for the time being is, or may reasonably be presumed to be, on behalf of the responsible person, in charge of the activity to which the notice relates; and
@@ -865,7 +854,7 @@ the safety and health at work of members of the workforce;
 Subdivision 5 — Emergency procedures
 42.Action by safety and health representatives
 (1) If a safety and health representative for a designated work group has reasonable cause to believe that there is an imminent and serious danger to the safety or health of any person engaged in the pipeline operation or any other protected person unless a group member or group members cease to perform particular work, the representative must —
-(a) inform a person (a “supervisor”) supervising the group member or group members in the performance of the work of the danger; or
+(a) inform a person (a supervisor) supervising the group member or group members in the performance of the work of the danger; or
 (b) if no supervisor can be contacted immediately —
 (i) direct the group member or group members to cease, in a safe manner, to perform the work; and
 (ii) as soon as practicable, inform a supervisor that the direction has been given.
@@ -1100,7 +1089,7 @@ Penalty:$27 500.
 (1) If, in conducting an inspection, an inspector believes on reasonable grounds that a person —
 (a) is contravening a listed OSH law; or
 (b) has contravened a provision of a listed OSH law and is likely to contravene that provision again,
-the inspector may issue an improvement notice, in writing, to the person (the “responsible person”).
+the inspector may issue an improvement notice, in writing, to the person (the responsible person).
 (2) If the responsible person is the licensee, the improvement notice may be issued to the licensee by giving it to the licensee’s representative.
 (3) If the responsible person is an employer (other than the licensee) of members of the workforce, but it is not practicable to give the notice to that employer —
 (a) the improvement notice may be issued to the employer by giving it to the licensee’s representative; and
@@ -1188,7 +1177,7 @@ Penalty: $5 000.
 (8) If the decision to be reviewed is a decision under clause 60 to issue an improvement notice, the operation of the notice is suspended pending determination of the review, except to the extent that the reviewing authority makes an order to the contrary.
 (9) If the decision to be reviewed is a decision of an inspector under clause 37 to confirm or vary a provisional improvement notice whose operation has been suspended pending the inspection of the matter to which the notice relates, the operation of the notice is further suspended pending determination of the review, except to the extent that the reviewing authority makes an order to the contrary.
 (10) In this clause —
-“reviewing authority” means a person prescribed by the regulations to be a reviewing authority for the purposes of this clause.
+reviewing authority means a person prescribed by the regulations to be a reviewing authority for the purposes of this clause.
 65.Powers of reviewing authority on review
 (1) On a review of a decision under clause 64, the reviewing authority may —
 (a) affirm the decision;
@@ -1335,7 +1324,7 @@ It is a defence to a prosecution for a contravention of a listed OSH law if the 
 regulations made for the purposes of this subclause may declare that this Schedule, or the provision, as the case may be, does not apply to that person, or does not apply to that person in the circumstances specified in the regulations.
 (3) Regulations made for the purposes of subclause (2) do not remain in force for longer than 5 years after they commence, but this subclause does not prevent the making of further regulations of the same substance.
 (4) In subclause (2) —
-“this Schedule” includes regulations made for the purposes of this Schedule.
+this Schedule includes regulations made for the purposes of this Schedule.
 ”.
 ”.
 When the Petroleum Legislation Amendment and Repeal Act 2005 s. 30(2) commences and inserts the Petroleum Pipelines Act 1969 s. 67(1c) the new s. 67(1c) will be amended by the Petroleum Amendment Act 2007 s. 102 which was proclaimed to come into operation on 19 Jan 2008 (see s. 2(2) and Gazette 18 Jan 2008 p. 147) but can have no effect until the new s. 67(1c) is inserted.

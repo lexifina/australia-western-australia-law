@@ -5,7 +5,7 @@ Agricultural Products Act 1929.
 Agriculture and Related Resources Protection Act 1976.
 Clothes and Fabrics (Labelling and Sales) Act 1973.
 Construction Safety Act 1972.
-Explosives and Dangerous Goods Act 1961.
+Dangerous Goods Safety Act 2004
 Fertilizers Act 1977.
 Filled Milk Act 1959.
 Firearms Act 1973.
@@ -22,4 +22,4 @@ Seeds Act 1981.
 Spear-guns Control Act 1955.
 Trade Measurement Act 2006.
 Veterinary Chemical Control and Animal Feeding Stuffs Act 1976.
-[Schedule inserted by No. 90 of 1978 s. 9; amended by No. 62 of 1994 s. 109; No. 24 of 2000 s. 3(7); No. 70 of 2003 s. 3(2); No. 76 of 2004 s. 4(2); No. 12 of 2006 s. 37.]
+[Schedule inserted by No. 90 of 1978 s. 9; amended by No. 62 of 1994 s. 109; No. 24 of 2000 s. 3(7); No. 70 of 2003 s. 3(2); No. 7 of 2004 s. 70; No. 76 of 2004 s. 4(2); No. 12 of 2006 s. 37.]
