@@ -26,6 +26,7 @@ Mines Safety and Inspection Amendment Regulations 2005 | 4 Apr 2005 p. 1099-117 
 Mines Safety and Inspection Amendment Regulations (No. 2) 2005 | 28 Jun 2005 p. 2925 | 1 Jul 2005 (see r. 2)
 Mines Safety and Inspection Amendment Regulations 2006 | 27 Jun 2006 p. 2279-80 | 1 Jul 2006 (see r. 2)
 Mines Safety and Inspection Amendment Regulations (No. 2) 2007 | 15 Jun 2007 p. 2788 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+Mines Safety and Inspection Amendment Regulations 2008 | 29 Feb 2008 p. 684-92 | r. 1 and 2: 29 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Minerals and Energy is, unless the contrary intention appears, to be read and construed as a reference to the Department of Industry and Resources.
 The Mines Safety and Inspection Amendment Regulations 2005 r. 10(2)-(4) read as follows:
