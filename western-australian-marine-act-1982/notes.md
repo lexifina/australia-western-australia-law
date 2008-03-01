@@ -13,24 +13,24 @@ Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 O
 Statutes (Repeals and Minor Amendments) Act 1997 s. 130 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
 Reprint of the Western Australian Marine Act 1982 as at 28 Jan 2000 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 130 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | 1 Mar 2008 (see s. 2 and Gazette 29 Feb 2008 p. 669)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 135 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 2: The Western Australian Marine Act 1982 as at 2 Dec 2005 (includes amendments listed above)
+Reprint 2: The Western Australian Marine Act 1982 as at 2 Dec 2005 (includes amendments listed above, except those in the Dangerous Goods Safety Act 2004 s. 70)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Western Australian Marine Amendment Act 1987 s. 4-6 | 15 of 1987 | 25 Jun 1987 | To be proclaimed (see s. 2)
 Western Australian Marine Amendment Act 1990 s. 4(d), 6-9 and 12 | 35 of 1990 | 9 Oct 1990 | To be proclaimed (see s. 2)
-Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | To be proclaimed (see s. 2)
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 On the date as at which this reprint was prepared, the Western Australian Marine Amendment Act 1987 s. 4-6 had not come into operation. They read as follows:
 “
 4.Section 76 amended
 Section 76 of the principal Act is amended by inserting after the definition of “Prevention of Collisions Convention” the following definition —
 “
-“Prevention of Pollution from Ships Convention” has the same meaning as ‘Convention’ has in the Pollution of Waters by Oil and Noxious Substances Act 1987;
+Prevention of Pollution from Ships Convention has the same meaning as ‘Convention’ has in the Pollution of Waters by Oil and Noxious Substances Act 1987;
 ”.
 5.Section 78 amended
 Section 78 of the principal Act is amended by inserting after “the Safety Convention”, in both places where it occurs, the following —
@@ -41,8 +41,8 @@ After Division 5 of Part IV of the principal Act, the following Divisions are in
 Division 6 — Prevention of Pollution from Ships Convention (Ships Carrying or Using Oil)
 90A.Interpretation
 (1)In this Division, unless the contrary intention appears —
-“Annex I” means Annex I to the Prevention of Pollution from Ships Convention;
-“foreign ship” means a ship that is not an Australian ship.
+Annex I means Annex I to the Prevention of Pollution from Ships Convention;
+foreign ship means a ship that is not an Australian ship.
 (2)Except in so far as the contrary intention appears, an expression that is used in this Division and in the Prevention of Pollution from Ships Convention, including Annex I but not including any other Annex to that Convention, (whether or not a particular meaning is assigned to it by that Convention) has, in this Division, the same meaning as in that Convention.
 (3)For the purposes of this Division, a ship shall not be taken to comply with the provisions of Annex I if it does not comply with the regulations and orders referred to in section 90B.
 90B.Regulations to give effect to Regulations 13 to 19 (inclusive) of Annex I
@@ -103,8 +103,8 @@ Penalty: $1 000.
 Division 7 — Prevention of Pollution from Ships Convention (Ships Carrying Noxious Liquid Substances in Bulk)
 90G.Interpretation
 (1)In this Division, unless the contrary intention appears —
-“Annex II” means Annex II to the Prevention of Pollution from Ships Convention;
-“foreign ship” means a ship that is not an Australian ship.
+Annex II means Annex II to the Prevention of Pollution from Ships Convention;
+foreign ship means a ship that is not an Australian ship.
 (2)Except in so far as the contrary intention appears, an expression that is used in this Division and in the Prevention of Pollution from Ships Convention, including Annex II but not including any other Annex to that Convention, (whether or not a particular meaning is assigned to it by that Convention) has, in this Division, the same meaning as in that Convention.
 (3)For the purposes of this Division, a ship shall not be taken to comply with the provisions of Annex II if it does not comply with the regulations and orders referred to in section 90H.
 90H.Regulations to give effect to Regulation 13 of Annex II
@@ -146,7 +146,7 @@ Penalty —
 (a)if the offender is a natural person — $10 000, or imprisonment for 4 years, or both; or
 (b)if the offender is a body corporate — $50 000.
 (2)The regulations may exempt ships included in a prescribed class of ships from the application of subsection (1), either absolutely or subject to conditions.
-(3)In this section “chemical tanker construction certificate” means —
+(3)In this section chemical tanker construction certificate means —
 (a)a chemical tanker construction certificate issued under section 90I;
 (b)a chemical tanker construction certificate issued under section 267Q of the Navigation Act;
 (c)a chemical tanker construction certificate issued under a law of another State or the Northern Territory and being a certificate of a kind prescribed as acceptable for the purposes of this Division; or
@@ -189,23 +189,4 @@ and
 Section 20 of the principal Act is repealed.
 12.Section 65 repealed
 Section 65 of the principal Act is repealed.
-”.
-On the date as at which this reprint was prepared, the Dangerous Goods Safety Act 2004 s. 70, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-70.Repeals and consequential amendments (Sch. 2)
-Schedule 2 has effect.
-”.
-Schedule 2 item 3(5) reads as follows:
-“
-Schedule 2 — Repeals and consequential amendments
-3.Consequential amendments
-(5) The Western Australian Marine Act 1982 is amended as follows:
-(a) in section 3(1) in the definition of “dangerous goods” by deleting “Explosives and Dangerous Goods Act 1961” and inserting instead —
-“ Dangerous Goods Safety Act 2004 ”;
-(b) in section 3(1) by deleting the definition of “explosives” and inserting instead —
-“
-“explosives” means a substance or article used or manufactured with the purpose of producing a practical effect by explosion or a pyrotechnic effect;
-”;
-(c) in section 91(1)(a) by deleting “Explosives and Dangerous Goods Act 1961” and inserting instead —
-“ Dangerous Goods Safety Act 2004 ”.
 ”.

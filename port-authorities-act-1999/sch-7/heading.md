@@ -8,7 +8,7 @@
 4.The use of tide signals and other signals in a port.
 5.Prevention of overloading or overcrowding of vessels.
 6.The powers, duties and obligations of the harbour master of a port in respect of the matters referred to in item 5 and the rights and liabilities of persons affected by the exercise of such a power or connected with a vessel in respect of which such a power is exercised.
-7.(1)The landing, shipping, trans-shipping, unshipping, warehousing, stowing, depositing, removal or keeping of explosives and dangerous goods as respectively defined by the Explosives and Dangerous Goods Act 1961 and of such other substances as the Minister may specify as being dangerous goods for the purposes of the regulations.
+7.(1)The landing, shipping, trans-shipping, unshipping, warehousing, stowing, depositing, removal or keeping of dangerous goods as defined by the Dangerous Goods Safety Act 2004 and of such other substances as the Minister may specify as being dangerous goods for the purposes of the regulations.
 (2) The landing, shipping, trans-shipping, unshipping, warehousing, stowing, depositing, removal or keeping of goods other than those substances referred to in subitem (1).
 8.The movement, mooring, loading and unloading of vessels.
 9.The control of the provision, at or in relation to a port, of —
@@ -63,4 +63,4 @@ vehicles or other things that are obstructing, or may obstruct, traffic in the p
 42.Any other matters relating to —
 (a) the convenience of shipping, or of operations to do with the storage, loading or unloading of cargo, or of the public, in a port; or
 (b) the performance of the functions imposed on a port authority by this Act.
-[Schedule 7 amended by No. 71 of 2003 s. 9.]
+[Schedule 7 amended by No. 71 of 2003 s. 9; No. 7 of 2004 s. 70.]
