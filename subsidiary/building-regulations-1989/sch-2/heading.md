@@ -41,10 +41,9 @@ Dumbleyung | Townsites of Dumbleyung, Kukerin | Whole district | Whole district
 East Fremantle | Whole district | Whole district | Whole district
 Esperance | All townsites | All townsites | Whole district
 Fremantle | Whole district | Whole district | Whole district
-Geraldton | Whole district | Whole district | Whole district
+Geraldton- Greenough | Whole district | Whole district | Whole district
 Gnowangerup | All townsites | All townsites | Whole district
 Gosnells | Whole district | Whole district | Whole district
-Greenough | Whole district | Whole district | Whole district
 Hall’s Creek | Whole district | All townsites and area subject to Halls Creek Town Planning Scheme | Whole district
 Harvey | Whole district | All townsites and area zoned Special Residential or Special Rural by Shire of Harvey Town Planning Scheme | Whole district
 Jerramungup | Whole district except areas zoned rural by a town planning scheme | Whole district except areas zoned rural by a town planning scheme | Whole district
@@ -81,8 +80,7 @@ Narembeen | All townsites | All townsites | Whole district
 Narrogin (Shire) | Whole district except areas zoned for farming purposes by a town planning scheme | All townsites | Whole district
 Narrogin (Town) | Whole district | Whole district | Whole District
 Nedlands | Whole district | Whole district | Whole district
-Northam (Town) | Whole district | Whole district | Whole district
-Northam (Shire) | Whole district | Whole district | Whole district
+Northam | Whole district | Whole district | Whole district
 Northampton | Whole district | Whole district | Whole district
 Nungarin | All townsites | All townsites | Whole district
 Peppermint Grove | Whole district | Whole district | Whole district
@@ -109,7 +107,7 @@ Wagin | All townsites in Town Ward or Williams loc. 440, 507, 545, 618, 945, 116
 Wandering | Townsite of Wandering and areas zoned rural residential by local laws or a town planning scheme | Whole district | Whole district
 Wanneroo | Whole district | Whole district | Whole district
 Waroona | Whole district | Whole district | Whole district
-West Arthur | All townsites | All townsites | Whole district
+West Arthur | All townsites | Whole district | Whole district
 Wickepin | All townsites | All townsites | Whole district
 Williams | All townsites | All townsites | Whole district
 Wiluna | Townsite of Wiluna | Townsite of Wiluna | Townsite of Wiluna
@@ -126,4 +124,4 @@ Note 1 — Broomehill
 (b)Lot 17 to 24 being portion of Kojonup Location 256.
 (c)Kojonup Location 1671.
 (d)Reserves 8163, 10285, 10431 and 17230.
-[Schedule 2 inserted in Gazette 5 Apr 2002 p. 1827-32; amended in Gazette 4 Apr 2003 p. 1026-7; 13 Aug 2004 p. 3251; 18 May 2007 p. 2257.]
+[Schedule 2 inserted in Gazette 5 Apr 2002 p. 1827-32; amended in Gazette 4 Apr 2003 p. 1026-7; 13 Aug 2004 p. 3251; 18 May 2007 p. 2257; 4 March 2008 p. 739.]

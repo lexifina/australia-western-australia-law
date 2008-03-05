@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 January 2008 of the Building Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Building Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Building Regulations 1989 | 28 Jul 1989 p. 2261-93 | 28 Jul 1989 (see r. 2)
@@ -37,6 +37,7 @@ Building Amendment Regulations (No. 2) 2007 | 18 May 2007 p. 2256-7 | 18 May 200
 Building Amendment Regulations (No. 3) 2007 | 21 Aug 2007 p. 4174-8 | r. 1 and 2: 21 Aug 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2007 (see r. 2(b))
 Building Amendment Regulations (No. 4) 2007 | 5 Oct 2007 p. 5327-8 | r. 1 and 2: 5 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Oct 2007 (see r. 2(b))
 Reprint 5: The Building Regulations 1989 as at 4 Jan 2008 (includes amendments listed above)
+Building Amendment Regulations 2008 | 4 Mar 2008 p. 738-9 | r. 1 and 2: 4 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Mar 2008 (see r. 2(b))
 The Gas Corporation does not exist. The Act that established it was repealed by the Gas Corporation (Business Disposal) Act 1999 s. 93.
 The Building Amendment Regulations (No. 2) 2001 r. 7 reads as follows:
 “
