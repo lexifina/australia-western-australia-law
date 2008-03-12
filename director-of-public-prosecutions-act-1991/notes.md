@@ -21,6 +21,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 39(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 State Superannuation Amendment Act 2007 s. 80 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
+Criminal Law and Evidence Amendment Act 2008 s. 77(7) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 12(3) reads as follows:
 “
@@ -50,4 +51,10 @@ On the date as at which this compilation was prepared, the State Superannuation 
 (5) An election under subsection (1) is to be made in writing to the Minister within 30 days after ceasing to be Director and is irrevocable.
 (6) This section has effect despite anything in the Superannuation and Family Benefits Act 1938, State Superannuation Act 2000 or the Judges’ Salaries and Pensions Act 1950.
 ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(7) had not come into operation. It reads as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(7) Schedule 1 clause 46 is amended by deleting the row relating to “s. 11(2)”.
 ”.
