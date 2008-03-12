@@ -17,7 +17,8 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
+Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Repealed by the Industrial Arbitration Act 1979 s. 4 which is now called the Industrial Relations Act 1979.
 i.e. 40 kilometres.
 See Gazettes — 6 May 1966 p. 1094; 19 August 1966 p. 2237; 28 April 1967 p. 1057; 14 July 1967 p. 1809 and 13 August 1971 p. 2970.
@@ -35,3 +36,9 @@ s. 16(5) | Delete “a stipendiary magistrate” and insert instead — “ the 
 s. 16(6) | Delete “Such stipendiary magistrate” and insert instead — “ The Magistrates Court, constituted by a magistrate, ”. Delete “he” and insert instead — “ it ”. Delete “his” in the 2 places where it occurs and in each place insert instead — “ its ”.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
+”.
