@@ -21,6 +21,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 123 and 124 | 59 of 2004 | 23 Nov 2004 | s. 123 the amendment to s. 67(2) and s. 124 the amendment to s. 4(a) to be proclaimed (see s. 2)
+Criminal Law and Evidence Amendment Act 2008 s. 77(3) and (4) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Part 9 contained transitional provisions relating to orders to keep the peace in force under the Justices Act 1902 when this Act came into operation.
 On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 123 (the amendment to s. 67(2)) and s. 124 (the amendment to s. 4(a)) had not come into operation. They have not been, and will not be, proclaimed as the provisions to be amended were repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004. They read as follows:
 “
@@ -34,4 +35,11 @@ s. 67(2)
 The Act is amended as set out in the Table to this section.
 Table
 s. 4(a) | In each provision delete “a court of petty sessions” or “the court of petty sessions” in each place it occurs and in each place insert instead — “ the Magistrates Court ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(3) and (4) had not come into operation. They read as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(3) Section 123 is amended in the Table to the section by deleting “s. 67(2)”.
+(4) Section 124 is amended in the Table to the section by deleting “s. 4(a)”.
 ”.
