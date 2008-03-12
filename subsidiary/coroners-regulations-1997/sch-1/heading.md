@@ -142,8 +142,9 @@ What you must do
 Information about the inquest
 Where you must go To be held at When | The Coroner’s Court of Western Australia TimeDayMonthYear
 Information about this summons
-Issued at By Signature | Date / / State Coroner Coroner Coroner’s Clerk
+Issued at By Signature | Date / / State Coroner Coroner Coroner’s Registrar
 If further information is required, telephone: ..................
+[Form 10 amended in Gazette 11 Mar 2008 p. 816.]
 Form 11
 [Reg. 16(3)]
 Coroners Act 1996
