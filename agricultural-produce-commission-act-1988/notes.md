@@ -15,8 +15,9 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 63 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Now known as the Agricultural Produce Commission Act 1988; short title changed (see note under s. 1).
 The Horticultural Produce Commission Amendment Act 2000 s. 32 and 34 read as follows:
 “
@@ -60,4 +61,10 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 “orchard” means any land used for the purpose of growing or cultivating plants, and includes any garden, farm, vinery, vineyard, and hothouse, any place where any plant is cultivated or where any plant which has been cultivated is growing;
 “specified area” means the portion of the State specified in a notice under section 11(1)(a)(ii) in relation to which the producers’ committee is established.
 ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
