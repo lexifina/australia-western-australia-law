@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 January 2008 of the Local Government Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Local Government Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Local Government Act 1995 | 74 of 1995 | 9 Jan 1996 | 1 Jul 1996 (see s. 1.2)
@@ -39,13 +39,14 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
  | Local Government (Official Conduct) Amendment Act 2007 | 1 of 2007 | 28 Mar 2007 | s. 1 and 2: 28 Mar 2007; Act other than s. 1 and 2: 21 Oct 2007 (see s. 2 and Gazette 21 Aug 2007 p. 4173)
  | Local Government Amendment Act 2007 | 9 of 2007 | 25 Jun 2007 | s. 1 and 2: 25 Jun 2007; Act other than s. 1 and 2: 6 Sep 2007 (see s. 2 and Gazette 3 Aug 2007 p. 3989)
  | Reprint 4: The Local Government Act 1995 as at 18 Jan 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2004 s. 16(1)-(3) and (5), 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 | 11 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2)
 Petroleum Amendment Act 2007 s. 99 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
+Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The provisions in this Act amending the Local Government Act 1960 have been omitted under s. 7(4)(e) of the Reprints Act 1984. Schedule 9.2 cl. 4 reads as follows:
 “
 4.Parts II to VII repealed
@@ -263,7 +264,7 @@ The State Administrative Tribunal Regulations 2004 r. 56 reads as follows:
 (3) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.78 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.78.
 ”.
 References to the Executive Director were replaced by references to the Departmental CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
-On the date as at which this reprint was prepared, the Local Government Amendment Act 2004 s. 16(1)-(3) and (5), 19(2), 20 and 38(3) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Local Government Amendment Act 2004 s. 16(1)-(3) and (5), 19(2), 20 and 38(3) had not come into operation. They read as follows:
 “
 Part 4 — Other amendments
 16.Amendments about special majority
@@ -297,7 +298,7 @@ or if, within that time, the member advises the CEO in writing that the member a
 and is not the holder of an office of member of a council other than an office the term of which will end on, or before, election day
 ”.
 ”.
-On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
 Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
@@ -313,7 +314,7 @@ s. 9.8(1) s. 9.8(4) | In each provision delete “a Local Court” and insert in
 s. 9.8(3) | Delete “A Local Court” and insert instead — “ The Magistrates Court ”.
 ”.
 The amendments it seeks to make cannot be done due to amendments and repeals made by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 685, 700 and 705.
-On the date as at which this reprint was prepared, the Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 had not come into operation. It reads as follows:
 “
 13.Consequential amendment to the Local Government Act 1995 and transitional provision
 (1) The amendment in this section is to the Local Government Act 1995.
@@ -322,7 +323,7 @@ On the date as at which this reprint was prepared, the Local Government (Miscell
 (a) continue in effect so far as they relate to building surveyors and Part XV of the Local Government (Miscellaneous Provisions) Act 1960; and
 (b) are to be taken to have been made under the Local Government Act 1995 section 9.59 for the purposes of the Local Government (Miscellaneous Provisions) Act 1960 section 373A and 374AAB inserted by section 5 and 7 of this Act.
 ”.
-On the date as at which this reprint was prepared, the Petroleum Amendment Act 2007 s. 99 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 99 had not come into operation. It reads as follows:
 “
 99.Local Government Act 1995 amended
 (1) The amendments in this section are to the Local Government Act 1995.
@@ -352,6 +353,12 @@ permit, drilling reservation, lease or licence held under the Petroleum and Geot
 “ permit, drilling reservation, lease or licence ”.
 (5) Section 6.29(2) is amended by deleting “licence or permit” and inserting instead —
 “ permit, drilling reservation, lease or licence ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
