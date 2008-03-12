@@ -38,7 +38,8 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Control of Vehicles (Off-road Areas) Act 1978 s. 11 | 117 of 1978 (as amended by No. 7 of 2002 s. 7) | 12 Dec 1978 | To be proclaimed (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
+Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Control of Vehicles (Off-road Areas) Act 1978 s. 11 (as amended by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 7) had not come into operation. It reads as follows:
 “
 11.Responsibility of owners
@@ -81,3 +82,9 @@ s. 33(1) | Delete “a court of petty sessions,” and insert instead — “ th
 ”.
 Footnote no longer applicable.
 The amendment to s. 33(1) by the Courts Legislation Amendment and Repeal Act 2004 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 147.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
+”.
