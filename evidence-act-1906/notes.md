@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 February 2008 of the Evidence Act 1906 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Evidence Act 1906 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Evidence Act 1906 | 28 of 1906 (6 Edw. VII No. 28) | 14 Dec 1906 | 14 Dec 1906
@@ -92,6 +92,10 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 2 | 28 of
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Child Care Services Act 2007 Pt. 7 Div. 3 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 Reprint 14: The Evidence Act 1906 as at 8 Feb 2008 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Criminal Law and Evidence Amendment Act 2008 Pt. 5 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 “
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
@@ -168,6 +172,134 @@ Part 4 — Transitional and validation
 ”.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to amend s. 56(1) is not included because the subsection it sought to amend was replaced by s. 82 (Sch. 2 it. 118) of the same Act.
 The amendment in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 36 to s. 106A is not included because the paragraph it sought to amend had been amended by the Children and Community Services Act 2004 Sch. 2 cl. 9.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 Pt. 5 had not come into operation. It reads as follows:
+“
+“Part 5 — Evidence Act 1906 amended
+41.The Act amended in this Part
+The amendments in this Part are to the Evidence Act 1906.
+42.Section 36BE inserted and consequential amendments
+(1) After section 36BD the following section is inserted —
+“
+36BE.Expert evidence of child behaviour
+(1) This section applies to any proceedings for a sexual offence in respect of a complainant who was under the age of 18 years at the time of the alleged offence.
+(2) Evidence by an expert on the subject of child behaviour about any or all of the following —
+(a) child development and behaviour generally;
+(b) child development and behaviour in cases where children have been the victims of sexual offences,
+that is relevant to the proceedings is admissible in them notwithstanding that the evidence —
+(c) relates to a fact in issue or to an ultimate issue in the proceedings; or
+(d) is a matter of common knowledge; or
+(e) is relevant only to the credibility of the complainant.
+(3) If evidence described in subsection (2) is admitted in a trial by jury, this section does not affect any duty of the trial judge to warn the jury about any matter relating to the complainant’s evidence; but any such warning must be consistent with that evidence.
+”.
+(2) Section 36A(1) is amended by inserting after “36BD” —
+“ , 36BE ”.
+(3) Section 36A(2) is amended by deleting “and 36BC,” and inserting instead —
+“ , 36BC and 36BE, ”.
+43.Section 100A amended
+After section 100A(7) the following subsection is inserted —
+“
+(8) This section does not apply to a person who is tendered as a witness and who has a mental impairment, as that term is defined by section 8 of the Criminal Law (Mentally Impaired Accused) Act 1996.
+”.
+44.Section 106A amended
+Section 106A is amended by inserting in the appropriate alphabetical position —
+“
+“mental impairment” has the meaning given to that term by section 8 of the Criminal Law (Mentally Impaired Accused) Act 1996;
+”.
+45.Section 106B amended
+(1) Section 106B(1) is amended by deleting “subsection (2),” and inserting instead —
+“ subsection (3), ”.
+(2) Section 106B(2) is repealed and the following subsections are inserted instead —
+“
+(2) Irrespective of the person’s age, a person with a mental impairment may in any proceeding, if the person is competent under subsection (3), give evidence on oath or after making an affirmation.
+(3) A person referred to in subsection (1) or (2) is competent to take an oath or make an affirmation if in the opinion of the court or person acting judicially the person understands that —
+(a) the giving of evidence is a serious matter; and
+(b) he or she in giving evidence has an obligation to tell the truth.
+”.
+46.Section 106C replaced
+Section 106C is repealed and the following section is inserted instead —
+“
+106C.Child under 12 and mentally impaired witness may give unsworn evidence
+A person referred to in section 106B(1) or (2) who is not competent to give evidence under section 106B(3) may give evidence without taking an oath or making an affirmation if the court or person acting judicially forms the opinion, before the evidence is given, that the person is able to give an intelligible account of events which he or she has observed or experienced.
+”.
+47.Section 106F amended
+Section 106F(4) is amended by deleting “misdemeanour” and inserting instead —
+“ crime ”.
+48.Section 106HA amended
+(1) After section 106HA(1) the following subsection is inserted —
+“
+(1a) Section 106HB applies to a visual recording of an interview with a person with a mental impairment conducted before or after the coming into operation of section 48 of the Criminal Law and Evidence Amendment Act 2008 if —
+(a) the interview was conducted by a person of a prescribed class who had reason to believe that the person had, or may have, suffered physical or sexual abuse; and
+(b) the manner in which the interview was conducted and recorded meets the prescribed requirements to the prescribed extent.
+”.
+(2) Section 106HA(2) is repealed and the following subsection is inserted instead —
+“
+(2) Section 106HB applies to a visual recording of an interview with a person with a mental impairment, or a child, whether or not the interview was conducted with the consent of a parent or guardian of the person or child.
+”.
+(3) Section 106HA(3) is amended by inserting after “child” —
+“ , or a person with a mental impairment, ”.
+49.Section 106HB amended
+(1) After section 106HB(1) the following subsection is inserted —
+“
+(1a) A visually recorded interview with a person with a mental impairment is not to be admitted in the proceeding under subsection (1) unless the person is a special witness.
+”.
+(2) After section 106HB(6) the following subsection is inserted —
+“
+(6a) If a visually recorded interview of a witness is admitted under subsection (1), then, while the recording is played to the court, the witness must not be present in court, or be visible or audible by closed-circuit television or by means of any similar technology to anyone in the court other than, in the case of a trial by jury, the judge.
+”.
+(3) After section 106HB(7) the following subsection is inserted —
+“
+(8) Subsection (7)(c) does not prevent a judge from directing a jury about a breach of subsection (7)(c) by the accused or the accused’s counsel, if it is in the interests of justice to do so.
+”.
+50.Section 106HC amended
+Section 106HC(1) is amended as follows:
+(a) after paragraph (b) by inserting —
+“
+(ba) prescribing classes of persons for the purposes of section 106HA(1a)(a) by reference to the offices or positions held by them, or their training or experience, or any combination of those criteria; and
+(bb) prescribing requirements to be met for the purposes of section 106HA(1a)(b), and the extent to which they are to be met, if section 106HB is to apply to a visual recording of an interview with a person with a mental impairment; and
+”;
+(b) in paragraph (c) by inserting after “child” —
+“ , or a person with a mental impairment, ”;
+(c) after each of paragraphs (a), (b), (c), (d), (e), (f) and (g) by inserting —
+“ and ”.
+51.Section 106I amended
+Section 106I(2) is amended by deleting “The defendant” and inserting instead —
+“ The accused ”.
+52.Section 106O amended
+Section 106O(2) is amended by deleting “defendant” and inserting instead —
+“ accused ”.
+53.Section 106R amended
+(1) Section 106R(3)(a) is amended by deleting “(as defined in the Criminal Law (Mentally Impaired Accused) Act 1996)”.
+(2) After section 106R(4)(a) the following paragraph is inserted —
+“
+(b) that the person have a communicator while he or she is giving evidence;
+”.
+(3) After section 106R(4a) the following subsection is inserted —
+“
+(4b) Where an arrangement under subsection (4)(b) is directed to be made, section 106F applies, with any necessary changes, as if the special witness were an affected child.
+”.
+(4) After section 106R(7) the following subsections are inserted —
+“
+(8) If in any proceeding before a jury for a serious sexual offence a person referred to in subsection (3a) does not wish to be declared to be a special witness or declines any arrangement that may be made under subsection (4) —
+(a) the person must not be questioned in the proceeding about the fact; and
+(b) neither the judge, the prosecutor, the accused nor the accused’s counsel must comment on the fact to the jury.
+(9) Subsection (8) does not prevent a judge from directing a jury about a breach of subsection (8) by the prosecutor, the accused or the accused’s counsel, if it is in the interests of justice to do so.
+”.
+54.Section 106RA amended
+(1) Section 106RA(1) is amended by deleting “the evidence” and inserting instead —
+“
+the whole of the evidence (including any cross-examination and re-examination)
+”.
+(2) Section 106RA(5) is repealed and the following subsection is inserted instead —
+“
+(5) If an order is made under subsection (1), the order may include —
+(a) directions as to the conduct of the special hearing;
+(b) directions, with or without conditions, as to the persons, or classes of persons, who are authorised to have possession of the visual recording of the evidence;
+(c) directions and conditions as to the giving up of possession and as to the playing, copying or erasure of the recording.
+”.
+55.Second Schedule amended
+The Second Schedule is amended in Part 1 in the item relating to “s. 321A” by deleting the description of offence and inserting instead —
+“ Persistent sexual conduct with child under 16 ”.
+”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
