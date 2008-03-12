@@ -9,6 +9,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
+Criminal Law and Evidence Amendment Act 2008 s. 74 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Schedule 1, had not come into operation. It reads as follows:
 “
 65.Consequential amendments
@@ -56,4 +57,13 @@ s. 17(1) and (3) | s. 38(2), (3) and (4)
 s. 18(1) and (2) | s. 42(2)
 s. 19(1), (9) and (10) | s. 44(3), (4) and (5)
 s. 20(2), (3), (5) and (6) | s. 45(1), (3), (4) and (6)
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 74 had not come into operation. It reads as follows:
+“
+74.Working with Children (Criminal Record Checking) Act 2004 amended
+(1) The amendments in this section are to the Working with Children (Criminal Record Checking) Act 2004.
+(2) Schedule 1 is amended in the item relating to The Criminal Code s. 321A by deleting the description of offence and inserting instead —
+“
+Persistent sexual conduct with child under 16 (if the offence includes a sexual act on at least one occasion when the child against whom the offence is committed is under 13)
+”.
 ”.
