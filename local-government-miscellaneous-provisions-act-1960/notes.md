@@ -134,6 +134,7 @@ Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | s. 141 cl. 94, amendment to s. 430(2)(a): to be proclaimed (see s. 2)
 Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 5-12 | 11 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Criminal Law and Evidence Amendment Act 2008 s. 77(9) and 78(2)(d) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Act No. 90 of 1964 was passed as the Local Government Act Amendment Act (No. 2) 1964, but was proclaimed to come into operation as the Local Government Act Amendment Act 1964.
 Repealed by the Stock (Brands and Movement) Act 1970, which is now known as the Stock (Identification and Movement) Act 1970.
 Repealed by the Auction Sales Act 1973 s. 3(1).
@@ -491,4 +492,15 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 “
 label it with an identifier in accordance with the Biosecurity and Agriculture Management Act 2007.
 ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(9) and 78(2)(d) had not come into operation. They read as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(9) Schedule 1 clause 94 is amended by deleting the row relating to “s. 430(2)(a)”.
+”.
+78.Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 amended
+(1) The amendments in this section are to the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004.
+(2) Section 82 is amended in Table 2 as follows:
+(d) by deleting the row relating to the Local Government (Miscellaneous Provisions) Act 1960;
 ”.
