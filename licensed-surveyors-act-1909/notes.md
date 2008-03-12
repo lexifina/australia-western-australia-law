@@ -27,7 +27,8 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration) Act 1987 Pt. IX | 126 of 1987 | 31 Dec 1987 | To be proclaimed (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
+Criminal Law and Evidence Amendment Act 2008 s. 66, 77(13) and 78(2)(c) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The Acts Amendment and Repeal (Competition Policy) Act 2003 s. 40(7)-(9) reads as follows:
 “
 (7) A person appointed under section 4 of the Licensed Surveyors Act 1909 as a member of the Land Surveyors Licensing Board and holding office immediately before the commencement of this section continues to hold office under the first-mentioned section during the period from that commencement until the following 31 December (“the transitional period”) as if this section had not been enacted.
@@ -102,3 +103,17 @@ s. 21(1b) s. 21(1c) | In each provision, delete “a Local Court” and insert i
 s. 21(1b) | Delete “the clerk of”.
 ”.
 The amendments to section 21(1b) and (1c) in the Courts Legislation Amendment and Repeal Act 2004 have not been proclaimed because those subsections were repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 562.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 66, 77(13) and 78(2)(c) had not come into operation. They read as follows:
+“
+66.Licensed Surveyors Act 1909 amended
+(1) The amendments in this section are to the Licensed Surveyors Act 1909.
+(2) Section 8C(2) is amended by deleting “defendant” in each place where it occurs and in each place inserting instead —
+“ accused ”.
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
+78.Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 amended
+(1) The amendments in this section are to the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004.
+(2) Section 82 is amended in Table 2 as follows:
+(c) by deleting the row relating to the Licensed Surveyors Act 1909;
+”.
