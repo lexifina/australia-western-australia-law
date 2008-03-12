@@ -14,6 +14,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 60 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Criminal Law and Evidence Amendment Act 2008 s. 62 and 78(8) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The Agricultural Legislation Amendment and Repeal Act 1998 s. 14 and s. 15 read as follows:
 “
 14.Refund of registration fees
@@ -32,3 +33,13 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 60.Repeal
 The Fertilizers Act 1977 is repealed.
 ”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 62 and 78(8) had not come into operation. It reads as follows:
+“
+62.Fertilizers Act 1977 amended
+(1) The amendments in this section are to the Fertilizers Act 1977.
+(2) Section 38(1) is amended by deleting “justice or other person before whom the complaint is laid,” and inserting instead —
+“ person before whom the prosecution notice is signed, ”.
+”.
+78.Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 amended
+(1) The amendments in this section are to the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004.
+(8) Schedule 2 clause 56 is amended by deleting the row relating to “s. 38(1)”.
