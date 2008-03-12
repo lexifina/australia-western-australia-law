@@ -40,9 +40,10 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
-Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | To be proclaimed (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 (as amended by No. 2 of 2008 s. 75(4)) | 9 Nov 2004 | To be proclaimed (see s. 2)
+Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(2))
+Criminal Law and Evidence Amendment Act 2008 s. 75(4) and 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 “
 4.Section 6A inserted
@@ -421,4 +422,13 @@ declared pests on the land under the lease in compliance with the Biosecurity an
 “
 (a) the Biosecurity and Agriculture Management Act 2007;
 ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 75(4) and 77(13) had not come into operation. They read as follows:
+“
+75.Acts Amendment (Court of Appeal) Act 2004 amended
+(1) The amendments in this section are to the Acts Amendment (Court of Appeal) Act 2004.
+(4) Schedule 1 clauses 22 and 23 are repealed.
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
