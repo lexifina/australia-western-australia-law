@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 September 2007 of the Bail Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Bail Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Bail Act 1982 | 86 of 1982 | 18 Nov 1982 | 6 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
@@ -47,10 +47,11 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 2 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 5 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Reprint 6: The Bail Act 1982 as at 14 Sep 2007 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
+Criminal Law and Evidence Amendment Act 2008 s. 56 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 25. The Act was then repealed by the Criminal Procedure and Appeal (Consequential and Other Provisions) Act 2004.
 The amendment in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 had not come into operation when it was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Bail Amendment Act 1984 s. 10 and 11 were repealed by the Bail Amendment Act 1988 s. 20.
@@ -72,7 +73,7 @@ The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 97 reads a
 If in a written law or other document or instrument there is a reference to the Crown Solicitor that reference may, where the context so requires, be read as if it had been amended to be a reference to the State Solicitor.
 ”.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 141 (amending Sch. 1 Pt. A cl. 4) is not included because the clause it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 28(4) before the amendment purported to come into operation.
-On the date as at which this reprint was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 had not come into operation. It reads as follows:
 “
 Part 3 — Attorney General, and Justice
 Division 1 — Bail Act 1982
@@ -105,3 +106,22 @@ s. 50D(1)(a) | Sch. 1 Part D cl. 3(3)(e)
 Note:The headings to sections 27A, 50A, 50E, 50F and 50J will be altered by deleting “(Justice)”.
 ”.
 The amendments to the Bail Act 1982 in the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 cl. 31(1)(b) and (c), cl. 32 and 33 would conflict with amendments by the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 5.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 56 had not come into operation. It reads as follows:
+“
+56.Bail Act 1982 amended
+(1) The amendments in this section are to the Bail Act 1982.
+(2) Section 50C(4)(b) is amended by deleting “a defendant” and inserting instead —
+“ an accused ”.
+(3) Section 50L(1) is amended by deleting “a defendant” in each place where it occurs and in each place inserting instead —
+“ an accused ”.
+(4) Section 50L(1)(b) is amended by deleting “the defendant” and inserting instead —
+“ the accused ”.
+(5) Section 52(4) is amended by deleting “jurisdiction.” and inserting instead —
+“
+jurisdiction, but —
+(a) no fees shall be charged by the Supreme Court or District Court for or in respect of any act or proceeding that relates to the prosecution; and
+(b) the Supreme Court or District Court cannot order a party to the prosecution to pay another party’s costs of or relating to the prosecution, except under section 166(2) of the Criminal Procedure Act 2004.
+”.
+(6) Section 67(2)(b) is amended by deleting “a defendant” and inserting instead —
+“ an accused ”.
+”.
