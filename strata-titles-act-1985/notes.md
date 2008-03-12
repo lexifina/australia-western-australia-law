@@ -43,6 +43,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Courts Legislation Amendment and Repeal Act 2004 s. 141 and 142 | 59 of 2004 | 23 Nov 2004 | s. 141 (the amendments to s. 116A(4)) and s. 142 cl. 48: to be proclaimed (see s. 2)
+Criminal Law and Evidence Amendment Act 2008 s. 77(12), (13) and 78(6) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 “
 (5) A plan registered under the principal Act before the provision inserted by subsection (3) came into operation is declared to be, and to have always been, valid if it would have been valid at the time of registration had that provision been then in operation.
@@ -277,3 +278,13 @@ s. 118 | Delete “office of a Clerk of a Local Court” and insert instead — 
 ”.
 The sections that it seeks to amend have been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125 and 1151.
 The amendment in the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2 cl. 63(9), to amend s. 25B(3) is not included because the subsection it sought to amend had been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1116.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(12), (13) and 78(6) had not come into operation. They read as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(12) Schedule 1 clause 150 is amended by deleting the row relating to “s. 116A(4)”.
+(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
+78.Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 amended
+(1) The amendments in this section are to the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004.
+(6) Schedule 1 clause 31 is repealed.
+”.
