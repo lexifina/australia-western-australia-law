@@ -9,7 +9,6 @@ Casino (Burswood Island) Agreement Act 1985
 Casino Control Act 1984
 Cemeteries Act 1986 | 63
 Classification (Publications, Films and Computer Games) Enforcement Act 1996
-City of Perth Parking Facilities Act 1956
 Conservation and Land Management Act 1984
 Control of Vehicles (Off-road Areas) Act 1978 | 37
 Curtin University of Technology Act 1966 | 20A
@@ -22,7 +21,7 @@ Gaming and Wagering Commission Act 1987
 Government Railways Act 1904 | 53A
 Home Building Contracts Act 1991
 Hospitals and Health Services Act 1927
-Liquor Licensing Act 1988 | 167
+Liquor Control Act 1988 | 167
 Litter Act 1979 | 30
 Local Government Act 1995
 Local Government (Miscellaneous Provisions) Act 1960
@@ -42,4 +41,4 @@ University of Western Australia Act 1911 | 16A
 Water Agencies (Powers) Act 1984 | 103
 Western Australian Marine Act 1982 | 132
 Zoological Parks Authority Act 2001
-[Schedule 1 amended in Gazette 30 Jun 1995 p. 2637 and 2643; 19 Jul 1996 p. 3458; 1 Aug 1997 p. 4394; 23 Jan 1998 p. 408; 8 Dec 1998 p. 6574; 2 Jul 1999 p. 2919; 31 Dec 1999 p. 7076; 27 Aug 2002 p. 4354; 12 Dec 2003 p. 5037; 4 Jun 2004 p. 1933; 13 May 2005 p. 2080; 14 Jul 2006 p. 2564; 18 May 2007 p. 2257.]
+[Schedule 1 amended in Gazette 30 Jun 1995 p. 2637 and 2643; 19 Jul 1996 p. 3458; 1 Aug 1997 p. 4394; 23 Jan 1998 p. 408; 8 Dec 1998 p. 6574; 2 Jul 1999 p. 2919; 31 Dec 1999 p. 7076; 27 Aug 2002 p. 4354; 12 Dec 2003 p. 5037; 4 Jun 2004 p. 1933; 13 May 2005 p. 2080; 14 Jul 2006 p. 2564; 18 May 2007 p. 2257; 11 Mar 2008 p. 818-19.]
