@@ -13,8 +13,9 @@ Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 84 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 References in the Act to the Director General were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 1. The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 454 is a general transitional provision that applies to references to the Director General in other written laws.
 On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which give effect to Sch. 2, had not come into operation. It reads as follows:
@@ -38,4 +39,10 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 “
 (2) In this section —
 “stock” has the meaning given to that term in the Biosecurity and Agriculture Management Act 2007 section 6.
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
