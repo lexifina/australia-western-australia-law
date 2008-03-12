@@ -36,8 +36,9 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 and 30-33 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Repealed by the Mining Act 1978.
 Repealed by the Public Service Appeal Board Act Repeal Act 1977.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also endnote 14.
@@ -237,4 +238,10 @@ and the former account is then to be closed.
 (2) The Declared Pest Account established under the BAM Act is to be credited with any money that became payable to the former account before the commencement day and that is paid after that day.
 33.Reference to former account
 If in an agreement, instrument or other document there is a reference to the former account, that reference is, unless the context otherwise requires, to be read and have effect on and after the commencement day as if it were a reference to the Declared Pest Account established under the BAM Act.
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
