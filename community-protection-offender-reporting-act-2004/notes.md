@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 | 72 of 2004 | 8 Dec 2004 | s. 12 and Sch. 3: to be proclaimed
+Criminal Law and Evidence Amendment Act 2008 s. 58 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 had not come into operation. They read as follows:
 “
 12.Class 3 offences
@@ -28,4 +29,11 @@ s. 325 | Sexual penetration without consent (if the person against whom the offe
 s. 326 | Aggravated sexual penetration without consent (if the person against whom the offence is committed is not a child)
 s. 327 | Sexual coercion (if the person against whom the offence is committed is not a child)
 s. 328 | Aggravated sexual coercion (if the person against whom the offence is committed is not a child)
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 58 had not come into operation. It reads as follows:
+“
+58.Community Protection (Offender Reporting) Act 2004 amended
+(1) The amendments in this section are to the Community Protection (Offender Reporting) Act 2004.
+(2) Schedule 1 is amended in the item relating to The Criminal Code s. 321A by deleting the description of offence and inserting instead —
+“ Persistent sexual conduct with child under 16 ”.
 ”.
