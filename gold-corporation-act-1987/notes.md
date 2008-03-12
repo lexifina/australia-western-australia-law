@@ -26,6 +26,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 46(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Criminal Law and Evidence Amendment Act 2008 s. 77(8) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Now known as the Western Australian Mint Act 1970, which is repealed by this Act.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Acts 1984 s. 7(3)(g).
 The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
@@ -57,4 +58,10 @@ has the same effect after commencement, to the extent that it has any force or s
 (3) In this section —
 “commencement” means the time at which this Division comes into operation;
 “Minister” means the Minister to whom the administration of the Western Australian Treasury Corporation Act 1986 is committed.
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(8) had not come into operation. It reads as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(8) Schedule 1 clause 69 is repealed.
 ”.
