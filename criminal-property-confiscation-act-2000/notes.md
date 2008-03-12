@@ -15,9 +15,21 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 25 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Criminal Law and Evidence Amendment Act 2008 s. 61 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 25 had not come into operation. It reads as follows:
 “
 25.Criminal Property Confiscation Act 2000 amended
 (1) The amendment in this section is to the Criminal Property Confiscation Act 2000.
 (2) The Glossary is amended in the definition of “financial institution” by deleting paragraph (d).
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 61 had not come into operation. It reads as follows:
+“
+61.Criminal Property Confiscation Act 2000 amended
+(1) The amendments in this section are to the Criminal Property Confiscation Act 2000.
+(2) Section 101(2)(b) is amended by deleting “$250 000.” and inserting instead —
+“
+the jurisdictional limit (within the meaning of section 6 of the District Court of Western Australia Act 1969).
+”.
+(3) In the Glossary the definition of “dispose of” is amended in paragraph (c) by deleting “offence;” and inserting instead —
+“ charge or discontinue the prosecution of it; ”.
 ”.
