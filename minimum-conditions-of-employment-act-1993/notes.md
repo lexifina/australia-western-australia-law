@@ -16,6 +16,10 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Minimum Conditions of Employment Act 1993 as at 5 May 2006 (includes amendments listed above)
 Labour Relations Legislation Amendment Act 2006 Pt. 2, s. 21 and Pt. 6 | 36 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2(1))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Criminal Law and Evidence Amendment Act 2008 s. 78(3) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The Labour Relations Reform Act 2002 s. 165(3)-(5) reads as follows:
 “
 (3) An agreement continues to have effect on and from the commencement day in respect of the employee’s entitlement to annual leave that accrued before the commencement day as if former section 8 had not been amended by this Act.
@@ -73,4 +77,10 @@ The amendment in the Criminal Procedure and Appeals (Consequential and Other Pro
 The Labour Relations Legislation Amendment Act 2006 s. 31(2) reads as follows:
 “
 (2) Nothing in Part 4 Division 2 of the Minimum Conditions of Employment Act 1993 requires an untaken entitlement that arose under section 19(1) or 20A(1) of that Act as enacted before the commencement of this section to be carried over from the year in which the entitlement arose to the next year.
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 78(3) had not come into operation. It reads as follows:
+“
+78.Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 amended
+(1) The amendments in this section are to the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004.
+(3) Schedule 1 clause 20 is amended by deleting the row relating to “s. 46(1)”.
 ”.
