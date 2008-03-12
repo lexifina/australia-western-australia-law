@@ -53,7 +53,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
+Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The “appointed day” was 13 Dec 1997 (see Gazette 7 Nov 1997 p. 6136).
 Now see the Workers’ Compensation and Injury Management Act 1981.
@@ -103,4 +104,10 @@ Division 13 — Transitional provisions
 “CEO” has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
 “commencement” means the time at which this Division comes into operation;
 “Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
