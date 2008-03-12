@@ -33,7 +33,8 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
+Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The provision in this Act repealing this Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
@@ -51,3 +52,9 @@ Schedule 2 — Other amendments to Acts
 s. 31 | Delete “a magistrate, which determination the magistrate” and insert instead — “ the Magistrates Court which determination the court ”. Delete “made by summons”.
 ”.
 The amendment to s. 31 in the Courts Legislation Amendment and Repeal Act 2004 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 718.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
+”.
