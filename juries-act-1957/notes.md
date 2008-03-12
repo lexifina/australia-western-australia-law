@@ -55,6 +55,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
+Criminal Law and Evidence Amendment Act 2008 s. 64 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 Repealed by the Nurses Act 1992.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -75,3 +76,12 @@ On the date as at which this compilation was prepared, the Machinery of Governme
 ”.
 ”.
 The amendment to the Second Schedule, Pt. I it. (2)(i) in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) would not be included because the item it seeks to amend was repealed by the Prisons and Sentencing Legislation Amendment Act 2006 s. 66.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 64 had not come into operation. It reads as follows:
+“
+64.Juries Act 1957 amended
+(1) The amendments in this section are to the Juries Act 1957.
+(2) Section 39 is amended by deleting “section 38.” and inserting instead —
+“ section 104(4) of the Criminal Procedure Act 2004. ”.
+(3) Section 41 is amended by deleting “or when it is considering its verdict, it is to be kept under the charge of an officer of the court” and inserting instead —
+“ , it is to be kept ”.
+”.
