@@ -16,4 +16,15 @@ Reprint 1: The Prostitution Act 2000 as at 22 Jul 2005 (includes amendments list
 Censorship Amendment Act 2006 s. 4(2) | 10 of 2006 | 8 May 2006 | 10 Jun 2006 (see s. 2 and Gazette 9 Jun 2006 p. 2029)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 13 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Criminal Law and Evidence Amendment Act 2008 s. 69 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 69 had not come into operation. It reads as follows:
+“
+69.Prostitution Act 2000 amended
+(1) The amendments in this section are to the Prostitution Act 2000.
+(2) Schedule 1 is amended by deleting “s. 321A(3)” under the heading “The Criminal Code” and inserting instead —
+“ s. 321A(4) ”.
+”.
