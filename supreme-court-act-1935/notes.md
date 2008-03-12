@@ -82,7 +82,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Acts Amendment (Court of Appeal) Act 2004 s. 14 | 45 of 2004 | 9 Nov 2004 | To be proclaimed (see s. 2)
+Acts Amendment (Court of Appeal) Act 2004 s. 14 | 45 of 2004 (as amended by No. 2 of 2008 s. 75(2) and 77(5)) | 9 Nov 2004 | To be proclaimed (see s. 2)
+Criminal Law and Evidence Amendment Act 2008 s. 75(2) and 77(5) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Acts Amendment (Court of Appeal) Act 2004 s. 5(2) and Pt. 5 read as follows:
 “
@@ -120,7 +121,7 @@ To the extent that, before the coming into operation of section 22, provisions o
 (a) those provisions are to be regarded as having been validly and lawfully made and published under and within the authority of the Supreme Court Act 1935 and to have always had effect according to their terms; and
 (b) anything done under or purportedly done under those provisions is to be regarded as having been validly done and, to have always been, effectual in all respects.
 ”.
-The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
+The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 contains provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
 Part 22 — Transitional provisions
 Division 1 — Provisions about enforcing judgments
@@ -207,5 +208,14 @@ The Limitation Legislation Amendment and Repeal Act 2005 s. 18(2) reads as follo
 “
 18.Section 29 repealed and a savings provision
 (2) The Supreme Court Act 1935 section 29, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 75(2) and 77(5) had not come into operation. They read as follows:
+“
+75.Acts Amendment (Court of Appeal) Act 2004 amended
+(1) The amendments in this section are to the Acts Amendment (Court of Appeal) Act 2004.
+(2) Section 14 is repealed.
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(5) Section 128 is amended in the Table to the section by deleting the row relating to “s. 20”.
 ”.
 This Act has a retrospective amendment effective from 1 May 2005 see the Acts Amendment (Justice) Act 2008 s. 24. The effect of this retrospective amendment has not been included in this document. To see the provision as amended by the retrospective amendment see the document as at 31 Mar 2008.
