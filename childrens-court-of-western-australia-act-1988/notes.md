@@ -36,6 +36,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Criminal Law and Evidence Amendment Act 2008 s. 57 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 Chapter XXXII of The Criminal Code was repealed by the Acts Amendment (Evidence) Act 1991 s. 12(9).
 Now known as the Children’s Court of Western Australia Act 1988; short title changed (see note under s. 1).
@@ -48,4 +49,11 @@ Act | Provision
 .......................... | ........
 Children’s Court of Western Australia Act 1988 | s. 7(4)
 ...................... | ........
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 57 had not come into operation. It reads as follows:
+“
+57.Children’s Court of Western Australia Act 1988 amended
+(1) The amendments in this section are to the Children’s Court of Western Australia Act 1988.
+(2) Section 33(2) is amended by deleting “complaint” and inserting instead —
+“ charge of an offence ”.
 ”.
