@@ -18,8 +18,9 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 18 and 19 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Short title changed to Air Navigation Regulations 1947 (see Air Navigation Amendment Regulations 1998 (No. 1) of the Commonwealth).
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
@@ -44,4 +45,9 @@ The Aerial Spraying Control Act 1966 is repealed.
 “repealed Act” means the Aerial Spraying Control Act 1966.
 “spray drift” has the same meaning as in the repealed Act;
 (2) Sections 14(4), (5) and (6) and 15 of the repealed Act continue to apply in relation to aerial spraying carried out before the coming into operation of this section, and in relation to any spray drift from that aerial spraying.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
