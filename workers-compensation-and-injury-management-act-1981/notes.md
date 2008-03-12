@@ -62,6 +62,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 (as amended by No. 42 of 2004 s. 155) | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Criminal Law and Evidence Amendment Act 2008 s. 73 and 78(10) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The name of the State Government Insurance Commission was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8 (see also note 44.)
 Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia (see also note 44).
 The Workers’ Compensation Legislation Amendment Act 2005 s. 9(2) reads as follows:
@@ -439,3 +440,14 @@ Section 163 | Delete “State Government Insurance Commission”, substitute “
 [Item 16 amended by No. 42 of 2004 s. 155(2)(a).]
 ”.
 The amendment in the Chiropractors Act 2005 s. 109 relating to s. 176(1b)(d) is not included because the section it sought to amend had been replaced by the Workers’ Compensation Reform Act 2004 s. 130 before the amendment purported to come into operation.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s.73 and 78(10) had not come into operation. They read as follows:
+“
+73.Workers’ Compensation and Injury Management Act 1981 amended
+(1) The amendments in this section are to the Workers’ Compensation and Injury Management Act 1981.
+(2) Section 175H(2)(c) is amended by deleting “have a complaint of the alleged offence heard and determined by” and inserting instead —
+“ be prosecuted for the alleged offence in ”.
+”.
+78.Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 amended
+(1) The amendments in this section are to the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004.
+(10) Schedule 2 clause 157 is amended by deleting the row relating to “s. 175H(2)(c)”.
+”.
