@@ -27,6 +27,10 @@ Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 76 | 10 of 1998 | 30
 Reprint of the Marketing of Eggs Act 1945 as at 22 Feb 2002 (includes amendments listed above)
 Marketing of Eggs Amendment Act 2004 s. 4 and 5 | 20 of 2004 | 26 Aug 2004 | 13 Oct 2004 (see s. 2(1) and Gazette 12 Oct 2004 p. 4753)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 78 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Marginal notes in the Marketing of Eggs Act 1945 referring to legislation of other jurisdictions have been omitted from this reprint.
 Effective date of original provisions was 1 July 1971; see Government Gazette 19 March 1971 p. 846.
 The Marketing of Eggs Amendment Act 1987 s. 6(2) reads as follows:
@@ -43,4 +47,10 @@ Various sections expired on 2 Jul 2005, see the Marketing of Eggs Act 1945 s. 41
 (b) an earlier day fixed by the Governor by order published in the Gazette.
 (2) The Board is dissolved on the day on which this Act (other than sections 1 and 43) expires.
 [Section 41 inserted by No. 20 of 2004 s. 5.]
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
