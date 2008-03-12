@@ -26,6 +26,10 @@ Reprint 3: The Guardianship and Administration Act 1990 as at 1 Apr 2005 (includ
 Family Legislation Amendment Act 2006 Pt. 6 Div. 2 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Criminal Law and Evidence Amendment Act 2008 s. 75(3) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Guardianship and Administration Amendment Act 2000 s. 21 reads as follows:
 “
@@ -69,4 +73,12 @@ on or after the commencement day, the State Administrative Tribunal may make an 
 (a) an enduring power of attorney created by instrument in the form or substantially in the form of the GA Act Schedule 3 Form 1; or
 (b) a statement of acceptance in the form, or substantially in the form, of the GA Act Schedule 3 Form 2,
 in effect immediately before the commencement day contains a reference to the Guardianship and Administration Board, on and after the commencement day that reference is to be taken to be a reference to the State Administrative Tribunal.
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 75(3) had not come into operation. It reads as follows:
+“
+75.Acts Amendment (Court of Appeal) Act 2004 amended
+(1) The amendments in this section are to the Acts Amendment (Court of Appeal) Act 2004.
+(3) Schedule 1 clause 7 is amended as follows:
+(a) by deleting “s. 37A”;
+(b) by deleting the row relating to “Heading to Part 3 Division 4”.
 ”.
