@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 October 2006 of the Family Court Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Family Court Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Family Court Act 1997 | 40 of 1997 | 10 Dec 1997 | 26 Sep 1998 (see s. 2 and Gazette 25 Sep 1998 p. 5295)
@@ -25,6 +25,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 43(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Family Legislation Amendment Act 2006 Pt. 4 | 35 of 2006 | 4 Jul 2006 | To be proclaimed (see s. 2)
+Criminal Law and Evidence Amendment Act 2008 s. 77(2) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938was repealed by the State Superannuation Act 2000 s. 39. Certain provisions of that Act continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 43(2) had not come into operation. It reads as follows:
 “
@@ -585,4 +586,10 @@ After section 235A(3) the following subsections are inserted —
 and
 (b) does not apply in relation to bankruptcies for which the date of the bankruptcy is before the commencement.
 (3) The relevant provisions apply to proceedings instituted after the commencement, whether the date of the bankruptcy is before, on or after the commencement.
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(2) had not come into operation. It reads as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004*.
+(2) Section 95 is amended in the Table to the section, in the row beginning with “s. 43(7)” by deleting “s. 243(6)”.
 ”.
