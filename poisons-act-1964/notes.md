@@ -47,8 +47,9 @@ Poisons (Appendix A Amendment) Order (No. 2) 2003 published in Gazette 10 Oct 20
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Under the Alteration of Statutory Designations Order 2006, a reference to the department of the Public Service with the designation “Department of Agriculture” is, unless the contrary intention appears or the context of the reference otherwise requires, to be read and construed as a reference to the department of the Public Service with the designation “Department of Agriculture and Food”. At the time of this compilation the Minister is known as the Minister for Agriculture and Food.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
@@ -83,4 +84,10 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 “
 under the Biosecurity and Agriculture Management Act 2007
 ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
