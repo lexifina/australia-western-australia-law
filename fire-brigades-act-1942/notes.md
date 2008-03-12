@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 June 2006 of the Fire Brigades Act 1942 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fire Brigades Act 1942 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fire Brigades Act 1942 | 35 of 1942 | 23 Dec 1942 | 17 May 1943 (see s. 1 and Gazette 14 May 1943 p. 463) Proc. published 9 Apr 1943 p. 345 revoked (see Gazette 14 May 1943 p. 463)
@@ -84,10 +84,11 @@ Fire Brigades (Fire Districts) Notice 2005 published in Gazette 28 Jun 2005 p. 2
 Emergency Management Act 2005 s. 104 | 15 of 2005 | 27 Sep 2005 | 24 Dec 2005 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Fire Brigades (Fire Districts) Notice (No. 2) 2005 published in Gazette 29 Nov 2005 p. 5782-3 | 29 Nov 2005
 Reprint 7: The Fire Brigades Act 1942 as at 2 Jun 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 | 23 Nov 2004 | To be proclaimed (see s. 2)
+Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
+Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The Fire and Emergency Services Legislation (Emergency Services Levy) Amendment Act 2002 s. 36, which gives effect to Sch. 1, reads as follows:
 “
 36.Transitional provisions
@@ -178,10 +179,10 @@ Division 4 — Regulations
 (a)to affect, in a manner prejudicial to any person (other than the State or the Authority), the rights of that person existing before the day of its publication; or
 (b)to impose liabilities on any person (other than the State or the Authority), in respect of anything done or omitted to be done before the day of its publication.
 ”.
-The designation of Ministers can be altered by the Governor under the Alteration of Statutory Designations Act 1974. At the time of this reprint the former Minister for Water Supply, Sewerage and Drainage is known as the Minister for Water Resources.
-Marginal notes in the Fire Brigades Act 1942 referring to legislation of other jurisdictions have been omitted from this reprint.
-Marginal notes in the Fire Brigades Act 1942 referring to sections of the Fire Brigades Act 1916 have been omitted from this reprint.
-The amendments in the Fire Brigades Amendment Act (No. 2) 1982 are not included in this reprint because, before it came into operation, that Act was repealed by the Fire and Emergency Services Legislation Amendment Act 2002.
+The designation of Ministers can be altered by the Governor under the Alteration of Statutory Designations Act 1974. At the time of this compilation the former Minister for Water Supply, Sewerage and Drainage is known as the Minister for Water Resources.
+Marginal notes in the Fire Brigades Act 1942 referring to legislation of other jurisdictions have been omitted from this compilation.
+Marginal notes in the Fire Brigades Act 1942 referring to sections of the Fire Brigades Act 1916 have been omitted from this compilation.
+The amendments in the Fire Brigades Amendment Act (No. 2) 1982 are not included in this compilation because, before it came into operation, that Act was repealed by the Fire and Emergency Services Legislation Amendment Act 2002.
 The Fourth Schedule was inserted by the Metric Conversion Act Amendment Act 1975.
 The Fire Brigades Amendment Act 1982 s. 18(2) is a savings provision that is of no further effect.
 The Fire Brigades Amendment Act 1985 s. 11(2) reads as follows:
@@ -202,7 +203,7 @@ The Fire and Emergency Services Legislation Amendment Act 2002 s. 45(4) and 54(3
 (3) An order made by the Governor under section 35A of the Fire Brigades Act 1942 that is in force immediately before the day on which this section comes into operation, continues in force on and after that day, subject to the Fire Brigades Act 1942 (as amended by this Act), as if it were a notice made by the Minister under that section as amended by this Act.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 142.Other amendments to various Acts
 Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
@@ -217,3 +218,9 @@ s. 25A(4)(c) | Delete the paragraph.
 s. 33(e) | In the proviso delete “a magistrate sitting as a court of petty sessions within the district” and insert instead — “ the Magistrates Court ”.
 ”.
 The amendments in the Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 18 cannot be made because of the amendments made by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 48.
+On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
+“
+77.Courts Legislation Amendment and Repeal Act 2004 amended
+(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
+(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
+”.
