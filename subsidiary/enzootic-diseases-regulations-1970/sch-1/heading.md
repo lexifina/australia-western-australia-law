@@ -98,8 +98,9 @@ White sturgeon iridoviral disease
 [Heading inserted in Gazette 14 Jun 2005 p. 2592.]
 Akoya oyster disease
 Iridovirus
+Oyster oedema disease
 Withering syndrome of abalone
-[Subdivision 4 inserted in Gazette 14 Jun 2005 p. 2592.]
+[Subdivision 4 inserted in Gazette 14 Jun 2005 p. 2592; amended in Gazette 11 Mar 2008 p. 815.]
 ## Division 2 — Diseases not foreign to Australia that, if identified, are subject to control measures
 [Heading inserted in Gazette 14 Jun 2005 p. 2592.]
 ## Subdivision 1 — Animal diseases

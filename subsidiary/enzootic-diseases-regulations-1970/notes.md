@@ -105,6 +105,7 @@ Reprint 4: The Enzootic Diseases Regulations 1970 as at 28 Oct 2005 (includes am
 Enzootic Diseases Amendment Regulations (No. 2) 2006 | 16 Jun 2006 p. 2114-5 | 1 Jul 2006 (see r. 2)
 Enzootic Diseases Amendment Regulations 2006 | 19 Sep 2006 p. 3725-84 | 19 Sep 2006
 Enzootic Diseases Amendment Regulations 2007 | 15 Jun 2007 p. 2759-61 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+Enzootic Diseases Amendment Regulations 2008 | 11 Mar 2008 p. 815 | r. 1 and 2: 11 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Mar 2008 (see r. 2(b))
 On the date as at which this compilation was prepared the former municipal district of the City of Perth had been divided into 4 local government districts, namely the City of Perth, and the towns of Vincent, Cambridge and Victoria Park (formerly Shepperton).
 On the date as at which this compilation was prepared the Shires of Bayswater, Swan, Rockingham, Belmont and Mandurah had become Cities.
 On the date as at which this compilation was prepared the Shire of Wanneroo had been divided into 2 local government districts, namely the City of Joondalup and the City of Wanneroo.
