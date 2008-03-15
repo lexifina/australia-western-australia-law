@@ -51,10 +51,10 @@ s. 60 | Reckless driving
 s. 63 | Driving under the influence of alcohol, drugs, or alcohol and drugs
 s. 64AB | Driving while impaired by drugs
 s. 64AC | Driving with prescribed illicit drug in oral fluid or blood
-s. 64 | Driving with 0.08% blood alcohol content
-s. 64AA | Driving with 0.05% blood alcohol content
-s. 64A | Driving with 0.02% blood alcohol content
+s. 64 | Driving with 0.08g/100ml blood alcohol content
+s. 64AA | Driving with 0.05g/100ml blood alcohol content
+s. 64A | Driving with 0.02g/100ml blood alcohol content
 s. 67 | Failing to provide a breath sample, allow taking of a blood sample or provide a urine sample
 s. 67AA | Failing to undergo a driver assessment, allow taking of a blood sample or provide a urine sample
 s. 67AB | Failing to provide a sample of oral fluid or allow taking of a blood sample
-[Schedule 1 amended by No. 82 of 1994 s. 13(6); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 44; No. 62 of 2004 s. 9(4); No. 6 of 2007 s. 23.]
+[Schedule 1 amended by No. 82 of 1994 s. 13(6); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 44; No. 62 of 2004 s. 9(4); No. 6 of 2007 s. 23; No. 39 of 2007 s. 42.]
