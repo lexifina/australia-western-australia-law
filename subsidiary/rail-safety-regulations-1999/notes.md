@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 22 February 2008 of the Rail Safety Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rail Safety Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Rail Safety Regulations 1999 | 2 Feb 1999 p. 375-95 | 3 Feb 1999 (see r. 2 and Gazette 2 Feb 1999 p. 351)
@@ -15,6 +15,7 @@ Rail Safety Amendment Regulations 2006 | 23 Jun 2006 p. 2223-4 | 1 Jul 2006 (see
 Rail Safety Amendment Regulations (No. 2) 2006 | 8 Dec 2006 p. 5392-3 | 8 Dec 2006
 Rail Safety Amendment Regulations 2007 | 12 Jun 2007 p. 2737-8 | 1 Jul 2007 (see r. 2)
 Reprint 2: The Rail Safety Regulations 1999 as at 22 Feb 2008 (includes amendments listed above)
+Rail Safety Amendment Regulations 2008 | 14 Mar 2008 p. 835-6 | r. 1 and 2: 14 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Mar 2008 (see r. 2(b) and Gazette 14 Mar 2008 p. 829)
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Interpretation Act 1984 s. 16, a reference to the Nurses Act 1992 may be read as a reference to the Nurses and Midwives Act 2006. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
