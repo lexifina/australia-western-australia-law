@@ -1,7 +1,7 @@
 ## Third Schedule
 Reg. 6.
 Column 1 | Column 2
-Temperature °C | Applicable Range Minimum Maximum %%
+Temperature °C | Applicable Range Minimum Maximum
 More than 9.5 but not more than 10 | Between 0.045 and 0.055, both inclusive.
 More than 10 but not more than 10.5 | Between 0.047 and 0.057, both inclusive.
 More than 10.5 but not more than 11 | Between 0.049 and 0.059, both inclusive.
@@ -63,3 +63,4 @@ More than 38 but not more than 38.5 | Between 0.320 and 0.392, both inclusive.
 More than 38.5 but not more than 39 | Between 0.330 and 0.404, both inclusive.
 More than 39 but not more than 39.5 | Between 0.340 and 0.416, both inclusive.
 More than 39.5 but not more than 40 | Between 0.350 and 0.428, both inclusive.
+[Third Schedule amended in Gazette 14 Mar 2008 p. 833.]

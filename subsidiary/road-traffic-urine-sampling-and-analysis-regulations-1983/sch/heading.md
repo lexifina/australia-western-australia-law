@@ -35,8 +35,9 @@ Form 3
 Road Traffic Act 1974
 Road Traffic (Urine Sampling and Analysis) Regulations 1983
 (Regulation 11(a))
-..........................................................., Director of the Chemistry Centre (WA), hereby certify that .......................................................................................... of .............................................................................* is a drugs analyst/* was as at ................................................................ a drugs analyst.
+..........................................................., chief executive officer of the Chemistry Centre (WA), hereby certify that .......................................................................................... of .............................................................................* is a drugs analyst/* was as at ................................................................ a drugs analyst.
 .............................................................
-Director, Chemistry Centre (WA).
+chief executive officer, Chemistry Centre (WA).
 *Delete whichever does not apply.
-[Schedule amended in Gazette 29 Jun 1984 p. 1795; 9 Aug 1991 p. 4233; 30 Jan 2001 p. 627.]
+[Form 3 amended in Gazette 14 Mar 2008 p. 834.]
+[Schedule amended in Gazette 29 Jun 1984 p. 1795; 9 Aug 1991 p. 4233; 30 Jan 2001 p. 627; 14 Mar 2008 p. 834.]

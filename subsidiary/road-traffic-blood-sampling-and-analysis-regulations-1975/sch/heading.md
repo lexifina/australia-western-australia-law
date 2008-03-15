@@ -46,9 +46,10 @@ I ..............................................................................
 Name of subject .............................................................................................
 Doctor .............................................................................................................
 Time and date of taking blood sample ...........................................................
-3.I have analysed that sample in accordance with the Road Traffic (Blood Sampling and Analysis) Regulations 1975 and have found it to contain ............................................. per centum of alcohol.
+3.I have analysed that sample in accordance with the Road Traffic (Blood Sampling and Analysis) Regulations 1975 and have found it to contain ............................................. grams of alcohol per 100 mL of blood.
 ...................................................
 Analyst.
+[Form C amended in Gazette 14 Mar 2008 p. 832.]
 Western Australia
 ROAD TRAFFIC ACT 1974
 Regulation 12: Road Traffic (Blood Sampling and Analysis) Regulations 1975
@@ -69,17 +70,19 @@ Western Australia
 ROAD TRAFFIC ACT 1974
 Road Traffic (Blood Sampling and Analysis) Regulations 1975
 (Regulation 13)
-I, ............................................................................................................................. Director of the Chemistry Centre (WA), hereby certify that ................................. ................................................................................................................................ of ............................................................................................................................ * is an analyst/* was as at ................................................................... an analyst.
+I, ............................................................................................................................. chief executive officer of the Chemistry Centre (WA), hereby certify that ................................. ................................................................................................................................ of ............................................................................................................................ * is an analyst/* was as at ................................................................... an analyst.
 .....................................................
-Director, Chemistry Centre (WA).
+chief executive officer, Chemistry Centre (WA).
 * Delete whichever is not applicable.
+[Form E amended in Gazette 14 Mar 2008 p. 832.]
 FORM F
 Western Australia
 ROAD TRAFFIC ACT 1974
 Road Traffic (Blood Sampling and Analysis) Regulations 1975
 (Regulation 14)
-I, ............................................................................................................................. Director of the Chemistry Centre (WA), hereby certify that ................................. ................................................................................................................................ of .......................................................................................................................... * is a drug analyst/ * was as at ..................................................... a drug analyst.
+I, ............................................................................................................................. chief executive officer of the Chemistry Centre (WA), hereby certify that ................................. ................................................................................................................................ of .......................................................................................................................... * is a drug analyst/ * was as at ..................................................... a drug analyst.
 .....................................................
-Director, Chemistry Centre (WA).
+chief executive officer, Chemistry Centre (WA).
 * Delete whichever is not applicable.
-[Schedule amended in Gazette 23 Jan 1976 p. 132; 10 Mar 1978 p. 688; 2 Feb 1982 p. 398; 25 Feb 1983 p. 650-1; 29 Jun 1984 p. 1795; 9 Aug 1991 p. 4232; 30 Jan 2001 p. 624-5; 11 Oct 2007 p. 5478.]
+[Form F amended in Gazette 14 Mar 2008 p. 832.]
+[Schedule amended in Gazette 23 Jan 1976 p. 132; 10 Mar 1978 p. 688; 2 Feb 1982 p. 398; 25 Feb 1983 p. 650-1; 29 Jun 1984 p. 1795; 9 Aug 1991 p. 4232; 30 Jan 2001 p. 624-5; 11 Oct 2007 p. 5478; 14 Mar 2008 p. 832.]

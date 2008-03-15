@@ -8,5 +8,5 @@ B | The holder of a driver’s licence appropriate to a motor vehicle may drive 
 E | The holder of a driver’s licence appropriate to a motor cycle may drive the motor cycle if and only if it has an engine capacity not exceeding 250 ml.
 N | The holder of a driver’s licence appropriate to a motor cycle may drive the motor cycle if and only if it is a moped.
 S | The holder of a driver’s licence is not to drive a motor vehicle to which the licence is appropriate unless the licence holder wears corrective eye lenses while driving.
-Z | The holder of a driver’s licence may drive a motor vehicle to which the licence is appropriate if and only if the licence holder has a blood alcohol concentration less than 0.02%.
-[Schedule 6 inserted in Gazette 9 Feb 2001 p. 788.]
+Z | The holder of a driver’s licence may drive a motor vehicle to which the licence is appropriate if and only if the licence holder does not have a blood alcohol content of or above 0.02 g of alcohol per 100 mL of blood.
+[Schedule 6 inserted in Gazette 9 Feb 2001 p. 788; amended in Gazette 14 Mar 2008 p. 833.]

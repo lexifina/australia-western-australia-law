@@ -3,9 +3,10 @@
 Form 1
 Western Australia
 ROAD TRAFFIC ACT 1974
-I, ............................................................................................................................. the Director of the Chemistry Centre (WA), pursuant to the power conferred on me by section 72 of the Road Traffic Act 1974, HEREBY CERTIFY that: ..................................................................................... is competent to operate all types of breath analysing equipment.
+I, ............................................................................................................................. the chief executive officer of the Chemistry Centre (WA), pursuant to the power conferred on me by section 72 of the Road Traffic Act 1974, HEREBY CERTIFY that: ..................................................................................... is competent to operate all types of breath analysing equipment.
 Dated at Perth this ...................................... day of ...................................... 20.....
-............................................................. Director Chemistry Centre (WA)
+............................................................. chief executive officer Chemistry Centre (WA)
+[Form 1 amended in Gazette 14 Mar 2008 p. 833.]
 Form 2
 Western Australia
 ROAD TRAFFIC ACT 1974
@@ -36,4 +37,4 @@ sample of breath for analysis on ...............................................
 6.In accordance with section 68(9), I completed, signed, and handed to the person named in paragraph 1 of this certificate a statement as required by that subsection, or (as the case may be) I complied with the requirements of that subsection by signing, dating, and handing to that person a statement printed by the breath analysing equipment.
 The analysis result obtained from the analysis referred to in this certificate was .....................................................
 ............................................................. (Authorised person)
-[First Schedule amended in Gazette 15 Feb 1980 p. 466; 25 Feb 1983 p. 650; 25 Dec 1987 p. 4563; 9 Aug 1991 p. 4232.]
+[First Schedule amended in Gazette 15 Feb 1980 p. 466; 25 Feb 1983 p. 650; 25 Dec 1987 p. 4563; 9 Aug 1991 p. 4232; 14 Mar 2008 p. 833.]

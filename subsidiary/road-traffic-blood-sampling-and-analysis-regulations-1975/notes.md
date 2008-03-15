@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Blood Sampling and Analysis) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any previous reprints
+This is a compilation of the Road Traffic (Blood Sampling and Analysis) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Blood Sampling and Analysis) Regulations 1975 | 29 May 1975 p. 1537-42 | 1 Jun 1975
@@ -22,3 +22,4 @@ Road Traffic (Blood Sampling and Analysis) Amendment Regulations (No. 2) 2001 | 
 Reprint of the Road Traffic (Blood Sampling and Analysis) Regulations 1975 as at 19 Apr 2002 (includes amendments listed above)
 Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2006 | 28 Nov 2006 p. 4896-7 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
 Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2007 | 11 Oct 2007 p. 5477-8 | r. 1 and 2: 11 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Oct 2007 (see r. 2(b) and Gazette 11 Oct 2007 p. 5475)
+Road Traffic Legislation Amendment Regulations 2008 Pt. 2 | 14 Mar 2008 p. 832-4 | 15 Mar 2008 (see r. 2(b) and Gazette 14 Mar 2008 p. 829)

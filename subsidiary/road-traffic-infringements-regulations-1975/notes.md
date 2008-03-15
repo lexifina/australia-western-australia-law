@@ -73,4 +73,5 @@ Road Traffic (Infringements) Amendment Regulations 2006 | 24 Feb 2006 p. 883-4 |
 Road Traffic (Infringements) Amendment Regulations (No. 3) 2006 | 1 Aug 2006 p. 2835-6 | 1 Aug 2006
 Reprint 5: The Road Traffic (Infringements) Regulations 1975 as at 18 Aug 2006 (includes amendments listed above)
 Road Traffic (Infringements) Amendment Regulations (No. 2) 2006 | 28 Nov 2006 p. 4911-12 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
+Road Traffic Legislation Amendment Regulations 2008 Pt. 5 | 14 Mar 2008 p. 832-4 | 15 Mar 2008 (see r. 2(b) and Gazette 14 Mar 2008 p. 829)
 This amendment was superseded in Gazette 29 Jun 1979 p. 1777-8.

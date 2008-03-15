@@ -11,7 +11,7 @@ Road Traffic Act 1974
 6.Section 50A(1) | Failure of overseas or interstate visitor to carry or produce driver’s licence or its equivalent or permit....................................... | 1
 7.Section 53(2) | Failure to produce a driver’s licence within a reasonable time after demand, or at all.......... | 1
 8.Section 62 | Careless driving.............................................. | 2
-9.Section 64AA | Driving or attempting to drive a motor vehicle while the percentage of alcohol in the driver’s blood equals or exceeds 0.05%......... | 2
+9.Section 64AA | Driving or attempting to drive a motor vehicle while having a blood alcohol content of or above 0.05 g of alcohol per 100 mL of blood......... | 2
 10.Section 86(2) | Unlawfully parking on land not a road........... | 1
 11.Section 93 | Failure to produce driver’s licence in court ... | 1
 [Heading and items 12-86 deleted]
@@ -26,4 +26,4 @@ Road Traffic (Licensing) Regulations 1975
 111.Regulation 27 | Painting or interfering with, or suffering another, paint or interfere with, any number plate, except for the purposes of reinstatement ................................................. | 2
 112.Regulation 28(6) | Altering, defacing, obliterating or removing identification mark from engine, or stamping on or affixing to engine a purported identification mark......................................... | 2
 113.Regulation 34 | Failure to hand over vehicle licence when disposing of used vehicle............................... | 2
-[Schedule 1, formerly First Schedule, inserted in Gazette 23 Dec 1997 p. 7445-51; amended in Gazette 23 Jun 1998 p. 3340-2; 20 Jul 1999 p. 3249; 30 Nov 1999 p. 5955; 1 Dec 2000 p. 6759; 1 Nov 2002 p. 5390; 23 Dec 2005 p. 6276 and 6286; 28 Nov 2006 p. 4912.]
+[Schedule 1, formerly First Schedule, inserted in Gazette 23 Dec 1997 p. 7445-51; amended in Gazette 23 Jun 1998 p. 3340-2; 20 Jul 1999 p. 3249; 30 Nov 1999 p. 5955; 1 Dec 2000 p. 6759; 1 Nov 2002 p. 5390; 23 Dec 2005 p. 6276 and 6286; 28 Nov 2006 p. 4912; 14 Mar 2008 p. 834.]
