@@ -114,6 +114,7 @@ Road Traffic (Drivers’ Licences) Amendment Regulations (No. 3) 2007 | 11 Oct 2
 Road Traffic (Drivers’ Licences) Amendment Regulations (No. 2) 2007 | 9 Nov 2007 p. 5615-16 | r. 1 and 2: 9 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Nov 2007 (see r. 2(b))
 Road Traffic Amendment (Holiday Periods) Regulations 2008 r. 3 | 8 Feb 2008 p. 321-2 | 9 Feb 2008 (see r. 2(b))
 Road Traffic Legislation Amendment Regulations 2008 Pt. 4 | 14 Mar 2008 p. 832-4 | 15 Mar 2008 (see r. 2(b) and Gazette 14 Mar 2008 p. 829)
+Road Traffic (Drivers’ Licences) Amendment (Revealing Impairments) Regulations 2008 | 17 Mar 2008 p. 859-61 | 17 Mar 2008 (see r. 2)
 Repealed by the Children and Community Services Act 2004 s. 250(2)(c). See the Children and Community Services (Outside School Hours Care) Regulations 2006.
 Repealed by the Road Traffic Act 1974 s. 4.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
