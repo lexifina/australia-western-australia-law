@@ -13,11 +13,11 @@ Dated ...........................................
 Form 2
 [Reg. 33(1)]
 Marketing of Potatoes Act 1946
-PART C DEFENDANTS COPYThis space for cash register imprint
+PART C ACCUSED’S COPYThis space for cash register imprint
 To be retained by Cashier
 OFFICE COPY ONLY
 Please do not detach from Part B
-PART B DEFENDANTS COPYThis space for cash register imprint
+PART B ACCUSED’S COPYThis space for cash register imprint
 INFRINGEMENT NOTICENo. ...........
 Marketing of Potatoes Act, s. 40
 Date of issue ................................
@@ -37,7 +37,7 @@ at .............................................................................
 Inspector .....................................................................
 No. ...................................
 TAKE NOTICE THAT:
-If you do not wish to have a complaint of the alleged offence heard and determined by a court, pay to the office specified on the reverse of this notice, within 28 days, the prescribed penalty.
+If you do not wish to have a prosecution notice of the alleged offence heard and determined by a court, pay to the office specified on the reverse of this notice, within 28 days, the prescribed penalty.
 If within 28 days from the Date of Issue you do not pay the penalty above, FURTHER ACTION WILL BE TAKEN in respect of the offence, and you will incur further costs.
 COURT:
 If you wish the matter to be dealt with by a court, do not pay the Infringement Notice. You should advise the chief executive officer of the Potato Marketing Corporation of your intention, in writing, before the due date otherwise further costs will be incurred.
@@ -50,6 +50,7 @@ SIGNATURE ....................................... EXPIRY DATE ..................
 Reverse of Form
 WHERE TO PAY
 (The office to which payment may be made is to be specified here.)
+[Form 2 amended in Gazette 18 Mar 2008 p. 866.]
 Form 3
 [Reg. 33(3)]
 Marketing of Potatoes Act 1946
@@ -704,4 +705,4 @@ Signed ...........................................................
 Signed by .......................................................
 (Name in block letters)
 Dated ...............................
-[Schedule 2 inserted in Gazette 1 Sep 1995 p. 4077-99.]
+[Schedule 2 inserted in Gazette 1 Sep 1995 p. 4077-99; amended in Gazette 18 Mar 2008 p. 866.]
