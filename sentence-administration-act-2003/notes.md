@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 July 2007 of the Sentence Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Sentence Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Sentence Administration Act 2003 | 49 of 2003 | 9 Jul 2003 | s. 1 and 2: 9 Jul 2003; Act other than s. 1 and 2: 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833)
@@ -10,10 +10,7 @@ Parole and Sentencing Legislation Amendment Act 2006 Pt. 2 | 41 of 2006 | 22 Sep
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 3 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Financial Legislation Amendment and Repeal Act 2006 s. 6 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 1: The Sentence Administration Act 2003 as at 20 Jul 2007 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Fines Legislation Amendment Act 2008 Pt. 4 | 3 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2(c))
+Fines Legislation Amendment Act 2008 Pt. 4 | 3 of 2008 | 12 Mar 2008 | 28 Mar 2008 (see s. 2(c) and Gazette 27 Mar 2008 p. 899)
 The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 2 Div. 4 commenced 31 Aug 2003 (see Gazette 29 Aug 2003 p. 3833).
 The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 6 reads as follows:
 “
@@ -60,19 +57,4 @@ and other terms used have the same meanings as they have in the amended provisio
 (2) The person holding office as the judicial member of the Parole Board immediately before the commencement is to hold office as the chairperson of the Prisoners Review Board for the remainder of the period for which the person was appointed as the judicial member.
 (3) Immediately before the commencement the office of any person, other than the judicial member, who is then a member of, acting member of, or deputy of a member of, the Parole Board becomes vacant.
 (4) Subsection (3) does not prevent a person mentioned in that subsection from being nominated, being appointed, or holding office, as a member of the Prisoners Review Board.
-”.
-On the date as at which this compilation was prepared, the Fines Legislation Amendment Act 2008 Pt. 4 had not come into operation. It reads as follows:
-“
-Part 4 — Sentence Administration Act 2003 amended
-21.The Act amended in this Part
-The amendments in this Part are to the Sentence Administration Act 2003.
-22.Section 7 amended
-(1) Section 7(1) is amended by deleting the definition of “fixed term” and inserting instead —
-“
-“fixed term” includes —
-(a)a period of imprisonment ordered under section 58, 59 or 119A of the Sentencing Act 1995; and
-(b)a period of imprisonment specified in a warrant of commitment issued under the Fines, Penalties and Infringement Notices Enforcement Act 1994;
-”.
-(2) Section 7(2) is amended by deleting “sentenced” and inserting instead —
-“ who has ”.
 ”.
