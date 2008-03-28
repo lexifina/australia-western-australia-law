@@ -44,6 +44,7 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 4 | 65 of 2006 | 8 Dec
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 5: The Sentencing Act 1995 as at 6 Jul 2007 (includes amendments listed above)
 Water Resources Legislation Amendment Act 2007 s. 199 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
+Fines Legislation Amendment Act 2008 Pt.3 | 3 of 2008 | 12 Mar 2008 | 28 Mar 2008 (see s. 2(c) and Gazette 27 Mar 2008 p. 899)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
