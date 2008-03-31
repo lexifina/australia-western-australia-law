@@ -137,6 +137,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended
 Road Traffic Amendment Act 2006 Pt. 2 (other than s. 19 and 27), 3 and 4 Div. 3 and 4 | 54 of 2006 | 26 Oct 2006 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act (No. 2) 2007 Pt.2 (s. 17, 18 and 25 and Div. 4 and 5) | 39 of 2007 | 21 Dec 2007 | Pt. 2 s. 17, 18 & 25 and Pt. 2 Div. 4 & 5 (other than s. 38): to be proclaimed (see s. 2(d)-(h)); Pt. 2 s. 38: operative when the rest of Pt. 2 Div. 5 comes into operation (see s. 2(i))
 Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Acts Amendment (Justice) Act 2008 s. 131 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Repealed by the Interpretation Act 1984.
 The Traffic Act Amendment Act (No. 2) 1968 came into operation on 20 December 1968 (see s. 2 and Gazette 19 December 1968 p. 3885).
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
@@ -1210,4 +1211,11 @@ On the date as at which this compilation was prepared, the Criminal Law and Evid
 77.Courts Legislation Amendment and Repeal Act 2004 amended
 (1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
 (13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
+”.
+On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 s. 131 had not come into operation. It reads as follows:
+“
+131.Road Traffic Act 1974 amended
+(1) The amendments in this section are to the Road Traffic Act 1974.
+(2) Section 100(1) is amended by deleting “section 72” and inserting instead —
+“ section 78 ”.
 ”.
