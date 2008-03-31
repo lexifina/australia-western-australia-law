@@ -71,6 +71,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
+Acts Amendment (Justice) Act 2008 Pt. 24 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
 The Transfer of Land Amendment Act 1996 s. 6(2) reads as follows:
@@ -172,4 +173,73 @@ and the proprietors of the freehold in the land (the “proprietors”) wish to 
 57.Section 167 amended
 Section 167 is amended by deleting “or 166A” and inserting instead —
 “ , 166A or 166C ”.
+”.
+On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 24 had not come into operation. It reads as follows:
+“
+Part 24 — Transfer of Land Act 1893 amended
+121.The Act amended in this Part
+The amendments in this Part are to the Transfer of Land Act 1893.
+122.Section 133 amended
+(1) After section 133(1) the following subsection is inserted —
+“
+(1a) An application to the Registrar under this section must be made in an approved form.
+”.
+(2) Section 133(3) is amended as follows:
+(a) by deleting paragraph (b);
+(b) after each of paragraphs (a), (c), (d) and (e) by inserting —
+“ and ”.
+(3) Section 133(4) is amended after paragraph (a) by inserting —
+“ and ”.
+(4) Section 133(8) is amended by deleting the full stop after paragraph (b) and inserting —
+“
+; or
+(c) the instrument is another property (seizure and sale) order.
+”.
+(5) Section 133(11) is amended after paragraph (a) by inserting —
+“ and ”.
+(6) Section 133(12) is repealed and the following subsection is inserted instead —
+“
+(12) If while the order has effect —
+(a) a saleable interest in respect of which the order is registered is transferred by the registration of a Sheriff’s dealing or otherwise; or
+(b) the judgment creditor applies to the Registrar for the order to be discharged in relation to a saleable interest in respect of which the order is registered; or
+(c) on an application made to the Registrar by any person and accompanied by the prescribed fee, the Registrar is satisfied that —
+(i) the judgment to which the order relates has been satisfied; or
+(ii) the order has been cancelled by the court that issued it; or
+(iii) the sale period has expired,
+the Registrar must register a partial or total discharge of the order, as the case requires, with effect from the time when the saleable interest was transferred, or the application was lodged, as the case requires.
+”.
+(7) Section 133(13) is amended by deleting “the circumstances justify doing so,” and inserting instead —
+“
+there is a good reason why a sale of the saleable interest will not occur during the sale period,
+”.
+(8) Section 133(14) is repealed and the following subsection is inserted instead —
+“
+(14) Unless the court orders otherwise, an application made under subsection (13) must be served on —
+(a) the judgment debtor; and
+(b) any other judgment creditor who has obtained the registration of a property (seizure and sale) order in respect of the saleable interest; and
+(c) any other person who has an interest in the saleable interest.
+”.
+(9) Section 133(16) is amended by deleting “have expired” and inserting instead —
+“ expire ”.
+(10) Section 133(17) is repealed and the following subsection is inserted instead —
+“
+(17) If an order, an application and the prescribed fee are lodged under subsection (16) before the sale period would otherwise expire —
+(a) the Registrar must register the order; and
+(b) the registered order extends the sale period from its expiry for the period stated in the order.
+”.
+123.Section 138 amended
+Section 138(1) is amended by deleting “lodged or” and inserting instead —
+“ lodged and ”.
+124.Section 139 amended
+Section 139(1) is amended as follows:
+(a) by deleting “Subject to the provisions of the next succeeding subsection except in the cases provided by section 142 so long as” and inserting instead —
+“ While ”;
+(b) by deleting “lodged.” and inserting instead —
+“
+lodged unless —
+(a) subsection (2) applies; or
+(b) the instrument is a property (seizure and sale) order within the meaning given in section 133; or
+(c) the instrument is a Sheriff’s dealing (within the meaning given in section 133) and the matter to which the caveat relates does not, under section 133(7), prevail against the dealing; or
+(d) section 142 applies.
+”.
 ”.
