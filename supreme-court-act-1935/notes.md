@@ -71,7 +71,7 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 69, 119 and 13
 Statutes (Repeals and Minor Amendments) Act 2003 s. 144(3) | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
 Acts Amendment (Court of Appeal) Act 2004 Pt. 2 | 45 of 2004 | 9 Nov 2004 | Pt. 2 other than s. 14, 20(c) and (d) and Pt. 5: 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163); s. 20(c) and (d): 2 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
-Courts Legislation Amendment and Repeal Act 2004 Pt. 18 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Courts Legislation Amendment and Repeal Act 2004 Pt. 18 | 59 of 2004 (as amended by No. 5 of 2008 s. 24) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 14 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 7: The Supreme Court Act 1935 as at 19 Aug 2005 (includes amendments listed above)
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 8 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
@@ -84,6 +84,8 @@ Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Acts Amendment (Court of Appeal) Act 2004 s. 14 | 45 of 2004 (as amended by No. 2 of 2008 s. 75(2) and 77(5)) | 9 Nov 2004 | To be proclaimed (see s. 2)
 Criminal Law and Evidence Amendment Act 2008 s. 75(2) and 77(5) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Acts Amendment (Justice) Act 2008 Pt. 23 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Bail Amendment Act 2008 s. 46 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Acts Amendment (Court of Appeal) Act 2004 s. 5(2) and Pt. 5 read as follows:
 “
@@ -121,7 +123,7 @@ To the extent that, before the coming into operation of section 22, provisions o
 (a) those provisions are to be regarded as having been validly and lawfully made and published under and within the authority of the Supreme Court Act 1935 and to have always had effect according to their terms; and
 (b) anything done under or purportedly done under those provisions is to be regarded as having been validly done and, to have always been, effectual in all respects.
 ”.
-The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 contains provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
+The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
 Part 22 — Transitional provisions
 Division 1 — Provisions about enforcing judgments
@@ -133,8 +135,10 @@ Division 1 — Provisions about enforcing judgments
 (2) This Part does not limit the operation of the Interpretation Act 1984 Part V.
 144.Judgments not satisfied before commencement
 If immediately before commencement a judgment of the Supreme Court, District Court or Local Court is unsatisfied, then on commencement —
-(a) if proceedings to enforce the judgment are pending or any process for the enforcement of the judgment is in force, section 145 applies;
+(a) if any proceedings for or in connection with enforcing the judgment are pending in a court, section 145 applies;
+(aa) if any enforcement process is in force in relation to the judgment, section 146 applies;
 (b) otherwise, the judgment may be enforced under and subject to the Civil Judgments Enforcement Act 2004.
+[Section 144 amended by No. 5 of 2008 s. 24.]
 145.Pending proceedings to enforce a judgment
 (1) If immediately before commencement proceedings for or in connection with enforcing a judgment are pending in a court, then on commencement either —
 (a) the proceedings may be continued under the law in force immediately before commencement, despite the enactment of the Civil Judgments Enforcement Act 2004; or
@@ -218,4 +222,48 @@ On the date as at which this compilation was prepared, the Criminal Law and Evid
 (1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
 (5) Section 128 is amended in the Table to the section by deleting the row relating to “s. 20”.
 ”.
-This Act has a retrospective amendment effective from 1 May 2005 see the Acts Amendment (Justice) Act 2008 s. 24. The effect of this retrospective amendment has not been included in this document. To see the provision as amended by the retrospective amendment see the document as at 31 Mar 2008.
+On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 23 had not come into operation. It reads as follows:
+“
+Part 23 — Supreme Court Act 1935 amended
+116.The Act amended in this Part
+The amendments in this Part are to the Supreme Court Act 1935.
+117.Section 9A amended
+After section 9A(4) the following subsection is inserted —
+“
+(5) A person who resigns from the office of President or judge of appeal without resigning from the office of judge may complete the hearing and determination of any appeal, application or proceeding that was pending before the person immediately before the resignation took effect.
+”.
+118.Section 60 amended
+Section 60(1) is amended as follows:
+(a) by deleting paragraph (d);
+(b) in paragraph (e) by deleting “making the order,” and inserting instead —
+“ or of the Court of Appeal, ”.
+119.Section 155 amended
+(1) Section 155(3) is amended as follows:
+(a) in paragraph (a) by inserting after “Registrar” in the first place it appears —
+“ or a registrar directed under subsection (4) ”;
+(b) in paragraph (b) by inserting after “Appeal Registrar” —
+“ or a registrar directed under subsection (4) ”.
+(2) After section 155(3) the following subsection is inserted —
+“
+(4) If the Chief Justice and the President agree that the Court of Appeal Registrar’s workload justifies doing so, the Chief Justice may direct a registrar to temporarily assist the Court of Appeal Registrar to perform the functions of that office.
+”.
+120.Section 156 amended
+After section 156(2) the following subsections are inserted —
+“
+(3) The Sheriff may delegate to a bailiff appointed under the Civil Judgments Enforcement Act 2004, on any terms the Sheriff thinks fit, the performance of any function under subsection (1).
+(4) If a delegation is made under subsection (3), the Civil Judgments Enforcement Act 2004 section 109(2) and (4) to (8) apply with any necessary changes.
+”.
+”.
+On the date as at which this compilation was prepared, the Bail Amendment Act 2008 s. 46 had not come into operation. It reads as follows:
+“
+46.Supreme Court Act 1935 amended
+(1) The amendments in this section are to the Supreme Court Act 1935*.
+[*Reprint 7 as at 19 August 2005.
+For subsequent amendments see Western Australian Legislation Information Tables for 2006, Table 1, and Act No. 77 of 2006.]
+(2) Section 58(1)(b) is amended by inserting before “appeals” —
+“ subject to subsection (1a) ”.
+(3) After section 58(1) the following subsection is inserted —
+“
+(1a) An appeal does not lie to the Court of Appeal under subsection (1)(b) against a bail decision as defined in the Bail Act 1982 section 15A(1).
+”.
+”.
