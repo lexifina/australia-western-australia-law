@@ -30,6 +30,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law and Evidence Amendment Act 2008 s. 75(3) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Acts Amendment (Justice) Act 2008 Pt. 12 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Guardianship and Administration Amendment Act 2000 s. 21 reads as follows:
 “
@@ -81,4 +82,45 @@ On the date as at which this compilation was prepared, the Criminal Law and Evid
 (3) Schedule 1 clause 7 is amended as follows:
 (a) by deleting “s. 37A”;
 (b) by deleting the row relating to “Heading to Part 3 Division 4”.
+”.
+On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 12 had not come into operation. It reads as follows:
+“
+Part 12 — Guardianship and Administration Act 1990 amended
+55.The Act amended in this Part
+The amendments in this Part are to the Guardianship and Administration Act 1990.
+56.Section 5 repealed and consequential amendment to heading of Part 3 Division 1
+(1) Section 5 is repealed.
+(2) The heading to Part 3 Division 1 is amended by deleting “Constitution, functions” and inserting instead —
+“ Functions ”.
+57.Section 43 amended and consequential amendment to s. 4
+(1) After section 43(2) the following subsections are inserted —
+“
+(2a) Subject to section 4, where the State Administrative Tribunal is satisfied that a person in respect of whom an application for a guardianship order is made under section 40 —
+(a) has attained the age of 17 but not 18 years; and
+(b) will, when he attains the age of 18 years, be —
+(i) incapable of looking after his own health and safety; or
+(ii) unable to make reasonable judgments in respect of matters relating to his person; or
+(iii) in need of oversight, care or control in the interests of his own health and safety or for the protection of others;
+and
+(c) will, when he attains the age of 18 years, be in need of a guardian,
+the Tribunal may by order declare the person will be in need of a guardian when he attains the age of 18 years, and if it does so shall appoint —
+(d) a person to be a plenary guardian or a limited guardian and, if it is expedient, a person to be an alternate guardian; or
+(e) persons to be joint plenary guardians or joint limited guardians,
+as the case may require, of the person in respect of whom the application is made.
+(2b) Where under subsection (2a) the State Administrative Tribunal declares that a person will be in need of a guardian, it shall also declare the matter or matters set out in paragraph (b) of that subsection of which it is satisfied.
+(2c) An appointment made under subsection (2a) in respect of a person comes into operation on the day on which the person attains the age of 18 years.
+”.
+(2) Section 43(3) is amended by inserting after “subsection (1)” —
+“ or (2a) ”.
+(3) Section 4(2)(d) is amended by inserting after “section 43(1)” —
+“ or (2a) ”.
+58.Section 56A amended
+Section 56A is amended by deleting “Notwithstanding section 5(1), the” and inserting instead —
+“ The ”.
+59.Section 86 amended
+Section 86(1) is amended by inserting after paragraph (a) —
+“
+or
+(aa) the Public Trustee; or
+”.
 ”.
