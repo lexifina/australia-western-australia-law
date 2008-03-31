@@ -45,7 +45,7 @@ Vexatious Proceedings Restriction Act 2002 s. 13 | 23 of 2002 | 18 Sep 2002 | 28
 Acts Amendment (Equality of Status) Act 2003 Pt. 17 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 32, 111 and 125 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Acts Amendment (Court of Appeal) Act 2004 s. 32 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
-Courts Legislation Amendment and Repeal Act 2004 Pt. 10 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Courts Legislation Amendment and Repeal Act 2004 Pt. 10 | 59 of 2004 (as amended by No. 5 of 2008 s. 24) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 7 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 7: The District Court of Western Australia Act 1969 as at 19 Aug 2005 (includes amendments listed above)
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 5 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
@@ -56,7 +56,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
+The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
 Part 22 — Transitional provisions
 Division 1 — Provisions about enforcing judgments
@@ -68,8 +68,10 @@ Division 1 — Provisions about enforcing judgments
 (2) This Part does not limit the operation of the Interpretation Act 1984 Part V.
 144.Judgments not satisfied before commencement
 If immediately before commencement a judgment of the Supreme Court, District Court or Local Court is unsatisfied, then on commencement —
-(a) if proceedings to enforce the judgment are pending or any process for the enforcement of the judgment is in force, section 145 applies;
+(a) if any proceedings for or in connection with enforcing the judgment are pending in a court, section 145 applies;
+(aa) if any enforcement process is in force in relation to the judgment, section 146 applies;
 (b) otherwise, the judgment may be enforced under and subject to the Civil Judgments Enforcement Act 2004.
+[Section 144 amended by No. 5 of 2008 s. 24.]
 145.Pending proceedings to enforce a judgment
 (1) If immediately before commencement proceedings for or in connection with enforcing a judgment are pending in a court, then on commencement either —
 (a) the proceedings may be continued under the law in force immediately before commencement, despite the enactment of the Civil Judgments Enforcement Act 2004; or
@@ -135,4 +137,3 @@ The Limitation Legislation Amendment and Repeal Act 2005 s. 10(2) reads as follo
 10.Section 37 amended and a savings provision
 (2) The District Court of Western Australia Act 1969 section 37, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
 ”.
-This Act has a retrospective amendment effective from 1 May 2005 see the Acts Amendment (Justice) Act 2008 s. 24. The effect of this retrospective amendment has not been included in this document. To see the provision as amended by the retrospective amendment see the document as at 31 Mar 2008.
