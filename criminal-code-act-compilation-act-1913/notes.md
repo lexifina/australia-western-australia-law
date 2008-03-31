@@ -150,6 +150,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law and Evidence Amendment Act 2008 Pt. 2 and s. 76 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Acts Amendment (Justice) Act 2008 s. 129 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 The Criminal Code Amendment Act (No. 2) 1996 s. 4(3) is a transitional provision.
@@ -325,6 +326,14 @@ Section 338E(1) is amended in the summary conviction penalty as follows:
 76.Criminal Law Amendment (Simple Offences) Act 2004 amended
 (1) The amendment in this section is to the Criminal Law Amendment (Simple Offences) Act 2004.
 (2) Section 37 is repealed.
+”.
+On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 s. 129 had not come into operation. It reads as follows:
+“
+129.The Criminal Code amended
+(1) The amendments in this section are to The Criminal Code.
+(2) The heading to Part V is amended by deleting “marriage and”.
+(3) Section 563B(3) is amended by deleting “defendant” in the 2 places where it occurs and in each place inserting instead —
+“ accused ”.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
