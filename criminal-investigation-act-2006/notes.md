@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Investigation Act 2006 s. 113 | 58 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
+Acts Amendment (Justice) Act 2008 Pt. 8 (s. 35-39) | 5 of 2008 | 31 Mar 2008 | s. 35-38: to be proclaimed (see s. 2(d)); s. 39: operative on commencement of the Criminal Investigation Act 2006 s. 113 (see s. 2(c))
 On the date as at which this compilation was prepared, the Criminal Investigation Act 2006 s. 113 had not come into operation. It reads as follows:
 “
 113.Publication of photographs restricted
@@ -19,4 +20,55 @@ Penalty: a fine of $12 000 or imprisonment for 12 months.
 (b) the accused person —
 (i) published the photograph in a way that made identification of the photographed person unlikely; and
 (ii) did not also publish the identity of the person photographed.
+”.
+On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 8 had not come into operation. It reads as follows:
+“
+Part 8 — Criminal Investigation Act 2006 amended
+35.The Act amended in this Part
+The amendments in this Part are to the Criminal Investigation Act 2006.
+36.Section 27 amended
+Section 27(6) is repealed and the following subsection is inserted instead —
+“
+(6) Any order given under this section must be in writing on a prescribed form.
+”.
+37.Section 78 amended
+Section 78 is amended by inserting after “person” —
+“ other than a deceased person ”.
+38.Section 102 amended
+Section 102(2) is amended as follows:
+(a) in paragraph (a) by deleting “dentist,”;
+(b) in paragraph (b) by inserting before “qualified” —
+“ doctor, nurse or ”.
+39.Section 113 replaced
+Section 113 is repealed and the following section is inserted instead —
+“
+113.Disclosure of photographs obtained under Part 8 or 9
+(1) In this section —
+“forensic purpose” means —
+(a)investigating an offence or a suspected offence or offences generally; or
+(b)investigating the death of a person or identifying a deceased person; or
+(c)investigating the whereabouts of or identifying a missing person;
+“protected information” means any photograph of a person or of any part of a person, taken under Part 8 or 9.
+(2) A person who has access, or has had access, to protected information may only disclose the information in these circumstances —
+(a) if the person is the person to whom the information relates;
+(b) if the person to whom the information relates consents in writing to the disclosure;
+(c) for the purpose of the medical treatment of the person to whom the information relates;
+(d) if the information is already public;
+(e) for a forensic purpose where the investigation or identification is being done by a police officer or a public officer or by a law enforcement officer prescribed by the regulations;
+(f) for the purpose of a decision as to whether to prosecute an offence;
+(g) for the purpose of criminal proceedings for an offence;
+(h) for the purpose of an investigation or inquest under the Coroners Act 1996;
+(i) for the purpose of civil or disciplinary proceedings that relate to the way in which, or the conduct of any procedure by which, the information was obtained;
+(j) for the purpose of an investigation under the Parliamentary Commissioner Act 1971 into the exercise of any power under this Act;
+(k) in accordance with the Mutual Assistance in Criminal Matters Act 1987, or the Extradition Act 1988, of the Commonwealth;
+(l) for the purposes of a compensation claim made under the Criminal Injuries Compensation Act 2003;
+(m) for the purpose of instructing a person who is or is training to be —
+(i) a person referred to in or prescribed for paragraph (e); or
+(ii) a person with qualifications in a forensic science,
+if all reasonable measures are taken to prevent the person from whom the personal information was obtained being identified from the information;
+(n) for a purpose that the Minister approves because it is in the public interest in any particular case;
+(o) for a purpose prescribed by the regulations.
+(3) A person who has access, or has had access, to protected information must not disclose the information except as provided by this section.
+Penalty: a fine of $24 000 or imprisonment for 2 years.
+”.
 ”.
