@@ -24,7 +24,7 @@ Criminal Law Amendment Act 2001 Pt. 3 | 23 of 2001 | 26 Nov 2001 | 24 Dec 2001
 Zoological Parks Authority Act 2001 s. 47 | 24 of 2001 | 26 Nov 2001 | 22 May 2002 (see s. 2 and Gazette 10 May 2002 p. 2445)
 Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 64 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
 Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 221(4) | 35 of 2003 | 26 Jun 2003 | 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
-Sentencing Legislation Amendment and Repeal Act 2003Pt. 2, s. 29(3) and 33 | 50 of 2003 (as amended by No. 41 of 2006 s. 94) | 9 Jul 2003 | Pt. 2 Div. 1 and 3: 30 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); Pt. 2 Div. 2, 4 and 5 and s. 29(3): 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); s. 33: 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
+Sentencing Legislation Amendment and Repeal Act 2003Pt. 2, s. 29(3) and 33 | 50 of 2003 (as amended by No. 41 of 2006 s. 94 and No. 5 of 2008 s. 109) | 9 Jul 2003 | Pt. 2 Div. 1 and 3: 30 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); Pt. 2 Div. 2, 4 and 5 and s. 29(3): 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); s. 33: 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Reprint 3: The Sentencing Act 1995 as at 10 Oct 2003 (includes amendments listed above except the Sentencing Legislation Amendment and Repeal Act 2003s. 33)
 Criminal Injuries Compensation Act 2003 s. 73 | 77 of 2003 | 15 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
@@ -52,6 +52,7 @@ Criminal Law Amendment (Criminal Property) Act 2004 Pt. 3 | 26 of 2004 | 7 Oct 2
 Parole and Sentencing Legislation Amendment Act 2006 s. 71 | 41 of 2006 | 22 Sep 2006 | Operative on commencement of Act No. 26 of 2004 Pt. 3 (see s. 2(3))
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Criminal Law and Evidence Amendment Act 2008 s. 70 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Acts Amendment (Justice) Act 2008 Pt. 20 and 21 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
@@ -239,5 +240,43 @@ On the date as at which this compilation was prepared, the Criminal Law and Evid
 (2) After section 40(5) the following subsection is inserted —
 “
 (5a) Except where a statutory penalty is expressly provided for a body corporate, a body corporate that is convicted of an offence the statutory penalty for which is or includes a minimum fine is liable to a fine of at least 5 times that minimum fine.
+”.
+”.
+On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 20 and 21 had not come into operation. It reads as follows:
+“
+Part 20 — Sentencing Act 1995 amended
+106.The Act amended in this Part
+The amendment in this Part is to the Sentencing Act 1995.
+107.Section 37 amended
+After section 37(3) the following subsection is inserted —
+“
+(3a) A sentence imposed or corrected under this section has effect from the time at which the recalled or incorrect sentence had effect, unless the court orders otherwise.
+”.
+Part 21 — Sentencing Legislation Amendment and Repeal Act 2003 amended
+108.The Act amended in this Part
+The amendments in this Part are to the Sentencing Legislation Amendment and Repeal Act 2003.
+109.Schedule 1 amended
+After Schedule 1 clause 5 the following clause is inserted —
+“
+5A.Minister may discharge certain prisoners from old parole terms
+(1) In this clause —
+“discharge” means a discharge given under subclause (5);
+“Minister” means the Minister administering Part 8 of the Sentence Administration Act 2003;
+“old parole term” means a parole term to which the old provisions apply.
+(2) This clause does not affect the operation of section 95(2) of the Sentencing Act 1995 as it was before the sentencing amendments.
+(3) The Prisoners Review Board established under the Sentence Administration Act 2003 may at any time give the Minister a report recommending that a person who is subject to an old parole term and who has served two thirds of the term be discharged from the term.
+(4) Any such report must deal with the release considerations (as that term is defined in section 5A of the Sentence Administration Act 2003) relating to the person.
+(5) If the Minister, after considering such a report, is satisfied —
+(a) that the person has served two thirds of the term; and
+(b) after taking into account —
+(i) the release considerations in the report relating to the person; and
+(ii) section 5B of the Sentence Administration Act 2003,
+that the person ought to be discharged from the term despite the old provisions,
+the Minister, in writing, may discharge the person from the term.
+(6) A discharge —
+(a) has effect on the date of the discharge or on any later date specified in it; and
+(b) has effect despite the old provisions.
+(7) If, on the date a discharge has effect in relation to a person who is subject to an old parole term, the person is in custody, the person must be released in respect of that term.
+(8) If, on the date a discharge has effect in relation to a person who is subject to an old parole term, the person is subject to a parole order made in respect of that term, the person ceases to be subject to the parole order in so far as it applies in respect of that term.
 ”.
 ”.
