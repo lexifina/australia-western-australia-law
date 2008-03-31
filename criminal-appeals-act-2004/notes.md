@@ -8,6 +8,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law and Evidence Amendment Act 2008 Pt. 4 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Acts Amendment (Justice) Act 2008 Pt. 6 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 Pt. 4 had not come into operation. It reads as follows:
 “
 Part 4 — Criminal Appeals Act 2004 amended
@@ -59,4 +60,18 @@ After section 50 the following section is inserted —
 (1) The Minister must carry out a review of the operation of the amendments made to this Act by the Criminal Law and Evidence Amendment Act 2008 Part 4 as soon as practicable after the expiration of 5 years from the commencement of the amendments.
 (2) The Minister must prepare a report based on the review and, as soon as practicable after the report is prepared, cause it to be laid before each House of Parliament.
 ”.
+”.
+On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 6 had not come into operation. It reads as follows:
+“
+Part 6 — Criminal Appeals Act 2004 amended
+25.The Act amended in this Part
+The amendments in this Part are to the Criminal Appeals Act 2004.
+26.Section 10 amended
+Section 10(5)(a) and “and” after it are deleted.
+27.Section 28 amended
+(1) Section 28(2) is amended by deleting “that sets out the grounds of the appeal”.
+(2) Section 28(5)(a) and “and” after it are deleted.
+28.Section 45 amended
+(1) Section 45(1) is amended by deleting “with orders to ensure the exhibits are kept by it until the last to happen of the events referred to in subsection (2)”.
+(2) Section 45(6) is amended by deleting “, subject to any order made under subsection (1)”.
 ”.
