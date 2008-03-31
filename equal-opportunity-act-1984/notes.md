@@ -41,6 +41,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 26 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Acts Amendment (Justice) Act 2008 Pt. 10 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
 Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
 The Uniform Building By-laws 1974 were repealed in Gazette 28 July 1989 p. 2280.
@@ -85,4 +86,23 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 “ or ”;
 (b) after subparagraph (iii) by deleting “or”;
 (c) by deleting subparagraph (iv).
+”.
+On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 10 had not come into operation. It reads as follows:
+“
+Part 10 — Equal Opportunity Act 1984 amended
+49.The Act amended in this Part
+The amendments in this Part are to the Equal Opportunity Act 1984.
+50.Section 134 amended
+Section 134(1a) is repealed.
+51.Section 136 replaced
+Section 136 is repealed and the following section is inserted instead —
+“
+136.Tribunal must publish decisions made under s. 135
+(1) The Tribunal shall, not later than one month after it makes a decision under section 135, publish —
+(a) the decision; and
+(b) the reasons for the decision; and
+(c) its findings of fact material to the decision; and
+(d) a summary of the evidence on which those findings were based.
+(2) Any failure to comply with subsection (1) in relation to a decision does not affect the validity of the decision.
+”.
 ”.
