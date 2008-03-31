@@ -19,6 +19,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 141 (the amendment to s. 93(1)) and s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Criminal Law and Evidence Amendment Act 2008 s. 77(11) and 13 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Acts Amendment (Justice) Act 2008 s. 130 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 The provision in this Act repealing these Acts has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 59 reads as follows:
@@ -58,4 +59,13 @@ On the date as at which this compilation was prepared, the Criminal Law and Evid
 (1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
 (11) Schedule 1 clause 116 is amended by deleting “s. 93(1)”.
 (13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
+”.
+On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 s. 130 had not come into operation. It reads as follows:
+“
+130.Pawnbrokers and Second-hand Dealers Act 1994 amended
+(1) The amendments in this section are to the Pawnbrokers and Second-hand Dealers Act 1994.
+(2) Section 83(3) is repealed and the following subsection is inserted instead —
+“
+(3) An arrest made under this section is to be taken to be an arrest made under section 25 of the Criminal Investigation Act 2006 and section 25(5) to (7) of that Act applies accordingly.
+”.
 ”.
