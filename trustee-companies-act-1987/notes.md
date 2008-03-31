@@ -22,3 +22,20 @@ Reprint 2: The Trustee Companies Act 1987 as at 6 Feb 2004 (includes amendments 
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 and 7 Jan 2005 p. 53)
 Trustee Companies (Designation of Trustee Companies) Regulations 2006 published in Gazette 21 Mar 2006 p. 1082-3 | 21 Mar 2006
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Trustee and Trustee Companies Legislation Amendment Act 2008 Pt. 3 | 9 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(2))
+On the date as at which this compilation was prepared, the Public Trustee and Trustee Companies Legislation Amendment Act 2008 Pt. 3 had not come into operation. It reads as follows:
+“
+Part 3 — Trustee Companies Act 1987 amended
+33.The Act amended
+The amendment in this Part is to the Trustee Companies Act 1987.
+34.Section 18A inserted
+After section 18 the following section is inserted in Part III —
+“
+18A.Fees for preparation of wills and enduring powers of attorney
+(1) Despite anything to the contrary in the Legal Practice Act 2003, a trustee company may charge a fee and recover disbursements for the preparation of a will or an enduring power of attorney.
+(2) Subsection (1) applies only if the will or enduring power of attorney is prepared under the direction and control of a certificated practitioner as defined in section 3 of the Legal Practice Act 2003.
+”.
+”.
