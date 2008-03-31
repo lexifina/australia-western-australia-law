@@ -21,7 +21,21 @@ Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2004 s. 15 
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Unclaimed Money Act 1990 as at 9 Mar 2007 (includes amendments listed above except the amendments in the Criminal Investigation (Consequential Provisions) Act 2006 s. 73)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Trustee and Trustee Companies Legislation Amendment Act 2008 Pt. 4 | 9 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(2))
 Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 of the Commonwealth.
 The Companies (Western Australia) Code and the Companies (Acquisition of Shares) (Western Australia) Code were superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Public Trustee and Trustee Companies Legislation Amendment Act 2008 Pt. 4 had not come into operation. It reads as follows:
+“
+Part 4 — Unclaimed Money Act 1990 amended
+35.The Act amended
+The amendments in this Part are to the Unclaimed Money Act 1990.
+36.Section 9 amended
+Section 9(1)(f) is amended by deleting “the Common Fund established under section 40 of the Public Trustee Act 1941” and inserting instead —
+“
+the Common Account as defined in section 2 of the Public Trustee Act 1941
+”.
+”.
 The former Consolidated Fund became the Consolidated Account.
