@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 23 November 2007 of the Planning and Development Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Planning and Development Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Planning and Development Act 2005 | 37 of 2005 | 12 Dec 2005 | s. 1 and 2: 12 Dec 2005; Act other than s. 1, 2, 149, 150 and Pt. 13 Div. 3: 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077)
@@ -8,13 +8,14 @@ Compilation table
  | Land Information Authority Act 2006 s. 147 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 1: The Planning and Development Act 2005 as at 23 Nov 2007 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) | 37 of 2005 (as amended by No. 60 of 2006 s. 147(4)) | 12 Dec 2005 | To be proclaimed (see s. 2)
+Acts Amendment (Justice) Act 2008 Pt. 18 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Repealed by the Land Administration Act 1997.
 Repealed by the Mining Act 1978.
-On the date as at which this reprint was prepared, the Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) had not come into operation. They read as follows:
 “
 149.Conditions on rural land (tied lots)
 (1) In this section —
@@ -340,4 +341,45 @@ but if the City of Swan does not accept that advice, the City of Swan is to refe
 ”.
 (8) Clause 30B(6) is amended by deleting “council of the Shire” and inserting instead —
 “ City ”.
+”.
+On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 18 had not come into operation. It reads as follows:
+“
+Part 18 — Planning and Development Act 2005 amended
+83.The Act amended in this Part
+The amendments in this Part are to the Planning and Development Act 2005.
+84.Section 237 amended
+Section 237 is amended as follows:
+(a) by deleting the definition of “ordinary member”;
+(b) by inserting in the appropriate alphabetical positions —
+“
+“judicial member” has the meaning given to that term in section 3(1) of the State Administrative Tribunal Act 2004;
+“Tribunal member” has the meaning given to that term in section 3(1) of the State Administrative Tribunal Act 2004.
+”;
+(c) by deleting the full stop after the definition of “President” and inserting instead a semicolon.
+85.Section 237A inserted
+After section 237 the following section is inserted —
+“
+237A.Constitution of State Administrative Tribunal
+(1) When exercising the jurisdiction referred to in section 236(2), the State Administrative Tribunal is to be constituted under this section and section 238.
+(2) The State Administrative Tribunal is to be constituted by one Tribunal member when it is dealing with an application for a review of the determination of, or conditions imposed in respect of —
+(a) a development application to commence a development of a value of less than $250 000 or such other amount as is prescribed by regulations made under the State Administrative Tribunal Act 2004; or
+(b) a development application to commence a development of a single house on a single lot where the development is of a value of less than $500 000 or such other amount as is prescribed by regulations made under the State Administrative Tribunal Act 2004, or any development ancillary to that development; or
+(c) an application for approval to subdivide a lot into not more than 3 lots.
+(3) The State Administrative Tribunal is to be constituted by one Tribunal member when it is dealing with an application that the applicant, with the agreement of each other party, has elected at the time of making the application to have determined by one Tribunal member.
+(4) If —
+(a) subsection (2) or (3) does not apply; or
+(b) the President is of the opinion that an application referred to in subsection (2) or (3) is likely to raise complex or significant planning issues,
+the State Administrative Tribunal is to be constituted under section 11 of the State Administrative Tribunal Act 2004.
+”.
+86.Section 238 amended
+Section 238(3) and (4) are repealed.
+87.Section 239 amended
+Section 239(1) is amended by deleting “section 238(3)(a)” and inserting instead —
+“ section 237A(2) ”.
+88.Section 244 amended
+(1) Section 244(1) is amended by deleting “the President” and inserting instead —
+“ a judicial member ”.
+(2) Section 244(2) is amended by deleting “the President” and inserting instead —
+“ a judicial member ”.
+(3) Section 244(4) is repealed.
 ”.
