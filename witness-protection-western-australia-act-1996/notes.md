@@ -10,3 +10,13 @@ Reprint 1: The Witness Protection (Western Australia) Act 1996 as at 10 Oct 2003
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Australian Crime Commission (Western Australia) Act 2004 s. 75 | 74 of 2004 | 8 Dec 2004 | 1 Feb 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Police Amendment Act 2008 s. 22 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Police Amendment Act 2008 s. 23(9) | 8 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(2))
+On the date as at which this compilation was prepared, the Police Amendment Act 2008 s. 23(9) had not come into operation. It reads as follows:
+“
+23.Various Acts amended in relation to the definition of “police officer”
+(9) The Witness Protection (Western Australia) Act 1996 section 3(1) is amended by deleting the definition of “police officer”.
+”.

@@ -26,11 +26,13 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 5: The Occupational Safety and Health Act 1984 as at 24 Jun 2005 (includes amendments listed above)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Petroleum Amendment Act 2007 s. 101 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
+Police Amendment Act 2008 s. 15 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 65, 66 and 68 | 51 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Petroleum Legislation Amendment and Repeal Act 2005 s. 50 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
+Police Amendment Act 2008 s. 23(5) | 8 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(2))
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Occupational Safety and Health Act 1984; short title changed (see note under s. 1).
@@ -146,4 +148,9 @@ On the date as at which this compilation was prepared, the Petroleum Amendment A
 “
 Petroleum and Geothermal Energy Resources Act 1967,
 ”.
+”.
+On the date as at which this compilation was prepared, the Police Amendment Act 2008 s. 23(5) had not come into operation. It reads as follows:
+“
+23.Various Acts amended in relation to the definition of “police officer”
+(5) The Occupational Safety and Health Act 1984 section 3(1) is amended by deleting the definition of “police officer”.
 ”.

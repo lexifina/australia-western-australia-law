@@ -68,6 +68,7 @@ Reprint 11: The Industrial Relations Act 1979 as at 3 Nov 2006 (includes amendme
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Petroleum Amendment Act 2007 s. 97 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
+Police Amendment Act 2008 s. 13 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -75,6 +76,8 @@ Vocational Education and Training Act 1996 s. 62 | 42 of 1996 | 16 Oct 1996 | To
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
+Acts Amendment (Justice) Act 2008 Pt. 13 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Police Amendment Act 2008 s. 23(3) | 8 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(2))
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
 The Labour Relations Reform Act 2002 s. 112, 113(6), 117(2) and (3), 138(2), 140(2), 141(2), 146(2), 152(2), 155(2) and (3), 186(2)-(4) and Sch. 1 read as follows:
@@ -245,4 +248,43 @@ Schedule 3 — Consequential amendments
 and
 (III) the Owner-Drivers (Contracts and Disputes) Act 2007;
 ”.
+”.
+On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 13 had not come into operation. It reads as follows:
+“
+Part 13 — Industrial Relations Act 1979 amended
+60.The Act amended in this Part
+The amendments in this Part are to the Industrial Relations Act 1979.
+61.Section 81CA amended
+(1) Section 81CA(4) is repealed.
+(2) Section 81CA(5) is amended by deleting “summary jurisdiction.” and inserting instead —
+“
+summary jurisdiction and the Criminal Procedure Act 2004 applies.
+”.
+(3) Section 81CA(6) is repealed.
+(4) Section 81CA(7) is repealed.
+62.Section 81CB inserted
+After section 81CA the following section is inserted —
+“
+81CB.Industrial magistrate’s court judgments, enforcement of
+(1) In this section —
+“general jurisdiction” has the meaning given to that term by section 81CA;
+“judgment” includes an order, direction or decision.
+(2) A person to whom money is to be paid under a judgment of an industrial magistrate’s court made in the exercise of general jurisdiction may enforce it by lodging a copy of it, certified by a clerk of the court, and an affidavit stating to what extent it has not been complied with, with a court of competent jurisdiction.
+(3) If, or to the extent that, a judgment of an industrial magistrate’s court made in the exercise of general jurisdiction does not require the payment of money, a person entitled to the benefit of the judgment may enforce it by lodging a copy of it, certified by a clerk of the court, and an affidavit stating to what extent it has not been complied with, with the Magistrates Court.
+(4) A judgment that is lodged with a court under subsection (2) or (3) is to be taken to be a judgment of that court and may be enforced accordingly.
+”.
+63.Section 83D amended
+Section 83D(1) is repealed and the following subsection is inserted instead —
+“
+(1) An industrial magistrate’s court has jurisdiction to hear and determine any charge of an offence under this Act other than an offence under section 80(3).
+”.
+64.Section 113 amended
+Section 113(3) is amended by deleting “and the enforcement of a judgment, order, direction, or other decision of an industrial magistrate’s court”.
+”.
+On the date as at which this compilation was prepared, the Police Amendment Act 2008 s. 23(3) had not come into operation. It reads as follows:
+“
+23.Various Acts amended in relation to the definition of “police officer”
+(3) The Industrial Relations Act 1979 Schedule 3 clause 1 is amended as follows:
+(a) by deleting the semi colon after the definition of “Arbitrator” and inserting instead a full stop;
+(b) by deleting the definition of “police officer”.
 ”.
