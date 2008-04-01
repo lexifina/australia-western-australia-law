@@ -29,7 +29,7 @@ In this Act —
 “police officer” means a person appointed under the Police Act 1892 —
 (a)Part I to be a member of the Police Force;
 (b)Part III to be a special constable; or
-(c)section 38A to be an aboriginal aide;
+(c)Part IIIA to be an Aboriginal police liaison officer;
 “premises” means —
 (a)land (whether built on or not);
 (b)a building or structure on land; or
@@ -99,4 +99,4 @@ but does not include —
 “vending machine” means a device from which a tobacco product can be obtained by the inserting of money, a card or a token or similar object;
 “wholesale” means a sale, other than by way of retail, in any quantity;
 “wholesaler’s licence” means a licence issued under section 36(1)(b).
-[Glossary amended by No. 73 of 2006 s. 114; No. 77 of 2006 s. 17.]
+[Glossary amended by No. 73 of 2006 s. 114; No. 77 of 2006 s. 17; No. 8 of 2008 s. 21.]

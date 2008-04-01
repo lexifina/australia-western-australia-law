@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 October 2007 of the Public Interest Disclosure Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Public Interest Disclosure Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Interest Disclosure Act 2003 | 29 of 2003 | 22 May 2003 | s. 1 and 2: 22 May 2003; Act other than s. 1 and 2: 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -8,3 +8,4 @@ Corruption and Crime Commission Amendment and Repeal Act 2003 s. 74(2) | 78 of 2
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 1: The Public Interest Disclosure Act 2003 as at 12 Oct 2007 (includes amendments listed above)
+Police Amendment Act 2008 s. 18 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))

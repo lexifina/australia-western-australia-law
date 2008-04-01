@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 23 November 2007 of the Police Act 1892 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Police Act 1892 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 The Police Act 1892 | 1892 (55 Vict. No. 27) | 18 Mar 1892 | 1 Apr 1892 (see s. 142)
@@ -114,6 +114,7 @@ Reprint 12: The Police Act 1892 as at 1 Jun 2005 (includes amendments listed abo
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 12 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 13: The Police Act 1892 as at 23 Nov 2007 (includes amendments listed above)
+Police Amendment Act 2008 Pt. 2 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
 Now known as the Police Act 1892; short title changed (see note under s. 3).
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973 s. 3.
 The Police Amendment Act 2003 s. 9 reads as follows:

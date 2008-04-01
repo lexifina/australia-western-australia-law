@@ -13,6 +13,12 @@ Reprint 2: The Corruption and Crime Commission Act 2003 as at 7 Jul 2006 (includ
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 3 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Police Amendment Act 2008 s. 11 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Acts Amendment (Justice) Act 2008 s. 128 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Police Amendment Act 2008 s. 23(1) | 8 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(2))
 Repealed by the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003.
 Now called the Telecommunications (Interception and Access) Act 1979.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -115,4 +121,16 @@ to or in relation to any matter.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as to —
 (a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
+”.
+On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 s. 128 had not come into operation. It reads as follows:
+“
+128.Corruption and Crime Commission Act 2003 amended
+(1) The amendments in this section are to the Corruption and Crime Commission Act 2003.
+(2) Section 184(3)(c) is amended by deleting “and 133” and inserting instead —
+“ , 133 and 140 ”.
+”.
+On the date as at which this compilation was prepared, the Police Amendment Act 2008 s. 23(1) had not come into operation. It reads as follows:
+“
+23.Various Acts amended in relation to the definition of “police officer”
+(1) The Corruption and Crime Commission Act 2003 section 3 is amended by deleting the definition of “police officer”.
 ”.
