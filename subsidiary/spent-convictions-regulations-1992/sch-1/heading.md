@@ -1,29 +1,20 @@
 ## Schedule 1
-[Regulation 5]
+[r. 5]
+[Heading inserted in Gazette 1 Apr 2008 p. 1280.]
 SPENT CONVICTIONS ACT 1988 — SECTION 7(1)
-APPLICATION FOR CERTIFICATE THAT LESSER CONVICTION (1) IS SPENT
-TO THE COMMISSIONER OF POLICE
-1. I, the person named in paragraph 2 below, apply for a certificate under section 7(1) of the Spent Convictions Act 1988 that the following conviction(s) incurred by me (2) is/are spent:
-Date of Conviction | Name and place of court | Offence | Sentence imposed | If imprisoned give date of release
-(Continue on separate sheet if necessary)
-2.My particulars are as follows —
-SURNAME: ....................................................................................................... OTHER NAMES: .............................................................................................. ANY NAME PREVIOUSLY USED (ALIAS): ................................................ DATE OF BIRTH: ......../......../........ PLACE OF BIRTH: ............................... RESIDENTIAL ADDRESS: ............................................................................. POSTAL ADDRESS (If different from above): ................................................
-3. I have not been convicted (3) since the date of any conviction shown in paragraph 1 above (except as mentioned in that paragraph)
-OR (4)
-I have incurred the following conviction(s) (3) since the date of any conviction shown in paragraph 1 above
-Date of Conviction | Name and place of court | Offence | Sentence imposed | If imprisoned give date of release
-(Continue on separate sheet if necessary)
-I, the person named in paragraph 2 above, solemnly and sincerely declare that the information I have supplied in this application is true and correct and I make this solemn declaration by virtue of section 106 of the Evidence Act 1906.
-Signature: ____________________________________
-Declared at ______________ this ______________ day of ________________ 20 ___
-before me __________________________________
-Police Officer; or
-Other (5)____________________________________
-(Show designation)
-CERTIFICATE OF IDENTITY
-I ___________________________________________________________ of (name and address of person before whom above declaration made) ______________________________________________________________ certify that I have verified the identity of the applicant by sighting one of the following documents — (a)DRIVER’S LICENCE NUMBER:EXPIRY: (b)PASSPORT NUMBER: EXPIRY: COUNTRY OF ISSUE: __________________________ (c)OTHER ____________________________________ (specify)
-FOR OFFICIAL USE
-TO CRIMINAL RECORDS SECTION Application forwarded by: SURNAME: _______ RANK: ______ No: _____
-TO BE COMPLETED BY THE OFFICER IN CHARGE, CRIMINAL RECORDS SECTION Record Checked by: _____________________ Certificate Issued/Not Issued Date: ___________ Record Noted by: __________ OIC Initials: _________
-CLEARANCE CERTIFICATE REQUIRED YES/NO | STATION AT WHICH APPLICATION MADE | GENERAL RECEIPT ISSUED | DATE
+APPLICATION FOR CERTIFICATE THAT LESSER CONVICTION IS SPENT
+Particulars of applicant —
+SURNAME: ........................................................................................................ OTHER NAMES: ............................................................................................... ANY NAME PREVIOUSLY USED (ALIAS): ................................................. DATE OF BIRTH: ......../......../........ PLACE OF BIRTH: ................................ RESIDENTIAL ADDRESS: .............................................................................. .............................................................................. POSTAL ADDRESS (If different from above): ................................................ ................................................
+I apply to the Commissioner of Police for a certificate that any lesser Western Australian convictions that may be eligible in accordance with the Spent Convictions Act 1988 are spent.
+Signature of applicant: ___________________________________
+(To be signed in the presence of an authorised witness*)
+* see Information for Applicant
+Declaration of authorised witness —
+I declare that I have —
+·sighted original identification documentation that confirms the identity of the applicant; and
+·witnessed the applicant’s signature.
+Signature of witness: ____________________________________
+Full name of witness: ____________________________________
+Authority of witness: ____________________________________
+Date: / /
 INFORMATION FOR APPLICANT
