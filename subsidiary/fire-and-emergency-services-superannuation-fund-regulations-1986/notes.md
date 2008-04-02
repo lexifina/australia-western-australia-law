@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 January 2008 of the Fire and Emergency Services (Superannuation Fund) Regulations 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fire and Emergency Services (Superannuation Fund) Regulations 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fire Brigades (Superannuation Fund) Regulations 1986 | 29 Oct 1986 p. 3991-4016 | 3 Nov 1986 (see r. 2 and Gazette 24 Oct 1986 p. 3938)
@@ -27,14 +27,15 @@ Fire and Emergency Services (Superannuation Fund) Amendment Regulations (No. 2) 
 Fire and Emergency Services (Superannuation Fund) Amendment Regulations 2004 | 29 Jun 2004 p. 2520-2 | 1 Jul 2004 (see r. 2)
 Fire and Emergency Services (Superannuation Fund) Amendment Regulations (No. 2) 2004 | 21 Jan 2005 p. 260-3 | 21 Jan 2005
 Reprint 3: The Fire and Emergency Services (Superannuation Fund) Regulations 1986 as at 11 Jan 2008 (includes amendments listed above)
+Fire and Emergency Services (Superannuation Fund) Amendment Regulations 2008 | 1 Apr 2008 p. 1271-9 | r. 1 and 2: 1 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2008 (see r. 2(b))
 Now known as the Fire and Emergency Services (Superannuation Fund) Regulations 1986; citation changed (see note under r. 1).
 The Fire Brigades (Superannuation Fund) Amendment Regulations 1988 r. 5 reads as follows:
 “
 5.Saving and transitional
 (1) A person whose membership of the Superannuation Fund terminated prior to the commencement of these regulations only by reason of the transfer of his employment from the Fire Brigades Board to the Senior Executive Service of the Public Service Commissioner and whose employment by the Public Service Commissioner in the Senior Executive Service continues until the day on which the Public Service Commissioner commences to be an associated employer, shall be deemed to have remained a member from the day of such transfer of employment until the day the Public Service Commissioner commences to be an associated employer, and the principal regulations shall apply to and in relation to that person in respect of that period as if he had continued to be an employee of the Fire Brigades Board.
 (2) In subregulation (1) —
-“Public Service Commissioner” means the Public Service Commissioner within the meaning of the Public Service Act 1978; and
-“Senior Executive Service” means the Senior Executive Service within the meaning of the Public Service Act 1978.
+Public Service Commissioner means the Public Service Commissioner within the meaning of the Public Service Act 1978; and
+Senior Executive Service means the Senior Executive Service within the meaning of the Public Service Act 1978.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -87,4 +88,3 @@ the original rate7(3)
 the relevant date8(1)
 the service percentage41(2)
 trustee corporation25(5)
-By Authority: JOHN A. STRIJK, Government Printer
