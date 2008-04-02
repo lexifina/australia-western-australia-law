@@ -40,6 +40,7 @@ Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 37 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Security and Related Activities (Control) Amendment Act 2008 s. 81 | 4 of 2008 | 2 Apr 2008 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
 The Firearms Amendment Act 1996 s. 9(2), 10(2), 11(2), 15(2), 39 and 53 are transitional, savings and related provisions that are of no further effect.
@@ -115,4 +116,11 @@ On the date as at which this compilation was prepared, the Criminal Law and Evid
 77.Courts Legislation Amendment and Repeal Act 2004 amended
 (1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
 (13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
+”.
+On the date as at which this compilation was prepared, the Security and Related Activities (Control) Amendment Act 2008 s. 81 had not come into operation. It reads as follows:
+“
+81.Firearms Act 1973 amended
+(1) The amendment in this section is to the Firearms Act 1973.
+(2) Section 16A is amended by inserting after “section 24” —
+“ , or a permit issued under section 25, ”.
 ”.
