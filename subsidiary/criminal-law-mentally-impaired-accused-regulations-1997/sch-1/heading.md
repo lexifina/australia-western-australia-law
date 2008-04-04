@@ -20,7 +20,11 @@ Station/division: | No.:
 Signature: | Date:
 [Form 1 amended in Gazette 31 Jul 2007 p. 3795.]
 Form 2 — Custody Order
-WESTERN AUSTRALIA Criminal Law (Mentally Impaired Accused) Act 1996, s. 16, 19, 21, 22 CUSTODY ORDER |  | oSupreme Court oDistrict Court oMagistrates Court oChildren’s Court At:
+WESTERN AUSTRALIA Criminal Law (Mentally Impaired Accused) Act 1996, s. 16, 19, 21, 22 CUSTODY ORDER |  | o | Supreme Court
+o | District Court
+o | Magistrates Court
+o | Children’s Court
+At:
 To | All police officers All persons authorised to exercise a power set out in clause 5 of Schedule 2 to the Court Security and Custodial Services Act 1999 Persons in charge of authorised hospitals Chief executive officers under the Prisons Act 1981 or the Young Offenders Act 1994.
 Accused | Name: | Date of birth:
 Command | The accused has been charged with the offences set out below. You are ordered to take the accused to the place of custody set out below and detain him or her there until a determination is made by the Board under section 25 of the Criminal Law (Mentally Impaired Accused) Act 1996.
@@ -30,9 +34,13 @@ Place of custody
 Issuing officer | Name: | Date:
 Judicial officer (s) / Clerk of Arraigns
 Signature:
-[Form 2 amended in Gazette 31 Jul 2007 p. 3795.]
+[Form 2 amended in Gazette 28 Jul 2000 p. 4008; 31 Jul 2007 p. 3795.]
 Form 3 — Hospital Order
-WESTERN AUSTRALIA Criminal Law (Mentally Impaired Accused) Act 1996, s. 5, 14 HOSPITAL ORDER |  | oSupreme Court oDistrict Court oMagistrates Court oChildren’s Court At:
+WESTERN AUSTRALIA Criminal Law (Mentally Impaired Accused) Act 1996, s. 5, 14 HOSPITAL ORDER |  | o | Supreme Court
+o | District Court
+o | Magistrates Court
+o | Children’s Court
+At:
 To | All police officers All persons authorised to exercise a power set out in clause 5 of Schedule 2 to the Court Security and Custodial Services Act 1999 Persons in charge of authorised hospitals Chief executive officers under the Prisons Act 1981 or the Young Offenders Act 1994.
 Accused | Name: | Date of birth:
 Order | The accused has been charged with the offences set out below. You are ordered to take the accused to the authorised hospital set out below for examination by a psychiatrist to determine if he or she should be made an involuntary patient. If the accused is made an involuntary patient, you must detain him or her in an authorised hospital until the appearance date when you must bring him or her to court. If the accused is not made an involuntary patient, he or she is to be detained in custody in prison or a detention centre (as the case may be) until the appearance date.
@@ -46,7 +54,7 @@ Signature:
 Results of assessment by psychiatrist | I have examined the accused and — o haveo have not made him or her an involuntary patient.
 Name of psychiatrist: | Date:
 Signature:
-[Form 3 amended in Gazette 31 Jul 2007 p. 3795-6.]
+[Form 3 amended in Gazette 28 Jul 2000 p. 4009; 31 Jul 2007 p. 3795-6.]
 Form 4 — Release Order
 WESTERN AUSTRALIA Criminal Law (Mentally Impaired Accused) Act 1996, s. 35 RELEASE ORDER
 Accused | Name: | Date of birth:
@@ -58,4 +66,3 @@ Governor | Name: | Date:
 Signature:
 NOTE TO THE ACCUSED | If this release order is subject to conditions and you breach those conditions, the release order may be cancelled. If this happens the custody order made against you by the court will come back into force.
 [Form 4 amended in Gazette 31 Jul 2007 p. 3796.]
-[Schedule 1 amended in Gazette 28 Jul 2000 p. 4008-9; 31 Jul 2007 p. 3795-6.]
