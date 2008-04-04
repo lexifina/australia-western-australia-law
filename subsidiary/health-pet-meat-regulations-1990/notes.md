@@ -11,4 +11,28 @@ Health (Pet Meat) Amendment Regulations 2004 | 25 Jun 2004 p. 2236-7 | 1 Jul 200
 Health (Pet Meat) Amendment Regulations 2005 | 31 May 2005 p. 2409-10 | 1 Jul 2005 (see r. 2)
 Health (Pet Meat) Amendment Regulations 2006 | 2 May 2006 p. 1700 | 1 Jul 2006 (see r. 2)
 Health (Pet Meat) Amendment Regulations 2007 | 18 May 2007 p. 2252 | 1 Jul 2007 (see r. 2)
+Health (Pet Meat) Amendment Regulations 2008 r. 1 and 2 | 4 Apr 2008 p. 1308 | 4 Apr 2008 (see r. 2(a))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health (Pet Meat) Amendment Regulations 2008 r. 3 and 4 | 4 Apr 2008 p. 1308 | 1 Jul 2008 (see r. 2(b))
 Regulation 24(3) disallowed on 5 Dec 1990; see Gazette 21 Dec 1990 p. 6280.
+On the date as at which this compilation was prepared, the Health (Pet Meat) Amendment Regulations 2008 r. 3 and 4 had not come into operation. They read as follows:
+“
+3.The regulations amended
+The amendments in these regulations are to the Health (Pet Meat) Regulations 1990.
+4.Schedule 4 replaced
+Schedule 4 is repealed and the following Schedule is inserted instead —
+“
+Schedule 4 — Fees
+[r. 10, 13, 18, 33, 50, 52]
+Item | Regulation | Service | Fee ($)
+1. | 10(2) | Registration of a knackery | 383
+2. | 10(4) | Hire of a stamp for a knackery | 55
+3. | 13(2) | Registration of a processing establishment | 383
+4. | 18(2) | Hire of a brand for a processing establishment | 55
+5. | 33(2) | Registration of a Class 1 pet meat shop | 233
+6. | 33(2) | Registration of a Class 2 pet meat shop | 128
+7. | 52(1) | Transfer of registration | 128
+”.
+”.
