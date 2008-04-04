@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 September 2007 of the Health (Food Standards) (Administration) Regulations 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health (Food Standards) (Administration) Regulations 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Health (Food Standards) (Administration) Regulations 1986 | 21 Nov 1986 p. 4266-9 | 21 Nov 1986
@@ -12,3 +12,16 @@ Health (Food Standards) (Administration) Amendment Regulations 2005 | 31 May 200
 Health (Food Standards) (Administration) Amendment Regulations 2006 | 2 May 2006 p. 1699 | 1 Jul 2006 (see r. 2)
 Health (Food Standards) (Administration) Amendment Regulations 2007 | 18 May 2007 p. 2251 | 1 Jul 2007 (see r. 2)
 Reprint 2: The Health (Food Standards) (Administration) Regulations 1986 as at 7 Sep 2007 (includes amendments listed above)
+Health (Food Standards) (Administration) Amendment Regulations 2008 r. 1 and 2 | 4 Apr 2008 p. 1307 | 4 Apr 2008 (see r. 2(a))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health (Food Standards) (Administration) Amendment Regulations 2008 r. 3 and 4 | 4 Apr 2008 p. 1307 | 1 Jul 2008 (see r. 2(b))
+On the date as at which this compilation was prepared, the Health (Food Standards) (Administration) Amendment Regulations 2008 r. 3 and 4 had not come into operation. They read as follows:
+“
+3.The regulations amended
+The amendments in these regulations are to the Health (Food Standards) (Administration) Regulations 1986.
+4.Regulation 6 amended
+Regulation 6 is amended by deleting “$40.” and inserting instead —
+“ $41. ”.
+”.
