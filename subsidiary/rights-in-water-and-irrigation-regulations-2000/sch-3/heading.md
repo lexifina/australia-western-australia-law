@@ -50,10 +50,10 @@ WHAT YOU MUST DO:
  | The Chief Finance Officer Water and Rivers Commission PO Box K822 PERTH WA 6842
  | If you wish to do so but are unable to make payment within 21 days you may apply to the Water and Rivers Commission for an extension of time within which the modified penalty may be paid.
 OR | IF YOU DO NOT PAY THE MODIFIED PENALTY
-2. | A complaint may be issued against you for the alleged offence, in which case the matter will be dealt with by a COURT.
+2. | A prosecution notice may be issued against you for the alleged offence, in which case the matter will be dealt with by a COURT.
 OR
- | The modified penalty may be recovered by the Fines Enforcement Registry, in which case — (a)additional administrative charges may be incurred; (b)action may be taken to suspend your Motor Driver’s Licence or Vehicle Licence until you have paid in full the modified penalty and any additional charge; and (c)you will be given an opportunity to elect to have a complaint for the alleged offence dealt with by a COURT. PAYMENTS AFTER THE DUE DATE CAN ONLY BE MADE WITH A FINAL DEMAND LETTER WHICH INCURS AN ADDITIONAL ENFORCEMENT FEE.
-[Form 3 amended in Gazette 14 Jun 2002 p. 2837; 5 Sep 2006 p. 3625.]
+ | The modified penalty may be recovered by the Fines Enforcement Registry, in which case — (a)additional administrative charges may be incurred; (b)action may be taken to suspend your Motor Driver’s Licence or Vehicle Licence until you have paid in full the modified penalty and any additional charge; and (c)you will be given an opportunity to elect to have a prosecution notice for the alleged offence dealt with by a COURT. PAYMENTS AFTER THE DUE DATE CAN ONLY BE MADE WITH A FINAL DEMAND LETTER WHICH INCURS AN ADDITIONAL ENFORCEMENT FEE.
+[Form 3 amended in Gazette 14 Jun 2002 p. 2837; 5 Sep 2006 p. 3625; 4 Apr 2008 p. 1313.]
 Form 4
 [r. 54]
 Water and Rivers Commission
