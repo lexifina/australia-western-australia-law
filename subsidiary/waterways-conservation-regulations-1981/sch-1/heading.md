@@ -223,11 +223,12 @@ at about .......................... o’clock in the ........................ no
 in contravention of .................................................................................................
 (Specific provision)
 The modified penalty prescribed for this offence is $ .
-If you do not wish to have a complaint of the above offence heard and determined by a court you may pay the modified penalty within 21 days after receipt of this notice.
+If you do not wish to have a prosecution notice of the above offence heard and determined by a court you may pay the modified penalty within 21 days after receipt of this notice.
 If payment is not made within 21 days after receipt of this notice, court proceedings may be instituted against you.
 Payment may be made either by posting this form, together with the amount of the modified penalty mentioned above, to the office of the .................................. Management Authority at ............................................................................ or by presenting this form and paying that amount personally at the above address between the hours of a.m. and p.m. on any day except a Saturday, Sunday, or public holiday.
 ........................................................................
 Signature of Inspector.
+[Form 11 amended in Gazette 4 Apr 2008 p. 1314.]
 Form 12
 Waterways Conservation Act 1976
 WITHDRAWAL OF INFRINGEMENT NOTICE
@@ -244,4 +245,4 @@ The modified penalty of $
 ........................................................................
 Signature of Chairman,
 Management Authority.
-[Schedule 1 amended in Gazette 29 Dec 1995 p. 6303; 26 Nov 1996 p. 6638-9.]
+[Schedule 1 amended in Gazette 29 Dec 1995 p. 6303; 26 Nov 1996 p. 6638-9; 4 Apr 2008 p. 1314.]

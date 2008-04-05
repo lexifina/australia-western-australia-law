@@ -9,4 +9,4 @@ Waterways Conservation Amendment Regulations 1996 | 26 Nov 1996 p. 6637-9 | 26 N
 Waterways Conservation Amendment Regulations 1998 | 22 Jan 1999 p. 221-2 | 22 Jan 1999
 Reprint of the Waterways Conservation Regulations 1981 at at 16 Nov 2001 (includes amendments listed above)
 Waterways Conservation Amendment Regulations 2004 | 30 Dec 2004 p. 7001 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
-Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
+Waterways Conservation Amendment Regulations 2008 | 4 Apr 2008 p. 1313-14 | r. 1 and 2: 4 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Apr 2008 (see r. 2(b))
