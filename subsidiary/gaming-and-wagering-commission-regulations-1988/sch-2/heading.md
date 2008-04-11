@@ -12,7 +12,8 @@ Section | Description of offence | Modified penalty
 45(3) | Unauthorised diversion of funds raised ............................ | 100
 45(4) | Conduct of permitted gaming in an unauthorised manner | 100
 86 | Inserting in a gaming machine anything other than money or an authorised token ........................................... | 20
-95(4) | Participating in bingo when not on the premises, or on behalf of another person not present on the premises …... | 20
-38A(1) | Conducting a permitted lottery otherwise than in accordance with a permit .................................................. | 100
-38A(2) | Conducting a standard or continuing lottery otherwise than in accordance with the regulations ............................ | 100
+95(4) | Participating in bingo when not on the premises, or on behalf of another person not present on the premises ....... | 20
+Regulation | Description of offence | Modified penalty
+38A(1) | Conducting a permitted lottery otherwise than in accordance with a permit .................................................. | $100
+38A(2) | Conducting a standard or continuing lottery otherwise than in accordance with the regulations ............................ | $100
 [Schedule 2 amended in Gazette 27 Sep 1991 p. 5069; 11 May 1993 p. 2398; 28 Jun 1996 p. 3099; 30 Jan 2004 p. 416.]

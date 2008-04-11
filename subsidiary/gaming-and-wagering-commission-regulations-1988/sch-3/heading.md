@@ -76,7 +76,7 @@ Insert
 (5)Address of approved premises.
 (6)Where it is a function permit, a description of the function.
 (7)The duration of the period concerned, or the days authorised.
-(8)Signature of the officer of the Commission or, in the case of a function permit, of the Stipendiary Magistrate by whom the permit was issued.
+(8)Signature of the officer of the Commission or, in the case of a function permit, of the magistrate by whom the permit was issued.
 *Delete if inapplicable.
 [Form 3 amended in Gazette 30 Jan 2004 p. 416.]
 Form 4
