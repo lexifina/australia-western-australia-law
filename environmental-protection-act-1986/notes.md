@@ -1,11 +1,11 @@
 Notes
-This is a compilation of the Environmental Protection Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 April 2008 of the Environmental Protection Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Environmental Protection Act 1986 | 87 of 1986 | 10 Dec 1986 | 20 Feb 1987 (see s. 2 and Gazette 20 Feb 1987 p. 440)
+Environmental Protection Act 1986 | 87 of 1986 | 10 Dec 1986 | s. 1 and 2: 10 Dec 1986; Act other than s. 1 and 2: 20 Feb 1987 (see s. 2 and Gazette 20 Feb 1987 p. 440)
 Acts Amendment (Public Service) Act 1987 s. 32 | 113 of 1987 | 31 Dec 1987 | 16 Mar 1988 (see s. 2 and Gazette 16 Mar 1988 p. 813)
 Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
-Environmental Protection Amendment Act 1993 | 34 of 1993 | 16 Dec 1993 | 14 Jan 1994 (see s. 2 and Gazette 14 Jan 1994 p. 69)
+Environmental Protection Amendment Act 1993 | 34 of 1993 | 16 Dec 1993 | s. 1 and 2: 16 Dec 1993; Act other than s. 1 and 2: 14 Jan 1994 (see s. 2 and Gazette 14 Jan 1994 p. 69)
 Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
 Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
 Planning Legislation Amendment Act (No. 2) 1994 s. 46(1) and (6) | 84 of 1994 | 13 Jan 1995 | 1 Mar 1995 (see s. 2 and Gazette 21 Feb 1995 p. 567)
@@ -28,20 +28,21 @@ Hope Valley-Wattleup Redevelopment Act 2000 s. 37 | 77 of 2000 | 7 Dec 2000 | 1 
 Corporations (Consequential Amendments) Act 2001 Pt. 23 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Armadale Redevelopment Act 2001 s. 69 | 25 of 2001 | 26 Nov 2001 | 23 Mar 2002 (see s. 2 and Gazette 22 Mar 2002 p. 1651)
 Reprint of the Environmental Protection Act 1986 as at 11 Jan 2002 (includes amendments listed above except those in the Environmental Protection Amendment Act 1998 s. 5 and the Armadale Redevelopment Act 2001)
-Environmental Protection Amendment Act 2003 8-12 | 54 of 2003 | 20 Oct 2003 | Act, other than s. 37, 54(2), 55, 72(2) and (4), 75(3) and (4) and Pt. 9: 19 Nov 2003 (see s. 2 and Gazette 18 Nov 2003 p. 4723); s. 37, 54(2), 55, 72(2) and (4), 75(3) and (4) and Pt. 9: 8 Jul 2004 (see s. 2 and Gazette 30 Jun 2004 p. 2581)
+Environmental Protection Amendment Act 2003 8-12 | 54 of 2003 | 20 Oct 2003 | s. 1 and 2: 20 Oct 2003; Act other than s. 1, 2, 37, 54(2), 55, 72(2) and (4), 75(3) and (4) and Pt. 9: 19 Nov 2003 (see s. 2 and Gazette 18 Nov 2003 p. 4723); s. 37, 54(2), 55, 72(2) and (4), 75(3) and (4) and Pt. 9: 8 Jul 2004 (see s. 2 and Gazette 30 Jun 2004 p. 2581)
 Contaminated Sites Act 2003 s. 100 | 60 of 2003 (as amended by No. 40 of 2005 s. 13) | 7 Nov 2003 | 1 Dec 2006 (see s. 2 and Gazette 8 Aug 2006 p. 2899)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 5: The Environmental Protection Act 1986 as at 16 Sep 2005 (includes amendments listed above except those in the Contaminated Sites Act 2003)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | cl. 2(1), (2) and (4): 9 Jan 2008 (see s. 2 and Gazette 8 Jan 2008 p. 33)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(1), (2) and (4)) | 36 of 2007 | 21 Dec 2007 | 9 Jan 2008 (see s. 2(b) and Gazette 8 Jan 2008 p. 33)
 Water Resources Legislation Amendment Act 2007 s. 194 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 6: The Environmental Protection Act 1986 as at 11 Apr 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Waste Avoidance and Resource Recovery Act 2007 s. 100 (cl. 2(3) and (5)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
+Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3) and (5)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -99,13 +100,7 @@ but does not include clearing of a kind set out in Schedule 6 to the EP Act.
 (4) Section 70(3) to (11) and 74A of the EP Act apply in relation to a notice given under subsection (3) as if it were a vegetation conservation notice given under section 70(2)(b) of the EP Act and as if the reference to an offence in section 70(6) were a reference to an offence under an enactment mentioned in the definition of “unlawful clearing” in subsection (2).
 (5) Section 74A, Part VA and sections 89 and 103 of the EP Act apply in relation to a notice given under subsection (3) as if it were a vegetation conservation notice given under section 70(2)(b) of the EP Act.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 s. 100, which gives effect to Sch. 4 cl. 2(3) and (5) had not come into operation. They read as follows:
-“
-100.Consequential amendments
-Each Act specified in Schedule 4 is amended as set out in that Schedule.
-”.
-Schedule 4, cl. 2(3) and (5) read as follows:
+On the date as at which this reprint was prepared, the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) and (5) had not come into operation. They read as follows:
 “
 Schedule 4 — Amendments and repeals
 [s. 100]
@@ -114,3 +109,171 @@ Schedule 4 — Amendments and repeals
 (5) Schedule 2 item 33 is amended by inserting after “controlling the” —
 “ collection, ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+a first notice28(1)(c)(i), 32(1)(a)(i)
+a prevention notice73A(1)
+Account110A
+agreement to reserve51D(1)
+an environmental protection notice65(1)
+analysis3(1)
+analyst3(1)
+appeals committee3(1)
+Appeals Convenor3(1)
+applicant3(1)
+approved88(6)
+approved policy3(1)
+area permit51A, 51E(7)(c)
+assessed scheme3(1)
+assessment report44(1)
+authorisation50D(1), 68A(1), 86A, Sch. 2 cl. 2A
+authorised person3(1)
+Authority3(1)
+Authority member3(1)
+beneficial use3(1)
+bilateral agreement3(1)
+books3(1)
+CEO3(1)
+Chairman3(1)
+clearing3(1), 51A
+clearing injunction51S(2)
+clearing matter51O(1)
+clearing permit3(1)
+clearing principles51A
+closure notice3(1), 68A(2)
+Commissioner51D(1)
+committee of inquiry3(1)
+condition3(1)
+conduct affecting the environment50D(1)
+conservation areaSch. 5 cl. 2
+conservation covenant51D(1)
+contaminated3(1)
+contaminated sites auditor3(1)
+contravention51S(1)
+convicted99T(a)
+corporation51R(7), 55(3), 58(4)
+court51S(1)
+damage costs3A(3)
+decision51O(1)
+decision-making authority3(1)
+Department3(1)
+Deputy Chairman3(1)
+designated area57(5)
+designated person99H
+detrimental action111A(3)
+discharge3(1)
+draft policy3(1)
+driver3(1)
+ecosystem health condition3(1)
+emission3(1)
+environment3(1)
+environmental harm3(1), 3A(2)
+environmental protection notice3(1)
+environmental value3(1)
+environmentally sensitive area51A
+equipment3(1)
+establish51I(4)
+existing authorisation61(3)
+final approval3(1)
+financial assurance requirement86A
+fuel burning equipment3(1)
+implementation agreement or decision3(1)
+implementation conditions3(1)
+improper conduct51S(1)
+industrial plant3(1)
+infringement notice offence99H
+inspector3(1)
+interest51N(1)
+involvement in a contravention51S(1)
+levy110A
+licence3(1)
+licensee3(1)
+local planning scheme3(1)
+material environmental harm3(1), 3A(2)
+materials3(1)
+Minister (Water Resources)57(5)
+misbehaviourSch. 7 cl. 3(3)
+monetary benefits99Z(2)
+monitoring programme3(1)
+motor vehicle3(1)
+native vegetation3(1), 51A
+NEPM3(1)
+new occupier61(1)
+new owner51N(1)
+noise3(1)
+notice73B(1)
+occupier3(1), 51A
+owner3(1), 51A
+period of public review3(1)
+person3(1)
+planning instrument51O(1)
+plantation3(1)
+pollution3(1), 3A(1)
+practicable3(1)
+practicable means3(1)
+premises3(1), 61(1)
+prescribed premises3(1)
+prevention notice3(1)
+previous officeSch. 7 cl. 4(1)
+proponent3(1)
+proposal3(1)
+proposal under an assessed scheme3(1)
+protection3(1)
+public authority3(1)
+public place3(1)
+public review48C(7)
+purpose permit51A, 51E(8)(c)
+rare floraSch. 5 cl. 2
+recorded100(1a)
+referred proposal39B(1)
+region planning scheme3(1)
+Registrar of Deeds and Transfers66(5)
+Registrar of Titles66(5)
+regulations3(1)
+relevant day61(2)
+relevant NEPM72(5)
+relevant premises68A(1)
+repealed Act3(1)
+reserve3(1)
+responsible authority3(1)
+responsible Minister3(1)
+responsible person86A
+road3(1)
+scheme3(1)
+scheme Act3(1)
+section 39B declaration45A(1)
+sell3(1)
+serious environmental harm3(1), 3A(2)
+significant proposal37B(1)
+SLC Act51D(1)
+soil conservation notice51D(1)
+specified6(10), 51I(4), 62A(4), 65(8), 68A(1), 70(1), 71(6), Sch. 2 cl. 1
+strategic proposal37B, 39B(3)(a)
+subdivision3(2a)
+subsidiary51R(7), 55(3), 58(4)
+the condition48H(1)
+the confidential information40(5)
+the delegate18(1), 19(1), 20(1)
+the draft policy31(a)(i)
+the principal offence99S
+the relevant ActSch. 4 cl. 23
+the relevant premises55(1)
+threatened ecological communitySch. 5 cl. 2
+threshold amount3A(3)
+Tier 1 offence3(1)
+Tier 2 offence3(1)
+Tier 3 offence3(1)
+trade3(1)
+unlawful clearing70(1)
+unreasonable emission49(1)
+unreasonable noise3(1)
+vegetation conservation notice3(1), 70(2)
+vehicle3(1)
+vessel3(1)
+waste3(1)
+watercourseSch. 5 cl. 2
+waters3(1)
+Western Australian Planning Commission3(1)
+wetlandSch. 5 cl. 2
+works approval3(1)
