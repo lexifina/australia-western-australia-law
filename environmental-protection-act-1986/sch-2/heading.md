@@ -1,6 +1,6 @@
 ## Schedule 2
 [Section 123(2)]
-Matters in respect of which regulations may be made
+## Matters in respect of which regulations may be made
 1.In this Schedule —
 “specified” means specified in regulations made under section 123.
 2.The fees to apply under this Act, including, without limiting sections 43, 45 and 45A of the Interpretation Act 1984, the following —
