@@ -7,6 +7,6 @@ Planning of gas distribution systems operating at pressures not exceeding 7 bar 
 Recommendations on transmission and distribution practice, Distribution mains (IGE/TD/3) published by the Institution of Gas Engineers
 Venting of natural gas (IGE/SR/23) published by the Institution of Gas Engineers
 AS/NZS 1020 The control of undesirable static electricity
-AS 2832.1 —1989 Guide to the cathodic protection of metals
+AS 2832.1 — 1989 Guide to the cathodic protection of metals
 AG 503 — 1976 Code of Recommended Practice for Corrosion Control in Buried and Submerged Steel Piping Systems
 [Schedule 1 amended in Gazette 3 August 2001 p. 3969.]
