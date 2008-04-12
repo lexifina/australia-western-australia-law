@@ -12,3 +12,4 @@ Weapons Amendment Regulations 2004 | 1 Oct 2004 p. 4284 | 1 Oct 2004
 Weapons Amendment Regulations (No. 2) 2006 | 12 Sep 2006 p. 3665-6 | 12 Sep 2006
 Weapons Amendment Regulations 2007 | 11 Sep 2007 p. 4613 | r. 1 and 2: 11 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Sep 2007 (see r. 2(b))
 Weapons Amendment Regulations 2008 | 29 Feb 2008 p. 692-3 | r. 1 and 2: 29 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b))
+Weapons Amendment Regulations (No. 2) 2008 | 11 Apr 2008 p. 1392 | r. 1 and 2: 11 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Apr 2008 (see r. 2(b))

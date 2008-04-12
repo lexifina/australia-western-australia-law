@@ -11,6 +11,7 @@ Item | Article | Description
 8. | Halberd | An article (other than a spear) — (a)consisting of a stick or pole with a blade at the end; and (b)made or modified to be used to injure or disable a person or as a martial arts weapon, (e.g. the martial arts weapon known as the naginata).
 9. | Hand or foot claws | An article consisting of claws that are made or modified to be attached to or worn on the hands or feet (e.g. the martial arts weapons known as the ninja climbing claws, ninja hand claws and ninja foot claws).
 10. | Imitation firearm | An article, not being an article that is clearly a toy, that has the appearance of being a firearm but is not capable of discharging a missile.
+10AA. | Light pointer | An article made or modified to be used to emit light so as to be used as a pointing device (including a laser pointer).
 10A. | Machete | A broad, heavy chopping knife (e.g. the single edged, cutlass-like knife traditionally used as both a weapon and an implement in Latin American countries, also known as a “matchet” or a “panga”).
 11. | Metal whip | An article — (a)consisting of or incorporating a chain or a combination of a chain and metal pieces or rods; and (b)made or modified to be used as a whip, (e.g. the martial arts weapons known as the Chinese whip, whip spear, 7 or 9 piece iron chain, bian tzu chiang and lien tzu chiang).
 12. | Pressure point weapon | An article made or modified to be used to injure or disable a person by application to the pressure points of the human body and includes the martial arts weapon known as the kubotan.
@@ -24,4 +25,4 @@ Item | Article | Description
 20. | Throwing blade or knife | A blade or knife made or modified to be thrown and includes an article consisting of a blade attached to a cord, rope or chain so as to enable the blade to be thrown and retrieved (e.g. the martial arts weapon known as the shoge, ninja kyokeysu shoge or kyotetsu shoge).
 21. | Throwing star | A sharpened, star-shaped article made or modified to be thrown (e.g. the martial arts weapon known as the shuriken or shaken) and includes a throwing star that is attached to a belt buckle.
 22. | Weighted chain or cord weapon | An article — (a)consisting of or incorporating a chain or cord made of any material and weighted at both ends; and (b)made or modified to be used to injure or disable a person or as a martial arts weapon, (e.g. the martial arts weapons known as the kusari fundo, manrikigusari and surujin).
-[Schedule 2 amended in Gazette 1 Oct 2004 p. 4284.]
+[Schedule 2 amended in Gazette 1 Oct 2004 p. 4284; 11 Apr 2008 p. 1392.]
