@@ -55,8 +55,9 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 5 | 28 of
 Companies (Co-operative) (Fees) Regulations 2007 published in Gazette 15 Jun 2007 p. 2767-70 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 21 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 This refers to the Commonwealth Bankruptcy Act 1924 which was replaced by the Commonwealth Bankruptcy Act 1966.
 The Companies Act 1893 was repealed by the Companies Act 1943, which was repealed by Companies Act 1961, s. 4 and 382(2), except in relation to Co-operative Companies, in respect of which it may now be cited as the Companies (Co-operative) Act 1943.
 Repealed by the Public Trustee Act 1941 s. 3.
@@ -123,4 +124,21 @@ In this Division —
 “commencement” means the time at which this Division comes into operation;
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 3, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 3 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+3.Companies (Co-operative) Act 1943
+(1) Section 127(3)(c) is amended by deleting “stamp duty” and inserting instead —
+“ duty under the Duties Act 2008 ”.
+(2) Section 433 is amended by deleting “instrument” and inserting instead —
+“ transaction ”.
+(3) The Tenth Schedule item 19 is amended by deleting “Stamp Duties Office” and inserting instead —
+“ Office of State Revenue ”.
 ”.
