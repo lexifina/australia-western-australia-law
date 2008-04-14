@@ -30,6 +30,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 28 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Under the Public Sector Management Act 1994 s. 112(2), a reference to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Housing Amendment Act 1983 s. 4(2) is a transitional provision that is of no further effect.
@@ -75,4 +76,19 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 (1) The amendments in this section are to the Housing Act 1980.
 (2) Section 52(1) is amended in the definition of “lending institution” by deleting paragraph (a).
 (3) Section 55(5) is amended by deleting “or on termination of the lending institution in the case of a housing society;”.
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 17, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 17 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+17.Housing Act 1980
+(1) Section 20(3) is amended by deleting “stamp duty” and inserting instead —
+“ duty under the Duties Act 2008 ”.
+(2) Section 72 is amended by deleting “stamp duties” and inserting instead —
+“ duty under the Duties Act 2008 ”.
 ”.
