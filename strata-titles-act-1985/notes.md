@@ -38,12 +38,13 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Reprint 5: The Strata Titles Act 1985 as at 20 May 2005 (includes amendments listed above)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Land Information Authority Act 2006 s. 160 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Courts Legislation Amendment and Repeal Act 2004 s. 141 and 142 | 59 of 2004 | 23 Nov 2004 | s. 141 (the amendments to s. 116A(4)) and s. 142 cl. 48: to be proclaimed (see s. 2)
 Criminal Law and Evidence Amendment Act 2008 s. 77(12), (13) and 78(6) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 “
 (5) A plan registered under the principal Act before the provision inserted by subsection (3) came into operation is declared to be, and to have always been, valid if it would have been valid at the time of registration had that provision been then in operation.
@@ -249,13 +250,13 @@ on the commencement day the application is to be taken to be an application by a
 (c) any person who was given notice under the ST Act section 105(6) (as in force immediately before the commencement day) of the time and place for the determination of the appeal; and
 (d) any person who, by the order, is required to do or to refrain from doing a specified act.
 ”.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 had not come into operation. It reads as follows:
 “
 67.Strata Titles Act 1985 amended
 Section 73(1)(g)(i) of the Strata Titles Act 1985 is amended by deleting “, and in particular his rights, if any, under the Superannuation and Family Benefits Act 1938.”.
 ”.
 The section that it seeks to amend has been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125.
-On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 141 (the amendments to s. 116A(4)) and 142, which give effect to Sch. 1 and 2, had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 141 (the amendments to s. 116A(4)) and 142, which give effect to Sch. 1 and 2, had not come into operation. They read as follows:
 “
 141.Various Acts amended
 Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
@@ -287,4 +288,23 @@ On the date as at which this compilation was prepared, the Criminal Law and Evid
 78.Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 amended
 (1) The amendments in this section are to the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004.
 (6) Schedule 1 clause 31 is repealed.
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 36, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 36 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+36.Strata Titles Act 1985
+(1) Section 21V(3)(b) is deleted and the following paragraph is inserted instead —
+“
+(b) a transaction referred to in the Duties Act 2008 section 112(6).
+”.
+(2) Section 31H(3)(b) is deleted and the following paragraph is inserted instead —
+“
+(b) a transaction referred to in the Duties Act 2008 section 112(6).
+”.
 ”.
