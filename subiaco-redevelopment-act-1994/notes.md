@@ -19,6 +19,10 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Reprint 2: The Subiaco Redevelopment Act 1994 as at 2 Jun 2006 (includes amendments listed above)
 Subiaco Redevelopment (Subtracted Area - Stage 2) Regulations 2006 r. 3 published in Gazette 17 Nov 2006 p. 4764-8 | 31 Jan 2007 (see r. 3(2) and Gazette 30 Jan 2007 p. 218)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Under section 112(1) of the Public Sector Management Act 1994 references to the Public Service Act 1978 may be construed as references to the Public Sector Management Act 1994 (No. 31 of 1994).
 The Planning Legislation Amendment Act 1996 s. 39(2), (3) and (4) read as follows:
 “
@@ -31,3 +35,15 @@ The Statutes (Repeals and Minor Amendments) Act 1997 s. 116(2) reads as follows:
 (2) The person appointed and holding office under section 7(1)(c) as a member of the Subiaco Redevelopment Authority immediately before the commencement of this section continues to hold office after that commencement as if appointed as a member of the Subiaco Redevelopment Authority under section 7(1)(a).
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 37, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 37 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+37.Subiaco Redevelopment Act 1994
+Section 19(1) is amended by deleting “, stamp duty”.
+”.
