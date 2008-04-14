@@ -8,6 +8,7 @@ Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Offshore Minerals Act 2003 s. 3, Pt. 1.2-1.4, Ch. 2-5 and Sch. 1 and 2 | 10 of 2003 | 17 Apr 2003 | To be proclaimed (see s. 2)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, the Offshore Minerals Act 2003 s. 3, Pt. 1.2-1.4, Ch. 2-5 and Sch. 1 and 2 (as amended by the Criminal Code Amendment Act 2004 s. 58) had not come into operation. They read as follows:
 “
 ### 3. Commonwealth-State agreement (the Offshore Constitutional Settlement)
@@ -3872,4 +3873,17 @@ The Minister must, as soon as is practicable after the commencement, establish a
 (a) to affect, in a manner prejudicial to any person (other than the State) the rights of that person existing before the day of its publication; or
 (b) to impose liabilities on any person (other than the State) in respect of anything done or omitted to be done before the day of publication.
 (5) The Minister must cause an order under this clause to be laid before each House of Parliament within 6 sitting days of that House after its publication in the Gazette.
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 25, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 25 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+25.Offshore Minerals Act 2003
+Section 352A is amended by deleting “Stamp Act 1921” and inserting instead —
+“ Duties Act 2008 ”.
 ”.
