@@ -18,6 +18,10 @@ Water Legislation Amendment (Competition Policy) Act 2005 s. 7(4), 28(2), 60(2) 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 2: The Water Services Licensing Act 1995 as at 4 Aug 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Under the Land Administration Act 1997 s. 281(3), references to the Land Act 1933 may be construed as references to the Land Administration Act 1997.
 Now known as the Water Services Licensing Act 1995; short title changed (see note under s. 1).
 The Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996 Pt. 6 reads as follows:
@@ -87,3 +91,17 @@ The operation of any provision of this Schedule is not to be regarded —
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment to s. 57 in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1302 is not included because the section it seeks to amend was repealed by the Economic Regulation Authority Act 2003 s. 62.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 40, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 40 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+40.Water Services Licensing Act 1995
+(1) Section 46E(1) is repealed.
+(2) Section 46E(2) is amended by deleting “Stamp duty is not payable” and inserting instead —
+“ Duty is not chargeable under the Duties Act 2008 ”.
+”.
