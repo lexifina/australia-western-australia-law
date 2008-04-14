@@ -47,6 +47,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended
 Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 | 11 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2)
 Petroleum Amendment Act 2007 s. 99 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under s. 7(4)(e) of the Reprints Act 1984. Schedule 9.2 cl. 4 reads as follows:
 “
 4.Parts II to VII repealed
@@ -360,241 +361,18 @@ On the date as at which this compilation was prepared, the Criminal Law and Evid
 (1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
 (13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
-Defined Terms
-[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-75% majority1.4
-abandoned vehicle wreck3.40A(5)
-absent vote4.67(a)
-absolute majority1.4
-absolute majority required1.9
-acquire3.59(1)
-additional purpose6.8(1a)
-address5.74(1)
-Advisory Board1.4
-affected electorsSch. 2.1 cl. 1, Sch. 2.2 cl. 1
-affected local governmentSch. 2.1 cl. 1
-affected person9.2
-alleged offender3.38
-amending ActSch. 9.3 cl. 14A(1)
-amount misapplied8.35(3)
-an authorised person8.3(6)(a) and (b)
-annual budget6.1
-annual return5.74(1)
-approved auditor7.1
-arrangement5.49(1)
-audit committee7.1
-auditor1.4
-authorisation9.2
-authorised employee9.31
-authorised land officer9.69(1)
-authorised person8.1, 8.35(3), 9.13(1), 9.15
-Authority9.69(1)
-breach5.102A
-budget deficiency6.1
-campaign period5.123(3)
-candidate A4.81(4), Sch. 2.3 cl. 12(4)
-candidate B4.81(4), Sch. 2.3 cl. 12(4)
-CEO1.4
-certified copy9.31
-close of enrolments4.39(1)
-close of nominations4.49(a)
-commencement daySch. 9.3 cl. 1
-commissioner1.4
-committee5.1
-committee meeting5.98(7)
-complaints officer5.102A
-conditions5.44(5)
-continued transfer valueSch. 4.1 cl. 12(1)(b)
-continuing authoritySch. 9.3 cl. 1
-continuing candidateSch. 4.1 cl. 1(1)
-contravention that can lead to impounding3.38
-corporation5.74(1)
-council1.4
-councillor1.4
-councillor mayor or president1.4
-court3.26(5)
-Crown lands1.4
-Crown lease1.4
-Crown lessee1.4
-debt5.85(3)
-deceptive material4.88(4)
-decision5.125(2), 9.2
-Department1.4
-Departmental CEO1.4
-designated employee5.74(1), Sch. 9.3 cl. 1
-details4.52(3)
-detriment4.85(4)
-differential general rate6.1
-dispose3.58(1), 3.59(1)
-disposition of real property5.86(3)
-disqualified2.27(1)
-disqualified person7.1, 7.4(2)
-district1.4
-disused materialSch. 3.1 it. 5A(2)
-early vote4.67(b)
-election4.1, Sch. 2.3 cl. 10
-election day4.1
-election notice4.1, 4.64(2)
-election year1.4
-elector1.4
-elector mayor or president1.4
-Electoral Commissioner1.4
-electoral conduct4.85(4)
-Electoral Division4.1A(6)
-electoral material4.87(3)
-electoral officer4.1
-electoral requirements1.4, 4.1
-electoral roll4.1
-electors5.26
-eligible body5.49(1)
-employee1.4, 5.48(1), 5.70(1), 7.10(2)
-entitled person6.67(3)
-establishment agreement3.61(2)
-existing rollSch. 9.3 cl. 12(1)
-extent5.59
-extraordinary election1.4, 4.8(3)
-extraordinary vacancySch. 2.3 cl. 1 and 6
-financial year1.4
-first preference voteSch. 4.1 cl. 1(1)
-former districtSch. 9.3 cl. 1
-former municipalitySch. 9.3 cl. 1
-former provisions2.22(3), Sch. 9.3 cl. 1
-former section 3003.53(1)
-former valuationSch. 6.1 cl. 1(2)
-general funds6.21(4)
-general rate6.1
-gift5.82(4)
-goods3.38
-Government agreement6.25
-gross rental value6.25
-inaugural election1.4, 4.2(2)
-income5.80(4)
-inquiry8.1
-Inquiry Panel1.4
-interest5.60, 5.79(3), 5.84(2)
-interim valuation6.25
-invalidity complaint4.80(2), Sch. 2.3 cl. 11(2)
-judicial proceedings9.69(1)
-land transaction3.59(1)
-lease6.60(1)
-lessee6.60(1)
-lessor6.60(1)
-local government1.4, 9.15
-local government property1.4
-local public notice1.4
-long service benefit5.48(1)
-major land transaction3.59(1)
-major trading undertaking3.59(1)
-making3.12(8)
-meeting minutes9.37(2)
-member1.4, 5.59, Sch. 2.5 cl. 1, Sch. 5.1 cl. 1
-member of a parliament2.20(2)
-metropolitan area1.4
-minimum payment6.1
-minor breach5.102A
-municipal fund1.4
-new ordinary election day provisionsSch. 9.3 cl. 14A(1)
-new valuationSch. 6.1 cl. 1(2)
-nomination place4.47(2)(b)
-non-perishable goods3.38
-noticeSch. 2.1 cl. 1
-notice recipient3.26(2)
-notifiable gift5.62(2)
-occupier1.4
-official plan9.48(2)
-officially certified9.48(2)
-one office electionSch. 4.1 cl. 1(1)
-ordinary election1.4, 4.4(2)
-ordinary elections day1.4
-original valuationsSch. 6.1 cl. 2(2)
-other person5.9(1)
-otherwise unvested facility3.53(1)
-owner1.4, 9.13(1), 9.15
-parkSch. 9.1 cl. 1(1)
-parking facilitiesSch. 9.1 cl. 1(1)
-parking regionSch. 9.1 cl. 1(1)
-participants3.61(1)
-party5.102A
-person having an interest3.51(1)
-political party5.83(4)
-polling place4.1
-postal election4.61(1)
-power of sale6.68(1)
-power to borrow6.20(2)
-power to lease6.65
-prescribed1.4, 9.13(1), 9.15
-prescribed financial market5.84(2)
-primary return5.74(1)
-primary standards panel5.102A, 5.122(1)
-primary voteSch. 4.2 cl. 8
-print4.87(3), 4.88(4)
-private landSch. 9.1 cl. 7(1)
-private thoroughfareSch. 3.1 it. 14(2), Sch. 9.1 cl. 7(1)
-proceedings9.29(1)
-property3.58(1)
-proposalSch. 2.1 cl. 1
-public facility9.46(4)
-publish4.88(4), 5.90(2)
-qualified person7.1
-quotaSch. 4.1 cl. 1(1)
-rate9.40(3)
-rate record6.25
-recurrent breach5.102A
-regional purpose3.62(2)
-registered company auditor7.1
-regulations7.1
-relative5.74(1)
-relevant district2.45(2)
-relevant period4.88(4)
-relevant person5.59, 5.74(1)
-return5.74(1)
-return period5.74(1)
-reviewSch. 2.2 cl. 1
-reward4.85(4)
-rules of conduct5.102A
-senior employeeSch. 9.3 cl. 1
-serious breach5.102A
-serious local government offence2.22(3)
-service charge6.1, 6.42, 6.54, 6.63
-special majority required1.10
-specified3.38
-specified area rate6.1
-standSch. 9.1 cl. 1(1)
-standards panel5.102A
-start day5.74(1)
-Statewide public notice1.4
-statutory provision administered by the local government9.28(2)
-submissionSch. 2.2 cl. 1
-surplus fractionSch. 4.1 cl. 12(1)(a)
-surplus votesSch. 4.1 cl. 11(1)
-suspended order5.117(2)
-the authorised person8.3(6)(a)
-the districtsSch. 2.1 cl. 8(1)
-the election4.36(2)
-the electorate4.29(1), 4.30(1), Sch. 9.3 cl. 12(2)(a)
-the former sectionSch. 9.3 cl. 38(1)
-the officeSch. 2.3 cl. 1 and 6
-the proposal land5.60B(2)
-this Act4.1
-this Part4.1
-thoroughfare1.4
-tied candidatesSch. 4.1 cl. 8, Sch. 4.1 cl. 23
-total voteSch. 4.1 cl. 1(1)
-trading undertaking3.59(1)
-transfer valueSch. 4.1 cl. 11(1)(a)
-travel5.83(4)
-trust fund6.1
-unimproved value6.25
-unsightlySch. 3.1 it. 5(2)
-vacant land6.25
-value5.62(2)
-vehicle3.38
-vehicle offence9.13(1)
-voting in person election4.61(1)
-voting papers4.71(2)
-WALGA1.4
-ward1.4
-WCIM Act5.49(1)
-WorkCover WA5.49(1)
-By Authority: JOHN A. STRIJK, Government Printer
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 21, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 21 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+21.Local Government Act 1995
+Schedule 6.3 clause 8(5) is repealed and the following subclause is inserted instead —
+“
+(5) Duty under the Duties Act 2008 is not chargeable on the transfer or conveyance.
+”.
+”.
