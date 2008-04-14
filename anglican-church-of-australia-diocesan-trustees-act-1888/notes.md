@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Anglican Church of Australia (Diocesan Trustees) Act 1888 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Anglican Church of Australia (Diocesan Trustees) Act 1888 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Untitled | 52 Vict. No. 2 (1888) | 21 Nov 1888 | 21 Nov 1888
@@ -14,6 +14,10 @@ Reprint of the Anglican Church of Australia (Diocesan Trustees) Act 1888 as at 8
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Reprint of the Anglican Church of Australia (Diocesan Trustees) Act 1888 as at 3 May 2002 (includes amendments listed above)
 Taxation Administration (Consequential Provisions) Act 2002 s. 8 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Under No. 4 of 1960 s. 5 a reference to “the Church of England in Western Australia” is to be construed as a reference to the Church of England in Australia so far as it is in the State. The name of the “Church of England in Australia” was changed to the “Anglican Church of Australia” by No. 121 of 1976 s. 7. This reference to the original name has not been changed due to its context.
 Formerly referred to “The Diocesan Trustees of the Church of England in Western Australia” the name of which was changed to “The Perth Diocesan Trustees” by No. 34 of 1918 s. 11. Reference changed under the Reprints Act 1984 s. 7(3)(h).
 Formerly referred to the “branch of the Church of England in Western Australia”. Under No. 4 of 1960 s. 5, that reference is to be read and construed as if it were a reference to the “Church of England in Australia so far as it is in the State”. Under No. 121 of 1976 s. 4 a reference to the “Church of England in Australia” is to be construed as a reference to the “Anglican Church of Australia”.
@@ -131,4 +135,17 @@ cannot be made more than 15 months after the licence was granted or transferred.
 49.Payment of duty by returns (Stamp Act 1921, s. 112V)
 (1) A permission granted under section 112V of the old Stamp Act and in force immediately before the commencement day continues in force on and after that day as a special tax arrangement under the Taxation Administration Act 2003.
 (2) Any requirement that applied, immediately before the commencement day, to a person to whom a permission continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the permission was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 1, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 1 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+1.Anglican Church of Australia (Diocesan Trustees) Act 1888
+Section 5A(5)(a) is amended by deleting “Stamp Act 1921” and inserting instead —
+“ Duties Act 2008 ”.
 ”.
