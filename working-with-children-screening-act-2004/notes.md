@@ -10,6 +10,7 @@ Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Criminal Law and Evidence Amendment Act 2008 s. 74 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Schedule 1, had not come into operation. It reads as follows:
 “
 65.Consequential amendments
@@ -65,5 +66,17 @@ On the date as at which this compilation was prepared, the Criminal Law and Evid
 (2) Schedule 1 is amended in the item relating to The Criminal Code s. 321A by deleting the description of offence and inserting instead —
 “
 Persistent sexual conduct with child under 16 (if the offence includes a sexual act on at least one occasion when the child against whom the offence is committed is under 13)
+”.
+”.
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 35 had not come into operation. It reads as follows:
+“
+35.Working with Children (Criminal Record Checking) Act 2004 amended
+(1) The amendments in this section are to the Working with Children (Criminal Record Checking) Act 2004.
+(2) Schedule 2 is amended by deleting the entry relating to the Prostitution Act 2000 and inserting instead —
+“
+Sexual Services Act 2000
+s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
+s. 17 | Obtaining payment for commercial sexual act by a child
+s. 18 | Agreement for a child to act as a sex worker
 ”.
 ”.
