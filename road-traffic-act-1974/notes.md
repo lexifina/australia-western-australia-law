@@ -138,6 +138,7 @@ Road Traffic Amendment Act 2006 Pt. 2 (other than s. 19 and 27), 3 and 4 Div. 3 
 Road Traffic Amendment Act (No. 2) 2007 Pt.2 (s. 17, 18 and 25 and Div. 4 and 5) | 39 of 2007 | 21 Dec 2007 | Pt. 2 s. 17, 18 & 25 and Pt. 2 Div. 4 & 5 (other than s. 38): to be proclaimed (see s. 2(d)-(h)); Pt. 2 s. 38: operative when the rest of Pt. 2 Div. 5 comes into operation (see s. 2(i))
 Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 s. 131 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Repealed by the Interpretation Act 1984.
 The Traffic Act Amendment Act (No. 2) 1968 came into operation on 20 December 1968 (see s. 2 and Gazette 19 December 1968 p. 3885).
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
@@ -1218,4 +1219,31 @@ On the date as at which this compilation was prepared, the Acts Amendment (Justi
 (1) The amendments in this section are to the Road Traffic Act 1974.
 (2) Section 100(1) is amended by deleting “section 72” and inserting instead —
 “ section 78 ”.
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 33, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 33 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+33.Road Traffic Act 1974
+(1) Section 17(1)(b)(ii) is amended by deleting “stamp duty, and any penalty tax, payable under the Stamp Act 1921” and inserting instead —
+“
+duty, and any penalty tax, payable under the Duties Act 2008
+”.
+(2) Section 17(2)(c) is amended by deleting “Stamp Act 1921 relating to the issue or transfer of motor vehicles;” and inserting instead —
+“
+Duties Act 2008 relating to the grant or transfer of licences for vehicles;
+”.
+(3) Section 24(3)(b) is amended by deleting “the Stamp Act 1921” and inserting instead —
+“
+a taxation Act, as defined in the Taxation Administration Act 2003 Glossary,
+”.
+(4) Section 102(2a)(b) is amended by deleting “the Stamp Act 1921” and inserting instead —
+“
+a taxation Act, as defined in the Taxation Administration Act 2003 Glossary,
+”.
 ”.
