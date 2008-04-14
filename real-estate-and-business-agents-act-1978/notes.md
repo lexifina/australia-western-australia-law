@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 August 2007 of the Real Estate and Business Agents Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Real Estate and Business Agents Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Real Estate and Business Agents Act 1978 | 72 of 1978 | 20 Oct 1978 | Act other than s. 5, 54, 55, 57-100, 102-131 and 135: 1 Sep 1979 (see s. 2(1) and Gazette 31 Aug 1979 p. 2601); s. 5: 1 Dec 1979 (see s. 2(2) and Gazette 31 Aug 1979 p. 2615); s. 54, 55, 57-100, 102-131 and 135: 1 Dec 1979 (see s. 2(1) and Gazette 31 Aug 1979 p. 2601)
@@ -44,10 +44,11 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 19 | 28 o
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 8 | 69 of 2006 | 13 Dec 2006 | 25 Jul 2007 (see s. 2 and Gazette 24 Jul 2007 p. 3657)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 6: The Real Estate and Business Agents Act 1978 as at 24 Aug 2007 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 29 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 The provision in this Act repealing the Land Agents Act 1921 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The “appointed day” was 1 December 1979. See Gazette 31 August 1979 p. 2615.
 The Land Agents Act 1921.
@@ -83,7 +84,7 @@ In this Part —
 is taken not to be valid, and to never have been valid.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 29 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 29 had not come into operation. It reads as follows:
 “
 29.Real Estate and Business Agents Act 1978 amended
 (1) The amendments in this section are to the Real Estate and Business Agents Act 1978.
@@ -95,4 +96,19 @@ On the date as at which this reprint was prepared, the Housing Societies Repeal 
 (a) after paragraph (b) by inserting —
 “ and ”;
 (b) by deleting paragraph (e) and “and” after it.
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 32, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 32 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+32.Real Estate and Business Agents Act 1978
+Section 131A(1) is amended in the definition of “incidental expenses” by deleting paragraph (a) and inserting instead —
+“
+(a)duty chargeable under the Duties Act 2008;
+”.
 ”.
