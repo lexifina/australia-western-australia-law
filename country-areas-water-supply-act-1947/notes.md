@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 March 2008 of the Country Areas Water Supply Act 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Country Areas Water Supply Act 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Country Areas Water Supply Act 1947 | 62 of 1947 (11 and 12 Geo. VI No. 62) | 10 Jan 1948 | 1 Jan 1949 (see s. 1 and Gazette 24 Dec 1948 p. 3038-9)
@@ -28,7 +28,7 @@ Country Areas Water Supply Amendment Act 1981 | 97 of 1981 | 4 Dec 1981 | 4 Dec 
 Acts Amendment (Country Water and Sewerage) Act 1982 Pt. II | 14 of 1982 | 14 May 1982 | 11 Jun 1982 (see s. 2 and Gazette 11 Jun 1982 p. 1911)
 Country Areas Water Supply Amendment Act 1984 | 41 of 1984 | 20 Jun 1984 | Act other than s. 13, 15, 16 and 18: 20 Jun 1984 (see s. 2(1)); s. 13 and 18: 18 Jul 1984 (see s. 2(2)); s. 15 and 16: repealed by No. 25 of 1985 s. 156
 Acts Amendment and Repeal (Water Authorities) Act 1985 Pt. VI | 25 of 1985 | 6 May 1985 | 1 Jul 1985 (see s. 2 and Gazette 7 Jun 1985 p. 1931)
-Acts Amendment (Water Authorities) Act 1985 Pt. V | 110 of 1985 (as amended by No. 74 of 2003 s. 24) | 17 Dec 1985 | Part other than s. 43, 44, 59(b), 63(b), 65 and 68(a): 14 Mar 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726); s. 59(b), 63(b), and 65: 1 Jul 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726); s. 44: 14 Jul 1987 (see s. 2 and Gazette 14 Jul 1987 p. 2647); s. 43: 1 Feb 1990 (see s. 2 and Gazette 5 Jan 1990 p. 38); s. 68(a) repealed by No. 74 of 2003 s. 24
+Acts Amendment (Water Authorities) Act 1985 Pt. V | 110 of 1985 (as amended by No. 74 of 2003 s. 24) | 17 Dec 1985 | Part V other than s. 43, 44, 59(b), 63(b), 65 and 68(a): 14 Mar 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726); s. 59(b), 63(b), and 65: 1 Jul 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726); s. 44: 14 Jul 1987 (see s. 2 and Gazette 14 Jul 1987 p. 2647); s. 43: 1 Feb 1990 (see s. 2 and Gazette 5 Jan 1990 p. 38); s. 68(a) repealed by No. 74 of 2003 s. 24
 Acts Amendment (Water Authority Rates and Charges) Act 1987 Pt. IV | 24 of 1987 | 25 Jun 1987 | 14 Jul 1987 (see s. 2 and Gazette 14 Jul 1987 p. 2647)
 Country Areas Water Supply (Controlled Land) Notice 1990 published in Gazette 14 Dec 1990 p. 6181 | 14 Dec 1990 (see cl. 2)
 Country Areas Water Supply (Controlled Land) Notice 1991 published in Gazette 19 Jul 1991 p. 3692 | 19 Jul 1991 (see cl. 2)
@@ -57,10 +57,11 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 s. 452(1) | 28 of 20
 Land Information Authority Act 2006 s. 129 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Water Resources Legislation Amendment Act 2007 Pt. 2 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 8: The Country Areas Water Supply Act 1947 as at 14 Mar 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Formerly referred to the Water Authority Act 1984 the short title of which was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -85,58 +86,22 @@ The State Administrative Tribunal Regulations 2004 r. 43 reads as follows:
 (4) If a notice has been given under the CWS Act section 58(7) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
 ”.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 had not come into operation. It reads as follows:
 “
 87.Country Areas Water Supply Act 1947 amended
 (1) The amendments in this section are to the Country Areas Water Supply Act 1947.
 (2) Section 12C(1)(c) is amended by deleting “the Agriculture and Related Resources Protection Act 1976” and inserting instead —
 “ the Biosecurity and Agriculture Management Act 2007 ”.
 ”.
-Defined Terms
-[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-Authority37(1)
-by-laws5(1)
-catchment area5(1)
-Authority37(1)
-CEO5(1)
-controlled land12AA
-Corporation5(1)
-country water area5(1)
-Authority37(1)
-Department5(1)
-district5(1)
-farm land5(1)
-Fire Brigades Act37(1)
-fire district37(1)
-fire hydrant37(1)
-Authority37(1)
-former authority5(1)
-former Authority5(1)
-Authority37(1)
-former Commission5(1)
-former Minister5(1)
-Goldfields Water Supply Act5(1)
-holding5(1)
-metropolitan area5(1)
-Authority37(1)
-officer5(1)
-old section 85(1) notice83(4)
-old section 90 notice88A(4)
-order45(5)
-prescribed5(1)
-proclaimed day37(1)
-Registrar of Deeds5(1)
-re-instatement37(1)
-the former Department5(1)
-the land in question12AA
-the subject land12AA
-to clear12AA
-townsite5(1)
-water board5(1)
-Water Boards Act5(1)
-water reserve5(1)
-Water Supply Act5(1)
-water supply charge5(1)
-water works5(1)
-watercourse5(1)
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 4, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 4 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+4.Country Areas Water Supply Act 1947
+Section 102(4) is amended by deleting “stamp”.
+”.
