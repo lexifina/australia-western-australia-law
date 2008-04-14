@@ -24,6 +24,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Credit Act 1984 s. 91(3) | 99 of 1984 | 27 Dec 1984 | To be proclaimed (see s. 2)
 Housing Societies Repeal Act 2005 s. 24 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Repealed by the Strata Titles Act 1985.
 At the date as at which this compilation was prepared, the Credit Act 1984 s. 91(3) had not come into operation. It reads as follows:
 “
@@ -87,4 +88,20 @@ In this Division —
 “commencement” means the time at which this Division comes into operation;
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 6, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 6 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+6.Credit Act 1984
+(1) Section 59(1)(g) is deleted.
+(2) Section 70(1)(d)(v) is amended by deleting “stamp duty and”.
+(3) Section 71(3) is amended by deleting paragraph (a) and “and” after it.
+(4) Section 102(3)(b) is amended by deleting subparagraph (i) and “and” after it.
+(5) Section 166 is repealed.
 ”.
