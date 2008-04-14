@@ -9,6 +9,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law and Evidence Amendment Act 2008 s. 72 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Prostitution Amendment Act 2008 s. 34 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 72 had not come into operation. It reads as follows:
 “
 72.Western Australian College of Teaching Act 2004 amended
@@ -30,5 +31,26 @@ s. 187 | Facilitating sexual offences against children outside Western Australia
 s. 202 | Obscene acts in public
 s. 203 | Indecent acts in public
 s. 204 | Indecent act with intent to offend
+”.
+”.
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 34 had not come into operation. It reads as follows:
+“
+34.Western Australian College of Teaching Act 2004 amended
+(1) The amendments in this section are to the Western Australian College of Teaching Act 2004.
+(2) Schedule 2 is amended as follows:
+(a) by deleting the entry relating to section 191 of The Criminal Code;
+(b) by deleting “Prostitution Act 2000” and inserting instead —
+“ Sexual Services Act 2000 ”;
+(c) by deleting “prostitution industry” and inserting instead —
+“ sexual service business ”;
+(d) by deleting “prostitute” in each place where it occurs and inserting instead —
+“ sex worker ”;
+(e) by deleting the entries relating to sections 17, 18, 20 and 21 of the Prostitution Act 2000 and inserting instead —
+“
+s. 17 | Obtaining payment for commercial sexual act by a child
+s. 18 | Agreement for child to act as a sex worker
+s. 20 | Commercial sexual act at place where child present
+s. 21 | Allowing child to be at place involving commercial sexual act or certain sexual service businesses
+s. 21A | Obligations of those who operate sexual service business in relation to children
 ”.
 ”.
