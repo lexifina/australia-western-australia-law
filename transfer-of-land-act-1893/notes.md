@@ -72,6 +72,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 Pt. 24 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
 The Transfer of Land Amendment Act 1996 s. 6(2) reads as follows:
@@ -242,4 +243,21 @@ lodged unless —
 (c) the instrument is a Sheriff’s dealing (within the meaning given in section 133) and the matter to which the caveat relates does not, under section 133(7), prevail against the dealing; or
 (d) section 142 applies.
 ”.
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 38, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 38 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+38.Transfer of Land Act 1893
+(1) Section 81U(3) is amended by deleting “in accordance with the Stamp Act 1921.” and inserting instead —
+“
+or endorsed to indicate duty under the Stamp Act 1921 or the Duties Act 2008.
+”.
+(2) The Twenty-sixth Schedule is amended in condition 8 by deleting “stamp duties” and inserting instead —
+“ duty under the Duties Act 2008 ”.
 ”.
