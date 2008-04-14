@@ -97,6 +97,8 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law and Evidence Amendment Act 2008 Pt. 5 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 Pt. 11 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Prostitution Amendment Act 2008 s. 31 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 “
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
@@ -357,100 +359,53 @@ Section 121(2) is repealed and the following subsections are inserted instead �
 (2a) The court shall not make such a direction if satisfied the direction is not in the interests of justice.
 ”.
 ”.
-Defined Terms
-[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-a broadcast36C(4)
-accused36A(1), 106A
-Act3
-affected child106A
-application for leave19A(1)
-audio link120(1)
-Australasian colony3
-Australia109(1), 115, 120(1)
-authorised officer50B(1)
-authority104A(5)
-bank3
-bankers’ books3
-broadcast106MB(3)
-business79B
-business day50B(1)
-business record79B
-child106A
-colony3
-complainant19A(1), 36A(1), 36C(4)
-corroboration warning50(1)
-counsel106A
-counselling communication19A(1)
-counsellor19A(1)
-counsels19A(1), 19A(2)
-court3, 79B
-derived79B
-disclose19A(1)
-DNA profile50B(1)
-document3, 79B
-examination50B(1), 109(1)
-examined copy3
-forensic scientist50B(1)
-Gazette3
-Government Printer3
-harm19A(1)
-hearing106T(5)
-hearing day50B(1)
-inferior court109(1)
-judge3, 11(3), 12(5), 106M(3)
-judicial authority109(1)
-legal proceeding3
-new offence106A
-officer of the Library Board of Western Australia65A(2)
-opinion rule27B(4)
-participating jurisdiction120(1)
-party19C(7), 50B(1)
-periodical42
-person acting judicially3
-photograph3
-prisoner3
-privilege32A(2)
-Privy Council57(4)
-proceeding3, 106A, 106HB(1)
-proceedings79B, 115
-propensity evidence31A(1)
-property115
-prosecutor106A
-protected communication19A(1)
-protected person19A(1)
-protected witness106G(3)
-public official119(1)
-qualified person79B
-recognized court120(1)
-relationship evidence31A(1)
-relevant statement106H(3)
-repealed Code section9(6), 36A(1), Sch. 7 Pt. A cl. 1(2)
-request115
-requesting court115
-require disclosure19A(1)
-rules of court32A(2)
-Schedule 7 proceeding106A
-serious sexual offence106A
-sexual offence36A(1)
-special hearing106S(2)
-special witness106A
-State3
-statement79B
-superior court109(1)
-support person19A(1)
-supporting affidavit19A(1)
-the Commonwealth3
-the protection provisions19A(1)
-the State3
-thing50B(1)
-tribunal120(1)
-uncorroborated evidence3
-video link120(1)
-visual recording106A
-visual recording of evidence106A
-visually recorded interview106A, 106HA(3)
-votes and proceedings3
-WA court120(1)
-witness106RA(1)
-written publication36C(4)
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 8, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 8 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+8.Evidence Act 1906
+(1) Section 12(1) is amended by deleting “stamp duties” and inserting instead —
+“ duty under the Duties Act 2008 ”.
+(2) Section 73U(1) is amended by deleting “but subject to section 27(3) of the Stamp Act 1921, where a document is chargeable with stamp duty under that Act” and inserting instead —
+“
+where a document is chargeable with duty under a duties Act then, subject to that Act,
+”.
+(3) Section 73U(2) is amended by deleting “the Stamp Act 1921” and inserting instead —
+“ a duties Act ”.
+(4) After section 73U(2) the following subsection is inserted —
+“
+(3) In this section —
+“duties Act” means the Stamp Act 1921 or the Duties Act 2008;
+“stamped” means stamped or endorsed to indicate duty under a duties Act.
+”.
+”.
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 31 had not come into operation. It reads as follows:
+“
+31.Evidence Act 1906 amended
+(1) The amendments in this section are to the Evidence Act 1906.
+(2) Section 36A(1) paragraph (a) of the definition of “sexual offence” is amended as follows:
+(a) by deleting “or 191(1)(a)”;
+(b) by deleting “Prostitution Act 2000;” and inserting instead —
+“ Sexual Services Act 2000; ”.
+(3) Schedule 7 Part A clause 1(a) is amended by deleting “Prostitution Act 2000” and inserting instead —
+“ Sexual Services Act 2000 ”.
+(4) Schedule 7 Part B is amended as follows:
+(a) by deleting the entry relating to section 191 of The Criminal Code;
+(b) by deleting “Prostitution Act 2000” and inserting instead —
+“ Sexual Services Act 2000 ”;
+(c) by deleting “prostitute” in each place where it occurs and inserting instead —
+“ sex worker ”;
+(d) by deleting the entries relating to sections 17, 18, 20 and 21 of the Prostitution Act 2000 and inserting instead —
+“
+17 | Obtaining payment for commercial sexual act by a child
+18 | Agreement for child to act as a sex worker
+20 | Commercial sexual act at place where child present
+21 | Allowing child to be at place involving commercial sexual act or certain sexual service businesses
+21A | Obligations of those who operate sexual service business in relation to children
+”.
+”.
