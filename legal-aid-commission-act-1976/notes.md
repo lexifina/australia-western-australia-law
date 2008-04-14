@@ -34,6 +34,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Appointed day 17 April 1978; see Gazette 17 March 1978 p. 800.
 Repealed by the Associations Incorporation Act 1987.
 Repealed by the Statute Stocktake Act 1999 s. 3 of the Commonwealth (No. 118 of 1999).
@@ -52,4 +53,17 @@ Act | Provision
 ...................... | ........
 Legal Aid Commission Act 1976 | s. 22
 ...................... | ........
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 19, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 19 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+19.Legal Aid Commission Act 1976
+Section 44A(9) is amended by deleting “stamp duty” and inserting instead —
+“ duty under the Duties Act 2008 ”.
 ”.
