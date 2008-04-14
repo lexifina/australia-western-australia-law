@@ -171,6 +171,7 @@ Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 30 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Revenue Laws Amendment (Taxation) Act 2007 s. 13(2) | 12 of 2007 | 29 Jun 2007 | 1 Jan 2009 (see s. 2(e))
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 55 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Duties Legislation Amendment Act 2008 Pt. 2 Div. 1 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Repealed by the Mining Act 1978.
 This section has a retrospective commencement date effective from 1 Jul 2004 see the Revenue Laws Amendment Act 2006 s. 2(3).
 The Acts Amendment (Land Administration) Act 1997 came into operation 30 Mar 1998.
@@ -733,5 +734,171 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 55.Stamp Act 1921 amended
 (1) The amendment in this section is to the Stamp Act 1921.
 (2) The Second Schedule item 3 is deleted.
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 Pt. 2 Div. 1 had not come into operation. It reads as follows:
+“
+Part 2 — Amendments
+Division 1 — Stamp Act 1921 amended
+3.The Act amended in this Division
+The amendments in this Division are to the Stamp Act 1921.
+4.Section 2 inserted
+After section 1 the following section is inserted —
+“
+2.Expiry of Act
+(1) This Act expires on a day fixed by proclamation.
+(2) A proclamation is not to be made under subsection (1) unless, after 1 July 2008, the Commissioner has given the Minister a certificate signed by the Commissioner stating that the operation of this Act is no longer necessary.
+”.
+5.Section 16 amended
+(1) Section 16(1) is amended by deleting “subsection (2)” and inserting instead —
+“ this section ”.
+(2) After section 16(4) the following subsections are inserted —
+“
+(5) Despite anything to the contrary in this Act, duty is not chargeable on an instrument —
+(a) specified in any of items 4 to 12, 14A, 15, 17 or 19 of the Second Schedule; and
+(b) first executed on or after 1 July 2008,
+unless it is a continuing instrument.
+(6) The reference in subsection (5) to an instrument specified in an item of the Second Schedule includes a reference to an instrument that would, but for this section, be chargeable with duty as if it were such an instrument.
+(7) In subsection (5) —
+“continuing instrument” means —
+(a)an instrument of conveyance or transfer that replaces another instrument for the conveyance or transfer of the same property where the replaced instrument was first executed before 1 July 2008; or
+(b)an instrument of conveyance or transfer where —
+(i)the conveyance or transfer of property is made in accordance with an arrangement made on or after 28 November 2007; and
+(ii)the sole or principal purpose of the arrangement was to defer the conveyance or transfer of the property until 1 July 2008 or later so that the rates of duty applicable under the Duties Act 2008 would apply to the conveyance or transfer.
+”.
+6.Section 31B amended
+(1) Section 31B(8) is amended as follows:
+(a) in paragraph (g) by deleting “Commonwealth.” and inserting instead —
+“ Commonwealth; or ”;
+(b) after paragraph (g) by inserting —
+“
+(h) an acquisition that occurs on or after 1 July 2008.
+”.
+(2) Section 31B(13) is amended by deleting “section” and inserting instead —
+“ sections 16(5) and ”.
+7.Section 31C amended
+After section 31C(1) the following subsection is inserted —
+“
+(1a) Subsection (1) does not apply to a transfer that occurs on or after 1 July 2008.
+”.
+8.Section 73CA inserted
+Before section 73D the following section is inserted —
+“
+73CA.Effect of Duties Act 2008 on sections 73D, 73DAA, 73DE and 73E
+(1) Sections 73D(2), 73DAA(1), 73DE(1) and 73E(2) do not apply to a disposition made on or after 1 July 2008.
+(2) Without limiting section 16(5) and (6), section 73D(4) and (6a) and 73E(4) and (6) do not apply to —
+(a) a transfer; or
+(b) an instrument effecting a disposition,
+first executed on or after 1 July 2008.
+(3) Section 73D(4) and (6a) and 73E(4) and (6) do not apply to an instrument evidencing a disposition made on or after 1 July 2008.
+(4) When used in this section in relation to section 73E, “disposition” has the meaning given in section 73E(1).
+”.
+9.Section 73D amended
+Section 73D(4) and (6a) are each amended by inserting after “Subject to” —
+“ section 73CA and ”.
+10.Section 73DAA amended
+(1) Section 73DAA(1) is amended by inserting after “Subject to” —
+“ section 73CA and ”.
+(2) Section 73DAA(7) is amended by deleting “section” and inserting instead —
+“ sections 16(5) and ”.
+11.Section 73DE amended
+Section 73DE(1) is amended by inserting after “Subject to” —
+“ section 73CA and ”.
+12.Section 73E amended
+(1) Section 73E(4) is amended by inserting after “Subject to” —
+“ section 73CA and ”.
+(2) Section 73E(6) is amended by deleting “Where” and inserting instead —
+“ Subject to section 73CA, where ”.
+13.Section 75AH amended
+Section 75AH(2)(b) is amended by deleting “within 10 years of the execution of the first instrument” and inserting instead —
+“ before 1 July 2008 ”.
+14.Section 75HA amended
+Section 75HA(4) is amended by inserting after paragraph (a) —
+“
+or
+(ab) the taxable event occurs on or after 1 July 2008; or
+”.
+15.Section 75JA amended
+(1) Section 75JA(3)(d) is amended by inserting before “the claw-back” —
+“ if the relevant event occurred before 1 July 2008, ”.
+(2) After section 75JA(3) the following subsection is inserted —
+“
+(4) If the relevant event occurs on or after 1 July 2008, subsection (3)(c) does not apply if the event is the subject of —
+(a) an application made under the Duties Act 2008 section 262 for an exemption; or
+(b) an application made under the Duties Act 2008 section 180; or
+(c) a statement lodged under the Duties Act 2008 section 200.
+”.
+16.Section 75JB amended
+(1) After section 75JB(4) the following subsection is inserted —
+“
+(4a) If the event referred to in subsection (4)(a), (b), (ba), (c), (ca) or (d) occurs on or after 1 July 2008, subsection (4) does not apply if the event is the subject of —
+(a) an application made under the Duties Act 2008 section 262 for an exemption; or
+(b) an application made under the Duties Act 2008 section 180; or
+(c) a statement lodged under the Duties Act 2008 section 200.
+”.
+(2) Section 75JB(5) is amended by inserting before “and within” —
+“ and before 1 July 2008 ”.
+(3) Section 75JB(5f)(d) is amended by inserting before “the claw-back” —
+“ if the relevant event occurred before 1 July 2008, ”.
+(4) After section 75JB(5f) the following subsection is inserted —
+“
+(5fa) If the relevant event occurs on or after 1 July 2008, subsection (5f)(c) does not apply if the event is the subject of —
+(a) an application made under the Duties Act 2008 section 262 for an exemption; or
+(b) an application made under the Duties Act 2008 section 180; or
+(c) a statement lodged under the Duties Act 2008 section 200.
+”.
+(5) Section 75JB(6) is amended by inserting before “and within” —
+“ and before 1 July 2008 ”.
+(6) Section 75JB(7) is amended by inserting before “and within” —
+“ and before 1 July 2008 ”.
+(7) Section 75JB(9) is amended by inserting before “within” —
+“ before 1 July 2008 and ”.
+(8) Section 75JB(11) is amended by inserting before “and within” —
+“ but before 1 July 2008 ”.
+17.Section 75JC amended
+After section 75JC(5) the following subsection is inserted —
+“
+(6) If the Commissioner determined that an exemption would be granted but the instrument was not executed before 1 July 2008 or the acquisition or transfer that gave rise to an obligation to lodge a 31B or 31C statement or Part IIIBA statement did not occur before 1 July 2008, the determination has no effect.
+”.
+18.Section 75JH inserted in Part IIIBAAA
+After section 75JG the following section is inserted in Part IIIBAAA —
+“
+75JH.Revoking an exemption
+(1) If the Commissioner determines that an instrument, or a Part IIIBA statement, that has been exempted from duty under this Part is part of a scheme or arrangement entered into or carried out by a person —
+(a) a purpose of which is to avoid or reduce duty on an instrument or a Part IIIBA statement or duty under Part IIIC; or
+(b) the sole or dominant purpose of which is to avoid or reduce tax other than duty,
+the Commissioner may revoke the exemption or, if an exemption certificate has been issued in relation to the instrument, the certificate.
+(2) If an exemption or certificate is revoked under subsection (1), section 75JE or 75JF, as the case requires, applies to the instrument or Part IIIBA statement concerned.
+”.
+19.Section 75K inserted
+Before section 76 the following section is inserted in Part IIIBA Division 1 —
+“
+75K.Effect of Duties Act 2008 on this Part
+This Part does not apply to a relevant acquisition under Division 2, 3, 3a or 3b that occurs on or after 1 July 2008.
+”.
+20.Section 76AY inserted
+Before section 76B the following section is inserted in Part IIIC —
+“
+76AY.Effect of Duties Act 2008 on this Part
+(1) This Part does not apply to or in relation to the grant or transfer of a licence the application for which was made on or after 1 July 2008.
+(2) If —
+(a) the application for the grant or transfer of a licence was made before 1 July 2008; or
+(b) under section 76K, the amount of duty payable in respect of the grant or transfer of a licence was assessed before 1 July 2008,
+this Act, as in force immediately before 1 July 2008, applies to and in relation to the grant or transfer of the licence.
+”.
+21.Section 77A amended
+(1) After section 77A(2) the following subsection is inserted —
+“
+(2a) Subsection (1) does not apply to a lessee if the transaction occurs on or after 1 July 2008.
+”.
+(2) Section 77A(9) is amended by deleting “section” and inserting instead —
+“ sections 16(5) and ”.
+22.Section 91G inserted
+Before section 92 the following section is inserted in Part IIIF Division 1 —
+“
+91G.Effect of Duties Act 2008 on this Part
+This Part does not apply to or in relation to —
+(a) premiums, or instalments of premiums, paid on or after 1 July 2008; and
+(b) return periods commencing on or after 1 July 2008.
+”.
 ”.
 This section has a retrospective commencement date effective from 6 Feb 2008 see the Revenue Laws Amendment Act 2008 Pt. 8.
