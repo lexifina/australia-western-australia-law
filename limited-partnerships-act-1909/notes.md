@@ -14,6 +14,10 @@ Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 13 | 20 of 2003 | 2
 Reprint 3: The Limited Partnerships Act 1909 as at 6 Jun 2003 (includes amendments listed above)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 14 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
 Division 23 — Transitional provisions
@@ -57,4 +61,16 @@ In this Division —
 “commencement” means the time at which this Division comes into operation;
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 20, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 20 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+20.Limited Partnerships Act 1909
+Section 11 is repealed.
 ”.
