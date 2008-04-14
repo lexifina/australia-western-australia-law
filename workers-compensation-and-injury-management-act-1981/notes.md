@@ -63,6 +63,7 @@ Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 (as amended by No. 42 of 2004 s. 155) | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Criminal Law and Evidence Amendment Act 2008 s. 73 and 78(10) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 The name of the State Government Insurance Commission was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8 (see also note 44.)
 Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia (see also note 44).
 The Workers’ Compensation Legislation Amendment Act 2005 s. 9(2) reads as follows:
@@ -450,4 +451,17 @@ On the date as at which this compilation was prepared, the Criminal Law and Evid
 78.Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 amended
 (1) The amendments in this section are to the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004.
 (10) Schedule 2 clause 157 is amended by deleting the row relating to “s. 175H(2)(c)”.
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 42, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 42 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+42.Workers’ Compensation and Injury Management Act 1981
+Section 297 is amended by deleting “stamp duties chargeable under the Stamp Act 1921.” and inserting instead —
+“ duty chargeable under the Duties Act 2008. ”.
 ”.
