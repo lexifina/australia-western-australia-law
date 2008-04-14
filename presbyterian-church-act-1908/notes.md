@@ -14,6 +14,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Presbyterian Church of Australia Act 1970 s. 7 | 91 of 1970 | 30 Nov 1970 | Notice to be published (see s. 7(2) and 2(2))
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 I.e. 48 Vict. No. 20.
 Repealed by the Trustees Act 1962.
 Footnote no longer applicable.
@@ -154,4 +155,17 @@ cannot be made more than 15 months after the licence was granted or transferred.
 49.Payment of duty by returns (Stamp Act 1921, s. 112V)
 (1) A permission granted under section 112V of the old Stamp Act and in force immediately before the commencement day continues in force on and after that day as a special tax arrangement under the Taxation Administration Act 2003.
 (2) Any requirement that applied, immediately before the commencement day, to a person to whom a permission continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the permission was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 31, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 31 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+31.Presbyterian Church Act 1908
+Section 21(5)(a) is amended by deleting “Stamp Act 1921” and inserting instead —
+“ Duties Act 2008 ”.
 ”.
