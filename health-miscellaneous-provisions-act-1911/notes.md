@@ -129,6 +129,7 @@ Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be 
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 Repealed by the Nurses and Midwives Act 2006.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
@@ -617,4 +618,16 @@ On the date as at which this compilation was prepared, the Criminal Law and Evid
 77.Courts Legislation Amendment and Repeal Act 2004 amended
 (1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
 (13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 13, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 13 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+13.Health Act 1911
+Section 275(2) is repealed.
 ”.
