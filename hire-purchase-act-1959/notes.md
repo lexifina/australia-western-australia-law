@@ -38,6 +38,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
@@ -100,4 +101,17 @@ On the date as at which this compilation was prepared, the Criminal Law and Evid
 77.Courts Legislation Amendment and Repeal Act 2004 amended
 (1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
 (13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 15, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 15 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+15.Hire-Purchase Act 1959
+Section 36A(2a)(b) is amended by deleting “, agreement registration fees, and stamp duty that is” and inserting instead —
+“ and agreement registration fees ”.
 ”.
