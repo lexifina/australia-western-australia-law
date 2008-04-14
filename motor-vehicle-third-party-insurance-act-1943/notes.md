@@ -61,6 +61,10 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 11: The Motor Vehicle (Third Party Insurance) Act 1943 as at 2 Dec 2005 (includes amendments listed above)
 Motor Vehicle (Third Party Insurance) Amendment Act 2006 | 15 of 2006 | 17 May 2006 | Act other than s. 5: 17 May 2006 (see s. 2(1)); s. 5: 1 Jul 2006 (see s. 2(2) and Gazette 16 Jun 2006 p. 2109)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 For the purposes of s. 3C and 3D, the Amounts A, B, C and D for the financial years beginning after 30 June 1994 up to the date of this reprint are as set out in this Table.
 Financial year beginning | Amount A | Amount B | Amount C | Amount D | Gazette
 1 July 1994 | $201 000 | $10 000 | $30 000 | $5 000 | 24 Jun 1994 p. 2944
@@ -136,4 +140,18 @@ The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 
 (4) To the extent that a regulation including a provision described in subsection (1) may have effect before the day of its publication in the Gazette, it does not —
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State), the rights of that person existing before the day of its publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of its publication.
+”.
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 23, had not come into operation. It reads as follows:
+“
+52.Various Acts amended
+Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
+”.
+Schedule 1 cl. 23 reads as follows:
+“
+Schedule 1 — Amendments to various Acts
+[s. 52]
+23.Motor Vehicle (Third Party Insurance) Act 1943
+(1) Section 3R(4)(b) is amended by deleting “stamp duty payable” and inserting instead —
+“ duty payable under the Duties Act 2008 ”.
+(2) Section 21(2) is amended by deleting “stamp”.
 ”.
