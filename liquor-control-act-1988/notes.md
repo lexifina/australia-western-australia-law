@@ -38,10 +38,11 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
  | Liquor and Gaming Legislation Amendment Act 2006 s. 27 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
+ | Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Acts 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
-The Liquor Licensing (Moratorium) Act 1983 expired on 30 June 1988 (see Liquor Licensing (Moratorium) Order 1987 in Gazette 24 Dec 1987 p. 4533).
+The Liquor Licensing (Moratorium) Act 1983 expired on 31 December 1986.
 Repealed by the Liquor Act 1970, which was repealed by this Act.
 Now known as the Liquor Control Act 1988; short title changed (see note under s. 1).
 The Courts Legislation Amendment Act 2000 s. 14 is a transitional provision that is of no further effect.
@@ -76,5 +77,14 @@ the licensing authority is not required to give any reasons for the decision oth
 and
 (b) may take evidence consisting of or relating to confidential police information by way of an affidavit of a member of the Police Force of or above the rank of Superintendent.
 (7) The Commissioner of Police must not delegate the function of classifying information or documents as confidential police information except to a Deputy Commissioner of Police or an Assistant Commissioner of Police.
+”.
+”.
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 32 had not come into operation. It reads as follows:
+“
+32.Liquor Control Act 1988 amended
+(1) The amendment in this section is to the Liquor Control Act 1988.
+(2) After section 37(6) the following subsection is inserted —
+“
+(7) An application shall not be granted where the licensing authority is satisfied that the premises to which the application relates are premises at or from which a sexual service business within the meaning of the Sexual Services Act 2000 section 3 operates.
 ”.
 ”.
