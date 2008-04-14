@@ -9,6 +9,7 @@ Short title | Number and year | Assent | Commencement
 Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 | 72 of 2004 | 8 Dec 2004 | s. 12 and Sch. 3: to be proclaimed
 Criminal Law and Evidence Amendment Act 2008 s. 58 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 s. 127 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Prostitution Amendment Act 2008 s. 29 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 had not come into operation. They read as follows:
 “
 12.Class 3 offences
@@ -46,4 +47,15 @@ On the date as at which this compilation was prepared, the Acts Amendment (Justi
 “ Court of Appeal ”.
 (3) Section 102(2) is amended by deleting “Full Court” and inserting instead —
 “ Court of Appeal ”.
+”.
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 29 had not come into operation. It reads as follows:
+“
+29.Community Protection (Offender Reporting) Act 2004 amended
+(1) The amendments in this section are to the Community Protection (Offender Reporting) Act 2004.
+(2) Schedule 2 is amended by deleting the entry relating to the Prostitution Act 2000 and inserting instead —
+“
+Sexual Services Act 2000
+s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
+s. 17 | Obtaining payment for commercial sexual act by a child
+”.
 ”.
