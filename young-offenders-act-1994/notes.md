@@ -37,6 +37,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 s. 132 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Prostitution Amendment Act 2008 s. 36 | 13 of 20080 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Parental Support and Responsibility Act 2008 s. 44 | 14 of 2008 | 15 Apr 2008 | To be proclaimed (see s. 2)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -83,4 +85,34 @@ On the date as at which this compilation was prepared, the Acts Amendment (Justi
 “ 12 months ”.
 (3) Section 118(2) is amended by inserting after “person to” —
 “ a term of imprisonment or ”.
+”.
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 36 had not come into operation. It reads as follows:
+“
+36.Young Offenders Act 1994 amended
+(1) The amendments in this section are to the Young Offenders Act 1994.
+(2) Schedule 2 is amended by deleting the entry relating to the Prostitution Act 2000 and inserting instead —
+“
+2A.Sexual Services Act 2000
+s. 7 | Seeking to induce person to act as a sex worker
+s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
+s. 17 | Obtaining payment for commercial sexual act by a child
+s. 18 | Agreement for a child to act as a sex worker
+”.
+”.
+On the date as at which this compilation was prepared, the Parental Support and Responsibility Act 2008 s. 44 had not come into operation. It reads as follows:
+“
+44.Young Offenders Act 1994 amended
+(1) The amendment in this section is to the Young Offenders Act 1994.
+(2) After section 15A(3) the following subsections are inserted —
+“
+(3a) Upon being requested to do so by an authorised officer, the chief executive officer is to provide —
+(a) the officer with information relating to a child who is, or was, a young offender or detainee, for the purposes of proceedings for or in respect of a responsible parenting order in respect of the child; or
+(b) an appointed person or body with information relating to a person who is, or was, a young offender or detainee, for the purposes of section 39 of that Act.
+(3b) The information provided under subsection (3a)(b) must be in a form that would not reveal the identity of the person.
+(3c) In subsection (3a) —
+“appointed person or body” means a person or body appointed under section 39(1) of the Parental Support and Responsibility Act 2008;
+“authorised officer” has the meaning given to that term in section 3 of the Parental Support and Responsibility Act 2008;
+“child” means a person who is under 15 years of age;
+“proceedings for or in respect of a responsible parenting order” has the meaning given to “proceedings for or in respect of an order” in section 26 of the Parental Support and Responsibility Act 2008.
+”.
 ”.
