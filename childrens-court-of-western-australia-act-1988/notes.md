@@ -39,6 +39,7 @@ State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 
 Criminal Law and Evidence Amendment Act 2008 s. 57 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 Pt. 2 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Cross-border Justice Act 2008 Pt. 15 Div. 1 | 7 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(b))
+Parental Support and Responsibility Act 2008 s. 43 | 14 of 2008 | 15 Apr 2008 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 Chapter XXXII of The Criminal Code was repealed by the Acts Amendment (Evidence) Act 1991 s. 12(9).
 Now known as the Children’s Court of Western Australia Act 1988; short title changed (see note under s. 1).
@@ -133,4 +134,35 @@ After section 29(4) the following subsection is inserted —
 “
 (5) This section applies in relation to an act or omission by a person outside the State as if it were an act or omission by the person in the State.
 ”.
+”.
+On the date as at which this compilation was prepared, the Parental Support and Responsibility Act 2008 s. 43 had not come into operation. It reads as follows:
+“
+43.Children’s Court of Western Australia Act 1988 amended
+(1) The amendments in this section are to the Children’s Court of Western Australia Act 1988.
+(2) Section 20 is amended as follows:
+(a) after paragraph (c) by deleting “and”;
+(b) after paragraph (d) by deleting the full stop and inserting instead —
+“
+; and
+(e) under section 14 or 15 of the Parental Support and Responsibility Act 2008.
+”.
+(3) After section 23 the following section is inserted —
+“
+24.Criminal jurisdiction as regards adults
+(1) The Court has exclusive jurisdiction to hear and determine —
+(a) a charge alleging an offence under section 21(1) of the Parental Support and Responsibility Act 2008; and
+(b) a charge alleging an offence under section 131(1) of the Sentencing Act 1995 constituted by the breach of a conditional release order or a community based order imposed by the Court when sentencing a person who has been convicted of an offence under section 21(1) of the Parental Support and Responsibility Act 2008.
+(2) This section applies if section 19 does not apply.
+”.
+(4) After section 36(1)(a) the following paragraph is inserted —
+“
+(ab) a responsible parenting order or an interim responsible parenting order is made in respect of a child under the Parental Support and Responsibility Act 2008; or
+”.
+(5) Section 40 is amended as follows:
+(a) in subsection (1) by deleting “child” in both places where it occurs and inserting instead —
+“ person ”;
+(b) in subsection (2)(a) by deleting “child” and inserting instead —
+“ person ”;
+(c) in subsection (2)(b) by inserting before “by the CEO” —
+“ if the person is a child, ”.
 ”.
