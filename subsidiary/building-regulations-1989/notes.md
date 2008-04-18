@@ -38,6 +38,10 @@ Building Amendment Regulations (No. 3) 2007 | 21 Aug 2007 p. 4174-8 | r. 1 and 2
 Building Amendment Regulations (No. 4) 2007 | 5 Oct 2007 p. 5327-8 | r. 1 and 2: 5 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Oct 2007 (see r. 2(b))
 Reprint 5: The Building Regulations 1989 as at 4 Jan 2008 (includes amendments listed above)
 Building Amendment Regulations 2008 | 4 Mar 2008 p. 738-9 | r. 1 and 2: 4 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Mar 2008 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Building Amendment Regulations (No. 2) 2008 r. 3 and 4 | 18 Apr 2008 p. 1481 | 1 May 2008 (see r. 2(b))
 The Gas Corporation does not exist. The Act that established it was repealed by the Gas Corporation (Business Disposal) Act 1999 s. 93.
 The Building Amendment Regulations (No. 2) 2001 r. 7 reads as follows:
 “
@@ -68,4 +72,11 @@ The Building Amendment Regulations 2002 r. 5 reads as follows:
 (2) During the transitional period, despite regulation 38B(3) of the Building Regulations 1989 a building may be included within the area enclosed for a pre-July 1992 pool even though —
 (a) the building is not a Class 10a building under the Building Code; and
 (b) any external door or window in the building does not satisfy the requirements of Australian Standard AS 1926.1.
+”.
+On the date as at which this compilation was prepared, the Building Amendment Regulations (No. 2) 2008 r. 3 and 4 had not come into operation. They read as follows:
+“
+3.The regulations amended
+The amendment in these regulations is to the Building Regulations 1989.
+4.Part 10A repealed
+Part 10A is repealed.
 ”.
