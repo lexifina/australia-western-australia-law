@@ -2,7 +2,7 @@
 s. 5
 New Year’s Day (1st January).
 Australia Day (26th January or, when that day falls on a Saturday or Sunday, the first Monday following the 26th January).
-Labor Day (Monday on or first Monday following the 1st March).
+Labour Day (Monday on or first Monday following the 1st March).
 Good Friday.
 Easter Monday.
 Anzac Day (25th April).
