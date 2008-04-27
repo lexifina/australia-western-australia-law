@@ -36,7 +36,7 @@ Poisons (Appendix A Amendment) Order 2003 published in Gazette 10 Oct 2003 p. 44
 Poisons (Appendix A Amendment) Order (No. 2) 2003 published in Gazette 10 Oct 2003 p. 4404-5 | 1 Jan 2004 (see cl. 2)
  | Industrial Hemp Act 2004 Pt. 8 | 1 of 2004 | 12 Mar 2004 | 19 May 2004 (see s. 2 and Gazette 18 May 2004 p. 1561)
  | Reprint 6: The Poisons Act 1964 as at 10 Sep 2004 (includes amendments listed above)
- | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+ | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
  | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 107 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 11 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
@@ -47,9 +47,7 @@ Poisons (Appendix A Amendment) Order (No. 2) 2003 published in Gazette 10 Oct 20
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Under the Alteration of Statutory Designations Order 2006, a reference to the department of the Public Service with the designation “Department of Agriculture” is, unless the contrary intention appears or the context of the reference otherwise requires, to be read and construed as a reference to the department of the Public Service with the designation “Department of Agriculture and Food”. At the time of this compilation the Minister is known as the Minister for Agriculture and Food.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
@@ -63,19 +61,8 @@ Division 13 — Transitional provisions
 “Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 ”.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides a general transitional provision for references to a chief executive officer by a title that was given by a provision of an Act where the provision was amended to remove that title, or repealed, by the Machinery of Government (Miscellaneous Amendments) Act 2006.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 40 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-40.Poisons Act 1964
-s. 29(1) | Delete “a stipendiary magistrate sitting as a court of summary jurisdiction.” and insert instead — “ the Magistrates Court. ”.
-s. 29(2) | Repeal the subsection and insert instead — “ (2)The Magistrates Court, constituted by a magistrate, shall hear the appeal and shall inquire into and decide upon the appeal and may make such order in the matter as it may think just, and its decision shall be final and conclusive. ”.
-”.
-The amendments to s. 29 in the Courts Legislation Amendment and Repeal Act 2004 s. 142 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 107.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 40 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 had not come into operation. It reads as follows:
 “
 93.Poisons Act 1964 amended
@@ -84,10 +71,4 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 “
 under the Biosecurity and Agriculture Management Act 2007
 ”.
-”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
