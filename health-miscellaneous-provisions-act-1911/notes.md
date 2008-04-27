@@ -108,7 +108,7 @@ Acts Amendment (Equality of Status) Act 2003 Pt. 26 | 28 of 2003 | 22 May 2003 |
 Sentencing Legislation Amendment and Repeal Act 2003 s. 71 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 64 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 58 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Health Legislation Amendment Act 2004 Pt. 2 | 61 of 2004 | 24 Nov 2004 | 24 Nov 2004 (see s. 2)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
@@ -126,9 +126,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 Repealed by the Nurses and Midwives Act 2006.
@@ -572,25 +570,7 @@ the commission of that offence by the employee.
 When a body corporate is convicted of an offence under this Part or the regulations, every director and every officer concerned in the management of the body corporate commits the same offence if he knowingly authorised or permitted the commission of that offence.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 23 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-23.Health Act 1911
-s. 36(1) | Delete “a magistrate sitting as a court of petty sessions within the district.” and insert instead — “ the Magistrates Court at the place nearest to or in the district. ”.
-s. 36(2) | Delete “magistrate” and insert instead — “ court ”.
-s. 36(3) | Delete “magistrate” and insert instead — “ court, constituted by a magistrate, ”. Delete “he” and insert instead — “ it ”.
-s. 246Y(6) | Delete “a Local Court” and insert instead — “ the Magistrates Court ”.
-s. 246Y(8) | Delete “A Local Court to which an appeal has been made under subsection (6) —” and insert instead — “ The Magistrates Court — ”.
-s. 246ZG(1) | Delete “a Local Court” and insert instead — “ the Magistrates Court ”.
-s. 246ZG(3) | Delete “A Local Court to which an application is made under subsection (1)” and insert instead — “ On receipt of an application made under subsection (1), the Magistrates Court ”.
-s. 246ZG(4) | Delete “Local Court concerned” and insert instead — “ Magistrates Court ”. In paragraph (a) delete “that Local Court” and insert instead — “ the court ”.
-”.
-The amendments it seeks to make cannot be done due to amendments made by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 479, 489, and 490.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 23 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 s. 100, which gives effect to Sch.4 cl. 4 had not come into operation. It reads as follows:
 “
 100.Consequential amendments
@@ -613,12 +593,7 @@ Schedule 4 — Amendments and repeals
 (b) by deleting “(30),”.
 (8) Schedule 5 is amended by deleting “112A(4),”.
 ”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 13, had not come into operation. It reads as follows:
 “
 52.Various Acts amended
