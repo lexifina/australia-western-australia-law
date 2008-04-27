@@ -33,7 +33,7 @@ Reprint 4: The Strata Titles Act 1985 as at 22 Aug 2003 (includes amendments lis
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 67 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 11217 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 (cl. 150 amendments to s. 15(5)) | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(12) and (13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 121 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 5: The Strata Titles Act 1985 as at 20 May 2005 (includes amendments listed above)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
@@ -42,8 +42,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Courts Legislation Amendment and Repeal Act 2004 s. 141 and 142 | 59 of 2004 | 23 Nov 2004 | s. 141 (the amendments to s. 116A(4)) and s. 142 cl. 48: to be proclaimed (see s. 2)
-Criminal Law and Evidence Amendment Act 2008 s. 77(12), (13) and 78(6) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 “
@@ -86,7 +84,7 @@ Despite their repeal by section 63, sections 68 and 69 of the principal Act cont
 The Strata Titles Amendment Act 1995 s. 38(2) is a transitional provision that is of no further effect.
 The Strata Titles Amendment Act 1995 s. 43(5) and (6) are transitional provisions that are of no further effect.
 The Strata Titles Amendment Act 1995 s. 45(3) is a transitional provision that is of no further effect.
-The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to amend s. 116A is not included because the section it sought to amend had been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1151.
+The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Sch. 1 cl. 31 was repealed by the Criminal Law and Evidence Amendment Act 2008 s.78(6).
 The Strata Titles Amendment Act 1996 s. 34(4) is a transitional provision that is of no further effect.
 The Strata Titles Amendment Act 1996 s. 30 reads as follows:
 “
@@ -256,19 +254,7 @@ On the date as at which this compilation was prepared, the State Superannuation 
 Section 73(1)(g)(i) of the Strata Titles Act 1985 is amended by deleting “, and in particular his rights, if any, under the Superannuation and Family Benefits Act 1938.”.
 ”.
 The section that it seeks to amend has been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 141 (the amendments to s. 116A(4)) and 142, which give effect to Sch. 1 and 2, had not come into operation. They read as follows:
-“
-141.Various Acts amended
-Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 1 cl. 150 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-150.Strata Titles Act 1985
-s. 116A(4) | Delete paragraphs (a), (b) and (c) and insert instead — “ (a)the time for commencing an appeal under Part VIII of the Criminal Procedure (Summary) Act 1902 against the conviction referred to in subsection (1)(b) has expired without an appeal being commenced; or (b)any such appeal that is commenced has been determined, withdrawn or discontinued. ”.
-”.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 150 (to amend s. 116A(4)) and Sch. 2 cl. 48 were repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(12) and (13).
 The section that it seeks to amend has been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1151.
 Schedule 2 cl. 48 reads as follows:
 “
@@ -279,16 +265,6 @@ s. 118 | Delete “office of a Clerk of a Local Court” and insert instead — 
 ”.
 The sections that it seeks to amend have been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125 and 1151.
 The amendment in the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2 cl. 63(9), to amend s. 25B(3) is not included because the subsection it sought to amend had been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1116.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(12), (13) and 78(6) had not come into operation. They read as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(12) Schedule 1 clause 150 is amended by deleting the row relating to “s. 116A(4)”.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
-78.Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 amended
-(1) The amendments in this section are to the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004.
-(6) Schedule 1 clause 31 is repealed.
-”.
 On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 36, had not come into operation. It reads as follows:
 “
 52.Various Acts amended
