@@ -19,15 +19,11 @@ Motor Vehicle Repairers Act 2003 Pt. 11 | 68 of 2003 | 9 Dec 2003 | 19 Mar 2007 
 Criminal Code Amendment Act 2004 s. 6 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 128 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(2)(e)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Travel Agents Act 1985 as at 14 Oct 2005 (includes amendments listed above except those in the Motor Vehicle Repairers Act 2003)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 22 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 13 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Criminal Law and Evidence Amendment Act 2008 s. 78(2)(e) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 41 and 64 read as follows:
@@ -53,7 +49,7 @@ the Commissioner for Fair Trading may have regard to the objection in deciding u
 (b) the application has been referred to the Commercial Tribunal of Western Australia under the TA Act section 33(2)(b)(i) but that Tribunal has not dealt with the application,
 on or after the commencement day the application is to be dealt with by the Commissioner for Fair Trading under the TA Act section 33 as if the application had been made to the Commissioner.
 ”.
-The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 to s. 45(2) is not included because the subsection sought to be amended has been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1254.
+The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent it amends this Act, was repealed by the Criminal Law and Evidence Amendment Act 2008 s.78(2)(e).
 Footnote no longer applicable.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
@@ -98,11 +94,4 @@ In this Division —
 “commencement” means the time at which this Division comes into operation;
 “Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 “Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
-”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(e) had not come into operation. It reads as follows:
-“
-78.Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 amended
-(1) The amendments in this section are to the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004.
-(2) Section 82 is amended in Table 2 as follows:
-(e) by deleting the row relating to the Travel Agents Act 1985.
 ”.
