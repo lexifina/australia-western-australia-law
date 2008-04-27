@@ -11,16 +11,14 @@ Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 73 | 26 of 1999 
 Reprint 2: The Debt Collectors Licensing Act 1964 as at 7 Mar 2003 (includes amendments listed above)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 55 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 28 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 35 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 3: The Debt Collectors Licensing Act 1964 as at 26 May 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Business Licensing Amendment Act 1995 Pt. 3 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 42 and 46 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 46 reads as follows:
 “
@@ -35,7 +33,7 @@ The State Administrative Tribunal Regulations 2004 r. 46 reads as follows:
 (c) a fidelity bond or approved security lodged under the DCL Act section 20(1),
 as soon as possible after the commencement day, the Clerk is to send those records or documents to the Commissioner.
 ”.
-On the date as at which this reprint was prepared, the Business Licensing Amendment Act 1995 Pt. 3 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Business Licensing Amendment Act 1995 Pt. 3 had not come into operation. It reads as follows:
 “
 Part 3 — Debt Collectors Licensing Act 1964
 6.Principal Act
@@ -72,27 +70,4 @@ Section 26 of the principal Act is amended —
 ”.
 ”.
 The insertion of s. 12A in the Business Licensing Amendment Act 1995 s. 9 would conflict with an amendment in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 226.
-On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 13 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-13.Debt Collectors Licensing Act 1964
-s. 3 | Delete the definition of “Court” and insert instead — “ “Court” means the Magistrates Court; ”.
-s. 8(3) | Delete “the Clerk of the Court held” and insert instead — “ a Clerk of the Court at the place ”. Delete “Court nearest” and insert instead — “ Court at the place nearest ”.
-s. 9(5) | Delete “a Stipendiary Magistrate, he” and insert instead — “ the Court, it ”.
-s. 10(1) | Delete “Court held” and insert instead — “ Court at the place ”.
-s. 10(4) | Delete “a Court” and insert instead — “ the Court ”.
-s. 11(1) | Delete “a Court” and insert instead — “ the Court ”.
-s. 12(1) | Repeal the subsection and insert instead — “ (1)The Court shall keep a register of all licences, renewals of licences and cancellation of licences granted or made by it. ”.
-”.
-The amendments to s. 3, 8(3), 9(5), 10(1) and (4), 11(1) and 12(1) in the Courts Legislation Amendment and Repeal Act 2004 s. 142 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 35.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
-”.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 13 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
