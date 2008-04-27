@@ -59,18 +59,13 @@ Reprint of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 as at 
 Water Services Coordination Amendment Act 1999 s. 11(6) | 39 of 1999 | 9 Nov 1999 | 19 Jun 2000 (see s. 2 and Gazette 16 Jun 2000 p. 2939)
 Rights in Water and Irrigation Amendment Act 2000 s. 85 | 49 of 2000 | 28 Nov 2000 | 10 Jan 2001 (see s. 2 and Gazette 10 Jan 2001 p. 163)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 82 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 84 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Water Legislation Amendment (Competition Policy) Act 2005 s. 37-52 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
 Reprint 9: The Metropolitan Water Supply, Sewerage, and Drainage Act 1909 as at 17 Feb 2006 (includes amendments listed above except those in the Water Legislation Amendment (Competition Policy) Act 2005)
 Land Information Authority Act 2006 s. 145 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Water Resources Legislation Amendment Act 2007 Pt. 4 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Footnote no longer applicable.
 Repealed by the Metropolitan Water Supply, Sewerage, and Drainage Act Amendment Act 1963 s. 129.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 5 and 8.
@@ -81,26 +76,5 @@ The Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 50(2) reads as f
 (2) Any by-laws made and in operation under section 57B(1) of the Act as in force immediately before the commencement of this section continue in operation and have effect for all purposes as if made under that subsection as amended by this section.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 32 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-32.Metropolitan Water Supply, Sewerage, and Drainage Act 1909
-s. 57D(1) | Delete “a Local Court established under the Local Courts Act 1904 held at any” and insert instead — “ the Magistrates Court at a ”.
-s. 57D(2) | Delete “Clerk of the Local Court to which the appeal is made” and insert instead — “ Magistrates Court ”.
-s. 57D(3) | Delete “Local Court” and insert instead — “ Magistrates Court ”. Delete the comma after paragraph (c) and the rest of the subsection and insert instead a full stop.
-s. 57D(4) s. 57D(5) | In each provision, delete “Local Court” and insert instead — “ Magistrates Court ”.
-”.
-Footnote no longer applicable.
-The amendment to s. 57D by the Courts Legislation Amendment and Repeal Act 2004 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 273.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 32 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
-”.
