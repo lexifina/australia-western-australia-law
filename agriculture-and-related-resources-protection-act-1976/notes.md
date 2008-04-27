@@ -23,7 +23,7 @@ Agricultural Legislation Amendment and Repeal Act 1998 Pt. 2 | 9 of 1998 | 30 Ap
 Reprint of the Agriculture and Related Resources Protection Act 1976 as at 15 Oct 1999 (includes amendments listed above)
 Taxation Administration (Consequential Provisions) Act 2002 s. 7 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2383)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 26 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 6 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
@@ -36,9 +36,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 and 30-33 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Repealed by the Mining Act 1978.
 Repealed by the Public Service Appeal Board Act Repeal Act 1977.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also endnote 14.
@@ -58,13 +56,13 @@ Part 4 — Transitional provisions
 Division 1 — Interpretation
 33.Definitions
 In this Part —
-“commencement day” means the day on which the Taxation Administration Act 2003 comes into operation;
-“old Act” means —
+commencement day means the day on which the Taxation Administration Act 2003 comes into operation;
+old Act means —
 (a)an Act repealed by section 5;
 (b)the old Stamp Act; or
 (c)section 41 of the Metropolitan Region Town Planning Scheme Act 1959 as in force immediately before the commencement day;
-“old Stamp Act” means the Stamp Act 1921 as in force immediately before the commencement day;
-“substantive provisions”, in relation to an old Act, means the provisions of the old Act other than those dealing with matters dealt with in the Taxation Administration Act 2003.
+old Stamp Act means the Stamp Act 1921 as in force immediately before the commencement day;
+substantive provisions, in relation to an old Act, means the provisions of the old Act other than those dealing with matters dealt with in the Taxation Administration Act 2003.
 Division 2 — General transitional provisions
 34.General transitional arrangements
 (1) Section 37(1) of the Interpretation Act 1984, except paragraphs (a) and (b), does not apply in relation to the repeal of an old Act.
@@ -157,20 +155,8 @@ Section 9(5) of the Agriculture and Related Resources Protection Act 1976 is ame
 “ 1994 or ”;
 (b) by deleting “or the Superannuation and Family Benefits Act 1938”.
 ”.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 4 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-4.Agriculture and Related Resources Protection Act 1976
-s. 7 | Delete the definition of “Local Court”.
-s. 54(2) | Delete “Local Court having jurisdiction where the land is situated, and the Local Court” and insert instead — “ Magistrates Court, and the Court ”.
-s. 54(4) | Delete “Local Court having jurisdiction where the land is situated” and insert instead — “ Magistrates Court ”.
-”.
-The amendments to s. 7, 54(2) and 54(4) in the Courts Legislation Amendment and Repeal Act 2004 s. 142 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 6.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 4 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+Footnote no longer applicable.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
 Division 23 — Transitional provisions
@@ -211,9 +197,9 @@ Each office in existence immediately before commencement because of section 15(1
 Each office in existence immediately before commencement because of section 5(2)(b) of the Petroleum Products Pricing Act 1983 does not cease merely because that paragraph is deleted by this Act.
 155.Interpretation
 In this Division —
-“commencement” means the time at which this Division comes into operation;
-“Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
-“Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+commencement means the time at which this Division comes into operation;
+Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
+Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 and 30-33 had not come into operation. They read as follows:
 “
@@ -225,9 +211,9 @@ Subdivision 1 — Repeal and consequential amendments
 Subdivision 2 — Transitional and savings provisions
 30.Meaning of terms used in this Subdivision
 In this Subdivision —
-“commencement day” means the day on which the repealed Act Part V Division 6 is repealed;
-“former account” means the Declared Plants and Animals Control Fund referred to in the repealed Act section 65;
-“repealed Act” means the Agriculture and Related Resources Protection Act 1976.
+commencement day means the day on which the repealed Act Part V Division 6 is repealed;
+former account means the Declared Plants and Animals Control Fund referred to in the repealed Act section 65;
+repealed Act means the Agriculture and Related Resources Protection Act 1976.
 31.Rates on pastoral leases
 Despite section 27, the repealed Act Part V Division 6, as in force immediately before the commencement day, continues to apply in relation to a rate payable under that Division for a financial year commencing before the commencement day.
 32.Funds in, or payable to, former account
@@ -238,10 +224,4 @@ and the former account is then to be closed.
 (2) The Declared Pest Account established under the BAM Act is to be credited with any money that became payable to the former account before the commencement day and that is paid after that day.
 33.Reference to former account
 If in an agreement, instrument or other document there is a reference to the former account, that reference is, unless the context otherwise requires, to be read and have effect on and after the commencement day as if it were a reference to the Declared Pest Account established under the BAM Act.
-”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
