@@ -53,8 +53,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The “appointed day” was 13 Dec 1997 (see Gazette 7 Nov 1997 p. 6136).
@@ -83,19 +81,7 @@ Members of a superannuation scheme continued by section 29(c) or (d) of the Stat
 ”.
 ”.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 25 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-25.Hospitals and Health Services Act 1927
-s. 26H(1) | Delete “Local Court” and insert instead — “ Magistrates Court ”.
-s. 26H(2) | Delete “clerk of the Local Court” and insert instead — “ Magistrates Court ”.
-”.
-The amendments it seeks to make cannot be done due to amendments made by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 517.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 25 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
 “
 Division 13 — Transitional provisions
@@ -105,12 +91,6 @@ Division 13 — Transitional provisions
 “CEO” has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
 “commencement” means the time at which this Division comes into operation;
 “Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
-”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
 On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 16, had not come into operation. It reads as follows:
 “
