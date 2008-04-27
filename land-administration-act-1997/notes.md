@@ -19,7 +19,7 @@ Compilation table
 Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | 1 Dec 2006 (see s. 2 and Gazette 8 Aug 2006 p. 2899)
  | Statutes (Repeals and Minor Amendments) Act 2003 s. 72 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
  | Acts Amendment (Reserves and Reserve Boards) Act 2003 Pt. 2 | 76 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
- | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+ | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
  | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 67 Subdiv. 1 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
  | Reprint 2: The Land Administration Act 1997 as at 24 Jun 2005 (includes amendments listed above)
@@ -40,10 +40,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
-Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 (as amended by No. 2 of 2008 s. 75(4)) | 9 Nov 2004 | To be proclaimed (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(2))
-Criminal Law and Evidence Amendment Act 2008 s. 75(4) and 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 “
 4.Section 6A inserted
@@ -377,37 +374,10 @@ The State Administrative Tribunal Regulations 2004 r. 33 reads as follows:
 (b) the matter is to continue to be dealt with as if the written law applicable to the matter in force immediately before the commencement day continued to apply.
 ”.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Acts Amendment (Court of Appeal) Act 2004 s. 37, which gives effect to Sch. 1, had not come into operation. It reads as follows:
-“
-37.Various Acts amended
-Each Act listed in Schedule 1 is amended as set out in that Schedule.
-”.
-Schedule 1 Div. 2 cl. 22 reads as follows:
-“
-Schedule 1 — Minor amendments to various Acts
-[s. 37]
-Division 2 — Amendments that may be affected by impending legislation
-22.Land Administration Act 1997
-s. 237(2) | Delete “Full Court” and insert instead — “ Court of Appeal ”.
-”.
-The amendment to s. 237(2) in the Acts Amendment (Court of Appeal) Act 2004 s. 37 would not be included because the section it seeks to amend was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 560.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 26 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-26.Land Administration Act 1997
-s. 224(6)(a) | Delete “Local Court” and insert instead — “ Magistrates Court at the place ”.
-s. 224(6)(b) | Delete “Local Court” and insert instead — “ Magistrates Court ”.
-s. 226(2) | Repeal the subsection and insert instead — “ (2)If the amount does not exceed the jurisdiction of the Magistrates Court, a magistrate of that court is to be the president. ”.
-s. 226(3) | Delete “a Local Court” and insert instead — “ the Magistrates Court ”.
-s. 231(c) | Delete the paragraph and insert instead — “ (c)in the case of a magistrate, by some other magistrate of the Magistrates Court; or ”.
-s. 237(3) | Delete “stipendiary”.
-”.
-The amendments to s. 224(6), 226(2) and (3), 231(c) and 237(3) in the Courts Legislation Amendment and Repeal Act 2004 s. 142 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 67.
+The Acts Amendment (Court of Appeal) Act 2004 Sch. 1 cl. 22 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 75(4).
+Footnote no longer applicable.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 26 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 had not come into operation. It reads as follows:
 “
 90.Land Administration Act 1997 amended
@@ -422,13 +392,4 @@ declared pests on the land under the lease in compliance with the Biosecurity an
 “
 (a) the Biosecurity and Agriculture Management Act 2007;
 ”.
-”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 75(4) and 77(13) had not come into operation. They read as follows:
-“
-75.Acts Amendment (Court of Appeal) Act 2004 amended
-(1) The amendments in this section are to the Acts Amendment (Court of Appeal) Act 2004.
-(4) Schedule 1 clauses 22 and 23 are repealed.
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
