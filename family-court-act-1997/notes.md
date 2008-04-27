@@ -13,21 +13,20 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 126 | 65 of 20
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
-Courts Legislation Amendment and Repeal Act 2004 Pt. 12 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Courts Legislation Amendment and Repeal Act 2004 Pt. 12 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(2)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 7 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2(2) and Gazette 21 Mar 2006 p. 1078)
 Reprint 2: The Family Court Act 1997 as at 14 Apr 2006 (includes amendments listed above)
 Family Legislation Amendment Act 2006 Pt. 2 and 3 9-11 | 35 of 2006 | 4 Jul 2006 | Pt. 2: 14 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559); Pt. 3: 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 Reprint 3: The Family Court Act 1997 as at 20 Oct 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 43(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Family Legislation Amendment Act 2006 Pt. 4 | 35 of 2006 | 4 Jul 2006 | To be proclaimed (see s. 2)
-Criminal Law and Evidence Amendment Act 2008 s. 77(2) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938was repealed by the State Superannuation Act 2000 s. 39. Certain provisions of that Act continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 43(2) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 43(2) had not come into operation. It reads as follows:
 “
 (2) Section 17 of the Family Court Act 1997 is repealed.
 ”.
@@ -55,7 +54,7 @@ The Acts Amendment (Equality of Status) Act 2003 s. 50(2) and (3) read as follow
 (b) the rights and liabilities of all persons are and have always been the same as they would have been,
 if subsection (1) had come into operation on the day on which the Family Court Amendment Act 2002 came into operation.
 ”.
-The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 95 to amend s. 243(6) is not included because the section it sought to amend had been repealed by the Criminal Code Amendment Act 2004 s. 58 before the amendment purported to come into operation.
+The Courts Legislation Amendment and Repeal Act 2004 s. 95 (to amend s. 243(6)) was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(2).
 The Family Legislation Amendment Act 2006 s. 21, 30, 35, 41, 48, 51, 57, 61, 68(3), 70(3), 77(3), 99, 103 and 107 read as follows:
 “
 21.Transitional provision
@@ -183,7 +182,7 @@ then —
 (a) apply to orders made after commencement; and
 (b) do not apply to orders made before commencement.
 ”.
-On the date as at which this reprint was prepared, the Family Legislation Amendment Act 2006 Pt. 4 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Family Legislation Amendment Act 2006 Pt. 4 had not come into operation. It reads as follows:
 “
 Part 4 — Amendments about the interaction between family law and bankruptcy law
 178.Section 5 amended
@@ -586,10 +585,4 @@ After section 235A(3) the following subsections are inserted —
 and
 (b) does not apply in relation to bankruptcies for which the date of the bankruptcy is before the commencement.
 (3) The relevant provisions apply to proceedings instituted after the commencement, whether the date of the bankruptcy is before, on or after the commencement.
-”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(2) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004*.
-(2) Section 95 is amended in the Table to the section, in the row beginning with “s. 43(7)” by deleting “s. 243(6)”.
 ”.
