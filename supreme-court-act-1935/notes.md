@@ -70,8 +70,8 @@ Acts Amendment (Equality of Status) Act 2003 s. 127 and Pt. 57 | 28 of 2003 | 22
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 69, 119 and 130 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 144(3) | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
-Acts Amendment (Court of Appeal) Act 2004 Pt. 2 | 45 of 2004 | 9 Nov 2004 | Pt. 2 other than s. 14, 20(c) and (d) and Pt. 5: 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163); s. 20(c) and (d): 2 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
-Courts Legislation Amendment and Repeal Act 2004 Pt. 18 | 59 of 2004 (as amended by No. 5 of 2008 s. 24) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Acts Amendment (Court of Appeal) Act 2004 Pt. 2 | 45 of 2004 (as amended by No. 2 of 2008 s. 75(2)) | 9 Nov 2004 | Pt. 2 other than s. 14, 20(c) and (d) and Pt. 5: 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163); s. 20(c) and (d): 2 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
+Courts Legislation Amendment and Repeal Act 2004 Pt. 18 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(5); No. 5 of 2008 s. 24) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 14 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 7: The Supreme Court Act 1935 as at 19 Aug 2005 (includes amendments listed above)
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 8 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
@@ -82,8 +82,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Acts Amendment (Court of Appeal) Act 2004 s. 14 | 45 of 2004 (as amended by No. 2 of 2008 s. 75(2) and 77(5)) | 9 Nov 2004 | To be proclaimed (see s. 2)
-Criminal Law and Evidence Amendment Act 2008 s. 75(2) and 77(5) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 Pt. 23 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Bail Amendment Act 2008 s. 46 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984 s. 77(1).
@@ -189,7 +187,7 @@ Division 2 — General
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State) the rights of that person existing before the day of publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of publication.
 ”.
-The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 128 to s. 20 could not be made because s. 20 had been replaced by the Acts Amendment (Court of Appeal) Act 2004 s. 15.
+The Courts Legislation Amendment and Repeal Act 2004 s. 128 (to amend s. 20) was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(5).
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 had not come into operation. It reads as follows:
 “
 68.Supreme Court Act 1935 amended
@@ -200,28 +198,13 @@ Section 11B of the Supreme Court Act 1935 is amended as follows:
 ”;
 (b) by repealing subsection (3a).
 ”.
-On the date as at which this compilation was prepared the Acts Amendment (Court of Appeal) Act 2004 s. 14 had not come into operation. It reads as follows:
-“
-14.Section 13 amended
-Section 13 is amended by deleting “be a Judge, an acting Judge, an auxiliary Judge, a Master, an acting Master, or a commissioner, of the Court,” and inserting instead —
-“
-an office referred to in section 6(3) or to the office of judge of appeal, Chief Justice or President,
-”.
-”.
+The Acts Amendment (Court of Appeal) Act 2004 s. 14 repealed by the Criminal Law and Evidence Amendment Act 2008 s. 75(2).
 The Limitation Legislation Amendment and Repeal Act 2005 s. 18(2) reads as follows:
 “
 18.Section 29 repealed and a savings provision
 (2) The Supreme Court Act 1935 section 29, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
 ”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 75(2) and 77(5) had not come into operation. They read as follows:
-“
-75.Acts Amendment (Court of Appeal) Act 2004 amended
-(1) The amendments in this section are to the Acts Amendment (Court of Appeal) Act 2004.
-(2) Section 14 is repealed.
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(5) Section 128 is amended in the Table to the section by deleting the row relating to “s. 20”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 23 had not come into operation. It reads as follows:
 “
 Part 23 — Supreme Court Act 1935 amended
