@@ -18,17 +18,12 @@ Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 29 | 10 of 1998 | 30
 Western Australian Greyhound Racing Association Amendment Act 1998 s. 20 | 23 of 1998 | 30 Jun 1998 | 1 Aug 1998 (see s. 3 and Gazette 21 Jul 1998 p. 3825)
 Reprint of the Dog Act 1976 as at 9 Nov 2001 (includes amendments listed above)
 Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 220 | 35 of 2003 | 26 Jun 2003 | 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 38 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 5: The Dog Act 1976 as at 4 Aug 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 132 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Footnote no longer applicable.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 “
@@ -44,26 +39,4 @@ The State Administrative Tribunal Regulations 2004 r. 47 reads as follows:
 (1) If a notice has been given under the Dog Act 1976 section 33F(1) before the commencement day, on or after the commencement day the notice is to be taken to refer to the right to apply to the State Administrative Tribunal for a review.
 (2) If a notice has been given under the Dog Act 1976 section 33G(2) before the commencement day, on or after the commencement day the notice is to be taken to refer to the right to apply to the State Administrative Tribunal for a review.
 ”.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 15 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-15.Dog Act 1976
-s. 16A(3) | Delete “Local Court” and insert instead — “ Magistrates Court at the place ”.
-s. 17(1) s. 27(7) s. 33I(2)(a) | In each provision, delete “Local Court held” wherever it occurs and in each place insert instead — “ Magistrates Court at the place ”.
-s. 17(2) s. 17(3) s. 17(3a) s. 17(5) s. 33G(6) s. 33I(3) s. 33J | In each provision, delete “the Local Court” wherever it occurs and in each place insert instead — “ the Magistrates Court ”.
-s. 33F(2) s. 33F(6) s. 33G(2) s. 33G(3) s. 33G(4) s. 33H(5) s. 33I(1) s. 33I(2) s. 33I(3) s. 33L(1) | In each provision delete “a Local Court” wherever it occurs and in each place insert instead — “ the Magistrates Court ”.
-s. 33I(2)(b) | Delete “that Local Court” and insert instead — “ the Magistrates Court ”.
-s. 36(3) | Delete “nearest Local Court and the dog shall be detained until that Local Court” and insert instead — “ Magistrates Court at the place in or nearest to the local government district and the dog shall be detained until that court ”.
-”.
-The amendments sought to be made in the Courts Legislation Amendment and Repeal Act 2004 s. 142 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 38.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
-”.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 15 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
