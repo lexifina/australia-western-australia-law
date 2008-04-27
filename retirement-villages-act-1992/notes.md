@@ -24,8 +24,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 60(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 37 reads as follows:
 “
@@ -42,20 +40,7 @@ On the date as at which this compilation was prepared, the State Superannuation 
 (2) Section 25(1)(g)(i) of the Retirement Villages Act 1992 is amended by deleting “, and in particular his or her rights, if any, under the Superannuation and Family Benefits Act 1938”.
 ”.
 The section that it seeks to amend has been repealed.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 45 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-45.Retirement Villages Act 1992
-s. 37(2) | Delete “a Local Court” and insert instead — “ the Magistrates Court ”.
-s. 72(1)(a) | Delete “by a local court under Part VI of the Local Courts Act 1904;” and insert instead — “ made by the Magistrates Court under the Magistrates Court (Civil Proceedings) Act 2004; ”.
-s. 72(1)(b) | Delete “a local court in its jurisdiction under Part III of the Local Courts Act 1904.” and insert instead — “ the Magistrates Court. ”.
-”.
-The sections that it seeks to amend have been repealed.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 45 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
 Division 23 — Transitional provisions
@@ -96,13 +81,7 @@ Each office in existence immediately before commencement because of section 15(1
 Each office in existence immediately before commencement because of section 5(2)(b) of the Petroleum Products Pricing Act 1983 does not cease merely because that paragraph is deleted by this Act.
 155.Interpretation
 In this Division —
-“commencement” means the time at which this Division comes into operation;
-“Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
-“Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
-”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
+commencement means the time at which this Division comes into operation;
+Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
+Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
