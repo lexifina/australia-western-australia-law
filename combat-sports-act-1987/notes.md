@@ -17,8 +17,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Sentencing Legislation Amendment and Repeal Act 2003 s. 40(3) | 50 of 2003 | 9 Jul 2003 | To be proclaimed (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Professional Combat Sports Act 1987; short title changed (see note under s. 1).
 The Boxing Control Amendment Act 2003 s. 10(2) reads as follows:
@@ -39,22 +37,4 @@ As at the date on which this compilation was prepared, the Sentencing Legislatio
 (3) Section 38 is amended by deleting the penalty clause and inserting the following penalty clause instead —
 “ Penalty: $1 000. ”.
 ”.
-As at the date on which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 7 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-7. Boxing Control Act 1987
-s. 34(1) | Delete “Local Court in accordance with the rules of the Local Court.” and insert instead — “ Magistrates Court in accordance with the court’s rules of court. ”.
-s. 34(3) | Repeal the subsection and insert instead — “ (3)An appeal under this section shall be brought and the proceedings shall be conducted in the manner prescribed by the Magistrates Court’s rules of court, or in the absence of rules on the matter, in the manner directed by the court. ”.
-s. 34(4) s. 34(5) | In each provision, delete “Local Court” and insert instead — “ Magistrates Court ”
-”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
-”.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 7 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
