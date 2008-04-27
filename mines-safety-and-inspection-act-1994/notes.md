@@ -21,12 +21,8 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 3: The Mines Safety and Inspection Act 1994 as at 10 Jun 2005 (includes amendments listed above, except those in the Dangerous Goods Safety Act 2004 s. 70)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Mines Safety and Inspection Amendment Act 2008 | 16 of 2008 | 16 Apr 2008 | s. 1 and 2: 16 Apr 2008 (see s. 2(a)); Act other than s. 1 and 2: 17 Apr 2008 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Criminal Law and Evidence Amendment Act 2008 s. 77(10) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The amendment in the Coroners Act 1996 s. 61 is not included because of an error in the reference to the provision to be amended.
-The amendment in the Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 100 is not included because the section it sought to amend had been amended by the Mines Safety and Inspection Amendment Act 2004 s. 76.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 100 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(10).
 The Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 115(7) reads as follows:
 “
 115.Mines Safety and Inspection Act 1994 amended and saving provision
@@ -74,10 +70,4 @@ The Mines Safety and Inspection Amendment Act 2004 s. 85(2) reads as follows:
 The Mines Safety and Inspection Amendment Act 2004 s. 86(2) reads as follows:
 “
 (2) An appeal brought under section 86 of the Mines Safety and Inspection Act 1994 but not finally determined before the commencement of subsection (1), may be dealt with and determined under that section as if subsection (1) had not been enacted.
-”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(10) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(10) Schedule 1 clause 100 is repealed.
 ”.
