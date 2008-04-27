@@ -15,9 +15,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 63 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Now known as the Agricultural Produce Commission Act 1988; short title changed (see note under s. 1).
 The Horticultural Produce Commission Amendment Act 2000 s. 32 and 34 read as follows:
 “
@@ -31,18 +29,7 @@ The Horticultural Produce Commission Amendment Act 2000 s. 32 and 34 read as fol
 (b) the name of the committee is deemed to have “Producers’” substituted for “Growers’”.
 (3) If the procedure for establishing a growers’ committee under the Horticultural Produce Commission Act 1988 has been initiated but has not been completed before the commencement of this Act, that procedure may continue to be followed and be completed after the commencement of this Act as if this Act had not come into operation but if a committee is established under that procedure it is established as a producers’ committee with a name containing “Producers’” instead of “Growers’”.
 ”.
-On the date as at which this compilation was prepared, the Courts Legislatoin Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 3 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-3.Agricultural Produce Commission Act 1988
-s. 16(2) | Delete “a Local Court and the Local Court” and insert instead — “ the Magistrates Court which ”.
-s. 16(3) | Delete “Local Court” and insert instead — “ Magistrates Court ”.
-”.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 3 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 63 had not come into operation. It reads as follows:
 “
@@ -58,13 +45,7 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 (3) The notice must specify the purpose for which the entry is required and successive entries for that purpose are to be regarded as entries to which the notice relates.
 (4) The notice must be given not less than 24 hours before the power of entry is exercised.
 (5) In subsection (1) —
-“orchard” means any land used for the purpose of growing or cultivating plants, and includes any garden, farm, vinery, vineyard, and hothouse, any place where any plant is cultivated or where any plant which has been cultivated is growing;
-“specified area” means the portion of the State specified in a notice under section 11(1)(a)(ii) in relation to which the producers’ committee is established.
+orchard means any land used for the purpose of growing or cultivating plants, and includes any garden, farm, vinery, vineyard, and hothouse, any place where any plant is cultivated or where any plant which has been cultivated is growing;
+specified area means the portion of the State specified in a notice under section 11(1)(a)(ii) in relation to which the producers’ committee is established.
 ”.
-”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
