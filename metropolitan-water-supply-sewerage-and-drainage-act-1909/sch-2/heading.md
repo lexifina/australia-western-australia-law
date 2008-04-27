@@ -6,5 +6,5 @@ Possession has been taken of this land, being allotment No. of section [or porti
 Water Corporation
 . . . . . . . . . . . . . . . 20 . . .
 [Ninth Schedule amended by No. 39 of 1963 s. 155; No. 37 of 1982 s. 60; No. 25 of 1985 s. 82; No. 73 of 1995 s. 107.]
-[Tenth-Twelfth Schedules repealed by No. 59 of 2004 s. 141.]
+[Tenth-Twelfth Schedules deleted by No. 59 of 2004 s. 141.]
 [Thirteenth Schedule deleted by No. 39 of 1963 s. 159.]
