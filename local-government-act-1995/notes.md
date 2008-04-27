@@ -26,7 +26,7 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 79 | 74 of 2003 | 15 Dec 200
 Reprint 2: The Local Government Act 1995 as at 2 Apr 2004 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001) (correction in Gazette 1 Oct 2004 p. 4283)
 Workers’ Compensation Reform Act 2004 s. 165 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
 Local Government Amendment Act 2004 s. 4-15, 16(4), 17, 18, 19(1), 21-37, 38(1) and (2) and 39-74 16-19 | 49 of 2004 | 12 Nov 2004 | s. 17, 30-37, 38(1) and (2) and 39-41: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); s. 10-15, 18, 21, 22, 42, 46(3), 47, 48, 53, 55-58, 61-64, 67, 68, 70, 71, 73 and 74: 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029); s. 4-9, 16(4), 19(1), 23-29, 43-45, 46(1), (2) and (4), 49-52, 54, 65, 66, 69 and 72: 7 May 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029 and 29 Apr 2005 p. 1771); Proclamation published 31 Mar 2005 p. 1029 revoked to the extent that the proclamation applies to s. 16(1), (2), (3) and (5) and s. 19(2) (see Gazette 29 Apr 2005 p. 1771); s. 59 and 60: 1 Jul 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
  | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 76 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 11 and s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
  | Reprint 3: The Local Government Act 1995 as at 5 Aug 2005 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001)
@@ -43,10 +43,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2004 s. 16(1)-(3) and (5), 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 | 11 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2)
 Petroleum Amendment Act 2007 s. 99 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under s. 7(4)(e) of the Reprints Act 1984. Schedule 9.2 cl. 4 reads as follows:
 “
@@ -299,22 +297,8 @@ or if, within that time, the member advises the CEO in writing that the member a
 and is not the holder of an office of member of a council other than an office the term of which will end on, or before, election day
 ”.
 ”.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 28 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-28.Local Government Act 1995
-s. 2.27(6) s. 2.27(7) | In each provision, delete “a court of summary jurisdiction” and insert instead — “ the Magistrates Court ”.
-s. 2.27(8) | Repeal the subsection and insert instead — “ (8)An application to the Magistrates Court under this section is to be made in accordance with that court’s rules of court and is to be heard and determined by the court constituted by a magistrate. ”.
-s. 7.13(d)(iii) | Delete “Local Court” and insert instead — “ Magistrates Court ”.
-s. 9.8(1) s. 9.8(4) | In each provision delete “a Local Court” and insert instead — “ the Magistrates Court ”.
-s. 9.8(3) | Delete “A Local Court” and insert instead — “ The Magistrates Court ”.
-”.
-The amendments it seeks to make cannot be done due to amendments and repeals made by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 685, 700 and 705.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 28 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 had not come into operation. It reads as follows:
 “
 13.Consequential amendment to the Local Government Act 1995 and transitional provision
@@ -355,13 +339,7 @@ permit, drilling reservation, lease or licence held under the Petroleum and Geot
 (5) Section 6.29(2) is amended by deleting “licence or permit” and inserting instead —
 “ permit, drilling reservation, lease or licence ”.
 ”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
-”.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 21, had not come into operation. It reads as follows:
+wOn the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 21, had not come into operation. It reads as follows:
 “
 52.Various Acts amended
 Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
