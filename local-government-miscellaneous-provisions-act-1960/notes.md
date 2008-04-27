@@ -118,9 +118,9 @@ Reprint of the Local Government (Miscellaneous Provisions) Act 1960 as at 28 Jul
 Statutes (Repeals and Minor Amendments) Act 2000 s. 23 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
 Home Building Contracts Amendment Act 2002 s. 21 | 37 of 2002 | 20 Nov 2002 | 20 Nov 2002 (see s. 2)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 77 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 (other than the amendment to s. 430(2)(a)) | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(9)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 75 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(2)(d)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 7: The Local Government (Miscellaneous Provisions) Act 1960 as at 16 Sep 2005 (includes amendments listed above)
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 14 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
@@ -131,10 +131,8 @@ Local Government (Miscellaneous Provisions) Amendment (Smoke Alarms) Act 2007 | 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | s. 141 cl. 94, amendment to s. 430(2)(a): to be proclaimed (see s. 2)
 Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 5-12 | 11 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Criminal Law and Evidence Amendment Act 2008 s. 77(9) and 78(2)(d) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Act No. 90 of 1964 was passed as the Local Government Act Amendment Act (No. 2) 1964, but was proclaimed to come into operation as the Local Government Act Amendment Act 1964.
 Repealed by the Stock (Brands and Movement) Act 1970, which is now known as the Stock (Identification and Movement) Act 1970.
 Repealed by the Auction Sales Act 1973 s. 3(1).
@@ -303,19 +301,9 @@ The State Administrative Tribunal Regulations 2004 r. 34 and 55 read as follows:
 “commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 section 683 comes into operation;
 (2) If a local law made under the Local Government (Miscellaneous Provisions) Act 1960 section 433 and the Local Government Act 1995 is expressed as conferring on a person a right to appeal under the Local Government (Miscellaneous Provisions) Act 1960 Part XV Division 19 against a decision, that local law is to be taken to give a right on or after the commencement day to apply to the State Administrative Tribunal for a review of that decision.
 ”.
-The amendments in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 are not included because the subsection it sought to amend was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 662.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 141, which gives effect to Sch. 1 (the amendment to s. 430(2)(a)) had not come into operation. It reads as follows:
-“
-141.Various Acts amended
-Each Act listed in Schedule 1 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 1 cl. 94 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-94.Local Government (Miscellaneous Provisions) Act 1960
-s. 430(2)(a) | Delete the paragraph and “and” after it and insert instead — “ (a)may by leave of the Supreme Court be enforced in that court as if the award were a monetary judgment (within the meaning of section 3 of the Civil Judgments Enforcement Act 2004) of that court; and ”.
-”.
-The amendment to s. 430(2)(a) in the Local Government (Miscellaneous Provisions) Act 1960 Sch. 1 cl. 94 would not be included because the section it seeks to amend was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 683.
+The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent it amends this Act, was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(d).
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 94 (to amend s. 430(2)(a)) was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(9).
+Footnote no longer applicable.
 The Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 14(3) and (4) read as follows:
 “
 (3) Despite the repeal of section 295 of the Local Government (Miscellaneous Provisions) Act 1960, section 295(4) and (4a) of that Act continue to apply in relation to the disposal of land where the subdivision of the land was approved before the coming into operation of this section.
@@ -492,15 +480,4 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 “
 label it with an identifier in accordance with the Biosecurity and Agriculture Management Act 2007.
 ”.
-”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(9) and 78(2)(d) had not come into operation. They read as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(9) Schedule 1 clause 94 is amended by deleting the row relating to “s. 430(2)(a)”.
-”.
-78.Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 amended
-(1) The amendments in this section are to the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004.
-(2) Section 82 is amended in Table 2 as follows:
-(d) by deleting the row relating to the Local Government (Miscellaneous Provisions) Act 1960;
 ”.
