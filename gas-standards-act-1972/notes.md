@@ -12,47 +12,14 @@ Gas Corporation (Business Disposal) Act 1999 s. 66, 84, 98 and 99 | 58 of 1999 |
 Reprint of the Gas Standards Act 1972 as at 7 Jul 2000 (includes amendments listed above except those in the Gas Corporation (Business Disposal) Act 1999 s. 98 and 99)
 Energy Legislation Amendment Act 2003 Pt. 3 Div. 10 | 53 of 2003 | 8 Oct 2003 | 8 Oct 2003 (see s. 2(1))
 Statutes (Repeals and Minor Amendments) Act 2003 s. 10(5) and 60 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 54 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 3: The Gas Standards Act 1972 as at 7 Jul 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Gas and Electricity Safety Legislation Amendment Act 2007 Pt. 4 | 5 of 2007 | 18 Apr 2007 | 1 Dec 2007 (see s. 2 and Gazette 30 Nov 2007 p. 5927)
 Petroleum Amendment Act 2007 s. 95 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | To be proclaimed (see s. 2)
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) and 78(2)(a) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The provision in this Act repealing that Act has been omitted from this compilation under the Reprints Act 1984 s. 7(4)(f).
 The “appointed day” is 1 Sep 1986 (see Gazette 27 Jun 1986 p. 2202).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, to the extent that it gives effect to Sch. 2 cl. 21, had not come into operation. It has not been, and will not be, proclaimed as the provisions to be amended by cl. 21 (being s. 13B(6)-(8) of this Act) were repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004.
-On the date as at which this compilation was prepared, the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent that it amends this Act, had not come into operation. It reads as follows:
-“
-82.References to “defendant” changed to “accused”
-Each provision listed in Table 2, 3 or 4 to this section is amended by deleting any expression listed in Table 1 column 1 in each place it occurs (whether in ordinary type, italics, bold or capitals) and in each place inserting instead (in corresponding type) the expression opposite the deleted expression in Table 1 column 2.
-Table 1
-Delete | Insert instead
-A defendant | An accused
-a defendant | an accused
-a defendant’s | an accused’s
-defendant | accused
-defendants | accused
-Defendants’ | Accused’s
-Defendants | Accused
-the defendant | the accused
-the defendant’s | the accused’s
-Table 2 — Various provisions
-Gas Standards Act 1972 | s. 13(2)
-”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) and 78(2)(a) had not come into operation. They read as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
-78.Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 amended
-(1) The amendments in this section are to the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004.
-(2) Section 82 is amended in Table 2 as follows:
-(a) by deleting the row relating to the Gas Standards Act 1972;
-”.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 21 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent that it amends this Act, was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(a).
