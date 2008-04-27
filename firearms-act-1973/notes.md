@@ -25,7 +25,7 @@ Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 20
 Acts Amendment (Equality of Status) Act 2003 Pt. 21 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 62 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 49 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Firearms Amendment Act 2004 | 69 of 2004 | 8 Dec 2004 | s. 13 and 21: 8 Dec 2004 (see s. 2(3)); Act other than s. 13, 17, 21, 22(4)(a) and 26: 1 Jan 2005 (see s. 2 and Gazette 24 Dec 2004 p. 6265); s. 17: 1 Feb 2005 (see s. 2 and Gazette 24 Dec 2004 p. 6265)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
@@ -37,9 +37,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 37 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Security and Related Activities (Control) Amendment Act 2008 s. 81 | 4 of 2008 | 2 Apr 2008 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
@@ -57,25 +55,8 @@ The Firearms Amendment Act 2004 s. 15(3) reads as follows:
 (3) The amendments made by this section do not affect the validity of a licence or permit that a person already holds under the Firearms Act 1973 on the day on which this section comes into operation, but on or after that day the grant, issue, or renewal of a licence or permit has to be in accordance with that Act as amended by this section.
 ”.
 The amendments in the Firearms Amendment Act 2004 s. 22(4)(a) and 26 have not been proclaimed and will not be because the amendments they propose cannot operate due to the amendments made by the Criminal Code Amendment Act 2004 s. 58.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 19 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-19.Firearms Act 1973
-s. 22(1) | Delete the definition of “magistrate”. Delete the semi colon after the definition of “firearms appeal tribunal” and insert a full stop instead.
-s. 22(3) | Delete “a magistrate” and insert instead — “ the Magistrates Court ”.
-After s. 22(6) | Insert the following subsection — “ (6a)If an appeal is made to the Magistrates Court the court shall be constituted by a magistrate. ”.
-s. 22(7) | Delete “A magistrate” and insert instead — “ The Magistrates Court ”. Delete “whom or”.
-s. 22(8) | Delete “the magistrate” and insert instead — “ the Magistrates Court ”.
-s. 22(9) | Repeal the subsection and insert instead — “ (9)In determining an appeal the Magistrates Court may make any other order, including an order as to costs, that the court thinks fit. ”.
-Schedule 3 cl. 1 | Delete the definition of “CSM” and insert instead — “ “Chief Magistrate” means the Chief Magistrate of the Magistrates Court; ”.
-Schedule 3 | Delete “CSM” wherever it occurs and insert instead — “ Chief Magistrate ”.
-”.
-The sections that it seeks to amend have been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 369 and 371.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 19 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 37 had not come into operation. It reads as follows:
 “
 37.Firearms Act 1973 amended
@@ -110,12 +91,6 @@ birds that are declared pests under the Biosecurity and Agriculture Management A
 (c) in the definition of “silencer” by deleting the semicolon and inserting instead a full stop;
 (d) by deleting the definition of “subsection”;
 (e) by deleting the definition of “the Board”.
-”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
 On the date as at which this compilation was prepared, the Security and Related Activities (Control) Amendment Act 2008 s. 81 had not come into operation. It reads as follows:
 “
