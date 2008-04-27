@@ -113,7 +113,7 @@ Road Traffic Amendment Act 2004 | 6 of 2004 | 10 Jun 2004 | 10 Jun 2004 (see s. 
 Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2004 | 10 of 2004 | 23 Jun 2004 | 4 Sep 2004 (see s. 2 and Gazette 3 Sep 2004 p. 3849)
 Reprint 8: The Road Traffic Act 1974 as at 16 Jul 2004 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001 and the Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2004)
 Road Traffic Amendment (Dangerous Driving) Act 2004 | 44 of 2004 | 9 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7132)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 115 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
@@ -133,10 +133,8 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Amendment Act (No. 2) 1987 s. 11(b) | 121 of 1987 (as amended by No. 84 of 2004 s. 80 (cl. 123)) | 24 Dec 1987 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act 1996 s. 8(3) | 76 of 1996 (as amended by No. 54 of 2006 s. 43) | 14 Nov 1996 | To be proclaimed (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act 2006 Pt. 2 (other than s. 19 and 27), 3 and 4 Div. 3 and 4 | 54 of 2006 | 26 Oct 2006 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act (No. 2) 2007 Pt.2 (s. 17, 18 and 25 and Div. 4 and 5) | 39 of 2007 | 21 Dec 2007 | Pt. 2 s. 17, 18 & 25 and Pt. 2 Div. 4 & 5 (other than s. 38): to be proclaimed (see s. 2(d)-(h)); Pt. 2 s. 38: operative when the rest of Pt. 2 Div. 5 comes into operation (see s. 2(i))
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 s. 131 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Repealed by the Interpretation Act 1984.
@@ -302,22 +300,8 @@ The Road Traffic Amendment (Dangerous Driving) Act 2004 s. 12 reads as follows:
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 46 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-46.Road Traffic Act 1974
-s. 25(1) | Delete “a court of petty sessions” and insert instead — “ the Magistrates Court ”.
-s. 48(4) | Delete “apply, by way of a complaint, to a court of petty sessions” and insert instead — “ apply to the Magistrates Court ”.
-s. 48(5) | Delete “stipendiary”.
-s. 48(6)(a) | Delete “apply by way of a complaint to a court of petty sessions constituted by a stipendiary magistrate” and insert instead — “ apply to the Magistrates Court ”.
-s. 48(6)(b) | After “court” insert — “ , which shall be constituted by a magistrate, ”.
-”.
-The amendments to section 25(1) and 48(4)-(6) by the Courts Legislation Amendment and Repeal Act 2004 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1062 and 1063.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 46 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+Footnote no longer applicable.
 The Taxation Administration (Consequential Provisions) Act 2002 s. 30 & 32 will not come into operation (see s. 2(2))
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Road Traffic Amendment Act 2006 Pt. 2 (other than s. 19 and 27), 3 and 4 Div. 3 and 4 had not come into operation. They read as follows:
@@ -1207,12 +1191,7 @@ Section 71B(1) is amended by inserting after “64A” —
 Section 98(1a) is amended by deleting “64A” and inserting instead —
 “ 64A(1) or 64AAA ”.
 ”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 s. 131 had not come into operation. It reads as follows:
 “
 131.Road Traffic Act 1974 amended
