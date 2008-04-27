@@ -45,13 +45,13 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 Reprint 5: The Sentencing Act 1995 as at 6 Jul 2007 (includes amendments listed above)
 Water Resources Legislation Amendment Act 2007 s. 199 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Fines Legislation Amendment Act 2008 Pt.3 | 3 of 2008 | 12 Mar 2008 | 28 Mar 2008 (see s. 2(c) and Gazette 27 Mar 2008 p. 899)
+Criminal Law and Evidence Amendment Act 2008 s. 70 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Criminal Property) Act 2004 Pt. 3 | 26 of 2004 | 7 Oct 2004 | To be proclaimed (see s. 2(2))
 Parole and Sentencing Legislation Amendment Act 2006 s. 71 | 41 of 2006 | 22 Sep 2006 | Operative on commencement of Act No. 26 of 2004 Pt. 3 (see s. 2(3))
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Criminal Law and Evidence Amendment Act 2008 s. 70 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 Pt. 20 and 21 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
@@ -233,15 +233,7 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 (1) The amendment in this section is to the Sentencing Act 1995.
 (2) Schedule 1 is amended by deleting the item relating to the Cattle Industry Compensation Act 1965.
 ”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 70 had not come into operation. It reads as follows:
-“
-70.Sentencing Act 1995 amended
-(1) The amendment in this section is to the Sentencing Act 1995.
-(2) After section 40(5) the following subsection is inserted —
-“
-(5a) Except where a statutory penalty is expressly provided for a body corporate, a body corporate that is convicted of an offence the statutory penalty for which is or includes a minimum fine is liable to a fine of at least 5 times that minimum fine.
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 20 and 21 had not come into operation. It reads as follows:
 “
 Part 20 — Sentencing Act 1995 amended

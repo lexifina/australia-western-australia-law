@@ -8,10 +8,10 @@ Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Fe
 Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 and Gazette 4 May 2007 p. 1963)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 1: The Criminal Injuries Compensation Act 2003 as at 7 Sep 2007 (includes amendments listed above)
+Criminal Law and Evidence Amendment Act 2008 s. 59 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Criminal Law and Evidence Amendment Act 2008 s. 59 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 Pt. 7 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 The Criminal Injuries Compensation Act 1985 was repealed by s. 73 of this Act.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
@@ -25,13 +25,7 @@ The Criminal Injuries Compensation Amendment Act 2004 s. 10 reads as follows:
 (2) An amount received or recovered as described in section 68 of the Criminal Injuries Compensation Act 2003, on or after 1 January 2004, is deemed to create a debt due under the Criminal Injuries Compensation Act 2003, as amended by this Act.
 (3) A notice given under the Criminal Injuries Compensation Act 1985, on or after 1 January 2004, is deemed to have been given under the Criminal Injuries Compensation Act 2003, as amended by this Act.
 ”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 59 had not come into operation. It reads as follows:
-“
-59.Criminal Injuries Compensation Act 2003 amended
-(1) The amendment in this section is to the Criminal Injuries Compensation Act 2003.
-(2) Section 16(1)(a) is amended by inserting after “it” —
-“ or the prosecution of it is discontinued ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 7 had not come into operation. It reads as follows:
 “
 Part 7 — Criminal Injuries Compensation Act 2003 amended

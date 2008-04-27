@@ -52,11 +52,11 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 9 | 65 of 2006 | 8 Dec
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 5: The Juries Act 1957 as at 8 Jun 2007 (includes amendments listed above except those in the Chiropractors Act 2005 and the Nurses and Midwives Act 2006)
 Police Amendment Act 2008 s. 14 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
+Criminal Law and Evidence Amendment Act 2008 s. 64 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
-Criminal Law and Evidence Amendment Act 2008 s. 64 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 Pt. 14 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Police Amendment Act 2008 s. 23(4) | 8 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(2))
 Repealed by the Interpretation Act 1984.
@@ -79,15 +79,7 @@ On the date as at which this compilation was prepared, the Machinery of Governme
 ”.
 ”.
 The amendment to the Second Schedule, Pt. I it. (2)(i) in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) would not be included because the item it seeks to amend was repealed by the Prisons and Sentencing Legislation Amendment Act 2006 s. 66.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 64 had not come into operation. It reads as follows:
-“
-64.Juries Act 1957 amended
-(1) The amendments in this section are to the Juries Act 1957.
-(2) Section 39 is amended by deleting “section 38.” and inserting instead —
-“ section 104(4) of the Criminal Procedure Act 2004. ”.
-(3) Section 41 is amended by deleting “or when it is considering its verdict, it is to be kept under the charge of an officer of the court” and inserting instead —
-“ , it is to be kept ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 14 had not come into operation. It reads as follows:
 “
 Part 14 — Juries Act 1957 amended

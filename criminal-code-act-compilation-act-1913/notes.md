@@ -133,9 +133,9 @@ Acts Amendment (Family and Domestic Violence) Act 2004 Pt. 4 | 38 of 2004 | 9 No
 Acts Amendment (Court of Appeal) Act 2004 s. 30 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Law Amendment (Sexual Assault and Other Matters) Act 2004 Pt. 2 | 46 of 2004 | 9 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 9 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-Criminal Law Amendment (Simple Offences) Act 2004 Pt. 2 | 70 of 2004 (as amended by No. 24 of 2005 s. 63) | 8 Dec 2004 | Pt. 2 other than s. 37 and 39: 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
-Criminal Code Amendment (Racial Vilification) Act 2004 | 80 of 2004 | 8 Dec 2004 | 8 Dec 2004 (see s. 2)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 5, s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Law Amendment (Simple Offences) Act 2004 Pt. 2 | 70 of 2004 (as amended by No. 24 of 2005 s. 63; No. 2 of 2008 s. 76(2)) | 8 Dec 2004 | Pt. 2 other than s. 37 and 39: 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
+Criminal Code Amendment (Racial Vilification) Act 2004 | 80 of 2004 (as amended by No. 2 of 2008 s. 6(2), 7(2) and 8(2)) | 8 Dec 2004 | 8 Dec 2004 (see s. 2)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 5, s. 80 and 82 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(7)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 12: The Criminal Code Act Compilation Act 1913 as at 1 Jun 2005 (includes amendments listed above)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 11 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Defamation Act 2005 s. 47 | 44 of 2005 | 19 Dec 2005 | 1 Jan 2006 (see s. 2)
@@ -146,10 +146,10 @@ Criminal Investigation (Consequential Provisions) Act 2006 Pt. 5 | 59 of 2006 | 
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Criminal Code Amendment (Drink and Food Spiking) Act 2007 | 31 of 2007 | 21 Dec 2007 | s. 1 and 2: 21 Dec 2007 (see s. 2(a)); Act other than s. 1 and 2: 22 Dec 2007 (see s. 2(b))
 Reprint 13: The Criminal Code Act Compilation Act 1913 as at 18 Jan 2008 (includes amendments listed above)
+Criminal Law and Evidence Amendment Act 2008 Pt. 2 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Criminal Law and Evidence Amendment Act 2008 Pt. 2, s. 76 and 78(7) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 s. 129 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
@@ -169,11 +169,11 @@ The Acts Amendment (Sexual Offences) Act 1992 s. 6(7) and Sch. 1 are transitiona
 The Acts Amendment (Ministry of Justice) Act 1993 s. 68 and 69 are savings and transitional provisions respectively.
 The Sentencing (Consequential Provisions) Act 1995 s. 27 is a transitional provision.
 The Mental Health (Consequential Provisions) Act 1996 s. 20 is a transitional provision.
-The Criminal Law Amendment (Simple Offences) Act 2004 s. 37 cannot be proclaimed. See s. 2(4) and the Criminal Code Amendment (Racial Vilification) Act 2004.
+The Criminal Law Amendment (Simple Offences) Act 2004 s. 37 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 76(2).
 The amendment in the Criminal Law Amendment (Simple Offences) Act 2004 s. 35(4) to The Criminal Code s. 635A(5) is not included because s. 635A was repealed by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 24 before s. 35(4) commenced.
-The amendments in the Criminal Code Amendment (Racial Vilification) Act 2004 s. 7-9 do not have any effect as, before the Act received the Royal Assent, the provisions they would have amended were amended by the Acts Amendment (Family and Domestic Violence) Act 2004 s. 67-69.
+The amendments in the Criminal Code Amendment (Racial Vilification) Act 2004 s. 7-9 were repealed by the Criminal Law and Evidence Amendment Act 2008 s. 6(2), 7(2) and 8(2).
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 to The Criminal Code s. 5(11) is not included because s. 5(11) was amended by the Courts Legislation Amendment and Repeal Act 2004 s. 80 before s. 82 commenced.
-The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 to The Criminal Code s. 133A is not included because s. 133A was amended by s. 28 of that Act.
+The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Sch. 2 cl. 36 to amend s. 133A was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 78(7).
 The amendment in the Nurses and Midwives Act 2006 s. 114 is not included because the section it sought to amend had been repealed by the Criminal Investigation (Consequential Provisions) Act 2006 s. 22 before the amendment purported to come into operation.
 The Criminal Investigation (Consequential Provisions) Act 2006 Pt. 5 Div. 2 reads as follows:
 “
@@ -190,147 +190,7 @@ Division 2 — Transitional provisions
 (6) If immediately before repeal day proceedings under The Criminal Code section 714A in respect of any property are pending in the Magistrates Court, then section 714A operates in respect of the property on and after repeal day despite its repeal on repeal day.
 ”.
 Reprints before Reprint 10 were not numbered. Reprint 10 and subsequent reprints have been numbered consecutively. However, when Reprints 10 to 13 were prepared they were out by one number
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 Pt. 2, s. 76 and 78(7) had not come into operation. They read as follows:
-“
-Part 2 — The Criminal Code amended
-3.The Criminal Code amended in this Part
-The amendments in this Part are to The Criminal Code unless otherwise indicated.
-4.Section 1 amended
-Section 1 is amended by deleting the definition of “circumstance of aggravation”.
-5.Section 297 amended
-(1) Section 297 is amended as follows:
-(a) by inserting before “Any person” the subsection designation “(1)”;
-(b) by inserting before “If the offence is committed in the” the subsection designation “(2)”;
-(c) by inserting before “If the offence is committed in circumstances” the subsection designation “(3)”.
-(2) At the end of section 297 the following subsection is inserted —
-“
-(4) If —
-(a) the victim of the offence is a public officer who is performing a function of his office or employment; or
-(b) the offence is committed against a public officer on account of his being such an officer or his performance of a function of his office or employment; or
-(c) the victim of the offence is the driver or person operating or in charge of —
-(i) a vehicle travelling on a railway; or
-(ii) a ferry; or
-(iii) a passenger vehicle as defined in paragraph (a) of the definition of “passenger vehicle” in section 5(1) of the Road Traffic Act 1974;
-or
-(d) the victim of the offence is —
-(i) an ambulance officer; or
-(ii) a member of a FESA Unit, SES Unit or VMRS Group (within the meaning given to those terms by the Fire and Emergency Services Authority of Western Australia Act 1998); or
-(iii) a member or officer of a private fire brigade or volunteer fire brigade (within the meaning given to those terms by the Fire Brigades Act 1942),
-who is performing his or her duties as such; or
-(e) the victim of the offence is a person who —
-(i) is working in a hospital; or
-(ii) is in the course of providing a health service to the public;
-or
-(f) the victim of the offence is a contract worker (within the meaning given to that term by the Court Security and Custodial Services Act 1999) who is providing court security services or custodial services under that Act; or
-(g) the victim of the offence is a contract worker (within the meaning given to that term by section 15A of the Prisons Act 1981) who is performing functions under Part IIIA of that Act,
-the offender is liable to imprisonment for 14 years.
-”.
-6.Section 313 amended and consequential amendment to Criminal Code Amendment (Racial Vilification) Act 2004
-(1) Section 313(1)(a) is amended by inserting after “aggravation” —
-“ or in circumstances of racial aggravation ”.
-(2) The Criminal Code Amendment (Racial Vilification) Act 2004 section 7 is repealed.
-7.Section 317 amended and consequential amendment to Criminal Code Amendment (Racial Vilification) Act 2004
-(1) Section 317(1)(a) is amended by inserting after “aggravation” —
-“ or in circumstances of racial aggravation ”.
-(2) The Criminal Code Amendment (Racial Vilification) Act 2004 section 8 is repealed.
-8.Section 317A amended and consequential amendment to Criminal Code Amendment (Racial Vilification) Act 2004
-(1) Section 317A is amended as follows:
-(a) in the second paragraph designated “(a)” by inserting after “aggravation” —
-“ or in circumstances of racial aggravation ”;
-(b) by redesignating the second paragraph designated “(a)” as paragraph (d);
-(c) by redesignating the second paragraph designated “(b)” as paragraph (e);
-(d) in the summary conviction penalty paragraph (a) by deleting “paragraph (a)” and inserting instead —
-“ paragraph (d) ”;
-(e) in the summary conviction penalty paragraph (b) by deleting “paragraph (b)” and inserting instead —
-“ paragraph (e) ”.
-(2) The Criminal Code Amendment (Racial Vilification) Act 2004 section 9 is repealed.
-9.Section 318 amended
-Section 318(1) is amended as follows:
-(a) in paragraph (d) by inserting after “account of” —
-“ his being such an officer or ”;
-(b) by inserting after paragraph (g) —
-“
-or
-(h) assaults —
-(i) an ambulance officer; or
-(ii) a member of a FESA Unit, SES Unit or VMRS Group (within the meaning given to those terms by the Fire and Emergency Services Authority of Western Australia Act 1998); or
-(iii) a member or officer of a private fire brigade or volunteer fire brigade (within the meaning given to those terms by the Fire Brigades Act 1942),
-who is performing his or her duties as such; or
-(i) assaults a person who —
-(i) is working in a hospital; or
-(ii) is in the course of providing a health service to the public;
-or
-(j) assaults a contract worker (within the meaning given to that term by the Court Security and Custodial Services Act 1999) who is providing court security services or custodial services under that Act; or
-(k) assaults a contract worker (within the meaning given to that term by section 15A of the Prisons Act 1981) who is performing functions under Part IIIA of that Act,
-”;
-(c) after each of paragraphs (d) and (e) by inserting —
-“ or ”;
-(d) after paragraph (g)(i) by inserting —
-“ or ”;
-(e) by deleting “is guilty of a crime, and is liable to imprisonment for 10 years.” and the summary conviction penalty and inserting instead —
-“
-is guilty of a crime and is liable —
-(l) if at or immediately before or immediately after the commission of the offence —
-(i) the offender is armed with any dangerous or offensive weapon or instrument; or
-(ii) the offender is in company with another person or persons,
-to imprisonment for 10 years; or
-(m) in any other case, to imprisonment for 7 years.
-Summary conviction penalty: in a case to which subsection (1)(m) applies: imprisonment for 3 years and a fine of $36 000.
-”.
-10.Section 321A replaced
-Section 321A is repealed and the following section is inserted instead —
-“
-321A.Child under 16, persistent sexual conduct with
-(1) In this section —
-“prescribed offence” means —
-(a)an offence under section 320(2) or (4) or 321(2) or (4) or an attempt to commit such an offence; or
-(b)an offence under section 320(3) or 321(3) where the child in fact engages in sexual behaviour;
-“sexual act” means an act that would constitute a prescribed offence.
-(2) For the purposes of this section a person persistently engages in sexual conduct with a child if that person does a sexual act in relation to the child on 3 or more occasions each of which is on a different day.
-(3) For the purposes of subsection (2) —
-(a) the sexual acts need not all constitute the same prescribed offence; and
-(b) the sexual acts need not all have occurred in this State as long as at least one of them did.
-(4) A person who persistently engages in sexual conduct with a child under the age of 16 years is guilty of a crime and is liable to imprisonment for 20 years.
-(5) A charge of an offence under subsection (4) —
-(a) must specify the period during which it is alleged that the sexual conduct occurred; and
-(b) need not specify the dates, or in any other way particularise the circumstances, of the sexual acts alleged to constitute the sexual conduct.
-(6) A person charged with an offence under subsection (4) may also be charged, either in the same or a separate indictment, with a prescribed offence that is alleged to have been committed in the period during which it is alleged that the sexual conduct constituting the offence under subsection (4) occurred.
-(7) An indictment containing a charge of an offence under subsection (4) must be signed by the Director of Public Prosecutions or the Deputy Director of Public Prosecutions.
-(8) A court cannot order the prosecutor to give a person charged with an offence under subsection (4) particulars of the sexual acts alleged to constitute the offence, despite section 131 of the Criminal Procedure Act 2004.
-(9) It is a defence to a charge of an offence under subsection (4) to prove the accused person —
-(a) believed on reasonable grounds that the child was of or over the age of 16 years; and
-(b) was not more than 3 years older than the child.
-(10) It is a defence to a charge of an offence under subsection (4) to prove the accused person was lawfully married to the child.
-(11) If in a trial by jury of a charge of an offence under subsection (4), there is evidence of sexual acts on 4 or more occasions, the jury members need not all be satisfied that the same sexual acts occurred on the same occasions as long as the jury is satisfied that the accused person persistently engaged in sexual conduct in the period specified.
-(12) If an accused person is found not guilty of a charge of an offence under subsection (4), he or she may nevertheless be found guilty of one or more prescribed offences committed in the period specified in the charge if the offence or offences are established by the evidence, despite section 10A.
-(13) If a person is sentenced, whether on one or more than one indictment, to —
-(a) a term of imprisonment for an offence under subsection (4); and
-(b) a term of imprisonment for a prescribed offence committed in the period during which the offence under subsection (4) was committed,
-the court must not order the terms to be served wholly or partly cumulatively.
-”.
-11.Section 338C amended
-Section 338C(3) is amended in the summary conviction penalty as follows:
-(a) in paragraph (c) by deleting “paragraph (a)” and inserting instead —
-“ subsection (3)(a) ”;
-(b) in paragraph (d) by deleting “paragraph (b)” and inserting instead —
-“ subsection (3)(b) ”;
-(c) by renumbering paragraph (c) as paragraph (a);
-(d) by renumbering paragraph (d) as paragraph (b).
-12.Section 338E amended
-Section 338E(1) is amended in the summary conviction penalty as follows:
-(a) in paragraph (c) by deleting “paragraph (a)” and inserting instead —
-“ subsection (1)(a) ”;
-(b) in paragraph (d) by deleting “paragraph (b)” and inserting instead —
-“ subsection (1)(b) ”;
-(c) by renumbering paragraph (c) as paragraph (a);
-(d) by renumbering paragraph (d) as paragraph (b).
-76.Criminal Law Amendment (Simple Offences) Act 2004 amended
-(1) The amendment in this section is to the Criminal Law Amendment (Simple Offences) Act 2004.
-(2) Section 37 is repealed.
-78.Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 amended
-(1) The amendments in this section are to the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004.
-(7) Schedule 2 clause 36 is amended by deleting “s. 133A”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 s. 129 had not come into operation. It reads as follows:
 “
 129.The Criminal Code amended

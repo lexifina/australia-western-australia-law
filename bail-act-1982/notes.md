@@ -47,11 +47,11 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 2 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 5 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Reprint 6: The Bail Act 1982 as at 14 Sep 2007 (includes amendments listed above)
+Criminal Law and Evidence Amendment Act 2008 s. 56 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
-Criminal Law and Evidence Amendment Act 2008 s. 56 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Bail Amendment Act 2008 Pt. 2 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2)
 The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 25. The Act was then repealed by the Criminal Procedure and Appeal (Consequential and Other Provisions) Act 2004.
 The amendment in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 had not come into operation when it was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -107,25 +107,7 @@ s. 50D(1)(a) | Sch. 1 Part D cl. 3(3)(e)
 Note:The headings to sections 27A, 50A, 50E, 50F and 50J will be altered by deleting “(Justice)”.
 ”.
 The amendments to the Bail Act 1982 in the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 cl. 31(1)(b) and (c), cl. 32 and 33 would conflict with amendments by the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 5.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 56 had not come into operation. It reads as follows:
-“
-56.Bail Act 1982 amended
-(1) The amendments in this section are to the Bail Act 1982.
-(2) Section 50C(4)(b) is amended by deleting “a defendant” and inserting instead —
-“ an accused ”.
-(3) Section 50L(1) is amended by deleting “a defendant” in each place where it occurs and in each place inserting instead —
-“ an accused ”.
-(4) Section 50L(1)(b) is amended by deleting “the defendant” and inserting instead —
-“ the accused ”.
-(5) Section 52(4) is amended by deleting “jurisdiction.” and inserting instead —
-“
-jurisdiction, but —
-(a) no fees shall be charged by the Supreme Court or District Court for or in respect of any act or proceeding that relates to the prosecution; and
-(b) the Supreme Court or District Court cannot order a party to the prosecution to pay another party’s costs of or relating to the prosecution, except under section 166(2) of the Criminal Procedure Act 2004.
-”.
-(6) Section 67(2)(b) is amended by deleting “a defendant” and inserting instead —
-“ an accused ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Bail Amendment Act 2008 Pt. 2 had not come into operation. It reads as follows:
 “
 Part 2 — Bail Act 1982 amended

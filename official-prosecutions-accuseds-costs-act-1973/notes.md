@@ -18,15 +18,5 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 12, s. 80, 82 and 86 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Official Prosecutions (Accused’s Costs) Act 1973as at 3 Feb 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Criminal Law and Evidence Amendment Act 2008 s. 67 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Criminal Law and Evidence Amendment Act 2008 s. 67 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Now known as the Official Prosecutions (Accused’s Costs) Act 1973; short title changed (see note under s. 1).
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 67 had not come into operation. It reads as follows:
-“
-67.Official Prosecutions (Accused’s Costs) Act 1973 amended
-(1) The amendments in this section are to the Official Prosecutions (Accused’s Costs) Act 1973.
-(2) The long title is amended by deleting “defendants” and inserting instead —
-“ accused persons ”.
-”.

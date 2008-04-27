@@ -12,7 +12,7 @@ s. 281A
 s. 297
 s. 320(2) or (3)
 s. 321(2) or (3)
-s. 321A(3)
+s. 321A(4)
 s. 324, 325, or 326
 s. 327
 s. 329
@@ -24,5 +24,5 @@ s. 343
 s. 396, 397, or 398
 Children and Community Services Act 2004
 s. 192(1) or (2)
-[Schedule 1 amended by No. 34 of 2004 s. 251; No. 10 of 2006 s. 4(2).]
+[Schedule 1 amended by No. 34 of 2004 s. 251; No. 10 of 2006 s. 4(2); No. 2 of 2008 s. 69.]
 [Schedule 2 omitted under the Reprints Act 1984 s. 7(4)(e).]

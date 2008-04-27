@@ -40,7 +40,7 @@ s. 318 | Serious assaults
 s. 318A | Assaulting or threatening a member of the crew of an aircraft
 s. 320 | Child under 13: Sexual offences against
 s. 321 | Child of or over 13 and under 16: Sexual offences against
-s. 321A | Child under 16: Sexual relationship with
+s. 321A | Persistent sexual conduct with child under 16
 s. 322 | Child of or over 16: Sexual offences against by person in authority etc.
 s. 323 | Indecent assault
 s. 324 | Aggravated indecent assault
@@ -77,7 +77,7 @@ s. 455 | Attempting to cause explosion likely to do serious damage to property
 s. 456 | Attempts to damage or obstruct mines
 s. 457 | Interfering with marine signals
 s. 458 | Interfering with navigation works
-[Part 1 inserted by No. 48 of 1991 s. 10; amended by No. 14 of 1992 s. 15(2); No. 82 of 1994 s. 13(4)(a); No. 69 of 1996 s. 31; No. 15 of 1998 s. 6(1); No. 23 of 2001 s. 10(3); No. 3 of 2002 s. 41(3); No. 4 of 2004 s. 24, 26 and 61(6).]
+[Part 1 inserted by No. 48 of 1991 s. 10; amended by No. 14 of 1992 s. 15(2); No. 82 of 1994 s. 13(4)(a); No. 69 of 1996 s. 31; No. 15 of 1998 s. 6(1); No. 23 of 2001 s. 10(3); No. 3 of 2002 s. 41(3); No. 4 of 2004 s. 24, 26 and 61(6); No. 2 of 2008 s. 55.]
 ## Part 2 — Offences under the Road Traffic Act 1974
 [Heading inserted by No. 48 of 1991 s. 10.]
 Provision | Description of offence

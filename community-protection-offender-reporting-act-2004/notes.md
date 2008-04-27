@@ -1,13 +1,13 @@
 Notes
-This is a compilation of the Community Protection (Offender Reporting) Act 2004. The following table contains information about that Act.
+This is a compilation of the Community Protection (Offender Reporting) Act 2004 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Community Protection (Offender Reporting) Act 2004 | 72 of 2004 | 8 Dec 2004 | Pt. 1, 4 and 6: 25 Dec 2004 (see s. 2 and Gazette 24 Dec 2004 p. 6266); Pt. 2 (except s. 12) and Pt. 3 and 5 and Sch. 1 & 2: 1 Feb 2005 (see s. 2 and Gazette 24 Dec 2004 p. 6266); s. 6(2)(b): 1 Jul 2005 (see s. 2 and Gazette 24 Dec 2004 p. 6266)
+Criminal Law and Evidence Amendment Act 2008 s. 58 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 | 72 of 2004 | 8 Dec 2004 | s. 12 and Sch. 3: to be proclaimed
-Criminal Law and Evidence Amendment Act 2008 s. 58 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 s. 127 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Prostitution Amendment Act 2008 s. 29 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 had not come into operation. They read as follows:
@@ -32,13 +32,7 @@ s. 326 | Aggravated sexual penetration without consent (if the person against wh
 s. 327 | Sexual coercion (if the person against whom the offence is committed is not a child)
 s. 328 | Aggravated sexual coercion (if the person against whom the offence is committed is not a child)
 ”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 58 had not come into operation. It reads as follows:
-“
-58.Community Protection (Offender Reporting) Act 2004 amended
-(1) The amendments in this section are to the Community Protection (Offender Reporting) Act 2004.
-(2) Schedule 1 is amended in the item relating to The Criminal Code s. 321A by deleting the description of offence and inserting instead —
-“ Persistent sexual conduct with child under 16 ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 s. 127 had not come into operation. It reads as follows:
 “
 127.Community Protection (Offender Reporting) Act 2004 amended
