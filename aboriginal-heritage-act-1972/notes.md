@@ -20,11 +20,6 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Petroleum Amendment Act 2007 s. 89 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Reprint 4: The Aboriginal Heritage Act 1972 as at 7 Mar 2008 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Aboriginal Heritage Amendment Act 1995 s. 19(2), (3) and (4) read as follows:
 “
@@ -36,48 +31,6 @@ The Aboriginal Heritage Amendment Act 1995 s. 51(2) and (3) read as follows:
 “
 (2) After the commencement of the Aboriginal Heritage Amendment Act 1995, moneys standing to the credit of the Aboriginal Material Preservation Fund shall be transferred to an account forming part of the Trust Fund referred to in section 9 of the Financial Administration and Audit Act 1985 established by the Treasurer and to be administered by the Department for the purposes of the protection of Aboriginal heritage.
 (3) On the commencement of the Aboriginal Heritage Amendment Act 1995 the Trustees (as the accountable authority within the meaning in the Financial Administration and Audit Act 1985) are to report in respect of the Aboriginal Material Preservation Fund, as opened and kept under Part VIII of the principal Act prior to its amendment by this Act, as required by section 66 of that Act, for the period from the preceding 1 July to the time of the commencement, and Division 14 of Part II of the Financial Administration and Audit Act 1985 applies as if that period were a full financial year.
-”
+”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 1 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-1.Aboriginal Heritage Act 1972
-s. 43(3) | Delete “Local Court at Perth” and insert instead — “ Magistrates Court ”.
-s. 43(4) | Delete “Local Court” in the 2 places where it occurs and in each place insert instead — “ Magistrates Court ”.
-s. 43(5) | Delete “Local Court” in the 2 places where it occurs and in each place insert instead — “ Magistrates Court ”.
-s. 43(6) | Delete “Local Court” in the 3 places where it occurs and in each place insert instead — “ Magistrates Court ”.
-s. 44 | Delete “Local Court” and insert instead — “ Magistrates Court ”.
-s. 46(3) | Delete “Local Court held nearest to the place where the object is then located, or, at his option, to the Local Court at Perth,” and insert instead — “ Magistrates Court ”.
-s. 46(4) | Delete “Local Court” and insert instead — “ Magistrates Court ”.
-s. 47(2) | Delete “Local Court” and insert instead — “ Magistrates Court ”.
-”.
-The amendments to s. 43(3)-(6), 44, 46(3) and (4) and 47(2) by the Courts Legislation Amendment and Repeal Act 2004 would conflict with amendments in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 1.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
-”.
-Defined Terms
-[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-Aboriginal4
-Aboriginal cultural material4
-Aboriginal site4
-Committee4
-Department4
-Director4
-Museum4
-person of Aboriginal descent4
-proceedings under this Act4
-protected area4
-Registrar4
-temporarily protected area4
-the owner of any land18(1)
-the Trustees4
-traditional custodian4
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 1 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
