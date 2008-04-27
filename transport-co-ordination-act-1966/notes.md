@@ -65,11 +65,6 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 8: The Transport Co-ordination Act 1966 as at 5 Aug 2005 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(4) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The State Transport Co-ordination Act 1966 was repealed by the State Transport Co-ordination Act 1981, which was repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 The reference in the Taxi Act 1994 s. 49(a) to an amendment of s. 2 of this Act should refer to an amendment of s. 4 of this Act. Section 49(a) reads as follows:
 “
@@ -148,27 +143,4 @@ Part 12 — Transitional matters
 The Public Transport Authority Act 2003 Pt. 7 Div. 1, 5, and 6 deal with transitional matters to do with the transfer to the Public Transport Authority of metropolitan passenger transport functions that the Transport Coordination Ministerial Body previously had under the Transport Co-ordination Act 1966 Pt. II Div. 4.
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 121(3) is not included because the section it sought to amend had been replaced by Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 47 before the amendment purported to come into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 50 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-50.Transport Co-ordination Act 1966
-s. 47Z(1) | Delete the definition of “Local Court”.
-s. 47ZF(1)(l) | Delete “a Local Court” and insert instead — “ the Magistrates Court ”.
-s. 57(3) | Delete “a stipendiary magistrate” and insert instead — “ the Magistrates Court ”.
-s. 57(4) | Delete “Court in which the stipendiary magistrate is to sit and hear the appeal” and insert instead — “ Magistrates Court ”.
-s. 57(5) | Repeal the subsections and insert instead — “ (5)The Magistrates Court, constituted by a magistrate, shall hear and determine the appeal and may order that the revocation or suspension be set aside, subject to such conditions as the court thinks fit, or may dismiss the appeal and, in any event, may make such order as to costs as it thinks fit. ”.
-s. 56(6) | Delete “a stipendiary magistrate” and insert instead — “ the Magistrates Court ”.
-”.
-The amendments it seeks to make cannot be done due to amendments and repeals to those sections by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1230, 1231 and 1232.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
-”.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 50 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
