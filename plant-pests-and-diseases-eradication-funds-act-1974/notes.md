@@ -27,9 +27,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 38 68, 70-73 and 92 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Criminal Law and Evidence Amendment Act 2008 s. 77(13) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The Companies Act 1893 was repealed by the Companies Act 1943, which was repealed by the Companies Act 1961 s. 4 and 382(2) except in relation to Co-operative Companies, in respect of which it may now be cited as the Companies (Co-operative) Act 1943. The Companies Act 1961 was superseded by the Companies (Western Australia) Code, see section 18 of the Companies (Application of Laws) Act 1981. The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
 Repealed by the Grain Marketing Act 2002.
 Now known as the Plant Pests and Diseases (Eradication Funds) Act 1974; short title changed (see note under s. 1).
@@ -38,22 +36,12 @@ The Skeleton Weed and Resistant Grain Insects (Eradication Funds) Amendment Act 
 (2) Any expenses incurred by the Grain Pool before the expiry of a period of 6 months beginning on the commencement of this section in paying compensation to the owners of any lupins destroyed under the Plant Diseases Act 1914 are to be treated, despite anything in the Grain Marketing Act 1975 or any other Act, as having been lawfully incurred.
 (3) The application of amounts of the reserve fund for the purpose of meeting expenses referred to in subsection (2) is to be treated, despite anything in the Grain Marketing Act 1975 or any other Act, as having been lawfully done.
 (4) In subsections (2) and (3) —
-“Grain Pool” has the same meaning as it has in the Grain Marketing Act 1975;
-“lupins” has the same meaning as it has in the principal Act as amended by this Act;
-“reserve fund” has the same meaning as it has in the Grain Marketing Act 1975.
+Grain Pool has the same meaning as it has in the Grain Marketing Act 1975;
+lupins has the same meaning as it has in the principal Act as amended by this Act;
+reserve fund has the same meaning as it has in the Grain Marketing Act 1975.
 ”.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 38 reads as follows:
-“
-Schedule 2 — Other Amendments to Acts
-38.Plant Pests and Diseases (Eradication Funds) Act 1974
-s. 13(6) | Delete “a local court constituted under the Local Courts Act 1904,” and insert instead — “ the Magistrates Court ”.
-”.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 38 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 38, 68, 70-73 and 92 had not come into operation. They read as follows:
 “
@@ -66,21 +54,21 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 (a) a reference in this Act to the Protection Board is to be taken to be a reference to the Authority; and
 (b) the Authority has all of the functions conferred on the Protection Board under this Act.
 (2) In this section —
-“Authority” means the Western Australian Agriculture Authority established under the Biosecurity and Agriculture Management Act 2007.
+Authority means the Western Australian Agriculture Authority established under the Biosecurity and Agriculture Management Act 2007.
 ”.
 68.Repeal
 The Plant Pests and Diseases (Eradication Funds) Act 1974 is repealed.
 70.Meaning of terms used in this Subdivision
 In this Subdivision, unless the contrary intention appears —
-“commencement day” means the day on which section 68 comes into operation;
-“grain and seed crops account” means the prescribed account referred to in section 2(5)(a);
-“repealed Act” means the Plant Pests and Diseases (Eradication Funds) Act 1974.
+commencement day means the day on which section 68 comes into operation;
+grain and seed crops account means the prescribed account referred to in section 2(5)(a);
+repealed Act means the Plant Pests and Diseases (Eradication Funds) Act 1974.
 71.Compensation claims made before repeal
 (1) Despite section 68, an application for compensation under the repealed Act that arose but was not fully dealt with before the commencement day is to be dealt with under the repealed Act as if that Act had not been repealed.
 (2) The amount of any compensation payable on a claim referred to in subsection (1) is to be paid from the grain and seed crops account.
 72.Transfer and payment of skeleton weed moneys to relevant account
 (1) On and after the commencement day —
-(a) all moneys standing to the credit of the Skeleton Weed Eradication Fund established by the repealed Act section 5 (the “Fund”) are to be credited to the grain and seed crops account, and the Skeleton Weed Eradication Fund is then to be closed; and
+(a) all moneys standing to the credit of the Skeleton Weed Eradication Fund established by the repealed Act section 5 (the Fund) are to be credited to the grain and seed crops account, and the Skeleton Weed Eradication Fund is then to be closed; and
 (b) any contribution that —
 (i) immediately before the commencement day is in the hands of a receiver under the repealed Act for payment to the Fund; or
 (ii) after the commencement day is deducted as mentioned in subsection (2),
@@ -96,11 +84,11 @@ is to be paid to the grain and seed crops account.
 (2) Section 4(1) is amended as follows:
 (a) by deleting the definition of “inspector” and inserting instead —
 “
-“inspector” means an inspector appointed under the Biosecurity and Agriculture Management Act 2007;
+inspector means an inspector appointed under the Biosecurity and Agriculture Management Act 2007;
 ”;
 (b) by deleting the definition of “resistant grain insects” and inserting instead —
 “
-“resistant grain insects” means insects that belong to a class of animals designated under subsection (3);
+resistant grain insects means insects that belong to a class of animals designated under subsection (3);
 ”.
 (3) After section 4(2) the following subsection is inserted —
 “
@@ -123,10 +111,4 @@ and
 “ the Biosecurity and Agriculture Management Act 2007 ”.
 (9) Section 14(3)(a) is amended by deleting “the Agriculture and Related Resources Protection (Property Quarantine) Regulations 1981 made under the Agriculture and Related Resources Protection Act 1976” and inserting instead —
 “ the Biosecurity and Agriculture Management Act 2007 ”.
-”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(13) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
 ”.
