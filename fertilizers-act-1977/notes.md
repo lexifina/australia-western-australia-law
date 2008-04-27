@@ -9,12 +9,12 @@ Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 76 | 10 of 1998 | 30
 Reprint 1: The Fertilizers Act 1977 as at 2 May 2003 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 54 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(8)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Law and Evidence Amendment Act 2008 s. 62 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 60 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Criminal Law and Evidence Amendment Act 2008 s. 62 and 78(8) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 60 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 The Agricultural Legislation Amendment and Repeal Act 1998 s. 14 and s. 15 read as follows:
 “
 14.Refund of registration fees
@@ -27,19 +27,9 @@ RP=The period for which the registration was valid or in force under section 17 
 15.Transitional provision
 On the commencement of this Act, the chief executive officer of the department of the Public Service principally assisting the Minister administering the principal Act is to take delivery of the Register referred to in section 11 of the principal Act and retain possession of it for 3 years after the commencement of this Act.
 ”.
-The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 to amend s. 38(1) is not included because the subsection it sought to amend had been amended by the Courts Legislation Amendment and Repeal Act 2004 s. 141.
+The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 (to amend s. 38(1)) was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 78(8).
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 60 had not come into operation. It reads as follows:
 “
 60.Repeal
 The Fertilizers Act 1977 is repealed.
 ”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 62 and 78(8) had not come into operation. It reads as follows:
-“
-62.Fertilizers Act 1977 amended
-(1) The amendments in this section are to the Fertilizers Act 1977.
-(2) Section 38(1) is amended by deleting “justice or other person before whom the complaint is laid,” and inserting instead —
-“ person before whom the prosecution notice is signed, ”.
-”.
-78.Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 amended
-(1) The amendments in this section are to the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004.
-(8) Schedule 2 clause 56 is amended by deleting the row relating to “s. 38(1)”.

@@ -11,25 +11,14 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 1: The Criminal Property Confiscation Act 2000 as at 9 Dec 2005 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Road Traffic Amendment Act 2007 s. 26 | 4 of 2007 | 11 Apr 2007 | 1 May 2007 (see s. 2 and Gazette 27 Apr 2007 p. 1831)
+Criminal Law and Evidence Amendment Act 2008 s. 61 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 25 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Criminal Law and Evidence Amendment Act 2008 s. 61 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 25 had not come into operation. It reads as follows:
 “
 25.Criminal Property Confiscation Act 2000 amended
 (1) The amendment in this section is to the Criminal Property Confiscation Act 2000.
 (2) The Glossary is amended in the definition of “financial institution” by deleting paragraph (d).
-”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 61 had not come into operation. It reads as follows:
-“
-61.Criminal Property Confiscation Act 2000 amended
-(1) The amendments in this section are to the Criminal Property Confiscation Act 2000.
-(2) Section 101(2)(b) is amended by deleting “$250 000.” and inserting instead —
-“
-the jurisdictional limit (within the meaning of section 6 of the District Court of Western Australia Act 1969).
-”.
-(3) In the Glossary the definition of “dispose of” is amended in paragraph (c) by deleting “offence;” and inserting instead —
-“ charge or discontinue the prosecution of it; ”.
 ”.

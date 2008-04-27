@@ -34,7 +34,7 @@
 “dispose of”, in relation to a charge, means —
 (a)withdraw;
 (b)dismiss; or
-(c)file a nolle prosequi in relation to the offence;
+(c)file a nolle prosequi in relation to the charge or discontinue the prosecution of it;
 “document” includes —
 (a)any publication and any matter written, expressed, or described, electronically or otherwise, upon any substance by means of letters, figures or marks, or by more than one of those means, which is intended to be used or may be used for the purpose of recording that matter; and
 (b)a computer disk, computer or any other substance or equipment, whether electronic or not, used to create or store any publication or matter referred to in paragraph (a);
@@ -118,4 +118,4 @@
 (d)property sold by or for the State — has the meaning given in section 152; and
 (e)the transfer of property — has the meaning given in section 154;
 “wealth” has the meaning given in section 143.
-[Glossary amended by No. 12 of 2001 s. 51; No. 20 of 2003 s. 19; No. 28 of 2003 s. 42.]
+[Glossary amended by No. 12 of 2001 s. 51; No. 20 of 2003 s. 19; No. 28 of 2003 s. 42; No. 2 of 2008 s. 61(3).]

@@ -20,24 +20,23 @@ Reprint of the Licensed Surveyors Act 1909 as at 22 Nov 2002 (includes amendment
 Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 10 | 70 of 2003 | 15 Dec 2003 | 21 Apr 2004 (see s. 2 and Gazette 20 Apr 2004 p. 1297)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 73 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(2)(c)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 5: The Licensed Surveyors Act 1909 as at 5 May 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 143 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Criminal Law and Evidence Amendment Act 2008 s. 66 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration) Act 1987 Pt. IX | 126 of 1987 | 31 Dec 1987 | To be proclaimed (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 142 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | To be proclaimed (see s. 2)
-Criminal Law and Evidence Amendment Act 2008 s. 66, 77(13) and 78(2)(c) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The Acts Amendment and Repeal (Competition Policy) Act 2003 s. 40(7)-(9) reads as follows:
 “
-(7) A person appointed under section 4 of the Licensed Surveyors Act 1909 as a member of the Land Surveyors Licensing Board and holding office immediately before the commencement of this section continues to hold office under the first-mentioned section during the period from that commencement until the following 31 December (“the transitional period”) as if this section had not been enacted.
+(7) A person appointed under section 4 of the Licensed Surveyors Act 1909 as a member of the Land Surveyors Licensing Board and holding office immediately before the commencement of this section continues to hold office under the first-mentioned section during the period from that commencement until the following 31 December (the transitional period) as if this section had not been enacted.
 (8) The Surveyor General continues to hold office as the chairman of the Land Surveyors Licensing Board during the transitional period as if this section had not been enacted.
 (9) A vacancy that occurs in the membership of the Land Surveyors Licensing Board during the transitional period is to be filled in accordance with section 4 of the Licensed Surveyors Act 1909, as enacted immediately before the commencement of this section.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 will not be included because of an error in the reference to the provision to be amended.
-On the date as at which this reprint was prepared, the Acts Amendment (Land Administration) Act 1987 Pt. IX (s. 40-44) had not come into operation. It reads as follows:
+The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent it amends this Act, was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(c).
+On the date as at which this compilation was prepared, the Acts Amendment (Land Administration) Act 1987 Pt. IX (s. 40-44) had not come into operation. It reads as follows:
 “
 Part IX — Licensed Surveyors Act 1909
 40.Principal Act
@@ -90,30 +89,4 @@ Section 18 of the principal Act is amended by deleting “Surveyor General” an
 Section 19 of the principal Act is amended by deleting “Surveyor General”, wherever it occurs, and substituting in each case the following —
 “ Registrar of Titles ”.
 ”.
-On the date as at which this reprint was prepared, the Courts Legislation Amendment and Repeal Act 2004 s. 142, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-142.Other amendments to various Acts
-Each Act listed in Schedule 2 is amended as set out in that Schedule immediately below the short title of the Act.
-”.
-Schedule 2 cl. 27 reads as follows:
-“
-Schedule 2 — Other amendments to Acts
-27.Licensed Surveyors Act 1909
-s. 21(1b) s. 21(1c) | In each provision, delete “a Local Court” and insert instead — “ the Magistrates Court ”. In each provision delete “the Local Court” wherever it occurs and in each place insert instead — “ the Magistrates Court ”.
-s. 21(1b) | Delete “the clerk of”.
-”.
-The amendments to section 21(1b) and (1c) in the Courts Legislation Amendment and Repeal Act 2004 have not been proclaimed because those subsections were repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 562.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 66, 77(13) and 78(2)(c) had not come into operation. They read as follows:
-“
-66.Licensed Surveyors Act 1909 amended
-(1) The amendments in this section are to the Licensed Surveyors Act 1909.
-(2) Section 8C(2) is amended by deleting “defendant” in each place where it occurs and in each place inserting instead —
-“ accused ”.
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(13) Schedule 2 clauses 1 to 42 and 44 to 51 are repealed.
-78.Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 amended
-(1) The amendments in this section are to the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004.
-(2) Section 82 is amended in Table 2 as follows:
-(c) by deleting the row relating to the Licensed Surveyors Act 1909;
-”.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 27 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).

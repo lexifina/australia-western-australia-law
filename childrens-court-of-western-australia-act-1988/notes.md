@@ -32,11 +32,11 @@ Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005
 Reprint 4: The Children’s Court of Western Australia Act 1988 as at 21 Apr 2006 (includes amendments listed above except those in the Sentencing Legislation Amendment Act 2004 s. 14)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 6 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Criminal Law and Evidence Amendment Act 2008 s. 57 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Criminal Law and Evidence Amendment Act 2008 s. 57 | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 Pt. 2 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Cross-border Justice Act 2008 Pt. 15 Div. 1 | 7 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(b))
 Parental Support and Responsibility Act 2008 s. 43 | 14 of 2008 | 15 Apr 2008 | To be proclaimed (see s. 2)
@@ -53,13 +53,7 @@ Act | Provision
 Children’s Court of Western Australia Act 1988 | s. 7(4)
 ...................... | ........
 ”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 57 had not come into operation. It reads as follows:
-“
-57.Children’s Court of Western Australia Act 1988 amended
-(1) The amendments in this section are to the Children’s Court of Western Australia Act 1988.
-(2) Section 33(2) is amended by deleting “complaint” and inserting instead —
-“ charge of an offence ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 2 had not come into operation. It reads as follows:
 “
 Part 2 — Children’s Court of Western Australia Act 1988 amended
