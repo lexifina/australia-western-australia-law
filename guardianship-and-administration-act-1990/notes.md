@@ -18,7 +18,7 @@ Sentencing Legislation Amendment and Repeal Act 2003 s. 70 | 50 of 2003 | 9 Jul 
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 40 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
-Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
+Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 (as amended by No. 2 of 2008 s. 75(3)) | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 56 Subdiv. 1 | 55 of 2004 | 24 Nov 2004 | 24 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
@@ -29,7 +29,6 @@ Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Criminal Law and Evidence Amendment Act 2008 s. 75(3) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 Pt. 12 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Guardianship and Administration Amendment Act 2000 s. 21 reads as follows:
@@ -46,7 +45,7 @@ and to the extent that subsection (1) conflicts or is inconsistent with such a d
 “commencement day” means the day on which this Act comes into operation;
 “section” means a section of the Guardianship and Administration Act 1990.
 ”.
-The amendment in the Acts Amendment (Court of Appeal) Act 2004 Sch. 1 it. 7 which amends s. 37A and the heading to Part 3 Div. 4 is not included because the Division it sought to amend had been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 434 before the amendment purported to come into operation.
+The Acts Amendment (Court of Appeal) Act 2004 Sch. 1 it. 7 (to amend s. 37A and the heading to Part 3 Div. 4) were repealed by the Criminal Law and Evidence Amendment Act 2008 s. 75(3).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 52 reads as follows:
 “
@@ -75,14 +74,7 @@ on or after the commencement day, the State Administrative Tribunal may make an 
 (b) a statement of acceptance in the form, or substantially in the form, of the GA Act Schedule 3 Form 2,
 in effect immediately before the commencement day contains a reference to the Guardianship and Administration Board, on and after the commencement day that reference is to be taken to be a reference to the State Administrative Tribunal.
 ”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 75(3) had not come into operation. It reads as follows:
-“
-75.Acts Amendment (Court of Appeal) Act 2004 amended
-(1) The amendments in this section are to the Acts Amendment (Court of Appeal) Act 2004.
-(3) Schedule 1 clause 7 is amended as follows:
-(a) by deleting “s. 37A”;
-(b) by deleting the row relating to “Heading to Part 3 Division 4”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 12 had not come into operation. It reads as follows:
 “
 Part 12 — Guardianship and Administration Act 1990 amended
