@@ -13,7 +13,7 @@ Reprint of the Director of Public Prosecutions Act 1991 as at 1 Jun 2001 (includ
 Criminal Law (Procedure) Amendment Act 2002 Pt. 4 Div. 4 | 27 of 2002 | 25 Sep 2002 | 27 Sep 2002 (see s. 2 and Gazette 27 Sep 2002 p. 4875)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 31, 110 and 124 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Director of Public Prosecutions Amendment Act 2004 | 21 of 2004 | 8 Sep 2004 | 6 Oct 2004
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(7)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 6 and s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Director of Public Prosecutions Act 1991 as at 25 Nov 2005 (includes amendments listed above)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
@@ -21,13 +21,12 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 39(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 State Superannuation Amendment Act 2007 s. 80 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
-Criminal Law and Evidence Amendment Act 2008 s. 77(7) | 2 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 12(3) reads as follows:
 “
 (3) Despite the amendment effected by subsection (1), the Director of Public Prosecutions Act 1991 as in force before the commencement of this Act continues to apply in relation to the administration of the Crimes (Confiscation of Profits) Act 1988 to the extent that the operation of the latter Act is continued by this Act.
 ”.
-The amendment to s. 11(2) in the Courts Legislation Amendment and Repeal Act 2004 s. 141, which gives effect to Sch. 1 cl. 46, is not included because it would conflict with amendments in the Director of Public Prosecutions Amendment Act 2004 s. 3.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 46 (amendment to s. 11(2)) was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(7).
 On the date at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 39(2) had not come into operation. It reads as follows:
 “
 (2) Clause 3 of Schedule 1 to the Director of Public Prosecutions Act 1991 is amended as follows:
@@ -51,10 +50,4 @@ On the date as at which this compilation was prepared, the State Superannuation 
 (5) An election under subsection (1) is to be made in writing to the Minister within 30 days after ceasing to be Director and is irrevocable.
 (6) This section has effect despite anything in the Superannuation and Family Benefits Act 1938, State Superannuation Act 2000 or the Judges’ Salaries and Pensions Act 1950.
 ”.
-”.
-On the date as at which this compilation was prepared, the Criminal Law and Evidence Amendment Act 2008 s. 77(7) had not come into operation. It reads as follows:
-“
-77.Courts Legislation Amendment and Repeal Act 2004 amended
-(1) The amendments in this section are to the Courts Legislation Amendment and Repeal Act 2004.
-(7) Schedule 1 clause 46 is amended by deleting the row relating to “s. 11(2)”.
 ”.
