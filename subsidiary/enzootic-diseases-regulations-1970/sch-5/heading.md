@@ -94,12 +94,12 @@ In these conditions —
 [Heading inserted in Gazette 14 Jun 2005 p. 2596.]
 1.Movement prohibited.
 2.Permit in the form of Form 3 issued by an inspector.
-Movement shall be direct and any off-loading into areas or premises of lower status shall be only into approved yards or premises.
-When moving stock under condition 11 the consignee shall —
+3.Movement shall be direct and any off-loading into areas or premises of lower status shall be only into approved yards or premises.
+4.When moving stock under condition 11 the consignee shall —
 (a) notify the nearest inspector within 14 days of the date of introduction of the stock;
 (b) isolate and keep isolated from the herd, any stock introduced on to the property, unless and until otherwise directed by an inspector; and
 (c) submit any introduced stock to such tests as an inspector may direct.
-[Subdivision 2, formerly Fifth Schedule, inserted in Gazette 31 Mar 1989 p. 877.]
+[Subdivision 2, formerly Fifth Schedule, inserted in Gazette 31 Mar 1989 p. 877; amended in Gazette 29 Apr 2008 p. 1573-4.]
 ## Subdivision 3 — Brucellosis
 [Heading inserted in Gazette 14 Jun 2005 p. 2596.]
 4.A brucellosis test of breeding cattle shall be carried out not earlier than 30 days prior to movement, with negative results. Cattle shall be held in isolation during that period.
