@@ -1,16 +1,16 @@
 ## Schedule 3
 Form 1
 Western Australia
-Electoral Act 1907 (s.22)
+Electoral Act 1907 (s. 22)
 FORM OF ELECTORAL ROLL
 Roll of electors for the .............................................................................. District and that part of the ..................................................................................... Region in that District.
 SurnameChristian orResidenceOccupation*Sex*
 given names
 [* This column may be omitted when rolls are printed under section 24 of the Act, made available under section 25 of the Act or supplied under section 112 of the Act or when information on rolls or other information relating to electors is provided or made available under section 25B or 25C of the Act.]
-[Form 1 amended in Gazette 11 May 2007 p. 1997.]
+[Form 1 amended in Gazette 8 Nov 1996 p. 6269; 20 Oct 2000 p. 5929; 11 May 2007 p. 1997.]
 Form 2
 Western Australia
-Electoral Act 1907 (s.42)
+Electoral Act 1907 (s. 42)
 CLAIM FOR ENROLMENT
 1 | Surname or family name
 All Christian or given names
@@ -37,7 +37,7 @@ Name BLOCK LETTERS
 Address
 Form 3
 Western Australia
-Electoral Act 1907 (s.44A(3)(a))
+Electoral Act 1907 (s. 44A(3)(a))
 NOTICE OF REJECTION OF CLAIM
 To ........................................................................................... :
 I wish to advise that your claim dated .................................... to have your name placed on the roll for the State Electoral District of .................................. and the related part of the .......................................................... Region does not comply with section 44 of the Electoral Act 1907 for the following reasons:
@@ -49,9 +49,10 @@ Therefore, your claim is rejected.
 ENROLMENT OFFICER
 ......................................................................
 Date
+[Form 3 inserted in Gazette 10 Nov 2000 p. 6170-1.]
 Form 4
 Western Australia
-Electoral Act 1907 (reg.22)
+Electoral Act 1907 (reg. 22)
 DECLARATION BY A PERSON ALLEGED TO HAVE FAILED TO COMPLY WITH THE COMPULSORY ENROLMENT PROVISIONS OF SECTION 45 OF THE ELECTORAL ACT
 I, ............................................................ of ............................................................
 ....................................................................... declare that* ...................................
@@ -69,7 +70,7 @@ Address of witness
 * Set out any facts which you believe should be taken into account in dealing with the alleged offence.
 Form 5
 Western Australia
-Electoral Act 1907 (s.47(3)(a))
+Electoral Act 1907 (s. 47(3)(a))
 ENROLMENT OFFICER’S OBJECTION TO CLAIM
 To ........................................................................................... :
 I refer to your claim dated ....................................... to be enrolled as an elector for the State Electoral District of ................................................. and advise that I believe that you are not entitled to be so enrolled for the following reasons:
@@ -81,9 +82,10 @@ Unless the attached notice of appeal (Form 6) is completed and signed by you and
 ENROLMENT OFFICER
 .........................................................................
 Date
+[Form 5 inserted in Gazette 10 Nov 2000 p. 6171.]
 Form 6
 Western Australia
-Electoral Act 1907 (s.47(3)(a))
+Electoral Act 1907 (s. 47(3)(a))
 APPEAL AGAINST OBJECTION TO CLAIM
 To the Enrolment Officer:
 District
@@ -95,9 +97,10 @@ Phone numbers | (Home) | (Work)
 Fax number |  | E-mail
 I wish to appeal against your objection to my claim for enrolment as an elector for the State Electoral District of ............................................................ for the following reasons: .............................................................................................................................. .............................................................................................................................. .............................................................................................................................. .............................................................................................................................. .............................................................................................................................. .............................................................................................................................. .............................................................................................................................. .............................................................................................................................. ..............................................................................................................................
 Signature of Claimant | Date
+[Form 6 inserted in Gazette 10 Nov 2000 p. 6172.]
 Form 7
 Western Australia
-Electoral Act 1907 (s.48(2)(a))
+Electoral Act 1907 (s. 48(2)(a))
 ELECTOR’S OBJECTION TO ENROLMENT
 To the Electoral Commissioner:
 District
@@ -109,9 +112,10 @@ Phone numbers | (Home) | (Work)
 Fax number |  | E-mail
 I wish to object to the name of ............................................................ being on the roll for the State Electoral District of ............................................................ for the following reasons: .............................................................................................................................. .............................................................................................................................. .............................................................................................................................. .............................................................................................................................. .............................................................................................................................. .............................................................................................................................. .............................................................................................................................. .............................................................................................................................. .............................................................................................................................. I enclose a deposit of $2.00
 Signature of Objector | Date
+[Form 7 inserted in Gazette 10 Nov 2000 p. 6173.]
 Form 8
 Western Australia
-Electoral Act 1907 (s.48(3)(a))
+Electoral Act 1907 (s. 48(3)(a))
 ENROLMENT OFFICER’S OBJECTION TO ENROLMENT
 To: ........................................................................................... :
 You are currently enrolled on the State Electoral roll for the State Electoral District of ................................... . However, your enrolment is objected to because I have the following reasons for believing that your name should not be retained on the roll:
@@ -123,9 +127,10 @@ Unless the attached notice of appeal (Form 9) is completed and signed by you and
 ENROLMENT OFFICER
 .........................................................................
 Date
+[Form 8 inserted in Gazette 10 Nov 2000 p. 6174.]
 Form 9
 Western Australia
-Electoral Act 1907 (s.48(3)(a))
+Electoral Act 1907 (s. 48(3)(a))
 NOTICE OF APPEAL AGAINST ENROLMENT OFFICER’S OBJECTION TO ENROLMENT
 To the Enrolment Officer:
 District
@@ -137,9 +142,10 @@ Phone numbers | (Home) | (Work)
 Fax number |  | E-mail
 I wish to appeal against your objection to the retention of my name on the roll for the State Electoral District of ............................................................ for the following reasons: ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... .........................................................................................................................
 Signature of Elector | Date
+[Form 9 inserted in Gazette 10 Nov 2000 p. 6175.]
 Form 10
 Western Australia
-Electoral Act 1907 (s.51B(1), (2))
+Electoral Act 1907 (s. 51B(1), (2))
 REQUEST BY AN ELECTOR FOR ADDRESS NOT TO BE SHOWN ON ELECTORAL ROLL
 Please do not show my address on the electoral roll
 1 | SURNAME or FAMILY NAME ................ ALL CHRISTIAN or GIVEN NAMES .......
@@ -155,10 +161,10 @@ Please do not show my address on the electoral roll
 10 0 | I ALSO APPLY TO BE REGISTERED AS A GENERAL EARLY VOTER UNDER SECTION 93 OF THE ACT (Tick the box if required) | o
  | ..................................................................... Signature or mark of applicant (Not required if applicant makes the declaration below. Please ensure that the declaration is made before this application is sent to the Electoral Commissioner)
 Statutory declaration as to risk I solemnly and sincerely declare that the risk referred to in 8 above is as follows: ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ And I make this declaration by virtue of section 106 of the Evidence Act 1906. ................................................................ Signature of declarant Declared at .................................................................................................... this ..................... day of .............................................................................................................before me ................................................................... Commissioner for Declarations Justice of the Peace Police Officer or other person authorised by the Declarations and Attestations Act 1913
-[Form 10 amended in Gazette 11 May 2007 p. 1998.]
+[Form 10 amended in Gazette 10 Nov 2000 p. 6176-7; 11 May 2007 p. 1998.]
 Form 11
 Western Australia
-Electoral Act 1907 (s.56(a))
+Electoral Act 1907 (s. 56(a))
 NOTIFICATION OF DEATHS OF PERSONS NOT UNDER 17
 FOR MONTH OF ...................................
 Surname .................................................................................................................
@@ -171,12 +177,13 @@ Late occupation.................................................................
 (repeated as necessary)
 ..............................................................
 Registrar General
-___________________
-[Forms 12 and 13 deleted]
+[Form 11 amended in Gazette 10 Nov 2000 p. 6175.]
+[Form 12 deleted in Gazette 10 Nov 2000 p. 6175.]
+[Form 13 deleted in Gazette 12 Dec 1997 p. 7259.]
 [Forms 14 and 15 deleted in Gazette 11 May 2007 p. 1998.]
 Form 16
 Western Australia
-Electoral Act 1907 (ss.64(1) and 69)
+Electoral Act 1907 (s. 64(1) and 69)
 WRIT
 Writ for elections in all the electoral districts to elect members of the Legislative Assembly
 To the Electoral Commissioner:
@@ -198,9 +205,10 @@ Electoral districtElected candidateDate of declaration
 [continue for each district]
 Dated ........................................... 20 ............................................................
 Electoral Commissioner
+[Form 16 inserted in Gazette 20 Oct 2000 p. 5930-1.]
 Form 17
 Western Australia
-Electoral Act 1907 (ss.64(2) and 69)
+Electoral Act 1907 (s. 64(2) and 69)
 WRIT
 Writ for elections in all the electoral regions to elect members of the Legislative Council
 To the Electoral Commissioner:
@@ -228,9 +236,10 @@ Electoral regionElected candidatesDate of declaration
 [continue for each region]
 Dated ........................................ 20 .............................................................
 Electoral Commissioner
+[Form 17 inserted in Gazette 20 Oct 2000 p. 5931-2.]
 Form 18
 Western Australia
-Electoral Act 1907 (ss.67(1) and 69)
+Electoral Act 1907 (s. 67(1) and 69)
 WRIT
 Writ for an election in an electoral district to elect a member of the Legislative Assembly to fill a vacancy in accordance with a resolution of that House
 To the Electoral Commissioner:
@@ -251,9 +260,10 @@ Elected candidateDate of declaration
 ........................................................................
 Dated .......................................... 20 ..............................................................
 Electoral Commissioner
+[Form 18 inserted in Gazette 20 Oct 2000 p. 5933-4.]
 Form 19
 Western Australia
-Electoral Act 1907 (ss.67(2) and 69)
+Electoral Act 1907 (s. 67(2) and 69)
 WRIT
 Writ for an election in an electoral district to elect a member of the Legislative Assembly to fill a vacancy as directed by the Speaker
 To the Electoral Commissioner:
@@ -274,9 +284,10 @@ Elected candidateDate of declaration
 ........................................................................
 Dated .......................................... 20 ..............................................................
 Electoral Commissioner
+[Form 19 inserted in Gazette 20 Oct 2000 p. 5934-5.]
 Form 20
 Western Australia
-Electoral Act 1907 (ss.67(3) and 69)
+Electoral Act 1907 (s. 67(3) and 69)
 WRIT
 Writ for an election in an electoral district to elect a member of the Legislative Assembly to fill a vacancy if there is no Speaker or the Speaker is absent
 To the Electoral Commissioner:
@@ -297,9 +308,10 @@ Elected candidateDate of declaration
 ........................................................................
 Dated ...................................... 20 ..............................................................
 Electoral Commissioner
+[Form 20 inserted in Gazette 20 Oct 2000 p. 5935-6.]
 Form 21
 Western Australia
-Electoral Act 1907 (ss.156E and 69)
+Electoral Act 1907 (s. 156E and 69)
 WRIT
 Writ for an election in an electoral region to elect a member of the Legislative Council to fill a vacancy
 To the Electoral Commissioner:
@@ -320,9 +332,10 @@ Elected candidateDate of declaration
 ........................................................................
 Dated ...................................... 20 ..............................................................
 Electoral Commissioner
+[Form 21 inserted in Gazette 20 Oct 2000 p. 5936-7.]
 Form 22
 Western Australia
-Electoral Act 1907 (ss.88(2) and 69)
+Electoral Act 1907 (s. 88(2) and 69)
 WRIT
 Writ for a new election in an electoral district when an election is deemed to have wholly failed under section 88(2)
 To the Electoral Commissioner:
@@ -344,9 +357,10 @@ Elected candidateDate of declaration
 ........................................................................
 Dated ...................................... 20 ..............................................................
 Electoral Commissioner
+[Form 22 inserted in Gazette 20 Oct 2000 p. 5938-9.]
 Form 23
 Western Australia
-Electoral Act 1907 (ss.88(2) and 69)
+Electoral Act 1907 (s. 88(2) and 69)
 WRIT
 Writ for a new election in an electoral region when an election is deemed to have wholly failed under section 88(2)
 To the Electoral Commissioner:
@@ -367,9 +381,10 @@ Elected candidate(s)Date of declaration
 ........................................................................ [continue as required]
 Dated ...................................... 20 ..............................................................
 Electoral Commissioner
+[Form 23 inserted in Gazette 20 Oct 2000 p. 5939-40.]
 Form 23A
 Western Australia
-Electoral Act 1907 (ss.89(1) and 69)
+Electoral Act 1907 (s. 89(1) and 69)
 WRIT
 Writ for a supplementary election in an electoral district when an election is deemed to have wholly failed under section 89(1)
 To the Electoral Commissioner:
@@ -391,9 +406,10 @@ Elected candidateDate of declaration
 ........................................................................
 Dated ...................................... 20 ..............................................................
 Electoral Commissioner
+[Form 23A inserted in Gazette 20 Oct 2000 p. 5940-1.]
 Form 23B
 Western Australia
-Electoral Act 1907 (ss.89(1) and 69)
+Electoral Act 1907 (s. 89(1) and 69)
 WRIT
 Writ for a supplementary election in an electoral region when an election is deemed to have wholly failed under section 89(1)
 To the Electoral Commissioner:
@@ -414,9 +430,10 @@ Elected candidate(s)Date of declaration
 ........................................................................ [continue as required]
 Dated ...................................... 20 ..............................................................
 Electoral Commissioner
+[Form 23B inserted in Gazette 20 Oct 2000 p. 5941-2.]
 Form 23C
 Western Australia
-Electoral Act 1907 (ss.89(2) and 69)
+Electoral Act 1907 (s. 89(2) and 69)
 WRIT
 Writ for a supplementary election in an electoral region when an election is deemed to have partially failed under section 89(2)
 To the Electoral Commissioner:
@@ -437,9 +454,10 @@ Elected candidate(s)Date of declaration
 ........................................................................ [continue as required]
 Dated ...................................... 20 ..............................................................
 Electoral Commissioner
+[Form 23C inserted in Gazette 20 Oct 2000 p. 5943-4.]
 Form 23D
 Western Australia
-Electoral Act 1907 (ss.172(1)(c) and 69)
+Electoral Act 1907 (s. 172(1)(c) and 69)
 WRIT
 Writ for a new election in an electoral district when an election has been declared absolutely void
 To the Electoral Commissioner:
@@ -461,9 +479,10 @@ Elected candidateDate of declaration
 ........................................................................
 Dated ...................................... 20 ..............................................................
 Electoral Commissioner
+[Form 23D inserted in Gazette 20 Oct 2000 p. 5945-6.]
 Form 23E
 Western Australia
-Electoral Act 1907 (ss.172(1)(c) and 69)
+Electoral Act 1907 (s. 172(1)(c) and 69)
 WRIT
 Writ for a new election in an electoral region when an election has been declared absolutely void
 To the Electoral Commissioner:
@@ -484,9 +503,10 @@ Elected candidate(s)Date of declaration
 ........................................................................ [continue as required]
 Dated ...................................... 20 ..............................................................
 Electoral Commissioner
+[Form 23E inserted in Gazette 20 Oct 2000 p. 5946-7.]
 Form 23F
 Western Australia
-Electoral Act 1907 (s.67(4))
+Electoral Act 1907 (s. 67(4))
 Certificate of death of a member of the Legislative Assembly
 To the Governor (or Speaker):
 We, the undersigned, being 2 members of the Legislative Assembly, certify that .............................................................., a member of the Legislative Assembly serving for the ................................................. electoral district, died on the ..................................................... 20......, and we give you this notice to the intent that you may cause the writ to be issued for the election of a member to supply the vacancy caused by the death of that member.
@@ -498,10 +518,11 @@ electoral district
 Member for the
 .............................................
 electoral district
-[Form 24 deleted]
+[Form 23F inserted in Gazette 20 Oct 2000 p. 5948.]
+[Form 24 deleted in Gazette 10 Nov 2000 p. 6175.]
 Form 25
 Western Australia
-Electoral Act 1907 (s.87A(2))
+Electoral Act 1907 (s. 87A(2))
 RETURNING OFFICER’S RECEIPT FOR NOMINATION AND DEPOSIT
 I acknowledge receipt of a deposit of $250 cash/bank or other financial institution cheque payable to the Electoral Commissioner* and a nomination paper in respect of ..................................................................................................
 (name of candidate)
@@ -510,9 +531,10 @@ DateReturning Officer
 ........................................................
 District or Region
 * Strike out whichever is not applicable
+[Form 25 amended in Gazette 8 Nov 1996 p. 6269; 20 Nov 1998 p. 6265.]
 Form 26
 Western Australia
-Electoral Act 1907 (s.90)
+Electoral Act 1907 (s. 90)
 APPLICATION FOR AN EARLY BALLOT PAPER
 ELECTOR TO COMPLETE — PLEASE PRINT CLEARLY IN BLACK INK
 SURNAME OR FAMILY NAME
@@ -533,9 +555,10 @@ FOR ISSUING OFFICERS USE ONLY
 DATE RECEIVED |  | NO.
 SIGNATURE
 PLACE OF ISSUE
+[Form 26 amended in Gazette 10 Nov 2000 p. 6177-8.]
 Form 27
 Western Australia
-Electoral Act 1907 (s.90(7))
+Electoral Act 1907 (s. 90(7))
 REJECTION OF WRITTEN APPLICATION FOR EARLY BALLOT PAPER
 To ....................................................................................... :
 I refer to your application for an early ballot paper for .........................................
@@ -550,6 +573,7 @@ Your application has been rejected for the following reasons:
 ISSUING OFFICER
 .........................................................
 DATE
+[Form 27 inserted in Gazette 10 Nov 2000 p. 6178.]
 Form 28
 Western Australia
 Electoral Act 1907 (s. 90(4)(c) and (4c)(b))
@@ -562,7 +586,7 @@ AUTHORISED WITNESS to complete. A witness must be more than 18 years of age and 
 [Form 28 inserted in Gazette 11 May 2007 p. 1998.]
 Form 29
 Western Australia
-Electoral Act 1907 (s.92(6))
+Electoral Act 1907 (s. 92(6))
 DECLARATION OF AN ELECTOR WHO HAS NOT RECEIVED AN EARLY BALLOT PAPER
 I, ........................................................................................................................
 (name in full)
@@ -576,6 +600,7 @@ Declared before me on ..........................................................
 at ....................................... polling place in the .................................. District.
 ..................................................................
 Signature of presiding officer
+[Form 29 inserted in Gazette 10 Nov 2000 p. 6180.]
 [Form 30 deleted in Gazette 11 May 2007 p. 1998.]
 Form 31
 Western Australia
@@ -587,7 +612,7 @@ Please use BLOCK LETTERS when completing this form.
 ELECTOR to complete. Family name:Given name: Address as enrolled: Date of birth:Former family name: To the Electoral Commissioner, I declare that: ·I live at, or within the previous 3 months have lived at, the above enrolled address; and ·I enrolled to vote before close of the roll for this election; and ·I have not already voted at this election. Elector to sign: ....................................
 Presiding Officer/Assistant Presiding Officer/Poll Clerk to complete. Polling place at which vote claimed: Presiding officer to sign:Date:
 [Form 31 inserted in Gazette 11 May 2007 p. 1999.]
-Form 32 Western Australia Electoral Act 1907 (s.150) STATISTICAL RETURN .............................................(District (or Region)) ...........................................(Date of election) | Total Votes |  |  |  |  | I certify that this return is correct. ................................................... Signature of Returning Officer [This return may be made in a written or electronic form.] ................................................... Date [This return may be made in a written or electronic form.]
+Form 32 Western Australia Electoral Act 1907 (s. 150) STATISTICAL RETURN .............................................(District (or Region)) ...........................................(Date of election) | Total Votes |  |  |  |  | I certify that this return is correct. ................................................... Signature of Returning Officer [This return may be made in a written or electronic form.] ................................................... Date [This return may be made in a written or electronic form.]
 Ballot papers rejected as informal
 Total Valid Votes
 Details of count of valid votes | Candidate
@@ -618,10 +643,10 @@ The address for which you are enrolled is: [insert address] Please provide your 
 SECTION 1
 ·Unless you choose to pay the penalty amount in one of the ways described in Section 2, complete this section and return this notice to the Western Australian Electoral Commission by posting it in the reply paid envelope provided or by delivering it to [insert address]. ·Complete either Part A or Part B but not both. ·Making a false or misleading statement on this notice is an offence.
 Part A | If you did vote, complete this Part by ticking the appropriate box and completing the required details.
- | I voted: oby ordinary vote oby absent vote oby provisional vote oby early vote at the following polling place*…………………………………. (*not applicable if early vote obtained by written application).
+ | I voted: oby ordinary vote oby absent vote oby provisional vote oby early vote at the following polling place*..................................................... (*not applicable if early vote obtained by written application).
 Part B | If you did not vote and you believe you have a valid and sufficient reason, complete this Part.
- | I did not vote because: …………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
-The person completing Section 1 is to provide the following information about himself or herself: Name: ..........................Daytime contact phone number: ……………… Signature of person completing this form: ……………………………...
+ | I did not vote because: ......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+The person completing Section 1 is to provide the following information about himself or herself: Name: .........................................Daytime contact phone number: ........................ Signature of person completing this form: ...............................................................
 SECTION 2
 Penalty: [insert penalty amount] Due date: [insert date] If you did not vote and you wish to finalise this matter, please pay the penalty in one of the following ways by the due date.
 Payment with Australia Post | [insert information about payment]
@@ -654,7 +679,7 @@ Electoral CommissionerDate: [insert date]
 [Form 34 inserted in Gazette 11 May 2007 p. 2001-2.]
 Form 35
 Western Australia
-Electoral Act 1907 (s.156C(1)(a))
+Electoral Act 1907 (s. 156C(1)(a))
 NOTIFICATION OF A VACANCY IN THE
 LEGISLATIVE COUNCIL
 Take notice that a vacancy in the Legislative Council has occurred for the seat in the..................................Region to which the Hon...............................had most recently been elected.
@@ -665,9 +690,10 @@ This notice is published under section 156C(1)(a) because —
 Date Electoral Commissioner
 .................................................................
 Address
+[Form 35 inserted in Gazette 6 Dec 1996 p. 6723.]
 Form 36
 Western Australia
-Electoral Act 1907 (s.156C(5))
+Electoral Act 1907 (s. 156C(5))
 NOMINATION TO FILL A VACANCY IN THE LEGISLATIVE COUNCIL UNDER SECTION 156C
 To the Electoral Commissioner
 I, the undersigned, being a qualified person as defined in section 156A of the Electoral Act 1907, by this notice consent to act as a member of the Legislative Council in the...............................................Region referred to in your notice of.............................................................
@@ -682,8 +708,9 @@ Signature of witness who Signature of Candidate
 must be an elector
 .....................................................................
 Date
+[Form 36 inserted in Gazette 6 Dec 1996 p. 6724.]
 Form 37
 Western Australia
-Electoral Act 1907 (s.113(4)(a))
+Electoral Act 1907 (s. 113(4)(a))
 WATERMARK
-[Schedule 3 amended in Gazette 8 November 1996 pp.6269-77; 6 December 1996 pp.6723-4; 12 December 1997 p.7259; 20 November 1998 p.6265; 20 October 2000 pp.5929-48; 10 November 2000 pp.6170-80.]
+[Form 37 amended in Gazette 8 Nov 1996 p. 6277.]
