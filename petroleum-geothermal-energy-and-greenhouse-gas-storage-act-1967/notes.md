@@ -1,25 +1,25 @@
 Notes
-This is a compilation of the Petroleum and Geothermal Energy Resources Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 May 2008 of the Petroleum and Geothermal Energy Resources Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum Act 1967 | 72 of 1967 | 11 Dec 1967 | 5 Sep 1969 (see s. 2 and Gazette 5 Sep 1969 p. 2540)
-Metric Conversion Act 1972 | 94 of 1972 | 4 Dec 1972 | Relevant amendments (see First Sch.) took effect on 1 Jan 1973 (see s. 4(2) and Gazette 29 Dec 1972 p. 4811)
+Metric Conversion Act 1972 s. 4 | 94 of 1972 (as amended by No. 19 of 1973 s. 8) | 4 Dec 1972 | Relevant amendments (see First Sch.) took effect on 1 Jan 1973 (see s. 4(2) and Gazette 29 Dec 1972 p. 4811)
 Acts Amendment (Mining) Act 1981 Pt. III | 69 of 1981 | 30 Oct 1981 | 30 Oct 1981
 Reprint of the Petroleum Act 1967 approved 20 Sep 1982 (includes amendments listed above)
 Acts Amendment (Aboriginal Affairs Planning Authority) Act 1982 Pt. III | 107 of 1982 | 7 Dec 1982 | 7 Dec 1982
 Barrow Island Royalty Variation Agreement Act 1985 Pt. III | 113 of 1985 | 7 Jan 1986 | 7 Jan 1986 (see s. 2)
 Petroleum Amendment Act 1987 | 90 of 1987 | 9 Dec 1987 | Act other than s. 6: 14 Feb 1983 (see s. 2(1)); s. 6: 9 Dec 1987 (see s. 2(2))
-Acts Amendment (Petroleum) Act 1990 Pt. II 6-12 | 12 of 1990 | 31 Jul 1990 | 1 Oct 1990 (see s. 2(1) and Gazette 28 Sep 1990 p. 5099)
-Petroleum (Drilling Reservations) Amendment Act 1990 | 78 of 1990 | 22 Dec 1990 | 1 Mar 1991 (see s. 2 and Gazette 22 Feb 1991 p. 868)
+Acts Amendment (Petroleum) Act 1990 Pt. II 8-14 | 12 of 1990 | 31 Jul 1990 | 1 Oct 1990 (see s. 2(1) and Gazette 28 Sep 1990 p. 5099)
+Petroleum (Drilling Reservations) Amendment Act 1990 | 78 of 1990 | 22 Dec 1990 | s. 1 and 2: 22 Dec 1990; Act other than s. 1 and 2: 1 Mar 1991 (see s. 2 and Gazette 22 Feb 1991 p. 868)
 Reprint of the Petroleum Act 1967 as at 17 Dec 1992 (erratum in Gazette 26 Feb 1993 p. 1362) (includes amendments listed above)
 Land (Titles and Traditional Usage) Act 1993 s. 45 | 21 of 1993 | 2 Dec 1993 | 2 Dec 1993 (see s. 2)
 Petroleum Royalties Legislation Amendment Act 1994 Pt. 2 | 11 of 1994 | 15 Apr 1994 | 1 Mar 1994 (see s. 2)
-Acts Amendment (Petroleum) Act 1994 Pt. 3 13-15 | 28 of 1994 | 29 Jun 1994 | 22 Jul 1994 (see s. 2 and Gazette 22 Jul 1994 p. 3728)
+Acts Amendment (Petroleum) Act 1994 Pt. 3 15-17 | 28 of 1994 | 29 Jun 1994 | 22 Jul 1994 (see s. 2 and Gazette 22 Jul 1994 p. 3728)
 Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
 Acts Amendment and Repeal (Native Title) Act 1995 Pt. 7 | 52 of 1995 | 24 Nov 1995 | 9 Dec 1995 (see s. 2 and Gazette 8 Dec 1995 p. 5935)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Acts Amendment (Marine Reserves) Act 1997 Pt. 4 | 5 of 1997 | 10 Jun 1997 | 29 Aug 1997 (see s. 2 and Gazette 29 Aug 1997 p. 4867)
-Acts Amendment (Land Administration) Act 1997 Parts 49 and 68 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
+Acts Amendment (Land Administration) Act 1997 Pt. 49 and 68 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 Pt. 4 | 61 of 1998 | 11 Jan 1999 | 11 Jan 1999 (see s. 2(1))
 Acts Amendment (Mining and Petroleum) Act 1999 Pt. 3 | 17 of 1999 | 15 Jun 1999 | 24 Jul 1999 (see s. 2 and Gazette 23 Jul 1999 p. 3385)
 Reprint of the Petroleum Act 1967 as at 14 Jan 2000 (includes amendments listed above)
@@ -30,17 +30,19 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 98 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 4: The Petroleum Act 1967 as at 13 Apr 2007 (includes amendments listed above)
 Petroleum Amendment Act 2007 Pt. 2 Div. 1 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 5: The Petroleum and Geothermal Energy Resources Act 1967 as at 2 May 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Petroleum Safety Act 1999 s. 92 | 19 of 1999 | 21 Jun 1999 | To be proclaimed
 Native Title (State Provisions) Act 1999 Sch. 2 Div. 7 | 60 of 1999 | 10 Jan 2000 | s. 7.3 operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Petroleum Legislation Amendment and Repeal Act 2005 Pt. 2 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
 Petroleum Amendment Act 2007 Pt. 2 Div. 2 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Repealed by this Act, s. 3.
 Repealed by the Interpretation Act 1984.
+The amendment in the Petroleum Safety Act 1999 s. 92 is not included as it was repealed by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before it came into operation.
+Short title was initially the Petroleum Act 1967 and was subsequently changed to the Petroleum and Geothermal Energy Resources Act 1967 (see note under s. 1).
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
-The Acts Amendment (Mining) Act 1981 s. 34(2) and (3) are transitional provisions that are or no further effect.
+The Acts Amendment (Mining) Act 1981 s. 34(2) and (3) are transitional provisions that are of no further effect.
 The Acts Amendment (Petroleum) Act 1990 s. 26(2) reads as follows:
 “
 (2) A permit granted before the commencement of this section is not invalidated by reason of any error that may have occurred in specifying the date of commencement of the permit and the term of such a permit shall be deemed to have commenced on the day of commencement specified in it.
@@ -143,19 +145,7 @@ The Acts Amendment (Mining and Petroleum) Act 1999 s. 26(5) reads as follows:
 (5) Despite the amendments made by this section, section 43F of the Petroleum Act 1967 continues to apply to and in relation to the extension of a drilling reservation in force on the commencement of this section.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Petroleum Safety Act 1999 s. 92, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
-92.Consequential amendments
-The Acts referred to in the first column of Schedule 2 are amended as set out in the second column of that Schedule.
-”.
-Schedule 2 reads as follows:
-“
-Schedule 2 — Consequential amendments
-[Section 92]
-Short title of ActAmendment
-Petroleum Act 1967 | Section 91(1) is amended by deleting “and shall secure the safety, health and welfare of persons engaged in those operations in or about the permit area, drilling reservation, lease area or licence area”. Section 91(3) is amended by deleting “and shall secure the safety, health and welfare of persons engaged in those operations in or about that area”.
-”.
-On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3.Consequential amendments
 Schedule 2 has effect.
@@ -211,7 +201,7 @@ After section 116(1) the following subsection is inserted —
 (1a)Where the giving of a consent under subsection (1) is a Part 2 act, a Part 3 act or Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of that subsection is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 Pt. 2 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 Pt. 2 had not come into operation. It reads as follows:
 “
 Part 2 — Petroleum Act 1967
 3.The Act amended
@@ -1429,7 +1419,7 @@ regulations made for the purposes of this subclause may declare that this Schedu
 “this Schedule” includes regulations made for the purposes of this Schedule.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 Pt. 2 Div. 2 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Petroleum Amendment Act 2007 Pt. 2 Div. 2 had not come into operation. It reads as follows:
 “
 Part 2 — Petroleum Act 1967
 Division 2 — Amendments to Act as amended by the Petroleum Legislation Amendment and Repeal Act 2005
@@ -1541,4 +1531,113 @@ s. 149C(1) | Sch. 1 cl. 2
 s. 153(2)(l) | Sch. 1 cl. 72(1)
 Sch. 1 cl. 1
 ”.
-Short title was initially the Petroleum Act 1967 and was subsequently changed to the Petroleum and Geothermal Energy Resources Act 1967 (see note under s. 1).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+a compensable lessee21(1)
+access authority5(1)
+access authority area7A(2)
+adjacent area26
+affected lessee24(1)
+application for a primary licence5(1)
+application for a secondary licence5(1)
+approved5(1)
+approved development plan5(1)
+authorisation24A(3)
+Barrow Island lease128
+Barrow Marine lease128
+block5(1)
+charge75(15)
+commencing day128
+construct5(1)
+construction5(1)
+court126(2)
+Crown land5(1)
+dealing69(10)
+debenture75(15)
+document5(1)
+drilling reservation5(1)
+explore for29(3)
+federal duty144A(3)
+former provisions128
+geothermal access authority5(1)
+geothermal drilling reservation5(1)
+geothermal energy5(1)
+geothermal energy resources5(1)
+geothermal exploration permit5(1)
+geothermal lease area5(1)
+geothermal lessee5(1)
+geothermal licensee5(1)
+geothermal permit area5(1)
+geothermal permittee5(1)
+geothermal production licence5(1)
+geothermal resources area5(1)
+geothermal retention lease5(1)
+geothermal special prospecting authority5(1)
+geothermal title69A(1), 106(13)
+good oil-field practice5(1)
+graticular section5(1)
+holder91B(1)
+holder of a drilling reservation5(1)
+inspector5(1)
+lease5(1)
+lease area5(1)
+lessee5(1), 128
+licence5(1)
+licence area5(1)
+licensee5(1)
+location5(1)
+marine reserve28A(3)
+native title holders24A(3)
+oil shale5(1)
+operations to which this Division applies128
+operator92(1)
+partly cancelled5(1)
+partly determined5(1)
+permit5(1)
+permit area5(1)
+permittee5(1)
+petroleum5(1)
+petroleum access authority5(1)
+petroleum drilling reservation5(1)
+petroleum exploration permit5(1)
+petroleum lease area5(1)
+petroleum lessee5(1)
+petroleum licensee5(1)
+petroleum permit area5(1)
+petroleum permittee5(1)
+petroleum pool5(1)
+petroleum production licence5(1)
+petroleum retention lease5(1)
+petroleum special prospecting authority5(1)
+petroleum title69A(1), 106(13)
+prescribed instrument128
+primary entitlement5(1)
+primary licence5(1)
+private land5(1)
+recovery5(1)
+Register5(1)
+registered holder5(1)
+regulations5(1)
+reservoir16(2)
+royalty period5(1)
+royalty value5(1)
+safety zone112A(1)
+secondary licence5(1)
+special prospecting authority5(1)
+the area to which the surrender relates98(5)
+the compensable lessee21(1)
+the former area133(2)(a)
+the operations area92(1)
+the original licence61(1)
+the original permit37A(1)
+the relinquished area5(1)
+the State26
+title69J, 127A(5)
+unit development69(1)
+variation agreement128
+vessel5(1)
+water113(2)
+well5(1)
+wholly cancelled5(1)
+wholly determined5(1)
