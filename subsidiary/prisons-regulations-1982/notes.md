@@ -37,7 +37,8 @@ Prisons Amendment Regulations 2004 | 14 Sep 2004 p. 4057 | 14 Sep 2004
 Reprint 4: The Prisons Regulations 1982 as at 19 Nov 2004 (includes amendments listed above)
 Prisons Amendment Regulations 2007 | 3 Apr 2007 p. 1493-1506 | 4 Apr 2007 (see r. 2 and Gazette 3 Apr 2007 p. 1491)
 Prisons Amendment Regulations 2008 | 28 Mar 2008 p. 907-8 | r. 1 and 2: 28 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Mar 2008 (see r. 2(b))
-Repealed by Associations Incorporation Act 1987.
+Prisons Amendment Regulations (No. 2) 2008 | 9 May 2008 p. 1844-5 | r. 1 and 2: 9 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 10 May 2008 (see r. 2(b))
+Footnote no longer applicable.
 Regulation 5 disallowed on 15 Dec 1999 (see Gazette 21 Dec 1999 p. 6417).
 The Inspector of Custodial Services Act 2003 s. 56(2) reads as follows:
 “
