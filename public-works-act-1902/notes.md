@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Public Works Act 1902 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 16 May 2008 of the Public Works Act 1902 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Works Act 1902 | 1902 (2 Edw. VII No. 47) | 20 Dec 1902 | 20 Dec 1902
@@ -47,12 +47,12 @@ Licensed Surveyors Amendment Act 1996 s. 28 | 79 of 1996 | 14 Nov 1996 | 5 Apr 1
 Transfer of Land Amendment Act 1996 s. 153(1) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
 Reprint of the Land Acquisition and Public Works Act 1902 as at 3 Jun 1997 (includes all amendments listed above)
 Acts Amendment (Land Administration) Act 1997 Pt. 35 and s. 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
-Dampier to Bunbury Pipeline Act 1997 Sch. 4 Div. 5 | 53 of 1997 (as amended by this Act Sch. 4 Div. 1) | 12 Dec 1997 | 12 Dec 1997 (see s. 2(1))
+Dampier to Bunbury Pipeline Act 1997 Sch. 4 Div. 5 | 53 of 1997 | 12 Dec 1997 | 12 Dec 1997 (see s. 2(1))
 Statutes (Repeals and Minor Amendments) Act 1997 s. 78 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
 Reprint of the Public Works Act 1902 as at 27 Aug 1999 (includes all amendments listed above)
 Gas Corporation (Business Disposal) Act 1999 s. 107 | 58 of 1999 | 24 Dec 1999 | 16 Dec 2000 (see s. 2(5) and Gazette 15 Dec 2000 p. 7201)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 14(13) and 35 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
-`Reprint of the Public Works Act 1902 as at 1 Jun 2001 (includes amendments listed above)
+Reprint of the Public Works Act 1902 as at 1 Jun 2001 (includes amendments listed above)
 Public Transport Authority Act 2003 s. 160-166 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 98 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
@@ -60,40 +60,52 @@ Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 10 Div. 5 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 9: The Public Works Act 1902 as at 6 Oct 2006 (includes amendments listed above)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | 9 Jan 2008 (see s. 2 and Gazette 8 Jan 2008 p. 33)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 5) | 36 of 2007 | 21 Dec 2007 | 9 Jan 2008 (see s. 2(b) and Gazette 8 Jan 2008 p. 33)
 Water Resources Legislation Amendment Act 2007 s. 198 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
+Reprint 10: The Public Works Act 1902 as at 16 May 2008 (includes amendments listed above)
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Roads Act 1911 which was repealed by the Road Districts Act 1919 which was repealed by the Local Government Act 1960 which is now cited as the Local Government (Miscellaneous Provisions) Act 1960. The main Act now dealing with local governments is the Local Government Act 1995.
 Repealed by the Dividing Fences Act 1961 s. 2(1).
 Short title subsequently amended twice (see note under s. 1). Now again known as the Public Works Act 1902.
 The Second Schedule was inserted by the Metric Conversion Amendment Act 1973.
-The Acts Amendment (Land Administration) Act 1987 s. 39 reads as follows:
-“
-39.Validation
-(1) The purported exercise or performance on behalf of the Minister for Works by —
-(a) any Minister of the Crown other than the Minister for Works or by a State agency or instrumentality or other public authority; or
-(b) any person employed by the Government or by a State agency or instrumentality or other public authority,
-with the consent of the Minister for Works during the period beginning on 1 January 1970 and ending immediately before the commencement of this Part of any power conferred or duty imposed on the Minister for Works by the principal Act is hereby validated and declared to have been lawfully done by that Minister of the Crown or the State agency or instrumentality or other public authority or person employed by the Government or by the State agency or instrumentality or other public authority, as the case requires.
-(2) In this section —
-“the Minister for Works” has the meaning given by the principal Act.
-”.
-The Public Works Amendment Act 1994 s. 10 and 11 read as follows:
+The Acts Amendment (Land Administration) Act 1987 s. 39 is a validation provision that is of no further effect.
+The Public Works Amendment Act 1994 s. 11 is a validation provision that is of no further effect. Section 10 reads as follows:
 “
 10.Transitional
 (1) A reference in a document executed before the commencement of this Act to the Western Australian Building Authority is to be construed, unless the context otherwise requires, as if that reference had been amended to be a reference to the Western Australian Building Management Authority.
 (2) A reference in a document executed before the commencement of this Act to the Western Australian Building Authority Account is to be construed, unless the context otherwise requires, as if that reference had been amended to be a reference to the Western Australian Building Management Authority Account.
-11.Validation
-(1) The purported exercise or performance on behalf of the Minister for Works by —
-(a) the Minister of the Crown to whom the administration of the Marine and Harbours Act 1981 is or was committed by the Governor; or
-(b) the chief executive officer of the Department principally assisting that Minister of the Crown in the administration of the Marine and Harbours Act 1981 or any other officer of that Department,
-with the consent of the Minister for Works during the period beginning on 1 July 1985 and ending immediately before the commencement of this Act of any power conferred or duty imposed on the Minister for Works by the principal Act is hereby validated and declared to have been lawfully done by that Minister of the Crown or that officer of that Department, as the case requires.
-(2) In this section —
-“the Minister for Works” has the meaning given by the principal Act.
 ”.
-The Statutes (Repeals and Minor Amendments) Act 2000 s. 35(2) and (3) read as follows:
-“
-(2) The purported exercise or performance by a Minister of the Crown other than the responsible Minister of any power conferred or duty imposed on the responsible Minister and purportedly delegated to the Minister of the Crown under section 5A(f) of the Act, as in force during the period beginning on 7 December 1993 and ending immediately before the commencement of this section, is validated and declared to have been lawfully exercised or performed by that Minister of the Crown.
-(3) In subsection (2) —
-“responsible Minister” means the Minister to whom the administration of the Act was committed by the Governor at the time of a purported delegation referred to in subsection (2).
-”.
+The Statutes (Repeals and Minor Amendments) Act 2000 s. 35(2) and (3) is a validation provision that is of no further effect.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+authorised buildings9A
+authorised person83A(1)
+borrow9A
+bridge91(1)
+Crown land2
+ferry91(1)
+ford91(1)
+Government work2
+judge2
+local authority2
+local work2
+Minister2
+public authority113(1)
+public reserve2
+Public Transport Authority2
+public work2
+railway2, 95
+Registrar2
+relevant person113A
+river2
+road2, 84
+special Act2
+surveyor2
+testing work83A(1)
+the Account9A
+the Building Management Authority9A
+waste112(1)
+waste management operation112(1)
+work2
