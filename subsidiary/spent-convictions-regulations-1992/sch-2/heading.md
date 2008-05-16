@@ -31,8 +31,8 @@ An employment agency cannot use a spent conviction to discriminate against a per
 Ÿby refusing to provide the service
 Ÿin the terms or conditions on which the service is offered
 Ÿin the way in which it provides the service.
-Unions and employer organizations
-A union or employer organization cannot use a spent conviction against a person —
+Unions and employer organisations
+A union or employer organisation cannot use a spent conviction against a person —
 Ÿto reject an application for membership
 Ÿin setting the terms or conditions of admission to membership
 Ÿto take away membership or vary its terms
