@@ -21,6 +21,7 @@ Reprint 2: The Pawnbrokers and Second-hand Dealers Regulations 1996 as at 13 Jan
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2006 | 27 Jun 2006 p. 2301-2 | 1 Jul 2006 (see r. 2)
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2007 | 30 Apr 2007 p. 1835-9 | 1 May 2007 (see r. 2 and Gazette 30 Apr 2007 p. 1833)
 Pawnbrokers and Second-hand Dealers Amendment Regulations (No. 2) 2007 | 29 Jun 2007 p. 3202-4 | r. 1 and 2: 29 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+Pawnbrokers and Second-hand Dealers Amendment Regulations 2008 | 16 May 2008 p. 1912-13 | r. 1 and 2: 16 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 17 May 2008 (see r. 2(b))
 Repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
 Repealed by the Financial Sector (Collection of Data — Consequential and Transitional Provisions) Act 2001 of the Commonwealth.
 Repealed by the Pawnbrokers and Second-hand Dealers Act 1994.
