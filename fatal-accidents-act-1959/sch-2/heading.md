@@ -1,7 +1,7 @@
 ## Schedule 2
 [s. 6.]
 Definition of relative
-In this Act, “relative” in relation to a deceased person means —
+In this Act, relative in relation to a deceased person means —
 (a) a person who immediately before the deceased’s death was —
 (i) the spouse of the deceased; or
 (ii) a de facto partner of the deceased who was living in a de facto relationship with the deceased and had been living on that basis with the deceased for at least 2 years immediately before the deceased died;
