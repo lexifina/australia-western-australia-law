@@ -11,6 +11,7 @@ Acts Amendment (Coal Mining Industry) Act 1994 s. 22 | 45 of 1994 | 22 Sep 1994 
 Reprint 2: The Fatal Accidents Act 1959 reprinted as at 7 Feb 2003 (includes amendments listed above)
 Acts Amendment (Equality of Status) Act 2003 Pt. 20 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 6 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
+Fatal Accidents Amendment Act 2008 | 20 of 2008 | 19 May 2008 | 19 May 2008 (see s. 2)
 The Limitation Legislation Amendment and Repeal Act 2005 s. 13(2) reads as follows:
 “
 13.Section 7 replaced and a savings provision
