@@ -53,7 +53,7 @@ Reprint of the Mining Act 1978 as at 7 Sep 2001 (includes amendments listed abov
 Mining Amendment Act 2002 | 15 of 2002 | 8 Jul 2002 | s. 23: 15 Jul 2001 (see s. 2(3) and Cwlth. Gazette 13 Jul 2001 No. S285); Act other than s. 12 and 23: 18 Jan 2003 (see s. 2(1) and (2) and Gazette 17 Jan 2003 p. 105); s. 12: 10 Feb 2006 (see s. 2(2) and Gazette 3 Feb 2006 p. 516); Proclamation published 14 Jan 2005 p. 164 revoked (see Gazette 24 Mar 2005 p. 1001)
 Acts Amendment (Equality of Status) Act 2003 Pt. 46 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 52 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
-Mining Amendment Act 2004 10-21 | 39 of 2004 | 3 Nov 2004 | Act other than Pt. 9: 10 Feb 2006 (see s. 2 and Gazette 3 Feb 2006 p. 516); Pt. 9: 31 Mar 2007 (see s. 2 and Gazette 9 Mar 2007 p. 847); Proclamation published 14 Jan 2005 p. 164 revoked (see Gazette 24 Mar 2005 p. 1002)
+Mining Amendment Act 2004 10-21, 26, 27 | 39 of 2004 (as amended by No. 19 of 2008 Pt. 2) | 3 Nov 2004 | s. 1 and 2: 3 Nov 2004; Proclamation published 14 Jan 2005 p. 164 revoked (see Gazette 24 Mar 2005 p. 1002); Act other than s. 1 and 2 and Pt. 9: 10 Feb 2006 (see s. 2 and Gazette 3 Feb 2006 p. 516); Pt. 9: 31 Mar 2007 (see s. 2 and Gazette 9 Mar 2007 p. 847).
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 15 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 67 Subdiv. 2 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
@@ -62,7 +62,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 15 (s. 61-62) | 24 of 2005 | 2 Dec 2005 | s. 61: 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244); s. 62: 31 Mar 2007 (see s. 2(3) and Gazette 9 Mar 2007 p. 847)
 Mining Amendment Act 2005 | 27 of 2005 | 12 Dec 2005 | 10 Feb 2006 (see s. 2 and Gazette 3 Feb 2006 p. 516)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-Reprint 6: The Mining Act 1978 as at 10 Apr 2006 (includes amendments listed above)
+Reprint 6: The Mining Act 1978 as at 10 Apr 2006 (includes amendments listed above except those in the Mining Legislation Amendment and Validation Act 2008 Pt. 2)
 Petroleum Amendment Act 2007 s. 100 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -70,6 +70,7 @@ Short title | Number and year | Assent | Commencement
 Mining Amendment Act 1996 s. 9 | 54 of 1996 | 11 Nov 1996 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999, s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
+Mining Legislation Amendment and Validation Act 2008 Pt. 3 | 19 of 2008 | 19 May 2008 | To be proclaimed (see s. 2(c))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in a written law to the Department of Mines is, unless the contrary is intended, to be read and construed as a reference to the Department of Industry and Resources.
@@ -173,7 +174,8 @@ The Mining Amendment Act 2004 s. 19 reads as follows:
 “relevant licence” means —
 (a)an exploration licence granted under the Mining Act 1978 that is in force immediately before the commencement; or
 (b)an exploration licence granted under the Mining Act 1978 after the commencement in respect of an application made before the commencement.
-(2) Despite the amendments made by this Part, the old provisions (other than sections 63A, 65(1a) and 65(4)) continue to apply to and in relation to a relevant licence.
+(2) Despite the amendments made by this Part, the old provisions (other than sections 61(3), 63A, 65(1a), 65(1c) and 65(4)) continue to apply to and in relation to a relevant licence.
+(2a) Section 61(3) and (3a) of the Mining Act 1978 apply to and in relation to an application for the extension of the term of a relevant licence.
 (3) If the holder of a relevant licence fails to comply with the requirements for surrender in section 65(1) or (1b) of the old provisions, the Minister may, by notice in writing, require the holder to lodge the surrender for registration within a period specified in the notice.
 (4) Section 63A of the Mining Act 1978 applies to and in relation to a relevant licence as if it contained a provision to the effect that the licence is liable to forfeiture if the holder of the licence fails to comply with a requirement under subsection (3).
 (5) Despite the amendments made by section 16, section 65(1a) of the old provisions continues to apply to and in relation to a relevant licence as if —
@@ -185,6 +187,11 @@ The Mining Amendment Act 2004 s. 19 reads as follows:
 the Minister may, if satisfied that a ground for exemption exists, exempt
 ”.
 (6) For the purposes of the application of section 65(1a) of the old provisions as modified by subsection (5) a ground for exemption exists if a prescribed ground for deferral exists under section 65(3b) of the Mining Act 1978 as inserted by section 16.
+(7) Despite the amendments made by section 16, section 65(1c) of the old provisions continues to apply to and in relation to a relevant licence as if section 65(1c)(b) were replaced by the following paragraph —
+“
+(b) shall be lodged at an office of the Department on or before the last day of the third or fourth year, as the case requires, of the term for which it is lodged;
+”.
+[Section 19 amended by No. 19 of 2008 s. 5.]
 ”.
 The Mining Amendment Act 2004 s. 32(3) reads as follows:
 “
@@ -419,7 +426,20 @@ The Mining Amendment Act 2004 s. 86 reads as follows:
 86.Transitional provision
 If, on the commencement of this Part, an application or objection in respect of a mining tenement has been made, but has not been determined, under Part IV of the Mining Act 1978, the application or objection is to be dealt with and determined under that Act as if this Part had not come into operation.
 ”.
-Footnote no longer applicable.
+The Mining Legislation Amendment and Validation Act 2008 Pt. 2 Div. 2 reads as follows:
+“
+Division 2 — Validation and pending applications
+6.Validation of extension of term of certain exploration licences
+If, before the day on which this section comes into operation, the term of a relevant licence was extended as a result of an application lodged at an office of the Department —
+(a) the extension of the term of the licence; and
+(b) anything done or purportedly done under the licence, or in relation to the licence, after the extension,
+are taken to be, and always to have been, as valid and effective as they would have been if the application had been lodged at the office of the mining registrar.
+7.Pending applications for extension of term
+If —
+(a) an application for the extension of the term of a relevant licence has been lodged at an office of the Department; and
+(b) the application has not been determined before the day on which this section comes into operation,
+the application is to be dealt with and determined as if it had been lodged at the office of the mining registrar.
+”.
 The Mining Amendment Act 1981 s. 3 reads as follows:
 “
 3.Continuation of miners’ rights issued under Mining Act 1904
@@ -427,4 +447,18 @@ The Mining Amendment Act 1981 s. 3 reads as follows:
 (2) Subsection (1) of this section shall not be construed so as to derogate in any way from sections 15 and 16 of the Interpretation Act 1918.
 (3) A miner’s right issued under the Mining Act 1904 before 8 December 1978 shall be deemed to have been valid and in force until the date of expiry expressed thereon.
 (4) Subsection (3) of this section shall not be construed so as to derogate in any way from the effect of the Mining Act Amendment Clause 1978 as set out in Clause 3 of the Second Schedule to the Mining Act 1978.
+”.
+The Mining Legislation Amendment and Validation Act 2008 Pt. 3 reads as follows:
+“
+Part 3 — Provisions relating to miscellaneous licences
+8.Validation of grant of certain miscellaneous licences
+If, before the day on which this section comes into operation, a miscellaneous licence was granted for a purpose approved or specified by the Director General of Mines —
+(a) the grant of the licence; and
+(b) anything done or purportedly done under the licence or in relation to the licence,
+are taken to be, and always to have been, as valid and effective as they would have been if the purpose so approved or specified had been prescribed for the purposes of the Mining Act 1978 section 91(1) at the time of the grant.
+9.Pending applications for miscellaneous licence
+If —
+(a) an application has been made for a miscellaneous licence for a purpose approved or specified by the Director General of Mines; and
+(b) the application has not been determined before the day on which this section comes into operation,
+the application is to be dealt with and determined as if, on and from the time the application was made, the purpose so approved or specified were prescribed for the purposes of the Mining Act 1978 section 91(1).
 ”.
