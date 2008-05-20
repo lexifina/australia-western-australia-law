@@ -52,6 +52,18 @@ Reprint 3: The Stock (Identification and Movement) Regulations 1972 as at 7 Oct 
 Stock (Identification and Movement) Amendment Regulations (No. 2) 2006 | 16 Jun 2006 p. 2120-1 | 1 Jul 2006 (see. r. 2)
 Stock (Identification and Movement) Amendment Regulations 2006 | 19 Sep 2006 p. 3707-8 | 19 Sep 2006
 Stock (Identification and Movement) Amendment Regulations 2007 | 15 Jun 2007 p. 2761-2 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Stock (Identification and Movement) Amendment Regulations 2008 r. 3 and 4 | 20 May 2008 p. 1941 | 1 Jul 2008 (see r. 2(b))
 Now known as the Stock (Identification and Movement) Regulations 1972; citation changed (see note under r. 1).
 The commencement date of 1 Jul 1982 that was specified was before the date of gazettal.
 The commencement date of 1 Oct 1983 that was specified was before the date of gazettal.
+On the date as at which this compilation was prepared, the Stock (Identification and Movement) Amendment Regulations 2008 r. 3 and 4 had not come into operation. They read as follows:
+“
+3.The regulations amended
+The amendments in these regulations are to the Stock (Identification and Movement) Regulations 1972.
+4.Schedule 2 amended
+Schedule 2 items 2, 4 and 5 are amended by deleting “55” and inserting instead —
+“ 57 ”.
+”.
