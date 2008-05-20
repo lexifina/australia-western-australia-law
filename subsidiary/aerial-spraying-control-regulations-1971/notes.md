@@ -30,7 +30,22 @@ Reprint 3: The Aerial Spraying Control Regulations 1971 as at 4 Mar 2005 (includ
 Aerial Spraying Control Amendment Regulations 2005 | 31 May 2005 p. 2396-7 | 1 Jul 2005 (see r. 2)
 Aerial Spraying Control Amendment Regulations 2006 | 16 Jun 2006 p. 2111 | 1 Jul 2006 (see r. 2)
 Aerial Spraying Control Amendment Regulations 2007 | 15 Jun 2007 p. 2751 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Aerial Spraying Control Amendment Regulations2008 r. 3-5 | 20 May 2008 p. 1933 | 1 Jul 2008 (see r. 2(b))
 Now the Director General of Agriculture. See Agriculture Act 1988 s. 16.
 Now the Minister for Agriculture and Forestry.
 Land Act 1933 repealed. Now see Land Administration Act 1997 s. 6 and Sch. 1.
 Now known as the Aerial Spraying Control Regulations 1971; citation changed (see note under r. 1).
+On the date as at which this compilation was prepared, the Aerial Spraying Control Amendment Regulations 2008 r. 3-5 had not come into operation. They read as follows:
+“
+3.The regulations amended
+The amendments in these regulations are to the Aerial Spraying Control Regulations 1971.
+4.Regulation 4 amended
+Regulation 4(3)(b) is amended by deleting “$11.50.” and inserting instead —
+“ $11.90. ”.
+5.Regulation 9 amended
+Regulation 9(2)(b) is amended by deleting “$21.50” and inserting instead —
+“ $22.20 ”.
+”.
