@@ -11,6 +11,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Magistrates Court (General) Amendment Rules 2008 r. 3-6 | 8 Apr 2008 p. 1335-9 | On commencement of the Acts Amendment (Justice) Act 2008 s. 71 (see r. 2(b))
+Magistrates Court (General) Amendment (Road Traffic) Rules 2008 r. 3-8 | 23 May 2008 p. 1991-2 | Operative on commencement of the Road Traffic Amendment Act 2006 s. 6 (see r. 2(b))
 On the date as at which this compilation was prepared, the Magistrates Court (General) Amendment Rules 2008 r. 3-6 had not come into operation. They read as follows:
 “
 3.The rules amended
@@ -99,4 +100,28 @@ Information wanted
 Application | I would like — to inspect; to obtain a copy of; to view or listen to, the above information. [Set out grounds for the request.]
 Signature of applicant |  | Date
 ”.
+”.
+On the date as at which this compilation was prepared, the Magistrates Court (General) Amendment (Road Traffic) Rules 2008 r. 3-8 had not come into operation. They read as follows:
+“
+3.The rules amended
+The amendments in these rules are to the Magistrates Court (General) Rules 2005.
+4.Rule 51A repealed
+Rule 51A is repealed.
+5.Rule 51B amended
+Rule 51B(2) is amended by deleting “or 51A”.
+6.Rule 52 amended
+(1) Rule 52(1) is amended as follows:
+(a) by deleting “or 51A”;
+(b) by deleting all of the subrule after “section 76” and inserting instead a full stop.
+(2) Rule 52(2) is amended by deleting “, 6 or 9” and inserting instead —
+“ or 6 ”.
+7.Rule 54 amended
+Rule 54 is amended as follows:
+(a) by inserting after “special application,” —
+“ or ”;
+(b) by deleting “or 103(6)”.
+8.Schedule 2 amended
+(1) Schedule 2 is amended in each of Forms 5 and 6 by deleting “issue” and inserting instead —
+“ grant ”.
+(2) Schedule 2 is amended by deleting Form 9.
 ”.
