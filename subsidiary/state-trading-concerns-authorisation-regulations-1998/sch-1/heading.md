@@ -1,12 +1,11 @@
 ## Schedule 1
 [Heading inserted in Gazette 31 Aug 1999 p. 4241.]
 ## Part 1 — Prescribed financial entities (regulation 2)
-Chemistry Centre (WA)
 Commissioner for Equal Opportunity
 Department for Community Development
 Department for Planning and Infrastructure
 Department of Consumer and Employment Protection
-Department of Environment
+Department of Environment and Conservation
 Department of Fisheries
 Department of Health
 Department of Industry and Resources
@@ -18,16 +17,8 @@ Office of the Auditor General
 Office of the Public Sector Standards Commissioner
 Office of Water Regulation
 Western Australia Police Service
-[Part 1 inserted in Gazette 31 Aug 1999 p. 4241; amended in Gazette 21 Jan 2000 p. 346; 18 Feb 2000 p. 916 (correction in Gazette 29 Feb 2000 p. 996); 5 May 2000 p. 2140; 3 Nov 2000 p. 6109; 7 Jun 2002 p. 2733; 9 Aug 2002 p. 3856; 12 Nov 2002 p. 5468; 3 Jan 2003 p. 12; 13 Jun 2003 p. 2118; 30 Sep 2003 p. 4259; 24 Oct 2003 p. 4500; 19 Mar 2004 p. 916 and 917; 23 Mar 2004 p. 979; 1 Oct 2004 p. 4285; 15 Jul 2005 p. 3303-4; 12 Aug 2005 p. 3657; 22 Dec 2006 p. 5810; 13 Jul 2007 p. 3455.]
+[Part 1 inserted in Gazette 31 Aug 1999 p. 4241; amended in Gazette 21 Jan 2000 p. 346; 18 Feb 2000 p. 916 (correction in Gazette 29 Feb 2000 p. 996); 5 May 2000 p. 2140; 3 Nov 2000 p. 6109; 7 Jun 2002 p. 2733; 9 Aug 2002 p. 3856; 12 Nov 2002 p. 5468; 3 Jan 2003 p. 12; 13 Jun 2003 p. 2118; 30 Sep 2003 p. 4259; 24 Oct 2003 p. 4500; 19 Mar 2004 p. 916 and 917; 23 Mar 2004 p. 979; 1 Oct 2004 p. 4285; 15 Jul 2005 p. 3303-4; 12 Aug 2005 p. 3657; 22 Dec 2006 p. 5810; 13 Jul 2007 p. 3455; 23 May 2008 p. 1994.]
 ## Part 2 — Prescribed activities (regulation 3)
-Chemistry Centre (WA)
-The provision by the Chemistry Centre (WA) of scientific support (primarily chemistry based) to industry and to the public.
-In this item —
-“scientific support” includes —
-(a)providing analytical information;
-(b)providing expert advice and expert evidence;
-(c)solving problems; and
-(d)carrying out investigative and applied research projects.
 Commissioner for Equal Opportunity
 The provision by the Commissioner for Equal Opportunity of training services related to promoting the objects of the Equal Opportunity Act 1984.
 Department for Community Development
@@ -45,9 +36,9 @@ The provision by the Department of Consumer and Employment Protection —
 (i) intellectual property; and
 (ii) the sale or provision of advertising opportunities, or opportunities having a purpose similar to advertising,
 relating to Worksafe Western Australia.
-Department of Environment
-The provision by the Department of Environment of goods, information or intellectual property, scientific, technical, educational, training, management or advisory services relating to activities it carries out.
-The provision or sale by the Department of Environment of advertising opportunities, or opportunities having a purpose similar to advertising in relation to its activities.
+Department of Environment and Conservation
+The provision by the Department of Environment and Conservation of goods, information or intellectual property, scientific, technical, educational, training, management or advisory services relating to activities it carries out.
+The provision or sale by the Department of Environment and Conservation of advertising opportunities, or opportunities having a purpose similar to advertising in relation to its activities.
 Department of Fisheries
 The sale by the Department of Fisheries of publications relating to fisheries matters.
 The provision or sale by the Department of Fisheries of advertising opportunities, or opportunities having a purpose similar to advertising.
@@ -57,6 +48,7 @@ The provision by the Department of Health of goods, information or intellectual 
 Department of Industry and Resources
 The sale, leasing or licensing of intellectual property or software that is or has been developed by the Department of Industry and Resources.
 The provision of management, advisory and training services relating to activities developed or currently carried out, by the Department of Industry and Resources.
+The provision by the Department of Industry and Resources of advertising opportunities, or opportunities having a purpose similar to advertising, in relation to its activities.
 Department of Justice
 The provision of information or intellectual property that is or has been developed by the Department of Justice in relation to scientific, technical, educational, training, management and advisory services provided by the Department of Justice.
 Department of Treasury and Finance
@@ -81,4 +73,4 @@ Office of Water Regulation
 The provision or sale by the Office of Water Regulation of goods, information, or publications as a part of, or incidental to, the hosting of a 4 day international conference between 29 September and 2 October 2003.
 Western Australia Police Service
 The provision by the Western Australia Police Service of goods, information or intellectual property, technical, educational, training, management or advisory services relating to services provided by or activities carried out by Western Australia Police Service.
-[Part 2 inserted in Gazette 31 Aug 1999 p. 4241-3; amended in Gazette 21 Jan 2000 p. 346; 18 Feb 2000 p. 916 (correction in Gazette 29 Feb 2000 p. 996); 5 May 2000 p. 2140; 3 Nov 2000 p. 6109; 5 Jan 2001 p. 126; 7 Jun 2002 p. 2733; 9 Aug 2002 p. 3856; 12 Nov 2002 p. 5468; 3 Jan 2003 p. 12; 13 Jun 2003 p. 2118-19; 30 Sep 2003 p. 4259; 24 Oct 2003 p. 4500; 19 Mar 2004 p. 916 and 917; 23 Mar 2004 p. 979; 1 Oct 2004 p. 4285; 15 Jul 2005 p. 3303 and 3304; 12 Aug 2005 p. 3657; 15 Nov 2005 p. 5620; 17 Mar 2006 p. 1028; 22 Dec 2006 p. 5810; 13 Jul 2007 p. 3455.]
+[Part 2 inserted in Gazette 31 Aug 1999 p. 4241-3; amended in Gazette 21 Jan 2000 p. 346; 18 Feb 2000 p. 916 (correction in Gazette 29 Feb 2000 p. 996); 5 May 2000 p. 2140; 3 Nov 2000 p. 6109; 5 Jan 2001 p. 126; 7 Jun 2002 p. 2733; 9 Aug 2002 p. 3856; 12 Nov 2002 p. 5468; 3 Jan 2003 p. 12; 13 Jun 2003 p. 2118-19; 30 Sep 2003 p. 4259; 24 Oct 2003 p. 4500; 19 Mar 2004 p. 916 and 917; 23 Mar 2004 p. 979; 1 Oct 2004 p. 4285; 15 Jul 2005 p. 3303 and 3304; 12 Aug 2005 p. 3657; 15 Nov 2005 p. 5620; 17 Mar 2006 p. 1028; 22 Dec 2006 p. 5810; 13 Jul 2007 p. 3455; 23 May 2008 p. 1994-5.]
