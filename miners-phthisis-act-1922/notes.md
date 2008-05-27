@@ -8,6 +8,10 @@ Miner’s Phthisis Act Amendment Act 1929 | 39 of 1929 | 31 Dec 1929 | 31 Dec 19
 Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | s. 4-9: 14 Feb 1966 (see s. 2(2)); balance: 21 Dec 1965 (see s. 2(1))
 Reprint 1: The Miner’s Phthisis Act 1922 as at 14 Mar 2003 (includes amendments listed above)
 Workers’ Compensation Reform Act 2004 s. 166 | 42 of 2004 | 9 Nov 2004 | s. 166(1) and (2): 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131); s. 166(3): 14 Nov 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131 and 17 Jun 2005 p. 2657); Para (b) of proclamation published 31 Dec 2004 p. 7131 revoked (see Gazette 17 Jun 2005 p. 2657)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Mining Act 1978.
 On the date as at which this reprint was prepared the former Minister for Mines was called the Minister for State Development.
 Under the Alteration of Statutory Designations Order (No. 2) 2001 the former Department of Mines is known as Department of Mineral and Petroleum Resources and its administrative head is called the Director General.
@@ -17,4 +21,19 @@ The Miner’s Phthisis Act Amendment Act 1929 s. 2 reads as follows:
 “
 2.Interpretation of s. 8
 Any person who was employed on, in or about a mine on or after the commencement of the principal Act, shall be deemed to be and to have been “engaged in mining operations” within the meaning of those words in section 8 of the principal Act, if he was so engaged at any time within 12 months next preceding his examination on which the report to the Minister under that section is, or may have been, based.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 35, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 35 reads as follows:
+“
+Schedule 3 — Consequential amendments
+35.Miner’s Phthisis Act 1922 amended
+(1) The amendments in this clause are to the Miner’s Phthisis Act 1922.
+(2) Section 8(2) is amended by deleting “Medical Act 1894” and inserting instead —
+“ Medical Practitioners Act 2008 ”.
+(3) Section 8(3) is amended by deleting “Medical Act 1894” and inserting instead —
+“ Medical Practitioners Act 2008 ”.
 ”.
