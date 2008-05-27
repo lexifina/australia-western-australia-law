@@ -73,6 +73,7 @@ Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 Pt. 24 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Legal Profession Act 2008 s. 711 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
 The Transfer of Land Amendment Act 1996 s. 6(2) reads as follows:
@@ -260,4 +261,33 @@ or endorsed to indicate duty under the Stamp Act 1921 or the Duties Act 2008.
 ”.
 (2) The Twenty-sixth Schedule is amended in condition 8 by deleting “stamp duties” and inserting instead —
 “ duty under the Duties Act 2008 ”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 711 had not come into operation. It reads as follows:
+“
+711.Transfer of Land Act 1893 amended
+(1) The amendments in this section are to the Transfer of Land Act 1893.
+(2) Section 4(1) is amended by inserting in the appropriate alphabetical position —
+“
+“Australian lawyer” has the meaning given to that term in the Legal Profession Act 2008 section 3;
+”.
+(3) Section 5(2)(b) is deleted and the following paragraph is inserted instead —
+“
+(b) the person is an Australian lawyer of not less than 7 years’ standing and practice.
+”.
+(4) Section 6(2)(b) is deleted and the following paragraph is inserted instead —
+“
+(b) the person is an Australian lawyer of not less than 5 years’ standing.
+”.
+(5) Section 8(4) is repealed and the following subsection is inserted instead —
+“
+(4) A person cannot be an Examiner of Titles unless the person is an Australian lawyer.
+”.
+(6) Section 12 is amended by deleting “practise as a barrister or an attorney or solicitor or participate in the fees of any other person so practising.” and inserting instead —
+“
+engage in legal practice or share in the profits of a person so engaged.
+”.
+(7) Section 15(1)(c) is deleted and the following paragraph is inserted instead —
+“
+(c) any other member of the Authority’s staff who is an Australian lawyer.
+”.
 ”.
