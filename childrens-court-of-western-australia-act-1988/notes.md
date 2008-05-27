@@ -40,6 +40,7 @@ State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 
 Acts Amendment (Justice) Act 2008 Pt. 2 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Cross-border Justice Act 2008 Pt. 15 Div. 1 | 7 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(b))
 Parental Support and Responsibility Act 2008 s. 43 | 14 of 2008 | 15 Apr 2008 | To be proclaimed (see s. 2)
+Legal Profession Act 2008 s. 643 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 Chapter XXXII of The Criminal Code was repealed by the Acts Amendment (Evidence) Act 1991 s. 12(9).
 Now known as the Children’s Court of Western Australia Act 1988; short title changed (see note under s. 1).
@@ -159,4 +160,23 @@ On the date as at which this compilation was prepared, the Parental Support and 
 “ person ”;
 (c) in subsection (2)(b) by inserting before “by the CEO” —
 “ if the person is a child, ”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 643 had not come into operation. It reads as follows:
+“
+643.Children’s Court of Western Australia Act 1988 amended
+(1) The amendments in this section are to the Children’s Court of Western Australia Act 1988.
+(2) Section 3(1) is amended by inserting in the appropriate alphabetical position —
+“
+“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+”.
+(3) Section 3(2)(a) and (b) are deleted and the following is inserted instead —
+“
+(a) standing and practice as a legal practitioner; or
+”.
+(4) Section 3(2)(d) is amended by deleting “2 or more” and inserting instead —
+“ both ”.
+(5) Section 7(2) is repealed and the following subsection is inserted instead —
+“
+(2) A person is not eligible for appointment as a judge unless that person is an Australian lawyer, within the meaning of that term in the Legal Profession Act 2008 section 3, and has had not less than 8 years’ legal experience.
+”.
 ”.
