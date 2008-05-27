@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 September 2006 of the Long Service Leave Act 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Long Service Leave Act 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Long Service Leave Act 1958 | 44 of 1958 (7 Eliz. II No. 44) | 12 Dec 1958 | 24 Dec 1958 (see s. 2 and Gazette 24 Dec 1958 p. 3371)
@@ -17,6 +17,10 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 50 | 65 of 200
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Labour Relations Legislation Amendment Act 2006 Pt. 7 Div. 2 | 36 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2(1))
 Reprint 4: The Long Service Leave Act 1958 as at 1 Sep 2006 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Legal Profession Act 2008 s. 676 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Statute Law Revision Act 1950 of the Commonwealth.
 Repealed by the Defence Legislation Amendment Act 1992 of the Commonwealth.
 Repealed by the Industrial Relations (Consequential Provisions) Act 1988 of the Commonwealth.
@@ -26,9 +30,9 @@ The Labour Relations Legislation Amendment Act 2006 Pt. 7 Div. 3 reads as follow
 Division 3 — Repeal of the LSL General Order
 63.Meaning of terms used in this Division
 In this Division —
-“Commission” means The Western Australian Industrial Relations Commission;
-“employer” has the meaning given to that term in the Long Service Leave Act 1958 section 4;
-“industrial instrument” means —
+Commission means The Western Australian Industrial Relations Commission;
+employer has the meaning given to that term in the Long Service Leave Act 1958 section 4;
+industrial instrument means —
 (a)an award under the Coal Industry Tribunal of Western Australia Act 1992;
 (b)an order under the Coal Industry Tribunal of Western Australia Act 1992 or an agreement that comes within section 12(4) or 17(1) of that Act;
 (c)an award as defined in the Industrial Relations Act 1979 section 7(1);
@@ -36,7 +40,7 @@ In this Division —
 (e)an order of the Commission under the Industrial Relations Act 1979;
 (f)an employer-employee agreement under the Industrial Relations Act 1979 Part VID; or
 (g)any other agreement between a person and an employer, as such, that deals with long service leave;
-“LSL General Order” means the General Order relating to long service leave made by the Commission on 27 January 1978 and published in the Western Australian Industrial Gazette on 22 February 1978 at page 120 and the Schedule attached to that order published in that Gazette on 25 January 1978 at pages 1 to 6.
+LSL General Order means the General Order relating to long service leave made by the Commission on 27 January 1978 and published in the Western Australian Industrial Gazette on 22 February 1978 at page 120 and the Schedule attached to that order published in that Gazette on 25 January 1978 at pages 1 to 6.
 64.LSL General Order repealed
 The LSL General Order is repealed.
 65.Transitional provision — references to the LSL General Order
@@ -45,5 +49,14 @@ The LSL General Order is repealed.
 (3) Subsection (2) applies to references that, after commencement, have ongoing effect.
 (4) A provision of the Long Service Leave Act 1958 corresponds to a provision of the LSL General Order if the provisions deal with substantially the same matter.
 (5) In this section —
-“commencement” means the coming into operation of the Labour Relations Legislation Amendment Act 2006 Part 7 Division 2.
+commencement means the coming into operation of the Labour Relations Legislation Amendment Act 2006 Part 7 Division 2.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 676 had not come into operation. It reads as follows:
+“
+676.Long Service Leave Act 1958 amended
+(1) The amendments in this section are to the Long Service Leave Act 1958.
+(2) Section 37 is amended by deleting “a certificated practitioner (within the meaning of the Legal Practice Act 2003)” and inserting instead —
+“
+an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3)
+”.
 ”.
