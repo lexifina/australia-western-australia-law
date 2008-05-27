@@ -13,6 +13,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 Pt. 7 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Legal Profession Act 2008 s. 655 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The Criminal Injuries Compensation Act 1985 was repealed by s. 73 of this Act.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
@@ -25,7 +27,30 @@ The Criminal Injuries Compensation Amendment Act 2004 s. 10 reads as follows:
 (2) An amount received or recovered as described in section 68 of the Criminal Injuries Compensation Act 2003, on or after 1 January 2004, is deemed to create a debt due under the Criminal Injuries Compensation Act 2003, as amended by this Act.
 (3) A notice given under the Criminal Injuries Compensation Act 1985, on or after 1 January 2004, is deemed to have been given under the Criminal Injuries Compensation Act 2003, as amended by this Act.
 ”.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 655 had not come into operation. It reads as follows:
+“
+655.Criminal Injuries Compensation Act 2003 amended
+(1) The amendments in this section are to the Criminal Injuries Compensation Act 2003.
+(2) Section 3 is amended as follows:
+(a) by deleting the definition of “lawyer”;
+(b) by inserting in the appropriate alphabetical position —
+“
+“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+”.
+(3) Sections 25(2)(b), 51(3)(c) and 65(2) are amended by deleting “lawyer” in each place where it occurs and inserting instead —
+“ legal practitioner ”.
+(4) Schedule 1 clause 1 is repealed and the following clause is inserted instead —
+“
+1.Qualifications for appointment
+(1) A person is qualified to be appointed under clause 2 as the Chief Assessor or as an Assessor if the person is an Australian lawyer and has had at least 8 years’ legal experience.
+(2) In subclause (1) —
+“Australian lawyer” has the meaning given in the Legal Profession Act 2008 section 3;
+“legal experience” means —
+(a)standing and practice as a legal practitioner; or
+(b)judicial service (including service as a judge of a court, a magistrate or other judicial officer) in the State or elsewhere in a common law jurisdiction; or
+(c)a combination of both kinds of legal experience mentioned in paragraphs (a) and (b).
+”.
+”.
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 7 had not come into operation. It reads as follows:
 “
 Part 7 — Criminal Injuries Compensation Act 2003 amended
@@ -78,4 +103,17 @@ Before section 63 the following section is inserted in Part 9 —
 (3) Section 63(5)(a) is amended by deleting “subsection (1);” and inserting instead —
 “ subsection (2); ”.
 (4) Section 63(7) is amended by deleting “of an application”.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 14, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 14 reads as follows:
+“
+Schedule 3 — Consequential amendments
+14.Criminal Injuries Compensation Act 2003 amended
+(1) The amendments in this clause are to the Criminal Injuries Compensation Act 2003.
+(2) Section 3 is amended in paragraph (b) of the definition of “health professional” by deleting “Medical Act 1894; or” and inserting instead —
+“ Medical Practitioners Act 2008; or ”.
 ”.
