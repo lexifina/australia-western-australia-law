@@ -21,6 +21,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 Pt. 2 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 Pt. 2 had not come into operation. It reads as follows:
@@ -39,34 +40,34 @@ Section 1 is amended by deleting “Prostitution Act” and inserting instead �
 (c) by deleting the definitions of “act as a prostitute”, “act of prostitution”, “prostitute” and “prostitution”.
 (2) Section 3 is amended by inserting in the appropriate alphabetical positions —
 “
-“act as a sex worker” means to take part, as a sex worker, in a commercial sexual act;
-“CEO” means the chief executive officer of the Department;
-“certificate” means a certificate issued or renewed under section 21G;
-“certificate holder” means the holder of a manager’s certificate or an operator’s certificate;
-“commercial sexual act” has the meaning it has under section 4;
-“Department” means the department of the Public Service principally assisting the Minister in the administration of Part 3A of this Act;
-“incapable person” means a person who, because of intellectual disability, mental illness, brain damage or senility, is incapable —
+act as a sex worker means to take part, as a sex worker, in a commercial sexual act;
+CEO means the chief executive officer of the Department;
+certificate means a certificate issued or renewed under section 21G;
+certificate holder means the holder of a manager’s certificate or an operator’s certificate;
+commercial sexual act has the meaning it has under section 4;
+Department means the department of the Public Service principally assisting the Minister in the administration of Part 3A of this Act;
+incapable person means a person who, because of intellectual disability, mental illness, brain damage or senility, is incapable —
 (a)of understanding the nature and effect of a commercial sexual act; or
 (b)of guarding himself or herself against sexual exploitation;
-“individual sex worker” means a person who solely owns and carries on a sexual service business —
+individual sex worker means a person who solely owns and carries on a sexual service business —
 (a)involving the provision of a commercial sexual act by that person only; and
 (b)where that person has full control over his or her individual earnings from taking part in commercial sexual acts;
-“manage”, in relation to a sexual service business, means undertake the immediate management, direction or control of the conduct of the sexual service business;
-“manager” means a person who holds a manager’s certificate;
-“officer”, in relation to a proprietary company, means —
+manage, in relation to a sexual service business, means undertake the immediate management, direction or control of the conduct of the sexual service business;
+manager means a person who holds a manager’s certificate;
+officer, in relation to a proprietary company, means —
 (a)a director or secretary of the company; or
 (b)a person who exercises or exerts control or influence over the company, or is in a position to do so; or
 (c)a person who is a shareholder of the company;
-“operate”, in relation to a sexual service business, means —
+operate, in relation to a sexual service business, means —
 (a)whether alone or with others, own, operate or carry on the sexual service business; or
 (b)employ, supervise or direct any person who undertakes the immediate management, direction or control of the conduct of the sexual service business; or
 (c)exercise or exert, or be in a position to exercise or exert, control or substantial influence over the manner in which the sexual service business is conducted;
-“operator” means a person who holds an operator’s certificate;
-“proprietary company” has the meaning given to that term in the Commonwealth Corporations Act 2001 section 9;
-“register” means the register referred to in section 21I;
-“sexual service business” means the business of providing, or arranging the provision of, a commercial sexual act;
-“sex worker” has the meaning it has under section 4;
-“small owner-operated business” means a sexual service business —
+operator means a person who holds an operator’s certificate;
+proprietary company has the meaning given to that term in the Commonwealth Corporations Act 2001 section 9;
+register means the register referred to in section 21I;
+sexual service business means the business of providing, or arranging the provision of, a commercial sexual act;
+sex worker has the meaning it has under section 4;
+small owner-operated business means a sexual service business —
 (a)in which not more than 2 sex workers work; and
 (b)where each of those sex workers has full control over his or her individual earnings from taking part in commercial sexual acts.
 ”.
@@ -145,7 +146,7 @@ Penalty: a fine of $50 000.
 (2) An advertisement for a sexual service business that is not a small owner-operated business must carry the certificate number of an operator or manager of the business providing the advertised service.
 (3) A commercial sexual act is advertised through the computer network known as the internet if an advertisement for the act is sent, or made accessible through, the network or any part of it.
 (4) In this section —
-“advertise” means advertise by any words, or any pictorial or other representation, used to notify the availability of, or promote the provision of, a commercial sexual act, either generally or specifically.
+advertise means advertise by any words, or any pictorial or other representation, used to notify the availability of, or promote the provision of, a commercial sexual act, either generally or specifically.
 ”.
 14.Sections 13A and 13B inserted
 After section 13 the following sections are inserted in Part 2 Division 1 —
@@ -157,7 +158,7 @@ After section 13 the following sections are inserted in Part 2 Division 1 —
 13B.Refusal to work as sex worker does not affect entitlements
 (1) A person’s entitlements under the Workers’ Compensation and Injury Management Act 1981 may not be lost or affected in any way by his or her being capable of working as a sex worker if he or she refuses to do, or to continue to do, that kind of work.
 (2) In this section —
-“refuse” means refuse to take part in commercial sexual acts in general, rather than a refusal to take part in a particular commercial sexual act or at a particular time.
+refuse means refuse to take part in commercial sexual acts in general, rather than a refusal to take part in a particular commercial sexual act or at a particular time.
 ”.
 15.Part 2 Division 2 heading replaced
 The heading to Part 2 Division 2 is deleted and the following heading is inserted instead —
@@ -287,7 +288,7 @@ The CEO is to keep an accurate and up-to-date register of all present and former
 (3) An officer may, on application to the CEO in respect of the register or an entry in the register, and payment of the fee prescribed by the regulations, if any, obtain a certified copy of the register or the entry.
 (4) No fee is payable under subsection (3) if the application is made by a police officer for the purpose of performing a function of a police officer under this Act.
 (5) In this section —
-“officer” means —
+officer means —
 (a)a police officer; or
 (b)a person of a class specified in the regulations for the purposes of this definition.
 21K.Certificate
@@ -366,7 +367,7 @@ Division 5 — Protection of sex workers and clients
 (f) display information prominently in any place at or from which the business is carried on regarding the right of a sex worker to refuse to take part in, or continue to take part in, a sexual act.
 Penalty: a fine of $12 000.
 (2) In this section —
-“health information” means information on sex practices and services for the prevention and treatment of a prescribed infection or virus.
+health information means information on sex practices and services for the prevention and treatment of a prescribed infection or virus.
 21T.Prevention of penetrative sex if infected
 (1) A person who manages or operates a sexual service business must not permit or encourage a person to act as a sex worker and engage in acts involving vaginal, anal or oral penetration, including cunnilingus, if the first-mentioned person knows, or could reasonably be expected to know, that the person has a prescribed infection or virus.
 Penalty: Imprisonment for 2 years.
@@ -456,7 +457,7 @@ Penalty: a fine of $24 000 or imprisonment for 2 years.
 (1) An operator of a sexual service business must give the CEO notice in writing of any notifiable matter within 7 days after becoming aware of the matter.
 Penalty: a fine of $24 000 or imprisonment for 2 years.
 (2) In subsection (1) —
-“notifiable matter” means —
+notifiable matter means —
 (a)a charge of the commission of an offence under this Act being made against —
 (i)an operator or a manager of the business; or
 (ii)if a proprietary company is an operator of the business, the company or any officer of the company;
@@ -484,7 +485,7 @@ Section 56(1) is amended as follows:
 Section 57(4) is amended by deleting the full stop after paragraph (c) and inserting instead —
 “
 ;
-(d) the CEO (who is the “administrative head”) and persons employed in the Department.
+(d) the CEO (who is the administrative head) and persons employed in the Department.
 ”.
 24.Section 58 amended
 Section 58(4) is amended as follows:
@@ -555,4 +556,17 @@ Table
 s. 6(1) | s. 6(3)(a) | s. 6(4)(c)
 s. 6(2)(a) | s. 6(3)(b)(i)
 s. 6(3) | s. 6(3)(b)(ii)
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 48, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 48 reads as follows:
+“
+Schedule 3 — Consequential amendments
+48.Prostitution Act 2000 amended
+(1) The amendments in this clause are to the Prostitution Act 2000.
+(2) Section 29(7) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894;” and inserting instead —
+“ Medical Practitioners Act 2008; ”.
 ”.
