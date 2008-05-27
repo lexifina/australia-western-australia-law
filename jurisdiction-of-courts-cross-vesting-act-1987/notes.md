@@ -8,8 +8,21 @@ Corporations (Ancillary Provisions) Act 2001 s. 29 | 8 of 2001 | 28 Jun 2001 | O
 Acts Amendment (Federal Courts and Tribunals) Act 2001 Pt. 6 | 32 of 2001 | 21 Dec 2001 | 21 Dec 2001 (see s. 2(1))
 Reprint of the Jurisdiction of Courts (Cross-vesting) Act 1987 as at 8 Feb 2002 (includes amendments listed above)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Legal Profession Act 2008 s. 670 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Jurisdiction of Courts (Cross-vesting) Amendment Act 1994 s. 7 reads as follows:
 “
 7.Application
 Despite the amendments of the principal Act made by this Part, the principal Act as in force immediately before the commencement of section 5 of this Act continues to apply in relation to a proceeding pending in a court to which section 6 of the principal Act applied before that commencement.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 670 had not come into operation. It reads as follows:
+“
+670.Jurisdiction of Courts (Cross-vesting) Act 1987 amended
+(1) The amendments in this section are to the Jurisdiction of Courts (Cross-vesting) Act 1987.
+(2) Section 5(9) is amended by deleting “a barrister or a solicitor, or as both a barrister and a solicitor” and inserting instead —
+“
+an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3)
+”.
 ”.
