@@ -19,13 +19,15 @@ Coroners Amendment Act 2004 | 22 of 2004 | 8 Sep 2004 | 6 Oct 2004
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 8 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Reprint 2: The Coroners Act 1996 as at 10 Jun 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Legal Profession Act 2008 s. 652 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The provision of this Act repealing that Act has been omitted under s. 7(4)(f) of the Reprints Act 1984.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) had not come into operation. It reads as follows:
 “
 (2) Section 6(5) of the Coroners Act 1996 is repealed.
 ”.
@@ -33,11 +35,43 @@ The Coroners Amendment Act 2003 s. 14(2) and (3) read as follows:
 “
 (2) Despite the amendment effected by subsection (1), the Coroners Act 1920 continues to apply to any inquest part heard under that Act immediately before the commencement of this provision.
 (3) In subsection (2) —
-“inquest part heard under that Act” means an inquest which, immediately before the commencement of this provision —
+inquest part heard under that Act means an inquest which, immediately before the commencement of this provision —
 (a)had commenced but had not concluded; and
 (b)was in respect of a death to which the Coroners Act 1920, as in force immediately before the commencement of the Coroners Act 1996, applied.
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 s. 75(2) reads as follows:
 “
 (2) If immediately before the commencement of this section a person holds office as a Coroner’s clerk, then on the commencement the person is to be taken to have been appointed as a Coroner’s registrar.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 652 had not come into operation. It reads as follows:
+“
+652.Coroners Act 1996 amended
+(1) The amendments in this section are to the Coroners Act 1996.
+(2) Section 6(6) is amended by deleting “a legal practitioner (as defined in the Legal Practice Act 2003)” and inserting instead —
+“
+an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3)
+”.
+(3) Section 7(4) is amended by deleting “a legal practitioner (as defined in the Legal Practice Act 2003)” and inserting instead —
+“
+an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3)
+”.
+(4) Section 44(1) is amended by deleting “a barrister or solicitor” and inserting instead —
+“
+an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3)
+”.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 10, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 10 reads as follows:
+“
+Schedule 3 — Consequential amendments
+10.Coroners Act 1996 amended
+(1) The amendments in this clause are to the Coroners Act 1996.
+(2) Section 3 is amended by deleting the definition of “doctor” and inserting instead —
+“
+doctor has the meaning given to “medical practitioner” in the Medical Practitioners Act 2008 section 4;
+”.
 ”.
