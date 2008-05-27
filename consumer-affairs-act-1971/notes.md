@@ -45,6 +45,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Legal Profession Act 2008 s. 651 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Legal Practitioners Amendment (Disciplinary and Miscellaneous Provisions) Act 1992 Pt. 2 came into operation on 1 Feb 1993 (see s. 3(a) and Gazette 26 Jan 1993 p. 823).
 Repealed by the Acts Amendment and Repeal (Fair Trading) Act 1988.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -98,9 +99,9 @@ Each office in existence immediately before commencement because of section 15(1
 Each office in existence immediately before commencement because of section 5(2)(b) of the Petroleum Products Pricing Act 1983 does not cease merely because that paragraph is deleted by this Act.
 155.Interpretation
 In this Division —
-“commencement” means the time at which this Division comes into operation;
-“Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
-“Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+commencement means the time at which this Division comes into operation;
+Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
+Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 had not come into operation. They read as follows:
 “
@@ -126,4 +127,13 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 (1) The amendment in this section is to the Consumer Affairs Act 1971.
 (2) The Schedule is amended by inserting in the appropriate alphabetical position —
 “ Biosecurity and Agriculture Management Act 2007. ”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 651 had not come into operation. It reads as follows:
+“
+651.Consumer Affairs Act 1971 amended
+(1) The amendments in this section are to the Consumer Affairs Act 1971.
+(2) Section 4(2b) is repealed and the following subsection is inserted instead —
+“
+(2b) The definition of “services” shall be taken not to include legal services as defined in the Legal Profession Act 2008.
+”.
 ”.
