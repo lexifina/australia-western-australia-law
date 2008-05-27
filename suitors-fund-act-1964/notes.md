@@ -28,5 +28,18 @@ Reprint 3: The Suitors’ Fund Act 1964 as at 22 Jul 2005 (includes amendments l
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 7 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Criminal Law and Evidence Amendment Act 2008 s. 71 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Legal Profession Act 2008 s. 708 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Proclaimed 1 Jan 1978, see s. 2 and Gazette 23 Dec 1977, p. 4671.
 The Acts Amendment (Ministry of Justice) Act 1993 s. 68 is a savings provision that is of no further effect.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 708 had not come into operation. It reads as follows:
+“
+708.Suitors’ Fund Act 1964 amended
+(1) The amendments in this section are to the Suitors’ Fund Act 1964.
+(2) Section 8(2)(c) is amended by deleting “The Legal Practice Board established by the Legal Practice Act 2003” and inserting instead —
+“
+the Legal Practice Board established by the Legal Profession Act 2008
+”.
+”.
