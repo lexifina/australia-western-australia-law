@@ -8,4 +8,23 @@ Hospitals Amendment Act 1994 s. 18 | 103 of 1994 | 11 Jan 1995 | 3 Feb 1995 (see
 Reprint 1: The Blood Donation (Limitation of Liability) Act 1985 as at 1 Aug 2003 (includes amendments listed above)
 Workers’ Compensation Reform Act 2004 s. 156 and 174 | 42 of 2004 | 9 Nov 2004 | s. 174: 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131); s. 156: 14 Nov 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131 and 17 Jun 2005 p. 2657); Para (b) of proclamation published 31 Dec 2004 p. 7131 revoked (see Gazette 17 Jun 2005 p. 2657)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Formerly referred to the Workers’ Compensation and Assistance Act 1981 the short title of which was changed to the Workers’ Compensation and Rehabilitation Act 1981 by the Workers’ Compensation and Assistance Amendment Act 1990 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 6, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 6 reads as follows:
+“
+Schedule 3 — Consequential amendments
+6.Blood Donation (Limitation of Liability) Act 1985 amended
+(1) The amendments in this clause are to the Blood Donation (Limitation of Liability) Act 1985.
+(2) Section 3 is amended in the definition of “medical practitioner” by deleting “by section 3 of the Medical Act 1894;” and inserting instead —
+“
+to that term in the Medical Practitioners Act 2008 section 4;
+”.
+”.
