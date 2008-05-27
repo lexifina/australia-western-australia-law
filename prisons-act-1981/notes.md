@@ -50,6 +50,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Police Amendment Act 2008 s. 23(6) | 8 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(2))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
 Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference to the Western Australian Prisons Department was, unless the contrary intention appears, to be read and construed as a reference to the Department of Justice.
@@ -83,4 +84,19 @@ On the date as at which this compilation was prepared, the Police Amendment Act 
 “
 23.Various Acts amended in relation to the definition of “police officer”
 (6) The Prisons Act 1981 section 3(1) is amended by deleting the definition of “police officer”.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 47, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 47 reads as follows:
+“
+Schedule 3 — Consequential amendments
+47.Prisons Act 1981 amended
+(1) The amendments in this clause are to the Prisons Act 1981.
+(2) Section 3(1) is amended in paragraph (a) of the definition of “medical practitioner” by deleting “Medical Act 1894; and” and inserting instead —
+“ Medical Practitioners Act 2008; and ”.
+(3) Section 46 is amended by deleting “Medical Act 1894” and inserting instead —
+“ Medical Practitioners Act 2008 ”.
 ”.
