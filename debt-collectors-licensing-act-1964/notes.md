@@ -19,14 +19,15 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Business Licensing Amendment Act 1995 Pt. 3 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
+Legal Profession Act 2008 s. 658 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 42 and 46 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 46 reads as follows:
 “
 46.Debt Collectors Licensing Act 1964
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 35 comes into operation;
-“Commissioner” has the meaning given to that term in the Consumer Affairs Act 1971 section 4(1);
-“DCL Act” means the Debt Collectors Licensing Act 1964.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 35 comes into operation;
+Commissioner has the meaning given to that term in the Consumer Affairs Act 1971 section 4(1);
+DCL Act means the Debt Collectors Licensing Act 1964.
 (2) If immediately before the commencement day, a Clerk of a Local Court possesses —
 (a) a register kept under the DCL Act section 12;
 (b) a notice given to the Clerk under the DCL Act section 15(4); or
@@ -71,3 +72,12 @@ Section 26 of the principal Act is amended —
 ”.
 The insertion of s. 12A in the Business Licensing Amendment Act 1995 s. 9 would conflict with an amendment in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 226.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 13 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 658 had not come into operation. It reads as follows:
+“
+658.Debt Collectors Licensing Act 1964 amended
+(1) The amendments in this section are to the Debt Collectors Licensing Act 1964.
+(2) Section 4(a) is deleted and the following paragraph is inserted instead —
+“
+(a) an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+”.
+”.
