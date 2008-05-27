@@ -11,6 +11,10 @@ Statutes (Repeals and Minor Amendments) Act 1997 s. 69 | 57 of 1997 | 15 Dec 199
 Reprint of the Health Legislation Administration Act 1984 as at 11 Jan 2002 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Under the Interpretation Act 1984 s. 16, a reference to the Industrial Arbitration Act 1979 may be read as a reference to the Industrial Relations Act 1979. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Repealed by the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
@@ -24,8 +28,21 @@ Division 13 — Transitional provisions
 289.Commissioner of Health
 (1) A thing done or omitted to be done by, to or in relation to, the Commissioner of Health before commencement under, or for the purposes of, an enactment has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the CEO.
 (2) In this section —
-“CEO” has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
-“commencement” means the time at which this Division comes into operation;
-“Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
+CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
+commencement means the time at which this Division comes into operation;
+Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 ”.
 The requirement to appoint a Commissioner of Health was removed from the Act and references to the Commissioner of Health were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9. Section 454 of that Act is a general transitional provision that applies to references to the Commissioner in written laws.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 24, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 24 reads as follows:
+“
+Schedule 3 — Consequential amendments
+24.Health Legislation Administration Act 1984 amended
+(1) The amendments in this clause are to the Health Legislation Administration Act 1984.
+(2) Section 6(4)(a) is amended by deleting “Medical Act 1894;” and inserting instead —
+“ Medical Practitioners Act 2008; ”.
+”.
