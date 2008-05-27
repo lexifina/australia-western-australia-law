@@ -128,6 +128,7 @@ Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
 Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 Repealed by the Nurses and Midwives Act 2006.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
@@ -605,4 +606,21 @@ Schedule 1 — Amendments to various Acts
 [s. 52]
 13.Health Act 1911
 Section 275(2) is repealed.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 23, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 23 reads as follows:
+“
+Schedule 3 — Consequential amendments
+23.Health Act 1911 amended
+(1) The amendments in this clause are to the Health Act 1911.
+(2) Section 3(1) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894;” and inserting instead —
+“ Medical Practitioners Act 2008; ”.
+(3) Section 246D(1)(n) is amended by deleting “within the meaning of section 3 of the Medical Act 1894” and inserting instead —
+“
+within the meaning given to that term in the Medical Practitioners Act 2008 section 4
+”.
 ”.
