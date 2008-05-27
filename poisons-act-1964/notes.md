@@ -48,6 +48,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Under the Alteration of Statutory Designations Order 2006, a reference to the department of the Public Service with the designation “Department of Agriculture” is, unless the contrary intention appears or the context of the reference otherwise requires, to be read and construed as a reference to the department of the Public Service with the designation “Department of Agriculture and Food”. At the time of this compilation the Minister is known as the Minister for Agriculture and Food.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
@@ -56,9 +57,9 @@ Division 13 — Transitional provisions
 289.Commissioner of Health
 (1) A thing done or omitted to be done by, to or in relation to, the Commissioner of Health before commencement under, or for the purposes of, an enactment has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the CEO.
 (2) In this section —
-“CEO” has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
-“commencement” means the time at which this Division comes into operation;
-“Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
+CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
+commencement means the time at which this Division comes into operation;
+Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 ”.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides a general transitional provision for references to a chief executive officer by a title that was given by a provision of an Act where the provision was amended to remove that title, or repealed, by the Machinery of Government (Miscellaneous Amendments) Act 2006.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 40 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
@@ -70,5 +71,22 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 (2) Section 32(c) is amended by deleting “by section 69 of the Agriculture and Related Resources Protection Act 1976 or section 8(2) of the Agriculture Protection Board Act 1950” and inserting instead —
 “
 under the Biosecurity and Agriculture Management Act 2007
+”.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 46, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 46 reads as follows:
+“
+Schedule 3 — Consequential amendments
+46.Poisons Act 1964 amended
+(1) The amendments in this clause are to the Poisons Act 1964.
+(2) Section 5(1) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894” and inserting instead —
+“ Medical Practitioners Act 2008 ”.
+(3) Section 61(b)(i) is amended by deleting “constituted under the Medical Act 1894;” and inserting instead —
+“
+of Western Australia established under the Medical Practitioners Act 2008;
 ”.
 ”.
