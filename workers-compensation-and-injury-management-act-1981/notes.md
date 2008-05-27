@@ -64,6 +64,8 @@ Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 (as amended by No. 42 of 2004 s. 155) | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Legal Profession Act 2008 s. 713 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The name of the State Government Insurance Commission was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8 (see also note 44.)
 Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia (see also note 44).
 The Workers’ Compensation Legislation Amendment Act 2005 s. 9(2) reads as follows:
@@ -453,4 +455,49 @@ Schedule 1 — Amendments to various Acts
 42.Workers’ Compensation and Injury Management Act 1981
 Section 297 is amended by deleting “stamp duties chargeable under the Stamp Act 1921.” and inserting instead —
 “ duty chargeable under the Duties Act 2008. ”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 713 had not come into operation. It reads as follows:
+“
+713.Workers’ Compensation and Injury Management Act 1981 amended
+(1) The amendments in this section are to the Workers’ Compensation and Injury Management Act 1981.
+(2) Section 87(2) is amended by deleting “legal costs determination (as defined in the Legal Practice Act 2003).” and inserting instead —
+“
+costs determination (as defined in the Legal Profession Act 2008 section 252).
+”.
+(3) Section 263 is amended by deleting “Legal Practice Act 2003, and in particular Part 13” and inserting instead —
+“ Legal Profession Act 2008, and in particular Part 10 ”.
+(4) Section 264(3) is amended by deleting “Part 13 Division 3 of the Legal Practice Act 2003” and inserting instead —
+“ the Legal Profession Act 2008 Part 10 Division 8 ”.
+(5) Section 268(2) is amended as follows:
+(a) in paragraph (a) by deleting “Part 13 Division 3 of the Legal Practice Act 2003;” and inserting instead —
+“
+the Legal Profession Act 2008 Part 10 Division 8;
+”;
+(b) in paragraph (b) by deleting “Part 13 Division 3 of the Legal Practice Act 2003” and inserting instead —
+“
+the Legal Profession Act 2008 Part 10 Division 8
+”.
+(6) Section 268(3) is amended by deleting “Legal Practice Act 2003.” and inserting instead —
+“ Legal Profession Act 2008. ”.
+(7) Section 269(1) is amended in the definition of “Legal Costs Committee” by deleting “Legal Practice Act 2003.” and inserting instead —
+“ Legal Profession Act 2008. ”.
+(8) Section 271(2)(b) is amended by deleting “legal costs determination under the Legal Practice Act 2003.” and inserting instead —
+“
+costs determination (as defined in the Legal Profession Act 2008 section 252).
+”.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 54, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 54 reads as follows:
+“
+Schedule 3 — Consequential amendments
+54.Workers’ Compensation and Injury Management Act 1981 amended
+(1) The amendments in this clause are to the Workers’ Compensation and Injury Management Act 1981.
+(2) Section 5(1) is amended by deleting paragraph (a) of the definition of “specialist” and “or” after it and inserting instead —
+“
+(a)who is resident in the State and who is registered as a specialist under the Medical Practitioners Act 2008 section 38; or
+”.
 ”.
