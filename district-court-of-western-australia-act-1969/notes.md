@@ -55,6 +55,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Legal Profession Act 2008 s. 660 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
@@ -136,4 +137,43 @@ The Limitation Legislation Amendment and Repeal Act 2005 s. 10(2) reads as follo
 “
 10.Section 37 amended and a savings provision
 (2) The District Court of Western Australia Act 1969 section 37, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 660 had not come into operation. It reads as follows:
+“
+660.District Court of Western Australia Act 1969 amended
+(1) The amendments in this section are to the District Court of Western Australia Act 1969.
+(2) Section 6(1) is amended as follows:
+(a) by deleting the definition of “legal practitioner” and inserting instead —
+“
+“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+”;
+(b) by inserting in the appropriate alphabetical position —
+“
+“Australian lawyer” has the meaning given in the Legal Profession Act 2008;
+”.
+(3) Section 6(2) is amended as follows:
+(a) by deleting paragraphs (a) and (b) and inserting instead —
+“
+(a) standing and practice as a legal practitioner; or
+”;
+(b) in paragraph (d) by deleting “2 or more” and inserting instead —
+“ both ”.
+(4) Section 10(2) is repealed and the following subsection is inserted instead —
+“
+(2) A person is eligible for appointment as a District Court judge if that person is an Australian lawyer and has had not less than 8 years’ legal experience.
+”.
+(5) Section 39(1) is amended by deleting “certificated practitioner (within the meaning of the Legal Practice Act 2003)” and inserting instead —
+“ legal practitioner ”.
+(6) Section 64(1) is amended by deleting “legal costs determination (as defined in the Legal Practice Act 2003)” and inserting instead —
+“
+costs determination (as defined in the Legal Profession Act 2008 section 252)
+”.
+(7) Section 66 is amended by deleting “legal costs determination (as defined in the Legal Practice Act 2003)” and inserting instead —
+“
+costs determination (as defined in the Legal Profession Act 2008 section 252)
+”.
+(8) Section 88(2)(b) is amended by deleting “legal costs determination (as defined in the Legal Practice Act 2003)” and inserting instead —
+“
+costs determination (as defined in the Legal Profession Act 2008 section 252)
+”.
 ”.
