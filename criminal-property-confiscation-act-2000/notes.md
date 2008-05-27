@@ -16,9 +16,25 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 25 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 25 had not come into operation. It reads as follows:
 “
 25.Criminal Property Confiscation Act 2000 amended
 (1) The amendment in this section is to the Criminal Property Confiscation Act 2000.
 (2) The Glossary is amended in the definition of “financial institution” by deleting paragraph (d).
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 17, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 17 reads as follows:
+“
+Schedule 3 — Consequential amendments
+17.Criminal Property Confiscation Act 2000 amended
+(1) The amendments in this clause are to the Criminal Property Confiscation Act 2000.
+(2) The Glossary is amended by deleting the definition of “medical practitioner” and inserting instead —
+“
+medical practitioner has the meaning given to that term in the Medical Practitioners Act 2008 section 4;
+”.
 ”.
