@@ -16,6 +16,23 @@ Acts Repeal and Amendment (Births, Deaths and Marriages Registration) Act 1998, 
 Acts Amendment (Lesbian and Gay Law Reform) Act 2002 Pt. 6 | 3 of 2002 | 17 Apr 2002 | 21 Sep 2002 (see s. 2 and Gazette 20 Sep 2002 p.4693)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 32 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Associations Incorporation Act 1987 (No. 59 of 1987).
 Footnote no longer applicable.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 13, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 13 reads as follows:
+“
+Schedule 3 — Consequential amendments
+13.Cremation Act 1929 amended
+(1) The amendments in this clause are to the Cremation Act 1929.
+(2) Section 2 is amended in the definition of “medical practitioner” by deleting “Medical Act 1894.” and inserting instead —
+“ Medical Practitioners Act 2008. ”.
+”.
