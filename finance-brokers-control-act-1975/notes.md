@@ -28,6 +28,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 27 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Legal Profession Act 2008 s. 664 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The appointed day is 1 August 1977; see Gazette 17 June 1977 p. 1834.
 The Business Licensing Amendment Act 1995 s. 24 is a transitional provision that is of no further effect.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
@@ -37,9 +38,9 @@ The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as foll
 (2) If this Act receives the Royal Assent on or after the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act is deemed to have come into operation at the same time as that Schedule comes into operation.
 3.Interpretation
 In this Part —
-“Financial Services Reform Act” means the Financial Services Reform Act 2001 of the Commonwealth;
-“FSR commencement time” means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
-“statutory rule” means a regulation, rule or by-law.
+Financial Services Reform Act means the Financial Services Reform Act 2001 of the Commonwealth;
+FSR commencement time means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
+statutory rule means a regulation, rule or by-law.
 4.Validation
 (1) This section applies if this Act comes into operation under section 2(2).
 (2) Anything done or omitted to have been done after the FSR commencement time and before this Act receives the Royal Assent that could have been done if this Act had received the Royal Assent before the FSR commencement time is taken to be as valid and lawful, and to always have been as valid and lawful, as it would have been if this Act had received the Royal Assent before the FSR commencement time.
@@ -55,9 +56,9 @@ Schedule 1 — Transitional and savings
 [s. 78]
 1.Meanings of terms used in this Schedule
 In this Schedule, unless the contrary intention appears —
-“Board” means the Finance Brokers Supervisory Board as constituted under the Finance Brokers Act;
-“commencement day” means the day fixed under section 2 as the day on which this Act comes into operation;
-“Finance Brokers Act” means the Finance Brokers Control Act 1975 as in force immediately before the commencement day.
+Board means the Finance Brokers Supervisory Board as constituted under the Finance Brokers Act;
+commencement day means the day fixed under section 2 as the day on which this Act comes into operation;
+Finance Brokers Act means the Finance Brokers Control Act 1975 as in force immediately before the commencement day.
 2.Interpretation Act to apply
 This Schedule does not limit the operation of the Interpretation Act 1984.
 3.Board dissolved
@@ -104,7 +105,7 @@ but in respect of which a decision has not been made by the Board before the com
 (a) to affect, in a manner prejudicial to any person (other than the State), the rights of that person existing before the day of publication; or
 (b) to impose liabilities on any person (other than the State) in respect of anything done or omitted to be done before the day of publication.
 (5) In subclause (1) —
-“transitional matter” means a matter or thing necessary or convenient to provide for the change from the Finance Brokers Act, to the Finance Brokers Control Act 1975 as in force after the commencement day.
+transitional matter means a matter or thing necessary or convenient to provide for the change from the Finance Brokers Act, to the Finance Brokers Control Act 1975 as in force after the commencement day.
 ”.
 The amendment in the Finance Brokers Amendment Act 2004 s. 74(2) is not included because the subsection it sought to amend had been replaced by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 before it purported to come into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -114,4 +115,13 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 27.Finance Brokers Control Act 1975 amended
 (1) The amendment in this section is to the Finance Brokers Control Act 1975.
 (2) Section 5(1)(c) is deleted.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 664 had not come into operation. It reads as follows:
+“
+664.Finance Brokers Control Act 1975 amended
+(1) The amendments in this section are to the Finance Brokers Control Act 1975.
+(2) Section 5(1)(f) is deleted and the following paragraph is inserted instead —
+“
+(f) Australian legal practitioners (within the meaning of that term in the Legal Profession Act 2008 section 3) when acting incidentally to the practice of their profession as such;
+”.
 ”.
