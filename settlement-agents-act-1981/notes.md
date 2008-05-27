@@ -42,6 +42,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Legal Profession Act 2008 s. 704 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
 “
@@ -83,4 +84,15 @@ Schedule 1 — Amendments to various Acts
 34.Settlement Agents Act 1981
 Schedule 2 clauses 1(1)(d) and 2(e) are amended by deleting “Stamp Act 1921” and inserting instead —
 “ Duties Act 2008 ”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 704 had not come into operation. It reads as follows:
+“
+704.Settlement Agents Act 1981 amended
+(1) The amendments in this section are to the Settlement Agents Act 1981.
+(2) Section 3(1) is amended by deleting the definition of “legal practitioner” and inserting instead —
+“
+“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+”.
+(3) Section 46(5) is amended by deleting “Legal Practice Act 2003” and inserting instead —
+“ Legal Profession Act 2008 ”.
 ”.
