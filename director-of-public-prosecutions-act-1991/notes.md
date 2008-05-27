@@ -21,6 +21,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 39(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 State Superannuation Amendment Act 2007 s. 80 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
+Legal Profession Act 2008 s. 659 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 12(3) reads as follows:
 “
@@ -50,4 +51,32 @@ On the date as at which this compilation was prepared, the State Superannuation 
 (5) An election under subsection (1) is to be made in writing to the Minister within 30 days after ceasing to be Director and is irrevocable.
 (6) This section has effect despite anything in the Superannuation and Family Benefits Act 1938, State Superannuation Act 2000 or the Judges’ Salaries and Pensions Act 1950.
 ”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 659 had not come into operation. It reads as follows:
+“
+659.Director of Public Prosecutions Act 1991 amended
+(1) The amendments in this section are to the Director of Public Prosecutions Act 1991.
+(2) Section 3 is amended as follows:
+(a) by inserting in the appropriate alphabetical position —
+“
+Australian lawyer has the meaning given in the Legal Profession Act 2008 section 3;
+”;
+(b) by deleting the definition of “legal practitioner” and inserting instead —
+“
+legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+”.
+(3) Section 5(2) is repealed and the following subsections are inserted instead —
+“
+(2) A person is eligible for appointment to the office of Director if that person is an Australian lawyer and has had not less than 8 years’ legal experience.
+(3) A person is eligible for appointment to the office of Deputy Director if that person is an Australian lawyer and has had not less than 5 years’ legal experience.
+(4) In subsections (2) and (3) —
+legal experience means —
+(a)standing and practice as a legal practitioner; or
+(b)judicial service (including service as a judge of a court, a magistrate or other judicial officer) in the State or elsewhere in a common law jurisdiction; or
+(c)a combination of both kinds of legal experience mentioned in paragraphs (a) and (b).
+”.
+(4) Section 8(1) is amended by deleting “a legal practitioner” and inserting instead —
+“ a person ”.
+(5) Section 8(4) is amended by deleting “a legal practitioner” and inserting instead —
+“ a person ”.
 ”.
