@@ -65,6 +65,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Legal Profession Act 2008 s. 682 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 For the purposes of s. 3C and 3D, the Amounts A, B, C and D for the financial years beginning after 30 June 1994 up to the date of this reprint are as set out in this Table.
 Financial year beginning | Amount A | Amount B | Amount C | Amount D | Gazette
 1 July 1994 | $201 000 | $10 000 | $30 000 | $5 000 | 24 Jun 1994 p. 2944
@@ -154,4 +155,13 @@ Schedule 1 — Amendments to various Acts
 (1) Section 3R(4)(b) is amended by deleting “stamp duty payable” and inserting instead —
 “ duty payable under the Duties Act 2008 ”.
 (2) Section 21(2) is amended by deleting “stamp”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 682 had not come into operation. It reads as follows:
+“
+682.Motor Vehicle (Third Party Insurance) Act 1943 amended
+(1) The amendments in this section are to the Motor Vehicle (Third Party Insurance) Act 1943.
+(2) Section 27A(2) is amended by deleting “legal costs determination (as defined in the Legal Practice Act 2003)” and inserting instead —
+“
+costs determination (as defined in the Legal Profession Act 2008 section 252)
+”.
 ”.
