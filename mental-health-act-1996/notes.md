@@ -17,14 +17,19 @@ Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | 1 Aug 2007 
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 9 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Reprint 2: The Mental Health Act 1996 as at 12 Jan 2007 (includes amendments listed above except those in the Occupational Therapists Act 2005 and the Nurses and Midwives Act 2006)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Legal Profession Act 2008 s. 680 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The Mental Health (Consequential Provisions) Act 1996 Pt. 12 Div. 2 (s. 53-72 inclusive) reads as follows:
 “
 Division 2 — Transitional
 53.Interpretation
 In this Division —
-“commencement” means the commencement of the Mental Health Act 1996;
-“new Act” means the Mental Health Act 1996;
-“repealed Act” means the Mental Health Act 1962.
+commencement means the commencement of the Mental Health Act 1996;
+new Act means the Mental Health Act 1996;
+repealed Act means the Mental Health Act 1962.
 54.Interpretation Act 1984 not affected
 The provisions of this Division do not affect the application of the Interpretation Act 1984 to and in relation to the repeal effected by section 51.
 55.Investigations under section 7
@@ -153,9 +158,9 @@ The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as foll
 (2) If this Act receives the Royal Assent on or after the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act is deemed to have come into operation at the same time as that Schedule comes into operation.
 3.Interpretation
 In this Part —
-“Financial Services Reform Act” means the Financial Services Reform Act 2001 of the Commonwealth;
-“FSR commencement time” means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
-“statutory rule” means a regulation, rule or by-law.
+Financial Services Reform Act means the Financial Services Reform Act 2001 of the Commonwealth;
+FSR commencement time means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
+statutory rule means a regulation, rule or by-law.
 4.Validation
 (1) This section applies if this Act comes into operation under section 2(2).
 (2) Anything done or omitted to have been done after the FSR commencement time and before this Act receives the Royal Assent that could have been done if this Act had received the Royal Assent before the FSR commencement time is taken to be as valid and lawful, and to always have been as valid and lawful, as it would have been if this Act had received the Royal Assent before the FSR commencement time.
@@ -172,7 +177,62 @@ Division 13 — Transitional provisions
 289.Commissioner of Health
 (1) A thing done or omitted to be done by, to or in relation to, the Commissioner of Health before commencement under, or for the purposes of, an enactment has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the CEO.
 (2) In this section —
-“CEO” has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
-“commencement” means the time at which this Division comes into operation;
-“Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
+CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
+commencement means the time at which this Division comes into operation;
+Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 680 had not come into operation. It reads as follows:
+“
+680.Mental Health Act 1996 amended
+(1) The amendments in this section are to the Mental Health Act 1996.
+(2) Section 3 is amended as follows:
+(a) by deleting the definition of “legal practitioner” and inserting instead —
+“
+legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+”;
+(b) by inserting in the appropriate alphabetical position —
+“
+lawyer means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
+”.
+(3) Section 126(2) is amended as follows:
+(a) in paragraph (b) by deleting “legal practitioner” and inserting instead —
+“ lawyer ”;
+(b) in paragraph (c) by deleting “legal practitioner.” and inserting instead —
+“ lawyer. ”.
+(4) Section 129(5) is amended as follows:
+(a) in paragraph (a) by deleting “legal practitioner;” and inserting instead —
+“ lawyer; ”;
+(b) in paragraph (c) by deleting “legal practitioner” and inserting instead —
+“ lawyer ”.
+(5) Section 130(4)(b) is amended as follows:
+(a) in subparagraph (i) by deleting “legal practitioner;” and inserting instead —
+“ lawyer; ”;
+(b) in subparagraph (iii) by deleting “legal practitioner” and inserting instead —
+“ lawyer ”.
+(6) Section 132(1) is amended as follows:
+(a) in paragraph (b) by deleting “legal practitioner” and inserting instead —
+“ lawyer ”;
+(b) in paragraph (c) by deleting “legal practitioner” in both places where it occurs and inserting instead —
+“ lawyer ”.
+(7) Schedule 2 clause 3(3) is amended by deleting “certificated practitioner (within the meaning of the Legal Practice Act 2003)” and inserting instead —
+“ legal practitioner ”.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 34, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 34 reads as follows:
+“
+Schedule 3 — Consequential amendments
+34.Mental Health Act 1996 amended
+(1) The amendments in this clause are to the Mental Health Act 1996.
+(2) Section 3 is amended by deleting the definition of “medical practitioner” and inserting instead —
+“
+medical practitioner has the meaning given to that term in the Medical Practitioners Act 2008 section 4;
+”.
+(3) Section 17(1) is amended by deleting “The Medical Board appointed under the Medical Act 1894” and inserting instead —
+“
+The Medical Board of Western Australia established under the Medical Practitioners Act 2008
+”.
 ”.
