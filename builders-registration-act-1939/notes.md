@@ -67,6 +67,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 14 | 11 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2)
+Legal Profession Act 2008 s. 641 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 9.
 In this reprint the renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
 The Builders’ Registration Amendment Act 1986 s. 11(2) is a transitional provision that is of no further effect.
@@ -104,4 +105,25 @@ On the date as at which this compilation was prepared, the Local Government (Mis
 “ or certificate ”;
 (c) in paragraph (b) by inserting after “subsection (1)” —
 “ or (1a) ”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 641 had not come into operation. It reads as follows:
+“
+641.Builders’ Registration Act 1939 amended
+(1) The amendments in this section are to the Builders’ Registration Act 1939.
+(2) Section 2 is amended as follows:
+(a) by deleting the definition of “legal practitioner” and inserting instead —
+“
+“lawyer” means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
+”;
+(b) by inserting in the appropriate alphabetical position —
+“
+“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+”.
+(3) Sections 5A(2), 5B(3), 5C(1a)(a) and 27(2) are amended by deleting “legal practitioner” in each place where it occurs and inserting instead —
+“ lawyer ”.
+(4) Section 45A is amended as follows:
+(a) in subsection (4)(a) by deleting “a certificated practitioner (within the meaning of the Legal Practice Act 2003);” and inserting instead —
+“ a legal practitioner; ”;
+(b) in subsection (5) by deleting “legal practitioner, an articled clerk (as defined in the Legal Practice Act 2003),” and inserting instead —
+“ lawyer ”.
 ”.
