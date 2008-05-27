@@ -19,4 +19,17 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 3: The Sale of Land Act 1970 as at 19 May 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 157 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Legal Profession Act 2008 s. 702 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Real Estate and Business Agents Act 1978.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 702 had not come into operation. It reads as follows:
+“
+702.Sale of Land Act 1970 amended
+(1) The amendments in this section are to the Sale of Land Act 1970.
+(2) Section 14(2)(b)(ii) is amended by deleting “a certificated practitioner (within the meaning of the Legal Practice Act 2003)” and inserting instead —
+“
+an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3)
+”.
+”.
