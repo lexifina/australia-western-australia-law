@@ -59,6 +59,8 @@ Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 Pt. 14 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Police Amendment Act 2008 s. 23(4) | 8 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(2))
+Legal Profession Act 2008 s. 669 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 Repealed by the Nurses Act 1992.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -69,7 +71,19 @@ A certificate of permanent exemption issued or purporting to have been issued pu
 ”.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 contains savings and transitional provisions that are of no further effect.
 The Juries Amendment Act 2003 s. 5(2) is a savings provision that is of no further effect.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 31, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 31 reads as follows:
+“
+Schedule 3 — Consequential amendments
+31.Juries Act 1957 amended
+(1) The amendments in this clause are to the Juries Act 1957.
+(2) The Second Schedule Part II item 2 is amended by deleting “Medical Act 1894” and inserting instead —
+“ Medical Practitioners Act 2008 ”.
+”.
 On the date as at which this compilation was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) had not come into operation. It reads as follows:
 “
 39.Second Schedule amended
@@ -79,7 +93,27 @@ On the date as at which this compilation was prepared, the Machinery of Governme
 ”.
 ”.
 The amendment to the Second Schedule, Pt. I it. (2)(i) in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) would not be included because the item it seeks to amend was repealed by the Prisons and Sentencing Legislation Amendment Act 2006 s. 66.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 669 had not come into operation. It reads as follows:
+“
+669.Juries Act 1957 amended
+(1) The amendments in this section are to the Juries Act 1957.
+(2) Section 56A(1) is amended in paragraph (b) of the definition of “prosecuting officer” by deleting “a legal practitioner (as defined in the Legal Practice Act 2003);” and inserting instead —
+“
+an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+”.
+(3) Section 56B(2)(h) is amended by deleting “a legal practitioner (as defined in the Legal Practice Act 2003)” and inserting instead —
+“
+an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3)
+”.
+(4) Section 56C(2)(g) is amended by deleting “a legal practitioner (as defined in the Legal Practice Act 2003)” and inserting instead —
+“
+an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3)
+”.
+(5) The Second Schedule Part I item 1(f) is deleted and the following paragraph is inserted instead —
+“
+(f) an Australian lawyer (within the meaning of that term in the Legal Profession Act 2008 section 3).
+”.
+”.
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 14 had not come into operation. It reads as follows:
 “
 Part 14 — Juries Act 1957 amended
