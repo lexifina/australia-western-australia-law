@@ -17,6 +17,7 @@ On the date on which this compilation was prepared, provisions referred to in th
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 29 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Industrial Relations Act 1979 (No. 114 of 1979).
 Repealed by the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984 (Act No. 94 of 1984), section 83.
 Repealed by the Public Sector Management Act 1994 (No. 31 of 1994).
@@ -28,4 +29,20 @@ On the date on which this compilation was prepared, the State Superannuation (Tr
 The Alcohol and Drug Authority Act 1974 is amended as follows:
 (a) in section 21(3)(a) by deleting “, and, subject to section 22, in particular his rights if any under the Superannuation and Family Benefits Act 1938”;
 (b) by repealing section 22.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 2, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 2 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 162]
+2.Alcohol and Drug Authority Act 1974 amended
+(1) The amendments in this clause are to the Alcohol and Drug Authority Act 1974.
+(2) Section 4 is amended by deleting the definition of “medical practitioner” and inserting instead —
+“
+medical practitioner has the meaning given to that term in the Medical Practitioners Act 2008 section 4;
+”.
 ”.
