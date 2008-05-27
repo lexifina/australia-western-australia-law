@@ -55,7 +55,7 @@ A contract of sale need not be concluded in or evidenced by writing and is not s
 Article 12
 Any provision of article 11, article 29 or Part II of this Convention that allows a contract of sale or its modification or termination by agreement or any offer, acceptance or other indication of intention to be made in any form other than in writing does not apply where any party has his place of business in a Contracting State which has made a declaration under article 96 of this Convention. The parties may not derogate from or vary the effect of this article.
 Article 13
-For the purposes of this Convention “writing” includes telegram and telex.
+For the purposes of this Convention writing includes telegram and telex.
 PART II — FORMATION OF THE CONTRACT
 Article 14
 (1)A proposal for concluding a contract addressed to one or more specific persons constitutes an offer if it is sufficiently definite and indicates the intention of the offeror to be bound in case of acceptance. A proposal is sufficiently definite if it indicates the goods and expressly or implicitly fixes or makes provision for determing the quantity and the price.
