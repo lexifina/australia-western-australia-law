@@ -71,6 +71,7 @@ Mining Amendment Act 1996 s. 9 | 54 of 1996 | 11 Nov 1996 | To be proclaimed (se
 Native Title (State Provisions) Act 1999, s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
 Mining Legislation Amendment and Validation Act 2008 Pt. 3 | 19 of 2008 | 19 May 2008 | To be proclaimed (see s. 2(c))
+Legal Profession Act 2008 s. 681 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in a written law to the Department of Mines is, unless the contrary is intended, to be read and construed as a reference to the Department of Industry and Resources.
@@ -461,4 +462,13 @@ If —
 (a) an application has been made for a miscellaneous licence for a purpose approved or specified by the Director General of Mines; and
 (b) the application has not been determined before the day on which this section comes into operation,
 the application is to be dealt with and determined as if, on and from the time the application was made, the purpose so approved or specified were prescribed for the purposes of the Mining Act 1978 section 91(1).
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 681 had not come into operation. It reads as follows:
+“
+681.Mining Act 1978 amended
+(1) The amendments in this section are to the Mining Act 1978.
+(2) Section 162(2)(r) is amended by deleting “by legal costs determination (as defined in the Legal Practice Act 2003)” and inserting instead —
+“
+by a costs determination (as defined in the Legal Profession Act 2008 section 252)
+”.
 ”.
