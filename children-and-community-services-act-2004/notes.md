@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 April 2008 of the Children and Community Services Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Children and Community Services Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 | 34 of 2004 | 20 Oct 2004 | s. 1 and 2: 20 Oct 2004; s. 3 and 102: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); Act other than s. 1-3 and 102 and Sch. 2 cl. 9(2) and 25: 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695); Sch. 2 cl. 9(2): 11 Mar 2006 (see s. 2 and Gazette 10 Mar 2006 p. 987)
@@ -12,6 +12,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 Sch. 2 cl. 25 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
+Legal Profession Act 2008 s. 642 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 On the date as at which this reprint was prepared, the Children and Community Services Act 2004 Sch. 2 cl. 25 had not come into operation. It reads as follows:
 “
@@ -67,4 +68,16 @@ If in a written law or other document or instrument there is a reference to a Pa
 (6) If regulations contain a provision referred to in subsection (4), the provision does not —
 (a) affect, in a manner prejudicial to any person (other than the State, an authority of the State or a local government), rights that the person had before the regulations were published in the Gazette; or
 (b) impose liabilities on any person (other than the State, an authority of the State or a local government) in respect of anything done or omitted to be done before the regulations were published in the Gazette.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 642 had not come into operation. It reads as follows:
+“
+642.Children and Community Services Act 2004 amended
+(1) The amendments in this section are to the Children and Community Services Act 2004.
+(2) Section 148(1) is repealed and the following subsection is inserted instead —
+“
+(1) In this section —
+“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3.
+”.
+(3) Section 148(2) and (4) are amended by deleting “lawyer” in each place where it occurs and inserting instead —
+“ legal practitioner ”.
 ”.
