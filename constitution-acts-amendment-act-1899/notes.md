@@ -250,6 +250,8 @@ Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 |
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22, 35 and 51 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
+Legal Profession Act 2008 s. 650 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -343,6 +345,21 @@ Member of the Native Title Commission established by the Native Title (State Pro
 ”.
 ”.
 Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 9, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 9 reads as follows:
+“
+Schedule 3 — Consequential amendments
+9.Constitution Acts Amendment Act 1899 amended
+(1) The amendments in this clause are to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended by deleting the item commencing “The Medical Board” and inserting instead —
+“
+The Medical Board of Western Australia established under the Medical Practitioners Act 2008.
+”.
+”.
 On the date as at which this compilation was prepared, the Owner-Drivers (Contracts and Disputes) Act 2007 s. 58, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 58.Consequential amendments
@@ -382,7 +399,13 @@ On the date as at which this compilation was prepared, the State Superannuation 
 The State Superannuation Board under the State Superannuation Act 2000.
 ”.
 ”.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 650 had not come into operation. It reads as follows:
+“
+650.Constitution Acts Amendment Act 1899 amended
+(1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended in the item relating to the Legal Contribution Trust by deleting “Legal Contribution Trust Act 1967.” and inserting instead —
+“ Legal Profession Act 2008. ”.
+”.
 On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 s. 100, which gives effect to Sch. 4 cl. 1, had not come into operation. It reads as follows:
 “
 100.Consequential amendments
