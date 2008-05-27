@@ -13,4 +13,17 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 60 | 65 of 200
 Reprint 2: The Registration of Deeds Act 1856 as at 9 Apr 2004 (includes amendments listed above)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 20 Div. 1 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Land Information Authority Act 2006 s. 150 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Legal Profession Act 2008 s. 697 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Now known as the Registration of Deeds Act 1856; short title inserted and amended (see note under s. 25).
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 697 had not come into operation. It reads as follows:
+“
+697.Registration of Deeds Act 1856 amended
+(1) The amendments in this section are to the Registration of Deeds Act 1856.
+(2) Section 6 is amended by deleting “a legal practitioner (as defined in the Legal Practice Act 2003)” and inserting instead —
+“
+an Australian lawyer (within the meaning of that term in the Legal Profession Act 2008 section 3)
+”.
+”.
