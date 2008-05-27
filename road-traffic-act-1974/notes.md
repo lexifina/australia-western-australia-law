@@ -137,6 +137,7 @@ Road Traffic Amendment Act 2006 Pt. 2 (other than s. 19 and 27), 3 and 4 Div. 3 
 Road Traffic Amendment Act (No. 2) 2007 Pt.2 (s. 17, 18 and 25 and Div. 4 and 5) | 39 of 2007 | 21 Dec 2007 | Pt. 2 s. 17, 18 & 25 and Pt. 2 Div. 4 & 5 (other than s. 38): to be proclaimed (see s. 2(d)-(h)); Pt. 2 s. 38: operative when the rest of Pt. 2 Div. 5 comes into operation (see s. 2(i))
 Acts Amendment (Justice) Act 2008 s. 131 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 The Traffic Act Amendment Act (No. 2) 1968 came into operation on 20 December 1968 (see s. 2 and Gazette 19 December 1968 p. 3885).
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
@@ -1224,5 +1225,20 @@ a taxation Act, as defined in the Taxation Administration Act 2003 Glossary,
 (4) Section 102(2a)(b) is amended by deleting “the Stamp Act 1921” and inserting instead —
 “
 a taxation Act, as defined in the Taxation Administration Act 2003 Glossary,
+”.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 51, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 51 reads as follows:
+“
+Schedule 3 — Consequential amendments
+51.Road Traffic Act 1974 amended
+(1) The amendments in this clause are to the Road Traffic Act 1974.
+(2) Section 65 is amended by deleting the definition of “medical practitioner” and inserting instead —
+“
+“medical practitioner” has the meaning given to that term in the Medical Practitioners Act 2008 section 4;
 ”.
 ”.
