@@ -13,12 +13,13 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Security and Related Activities (Control) Amendment Act 2008 Pt. 2 | 4 of 2008 | 2 Apr 2008 | To be proclaimed (see s. 2(b))
+Legal Profession Act 2008 s. 703 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 62 reads as follows:
 “
 62.Security and Related Activities (Control) Act 1996
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 117 comes into operation.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 117 comes into operation.
 (2) If in the period of 21 days before the commencement day a notice has been given under the Security and Related Activities (Control) Act 1996 section 68(2) (applying section 67(2), (3) and (4) to the cancellation of an endorsement under section 68(1)), on or after the commencement day that notice is to be taken to be a notice given on the commencement day under that Act section 68(2)(a).
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 47 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
@@ -32,30 +33,30 @@ The long title is amended by deleting “property protection;” and inserting i
 5.Section 3 amended
 (1) Section 3 is amended in the definition commencing “security agent” by deleting ““security agent”, “security consultant”,” and inserting instead —
 “
-“security agent”, “security bodyguard”, “security consultant”,
+security agent, security bodyguard, security consultant,
 ”.
 (2) Section 3 is amended by inserting in the appropriate alphabetical positions —
 “
-“class”, in relation to a security consultant’s licence or a security installer’s licence, means a class prescribed in relation to that licence;
-“compliance officer” means a compliance officer appointed under section 7(1)(a);
-“court” includes a court (however described) of a foreign jurisdiction;
-“crowd control agent” has the meaning given by section 34;
-“crowd controller” has the meaning given by section 35;
-“disqualifying offence” means an offence of a kind prescribed as being a disqualifying offence;
-“finding of guilt” has the meaning given in section 4B;
-“inquiry agent” has the meaning given by section 27;
-“investigator” has the meaning given by section 28;
-“investigator’s licence” means a licence issued for the purposes of section 30;
-“licensing officer” means a licensing officer appointed under section 7(1)(b);
-“prohibited person” has the meaning given in section 4A;
-“relevant body” means —
+class, in relation to a security consultant’s licence or a security installer’s licence, means a class prescribed in relation to that licence;
+compliance officer means a compliance officer appointed under section 7(1)(a);
+court includes a court (however described) of a foreign jurisdiction;
+crowd control agent has the meaning given by section 34;
+crowd controller has the meaning given by section 35;
+disqualifying offence means an offence of a kind prescribed as being a disqualifying offence;
+finding of guilt has the meaning given in section 4B;
+inquiry agent has the meaning given by section 27;
+investigator has the meaning given by section 28;
+investigator’s licence means a licence issued for the purposes of section 30;
+licensing officer means a licensing officer appointed under section 7(1)(b);
+prohibited person has the meaning given in section 4A;
+relevant body means —
 (a)a police force of the Commonwealth, of this State, of another State or of a Territory; or
 (b)another body established, or continued, for a public purpose and prescribed for the purpose of this definition;
-“relevant conduct”, in relation to a person who is, or was, a member, officer or employee of a relevant body, means actual or suspected conduct in the nature of criminal or corrupt activity by the person while a member, officer or employee of the relevant body;
-“security bodyguard’s licence” means a licence issued for the purposes of section 18A;
-“security consultant’s licence” means a licence issued for the purposes of section 17;
-“security installer’s licence” means a licence issued for the purposes of section 18;
-“temporary licence” means a licence referred to in section 42A or 42B.
+relevant conduct, in relation to a person who is, or was, a member, officer or employee of a relevant body, means actual or suspected conduct in the nature of criminal or corrupt activity by the person while a member, officer or employee of the relevant body;
+security bodyguard’s licence means a licence issued for the purposes of section 18A;
+security consultant’s licence means a licence issued for the purposes of section 17;
+security installer’s licence means a licence issued for the purposes of section 18;
+temporary licence means a licence referred to in section 42A or 42B.
 ”.
 (3) Section 3 is amended by deleting the full stop after the definition of “supplies” and inserting a semicolon instead.
 6.Sections 4A and 4B inserted
@@ -256,13 +257,13 @@ After section 42 the following Part is inserted —
 “
 Part 6A — Temporary licences for interstate visitors
 42A.Temporary licence — security activities
-(1) A person who ordinarily resides in another State or Territory may apply, in accordance with section 46, for a licence (a “temporary licence”) to carry out in Western Australia any activity, or activities, as a crowd controller, investigator, security bodyguard, security consultant, security officer or security installer that may be authorised under this Act.
+(1) A person who ordinarily resides in another State or Territory may apply, in accordance with section 46, for a licence (a temporary licence) to carry out in Western Australia any activity, or activities, as a crowd controller, investigator, security bodyguard, security consultant, security officer or security installer that may be authorised under this Act.
 (2) A temporary licence —
 (a) is to be granted for such period of time of not more than one year as is specified in the licence; and
 (b) is not renewable.
 (3) The holder of a temporary licence under this section does not commit an offence under this Act while acting under and in accordance with that licence.
 42B.Temporary licence — agent services
-(1) A person who ordinarily resides in another State or Territory may apply, in accordance with section 46, for a licence (a “temporary licence”) to supply in Western Australia any service, or services, as a security agent, inquiry agent or crowd control agent that may be authorised under this Act.
+(1) A person who ordinarily resides in another State or Territory may apply, in accordance with section 46, for a licence (a temporary licence) to supply in Western Australia any service, or services, as a security agent, inquiry agent or crowd control agent that may be authorised under this Act.
 (2) A temporary licence —
 (a) is to be granted for such period of time of not more than one year as is specified in the licence; and
 (b) is not renewable.
@@ -323,7 +324,7 @@ test or examination prescribed in respect of the licence;
 (7) After section 47(3) the following subsection is inserted —
 “
 (4) In subsection (3) —
-“relevant applicant” means an applicant who —
+relevant applicant means an applicant who —
 (a)has spent more than 12 consecutive months outside Australia during the period of 5 years commencing immediately before the making of the application; or
 (b)has not been a resident of Australia for the whole of the period of 5 years commencing immediately before the making of the application.
 ”.
@@ -486,7 +487,7 @@ Before section 67 the following section is inserted in Part 7 Division 4 —
 “
 66A.Interpretation
 In this Division —
-“licensee” includes a person referred to in section 67(1)(b).
+licensee includes a person referred to in section 67(1)(b).
 ”.
 46.Section 67 amended
 (1) Section 67(1) is amended by deleting “against a licensee.” and inserting instead —
@@ -571,7 +572,7 @@ After section 68 the following section is inserted —
 “
 68A.Consent to release information
 (1) In this section —
-“relevant person”, in relation to a licensee, means —
+relevant person, in relation to a licensee, means —
 (a)the licensee; or
 (b)if the licensee holds the licence on behalf of a partnership, a partner in the partnership; or
 (c)if the licensee holds the licence on behalf of a body corporate —
@@ -663,7 +664,7 @@ After section 79 the following section is inserted in Part 8 —
 “
 79A.Certain unlicensed persons not to be employed in an agent’s business
 (1) In subsection (1) —
-“employ”, in relation to the holder of an agent’s licence, includes —
+employ, in relation to the holder of an agent’s licence, includes —
 (a)to have working in any capacity in the business that the person carries out under the agent’s licence; and
 (b)to provide remuneration or pay for that work, whether by the person who holds the agent’s licence or by another person with the agreement of the person who holds the agent’s licence.
 (2) A person who holds an agent’s licence is not to employ in any capacity in the business that the person carries out under the licence a person —
@@ -679,7 +680,7 @@ Before section 80 the following section is inserted in Part 9 —
 “
 79B.Interpretation
 In this Part —
-“licensee” means the holder of —
+licensee means the holder of —
 (a)a crowd controller’s licence; or
 (b)a security officer’s licence with an endorsement under section 24 or 26; or
 (c)a security officer’s licence and a permit under section 25.
@@ -738,7 +739,7 @@ Section 88 is repealed and the following is inserted instead —
 Division 2 — Legal proceedings
 88.Designated persons
 (1) In sections 88A and 88B —
-“designated person” means a person appointed under subsection (2) to be a designated person for the purposes of the provision in which the term is used.
+designated person means a person appointed under subsection (2) to be a designated person for the purposes of the provision in which the term is used.
 (2) The Commissioner may, in writing, appoint persons or classes of persons to be designated persons for the purposes of section 88A(2), (4) or 88B or for the purposes of more than one of those provisions, but a member of the police force, or a compliance officer, who issues an infringement notice is not eligible to be a designated person for the purposes of any of those provisions in relation to that notice.
 88A.Infringement notices
 (1) A member of the police force, or a compliance officer, who has reason to believe that a person —
@@ -784,7 +785,7 @@ After section 90 the following section is inserted —
 (b) the agent exercised all such due diligence to prevent the commission of the offence as ought to have been exercised in the circumstances.
 (3) Proceedings under this section may be taken against an agent whether or not proceedings are taken against the licensee and whether or not the licensee was convicted of the offence.
 (4) In this section —
-“agent”, in relation to a licensee, means a person who —
+agent, in relation to a licensee, means a person who —
 (a)holds an agent’s licence; and
 (b)employed the licensee at the time the licensee committed the offence.
 ”.
@@ -853,4 +854,13 @@ s. 30 | s. 64
 s. 31(1) | s. 78(1)
 s. 32 | s. 79
 s. 33(1)
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 703 had not come into operation. It reads as follows:
+“
+703.Security and Related Activities (Control) Act 1996 amended
+(1) The amendments in this section are to the Security and Related Activities (Control) Act 1996.
+(2) Section 28(2)(a) is amended by deleting “certificated practitioner (within the meaning of the Legal Practice Act 2003)” and inserting instead —
+“
+Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3)
+”.
 ”.
