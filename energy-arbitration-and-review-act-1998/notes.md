@@ -21,6 +21,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Legal Profession Act 2008 s. 665 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
 The copy of the Code reproduced in Schedule 2 is a copy of the Code in its original form, as agreed by the Council of Australian Governments on 7 November 1997. It does not include subsequent amendments to the Code. Copies of the Code as amended are available from the Code Registrar in accordance with Schedule 1 clause 7.
 Repealed by the Gas Pipelines Access (Western Australia) Act 1998 Sch. 3 cl. 31(1) on approval of Access Arrangement on 18 July 2000.
@@ -95,4 +96,13 @@ Schedule 1 — Amendments to various Acts
 10.Gas Pipelines Access (Western Australia) Act 1998
 Section 23(1) is amended by deleting “stamp duty or other” and inserting instead —
 “ duty or ”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 665 had not come into operation. It reads as follows:
+“
+665.Gas Pipelines Access (Western Australia) Act 1998 amended
+(1) The amendments in this section are to the Gas Pipelines Access (Western Australia) Act 1998.
+(2) Section 49 is amended by deleting the definition of “legal practitioner” and inserting instead —
+“
+“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3.
+”.
 ”.
