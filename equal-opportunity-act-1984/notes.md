@@ -42,6 +42,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 26 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Acts Amendment (Justice) Act 2008 Pt. 10 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Legal Profession Act 2008 s. 661 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
 Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
 The Uniform Building By-laws 1974 were repealed in Gazette 28 July 1989 p. 2280.
@@ -105,4 +106,10 @@ Section 136 is repealed and the following section is inserted instead —
 (d) a summary of the evidence on which those findings were based.
 (2) Any failure to comply with subsection (1) in relation to a decision does not affect the validity of the decision.
 ”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 661 had not come into operation. It reads as follows:
+“
+661.Equal Opportunity Act 1984 amended
+(1) The amendment in this section is to the Equal Opportunity Act 1984.
+(2) Section 4(1) is amended by deleting the definition of “legal practitioner”.
 ”.
