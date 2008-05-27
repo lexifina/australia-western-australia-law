@@ -3,5 +3,5 @@
 (2) For the purposes of —
 (a) making an order under section 205ZG or 235A; or
 (b) granting an injunction under section 235A,
-“property” includes a debt owed by a de facto partner.
+property includes a debt owed by a de facto partner.
 [Section 205ZLD inserted by No. 35 of 2006 s. 34.]
