@@ -9,6 +9,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 20 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Acts Amendment (Justice) Act 2008 Pt. 3 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Legal Profession Act 2008 s. 645 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 20 had not come into operation. It reads as follows:
 “
 20.Civil Judgments Enforcement Act 2004 amended
@@ -146,4 +147,19 @@ Division 2 — General
 (3) To the extent that a provision of regulations made under subsection (1) has effect before the day on which it is published in the Gazette, it does not —
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State) the rights of that person existing before the day of publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of publication.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 645 had not come into operation. It reads as follows:
+“
+645.Civil Judgments Enforcement Act 2004 amended
+(1) The amendments in this section are to the Civil Judgments Enforcement Act 2004.
+(2) Section 30(1) is repealed and the following section is inserted instead —
+“
+(1) In this section —
+“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3.
+”.
+(3) Section 30(6) is amended as follows:
+(a) by deleting “lawyer” in both places where it occurs and inserting instead —
+“ legal practitioner ”;
+(b) by deleting “Legal Practice Act 2003 section 123.” and inserting instead —
+“ Legal Profession Act 2008 section 12. ”.
 ”.
