@@ -20,6 +20,10 @@ Trustees Amendment Act 1997 s. 18 | 1 of 1997 | 6 May 1997 | 16 Jun 1997 (see s.
 Reprint of the Queen Elizabeth II Medical Centre Act 1966 as at 3 Aug 2001 (includes amendments listed above)
 Health Legislation Amendment Act 2004 Pt 5 | 61 of 2004 | 24 Nov 2004 | 24 Nov 2004 (see s. 2)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Cancer Council of Western Australia Act Repeal Act 1982.
 Now known as the Queen Elizabeth II Medical Centre Act 1966; short title changed (see note under s. 1).
 The Health Legislation Amendment Act 2004 s. 18 reads as follows:
@@ -28,8 +32,23 @@ The Health Legislation Amendment Act 2004 s. 18 reads as follows:
 (1) The formation of the MHSB by the Hospitals and Health Services (Re-organisation of Hospital Boards) Notice 1997 is declared to be, and always to have been, as valid as it would have been if section 16(7a) of the principal Act (as inserted by section 17 of this Act) had been in force at the time when that Notice came into operation.
 (2) Anything done or omitted, or purported to have been done or omitted, by the MHSB or the Minister in respect of a teaching hospital before the commencement of this section is declared to be, and always to have been, as valid as it would have been if it had been done or omitted by a managing body or an appointments committee constituted in accordance with section 16 of the principal Act.
 (3) In this section —
-“MHSB” means the Metropolitan Health Service Board formed by the Hospitals and Health Services (Re-organisation of Hospital Boards) Notice 1997, published in the Gazette on 16 July 1997 at pages 3695-6;
-“Minister” means the Minister in whom the management of a teaching hospital is vested under section 7 of the Hospitals and Health Services Act 1927;
-“principal Act” means the Queen Elizabeth II Medical Centre Act 1966;
-“teaching hospital” means a hospital to which section 16(1) of the principal Act applies.
+MHSB means the Metropolitan Health Service Board formed by the Hospitals and Health Services (Re-organisation of Hospital Boards) Notice 1997, published in the Gazette on 16 July 1997 at pages 3695-6;
+Minister means the Minister in whom the management of a teaching hospital is vested under section 7 of the Hospitals and Health Services Act 1927;
+principal Act means the Queen Elizabeth II Medical Centre Act 1966;
+teaching hospital means a hospital to which section 16(1) of the principal Act applies.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 50, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 50 reads as follows:
+“
+Schedule 3 — Consequential amendments
+50.Queen Elizabeth II Medical Centre Act 1966 amended
+(1) The amendments in this clause are to the Queen Elizabeth II Medical Centre Act 1966.
+(2) Section 16(4a) is amended by deleting “within the meaning of section 3 of the Medical Act 1894.” and inserting instead —
+“
+as defined in the Medical Practitioners Act 2008 section 4.
+”.
 ”.
