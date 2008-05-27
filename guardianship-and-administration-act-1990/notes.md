@@ -30,6 +30,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 Pt. 12 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Legal Profession Act 2008 s. 667 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Guardianship and Administration Amendment Act 2000 s. 21 reads as follows:
 “
@@ -74,7 +76,19 @@ on or after the commencement day, the State Administrative Tribunal may make an 
 (b) a statement of acceptance in the form, or substantially in the form, of the GA Act Schedule 3 Form 2,
 in effect immediately before the commencement day contains a reference to the Guardianship and Administration Board, on and after the commencement day that reference is to be taken to be a reference to the State Administrative Tribunal.
 ”.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 667 had not come into operation. It reads as follows:
+“
+667.Guardianship and Administration Act 1990 amended
+(1) The amendments in this section are to the Guardianship and Administration Act 1990.
+(2) Section 3(1) is amended by deleting the definition of “legal practitioner” and inserting instead —
+“
+“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+”.
+(3) Section 51(3) is amended by deleting “Legal Practice Act 2003.” and inserting instead —
+“ Legal Profession Act 2008. ”.
+(4) Section 70(3) is amended by deleting “Legal Practice Act 2003.” and inserting instead —
+“ Legal Profession Act 2008. ”.
+”.
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 12 had not come into operation. It reads as follows:
 “
 Part 12 — Guardianship and Administration Act 1990 amended
@@ -114,5 +128,20 @@ Section 86(1) is amended by inserting after paragraph (a) —
 “
 or
 (aa) the Public Trustee; or
+”.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 22, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 22 reads as follows:
+“
+Schedule 3 — Consequential amendments
+22.Guardianship and Administration Act 1990 amended
+(1) The amendments in this clause are to the Guardianship and Administration Act 1990.
+(2) Section 119(4) is amended in the definition of “practitioner” by deleting “within the meaning of the Medical Act 1894” and inserting instead —
+“
+within the meaning given to that term in the Medical Practitioners Act 2008 section 4
 ”.
 ”.
