@@ -17,6 +17,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 53 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Legal Profession Act 2008 s. 672 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the State Superannuation Act 2000.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 reads as follows:
 “
@@ -37,4 +38,25 @@ The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 97 reads a
 “
 97.References to Crown Solicitor
 If in a written law or other document or instrument there is a reference to the Crown Solicitor that reference may, where the context so requires, be read as if it had been amended to be a reference to the State Solicitor.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 672 had not come into operation. It reads as follows:
+“
+672.Law Reform Commission Act 1972 amended
+(1) The amendments in this section are to the Law Reform Commission Act 1972.
+(2) Section 6(1) is amended as follows:
+(a) by deleting paragraph (a) and inserting instead —
+“
+(a) one shall be an Australian legal practitioner of at least 8 years’ standing and experience;
+”;
+(b) by deleting paragraph (c) and inserting instead —
+“
+(c) one shall be an Australian legal practitioner who is an officer of the State Solicitor’s Office of at least 8 years’ standing and experience.
+”.
+(3) Section 6(2)(a) is amended by deleting “a barrister or solicitor of the High Court of Australia or of the Supreme Court of a State or Territory of the Commonwealth” and inserting instead —
+“ an Australian legal practitioner ”.
+(4) After section 6(2) the following subsection is inserted —
+“
+(3) In this section —
+Australian legal practitioner has the meaning given in the Legal Profession Act 2008 section 3.
+”.
 ”.
