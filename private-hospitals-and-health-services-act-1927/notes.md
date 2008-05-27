@@ -54,6 +54,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The “appointed day” was 13 Dec 1997 (see Gazette 7 Nov 1997 p. 6136).
 Now see the Workers’ Compensation and Injury Management Act 1981.
@@ -104,4 +105,17 @@ Schedule 1 — Amendments to various Acts
 16.Hospitals and Health Services Act 1927
 Section 35 is amended by deleting “stamp duty.” and inserting instead —
 “ duty under the Duties Act 2008. ”.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 27, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 27 reads as follows:
+“
+Schedule 3 — Consequential amendments
+27.Hospitals and Health Services Act 1927 amended
+(1) The amendments in this clause are to the Hospitals and Health Services Act 1927.
+(2) Section 2(1) is amended in the definition of “practitioner” by deleting “Medical Act 1894” and inserting instead —
+“ Medical Practitioners Act 2008 section 4 ”.
 ”.
