@@ -13,6 +13,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) | 37 of 2005 (as amended by No. 60 of 2006 s. 147(4)) | 12 Dec 2005 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 Pt. 18 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Legal Profession Act 2008 s. 690 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
 Repealed by the Mining Act 1978.
 On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) had not come into operation. They read as follows:
@@ -382,4 +383,13 @@ Section 239(1) is amended by deleting “section 238(3)(a)” and inserting inst
 (2) Section 244(2) is amended by deleting “the President” and inserting instead —
 “ a judicial member ”.
 (3) Section 244(4) is repealed.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 690 had not come into operation. It reads as follows:
+“
+690.Planning and Development Act 2005 amended
+(1) The amendments in this section are to the Planning and Development Act 2005.
+(2) Section 4(1) is amended by deleting the definition of “legal practitioner” and inserting instead —
+“
+“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+”.
 ”.
