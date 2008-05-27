@@ -99,6 +99,7 @@ Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 Pt. 11 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Prostitution Amendment Act 2008 s. 31 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Legal Profession Act 2008 s. 662 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 “
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
@@ -280,5 +281,14 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 20 | Commercial sexual act at place where child present
 21 | Allowing child to be at place involving commercial sexual act or certain sexual service businesses
 21A | Obligations of those who operate sexual service business in relation to children
+”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 662 had not come into operation. It reads as follows:
+“
+662.Evidence Act 1906 amended
+(1) The amendments in this section are to the Evidence Act 1906.
+(2) Section 122 is amended by deleting “Despite section 123 of the Legal Practice Act 2003 a person who is entitled to practise as a legal practitioner in a participating jurisdiction is entitled to practise as a barrister, solicitor or both — ” and inserting instead —
+“
+A person who is entitled to practise as an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3) in a participating jurisdiction is entitled to practise as an Australian legal practitioner —
 ”.
 ”.
