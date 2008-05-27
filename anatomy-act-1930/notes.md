@@ -18,6 +18,10 @@ Acts Repeal and Amendment (Births, Deaths and Marriages Registration) Act 1998 s
 Reprint of the Anatomy Act 1930 as at 22 Feb 2002 (includes amendments listed above)
 Acts Amendment (Equality of Status) Act 2003 Pt. 2 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Human Tissue and Transplant Act 1982.
 The Limitation Act 1935 s. 48A(2) reads as follows:
 “
@@ -41,4 +45,20 @@ The Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 17(3), (4) and (
 (a) endorsed in relation to the school of anatomy; and
 (b) valid for 6 months from that commencement.
 (5) A licence granted by the Governor under section 5 of the Act and in force immediately before the commencement of this section continues to have effect, on and after that commencement, as if this section had not been enacted.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 3, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 3 reads as follows:
+“
+Schedule 3 — Consequential amendments
+[s. 162]
+3.Anatomy Act 1930 amended
+(1) The amendments in this clause are to the Anatomy Act 1930.
+(2) Section 2 is amended by deleting the definition of “medical practitioner” and inserting instead —
+“
+medical practitioner has the meaning given to that term in the Medical Practitioners Act 2008 section 4;
+”.
 ”.
