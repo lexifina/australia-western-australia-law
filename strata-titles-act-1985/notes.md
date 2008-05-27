@@ -43,6 +43,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Legal Profession Act 2008 s. 707 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 “
 (5) A plan registered under the principal Act before the provision inserted by subsection (3) came into operation is declared to be, and to have always been, valid if it would have been valid at the time of registration had that provision been then in operation.
@@ -282,5 +283,14 @@ Schedule 1 — Amendments to various Acts
 (2) Section 31H(3)(b) is deleted and the following paragraph is inserted instead —
 “
 (b) a transaction referred to in the Duties Act 2008 section 112(6).
+”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 707 had not come into operation. It reads as follows:
+“
+707.Strata Titles Act 1985 amended
+(1) The amendments in this section are to the Strata Titles Act 1985.
+(2) Section 129B(1) is amended by deleting “a legal practitioner (as defined in the Legal Practice Act 2003) or a barrister or solicitor of the Supreme Court of another State or a Territory.” and inserting instead —
+“
+an Australian lawyer (within the meaning of that term in the Legal Profession Act 2008 section 3).
 ”.
 ”.
