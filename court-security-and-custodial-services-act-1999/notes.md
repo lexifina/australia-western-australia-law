@@ -21,6 +21,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Police Amendment Act 2008 s. 23(2) | 8 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(2))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The “Inspector provisions” as defined in the Prisons Amendment Act 1999 s. 2(4) came into operation on 18 Jun 2000 (see Gazette 16 Jun 2000 p. 2939).
 The Inspector of Custodial Services Act 2003 s. 57 and Sch. 3 read as follows:
 “
@@ -57,4 +58,17 @@ On the date as at which this compilation was prepared, the Police Amendment Act 
 “
 23.Various Acts amended in relation to the definition of “police officer”
 (2) The Court Security and Custodial Services Act 1999 section 3 is amended by deleting the definition of “police officer”.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 12, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 12 reads as follows:
+“
+Schedule 3 — Consequential amendments
+12.Court Security and Custodial Services Act 1999 amended
+(1) The amendments in this clause are to the Court Security and Custodial Services Act 1999.
+(2) Section 3 is amended in the definition of “doctor” by deleting “Medical Act 1894” and inserting instead —
+“ Medical Practitioners Act 2008 ”.
 ”.
