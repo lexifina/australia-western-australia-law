@@ -13,5 +13,22 @@ Acts Amendment (Lesbian and Gay Law Reform) Act 2002 Pt. 12 | 3 of 2002 | 17 Apr
 Acts Amendment (Prohibition of Human Cloning and Other Practices) Act 2004 s. 11 | 18 of 2004 | 16 Jul 2004 | 1 Dec 2004 (see s. 2 and Gazette 26 Nov 2004 p. 5309)
 Human Tissue and Transplant Amendment Act 2006 | 14 of 2006 | 11 May 2006 | 11 May 2006 (see s. 2)
 Reprint 2: The Human Tissue and Transplant Act 1982 as at 7 Jul 2006 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The provisions in this Act repealing these Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The provision in this Act amending that Act has been omitted under the Reprints Act 1984 s. 7(4)(e).
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 29, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 29 reads as follows:
+“
+Schedule 3 — Consequential amendments
+29.Human Tissue and Transplant Act 1982 amended
+(1) The amendments in this clause are to the Human Tissue and Transplant Act 1982.
+(2) Section 3(1) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894;” and inserting instead —
+“ Medical Practitioners Act 2008; ”.
+”.
