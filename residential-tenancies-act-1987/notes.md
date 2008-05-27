@@ -25,6 +25,10 @@ Residential Parks (Long-stay Tenants) Act 2006 s. 98 | 32 of 2006 | 4 Jul 2006 |
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 9 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 4: The Residential Tenancies Act 1987 as at 20 Jul 2007 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Legal Profession Act 2008 s. 698 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
@@ -74,7 +78,21 @@ Each office in existence immediately before commencement because of section 15(1
 Each office in existence immediately before commencement because of section 5(2)(b) of the Petroleum Products Pricing Act 1983 does not cease merely because that paragraph is deleted by this Act.
 155.Interpretation
 In this Division —
-“commencement” means the time at which this Division comes into operation;
-“Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
-“Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+commencement means the time at which this Division comes into operation;
+Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
+Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 698 had not come into operation. It reads as follows:
+“
+698.Residential Tenancies Act 1987 amended
+(1) The amendments in this section are to the Residential Tenancies Act 1987.
+(2) Section 22(6) is amended as follows:
+(a) by deleting the definition of “legal practitioner” and inserting instead —
+“
+legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+”;
+(b) by deleting the definition of “legally qualified person” and inserting instead —
+“
+legally qualified person means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3 or a person who holds or has held legal qualifications under the laws of this State or any other place.
+”.
 ”.
