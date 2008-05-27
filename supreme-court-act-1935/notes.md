@@ -84,6 +84,7 @@ Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Acts Amendment (Justice) Act 2008 Pt. 23 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Bail Amendment Act 2008 s. 46 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2)
+Legal Profession Act 2008 s. 709 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Acts Amendment (Court of Appeal) Act 2004 s. 5(2) and Pt. 5 read as follows:
 “
@@ -204,7 +205,44 @@ The Limitation Legislation Amendment and Repeal Act 2005 s. 18(2) reads as follo
 18.Section 29 repealed and a savings provision
 (2) The Supreme Court Act 1935 section 29, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
 ”.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 709 had not come into operation. It reads as follows:
+“
+709.Supreme Court Act 1935 amended
+(1) The amendments in this section are to the Supreme Court Act 1935.
+(2) Section 4(1) is amended as follows:
+(a) by inserting in the appropriate alphabetical position —
+“
+“lawyer” means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
+”;
+(b) by deleting the definition of “legal practitioner” and inserting instead —
+“
+“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+”.
+(3) Section 4(2) is amended as follows:
+(a) in paragraph (a) by deleting “in the State”;
+(b) by deleting paragraph (b);
+(c) in paragraph (d) by deleting “2 or more” and inserting instead —
+“ both ”.
+(4) Section 8(1) is repealed and the following subsection is inserted instead —
+“
+(1) A person is eligible for appointment as a judge of the Court if that person is a lawyer and has had not less than 8 years’ legal experience.
+”.
+(5) Section 11A(2) is amended by deleting “legal practitioner” in both places where it occurs and inserting instead —
+“ lawyer ”.
+(6) Section 11A(2a)(a) is amended by deleting “in the State”.
+(7) Section 11B(1)(c) is amended by deleting “the practice of a barrister or solicitor” and inserting instead —
+“ legal practice ”.
+(8) Section 154(1) is amended by deleting “legal practitioner” and inserting instead —
+“ lawyer ”.
+(9) Section 167(1)(d) is amended by deleting “legal costs determination (as defined in the Legal Practice Act 2003).” and inserting instead —
+“
+costs determination (as defined in the Legal Profession Act 2008 section 252).
+”.
+(10) Section 167(1)(da) is amended by deleting “legal costs determination (as defined in the Legal Practice Act 2003).” and inserting instead —
+“
+costs determination (as defined in the Legal Profession Act 2008 section 252).
+”.
+”.
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 23 had not come into operation. It reads as follows:
 “
 Part 23 — Supreme Court Act 1935 amended
