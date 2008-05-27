@@ -19,6 +19,8 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 s. 128 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Police Amendment Act 2008 s. 23(1) | 8 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(2))
+Legal Profession Act 2008 s. 654 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003.
 Now called the Telecommunications (Interception and Access) Act 1979.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -133,4 +135,48 @@ On the date as at which this compilation was prepared, the Police Amendment Act 
 “
 23.Various Acts amended in relation to the definition of “police officer”
 (1) The Corruption and Crime Commission Act 2003 section 3 is amended by deleting the definition of “police officer”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 654 had not come into operation. It reads as follows:
+“
+654.Corruption and Crime Commission Act 2003 amended
+(1) The amendments in this section are to the Corruption and Crime Commission Act 2003.
+(2) Section 3 is amended as follows:
+(a) by deleting the definition of “legal practitioner” and inserting instead —
+“
+“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+”;
+(b) by inserting in the appropriate alphabetical position —
+“
+“lawyer” means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
+”.
+(3) Section 142(6) is amended by deleting “legal practitioner” and inserting instead —
+“ lawyer ”.
+(4) Section 143(1) is amended by deleting “legal practitioner” and inserting instead —
+“ lawyer ”.
+(5) Section 147(2) is amended by deleting “legal practitioner” in the 3 places where it occurs and inserting instead —
+“ lawyer ”.
+(6) Section 190(1) is amended in the definition of “legal experience” as follows:
+(a) by deleting paragraphs (a) and (b) and inserting instead —
+“
+(a)standing and practice as a legal practitioner; or
+”;
+(b) in paragraph (d) by deleting “2 or more” and inserting instead —
+“ both ”.
+(7) Section 190(2) is repealed and the following subsection is inserted instead —
+“
+(2) A person is eligible for appointment as Parliamentary Inspector if the person is a lawyer and has had not less than 8 years’ legal experience.
+”.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 11, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 11 reads as follows:
+“
+Schedule 3 — Consequential amendments
+11.Corruption and Crime Commission Act 2003 amended
+(1) The amendments in this clause are to the Corruption and Crime Commission Act 2003.
+(2) Section 54(1) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894;” and inserting instead —
+“ Medical Practitioners Act 2008; ”.
 ”.
