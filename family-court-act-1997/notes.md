@@ -25,6 +25,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 43(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Family Legislation Amendment Act 2006 Pt. 4 | 35 of 2006 | 4 Jul 2006 | To be proclaimed (see s. 2)
+Legal Profession Act 2008 s. 663 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938was repealed by the State Superannuation Act 2000 s. 39. Certain provisions of that Act continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 43(2) had not come into operation. It reads as follows:
 “
@@ -46,7 +47,7 @@ The Family Court Amendment Act 2002 s. 62(2) reads as follows:
 The Acts Amendment (Equality of Status) Act 2003 s. 50(2) and (3) read as follows:
 “
 (2) In subsection (3) —
-“relevant action” means anything done under the Family Court Act 1997 —
+relevant action means anything done under the Family Court Act 1997 —
 (a)after the commencement of the Family Court Amendment Act 2002; but
 (b)before the commencement of this section.
 (3) It is declared that by force of this section —
@@ -64,8 +65,8 @@ The Family Court Act 1997, as amended by this Division, applies in relation to p
 (2) The Family Court Act 1997 as amended by this Division, does not apply to proceedings that were instituted under that Act before the commencement of this Division.
 35.Transitional provisions
 (1) In this section —
-“commencement” means the day on which this Division comes into operation;
-“section 205ZG order” means an order (other than an interim or a partial order) made under section 205ZG of the Family Court Act 1997.
+commencement means the day on which this Division comes into operation;
+section 205ZG order means an order (other than an interim or a partial order) made under section 205ZG of the Family Court Act 1997.
 (2) Subject to this section, the Family Court Act 1997, as amended by this Division, applies in relation to all de facto relationships to which that Act otherwise applies.
 (3) Subject to subsection (4), the Family Court Act 1997, as amended by this Division, does not apply in relation to a de facto relationship if a section 205ZG order is in force in relation to the relationship at the commencement.
 (4) If a section 205ZG order that is in force at the commencement is later set aside under section 205ZH(1)(a), (b), (c) or (d) of the Family Court Act 1997, then the Family Court Act 1997, as amended by this Division, applies in relation to the de facto relationship in relation to which the order was in force, only from the time the order is set aside.
@@ -73,8 +74,8 @@ The Family Court Act 1997, as amended by this Division, applies in relation to p
 The Family Court Act 1997, as amended by section 36 of this Act, applies in relation to proceedings in a court (within the meaning of that Act section 8) that have not been finally determined before the commencement of that section, whether the proceedings were instituted in the court before, on or after the commencement of that section.
 48.Transitional provisions
 (1) In this section —
-“commencement” means the day on which this Subdivision comes into operation;
-“parenting order” has the same meaning as it has in the Family Court Act 1997.
+commencement means the day on which this Subdivision comes into operation;
+parenting order has the same meaning as it has in the Family Court Act 1997.
 (2) The Family Court Act 1997, as amended by this Subdivision, applies to —
 (a) contraventions, and alleged contraventions, of parenting orders whether occurring before, at or after the commencement; and
 (b) proceedings in a court (within the meaning of that Act section 8) in which it is alleged that a person committed a contravention of a parenting order whether those proceedings are commenced before, at or after the commencement.
@@ -92,9 +93,9 @@ Despite the amendments effected by section 60, the Family Court Act 1997, as in 
 (3) The Family Court Act 1997, as amended by this section, does not apply to, or in respect of, proceedings instituted under that Act before the commencement of this section.
 99.Transitional provisions
 (1) In this section —
-“commencement” means the day on which this Division comes into operation;
-“new Act” means the Family Court Act 1997 as in force after commencement;
-“parenting order” has the same meaning as in the Family Court Act 1997.
+commencement means the day on which this Division comes into operation;
+new Act means the Family Court Act 1997 as in force after commencement;
+parenting order has the same meaning as in the Family Court Act 1997.
 (2) Section 66C of the new Act applies to orders made on or after commencement.
 (3) The amendments effected by sections 84 and 94 apply in respect of parenting orders made on or after commencement.
 (4) The amendment effected by section 85 applies to proceedings under Part 5 of the Family Court Act 1997, whether the proceedings were initiated before, on or after commencement.
@@ -107,8 +108,8 @@ Despite the amendments effected by section 60, the Family Court Act 1997, as in 
 (11) The amendments effected by this Division are taken not to constitute changed circumstances that would justify making an order to discharge or vary, or to suspend or revive the operation of, some or all of a parenting order that was made before commencement.
 103.Transitional provisions
 (1) In this section —
-“commencement” means the day on which this Division comes into operation;
-“parenting order” has the same meaning as in the Family Court Act 1997.
+commencement means the day on which this Division comes into operation;
+parenting order has the same meaning as in the Family Court Act 1997.
 (2) The amendments effected by this Division apply to a contravention, or alleged contravention of a parenting order —
 (a) if the contravention occurs, or the alleged contravention is alleged to occur, on or after commencement; and
 (b) do not apply if the contravention occurs, or the alleged contravention is alleged to occur, before commencement.
@@ -122,7 +123,7 @@ The Family Legislation Amendment Act 2006 Pt. 3 Div. 4 Subdiv. 2 reads as follow
 Subdivision 2 — Transitional provisions
 127.Interpretation
 In this Division —
-“commencement” means the day on which this Division comes into operation.
+commencement means the day on which this Division comes into operation.
 128.Arbitration awards registered under section 60A or 60B are taken to be registered under section 65P
 If —
 (a) at any time before commencement, an award in an arbitration had been registered under section 60A or 60B of the Family Court Act 1997; and
@@ -156,7 +157,7 @@ then the court may make another order substituting a family consultant for the p
 (1) If this Division does not provide sufficiently for a matter or issue of a transitional nature that arises as a result of the amendments made by this Division, the Governor may make regulations prescribing all matters that are required, necessary or convenient to be prescribed for providing for that matter or issue.
 (2) If regulations made under subsection (1) provide that a specified state of affairs is taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations are published in the Gazette but not earlier than commencement, the regulations have effect according to their terms.
 (3) In subsection (2) —
-“specified” means specified or described in the regulations.
+specified means specified or described in the regulations.
 (4) If regulations contain a provision referred to in subsection (2), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the day of publication; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication.
@@ -165,9 +166,9 @@ The Family Legislation Amendment Act 2006 s. 141 and 143 read as follows:
 “
 141.Transitional provisions
 (1) In this section —
-“commencement” means the day on which this Division comes into operation;
-“new provision” means section 164 of the Family Court Act 1997 as in force after commencement;
-“old provision” means section 171 of the Family Court Act 1997 as in force immediately before commencement.
+commencement means the day on which this Division comes into operation;
+new provision means section 164 of the Family Court Act 1997 as in force after commencement;
+old provision means section 171 of the Family Court Act 1997 as in force immediately before commencement.
 (2) The amendments effected by this Division apply to proceedings initiated under Part 5 of the Family Court Act 1997 before, on or after commencement.
 (3) If —
 (a) a court made an order under the old provision for separate representation of a child; and
@@ -177,7 +178,7 @@ then —
 (d) the order under the old provision for separate representation of the child is taken to be an order under the new provision for independent representation of the child’s interests.
 143.Transitional provisions
 (1) In this section —
-“commencement” means the day on which this Division comes into operation.
+commencement means the day on which this Division comes into operation.
 (2) The amendments effected by this Division —
 (a) apply to orders made after commencement; and
 (b) do not apply to orders made before commencement.
@@ -190,28 +191,28 @@ Section 5(1) is amended as follows:
 (a) by inserting in the appropriate alphabetical positions —
 “
 (FLA s. 4(1))
-“bankrupt” has the same meaning as in the Bankruptcy Act;
+bankrupt has the same meaning as in the Bankruptcy Act;
 “Bankruptcy Act” means the Bankruptcy Act 1966 of the Commonwealth;
 (FLA s. 4(1))
-“bankruptcy trustee”, in relation to a bankrupt, means the trustee of the bankrupt’s estate;
+bankruptcy trustee, in relation to a bankrupt, means the trustee of the bankrupt’s estate;
 (FLA s. 4(1))
-“debtor subject to a personal insolvency agreement” has the meaning given by section 7B;
+debtor subject to a personal insolvency agreement has the meaning given by section 7B;
 (FLA s. 4(1))
-“personal insolvency agreement” has the same meaning as in the Bankruptcy Act;
+personal insolvency agreement has the same meaning as in the Bankruptcy Act;
 (FLA s. 4(1))
-“property”, in relation to de facto partners, or either of them, means property to which those partners are, or that partner is, as the case may be, entitled, whether in possession or reversion;
+property, in relation to de facto partners, or either of them, means property to which those partners are, or that partner is, as the case may be, entitled, whether in possession or reversion;
 (FLA s. 4(1))
-“property settlement proceedings” means proceedings with respect to —
+property settlement proceedings means proceedings with respect to —
 (a)the property of de facto partners, or either of them; or
 (b)the vested bankruptcy property in relation to a bankrupt de facto partner;
 (FLA s. 4(1))
-“trustee”, in relation to a personal insolvency agreement, has the same meaning as in the Bankruptcy Act;
+trustee, in relation to a personal insolvency agreement, has the same meaning as in the Bankruptcy Act;
 (FLA s. 4(1))
-“vested bankruptcy property”, in relation to a bankrupt, means property, within the meaning of the Bankruptcy Act, of the bankrupt that has vested in the bankruptcy trustee under that Act;
+vested bankruptcy property, in relation to a bankrupt, means property, within the meaning of the Bankruptcy Act, of the bankrupt that has vested in the bankruptcy trustee under that Act;
 ”;
 (b) by deleting the definition of “Part 5A proceedings” and inserting instead —
 “
-“Part 5A proceedings” means proceedings under Part 5A for orders with respect to —
+Part 5A proceedings means proceedings under Part 5A for orders with respect to —
 (a)the property of de facto partners, or either of them; or
 (b)the vested bankruptcy property in relation to a bankrupt de facto partner; or
 (c)the maintenance of a de facto partner,
@@ -276,7 +277,7 @@ the court must join the bankruptcy trustee as a party to the proceedings.
 (4) The court must not grant leave under subsection (3) unless the court is satisfied that there are exceptional circumstances.
 (5) If —
 (a) an application is made for an order under this section in proceedings between de facto partners with respect to the maintenance of one of the de facto partners; and
-(b) either of the following subparagraphs apply to one of the de facto partners (the “debtor party”) —
+(b) either of the following subparagraphs apply to one of the de facto partners (the debtor party) —
 (i) when the application was made, the de facto partner was a debtor subject to a personal insolvency agreement; or
 (ii) after the application was made but before it is finally determined, the de facto partner becomes a debtor subject to a personal insolvency agreement;
 and
@@ -404,7 +405,7 @@ the court must join the bankruptcy trustee as a party to the proceedings.
 (14) The court must not grant leave under subsection (13) unless the court is satisfied that there are exceptional circumstances.
 (15) If —
 (a) an application is made for an order under this section in proceedings between de facto partners with respect to the property of the de facto partners, or either of them; and
-(b) either of the following subparagraphs apply to a de facto partner (the “debtor party”) —
+(b) either of the following subparagraphs apply to a de facto partner (the debtor party) —
 (i) when the application was made, the de facto partner was a debtor subject to a personal insolvency agreement; or
 (ii) after the application was made but before it is finally determined, the de facto partner becomes a debtor subject to a personal insolvency agreement;
 and
@@ -530,8 +531,8 @@ is of no force or effect until a separation declaration is made.
 (a) the de facto partners have separated and are living separately and apart at the declaration time; and
 (b) in the opinion of the de facto partners making the declaration, there is no reasonable likelihood of cohabitation being resumed.
 (5) In this section —
-“declaration time” means the time when the declaration was signed by a party to the financial agreement (or last signed by a party to the agreement, if both parties to the agreement have signed);
-“separated” has the same meaning in relation to a de facto relationship as it has for the purposes of section 48 of the Family Law Act, as affected by section 49 of that Act, in relation to a marriage.
+declaration time means the time when the declaration was signed by a party to the financial agreement (or last signed by a party to the agreement, if both parties to the agreement have signed);
+separated has the same meaning in relation to a de facto relationship as it has for the purposes of section 48 of the Family Law Act, as affected by section 49 of that Act, in relation to a marriage.
 ”.
 193.Section 222 amended
 (1) After section 222(1) the following subsections are inserted —
@@ -570,8 +571,8 @@ After section 235A(3) the following subsections are inserted —
 ”.
 195.Transitional provisions
 (1) In this section —
-“commencement” means the day on which this Part comes into operation;
-“relevant provisions” means the following provisions of the Family Court Act 1997, as amended by this Part —
+commencement means the day on which this Part comes into operation;
+relevant provisions means the following provisions of the Family Court Act 1997, as amended by this Part —
 (a)section 205ZCA(2), (3) and (4); and
 (b)section 205ZCA(8), to the extent to which it relates to section 205ZCA(2); and
 (c)the definitions in section 5(1), to the extent to which those definitions relate to section 205ZCA(2), (3) and (4); and
@@ -585,4 +586,28 @@ After section 235A(3) the following subsections are inserted —
 and
 (b) does not apply in relation to bankruptcies for which the date of the bankruptcy is before the commencement.
 (3) The relevant provisions apply to proceedings instituted after the commencement, whether the date of the bankruptcy is before, on or after the commencement.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 663 had not come into operation. It reads as follows:
+“
+663.Family Court Act 1997 amended
+(1) The amendments in this section are to the Family Court Act 1997.
+(2) Section 5(1) is amended as follows:
+(a) in the definition of “independent children’s lawyer” by deleting “a certificated practitioner (within the meaning of the Legal Practice Act 2003)” and inserting instead —
+“ an Australian legal practitioner ”;
+(b) by inserting in the appropriate alphabetical position —
+“
+Australian legal practitioner has the meaning given in the Legal Profession Act 2008 section 3;
+”.
+(3) Section 11(3) is repealed and the following subsections are inserted instead —
+“
+(3) A person is not eligible for appointment as a Family Court judge unless the person —
+(a) is an Australian lawyer and has had not less than 8 years’ legal experience; and
+(b) by reason of training, experience, and personality, is a suitable person to deal with matters of family law.
+(3a) In subsection (3)(a) —
+Australian lawyer has the meaning given in the Legal Profession Act 2008 section 3;
+legal experience means —
+(a)standing and practice as an Australian legal practitioner; or
+(b)judicial service (including service as a judge of a court, a magistrate or other judicial officer) in the State or elsewhere in a common law jurisdiction; or
+(c)a combination of both kinds of legal experience mentioned in paragraphs (a) and (b).
+”.
 ”.
