@@ -53,6 +53,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Bail Amendment Act 2008 Pt. 2 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2)
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 25. The Act was then repealed by the Criminal Procedure and Appeal (Consequential and Other Provisions) Act 2004.
 The amendment in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 had not come into operation when it was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Bail Amendment Act 1984 s. 10 and 11 were repealed by the Bail Amendment Act 1988 s. 20.
@@ -926,4 +927,19 @@ to or in relation to any matter.
 (5) If the transitional regulations contain a provision referred to in subsection (3), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 4, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 4 reads as follows:
+“
+Schedule 3 — Consequential amendments
+4.Bail Act 1982 amended
+(1) The amendments in this clause are to the Bail Act 1982.
+(2) Schedule 1 Part D clause 2(7) is amended by deleting the definition of “medical practitioner” and inserting instead —
+“
+“medical practitioner” has the meaning given to that term in the Medical Practitioners Act 2008 section 4;
+”.
 ”.
