@@ -21,6 +21,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 Pt. 22 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Legal Profession Act 2008 s. 706 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Architects Act 2004.
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 22 had not come into operation. It reads as follows:
 “
@@ -57,4 +59,44 @@ After section 171(2) the following subsections are inserted —
 (3) If a question arises as to the fee payable or applicable in a particular case, the question is to be decided by the executive officer.
 (4) A person affected by a decision of the executive officer made under subsection (3) may have it reviewed by the President in a summary way.
 ”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 706 had not come into operation. It reads as follows:
+“
+706.State Administrative Tribunal Act 2004 amended
+(1) The amendments in this section are to the State Administrative Tribunal Act 2004.
+(2) Section 3(1) is amended as follows:
+(a) by deleting the definition of “legal experience” and inserting instead —
+“
+“legal experience” means —
+(a)standing and practice as a legal practitioner; or
+(b)judicial service (including service as a judge of a court, a magistrate or other judicial officer) in the State or elsewhere in a common law jurisdiction; or
+(c)a combination of both kinds of legal experience mentioned in paragraphs (a) and (b);
+”;
+(b) by deleting the definition of “legal practitioner” and inserting instead —
+“
+“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+”;
+(c) by deleting the definition of “qualified person” and inserting instead —
+“
+“qualified person” means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
+”.
+(3) Section 93(1) is amended in the definition of “legally qualified person” by deleting paragraph (a) and “or” after it and inserting instead —
+“
+(a)an Australian lawyer (within the meaning of that term in the Legal Profession Act 2008 section 3) or a person entitled to engage in legal practice in any other place; or
+”.
+(4) Schedule 1 is amended by deleting “Legal Practice Act 2003” and inserting instead —
+“ Legal Profession Act 2008 ”.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 53, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 53 reads as follows:
+“
+Schedule 3 — Consequential amendments
+53.State Administrative Tribunal Act 2004 amended
+(1) The amendments in this clause are to the State Administrative Tribunal Act 2004.
+(2) Schedule 1 is amended by deleting “Medical Act 1894” and inserting instead —
+“ Medical Practitioners Act 2008 ”.
 ”.
