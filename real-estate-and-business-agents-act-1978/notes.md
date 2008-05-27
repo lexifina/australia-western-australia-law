@@ -49,6 +49,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 29 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Legal Profession Act 2008 s. 696 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Land Agents Act 1921 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The “appointed day” was 1 December 1979. See Gazette 31 August 1979 p. 2615.
 The Land Agents Act 1921.
@@ -110,5 +111,14 @@ Schedule 1 — Amendments to various Acts
 Section 131A(1) is amended in the definition of “incidental expenses” by deleting paragraph (a) and inserting instead —
 “
 (a)duty chargeable under the Duties Act 2008;
+”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 696 had not come into operation. It reads as follows:
+“
+696.Real Estate and Business Agents Act 1978 amended
+(1) The amendments in this section are to the Real Estate and Business Agents Act 1978.
+(2) Section 4(1) is amended by deleting the definition of “legal practitioner” and inserting instead —
+“
+“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”.
 ”.
