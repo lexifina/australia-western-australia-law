@@ -10,6 +10,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 34 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Legal Profession Act 2008 s. 712 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 34 had not come into operation. It reads as follows:
 “
 34.Western Australian College of Teaching Act 2004 amended
@@ -29,5 +30,14 @@ s. 18 | Agreement for child to act as a sex worker
 s. 20 | Commercial sexual act at place where child present
 s. 21 | Allowing child to be at place involving commercial sexual act or certain sexual service businesses
 s. 21A | Obligations of those who operate sexual service business in relation to children
+”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 712 had not come into operation. It reads as follows:
+“
+712.Western Australian College of Teaching Act 2004 amended
+(1) The amendments in this section are to the Western Australian College of Teaching Act 2004.
+(2) Section 71(2) is amended by deleting “a certificated practitioner (within the meaning of the Legal Practice Act 2003)” and inserting instead —
+“
+an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3)
 ”.
 ”.
