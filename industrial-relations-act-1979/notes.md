@@ -78,6 +78,8 @@ Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 Pt. 13 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Police Amendment Act 2008 s. 23(3) | 8 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(2))
+Legal Profession Act 2008 s. 668 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
 The Labour Relations Reform Act 2002 s. 112, 113(6), 117(2) and (3), 138(2), 140(2), 141(2), 146(2), 152(2), 155(2) and (3), 186(2)-(4) and Sch. 1 read as follows:
@@ -287,4 +289,44 @@ On the date as at which this compilation was prepared, the Police Amendment Act 
 (3) The Industrial Relations Act 1979 Schedule 3 clause 1 is amended as follows:
 (a) by deleting the semi colon after the definition of “Arbitrator” and inserting instead a full stop;
 (b) by deleting the definition of “police officer”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 668 had not come into operation. It reads as follows:
+“
+668.Industrial Relations Act 1979 amended
+(1) The amendments in this section are to the Industrial Relations Act 1979.
+(2) Section 7(1) is amended by deleting the definition of “legal practitioner” and inserting instead —
+“
+“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+”.
+(3) Section 9(1) is repealed and the following subsections are inserted instead —
+“
+(1) A person is not eligible for appointment as the President unless the person is a lawyer and has had not less than 5 years’ legal experience.
+(1aa) In subsection (1) —
+“lawyer” means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
+“legal experience” means —
+(a)standing and practice as a legal practitioner; or
+(b)judicial service (including service as a judge of a court, a magistrate or other judicial officer) in the State or elsewhere in a common law jurisdiction; or
+(c)a combination of both kinds of legal experience mentioned in paragraphs (a) and (b).
+”.
+(4) Section 31(6) is repealed.
+(5) Sections 42B(7), 51Q(4), 97UJ(5) and 112A(3) are amended by deleting “section 123(3)(c) of the Legal Practice Act 2003” in each place where it occurs and inserting instead —
+“
+section 12 of the Legal Profession Act 2008
+”.
+(6) Section 91(3) is repealed.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 30, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 30 reads as follows:
+“
+Schedule 3 — Consequential amendments
+30.Industrial Relations Act 1979 amended
+(1) The amendments in this clause are to the Industrial Relations Act 1979.
+(2) Section 72B(1) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894;” and inserting instead —
+“ Medical Practitioners Act 2008 section 4; ”.
+(3) Section 97WR is amended in the definition of “medical practitioner” by deleting “Medical Act 1894;” and inserting instead —
+“ Medical Practitioners Act 2008; ”.
 ”.
