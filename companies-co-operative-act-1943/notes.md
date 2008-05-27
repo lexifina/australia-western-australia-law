@@ -58,6 +58,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 21 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Legal Profession Act 2008 s. 649 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 This refers to the Commonwealth Bankruptcy Act 1924 which was replaced by the Commonwealth Bankruptcy Act 1966.
 The Companies Act 1893 was repealed by the Companies Act 1943, which was repealed by Companies Act 1961, s. 4 and 382(2), except in relation to Co-operative Companies, in respect of which it may now be cited as the Companies (Co-operative) Act 1943.
 Repealed by the Public Trustee Act 1941 s. 3.
@@ -141,4 +142,14 @@ Schedule 1 — Amendments to various Acts
 “ transaction ”.
 (3) The Tenth Schedule item 19 is amended by deleting “Stamp Duties Office” and inserting instead —
 “ Office of State Revenue ”.
+”.
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 649 had not come into operation. It reads as follows:
+“
+649.Companies (Co-operative) Act 1943 amended
+(1) The amendments in this section are to the Companies (Co-operative) Act 1943.
+(2) Section 397(3) is repealed and the following subsection is inserted instead —
+“
+(3) In this section —
+“solicitor” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3.
+”.
 ”.
