@@ -18,6 +18,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 37(2) | 43 of 2000 | 2 Nov 2000 | To be proc. (see s. 2(2))
+Legal Profession Act 2008 s. 653 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Under the Public Sector Management Act 1994 (No. 31 of 1994) s. 112(2) a reference in a written law to the Public Service Commissioner is to be construed as if it had been amended to be a reference to the Minister for Public Sector Management.
 The Corporations (Western Australia) Amendment Act 1991 s. 20 reads as follows:
 “
@@ -27,8 +28,16 @@ The Minister must cause —
 (b) a copy of the report of the Auditor-General for the Commonwealth on those financial statements —
 being reports and financial statements copies of which have been submitted to the Minister by the Australian Securities Commission under section 15(3) of that Act, to be laid before each House of the Parliament within 15 sitting days of that House after its receipt by the Minister.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 37(2) had not come into operation. It reads:
+On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 653 had not come into operation. It reads as follows:
+“
+653.Corporations (Western Australia) Act 1990 amended
+(1) The amendments in this section are to the Corporations (Western Australia) Act 1990.
+(2) Section 48 is amended by deleting “a barrister or a solicitor, or as both a barrister and a solicitor” and inserting instead —
+“
+an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3)
+”.
+”.
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 37(2) had not come into operation. It reads as follows:
 “
 (2) Section 83 of the Corporations (Western Australia) Act 1990 is repealed.
 ”.
