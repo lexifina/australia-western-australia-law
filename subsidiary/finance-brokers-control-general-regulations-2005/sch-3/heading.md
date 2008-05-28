@@ -18,7 +18,7 @@ contrary to —
 ·regulation (5)............. of the Finance Brokers Control (General) Regulations 2005*.
 *Delete as appropriate.
 The modified penalty for the offence is $ ...................
-If you do not wish to have a complaint of the alleged offence heard and determined by a court, the amount of money specified in this notice as the modified penalty may be paid within a period of 28 days after the giving of this notice. Payment may be made by either —
+If you do not wish to have a prosecution notice of the alleged offence heard and determined by a court, the amount of money specified in this notice as the modified penalty may be paid within a period of 28 days after the giving of this notice. Payment may be made by either —
 (a) posting this form with a cheque, money order or postal note for the specified amount of money, payable to the chief executive officer, to the Department of Consumer and Employment Protection, Locked Bag 14, Cloisters Square, Perth WA 6850; or
 (b) presenting this form and paying the specified amount to an authorised person (6) at the Department of Consumer and Employment Protection, Ground Floor, 219 St Georges Terrace, Perth WA 6000.
 Name and title of authorised person giving this notice: ......................................
@@ -29,6 +29,7 @@ Signature: ........................................................
 (4) Place at which offence allegedly committed
 (5) Section or regulation designation
 (6) Description of authorised persons
+[Form 1 amended in Gazette 27 May 2008 p. 2040.]
 Form 2
 Finance Brokers Control Act 1975
 Withdrawal of infringement notice
