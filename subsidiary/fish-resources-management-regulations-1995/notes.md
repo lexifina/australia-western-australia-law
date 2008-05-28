@@ -109,6 +109,7 @@ Reprint 7: The Fish Resources Management Regulations 1995 as at 19 Oct 2007 (inc
 Fish Resources Management Amendment Regulations (No. 4) 2007 | 13 Nov 2007 | r. 1 and 2: 13 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2008 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 8) 2007 | 21 Dec 2007 p. 6325-6 | r. 1 and 2: 21 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Dec 2007 (see r. 2(b))
 Fish Resources Management Amendment Regulations 2008 | 5 Feb 2008 p. 301-2 | r. 1 and 2: 5 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 3) 2008 | 27 May 2008 p. 2040-2 | r. 1 and 2: 27 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2008 (see r. 2(b))
 Repealed by the Land Administration Act 1997 s. 281(1).
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
