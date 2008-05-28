@@ -39,20 +39,20 @@ Architects Act 2004 s. 80 | 75 of 2004 | 8 Dec 2004 | 16 Nov 2005 (see s. 2 and 
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 13 and s. 82 | 84 of 2004 (as amended by No. 41 of 2006 s. 74(2) and 75(2)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 4: The Sentencing Act 1995 as at 12 Aug 2005 (includes amendments listed above except those in the Sentencing Legislation Amendment Act 2004 and the Architects Act 2004)
 Water Legislation Amendment (Competition Policy) Act 2005 s. 53 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
-Parole and Sentencing Legislation Amendment Act 2006 Pt. 3 | 41 of 2006 | 22 Sep 2006 | s. 74 & 75: 22 Sep 2006 (see s. 2(4)(b)); Pt. 3 other than s. 71, 74 & 75: 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
+Criminal Law Amendment (Criminal Property) Act 2004 Pt. 3 | 26 of 2004 | 7 Oct 2004 | 28 May 2008 (see s. 2(2) and Gazette 27 May 2008 p. 2037)
+Parole and Sentencing Legislation Amendment Act 2006 Pt. 3 | 41 of 2006 | 22 Sep 2006 | s. 74 & 75: 22 Sep 2006 (see s. 2(4)(b)); Pt. 3 other than s. 71, 74 & 75: 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867) s. 71: 28 May 2008 (see s. 2(3) and Gazette 27 May 2008 p. 2037)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 4 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 5: The Sentencing Act 1995 as at 6 Jul 2007 (includes amendments listed above)
+Reprint 5: The Sentencing Act 1995 as at 6 Jul 2007 (includes amendments listed above except those in the Criminal Law Amendment (Criminal Property) Act 2004 and Parole and Sentencing Legislation Amendment Act 2006 s. 71)
 Water Resources Legislation Amendment Act 2007 s. 199 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Fines Legislation Amendment Act 2008 Pt.3 | 3 of 2008 | 12 Mar 2008 | 28 Mar 2008 (see s. 2(c) and Gazette 27 Mar 2008 p. 899)
 Criminal Law and Evidence Amendment Act 2008 s. 70 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Criminal Law Amendment (Criminal Property) Act 2004 Pt. 3 | 26 of 2004 | 7 Oct 2004 | To be proclaimed (see s. 2(2))
-Parole and Sentencing Legislation Amendment Act 2006 s. 71 | 41 of 2006 | 22 Sep 2006 | Operative on commencement of Act No. 26 of 2004 Pt. 3 (see s. 2(3))
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Acts Amendment (Justice) Act 2008 Pt. 20 and 21 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
@@ -194,39 +194,7 @@ to or in relation to any matter.
 The amendments in the Sentencing Legislation Amendment Act 2004 s. 6(4) erroneously referred to “73(3) and (5)” instead of “75(3) and (5)” when identifying the required amendments to be made to s. 33N(3).
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 59 which purported to replace s. 84E could not be included because s. 84E was not in operation when s. 59 came into operation. S. 59 was subsequently repealed by No. 41 of 2006 s. 74(2).
 The amendments in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 65 that purported to amend s. 84P(3) could not be included because s. 84P(3) was not in operation when s. 65 came into operation. Those amendments were subsequently repealed by No. 41 of 2006 s. 75(2).
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Criminal Property) Act 2004 Pt. 3 had not come into operation. It reads as follows:
-“
-Part 3 — Amendments to Sentencing Act 1995
-6.The Act amended
-The amendments in this Part are to the Sentencing Act 1995.
-7.Section 8 amended
-(1) Section 8(3) is repealed and the following subsections are inserted instead —
-“
-(3) The fact that criminal property confiscation has occurred or may occur is not a mitigating factor.
-(3a) However, except in the case of derived property, facilitation by the offender of criminal property confiscation is a mitigating factor.
-”.
-(2) After section 8(5) the following subsection is inserted —
-“
-(6) In this section —
-“criminal property confiscation” means —
-(a)confiscation of derived property or any other property under section 6, 7 or 8 of the Criminal Property Confiscation Act 2000; or
-(b)confiscation or forfeiture to the Crown of derived property under any other written law;
-“derived property” means property derived or realised, directly or indirectly, by the offender, or that is subject to the effective control of the offender, as a result of the commission of the offence.
-”.
-8.Section 16 amended
-Section 16(1)(f) is amended by deleting “forfeiture to Crown” and inserting instead —
-“
-confiscation or forfeiture to the Crown (otherwise than under the Criminal Property Confiscation Act 2000)
-”.
-”.
-On the date as at which this compilation was prepared, the Parole and Sentencing Legislation Amendment Act 2006 s. 71 had not come into operation. It reads as follows:
-“
-71.Sections 8 and 16 amended
-(1) Section 8(6) is amended in paragraph (b) of the definition of “criminal property confiscation” by deleting “Crown” and inserting instead —
-“ State ”.
-(2) Section 16(1)(f) is amended by deleting “Crown” and inserting instead —
-“ State ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 had not come into operation. It reads as follows:
 “
 54.Sentencing Act 1995 amended
@@ -270,5 +238,20 @@ the Minister, in writing, may discharge the person from the term.
 (b) has effect despite the old provisions.
 (7) If, on the date a discharge has effect in relation to a person who is subject to an old parole term, the person is in custody, the person must be released in respect of that term.
 (8) If, on the date a discharge has effect in relation to a person who is subject to an old parole term, the person is subject to a parole order made in respect of that term, the person ceases to be subject to the parole order in so far as it applies in respect of that term.
+”.
+”.
+On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 52, had not come into operation. It reads as follows:
+“
+162.Consequential amendments
+Schedule 3 sets out consequential amendments.
+”.
+Schedule 3 cl. 52 reads as follows:
+“
+Schedule 3 — Consequential amendments
+52.Sentencing Act 1995 amended
+(1) The amendments in this clause are to the Sentencing Act 1995.
+(2) Schedule 1 is amended by deleting the item relating to the “Medical Act 1894” and inserting instead —
+“
+Medical Practitioners Act 2008 | Medical Board of Western Australia
 ”.
 ”.
