@@ -11,7 +11,7 @@ Place: Time: (specify hours or at any time)
 This warrant ceases to have effect:
 Date: Time:
 I ........................................................... Justice of the Peace of .........................................................
-am satisfied by complaint made on oath —
+am satisfied by application supported by evidence on oath —
 (a)that there are reasonable grounds for suspecting that there is on or in the place referred to in this warrant anything that may afford evidence of the commission of an offence against the Fish Resources Management Act 1994; or
 (b)that the issue of this warrant is reasonably required for the purpose of ascertaining whether a person has contravened or is contravening the Fish Resources Management Act 1994;
 and I authorise .................................................................................. , a fisheries officer, to enter and search the place referred to in this warrant with such assistance, and by such force, as is reasonably necessary during the time referred to in this warrant.
@@ -19,6 +19,7 @@ and I authorise ................................................................
 Signature of Justice of the Peace
 ............................................
 Date
+[Form 2 amended in Gazette 29 May 2008 p. 2059.]
 Form 3
 [reg. 160]
 Fish Resources Management Act 1994
