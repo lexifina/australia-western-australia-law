@@ -131,6 +131,10 @@ Road Traffic (Licensing) Amendment Regulations 2006 | 28 Nov 2006 p. 4898-911 | 
 Reprint 7: The Road Traffic (Vehicle Licensing) Regulations 1975 as at 18 May 2007 (includes amendments listed above)
 Road Traffic (Vehicle Licensing) Amendment Regulations (No. 4) 2007 | 22 Jun 2007 p. 2871-2 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)) Regulations other than r. 1 and 2: 23 Jun 2007 (see r. (2(b))
 Road Traffic (Vehicle Licensing) Amendment Regulations 2007 | 22 Jun 2007 p. 2873-4 | 22 Jun 2007
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic (Licensing) Amendment Regulations (No. 3) 2008 r. 3-5 | 30 May 2008 p. 2083-4 | 1 Jul 2008 (see r. 2(b))
 Revoked on 4 Oct 1974 (see Gazette 3 Oct 1974 p. 3701).
 Revoked on 1 Jun 1975 (see Gazette 29 May 1975 p. 1577).
 Under the Local Government Act 1995 Sch. 9.3 cl. 3(2) a reference to a municipality or municipal district under the Local Government Act 1960 may, when the context requires, be read as if it had been amended to include or be a reference to a local government or local government district under the Local Government Act 1995. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
@@ -143,4 +147,30 @@ The Road Traffic (Licensing) Amendment Regulations (No. 3) 2000 r. 6 reads as fo
 “
 6.Transitional
 A licence for a vehicle of a class described in the portion of the Table deleted by regulation 5(4) is to be taken to be a licence for the appropriate class of vehicle described in the portion of the Table inserted by that regulation.
+”.
+On the date as at which this compilation was prepared, the Road Traffic (Licensing) Amendment Regulations (No. 3) 2008 r. 3-5 had not come into operation. They read as follows:
+“
+3.The regulations amended
+The amendments in these regulations are to the Road Traffic (Licensing) Regulations 1975.
+4.Regulation 9B inserted
+After regulation 9A the following regulation is inserted —
+“
+9B.Transitional provision for heavy vehicle licences
+On the day on which the Road Traffic (Licensing) Amendment Regulations (No. 3) 2008 regulation 5 comes into operation a vehicle licence that was, immediately before that day, of a class indicated in column 1 of the Table to this regulation and continues after that day becomes of the class indicated in column 2.
+Table
+column 1 | column 2
+old class | new class
+MP2, 1LP2, 2LP2 | MC2
+MP3, 1LP3, 2LP3 | MC3
+MP4, 1LP4, 2LP4 | MC4
+MP5, 1LP5, 2LP5 | MC5
+”.
+5.Schedule 3 amended
+Schedule 3 is amended in the Table by deleting the items for prime movers of any of classes MP2 to 2LP5 and inserting instead —
+“
+MC2 | 2 | any | 2 semi-trailers if no other trailers, otherwise 1 semi-trailer
+MC3 | 3 | any | 2 semi-trailers if no other trailers, otherwise 1 semi-trailer
+MC4 | 4 | any | 2 semi-trailers if no other trailers, otherwise 1 semi-trailer
+MC5 | 5 or more | any | 2 semi-trailers if no other trailers, otherwise 1 semi-trailer
+”.
 ”.
