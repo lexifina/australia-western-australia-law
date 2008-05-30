@@ -18,10 +18,10 @@ Setose or tarspot western rock lobster —
 (c)brought onto land from,
 waters south of 21° 44′ south latitude and west of 116° east longitude.
 In this Division —
-“setose” means a female rock lobster that has fine hair-like filaments (ovigerous setae) —
+setose means a female rock lobster that has fine hair-like filaments (ovigerous setae) —
 (a)for the attachment of eggs on the branched structures (biramous endopodites) forming part of the swimmerets (pleopods) underneath its tail; or
 (b)that, although not capable of the attachment of eggs as described in paragraph (a), are in the process of lengthening as part of the development of the rock lobster to sexual maturity;
-“tarspot” means a female rock lobster that has a black putty-like mass (spermatophoric mass) attached to the underside of the carapace (ventral sternal plate) between its hindmost (5th) pair of walking legs.
+tarspot means a female rock lobster that has a black putty-like mass (spermatophoric mass) attached to the underside of the carapace (ventral sternal plate) between its hindmost (5th) pair of walking legs.
 [Division 1 amended in Gazette 22 Dec 1995 p. 6169; 30 Sep 1997 p. 5418; 7 Jul 1998 p. 3614; 8 Sep 2000 p. 5187-8; 4 Nov 2005 p. 5313.]
 ## Division 2 — Miscellaneous
 Abalone in the waters or land between 31° 59.48′ south latitude (the main Cottesloe Groyne) and 32° 03.15′ south latitude (Rous Head) and —
