@@ -6,6 +6,7 @@ Land Tax Assessment Regulations 2003 | 27 Jun 2003 p. 2409-14 | 1 Jul 2003 (see 
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 82 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
 Land Tax Assessment Amendment Regulations 2007 | 20 Mar 2007 p. 1049 | 20 Mar 2007
 Land Tax Assessment Amendment Regulations (No. 2) 2007 | 4 Sep 2007 p. 4521-2 | r. 1 and 2: 4 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2007 (see r. 2(b))
+Land Tax Assessment Amendment Regulations 2008 | 30 May 2008 p. 2088 | r. 1 and 2: 30 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 31 May 2008 (see r. 2(b))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 3 Div. 3 of those regulations read as follows:
 “
 1.Citation
@@ -36,7 +37,7 @@ After regulation 3 the following regulation is inserted —
 “
 3A.Application of regulations in non-Commonwealth places
 (1)In this regulation —
-“applied Land Tax Assessment Regulations” means the Land Tax Assessment Regulations 2003 of Western Australia in their application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act.
+applied Land Tax Assessment Regulations means the Land Tax Assessment Regulations 2003 of Western Australia in their application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act.
 (2)In these regulations, unless the contrary intention appears —
 (a)a reference to these regulations is to be read as a reference to these regulations in their application as a law of Western Australia; and
 (b)a reference to the Act is to be read as a reference to the Act in its application as a law of Western Australia; and
@@ -58,9 +59,9 @@ This notice comes into operation on the day after the day on which it is registe
 Note:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
 4.Definitions
 In this notice —
-“applied WA law” means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
-“Commissioner of State Revenue” means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
-“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
+applied WA law means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
+Commissioner of State Revenue means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
+Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
 5.Modification of applied WA laws
 (1) For the purposes of the Commonwealth Mirror Taxes Act section 8, each applied WA law is taken to be modified to the extent necessary to give effect to subclause (2).
 (2) If —
@@ -81,7 +82,7 @@ After regulation 3 the following regulation is inserted —
 “
 3A.Application of regulations in Commonwealth places
 (1) In this regulation —
-“corresponding Land Tax Assessment Regulations” means the Land Tax Assessment Regulations 2003 of Western Australia in their application as a law of Western Australia.
+corresponding Land Tax Assessment Regulations means the Land Tax Assessment Regulations 2003 of Western Australia in their application as a law of Western Australia.
 (2) In these regulations —
 (a) a reference to these regulations is to be read as a reference to these regulations in their application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
 (b) a reference to the Act or the Land Tax Assessment Act 2002 is to be read as a reference to the Land Tax Assessment Act 2002 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
