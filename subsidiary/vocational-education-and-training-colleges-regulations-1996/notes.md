@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 January 2008 of the Vocational Education and Training Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Vocational Education and Training Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Vocational Education and Training Regulations 1996 | 27 Dec 1996 p. 7167-84 | 1 Jan 1997 (see r. 2 and Gazette 12 Nov 1996 p. 6301)
@@ -23,6 +23,7 @@ Vocational Education and Training Amendment Regulations 2006 | 20 Oct 2006 p. 44
 Vocational Education and Training Amendment Regulations (No. 2) 2006 | 24 Nov 2006 p. 4813-14 | 24 Nov 2006
 Vocational Education and Training Amendment Regulations 2007 | 9 Nov 2007 p. 5605-9 | r. 1 and 2: 9 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Nov 2007 (see r. 2(b))
 Reprint 3: The Vocational Education and Training Regulations 1996 as at 4 Jan 2008 (includes amendments listed above)
+Vocational Education and Training Amendment Regulations 2008 | 30 May 2008 p. 2068-9 | r. 1 and 2: 30 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 31 May 2008 (see r. 2(b))
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 of the Commonwealth.
 Formerly referred, incorrectly, to the Student and Youth Allowances Act 1973 of the Commonwealth. The correct short title of the Act was the Student and Youth Assistance Act 1973. That short title was changed to the Student Assistance Act 1973 by the Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 of the Commonwealth. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Repealed by the Skilling Australia’s Workforce (Repeal and Transitional Provisions) Act 2005 of the Commonwealth.
