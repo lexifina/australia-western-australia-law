@@ -131,7 +131,7 @@ Local Government (Miscellaneous Provisions) Amendment (Smoke Alarms) Act 2007 | 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 5-12 | 11 of 2007 | 29 Jun 2007 | To be proclaimed (see s. 2)
+Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 5-12 | 11 of 2007 | 29 Jun 2007 | 1 Jul 2008 (see s. 2 and Gazette 6 Jun 2008 p. 2179)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Act No. 90 of 1964 was passed as the Local Government Act Amendment Act (No. 2) 1964, but was proclaimed to come into operation as the Local Government Act Amendment Act 1964.
 Repealed by the Stock (Brands and Movement) Act 1970, which is now known as the Stock (Identification and Movement) Act 1970.
