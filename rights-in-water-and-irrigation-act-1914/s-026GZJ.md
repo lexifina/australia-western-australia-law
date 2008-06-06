@@ -11,7 +11,7 @@
 (g) any other details that are prescribed by the regulations.
 (2) In the case of a licence under section 5C held by the holder of an operating licence, the details referred to in subsection (1) are to be set out in a separate part of the register.
 (3) In subsection (2) —
-“operating licence” means —
+operating licence means —
 (a) an operating licence (water supply services); or
 (b) an operating licence (irrigation services),
 under the Water Services Licensing Act 1995.
