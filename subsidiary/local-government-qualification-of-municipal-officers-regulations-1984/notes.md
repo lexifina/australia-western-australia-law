@@ -11,4 +11,14 @@ Local Government (Qualification of Municipal Officers) Amendment Regulations 199
 Local Government (Amendment and Repeal) Regulations 1996 r. 6 | 24 Jun 1996 p. 2851-4 | 1 Jul 1996 (see r. 2)
 Local Government (Qualification of Municipal Officers) Amendment Regulations 1998 | 6 Nov 1998 p. 6092-3 | 6 Nov 1998
 Local Government (Qualification of Municipal Officers) Amendment Regulations 2005 | 19 Jul 2005 p. 3353-5 | 19 Jul 2005
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Local Government (Building Surveyors) Regulations 2008 Pt. 7 | 6 Jun 2008 p. 2205-24 | 1 Jul 2008 (see r. 2(b) and Gazette 6 Jun 2008 p. 2179)
 The Local Government Act 1995 Schedule 9.2 clause 4(2) continued the effect of the former sections 157(2)(b), 159, and 160, and these regulations, so far as they relate to building surveyors and Part XV of the Local Government (Miscellaneous Provisions) Act 1960.
+On the date as at which this compilation was prepared, the Local Government (Building Surveyors) Regulations 2008 Pt. 7 had not come into operation. It reads as follows:
+“
+Part 7 — Local Government (Qualification of Municipal Officers) Regulations 1984 repealed
+28.The Local Government (Qualification of Municipal Officers) Regulations 1984 repealed
+The Local Government (Qualification of Municipal Officers) Regulations 1984 are repealed.
+”.
