@@ -19,4 +19,4 @@
 (b)the environment in which the water resource is situated.
 10.The provision of information to the Commission, including information by way of periodical returns at specified times.
 [Appendix to Schedule 1 inserted by No. 49 of 2000 s. 52; amended by No. 67 of 2003 s. 62.]
-[Schedule 2 repealed by No. 55 of 2004 s. 1060.]
+[Schedule 2 deleted by No. 55 of 2004 s. 1060.]
