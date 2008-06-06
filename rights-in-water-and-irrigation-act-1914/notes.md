@@ -1,19 +1,19 @@
 Notes
-This is a compilation of the Rights in Water and Irrigation Act 1914 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 June 2008 of the Rights in Water and Irrigation Act 1914 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Rights in Water and Irrigation Act 1914 | 19 of 1914 | 22 Sep 1914 | 22 Sep 1914
-Ministers’ Titles Act 1925 s. 2 | 8 of 1925 | 24 Sep 1925 | 24 Sep 1925
-Rights in Water and Irrigation Act Amendment Act 1939 | 16 of 1939 | 22 Nov 1939 | 22 Nov 1939
-Rights in Water and Irrigation Act Amendment Act 1941 | 32 of 1941 | 16 Dec 1941 | 16 Dec 1941
+Rights in Water and Irrigation Act 1914 | 19 of 1914 (5 Geo. V No. 19) | 22 Sep 1914 | 22 Sep 1914
+Ministers’ Titles Act 1925 s. 2 | 8 of 1925 (16 Geo. V No. 8) | 24 Sep 1925 | 24 Sep 1925
+Rights in Water and Irrigation Act Amendment Act 1939 | 16 of 1939 (3 Geo. VI No. 16) | 22 Nov 1939 | 22 Nov 1939
+Rights in Water and Irrigation Act Amendment Act 1941 | 32 of 1941 (5 and 6 Geo. VI No. 32) | 16 Dec 1941 | 16 Dec 1941
 Reprint of the Rights in Water and Irrigation Act 1914 in Volume 2 of Reprinted Acts (includes amendments listed above)
-Rights in Water and Irrigation Act Amendment Act 1945 | 3 of 1945 | 18 Oct 1945 | 18 Oct 1945
-Rights in Water and Irrigation Act Amendment Act 1949 | 9 of 1949 | 14 Sep 1949 | 14 Sep 1949
-Rights in Water and Irrigation Act Amendment Act 1951 | 18 of 1951 | 26 Nov 1951 | 26 Nov 1951
-Limitation Act 1935 s. 48A(1) | 35 of 1935 (as amended by No. 73 of 1954 s. 8) | 14 Jan 1955 | Relevant amendments (see s. 48A and Second Sch.) took effect on 1 Mar 1955 (see No. 73 of 1954 s. 2 and Gazette 18 Feb 1955 p. 343)
+Rights in Water and Irrigation Act Amendment Act 1945 | 3 of 1945 (9 Geo. VI No. 3) | 18 Oct 1945 | 18 Oct 1945
+Rights in Water and Irrigation Act Amendment Act 1949 | 9 of 1949 (13 Geo. VI No. 95) | 14 Sep 1949 | 14 Sep 1949
+Rights in Water and Irrigation Act Amendment Act 1951 | 18 of 1951 (15 Geo. VI No. 18) | 26 Nov 1951 | 26 Nov 1951
+Limitation Act 1935 s. 48A(1) | 35 of 1935 (26 Geo. V No. 35) (as amended by No. 73 of 1954 s. 8) | 14 Jan 1955 | Relevant amendments (see s. 48A and Second Sch.) took effect on 1 Mar 1955 (see No. 73 of 1954 s. 2 and Gazette 18 Feb 1955 p. 343)
 Reprint of the Rights in Water and Irrigation Act 1914 approved 6 Sep 1960 in Volume 15 of Reprinted Acts (includes amendments listed above)
-Rights in Water and Irrigation Act Amendment Act 1962 | 70 of 1962 | 30 Nov 1962 | 1 Mar 1963 (see s. 2 and Gazette 1 Mar 1963 p. 748)
-Rights in Water and Irrigation Act Amendment Act 1964 | 31 of 1964 | 4 Nov 1964 | 4 Nov 1964
+Rights in Water and Irrigation Act Amendment Act 1962 | 70 of 1962 (11 Eliz. II No. 70) | 30 Nov 1962 | 1 Mar 1963 (see s. 2 and Gazette 1 Mar 1963 p. 748)
+Rights in Water and Irrigation Act Amendment Act 1964 | 31 of 1964 (13 Eliz. II No. 31) | 4 Nov 1964 | 4 Nov 1964
 Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Rights in Water and Irrigation Act Amendment Act 1971 | 46 of 1971 | 10 Dec 1971 | 10 Dec 1971
 Metric Conversion Act 1972 | 94 of 1972 (as amended by No. 19 of 1973) | 4 Dec 1972 | Relevant amendments (see Second Sch.) took effect on 1 May 1974 (see s. 4(2) and Gazette 26 Apr 1974 p. 1393)
@@ -22,7 +22,7 @@ Rights in Water and Irrigation Act Amendment Act 1974 | 48 of 1974 (as amended b
 Acts Amendment and Repeal (Valuation of Land) Act 1978 Pt. XII | 76 of 1978 | 20 Oct 1978 | 1 Jul 1979 (see s. 2 and Gazette 11 May 1979 p. 1211)
 Rights in Water and Irrigation Act Amendment Act 1978 | 98 of 1978 (as amended by No. 119 of 1984 s. 20-22; No. 74 of 2003 s. 104) | 17 Nov 1978 | s. 1, 2, 8, 9, 14, 36 and 37: 19 Jan 1979 (see s. 2 and Gazette 19 Jan 1979 p. 114); s. 3 and 15-35 repealed by No. 74 of 2003 s. 104
 Acts Amendment (Statutory Designations) and Validation Act 1981 s. 4 | 63 of 1981 | 13 Oct 1981 | 13 Oct 1981
-Rights in Water and Irrigation Amendment Act 1984 | 119 of 1984 | 27 Dec 1984 | 15 Feb 1985 (see s. 2 and Gazette 15 Feb 1985 p. 574)
+Rights in Water and Irrigation Amendment Act 1984 | 119 of 1984 | 27 Dec 1984 | s. 1 and 2: 27 Dec 1984; Act other than s. 1 and 2: 15 Feb 1985 (see s. 2 and Gazette 15 Feb 1985 p. 574)
 Acts Amendment and Repeal (Water Authorities) Act 1985 Pt. IX | 25 of 1985 | 6 May 1985 | 1 Jul 1985 (see s. 2 and Gazette 7 Jun 1985 p. 1931)
 Acts Amendment (Water Authorities) Act 1985 Pt. VIII (s. 119-134) | 110 of 1985 | 17 Dec 1985 | s. 119-129, 131-132, 133(b), and 134: 14 Mar 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726); s. 130 and 133(a): 1 Jul 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726)
 Commercial Arbitration Act 1985 s. 3 | 109 of 1985 | 7 Jan 1986 | 1 Apr 1986 (see s. 2 and Gazette 28 Feb 1986 p. 605)
@@ -40,7 +40,7 @@ Acts Amendment (Land Administration) Act 1997 Pt. 52 | 31 of 1997 | 3 Oct 1997 |
 Water Legislation Amendment Act 1997 Pt. 4 | 32 of 1997 | 3 Oct 1997 | 15 Apr 1998 (see s. 2 and Gazette 15 Apr 1998 p. 2041)
 Statutes (Repeals and Minor Amendments) Act 1997 s. 105 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 63 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
-Rights in Water and Irrigation Amendment Act 2000 | 49 of 2000 | 28 Nov 2000 | 10 Jan 2001 (see s. 2 and Gazette 10 Jan 2001 p. 163)
+Rights in Water and Irrigation Amendment Act 2000 | 49 of 2000 | 28 Nov 2000 | s. 1 and 2: 8 Nov 2000; Act other than s. 1 and 2: 10 Jan 2001 (see s. 2 and Gazette 10 Jan 2001 p. 163)
 Reprint of the Rights in Water and Irrigation Act 1914 as at 10 Jan 2001 (includes amendments listed above except those in the Rights in Water and Irrigation Act Amendment Act 1978 s. 3 and 15-35)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 91 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
@@ -49,13 +49,14 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Water Legislation Amendment (Competition Policy) Act 2005 Pt. 6 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
 Reprint 7: The Rights in Water and Irrigation Act 1914 as at 4 Jul 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 151 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Water Resources Legislation Amendment Act 2007 Pt. 5 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
+Reprint 8: The Rights in Water and Irrigation Act 1914 as at 6 Jun 2008 (includes amendments listed above)
 The short title of the Water Authority Act 1984 was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 commenced 1 January 1996.
-Footnote no longer applicable.
-Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Minerals and Energy is read and construed as a reference to the department of the Public Service with the designation “Department of Industry and Resources”, unless the contrary intention appears in the law or the context of the reference otherwise requires.
+Repealed by the Water Resources Legislation Amendment Act 2007.
 Marginal notes in the Rights in Water and Irrigation Act 1914 referring to earlier Western Australian legislation and to legislation of other jurisdictions have been omitted from this reprint.
+The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973 s. 4.
 The Rights in Water and Irrigation Amendment Act 2000 Pt. 8 reads as follows:
@@ -63,7 +64,7 @@ The Rights in Water and Irrigation Amendment Act 2000 Pt. 8 reads as follows:
 Part 8 — Transitional provisions
 71.Definitions
 In this Part, unless the contrary intention appears —
-“principal Act” means the Rights in Water and Irrigation Act 1914.
+principal Act means the Rights in Water and Irrigation Act 1914.
 72.Interpretation Act 1984 not affected
 The provisions of this Part do not affect the application of the Interpretation Act 1984, so far as it is consistent with those provisions, to the amendments made by this Act.
 73.Appeals in progress
@@ -139,7 +140,7 @@ The State Administrative Tribunal Regulations 2004 r. 38 and 61 read as follows:
 “
 38.Rights in Water and Irrigation Act 1914
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 114 comes into operation.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 114 comes into operation.
 (2) If —
 (a) an appeal under the Rights in Water and Irrigation Act 1914 Part III Division 3B is transferred to the Tribunal under the Act section 167(4)(b);
 (b) before the commencement day a notice of appeal in relation to the appeal indicated that the appellant wished the Minister to exercise the power conferred on the Minister by the Rights in Water and Irrigation Act 1914 Schedule 2 clause 4; and
@@ -147,13 +148,70 @@ The State Administrative Tribunal Regulations 2004 r. 38 and 61 read as follows:
 the Tribunal may exercise the power referred to in the Rights in Water and Irrigation Act 1914 Schedule 2 clause 4 in force immediately before the commencement day as if a reference in that clause to the Minister were a reference to the Tribunal and a reference to an appeal were a reference to a review by the Tribunal.
 61.Rights in Water and Irrigation Act 1914
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 114 comes into operation;
-“Corporation” has the meaning given to that term in the RWI Act section 2(1);
-“the RWI Act” means the Rights in Water and Irrigation Act 1914.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 114 comes into operation;
+Corporation has the meaning given to that term in the RWI Act section 2(1);
+the RWI Act means the Rights in Water and Irrigation Act 1914.
 (2) If a local by-law made under the RWI Act section 26M(g) makes provision for an appeal against decisions relating to applications made and licences granted under the local by-law, that local by-law is to be taken to give a right on or after the commencement day to apply to the State Administrative Tribunal for a review of that decision.
 (3) If the Corporation receives, before the commencement day, a notice in accordance with the RWI Act section 39F(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the relevant entry to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the RWI Act section 39F(1).
 (4) If the Corporation receives, before the commencement day, a notice in accordance with the RWI Act section 39G(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the decision to refuse to extend time to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the RWI Act section 39G(1).
 (5) If a notice has been given under the RWI Act section 39E(7) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
 ”.
-Footnote no longer applicable.
-The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+a licence26GG(1)
+an affected personSch. 1 cl. 17(1)
+artesian well2(1)
+Authority26GZP(2)
+bed2(1)
+CEO2(1)
+committee26GK(1)
+Corporation2(1)
+Crown land2(1)
+dam17(8)
+deceased holderSch. 1 cl. 29A(1)(a) and (2)
+degradation2(1)
+Department2(1)
+dewatering26O(3)
+diminished5B(2)
+district2(1)
+former Authority2(1)
+former Minister2(1)
+Government agreement26K(4)
+instrument26GZH
+intensive conditions21(4)
+irrigation charge2(1)
+licenceSch. 1 cl. 1
+licenseeSch. 1 cl. 18(4)
+local by-laws2(1), 26L(1)
+meterSch. 1 cl. 46(5)
+non-artesian well2(1)
+officer2(1)
+operating licence26GZJ(3)
+order39A(7)
+prescribed2(1)
+proclaimed area26C(1)
+public interestSch. 1 cl. 1
+RegistrarSch. 1 cl. 42(3)
+relevant water resources management committee26GJ(2)
+riparian land20(1)
+security interest26GZH
+spring2(1)
+statutory undertaker26K(4)
+take2(1)
+the benefiting licenseeSch. 1 cl. 17(2)
+the commencement day17A(1)
+the regulations2(1)
+the relevant day9(2)(a)
+the third partySch. 1 cl. 19(a)(i) and 30(1)
+underground water2(1)
+underground water source2(1)
+use and development4(2)
+water charge2(1)
+water entitlement26Q(3), Sch. 1 cl. 17(4), 28 and 37
+water resource26GB, Sch. 1 cl. 12(4)
+water resources2(1)
+Water Resources Council2(1)
+watercourse2(1), 3(1), 4A
+well2(1)
+wetland2(1)
