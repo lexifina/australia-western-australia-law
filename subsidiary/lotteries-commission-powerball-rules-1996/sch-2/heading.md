@@ -1,92 +1,40 @@
-## Schedule 2
-[Schedule 1]
-Agent’s fees (up to but not including draw 586)
-The component of the total cost of entering a powerball draw drawn before 9 August 2007 that is allocated as a fee for the agent through whom the entry was sold per number and type of game per week is as follows —
-Entry or System | No. of games | 1 Week $ | 2 Weeks $ | 5 Weeks $ | 10 Weeks $
- | 2 | 0.10 | 0.20 | 0.50 | 1.00
- | 3 | 0.15 | 0.30 | 0.75 | 1.50
- | 4 | 0.20 | 0.40 | 1.00 | 2.00
- | 5 | 0.25 | 0.50 | 1.25 | 2.50
- | 6 | 0.30 | 0.60 | 1.50 | 3.00
- | 12 | 0.60 | 1.20 | 3.00 | 6.00
- | 14 | 0.70 | 1.40 | 3.50 | 7.00
- | 18 | 0.90 | 1.80 | 4.50 | 9.00
- | 25 | 1.25 | 2.50 | 6.25 | 12.50
-System 6 | 6 | 0.30 | 0.60 | 1.50 | 3.00
-System 7 | 21 | 1.05 | 2.10 | 5.25 | 10.50
-System 8 | 56 | 2.80 | 5.60 | 14.00 | 28.00
-System 9 | 126 | 5.70 | 11.40 | 28.50 | 57.00
-System 10 | 252 | 11.40 | 22.80 | 57.00 | 114.00
-System 11 | 462 | 22.90 | 45.80 | 114.50 | 229.00
-System 12 | 792 | 39.40 | 78.80 | 197.00 | 394.00
-System 13 | 1 287 | 62.15 | 124.30 | 310.75 | 621.50
-System 14 | 2 002 | 98.90 | 197.80 | 494.50 | 989.00
-System 15 | 3 003 | 148.35 | 296.70 | 741.75 | 1 483.50
-System 16 | 4 368 | 217.60 | 435.20 | 1 088.00 | 2 176.00
-System 17 | 6 188 | 306.60 | 613.20 | 1 533.00 | 3 066.00
-System 18 | 8 568 | 422.60 | 845.20 | 2 113.00 | 4 226.00
-System 19 | 11 628 | 574.60 | 1 149.20 | 2 873.00 | 5 746.00
-System 20 | 15 504 | 767.80 | 1 535.60 | 3 839.00 | 7 678.00
-System 3 | 861 | 42.45 | 84.90 | 212.25 | 424.50
-System 4 | 41 | 2.05 | 4.10 | 10.25 | 20.50
- | Powerpik
-Powerpik 3 | 38 745 | 1 910.25 | 3 820.50 | N/A | N/A
-Powerpik 4 | 1 845 | 92.25 | 184.50 | 461.25 | 922.50
-Powerpik 5 | 45 | 2.25 | 4.50 | 11.25 | 22.50
-Powerpik 6 | 270 | 13.50 | 27.00 | 67.50 | 135.00
-Powerpik 7 | 945 | 47.25 | 94.50 | 236.25 | 472.50
-Powerpik 8 | 2 520 | 126.00 | 252.00 | 630.00 | 1 260.00
-Powerpik 9 | 5 670 | 256.50 | 513.00 | 1 282.50 | 2 565.00
-Powerpik 10 | 11 340 | 513.00 | 1 026.00 | 2 565.00 | 5 130.00
-Powerpik 11 | 20 790 | 1 030.50 | 2 061.00 | 5 152.50 | N/A
-Powerpik 12 | 35 640 | 1 773.00 | 3 546.00 | N/A | N/A
-Powerpik 13 | 57 915 | 2 796.75 | 5 593.50 | N/A | N/A
-Powerpik 14 | 90 090 | 4 450.50 | N/A | N/A | N/A
-Powerpik 15 | 135 135 | 6 675.75 | N/A | N/A | N/A
-Agent’s fees (from draw 586 onwards)
-The component of the total cost of entering a powerball draw on or after 9 August 2007 that is allocated as a fee for the agent through whom the entry was sold per number and type of game per week is as follows —
-Entry or System | No. of games | 1 Week $ | 2 Weeks $ | 5 Weeks $ | 10 Weeks $
- | 2 | 0.10 | 0.20 | 0.50 | 1.00
- | 3 | 0.15 | 0.30 | 0.75 | 1.50
- | 4 | 0.20 | 0.40 | 1.00 | 2.00
- | 5 | 0.25 | 0.50 | 1.25 | 2.50
- | 6 | 0.30 | 0.60 | 1.50 | 3.00
- | 12 | 0.65 | 1.30 | 3.25 | 6.50
- | 14 | 0.75 | 1.50 | 3.75 | 7.50
- | 18 | 0.95 | 1.90 | 4.75 | 9.50
- | 25 | 1.35 | 2.70 | 6.75 | 13.50
-System 6 | 6 | 0.30 | 0.60 | 1.50 | 3.00
-System 7 | 21 | 1.15 | 2.30 | 5.75 | 11.50
-System 8 | 56 | 3.00 | 6.00 | 15.00 | 30.00
-System 9 | 126 | 6.80 | 13.60 | 34.00 | 68.00
-System 10 | 252 | 13.60 | 27.20 | 68.00 | 136.00
-System 11 | 462 | 24.95 | 49.90 | 124.75 | 249.50
-System 12 | 792 | 42.75 | 85.50 | 213.75 | 427.50
-System 13 | 1 287 | 69.50 | 139.00 | 347.50 | 695.00
-System 14 | 2 002 | 108.10 | 216.20 | 540.50 | 1 081.00
-System 15 | 3 003 | 162.15 | 324.30 | 810.75 | 1 621.50
-System 16 | 4 368 | 235.85 | 471.70 | 1 179.25 | 2 358.50
-System 17 | 6 188 | 334.15 | 668.30 | 1 670.75 | 3 341.50
-System 18 | 8 568 | 462.65 | 925.30 | 2 313.25 | 4 626.50
-System 19 | 11 628 | 627.90 | 1 255.80 | 3 139.50 | 6 279.00
-System 20 | 15 504 | 837.20 | 1 674.40 | 4 186.00 | N/A
-System 3 | 861 | 46.50 | 93.00 | 232.50 | 465.00
-System 4 | 41 | 2.20 | 4.40 | 11.00 | 22.00
- | Powerpik
-Powerpik 3 | 38 745 | 2 092.50 | 4 185.00 | N/A | N/A
-Powerpik 4 | 1 845 | 99.00 | 198.00 | 495.00 | 990.00
-Powerpik 5 | 45 | 2.45 | 4.90 | 12.25 | 24.50
-Powerpik 6 | 270 | 13.50 | 27.00 | 67.50 | 135.00
-Powerpik 7 | 945 | 51.75 | 103.50 | 258.75 | 517.50
-Powerpik 8 | 2 520 | 135.00 | 270.00 | 675.00 | 1 350.00
-Powerpik 9 | 5 670 | 306.00 | 612.00 | 1 530.00 | 3 060.00
-Powerpik 10 | 11 340 | 612.00 | 1 224.00 | 3 060.00 | 6 120.00
-Powerpik 11 | 20 790 | 1 122.75 | 2 245.50 | 5 613.75 | N/A
-Powerpik 12 | 35 640 | 1 923.75 | 3 847.50 | N/A | N/A
-Powerpik 13 | 57 915 | 3 127.50 | 6 255.00 | N/A | N/A
-Powerpik 14 | 90 090 | 4 864.50 | N/A | N/A | N/A
-Powerpik 15 | 135 135 | 7 296.75 | N/A | N/A | N/A
-[Schedule 2 amended in Gazette 29 Apr 1997 p. 2150; 9 Mar 2001 p. 1335; 16 Nov 2004 p. 5061-2; 13 Oct 2006 p. 4413; 26 Jun 2007 p. 3051-2.]
+## Schedule 2 — System entries, Powerpik selections and game equivalents
+[Heading inserted in Gazette 6 Jun 2008 p. 2250.]
+Powerball
+System | No. of games per game board
+3 | 861
+4 | 41
+6 | 6
+7 | 21
+8 | 56
+9 | 126
+10 | 252
+11 | 462
+12 | 792
+13 | 1 287
+14 | 2 002
+15 | 3 003
+16 | 4 368
+17 | 6 188
+18 | 8 568
+19 | 11 628
+20 | 15 504
+Powerball
+Powerpik | No. of games per game board
+3 | 38 745
+4 | 1 845
+5 | 45
+6 | 270
+7 | 945
+8 | 2 520
+9 | 5 670
+10 | 11 340
+11 | 20 790
+12 | 35 640
+13 | 57 915
+14 | 90 090
+15 | 135 135
+[Schedule 2 inserted in Gazette 6 Jun 2008 p. 2250-1.]
 Schedule 3 [Rule 21(2)] Systems entry prize schedule Powerball [Heading amended in Gazette 16 Nov 2004 p. 5062.] | NUMBER OF PRIZES SYSTEMS | 20 | 1 – 75 1050 – 4550 - | - 1 - - 75 - 1050 | - - 16 480 - 3360 -
 19 | 1 – 70 910 – 3640 - | - 1 - - 70 - 910 | - - 15 420 - 2730 -
 18 | 1 - 65 780 - 2860 - | - 1 - - 65 - 780 | - - 14 364 - 2184 -

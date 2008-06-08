@@ -16,4 +16,5 @@ Lotteries Commission (Powerball) Amendment Rules (No. 2) 2006 | 13 Oct 2006 p. 4
 Reprint 2: The Lotteries Commission (Powerball) Rules 1996 as at 18 May 2007 (includes amendments listed above)
 Lotteries Commission (Powerball) Amendment Rules 2007 | 26 Jun 2007 p. 3049-53 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Rules other than r. 1 and 2: 27 Jun 2007 (see r. 2(b))
 Lotteries Commission (Powerball) Amendment Rules (No. 2) 2007 | 3 Aug 2007 p. 4007 | r. 1 and 2: 3 Aug 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Aug 2007 (see r. 2(b))
+Lotteries Commission (Powerball) Amendment Rules 2008 | 6 Jun 2008 p. 2227-52 | r. 1 and 2: 6 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jun 2008 (see r. 2(b))
 Now known as the Lotteries Commission (Powerball) Rules 1996; citation changed (see note under r. 1).
