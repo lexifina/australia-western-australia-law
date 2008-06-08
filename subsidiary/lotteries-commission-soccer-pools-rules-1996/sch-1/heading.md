@@ -1,38 +1,34 @@
-## Schedule 1 — Total cost of entry
-[Rule 10(1)]
-Soccer Pools
-The cost of entering Soccer Pools is made up of a base cost of 50 cents per game and an agent’s fee (as set out in Schedule 2) making a total entry cost per number and type of game per week as follows:
-Table
-System | No. Games | 1 Week | 2 Weeks | 5 Weeks | 10 Weeks
- |  | $ | $ | $ | $
- | 2 | 1.10 | 2.20 | 5.50 | 11.00
- | 3 | 1.70 | 3.40 | 8.50 | 17.00
- | 4 | 2.20 | 4.40 | 11.00 | 22.00
- | 5 | 2.70 | 5.40 | 13.50 | 27.00
- | 6 | 3.20 | 6.40 | 16.00 | 32.00
- | 7 | 3.75 | 7.50 | 18.75 | 37.50
- | 8 | 4.25 | 8.50 | 21.25 | 42.50
- | 9 | 4.80 | 9.60 | 24.00 | 48.00
- | 10 | 5.30 | 10.60 | 26.50 | 53.00
- | 11 | 5.85 | 11.70 | 29.25 | 58.50
- | 12 | 6.35 | 12.70 | 31.75 | 63.50
- | 14 | 7.45 | 14.90 | 37.25 | 74.50
- | 18 | 9.60 | 19.20 | 48.00 | 96.00
- | 25 | 13.25 | 26.50 | 66.25 | 132.50
-7 | 7 | 3.75 | 7.50 | 18.75 | 37.50
-8 | 28 | 15.00 | 30.00 | 75.00 | 150.00
-9 | 84 | 45.00 | 90.00 | 225.00 | 450.00
-10 | 210 | 112.00 | 224.00 | 560.00 | 1 120.00
-11 | 462 | 247.00 | 494.00 | 1 235.00 | 2 470.00
-12 | 924 | 494.00 | 988.00 | 2 470.00 | 4 940.00
-13 | 1 716 | 918.00 | 1 836.00 | 4 590.00 | 9 180.00
-14 | 3 003 | 1 606.00 | 3 212.00 | 8 030.00 | 16 060.00
-15 | 5 005 | 2 677.00 | 5 354.00 | 13 385.00 | 26 770.00
-16 | 8 008 | 4 284.00 | 8 568.00 | 21 420.00 | 42 840.00
-17 | 12 376 | 6 621.00 | 13 242.00 | 33 105.00 | 66 210.00
-18 | 18 564 | 9 931.00 | 19 862.00 | 49 655.00 | 99 310.00
-19 | 27 132 | 14 515.00 | 29 030.00 | 72 575.00 | NA
-20 | 38 760 | 20 736.00 | 41 472.00 | NA | NA
-4 | 561 | 300.00 | 600.00 | 1 500.00 | 3 000.00
-5 | 33 | 17.65 | 35.30 | 88.25 | 176.50
-[Schedule 1 amended in Gazette 29 Apr 1997 p. 2148; 9 Mar 2001 p. 1346.]
+## Schedule 1 — Calculating the total cost of entry — Soccer Pools
+[r. 10]
+[Heading inserted in Gazette 6 Jun 2008 p. 2342.]
+The unit cost of entering a Pools Game is made up of a subscription of 50 cents per game and an agent’s component.
+The agent’s component is calculated as 9% of the total subscription amount for a particular week’s entry, rounded* (where necessary) to the nearest 5 cent multiple.
+((G x $0.50) x .09 —> rounded) x W = T
+where —
+G = No. of games entered in a draw
+W = No. of weeks the entry spans
+T = Total agent’s component cost payable by the participant
+Examples:
+The total cost of entry for a Slikpik 25 entry for a single Pools Game is calculated as follows —
+Subscription [25 games @ $0.50 each] =$12.50
+9% of subscription [.09 x $12.50]=$1.125
+Rounded using “bankers rounding”=$1.10
+Total cost of entry=$13.60
+The total cost of entry for a System 8 entry for a single Pools Game is calculated as follows —
+Subscription [28 games @ $0.50 each] =$14.00
+9% of subscription [.09 x $14.00]=$1.26
+Rounded using “bankers rounding”=$1.25
+Total cost of entry=$15.25
+The total cost of entry for a 6 game board System 9 entry for a single Pools Game is calculated as follows —
+Subscription [6 x 84 games @ $0.50 each] =$252.00
+9% of subscription [.09 x $252.00]=$22.68
+Rounded using “bankers rounding”=$22.70
+Total cost of entry=$274.70
+The total cost of entry for a Slikpik 25 entry spanning 10 weeks of Soccer Pools is calculated as follows —
+Subscription for one week [25 games @ $0.50 each] =$12.50
+9% of subscription [.09 x $12.50]=$1.125
+Rounded using “bankers rounding”=$1.10
+Total cost of entry for one week=$13.60
+Total cost of entry for 10 weeks=$136.00
+* Rounding is calculated using the method known as “bankers rounding” or “round-to-even” rounding.
+[Schedule 1 inserted in Gazette 6 Jun 2008 p. 2342-3.]

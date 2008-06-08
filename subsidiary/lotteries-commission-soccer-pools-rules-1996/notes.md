@@ -12,3 +12,4 @@ Lotteries Commission (Soccer Pools) Amendment Rules 2003 | 8 Aug 2003 p. 3578-9 
 Lotteries Commission (Soccer Pools) Amendment Rules 2005 | 5 Aug 2005 p. 3599-601 | 28 Aug 2005 (see r. 2)
 Lotteries Commission (Soccer Pools) Amendment Rules 2006 | 29 Sep 2006 p. 4274-5 | 29 Sep 2006
 Lotteries Commission (Soccer Pools) Amendment Rules 2007 | 26 Jun 2007 p. 3057-8 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Rules other than r. 1 and 2: 27 Jun 2007 (see r. 2(b))
+Lotteries Commission (Soccer Pools) Amendment Rules 2008 | 6 Jun 2008 p. 2323-46 | r. 1 and 2: 6 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jun 2008 (see r. 2(b))
