@@ -1,35 +1,34 @@
-## Schedule 1
-Cost of entry — Monday or Wednesday Lotto
-Total cost of entry — Monday or Wednesday lotto draw
+## Schedule 1 — Calculating the total cost of entry — Monday lotto or Wednesday lotto draw
 [r. 5(1)]
-The cost of entering a Monday or a Wednesday lotto draw is made up of a subscription of 30 cents per game and an agent’s component (as set out in Schedule 2) making the total cost per number and type of game per week as follows —
-System | No. of | 1 Week | 2 Weeks | 5 Weeks | 10 Weeks
- | games | $ | $ | $ | $
- | 4 | 1.30 | 2.60 | 6.50 | 13.00
- | 5 | 1.65 | 3.30 | 8.25 | 16.50
- | 6 | 1.95 | 3.90 | 9.75 | 19.50
- | 7 | 2.30 | 4.60 | 11.50 | 23.00
- | 8 | 2.60 | 5.20 | 13.00 | 26.00
- | 9 | 2.95 | 5.90 | 14.75 | 29.50
- | 10 | 3.25 | 6.50 | 16.25 | 32.50
- | 11 | 3.60 | 7.20 | 18.00 | 36.00
- | 12 | 3.90 | 7.80 | 19.50 | 39.00
- | 14 | 4.60 | 9.20 | 23.00 | 46.00
- | 18 | 5.90 | 11.80 | 29.50 | 59.00
- | 25 | 8.20 | 16.40 | 41.00 | 82.00
-System 7 | 7 | 2.30 | 4.60 | 11.50 | 23.00
-System 8 | 28 | 9.20 | 18.40 | 46.00 | 92.00
-System 9 | 84 | 27.50 | 55.00 | 137.50 | 275.00
-System 10 | 210 | 69.00 | 138.00 | 345.00 | 690.00
-System 11 | 462 | 151.00 | 302.00 | 755.00 | 1 510.00
-System 12 | 924 | 302.00 | 604.00 | 1 510.00 | 3 020.00
-System 13 | 1 716 | 561.00 | 1 122.00 | 2 805.00 | 5 610.00
-System 14 | 3 003 | 982.00 | 1 964.00 | 4 910.00 | 9 820.00
-System 15 | 5 005 | 1 636.00 | 3 272.00 | 8 180.00 | 16 360.00
-System 16 | 8 008 | 2 618.00 | 5 236.00 | 13 090.00 | 26 180.00
-System 17 | 12 376 | 4 047.00 | 8 094.00 | 20 235.00 | 40 470.00
-System 18 | 18 564 | 6 070.00 | 12 140.00 | 30 350.00 | 60 700.00
-System 19 | 27 132 | 8 872.00 | 17 744.00 | 44 360.00 | 88 720.00
-System 20 | 38 760 | 12 674.00 | 25 348.00 | 63 370.00 | N/A
-System 4 | 820 | 268.00 | 536.00 | 1 340.00 | 2 680.00
-System 5 | 40 | 13.10 | 26.20 | 65.50 | 131.00
+[Heading inserted in Gazette 6 Jun 2008 p. 2317.]
+The unit cost of entering a Monday lotto or a Wednesday lotto draw is made up of a subscription of 30 cents per game and an agent’s component.
+The agent’s component is calculated as 9% of the total subscription amount for a particular week’s entry, rounded* (where necessary) to the nearest 5 cent multiple.
+((G x $0.30) x .09 —> rounded) x W = T
+where —
+G = No. of games entered in a draw
+W = No. of weeks the entry spans
+T = Total agent’s component cost payable by the subscriber
+Examples:
+The total cost of entry for a Slikpik 25 entry for a single Monday lotto or Wednesday lotto draw is calculated as follows —
+Subscription [25 games @ $0.30 each]=$7.50
+9% of subscription [.09 x $7.50]=$0.675
+Rounded using “bankers rounding”=$0.70
+Total cost of entry=$8.20
+The total cost of entry for a System 8 entry for a single Monday lotto or Wednesday lotto draw is calculated as follows —
+Subscription [28 games @ $0.30 each]=$8.40
+9% of subscription [.09 x $8.40]=$0.756
+Rounded using “bankers rounding”=$0.75
+Total cost of entry=$9.15
+The total cost of entry for a 6 game board System 9 entry for a single Monday lotto or Wednesday lotto draw is calculated as follows —
+Subscription [6 x 84 games @ $0.30 each]=$151.20
+9% of subscription [.09 x $151.20]=$13.608
+Rounded using “bankers rounding”=$13.60
+Total cost of entry=$164.80
+The total cost of entry for a Slikpik 25 entry spanning 10 weeks of Monday lotto or Wednesday lotto is calculated as follows —
+Subscription for one week [25 games @ $0.30 each] =$7.50
+9% of subscription [.09 x $7.50]=$0.675
+Rounded using “bankers rounding”=$0.70
+Total cost of entry for one week=$8.20
+Total cost of entry for 10 weeks=$82.00
+* Rounding is calculated using the method known as “bankers rounding” or “round-to-even” rounding.
+[Schedule 1 inserted in Gazette 6 Jun 2008 p. 2317-19.]
