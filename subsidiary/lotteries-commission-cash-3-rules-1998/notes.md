@@ -9,3 +9,4 @@ Lotteries Commission (Cash 3) Amendment Rules 2003 | 8 Aug 2003 p. 3581-2 | 10 A
 Reprint 1: The Lotteries Commission (Cash 3) Rules 1998 as at 12 Dec 2003 (includes amendments listed above)
 Lotteries Commission (Cash 3) Amendment Rules 2005 | 5 Aug 2005 p. 3598-9 | 5 Aug 2005
 Lotteries Commission (Cash 3) Amendment Rules (No. 2) 2005 | 6 Sep 2005 p. 4128-9 | 12 October 2005 (see r. 2)
+Lotteries Commission (Cash 3) Amendment Rules 2008 | 6 Jun 2008 p. 2355-65 | r. 1 and 2: 6 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jun 2008 (see r. 2(b))

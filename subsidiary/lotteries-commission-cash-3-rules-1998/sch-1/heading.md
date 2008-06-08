@@ -11,5 +11,5 @@ Both an Exact order and an Any order – 6 way (Playing 3 different digits) Odds
 Wager Amounts (per day entered)
 50 cent wagers or $1.00 wagers can be made on an “Exact order” play type.
 50 cent wagers or $1.00 wagers can be made on an “Any order” play type.
-If a combination of an “Exact order” play type and an “Any order” play type is selected, then each play type may have either a 50 cent wager on it, or a $1.00 wager on it (a combination of the play types must therefor be accompanied by either a $1.00 or a $2.00 total wager per day entered).
-[Schedule 1 inserted in Gazette 20 Aug 1999 p. 3890-1.]
+If a combination of an “Exact order” play type and an “Any order” play type is selected, then each play type may have either a 50 cent wager on it, or a $1.00 wager on it (a combination of the play types must therefore be accompanied by either a $1.00 or a $2.00 total wager per day entered).
+[Schedule 1 inserted in Gazette 20 Aug 1999 p. 3890-1; amended in Gazette 6 Jun 2008 p. 2365.]
