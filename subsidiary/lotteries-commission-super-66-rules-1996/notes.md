@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 February 2007 of the Lotteries Commission (Super 66) Rules 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Lotteries Commission (Super 66) Rules 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Lotteries Commission (Super 66) Rules 1996 | 15 Nov 1996 p. 6509-28 | 18 Nov 1996 (see r. 2)
@@ -12,3 +12,4 @@ Lotteries Commission (Super 66) Amendment Rules 2006 | 21 Apr 2006 p. 1605-10 | 
 Lotteries Commission (Super 66) Amendment Rules (No. 2) 2006 | 29 Sep 2006 p. 4269-70 | 29 Sep 2006
 Lotteries Commission (Super 66) Amendment Rules (No. 3) 2006 | 3 Nov 2006 p. 4661 | 21 Jan 2007 (see r. 2)
 Reprint 2: The Lotteries Commission (Super 66) Rules 1996 as at 9 Feb 2007 (includes amendments listed above)
+Lotteries Commission (Super 66) Amendment Rules 2008 | 6 Jun 2008 p. 2347-54 | r. 1 and 2: 6 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jun 2008 (see r. 2(b))
