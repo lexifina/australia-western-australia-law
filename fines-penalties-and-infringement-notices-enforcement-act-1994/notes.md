@@ -26,7 +26,7 @@ Fines Legislation Amendment Act 2008 Pt. 2 | 3 of 2008 | 12 Mar 2008 | 28 Mar 20
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Amendment Act 2006 Pt. 4 Div. 1 | 54 of 2006 | 26 Oct 2006 | To be proclaimed (see s. 2)
+Road Traffic Amendment Act 2006 Pt. 4 Div. 1 | 54 of 2006 | 26 Oct 2006 | 30 Jun 2008 (see s. 2 and Gazette 10 Jun 2008 p. 2471)
 The Justices Act 1902 Part VIBA and other provisions referred to in this Schedule were repealed by the Acts Amendment (Fines, Penalties and Infringement Notices) Act 1994 Part 9.
 The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 23.
 The Criminal Procedure (Summary) Act 1902 was then repealed by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 4.
