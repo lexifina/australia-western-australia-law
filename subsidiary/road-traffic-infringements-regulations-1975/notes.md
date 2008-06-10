@@ -74,4 +74,48 @@ Road Traffic (Infringements) Amendment Regulations (No. 3) 2006 | 1 Aug 2006 p. 
 Reprint 5: The Road Traffic (Infringements) Regulations 1975 as at 18 Aug 2006 (includes amendments listed above)
 Road Traffic (Infringements) Amendment Regulations (No. 2) 2006 | 28 Nov 2006 p. 4911-12 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
 Road Traffic Legislation Amendment Regulations 2008 Pt. 5 | 14 Mar 2008 p. 832-4 | 15 Mar 2008 (see r. 2(b) and Gazette 14 Mar 2008 p. 829)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic Consequential Amendment Regulations 2008 Pt. 4 | 10 Jun 2008 p. 2449-67 | 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 This amendment was superseded in Gazette 29 Jun 1979 p. 1777-8.
+On the date as at which this compilation was prepared, the Road Traffic Consequential Amendment Regulations 2008 Pt. 4 had not come into operation. It reads as follows:
+“
+Part 4 — Amendments to Road Traffic (Infringements) Regulations 1975
+23.The regulations amended
+The amendments in this Part are to the Road Traffic (Infringements) Regulations 1975.
+24.Regulation 2 inserted
+After regulation 1 the following regulation is inserted —
+“
+2.Terms used in these regulations
+In these regulations —
+“novice driver (type 1A)” has the meaning given in the Road Traffic (Authorisation to Drive) Regulations 2008 regulation 4(3).
+”.
+25.Regulation 3 amended
+(1) Regulation 3(3) is amended as follows:
+(a) by deleting paragraph (c);
+(b) in paragraph (e), by deleting “paragraphs (c) or (d),” and inserting instead —
+“ paragraph (d), ”.
+(2) Regulation 3(4) is amended as follows:
+(a) by deleting “and” after paragraph (c);
+(b) by deleting the full stop at the end of paragraph (d) and inserting instead —
+“
+; or
+(e) the Road Traffic (Authorisation to Drive) Regulations 2008.
+”;
+(c) by inserting after each of paragraphs (a) to (c) —
+“ or ”.
+26.Schedule 1 amended
+Schedule 1 is amended as follows:
+(a) by deleting item 4;
+(b) by deleting item 5 and inserting instead —
+“
+5.Section 49(1)Driving while not authorised, other than if s. 49(3) of the Act or item 5A applies ... | 2
+5A.Section 49(1)Driving while not authorised if the driving is by a novice driver (type 1A) and between midnight and the following 5 a.m., other than if s. 49(3) of the Act applies ....................................................... | 4
+”;
+(c) by deleting item 6 and inserting instead —
+“
+6.Section 50A(1)Failure to carry or produce documents to do with authorisation other than Australian driver licence .......................... | 1
+”;
+(d) by deleting the heading “Road Traffic (Drivers’ Licences) Regulations 1975” immediately before item 107 and deleting item 107.
+”.
