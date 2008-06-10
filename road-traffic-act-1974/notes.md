@@ -133,7 +133,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Amendment Act (No. 2) 1987 s. 11(b) | 121 of 1987 (as amended by No. 84 of 2004 s. 80 (cl. 123)) | 24 Dec 1987 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act 1996 s. 8(3) | 76 of 1996 (as amended by No. 54 of 2006 s. 43) | 14 Nov 1996 | To be proclaimed (see s. 2)
-Road Traffic Amendment Act 2006 Pt. 2 (other than s. 19 and 27), 3 and 4 Div. 3 and 4 | 54 of 2006 | 26 Oct 2006 | To be proclaimed (see s. 2)
+Road Traffic Amendment Act 2006 Pt. 2 (other than s. 19 and 27), 3 and 4 Div. 3 and 4 | 54 of 2006 | 26 Oct 2006 | 30 Jun 2008 (see s. 2 and Gazette 10 Jun 2008 p. 2471)
 Road Traffic Amendment Act (No. 2) 2007 Pt.2 (s. 17, 18 and 25 and Div. 4 and 5) | 39 of 2007 | 21 Dec 2007 | Pt. 2 s. 17, 18 & 25 and Pt. 2 Div. 4 & 5 (other than s. 38): to be proclaimed (see s. 2(d)-(h)); Pt. 2 s. 38: operative when the rest of Pt. 2 Div. 5 comes into operation (see s. 2(i))
 Acts Amendment (Justice) Act 2008 s. 131 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
