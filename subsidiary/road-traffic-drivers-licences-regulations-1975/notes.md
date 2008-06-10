@@ -115,6 +115,10 @@ Road Traffic (Drivers’ Licences) Amendment Regulations (No. 2) 2007 | 9 Nov 20
 Road Traffic Amendment (Holiday Periods) Regulations 2008 r. 3 | 8 Feb 2008 p. 321-2 | 9 Feb 2008 (see r. 2(b))
 Road Traffic Legislation Amendment Regulations 2008 Pt. 4 | 14 Mar 2008 p. 832-4 | 15 Mar 2008 (see r. 2(b) and Gazette 14 Mar 2008 p. 829)
 Road Traffic (Drivers’ Licences) Amendment (Revealing Impairments) Regulations 2008 | 17 Mar 2008 p. 859-61 | 17 Mar 2008 (see r. 2)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic (Authorisation to Drive) Regulations 2008 r. 66 | 10 Jun 2008 p. 2367-429 | 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 Repealed by the Children and Community Services Act 2004 s. 250(2)(c). See the Children and Community Services (Outside School Hours Care) Regulations 2006.
 Repealed by the Road Traffic Act 1974 s. 4.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
@@ -188,4 +192,9 @@ Regulation 4E(1)(a) of the Road Traffic (Drivers’ Licences) Regulations 1975 d
 The Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2004 s. 16(3) reads as follows:
 “
 (3) Nothing in this Act prevents any of the Road Traffic (Drivers’ Licences) Regulations 1975 from being amended in accordance with the Road Traffic Act 1974.
+”.
+The Road Traffic Amendment (Authorisation to Drive) Regulations 2008 r. 66 reads as follows:
+“
+66.Repeal
+The Road Traffic (Drivers’ Licences) Regulations 1975 are repealed.
 ”.
