@@ -11,7 +11,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Magistrates Court (General) Amendment Rules 2008 r. 3-6 | 8 Apr 2008 p. 1335-9 | On commencement of the Acts Amendment (Justice) Act 2008 s. 71 (see r. 2(b))
-Magistrates Court (General) Amendment (Road Traffic) Rules 2008 r. 3-8 | 23 May 2008 p. 1991-2 | Operative on commencement of the Road Traffic Amendment Act 2006 s. 6 (see r. 2(b))
+Magistrates Court (General) Amendment (Road Traffic) Rules 2008 r. 3-8 | 23 May 2008 p. 1991-2 | 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 On the date as at which this compilation was prepared, the Magistrates Court (General) Amendment Rules 2008 r. 3-6 had not come into operation. They read as follows:
 “
 3.The rules amended
