@@ -49,6 +49,10 @@ Motor Vehicle Drivers Instructors Amendment Regulations 2006 | 18 Aug 2006 p. 33
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2006 | 28 Nov 2006 p. 4894 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
 Motor Vehicle Drivers Instructors Amendment Regulations 2007 | 22 Jun 2007 p. 2875-6 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2007 (see r. 2(b))
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2007 | 22 Jun 2007 p. 2876-7 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Motor Vehicle Drivers Instructors Amendment (Road Traffic) Regulations 2008 r. 3-5 | 13 Jun 2008 p. 2524-5 | 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 Under the Alteration of Statutory Designations Order 2003 the name of the former Education Department of Western Australia was changed to the Department of Education and Training.
 Now superseded by the Public Transport Authority of Western Australia.
 Now superseded by the Fire and Emergency Services Authority of Western Australia.
@@ -98,4 +102,19 @@ Any motor vehicle other than a motor cycle | HC
 Any motor cycle | R
 All classes of motor vehicles | R and MC
 [Schedule 2 inserted in Gazette 13 Jul 2001 p. 3472.]
+”.
+On the date as at which this compilation was prepared, the Motor Vehicle Drivers Instructors Amendment (Road Traffic) Regulations 2008 r. 3-5 had not come into operation. They read as follows:
+“
+3.The regulations amended
+The amendments in these regulations are to the Motor Vehicle Drivers Instructors Regulations 1964.
+4.Regulation 2 amended
+Regulation 2 is amended in the definition of “motor carrier” by deleting “the Road Traffic (Drivers’ Licences) Regulations 1975 regulation 2(1);” and inserting instead —
+“
+the Road Traffic (Authorisation to Drive) Regulations 2008 regulation 3;
+”.
+5.Regulation 12 amended
+Regulation 12(3) amended by deleting “Schedule 7 of the Road Traffic (Drivers’ Licences) Regulations 1975.” and inserting instead —
+“
+the Road Traffic (Authorisation to Drive) Regulations 2008 Schedule 4.
+”.
 ”.
