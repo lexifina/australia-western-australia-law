@@ -9,6 +9,7 @@ Reprint of the Minerals and Energy Research Act 1987 as at 4 May 2001 (includes 
 Corporations (Consequential Amendments) Act 2001 s. 221 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Energy Legislation Amendment Act 2003 Pt. 6 Div. 1 | 53 of 2003 | 8 Oct 2003 | 19 Mar 2004 (see s. 2(2)(c) and Gazette 19 Mar 2004 p. 913)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Minerals and Energy Research Amendment Act 2008 | 23 of 2008 | 13 Jun 2008 | 13 Jun 2008 (see s. 2)
 2-3Footnote no longer applicable.
 Under the Public Sector Management Act 1994 s. 112(2) a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management.
 Changed from “Permanent Head” under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) and the Reprints Act 1984 s. 7(5)(a).
