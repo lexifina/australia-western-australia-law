@@ -31,13 +31,12 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 4: The Liquor Licensing Act 1988 as at 9 Jun 2006 (includes amendments listed above)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 10 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
-Liquor and Gaming Legislation Amendment Act 2006 Pt. 2 (other than s. 27) | 73 of 2006 | 13 Dec 2006 | s. 6(1)(b) and (u), 67, 68 and 107: 17 Dec 2006 (see s. 2(2) and Gazette 15 Dec 2006 p. 5661); s. 3-5, 6(1)(a), (c)-(t), (v)-(z), (2)-(4), 7-26, 28-66, 69-77, 79-82, 84-106 and 108-111: 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893) s. 78 and 83: 1 Aug 2007 (see s. 2(2) and Gazette 20 Jul 2007 p. 3629)
+Liquor and Gaming Legislation Amendment Act 2006 Pt. 2 | 73 of 2006 | 13 Dec 2006 | s. 6(1)(b) and (u), 67, 68 and 107: 17 Dec 2006 (see s. 2(2) and Gazette 15 Dec 2006 p. 5661); s. 3-5, 6(1)(a), (c)-(t), (v)-(z), (2)-(4), 7-26, 28-66, 69-77, 79-82, 84-106 and 108-111: 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893) s. 78 and 83: 1 Aug 2007 (see s. 2(2) and Gazette 20 Jul 2007 p. 3629); s. 27: 14 Jun 2008 (see s. 2(2) and Gazette 13 Jun 2008 p. 2515)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 5: The Liquor Control Act 1988 as at 3 Jul 2007 (includes amendments listed above except those in the Liquor and Gaming Legislation Amendment Act 2006 s. 78 and 83)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
- | Liquor and Gaming Legislation Amendment Act 2006 s. 27 | 73 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2(2))
  | Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
  | Legal Profession Act 2008 s. 675 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Acts 1984 s. 7(4)(f).
@@ -48,38 +47,7 @@ Repealed by the Liquor Act 1970, which was repealed by this Act.
 Now known as the Liquor Control Act 1988; short title changed (see note under s. 1).
 The Courts Legislation Amendment Act 2000 s. 14 is a transitional provision that is of no further effect.
 The Liquor Licensing Amendment Act 2001 s. 5(2) and 6(2) are transitional provisions that are of no further effect.
-On the date as at which this compilation was prepared, the Liquor and Gaming Legislation Amendment Act 2006 s. 27 had not come into operation. It reads as follows:
-“
-27.Part 2 Division 7 replaced
-Part 2 Division 7 is repealed and the following Division is inserted instead —
-“
-Division 7 — Confidential police information
-30.Confidential police information
-(1) For the purposes of this section, the Commissioner of Police may classify as confidential any information or document held by the Commissioner of Police.
-(2) Despite any other provision of this Act, any information or document provided by the Commissioner of Police to the licensing authority for the purposes of this Act must not be published or disclosed by the licensing authority to any person (except to the Minister, the Parliamentary Commissioner for Administrative Investigations appointed under section 5 of the Parliamentary Commissioner Act 1971, the Corruption and Crime Commission established under the Corruption and Crime Commission Act 2003, the Parliamentary Inspector of the Corruption and Crime Commission appointed under the Corruption and Crime Commission Act 2003, a court or a person to whom the Commissioner of Police authorises its disclosure) if the information or document is classified as confidential police information.
-(3) If —
-(a) the licensing authority —
-(i) refuses an application for a licence, for approval of the transfer of a licence, or for approval of a person’s occupation of a position of authority in a body corporate under section 33(5); or
-(ii) refuses approval of the appointment of a person as a trustee under section 35A; or
-(iii) refuses or withdraws approval of a person as a manager under section 35B; or
-(iv) takes disciplinary action against a person under Part 3 Division 13; or
-(v) makes or varies a prohibition order in respect of a person under Part 5A;
-and
-(b) the decision to do so is made solely or partly on the basis of confidential police information provided to the licensing authority,
-the licensing authority is not required to give any reasons for the decision other than that the decision is made in the public interest.
-(4) If the Commissioner of Police lodges an objection to an application under section 73 solely or partly on the basis of confidential police information —
-(a) the Commissioner of Police is not required to serve a copy of the notice under section 73(4a); and
-(b) the licensing authority must, at least 7 days before the hearing of the application, give the applicant written notice that the Commissioner of Police has objected to the application on the ground that the grant of the application would not be in the public interest.
-(5) If the Director or the Commissioner of Police lodges a complaint under section 95 in respect of a person solely or partly on the basis of confidential police information, the complaint need only state that it would not be in the public interest if the person were to be or continue to be licensed or approved, as the case may be.
-(6) In any proceedings under this Act (other than proceedings for an offence), the Director, the Commission or a court —
-(a) must, on the application of the Commissioner of Police, take all reasonable steps to maintain the confidentiality of confidential police information, including steps —
-(i) to receive evidence and hear argument about confidential police information in private and in the absence of any party to the proceedings other than the Director or the Commissioner of Police or their representatives; and
-(ii) to prohibit the publication of evidence about confidential police information;
-and
-(b) may take evidence consisting of or relating to confidential police information by way of an affidavit of a member of the Police Force of or above the rank of Superintendent.
-(7) The Commissioner of Police must not delegate the function of classifying information or documents as confidential police information except to a Deputy Commissioner of Police or an Assistant Commissioner of Police.
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 32 had not come into operation. It reads as follows:
 “
 32.Liquor Control Act 1988 amended
