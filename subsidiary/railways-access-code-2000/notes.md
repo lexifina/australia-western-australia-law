@@ -7,7 +7,7 @@ Railways (Access) Amendment Code 2004 | 23 Jul 2004 p. 2988-97 | 23 Jul 2004 (se
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Act 2004 Pt. 3 Div. 2 | 77 of 2004 | 8 Dec 2004 | To be proclaimed (see s. 2(2))
+Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Act 2004 Pt. 3 Div. 2 | 77 of 2004 | 8 Dec 2004 | 1 Jul 2008 (see s. 2(2) and Gazette 17 Jun 2008 p. 2543)
 The Railways (Access) Amendment Code 2004 s. 3(2) reads as follows:
 “
 (2) Sections 9, 14 and 15 and Schedule 4 clause 10(2) and (3) of the principal Code apply in relation to a proposal under that Code received by the railway owner before the commencement of this Code as if sections 7, 8, 9 and 15(7) of this Code had not been made.
