@@ -14,6 +14,7 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Armadale Redevelopment (Subtraction of Land from Redevelopment Area) Regulations 2007 published in Gazette 24 Jul 2007 p. 3657-8 | 24 Jul 2007
 Armadale Redevelopment (Addition of Land to Redevelopment Area) Regulations 2007 published in Gazette 14 Dec 2007 p. 6247-8 | r. 1 and 2: 14 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Dec 2007 (see r. 2(b))
+Armadale Redevelopment (Addition of Land to Redevelopment Area) Regulations 2008 published in Gazette 17 Jun 2008 p. 2568-70 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jun 2008 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
