@@ -1,5 +1,5 @@
 ### 5AJA. Certain concurrent wrongdoers not to have benefit of apportionment
-(1) Nothing in this Part operates to limit the liability of a concurrent wrongdoer (an “excluded concurrent wrongdoer”) in proceedings involving an apportionable claim if —
+(1) Nothing in this Part operates to limit the liability of a concurrent wrongdoer (an excluded concurrent wrongdoer) in proceedings involving an apportionable claim if —
 (a) the concurrent wrongdoer intended to cause the economic loss or damage to property that is the subject of the claim;
 (b) the concurrent wrongdoer fraudulently caused the economic loss or damage to property that is the subject of the claim; or
 (c) the civil liability of the concurrent wrongdoer was otherwise of a kind excluded from the operation of this Part by section 3A.

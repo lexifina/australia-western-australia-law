@@ -23,6 +23,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 s. 646 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
+Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 3 | 25 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 646 had not come into operation. It reads as follows:
 “
 646.Civil Liability Act 2002 amended
@@ -30,11 +31,11 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (2) Section 16 is amended as follows:
 (a) by deleting the definition of “legal practitioner” and inserting instead —
 “
-“legal practitioner” means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
+legal practitioner means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”;
 (b) by inserting in the appropriate alphabetical position —
 “
-“law practice” has the meaning given in the Legal Profession Act 2008;
+law practice has the meaning given in the Legal Profession Act 2008;
 ”.
 (3) Section 17(1)(b) is amended by deleting “named firm of legal practitioners” and inserting instead —
 “ named law practice ”.
@@ -77,4 +78,18 @@ Schedule 3 — Consequential amendments
 “ Medical Practitioners Act 2008 section 4; ”.
 (3) Section 5AB is amended in paragraph (a) of the definition of “medical qualifications” by deleting “Medical Act 1894;” and inserting instead —
 “ Medical Practitioners Act 2008; ”.
+”.
+On the date as at which this compilation was prepared, the Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 3 had not come into operation. It reads as follows:
+“
+Part 3 — Civil Liability Act 2002 amended
+15.The Act amended
+The amendments in this Part are to the Civil Liability Act 2002.
+16.Section 5PA amended
+Section 5PA is amended as follows:
+(a) by deleting “includes” and inserting instead —
+“ means ”;
+(b) by deleting paragraph (m) and inserting instead —
+“
+(m) any other person who practises a discipline or profession in the health area that involves the application of a body of learning.
+”.
 ”.
