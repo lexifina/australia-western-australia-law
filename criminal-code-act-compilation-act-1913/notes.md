@@ -152,6 +152,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 s. 129 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 3 | 25 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 The Criminal Code Amendment Act (No. 2) 1996 s. 4(3) is a transitional provision.
@@ -207,4 +208,25 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 (3) Section 191 is repealed.
 (4) Section 557K(1) paragraph (h) of the definition of “child sex offender” is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
+”.
+On the date as at which this compilation was prepared, the Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 4 had not come into operation. It reads as follows:
+“
+Part 4 — The Criminal Code amended
+17.The Act amended
+The amendments in this Part are to The Criminal Code.
+18.Section 259 amended
+Section 259 is amended as follows:
+(a) by inserting before “A person” the subsection designation “(1)”;
+(b) by deleting “treatment —” and inserting instead —
+“ treatment (including palliative care) — ”;
+(c) at the end of the section by inserting —
+“
+(2) A person is not criminally responsible for not administering or ceasing to administer, in good faith and with reasonable care and skill, surgical or medical treatment (including palliative care) if not administering or ceasing to administer the treatment is reasonable, having regard to the patient’s state at the time and to all the circumstances of the case.
+”.
+19.Section 265 amended
+Section 265 is amended by inserting after “treatment” —
+“ (including palliative care) ”.
+20.Section 275 amended
+Section 275 is amended by deleting “treatment, and” and inserting instead —
+“ treatment (including palliative care), and ”.
 ”.
