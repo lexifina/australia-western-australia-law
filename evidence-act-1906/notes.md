@@ -100,6 +100,7 @@ Acts Amendment (Justice) Act 2008 Pt. 11 | 5 of 2008 | 31 Mar 2008 | To be procl
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Prostitution Amendment Act 2008 s. 31 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Legal Profession Act 2008 s. 662 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 12 | 26 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 “
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
@@ -291,4 +292,11 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 “
 A person who is entitled to practise as an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3) in a participating jurisdiction is entitled to practise as an Australian legal practitioner —
 ”.
+”.
+On the date as at which this compilation was prepared, the Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 12 had not come into operation. It reads as follows:
+“
+12.Evidence Act 1906 amended
+(1) The amendment in this section is to the Evidence Act 1906.
+(2) Section 19L(5) is amended by inserting after “section” —
+“ 124F or ”.
 ”.
