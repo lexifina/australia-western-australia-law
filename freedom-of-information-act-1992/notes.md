@@ -43,6 +43,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 13 | 26 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
 The Acts Amendment (Ministry of Justice) Act 1993 s. 68 reads as follows:
 “
 Part 19 — Savings and transitional
@@ -70,4 +71,16 @@ Act | Provision
 .......................... | ........
 Freedom of Information Act 1992 | s. 62(2)
 ...................... | ........
+”.
+On the date as at which this compilation was prepared, the Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 13 had not come into operation. It reads as follows:
+“
+13.Freedom of Information Act 1992 amended
+(1) The amendments in this section are to the Freedom of Information Act 1992.
+(2) Schedule 1 clause 14(5) is amended after paragraph (b) by deleting the full stop and inserting —
+“
+; or
+(c) a person who has made, or a person who is mentioned in, a report under the Children and Community Services Act 2004 section 124B(1); or
+(d) a person who is a notifier as defined in the Children and Community Services Act 2004 section 240(1), or a person about whom the information mentioned in that definition is given; or
+(e) a person who has given, or a person who is mentioned in, a notification under the Commonwealth Family Law Act 1975 section 67ZA(2) or (3) or the Family Court Act 1997 section 160(2) or (3).
+”.
 ”.
