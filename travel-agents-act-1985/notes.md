@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Travel Agents Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 20 June 2008 of the Travel Agents Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Travel Agents Act 1985 | 120 of 1985 | 30 Dec 1985 | 1 Feb 1987 (see s. 2 and Gazette 16 Jan 1987 p. 82)
+Travel Agents Act 1985 | 120 of 1985 | 30 Dec 1985 | s. 1 and 2: 30 Dec 1985; Act other than s. 1 and 2: 1 Feb 1987 (see s. 2 and Gazette 16 Jan 1987 p. 82)
 Travel Agents Amendment Act 1989 | 27 of 1989 | 12 Dec 1989 | 9 Jan 1990
 Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
 Pawnbrokers and Second-hand Dealers Act 1994 s. 100 | 88 of 1994 | 5 Jan 1995 | 1 Apr 1996 (see s. 2 and Gazette 29 Mar 1996 p. 1495)
@@ -24,21 +24,22 @@ Reprint 3: The Travel Agents Act 1985 as at 14 Oct 2005 (includes amendments lis
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 22 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 13 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 4: The Travel Agents Act 1985 as at 20 Jun 2008 (includes amendments listed above)
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 41 and 64 read as follows:
 “
 41.Travel Agents Act 1985
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 128 comes into operation.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 128 comes into operation.
 (2) If —
 (a) before the commencement day a matter was being dealt with by the Commercial Tribunal of Western Australia under the Travel Agents Act 1985 Part II Division 3; and
 (b) that matter is transferred to the Tribunal under the Act section 167(4)(b),
 despite the Act section 32(2) and (3), the Evidence Act 1906 and the rules of evidence continue to apply to the matter when it is being dealt with by the Tribunal.
 64.Travel Agents Act 1985
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 128 comes into operation;
-“the TA Act” means the Travel Agents Act 1985.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 128 comes into operation;
+the TA Act means the Travel Agents Act 1985.
 (2) If before the commencement day —
 (a) an objection has been lodged with the Commercial Tribunal of Western Australia under the TA Act section 21(1); and
 (b) the objection has not been dealt with under the TA Act section 21(3) or (4),
@@ -50,7 +51,6 @@ the Commissioner for Fair Trading may have regard to the objection in deciding u
 on or after the commencement day the application is to be dealt with by the Commissioner for Fair Trading under the TA Act section 33 as if the application had been made to the Commissioner.
 ”.
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent it amends this Act, was repealed by the Criminal Law and Evidence Amendment Act 2008 s.78(2)(e).
-Footnote no longer applicable.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
 Division 23 — Transitional provisions
@@ -91,7 +91,35 @@ Each office in existence immediately before commencement because of section 15(1
 Each office in existence immediately before commencement because of section 5(2)(b) of the Petroleum Products Pricing Act 1983 does not cease merely because that paragraph is deleted by this Act.
 155.Interpretation
 In this Division —
-“commencement” means the time at which this Division comes into operation;
-“Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
-“Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+commencement means the time at which this Division comes into operation;
+Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
+Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+applicant3(1)
+application3(1)
+appointed day3(1)
+bank3(1)
+books3(1)
+Commissioner3(1)
+condition3(1)
+Department3(1)
+director3(1)
+executive officer49A(3)
+exempted person3(1)
+licence3(1)
+licensee3(1)
+moneys3(1)
+officer3(1), 50(4)
+person aggrieved23(2)
+property32(9)
+records3(1)
+reviewable decision23(2)
+specified59(3)
+the Compensation Scheme3(1)
+the Compensation Trustees3(1)
+the court53(1)
+the prohibitory order39(3)
+the unlicensed person49(4)
