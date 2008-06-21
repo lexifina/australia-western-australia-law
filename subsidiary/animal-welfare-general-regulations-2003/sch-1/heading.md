@@ -29,8 +29,7 @@ Codes of practice
  | First published by the Primary Industries Ministerial Council in 2006
 12D. | Model Code of Practice for the Welfare of Animals: The Camel (2nd Edition)
  | First published by the Primary Industries Ministerial Council in 2006
-13. | Pigs — Code of practice for pigs in Western Australia
- | First published by the Department in March 2003
+13. | Model Code of Practice for the Welfare of Animals: Pigs (3rd Edition) First published by the Primary Industries Ministerial Council in 2008
 14. | Pig Transportation — Code of practice for the transportation of pigs in Western Australia
  | First published by the Department in March 2003
 15. | Pigeons — Code of practice for pigeon keeping and racing in Western Australia
@@ -50,4 +49,4 @@ Codes of practice
  | First published by the Department in March 2003
 23. | Sheep Transportation — Code of practice for the transportation of sheep in Western Australia
  | First published by the Department in March 2003
-[Schedule 1 amended in Gazette 23 Jun 2006 p. 2193; 12 Jun 2007 p. 2720-1.]
+[Schedule 1 amended in Gazette 23 Jun 2006 p. 2193; 12 Jun 2007 p. 2720-1; 20 Jun 2008 p. 2719.]
