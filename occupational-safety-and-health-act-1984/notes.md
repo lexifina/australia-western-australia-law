@@ -26,13 +26,12 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 5: The Occupational Safety and Health Act 1984 as at 24 Jun 2005 (includes amendments listed above)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Petroleum Amendment Act 2007 s. 101 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
-Police Amendment Act 2008 s. 15 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
+Police Amendment Act 2008 s. 15 and s. 23(5) | 8 of 2008 | 31 Mar 2008 | s. 15: 1 Apr 2008 (see s. 2(1)) s. 23(5): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 65, 66 and 68 | 51 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Petroleum Legislation Amendment and Repeal Act 2005 s. 50 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
-Police Amendment Act 2008 s. 23(5) | 8 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(2))
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Occupational Safety and Health Act 1984; short title changed (see note under s. 1).
@@ -42,7 +41,7 @@ The Occupational Safety and Health (Validation) Act 1998 s. 4 reads as follows:
 “
 4.Validation
 (1) In this section —
-“Commissioner” means —
+Commissioner means —
 (a)the Commissioner for Occupational Health, Safety and Welfare within the meaning of the Occupational Health, Safety and Welfare Act 1984 as in force before 1 October 1995; or
 (b)the WorkSafe Western Australia Commissioner within the meaning of the Occupational Safety and Health Act 1984 as in force on and from 1 October 1995.
 (2) No act, matter or thing done before 8 October 1996 —
@@ -59,9 +58,9 @@ The Occupational Safety and Health Amendment Act 2002 s. 8 reads as follows:
 “
 8.Election of safety and health representatives by police officers before the commencement of this Act
 (1) In this section —
-“commencement day” means the day on which this Act comes into operation;
-“police officer” has the same meaning as it has in section 3(1) of the Occupational Safety and Health Act 1984 on and after the commencement day;
-“transition period” means the period of 9 months ending immediately before the commencement day.
+commencement day means the day on which this Act comes into operation;
+police officer has the same meaning as it has in section 3(1) of the Occupational Safety and Health Act 1984 on and after the commencement day;
+transition period means the period of 9 months ending immediately before the commencement day.
 (2) The provisions listed in the Table to this subsection are to be treated as being in operation during the transition period for the purposes of allowing police officers to elect safety and health representatives for a workplace and for the training of those representatives during that period.
 Table
 1.This Act
@@ -90,7 +89,7 @@ The amendments made by section 43 do not affect the continuation in office of an
 The Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 51 reads as follows:
 “
 51.Savings and transitional provisions for existing safety and health committees
-(1) The repeal of section 37 of the Occupational Safety and Health Act 1984 (the “OSH Act”) by section 50 does not affect the status of a safety and health committee that is in existence under the OSH Act immediately before that repeal.
+(1) The repeal of section 37 of the Occupational Safety and Health Act 1984 (the OSH Act) by section 50 does not affect the status of a safety and health committee that is in existence under the OSH Act immediately before that repeal.
 (2) Any such committee is to be taken, after the commencement of section 50, to have been established under section 38 or 39B of the OSH Act inserted by section 50, as the case may be.
 (3) If before the commencement of section 50 —
 (a) a request was made in respect of a workplace under section 36(1) of the OSH Act repealed by section 50; but
@@ -148,9 +147,4 @@ On the date as at which this compilation was prepared, the Petroleum Amendment A
 “
 Petroleum and Geothermal Energy Resources Act 1967,
 ”.
-”.
-On the date as at which this compilation was prepared, the Police Amendment Act 2008 s. 23(5) had not come into operation. It reads as follows:
-“
-23.Various Acts amended in relation to the definition of “police officer”
-(5) The Occupational Safety and Health Act 1984 section 3(1) is amended by deleting the definition of “police officer”.
 ”.
