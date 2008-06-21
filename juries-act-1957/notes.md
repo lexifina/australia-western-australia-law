@@ -51,14 +51,13 @@ Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 9 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 5: The Juries Act 1957 as at 8 Jun 2007 (includes amendments listed above except those in the Chiropractors Act 2005 and the Nurses and Midwives Act 2006)
-Police Amendment Act 2008 s. 14 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
+Police Amendment Act 2008 s. 14 and s. 23(4) | 8 of 2008 | 31 Mar 2008 | s. 14: 1 Apr 2008 (see s. 2(1)) s. 23(4): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Criminal Law and Evidence Amendment Act 2008 s. 64 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 Pt. 14 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
-Police Amendment Act 2008 s. 23(4) | 8 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(2))
 Legal Profession Act 2008 s. 669 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
@@ -156,12 +155,4 @@ Section 62(3) is repealed and the following subsection is inserted instead —
 ”.
 69.Second Schedule amended
 The Second Schedule clause 2 is amended by deleting paragraph (c).
-”.
-On the date as at which this compilation was prepared, the Police Amendment Act 2008 s. 23(4) had not come into operation. It reads as follows:
-“
-23.Various Acts amended in relation to the definition of “police officer”
-(4) The Second Schedule Part I clause 2(h) of the Juries Act 1957 is deleted and the following paragraph is inserted instead —
-“
-(h) police officer;
-”.
 ”.

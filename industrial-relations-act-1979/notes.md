@@ -68,7 +68,7 @@ Reprint 11: The Industrial Relations Act 1979 as at 3 Nov 2006 (includes amendme
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Petroleum Amendment Act 2007 s. 97 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
-Police Amendment Act 2008 s. 13 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
+Police Amendment Act 2008 s. 13 and 23(3) | 8 of 2008 | 31 Mar 2008 | s. 13: 1 Apr 2008 (see s. 2(1)) s. 23(3): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -77,7 +77,6 @@ State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 Pt. 13 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
-Police Amendment Act 2008 s. 23(3) | 8 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(2))
 Legal Profession Act 2008 s. 668 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
@@ -283,13 +282,7 @@ Section 83D(1) is repealed and the following subsection is inserted instead —
 64.Section 113 amended
 Section 113(3) is amended by deleting “and the enforcement of a judgment, order, direction, or other decision of an industrial magistrate’s court”.
 ”.
-On the date as at which this compilation was prepared, the Police Amendment Act 2008 s. 23(3) had not come into operation. It reads as follows:
-“
-23.Various Acts amended in relation to the definition of “police officer”
-(3) The Industrial Relations Act 1979 Schedule 3 clause 1 is amended as follows:
-(a) by deleting the semi colon after the definition of “Arbitrator” and inserting instead a full stop;
-(b) by deleting the definition of “police officer”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 668 had not come into operation. It reads as follows:
 “
 668.Industrial Relations Act 1979 amended
