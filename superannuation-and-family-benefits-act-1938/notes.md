@@ -1,6 +1,6 @@
 Notes
 This Act was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
-This is a compilation of the Superannuation and Family Benefits Act 1938 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Superannuation and Family Benefits Act 1938 and includes the amendments made by the other written laws referred to in the following table .
 Compilation table
 Short title | Number and year | Assent | Commencement
 Superannuation and Family Benefits Act 1938 | 34 of 1938 | 31 January 1939 | 1 March 1939 (except where otherwise provided) (see section 2 and Gazette 24 February 1939 p.319)
@@ -56,8 +56,8 @@ Financial Legislation Amendment Act 1996, section 64 | 49 of 1996 | 25 October 1
 Statutes (Repeals and Minor Amendments) Act 1997, section 117 | 57 of 1997 | 15 December 1997 | 15 December 1997 (see section 2)
 Port Authority (Consequential Provisions) Act 1999, section 25 | 5 of 1999 | 13 April 1999 | 13 April 1999 (see section 2(1))
 Gas Corporation (Business Disposal) Act 1999, section 108 | 58 of 1999 | 24 December 1999 | 16 December 2000 (see section 2(5) and Gazette 15 December 2000 p.7201)
-Statutes (Repeals and Minor Amendments) Act 2000, section 14(13) | 24 of 2000 | 4 July 2000 | 4 July 2000 (see section 2)
-State Superannuation Act 2000, s. 39 | 42 of 2000 | 2 November 2000 | 17 February 2001 (see section 2 and Gazette 16 February 2001 p. 903)
+Statutes (Repeals and Minor Amendments) Act 2000 section 14(13) | 24 of 2000 | 4 July 2000 | 4 July 2000 (see section 2)
+State Superannuation Act 2000 s. 39 | 42 of 2000 | 2 November 2000 | 17 February 2001 (see section 2 and Gazette 16 February 2001 p. 903)
 State Superannuation Regulations 2001 | 16 February 2001 pp.923-1074 | 17 February 2001 (see regulation 2 and Gazette 16 February 2001 p.903)
 State Superannuation Amendment Regulations 2001 | 29 June 2001 pp.3077-107 | 1 July 2001 (see regulation 2)
 State Superannuation Amendment Regulations (No. 2) 2002, r. 29 | 28 June 2002 p. 3007-28 | 1 July 2002 (see regulation 2)
@@ -69,6 +69,10 @@ Financial Legislation Amendment and Repeal Act 2006 s. 5(1) | 77 of 2006 | 21 De
 State Superannuation Amendment Regulations 2007 Pt. 3 | 13 Apr 2007 p. 1577-613 | 13 Apr 2007 (see r. 2)
 State Superannuation Amendment Regulations 2008 Pt. 3 published in Gazette 18 Jan 2008 p. 149-56 | 19 Jan 2008 (see r. 2(b))
 Police Amendment Act 2008 s. 20 | 8 OF 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+State Superannuation Amendment Regulations (No. 4) 2008 Pt. 3 published in Gazette 23 Jun 2008 p. 2763-99 | Operative on commencement of the State Superannuation Amendment Act 2007 Pt. 3 (see r. 2(b))
 N.B.The Superannuation and Family Benefits Act 1938 is affected by section 15 of the District Court of Western Australia Act 1969 (No. 84 of 1969).
 Repealed by the Miscellaneous Repeals Act 1991 (No. 10 of 1991).
 Reference amended under section 7(5)(a) of the Reprints Act 1984 to give effect to section 5(2) of the Water Authority Act 1984 (No. 3 of 1984).
@@ -135,9 +139,9 @@ Clause 2 of Part B of Schedule 2 of the Bank of Western Australia Act 1995 (No. 
 (5) The Bank is to pay to the Treasurer the amount agreed under subclause (3)(b) or determined under subclause (4) at such time as is provided for in the agreement or determination.
 (6) Subclauses (1) to (5) and any agreement under subclause (3) or determination under subclause (4) have effect despite any provision of the Act.
 (7) In subclauses (1) to (6) —
-“Act” means the Superannuation and Family Benefits Act 1938;
-“Bank” has the meaning given by section 19 and includes the Bank in its capacity as trustee of the BankWest State Superannuation Scheme;
-“employee” has the same meaning as it has in the Act.
+Act means the Superannuation and Family Benefits Act 1938;
+Bank has the meaning given by section 19 and includes the Bank in its capacity as trustee of the BankWest State Superannuation Scheme;
+employee has the same meaning as it has in the Act.
 ”.
 Regulation 267(3) of the State Superannuation Regulations 2001 read as follows:
 “
@@ -145,13 +149,13 @@ Regulation 267(3) of the State Superannuation Regulations 2001 read as follows:
 ”.
 The State Superannuation Amendment Regulations 2006 r. 30(3) reads as follows:
 “
-(3) If a person became entitled to a widower’s pension before this regulation came into operation (the “commencement day”) section 60D(3c) (as inserted by subregulation (2)) applies in relation to that person as if the contributor or pensioner had died on the commencement day.
+(3) If a person became entitled to a widower’s pension before this regulation came into operation (the commencement day) section 60D(3c) (as inserted by subregulation (2)) applies in relation to that person as if the contributor or pensioner had died on the commencement day.
 ”.
 The Superannuation Legislation Amendment and Validation Act 2006 s. 17 and 20 read as follows:
 “
 17.Validation of certain payments
 (1) In this section —
-“Superannuation Act” means the State Superannuation Act 2000, the Government Employees Superannuation Act 1987 or the Superannuation and Family Benefits Act 1938.
+Superannuation Act means the State Superannuation Act 2000, the Government Employees Superannuation Act 1987 or the Superannuation and Family Benefits Act 1938.
 (2) A payment or purported payment of a benefit under the State Superannuation Act 2000, the Government Employees Superannuation Act 1987 or the Superannuation and Family Benefits Act 1938 that was —
 (a) made before this section came into operation; and
 (b) invalid or ineffective because of the Administration Act 1903 section 10,
@@ -169,4 +173,93 @@ is, and is to be taken always to have been, as valid and effective as it would h
 “
 , every college (within the meaning of the Vocational Education and Training Act 1996)
 ”.
+On the date as at which this compilation was prepared, the State Superannuation Amendment Regulations (No. 4) 2008 Pt. 3 had not come into operation. It reads as follows:
+“
+Part 3 — Amendments to Superannuation and Family Benefits Act 1938
+34.Section 6 amended
+Section 6(1) is amended in the definition of “the Board” by deleting “Government Employees” and inserting instead —
+“ State ”.
+35.Section 24 amended
+Section 24(2) is amended by deleting “Government Employees” and inserting instead —
+“ State ”.
+36.Section 83M amended
+Section 83M is amended as follows:
+(a) in the definition of “1993 scheme” by deleting “superannuation scheme continued by section 29(a)” and inserting instead —
+“
+West State scheme within the meaning given in section 3(1)
+”;
+(b) by deleting the definition of “employer’s compulsory contribution” and inserting instead —
+“
+employer’s compulsory contribution means a contribution that the employer is required to make under the State Superannuation Act 2000;
 ”.
+37.Section 83N amended
+Section 83N(2)(aa) and “and” after it are deleted and the following is inserted instead —
+“
+(aa) the earning rate applicable to the contributor’s notional account under that scheme was the CPI rate (as defined in the State Superannuation Regulations 2001 regulation 3) plus 2%; and
+”.
+”.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+1993 scheme83M
+accepted part-time employee7(1)
+actuarial reserve portion of contributions6(1)
+Actuary6(1)
+another scheme80AA(1)
+appointed day60D(10)
+assent day60D(10)
+assessment notice60F(4)
+children6(1)
+contributions tax60F(4)
+contributor6(1), 83M
+contributor’s notional account83M
+Crown share80AA(1)
+department6(1), 6(1)
+employee6(1)
+employer’s compulsory contribution83M
+equivalent entitlement by way of a lump sum payment60D(10)
+former employee32A(1)
+former employment32A(1)
+Fund share60D(10)
+guaranteed benefit83M
+hospital board6(1)
+Index46C(1)
+ineligible unit60D(10)
+member of the Police Force6(1)
+metropolitan area37(5)
+Minister6(1)
+non-contributory unit37(13)
+pay-day46C(1)
+pension calculation day60E(1)
+pensioner80AA(1)
+Police Benefit Fund6(1)
+primary unit entitlement37(13), 37(14)
+qualified contributor6(1)
+Railway Death Benefit and Endowment Fund6(1)
+relevant contributor60E(1)
+retrenched person66A(1)
+salary6(1)
+salary sacrifice agreement36A(2)
+Scale B37(13)
+service6(1)
+similar fund32A(1)
+special allowance60E(1)
+State share of the pension scheme entitlement83M
+student child6(1)
+term appointee6(1)
+the 1987 Act6(1)
+the Account42A(1)
+the Association6A(1)
+the Board6(1)
+the contributor’s pension62A
+the existing Association scheme6A(1)
+the Fund6(1)
+the guaranteed benefit83N(1)
+the maximum age for retirement6(1)
+the Provident Account6(1)
+the relevant period37(12f)
+the relevant time37(12e)
+the reversionary pension62A
+the top-up benefit83N(1)
+top-up benefit83M
+total unit entitlement37(13)
