@@ -115,6 +115,10 @@ Reprint 12: The Navigable Waters Regulations 1958 as at 4 Aug 2006 (includes ame
 Navigable Waters Amendment Regulations (No. 2) 2006 | 1 Sep 2006 p. 3596-9 | 2 Sep 2006 (see r. 2(a) and Gazette 1 Sep 2006 p. 3591)
 Navigable Waters Amendment Regulations 2007 | 12 Jun 2007 p. 2726-7 | 1 Jul 2007 (see r. 2)
 Navigable Waters Amendment Regulations (No. 2) 2007 | 30 Nov 2007 p. 5938 | r. 1 and 2: 30 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2007 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Navigable Waters Amendment Regulations (No. 2) 2008 r. 3 and 4 | 24 Jun 2008 p. 2891-2 | 1 Feb 2009 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 reads as follows:
@@ -122,4 +126,24 @@ The Navigable Waters Amendment Regulations 1992 r. 9 reads as follows:
 9.Transitional
 (1) Notwithstanding regulations 4 and 6 of these regulations, regulations 45B and 45D of the principal regulations, as they were immediately before the commencement of these regulations, continue to apply in relation to a vessel registered with the department in the year ending 30 June 1992, until that vessel’s registration expires or is renewed.
 (2) Notwithstanding regulation 5 of these regulations, regulation 45BAA of the principal regulations, as it was immediately before the commencement of these regulations, continues to apply in relation to a foreign pleasure vessel registered with the department in the year ending 30 June 1992, until that foreign pleasure vessel’s registration expires or is renewed.
+”.
+On the date as at which this compilation was prepared, the Navigable Waters Amendment Regulations (No. 2) 2008 r. 3 and 4 had not come into operation. They read as follows:
+“
+3.The regulations amended
+The amendments in these regulations are to the Navigable Waters Regulations 1958.
+4.Regulation 52BAB amended
+(1) Regulation 52BAB(1) and (1a) are repealed and the following subregulations are inserted instead —
+“
+(1A) In this regulation —
+“AS/NZS”, followed by a designation means the Australian/New Zealand Standard having that designation that is jointly published by Standards Australia and the Standards Council of New Zealand;
+“MS 241” means the Ministerial Standard for Emergency Position Indicating Radio Beacons, made by the Federal Minister under the Radiocommunications Act 1983 of the Commonwealth section 9;
+“prescribed standard” means —
+(a)AS/NZS 4280.1:2003; or
+(b)until 1 February 2009 — MS 241 or AS/NZS 4330:1995.
+(1) The owner of a vessel that proceeds more than 2 nautical miles from the mainland, or more than 400 m from an island situated more than 2 nautical miles from the mainland, must ensure that the vessel is equipped with an Emergency Position Indicating Radio Beacon that —
+(a) complies with a prescribed standard; and
+(b) is registered with the Australian Maritime Safety Authority established under the Australian Maritime Safety Authority Act 1990 of the Commonwealth section 5.
+”.
+(2) Regulation 52BAB(2) is amended by deleting “this regulation” and inserting instead —
+“ subregulation (1) ”.
 ”.
