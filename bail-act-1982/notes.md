@@ -54,6 +54,7 @@ Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Bail Amendment Act 2008 Pt. 2 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
+Criminal Law Amendment (Homicide) Act 2008 s. 24 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 25. The Act was then repealed by the Criminal Procedure and Appeal (Consequential and Other Provisions) Act 2004.
 The amendment in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 had not come into operation when it was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Bail Amendment Act 1984 s. 10 and 11 were repealed by the Bail Amendment Act 1988 s. 20.
@@ -941,5 +942,22 @@ Schedule 3 — Consequential amendments
 (2) Schedule 1 Part D clause 2(7) is amended by deleting the definition of “medical practitioner” and inserting instead —
 “
 “medical practitioner” has the meaning given to that term in the Medical Practitioners Act 2008 section 4;
+”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 24 had not come into operation. It reads as follows:
+“
+24.Bail Act 1982
+(1) The amendments in this section are to the Bail Act 1982.
+(2) Section 7B(2)(a) is amended by deleting “wilful murder or”.
+(3) Section 7B(4) is amended by deleting “wilful murder or”.
+(4) Section 7C(1) is amended by deleting “wilful murder or”.
+(5) Section 15(1) is amended by deleting “wilful murder or”.
+(6) Section 54A(1)(a) is amended by deleting “wilful murder or”.
+(7) Schedule 1 Part C clause 3C is amended by deleting “wilful murder or” in the 2 places where it occurs.
+(8) Schedule 2 item 1 is amended by deleting the entries relating to The Criminal Code sections 278, 279 and 280 and inserting instead —
+“
+s. 279Murder
+s. 280Manslaughter
+s. 281Unlawful assault causing death
 ”.
 ”.
