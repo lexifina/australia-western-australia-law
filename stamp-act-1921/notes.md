@@ -162,14 +162,14 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Reprint 16: The Stamp Act 1921 as at 12 May 2006 (includes amendments listed above except the amendments in the Revenue Laws Amendment Act 2006 s. 4, 5(2) and 6) (correction in Gazette 18 Jul 2006 p. 2619)
 Revenue Laws Amendment Act 2006 Pt. 2 (s. 3-16) | 31 of 2006 | 4 Jul 2006 | s. 4: 1 Jan 2004 (see s. 2(2)); s. 5(2) and 6: 1 Jul 2004 (see s. 2(3)); s. 14 and 16: 1 Jul 2006 (see s. 2(5) and (6)); s. 3, 5(1), 7-13 and 15: 4 Jul 2006 (see s. 2(1))
 Stamp Amendment Act 2006 | 67 of 2006 | 11 Dec 2006 | s. 4: 27 Jun 2006 (see s. 2(2)); Act other than s. 4: 12 Dec 2006 (see s. 2(1))
-Revenue Laws Amendment (Taxation) Act 2007 Pt. 5 | 12 of 2007 | 29 Jun 2007 | Pt. 5 other than s. 13(2): 1 Jul 2007 (see s. 2(d)(i))
+Revenue Laws Amendment (Taxation) Act 2007 Pt. 5 | 12 of 2007 | 29 Jun 2007 | Pt. 5 other than s. 13(2): 1 Jul 2007 (see s. 2(d)(i)) s. 13(2) repealed 27 Jun 2008 by the Revenue Laws Amendment Act 2008 s. 7(3)
 Reprint 17: The Stamp Act 1921 as at 24 Aug 2007 (includes amendments listed above)
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
+Revenue Laws Amendment Act 2008 s. 8 and Pt. 8 | 30 of 2008 | 27 Jun 2008 | Pt. 8: 6 Feb 2008 (see s. 2(1)(d)); s. 8: 27 Jun 2008 (see s. 2(2)(a))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 30 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Revenue Laws Amendment (Taxation) Act 2007 s. 13(2) | 12 of 2007 | 29 Jun 2007 | 1 Jan 2009 (see s. 2(e))
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 55 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Duties Legislation Amendment Act 2008 Pt. 2 Div. 1 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Repealed by the Mining Act 1978.
@@ -714,21 +714,7 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 (1) The amendments in this section are to the Stamp Act 1921.
 (2) The Third Schedule is amended by deleting items 3(2) and 7(11).
 ”.
-On the date as at which this compilation was prepared, the Revenue Laws Amendment (Taxation) Act 2007 s. 13(2) had not come into operation. It reads as follows:
-“
-13.Second Schedule amended
-(2) The Second Schedule item 14(1) is amended as follows:
-(a) in paragraph (a) by deleting “$20 000” and inserting instead —
-“ $25 000 ”;
-(b) in paragraph (b) by deleting “$20 000” and inserting instead —
-“ $25 000 ”;
-(c) in paragraph (b) by deleting “$45 000” and inserting instead —
-“ $50 000 ”;
-(d) in paragraph (b) by deleting “20000” in the formula and inserting instead —
-“ 25000 ”;
-(e) in paragraph (c) by deleting “$45 000” and inserting instead —
-“ $50 000 ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 55 had not come into operation. It reads as follows:
 “
 55.Stamp Act 1921 amended
