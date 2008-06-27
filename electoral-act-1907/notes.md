@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 December 2007 of the Electoral Act 1907 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electoral Act 1907 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electoral Act 1907 | 27 of 1907 (7 Edw. VII No. 27) | 20 Dec 1907 | 1 Mar 1908 (see s. 2)
@@ -94,6 +94,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Criminal Law Amendment (Homicide) Act 2008 s. 32 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 15.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as a reference to the Public Sector Management Act 1994.
@@ -128,7 +129,7 @@ by reason only of not being an Australian citizen as defined in the Electoral Ac
 (4) In subsections (2) and (3) —
 “commencement” means the coming into operation of this section.
 ”.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 “
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
@@ -137,4 +138,14 @@ Act | Provision
 ……………………….. | …….
 Electoral Act 1907 | s. 5E(2)
 ……………………….. | …….
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 32 had not come into operation. It reads as follows:
+“
+32.Electoral Act 1907
+(1) The amendments in this section are to the Electoral Act 1907.
+(2) Section 18 is amended as follows:
+(a) in paragraph (cb) by deleting “section 282(c)(iii) or (d)(ii), 653 or 693(4)” and inserting instead —
+“ section 279(5)(b) ”;
+(b) in paragraph (cc) by deleting “661 or 662” and inserting instead —
+“ 282(c)(iii) or (d)(ii), 653, 661, 662 or 693(4) ”.
 ”.
