@@ -11,6 +11,10 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 3 | 65 of 2006 | 8 Dec
 Financial Legislation Amendment and Repeal Act 2006 s. 6 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 1: The Sentence Administration Act 2003 as at 20 Jul 2007 (includes amendments listed above)
 Fines Legislation Amendment Act 2008 Pt. 4 | 3 of 2008 | 12 Mar 2008 | 28 Mar 2008 (see s. 2(c) and Gazette 27 Mar 2008 p. 899)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Criminal Law Amendment (Homicide) Act 2008 s. 39 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 2 Div. 4 commenced 31 Aug 2003 (see Gazette 29 Aug 2003 p. 3833).
 The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 6 reads as follows:
 “
@@ -57,4 +61,60 @@ and other terms used have the same meanings as they have in the amended provisio
 (2) The person holding office as the judicial member of the Parole Board immediately before the commencement is to hold office as the chairperson of the Prisoners Review Board for the remainder of the period for which the person was appointed as the judicial member.
 (3) Immediately before the commencement the office of any person, other than the judicial member, who is then a member of, acting member of, or deputy of a member of, the Parole Board becomes vacant.
 (4) Subsection (3) does not prevent a person mentioned in that subsection from being nominated, being appointed, or holding office, as a member of the Prisoners Review Board.
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 39 had not come into operation. It reads as follows:
+“
+39.Sentence Administration Act 2003
+(1) The amendments in this clause are to the Sentence Administration Act 2003.
+(2) Section 4(2) is amended as follows:
+(a) by inserting in the appropriate alphabetical position —
+“
+“Governor’s pleasure detainee” means —
+(a)a person in, or regarded as being in, strict or safe custody by virtue of an order made under the repealed section 282 of The Criminal Code; or
+(b)a person subject to a sentence of detention imposed under section 279(5)(b) of The Criminal Code;
+”;
+(b) in the definition of “prisoner” paragraph (b) by deleting “life term;” and inserting instead —
+“ life imprisonment; ”;
+(c) in the definition of “prisoner” by deleting paragraph (d) and inserting instead —
+“
+(d)a Governor’s pleasure detainee;
+”.
+(3) Section 11(2) is amended by deleting “person who is in, or is regarded as being in, strict custody by virtue of an order made under section 282 of The Criminal Code” and inserting instead —
+“ Governor’s pleasure detainee ”.
+(4) Section 11(3) is amended in the definition of “Minister” by deleting “section 282” and inserting instead —
+“ Chapter XXVIII ”.
+(5) Section 12(6) is amended by deleting “section 282” and inserting instead —
+“ Chapter XXVIII ”.
+(6) The Table to section 12A is deleted and the following Table is inserted instead —
+“
+Table
+Type of sentence | When report due | When subsequent reports are due
+Life imprisonment for an offence other than murder | 7 years after the day on which the term began or is taken to have begun | Every 3 years after that
+Life imprisonment for murder where a minimum period has been set under section 90(1)(a) of the Sentencing Act 1995 | At the end of the minimum period | Every 3 years after that
+Indefinite imprisonment | One year after the day on which the sentence began | Every 3 years after that
+”.
+(7) The heading to Part 3 Division 5 is amended by deleting “term”.
+(8) Section 25(1) is repealed and the following subsections are inserted instead —
+“
+(1) The Governor may make a parole order in respect of a prisoner serving life imprisonment for murder but only if —
+(a) a minimum period has been set under section 90(1)(a) of the Sentencing Act 1995; and
+(b) the prisoner has served the minimum period; and
+(c) a report has been given by the Board to the Minister under section 12 or 12A.
+(1A) The Governor may make a parole order in respect of a prisoner serving life imprisonment for an offence other than murder but only if —
+(a) the prisoner has served the period required by section 96(1) of the Sentencing Act 1995; and
+(b) a report has been given by the Board to the Minister under section 12 or 12A.
+”.
+(9) Section 26 is repealed.
+(10) Section 27B(1) is amended by deleting “section 282” and inserting instead —
+“ Chapter XXVIII ”.
+(11) Section 50(b) is amended by deleting “a life term” and inserting instead —
+“ life imprisonment ”.
+(12) Section 68(2) is repealed and the following subsection is inserted instead —
+“
+(2) If a parole order in respect of a prisoner serving life imprisonment is suspended, the prisoner is then liable to resume serving the sentence in custody.
+”.
+(13) Section 69(2) is repealed and the following subsection is inserted instead —
+“
+(2) If a parole order in respect of a prisoner serving life imprisonment is cancelled after the prisoner is released under the order, the prisoner is then liable to resume serving the sentence in custody.
+”.
 ”.
