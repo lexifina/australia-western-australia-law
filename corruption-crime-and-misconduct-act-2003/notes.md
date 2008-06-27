@@ -20,6 +20,7 @@ Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 s. 128 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Legal Profession Act 2008 s. 654 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
+Criminal Law Amendment (Homicide) Act 2008 s. 26 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 Repealed by the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003.
 Now called the Telecommunications (Interception and Access) Act 1979.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -174,4 +175,12 @@ Schedule 3 — Consequential amendments
 (1) The amendments in this clause are to the Corruption and Crime Commission Act 2003.
 (2) Section 54(1) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894;” and inserting instead —
 “ Medical Practitioners Act 2008; ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 26 had not come into operation. It reads as follows:
+“
+26.Corruption and Crime Commission Act 2003
+(1) The amendments in this section are to the Corruption and Crime Commission Act 2003.
+(2) Schedule 1 clause 1 is amended as follows:
+(a) by deleting “s. 278”;
+(b) by deleting “(except if the circumstances of the attempted or intended killing are such that, if it were carried out, the crime committed would be infanticide)”.
 ”.
