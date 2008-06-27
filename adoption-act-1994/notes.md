@@ -26,6 +26,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 s. 638 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
+Criminal Law Amendment (Homicide) Act 2008 s. 23 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 The day fixed under s. 2(1) of the Adoption Amendment Act (No. 2) 2003 is 1 June 2003: see Gazette 20 May 2003 p. 1783.
 Repealed by the Births, Deaths and Marriages Registration Act 1998.
 The Adoption Amendment Act (No. 2) 2003 s. 7(3) is a transitional provision that is of no further effect.
@@ -71,4 +72,10 @@ Schedule 3 — Consequential amendments
 (1) The amendments in this clause are to the Adoption Act 1994.
 (2) Section 4(1) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894” and inserting instead —
 “ Medical Practitioners Act 2008 ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 23 had not come into operation. It reads as follows:
+“
+23.Adoption Act 1994
+(1) The amendment in this section is to the Adoption Act 1994.
+(2) Section 40(2)(e)(ii) is amended by deleting “, strict security life imprisonment”.
 ”.
