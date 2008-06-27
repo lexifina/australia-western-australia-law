@@ -41,6 +41,7 @@ Prostitution Amendment Act 2008 s. 36 | 13 of 20080 | 14 Apr 2008 | To be procla
 Parental Support and Responsibility Act 2008 s. 44 | 14 of 2008 | 15 Apr 2008 | To be proclaimed (see s. 2)
 Legal Profession Act 2008 s. 714 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
+Criminal Law Amendment (Homicide) Act 2008 s. 41 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -146,5 +147,33 @@ Schedule 3 — Consequential amendments
 (1) The amendments in this clause are to the Young Offenders Act 1994.
 (2) Section 179(1) is amended in the definition of “medical officer” by deleting “Medical Act 1894;” and inserting instead —
 “ Medical Practitioners Act 2008; ”.
+”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 41 had not come into operation. It reads as follows:
+“
+41.Young Offenders Act 1994
+(1) The amendments in this section are to the Young Offenders Act 1994.
+(2) Section 179(6) is repealed and the following subsection is inserted instead —
+“
+(6) If the detainee is a person —
+(a) who is undergoing a sentence of imprisonment for life; or
+(b) whose release is to be determined by the Governor,
+the superintendent is to give the chief executive officer notice when the detainee is removed from or returned to a detention centre under an order made under this section.
+”.
+(3) Section 189(1) is repealed and the following subsection is inserted instead —
+“
+(1) This section does not apply to, or in relation to, a person convicted of murder, attempt to murder or manslaughter.
+”.
+(4) Schedule 1 item 1 is amended as follows:
+(a) in the entry relating to section 125, by deleting “with strict security life imprisonment, or”;
+(b) in the entry relating to section 134, by deleting “to strict security life imprisonment or”;
+(c) in the entry relating to section 144, by deleting “Forcibly rescuing offenders sentenced or liable to strict security life imprisonment” and inserting instead —
+“ Forcibly freeing certain offenders from custody ”;
+(d) by deleting the entry relating to section 281A.
+(5) Schedule 2 item 1 is amended by deleting the entries relating to sections 278, 279 and 280 and inserting instead —
+“
+s. 279Murder
+s. 280Manslaughter
+s. 281Unlawful assault causing death
 ”.
 ”.
