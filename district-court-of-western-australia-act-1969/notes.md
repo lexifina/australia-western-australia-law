@@ -56,6 +56,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Legal Profession Act 2008 s. 660 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Criminal Law Amendment (Homicide) Act 2008 s. 31 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
@@ -176,4 +177,10 @@ costs determination (as defined in the Legal Profession Act 2008 section 252)
 “
 costs determination (as defined in the Legal Profession Act 2008 section 252)
 ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 31 had not come into operation. It reads as follows:
+“
+31.District Court of Western Australia Act 1969
+(1) The amendment in this section is to the District Court of Western Australia Act 1969.
+(2) Section 42(2) is amended by deleting “or strict security life imprisonment”.
 ”.
