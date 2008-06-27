@@ -13,6 +13,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
+Criminal Law Amendment (Homicide) Act 2008 s. 28 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 Section 95 of this Act gave effect to Sch. 1 which set out some temporary provisions relating to obtaining and using identifying particulars of people in custody and others. These provisions ceased to have effect on 29 June 2005.
 On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 15, had not come into operation. It reads as follows:
 “
@@ -26,4 +27,11 @@ Schedule 3 — Consequential amendments
 (1) The amendments in this clause are to the Criminal Investigation (Identifying People) Act 2002.
 (2) Section 52 is amended in the definition of “doctor” by deleting “Medical Act 1894;” and inserting instead —
 “ Medical Practitioners Act 2008; ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 28 had not come into operation. It reads as follows:
+“
+28.Criminal Investigation (Identifying People) Act 2002
+(1) The amendments in this section are to the Criminal Investigation (Identifying People) Act 2002.
+(2) Section 3(1) is amended in the definition of “serious offence” by deleting “strict security life imprisonment,” and inserting instead —
+“ or includes ”.
 ”.
