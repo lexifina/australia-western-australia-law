@@ -10,6 +10,7 @@ Short title | Number and year | Assent | Commencement
 Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 | 72 of 2004 | 8 Dec 2004 | s. 12 and Sch. 3: to be proclaimed
 Acts Amendment (Justice) Act 2008 s. 127 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Prostitution Amendment Act 2008 s. 29 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Criminal Law Amendment (Homicide) Act 2008 s. 25 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 had not come into operation. They read as follows:
 “
 12.Class 3 offences
@@ -52,4 +53,14 @@ Sexual Services Act 2000
 s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
 s. 17 | Obtaining payment for commercial sexual act by a child
 ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 25 had not come into operation. It reads as follows:
+“
+25.Community Protection (Offender Reporting) Act 2004
+(1) The amendments in this section are to the Community Protection (Offender Reporting) Act 2004.
+(2) Schedule 1 is amended by deleting the entry relating to The Criminal Code section 278.
+(3) Schedule 1 is amended as follows:
+(a) in the entry relating to The Criminal Code section 279, by deleting “(as read with s. 282)”;
+(b) by deleting the entry relating to The Criminal Code section 281A.
+(4) Schedule 3 is amended in the entry relating to The Criminal Code section 279, by deleting “(as read with s. 282)”.
 ”.
