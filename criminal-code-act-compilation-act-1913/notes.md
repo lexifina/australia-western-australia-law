@@ -152,7 +152,8 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 s. 129 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 3 | 25 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
+Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 4 | 25 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
+Criminal Law Amendment (Homicide) Act 2008 Pt. 2 and s. 27 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 The Criminal Code Amendment Act (No. 2) 1996 s. 4(3) is a transitional provision.
@@ -229,4 +230,222 @@ Section 265 is amended by inserting after “treatment” —
 20.Section 275 amended
 Section 275 is amended by deleting “treatment, and” and inserting instead —
 “ treatment (including palliative care), and ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 Pt. 2 and s. 27 had not come into operation. They read as follows:
+“
+Part 2 — The Criminal Code amended
+Division 1 — Preliminary matters
+3.Code amended in this Part
+The amendments in this Part are to The Criminal Code.
+Division 2 — General amendments
+4.Section 23 replaced by sections 23, 23A and 23B
+Section 23 is repealed and the following sections are inserted instead —
+“
+23.Intention and motive
+(1) Unless the intention to cause a particular result is expressly declared to be an element of the offence constituted, in whole or part, by an act or omission, the result intended to be caused by an act or omission is immaterial.
+(2) Unless otherwise expressly declared, the motive by which a person is induced to do or omit to do an act, or to form an intention, is immaterial so far as regards criminal responsibility.
+23A.Unwilled acts and omissions
+(1) This section is subject to the provisions in Chapter XXVII relating to negligent acts and omissions.
+(2) A person is not criminally responsible for an act or omission which occurs independently of the exercise of the person’s will.
+23B.Accident
+(1) This section is subject to the provisions in Chapter XXVII relating to negligent acts and omissions.
+(2) A person is not criminally responsible for an event which occurs by accident.
+(3) If death or grievous bodily harm —
+(a) is directly caused to a victim by another person’s act that involves a deliberate use of force; but
+(b) would not have occurred but for an abnormality, defect or weakness in the victim,
+the other person is not, for that reason alone, excused from criminal responsibility for the death or grievous bodily harm.
+(4) Subsection (3) applies —
+(a) even if the other person did not intend or foresee the death or grievous bodily harm; and
+(b) even if the death or grievous bodily harm was not reasonably foreseeable.
+”.
+Division 3 — Amendments about defences
+5.Section 25 replaced
+Section 25 is repealed and the following section is inserted instead —
+“
+25.Emergency
+(1) This section does not apply if section 32, 246, 247 or 248 applies.
+(2) A person is not criminally responsible for an act done, or an omission made, in an emergency under subsection (3).
+(3) A person does an act or makes an omission in an emergency if —
+(a) the person believes —
+(i) circumstances of sudden or extraordinary emergency exist; and
+(ii) doing the act or making the omission is a necessary response to the emergency;
+and
+(b) the act or omission is a reasonable response to the emergency in the circumstances as the person believes them to be; and
+(c) there are reasonable grounds for those beliefs.
+”.
+6.Section 31 replaced by sections 31 and 32
+Section 31 is repealed and the following sections are inserted instead —
+“
+31.Lawful authority
+(1) A person is not criminally responsible for an act done, or an omission made, in any of the following circumstances —
+(a) in execution of the law;
+(b) in obedience to the order of a competent authority which the person is bound by law to obey, unless the order is manifestly unlawful.
+(2) Whether an order is or is not manifestly unlawful is a question of law.
+32.Duress
+(1) A person is not criminally responsible for an act done, or an omission made, under duress under subsection (2).
+(2) A person does an act or makes an omission under duress if —
+(a) the person believes —
+(i) a threat has been made; and
+(ii) the threat will be carried out unless an offence is committed; and
+(iii) doing the act or making the omission is necessary to prevent the threat from being carried out;
+and
+(b) the act or omission is a reasonable response to the threat in the circumstances as the person believes them to be; and
+(c) there are reasonable grounds for those beliefs.
+(3) Subsections (1) and (2) do not apply if the threat is made by or on behalf of a person with whom the person under duress is voluntarily associating for the purpose of —
+(a) doing an act or making an omission of the kind in fact done or made by the person under duress; or
+(b) prosecuting an unlawful purpose in which it is reasonably foreseeable such a threat would be made.
+”.
+7.Section 244 amended
+(1) After section 244(1) the following subsection is inserted —
+“
+(1A) Despite subsection (1), it is not lawful for the occupant to use force that is intended, or that is likely, to cause death to a home invader unless the occupant believes, on reasonable grounds, that violence is being or is likely to be used or is threatened in relation to a person by a home invader.
+”.
+(2) Section 244(4) is repealed and the following subsection is inserted instead —
+“
+(4) If under subsection (1)(c) it is lawful for the occupant to use a degree of force, it is lawful for another person acting in good faith in aid of the occupant to use the same degree of force to defend the occupant.
+”.
+8.Sections 248, 249 and 250 replaced by section 248
+Sections 248, 249 and 250 are repealed and the following section is inserted instead —
+“
+248.Self-defence
+(1) In this section —
+“harmful act” means an act that is an element of an offence under this Part other than Chapter XXXV.
+(2) A harmful act done by a person is lawful if the act is done in self-defence under subsection (4).
+(3) If —
+(a) a person unlawfully kills another person in circumstances which, but for this section, would constitute murder; and
+(b) the person’s act that causes the other person’s death would be an act done in self-defence under subsection (4) but for the fact that the act is not a reasonable response by the person in the circumstances as the person believes them to be,
+the person is guilty of manslaughter and not murder.
+(4) A person’s harmful act is done in self-defence if —
+(a) the person believes the act is necessary to defend the person or another person from a harmful act, including a harmful act that is not imminent; and
+(b) the person’s harmful act is a reasonable response by the person in the circumstances as the person believes them to be; and
+(c) there are reasonable grounds for those beliefs.
+(5) A person’s harmful act is not done in self-defence if it is done to defend the person or another person from a harmful act that is lawful.
+(6) For the purposes of subsection (5), a harmful act is not lawful merely because the person doing it is not criminally responsible for it.
+”.
+9.Section 441 amended
+(1) Section 441 is amended as follows:
+(a) by inserting before “An Act” the subsection designation “(1)”;
+(b) by inserting before “It is immaterial” the subsection designation “(2)”;
+(c) by repealing the third paragraph.
+(2) At the end of section 441 the following subsection is inserted —
+“
+(3) A person is not criminally responsible for an act that causes an injury to property if —
+(a) the person believes the act is necessary to defend or protect the person, another person or property from injury that the person believes is imminent; and
+(b) the act is a reasonable response by the person in the circumstances as the person believes them to be; and
+(c) there are reasonable grounds for those beliefs.
+”.
+Division 4 — Amendments about homicide
+10.Sections 278, 279 and 282 replaced by section 279
+Sections 278, 279 and 282 are repealed and the following section is inserted instead —
+“
+279.Murder
+(1) If a person unlawfully kills another person and —
+(a) the person intends to cause the death of the person killed or another person; or
+(b) the person intends to cause a bodily injury of such a nature as to endanger, or be likely to endanger, the life of the person killed or another person; or
+(c) the death is caused by means of an act done in the prosecution of an unlawful purpose, which act is of such a nature as to be likely to endanger human life,
+the person is guilty of murder.
+Alternative offence: s. 280, 281, 283, 284, 290 or 291 or Road Traffic Act 1974 s. 59.
+(2) For the purposes of subsection (1)(a) and (b), it is immaterial that the person did not intend to hurt the person killed.
+(3) For the purposes of subsection (1)(c), it is immaterial that the person did not intend to hurt any person.
+(4) A person, other than a child, who is guilty of murder must be sentenced to life imprisonment unless —
+(a) that sentence would be clearly unjust given the circumstances of the offence and the person; and
+(b) the person is unlikely to be a threat to the safety of the community when released from imprisonment,
+in which case the person is liable to imprisonment for 20 years.
+(5) A child who is guilty of murder is liable to either —
+(a) life imprisonment; or
+(b) detention in a place determined from time to time by the Governor or under another written law until released by order of the Governor.
+(6) A court that does not sentence a person guilty of murder to life imprisonment must give written reasons why life imprisonment was not imposed.
+”.
+11.Sections 280 and 287 replaced by section 280
+Sections 280 and 287 are repealed and the following section is inserted instead —
+“
+280.Manslaughter
+If a person unlawfully kills another person under such circumstances as not to constitute murder, the person is guilty of manslaughter and is liable to imprisonment for 20 years.
+Alternative offence: s. 281, 284, 290, 291 or 294 or Road Traffic Act 1974 s. 59.
+”.
+12.Section 281 replaced
+Section 281 is repealed and the following section is inserted instead —
+“
+281.Unlawful assault causing death
+(1) If a person unlawfully assaults another who dies as a direct or indirect result of the assault, the person is guilty of a crime and is liable to imprisonment for 10 years.
+(2) A person is criminally responsible under subsection (1) even if the person does not intend or foresee the death of the other person and even if the death was not reasonably foreseeable.
+”.
+13.Sections 281A and 287A repealed
+Sections 281A and 287A are repealed.
+14.Section 284 inserted
+After section 283 the following section is inserted —
+“
+284.Culpable driving (other than of motor vehicle) causing death or grievous bodily harm
+(1) In this section —
+“conveyance” does not include a motor vehicle;
+“drive” a conveyance, includes to pilot an aircraft and to navigate a vessel.
+(2) For the purposes of this section a person culpably drives a conveyance if the person drives the conveyance in a manner (including at a speed) that, having regard to all the circumstances of the case, is dangerous to any person.
+(3) If —
+(a) a person culpably drives a conveyance; and
+(b) the conveyance is involved in an incident that directly or indirectly causes the death of, or grievous bodily harm to, another person,
+the person is guilty of a crime and is liable to imprisonment for —
+(c) if death is caused, 10 years; or
+(d) if grievous bodily harm is caused, 7 years.
+Summary conviction penalty: imprisonment for 3 years and a fine of $36 000.
+(4) A court convicting a person of an offence under this section that involves the navigation of a vessel must make an order under the Sentencing Act 1995 section 107(1) for a term of at least 2 years.
+”.
+Division 5 — Consequential amendments
+15.Section 144 replaced
+Section 144 is repealed and the following section is inserted instead —
+“
+144.Forcibly freeing certain offenders from custody
+Any person who forcibly frees, or attempts to free, from lawful custody any person serving a sentence for, or charged with, an offence that is punishable with imprisonment for life, or for 20 years or more, is guilty of a crime and is liable to imprisonment for 20 years.
+”.
+16.Small amendments
+(1) Section 47(1) is amended by deleting “commit any crime punishable with strict security life imprisonment” and inserting instead —
+“ kill any person ”.
+(2) Section 48(1)(b) is deleted and the following paragraph is inserted instead —
+“
+(b) To commit any indictable offence other than one entailing the killing of a person;
+”.
+(3) Section 125 is amended by deleting “with strict security life imprisonment, or”.
+(4) Section 134 is amended by deleting “to strict security life imprisonment or”.
+(5) Section 277 is amended by deleting “wilful murder, murder, manslaughter, or infanticide.” and inserting instead —
+“ murder or manslaughter. ”.
+(6) Section 283 is amended by deleting “or, if the person commits the offence in circumstances that, had the other person died, would constitute the crime of infanticide, to imprisonment for 7 years”.
+17.Sections 739 and 740 and Schedule 1 inserted
+After section 738 the following is inserted —
+“
+739.Review of law of homicide
+(1) The Minister must carry out a review of the operation and effectiveness of the amendments to this Code and the Sentencing Act 1995 made by the Criminal Law Amendment (Homicide) Act 2008 as soon as is practicable after the fifth anniversary of the commencement of section 17 of that Act.
+(2) The Minister must prepare a report based on the review and, as soon as is practicable after the report is prepared, cause it to be laid before each House of Parliament.
+740.Transitional provisions
+Schedule 1 sets out transitional provisions.
+Schedule 1 — Transitional provisions
+[s. 740]
+1.Terms used in this Schedule
+In this Schedule —
+“amendment Act” means the Criminal Law Amendment (Homicide) Act 2008;
+“commencement” means the day on which the amendment Act, other than Part 1, comes into operation.
+2.Acts or omissions committed before commencement
+(1) In this clause —
+“unamended Code” means this Code as if it had not been amended by the amendment Act.
+(2) Despite section 11, if a person does an act or makes an omission before commencement that is an element of or constitutes an offence under the unamended Code, then after commencement this Code applies to and in respect of the person and the act or omission as if it had not been amended by the amendment Act.
+(3) Despite subclause (2) and the Sentencing Act 1995 section 10, if —
+(a) a person is convicted of murder or wilful murder under the unamended Code before commencement but is not sentenced for the offence before commencement; or
+(b) a person is convicted of murder or wilful murder under the unamended Code as it applies under subclause (2),
+the person must be sentenced under section 279(4) to (6) as inserted by the amendment Act as if he or she had been convicted of murder under section 279(1) as inserted by that Act.
+3.Offenders serving life term at commencement
+(1) If immediately before commencement a person is serving a sentence of life imprisonment for an offence other than murder or wilful murder, the person is eligible to be released on parole when he or she has served 7 years of the sentence.
+(2) If immediately before commencement a person is serving a sentence of life imprisonment for murder or wilful murder in respect of which a minimum period was set under the Sentencing Act 1995 section 90 as it was before commencement, the person must not be released before he or she has served that minimum period.
+(3) If immediately before commencement a person is serving a sentence of strict security life imprisonment in respect of which a minimum period was set under the Sentencing Act 1995 section 91(1) as it was before commencement, the person must not be released before he or she has served that minimum period.
+(4) If immediately before commencement a person is serving a sentence of strict security life imprisonment in respect of which an order was made under the Sentencing Act 1995 section 91(3) as it was before commencement, the person must not be released on parole.
+(5) Any order for the release of a person to whom this clause applies must be made in accordance with the Sentence Administration Act 2003 Part 3.
+(6) If immediately before commencement a person is serving a sentence of strict security life imprisonment, any order made after commencement in relation to the person in the exercise of the Royal Prerogative of Mercy is subject to the Sentencing Act 1995 section 142 as it was immediately before commencement.
+(7) If immediately before commencement a person is serving a sentence of —
+(a) life imprisonment imposed for murder or wilful murder; or
+(b) strict security life imprisonment imposed for wilful murder,
+then the Sentence Administration Act 2003 sections 12A, 25 and 26 as they were immediately before commencement continue to apply to and in respect of the person.
+”.
+27.Criminal Code Act 1913
+(1) The amendment in this section is to the Criminal Code Act 1913.
+(2) Section 3(2) is amended by deleting “the crimes of wilful murder, and murder, and each of them:” and inserting instead —
+“
+include the crime that was called wilful murder under the Code as it was before the commencement of the Criminal Law Amendment (Homicide) Act 2008:
+”.
 ”.
