@@ -50,6 +50,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
+Criminal Law Amendment (Homicide) Act 2008 s. 36 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
 Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference to the Western Australian Prisons Department was, unless the contrary intention appears, to be read and construed as a reference to the Department of Justice.
@@ -94,4 +95,22 @@ Schedule 3 — Consequential amendments
 “ Medical Practitioners Act 2008; and ”.
 (3) Section 46 is amended by deleting “Medical Act 1894” and inserting instead —
 “ Medical Practitioners Act 2008 ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 36 had not come into operation. It reads as follows:
+“
+36.Prisons Act 1981
+(1) The amendments in this section are to the Prisons Act 1981.
+(2) Section 16(6) is repealed and the following subsection is inserted instead —
+“
+(6) Subsection (5) does not apply in respect of a prisoner —
+(a) who is serving a sentence that requires him or her to spend —
+(i) 20 years or more in custody before being eligible for parole; or
+(ii) his or her whole life in custody;
+or
+(b) whose release is to be determined by the Governor.
+”.
+(3) Section 26(2) is amended by inserting after “life imprisonment” —
+“
+or a sentence of life imprisonment in respect of which an order has been made under section 90(1)(b) of the Sentencing Act 1995
+”.
 ”.
