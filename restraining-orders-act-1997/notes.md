@@ -22,6 +22,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 Pt. 19 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Legal Profession Act 2008 s. 699 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+ | Criminal Law Amendment (Homicide) Act 2008 s. 37 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 Part 9 contained transitional provisions relating to orders to keep the peace in force under the Justices Act 1902 when this Act came into operation.
 The Courts Legislation Amendment and Repeal Act 2004 s. 123 (the amendment to s. 67(2)) and s. 124 (the amendment to s. 4(a)) were repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(3) and (4).
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 19 had not come into operation. It reads as follows:
@@ -166,5 +167,12 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (2) Section 62(2) is amended by deleting the definition of “legal practitioner” and inserting instead —
 “
 “legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3.
+”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 37 had not come into operation. It reads as follows:
+“
+37.Restraining Orders Act 1997
+(1) The amendment in this section is to the Restraining Orders Act 1997.
+(2) Section 63B(3) is amended in the definition of “violent personal offence” paragraph (a) by deleting “(other than infanticide)”.
 ”.
 ”.
