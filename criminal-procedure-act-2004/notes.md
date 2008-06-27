@@ -11,6 +11,7 @@ Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 Pt. 9 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Bail Amendment Act 2008 s. 45 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2)
 Legal Profession Act 2008 s. 657 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Criminal Law Amendment (Homicide) Act 2008 s. 30 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 657 had not come into operation. It reads as follows:
 “
 657.Criminal Procedure Act 2004 amended
@@ -118,4 +119,10 @@ On the date as at which this compilation was prepared, the Bail Amendment Act 20
 “ , 31A ”.
 (3) Schedule 4 clause 4(3) is amended by inserting after “sections” —
 “ 51A, ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 30 had not come into operation. It reads as follows:
+“
+30.Criminal Procedure Act 2004
+(1) The amendment in this section is to the Criminal Procedure Act 2004.
+(2) Section 114(4) is amended by deleting “wilful murder or”.
 ”.
