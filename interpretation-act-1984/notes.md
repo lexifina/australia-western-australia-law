@@ -43,5 +43,25 @@ Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 
 Land Information Authority Act 2006 s. 183 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 6: The Interpretation Act 1984 as at 25 May 2007 (includes amendments listed above except the amendments in the Criminal Investigation (Consequential Provisions) Act 2006 s. 73)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Criminal Law Amendment (Homicide) Act 2008 s. 35 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 Now see the Public Sector Management Act 1994.
 The Sunday Observance Laws Amendment and Repeal Act 1997 s. 4(2) is a transitional provision that is of no further effect.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 35 had not come into operation. It reads as follows:
+“
+35.Interpretation Act 1984
+(1) The amendments in this section are to the Interpretation Act 1984.
+(2) Section 5 is amended by inserting in the appropriate alphabetical position —
+“
+“death” of a person, has a meaning affected by section 13C;
+”.
+(3) After section 13B the following section is inserted —
+“
+13C.When death of a person occurs
+For the purposes of the law of this State, a person dies when there occurs —
+(a) irreversible cessation of all function of the person’s brain; or
+(b) irreversible cessation of circulation of blood in the person’s body.
+”.
+”.
