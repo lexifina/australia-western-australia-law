@@ -53,6 +53,7 @@ Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Acts Amendment (Justice) Act 2008 Pt. 20 and 21 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
+Criminal Law Amendment (Homicide) Act 2008 Pt. 3 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
@@ -253,5 +254,59 @@ Schedule 3 — Consequential amendments
 (2) Schedule 1 is amended by deleting the item relating to the “Medical Act 1894” and inserting instead —
 “
 Medical Practitioners Act 2008 | Medical Board of Western Australia
+”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 Pt. 3 had not come into operation. It reads as follows:
+“
+Part 3 — Sentencing Act 1995 amended
+18.Act amended in this Part
+The amendments in this Part are to the Sentencing Act 1995.
+19.Sections 90 and 91 replaced by section 90
+Sections 90 and 91 are repealed and the following section is inserted instead —
+“
+90.Imposing life imprisonment for murder
+(1) A court that sentences an offender to life imprisonment for murder must either —
+(a) set a minimum period of at least 10 years that the offender must serve before being eligible for release on parole; or
+(b) order that the offender must never be released.
+(2) Any minimum period so set begins to run when the sentence of life imprisonment begins.
+(3) A court must make an order under subsection (1)(b) if it is necessary to do so in order to meet the community’s interest in punishment and deterrence.
+(4) In determining whether an offence is one for which an order under subsection (1)(b) is necessary, the only matters relating to the offence that are to be taken into account are —
+(a) the circumstances of the commission of the offence; and
+(b) any aggravating factors.
+”.
+20.Section 96 replaced
+Section 96 is repealed and the following section is inserted instead —
+“
+96.Release from life imprisonment
+(1) A prisoner serving a sentence of life imprisonment for an offence other than murder is not to be released before he or she has served 7 years of the sentence.
+(2) A prisoner serving a sentence of life imprisonment for murder in respect of which a minimum period has been set under section 90(1)(a) is not to be released before he or she has served the minimum period.
+(3) A prisoner serving a sentence of life imprisonment for murder in respect of which an order has been made under section 90(1)(b) is not to be released.
+(4) Any order for the release of a prisoner referred to in this section must be made in accordance with Part 3 of the Sentence Administration Act 2003.
+”.
+21.Section 107 amended
+(1) Section 107(1) is amended by deleting “certificate of competency, or a particular certificate of competency, under the Western Australian Marine Act 1982.” and inserting instead —
+“ marine qualification or a particular marine qualification. ”.
+(2) Section 107(3) is amended by deleting “certificate” and inserting instead —
+“ marine qualification ”.
+(3) Section 107(5) is amended by inserting in the appropriate alphabetical position —
+“
+“marine qualification” means a certificate of competency or any other qualification issued to a person under the Western Australian Marine Act 1982 in relation to navigating or operating a vessel;
+”.
+22.Consequential amendments
+(1) Section 85(1) is amended as follows:
+(a) in the definition of “fixed term” by deleting “a life term” and inserting instead —
+“ life imprisonment ”;
+(b) by deleting the definition of “life term”;
+(c) in the definition of “term” by deleting “a life term” and inserting instead —
+“ life imprisonment ”;
+(d) in the definition of “term” by deleting paragraph (a) and “or” after it and inserting the following instead —
+“
+(a)detention under a sentence imposed under section 279(5)(b) of The Criminal Code; or
+”.
+(2) Section 88(5) is amended by deleting “a life term is to serve that term” and inserting instead —
+“ life imprisonment is to serve that sentence ”.
+(3) Section 142 is amended by deleting “sentenced to strict security life imprisonment” and inserting instead —
+“
+serving a sentence of life imprisonment in respect of which an order has been made under section 90(1)(b)
 ”.
 ”.
