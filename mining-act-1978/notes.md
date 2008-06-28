@@ -64,6 +64,7 @@ Mining Amendment Act 2005 | 27 of 2005 | 12 Dec 2005 | 10 Feb 2006 (see s. 2 and
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 6: The Mining Act 1978 as at 10 Apr 2006 (includes amendments listed above except those in the Mining Legislation Amendment and Validation Act 2008 Pt. 2)
 Petroleum Amendment Act 2007 s. 100 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
+Revenue Laws Amendment Act (No. 2) 2008 Pt. 2 Div. 2 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

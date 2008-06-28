@@ -23,6 +23,7 @@ Residential Parks (Long-stay Tenants) Act 2006 s. 98 | 32 of 2006 | 4 Jul 2006 |
 Reprint 2: The Rates and Charges (Rebates and Deferments) Act 1992 as at 22 Sep 2006 (includes amendments listed above except those in the Residential Parks (Long-stay Tenants) Act 2006)
 Financial Legislation Amendment and Repeal Act 2006 s. 8 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Revenue Laws Amendment (Assessment) Act 2007 Pt. 2 | 13 of 2007 | 29 Jun 2007 | Div. 1 & 2: 30 Jun 2007 (see s. 2(b)); Div. 3: 1 Jul 2007 (see s. 2(c)(i))
+Revenue Laws Amendment Act (No. 2) 2008 s. 35 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 Repealed by s. 51(1) of this Act.

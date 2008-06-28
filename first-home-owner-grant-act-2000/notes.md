@@ -13,6 +13,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 1: The First Home Owner Grant Act 2000 as at 3 Jun 2005 (includes amendments listed above)
 First Home Owner Grant Amendment Act 2005 | 26 of 2005 | 12 Dec 2005 | Act other than s. 4: 12 Dec 2005 (see s. 2(1)); s. 4: 1 Jul 2000 (see s. 2(2))
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Revenue Laws Amendment Act (No. 2) 2008 s. 33 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 The First Home Owner Grant Amendment Act 2001 s. 7 reads as follows:
 “
 7.Saving of right to object
@@ -23,12 +24,12 @@ The First Home Owner Grant Amendment Act 2001 s. 7 reads as follows:
 (b)the day on which the First Home Owner Grant Amendment Act 2001 received the Royal Assent.
 ”.
 (2) In subsection (1) —
-“eligible transaction”, “first home owner grant” and “special eligible transaction” each has the same meaning as it has in the First Home Owner Grant Act 2000, as amended by this Act.
+eligible transaction, first home owner grant and special eligible transaction each has the same meaning as it has in the First Home Owner Grant Act 2000, as amended by this Act.
 ”.
 The First Home Owner Grant Amendment Act 2003 s. 10 reads as follows:
 “
 10.Saving of right to object
-(1) Section 28 (the “relevant section”) of the First Home Owner Grant Act 2000 applies in relation to an application for a first home owner grant for an eligible transaction that is —
+(1) Section 28 (the relevant section) of the First Home Owner Grant Act 2000 applies in relation to an application for a first home owner grant for an eligible transaction that is —
 (a) a class 1 eligible transaction, but only to the extent that the objection referred to in the relevant section relates to a date referred to in section 14B(5)(a) of that Act;
 (b) a class 2 eligible transaction, but only to the extent that the objection referred to in the relevant section relates to —
 (i) a period referred to in section 14B(1a)(b) of that Act; or
@@ -42,8 +43,8 @@ as if subsection (1) of the relevant section were repealed and the following sub
 (b)the day on which the First Home Owner Grant Amendment Act 2003 received the Royal Assent.
 ”.
 (2) In subsection (1) —
-“class 1 eligible transaction”, “class 2 eligible transaction”, “class 3 eligible transaction”, “eligible transaction” and “first home owner grant” each has the same meaning as it has in the First Home Owner Grant Act 2000;
-“First Home Owner Grant Act 2000” means that Act as amended by this Act.
+class 1 eligible transaction, class 2 eligible transaction, class 3 eligible transaction, eligible transaction and first home owner grant each has the same meaning as it has in the First Home Owner Grant Act 2000;
+First Home Owner Grant Act 2000 means that Act as amended by this Act.
 ”.
 The First Home Owner Grant Amendment Act 2004 Pt. 3 reads as follows:
 “
@@ -63,9 +64,9 @@ Part 3 — Transitional provisions
 Division 1 — First home owner grant
 5.Terms used in this Division
 (1) In this Division —
-“commencement day” means the day on which this Act receives the Royal Assent;
-“FHOG Act” means the First Home Owner Grant Act 2000;
-“relevant eligible transaction” means an eligible transaction —
+commencement day means the day on which this Act receives the Royal Assent;
+FHOG Act means the First Home Owner Grant Act 2000;
+relevant eligible transaction means an eligible transaction —
 (a)relating to a relevant interest in land that is a licence or right of occupancy granted by a local government, as described in the FHOG Act section 6(1)(f) (as amended by this Act); and
 (b)the commencement date of which is on or before the commencement day.
 (2) A term used in this Division that is defined in the FHOG Act has the same meaning in this Division as it has in that Act.
@@ -87,11 +88,11 @@ The amendments to the FHOG Act effected by section 4 do not affect the validity 
 Division 2 — Stamp duty
 9.Terms used in this Division
 (1) In this Division —
-“commencement day” means the day on which this Act receives the Royal Assent;
-“relevant instrument of transfer” means an instrument of transfer —
+commencement day means the day on which this Act receives the Royal Assent;
+relevant instrument of transfer means an instrument of transfer —
 (a)relating to a relevant interest in land that is a licence or right of occupancy granted by a local government, as described in the First Home Owner Grant Act 2000 section 6(1)(f) (as amended by this Act); and
 (b)executed not before 1 July 2004 and not after the commencement day;
-“section 75AG” means the Stamp Act 1921 section 75AG.
+section 75AG means the Stamp Act 1921 section 75AG.
 (2) A term used in this Division that is defined in section 75AG has the same meaning in this Division as it has in that section.
 10.Assessment of duty under Stamp Act 1921 section 75AG for transfers relating to certain first home owners
 If an application is made to the Commissioner under section 75AG for the amount of duty chargeable on a relevant instrument of transfer to be assessed under that section, section 75AG applies to the application as if subsection (4) of that section were repealed and the following subsection were inserted instead —
