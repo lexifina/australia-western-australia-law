@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 May 2008 of the Petroleum and Geothermal Energy Resources Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum and Geothermal Energy Resources Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum Act 1967 | 72 of 1967 | 11 Dec 1967 | 5 Sep 1969 (see s. 2 and Gazette 5 Sep 1969 p. 2540)
@@ -31,6 +31,7 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Reprint 4: The Petroleum Act 1967 as at 13 Apr 2007 (includes amendments listed above)
 Petroleum Amendment Act 2007 Pt. 2 Div. 1 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Reprint 5: The Petroleum and Geothermal Energy Resources Act 1967 as at 2 May 2008 (includes amendments listed above)
+Revenue Laws Amendment Act (No. 2) 2008 s. 34 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -209,14 +210,14 @@ The amendments in this Part are to the Petroleum Act 1967.
 4.Section 5 amended
 Section 5(1) is amended by inserting in the appropriate alphabetical positions the following definitions —
 “
-“facility” means a structure for or in connection with carrying out a petroleum operation;
-“listed OSH law” means —
+facility means a structure for or in connection with carrying out a petroleum operation;
+listed OSH law means —
 (a)section 117A;
 (b)Schedule 1;
 (c)a regulation made for the purposes of Schedule 1;
 (d)a regulation made for the purposes of section 149B; or
 (e)any other written law relating to occupational safety and health matters that is prescribed for the purposes of this paragraph;
-“operator” —
+operator —
 (a)in relation to an operation to explore for petroleum or the carrying on of such operations or the execution of such works as are necessary for that purpose, in a permit area, means the registered holder of the permit for that area;
 (b)in relation to an operation to drill for petroleum or the carrying on of such operations or the execution of such works as are necessary for that purpose, in a drilling reservation area, means the registered holder of the drilling reservation for that area;
 (c)in relation to an operation to explore for petroleum or the carrying on of such operations or the execution of such works as are necessary for that purpose, in a lease area, means the registered holder of the lease for that area;
@@ -231,10 +232,10 @@ means the registered holder of the licence for that area;
 (h)in relation to the injection of petroleum into a natural underground reservoir, means a person (other than the Minister) who is a party to an agreement under section 67(1), or who has the Minister’s approval under section 67(2), in respect of that injection;
 (i)in relation to the injection of carbon dioxide, as defined in section 3 of the Barrow Island Act 2003, into an underground reservoir or other subsurface formation, means a person who has the BI Act Minister’s approval under section 13 of that Act, in respect of that injection;
 (j)in relation to any other kind of operation that is prescribed by the regulations to be a petroleum operation for the purposes of the definition of “petroleum operation”, means the person prescribed by the regulations to be the operator of such a petroleum operation for the purposes of this definition;
-“other protected person” means a person who is at or near a place where a petroleum operation is being carried on at the invitation of, or with the express or implied consent of —
+other protected person means a person who is at or near a place where a petroleum operation is being carried on at the invitation of, or with the express or implied consent of —
 (a)the operator of the petroleum operation; or
 (b)a person in control of a part of the petroleum operation;
-“petroleum operation” means —
+petroleum operation means —
 (a)an operation to explore for petroleum, and the carrying on of such operations and the execution of such works as are necessary for that purpose;
 (b)an operation to drill for petroleum, and the carrying on of such operations and the execution of such works as are necessary for that purpose;
 (c)an operation to recover petroleum, and the carrying on of such operations and the execution of such works as are necessary for that purpose;
@@ -243,7 +244,7 @@ means the registered holder of the licence for that area;
 (f)the injection of carbon dioxide, as defined in section 3 of the Barrow Island Act 2003, into an underground reservoir or other subsurface formation;
 (g)any other kind of operation that is prescribed by the regulations to be a petroleum operation for the purposes of this definition,
 but does not include an operation of a kind that is prescribed by the regulations not to be a petroleum operation for the purposes of this definition;
-“structure” means any fixed, moveable or floating structure or installation and includes a pipeline, pumping station, tank station and valve station;
+structure means any fixed, moveable or floating structure or installation and includes a pipeline, pumping station, tank station and valve station;
 ”.
 5.Section 7AA inserted
 After section 7 the following section is inserted —
@@ -253,7 +254,7 @@ After section 7 the following section is inserted —
 (a) a petroleum operation; or
 (b) a person engaged in a petroleum operation or any other protected person.
 (2) In this section —
-“prescribed occupational safety and health laws” means any laws of the State relating to occupational safety and health (whether or not they also relate to other matters) that are prescribed by the regulations for the purposes of this section.
+prescribed occupational safety and health laws means any laws of the State relating to occupational safety and health (whether or not they also relate to other matters) that are prescribed by the regulations for the purposes of this section.
 ”.
 6.Section 83 repealed
 Section 83 is repealed.
@@ -316,9 +317,9 @@ is to be taken to have been proved in the absence of evidence to the contrary.
 (c) an Australian/New Zealand Standard,
 purporting to be certified by the CEO to be a true copy as at any date or during any period is, without proof of the signature of the CEO, sufficient evidence of the contents of the code of practice or Standard as at that date or during that period.
 (4) In subsection (3) —
-“Australian Standard” means a document having that title published by Standards Australia;
-“Australian/New Zealand Standard” means a document having that title jointly published by Standards Australia and the Standards Council of New Zealand;
-“CEO” means the chief executive officer of the department of the Public Service principally assisting in the administration of this Act.
+Australian Standard means a document having that title published by Standards Australia;
+Australian/New Zealand Standard means a document having that title jointly published by Standards Australia and the Standards Council of New Zealand;
+CEO means the chief executive officer of the department of the Public Service principally assisting in the administration of this Act.
 ”.
 14.Part IIIA inserted
 After section 149 the following Part is inserted —
@@ -402,49 +403,49 @@ The following is a simplified outline of this Schedule —
 ·The operator of a petroleum operation must report to the Minister accidents and dangerous occurrences arising out of the petroleum operation.
 3.Definitions
 In this Schedule —
-“accident” includes the contraction of a disease;
-“contract” includes an arrangement or understanding;
-“contractor” has the meaning given by clause 6;
-“dangerous occurrence” means an occurrence declared by the regulations to be a dangerous occurrence for the purposes of this definition;
-“designated work group” means —
+accident includes the contraction of a disease;
+contract includes an arrangement or understanding;
+contractor has the meaning given by clause 6;
+dangerous occurrence means an occurrence declared by the regulations to be a dangerous occurrence for the purposes of this definition;
+designated work group means —
 (a)a group of members of the workforce engaged in a petroleum operation that is established as a designated work group under clause 17 or 18; or
 (b)that group as varied in accordance with clause 19 or 20;
-“employee”, in relation to an employer, means an employee of that employer;
-“employer” means an employer who carries on a petroleum operation;
-“group member”, in relation to a designated work group for a petroleum operation, means a person who is —
+employee, in relation to an employer, means an employee of that employer;
+employer means an employer who carries on a petroleum operation;
+group member, in relation to a designated work group for a petroleum operation, means a person who is —
 (a)a member of the workforce engaged in that operation; and
 (b)included in that designated work group;
-“improvement notice” means an improvement notice issued under clause 60(1);
-“inspection” means an inspection conducted under Division 4 and includes an investigation or inquiry;
-“member of the workforce”, in relation to a petroleum operation, means a natural person who is engaged in the operation, whether —
+improvement notice means an improvement notice issued under clause 60(1);
+inspection means an inspection conducted under Division 4 and includes an investigation or inquiry;
+member of the workforce, in relation to a petroleum operation, means a natural person who is engaged in the operation, whether —
 (a)as an employee of the operator or of another person; or
 (b)as a contractor of the operator or of another person;
-“operator’s representative” means a person present at a workplace in compliance with the obligations imposed on the operator by clause 4;
-“own” includes own jointly and own in part;
-“plant” includes any machinery, equipment or tool, or any component;
-“premises” includes the following —
+operator’s representative means a person present at a workplace in compliance with the obligations imposed on the operator by clause 4;
+own includes own jointly and own in part;
+plant includes any machinery, equipment or tool, or any component;
+premises includes the following —
 (a)a structure or building;
 (b)a place (whether or not enclosed or built on);
 (c)a part of a thing referred to in paragraph (a) or (b);
-“prohibition notice” means a prohibition notice issued under clause 58(1);
-“registered organisation” means an organisation —
+prohibition notice means a prohibition notice issued under clause 58(1);
+registered organisation means an organisation —
 (a)within the meaning of the Workplace Relations Act 1996 of the Commonwealth; or
 (b)as defined in section 7(1) of the Industrial Relations Act 1979;
-“regulated business premises” means —
+regulated business premises means —
 (a)a place where a petroleum operation is carried on; or
 (b)premises that are —
 (i)occupied by a person who is the operator of a petroleum operation; and
 (ii)used, or proposed to be used, wholly or principally in connection with a petroleum operation;
-“regulations” means regulations made for the purposes of this Schedule;
-“Tribunal” has the meaning given to that term in the Occupational Safety and Health Act 1984 section 51G(2);
-“work” means work that is directly or indirectly related to a petroleum operation;
-“workforce representative” means —
+regulations means regulations made for the purposes of this Schedule;
+Tribunal has the meaning given to that term in the Occupational Safety and Health Act 1984 section 51G(2);
+work means work that is directly or indirectly related to a petroleum operation;
+workforce representative means —
 (a)in relation to a person who is a member of the workforce engaged in a petroleum operation — a registered organisation of which that person is a member, if the person is qualified to be a member of that organisation because of the work the person performs in relation to the petroleum operation; or
 (b)in relation to a designated work group or a proposed designated work group — a registered organisation of which a person who is, or who is likely to be, in the work group is a member, if the person is qualified to be a member of that organisation because of the work the person performs, or will perform, in relation to the petroleum operation as a member of the group;
-“work group employer”, in relation to a designated work group in relation to a petroleum operation, means an employer of one or more group members, but does not include the operator of the petroleum operation;
-“workplace”, in relation to a petroleum operation, means the whole place where the petroleum operation is carried on or any part of a place where the petroleum operation is carried on.
+work group employer, in relation to a designated work group in relation to a petroleum operation, means an employer of one or more group members, but does not include the operator of the petroleum operation;
+workplace, in relation to a petroleum operation, means the whole place where the petroleum operation is carried on or any part of a place where the petroleum operation is carried on.
 4.Operator must ensure presence of operator’s representative
-(1) The operator of a petroleum operation must ensure that, at all times when one or more natural persons are engaged in the petroleum operation, there is present at the workplace a natural person (the “operator’s representative”) who has day to day management and control of the petroleum operation.
+(1) The operator of a petroleum operation must ensure that, at all times when one or more natural persons are engaged in the petroleum operation, there is present at the workplace a natural person (the operator’s representative) who has day to day management and control of the petroleum operation.
 Penalty: $5 500.
 (2) The operator of a petroleum operation must ensure that the name of the operator’s representative is displayed in a prominent place at the workplace.
 Penalty:$5 500.
@@ -452,7 +453,7 @@ Penalty:$5 500.
 5.Safety and health of persons using an accommodation amenity
 For the avoidance of doubt, a reference in this Schedule to the occupational safety and health of a person includes a reference to the safety and health of a person using an accommodation amenity provided for the accommodation of persons engaged in a petroleum operation.
 6.Contractor
-For the purposes of this Schedule, a natural person is taken to be a “contractor” of another person (the “relevant person”) if the natural person is engaged in a petroleum operation under a contract for services between —
+For the purposes of this Schedule, a natural person is taken to be a “contractor” of another person (the relevant person) if the natural person is engaged in a petroleum operation under a contract for services between —
 (a) the relevant person; and
 (b) either —
 (i) the natural person; or
@@ -557,9 +558,9 @@ adequate written information, in connection with the use of the facility, plant 
 (v) the steps that need to be taken in order to eliminate that risk; and
 (vi) in the case of a substance — the first aid and medical procedures that should be followed if the condition of the substance causes injury to a member of the workforce engaged in a petroleum operation.
 Penalty:$22 000.
-(2) For the purposes of subclause (1), if a person (the “ostensible supplier”) supplies to a person either a facility, or any plant or substance, that is for use by members of the workforce engaged in a petroleum operation, and the ostensible supplier —
+(2) For the purposes of subclause (1), if a person (the ostensible supplier) supplies to a person either a facility, or any plant or substance, that is for use by members of the workforce engaged in a petroleum operation, and the ostensible supplier —
 (a) carries on the business of financing the acquisition or the use of goods by other persons;
-(b) has, in the course of that business, acquired an interest in the facility, or in the plant or substance, from another person (the “actual supplier”), solely for the purpose of financing its acquisition by, or its provision to, the person to whom it is finally supplied; and
+(b) has, in the course of that business, acquired an interest in the facility, or in the plant or substance, from another person (the actual supplier), solely for the purpose of financing its acquisition by, or its provision to, the person to whom it is finally supplied; and
 (c) has not taken possession of the facility, plant or substance, or has taken possession of the facility, plant or substance solely for the purpose of passing possession of the facility, plant or substance to the person to whom it is finally supplied,
 a reference in subclause (1) to a supplier is, in relation to the facility, plant or substance referred to in this subclause, to be read as a reference to the actual supplier and not as a reference to the ostensible supplier.
 (3) This clause does not affect the operation of any other law of this State that imposes an obligation in respect of the sale or supply of goods or in respect of the information to be supplied in relation to goods.
@@ -574,7 +575,7 @@ Penalty:$22 000.
 (ii) the safety and health of any other protected person;
 (b) in respect of any obligation imposed on the operator or on any other person under a listed OSH law — to cooperate with the operator or that other person to the extent necessary to enable the operator or that other person to fulfil that obligation; and
 (c) to use equipment that is —
-(i) supplied to the person by the operator, an employer of the person or any other person having control of the petroleum operation (the “equipment supplier”); and
+(i) supplied to the person by the operator, an employer of the person or any other person having control of the petroleum operation (the equipment supplier); and
 (ii) necessary to protect the occupational safety and health of the person, or the safety and health of any other person engaged in the petroleum operation or protected person,
 in accordance with any instructions given by the equipment supplier, consistent with the safe and proper use of the equipment.
 Penalty:$5 500.
@@ -688,7 +689,7 @@ then, within 14 days after the completion of the consultations, the operator mus
 (b) notify all parties to the disagreement of the decision.
 (4) If the matter of a disagreement is referred to the reviewing authority, the parties to the disagreement must complete the consultation in accordance with the resolution of that matter by the reviewing authority.
 (5) In this clause —
-“reviewing authority” means a person prescribed by the regulations to be a reviewing authority for the purposes of this clause.
+reviewing authority means a person prescribed by the regulations to be a reviewing authority for the purposes of this clause.
 22.Manner of grouping members of the workforce
 (1) Consultations about the establishment or variation of a designated work group must be directed principally at the determination of the manner of grouping members of the workforce —
 (a) that best and most conveniently enables their interests relating to occupational safety and health to be represented and safeguarded; and
@@ -836,7 +837,7 @@ This Schedule does not —
 and
 (b) the contravention affects or may affect one or more group members,
 the representative must consult with the person supervising the relevant activity in an attempt to reach agreement on rectifying the contravention or preventing the likely contravention.
-(2) If, in the safety and health representative’s opinion, agreement is not reached within a reasonable time, the safety and health representative may issue a provisional improvement notice to any or each person (a “responsible person”) responsible for the contravention.
+(2) If, in the safety and health representative’s opinion, agreement is not reached within a reasonable time, the safety and health representative may issue a provisional improvement notice to any or each person (a responsible person) responsible for the contravention.
 (3) If a responsible person is the operator, the improvement notice may be issued to the operator by giving it to the operator’s representative.
 (4) If it is not practicable to issue the notice to a responsible person (other than the operator or the supervisor) by giving it to that responsible person —
 (a) the notice may be issued to that responsible person by giving it to the person who for the time being is, or may reasonably be presumed to be, on behalf of the responsible person, in charge of the activity to which the notice relates; and
@@ -946,7 +947,7 @@ the safety and health at work of members of the workforce;
 Subdivision 5 — Emergency procedures
 42.Action by safety and health representatives
 (1) If a safety and health representative for a designated work group has reasonable cause to believe that there is an imminent and serious danger to the safety or health of any person engaged in the petroleum operation or any other protected person unless a group member or group members cease to perform particular work, the representative must —
-(a) inform a person (a “supervisor”) supervising the group member or group members in the performance of the work of the danger; or
+(a) inform a person (a supervisor) supervising the group member or group members in the performance of the work of the danger; or
 (b) if no supervisor can be contacted immediately —
 (i) direct the group member or group members to cease, in a safe manner, to perform the work; and
 (ii) as soon as practicable, inform a supervisor that the direction has been given.
@@ -1181,7 +1182,7 @@ Penalty:$27 500.
 (1) If, in conducting an inspection, an inspector believes on reasonable grounds that a person —
 (a) is contravening a listed OSH law; or
 (b) has contravened a provision of a listed OSH law and is likely to contravene that provision again,
-the inspector may issue an improvement notice, in writing, to the person (the “responsible person”).
+the inspector may issue an improvement notice, in writing, to the person (the responsible person).
 (2) If the responsible person is the operator, the improvement notice may be issued to the operator by giving it to the operator’s representative.
 (3) If the responsible person is an employer (other than the operator) of members of the workforce, but it is not practicable to give the notice to that employer —
 (a) the improvement notice may be issued to the employer by giving it to the operator’s representative; and
@@ -1269,7 +1270,7 @@ Penalty: $5 000.
 (8) If the decision to be reviewed is a decision under clause 60 to issue an improvement notice, the operation of the notice is suspended pending determination of the review, except to the extent that the reviewing authority makes an order to the contrary.
 (9) If the decision to be reviewed is a decision of an inspector under clause 37 to confirm or vary a provisional improvement notice whose operation has been suspended pending the inspection of the matter to which the notice relates, the operation of the notice is further suspended pending determination of the review, except to the extent that the reviewing authority makes an order to the contrary.
 (10) In this clause —
-“reviewing authority” means a person prescribed by the regulations to be a reviewing authority for the purposes of this clause.
+reviewing authority means a person prescribed by the regulations to be a reviewing authority for the purposes of this clause.
 65.Powers of reviewing authority on review
 (1) On a review of a decision under clause 64, the reviewing authority may —
 (a) affirm the decision;
@@ -1416,7 +1417,7 @@ It is a defence to a prosecution for a contravention of a listed OSH law if the 
 regulations made for the purposes of this subclause may declare that this Schedule, or the provision, as the case may be, does not apply to that person, or does not apply to that person in the circumstances specified in the regulations.
 (3) Regulations made for the purposes of subclause (2) do not remain in force for longer than 5 years after they commence, but this subclause does not prevent the making of further regulations of the same substance.
 (4) In subclause (2) —
-“this Schedule” includes regulations made for the purposes of this Schedule.
+this Schedule includes regulations made for the purposes of this Schedule.
 ”.
 ”.
 On the date as at which this reprint was prepared, the Petroleum Amendment Act 2007 Pt. 2 Div. 2 had not come into operation. It reads as follows:
@@ -1431,7 +1432,7 @@ Section 5(1) is amended as follows:
 “ or geothermal energy operation ”;
 (b) after the definition of “geothermal energy” by inserting —
 “
-“geothermal energy operation” means —
+geothermal energy operation means —
 (a)an operation to explore for geothermal energy resources, and the carrying on of such operations and the execution of such works as are necessary for that purpose;
 (b)an operation to drill for geothermal energy resources, and the carrying on of such operations and the execution of such works as are necessary for that purpose;
 (c)an operation to recover geothermal energy, and the carrying on of such operations and the execution of such works as are necessary for that purpose;
@@ -1466,10 +1467,10 @@ or geothermal energy resources exploration operation
 ”;
 (j) by deleting the definition of “other protected person” and inserting —
 “
-“other protected person”, in relation to a geothermal energy operation, means a person who is at or near a place where the geothermal energy operation is being carried on at the invitation of, or with the express or implied consent of —
+other protected person, in relation to a geothermal energy operation, means a person who is at or near a place where the geothermal energy operation is being carried on at the invitation of, or with the express or implied consent of —
 (a)the operator of the geothermal energy operation; or
 (b)a person in control of a part of the geothermal energy operation;
-“other protected person”, in relation to a petroleum operation, means a person who is at or near a place where the petroleum operation is being carried on at the invitation of, or with the express or implied consent of —
+other protected person, in relation to a petroleum operation, means a person who is at or near a place where the petroleum operation is being carried on at the invitation of, or with the express or implied consent of —
 (a)the operator of the petroleum operation; or
 (b)a person in control of a part of the petroleum operation;
 ”.

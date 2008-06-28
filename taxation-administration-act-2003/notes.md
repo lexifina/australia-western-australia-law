@@ -15,20 +15,22 @@ Land Information Authority Act 2006 s. 184 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Revenue Laws Amendment (Assessment) Act 2007 Pt. 3 | 13 of 2007 | 29 Jun 2007 | 30 Jun 2007 (see s. 2(b))
 Reprint 2: The Taxation Administration Act 2003 as at 7 Sep 2007 (includes amendments listed above)
+Revenue Laws Amendment Act (No. 2) 2008 Pt. 2 Div. 1 and Pt. 3 Div. 1 and 2 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Taxation Administration Act 2003 s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59 | 1 of 2003 (as amended by No. 55 of 2004) | 20 Mar 2003 | To be proclaimed (see s. 2)
+Taxation Administration Act 2003 s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59 | 1 of 2003 (as amended by No. 55 of 2004; No. 31 of 2008 s. 24) | 20 Mar 2003 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 94 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Duties Legislation Amendment Act 2008 Pt. 2 Div. 3 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Revenue Laws Amendment Act (No. 2) 2008 Pt. 3 Div. 3 | 31 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 On the date as at which this compilation was prepared, the Taxation Administration Act 2003 s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59 (as amended by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004) had not come into operation. They read as follows:
 “
 34.Right to object
 (2)...
 (c) a directly reviewable decision;
-(4) Where a decision of the Commissioner is by any of the taxation Acts declared to be directly reviewable a taxpayer may, within 60 days of being notified in writing of the decision, apply to the State Administrative Tribunal for a review of the decision.
-[Section 34 amended by No. 55 of 2004 s. 1171.]
+(4) Where a decision of the Commissioner is by any of the taxation Acts declared to be directly reviewable a taxpayer may, within 60 days of being notified of the decision, apply to the State Administrative Tribunal for a review of the decision.
+[Section 34 amended by No. 55 of 2004 s. 1171; No. 31 of 2008 s. 24.]
 47.Arrangements for instalments and extensions of time
 (8) A decision of the Commissioner under this section in connection with extending time for payment of tax or approving payment of tax in instalments is directly reviewable.
 [Section 47 amended by No. 55 of 2004 s. 1179.]
@@ -448,5 +450,44 @@ or
 “
 “date” of an assessment notice means the date on which it is issued;
 “endorse” includes stamp;
+”.
+”.
+On the date as at which this compilation was prepared, the Revenue Laws Amendment Act (No. 2) 2008 Pt. 3 Div. 3 had not come into operation. It reads as follows:
+“
+Division 3 — Amendments to commence on proclamation
+29.Section 20A inserted
+After section 19 the following section is inserted —
+“
+20A.Compromise assessments
+(1) If the Commissioner considers it appropriate to do so to avoid undue delay or expense, to settle a dispute or for any other reason, the Commissioner may —
+(a) make a written agreement (a “compromise agreement”) with a taxpayer in relation to the assessment of the taxpayer’s tax liability; and
+(b) make an assessment in accordance with the compromise agreement.
+(2) Despite section 16 the Commissioner must not make a reassessment of a compromise assessment unless —
+(a) the taxpayer has agreed; or
+(b) the Commissioner is satisfied that the compromise assessment —
+(i) was procured by fraud; or
+(ii) was made in consequence of the taxpayer knowingly failing to disclose material information or providing information knowing that it was incorrect, incomplete or misleading.
+(3) Each of the following are final and not subject to objection or review under Part 4 or to any other form of appeal or review —
+(a) a decision of the Commissioner under this section to make, or not make, a compromise agreement;
+(b) a decision of the Commissioner under this section as to the terms of a compromise agreement;
+(c) a compromise assessment.
+(4) No action can be brought in any court or tribunal to compel the Commissioner to make a compromise agreement.
+(5) This section does not limit the Commissioner’s powers under section 19.
+”.
+30.Section 34 amended
+(1) Section 34(1)(a) is amended by inserting after “assessment” —
+“ , other than a compromise assessment ”.
+(2) Section 34(2) is amended by deleting the full stop after paragraph (d) and inserting instead —
+“
+;
+(e) a decision which, under section 20A(3), is not subject to objection under this Part.
+”.
+31.Glossary amended
+The Glossary is amended as follows:
+(a) in the definition of “assessment” by deleting “or a reassessment;” and inserting instead —
+“ , a reassessment or a compromise assessment; ”;
+(b) by inserting in the appropriate alphabetical position —
+“
+“compromise assessment” means an assessment made in accordance with section 20A;
 ”.
 ”.
