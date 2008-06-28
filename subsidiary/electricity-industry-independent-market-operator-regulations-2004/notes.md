@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Electricity Industry (Independent Market Operator) Regulations 2004. The following table contains information about those regulations.
+This is a compilation of the Electricity Industry (Independent Market Operator) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Electricity Industry (Independent Market Operator) Regulations 2004 | 30 Sep 2004 p. 4207-69 | 1 Dec 2004 (see r. 2 and Gazette 30 Nov 2004 p. 5515)
+Electricity Industry (Independent Market Operator) Amendment Regulations 2008 | 27 Jun 2008 p. 3125-8 | r. 1 and 2: 27 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 28 Jun 2008 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
