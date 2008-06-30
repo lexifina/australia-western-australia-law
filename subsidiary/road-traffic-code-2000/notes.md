@@ -32,9 +32,6 @@ Reprint 2: The Road Traffic Code 2000 as at 12 Oct 2007 (includes amendments lis
 Road Traffic Code Amendment Regulations 2008 | 8 Feb 2008 p. 315-20 | r. 1 and 2: 8 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2008 (see r. 2(b))
 Road Traffic Amendment (Holiday Periods) Regulations 2008 r. 4 | 8 Feb 2008 p. 321-2 | 9 Feb 2008 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 4) 2008 | 29 Feb 2008 p. 694-8 | r. 1 and 2: 29 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Road Traffic Consequential Amendment Regulations 2008 Pt. 6 | 10 Jun 2008 p. 2449-67 | 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 “
@@ -44,27 +41,3 @@ Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in 
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Road Traffic Amendment Regulations (No. 4) 2000 r. 5 is not included because of an error in the reference to the provision to be amended.
 The commencement date of 1 Oct 2007 that was specified in r. 2(b) was before the date of gazettal.
-On the date as at which this compilation was prepared, the Road Traffic Consequential Amendment Regulations 2008 Pt. 6 had not come into operation. It reads as follows:
-“
-Part 6 — Amendments to Road Traffic Code 2000
-33.The regulations amended
-The amendments in this Part are to the Road Traffic Code 2000.
-34.Regulation 3 amended
-Regulation 3(2) and the Table to that subregulation are repealed and the following subregulations are inserted instead —
-“
-(2) For the purposes of this Code —
-(a) if a public holiday falls on a Monday, the period of 4 days beginning with the last Friday before that Monday and ending with that Monday is a holiday period; and
-(b) if a public holiday falls on a Friday, the period of 4 days beginning with the last Thursday before that Friday and ending with the Sunday after that Friday is a holiday period; and
-(c) despite paragraphs (a) and (b), the period of 5 days beginning with the last Thursday before Good Friday and ending with Easter Monday is a holiday period; and
-(d) despite paragraphs (a) and (b), the period of 17 days beginning with the last Friday before Christmas Day is a holiday period.
-(3) In subregulation (2)(a) and (b) —
-“public holiday” means a day specified, or appointed under the power, in the Public and Bank Holidays Act 1972 Second Schedule to be a public holiday.
-”.
-35.Regulation 9 amended
-Regulation 9(5) is repealed and the following subregulation is inserted instead —
-“
-(5) If the commission of an offence under this Code involves the driving or use of a motor vehicle and this Code fixes a penalty for the offence expressed as a number of points, the Road Traffic (Miscellaneous) Regulations 2008 regulation 6(3) prescribes that offence as a demerit point offence in WA.
-”.
-36.Regulation 266 repealed
-Regulation 266 is repealed.
-”.

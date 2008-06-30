@@ -8,12 +8,12 @@ Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2006 | 22 Dec 2006
 Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 | 29 May 2007 p. 2499-502 | r. 1 and 2: 29 May 2007 (see r. 2(a); Regulations other than r. 1 and 2: 31 May 2007 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 3) 2007 | 22 Jun 2007 p. 2866-71 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2008 Pt. 1 and 2 | 30 May 2008 p. 2076-83 | Pt. 1: 30 May 2008 (see r. 2(a)); Pt. 2: 31 May 2008 (see r. 2(b))
+Road Traffic Consequential Amendment Regulations 2008 Pt. 2 | 10 Jun 2008 p. 2449-67 | 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2008 Pt. 3 | 30 May 2008 p. 2076-83 | 1 Jul 2008 (see r. 2(c))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 3) 2008 r. 3 and 4 | 30 May 2008 p. 2086 | 1 Jul 2008 (see r. 2(b))
-Road Traffic Consequential Amendment Regulations 2008 Pt. 2 | 10 Jun 2008 p. 2449-67 | 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 r. 3 reads as follows:
 “
 3.Specified day: section 28A
@@ -116,116 +116,4 @@ it. 6 | 24.60 | 19.30
 it. 7 | 17.80 | 19.30
 it. 8 | 21.00 | 18.40
 it. 9 | 17.60 | 18.20
-”.
-On the date as at which this compilation was prepared, the Road Traffic Consequential Amendment Regulations 2008 Pt. 2 had not come into operation. It reads as follows:
-“
-Part 2 — Amendments to Road Traffic (Charges and Fees) Regulations 2006
-3.The regulations amended
-The amendments in this Part are to the Road Traffic (Charges and Fees) Regulations 2006.
-4.Regulation 18 amended
-Regulation 18(1)(a)(v) is amended by deleting “Road Traffic (Drivers’ Licences) Regulations 1975 regulation 2(1);” and inserting instead —
-“
-Road Traffic (Authorisation to Drive) Regulations 2008 regulation 3;
-”.
-5.Regulation 37 amended
-Regulation 37 is amended by deleting “these regulations have the same meaning as they have in the Road Traffic (Drivers’ Licences) Regulations 1975.” and inserting instead —
-“
-this Part have the same meanings as they have in the Road Traffic (Authorisation to Drive) Regulations 2008.
-”.
-6.Regulation 38 repealed
-Regulation 38 is repealed.
-7.Regulation 39 amended
-(1) Regulation 39(1) is amended by deleting “of a duplicate” and inserting instead —
-“
-under the Road Traffic (Authorisation to Drive) Regulations 2008 regulation 31(1) of a replacement
-”.
-(2) Regulation 39(2) is amended as follows:
-(a) by deleting “duplicate” and inserting instead —
-“ replacement ”;
-(b) by inserting before “was stolen” —
-“ document ”.
-8.Regulation 40 repealed
-Regulation 40 is repealed.
-9.Regulation 41 amended
-(1) Regulation 41(2) and (3) are repealed and the following subregulations are inserted instead —
-“
-(2) A fee is not payable by a person for —
-(a) an application for the grant of a driver’s licence in the circumstances described in the Road Traffic (Authorisation to Drive) Regulations 2008 regulation 37(4); or
-(b) the grant of a driver’s licence in those circumstances.
-(3) Subregulation (2)(b) does not affect the obligation of the person who is granted the licence to pay for a subsequent grant of a driver’s licence by way of renewal.
-”.
-(2) Regulation 41(4) is amended by deleting all of the subregulation from “A licence fee” that is before paragraph (a) and inserting instead —
-“
-A fee is not payable for the first grant by way of renewal to a person of a driver’s licence as a provisional licence unless since the preceding grant to the person of a driver’s licence as a provisional licence, the person —
-”.
-10.Regulation 42 amended
-(1) Regulation 42(1) is amended by inserting after “extraordinary licence” —
-“ other than by way of renewal ”.
-(2) Regulation 42(2) is amended as follows:
-(a) by deleting “renewal of an extraordinary licence” and inserting instead —
-“
-grant of an extraordinary licence by way of renewal
-”;
-(b) in each of paragraphs (a) and (b), by deleting “renewed” and inserting instead —
-“ granted ”.
-11.Regulation 43 amended
-(1) Regulation 43(2) is amended by deleting “or renewal” and inserting instead —
-“ , whether by way of renewal or otherwise, ”.
-(2) Regulation 43(3) is amended by deleting “the Road Traffic (Drivers’ Licences) Regulations 1975 regulation 9 or 9A” and inserting instead —
-“ regulation 39 ”.
-12.Regulation 44 amended
-(1) Regulation 44(2) is amended by deleting “the Road Traffic (Drivers’ Licences) Regulations 1975 regulation 9” and inserting instead —
-“ regulation 39 ”.
-(2) Regulation 44(3) is repealed.
-13.Regulation 45 amended
-Regulation 45 is amended by deleting “or renewal” and inserting instead —
-“ , whether by way of renewal or otherwise, ”.
-14.Regulation 46 amended
-(1) Regulation 46(1) is amended by deleting “or renewal” and inserting instead —
-“ , whether by way of renewal or otherwise, ”.
-(2) After regulation 46(3) the following subregulation is inserted —
-“
-(4) This regulation does not apply to a refund under the Road Traffic (Authorisation to Drive) Regulations 2008 regulation 29.
-”.
-15.Regulation 55 amended
-Regulation 55(5)(a) is amended by deleting “Board” and inserting instead —
-“ Commissioner of Police ”.
-16.Regulation 56 amended
-(1) Regulation 56(2) is amended by deleting “Board” before “grants” and inserting instead —
-“ Commissioner of Police ”.
-(2) Regulation 56(2)(a) and (b) are each amended by deleting “Board” and inserting instead —
-“ Commissioner ”.
-17.Schedule 2 amended
-Schedule 2 is amended as follows:
-(a) in the definition of “hazard perception test”, by deleting “Road Traffic (Drivers’ Licences) Regulations 1975 regulation 4E(1)(b);” and inserting instead —
-“
-Road Traffic (Authorisation to Drive) Regulations 2008 regulation 16(2)(c);
-”;
-(b) in the definition of “practical driving assessment”, in each of paragraphs (a) and (b), by deleting “drivers’ licence” and inserting instead —
-“ driver’s licence ”;
-(c) in the definition of “theory test”, by inserting after “means a” —
-“ theory ”;
-(d) by deleting item 4 and inserting instead —
-“
-4. | Grant of a driver’s licence whether or not by way of renewal —
- | (a)for one year | 36.60
- | (b)for 5 years | 116.60
- | (c)for any other period | for each year or part of a year, 20% of the fee under paragraph (b)
-”;
-(e) by deleting item 5 and inserting instead —
-“
-5. | Application for the endorsement of a driver’s licence under the Road Traffic (Authorisation to Drive) Regulations 2008 regulation 12(1) to show that it includes extension F | 103.30
-”;
-(f) by deleting item 5A and inserting instead —
-“
-5A. | Application for the endorsement of a driver’s licence under the Road Traffic (Authorisation to Drive) Regulations 2008 regulation 12(1) to show that it includes extension T | 103.30
-”;
-(g) in item 8, by deleting “under the Road Traffic (Drivers’ Licences) Regulations 1975 regulation 4E(2)” and inserting instead —
-“
-under the Road Traffic (Authorisation to Drive) Regulations 2008 regulation 16(2)(b)
-”;
-(h) in item 9, by deleting “notice of disqualification” and inserting instead —
-“ excessive demerit points notice ”;
-(i) in item 9, by deleting “section 103” and inserting instead —
-“ Part VIA ”.
 ”.

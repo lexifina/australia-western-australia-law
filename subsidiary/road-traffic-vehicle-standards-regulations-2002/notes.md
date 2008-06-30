@@ -18,33 +18,6 @@ Road Traffic (Vehicle Standards) Amendment Regulations (No. 2) 2006 | 26 May 200
 Road Traffic (Vehicle Standards) Amendment Regulations (No. 3) 2006 | 23 Jun 2006 p. 2225-6 | 1 Jul 2006 (see r. 2)
 Road Traffic (Vehicle Standards) Amendment Regulations 2006 | 28 Nov 2006 p. 4895-6 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
 Reprint 2: The Road Traffic (Vehicle Standards) Regulations 2002 as at 12 Jan 2007 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Road Traffic Consequential Amendment Regulations 2008 Pt. 5 | 10 Jun 2008 p. 2449-67 | 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 10 a reference in a written law to the Local Court is, unless the contrary intention appears, to be read as a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to as the Road Traffic (Licensing) Regulations 1975, the citation of which was changed to the Road Traffic (Vehicle Licensing) Regulations 1975 by the Road Traffic (Licensing) Amendment Regulations 2006. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-On the date as at which this compilation was prepared, the Road Traffic Consequential Amendment Regulations 2008 Pt. 5 had not come into operation. It reads as follows:
-“
-Part 5 — Amendments to Road Traffic (Vehicle Standards) Regulations 2002
-27.The regulations amended
-The amendments in this Part are to the Road Traffic (Vehicle Standards) Regulations 2002.
-28.Heading to Part 5 amended
-The heading to Part 5 is amended by deleting “section 103B(1)” and inserting instead —
-“ section 111AB(1) ”.
-29.Regulation 37 amended
-Regulation 37(1) is amended by deleting “For the purposes of section 103B(1)” and inserting instead —
-“ Under section 111AB(1) ”.
-30.Heading to Part 6 amended
-The heading to Part 6 is amended by deleting “section 103B(2)” and inserting instead —
-“ section 111AB(2) ”.
-31.Regulation 41 amended
-Regulation 41(1) is amended by deleting “For the purposes of section 103B(2)” and inserting instead —
-“ Under section 111AB(2) ”.
-32.Glossary amended
-The Glossary is amended in clause 1(1) as follows:
-(a) in the definition of “departmental exemption”, by deleting “section 103B” and inserting instead —
-“ section 111AB ”;
-(b) in the definition of “Ministerial exemption”, by deleting “section 103B” and inserting instead —
-“ section 111AB ”.
-”.
