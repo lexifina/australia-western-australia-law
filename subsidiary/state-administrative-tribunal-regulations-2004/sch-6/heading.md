@@ -10,8 +10,8 @@ First Home Owner Grant Act 2000 s. 31(1)
 Pawnbrokers and Second-hand Dealers Act 1994 s. 68, 73(2) or 93(1)
 Retirement Villages Act 1992 s. 9(3)(e) or (6), 44(1), 56(1), 57(1), 58(1), 59(1), 62(1), 63(1), 64(1), 67(2), 68(1), 69(3), 70(1)(a) or 75(4)
 Retirement Villages Regulations 1992 r. 7(9)
-Road Traffic Act 1974 s. 25(1) or 48(4)
+Road Traffic Act 1974 s. 25(1) or the Road Traffic (Authorisation to Drive) Regulations 2008 r. 42(4)
 Security and Related Activities (Control) Act 1996 s. 67(1) or (3b)(a) or 72(1)
 Strata Titles Act 1985 s. 16(1), 39A(4)(c)(ii) or (5), 47(2)(a), 64(1), 83(1), 85, 86, 87, 88, 89, 90, 91, 92, 93(1), 94(1), 95(1), 97(1), 98, 99(1), 99A(1), 100(1), 101, 102(1)(e), (f) or (g), 102(3), 103(1) or (2), 103A(1), 103B(1), 103C(1), 103D(1), 103E(1), 103F(1) or (4), 103G(1), 103H(1), 103I(1), 103J(1), 103K(1), 103L(1), 103M(1), 103N(1), 103O(1), 103P(1), 103Q(1), 103R(1), 114(4)(b), Sch. 3 cl. 12(10)(a) or 13A(5) or Sch. 4 cl. 2(7)(a)
 Working with Children (Criminal Record Checking) Act 2004 s. 26(2)
-[Schedule 6 inserted in Gazette 26 Jun 2007 p. 2993-4.]
+[Schedule 6 inserted in Gazette 26 Jun 2007 p. 2993-4; amended in Gazette 13 Jun 2008 p. 2523.]
