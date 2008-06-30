@@ -7,11 +7,11 @@ Magistrates Court (General) Amendment Rules 2005 | 8 Jul 2005 p. 3160 | 8 Jul 20
 Magistrates Court (General) Amendment Rules 2007 | 24 Aug 2007 p. 4322-7 | r. 1, 2 and 3: 24 Aug 2007 (see r. 2(a)); Rules other than r. 1, 2 and 3: 25 Aug 2007 (see r. 2(b))
 Magistrates Court (General) Amendment Rules (No. 2) 2007 | 23 Nov 2007 p. 5861-5 | r. 1 and 2: 23 Nov 2007 (see r. 2(a)); Rules other than r. 1 and 2: 24 Nov 2007 (see r. 2(b))
 Magistrates Court (General) Amendment Rules 2008 r. 1 and 2 | 8 Apr 2008 p. 1335-9 | 8 Apr 2008 (see r. 2(a)
+Magistrates Court (General) Amendment (Road Traffic) Rules 2008 | 23 May 2008 p. 1991-2 | r. 1 and 2: 23 May 2008 (see r. 2(a)); Rules other than r. 1 and 2: 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Magistrates Court (General) Amendment Rules 2008 r. 3-6 | 8 Apr 2008 p. 1335-9 | On commencement of the Acts Amendment (Justice) Act 2008 s. 71 (see r. 2(b))
-Magistrates Court (General) Amendment (Road Traffic) Rules 2008 r. 3-8 | 23 May 2008 p. 1991-2 | 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 On the date as at which this compilation was prepared, the Magistrates Court (General) Amendment Rules 2008 r. 3-6 had not come into operation. They read as follows:
 “
 3.The rules amended
@@ -100,28 +100,4 @@ Information wanted
 Application | I would like — to inspect; to obtain a copy of; to view or listen to, the above information. [Set out grounds for the request.]
 Signature of applicant |  | Date
 ”.
-”.
-On the date as at which this compilation was prepared, the Magistrates Court (General) Amendment (Road Traffic) Rules 2008 r. 3-8 had not come into operation. They read as follows:
-“
-3.The rules amended
-The amendments in these rules are to the Magistrates Court (General) Rules 2005.
-4.Rule 51A repealed
-Rule 51A is repealed.
-5.Rule 51B amended
-Rule 51B(2) is amended by deleting “or 51A”.
-6.Rule 52 amended
-(1) Rule 52(1) is amended as follows:
-(a) by deleting “or 51A”;
-(b) by deleting all of the subrule after “section 76” and inserting instead a full stop.
-(2) Rule 52(2) is amended by deleting “, 6 or 9” and inserting instead —
-“ or 6 ”.
-7.Rule 54 amended
-Rule 54 is amended as follows:
-(a) by inserting after “special application,” —
-“ or ”;
-(b) by deleting “or 103(6)”.
-8.Schedule 2 amended
-(1) Schedule 2 is amended in each of Forms 5 and 6 by deleting “issue” and inserting instead —
-“ grant ”.
-(2) Schedule 2 is amended by deleting Form 9.
 ”.
