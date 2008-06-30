@@ -17,9 +17,6 @@ Reprint of the Motor Vehicle Drivers Instructors Act 1963 as at 8 Feb 2002 (incl
 Machinery of Government (Planning and Infrastructure) Amendment Act 2002 Pt. 3 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 87 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 3: The Motor Vehicle Drivers Instructors Act 1963 as at 1 Jul 2005 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Road Traffic Amendment Act 2006 Pt. 4 Div. 2 | 54 of 2006 | 26 Oct 2006 | 30 Jun 2008 (see s. 2 and Gazette 10 Jun 2008 p. 2471)
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
 “
@@ -29,14 +26,14 @@ The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 
 (a) instead of being made by the Minister referred to in the former section 15C, the agreement had been made by the Director General referred to in the new provision of the relevant Act; and
 (b) instead of providing for the performance of functions of the former Director General, the agreement made similar provision for the performance of the corresponding functions of the Director General referred to in the new provision of the relevant Act.
 (3) In this section —
-“former Director General” means the Director General of Transport under the Transport Co-ordination Act 1966 section 8 as in force before it was repealed by this Act;
-“former section 15C” means the Transport Co-ordination Act 1966 section 15C as in force before it was repealed by this Act;
-“new provision” means —
+former Director General means the Director General of Transport under the Transport Co-ordination Act 1966 section 8 as in force before it was repealed by this Act;
+former section 15C means the Transport Co-ordination Act 1966 section 15C as in force before it was repealed by this Act;
+new provision means —
 (a)the Control of Vehicles (Off-road Areas) Act 1978 section 4B;
 (b)the Motor Vehicle Drivers Instructors Act 1963 section 4A;
 (c)the Motor Vehicle (Third Party Insurance) Act 1943 section 3QA; or
 (d)the Road Traffic Act 1974 section 6B;
-“relevant Act” means —
+relevant Act means —
 (a)the Control of Vehicles (Off-road Areas) Act 1978;
 (b)the Motor Vehicle Drivers Instructors Act 1963;
 (c)the Motor Vehicle (Third Party Insurance) Act 1943; or
@@ -48,16 +45,16 @@ The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 
 (b) instead of delegating the performance of functions of the former Director General, the performance of the corresponding functions of the Director General referred to in the new provision of the relevant Act were delegated; and
 (c) any Ministerial approval that would have been required in order for the delegation to be made under the new provision of the relevant Act had been given.
 (3) In this section —
-“former Director General” means the Director General of Transport under the Transport Co-ordination Act 1966 section 8 as in force before it was repealed by this Act;
-“former section 18” means the Transport Co-ordination Act 1966 section 18 as in force before it was amended by this Act;
-“new provision” means —
+former Director General means the Director General of Transport under the Transport Co-ordination Act 1966 section 8 as in force before it was repealed by this Act;
+former section 18 means the Transport Co-ordination Act 1966 section 18 as in force before it was amended by this Act;
+new provision means —
 (a)the Control of Vehicles (Off-road Areas) Act 1978 section 4A;
 (b)the Motor Vehicle Drivers Instructors Act 1963 section 4;
 (c)the Motor Vehicle (Third Party Insurance) Act 1943 section 3QB;
 (d)the Rail Safety Act 1998 section 57A;
 (e)the Road Traffic Act 1974 section 6A; or
 (f)the Transport Co-ordination Act 1966 section 18;
-“relevant Act” means —
+relevant Act means —
 (a)the Control of Vehicles (Off-road Areas) Act 1978;
 (b)the Motor Vehicle Drivers Instructors Act 1963;
 (c)the Motor Vehicle (Third Party Insurance) Act 1943;
@@ -67,7 +64,7 @@ The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 
 69.Regulations about transitional matters
 (1) If there is no sufficient provision in this Act for dealing with a transitional matter, regulations under an Act amended by this Act may include any provision that is required, or is necessary or convenient, for dealing with the transitional matter.
 (2) In subsection (1) —
-“transitional matter” means a matter that needs to be dealt with for the purpose of effecting the transition from the provisions of the Acts amended by this Act as in force before this Act comes into operation to the provisions of those Acts as in force after this Act comes into operation.
+transitional matter means a matter that needs to be dealt with for the purpose of effecting the transition from the provisions of the Acts amended by this Act as in force before this Act comes into operation to the provisions of those Acts as in force after this Act comes into operation.
 (3) Regulations including a provision described in subsection (1) may be expressed to have effect before the day on which they are published in the Gazette.
 (4) To the extent that a regulation including a provision described in subsection (1) may have effect before the day of its publication in the Gazette, it does not —
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State), the rights of that person existing before the day of its publication; or
@@ -75,52 +72,3 @@ The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 33 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-On the date as at which this compilation was prepared, the Road Traffic Amendment Act 2006 Pt. 4 Div. 2 had not come into operation. It reads as follows:
-“
-Part 4 — Consequential amendments to other Acts
-Division 2 — Motor Vehicle Drivers Instructors Act 1963
-38.The Act amended
-The amendments in this Division are to the Motor Vehicle Drivers Instructors Act 1963.
-39.Section 3 amended
-Section 3 is amended as follows:
-(a) by deleting the definition of “motor vehicle” and inserting instead —
-“
-“motor vehicle” has the same meaning as it has in Part IVA of the Road Traffic Act 1974;
-”;
-(b) by deleting the definition of “road” and inserting instead —
-“
-“road” has the same meaning as it has in Part IVA of the Road Traffic Act 1974;
-”.
-40.Section 5 amended
-(1) Section 5(1)(a) and (b) are deleted and the following paragraphs are inserted instead —
-“
-(a) act as a driving instructor in respect of a motor vehicle, unless authorised to do so by a licence or permit held by the person;
-(b) advertise, notify or state that the person acts or is willing to act as a driving instructor unless —
-(i) the advertisement, notification or statement specifies the kinds of motor vehicle, and the kinds of use of them, for which the person acts or is willing to act as a driving instructor; and
-(ii) the person holds a licence or permit authorising the person to act as specified;
-”.
-(2) Section 5(2) is amended by deleting paragraph (a) and “or” after it and inserting instead —
-“
-(a) did not hold an appropriate licence or permit; or
-”.
-(3) Section 5(3) is amended by deleting “Commissioner of Police” and inserting instead —
-“ Director General ”.
-41.Section 6 amended
-Section 6(2) and (3) are repealed and the following subsections are inserted instead —
-“
-(2) A licence may authorise the holder to act as a driving instructor for any kind of motor vehicle, or kind of use, specified in the licence, or for all kinds of motor vehicles and uses.
-(3) If no kind of motor vehicle or use is specified in a licence, the licence authorises the holder to act as a driving instructor for all kinds of motor vehicles and uses.
-”.
-42.Section 7 amended
-(1) Section 7(3) is amended by deleting paragraph (a) and “and” after it and inserting instead —
-“
-(a) of the applicant’s competency for any driving of a kind that the licence would authorise the applicant to teach; and
-”.
-(2) Section 7(5) is amended as follows:
-(a) in paragraph (d), by deleting “of the class in respect of which he has applied for a license” and inserting instead —
-“ as the licence would authorise ”;
-(b) in paragraph (e), by deleting “of the class in respect of which he has applied for a license” and inserting instead —
-“
-as persons would be taught by the applicant to do under the licence sought
-”.
-”.
