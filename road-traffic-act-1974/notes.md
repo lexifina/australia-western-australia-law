@@ -127,16 +127,17 @@ Road Traffic Amendment Act 2007 | 4 of 2007 | 11 Apr 2007 | s. 1 and 2: 11 Apr 2
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Road Traffic Amendment (Drugs) Act 2007 Pt. 2 | 6 of 2007 | 23 May 2007 | 12 Oct 2007 (see s. 2 and Gazette 11 Oct 2007 p. 5475)
-Road Traffic Amendment Act (No. 2) 2007 Pt. 1 and Pt. 2 | 39 of 2007 | 21 Dec 2007 | Pt. 1: 21 Dec 2007 (see s. 2(a)); Pt. 2 Div. 6: 22 Dec 2007 (see s. 2(j)); Pt. 2 (other than s. 6(2)(b)(ii), 17, 18 & 25 and Div. 4, 5 & 6): 15 Mar 2008 (see s. 2(b)-(j) and Gazette 14 Mar 2008 p. 829); Pt. 2 s. 6(2)(b)(ii): 15 Mar 2008 (see s. 2(c)); Pt. 2 s. 17, 18 & 25: 30 Jun 2008 (see s. 2(d)-(f))
+Road Traffic Amendment Act (No. 2) 2007 Pt. 1 and Pt. 2 (except s. 27-30) | 39 of 2007 | 21 Dec 2007 | Pt. 1: 21 Dec 2007 (see s. 2(a)); Pt. 2 Div. 6: 22 Dec 2007 (see s. 2(j)); Pt. 2 (other than s. 6(2)(b)(ii), 17, 18 & 25 and Div. 4, 5 & 6): 15 Mar 2008 (see s. 2(b)-(j) and Gazette 14 Mar 2008 p. 829); Pt. 2 s. 6(2)(b)(ii): 15 Mar 2008 (see s. 2(c)); Pt. 2 s. 17, 18 & 25: 30 Jun 2008 (see s. 2(d)-(f)); Pt. 2 (s. 26) and Pt. 2 Div. 5: 1 Jul 2008 (see s. 2(g)-(i) and Gazette 27 Jun 2008 p. 3117)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Amendment Act (No. 2) 1987 s. 11(b) | 121 of 1987 (as amended by No. 84 of 2004 s. 80 (cl. 123)) | 24 Dec 1987 | To be proclaimed (see s. 2)
-Road Traffic Amendment Act (No. 2) 2007 Pt.2 (Div. 4 and 5) | 39 of 2007 | 21 Dec 2007 | Pt. 2 Div. 4 & 5 (other than s. 38): to be proclaimed (see s. 2(g) and (h)); Pt. 2 s. 38: operative when the rest of Pt. 2 Div. 5 comes into operation (see s. 2(i))
+Road Traffic Amendment Act (No. 2) 2007 Pt.2 Div. 4 (s. 27-30) | 39 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(g))
 Acts Amendment (Justice) Act 2008 s. 131 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act 2008 s. 3-25 | 24 of 2008 | 13 Jun 2008 | To be proclaimed (see s. 2)
+Criminal Law Amendment (Homicide) Act 2008 s. 38 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 Footnote no longer applicable.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
@@ -303,29 +304,10 @@ Part 3 — Transitional provision
 36.Existing demerit points
 Points currently recorded in respect of a person under section 103 of the Road Traffic Act 1974 immediately before that section is repealed by section 29, and details of any offence in respect of which the points were recorded, are to be recorded as demerit points against the person in the demerit points register referred to in Part VIA of the Road Traffic Act 1974 as inserted by section 31.
 Pt. 4 Div. 4 will not be included because the Road Traffic Amendment (Vehicle Licensing) Act 2001 has already commenced (see s. 45-48).
-On the date as at which this compilation was prepared, the Road Traffic Amendment Act (No. 2) 2007 Pt.2 Div. 4 and 5 have not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Road Traffic Amendment Act (No. 2) 2007 Pt.2 Div. 4 hade not come into operation. It reads as follows:
 “
 Part 2 — Road Traffic Act 1974 amended
 Division 4 — Amendments about graduated demerit point system for novice drivers
-26.Section 104 amended
-Section 104 is amended as follows:
-(a) by inserting before “In this Part” at the beginning of the section the subsection designation “(1)”;
-(b) by inserting in their appropriate alphabetical positions —
-“
-“excessive demerit points (novice driver) notice” means an excessive demerit points (novice driver) notice under section 104IA(2);
-“novice driver” has the meaning given in subsection (2);
-“novice driver (type 1)” means a novice driver who is not a novice driver (type 2);
-“novice driver (type 2)” means a novice driver who has, for a period of at least 1 year or periods adding up to at least 1 year, held —
-(a)an Australian driver licence; or
-(b)a licence or other authorisation granted to the person by an external licensing authority authorising the person to drive a motor vehicle other than solely for the purpose of learning to drive it;
-”;
-(c) by inserting at the end of the section the following subsections —
-“
-(2) For the purposes of this Part a person is a novice driver unless the person has, for a period of at least 2 years or periods adding up to at least 2 years, held —
-(a) an Australian driver licence; or
-(b) a licence or other authorisation granted to the person by an external licensing authority authorising the person to drive a motor vehicle other than solely for the purpose of learning to drive it.
-(3) When deciding whether a person is a novice driver, or which type of novice driver a person is, a period for which the person held an Australian driver licence or other authorisation is to be regarded as not including any period for which the person, although holding an Australian driver licence or other authorisation, was excluded by law from driving under that authorisation.
-”.
 27.Section 104IA inserted
 After section 104I the following section is inserted —
 “
@@ -361,54 +343,6 @@ Section 104R(1) is amended by inserting before paragraph (b) —
 “
 (aa) an excessive demerit points (novice driver) notice; or
 ”.
-Division 5 — Amendments about zero blood alcohol content for novice drivers
-31.Section 63 amended
-Section 63(6) is amended as follows:
-(a) by inserting before “applied” —
-“ or 64AAA ”;
-(b) by inserting before the full stop —
-“ or 64AAA ”.
-32.Section 64 amended
-Section 64(4) is amended as follows:
-(a) by inserting before “applied” —
-“ or 64AAA ”;
-(b) by inserting before the full stop —
-“ or 64AAA ”.
-33.Section 64AA amended
-Section 64AA(3) is amended as follows:
-(a) by inserting before “where” —
-“ or 64AAA ”;
-(b) by inserting before “applied” —
-“ or 64AAA ”.
-34.Section 64A amended
-After section 64A(3) the following subsection is inserted —
-“
-(4) A person charged with an offence against this section may, instead of being convicted of that offence, be convicted of an offence against section 64AAA where, at the time of the alleged offence, the person charged was a person to whom that section applied.
-”.
-35.Section 64AAA inserted
-After section 64A the following section is inserted —
-“
-64AAA.Novice driver driving with any blood alcohol content
-(1) A person who, being a novice driver, drives or attempts to drive a motor vehicle while having any blood alcohol content commits an offence.
-Penalty: Not less than 2 PU or more than 6 PU.
-(2) In subsection (1) —
-“novice driver” has the same meaning as it has in section 104(2).
-(3) It is a defence to a charge of an offence under subsection (1) for the accused to prove that the accused’s blood alcohol content was not to any extent caused by any of the following:
-(a) the consumption of an alcoholic beverage (otherwise than for the purposes of religious observance);
-(b) the consumption or use of any other substance (for example, food or medicine) for the purpose of consuming alcohol.
-”.
-36.Section 66 amended
-Section 66(2)(a)(ii) is amended by inserting before “applies” —
-“ or 64AAA ”.
-37.Section 70 amended
-Section 70(1) is amended by deleting “or 64A,” and inserting instead —
-“ , 64A or 64AAA, ”.
-38.Section 71B amended
-Section 71B(1) is amended by inserting after “64A” —
-“ , 64AAA ”.
-39.Section 98 amended
-Section 98(1a) is amended by deleting “64A” and inserting instead —
-“ 64A(1) or 64AAA ”.
 ”.
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 s. 131 had not come into operation. It reads as follows:
@@ -418,33 +352,7 @@ On the date as at which this compilation was prepared, the Acts Amendment (Justi
 (2) Section 100(1) is amended by deleting “section 72” and inserting instead —
 “ section 78 ”.
 ”.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 33, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 33 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-33.Road Traffic Act 1974
-(1) Section 17(1)(b)(ii) is amended by deleting “stamp duty, and any penalty tax, payable under the Stamp Act 1921” and inserting instead —
-“
-duty, and any penalty tax, payable under the Duties Act 2008
-”.
-(2) Section 17(2)(c) is amended by deleting “Stamp Act 1921 relating to the issue or transfer of motor vehicles;” and inserting instead —
-“
-Duties Act 2008 relating to the grant or transfer of licences for vehicles;
-”.
-(3) Section 24(3)(b) is amended by deleting “the Stamp Act 1921” and inserting instead —
-“
-a taxation Act, as defined in the Taxation Administration Act 2003 Glossary,
-”.
-(4) Section 102(2a)(b) is amended by deleting “the Stamp Act 1921” and inserting instead —
-“
-a taxation Act, as defined in the Taxation Administration Act 2003 Glossary,
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 51, had not come into operation. It reads as follows:
 “
 162.Consequential amendments
@@ -710,4 +618,17 @@ Table
 s. 80H(1) | s. 80IA(1)
 s. 80IB(1) | s. 80I(1)
 s. 80J(1) in the definition of “uncollected vehicle”
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 38 had not come into operation. It reads as follows:
+“
+38.Road Traffic Act 1974
+(1) The amendments in this section are to the Road Traffic Act 1974.
+(2) Section 59(1) is amended in the summary conviction penalty by deleting “160 PU” and inserting instead —
+“ 720 PU ”.
+(3) Section 59(3)(b) is deleted and the following paragraph is inserted instead —
+“
+(b) in any other circumstances, to a fine of any amount and to imprisonment for —
+(i) 10 years, if the person has caused the death of another person; or
+(ii) 7 years, if the person has caused grievous bodily harm to another person,
+”.
 ”.
