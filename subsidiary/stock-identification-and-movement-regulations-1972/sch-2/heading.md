@@ -7,8 +7,8 @@ Item | Reg. | Service | Fee $
  |  | (c)201 — 1 500 brands or 11 — 200 pages . . . . . . . . . . . | 33
  |  | (d)a printed copy of more than 1 500 brands or 200 pages . . . . . . . . . . . . . . . . | 165
  |  | (e)an electronic copy of information by way of a computer disk of more than 1 500 brands . . . . . . . . . . | 164
-2. | 14(2) | Application to register a brand . . . . . . | 55
+2. | 14(2) | Application to register a brand . . . . . . | 57
 3. | 16 | Provision of a duplicate certificate . . . | 18
-4. | 17(2) | Application to transfer a registered brand . . . . . . . . . . . . . . . . . . . . . . . . . . | 55
-5. | 18 | Application to re-register a brand . . . . | 55
-[Schedule 2 inserted in Gazette 15 Jun 2007 p. 2762.]
+4. | 17(2) | Application to transfer a registered brand . . . . . . . . . . . . . . . . . . . . . . . . . . | 57
+5. | 18 | Application to re-register a brand . . . . | 57
+[Schedule 2 inserted in Gazette 15 Jun 2007 p. 2762; amended in Gazette 20 May 2008 p. 1941.]
