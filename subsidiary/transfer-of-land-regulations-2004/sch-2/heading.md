@@ -19,4 +19,5 @@
 6.Creation and registration of a certificate of title by the Registrar under regulation 4 (if different from the applicant’s request) or regulation 5.
 7.Lodgments by or on behalf of the Registrar.
 8.Lodgment of a dealing, deposited plan or other document by or on behalf of the Minister for Lands (other than such a lodgment by the Minister on behalf of another person).
-[Schedule 2 amended in Gazette 25 Jun 2007 p. 2978.]
+9.An application for the issue of a duplicate certificate of title where a duplicate certificate of title was not issued on the registration of the certificate of title.
+[Schedule 2 amended in Gazette 25 Jun 2007 p. 2978; 20 Jun 2008 p. 2717.]

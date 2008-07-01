@@ -10,4 +10,5 @@ Transfer of Land Amendment Regulations 2006 | 7 Jul 2006 p. 2502-11 | 10 Jul 200
 Reprint 1: The Transfer of Land Regulations 2004 as at 3 Nov 2006 (includes amendments listed above)
 Transfer of Land Amendment Regulations (No. 2) 2006 | 29 Dec 2006 p. 5915 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
 Transfer of Land Amendment Regulations 2007 | 25 Jun 2007 p. 2968-78 | r. 1 and 2: 25 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2007 (see r. 2(b))
+Transfer of Land Amendment Regulations 2008 | 20 Jun 2008 p. 2710-17 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 10, a reference in a written law to a Local Court is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court.
