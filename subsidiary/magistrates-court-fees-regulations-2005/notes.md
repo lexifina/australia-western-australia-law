@@ -5,6 +5,7 @@ Citation | Gazettal | Commencement
 Magistrates Court (Fees) Regulations 2005 | 28 Apr 2005 p. 1573-603 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
 Magistrates Court (Fees) Amendment Regulations 2006 | 23 Jun 2006 p. 2178-81 | 1 Jul 2006 (see r. 2)
 Magistrates Court (Fees) Amendment Regulations 2007 | 26 Jun 2007 p. 3033-5 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+Magistrates Court (Fees) Amendment Regulations (No. 2) 2008 | 27 Jun 2008 p. 3068-70 | r. 1 and 2: 27 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
