@@ -155,6 +155,29 @@ The grounds on which the referral is made are —
  | (signature/seal of applicant or signature of applicant’s solicitor or agent)
 (Stamp of Commission)
 For endorsements see the back of this form or the attachment(s).
+## Form 7A — Notice of referral to the Road Freight Transport Industry Tribunal
+[r. 99B]
+Industrial Relations Act 1979
+In the Western Australian Industrial Relations Commission sitting as the Road Freight Transport Industry Tribunal
+ | No. RFT ......................... | of 20........................
+Notice of referral to the Road Freight Transport Industry Tribunal
+TAKE NOTICE THAT | ……………………………………………………………
+ | ……………………………………………………………
+(state name and address of applicant — the categories of persons who may refer a dispute or matter are set out in the Owner-Drivers (Contracts and Disputes) Act 2007 section 40)
+has this day referred to the Tribunal —
+…………………………………………………………………………………………...
+…………………………………………………………………………………………...
+(state nature of dispute or matter and identify whether the dispute or matter arises under the Owner-Drivers (Contracts and Disputes) Act 2007 section 40(a), (b) or (c) or more than one of those paragraphs)
+The grounds on which the referral is made are —
+…………………………………………………………………………………………...
+…………………………………………………………………………………………...
+…………………………………………………………………………………………...
+(state the names of owner-driver and hirer (if not set out above) and the details of the claim, including any relevant terms of the owner-driver contract; or any relevant terms of the code of conduct alleged to be breached; or any alleged circumstances of a breach of the Owner-Drivers (Contracts and Disputes) Act 2007; or any relevant conduct complained of in respect of negotiations for an owner-driver contract — attach schedule if necessary)
+ | …………………………………………...
+ | (signature/seal of applicant or signature of applicant’s solicitor or agent)
+(Stamp of Commission)
+For endorsements see the back of this form or the attachment(s).
+[Form 7A inserted in Gazette 10 Jun 2008 p. 2494.]
 ## Form 8 — Notice of appeal from Board of Reference
 [r. 118(1)]
 Industrial Relations Act 1979
