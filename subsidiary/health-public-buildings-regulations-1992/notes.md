@@ -14,16 +14,4 @@ Electricity Corporations (Consequential Amendments) Regulations 2006 r. 81 | 31 
 Health (Public Buildings) Amendment Regulations 2006 | 2 May 2006 p. 1701 | 1 Jul 2006 (see r. 2)
 Reprint 2: The Health (Public Buildings) Regulations 1992 as at 25 Aug 2006 (includes amendments listed above)
 Health (Public Buildings) Amendment Regulations 2007 | 18 May 2007 p. 2254 | 1 Jul 2007 (see r. 2)
-Health (Public Buildings) Amendment Regulations 2008 r. 1 and 2 | 4 Apr 2008 p. 1310 | 4 Apr 2008 (see r. 2(a))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Health (Public Buildings) Amendment Regulations 2008 r. 3 and 4 | 4 Apr 2008 p. 1310 | 1 Jul 2008 (see r. 2(b))
-On the date as at which this compilation was prepared, the Health (Public Buildings) Amendment Regulations 2008 r. 3 and 4 had not come into operation. They read as follows:
-“
-3.The regulations amended
-The amendments in these regulations are to the Health (Public Buildings) Regulations 1992.
-4.Schedule 1 amended
-Schedule 1 is amended by deleting “$744.” and inserting instead —
-“ $766. ”.
-”.
+Health (Public Buildings) Amendment Regulations 2008 | 4 Apr 2008 p. 1310 | r. 1 and 2: 4 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
