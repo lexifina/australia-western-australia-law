@@ -15,3 +15,4 @@ Finance Brokers Control (General) Amendment Regulations (No. 2) 2007 | 29 Jun 20
 Reprint 1: The Finance Brokers Control (General) Regulations 2005 as at 21 Sep 2007 (includes amendments listed above)
 Finance Brokers Control (General) Amendment Regulations (No. 6) 2007 | 30 Nov 2007 p. 5930 | r. 1 and 2: 30 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2007 (see r. 2(b))
 Finance Brokers Control (General) Amendment Regulations 2008 | 27 May 2008 p. 2038-40 | r. 1 and 2: 27 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2008 (see r. 2(b))
+Finance Brokers Control (General) Amendment Regulations (No. 2) 2008 | 17 Jun 2008 p. 2551-2 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
