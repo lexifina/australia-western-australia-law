@@ -4,7 +4,7 @@
 The States Parties to this Convention
 have agreed as follows:
 Article 1
-For the purpose of these articles, the term “continental shelf” is used as referring (a) to the sea-bed and subsoil of the submarine areas adjacent to the coast but outside the area of the territorial sea, to a depth of 200 metres or, beyond that limit, to where the depth of the superjacent waters admits of the exploitation of the natural resources of the said areas; (b) to the sea-bed and subsoil of similar submarine areas adjacent to the coasts of islands.
+For the purpose of these articles, the term continental shelf is used as referring (a) to the sea-bed and subsoil of the submarine areas adjacent to the coast but outside the area of the territorial sea, to a depth of 200 metres or, beyond that limit, to where the depth of the superjacent waters admits of the exploitation of the natural resources of the said areas; (b) to the sea-bed and subsoil of similar submarine areas adjacent to the coasts of islands.
 Article 2
 1.The coastal State exercises over the continental shelf sovereign rights for the purpose of exploring it and exploiting its natural resources.
 2.The rights referred to in paragraph 1 of this article are exclusive in the sense that if the coastal State does not explore the continental shelf or exploit its natural resources, no one may undertake these activities, or make a claim to the continental shelf, without the express consent of the coastal State.
