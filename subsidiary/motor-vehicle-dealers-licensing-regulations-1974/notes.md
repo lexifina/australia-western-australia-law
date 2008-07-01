@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 August 2007 of the Motor Vehicle Dealers (Licensing) Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Motor Vehicle Dealers (Licensing) Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Motor Vehicle Dealers (Licensing) Regulations 1974 | 29 Mar 1974 p. 1103-21 | 5 Apr 1974 (see Gazette 5 Apr 1974 p. 1180)
@@ -34,3 +34,4 @@ Motor Vehicle Dealers (Licensing) Amendment Regulations 2005 | 28 Jun 2005 p. 28
 Motor Vehicle Dealers (Licensing) Amendment Regulations 2006 | 27 Jun 2006 p. 2257-9 | 1 Jul 2006 (see r. 2)
 Motor Vehicle Dealers (Licensing) Amendment Regulations 2007 | 15 Jun 2007 p. 2776-8 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Reprint 4: The Motor Vehicle Dealers (Licensing) Regulations 1974 as at 3 Aug 2007 (includes amendments listed above)
+Motor Vehicle Dealers (Licensing) Amendment Regulations 2008 | 17 Jun 2008 p. 2552-4 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
