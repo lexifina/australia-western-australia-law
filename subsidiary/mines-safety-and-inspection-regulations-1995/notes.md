@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 March 2008 of the Mines Safety and Inspection Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Mines Safety and Inspection Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Mines Safety and Inspection Regulations 1995 | 8 Dec 1995 p. 5629-932 | 9 Dec 1995 (see r. 1.2 and Gazette 8 Dec 1995 p. 5935)
@@ -28,6 +28,7 @@ Mines Safety and Inspection Amendment Regulations 2006 | 27 Jun 2006 p. 2279-80 
 Mines Safety and Inspection Amendment Regulations (No. 2) 2007 | 15 Jun 2007 p. 2788 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Mines Safety and Inspection Amendment Regulations 2008 | 29 Feb 2008 p. 684-92 | r. 1 and 2: 29 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
 Reprint 4: The Mines Safety and Inspection Regulations 1995 as at 20 Mar 2008 (includes amendments listed above)
+Mines Safety and Inspection Amendment Regulations (No. 2) 2008 | 17 Jun 2008 p. 2567-8 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Repealed by the Industrial Relations Commission Regulations 2005 r. 121.
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -39,13 +40,13 @@ The Mines Safety and Inspection Amendment Regulations 2005 r. 10(2)-(4) read as 
 the approval is to be treated as if it had been given by the Mining Industry Advisory Committee.
 (3) Any advice given by the Mines Occupational Safety and Health Advisory Board before the commencement of subregulation (1) for the purposes of paragraph (b) of the definition of “designated work” in regulation 3.23 is to be treated as if it had been given by the Mining Industry Advisory Committee.
 (4) In this regulation —
-“Mines Occupational Safety and Health Advisory Board” has the meaning given by section 4(1) of the Act as in force before the commencement of section 115(2) of the Occupational Safety and Health Legislation Amendment and Repeal Act 2004.
+Mines Occupational Safety and Health Advisory Board has the meaning given by section 4(1) of the Act as in force before the commencement of section 115(2) of the Occupational Safety and Health Legislation Amendment and Repeal Act 2004.
 ”.
 The Mines Safety and Inspection Amendment Regulations 2005 r. 13(2)-(3) read as follows:
 “
 (2) Any advice given by the Mines Occupational Safety and Health Advisory Board before the commencement of subregulation (1) for the purposes of regulation 9.2 is to be treated as if it had been given by the Mining Industry Advisory Committee.
 (3) In subregulation (2) —
-“Mines Occupational Safety and Health Advisory Board” has the meaning given by section 4(1) of the Act as in force before the commencement of section 115(2) of the Occupational Safety and Health Legislation Amendment and Repeal Act 2004.
+Mines Occupational Safety and Health Advisory Board has the meaning given by section 4(1) of the Act as in force before the commencement of section 115(2) of the Occupational Safety and Health Legislation Amendment and Repeal Act 2004.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
