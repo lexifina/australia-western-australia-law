@@ -75,4 +75,5 @@ Reprint 5: The Road Traffic (Infringements) Regulations 1975 as at 18 Aug 2006 (
 Road Traffic (Infringements) Amendment Regulations (No. 2) 2006 | 28 Nov 2006 p. 4911-12 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
 Road Traffic Legislation Amendment Regulations 2008 Pt. 5 | 14 Mar 2008 p. 832-4 | 15 Mar 2008 (see r. 2(b) and Gazette 14 Mar 2008 p. 829)
 Road Traffic Consequential Amendment Regulations 2008 Pt. 4 | 10 Jun 2008 p. 2449-67 | 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
+Road Traffic Amendment (Novice Driver Penalties) Regulations 2008 Pt. 3 | 27 Jun 2008 p. 3119-24 | r. 1 and 2: 27 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b) and Gazette 27 Jun 2008 p. 3117)
 This amendment was superseded in Gazette 29 Jun 1979 p. 1777-8.
