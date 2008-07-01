@@ -13,3 +13,4 @@ Mooring Amendment Regulations 2005 | 24 Jun 2005 p. 2779-80 | 1 Jul 2005 (see r.
 Mooring Amendment Regulations 2006 | 26 May 2006 p. 1879-80 | 26 May 2006
 Mooring Amendment Regulations (No. 2) 2006 | 23 Jun 2006 p. 2206 | 1 Jul 2006 (see r. 2)
 Mooring Amendment Regulations 2007 | 12 Jun 2007 p. 2725-6 | 1 Jul 2007 (see r. 2)
+Mooring Amendment Regulations 2008 | 24 Jun 2008 p. 2893 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
