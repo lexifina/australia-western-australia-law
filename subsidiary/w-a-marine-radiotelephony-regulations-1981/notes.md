@@ -25,4 +25,5 @@ W.A. Marine (Radiotelephony) Amendment Regulations 2005 | 24 Jun 2005 p. 2781-2 
 W.A. Marine (Radiotelephony) Amendment Regulations 2006 | 23 Jun 2006 p. 2213-14 | 1 Jul 2006 (see r. 2)
 Reprint 2: The W.A. Marine (Radiotelephony) Regulations 1981 as at 3 Nov 2006 (includes amendments listed above)
 W.A. Marine (Radiotelephony) Amendment Regulations 2007 | 12 Jun 2007 p. 2730-1 | 1 Jul 2007 (see r. 2)
+W.A. Marine (Radiotelephony) Amendment Regulations 2008 | 24 Jun 2008 p. 2897-8 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Repealed by r. 19 of these regulations.
