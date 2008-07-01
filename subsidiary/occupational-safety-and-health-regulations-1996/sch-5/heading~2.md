@@ -11,7 +11,7 @@ A substance capable of causing harm to the upper respiratory tract of a person |
 Any substance that contains more than — 0.1% antimony 0.1% arsenic 0.1% beryllium 0.1% cadmium 0.5% chromium 0.5% cobalt 0.1% lead 0.5% nickel 1.0% tin | As an abrasive material in abrasive blasting
 Any substance that contains chromate, nitrate or nitrite | As a wet abrasive blasting inhibitor in wet abrasive blasting
 Polychlorinated biphenyls (PCBs) | All uses and handling except for bona fide research or analysis, handling for storage awaiting disposal, handling for removal and disposal, handling for repairs*, and when contained in existing electrical equipment and construction materials
-* “Repairs” in relation to PCBs includes —
+* Repairs in relation to PCBs includes —
 (a)the controlled removal of PCBs from a piece of equipment to undertake repairs followed by the replacement of PCBs with non-PCB fluid and then the separate disposal of the PCBs;
 (b)the clean-up and disposal of PCBs that have spilled, leaked or otherwise escaped from the containment;
 (c)the clean-up and disposal of materials contaminated with PCBs during a process referred to in paragraph (a) or (b),
