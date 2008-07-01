@@ -36,20 +36,6 @@ Reprint 2: The Beekeepers Regulations 1963 as at 21 Jan 2005 (includes amendment
 Beekeepers Amendment Regulations 2005 | 31 May 2005 p. 2397-8 | 1 Jul 2005 (see r. 2)
 Beekeepers Amendment Regulations 2006 | 16 Jun 2006 p. 2113 | 1 Jul 2006 (see r. 2)
 Beekeepers Amendment Regulations 2007 | 15 Jun 2007 p. 2754-5 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Beekeepers Amendment Regulations 2008 r. 3 and 4 | 20 May 2008 p. 1936 | 1 Jul 2008 (see r. 2(b))
+Beekeepers Amendment Regulations 2008 | 20 May 2008 p. 1936 | r. 1 and 2: 20 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Repealed by the Conservation and Land Management Act 1984.
 Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference in a written law to Agriculture Western Australia is, unless the contrary is intended, to be read and construed as a reference to the Department of Agriculture.
-On the date as at which this compilation was prepared, the Beekeepers Amendment Regulations 2008 r. 3 and 4 had not come into operation. They read as follows:
-“
-3.The regulations amended
-The amendments in these regulations are to the Beekeepers Regulations 1963.
-4.Third Schedule amended
-The Third Schedule is amended as follows:
-(a) in item 1 by deleting “$30.50” and inserting instead —
-“ $31.50 ”;
-(b) in item 2 by deleting “$18.30” and inserting instead —
-“ $18.90 ”.
-”.
