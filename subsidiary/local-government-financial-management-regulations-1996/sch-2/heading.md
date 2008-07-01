@@ -4,7 +4,7 @@ Form 1
 Local Government Act 1995
 Local Government (Financial Management) Regulations 1996
 Statement by CEO
-The attached financial report of the (1) Shire/Town/City of (2)................................ being the annual financial report and supporting notes and other information for the financial year ended 30 June (3) ........ are in my opinion properly drawn up to present fairly the financial position of the (1) Shire/Town/City of (2)...................... at 30 June (3).............. and the results of the operations for the financial year then ended in accordance with the Australian Accounting Standards (except to the extent that these have been varied in the Statement of Accounting Policies required by Australian Accounting Standard AAS 6 “Accounting Policies” and the accompanying notes to the annual financial report) and comply with the provisions of the Local Government Act 1995 and the regulations under that Act.
+The attached financial report of the (1) Shire/Town/City of (2)................................ being the annual financial report and supporting notes and other information for the financial year ended 30 June (3) ........ are in my opinion properly drawn up to present fairly the financial position of the (1) Shire/Town/City of (2)...................... at 30 June (3).............. and the results of the operations for the financial year then ended in accordance with the Australian Accounting Standards and comply with the provisions of the Local Government Act 1995 and the regulations under that Act.
 Signed on the (4).................... day of ........................, 20........
 ........................................................
 CEO
@@ -14,7 +14,7 @@ Name of CEO
 (2)insert name of local government
 (3)insert year
 (4)insert date
-[Form 1 amended in Gazette 18 Jun 1999 p. 2640.]
+[Form 1 amended in Gazette 18 Jun 1999 p. 2640; 20 Jun 2008 p. 2728.]
 Form 2
 [reg. 72]
 Local Government Act 1995

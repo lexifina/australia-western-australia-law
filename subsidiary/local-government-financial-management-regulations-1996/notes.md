@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 February 2006 of the Local Government (Financial Management) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Local Government (Financial Management) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Local Government (Financial Management) Regulations 1996 | 24 Jun 1996 p. 2681-750 | 1 Jul 1996 (see r. 2)
@@ -15,3 +15,4 @@ Local Government (Financial Management) Amendment Regulations (No. 3) 2004 | 30 
 Local Government (Financial Management) Amendment Regulations 2005 | 7 Jan 2005 p. 71-2 | 7 Jan 2005
 Local Government (Financial Management) Amendment Regulations (No. 2) 2005 | 31 Mar 2005 p. 1047-53 | 1 Jul 2005 (see r. 2)
 Reprint 2: The Local Government (Financial Management) Regulations 1996 as at 17 Feb 2006 (includes amendments listed above)
+Local Government (Financial Management) Amendment Regulations 2008 | 20 Jun 2008 p. 2720-8 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
