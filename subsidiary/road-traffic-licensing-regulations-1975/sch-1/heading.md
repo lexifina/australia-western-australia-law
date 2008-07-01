@@ -9,7 +9,7 @@ THIS IS TO CERTIFY that ........................................................
 Dated this....................................day of.......................................20.......
 ...................................................... Mayor/President
 ...................................................... Town/Shire Clerk
-[Forms 2, 3, 4 repealed in Gazette 28 Nov 1986 p. 4382.]
+[Forms 2, 3, 4 deleted in Gazette 28 Nov 1986 p. 4382.]
 Form 5
 [Reg. 25A(1)]
 Road Traffic Act 1974
@@ -32,4 +32,4 @@ Dated this ............................... day of ..............................
 ....................................................... Signed by Vendor
 ...................................................... Signed by Purchaser
 [Form 6 inserted in Gazette 24 May 1985 p. 1763; amended in Gazette 28 Nov 2006 p. 4910; 22 Jun 2007 p. 2874.]
-[Schedule 2 repealed in Gazette 28 Nov 2006 p. 4909.]
+[Schedule 2 deleted in Gazette 28 Nov 2006 p. 4909.]
