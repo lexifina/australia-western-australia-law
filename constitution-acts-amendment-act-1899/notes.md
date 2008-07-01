@@ -240,6 +240,7 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
  | Child Care Services Act 2007 Pt. 7 Div. 2 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
  | Reprint 15: The Constitution Acts Amendment Act 1899 as at 2 Aug 2007 (includes amendments listed above except those in the Child Care Services Act 2007 and the Nurses and Midwives Act 2006)
+ | Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | 1 Jul 2008 (see s. 2(b) and Gazette 20 Jun 2008 p. 2705)
  | Water Resources Legislation Amendment Act 2007 s. 192 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -249,9 +250,9 @@ Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 1
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22, 35 and 51 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
-Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Legal Profession Act 2008 s. 650 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
+Eastern Goldfields Transport Board Repeal Act 2008 s. 12 | 28 of 2008 | 1 Jul 2008 | 29 Jul 2008
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -406,19 +407,9 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (2) Schedule V Part 3 is amended in the item relating to the Legal Contribution Trust by deleting “Legal Contribution Trust Act 1967.” and inserting instead —
 “ Legal Profession Act 2008. ”.
 ”.
-On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 s. 100, which gives effect to Sch. 4 cl. 1, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Eastern Goldfields Transport Board Repeal Act 2008 s. 12 had not come into operation. It reads as follows:
 “
-100.Consequential amendments
-Each Act specified in Schedule 4 is amended as set out in that Schedule.
-”.
-Schedule 4, cl. 1 reads as follows:
-“
-Schedule 4 — Amendments and repeals
-[s. 100]
-1.Constitution Acts Amendment Act 1899 amended
-(1) The amendment in this clause is to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended by inserting after the item relating to the Veterinary Surgeons’ Board the following item —
-“
-The Waste Authority established under the Waste Avoidance and Resource Recovery Act 2007.
-”.
+12.Constitution Acts Amendment Act 1899 amended
+(1) The amendment in this section is to the Constitution Acts Amendment Act 1899.
+(2) Schedule V Part 3 is amended by deleting “The Eastern Goldfields Transport Board preserved and continued under the Eastern Goldfields Transport Board Act 1984.”.
 ”.

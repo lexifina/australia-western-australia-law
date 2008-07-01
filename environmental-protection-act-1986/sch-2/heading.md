@@ -2,7 +2,7 @@
 [Section 123(2)]
 ## Matters in respect of which regulations may be made
 1.In this Schedule —
-“specified” means specified in regulations made under section 123.
+specified means specified in regulations made under section 123.
 2.The fees to apply under this Act, including, without limiting sections 43, 45 and 45A of the Interpretation Act 1984, the following —
 (a)the time at which, or the periods for or during which, fees are to be paid;
 (b)the structure of fees;
@@ -11,7 +11,7 @@
 (e)penalties for late payment or underpayment of fees;
 (f)recovery of fees;
 (g)refunding of fees.
-2A.Without limiting item 2, in the case of a works approval or licence under Part V or a licence, permit, approval or exemption under the regulations (an “authorisation”) —
+2A.Without limiting item 2, in the case of a works approval or licence under Part V or a licence, permit, approval or exemption under the regulations (an authorisation) —
 (a)prescribing fees that are payable before or when the authorisation is granted, issued or given and fees that are payable at prescribed intervals or in prescribed circumstances during the currency of the authorisation;
 (b)providing for the authorisation to cease to have effect if a fee is not paid in accordance with the regulations.
 3.The taking of measurements and analysis of substances and things for the purposes of this Act.
@@ -57,7 +57,7 @@ and the evidential status and probative value of those matters.
 30C.Prohibiting or regulating the manufacture, sale, distribution for sale, use or operation of any prescribed substance or thing or any substance or thing of a prescribed class or description.
 31.Prohibiting the carrying on of a trade, industry or process except in accordance with such conditions relating to the emission or transmission of noise, odour or electromagnetic radiation arising in the course of the carrying on of the trade, industry or process as are specified.
 32.Prohibiting or regulating the use or operation of any article, or the carrying on of any trade, industry or process, at any specified times.
-33.Regulating and controlling the transport, storage and disposal of waste and specifying conditions for the re-use thereof.
+33.Regulating and controlling the collection, transport, storage and disposal of waste and specifying conditions for the re-use thereof.
 33A.Requiring any information or documents supplied for the purposes of the Act to be verified by statutory declaration.
 33B.Making provision for or with respect to guidelines to be observed in relation to the content of financial assurance requirements.
 34.Prescribing administrative procedures for the purposes referred to in section 122(1)(a).
@@ -66,4 +66,4 @@ and the evidential status and probative value of those matters.
 36.The keeping, inspection and production of records and registers under this Act.
 36A.The keeping and production of returns and other information by a licensee in relation to the receipt of waste.
 37.Creating offences under the regulations and penalties for the commission thereof not exceeding $5 000.
-[Schedule 2 amended by No. 14 of 1998 s. 19, 21 and 36; No. 54 of 2003 s. 26, 67, 86, 89, 96 and 138.]
+[Schedule 2 amended by No. 14 of 1998 s. 19, 21 and 36; No. 54 of 2003 s. 26, 67, 86, 89, 96 and 138; No. 36 of 2007 s. 100.]
