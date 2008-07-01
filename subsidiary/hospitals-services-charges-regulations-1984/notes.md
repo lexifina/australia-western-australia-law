@@ -103,31 +103,7 @@ Hospitals (Services Charges) Amendment Regulations 2007 | 29 Jun 2007 p. 3195 | 
 Hospitals (Services Charges) Amendment Regulations (No. 2) 2007 | 10 Jul 2007 p. 3418-19 | r. 1 and 2: 10 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jul 2007 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 3) 2007 | 30 Oct 2007 p. 5882-3 | r. 1 and 2: 30 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2007 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations 2008 | 25 Jan 2008 p. 213-14 | r. 1 and 2: 25 Jan 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Jan 2008 (see r. 2(b))
-Hospitals (Services Charges) Amendment Regulations (No. 2) 2008 | 10 Jun 2008 p. 2488-9 | r. 1 and 2: 10 Jun 2008 (see r. 2(a)); r. 4(1)(c) and (d): 11 Jun 2008 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Hospitals (Services Charges) Amendment Regulations (No. 2) 2008 r. 4(1)(a), (b), (e), (2)-(4) | 10 Jun 2008 p. 2488-9 | 1 Jul 2008 (see r. 2(c))
+Hospitals (Services Charges) Amendment Regulations (No. 2) 2008 | 10 Jun 2008 p. 2488-9 | r. 1 and 2: 10 Jun 2008 (see r. 2(a)); r. 4(1)(c) and (d): 11 Jun 2008 (see r. 2(b)) r. 4(1)(a), (b), (e) and (2)-(4): 1 Jul 2008 (see r. 2(c))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with the Interpretation Act 1984 s. 42(1), subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date of 1 September 1990 that was specified in these regulations was before the date of their publication in the Gazette.
-On the date as at which this compilation was prepared, the Hospitals (Services Charges) Amendment Regulations (No. 2) 2008 r. 4(1)(a), (b), (e), (2)-(4) had not come into operation. They read as follows:
-“
-4.Schedule 1 amended
-(1) Schedule 1 Division 1 is amended as follows:
-(a) in item 1(b)(i) by deleting “$484 per day” and inserting instead —
-“ $496 per day ”;
-(b) in item 1(b)(ii) by deleting “$275 per day” and inserting instead —
-“ $287 per day ”;
-(e) in item 1(e) by deleting “$1 213 per day” and inserting instead —
-“ $1 288 per day ”.
-(2) Schedule 1 Division 3 item 4(b) is amended by deleting “$138” and inserting instead —
-“ $146 ”.
-(3) Schedule 1 Division 4 is amended as follows:
-(a) in item 6(b) by deleting “$218 per day” and inserting instead —
-“ $223 per day ”;
-(b) in item 6(d) by deleting “$1 146 per day” and inserting instead —
-“ $1 258 per day ”.
-(4) Schedule 1 Division 5 item 7 is amended by deleting “$25.25 per day” and inserting instead —
-“ $26.75 per day ”.
-”.
