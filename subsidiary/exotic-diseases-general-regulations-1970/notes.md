@@ -30,18 +30,7 @@ Reprint 1: The Exotic Diseases (General) Regulations 1970 as at 11 Apr 2003 (inc
 Exotic Diseases (General) Amendment Regulations 2003 | 17 Jun 2003 p. 2201-2 | 1 Jul 2003 (see r. 2)
 Exotic Diseases (General) Amendment Regulations 2006 | 16 Jun 2006 p. 2115-16 | 1 Jul 2006 (see r. 2)
 Exotic Diseases (General) Amendment Regulations 2007 | 15 Jun 2007 p. 2755-6 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Exotic Diseases (General) Amendment Regulations 2008 r. 3 and 4 | 20 May 2008 p. 1938-9 | 1 Jul 2008 (see r. 2(b))
+Exotic Diseases (General) Amendment Regulations 2008 | 20 May 2008 p. 1938-9 | r. 1 and 2: 20 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Now known as the Local Government Act 1995.
 Now known as the Exotic Diseases (General) Regulations 1970; citation changed (see note under r. 1).
 These regulations were originally made under the Stock Diseases (Regulations) Act 1968. By virtue of the Exotic Diseases of Animals Act 1993 s. 59(2), these regulations continue as if they had been made under that Act.
-On the date as at which this compilation was prepared, the Exotic Diseases (General) Amendment Regulations 2008 r. 3 and 4 had not come into operation. They read as follows:
-“
-3.The regulations amended
-The amendments in these regulations are to the Exotic Diseases (General) Regulations 1970.
-4.Regulation 13E amended
-Regulation 13E(4) is amended by deleting “$248.00.” and inserting instead —
-“ $257.00. ”.
-”.
