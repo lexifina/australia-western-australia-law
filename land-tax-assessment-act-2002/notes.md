@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 28 March 2008 of the Land Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Tax Assessment Act 2002 | 52 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -17,12 +17,13 @@ Land Information Authority Act 2006 s. 142 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Revenue Laws Amendment (Taxation) Act 2007 Pt. 3 | 12 of 2007 | 29 Jun 2007 | 30 Jun 2007 (see s. 2(c)(i))
 Reprint 2: The Land Tax Assessment Act 2002 as at 28 Mar 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Revenue Laws Amendment Act 2008 Pt. 4 | 30 of 2008 | 27 Jun 2008 | 1 Jul 2008 (see s. 2(1)(c))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 83 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources.
 Repealed by the Land Administration Act 1997 s. 281.
 Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. r. 1-5 and Pt. 3 Div. 2 of that notice read as follows:
@@ -37,9 +38,9 @@ This notice comes into operation on the day after the day on which it is registe
 Note:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
 4.Definitions
 In this notice —
-“applied WA law” means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
-“Commissioner of State Revenue” means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
-“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
+applied WA law means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
+Commissioner of State Revenue means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
+Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
 5.Modification of applied WA laws
 (1) For the purposes of the Commonwealth Mirror Taxes Act section 8, each applied WA law is taken to be modified to the extent necessary to give effect to subclause (2).
 (2) If —
@@ -78,9 +79,9 @@ Section 5 is modified by inserting before “in the State” —
 19.Glossary modified
 (1) The Glossary clause 1 is modified by inserting in their appropriate alphabetical positions —
 “
-“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998;
-“corresponding Land Tax Act” means the Land Tax Act 2002 of Western Australia in its application as a law of Western Australia;
-“corresponding Land Tax Assessment Act” means the Land Tax Assessment Act 2002 of Western Australia in its application as a law of Western Australia;
+Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998;
+corresponding Land Tax Act means the Land Tax Act 2002 of Western Australia in its application as a law of Western Australia;
+corresponding Land Tax Assessment Act means the Land Tax Assessment Act 2002 of Western Australia in its application as a law of Western Australia;
 ”.
 (2) The Glossary clause 1 is modified in the definition of “registered” by inserting after “any Act” —
 “ of the Parliament of Western Australia ”.
@@ -134,9 +135,9 @@ Section 5 is modified by inserting after “State” —
 18.Glossary modified
 The Glossary clause 1 is modified by inserting in their appropriate alphabetical positions —
 “
-“applied Land Tax Act” means the Land Tax Act 2002 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act;
-“applied Land Tax Assessment Act” means the Land Tax Assessment Act 2002 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act;
-“Commonwealth Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth;
+applied Land Tax Act means the Land Tax Act 2002 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act;
+applied Land Tax Assessment Act means the Land Tax Assessment Act 2002 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act;
+Commonwealth Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth;
 ”.
 ”.
 The Business Tax Review (Assessment) Act 2003 s. 7 and s. 10 read as follows:
@@ -144,12 +145,12 @@ The Business Tax Review (Assessment) Act 2003 s. 7 and s. 10 read as follows:
 7.Financial years before the commencement day
 (1) Despite the amendments effected by this Part, the Land Tax Assessment Act 2002, as in force immediately before the commencement day, continues to apply in relation to land tax payable for financial years that commence before the commencement day.
 (2) In this section —
-“commencement day” means the day on which this Part comes into operation.
+commencement day means the day on which this Part comes into operation.
 10.Requirement to reassess
 The Commissioner of State Revenue must make any reassessment necessary to give effect to the amendments effected by this Part.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the State Superannuation Amendment Act 2007 s. 83 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 83 had not come into operation. It reads as follows:
 “
 83.Land Tax Assessment Act 2002 amended
 (1) The amendments in this section are to the Land Tax Assessment Act 2002.
