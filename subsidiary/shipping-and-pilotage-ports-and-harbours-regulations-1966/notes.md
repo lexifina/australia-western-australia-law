@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 26 October 2007 of the Ports and Harbours Regulations 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Ports and Harbours Regulations 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Ports and Harbours Regulations | 3 Feb 1966 p. 277-92 | 3 Feb 1966
@@ -72,8 +72,9 @@ Ports and Harbours Amendment Regulations 2006 | 23 Jun 2006 p. 2208-11 | 1 Jul 2
 Ports and Harbours Amendment Regulations 2007 | 12 Jun 2007 p. 2721-2 | 1 Jul 2007 (see r. 2)
 Ports and Harbours Amendment Regulations (No. 2) 2007 | 12 Jun 2007 p. 2723-5 | 1 Jul 2007 (see r. 2)
 Reprint 2: The Ports and Harbours Regulations 1966 as at 26 Oct 2007 (includes amendments listed above)
+Ports and Harbours Amendment Regulations (No. 3) 2008 | 1 Jul 2008 p. 3156-9 | r. 1 and 2: 1 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Repealed by the Port Authorities (Consequential Provisions) Act 1999.
-Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act. As at the date this reprint was prepared the department principally assisting the Minister in the administration of the Marine and Harbours Act 1981 is the Department of Planning and Infrastructure.
+Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act. As at the date this compilation was prepared the department principally assisting the Minister in the administration of the Marine and Harbours Act 1981 is the Department of Planning and Infrastructure.
 Now known as the Australian Maritime Safety Authority.
 Repealed by the Pollution of Waters by Oil and Noxious Substances Act 1987.
 Now see the Workplace Relations Act 1996 of the Commonwealth.
