@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 22 February 2008 of the Country Towns Sewerage By-laws 1952 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Country Towns Sewerage By-laws 1952 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Country Towns Sewerage Act By-laws | 22 Feb 1952 p. 478-510 | 22 Feb 1952
@@ -69,6 +69,7 @@ Water Agencies Amendment By-laws 2006 Pt. 4 | 30 Jun 2006 p. 2399-412 | 1 Jul 20
 Country Towns Sewerage Amendment By-laws (No. 2) 2007 | 5 Apr 2007 p. 1531-3 | 5 Apr 2007
 Water Agencies Amendment By-laws 2007 Pt. 4 | 29 Jun 2007 p. 3233-44 | 1 Jul 2007 (see bl. 2(b))
 Reprint 5: The Country Towns Sewerage By-laws 1952 as at 22 Feb 2008 (includes amendments listed above)
+ | Water Agencies Amendment By-laws 2008 Pt. 4 | 27 Jun 2008 p. 3076-84 | 1 Jul 2008 (see bl. 2(b))
 These by-laws have effect for the purposes of the Country Towns Sewerage Act 1948 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34. See also the Country Towns Sewerage Act 1948 s. 102.
 Refers to the Standards Association of Australia, which has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Economic Regulation Authority Act 2003 Sch. 3 cl.12, a reference to the Coordinator of Water Services in an enactment may, where the context so requires, be read as if it had been amended to be a reference to the Economic Regulation Authority.
@@ -108,6 +109,11 @@ The Water Agencies Amendment By-laws 2007 bl. 3 reads as follows:
 “
 3.Application
 Nothing in these by-laws affects the application after 1 July 2007 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
+”.
+The Water Agencies Amendment By-laws 2008 bl. 3 reads as follows:
+“
+3.Application
+Nothing in these by-laws affects the application after 1 July 2008 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

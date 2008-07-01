@@ -85,6 +85,7 @@ Reprint 3: The Country Areas Water Supply By-laws 1957 as at 17 Mar 2006 (includ
 Water Agencies Amendment By-laws 2006 Pt. 3 | 30 Jun 2006 p. 2399-412 | 1 Jul 2006 (see bl. 2)
 Water Agencies Amendment By-laws 2007 Pt. 3 | 29 Jun 2007 p. 3233-44 | 1 Jul 2007 (see bl. 2)
 Country Areas Water Supply Amendment By-laws 2008 | 23 May 2008 p. 2006-8 | bl. 1 and 2: 23 May 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 24 May 2008 (see bl. 2(b))
+Water Agencies Amendment By-laws 2008 Pt. 3 | 27 Jun 2008 p. 3076-84 | 1 Jul 2008 (see bl. 2(b))
 These by-laws have effect for the purposes of the Country Areas Water Supply Act 1947 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988.
 Repealed by the Factories and Shops Act 1963, which was repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
@@ -126,4 +127,9 @@ The Water Agencies Amendment By-laws 2007 bl. 3 reads as follows:
 “
 3.Application
 Nothing in these by-laws affects the application after 1 July 2007 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
+”.
+The Water Agencies Amendment By-laws 2008 bl. 3 reads as follows:
+“
+3.Application
+Nothing in these by-laws affects the application after 1 July 2008 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
 ”.
