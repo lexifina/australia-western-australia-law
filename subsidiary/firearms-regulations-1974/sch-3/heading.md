@@ -98,10 +98,10 @@ and
 (a) if the approval, permit or licence relates to one or more handguns in a single discipline — the licensee must use one of those handguns in at least 6 shooting competitions organised by the club for the discipline on different days in each year; or
 (b) if the approval, permit or licence relates to at least one handgun in each of 2 or more disciplines — the licensee must use a handgun from each discipline in at least 4 shooting competitions organised by the club for the discipline on different days in each year.
 (7) In this clause —
-“approved” means —
+approved means —
 (a)approved by the Commissioner; or
 (b)approved in another State or Territory under a law of that State or Territory corresponding to this clause;
-“barrel length” in relation to a handgun means —
+barrel length in relation to a handgun means —
 (a)in the case of a revolver — the distance from the muzzle of the barrel to the breach end immediately in front of the cylinder; and
 (b)in any other case — the distance from the muzzle of the barrel to the point of the breach face (including the chamber), measured with the top slide (if any) in the closed position.
 [Schedule 3 inserted in Gazette 6 Dec 1996 p. 6842-6; amended in Gazette 24 Sep 1997 p. 5367; 12 Aug 2003 p. 3670-1; 24 Dec 2004 p. 6268.]
