@@ -2,7 +2,7 @@
 [Section 26]
 Matters in respect of which the Governor may make regulations
 1.The form of the common seal of the Trust and the manner in which it shall be kept and used.
-2.The care, control, management, maintenance and improvement of buildings and land controlled by, leased to or vested in the Trust (in this Schedule called “Trust buildings and land”).
+2.The care, control, management, maintenance and improvement of buildings and land controlled by, leased to or vested in the Trust (in this Schedule called Trust buildings and land).
 3.The securing of decency and order among persons within or on Trust buildings and land.
 4.The admission to, and the exclusion or expulsion from, Trust buildings and land of persons.
 5.The regulation or prohibition of the taking of intoxicating liquor into or onto, and the consumption thereof in or on, Trust buildings and land.
