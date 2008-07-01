@@ -22,11 +22,11 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 3: The Gold Corporation Act 1987 as at 10 Jun 2005 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 46(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Now known as the Western Australian Mint Act 1970, which is repealed by this Act.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Acts 1984 s. 7(3)(g).
 The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
@@ -58,26 +58,4 @@ has the same effect after commencement, to the extent that it has any force or s
 (3) In this section —
 “commencement” means the time at which this Division comes into operation;
 “Minister” means the Minister to whom the administration of the Western Australian Treasury Corporation Act 1986 is committed.
-”.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 11, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 11 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-11.Gold Corporation Act 1987
-(1) Section 4(5) is amended by deleting “stamp duties” and inserting instead —
-“ duty under the Duties Act 2008 ”.
-(2) Section 16(9) is amended as follows:
-(a) by deleting “instrument executed” and inserting instead —
-“ transaction ”;
-(b) by deleting “stamp duty chargeable under the Stamp Act 1921.” and inserting instead —
-“ duty chargeable under the Duties Act 2008. ”.
-(3) Section 35(6) is amended by deleting “stamp duties” and inserting instead —
-“ duty under the Duties Act 2008 ”.
-(4) Section 48(5) is amended by deleting “stamp duties” and inserting instead —
-“ duty under the Duties Act 2008 ”.
 ”.

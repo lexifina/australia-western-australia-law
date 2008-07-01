@@ -49,11 +49,11 @@ Workers’ Compensation Reform Act 2004 s. 161 | 42 of 2004 | 9 Nov 2004 | 14 No
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
  | Hospitals and Health Services Amendment Act 2006 | 45 of 2006 | 4 Oct 2006 | 4 Oct 2006 (see s. 2)
  | Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The “appointed day” was 13 Dec 1997 (see Gazette 7 Nov 1997 p. 6136).
@@ -64,7 +64,7 @@ The Hospitals and Health Services Amendment Act 2002 s. 8 reads as follows:
 “
 8.Validation
 (1) In this section —
-“agency” has the same meaning as it has in the Hospitals and Health Services Act 1927.
+agency has the same meaning as it has in the Hospitals and Health Services Act 1927.
 (2) Anything done or purporting to have been done by an agency for the purposes referred to in section 7B(1) of the Hospitals and Health Services Act 1927 is, and is taken always to have been, as valid and effective as it would have been if the amendments to that Act in sections 5 and 6 had at all relevant times been made.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -89,23 +89,11 @@ Division 13 — Transitional provisions
 289.Commissioner of Health
 (1) A thing done or omitted to be done by, to or in relation to, the Commissioner of Health before commencement under, or for the purposes of, an enactment has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the CEO.
 (2) In this section —
-“CEO” has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
-“commencement” means the time at which this Division comes into operation;
-“Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
+CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
+commencement means the time at which this Division comes into operation;
+Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 ”.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 16, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 16 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-16.Hospitals and Health Services Act 1927
-Section 35 is amended by deleting “stamp duty.” and inserting instead —
-“ duty under the Duties Act 2008. ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 27, had not come into operation. It reads as follows:
 “
 162.Consequential amendments

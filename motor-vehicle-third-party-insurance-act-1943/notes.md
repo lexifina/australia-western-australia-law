@@ -61,10 +61,10 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 11: The Motor Vehicle (Third Party Insurance) Act 1943 as at 2 Dec 2005 (includes amendments listed above)
 Motor Vehicle (Third Party Insurance) Amendment Act 2006 | 15 of 2006 | 17 May 2006 | Act other than s. 5: 17 May 2006 (see s. 2(1)); s. 5: 1 Jul 2006 (see s. 2(2) and Gazette 16 Jun 2006 p. 2109)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Legal Profession Act 2008 s. 682 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 For the purposes of s. 3C and 3D, the Amounts A, B, C and D for the financial years beginning after 30 June 1994 up to the date of this reprint are as set out in this Table.
 Financial year beginning | Amount A | Amount B | Amount C | Amount D | Gazette
@@ -98,14 +98,14 @@ The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 
 (a) instead of being made by the Minister referred to in the former section 15C, the agreement had been made by the Director General referred to in the new provision of the relevant Act; and
 (b) instead of providing for the performance of functions of the former Director General, the agreement made similar provision for the performance of the corresponding functions of the Director General referred to in the new provision of the relevant Act.
 (3) In this section —
-“former Director General” means the Director General of Transport under the Transport Co-ordination Act 1966 section 8 as in force before it was repealed by this Act;
-“former section 15C” means the Transport Co-ordination Act 1966 section 15C as in force before it was repealed by this Act;
-“new provision” means —
+former Director General means the Director General of Transport under the Transport Co-ordination Act 1966 section 8 as in force before it was repealed by this Act;
+former section 15C means the Transport Co-ordination Act 1966 section 15C as in force before it was repealed by this Act;
+new provision means —
 (a)the Control of Vehicles (Off-road Areas) Act 1978 section 4B;
 (b)the Motor Vehicle Drivers Instructors Act 1963 section 4A;
 (c)the Motor Vehicle (Third Party Insurance) Act 1943 section 3QA; or
 (d)the Road Traffic Act 1974 section 6B;
-“relevant Act” means —
+relevant Act means —
 (a)the Control of Vehicles (Off-road Areas) Act 1978;
 (b)the Motor Vehicle Drivers Instructors Act 1963;
 (c)the Motor Vehicle (Third Party Insurance) Act 1943; or
@@ -117,16 +117,16 @@ The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 
 (b) instead of delegating the performance of functions of the former Director General, the performance of the corresponding functions of the Director General referred to in the new provision of the relevant Act were delegated; and
 (c) any Ministerial approval that would have been required in order for the delegation to be made under the new provision of the relevant Act had been given.
 (3) In this section —
-“former Director General” means the Director General of Transport under the Transport Co-ordination Act 1966 section 8 as in force before it was repealed by this Act;
-“former section 18” means the Transport Co-ordination Act 1966 section 18 as in force before it was amended by this Act;
-“new provision” means —
+former Director General means the Director General of Transport under the Transport Co-ordination Act 1966 section 8 as in force before it was repealed by this Act;
+former section 18 means the Transport Co-ordination Act 1966 section 18 as in force before it was amended by this Act;
+new provision means —
 (a)the Control of Vehicles (Off-road Areas) Act 1978 section 4A;
 (b)the Motor Vehicle Drivers Instructors Act 1963 section 4;
 (c)the Motor Vehicle (Third Party Insurance) Act 1943 section 3QB;
 (d)the Rail Safety Act 1998 section 57A;
 (e)the Road Traffic Act 1974 section 6A; or
 (f)the Transport Co-ordination Act 1966 section 18;
-“relevant Act” means —
+relevant Act means —
 (a)the Control of Vehicles (Off-road Areas) Act 1978;
 (b)the Motor Vehicle Drivers Instructors Act 1963;
 (c)the Motor Vehicle (Third Party Insurance) Act 1943;
@@ -136,26 +136,13 @@ The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 
 69.Regulations about transitional matters
 (1) If there is no sufficient provision in this Act for dealing with a transitional matter, regulations under an Act amended by this Act may include any provision that is required, or is necessary or convenient, for dealing with the transitional matter.
 (2) In subsection (1) —
-“transitional matter” means a matter that needs to be dealt with for the purpose of effecting the transition from the provisions of the Acts amended by this Act as in force before this Act comes into operation to the provisions of those Acts as in force after this Act comes into operation.
+transitional matter means a matter that needs to be dealt with for the purpose of effecting the transition from the provisions of the Acts amended by this Act as in force before this Act comes into operation to the provisions of those Acts as in force after this Act comes into operation.
 (3) Regulations including a provision described in subsection (1) may be expressed to have effect before the day on which they are published in the Gazette.
 (4) To the extent that a regulation including a provision described in subsection (1) may have effect before the day of its publication in the Gazette, it does not —
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State), the rights of that person existing before the day of its publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of its publication.
 ”.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 23, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 23 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-23.Motor Vehicle (Third Party Insurance) Act 1943
-(1) Section 3R(4)(b) is amended by deleting “stamp duty payable” and inserting instead —
-“ duty payable under the Duties Act 2008 ”.
-(2) Section 21(2) is amended by deleting “stamp”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 682 had not come into operation. It reads as follows:
 “
 682.Motor Vehicle (Third Party Insurance) Act 1943 amended

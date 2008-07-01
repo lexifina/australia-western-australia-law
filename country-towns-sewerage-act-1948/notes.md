@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Country Towns Sewerage Act 1948 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Country Towns Sewerage Act 1948 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Country Towns Sewerage Act 1948 | 82 of 1948 | 26 Jan 1949 | 8 Apr 1949 (see s. 1 and Gazette 8 Apr 1949 p. 770)
@@ -41,9 +41,6 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Water Legislation Amendment (Competition Policy) Act 2005 Pt. 3 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
 Reprint 6: The Country Towns Sewerage Act 1948 as at 21 Jul 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 131 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Now known as the Water Agencies (Powers) Act 1984.
 Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
@@ -58,22 +55,10 @@ The State Administrative Tribunal Regulations 2004 r. 44 reads as follows:
 “
 44.Country Towns Sewerage Act 1948
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 29 comes into operation;
-“Corporation” has the meaning given to that term in the CTS Act section 3(1);
-“the CTS Act” means the Country Towns Sewerage Act 1948.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 29 comes into operation;
+Corporation has the meaning given to that term in the CTS Act section 3(1);
+the CTS Act means the Country Towns Sewerage Act 1948.
 (2) If the Corporation receives, before the commencement day, a notice in accordance with the CTS Act section 62(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the relevant entry to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the CTS Act section 62(1).
 (3) If the Corporation receives, before the commencement day, a notice in accordance with the CTS Act section 63(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the decision to the State Administrative Tribunal under the CTS Act section 63(1).
 (4) If a notice has been given under the CTS Act section 61(6) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
-”.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 5, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 5 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-5.Country Towns Sewerage Act 1948
-Section 96(4) is amended by deleting “stamp”.
 ”.

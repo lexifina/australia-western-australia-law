@@ -67,12 +67,12 @@ Land Information Authority Act 2006 s. 103-118 | 60 of 2006 | 16 Nov 2006 | 1 Ja
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 8: The Transfer of Land Act 1893 as at 15 Jun 2007 (includes amendments listed above)
 Petroleum Amendment Act 2007 s. 106 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
 Acts Amendment (Justice) Act 2008 Pt. 24 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Legal Profession Act 2008 s. 711 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
@@ -245,23 +245,7 @@ lodged unless —
 (d) section 142 applies.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 38, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 38 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-38.Transfer of Land Act 1893
-(1) Section 81U(3) is amended by deleting “in accordance with the Stamp Act 1921.” and inserting instead —
-“
-or endorsed to indicate duty under the Stamp Act 1921 or the Duties Act 2008.
-”.
-(2) The Twenty-sixth Schedule is amended in condition 8 by deleting “stamp duties” and inserting instead —
-“ duty under the Duties Act 2008 ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 711 had not come into operation. It reads as follows:
 “
 711.Transfer of Land Act 1893 amended

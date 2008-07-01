@@ -17,10 +17,10 @@ Reprint 2: The Gas Pipelines Access (Western Australia) Act 1998 as at 8 Oct 200
 Electricity Corporations Act 2006 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 Energy Operators (Powers) Amendment Act 2006 s. 5 | 8 of 2006 | 5 May 2006 | 5 May 2006 (see s. 2)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Legal Profession Act 2008 s. 665 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
 The copy of the Code reproduced in Schedule 2 is a copy of the Code in its original form, as agreed by the Council of Australian Governments on 7 November 1997. It does not include subsequent amendments to the Code. Copies of the Code as amended are available from the Code Registrar in accordance with Schedule 1 clause 7.
@@ -39,13 +39,13 @@ Schedule 3 — Transitional and saving provisions for amendments in Schedule 2 D
 [s. 63(1)]
 1.Definitions
 In this Schedule —
-“commencement day” means the day on which this Schedule comes into operation;
-“former official” means —
+commencement day means the day on which this Schedule comes into operation;
+former official means —
 (a)the Coordinator of Water Services referred to in section 4 of the Water Services Coordination Act 1995 as in effect immediately before the commencement day;
 (b)the Gas Pipelines Access Regulator; or
 (c)the Rail Access Regulator;
-“Gas Pipelines Access Regulator” means the Western Australian Independent Gas Pipelines Access Regulator referred to in section 27 of the Gas Pipelines Access (Western Australia) Act 1998 as in effect immediately before the commencement day;
-“Rail Access Regulator” means the Western Australian Independent Rail Access Regulator referred to in section 13 of the Railways (Access) Act 1998 as in effect immediately before the commencement day.
+Gas Pipelines Access Regulator means the Western Australian Independent Gas Pipelines Access Regulator referred to in section 27 of the Gas Pipelines Access (Western Australia) Act 1998 as in effect immediately before the commencement day;
+Rail Access Regulator means the Western Australian Independent Rail Access Regulator referred to in section 13 of the Railways (Access) Act 1998 as in effect immediately before the commencement day.
 2.Interpretation Act 1984 to apply
 This Schedule does not limit the operation of the Interpretation Act 1984.
 3.Decisions of Gas Pipelines Access Regulator
@@ -84,25 +84,13 @@ The operation of any provision of this Schedule is not to be regarded —
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
 ”.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 10, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 10 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-10.Gas Pipelines Access (Western Australia) Act 1998
-Section 23(1) is amended by deleting “stamp duty or other” and inserting instead —
-“ duty or ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 665 had not come into operation. It reads as follows:
 “
 665.Gas Pipelines Access (Western Australia) Act 1998 amended
 (1) The amendments in this section are to the Gas Pipelines Access (Western Australia) Act 1998.
 (2) Section 49 is amended by deleting the definition of “legal practitioner” and inserting instead —
 “
-“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3.
+legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3.
 ”.
 ”.
