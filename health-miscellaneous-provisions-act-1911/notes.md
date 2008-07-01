@@ -122,13 +122,14 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
 Reprint 14: The Health Act 1911 as at 5 Oct 2007 (includes amendments listed above)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 10 | 24 of 2007 | 12 Oct 2007 | 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645)
+Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | 1 Jul 2008 (see s. 2(b) and Gazette 20 Jun 2008 p. 2705.)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
-Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
+Criminal Law Amendment (Homicide) Act 2008 s. 34 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 Repealed by the Nurses and Midwives Act 2006.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
@@ -572,41 +573,7 @@ When a body corporate is convicted of an offence under this Part or the regulati
 ”.
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 23 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 s. 100, which gives effect to Sch.4 cl. 4 had not come into operation. It reads as follows:
-“
-100.Consequential amendments
-Each Act specified in Schedule 4 is amended as set out in that Schedule.
-”.
-Schedule 4, cl. 4 read as follows:
-“
-Schedule 4 — Amendments and repeals
-[s. 100]
-4.Health Act 1911 amended
-(1) The amendments in this clause are to the Health Act 1911.
-(2) Section 41 is amended by deleting “refuse” and inserting instead —
-“ sewage ”.
-(3) Section 106(1) is amended by deleting “, rubbish or refuse”.
-(4) Section 111 is amended by deleting “, rubbish, or refuse”.
-(5) Section 112(1) is amended by deleting paragraph (a) and paragraphs (f) to (h).
-(6) Sections 112A, 114(2), 115, 118 and 134(20), (21), (22), (23), (24) and (30) are repealed.
-(7) The Table to section 344C is amended as follows:
-(a) by deleting “112A(1)(b) and (3)(b),”;
-(b) by deleting “(30),”.
-(8) Schedule 5 is amended by deleting “112A(4),”.
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 13, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 13 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-13.Health Act 1911
-Section 275(2) is repealed.
-”.
+28- 30Footnotes no longer applicable.
 On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 23, had not come into operation. It reads as follows:
 “
 162.Consequential amendments
@@ -623,4 +590,13 @@ Schedule 3 — Consequential amendments
 “
 within the meaning given to that term in the Medical Practitioners Act 2008 section 4
 ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 34 had not come into operation. It reads as follows:
+“
+34.Health Act 1911
+(1) The amendments in this section are to the Health Act 1911.
+(2) Section 246ZV(1) is amended by deleting “section 23” and inserting instead —
+“ section 23A ”.
+(3) Section 246ZW(1) is amended by deleting “section 23” and inserting instead —
+“ section 23A ”.
 ”.

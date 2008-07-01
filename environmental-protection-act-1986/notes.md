@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 April 2008 of the Environmental Protection Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Environmental Protection Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Environmental Protection Act 1986 | 87 of 1986 | 10 Dec 1986 | s. 1 and 2: 10 Dec 1986; Act other than s. 1 and 2: 20 Feb 1987 (see s. 2 and Gazette 20 Feb 1987 p. 440)
@@ -36,13 +36,13 @@ Reprint 5: The Environmental Protection Act 1986 as at 16 Sep 2005 (includes ame
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(1), (2) and (4)) | 36 of 2007 | 21 Dec 2007 | 9 Jan 2008 (see s. 2(b) and Gazette 8 Jan 2008 p. 33)
+Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(1), (2), (4) and (5)) | 36 of 2007 | 21 Dec 2007 | Sch. 4 cl. 2(1), (2) and (4): 9 Jan 2008 (see s. 2(b) and Gazette 8 Jan 2008 p. 33) Sch. 4 cl. 2(5): 1 Jul 2008 (see s. 2(b) and Gazette 20 Jun 2008 p. 2705)
 Water Resources Legislation Amendment Act 2007 s. 194 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
-Reprint 6: The Environmental Protection Act 1986 as at 11 Apr 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Reprint 6: The Environmental Protection Act 1986 as at 11 Apr 2008 (includes amendments listed above, except those in the Waste Avoidance and Resource Recovery Act 2008 s. 100 (Sch. 4 cl. 2(5))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3) and (5)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
+Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -52,13 +52,13 @@ The Environmental Protection Amendment Act 1998 Pt. 3 Div. 3 reads as follows:
 Division 3 — Recovery of certain costs
 26.Interpretation
 In this Division —
-“agreement” means an agreement —
+agreement means an agreement —
 (a)made between the State and another party in respect of disposal of waste at the Mt Walton East waste facility before the coming into operation of this section; and
 (b)declared by the Minister, by notice published in the Gazette, to be an agreement to which this Division applies,
 and includes —
 (c)that agreement as varied from time to time in accordance with its provisions; and
 (d)any annexure to that agreement;
-“Mt Walton East waste facility” means the intractable waste disposal facility at Mt Walton East, Shire of Coolgardie in Western Australia situated on reserve number 42001 (Jaurdi Location 73).
+Mt Walton East waste facility means the intractable waste disposal facility at Mt Walton East, Shire of Coolgardie in Western Australia situated on reserve number 42001 (Jaurdi Location 73).
 27.Recovery of costs from other party
 (1) The State may recover directly from the other party to an agreement costs (within the meaning of the agreement) incurred by the State in conducting the Works (within the meaning of the agreement).
 (2) The power of the State under subsection (1) is to be exercised subject to, and in accordance with, the terms of the relevant agreement.
@@ -84,10 +84,10 @@ The Environmental Protection Amendment Act 2003 s. 110(2)-(4) are transitional p
 The Environmental Protection Amendment Act 2003 s. 111(2)-(5) read as follows:
 “
 (2) In subsections (3) to (5) —
-“CEO” has the same meaning as it has in the EP Act;
-“EP Act” means the Environmental Protection Act 1986 as amended by this Act;
-“transitional period” means the period beginning on 26 June 2002 and ending on the day before the day on which this section comes into operation;
-“unlawful clearing” means anything within the meaning of “clearing” in Part V Division 2 of the EP Act that —
+CEO has the same meaning as it has in the EP Act;
+EP Act means the Environmental Protection Act 1986 as amended by this Act;
+transitional period means the period beginning on 26 June 2002 and ending on the day before the day on which this section comes into operation;
+unlawful clearing means anything within the meaning of “clearing” in Part V Division 2 of the EP Act that —
 (a)constituted, at the time when the thing was done, a contravention of —
 (i)section 28 or 35 of the Soil and Land Conservation Act 1945;
 (ii)the Soil and Land Conservation (Clearing Control) Regulations 1991 or regulation 4 or 5 of the Soil and Land Conservation Regulations 1992;
@@ -100,14 +100,17 @@ but does not include clearing of a kind set out in Schedule 6 to the EP Act.
 (4) Section 70(3) to (11) and 74A of the EP Act apply in relation to a notice given under subsection (3) as if it were a vegetation conservation notice given under section 70(2)(b) of the EP Act and as if the reference to an offence in section 70(6) were a reference to an offence under an enactment mentioned in the definition of “unlawful clearing” in subsection (2).
 (5) Section 74A, Part VA and sections 89 and 103 of the EP Act apply in relation to a notice given under subsection (3) as if it were a vegetation conservation notice given under section 70(2)(b) of the EP Act.
 ”.
-On the date as at which this reprint was prepared, the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) and (5) had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) had not come into operation. It reads as follows:
 “
 Schedule 4 — Amendments and repeals
 [s. 100]
 2.Environmental Protection Act 1986 amended
 (3) Part VIIA is repealed.
-(5) Schedule 2 item 33 is amended by inserting after “controlling the” —
-“ collection, ”.
+”.
+The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follows:
+“
+24.Transitional provision — Waste Management and Recycling Fund
+The Waste Avoidance and Resource Recovery Act 2007 Schedule 5 clause 6 prevails to the extent that there is an inconsistency between that provision and Part VIIA Division 2 of the EP Act.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
