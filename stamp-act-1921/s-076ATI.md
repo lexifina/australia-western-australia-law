@@ -1,5 +1,5 @@
 ### 76ATI. Meaning of “listed land-holder corporation”
-(1) In this Division a corporation is a “listed land-holder corporation” if —
+(1) In this Division a corporation is a listed land-holder corporation if —
 (a) it is —
 (i) a body corporate that is taken to be registered outside Western Australia (for the purposes of the Corporations Act) or that is otherwise formed or incorporated outside Western Australia, not being a body corporate that is —
 (I) within paragraphs (a) to (d) of section 66A(4) of the Corporations Law; or

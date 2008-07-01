@@ -1,5 +1,5 @@
 ### 76ATC. Meaning of “relevant acquisition”
-(1) An acquisition is a “relevant acquisition” for the purposes of this Division —
+(1) An acquisition is a relevant acquisition for the purposes of this Division —
 (a) if by that acquisition a person acquires a controlling interest in a WA company by acquiring an interest —
 (i) that is itself a controlling interest in the WA company; or
 (ii) that is, when taken with each previous acquisition of an interest in the WA company made by the person, a controlling interest in the WA company;
