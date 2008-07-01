@@ -8,14 +8,14 @@
  | (b) | masses exceeding 20 kg | per ½ hour or part of ½ hour | 2
  | (c) | caliberating measures | per ½ hour or part of ½ hour | 2
 (3) | Distance travelled by an inspector —
- | (a) | not exceeding 100 km | per km (subject to a minimum charge of $10.00) | 0.035
+ | (a) | not exceeding 100 km | per km (subject to a minimum charge of $10.00) | 0.0355
  | (b) | exceeding 100 km | per km | 0.02
 (4) | Recouping overtime worked by an inspector at the request of the owner of an instrument | per ½ hour or part of ½ hour | 2
 (5) | Recouping other expenses incurred, including air fares, hire cars etc. | actual expenses | actual expenses
 2. | Calibration or testing of instruments (other than for the purpose of verification or re-verification)
  | Inspector’s time to —
- | (a) | calibrate a measuring instrument to a degree of accuracy greater than the degree of accuracy applied under the principal Act to instruments used for trade | per 15 min or part of 15 min | 1.5
- | (b) | calibrate and certify a measuring instrument under the principal Act section 26 | per 15 min or part of 15 min | 1.5
+ | (a) | calibrate a measuring instrument to a degree of accuracy greater than the degree of accuracy applied under the principal Act to instruments used for trade | per 15 min or part of 15 min | 1.492
+ | (b) | calibrate and certify a measuring instrument under the principal Act section 26 | per 15 min or part of 15 min | 1.492
 3. | Other instruments
  | Inspector’s time and costs relating to the examination and testing of a measuring instrument —
  | (a) | in the case of a reference standard of measurement for a servicing licensee for which a certificate is issued under the National Measurement Regulations regulation 13 | per ½ hour or part of ½ hour | 2
@@ -42,3 +42,4 @@
  | under the principal Act, the Administration Act or these regulations
 10. | Certificate of verification issued by Commissioner: r. 45(2)
  | Certificate issued by Commissioner under regulation 45(2) | per certificate | 2
+[Schedule 7 amended in Gazette 17 Jun 2008 p. 2562.]
