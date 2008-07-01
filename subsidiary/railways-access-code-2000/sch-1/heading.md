@@ -59,4 +59,6 @@ Urban Network
 (d)Midland.
 50.The dual gauge track between Robb Jetty and Leighton and the spur line between Leighton and North Fremantle.
 51.The narrow gauge mainline track between Armadale and Mundijong Junction.
-[Schedule 1 inserted in Gazette 23 Jul 2004 p. 2993-5.]
+TPI Railway and Port Agreement Route
+52.All tracks that are part of the railway constructed pursuant to the TPI Railway and Port Agreement.
+[Schedule 1 inserted in Gazette 23 Jul 2004 p. 2993-5; amended by No. 77 of 2004 s. 13.]
