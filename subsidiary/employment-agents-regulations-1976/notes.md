@@ -28,3 +28,4 @@ Employment Agents Amendment Regulations 2006 | 22 Sep 2006 p. 4108-11 | 22 Sep 2
 Reprint 3: The Employment Agents Regulations 1976 as at 20 Oct 2006 (includes amendments listed above)
 Employment Agents Amendment Regulations 2007 | 20 Apr 2007 p. 1739-40 | 20 Apr 2007
 Employment Agents Amendment Regulations (No. 2) 2007 | 15 Jun 2007 p. 2772-3 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+Employment Agents Amendment Regulations 2008 | 17 Jun 2008 p. 2550-1 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
