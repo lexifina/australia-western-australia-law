@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 26 October 2007 of the Builders’ Registration Regulations and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Builders’ Registration Regulations and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Builders’ Registration Act Regulations | 26 Apr 1940 p. 622-7 | 1 May 1940 (see Gazette 26 Apr 1940 p. 597)
@@ -31,6 +31,8 @@ Builders’ Registration Amendment Regulations (No. 2) 2007 | 15 Jun 2007 p. 276
 Builders’ Registration Amendment Regulations (No. 3) 2007 | 15 Jun 2007 p. 2766-7 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b)(i))
 Builders’ Registration Amendment Regulations 2007 | 29 Jun 2007 p. 3189-90 | r. 1 and 2: 29 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2007 (see r. 2(b)(i))
 Reprint 3: The Builders’ Registration Regulations as at 26 Oct 2007 (includes amendments listed above)
+Builders’ Registration Amendment Regulations 2008 | 17 Jun 2008 p. 2545-6 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b)(i))
+Builders’ Registration Amendment Regulations (No. 2) 2008 | 17 Jun 2008 p. 2547 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b)(i) and Gazette17 Jun 2008 p. 2545)
 Under the Alteration of Statutory Designations Order 2007 a reference in any law to the Department for Community Welfare is, unless the contrary is intended, to be read and construed as a reference to the Department for Child Protection.
 The Builders’ Registration Amendment Regulations 2003 as published in Gazette 12 Sep 2003 p. 4071 have no effect because they were made in error by the Governor instead of the Board.
 Now known as the Builders’ Registration Regulations; citation changed (see note under r. 1).
