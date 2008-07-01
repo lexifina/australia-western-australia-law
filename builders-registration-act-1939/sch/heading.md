@@ -26,5 +26,5 @@ That is to say, all that portion of the State which lies within the area bounded
 (p) the townsites of Derby, Fitzroy Crossing and Camballin in the district of Derby-West Kimberley.
 5.In addition to the areas set out in items 1 to 4A, all the remaining area in the South-West Division of Western Australia, as that Division is defined for the purposes of the Land Administration Act 1997, in Schedule 1 to that Act, other than the districts of Mukinbudin, Mt Marshall and Narembeen.
 6.In this Schedule —
-“district” means an area that has been declared to be a district under the Local Government Act 1995.
+district means an area that has been declared to be a district under the Local Government Act 1995.
 [Schedule inserted by No. 39 of 1983 s. 17; amended by No. 8 of 1986 s. 11; No. 93 of 1990 s. 16; No. 73 of 1994 s. 4; No. 14 of 1996 s. 4; No. 81 of 1996 s. 153(3); No. 31 of 1997 s. 10; amended in Gazette 5 Jan 1993 p. 1; 25 Mar 1994 p. 1306; 20 May 1994 p. 2112; 9 Dec 1994 p. 6659-60; 1 Mar 1996 p. 797; No. 60 of 2006 s. 119.]
