@@ -4,7 +4,7 @@ Table A
 Regulations for Management of a Company Limited by Shares
 Preliminary
 1.In these regulations: —
-“The Act” means the Companies (Co-operative) Act 1943.
+The Act means the Companies (Co-operative) Act 1943.
 When any provision of the Act is referred to, the reference is to that provision as modified by any statute for the time being in force.
 Unless the context otherwise requires, expressions defined in the Act or any statutory modification thereof in force at the date at which these regulations become binding on the company, shall have the meanings so defined.
 Shares
@@ -172,7 +172,7 @@ Table B
 Regulations for Management of a No Liability Company
 Preliminary
 1.In these regulations: —
-“The Act” means the Companies (Co-operative) Act 1943.
+The Act means the Companies (Co-operative) Act 1943.
 When any provision of the Act is referred to, the reference is to that provision as modified by any Statute for the time being in force.
 Unless the context otherwise requires, expressions defined in the Act or any statutory modification thereof in force at the date at which these regulations become binding on the company, shall have the meanings so defined.
 Members not liable for Calls

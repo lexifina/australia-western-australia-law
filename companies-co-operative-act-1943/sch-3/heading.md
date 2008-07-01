@@ -1,7 +1,7 @@
 ## Third Schedule
 [s. 35]
 Implied Powers of Companies
-The word “company” in this table when not applied to the company in respect whereof the following powers are implied, shall be deemed to include any partnership or other body of persons, whether incorporated or not incorporated, and whether domiciled in Western Australia or elsewhere, and whether formed or to be formed.
+The word company in this table when not applied to the company in respect whereof the following powers are implied, shall be deemed to include any partnership or other body of persons, whether incorporated or not incorporated, and whether domiciled in Western Australia or elsewhere, and whether formed or to be formed.
 1.To purchase, take on lease or on hire, or in exchange or otherwise to acquire in any manner howsoever, for such tenure and upon such conditions and terms as may seem fit —
 (a)any estates or interests in any lands, freehold, leasehold or any other tenure, whether situate in the State of Western Australia or elsewhere, and any easements, licenses, rights or privileges connected with or in relation to any real estate;
 (b)any plant, machinery, apparatus, implements, tools, appliances, minerals, metals, ores, stone, timber, coal, clay, merchandise of any kind, ships, vessels, locomotives, rolling-stock, and personal property of every description whatsoever.
