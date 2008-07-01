@@ -57,11 +57,11 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 s. 452(1) | 28 of 20
 Land Information Authority Act 2006 s. 129 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Water Resources Legislation Amendment Act 2007 Pt. 2 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 8: The Country Areas Water Supply Act 1947 as at 14 Mar 2008 (includes amendments listed above)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Formerly referred to the Water Authority Act 1984 the short title of which was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -78,9 +78,9 @@ The State Administrative Tribunal Regulations 2004 r. 43 reads as follows:
 “
 43.Country Areas Water Supply Act 1947
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 28 comes into operation;
-“Corporation” has the meaning given to that term in the CWS Act section 5(1);
-“the CWS Act” means the Country Areas Water Supply Act 1947.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 28 comes into operation;
+Corporation has the meaning given to that term in the CWS Act section 5(1);
+the CWS Act means the Country Areas Water Supply Act 1947.
 (2) If the Corporation receives, before the commencement day, a notice in accordance with the CWS Act section 59(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the relevant entry in the records to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the CWS Act section 59(1).
 (3) If the Corporation receives, before the commencement day, a notice in accordance with the CWS Act section 60(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the decision to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the CWS Act section 60(1).
 (4) If a notice has been given under the CWS Act section 58(7) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
@@ -93,15 +93,4 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 (2) Section 12C(1)(c) is amended by deleting “the Agriculture and Related Resources Protection Act 1976” and inserting instead —
 “ the Biosecurity and Agriculture Management Act 2007 ”.
 ”.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 4, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 4 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-4.Country Areas Water Supply Act 1947
-Section 102(4) is amended by deleting “stamp”.
 ”.

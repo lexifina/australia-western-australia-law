@@ -38,11 +38,11 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Reprint 5: The Strata Titles Act 1985 as at 20 May 2005 (includes amendments listed above)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Land Information Authority Act 2006 s. 160 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Legal Profession Act 2008 s. 707 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 “
@@ -266,25 +266,7 @@ s. 118 | Delete “office of a Clerk of a Local Court” and insert instead — 
 ”.
 The sections that it seeks to amend have been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125 and 1151.
 The amendment in the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2 cl. 63(9), to amend s. 25B(3) is not included because the subsection it sought to amend had been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1116.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 36, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 36 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-36.Strata Titles Act 1985
-(1) Section 21V(3)(b) is deleted and the following paragraph is inserted instead —
-“
-(b) a transaction referred to in the Duties Act 2008 section 112(6).
-”.
-(2) Section 31H(3)(b) is deleted and the following paragraph is inserted instead —
-“
-(b) a transaction referred to in the Duties Act 2008 section 112(6).
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 707 had not come into operation. It reads as follows:
 “
 707.Strata Titles Act 1985 amended

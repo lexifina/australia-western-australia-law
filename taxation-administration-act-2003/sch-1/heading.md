@@ -11,34 +11,37 @@ Unless the contrary intention appears —
 “charge”, in relation to land, means a charge on the land created under section 76 or 77;
 “Commissioner” means the Commissioner of State Revenue appointed in accordance with section 6;
 “corresponding Commissioner”, in relation to a recognised jurisdiction in which a recognised revenue law is in force, means the person responsible for administering the recognised revenue law;
+“date” of an assessment notice means the date on which it is issued;
 “decision” includes a direction;
 “directly reviewable decision” means a decision under a taxation Act that is expressed by the Act to be directly reviewable;
 “document” includes information stored or recorded by any means;
 “due date” means —
 (a)in relation to the payment of tax — the date on which the tax is due for payment under section 45(1) or (2), as the case requires;
 (b)in relation to lodging a return — the date by which the return is required to be lodged under a taxation Act;
+“endorse” includes stamp;
 “garnishee” has the definition given in section 65;
 “group” means 2 or more persons who are grouped together for the purposes of a taxation Act;
 “identity card” means an identity card issued to an investigator under section 11;
 “instrument” means —
-(a)a statement, conveyance, transfer, lease, licence, policy of insurance or any other document of a kind referred to in the Second Schedule to the Stamp Act 1921;
-(b)a statement or return that is required under a taxation Act for the assessment of tax;
-(c)a memorandum created by the Commissioner under section 20;
+[(a)deleted]
+(b)an instrument, or return that is required under a taxation Act for the assessment of tax;
+(c)a copy or memorandum that is treated under section 20 as if it were an instrument;
 (d)a document or other record on which, or in relation to which, tax is payable under a taxation Act;
 (e)anything else that is to be regarded as an instrument under the provisions of another taxation Act;
-(f)a copy, duplicate or counterpart of an instrument or document referred to in another paragraph of this definition;
+[(f)deleted]
 “investigation purposes” means any or all of the purposes for which an investigation may be carried out under section 92 or 93;
 “investigator” means a person appointed to be an investigator under section 11;
 “official assessment” has the definition given in section 15(1);
 “official document” means an instrument and any other record or document that is —
 (a)kept under or for the purposes of a taxation Act;
-(b)required to be stamped under or for the purposes of a taxation Act; or
+(b)required to be endorsed under or for the purposes of a taxation Act; or
 (c)required to be lodged with the Commissioner under or for the purposes of a taxation Act;
 “original assessment”, in relation to a reassessment of tax payable under a taxation Act, means a self assessment (if any) made in relation to the tax, or the first official assessment made in relation to the tax if no self-assessment was made, but does not include a reassessment;
 “penalty tax” means —
-(a)penalty tax payable under section 26;
+(a)penalty tax payable under section 26; or
 (b)penalty tax payable under section 27 for late payment of tax; or
-(c)penalty tax payable under sections 75JE, 75JF, 76I(2)(b), 76J(2)(b) or 112NA(2) of the Stamp Act 1921;
+(c)penalty tax payable under sections 75JE, 75JF, 76I(2)(b), 76J(2)(b) or 112NA(2) of the Stamp Act 1921; or
+(d)penalty tax payable under the Duties Act 2008 section 239(3)(b), 249(4)(b) or 266(2)(b);
 “person” includes a group;
 “premises” means —
 (a)land (whether built on or not);
@@ -86,4 +89,4 @@ whether or not the use or assistance of some electronic, electrical, mechanical,
 “tax payment arrangement” means an arrangement approved under section 47;
 “tax record” means a record required to be kept under a taxation Act or under a special tax return arrangement;
 “vehicle” includes a train, vessel or aircraft.
-[Glossary amended by No. 66 of 2003 s. 95(5) and 108(3); No. 12 of 2004 s. 12; No. 55 of 2004 s. 1183; No. 60 of 2006 s. 184.]
+[Glossary amended by No. 66 of 2003 s. 95(5) and 108(3); No. 12 of 2004 s. 12; No. 55 of 2004 s. 1183; No. 60 of 2006 s. 184; No. 12 of 2008 s. 51.]

@@ -1,20 +1,20 @@
 Notes
 This is a compilation of the Presbyterian Church Act 1908 and includes the amendments made by the other written laws referred to in the following table. For amendments that had not come into operation on the date on which this compilation was prepared see endnote. The table also contains information about any reprint.
 Compilation table
-Short title | Number and year | Assent | Commencement
-Presbyterian Church Act 1908 | 2 of 1908 | 12 Aug 1908 | 12 Aug 1908
-Presbyterian Church Act Amendment Act 1919 s. 2 and 3 | 50 of 1919 | 17 Dec 1919 | 17 Dec 1919
-Presbyterian Church Act Amendment Act 1924 s. 2, 3 and 7 | 6 of 1924 | 5 Nov 1924 | 5 Nov 1924
-Presbyterian Church Act Amendment Act 1964 s. 2-8 | 19 of 1964 | 8 Oct 1964 | 8 Oct 1964
-Presbyterian Church Act 1976 s. 3 | 120 of 1976 | 1 Dec 1976 | 22 Jun 1977 (see s. 2 and Gazette 17 Jun 1977 p. 1811)
-Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
-Reprint of the Presbyterian Church Act 1908 as at 25 Oct 2002 (includes amendments listed above)
-Taxation Administration (Consequential Provisions) Act 2002 s. 20 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
+ | Short title | Number and year | Assent | Commencement
+ | Presbyterian Church Act 1908 | 2 of 1908 | 12 Aug 1908 | 12 Aug 1908
+ | Presbyterian Church Act Amendment Act 1919 s. 2 and 3 | 50 of 1919 | 17 Dec 1919 | 17 Dec 1919
+ | Presbyterian Church Act Amendment Act 1924 s. 2, 3 and 7 | 6 of 1924 | 5 Nov 1924 | 5 Nov 1924
+ | Presbyterian Church Act Amendment Act 1964 s. 2-8 | 19 of 1964 | 8 Oct 1964 | 8 Oct 1964
+ | Presbyterian Church Act 1976 s. 3 | 120 of 1976 | 1 Dec 1976 | 22 Jun 1977 (see s. 2 and Gazette 17 Jun 1977 p. 1811)
+ | Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+ | Reprint of the Presbyterian Church Act 1908 as at 25 Oct 2002 (includes amendments listed above)
+ | Taxation Administration (Consequential Provisions) Act 2002 s. 20 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Presbyterian Church of Australia Act 1970 s. 7 | 91 of 1970 | 30 Nov 1970 | Notice to be published (see s. 7(2) and 2(2))
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 I.e. 48 Vict. No. 20.
 Repealed by the Trustees Act 1962.
 Footnote no longer applicable.
@@ -36,17 +36,17 @@ As at the date of this reprint the amendments to this Act in the Presbyterian Ch
 (a) by adding after the section number “3.” the subsection designation “(1)”;
 (b) by substituting for the definition “Church” in section 3 the following definition —
 “
-“Church”, “the Presbyterian Church in Western Australia”, “the said Church”, “the Church” mean that part of the Presbyterian Church of Australia that is within the State. ;
+Church, the Presbyterian Church in Western Australia, the said Church, the Church mean that part of the Presbyterian Church of Australia that is within the State. ;
 ”;
 (c) by substituting for the definition “General Assembly” in section 3 the following definition —
 “
-“The Synod” means the Synod of Western Australia of the Presbyterian Church of Australia, convened in accordance with the rules, practice and uses of the said Church. ;
+The Synod means the Synod of Western Australia of the Presbyterian Church of Australia, convened in accordance with the rules, practice and uses of the said Church. ;
 ”;
 (d) by substituting for the words “General Assembly” in line two of the definition “Moderator” in section 3 the word “Synod”;
 (e) by substituting for the words “said Church” in line three of the definition “Presbytery” in section 3 the words “Presbyterian Church of Australia”;
 (f) by substituting for the definition “Minister” in section 3 the following definition —
 “
-“Minister” means any person recognised as a minister of the Presbyterian Church of Australia by a Presbytery of the Presbyterian Church in Western Australia and who is a member of that Presbytery. ;
+Minister means any person recognised as a minister of the Presbyterian Church of Australia by a Presbytery of the Presbyterian Church in Western Australia and who is a member of that Presbytery. ;
 ”;
 (g) by adding after the definition “Committee of Management” a subsection as follows —
 “
@@ -66,13 +66,13 @@ Part 4 — Transitional provisions
 Division 1 — Interpretation
 33.Definitions
 In this Part —
-“commencement day” means the day on which the Taxation Administration Act 2003 comes into operation;
-“old Act” means —
+commencement day means the day on which the Taxation Administration Act 2003 comes into operation;
+old Act means —
 (a)an Act repealed by section 5;
 (b)the old Stamp Act; or
 (c)section 41 of the Metropolitan Region Town Planning Scheme Act 1959 as in force immediately before the commencement day;
-“old Stamp Act” means the Stamp Act 1921 as in force immediately before the commencement day;
-“substantive provisions”, in relation to an old Act, means the provisions of the old Act other than those dealing with matters dealt with in the Taxation Administration Act 2003.
+old Stamp Act means the Stamp Act 1921 as in force immediately before the commencement day;
+substantive provisions, in relation to an old Act, means the provisions of the old Act other than those dealing with matters dealt with in the Taxation Administration Act 2003.
 Division 2 — General transitional provisions
 34.General transitional arrangements
 (1) Section 37(1) of the Interpretation Act 1984, except paragraphs (a) and (b), does not apply in relation to the repeal of an old Act.
@@ -89,7 +89,7 @@ as if the substantive provisions of the relevant old Act —
 (d) had not been repealed;
 (e) were a taxation Act for the purposes of the Taxation Administration Act 2003; and
 (f) had been amended to make any modifications necessary for this section to have effect.
-(4) If an objection, appeal or other legal proceeding (the “action”) was instituted under an old Act and was not finally determined before the commencement day —
+(4) If an objection, appeal or other legal proceeding (the action) was instituted under an old Act and was not finally determined before the commencement day —
 (a) the action may be continued;
 (b) any requirement to pay interest on an amount of tax determined in the action to have been overpaid applies and may be enforced;
 (c) any penalty may be imposed and enforced; and
@@ -155,17 +155,4 @@ cannot be made more than 15 months after the licence was granted or transferred.
 49.Payment of duty by returns (Stamp Act 1921, s. 112V)
 (1) A permission granted under section 112V of the old Stamp Act and in force immediately before the commencement day continues in force on and after that day as a special tax arrangement under the Taxation Administration Act 2003.
 (2) Any requirement that applied, immediately before the commencement day, to a person to whom a permission continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the permission was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
-”.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 31, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 31 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-31.Presbyterian Church Act 1908
-Section 21(5)(a) is amended by deleting “Stamp Act 1921” and inserting instead —
-“ Duties Act 2008 ”.
 ”.

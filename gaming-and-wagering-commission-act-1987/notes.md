@@ -33,9 +33,6 @@ Liquor and Gaming Legislation Amendment Act 2006 Pt. 3 and s. 114 | 73 of 2006 |
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Racing, Wagering and Betting Legislation Amendment and Repeal Act 2007 Pt. 3 | 8 of 2007 | 13 Jun 2007 | 14 Jun 2007 (see s. 2)
 Reprint 5: The Gaming and Wagering Commission Act 1987 as at 2 Nov 2007 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 Now known as the Gaming and Wagering Commission Act 1987; short title changed (see note under s. 1).
@@ -44,10 +41,10 @@ The Acts Amendment (Continuing Lotteries) Act 2000 Pt. 4 (as amended by the Taxa
 Part 4 — Savings and transitional provisions
 17.Interpretation
 In this Part —
-“commencement day” means the day on which this Act comes into operation;
-“Commission” means the Gaming Commission of Western Australia, established under the Gaming Commission Act 1987;
-“Gaming Commission Act” means the Gaming Commission Act 1987 as amended by this Act;
-“Stamp Act” means the Stamp Act 1921 as in force immediately prior to the commencement day.
+commencement day means the day on which this Act comes into operation;
+Commission means the Gaming Commission of Western Australia, established under the Gaming Commission Act 1987;
+Gaming Commission Act means the Gaming Commission Act 1987 as amended by this Act;
+Stamp Act means the Stamp Act 1921 as in force immediately prior to the commencement day.
 [Section 17 amended by No. 45 of 2002 s. 6.]
 18.Licences
 A licence issued under Part IVAA of the Stamp Act and in force immediately before the commencement day —
@@ -81,17 +78,4 @@ Division 2 — Transitional and savings provisions
 (3) If, in a written law or in a document of any kind there is a reference to the Gaming Commission, that reference is, unless because of the context it would be inappropriate to do so, to be read and construed as if it had been amended to be a reference to the Gaming and Wagering Commission.
 170.Members of the Commission
 Each person holding office as a member of the Gaming Commission under the Gaming Commission Act 1987 immediately before the coming into operation of this section continues in office as a member of the Gaming and Wagering Commission under and subject to the Gaming and Wagering Commission Act 1987 until the expiry of the term of office.
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 9, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 9 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-9.Gaming and Wagering Commission Act 1987
-Section 104B(4)(c) is amended by deleting “, as defined in section 63 of the Stamp Act 1921,”.
 ”.

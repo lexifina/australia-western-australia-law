@@ -93,14 +93,15 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 Child Care Services Act 2007 Pt. 7 Div. 3 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 Reprint 14: The Evidence Act 1906 as at 8 Feb 2008 (includes amendments listed above)
 Criminal Law and Evidence Amendment Act 2008 Pt. 5 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 Pt. 11 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Prostitution Amendment Act 2008 s. 31 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Legal Profession Act 2008 s. 662 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 12 | 26 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
+Criminal Law Amendment (Homicide) Act 2008 s. 33 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 “
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
@@ -234,31 +235,7 @@ Section 121(2) is repealed and the following subsections are inserted instead �
 (2a) The court shall not make such a direction if satisfied the direction is not in the interests of justice.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 8, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 8 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-8.Evidence Act 1906
-(1) Section 12(1) is amended by deleting “stamp duties” and inserting instead —
-“ duty under the Duties Act 2008 ”.
-(2) Section 73U(1) is amended by deleting “but subject to section 27(3) of the Stamp Act 1921, where a document is chargeable with stamp duty under that Act” and inserting instead —
-“
-where a document is chargeable with duty under a duties Act then, subject to that Act,
-”.
-(3) Section 73U(2) is amended by deleting “the Stamp Act 1921” and inserting instead —
-“ a duties Act ”.
-(4) After section 73U(2) the following subsection is inserted —
-“
-(3) In this section —
-“duties Act” means the Stamp Act 1921 or the Duties Act 2008;
-“stamped” means stamped or endorsed to indicate duty under a duties Act.
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 31 had not come into operation. It reads as follows:
 “
 31.Evidence Act 1906 amended
@@ -299,4 +276,18 @@ On the date as at which this compilation was prepared, the Children and Communit
 (1) The amendment in this section is to the Evidence Act 1906.
 (2) Section 19L(5) is amended by inserting after “section” —
 “ 124F or ”.
+”.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 33 had not come into operation. It reads as follows:
+“
+33.Evidence Act 1906
+(1) The amendments in this section are to the Evidence Act 1906.
+(2) The Second Schedule Part 1 is amended as follows:
+(a) in the entry relating to section 144 by deleting “Using force to rescue a person undergoing, or liable to, strict security life imprisonment” and inserting instead —
+“ Forcibly freeing certain offenders from custody ”;
+(b) by deleting the entries relating to sections 278, 279, 280, 281 and 281A and inserting instead —
+“
+s. 279Murder
+s. 280Manslaughter
+s. 281Unlawful assault causing death
+”.
 ”.

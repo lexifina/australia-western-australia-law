@@ -15,20 +15,5 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 20
 Armadale Redevelopment (Subtraction of Land from Redevelopment Area) Regulations 2007 published in Gazette 24 Jul 2007 p. 3657-8 | 24 Jul 2007
 Armadale Redevelopment (Addition of Land to Redevelopment Area) Regulations 2007 published in Gazette 14 Dec 2007 p. 6247-8 | r. 1 and 2: 14 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Dec 2007 (see r. 2(b))
 Armadale Redevelopment (Addition of Land to Redevelopment Area) Regulations 2008 published in Gazette 17 Jun 2008 p. 2568-70 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jun 2008 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 2, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 2 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-2.Armadale Redevelopment Act 2001
-Section 14(1) is amended by deleting “, stamp duty”.
-”.

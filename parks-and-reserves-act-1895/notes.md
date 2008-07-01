@@ -31,24 +31,8 @@ Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 M
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Reprint 4: The Parks and Reserves Act 1895 as at 6 Jan 2006 (includes amendments listed above except those in the Children and Community Services Act 2004)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Now known as the Parks and Reserves Act 1895; short title changed (see note under s. 1).
 The Parks and Reserves Amendment Act 1983 s. 4(2) is a transitional provision that is of no further effect.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 26, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 26 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-26.Parks and Reserves Act 1895
-Section 17(1) is amended by deleting “stamp duty chargeable under the Stamp Act 1921” and inserting instead —
-“ duty chargeable under the Duties Act 2008 ”.
-”.

@@ -26,11 +26,11 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 10 Div. 4 | 28 o
 Reprint 2: The Housing Act 1980 as at 18 Aug 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 137 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 28 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Under the Public Sector Management Act 1994 s. 112(2), a reference to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Housing Amendment Act 1983 s. 4(2) is a transitional provision that is of no further effect.
@@ -49,8 +49,8 @@ except that —
 (3) The time within which the reporting officer is to perform a duty referred to in subsection (2) is extended until the end of the day that is 2 months after the day on which the reporting officer is appointed, but this subsection does not prevent the time from being extended again under section 70 of the Financial Administration and Audit Act 1985.
 (4) The Housing Authority is to give the reporting officer access to all records necessary for the purposes of this section.
 (5) In this section —
-“final period” means the period starting at the beginning of the 1 July immediately before commencement and ending immediately before commencement;
-“reporting officer” means the person appointed under section 65A(2) of the Financial Administration and Audit Act 1985 as applied because of subsection (1).
+final period means the period starting at the beginning of the 1 July immediately before commencement and ending immediately before commencement;
+reporting officer means the person appointed under section 65A(2) of the Financial Administration and Audit Act 1985 as applied because of subsection (1).
 337.References to former bodies
 After commencement, a reference to the former body in an instrument or other document is to be taken to be a reference to the Housing Authority unless the contrary intention appears or the context otherwise requires.
 338.Government Employees’ Housing Act 1964
@@ -64,11 +64,11 @@ After commencement, a reference to the former body in an instrument or other doc
 (5) Section 69 of the Housing Act 1980, as in force before commencement, continues to apply in relation to things done or omitted to be done and agreements entered into before commencement.
 340.Interpretation
 In this Division —
-“commencement” means the time at which section 314 comes into operation;
-“former body” means —
+commencement means the time at which section 314 comes into operation;
+former body means —
 (a)the Country Housing Authority established by section 4 of the Country Housing Act 1998 as in force before commencement;
 (b)the Government Employees’ Housing Authority established by section 8 of the Government Employees’ Housing Act 1964 as in force before commencement;
-“Housing Authority” means the Housing Authority referred to in section 6(4) of the Housing Act 1980 as in force after commencement.
+Housing Authority means the Housing Authority referred to in section 6(4) of the Housing Act 1980 as in force after commencement.
 ”.
 On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 28 had not come into operation. It reads as follows:
 “
@@ -76,19 +76,4 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 (1) The amendments in this section are to the Housing Act 1980.
 (2) Section 52(1) is amended in the definition of “lending institution” by deleting paragraph (a).
 (3) Section 55(5) is amended by deleting “or on termination of the lending institution in the case of a housing society;”.
-”.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 17, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 17 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-17.Housing Act 1980
-(1) Section 20(3) is amended by deleting “stamp duty” and inserting instead —
-“ duty under the Duties Act 2008 ”.
-(2) Section 72 is amended by deleting “stamp duties” and inserting instead —
-“ duty under the Duties Act 2008 ”.
 ”.

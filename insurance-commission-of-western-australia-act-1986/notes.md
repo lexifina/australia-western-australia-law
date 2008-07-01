@@ -18,12 +18,12 @@ Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 5 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 2: The Insurance Commission of Western Australia Act 1986 as at 8 Sep 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 6(a), 13, 14, 20-22, 24, 25, 27 and 28 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 50 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Now the Life Insurance Act 1995 of the Commonwealth.
 Repealed by the Insurance Commission of Western Australia Act 1986 s. 46(1).
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). The reference was amended under the Reprints Act 1984 s. 7(5)(a).
@@ -84,17 +84,4 @@ On the date on which this compilation was prepared, the State Superannuation (Tr
 “
 50.Insurance Commission of Western Australia Act 1986 amended
 Clause 16(2) of Schedule 4 to the Insurance Commission of Western Australia Act 1986 is amended by deleting “(including, if he is a contributor under the Superannuation and Family Benefits Act 1938, his rights under that Act)”.
-”.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 18, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 18 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-18.Insurance Commission of Western Australia Act 1986
-Section 34 is amended by deleting “stamp duties, and all other” and inserting instead —
-“ and all other duties, ”.
 ”.

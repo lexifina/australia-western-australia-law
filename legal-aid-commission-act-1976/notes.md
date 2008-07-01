@@ -30,11 +30,11 @@ Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Fe
 Reprint 4: The Legal Aid Commission Act 1976 as at 20 May 2005 (includes amendments listed above)
 Legal Aid Commission Amendment Act 2006 | 27 of 2006 | 26 Jun 2006 | 26 Jun 2006 (see s. 2)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Legal Profession Act 2008 s. 674 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Appointed day 17 April 1978; see Gazette 17 March 1978 p. 800.
 Repealed by the Associations Incorporation Act 1987.
@@ -55,19 +55,7 @@ Act | Provision
 Legal Aid Commission Act 1976 | s. 22
 ...................... | ........
 ”.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 19, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 19 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-19.Legal Aid Commission Act 1976
-Section 44A(9) is amended by deleting “stamp duty” and inserting instead —
-“ duty under the Duties Act 2008 ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 674 had not come into operation. It reads as follows:
 “
 674.Legal Aid Commission Act 1976 amended
@@ -76,13 +64,13 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (a) by deleting the definitions of “certificated practitioner”, “practitioner” and “The Legal Practice Board”;
 (b) by inserting in the appropriate alphabetical positions —
 “
-“Australian lawyer” has the meaning given in the Legal Profession Act 2008 section 3;
-“law practice” has the meaning given in the Legal Profession Act 2008 section 3;
-“legal experience” means —
+Australian lawyer has the meaning given in the Legal Profession Act 2008 section 3;
+law practice has the meaning given in the Legal Profession Act 2008 section 3;
+legal experience means —
 (a)standing and practice as a legal practitioner; or
 (b)judicial service (including service as a judge of a court, a magistrate or other judicial officer) in the State or elsewhere in a common law jurisdiction; or
 (c)a combination of both kinds of legal experience mentioned in paragraphs (a) and (b);
-“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”;
 (c) in the definition of “legal advice” by deleting “a practitioner” and inserting instead —
 “ a law practice or an Australian lawyer ”;
@@ -92,7 +80,7 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 “ the Legal Profession Act 2008 section 534; ”;
 (f) by deleting the definition of “private practitioner” and inserting instead —
 “
-“private practitioner” means a legal practitioner who is not employed by the Commission, a statutory authority or the Crown;
+private practitioner means a legal practitioner who is not employed by the Commission, a statutory authority or the Crown;
 ”.
 (3) Section 7(1)(b)(ii) is amended by deleting “a practitioner” and inserting instead —
 “ an Australian lawyer ”.

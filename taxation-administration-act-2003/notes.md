@@ -15,16 +15,16 @@ Land Information Authority Act 2006 s. 184 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Revenue Laws Amendment (Assessment) Act 2007 Pt. 3 | 13 of 2007 | 29 Jun 2007 | 30 Jun 2007 (see s. 2(b))
 Reprint 2: The Taxation Administration Act 2003 as at 7 Sep 2007 (includes amendments listed above)
-Revenue Laws Amendment Act (No. 2) 2008 Pt. 2 Div. 1 and Pt. 3 Div. 1 and 2 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
+Duties Legislation Amendment Act 2008 Pt. 2 Div. 3 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Revenue Laws Amendment Act (No. 2) 2008 Pt. 2 Div. 1 and 3 and Pt. 3 Div. 1 and 2 | 31 of 2008 | 27 Jun 2008 | Pt. 2 Div 1 and Pt. 3 Div. 1 and 2: 28 Jun 2008 (see s. 2(b)) Pt. 2 Div. 3: 1 Jul 2008 (see s. 2(c))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Taxation Administration Act 2003 s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59 | 1 of 2003 (as amended by No. 55 of 2004; No. 31 of 2008 s. 24) | 20 Mar 2003 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 94 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Duties Legislation Amendment Act 2008 Pt. 2 Div. 3 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Revenue Laws Amendment Act (No. 2) 2008 Pt. 3 Div. 3 | 31 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
-On the date as at which this compilation was prepared, the Taxation Administration Act 2003 s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59 (as amended by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Taxation Administration Act 2003 s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59 (as amended by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 and the Revenue Laws Amendment Act (No. 2) 2008 Pt. 3 Div. 3) had not come into operation. They read as follows:
 “
 34.Right to object
 (2)...
@@ -297,161 +297,7 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 (jb) the Biosecurity and Agriculture Management Rates and Charges Act 2007;
 ”.
 ”.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 Pt. 2 Div. 3 had not come into operation. It reads as follows:
-“
-Part 2 — Amendments
-Division 3 — Taxation Administration Act 2003 amended
-33.The Act amended in this Division
-The amendments in this Division are to the Taxation Administration Act 2003.
-34.Section 3 amended
-After section 3(1)(c) the following paragraph is inserted —
-“ (ca)the Duties Act 2008; ”.
-35.Section 18 amended
-Section 18(3) is repealed and the following subsection is inserted instead —
-“
-(3) If tax payable on —
-(a) an instrument; or
-(b) a transaction or event that an instrument effects or records,
-is reassessed, and the instrument or a duplicate or copy of it is produced to the Commissioner, the Commissioner may endorse it to indicate the amount of tax (if any) payable under the reassessment and the amount of tax paid (if any), (but the reassessment takes effect irrespective of it being so endorsed).
-”.
-36.Section 20 amended
-(1) Section 20(2) is amended as follows:
-(a) by deleting “on an instrument required to be lodged under a taxation Act, but the instrument has not been lodged as required” and inserting instead —
-“
-but an instrument has not been lodged as required under a taxation Act
-”;
-(b) in paragraph (b) by deleting “if a copy of the instrument is not available —”.
-(2) Section 20(3) is repealed and the following subsection is inserted instead —
-“
-(3) A memorandum created under subsection (1)(a) or (2)(b) is taken to be the instrument and to have been lodged by the person required to lodge it under the taxation Act.
-”.
-(3) Section 20(4) is amended by deleting “, (2)(b) or (3)” and inserting instead —
-“ or (2)(b) ”.
-(4) Section 20(5) and (6) are repealed and the following subsections are inserted instead —
-“
-(5) The copy or memorandum may be endorsed to indicate the payment of tax.
-(6) The validity of an assessment and the liability to pay tax do not depend on the availability of an instrument or a copy of an instrument, or on the creation of a memorandum of an instrument.
-”.
-37.Section 23 amended
-Section 23(2) is amended by deleting paragraph (b) and “or” after it and inserting instead —
-“
-(b) if the Commissioner assesses the amount of tax payable and then immediately endorses an instrument to indicate the assessment; or
-”.
-38.Section 24 amended
-After section 24(1) the following subsection is inserted —
-“
-(1a) An assessment notice must set out the date on which it is issued.
-”.
-39.Section 34 amended
-(1) Section 34(1) is amended after paragraph (b) by deleting the full stop and inserting —
-“
-; or
-(c) a decision made on a pre-transaction decision request made under the Duties Act 2008 section 261, unless any exemption granted under that Act for the transaction to which the request relates has been revoked; or
-(d) a decision made on a pre-section 270 decision request made under the Duties Act 2008 section 269, unless the Commissioner has already decided under the Duties Act 2008 section 270(1) to disregard the scheme that was the subject of the request.
-”.
-(2) Section 34(2)(b) is deleted and the following paragraph is inserted instead —
-“
-(b) an assessment of an amount of duty and penalty tax that is assessed under a taxation Act and specified in a traffic infringement notice issued under the Road Traffic Act 1974 section 102, unless the amount has been paid;
-”.
-40.Section 36 amended
-Section 36(1)(b) is amended as follows:
-(a) by deleting “denoted by stamping” and inserting instead —
-“ indicated by endorsement ”;
-(b) by deleting “stamped” and inserting instead —
-“ endorsed ”.
-41.Section 43 amended
-Section 43(2) is amended by inserting before “the Pay-roll” —
-“ the Duties Act 2008, ”.
-42.Section 50 amended
-Section 50(1) is amended as follows:
-(a) by deleting paragraph (d) and inserting instead —
-“
-(d) may provide for the endorsement or certification of instruments to indicate the amount of tax paid or payable under the special tax return arrangement, or to indicate that tax is not payable; and
-”;
-(b) in paragraph (g) by deleting “cancel a stamp duty certificate issued by the party under the arrangement and issue a replacement certificate to give” and inserting instead —
-“ do things for the purpose of giving ”;
-(c) after each of paragraphs (a), (b), (c) and (e) by inserting —
-“ and ”.
-43.Section 51 replaced
-Section 51 is repealed and the following section is inserted instead —
-“
-51.Improper endorsement or certification of an instrument
-A person who endorses or certifies an instrument so as to suggest or imply that the instrument has been properly endorsed or certified under a special tax return arrangement commits an offence unless the instrument is properly endorsed or certified in accordance with the conditions of the arrangement.
-Penalty: $20 000.
-”.
-44.Section 55 amended
-After section 55(1)(b) the following paragraph is inserted —
-“
-(ba) duty payable under the Duties Act 2008 Chapter 4;
-”.
-45.Section 77A inserted
-After section 77 the following section is inserted —
-“
-77A.Charge on land to secure transfer duty or landholder duty
-(1) In this section —
-“landholder” and “linked entity” have the meanings given in the Duties Act 2008 section 148;
-“landholder duty” means duty under the Duties Act 2008 Chapter 3;
-“lodge” means to lodge with the Registrar of Titles;
-“transfer duty” means duty under the Duties Act 2008 Chapter 2.
-(2) If transfer duty payable on a transaction in relation to land as defined in the Duties Act 2008 section 3 is not paid by the due date because it is taken not to be paid under subsection (6), the Commissioner may lodge a memorial to create a charge on the land for the unpaid transfer duty.
-(3) If transfer duty payable as a result of a reassessment to give effect to the Duties Act 2008 section 145 is not paid by the due date, the Commissioner may lodge a memorial to create a charge on the land for the unpaid transfer duty.
-(4) If landholder duty is not paid by the due date in respect of a relevant acquisition of an interest in a landholder, the Commissioner may lodge a memorial to create a charge for the unpaid duty on any land the landholder’s or a linked entity’s entitlement to which was taken into account in relation to the acquisition for the purposes of the Duties Act 2008 section 186.
-(5) The charge arises on the land when the memorial is registered under section 83.
-(6) If a cheque given in purported payment of transfer duty or landholder duty is dishonoured on first presentation (even though the due date may not have arrived when the cheque is dishonoured), the duty is taken not to be paid by the due date for the purposes of this section.
-(7) A memorial creating a charge on land for transfer duty payable in relation to a transaction cannot be lodged under subsection (2) until the title to the land has been transferred in accordance with the transaction.
-”.
-46.Section 78 amended
-Section 78(1) is amended by deleting “section 76 or 77” and inserting instead —
-“ this Division ”.
-47.Section 80 amended
-Section 80(1) is amended as follows:
-(a) in paragraph (a) by deleting “section 76 or 77” and inserting instead —
-“ this Division ”;
-(b) in paragraph (b)(i) by deleting “land tax or unpaid stamp duty” and inserting instead —
-“ tax ”.
-48.Section 96 amended
-(1) Section 96(1)(c) is amended by inserting after “which” —
-“ , or which effects or evidences a transaction on which, ”.
-(2) Section 96(2) is amended by deleting paragraph (a) and “or” after it and inserting instead —
-“
-(a) in the case of an instrument effecting or evidencing a transaction — a party to the transaction; or
-”.
-49.Part 10 Division 5 heading amended
-The heading to Part 10 Division 5 is amended by inserting after “Regulations” —
-“ , practices and forms ”.
-50.Section 128 inserted
-After section 127 the following section is inserted in Part 10 Division 5 —
-“
-128.Forms
-A form approved for use under a taxation Act may require information provided in the form to be verified by statutory declaration.
-”.
-51.Glossary amended
-The Glossary is amended as follows:
-(a) in the definition of “instrument” —
-(i) by deleting paragraph (a);
-(ii) in paragraph (b) by deleting “a statement” and inserting instead —
-“ an instrument, ”;
-(iii) by deleting paragraph (c) and inserting instead —
-“
-(c)a copy or memorandum that is treated under section 20 as if it were an instrument;
-”;
-(iv) by deleting paragraph (f);
-(b) in the definition of “official document” paragraph (b) by deleting “stamped” and inserting instead —
-“ endorsed ”;
-(c) in the definition of “penalty tax” —
-(i) after paragraph (c) by inserting —
-“
-or
-(d)penalty tax payable under the Duties Act 2008 section 239(3)(b), 249(4)(b) or 266(2)(b);
-”;
-(ii) after paragraph (a) by inserting —
-“ or ”;
-(d) by inserting in the appropriate alphabetical positions —
-“
-“date” of an assessment notice means the date on which it is issued;
-“endorse” includes stamp;
-”.
-”.
+The amendment in the Duties Legislation Amendment Act 2008 s. 46 is not included because the section it sought to amend had been replaced by the Revenue Laws Amendment Act (No. 2) 2008 s. 7 before the amendment purported to come into operation.
 On the date as at which this compilation was prepared, the Revenue Laws Amendment Act (No. 2) 2008 Pt. 3 Div. 3 had not come into operation. It reads as follows:
 “
 Division 3 — Amendments to commence on proclamation

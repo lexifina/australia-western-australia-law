@@ -18,9 +18,6 @@ Water Legislation Amendment (Competition Policy) Act 2005 s. 7(4), 28(2), 60(2) 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 2: The Water Services Licensing Act 1995 as at 4 Aug 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Under the Land Administration Act 1997 s. 281(3), references to the Land Act 1933 may be construed as references to the Land Administration Act 1997.
 Now known as the Water Services Licensing Act 1995; short title changed (see note under s. 1).
@@ -31,7 +28,7 @@ Part 6 — Review
 (1) Each relevant Minister is to carry out a review of the operation and effectiveness of the amendments made by this Act as soon as is practicable after the expiration of 3 years from the commencement of this Act.
 (2) The relevant Ministers are to prepare a joint report based on the review and, as soon as is practicable after the report is prepared, cause it to be laid before each House of Parliament.
 (3) In this section —
-“relevant Minister” means a Minister responsible for the administration of an Act amended by this Act or the Minister responsible for the administration of the Town Planning and Development Act 1978.
+relevant Minister means a Minister responsible for the administration of an Act amended by this Act or the Minister responsible for the administration of the Town Planning and Development Act 1978.
 ”.
 The Economic Regulation Authority Act 2003 s. 63(1), which gives effect to Sch. 3, reads as follows:
 “
@@ -44,13 +41,13 @@ Schedule 3 — Transitional and saving provisions for amendments in Schedule 2 D
 [s. 63(1)]
 1.Definitions
 In this Schedule —
-“commencement day” means the day on which this Schedule comes into operation;
-“former official” means —
+commencement day means the day on which this Schedule comes into operation;
+former official means —
 (a)the Coordinator of Water Services referred to in section 4 of the Water Services Coordination Act 1995 as in effect immediately before the commencement day;
 (b)the Gas Pipelines Access Regulator; or
 (c)the Rail Access Regulator;
-“Gas Pipelines Access Regulator” means the Western Australian Independent Gas Pipelines Access Regulator referred to in section 27 of the Gas Pipelines Access (Western Australia) Act 1998 as in effect immediately before the commencement day;
-“Rail Access Regulator” means the Western Australian Independent Rail Access Regulator referred to in section 13 of the Railways (Access) Act 1998 as in effect immediately before the commencement day.
+Gas Pipelines Access Regulator means the Western Australian Independent Gas Pipelines Access Regulator referred to in section 27 of the Gas Pipelines Access (Western Australia) Act 1998 as in effect immediately before the commencement day;
+Rail Access Regulator means the Western Australian Independent Rail Access Regulator referred to in section 13 of the Railways (Access) Act 1998 as in effect immediately before the commencement day.
 2.Interpretation Act 1984 to apply
 This Schedule does not limit the operation of the Interpretation Act 1984.
 3.Decisions of Gas Pipelines Access Regulator
@@ -91,17 +88,3 @@ The operation of any provision of this Schedule is not to be regarded —
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment to s. 57 in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1302 is not included because the section it seeks to amend was repealed by the Economic Regulation Authority Act 2003 s. 62.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 40, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 40 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-40.Water Services Licensing Act 1995
-(1) Section 46E(1) is repealed.
-(2) Section 46E(2) is amended by deleting “Stamp duty is not payable” and inserting instead —
-“ Duty is not chargeable under the Duties Act 2008 ”.
-”.

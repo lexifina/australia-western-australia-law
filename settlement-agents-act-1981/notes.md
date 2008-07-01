@@ -38,10 +38,10 @@ Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 11 | 69 of 200
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 4: The Settlement Agents Act 1981 as at 25 May 2007 (includes amendments listed above, except those in the Consumer Protection Legislation Amendment and Repeal Act 2006)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Legal Profession Act 2008 s. 704 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
@@ -59,9 +59,9 @@ The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as foll
 (2) If this Act receives the Royal Assent on or after the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act is deemed to have come into operation at the same time as that Schedule comes into operation.
 3.Interpretation
 In this Part —
-“Financial Services Reform Act” means the Financial Services Reform Act 2001 of the Commonwealth;
-“FSR commencement time” means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
-“statutory rule” means a regulation, rule or by-law.
+Financial Services Reform Act means the Financial Services Reform Act 2001 of the Commonwealth;
+FSR commencement time means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
+statutory rule means a regulation, rule or by-law.
 4.Validation
 (1) This section applies if this Act comes into operation under section 2(2).
 (2) Anything done or omitted to have been done after the FSR commencement time and before this Act receives the Royal Assent that could have been done if this Act had received the Royal Assent before the FSR commencement time is taken to be as valid and lawful, and to always have been as valid and lawful, as it would have been if this Act had received the Royal Assent before the FSR commencement time.
@@ -72,26 +72,14 @@ In this Part —
 is taken not to be valid, and to never have been valid.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 34, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 34 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-34.Settlement Agents Act 1981
-Schedule 2 clauses 1(1)(d) and 2(e) are amended by deleting “Stamp Act 1921” and inserting instead —
-“ Duties Act 2008 ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 704 had not come into operation. It reads as follows:
 “
 704.Settlement Agents Act 1981 amended
 (1) The amendments in this section are to the Settlement Agents Act 1981.
 (2) Section 3(1) is amended by deleting the definition of “legal practitioner” and inserting instead —
 “
-“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”.
 (3) Section 46(5) is amended by deleting “Legal Practice Act 2003” and inserting instead —
 “ Legal Profession Act 2008 ”.

@@ -25,11 +25,11 @@ Land Information Authority Act 2006 s. 136 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Petroleum Amendment Act 2007 s. 96 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Reprint 3: The Heritage of Western Australia Act 1990 as at 18 Apr 2008 (includes amendments listed above)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also note 4.
 On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
@@ -48,8 +48,8 @@ Regulation 53 reads as follows:
 “
 53.Heritage of Western Australia Act 1990
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 60 comes into operation;
-“the HWA Act” means the Heritage of Western Australia Act 1990.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 60 comes into operation;
+the HWA Act means the Heritage of Western Australia Act 1990.
 (2) If, before the commencement day, the Minister receives a notice in accordance with the HWA Act section 30(1) (as in force when the notice was received by the Minister) but does not before the commencement day refer to the Town Planning Appeal Tribunal the question the Minster is requested to so refer in the notice, on and after the commencement day —
 (a) the notice is to be taken to refer to the State Administrative Tribunal and not to the Town Planning Appeal Tribunal; and
 (b) section 30(2)(a) of the HWA Act applies as if any requirement made or undertaking given under that paragraph referred to the State Administrative Tribunal and not to the Town Planning Appeal Tribunal.
@@ -58,15 +58,6 @@ Regulation 53 reads as follows:
 (5) On and after the commencement day, a reference in the HWA Act section 37(4) to a finding made by the State Administrative Tribunal on a reference in relation to the same or a related matter under the HWA Act section 37(3) is to be taken to include a reference to such a finding lawfully made by the Town Planning Appeal Tribunal before the commencement day.
 (6) If, before the commencement day, the Minister is required in accordance with the HWA Act section 73(4) (as in force when the requirement was received by the Minister) to refer a question to the Town Planning Appeal Tribunal but does not do so before the commencement day, on and after the commencement day the Minister must refer the question to the State Administrative Tribunal as if the requirement had referred to the State Administrative Tribunal and not to the Town Planning Appeal Tribunal.
 (7) If, before the commencement day, the Minister is requested in accordance with the HWA Act section 76(1) (as in force when the requirement was received by the Minister) to refer a question to the Town Planning Appeal Tribunal but does not do so before the commencement day, on and after the commencement day the Minister must refer the question to the State Administrative Tribunal as if the request had referred to the State Administrative Tribunal and not to the Town Planning Appeal Tribunal.
-”.
-On the date as at which this reprint was prepared, the Duties Legislation Amendment Act 2008 Sch. 1 cl. 14 had not come into operation.
-Schedule 1 cl. 14 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-14.Heritage of Western Australia Act 1990
-Section 18(1) is amended by deleting “Stamp Act 1921” and inserting instead —
-“ Duties Act 2008 ”.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
