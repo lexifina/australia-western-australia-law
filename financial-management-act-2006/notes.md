@@ -14,6 +14,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 36 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 State Superannuation Amendment Act 2007 s. 82 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
+Eastern Goldfields Transport Board Repeal Act 2008 s. 13 | 28 of 2008 | 1 Jul 2008 | 29 Jul 2008
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 36 had not come into operation. It reads as follows:
 “
 36.Financial Management Act 2006 amended
@@ -26,4 +27,10 @@ On the date as at which this compilation was prepared, the State Superannuation 
 (1) The amendments in this section are to the Financial Management Act 2006.
 (2) Schedule 1 is amended by deleting “Government Employees Superannuation Board” and inserting in the appropriate alphabetical position —
 “ State Superannuation Board ”.
+”.
+On the date as at which this compilation was prepared, the Eastern Goldfields Transport Board Repeal Act 2008 s. 13 had not come into operation. It reads as follows:
+“
+13.Financial Management Act 2006 amended
+(1) The amendment in this section is to the Financial Management Act 2006.
+(2) Schedule 1 is amended by deleting “The Eastern Goldfields Transport Board”.
 ”.
