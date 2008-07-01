@@ -10,9 +10,6 @@ Reprint of the Railways (Access) Act 1998 as at 12 Oct 2001 (includes amendments
 Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 63 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
 Public Transport Authority Act 2003 s. 152 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
 Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
 Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Act 2004 Pt. 3 Div. 1 | 77 of 2004 | 8 Dec 2004 | 1 Jul 2008 (see s. 2(2) and Gazette 17 Jun 2008 p. 2543)
 Now known as the Railways (Access) Act 1998; short title changed (see note under s. 1).
 The Railways (Access) Amendment Act 2000 s. 13 repealed the Rail Freight System Act 2000 s. 89.
@@ -71,28 +68,4 @@ The operation of any provision of this Schedule is not to be regarded —
 (c) as giving rise to any remedy by a party to an instrument or as causing or permitting the termination of any instrument, because of a change in the beneficial or legal ownership of any asset, right or liability;
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
-”.
-On the date as at which this compilation was prepared, the Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Act 2004 Pt. 3 Div. 1 had not come into operation. It reads as follows:
-“
-Part 3 — Provisions about access to the railway constructed under the Agreement
-Division 1 — Amendment of the Railways (Access) Act 1998
-7.Railways (Access) Act 1998 amended
-The amendments in this Division are to the Railways (Access) Act 1998.
-8.Section 3 amended
-Section 3(1) is amended as follows:
-(a) by inserting in the appropriate alphabetical position —
-“
-“TPI Railway and Port Agreement” has the meaning given to the term “the Agreement” in the Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Act 2004 section 3.
-”;
-(b) in the definition of “railways network” by deleting “and” after paragraph (b) and inserting —
-“
-(ba)the railway constructed pursuant to the TPI Railway and Port Agreement; and
-”.
-9.Section 11B inserted
-After section 11A the following section is inserted —
-“
-11B.Exception to sections 10 to 11A
-(1) Sections 10 to 11A do not apply if, in making an amendment to the Code, the Minister states that the amendment is made under this section for the purpose of the application of the Code to the railway constructed pursuant to the TPI Railway and Port Agreement.
-(2) Subsection (1) does not apply to an amendment made after the expiration of the period of 3 years after the day of the coming into operation of the Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Act 2004 section 13.
-”.
 ”.
