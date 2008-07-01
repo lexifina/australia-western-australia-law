@@ -38,23 +38,15 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
  | Local Government (Official Conduct) Amendment Act 2007 | 1 of 2007 | 28 Mar 2007 | s. 1 and 2: 28 Mar 2007; Act other than s. 1 and 2: 21 Oct 2007 (see s. 2 and Gazette 21 Aug 2007 p. 4173)
  | Local Government Amendment Act 2007 | 9 of 2007 | 25 Jun 2007 | s. 1 and 2: 25 Jun 2007; Act other than s. 1 and 2: 6 Sep 2007 (see s. 2 and Gazette 3 Aug 2007 p. 3989)
- | Reprint 4: The Local Government Act 1995 as at 18 Jan 2008 (includes amendments listed above)
+ | Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 | 11 of 2007 | 29 Jun 2007 | 1 Jul 2008 (see s. 2 and Gazette 6 Jun 2008 p. 2179)
+ | Reprint 4: The Local Government Act 1995 as at 18 Jan 2008 (includes amendments listed above, except those in the Local Government (Miscellaneous Provisions) Amendment Act 2007)
+ | Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2004 s. 16(1)-(3) and (5), 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
-Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 | 11 of 2007 | 29 Jun 2007 | 1 Jul 2008 (see s. 2 and Gazette 6 Jun 2008 p. 2179)
 Petroleum Amendment Act 2007 s. 99 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
-The provisions in this Act amending the Local Government Act 1960 have been omitted under s. 7(4)(e) of the Reprints Act 1984. Schedule 9.2 cl. 4 reads as follows:
-“
-4.Parts II to VII repealed
-(1) Parts II to VII are repealed.
-(2) Despite the repeal of Part VI by subclause (1) ¾
-(a) sections 157(2)(b), 159 and 160; and
-(b) regulations made under section 159,
-continue to have effect so far as they relate to building surveyors and Part XV.
-”.
+Footnote no longer applicable.
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be read and construed as if that reference were a reference to the Land Administration Act 1997.
@@ -63,12 +55,12 @@ The provisions of the Local Government Act 1960 Pt. VIA as continued by Sch. 9.3
 Part VIA — Employee Superannuation
 170A.Interpretation
 (1) In this Part —
-“City of Perth scheme” means the superannuation scheme established under section 170C;
-“dependant” has the same definition as in section 10 of the SIS Act;
-“employee” and “employer” have the same definitions as in section 10 of the SIS Act;
-“industry scheme” means the WA Local Government Superannuation Plan (formerly called the W.A. Local Government Occupational Superannuation Fund) established by a trust deed dated 21 March 1990 and continued under a trust deed dated 4 November 2004;
-“municipality” includes a regional council;
-“SIS Act” means the Superannuation Industry (Supervision) Act 1993 (Cwlth) as amended from time to time.
+City of Perth scheme means the superannuation scheme established under section 170C;
+dependant has the same definition as in section 10 of the SIS Act;
+employee and employer have the same definitions as in section 10 of the SIS Act;
+industry scheme means the WA Local Government Superannuation Plan (formerly called the W.A. Local Government Occupational Superannuation Fund) established by a trust deed dated 21 March 1990 and continued under a trust deed dated 4 November 2004;
+municipality includes a regional council;
+SIS Act means the Superannuation Industry (Supervision) Act 1993 (Cwlth) as amended from time to time.
 (2) A reference in this Part to the City of Perth scheme is a reference to the scheme as it is amended from time to time.
 (3) A reference in this Part to the industry scheme is a reference to the scheme as it is amended from time to time.
 [Section 170A amended in Gazette 26 May 2006 p. 1877.]
@@ -111,9 +103,9 @@ The Local Government Act 1995 is affected by the Dampier to Bunbury Pipeline Act
 (3) The DBNGP Land Access Minister is to pay to each local government in the district of which there is any utilized corridor land an amount equivalent to the rates that would have been assessable in the hands of an owner holding the fee simple in the land whose rates were assessable on the basis of unimproved value.
 (4) An amount payable under subclause (3) is to be treated for the purposes of Part 4 of this Act as a part of the cost of administering that Part.
 (5) In this clause —
-“DBNGP corridor” and “DBNGP Land Access Minister” have the meanings given by section 27 of this Act;
-“rates” means rates under the Local Government Act 1995;
-“utilized corridor land” means land in the DBNGP corridor in respect of which rights under section 34 of this Act are held, regardless of whether rights are held by one holder or several holders.
+DBNGP corridor and DBNGP Land Access Minister have the meanings given by section 27 of this Act;
+rates means rates under the Local Government Act 1995;
+utilized corridor land means land in the DBNGP corridor in respect of which rights under section 34 of this Act are held, regardless of whether rights are held by one holder or several holders.
 ”.
 The Local Government Act 1995 is also affected by the Gas Corporation (Business Disposal) Act 1999 s. 67 which reads as follows:
 “
@@ -149,7 +141,7 @@ the resolution ceases to have effect as a resolution to make a by-law and instea
 (a) affect in a manner prejudicial to any person (other than the State or a local government), the rights of that person existing before the day of its publication; or
 (b) impose liabilities on any person (other than the State or a local government) in respect of anything done or omitted to be done before the day of its publication.
 (4) In subsection (1) —
-“transitional matter” means a matter that needs to be dealt with for the purpose of effecting the transition from the provisions of the Acts amended by this Act as in force before this Act comes into operation to the provisions of those Acts as in force after this Act comes into operation.
+transitional matter means a matter that needs to be dealt with for the purpose of effecting the transition from the provisions of the Acts amended by this Act as in force before this Act comes into operation to the provisions of those Acts as in force after this Act comes into operation.
 ”.
 The Local Government Amendment Act 1998 s. 5(2)-(4) and 14(2) are transitional provisions that are of no further effect.
 The amendment purported to be made by the Local Government Amendment Act 1998 s. 28 is not included because prior to its commencement cl. 4(2) of Sch. 9.2 had been previously amended by the Statutes (Repeals and Minor Amendments) Act 1997 s. 81(1).
@@ -161,7 +153,7 @@ The Local Government Amendment Act (No. 2) 1998 s. 56 and 57 read as follows:
 “
 56.Extension of time for Joondalup and Wanneroo inaugural elections
 (1) In this section —
-“inaugural election” has the meaning given by section 4.2(2) of the Local Government Act 1995.
+inaugural election has the meaning given by section 4.2(2) of the Local Government Act 1995.
 (2) Despite section 4.3(2) of the Local Government Act 1995, the day fixed for any poll needed for the inaugural election for the City of Joondalup established on 1 July 1998 may be any day that is not later than 31 December 1999.
 (3) Despite section 4.3(2) of the Local Government Act 1995, the day fixed for any poll needed for the inaugural election for the Shire of Wanneroo established on 1 July 1998 may be any day that is not later than 31 December 1999.
 57.Quarterly reports by Joondalup and Wanneroo commissioners
@@ -190,9 +182,9 @@ The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as foll
 (2) If this Act receives the Royal Assent on or after the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act is deemed to have come into operation at the same time as that Schedule comes into operation.
 3.Interpretation
 In this Part —
-“Financial Services Reform Act” means the Financial Services Reform Act 2001 of the Commonwealth;
-“FSR commencement time” means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
-“statutory rule” means a regulation, rule or by-law.
+Financial Services Reform Act means the Financial Services Reform Act 2001 of the Commonwealth;
+FSR commencement time means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
+statutory rule means a regulation, rule or by-law.
 4.Validation
 (1) This section applies if this Act comes into operation under section 2(2).
 (2) Anything done or omitted to have been done after the FSR commencement time and before this Act receives the Royal Assent that could have been done if this Act had received the Royal Assent before the FSR commencement time is taken to be as valid and lawful, and to always have been as valid and lawful, as it would have been if this Act had received the Royal Assent before the FSR commencement time.
@@ -221,10 +213,10 @@ Schedule 2 — Transitional and validation provisions — WALGA
 [s. 14]
 1.Interpretation
 In this Schedule —
-“anything done” means anything done, or omitted, or purported to be done or omitted;
-“commencement” means the commencement of section 10;
-“body previously constituted under section 9.58” means a body constituted under section 9.58 of the Local Government Act 1995 before the commencement;
-“WALGA” means the Western Australian Local Government Association constituted under section 9.58 of the Local Government Act 1995 after the commencement.
+anything done means anything done, or omitted, or purported to be done or omitted;
+commencement means the commencement of section 10;
+body previously constituted under section 9.58 means a body constituted under section 9.58 of the Local Government Act 1995 before the commencement;
+WALGA means the Western Australian Local Government Association constituted under section 9.58 of the Local Government Act 1995 after the commencement.
 2.WALGA successor in law to bodies previously constituted under section 9.58
 (1) On the commencement, WALGA becomes the successor in law of each body previously constituted under section 9.58.
 (2) In particular —
@@ -257,8 +249,8 @@ The State Administrative Tribunal Regulations 2004 r. 56 reads as follows:
 “
 56.Local Government Act 1995
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 76 comes into operation;
-“the LG Act” means the Local Government Act 1995.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 76 comes into operation;
+the LG Act means the Local Government Act 1995.
 (2) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.77 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.77.
 (3) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.78 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.78.
 ”.
@@ -299,15 +291,6 @@ and is not the holder of an office of member of a council other than an office t
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 28 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 had not come into operation. It reads as follows:
-“
-13.Consequential amendment to the Local Government Act 1995 and transitional provision
-(1) The amendment in this section is to the Local Government Act 1995.
-(2) Schedule 9.2 clause 4(2) is repealed.
-(3) The regulations referred to in the Local Government Act 1995 Schedule 9.2 clause 4(2)(b) —
-(a) continue in effect so far as they relate to building surveyors and Part XV of the Local Government (Miscellaneous Provisions) Act 1960; and
-(b) are to be taken to have been made under the Local Government Act 1995 section 9.59 for the purposes of the Local Government (Miscellaneous Provisions) Act 1960 section 373A and 374AAB inserted by section 5 and 7 of this Act.
-”.
 On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 99 had not come into operation. It reads as follows:
 “
 99.Local Government Act 1995 amended
@@ -338,19 +321,4 @@ permit, drilling reservation, lease or licence held under the Petroleum and Geot
 “ permit, drilling reservation, lease or licence ”.
 (5) Section 6.29(2) is amended by deleting “licence or permit” and inserting instead —
 “ permit, drilling reservation, lease or licence ”.
-”.
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 s. 52, which gives effect to Sch. 1 cl. 21, had not come into operation. It reads as follows:
-“
-52.Various Acts amended
-Schedule 1 sets out how various Acts listed in that Schedule are to be amended.
-”.
-Schedule 1 cl. 21 reads as follows:
-“
-Schedule 1 — Amendments to various Acts
-[s. 52]
-21.Local Government Act 1995
-Schedule 6.3 clause 8(5) is repealed and the following subclause is inserted instead —
-“
-(5) Duty under the Duties Act 2008 is not chargeable on the transfer or conveyance.
-”.
 ”.
