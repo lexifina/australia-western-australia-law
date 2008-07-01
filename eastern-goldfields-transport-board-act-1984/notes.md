@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Eastern Goldfields Transport Board Act 1984 and includes all amendments effected by the other Acts and the regulations referred to in the following Table.
+This is a compilation of the Eastern Goldfields Transport Board Act 1984 and includes the amendments made by the other written laws referred to in the following table..
 Compilation table
 Short title | Number and year | Assent | Commencement
 Eastern Goldfields Transport Board Act 1984 | 5 of 1984 | 17 May 1984 | 1 Aug 1984 (see s. 2 and Gazette 27 Jul 1984 p. 2250)
@@ -15,8 +15,9 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 45 | 74 of 2003 | 15 Dec 200
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 6 | 70 of 2003 | 15 Dec 2003 | To be proclaimed
+ | Short title | Number and year | Assent | Commencement
+Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 6 | 70 of 2003 (as amended by No. 28 of 2008 s. 11) | 15 Dec 2003 | To be proclaimed
+Eastern Goldfields Transport Board Repeal Act 2008 s. 2 and 11 | 28 of 2008 | 1 Jul 2008 | 29 Jul 2008
 Under section 112(2) of the Public Sector Management Act 1994 (No. 31 of 1994) references to the Public Service Commissioner are to be construed as references to the Minister for Public Sector Management.
 Repealed by Interpretation Act 1984 (No. 12 of 1984) s. 77(1).
 On the date as at which this compilation was prepared, the Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 6 had not come into operation. It reads as follows:
@@ -31,4 +32,12 @@ Section 5(2) is repealed and the following subsection is inserted instead —
 ”.
 24.Section 35 repealed
 Section 35 is repealed.
+”.
+On the date as at which this compilation was prepared, the Eastern Goldfields Transport Board Repeal Act 2008 s. 2 and 11 had not come into operation. They read as follows:
+“
+2.The Act repealed
+The Eastern Goldfields Transport Board Act 1984 is repealed.
+11.Acts Amendment and Repeal (Competition Policy) Act 2003 amended
+(1) The amendment in this section is to the Acts Amendment and Repeal (Competition Policy) Act 2003.
+(2) Part 6 is repealed.
 ”.
