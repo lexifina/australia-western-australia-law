@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 March 2006 of the Public Trustee Regulations 1942 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Public Trustee Regulations 1942 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Untitled regulations | 26 Jun 1942 p. 692-5 | 26 Jun 1942
@@ -38,6 +38,7 @@ Public Trustee Amendment Regulations 2002 | 17 Jan 2003 p. 115 | 17 Jan 2003
 Public Trustee Amendment Regulations 2004 | 8 Jun 2004 p. 1977-8 | 8 Jun 2004
 Courts and Legal Practice (Consequential Amendments) Regulations 2005 r. 10 | 19 Apr 2005 p. 1294-302 | 19 Apr 2005
 Reprint 4: The Public Trustee Regulations 1942 as at 17 Mar 2006 (includes amendments listed above)
+Public Trustee Amendment Regulations 2008 | 24 Jun 2008 p. 2888-90 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b) and Gazette 24 Jun 2008 p. 2885)
 Now known as the Public Trustee Regulations 1942; citation changed (see note under r. 1).
 The Public Trustee (Amendment) Regulations (No. 2) 2000 r. 5 reads as follows:
 “
@@ -46,3 +47,7 @@ Despite the amendment effected by regulation 4, the Public Trustee Regulations 1
 (a) property that was in the Public Trustee’s control under the Crimes (Confiscation of Profits) Act 1988 immediately before the commencement of these regulations; and
 (b) property of which the Public Trustee has care or control under the Crimes (Confiscation of Profits) Act 1988 as a result of the operation of the Criminal Property Confiscation (Consequential Provisions) Act 2000.
 ”.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+estate1(2)
