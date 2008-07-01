@@ -70,13 +70,13 @@ Certificate of Title | Volume: | Folio:
 Details of work | o New building Type of building (e.g.: residential, shop, factory, warehouse):
 o Alteration or addition to existing building Type of alteration or addition (e.g.: carport, bedroom, second storey, store room, office, toilet, games room):
 The building work permitted by this licence — •must be carried out in accordance with the plans, drawings and specifications submitted with Application for Building Licence no. ; and •must be carried out in accordance with the conditions set out on the back of this licence. If the building work permitted by this licence is not substantially commenced within 12 months of the date of this licence, the licence will become void. The building has been assessed as being of Class(es)
-Building surveyor | Name:
+Building surveyor of the local government | Name:
 Signature: | Date:
-Note: The licensee must produce this licence and the approved plans, drawings and specifications whenever requested by the building surveyor.
+Note: The licensee must produce this licence and the approved plans, drawings and specifications whenever requested by the building surveyor of the local government.
 Back of Form 4
 CONDITIONS
-This licence is subject to the following conditions. If you are dissatisfied with these conditions you may apply to the State Administrative Tribunal for a review under section 374 of Local Government (Miscellaneous Provisions) Act 1960.
-[Form 4 inserted in Gazette 20 Jun 1997 p. 2829-30; amended in Gazette 30 Dec 2004 p. 6949.]
+This licence is subject to the following conditions. If you are dissatisfied with these conditions you may apply to the State Administrative Tribunal for a review under section 374AAD of Local Government (Miscellaneous Provisions) Act 1960.
+[Form 4 inserted in Gazette 20 Jun 1997 p. 2829-30; amended in Gazette 30 Dec 2004 p. 6949; 6 Jun 2008 p. 2185.]
 Form 5. Special building licence
 Local Government (Miscellaneous Provisions) Act 1960, s. 399(4) Building Regulations 1989, reg. 13(1)(d) SPECIAL BUILDING LICENCE | Licence no.: ____________
 Local Government:
@@ -90,13 +90,13 @@ Details of work | o New building Type of building (e.g.: residence, shop, factor
 o Alteration or addition to existing building Type of alteration or addition (e.g.: carport, bedroom, second storey, store room, office, toilet, games room):
 o Temporary building Type of building (e.g.: marquee, grandstand, stage):
 The building work permitted by this licence must be carried out in accordance with — •the plans, drawings and specifications submitted with Application for Building Licence no. ; and •the conditions set out on the back of this licence. The building has been assessed as being of Class(es)
-Building surveyor | Name:
+Building surveyor of the local government | Name:
 Signature: | Date:
-Note: The licensee must produce this licence and the approved plans, drawings and specifications whenever requested by the building surveyor.
+Note: The licensee must produce this licence and the approved plans, drawings and specifications whenever requested by the building surveyor of the local government.
 Back of Form 5
 CONDITIONS
 This licence is subject to the following conditions. If you are dissatisfied with these conditions you may apply to the State Administrative Tribunal for a review under section 399 of Local Government (Miscellaneous Provisions) Act 1960.
-[Form 5 inserted in Gazette 20 Jun 1997 p. 2831-2; amended in Gazette 30 Dec 2004 p. 6949.]
+[Form 5 inserted in Gazette 20 Jun 1997 p. 2831-2; amended in Gazette 30 Dec 2004 p. 6949; 6 Jun 2008 p. 2186 .]
 Form 6. Licence to deposit building material on, or excavate near, a street
 Local Government (Miscellaneous Provisions) Act 1960, s. 377 Building Regulations 1989, reg. 25 LICENCE TO DEPOSIT BUILDING MATERIAL ON, OR EXCAVATE NEAR, A STREET | Licence no.: ____________
 Local Government:
@@ -112,12 +112,12 @@ Period during which part of street may be enclosed: ____________________________
 Maximum area of the street which may be enclosed: Frontage:____________ m Width:____________ m Height:____________ m.
 The deposit of building material or excavation permitted by this licence must be carried out in accordance with the conditions set out on the back of this licence.
 Deposit | The local government acknowledges receipt of a deposit of $ __________ paid by the licensee under section 377(4) of the Act.
-Building surveyor | Name:
+Building surveyor of the local government | Name:
 Signature: | Date:
 Back of Form 6
 CONDITIONS
-This licence is subject to the following conditions. 1.Every excavation must be securely fenced off from the street to the satisfaction of the building surveyor. 2.When building materials are deposited on a street the licensee must install and maintain — (a)hoardings around the deposited material; (b)gangways to allow vehicular and pedestrian access along the street; and (c)water channels to allow water to drain from the area, which are constructed from materials, and to a design, approved by the building surveyor. 3.The licensee must ensure that the area around any excavation or deposited material is sufficiently lit during darkness to ensure the safety of persons using the street. 4.On or before the last day on which this licence permits the licensee to enclose part of the street, the licensee must — •remove all hoardings, gangways, channelling, building material and debris from the street; and •repair, to the satisfaction of the building surveyor, any damage caused to the street (including the road surface, kerbing and footpaths). If you are dissatisfied with these conditions you may, within 14 days of the granting of this licence, apply to the State Administrative Tribunal for a review under section 377 of the Local Government (Miscellaneous Provisions) Act 1960.
-[Form 6 inserted in Gazette 20 Jun 1997 p. 2833-4; amended in Gazette 30 Dec 2004 p. 6950.]
+This licence is subject to the following conditions. 1.Every excavation must be securely fenced off from the street to the satisfaction of the building surveyor of the local government. 2.When building materials are deposited on a street the licensee must install and maintain — (a)hoardings around the deposited material; (b)gangways to allow vehicular and pedestrian access along the street; and (c)water channels to allow water to drain from the area, which are constructed from materials, and to a design, approved by the building surveyor of the local government. 3.The licensee must ensure that the area around any excavation or deposited material is sufficiently lit during darkness to ensure the safety of persons using the street. 4.On or before the last day on which this licence permits the licensee to enclose part of the street, the licensee must — •remove all hoardings, gangways, channelling, building material and debris from the street; and •repair, to the satisfaction of the building surveyor of the local government, any damage caused to the street (including the road surface, kerbing and footpaths). If you are dissatisfied with these conditions you may, within 14 days of the granting of this licence, apply to the State Administrative Tribunal for a review under section 377 of the Local Government (Miscellaneous Provisions) Act 1960.
+[Form 6 inserted in Gazette 20 Jun 1997 p. 2833-4; amended in Gazette 30 Dec 2004 p. 6950; 6 Jun 2008 p. 2186.]
 Form 7. Demolition licence
 Local Government (Miscellaneous Provisions) Act 1960, s. 374A Building Regulations 1989, regs. 13(2) and 30 DEMOLITION LICENCE | Licence no.: __________
 Local Government:
@@ -133,9 +133,42 @@ Type of construction (e.g. brick & tile):
 Number of storeys:
 Previous use or classification:
 The demolition work permitted by this licence must be — •carried out in accordance with the details set out in Application for Demolition Licence no. ; •carried out in accordance with the conditions set out on the back of this licence; and •commenced within 12 months of the date of this licence.
-Building surveyor | Name:
+Building surveyor of the local government | Name:
 Signature: | Date:
 Back of Form 7
 CONDITIONS
 This licence is subject to the following conditions. If you are dissatisfied with these conditions you may be able to apply to the State Administrative Tribunal for a review under section 374A of Local Government (Miscellaneous Provisions) Act 1960.
-[Form 7 inserted in Gazette 20 Jun 1997 p. 2835-6; amended in Gazette 30 Dec 2004 p. 6950.]
+[Form 7 inserted in Gazette 20 Jun 1997 p. 2835-6; amended in Gazette 30 Dec 2004 p. 6950; 6 Jun 2008 p. 2186.]
+Form 8. Application for building approval certificate
+Local Government (Miscellaneous Provisions) Act 1960, s. 374AA Building Regulations 1989, r. 11A BUILDING APPROVAL CERTIFICATE APPLICATION
+Property where building is built | Street | No.: | Street name:
+Address | Suburb: | Postcode:
+Lot/Location No.:
+Applicant (must be owner of building) | Name:
+Address:
+ | Postal address:
+ | Phone (H):(W): (Mob):
+ | Fax:Email:
+ | Signature: | Date:
+Details of building (tick box or boxes) | Type of building constructed: o Single dwelling o Patio o Swimming pool o Warehouse o Grouped dwelling o Outbuilding o Retaining wall o Office o Pergola o Factory o Shop o Other (specify):
+Floor area of the building in m2 (including the width of all walls): Estimated current value of unauthorised building work (including GST): $
+[Form 8 inserted in Gazette 6 Jun 2008 p. 2186.]
+Form 9. Building approval certificate
+Local Government (Miscellaneous Provisions) Act 1960, s. 374AA(4)(a) Building Regulations 1989, r. 11A(9) BUILDING APPROVAL CERTIFICATE | Certificate no.: ____________
+Local Government:
+Owner | Name:
+Address:
+Property where building is built | Address | No.: | Street name:
+Suburb: | Postcode:
+Lot/Location No.:
+Certificate of Title | Volume: | Folio:
+Description of building covered by this certificate
+The documentation provided by other building professionals, supporting substantial conformity of the building with the requirements of the Act, is listed at the back of this certificate. The building has been assessed as being of Class(es)
+Building surveyor of the local government | Name:
+Signature: | Date:
+Back of Form 9
+DOCUMENTATION
+List documentation provided by other building professionals, supporting substantial conformity of the building with the requirements of the Act.
+CONDITIONS
+This certificate is subject to the following conditions. If you are dissatisfied with these conditions you may apply to the State Administrative Tribunal for a review under section 374AAD(1)(d) of Local Government (Miscellaneous Provisions) Act 1960.
+[Form 9 inserted in Gazette 6 Jun 2008 p. 2187-8.]
