@@ -8,11 +8,7 @@ Child Support (Adoption of Laws) Amendment Act 2000 | 21 of 2000 | 30 Jun 2000 |
 Child Support (Adoption of Laws) Amendment Act 2002 | 41 of 2002 | 9 Dec 2002 | 9 Dec 2002 (see s. 2)
 Reprint 1: The Child Support (Adoption of Laws) Act 1990 as at 2 May 2003 (includes amendments listed above)
 Family Legislation Amendment Act 2006 Pt. 5 | 35 of 2006 | 4 Jul 2006 | 1 Aug 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
-Child Support (Adoption of Laws) Amendment Act 2007s. 1, 2, 4, 5 and 6 | 29 of 2007 | 31 Oct 2007 | s. 1 and 2: 31 Oct 2007 (see s. 2(a)); s. 4 and 5: 1 Nov 2007 (see s. 2(d)) s. 6: 1 Jan 2008 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Child Support (Adoption of Laws) Amendment Act 2007s. 7 | 29 of 2007 | 31 Oct 2007 | s. 7: 1 Jul 2008 (see s. 2(c))
+Child Support (Adoption of Laws) Amendment Act 2007 | 29 of 2007 | 31 Oct 2007 | s. 1 and 2: 31 Oct 2007 (see s. 2(a)); s. 4 and 5: 1 Nov 2007 (see s. 2(d)) s. 6: 1 Jan 2008 (see s. 2(b)) s. 7: 1 Jul 2008 (see s. 2(c))
 The Child Support (Adoption of Laws) Amendment Act 2002 s. 3 reads as follows:
 “
 3.Purpose of Act
@@ -71,10 +67,4 @@ and
 (ii) the Families, Community Services and Indigenous Affairs and Veterans’ Affairs Legislation Amendment (2006 Budget Measures) Act 2006; and
 (iii) the Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006; and
 (iv) the Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007.
-”.
-On the date as at which this compilation was prepared, the Child Support (Adoption of Laws) Amendment Act 2007 s. 7 had not come into operation. It reads as follows:
-“
-7.Sections 3 and 4 further amended on 1 July 2008
-Sections 3(a) and 4(b) are each amended by deleting “1 January 2008” and inserting instead —
-“ 1 July 2008 ”.
 ”.
