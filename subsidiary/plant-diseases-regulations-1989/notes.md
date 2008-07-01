@@ -102,45 +102,8 @@ Plant Diseases Amendment Regulations (No. 5) 2006 | 16 Jun 2006 p. 2116-18 | 1 J
 Plant Diseases Amendment Regulations 2007 | 6 Mar 2007 p. 725-7 | 6 Mar 2007
 Reprint 5: The Plant Diseases Regulations 1989 as at 18 May 2007 (includes amendments listed above)
 Plant Diseases Amendment Regulations (No. 3) 2007 | 15 Jun 2007 p. 2756-7 | 1 Jul 2007 (see r. 2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Plant Diseases Amendment Regulations 2008 r. 3-5 | 20 May 2008 p. 1939-40 | 1 Jul 2008 (see r. 2(b))
+Plant Diseases Amendment Regulations 2008 | 20 May 2008 p. 1939-40 | r. 1 and 2: 20 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the department formerly called Agriculture Western Australia was called the Department of Agriculture.
 Under the Alteration of Statutory Designations Order 2006 a reference to the Department of Agriculture is, unless the contrary is intended, to be read and construed as a reference to the Department of Agriculture and Food.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 30 June 1989, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 The amendment in the Plant Diseases Amendment Regulations (No. 2) 2001 r. 4(1)(b) is not included because of an error in the reference to the provision to be amended.
-On the date as at which this compilation was prepared, the Plant Diseases Amendment Regulations 2007 r. 3-5 had not come into operation. They read as follows:
-“
-3.The regulations amended
-The amendments in these regulations are to the Plant Diseases Regulations 1989.
-4.Regulation 19P amended
-(1) Regulation 19P(1) is amended as follows:
-(a) in paragraph (a) by deleting “$200.00;” and inserting instead —
-“ $207.00; ”;
-(b) in paragraph (b) by deleting “$200.00.” and inserting instead —
-“ $207.00. ”.
-(2) Regulation 19P(2) is amended by deleting “$43.00.” and inserting instead —
-“ $44.50. ”.
-5.Schedule 2 amended
-Schedule 2 is amended in each item listed in column 1 of the Table to this regulation by deleting the figure set out in column 2 and inserting instead the figure set out in column 3 opposite that item.
-Table
-Column 1 Item | Column 2 Delete | Column 3 Insert instead
-1(a) | 34.25 | 35.50
-1(b) | 35.25 | 36.45
-1(c) | 43.25 | 44.75
-1(c) | 44.25 | 45.75
-1(c) | 34.25 | 35.50
-1(c) | 106.00 | 110.00
-2(a) | 45.25 | 46.75
-2(b) | 60.00 | 62.00
-2(b) | 45.25 | 46.75
-2(b) | 134.00 | 139.00
-3(a) | 335.00 | 346.00
-3(a) | 52.00 | 54.00
-3(b) | 451.00 | 466.00
-3(b) | 67.00 | 69.50
-3 | 134.00 | 139.00
-4 | 20.00 | 20.70
-5 | 59.50 | 61.50
-”.
