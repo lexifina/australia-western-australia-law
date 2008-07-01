@@ -6,7 +6,7 @@
 (b) a corporation that would be a listed land-holder corporation if the reference to the value of land in section 76ATI(2)(b) were a reference to the value of land, goods, wares and merchandise,
 the corporation shall, within 2 months after the acquisition, lodge a statement with the Commissioner in respect of that acquisition.
 (2) Subject to subsections (4)(d) and (5)(c), where by a relevant acquisition a person acquires an additional interest in a corporation the corporation shall, within 2 months after the acquisition, lodge a statement with the Commissioner in respect of that acquisition.
-(3) Within 2 months after a relevant acquisition referred to in subsection (2) (“acquisition A”) the corporation may apply to the Commissioner in an approved form for approval to lodge periodical statements for the purposes of this section in respect of the person referred to in subsection (2) (the “bidder”) in respect of periods approved by the Commissioner (each of which is referred to in this Division as a “relevant period”).
+(3) Within 2 months after a relevant acquisition referred to in subsection (2) (acquisition A) the corporation may apply to the Commissioner in an approved form for approval to lodge periodical statements for the purposes of this section in respect of the person referred to in subsection (2) (the bidder) in respect of periods approved by the Commissioner (each of which is referred to in this Division as a relevant period).
 (4) If the Commissioner approves the application —
 (a) the Commissioner is to notify the corporation accordingly specifying —
 (i) the day on which each relevant period ends; and

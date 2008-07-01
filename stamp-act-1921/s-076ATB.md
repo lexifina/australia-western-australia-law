@@ -1,5 +1,5 @@
 ### 76ATB. Meaning of “listed land-holder WA company”
-(1) In this Division a WA company is a “listed land-holder WA company” if it is a land-holder within the meaning in subsection (2) and is listed on a recognised financial market.
+(1) In this Division a WA company is a listed land-holder WA company if it is a land-holder within the meaning in subsection (2) and is listed on a recognised financial market.
 (2) A WA company is a land-holder for the purposes of this Division if at the time of an acquisition of a controlling interest —
 (a) it is entitled to land situated in Western Australia and the unencumbered value of the land is not less than $1 000 000, or it is entitled to land situated in Western Australia as a co-owner of the freehold or of a lesser estate in the land and the value of the whole of the freehold or lesser estate is not less than $1 000 000; and
 (b) the value of all land to which the WA company is entitled, whether situated in Western Australia or elsewhere, is 60% or more of the value of all property to which it is entitled, other than property directed to be excluded by subsection (4),

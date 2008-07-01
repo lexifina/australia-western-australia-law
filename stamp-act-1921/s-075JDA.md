@@ -1,6 +1,6 @@
 ### 75JDA. Exemption may be withheld in certain cases
 (1) In this section —
-“duty avoidance arrangement” means an arrangement —
+duty avoidance arrangement means an arrangement —
 (a) avoiding or circumventing the operation of the provisions of this Part so far as they make the availability and continued effect of an exemption under section 75JB dependent on bodies corporate having been associated for a particular period or remaining associated for a particular period; or
 (b) having as its purpose, or one of its purposes, the reduction of duty that might otherwise become payable.
 (2) Without limiting section 75JC, the Commissioner may determine under that section that an exemption under section 75JB would not be granted in respect of an instrument or a Part IIIBA statement if the Commissioner considers that the instrument or Part IIIBA statement would, if executed or finalised, relate or be likely to relate to a duty avoidance arrangement.

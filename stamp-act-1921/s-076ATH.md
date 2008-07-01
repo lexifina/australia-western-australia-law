@@ -21,6 +21,6 @@ Bis the duty calculated under item 4(1) of the Second Schedule on the dutiable v
 (4) The section 76ATG statement is not chargeable with duty under subsection (3) if the Commissioner is satisfied that no transaction by means of which the chattels were transferred from the corporation to the person who made the relevant acquisition, or a related person, was effected for the collateral purpose of reducing the duty that otherwise would be chargeable in respect of the relevant acquisition.
 (5) If —
 (a) a section 76ATG statement relates to a relevant acquisition within section 76ATJ(1)(a)(ii); and
-(b) duty charged under Division 2 or 3 (the “previous duty”) has been paid in respect of a previous acquisition of an interest in the corporation that is taken into consideration under section 76ATJ(1)(a)(ii),
+(b) duty charged under Division 2 or 3 (the previous duty) has been paid in respect of a previous acquisition of an interest in the corporation that is taken into consideration under section 76ATJ(1)(a)(ii),
 there shall be deducted from the duty payable on the section 76ATG statement the amount that the previous duty would have been if the previous acquisition had occurred immediately before the relevant acquisition occurred.
 [Section 76ATH inserted by No. 11 of 2004 s. 29.]
