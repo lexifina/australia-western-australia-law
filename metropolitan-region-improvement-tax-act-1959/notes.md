@@ -16,6 +16,8 @@ Reprint 3: The Metropolitan Region Improvement Tax Act 1959 as at 9 May 2003 (in
 Taxation Administration (Consequential Provisions) (Taxing) Act 2002 Pt. 2 | 46 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Metropolitan Region Improvement Tax Amendment Act 2005 | 39 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077)
 Revenue Laws Amendment (Taxation) Act 2007 Pt. 4 | 12 of 2007 | 29 Jun 2007 | 30 Jun 2007 (see s. 2(b))
+Revenue Laws Amendment Act 2008 Pt. 5 | 30 of 2008 | 27 Jun 2008 | 1 Jul 2008 (see s. 2(1)(c))
+Revenue Laws Amendment Act 2009 Pt. 3 | 3 of 2009 | 14 May 2009 | 1 Jul 2008 (see s. 2(b))
 Repealed by the Land Tax Assessment Act 1976.
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 4 Div. 1 of those regulations read as follows:
 1.Citation
@@ -46,7 +48,7 @@ After section 1 the following section is inserted —
 “
 1A.Application of Act in non-Commonwealth places
 (1) In this section —
-“applied Metropolitan Region Improvement Tax Act” means the Metropolitan Region Improvement Tax Act 1959 of Western Australia in its application in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
+applied Metropolitan Region Improvement Tax Act means the Metropolitan Region Improvement Tax Act 1959 of Western Australia in its application in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
 (2) In this Act, unless the contrary intention appears —
 (a) a reference to this Act is to be read as a reference to this Act in its application as a law of Western Australia; and
 (b) a reference to the Planning and Development Act 2005 is to be read as a reference to that Act in its application as a law of Western Australia.
@@ -65,9 +67,9 @@ This notice comes into operation on the day after the day on which it is registe
 Note:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
 4.Definitions
 In this notice —
-“applied WA law” means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
-“Commissioner of State Revenue” means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
-“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
+applied WA law means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
+Commissioner of State Revenue means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
+Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
 5.Modification of applied WA laws
 (1) For the purposes of the Commonwealth Mirror Taxes Act section 8, each applied WA law is taken to be modified to the extent necessary to give effect to subclause (2).
 (2) If —
@@ -88,8 +90,8 @@ After section 1 the following section is inserted —
 “
 1A.Application of Act in Commonwealth places
 (1) In this section —
-“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth;
-“corresponding Metropolitan Region Improvement Tax Act” means the Metropolitan Region Improvement Tax Act 1959 of Western Australia in its application as a law of Western Australia.
+Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth;
+corresponding Metropolitan Region Improvement Tax Act means the Metropolitan Region Improvement Tax Act 1959 of Western Australia in its application as a law of Western Australia.
 (2) In this Act, unless the contrary intention appears —
 (a) a reference to this Act is to be read as a reference to this Act in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
 (b) a reference to the Planning and Development Act 2005 of Western Australia is to be read as a reference to the Planning and Development Act 2005 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act.
