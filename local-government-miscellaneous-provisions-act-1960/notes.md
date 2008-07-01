@@ -126,12 +126,11 @@ Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 No
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 14 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 3 and 4 | 11 of 2007 | 29 Jun 2007 | 25 Aug 2007 (see s. 2 and Gazette 24 Aug 2007 p. 4317)
+Local Government (Miscellaneous Provisions) Amendment Act 2007 | 11 of 2007 | 29 Jun 2007 | s. 1 and 2: 29 Jun 2007 s. 3 and 4: 25 Aug 2007 (see s. 2 and Gazette 24 Aug 2007 p. 4317) s. 5-14: 1 Jul 2008 (see s. 2 and Gazette 6 Jun 2008 p. 2179)
 Local Government (Miscellaneous Provisions) Amendment (Smoke Alarms) Act 2007 | 34 of 2007 | 21 Dec 2007 | 18 Jan 2008
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 5-12 | 11 of 2007 | 29 Jun 2007 | 1 Jul 2008 (see s. 2 and Gazette 6 Jun 2008 p. 2179)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Act No. 90 of 1964 was passed as the Local Government Act Amendment Act (No. 2) 1964, but was proclaimed to come into operation as the Local Government Act Amendment Act 1964.
 Repealed by the Stock (Brands and Movement) Act 1970, which is now known as the Stock (Identification and Movement) Act 1970.
@@ -309,169 +308,7 @@ The Planning and Development (Consequential and Transitional Provisions) Act 200
 (3) Despite the repeal of section 295 of the Local Government (Miscellaneous Provisions) Act 1960, section 295(4) and (4a) of that Act continue to apply in relation to the disposal of land where the subdivision of the land was approved before the coming into operation of this section.
 (4) Until minimum standards of construction and drainage are fixed under section 169 of the Planning and Development Act 2005, the minimum standards fixed under section 295(3a) of the Local Government (Miscellaneous Provisions) Act 1960 apply for the purposes of the Planning and Development Act 2005 as if they had been fixed under that Act.
 ”.
-On the date as at which this compilation was prepared, the Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 5-12 had not come into operation. They read as follows:
-“
-5.Part XV Division 1A inserted
-After Part XV Division 1 the following Division is inserted —
-“
-Division 1A — Qualifications and appointment of local government building surveyors
-373A.Qualifications of local government building surveyors
-(1) Regulations may be made prescribing the educational and professional qualifications (if any), and (where relevant) the certificates evidencing those qualifications, that must be held by a person before the person can be appointed to the office of building surveyor of a local government.
-(2) Without limiting subsection (1), regulations made for the purposes of subsection (1) may —
-(a) deal with the same sorts of matters as those set out in section 374AAB(3)(b), (c), (d) and (f); and
-(b) give to a committee constituted under section 374AAB(3)(b) functions for the purposes of subsection (1).
-373B.Appointment of local government building surveyors
-(1) A local government may appoint a person to the office of building surveyor of the local government.
-(2) If this Part applies to the district or a part of the district of a local government, the local government must appoint a person to the office of building surveyor of the local government.
-(3) If regulations made for the purposes of section 373A require an occupant of the office of building surveyor of a local government to hold a specified qualification under the regulations, the local government must not appoint a person to the office unless —
-(a) the person holds the appropriate certificate of qualification under the regulations; or
-(b) the Minister approves the appointment.
-(4) Subsection (3) does not apply to a person acting temporarily in the office of building surveyor of a local government for a period not exceeding 3 months.
-(5) The Minister may, after consultation with the local government, impose on an approval under subsection (3)(b) a condition that the person in respect of whom the approval is given must obtain the specified certificate of qualification under the regulations within the time specified.
-(6) The Minister may from time to time grant an extension of the period fixed under subsection (5) if the Minister considers that the circumstances justify the extension.
-(7) If —
-(a) approval is given by the Minister under subsection (3)(b) subject to a condition that the person obtain a specified certificate of qualification; and
-(b) at the completion of the period within which the certificate was to be obtained, or any extension of it —
-(i) the person appointed by the local government under that approval still does not hold the certificate of qualification; and
-(ii) the Minister does not consider that the circumstances justify an extension or further extension of that period,
-the Minister may, after consultation with the local government, direct the local government to remove the person from the office and, despite anything in this Act or the Local Government Act 1995, the local government must comply with that direction.
-(8) A person occupying the office of building surveyor of a local government must not be removed from office just because the person does not hold a certificate of qualification required by the regulations to be held by the occupant of the office.
-(9) A person occupying the office of building surveyor of a local government who does not hold a certificate of qualification required by the regulations to be held by the occupant of the office may, subject to section 374AAB(4), continue to perform the functions of that office.
-”.
-6.Section 374 amended
-(1) Section 374(1) is amended by deleting the penalty at the foot of the subsection and inserting instead —
-“
-Penalty: $50 000 and in addition a daily penalty of $5 000 for each day during which the offence continues.
-”.
-(2) Section 374(1b), (1ba), (1c), (1d) and (2) are repealed and the following subsections are inserted instead —
-“
-(1b) A local government may reject an application for a building licence under section 374 for the amendment, alteration, extension or enlargement of an existing building if the local government has reason to believe that there is something in the construction of the building which would give the local government grounds for issuing a notice under section 401(1).
-(1c) The local government may suspend dealing with the application pending the outcome of an application for a building approval certificate under section 374AA in respect of the building.
-(1d) A local government may require a person to whom a building licence for building work is issued under subsection (1) (after this subsection comes into operation) to give notice of the completion of the building work to the local government, within the time specified in the notice (which must not be less than 35 days after practical completion).
-(2) A person to whom a notice is given under subsection (1d) must comply with the notice.
-Penalty: $400 and in addition a daily penalty of $16 for each day during which the offence continues.
-”.
-(3) Section 374(3) is amended by deleting the penalty at the foot of the subsection and inserting instead —
-“
-Penalty: $4 000 and in addition a daily penalty of $160 for each day during which the offence continues.
-”.
-(4) After section 374(3) the following subsection is inserted —
-“
-(4) In proceedings for an offence against subsection (3) it is a defence if the accused proves that, before the occupation or use occurred, a building approval certificate had been issued under section 374AA in respect of the building work that was carried out in contravention of subsection (1).
-”.
-7.Sections 374AA, 374AAB, 374AAC and 374AAD inserted
-After section 374 the following sections are inserted —
-“
-374AA.Building approval certificates for unauthorised building work
-(1) In this section —
-“unauthorised building work” means the erection of a building or the amendment, alteration, extension or enlargement of the structure of a building —
-(a)which is carried out without the permission of the local government where that permission is required; or
-(b)which is not in compliance with, or is a departure from, plans and specifications for the building that have been approved by the local government under section 374(1).
-(2) The owner of a building on which unauthorised building work has been carried out may apply to the local government for the issue of a building approval certificate in respect of the unauthorised building work.
-(3) An application under subsection (2) —
-(a) is to be in the form prescribed by regulations;
-(b) is to be accompanied by the documents and information prescribed by regulations or required by the local government; and
-(c) is to be accompanied by the fee prescribed by regulations.
-(4) The local government —
-(a) may, if it is satisfied that the unauthorised building work substantially conforms with the requirements of this Act, issue a building approval certificate in respect of the unauthorised building work; or
-(b) may refuse to issue a building approval certificate in respect of the unauthorised building work.
-(5) A building approval certificate may be issued subject to such conditions as are specified in it.
-(6) Section 374(2a) and (2b) (with any necessary modifications) apply in relation to the issue or refusal to issue a building approval certificate as if it were the approval or refusal to approve specifications and a plan submitted to the local government under section 374(1).
-374AAB.Delegation of authority to approve plans of buildings or unauthorised building work
-(1) The authority to approve or refuse to approve —
-(a) plans and specifications submitted under section 374; or
-(b) unauthorised building work under section 374AA,
-may be delegated by a local government to a person, but if the plans and specifications so submitted conform, or the unauthorised building work conforms, to —
-(c) all local laws in force in the relevant district or part of a district in respect of building matters, and the local government’s pre-determined policy in respect of building matters; and
-(d) all local laws and schemes in force in the relevant district or part of a district in respect of town and regional planning matters, and the local government’s pre-determined policy in respect of town and regional planning matters,
-the delegate must not refuse to approve the plans and specifications or the unauthorised building work without first obtaining the consent of the local government.
-(2) Regulations may be made regulating the delegation of the authority to approve or refuse to approve plans and specifications or unauthorised building work.
-(3) Without limiting subsection (2), regulations made for the purposes of subsection (2) may —
-(a) prescribe the educational and professional qualifications (if any), and (where relevant) the certificates evidencing those qualifications, that must be held by a person before the authority to approve or refuse to approve —
-(i) plans and specifications for building work; or
-(ii) unauthorised building work,
-of a kind specified in the regulations can be delegated to that person;
-(b) constitute a committee with the functions of assessing applications for certificates of qualification and granting certificates to applicants it determines have —
-(i) the prescribed qualifications or equivalent interstate and overseas qualifications; or
-(ii) for a particular type of certificate — sufficient knowledge and experience to qualify them to carry out the functions of persons who hold certificates of that type;
-(c) provide for the committee to require that an applicant’s qualifications or knowledge and experience be assessed by another person or body before the committee makes a determination about those qualifications or that knowledge and experience;
-(d) provide the grounds upon which, and the manner in which, those certificates may be cancelled by the committee;
-(e) provide for applications to be made to the State Administrative Tribunal for the review of decisions of the committee; and
-(f) prescribe fees payable in respect of assessing applications and granting certificates.
-(4) A delegation under subsection (1) does not authorise the delegate to approve or refuse to approve —
-(a) plans and specifications for building work; or
-(b) unauthorised building work,
-of a particular kind unless the delegate is a person to whom the local government can, under the regulations referred to in subsection (2), delegate the authority to approve or refuse to approve plans and specifications for building work, or unauthorised building work, of that kind.
-(5) A delegation under subsection (1), and any variation or revocation of it, must be in writing executed by the local government.
-(6) A person to whom authority is delegated under this section cannot delegate that authority.
-(7) A person exercising an authority that has been delegated to the person under this section is to be taken to do so in accordance with the terms of the delegation unless the contrary is shown.
-(8) Nothing in this section limits the ability of a local government to exercise its authority under section 374.
-(9) An authority delegated by a local government under subsection (1) and exercised by the delegate is to be taken to have been exercised by the local government.
-374AAC.Advice to be sought where no delegation of authority
-(1) If the decision to approve or refuse to approve particular plans and specifications submitted under section 374 or particular unauthorised building work under section 374AA is to be made by a local government rather than a delegate, the local government must not make a decision unless it has —
-(a) obtained advice from a person who holds a certificate of qualification under the regulations that indicates that the person could be delegated the authority by the local government to approve or refuse to approve the plans and specifications or the unauthorised building work; and
-(b) taken that advice into account.
-(2) The advice must consider whether the plans and specifications conform, or the unauthorised building work substantially conforms, with the requirements of this Act.
-(3) This section does not apply where a person need not hold any qualifications to be delegated the authority to approve or refuse to approve the plans and specifications or unauthorised building work.
-374AAD.Review of decisions about building licences and building approval certificates
-(1) A person who is dissatisfied with —
-(a) the refusal of a local government to approve plans and specifications submitted under section 374(1);
-(b) conditions specified in a building licence issued under section 374(1);
-(c) the refusal of a local government to issue a building approval certificate under section 374AA; or
-(d) conditions specified in a building approval certificate under section 374AA,
-may apply to the State Administrative Tribunal for a review of the refusal or the conditions.
-(2) For the purpose of enabling effect to be given to an order it makes upon an application under subsection (1), the State Administrative Tribunal may, if in its opinion the circumstances of a particular case warrant its so doing, order that any provision of a local law made by a local government under this Part or of a regulation made under this Part does not apply in that particular case or applies as modified by the order in that particular case and the order has effect according to its tenor, despite anything in this Act or the Local Government Act 1995.
-”.
-8.Section 374AA amended
-(1) Section 374AA is amended by inserting before “A local” the subsection designation “(1)”.
-(2) At the end of section 374AA the following subsection is inserted —
-“
-(2) A local government shall not issue to a person a building approval certificate under section 374AA unless satisfied that the person —
-(a) has paid the levy imposed in respect of the work under the Building and Construction Industry Training Levy Act 1990 and any amount due under section 24 of that Act; or
-(b) is not liable to pay a levy referred to in paragraph (a) in respect of the work.
-”.
-Note:The heading to section 374AA will be altered by deleting “licence under section 374 or 374A” and inserting instead “building licence or building approval certificate”.
-9.Sections 374AA and 374AAA renumbered
-Sections 374AA and 374AAA are renumbered as 374AB and 374AC respectively.
-10.Section 380 amended
-Section 380(1) is amended by inserting after “building surveyor” in the first place where it occurs —
-“ of the local government ”.
-11.Section 401 amended
-(1) Section 401(1) is amended as follows:
-(a) in paragraph (b) by deleting “Act, or which is a contravention of this Act; or” and inserting instead —
-“ Act; ”;
-(b) after paragraph (b) by inserting —
-“
-(ba) which is a contravention of this Act; or
-”.
-(2) After section 401(1) the following subsections are inserted —
-“
-(1a) The local government is not to give notice under subsection (1)(b) or (c) in respect of particular building work if —
-(a) a building approval certificate has been issued in respect of the building work;
-(b) the owner has applied for the issue of a building approval certificate in respect of the building work and the application has not been finally refused; or
-(c) the local government has given the owner written notice inviting the owner to apply for the issue of a building approval certificate in respect of the building work and the period (if any) specified in the written notice for the making of the application has not yet expired.
-(1b) For the purposes of subsection (1a)(b) an application for the issue of a building approval certificate has been finally refused if the local government has refused to issue the certificate and —
-(a) no application for review of that refusal has been made under section 374AAD; or
-(b) on review under section 374AAD of that refusal, the refusal has been upheld.
-(1c) In subsections (1a) and (1b) —
-“building approval certificate” means a building approval certificate under section 374AA.
-”.
-(3) Section 401(4) is amended as follows:
-(a) by deleting “, whether”;
-(b) by deleting “or not” and inserting instead —
-“ under subsection (1) ”.
-(4) Section 401(5) is amended by inserting after “notice” in the first place where it occurs —
-“ from the local government under subsection (1) ”.
-12.Various references to building surveyor amended
-Each provision listed in the Table to this section is amended by inserting after “building surveyor” in each place where it occurs —
-“ of the local government ”.
-Table
-s. 364(3)(c) | s. 406
-s. 374(5) | s. 415(1)
-s. 377(2) and (4) | s. 420(1)
-s. 379(1) | s. 433(26)
-s. 399(3)(a)
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 had not come into operation. It reads as follows:
 “
 91.Local Government (Miscellaneous Provisions) Act 1960 amended
