@@ -8,6 +8,7 @@ State Administrative Tribunal Amendment Regulations (No. 2) 2007 | 26 Jun 2007 p
 State Administrative Tribunal Amendment Regulations 2007 | 31 Jul 2007 p. 3804-5 | r. 1 and 2: 31 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2007 (see r. 2(b))
 Reprint 1: The State Administrative Tribunal Regulations 2004 as at 16 Nov 2007 (includes amendments listed above)
 State Administrative Tribunal Amendment (Road Traffic) Regulations 2008 | 13 Jun 2008 p. 2522-3 | r. 1 and 2: 13 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
+State Administrative Tribunal Amendment Regulations 2008 | 27 Jun 2008 p. 3064-7 | r. 1 and 2: 27 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Repealed by the Nurses and Midwives Act 2006.
 Repealed by the Occupational Therapists Act 2005.
 Now known as the Professional Combat Sports Act 1987.
