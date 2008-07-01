@@ -11,7 +11,7 @@
 (a)where a councillor has been elected unopposed he or she is to be regarded as having received 100% of the primary votes cast; and
 (b)where 2 or more councillors have an equality of the percentage of primary votes cast the returning officer is to draw lots to determine the order of their retirement.
 8A.In clause 8 —
-“primary vote” received by a person on his or her election means —
+primary vote received by a person on his or her election means —
 (a)in relation to an election in which there are only 2 candidates to fill one office of councillor, a vote cast by an elector that indicates the person whom the elector wishes to be elected; or
 (b)in any other case, a vote cast by an elector that indicates that the person ranks highest in the order of the elector’s preference for the candidates.
 9.If a question arises as to the order of retirement of persons occupying the office of councillor, the order of retirement as between a person appointed under section 4.57(3) and another person or other persons —
