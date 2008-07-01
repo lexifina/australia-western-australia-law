@@ -107,43 +107,5 @@ Enzootic Diseases Amendment Regulations 2006 | 19 Sep 2006 p. 3725-84 | 19 Sep 2
 Enzootic Diseases Amendment Regulations 2007 | 15 Jun 2007 p. 2759-61 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Enzootic Diseases Amendment Regulations 2008 | 11 Mar 2008 p. 815 | r. 1 and 2: 11 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Mar 2008 (see r. 2(b))
 Enzootic Diseases Amendment Regulations (No. 2) 2008 | 29 Apr 2008 p. 1571-4 | r. 1 and 2: 29 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Apr 2008 (see r. 2(b))
+Enzootic Diseases Amendment Regulations (No. 4) 2008 | 20 May 2008 p. 1937-8 | r. 1 and 2: 20 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Enzootic Diseases Amendment Regulations (No. 3) 2008 | 23 May 2008 p. 1987-91 | r. 1 and 2: 23 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 24 May 2008 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Enzootic Diseases Amendment Regulations (No. 4) 2008 r. 3 and 4 | 20 May 2008 p. 1937-8 | 1 Jul 2008 (see r. 2(b))
-On the date as at which this compilation was prepared, the Enzootic Diseases Amendment Regulations (No. 4) 2008 r. 3 and 4 had not come into operation. They read as follows:
-“
-3.The regulations amended
-The amendments in these regulations are to the Enzootic Diseases Regulations 1970.
-4.Schedule 4 replaced
-Schedule 4 is repealed and the following Schedule is inserted instead —
-“
-Schedule 4 — Charges
-[r. 28, 31, 42 and 60]
-Charges | $
-1.Charges for inspection of stock being imported or exported (regulations 28 and 31) —
-A.Inspection on week day inside normal hours (6 a.m. to 6 p.m.) — per 15 minute unit or part of 15 minute unit | 27.25
-Travel on week day inside normal hours (6 a.m. to 6 p.m.) —
-(i)For the first 25 km from headquarters plus | 27.25
-(ii)For each 25 km or part of 25 km in excess of 25 km from headquarters | 27.25
-B.Inspection on week day outside normal hours — per 15 minute unit or part of 15 minute unit | 33.25
-Travel on week day outside normal hours —
-(i)For the first 25 km from headquarters plus | 33.25
-(ii)For each 25 km or part of 25 km in excess of 25 km from headquarters | 33.25
-C.Inspection on Saturday, Sunday or public holiday —
-minimum fee | 451.00
-per 15 minute unit or part of 15 minute unit | 37.50
-Travel on Saturday, Sunday or public holiday —
-(i)For the first 25 km from headquarters plus | 37.50
-(ii)For each 25 km or part of 25 km in excess of 25 km from headquarters | 37.50
-2.Charges for supply of Triclabendazole —
-Minimum charge per session (regardless of number of animals) | 23.50
-or per kg body weight of each animal (where the sum is greater than minimum fee) —
-up to 35 kg | 0.70
-36 — 100 kg | 1.95
-101 — 300 kg | 4.35
-301 — 600 kg | 8.75
-more than 600 kg | 11.30
-”.
-”.
