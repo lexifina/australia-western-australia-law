@@ -282,7 +282,7 @@ Stonefruit: fresh fruit other than —
 (e)nectarine fruit (Prunus persica var. nucipersica) grown in South Island New Zealand,
 general diseases and individual pests.
 (2) For the purposes of subclause (1) —
-“minituber” means potatoes which are grown under conditions approved by the Director General.
+minituber means potatoes which are grown under conditions approved by the Director General.
 [Item 1 amended in Gazette 26 Jan 1990 p. 649; 18 Sep 1992 p. 4670-1; 20 Aug 1996 p. 4054; 14 Jan 1997 p. 383; 4 Mar 1997 p. 1354; 4 Feb 2000 p. 421; 16 Jan 2004 p. 194; 16 Dec 2005 p. 6074; 7 Feb 2006 p. 616; 21 Apr 2006 p. 1572; 6 Mar 2007 p. 726.]
 2.Soil — general diseases
 Entry not allowed unless soil —
@@ -410,7 +410,7 @@ The cultivars of the species Cucurbita moschata other than butternut and the cul
 (b) in a green mature condition on arrival in Western Australia.
 (2) In addition banana fruit from areas infested with fruit fly (B. musae) to be certified as having been produced under a quality assurance system.
 (3) In subitem (1) —
-“green mature condition” means —
+green mature condition means —
 (a)in relation to babaco or pawpaw, that the colouring of the fruit is not more than one quarter yellow;
 (b)in relation to Tahiti lime, that the fruit has no yellow colouring;
 (ba)in relation to banana of the cavendish variety, that the fruit —
@@ -567,7 +567,7 @@ and
 (j) that procedures for fork testing, soil sampling and sodium hypochlorite treatment are as approved by the Director General in Western Australia.
 (2) Tissue cultured and minituber potatoes are exempt from special conditions outlined in clause (1)(h) and (i).
 For the purposes of this subclause —
-“minituber” means potatoes which are grown under conditions approved by the Director General.
+minituber means potatoes which are grown under conditions approved by the Director General.
 (3) All imported potatoes are prohibited entry into —
 (a) the Shires of Esperance, Gingin, Jerramungup and Ravensthorpe; and
 (b) that portion of the State comprising the area bounded by a line starting from a point on the sea coast situated west from the south-west corner of Mandurah townsite and extending south-easterly to the south corner of Coolup townsite; thence south-southeasterly to the southernmost corner of Collie townsite; thence in a general south-easterly direction passing through the north-east corner of Dinninup at Cape Riche; thence south-westerly, westerly, north-westerly and northerly along the said sea coast to the starting point; excluding however, that portion of such area comprised within a radius of 16 km from the Collie Railway Station.
@@ -655,11 +655,11 @@ To be certified as —
 [Item 25 amended in Gazette 20 Aug 1996 p. 4055.]
 26.Cherry fruit (Prunus avium) — General diseases
 (1) In this item —
-“AQIS” means the Australian Quarantine and Inspection Service of the Commonwealth;
-“cherry fruit” means fresh fruit of Prunus avium;
-“FPE Appendix 2” means Appendix 2 to Part A of the document entitled Final Policy Extension for the Importation of Cherry Fruit (Prunus avium) from Tasmania into Western Australia and dated 22 December 2003;
-“IRA” means the Import Risk Analysis entitled Categorisation of Pests of Stone Fruit from Eastern Australia — Final State Import Risk Analysis of Cherry Fruit (Prunus avium) from South Australia into Western Australia. (21 September 2001);
-“relevant department” means —
+AQIS means the Australian Quarantine and Inspection Service of the Commonwealth;
+cherry fruit means fresh fruit of Prunus avium;
+FPE Appendix 2 means Appendix 2 to Part A of the document entitled Final Policy Extension for the Importation of Cherry Fruit (Prunus avium) from Tasmania into Western Australia and dated 22 December 2003;
+IRA means the Import Risk Analysis entitled Categorisation of Pests of Stone Fruit from Eastern Australia — Final State Import Risk Analysis of Cherry Fruit (Prunus avium) from South Australia into Western Australia. (21 September 2001);
+relevant department means —
 (a)for South Australia, the Department of Primary Industries and Resources South Australia; and
 (b)for Tasmania, the Department of Primary Industries, Water and Environment.
 (2) For cherry fruit grown in South Australia or Tasmania entry is not allowed except in accordance with subitems (3) to (7).
@@ -684,8 +684,8 @@ printed on an external surface in letters not less than 5 mm in height;
 [Item 26 inserted in Gazette 11 Feb 2003 p. 409-11; amended in Gazette 16 Jan 2004 p. 194; 18 May 2004 p. 1563-4; 16 Dec 2005 p. 6075; 6 Mar 2007 p. 726.]
 27.Red Imported Fire Ant (Solenopsis invicta)
 (1) In this item —
-“landscaping materials” includes a non-liquid mixture of organic or inorganic material in which plants may grow, soils, potting mixtures and mulches;
-“RIFA” means Red Imported Fire Ant (Solenopsis invicta).
+landscaping materials includes a non-liquid mixture of organic or inorganic material in which plants may grow, soils, potting mixtures and mulches;
+RIFA means Red Imported Fire Ant (Solenopsis invicta).
 (2) For plants with soil or planting medium attached originating from a property that has never been infested with Red Imported Fire Ant but that is less than 5 km from a property infested with RIFA to be certified that the originating property has been inspected in the preceding 3 months and found to be free from RIFA.
 (3) For plants with soil or planting medium attached originating from a property that has been infested with RIFA to be certified that —
 (a) the infestation was destroyed by injecting or drenching all nests with a solution of 0.2 g/L chlorpyrifos;
@@ -735,7 +735,7 @@ or
 [Item 27 inserted in Gazette 31 Oct 2003 p. 4556-9.]
 28.Poaceae (Gramineae) — wheat streak mosaic virus
 (1) In this item —
-“WSMV” means wheat streak mosaic virus.
+WSMV means wheat streak mosaic virus.
 (2) Subitems (4) and (5) apply to the genera of Poaceae (Gramineae) plants specified in Schedule 9.
 (3) Subitem (6) applies to Zea mays seed.
 (4) From a State or Territory in which WSMV is known to occur —
@@ -773,17 +773,17 @@ and
 [30.Deleted in Gazette 7 Jun 1996 p. 2388.]
 31.Apricot fruit (fresh fruit of Prunus armeniaca) — Oriental fruit moth (Grapholita molesta), general diseases.
 (1) In this item —
-“apricot fruit” means fresh fruit of Prunus armeniaca;
-“AQIS” has the same meaning as in item 26;
-“FPE” means Part A and Part B of the document entitled Final Policy Extension Fresh Apricot (Prunus armeniaca) Fruit Imported from South Australia and Tasmania into Western Australia completed by the Department of Agriculture in December 2003 as amended from time to time;
-“fruit fly” means —
+apricot fruit means fresh fruit of Prunus armeniaca;
+AQIS has the same meaning as in item 26;
+FPE means Part A and Part B of the document entitled Final Policy Extension Fresh Apricot (Prunus armeniaca) Fruit Imported from South Australia and Tasmania into Western Australia completed by the Department of Agriculture in December 2003 as amended from time to time;
+fruit fly means —
 (a)Bactrocera kraussi (Krauss’ fruit fly);
 (b)Bactrocera mayi;
 (c)Bactrocera melas;
 (d)Bactrocera neohumeralis (Lesser Queensland fruit fly); or
 (e)Bactrocera tryoni (Queensland fruit fly);
-“oriental fruit moth” means Grapholita molesta;
-“relevant department” has the same meaning as in item 26.
+oriental fruit moth means Grapholita molesta;
+relevant department has the same meaning as in item 26.
 [(2)deleted]
 (3) For apricot fruit grown in South Australia or Tasmania entry is not allowed except in accordance with subitems (4) to (9).
 (4) Apricot fruit grown in South Australia or Tasmania to be certified as from a property and packed in a packing house registered in accordance with the FPE.
@@ -837,8 +837,8 @@ FROM AN AREA FREE FROM FRUIT FLY IN ACCORDANCE WITH THE CODE OF PRACTICE
 [Item 31 inserted in Gazette 16 Dec 2005 p. 6075-8; amended in Gazette 6 Mar 2007 p. 726-7.]
 31A.Stonefruit grown in New Zealand
 (1) In this item —
-“cherry fruit” means fresh fruit of Prunus avium;
-“stonefruit” means fresh fruit of —
+cherry fruit means fresh fruit of Prunus avium;
+stonefruit means fresh fruit of —
 (a)apricot (Prunus armeniaca); or
 (b)nectarine (Prunus persica var. nucipersica); or
 (c)peach (Prunus persica); or
@@ -1022,7 +1022,7 @@ Entry of plants, cuttings and budwood from other States and Territories is permi
 [Item 50A, formerly item 50, inserted in Gazette 28 Oct 1994 p. 5462; amended in Gazette 11 Nov 1994 p. 5689.]
 51.Plants — citrus canker (Xanthomonas axonopodis pv. citri)
 (1) In this item —
-“PQA” means the pest quarantine area declared under section 131F of the Plant Protection Regulation 2002 of Queensland.
+PQA means the pest quarantine area declared under section 131F of the Plant Protection Regulation 2002 of Queensland.
 (2) Plants (other than seed) from Queensland grown inside the PQA are prohibited entry into the State.
 (3) Plants (other than fruit and seed) from Queensland packed inside the PQA are prohibited entry into the State.
 (4) Fruit (other than seed) from Queensland grown outside the PQA and packed inside the PQA to be certified as —
@@ -1123,17 +1123,17 @@ Potential carriers comprising agricultural equipment may be brought into Western
 Quarantine Conditions for Lettuce Aphid Hosts Imported into Western Australia
 (1) Interpretation
 In this procedure —
-“cut flowers and foliage” means any part of a host plant, excluding fruit and nursery stock, not used for human consumption;
-“fruit” means a part of a plant that could or does contain a seed and includes the peduncle (the stalk of the fruit cluster) and pedicel (the stalk of a single fruit);
-“head lettuce” means any lettuce (Lactuca sativa) or part thereof attached at the leaf base where the inner leaves cannot be 100% inspected;
-“head vegetable” means any leaf vegetable attached at the leaf base where the inner leaves cannot be 100% inspected;
-“lettuce aphid” means Nasonovia ribisnigri;
-“loose leaf lettuce” means any lettuce leaf (Lactuca sativa) not attached at the leaf base and where all leaves can be 100% inspected;
-“loose leaf vegetable” means any vegetable leaf not attached at the leaf base and where all leaves can be 100% inspected;
-“nursery stock” means any potted or bare rooted primary or secondary host plant and any cuttings or any above ground part used for vegetative propagation, but does not include plant tissue culture or seed;
-“PRA” means the Final State Pest Risk Analysis: Lettuce Aphid (Nasonovia ribisnigri) Into Western Australia via Host Fruit, Vegetables, Nursery Stock, Cut Flowers and Foliage;
-“primary host plants” means the winter hosts of the lettuce aphid sexual form and includes Ribes spp. (currants), specifically Ribes alpinum, Ribes aureum, Ribes nigrum (blackcurrant), Ribes rubrum (red currant) and Ribes uva-crispa (gooseberry);
-“secondary host plants” means hosts of the lettuce aphid asexual form and includes liguliforous and latex Asteraceae (Compositae) (set out in Schedule 10), including Cichorium spp. (chicory), Cichorium endivia (endives), Cichorium intybus (chicory), Crepis spp. (hawk’s beard), Hieracium spp. (hawkweed), Lactuca spp., Lactuca sativa (lettuce), Lapsana spp. (nipplewort), Leontodon taxacacoides (hawkbit), Nicotiana spp. (tobacco), Petunia spp. (petunia), Scrophularia spp. (figwort) and Veronica spp. (speedwell).
+cut flowers and foliage means any part of a host plant, excluding fruit and nursery stock, not used for human consumption;
+fruit means a part of a plant that could or does contain a seed and includes the peduncle (the stalk of the fruit cluster) and pedicel (the stalk of a single fruit);
+head lettuce means any lettuce (Lactuca sativa) or part thereof attached at the leaf base where the inner leaves cannot be 100% inspected;
+head vegetable means any leaf vegetable attached at the leaf base where the inner leaves cannot be 100% inspected;
+lettuce aphid means Nasonovia ribisnigri;
+loose leaf lettuce means any lettuce leaf (Lactuca sativa) not attached at the leaf base and where all leaves can be 100% inspected;
+loose leaf vegetable means any vegetable leaf not attached at the leaf base and where all leaves can be 100% inspected;
+nursery stock means any potted or bare rooted primary or secondary host plant and any cuttings or any above ground part used for vegetative propagation, but does not include plant tissue culture or seed;
+PRA means the Final State Pest Risk Analysis: Lettuce Aphid (Nasonovia ribisnigri) Into Western Australia via Host Fruit, Vegetables, Nursery Stock, Cut Flowers and Foliage;
+primary host plants means the winter hosts of the lettuce aphid sexual form and includes Ribes spp. (currants), specifically Ribes alpinum, Ribes aureum, Ribes nigrum (blackcurrant), Ribes rubrum (red currant) and Ribes uva-crispa (gooseberry);
+secondary host plants means hosts of the lettuce aphid asexual form and includes liguliforous and latex Asteraceae (Compositae) (set out in Schedule 10), including Cichorium spp. (chicory), Cichorium endivia (endives), Cichorium intybus (chicory), Crepis spp. (hawk’s beard), Hieracium spp. (hawkweed), Lactuca spp., Lactuca sativa (lettuce), Lapsana spp. (nipplewort), Leontodon taxacacoides (hawkbit), Nicotiana spp. (tobacco), Petunia spp. (petunia), Scrophularia spp. (figwort) and Veronica spp. (speedwell).
 (2) Head lettuce and other head vegetables from secondary host plants are prohibited entry into Western Australia except under the following condition.
 Must be certified and endorsed with the following information —
 (a) the name and address of the property on which the consignment was grown;
