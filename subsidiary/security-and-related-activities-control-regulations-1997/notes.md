@@ -24,4 +24,5 @@ Security and Related Activities (Control) Amendment Regulations (No. 4) 2006 | 2
 Security and Related Activities (Control) Amendment Regulations (No. 3) 2006 | 3 Oct 2006 p. 4343-7 | 3 Oct 2006
 Reprint 4: The Security and Related Activities (Control) Regulations 1997 as at 1 Dec 2006 (includes amendments listed above)
 Security and Related Activities (Control) Amendment Regulations 2007 | 29 Jun 2007 p. 3200-1 | r. 1 and 2: 29 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+Security and Related Activities (Control) Amendment Regulations 2008 | 24 Jun 2008 p. 2903-4 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Repealed by the Security and Related Activities (Control) Act 1996.
