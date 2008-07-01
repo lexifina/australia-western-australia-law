@@ -30,4 +30,4 @@ Taxation Administration Act 2003 s. 38(5)
 Valuation of Land Act 1978 s. 33(2) or 35(2)
 Water Boards Act 1904 s. 88(2) or 89(2)
 [Schedule 7 inserted in Gazette 26 Jun 2007 p. 2994-5.]
-[Schedules 8-19 repealed in Gazette 26 Jun 2007 p. 2987.]
+[Schedules 8-19 deleted in Gazette 26 Jun 2007 p. 2987.]
