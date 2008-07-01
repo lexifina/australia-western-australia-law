@@ -3,6 +3,6 @@
 ## Fees
 ITEM | REGULATION | DESCRIPTION OF SERVICE | FEES
  |  |  | $
-1. | 9A(2) | Application for licence, or renewal of licence, as proprietor of a business producing manufactured smallgoods | 50
-2. | 9B(3) | Application for registration or renewal of registration of premises to be used for producing manufactured smallgoods | 50
-[Schedule 5 inserted in Gazette 30 Jan 1996 p. 362; amended in Gazette 25 Jun 2004 p. 2240; 31 May 2005 p. 2407; 2 May 2006 p. 1698; 18 May 2007 p. 2249.]
+1. | 9A(2) | Application for licence, or renewal of licence, as proprietor of a business producing manufactured smallgoods | 52
+2. | 9B(3) | Application for registration or renewal of registration of premises to be used for producing manufactured smallgoods | 52
+[Schedule 5 inserted in Gazette 30 Jan 1996 p. 362; amended in Gazette 25 Jun 2004 p. 2240; 31 May 2005 p. 2407; 2 May 2006 p. 1698; 18 May 2007 p. 2249; 4 Apr 2008 p. 1307.]
