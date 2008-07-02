@@ -39,3 +39,4 @@ Transport (Country Taxi-car) Amendment Regulations (No. 2) 2006 | 23 Jun 2006 p.
 Transport (Country Taxi-car) Amendment Regulations 2006 | 14 Jul 2006 p. 2575-81 | 14 Jul 2006
 Transport (Country Taxi-car) Amendment Regulations 2007 | 22 Jun 2007 p. 2874-5 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Transport (Country Taxi-car) Amendment (Road Traffic) Regulations 2008 | 24 Jun 2008 p. 2913-14 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
+Transport (Country Taxi-car) Amendment Regulations 2008 | 1 Jul 2008 p. 3160-1 | r. 1 and 2: 1 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2008 (see r. 2(b))
