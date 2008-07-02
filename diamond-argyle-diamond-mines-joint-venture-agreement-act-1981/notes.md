@@ -9,6 +9,7 @@ Security and Related Activities (Control) Act 1996 s. 96 | 27 of 1996 | 22 Jul 1
 Diamond (Argyle Diamond Mines Joint Venture) Agreement Amendment Act 2001 | 39 of 2001 | 7 Jan 2002 | 4 Feb 2002 (see s. 2)
 Reprint of the Diamond (Argyle Diamond Mines Joint Venture) Agreement Act 1981 as at 10 May 2002 (includes amendments listed above)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 79 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Diamond (Argyle Diamond Mines Joint Venture) Agreement Amendment Act 2008 | 37 of 2008 | 1 Jul 2008 | s. 1 and 2: 1 Jul 2008 (see s. 2(a)); Act other than s. 1 and 2: 2 Jul 2008 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
