@@ -2,7 +2,7 @@
 [s. 2]
 THIS AGREEMENT is made the 15th day of October 2001
 BETWEEN
-THE HONOURABLE GEOFFREY IAN GALLOP BEc, MA, MPhi1, DPhi1, MLA, Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part
+THE HONOURABLE GEOFFREY IAN GALLOP BEc, MA, MPhi1, DPhi1, MLA, Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called the State) of the one part
 AND
 CAPRICORN DIAMONDS LIMITED ACN 009 102 621, ASHTON ARGYLE HOLDINGS PTY LIMITED ACN 083 175 991 and AML NOMINEES LIMITED ACN 006 378 329 each of 2 Kings Park Road, West Perth, Western Australia (hereinafter called “the Joint Venturers”) of the other part
 WHEREAS:
