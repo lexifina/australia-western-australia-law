@@ -1,7 +1,7 @@
 ### 45BAA. Registration of foreign pleasure vessels
 (1) In this regulation —
-“foreign pleasure vessel” means a registrable vessel which is owned by a person who is not a permanent resident of the State and which is temporarily within navigable waters but does not include a registered interstate pleasure vessel;
-“proposed departure date” in relation to a foreign pleasure vessel means the date notified to the department pursuant to subregulation (4)(g) in respect of that vessel.
+foreign pleasure vessel means a registrable vessel which is owned by a person who is not a permanent resident of the State and which is temporarily within navigable waters but does not include a registered interstate pleasure vessel;
+proposed departure date in relation to a foreign pleasure vessel means the date notified to the department pursuant to subregulation (4)(g) in respect of that vessel.
 (2) Subject to subregulation (3), a person shall not use or have in any navigable waters a foreign pleasure vessel unless the vessel is registered with the department in accordance with this regulation.
 (2a) A person who contravenes subregulation (2) commits an offence.
 (3) A person may, within the period of 30 days immediately succeeding the day of entry of the foreign pleasure vessel into any navigable waters, use or have in navigable waters a foreign pleasure vessel that is not registered with the department in accordance with this regulation.
