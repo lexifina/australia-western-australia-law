@@ -116,6 +116,7 @@ Navigable Waters Amendment Regulations (No. 2) 2006 | 1 Sep 2006 p. 3596-9 | 2 S
 Navigable Waters Amendment Regulations 2007 | 12 Jun 2007 p. 2726-7 | 1 Jul 2007 (see r. 2)
 Navigable Waters Amendment Regulations (No. 2) 2007 | 30 Nov 2007 p. 5938 | r. 1 and 2: 30 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2007 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 4) 2008 | 24 Jun 2008 p. 2894-5 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Navigable Waters Amendment Regulations (No. 3) 2008 | 1 Jul 2008 p. 3154 | r. 1 and 2: 1 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2008 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
@@ -136,9 +137,9 @@ The amendments in these regulations are to the Navigable Waters Regulations 1958
 (1) Regulation 52BAB(1) and (1a) are repealed and the following subregulations are inserted instead —
 “
 (1A) In this regulation —
-“AS/NZS”, followed by a designation means the Australian/New Zealand Standard having that designation that is jointly published by Standards Australia and the Standards Council of New Zealand;
-“MS 241” means the Ministerial Standard for Emergency Position Indicating Radio Beacons, made by the Federal Minister under the Radiocommunications Act 1983 of the Commonwealth section 9;
-“prescribed standard” means —
+AS/NZS, followed by a designation means the Australian/New Zealand Standard having that designation that is jointly published by Standards Australia and the Standards Council of New Zealand;
+MS 241 means the Ministerial Standard for Emergency Position Indicating Radio Beacons, made by the Federal Minister under the Radiocommunications Act 1983 of the Commonwealth section 9;
+prescribed standard means —
 (a)AS/NZS 4280.1:2003; or
 (b)until 1 February 2009 — MS 241 or AS/NZS 4330:1995.
 (1) The owner of a vessel that proceeds more than 2 nautical miles from the mainland, or more than 400 m from an island situated more than 2 nautical miles from the mainland, must ensure that the vessel is equipped with an Emergency Position Indicating Radio Beacon that —
