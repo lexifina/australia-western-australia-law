@@ -4,6 +4,7 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Community Protection (Offender Reporting) Act 2004 | 72 of 2004 | 8 Dec 2004 | Pt. 1, 4 and 6: 25 Dec 2004 (see s. 2 and Gazette 24 Dec 2004 p. 6266); Pt. 2 (except s. 12) and Pt. 3 and 5 and Sch. 1 & 2: 1 Feb 2005 (see s. 2 and Gazette 24 Dec 2004 p. 6266); s. 6(2)(b): 1 Jul 2005 (see s. 2 and Gazette 24 Dec 2004 p. 6266)
 Criminal Law and Evidence Amendment Act 2008 s. 58 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+Community Protection (Offender Reporting) Amendment Act 2008 | 27 of 2008 | 1 Jul 2008 | s. 1 and 2: 1 Jul 2008 (see s. 2(a)); Act other than s. 1 and 2: 2 Jul 2008 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
