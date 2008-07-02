@@ -6,6 +6,7 @@ Working with Children (Criminal Record Checking) Act 2004 | 65 of 2004 | 8 Dec 2
 Criminal Code Amendment (Cyber Predators) Act 2006 s. 7 | 3 of 2006 | 30 Mar 2006 | 30 Mar 2006 (see s. 2(1))
 Child Care Services Act 2007 Pt. 7 Div. 4 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 Criminal Law and Evidence Amendment Act 2008 s. 74 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+Community Protection (Offender Reporting) Amendment Act 2008 s. 13 | 27 of 2008 | 1 Jul 2008 | 2 Jul 2008 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement

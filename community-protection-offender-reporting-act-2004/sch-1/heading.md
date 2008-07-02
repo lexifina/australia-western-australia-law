@@ -3,6 +3,7 @@
 Enactment | Description of offence
 The Criminal Code
 s. 187 | Facilitating sexual offences against children outside Western Australia
+s. 278 (as read with s. 282) | Wilful murder (if the person against whom the offence is committed is a child)
 s. 279 (as read with s. 282) | Murder (if the person against whom the offence is committed is a child)
 s. 281A (as read with s. 287A) | Infanticide
 s. 320 (except s. 320(6)) | Sexual offences against child under 13
@@ -18,4 +19,4 @@ s. 330 | Sexual offences against incapable person
 Crimes Act 1914 of the Commonwealth
 s. 50BA | Sexual intercourse with child under 16
 s. 50BB | Inducing child under 16 to engage in sexual intercourse
-[Schedule 1 amended by No. 2 of 2008 s. 58.]
+[Schedule 1 amended by No. 2 of 2008 s. 58; No. 27 of 2008 s. 11.]
