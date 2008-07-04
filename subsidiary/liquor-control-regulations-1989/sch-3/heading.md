@@ -23,12 +23,12 @@
 19.On the issue of a list of licensed premises on computer disk ... | 95.00
 20.Address labels for licensed premises ....................................... | 115.00
 21.Application for Proof of Age Card (r. 18B) ............................. | 20.00
-22.Supply of approved heading for advertising an application..………………………………………………….. | 25.00
+22.Supply of approved heading for advertising an application................................................................................ | 25.00
 23.Copy of plan — per sheet ........................................................ | 20.00
 24.Certified copy of plan defining licensed premises ................... | 30.00
 25.Issue of a summons to a witness .............................................. | 15.00
 26.Copy of a licence or a permit, or a decision of the Commission (or the former Liquor Licensing Court) or the Director .................................................................................... | 25.00
-27.For the certification of a copy of a licence or permit or a decision of the Commission (or the former Liquor Licensing Court) or the Director — an additional fee of .……………… | 20.00
+27.For the certification of a copy of a licence or permit or a decision of the Commission (or the former Liquor Licensing Court) or the Director — an additional fee of ......................... | 20.00
 28.For a search of records of licences — per licence ................... | 30.00
 29.For a notice of application for approval of arrangement or agreement (s. 68(1)(b)(i)) ......................................................... | 65.00
 30.For a copy of documentation, other than that already prescribed, per page ................................................................. | 4.50
@@ -37,5 +37,5 @@
 (b)more than 10 postcodes ................................................ | 70.00
 32.For a full search of the licence record ...................................... | 45.00
 33.Application under section 62(6) to vary any plans or specifications the subject of a condition .................................. | 230.00
-34.Application under section 126A for approval of entertainment for juveniles on licensed premises .................... | 55.00
+34.Application under section 126A for approval of entertainment for juveniles on licensed premises ........................................... | 55.00
 [Schedule 3 inserted in Gazette 9 Oct 2007 p. 5353-4.]
