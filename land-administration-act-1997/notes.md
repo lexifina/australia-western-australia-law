@@ -1,47 +1,47 @@
 Notes
-This is a compilation of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 July 2008 of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
- | Short title | Number and year | Assent | Commencement
- | Land Administration Act 1997 | 30 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
- | Dampier to Bunbury Pipeline Act 1997 s. 52 (Sch. 4 Div. 6) | 53 of 1997 (as amended by this Act Sch. 4 Div. 1) | 12 Dec 1997 | 30 Mar 1998 (see Sch. 4 Div. 6 cl. 30 and Gazette 27 Mar 1998 p. 1765)
- | Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 Pt. 2 (except s. 4 & 7) | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | 11 Jan 1999 (see s. 2(1))
- | Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 90 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
- | Gas Corporation (Business Disposal) Act 1999 s. 104 | 58 of 1999 | 24 Dec 1999 | 16 Dec 2000 (see s. 2(5) and Gazette 15 Dec 2000 p. 7201)
- | Rail Freight System Act 2000 Pt. 5 Div. 4 | 13 of 2000 | 8 Jun 2000 | 30 Jun 2000 (see s. 2(1) and Gazette 30 Jun 2000 p. 3397)
- | Statutes (Repeals and Minor Amendments) Act 2000 s. 14(13) and 20 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
- | Acts Amendment (Australian Datum) Act 2000 s. 4 | 54 of 2000 | 28 Nov 2000 | 16 Dec 2000 (see s. 2 and Gazette 15 Dec 2000 p. 7201)
- | Land Administration Amendment Act 2000 | 59 of 2000 | 7 Dec 2000 | s. 38(1): 30 Mar 1988 (see s. 2(4) and Gazette 27 Mar 1988 p. 1765); s. 52: 8 Dec 2000 (see s. 2(5)); Act other than s. 8, 10(2), 12, 14(1) and (2), 19(2) and (3), 22, 24-37, 38(1), 51 and 52: 7 Dec 2000 (see s. 2(1));
- |  |  |  | s. 8, 10(2), 12, 14(1) and (2), 19(2) and (3), 22, 24-37 and 51: 10 Apr 2001 (see s. 2(2) and Gazette 10 Apr 2001 p. 2073)
- | Reprint of the Land Administration Act 1997 as at 22 Jun 2001 (includes amendments listed above)
- | Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
- | Public Transport Authority Act 2003 s. 150 and 167 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
- | Acts Amendment (Carbon Rights and Tree Plantation Agreements) Act 2003 Pt. 2 | 56 of 2003 | 29 Oct 2003 | 24 Mar 2004 (see s. 2 and Gazette 23 Mar 2004 p. 975)
+Short title | Number and year | Assent | Commencement
+Land Administration Act 1997 | 30 of 1997 | 3 Oct 1997 | s. 1 and 2: 3 Oct 1997; Act other than s. 1 and 2: 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
+Dampier to Bunbury Pipeline Act 1997 s. 52 (Sch. 4 Div. 6) | 53 of 1997 | 12 Dec 1997 | 30 Mar 1998 (see Sch. 4 Div. 6 cl. 30 and Gazette 27 Mar 1998 p. 1765)
+Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 Pt. 2 (except s. 4 and 7) | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | 11 Jan 1999 (see s. 2(1))
+Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 90 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
+Gas Corporation (Business Disposal) Act 1999 s. 104 | 58 of 1999 | 24 Dec 1999 | 16 Dec 2000 (see s. 2(5) and Gazette 15 Dec 2000 p. 7201)
+Rail Freight System Act 2000 Pt. 5 Div. 4 | 13 of 2000 | 8 Jun 2000 | 30 Jun 2000 (see s. 2(1) and Gazette 30 Jun 2000 p. 3397)
+Statutes (Repeals and Minor Amendments) Act 2000 s. 14(13) and 20 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
+Acts Amendment (Australian Datum) Act 2000 s. 4 | 54 of 2000 | 28 Nov 2000 | 16 Dec 2000 (see s. 2 and Gazette 15 Dec 2000 p. 7201)
+Land Administration Amendment Act 2000 | 59 of 2000 | 7 Dec 2000 | s. 38(1): 30 Mar 1988 (see s. 2(4) and Gazette 27 Mar 1988 p. 1765); s. 52: 8 Dec 2000 (see s. 2(5)); Act other than s. 8, 10(2), 12, 14(1) and (2), 19(2) and (3), 22, 24-37, 38(1), 51 and 52: 7 Dec 2000 (see s. 2(1)); s. 8, 10(2), 12, 14(1) and (2), 19(2) and (3), 22, 24-37 and 51: 10 Apr 2001 (see s. 2(2) and Gazette 10 Apr 2001 p. 2073)
+Reprint of the Land Administration Act 1997 as at 22 Jun 2001 (includes amendments listed above)
+Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
+Public Transport Authority Act 2003 s. 150 and 167 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
+Acts Amendment (Carbon Rights and Tree Plantation Agreements) Act 2003 Pt. 2 | 56 of 2003 | 29 Oct 2003 | 24 Mar 2004 (see s. 2 and Gazette 23 Mar 2004 p. 975)
 Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | 1 Dec 2006 (see s. 2 and Gazette 8 Aug 2006 p. 2899)
- | Statutes (Repeals and Minor Amendments) Act 2003 s. 72 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
- | Acts Amendment (Reserves and Reserve Boards) Act 2003 Pt. 2 | 76 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
- | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
- | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 67 Subdiv. 1 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
- | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
- | Reprint 2: The Land Administration Act 1997 as at 24 Jun 2005 (includes amendments listed above)
- | Financial Administration Legislation Amendment Act 2005 s. 42 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
- | Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2005 p. 1153)
- | Water Legislation Amendment (Competition Policy) Act 2005 Pt. 4 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
- | Planning and Development (Consequential and Transitional Provisions) Act 2005 Pt. 2 Div. 2 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
- | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 13 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
- | Reprint 3: The Land Administration Act 1997 as at 15 Sep 2006 (includes amendments listed above)
- | Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
- | Land Information Authority Act 2006 s. 139 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
- | Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
- | Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 11 | 24 of 2007 | 12 Oct 2007 | 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645)
- | Petroleum Amendment Act 2007 s. 98 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
- | Water Resources Legislation Amendment Act 2007 s. 196 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Statutes (Repeals and Minor Amendments) Act 2003 s. 72 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+Acts Amendment (Reserves and Reserve Boards) Act 2003 Pt. 2 | 76 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 67 Subdiv. 1 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Reprint 2: The Land Administration Act 1997 as at 24 Jun 2005 (includes amendments listed above except those in the Contaminated Sites Act 2003)
+Financial Administration Legislation Amendment Act 2005 s. 42 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
+Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2005 p. 1153)
+Water Legislation Amendment (Competition Policy) Act 2005 Pt. 4 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 Pt. 2 Div. 2 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 13 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Reprint 3: The Land Administration Act 1997 as at 15 Sep 2006 (includes amendments listed above except those in the Contaminated Sites Act 2003)
+Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
+Land Information Authority Act 2006 s. 139 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 11 | 24 of 2007 | 12 Oct 2007 | 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645)
+Petroleum Amendment Act 2007 s. 98 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
+Water Resources Legislation Amendment Act 2007 s. 196 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
+Reprint 4: The Land Administration Act 1997 as at 4 Jul 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(2))
-On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
+On the date as at which this reprint was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 “
 4.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
@@ -49,7 +49,7 @@ After section 6 the following section is inserted in Part 1 —
 6A.Renewal etc. of certain tenures subject to Native Title (State Provisions) Act 1998
 (1) Where the exercise of a power under this Act to renew, re-grant or extend a non-exclusive tenure of land is a Part 5 act within the meaning of the Native Title (State Provisions) Act 1998, the exercise of the power is subject to section 5.3 of that Act.
 (2) In subsection (1) —
-“non-exclusive tenure of land” means an interest under —
+non-exclusive tenure of land means an interest under —
 (a)a lease;
 (b)a licence; or
 (c)other authority,
@@ -62,8 +62,8 @@ After section 152 the following section is inserted —
 Where the taking of land or an interest in land under this Part is a Part 3 act, a Part 4 act or a Part 5 act within the meaning of the Native Title (State Provisions) Act 1998, the operation of this Part is subject to section 3.6, 4.5 or 5.3, as the case may be, of that Act.
 ”.
 ”.
-The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this compilation was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this compilation had also not come into operation (see endnotes 1a and 4).
-On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this reprint was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this reprint had also not come into operation (see endnotes 1a and 4).
+On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3.Consequential amendments
 Schedule 2 has effect.
@@ -79,7 +79,7 @@ After section 6 the following section is inserted in Part 1 —
 6A.Renewal etc. of certain tenures subject to Native Title (State Provisions) Act 1999
 (1) Where the exercise of a power under this Act to renew, re-grant or extend a non-exclusive tenure of land is a Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the exercise of the power is subject to section 4.3 of that Act.
 (2) In subsection (1) —
-“non-exclusive tenure of land” means an interest under —
+non-exclusive tenure of land means an interest under —
 (a)a lease;
 (b)a licence; or
 (c)other authority,
@@ -89,14 +89,14 @@ that permits the use of the land but does not confer a right of exclusive posses
 Section 151(1) is amended as follows:
 (a) by inserting in the appropriate alphabetical positions the following definitions —
 “
-“approved determination of native title” means an approved determination of native title under the NTA where —
+approved determination of native title means an approved determination of native title under the NTA where —
 (a)the effect of the determination is that the person concerned —
 (i)holds native title; or
 (ii)immediately before the taking, held native title,
 in relation to the land affected by the taking;
 (b)it is apparent from the terms of, or reasons for, the determination that the person concerned held native title in relation to the land affected by the taking immediately before the taking; or
 (c)it is not apparent from the terms of, or reasons for, the determination that native title did not exist in relation to the land affected by the taking immediately before the taking;
-“registered native title body corporate” and “registered native title claimant” have the same meaning as they have in the NTA;
+registered native title body corporate and registered native title claimant have the same meaning as they have in the NTA;
 ”;
 (b) in the definition of “proprietor” in paragraph (b) by inserting after “registered” —
 “
@@ -301,6 +301,7 @@ The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 13(3)
 ”.
 The Discharged Soldiers’ Settlement Act 1918 was repealed by the Miscellaneous Repeals Act 1986.
 The Permanent Reserves Act 1899 was repealed by the Native Flora Protection Act 1935, which was repealed by the Wildlife Conservation Act Amendment Act 1976.
+The Acts Amendment (Court of Appeal) Act 2004 Sch. 1 cl. 22 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 75(4).
 The Rail Freight System Act 2000 s. 100 and 101 read as follows:
 “
 100.Sections 187-191 not to apply
@@ -325,7 +326,7 @@ then —
 (d) the annual rent payable for the lease or extension of a lease, as the case may be, is to be and is taken always to have been determined under section 123 of the Land Administration Act 1997;
 (e) the offer is to be regarded as being accepted in relation to the land contained in the existing pastoral lease at the time the offer is accepted (other than any land excluded under subsections (3) to (6)); and
 (f) unless otherwise provided in this subsection, the text and terms and conditions of the lease or extension of the lease are the terms and conditions specified in the notice given to the lessee.
-(3) The Minister may for a public purpose exclude land from a lease or extension of lease referred to in subsection (1) by giving a notice in writing under subsection (4) to the lessee, or the successor in title to the lessee, (the “lessee”) not later than 2 years after the day on which this section comes into operation.
+(3) The Minister may for a public purpose exclude land from a lease or extension of lease referred to in subsection (1) by giving a notice in writing under subsection (4) to the lessee, or the successor in title to the lessee, (the lessee) not later than 2 years after the day on which this section comes into operation.
 (4) The notice under subsection (3) is to contain the following information —
 (a) a description of the area of land to be excluded from the lease;
 (b) the reason for the land being excluded from the lease;
@@ -336,12 +337,12 @@ then —
 (a) accept the conditions contained in the notice;
 (b) withdraw from the agreement to lease or to extend the lease; or
 (c) enter into negotiations with the Minister on the area to be excluded from the lease or the rent to be paid as a result of the exclusion of the land from the lease.
-(6) If agreement is not reached on the matters referred to in subsection (5)(c) by the day that is 2 years, or such other longer period as may, for the purposes of this section, be prescribed under the Land Administration Act 1997, after the day on which the notice was given to the lessee (the “final day”), the lessee is deemed to have withdrawn from the agreement to lease or to extend the lease on the final day.
+(6) If agreement is not reached on the matters referred to in subsection (5)(c) by the day that is 2 years, or such other longer period as may, for the purposes of this section, be prescribed under the Land Administration Act 1997, after the day on which the notice was given to the lessee (the final day), the lessee is deemed to have withdrawn from the agreement to lease or to extend the lease on the final day.
 (7) If land is not to be excluded from a lease or extension of a lease referred to in subsection (1) for a public purpose under this section, the Minister may give notice in writing to that effect to the lessee not later than 2 years after the day on which this section comes into operation.
 (8) If a notice is not given by the day specified in subsection (3) no land may be excluded from the lease under that subsection.
 (9) In this section —
-“existing pastoral lease” means a pastoral lease subsisting under the Land Act 1933 immediately before the appointed day as defined in section 3(1) of the Land Administration Act 1997;
-“public purpose” has the same definition as it has in section 143(10) of the Land Administration Act 1997.
+existing pastoral lease means a pastoral lease subsisting under the Land Act 1933 immediately before the appointed day as defined in section 3(1) of the Land Administration Act 1997;
+public purpose has the same definition as it has in section 143(10) of the Land Administration Act 1997.
 49.Pastoral leases: extension of period for acceptance of offer
 If —
 (a) a notice has been given, or purported to be given, under section 98(11) of the Land Act 1933; and
@@ -363,22 +364,18 @@ The Land Administration Amendment Act 2000 s. 52 reads as follows:
 (2) The Reserve is taken to have been reserved under section 41 of the Land Administration Act 1997 for the purpose specified in subsection (1).
 (3) The Minister is to make an order that is to be taken to be an order made by the Minister under the Land Administration Act 1997 that the purpose of Reserve No. 1667 is changed in the manner referred to in subsection (1).
 ”.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 26 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 33 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 33 reads as follows:
 “
 33.Land Administration Act 1997
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 67 comes into operation.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 67 comes into operation.
 (2) If a matter has been partly or fully heard, but not determined, by a Compensation Court under the Land Administration Act 1997 immediately before the commencement day —
 (a) the Act section 167(4)(b) does not apply; and
 (b) the matter is to continue to be dealt with as if the written law applicable to the matter in force immediately before the commencement day continued to apply.
 ”.
-Footnote no longer applicable.
-The Acts Amendment (Court of Appeal) Act 2004 Sch. 1 cl. 22 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 75(4).
-Footnote no longer applicable.
-The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 26 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 had not come into operation. It reads as follows:
 “
 90.Land Administration Act 1997 amended
 (1) The amendments in this section are to the Land Administration Act 1997.
@@ -393,3 +390,166 @@ declared pests on the land under the lease in compliance with the Biosecurity an
 (a) the Biosecurity and Agriculture Management Act 2007;
 ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+acquiring authority151(1)
+address274(2)
+adjoining3(1)
+agreement land15(2)
+alienated land3(1)
+alleged unauthorised structure270(1)
+amenity15(8)
+ancillary purpose106(3)
+appointed day3(1)
+appointed members97(1a)
+approved body corporate83(3)
+approved form3(1)
+assessor member231
+authorised land officer3(1)
+authorised stock93
+Board93
+carbon covenant3(1)
+carbon right3(1)
+caveat3(1)
+certificate of Crown land title3(1)
+certificate of title3(1)
+claimant151(1)
+class A nature reserve45(1)
+class A reserve3(1)
+commencement day111(8)
+Commissioner93
+Commissioner of Main Roads3(1)
+company93
+condition3(1)
+conditional purchase lease80(1)
+conditional tenure land72
+conservation park45(1)
+continuing lease114(1)
+covenant3(1)
+Crown land3(1)
+Crown lease3(1)
+date of taking151(1)
+dealing3(1)
+deemed application143(6)(c)
+Department3(1), 202(4)
+designate151(1)
+designated151(1)
+designation151(1)
+employee72
+existing pastoral lease143(1)
+external Territory3(1)
+final day143(6g)
+geothermal energy5(2)
+geothermal energy resources5(2)
+high water mark3(1)
+holding authority151(1)
+in accordance with the NTA153(3), 154(3)
+instrument3(1)
+interest3(1), 151(1), Sch. 2 cl. 1(2)
+inundated land3(1)
+land3(1)
+land administration expertise3(1)
+land district3(1)
+land reservedSch. 3 cl. 1
+lease3(1)
+licence3(1)
+location3(1)
+lot3(1)
+mall reserve3(1)
+managed reserve3(1)
+management body3(1)
+management lease50(6)
+management lessee50(6)
+management order3(1), 50(7)
+metropolitan region274(6)
+mining, petroleum or geothermal energy right3(1)
+Minister3(1)
+mortgage debt251(2)
+national park45(1)
+native title151(1)
+native title holder151(1)
+native title rights and interests151(1)
+nature reserve45(1)
+notice270(1)
+notice of intention151(1)
+NTA151(1)
+occupier151(1)
+order3(1)
+pastoral lease3(1), 101(1)
+pastoral lessee3(1)
+pastoral purposes93
+Planning Commission3(1)
+plant267(1)
+positive covenant3(1)
+pre-1933 legislation283, Sch. 3 cl. 1
+principal proprietor151(1)
+Principal Registrar of the Supreme Court151(1)
+private road3(1)
+profit à prendre3(1)
+prohibited stock93
+proprietor151(1)
+public access route3(1)
+public authority30(2)
+public purpose143(10)
+public service officer3(1)
+public utility services3(1)
+public work151(1)
+qualified190(2)
+qualified certificate of Crown land title3(1)
+railway151(1)
+recorded3(1)
+Register3(1)
+registered3(1), 15(2)
+registrable15(2)
+Registrar3(1)
+Registrar of Deeds151(1)
+Registrar of Titles3(1)
+relevant local government63
+remaining sitting days43(4)
+remuneration3(1)
+repealed Act3(1)
+reservation3(1)
+reserve3(1)
+respondent35(1)
+responsible personSch. 2 cl. 45(1)
+road3(1)
+scheme3(1)
+small portion176(1)(b)
+soil conservation notice93
+special Act151(1)
+specified purpose144(4)
+State instrumentality3(1)
+status order3(1), Sch. 2 cl. 1(2)
+stock3(1), 108(6), 111(7), 113(4)
+structure267(1)
+subject Crown land63
+subsidiary certificate of Crown land title3(1)
+survey mark268(3)
+take151(1)
+taken151(1)
+taking151(1)
+taking order151(1)
+the Account8(1)
+the additional interests29(2)
+the adjoining land87(1)
+the Crown264(4)
+the first Act200(2)
+the landholder87(3)
+the original portion176(1)(a)
+the Program8(1)
+the repealed legislationSch. 2 cl. 30(2)
+the return date113(1)
+the second Act200(2)
+the specified use75(1)
+the subject land16(7), 52(1)
+the taker87(3)
+the trustee261(3)
+TLA3(1)
+townsite3(1), 26(1)
+transitional period3(1)
+unallocated Crown land3(1)
+unauthorised structure270(1)
+unmanaged reserve3(1)
+war service landSch. 2 cl. 30(2)
+work151(1)
