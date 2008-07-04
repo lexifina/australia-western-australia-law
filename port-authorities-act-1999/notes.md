@@ -1,23 +1,24 @@
 Notes
-This is a compilation of the Port Authorities Act 1999 and includes the amendments made by the other written laws referred to in the following table , 4. The table also contains information about any reprint.
+This reprint is a compilation as at 4 July 2008 of the Port Authorities Act 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Port Authorities Act 1999 | 22 of 1999 | 29 Jun 1999 | Act other than Sch. 1 it. 2: 14 Aug 1999 (see s. 2 and Gazette 13 Aug 1999 p. 3823); Sch. 1 it. 2: 1 Jan 2000 (see s. 2 and Gazette 24 Dec 1999 p. 6871)
+Port Authorities Act 1999 | 22 of 1999 | 29 Jun 1999 | s. 1 and 2: 29 Jun 1999; Act other than s. 1 and 2 and Sch. 1 it. 2: 14 Aug 1999 (see s. 2 and Gazette 13 Aug 1999 p. 3823); Sch. 1 it. 2: 1 Jan 2000 (see s. 2 and Gazette 24 Dec 1999 p. 6871)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 58 | 43 of 2000 | 2 Nov 2000 | 17 Feb 2001 (see s. 2(1) and Gazette 16 Feb 2001 p. 903)
-Corporations (Consequential Amendments) Act 2001 Pt. 45 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
-Labour Relations Reform Act 2002 s. 23 | 20 of 2002 | 8 Jul 2002 | 15 Sep 2002 (see s. 2 and Gazette 6 Sep 2002 p. 4487)
-Port Authorities (Act Amendment) Regulations 2003 (see Gazette 4 Mar 2003 p. 711-22) | 4 Mar 2003
-Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 11 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth Gazette 24 Oct 2001 No. GN42)
-Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 12 (see Gazette 15 Aug 2003 p. 3685-92) | 15 Sep 2003 (see r. 2)
+Corporations (Consequential Amendments) Act 2001 Pt. 45 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth. Gazette 13 Jul 2001 No. S285)
+Labour Relations Reform Act 2002 s. 23 | 20 of 2002 | 8 Jul 2002 | 15 Sep 2002 (see s. 2(1) and Gazette 6 Sep 2002 p. 4487)
+Port Authorities (Act Amendment) Regulations 2003 published in Gazette 4 Mar 2003 p. 711-22 | 4 Mar 2003
+Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 11 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth. Gazette 24 Oct 2001 No. GN42)
+Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 12 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
 Ports and Marine Legislation Amendment Act 2003 Pt. 2 | 71 of 2003 | 15 Dec 2003 | s. 5 and 6: 14 Aug 1999 (see s. 2(2)); s. 4, 8 and 9: 15 Dec 2003 (see s. 2(1)); s. 7: 14 Feb 2004 (see s. 2(3) and Gazette 13 Feb 2004 p. 537)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 93 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
-Reprint 1: The Port Authorities Act 1999 as at 1 Oct 2004 (includes amendments listed above)
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | 1 Mar 2008 (see s. 2 and Gazette 29 Feb 2008 p. 669)
+Reprint 1: The Port Authorities Act 1999 as at 1 Oct 2004 (includes amendments listed above except those in the Dangerous Goods Safety Act 2004)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 11 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 11 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 2: The Port Authorities Act 1999 as at 4 Jul 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 84 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
@@ -30,8 +31,8 @@ The Port Authorities (Consequential Provisions) Act 1999 s. 3 and Pt. 3 have int
 “
 3.Interpretation
 (1) In this Act —
-“continuing port authority” means an existing port authority that continues in existence as a port authority established under the PA Act;
-“existing Act” means the —
+continuing port authority means an existing port authority that continues in existence as a port authority established under the PA Act;
+existing Act means the —
 (a)Albany Port Authority Act 1926;
 (b)Bunbury Port Authority Act 1909;
 (c)Dampier Port Authority Act 1985;
@@ -39,10 +40,10 @@ The Port Authorities (Consequential Provisions) Act 1999 s. 3 and Pt. 3 have int
 (e)Fremantle Port Authority Act 1902;
 (f)Geraldton Port Authority Act 1968; or
 (g)Port Hedland Port Authority Act 1970;
-“existing port authority” means a port authority constituted or established under an existing Act;
-“first financial year”, in relation to a port authority, means the first financial year of that port authority to start after the commencement of the item relating to that port authority;
-“item” has the meaning given by subsection (2);
-“PA Act” means the Port Authorities Act 1999.
+existing port authority means a port authority constituted or established under an existing Act;
+first financial year, in relation to a port authority, means the first financial year of that port authority to start after the commencement of the item relating to that port authority;
+item has the meaning given by subsection (2);
+PA Act means the Port Authorities Act 1999.
 (2) A reference in this Act to an item is a reference to an item in Schedule 1 to the PA Act.
 Part 3 — Transitional and saving provisions
 12.Application of Interpretation Act 1984
@@ -88,6 +89,7 @@ The first monetary limits under section 86 of the PA Act are to be determined in
 (1) Regulations made by a continuing port authority that were in force immediately before the commencement of the item relating to that port authority continue in force after that commencement as if they were regulations made by the Governor under section 139 of the PA Act in relation to the port of that port authority.
 (2) Subsection (1) does not continue the operation of any regulation that could not be made under section 139 of the PA Act.
 ”.
+Lands and Surveys plans are now held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
 “
 2.Commencement
@@ -95,9 +97,9 @@ The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as foll
 (2) If this Act receives the Royal Assent on or after the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act is deemed to have come into operation at the same time as that Schedule comes into operation.
 3.Interpretation
 In this Part —
-“Financial Services Reform Act” means the Financial Services Reform Act 2001 of the Commonwealth;
-“FSR commencement time” means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
-“statutory rule” means a regulation, rule or by-law.
+Financial Services Reform Act means the Financial Services Reform Act 2001 of the Commonwealth;
+FSR commencement time means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
+statutory rule means a regulation, rule or by-law.
 4.Validation
 (1) This section applies if this Act comes into operation under section 2(2).
 (2) Anything done or omitted to have been done after the FSR commencement time and before this Act receives the Royal Assent that could have been done if this Act had received the Royal Assent before the FSR commencement time is taken to be as valid and lawful, and to always have been as valid and lawful, as it would have been if this Act had received the Royal Assent before the FSR commencement time.
@@ -107,12 +109,97 @@ In this Part —
 (b) that could not have been validly and lawfully done or omitted if this Act had received the Royal Assent before the FSR commencement time,
 is taken not to be valid, and to never have been valid.
 ”.
-Footnote no longer applicable.
-Lands and Surveys plans are now held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
-On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 84 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the State Superannuation Amendment Act 2007 s. 84 had not come into operation. It reads as follows:
 “
 84.Port Authorities Act 1999 amended
 (1) The amendments in this section are to the Port Authorities Act 1999.
 (2) Section 19(1) is amended by deleting “section 30” and inserting instead —
 “ section 76 ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+account79(1)
+accounting standardSch. 5 cl. 1(2)
+approved95(1)
+area24(3)
+authorised officer114A(2)
+authorised person123
+board3(1)
+Building Code38(1)
+business arrangement35(9)
+CEO3(1)
+channel3(1)
+Commissioner for Public Sector Standards3(1)
+companySch. 5 cl. 1(2)
+Company appointeeSch. 6 cl. 1.2
+control3(1)
+Corporations Act3(1)
+Crown land3(1)
+damage3(1)
+Dampier Solar Salt Industry AgreementSch. 6 cl. 1.2
+dangerous thing3(1)
+debt paper85(4)
+director3(1)
+document75(5)
+eligible person102(1)
+executive officer3(1)
+financial recordSch. 5 cl. 1(2)
+financial yearSch. 5 cl. 1(1) and (2)
+first lesseeSch. 6 cl. 2.2
+first lessee appointeeSch 6 cl. 2.2
+goods3(1)
+harbour master3(1)
+information75(5)
+interest rate87(2)
+Iron Ore (Hamersley Range) AgreementSch. 6 cl. 1.2
+its port3(1)
+jetty3(1)
+Joint Venturers AppointeeSch. 6 cl. 1.2
+latest draft plan54(2)
+latest draft statement63(2)
+management3(1)
+marine safety plan114(1)
+maritime structure3(1)
+master3(1)
+members of staff3(1),
+members of staff3(1), 19(3), 21(4)
+Ministerial appointeeSch. 6 cl. 1.2 and 2.2
+mooring3(1)
+movement3(1)
+navigational aid3(1)
+North West Gas Development (Woodside) AgreementSch. 6 cl. 1.2
+notifiable interest12(3)
+officerSch. 3 cl. 2(1)
+owner3(1), 105(1)
+participate35(9)
+performance requirements38(1)
+port3(1)
+port activities3(1), 35(9)
+port authority3(1), 38(1), 123
+port charges3(1), 115(1)
+port facilities3(1)
+port land3(1)
+port services3(1), 35(9)
+port works3(1), 35(9)
+Public Bank Account79(1)
+public service officer11(2)
+regulationsSch. 5 cl. 1(1)
+responsible Minister38(1)
+second lesseeSch 6. cl. 2.2
+second lessee appointeeSch 6 cl. 2.2
+sell27(3)
+subsidiary3(1)
+the CompanySch 6 cl. 1.2
+the Joint VenturersSch. 6 cl. 1.2
+the new owner46(1)
+the port3(1), Sch. 6 cl. 2.8
+the prescribed daySch. 5 cl. 34
+the Salt CompanySch. 6 cl. 1.2
+the third party46(1)
+transaction42
+Treasurer3(1)
+under compulsory pilotage95(1)
+vessel3(1)
+vested3(1)
+By Authority: JOHN A. STRIJK, Government Printer
