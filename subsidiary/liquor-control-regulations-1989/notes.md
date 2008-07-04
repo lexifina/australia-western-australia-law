@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 July 2008 of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Liquor Licensing Regulations 1989 | 27 Jan 1989 p. 209-61 | 1 Feb 1989 (see r. 2 and Gazette 27 Jan 1989 p. 263)
@@ -55,17 +55,66 @@ Reprint 5: The Liquor Licensing Regulations 1989 as at 7 Oct 2005 (includes amen
 Liquor Licensing Amendment Regulations (No. 3) 2005 | 14 Oct 2005 p. 4564-6 | 1 Jan 2006 (see r. 2)
 Liquor Licensing Amendment Regulations 2006 | 14 Feb 2006 p. 695-6 | 14 Feb 2006
 Liquor Licensing Amendment Regulations (No. 2) 2006 | 14 Nov 2006 p. 4734-5 | 1 Jan 2007 (see r. 2)
-Liquor Licensing Amendment Regulations 2007 | 1 May 2007 p. 1861-89 | r. 1 and 2: 1 May 2007 (see r. 2(a)); r. 3-17 and 20-26: 7 May 2007 (see r. 2(d)) r. 18 and 19: 1 Aug 2007 (see r. 2(b) and (c) and Gazette 20 Jul 2007 p. 3629
+Liquor Licensing Amendment Regulations 2007 | 1 May 2007 p. 1861-89 | r. 1 and 2: 1 May 2007 (see r. 2(a)); r. 3-17 and 20-26: 7 May 2007 (see r. 2(d)); r. 18 and 19: 1 Aug 2007 (see r. 2(b) and (c) and Gazette 20 Jul 2007 p. 3629)
 Reprint 6: The Liquor Control Regulations 1989 as at 6 Jul 2007 (includes amendments listed above except those in the Liquor Licensing Amendment Regulations 2007 r. 18 and 19)
 Liquor Control Amendment Regulations (No. 2) 2007 | 28 Sep 2007 p. 4928-32 | r. 1 and 2: 28 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Sep 2007 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 5) 2007 | 2 Oct 2007 p. 4974 | r. 1 and 2: 2 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2007 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 3) 2007 | 9 Oct 2007 p. 5352-4 | r. 1 and 2: 9 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2008 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 2) 2008 | 22 Apr 2008 p. 1545 | r. 1 and 2: 22 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Apr 2008 (see r. 2(b))
 Liquor Licensing Amendment Regulations 2008 | 2 May 2008 p. 1703-4 | r. 1 and 2: 2 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 3 May 2008 (see r. 2(b))
-Commenced 7 May 2007.
+Reprint 7: The Liquor Control Regulations 1989 as at 4 Jul 2008 (includes amendments listed above)
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Commenced 7 May 2007.
 Now known as the Liquor Control Regulations 1989; citation changed (see note under r. 1).
 Disallowed on 26 Apr 1992, see Gazette 1 May 1992 p. 1844.
 The Liquor Licensing Amendment Regulations (No. 2) 2001 r. 2(3) and (4) are transitional provisions that are of no further effect.
 The amendments in the Liquor Licensing Amendment Regulations 2004 r. 3 and 5 are not included because of an error in the reference to the provisions to be amended.
-The Liquor Control Amendment Regulations (No. 2) 2007 r. 12 could not be done as the reference to the Liquor Licensing Act 1988 was changed to the Liquor Control Act 1988 under the Reprints Act 1984 s. 7(3)(gb) (see note above).
+The Liquor Control Amendment Regulations (No. 2) 2007 r. 12 could not have effect as the reference to the Liquor Licensing Act 1988 was changed to the Liquor Control Act 1988 under the Reprints Act 1984 s. 7(3)(gb) (see note above).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+accredited18F(1)
+aged person8(2)
+aggregate amount24(2)
+alcohol based food essence4A(2)
+alcohol based novelty food item4A(2)
+anticipated number of persons attending3A(1), 14AC(3)
+approved operator8(2)
+approved person18B(5)
+approved viticulture course9A(10e)
+bar11(1)
+caterer9A(13a)
+commencement day8(4)
+course18F(1)
+course of instruction or training9A(10e)
+crowd controller18EB(3)
+current26(1ab)
+disabled person8(2)
+host club9G
+hostel8(2)
+liquor4AA
+low alcohol liquor4
+notional wholesale selling price3A(1)
+photograph18B(3a), 18C(2)
+producer3A(1)
+purchase5(2)(b)
+relevant body corporate5B(2), (3) and (4)
+relevant lot11(1)
+relevant premises11(1)
+relevant purposes9E(1)
+retail sale4A(2)
+room service restaurant9A(17)
+sale5(2)(a)
+signature18C(2)
+skills training programme18F(1)
+special event9A(10e)
+tax period3A(1)
+tourist9A(9)
+vocational education and training institution3A(1), 9A(10e)
+WA territorial seas8(1a)
+WET3A(1)
+wholesaler3A(1)
+wine produced by a producer21A(3)
+workers9A(3)
+works canteen9A(3)
+By Authority: JOHN A. STRIJK, Government Printer
