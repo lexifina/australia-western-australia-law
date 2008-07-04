@@ -13,4 +13,3 @@ An Act to —
 ·amend the Waterways Conservation Act 1976; and
 ·make consequential amendments to other Acts,
 and for related purposes.
-The Parliament of Western Australia enacts as follows:
