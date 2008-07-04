@@ -1,12 +1,12 @@
 Notes
-This is a compilation of the Parliamentary Superannuation Act 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 July 2008 of the Parliamentary Superannuation Act 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Parliamentary Superannuation Act 1970 | 36 of 1970 | 27 May 1970 | Pt. IV: 1 Jan 1970 (see s. 2(2)); balance: 27 May 1970 (see s. 2(1))
+Parliamentary Superannuation Act 1970 | 36 of 1970 | 27 May 1970 | Pt. IV: 1 Jan 1970 (see s. 2(2)); Act other than Pt. IV: 27 May 1970 (see s. 2(1))
 Parliamentary Superannuation Act Amendment Act 1971 | 22 of 1971 | 1 Dec 1971 | 30 Dec 1970 (see s. 2)
 Parliamentary Superannuation Act Amendment Act 1975 | 94 of 1975 | 20 Nov 1975 | Act other than s. 4 and 5: 20 Nov 1975 (see s. 2(1)); s. 4 and 5: 1 Jan 1976 (see s. 2(2))
 Parliamentary Superannuation Act Amendment Act 1976 | 115 of 1976 | 1 Dec 1976 | 1 Jan 1977 (see s. 2)
-Parliamentary Superannuation Amendment Act 1980 | 54 of 1980 | 19 Nov 1980 | s. 6: 22 Feb 1980 (see s. 2(2)); balance: 19 Nov 1980 (see s. 2(1))
+Parliamentary Superannuation Amendment Act 1980 | 54 of 1980 | 19 Nov 1980 | s. 6: 22 Feb 1980 (see s. 2(2)); Act other than s. 6: 19 Nov 1980 (see s. 2(1))
 Reprint of the Parliamentary Superannuation Act 1970 approved 15 Jan 1981 (includes amendments listed above)
 Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
 Acts Amendment (Parliamentary Superannuation) Act 1986 Pt. I | 58 of 1986 | 26 Nov 1986 | 24 Dec 1986
@@ -20,8 +20,9 @@ Parliamentary Superannuation Legislation Amendment Act 2000 Pt. 2 | 37 of 2000 |
 Acts Amendment (Lesbian and Gay Law Reform) Act 2002 Pt. 17 | 3 of 2002 | 17 Apr 2002 | 21 Sep 2002 (see s. 2 and Gazette 20 Sep 2002 p. 4693)
 Reprint 3: The Parliamentary Superannuation Act 1970 as at 4 Apr 2003 (includes amendments listed above)
 Superannuation Legislation Amendment and Validation Act 2006 Pt. 2 | 18 of 2006 | 31 May 2006 | 31 May 2006 (see s. 2)
-Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 7 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 7 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 4: The Parliamentary Superannuation Act 1970 as at 4 Jul 2008 (includes amendments listed above)
 Repealed by the Salaries and Allowances Tribunal Act 1975 s. 13.
 The Parliamentary Superannuation Legislation Amendment Act 2000 s. 8(2) reads as follows:
 “
@@ -49,16 +50,16 @@ The Acts Amendment (Parliamentary Superannuation) and Transitional Arrangements 
 Part 4 — Transitional arrangements
 7.Interpretation
 In this Part —
-“actual contributory period”, in relation to a person, means the period for which the person has, within the meaning of section 13(2) of the principal Act, made contributions to the scheme;
-“contributions to the scheme” means contributions made to the scheme during any period mentioned in section 13(2) of the principal Act;
-“Electoral Reform Act” means the Acts Amendment (Electoral Reform) Act 1987;
-“member” means a member of the Legislative Council;
-“enhanced contributory period” in relation to a person, means the sum of —
+actual contributory period, in relation to a person, means the period for which the person has, within the meaning of section 13(2) of the principal Act, made contributions to the scheme;
+contributions to the scheme means contributions made to the scheme during any period mentioned in section 13(2) of the principal Act;
+Electoral Reform Act means the Acts Amendment (Electoral Reform) Act 1987;
+member means a member of the Legislative Council;
+enhanced contributory period in relation to a person, means the sum of —
 (a)the actual contributory period; and
 (b)the period from the end of the actual contributory period to the close of 21 May 1992;
-“scheme” has the meaning assigned to it by section 5 of the principal Act;
-“the principal Act” means the Parliamentary Superannuation Act 1970;
-“transitioned person” means a person who —
+scheme has the meaning assigned to it by section 5 of the principal Act;
+the principal Act means the Parliamentary Superannuation Act 1970;
+transitioned person means a person who —
 (a) by reason of the Electoral Reform Act, vacates his seat by effluxion of time at the close of 21 May 1989 and thereupon ceases, for the purposes of the principal Act, to be a member;
 (b) was elected to fill the seat referred to in paragraph (a) at an election conducted before the Electoral Reform Act received the Royal Assent; and
 (c) would not have vacated his seat by effluxion of time until the close of 21 May 1992 if the Electoral Reform Act had not been enacted.
@@ -89,9 +90,9 @@ The Acts Amendment (Parliamentary Superannuation) Act 1989 s. 16 reads as follow
 “
 16.Transitional provisions relating to the repeal of Part II
 (1) In this section —
-“Board” means the Parliamentary Superannuation Board established by section 6(1) of the principal Act;
-“commencement” means the commencement of this Act;
-“Trustees” means the Trustees of the Parliamentary Superannuation Fund established by section 10 of the principal Act as in force before the commencement.
+Board means the Parliamentary Superannuation Board established by section 6(1) of the principal Act;
+commencement means the commencement of this Act;
+Trustees means the Trustees of the Parliamentary Superannuation Fund established by section 10 of the principal Act as in force before the commencement.
 (2) On the commencement —
 (a) all rights, property and assets that were, immediately before the commencement, vested in, under the control of, or standing to the credit of the Trustees are, by force of this subsection, vested in the State and the value of the same shall be credited to the Consolidated Revenue Fund;
 (b) the State becomes, by force of this subsection, liable to pay, bear or discharge all the debts, liabilities and obligations of the Trustees that existed immediately before the commencement; and
@@ -108,3 +109,33 @@ The Acts Amendment (Parliamentary Superannuation) Act 1989 s. 16 reads as follow
 (8) References to the Trustees in an enactment as in force immediately before the commencement shall, unless because of the context it would be inappropriate so to do, be read and construed as references to the State.
 (9) The Treasurer is authorised to act on behalf of the State in the performance of any function that is necessary or expedient to be performed to give effect to the purposes of this section.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+actuary27(2)
+basic pension13(1)
+basic salary5(1)
+benefits28(1)
+Board5(1)
+closing day5(1)
+complying superannuation fund29(1)
+election5(1)
+eligible person10(1)
+flag lifting agreement28(6)
+Index5(1)
+individual superannuation guarantee shortfall29(1)
+member5(1)
+non-participant29(1)
+pay day5(1)
+salary5(1)
+scheme5(1)
+set period10(1)
+SG(A) Act29(1)
+specified13(1)
+splitting order28(6)
+spouse or de facto partner5(1)
+superannuation agreement28(6)
+termination benefits10(3)(a)
+the repealed Act5(1)
+the specified age16(2a), 19B(3)
+Tribunal5(1)
