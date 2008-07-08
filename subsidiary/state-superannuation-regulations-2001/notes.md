@@ -33,6 +33,7 @@ Reprint 3: The State Superannuation Regulations 2001 as at 3 Aug 2007 (includes 
 State Superannuation Amendment Regulations 2008 Pt. 2 | 18 Jan 2008 p. 149-56 | 19 Jan 2008 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 2) 2008 | 1 Apr 2008 p. 1283-6 | r. 1 and 2: 1 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2008 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 3) 2008 | 11 Apr 2008 p. 1376-80 | r. 1 and 2: 11 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Apr 2008 (see r. 2(b))
+State Superannuation Amendment Regulations (No. 6) 2008 | 8 Jul 2008 p. 3211-38 | 8 Jul 2008 (see r. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
