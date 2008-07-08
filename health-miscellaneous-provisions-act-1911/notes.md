@@ -130,6 +130,7 @@ Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Criminal Law Amendment (Homicide) Act 2008 s. 34 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
+Food Act 2008 s. 147 and Pt. 14 | 43 of 2008 | 8 Jul 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 Repealed by the Nurses and Midwives Act 2006.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
@@ -599,4 +600,74 @@ On the date as at which this compilation was prepared, the Criminal Law Amendmen
 “ section 23A ”.
 (3) Section 246ZW(1) is amended by deleting “section 23” and inserting instead —
 “ section 23A ”.
+”.
+On the date as at which this compilation was prepared, the Food Act 2008 s. 147 and Pt. 14 had not come into operation. They read as follows:
+“
+147.Health Act 1911 amended
+(1) The amendments in this section are to the Health Act 1911.
+(2) Section 3(1) is amended as follows:
+(a) by deleting the definition of “food” and inserting the following definition instead —
+“
+“food” has the meaning given to that term in the Food Act 2008 section 9;
+”;
+(b) in the definition of “premises”, by deleting “, except in Part VIII,”;
+(c) by deleting the definition of “the Food Advisory Committee”;
+(d) in the definition of “trade description” by deleting “food or”.
+(3) Section 3(1a) is repealed.
+(4) Section 134(49) and (52a) are deleted.
+(5) Part V Division 3 is repealed.
+(6) Section 199(14) is deleted.
+(7) The heading to Part VIIA is amended by deleting “Animal produce, drugs,” and inserting instead —
+“ Drugs, ”.
+(8) Part VIIA Divisions 2, 2A, 3, 3A and 4 are repealed.
+(9) Section 246D(2) is repealed.
+(10) Section 246E is repealed.
+(11) Section 246F is repealed.
+(12) Section 246FA is repealed.
+(13) Section 246FB is repealed.
+(14) Part VIII and Schedule 3 are repealed.
+(15) Section 344C is amended in the Table as follows:
+(a) by deleting “172(3),”;
+(b) by deleting “, 220(1)(l)”.
+(16) Section 360(4) is amended as follows:
+(a) in paragraph (a), by deleting “as read with section 172, 207(1) or (3) or 220(1)”;
+(b) in paragraph (b), by deleting “section 207D, 212B, 220(2), 246C, 246D(1) or (2) or 247.” and inserting instead —
+“ section 246C or 246D(1). ”.
+(17) Section 377(5) is deleted.
+(18) Schedule 5 Part I is amended as follows:
+(a) by deleting “217(1) and (2),”;
+(b) by deleting “246X(1),”.
+(19) Schedule 5 Part II is amended as follows:
+(a) by deleting “162(4),”;
+(b) by deleting “246ZK,”.
+(20) Schedule 5 Part III is amended by deleting “246O(2), 246P, 246Q(3) and (4), 246Z(5) and (6), 246ZH(2), 246ZM(1),”.
+(21) Schedule 5 Part IV is amended as follows:
+(a) by deleting “207B(3), 207C, 209(1) and (2), 210, 211(1), (2), (3), (4) and (5),”;
+(b) by deleting “246L, 246N(1), 246O(1), 246Q(2), 246T, 246X(2),”.
+(22) Schedule 5 Part V is amended as follows:
+(a) by deleting “171(2),”;
+(b) by deleting “246M(2), 246N(2), 246Q(1), 246R(1),”.
+(23) Schedule 5 Part VI is amended as follows:
+(a) by deleting “205(6), 212, 214(1), 216(2),”;
+(b) by deleting “246M(1), 246S, 246W(2), 246Y(10), 246ZD,”.
+(24) Schedule 5 Part VII is amended by deleting “, 246E”.
+Part 14 — Transitional provisions
+150.Definition
+In this Part —
+“commencement day” means the day on which this Part comes into operation.
+151.Interpretation Act 1984 not affected
+Nothing in this Part is to be construed so as to limit the operation of the Interpretation Act 1984.
+152.Orders under Health Act 1911 section 246W
+An order under the Health Act 1911 section 246W(1) that is in force immediately before the commencement day has effect on and after that day as if it were an emergency order made under section 32(b).
+153.Orders under Health Act 1911 section 246Y
+(1) An order under the Health Act 1911 section 246Y(1) that is in force immediately before the commencement day has effect on and after that day as if it were an improvement notice.
+(2) An order under the Health Act 1911 section 246Y(2) that is in force immediately before the commencement day has effect on and after that day as if it were a prohibition order.
+154.Transitional regulations
+(1) If this Act does not provide sufficiently for a matter or issue of a transitional nature that arises as a result of the amendment of an Act by this Act or the coming into operation of this Act, the Governor may make regulations prescribing all matters that are required, necessary or convenient to be prescribed for providing for that matter or issue.
+(2) If regulations made under subsection (1) provide that a specified state of affairs is taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations are published in the Gazette but not earlier than the commencement day, the regulations have effect according to their terms.
+(3) In subsection (2) —
+“specified” means specified or described in the regulations.
+(4) If regulations contain a provision referred to in subsection (2), the provision does not operate so as —
+(a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the day of publication; or
+(b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication.
 ”.
