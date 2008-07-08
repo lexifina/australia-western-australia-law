@@ -39,6 +39,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
  | Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
  | Legal Profession Act 2008 s. 675 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+ | Food Act 2008 s. 148 | 43 of 2008 | 8 Jul 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Acts 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
@@ -65,8 +66,25 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (a) by deleting the definition of “legal practitioner”;
 (b) by inserting in the appropriate alphabetical position —
 “
-“lawyer” means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
+lawyer means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”.
 (3) Sections 9B(4), 9M(2), 25(2d), 28(4a)(a) and 95(7a) are amended by deleting “legal practitioner” in each place where it occurs and inserting instead —
 “ lawyer ”.
+”.
+On the date as at which this compilation was prepared, the Food Act 2008 s. 148 had not come into operation. It reads as follows:
+“
+148.Liquor Control Act 1988 amended
+(1) The amendments in this section are to the Liquor Control Act 1988.
+(2) After section 39(2)(a)(i) the following subparagraph is inserted —
+“
+(ia) the Food Act 2008;
+”.
+(3) After section 69(8)(a) the following paragraph is inserted —
+“
+(aa) the Food Act 2008;
+”.
+(4) After section 95(4)(f)(i) the following subparagraph is inserted —
+“
+(ia) an offence under the Food Act 2008 in relation to the licensed premises;
+”.
 ”.
