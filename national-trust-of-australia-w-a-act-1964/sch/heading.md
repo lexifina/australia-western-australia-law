@@ -28,7 +28,7 @@
 (z)To construct, build, repair, maintain and alter any buildings.
 (aa)To invest the moneys of The Trust not immediately required in such manner as may from time to time be deemed expedient.
 (ab)To borrow or raise money and secure the repayment thereof on such terms and at such rate of interest and otherwise as the Council of The Trust from time to time shall think fit and in particular by mortgage or other similar charge on or security over any property real or personal of The Trust.
-(ac)to make gifts and to give and make over moneys and other property of The Trust with or without consideration where the making thereof is calculated to promote the objects and purposes of The Trust.
+(ac)To make gifts and to give and make over moneys and other property of The Trust with or without consideration where the making thereof is calculated to promote the objects and purposes of The Trust.
 (ad)To place any moneys of The Trust on deposit with any bank and to open and pay moneys of The Trust into and operate upon accounts current with any bank.
 (ae)To promote legislation likely to further and advance the objects and purposes of The Trust and to apply for and accept the grant of a Royal Charter for The Trust.
 (af)To do such other acts and things within the State of Western Australia as are incidental or conducive to the attainment of the above objects and purposes or any of them.
