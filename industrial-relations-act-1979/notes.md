@@ -76,7 +76,7 @@ Vocational Education and Training Act 1996 s. 62 | 42 of 1996 | 16 Oct 1996 | To
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
-Acts Amendment (Justice) Act 2008 Pt. 13 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Acts Amendment (Justice) Act 2008 Pt. 13 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 668 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
