@@ -12,7 +12,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) | 37 of 2005 (as amended by No. 60 of 2006 s. 147(4)) | 12 Dec 2005 | To be proclaimed (see s. 2)
-Acts Amendment (Justice) Act 2008 Pt. 18 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Acts Amendment (Justice) Act 2008 Pt. 18 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 690 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
 Repealed by the Mining Act 1978.
@@ -20,11 +20,11 @@ On the date as at which this compilation was prepared, the Planning and Developm
 “
 149.Conditions on rural land (tied lots)
 (1) In this section —
-“rural land” means land zoned for agricultural or rural use under a local planning scheme.
+rural land means land zoned for agricultural or rural use under a local planning scheme.
 (2) Without limiting section 143, the Commission may approve a plan of subdivision in respect of rural land subject to conditions imposed under that section that require —
 (a) a restrictive covenant to be created and made binding under section 129BA of the Transfer of Land Act 1893 so that no dwelling may be constructed on a specified lot to be created by the subdivision; and
-(b) the lot to which the restrictive covenant is to apply (the “tied lot”) to be —
-(i) owned by a person who is the owner of another specified lot (the “principal lot”); and
+(b) the lot to which the restrictive covenant is to apply (the tied lot) to be —
+(i) owned by a person who is the owner of another specified lot (the principal lot); and
 (ii) used for agricultural purposes together with the principal lot.
 (3) The applicant is to ensure that any diagram or plan of survey for a subdivision referred to in subsection (2) includes a notation that the approval of the Commission is subject to the conditions referred to in that subsection.
 (4) The Commission is to provide the Registrar of Titles with any further information requested by the Registrar of Titles, in the form, if any, specified in the request.
@@ -62,9 +62,9 @@ Part 13 — Enforcement and legal proceedings
 Division 3 — Infringement notices
 226.Interpretation
 In this Division —
-“alleged offender” means a person who or which is suspected of having committed an offence under this Act or under regulations made under this Act;
-“designated person” in section 228, 229, 230 or 231 means a person appointed under section 234 to be a designated person for the purposes of the section in which the term is used;
-“prescribed offence” means an offence prescribed under section 227(1).
+alleged offender means a person who or which is suspected of having committed an offence under this Act or under regulations made under this Act;
+designated person in section 228, 229, 230 or 231 means a person appointed under section 234 to be a designated person for the purposes of the section in which the term is used;
+prescribed offence means an offence prescribed under section 227(1).
 227.Prescribed offences
 (1) The regulations may prescribe an offence under this Act, or under any regulations made under this Act, to be an offence for which an infringement notice may be issued under this Division.
 (2) For each prescribed offence the regulations must prescribe —
@@ -109,12 +109,12 @@ The Planning and Development (Consequential and Transitional Provisions) Act 200
 “
 3.Interpretation
 In this Act —
-“commencement day” means the day on which this section comes into operation;
-“existing Commission” means the Commission established under the WAPC Act;
-“MRTPS Act” means the Metropolitan Region Town Planning Scheme Act 1959;
-“PD Act” means the Planning and Development Act 2005;
-“TPD Act” means the Town Planning and Development Act 1928;
-“WAPC Act” means the Western Australian Planning Commission Act 1985.
+commencement day means the day on which this section comes into operation;
+existing Commission means the Commission established under the WAPC Act;
+MRTPS Act means the Metropolitan Region Town Planning Scheme Act 1959;
+PD Act means the Planning and Development Act 2005;
+TPD Act means the Town Planning and Development Act 1928;
+WAPC Act means the Western Australian Planning Commission Act 1985.
 4.Acts in Schedule 1 repealed
 The Acts mentioned in Schedule 1 are repealed.
 ”.
@@ -135,16 +135,16 @@ Division 1 — Preliminary
 18.Transitional regulations
 (1) If there is no sufficient provision in this Act for dealing with a transitional matter, regulations under this Act may prescribe all matters that are required or necessary or convenient to be prescribed for dealing with the matter.
 (2) In subsection (1) —
-“transitional matter” means a matter that needs to be dealt with for the purpose of —
+transitional matter means a matter that needs to be dealt with for the purpose of —
 (a)effecting the transition from the provisions of the Acts repealed by this Act to the provisions of the PD Act; or
-(b)effecting the transition from the provisions of an Act amended by a provision of this Act (the “amending provision”) as in force before this Act comes into operation to the provisions of that Act as in force after the amending provision comes into operation.
+(b)effecting the transition from the provisions of an Act amended by a provision of this Act (the amending provision) as in force before this Act comes into operation to the provisions of that Act as in force after the amending provision comes into operation.
 (3) Regulations made under subsection (1) may provide that specified provisions of the PD Act as in force on or after the commencement of that Act, or of subsidiary legislation made under that Act, or of an Act amended by this Act —
 (a) do not apply; or
 (b) apply with specified modifications,
 to or in relation to any matter.
 (4) If regulations under subsection (1) provide that a specified state of affairs is to be taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations are published in the Gazette but not earlier than the commencement day, the regulations have effect according to their terms.
 (5) In subsections (3) and (4) —
-“specified” means specified or described in the regulations.
+specified means specified or described in the regulations.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State, an authority of the State or a local government), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State, an authority of the State or a local government) in respect of anything done or omitted to be done before the day of publication of those regulations.
@@ -174,7 +174,7 @@ the reference may, where the context so requires, be read as if it had been amen
 (4) The rights under a superannuation scheme of a person who was an officer of the existing Commission are not affected, prejudiced or interrupted by the repeal of the WAPC Act.
 23.Committees
 (1) In this section —
-“existing committee” means —
+existing committee means —
 (a)the Executive, Finance and Property Committee established under the WAPC Act;
 (b)the Statutory Planning Committee established under the WAPC Act;
 (c)the Infrastructure Coordinating Committee established under the WAPC Act;
@@ -189,7 +189,7 @@ the reference may, where the context so requires, be read as if it had been amen
 (7) The persons who were members of the Transport Committee immediately before the commencement of the PD Act continue in office, under and subject to that Act, as the members of the Sustainable Transport Committee established under the PD Act.
 24.Board of Valuers
 (1) In this section —
-“existing Board” means the Board of Valuers established under the MRTPS Act.
+existing Board means the Board of Valuers established under the MRTPS Act.
 (2) The Board of Valuers established under the PD Act is a continuation of and the same legal entity as the existing Board with the same rights and obligations as the existing Board.
 (3) If in a written law or other document or instrument there is a reference to the existing Board, the reference may, where the context so requires, be read as if it had been amended to be a reference to the Board of Valuers established under the PD Act.
 (4) The persons who were members of the existing Board immediately before the commencement of the PD Act continue in office, under and subject to that Act, as the members of the Board of Valuers established under the PD Act.
@@ -253,7 +253,7 @@ After section 201 the following section is inserted —
 “
 201A.Application of Division in non-Commonwealth places
 (1)In this section —
-“applied Planning and Development Act” means the Planning and Development Act 2005 in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
+applied Planning and Development Act means the Planning and Development Act 2005 in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
 (2)In this Division, unless the contrary intention appears —
 (a)a reference to this Act is to be read as a reference to this Act in its application as a law of Western Australia; and
 (b)a reference to any of the following Acts is to be read as a reference to the Act of that name in its application as a law of Western Australia —
@@ -276,9 +276,9 @@ This notice comes into operation on the day after the day on which it is registe
 Note:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
 4.Definitions
 In this notice —
-“applied WA law” means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
-“Commissioner of State Revenue” means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
-“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
+applied WA law means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
+Commissioner of State Revenue means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
+Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
 5.Modification of applied WA laws
 (1) For the purposes of the Commonwealth Mirror Taxes Act section 8, each applied WA law is taken to be modified to the extent necessary to give effect to subclause (2).
 (2) If —
@@ -299,8 +299,8 @@ Section 201 is repealed and the following section is inserted instead —
 “
 201.Application of Division in Commonwealth places
 (1) In this section —
-“corresponding Planning and Development Act” means the Planning and Development Act 2005 of Western Australia in its application as a law of Western Australia;
-“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
+corresponding Planning and Development Act means the Planning and Development Act 2005 of Western Australia in its application as a law of Western Australia;
+Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
 (2) In this Division, unless the contrary intention appears —
 (a) a reference to this Act is to be read as a reference to this Act in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
 (b) a reference to any of the following enactments is to be read as a reference to the enactment of that name of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act —
@@ -315,7 +315,7 @@ The Swan Valley Planning Legislation Amendment Act 2006 Sch. 1 it. 4 reads as fo
 “
 4.Metropolitan Region Scheme amended
 (1) In this item —
-“Metropolitan Region Scheme” has the same meaning as it has in the Planning and Development Act 2005.
+Metropolitan Region Scheme has the same meaning as it has in the Planning and Development Act 2005.
 (2) The amendments in this item are to the Metropolitan Region Scheme.
 (3) The amendments to the Metropolitan Region Scheme effected by this item have effect as though the provisions were enacted by the Planning and Development Act 2005.
 (4) Nothing in this item affects the operation of the Planning and Development Act 2005 with respect to the amendments to the Metropolitan Region Scheme as amended by this Act.
@@ -327,7 +327,7 @@ The Swan Valley Planning Legislation Amendment Act 2006 Sch. 1 it. 4 reads as fo
 “
 (2) In respect of applications for approval to develop land in the Swan Valley, where the advice of the Swan Valley Planning Committee is accepted by the City of Swan, the determination of the City of Swan under the local planning scheme is taken to be a determination under this Scheme.
 (3) In respect of applications for approval to develop land in the Swan Valley, where the advice of the Committee is not accepted by the City of Swan, the City of Swan is to refer the application, together with any recommendations provided by all bodies consulted, and the reasons why the advice of the Committee was not accepted by the City of Swan, to the Commission for determination.
-(4) In this clause “Committee”, “Swan Valley” and “Swan Valley Planning Committee” have the same meanings as they have in the Swan Valley Planning Act 1995.
+(4) In this clause Committee, Swan Valley and Swan Valley Planning Committee have the same meanings as they have in the Swan Valley Planning Act 1995.
 ”.
 (6) Clause 30B(4) is deleted and the following subclause is inserted instead —
 “
@@ -353,8 +353,8 @@ Section 237 is amended as follows:
 (a) by deleting the definition of “ordinary member”;
 (b) by inserting in the appropriate alphabetical positions —
 “
-“judicial member” has the meaning given to that term in section 3(1) of the State Administrative Tribunal Act 2004;
-“Tribunal member” has the meaning given to that term in section 3(1) of the State Administrative Tribunal Act 2004.
+judicial member has the meaning given to that term in section 3(1) of the State Administrative Tribunal Act 2004;
+Tribunal member has the meaning given to that term in section 3(1) of the State Administrative Tribunal Act 2004.
 ”;
 (c) by deleting the full stop after the definition of “President” and inserting instead a semicolon.
 85.Section 237A inserted
@@ -390,6 +390,6 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (1) The amendments in this section are to the Planning and Development Act 2005.
 (2) Section 4(1) is amended by deleting the definition of “legal practitioner” and inserting instead —
 “
-“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”.
 ”.
