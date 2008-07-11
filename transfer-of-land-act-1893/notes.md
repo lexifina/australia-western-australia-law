@@ -72,7 +72,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
-Acts Amendment (Justice) Act 2008 Pt. 24 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Acts Amendment (Justice) Act 2008 Pt. 24 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 711 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
@@ -117,7 +117,7 @@ The Transfer of Land Amendment Act 1996 s. 152 reads as follows:
 “
 152.Savings and transitional in relation to the assurance fund
 (1) In this section —
-“commencement” means the day on which section 1 of this Act comes into operation.
+commencement means the day on which section 1 of this Act comes into operation.
 (2) The account called the “assurance fund” immediately before commencement is to be closed on commencement and the money that is in the account at the time when the account is being closed is to be credited to the Consolidated Fund.
 (3) Subsection (2) does not affect or prejudice the application of the Interpretation Act 1984 but a right, obligation or liability of, or in respect of, the assurance fund subsisting immediately before commencement becomes, on commencement, a right, obligation or liability of, or in respect of, the State in accordance with Part XI or XII of the principal Act, as the case requires.
 ”.
@@ -252,7 +252,7 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (1) The amendments in this section are to the Transfer of Land Act 1893.
 (2) Section 4(1) is amended by inserting in the appropriate alphabetical position —
 “
-“Australian lawyer” has the meaning given to that term in the Legal Profession Act 2008 section 3;
+Australian lawyer has the meaning given to that term in the Legal Profession Act 2008 section 3;
 ”.
 (3) Section 5(2)(b) is deleted and the following paragraph is inserted instead —
 “
