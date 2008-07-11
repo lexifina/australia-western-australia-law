@@ -11,7 +11,7 @@ Civil Judgments Enforcement Amendment Regulations (No. 2) 2008 | 27 Jun 2008 p. 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Civil Judgments Enforcement Amendment Regulations 2008 r. 3 and 4 | 16 May 2008 p. 1908-9 | Operative on commencement of the Acts Amendment (Justice) Act 2008 s. 8 (see r. 2(b))
+Civil Judgments Enforcement Amendment Regulations 2008 r. 3 and 4 | 16 May 2008 p. 1908-9 | 30 Sep 2008 (see r. 2(b) and Gazette 11 Jul 2008 p. 3253)
 On the date as at which this compilation was prepared, the Civil Judgments Enforcement Amendment Regulations 2008 r. 3 and 4 had not come into operation. They read as follows:
 “
 3.The regulations amended
