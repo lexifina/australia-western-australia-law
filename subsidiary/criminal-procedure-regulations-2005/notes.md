@@ -12,7 +12,7 @@ Reprint 1: The Criminal Procedure Regulations 2005 as at 8 Feb 2008 (includes am
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Criminal Procedure Amendment Regulations 2008 r. 3 and 4 | 16 May 2008 p. 1909-10 | Operative on commencement of the Acts Amendment (Justice) Act 2008 s. 47 (see r. 2(b))
+Criminal Procedure Amendment Regulations 2008 r. 3 and 4 | 16 May 2008 p. 1909-10 | 30 Sep 2008 (see r. 2(b) and Gazette 11 Jul 2008 p. 3253)
 On the date as at which this compilation was prepared, the Criminal Procedure Amendment Regulations 2008 r. 3 and 4 had not come into operation. They read as follows:
 “
 3.The regulations amended
