@@ -29,7 +29,7 @@ Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Justice) Act 2008 Pt. 12 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Acts Amendment (Justice) Act 2008 Pt. 12 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 667 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
@@ -45,8 +45,8 @@ The Guardianship and Administration Amendment Act 2000 s. 21 reads as follows:
 (b) a court or other tribunal,
 and to the extent that subsection (1) conflicts or is inconsistent with such a decision, that decision prevails.
 (3) In subsection (1) —
-“commencement day” means the day on which this Act comes into operation;
-“section” means a section of the Guardianship and Administration Act 1990.
+commencement day means the day on which this Act comes into operation;
+section means a section of the Guardianship and Administration Act 1990.
 ”.
 The Acts Amendment (Court of Appeal) Act 2004 Sch. 1 it. 7 (to amend s. 37A and the heading to Part 3 Div. 4) were repealed by the Criminal Law and Evidence Amendment Act 2008 s. 75(3).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -54,8 +54,8 @@ The State Administrative Tribunal Regulations 2004 r. 52 reads as follows:
 “
 52.Guardianship and Administration Act 1990
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 56 comes into operation;
-“the GA Act” means the Guardianship and Administration Act 1990.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 56 comes into operation;
+the GA Act means the Guardianship and Administration Act 1990.
 (2) Unless the context otherwise requires, where in —
 (a) an arrangement entered into under the GA Act section 44A(1); or
 (b) a notice of an arrangement published in the Gazette under the GA Act section 44A(2),
@@ -83,7 +83,7 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (1) The amendments in this section are to the Guardianship and Administration Act 1990.
 (2) Section 3(1) is amended by deleting the definition of “legal practitioner” and inserting instead —
 “
-“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”.
 (3) Section 51(3) is amended by deleting “Legal Practice Act 2003.” and inserting instead —
 “ Legal Profession Act 2008. ”.
@@ -160,27 +160,27 @@ to provide for enduring powers of attorney, enduring powers of guardianship and 
 (1) Section 3(1) is amended by deleting the definition of “treatment”.
 (2) Section 3(1) is amended by inserting in the appropriate alphabetical positions —
 “
-“advance health directive” means —
+advance health directive means —
 (a)an advance health directive made under Part 9B; or
 (b)an instrument recognised as such under section 110ZA;
-“enduring guardian” means —
+enduring guardian means —
 (a)the person who is the enduring guardian under an enduring power of guardianship; or
 (b)the persons who are the joint enduring guardians under an enduring power of guardianship,
 and includes a substitute enduring guardian while he or she is the enduring guardian or a joint enduring guardian under an enduring power of guardianship;
-“enduring power of guardianship” means —
+enduring power of guardianship means —
 (a)an enduring power of guardianship made under Part 9A; or
 (b)an instrument recognised as such under section 110O;
-“life sustaining measure” means a medical, surgical or nursing procedure directed at supplanting or maintaining a vital bodily function that is temporarily or permanently incapable of independent operation, and includes assisted ventilation and cardiopulmonary resuscitation;
-“palliative care” means a medical, surgical or nursing procedure directed at relieving a person’s pain, discomfort or distress, but does not include a life sustaining measure;
-“substitute enduring guardian” means a person appointed as a substitute enduring guardian under section 110C(1);
-“treatment” means —
+life sustaining measure means a medical, surgical or nursing procedure directed at supplanting or maintaining a vital bodily function that is temporarily or permanently incapable of independent operation, and includes assisted ventilation and cardiopulmonary resuscitation;
+palliative care means a medical, surgical or nursing procedure directed at relieving a person’s pain, discomfort or distress, but does not include a life sustaining measure;
+substitute enduring guardian means a person appointed as a substitute enduring guardian under section 110C(1);
+treatment means —
 (a)medical or surgical treatment, including —
 (i)a life sustaining measure; and
 (ii)palliative care;
 or
 (b)dental treatment; or
 (c)other health care;
-“treatment decision”, in relation to a person, means a decision to consent or refuse consent to the commencement or continuation of any treatment of the person.
+treatment decision, in relation to a person, means a decision to consent or refuse consent to the commencement or continuation of any treatment of the person.
 ”.
 6.Section 45 amended
 (1) Section 45(2) is amended as follows:
@@ -250,7 +250,7 @@ Part 9A — Enduring powers of guardianship
 Division 1 — Preliminary matters
 110A.Meaning of “appointor”
 In this Part —
-“appointor”, in relation to an enduring power of guardianship, means the maker of the power.
+appointor, in relation to an enduring power of guardianship, means the maker of the power.
 Division 2 — Making of enduring power of guardianship
 110B.Appointing enduring guardian
 A person who has reached 18 years of age and has full legal capacity may make an enduring power of guardianship appointing —
@@ -276,7 +276,7 @@ and
 (ii) the person who signed it at the appointor’s direction (if applicable); and
 (iii) each other;
 and
-(e) it is signed by each person being appointed as an enduring guardian or substitute enduring guardian (an “appointee”) to indicate the appointee’s acceptance of the appointment; and
+(e) it is signed by each person being appointed as an enduring guardian or substitute enduring guardian (an appointee) to indicate the appointee’s acceptance of the appointment; and
 (f) the signature of the appointee is witnessed by 2 persons —
 (i) both of whom are authorised by law to take declarations; or
 (ii) of whom —
@@ -441,7 +441,7 @@ Division 4 — Miscellaneous matters
 (3) No fee or charge is payable in respect of any matter connected with the register or registration.
 110ZAB.Disclosure of information obtained from register
 (1) In this section —
-“register” means the register referred to in section 110ZAA.
+register means the register referred to in section 110ZAA.
 (2) A person who has access to the register must not disclose any information on the register unless the disclosure is authorised by subsection (4).
 Penalty: $5 000.
 (3) A person who obtains any information from the register must not disclose the information unless the disclosure is authorised by subsection (4).
@@ -453,7 +453,7 @@ Penalty: $5 000.
 (d) otherwise authorised or required by law.
 110ZAC.Regulations to facilitate national register
 (1) In this section —
-“advance health directive” means —
+advance health directive means —
 (a)an advance health directive made under this Part; or
 (b)an instrument created under the law of another State or a Territory that corresponds sufficiently, in form and effect, to an advance health directive made under this Part, whether or not the instrument is recognised under section 110ZA(1).
 (2) The regulations may make provision to facilitate —
@@ -465,7 +465,7 @@ Part 9C — Persons responsible for patients
 Division 1 — Preliminary matters
 110ZC.Meaning of “patient”
 In this Part —
-“patient” means a person who needs treatment.
+patient means a person who needs treatment.
 Division 2 — Treatment decisions by persons responsible for patients
 110ZD.Circumstances in which person responsible may make treatment decision
 (1) If a patient is unable to make reasonable judgments in respect of any treatment proposed to be provided to the patient, the person responsible for the patient under subsection (2) may make a treatment decision in respect of the treatment.
@@ -513,10 +513,10 @@ Part 9D — Treatment decisions in relation to patients under legal incapacity
 Division 1 — Preliminary matters
 110ZH.Terms used in this Part
 In this Part —
-“advance health directive” includes a directive given by a person under the common law containing treatment decisions in respect of the person’s future treatment;
-“health professional” has the meaning given to that term in the Civil Liability Act 2002 section 5PA;
-“patient” means a person who needs treatment;
-“urgent treatment” means treatment urgently needed by a patient —
+advance health directive includes a directive given by a person under the common law containing treatment decisions in respect of the person’s future treatment;
+health professional has the meaning given to that term in the Civil Liability Act 2002 section 5PA;
+patient means a person who needs treatment;
+urgent treatment means treatment urgently needed by a patient —
 (a)to save the patient’s life; or
 (b)to prevent serious damage to the patient’s health; or
 (c)to prevent the patient from suffering or continuing to suffer significant pain or distress,
@@ -560,7 +560,7 @@ whether or not the treatment is provided to the patient must be decided by the g
 whether or not the treatment is provided to the patient must be decided by the person responsible.
 110ZK.Reliance by health professional on treatment decision
 (1) In this section —
-“take treatment action” means —
+take treatment action means —
 (a)to commence or continue any treatment of a patient; or
 (b)to not commence or to discontinue any treatment of a patient.
 (2) If a health professional —
