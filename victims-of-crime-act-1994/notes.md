@@ -11,7 +11,7 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 12 | 65 of 2006 | 8 De
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Justice) Act 2008 Pt. 25 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Acts Amendment (Justice) Act 2008 Pt. 25 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 25 had not come into operation. It reads as follows:
 “
 Part 25 — Victims of Crime Act 1994 amended
