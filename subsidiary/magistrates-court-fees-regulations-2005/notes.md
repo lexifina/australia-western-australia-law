@@ -9,7 +9,7 @@ Magistrates Court (Fees) Amendment Regulations (No. 2) 2008 | 27 Jun 2008 p. 306
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Magistrates Court (Fees) Amendment Regulations 2008 r. 3-5 | 16 May 2008 p. 1910-11 | Operative on commencement of the Acts Amendment (Justice) Act 2008 s. 71 (see r. 2(b))
+Magistrates Court (Fees) Amendment Regulations 2008 r. 3-5 | 16 May 2008 p. 1910-11 | 30 Sep 2008 (see r. 2(b) and Gazette 11 Jul 2008 p. 3253)
 On the date as at which this compilation was prepared, the Magistrates Court (Fees) Amendment Regulations 2008 r. 3-5 had not come into operation. They read as follows:
 “
 3.The regulations amended
