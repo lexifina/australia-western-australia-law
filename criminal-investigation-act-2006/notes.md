@@ -7,7 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Investigation Act 2006 s. 113 | 58 of 2006 | 16 Nov 2006 | To be proclaimed (see s. 2)
-Acts Amendment (Justice) Act 2008 Pt. 8 (s. 35-39) | 5 of 2008 | 31 Mar 2008 | s. 35-38: to be proclaimed (see s. 2(d)); s. 39: operative on commencement of the Criminal Investigation Act 2006 s. 113 (see s. 2(c))
+Acts Amendment (Justice) Act 2008 Pt. 8 (s. 35-39) | 5 of 2008 | 31 Mar 2008 | s. 35-38: 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253); s. 39: operative on commencement of the Criminal Investigation Act 2006 s. 113 (see s. 2(c))
 Legal Profession Act 2008 s. 656 | 21 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Criminal Investigation Act 2006 s. 113 had not come into operation. It reads as follows:
