@@ -21,7 +21,7 @@ Reprint 3: The Commercial Tenancy (Retail Shops) Agreements as at 8 Jun 2007 (in
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Justice) Act 2008 Pt. 4 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Acts Amendment (Justice) Act 2008 Pt. 4 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 The Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 s. 22 reads as follows:
 “
 22.Saving and transitional
@@ -34,14 +34,14 @@ The Commercial Tenancy (Retail Shops) Agreements Amendment Act 1998 s. 14 reads 
 “
 14.Saving and transitional
 (1) In this section —
-“existing lease” in relation to a provision of this Act means a retail shop lease entered into —
+existing lease in relation to a provision of this Act means a retail shop lease entered into —
 (a)before the coming into operation of that provision; or
 (b)pursuant to an option granted in a retail shop lease entered into before the coming into operation of that provision,
 but does not include a retail shop lease to which the provision does not apply by reason of section 4 of the principal Act;
-“new lease” in relation to a provision of this Act means a retail shop lease entered into on or after the coming into operation of that provision and —
+new lease in relation to a provision of this Act means a retail shop lease entered into on or after the coming into operation of that provision and —
 (a)includes an extension of the term of a retail shop lease entered into before the coming into operation of that provision if the extension is granted on or after the coming into operation of that provision; but
 (b)does not include a retail shop lease so entered into pursuant to an option granted in a retail shop lease entered into before the coming into operation of that provision;
-“retail shop lease” has the same meaning as it has in the principal Act.
+retail shop lease has the same meaning as it has in the principal Act.
 (2) Subject to subsection (3), the principal Act as amended by a provision of this Act applies only to and in relation to a new lease and the principal Act applies to and in relation to an existing lease as if that provision had not been enacted.
 (3) Each of —
 (a) section 3(1) of the principal Act as amended by section 4(1)(a) of this Act, only in relation to the insertion of the definition of “accountant”;
@@ -63,13 +63,13 @@ Part 4 — Transitional provisions
 Division 1 — Interpretation
 33.Definitions
 In this Part —
-“commencement day” means the day on which the Taxation Administration Act 2003 comes into operation;
-“old Act” means —
+commencement day means the day on which the Taxation Administration Act 2003 comes into operation;
+old Act means —
 (a)an Act repealed by section 5;
 (b)the old Stamp Act; or
 (c)section 41 of the Metropolitan Region Town Planning Scheme Act 1959 as in force immediately before the commencement day;
-“old Stamp Act” means the Stamp Act 1921 as in force immediately before the commencement day;
-“substantive provisions”, in relation to an old Act, means the provisions of the old Act other than those dealing with matters dealt with in the Taxation Administration Act 2003.
+old Stamp Act means the Stamp Act 1921 as in force immediately before the commencement day;
+substantive provisions, in relation to an old Act, means the provisions of the old Act other than those dealing with matters dealt with in the Taxation Administration Act 2003.
 Division 2 — General transitional provisions
 34.General transitional arrangements
 (1) Section 37(1) of the Interpretation Act 1984, except paragraphs (a) and (b), does not apply in relation to the repeal of an old Act.
@@ -158,8 +158,8 @@ The State Administrative Tribunal Regulations 2004 r. 29 reads as follows:
 “
 29.Commercial Tenancy (Retail Shops) Agreements Act 1985
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 21 comes into operation;
-“the CTRS Act” means the Commercial Tenancy (Retail Shops) Agreements Act 1985.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 21 comes into operation;
+the CTRS Act means the Commercial Tenancy (Retail Shops) Agreements Act 1985.
 (2) If before the commencement day a matter was being dealt with by the Commercial Registrar under the CTRS Act section 11(5), 12(1)(b), 12A(4), 12B(4), 13(3)(a), 13(7), 13(7b), 13A(3) or 27(3) of that Act and that matter is transferred to the Tribunal under the Act section 167(4)(a) or (b) —
 (a) the practice and procedure, and any hearing or other fees, applicable to the matter when it was being dealt with by the Commercial Registrar continue to apply to the matter when it is being dealt with by the Tribunal; and
 (b) the Tribunal has the powers that the Commercial Registrar had in dealing with the matter.
@@ -193,7 +193,7 @@ Before section 26 the following Part heading and sections are inserted —
 Part III — Powers and procedure for dealing with matters
 24.Term used in this Part
 In this Part —
-“matter” means any application that may be made, or any question or matter that may be referred or submitted, to the Tribunal under this Act.
+matter means any application that may be made, or any question or matter that may be referred or submitted, to the Tribunal under this Act.
 25.Relationship between this Part and State Administrative Tribunal Act 2004
 Nothing in this Part prevents a matter from being dealt with through a compulsory conference or mediation process under the State Administrative Tribunal Act 2004.
 ”.
