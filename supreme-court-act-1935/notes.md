@@ -82,7 +82,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Acts Amendment (Justice) Act 2008 Pt. 23 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Acts Amendment (Justice) Act 2008 Pt. 23 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Bail Amendment Act 2008 s. 46 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2)
 Legal Profession Act 2008 s. 709 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
@@ -128,9 +128,9 @@ Part 22 — Transitional provisions
 Division 1 — Provisions about enforcing judgments
 143.Interpretation
 (1) In this Part —
-“commencement” means the commencement of this Part;
-“court fee”, for an application, does not include any fee payable in connection with serving the application to the Sheriff or any other person;
-“enforcement process” means any writ, warrant, order, or other process, issued by a court for or in connection with enforcing a judgment or order of the court.
+commencement means the commencement of this Part;
+court fee, for an application, does not include any fee payable in connection with serving the application to the Sheriff or any other person;
+enforcement process means any writ, warrant, order, or other process, issued by a court for or in connection with enforcing a judgment or order of the court.
 (2) This Part does not limit the operation of the Interpretation Act 1984 Part V.
 144.Judgments not satisfied before commencement
 If immediately before commencement a judgment of the Supreme Court, District Court or Local Court is unsatisfied, then on commencement —
@@ -212,11 +212,11 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (2) Section 4(1) is amended as follows:
 (a) by inserting in the appropriate alphabetical position —
 “
-“lawyer” means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
+lawyer means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”;
 (b) by deleting the definition of “legal practitioner” and inserting instead —
 “
-“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”.
 (3) Section 4(2) is amended as follows:
 (a) in paragraph (a) by deleting “in the State”;
