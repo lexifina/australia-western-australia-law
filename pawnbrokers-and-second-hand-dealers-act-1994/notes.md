@@ -17,14 +17,14 @@ Reprint 2: The Pawnbrokers and Second-hand Dealers Act 1994 as at 15 Jun 2007 (i
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Justice) Act 2008 s. 130 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Acts Amendment (Justice) Act 2008 s. 130 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 The provision in this Act repealing these Acts has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 59 reads as follows:
 “
 59.Pawnbrokers and Second-hand Dealers Act 1994
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 94 comes into operation.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 94 comes into operation.
 (2) On or after the commencement day a clerk of a court of petty sessions is to cause to be sent to the executive officer of the State Administrative Tribunal all records under the control of the clerk relating to proceedings under the Pawnbrokers and Second-hand Dealers Act 1994 Part 2 Division 3.
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 116 (to amend s. 93(1)) and Sch. 2 cl. 37 were repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(11) and (13).
