@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Prisons Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 July 2008 of the Prisons Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Prisons Regulations 1982 | 23 Jul 1982 p. 2905-29 | 1 Aug 1982 (see r. 1 and Gazette 23 Jul 1982 p. 2841)
@@ -35,12 +35,39 @@ Inspector of Custodial Services Act 2003 s. 56 assented to 15 Dec 2003 | 15 Dec 
 Prisons Amendment Regulations 2003 | 11 Jun 2004 p. 1999-2002 | 12 Jun 2004 (see r. 2 and Gazette 11 Jun 2004 p. 1999)
 Prisons Amendment Regulations 2004 | 14 Sep 2004 p. 4057 | 14 Sep 2004
 Reprint 4: The Prisons Regulations 1982 as at 19 Nov 2004 (includes amendments listed above)
-Prisons Amendment Regulations 2007 | 3 Apr 2007 p. 1493-1506 | 4 Apr 2007 (see r. 2 and Gazette 3 Apr 2007 p. 1491)
+Prisons Amendment Regulations 2007 | 3 Apr 2007 p. 1493-506 | 4 Apr 2007 (see r. 2 and Gazette 3 Apr 2007 p. 1491)
 Prisons Amendment Regulations 2008 | 28 Mar 2008 p. 907-8 | r. 1 and 2: 28 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Mar 2008 (see r. 2(b))
 Prisons Amendment Regulations (No. 2) 2008 | 9 May 2008 p. 1844-5 | r. 1 and 2: 9 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 10 May 2008 (see r. 2(b))
-Footnote no longer applicable.
+Reprint 5: The Prisons Regulations 1982 as at 11 Jul 2008 (includes amendments listed above)
+Repealed by the Nurses and Midwives Act 2006.
 Regulation 5 disallowed on 15 Dec 1999 (see Gazette 21 Dec 1999 p. 6417).
 The Inspector of Custodial Services Act 2003 s. 56(2) reads as follows:
 “
 (2) Nothing in this Act prevents any of the Prisons Regulations 1982 from being amended in accordance with the Prisons Act 1981.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+aggravated alcohol offence26
+aggravated drug offence26
+allocated81A
+approved2(1)
+approved analysis agent2(1)
+canine section81A
+contact visit2(1)
+contract86(1)
+contract worker2(1)
+corresponding law54M
+dog handler81A
+external facility54M
+interstate absence permit54M
+interstate escort54M
+interstate prisoner54M
+non-contact visit2(1)
+organisation2(1)
+participating State or Territory54M
+prison dog81A
+property49(2)
+supervision2(1)
+sweat patch26
+By Authority: JOHN A. STRIJK, Government Printer
