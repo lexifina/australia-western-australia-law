@@ -8,7 +8,7 @@ Criminal Law and Evidence Amendment Act 2008 Pt. 3 | 2 of 2008 | 12 Mar 2008 | 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Justice) Act 2008 Pt. 9 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Acts Amendment (Justice) Act 2008 Pt. 9 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Bail Amendment Act 2008 s. 45 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2)
 Legal Profession Act 2008 s. 657 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Criminal Law Amendment (Homicide) Act 2008 s. 30 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
