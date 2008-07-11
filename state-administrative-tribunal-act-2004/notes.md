@@ -20,7 +20,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Justice) Act 2008 Pt. 22 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Acts Amendment (Justice) Act 2008 Pt. 22 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 706 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Architects Act 2004.
@@ -67,18 +67,18 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (2) Section 3(1) is amended as follows:
 (a) by deleting the definition of “legal experience” and inserting instead —
 “
-“legal experience” means —
+legal experience means —
 (a)standing and practice as a legal practitioner; or
 (b)judicial service (including service as a judge of a court, a magistrate or other judicial officer) in the State or elsewhere in a common law jurisdiction; or
 (c)a combination of both kinds of legal experience mentioned in paragraphs (a) and (b);
 ”;
 (b) by deleting the definition of “legal practitioner” and inserting instead —
 “
-“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”;
 (c) by deleting the definition of “qualified person” and inserting instead —
 “
-“qualified person” means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
+qualified person means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”.
 (3) Section 93(1) is amended in the definition of “legally qualified person” by deleting paragraph (a) and “or” after it and inserting instead —
 “
