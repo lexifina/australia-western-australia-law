@@ -11,7 +11,7 @@ Magistrates Court (General) Amendment (Road Traffic) Rules 2008 | 23 May 2008 p.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Magistrates Court (General) Amendment Rules 2008 r. 3-6 | 8 Apr 2008 p. 1335-9 | On commencement of the Acts Amendment (Justice) Act 2008 s. 71 (see r. 2(b))
+Magistrates Court (General) Amendment Rules 2008 r. 3-6 | 8 Apr 2008 p. 1335-9 | 30 Sep 2008 (see r. 2(b) and Gazette 11 Jul 2008 p. 3253)
 On the date as at which this compilation was prepared, the Magistrates Court (General) Amendment Rules 2008 r. 3-6 had not come into operation. They read as follows:
 “
 3.The rules amended
@@ -51,8 +51,8 @@ Rules 37, 38, 39 and 40 are repealed and the following rules are inserted instea
 (b) in writing, by mail, fax or email.
 41A.Requests for access to searchable information
 (1) In this rule —
-“approved recipient” means a person who is approved in writing by the Attorney General as a person entitled to receive searchable information;
-“searchable information” means any of the following information in respect of civil proceedings in the Court —
+approved recipient means a person who is approved in writing by the Attorney General as a person entitled to receive searchable information;
+searchable information means any of the following information in respect of civil proceedings in the Court —
 (a)the names and addresses of the parties;
 (b)the amount and nature of the claim;
 (c)the amount of any judgment entered;
