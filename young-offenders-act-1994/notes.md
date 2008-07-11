@@ -36,7 +36,7 @@ Road Traffic Amendment Act (No. 2) 2007 Pt. 3 | 39 of 2007 | 21 Dec 2007 | 15 Ma
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Justice) Act 2008 s. 132 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Acts Amendment (Justice) Act 2008 s. 132 | 5 of 2008 | 31 Mar 2008 | 31 Jul 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Prostitution Amendment Act 2008 s. 36 | 13 of 20080 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Parental Support and Responsibility Act 2008 s. 44 | 14 of 2008 | 15 Apr 2008 | To be proclaimed (see s. 2)
 Legal Profession Act 2008 s. 714 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
