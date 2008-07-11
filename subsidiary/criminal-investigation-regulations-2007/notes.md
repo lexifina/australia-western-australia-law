@@ -6,7 +6,7 @@ Criminal Investigation Regulations 2007 | 22 Jun 2007 p. 2941-58 | r. 1 and 2: 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Criminal Investigation Amendment Regulations 2008 r. 3 and 4 | 13 Jun 2008 p. 2519-22 | Operative on commencement of the Acts Amendment (Justice) Act 2008 s. 36 (see r. 2(b))
+Criminal Investigation Amendment Regulations 2008 r. 3 and 4 | 13 Jun 2008 p. 2519-22 | 30 Sep 2008 (see r. 2(b) and Gazette 11 Jul 2008 p. 3253)
 On the date as at which this compilation was prepared, the Criminal Investigation Amendment Regulations 2008 r. 3 and 4 had not come into operation. They read as follows:
 “
 3.The regulations amended
