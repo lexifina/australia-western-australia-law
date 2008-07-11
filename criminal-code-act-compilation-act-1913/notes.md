@@ -150,7 +150,7 @@ Criminal Law and Evidence Amendment Act 2008 Pt. 2 | 2 of 2008 | 12 Mar 2008 | 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Justice) Act 2008 s. 129 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Acts Amendment (Justice) Act 2008 s. 129 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 4 | 25 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
 Criminal Law Amendment (Homicide) Act 2008 Pt. 2 and s. 27 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
