@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Credit (Administration) Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 July 2008 of the Credit (Administration) Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Credit (Administration) Act 1984 | 100 of 1984 | 19 Dec 1984 | Act other than s. 6-8: 1 Mar 1985 (see s. 2 and Gazette 22 Feb 1985 p. 657); s. 6-8: 30 Apr 1985 (see s. 2 and Gazette 19 Apr 1985 p. 1381)
+Credit (Administration) Act 1984 | 100 of 1984 | 19 Dec 1984 | s. 1 and 2: 19 Dec 1984; Act other than s. 1, 2 and 6-8: 1 Mar 1985 (see s. 2 and Gazette 22 Feb 1985 p. 657); s. 6-8: 30 Apr 1985 (see s. 2 and Gazette 19 Apr 1985 p. 1381)
 Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
 Acts Amendment (Credit) Act 1989 Pt. 3 | 47 of 1989 | 9 Jan 1990 | s. 7 and 9: 1 Mar 1985 (see s. 2(3) and Gazette 22 Feb 1985 p. 657); s. 8: 30 Apr 1985 (see s. 2(4) and Gazette 19 Apr 1985 p. 1381); s. 6: 9 Jan 1990 (see s. 2(1))
 Pawnbrokers and Second-hand Dealers Act 1994 s. 100 | 88 of 1994 | 5 Jan 1995 | 1 Apr 1996 (see s. 2 and Gazette 29 Mar 1996 p. 1495)
@@ -22,26 +22,29 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 10 | 28 o
 Reprint 3: The Credit (Administration) Act 1984 as at 4 Aug 2006 (includes amendments listed above)
 Pawnbrokers and Second-hand Dealers Amendment Act 2006 s. 23 | 46 of 2006 | 4 Oct 2006 | 1 May 2007 (see s. 2 and Gazette 30 Apr 2007 p. 1833)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 4 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 4: The Credit (Administration) Act 1984 as at 11 Jul 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 23 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Repealed by the Strata Titles Act 1985.
 Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 of the Commonwealth.
+Repealed by the Financial Legislation Amendment and Repeal Act 2006.
+Repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 30 and 45 read as follows:
 “
 30.Credit (Administration) Act 1984
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 31 comes into operation.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 31 comes into operation.
 (2) If —
 (a) before the commencement day a matter was being dealt with by the Commercial Tribunal of Western Australia under the Credit (Administration) Act 1984 section 23; and
 (b) that matter is transferred to the Tribunal under the Act section 167(4)(b),
 despite the Act section 32(2) and (3), the Evidence Act 1906 and the rules of evidence continue to apply to the matter when it is being dealt with by the Tribunal.
 45.Credit (Administration) Act 1984
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 31 comes into operation.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 31 comes into operation.
 (2) If before the commencement day an objection has been lodged with the Commercial Tribunal of Western Australia in accordance with the Credit (Administration) Act 1984 section 11 and the matter in respect of which the objection was lodged has not been dealt with by that Tribunal, on or after the commencement day the objection is to be taken to be an objection lodged with the Commissioner for Fair Trading under that section.
 (3) If before the commencement day an objection has been lodged with the Commercial Tribunal of Western Australia in accordance with the Credit (Administration) Act 1984 section 23(1) and the matter in respect of which the objection was lodged has not been dealt with by that Tribunal, on or after the commencement day the objection is to be taken to be a written complaint under that subsection to the Commissioner for Fair Trading about the holding of a licence by a specified licensee.
 (4) If immediately before the commencement day the Commercial Tribunal of Western Australia is conducting an inquiry under the Credit (Administration) Act 1984 Part IV, on or after the commencement day that inquiry is to be conducted by a person appointed by the Minister under section 32(1) of that Act to conduct that inquiry as if that person, and not the Tribunal, had been appointed to conduct the inquiry.
@@ -86,14 +89,44 @@ Each office in existence immediately before commencement because of section 15(1
 Each office in existence immediately before commencement because of section 5(2)(b) of the Petroleum Products Pricing Act 1983 does not cease merely because that paragraph is deleted by this Act.
 155.Interpretation
 In this Division —
-“commencement” means the time at which this Division comes into operation;
-“Commissioner for Fair Trading” means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
-“Prices Commissioner” means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+commencement means the time at which this Division comes into operation;
+Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
+Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 23 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 23 had not come into operation. It reads as follows:
 “
 23.Credit (Administration) Act 1984 amended
 (1) The amendment in this section is to the Credit (Administration) Act 1984.
 (2) Section 7(1)(h) is deleted.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+annual percentage rate4
+authorised person39(1), 55(1)
+bank4
+body corporate4
+Business of providing credit5
+Code4
+cognate Acts4
+Commissioner4
+contract to which this Act applies4
+credit4
+credit contract4
+credit provider4, 55(1)
+Department4
+executive officer53(4)
+exempt credit provider4
+information56(4)
+licence4
+loan contract4
+officer4
+pastoral finance company4
+person aggrieved24(2)
+record4
+registered office58(2)
+regulated contract4
+regulated mortgage4
+reviewable decision24(2)
+trade or tie agreement4
+By Authority: JOHN A. STRIJK, Government Printer
