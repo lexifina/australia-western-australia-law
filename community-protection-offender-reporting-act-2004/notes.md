@@ -9,7 +9,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 | 72 of 2004 | 8 Dec 2004 | s. 12 and Sch. 3: to be proclaimed
-Acts Amendment (Justice) Act 2008 s. 127 | 5 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(d))
+Acts Amendment (Justice) Act 2008 s. 127 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Prostitution Amendment Act 2008 s. 29 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Law Amendment (Homicide) Act 2008 s. 25 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 had not come into operation. They read as follows:
