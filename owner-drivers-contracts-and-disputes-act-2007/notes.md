@@ -6,7 +6,7 @@ Owner-Drivers (Contracts and Disputes) Act 2007 s. 1 and 2 | 7 of 2007 | 6 Jun 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Owner-Drivers (Contracts and Disputes) Act 2007 s. 3-8, Pt. 2-10 and Sch. 1-3 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
+Owner-Drivers (Contracts and Disputes) Act 2007 s. 3-8, Pt. 2-10 and Sch. 1-3 | 7 of 2007 | 6 Jun 2007 | Act other than s. 35 and 36: 1 Aug 2008 (see s. 2 and Gazette 18 Jul 2008 p. 3329); s. 35 and 36: to be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Owner-Drivers (Contracts and Disputes) Act 2007 s. 3-8, Pt. 2-10 and Sch. 1-3 had not come into operation. They read as follows:
 “
 3.Terms used in this Act
