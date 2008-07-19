@@ -21,7 +21,7 @@ Date............................................................................
 Time...........................................................................................................
 I, ............................................................... Justice of the Peace of ........................
 .......................................................................................................... am satisfied,
-by prosecution notice made under oath, that —
+by an application supported by evidence on oath, that —
 qthere are reasonable grounds for suspecting that there is, at the place, or in the vehicle —
 (a) an animal, the safety or welfare of which is under threat; or
 (b) something that may afford evidence of the commission of an offence
@@ -32,7 +32,7 @@ qthere are reasonable grounds for suspecting that an offence under Part 3 of the
 I authorise ..................................................., an inspector, to exercise the entry, search, and seizure powers set out in the Animal Welfare Act 2002 in relation to the premises set out in this warrant, with such assistance, and using such force, as is reasonably necessary during the time referred to in this warrant.
 Signed ..................................................... (Justice of the Peace)
 Dated .....................................................
-[Form 1 amended in Gazette 20 Jun 2008 p. 2719.]
+[Form 1 amended in Gazette 20 Jun 2008 p. 2719; 18 Jul 2008 p. 3330.]
 Form 2
 [r. 10]
 Animal Welfare Act 2002

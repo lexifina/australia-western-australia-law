@@ -7,3 +7,4 @@ Animal Welfare (General) Amendment Regulations 2004 | 30 Dec 2004 p. 7010 | 1 Ja
 Animal Welfare (General) Amendment Regulations 2006 | 23 Jun 2006 p. 2192-3 | 23 Jun 2006
 Animal Welfare (General) Amendment Regulations 2007 | 12 Jun 2007 p. 2720-1 | r. 1 and 2: 12 Jun 2007 (see r. 2(a)); Regulations other than 1 and 2: 13 Jun 2007 (see r. 2(b))
 Animal Welfare (General) Amendment Regulations (No. 2) 2008 | 20 Jun 2008 p. 2719 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Jun 2008 (see r. 2(b))
+Animal Welfare (General) Amendment Regulations (No. 3) 2008 | 18 Jul 2008 p. 3330 | r. 1 and 2: 18 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jul 2008 (see r. 2(b))
