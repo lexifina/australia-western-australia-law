@@ -129,6 +129,7 @@ Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see
 Road Traffic Amendment (Drugs) Act 2007 Pt. 2 | 6 of 2007 | 23 May 2007 | 12 Oct 2007 (see s. 2 and Gazette 11 Oct 2007 p. 5475)
 Road Traffic Amendment Act (No. 2) 2007 Pt. 1 and Pt. 2 (except s. 27-30) | 39 of 2007 | 21 Dec 2007 | Pt. 1: 21 Dec 2007 (see s. 2(a)); Pt. 2 Div. 6: 22 Dec 2007 (see s. 2(j)); Pt. 2 (other than s. 6(2)(b)(ii), 17, 18 & 25 and Div. 4, 5 & 6): 15 Mar 2008 (see s. 2(b)-(j) and Gazette 14 Mar 2008 p. 829); Pt. 2 s. 6(2)(b)(ii): 15 Mar 2008 (see s. 2(c)); Pt. 2 s. 17, 18 & 25: 30 Jun 2008 (see s. 2(d)-(f)); Pt. 2 (s. 26) and Pt. 2 Div. 5: 1 Jul 2008 (see s. 2(g)-(i) and Gazette 27 Jun 2008 p. 3117)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Road Traffic Amendment Act 2008 (except s. 5(a) and 8) | 24 of 2008 | 13 Jun 2008 | s. 1 and 2: 13 Jun 2008 (see s. 2(1)(a)); s. 3, 4, 5(b)-(f), 6, 7, 9-25: 19 Jul 2008 (see s. 2(1)(b) and Gazette 18 Jul 2008 p. 3329)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -136,7 +137,7 @@ Road Traffic Amendment Act (No. 2) 1987 s. 11(b) | 121 of 1987 (as amended by No
 Road Traffic Amendment Act (No. 2) 2007 Pt.2 Div. 4 (s. 27-30) | 39 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(g))
 Acts Amendment (Justice) Act 2008 s. 131 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
-Road Traffic Amendment Act 2008 s. 3-25 | 24 of 2008 | 13 Jun 2008 | To be proclaimed (see s. 2)
+Road Traffic Amendment Act 2008 s. 5(a) and 8 | 24 of 2008 | 13 Jun 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 Criminal Law Amendment (Homicide) Act 2008 s. 38 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 Footnote no longer applicable.
@@ -368,18 +369,8 @@ Schedule 3 — Consequential amendments
 “medical practitioner” has the meaning given to that term in the Medical Practitioners Act 2008 section 4;
 ”.
 ”.
-On the date as at which this compilation was prepared, the Road Traffic Amendment Act 2008 s. 3-25 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Road Traffic Amendment Act 2008 s. 5(a) and 8 had not come into operation. They read as follows:
 “
-3.The Act amended
-The amendments in this Act are to the Road Traffic Act 1974.
-4.Section 60 amended
-Section 60(3) is amended as follows:
-(a) in paragraph (a), by deleting “20 PU” and inserting instead —
-“ 40 PU ”;
-(b) in paragraph (b), by deleting “24 PU” and inserting instead —
-“ 60 PU ”;
-(c) in paragraph (c), by deleting “48 PU” and inserting instead —
-“ 80 PU ”.
 5.Section 78A amended
 Section 78A is amended as follows:
 (a) by deleting the definition of “impounding offence (driver’s licence)” and inserting instead —
@@ -389,50 +380,6 @@ Section 78A is amended as follows:
 (b)an offence against section 77(1)(a); or
 (c)an offence committed before the coming into operation of the Road Traffic Amendment Act 2008 section 5(a) that was an impounding offence (driver’s licence) as defined in this section as in force when the offence was committed;
 ”;
-(b) by deleting the definition of “impounding period” and inserting instead —
-“
-“impounding period” means the period for which the vehicle is impounded;
-”;
-(c) in the definition of “road rage circumstances”, as follows:
-(i) by deleting paragraph (a) and “and” after it;
-(ii) in paragraph (b), by inserting before “while” —
-“
-, or in any place to which the public is permitted, whether on payment of a fee or otherwise, to have access,
-”;
-(iii) in paragraph (b)(i), by deleting “a road;” and inserting instead —
-“ the road or in the place; ”;
-(iv) in paragraph (b)(ii), by inserting after “road” —
-“ or place ”;
-(d) by deleting the definition of “senior officer” and inserting instead —
-“
-“senior police officer” means a person appointed under the Police Act 1892 Part I to be a member of the Police Force of Western Australia who is, or is acting as, an inspector or an officer of a rank more senior than an inspector;
-”;
-(e) by deleting the full stop at the end of the definition of “surrender period” and inserting instead a semicolon;
-(f) by inserting in the appropriate alphabetical positions —
-“
-“impounding or confiscation order” means a court order under section 80(1), 80A(1), 80B(1), 80C(1), 80CA(1), 80CB(1) or 80FA;
-“impounding order” means a court order under section 80(1), 80B(1), 80CA(1) or 80FA;
-“vehicle referred to in section 80GA” means a vehicle for the impounding or confiscation of which an application may be made in accordance with section 80GA.
-”.
-6.Section 78B amended
-Section 78B is amended by inserting after subsection (1) the following subsection —
-“
-(2A) The impounding of a vehicle under Subdivision 2 is not relevant to the exercise by a court of its discretion under Subdivision 3 to impound or confiscate a vehicle.
-”.
-7.Section 79 amended
-Section 79 is amended as follows:
-(a) by inserting before “A member” at the beginning of the section the subsection designation “(1)”;
-(b) by deleting “for 48 hours”;
-(c) by inserting at the end of the section the following subsections —
-“
-(2) The period for which the vehicle is impounded ends —
-(a) unless the member of the Police Force specifies a longer period under paragraph (b) or the Commissioner extends the period under subsection (3), on the 7th day after the day on which the vehicle is impounded;
-(b) if at the time of the impounding the member of the Police Force, reasonably believing that the driver of the vehicle has previously been convicted of an impounding offence (driving), specifies that because of that belief the period is to end on the 28th day after the day on which the vehicle is impounded, on the day specified;
-(c) if the Commissioner extends the period under subsection (3), on the 28th day after the day on which the vehicle is impounded.
-(3) If the driver of the vehicle has previously been convicted of an impounding offence (driving) but the member of the Police Force does not specify a longer period under subsection (2)(b), the Commissioner may, because of the previous conviction, extend the period to end on the 28th day after the day on which the vehicle was impounded.
-(4) The giving of a notice under section 79B(1) does not prevent the Commissioner from, under subsection (3), extending the period for which the vehicle is impounded.
-(5) An extension under subsection (3) is of no effect unless, not less than 24 hours before the end of the initial period, notice of the extension is given under section 79B(3) to a responsible person.
-”.
 8.Section 79A amended
 Section 79A is amended as follows:
 (a) by deleting “48 hours” and inserting instead —
@@ -440,184 +387,6 @@ Section 79A is amended as follows:
 (b) by inserting at the end of paragraph (a) —
 “ and ”;
 (c) by deleting all of the section after “offence” in paragraph (b) and inserting instead a full stop.
-9.Section 79B amended
-(1) Section 79B(1) is amended as follows:
-(a) by deleting “the” after “given to” and inserting instead —
-“ each ”;
-(b) by deleting “the” after “not” and inserting instead —
-“ a ”.
-(2) Section 79B(2) is amended as follows:
-(a) by inserting after “The notice” —
-“ of the impounding ”;
-(b) by deleting “the following information” and inserting instead —
-“ details of ”;
-(c) by inserting after paragraph (b) —
-“
-(ca) if a longer impounding period was specified under section 79(2)(b), the previous conviction because of which the longer period was specified; and
-”;
-(d) in paragraph (d), by deleting “section 80, 80A, 80B and 80C” and inserting instead —
-“ sections 80, 80A, 80B, 80C and 80FA ”;
-(e) by inserting after each of paragraphs (a), (b) and (c) —
-“ and ”.
-(3) After section 79B(2) the following subsections are inserted —
-“
-(3) The Commissioner is to ensure that, as soon as practicable after an impounding period is extended under section 79(3), notice of the extension is given to each responsible person and, if the driver is not a responsible person, the driver.
-(4) The notice of the extension is to be in an approved form and contain details of —
-(a) the impounded vehicle; and
-(b) the time when the vehicle was impounded and when the impounding period would end if it were not extended; and
-(c) the previous conviction because of which the impounding period is extended; and
-(d) the powers of a court under sections 80, 80A, 80B, 80C and 80FA in relation to the impounding and confiscation of vehicles.
-”.
-10.Section 79C amended
-(1) Section 79C(1) is amended as follows:
-(a) by inserting after “senior” in both places where it occurs —
-“ police ”;
-(b) by deleting all of the subsection after “impounded” and inserting instead —
-“
-, of —
-(a) the grounds on which the member suspects the matters mentioned in section 79(1)(a) and (b) or 79A(a) and (b), as is relevant to the case; and
-(b) if the member specifies that, because of a belief that the driver of the vehicle has previously been convicted of an impounding offence (driving), the impounding period is to end on the 28th day after the day on which the vehicle is impounded, the grounds of that belief.
-”.
-(2) Section 79C(2) is amended as follows:
-(a) by inserting after “senior” —
-“ police ”;
-(b) by deleting “herself” and all of the subsection after that term and inserting instead —
-“
-herself —
-(a) that there are reasonable grounds for the member to suspect the matters mentioned in section 79(1)(a) and (b) or 79A(a) and (b), as the case requires; and
-(b) in a case to which subsection (1)(b) applies, that there are reasonable grounds for believing that the driver of the vehicle has previously been convicted of an impounding offence (driving).
-”.
-(3) Section 79C(3) is amended as follows:
-(a) by inserting after “senior” in both places where it occurs —
-“ police ”;
-(b) by inserting after “subsection (2)” —
-“ (a) ”;
-(c) by deleting “the” after “returned to” and inserting instead —
-“ a ”;
-(d) by deleting “the responsible person is not available” and inserting instead —
-“ no responsible person is available ”.
-(4) After section 79C(3) the following subsection is inserted —
-“
-(4) If a senior police officer is satisfied as required by subsection (2)(a) but is not satisfied as required by subsection (2)(b), the senior police officer is to alter the impounding period to end on the 7th day after the day on which the vehicle is impounded and the Commissioner is to give notice of the variation to each person who has been given notice under section 79B of the impounding.
-”.
-11.Section 79D amended
-Section 79D(2) is amended as follows:
-(a) in each of paragraphs (b) and (c), by inserting after “senior” —
-“ police ”;
-(b) in paragraph (b), by inserting after “section 79C(2)” —
-“ (a) ”.
-12.Section 80B amended
-Section 80B(1) is amended by deleting “the vehicle used in the offence” and inserting instead —
-“ a vehicle referred to in section 80GA ”.
-13.Section 80C amended
-Section 80C(1) is amended by deleting “the vehicle used in the offence.” and inserting instead —
-“ a vehicle referred to in section 80GA. ”.
-14.Section 80CA amended
-(1) Section 80CA(1) is amended as follows:
-(a) by deleting “the vehicle that the offender was using” and inserting instead —
-“ a vehicle referred to in section 80GA ”;
-(b) by deleting “3 months” and inserting instead —
-“ 6 months ”.
-(2) Section 80CA(2) is repealed.
-15.Section 80CB amended
-(1) Section 80CB(1) is amended by deleting “the vehicle that the offender was using.” and inserting instead —
-“ a vehicle referred to in section 80GA. ”.
-(2) Section 80CB(2) is repealed.
-16.Section 80E amended
-(1) Section 80E(1) is amended by deleting “80(1), 80A(1), 80B(1), 80C(1), 80CA(1) or 80CB(1)” and inserting instead —
-“ 80(1) or 80A(1) ”.
-(2) Section 80E(2) is amended as follows:
-(a) by deleting “, 80C(1) or 80CB(1)”;
-(b) by deleting “80, 80B or 80CA for a period not exceeding 6 months.” and inserting instead —
-“ 80FA(2). ”.
-17.Section 80FA inserted
-After section 80E the following section is inserted —
-“
-80FA.Court may order impounding instead of confiscation
-(1) In circumstances in which a court could, by order under section 80A(1), 80C(1) or 80CB(1), confiscate a vehicle, the court may instead, by order under this subsection, impound the vehicle for a period, not exceeding 6 months, specified in the order.
-(2) In circumstances in which a court could, by order under section 80A(1), confiscate a vehicle but for section 80E(2) and the fact that the vehicle was a lent vehicle at the relevant time, the court may instead, by order under this subsection, impound the vehicle for a period, not exceeding 6 months, specified in the order.
-(3) The impounding period under subsection (1) or (2) starts on the day on which —
-(a) the vehicle is surrendered; or
-(b) under section 78C, the vehicle is conveyed to the place where it is to be stored.
-”.
-18.Section 80F amended
-Section 80F is amended by deleting “the” before “responsible” and inserting instead —
-“ a ”.
-19.Section 80GA inserted
-After section 80F the following section is inserted —
-“
-80GA.Vehicle about which certain orders may be made
-(1) The Commissioner cannot apply for an order under section 80B(1), 80C(1), 80CA(1) or 80CB(1) for the impounding or confiscation of a vehicle unless —
-(a) the offender is a responsible person for the vehicle; and
-(b) the vehicle is —
-(i) in the case of an order under section 80B(1) or 80C(1), the vehicle used in the offence or a substitute vehicle nominated by the Commissioner under subsection (2);
-(ii) in the case of an order under section 80CA(1) or 80CB(1), the vehicle referred to in paragraph (b)(i) of the definition of “road rage circumstances” in section 78A or a substitute vehicle nominated by the Commissioner under subsection (2).
-(2) If the alleged offender is not a responsible person for the vehicle to which subsection (1)(b) would, if the Commissioner did not nominate a substitute vehicle, refer, the Commissioner may nominate as a substitute vehicle a motor vehicle for which the alleged offender is, at the time of applying for the order, a responsible person.
-(3) The Commissioner cannot nominate a substitute vehicle unless at least 14 days before the application is made the Commissioner gives to the alleged offender written notice of the intention to apply for the order in respect of that vehicle.
-”.
-20.Section 80G amended
-(1) Section 80G(2)(b) is amended by deleting subparagraph (i) and “or” after it and inserting instead —
-“
-(i) as part of the proceedings in which the person is convicted of the offence because of which the order is sought; or
-”.
-(2) Section 80G(3) and (4) are repealed and the following subsections are inserted instead —
-“
-(3) A person is to be regarded as having sufficient notice of the Commissioner’s intention to make an application for an order in respect of a particular vehicle if —
-(a) the Commissioner gives the person written notice of that intention at least 14 days before the application is made and the person is —
-(i) the driver of the vehicle; or
-(ii) a responsible person; or
-(iii) any other person who the Commissioner is aware has or may have an interest in the vehicle;
-or
-(b) in the case of a person not referred to in paragraph (a), the Commissioner publishes notice of that intention at least 14 days before the application is made in a newspaper having State-wide circulation.
-(4) A court is not to make an order unless it has given a reasonable opportunity to show cause why the order should not be made to —
-(a) the driver of the vehicle; and
-(b) if a person other than the driver is a responsible person for the vehicle, each responsible person; and
-(c) each other person, if any, who has an interest in the vehicle.
-”.
-(3) Section 80G(5) is amended by deleting paragraph (a) and inserting instead —
-“
-(a) whether the offence because of which the order is sought was committed with the knowledge and acquiescence of a person who has an interest in the vehicle; and
-”.
-(4) Section 80G(6) is amended as follows:
-(a) in paragraph (a), by deleting “, (b) or (d)”;
-(b) in paragraph (b), by deleting “other than a person mentioned in subsection (3)(a), (b), (c) or (d),”.
-(5) Section 80G(7) is repealed and the following subsection is inserted instead —
-“
-(7) If the Commissioner advises the Director General in writing that the Commissioner intends to apply for an order in respect of a particular vehicle, the Director General must not, before the application is decided, transfer the licence of the vehicle if the vehicle is licensed.
-”.
-21.Section 80IA amended
-Section 80IA(1) is amended by deleting “the” before “responsible” and inserting instead —
-“ a ”.
-22.Section 80J amended
-(1) Section 80J(1) is amended in the definition of “uncollected vehicle” by deleting “2 months” and inserting instead —
-“ 28 days ”.
-(2) Section 80J(4)(a) is amended by deleting “the” before “responsible person” and inserting instead —
-“ each ”.
-23.Certain cross references amended
-The Act is amended by deleting “section 79” in each place described in the Table to this section and inserting instead —
-“ section 79(1) ”.
-Table
-s. 78C(1) and (3)(a) | s. 78D(a)
-s. 79B(1) | s. 79C(1)
-s. 79D(1) in the definition of “impounded vehicle” | s. 79E
-s. 80IA(1) | s. 80IB(1) and (5)
-s. 80I(1) | s. 80J(1) in the definition of “item” paragraph (a)
-s. 80J(1) in the definition of “uncollected vehicle”
-24.Certain references to impounding or confiscation order amended
-(1) The Act is amended by deleting “order under section 80(1), 80A(1), 80B(1), 80C(1), 80CA(1) or 80CB(1)” in each place described in the Table to this subsection and inserting instead —
-“ impounding or confiscation order ”.
-Table
-s. 78C(2), (3)(b), (4)(a) and (6)(a) | s. 80F
-s. 80J(3)(b)
-(2) Section 78D(a) is amended by deleting “orders under section 80(1), 80A(1), 80B(1), 80C(1), 80CA(1) or 80CB(1)” and inserting instead —
-“ impounding or confiscation orders ”.
-25.Certain references to impounding order amended
-The Act is amended by deleting “order under section 80(1), 80B(1) or 80CA(1)” in each place described in the Table to this section and inserting instead —
-“ impounding order ”.
-Table
-s. 80H(1) | s. 80IA(1)
-s. 80IB(1) | s. 80I(1)
-s. 80J(1) in the definition of “uncollected vehicle”
 ”.
 On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 38 had not come into operation. It reads as follows:
 “
