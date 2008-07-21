@@ -5,14 +5,14 @@ Codes of practice
  | Last consolidated and published 3 February 2003 by the Australian Racing Board
 2. | Buffalo — Code of practice for farmed buffalo in Western Australia
  | First published by the Department in March 2003
-[3, 4.deleted]
+[3, 4. deleted]
 5. | Cattle Transportation — Code of practice for the transportation of cattle in Western Australia
  | First published by the Department in March 2003
 6. | Circuses — Code of practice for the conduct of circuses in Western Australia
  | First published by the Department in March 2003
 7. | Deer — Code of practice for farming deer in Western Australia
  | First published by the Department in March 2003
-[8.deleted]
+[8. deleted]
 9. | Exhibited Animals — Code of practice for exhibited animals in Western Australia
  | First published by the Department in March 2003
 10. | Feral Animals — Code of practice for the capture and marketing of feral animals in Western Australia
