@@ -11,6 +11,7 @@ Taxation Administration Amendment Regulations 2006 | 22 Dec 2006 p. 5811 | 1 Jan
 Taxation Administration Amendment Regulations 2007 | 28 Feb 2007 p. 639 | 1 Mar 2007 (see r. 2)
 Reprint 1: The Taxation Administration Regulations 2003 as at 16 Mar 2007 (includes amendments listed above)
 Taxation Administration Amendment Regulations 2008 | 14 Mar 2008 p. 837 | r. 1 and 2: 14 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Mar 2008 (see r. 2(b))
+Taxation Administration Amendment Regulations (No. 2) 2008 | 22 Jul 2008 p. 3354-6 | r. 1 and 2: 22 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jul 2008 (see r. 2(b))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. R. 1-4 and Pt. 7 Div. 2 of those regulations read as follows:
 “
 1.Citation
@@ -45,7 +46,7 @@ After regulation 2 the following regulation is inserted —
 (b)a reference to the Act is to be read as a reference to the Act in its application as a law of Western Australia.
 (2)These regulations are to be read with the applied Taxation Administration Regulations as a single body of law.
 (3)In these regulations —
-“applied Taxation Administration Regulations” means the Taxation Administration Regulations 2003 of Western Australia in their application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act.
+applied Taxation Administration Regulations means the Taxation Administration Regulations 2003 of Western Australia in their application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act.
 ”.
 ”.
 Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. R. 1-5 and Pt. 7 Div. 2 of that notice read as follows:
@@ -60,9 +61,9 @@ This notice comes into operation on the day after the day on which it is registe
 Note:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
 4.Definitions
 In this notice —
-“applied WA law” means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
-“Commissioner of State Revenue” means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
-“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
+applied WA law means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
+Commissioner of State Revenue means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
+Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
 5.Modification of applied WA laws
 (1) For the purposes of the Commonwealth Mirror Taxes Act section 8, each applied WA law is taken to be modified to the extent necessary to give effect to subclause (2).
 (2) If —
@@ -83,7 +84,7 @@ After regulation 2 the following regulation is inserted —
 “
 2A.Application of regulations in Commonwealth places
 (1) In this regulation —
-“corresponding Taxation Administration Regulations” means the Taxation Administration Regulations 2003 of Western Australia in their application as a law of Western Australia.
+corresponding Taxation Administration Regulations means the Taxation Administration Regulations 2003 of Western Australia in their application as a law of Western Australia.
 (2) In these regulations —
 (a) a reference to these regulations is to be read as a reference to these regulations in their application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
 (b) a reference to the Act or the Taxation Administration Act 2003 is to be read as a reference to the Taxation Administration Act 2003 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act.
