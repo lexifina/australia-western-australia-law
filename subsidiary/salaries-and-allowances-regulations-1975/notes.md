@@ -30,6 +30,7 @@ Salaries and Allowances Amendment Regulations 2004 | 16 Apr 2004 p. 1213-14 | 16
 Reprint 2: The Salaries and Allowances Regulations 1975 as at 2 Sep 2005 (includes amendments listed above)
 Solicitor-General Amendment Act 2006 s. 13 assented to 30 Jun 2006 | 18 Jul 2006 (see s. 2)
 Salaries and Allowances Amendment Regulations 2007 | 16 Jan 2007 p. 129-30 | 16 Jan 2007
+Salaries and Allowances Amendment Regulations 2008 | 25 Jul 2008 p. 3391-2 | r. 1 and 2: 25 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Jul 2008 (see r. 2(b))
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
 Repealed by the Public Transport Authority Act 2003.
 Formerly referred to the Occupational Health, Safety and Welfare Act 1984 the short title of which was changed to the Occupational Safety and Health Act 1984 by the Occupational Safety and Health Legislation Amendment Act 1995 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
