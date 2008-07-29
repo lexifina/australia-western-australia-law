@@ -52,7 +52,6 @@
 [13, 14.deleted]
 15.Disability Services Commission continued under the Disability Services Act 1993
 16.East Perth Redevelopment Authority established under the East Perth Redevelopment Act 1991
-17.Eastern Goldfields Transport Board continued under the Eastern Goldfields Transport Board Act 1984
 17A.Electricity Generation Corporation established by the Electricity Corporations Act 2005
 17B.Electricity Networks Corporation established by the Electricity Corporations Act 2005
 17C.Electricity Retail Corporation established by the Electricity Corporations Act 2005
@@ -109,4 +108,4 @@
 [67.deleted]
 68.WorkCover Western Australia Authority (WorkCover Western Australia) constituted under the Workers’ Compensation and Injury Management Act 1981
 69.Zoological Parks Authority established under the Zoological Parks Authority Act 2001
-[Division 2 amended in Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; 13 Apr 2007 p. 1610; amended by Act No. 43 of 2006 s. 7; No. 10 of 2007 s. 43.]
+[Division 2 amended in Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; 13 Apr 2007 p. 1610; amended by Act No. 43 of 2006 s. 7; No. 10 of 2007 s. 43; No. 28 of 2008 s. 16.]
