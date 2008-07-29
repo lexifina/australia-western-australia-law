@@ -1,2 +1,0 @@
-## Schedule
-[Section 8.]

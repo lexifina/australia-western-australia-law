@@ -89,7 +89,6 @@ The Anzac Day Trust
 The Board of the Art Gallery of Western Australia
 The Burswood Park Board
 The Coal Miners’ Welfare Board of Western Australia
-The Eastern Goldfields Transport Board
 The Library Board of Western Australia
 The National Trust of Australia (W.A.)
 The Queen Elizabeth II Medical Centre Trust
@@ -113,4 +112,4 @@ Western Australian Treasury Corporation
 Wheatbelt Development Commission
 WorkCover Western Australia Authority
 Zoological Parks Authority
-[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; No. 38 of 2007 s. 195; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29; 8 Feb 2008 p. 323.]
+[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; No. 38 of 2007 s. 195; No. 28 of 2008 s. 13; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29; 8 Feb 2008 p. 323.]

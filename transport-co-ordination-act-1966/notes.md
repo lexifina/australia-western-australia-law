@@ -65,9 +65,6 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 8: The Transport Co-ordination Act 1966 as at 5 Aug 2005 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(4) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Eastern Goldfields Transport Board Repeal Act 2008 s. 15 | 28 of 2008 | 1 Jul 2008 | 29 Jul 2008
 The State Transport Co-ordination Act 1966 was repealed by the State Transport Co-ordination Act 1981, which was repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 The reference in the Taxi Act 1994 s. 49(a) to an amendment of s. 2 of this Act should refer to an amendment of s. 4 of this Act. Section 49(a) reads as follows:
@@ -93,21 +90,21 @@ Part 12 — Transitional matters
 66.Transport Co-ordination Ministerial Body
 (1) In relation to the functions that the former body corporate had for the purposes of the Transport Co-ordination Act 1966 before section 39 of this Act came into operation, the Transport Co-ordination Ministerial Body established by section 6 of that Act as inserted by section 39 of this Act is a continuation of, and the same legal person as, the former body corporate.
 (2) In this section —
-“former body corporate” means the body corporate that was, before section 39 of this Act came into operation, constituted by the Minister under the Transport Co-ordination Act 1966 section 7.
+former body corporate means the body corporate that was, before section 39 of this Act came into operation, constituted by the Minister under the Transport Co-ordination Act 1966 section 7.
 67.Agreements under former Transport Co-ordination Act 1966 section 15C
 (1) To the extent that, immediately before the commencement of this Act, an agreement under the former section 15C made provision about the performance of functions of the former Director General under a relevant Act, the agreement continues, when this Act comes into operation, as an agreement under the new provision of the relevant Act.
 (2) To the extent that the agreement continues under subsection (1), it applies as if —
 (a) instead of being made by the Minister referred to in the former section 15C, the agreement had been made by the Director General referred to in the new provision of the relevant Act; and
 (b) instead of providing for the performance of functions of the former Director General, the agreement made similar provision for the performance of the corresponding functions of the Director General referred to in the new provision of the relevant Act.
 (3) In this section —
-“former Director General” means the Director General of Transport under the Transport Co-ordination Act 1966 section 8 as in force before it was repealed by this Act;
-“former section 15C” means the Transport Co-ordination Act 1966 section 15C as in force before it was repealed by this Act;
-“new provision” means —
+former Director General means the Director General of Transport under the Transport Co-ordination Act 1966 section 8 as in force before it was repealed by this Act;
+former section 15C means the Transport Co-ordination Act 1966 section 15C as in force before it was repealed by this Act;
+new provision means —
 (a)the Control of Vehicles (Off-road Areas) Act 1978 section 4B;
 (b)the Motor Vehicle Drivers Instructors Act 1963 section 4A;
 (c)the Motor Vehicle (Third Party Insurance) Act 1943 section 3QA; or
 (d)the Road Traffic Act 1974 section 6B;
-“relevant Act” means —
+relevant Act means —
 (a)the Control of Vehicles (Off-road Areas) Act 1978;
 (b)the Motor Vehicle Drivers Instructors Act 1963;
 (c)the Motor Vehicle (Third Party Insurance) Act 1943; or
@@ -119,16 +116,16 @@ Part 12 — Transitional matters
 (b) instead of delegating the performance of functions of the former Director General, the performance of the corresponding functions of the Director General referred to in the new provision of the relevant Act were delegated; and
 (c) any Ministerial approval that would have been required in order for the delegation to be made under the new provision of the relevant Act had been given.
 (3) In this section —
-“former Director General” means the Director General of Transport under the Transport Co-ordination Act 1966 section 8 as in force before it was repealed by this Act;
-“former section 18” means the Transport Co-ordination Act 1966 section 18 as in force before it was amended by this Act;
-“new provision” means —
+former Director General means the Director General of Transport under the Transport Co-ordination Act 1966 section 8 as in force before it was repealed by this Act;
+former section 18 means the Transport Co-ordination Act 1966 section 18 as in force before it was amended by this Act;
+new provision means —
 (a)the Control of Vehicles (Off-road Areas) Act 1978 section 4A;
 (b)the Motor Vehicle Drivers Instructors Act 1963 section 4;
 (c)the Motor Vehicle (Third Party Insurance) Act 1943 section 3QB;
 (d)the Rail Safety Act 1998 section 57A;
 (e)the Road Traffic Act 1974 section 6A; or
 (f)the Transport Co-ordination Act 1966 section 18;
-“relevant Act” means —
+relevant Act means —
 (a)the Control of Vehicles (Off-road Areas) Act 1978;
 (b)the Motor Vehicle Drivers Instructors Act 1963;
 (c)the Motor Vehicle (Third Party Insurance) Act 1943;
@@ -138,7 +135,7 @@ Part 12 — Transitional matters
 69.Regulations about transitional matters
 (1) If there is no sufficient provision in this Act for dealing with a transitional matter, regulations under an Act amended by this Act may include any provision that is required, or is necessary or convenient, for dealing with the transitional matter.
 (2) In subsection (1) —
-“transitional matter” means a matter that needs to be dealt with for the purpose of effecting the transition from the provisions of the Acts amended by this Act as in force before this Act comes into operation to the provisions of those Acts as in force after this Act comes into operation.
+transitional matter means a matter that needs to be dealt with for the purpose of effecting the transition from the provisions of the Acts amended by this Act as in force before this Act comes into operation to the provisions of those Acts as in force after this Act comes into operation.
 (3) Regulations including a provision described in subsection (1) may be expressed to have effect before the day on which they are published in the Gazette.
 (4) To the extent that a regulation including a provision described in subsection (1) may have effect before the day of its publication in the Gazette, it does not —
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State), the rights of that person existing before the day of its publication; or
@@ -148,9 +145,3 @@ The Public Transport Authority Act 2003 Pt. 7 Div. 1, 5, and 6 deal with transit
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 121(3) is not included because the section it sought to amend had been replaced by Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 47 before the amendment purported to come into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 50 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-On the date as at which this compilation was prepared, the Eastern Goldfields Transport Board Repeal Act 2008 s. 15 had not come into operation. It reads as follows:
-“
-15.Transport Co-ordination Act 1966 amended
-(1) The amendment in this section is to the Transport Co-ordination Act 1966.
-(2) Section 15B(2)(j) is amended by deleting “the Eastern Goldfields Transport Board Act 1984 and”.
-”.
