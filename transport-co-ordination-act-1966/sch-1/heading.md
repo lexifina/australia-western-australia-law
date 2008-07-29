@@ -27,5 +27,5 @@ For the purposes of this item the term “farm” includes a sheep station or a 
 15.The carriage of such goods as may, from time to time, be prescribed by regulation, if the goods are of the same or a similar kind as or to those mentioned in any of the preceding items of this Schedule.
 For the purposes of this Schedule a reference to a railway station or town nearest to a property is a reference to that station or town most accessible to the property or farm, as the case may be, and, notwithstanding the definition of “railway” in this Act, the term “railway station” includes any railway station whatsoever.
 [First Schedule amended by No. 94 of 1972 s. 4(1); No. 30 of 1985 s. 16; No. 54 of 1985 s. 51 and 52; No. 14 of 1996 s. 4; No. 39 of 2000 s. 66; No. 29 of 2002 s. 25.]
-[Second Schedule repealed by No. 13 of 1989 s. 10.]
-[Third Schedule repealed by No. 56 of 1997 s. 60.]
+[Second Schedule deleted by No. 13 of 1989 s. 10.]
+[Third Schedule deleted by No. 56 of 1997 s. 60.]
