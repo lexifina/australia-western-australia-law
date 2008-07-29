@@ -34,10 +34,10 @@ State Superannuation Amendment Regulations 2008 Pt. 2 | 18 Jan 2008 p. 149-56 | 
 State Superannuation Amendment Regulations (No. 2) 2008 | 1 Apr 2008 p. 1283-6 | r. 1 and 2: 1 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2008 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 3) 2008 | 11 Apr 2008 p. 1376-80 | r. 1 and 2: 11 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Apr 2008 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 6) 2008 | 8 Jul 2008 p. 3211-38 | 8 Jul 2008 (see r. 2)
+Eastern Goldfields Transport Board Repeal Act 2008 s. 16 assented to 1 Jul 2008 | 29 Jul 2008
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Eastern Goldfields Transport Board Repeal Act 2008 s. 16 assented to 1 Jul 2008 | 29 Jul 2008
 State Superannuation Amendment Regulations (No. 4) 2008 Pt. 2 | 23 Jun 2008 p. 2763-99 | Operative on commencement of the State Superannuation Amendment Act 2007 Pt. 3 (see r. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional And Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. Part 9 of these regulations were amending regulations under that subsection. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
 Formerly referred to the Water Services Coordination Act 1995 the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -59,12 +59,7 @@ The State Superannuation Amendment Regulations 2006 r. 20(2) reads as follows:
 “
 (2) If a preserved benefit of less than $200 has not been paid because of the operation of regulation 76(4) (as in force before this regulation came into operation), the benefit ceases to be a preserved benefit when this regulation comes into operation even if, at that time, the benefit plus interest on it, is or exceeds $200.
 ”.
-On the date as at which this compilation was prepared, the Eastern Goldfields Transport Board Repeal Act 2008 s. 16 had not come into operation. It reads as follows:
-“
-16.State Superannuation Regulations 2001 amended
-(1) The amendment in this section is to the State Superannuation Regulations 2001.
-(2) Schedule 1 Division 2 item 17 is deleted.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the State Superannuation Amendment Regulations (No. 4) 2008 Pt. 2 had not come into operation. It reads as follows:
 “
 Part 2 — Amendments to State Superannuation Regulations 2001
@@ -111,12 +106,12 @@ unrestricted non-preserved benefit | West State Super Member
 West State Super Scheme | worker
 (2) Regulation 3(1) is amended by inserting in the appropriate alphabetical positions —
 “
-“Fund” has the meaning given in section 4E of the Act;
-“GES Act” means the Government Employees Superannuation Act 1987 as in force immediately before the Act came into operation;
-“GESB Superannuation” has the meaning given in section 42(1) of the Act;
-“Member” means, except in Parts 2 and 5A, a Gold State Super Member, a Pension Scheme Member or a Provident Scheme Member;
-“scheme” has the meaning given in section 4E of the Act;
-“SGA Act” has the meaning given in section 4A of the Act;
+Fund has the meaning given in section 4E of the Act;
+GES Act means the Government Employees Superannuation Act 1987 as in force immediately before the Act came into operation;
+GESB Superannuation has the meaning given in section 42(1) of the Act;
+Member means, except in Parts 2 and 5A, a Gold State Super Member, a Pension Scheme Member or a Provident Scheme Member;
+scheme has the meaning given in section 4E of the Act;
+SGA Act has the meaning given in section 4A of the Act;
 ”.
 (3) Regulation 3(1) is amended as follows:
 (a) in the definition of “S&FB Act” by deleting “includes” and inserting instead —
@@ -131,11 +126,11 @@ After regulation 11 the following Part is inserted —
 Part 1A — Employer contribution obligation
 11A.Terms used in this Part
 (1) In this Part —
-“existing approval” means an approval that was —
+existing approval means an approval that was —
 (a)granted under section 30(2) of the Act as it was before the transfer time; and
 (b)in force immediately before the transfer time,
 allowing an Employer to contribute to a superannuation scheme or fund other than one referred to in paragraph (a), (b) or (c) of that section;
-“Statutory West State Member” has the meaning given in the governing rules made under section 75E of the Act.
+Statutory West State Member has the meaning given in the governing rules made under section 75E of the Act.
 (2) If a term is given a meaning in Part 2 of the Act the term has the same meaning in this Part of the regulations.
 11B.Who an employee is employed by
 (1) For the purposes of Part 2 of the Act a person is to be regarded as an employee of the person who is that person’s employer for the purposes of the SGA Act.
@@ -155,7 +150,7 @@ Table
 8. | A person who otherwise works for, within, or for the purposes of an Employer | The authority, body or person for, within, or for the purposes of, which or whom the person works
 (4) If, under subregulation (3), a person is to be regarded as employee of a public sector body that is not a corporate body, the person is to be regarded as an employee of the employing authority of the body.
 (5) In subregulation (4) —
-“employing authority” and “public sector body” each has the meaning given in the Public Sector Management Act 1994 section 3(1).
+employing authority and public sector body each has the meaning given in the Public Sector Management Act 1994 section 3(1).
 11C.Employees to whom s. 4B of the Act does not apply
 Section 4B of the Act does not apply to an employee who is any of the following —
 (a) an eligible Gold State worker within the meaning given in regulation 12;
@@ -206,22 +201,22 @@ the prescribed fund for an employee of that Employer is —
 then the prescribed fund for an employee of that Employer is —
 (c) the employee’s chosen fund; or
 (d) if there is no chosen fund, the fund established by the Employer.
-(10) If an Employer was, immediately before the transfer time, contributing for its employees to a superannuation fund that was established before 28 December 1989 (“pre-89 fund”) as permitted by section 30(2)(c) of the Act, the prescribed fund for an employee of that Employer is —
+(10) If an Employer was, immediately before the transfer time, contributing for its employees to a superannuation fund that was established before 28 December 1989 (pre-89 fund) as permitted by section 30(2)(c) of the Act, the prescribed fund for an employee of that Employer is —
 (a) the employee’s chosen fund; or
 (b) if there is no chosen fund, the pre-89 fund.
 11E.Additional contributions required under s. 4C of the Act
 (1) In this regulation —
-“over-OTE item”, for an employee, means a payment, benefit or allowance that —
+over-OTE item, for an employee, means a payment, benefit or allowance that —
 (a)is part of the employee’s remuneration within the meaning given in regulation 11F; but
 (b)is not part of the employee’s ordinary time earnings within the meaning given in the SG Act s. 6(1);
-“section 4B employee” means an employee for whom an Employer is required by section 4B of the Act to make contributions;
-“SG-exempt employee” means an employee who is not a section 4B employee because of sections 26 to 29 of the SG Act.
+section 4B employee means an employee for whom an Employer is required by section 4B of the Act to make contributions;
+SG-exempt employee means an employee who is not a section 4B employee because of sections 26 to 29 of the SG Act.
 (2) Under section 4C of the Act an employer must make additional contributions to the prescribed fund for each of the Employer’s section 4B employees of an amount equal to 9% of the monetary value, determined by the Employer, of each of the employee’s over-OTE items (if any).
 (3) Under section 4C of the Act an employer must make contributions to the prescribed fund for each of its SG-exempt employees of an amount equal to the contributions that the Employer would have been required to contribute under section 4B of the Act and under subregulation (2) if sections 26 to 29 of the SG Act were not in force.
 (4) A determination by an Employer as to the value of a non-monetary over-OTE item that would reduce the value of the item for a person who was an employee at the time the determination was made, does not apply to the employee unless the employee gives notice to the Employer consenting to its application to the employee.
 11F.Meaning of “remuneration”
 (1) For the purposes of the definition of “over-OTE item” in regulation 11E(1) —
-“remuneration” means all payments, benefits and allowances that —
+remuneration means all payments, benefits and allowances that —
 (a)an employee is entitled to in his or her capacity as an employee; and
 (b)the Employer has determined that the employee —
 (i)is likely to continue to be entitled to while the employee continues to hold the job held at the time of the certification; or
@@ -267,23 +262,23 @@ Regulation 12 is amended as follows:
 ”;
 (b) by inserting in the appropriate alphabetical positions —
 “
-“charge percentage” means the Employer’s charge percentage for the relevant Member, calculated in accordance with section 19 of the SGA Act before applying any reduction under section 22 or 23 of that Act;
-“contribution period” means the period selected under regulation 13A;
-“Division 1 Employer” means an Employer listed or referred to in Schedule 1 Division 1;
-“Division 2 Employer” means an Employer listed or referred to in Schedule 1 Division 2;
-“Member” means a Gold State Super Member;
-“partial and permanent disablement” means physical or mental incapacity to an extent that the Board considers that a Member is, and until turning 60 will remain —
+charge percentage means the Employer’s charge percentage for the relevant Member, calculated in accordance with section 19 of the SGA Act before applying any reduction under section 22 or 23 of that Act;
+contribution period means the period selected under regulation 13A;
+Division 1 Employer means an Employer listed or referred to in Schedule 1 Division 1;
+Division 2 Employer means an Employer listed or referred to in Schedule 1 Division 2;
+Member means a Gold State Super Member;
+partial and permanent disablement means physical or mental incapacity to an extent that the Board considers that a Member is, and until turning 60 will remain —
 (a)unable to perform the duties of the Member’s job; but
 (b)able to perform the duties of another job (in either the public sector or the private sector) for which the Board considers the Member —
 (i)is suited by reason of the Member’s education, training or experience; or
 (ii)would be suited if the Member was retrained;
-“remuneration” has the meaning given by regulations 16A and 16B;
-“salary sacrifice agreement” means an agreement under which an Employer agrees to pay, as part of a Member’s remuneration, contributions to the Fund that would otherwise be payable by the Member or that the Member has agreed to pay;
-“the Employer”, in relation to a worker, means the Employer for whom the worker works;
-“total and permanent disablement” means physical or mental incapacity to an extent that the Board considers that a Member is, and until turning 60 will remain, unable to perform the duties of any job (in either the public sector or the private sector) for which the Board considers the Member —
+remuneration has the meaning given by regulations 16A and 16B;
+salary sacrifice agreement means an agreement under which an Employer agrees to pay, as part of a Member’s remuneration, contributions to the Fund that would otherwise be payable by the Member or that the Member has agreed to pay;
+the Employer, in relation to a worker, means the Employer for whom the worker works;
+total and permanent disablement means physical or mental incapacity to an extent that the Board considers that a Member is, and until turning 60 will remain, unable to perform the duties of any job (in either the public sector or the private sector) for which the Board considers the Member —
 (a)is suited by reason of the Member’s education, training or experience; or
 (b)would be suited if the Member was retrained;
-“worker” means a person who is —
+worker means a person who is —
 (a)appointed under the Public Sector Management Act 1994 Part 3; or
 (b)the holder of an office or position established or continued under a written law, including a Member of the Legislative Council or a Member of the Legislative Assembly; or
 (c)appointed to an office or position by the Governor, a Minister, an Employer or another worker; or
@@ -315,7 +310,7 @@ After regulation 16 the following regulations are inserted —
 “
 16A.Meaning of “remuneration”
 (1) Subject to subregulation (6) and regulation 16B, in this Part —
-“remuneration” means the monetary value, determined by the Employer, of all payments, benefits and allowances that —
+remuneration means the monetary value, determined by the Employer, of all payments, benefits and allowances that —
 (a)a Member is entitled to in his or her capacity as a worker; and
 (b)the Employer, or a person authorised by the Employer, has certified that the Member —
 (i)is likely to continue to be entitled to while the Member continues to hold the job held at the time of the certification; or
@@ -377,12 +372,12 @@ Note:The heading to regulation 21 is to be altered by deleting “Minister” an
 After regulation 44B(6) the following subregulation is inserted —
 “
 (7) In this regulation —
-“phased retirement benefit” means a benefit from a superannuation fund that is only payable if it is paid as a benefit of a kind referred to in Schedule 1 item 110 column 3 of the SIS Regulations.
+phased retirement benefit means a benefit from a superannuation fund that is only payable if it is paid as a benefit of a kind referred to in Schedule 1 item 110 column 3 of the SIS Regulations.
 ”.
 14.Regulation 47A amended
 (1) Regulation 47A(8) is amended by inserting in the appropriate alphabetical position —
 “
-“condition of release” means a condition of release specified in the SIS Regulations Schedule 1;
+condition of release means a condition of release specified in the SIS Regulations Schedule 1;
 ”.
 (2) After regulation 47A(8) the following subregulation is inserted —
 “
@@ -394,12 +389,12 @@ Regulation 48(3a)(a) is amended by deleting “was a partner,” and inserting i
 16.Regulation 49A amended
 Regulation 49A(6) is amended by inserting in the appropriate alphabetical position —
 “
-“contributions tax” means tax imposed by the Superannuation Contributions Tax Imposition Act 1997 or Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Imposition Act 1997 of the Commonwealth;
+contributions tax means tax imposed by the Superannuation Contributions Tax Imposition Act 1997 or Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Imposition Act 1997 of the Commonwealth;
 ”.
 17.Regulation 219A amended
 Regulation 219A(1) is amended by inserting in the appropriate alphabetical position —
 “
-“Member” means a Gold State Super Member;
+Member means a Gold State Super Member;
 ”.
 18.Regulation 219D amended
 Regulation 219D(3)(c) is amended by deleting “within the meaning given in section 42(1) of the Act”.
@@ -442,7 +437,7 @@ Part 7 is repealed and the following Part is inserted instead —
 Part 7 — State Superannuation Board
 225.Term used in this Part
 In this Part —
-“Member director” means a person appointed to the Board under section 8(1)(b)(ii) of the Act.
+Member director means a person appointed to the Board under section 8(1)(b)(ii) of the Act.
 226.Number of directors
 For the purposes of section 8(1) of the Act the prescribed number of directors is 7.
 227.Member directors to be appointed
@@ -452,7 +447,7 @@ For the purposes of section 8(1) of the Act the prescribed number of directors i
 (4) If the office of a Member director becomes vacant and a new director is not appointed under subregulation (1) within 60 days, the Treasurer may, after consulting with UnionsWA, appoint a person to fill the vacancy.
 228.Eligibility requirements
 (1) In this regulation —
-“APRA standards” means the criteria for fitness and propriety set out in the prudential standards made for the purposes of the Banking Act 1959 (Commonwealth) section 23(2)(b) for fitness and propriety of directors of authorised deposit taking institutions.
+APRA standards means the criteria for fitness and propriety set out in the prudential standards made for the purposes of the Banking Act 1959 (Commonwealth) section 23(2)(b) for fitness and propriety of directors of authorised deposit taking institutions.
 (2) A person is not eligible to be appointed as a Member director if the person —
 (a) is an insolvent under administration as defined in the Corporations Act; or
 (b) has, within the previous 5 years, been removed from office as a director under Schedule 1 clause 6(2) of the Act; or
@@ -468,7 +463,7 @@ Regulation 243(a) is deleted and the following is inserted instead —
 After regulation 244(3) the following subregulation is inserted —
 “
 (4) In this regulation —
-“former member” means a person who is not a Member nor a pensioner under the S&FB Act, but who has been —
+former member means a person who is not a Member nor a pensioner under the S&FB Act, but who has been —
 (a)a Member; or
 (b)a contributor or qualified contributor under the S&FB Act; or
 (c)a subscriber or contributor to the Provident Account under Part VA of the S&FB Act.
@@ -507,7 +502,7 @@ The following schemes previously established by these regulations terminate at t
 (2) The Schedule heading is amended by deleting “and West State Super Members”.
 (3) Clause 13 is amended by deleting the definition of “relevant regulations” and inserting instead —
 “
-“relevant regulations” means in relation to a person who, immediately before becoming an ASIC worker, was a contributory member under the GES Act — so much of these regulations as relate to the Gold State Super Scheme.
+relevant regulations means in relation to a person who, immediately before becoming an ASIC worker, was a contributory member under the GES Act — so much of these regulations as relate to the Gold State Super Scheme.
 ”.
 33.Schedule 3 amended
 (1) The amendments in this regulation are to Schedule 3.
