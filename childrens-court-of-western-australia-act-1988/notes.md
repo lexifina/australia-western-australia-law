@@ -33,11 +33,11 @@ Reprint 4: The Children’s Court of Western Australia Act 1988 as at 21 Apr 200
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 6 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Criminal Law and Evidence Amendment Act 2008 s. 57 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+Acts Amendment (Justice) Act 2008 Pt. 2 | 5 of 2008 | 31 Mar 2008 | 31 Jul 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Acts Amendment (Justice) Act 2008 Pt. 2 | 5 of 2008 | 31 Mar 2008 | 31 Jul 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Cross-border Justice Act 2008 Pt. 15 Div. 1 | 7 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(b))
 Parental Support and Responsibility Act 2008 s. 43 | 14 of 2008 | 15 Apr 2008 | To be proclaimed (see s. 2)
 Legal Profession Act 2008 s. 643 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
@@ -55,41 +55,6 @@ Children’s Court of Western Australia Act 1988 | s. 7(4)
 ...................... | ........
 ”.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 2 had not come into operation. It reads as follows:
-“
-Part 2 — Children’s Court of Western Australia Act 1988 amended
-3.The Act amended in this Part
-The amendments in this Part are to the Children’s Court of Western Australia Act 1988.
-4.Section 21 amended
-(1) Before section 21(2) the following subsection is inserted —
-“
-(1) In this section —
-“detention” has the meaning given to that term by section 3 of the Young Offenders Act 1994.
-”.
-(2) Section 21(2) and (3) are repealed and the following subsection is inserted instead —
-“
-(2) The Court when constituted by or so as to include a magistrate cannot —
-(a) sentence an offender to a term of detention longer than 12 months; or
-(b) sentence an offender who at the time of being sentenced is under 18 years of age to a term of imprisonment longer than 3 months; or
-(c) sentence an offender who at the time of being sentenced has reached 18 years of age to a term of imprisonment longer than 6 months,
-for one offence, or as the aggregate of the sentences imposed on the one occasion for more than one offence.
-”.
-(3) Section 21(4)(a) is amended by deleting “be detained in a detention centre” and inserting instead —
-“ detention ”.
-5.Section 39A inserted
-After section 39 the following section is inserted in Part 4 —
-“
-39A.Judgments, enforcement of
-(1) In this section —
-“judgment” means a judgment, order, direction or decision of the Court given or made in the exercise of its non-criminal jurisdiction.
-(2) A person to whom money is to be paid under a judgment may enforce it by lodging a copy of it, certified by a registrar, and an affidavit stating to what extent it has not been complied with, with a court of competent jurisdiction.
-(3) If, or to the extent that, a judgment does not require the payment of money, a person entitled to the benefit of the judgment may enforce it by lodging a copy of it, certified by a registrar, and an affidavit stating to what extent it has not been complied with, with the Magistrates Court.
-(4) A judgment that is lodged with another court under subsection (2) or (3) is to be taken to be a judgment of the other court and may be enforced accordingly.
-”.
-6.Section 40 amended
-Section 40(3) is amended by deleting “sentence of detention,” and inserting instead —
-“ custodial sentence, ”.
-”.
 On the date as at which this compilation was prepared, the Cross-border Justice Act 2008, Pt. 15 Div. 1 had not come into operation. It reads as follows:
 “
 Part 15 — Consequential amendments to other legislation
@@ -167,7 +132,7 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (1) The amendments in this section are to the Children’s Court of Western Australia Act 1988.
 (2) Section 3(1) is amended by inserting in the appropriate alphabetical position —
 “
-“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”.
 (3) Section 3(2)(a) and (b) are deleted and the following is inserted instead —
 “

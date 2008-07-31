@@ -33,10 +33,10 @@ Parole and Sentencing Legislation Amendment Act 2006 Pt. 5 | 41 of 2006 | 22 Sep
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 13 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Road Traffic Amendment (Drugs) Act 2007 Pt. 3 | 6 of 2007 | 23 May 2007 | 12 Oct 2007 (see s. 2 and Gazette 11 Oct 2007 p. 5475)
 Road Traffic Amendment Act (No. 2) 2007 Pt. 3 | 39 of 2007 | 21 Dec 2007 | 15 Mar 2008 (see s. 2(k) and Gazette 14 Mar 2008 p. 829)
+Acts Amendment (Justice) Act 2008 s. 132 | 5 of 2008 | 31 Mar 2008 | 31 Jul 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Justice) Act 2008 s. 132 | 5 of 2008 | 31 Mar 2008 | 31 Jul 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Prostitution Amendment Act 2008 s. 36 | 13 of 20080 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Parental Support and Responsibility Act 2008 s. 44 | 14 of 2008 | 15 Apr 2008 | To be proclaimed (see s. 2)
 Legal Profession Act 2008 s. 714 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
@@ -80,15 +80,7 @@ In this Schedule —
 (1) A person who was appointed by the Minister under the Act as an overseer, or as an officer or employee without custodial functions, before commencement, and who is still employed immediately before commencement, is to be regarded, on commencement, as having been appointed by the chief executive officer under section 11(1a)(b) of the principal Act (as amended by this Act), on the same terms and conditions, including as to remuneration, as those which applied to the person immediately before commencement.
 (2) A person to whom subclause (1) applies retains all existing and accruing rights and benefits as if the person’s employment, for the purposes of the principal Act, were a continuation of the person's employment immediately before commencement.
 ”.
-On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 s. 132 had not come into operation. It reads as follows:
-“
-132.Young Offenders Act 1994 amended
-(1) The amendments in this section are to the Young Offenders Act 1994.
-(2) Section 96 is amended by deleting “6 months” and inserting instead —
-“ 12 months ”.
-(3) Section 118(2) is amended by inserting after “person to” —
-“ a term of imprisonment or ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 36 had not come into operation. It reads as follows:
 “
 36.Young Offenders Act 1994 amended
