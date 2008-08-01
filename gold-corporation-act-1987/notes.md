@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Gold Corporation Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 August 2008 of the Gold Corporation Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Gold Banking Corporation Act 1987 | 99 of 1987 | 18 Dec 1987 | Sch. 3 cl. 1(1): 1 Jul 1987 (see Sch. 3 cl. 1(2)); balance: 30 Jun 1988 (see s. 2 and Gazette 30 Jun 1988 p. 2133)
+Gold Banking Corporation Act 1987 | 99 of 1987 | 18 Dec 1987 | s. 1 and 2: 18 Dec 1987; Sch. 3 cl. 1(1): 1 Jul 1987 (see Sch. 3 cl. 1(2)); Act other than s. 1 and 2 and Sch. 3 cl. 1(1): 30 Jun 1988 (see s. 2 and Gazette 30 Jun 1988 p. 2133)
 Gold Banking Corporation Amendment Act 1988 | 5 of 1988 | 29 Jun 1988 | 29 Jun 1988 (see s. 2)
 Acts Amendment (Gold Banking Corporation) Act 1990 Pt. 2 | 10 of 1990 | 31 Jul 1990 | 28 Sep 1990 (see s. 2 and Gazette 28 Sep 1990 p. 4981)
 Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
@@ -20,9 +20,10 @@ Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 8 | 70 of 2003 | 15 
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Gold Corporation Act 1987 as at 10 Jun 2005 (includes amendments listed above)
-Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Reprint 4: The Gold Corporation Act 1987 as at 1 Aug 2008 (includes amendments listed above)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -34,15 +35,6 @@ The Superannuation and Family Benefits Act 1938 was repealed by the State Supera
 Under the Public Sector Management Act 1994 s. 112(1), a reference in a written law to the Public Service Act 1978 is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 69 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(8).
 Now known as the Gold Corporation Act 1987; short title changed (see note under s. 1).
-On the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 46(2) had not come into operation. It reads as follows:
-“
-46.Gold Corporation Act 1987 amended
-(2) Schedule 2 of the Gold Corporation Act 1987 is amended as follows:
-(a) in clause 1 by deleting the definitions of “contributor” and “service”;
-(b) in clause 3(2)(c) by deleting “in a permanent capacity by any Crown instrumentality or other body which is, or is deemed to be, a department for the purposes of the Superannuation and Family Benefits Act 1938 or”;
-(c) in clause 4(1) by deleting “or otherwise was a contributor to units of pension or to the Provident Account under the Superannuation and Family Benefits Act 1938” and “or any existing accruing rights under the Superannuation and Family Benefits Act 1938”;
-(d) by deleting clause 4(2) and (3).
-”.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 12 reads as follows:
 “
 Division 12 — Transitional provisions
@@ -56,6 +48,64 @@ has the same effect after commencement, to the extent that it has any force or s
 (b) section 16(2)(a) or 21(2), (4), (5) or (6) of the Gold Corporation Act 1987,
 has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the Minister.
 (3) In this section —
-“commencement” means the time at which this Division comes into operation;
-“Minister” means the Minister to whom the administration of the Western Australian Treasury Corporation Act 1986 is committed.
+commencement means the time at which this Division comes into operation;
+Minister means the Minister to whom the administration of the Western Australian Treasury Corporation Act 1986 is committed.
 ”.
+On the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 46(2) had not come into operation. It reads as follows:
+“
+46.Gold Corporation Act 1987 amended
+(2) Schedule 2 of the Gold Corporation Act 1987 is amended as follows:
+(a) in clause 1 by deleting the definitions of “contributor” and “service”;
+(b) in clause 3(2)(c) by deleting “in a permanent capacity by any Crown instrumentality or other body which is, or is deemed to be, a department for the purposes of the Superannuation and Family Benefits Act 1938 or”;
+(c) in clause 4(1) by deleting “or otherwise was a contributor to units of pension or to the Provident Account under the Superannuation and Family Benefits Act 1938” and “or any existing accruing rights under the Superannuation and Family Benefits Act 1938”;
+(d) by deleting clause 4(2) and (3).
+”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+Australian currency3(1)
+benefitSch. 2 cl. 1
+Board3(1)
+business undertaking3(1)
+cash equivalent22(2)
+chief executive officer3(1)
+contributorSch. 2 cl. 1
+Corporations Act3(1)
+deputy chief executive officer3(1)
+director3(1)
+document6(11)
+employeeSch. 2 cl. 1
+employees70(3)
+established personSch. 2 cl.1
+foreign currency3(1)
+Gold Bank3(1)
+Gold Corporation3(1)
+GoldCorp3(1)
+Imperial conditionsSch. 2 cl. 1
+Imperial schemeSch. 2 cl. 1
+industry3(1)
+information6(11), 74(6)
+leaveSch. 2 cl. 1
+minerals3(1)
+Mint3(1)
+money3(1)
+officer72(3)
+parliamentary purposes6(11)
+qualified contributorSch. 2 cl. 1
+record74(6)
+repealed Act3(1)
+Royal Mint employeeSch. 2 cl. 1
+serviceSch. 2 cl. 1
+specified75(4)
+statutory authority3(1)
+subsidiary3(1)
+the Account3(1)
+the Deputy MasterSch. 2 cl. 1
+The Director of The Perth Mint3(1), Sch. 2 cl. 1
+the Mint47(5)(f)
+the Royal Mint3(1), Sch. 2 cl. 1
+to divulge74(6)
+to produce74(6)
+Treasurer3(1)
+Treasury3(1)
+unestablished personSch. 2 cl. 1
