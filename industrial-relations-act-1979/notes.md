@@ -67,6 +67,7 @@ Labour Relations Legislation Amendment Act 2006 Pt. 3-5 and 8 | 36 of 2006 | 4 J
 Reprint 11: The Industrial Relations Act 1979 as at 3 Nov 2006 (includes amendments listed above except those in the Petroleum Legislation Amendment and Repeal Act 2005)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | 1 Aug 2008 (see s. 2 and Gazette 18 Jul 2008 p. 3329)
 Petroleum Amendment Act 2007 s. 97 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Police Amendment Act 2008 s. 13 and 23(3) | 8 of 2008 | 31 Mar 2008 | s. 13: 1 Apr 2008 (see s. 2(1)) s. 23(3): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
@@ -75,7 +76,6 @@ Short title | Number and year | Assent | Commencement
 Vocational Education and Training Act 1996 s. 62 | 42 of 1996 | 16 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
-Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | 1 Aug 2008 (see s. 2 and Gazette 18 Jul 2008 p. 3329)
 Acts Amendment (Justice) Act 2008 Pt. 13 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 668 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
@@ -98,8 +98,8 @@ may be dealt with by the Commission as if section 7F had not been repealed.
 117.Section 38 amended and a savings provision
 (2) If an employer was added as a named party to an award under former section 38(3) before the commencement day, the scope of that award is not varied by reason only of the coming into operation of subsection (1).
 (3) In this section —
-“commencement day” means the day on which subsection (1) comes into operation;
-“former section 38(3)” means section 38(3) of the Industrial Relations Act 1979 as it was in effect immediately before the commencement day.
+commencement day means the day on which subsection (1) comes into operation;
+former section 38(3) means section 38(3) of the Industrial Relations Act 1979 as it was in effect immediately before the commencement day.
 138.Section 23A replaced by sections 23A and 23B and transitional provision
 (2) Notwithstanding subsection (1), section 23A of the Industrial Relations Act 1979 as in force immediately before the coming into operation of this section continues to operate in respect of any claim made under that section before the coming into operation of this section.
 140.Section 29AA inserted and a transitional provision
@@ -117,10 +117,10 @@ may be dealt with by the Commission as if section 7F had not been repealed.
 (2) Until remuneration becomes payable to a member of the Commission pursuant to the first determination, the member is to receive remuneration at the rate that would be applicable to that member if the former provisions were still in operation.
 (3) Despite any determination under section 6 of the Salaries and Allowances Act 1975, while a person who was a member of the Commission at the time of the publication of the first determination in the Government Gazette remains a member he or she is to receive remuneration at a rate that is not less than the rate that was applicable to him or her immediately before that time.
 (4) In this section —
-“first determination” means the first determination made under section 6 of the Salaries and Allowances Act 1975 that gives effect to the amendment made by subsection (1);
-“former provisions” means section 20(1) to (6) of the Industrial Relations Act 1979 as they were in effect immediately before the coming into operation of subsection (1);
-“member of the Commission” has the meaning given by the Industrial Relations Act 1979;
-“remuneration” has the meaning given by the Salaries and Allowances Act 1975.
+first determination means the first determination made under section 6 of the Salaries and Allowances Act 1975 that gives effect to the amendment made by subsection (1);
+former provisions means section 20(1) to (6) of the Industrial Relations Act 1979 as they were in effect immediately before the coming into operation of subsection (1);
+member of the Commission has the meaning given by the Industrial Relations Act 1979;
+remuneration has the meaning given by the Salaries and Allowances Act 1975.
 Schedule 1 — Transitional minimum weekly rates of pay
 [s. 168]
 1.Interpretation
@@ -169,10 +169,10 @@ The Labour Relations Legislation Amendment Act 2006 s. 22 reads as follows:
 “
 22.Transitional provisions
 (1) In this section —
-“commencement day” means the day on which Part 4 of the Labour Relations Legislation Amendment Act 2006 comes into operation;
-“section 50A” means section 50A of the Industrial Relations Act 1979 as in force immediately after the commencement day;
-“section 51” means section 51 of the Industrial Relations Act 1979 as in force immediately before the commencement day;
-“State Wage order” means a General Order made under section 50A.
+commencement day means the day on which Part 4 of the Labour Relations Legislation Amendment Act 2006 comes into operation;
+section 50A means section 50A of the Industrial Relations Act 1979 as in force immediately after the commencement day;
+section 51 means section 51 of the Industrial Relations Act 1979 as in force immediately before the commencement day;
+State Wage order means a General Order made under section 50A.
 (2) Any —
 (a) General Order of effect under section 51; and
 (b) order of effect under section 51F of the Industrial Relations Act 1979 as in force immediately before the commencement day,
@@ -215,11 +215,11 @@ an apprenticeship contract or other agreement forming part of a training scheme 
 and
 (e) by inserting after the definition of “teacher” the following definition —
 “
-“trainee” means a trainee under a training scheme established under the Vocational Education and Training Act 1996;
+trainee means a trainee under a training scheme established under the Vocational Education and Training Act 1996;
 ”.
 2.Transitional
 (1) In this clause —
-“repealed Act” means the Industrial Training Act 1975 repealed by section 61.
+repealed Act means the Industrial Training Act 1975 repealed by section 61.
 (2) On the commencement of section 61 any apprenticeship agreement or industrial training agreement entered into and registered under the repealed Act and in force immediately before that commencement is to be taken to be an agreement entered into under a training scheme established or recognised under section 58 but with the same terms, conditions and provisions as were applicable before that commencement.
 (3) Any regulations made under the repealed Act and in operation immediately before the commencement of section 61 which were applicable to, or in respect of, an apprenticeship or industrial training agreement referred to in subclause (2) are to continue to apply to such an agreement, until regulations are made under this Act in respect of the matters covered by those regulations.
 (4) Regulations may be made, with effect from a time which is not earlier than the commencement of section 61, amending or supplementing the transitional provisions set out in subclauses (2) and (3) for the purpose of providing an effective and efficient transition from the provisions of the repealed Act to the provisions of this Act.
@@ -232,24 +232,7 @@ On the date as at which this compilation was prepared, the Petroleum Legislation
 (4) Section 113(1)(d)(ii) is amended as follows:
 (a) after item (I) by deleting “and”;
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Owner-Drivers (Contracts and Disputes) Act 2007 s. 58, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-58.Consequential amendments
-The Acts mentioned in Schedule 3 are amended as set out in that Schedule.
-”.
-Schedule 3 cl. 1 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 58]
-1.Industrial Relations Act 1979 amended
-(1) The amendments in this clause are to the Industrial Relations Act 1979.
-(2) Section 113(1)(d)(ii) is amended after item (II) by inserting —
-“
-and
-(III) the Owner-Drivers (Contracts and Disputes) Act 2007;
-”.
-”.
+Footnotes no longer applicable.
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 13 had not come into operation. It reads as follows:
 “
 Part 13 — Industrial Relations Act 1979 amended
@@ -268,8 +251,8 @@ After section 81CA the following section is inserted —
 “
 81CB.Industrial magistrate’s court judgments, enforcement of
 (1) In this section —
-“general jurisdiction” has the meaning given to that term by section 81CA;
-“judgment” includes an order, direction or decision.
+general jurisdiction has the meaning given to that term by section 81CA;
+judgment includes an order, direction or decision.
 (2) A person to whom money is to be paid under a judgment of an industrial magistrate’s court made in the exercise of general jurisdiction may enforce it by lodging a copy of it, certified by a clerk of the court, and an affidavit stating to what extent it has not been complied with, with a court of competent jurisdiction.
 (3) If, or to the extent that, a judgment of an industrial magistrate’s court made in the exercise of general jurisdiction does not require the payment of money, a person entitled to the benefit of the judgment may enforce it by lodging a copy of it, certified by a clerk of the court, and an affidavit stating to what extent it has not been complied with, with the Magistrates Court.
 (4) A judgment that is lodged with a court under subsection (2) or (3) is to be taken to be a judgment of that court and may be enforced accordingly.
@@ -289,14 +272,14 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (1) The amendments in this section are to the Industrial Relations Act 1979.
 (2) Section 7(1) is amended by deleting the definition of “legal practitioner” and inserting instead —
 “
-“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”.
 (3) Section 9(1) is repealed and the following subsections are inserted instead —
 “
 (1) A person is not eligible for appointment as the President unless the person is a lawyer and has had not less than 5 years’ legal experience.
 (1aa) In subsection (1) —
-“lawyer” means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
-“legal experience” means —
+lawyer means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
+legal experience means —
 (a)standing and practice as a legal practitioner; or
 (b)judicial service (including service as a judge of a court, a magistrate or other judicial officer) in the State or elsewhere in a common law jurisdiction; or
 (c)a combination of both kinds of legal experience mentioned in paragraphs (a) and (b).

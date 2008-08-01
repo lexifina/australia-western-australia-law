@@ -191,7 +191,7 @@ Compilation table
  | Censorship Amendment Act 2003 s. 43 | 30 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
  | Public Transport Authority Act 2003 s. 202 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
  | Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 20, 50, 68(1), 116(1) and 221(1) | 35 of 2003 | 26 Jun 2003 | s. 20, 68(1), and 221(1): 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259); s. 50 and 116(1): 30 Jan 2004 (see s. 2 and Gazette 30 Jan 2004 p. 397)
- | Corruption and Crime Commission Act 2003 s. 62 | 48 of 2003 | 3 Jul 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+ | Corruption and Crime Commission Act 2003 s. 62 (renumbered s. 338 by No. 78 of 2003 s. 35(13)) | 48 of 2003 | 3 Jul 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
  | Sentencing Legislation Amendment and Repeal Act 2003 s. 29(3) | 50 of 2003 | 9 Jul 2003 | 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833)
  | Reprint 12: The Constitution Acts Amendment Act 1899 as at 3 Oct 2003 (includes amendments listed above except those in the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 50 and 116(1) and the Corruption and Crime Commission Act 2003)
  | Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
@@ -237,6 +237,7 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Electoral Legislation Amendment Act 2006 Pt. 2 | 64 of 2006 | 8 Dec 2006 | 5 Mar 2007 (see s. 2(2) and Gazette 2 Mar 2007 p. 689)
  | Liquor and Gaming Legislation Amendment Act 2006 s. 116 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
  | Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+ | Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | 1 Aug 2008 (see s. 2 and Gazette 18 Jul 2008 p. 3329)
  | Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
  | Child Care Services Act 2007 Pt. 7 Div. 2 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
  | Reprint 15: The Constitution Acts Amendment Act 1899 as at 2 Aug 2007 (includes amendments listed above except those in the Child Care Services Act 2007 and the Nurses and Midwives Act 2006)
@@ -248,7 +249,6 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 s. 57 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | 1 Aug 2008 (see s. 2 and Gazette 18 Jul 2008 p. 3329)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22, 35 and 51 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Legal Profession Act 2008 s. 650 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
@@ -320,7 +320,7 @@ The Criminal Law Amendment (Simple Offences) Act 2004 s. 81(4) and (5) read as f
 (b) is not prevented from completing his or her current term as a member,
 by reason only of a conviction that occurred before the commencement.
 (5) In subsection (4) —
-“commencement” means the commencement of this section.
+commencement means the commencement of this section.
 ”.
 On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 1991 s. 57, which gives effect to the Schedule, had not come into operation. It reads as follows:
 “
@@ -361,22 +361,7 @@ Schedule 3 — Consequential amendments
 The Medical Board of Western Australia established under the Medical Practitioners Act 2008.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Owner-Drivers (Contracts and Disputes) Act 2007 s. 58, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-58.Consequential amendments
-The Acts mentioned in Schedule 3 are amended as set out in that Schedule.
-”.
-Schedule 3 cl. 2 reads as follows:
-“
-Schedule 3 — Consequential amendments
-[s. 58]
-2.Constitution Acts Amendment Act 1899 amended
-(1) The amendment in this clause is to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended by inserting after the item relating to the Road Safety Council the following item —
-“
-The Road Freight Transport Industry Council established under the Owner-Drivers (Contracts and Disputes) Act 2007.
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22, 35 and 51 had not come into operation. They read as follows:
 “
 22.Constitution Acts Amendment Act 1899 amended
