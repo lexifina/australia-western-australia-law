@@ -5,21 +5,22 @@ Cremation Act 1929
 APPLICATION FOR A LICENCE TO USE AND CONDUCT A CREMATORIUM
 Regulation 4
 To His Excellency the Governor of Western Australia:
-1.The trustees and the controlling authority of the ...............................
-Cemetery, being a public cemetery appointed under the Cemeteries Act 1897 (or the ............................... being an association incorporated under the Associations
+1.The trustees and the controlling authority of the .......................................
+Cemetery, being a public cemetery appointed under the Cemeteries Act 1897 (or the ............................................. being an association incorporated under the Associations
 Incorporation Act 1895, established and constituted in connection with the cremation of dead human bodies, and holding a certificate under the hand of the Executive Director that the association is an association to which the provisions of section 4 of the Act may reasonably be extended), hereby apply for a licence to use and conduct a crematorium under and in accordance with the provisions of the Act, at and in the cemetery at the site next mentioned.
 2.The buildings to be used as the crematorium have been erected upon (or will be erected upon) that portion of the area of the said cemetery which has been defined and set apart by the trustees of the cemetery as a site for the crematorium, namely: —
 .............................................................................................................................................
 .............................................................................................................................................
 and shown on the attached plan.
-3.This application is accompanied by the statutory declaration of
+3.This application is accompanied by the statutory declaration of ................
 ..................................................................., of ..................................................................,
-in the State of Western Australia, ....................................................... as required by section 4(2) of the Act, and by the sum of ................................ the fee for the licence hereby applied for.
+in the State of Western Australia, ............................................................... as required by section 4(2) of the Act, and by the sum of ...................................... the fee for the licence hereby applied for.
 4.The applicant undertakes that within one year from the date on which the licence is granted they (or it) will obtain the certificate of the Executive Director, Public Health and Scientific Support Services required by section 4(3) of the Act.
 Dated the ....................................... day of .......................................................... , 20.........
 For and on behalf of the applicant,
-....................................................................
+...................................................................
 Chairman.
+[Form 1 amended in Gazette 29 Jun 1984 p. 1781.]
 Form 2
 Western Australia
 Cremation Act 1929
@@ -28,12 +29,13 @@ LICENCE TO USE AND CONDUCT A SPECIFIED CREMATORIUM
 Whereas by an application bearing the date................................................., day of ..............................., 20 ........, .............................................................................................
 .............................................................................................................................................
 .............................................................................................................................................
-being the trustees duly appointed under the provisions of the Cemeteries Act 1897, as the Trustees and controlling body of the .........................................................Cemetery, a public cemetery duly proclaimed under the provisions of the Cemeteries Act 1897, applied to His Excellency the Governor in Council for a licence under the provisions of the Cremation Act 1929, to the trustees and controlling body of the said ...................................................................... Cemetery, upon a site thereon, as defined in the said application, and whereas the applicants have satisfied His Excellency the Governor in accordance with the provisions of section 4 of the Cremation Act 1929, that the said trustees or controlling body of the said ..................................... Cemetery have sufficient authority to use the proposed site in the said cemetery for the purpose of a crematorium, that the crematorium not yet being established the Executive Director, Public Health and Scientific Support Services has approved of the plans and specifications of the proposed building, fittings, works and apparatus to be built and used for the purposes of the said crematorium, and that in all other respects the requirements of section 4 of the Cremation Act 1929, have been duly complied with: Now, therefore, His Excellency the Governor, acting with the advice and consent of the Executive Council, and in exercise of the powers conferred by section 4 of the Cremation Act 1929, doth by these presents grant to the trustees and controlling body for the time being and from time to time of the ...................................... Cemetery, but subject as hereinafter provided, a licence to use and conduct a crematorium within the said ................................ Cemetery, upon the site therein defined in the aforementioned application, to be established in accordance with the plans and specifications of the proposed building, fittings, works, and apparatus which have been approved by the Executive Director, Public Health and Scientific Support Services as aforesaid: Provided that the licence hereby granted shall be held and the said crematorium shall be used and conducted under and subject to the provisions of the Cremation Act 1929, and that the licence hereby granted shall not have any validity or effect unless and until the Executive Director, Public Health and Scientific Support Services shall certify within one year of the granting of this licence that the buildings, fittings, works, and apparatus have been erected and installed in accordance with the plans and specifications which have been approved by him as aforesaid and that the regulations have been complied with.
+being the trustees duly appointed under the provisions of the Cemeteries Act 1897, as the Trustees and controlling body of the ........................................................... Cemetery, a public cemetery duly proclaimed under the provisions of the Cemeteries Act 1897, applied to His Excellency the Governor in Council for a licence under the provisions of the Cremation Act 1929, to the trustees and controlling body of the said ........................ ................................... Cemetery, upon a site thereon, as defined in the said application, and whereas the applicants have satisfied His Excellency the Governor in accordance with the provisions of section 4 of the Cremation Act 1929, that the said trustees or controlling body of the said ..................................... Cemetery have sufficient authority to use the proposed site in the said cemetery for the purpose of a crematorium, that the crematorium not yet being established the Executive Director, Public Health and Scientific Support Services has approved of the plans and specifications of the proposed building, fittings, works and apparatus to be built and used for the purposes of the said crematorium, and that in all other respects the requirements of section 4 of the Cremation Act 1929, have been duly complied with: Now, therefore, His Excellency the Governor, acting with the advice and consent of the Executive Council, and in exercise of the powers conferred by section 4 of the Cremation Act 1929, doth by these presents grant to the trustees and controlling body for the time being and from time to time of the ...................................... Cemetery, but subject as hereinafter provided, a licence to use and conduct a crematorium within the said ....................................... Cemetery, upon the site therein defined in the aforementioned application, to be established in accordance with the plans and specifications of the proposed building, fittings, works, and apparatus which have been approved by the Executive Director, Public Health and Scientific Support Services as aforesaid: Provided that the licence hereby granted shall be held and the said crematorium shall be used and conducted under and subject to the provisions of the Cremation Act 1929, and that the licence hereby granted shall not have any validity or effect unless and until the Executive Director, Public Health and Scientific Support Services shall certify within one year of the granting of this licence that the buildings, fittings, works, and apparatus have been erected and installed in accordance with the plans and specifications which have been approved by him as aforesaid and that the regulations have been complied with.
 Dated at Perth in the State of Western Australia this ..............................................
 day of ...................................................., 20 ...........
 By His Excellency’s Command,
 ....................................................................
 Minister.
+[Form 2 amended in Gazette 29 Jun 1984 p. 1781.]
 Form 3
 Western Australia
 Cremation Act 1929
@@ -48,6 +50,7 @@ day of ................................................... 20 .............
 By His Excellency’s Command.
 ....................................................................
 Minister for Health.
+[Form 3 amended in Gazette 29 Jun 1984 p. 1781.]
 Form 4
 Western Australia
 Cremation Act 1929
@@ -57,12 +60,13 @@ EFFECT TO A LICENCE GRANTED TO USE AND CONDUCT A
 CREMATORIUM
 Regulation 6
 To the Executive Director, Public Health and Scientific Support Services.
-The trustees and controlling authority of the ............................... cemetery (or the ............................................. ) being the licensees named in the licence to use and conduct a crematorium on a site in the said cemetery, granted under the provisions of the Cremation Act 1929, to the licensee on ...................................... hereby apply for your certificate as required by section 4(3) of the Act, that the necessary buildings, fittings, works and apparatus for the said crematorium have been erected and installed in accordance with the approved plans and specifications and that the relative regulations have been complied with.
-The sum of ................................ being the prescribed fee accompanies this application.
+The trustees and controlling authority of the ........................................... cemetery (or the ............................................. ) being the licensees named in the licence to use and conduct a crematorium on a site in the said cemetery, granted under the provisions of the Cremation Act 1929, to the licensee on ............................................ hereby apply for your certificate as required by section 4(3) of the Act, that the necessary buildings, fittings, works and apparatus for the said crematorium have been erected and installed in accordance with the approved plans and specifications and that the relative regulations have been complied with.
+The sum of ........................................... being the prescribed fee accompanies this application.
 Dated this ................................ day of .........................................., 20 ........
 For and on behalf of the applicant.
 ..............................................................
 Chairman.
+[Form 4 amended in Gazette 29 Jun 1984 p. 1781.]
 Form 5
 Western Australia
 Cremation Act 1929
@@ -76,34 +80,35 @@ Dated the ................................ day of ..............................
 Executive Director,
 Public Health and
 Scientific Support Services.
+[Form 5 amended in Gazette 29 Jun 1984 p. 1781.]
 Form 6
 Application for Permit to Cremate | Cremation Act 1929 Form 6
 Applicant | Name
- | Address ______________________________________________
+ | Address
 Deceased | Name
- | Address ______________________________________________
+ | Address
  | Date of birth / / Male/Female
  | Marital status
  | Occupation
-(*“Nearest surviving relative” is explained at the end of this form.) | Nearest surviving relative* (if known) Name _____________________________________________ Relationship ________________________________________
-Usual doctor Name _____________________________________________ Address ___________________________________________
- | Doctor(s) who attended deceased during his or her last illness Name______________________________________________ Address ___________________________________________
-Instructions from deceased | Did the deceased leave any written directions about how his or her remains were to be dealt with? No Yes. Give details _________________________________ ______________________________________________
-Objections | Do you know of anyone who objects to the deceased’s remains being cremated? No Yes. Give detail of that person: Name _________________________________________ Relationship to deceased __________________________ Address _______________________________________
+(*“Nearest surviving relative” is explained at the end of this form.) | Nearest surviving relative* (if known) Name Relationship
+Usual doctor Name Address
+ | Doctor(s) who attended deceased during his or her last illness Name Address
+Instructions from deceased | Did the deceased leave any written directions about how his or her remains were to be dealt with? No Yes. Give details
+Objections | Do you know of anyone who objects to the deceased’s remains being cremated? No Yes. Give detail of that person: Name Relationship to deceased __________________________ Relationship to deceased Address
 Coroner | Has the Coroner conducted an investigation or inquest into the deceased’s death? Yes NoUnsure
-Applicant’s relationship to deceased (*“Nearest surviving relative” is explained at the end of this form.) | Administrator of the deceased Nearest surviving relative* of the deceased Other ___________________________________________ If you are not the Administrator, why are you making the application instead of the Administrator?____________________ ___________________________________________________
+Applicant’s relationship to deceased (*“Nearest surviving relative” is explained at the end of this form.) | Administrator of the deceased Nearest surviving relative* of the deceased Other If you are not the Administrator, why are you making the application instead of the Administrator?
 Details of death | Date / /20 Time a.m./p.m.
-Place where deceased died Home Address ______________________________________ Hospital _________________________________________ Address ______________________________________ Other ____________________________________________ Address ______________________________________
+Place where deceased died Home Address Hospital Address Other Address
  | Do you know, or have reason to suspect, that the deceased’s death was directly or indirectly due to any of the following? (tick if yes) violence poison privation or neglect medical procedure drowning suffocation burns
- | Do you have any reason to suppose that an examination of the deceased’s remains may be desirable? No Yes. Give details __________________________________ _____________________________________________
-Other applications | Have you, or anyone else that you know of, previously applied for a permit to cremate the deceased’s remains? No Yes. Give details of previous application Made by _____________________________________ Date _______/_______/20 _____ Medical Referee to whom it was made ________________________________________
+ | Do you have any reason to suppose that an examination of the deceased’s remains may be desirable? No Yes. Give details
+Other applications | Have you, or anyone else that you know of, previously applied for a permit to cremate the deceased’s remains? No Yes. Give details of previous application Made by Date _______/_______/20 _____ Medical Referee to whom it was made ________________________________________
 Statutory declaration | I sincerely declare that the information given in this application is true and correct and that I have not omitted any relevant information. I know that it is an offence to make a declaration knowing that it is false in a material particular.
  | Signature
  | Date / /20
 (Witness must be a person authorised to take statutory declarations.) | Witness
 Signature
 Name
-Address __________________________________________
+Address
 Medical referee (For office use only) | Permit No.
 Date / /20
 Medical Referee
@@ -115,35 +120,35 @@ Form 7
 Certificate of Medical Practitioner | Cremation Act 1929 Form 7
 Certificate to be completed by doctor who attended deceased prior to death. Add additional pages if more space is required. Attach copies of all relevant laboratory reports, results, certificates etc.
 Deceased | Name
- | Address ____________________________________________
+ | Address
  | Date of birth / / Age
  | Marital status
  | Male/Female
  | Occupation
 Doctor | Name
- | Address ____________________________________________
+ | Address
  | Are you a spouse, de facto partner or relative of the deceased? No Yes Nature of relationship __________________________
  | As far as you are aware, do you have a pecuniary interest in the deceased’s estate or any other pecuniary interest in the deceased’s death? No Yes Give details _________________________________
  | Were you the deceased’s usual doctor? NoYes
-Recent care of deceased | During the 4 weeks prior to death did the deceased receive medical or nursing care? No Yes Where was the deceased cared for? Hospital______________________________ Nursing home_______________________________ Home______________________________ Other_______________________________ If cared for at home or other place, who provided care? Professional health care providers Relatives, friends, others Give names and relationship to the deceased _______________________________________________ _______________________________________________
+Recent care of deceased | During the 4 weeks prior to death did the deceased receive medical or nursing care? No Yes Where was the deceased cared for? Hospital Nursing home Home Other If cared for at home or other place, who provided care? Professional health care providers Relatives, friends, others Give names and relationship to the deceased
  | Did you attend the deceased during his or her last illness? NoYes Since what date? / /20
- | Did any other doctor(s) attend the deceased during his or her last illness? No Yes Give names __________________________________
-Last illness | Brief clinical history of last illness including diagnoses and events leading to death. _________________________________________________________________________________________________________________________________________________________
+ | Did any other doctor(s) attend the deceased during his or her last illness? No Yes Give names
+Last illness | Brief clinical history of last illness including diagnoses and events leading to death. ______________________________________________________________________________________________________________
 Details of death | Date / /20 Time a.m./p.m.
  | Place where the deceased died — Home Address _________________________________________ Hospital _________________________________________ Address _________________________________________ Other ___________________________________________ Address _________________________________________
- | Were you present when the deceased died? Yes No When did you last see the deceased alive? Date / /20 Time a.m./p.m.
- | Did you examine the deceased’s body after death? No Yes Give details __________________________________
- | Do you have any reason to suppose that a further examination of the deceased’s remains may be desirable? No Yes Give details __________________________________
-Cause of death | Was a post mortem performed? No Yes Give details of results __________________________ _________________________________________________
-(* If a Medical Certificate of Cause of Death is attached, answers are not required to these questions.) | *Did you sign the Medical Certificate of Cause of Death? Yes No Name of the doctor who signed the certificate ____________________________________________
-*Direct cause of death ____________________________________________________
-*Antecedent causes of death (if any) ____________________________________________________
-*Conditions contributing to or accelerating death (if any) ____________________________________________________
+Were you present when the deceased died? Yes No When did you last see the deceased alive? Date / /20 Time a.m./p.m.
+ | Did you examine the deceased’s body after death? No Yes Give details
+ | Do you have any reason to suppose that a further examination of the deceased’s remains may be desirable? No Yes Give details
+Cause of death | Was a post mortem performed? No Yes Give details of results
+(* If a Medical Certificate of Cause of Death is attached, answers are not required to these questions.) | *Did you sign the Medical Certificate of Cause of Death? Yes No Name of the doctor who signed the certificate
+*Direct cause of death
+*Antecedent causes of death (if any)
+*Conditions contributing to or accelerating death (if any)
 Clinical observations | Do you know, or have reason to suspect, that the deceased’s death was directly or indirectly due to any of the following? (tick if yes) violence poison privation or neglect medical procedure drowning suffocation burns
- | In view of the deceased’s lifestyle and health, do you have any doubts about the character of the deceased’s illness or cause of death? No Yes Give details __________________________________
+ | In view of the deceased’s lifestyle and health, do you have any doubts about the character of the deceased’s illness or cause of death? No Yes Give details
 Safety of cremation | At the time of death was the deceased fitted with a cardiac pacemaker? No Yes Has it been removedYesNo
  | Had the deceased received any of the following radioactive treatments? ·Strontium-89 injection (e.g. for bone metastases) during the 12 months prior to death NoYes* ·Iodine-125 seed implant (e.g. for prostate cancer) during the 12 months prior to death NoYes* ·Samarium-153 during the 2 weeks prior to death NoYes* ·Rhenium-188 during the 2 weeks prior to death NoYes* ·Yttrium-90 during the 2 weeks prior to death NoYes* * If yes — has the Radiation Safety Officer at the treating institution certified that cremation is safe? NoYes Attach certificate
- | Are you aware of anything else that could render cremation unsafe? (e.g. other medical devices, recent treatment etc.) No Yes Give details __________________________________
+ | Are you aware of anything else that could render cremation unsafe? (e.g. other medical devices, recent treatment etc.) No Yes Give details
 Certification of medical practitioner | I certify that the information set out above is true and correct and that I have not omitted any relevant information.
 Signature
 Date / /20
@@ -154,20 +159,21 @@ Cremation Act 1929
 CORONER’S CERTIFICATE
 I am informed that application is to be made for a permit to cremate in regard to the deceased person whose particulars are set out hereunder: —
 Name of deceased .............................................. Age ............... Sex ......................
-Date of death ..................................Place of Death ............................................................
+Date of death ..................................Place of death ..........................................................
 It has been reported that the cause of death was (primary) .....................................
-.........................................(secondary) ................................................................................
+.............................................................................................................................................
+(secondary) .........................................................................................................................
 I certify that in my opinion the cause of death was as stated. I consider that no circumstance exists which can render necessary any further examination of the body, and that there is no reason why the body should not be cremated.
-Dated at .....................................................this ............................................... day of .......................................................... 20 ..........
-..............................................................
+Dated at ......................................this .......................... day of ................. 20 ..........
+....................................................................
 Coroner.
 Form 9
 Western Australia
 Cremation Act 1929
 PERMIT TO CREMATE
 No .................................
-I, ................................................................................., a medical referee appointed under section 8 of the Cremation Act 1929, acting pursuant to the powers and duties vested in me under the said Act and having received an application from .............................................., of ........................................., for a permit to cremate the remains of: —
-Name of deceased ................................................................................., late of ........................................................................................... (address in full), who died at .................................................. (place of death) on ................................... (date of death), hereby permit and authorise the cremation at any duly licensed crematorium in the State of Western Australia.
+I, ............................................................................................................., a medical referee appointed under section 8 of the Cremation Act 1929, acting pursuant to the powers and duties vested in me under the said Act and having received an application from .............................................., of ........................................., for a permit to cremate the remains of: —
+Name of deceased ..................................................................................................., late of .................................................................................................................. (address in full), who died at .................................................................................................(place of death) on ................................................................. (date of death), hereby permit and authorise the cremation at any duly licensed crematorium in the State of Western Australia.
 This permit shall not be valid until 24 hours have elapsed from the time of death of the deceased person to whom the permit refers.
 Dated this ....................................... day of .............................................., 20.........
 ....................................................................
@@ -182,7 +188,7 @@ I hereby give you notice that the application made by you for a permit to cremat
 This refusal has been made known to the Executive Director, Public Health and Scientific Support Services, together with the reasons therefor. You may apply to the State Administrative Tribunal for a review of the decision.
 ....................................................................
 Medical Referee.
-[Form 10 amended in Gazette 30 Dec 2004 p. 6933.]
+[Form 10 amended in Gazette 29 Jun 1984 p. 1781; 30 Dec 2004 p. 6933.]
 Form 11
 Western Australia
 Cremation Act 1929
@@ -195,15 +201,16 @@ Cremation Act 1929
 CERTIFICATE OF CREMATION
 Regulation 20
 To the Executive Director, Public Health and Scientific Support Services and the Registrar General:
-I, ........................................................ (name), of ............................................................... (address), in the State of Western Australia, being the .......................................... (title of position) ........................................................... (licensee), the licensee of the ....................................................... Crematorium, .................................(place) do hereby certify that the body of ............................................................(name of person cremated), late of ........................................................................................ (address of person cremated), who died on ............................................... (date of death) was, in pursuance of Permit No. .................................................... issued by ................................................. (medical referee) to ....................................................... (name of permit holder), of .................................................................................... (address of permit holder) duly cremated in the said crematorium on the ............................................................... (date) under and in accordance with the provisions of the Cremation Act 1929.
+I, ............................................... (name), of ............................................ (address), in the State of Western Australia, being the .......................................... (title of position) ........................................................... (licensee), the licensee of the .................................. Crematorium, .................................(place) do hereby certify that the body of................... (name of person cremated), late of ..................................................................................... (address of person cremated), who died on ............................................... (date of death) was, in pursuance of Permit No. .................................................... issued by ................... (medical referee) to ....................................................... (name of permit holder), of .................................................................................... (address of permit holder) duly cremated in the said crematorium on the ............................................................... (date) under and in accordance with the provisions of the Cremation Act 1929.
 ....................................................................
 Signature.
 Date ................................................
+[Form 12 amended in Gazette 29 Jun 1984 p. 1781.]
 Form 13
 CERTIFICATE OF MEDICAL PRACTITIONER WHO HAS
 CONDUCTED A POST MORTEM EXAMINATION
 (Regulation 20A)
-I, ......................................................................................legally qualified medical practitioner, being informed that application is about to be made for a permit to cremate the body of (name) ..................................................................................., late of (address) .................................................................................................., (occupation) ............................................... hereby certify that on (date)................................................, at (place) ............................................................., I made a post mortem examination of all the vital organs of the deceased, and I am of the opinion as a result of such examination that the death of the deceased resulted from natural causes, as follows: —
+I, ..................................................................................................legally qualified medical practitioner, being informed that application is about to be made for a permit to cremate the body of (name) .................................................................................................., late of (address) ............................................................................................................................., (occupation) ..................................................................................... hereby certify that on (date)................................................, at (place) ................................................................., I made a post mortem examination of all the vital organs of the deceased, and I am of the opinion as a result of such examination that the death of the deceased resulted from natural causes, as follows: —
 .............................................................................................................................................
 .............................................................................................................................................
 .............................................................................................................................................
@@ -213,4 +220,4 @@ Address .....................................................
 Qualifications ............................................
 Date ................................................
 No person who knows that under the terms of any policy of life assurance, will, settlement, or statute or otherwise howsoever he is entitled or will become entitled by reason or in consequence of the death of another person to any real or personal property shall give or sign any certificate concerning the death of such other person for any of the purposes of this Act.
-[Appendix “A” amended in Gazette 17 December 1954 p.2252; 24 February 1978 pp.560-1; 29 June 1984 p.1781; 24 September 2002 p.4767-8; 30 Dec 2004 p. 6933.]
+[Form 13 inserted in Gazette 17 Dec 1954 p. 2252.]
