@@ -94,6 +94,7 @@ Child Care Services Act 2007 Pt. 7 Div. 3 | 19 of 2007 | 3 Jul 2007 | 10 Aug 200
 Reprint 14: The Evidence Act 1906 as at 8 Feb 2008 (includes amendments listed above)
 Criminal Law and Evidence Amendment Act 2008 Pt. 5 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Criminal Law Amendment (Homicide) Act 2008 s. 33 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -101,7 +102,6 @@ Acts Amendment (Justice) Act 2008 Pt. 11 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008
 Prostitution Amendment Act 2008 s. 31 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Legal Profession Act 2008 s. 662 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 12 | 26 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
-Criminal Law Amendment (Homicide) Act 2008 s. 33 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 “
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
@@ -115,7 +115,7 @@ The Acts Amendment (Video and Audio Links) Act 1998 s. 3 reads as follows:
 3.Power to use certain technology
 (1) Nothing in the amended provisions is to be taken as preventing the use by a court or other person acting judicially of a video link or audio link (as those terms are defined in section 121 of the Evidence Act 1906) in any case where the court or person thinks fit and where the use of the video link or audio link would not be contrary to law.
 (2) In subsection (1) —
-“amended provisions” means —
+amended provisions means —
 (a)The Criminal Code;
 (b)the Evidence Act 1906;
 (c)the Justices Act 1902; and
@@ -136,13 +136,13 @@ The Taxation Administration (Consequential Provisions) Act 2002 s. 33 and 34 rea
 “
 33.Definitions
 In this Part —
-“commencement day” means the day on which the Taxation Administration Act 2003 comes into operation;
-“old Act” means —
+commencement day means the day on which the Taxation Administration Act 2003 comes into operation;
+old Act means —
 (a)an Act repealed by section 5;
 (b)the old Stamp Act; or
 (c)section 41 of the Metropolitan Region Town Planning Scheme Act 1959 as in force immediately before the commencement day;
-“old Stamp Act” means the Stamp Act 1921 as in force immediately before the commencement day;
-“substantive provisions”, in relation to an old Act, means the provisions of the old Act other than those dealing with matters dealt with in the Taxation Administration Act 2003.
+old Stamp Act means the Stamp Act 1921 as in force immediately before the commencement day;
+substantive provisions, in relation to an old Act, means the provisions of the old Act other than those dealing with matters dealt with in the Taxation Administration Act 2003.
 34.General transitional arrangements
 (1) Section 37(1) of the Interpretation Act 1984, except paragraphs (a) and (b), does not apply in relation to the repeal of an old Act.
 (2) The repeal of an old Act does not, unless the contrary intention appears —
@@ -173,7 +173,7 @@ The Criminal Law Amendment (Sexual Assault and Other Matters) Act 2004 Pt. 4 rea
 Part 4 — Transitional and validation
 30.Validation of payments
 (1) In this section —
-“fee regulations” means regulations 6(2) and 13 of the Evidence (Witnesses’ and Interpreters’ Fees and Expenses) Regulations 1976.
+fee regulations means regulations 6(2) and 13 of the Evidence (Witnesses’ and Interpreters’ Fees and Expenses) Regulations 1976.
 (2) Any payment purporting to have been made under the fee regulations before the coming into operation of section 28 is taken to have been, and to have always been, as valid as it would have been if section 28 had come into operation before the fee regulations were made.
 ”.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to amend s. 56(1) is not included because the subsection it sought to amend was replaced by s. 82 (Sch. 2 it. 118) of the same Act.
@@ -189,10 +189,10 @@ Section 119 is repealed and the following section is inserted instead —
 “
 119.Service as a witness etc., payments for
 (1) In this section —
-“criminal proceedings” includes an appeal in criminal proceedings;
-“eligible service” has the meaning given in subsections (2) and (3);
-“inquest” means an inquest held under the Coroners Act 1996;
-“liable person”, in respect of any payment that has to be made under this section in respect of eligible service, means —
+criminal proceedings includes an appeal in criminal proceedings;
+eligible service has the meaning given in subsections (2) and (3);
+inquest means an inquest held under the Coroners Act 1996;
+liable person, in respect of any payment that has to be made under this section in respect of eligible service, means —
 (a)if the eligible service is in criminal proceedings and the prosecution was commenced by or on behalf of —
 (i)a local government; or
 (ii)a statutory body,
@@ -276,18 +276,4 @@ On the date as at which this compilation was prepared, the Children and Communit
 (1) The amendment in this section is to the Evidence Act 1906.
 (2) Section 19L(5) is amended by inserting after “section” —
 “ 124F or ”.
-”.
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 33 had not come into operation. It reads as follows:
-“
-33.Evidence Act 1906
-(1) The amendments in this section are to the Evidence Act 1906.
-(2) The Second Schedule Part 1 is amended as follows:
-(a) in the entry relating to section 144 by deleting “Using force to rescue a person undergoing, or liable to, strict security life imprisonment” and inserting instead —
-“ Forcibly freeing certain offenders from custody ”;
-(b) by deleting the entries relating to sections 278, 279, 280, 281 and 281A and inserting instead —
-“
-s. 279Murder
-s. 280Manslaughter
-s. 281Unlawful assault causing death
-”.
 ”.

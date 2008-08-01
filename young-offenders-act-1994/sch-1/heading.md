@@ -6,11 +6,10 @@ Offences —
 ·for which a conviction will normally be recorded
 Enactment | Description of offence
 1.The Criminal Code
-s. 125 | Perjury — if the offender commits the crime in order to procure the conviction of another person for a crime punishable with strict security life imprisonment, or with imprisonment for life
-s. 134 | Conspiracy to bring false accusation — if the offence is such that a person convicted of it is liable to be sentenced to strict security life imprisonment or to imprisonment for life
-s. 144 | Forcibly rescuing offenders sentenced or liable to strict security life imprisonment
+s. 125 | Perjury — if the offender commits the crime in order to procure the conviction of another person for a crime punishable with imprisonment for life
+s. 134 | Conspiracy to bring false accusation — if the offence is such that a person convicted of it is liable to be sentenced to imprisonment for life
+s. 144 | Forcibly freeing certain offenders from custody
 s. 186 | Occupier or owner allowing certain persons to be on premises for unlawful carnal knowledge — if the person is under the age of 13 years
-s. 281A (as read with section 287A) | Infanticide
 s. 288 | Aiding suicide
 s. 290 | Killing unborn child
 s. 293 | Stupefying in order to commit indictable offence
@@ -57,4 +56,4 @@ s. 64A | Driving with 0.02g/100ml blood alcohol content
 s. 67 | Failing to provide a breath sample, allow taking of a blood sample or provide a urine sample
 s. 67AA | Failing to undergo a driver assessment, allow taking of a blood sample or provide a urine sample
 s. 67AB | Failing to provide a sample of oral fluid or allow taking of a blood sample
-[Schedule 1 amended by No. 82 of 1994 s. 13(6); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 44; No. 62 of 2004 s. 9(4); No. 6 of 2007 s. 23; No. 39 of 2007 s. 42.]
+[Schedule 1 amended by No. 82 of 1994 s. 13(6); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 44; No. 62 of 2004 s. 9(4); No. 6 of 2007 s. 23; No. 39 of 2007 s. 42; No. 29 of 2008 s. 41(4).]

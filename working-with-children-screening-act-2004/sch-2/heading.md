@@ -6,10 +6,9 @@ s. 181 | Carnal knowledge of animal
 s. 186 | Occupier or owner allowing child to be on premises for unlawful carnal knowledge
 s. 187 | Facilitating sexual offences against children outside Western Australia
 s. 204B | Using electronic communication to procure, or expose to indecent matter, children under 16
-s. 278 (as read with s. 282) | Wilful murder
-s. 279 (as read with s. 282) | Murder
-s. 280 (as read with s. 287) | Manslaughter
-s. 281A (as read with s. 287A) | Infanticide
+s. 279 | Murder
+s. 280 | Manslaughter
+s. 281 | Unlawful assault causing death
 s. 290 | Killing unborn child
 s. 297 | Grievous bodily harm
 s. 320(4) | Indecent dealing with child under 13
@@ -62,4 +61,4 @@ s. 474.26 | Using a carriage service to procure persons under 16
 s. 474.27 | Using a carriage service to “groom” persons under 16
 Customs Act 1901 of the Commonwealth
 s. 233BAB | Special offences relating to tier 2 goods (if the offence involves items of child pornography or of child abuse material)
-[Schedule 2 amended by No. 3 of 2006 s. 7; No. 27 of 2008 s. 13(3) and (4).]
+[Schedule 2 amended by No. 3 of 2006 s. 7; No. 27 of 2008 s. 13(3) and (4); No. 29 of 2008 s. 40.]

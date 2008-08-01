@@ -5,13 +5,13 @@ Short title | Number and year | Assent | Commencement
 Criminal Procedure Act 2004 | 71 of 2004 | 8 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 8 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Criminal Law and Evidence Amendment Act 2008 Pt. 3 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+Criminal Law Amendment (Homicide) Act 2008 s. 30 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 Pt. 9 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Bail Amendment Act 2008 s. 45 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2)
 Legal Profession Act 2008 s. 657 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
-Criminal Law Amendment (Homicide) Act 2008 s. 30 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 657 had not come into operation. It reads as follows:
 “
 657.Criminal Procedure Act 2004 amended
@@ -20,7 +20,7 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (a) by deleting the definition of “lawyer”;
 (b) by inserting in the appropriate alphabetical position —
 “
-“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”.
 (3) Section 18 is amended in paragraph (a) of the definition of “written plea” by deleting “lawyer;” and inserting instead —
 “ legal practitioner; ”.
@@ -119,10 +119,4 @@ On the date as at which this compilation was prepared, the Bail Amendment Act 20
 “ , 31A ”.
 (3) Schedule 4 clause 4(3) is amended by inserting after “sections” —
 “ 51A, ”.
-”.
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 30 had not come into operation. It reads as follows:
-“
-30.Criminal Procedure Act 2004
-(1) The amendment in this section is to the Criminal Procedure Act 2004.
-(2) Section 114(4) is amended by deleting “wilful murder or”.
 ”.

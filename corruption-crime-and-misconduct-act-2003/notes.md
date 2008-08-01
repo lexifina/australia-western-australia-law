@@ -14,13 +14,13 @@ Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 3 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Police Amendment Act 2008 s. 11 and 23(1) | 8 of 2008 | 31 Mar 2008 | s. 11: 1 Apr 2008 (see s. 2(1)) s. 23(1): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
+Criminal Law Amendment (Homicide) Act 2008 s. 26 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 s. 128 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 654 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
-Criminal Law Amendment (Homicide) Act 2008 s. 26 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 Repealed by the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003.
 Now called the Telecommunications (Interception and Access) Act 1979.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -31,8 +31,8 @@ Division 3 — Anti-Corruption Commission Act 1988
 Subdivision 2 — Repeal of the Anti-Corruption Commission Act 1988 and transitional and savings provisions
 53.Meaning of terms used in this Division
 In this Division —
-“commencement” means the day on which section 54 comes into operation;
-“A-CC Act” means the Anti-Corruption Commission Act 1988.
+commencement means the day on which section 54 comes into operation;
+A-CC Act means the Anti-Corruption Commission Act 1988.
 54.Anti-Corruption Commission Act 1988 repealed
 The Anti-Corruption Commission Act 1988 is repealed.
 55.References to repealed Act and former titles
@@ -66,14 +66,14 @@ Any act, matter or thing done or omitted to be done before the commencement by, 
 64.Transfer of records
 (1) On the commencement all records in the possession of the A-CC immediately before the commencement are to be transferred to the possession of the CCC, become the records of the CCC and may be dealt with accordingly.
 (2) In this section —
-“records” includes —
+records includes —
 (a)evidence in any form;
 (b)information and other things.
 65.A-CC officers
 (1) In this section —
-“A-CC officer” means a person who, immediately before becoming an officer of the Commission within the meaning of the Corruption and Crime Commission Act 2003, was an officer of the Commission as that term is defined in the A-CC Act;
-“officer of the Commission” has the meaning given to that term by the Corruption and Crime Commission Act 2003;
-“officer of the Parliamentary Inspector” has the meaning given to that term by the Corruption and Crime Commission Act 2003.
+A-CC officer means a person who, immediately before becoming an officer of the Commission within the meaning of the Corruption and Crime Commission Act 2003, was an officer of the Commission as that term is defined in the A-CC Act;
+officer of the Commission has the meaning given to that term by the Corruption and Crime Commission Act 2003;
+officer of the Parliamentary Inspector has the meaning given to that term by the Corruption and Crime Commission Act 2003.
 (2) If, on or before the commencement, an A-CC officer becomes an officer of the Commission or an officer of the Parliamentary Inspector, that person is entitled to retain all his or her existing and accruing rights as an A-CC officer, including any rights under the Superannuation and Family Benefits Act 1938 and any rights that had been retained under section 6(4) of the A-CC Act, as if his or her service as an officer of the Commission or an officer of the Parliamentary Inspector were a continuation of his or her service as an A-CC officer.
 (3) Despite the repeal of the A-CC Act under section 54, section 6(6), (7), (8) and (9) of the A-CC Act continue to apply to and in relation to a person —
 (a) who was, immediately before the commencement, an officer of the Commission as that term is defined in the A-CC Act;
@@ -89,9 +89,9 @@ Any act, matter or thing done or omitted to be done before the commencement by, 
 as those terms are defined in the A-CC Act.
 66.Financial reporting
 (1) In this section —
-“FAA Act” means the Financial Administration and Audit Act 1985;
-“final period” means the period starting at the beginning of 1 July last preceding the commencement;
-“reporting officer” means the person appointed under section 65A(2) of the FAA Act as applied by subsection (2).
+FAA Act means the Financial Administration and Audit Act 1985;
+final period means the period starting at the beginning of 1 July last preceding the commencement;
+reporting officer means the person appointed under section 65A(2) of the FAA Act as applied by subsection (2).
 (2) Section 65A of the FAA Act applies in relation to the preparation and submission of a final report in respect of the A-CC as if —
 (a) references in that section to a department were references to the A-CC; and
 (b) references in that section to provisions of sections 62 to 65 of the FAA Act were references to the equivalent provisions of sections 66 to 70 of the FAA Act,
@@ -106,9 +106,9 @@ Part 3 — Repeals, transitional and savings provisions, and consequential amend
 Division 7 — General
 75.Further transitional provisions may be made
 (1) In this section —
-“commencement day” means the day on which this section comes into operation;
-“specified” means specified or described in the regulations;
-“transitional matter” means a matter that needs to be dealt with for the purpose of —
+commencement day means the day on which this section comes into operation;
+specified means specified or described in the regulations;
+transitional matter means a matter that needs to be dealt with for the purpose of —
 (a)effecting the transition from the provisions of an Act repealed by this Act to the provisions of the Corruption and Crime Commission Act 2003;
 (b)effecting the transition from the provisions of an Act amended by this Act as in force before this Act comes into operation to the provisions of that Act as in force after this Act comes into operation; or
 (c)effecting the transition from the provisions of an Act amended by the Corruption and Crime Commission Act 2003 as in force before this Act comes into operation to the provisions of that Act as in force after the Corruption and Crime Commission Act 2003 comes into operation,
@@ -139,11 +139,11 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (2) Section 3 is amended as follows:
 (a) by deleting the definition of “legal practitioner” and inserting instead —
 “
-“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”;
 (b) by inserting in the appropriate alphabetical position —
 “
-“lawyer” means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
+lawyer means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”.
 (3) Section 142(6) is amended by deleting “legal practitioner” and inserting instead —
 “ lawyer ”.
@@ -175,12 +175,4 @@ Schedule 3 — Consequential amendments
 (1) The amendments in this clause are to the Corruption and Crime Commission Act 2003.
 (2) Section 54(1) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894;” and inserting instead —
 “ Medical Practitioners Act 2008; ”.
-”.
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 26 had not come into operation. It reads as follows:
-“
-26.Corruption and Crime Commission Act 2003
-(1) The amendments in this section are to the Corruption and Crime Commission Act 2003.
-(2) Schedule 1 clause 1 is amended as follows:
-(a) by deleting “s. 278”;
-(b) by deleting “(except if the circumstances of the attempted or intended killing are such that, if it were carried out, the crime committed would be infanticide)”.
 ”.

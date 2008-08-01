@@ -16,19 +16,5 @@ Reprint 2: The Criminal Law (Mentally Impaired Accused) Act 1996 as at 12 Aug 20
 Parole and Sentencing Legislation Amendment Act 2006 Pt. 4 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 7 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Criminal Law and Evidence Amendment Act 2008 s. 60 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Criminal Law Amendment (Homicide) Act 2008 s. 29 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
+Criminal Law Amendment (Homicide) Act 2008 s. 29 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Now known as the Criminal Law (Mentally Impaired Accused) Act 1996; short title changed (see note under s. 1).
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 29 had not come into operation. It reads as follows:
-“
-29.Criminal Law (Mentally Impaired Accused) Act 1996
-(1) The amendments in this section are to the Criminal Law (Mentally Impaired Accused) Act 1996.
-(2) Schedule 1 item 1 is amended by deleting the entries relating to The Criminal Code sections 278, 279 and 280 and inserting instead —
-“
-s. 279Murder
-s. 280Manslaughter
-s. 281Unlawful assault causing death
-”.
-”.

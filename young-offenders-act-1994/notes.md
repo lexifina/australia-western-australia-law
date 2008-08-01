@@ -34,6 +34,7 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 13 | 65 of 2006 | 8 De
 Road Traffic Amendment (Drugs) Act 2007 Pt. 3 | 6 of 2007 | 23 May 2007 | 12 Oct 2007 (see s. 2 and Gazette 11 Oct 2007 p. 5475)
 Road Traffic Amendment Act (No. 2) 2007 Pt. 3 | 39 of 2007 | 21 Dec 2007 | 15 Mar 2008 (see s. 2(k) and Gazette 14 Mar 2008 p. 829)
 Acts Amendment (Justice) Act 2008 s. 132 | 5 of 2008 | 31 Mar 2008 | 31 Jul 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Criminal Law Amendment (Homicide) Act 2008 s. 41 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -41,7 +42,6 @@ Prostitution Amendment Act 2008 s. 36 | 13 of 20080 | 14 Apr 2008 | To be procla
 Parental Support and Responsibility Act 2008 s. 44 | 14 of 2008 | 15 Apr 2008 | To be proclaimed (see s. 2)
 Legal Profession Act 2008 s. 714 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
-Criminal Law Amendment (Homicide) Act 2008 s. 41 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -71,8 +71,8 @@ Schedule 1 — Transitional
 [s. 6(3)]
 1.Interpretation
 In this Schedule —
-“commencement” means the day fixed as the day on which section 6 of this Act comes into operation;
-“principal Act” means the Young Offenders Act 1994.
+commencement means the day fixed as the day on which section 6 of this Act comes into operation;
+principal Act means the Young Offenders Act 1994.
 2.Conditions of employment of “group workers” on commencement to continue
 (1) A person who was paid by the Department as a custodial officer with primarily non-administrative functions (“group worker”) immediately before commencement is, on commencement, to be taken to be appointed by the chief executive officer under section 11(1a)(a) of the principal Act (as amended by this Act), on the same terms and conditions, including as to remuneration, as those which applied to the person immediately before commencement.
 (2) A person to whom subclause (1) applies retains all existing and accruing rights and benefits as if the person’s employment, for the purposes of the principal Act, were a continuation of the person's employment immediately before commencement.
@@ -105,10 +105,10 @@ On the date as at which this compilation was prepared, the Parental Support and 
 (b) an appointed person or body with information relating to a person who is, or was, a young offender or detainee, for the purposes of section 39 of that Act.
 (3b) The information provided under subsection (3a)(b) must be in a form that would not reveal the identity of the person.
 (3c) In subsection (3a) —
-“appointed person or body” means a person or body appointed under section 39(1) of the Parental Support and Responsibility Act 2008;
-“authorised officer” has the meaning given to that term in section 3 of the Parental Support and Responsibility Act 2008;
-“child” means a person who is under 15 years of age;
-“proceedings for or in respect of a responsible parenting order” has the meaning given to “proceedings for or in respect of an order” in section 26 of the Parental Support and Responsibility Act 2008.
+appointed person or body means a person or body appointed under section 39(1) of the Parental Support and Responsibility Act 2008;
+authorised officer has the meaning given to that term in section 3 of the Parental Support and Responsibility Act 2008;
+child means a person who is under 15 years of age;
+proceedings for or in respect of a responsible parenting order has the meaning given to “proceedings for or in respect of an order” in section 26 of the Parental Support and Responsibility Act 2008.
 ”.
 ”.
 On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 714 had not come into operation. It reads as follows:
@@ -118,7 +118,7 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (2) Section 37A(1) is repealed and the following subsection is inserted instead —
 “
 (1) In this section —
-“lawyer” means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3.
+lawyer means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3.
 ”.
 (3) Section 37A(2) is amended by deleting “legal practitioner” and inserting instead —
 “ lawyer ”.
@@ -139,33 +139,5 @@ Schedule 3 — Consequential amendments
 (1) The amendments in this clause are to the Young Offenders Act 1994.
 (2) Section 179(1) is amended in the definition of “medical officer” by deleting “Medical Act 1894;” and inserting instead —
 “ Medical Practitioners Act 2008; ”.
-”.
-”.
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 41 had not come into operation. It reads as follows:
-“
-41.Young Offenders Act 1994
-(1) The amendments in this section are to the Young Offenders Act 1994.
-(2) Section 179(6) is repealed and the following subsection is inserted instead —
-“
-(6) If the detainee is a person —
-(a) who is undergoing a sentence of imprisonment for life; or
-(b) whose release is to be determined by the Governor,
-the superintendent is to give the chief executive officer notice when the detainee is removed from or returned to a detention centre under an order made under this section.
-”.
-(3) Section 189(1) is repealed and the following subsection is inserted instead —
-“
-(1) This section does not apply to, or in relation to, a person convicted of murder, attempt to murder or manslaughter.
-”.
-(4) Schedule 1 item 1 is amended as follows:
-(a) in the entry relating to section 125, by deleting “with strict security life imprisonment, or”;
-(b) in the entry relating to section 134, by deleting “to strict security life imprisonment or”;
-(c) in the entry relating to section 144, by deleting “Forcibly rescuing offenders sentenced or liable to strict security life imprisonment” and inserting instead —
-“ Forcibly freeing certain offenders from custody ”;
-(d) by deleting the entry relating to section 281A.
-(5) Schedule 2 item 1 is amended by deleting the entries relating to sections 278, 279 and 280 and inserting instead —
-“
-s. 279Murder
-s. 280Manslaughter
-s. 281Unlawful assault causing death
 ”.
 ”.

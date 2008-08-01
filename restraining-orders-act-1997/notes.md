@@ -17,12 +17,12 @@ Courts Legislation Amendment and Repeal Act 2004 Pt. 17 | 59 of 2004 (as amended
 Reprint 2: The Restraining Orders Act 1997 as at 5 May 2006 (includes amendments listed above)
 Family Legislation Amendment Act 2006 Pt. 6 Div. 3 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 10 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
+Criminal Law Amendment (Homicide) Act 2008 s. 37 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 Pt. 19 | 5 of 2008 | 31 Mar 2008 | 31 Oct 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 699 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
- | Criminal Law Amendment (Homicide) Act 2008 s. 37 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 Part 9 contained transitional provisions relating to orders to keep the peace in force under the Justices Act 1902 when this Act came into operation.
 The Courts Legislation Amendment and Repeal Act 2004 s. 123 (the amendment to s. 67(2)) and s. 124 (the amendment to s. 4(a)) were repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(3) and (4).
 On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 19 had not come into operation. It reads as follows:
@@ -166,13 +166,6 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (1) The amendments in this section are to the Restraining Orders Act 1997.
 (2) Section 62(2) is amended by deleting the definition of “legal practitioner” and inserting instead —
 “
-“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3.
-”.
-”.
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 37 had not come into operation. It reads as follows:
-“
-37.Restraining Orders Act 1997
-(1) The amendment in this section is to the Restraining Orders Act 1997.
-(2) Section 63B(3) is amended in the definition of “violent personal offence” paragraph (a) by deleting “(other than infanticide)”.
+legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3.
 ”.
 ”.

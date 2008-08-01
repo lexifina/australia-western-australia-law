@@ -90,11 +90,11 @@ Electoral Reform (Electoral Funding) Act 2006 | 55 of 2006 | 26 Oct 2006 | 27 Oc
 Electoral Legislation Amendment Act 2006 Pt. 3 | 64 of 2006 | 8 Dec 2006 | 5 Mar 2007 (see s. 2(2) and Gazette 2 Mar 2007 p. 689)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 14: The Electoral Act 1907 as at 7 Dec 2007 (includes amendments listed above)
+Criminal Law Amendment (Homicide) Act 2008 s. 32 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Criminal Law Amendment (Homicide) Act 2008 s. 32 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 Electoral Amendment Act 2008 s. 3-5 | 38 of 2008 | 3 Jul 2008 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 15.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
@@ -128,7 +128,7 @@ by reason only of not being an Australian citizen as defined in the Electoral Ac
 (b) is not prevented from beginning and completing his or her term as a member,
 by reason only of not being an Australian citizen as defined in the Electoral Act 1907 section 4(1).
 (4) In subsections (2) and (3) —
-“commencement” means the coming into operation of this section.
+commencement means the coming into operation of this section.
 ”.
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 “
@@ -140,16 +140,7 @@ Act | Provision
 Electoral Act 1907 | s. 5E(2)
 ……………………….. | …….
 ”.
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 32 had not come into operation. It reads as follows:
-“
-32.Electoral Act 1907
-(1) The amendments in this section are to the Electoral Act 1907.
-(2) Section 18 is amended as follows:
-(a) in paragraph (cb) by deleting “section 282(c)(iii) or (d)(ii), 653 or 693(4)” and inserting instead —
-“ section 279(5)(b) ”;
-(b) in paragraph (cc) by deleting “661 or 662” and inserting instead —
-“ 282(c)(iii) or (d)(ii), 653, 661, 662 or 693(4) ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Electoral Amendment Act 2008 s. 3-5 had not come into operation. They read as follows:
 “
 3.The Act amended
@@ -157,7 +148,7 @@ The amendments in this Act are to the Electoral Act 1907.
 4.Section 16A amended
 Section 16A is amended by inserting in the appropriate alphabetical position —
 “
-“person with judicial experience” means a person who is or has been a judge of the Supreme Court of Western Australia;
+person with judicial experience means a person who is or has been a judge of the Supreme Court of Western Australia;
 ”.
 5.Section 16B amended
 (1) Section 16B(1)(a) is deleted and the following is inserted instead —

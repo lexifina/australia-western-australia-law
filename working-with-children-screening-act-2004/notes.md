@@ -7,12 +7,12 @@ Criminal Code Amendment (Cyber Predators) Act 2006 s. 7 | 3 of 2006 | 30 Mar 200
 Child Care Services Act 2007 Pt. 7 Div. 4 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 Criminal Law and Evidence Amendment Act 2008 s. 74 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Community Protection (Offender Reporting) Amendment Act 2008 s. 13 | 27 of 2008 | 1 Jul 2008 | 2 Jul 2008 (see s. 2(b))
+Criminal Law Amendment (Homicide) Act 2008 s. 40 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(c) and (d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Criminal Law Amendment (Homicide) Act 2008 s. 40 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Schedule 1, had not come into operation. It reads as follows:
 “
 65.Consequential amendments
@@ -28,11 +28,11 @@ Schedule 1 — Consequential amendments
 (a) by deleting the definition of “CEO”;
 (b) by deleting the definition of “Commissioner” and inserting instead —
 “
-“Commissioner” means the person holding or acting in the office of Commissioner for Children and Young People under the Commissioner for Children and Young People Act 2006;
+Commissioner means the person holding or acting in the office of Commissioner for Children and Young People under the Commissioner for Children and Young People Act 2006;
 ”;
 (c) by inserting in the appropriate alphabetical position —
 “
-“Commissioner for Police” means the person holding or acting in the office of Commissioner for Police under the Police Act 1892;
+Commissioner for Police means the person holding or acting in the office of Commissioner for Police under the Police Act 1892;
 ”.
 (3) The heading to Part 2 Division 3 is amended by deleting “CEO” and inserting instead —
 “ Commissioner ”.
@@ -71,17 +71,5 @@ Sexual Services Act 2000
 s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
 s. 17 | Obtaining payment for commercial sexual act by a child
 s. 18 | Agreement for a child to act as a sex worker
-”.
-”.
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 40 had not come into operation. It reads as follows:
-“
-40.Working with Children (Criminal Record Checking) Act 2004
-(1) The amendments in this section are to the Working with Children (Criminal Record Checking) Act 2004.
-(2) Schedule 2 is amended by deleting the entry relating to The Criminal Code section 278.
-(3) Schedule 2 is amended by deleting the entries relating to The Criminal Code sections 279, 280 and 281A and inserting instead —
-“
-s. 279Murder
-s. 280Manslaughter
-s. 281Unlawful assault causing death
 ”.
 ”.
