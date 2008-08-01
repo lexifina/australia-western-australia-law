@@ -124,12 +124,12 @@ Reprint 14: The Health Act 1911 as at 5 Oct 2007 (includes amendments listed abo
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 10 | 24 of 2007 | 12 Oct 2007 | 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645)
 Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | 1 Jul 2008 (see s. 2(b) and Gazette 20 Jun 2008 p. 2705.)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Criminal Law Amendment (Homicide) Act 2008 s. 34 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
-Criminal Law Amendment (Homicide) Act 2008 s. 34 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 Food Act 2008 s. 147 and Pt. 14 | 43 of 2008 | 8 Jul 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 Repealed by the Nurses and Midwives Act 2006.
@@ -182,9 +182,9 @@ Division 13 — Transitional provisions
 289.Commissioner of Health
 (1) A thing done or omitted to be done by, to or in relation to, the Commissioner of Health before commencement under, or for the purposes of, an enactment has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the CEO.
 (2) In this section —
-“CEO” has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
-“commencement” means the time at which this Division comes into operation;
-“Commissioner of Health” means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
+CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
+commencement means the time at which this Division comes into operation;
+Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 ”.
 On the date as at which this compilation was prepared, the Health Amendment Act 1987 s. 4(d), 83 and 90 had not come into operation. They read as follows:
 “
@@ -592,15 +592,7 @@ Schedule 3 — Consequential amendments
 within the meaning given to that term in the Medical Practitioners Act 2008 section 4
 ”.
 ”.
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 34 had not come into operation. It reads as follows:
-“
-34.Health Act 1911
-(1) The amendments in this section are to the Health Act 1911.
-(2) Section 246ZV(1) is amended by deleting “section 23” and inserting instead —
-“ section 23A ”.
-(3) Section 246ZW(1) is amended by deleting “section 23” and inserting instead —
-“ section 23A ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Food Act 2008 s. 147 and Pt. 14 had not come into operation. They read as follows:
 “
 147.Health Act 1911 amended
@@ -608,7 +600,7 @@ On the date as at which this compilation was prepared, the Food Act 2008 s. 147 
 (2) Section 3(1) is amended as follows:
 (a) by deleting the definition of “food” and inserting the following definition instead —
 “
-“food” has the meaning given to that term in the Food Act 2008 section 9;
+food has the meaning given to that term in the Food Act 2008 section 9;
 ”;
 (b) in the definition of “premises”, by deleting “, except in Part VIII,”;
 (c) by deleting the definition of “the Food Advisory Committee”;
@@ -654,7 +646,7 @@ On the date as at which this compilation was prepared, the Food Act 2008 s. 147 
 Part 14 — Transitional provisions
 150.Definition
 In this Part —
-“commencement day” means the day on which this Part comes into operation.
+commencement day means the day on which this Part comes into operation.
 151.Interpretation Act 1984 not affected
 Nothing in this Part is to be construed so as to limit the operation of the Interpretation Act 1984.
 152.Orders under Health Act 1911 section 246W
@@ -666,7 +658,7 @@ An order under the Health Act 1911 section 246W(1) that is in force immediately 
 (1) If this Act does not provide sufficiently for a matter or issue of a transitional nature that arises as a result of the amendment of an Act by this Act or the coming into operation of this Act, the Governor may make regulations prescribing all matters that are required, necessary or convenient to be prescribed for providing for that matter or issue.
 (2) If regulations made under subsection (1) provide that a specified state of affairs is taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations are published in the Gazette but not earlier than the commencement day, the regulations have effect according to their terms.
 (3) In subsection (2) —
-“specified” means specified or described in the regulations.
+specified means specified or described in the regulations.
 (4) If regulations contain a provision referred to in subsection (2), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the day of publication; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication.

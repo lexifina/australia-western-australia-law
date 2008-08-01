@@ -51,12 +51,12 @@ Reprint 7: The District Court of Western Australia Act 1969 as at 19 Aug 2005 (i
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 5 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 6 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Criminal Law Amendment (Homicide) Act 2008 s. 31 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Legal Profession Act 2008 s. 660 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
-Criminal Law Amendment (Homicide) Act 2008 s. 31 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
@@ -64,9 +64,9 @@ Part 22 — Transitional provisions
 Division 1 — Provisions about enforcing judgments
 143.Interpretation
 (1) In this Part —
-“commencement” means the commencement of this Part;
-“court fee”, for an application, does not include any fee payable in connection with serving the application to the Sheriff or any other person;
-“enforcement process” means any writ, warrant, order, or other process, issued by a court for or in connection with enforcing a judgment or order of the court.
+commencement means the commencement of this Part;
+court fee, for an application, does not include any fee payable in connection with serving the application to the Sheriff or any other person;
+enforcement process means any writ, warrant, order, or other process, issued by a court for or in connection with enforcing a judgment or order of the court.
 (2) This Part does not limit the operation of the Interpretation Act 1984 Part V.
 144.Judgments not satisfied before commencement
 If immediately before commencement a judgment of the Supreme Court, District Court or Local Court is unsatisfied, then on commencement —
@@ -146,11 +146,11 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (2) Section 6(1) is amended as follows:
 (a) by deleting the definition of “legal practitioner” and inserting instead —
 “
-“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
+legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
 ”;
 (b) by inserting in the appropriate alphabetical position —
 “
-“Australian lawyer” has the meaning given in the Legal Profession Act 2008;
+Australian lawyer has the meaning given in the Legal Profession Act 2008;
 ”.
 (3) Section 6(2) is amended as follows:
 (a) by deleting paragraphs (a) and (b) and inserting instead —
@@ -177,10 +177,4 @@ costs determination (as defined in the Legal Profession Act 2008 section 252)
 “
 costs determination (as defined in the Legal Profession Act 2008 section 252)
 ”.
-”.
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 31 had not come into operation. It reads as follows:
-“
-31.District Court of Western Australia Act 1969
-(1) The amendment in this section is to the District Court of Western Australia Act 1969.
-(2) Section 42(2) is amended by deleting “or strict security life imprisonment”.
 ”.

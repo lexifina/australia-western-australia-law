@@ -46,11 +46,12 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 2 | 65 of 2006 | 8 Dec
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 6: The Prisons Act 1981 as at 16 Nov 2007 (includes amendments listed above)
 Police Amendment Act 2008 s. 16 and 23(6) | 8 of 2008 | 31 Mar 2008 | s. 16: 1 Apr 2008 (see s. 2(1)) s. 23(6): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
+Criminal Law Amendment (Homicide) Act 2008 s. 36(3) | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
-Criminal Law Amendment (Homicide) Act 2008 s. 36 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
+Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
 Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference to the Western Australian Prisons Department was, unless the contrary intention appears, to be read and construed as a reference to the Department of Justice.
@@ -96,10 +97,9 @@ Schedule 3 — Consequential amendments
 (3) Section 46 is amended by deleting “Medical Act 1894” and inserting instead —
 “ Medical Practitioners Act 2008 ”.
 ”.
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 36 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 36(2) had not come into operation. It reads as follows:
 “
 36.Prisons Act 1981
-(1) The amendments in this section are to the Prisons Act 1981.
 (2) Section 16(6) is repealed and the following subsection is inserted instead —
 “
 (6) Subsection (5) does not apply in respect of a prisoner —
@@ -108,9 +108,5 @@ On the date as at which this compilation was prepared, the Criminal Law Amendmen
 (ii) his or her whole life in custody;
 or
 (b) whose release is to be determined by the Governor.
-”.
-(3) Section 26(2) is amended by inserting after “life imprisonment” —
-“
-or a sentence of life imprisonment in respect of which an order has been made under section 90(1)(b) of the Sentencing Act 1995
 ”.
 ”.

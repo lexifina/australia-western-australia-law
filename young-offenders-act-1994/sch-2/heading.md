@@ -7,9 +7,9 @@ Offences —
 ·which may lead to the application of the provisions relating to offenders who repeatedly commit offences resulting in detention
 Enactment | Description of offence
 1.The Criminal Code
-s. 278 (as read with s. 282) | Wilful murder
-s. 279 (as read with s. 282) | Murder
-s. 280 (as read with s. 287) | Manslaughter
+s. 279 | Murder
+s. 280 | Manslaughter
+s. 281 | Unlawful assault causing death
 s. 283 | Attempt to murder
 s. 292 | Disabling in order to commit indictable offence
 s. 294 | Acts intended to cause grievous bodily harm or to resist or prevent arrest
@@ -43,4 +43,4 @@ s. 18 | Agreement for prostitution by a child
 3.Road Traffic Act 1974
 s. 59 | Dangerous driving causing death, injury, etc.
 s. 59A | Dangerous driving causing bodily harm
-[Schedule 2 amended by No. 82 of 1994 s. 13(6); No. 17 of 2000 s. 64; No. 23 of 2001 s. 10(4); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 45.]
+[Schedule 2 amended by No. 82 of 1994 s. 13(6); No. 17 of 2000 s. 64; No. 23 of 2001 s. 10(4); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 45; No. 29 of 2008 s. 41(5).]

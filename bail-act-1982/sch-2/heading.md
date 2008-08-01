@@ -4,9 +4,9 @@
 ## Serious offences
  | Enactment | Description of offence
 1. | The Criminal Code
- | s. 278 (as read with s. 282) | Wilful murder
- | s. 279 (as read with s. 282) | Murder
- | s. 280 (as read with s. 287) | Manslaughter
+ | s. 279 | Murder
+ | s. 280 | Manslaughter
+ | s. 281 | Unlawful assault causing death
  | s. 292 | Disabling in order to commit indictable offence
  | s. 294 | Acts intended to cause grievous bodily harm or to resist or prevent arrest
  | s. 297 | Grievous bodily harm
@@ -45,4 +45,4 @@
 3. | Road Traffic Act 1974
  | s. 59 | Dangerous driving causing death, injury, etc.
  | s. 59A | Dangerous driving causing bodily harm
-[Schedule 2 inserted by No. 45 of 1993 s. 11; amended by No. 82 of 1994 s. 13; No. 38 of 1998 s. 4(2); No. 54 of 1998 s. 15; No. 23 of 2001 s. 10(1); No. 4 of 2004 s. 24 and 26; No. 38 of 2004 s. 61; No. 62 of 2004 s. 9(1); No. 84 of 2004 s. 82.]
+[Schedule 2 inserted by No. 45 of 1993 s. 11; amended by No. 82 of 1994 s. 13; No. 38 of 1998 s. 4(2); No. 54 of 1998 s. 15; No. 23 of 2001 s. 10(1); No. 4 of 2004 s. 24 and 26; No. 38 of 2004 s. 61; No. 62 of 2004 s. 9(1); No. 84 of 2004 s. 82; No. 29 of 2008 s. 24(8).]

@@ -47,13 +47,13 @@ Reprint 5: The Sentencing Act 1995 as at 6 Jul 2007 (includes amendments listed 
 Water Resources Legislation Amendment Act 2007 s. 199 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Fines Legislation Amendment Act 2008 Pt.3 | 3 of 2008 | 12 Mar 2008 | 28 Mar 2008 (see s. 2(c) and Gazette 27 Mar 2008 p. 899)
 Criminal Law and Evidence Amendment Act 2008 s. 70 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+Criminal Law Amendment (Homicide) Act 2008 Pt. 3 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 Acts Amendment (Justice) Act 2008 Pt. 20 and 21 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
-Criminal Law Amendment (Homicide) Act 2008 Pt. 3 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
@@ -79,13 +79,13 @@ Schedule 1 — Transitional provisions
 [s. 22 and 29(2)]
 1.Interpretation
 (1) In this Schedule —
-“commencement” means the commencement of section 22;
-“new provisions” means —
+commencement means the commencement of section 22;
+new provisions means —
 (a)the Sentencing Act 1995 as amended by the sentencing amendments; and
 (b)the Sentence Administration Act 2003;
-“old provisions” means the Sentencing Act 1995, and the repealed Act, as they would have applied had the sentencing amendments not come into operation;
-“repealed Act” means the Sentence Administration Act 1995;
-“sentencing amendments” means the amendments to the Sentencing Act 1995 effected by Part 2 Division 4 and the repeal of the Sentence Administration Act 1995 effected by section 29(1).
+old provisions means the Sentencing Act 1995, and the repealed Act, as they would have applied had the sentencing amendments not come into operation;
+repealed Act means the Sentence Administration Act 1995;
+sentencing amendments means the amendments to the Sentencing Act 1995 effected by Part 2 Division 4 and the repeal of the Sentence Administration Act 1995 effected by section 29(1).
 (2) In this Schedule, words and expressions have the same meanings as they have in the Sentencing Act 1995 and in particular, in Part 13 of that Act.
 2.Sentencing courts to take into account the effect of the sentencing amendments
 (1) If a court sentencing an offender to imprisonment proposes to impose a fixed term (with or without a parole eligibility order), it must impose a fixed term that is two thirds of the fixed term that it would have imposed had the old provisions been in operation at the time of sentencing.
@@ -147,7 +147,7 @@ A warrant issued under the repealed Act and in force immediately before commence
 The Board’s annual report made under section 112 of the Sentence Administration Act 2003 must report on the operation of the repealed Act to the extent that it continues to operate by virtue of this Schedule and the Interpretation Act 1984.
 13.Offenders serving imprisonment imposed before 4 November 1996
 (1) In this clause —
-“1995 Act” means the Sentencing (Consequential Provisions) Act 1995.
+1995 Act means the Sentencing (Consequential Provisions) Act 1995.
 (2) If immediately before commencement a person to whom section 82 of the 1995 Act applies is in custody subject to the sentence referred to in section 82, then on and after commencement section 82 continues to apply but —
 (a) the references to the Sentencing Act 1995 and the Sentence Administration Act 1995 are to be read as references to those Acts as they would have applied had the sentencing amendments not come into operation; and
 (b) clause 7 of this Schedule applies to the person.
@@ -187,7 +187,7 @@ to or in relation to any matter.
 (4) The Governor may make any regulations that are necessary or convenient for preventing any doubt or difficulty arising as to the application or operation of clause 2 or for resolving any doubt or difficulty that may have arisen in that regard.
 (5) If regulations made under subclause (1) or (4) provide that a specified state of affairs is to be taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations are published in the Gazette but not earlier than commencement, the regulations have effect according to their terms.
 (6) In subclause (5) —
-“specified” means specified or described in the regulations.
+specified means specified or described in the regulations.
 (7) If regulations contain a provision referred to in subclause (5), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the date of publication of those regulations; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the date of publication of those regulations.
@@ -221,9 +221,9 @@ After Schedule 1 clause 5 the following clause is inserted —
 “
 5A.Minister may discharge certain prisoners from old parole terms
 (1) In this clause —
-“discharge” means a discharge given under subclause (5);
-“Minister” means the Minister administering Part 8 of the Sentence Administration Act 2003;
-“old parole term” means a parole term to which the old provisions apply.
+discharge means a discharge given under subclause (5);
+Minister means the Minister administering Part 8 of the Sentence Administration Act 2003;
+old parole term means a parole term to which the old provisions apply.
 (2) This clause does not affect the operation of section 95(2) of the Sentencing Act 1995 as it was before the sentencing amendments.
 (3) The Prisoners Review Board established under the Sentence Administration Act 2003 may at any time give the Minister a report recommending that a person who is subject to an old parole term and who has served two thirds of the term be discharged from the term.
 (4) Any such report must deal with the release considerations (as that term is defined in section 5A of the Sentence Administration Act 2003) relating to the person.
@@ -254,59 +254,5 @@ Schedule 3 — Consequential amendments
 (2) Schedule 1 is amended by deleting the item relating to the “Medical Act 1894” and inserting instead —
 “
 Medical Practitioners Act 2008 | Medical Board of Western Australia
-”.
-”.
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 Pt. 3 had not come into operation. It reads as follows:
-“
-Part 3 — Sentencing Act 1995 amended
-18.Act amended in this Part
-The amendments in this Part are to the Sentencing Act 1995.
-19.Sections 90 and 91 replaced by section 90
-Sections 90 and 91 are repealed and the following section is inserted instead —
-“
-90.Imposing life imprisonment for murder
-(1) A court that sentences an offender to life imprisonment for murder must either —
-(a) set a minimum period of at least 10 years that the offender must serve before being eligible for release on parole; or
-(b) order that the offender must never be released.
-(2) Any minimum period so set begins to run when the sentence of life imprisonment begins.
-(3) A court must make an order under subsection (1)(b) if it is necessary to do so in order to meet the community’s interest in punishment and deterrence.
-(4) In determining whether an offence is one for which an order under subsection (1)(b) is necessary, the only matters relating to the offence that are to be taken into account are —
-(a) the circumstances of the commission of the offence; and
-(b) any aggravating factors.
-”.
-20.Section 96 replaced
-Section 96 is repealed and the following section is inserted instead —
-“
-96.Release from life imprisonment
-(1) A prisoner serving a sentence of life imprisonment for an offence other than murder is not to be released before he or she has served 7 years of the sentence.
-(2) A prisoner serving a sentence of life imprisonment for murder in respect of which a minimum period has been set under section 90(1)(a) is not to be released before he or she has served the minimum period.
-(3) A prisoner serving a sentence of life imprisonment for murder in respect of which an order has been made under section 90(1)(b) is not to be released.
-(4) Any order for the release of a prisoner referred to in this section must be made in accordance with Part 3 of the Sentence Administration Act 2003.
-”.
-21.Section 107 amended
-(1) Section 107(1) is amended by deleting “certificate of competency, or a particular certificate of competency, under the Western Australian Marine Act 1982.” and inserting instead —
-“ marine qualification or a particular marine qualification. ”.
-(2) Section 107(3) is amended by deleting “certificate” and inserting instead —
-“ marine qualification ”.
-(3) Section 107(5) is amended by inserting in the appropriate alphabetical position —
-“
-“marine qualification” means a certificate of competency or any other qualification issued to a person under the Western Australian Marine Act 1982 in relation to navigating or operating a vessel;
-”.
-22.Consequential amendments
-(1) Section 85(1) is amended as follows:
-(a) in the definition of “fixed term” by deleting “a life term” and inserting instead —
-“ life imprisonment ”;
-(b) by deleting the definition of “life term”;
-(c) in the definition of “term” by deleting “a life term” and inserting instead —
-“ life imprisonment ”;
-(d) in the definition of “term” by deleting paragraph (a) and “or” after it and inserting the following instead —
-“
-(a)detention under a sentence imposed under section 279(5)(b) of The Criminal Code; or
-”.
-(2) Section 88(5) is amended by deleting “a life term is to serve that term” and inserting instead —
-“ life imprisonment is to serve that sentence ”.
-(3) Section 142 is amended by deleting “sentenced to strict security life imprisonment” and inserting instead —
-“
-serving a sentence of life imprisonment in respect of which an order has been made under section 90(1)(b)
 ”.
 ”.

@@ -48,13 +48,13 @@ Criminal Investigation (Consequential Provisions) Act 2006 Pt. 2 | 59 of 2006 | 
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 5 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Reprint 6: The Bail Act 1982 as at 14 Sep 2007 (includes amendments listed above)
 Criminal Law and Evidence Amendment Act 2008 s. 56 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+Criminal Law Amendment (Homicide) Act 2008 s. 24 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
-Bail Amendment Act 2008 Pt. 2 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2)
+Bail Amendment Act 2008 Pt. 2 | 6 of 2008 (as amended by No. 29 of 2008 s. 24(2)-(4), (6) and (7)) | 31 Mar 2008 | To be proclaimed (see s. 2)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
-Criminal Law Amendment (Homicide) Act 2008 s. 24 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 25. The Act was then repealed by the Criminal Procedure and Appeal (Consequential and Other Provisions) Act 2004.
 The amendment in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 had not come into operation when it was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Bail Amendment Act 1984 s. 10 and 11 were repealed by the Bail Amendment Act 1988 s. 20.
@@ -86,8 +86,8 @@ The amendments in this Division are to the Bail Act 1982.
 (1) Section 3(1) is amended as follows:
 (a) by inserting the following definitions in the appropriate alphabetical positions —
 “
-“CEO” means the chief executive officer of the Department;
-“Department” means the department of the Public Service principally assisting in the administration of this Act;
+CEO means the chief executive officer of the Department;
+Department means the department of the Public Service principally assisting in the administration of this Act;
 ”;
 (b) in the definition of “authorised community services officer” in paragraph (a) by deleting “(Justice)” in both places where it occurs;
 (c) by deleting the definition of “CEO (Justice)”.
@@ -110,7 +110,7 @@ Note:The headings to sections 27A, 50A, 50E, 50F and 50J will be altered by dele
 ”.
 The amendments to the Bail Act 1982 in the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 cl. 31(1)(b) and (c), cl. 32 and 33 would conflict with amendments by the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 5.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Bail Amendment Act 2008 Pt. 2 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Bail Amendment Act 2008 Pt. 2 (as amended by No. 29 of 2008) had not come into operation. It reads as follows:
 “
 Part 2 — Bail Act 1982 amended
 3.The Act amended in this Part
@@ -119,7 +119,7 @@ The amendments in this Part are to the Bail Act 1982.
 Section 3(1) is amended as follows:
 (a) by deleting the definition of “appropriate judicial officer” and inserting instead —
 “
-“appropriate judicial officer” means —
+appropriate judicial officer means —
 (a)subject to paragraphs (b), (c) and (d), a judicial officer who is empowered to exercise jurisdiction in the court before which the accused is required to appear pursuant to his bail undertaking; or
 (b)if the court is the Court of Appeal, a judge of appeal; or
 (c)except in section 49, a Judge of the Supreme Court or of the Children’s Court, as the case may require, in any case where —
@@ -138,18 +138,18 @@ and, where the context so requires, the Court of Appeal exercising jurisdiction 
 ”;
 (d) by inserting in the appropriate alphabetical positions —
 “
-“approved”, in relation to a form, means approved by the chief executive officer of the department of the Public Service principally assisting in the administration of this Act;
-“Chief Judge” means the Chief Judge of the District Court;
-“Chief Justice” means the Chief Justice of Western Australia;
-“court custody centre” has the meaning given in the Court Security and Custodial Services Act 1999 section 3;
-“Director of Public Prosecutions” means —
+approved, in relation to a form, means approved by the chief executive officer of the department of the Public Service principally assisting in the administration of this Act;
+Chief Judge means the Chief Judge of the District Court;
+Chief Justice means the Chief Justice of Western Australia;
+court custody centre has the meaning given in the Court Security and Custodial Services Act 1999 section 3;
+Director of Public Prosecutions means —
 (a)the Director of Public Prosecutions for the State; or
 (b)the officer in charge in the State of the Commonwealth Office of the Director of Public Prosecutions,
 as the case requires;
-“electronic address” means a facsimile number, email address or other electronic address, as the case requires;
-“electronic communication” means facsimile transmission, email or other form of electronic communication as defined in the Electronic Transactions Act 2003 section 5;
-“judge of appeal” has the meaning given in the Supreme Court Act 1935 section 4(1);
-“registrar” of a court means —
+electronic address means a facsimile number, email address or other electronic address, as the case requires;
+electronic communication means facsimile transmission, email or other form of electronic communication as defined in the Electronic Transactions Act 2003 section 5;
+judge of appeal has the meaning given in the Supreme Court Act 1935 section 4(1);
+registrar of a court means —
 (a)for a court other than the Coroner’s Court of Western Australia, the principal registrar, a registrar or a deputy registrar of the court; or
 (b)for the Coroner’s Court of Western Australia, a coroner’s registrar as defined in the Coroners Act 1996 section 3;
 ”.
@@ -157,7 +157,7 @@ as the case requires;
 After section 3 the following section is inserted —
 “
 3A.Sending notices by electronic communication
-(1) A reference in this Act, however expressed, to a notice being sent to a person (the “addressee”) by electronic communication is a reference to the notice being sent by electronic communication —
+(1) A reference in this Act, however expressed, to a notice being sent to a person (the addressee) by electronic communication is a reference to the notice being sent by electronic communication —
 (a) to an electronic address provided by the addressee for the purpose of being served with the notice; and
 (b) in an electronic format that enables it to be printed or otherwise generated by the addressee.
 (2) If a notice is sent in accordance with subsection (1), the notice is to be presumed, unless the contrary is shown, to have been received at the time when, in the ordinary course of events, the electronic communication would have entered the information system, as defined in the Electronic Transactions Act 2003 section 5, of the addressee.
@@ -197,12 +197,12 @@ Section 5(2) is amended by deleting “7(3)” and inserting instead —
 (b) any requirement that the accused be in custody for some other offence or reason.
 7B.Special provision for adult accused in murder cases
 (1) In this section —
-“Judge” means a Judge of the Supreme Court.
+Judge means a Judge of the Supreme Court.
 (2) This section applies where —
-(a) an accused is in custody for an offence of wilful murder or murder so that under section 15 only a Judge has power to grant bail; and
+(a) an accused is in custody for an offence of murder so that under section 15 only a Judge has power to grant bail; and
 (b) the accused is not a child.
 (3) Where this section applies the accused, or a person on the accused’s behalf, may make an application to a Judge for bail at any time before conviction for the offence.
-(4) Upon an accused’s initial appearance in court for an offence of wilful murder or murder, the judicial officer who may order the accused’s detention in custody is under a duty to inform the accused of the right conferred by subsection (3).
+(4) Upon an accused’s initial appearance in court for an offence of murder, the judicial officer who may order the accused’s detention in custody is under a duty to inform the accused of the right conferred by subsection (3).
 (5) Where —
 (a) an accused’s case for bail has been considered by a Judge on an application under subsection (3); and
 (b) bail has been refused,
@@ -215,8 +215,9 @@ the accused’s case for bail shall not be considered on any subsequent occasion
 (b) bail has been granted,
 on any subsequent appearance in the same case a judicial officer may order, notwithstanding section 15, that bail is to continue on the same terms and conditions.
 (8) The accused is to be taken before a Judge for the purposes of an application under this section only if the Judge so orders.
+[Section 7B amended by No. 29 of 2008 s. 24(2) and (3).]
 7C.Special provision for child accused in murder cases
-(1) This section applies where a child accused is in custody for an offence of wilful murder or murder so that under section 15 only a Judge of the Children’s Court has power to grant bail.
+(1) This section applies where a child accused is in custody for an offence of murder so that under section 15 only a Judge of the Children’s Court has power to grant bail.
 (2) Where this section applies, the judicial officer referred to in section 7(1) other than a Judge of the Children’s Court, shall, whether or not an application for bail is made by the accused or on the accused’s behalf, cause the accused to be taken as soon as is practicable before a Judge of the Children’s Court for the purpose of having the accused’s case for bail considered by the Judge.
 (3) Notwithstanding subsection (2), where —
 (a) the duty described in that subsection has been discharged once in relation to a child accused’s case for bail; and
@@ -226,6 +227,7 @@ the accused’s case for bail need not be considered on any subsequent occasion 
 (a) new facts have been discovered, new circumstances have arisen or the circumstances have changed since bail was refused on the occasion mentioned in subsection (3); or
 (b) the accused failed to adequately present the accused’s case for bail on that occasion.
 (5) If the judicial officer is satisfied as to one or more of those grounds the judicial officer shall cause the accused to be taken as soon as is practicable before a Judge of the Children’s Court for the purpose of having the accused’s case for bail considered by the Judge.
+[Section 7C amended by No. 29 of 2008 s. 24(4).]
 7D.Previous decision may be adopted
 (1) Notwithstanding section 7(1), after —
 (a) the duty described in that subsection has been discharged once in relation to an accused’s case for bail; or
@@ -241,7 +243,7 @@ it is sufficient on any subsequent consideration of bail in the same case for a 
 (b) the trial extends beyond one day,
 a judicial officer referred to in section 7(1) need not comply with that subsection unless the accused, or a person on the accused’s behalf, applies for bail.
 (2) In subsection (1) —
-“trial” means that part of proceedings for an offence when evidence is being received by the court in respect of the offence and also extends to any time when —
+trial means that part of proceedings for an offence when evidence is being received by the court in respect of the offence and also extends to any time when —
 (a)legal argument is being heard; or
 (b)a judicial officer or a jury is deliberating.
 7F.Bail for appeal from courts of summary jurisdiction
@@ -350,14 +352,14 @@ and
 (6) The Bail Act 1982 section 14(4)(a)(ii) as inserted by subsection (4) applies in respect of an accused committed to the District Court on or after the commencement for trial or sentence.
 (7) The Bail Act 1982 section 14(4)(b) as inserted by subsection (4) applies in respect of any power referred to in the Bail Act 1982 section 14(1) that is exercised, or could be exercised, on or after the commencement by any other judicial officer as defined in that paragraph.
 (8) In subsections (5), (6) and (7) —
-“commencement” means the commencement of subsection (4).
+commencement means the commencement of subsection (4).
 Note:The heading to section 14 is to read “Extent of Judge’s jurisdiction”.
 16.Sections 15A and 15B inserted and transitional provision
 (1) After section 15 the following sections are inserted —
 “
 15A.Appeal from decision of Judge
 (1) In this section —
-“bail decision” means a decision —
+bail decision means a decision —
 (a)to grant or refuse bail; or
 (b)to vary or revoke bail; or
 (c)to dispense with the requirement for bail; or
@@ -456,8 +458,8 @@ or a Judge of the Children’s Court, as the case may require,
 “
 31A.Amendment of conditions during trial
 (1) In this section —
-“amendment” means an addition, variation or cancellation under subsection (2);
-“trial” means that part of proceedings for an offence when evidence is being received by the court in respect of the offence and also extends to any time when —
+amendment means an addition, variation or cancellation under subsection (2);
+trial means that part of proceedings for an offence when evidence is being received by the court in respect of the offence and also extends to any time when —
 (a)legal argument is being heard; or
 (b)a judicial officer or a jury is deliberating.
 (2) Where —
@@ -520,7 +522,7 @@ and subsection (1) has effect subject to any such order.
 ”.
 (2) Section 3(1) is amended by inserting in the appropriate alphabetical position —
 “
-“surety approval officer” means a person who is authorised by section 36 to decide whether an applicant should be approved as a surety;
+surety approval officer means a person who is authorised by section 36 to decide whether an applicant should be approved as a surety;
 ”.
 (3) Section 41(2) is amended as follows:
 (a) by inserting before “officer” in the first place where it occurs —
@@ -553,9 +555,9 @@ After section 43 the following section is inserted —
 “
 43A.Use of video link and electronic communication where proposed surety is interstate
 (1) In this section —
-“proposed surety” means a person who is to enter into a surety undertaking;
-“relevant official” means the person before whom the surety undertaking is to be entered into or was entered into, as the case requires;
-“video link” means facilities (including closed circuit television) that enable, at the same time —
+proposed surety means a person who is to enter into a surety undertaking;
+relevant official means the person before whom the surety undertaking is to be entered into or was entered into, as the case requires;
+video link means facilities (including closed circuit television) that enable, at the same time —
 (a)the relevant official to see and hear the proposed surety; and
 (b)the proposed surety to see and hear the relevant official.
 (2) This section applies if a proposed surety is in another State or a Territory.
@@ -579,7 +581,7 @@ After section 43 the following section is inserted —
 (a) that it does so extend; and
 (b) the effect of subsection (4).
 (3) In subsection (2) —
-“trial” means that part of proceedings for an offence when evidence is being received by the court in respect of the offence and also extends to any time when —
+trial means that part of proceedings for an offence when evidence is being received by the court in respect of the offence and also extends to any time when —
 (a)legal argument is being heard; or
 (b)a judicial officer or a jury is deliberating.
 (4) Subsection (2) applies despite any amendment as defined in section 31A(1) if the endorsement or notice under section 31A(3)(a) in respect of the amendment includes a statement referred to in section 31A(4).
@@ -691,7 +693,7 @@ or
 (1) Before section 54(1) the following subsection is inserted —
 “
 (1a) In this section —
-“relevant officer” means —
+relevant officer means —
 (a)if the court before which the accused is required to appear is the District Court, the Supreme Court or the Court of Appeal — the prosecutor; or
 (b)in any other case — the prosecutor or a police officer.
 ”.
@@ -725,13 +727,14 @@ After section 54 the following section is inserted —
 “
 54A.Accused on committal may be taken before court by which committed
 (1) This section applies to an accused —
-(a) who has been released on bail following the accused’s committal to the District Court or the Supreme Court to be tried (otherwise than for wilful murder or murder) or sentenced or otherwise dealt with; and
+(a) who has been released on bail following the accused’s committal to the District Court or the Supreme Court to be tried (otherwise than for murder) or sentenced or otherwise dealt with; and
 (b) who has not made an appearance in that court on the committal; and
 (c) who, in the opinion of the relevant officer under section 54, should be made to show cause in terms of subsection (1) of that section.
 (2) The relevant officer may, under section 54, cause an accused to whom this section applies to appear before a judicial officer who is empowered to exercise jurisdiction in the court in which the committal order was made, instead of before an appropriate judicial officer.
 (3) A judicial officer before whom an accused so appears is to be regarded as an appropriate judicial officer for the purposes of section 54(2).
 (4) A judicial officer before whom an accused so appears is not obliged to exercise any power conferred by section 55 but may refuse to do so and direct the relevant officer to cause the accused to appear before an appropriate judicial officer.
 (5) A relevant officer shall comply with a direction given to that officer under subsection (4).
+[Section 54A amended by No. 29 of 2008 s. 24(6).]
 ”.
 35.Section 56 repealed
 Section 56 is repealed.
@@ -740,7 +743,7 @@ Section 56 is repealed.
 “
 59A.Where bail dispensed with, accused may be taken before judicial officer for reconsideration of matter
 (1) In this section —
-“relevant officer” has the meaning given in section 54(1a).
+relevant officer has the meaning given in section 54(1a).
 (2) Where the requirement for bail has been dispensed with for an accused under section 7A, the relevant officer may cause the accused to appear before an appropriate judicial officer for reconsideration of the matter, if the relevant officer has reasonable grounds to believe that the accused is not likely to appear at the time and place specified in a notice under section 13A(3).
 (3) Section 54(2), (2a), (3) and (4) apply, with necessary modifications, for the purposes of subsection (2).
 (4) The judicial officer before whom an accused appears under subsection (2) shall reconsider the accused’s case and may, notwithstanding section 13 —
@@ -786,13 +789,13 @@ Section 66A(1) is amended by inserting before paragraph (b) —
 “
 66B.Use of video link or audio link
 (1) In this section —
-“audio link” means facilities (including telephone) that enable, at the same time, a judicial officer or authorised officer at one place to hear the accused at another place and vice versa;
-“bail proceedings” means any proceedings under this Act including —
+audio link means facilities (including telephone) that enable, at the same time, a judicial officer or authorised officer at one place to hear the accused at another place and vice versa;
+bail proceedings means any proceedings under this Act including —
 (a)proceedings on a case for bail;
 (b)proceedings relating to the variation or revocation of bail;
 (c)proceedings on an application under section 48 or 49;
 (d)proceedings on an appeal under section 15A or 53;
-“video link” means facilities (including closed circuit television) that enable, at the same time, a judicial officer or authorised officer at one place to see and hear the accused at another place and vice versa.
+video link means facilities (including closed circuit television) that enable, at the same time, a judicial officer or authorised officer at one place to see and hear the accused at another place and vice versa.
 (2) Bail proceedings may be conducted by means of a video link or an audio link.
 (3) Without limiting subsection (2), if a provision of this Act requires or authorises an accused to be brought before, or appear before, a court, judicial officer or authorised officer, the accused may be brought before, or appear before, the court or officer by means of a video link or an audio link.
 (4) An audio link is not to be used under this section unless a video link is not available and cannot reasonably be made available.
@@ -822,7 +825,7 @@ Part B — Cessation of powers relating to bail
 “
 1.Upon decision by Judge, power of other officers ceases
 (1) In this clause —
-“Judge” means a Judge of the Supreme Court, the Children’s Court or the District Court.
+Judge means a Judge of the Supreme Court, the Children’s Court or the District Court.
 (2) After a Judge has granted or refused bail for an appearance by an accused the power to grant bail for that appearance ceases to be vested in —
 (a) any judicial officer whose jurisdiction is inferior to that of the Judge; or
 (b) any authorised officer.
@@ -863,11 +866,12 @@ and
 “
 3C.Bail in murder cases
 Notwithstanding clause 1, 2 or 4 or any other provision of this Act, where an accused is in custody —
-(a) awaiting an appearance in court before conviction for an offence of wilful murder or murder; or
-(b) waiting to be sentenced or otherwise dealt with for an offence of wilful murder or murder of which the accused has been convicted,
+(a) awaiting an appearance in court before conviction for an offence of murder; or
+(b) waiting to be sentenced or otherwise dealt with for an offence of murder of which the accused has been convicted,
 the judicial officer in whom jurisdiction is vested shall refuse to grant bail for the offence unless the judicial officer is satisfied that —
 (c) there are exceptional reasons why the accused should not be kept in custody; and
 (d) bail may properly be granted having regard to the provisions of clauses 1 and 3 or, in the case of a child, clauses 2 and 3.
+[Clause 3C amended by No. 29 of 2008 s. 24(7).]
 ”;
 (f) by deleting clause 4 and inserting instead —
 “
@@ -917,14 +921,14 @@ to a serious offence includes a reference to an offence against The Criminal Cod
 “ approved ”.
 Note:The heading to section 8 is to be altered by deleting “prescribed” and inserting instead “approved”.
 44.Transitional regulations
-(1) If this Part does not provide sufficiently for a matter or issue of a transitional nature that arises as a result of the amendments made to the Bail Act 1982 by this Part, the Governor may make regulations (the “transitional regulations”) prescribing all matters that are required, necessary or convenient to be prescribed for providing for the matter or issue.
+(1) If this Part does not provide sufficiently for a matter or issue of a transitional nature that arises as a result of the amendments made to the Bail Act 1982 by this Part, the Governor may make regulations (the transitional regulations) prescribing all matters that are required, necessary or convenient to be prescribed for providing for the matter or issue.
 (2) The transitional regulations may provide that specified provisions of the Bail Act 1982 or this Part —
 (a) do not apply; or
 (b) apply with specified modifications,
 to or in relation to any matter.
 (3) If the transitional regulations provide that a specified state of affairs is to be taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the transitional regulations are published in the Gazette but not earlier than the commencement of this section, the transitional regulations have effect according to their terms.
 (4) In subsections (2) and (3) —
-“specified” means specified or described in the transitional regulations.
+specified means specified or described in the transitional regulations.
 (5) If the transitional regulations contain a provision referred to in subsection (3), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
@@ -941,23 +945,6 @@ Schedule 3 — Consequential amendments
 (1) The amendments in this clause are to the Bail Act 1982.
 (2) Schedule 1 Part D clause 2(7) is amended by deleting the definition of “medical practitioner” and inserting instead —
 “
-“medical practitioner” has the meaning given to that term in the Medical Practitioners Act 2008 section 4;
-”.
-”.
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 24 had not come into operation. It reads as follows:
-“
-24.Bail Act 1982
-(1) The amendments in this section are to the Bail Act 1982.
-(2) Section 7B(2)(a) is amended by deleting “wilful murder or”.
-(3) Section 7B(4) is amended by deleting “wilful murder or”.
-(4) Section 7C(1) is amended by deleting “wilful murder or”.
-(5) Section 15(1) is amended by deleting “wilful murder or”.
-(6) Section 54A(1)(a) is amended by deleting “wilful murder or”.
-(7) Schedule 1 Part C clause 3C is amended by deleting “wilful murder or” in the 2 places where it occurs.
-(8) Schedule 2 item 1 is amended by deleting the entries relating to The Criminal Code sections 278, 279 and 280 and inserting instead —
-“
-s. 279Murder
-s. 280Manslaughter
-s. 281Unlawful assault causing death
+medical practitioner has the meaning given to that term in the Medical Practitioners Act 2008 section 4;
 ”.
 ”.

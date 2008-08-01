@@ -10,16 +10,14 @@ s. 74 | Threatening violence in relation to a dwelling house
 s. 98 | Undue influence of an elector
 s. 123 | Threatening a juror or corruption of or by a juror
 s. 128 | Threatening a witness before a Royal Commission or public inquiry
-s. 144 | Using force to rescue a person undergoing, or liable to, strict security life imprisonment
+s. 144 | Forcibly freeing certain offenders from custody
 s. 186 | Occupier or owner permitting a young person to be on premises for unlawful carnal knowledge
 s. 191 | Procuration
 s. 192(1), (3) and (4) | Procuring unlawful carnal knowledge of a person by threats, intimidation or drugs
 s. 199 | Abortion
-s. 278 (as read with s. 282) | Wilful murder
-s. 279 (as read with s. 282) | Murder
-s. 280 (as read with s. 287) | Manslaughter
-s. 281 (as read with s. 287) | Killing on provocation
-s. 281A (as read with s. 287A) | Infanticide
+s. 279 | Murder
+s. 280 | Manslaughter
+s. 281 | Unlawful assault causing death
 s. 283 | Attempt to murder
 s. 288 | Procuring, inducing or aiding suicide
 s. 290 | Killing an unborn child
@@ -77,7 +75,7 @@ s. 455 | Attempting to cause explosion likely to do serious damage to property
 s. 456 | Attempts to damage or obstruct mines
 s. 457 | Interfering with marine signals
 s. 458 | Interfering with navigation works
-[Part 1 inserted by No. 48 of 1991 s. 10; amended by No. 14 of 1992 s. 15(2); No. 82 of 1994 s. 13(4)(a); No. 69 of 1996 s. 31; No. 15 of 1998 s. 6(1); No. 23 of 2001 s. 10(3); No. 3 of 2002 s. 41(3); No. 4 of 2004 s. 24, 26 and 61(6); No. 2 of 2008 s. 55.]
+[Part 1 inserted by No. 48 of 1991 s. 10; amended by No. 14 of 1992 s. 15(2); No. 82 of 1994 s. 13(4)(a); No. 69 of 1996 s. 31; No. 15 of 1998 s. 6(1); No. 23 of 2001 s. 10(3); No. 3 of 2002 s. 41(3); No. 4 of 2004 s. 24, 26 and 61(6); No. 2 of 2008 s. 55; No. 29 of 2008 s. 33.]
 ## Part 2 — Offences under the Road Traffic Act 1974
 [Heading inserted by No. 48 of 1991 s. 10.]
 Provision | Description of offence

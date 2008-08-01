@@ -130,6 +130,7 @@ Road Traffic Amendment (Drugs) Act 2007 Pt. 2 | 6 of 2007 | 23 May 2007 | 12 Oct
 Road Traffic Amendment Act (No. 2) 2007 Pt. 1 and Pt. 2 (except s. 27-30) | 39 of 2007 | 21 Dec 2007 | Pt. 1: 21 Dec 2007 (see s. 2(a)); Pt. 2 Div. 6: 22 Dec 2007 (see s. 2(j)); Pt. 2 (other than s. 6(2)(b)(ii), 17, 18 & 25 and Div. 4, 5 & 6): 15 Mar 2008 (see s. 2(b)-(j) and Gazette 14 Mar 2008 p. 829); Pt. 2 s. 6(2)(b)(ii): 15 Mar 2008 (see s. 2(c)); Pt. 2 s. 17, 18 & 25: 30 Jun 2008 (see s. 2(d)-(f)); Pt. 2 (s. 26) and Pt. 2 Div. 5: 1 Jul 2008 (see s. 2(g)-(i) and Gazette 27 Jun 2008 p. 3117)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Road Traffic Amendment Act 2008 (except s. 5(a) and 8) | 24 of 2008 | 13 Jun 2008 | s. 1 and 2: 13 Jun 2008 (see s. 2(1)(a)); s. 3, 4, 5(b)-(f), 6, 7, 9-25: 19 Jul 2008 (see s. 2(1)(b) and Gazette 18 Jul 2008 p. 3329)
+Criminal Law Amendment (Homicide) Act 2008 s. 38 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -138,7 +139,6 @@ Road Traffic Amendment Act (No. 2) 2007 Pt.2 Div. 4 (s. 27-30) | 39 of 2007 | 21
 Acts Amendment (Justice) Act 2008 s. 131 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act 2008 s. 5(a) and 8 | 24 of 2008 | 13 Jun 2008 | To be proclaimed (see s. 2(1)(b) and (2))
-Criminal Law Amendment (Homicide) Act 2008 s. 38 | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 Footnote no longer applicable.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
@@ -149,14 +149,14 @@ The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 
 (a) instead of being made by the Minister referred to in the former section 15C, the agreement had been made by the Director General referred to in the new provision of the relevant Act; and
 (b) instead of providing for the performance of functions of the former Director General, the agreement made similar provision for the performance of the corresponding functions of the Director General referred to in the new provision of the relevant Act.
 (3) In this section —
-“former Director General” means the Director General of Transport under the Transport Co-ordination Act 1966 section 8 as in force before it was repealed by this Act;
-“former section 15C” means the Transport Co-ordination Act 1966 section 15C as in force before it was repealed by this Act;
-“new provision” means —
+former Director General means the Director General of Transport under the Transport Co-ordination Act 1966 section 8 as in force before it was repealed by this Act;
+former section 15C means the Transport Co-ordination Act 1966 section 15C as in force before it was repealed by this Act;
+new provision means —
 (a)the Control of Vehicles (Off-road Areas) Act 1978 section 4B;
 (b)the Motor Vehicle Drivers Instructors Act 1963 section 4A;
 (c)the Motor Vehicle (Third Party Insurance) Act 1943 section 3QA; or
 (d)the Road Traffic Act 1974 section 6B;
-“relevant Act” means —
+relevant Act means —
 (a)the Control of Vehicles (Off-road Areas) Act 1978;
 (b)the Motor Vehicle Drivers Instructors Act 1963;
 (c)the Motor Vehicle (Third Party Insurance) Act 1943; or
@@ -168,16 +168,16 @@ The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 
 (b) instead of delegating the performance of functions of the former Director General, the performance of the corresponding functions of the Director General referred to in the new provision of the relevant Act were delegated; and
 (c) any Ministerial approval that would have been required in order for the delegation to be made under the new provision of the relevant Act had been given.
 (3) In this section —
-“former Director General” means the Director General of Transport under the Transport Co-ordination Act 1966 section 8 as in force before it was repealed by this Act;
-“former section 18” means the Transport Co-ordination Act 1966 section 18 as in force before it was amended by this Act;
-“new provision” means —
+former Director General means the Director General of Transport under the Transport Co-ordination Act 1966 section 8 as in force before it was repealed by this Act;
+former section 18 means the Transport Co-ordination Act 1966 section 18 as in force before it was amended by this Act;
+new provision means —
 (a)the Control of Vehicles (Off-road Areas) Act 1978 section 4A;
 (b)the Motor Vehicle Drivers Instructors Act 1963 section 4;
 (c)the Motor Vehicle (Third Party Insurance) Act 1943 section 3QB;
 (d)the Rail Safety Act 1998 section 57A;
 (e)the Road Traffic Act 1974 section 6A; or
 (f)the Transport Co-ordination Act 1966 section 18;
-“relevant Act” means —
+relevant Act means —
 (a)the Control of Vehicles (Off-road Areas) Act 1978;
 (b)the Motor Vehicle Drivers Instructors Act 1963;
 (c)the Motor Vehicle (Third Party Insurance) Act 1943;
@@ -187,7 +187,7 @@ The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 
 69.Regulations about transitional matters
 (1) If there is no sufficient provision in this Act for dealing with a transitional matter, regulations under an Act amended by this Act may include any provision that is required, or is necessary or convenient, for dealing with the transitional matter.
 (2) In subsection (1) —
-“transitional matter” means a matter that needs to be dealt with for the purpose of effecting the transition from the provisions of the Acts amended by this Act as in force before this Act comes into operation to the provisions of those Acts as in force after this Act comes into operation.
+transitional matter means a matter that needs to be dealt with for the purpose of effecting the transition from the provisions of the Acts amended by this Act as in force before this Act comes into operation to the provisions of those Acts as in force after this Act comes into operation.
 (3) Regulations including a provision described in subsection (1) may be expressed to have effect before the day on which they are published in the Gazette.
 (4) To the extent that a regulation including a provision described in subsection (1) may have effect before the day of its publication in the Gazette, it does not —
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State), the rights of that person existing before the day of its publication; or
@@ -217,14 +217,14 @@ Section 89 of the principal Act is amended —
 (a) the Court shall have the powers of a Local Court under the Local Courts Act 1904 and all such orders that it shall make shall be final but the Court shall not make any order for compensation against any person unless an opportunity has been given to that person to show why the order should not be made;
 (b) the Court shall not be bound by the strict rules of evidence and may receive any written affidavit or statutory declaration evidencing loss or damage as it considers to be reliable.
 (8) No order for compensation under this section shall affect the right of any person to recover by civil proceedings any sum in excess of the amount of the order, and refusal or reduction of compensation under this section shall be no bar to civil proceedings, but no order for compensation against a convicted person shall deprive that person of the right in civil proceedings to contribution from any tortfeasor.
-(9) In this section “owner of the vehicle”, in relation to an offence under this section, means the owner of the vehicle at the time of the offence and includes a person who was in lawful possession or charge of the vehicle at the time of the offence.
+(9) In this section owner of the vehicle, in relation to an offence under this section, means the owner of the vehicle at the time of the offence and includes a person who was in lawful possession or charge of the vehicle at the time of the offence.
 (10) Section 719 of The Criminal Code does not apply to an offence under this section.
 [Section 11 amended by No. 84 of 2004 s. 80.]
 ”.
 ”.
 The Road Traffic Amendment Act 1988 s. 17(2) and (3) read as follows:
 “
-(2) In subsection (3) “the relevant regulations” means any regulations purporting to have been made under the principal Act before 1 July 1984 that would have been authorised under section 43(7) or (8) of the Interpretation Act 1984 if they had been made on or after 1 July 1984.
+(2) In subsection (3) the relevant regulations means any regulations purporting to have been made under the principal Act before 1 July 1984 that would have been authorised under section 43(7) or (8) of the Interpretation Act 1984 if they had been made on or after 1 July 1984.
 (3) The principal Act as enacted from time to time before 1 July 1984 is deemed to have authorised the making of the relevant regulations and those regulations shall be deemed to have taken effect and had the force of law accordingly.
 ”.
 The Road Traffic Amendment (Random Breath Tests) Act 1988 s. 4 and the Road Traffic Amendment Act 1996 s. 41 amended the Road Traffic Amendment (Random Breath Tests) Act 1988 s. 5 which was repealed by the Road Traffic Amendment Act 2000 s. 67.
@@ -246,7 +246,7 @@ The Road Traffic Amendment Act 1996 s. 52 reads as follows:
 52.Actions of delegates validated
 (1) Anything done before the commencement of this section by a person acting under any delegation purporting to have been made by the Traffic Board under any written law, is as valid and has the same force and effect, and is to be regarded as having always been as valid and had the same force and effect, as if it had been done by the Traffic Board.
 (2) In subsection (1) —
-“Traffic Board” means the Traffic Board constituted under section 6 of the Road Traffic Act 1974 as it was before the commencement of this Act.
+Traffic Board means the Traffic Board constituted under section 6 of the Road Traffic Act 1974 as it was before the commencement of this Act.
 ”.
 The Road Traffic Amendment Act 1996 s. 8(3) repealed by the Road Traffic Amendment Act 2006 s.43(2).
 The amendment to s. 20(2) referred to in the Road Traffic Amendment Act 1997 s. 13 did not come into operation because of an error in the reference to the provision to be amended.
@@ -261,7 +261,7 @@ Schedule 1 — Savings and transitional
 [s. 48]
 1.Interpretation
 In this Part —
-“commencement day” means the day on which this Act comes into operation under section 2.
+commencement day means the day on which this Act comes into operation under section 2.
 2.Section 18 amendments have no effect in relation to certain applications
 The amendments made by section 18 have no effect in relation to an application for a driver’s licence by a person who holds a permit issued under section 48C of the Road Traffic Act 1974 before the commencement day.
 3.Licences to drive vehicles formerly classified by reference to use
@@ -304,7 +304,7 @@ The Road Traffic Amendment Act 2006 s. 35(2) and Pt. 3 read as follows:
 Part 3 — Transitional provision
 36.Existing demerit points
 Points currently recorded in respect of a person under section 103 of the Road Traffic Act 1974 immediately before that section is repealed by section 29, and details of any offence in respect of which the points were recorded, are to be recorded as demerit points against the person in the demerit points register referred to in Part VIA of the Road Traffic Act 1974 as inserted by section 31.
-Pt. 4 Div. 4 will not be included because the Road Traffic Amendment (Vehicle Licensing) Act 2001 has already commenced (see s. 45-48).
+The Road Traffic Amendment Act 2006 Pt. 4 Div. 4 will not be included because the Road Traffic Amendment (Vehicle Licensing) Act 2001 had already commenced (see s. 45-48).
 On the date as at which this compilation was prepared, the Road Traffic Amendment Act (No. 2) 2007 Pt.2 Div. 4 hade not come into operation. It reads as follows:
 “
 Part 2 — Road Traffic Act 1974 amended
@@ -314,7 +314,7 @@ After section 104I the following section is inserted —
 “
 104IA.Excessive demerit points (novice driver) notice
 (1) In this section —
-“post-commencement demerit points” means current demerit points other than those recorded for an offence committed before the day on which the Road Traffic Amendment Act (No. 2) 2007 section 27 comes into operation.
+post-commencement demerit points means current demerit points other than those recorded for an offence committed before the day on which the Road Traffic Amendment Act (No. 2) 2007 section 27 comes into operation.
 (2) If the number of post-commencement demerit points recorded in the demerit points register against a novice driver (type 1) reaches at least 4, or against a novice driver (type 2) reaches at least 8, the Director General is to give the novice driver, in accordance with section 104R, an excessive demerit points (novice driver) notice stating —
 (a) the day on which that number of post-commencement demerit points was reached; and
 (b) the number of post-commencement demerit points reached on that day; and
@@ -366,7 +366,7 @@ Schedule 3 — Consequential amendments
 (1) The amendments in this clause are to the Road Traffic Act 1974.
 (2) Section 65 is amended by deleting the definition of “medical practitioner” and inserting instead —
 “
-“medical practitioner” has the meaning given to that term in the Medical Practitioners Act 2008 section 4;
+medical practitioner has the meaning given to that term in the Medical Practitioners Act 2008 section 4;
 ”.
 ”.
 On the date as at which this compilation was prepared, the Road Traffic Amendment Act 2008 s. 5(a) and 8 had not come into operation. They read as follows:
@@ -375,7 +375,7 @@ On the date as at which this compilation was prepared, the Road Traffic Amendmen
 Section 78A is amended as follows:
 (a) by deleting the definition of “impounding offence (driver’s licence)” and inserting instead —
 “
-“impounding offence (driver’s licence)” means —
+impounding offence (driver’s licence) means —
 (a)an offence against section 49(1)(a) that is committed by a person described in section 49(3)(a), (b) or (c); or
 (b)an offence against section 77(1)(a); or
 (c)an offence committed before the coming into operation of the Road Traffic Amendment Act 2008 section 5(a) that was an impounding offence (driver’s licence) as defined in this section as in force when the offence was committed;
@@ -387,17 +387,4 @@ Section 79A is amended as follows:
 (b) by inserting at the end of paragraph (a) —
 “ and ”;
 (c) by deleting all of the section after “offence” in paragraph (b) and inserting instead a full stop.
-”.
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 38 had not come into operation. It reads as follows:
-“
-38.Road Traffic Act 1974
-(1) The amendments in this section are to the Road Traffic Act 1974.
-(2) Section 59(1) is amended in the summary conviction penalty by deleting “160 PU” and inserting instead —
-“ 720 PU ”.
-(3) Section 59(3)(b) is deleted and the following paragraph is inserted instead —
-“
-(b) in any other circumstances, to a fine of any amount and to imprisonment for —
-(i) 10 years, if the person has caused the death of another person; or
-(ii) 7 years, if the person has caused grievous bodily harm to another person,
-”.
 ”.
