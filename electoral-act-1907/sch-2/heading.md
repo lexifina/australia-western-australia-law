@@ -4,7 +4,7 @@ Schedule 1, clauses 12, 15 and 17]
 ## Ballot procedure
 [Heading inserted by No. 40 of 1987 s. 83.]
 1.Slips made out for the purposes of section 86(2a), 87(5) or (6) or 144(2)(g) or clause 12, 15 or 17 of Schedule 1 shall be dealt with as provided in this Schedule.
-2.In this Schedule “ballot” means a hollow opaque sphere inside which a slip may be enclosed.
+2.In this Schedule ballot means a hollow opaque sphere inside which a slip may be enclosed.
 3.The Returning Officer shall place each of the slips in separate ballots of exact similarity, securely close the several ballots, deposit the several ballots in a ballot box, and securely fasten the ballot box.
 4.The Returning Officer shall then shake and rotate the ballot box and shall permit any other person then present to do likewise, if the person so desires.
 5.(1)The Returning Officer shall then —
