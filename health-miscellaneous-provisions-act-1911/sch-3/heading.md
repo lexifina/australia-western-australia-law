@@ -55,5 +55,5 @@
 29.The manner in which any application, recommendation, report, order, notice, requisition or other document may be proved for any purpose.
 30.All matters required or permitted by or under Part VIII to be prescribed when the manner of prescription is not stated.
 31.In this Schedule —
-“specified” means specified in regulations made under section 247.
+specified means specified in regulations made under section 247.
 [Schedule 3 inserted by No. 26 of 1985 s. 11; amended by No. 14 of 1996 s. 4.]
