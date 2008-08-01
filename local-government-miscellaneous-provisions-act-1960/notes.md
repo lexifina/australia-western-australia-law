@@ -1,12 +1,12 @@
 Notes
-This is a compilation of the Local Government (Miscellaneous Provisions) Act 1960 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 August 2008 of the Local Government (Miscellaneous Provisions) Act 1960 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Local Government Act 1960 | 84 of 1960 | 20 Dec 1960 | 1 Jul 1961 (see s. 2 and Gazette 10 Feb 1961 p. 385)
-Local Government Act Amendment Act 1961 | 72 of 1961 | 28 Nov 1961 | 28 Nov 1961
-Local Government Act Amendment Act 1962 | 38 of 1962 | 29 Oct 1962 | 29 Oct 1962
-Local Government Act Amendment Act (No. 2) 1963 | 68 of 1963 | 17 Dec 1963 | 17 Dec 1963
-Local Government Act Amendment Act (No. 2) 1964 | 90 of 1964 | 14 Dec 1964 | 1 Feb 1965 (see s. 2 and Gazette 15 Jan 1965 p. 289)
+Local Government Act 1960 | 84 of 1960 (9 Eliz. II No. 84) | 20 Dec 1960 | 1 Jul 1961 (see s. 2 and Gazette 10 Feb 1961 p. 385)
+Local Government Act Amendment Act 1961 | 72 of 1961 (10 Eliz. II No. 72) | 28 Nov 1961 | 28 Nov 1961
+Local Government Act Amendment Act 1962 | 38 of 1962 (11 Eliz. II No. 38) | 29 Oct 1962 | 29 Oct 1962
+Local Government Act Amendment Act (No. 2) 1963 | 68 of 1963 (12 Eliz. II No. 68) | 17 Dec 1963 | 17 Dec 1963
+Local Government Act Amendment Act (No. 2) 1964 | 90 of 1964 (13 Eliz. II No. 90) | 14 Dec 1964 | 1 Feb 1965 (see s. 2 and Gazette 15 Jan 1965 p. 289)
 Local Government Act Amendment Act 1965 | 32 of 1965 | 21 Oct 1965 | 21 Oct 1965
 Local Government Act Amendment Act (No. 3) 1965 | 63 of 1965 | 19 Nov 1965 | 19 Nov 1965
 Local Government Act Amendment Act (No. 2) 1965 | 70 of 1965 | 25 Nov 1965 | 25 Nov 1965
@@ -35,7 +35,7 @@ Reprint of the Local Government Act 1960 approved 9 Aug 1973 (includes amendment
 Local Government Act Amendment Act (No. 3) 1973 | 74 of 1973 | 17 Dec 1973 | 1 Apr 1975 (see s. 2 and Gazette 20 Dec 1974 p. 5591)
 Local Government Act Amendment Act (No. 4) 1973 | 105 of 1973 | 4 Jan 1974 | 5 Apr 1974 (see s. 2 and Gazette 5 Apr 1974 p. 1180)
 Ministers of the Crown (Statutory Designations) and Acts Amendment Act 1974 Pt. IV | 27 of 1974 | 29 Oct 1974 | 1 Dec 1974 (see s. 2 and Gazette 6 Dec 1974 p. 5204)
-Local Government Act Amendment Act 1974 | 65 of 1974 | 9 Dec 1974 | s. 1, 2 and 26: 9 Dec 1974 (see s. 2(2)); balance: 14 Feb 1975 (see s. 2(1) and Gazette 14 Feb 1975 p. 506)
+Local Government Act Amendment Act 1974 | 65 of 1974 | 9 Dec 1974 | s. 1, 2 and 26: 9 Dec 1974 (see s. 2(2)); Act other than s. 1, 2 and 26: 14 Feb 1975 (see s. 2(1) and Gazette 14 Feb 1975 p. 506)
 Local Government Act Amendment Act 1975 | 36 of 1975 | 16 May 1975 | 16 May 1975
 Local Government Act Amendment Act (No. 2) 1975 | 65 of 1975 | 24 Oct 1975 | s. 1-8 and 10-17: 12 Dec 1975 (see s. 2 and Gazette 12 Dec 1975 p. 4483-4); s. 9: 19 Mar 1976 (see s. 2 and Gazette 19 Mar 1976 p. 779)
 Local Government Act Amendment Act (No. 3) 1975 | 78 of 1975 | 14 Nov 1975 | 1 Jul 1976 (see s. 2 and Gazette 12 Dec 1975 p. 4484)
@@ -67,11 +67,11 @@ Local Government Amendment Act 1983 | 6 of 1983 | 11 Aug 1983 | 11 Aug 1983
 Acts Amendment (Asbestos Related Diseases) Act 1983 Pt. VI | 84 of 1983 | 22 Dec 1983 | 19 Jan 1984 (see s. 2)
 Local Government Amendment Act 1984 | 17 of 1984 | 31 May 1984 | 1 Jul 1984 (see s. 2 and Gazette 29 Jun 1984 p. 1754)
 Acts Amendment (Mining Tenements) (Rating) Act 1984 Pt. II | 25 of 1984 | 31 May 1984 | s. 5(1): 1 Jan 1982 (see s. 2(2)); balance: 31 May 1984 (see s. 2(1))
-Local Government Amendment Act (No. 2) 1984 | 42 of 1984 (as amended by No. 79 of 1984 Pt. III) | 20 Jun 1984 | s. 31-62: 20 Jun 1984 (see s. 2(1)); s. 3, 8-10, 12-19 and 30: 15 Nov 1984 (see s. 2(2)); s. 4-7, 11, 20-29: 20 Mar 1985 (see s. 2(3))
+Local Government Amendment Act (No. 2) 1984 | 42 of 1984 (as amended by No. 79 of 1984 Pt. III) | 20 Jun 1984 | s. 1-2 and 31-62: 20 Jun 1984 (see s. 2(1)); s. 3, 8-10, 12-19 and 30: 15 Nov 1984 (see s. 2(2)); s. 4-7, 11, 20-29: 20 Mar 1985 (see s. 2(3))
 Acts Amendment (Local Government Electoral Provisions) Act 1984 Pt. II | 79 of 1984 | 14 Nov 1984 | 20 Mar 1985 (see s. 2(2))
-Local Government Amendment Act 1985 | 35 of 1985 | 6 May 1985 | Act other than s. 5, 6, 10-16, 20, 23 and 24: 4 May 1985 (see s. 2 and Gazette 24 May 1985 p. 1757); s. 5, 6, 10-16, 20, 23 and 24: 1 Jul 1985 (see s. 2 and Gazette 24 May 1985 p. 1757)
+Local Government Amendment Act 1985 | 35 of 1985 | 6 May 1985 | s. 1 and 2: 6 May 1985; Act other than s. 1, 2, 5, 6, 10-16, 20, 23 and 24: 24 May 1985 (see s. 2 and Gazette 24 May 1985 p. 1757); s. 5, 6, 10-16, 20, 23 and 24: 1 Jul 1985 (see s. 2 and Gazette 24 May 1985 p. 1757)
 Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
-Local Government Amendment Act (No. 2) 1985 | 99 of 1985 | 4 Dec 1985 | 13 Dec 1985 (see s. 2 and Gazette 13 Dec 1985 p. 4758)
+Local Government Amendment Act (No. 2) 1985 | 99 of 1985 | 4 Dec 1985 | s. 1 and 2: 4 Dec 1985; Act other than s. 1 and 2: 13 Dec 1985 (see s. 2 and Gazette 13 Dec 1985 p. 4758)
 Local Government Amendment Act (No. 3) 1985 | 105 of 1985 | 7 Dec 1985 | 7 Dec 1985 (see s. 2)
 Commercial Arbitration Act 1985 s. 3(1) | 109 of 1985 | 7 Dec 1985 | 1 Apr 1986 (see s. 2 and Gazette 28 Feb 1986 p. 605)
 Local Government Amendment Act 1986 | 9 of 1986 | 15 Jul 1986 | Act other than s. 5: 1 Jul 1986 (see s. 2(1)); s. 5: 15 Jul 1986 (see s. 2(2))
@@ -79,11 +79,11 @@ Town Planning and Development Amendment Act 1986 s. 13 | 26 of 1986 | 29 Jul 198
 Local Government Amendment Act 1987 | 42 of 1987 | 3 Jul 1987 | s. 23-25 and 36: 1 Jul 1987 (see s. 2(2)); s. 1-3 and 32: 3 Jul 1987 (see s. 2(1)); Act other than s. 1-3, 6-10, 23-25, 32, 33 and 36: 24 Jul 1987 (see s. 2(3) and Gazette 24 Jul 1987 p. 2813); s. 33: 31 Jul 1987 (see s. 20(2) of the Interpretation Act 1984); s. 6-10: 31 Dec 1987 (see s. 2(3) and Gazette 31 Dec 1987 p. 4567)
 Acts Amendment (Land Administration) Act 1987 Pt. XIII | 126 of 1987 | 31 Dec 1987 | 16 Sep 1988 (see s. 2 and Gazette 16 Sep 1988 p. 3637)
 Local Government Amendment Act 1988 | 10 of 1988 | 6 Jul 1988 | Act other than s. 4-7, 9 and 10: 6 Jul 1988 (see s. 2(1)); s. 4-7, 9 and 10: 16 Sep 1988 (see s. 2(2) and Gazette 16 Sep 1988 p. 3637)
-Local Government Amendment Act (No. 2) 1988 | 39 of 1988 | 30 Nov 1988 | Act other than s. 6, 7 and 11: 17 Feb 1989 (see s. 2 and Gazette 17 Feb 1989 p. 457); s. 6, 7 and 11: 28 Jul 1989 (see s. 2 and Gazette 28 Jul 1989 p. 2259)
+Local Government Amendment Act (No. 2) 1988 | 39 of 1988 | 30 Nov 1988 | s. 1 and 2: 30 Nov 1988; Act other than s. 1, 2, 6, 7 and 11: 17 Feb 1989 (see s. 2 and Gazette 17 Feb 1989 p. 457); s. 6, 7 and 11: 28 Jul 1989 (see s. 2 and Gazette 28 Jul 1989 p. 2259)
 R & I Bank Act 1990 s. 45(1) | 73 of 1990 | 20 Dec 1990 | 1 Jan 1991 (see s. 2(2) and Gazette 28 Dec 1990 p. 6369)
 Building and Construction Industry Training Fund and Levy Collection Act 1990 s. 33 | 76 of 1990 | 20 Dec 1990 | 1 Jul 1991 (see s. 2 and Gazette 28 Jun 1991 p. 3101)
 Acts Amendment (Heritage Council) Act 1990 Pt. 2 Div. 3 | 97 of 1990 | 22 Dec 1990 | 25 Feb 1991 (see s. 2 and Gazette 22 Feb 1991 p. 868)
-Local Government Amendment Act (No. 2) 1990 | 100 of 1990 | 22 Dec 1990 | s. 3, 12, 17 and 18: 22 Dec 1990 (see s. 2(2)); s. 11: 11 Jan 1991 (see s. 2(1) and Gazette 11 Jan 1991 p. 43); Act other than s. 3, 4, 11-18: 19 Jan 1991 (see s. 2(3) and Interpretation Act 1984 s. 20); s. 4: 8 Feb 1991 (see s. 2(1) and Gazette 8 Feb 1991 p. 575); s. 13-16: 20 Mar 1992 (see s. 2(1) and Gazette 20 Mar 1992 p. 1239)
+Local Government Amendment Act (No. 2) 1990 | 100 of 1990 | 22 Dec 1990 | s. 1 and 2: 22 Dec 1990; s. 3, 12, 17 and 18: 22 Dec 1990 (see s. 2(2)); s. 11: 11 Jan 1991 (see s. 2(1) and Gazette 11 Jan 1991 p. 43); Act other than s. 1-4, 11-18: 19 Jan 1991 (see s. 2(3) and Interpretation Act 1984 s. 20); s. 4: 8 Feb 1991 (see s. 2(1) and Gazette 8 Feb 1991 p. 575); s. 13-16: 20 Mar 1992 (see s. 2(1) and Gazette 20 Mar 1992 p. 1239)
 Reserves and Land Revestment Act 1991 s. 23 | 57 of 1991 | 17 Dec 1991 | 17 Dec 1991 (see s. 2)
 Rates and Charges (Rebates and Deferments) Act 1992 s. 52 | 31 of 1992 | 19 Jun 1992 | 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2643)
 Local Government (Superannuation) Amendment and Repeal Act 1993 Pt. 2 | 2 of 1993 | 18 Aug 1993 | 1 Jul 1993 (see s. 2)
@@ -122,16 +122,17 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 75 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(2)(d)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 7: The Local Government (Miscellaneous Provisions) Act 1960 as at 16 Sep 2005 (includes amendments listed above)
-Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 14 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+Limitation Legislation Amendment and Repeal Act 2005 s. 23 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2(1))
+Planning and Development (Consequential and Transitional Provisions) Act 2005 Pt. 2 Div. 3 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-Local Government (Miscellaneous Provisions) Amendment Act 2007 | 11 of 2007 | 29 Jun 2007 | s. 1 and 2: 29 Jun 2007 s. 3 and 4: 25 Aug 2007 (see s. 2 and Gazette 24 Aug 2007 p. 4317) s. 5-14: 1 Jul 2008 (see s. 2 and Gazette 6 Jun 2008 p. 2179)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Local Government (Miscellaneous Provisions) Amendment Act 2007 | 11 of 2007 | 29 Jun 2007 | s. 1 and 2: 29 Jun 2007; s. 3 and 4: 25 Aug 2007 (see s. 2 and Gazette 24 Aug 2007 p. 4317); s. 5-14: 1 Jul 2008 (see s. 2 and Gazette 6 Jun 2008 p. 2179)
 Local Government (Miscellaneous Provisions) Amendment (Smoke Alarms) Act 2007 | 34 of 2007 | 21 Dec 2007 | 18 Jan 2008
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 8: The Local Government (Miscellaneous Provisions) Act 1960 as at 1 Aug 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Act No. 90 of 1964 was passed as the Local Government Act Amendment Act (No. 2) 1964, but was proclaimed to come into operation as the Local Government Act Amendment Act 1964.
 Repealed by the Stock (Brands and Movement) Act 1970, which is now known as the Stock (Identification and Movement) Act 1970.
 Repealed by the Auction Sales Act 1973 s. 3(1).
@@ -164,11 +165,11 @@ The Local Government (Superannuation) Amendment and Repeal Act 1993 Pt. 4 reads 
 Part 4 — Transitional
 7.Interpretation
 In this Part —
-“former Board” means the Board as defined in the repealed Act;
-“former scheme” means the scheme that was established under the repealed Act;
-“repealed Act” means the Act repealed by Part 3;
-“the scheme” means the scheme defined in section 169(1) of the Local Government Act 1960 (as enacted by section 4 of this Act) as “the scheme”;
-“variation Deed” means the Deed of Trust dated 17 June 1993 that amends the Deed of Trust referred to in the definition of “the scheme” in section 169(1) of the Local Government Act 1960 (as enacted by section 4 of this Act).
+former Board means the Board as defined in the repealed Act;
+former scheme means the scheme that was established under the repealed Act;
+repealed Act means the Act repealed by Part 3;
+the scheme means the scheme defined in section 169(1) of the Local Government Act 1960 (as enacted by section 4 of this Act) as “the scheme”;
+variation Deed means the Deed of Trust dated 17 June 1993 that amends the Deed of Trust referred to in the definition of “the scheme” in section 169(1) of the Local Government Act 1960 (as enacted by section 4 of this Act).
 8.Transfer of assets and liabilities
 With effect on and from the commencement of this Act —
 (a) assets of the former scheme held by the former Board, by virtue of this clause and without the need for any conveyance, transfer, assignment or assurance, become assets of the scheme held by the trustees of the scheme;
@@ -191,8 +192,7 @@ Anything done on or after 1 July 1993 but before the day on which this Act recei
 ”.
 The Acts Amendment (Annual Valuations and Land Tax) Act 1993 s. 3 is an application provision that is of no further effect.
 The Acts Amendment (Annual Valuations and Land Tax) Act 1993 s. 7 is a transitional and savings provision that is of no further effect.
-The Local Government Amendment Act 1994 s. 3 is a transitional provision that is of no further effect.
-The Local Government Amendment Act 1994 s. 39, 40 and 41 are transitional provisions that are of no further effect.
+The Local Government Amendment Act 1994 s. 3, 39, 40 and 41 are transitional provisions that are of no further effect.
 The Local Government (Superannuation) Legislation Amendment Act 1994 s. 7, 8, 9 and 10 read as follows:
 “
 7.Operation of the new scheme
@@ -200,14 +200,14 @@ On the commencement of this Division, the City of Perth superannuation scheme es
 Division 2 — Transitional provisions and consequential amendments
 8.Interpretation
 In this Division —
-“commencement day” means the day on which Division 1 comes into operation;
-“former board” means the board or any other person appointed under section 3 of the repealed Act;
-“former fund” means the superannuation fund established under the repealed Act and governed by the former scheme;
-“former scheme” means the superannuation scheme established under the repealed Act;
-“new fund” means the fund governed by the new scheme;
-“new scheme” means the City of Perth superannuation scheme established under section 170C of the Local Government Act 1960 (as amended by this Act) as the scheme is amended from time to time;
-“repealed Act” means the City of Perth Superannuation Fund Act 1934;
-“trustee” means the trustee appointed under the new scheme.
+commencement day means the day on which Division 1 comes into operation;
+former board means the board or any other person appointed under section 3 of the repealed Act;
+former fund means the superannuation fund established under the repealed Act and governed by the former scheme;
+former scheme means the superannuation scheme established under the repealed Act;
+new fund means the fund governed by the new scheme;
+new scheme means the City of Perth superannuation scheme established under section 170C of the Local Government Act 1960 (as amended by this Act) as the scheme is amended from time to time;
+repealed Act means the City of Perth Superannuation Fund Act 1934;
+trustee means the trustee appointed under the new scheme.
 9.Transfer of assets etc.
 (1) On commencement day, by virtue of this section —
 (a) assets of the former fund become assets of the new fund without the need for any conveyance, transfer, or other document;
@@ -266,7 +266,7 @@ the Minister may after consultation with the council direct the council to remov
 (3) A council shall not remove from the office an officer holding an office when regulations so made come into operation, because he is not the holder of a certificate of qualification required by the regulations to be held by the occupant of the office.
 (4) No such regulation shall have application to or affect the appointment to any such office of a person holding office as a clerk, engineer, town planner, building surveyor or treasurer at time of the making of the regulations.
 ”.
-The amendments in the Sentencing (Consequential Provisions) Act 1995 s. 68 (items relating to s. 523(1) and 672) do not have effect because those provisions were repealed by the Local Government Act 1995 s. 9.70.
+The amendments in the Sentencing (Consequential Provisions) Act 1995 s. 68 (items relating to s. 523(1) and 672) did not have effect because those provisions were repealed by the Local Government Act 1995 s. 9.70.
 The Local Government (Consequential Amendments) Act 1996 s. 7 and 8 are transitional provisions that are of no further effect.
 The Local Government (Consequential Amendments) Act 1996 Sch. 1 contains the following item:
 “
@@ -283,33 +283,31 @@ To the extent that they continue to have effect under clause 4(2) of Schedule 9.
 ”.
 The Acts Amendment (Land Administration) Act 1997 s. 66(2), (3) and (4) and 67(2), (3) and (4) are transitional provisions that are of no further effect.
 Balance of section 46 of the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 is inoperative because of previous amendments effected as follows:
-Section 46(2) and (4) were repealed by the Local Government Act 1995 s. 70;
-Section 46(3) and (9) were amended by the Local Government (Consequential Amendments) Act 1996 Sch. 1 (as amended by the Statutes (Repeals and Minor Amendments) Act 1997);
-Section 46(7) and (8) were amended by the Statutes (Repeals and Minor Amendments) Act 1997 s. 83(3) and (4).
-The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+section 46(2) and (4) were repealed by the Local Government Act 1995 s. 70;
+section 46(3) and (9) were amended by the Local Government (Consequential Amendments) Act 1996 Sch. 1 (as amended by the Statutes (Repeals and Minor Amendments) Act 1997);
+section 46(7) and (8) were amended by the Statutes (Repeals and Minor Amendments) Act 1997 s. 83(3) and (4).
+The portion of the Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 94 that would have amended s. 430(2)(a) was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(9).
+The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues, some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 34 and 55 read as follows:
 “
 34.Local Government (Miscellaneous Provisions) Act 1960
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 75 comes into operation.
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 75 comes into operation.
 (2) If a matter has been partly or fully heard, but not determined, under the Local Government (Miscellaneous Provisions) Act 1960 Part XV Division 19 immediately before the commencement day —
 (a) the Act section 167(4)(b) does not apply; and
 (b) the matter is to continue to be dealt with as if the Local Government (Miscellaneous Provisions) Act 1960 Part XV Division 19 as in force immediately before the commencement day continued to apply.
 55.Local Government (Miscellaneous Provisions) Act 1960
 (1) In this regulation —
-“commencement day” means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 section 683 comes into operation;
+commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 section 683 comes into operation;
 (2) If a local law made under the Local Government (Miscellaneous Provisions) Act 1960 section 433 and the Local Government Act 1995 is expressed as conferring on a person a right to appeal under the Local Government (Miscellaneous Provisions) Act 1960 Part XV Division 19 against a decision, that local law is to be taken to give a right on or after the commencement day to apply to the State Administrative Tribunal for a review of that decision.
 ”.
-The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent it amends this Act, was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(d).
-The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 94 (to amend s. 430(2)(a)) was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(9).
-Footnote no longer applicable.
+The portion of the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 that would have amended this Act was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(d).
 The Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 14(3) and (4) read as follows:
 “
 (3) Despite the repeal of section 295 of the Local Government (Miscellaneous Provisions) Act 1960, section 295(4) and (4a) of that Act continue to apply in relation to the disposal of land where the subdivision of the land was approved before the coming into operation of this section.
 (4) Until minimum standards of construction and drainage are fixed under section 169 of the Planning and Development Act 2005, the minimum standards fixed under section 295(3a) of the Local Government (Miscellaneous Provisions) Act 1960 apply for the purposes of the Planning and Development Act 2005 as if they had been fixed under that Act.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 had not come into operation. It reads as follows:
 “
 91.Local Government (Miscellaneous Provisions) Act 1960 amended
 (1) The amendments in this section are to the Local Government (Miscellaneous Provisions) Act 1960.
@@ -318,3 +316,18 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 label it with an identifier in accordance with the Biosecurity and Agriculture Management Act 2007.
 ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+authorised person245A(1)
+builder401A(7)
+building364(10)
+building approval certificate401(1c)
+building operation364(3)(a)
+neglected building407
+public building414
+swimming pool245A(1)
+the adopted code433A(2)
+the referred code433A(2)(d)
+unauthorised building work374AA(1)
+unclaimed money457(1)
