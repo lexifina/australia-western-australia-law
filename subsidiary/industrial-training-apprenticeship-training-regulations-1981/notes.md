@@ -41,11 +41,9 @@ Industrial Training (Apprenticeship Training) Amendment Regulations (No. 3) 2007
 Reprint 2: The Industrial Training (Apprenticeship Training) Regulations 1981 as at 6 Apr 2007 (includes amendments listed above)
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 4) 2007 | 1 May 2007 p. 1893-4 | 1 May 2007 (see r. 2)
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 5) 2007 | 21 Dec 2007 p. 6320-5 | r. 1 and 2: 21 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2008 (see r. 2(b))
+Industrial Training Legislation Amendment Regulations 2008 Pt. 3 | 23 Jul 2008 p. 3371-88 | 1 Aug 2008 (see r. 2(b))
 The definition of “Council” was deleted from s. 4 of the Act by the State Employment and Skills Development Authority Act 1990 s. 45(a)(ii). The definition of “Authority” inserted by s. 45(a)(i) of that Act was deleted by the Vocational Education and Training Act 1996 Sch. 3 cl. 12.
-The Education Regulations 1960 r. 4 referred to the Director of technical education. Those regulations were repealed by the School Education Act 1999 s. 246(2).
-“Approved College” is defined in r. 4 of the Industrial Training (General Apprenticeship) Regulations 1981: see r. 3 of these regulations. The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996 s. 70(1).
-Repealed by the Industrial Arbitration Act 1979 s. 4, the short title of which was changed to the Industrial Relations Act 1979 by the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984.
-Under the Alteration of Statutory Designations Order 2001, a reference to the Education Department is, unless the contrary is intended, to be read and construed as a reference to the Department of Education and Training.
+3-6Footnotes no longer applicable.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 3) 1984 were published in Gazette 18 Jan 1985 p. 264. A corrigendum was published in Gazette 25 Jan 1985 p. 350 stating that the notice publishing those regulations was cancelled. The regulations were then published in Gazette 1 Feb 1985 p. 450.
 The following regulations each contain savings or transition provisions relating to apprentices in trades deleted from Sch. 1 by those regulations:
@@ -68,12 +66,12 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations 2006 r. 
 “
 9.Transitional
 (1) Subject to this regulation the Industrial Training (Apprenticeship Training) Regulations 1981 as in force immediately before 1 May 2006 continue to apply to and in relation to —
-(a) an apprentice who commenced service in a building trade under an apprenticeship agreement before 1 May 2006 (an “existing apprentice”); or
+(a) an apprentice who commenced service in a building trade under an apprenticeship agreement before 1 May 2006 (an existing apprentice); or
 (b) a person who —
 (i) commenced employment as a probationer in a building trade before 1 May 2006;
 (ii) completes that probationary employment after 1 May 2006; and
 (iii) on completing that probationary employment commences service under an apprenticeship agreement,
-(an “existing probationer”).
+(an existing probationer).
 (2) The parties to the apprenticeship agreement of an existing probationer may, with the approval of the Director, agree in the apprenticeship agreement —
 (a) that the term of the apprenticeship is to be 3 years; or
 (b) that —
@@ -99,13 +97,13 @@ the Director may, before approving the variation, extend the term of the apprent
 (7) A variation of an apprenticeship agreement under subregulation (4) takes effect on the date on which it is approved by the Director.
 (8) If an apprenticeship agreement is varied under subregulation (4), subsection (1) ceases to apply to and in relation to the apprentice on the date the variation takes effect.
 (9) In this regulation —
-“building trade” means —
+building trade means —
 (a)bricklaying;
 (b)carpentry and joinery;
 (c)plastering;
 (d)tilelaying; or
 (e)wall and ceiling fixing;
-“housing building trade” means —
+housing building trade means —
 (a)bricklaying (housing);
 (b)carpentry (housing);
 (c)joinery (housing);
@@ -122,7 +120,7 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 
 (i) commenced employment as a probationer in an old trade before 1 June 2006; and
 (ii) completes that probationary employment after 1 June 2006; and
 (iii) on completing that probationary employment commences service under an apprenticeship agreement,
-(an “existing probationer”).
+(an existing probationer).
 (2) The parties to the apprenticeship agreement of an existing probationer may, with the approval of the Director, agree in the apprenticeship agreement —
 (a) if the probationer was employed in a trade that is also a new trade, that the apprentice is to be employed in the same trade but that the term of the apprenticeship is to be the new term for that trade; or
 (b) that —
@@ -130,7 +128,7 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 
 (ii) the term of the apprenticeship is to be the new term for that new trade.
 (3) If the parties to an apprenticeship agreement agree in the manner described in subregulation (2)(a) or (b), subregulation (1) ceases to apply to and in relation to the apprentice when he or she commences service under the apprenticeship agreement.
 (4) In this regulation —
-“old trade” means —
+old trade means —
 (a)Autobody Refinisher; or
 (b)Autobody Repairer; or
 (c)Automotive Electrical Fitting; or
@@ -141,8 +139,8 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 
 (h)Shipwrighting; or
 (i)Shipwrighting and Boatbuilding; or
 (j)Trimming;
-“new term”, in relation to a trade, means the term prescribed in relation to that trade in the Industrial Training (Apprenticeship Training) Regulations 1981 Schedule 1, as amended by these regulations;
-“new trade” means —
+new term, in relation to a trade, means the term prescribed in relation to that trade in the Industrial Training (Apprenticeship Training) Regulations 1981 Schedule 1, as amended by these regulations;
+new trade means —
 (a)Automotive Electrician; or
 (b)Automotive Technician; or
 (c)Engineering Tradesperson (Fabrication); or
@@ -157,12 +155,12 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 3) 
 “
 8.Transitional
 (1) Subject to this regulation the Industrial Training (Apprenticeship Training) Regulations 1981 as in force immediately before 1 October 2006 continue to apply to and in relation to —
-(a) an apprentice who commenced service as a cook under an apprenticeship agreement before 1 October 2006 (an “existing apprentice”); or
+(a) an apprentice who commenced service as a cook under an apprenticeship agreement before 1 October 2006 (an existing apprentice); or
 (b) a person who —
 (i) commenced employment as a probationer cook before 1 October 2006; and
 (ii) completes that probationary employment after 1 October 2006; and
 (iii) on completing that probationary employment commences service under an apprenticeship agreement,
-(an “existing probationer”).
+(an existing probationer).
 (2) The parties to the apprenticeship agreement of an existing probationer may, with the approval of the Director, agree in the apprenticeship agreement that the apprentice is to be employed as a chef and that the term of the apprenticeship is to be 3 years.
 (3) If the parties to an apprenticeship agreement agree in the manner described in subregulation (2), subregulation (1) ceases to apply to and in relation to the apprentice when he or she commences service under the apprenticeship agreement.
 (4) The parties to the apprenticeship agreement of an existing apprentice may, with the approval of the Director, vary the apprenticeship agreement to change —
@@ -191,13 +189,13 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 4) 
 (i) commenced employment as a probationer in an old trade before 1 October 2006; and
 (ii) completes that probationary employment after 1 October 2006; and
 (iii) on completing that probationary employment commences service under an apprenticeship agreement,
-(an “existing probationer”).
+(an existing probationer).
 (2) The parties to the apprenticeship agreement of an existing probationer may, with the approval of the Director, agree in the apprenticeship agreement that —
 (a) the apprentice is to be employed as a general butcher (instead of in the old trade in which he or she was employed as a probationer); and
 (b) the term of the apprenticeship is to be 3 years.
 (3) If the parties to an apprenticeship agreement agree in the manner described in subregulation (2), subregulation (1) ceases to apply to and in relation to the apprentice when he or she commences service under the apprenticeship agreement.
 (4) In this regulation —
-“old trade” means —
+old trade means —
 (a)General Butchering; or
 (b)Slaughtering; or
 (c)Small Goods Making.
@@ -211,13 +209,13 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 5) 
 (i) commenced employment as a probationer in an old trade before 1 October 2006; and
 (ii) completes that probationary employment after 1 October 2006; and
 (iii) on completing that probationary employment commences service under an apprenticeship agreement,
-(an “existing probationer”).
+(an existing probationer).
 (2) The parties to the apprenticeship agreement of an existing probationer may, with the approval of the Director, agree in the apprenticeship agreement that —
 (a) the apprentice is to be employed as a hairdresser (instead of in the old trade in which he or she was employed as a probationer); and
 (b) the term of the apprenticeship is to be 3 years.
 (3) If the parties to an apprenticeship agreement agree in the manner described in subregulation (2), subregulation (1) ceases to apply to and in relation to the apprentice when he or she commences service under the apprenticeship agreement.
 (4) In this regulation —
-“old trade” means —
+old trade means —
 (a)Combined Hairdressing; or
 (b)Hairdressing; or
 (c)Ladies Hairdressing; or
@@ -232,7 +230,7 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 6) 
 (i) commenced employment as a probationer in an old trade before 1 November 2006; and
 (ii) completes that probationary employment after 1 November 2006; and
 (iii) on completing that probationary employment commences service under an apprenticeship agreement,
-(an “existing probationer”).
+(an existing probationer).
 (2) The parties to the apprenticeship agreement of an existing probationer may, with the approval of the Director, agree in the apprenticeship agreement —
 (a) if the probationer was employed in a trade that is also a new trade, that the apprentice is to be employed in the same trade but that the term of the apprenticeship is to be the new term for that trade; or
 (b) that —
@@ -240,15 +238,15 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 6) 
 (ii) the term of the apprenticeship is to be the new term for that new trade.
 (3) If the parties to an apprenticeship agreement agree in the manner described in subregulation (2)(a) or (b), subregulation (1) ceases to apply to and in relation to the apprentice when he or she commences service under the apprenticeship agreement.
 (4) In this regulation —
-“new trade” means —
+new trade means —
 (a)Cabinet Maker;
 (b)Furniture Maker;
 (c)Glazier and Glass Processor;
 (d)Timber Furniture Finisher;
 (e)Upholsterer;
 (f)Wood Machinist;
-“new term”, in relation to a trade, means the term prescribed in relation to that trade in the Industrial Training (Apprenticeship Training) Regulations 1981 Schedule 1, as amended by these regulations;
-“old trade” means —
+new term, in relation to a trade, means the term prescribed in relation to that trade in the Industrial Training (Apprenticeship Training) Regulations 1981 Schedule 1, as amended by these regulations;
+old trade means —
 (a)Art Glass;
 (b)Cabinetmaking;
 (c)Chairmaking;
@@ -276,7 +274,7 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations 2007 r. 
 (i) commenced employment as a probationer in an old trade before 1 February 2007; and
 (ii) completes that probationary employment after 1 February 2007; and
 (iii) on completing that probationary employment commences service under an apprenticeship agreement,
-(an “existing probationer”).
+(an existing probationer).
 (2) The parties to the apprenticeship agreement of an existing probationer may, with the approval of the Director, agree in the apprenticeship agreement —
 (a) if the probationer was employed in a trade that is also a new trade, that the apprentice is to be employed in the same trade but that the term of the apprenticeship is to be the new term for that trade; or
 (b) that —
@@ -284,14 +282,14 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations 2007 r. 
 (ii) the term of the apprenticeship is to be the new term for that new trade.
 (3) If the parties to an apprenticeship agreement agree in the manner described in subregulation (2)(a) or (b), subregulation (1) ceases to apply to and in relation to the apprentice when he or she commences service under the apprenticeship agreement.
 (4) In this regulation —
-“new trade” means —
+new trade means —
 (a)Gardener;
 (b)Landscape Gardener;
 (c)Nurseryperson;
 (d)Sawdoctor;
 (e)Turf Management;
-“new term”, in relation to a trade, means the term prescribed in relation to that trade in the Industrial Training (Apprenticeship Training) Regulations 1981 Schedule 1, as amended by these regulations;
-“old trade” means —
+new term, in relation to a trade, means the term prescribed in relation to that trade in the Industrial Training (Apprenticeship Training) Regulations 1981 Schedule 1, as amended by these regulations;
+old trade means —
 (a)Horticulture (Gardening);
 (b)Horticulture (Landscape Gardening);
 (c)Horticulture (Nursery);
@@ -302,8 +300,8 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 3) 
 “
 8.Transitional
 (1) In this regulation —
-“new term”, in relation to a trade, means the term prescribed in relation to that trade in the Industrial Training (Apprenticeship Training) Regulations 1981 Schedule 1, as amended by these regulations;
-“new trade” means —
+new term, in relation to a trade, means the term prescribed in relation to that trade in the Industrial Training (Apprenticeship Training) Regulations 1981 Schedule 1, as amended by these regulations;
+new trade means —
 (a)Carpentry Fixing (Housing);
 (b)Carpentry Formwork (Housing);
 (c)Carpentry Framing (Housing);
@@ -311,7 +309,7 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 3) 
 (e)Painting (Housing);
 (f)Signwriter;
 (g)Stonemason;
-“old trade” means —
+old trade means —
 (a)Carpentry and Joinery;
 (b)Carpentry (Housing);
 (c)Joinery (Housing);
@@ -319,12 +317,12 @@ The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 3) 
 (e)Signwriting;
 (f)Stonemasonry.
 (2) Subject to this regulation the Industrial Training (Apprenticeship Training) Regulations 1981 as in force immediately before 31 March 2007 continue to apply to and in relation to —
-(a) an apprentice who commenced service in an old trade under an apprenticeship agreement before 31 March 2007 (an “existing apprentice”); or
+(a) an apprentice who commenced service in an old trade under an apprenticeship agreement before 31 March 2007 (an existing apprentice); or
 (b) a person who —
 (i) commenced employment as a probationer in an old trade before 31 March 2007; and
 (ii) completes that probationary employment after 31 March 2007; and
 (iii) on completing that probationary employment commences service under an apprenticeship agreement,
-(an “existing probationer”).
+(an existing probationer).
 (3) The parties to the apprenticeship agreement of an existing probationer may, with the approval of the Director, agree in the apprenticeship agreement that —
 (a) the apprentice is to be employed in a new trade (instead of the old trade in which he or she was employed as a probationer); and
 (b) the term of the apprenticeship is to be the new term for that new trade.
