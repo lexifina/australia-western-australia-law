@@ -105,6 +105,7 @@ Mining Amendment Regulations 2007 | 9 Mar 2007 p. 861-920 | 31 Mar 2007 (see r. 
 Mining Amendment Regulations (No. 3) 2007 | 22 Jun 2007 p. 2857-60 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Reprint 7: The Mining Regulations 1981 as at 5 Oct 2007 (includes amendments listed above)
 Mining Amendment Regulations (No. 2) 2008 | 20 Jun 2008 p. 2728-31 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Mining Amendment Regulations 2008 | 1 Aug 2008 p. 3455-6 | r. 1 and 2: 1 Aug 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 2 Aug 2008 (see r. 2(b) and Gazette 1 Aug 2008 p. 3455)
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Mines or to the Department of Minerals and Energy is, unless the contrary intention appears, to be read and construed as a reference to the Department of Industry and Resources.
@@ -127,6 +128,6 @@ The Mining Amendment Regulations (No. 2) 2006 r. 10(7) and (8) read as follows:
 “
 (7) Despite the amendments made by this regulation, where, in relation to an existing licence, the commencement day is a day other than the anniversary date of the commencement of the term of the existing licence, regulation 21 of the Mining Regulations 1981 as in force immediately before the commencement day continues to apply for the purpose of determining the expenditure required for the year of the term of the existing licence in which the commencement day falls.
 (8) In subregulation (7) —
-“commencement day” means the day on which these regulations come into operation;
-“existing licence” means an exploration licence in force under the Act on the day on which these regulations come into operation.
+commencement day means the day on which these regulations come into operation;
+existing licence means an exploration licence in force under the Act on the day on which these regulations come into operation.
 ”.
