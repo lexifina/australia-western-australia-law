@@ -53,7 +53,7 @@ Reprint of the Mining Act 1978 as at 7 Sep 2001 (includes amendments listed abov
 Mining Amendment Act 2002 | 15 of 2002 | 8 Jul 2002 | s. 23: 15 Jul 2001 (see s. 2(3) and Cwlth. Gazette 13 Jul 2001 No. S285); Act other than s. 12 and 23: 18 Jan 2003 (see s. 2(1) and (2) and Gazette 17 Jan 2003 p. 105); s. 12: 10 Feb 2006 (see s. 2(2) and Gazette 3 Feb 2006 p. 516); Proclamation published 14 Jan 2005 p. 164 revoked (see Gazette 24 Mar 2005 p. 1001)
 Acts Amendment (Equality of Status) Act 2003 Pt. 46 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 52 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
-Mining Amendment Act 2004 10-21, 26, 27 | 39 of 2004 (as amended by No. 19 of 2008 Pt. 2) | 3 Nov 2004 | s. 1 and 2: 3 Nov 2004; Proclamation published 14 Jan 2005 p. 164 revoked (see Gazette 24 Mar 2005 p. 1002); Act other than s. 1 and 2 and Pt. 9: 10 Feb 2006 (see s. 2 and Gazette 3 Feb 2006 p. 516); Pt. 9: 31 Mar 2007 (see s. 2 and Gazette 9 Mar 2007 p. 847).
+Mining Amendment Act 2004 10-21, 26 | 39 of 2004 (as amended by No. 19 of 2008 Pt. 2) | 3 Nov 2004 | s. 1 and 2: 3 Nov 2004; Proclamation published 14 Jan 2005 p. 164 revoked (see Gazette 24 Mar 2005 p. 1002); Act other than s. 1 and 2 and Pt. 9: 10 Feb 2006 (see s. 2 and Gazette 3 Feb 2006 p. 516); Pt. 9: 31 Mar 2007 (see s. 2 and Gazette 9 Mar 2007 p. 847).
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 15 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 67 Subdiv. 2 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
@@ -71,7 +71,6 @@ Short title | Number and year | Assent | Commencement
 Mining Amendment Act 1996 s. 9 | 54 of 1996 | 11 Nov 1996 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999, s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
-Mining Legislation Amendment and Validation Act 2008 Pt. 3 | 19 of 2008 | 19 May 2008 | To be proclaimed (see s. 2(c))
 Legal Profession Act 2008 s. 681 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
@@ -96,9 +95,9 @@ the application referred to in subparagraph (ii) is deemed to extend, and to hav
 (1a) Subsection (1)(b) or (c) does not apply if the land that has become available from an existing licence has been included in an application under section 67 or 70B and a mining lease, general purpose lease or retention licence is granted in respect of that application.
 (2) Without affecting anything in subsection (1) the Governor may make regulations providing for such savings and transitional matters as are convenient or necessary for the purposes of giving effect to the amendments effected by this Act to the principal Act.
 (3) In this section —
-“block” means a block as described in section 56C of the principal Act as in force after the commencement of section 15 of this Act;
-“commencement day” means the day on which sections 15, 16, 17, 19 and 34 of this Act come into operation;
-“existing licence” means an exploration licence referred to in subsection (1)(a)(i) or (iii).
+block means a block as described in section 56C of the principal Act as in force after the commencement of section 15 of this Act;
+commencement day means the day on which sections 15, 16, 17, 19 and 34 of this Act come into operation;
+existing licence means an exploration licence referred to in subsection (1)(a)(i) or (iii).
 (4) A reference in this section to land becoming available from an existing licence is a reference to the land being surrendered or forfeited (otherwise than under section 98 of the principal Act) or to the expiry of the existing licence.
 ”.
 The Mining Amendment Act 1993 s. 5(2) reads as follows:
@@ -139,7 +138,7 @@ The Mining Amendment Act 1994 s. 53 reads as follows:
 “
 53.Operation of section 30(3)(b) of the Mining Amendment Act 1993 modified
 (1) Despite sections 2(2) and 30(3)(b) of the Mining Amendment Act 1993, section 65(1c)(b) and (c) of the Mining Act 1978 as inserted by section 19(c) of the Mining Amendment Act 1990 do not have any effect, and are deemed to have never had any effect, in relation to the surrender of an existing licence under section 65 of the Mining Act 1978 where that surrender took place before 1 July 1994.
-(2) In subsection (1) “existing licence” means an exploration licence referred to in section 40(1)(a)(i) or (iii) of the Mining Amendment Act 1990.
+(2) In subsection (1) existing licence means an exploration licence referred to in section 40(1)(a)(i) or (iii) of the Mining Amendment Act 1990.
 ”.
 The Mining Amendment Act 1998 s. 4(3) reads as follows:
 “
@@ -159,8 +158,8 @@ The Mining Amendment Act 2004 s. 11 reads as follows:
 “
 11.Transitional provision
 (1) In this section —
-“commencement” means the commencement of this Part;
-“old provisions” means sections 56A, 70 and 85B of the Mining Act 1978 as in force immediately before the commencement.
+commencement means the commencement of this Part;
+old provisions means sections 56A, 70 and 85B of the Mining Act 1978 as in force immediately before the commencement.
 (2) Despite the amendments made by this Part, the old provisions continue to apply to and in relation to an application for a special prospecting licence or a mining lease for gold under the Mining Act 1978 that is pending immediately before the commencement.
 ”.
 The Mining Amendment Act 2004 s. 15(2) reads as follows:
@@ -171,9 +170,9 @@ The Mining Amendment Act 2004 s. 19 reads as follows:
 “
 19.Transitional and savings provisions
 (1) In this section —
-“commencement” means the commencement of this Part;
-“old provisions” means the Mining Act 1978 as in force immediately before the commencement;
-“relevant licence” means —
+commencement means the commencement of this Part;
+old provisions means the Mining Act 1978 as in force immediately before the commencement;
+relevant licence means —
 (a)an exploration licence granted under the Mining Act 1978 that is in force immediately before the commencement; or
 (b)an exploration licence granted under the Mining Act 1978 after the commencement in respect of an application made before the commencement.
 (2) Despite the amendments made by this Part, the old provisions (other than sections 61(3), 63A, 65(1a), 65(1c) and 65(4)) continue to apply to and in relation to a relevant licence.
@@ -203,8 +202,8 @@ The Mining Amendment Act 2004 s. 35 reads as follows:
 “
 35.Transitional provision
 (1) In this section —
-“commencement” means the commencement of this Part;
-“old provisions” means sections 74 and 75 of the Mining Act 1978 as in force immediately before the commencement.
+commencement means the commencement of this Part;
+old provisions means sections 74 and 75 of the Mining Act 1978 as in force immediately before the commencement.
 (2) Despite the amendments made by this Part, the old provisions continue to apply to and in relation to an application for a mining lease under the Mining Act 1978 that is pending immediately before the commencement.
 ”.
 The Mining Amendment Act 2004 s. 36(2) reads as follows:
@@ -228,19 +227,19 @@ The Mining Amendment Act 2004 s. 98(2)-(4) reads as follows:
 (2) A mining authorisation given before the commencement is, and is to be taken to have always been, as valid and effective as it would have been if the amendment made by subsection (1) had been in effect at the time it was given.
 (3) On and after the commencement an existing mining authorisation is be treated as an authorisation under section 118A(2) of the Mining Act 1978 as inserted by subsection (1).
 (4) In subsections (2) and (3) —
-“commencement” means the commencement of this section;
-“existing mining authorisation” means a mining authorisation in force immediately before the commencement;
-“mining authorisation” means an instrument in writing under which the holder of a prospecting licence, exploration licence or mining lease (as those terms are defined in the Mining Act 1978) purports to authorise another person to carry out mining of the kind authorised by the licence or lease on the land the subject of the licence or lease.
+commencement means the commencement of this section;
+existing mining authorisation means a mining authorisation in force immediately before the commencement;
+mining authorisation means an instrument in writing under which the holder of a prospecting licence, exploration licence or mining lease (as those terms are defined in the Mining Act 1978) purports to authorise another person to carry out mining of the kind authorised by the licence or lease on the land the subject of the licence or lease.
 ”.
 The Mining Amendment Act 2004 Pt. 12 reads as follows:
 “
 Part 12 — Transitional regulations
 105.Further transitional provisions may be made
 (1) In this section —
-“amending provision” means a provision of this Act;
-“commencement” means the commencement of this section;
-“specified” means specified or described in the regulations;
-“transitional matter” means a matter that needs to be dealt with for the purpose of effecting the transition from the Mining Act 1978 as in force before an amending provision comes into operation to that Act as in force after the amending provision comes into operation, and includes a savings or application matter.
+amending provision means a provision of this Act;
+commencement means the commencement of this section;
+specified means specified or described in the regulations;
+transitional matter means a matter that needs to be dealt with for the purpose of effecting the transition from the Mining Act 1978 as in force before an amending provision comes into operation to that Act as in force after the amending provision comes into operation, and includes a savings or application matter.
 (2) If there is no sufficient provision in this Act for dealing with a transitional matter, regulations may be made under the Mining Act 1978 prescribing all matters that are required, necessary or convenient to be prescribed in relation to the transitional matter.
 (3) Regulations referred to in subsection (2) may provide that specified provisions of this Act or the Mining Act 1978 —
 (a) do not apply; or
@@ -385,7 +384,7 @@ After section 9 the following section is inserted in Part I —
 (c)as a result of the change the offshore area comes within those coastal waters,
 this Act applies, while the tenement or any successor tenement remains in force, as if the area were still within the offshore area.
 (2)In subsection (1) —
-“offshore area” means an area that comes within paragraph (b) of the definition of “land” in section 8(1).
+offshore area means an area that comes within paragraph (b) of the definition of “land” in section 8(1).
 (3)If —
 (a)a mining lease takes effect immediately after an exploration licence expires; and
 (b)the holder of the mining lease immediately after it takes effect was the holder of the exploration licence immediately before it expired,
@@ -415,7 +414,7 @@ inner limits of the coastal waters of the State as defined in section 16(1) and 
 After section 56C(4) the following subsection is inserted —
 “
 (5)In subsection (2) —
-“State” includes any area that comes within paragraph (b) of the definition of “land” in section 8(1).
+State includes any area that comes within paragraph (b) of the definition of “land” in section 8(1).
 ”.
 10.Section 132 amended
 Section 132(2) is amended by inserting after “the State” —
