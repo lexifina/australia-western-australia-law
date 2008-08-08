@@ -1,16 +1,19 @@
 Notes
-This is a compilation of the Railways (Access) Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any previous reprints.
+This reprint is a compilation as at 8 August 2008 of the Railways (Access) Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Government Railways (Access) Act 1998 | 49 of 1998 | 30 Nov 1998 | Pt. 6: 30 Nov 1998 (see s. 2(1)); balance other than Pt. 3-5 and 7 (as amended by No. 13 of 2000): 12 Aug 2000 (see s. 2(2) and Gazette 11 Aug 2000 p. 4691); Pt. 3-5 and 7 (as amended by No. 13 and 55 of 2000): 1 Sep 2001 (see s. 2(2) and Gazette 28 Aug 2001 p. 4795)
+Government Railways (Access) Act 1998 | 49 of 1998 | 30 Nov 1998 | s. 1 and 2: 30 Nov 1998; Pt. 6: 30 Nov 1998 (see s. 2(1)); s. 3 and Pt. 2: 12 Aug 2000 (see s. 2(2) and Gazette 11 Aug 2000 p. 4691); Pt. 3-5 and 7: 1 Sep 2001 (see s. 2(2) and Gazette 28 Aug 2001 p. 4795)
 Rail Freight System Act 2000 Pt. 5 Div. 1 | 13 of 2000 | 8 Jun 2000 | 1 Jul 2000 (see s. 2(2) and Gazette 30 Jun 2000 p. 3397)
 Railways (Access) Amendment Act 2000 Pt. 2 | 55 of 2000 | 28 Nov 2000 | 28 Nov 2000 (see s. 2)
-Reprint of the Railways (Access) Act 1998 as at 2 Feb 2001 (includes amendments listed above except those to the Government Railways (Access) Act 1998 Pt. 3-5 and 7; those Parts are also not included)
+Reprint of the Railways (Access) Act 1998 as at 2 Feb 2001 (includes amendments listed above except those in the Government Railways (Access) Act 1998 Pt. 3-5 and 7)
 Reprint of the Railways (Access) Act 1998 as at 12 Oct 2001 (includes amendments listed above)
 Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 63 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
 Public Transport Authority Act 2003 s. 152 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
 Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Act 2004 Pt. 3 Div. 1 | 77 of 2004 | 8 Dec 2004 | 1 Jul 2008 (see s. 2(2) and Gazette 17 Jun 2008 p. 2543)
+Reprint 3: The Railways (Access) Act 1998 as at 8 Aug 2008 (includes amendments listed above)
+The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
+Repealed by the National Rail Corporation Agreement Repeal Act 1999 s. 3.
 Now known as the Railways (Access) Act 1998; short title changed (see note under s. 1).
 The Railways (Access) Amendment Act 2000 s. 13 repealed the Rail Freight System Act 2000 s. 89.
 The Economic Regulation Authority Act 2003 s. 63(1), which gives effect to Sch. 3, reads as follows:
@@ -24,13 +27,13 @@ Schedule 3 — Transitional and saving provisions for amendments in Schedule 2 D
 [s. 63(1)]
 1.Definitions
 In this Schedule —
-“commencement day” means the day on which this Schedule comes into operation;
-“former official” means —
+commencement day means the day on which this Schedule comes into operation;
+former official means —
 (a)the Coordinator of Water Services referred to in section 4 of the Water Services Coordination Act 1995 as in effect immediately before the commencement day;
 (b)the Gas Pipelines Access Regulator; or
 (c)the Rail Access Regulator;
-“Gas Pipelines Access Regulator” means the Western Australian Independent Gas Pipelines Access Regulator referred to in section 27 of the Gas Pipelines Access (Western Australia) Act 1998 as in effect immediately before the commencement day;
-“Rail Access Regulator” means the Western Australian Independent Rail Access Regulator referred to in section 13 of the Railways (Access) Act 1998 as in effect immediately before the commencement day.
+Gas Pipelines Access Regulator means the Western Australian Independent Gas Pipelines Access Regulator referred to in section 27 of the Gas Pipelines Access (Western Australia) Act 1998 as in effect immediately before the commencement day;
+Rail Access Regulator means the Western Australian Independent Rail Access Regulator referred to in section 13 of the Railways (Access) Act 1998 as in effect immediately before the commencement day.
 2.Interpretation Act 1984 to apply
 This Schedule does not limit the operation of the Interpretation Act 1984.
 3.Decisions of Gas Pipelines Access Regulator
@@ -69,3 +72,25 @@ The operation of any provision of this Schedule is not to be regarded —
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+access3(1)
+access agreement3(1)
+access-related functions24
+Authority3(1)
+Code3(1)
+Competition Principles Agreement3(1)
+confidential information31(2)
+Government railway3(1)
+new railway3(2)
+officer of the Authority24
+railway infrastructure3(1)
+railway owner3(1)
+railways network3(1)
+Regulator3(1)
+relevant officer24
+route5(5)
+the Code9(7)
+the current railway owner3B(2)(a)
+TPI Railway and Port Agreement3(1)
