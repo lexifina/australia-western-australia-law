@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Pharmacy Act Regulations 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 August 2008 of the Pharmacy Act Regulations 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Pharmacy Act Regulations 1976 | 17 Sep 1976 p. 3430-43 | 1 Nov 1976
@@ -18,8 +18,21 @@ Miscellaneous Amendments Regulations 1997 r. 2 | 6 Jan 1998 p. 33 | 6 Jan 1998
 Pharmacy Amendment Regulations 2000 | 30 Jun 2000 p. 3405-6 | 1 Jul 2000 (see r. 2)
 Reprint 2: The Pharmacy Act Regulations 1976 as at 14 Nov 2003 (includes amendments listed above)
 Pharmacy Amendment Regulations 2003 | 16 Jan 2004 p. 196-7 | 16 Jan 2004
-Pharmacy Amendment Regulations 2004 | 30 Dec 2004 p. 6969-70 | 1 Jan 2005 (see r 2 and Gazette 31 Dec 2004 p. 7130)
+Pharmacy Amendment Regulations 2004 | 30 Dec 2004 p. 6969-70 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Pharmacy Amendment Regulations 2005 | 15 Nov 2005 p. 5599 | 1 Jan 2006 (see r. 2)
-Pharmacy Amendment Regulations 2007 | 15 May 2007 p. 2093-4 | r. 1 and 2: 15 May 2007 (see r. 2(a)) r. 3 and 4: 16 May 2007 (see r. 2(b))
+Pharmacy Amendment Regulations 2007 | 15 May 2007 p. 2093-4 | r. 1 and 2: 15 May 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 16 May 2007 (see r. 2(b))
+Reprint 3: The Pharmacy Act Regulations 1976 as at 8 Aug 2008 (includes amendments listed above)
 Repealed by the Friendly Societies (Western Australia) Act 1999.
 The commencement date of 1 Jul 1985 that was specified was before the date of gazettal.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+advertisement66(1)
+Appendix4
+deputy president4
+dispensary4
+pharmaceutical chemist66(1)
+president4
+public thoroughfare56(2)
+regulation4
+the Act4
