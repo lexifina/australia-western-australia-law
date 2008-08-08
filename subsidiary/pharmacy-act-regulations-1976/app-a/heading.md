@@ -171,4 +171,3 @@ I ..............................................................................
 Registrar,
 Pharmaceutical Council
 of Western Australia
-[Appendix A amended in Gazette 27 Jun 1997 p. 3106-9; 30 Dec 2004 p. 6970.]
