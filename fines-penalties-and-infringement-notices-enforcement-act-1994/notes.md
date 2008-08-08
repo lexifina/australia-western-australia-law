@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 August 2008 of the Fines, Penalties and Infringement Notices Enforcement Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Fines, Penalties and Infringement Notices Enforcement Act 1994 | 93 of 1994 | 23 Dec 1994 | Act other than s. 29(2): 1 Jan 1995 (see s. 2(1) and Gazette 30 Dec 1994 p. 7211); s. 29(2): 11 Jan 1995 (see s. 2(2))
+Fines, Penalties and Infringement Notices Enforcement Act 1994 | 93 of 1994 | 23 Dec 1994 | s. 1 and 2: 23 Dec 1994; Act other than s. 1, 2 and 29(2): 1 Jan 1995 (see s. 2(1) and Gazette 30 Dec 1994 p. 7211); s. 29(2): 11 Jan 1995 (see s. 2(2))
 Sentencing (Consequential Provisions) Act 1995 Pt. 31 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 1996 Pt. 2 | 8 of 1996 | 28 May 1996 | 6 Jul 1996 (see s. 2 and Gazette 5 Jul 1996 p. 3215)
 Road Traffic Amendment Act 1996 Pt. 3 Div. 3 | 76 of 1996 | 14 Nov 1996 | 1 Feb 1997 (see s. 2 and Gazette 31 Jan 1997 p. 613)
@@ -22,21 +22,81 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt.
 Reprint 3: The Fines, Penalties and Infringement Notices Enforcement Act 1994 as at 9 Dec 2005 (includes amendments listed above)
 Road Traffic Amendment Act 2006 Pt. 4 Div. 1 | 54 of 2006 | 26 Oct 2006 | 30 Jun 2008 (see s. 2 and Gazette 10 Jun 2008 p. 2471)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 8 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-Fines Legislation Amendment Act 2008 Pt. 2 | 3 of 2008 | 12 Mar 2008 | 28 Mar 2008 (see s. 2(b) and (c) and Gazette 27 Mar 2008 p. 899)
-The Justices Act 1902 Part VIBA and other provisions referred to in this Schedule were repealed by the Acts Amendment (Fines, Penalties and Infringement Notices) Act 1994 Part 9.
-The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 23.
-The Criminal Procedure (Summary) Act 1902 was then repealed by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 4.
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Fines Legislation Amendment Act 2008 Pt. 2 | 3 of 2008 | 12 Mar 2008 | s. 12(3): 28 Mar 2008 (see s. 2(b)); Pt. 2 other than s. 12(3): 28 Mar 2008 (see s. 2(c) and Gazette 27 Mar 2008 p. 899)
+Reprint 4: The Fines, Penalties and Infringement Notices Enforcement Act 1994 as at 8 Aug 2008 (includes amendments listed above)
+The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Act 2003 s. 12 reads as follows:
 “
 12.Validation
 (1) In this section —
-“agreement” means an agreement or arrangement for the payment of an amount owed or an amount outstanding (within the meaning of sections 40 and 61 respectively of the Fines, Penalties and Infringement Notices Enforcement Act 1994);
-“commencement” means the day on which this Act comes into operation;
-“offender” means —
+agreement means an agreement or arrangement for the payment of an amount owed or an amount outstanding (within the meaning of sections 40 and 61 respectively of the Fines, Penalties and Infringement Notices Enforcement Act 1994);
+commencement means the day on which this Act comes into operation;
+offender means —
 (a)an offender within the meaning of section 28; or
 (b)a body corporate referred to in section 61,
 of the Fines, Penalties and Infringement Notices Enforcement Act 1994.
 (2) An agreement entered into, or purportedly entered into, by or on behalf of the Sheriff of Western Australia with an offender before the commencement has, and is deemed always to have had, force and effect.
 (3) An agreement entered into, or purportedly entered into, by a delegate of the Sheriff of Western Australia with an offender before the commencement has, and is deemed always to have had, force and effect.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+agreement108(7)
+alleged offence11
+alleged offender11
+amending provision53(4), 53(8a)
+amount owed40
+CEO (corrections)3(1)
+commencement108(7)
+community corrections activities28(1)
+community corrections centre28(1)
+community corrections officer28(1)
+court28(1)
+court officer28(1)
+Director General3(1)
+dishonoured payment3(1)
+disposed of 101B(6)
+driver’s licence3(1)
+due date27C(1), 55C(1)
+dwelling63
+election11
+enforcement fees11, 28(1), 63
+fine28(1), 59
+give3(1)
+infringement notice11
+interest70(1)
+mobile home63
+modified penalty11
+offender28(1), 63, 108(7)
+paid3(1)
+period served53(7)
+personal property63
+place63
+prescribed enactment11
+principal enactment11
+prosecuting authority11, 39(2)
+prosecuting officer11
+public authority70(1)
+reciprocating court59
+reciprocating State or Territory59
+registered11, 28(1), 96(7)
+Registrar3(1)
+Registry3(1)
+required hours50(1)(a)
+saleable interest63, 71(1), 88(1)
+serve3(1)
+Sheriff63
+specified period53(7)
+the amount outstanding61(1)(b)
+the applicant101(1), 101A(1)
+the claimant93(1)
+the due date18(3), 42(3)
+the proceeds96(1)
+time to pay order28(1)
+traffic infringement notice26(4)
+vehicle63
+vehicle licence3(1)
+warrant63
+warrant amount53(6) and (7)
+work and development order28(1)
