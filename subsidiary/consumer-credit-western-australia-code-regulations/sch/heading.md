@@ -6,11 +6,11 @@ section 10(3)(f) of the Code
 section 9 of the regulation
 PRESCRIBED TERMS AND CONDITIONS OF MORTGAGE
 1.In this mortgage —
-“goods” means the goods hired under the hire contract.
-“hire contract” means the contract for the hire of goods as a consequence of which the mortgagor and the supplier are deemed by section 10(3)(f) of the Code to have entered into this mortgage.
-“mortgagor” means the person to whom the goods are hired under the hire contract.
-“supplier” means the person from whom the goods are hired under the hire contract.
-“the Code” means the Consumer Credit Code.
+goods means the goods hired under the hire contract.
+hire contract means the contract for the hire of goods as a consequence of which the mortgagor and the supplier are deemed by section 10(3)(f) of the Code to have entered into this mortgage.
+mortgagor means the person to whom the goods are hired under the hire contract.
+supplier means the person from whom the goods are hired under the hire contract.
+the Code means the Consumer Credit Code.
 2.The mortgagor gives and the supplier takes a mortgage of the goods.
 3.The mortgagor’s right or obligation to purchase the goods, which is contained in the hire contract, is extinguished.
 4.Subject to item 5, the supplier may take possession of the goods, or may take possession of, and sell, the goods if—
