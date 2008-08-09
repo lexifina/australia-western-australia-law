@@ -8,6 +8,7 @@ Consumer Credit (Western Australia) Code Regulations Amendment Order 2006 | 13 J
 Consumer Credit (Western Australia) Code Regulations Amendment Order (No. 2) 2006 | 13 Jun 2006 p. 2054-6 | 13 Jun 2006
 Consumer Credit (Western Australia) Code Regulations Amendment Order (No. 4) 2006 | 29 Sep 2006 p. 4250-3 | 9 Oct 2006 (see cl. 2 and Qld SL 248, 2006 published 6 Oct 2006)
 Consumer Credit (Western Australia) Code Regulations Amendment Order (No. 3) 2006 | 10 Oct 2006 p. 4387-8 | 10 Oct 2006
+Consumder Credit (Western Australia) Code Regulations Amendment Order 2008 | 8 Aug 2008 p. 3503-4 | cl. 1 and 2: 8 Aug 2008 (see cl. 3(a)); Order other than cl. 1 and 2: 9 Aug 2008 (see cl. 3(b))
 The Consumer Credit (Western Australia) Regulations 1996 came into operation on 1 November 1996. They were repealed on 9 July 2003 by the Consumer Credit (Western Australia) Amendment Act 2003 s.10(2).
 Section 6(1) of the Consumer Credit (Western Australia) Act 1996 applies the regulations in force under Part 4 of the Consumer Credit (Queensland) Act 1994 (as in force on 9 July 2003) as regulations in force for the purposes of the Consumer Credit (Western Australia) Code.
 The regulations, as applied and amended, may be cited as the Consumer Credit (Western Australia) Code Regulations.
@@ -16,3 +17,4 @@ A draft of this order (as the Consumer Credit (Western Australia) Code Regulatio
 A draft of this order (as the Consumer Credit (Western Australia) Code Regulations Amendment Order (No. 2) 2005) was approved by the Legislative Assembly on 12 October 2005 (see Hansard p. 6204-5) and by the Legislative Council on 4 May 2006 (see Hansard p. 2164-6).
 A draft Order (the Consumer Credit (Western Australia) Code Regulations Amendment Order (No. 2) 2006) containing these provisions was approved by the Legislative Assembly on 28 June 2006 (see Hansard p. 4458-9) and by the Legislative Council on 29 June 2006 (see Hansard p. 4546-9).
 A draft of this order (as the Consumer Credit (Western Australia) Code Regulations Amendment Order 2006) was approved by the Legislative Assembly on 27 June 2006 (see Hansard p. 4333-4) and by the Legislative Council on 4 May 2006 (see Hansard p. 2166).
+A draft of this order (as the Consumer Credit (Western Australia) Code Regulations Amendment Order 2008) was approved by the Legislative Assembly on 7 May 2008 (see Hansard pp. 2581 2) and by the Legislative Council on 26 June 2008 (see Hansard p. 4463 4).
