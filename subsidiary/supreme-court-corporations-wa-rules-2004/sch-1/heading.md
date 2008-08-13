@@ -115,14 +115,15 @@ or of person’s legal practitioner
 * Omit if not applicable
 Form 5
 rule 2.10
-Notice of intervention by the Commission
+Notice of intervention by ASIC
 [Title]
 The Australian Securities and Investments Commission, whose address for service is [address], intervenes in this proceeding.
 Date:
 . . . . . . . . . . . . . . . . . . . . .
-Signed on behalf of the Commission
+Signed on behalf of ASIC
 Name of signatory: [name].
 Capacity of signatory: [capacity].
+[Form 5 amended in Gazette 12 Aug 2008 p. 3548.]
 Form 6
 rule 3.4
 Notice of hearing to approve compromise or arrangement
@@ -167,13 +168,20 @@ Consent of liquidator/provisional liquidator
 [Title]
 I, [name], of [address], an official liquidator, consent to be appointed by the Court and to act as the *liquidator/*provisional liquidator of [name of company].
 I am not aware of any conflict of interest or duty that would make it improper for me to act as *liquidator/*provisional liquidator of the company.
+EITHER
+I am not aware of any relevant relationship mentioned in section 60(2) of the Corporations Act 2001 of the Commonwealth.
+OR
+I have, or have had within the preceding 24 months, the following relevant relationships mentioned in section 60(2) of the Corporations Act 2001 of the Commonwealth.
+[Set out all relevant relationships.]
 The hourly rates currently charged in respect of work done as *liquidator/*provisional liquidator by me, and by my partners and employees who may perform work in this administration, are set out below or in the Schedule which is attached to this Consent. I acknowledge that my appointment by the Court does not constitute an express or implied approval by the Court of these hourly rates.
+Note:The requirement to disclose hourly rates should not be taken to imply that remuneration on an hourly basis is the most desirable or appropriate arrangement in every case. The Corporations Act acknowledges that another method of calculating remuneration may be appropriate (see, for example, s. 473(2) and (3)).
 Date:
 . . . . . . . . . . . . . . . . . . . . .
 Signature of official liquidator
 * Omit if not applicable
 Schedule
 [description of hourly rate(s)]
+[Form 8 amended in Gazette 12 Aug 2008 p. 3545-6
 Form 9
 rule 5.6
 Notice of application for winding-up order
@@ -280,6 +288,22 @@ Date:
 Signature of *receiver/*administrator/*liquidator/
 *provisional liquidator/*special manager
 * Omit if not applicable
+Form 16A
+rules 9.2A, 9.4A
+Notice of intention to apply for review of remuneration
+IN THE MATTER OF [company name]
+ACN or ABN: [ACN or ABN of company to which proceeding relates]
+TO: [name and address of person to whom notice is given]
+TAKE NOTICE that, not less than 21 days after this notice is served on you, I, [name and address of proposed plaintiff or applicant], the *[*administrator/*liquidator of the above company,] intend to apply to the Court to review *the remuneration of/*my remuneration as the *administrator/*liquidator of the company.
+The amount of the remuneration that has been determined or fixed is [state the amount]. The remuneration was determined or fixed by [state who determined or fixed the remuneration] on [state the date when the remuneration was determined or fixed].
+I intend to apply for an order to *confirm/*increase/*reduce the remuneration.
+[Set out the grounds upon which an order or orders will be sought. If an order to increase or reduce the remuneration is sought, set out the amount by which the remuneration is sought to be increased or reduced.]
+If you wish to appear at the hearing of the application, in order to raise any issues before the Court, you must, within 21 days after being served with this notice, serve on me a notice under rule *9.2A(4)/ *9.4A(4) of the Supreme Court (Corporations) (WA) Rules 2004, stating your intention to appear at the hearing and setting out the issues that you seek to raise before the Court.
+Date:
+. . . . . . . . . . . . . . . . . . . . .
+Signature of proposed plaintiff or applicant
+* Omit if not applicable
+[Form 16A inserted in Gazette 12 Aug 2008 p. 3546.]
 Form 17
 rule 11.3
 Summons for examination
@@ -297,6 +321,32 @@ The Court may order that the questions put to you and the answers given by you a
 If you do not attend the examination in accordance with this summons, without reasonable cause, you may be arrested and imprisoned without further notice.
 This summons is issued at the request of [name] whose address for service is [address of person’s legal practitioner or person].
 * Omit if not applicable
+Form 17A
+Corporations Act 2001 (Cth) s. 486B and
+Supreme Court (Corporations) (WA) Rules 2004 r. 11A.1
+Arrest warrant
+[Title]
+TO:All members and special members of the Australian Federal Police and to all officers of the police force of the State or Territory in which [name of person] is found, and to the Sheriff of that State or Territory and all of that Sheriff’s officers.
+WHEREAS:
+*[name of company] (the Company) is being wound up in insolvency* or
+*[name of company] (the Company) is being wound up by the Court* or
+*an application has been made for [name of company] (the Company) to be wound up*
+AND THE COURT IS SATISFIED THAT [name of person]:
+(a)is about to leave Australia in order to avoid:
+(i)paying money to the company* or
+(ii)being examined about the company’s affairs* or
+(iii)complying with an order of the Court, or some other obligation, under Chapter 5 of the Corporations Act 2001 (Cth) in connection with the winding up* or
+(b)has concealed or removed property of the Company in order to prevent or delay the taking of the property into the liquidator’s custody or control* or
+(c)has destroyed, concealed or removed books of the Company or is about to do so,*
+THIS WARRANT THEREFORE requires and authorises you to take [name of person] and to bring *him/*her before the Court at [address of court] and to keep *him/*her there pending the making of a further order by the Court.
+THIS WARRANT ALSO requires and authorises you to seize any property or books of the company in the possession of [name of person] and to deliver them into the custody of the Registrar of the Court to be kept by that Registrar until the Court makes an order for their disposal.
+Note: Section 489A of the Corporations Act 2001 of the Commonwealth provides that if the Court issues a warrant under section 486B for a person to be arrested and brought before the Court, and the person is not in prison, then the person named in the warrant may be arrested by an officer of the police force of the State or Territory in which the person is found, or the Sheriff of that State or Territory or any of the Sheriff’s officers, or a member or special member of the Australian Federal Police.
+Date:
+. . . . . . . . . . . . . . . . . . . . .
+Signed
+Judge/Registrar
+* Omit if not applicable
+[Form 17A inserted in Gazette 12 Aug 2008 p. 3547-8.]
 Form 18
 rule 12.2
 Summons for appearance in relation to registration of transfer of interests

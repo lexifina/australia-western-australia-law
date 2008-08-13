@@ -5,3 +5,4 @@ Citation | Gazettal | Commencement
 Supreme Court (Corporations) (WA) Rules 2004 | 21 May 2004 p. 1603-95 | 1 Jun 2004 (see r. 1.2)
 Supreme Court (Corporations) (WA) Amendment Rules 2004 | 6 Jul 2004 p. 2711-12 | 6 Jul 2004 (see r. 2)
 Supreme Court (Corporations) (WA) Amendment Rules 2007 | 13 Apr 2007 p. 1671-3 | 13 Apr 2007
+Supreme Court (Corporations) (WA) Amendment Rules 2008 | 12 Aug 2008 p. 3536-48 | r. 1 and 2: 12 Aug 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Aug 2008 (see r. 2(b))
