@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Enzootic Diseases Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 15 August 2008 of the Enzootic Diseases Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Enzootic Diseases Regulations 1970 | 24 Jun 1970 p. 1784-819 | 24 Jun 1970
@@ -85,7 +85,7 @@ Enzootic Diseases Amendment Regulations 1996 | 3 Sep 1996 p. 4377-8 | 4 Sep 1996
 Enzootic Diseases Amendment Regulations (No. 2) 1996 | 10 Dec 1996 p. 6873-5 | 10 Dec 1996
 Enzootic Diseases Amendment Regulations 1997 | 4 Mar 1997 p. 1356-65 | 4 Mar 1997
 Enzootic Diseases Amendment Regulations (No. 2) 1997 | 19 Aug 1997 p. 4718-19 | 19 Aug 1997
-Miscellaneous Amendments Regulations 1997 | 6 Jan 1998 p. 33 | 6 Jan 1998
+Miscellaneous Amendments Regulations 1997 r. 2 | 6 Jan 1998 p. 33 | 6 Jan 1998
 Enzootic Diseases Amendment Regulations 1998 | 23 Jun 1998 p. 3311-13 | 1 Jul 1998 (see r. 2)
 Enzootic Diseases Amendment Regulations (No. 2) 1998 | 13 Nov 1998 p. 6201-5 | 13 Nov 1998
 Enzootic Diseases Amendment Regulations (No. 2) 1999 | 22 Jun 1999 p. 2672-4 | 1 Jul 1999 (see r. 2)
@@ -102,10 +102,141 @@ Enzootic Diseases Amendment Regulations (No. 6) 2005 | 14 Jun 2005 p. 2587-97 | 
 Enzootic Diseases Amendment Regulations (No. 2) 2005 | 14 Jun 2005 p. 2597-609 | 14 Jun 2005
 Enzootic Diseases Amendment Regulations (No. 3) 2005 | 14 Jun 2005 p. 2609-19 | 1 Jul 2005 (see r. 2)
 Reprint 4: The Enzootic Diseases Regulations 1970 as at 28 Oct 2005 (includes amendments listed above)
-Enzootic Diseases Amendment Regulations (No. 2) 2006 | 16 Jun 2006 p. 2114-5 | 1 Jul 2006 (see r. 2)
+Enzootic Diseases Amendment Regulations (No. 2) 2006 | 16 Jun 2006 p. 2114-15 | 1 Jul 2006 (see r. 2)
 Enzootic Diseases Amendment Regulations 2006 | 19 Sep 2006 p. 3725-84 | 19 Sep 2006
 Enzootic Diseases Amendment Regulations 2007 | 15 Jun 2007 p. 2759-61 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Enzootic Diseases Amendment Regulations 2008 | 11 Mar 2008 p. 815 | r. 1 and 2: 11 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Mar 2008 (see r. 2(b))
 Enzootic Diseases Amendment Regulations (No. 2) 2008 | 29 Apr 2008 p. 1571-4 | r. 1 and 2: 29 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Apr 2008 (see r. 2(b))
 Enzootic Diseases Amendment Regulations (No. 4) 2008 | 20 May 2008 p. 1937-8 | r. 1 and 2: 20 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Enzootic Diseases Amendment Regulations (No. 3) 2008 | 23 May 2008 p. 1987-91 | r. 1 and 2: 23 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 24 May 2008 (see r. 2(b))
+Reprint 5: The Enzootic Diseases Regulations 1970 as at 15 Aug 2008 (includes amendments listed above)
+Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is, unless the contrary is intended, to be read and construed as a reference to the Department of Agriculture and Food.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+abattoir4(1)
+accredited brucellosis free herd65
+animal76, 85A
+animal product4(1)
+approval to transport100(1)
+approved4(1)
+approved feedlotSch. 5 Div. 2
+approved identification76
+Australian vessel4(1)
+batch100(2)
+brand85A
+breeding flock4(1)
+brucellosis controlled herd65
+brucellosis eradication area65
+brucellosis free area65
+brucellosis provisionally free area65
+brucellosis testSch. 5 Div. 2
+Bulk Milk Test NegativeSch. 2 cl. 9A(2)
+carcass4(1)
+cattle34A(1), 57(1)(a), Sch. 5 Div. 1
+certificate of health100(1)
+certifiedSch. 2 cl. 9A(2) and 14(1)(c)
+certified brucellosis free herd65
+Certified FreeSch. 2 cl. 9A(2)
+Chief Inspector4(1)
+column34A(1)
+compulsory vaccination area65
+confirmed freeSch. 5 Div. 1
+contact saleSch. 5 Div. 2
+conveyance4(1)
+corresponding authority4(1)
+destroy4(1)
+dip4(1)
+dipped4(1)
+dipping4(1)
+disease4(1)
+diseased4(1)
+diseased stock20(1)
+disinfect4(1)
+disinfectant4(1)
+dump11AA(2)
+ectoparasites4(1)
+embryo4(1)
+export4(1)
+export depot4(1)
+farm lease11AA(2), 100(2)
+feedlot27B(1)
+form4(1)
+hatchery4(1), 100(2)
+hatchery licence100(2)
+hatchery permit100(2)
+holding site11AA(2)
+holding yard4(1)
+horse4(1)
+identification number76
+infected area91
+infected herdSch. 5 Div. 1
+inspector84O, 85R
+ked90
+Kimberley Tuberculosis Eradication AreaSch. 5 Div. 1
+Kimberley Tuberculosis Provisionally Free AreaSch. 5 Div. 1
+laboratory26(1)
+lairage4(1)
+length100(2)
+lice90
+licensee11AA(2)
+litter4(1)
+manufacture76, 85A
+Monitored NegativeSch. 2 cl. 9A(2) and 36(2)
+monitored negative herdSch. 5 Div. 1
+National GuidelinesSch. 2 cl. 9A(2)
+NLIS database76
+NLIS device76
+NLIS post breeder device76
+NLIS post breeder tag85A
+NLIS tag85A, 85M(1), 85S(1), 85W(1)
+non-farming property4(1)
+not assessed herdSch. 5 Div. 1
+operator4(1)
+owner4(1)
+pearl oyster11AA(2), 100(2)
+pearl oyster farm11AA(2), 100(2)
+permit holder11AA(2)
+PIC4(1)
+port4(1)
+poultry4(1)
+previous property85V(1), 85Z(1)
+property4(1)
+protected area91
+provisionally clear herdSch. 5 Div. 1
+quarantine area4(1)
+quarantine saleSch. 5 Div. 2
+quarantine site100(2)
+quarantined animal4(1)
+register4(1)
+registered4(1)
+relevant PIC4(1)
+restricted herdSch. 5 Div. 1
+sale4(1)
+saleyard4(1)
+sell4(1), 76, 85A
+semen4(1)
+settlement100(2)
+shower spray4(1)
+sold4(1)
+spat100(2)
+spat collector100(2)
+spray4(1)
+sprayed4(1)
+spraying4(1)
+stockSch. 2 cl. 1A
+suspect herdSch. 5 Div. 1
+Tested NegativeSch. 2 cl. 9A(2)
+tested negative herdSch. 5 Div. 1
+transport document84E(1), 85I(1)
+travelling stock4(1)
+tuberculin testSch. 5 Div. 2
+tuberculosis control area55
+tuberculosis eradication area55
+tuberculosis free area55
+tuberculosis provisionally free area55
+update the NLIS database76
+vessel4(1)
+visible identification number76
+Western Australian pearl oyster fishery100(1)
+zone100(2)
