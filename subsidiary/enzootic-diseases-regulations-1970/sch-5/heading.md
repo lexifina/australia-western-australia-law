@@ -6,22 +6,22 @@
 ## Subdivision 1 — Interpretation
 [Heading inserted in Gazette 14 Jun 2005 p. 2595.]
 In this Schedule unless the contrary intention appears —
-“cattle” includes buffalo;
-“confirmed free” in relation to tuberculosis has the meaning given to “accredited tuberculosis free herd” in regulation 57;
-“infected herd” means a herd that has shown unequivocal evidence of infection with —
+cattle includes buffalo;
+confirmed free in relation to tuberculosis has the meaning given to “accredited tuberculosis free herd” in regulation 57;
+infected herd means a herd that has shown unequivocal evidence of infection with —
 (a)in the case of brucellosis, Brucella abortus; and
 (b)in the case of tuberculosis, Mycobacterium bovis,
 using approved testing procedures;
-“Kimberley Tuberculosis Eradication Area” means an area of the Kimberley Land Division declared to be a tuberculosis eradication area under regulation 56;
-“Kimberley Tuberculosis Provisionally Free Area” means an area of the Kimberley Land Division declared to be a tuberculosis provisionally free area under regulation 56;
-“monitored negative herd” means a herd in which monitoring information or survey testing indicates that the herd is free of brucellosis or tuberculosis as the case may be, but a whole herd test has not been carried out;
-“not assessed herd” means a herd that has not been tested and for which insufficient information is available for it to be classified otherwise;
-“provisionally clear herd” means a previously “infected” or “suspect” herd that has qualified for removal of restrictions on the movement of cattle on and off the property, and which has not yet completed all the confirmatory tests necessary to become confirmed free;
-“restricted herd” means a previously “infected” or “suspect” herd that has had one negative herd test without subsequent evidence of infection;
-“suspect herd” means, a herd —
+Kimberley Tuberculosis Eradication Area means an area of the Kimberley Land Division declared to be a tuberculosis eradication area under regulation 56;
+Kimberley Tuberculosis Provisionally Free Area means an area of the Kimberley Land Division declared to be a tuberculosis provisionally free area under regulation 56;
+monitored negative herd means a herd in which monitoring information or survey testing indicates that the herd is free of brucellosis or tuberculosis as the case may be, but a whole herd test has not been carried out;
+not assessed herd means a herd that has not been tested and for which insufficient information is available for it to be classified otherwise;
+provisionally clear herd means a previously “infected” or “suspect” herd that has qualified for removal of restrictions on the movement of cattle on and off the property, and which has not yet completed all the confirmatory tests necessary to become confirmed free;
+restricted herd means a previously “infected” or “suspect” herd that has had one negative herd test without subsequent evidence of infection;
+suspect herd means, a herd —
 (a)in which monitoring information suggests that the herd is infected, but further evidence is required to classify the herd as infected or otherwise; or
 (b)in which the field situation suggests that the herd has a high risk of becoming infected;
-“tested negative herd” means a herd not previously classified as “infected” that has had at least one negative herd test without subsequent evidence of infection.
+tested negative herd means a herd not previously classified as “infected” that has had at least one negative herd test without subsequent evidence of infection.
 [Subdivision 1, formerly Fifth Schedule, inserted in Gazette 31 Mar 1989 p. 875; amended in Gazette 14 Jun 2005 p. 2609.]
 ## Subdivision 2 — Cattle not for immediate slaughter
 [Heading inserted in Gazette 14 Jun 2005 p. 2595.]
@@ -84,11 +84,11 @@ Cattle Tick Infected Area |  | Cattle Tick Free Area | 2, 21
 ## Subdivision 1 — Interpretation
 [Heading inserted in Gazette 14 Jun 2005 p. 2596.]
 In these conditions —
-“approved feedlot” means a fenced area approved to hold and feed cattle until the cattle are delivered for immediate slaughter;
-“brucellosis test” means a Rose Bengal Plate Test and Complement Fixation Test;
-“contact sale” means an approved sale for slaughter only held in an approved saleyard;
-“quarantine sale” means an approved sale for slaughter only held in an approved quarantine area;
-“tuberculin test” means a single intradermal caudal fold test using Bovine PPD tuberculin read at 72 hours.
+approved feedlot means a fenced area approved to hold and feed cattle until the cattle are delivered for immediate slaughter;
+brucellosis test means a Rose Bengal Plate Test and Complement Fixation Test;
+contact sale means an approved sale for slaughter only held in an approved saleyard;
+quarantine sale means an approved sale for slaughter only held in an approved quarantine area;
+tuberculin test means a single intradermal caudal fold test using Bovine PPD tuberculin read at 72 hours.
 [Subdivision 1, formerly Fifth Schedule, inserted in Gazette 31 Mar 1989 p. 877.]
 ## Subdivision 2 — General
 [Heading inserted in Gazette 14 Jun 2005 p. 2596.]
