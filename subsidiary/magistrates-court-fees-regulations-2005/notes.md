@@ -10,6 +10,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Magistrates Court (Fees) Amendment Regulations 2008 r. 3-5 | 16 May 2008 p. 1910-11 | 30 Sep 2008 (see r. 2(b) and Gazette 11 Jul 2008 p. 3253)
+Magistrates Court (Fees) Amendment Regulations (No. 3) 2008 r. 3 and 4 | 22 Aug 2008 p. 3669-70 | r. 1 and 2: 22 Aug 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 30 Sep 2008 (see r. 2(b) and Gazette 11 Jul 2008 p. 3253)
 On the date as at which this compilation was prepared, the Magistrates Court (Fees) Amendment Regulations 2008 r. 3-5 had not come into operation. They read as follows:
 “
 3.The regulations amended
@@ -30,5 +31,18 @@ NOTE Item 4(a) does not apply in relation to information provided under the Magi
 (2) Schedule 1 Division 1 item 5 is deleted and the following item is inserted instead —
 “
 5. | For provision of information under the Magistrates Court (General) Rules 2005 rule 41A — (a)fee per case specified in the information ……………................ (b)annual fee for information provided by email to approved recipient …... | 1.05 34 662.00
+”.
+”.
+On the date as at which this compilation was prepared, the Magistrates Court (Fees) Amendment Regulations (No. 3) 2008 r. 3 and 4 had not come into operation. They read as follows:
+“
+3.The regulations amended
+The amendments in these regulations are to the Magistrates Court (Fees) Regulations 2005.
+4.Regulation 12 replaced
+Regulation 12 is repealed and the following regulation is inserted instead —
+“
+12.Fees for searchable information
+A person to whom information is provided under the Magistrates Court (General) Rules 2005 rule 41A is liable to —
+(a) if the information is not provided by email — a fee in the amount referred to in Schedule 1 Division 1 item 5(a) for each case specified in the information;
+(b) if the information is provided by email — an annual fee in the amount referred to in Schedule 1 Division 1 item 5(b) for all information provided in the relevant year.
 ”.
 ”.
