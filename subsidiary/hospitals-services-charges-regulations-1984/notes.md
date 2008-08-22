@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Hospitals (Services Charges) Regulations 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 22 August 2008 of the Hospitals (Services Charges) Regulations 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Hospitals (Services Charges) Regulations 1984 | 27 Jan 1984 p. 231-4 | 1 Feb 1984 (see r. 2)
@@ -103,7 +103,49 @@ Hospitals (Services Charges) Amendment Regulations 2007 | 29 Jun 2007 p. 3195 | 
 Hospitals (Services Charges) Amendment Regulations (No. 2) 2007 | 10 Jul 2007 p. 3418-19 | r. 1 and 2: 10 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jul 2007 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 3) 2007 | 30 Oct 2007 p. 5882-3 | r. 1 and 2: 30 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2007 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations 2008 | 25 Jan 2008 p. 213-14 | r. 1 and 2: 25 Jan 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Jan 2008 (see r. 2(b))
-Hospitals (Services Charges) Amendment Regulations (No. 2) 2008 | 10 Jun 2008 p. 2488-9 | r. 1 and 2: 10 Jun 2008 (see r. 2(a)); r. 4(1)(c) and (d): 11 Jun 2008 (see r. 2(b)) r. 4(1)(a), (b), (e) and (2)-(4): 1 Jul 2008 (see r. 2(c))
+Hospitals (Services Charges) Amendment Regulations (No. 2) 2008 | 10 Jun 2008 p. 2488-9 | r. 1 and 2: 10 Jun 2008 (see r. 2(a)); r. 4(1)(c) and (d): 11 Jun 2008 (see r. 2(b)); Regulations other than r. 1, 2, 4(1)(c) and (d): 1 Jul 2008 (see r. 2(c))
+Reprint 6: The Hospitals (Services Charges) Regulations 1984 as at 22 Aug 2008 (includes amendments listed above)
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with the Interpretation Act 1984 s. 42(1), subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date of 1 September 1990 that was specified in these regulations was before the date of their publication in the Gazette.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+compensable day patient4(1)
+compensable in-patient4(1)
+compensable out-patient4(1)
+concession card4(1)
+concessional beneficiary4(1)
+day hospital4(1)
+day patient4(1)
+eligible day patient4(1)
+eligible out-patient4(1)
+eligible person4(1)
+eligible war service veteran4(1)
+entitlement card4(1)
+hospital4(1)
+hospital bed4(1)
+ineligible day patient4(1)
+ineligible in-patient4(1)
+ineligible out-patient4(1)
+in-patient4(1)
+Internal Territory4(1)
+nursing home bed4(1)
+nursing home type patient4(1)
+other services4(1)
+out-patient4(1)
+participating hospital4(1)
+PBS list4(1)
+PBS price4(1)
+pensioner4(1)
+personal treatment entitlement card4(1)
+private in-patient4(1)
+private nursing home type patient4(1)
+professional service4(1)
+public in-patient4(1)
+same day patient4(1)
+specific treatment entitlement card4(1)
+specified5(4)
+surgically implanted prostheses4(1)
+the National Health Act4(1)
+war service veteran4(1)
