@@ -20,5 +20,6 @@ Fair Trading (Product Safety Standard) Amendment Regulations (No. 2) 2007 | 24 A
 Reprint 2: The Fair Trading (Product Safety Standard) Regulations 2001 as at 3 Aug 2007 (includes amendments listed above)
 Fair Trading (Product Safety Standard) Amendment Regulations 2007 | 12 Oct 2007 p. 5503-6 | 12 Oct 2007
 Fair Trading (Product Safety Standard) Amendment Regulations 2008 | 27 Jun 2008 p. 3051-3 | r. 1 and 2: 27 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jun 2008 (see r. 2(b))
-Fair Trading (Product Safety Standard) Amendment Regulations(No. 2) 2008 | 27 Jun 2008 p. 3053-8 | r. 1 and 2: 27 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Fair Trading (Product Safety Standard) Amendment Regulations (No. 2) 2008 | 27 Jun 2008 p. 3053-8 | r. 1 and 2: 27 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Fair Trading (Product Safety Standard) Amendment Regulations (No. 3) 2008 | 22 Aug 2008 p. 3659-67 | r. 1 and 2: 22 Aug 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Aug 2008 (see r. 2(b))
 The amendments in the Fair Trading (Product Safety Standard) Amendment Regulations 2002 (published in Gazette 26 Mar 2002 p. 1741-3) are not included because, before it came into operation, it was repealed by the Fair Trading (Product Safety Standard) Amendment Repeal Regulations 2002 (see Gazette 23 Apr 2002 p. 2123-4).
