@@ -70,9 +70,10 @@ Country Towns Sewerage Amendment By-laws (No. 2) 2007 | 5 Apr 2007 p. 1531-3 | 5
 Water Agencies Amendment By-laws 2007 Pt. 4 | 29 Jun 2007 p. 3233-44 | 1 Jul 2007 (see bl. 2(b))
 Reprint 5: The Country Towns Sewerage By-laws 1952 as at 22 Feb 2008 (includes amendments listed above)
  | Water Agencies Amendment By-laws 2008 Pt. 4 | 27 Jun 2008 p. 3076-84 | 1 Jul 2008 (see bl. 2(b))
+ | Country Towns Sewerage Amendment By-laws (No. 3) 2008 | 26 Aug 2008 p. 4030-1 | bl. 1 and 2: 26 Aug 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Aug 2008 (see bl. 2(b))
 These by-laws have effect for the purposes of the Country Towns Sewerage Act 1948 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34. See also the Country Towns Sewerage Act 1948 s. 102.
 Refers to the Standards Association of Australia, which has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
-Under the Economic Regulation Authority Act 2003 Sch. 3 cl.12, a reference to the Coordinator of Water Services in an enactment may, where the context so requires, be read as if it had been amended to be a reference to the Economic Regulation Authority.
+Footnote no longer applicable.
 The headings before bl. 1-8, 10, 12, 16, 17, 18, 21-36, 38-40, 57, 70, 71 and 229-235 were deleted by the Country Towns Sewerage Amendment By-laws 1999 see Gazette 20 April 1999 p. 1641-2.
 The headings before bl. 9, 11, 13, 14, 15, 19, 20 and 49 were deleted by the Water Agencies Amendment By-laws 1999 see Gazette 29 June 1999 p. 2778-82.
 Now known as the Country Towns Sewerage By-laws 1952; citation inserted (see note under bl. 1).
