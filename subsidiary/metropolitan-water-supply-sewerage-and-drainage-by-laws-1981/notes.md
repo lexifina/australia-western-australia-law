@@ -71,6 +71,7 @@ Water Agencies Amendment By-laws 2007 Pt. 6 | 29 Jun 2007 p. 3233-44 | 1 Jul 200
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws (No. 2) 2008 | 28 Mar 2008 p. 919-21 | bl. 1 and 2: 28 Mar 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 29 Mar 2008 (see bl. 2(b))
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2008 | 23 May 2008 p. 2009-13 | bl. 1 and 2: 23 May 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 24 May 2008 (see bl. 2(b))
 Water Agencies Amendment By-laws 2008 Pt. 6 | 27 Jun 2008 p. 3076-84 | 1 Jul 2008 (see bl. 2(b))
+Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws (No. 5) 2008 | 26 Aug 2008 p. 4031-2 | bl. 1 and 2: 26 Aug 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Aug 2008 (see bl. 2(b))
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Under the Conservation and Land Management Act 1984 s. 151(a), a reference in any law to the former Forests Department shall be read as a reference to the Department of Conservation and Land Management.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Public Health Department is to be read and construed as a reference to the Department of Health.
