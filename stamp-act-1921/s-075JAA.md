@@ -1,4 +1,4 @@
-### 75JAA. Meaning of “dormant body corporate”
+### 75JAA. When a body corporate is dormant
 A body corporate is dormant throughout a particular period if, and only if, throughout that period the body —
 (a) did not receive or become entitled to any income or incur or become liable for any expenditure;
 (b) did not purchase, sell or supply any goods or other property, or any services, or enter into any agreement or pass any resolution in relation to the purchase, sale or supply of goods or other property, or services;
