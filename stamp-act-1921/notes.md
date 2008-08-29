@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Stamp Act 1921 and includes the amendments made by the other written laws referred to in the following table 1a, 5-9. The table also contains information about any reprint.
+This reprint is a compilation as at 29 August 2008 of the Stamp Act 1921 and includes the amendments made by the other written laws referred to in the following table 1a, 6-10. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Stamp Act 1921 | 10 of 1922 (12 Geo. V No. 44) | 31 Jan 1922 | 1 Apr 1922 (see s. 1 and Gazette 17 Mar 1922 p. 479)
@@ -53,7 +53,7 @@ Stamp Act Amendment Act 1971 | 3 of 1971 | 13 Sep 1971 | 13 Sep 1971
 Stamp Act Amendment Act (No. 2) 1971 | 29 of 1971 | 1 Dec 1971 | 1 Jan 1972 (see s. 2 and Gazette 10 Dec 1971 p. 5169)
 Stamp Act Amendment Act 1972 | 32 of 1972 | 16 Jun 1972 | 1 Jul 1972 (see s. 2 and Gazette 30 Jun 1972 p. 2100)
 Metric Conversion Act 1972 | 94 of 1972 (as amended by No. 19 of 1973 s. 4) | 4 Dec 1972 | Relevant amendments (see Second Sch.) took effect on 1 Jul 1973 (see s. 4(2) and Gazette 22 Jun 1973 p. 2379)
-Stamp Act Amendment Act 1974 | 9 of 1974 | 27 Sep 1974 | s. 1, 2 and 7: 27 Sep 1974 (see s. 2(1)); s. 5, 6 and 9: 1 Dec 1974 (see s. 2(2)); s. 3, 4, 8 and 10: 1 Jan 1975 (see s. 2(2) and Gazette 22 Nov 1974 p. 5089)
+Stamp Act Amendment Act 1974 | 9 of 1974 | 27 Sep 1974 | s. 1, 2 and 7: 27 Sep 1974 (see s. 2(1)); s. 5, 6 and 9: 1 Dec 1974 (see s. 2(2) and Gazette 22 Nov 1974 p. 508-9); s. 3, 4, 8 and 10: 1 Jan 1975 (see s. 2(2) and Gazette 22 Nov 1974 p. 5089)
 Stamp Act Amendment Act (No. 2) 1974 | 46 of 1974 | 18 Nov 1974 | 1 Dec 1974 (see s. 2 and Gazette 29 Nov 1974 p. 5167)
 Reprint of the Stamp Act 1921 approved 20 Feb 1976 (includes amendments listed above)
 Stamp Act Amendment Act 1976 | 96 of 1976 | 12 Nov 1976 | 1 Jan 1977 (see s. 2)
@@ -71,7 +71,7 @@ Stamp Amendment Act (No. 3) 1982 | 45 of 1982 | 26 Aug 1982 | 24 Dec 1981 (see s
 Stamp Amendment Act (No. 4) 1982 | 93 of 1982 | 22 Nov 1982 | Act other than s. 3-6, 7(1) and 8: 22 Nov 1982 (see s. 2(1)); s. 3-6, 7(1) and 8: 1 Jan 1983 (see s. 2(2))
 Stamp Amendment Act (No. 5) 1982 | 99 of 1982 | 24 Nov 1982 | 1 Jan 1983 (see s. 2)
 Stamp Amendment Act (No. 6) 1982 | 112 of 1982 | 8 Dec 1982 | 26 Oct 1982 (see s. 2)
-Stamp Amendment Act 1983 | 14 of 1983 | 31 Oct 1983 | Act other than s. 6(d): 1 Nov 1983 (see s. 2(2)); s. 6(d): 1 Dec 1983 (see s. 2(1) and Gazette 25 Nov 1983 p. 4649)
+Stamp Amendment Act 1983 | 14 of 1983 | 31 Oct 1983 | Act other than s. 6(d): 1 Nov 1983 (see s. 2(1)); s. 6(d): 1 Dec 1983 (see s. 2(2) and Gazette 25 Nov 1983 p. 4649)
 Stamp Amendment Act (No. 2) 1983 | 61 of 1983 | 13 Dec 1983 | s. 1-4: 13 Dec 1983 (see s. 2(1)); Act other than s. 1-4: 1 Jan 1984 (see s. 2(2))
 Stamp Amendment Act 1984 | 81 of 1984 | 7 Dec 1984 | s. 1 and 2: 7 Dec 1984; Act other than s. 1 and 2: 1 Jan 1985 (see s. 2 and Gazette 28 Dec 1984 p. 4197)
 Stamp Amendment Act (No. 2) 1984 | 109 of 1984 | 19 Dec 1984 | 1 Jan 1985 (see s. 2)
@@ -124,14 +124,14 @@ Revenue Laws Amendment (Assessment) Act 1999 Pt. 2 | 24 of 1999 | 29 Jun 1999 | 
 Revenue Laws Amendment (Taxation) Act 1999 Pt. 3 | 25 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(4))
 Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 103 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
 Reprint of the Stamp Act 1921 as at 22 Oct 1999 (includes amendments listed above)
-Financial Relations Agreement (Consequential Provisions) Act 1999 Pt. 5 | 53 of 1999 | 13 Dec 1999 | Div. 1 and 3: 13 Dec 1999 (see s. 2(1)); Div 2: 1 Jul 2001 (see s. 2(2))
+Financial Relations Agreement (Consequential Provisions) Act 1999 Pt. 5 | 53 of 1999 | 13 Dec 1999 | Div. 1 and 3: 13 Dec 1999 (see s. 2(1)); Div. 2: 1 Jul 2001 (see s. 2(2))
 Acts Amendment (Continuing Lotteries) Act 2000 Pt. 2 | 6 of 2000 (as amended by No. 45 of 2002 s. 6) | 11 Apr 2000 | 1 Jul 2000 (see s. 2 and Gazette 23 Jun 2000 p. 3191)
 Stamp Amendment Act 2000 | 28 of 2000 | 6 Jul 2000 | 6 Jul 2000 (see s. 2)
 Revenue Laws Amendment (Assessment) Act 2000 Pt. 2 | 29 of 2000 | 6 Jul 2000 | 6 Jul 2000 (see s. 2(1))
 Stamp Amendment Act (No. 3) 2000 | 60 of 2000 | 4 Dec 2000 | 10 Aug 2000 (see s. 2)
 Revenue Laws Amendment (Assessment) Act 2001 Pt. 4 | 3 of 2001 | 26 Jun 2001 | Div. 1 and 2: 26 Jun 2001 (see s. 2(1)); Div. 3: 30 Jun 2001 (see s. 2(4)); Div. 4: 1 Jul 2001 (see s. 2(6))
 Revenue Laws Amendment (Taxation) Act 2001 Pt. 3 | 4 of 2001 | 26 Jun 2001 | 30 Jun 2001 (see s. 2(4))
-Corporations (Consequential Amendments) Act 2001 Pt. 48 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
+Corporations (Consequential Amendments) Act 2001 Pt. 48 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth. Gazette 13 Jul 2001 No. S285)
 Building Societies Amendment Act 2001 s. 51 | 12 of 2001 | 13 Jul 2001 | 13 Jul 2001 (see s. 2)
 Reprint of the Stamp Act 1921 as at 3 Aug 2001 (includes amendments listed above) (correction in Gazette 23 Nov 2001 p. 6030)
 Revenue Laws Amendment (Assessment) Act (No. 2) 2001 Pt. 5 and 6 | 36 of 2001 | 7 Jan 2002 | 7 Jan 2002 (see s. 2(1))
@@ -159,21 +159,23 @@ Stamp Amendment Act 2005 | 34 of 2005 | 12 Dec 2005 | Act other than Pt. 3: 12 D
 Stamp Amendment (Taxing) Act 2005 | 35 of 2005 | 12 Dec 2005 | s. 1 and 2: 12 Dec 2005; Act other than s. 1 and 2: 1 Mar 2006 (see s. 2 and Gazette 24 Jan 2006 p. 429)
 Stamp Amendment (Assessment) Act 2005 | 36 of 2005 | 12 Dec 2005 | s. 5: 1 Jul 1997 (see s. 2(2)); s. 1-4 and 7: 12 Dec 2005 (see s. 2(1)); s. 6 and 8: 1 Mar 2006 (see s. 2(3) and Gazette 24 Jan 2006 p. 429)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-Reprint 16: The Stamp Act 1921 as at 12 May 2006 (includes amendments listed above except the amendments in the Revenue Laws Amendment Act 2006 s. 4, 5(2) and 6) (correction in Gazette 18 Jul 2006 p. 2619)
+Reprint 16: The Stamp Act 1921 as at 12 May 2006 (includes amendments listed above) (correction in Gazette 18 Jul 2006 p. 2619)
 Revenue Laws Amendment Act 2006 Pt. 2 (s. 3-16) | 31 of 2006 | 4 Jul 2006 | s. 4: 1 Jan 2004 (see s. 2(2)); s. 5(2) and 6: 1 Jul 2004 (see s. 2(3)); s. 14 and 16: 1 Jul 2006 (see s. 2(5) and (6)); s. 3, 5(1), 7-13 and 15: 4 Jul 2006 (see s. 2(1))
 Stamp Amendment Act 2006 | 67 of 2006 | 11 Dec 2006 | s. 4: 27 Jun 2006 (see s. 2(2)); Act other than s. 4: 12 Dec 2006 (see s. 2(1))
-Revenue Laws Amendment (Taxation) Act 2007 Pt. 5 | 12 of 2007 (as amended by No. 30 of 2008 s. 7) | 29 Jun 2007 | Pt. 5 other than s. 13(2): 1 Jul 2007 (see s. 2(d)(i)) s. 13(2) repealed 27 Jun 2008 by the Revenue Laws Amendment Act 2008 s. 7(3)
+Revenue Laws Amendment (Taxation) Act 2007 Pt. 5 | 12 of 2007 (as amended by No. 30 of 2008 s. 7) | 29 Jun 2007 | Pt. 5 other than s. 13(2): 1 Jul 2007 (see s. 2(d)(i))
 Reprint 17: The Stamp Act 1921 as at 24 Aug 2007 (includes amendments listed above)
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
 Duties Legislation Amendment Act 2008 Pt. 2 Div. 1 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Revenue Laws Amendment Act 2008 s. 8 and Pt. 8 | 30 of 2008 | 27 Jun 2008 | Pt. 8: 6 Feb 2008 (see s. 2(1)(d)); s. 8: 27 Jun 2008 (see s. 2(2)(a))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 18: The Stamp Act 1921 as at 29 Aug 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 30 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 55 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 55 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(1))
 Repealed by the Mining Act 1978.
-This section has a retrospective commencement date effective from 1 Jul 2004 see the Revenue Laws Amendment Act 2006 s. 2(3).
+Section 75AH has a retrospective commencement date effective from 1 Jul 2004; see the Revenue Laws Amendment Act 2006 s. 2(3).
+Section 76 has a retrospective commencement date effective from 6 Feb 2008; see the Revenue Laws Amendment Act 2008 s. 2(1)(d).
 The Acts Amendment (Land Administration) Act 1997 came into operation 30 Mar 1998.
 The Stamp Act Amendment Act (No. 2) 1952 commenced on 5 Jan 1953 (see Gazette 31 Dec 1952 p. 2985) but was repealed by the Betting Control Act 1954 s. 3(1).
 The Road Traffic Amendment Act 2000 Pt. 3 Div. 3 would have amended the Stamp Act 1921 but was repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 28(3) without coming into operation.
@@ -217,9 +219,9 @@ After section 1 the following section is inserted —
 39.Section 4 modified
 Section 4(1) is modified by inserting in their appropriate alphabetical positions —
 “
-applied interstate law means a law of another State in its application as a law of the Commonwealth in or in relation to Commonwealth places in that State in accordance with the Commonwealth Act;
-applied Stamp Act means the Stamp Act 1921 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act;
-Commonwealth Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth;
+“applied interstate law” means a law of another State in its application as a law of the Commonwealth in or in relation to Commonwealth places in that State in accordance with the Commonwealth Act;
+“applied Stamp Act” means the Stamp Act 1921 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act;
+“Commonwealth Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth;
 ”.
 40.Section 4AA inserted
 After section 4 the following section is inserted —
@@ -251,9 +253,9 @@ This notice comes into operation on the day after the day on which it is registe
 Note:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
 4.Definitions
 In this notice —
-applied WA law means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
-Commissioner of State Revenue means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
-Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
+“applied WA law” means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
+“Commissioner of State Revenue” means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
+“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
 5.Modification of applied WA laws
 (1) For the purposes of the Commonwealth Mirror Taxes Act section 8, each applied WA law is taken to be modified to the extent necessary to give effect to subclause (2).
 (2) If —
@@ -291,9 +293,9 @@ After section 1 the following section is inserted —
 41.Section 4 modified
 (1) Section 4(1) is modified by inserting in their appropriate alphabetical positions —
 “
-applied interstate law means a law of another State in its application as a law of the Commonwealth in or in relation to Commonwealth places in that State in accordance with the Commonwealth Mirror Taxes Act;
-Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998;
-corresponding Stamp Act means the Stamp Act 1921 of Western Australia in its application as a law of Western Australia;
+“applied interstate law” means a law of another State in its application as a law of the Commonwealth in or in relation to Commonwealth places in that State in accordance with the Commonwealth Mirror Taxes Act;
+“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998;
+“corresponding Stamp Act” means the Stamp Act 1921 of Western Australia in its application as a law of Western Australia;
 ”.
 (2) Section 4(1) is modified in the definition of “government body” by inserting after “State” —
 “ or the Commonwealth ”.
@@ -368,10 +370,10 @@ The Acts Amendment (Continuing Lotteries) Act 2000 Pt. 4 (as amended by No. 45 o
 Part 4 — Savings and transitional provisions
 17.Interpretation
 In this Part —
-commencement day means the day on which this Act comes into operation;
-Commission means the Gaming Commission of Western Australia, established under the Gaming Commission Act 1987;
-Gaming Commission Act means the Gaming Commission Act 1987 as amended by this Act;
-Stamp Act means the Stamp Act 1921 as in force immediately prior to the commencement day.
+“commencement day” means the day on which this Act comes into operation;
+“Commission” means the Gaming Commission of Western Australia, established under the Gaming Commission Act 1987;
+“Gaming Commission Act” means the Gaming Commission Act 1987 as amended by this Act;
+“Stamp Act” means the Stamp Act 1921 as in force immediately prior to the commencement day.
 [Section 17 amended by No. 45 of 2002 s. 6.]
 18.Licences
 A licence issued under Part IVAA of the Stamp Act and in force immediately before the commencement day —
@@ -401,7 +403,7 @@ The Revenue Laws Amendment (Assessment) Act 2000 s. 6(2) and 8(2), (3) and (4) r
 (2) In the event of a cessation of ownership or control referred to in section 75JB(5f)(a) or (b) of the Stamp Act 1921 as inserted by subsection (1) taking place on or after 25 May 2000 and before this Act receives the Royal Assent, the notification required by section 75JB(5f)(c) of that Act is to be given within one month after this Act receives the Royal Assent.
 8.Section 75JDA inserted and transitional provision
 (2) In subsections (3) and (4) —
-transitional period means the period beginning on 25 October 1999 and ending when subsection (1) comes into operation.
+“transitional period” means the period beginning on 25 October 1999 and ending when subsection (1) comes into operation.
 (3) If an exemption under section 75JB of the Stamp Act 1921 has been granted during the transitional period and the Commissioner is of the opinion that it would not have been granted if subsection (1) had come into operation on 25 October 1999, the claw-back under Part IIIBAAA of that Act applies.
 (4) Section 75JDA(4) of the Stamp Act 1921 does not apply to a requirement under section 75JC(5) of that Act if the determination under section 75JC was made during the transitional period.
 ”.
@@ -409,8 +411,8 @@ The Stamp Amendment Act (No. 3) 2000 s. 21 reads as follows:
 “
 21.Transitional
 (1) In this section —
-amended provisions means the provisions of Part IIIBA and sections 32, 73DA, 75HA, 75I and 75J of the Stamp Act 1921 as enacted after the coming into operation of this Act;
-existing provisions means the provisions of Part IIIBA and sections 32, 73DA, 75HA, 75I and 75J of the Stamp Act 1921 as enacted before the coming into operation of this Act.
+“amended provisions” means the provisions of Part IIIBA and sections 32, 73DA, 75HA, 75I and 75J of the Stamp Act 1921 as enacted after the coming into operation of this Act;
+“existing provisions” means the provisions of Part IIIBA and sections 32, 73DA, 75HA, 75I and 75J of the Stamp Act 1921 as enacted before the coming into operation of this Act.
 (2) Subject to subsection (3), the existing provisions continue to apply to and in relation to an acquisition of an interest in a corporation that occurred before 10 August 2000 and the amended provisions do not apply to it.
 (3) Subsection (2) does not affect the operation of the amended provisions in relation to an acquisition of an interest that occurred before 10 August 2000 in so far as those provisions have effect for the purpose of determining whether an acquisition that occurred on or after 10 August 2000 is a relevant acquisition for the purposes of those provisions.
 (4) If —
@@ -453,13 +455,13 @@ Part 4 — Transitional provisions
 Division 1 — Interpretation
 33.Definitions
 In this Part —
-commencement day means the day on which the Taxation Administration Act 2003 comes into operation;
-old Act means —
+“commencement day” means the day on which the Taxation Administration Act 2003 comes into operation;
+“old Act” means —
 (a)an Act repealed by section 5;
 (b)the old Stamp Act; or
 (c)section 41 of the Metropolitan Region Town Planning Scheme Act 1959 as in force immediately before the commencement day;
-old Stamp Act means the Stamp Act 1921 as in force immediately before the commencement day;
-substantive provisions, in relation to an old Act, means the provisions of the old Act other than those dealing with matters dealt with in the Taxation Administration Act 2003.
+“old Stamp Act” means the Stamp Act 1921 as in force immediately before the commencement day;
+“substantive provisions”, in relation to an old Act, means the provisions of the old Act other than those dealing with matters dealt with in the Taxation Administration Act 2003.
 Division 2 — General transitional provisions
 34.General transitional arrangements
 (1) Section 37(1) of the Interpretation Act 1984, except paragraphs (a) and (b), does not apply in relation to the repeal of an old Act.
@@ -526,9 +528,9 @@ The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as foll
 (2) If this Act receives the Royal Assent on or after the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act is deemed to have come into operation at the same time as that Schedule comes into operation.
 3.Interpretation
 In this Part —
-Financial Services Reform Act means the Financial Services Reform Act 2001 of the Commonwealth;
-FSR commencement time means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
-statutory rule means a regulation, rule or by-law.
+“Financial Services Reform Act” means the Financial Services Reform Act 2001 of the Commonwealth;
+“FSR commencement time” means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
+“statutory rule” means a regulation, rule or by-law.
 4.Validation
 (1) This section applies if this Act comes into operation under section 2(2).
 (2) Anything done or omitted to have been done after the FSR commencement time and before this Act receives the Royal Assent that could have been done if this Act had received the Royal Assent before the FSR commencement time is taken to be as valid and lawful, and to always have been as valid and lawful, as it would have been if this Act had received the Royal Assent before the FSR commencement time.
@@ -569,10 +571,10 @@ The Business Tax Review (Assessment) Act (No. 2) 2003 s. 16(2), 24(3), 25(2), 27
 Division 2 — Transitional provisions
 89.Registered pooled investment trusts
 (1) In this section —
-commencement day means the day on which this section came into operation;
-former provisions means the Stamp Act 1921, as in force immediately before the commencement day;
-new provisions means the Stamp Act 1921, as in force on the commencement day;
-start up period has the same meaning as it has in section 63AC(2) of the former provisions and refers to a period that ends on or after the commencement day.
+“commencement day” means the day on which this section came into operation;
+“former provisions” means the Stamp Act 1921, as in force immediately before the commencement day;
+“new provisions” means the Stamp Act 1921, as in force on the commencement day;
+“start up period” has the same meaning as it has in section 63AC(2) of the former provisions and refers to a period that ends on or after the commencement day.
 (2) Without limiting sections 63AD and 63AE of the new provisions, a disqualifying event occurs for the purposes of those sections if —
 (a) on the commencement day, a pooled investment trust registered under section 63AA(2) of the former provisions; or
 (b) on the day on which the start up period ends, a pooled investment trust granted interim registration under section 63AC(2) of the former provisions,
@@ -580,7 +582,7 @@ does not comply with section 63AB(2) of the new provisions.
 (3) Subject to subsection (2) and to the new provisions other than section 63AA(3a), if the registration of a pooled investment trust under section 63AA(2) of the former provisions has effect immediately before the commencement day, that registration continues to have effect for the period of 3 years from that day.
 90.Determinations under section 75JBA or 75JC
 (1) In this section —
-commencement day means the day on which this section came into operation.
+“commencement day” means the day on which this section came into operation.
 (2) If, before the commencement day, the Commissioner made a determination —
 (a) under section 75JBA that a controlling body would be approved and the claw-back waived; or
 (b) under section 75JC that an exemption would be granted,
@@ -591,18 +593,18 @@ The amendments effected by sections 5, 77, 78 and 87(6) do not apply in relation
 (b) any such lease, regardless of when it is executed.
 92.Mortgages
 (1) In this section —
-amended Act means the Stamp Act 1921 as amended by this Act and the Business Tax Review (Taxing) Act (No. 2) 2003;
-commencement day means the day on which section 79 came into operation;
-former Act means the Stamp Act 1921 as in force from time to time before the commencement day.
+“amended Act” means the Stamp Act 1921 as amended by this Act and the Business Tax Review (Taxing) Act (No. 2) 2003;
+“commencement day” means the day on which section 79 came into operation;
+“former Act” means the Stamp Act 1921 as in force from time to time before the commencement day.
 (2) The amended Act does not apply to a mortgage or other security on which duty was payable under Part IIIE of the former Act if the amount secured by the mortgage does not increase on or after the commencement day.
 (3) However, a mortgage that was liable to duty under Part IIIE of the former Act is liable to duty under Part IIIE of the amended Act as if the mortgage had first been executed after the commencement day if an advance as defined in Part IIIE of the amended Act is made under the mortgage after the commencement day.
 93.Life insurance
 The amendments effected by sections 80, 81, 82, 83 and 87(9) do not apply in relation to a policy of life insurance where the period for which the insurance is effected commenced before this section came into operation.
 94.Hire of goods
 (1) In this section —
-commencement means the time at which section 85 came into operation;
-new Part IVB means Part IVB of the Stamp Act 1921 as in force after commencement and, for the purposes of this section, is taken to include item 18 of the Second Schedule as in force after commencement;
-old Part IVB means Part IVB of the Stamp Act 1921 as in force immediately before commencement and, for the purposes of this section, is taken to include item 18 of the Second Schedule as in force immediately before commencement.
+“commencement” means the time at which section 85 came into operation;
+“new Part IVB” means Part IVB of the Stamp Act 1921 as in force after commencement and, for the purposes of this section, is taken to include item 18 of the Second Schedule as in force after commencement;
+“old Part IVB” means Part IVB of the Stamp Act 1921 as in force immediately before commencement and, for the purposes of this section, is taken to include item 18 of the Second Schedule as in force immediately before commencement.
 (2) An expression used in this section that is given a meaning in the Stamp Act 1921 (including old Part IVB and new Part IVB) has the meaning so given unless the contrary intention appears.
 (3) On commencement, a person who was registered under old Part IVB immediately before commencement is taken, for all purposes, to have been registered under section 112JA of new Part IVB.
 (4) For the purposes of the ongoing application of old Part IVB under subsection (7), the registration of a person who was registered under old Part IVB immediately before commencement is taken to continue under old Part IVB, unless the person’s registration is cancelled under new Part IVB.
@@ -644,10 +646,10 @@ The Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 s. 9 reads as follows:
 “
 9.Application provision
 (1) In this section —
-conveyance or transfer of property includes a contract, agreement or other instrument that is chargeable with duty as a conveyance or transfer of property;
-duty means duty payable under the Stamp Act 1921;
-existing instrument means a conveyance or transfer of property (the “dutiable property”) that was first executed before 29 October 2004;
-former provisions means provisions of the Stamp Act 1921 that are amended by this Part, as those provisions were enacted at any time before 29 October 2004.
+“conveyance or transfer” of property includes a contract, agreement or other instrument that is chargeable with duty as a conveyance or transfer of property;
+“duty” means duty payable under the Stamp Act 1921;
+“existing instrument” means a conveyance or transfer of property (the “dutiable property”) that was first executed before 29 October 2004;
+“former provisions” means provisions of the Stamp Act 1921 that are amended by this Part, as those provisions were enacted at any time before 29 October 2004.
 (2) Despite the amendments made by this Part, former provisions that applied in relation to an existing instrument before 29 October 2004 —
 (a) continue to apply in relation to the existing instrument; and
 (b) if an instrument first executed on or after 29 October 2004 replaces the existing instrument, apply in relation to the replacement instrument to the extent to which it is a conveyance or transfer of the dutiable property.
@@ -659,9 +661,9 @@ The Revenue Laws Amendment Act 2005 s. 13(5) and 30 read as follows:
 (5) A notification required under the Stamp Act 1921 section 75JB(4) as amended by subsection (4) does not have to be given before the end of the period of one month after the day on which this Act receives the Royal Assent.
 30.Saving and transitional provisions
 (1) In this section —
-amended provisions means the Stamp Act 1921 sections 76AI, 76AP, 76AR, 76ATB, 76ATI, 76ATK and 76AW as enacted after the coming into operation of sections 18 to 25 of this Act;
-existing provisions means the Stamp Act 1921 sections 76AI, 76AP, 76AR, 76ATB, 76ATI, 76ATK and 76AW as enacted before the coming into operation of sections 18 to 25 of this Act;
-relevant acquisition has the meaning given by the Stamp Act 1921 section 76AJ, 76AQ, 76ATC or 76ATJ (as the case requires).
+“amended provisions” means the Stamp Act 1921 sections 76AI, 76AP, 76AR, 76ATB, 76ATI, 76ATK and 76AW as enacted after the coming into operation of sections 18 to 25 of this Act;
+“existing provisions” means the Stamp Act 1921 sections 76AI, 76AP, 76AR, 76ATB, 76ATI, 76ATK and 76AW as enacted before the coming into operation of sections 18 to 25 of this Act;
+“relevant acquisition” has the meaning given by the Stamp Act 1921 section 76AJ, 76AQ, 76ATC or 76ATJ (as the case requires).
 (2) The existing provisions continue to apply in relation to a relevant acquisition made on or before 18 May 2005 and the amended provisions do not apply to it.
 (3) Despite the Stamp Act 1921 section 76AG(1), 76AN(1), 76AT(1) or (2) or 76ATG(1) or (2), as the case may be, if —
 (a) an acquisition of an interest in a corporation was made on or after 18 May 2005 and before the day on which this Act receives the Royal Assent;
@@ -678,10 +680,10 @@ The Stamp Amendment Act 2005 s. 8 and 10(2) read as follows:
 (a) a reference in subsection (1) to Part IIIC is a reference to the Stamp Act 1921 Part IIIC as in force at that time; and
 (b) a reference to a dealer in subsection (1) is a reference to a dealer as defined in the Stamp Act 1921 Part IIIC as in force at that time.
 (4) In this section —
-assessment has the meaning given to that term in the Taxation Administration Act 2003;
-Commissioner has the meaning given to that term in the Taxation Administration Act 2003;
-reassessment has the meaning given to that term in the Taxation Administration Act 2003;
-retrospective period means the period beginning on 23 August 2000 and ending on the day before the day on which this Part comes into operation.
+“assessment” has the meaning given to that term in the Taxation Administration Act 2003;
+“Commissioner” has the meaning given to that term in the Taxation Administration Act 2003;
+“reassessment” has the meaning given to that term in the Taxation Administration Act 2003;
+“retrospective period” means the period beginning on 23 August 2000 and ending on the day before the day on which this Part comes into operation.
 10.Section 86A and 86B inserted and application provision
 (2) The Stamp Act 1921 sections 86A(1) and 86B(1) do not apply to mortgages (as defined in the Stamp Act 1921 section 82) executed before 1 January 2006.
 ”.
@@ -694,31 +696,323 @@ The Stamp Amendment (Assessment) Act 2005 s. 7 and 8 read as follows:
 (4) However, a person is not entitled to apply for a reassessment more than 12 months after the day on which this Act receives the Royal Assent.
 (5) Where the policy of insurance effects both offshore risk insurance and other insurance then, despite section 35 of the Taxation Administration (Consequential Provisions) Act 2002, the Commissioner may make a reassessment even if the reassessment increases the amount of duty that a person is liable to pay in relation to the issue or renewal of the policy to the extent that it effects insurance other than offshore risk insurance.
 (6) In this section —
-duty means duty payable under the Stamp Act 1921;
-offshore risk insurance has the meaning given to that term in section 97 of the Stamp Act 1921 as inserted by section 5 of this Act;
-original assessment has the meaning given to that term in the Taxation Administration Act 2003;
-policy of insurance has the meaning given to that term in Part IIIF of the Stamp Act 1921 as in force immediately before this Act received the Royal Assent;
-reassessment means a reassessment as defined in the Taxation Administration Act 2003, being a reassessment of the amount of duty chargeable in respect of the issue or renewal of a policy of insurance to which this section applies.
+“duty” means duty payable under the Stamp Act 1921;
+“offshore risk insurance” has the meaning given to that term in section 97 of the Stamp Act 1921 as inserted by section 5 of this Act;
+“original assessment” has the meaning given to that term in the Taxation Administration Act 2003;
+“policy of insurance” has the meaning given to that term in Part IIIF of the Stamp Act 1921 as in force immediately before this Act received the Royal Assent;
+“reassessment” means a reassessment as defined in the Taxation Administration Act 2003, being a reassessment of the amount of duty chargeable in respect of the issue or renewal of a policy of insurance to which this section applies.
 8.Transitional provisions — Part IIIF
 (1) An expression used in this section that is given a meaning in the Stamp Act 1921 (including old Part IIIF and new Part IIIF) has the meaning so given unless the contrary intention appears.
 (2) New Part IIIF does not apply to or in respect of premiums or instalments paid to an insurer after commencement in respect of which duty, under old Part IIIF, became payable before commencement.
 (3) A person who was an insurer (as defined in new Part IIIF) immediately before commencement is to be taken to have become an insurer on commencement for the purposes of new Part IIIF.
 (4) In this section —
-commencement means the time at which section 6 of this Act comes into operation;
-new Part IIIF means Part IIIF of the Stamp Act 1921 as in force after commencement and, for the purposes of this section, is to be taken to include item 16 of the Second Schedule of the Stamp Act 1921 as in force after commencement;
-old Part IIIF means Part IIIF of the Stamp Act 1921 as in force immediately before commencement and, for the purposes of this section, is to be taken to include item 16 of the Second Schedule and item 8 of the Third Schedule of the Stamp Act 1921, as in force immediately before commencement.
+“commencement” means the time at which section 6 of this Act comes into operation;
+“new Part IIIF” means Part IIIF of the Stamp Act 1921 as in force after commencement and, for the purposes of this section, is to be taken to include item 16 of the Second Schedule of the Stamp Act 1921 as in force after commencement;
+“old Part IIIF” means Part IIIF of the Stamp Act 1921 as in force immediately before commencement and, for the purposes of this section, is to be taken to include item 16 of the Second Schedule and item 8 of the Third Schedule of the Stamp Act 1921, as in force immediately before commencement.
 ”.
-On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 30 had not come into operation. It reads as follows:
+The Revenue Laws Amendment (Taxation) Act 2007 s. 13(2) was repealed on 27 Jun 2008 by the Revenue Laws Amendment Act 2008 s. 7(3).
+On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 30 had not come into operation. It reads as follows:
 “
 30.Stamp Act 1921 amended
 (1) The amendments in this section are to the Stamp Act 1921.
 (2) The Third Schedule is amended by deleting items 3(2) and 7(11).
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 55 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 55 had not come into operation. It reads as follows:
 “
 55.Stamp Act 1921 amended
 (1) The amendment in this section is to the Stamp Act 1921.
 (2) The Second Schedule item 3 is deleted.
 ”.
-This section has a retrospective commencement date effective from 6 Feb 2008 see the Revenue Laws Amendment Act 2008 Pt. 8.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+A74B(2)(a), 75J(2)(a), 75JB(1)(a)
+accident insurance92
+acquire73DB(1), 76(1)
+acquisition A76AT(3), 76ATG(3)
+additional insurance92B(2)(a)
+additional interest76A(3), 76ATD(3), 76ATK(3)
+Administration Act75AG(12)
+advance81, 83(1), 83(3)
+aged care service112R(2)
+aggregated dispositions63AG(1)(a), 73DC(2)
+aggregated duty63AI(2)
+annual duty-free threshold112IF, 112LB(2)
+apportioned liability75G(3)
+approved provider112R(2)
+arrangement70(1)
+attributable amount112LD(2)(b) and (3)(b)
+B74B(2)(a), 75J(2)(b), 75JB(1)(a)
+bankruptcy trustee75ABA(2)
+beneficiary74(3g), 76A(3)
+bidder76ATG(3)
+body corporate 75J(1)
+business asset74C(1)
+business identity74C(1)
+business licence73F(1)
+business mortgage86B(4)
+business owner86B(6)
+business property75AE(3)
+C74B(9)(a), 75JB(1)(d)(iv)
+call option74B(1)
+caveat28(6)
+charitable organisation76B(1)
+chattels70(1), 73D(1), 76(1)
+circuit layout right74C(1)
+collateral mortgage81
+commercial hire business112I(1), 112IF
+commodities74C(1)
+Commonwealth Act76B(1)
+company73DA(3)(a), 73E(1)
+Company A31B(4)
+Company B31B(4)
+Company C31B(5)
+contingent consideration75CA(1)
+continuing instrument16(7)
+continuing proprietor or proprietors74B(4)(b)(i)
+contract75CA(1)
+contract of insurance92
+controlling body75JB(5c)
+controlling interest76A(3), 76ATD(2), 76ATK(2)
+conveyance on sale63(1)
+corporation4(1)
+Corporations Act4(1)
+correcting transfer73AB(a)
+corresponding Act81
+corresponding State law76B(1)
+current exempted property75HA(1)
+custodian trustee63(1)
+de facto partner of 2 years4(1)
+de facto partners of 2 years4(1)
+de facto relationship112UA(1)
+dealer76B(1)
+deeming provision76AU(4)
+deeming-in provision76AU(4)
+deeming-out provision76AU(4)
+Defence Service Homes Insurance Scheme92
+director4(1)
+Director General76B(1)
+disabled beneficiary75AE(4)
+discretionary trust75D(1), 76(1)
+discretionary trustee63(1), 75D(1), 76B(1)
+disposition63(1), 73CA(4), 73E(1)
+distributable property76(1)
+Division 4 insurer92, 95
+dormant74(1aa), 75J(1)
+dormant corporation74(1aa)
+dutiable70(1)
+dutiable amount112LD(4)
+dutiable statement4(1)
+dutiable value76ATE(1), 76ATL(1)
+duty4(1)
+duty avoidance arrangement75JDA(1)
+duty-free threshold112IF
+dwellinghouse4(1)
+earlier acquisition76AJ(3), 76AQ(3)
+eligible conditional contract4(1), 6(1)
+eligible purchaser75AE(3)
+eligible vehicle76B(1)
+endorse4(1)
+entitled76(1)
+entitled share75HA(1)
+entitlement76(1)
+equipment financing arrangement112ID(1), 112IF
+exempt body119(1)
+exempt chattels70(1)
+exempted instrument75JD(5)
+exploration amount73G(1)
+Family Court Act112UA(1)
+Family Law Act112UA(1)
+family member75D(1)
+family members7(3)
+farm-in agreement73G(1)
+farming company75D(1)
+farming exemption75HA(1)
+farming land75D(1)
+farming land conditional contract4(1), 9(1)
+farming partnership75D(1)
+farming property75D(1)
+FHOG Act75AG(12)
+financial institution4(1)
+financial market4(1)
+financial services licensee92
+first business74C(5)(a)
+first instrument75AH(2) (a)
+foreign company4(1)
+former de facto partner of 2 years4(1)
+franchise arrangement74C(1)
+franchisee74C(1)
+franchisor74C(1)
+full duty20(9)
+funds manager63AB(2a)
+further instrument75AH(2)(b)
+further interest76A(3)
+general conditional contract4(1), 8(1)
+general insurance92, 92A(1)
+goods112IA, 112IF
+government body4(1)
+grant76B(1)
+GST4(1)
+health insurance business92
+heavy vehicle76B(1)
+hire of goods112IB(1), 112IF
+hire purchase agreement112ID(2), 112IF
+hirer112IF
+hiring charges112IE(1), 112IF
+holding corporation76AR(4), 76ATK(4)
+home mortgage81
+independent person20(9)
+instalment92
+instrument4(1)
+instrument of conveyance75D(1)
+instrument of transfer35(4), 75AG(12)
+insurer92
+intellectual property74C(1)
+interest74(1aa), 76A(3), 76ATD(1), 76ATK(1)
+intermediary92
+interstate duty4(1)
+interstate security duty63AI(2), 73DC(9)
+issued share capital75J(3)
+land33(4), 63AA(1), 63AB(1), 73D(1), 75D(1), 76(1)
+later acquisition76AJ(3), 76AQ(3)
+liability date81
+liable person73DAA(2)
+licence75J(1), 76B(1)
+life insurance92
+listed land-holder corporation76ATI(1)
+listed land-holder WA company76ATB(1)
+loan81, 84
+local government4(1)
+lot75C(4)
+maintenance agreement112UA(1)
+majority interest 76A(3), 76AK(2), 76AR(2)
+majority shareholder63(6)(c)
+managed investment scheme74(1aa)
+market value76B(1)
+marketable security4(1)
+member74(1aa)
+merging corporations31B(5), 31B(6)
+minerals76(1)
+mining tenement73G(1), 76(1)
+mining tenement conditional contract4(1), 11
+money4(1)
+mortgage4(1), 81, 82(1)
+mortgage duty81
+mortgage package81, 91A(1), 91A(2)
+net value76B(1)
+new vehicle76B(1)
+non-beneficial76B(1)
+officer73E(1)
+offshore risk insurance92
+off-the-plan conditional contract4(1), 10
+old Part IVBSch. 4 cl. 1(1)
+old public unit trust112UE(1)
+option property74B(1)
+optional feature76B(1)
+order112UA(1)
+ordinary hiring arrangement112IF
+original equipment76D(6)(c), 76J(1)(b)
+other property70(1)
+own and control75JB(5c)
+parent body75JB(5c)
+Part IIIBA statement4(1)
+party20(9)
+payment4(1), 73G(1)
+plant breeder right74C(1)
+premium92
+prescribed relationship75JB(5d)
+previous duty76ATA(5)(b), 76ATH(5)(b)
+previous mortgage86A(2)(b), 86B(2)(b)
+primary advance90(1)
+primary produce contract4(1), 9(2)
+primary production75D(1)
+primary products76(1)
+private unit trust scheme63AG(1)
+property74B(1), 112UA(1)
+proprietor74B(5)
+provisional public trust63(1)
+purchase price76B(1)
+put option74B(1)
+qualified person112Q(2)
+qualifying period75JB(5c)
+receiving body31C(1)
+recognised financial market4(1)
+referable point81
+registered commercial hire business112IF
+registered insurer92
+registered organisation92
+registered unit trust scheme73DB(1)
+registrar28(6)
+reinsurance92
+related4(1), 7(1)
+related corporation4(1)
+relevant acquisition76A(3), 76ATC(1), 76ATJ(1)
+relevant aggregated dispositions73DC(3)
+relevant circumstances75JB(5e)
+relevant day76AJ(4), 76AQ(4)
+relevant disposition73DD(5)(b)
+relevant interest73DD(1)
+relevant period76AJ(5), 76AQ(5), 76AT(3), 76ATG(3)
+relevant proportion75HA(1)
+replacement transaction20(9)
+representative92
+residential property75AE(3)
+restraint of trade arrangement74C(1)
+return period92, 112IF
+right in respect of shares4(1)
+rules76(1)
+sale72(1)
+scheme76AV(1)
+scheme land63AA(1)
+scheme property74(1aa)
+section 31B or 31C statement75J(1)
+section 76AG statement4(1)
+section 76AN statement4(1)
+section 76AT statement4(1)
+section 76ATG statement4(1)
+secured amount81, 90(1)
+security interest81
+share73E(1), 76(1)
+share transfer75JB(4)(ca)
+shareholding76(1)
+shares75J(1)
+specialised equipment76B(1)
+specified period76AB(4)
+stamp4(1)
+stamp Act4(1)
+start up period63(1)
+State hire of goods112IC(1), 112IF
+subdivision conditional contract4(1), 12
+supply4(1)
+surviving de facto partner of 2 years4(1)
+terminated on relevant grounds4(1), 14
+the determiner73B(3)
+the dutiable value76AL(1), 76AS(1)
+the initial instrument75E(5)
+the initial transfer75E(6)(a)
+the intermediary69(1)(b)
+the licensee73F(2)
+the property73A(1), 73B(1)
+the target75JA(1)(a)
+the transferee69(1)(a) 75JA(1)(a)
+the transferor69(1), 75E(1), 75HA(1)
+trailerThird Sch. it. 9(8)
+transfer35(4), 63(1), 70(1)
+transfer or assignment72(1)
+transferee75AG(12)
+transferring body31C(1)
+transitional disposition63AG(1)
+trust76(1)
+Trust A73D(1b)(a)
+Trust B73D(1b)(b)
+trustee63(1), 63(6)(d), 75AE(4), 75D(1), 76B(1)
+Trustee A73D(1b)(a)
+unconditional4(1)
+unencumbered value4(1)
+unit4(1), 63(1)
+unit trust scheme63(1), 76B(1)
+unit trustee63(1), 76B(1)
+vehicle75J(1), 76B(1)
+vehicle A76D(6)(a)
+vehicle B76D(6)
+WA company4(1)
