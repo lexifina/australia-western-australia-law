@@ -49,4 +49,4 @@ In the case of —
 (b)irradiating apparatus and/or electronic products | 28
 Part 3 — Records
 1.Fee for copy of records (per page) | 2
-[Schedule XV inserted in Gazette 28 June 1996 pp.3022-4; amended in Gazette 30 June 1999 pp.2875-6.]
+[Schedule XV inserted in Gazette 28 Jun 1996 p. 3022-4; amended in Gazette 30 Jun 1999 p. 2875-6.]
