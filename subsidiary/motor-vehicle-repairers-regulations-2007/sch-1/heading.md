@@ -6,7 +6,7 @@ Motor Vehicle Repairers Act 2003, s. 101(1) Infringement notice | Infringement n
 Alleged offender | Name:Family name
 Given names
 orCompany name ____________________________________ ACN
-Address __________________________________________________ Postcode
+Address _________________________________________________ Postcode
 Alleged offence | Description of offence ______________________________________
  | Motor Vehicle Repairers Act 2003 s. OR Motor Vehicle Repairers Regulations 2007 r.
  | Date //20Time a.m./p.m.
