@@ -24,7 +24,7 @@ Subscription [6 x 126 games @ $0.60 each] =$453.60
 9% of subscription [.09 x $453.60]=$40.824
 Rounded using “bankers rounding”=$40.80
 Total cost of entry=$494.40
-The total cost of entry for a PowerPik 6 entry for a single powerball draw is calculated as follows —
+The total cost of entry for a Powerpik 6 entry for a single powerball draw is calculated as follows —
 Subscription [270 games @ $0.60 each] =$162.00
 9% of subscription [.09 x $162.00]=$14.58
 Rounded using “bankers rounding”=$14.60
