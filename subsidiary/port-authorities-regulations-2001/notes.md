@@ -22,6 +22,7 @@ Port Authorities Amendment Regulations (No. 2) 2007 | 22 Jun 2007 p. 2852 | r. 1
 Port Authorities Amendment Regulations (No. 5) 2007 | 2 Oct 2007 p. 4970-2 | r. 1 and 2: 2 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2007 (see r. 2(b))
 Reprint 3: The Port Authorities Regulations 2001 as at 12 Oct 2007 (includes amendments listed above)
 Port Authorities Amendment Regulations (No. 6) 2007 | 30 Nov 2007 p. 5939-40 | r. 1 and 2: 30 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2007 (see r. 2(b))
+Port Authorities Amendment Regulations 2008 | 5 Sep 2008 p. 4139-40 | r. 1 and 2: 5 Sep 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Sep 2008 (see r. 2(b))
 Repealed by the Tobacco Products Control Act 2006.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Department of Land Administration plans are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
