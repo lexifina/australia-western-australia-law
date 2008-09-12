@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Plant Pests and Diseases (Eradication Funds) Act 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 12 September 2008 of the Plant Pests and Diseases (Eradication Funds) Act 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Skeleton Weed (Eradication Fund) Act 1974 | 76 of 1974 | 10 Dec 1974 | 13 Dec 1974 (see s. 2 and Gazette 13 Dec 1974 p. 5321)
@@ -23,27 +23,21 @@ Plant Pests and Diseases (Eradication Funds) Amendment Act 2003 | 57 of 2003 | 2
 Reprint 2: The Plant Pests and Diseases (Eradication Funds) Act 1974 as at 12 Dec 2003 (includes amendments listed above)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 105 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div. 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 3: The Plant Pests and Diseases (Eradication Funds) Act 1974 as at 12 Sep 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 38 68, 70-73 and 92 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Short title | Number and year | Assent | Commencement
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 38, 68, 70-73 and 92 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 The Companies Act 1893 was repealed by the Companies Act 1943, which was repealed by the Companies Act 1961 s. 4 and 382(2) except in relation to Co-operative Companies, in respect of which it may now be cited as the Companies (Co-operative) Act 1943. The Companies Act 1961 was superseded by the Companies (Western Australia) Code, see section 18 of the Companies (Application of Laws) Act 1981. The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
+Under the Alteration of Statutory Designations Order 2006 a reference in a written law to the Department of Agriculture is, unless the contrary is intended, to be read and construed as a reference to the Department of Agriculture and Food.
+Changed to Director General of Agriculture by s. 16 of the Agriculture Act 1988, which was repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 8. In the Biosecurity and Agriculture Management Act 2007 s. 6 the term Director General means the chief executive officer of the department principally assisting in the administration of that Act.
 Repealed by the Grain Marketing Act 2002.
-Now known as the Plant Pests and Diseases (Eradication Funds) Act 1974; short title changed (see note under s. 1).
-The Skeleton Weed and Resistant Grain Insects (Eradication Funds) Amendment Act 1996 s. 8(2), (3) and (4) read as follows:
-“
-(2) Any expenses incurred by the Grain Pool before the expiry of a period of 6 months beginning on the commencement of this section in paying compensation to the owners of any lupins destroyed under the Plant Diseases Act 1914 are to be treated, despite anything in the Grain Marketing Act 1975 or any other Act, as having been lawfully incurred.
-(3) The application of amounts of the reserve fund for the purpose of meeting expenses referred to in subsection (2) is to be treated, despite anything in the Grain Marketing Act 1975 or any other Act, as having been lawfully done.
-(4) In subsections (2) and (3) —
-Grain Pool has the same meaning as it has in the Grain Marketing Act 1975;
-lupins has the same meaning as it has in the principal Act as amended by this Act;
-reserve fund has the same meaning as it has in the Grain Marketing Act 1975.
-”.
-Footnote no longer applicable.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 38 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 38, 68, 70-73 and 92 had not come into operation. They read as follows:
+Now known as the Plant Pests and Diseases (Eradication Funds) Act 1974; short title changed (see note under s. 1).
+The Skeleton Weed and Resistant Grain Insects (Eradication Funds) Amendment Act 1996 s. 8(2), (3) and (4) are transitional provisions that are of no further effect.
+The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 38, 68, 70-73 and 92 had not come into operation. They read as follows:
 “
 38.Plant Pests and Diseases (Eradication Funds) Act 1974 amended
 (1) The amendments in this section are to the Plant Pests and Diseases (Eradication Funds) Act 1974.
@@ -112,3 +106,27 @@ and
 (9) Section 14(3)(a) is amended by deleting “the Agriculture and Related Resources Protection (Property Quarantine) Regulations 1981 made under the Agriculture and Related Resources Protection Act 1976” and inserting instead —
 “ the Biosecurity and Agriculture Management Act 2007 ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+Company4(1)
+contribution4(1)
+crop4(1)
+crop year4(1)
+declared crop year4(1)
+Department4(1)
+Director4(1)
+Fund4(1)
+grain4(1)
+grower4(1)
+inspector4(1)
+lupins4(1)
+owner4(1)
+plant disease4(1)
+Plant Diseases Eradication Fund4(1)
+Protection Board4(1)
+receiver of grain or seed4(1)
+resistant grain insects4(1)
+Resistant Grain Insects Eradication Fund4(1)
+seed4(1)
+skeleton weed4(1)
