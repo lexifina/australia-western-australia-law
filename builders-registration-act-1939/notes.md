@@ -1,19 +1,19 @@
 Notes
-This is a compilation of the Builders’ Registration Act 1939 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 12 September 2008 of the Builders’ Registration Act 1939 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
- | Builders’ Registration Act 1939 | 29 of 1939 | 16 Dec 1939 | 1 May 1940 (see s. 1 and Gazette 26 Apr 1940 p. 597)
- | Builders’ Registration Act Amendment Act 1940 | 43 of 1940 | 30 Dec 1940 | 30 Dec 1940
+ | Builders’ Registration Act 1939 | 29 of 1939 (3 and 4 Geo. VI No. 29) | 16 Dec 1939 | 1 May 1940 (see s. 1 and Gazette 26 Apr 1940 p. 597)
+ | Builders’ Registration Act Amendment Act 1940 | 43 of 1940 (4 and 5 Geo. VI No. 43) | 30 Dec 1940 | 30 Dec 1940
  | Reprint of the Builders’ Registration Act 1939 in Vol. 2 of Reprinted Acts 1943 (includes amendments listed above)
- | Builders’ Registration Act Amendment Act 1944 | 15 of 1944 | 8 Dec 1944 | 8 Dec 1944
- | Builders’ Registration Act Amendment Act 1945 | 14 of 1945 | 9 Jan 1946 | 9 Jan 1946
- | Builders’ Registration Act Amendment Act 1948 | 24 of 1948 | 9 Dec 1948 | 9 Dec 1948
+ | Builders’ Registration Act Amendment Act 1944 | 15 of 1944 (8 Geo. VI No. 15) | 8 Dec 1944 | 8 Dec 1944
+ | Builders’ Registration Act Amendment Act 1945 | 14 of 1945 (9 and 10 Geo. VI No. 14) | 9 Jan 1946 | 9 Jan 1946
+ | Builders’ Registration Act Amendment Act 1948 | 24 of 1948 (12 Geo. VI No. 24) | 9 Dec 1948 | 9 Dec 1948
  | Reprint of the Builders’ Registration Act 1939 approved 17 Feb 1953 in Vol. 6 of Reprinted Acts (includes amendments listed above)
- | Builders’ Registration Act Amendment Act 1953 | 44 of 1953 | 29 Dec 1953 | 29 Dec 1953
- | Builders’ Registration Act Amendment Act 1956 | 63 of 1956 | 4 Jan 1957 | 4 Jan 1957
- | Builders’ Registration Act Amendment Act 1959 | 61 of 1959 | 10 Dec 1959 | 5 Feb 1960 (see s. 2 and Gazette 5 Feb 1960 p. 254)
+ | Builders’ Registration Act Amendment Act 1953 | 44 of 1953 (2 Eliz. II No. 44) | 29 Dec 1953 | 29 Dec 1953
+ | Builders’ Registration Act Amendment Act 1956 | 63 of 1956 (5 Eliz. II No. 63) | 4 Jan 1957 | 4 Jan 1957
+ | Builders’ Registration Act Amendment Act 1959 | 61 of 1959 (8 Eliz. II No. 61) | 10 Dec 1959 | 5 Feb 1960 (see s. 2 and Gazette 5 Feb 1960 p. 254)
  | Reprint of the Builders’ Registration Act 1939 approved 27 Jul 1961 (not in a Volume) (includes amendments listed above)
- | Builders’ Registration Act Amendment Act 1961 | 54 of 1961 | 23 Nov 1961 | 2 Feb 1962 (see s. 2 and Gazette 2 Feb 1962 p. 324)
+ | Builders’ Registration Act Amendment Act 1961 | 54 of 1961 (10 Eliz. II No. 54) | 23 Nov 1961 | 2 Feb 1962 (see s. 2 and Gazette 2 Feb 1962 p. 324)
  | Reprint of the Builders’ Registration Act 1939 approved 14 Jan 1963 in Vol. 16 of Reprinted Acts (includes amendments listed above)
  | Builders’ Registration Act Amendment Act 1965 | 33 of 1965 | 21 Oct 1965 | 21 Oct 1965
  | Builders’ Registration Act Amendment Act 1966 | 29 of 1966 | 27 Oct 1966 | 16 Dec 1966 (see s. 2 and Gazette 16 Dec 1966 p. 3316)
@@ -63,13 +63,16 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 2 | 28 of
 Land Information Authority Act 2006 s. 119 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 2 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 14 | 11 of 2007 | 29 Jun 2007 | 1 Jul 2008 (see s. 2 and Gazette 6 Jun 2008 p. 2179)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 12: The Builders’ Registration Act 1939 as at 12 Sep 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Legal Profession Act 2008 s. 641 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
-The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 9.
+The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
+Repealed by the Architects Act 2004.
 In this reprint the renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
+Land Titles Office diagrams and plans are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 The Builders’ Registration Amendment Act 1986 s. 11(2) is a transitional provision that is of no further effect.
 The Builders’ Registration Amendment Act 1990 s. 16(2) and (3) are transitional provisions that are of no further effect.
 The Builders’ Registration Amendment Act 1991 s. 16(2) is a transitional provision that is of no further effect.
@@ -83,13 +86,11 @@ A reference in any written law to the Building Disputes Committee constituted un
 ”.
 The Building Legislation Amendment Act 2000 s. 60 is a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) had not come into operation. It reads as follows:
 “
 (2) Section 5AA(2)(a) of the Builders’ Registration Act 1939 is amended by deleting “, including rights under the Superannuation and Family Benefits Act 1938,”.
 ”.
-Lands Titles Office diagrams and plans are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 641 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 641 had not come into operation. It reads as follows:
 “
 641.Builders’ Registration Act 1939 amended
 (1) The amendments in this section are to the Builders’ Registration Act 1939.
@@ -110,3 +111,33 @@ legal practitioner means an Australian legal practitioner within the meaning of 
 (b) in subsection (5) by deleting “legal practitioner, an articled clerk (as defined in the Legal Practice Act 2003),” and inserting instead —
 “ lawyer ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+authorised person20B(1), 33A(5)
+Board2
+builder2
+building2
+building licence2
+chairperson25
+company2
+construct4(1b)
+deputy chairperson25
+Disputes Tribunal2
+districtSch. it. 6
+document23D(4)
+farm building2
+information23D(4)
+legal practitioner2
+legally qualified person45A(5)
+Minister2
+officer21B(2)
+parliamentary purposes23D(4)
+person aggrieved14(2)
+person trading as a builder2
+register2
+registrar2
+reviewable decision14(2)
+supervisor2
+the amending Act3(5)
+the dispute34B(1)(a)
