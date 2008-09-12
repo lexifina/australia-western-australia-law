@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mooring Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 12 September 2008 of the Mooring Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Mooring Regulations 1998 | 11 Dec 1998 p. 6659-78 | 11 Dec 1998
@@ -13,4 +13,28 @@ Mooring Amendment Regulations 2005 | 24 Jun 2005 p. 2779-80 | 1 Jul 2005 (see r.
 Mooring Amendment Regulations 2006 | 26 May 2006 p. 1879-80 | 26 May 2006
 Mooring Amendment Regulations (No. 2) 2006 | 23 Jun 2006 p. 2206 | 1 Jul 2006 (see r. 2)
 Mooring Amendment Regulations 2007 | 12 Jun 2007 p. 2725-6 | 1 Jul 2007 (see r. 2)
-Mooring Amendment Regulations 2008 | 24 Jun 2008 p. 2893 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Mooring Amendment Regulations 2008 | 24 Jun 2008 p. 2893 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Reprint 2: The Mooring Regulations 1998 as at 12 Sep 2008 (includes amendments listed above)
+Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+additional vessel2
+approved2
+certificate of registration2
+commencement day30(1)
+Director General2
+existing mooring30(1)
+length2
+licensed vessel2
+mooring2
+mooring control area2
+mooring licence2
+mooring licensee2
+overall length2
+register2
+registered mooring site2
+tender6(4)
+the previous licensee21(1)
+waiting list2
