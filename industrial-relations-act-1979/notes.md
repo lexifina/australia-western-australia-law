@@ -69,6 +69,7 @@ Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | 1 Aug 2008 (see s. 2 and Gazette 18 Jul 2008 p. 3329)
 Petroleum Amendment Act 2007 s. 97 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
+Acts Amendment (Justice) Act 2008 Pt. 13 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Police Amendment Act 2008 s. 13 and 23(3) | 8 of 2008 | 31 Mar 2008 | s. 13: 1 Apr 2008 (see s. 2(1)) s. 23(3): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -76,7 +77,6 @@ Short title | Number and year | Assent | Commencement
 Vocational Education and Training Act 1996 s. 62 | 42 of 1996 | 16 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
-Acts Amendment (Justice) Act 2008 Pt. 13 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 668 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
@@ -232,40 +232,7 @@ On the date as at which this compilation was prepared, the Petroleum Legislation
 (4) Section 113(1)(d)(ii) is amended as follows:
 (a) after item (I) by deleting “and”;
 ”.
-Footnotes no longer applicable.
-On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 13 had not come into operation. It reads as follows:
-“
-Part 13 — Industrial Relations Act 1979 amended
-60.The Act amended in this Part
-The amendments in this Part are to the Industrial Relations Act 1979.
-61.Section 81CA amended
-(1) Section 81CA(4) is repealed.
-(2) Section 81CA(5) is amended by deleting “summary jurisdiction.” and inserting instead —
-“
-summary jurisdiction and the Criminal Procedure Act 2004 applies.
-”.
-(3) Section 81CA(6) is repealed.
-(4) Section 81CA(7) is repealed.
-62.Section 81CB inserted
-After section 81CA the following section is inserted —
-“
-81CB.Industrial magistrate’s court judgments, enforcement of
-(1) In this section —
-general jurisdiction has the meaning given to that term by section 81CA;
-judgment includes an order, direction or decision.
-(2) A person to whom money is to be paid under a judgment of an industrial magistrate’s court made in the exercise of general jurisdiction may enforce it by lodging a copy of it, certified by a clerk of the court, and an affidavit stating to what extent it has not been complied with, with a court of competent jurisdiction.
-(3) If, or to the extent that, a judgment of an industrial magistrate’s court made in the exercise of general jurisdiction does not require the payment of money, a person entitled to the benefit of the judgment may enforce it by lodging a copy of it, certified by a clerk of the court, and an affidavit stating to what extent it has not been complied with, with the Magistrates Court.
-(4) A judgment that is lodged with a court under subsection (2) or (3) is to be taken to be a judgment of that court and may be enforced accordingly.
-”.
-63.Section 83D amended
-Section 83D(1) is repealed and the following subsection is inserted instead —
-“
-(1) An industrial magistrate’s court has jurisdiction to hear and determine any charge of an offence under this Act other than an offence under section 80(3).
-”.
-64.Section 113 amended
-Section 113(3) is amended by deleting “and the enforcement of a judgment, order, direction, or other decision of an industrial magistrate’s court”.
-”.
-Footnote no longer applicable.
+19- 22Footnotes no longer applicable.
 On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 668 had not come into operation. It reads as follows:
 “
 668.Industrial Relations Act 1979 amended

@@ -26,10 +26,10 @@ Reprint 3: The Guardianship and Administration Act 1990 as at 1 Apr 2005 (includ
 Family Legislation Amendment Act 2006 Pt. 6 Div. 2 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
+Acts Amendment (Justice) Act 2008 Pt. 12 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Justice) Act 2008 Pt. 12 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 667 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
@@ -90,47 +90,7 @@ legal practitioner means an Australian legal practitioner within the meaning of 
 (4) Section 70(3) is amended by deleting “Legal Practice Act 2003.” and inserting instead —
 “ Legal Profession Act 2008. ”.
 ”.
-On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 12 had not come into operation. It reads as follows:
-“
-Part 12 — Guardianship and Administration Act 1990 amended
-55.The Act amended in this Part
-The amendments in this Part are to the Guardianship and Administration Act 1990.
-56.Section 5 repealed and consequential amendment to heading of Part 3 Division 1
-(1) Section 5 is repealed.
-(2) The heading to Part 3 Division 1 is amended by deleting “Constitution, functions” and inserting instead —
-“ Functions ”.
-57.Section 43 amended and consequential amendment to s. 4
-(1) After section 43(2) the following subsections are inserted —
-“
-(2a) Subject to section 4, where the State Administrative Tribunal is satisfied that a person in respect of whom an application for a guardianship order is made under section 40 —
-(a) has attained the age of 17 but not 18 years; and
-(b) will, when he attains the age of 18 years, be —
-(i) incapable of looking after his own health and safety; or
-(ii) unable to make reasonable judgments in respect of matters relating to his person; or
-(iii) in need of oversight, care or control in the interests of his own health and safety or for the protection of others;
-and
-(c) will, when he attains the age of 18 years, be in need of a guardian,
-the Tribunal may by order declare the person will be in need of a guardian when he attains the age of 18 years, and if it does so shall appoint —
-(d) a person to be a plenary guardian or a limited guardian and, if it is expedient, a person to be an alternate guardian; or
-(e) persons to be joint plenary guardians or joint limited guardians,
-as the case may require, of the person in respect of whom the application is made.
-(2b) Where under subsection (2a) the State Administrative Tribunal declares that a person will be in need of a guardian, it shall also declare the matter or matters set out in paragraph (b) of that subsection of which it is satisfied.
-(2c) An appointment made under subsection (2a) in respect of a person comes into operation on the day on which the person attains the age of 18 years.
-”.
-(2) Section 43(3) is amended by inserting after “subsection (1)” —
-“ or (2a) ”.
-(3) Section 4(2)(d) is amended by inserting after “section 43(1)” —
-“ or (2a) ”.
-58.Section 56A amended
-Section 56A is amended by deleting “Notwithstanding section 5(1), the” and inserting instead —
-“ The ”.
-59.Section 86 amended
-Section 86(1) is amended by inserting after paragraph (a) —
-“
-or
-(aa) the Public Trustee; or
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 22, had not come into operation. It reads as follows:
 “
 162.Consequential amendments

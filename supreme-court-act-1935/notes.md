@@ -78,11 +78,11 @@ Limitation Legislation Amendment and Repeal Act 2005 Pt. 8 | 20 of 2005 | 15 Nov
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 9 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
+Acts Amendment (Justice) Act 2008 Pt. 23 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Acts Amendment (Justice) Act 2008 Pt. 23 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Bail Amendment Act 2008 s. 46 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2)
 Legal Profession Act 2008 s. 709 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
@@ -243,38 +243,7 @@ costs determination (as defined in the Legal Profession Act 2008 section 252).
 costs determination (as defined in the Legal Profession Act 2008 section 252).
 ”.
 ”.
-On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 23 had not come into operation. It reads as follows:
-“
-Part 23 — Supreme Court Act 1935 amended
-116.The Act amended in this Part
-The amendments in this Part are to the Supreme Court Act 1935.
-117.Section 9A amended
-After section 9A(4) the following subsection is inserted —
-“
-(5) A person who resigns from the office of President or judge of appeal without resigning from the office of judge may complete the hearing and determination of any appeal, application or proceeding that was pending before the person immediately before the resignation took effect.
-”.
-118.Section 60 amended
-Section 60(1) is amended as follows:
-(a) by deleting paragraph (d);
-(b) in paragraph (e) by deleting “making the order,” and inserting instead —
-“ or of the Court of Appeal, ”.
-119.Section 155 amended
-(1) Section 155(3) is amended as follows:
-(a) in paragraph (a) by inserting after “Registrar” in the first place it appears —
-“ or a registrar directed under subsection (4) ”;
-(b) in paragraph (b) by inserting after “Appeal Registrar” —
-“ or a registrar directed under subsection (4) ”.
-(2) After section 155(3) the following subsection is inserted —
-“
-(4) If the Chief Justice and the President agree that the Court of Appeal Registrar’s workload justifies doing so, the Chief Justice may direct a registrar to temporarily assist the Court of Appeal Registrar to perform the functions of that office.
-”.
-120.Section 156 amended
-After section 156(2) the following subsections are inserted —
-“
-(3) The Sheriff may delegate to a bailiff appointed under the Civil Judgments Enforcement Act 2004, on any terms the Sheriff thinks fit, the performance of any function under subsection (1).
-(4) If a delegation is made under subsection (3), the Civil Judgments Enforcement Act 2004 section 109(2) and (4) to (8) apply with any necessary changes.
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Bail Amendment Act 2008 s. 46 had not come into operation. It reads as follows:
 “
 46.Supreme Court Act 1935 amended

@@ -13,12 +13,12 @@ Reprint 2: The Corruption and Crime Commission Act 2003 as at 7 Jul 2006 (includ
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 3 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Acts Amendment (Justice) Act 2008 s. 128 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Police Amendment Act 2008 s. 11 and 23(1) | 8 of 2008 | 31 Mar 2008 | s. 11: 1 Apr 2008 (see s. 2(1)) s. 23(1): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Criminal Law Amendment (Homicide) Act 2008 s. 26 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Justice) Act 2008 s. 128 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 654 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003.
@@ -123,13 +123,6 @@ to or in relation to any matter.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as to —
 (a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
-”.
-On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 s. 128 had not come into operation. It reads as follows:
-“
-128.Corruption and Crime Commission Act 2003 amended
-(1) The amendments in this section are to the Corruption and Crime Commission Act 2003.
-(2) Section 184(3)(c) is amended by deleting “and 133” and inserting instead —
-“ , 133 and 140 ”.
 ”.
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 654 had not come into operation. It reads as follows:

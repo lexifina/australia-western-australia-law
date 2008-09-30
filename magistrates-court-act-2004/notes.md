@@ -9,38 +9,15 @@ Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 State Superannuation Amendment Act 2007 s. 77 | 25 of 2007 | 16 Oct 2007 | 6 Dec 2007 (see s. 2(1)(b) and Gazette 5 Dec 2007 p. 5973)
 Reprint 1: The Magistrates Court Act 2004 as at 4 Jan 2008 (includes amendments listed above)
+Acts Amendment (Justice) Act 2008 Pt. 15 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Justice) Act 2008 Pt. 15 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Cross-border Justice Act 2008 Pt. 15 Div. 2 | 7 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(b))
 Legal Profession Act 2008 s. 677 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The Courts Legislation Amendment and Repeal Act 2004 contains transitional provisions about enforcing judgments given before the Civil Judgments Enforcement Act 2004 commenced, including judgment of Local Courts.
-On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 15 had not come into operation. It reads as follows:
-“
-Part 15 — Magistrates Court Act 2004 amended
-70.The Act amended in this Part
-The amendments in this Part are to the Magistrates Court Act 2004.
-71.Section 33 amended
-(1) Section 33(5) and (6) are repealed.
-(2) Section 33(8) and (9) are repealed and the following subsections are inserted instead —
-“
-(8) On an application by a person the Court, unless it has good reason not to do so, shall give the person leave, either unconditionally or on any conditions the Court imposes, to inspect, obtain a copy of, view or listen to, any information held by the Court in relation to any case that has been or is being dealt with by it.
-(9) Rules of court may —
-(a) prohibit or regulate access to and obtaining information held by the Court in relation to a case that has been or is being dealt with by it;
-(b) entitle a person to access to or to obtain a copy of any such information.
-”.
-(3) After section 33(11) the following subsection is inserted —
-“
-(12) If under this section, rules of court, or the regulations, a document may be supplied to a person, it may, at the request of the person, be supplied in an electronic form.
-”.
-72.Schedule 1 amended
-(1) Schedule 1 clause 9(8) is amended by inserting after “functions” —
-“ , protection and immunity ”.
-(2) Schedule 1 clause 10(6) is amended by inserting after “functions” —
-“ , protection and immunity ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Cross-border Justice Act 2008 Pt. 15 Div. 2 had not come into operation. It reads as follows:
 “
 Part 15 — Consequential amendments to other legislation

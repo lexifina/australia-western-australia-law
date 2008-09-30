@@ -93,12 +93,12 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 Child Care Services Act 2007 Pt. 7 Div. 3 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 Reprint 14: The Evidence Act 1906 as at 8 Feb 2008 (includes amendments listed above)
 Criminal Law and Evidence Amendment Act 2008 Pt. 5 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+Acts Amendment (Justice) Act 2008 Pt. 11 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Criminal Law Amendment (Homicide) Act 2008 s. 33 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Justice) Act 2008 Pt. 11 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Prostitution Amendment Act 2008 s. 31 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Legal Profession Act 2008 s. 662 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 12 | 26 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
@@ -178,64 +178,7 @@ fee regulations means regulations 6(2) and 13 of the Evidence (Witnesses’ and 
 ”.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to amend s. 56(1) is not included because the subsection it sought to amend was replaced by s. 82 (Sch. 2 it. 118) of the same Act.
 The amendment in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 36 to s. 106A is not included because the paragraph it sought to amend had been amended by the Children and Community Services Act 2004 Sch. 2 cl. 9.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 11 had not come into operation. It reads as follows:
-“
-Part 11 — Evidence Act 1906 amended
-52.The Act amended in this Part
-The amendments in this Part are to the Evidence Act 1906.
-53.Section 119 replaced
-Section 119 is repealed and the following section is inserted instead —
-“
-119.Service as a witness etc., payments for
-(1) In this section —
-criminal proceedings includes an appeal in criminal proceedings;
-eligible service has the meaning given in subsections (2) and (3);
-inquest means an inquest held under the Coroners Act 1996;
-liable person, in respect of any payment that has to be made under this section in respect of eligible service, means —
-(a)if the eligible service is in criminal proceedings and the prosecution was commenced by or on behalf of —
-(i)a local government; or
-(ii)a statutory body,
-the local government or statutory body;
-(b)in any other case, the State.
-(2) For the purposes of this section a person does eligible service if he or she is, or attends at any place in order to be, any of the following —
-(a) a witness who is called by the prosecutor in criminal proceedings;
-(b) a witness who is called by the accused person in criminal proceedings and who —
-(i) is a child; or
-(ii) is declared under section 106R to be a special witness;
-(c) a witness in an inquest;
-(d) an interpreter in criminal proceedings or an inquest;
-(e) a person approved under section 106E or 106R(4)(a) in any proceeding in a court;
-(f) a person appointed under section 106F in any proceeding in a court.
-(3) For the purposes of this section a person does eligible service if he or she does, or attends at any place in order to do, any of the following —
-(a) participate in a programme to prepare —
-(i) children who may be witnesses; or
-(ii) persons who are or may be declared under section 106R to be special witnesses,
-to give evidence in criminal proceedings or an inquest;
-(b) accompany and assist a child or person described in paragraph (a)(i) or (ii) in order to enable him or her —
-(i) to attend a programme described in paragraph (a); or
-(ii) to attend and be a witness in criminal proceedings or an inquest.
-(4) A person who does eligible service is entitled to be paid by the liable person the allowances and expenses that are prescribed by the regulations in respect of doing the eligible service.
-(5) If a person does eligible service for a period when he or she is employed by an employer under a contract of service, the employer must pay the person the earnings that he or she could reasonably expect to have been paid in that period under the contract, despite any breach of the contract caused by doing the eligible service.
-Penalty: a fine of $2 000.
-(6) An employer who in accordance with subsection (5) pays a person during any period when the person does eligible service is entitled to be paid by the liable person the fees in accordance with the regulations for the person’s service, unless the employer is in a class of employer prescribed by the regulations.
-(7) If a person to whom subsection (5) applies is not paid under that subsection, the person is entitled to be paid by the liable person the fees in accordance with the regulations for the eligible service, unless the person is in a class of person prescribed by the regulations.
-(8) A person who does eligible service but to whom subsection (5) does not apply is entitled to be paid by the liable person the fees in accordance with the regulations for the service, unless the person is in a class of person prescribed by the regulations.
-(9) A claim to a liable person for a payment under this section must be made and determined under the regulations.
-(10) The Governor may make regulations prescribing all matters that are necessary or convenient to be prescribed for the purposes of this section including regulations —
-(a) that confer a discretionary authority;
-(b) that require information in support of a claim to the State for a payment to be verified by a statutory declaration.
-(11) On the application of an accused person who calls a witness in criminal proceedings, the Attorney General may authorise the State to pay all or some of the amounts that would be payable under this section if the witness were called by the prosecutor in the proceedings.
-(12) Any amount paid under this section by the State is to be charged to the Consolidated Account.
-”.
-54.Section 121 amended
-Section 121(2) is repealed and the following subsections are inserted instead —
-“
-(2) The court shall not make such a direction unless satisfied the video link or audio link is available or can reasonably be made available.
-(2a) The court shall not make such a direction if satisfied the direction is not in the interests of justice.
-”.
-”.
-Footnote no longer applicable.
+16-18Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 31 had not come into operation. It reads as follows:
 “
 31.Evidence Act 1906 amended

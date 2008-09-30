@@ -4,11 +4,11 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Civil Judgments Enforcement Act 2004 | 28 of 2004 | 14 Oct 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+Acts Amendment (Justice) Act 2008 Pt. 3 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 20 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Acts Amendment (Justice) Act 2008 Pt. 3 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 645 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 20 had not come into operation. It reads as follows:
 “
@@ -19,69 +19,7 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 “ or ”;
 (b) by deleting paragraph (d) and “or” after it.
 ”.
-On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 3 had not come into operation. It reads as follows:
-“
-Part 3 — Civil Judgments Enforcement Act 2004 amended
-7.The Act amended in this Part
-The amendments in this Part are to the Civil Judgments Enforcement Act 2004.
-8.Section 30 amended
-After section 30(6) the following subsections are inserted —
-“
-(7) A means inquiry in the Magistrates Court may be conducted in the absence of the judgment creditor, the judgment creditor’s lawyer, and a person referred to in subsection (6), if the judgment creditor, before the inquiry, asks the court to itself examine the judgment debtor for the purposes of determining the matters listed in section 26.
-(8) At a means inquiry in the Magistrates Court the court, at the request of the judgment creditor made before or at the inquiry, may itself examine the judgment debtor for the purposes of determining the matters listed in section 26.
-”.
-9.Section 62 amended
-(1) Section 62(1) is amended by deleting “have effect” in the 2 places where it occurs and in each place inserting instead —
-“ operate ”.
-(2) Section 62(2) is amended as follows:
-(a) in paragraph (b) by deleting “have effect” and inserting instead —
-“ operate ”;
-(b) by deleting “in effect” and inserting instead —
-“ in operation ”.
-(3) Section 62(3) is amended by deleting “have effect” and inserting instead —
-“ operate ”.
-10.Section 72 amended
-Section 72(4) is amended as follows:
-(a) in paragraph (a) by deleting “has obtained a property (seizure and sale order) —” and inserting instead —
-“
-had an operative property (seizure and sale order) on the date of the sale of the property —
-”;
-(b) in paragraph (b) by deleting “has obtained a property (seizure and sale order) —” and inserting instead —
-“
-had an operative property (seizure and sale order) on the date of the sale of the property —
-”.
-11.Section 90 amended
-(1) Section 90(3) is repealed and following subsection is inserted instead —
-“
-(3) A court may punish a person guilty of a contempt under subsection (1) in any way it may punish a person for any other contempt of the court, but any period of imprisonment imposed must not be longer than 40 days.
-”.
-(2) Section 90(4) is amended by deleting “If under subsection (2) a court decides to imprison a person for contempt of court,” and inserting instead —
-“
-If a court decides to imprison a person guilty of a contempt under subsection (1),
-”.
-(3) After section 90(6) the following subsection is inserted —
-“
-(7) Any person who under section 30(6) may appear on behalf of a judgment creditor at a means inquiry in the Magistrates Court may appear on behalf of a judgment creditor at a default inquiry in that court.
-”.
-12.Section 102 amended
-(1) Section 102(1) is amended by deleting “has effect” and inserting instead —
-“ operates ”.
-(2) Section 102(5) is amended by deleting “have effect.” and inserting instead —
-“ operate. ”.
-13.Section 103 amended
-Section 103(4)(b) is deleted and the following paragraph is inserted instead —
-“
-(b) otherwise, when it is served on the person to whom the original order was addressed.
-”.
-14.Section 108 amended
-After section 108(5) the following subsection is inserted —
-“
-(6) A bailiff must give the Sheriff written notice of every appointment, suspension or termination of an assistant bailiff by the bailiff under this section and of every death of an assistant bailiff.
-”.
-15.Section 109 amended
-Section 109(3) is amended by inserting after “this Act” —
-“ (other than section 111) ”.
-”.
+Footnote no longer applicable.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
 Part 22 — Transitional provisions
