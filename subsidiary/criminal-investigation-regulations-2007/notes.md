@@ -1,48 +1,13 @@
 Notes
-This is a compilation of the Criminal Investigation Regulations 2007. The following table contains information about that regulation.
+This is a compilation of the Criminal Investigation Regulations 2007 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Criminal Investigation Regulations 2007 | 22 Jun 2007 p. 2941-58 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b) and Gazette 22 Jun 2007 p. 2837)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Criminal Investigation Amendment Regulations 2008 r. 3 and 4 | 13 Jun 2008 p. 2519-22 | 30 Sep 2008 (see r. 2(b) and Gazette 11 Jul 2008 p. 3253)
-On the date as at which this compilation was prepared, the Criminal Investigation Amendment Regulations 2008 r. 3 and 4 had not come into operation. They read as follows:
-“
-3.The regulations amended
-The amendment in these regulations is to the Criminal Investigation Regulations 2007.
-4.Schedule 1 amended
-Schedule 1 is amended by inserting before Form 1 the following —
-“
-1A.Move on order (Act s. 27)
-Western Australia Criminal Investigation Act 2006 s. 27 | Move on order | Serial Number MO
-To | Given names:Surname:
-Address | No. & Street
-Town/suburb |  | Postcode:
-Date of birth | / / | M F | MDL/ID No.
-Order [Optional. Tick whichever apply] | Under the Criminal Investigation Act 2006 s. 27, I order you to leave— In addition— I order you to go— beyond m/km from the above place; or beyond the area bounded by— I order you to obey the above order(s) until p.m./a.m. on / /20
-Warning | If you do not obey this order you may be liable to a fine of $12 000 and imprisonment for 12 months.
-Issuing officer’s signature and details | I issue this order on this date and at this timeDate / /20 SignatureTime
-Rank & surname
-Registered No. |  | Station/squad
-Witnessing officer | Rank & surname
-Registered No. |  | Station/squad
-Recipient’s signature | I acknowledge receiving this order. I understand what it says. [Optional]
-Conduct giving rise to order [Tick whichever apply] | The recipient— (a)was doing an act— (i)that involved the use of violence against a person; or (ii)that will cause a person to use violence against another person; or (iii)that will cause a person to fear violence will be used by a person against another person; or (b)was just about to do an act likely to— (i)involve the use of violence against a person; or (ii)cause a person to use violence against another person; or (iii)cause a person to fear violence will be used by a person against another person; or (c)was committing any other breach of the peace; or (d)was hindering, obstructing or preventing any lawful activity being, or about to be, carried out by another person; or (e)was intending to commit an offence; or (f)had just committed or was committing an offence. Description of any offence that was or was about to be committed— Disorderly behaviour in public (The Criminal Code s. 74A) Obstructing public officer (The Criminal Code s. 172) Consuming liquor contrary to the Liquor Control Act 1988 s. 119 Other:
-Recipient’s other details
-Identifying information | Height: cm | Build: | Hair colour: | Facial hair:
-Other:
-Dress
-Ethnic appearance | Aboriginal Arab/Middle Eastern Caucasian East Asian Indian/Pakistani African/Afro-American Pacific Islander/Maori South/Central American Southern European Other:
-Additional information | Vehicle involved? Yes/No. If yes, recipient was driver/passenger. Reg No:Colour, make & model: Other information:
-Officer’s notes
-Notes and instructions for move on order form —
-1.The Criminal Investigation Act 2006 s. 27(1) allows a police officer to order a person who is in a public place, or in a vehicle used for public transport, to leave it, or a part of it if the officer reasonably suspects that the person is doing one of the things listed in s. 27(1) (see the conduct part of the form).
-An officer giving a move on order to a person must take into account the likely effect of the order on the person, including but not limited to the effect on the person’s access to the places where he or she usually resides, shops and works, and to transport, health, education or other essential services. (See s. 27(3)).
-2.Specify the public place, or vehicle used for public transport, or the part of it, from which the person is being ordered to move.
-3.This distance or area must be reasonable (see s. 27(2)(a)).
-4.This period must be reasonable and not longer than 24 hours (see s. 27(2)(b)).
-5.E.g. tattoos, scars, marks, piercings.
-6.Ethnic appearance must be stated and recorded on IMS.
-”.
-”.
+Criminal Investigation Amendment Regulations 2008 | 13 Jun 2008 p. 2519-22 | r. 1 and 2: 13 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Sep 2008 (see r. 2(b) and Gazette 11 Jul 2008 p. 3253)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Act3
+approved course3
+Commissioner3
+forensic procedure power3
