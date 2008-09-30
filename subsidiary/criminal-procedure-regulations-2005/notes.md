@@ -9,21 +9,7 @@ Criminal Procedure Amendment Regulations (No. 3) 2006 | 14 Nov 2006 p. 4728-9 | 
 Criminal Procedure Amendment Regulations 2007 | 9 Nov 2007 p. 5611-14 | r. 1 and 2: 9 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Nov 2007 (see r. 2(b))
 Criminal Procedure Amendment Regulations (No. 2) 2007 | 13 Nov 2007 p. 5696 | 13 Nov 2007 (see note to r. 1)
 Reprint 1: The Criminal Procedure Regulations 2005 as at 8 Feb 2008 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Criminal Procedure Amendment Regulations 2008 r. 3 and 4 | 16 May 2008 p. 1909-10 | 30 Sep 2008 (see r. 2(b) and Gazette 11 Jul 2008 p. 3253)
-On the date as at which this compilation was prepared, the Criminal Procedure Amendment Regulations 2008 r. 3 and 4 had not come into operation. They read as follows:
-“
-3.The regulations amended
-The amendments in these regulations are to the Criminal Procedure Regulations 2005.
-4.Regulation 28B inserted
-After regulation 28A the following regulation is inserted —
-“
-28B.Fee for additional copy of served documents (CPA s. 175A)
-The fee to be paid for giving another copy of a document under section 175A of the Act is the fee set out in the Magistrates Court (Fees) Regulations 2005 Schedule 1 Division 1 item 1(b).
-”.
-”.
+Criminal Procedure Amendment Regulations 2008 | 16 May 2008 p. 1909-10 | r. 1 and 2: 16 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Sep 2008 (see r. 2(b) and Gazette 11 Jul 2008 p. 3253)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
