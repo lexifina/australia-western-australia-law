@@ -18,9 +18,6 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Retail Shops and Fair Trading Legislation Amendment Act 2006 Pt. 3 | 47 of 2006 | 4 Oct 2006 | 11 May 2007 (see s. 2 and Gazette 11 May 2007 p. 2017)
 Reprint 3: The Commercial Tenancy (Retail Shops) Agreements as at 8 Jun 2007 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 Pt. 4 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 The Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 s. 22 reads as follows:
 “
@@ -168,54 +165,4 @@ the CTRS Act means the Commercial Tenancy (Retail Shops) Agreements Act 1985.
 (b) the question is transferred to the Tribunal under the Act section 167,
 on or after the commencement day the question is to be dealt with as if it had been referred for mediation under the Act section 54(1) and the Tribunal is to specify a person to be the mediator.
 ”.
-On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 4 had not come into operation. It reads as follows:
-“
-Part 4 — Commercial Tenancy (Retail Shops) Agreements Act 1985 amended
-16.The Act amended in this Part
-The amendments in this Part are to the Commercial Tenancy (Retail Shops) Agreements Act 1985.
-17.Section 7 amended
-Section 7(5) is amended by deleting “under Part III”.
-18.Part III heading deleted
-The heading to Part III is deleted.
-19.Section 16 amended
-(1) Section 16(1)(b) is deleted and the following paragraph is inserted instead —
-“
-(b) if it is such a question, hear and determine it.
-”.
-(2) Section 16(2) is repealed and the following subsection is inserted instead —
-“
-(2) The matter for determination referred to in subsection (1)(a) may be determined by the Tribunal in such manner as it thinks fit, subject to each party being given an opportunity to make a written submission.
-”.
-(3) Section 16(3) is repealed.
-20.New heading and sections 24 and 25 inserted
-Before section 26 the following Part heading and sections are inserted —
-“
-Part III — Powers and procedure for dealing with matters
-24.Term used in this Part
-In this Part —
-matter means any application that may be made, or any question or matter that may be referred or submitted, to the Tribunal under this Act.
-25.Relationship between this Part and State Administrative Tribunal Act 2004
-Nothing in this Part prevents a matter from being dealt with through a compulsory conference or mediation process under the State Administrative Tribunal Act 2004.
-”.
-21.Section 26 amended
-(1) Section 26(1) is amended by deleting “proceedings” in the 3 places where it occurs and in each place inserting instead —
-“ any matter ”.
-(2) After section 26(3) the following subsection is inserted —
-“
-(4) The Tribunal may allow any equitable claim or defence, and give any equitable remedy, in a matter before it that the Supreme Court may allow or give.
-”.
-22.Section 27 amended
-Section 27(1), (2) and (3) are repealed and the following subsections are inserted instead —
-“
-(1) If both a court and the Tribunal have jurisdiction to determine a matter, proceedings to determine the matter may be instituted either —
-(a) before the court; or
-(b) before the Tribunal,
-but not both.
-(2) If a matter is before a court, the court may order it to be transferred to the Tribunal if —
-(a) all parties to the matter so agree; or
-(b) the court, on its own initiative or on the application of a party, decides it is in the interests of justice to do so.
-(3) If a matter is before the Tribunal and is one that a court also has jurisdiction to determine, the Tribunal may order it to be transferred to the court if —
-(a) all parties to the matter so agree; or
-(b) the Tribunal, on its own initiative or on the application of a party, decides it is in the interests of justice to do so.
-”.
-”.
+The Petroleum Retail Marketing Franchise Act 1980 (Cwlth) has been repealed by the Petroleum Retail Legislation Repeal Act 2006 (Cwlth) (No. 2006/113).

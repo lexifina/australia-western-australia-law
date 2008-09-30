@@ -47,12 +47,12 @@ Reprint 5: The Sentencing Act 1995 as at 6 Jul 2007 (includes amendments listed 
 Water Resources Legislation Amendment Act 2007 s. 199 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Fines Legislation Amendment Act 2008 Pt.3 | 3 of 2008 | 12 Mar 2008 | 28 Mar 2008 (see s. 2(c) and Gazette 27 Mar 2008 p. 899)
 Criminal Law and Evidence Amendment Act 2008 s. 70 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+Acts Amendment (Justice) Act 2008 Pt. 20 and 21 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Criminal Law Amendment (Homicide) Act 2008 Pt. 3 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Acts Amendment (Justice) Act 2008 Pt. 20 and 21 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
@@ -125,6 +125,27 @@ and
 (3) If immediately before commencement a person is in custody serving a life term to which the old provisions apply, then on and after commencement the new provisions apply to that term.
 (4) If immediately before commencement a person is in custody serving indefinite imprisonment, then on and after commencement the new provisions apply in respect of that person.
 (5) If immediately before commencement a person is detained in strict or safe custody during the Governor’s pleasure under an order made under section 282 of The Criminal Code, then on and after commencement the new provisions apply in respect of that person.
+5A.Minister may discharge certain prisoners from old parole terms
+(1) In this clause —
+discharge means a discharge given under subclause (5);
+Minister means the Minister administering Part 8 of the Sentence Administration Act 2003;
+old parole term means a parole term to which the old provisions apply.
+(2) This clause does not affect the operation of section 95(2) of the Sentencing Act 1995 as it was before the sentencing amendments.
+(3) The Prisoners Review Board established under the Sentence Administration Act 2003 may at any time give the Minister a report recommending that a person who is subject to an old parole term and who has served two thirds of the term be discharged from the term.
+(4) Any such report must deal with the release considerations (as that term is defined in section 5A of the Sentence Administration Act 2003) relating to the person.
+(5) If the Minister, after considering such a report, is satisfied —
+(a) that the person has served two thirds of the term; and
+(b) after taking into account —
+(i) the release considerations in the report relating to the person; and
+(ii) section 5B of the Sentence Administration Act 2003,
+that the person ought to be discharged from the term despite the old provisions,
+the Minister, in writing, may discharge the person from the term.
+(6) A discharge —
+(a) has effect on the date of the discharge or on any later date specified in it; and
+(b) has effect despite the old provisions.
+(7) If, on the date a discharge has effect in relation to a person who is subject to an old parole term, the person is in custody, the person must be released in respect of that term.
+(8) If, on the date a discharge has effect in relation to a person who is subject to an old parole term, the person is subject to a parole order made in respect of that term, the person ceases to be subject to the parole order in so far as it applies in respect of that term.
+[Clause 5A inserted by No. 5 of 2008 s. 109.]
 6.Early release orders made before commencement
 If immediately before commencement a person is subject to a parole order, a home detention order, or a work release order, made under the repealed Act, then on and after commencement the repealed Act continues to apply to and in respect of that order.
 7.WROs
@@ -203,44 +224,6 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 (2) Schedule 1 is amended by deleting the item relating to the Cattle Industry Compensation Act 1965.
 ”.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 20 and 21 had not come into operation. It reads as follows:
-“
-Part 20 — Sentencing Act 1995 amended
-106.The Act amended in this Part
-The amendment in this Part is to the Sentencing Act 1995.
-107.Section 37 amended
-After section 37(3) the following subsection is inserted —
-“
-(3a) A sentence imposed or corrected under this section has effect from the time at which the recalled or incorrect sentence had effect, unless the court orders otherwise.
-”.
-Part 21 — Sentencing Legislation Amendment and Repeal Act 2003 amended
-108.The Act amended in this Part
-The amendments in this Part are to the Sentencing Legislation Amendment and Repeal Act 2003.
-109.Schedule 1 amended
-After Schedule 1 clause 5 the following clause is inserted —
-“
-5A.Minister may discharge certain prisoners from old parole terms
-(1) In this clause —
-discharge means a discharge given under subclause (5);
-Minister means the Minister administering Part 8 of the Sentence Administration Act 2003;
-old parole term means a parole term to which the old provisions apply.
-(2) This clause does not affect the operation of section 95(2) of the Sentencing Act 1995 as it was before the sentencing amendments.
-(3) The Prisoners Review Board established under the Sentence Administration Act 2003 may at any time give the Minister a report recommending that a person who is subject to an old parole term and who has served two thirds of the term be discharged from the term.
-(4) Any such report must deal with the release considerations (as that term is defined in section 5A of the Sentence Administration Act 2003) relating to the person.
-(5) If the Minister, after considering such a report, is satisfied —
-(a) that the person has served two thirds of the term; and
-(b) after taking into account —
-(i) the release considerations in the report relating to the person; and
-(ii) section 5B of the Sentence Administration Act 2003,
-that the person ought to be discharged from the term despite the old provisions,
-the Minister, in writing, may discharge the person from the term.
-(6) A discharge —
-(a) has effect on the date of the discharge or on any later date specified in it; and
-(b) has effect despite the old provisions.
-(7) If, on the date a discharge has effect in relation to a person who is subject to an old parole term, the person is in custody, the person must be released in respect of that term.
-(8) If, on the date a discharge has effect in relation to a person who is subject to an old parole term, the person is subject to a parole order made in respect of that term, the person ceases to be subject to the parole order in so far as it applies in respect of that term.
-”.
-”.
 On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 52, had not come into operation. It reads as follows:
 “
 162.Consequential amendments

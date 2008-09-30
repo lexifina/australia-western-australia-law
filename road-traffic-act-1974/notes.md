@@ -128,6 +128,7 @@ Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (se
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Road Traffic Amendment (Drugs) Act 2007 Pt. 2 | 6 of 2007 | 23 May 2007 | 12 Oct 2007 (see s. 2 and Gazette 11 Oct 2007 p. 5475)
 Road Traffic Amendment Act (No. 2) 2007 Pt. 1 and Pt. 2 (except s. 27-30) | 39 of 2007 | 21 Dec 2007 | Pt. 1: 21 Dec 2007 (see s. 2(a)); Pt. 2 Div. 6: 22 Dec 2007 (see s. 2(j)); Pt. 2 (other than s. 6(2)(b)(ii), 17, 18 & 25 and Div. 4, 5 & 6): 15 Mar 2008 (see s. 2(b)-(j) and Gazette 14 Mar 2008 p. 829); Pt. 2 s. 6(2)(b)(ii): 15 Mar 2008 (see s. 2(c)); Pt. 2 s. 17, 18 & 25: 30 Jun 2008 (see s. 2(d)-(f)); Pt. 2 (s. 26) and Pt. 2 Div. 5: 1 Jul 2008 (see s. 2(g)-(i) and Gazette 27 Jun 2008 p. 3117)
+Acts Amendment (Justice) Act 2008 s. 131 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Road Traffic Amendment Act 2008 (except s. 5(a) and 8) | 24 of 2008 | 13 Jun 2008 | s. 1 and 2: 13 Jun 2008 (see s. 2(1)(a)); s. 3, 4, 5(b)-(f), 6, 7, 9-25: 19 Jul 2008 (see s. 2(1)(b) and Gazette 18 Jul 2008 p. 3329)
 Criminal Law Amendment (Homicide) Act 2008 s. 38 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
@@ -136,7 +137,6 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Amendment Act (No. 2) 1987 s. 11(b) | 121 of 1987 (as amended by No. 84 of 2004 s. 80 (cl. 123)) | 24 Dec 1987 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act (No. 2) 2007 Pt.2 Div. 4 (s. 27-30) | 39 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(g))
-Acts Amendment (Justice) Act 2008 s. 131 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act 2008 s. 5(a) and 8 | 24 of 2008 | 13 Jun 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 Repealed by the Interpretation Act 1984.
@@ -345,15 +345,7 @@ Section 104R(1) is amended by inserting before paragraph (b) —
 (aa) an excessive demerit points (novice driver) notice; or
 ”.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 s. 131 had not come into operation. It reads as follows:
-“
-131.Road Traffic Act 1974 amended
-(1) The amendments in this section are to the Road Traffic Act 1974.
-(2) Section 100(1) is amended by deleting “section 72” and inserting instead —
-“ section 78 ”.
-”.
-Footnote no longer applicable.
+33-35Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 51, had not come into operation. It reads as follows:
 “
 162.Consequential amendments

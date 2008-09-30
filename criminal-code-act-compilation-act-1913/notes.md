@@ -147,11 +147,11 @@ Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 20
 Criminal Code Amendment (Drink and Food Spiking) Act 2007 | 31 of 2007 | 21 Dec 2007 | s. 1 and 2: 21 Dec 2007 (see s. 2(a)); Act other than s. 1 and 2: 22 Dec 2007 (see s. 2(b))
 Reprint 13: The Criminal Code Act Compilation Act 1913 as at 18 Jan 2008 (includes amendments listed above)
 Criminal Law and Evidence Amendment Act 2008 Pt. 2 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+Acts Amendment (Justice) Act 2008 s. 129 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Criminal Law Amendment (Homicide) Act 2008 Pt. 2 and s. 27 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Justice) Act 2008 s. 129 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 4 | 25 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
@@ -193,14 +193,6 @@ repeal day means the day on which section 27 comes into operation.
 ”.
 Reprints before Reprint 10 were not numbered. Reprint 10 and subsequent reprints have been numbered consecutively. However, when Reprints 10 to 13 were prepared they were out by one number
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 s. 129 had not come into operation. It reads as follows:
-“
-129.The Criminal Code amended
-(1) The amendments in this section are to The Criminal Code.
-(2) The heading to Part V is amended by deleting “marriage and”.
-(3) Section 563B(3) is amended by deleting “defendant” in the 2 places where it occurs and in each place inserting instead —
-“ accused ”.
-”.
 On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 30 had not come into operation. It reads as follows:
 “
 30.The Criminal Code amended

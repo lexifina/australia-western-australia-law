@@ -14,9 +14,6 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Pawnbrokers and Second-hand Dealers Amendment Act 2006 | 46 of 2006 | 4 Oct 2006 | s. 1 and 2: 4 Oct 2006; Act other than s. 1 and 2: 1 May 2007 (see s. 2 and Gazette 30 Apr 2007 p. 1833)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Pawnbrokers and Second-hand Dealers Act 1994 as at 15 Jun 2007 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Acts Amendment (Justice) Act 2008 s. 130 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 The provision in this Act repealing these Acts has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -28,12 +25,22 @@ commencement day means the day on which the State Administrative Tribunal (Confe
 (2) On or after the commencement day a clerk of a court of petty sessions is to cause to be sent to the executive officer of the State Administrative Tribunal all records under the control of the clerk relating to proceedings under the Pawnbrokers and Second-hand Dealers Act 1994 Part 2 Division 3.
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 116 (to amend s. 93(1)) and Sch. 2 cl. 37 were repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(11) and (13).
-On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 s. 130 had not come into operation. It reads as follows:
-“
-130.Pawnbrokers and Second-hand Dealers Act 1994 amended
-(1) The amendments in this section are to the Pawnbrokers and Second-hand Dealers Act 1994.
-(2) Section 83(3) is repealed and the following subsection is inserted instead —
-“
-(3) An arrest made under this section is to be taken to be an arrest made under section 25 of the Criminal Investigation Act 2006 and section 25(5) to (7) of that Act applies accordingly.
-”.
-”.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+approved3(1)
+authorised person90(1)
+business premises3(1)
+Commissioner3(1)
+Department3(1)
+licence3(1)
+licensee3(1)
+officer3(1)
+pawn ticket3(1), 49
+pawnbroker3(1), 3A(1), 73(1)
+pawned3A(2)
+redemption period3(1)
+second-hand dealer3(1)
+second-hand goods3(1)
+storage premises3(1)
+Tribunal73(1)

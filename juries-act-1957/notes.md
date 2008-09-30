@@ -51,13 +51,13 @@ Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 9 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 5: The Juries Act 1957 as at 8 Jun 2007 (includes amendments listed above except those in the Chiropractors Act 2005 and the Nurses and Midwives Act 2006)
+Acts Amendment (Justice) Act 2008 Pt. 14 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Police Amendment Act 2008 s. 14 and s. 23(4) | 8 of 2008 | 31 Mar 2008 | s. 14: 1 Apr 2008 (see s. 2(1)) s. 23(4): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Criminal Law and Evidence Amendment Act 2008 s. 64 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
-Acts Amendment (Justice) Act 2008 Pt. 14 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 669 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
@@ -112,47 +112,4 @@ an Australian legal practitioner (within the meaning of that term in the Legal P
 “
 (f) an Australian lawyer (within the meaning of that term in the Legal Profession Act 2008 section 3).
 ”.
-”.
-On the date as at which this compilation was prepared, the Acts Amendment (Justice) Act 2008 Pt. 14 had not come into operation. It reads as follows:
-“
-Part 14 — Juries Act 1957 amended
-65.The Act amended in this Part
-The amendments in this Part are to the Juries Act 1957.
-66.Section 44 replaced
-Section 44 is repealed and the following section is inserted instead —
-“
-44.Payments for juries in civil trials
-(1) If trial by jury is ordered in a civil trial, the party that applied for the order must pay the summoning officer, before the time or times prescribed —
-(a) the prescribed amount for summoning the jurors; and
-(b) the prescribed amount for an officer of the court to attend on the jury for the first day of the trial; and
-(c) a deposit of such amount as the summoning officer estimates and advises the party will be needed to meet the payments that will have to be made under section 58B for the first day of the trial.
-(2) If an amount is not paid as required by subsection (1), the trial shall proceed as if a trial by jury had not been ordered, notwithstanding any other Act.
-(3) The party referred to in subsection (1) must also pay the summoning officer for each day of the trial after the first day, before the time or times prescribed —
-(a) the prescribed amount for an officer of the court to attend on the jury for the day; and
-(b) a deposit of such amount as the summoning officer estimates and advises the party will be needed to meet the payments that will have to be made under section 58B for the day.
-(4) If an amount is not paid for a day as required by subsection (3), the court may, unless the amount is paid by another party, discharge the jury and finish the trial and decide the case without a jury, notwithstanding that the trial commenced with a jury, and notwithstanding any other Act.
-”.
-67.Section 58B inserted
-After section 58A the following section is inserted —
-“
-58B.Jury service, payments for
-(1) For the purposes of this section a person does jury service if he or she, having been required under this Act to do so, attends at any place in order to serve, or does serve, as a juror.
-(2) A person who does jury service is entitled to be paid by the State the allowances and expenses prescribed by the regulations in respect of doing the jury service.
-(3) If a person does jury service for a period when he or she is employed by an employer under a contract of service, the employer must pay the person the earnings that he or she could reasonably expect to have been paid in that period under the contract, despite any breach of the contract caused by doing the jury service.
-Penalty: a fine of $2 000.
-(4) An employer who in accordance with subsection (3) pays a person during any period when the person does jury service is entitled to be paid by the State the fees in accordance with the regulations for the person’s service, unless the employer is in a class of employer prescribed by the regulations.
-(5) If a person to whom subsection (3) applies is not paid under that subsection, the person is entitled to be paid by the State the fees in accordance with the regulations for the jury service, unless the person is in a class of person prescribed by the regulations.
-(6) A person who does jury service but to whom subsection (3) does not apply is entitled to be paid by the State the fees in accordance with the regulations for the jury service, unless the person is in a class of person prescribed by the regulations.
-(7) A claim to the State for a payment under this section must be made and determined under the regulations.
-(8) Any amount paid under this section by the State to or in respect of a juror for a trial in criminal proceedings is to be charged to the Consolidated Account.
-”.
-68.Section 62 amended
-Section 62(3) is repealed and the following subsection is inserted instead —
-“
-(3) The Governor may make regulations prescribing all matters that are necessary or convenient to be prescribed for the purposes of section 58B including regulations —
-(a) that confer a discretionary authority;
-(b) that require information in support of a claim to the State for a payment to be verified by a statutory declaration.
-”.
-69.Second Schedule amended
-The Second Schedule clause 2 is amended by deleting paragraph (c).
 ”.
