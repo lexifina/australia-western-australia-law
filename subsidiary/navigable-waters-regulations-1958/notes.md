@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 October 2008 of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Navigable Waters Regulations | 2 Apr 1958 p. 622-32 | 1 May 1958 (see r. 1)
@@ -49,7 +49,7 @@ Navigable Waters Amendment Regulations (No. 2) 1981 | 7 Aug 1981 p. 3230 | 7 Aug
 Navigable Waters Amendment Regulations (No. 4) 1981 | 14 Aug 1981 p. 3340 | 14 Aug 1981
 Navigable Waters Amendment Regulations (No. 5) 1981 | 4 Sep 1981 p. 3861-2 | 4 Sep 1981
 Navigable Waters Amendment Regulations (No. 3) 1981 | 9 Oct 1981 p. 4257 | 9 Oct 1981
-Reprint of the Navigable Waters Regulations authorised 3 Dec 1981 in Gazette 21 Dec 1981 p. 5283-306 (includes amendments listed above except those in the Navigable Waters Amendment Regulations 1981 and the Navigable Waters Amendment Regulations (No. 2), (No. 3), (No. 4 and (No. 5) 1981)
+Reprint of the Navigable Waters Regulations authorised 3 Dec 1981 in Gazette 21 Dec 1981 p. 5283-306 (includes amendments listed above except those in the Navigable Waters Amendment Regulations 1981 and the Navigable Waters Amendment Regulations (No. 2), (No. 3), (No. 4) and (No. 5) 1981)
 Navigable Waters Amendment Regulations (No. 6) 1981 | 18 Dec 1981 p. 5219 | 18 Dec 1981
 Navigable Waters Amendment Regulations 1982 | 7 May 1982 p. 1454 | 7 May 1982
 Navigable Waters Amendment Regulations (No. 2) 1982 | 4 Jun 1982 p. 1808 | 4 Jun 1982
@@ -115,21 +115,19 @@ Reprint 12: The Navigable Waters Regulations 1958 as at 4 Aug 2006 (includes ame
 Navigable Waters Amendment Regulations (No. 2) 2006 | 1 Sep 2006 p. 3596-9 | 2 Sep 2006 (see r. 2(a) and Gazette 1 Sep 2006 p. 3591)
 Navigable Waters Amendment Regulations 2007 | 12 Jun 2007 p. 2726-7 | 1 Jul 2007 (see r. 2)
 Navigable Waters Amendment Regulations (No. 2) 2007 | 30 Nov 2007 p. 5938 | r. 1 and 2: 30 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2007 (see r. 2(b))
-Navigable Waters Amendment Regulations (No. 4) 2008 | 24 Jun 2008 p. 2894-5 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Navigable Waters Amendment Regulations (No. 4) 2008 | 24 Jun 2008 p. 2894-5 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 3) 2008 | 1 Jul 2008 p. 3154 | r. 1 and 2: 1 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2008 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 13: The Navigable Waters Regulations 1958 as at 3 Oct 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Navigable Waters Amendment Regulations (No. 2) 2008 r. 3 and 4 | 24 Jun 2008 p. 2891-2 | 1 Feb 2009 (see r. 2(b))
+The Police Act 1892 Part IIIA was replaced by the Police Amendment Act 2008 s. 10. Under the current Part IIIA Aboriginal police liaison officers are appointed under s. 38B.
+Repealed by the Dangerous Goods Safety Act 2004.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
-The Navigable Waters Amendment Regulations 1992 r. 9 reads as follows:
-“
-9.Transitional
-(1) Notwithstanding regulations 4 and 6 of these regulations, regulations 45B and 45D of the principal regulations, as they were immediately before the commencement of these regulations, continue to apply in relation to a vessel registered with the department in the year ending 30 June 1992, until that vessel’s registration expires or is renewed.
-(2) Notwithstanding regulation 5 of these regulations, regulation 45BAA of the principal regulations, as it was immediately before the commencement of these regulations, continues to apply in relation to a foreign pleasure vessel registered with the department in the year ending 30 June 1992, until that foreign pleasure vessel’s registration expires or is renewed.
-”.
-On the date as at which this compilation was prepared, the Navigable Waters Amendment Regulations (No. 2) 2008 r. 3 and 4 had not come into operation. They read as follows:
+The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
+On the date as at which this reprint was prepared, the Navigable Waters Amendment Regulations (No. 2) 2008 r. 3 and 4 had not come into operation. They read as follows:
 “
 3.The regulations amended
 The amendments in these regulations are to the Navigable Waters Regulations 1958.
@@ -149,3 +147,51 @@ prescribed standard means —
 (2) Regulation 52BAB(2) is amended by deleting “this regulation” and inserting instead —
 “ subregulation (1) ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+ABP standard45A(2)
+AN/NZS52BAB(1a)
+appropriate personal flotation device50B(3)
+appropriate signal19E(4)
+authorised person2
+CEO47(1)
+commencement date47CA(3)
+department2
+diving2
+examiner47(1)
+foreign pleasure vessel45BAA(1)
+foreign skipper’s ticket47(1)
+freestyle driving50A(4)
+higher qualification47C(7)
+hull identification number45A(2)
+inspector2
+jetty21
+learner47B(2)
+motor boat2
+MS52BAB(1a)
+navigable waters2
+officer of the department2
+owner2, 45A(2), 46(1), 47CA(3)
+para-sailing46(2)
+personal watercraft46(2)
+PFD Type 146(2)
+PFD Type 246(2)
+PFD Type 346(2)
+proposed departure date45BAA(1)
+protected waters2
+public jetty2
+recreational skipper’s ticket47(1)
+registered interstate pleasure vessel45A(2)
+registered vessel45A(2)
+registrable vessel45A(2)
+RST vessel47(1)
+speed boat2
+surfing50A(4)
+tender45A(2)
+the Acts2
+trick water ski-ing46(2)
+vessel18A(1), 19(1), 21
+water skier46(2)
+water ski-ing46(2)
+wave jumping50A(4)
