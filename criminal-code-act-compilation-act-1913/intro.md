@@ -25,7 +25,7 @@ Preamble
 Whereas it is desirable to declare and consolidate the Criminal Law: Be it enacted and declared by the King’s Most Excellent Majesty, by and with the advice and consent of the Legislative Council and Legislative Assembly of Western Australia, in this present Parliament assembled, and by the authority of the same, as follows:
 1.Short title
 This Act may be cited as the Criminal Code Act 1913.
-2.Establishment of The Criminal Code
+2.The Criminal Code established
 The provisions contained in the Code of Criminal Law set forth in the Schedule to this Act, and hereinafter called the Code, shall be the law of Western Australia with respect to the several matters therein dealt with.
 The said Code may be cited as “The Criminal Code”.
 3.Construction of statutes, statutory rules, and other instruments
@@ -33,7 +33,7 @@ The following rules shall, unless the context otherwise indicates, apply with re
 (1) When in any statute, statutory rule, local law, by-law, or other instrument, public or private, the term “felony” is used, or reference is made to an offence by the name of felony, it shall be taken that reference is intended to an offence which is a crime under the provisions of the Code:
 (2) When in any statute, statutory rule, local law, by-law, or other instrument, public or private, the term “murder” is used, it shall be taken that reference is intended to include the crime that was called wilful murder under the Code as it was before the commencement of the Criminal Law Amendment (Homicide) Act 2008:
 (3) When in any statute, statutory rule, local law, by-law, or other instrument, public or private, the term “larceny” is used, it shall be taken that reference is intended to the crime of stealing:
-(4) When in any statute, statutory rule, local law, by-law, or other instrument, public or private, reference is made to any offence by any specific name, it shall be taken that reference is intended to the offence which, under the provisions of the Code, is constituted by the Act or omission that would heretofore have constituted the offence referred to:
+(4) When in any statute, statutory rule, local law, by-law, or other instrument, public or private, reference is made to any offence by any specific name, it shall be taken that reference is intended to the offence which, under the provisions of the Code, is constituted by the act or omission that would heretofore have constituted the offence referred to:
 (5) When in any statute, statutory rule, local law, by-law, or other instrument, public or private, reference is made to any of the statutory provisions hereby repealed, it shall be taken that reference is intended to the corresponding provisions or substituted provisions of the Code.
 [Section 3 amended by No. 14 of 1996 s. 4; No. 57 of 1997 s. 45; No. 29 of 2008 s. 27.]
 4.Provisions of Code exclusive, with certain exceptions
