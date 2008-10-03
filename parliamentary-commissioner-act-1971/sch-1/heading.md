@@ -1,6 +1,7 @@
 ## Schedule 1 — Entities, and extent, to which this Act does not apply
 [Section 13(2)(n)]
 Note: each item in this Schedule is listed in the alphabetical order of the Act to which the item relates.
+The Auditor General appointed under the Auditor General Act 2006 to the extent of the Auditor General’s functions other than that of chief executive officer of the department of the Public Service known as the Office of the Auditor General.
 The Corruption and Crime Commission under the Corruption and Crime Commission Act 2003.
 The Parliamentary Inspector of the Corruption and Crime Commission under the Corruption and Crime Commission Act 2003.
 The Director of Public Prosecutions and the Deputy Director of Public Prosecutions under the Director of Public Prosecutions Act 1991.
@@ -9,7 +10,6 @@ The Electoral Commissioner within the meaning of the Electoral Act 1907 to the e
 The Deputy Electoral Commissioner within the meaning of the Electoral Act 1907.
 The Commissioner for Equal Opportunity appointed under the Equal Opportunity Act 1984.
 The Director of Equal Opportunity in Public Employment appointed under the Equal Opportunity Act 1984.
-The Auditor General appointed under the Auditor General Act 2006 to the extent of the Auditor General’s functions other than that of chief executive officer of the department of the Public Service known as the Office of the Auditor General.
 The Information Commissioner under the Freedom of Information Act 1992.
 The Inspector of Custodial Services under the Inspector of Custodial Services Act 2003.
 The Parliamentary Commissioner for Administrative Investigations and the Deputy Commissioner for Administrative Investigations under the Parliamentary Commissioner Act 1971.
