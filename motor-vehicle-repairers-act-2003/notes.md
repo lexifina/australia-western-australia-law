@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Motor Vehicle Repairers Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 October 2008 of the Motor Vehicle Repairers Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Repairers Act 2003 | 68 of 2003 | 9 Dec 2003 | s. 1-2: 9 Dec 2003; Pt. 1 (other than s. 1, 2, 3(4) and 4), Pt. 3, Pt. 4, s. 65 and 69, Pt. 7, s. 89 and 90, Pt. 10 (other than s. 108 and 109), Pt. 11 and Sch. 3 cl. 2 and 3: 19 Mar 2007 (see s. 2 and Gazette 9 Feb 2007 p. 451); s. 4, Pt. 2 and 5, Pt. 6 (other than s. 65 and 69), Pt. 8 (other than s. 85(3)(b)), Pt 9 (other than s. 89 and 90), s. 108 and 109, Sch. 1 and 2 and Sch. 3 cl. 1: 1 Jul 2008 (see s. 2 and Gazette 24 Jun 2008 p. 2885)
@@ -8,12 +8,13 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 16 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 1: The Motor Vehicle Repairers Act 2003 as at 8 Feb 2008 (includes amendments listed above except those in the Motor Vehicle Repairers Act 2003 s. 3(4), 4, Pt. 2 and 5, Pt. 6 (other than s. 65 and 69), Pt. 8 (other than s. 85(3)(b)), Pt 9 (other than s. 89 and 90), s. 108 and 109, Sch. 1 and 2 and Sch. 3 cl. 1)
-On the date as at which this compilation was prepared, the provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of those provisions see the endnote referred to in the table.
+Reprint 1: The Motor Vehicle Repairers Act 2003 as at 8 Feb 2008 (includes amendments listed above except those in the Motor Vehicle Repairers Act 2003 s. 4, Pt. 2 and 5, Pt. 6 (other than s. 65 and 69), Pt. 8, Pt. 9 (other than s. 89 and 90), s. 108 and 109, Sch. 1 and 2 and Sch. 3 cl. 1)
+Reprint 2: The Motor Vehicle Repairers Act 2003 as at 3 Oct 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Repairers Act 2003 s. 3(4) and 85(3)(b) | 68 of 2003 | 9 Dec 2003 | To be proclaimed (see s. 2)
-On the date as at which this compilation was prepared, the Motor Vehicle Repairers Act 2003 s. 3(4) and 85(3)(b) had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Motor Vehicle Repairers Act 2003 s. 3(4) and 85(3)(b) had not come into operation. They read as follows:
 “
 3.Terms used in this Act
 (4) The references in sections 23(2)(a), 32(2)(a), 62(3)(a) and 66(a) to an inquiry are to proceedings of the kind authorised by section 14 of the Motor Vehicle Dealers Act 1973, and that section applies accordingly.
@@ -70,6 +71,7 @@ Defined Terms
 Defined TermProvision(s)
 Account107(1)
 affected person73(1)
+amount paid95(1)
 approved3(1)
 authorised officer3(1), 97
 Board3(1)
@@ -82,18 +84,24 @@ Department3(1)
 Director General3(1)
 inquiry3(1)
 insolvent89
-licensee3(1)
+licensee3(1), 83
+mobile premises56
 motor vehicle3(1)
-owner89
+owner83, 89
 person to whom this Part applies65
+premises56
 prescribed97
 prescribed offence97
 prescribed percentage90(1), 107(1)
 provisional repairer’s certificate3(1)
 purposes of the Account107(1)
 regulations3(1)
+relevant maximum fineSch. 2 cl. 2(3)
 relevant offence69(1)
+relevant person18(3), 20(3)
 repair work3(1)
 repairer’s certificate3(1)
 secretary3(1)
+sufficient resources12
 transitional matterSch. 3 cl. 3(5)
+unlicensed repairer109(1)
