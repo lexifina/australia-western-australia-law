@@ -1,6 +1,6 @@
 ## Schedule 4 — Summary of parameters within which Monday or Wednesday lotto is conducted
 [Heading inserted in Gazette 6 Jun 2008 p. 2320.]
-Unit cost for a Monday or Wednesday lotto draw | $0.30 (+ a 9% agent’s component)
+Unit cost for a Monday or Wednesday lotto draw | $0.40 (+ a 9% agent’s component)
 Prize fund — % of subscriptions | 60.0%
 Prize pool — % of subscriptions | no less than 55.0%
 Prize reserve fund — % of subscriptions | balance of prize fund after prize pool (up to 5.0%)
@@ -21,4 +21,4 @@ Syndicate entries may be purchased (if available) | (see Part 2A)
 Systems entries per oral request | 1
 Prize payout period | 12 months
 Maximum aggregate entry cost | $100 000
-[Schedule 4 inserted in Gazette 6 Jun 2008 p. 2320-1.]
+[Schedule 4 inserted in Gazette 6 Jun 2008 p. 2320-1; amended in Gazette 3 Oct 2008 p. 4497.]
