@@ -1,8 +1,8 @@
 ## Schedule 3
 [Section 47]
 ## Transitional and savings provisions
-1.(1)In this Schedule, West Australian Trustees Limited and Perpetual Trustees W.A. Ltd. are each referred to as “an existing company”.
-(2) In this Schedule “repealed Acts” means the Acts repealed by section 46.
+1.(1)In this Schedule, West Australian Trustees Limited and Perpetual Trustees W.A. Ltd. are each referred to as an existing company.
+(2) In this Schedule repealed Acts means the Acts repealed by section 46.
 2.Subject to this Schedule, no power or right possessed by an existing company, or duty or obligation to which an existing company is subject, immediately before the commencement of this Act in relation to an estate then under its management or administration shall be affected by this Act.
 3.The provisions of the repealed Acts authorising the charging, retention and receipt of commissions and fees by the existing companies shall, notwithstanding the repeal of those Acts by section 46, continue to apply and have effect in relation to the administration of estates where the administration or management commenced before the commencement of this Act and the existing companies shall be entitled to commissions and fees accordingly.
 3A.If —
