@@ -1,13 +1,13 @@
 Notes
-This is a compilation of the Public Trustee Act 1941 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 10 October 2008 of the Public Trustee Act 1941 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Public Trustee Act 1941 | 26 of 1941 | 8 Dec 1941 | 1 Jul 1942 (see s. 1(2) and Gazette 26 Jun 1942 p. 689)
-Public Trustee Act Amendment Act 1947 | 12 of 1947 | 1 Nov 1947 | 1 Nov 1947
-Public Trustee Act Amendment Act 1950 | 7 of 1950 | 15 Nov 1950 | 15 Nov 1950
-Public Trustee Act Amendment Act 1953 | 19 of 1953 | 7 Dec 1953 | 7 Dec 1953
-Public Trustee Act Amendment Act 1962 | 34 of 1962 | 29 Oct 1962 | 1 Jul 1966 (see s. 2 and Gazette 4 Mar 1966 p. 589)
-Public Trustee Act Amendment Act 1964 | 48 of 1964 | 19 Nov 1964 | 19 Nov 1964
+Public Trustee Act 1941 | 26 of 1941 (5 Geo. VI No. 26) | 8 Dec 1941 | 1 Jul 1942 (see s. 1(2) and Gazette 26 Jun 1942 p. 689)
+Public Trustee Act Amendment Act 1947 | 12 of 1947 (11 Geo. VI No. 12) | 1 Nov 1947 | 1 Nov 1947
+Public Trustee Act Amendment Act 1950 | 7 of 1950 (14 Geo. VI No. 7) | 15 Nov 1950 | 15 Nov 1950
+Public Trustee Act Amendment Act 1953 | 19 of 1953 (2 Eliz. II No. 19) | 7 Dec 1953 | 7 Dec 1953
+Public Trustee Act Amendment Act 1962 | 34 of 1962 (11 Eliz. II No. 34) | 29 Oct 1962 | 1 Jul 1966 (see s. 2 and Gazette 4 Mar 1966 p. 589)
+Public Trustee Act Amendment Act 1964 | 48 of 1964 (13 Eliz. II No. 48) | 19 Nov 1964 | 19 Nov 1964
 Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Public Trustee Act Amendment Act 1968 | 64 of 1968 | 18 Nov 1968 | 18 Nov 1968
 Reprint of the Public Trustee Act 1941 approved 19 Mar 1969 in Vol. 22 of Reprinted Acts (includes amendments listed above)
@@ -17,9 +17,9 @@ Public Trustee Act Amendment Act 1978 | 25 of 1978 | 18 May 1978 | Act other tha
 Acts Amendment (Master, Supreme Court) Act 1979 Pt. XIII | 67 of 1979 | 21 Nov 1979 | 11 Feb 1980 (see s. 2 and Gazette 8 Feb 1980 p. 383)
 Reprint of the Public Trustee Act 1941 approved 4 Feb 1981 (includes amendments listed above)
 Public Trustee Amendment Act 1982 | 19 of 1982 | 27 May 1982 | 27 May 1982
-Public Trustee Amendment Act 1984 | 46 of 1984 | 5 Sep 1984 | 1 Oct 1984 (see s. 2 and Gazette 28 Sep 1984 p. 3153)
+Public Trustee Amendment Act 1984 | 46 of 1984 | 5 Sep 1984 | s. 1 and 2: 5 Sep 1984; Act other than s. 1 and 2: 1 Oct 1984 (see s. 2 and Gazette 28 Sep 1984 p. 3153)
 Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
-Public Trustee Amendment Act 1986 | 23 of 1986 | 25 Jul 1986 | 5 Sep 1986 (see s. 2 and Gazette 5 Sep 1986 p. 3265)
+Public Trustee Amendment Act 1986 | 23 of 1986 | 25 Jul 1986 | s. 1 and 2: 25 Jul 1986; Act other than s. 1 and 2: 5 Sep 1986 (see s. 2 and Gazette 5 Sep 1986 p. 3265)
 Acts Amendment (Land Administration) Act 1987 Pt. XII | 126 of 1987 | 31 Dec 1987 | 16 Sep 1988 (see s. 2 and Gazette 16 Sep 1988 p. 3637)
 Public Trustee Amendment Act 1989 | 10 of 1989 | 2 Nov 1989 | 30 Nov 1989
 Guardianship and Administration Act 1990 s. 123 | 24 of 1990 | 7 Sep 1990 | 20 Oct 1992 (see s. 2 and Gazette 2 Oct 1992 p. 4811)
@@ -40,21 +40,17 @@ Workers’ Compensation Reform Act 2004 s. 175 | 42 of 2004 | 9 Nov 2004 | 4 Jan
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Statute Law Revision Act 2006 s. 7 | 37 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2)
 Reprint 5: The Public Trustee Act 1941 as at 11 Aug 2006 (includes amendments listed above)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
-Public Trustee and Trustee Companies Legislation Amendment Act 2008 Pt. 2 | 9 of 2008 | 31 Mar 2008 | 1 Jul 2008 (see s. 2 and Gazette 24 Jun 2008 p. 2885)
-Repealed in First Schedule to this Act.
+Public Trustee and Trustee Companies Legislation Amendment Act 2008 Pt. 2 | 9 of 2008 | 31 Mar 2008 | 1 Jul 2008 (see s. 2(2) and Gazette 24 Jun 2008 p. 2885)
+Reprint 6: The Public Trustee Act 1941 as at 10 Oct 2008 (includes amendments listed above)
+Repealed in the First Schedule to this Act.
 The Administration Act 1903 s. 22 was repealed by the Public Trustee Act 1941 s. 3.
-Repealed by the Liquor Act 1970 which was repealed by the Liquor Licensing Act 1988.
-Title now Liquor Licensing Court.
+Repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988, and which is now known as the Liquor Control Act 1988.
+Under the Liquor Control Act 1988 Sch. 1A cl. 9 a reference to the Liquor Licensing Court is to be read and construed as a reference to the Liquor Commission.
 Repealed by the Unclaimed Money Act 1990 s. 24.
-Repealed by the Mental Health Act 1962 which was repealed by the Mental Health (Consequential Provisions) Act 1996.
-Repealed by the Workers’ Compensation and Rehabilitation Act 1981 s. 194 which is now known as the Workers’ Compensation and Injury Management Act 1981.
 Marginal notes in the Public Trustee Act 1941 referring to the legislation from which provisions were derived have been omitted from this reprint.
-The Public Trustee Amendment Act 1984 s. 7(2) reads as follows:
-“
-(2) Without limiting the application of that provision, the power contained in section 38(2b) of the principal Act as inserted by subsection (1)(c) of this section shall extend to fees which, at the commencement of this section, have accrued due but have not been paid.
-”.
+The Public Trustee Amendment Act 1984 s. 7(2) is a transitional provision that is of no further effect.
 The Public Trustee Amendment Act 1989 s. 6(2) reads as follows:
 “
 (2) Section 5A of the principal Act as enacted before the commencement of this Act shall continue to apply to any deed or other instrument executed by the Deputy Public Trustee before the commencement of this Act.
@@ -68,3 +64,39 @@ The Public Trustee and Trustee Companies Legislation Amendment Act 2008 s. 25(2)
 “
 (2) The last rates of interest fixed and published in the Gazette before the day on which section 25 of the Public Trustee and Trustee Companies Legislation Amendment Act 2008 comes into operation are to be taken on and after that day to be the rates fixed and published in the Gazette under section 39A(5) of the Public Trustee Act 1941 until rates are fixed under section 39A(5).
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+a grant of administration2
+a grant of letters of administration2
+administration2
+appointed day1(2)
+certificated practitioner2
+client2
+Common Account2
+Court2
+Curator2
+current agreement2
+document32(2)
+documents55(8)
+estate2
+estates2
+fees38
+Fund2
+income2
+investment management services37B
+Official Trustee2
+prescribed amount14(6)
+proper officer16(3)
+Public Trustee2
+purchased land40A(1)
+Registrar of the Supreme Court2
+regulations2
+represented person2
+reserve fund2
+rules2
+strategic common account2
+Territory16(3)
+Treasurer’s guidelines2
+unused portion40A(1)
+will2
