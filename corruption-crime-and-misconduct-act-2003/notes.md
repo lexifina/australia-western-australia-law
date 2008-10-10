@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Corruption and Crime Commission Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 10 October 2008 of the Corruption and Crime Commission Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Corruption and Crime Commission Act 2003 | 48 of 2003 | 3 Jul 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+Corruption and Crime Commission Act 2003 | 48 of 2003 | 3 Jul 2003 | s. 1 and 2: 3 Jul 2003; Act other than s. 1 and 2: 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 2 | 78 of 2003 | 22 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Reprint 1: The Corruption and Crime Commission Act 2003 as at 5 Jan 2004 (includes amendments listed above)
 Criminal Code Amendment Act 2004 s. 24 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
@@ -12,17 +12,18 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 2: The Corruption and Crime Commission Act 2003 as at 7 Jul 2006 (includes amendments listed above)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 3 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Justice) Act 2008 s. 128 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
-Police Amendment Act 2008 s. 11 and 23(1) | 8 of 2008 | 31 Mar 2008 | s. 11: 1 Apr 2008 (see s. 2(1)) s. 23(1): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
+Police Amendment Act 2008 s. 11 and 23(1) | 8 of 2008 | 31 Mar 2008 | s. 11: 1 Apr 2008 (see s. 2(1)); s. 23(1): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Criminal Law Amendment (Homicide) Act 2008 s. 26 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 3: The Corruption and Crime Commission Act 2003 as at 10 Oct 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 s. 654 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003.
-Now called the Telecommunications (Interception and Access) Act 1979.
+Now called the Telecommunications (Interception and Access) Act 1979 (Commonwealth).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 3 Div. 3 Subdiv. 2 reads as follows:
 “
@@ -124,8 +125,7 @@ to or in relation to any matter.
 (a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 654 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 654 had not come into operation. It reads as follows:
 “
 654.Corruption and Crime Commission Act 2003 amended
 (1) The amendments in this section are to the Corruption and Crime Commission Act 2003.
@@ -156,7 +156,7 @@ lawyer means an Australian lawyer within the meaning of that term in the Legal P
 (2) A person is eligible for appointment as Parliamentary Inspector if the person is a lawyer and has had not less than 8 years’ legal experience.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 11, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3, had not come into operation. It reads as follows:
 “
 162.Consequential amendments
 Schedule 3 sets out consequential amendments.
@@ -169,3 +169,109 @@ Schedule 3 — Consequential amendments
 (2) Section 54(1) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894;” and inserting instead —
 “ Medical Practitioners Act 2008; ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+A-CC3(1)
+allegation3, 220(1)
+ancillary activity132(1)
+appropriate authority3(1)
+appropriate entry105(6)
+assumed identity approval103(1)
+authorised officer184(1)
+authorised operation119
+authorised person101(1), 148(8), 161(1)
+authority63, 119
+bipartisan support3(1)
+cancel108(3)
+chief officer102
+civilian participant119
+Commission3(1)
+Commission lawyer152(1)
+Commissioner3(1)
+Commissioner of Police3(1)
+contractor3(1)
+controlled activity63, 119
+controlled operation63, 119
+conveyance53(6)
+court114(1), 134(1), 152(1), 153(1), 208(1), 209(1)
+criminal activity63
+Director of Public Prosecutions3(1)
+disciplinary action3(1)
+disciplinary offence3(1)
+disclose3(1)
+examination3(1)
+exceptional powers45
+exceptional powers finding45, 46(2)
+formal authority119, 121(2)(a)
+formal variation of an authority124(3)(a)
+former judgeSch. 2 cl. 4(6)
+fortification67(1)
+heavily fortified67(1)
+holder of a judicial office27(6)
+independent agency3(1)
+inquiry3(1)
+integrity testing programme119, 123(1)
+interested person67(1)
+investigation3(1), 45
+issuing agency102
+judgeSch. 2 cl. 3(3)
+juvenile81(2)
+legal experience190(1)
+legal practitioner3(1)
+medical practitioner54(1)
+misconduct3(1)
+misconduct function18(1)
+misconduct matter42(1)
+nominating committee3(1)
+notation167(1)
+notice or summons167(1)
+notifying authority3(1)
+officer102
+officer of the Commission3(1)
+officer of the Parliamentary Inspector3(1)
+officer participant119
+officers196(1)
+official219(1)
+official information152(1), 208(1)
+official matter99(1), 167(1)
+organised crime3(1)
+organised crime examination3(1)
+organised crime summons3(1)
+owner67(1)
+Parliamentary Commissioner3(1)
+Parliamentary Inspector3(1)
+participant119
+perform3(1)
+Police Royal Commission3(1)
+presiding officer27A(4)
+prevention and education function17(1)
+principal officer of a notifying authority3(1)
+Privileges Committee27B(1)(a)
+produce152(1), 153(1), 208(1), 209(1)
+public authority3(1)
+public officer3(1)
+public service officer3(1)
+reasonable excuse157
+received matter3(1)
+record3(1), 19(1)
+register102
+registered nurse54(1)
+Registrar102
+related controlled activity132(1)
+relevant material101(1)
+relevant person152(1), 208(1)
+restricted matter151(1), 167(1)
+reviewable police action3(1)
+Schedule 1 offence3(1)
+section 5 offence3(1)
+serious misconduct3(1)
+Standing Committee3(1)
+State Records Commission3(1)
+subcontractor3(1)
+submission67(1)
+submission period67(1), 69(2)(b)
+urgent authority119, 121(2)(b)
+urgent variation of an authority124(3)(b)
+warrant101(1)
+witness3(1)
