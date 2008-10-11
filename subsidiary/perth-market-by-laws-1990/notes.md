@@ -13,3 +13,4 @@ Perth Market Amendment By-laws (No. 2) 2000 | 20 Oct 2000 p. 5900-3 | 20 Oct 200
 Reprint of the Perth Market By-laws 1990 as at 10 Aug 2001 (includes amendments listed above)
 Perth Market Amendment By-laws 2001 | 21 Sep 2001 p. 5219 | 21 Sep 2001
 Perth Market Amendment By-laws 2004 | 21 Sep 2004 p. 4103-6 | 21 Sep 2004
+Perth Market Amendment By-laws 2008 | 10 Oct 2008 p. 4539-42 | bl. 1 and 2: 10 Oct 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 11 Oct 2008 (see bl. 2(b))
