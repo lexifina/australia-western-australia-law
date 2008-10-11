@@ -6,10 +6,11 @@ address of a person means —
 (b)if the person has a post office box for receiving personal or business mail — the address of the post office box;
 appointed representative means a person appointed under section 12 to represent the Commissioner in proceedings under a taxation Act;
 approved means approved by the Commissioner;
-assessment means a determination of a kind referred to in section 13(1), whether the determination is made by way of a self-assessment, an official assessment or a reassessment;
+assessment means a determination of a kind referred to in section 13(1), whether the determination is made by way of a self-assessment, an official assessment, a reassessment or a compromise assessment;
 assessment notice means a notice under section 23;
 charge, in relation to land, means a charge on the land created under section 76 or 77;
 Commissioner means the Commissioner of State Revenue appointed in accordance with section 6;
+compromise assessment means an assessment made in accordance with section 20A;
 corresponding Commissioner, in relation to a recognised jurisdiction in which a recognised revenue law is in force, means the person responsible for administering the recognised revenue law;
 date of an assessment notice means the date on which it is issued;
 decision includes a direction;
@@ -88,4 +89,4 @@ taxpayer means —
 tax payment arrangement means an arrangement approved under section 47;
 tax record means a record required to be kept under a taxation Act or under a special tax return arrangement;
 vehicle includes a train, vessel or aircraft.
-[Glossary amended by No. 66 of 2003 s. 95(5) and 108(3); No. 12 of 2004 s. 12; No. 55 of 2004 s. 1183; No. 60 of 2006 s. 184; No. 12 of 2008 s. 51.]
+[Glossary amended by No. 66 of 2003 s. 95(5) and 108(3); No. 12 of 2004 s. 12; No. 55 of 2004 s. 1183; No. 60 of 2006 s. 184; No. 12 of 2008 s. 51; No. 31 of 2008 s. 31.]
