@@ -17,3 +17,4 @@ Reprint 2: The Lotteries Commission (Saturday Lotto) Rules 1996 as at 4 Aug 2006
 Lotteries Commission (Saturday Lotto) Amendment Rules (No. 2) 2006 | 29 Sep 2006 p. 4267-8 | 29 Sep 2006
 Lotteries Commission (Saturday Lotto) Amendment Rules 2007 | 26 Jun 2007 p. 3053-4 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Rules other than r. 1 and 2: 27 Jun 2007 (see r. 2(b))
 Lotteries Commission (Saturday Lotto) Amendment Rules 2008 | 6 Jun 2008 p. 2253-74 | r. 1 and 2: 6 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jun 2008 (see r. 2(b))
+Lotteries Commission (Saturday Lotto) Amendment Rules (No. 2) 2008 | 3 Oct 2008 p. 4497-9 | r. 1 and 2: 3 Oct 2008 (see r. 2(a)); Rules other than r. 1 and 2: 12 Oct 2008 (see r. 2(b))

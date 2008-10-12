@@ -1,6 +1,6 @@
 ## Schedule 3 — Summary of parameters within which Saturday lotto is conducted
 [Heading inserted in Gazette 6 Jun 2008 p. 2273.]
-Unit cost for a Saturday lotto draw | $0.50 (+ a 9% agent’s component)
+Unit cost for a Saturday lotto draw | $0.55 (+ a 9% agent’s component)
 Prize fund — % of subscriptions | 60.0%
 Prize pool — % of subscriptions | no less than 55.0%
 Prize reserve fund — % of subscriptions | balance of prize fund after prize pool (up to 5.0%)
@@ -21,4 +21,4 @@ Syndicate entries may be purchased (if available) | (see Part 2A)
 Systems entries per oral request | 1
 Prize payout period | 12 months
 Maximum aggregate entry cost | $100 000
-[Schedule 3 inserted in Gazette 6 Jun 2008 p. 2273-4.]
+[Schedule 3 inserted in Gazette 6 Jun 2008 p. 2273-4; amended in Gazette 3 Oct 2008 p. 4499.]
