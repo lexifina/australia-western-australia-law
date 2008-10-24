@@ -1,11 +1,11 @@
 ## Schedule
-## Acts prohibiting or regulating the supply of goods
+Acts prohibiting or regulating the supply of goods
 The following enactments are specified for the purpose of section 23C —
 Agricultural Products Act 1929.
 Agriculture and Related Resources Protection Act 1976.
 Clothes and Fabrics (Labelling and Sales) Act 1973.
 Construction Safety Act 1972.
-Dangerous Goods Safety Act 2004
+Dangerous Goods Safety Act 2004.
 Fertilizers Act 1977.
 Filled Milk Act 1959.
 Firearms Act 1973.
