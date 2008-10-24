@@ -18,11 +18,11 @@ Surname (or Company name) . . . . . . . . . . . . . Other names . . . . . . . . 
 Telephone No. . . . . . . . . . . . . . . .
 5.Locality of development (street number, street, suburb) . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-6.Description of land: Lot No(s). . . . . Location No. . . . . . .
+6.Description of land: Lot No(s). . . . . . . . . .Location No. . . . . . . . . . . . .
 Plan/Diagram No. . . . . . Certificate of Title Vol. . . . . . Folio . . . . . . . .
 Plan/Diagram No. . . . . . Certificate of Title Vol. . . . . . Folio . . . . . . . .
 7.Name of nearest road junction/intersection . . . . . . . . . . . . . . . . . . . . . .
-8.Description of proposed development . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8.Description of proposed development . . . . . . . . . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 9.Purpose for which land is currently being used . . . . . . . . . . . . . . . . . . .
 10.State nature of existing buildings on the land . . . . . . . . . . . . . . . . . . . .
