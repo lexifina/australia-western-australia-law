@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Consumer Affairs Act 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 24 October 2008 of the Consumer Affairs Act 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Consumer Protection Act 1971 | 68 of 1971 | 22 Dec 1971 | 11 Aug 1972 (see s. 2 and Gazette 11 Aug 1972 p. 3102)
@@ -29,22 +29,23 @@ Statutes (Repeals and Minor Amendments) Act 2000 s. 3(7) | 24 of 2000 | 4 Jul 20
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 24 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Acts Amendment and Repeal (Competition Policy) Act 2003 s. 3(2) | 70 of 2003 | 15 Dec 2003 | 21 Apr 2004 (see s. 2 and Gazette 20 Apr 2004 p. 1297)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 40(1)-(3) | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
-Reprint 4: The Consumer Affairs Act 1971 as at 9 Jul 2004 (includes amendments listed above)
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | 1 Mar 2008 (see s. 2 and Gazette 29 Feb 2008 p. 669)
+Reprint 4: The Consumer Affairs Act 1971 as at 9 Jul 2004 (includes amendments listed above except the Dangerous Goods Safety Act 2004)
 Workers’ Compensation Reform Act 2004 s. 175 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 24 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Veterinary Preparations and Animal Feeding Stuffs Amendment Act 2004 s. 4(2) | 76 of 2004 | 8 Dec 2004 | 5 Jan 2005
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
-Trade Measurement Administration Act 2006 s. 37 | 12 of 2006 | 11 May 2006 | 1 Jun 2007 (see s. 2 and Gazette 29 May 2007 p. 2485)
-Reprint 5: The Consumer Affairs Act 1971 as at 16 Jun 2006 (includes amendments listed above, except those in the Trade Measurement Administration Act 2006 and the Dangerous Goods Safety Act 2004 s. 70)
-Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div 7 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
+Trade Measurement Administration Act 2006 s. 37 | 12 of 2006 | 11 May 2006 | 1 Jun 2007 (see s. 2(2) and (3) and Gazette 29 May 2007 p. 2485)
+Reprint 5: The Consumer Affairs Act 1971 as at 16 Jun 2006 (includes amendments listed above, except those in the Dangerous Goods Safety Act 2004 and the Trade Measurement Administration Act 2006)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 7 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 3 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 6: The Consumer Affairs Act 1971 as at 24 Oct 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Legal Profession Act 2008 s. 651 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Legal Practitioners Amendment (Disciplinary and Miscellaneous Provisions) Act 1992 Pt. 2 came into operation on 1 Feb 1993 (see s. 3(a) and Gazette 26 Jan 1993 p. 823).
 Repealed by the Acts Amendment and Repeal (Fair Trading) Act 1988.
@@ -58,7 +59,6 @@ The Statutes (Repeals and Minor Amendments) Act 1997 s. 39(9) reads as follows:
 (9) The person appointed and holding office under section 15(1) as the Commissioner for Consumer Affairs immediately before the commencement of this section continues to hold office after that commencement as the Commissioner for Fair Trading.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-Footnote no longer applicable.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
 Division 23 — Transitional provisions
@@ -103,7 +103,7 @@ commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 had not come into operation. They read as follows:
 “
 23.Consumer Affairs Act 1971 amended
 (1) The amendment in this section is to the Consumer Affairs Act 1971.
@@ -128,7 +128,7 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 (2) The Schedule is amended by inserting in the appropriate alphabetical position —
 “ Biosecurity and Agriculture Management Act 2007. ”.
 ”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 651 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 651 had not come into operation. It reads as follows:
 “
 651.Consumer Affairs Act 1971 amended
 (1) The amendments in this section are to the Consumer Affairs Act 1971.
@@ -137,3 +137,23 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 (2b) The definition of “services” shall be taken not to include legal services as defined in the Legal Profession Act 2008.
 ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+Commissioner4(1)
+Committee4(1)
+component part23B
+consumer4(1)
+consumer affairs authority25A(2)
+dangerous23B
+Department4(1)
+documents4(1)
+executive officer15(3)
+goods4(1)
+information24(3)
+liability25(3)
+published25A(2)
+publishes25A(2)
+section4(1)
+services4(1)
+supply23B
