@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 October 2008 of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Navigable Waters Regulations | 2 Apr 1958 p. 622-32 | 1 May 1958 (see r. 1)
@@ -118,7 +118,8 @@ Navigable Waters Amendment Regulations (No. 2) 2007 | 30 Nov 2007 p. 5938 | r. 1
 Navigable Waters Amendment Regulations (No. 4) 2008 | 24 Jun 2008 p. 2894-5 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 3) 2008 | 1 Jul 2008 p. 3154 | r. 1 and 2: 1 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2008 (see r. 2(b))
 Reprint 13: The Navigable Waters Regulations 1958 as at 3 Oct 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Navigable Waters Amendment Regulations (No. 5) 2008 | 24 Oct 2008 p. 4669-70 | r. 1 and 2: 24 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Oct 2008 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Navigable Waters Amendment Regulations (No. 2) 2008 r. 3 and 4 | 24 Jun 2008 p. 2891-2 | 1 Feb 2009 (see r. 2(b))
@@ -127,7 +128,7 @@ Repealed by the Dangerous Goods Safety Act 2004.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
-On the date as at which this reprint was prepared, the Navigable Waters Amendment Regulations (No. 2) 2008 r. 3 and 4 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Navigable Waters Amendment Regulations (No. 2) 2008 r. 3 and 4 had not come into operation. They read as follows:
 “
 3.The regulations amended
 The amendments in these regulations are to the Navigable Waters Regulations 1958.
