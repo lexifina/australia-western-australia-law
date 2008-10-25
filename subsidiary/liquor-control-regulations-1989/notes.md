@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 July 2008 of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Liquor Licensing Regulations 1989 | 27 Jan 1989 p. 209-61 | 1 Feb 1989 (see r. 2 and Gazette 27 Jan 1989 p. 263)
@@ -63,6 +63,7 @@ Liquor Control Amendment Regulations (No. 3) 2007 | 9 Oct 2007 p. 5352-4 | r. 1 
 Liquor Control Amendment Regulations (No. 2) 2008 | 22 Apr 2008 p. 1545 | r. 1 and 2: 22 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Apr 2008 (see r. 2(b))
 Liquor Licensing Amendment Regulations 2008 | 2 May 2008 p. 1703-4 | r. 1 and 2: 2 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 3 May 2008 (see r. 2(b))
 Reprint 7: The Liquor Control Regulations 1989 as at 4 Jul 2008 (includes amendments listed above)
+Liquor Control Amendment Regulations (No. 3) 2008 | 24 Oct 2008 p. 4682-5 | r. 1 and 2: 24 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Oct 2008 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Commenced 7 May 2007.
 Now known as the Liquor Control Regulations 1989; citation changed (see note under r. 1).
@@ -117,4 +118,3 @@ wholesaler3A(1)
 wine produced by a producer21A(3)
 workers9A(3)
 works canteen9A(3)
-By Authority: JOHN A. STRIJK, Government Printer
