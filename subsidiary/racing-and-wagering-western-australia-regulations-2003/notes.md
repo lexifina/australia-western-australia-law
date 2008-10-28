@@ -13,6 +13,10 @@ Racing and Wagering Western Australia Amendment Regulations (No. 3) 2006 | 14 No
 Racing and Wagering Western Australia Amendment Regulations 2007 | 18 Sep 2007 p. 4715-16 | r. 1 and 2: 18 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2007 (see r. 2(b))
 Racing and Wagering Western Australia Amendment Regulations (No. 3) 2007 | 9 Oct 2007 p. 5357 | r. 1 and 2: 9 Oct 2007 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jan 2008 (see r. 2(b))
 Racing and Wagering Western Australia Amendment Regulations (No. 2) 2007 | 7 Dec 2007 p. 5985-6 | r. 1 and 2: 7 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2007 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Racing and Wagering Western Australia Amendment Regulations 2008 r. 4 | 28 Oct 2008 p. 4738 | 1 Jan 2009 (see r. 2(b))
 The Racing and Wagering Western Australia Amendment Regulations (No. 2) 2004 r. 5 reads as follows:
 “
 5.Transitional provision
@@ -24,4 +28,13 @@ old Rules of Harness Racing has the meaning given to that term in section 4 of t
 old Rules of Racing has the meaning given to that term in section 4 of the Racing and Gambling Legislation Amendment and Repeal Act 2003;
 old warning off notice means a notice having the same or similar effect as a notice that could be made by RWWA in accordance with regulation 72(1) of the Racing and Wagering Western Australia Regulations 2003 (as inserted by regulation 4 of these regulations);
 RWWA has the meaning given to that term in section 3(1) of the Racing and Wagering Western Australia Act 2003.
+”.
+On the date as at which this compilation was prepared, the Racing and Wagering Western Australia Amendment Regulations 2008 r. 4 had not come into operation. It reads as follows:
+“
+4.Schedule 1 amended
+Schedule 1 is amended as follows:
+(a) in item 1 by deleting “365” and inserting instead —
+“ 380 ”;
+(b) in item 2 by deleting “100” and inserting instead —
+“ 105 ”.
 ”.
