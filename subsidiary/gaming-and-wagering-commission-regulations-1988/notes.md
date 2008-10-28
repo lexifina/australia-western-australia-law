@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gaming and Wagering Commission Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Gaming and Wagering Commission Regulations 1988 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Gaming Commission Regulations 1988 | 29 Apr 1988 p. 1295-304 | 2 May 1988 (see r. 2)
@@ -53,11 +53,82 @@ Gaming and Wagering Commission Amendment Regulations (No. 2) 2006 | 14 Nov 2006 
 Gaming and Wagering Commission Amendment Regulations 2007 | 9 Oct 2007 p. 5354-7 | r. 1 and 2: 9 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2008 (see r. 2(b))
 Reprint 4: The Gaming and Wagering Commission Regulations 1988 as at 11 Apr 2008 (includes amendments listed above)
 Gaming and Wagering Commission Amendment Regulations (No. 2) 2008 | 10 Jun 2008 p. 2495-6 | r. 1 and 2: 10 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jun 2008 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Gaming and Wagering Commission Amendment Regulations (No. 3) 2008 r. 4 | 28 Oct 2008 p. 4735-7 | 1 Jan 2009 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Gaming Commission Act 1987 the short title of which was changed to the Gaming and Wagering Commission Act 1987 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 122. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now known as the Gaming and Wagering Commission Regulations 1988; citation changed (see note under r. 1).
 The commencement date of 1 Oct 2001 that was specified was before the date of gazettal.
 The Gaming and Wagering Commission Amendment Regulations 2008 published in the Gazette on 29 Apr 2008 p. 1591-3 have been repealed in Gazette 10 Jun 2008 p. 2496 due to an error in the citation of the principal regulations.
+On the date as at which this compilation was prepared, the Gaming and Wagering Commission Amendment Regulations (No. 3) 2008 r. 4 had not come into operation. It reads as follows:
+“
+4.Schedule 1 replaced
+Schedule 1 is repealed and the following Schedule is inserted instead —
+“
+Schedule 1 — Prescribed fees
+[r. 4]
+Column 1 Provision | Column 2 Description | Column 3 Amount $
+50(3) | Fee for —
+ | (a)search of the register for an identified entry ......................................................... | 7
+ | (b)copy of extract from register .................... | 13
+47 | Fee on application for a function permit for —
+ | (a)an item of gaming equipment (r. 18B(2)(a)) ............................................ | 30
+ | (b)a class of gaming equipment (r. 18B(2)(b)) ............................................ | 55
+47 | Fee on application for a permit of a continuing nature for —
+ | (a)a video lottery terminal (r. 18AA(7)) | 30
+ | (b)an item of gaming equipment (r. 18B(2)(a)) ............................................ | 55
+ | (c)a class of gaming equipment (r. 18B(2)(b)) ............................................ | 100
+47, 53 | Fee on application for a function permit for —
+95 | (a)bingo ......................................................... | 20
+96 | (b)multiple bingo, for each premises ............ | 20
+97 | (c)simultaneous bingo, for each premises ................................................... | 20
+104 | (d)a standard lottery —
+ | (i)where the total retail value of prizes or prize money does not exceed $5 000 ....... | 30
+ | (ii)otherwise .................................................. | 65
+104 | (da)a standard lottery of a kind generally known or described as a Calcutta ............ | 65
+104 | (e)a continuing lottery .................................... | 15
+ | (f)gaming (per day authorised) —
+ | (i)1-5 tables .................................................. | 180
+ | (ii)6-10 tables ................................................ | 305
+ | (iii)over 10 tables ........................................... | 375
+ | (g)two-up —
+80 | (i)by a country race club .............................. | 125
+81 | (ii)otherwise .................................................. | 185
+47, 53 | Fee on application for a permit of a continuing nature for —
+95 | (a)bingo ......................................................... | 30
+96 | (b)multiple bingo, for each premises ............ | 30
+97 | (c)simultaneous bingo, for each premises ........................................................... | 30
+104 | (d)a standard lottery, where the total retail value of prizes or prize money is —
+ | (i)not more than $5 000 ............................... | 40
+ | (ii)more than $5 000 but not more than $50 000 ................................................. | 95
+ | (iii)more than $50 000 but not more than $100 000 .......................................... | 185
+ | (iv)more than $100 000 but not more than $200 000 .................................................. | 370
+ | (v)more than $200 000 .................................. | 620
+104 | (da)a standard lottery of a kind generally known or described as a Calcutta ............ | 130
+104 | (e)a continuing lottery .................................. | 25
+ | (f)gaming (per day authorised) —
+ | (i)1-5 tables .................................................. | 150
+ | (ii)6-10 tables ................................................ | 275
+ | (iii)over 10 tables ........................................... | 340
+ | (g)two-up —
+80 | (i)by a country race club, per day authorised | 100
+81 | (ii)otherwise, per day authorised .. | 150
+53, 55 | Fee on application for approval of premises —
+ | (a)for a specific function .............................. | 20
+ | (b)for functions from time to time ................ | 65
+ | (c)for permit of a continuing nature ............. | 65
+92 | Fee for the issue of a certificate relating to —
+96(2)(c) | (a)multiple bingo .......................................... | 130
+97(2)(c) | (b)simultaneous bingo ................................. | 130
+98(c) | (c)assisting in the conduct of bingo, for hire or reward ........................................................ | 130
+92 | Fee for the issue of an approved operator’s certificate .............................................................. | 205
+88(5) | Fee for the issue of a certificate ........................... | 270
+104B | Fee on application to be a licensed supplier ......... | 250
+88(2)(b), (d) | Fee for approval of a person to operate, or remove money from, gaming equipment ............. | 20
+”.
+”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
