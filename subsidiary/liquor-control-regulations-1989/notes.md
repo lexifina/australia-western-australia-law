@@ -64,6 +64,10 @@ Liquor Control Amendment Regulations (No. 2) 2008 | 22 Apr 2008 p. 1545 | r. 1 a
 Liquor Licensing Amendment Regulations 2008 | 2 May 2008 p. 1703-4 | r. 1 and 2: 2 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 3 May 2008 (see r. 2(b))
 Reprint 7: The Liquor Control Regulations 1989 as at 4 Jul 2008 (includes amendments listed above)
 Liquor Control Amendment Regulations (No. 3) 2008 | 24 Oct 2008 p. 4682-5 | r. 1 and 2: 24 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Oct 2008 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Liquor Control Amendment Regulations (No. 4) 2008 r. 4 and 5 | 28 Oct 2008 p. 4729-31 | 1 Jan 2009 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Commenced 7 May 2007.
 Now known as the Liquor Control Regulations 1989; citation changed (see note under r. 1).
@@ -71,6 +75,58 @@ Disallowed on 26 Apr 1992, see Gazette 1 May 1992 p. 1844.
 The Liquor Licensing Amendment Regulations (No. 2) 2001 r. 2(3) and (4) are transitional provisions that are of no further effect.
 The amendments in the Liquor Licensing Amendment Regulations 2004 r. 3 and 5 are not included because of an error in the reference to the provisions to be amended.
 The Liquor Control Amendment Regulations (No. 2) 2007 r. 12 could not have effect as the reference to the Liquor Licensing Act 1988 was changed to the Liquor Control Act 1988 under the Reprints Act 1984 s. 7(3)(gb) (see note above).
+On the date as at which this compilation was prepared, the Liquor Control Amendment Regulations (No. 4) 2008 r. 4 and 5 had not come into operation. They read as follows:
+“
+4.Regulation 26 amended
+Regulation 26(1aa) is amended as follows:
+(a) in paragraph (a) by deleting “$100.00;” and inserting instead —
+“ $105.00; ”;
+(b) in paragraph (b) by deleting “$200.00.” and inserting instead —
+“ $205.00. ”.
+5.Schedule 3 replaced
+Schedule 3 is repealed and the following Schedule is inserted instead —
+“
+Schedule 3 — Fees
+[r. 26(1) and (2A)]
+ItemDescription | Fee $ | Electronic lodgment fee $
+1.Application for the grant or removal of a hotel licence, nightclub licence, casino liquor licence, special facility licence or liquor store licence .......... | 2 200.00 | 2 000.00
+2.Application for the grant or removal of a club licence, restaurant licence, producer’s licence or wholesaler’s licence ................................................. | 500.00 | 460.00
+3.Application for the transfer of a licence ................... | 500.00
+4.Licence fee for all licences other than a wholesaler’s licence ................................................. | 155.00
+5.Licence fee for a wholesaler’s licence ..................... | 330.00
+6.Application for an occasional licence where the anticipated number of persons attending* is — (a)up to 250 ...................................................... (b)between 251 and 500 ................................... (c)between 501 and 1 000 ................................ (d)between 1 001 and 5 000 ............................. (e)between 5 001 and 10 000 ........................... (f)over 10 000 .................................................. [*See regulation 26(4) as to the anticipated number of persons attending] | 35.00 80.00 145.00 610.00 1 250.00 2 500.00
+7.Application for extended trading permit for a period of over 21 days — (a)issued for a purpose referred to in section 60(4)(ca) .......................................... (b)issued for a purpose referred to in section 60(4)(h) ........................................... (c)issued for any other purpose ........................ | 370.00 245.00 670.00 | 340.00 230.00 620.00
+8.Application for extended trading permit for a period of 21 days or less (for each day, up to a maximum of $500) .................................................................... | 65.00
+9.Application for approval of manager (other than under club restricted licence), after licence is granted ...................................................................... | 80.00
+10.Application for approval of manager under club restricted licence, after licence is granted ................ | 25.00
+11.Application for approval of person in position of authority, after licence is granted ............................. | 90.00
+12.Application for approval for alteration or redefinition of licensed premises ............................. | 310.00 | 285.00
+13.Application for a protection order under section 87(1) ............................................................ | 80.00
+14.Application for duplicate licence ............................. | 30.00
+15.Application for approval of change of name of licensed premises ................................................. | 65.00
+16.Application to add, vary or cancel condition of licence or permit (other than club restricted licence) ..................................................... | 80.00 | 70.00
+17.Application to add, vary or cancel condition of club restricted licence ............................................. | 30.00
+18.On the issue of a list of licensed premises or a list of owners of licensed premises ................................ | 80.00
+19.On the issue of a list of licensed premises on computer disk ........................................................... | 50.00
+20.Address labels for licensed premises ....................... | 115.00
+21.Application for Proof of Age Card (r. 18B) ............. | 25.00
+22.Supply of approved heading for advertising an application ................................................................ | 25.00
+23.Copy of plan — per sheet ......................................... | 25.00
+24.Certified copy of plan defining licensed premises ... | 35.00
+25.Issue of a summons to a witness .............................. | 20.00
+26.Copy of a licence or a permit, or a decision of the Commission (or the former Liquor Licensing Court) or the Director ............................................... | 25.00
+27.For the certification of a copy of a licence or permit or a decision of the Commission (or the former Liquor Licensing Court) or the Director — an additional fee of .................................................. | 25.00
+28.For a search of records of licences — per licence ... | 35.00
+29.For a notice of application for approval of arrangement or agreement (s. 68(1)(b)(i)) ............... | 70.00
+30.For a copy of documentation, other than that already prescribed, per page ..................................... | 4.50
+31.For a search of postcodes —
+(a)1 to 10 postcodes ......................................... | 35.00
+(b)more than 10 postcodes ............................... | 70.00
+32.For a full search of the licence record ...................... | 45.00
+33.Application under section 62(6) to vary any plans or specifications the subject of a condition .............. | 230.00 | 220.00
+34.Application under section 126A for approval of entertainment for juveniles on licensed premises .... | 55.00
+”.
+”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
