@@ -10,13 +10,13 @@
 6. | Cancellation of pilot ....................................................... | 50% of the charge set out in item 1, 2, 3 or 4, as the case requires.
 [Division 1 inserted in Gazette 2 Oct 2007 p. 4972.]
 ## Division 2 — Port of Bunbury
-[Heading inserted in Gazette 22 Jun 2007 p. 2852.]
-1. | Pilotage of a vessel into and out of the port ................... | $3 338.50
-2. | Pilotage of a vessel from a place in the port to another place in the port .............................................................. | $1 669.25
-3. | Detention of pilot, for each hour or part of an hour ....... | $834.63
-4. | Cancellation of pilot ....................................................... | $834.63
-5. | Cancellation of pilot boat crew only .............................. | $834.63
-[Division 2 inserted in Gazette 22 Jun 2007 p. 2852.]
+[Heading inserted in Gazette 31 Oct 2008 p. 4775.]
+1. | Pilotage of a vessel into and out of the port .................. | $3 979.80
+2. | Pilotage of a vessel from a place in the port to another place in the port ............................................................. | $1 989.90
+3. | Detention of pilot, for each hour or part of an hour ...... | $994.95
+4. | Cancellation of pilot ...................................................... | $994.95
+5. | Cancellation of pilot boat crew only ............................. | $994.95
+[Division 2 inserted in Gazette 31 Oct 2008 p. 4775.]
 ## Division 3 — Port of Esperance
 1. | Pilotage of a vessel of not more than 5 000 gross registered tonnes into and out of the port ...................... | $2 310.00
 2. | Pilotage of a vessel of more than 5 000 but not more than 10 000 gross registered tonnes into and out of the port ................................................................................. | $3 190.00
