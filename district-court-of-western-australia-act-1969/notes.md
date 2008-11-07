@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the District Court of Western Australia Act 1969 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 November 2008 of the District Court of Western Australia Act 1969 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 District Court of Western Australia Act 1969 | 84 of 1969 | 17 Nov 1969 | 1 Apr 1970 (see s. 2 and Gazette 26 Mar 1970 p. 903)
@@ -49,10 +49,11 @@ Courts Legislation Amendment and Repeal Act 2004 Pt. 10 | 59 of 2004 (as amended
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 7 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 7: The District Court of Western Australia Act 1969 as at 19 Aug 2005 (includes amendments listed above)
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 5 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 6 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 6 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Criminal Law Amendment (Homicide) Act 2008 s. 31 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 8: The District Court of Western Australia Act 1969 as at 7 Nov 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
@@ -124,7 +125,12 @@ Division 2 — General
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State) the rights of that person existing before the day of publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of publication.
 ”.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+The Limitation Legislation Amendment and Repeal Act 2005 s. 10(2) reads as follows:
+“
+10.Section 37 amended and a savings provision
+(2) The District Court of Western Australia Act 1969 section 37, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
+”.
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 “
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
@@ -134,12 +140,7 @@ Act | Provision
 District Court of Western Australia Act 1969 | s. 15
 ........................................................... | .........
 ”.
-The Limitation Legislation Amendment and Repeal Act 2005 s. 10(2) reads as follows:
-“
-10.Section 37 amended and a savings provision
-(2) The District Court of Western Australia Act 1969 section 37, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
-”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 660 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 660 had not come into operation. It reads as follows:
 “
 660.District Court of Western Australia Act 1969 amended
 (1) The amendments in this section are to the District Court of Western Australia Act 1969.
@@ -178,3 +179,25 @@ costs determination (as defined in the Legal Profession Act 2008 section 252)
 costs determination (as defined in the Legal Profession Act 2008 section 252)
 ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+action6(1)
+auxiliary District Court judge6(1)
+cause6(1)
+defendant6(1)
+District Court judge6(1)
+judgment6(1)
+jurisdiction6(1)
+jurisdictional limit6(1)
+legal experience6(2)
+legal practitioner6(1)
+matter6(1)
+party6(1)
+plaintiff6(1)
+practice and procedure6(1)
+registrar6(1)
+section6(1)
+sheriff6(1)
+the Chief Judge6(1)
+the Court6(1)
