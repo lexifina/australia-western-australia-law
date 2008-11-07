@@ -1,24 +1,24 @@
 Notes
-This is a compilation of the Supreme Court Act 1935 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 November 2008 of the Supreme Court Act 1935 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Supreme Court Act 1935 | 36 of 1935 | 3 Mar 1936 | 1 May 1936 (see s. 1 and Gazette 9 Apr 1936 p. 527). Reserved for Royal Assent 7 Jan 1936. Assented: 3 Mar 1936 (see Gazette 3 Apr 1936 p. 484)
-Judges’ Retirement Act 1937 | 8 of 1937 | 8 Dec 1937 | 8 Dec 1937
-Supreme Court Act Amendment Act 1945 | 10 of 1945 | 13 Dec 1945 | 13 Dec 1945
-Supreme Court Act Amendment Act 1945 | 35 of 1945 | 27 Mar 1946 | 17 May 1946 (see Gazette 17 May 1946 p. 491). Reserved for Royal Assent 30 Jan 1946. Assented: 27 Mar 1946 (see Gazette 17 May 1946 p. 491)
-Supreme Court Act Amendment Act 1946 | 50 of 1946 | 24 Jan 1947 | 24 Jan 1947
-Supreme Court Act Amendment Act 1947 | 9 of 1947 | 10 Oct 1947 | 10 Oct 1947
-Matrimonial Causes and Personal Status Code 1948 s. 3(1) | 73 of 1948 | 4 Mar 1949 | 1 Jan 1950 (see s. 1 and Gazette 19 Oct 1949 p. 2499)
-Acts Amendment (Increase in number of Judges of the Supreme Court) Act 1949 s. 2 | 17 of 1949 (as amended by No. 35 of 1950 s. 4) | 24 Sep 1949 | 24 Sep 1949 (see s. 1 and No. 35 of 1950 s. 4)
-Judges’ Salaries and Pensions Act 1950 s. 4 | 35 of 1950 | 16 Dec 1950 | 16 Dec 1950
-Supreme Court Act Amendment Act 1954 | 21 of 1954 | 7 Oct 1954 | 7 Oct 1954
-Limitation Act 1935 s. 48A(1) | 35 of 1935 (as amended by No. 73 of 1954 s. 8) | 14 Jan 1955 | Relevant amendment (see s. 48A and Second Sch.) took effect on 1 Mar 1955 (see No. 73 of 1954 s. 2 and Gazette 18 Feb 1955 p. 343)
-Supreme Court Act Amendment Act 1957 | 63 of 1957 | 6 Dec 1957 | 6 Dec 1957
-Juries Act 1957 s. 2 | 50 of 1957 | 9 Dec 1957 | 1 Jul 1960 (see s. 1(2) and Gazette 6 Mar 1959 p. 539)
+Supreme Court Act 1935 | 36 of 1935 (26 Geo. V No. 36) | 3 Mar 1936 | 1 May 1936 (see s. 1 and Gazette 9 Apr 1936 p. 527). Reserved for Royal Assent 7 Jan 1936. Assented: 3 Mar 1936 (see Gazette 3 Apr 1936 p. 484)
+Judges’ Retirement Act 1937 | 8 of 1937 (1 Geo. VI No. 8) | 8 Dec 1937 | 8 Dec 1937
+Supreme Court Act Amendment Act 1945 | 10 of 1945 (9 and 10 Geo. VI No. 10) | 13 Dec 1945 | 13 Dec 1945
+Supreme Court Act Amendment Act 1945 | 35 of 1945 (9 and 10 Geo. VI No. 35) | 27 Mar 1946 | 17 May 1946 (see Gazette 17 May 1946 p. 491). Reserved for Royal Assent 30 Jan 1946. Assented: 27 Mar 1946 (see Gazette 17 May 1946 p. 491)
+Supreme Court Act Amendment Act 1946 | 50 of 1946 (10 and 11 Geo. VI No. 50) | 24 Jan 1947 | 24 Jan 1947
+Supreme Court Act Amendment Act 1947 | 9 of 1947 (11 Geo. VI No. 9) | 10 Oct 1947 | 10 Oct 1947
+Matrimonial Causes and Personal Status Code 1948 s. 3(1) | 73 of 1948 (12 and 13 Geo. VI No. 73) | 4 Mar 1949 | 1 Jan 1950 (see s. 1 and Gazette 19 Oct 1949 p. 2499)
+Acts Amendment (Increase in number of Judges of the Supreme Court) Act 1949 s. 2 | 17 of 1949 (13 Geo. VI No. 103) (as amended by No. 35 of 1950 s. 4) | 24 Sep 1949 | 24 Sep 1949 (see s. 1 and No. 35 of 1950 s. 4)
+Judges’ Salaries and Pensions Act 1950 s. 4 | 35 of 1950 (14 and 15 Geo. VI No. 35) | 16 Dec 1950 | 16 Dec 1950
+Supreme Court Act Amendment Act 1954 | 21 of 1954 (3 Eliz. II No. 21) | 7 Oct 1954 | 7 Oct 1954
+Limitation Act 1935 s. 48A(1) | 35 of 1935 (26 Geo. V No. 35) (as amended by No. 73 of 1954 s. 8) | 14 Jan 1955 | Relevant amendment (see s. 48A and Second Sch.) took effect on 1 Mar 1955 (see No. 73 of 1954 s. 2 and Gazette 18 Feb 1955 p. 343)
+Supreme Court Act Amendment Act 1957 | 63 of 1957 (6 Eliz. II No. 63) | 6 Dec 1957 | 6 Dec 1957
+Juries Act 1957 s. 2 | 50 of 1957 (6 Eliz. II No. 50) | 9 Dec 1957 | 1 Jul 1960 (see s. 1(2) and Gazette 6 Mar 1959 p. 539)
 Reprint of the Supreme Court Act 1935 approved 30 Sep 1958 in Vol. 13 of Reprinted Acts (includes amendments listed above)
-Supreme Court Act Amendment Act 1960 | 5 of 1960 | 6 Oct 1960 | 6 Oct 1960
-Foreign Judgments (Reciprocal Enforcement) Act 1963 s. 4 | 12 of 1963 | 5 Nov 1963 | 1 Sep 1969 (see s. 2 and Gazette 22 Aug 1969 p. 2379)
-Supreme Court Act Amendment Act 1964 | 39 of 1964 | 12 Nov 1964 | 12 Nov 1964
+Supreme Court Act Amendment Act 1960 | 5 of 1960 (9 Eliz. II No. 5) | 6 Oct 1960 | 6 Oct 1960
+Foreign Judgments (Reciprocal Enforcement) Act 1963 s. 4 | 12 of 1963 (12 Eliz. II No. 12) | 5 Nov 1963 | 1 Sep 1969 (see s. 2 and Gazette 22 Aug 1969 p. 2379)
+Supreme Court Act Amendment Act 1964 | 39 of 1964 (13 Eliz. II No. 39) | 12 Nov 1964 | 12 Nov 1964
 Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Property Law Act 1969 s. 4 | 32 of 1969 | 19 May 1969 | 1 Aug 1969 (see s. 2 and Gazette 27 Jun 1969 p. 1873)
 Supreme Court Act Amendment Act 1971 | 39 of 1971 | 10 Dec 1971 | 10 Dec 1971
@@ -39,7 +39,7 @@ Supreme Court Amendment Act 1984 | 9 of 1984 | 18 May 1984 | 18 May 1984
 Acts Amendment (Insolvent Estates) Act 1984 Pt. IV | 72 of 1984 | 26 Nov 1984 | 24 Dec 1984
 Acts Amendment and Repeal (Credit) Act 1984 Pt. VIII | 102 of 1984 | 19 Dec 1984 | 31 Mar 1985 (see s. 2 and Gazette 8 Mar 1985 p. 867)
 Commercial Arbitration Act 1985 s. 3(1) | 109 of 1985 | 7 Jan 1986 | 1 Apr 1986 (see s. 2 and Gazette 28 Feb 1986 p. 605)
-Supreme Court Amendment Act 1986 | 22 of 1986 | 25 Jul 1986 | 1 Sep 1986 (see s. 2 and Gazette 29 Aug 1986 p. 3161)
+Supreme Court Amendment Act 1986 | 22 of 1986 | 25 Jul 1986 | s. 1 and 2: 25 Jul 1986; Act other than s. 1 and 2: 1 Sep 1986 (see s. 2 and Gazette 29 Aug 1986 p. 3161)
 Reprint of the Supreme Court Act 1935 as at 25 Jul 1986 (includes amendments listed above except those in the Supreme Court Amendment Act 1986)
 Acts Amendment (Actions for Damages) Act 1986 Pt. III | 50 of 1986 | 4 Aug 1986 | 18 Aug 1986 (see s. 2 and Gazette 15 Aug 1986 p. 2925)
 Acts Amendment (Legal Practitioners, Costs and Taxation) Act 1987 Pt. III | 65 of 1987 | 1 Dec 1987 | 12 Feb 1988 (see s. 2(2) and Gazette 12 Feb 1988 p. 397)
@@ -52,7 +52,7 @@ Supreme Court Amendment Act 1993 | 3 of 1993 | 18 Aug 1993 | 18 Aug 1993 (see s.
 Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
 Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
 Reprint of the Supreme Court Act 1935 as at 23 Nov 1995 (includes amendments listed above)
-Supreme Court Amendment Act 1996 | 3 of 1996 | 24 May 1996 | 31 Aug 1996 (see s. 2 and Gazette 30 Aug 1996 p. 4315)
+Supreme Court Amendment Act 1996 | 3 of 1996 | 24 May 1996 | s. 1 and 2: 24 May 1996; Act other than s. 1 and 2: 31 Aug 1996 (see s. 2 and Gazette 30 Aug 1996 p. 4315)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Consumer Credit (Western Australia) Act 1996 s. 13 | 30 of 1996 | 10 Sep 1996 | 1 Nov 1996 (see s. 2)
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
@@ -74,16 +74,17 @@ Acts Amendment (Court of Appeal) Act 2004 Pt. 2 | 45 of 2004 (as amended by No. 
 Courts Legislation Amendment and Repeal Act 2004 Pt. 18 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(5); No. 5 of 2008 s. 24) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 14 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 7: The Supreme Court Act 1935 as at 19 Aug 2005 (includes amendments listed above)
-Limitation Legislation Amendment and Repeal Act 2005 Pt. 8 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 9 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
+Limitation Legislation Amendment and Repeal Act 2005 Pt. 8 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2(1))
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 9 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
 Acts Amendment (Justice) Act 2008 Pt. 23 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 8: The Supreme Court Act 1935 as at 7 Nov 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Bail Amendment Act 2008 s. 46 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2)
+Bail Amendment Act 2008 s. 46 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(b))
 Legal Profession Act 2008 s. 709 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Acts Amendment (Court of Appeal) Act 2004 s. 5(2) and Pt. 5 read as follows:
@@ -108,7 +109,6 @@ The Superannuation and Family Benefits Act 1938 was repealed by the State Supera
 The Companies Act 1961 was superseded by the Companies (Western Australia) Code, see section 18 of the Companies (Application of Laws) Act 1981. The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
 Supreme Court Ordinance 1861 commenced on 18 June 1861. It was repealed by this Act, s. 3.
 Supreme Court Act 1880 commenced on 1 August 1881. It was repealed by this Act, s. 3.
-Repealed by the Trustees Act 1962 s. 4(1). But see Limitation Act 1935 s. 47.
 The Acts Amendment (Insolvent Estates) Act 1984 s. 11 contains a transitional provision about persons who died before that Act commenced
 The Acts Amendment (Actions for Damages) Act 1986 s. 6(2) contains a transitional provision about causes of action in which a court had given judgment before that section commenced.
 Repealed by the Statute Law Revision Act 1967.
@@ -122,6 +122,8 @@ To the extent that, before the coming into operation of section 22, provisions o
 (a) those provisions are to be regarded as having been validly and lawfully made and published under and within the authority of the Supreme Court Act 1935 and to have always had effect according to their terms; and
 (b) anything done under or purportedly done under those provisions is to be regarded as having been validly done and, to have always been, effectual in all respects.
 ”.
+The Acts Amendment (Court of Appeal) Act 2004 s. 14 repealed by the Criminal Law and Evidence Amendment Act 2008 s. 75(2).
+The Courts Legislation Amendment and Repeal Act 2004 s. 128 (to amend s. 20) was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(5).
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
 Part 22 — Transitional provisions
@@ -188,8 +190,12 @@ Division 2 — General
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State) the rights of that person existing before the day of publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of publication.
 ”.
-The Courts Legislation Amendment and Repeal Act 2004 s. 128 (to amend s. 20) was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(5).
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 had not come into operation. It reads as follows:
+The Limitation Legislation Amendment and Repeal Act 2005 s. 18(2) reads as follows:
+“
+18.Section 29 repealed and a savings provision
+(2) The Supreme Court Act 1935 section 29, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
+”.
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 had not come into operation. It reads as follows:
 “
 68.Supreme Court Act 1935 amended
 Section 11B of the Supreme Court Act 1935 is amended as follows:
@@ -199,13 +205,18 @@ Section 11B of the Supreme Court Act 1935 is amended as follows:
 ”;
 (b) by repealing subsection (3a).
 ”.
-The Acts Amendment (Court of Appeal) Act 2004 s. 14 repealed by the Criminal Law and Evidence Amendment Act 2008 s. 75(2).
-The Limitation Legislation Amendment and Repeal Act 2005 s. 18(2) reads as follows:
+On the date as at which this reprint was prepared, the Bail Amendment Act 2008 s. 46 had not come into operation. It reads as follows:
 “
-18.Section 29 repealed and a savings provision
-(2) The Supreme Court Act 1935 section 29, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
+46.Supreme Court Act 1935 amended
+(1) The amendments in this section are to the Supreme Court Act 1935.
+(2) Section 58(1)(b) is amended by inserting before “appeals” —
+“ subject to subsection (1a) ”.
+(3) After section 58(1) the following subsection is inserted —
+“
+(1a) An appeal does not lie to the Court of Appeal under subsection (1)(b) against a bail decision as defined in the Bail Act 1982 section 15A(1).
 ”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 709 had not come into operation. It reads as follows:
+”.
+On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 709 had not come into operation. It reads as follows:
 “
 709.Supreme Court Act 1935 amended
 (1) The amendments in this section are to the Supreme Court Act 1935.
@@ -243,17 +254,48 @@ costs determination (as defined in the Legal Profession Act 2008 section 252).
 costs determination (as defined in the Legal Profession Act 2008 section 252).
 ”.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Bail Amendment Act 2008 s. 46 had not come into operation. It reads as follows:
-“
-46.Supreme Court Act 1935 amended
-(1) The amendments in this section are to the Supreme Court Act 1935*.
-[*Reprint 7 as at 19 August 2005.
-For subsequent amendments see Western Australian Legislation Information Tables for 2006, Table 1, and Act No. 77 of 2006.]
-(2) Section 58(1)(b) is amended by inserting before “appeals” —
-“ subject to subsection (1a) ”.
-(3) After section 58(1) the following subsection is inserted —
-“
-(1a) An appeal does not lie to the Court of Appeal under subsection (1)(b) against a bail decision as defined in the Bail Act 1982 section 15A(1).
-”.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+action4(1)
+cause4(1)
+Chief Justice4(1)
+circuit court48
+costs application71(5)
+Court4(1)
+Court of Appeal4(1)
+Court of Appeal Registrar4(1)
+defendant4(1)
+District Court46(9)
+freight26(4)
+inferior court4(1)
+issue of fact4(1)
+judge of appeal4(1)
+judgment4(1)
+jurisdiction4(1)
+legal experience4(2)
+legal practitioner4(1)
+lower court17(1)
+master4(1)
+matrimonial cause4(1)
+matter4(1)
+mediation under direction69
+mediator69
+officer of Court4(1)
+order4(1)
+owner4(1)
+party4(1)
+person4(1)
+personal injury32(2a)
+petitioner4(1)
+plaintiff4(1)
+pleading4(1)
+prescribed4(1)
+President4(1)
+Principal Registrar4(1)
+rate or tax12(2)
+registrar4(1), 46(9)
+rules of court4(1)
+statute4(1)
+suit4(1)
+vessel26(5)
