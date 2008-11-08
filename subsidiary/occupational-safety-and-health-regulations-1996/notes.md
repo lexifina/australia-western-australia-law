@@ -56,6 +56,7 @@ Occupational Safety and Health Amendment Regulations (No. 9) 2007 | 4 Jan 2008 p
 Reprint 6: The Occupational Safety and Health Regulations 1996 as at 22 Feb 2008 (includes amendments listed above)
 Occupational Safety and Health Amendment Regulations (No. 6) 2008 | 4 Apr 2008 p. 1314-15 | r. 1 and 2: 4 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Apr 2008 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 7) 2008 | 17 Jun 2008 p. 2573-5 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Occupational Safety and Health Amendment Regulations (No. 4) 2008 | 7 Nov 2008 p. 4822-5 | r. 1 and 2: 7 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Nov 2008 (see r. 2(b))
 Repealed by the Health (Smoking in Enclosed Public Places) Regulations 2003 which were repealed by the Tobacco Products Control Act 2006.
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
 The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
@@ -151,7 +152,7 @@ elevating work platform4.1
 emergency services5.1(1)
 employee3.135
 employer3.135
-enclosed workplace3.44A(1)
+enclosed workplace3.44A
 energy source4.37A(1)
 escalator4.1
 exhaust system1.3
@@ -270,6 +271,7 @@ retailer5.1(1)
 rigger4.54(1)
 rigging workSch. 6.3 cl. 4
 risk phrase5.1(1)
+roof3.44A
 safe work method statement3.137
 safety awareness training certificate3.135
 safety awareness training course3.135
@@ -285,7 +287,7 @@ Schedule 5.6 substance5.28
 self-contained breathing apparatus3.37
 self-erecting tower craneSch. 6.3 cl. 6
 slewing mobile craneSch. 6.3 cl. 6
-smoke3.44A(1)
+smoke3.44A
 spray painting3.99
 spray painting process3.99
 spur scaffold3.66, Sch. 6.3 cl. 2
@@ -299,7 +301,7 @@ the passenger4.44(7)
 the regulation 1.15 penalty1.3
 the regulation 1.16 penalty1.3
 tilt-up work3.88(1)
-tobacco product3.44A(1)
+tobacco product3.44A
 tower crane4.1, Sch. 6.3 cl. 6
 toxic atmosphere3.37, 3.40(1)
 toxic paint3.99
@@ -315,7 +317,7 @@ vehicle hoist4.1
 vehicle loading crane4.54(1), Sch. 6.3 cl. 6
 vehicle-mounted concrete placing boomSch. 6.3 cl. 6
 vocational education and training6.1(1)
-wall3.88(1)
+wall3.44A, 3.88(1)
 warehouse operator5.1(1)
 welding1.3, 3.94
 wet abrasive blasting1.3, 3.102
