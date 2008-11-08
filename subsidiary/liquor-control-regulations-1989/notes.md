@@ -64,6 +64,7 @@ Liquor Control Amendment Regulations (No. 2) 2008 | 22 Apr 2008 p. 1545 | r. 1 a
 Liquor Licensing Amendment Regulations 2008 | 2 May 2008 p. 1703-4 | r. 1 and 2: 2 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 3 May 2008 (see r. 2(b))
 Reprint 7: The Liquor Control Regulations 1989 as at 4 Jul 2008 (includes amendments listed above)
 Liquor Control Amendment Regulations (No. 3) 2008 | 24 Oct 2008 p. 4682-5 | r. 1 and 2: 24 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Oct 2008 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 5) 2008 | 7 Nov 2008 p. 4821-2 | r. 1 and 2: 7 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Nov 2008 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
