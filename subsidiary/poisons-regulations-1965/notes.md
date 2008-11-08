@@ -139,6 +139,7 @@ Reprint 8: The Poisons Regulations 1965 as at 5 May 2006 (includes amendments li
 Poisons Amendment Regulations (No. 2) 2006 | 15 Dec 2006 p. 5629-31 | 15 Dec 2006
 Poisons Amendment Regulations (No. 2) 2007 | 24 Jul 2007 p. 3663-5 | r. 1 and 2: 24 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2007 (see r. 2(b))
 Poisons Amendment Regulations (No. 4) 2007 | 2 Oct 2007 p. 4964-8 | r. 1 and 2: 2 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2007 (see r. 2(b))
+Poisons Amendment Regulations (No. 2) 2008 | 7 Nov 2008 p. 4805-19 | r. 1 and 2: 7 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Nov 2008 (see r. 2(b))
 Repealed by the Mental Health Act 1981 which was repealed by the Mental Health Act 1996.
 The Poisons Amendment Regulations (No. 3) 2001 r. 4(2) reads as follows:
 “
