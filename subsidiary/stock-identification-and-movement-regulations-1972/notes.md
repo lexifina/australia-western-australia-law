@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Stock (Identification and Movement) Regulations 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 November 2008 of the Stock (Identification and Movement) Regulations 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Stock (Brands and Movement) Act Regulations | 30 Jun 1972 p. 2205-12 | 30 Jun 1972
@@ -52,7 +52,18 @@ Reprint 3: The Stock (Identification and Movement) Regulations 1972 as at 7 Oct 
 Stock (Identification and Movement) Amendment Regulations (No. 2) 2006 | 16 Jun 2006 p. 2120-1 | 1 Jul 2006 (see. r. 2)
 Stock (Identification and Movement) Amendment Regulations 2006 | 19 Sep 2006 p. 3707-8 | 19 Sep 2006
 Stock (Identification and Movement) Amendment Regulations 2007 | 15 Jun 2007 p. 2761-2 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
-Stock (Identification and Movement) Amendment Regulations 2008 | 20 May 2008 p. 1941 | r. 1 and 2: 20 May 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Stock (Identification and Movement) Amendment Regulations 2008 | 20 May 2008 p. 1941 | r. 1 and 2: 20 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Reprint 4: The Stock (Identification and Movement) Regulations 1972 as at 14 Nov 2008 (includes amendments listed above)
 Now known as the Stock (Identification and Movement) Regulations 1972; citation changed (see note under r. 1).
 The commencement date of 1 Jul 1982 that was specified was before the date of gazettal.
 The commencement date of 1 Oct 1983 that was specified was before the date of gazettal.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+approved manufacturer4A(1)
+Breed Society mark7A(1)
+eartag4A(1)
+evidence20H(5)
+number plate20(1b)
+other document20C(3)
+property of origin4(6)
