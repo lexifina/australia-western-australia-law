@@ -1,24 +1,20 @@
 Notes
-This is a compilation of the Working with Children (Criminal Record Checking) Act 2004 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 14 November 2008 of the Working with Children (Criminal Record Checking) Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Short title | Number and Year | Assent | Commencement
-Working with Children (Criminal Record Checking) Act 2004 | 65 of 2004 | 8 Dec 2004 | Act other than s. 50-52: 1 Jan 2006 (see s. 2 and Gazette 30 Dec 2005 p. 6875) s. 50-52: 1 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
+Short title | Number and year | Assent | Commencement
+Working with Children (Criminal Record Checking) Act 2004 | 65 of 2004 | 8 Dec 2004 | s. 1 and 2: 8 Dec 2004; Act other than s. 1, 2 and 50-52: 1 Jan 2006 (see s. 2 and Gazette 30 Dec 2005 p. 6875); s. 50-52: 1 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
 Criminal Code Amendment (Cyber Predators) Act 2006 s. 7 | 3 of 2006 | 30 Mar 2006 | 30 Mar 2006 (see s. 2(1))
 Child Care Services Act 2007 Pt. 7 Div. 4 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 Criminal Law and Evidence Amendment Act 2008 s. 74 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
-Community Protection (Offender Reporting) Amendment Act 2008 s. 13 | 27 of 2008 | 1 Jul 2008 | 2 Jul 2008 (see s. 2(b))
 Criminal Law Amendment (Homicide) Act 2008 s. 40 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(c) and (d) and Gazette 22 Jul 2008 p. 3353)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Community Protection (Offender Reporting) Amendment Act 2008 s. 13 | 27 of 2008 | 1 Jul 2008 | 2 Jul 2008 (see s. 2(b))
+Reprint 1: The Working with Children (Criminal Record Checking) Act 2004 as at 14 Nov 2008 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
-Commissioner for Children and Young People Act 2006 s. 65 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
+Short title | Number and year | Assent | Commencement
+Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Schedule 1, had not come into operation. It reads as follows:
-“
-65.Consequential amendments
-The Acts mentioned in Schedule 1 are amended as set out in that Schedule.
-”.
-Schedule 1 cl. 3 reads as follows:
+On the date as at which this reprint was prepared, the Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 had not come into operation. It reads as follows:
 “
 Schedule 1 — Consequential amendments
 [s. 65]
@@ -61,7 +57,7 @@ s. 18(1) and (2) | s. 42(2)
 s. 19(1), (9) and (10) | s. 44(3), (4) and (5)
 s. 20(2), (3), (5) and (6) | s. 45(1), (3), (4) and (6)
 ”.
-On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 35 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 35 had not come into operation. It reads as follows:
 “
 35.Working with Children (Criminal Record Checking) Act 2004 amended
 (1) The amendments in this section are to the Working with Children (Criminal Record Checking) Act 2004.
@@ -73,3 +69,55 @@ s. 17 | Obtaining payment for commercial sexual act by a child
 s. 18 | Agreement for a child to act as a sex worker
 ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+another jurisdiction4
+approved4
+assessment notice4
+authorised person34(1)
+CEO4
+charge4
+child4
+child care service4
+child-related business4
+child-related employment4
+child-related work4, 6(1)
+Class 1 offence4, 7(1)
+Class 2 offence4, 7(2)
+commencement day56
+Commissioner4
+contact4
+contact with a child6(2)
+continuing employee60(4)
+continuing minister of religion59(1)
+continuing operator57(3)
+continuing volunteer58(1)
+conviction4
+correct notice20(1)
+corresponding authority37(1)
+criminal record4
+criminal record check4
+criminal records agency34(1)
+defined period26(1)
+Department4, 38(1)
+educational institution for children4
+employee16(1)
+employer9(1), 16(1), 22(1), 41(1), 43(1)(a)
+first notice20(2)
+interim negative notice4
+managerial officer5(1)
+negative notice4
+new employee60(4)
+new operator57(3)
+non-conviction charge4
+officer of the Department4
+parent4
+pending charge4
+public authority38(1)
+public sector employee45(2)
+regulated person42(1)
+relative4
+relevant day60A
+specified4, 61(4)
+work4
