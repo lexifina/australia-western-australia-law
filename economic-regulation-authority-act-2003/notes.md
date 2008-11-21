@@ -1,9 +1,42 @@
 Notes
-This is a compilation of the Economic Regulation Authority Act 2003 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 21 November 2008 of the Economic Regulation Authority Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Short title | Number and Year | Assent | Commencement
-Economic Regulation Authority Act 2003 | 67 of 2003 | 5 Dec 2003 | Act other than s. 25(b), 63(2), Sch. 2 Div. 4 and Sch. 4: 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723); s. 25(b), 63(2), Sch. 2 Div. 4 and Sch. 4: 19 Mar 2004 (see s. 2(3) and Gazette 19 Mar 2004 p. 914)
+Short title | Number and year | Assent | Commencement
+Economic Regulation Authority Act 2003 | 67 of 2003 | 5 Dec 2003 | s. 1 and 2: 5 Dec 2003; Act other than s. 1, 2, 25(b), 63(2), Sch. 2 Div. 4 and Sch. 4: 1 Jan 2004 (see s. 2(1) and Gazette 30 Dec 2003 p. 5723); s. 25(b), 63(2), Sch. 2 Div. 4 and Sch. 4: 19 Mar 2004 (see s. 2(3) and Gazette 19 Mar 2004 p. 914)
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
-Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Reprint 1: The Economic Regulation Authority Act 2003 as at 21 Nov 2008 (includes amendments listed above)
+The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
+Schedule 2 was omitted under the Reprints Act 1984 s. 7(4)(e).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+access agreement20(5)
+agreement or instrumentSch. 4 cl. 8(2)
+Authority3
+chairman3
+chief employee3
+commencement daySch. 3 cl. 1, Sch. 4 cl. 1
+CoordinatorSch. 4 cl. 1
+former officialSch. 3 cl. 1
+functions3
+Gas Pipelines Access RegulatorSch. 3 cl. 1
+given55(5)
+governing body3
+inquiry44
+licensing functionsSch. 4 cl. 1
+meetingSch. 1 cl. 1
+member3
+Part 2ASch. 4 cl. 1
+price3
+public sector employee3
+public service officer18(1)
+Rail Access RegulatorSch. 3 cl. 1
+reference31, 37
+regulated industry3
+relevant entity20(5)
+staff member3
+transitional matter63(4)
+By Authority: JOHN A. STRIJK, Government Printer
