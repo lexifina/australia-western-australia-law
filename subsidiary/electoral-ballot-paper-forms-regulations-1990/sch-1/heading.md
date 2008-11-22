@@ -18,11 +18,20 @@ FORM B:Ballot paper for
 — an election in a district,
 — an election in a region if there are no groups and no voting tickets are registered,
 if there are 3 or more candidates.
+Western AustraliaBallot Paper Election of(a) of the Legislative(b) (c)
+ | Number the boxes from 1 to (d) in the order of your choice
+ |  |  | (e) (f)
+ |  |  | (e) (f)
+ |  |  | (e) (f)
+ |  |  | (e) (f)
+ | Remember...... number every box to make your vote count.
 (a)Insert the number of members to be elected.
 (b)Insert “Assembly” or “Council”.
 (c)Insert the name of the district or region.
+(d)Insert the number of candidates.
 (e)Insert name of candidate.
 (f)Insert name of political party, or composite name of political parties, or “Independent”, if to be printed.
+[Form B amended in Gazette 21 Nov 2008 p. 4923.]
 FORM C:Ballot paper for
 — an election in a district,
 — an election in a region if one member is to be elected,
