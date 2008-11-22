@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 May 2008 of the Electoral Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electoral Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Electoral Regulations 1996 | 10 Oct 1996 p. 5321-91 | 10 Oct 1996
@@ -13,6 +13,7 @@ Electoral Amendment Regulations (No. 3) 2000 | 10 Nov 2000 p. 6161-80 | 11 Nov 2
 Reprint of the Electoral Regulations 1996 as at 1 Dec 2000 (includes amendments listed above)
 Electoral Amendment Regulations 2007 | 11 May 2007 p. 1995-2002 | 11 May 2007
 Reprint 2: The Electoral Regulations 1996 as at 2 May 2008 (includes amendments listed above)
+Electoral Amendment Regulations 2008 | 21 Nov 2008 p. 4922 | r. 1 and 2: 21 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Nov 2008 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

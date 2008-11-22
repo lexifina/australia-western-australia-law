@@ -212,9 +212,7 @@ Electoral Act 1907 (s. 64(2) and 69)
 WRIT
 Writ for elections in all the electoral regions to elect members of the Legislative Council
 To the Electoral Commissioner:
-I direct you to proceed with elections in all the electoral regions to elect:
-(a)7 members of the Legislative Council for each of the electoral regions known, respectively, as the North Metropolitan Region and the South West Region; and
-(b)5 members of the Legislative Council for each of the electoral regions known, respectively, as the South Metropolitan Region, the East Metropolitan Region, the Agricultural Region and the Mining and Pastoral Region.
+I direct you to proceed with elections in all the electoral regions to elect 6 members of the Legislative Council for each of the electoral regions known, respectively, as the Agricultural Region, the East Metropolitan Region, the Mining and Pastoral Region, the North Metropolitan Region, the South Metropolitan Region and the South West Region.
 I fix the following days for the purposes of each of those elections:
 Last day for the nomination of candidates:
 ............... day, .......................................................... 20..........
@@ -236,7 +234,7 @@ Electoral regionElected candidatesDate of declaration
 [continue for each region]
 Dated ........................................ 20 .............................................................
 Electoral Commissioner
-[Form 17 inserted in Gazette 20 Oct 2000 p. 5931-2.]
+[Form 17 inserted in Gazette 20 Oct 2000 p. 5931-2; amended in Gazette 21 Nov 2008 p. 4922.]
 Form 18
 Western Australia
 Electoral Act 1907 (s. 67(1) and 69)
