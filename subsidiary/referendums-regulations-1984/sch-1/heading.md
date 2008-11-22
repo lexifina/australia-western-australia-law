@@ -34,13 +34,5 @@ Dated ........................................... 20 ...........................
 Electoral Commissioner
 [Form 1 inserted in Gazette 24 Dec 2004 p. 6250-1.]
 Form 2
-BALLOT PAPERS
-Referendums Act 1983 (s. 17)
-Retail Trading Hours Act 1987 (s. 43)
-HOW TO VOTE
-Write YES or NO in the box
-under each question set out below
-Western AustraliaBallot paper Retail Trading Hours Act 1987 section 43 QUESTION 1 Extended week night shopping Do you believe that the Western Australian community would benefit if trading hours in the Perth Metropolitan Area were extended to allow general retail shops to trade until 9 pm Monday to Friday? WRITE ‘YES’ OR ‘NO’
-Western AustraliaBallot paper Retail Trading Hours Act 1987 section 43 QUESTION 2 Extended Sunday shopping Do you believe that the Western Australian community would benefit if trading hours in the Perth Metropolitan Area were extended to allow general retail shops to trade for 6 hours on Sunday? WRITE ‘YES’ OR ‘NO’
-ANSWER EACH QUESTION
-[Form 2 inserted in Gazette 24 Dec 2004 p. 6251-2.]
+BALLOT PAPER Referendums Act 1983 (s. 17) Daylight Saving Act 2006 (s. 5) tear off here ------------------------------------------------------------------------------- Western AustraliaBallot paper Daylight Saving Act 2006 section 5 HOW TO VOTE If you are in favour, write YES in the box under the question below. If you are not in favour, write NO in the box under the question below. QUESTION Are you in favour of daylight saving being introduced in Western Australia by standard time in the State being advanced one hour from the last Sunday in October 2009 until the last Sunday in March 2010 and in similar fashion for each following year? WRITE ‘YES’ OR ‘NO’
+[Form 2 inserted in Gazette 21 Nov 2008 p. 4925.]
