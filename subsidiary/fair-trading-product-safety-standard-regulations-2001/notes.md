@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fair Trading (Product Safety Standard) Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 28 November 2008 of the Fair Trading (Product Safety Standard) Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fair Trading (Product Safety Standard) Regulations 2001 | 15 Jan 2002 p. 183-228 | 15 Jan 2002
@@ -22,4 +22,59 @@ Fair Trading (Product Safety Standard) Amendment Regulations 2007 | 12 Oct 2007 
 Fair Trading (Product Safety Standard) Amendment Regulations 2008 | 27 Jun 2008 p. 3051-3 | r. 1 and 2: 27 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jun 2008 (see r. 2(b))
 Fair Trading (Product Safety Standard) Amendment Regulations (No. 2) 2008 | 27 Jun 2008 p. 3053-8 | r. 1 and 2: 27 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Fair Trading (Product Safety Standard) Amendment Regulations (No. 3) 2008 | 22 Aug 2008 p. 3659-67 | r. 1 and 2: 22 Aug 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Aug 2008 (see r. 2(b))
-The amendments in the Fair Trading (Product Safety Standard) Amendment Regulations 2002 (published in Gazette 26 Mar 2002 p. 1741-3) are not included because, before it came into operation, it was repealed by the Fair Trading (Product Safety Standard) Amendment Repeal Regulations 2002 (see Gazette 23 Apr 2002 p. 2123-4).
+Reprint 3: The Fair Trading (Product Safety Standard) Regulations 2001 as at 28 Nov 2008 (includes amendments listed above)
+The amendments in the Fair Trading (Product Safety Standard) Amendment Regulations 2002 (published in Gazette 26 Mar 2002 p. 1741-3) were not included because, before they came into operation, they were repealed by the Fair Trading (Product Safety Standard) Amendment Repeal Regulations 2002 (see Gazette 23 Apr 2002 p. 2123-4).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+adjustable lighter2
+aerosol type portable fire extinguisher20
+American Standard2
+AS/NZS 2172:200347
+baby walker30
+bean bag43
+bean bag cover43
+bean bag filling43
+blind50
+booster cushion58
+booster seat58
+bottom rail50
+candle accessory54
+child carrying seat40
+child restraint58
+children’s nightwear and limited daywear having reduced fire hazard32
+child-resistant slide-fastener43
+cot47
+CPI number3(2)
+disposable lighter2
+elastic luggage strap16
+external corded blind50
+ferrule64
+filling aperture64
+hot water bottle64
+indexed amount3(2)
+integral filling funnel64
+latest CPI number3(2)
+lighter2
+March 2003 CPI number3(2)
+neck block64
+non-adjustable lighter2
+novelty lighter2
+paper patterns for children’s nightwear34
+pedal bicycles36
+pram61
+prescribed tests57(1)
+pull cord50
+PVC64
+quarter3(2)
+refillable lighter2
+relevant amount3(1)
+restraint component58
+safe operation2
+safety pin with a catch cover57(1)
+slide-fastener43
+spit or sputter2
+Statistician3(2)
+stopper64
+stroller61
+young child2
