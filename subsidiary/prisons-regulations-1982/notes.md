@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 July 2008 of the Prisons Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Prisons Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Prisons Regulations 1982 | 23 Jul 1982 p. 2905-29 | 1 Aug 1982 (see r. 1 and Gazette 23 Jul 1982 p. 2841)
@@ -39,6 +39,7 @@ Prisons Amendment Regulations 2007 | 3 Apr 2007 p. 1493-506 | 4 Apr 2007 (see r.
 Prisons Amendment Regulations 2008 | 28 Mar 2008 p. 907-8 | r. 1 and 2: 28 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Mar 2008 (see r. 2(b))
 Prisons Amendment Regulations (No. 2) 2008 | 9 May 2008 p. 1844-5 | r. 1 and 2: 9 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 10 May 2008 (see r. 2(b))
 Reprint 5: The Prisons Regulations 1982 as at 11 Jul 2008 (includes amendments listed above)
+Prisons Amendment Regulations (No. 3) 2008 | 28 Nov 2008 p. 5029-30 | r. 1 and 2: 28 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Nov 2008 (see r. 2(b))
 Repealed by the Nurses and Midwives Act 2006.
 Regulation 5 disallowed on 15 Dec 1999 (see Gazette 21 Dec 1999 p. 6417).
 The Inspector of Custodial Services Act 2003 s. 56(2) reads as follows:
