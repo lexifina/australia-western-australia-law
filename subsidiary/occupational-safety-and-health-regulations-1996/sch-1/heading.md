@@ -1,10 +1,11 @@
 ## Schedule 1 — Australian Standards and Australian/New Zealand Standards
 [r. 1.3]
+[Heading inserted in Gazette 28 Nov 2008 p. 5032.]
 Item | AS or AS/NZS Number | Title | Regulation Reference
 1 | AS/NZS 1200:2000 | Pressure equipment | 4.1, 4.43, Sch. 4.3
 2 | AS/NZS 1269 | Occupational noise management | 3.45, 3.47
- | AS/NZS 1269.1:1998 | Measurement and assessment of noise emission and exposure
- | AS/NZS 1269.3:1998 | Hearing protector program
+ | AS/NZS 1269.1:2005 | Occupational noise management — Measurement and assessment of noise immission and exposure
+ | AS/NZS 1269.3:2005 | Occupational noise management — Hearing protector program
 3 | AS 1319-1994 | Safety signs for the occupational environment | 1.3, 3.11, 3.34, 3.36, 4.1
 4 | AS/NZS 1337:1992 | Eye protectors for industrial applications | 3.33
 5 | AS/NZS 1338:1992 | Filters for eye protectors | 3.33
@@ -12,13 +13,14 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
  | AS 1418.1-2002 | Cranes, hoists and winches — General requirements
  | AS 1418.2-1997 | Serial hoists and winches
  | AS 1418.3-1997 | Bridge, gantry, portal (including container cranes) and jib cranes
- | AS 1418.4-2001 | Tower cranes
+ | AS 1418.4-2004 | Cranes, hoists and winches — Tower cranes
  | AS 1418.5-2002 | Mobile cranes
- | AS 1418.6-1988 | Guided storing and retrieving appliances
+ | AS 1418.6-2004 | Cranes, hoists and winches — Guided storing and retrieving appliances
  | AS 1418.7-1999 | Builders’ hoists and associated equipment
  | AS 1418.8-2002 | Special purpose appliances
  | AS/NZS 1418.9:1996 | Vehicle hoists
- | AS 1418.10-1996 | Elevating work platforms
+ | AS 1418.10(Int)-2004 | Cranes, hoists and winches — Elevating work platforms
+ | AS 1418.11-2007 | Cranes, hoists and winches — Vehicle-loading cranes
  | AS 1418.12-1991 | Crane collector systems
  | AS 1418.13-1996 | Building maintenance units
  | AS 1418.14-1996 | Requirements for cranes subject to arduous working conditions
@@ -36,15 +38,15 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
 8 | AS 1636-1996 | Agricultural wheeled tractors — Roll-over protective structures — Criteria and tests | 4.44
 9 | AS 1674 | Safety in welding and allied processes | 3.96
  | AS 1674.1-1997 | Fire precautions
- | AS 1674.2-1990 | Electrical
+ | AS 1674.2-2007 | Safety in welding and allied processes — Electrical
 10 | AS/NZS 1715:1994 | Selection, use and maintenance of respiratory protective devices | 3.37, 3.40, 3.42
-11 | AS/NZS 1716:1994 | Respiratory protective devices | 3.40, 3.42
+11 | AS/NZS 1716:2003 | Respiratory protective devices | 3.40, 3.42
 12 | AS 1735 | Lifts, escalators, and moving walks (known as the SAA Lift Code) | 4.56, Sch. 4.3
- | AS 1735.1-2001 | General requirements
+ | AS 1735.1-2003 | Lifts, escalators and moving walks — General requirements
  | AS 1735.2-2001 | Passenger and goods lifts — Electric
- | AS 1735.3-2001 | Passenger and goods lifts — Electro-hydraulic
+ | AS 1735.3-2002 | Lifts, escalators and moving walks — Passenger and goods lifts — Electrohydraulic
  | AS 1735.4-1986 | Service lifts — Power-operated
- | AS 1735.5-2001 | Escalators and moving walks
+ | AS 1735.5-2003 | Lifts, escalators and moving walks — Escalators and moving walks (BS EN 115:1995, MOD)
  | AS 1735.7-1998 | Stairway lifts
  | AS 1735.8-1986 | Inclined lifts
  | AS 1735.9-1994 | Special purpose industrial lifts
@@ -58,7 +60,11 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
  | AS 1735.17-1995 | Lifts for people with limited mobility — Restricted use — Water-drive
  | AS/NZS 1735.18:2002 | Passenger lifts for private residence — Automatically controlled
 13 | AS/NZS 1801:1997 | Occupational protective helmets | 3.33, 3.36
-14 | AS/NZS 1873:1994 | Powder-actuated (PA) hand-held fastening tools | 4.51
+14 | AS/NZS 1873 | Powder-actuated (PA) hand-held fastening tools | 4.51
+ | AS/NZS 1873.1:2003 | Powder-actuated (PA) hand-held fastening tools — Selection, operation and maintenance
+ | AS/NZS 1873.2:2003 | Powder-actuated (PA) hand-held fastening tools — Design and construction
+ | AS/NZS 1873.3:2003 | Powder-actuated (PA) hand-held fastening tools — Charges
+ | AS/NZS 1873.4:2003 | Powder-actuated (PA) hand-held fastening tools — Fasteners
 15 | AS/NZS 1892 | Portable ladders | 3.26
  | AS/NZS 1892.1:1996 | Metal
  | AS 1892.2-1992 | Timber
@@ -67,20 +73,20 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
  | AS 2030.2-1996 | Cylinders for dissolved acetylene
  | AS 2030.4-1985 | Welded cylinders — Insulated
  | AS 2030 Supplement 1-1986 | Foreign gas cylinder specifications
-17 | AS 2106:1999 | Methods for the determination of the flashpoint of flammable liquids (closed cup) | 3.99
+17 | AS 2106.0-2005 | Methods for the determination of the flash point of flammable liquids (closed cup) — General | 3.99
 18 | AS/NZS 2161 | Occupational protective gloves | 3.33
  | AS/NZS 2161.1:2000 | Selection, use and maintenance
- | AS/NZS 2161.2:1998 | General requirements
- | AS/NZS 2161.3:1998 | Protection against mechanical risks
+ | AS/NZS 2161.2:2005 | Occupational protective gloves — General requirements
+ | AS/NZS 2161.3:2005 | Occupational protective gloves — Protection against mechanical risks
  | AS/NZS 2161.4:1999 | Protection against thermal risks (heat and fire)
  | AS/NZS 2161.5:1998 | Protection against cold
- | AS 2161.6(Int)-2001 | Laboratory test methods and performance requirements
+ | AS 2161.6-2003 | Occupational protective gloves — Protective gloves for firefighters — Laboratory test methods and performance requirements
  | AS/NZS 2161.7.1:1998 | Protection against cuts and stabs by hand knives — Chainmail gloves and arm guards
  | AS/NZS 2161.8:2002 | Protection against ionizing radiation and radioactive contamination
  | AS/NZS 2161.9:2002 | Method of measurement and evaluation of the vibration transmissibility of gloves at the palm of the hand
- | AS/NZS 2161.10.1:2002 | Terminology and performance requirements
- | AS/NZS 2161.10.2:2002 | Determination of resistance to penetration
- | AS/NZS 2161.10.3:2002 | Determination of resistance to permeation by chemicals
+ | AS/NZS 2161.10.1:2005 | Occupational protective gloves — Protective gloves against chemicals and micro-organisms — Terminology and performance requirements
+ | AS/NZS 2161.10.2:2005 | Occupational protective gloves — Protective gloves against chemicals and micro-organisms — Determination of resistance to penetration
+ | AS/NZS 2161.10.3:2005 | Occupational protective gloves — Protective gloves against chemicals and micro-organisms — Determination of resistance to permeation by chemicals
 19 | AS/NZS 2208:1996 | Safety glazing materials in buildings | 3.104
 20 | AS/NZS 2210 | Occupational protective footwear | 3.33
  | AS/NZS 2210.1:1994 | Guide to selection care and use
@@ -93,11 +99,17 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
  | AS/NZS 2210.8:2001 | Additional specifications for protective footwear
  | AS/NZS 2210.9:2001 | Additional specifications for occupational footwear
 21 | AS/NZS 2211 | Laser safety | 4.49
- | AS/NZS 2211.1:1997 | Equipment classification, requirements and user’s guide
- | AS/NZS 2211.1 Supplement 1:1999 | Application guidelines and explanatory notes
+ | AS/NZS 2211.1:2004 | Safety of laser products — Equipment classification, requirements and user’s guide (IEC 60825-1:2001, MOD)
+ | AS/NZS 2211.10:2004 | Safety of laser products — Application guidelines and explanatory notes to AS/NZS 2211.1 (IEC TR 60825-10:2002, MOD)
 22 | AS 2268-1979 | Electrostatic paint and powder spray guns for explosive atmospheres | 3.101
-23 | AS 2294-1997 | Earth-moving machinery — Protective structures | 4.44, 4.45
-24 | AS/NZS 2299.1:1999 | Occupational diving operations — Standard operational practice | 3.29
+23 | AS 2294 | Earth-moving machinery — Protective structures | 4.44, 4.45
+ | AS 2294.1-1997 | Earth-moving machinery — Protective structures — General
+ | AS 2294.1 Supplement 1-2003 | Earth-moving machinery — Protective structures — General — Operator protective structures fitted to plant used in timber industry (forest operations) (Supplement to AS 2294.1-1997)
+ | AS 2294.2-1997 | Earth-moving machinery — Protective structures — Laboratory tests and performance requirements for roll-over protective structures
+ | AS 2294.3-1997 | Earth-moving machinery — Protective structures — Laboratory tests and performance requirements for falling-object protective structures
+ | AS 2294.4-1997 | Earth-moving machinery — Protective structures — Specifications for deflection-limiting volume
+24 | AS/NZS 2299 | Occupational diving operations | 3.29
+ | AS/NZS 2299.1:1999 | Occupational diving operations — Standard operational practice
  | AS/NZS 2299.1 Supplement 1:1999 | Standard operational practice — AS/NZS 2299 Diving Medical Examination Forms
 25 | AS 2375-1980 | Guide to the selection, care and use of clothing for protection against heat and fire | 3.33
 26 | AS 2397-1993 | Safe use of lasers in the building and construction industry | 4.49
@@ -105,35 +117,44 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
 28 | AS 2550 | Cranes — Safe use | 4.54
  | AS 2550.1-2002 | General requirements
  | AS 2550.3-2002 | Bridge, gantry, portal (including container cranes), jib and monorail cranes
- | AS 2550.4-1994 | Tower cranes
+ | AS 2550.4-2004 | Cranes, hoists and winches — Safe use — Tower cranes
  | AS 2550.5-2002 | Mobile cranes
  | AS 2550.6-1995 | Guided storing and retrieving appliances
  | AS 2550.7-1996 | Builders’ hoists and associated equipment
  | AS/NZS 2550.9:1996 | Vehicle hoists
  | AS 2550.10-1994 | Elevating work platforms
+ | AS 2550.11-2004 | Cranes, hoists and winches — Safe use — Vehicle-loading cranes
  | AS 2550.13-1997 | Building maintenance units
  | AS 2550.15-1994 | Concrete placing equipment
  | AS 2550.16-1997 | Mast climbing work platforms
-29 | AS 2593-2001 | Boilers — Unattended and limited attendance | 4.43
+29 | AS 2593-2004 | Boilers — Safety management and supervision systems | 4.43
 30 | AS 2601-2001 | Demolition of structures | 3.119, 3.120, 3.122, 3.123, 3.124, 3.125
 31 | AS/NZS 2604:1998 | Sunscreen products — Evaluation and classification | 3.33
 32 | AS/NZS 2865:2001 | Safe working in a confined space | 3.85
 33 | AS 2971-2002 | Serially produced pressure vessels | Sch. 4.2
-34 | AS 2985-1987 | Workplace atmospheres — Method for sampling and gravimetric determination of respirable dust | 3.37
-35 | AS/NZS 3000:2000 | Electrical installations — Buildings, structures and premises (known as the SAA Wiring Rules) | 3.101, 4.27
-36 | AS/NZS 3012:1995 | Electrical installations — Construction and demolition sites | 3.58, 3.60, 3.61, 3.62, 3.63, 3.64
+34 | AS 2985-2004 | Workplace atmospheres — Method for sampling and gravimetric determination of respirable dust | 3.37
+35 | AS/NZS 3000:2007 | Electrical installations (known as the Australian/New Zealand Wiring Rules) | 3.101, 4.27
+36 | AS/NZS 3012:2003 | Electrical installations — Construction and demolition sites | 3.58, 3.60, 3.61, 3.62, 3.63, 3.64
 37 | AS/NZS 3108:1994 | Approval and test specification — Particular requirements for isolating transformers and safety isolating transformers | 3.60
-38 | AS/NZS 3509:1996 | LP gas fuel vessels for automotive use | Sch. 4.2, Sch. 4.3
-39 | AS 3533-1997 | Amusement rides and devices | 4.52, Sch. 4.1, Sch. 4.2, Sch. 4.3
-40 | AS 3640-1989 | Workplace atmospheres — Method for sampling and gravimetric determination of inspirable dust | 3.37
+38 | AS/NZS 3509:2003 | LP gas fuel vessels for automotive use | Sch. 4.2, Sch. 4.3
+39 | AS 3533 | Amusement rides and devices | 4.52, Sch. 4.1, Sch. 4.2, Sch. 4.3
+ | AS 3533.1-1997 | Amusement rides and devices — Design and construction
+ | AS 3533.1 Supplement 1-2003 | Amusement rides and devices — Design and construction — Intrinsic safety (Supplement to AS 3533.1-1997)
+ | AS 3533.2-1997 | Amusement rides and devices — Operation and maintenance
+ | AS 3533.2 Supplement 1-1997 | Amusement rides and devices — Operation and maintenance — Logbook (Supplement to AS 3533.2-1997)
+ | AS 3533.3-2003 | Amusement rides and devices — In-service inspection
+ | AS 3533.4.1-2005 | Amusement rides and devices — Specific requirements — Land-borne inflatable devices
+40 | AS 3640-2004 | Workplace atmospheres — Method for sampling and gravimetric determination of inhalable dust | 3.37
 41 | AS 3765-1990 | Clothing for protection against hazardous chemicals | 3.33
 42 | AS/NZS 3788:2001 | Pressure equipment — In-service inspection | 4.43
-43 | AS 3850 – 2003 | Tilt-up concrete construction | 3.88, 3.88B, 3.88C, 3.88D, 3.88E
+43 | AS 3850-2003 | Tilt-up concrete construction | 3.88, 3.88B, 3.88C, 3.88D, 3.88E
 44 | AS 3873-2001 | Pressure equipment — Operation and maintenance | 4.43
 45 | AS 3892-2001 | Pressure equipment — Installation | 4.43
 46 | AS 3920.1-1993 | Assurance of product quality — Pressure equipment manufacture | 4.3, Sch. 4.3
-47 | AS/NZS 4114-1995 | Spray painting booths | 3.100
+47 | AS/NZS 4114 | Spray painting booths | 3.100
+ | AS/NZS 4114.1:2003 | Spray painting booths, designated spray painting areas and paint mixing rooms — Design, construction and testing
+ | AS/NZS 4114.2:2003 | Spray painting booths, designated spray painting areas and paint mixing rooms — Installation and maintenance
 48 | AS 4343-1999 | Pressure equipment — Hazard levels | 4.1, Sch. 4.1, Sch. 4.2, Sch. 4.3
 49 | AS/NZS 4431:1996 | Guidelines for safe working on new lift installations in new constructions | 4.57
 50 | AS/NZS 4576:1995 | Guidelines for scaffolding | 3.26
-[Schedule 1 inserted in Gazette 10 Jan 2003 p. 65-75; amended in Gazette 22 Oct 2004 p. 4841.]
+[Schedule 1 inserted in Gazette 28 Nov 2008 p. 5032-41.]
