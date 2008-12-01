@@ -68,7 +68,7 @@ instrument, in relation to a dealing with registrable real property, means —
 (a)a memorial under this Act; or
 (b)an instrument as defined in the Transfer of Land Act 1893;
 lawfully acquired, in relation to any property, service, advantage or benefit, has the meaning given in section 149;
-medical practitioner has the same meaning as in the Medical Act 1894;
+medical practitioner has the meaning given to that term in the Medical Practitioners Act 2008 section 4;
 monitoring order means an order under section 68(1);
 objection means an objection filed under section 79 to the confiscation of property;
 officer, in relation to a corporation, means a director, secretary, executive officer, employee or agent of the corporation;
@@ -118,4 +118,4 @@ value, in relation to —
 (d)property sold by or for the State — has the meaning given in section 152; and
 (e)the transfer of property — has the meaning given in section 154;
 wealth has the meaning given in section 143.
-[Glossary amended by No. 12 of 2001 s. 51; No. 20 of 2003 s. 19; No. 28 of 2003 s. 42; No. 2 of 2008 s. 61(3).]
+[Glossary amended by No. 12 of 2001 s. 51; No. 20 of 2003 s. 19; No. 28 of 2003 s. 42; No. 2 of 2008 s. 61(3); No. 22 of 2008 s. 162.]

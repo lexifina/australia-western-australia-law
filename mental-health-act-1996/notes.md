@@ -17,11 +17,11 @@ Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | 1 Aug 2007 
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 9 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Reprint 2: The Mental Health Act 1996 as at 12 Jan 2007 (includes amendments listed above except those in the Occupational Therapists Act 2005 and the Nurses and Midwives Act 2006)
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 s. 680 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The Mental Health (Consequential Provisions) Act 1996 Pt. 12 Div. 2 (s. 53-72 inclusive) reads as follows:
 “
 Division 2 — Transitional
@@ -216,23 +216,4 @@ lawyer means an Australian lawyer within the meaning of that term in the Legal P
 “ lawyer ”.
 (7) Schedule 2 clause 3(3) is amended by deleting “certificated practitioner (within the meaning of the Legal Practice Act 2003)” and inserting instead —
 “ legal practitioner ”.
-”.
-On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 34, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 34 reads as follows:
-“
-Schedule 3 — Consequential amendments
-34.Mental Health Act 1996 amended
-(1) The amendments in this clause are to the Mental Health Act 1996.
-(2) Section 3 is amended by deleting the definition of “medical practitioner” and inserting instead —
-“
-medical practitioner has the meaning given to that term in the Medical Practitioners Act 2008 section 4;
-”.
-(3) Section 17(1) is amended by deleting “The Medical Board appointed under the Medical Act 1894” and inserting instead —
-“
-The Medical Board of Western Australia established under the Medical Practitioners Act 2008
-”.
 ”.

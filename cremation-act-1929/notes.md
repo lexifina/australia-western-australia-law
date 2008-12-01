@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 July 2008 of the Cremation Act 1929 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Cremation Act 1929 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Cremation Act 1929 | 22 of 1929 (20 Geo. V No. 20) | 11 Dec 1929 | 11 Dec 1929
@@ -21,26 +21,10 @@ Acts Amendment (Lesbian and Gay Law Reform) Act 2002 Pt. 6 | 3 of 2002 | 17 Apr 
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 32 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 5: The Cremation Act 1929 as at 4 Jul 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Repealed by the Associations Incorporation Act 1987.
 The renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and subsequent reprints has been retained. References to the original numbering are contained in the 1943 reprint.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 13 reads as follows:
-“
-Schedule 3 — Consequential amendments
-13.Cremation Act 1929 amended
-(1) The amendments in this clause are to the Cremation Act 1929.
-(2) Section 2 is amended in the definition of “medical practitioner” by deleting “Medical Act 1894.” and inserting instead —
-“ Medical Practitioners Act 2008. ”.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -57,4 +41,3 @@ human body2
 licensed2
 licensees2
 medical practitioner2
-By Authority: JOHN A. STRIJK, Government Printer

@@ -32,10 +32,7 @@ Misuse of Drugs Amendment Act 2006 | 40 of 2006 | 22 Sep 2006 | s. 1 and 2: 22 S
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Misuse of Drugs (Amounts of Prohibited Drugs) Order 2007 published in Gazette 7 Dec 2007 p. 5985 | cl. 1 and 2: 7 Dec 2007 (see cl. 2(a)); Order other than cl. 1 and 2: 8 Dec 2007 (see cl. 2(b))
 Reprint 4: The Misuse of Drugs Act 1981 as at 29 Feb 2008 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
 “
@@ -94,19 +91,6 @@ If, immediately before the commencement of this Act, a warrant issued under the 
 (9) To the extent that a provision of this section relating to any property is inconsistent with the Transfer of Land Act 1983, the provision prevails, but this section does not otherwise affect the operation of that Act in relation to the property.
 ”.
 This should read “1893”.
-On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 37, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 37 reads as follows:
-“
-Schedule 3 — Consequential amendments
-37.Misuse of Drugs Act 1981 amended
-(1) The amendments in this clause are to the Misuse of Drugs Act 1981.
-(2) Section 3(1) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894;” and inserting instead —
-“ Medical Practitioners Act 2008; ”.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

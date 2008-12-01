@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 June 2008 of the Minimum Conditions of Employment Act 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Minimum Conditions of Employment Act 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Minimum Conditions of Employment Act 1993 | 14 of 1993 | 23 Nov 1993 | s. 1 and 2: 23 Nov 1993; Act other than s. 1 and 2: 1 Dec 1993 (see s. 2 and Gazette 30 Nov 1993 p. 6439)
@@ -17,10 +17,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 3: The Minimum Conditions of Employment Act 1993 as at 5 May 2006 (includes amendments listed above)
 Labour Relations Legislation Amendment Act 2006 Pt. 2, s. 21 and Pt. 6 | 36 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2(1))
 Reprint 4: The Minimum Conditions of Employment Act 1993 as at 13 Jun 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 The Labour Relations Reform Act 2002 s. 165(3)-(5) reads as follows:
 “
 (3) An agreement continues to have effect on and from the commencement day in respect of the employee’s entitlement to annual leave that accrued before the commencement day as if former section 8 had not been amended by this Act.
@@ -78,19 +75,6 @@ The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004
 The Labour Relations Legislation Amendment Act 2006 s. 31(2) reads as follows:
 “
 (2) Nothing in Part 4 Division 2 of the Minimum Conditions of Employment Act 1993 requires an untaken entitlement that arose under section 19(1) or 20A(1) of that Act as enacted before the commencement of this section to be carried over from the year in which the entitlement arose to the next year.
-”.
-On the date as at which this reprint was prepared, the Medical Practitioners Act 2008 s. 162, which operates by reference to Sch. 3, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 36 reads as follows:
-“
-Schedule 3 — Consequential amendments
-36.Minimum Conditions of Employment Act 1993 amended
-(1) The amendments in this clause are to the Minimum Conditions of Employment Act 1993.
-(2) Section 3(1) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894” and inserting instead —
-“ Medical Practitioners Act 2008 ”.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

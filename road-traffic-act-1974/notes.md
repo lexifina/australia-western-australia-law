@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 October 2008 of the Road Traffic Act 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic Act 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic Act 1974 | 59 of 1974 | 3 Dec 1974 | s. 4: 3 Dec 1974 (see s. 2(2)); s. 6-10 and 12: 21 Feb 1975 (see s. 2(1) and Gazette 21 Feb 1975 p. 633); Act other than s. 4, 6-10 and 12: 1 Jun 1975 (see s. 2(1) and Gazette 29 May 1975 p. 1442)
@@ -130,15 +130,15 @@ Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (se
 Road Traffic Amendment Act (No. 2) 2007 Pt. 2 (except s. 27-30) | 39 of 2007 | 21 Dec 2007 | Pt. 2 Div. 6: 22 Dec 2007 (see s. 2(j)); Pt. 2 (other than s. 6(2)(b)(ii), 17, 18 & 25 and Div. 4, 5 & 6): 15 Mar 2008 (see s. 2(b)-(j) and Gazette 14 Mar 2008 p. 829); Pt. 2 s. 6(2)(b)(ii): 15 Mar 2008 (see s. 2(c)); Pt. 2 s. 17, 18 and 25: 30 Jun 2008 (see s. 2(d)-(f)); Pt. 2 (s. 26) and Pt. 2 Div. 5: 1 Jul 2008 (see s. 2(g)-(i) and Gazette 27 Jun 2008 p. 3117)
 Acts Amendment (Justice) Act 2008 s. 131 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Road Traffic Amendment Act 2008 (except s. 5(a) and 8) | 24 of 2008 | 13 Jun 2008 | s. 1 and 2: 13 Jun 2008 (see s. 2(1)(a)); s. 3, 4, 5(b)-(f), 6, 7, 9-25: 19 Jul 2008 (see s. 2(1)(b) and Gazette 18 Jul 2008 p. 3329)
 Criminal Law Amendment (Homicide) Act 2008 s. 38 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Reprint 10: The Road Traffic Act 1974 as at 3 Oct 2008 (includes amendments listed above) (Correction to Reprint in Gazette 19 Oct 2010 p. 5202)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Amendment Act (No. 2) 1987 s. 11(b) | 121 of 1987 (as amended by No. 84 of 2004 s. 80 (cl. 123)) | 24 Dec 1987 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (s. 27-30) | 39 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(g))
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act 2008 s. 5(a) and 8 | 24 of 2008 | 13 Jun 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 Repealed by the Nurses and Midwives Act 2006.
 Repealed by the Interpretation Act 1984.
@@ -204,7 +204,7 @@ The Road Traffic Amendment Act (No. 2) 1987 s. 10(2) reads as follows:
 “
 (2) A certificate that was in force under section 72(3)(b) of the principal Act immediately before the commencement of subsection (1)(d) shall have effect after that commencement as if it certified the person named in the certificate as being competent to operate all types of breath analysing equipment.
 ”.
-On the date as at which this reprint was prepared, the Road Traffic Amendment Act (No. 2) 1987 s. 11(b) (as amended by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 (cl. 123)) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Road Traffic Amendment Act (No. 2) 1987 s. 11(b) (as amended by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 (cl. 123)) had not come into operation. It reads as follows:
 “
 11.Section 89 amended
 Section 89 of the principal Act is amended —
@@ -306,7 +306,7 @@ Part 3 — Transitional provision
 Points currently recorded in respect of a person under section 103 of the Road Traffic Act 1974 immediately before that section is repealed by section 29, and details of any offence in respect of which the points were recorded, are to be recorded as demerit points against the person in the demerit points register referred to in Part VIA of the Road Traffic Act 1974 as inserted by section 31.
 ”.
 The Road Traffic Amendment Act 2006 Pt. 4 Div. 4 will not be included because the Road Traffic Amendment (Vehicle Licensing) Act 2001 has already commenced (see s. 45-48).
-On the date as at which this reprint was prepared, the Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 had not come into operation. It reads as follows:
 “
 Part 2 — Road Traffic Act 1974 amended
 Division 4 — Amendments about graduated demerit point system for novice drivers
@@ -346,22 +346,8 @@ Section 104R(1) is amended by inserting before paragraph (b) —
 (aa) an excessive demerit points (novice driver) notice; or
 ”.
 ”.
-On the date as at which this reprint was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 51 reads as follows:
-“
-Schedule 3 — Consequential amendments
-51.Road Traffic Act 1974 amended
-(1) The amendments in this clause are to the Road Traffic Act 1974.
-(2) Section 65 is amended by deleting the definition of “medical practitioner” and inserting instead —
-“
-“medical practitioner” has the meaning given to that term in the Medical Practitioners Act 2008 section 4;
-”.
-”.
-On the date as at which this reprint was prepared, the Road Traffic Amendment Act 2008 s. 5(a) and 8 had not come into operation. They read as follows:
+Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Road Traffic Amendment Act 2008 s. 5(a) and 8 had not come into operation. They read as follows:
 “
 5.Section 78A amended
 Section 78A is amended as follows:

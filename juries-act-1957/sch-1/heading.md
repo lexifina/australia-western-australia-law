@@ -45,7 +45,7 @@ Officers and firemen of permanent fire brigades.
 Pilots employed by the Royal Flying Doctor Service.
 [Clause 1 inserted by No. 59 of 1984 s. 23.]
 2.Health.
-Medical practitioners registered under the Medical Act 1894 if actually practising.
+Medical practitioners registered under the Medical Practitioners Act 2008 if actually practising.
 Dentists registered under the Dental Act 1939 if actually practising.
 Veterinary surgeons registered under the Veterinary Surgeons Act 1960 if actually practising.
 Psychologists registered under the Psychologists Act 2005 if actually practising.
@@ -54,7 +54,7 @@ Chiropractors registered under the Chiropractors Act 2005 if actually practising
 Physiotherapists registered under the Physiotherapists Act 2005 and in private practice.
 Pharmaceutical chemists registered under the Pharmacy Act 1964 and actually in business whether as principal or manager for a principal.
 Osteopaths registered under the Osteopaths Act 2005 if actually practising.
-[Clause 2 inserted by No. 59 of 1984 s. 23; amended by No. 58 of 1997 s. 97; No. 28 of 2005 s. 108; No. 31 of 2005 s. 109; No. 32 of 2005 s. 109; No. 33 of 2005 s. 108; No. 50 of 2006 s. 114.]
+[Clause 2 inserted by No. 59 of 1984 s. 23; amended by No. 58 of 1997 s. 97; No. 28 of 2005 s. 108; No. 31 of 2005 s. 109; No. 32 of 2005 s. 109; No. 33 of 2005 s. 108; No. 50 of 2006 s. 114; No. 22 of 2008 s. 162.]
 3.Religion.
 Persons in holy orders, or who preach or teach in any religious congregation, but only if they follow no secular occupation except that of a schoolteacher.
 [Clause 3 inserted by No. 59 of 1984 s. 23.]

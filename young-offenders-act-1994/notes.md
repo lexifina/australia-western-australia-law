@@ -34,6 +34,7 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 13 | 65 of 2006 | 8 De
 Road Traffic Amendment (Drugs) Act 2007 Pt. 3 | 6 of 2007 | 23 May 2007 | 12 Oct 2007 (see s. 2 and Gazette 11 Oct 2007 p. 5475)
 Road Traffic Amendment Act (No. 2) 2007 Pt. 3 | 39 of 2007 | 21 Dec 2007 | 15 Mar 2008 (see s. 2(k) and Gazette 14 Mar 2008 p. 829)
 Acts Amendment (Justice) Act 2008 s. 132 | 5 of 2008 | 31 Mar 2008 | 31 Jul 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Criminal Law Amendment (Homicide) Act 2008 s. 41 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -41,7 +42,6 @@ Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 20080 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Parental Support and Responsibility Act 2008 s. 44 | 14 of 2008 | 15 Apr 2008 | To be proclaimed (see s. 2)
 Legal Profession Act 2008 s. 714 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -125,19 +125,5 @@ lawyer means an Australian lawyer within the meaning of that term in the Legal P
 (4) Section 152(5)(b) is amended by deleting “a legal practitioner (as defined in the Legal Practice Act 2003).” and inserting instead —
 “
 an Australian lawyer (within the meaning of that term in the Legal Profession Act 2008 section 3).
-”.
-”.
-On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 55, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 55 reads as follows:
-“
-Schedule 3 — Consequential amendments
-55.Young Offenders Act 1994 amended
-(1) The amendments in this clause are to the Young Offenders Act 1994.
-(2) Section 179(1) is amended in the definition of “medical officer” by deleting “Medical Act 1894;” and inserting instead —
-“ Medical Practitioners Act 2008; ”.
 ”.
 ”.

@@ -124,12 +124,12 @@ Reprint 14: The Health Act 1911 as at 5 Oct 2007 (includes amendments listed abo
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 10 | 24 of 2007 | 12 Oct 2007 | 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645)
 Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | 1 Jul 2008 (see s. 2(b) and Gazette 20 Jun 2008 p. 2705.)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Criminal Law Amendment (Homicide) Act 2008 s. 34 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Amendment Act 1987 s. 4(d), 83 and 90 | 80 of 1987 | 28 Nov 1987 | To be proclaimed (see s. 2)
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Food Act 2008 s. 147 and Pt. 14 | 43 of 2008 | 8 Jul 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 Repealed by the Nurses and Midwives Act 2006.
@@ -574,25 +574,7 @@ When a body corporate is convicted of an offence under this Part or the regulati
 ”.
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 23 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-28- 30Footnotes no longer applicable.
-On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 23, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 23 reads as follows:
-“
-Schedule 3 — Consequential amendments
-23.Health Act 1911 amended
-(1) The amendments in this clause are to the Health Act 1911.
-(2) Section 3(1) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894;” and inserting instead —
-“ Medical Practitioners Act 2008; ”.
-(3) Section 246D(1)(n) is amended by deleting “within the meaning of section 3 of the Medical Act 1894” and inserting instead —
-“
-within the meaning given to that term in the Medical Practitioners Act 2008 section 4
-”.
-”.
-Footnote no longer applicable.
+28- 32Footnotes no longer applicable.
 On the date as at which this compilation was prepared, the Food Act 2008 s. 147 and Pt. 14 had not come into operation. They read as follows:
 “
 147.Health Act 1911 amended

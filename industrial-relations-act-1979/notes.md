@@ -71,6 +71,7 @@ Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 |
 Petroleum Amendment Act 2007 s. 97 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Acts Amendment (Justice) Act 2008 Pt. 13 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Police Amendment Act 2008 s. 13 and 23(3) | 8 of 2008 | 31 Mar 2008 | s. 13: 1 Apr 2008 (see s. 2(1)) s. 23(3): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -78,7 +79,6 @@ Vocational Education and Training Act 1996 s. 62 | 42 of 1996 | 16 Oct 1996 | To
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
 Legal Profession Act 2008 s. 668 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
 The Labour Relations Reform Act 2002 s. 112, 113(6), 117(2) and (3), 138(2), 140(2), 141(2), 146(2), 152(2), 155(2) and (3), 186(2)-(4) and Sch. 1 read as follows:
@@ -257,19 +257,4 @@ legal experience means —
 section 12 of the Legal Profession Act 2008
 ”.
 (6) Section 91(3) is repealed.
-”.
-On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 30, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 30 reads as follows:
-“
-Schedule 3 — Consequential amendments
-30.Industrial Relations Act 1979 amended
-(1) The amendments in this clause are to the Industrial Relations Act 1979.
-(2) Section 72B(1) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894;” and inserting instead —
-“ Medical Practitioners Act 2008 section 4; ”.
-(3) Section 97WR is amended in the definition of “medical practitioner” by deleting “Medical Act 1894;” and inserting instead —
-“ Medical Practitioners Act 2008; ”.
 ”.
