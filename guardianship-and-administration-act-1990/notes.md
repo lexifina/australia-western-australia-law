@@ -27,11 +27,11 @@ Family Legislation Amendment Act 2006 Pt. 6 Div. 2 | 35 of 2006 | 4 Jul 2006 | 1
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
 Acts Amendment (Justice) Act 2008 Pt. 12 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 s. 667 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Guardianship and Administration Amendment Act 2000 s. 21 reads as follows:
@@ -90,22 +90,7 @@ legal practitioner means an Australian legal practitioner within the meaning of 
 (4) Section 70(3) is amended by deleting “Legal Practice Act 2003.” and inserting instead —
 “ Legal Profession Act 2008. ”.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 22, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 22 reads as follows:
-“
-Schedule 3 — Consequential amendments
-22.Guardianship and Administration Act 1990 amended
-(1) The amendments in this clause are to the Guardianship and Administration Act 1990.
-(2) Section 119(4) is amended in the definition of “practitioner” by deleting “within the meaning of the Medical Act 1894” and inserting instead —
-“
-within the meaning given to that term in the Medical Practitioners Act 2008 section 4
-”.
-”.
+Footnotes no longer applicable.
 On the date as at which this compilation was prepared, the Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 had not come into operation. It reads as follows:
 “
 Part 2 — Guardianship and Administration Act 1990 amended

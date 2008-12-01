@@ -17,11 +17,11 @@ Censorship Amendment Act 2006 s. 4(2) | 10 of 2006 | 8 May 2006 | 10 Jun 2006 (s
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 13 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Criminal Law and Evidence Amendment Act 2008 s. 69 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 Pt. 2 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 Pt. 2 had not come into operation. It reads as follows:
@@ -556,17 +556,4 @@ Table
 s. 6(1) | s. 6(3)(a) | s. 6(4)(c)
 s. 6(2)(a) | s. 6(3)(b)(i)
 s. 6(3) | s. 6(3)(b)(ii)
-”.
-On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 48, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 48 reads as follows:
-“
-Schedule 3 — Consequential amendments
-48.Prostitution Act 2000 amended
-(1) The amendments in this clause are to the Prostitution Act 2000.
-(2) Section 29(7) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894;” and inserting instead —
-“ Medical Practitioners Act 2008; ”.
 ”.

@@ -54,12 +54,12 @@ Reprint 5: The Juries Act 1957 as at 8 Jun 2007 (includes amendments listed abov
 Acts Amendment (Justice) Act 2008 Pt. 14 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Police Amendment Act 2008 s. 14 and s. 23(4) | 8 of 2008 | 31 Mar 2008 | s. 14: 1 Apr 2008 (see s. 2(1)) s. 23(4): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Criminal Law and Evidence Amendment Act 2008 s. 64 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Legal Profession Act 2008 s. 669 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 Repealed by the Nurses Act 1992.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -70,19 +70,7 @@ A certificate of permanent exemption issued or purporting to have been issued pu
 ”.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 contains savings and transitional provisions that are of no further effect.
 The Juries Amendment Act 2003 s. 5(2) is a savings provision that is of no further effect.
-On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 31, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 31 reads as follows:
-“
-Schedule 3 — Consequential amendments
-31.Juries Act 1957 amended
-(1) The amendments in this clause are to the Juries Act 1957.
-(2) The Second Schedule Part II item 2 is amended by deleting “Medical Act 1894” and inserting instead —
-“ Medical Practitioners Act 2008 ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) had not come into operation. It reads as follows:
 “
 39.Second Schedule amended

@@ -243,6 +243,7 @@ Finance Brokers Control Amendment Act 2004 s. 79 | 53 of 2004 | 18 Nov 2004 | 31
  | Reprint 15: The Constitution Acts Amendment Act 1899 as at 2 Aug 2007 (includes amendments listed above except those in the Child Care Services Act 2007 and the Nurses and Midwives Act 2006)
  | Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | 1 Jul 2008 (see s. 2(b) and Gazette 20 Jun 2008 p. 2705)
  | Water Resources Legislation Amendment Act 2007 s. 192 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
+ | Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
  | Eastern Goldfields Transport Board Repeal Act 2008 s. 12 | 28 of 2008 | 1 Jul 2008 | 29 Jul 2008
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -252,7 +253,6 @@ Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 1
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22, 35 and 51 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Legal Profession Act 2008 s. 650 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The Tobacco Control Act 1990 s. 35(2) reads as follows:
 “
 (2) Section 37(1)(b) of the Constitution Acts Amendment Act 1899 shall have effect in relation to the Foundation as if the reference to “member” included a reference to a deputy of a member.
@@ -345,23 +345,7 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 9, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 9 reads as follows:
-“
-Schedule 3 — Consequential amendments
-9.Constitution Acts Amendment Act 1899 amended
-(1) The amendments in this clause are to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended by deleting the item commencing “The Medical Board” and inserting instead —
-“
-The Medical Board of Western Australia established under the Medical Practitioners Act 2008.
-”.
-”.
-Footnote no longer applicable.
+50-52Footnotes no longer applicable.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22, 35 and 51 had not come into operation. They read as follows:
 “
 22.Constitution Acts Amendment Act 1899 amended

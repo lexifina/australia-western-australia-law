@@ -17,10 +17,7 @@ Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 4 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Police Amendment Act 2008 s. 12 and 23(2) | 8 of 2008 | 31 Mar 2008 | s. 12: 1 Apr 2008 (see s. 2(1)) s. 23(2): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 The “Inspector provisions” as defined in the Prisons Amendment Act 1999 s. 2(4) came into operation on 18 Jun 2000 (see Gazette 16 Jun 2000 p. 2939).
 The Inspector of Custodial Services Act 2003 s. 57 and Sch. 3 read as follows:
 “
@@ -52,18 +49,4 @@ as if this Act were in effect when the matters to be reported on occurred.
 6.Independent prison visitors and independent detention centre visitors
 (1) A person who, immediately before commencement, was a person who had been appointed or was deemed to have been appointed to be a prison visitor under the Prisons Act 1981 section 54 is to be regarded, on and from commencement, as a person who is appointed to be an independent prison visitor under section 39 of this Act on the same terms and conditions as applied to the person’s appointment under the Prisons Act 1981 section 54.
 (2) A person who, immediately before commencement, was a person who had been appointed to be a detention centre visitor under the Young Offenders Act 1994 section 166 is to be regarded, on and from commencement, as a person who is appointed to be an independent detention centre visitor under section 41 of this Act on the same terms and conditions as applied to the person’s appointment under the Young Offenders Act 1994 section 166.
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 12, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 12 reads as follows:
-“
-Schedule 3 — Consequential amendments
-12.Court Security and Custodial Services Act 1999 amended
-(1) The amendments in this clause are to the Court Security and Custodial Services Act 1999.
-(2) Section 3 is amended in the definition of “doctor” by deleting “Medical Act 1894” and inserting instead —
-“ Medical Practitioners Act 2008 ”.
 ”.

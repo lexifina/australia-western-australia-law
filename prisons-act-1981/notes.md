@@ -46,11 +46,11 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 2 | 65 of 2006 | 8 Dec
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 6: The Prisons Act 1981 as at 16 Nov 2007 (includes amendments listed above)
 Police Amendment Act 2008 s. 16 and 23(6) | 8 of 2008 | 31 Mar 2008 | s. 16: 1 Apr 2008 (see s. 2(1)) s. 23(6): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Criminal Law Amendment (Homicide) Act 2008 s. 36(3) | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
@@ -81,22 +81,7 @@ Schedule 2 cl. 6(5) reads as follows:
 ”.
 The amendments in the Corruption and Crime Commission Amendment and Repeal Act 2003 Sch. 2 cl. 11(3)-(6) are not included because the sections they sought to amend had been repealed by No. 75 of 2003 s. 56(1) before the amendment purported to come into operation.
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Sch. 1 cl. 25 (amendment to s. 23) was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 78(4).
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 47, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 47 reads as follows:
-“
-Schedule 3 — Consequential amendments
-47.Prisons Act 1981 amended
-(1) The amendments in this clause are to the Prisons Act 1981.
-(2) Section 3(1) is amended in paragraph (a) of the definition of “medical practitioner” by deleting “Medical Act 1894; and” and inserting instead —
-“ Medical Practitioners Act 2008; and ”.
-(3) Section 46 is amended by deleting “Medical Act 1894” and inserting instead —
-“ Medical Practitioners Act 2008 ”.
-”.
+Footnotes no longer applicable.
 On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 36(2) had not come into operation. It reads as follows:
 “
 36.Prisons Act 1981

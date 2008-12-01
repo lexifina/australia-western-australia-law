@@ -21,12 +21,12 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 79 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Reprint 3: The Adoption Act 1994 as at 12 May 2006 (includes amendments listed above)
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Criminal Law Amendment (Homicide) Act 2008 s. 23 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 s. 638 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The day fixed under s. 2(1) of the Adoption Amendment Act (No. 2) 2003 is 1 June 2003: see Gazette 20 May 2003 p. 1783.
 Repealed by the Births, Deaths and Marriages Registration Act 1998.
 The Adoption Amendment Act (No. 2) 2003 s. 7(3) is a transitional provision that is of no further effect.
@@ -59,17 +59,4 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 ”.
 (3) Section 133(1) and section 134(2), (3) and (5) are amended by deleting “lawyer” in each place where it occurs and inserting instead —
 “ legal practitioner ”.
-”.
-On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 1, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 1 reads as follows:
-“
-Schedule 3 — Consequential amendments
-1.Adoption Act 1994 amended
-(1) The amendments in this clause are to the Adoption Act 1994.
-(2) Section 4(1) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894” and inserting instead —
-“ Medical Practitioners Act 2008 ”.
 ”.

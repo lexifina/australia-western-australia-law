@@ -34,21 +34,21 @@ Nurses Amendment Act 2003 Pt. 3 Div. 4 | 9 of 2003 | 9 Apr 2003 | 9 Apr 2003 (se
 Sentencing Legislation Amendment and Repeal Act 2003 s. 84 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Poisons (Appendix A Amendment) Order 2003 published in Gazette 10 Oct 2003 p. 4403-4 | 10 Oct 2003 (see cl. 2)
 Poisons (Appendix A Amendment) Order (No. 2) 2003 published in Gazette 10 Oct 2003 p. 4404-5 | 1 Jan 2004 (see cl. 2)
- | Industrial Hemp Act 2004 Pt. 8 | 1 of 2004 | 12 Mar 2004 | 19 May 2004 (see s. 2 and Gazette 18 May 2004 p. 1561)
- | Reprint 6: The Poisons Act 1964 as at 10 Sep 2004 (includes amendments listed above)
- | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
- | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 107 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
- | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
- | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 11 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
- | Reprint 7: The Poisons Act 1964 as at 1 Sep 2006 (includes amendments listed above)
- | Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
- | Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
- | Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
+Industrial Hemp Act 2004 Pt. 8 | 1 of 2004 | 12 Mar 2004 | 19 May 2004 (see s. 2 and Gazette 18 May 2004 p. 1561)
+Reprint 6: The Poisons Act 1964 as at 10 Sep 2004 (includes amendments listed above)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 107 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 11 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Reprint 7: The Poisons Act 1964 as at 1 Sep 2006 (includes amendments listed above)
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
+Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
+Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Under the Alteration of Statutory Designations Order 2006, a reference to the department of the Public Service with the designation “Department of Agriculture” is, unless the contrary intention appears or the context of the reference otherwise requires, to be read and construed as a reference to the department of the Public Service with the designation “Department of Agriculture and Food”. At the time of this compilation the Minister is known as the Minister for Agriculture and Food.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
@@ -71,22 +71,5 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 (2) Section 32(c) is amended by deleting “by section 69 of the Agriculture and Related Resources Protection Act 1976 or section 8(2) of the Agriculture Protection Board Act 1950” and inserting instead —
 “
 under the Biosecurity and Agriculture Management Act 2007
-”.
-”.
-On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 46, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 46 reads as follows:
-“
-Schedule 3 — Consequential amendments
-46.Poisons Act 1964 amended
-(1) The amendments in this clause are to the Poisons Act 1964.
-(2) Section 5(1) is amended in the definition of “medical practitioner” by deleting “Medical Act 1894” and inserting instead —
-“ Medical Practitioners Act 2008 ”.
-(3) Section 61(b)(i) is amended by deleting “constituted under the Medical Act 1894;” and inserting instead —
-“
-of Western Australia established under the Medical Practitioners Act 2008;
 ”.
 ”.

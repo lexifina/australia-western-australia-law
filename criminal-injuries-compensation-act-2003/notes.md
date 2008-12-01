@@ -10,11 +10,11 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 Reprint 1: The Criminal Injuries Compensation Act 2003 as at 7 Sep 2007 (includes amendments listed above)
 Criminal Law and Evidence Amendment Act 2008 s. 59 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Acts Amendment (Justice) Act 2008 Pt. 7 | 5 of 2008 | 31 Mar 2008 | 31 Jul 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 s. 655 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 The Criminal Injuries Compensation Act 1985 was repealed by s. 73 of this Act.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
@@ -50,17 +50,4 @@ legal experience means —
 (b)judicial service (including service as a judge of a court, a magistrate or other judicial officer) in the State or elsewhere in a common law jurisdiction; or
 (c)a combination of both kinds of legal experience mentioned in paragraphs (a) and (b).
 ”.
-”.
-On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 14, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 14 reads as follows:
-“
-Schedule 3 — Consequential amendments
-14.Criminal Injuries Compensation Act 2003 amended
-(1) The amendments in this clause are to the Criminal Injuries Compensation Act 2003.
-(2) Section 3 is amended in paragraph (b) of the definition of “health professional” by deleting “Medical Act 1894; or” and inserting instead —
-“ Medical Practitioners Act 2008; or ”.
 ”.

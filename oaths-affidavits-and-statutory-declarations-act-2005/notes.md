@@ -6,11 +6,11 @@ Oaths, Affidavits and Statutory Declarations Act 2005 | 23 of 2005 | 2 Dec 2005 
 Oaths, Affidavits and Statutory Declarations (Act Amendment) Regulations 2006 r. 3 published in Gazette 9 Jun 2006 p. 2030 | 9 Jun 2006
 Oaths, Affidavits and Statutory Declarations (Act Amendment) Regulations 2007 r. 4 published in Gazette 21 Dec 2007 p. 6328 | r. 1 and 2: 21 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Dec 2007 (see r. 2(b))
 Acts Amendment (Justice) Act 2008 Pt. 17 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 s. 684 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | To be proclaimed (see s. 2)
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 684 had not come into operation. It reads as follows:
 “
@@ -30,17 +30,4 @@ experienced legal practitioner means a person who is, and has been for at least 
 “
 An Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3.
 ”.
-”.
-On the date as at which this compilation was prepared, the Medical Practitioners Act 2008 s. 162, which gives effect to Sch. 3 cl. 39, had not come into operation. It reads as follows:
-“
-162.Consequential amendments
-Schedule 3 sets out consequential amendments.
-”.
-Schedule 3 cl. 39 reads as follows:
-“
-Schedule 3 — Consequential amendments
-39.Oaths, Affidavits and Statutory Declarations Act 2005 amended
-(1) The amendments in this clause are to the Oaths, Affidavits and Statutory Declarations Act 2005.
-(2) Schedule 2 item 15 is amended by deleting “within the meaning of the Medical Act 1894.” and inserting instead —
-“ as defined in the Medical Practitioners Act 2008 section 4. ”.
 ”.
