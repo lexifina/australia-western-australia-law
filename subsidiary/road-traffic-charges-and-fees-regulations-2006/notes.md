@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 September 2008 of the Road Traffic (Charges and Fees) Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Charges and Fees) Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Charges and Fees) Regulations 2006 | 24 Nov 2006 p. 4843-85 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
@@ -11,6 +11,7 @@ Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2008 | 30 May 2008
 Road Traffic (Charges and Fees) Amendment Regulations (No. 3) 2008 | 30 May 2008 p. 2086 | r. 1 and 2: 30 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Road Traffic Consequential Amendment Regulations 2008 Pt. 2 | 10 Jun 2008 p. 2449-67 | 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 Reprint 1: The Road Traffic (Charges and Fees) Regulations 2006 as at 12 Sep 2008 (includes amendments listed above)
+Road Traffic (Charges and Fees) Amendment Regulations (No. 4) 2008 | 2 Dec 2008 p. 5065 | 2 Dec 2008 (see r. 2)
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 r. 3 reads as follows:
@@ -41,4 +42,3 @@ senior’s card3(1)
 senior’s health card3(1)
 stock3(1)
 theory testSch. 2
-By Authority: JOHN A. STRIJK, Government Printer

@@ -19,7 +19,7 @@ theory test means a theory test to satisfy the Director General that the applica
 3. | For each duplicate tax invoice provided in respect of fees paid for any additional driving tests referred to in item 2 | 7.80
 4. | Grant of a driver’s licence whether or not by way of renewal —
  | (a)for one year | 36.60
- | (b)for 5 years | 116.60
+ | (b)for 5 years | 116.00
  | (c)for any other period | for each year or part of a year, 20% of the fee under paragraph (b)
 5. | Application for the endorsement of a driver’s licence under the Road Traffic (Authorisation to Drive) Regulations 2008 regulation 12(1) to show that it includes extension F | 103.30
 5A. | Application for the endorsement of a driver’s licence under the Road Traffic (Authorisation to Drive) Regulations 2008 regulation 12(1) to show that it includes extension T | 103.30
@@ -27,4 +27,4 @@ theory test means a theory test to satisfy the Director General that the applica
 7. | Each additional hazard perception test in respect of a driver’s licence application | 19.30
 8. | Fee for logbook under the Road Traffic (Authorisation to Drive) Regulations 2008 regulation 16(2)(b) | 18.40
 9. | Copy of excessive demerit points notice previously given to a person under the Road Traffic Act 1974 Part VIA | 18.20
-[Schedule 2 amended in Gazette 22 Dec 2006 p. 5813; 29 May 2007 p. 2502; 22 Jun 2007 p. 2870-1; 10 Jun 2008 p. 2458-9; 30 May 2008 p. 2083.]
+[Schedule 2 amended in Gazette 22 Dec 2006 p. 5813; 29 May 2007 p. 2502; 22 Jun 2007 p. 2870-1; 10 Jun 2008 p. 2458-9; 30 May 2008 p. 2083; 2 Dec 2008 p. 5065.]
