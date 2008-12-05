@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Exotic Diseases (General) Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 December 2008 of the Exotic Diseases (General) Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Exotic Diseases (General) Regulations | 24 Jun 1970 p. 1824-9 | 25 Jun 1970 (see order published 24 Jun 1970 p. 1784)
@@ -31,6 +31,18 @@ Exotic Diseases (General) Amendment Regulations 2003 | 17 Jun 2003 p. 2201-2 | 1
 Exotic Diseases (General) Amendment Regulations 2006 | 16 Jun 2006 p. 2115-16 | 1 Jul 2006 (see r. 2)
 Exotic Diseases (General) Amendment Regulations 2007 | 15 Jun 2007 p. 2755-6 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Exotic Diseases (General) Amendment Regulations 2008 | 20 May 2008 p. 1938-9 | r. 1 and 2: 20 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
-Now known as the Local Government Act 1995.
-Now known as the Exotic Diseases (General) Regulations 1970; citation changed (see note under r. 1).
+Reprint 2: The Exotic Diseases (General) Regulations 1970 as at 5 Dec 2008 (includes amendments listed above)
 These regulations were originally made under the Stock Diseases (Regulations) Act 1968. By virtue of the Exotic Diseases of Animals Act 1993 s. 59(2), these regulations continue as if they had been made under that Act.
+Now see the Local Government Act 1995.
+Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is, unless the contrary is intended, to be read and construed as a reference to the Department of Agriculture and Food.
+Now known as the Exotic Diseases (General) Regulations 1970; citation changed (see note under r. 1).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+Infected Place8(1)
+milk12(1)
+Officer in Charge2
+premises2
+swill13
+treatment licence13
+treatment premises13
