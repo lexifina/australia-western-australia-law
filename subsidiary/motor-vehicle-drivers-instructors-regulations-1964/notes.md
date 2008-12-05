@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Motor Vehicle Drivers Instructors Regulations 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 December 2008 of the Motor Vehicle Drivers Instructors Regulations 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Motor Vehicle Drivers Instructors Regulations 1964 | 10 Mar 1964 p. 1025-9 | 10 Mar 1964
@@ -50,6 +50,7 @@ Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2006 | 28 Nov 20
 Motor Vehicle Drivers Instructors Amendment Regulations 2007 | 22 Jun 2007 p. 2875-6 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2007 (see r. 2(b))
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2007 | 22 Jun 2007 p. 2876-7 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Motor Vehicle Drivers Instructors Amendment (Road Traffic) Regulations 2008 | 13 Jun 2008 p. 2524-5 | r. 1 and 2: 13 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
+Reprint 5: The Motor Vehicle Drivers Instructors Regulations 1964 as at 5 Dec 2008 (includes amendments listed above)
 Under the Alteration of Statutory Designations Order 2003 the name of the former Education Department of Western Australia was changed to the Department of Education and Training.
 Now superseded by the Public Transport Authority of Western Australia.
 Now superseded by the Fire and Emergency Services Authority of Western Australia.
@@ -72,8 +73,8 @@ Schedule 1 — Transitional and saving
 [r. 9]
 1.Interpretation
 In this Schedule —
-“commencement day” means the day on which these regulations come into operation;
-“continuing licence or permit” means a licence or permit granted before the commencement day that would have continued after the beginning of that day had these regulations not come into operation.
+commencement day means the day on which these regulations come into operation;
+continuing licence or permit means a licence or permit granted before the commencement day that would have continued after the beginning of that day had these regulations not come into operation.
 2.Transition of licences and permits
 (1)A continuing licence or a permit that, immediately before the commencement day, was granted in respect of a motor vehicle of a class specified in Schedule 2 column 1 continues as if these regulations had not come into operation, but as a licence or permit for a motor vehicle of a class specified in column 2 opposite the class specified in column 1.
 (2)If what is authorised by a continuing licence or permit is, as a result of subclause (1), more restricted than it would have been if these regulations had not come into operation, the licence or permit also authorises anything that the licence authorised before the commencement day, but that authorisation is limited to the transitional period.
@@ -100,3 +101,16 @@ Any motor cycle | R
 All classes of motor vehicles | R and MC
 [Schedule 2 inserted in Gazette 13 Jul 2001 p. 3472.]
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+axle2
+Department2
+GVM2
+licensing officer2
+motor carrier2
+motor cycle2
+motor vehicle2
+relevant authority2
+semi-trailer2
+trailer2
