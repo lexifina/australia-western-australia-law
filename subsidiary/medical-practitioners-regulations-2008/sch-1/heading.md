@@ -25,3 +25,4 @@
 13. | Fee payable by an applicant for a duplicate certificate of registration | s. 51(2) | 30
 14. | Fee payable by an applicant for amendment of particulars entered in the register | s. 53 | 30
 15. | Fee payable by a medical practitioner for a certificate of good standing | r. 11 and s. 148(2)(h) | 50
+[Schedule 1 correction in Gazette 5 Dec 2008 p. 5087.]
