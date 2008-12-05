@@ -1,5 +1,5 @@
 ## Schedule B
-Exotic diseases transmitted directly or indirectly
+## Exotic diseases transmitted directly or indirectly
 Swine Fever
 African Swine Fever
 Rinderpest

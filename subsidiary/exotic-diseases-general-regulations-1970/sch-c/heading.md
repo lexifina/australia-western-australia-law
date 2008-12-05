@@ -1,5 +1,5 @@
 ## Schedule C
-Exotic diseases transmitted by insect vectors
+## Exotic diseases transmitted by insect vectors
 Bluetongue
 African Horse Sickness
 Surra
