@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Registration of Deeds Regulations 2004 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 5 December 2008 of the Registration of Deeds Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Registration of Deeds Regulations 2004 | 2 Sep 2004 p. 3822-3 | 6 Sep 2004 (see r. 2)
@@ -7,3 +7,10 @@ Registration of Deeds Amendment Regulations 2005 | 24 Jun 2005 p. 2760-1 | 4 Jul
 Registration of Deeds Amendment Regulations 2006 | 7 Jul 2006 p. 2511-12 | 10 Jul 2006 (see r. 2)
 Registration of Deeds Amendment Regulations 2007 | 25 Jun 2007 p. 2966-7 | r. 1 and 2: 25 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2007 (see r. 2(b))
 Registration of Deeds Amendment Regulations 2008 | 20 Jun 2008 p. 2708-9 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Reprint 1: The Registration of Deeds Regulations 2004 as at 5 Dec 2008 (includes amendments listed above)
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+memorial3
+Registrar3
+By Authority: JOHN A. STRIJK, Government Printer
