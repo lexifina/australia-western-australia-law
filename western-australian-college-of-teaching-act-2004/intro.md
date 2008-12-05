@@ -6,4 +6,3 @@ An Act to —
 ·recognise, promote and regulate the teaching profession in Western Australia;
 ·consequentially amend certain Acts,
 and for related purposes.
-The Parliament of Western Australia enacts as follows:
