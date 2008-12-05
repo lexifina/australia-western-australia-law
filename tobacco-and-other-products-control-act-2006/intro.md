@@ -1,6 +1,5 @@
 Western Australia
 Tobacco Products Control Act 2006
-No. 5 of 2006
 An Act to —
 ·prohibit the supply of tobacco products and smoking implements to young persons;
 ·regulate the sale and promotion of tobacco products;
