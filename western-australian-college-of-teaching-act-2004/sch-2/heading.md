@@ -19,3 +19,4 @@
  | s. 20 | Prostitution at place where child present
  | s. 21 | Allowing child to be at place involving prostitution
 [Schedule 2 amended by No. 2 of 2008 s. 72(4).]
+[Schedule 3 omitted under the Reprints Act 1984 s. 7(4)(e).]
