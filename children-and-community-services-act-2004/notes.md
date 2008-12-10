@@ -14,6 +14,7 @@ Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 Sch. 2 cl. 25 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 Legal Profession Act 2008 s. 642 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 3-11 | 26 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
+Surrogacy Act 2008 Pt. 4 Div. 2 | 47 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 On the date as at which this reprint was prepared, the Children and Community Services Act 2004 Sch. 2 cl. 25 had not come into operation. It reads as follows:
 “
@@ -342,4 +343,19 @@ Section 241(3) is amended as follows:
 ”.
 (2) Section 249(2) is amended by inserting after “subsection (1)” —
 “ or (1a) ”.
+”.
+On the date as at which this compilation was prepared, the Surrogacy Act 2008 Pt. 4 Div. 2 had not come into operation. It reads as follows:
+“
+Part 4 — Other Acts amended
+Division 2 — Children and Community Services Act 2004 amended
+56.Act amended
+This Division amends the Children and Community Services Act 2004.
+57.Section 104 amended
+(1) In section 104(2):
+(a) before paragraph (f) insert:
+(fa) caring for the child under a surrogacy arrangement, as defined in the Surrogacy Act 2008, and not more than one year has elapsed since the day on which the child was born; or
+(b) after each of paragraphs (a) to (d) insert:
+or
+(2) In section 104(4) after each of paragraphs (a) to (c) insert:
+and
 ”.
