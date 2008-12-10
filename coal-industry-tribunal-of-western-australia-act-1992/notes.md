@@ -15,6 +15,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 s. 647 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Training Legislation Amendment and Repeal Act 2008 s. 51 | 44 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 Repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
 On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 647 had not come into operation. It reads as follows:
 “
@@ -26,3 +27,10 @@ an Australian legal practitioner (within the meaning of that term in the Legal P
 ”.
 ”.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
+On the date as at which this compilation was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 51 had not come into operation. It reads as follows:
+“
+51.Coal Industry Tribunal of Western Australia Act 1992 amended
+(1) This section amends the Coal Industry Tribunal of Western Australia Act 1992.
+(2) In section 3 in the definition of employee in paragraph (a) delete “apprentice or industrial trainee;” and insert:
+apprentice;
+”.
