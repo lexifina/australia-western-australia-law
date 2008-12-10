@@ -14,6 +14,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Vocational Education and Training Act 1996 s. 61-62 and Sch. 2 cl. 2 | 42 of 1996 | 16 Oct 1996 | To be proclaimed (see s. 2)
+Training Legislation Amendment and Repeal Act 2008 s. 50 | 44 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 Repealed by the Industrial Arbitration Act 1979 (No. 114 of 1979) which is now cited as the Industrial Relations Act 1979.
 Now see Department of Productivity and Labour Relations.
 Now see Interpretation Act 1984 (No. 112 of 1984).
@@ -37,3 +38,8 @@ repealed Act means the Industrial Training Act 1975 repealed by section 61.
 (4) Regulations may be made, with effect from a time which is not earlier than the commencement of section 61, amending or supplementing the transitional provisions set out in subclauses (2) and (3) for the purpose of providing an effective and efficient transition from the provisions of the repealed Act to the provisions of this Act.
 ”.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
+On the date as at which this compilation was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 50 had not come into operation. It reads as follows:
+“
+50.Act repealed
+The Industrial Training Act 1975 is repealed.
+”.
