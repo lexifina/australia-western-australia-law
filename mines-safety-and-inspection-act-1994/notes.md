@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 May 2008 of the Mines Safety and Inspection Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Mines Safety and Inspection Act 1994 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Mines Safety and Inspection Act 1994 | 62 of 1994 | 7 Nov 1994 | s. 1 and 2: 7 Nov 1994; Act other than s. 1 and 2: 9 Dec 1995 (see s. 2 and Gazette 8 Dec 1995 p. 5935)
@@ -22,6 +22,10 @@ Reprint 3: The Mines Safety and Inspection Act 1994 as at 10 Jun 2005 (includes 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Mines Safety and Inspection Amendment Act 2008 | 16 of 2008 | 16 Apr 2008 | s. 1 and 2: 16 Apr 2008 (see s. 2(a)); Act other than s. 1 and 2: 17 Apr 2008 (see s. 2(b))
 Reprint 4: The Mines Safety and Inspection Act 1994 as at 16 May 2008 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Training Legislation Amendment and Repeal Act 2008 s. 55 | 44 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 The amendment in the Coroners Act 1996 Sch. 1 it. 11 is not included because of an error in the reference to the provision to be amended. The amendment intended was made in the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 51.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 100 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(10).
 The Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 115(7) reads as follows:
@@ -65,6 +69,19 @@ The Mines Safety and Inspection Amendment Act 2004 s. 85(2) reads as follows:
 The Mines Safety and Inspection Amendment Act 2004 s. 86(2) reads as follows:
 “
 (2) An appeal brought under section 86 of the Mines Safety and Inspection Act 1994 but not finally determined before the commencement of subsection (1), may be dealt with and determined under that section as if subsection (1) had not been enacted.
+”.
+On the date as at which this compilation was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 55 had not come into operation. It reads as follows:
+“
+55.Mines Safety and Inspection Act 1994 amended
+(1) This section amends the Mines Safety and Inspection Act 1994.
+(2) In section 4(1) delete the definitions of apprentice and trainee.
+(3) In section 4(1) insert in alphabetical order:
+apprentice means a person who is an apprentice under a training contract registered under the Vocational Education and Training Act 1996 Part 7 Division 2;
+(4) In section 4(1) in the definition of employee delete “or trainee”.
+(5) In section 4(1) in the definition of employer delete paragraph (b) and insert:
+(b)in relation to an apprentice, a person who employs the apprentice at a mine under a training contract registered under the Vocational Education and Training Act 1996 Part 7 Division 2;
+(6) In section 4(1) in the definition of self-employed person in paragraph (b)delete “apprentice or trainee,” and insert:
+apprentice,
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
