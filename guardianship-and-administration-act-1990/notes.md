@@ -33,6 +33,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 s. 667 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
+Surrogacy Act 2008 Pt. 4 Div. 4 | 47 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Guardianship and Administration Amendment Act 2000 s. 21 reads as follows:
 “
@@ -567,4 +568,14 @@ a decision in respect of the matter must be made by the guardian.
 14.Review of the Guardianship and Administration Act 1990
 (1) The Minister administering the Guardianship and Administration Act 1990 is to carry out a review of the operation and effectiveness of the provisions of the Guardianship and Administration Act 1990 and the relevant sections of The Criminal Code as soon as practicable after the expiration of 3 years from the commencement of this Act.
 (2) The Minister is to prepare a report based on the review made under subsection (1) and cause the report to be laid before each House of Parliament within 4 years after the commencement of this Act.
+”.
+On the date as at which this compilation was prepared, the Surrogacy Act 2008 Pt. 4 Div. 4 had not come into operation. It reads as follows:
+“
+Part 4 — Other Acts amended
+Division 4 — Guardianship and Administration Act 1990 amended
+63.Act amended
+This Division amends the Guardianship and Administration Act 1990.
+64.Section 45 amended
+After section 45(3)(c) insert:
+(da) consent, under section 21(2)(d) of the Surrogacy Act 2008, to the making of a parentage order under that Act; or
 ”.
