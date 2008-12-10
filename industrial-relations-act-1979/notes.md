@@ -79,6 +79,7 @@ Vocational Education and Training Act 1996 s. 62 | 42 of 1996 | 16 Oct 1996 | To
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
 Legal Profession Act 2008 s. 668 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Training Legislation Amendment and Repeal Act 2008 s. 53 | 44 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
 The Labour Relations Reform Act 2002 s. 112, 113(6), 117(2) and (3), 138(2), 140(2), 141(2), 146(2), 152(2), 155(2) and (3), 186(2)-(4) and Sch. 1 read as follows:
@@ -257,4 +258,44 @@ legal experience means —
 section 12 of the Legal Profession Act 2008
 ”.
 (6) Section 91(3) is repealed.
+”.
+On the date as at which this compilation was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 53 had not come into operation. It reads as follows:
+“
+53.Industrial Relations Act 1979 amended
+(1) This section amends the Industrial Relations Act 1979.
+(2) In section 7(1) delete the definitions of apprentice and trainee.
+(3) In section 7(1) insert in alphabetical order:
+apprentice means a person who is an apprentice under a training contract registered under the Vocational Education and Training Act 1996 Part 7 Division 2;
+(4) In section 7(1) in the definition of employee in paragraph (a) delete “apprentice or trainee;” and insert:
+apprentice;
+(5) In section 7(1) in the definition of group training organisation delete “and trainees” (each occurrence).
+(6) In section 7(1) in the definition of industrial matter delete paragraph (f) and insert:
+(f)in respect of apprentices, these additional matters —
+(i)their wage rates and, subject to the Vocational Education and Training Act 1996 Part 7 Division 2, other conditions of employment; and
+(ii)the wages, allowances and other remuneration to be paid to them, including for time spent in performing their obligations under training contracts registered under the Vocational Education and Training Act 1996 Part 7 Division 2, whether at their employers’ workplaces or not; and
+(iii)without limiting subparagraphs (i) and (ii), those other rights, duties and liabilities of them and their employers under such contracts that do not relate to the training and assessment they are to undergo, whether at their employers’ workplaces or not;
+(7) In section 50A(1)(a):
+(a) in subparagraph (i) delete “apprentices or trainees;” and insert:
+apprentices;
+(b) delete subparagraph (iii).
+(8) In section 50A(5) delete “employee, apprentice or trainee” (each occurrence) and insert:
+employee or apprentice
+(9) In section 50A(6):
+(a) delete “employee, apprentice or trainee” (first occurrence) and insert:
+employee or apprentice
+(b) delete “employee, apprentice or trainee.” (second occurrence) and insert:
+employee or apprentice.
+(10) In section 50B(1):
+(a) delete “or trainees” (each occurrence);
+(b) delete “apprentice or trainee; or” and insert:
+apprentice; or
+(11) In section 50B(2) delete “or trainees” (each occurrence).
+(12) In section 50B(3):
+(a) delete “apprentice and each class of trainee —” and insert:
+apprentice —
+(b) delete “or trainees, as is relevant to the case,”.
+(13) In section 50B(4):
+(a) delete “or trainees” (each occurrence);
+(b) delete “apprentice or trainee,” and insert:
+apprentice,
 ”.
