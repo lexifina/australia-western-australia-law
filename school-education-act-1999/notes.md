@@ -18,6 +18,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
+Training Legislation Amendment and Repeal Act 2008 s. 61 | 44 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
 On the date as at which this compilation was prepared, the School Education Act 1999 s. 182(3) and 208 had not come into operation. They read as follows:
@@ -49,3 +50,33 @@ year 11 and year 12 have the meanings given to those terms by section 4 of the p
 as mentioned in section 11B(1) of the principal Act (inserted by section 20), notice under section 11D(1) of the principal Act (as so inserted) must be given no later than 1 February 2006.
 ”.
 The Financial Legislation Amendment and Repeal Act 2006 (now known as the Financial Management (Transitional Provisions) Act 2006) Sch. 2 deals with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 61 had not come into operation. It reads as follows:
+“
+61.School Education Act 1999 amended
+(1) This section amends the School Education Act 1999.
+(2) In section 4 insert in alphabetical order:
+apprentice means an apprentice under a training contract registered under the Vocational Education and Training Act 1996 Part 7 Division 2;
+(3) In section 11A(2) in the Table to the definition of provider delete items 3 and 4 and insert:
+3. | A student undertaking an approved VET course within the meaning given to that term by the Vocational Education and Training Act 1996 section 5(1). | The registered training provider (within the meaning given to that term by that Act section 5(1)), or a person referred to in section 58A(2) of that Act, who provides the course.
+4. | An apprentice. | The employer.
+(4) In section 11B(1):
+(a) delete paragraphs (b) and (c) and insert:
+(b) undertaking an approved VET course within the meaning given to that term by the Vocational Education and Training Act 1996 section 5(1); or
+(c) being an apprentice; or
+(b) after paragraph (a) insert:
+or
+(5) In section 11D(1)(b) delete “or trainee”.
+(6) In section 11D(5) delete “or trainee”.
+(7) In section 11I(2):
+(a) delete “or trainee”;
+(b) in paragraph (a) delete “apprenticeship or traineeship; or” and insert:
+apprenticeship; or
+(8) In section 11J(2)(a) delete “apprentice or trainee; or” and insert:
+apprentice; or
+(9) In section 11J(3) delete “apprenticeship, traineeship” and insert:
+apprenticeship
+(10) In section 11J(4) delete “apprenticeship, traineeship” and insert:
+apprenticeship
+(11) In section 40(1b) delete “ or traineeship”.
+(12) In section 42(1b) delete “ or traineeship”.
+”.
