@@ -21,6 +21,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 s. 676 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Training Legislation Amendment and Repeal Act 2008 s. 54 | 44 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 Repealed by the Statute Law Revision Act 1950 of the Commonwealth.
 Repealed by the Defence Legislation Amendment Act 1992 of the Commonwealth.
 Repealed by the Industrial Relations (Consequential Provisions) Act 1988 of the Commonwealth.
@@ -59,4 +60,14 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 “
 an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3)
 ”.
+”.
+On the date as at which this compilation was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 54 had not come into operation. It reads as follows:
+“
+54.Long Service Leave Act 1958 amended
+(1) This section amends the Long Service Leave Act 1958.
+(2) In section 4(1) delete the definitions of apprentice and industrial trainee.
+(3) In section 4(1) insert in alphabetical order:
+apprentice means a person who is an apprentice under a training contract registered under the Vocational Education and Training Act 1996 Part 7 Division 2;
+(4) In section 4(1) in the definition of employee in paragraph (a) delete “apprentice or industrial trainee;” and insert:
+apprentice;
 ”.
