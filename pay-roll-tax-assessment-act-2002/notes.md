@@ -9,6 +9,10 @@ Revenue Laws Amendment (Tax Relief) Act 2004 | 82 of 2004 | 8 Dec 2004 | Pt. 2 D
 Revenue Laws Amendment Act 2005 Pt. 2 | 11 of 2005 | 30 Aug 2005 | 18 May 2005 (see s. 2(2))
 Reprint 1: The Pay-roll Tax Assessment Act 2002 as at 6 Jan 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Training Legislation Amendment and Repeal Act 2008 s. 59 | 44 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 The Revenue Laws Amendment (Tax Relief) Act 2004 s. 5(6) reads as follows:
 “
 (6) The amendments made by this section do not affect an exemption given before the coming into operation of this section.
@@ -218,4 +222,15 @@ corresponding Pay-roll Tax Assessment Act means the Pay-roll Tax Assessment Act 
 “
 (3) In subclause (1)(a) and (b), a reference to Western Australia (except the references inserted by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007 clause 35(5)(a)) is to be read as referring only to Commonwealth places in Western Australia.
 ”.
+”.
+On the date as at which this compilation was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 59 had not come into operation. It reads as follows:
+“
+59.Pay-roll Tax Assessment Act 2002 amended
+(1) This section amends the Pay-roll Tax Assessment Act 2002.
+(2) In section 40(2):
+(a) delete paragraph (m) and insert:
+(m) by an employer to or in relation to a person who is an apprentice under a training contract registered under the Vocational Education and Training Act 1996 Part 7 Division 2; or
+(b) delete paragraph (p);
+(c) after each of paragraphs (a) to (l), (n) and (o) insert:
+or
 ”.
