@@ -32,6 +32,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 65, 66 and 68 | 51 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Petroleum Legislation Amendment and Repeal Act 2005 s. 50 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
+Training Legislation Amendment and Repeal Act 2008 s. 57 | 44 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Occupational Safety and Health Act 1984; short title changed (see note under s. 1).
@@ -147,4 +148,18 @@ On the date as at which this compilation was prepared, the Petroleum Amendment A
 “
 Petroleum and Geothermal Energy Resources Act 1967,
 ”.
+”.
+On the date as at which this compilation was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 57 had not come into operation. It reads as follows:
+“
+57.Occupational Safety and Health Act 1984 amended
+(1) This section amends the Occupational Safety and Health Act 1984.
+(2) In section 3(1) delete the definitions of apprentice and trainee.
+(3) In section 3(1) insert in alphabetical order:
+apprentice means a person who is an apprentice under a training contract registered under the Vocational Education and Training Act 1996 Part 7 Division 2;
+(4) In section 3(1) in the definition of employee delete paragraph (b) and insert:
+(b)an apprentice;
+(5) In section 3(1) in the definition of employer delete paragraph (b) and insert:
+(b)in relation to an apprentice, a person who employs the apprentice under a training contract registered under the Vocational Education and Training Act 1996 Part 7 Division 2;
+(6) In section 3(1) in the definition of self-employed person delete paragraph (b) and insert:
+(b)as an apprentice,
 ”.
