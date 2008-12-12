@@ -110,7 +110,7 @@ MemorialNumber
 Dated this day of 20
 ............................ Sheriff
 [Form 6B inserted in Gazette 30 Jun 1995 p. 2642; amended in Gazette 13 May 2005 p. 2082.]
-_________________
+____________
 [Form 7 deleted in Gazette 4 Oct 1996 p. 5233.]
 8.Certificate under section 101C (Part 3 order)
 Fines, Penalties and Infringement Notices Enforcement Act 1994
