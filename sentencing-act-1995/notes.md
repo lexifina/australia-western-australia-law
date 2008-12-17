@@ -54,6 +54,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Sentencing Legislation (Transitional Provisions) Amendment Act 2008 s. 3-5 | 49 of 2008 | 17 Dec 2008 | 14 Jan 2009
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
@@ -222,4 +223,26 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 54.Sentencing Act 1995 amended
 (1) The amendment in this section is to the Sentencing Act 1995.
 (2) Schedule 1 is amended by deleting the item relating to the Cattle Industry Compensation Act 1965.
+”.
+On the date as at which this compilation was prepared, the Sentencing Legislation (Transitional Provisions) Amendment Act 2008 s. 3-5 to amend the Sentencing Legislation Amendment and Repeal Act 2003 had not come into operation. They read as follows:
+“
+3.Schedule 1 clause 2 deleted
+Delete Schedule 1 clause 2.
+4.Schedule 1 clause 3A inserted
+Before Schedule 1 clause 3 insert:
+3A.Provisions relating to deletion of clause 2
+(1) In this clause —
+clause 2 means clause 2 of this Schedule as in force immediately before the relevant commencement;
+minimum custodial period of a fixed term, is the amount of the fixed term required to be served in custody before the offender would be, or was or would have been, eligible or entitled to be released, whether on parole or on being discharged from the sentence;
+relevant commencement means the commencement of the Sentencing Legislation (Transitional Provisions) Amendment Act 2008.
+(2) After the relevant commencement, clause 2 does not apply to the sentencing of an offender for an offence —
+(a) even if the offence was committed before the relevant commencement; and
+(b) even if the offender was convicted before the relevant commencement; and
+(c) even if the sentencing is as a result of an appeal against a sentence imposed before the relevant commencement,
+despite any written or unwritten law to the contrary.
+(3) A court sentencing an offender to a fixed term can have regard to the minimum custodial period of the fixed term to be imposed and the minimum custodial periods of fixed terms imposed before the relevant commencement, whether or not clause 2 applied to their imposition.
+(4) A court sentencing an offender to a fixed term can impose a penalty up to the statutory penalty for the offence.
+(5) This clause expires 3 years after the relevant commencement.
+5.Schedule 1 clause 14 deleted
+Delete Schedule 1 clause 14.
 ”.
