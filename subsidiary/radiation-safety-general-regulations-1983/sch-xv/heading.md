@@ -28,8 +28,7 @@ In the case of —
 (a)irradiating apparatus and/or electronic products | 55 | 111
 (b)radioactive substances | 55 | 111
 Part 2 — Temporary permits
-Fee for temporary permits for periods of 3 months
-or part thereof.
+Fee for temporary permits for periods of 3 months or part thereof.
  | $
 (1)In respect of premises (other than premises used solely for the mining and milling of radioactive ores (including mineral sands)) and radioactive substances.
 Maximum quantity:

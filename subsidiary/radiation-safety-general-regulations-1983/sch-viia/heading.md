@@ -1,6 +1,6 @@
 ## Schedule VIIA
 [Regulation 7A]
-Exempted self luminous devices
+## Exempted self luminous devices
 ModelType
 Permluco self powered signFO 1
 Permluco self powered signFO 3

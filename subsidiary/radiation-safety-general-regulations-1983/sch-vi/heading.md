@@ -1,6 +1,6 @@
 ## Schedule VI
 [Regulation 5]
-Exempt quantities of radioactive substances in certain timekeeping and other devices
+## Exempt quantities of radioactive substances in certain timekeeping and other devices
 Table 1.Wrist watches
 Radioactive substance | Maximum quantity
 H | 1 gigabecquerel
