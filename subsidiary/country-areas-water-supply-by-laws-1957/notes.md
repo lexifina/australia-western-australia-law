@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Country Areas Water Supply By-laws 1957 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 December 2008 of the Country Areas Water Supply By-laws 1957 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Untitled by-laws | 20 Jun 1957 p. 1947-78 | 1 Jul 1957 (see bl. 1)
@@ -83,54 +83,52 @@ Country Areas Water Supply Amendment By-laws 2005 | 26 Apr 2005 p. 1397-8 | 26 A
 Water Agencies Amendment By-laws 2005 Pt. 3 | 1 Jul 2005 p. 3009-17 | 1 Jul 2005 (see bl. 2)
 Reprint 3: The Country Areas Water Supply By-laws 1957 as at 17 Mar 2006 (includes amendments listed above)
 Water Agencies Amendment By-laws 2006 Pt. 3 | 30 Jun 2006 p. 2399-412 | 1 Jul 2006 (see bl. 2)
-Water Agencies Amendment By-laws 2007 Pt. 3 | 29 Jun 2007 p. 3233-44 | 1 Jul 2007 (see bl. 2)
+Water Agencies Amendment By-laws 2007 Pt. 3 | 29 Jun 2007 p. 3233-44 | 1 Jul 2007 (see bl. 2(b))
 Country Areas Water Supply Amendment By-laws 2008 | 23 May 2008 p. 2006-8 | bl. 1 and 2: 23 May 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 24 May 2008 (see bl. 2(b))
 Water Agencies Amendment By-laws 2008 Pt. 3 | 27 Jun 2008 p. 3076-84 | 1 Jul 2008 (see bl. 2(b))
 Country Areas Water Supply Amendment By-laws (No. 3) 2008 | 26 Aug 2008 p. 4032 | bl. 1 and 2: 26 Aug 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Aug 2008 (see bl. 2(b))
+Reprint 4: The Country Areas Water Supply By-laws 1957 as at 19 Dec 2008 (includes amendments listed above)
 These by-laws have effect for the purposes of the Country Areas Water Supply Act 1947 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
-Repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988.
+The Water Resources Legislation Amendment Act 2007 s. 223 reads as follows:
+“
+223.Agreements and instruments generally
+(1) Any agreement or instrument (including subsidiary legislation) in force immediately before the transfer time —
+(a) to which a former body was a party; or
+(b) which contains a reference to a former body,
+has effect after the transfer time, to the extent to which the agreement or instrument relates to the functions of a relevant successor to the former body, as if —
+(c) the relevant successor were substituted for the former body as a party to the agreement or instrument; and
+(d) any reference in the agreement or instrument to the former body were (unless the context otherwise requires) amended to be or include a reference to the relevant successor.
+(2) This section does not apply to any agreement or instrument covered by another provision of this Part.
+”.
+Repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988 which is now known as the Liquor Control Act 1988.
 Repealed by the Factories and Shops Act 1963, which was repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
 Now known as the Country Areas Water Supply By-laws 1957; citation changed (see note under bl. 1).
-The Water Authority Amendment By-laws 1995 bl. 3 is an application provision that is of no further effect.
-The Water Agencies Amendment By-laws 1997 bl. 3 is an application provision that is of no further effect.
-The Water Agencies Amendment By-laws 1999 bl. 3 is an application provision that is of no further effect.
-The Water Agencies Amendment By-laws 2000 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2000 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2001 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2001 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2003 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2003 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2004 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2004 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2005 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2005 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2006 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2006 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2007 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2007 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
+These by-laws contain an application provision concerning fees and charges for a period commencing before, or for a matter or thing done before, the by-laws came into operation.
 The Water Agencies Amendment By-laws 2008 bl. 3 reads as follows:
 “
 3.Application
 Nothing in these by-laws affects the application after 1 July 2008 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+Australian Standard1A(1)
+cesspool1A(3)
+commercial purposes1A(1)
+domestic purposes1A(1)
+drain1A(3)
+feeder1A(1)
+house1A(3)
+inspector1A(1)
+land1A(3)
+licensed water supply plumber1A(1)
+multi-unit development77(7)
+owner1A(3)
+piggery1A(3)
+plumbing standards1A(1)
+principal Act1A(1)
+private service1A(1)
+public house1A(3)
+water supply plumbing work1A(1)
+working day1A(1)
+By Authority: JOHN A. STRIJK, Government Printer
