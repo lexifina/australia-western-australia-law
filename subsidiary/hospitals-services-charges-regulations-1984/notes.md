@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 22 August 2008 of the Hospitals (Services Charges) Regulations 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Hospitals (Services Charges) Regulations 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Hospitals (Services Charges) Regulations 1984 | 27 Jan 1984 p. 231-4 | 1 Feb 1984 (see r. 2)
@@ -105,6 +105,7 @@ Hospitals (Services Charges) Amendment Regulations (No. 3) 2007 | 30 Oct 2007 p.
 Hospitals (Services Charges) Amendment Regulations 2008 | 25 Jan 2008 p. 213-14 | r. 1 and 2: 25 Jan 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Jan 2008 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 2) 2008 | 10 Jun 2008 p. 2488-9 | r. 1 and 2: 10 Jun 2008 (see r. 2(a)); r. 4(1)(c) and (d): 11 Jun 2008 (see r. 2(b)); Regulations other than r. 1, 2, 4(1)(c) and (d): 1 Jul 2008 (see r. 2(c))
 Reprint 6: The Hospitals (Services Charges) Regulations 1984 as at 22 Aug 2008 (includes amendments listed above)
+Hospitals (Services Charges) Amendment Regulations (No. 4) 2008 | 19 Dec 2008 p. 5364 | r. 1 and 2: 19 Dec 2008 (see r. 2(a)); Regulations other than r. 1and 2 20 Dec 2008 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with the Interpretation Act 1984 s. 42(1), subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date of 1 September 1990 that was specified in these regulations was before the date of their publication in the Gazette.
