@@ -39,7 +39,7 @@ Item | Matter | Fee $
  | Real property, assessed on the annual rental value of the property delivered —
  | (a)For amounts up to and including $13 500, a fee at the rate of ........................................................ | 5.00%
  | (b)For the balance over $13 500, a fee at the rate of ........................................................................ | 2.50%
- | Note 1: If real property is delivered in accordance with a property (seizure and delivery) order made by the Magistrates Court, the maximum amount payable under this item is $208.00.
+ | Note 1: If real property is delivered in accordance with a property (seizure and delivery) order made by the Magistrates Court, the maximum amount payable under this item is $215.00.
 11. | On the execution of an arrest warrant of any kind —
  | (a)for arresting the person ................................... | 78.00
  | (b)for conveying the person to a court or a custodial place and releasing the person from arrest or custody .............................................. | 78.00
@@ -62,4 +62,4 @@ Item | Matter | Fee $
 19. | Copies of documents —
  | (a)Copies of enforcement orders, for each page ..... | 1.50
  | (b)For certifying that a document is a true copy, an additional fee of .................................................. | 12.00
-[Schedule 2 amended in Gazette 23 Jun 2006 p. 2176-7; 26 Jun 2007 p. 3038-9; 27 Jun 2008 p. 3074.]
+[Schedule 2 amended in Gazette 23 Jun 2006 p. 2176-7; 26 Jun 2007 p. 3038-9; 27 Jun 2008 p. 3074; 23 Dec 2008 p. 5471.]
