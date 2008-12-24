@@ -18,7 +18,7 @@ NOTE Fee under item 7(a) for a copy of an application is not payable where circu
 NOTE 1 A minimum fee of $17.25 is payable under item 8(a). NOTE 2 Fees under this item are payable in the case of an indictable offence dealt with summarily.
 [Division 1 amended in Gazette 23 Jun 2006 p. 2178-9; 26 Jun 2007 p. 3033-4; 16 May 2008 p. 1911; 27 Jun 2008 p. 3068-9.]
 ## Division 2 — Civil jurisdiction
-Item | Matter | Claim not exceeding $7 500 | Claim exceeding $7 500 but not exceeding $25 000 | Claim exceeding $25 000
+Item | Matter | Claim not exceeding $10 000 | Claim exceeding $10 000 but not exceeding $50 000 | Claim exceeding $50 000
  |  | Individual $ | Person other than individual $ | Individual $ | Person other than individual $ | Individual $ | Person other than individual $
 1. | On filing any claim or any originating process to commence proceedings in the Court. | 71.50 | 108.00 | 183.00 | 275.00 | 292.00 | 438.00
 NOTE Not payable in respect of applications made under item 10 or 11.
@@ -45,7 +45,7 @@ NOTE 1 The fee under paragraph (a) is payable whether or not the Sheriff’s fun
 NOTE 2 The fee under paragraph (a) includes — (a)receipt of the warrant; and (b)attendances and inquiries before attempting arrest; and (c)giving any notice; and (d)making any report.
 10. | For an application for an extraordinary drivers licence under the Road Traffic Act 1974 | 183.00
 11. | On filing — (a)an application for a misconduct restraining order under the Restraining Orders Act 1997; (b)an application under the Disposal of Uncollected Goods Act 1970; (c)an application under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 101 or 101A; (d)an application under the Dividing Fences Act 1961; (e)an application under the Pawnbrokers and Second-hand Dealers Act 1994. | 71.50
-[Division 2 amended in Gazette 23 Jun 2006 p. 2179-81; 26 Jun 2007 p. 3034-5; 27 Jun 2008 p. 3069-70.]
+[Division 2 amended in Gazette 23 Jun 2006 p. 2179-81; 26 Jun 2007 p. 3034-5; 27 Jun 2008 p. 3069-70; 23 Dec 2008 p. 5472-3.]
 ## Division 3 — Criminal jurisdiction
 Item | Matter | $
 1. | On filing —

@@ -1,5 +1,5 @@
 Notes
-This is a compilation as at of the Magistrates Court (Fees) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Magistrates Court (Fees) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Magistrates Court (Fees) Regulations 2005 | 28 Apr 2005 p. 1573-603 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -8,3 +8,4 @@ Magistrates Court (Fees) Amendment Regulations 2007 | 26 Jun 2007 p. 3033-5 | r.
 Magistrates Court (Fees) Amendment Regulations (No. 2) 2008 | 27 Jun 2008 p. 3068-70 | r. 1 and 2: 27 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Magistrates Court (Fees) Amendment Regulations 2008 | 16 May 2008 p. 1910-11 | r. 1 and 2: 16 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Sep 2008 (see r. 2(b) and Gazette 11 Jul 2008 p. 3253)
 Magistrates Court (Fees) Amendment Regulations (No. 3) 2008 | 22 Aug 2008 p. 3669-70 | r. 1 and 2: 22 Aug 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Sep 2008 (see r. 2(b) and Gazette 11 Jul 2008 p. 3253)
+Magistrates Court (Fees) Amendment Regulations (No. 4) 2008 | 23 Dec 2008 p. 5472-3 | r. 1 and 2: 23 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Dec 2008 (see r. 2(b))
