@@ -36,6 +36,7 @@ Settlement Agents Amendment Regulations (No. 3) 2007 | 26 Oct 2007 p. 5651-2 | r
 Settlement Agents Amendment Regulations (No. 4) 2007 | 28 Dec 2007 p. 6407-11 | r. 1 and 2: 28 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Dec 2007 (see r. 2(b))
 Reprint 4: The Settlement Agents Regulations 1982 as at 1 Feb 2008 (includes amendments listed above)
 Settlement Agents Amendment Regulations 2008 | 17 Jun 2008 p. 2559-60 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Settlement Agents Amendment Regulations (No. 2) 2008 | 23 Dec 2008 p. 5469-70 | r. 1 and 2: 23 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Dec 2008 (see r. 2(b))
 These regulations were in place of the Settlement Agents Amendment Regulations 1996 published in Gazette 5 Jul 1996 p. 3224-5. Those regulations were published in the Gazette after the day on which they purported to commence (1 Jul 1996 — see proclamation published in Gazette 1 Jul 1996 p. 3179 fixing 1 Jul 1996 as the day on which Part 9 of the Business Licensing Amendment Act 1995 came into operation).
 The Settlement Agents Amendment Regulations (No. 2) 2004 r. 4 (as amended in Gazette 21 Jan 2004 p. 258 and 16 Jun 2006 p. 2122) reads as follows:
 “
@@ -47,6 +48,7 @@ Despite the repeal effected by regulation 3, in relation to an application for a
 (ii) a Certificate IV in Conveyancing.
 [Regulation 4 amended in Gazette 21 Jan 2005 p. 258; 16 Jun 2006 p. 2122.]
 ”.
+The Settlement Agents Amendment Regulations (No. 2) 2008 were published on 23 Dec 2008 p. 5469-70 and again on 30 Dec 2008 p. 5640-1. The publication of 30 Dec 2008 has no effect.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
