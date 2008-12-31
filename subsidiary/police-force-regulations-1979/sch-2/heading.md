@@ -9,5 +9,5 @@ ________________________________
 Name
 Medical Practitioner
 [Third Schedule inserted in Gazette 22 Jan 1988 p. 128.]
-[Fourth Schedule repealed in Gazette 15 Dec 2006 p. 5636.]
-[Fifth Schedule repealed in Gazette 17 Mar 1995 p. 1055.]
+[Fourth Schedule deleted in Gazette 15 Dec 2006 p. 5636.]
+[Fifth Schedule deleted in Gazette 17 Mar 1995 p. 1055.]
