@@ -49,39 +49,4 @@ Betting Control Amendment Regulations (No. 2) 2007 | 22 Jun 2007 p. 2863-5 | r. 
 Reprint 5: The Betting Control Regulations 1978 as at 24 Aug 2007 (includes amendments listed above)
 Betting Control Amendment Regulations (No. 3) 2007 | 18 Sep 2007 p. 4716-18 | r. 1 and 2: 18 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2007 (see r. 2(b))
 Betting Control Amendment Regulations (No. 4) 2007 | 9 Oct 2007 p. 5348-50 | r. 1 and 2: 9 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2008 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Betting Control Amendment Regulations 2008 r. 4 | 28 Oct 2008 p. 4732-3 | 1 Jan 2009 (see r. 2(b))
-On the date as at which this compilation was prepared, the Betting Control Amendment Regulations 2008 r. 4 had not come into operation. It reads as follows:
-“
-4.Regulation 17 amended
-(1) Regulation 17(1) is amended as follows:
-(a) in paragraph (ac) by deleting “$285;” and inserting instead —
-“ $300; ”;
-(b) in paragraph (ad) by deleting “$60;” and inserting instead —
-“ $65; ”;
-(c) in paragraph (a) by deleting “$575;” and inserting instead —
-“ $595; ”;
-(d) in paragraph (ba) by deleting “$140;” and inserting instead —
-“ $145; ”;
-(e) in paragraph (bb) by deleting “$75;” and inserting instead —
-“ $80; ”;
-(f) in paragraph (c) by deleting “$135;” and inserting instead —
-“ $140; ”;
-(g) in paragraph (f) by deleting “$535.” and inserting instead —
-“ $550. ”.
-(2) Regulation 17(2) is amended by deleting “$85.” and inserting instead —
-“ $90. ”.
-(3) Regulation 17(3) is amended by deleting “$85.” and inserting instead —
-“ $90. ”.
-5.Regulation 17A amended
-Regulation 17A(1)(a) and “and” after it are deleted and the following is inserted instead —
-“
-(a) paid, in respect of each assessment year commencing on 1 August and ending on 31 July, at the following rates for that year —
-(i) on total turnover not exceeding $250 000 ....................................... $315;
-(ii) on total turnover greater than $250 000 but not exceeding $1 000 000 .................................... $635;
-(iii) on total turnover greater than $1 000 000 .................................... $955;
-and
-”.
-”.
+Betting Control Amendment Regulations 2008 | 28 Oct 2008 p. 4732-3 | r. 1 and 2: 28 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2009 (see r. 2(b))
