@@ -57,32 +57,10 @@ Reprint 6: The Occupational Safety and Health Regulations 1996 as at 22 Feb 2008
 Occupational Safety and Health Amendment Regulations (No. 6) 2008 | 4 Apr 2008 p. 1314-15 | r. 1 and 2: 4 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Apr 2008 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 7) 2008 | 17 Jun 2008 p. 2573-5 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 4) 2008 | 7 Nov 2008 p. 4822-5 | r. 1 and 2: 7 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Nov 2008 (see r. 2(b))
-Occupational Safety and Health Amendment Regulations 2008 Pt. 1 and 2 | 28 Nov 2008 p. 5030-41 | Pt. 1: 28 Nov 2008 (see r. 2(a)); Pt. 2: 29 Nov 2008 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Occupational Safety and Health Amendment Regulations 2008 Pt. 3 | 28 Nov 2008 p. 5030-41 | 1 Jan 2009 (see r. 2(c))
+Occupational Safety and Health Amendment Regulations 2008 | 28 Nov 2008 p. 5030-41 | Pt. 1: 28 Nov 2008 (see r. 2(a)); Pt. 2: 29 Nov 2008 (see r. 2(b)); Pt. 3: 1 Jan 2009 (see r. 2(c))
 Repealed by the Health (Smoking in Enclosed Public Places) Regulations 2003 which were repealed by the Tobacco Products Control Act 2006.
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
 The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
-On the date as at which this compilation was prepared, the Occupational Safety and Health Amendment Regulations 2008 Pt. 3 had not come into operation. It reads as follows:
-“
-Part 3 — Amendments to commence on 1 January 2009
-11.Regulation 3.62 replaced
-Regulation 3.62 is repealed and the following regulation is inserted instead —
-“
-3.62.Tester to record information on tag
-A competent person who conducts under clause 3.5, 3.6 or 3.7 of AS/NZS 3012 a test on an item of portable electrical equipment or a portable residual current device that is intended for use at a workplace must ensure that, in addition to the information referred to in clause 3.8.3 of that Standard, the tag bears —
-(a) the person’s name; and
-(b) if the person holds an electrical worker’s licence issued under the Electricity (Licensing) Regulations 1991, the person’s licence number.
-Penalty:
-(a)for a first offence, $2 000; and
-(b)for a subsequent offence, $2 500.
-”.
-12.Regulation 3.63 amended
-Regulation 3.63(b) is amended by deleting “licence number of the electrical worker” and inserting instead —
-“ name of the competent person ”.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
