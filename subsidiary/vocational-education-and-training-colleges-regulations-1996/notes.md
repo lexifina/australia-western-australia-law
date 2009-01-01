@@ -25,6 +25,7 @@ Vocational Education and Training Amendment Regulations 2007 | 9 Nov 2007 p. 560
 Reprint 3: The Vocational Education and Training Regulations 1996 as at 4 Jan 2008 (includes amendments listed above)
 Vocational Education and Training Amendment Regulations 2008 | 30 May 2008 p. 2068-9 | r. 1 and 2: 30 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 31 May 2008 (see r. 2(b))
 Vocational Education and Training Amendment Regulations (No. 2) 2008 | 21 Nov 2008 p. 4920-1 | r. 1 and 2: 21 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Nov 2008 (see r. 2(b))
+Vocational Education and Training Amendment Regulations 2009 | 31 Dec 2008 p. 5681-2 | r. 1 and 2: 31 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2009 (see r. 2(b))
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 of the Commonwealth.
 Formerly referred, incorrectly, to the Student and Youth Allowances Act 1973 of the Commonwealth. The correct short title of the Act was the Student and Youth Assistance Act 1973. That short title was changed to the Student Assistance Act 1973 by the Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 of the Commonwealth. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Repealed by the Skilling Australia’s Workforce (Repeal and Transitional Provisions) Act 2005 of the Commonwealth.
