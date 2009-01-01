@@ -112,49 +112,7 @@ Fish Resources Management Amendment Regulations 2008 | 5 Feb 2008 p. 301-2 | r. 
 Fish Resources Management Amendment Regulations (No. 3) 2008 | 27 May 2008 p. 2040-2 | r. 1 and 2: 27 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2008 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 2) 2008 | 29 May 2008 p. 2055-9 | r. 1 and 2: 29 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 May 2008 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 11) 2008 | 21 Nov 2008 p. 4926-7 | r. 1 and 2: 21 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2008 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Fish Resources Management Amendment Regulations (No. 8) 2008 r. 4-8 | 19 Dec 2008 p. 5361-3 | 1 Jan 2009 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 8) 2008 | 19 Dec 2008 p. 5361-3 | r. 1 and 2: 19 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2009 (see r. 2(b))
 Repealed by the Land Administration Act 1997 s. 281(1).
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
-On the date as at which this compilation was prepared, the Fish Resources Management Amendment Regulations (No. 8) 2008 r. 3-8 had not come into operation. They read as follows:
-“
-4.Regulation 16E amended
-(1) In regulation 16E(1) insert in alphabetical order:
-West Coast Region Division 1 fish means a fish referred to in Schedule 3 Part 3 Division 1.
-(2) In regulation 16E(1) in the definition of single-sided fillet delete “fish.” and insert:
-fish;
-(3) After regulation 16E(3d) insert:
-(3E) The master of a boat, other than a fishing boat, being used by 2, 3 or 4 persons for taking fish in the West Coast Region must ensure that the number of West Coast Region Division 1 fish on, or attached to, the boat, and any tender or other vessel operating with or attached to the boat, at any one time is not more than twice the grouped bag limit for that Region.
-Penalty: a fine of $10 000 and the penalty provided in section 222 of the Act.
-(3F) The master of a boat, other than a fishing boat, being used by more than 4 persons for taking fish in the West Coast Region must ensure that the number of West Coast Region Division 1 fish on, or attached to, the boat, and any tender or other vessel operating with or attached to the boat, at any one time is not more than twice the grouped bag limit for that Region plus 2 West Coast Region Division 1 fish for each person in excess of 4 persons so using the boat.
-Penalty: a fine of $10 000 and the penalty provided in section 222 of the Act.
-5.Regulation 16K inserted
-At the beginning of Part 4 Division 3 Subdivision 4 insert:
-16K.Possession limits — finfish at the Abrolhos Islands reserve or the Abrolhos Islands Fish Habitat Protection Area
-For the purposes of section 51(1) of the Act, the maximum quantity of finfish that a person may be in possession of —
-(a) in the Abrolhos Islands reserve; or
-(b) in the Abrolhos Islands Fish Habitat Protection Area within the meaning given in Schedule 2 Part 2 Division 3 Subdivision 1 clause 2(2),
-is —
-(c) 10 kg of fillets of finfish; or
-(d) one day’s bag limit of whole fish or fish trunks.
-6.Schedule 2 amended
-(1) In Schedule 2 Part 2 Division 3 Subdivision 1 clause 2(1) delete “Area.” and insert:
-Area during the period beginning on 1 November in a year and ending on 31 January in the following year.
-(2) In Schedule 2 Part 2 Division 3 Subdivision 2 in the item relating to “Snapper, Pink” before paragraph (c) insert:
-(a)when taken or brought onto land from the waters of the West Coast Region that are south of 31°00′ south latitude —
-(i)during the period beginning on 1 January 2009 and ending on 31 December 2009 ........................................ | 450
-(ii)on or after 1 January 2010 ............................ | 500
-7.Schedule 3 amended
-(1) In the heading to Schedule 3 Part 3 Division 1 delete “7 fish” and insert:
-4 fish
-(2) In Schedule 3 Part 3 Division 1 delete “7” and insert:
-4
-(3) In Schedule 3 Part 3 Division 1 column 2 of the item relating to “Snapper, Pink,” delete “4” and insert:
-2
-8.Schedule 12 amended
-In Schedule 12 Part 2 item 4 after “16E(3c),” insert:
-16E(3E), 16E(3F),
-”.

@@ -185,10 +185,10 @@ Sea Urchin ............................................................ | 20
 ## Part 3 — Bag limits in the West Coast Region
 [Reg. 64ZA]
 [Heading inserted in Gazette 1 Oct 2003 p. 4337.]
-## Division 1 — Grouped bag limit of 7 fish
-[Heading inserted in Gazette 1 Oct 2003 p. 4337.]
+## Division 1 — Grouped bag limit of 4 fish
+[Heading inserted in Gazette 1 Oct 2003 p. 4337; amended in Gazette 19 Dec 2008 p. 5363.]
 Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
-Barracuda ........................................................... | 2 |  | 7
+Barracuda ........................................................... | 2 |  | 4
 Billfish, Sailfish, Spearfish and Marlins and Swordfish (combined) ................................... | 1
 Cobbler .............................................................. | 4
 Cobia ................................................................. | 2
@@ -200,9 +200,8 @@ Dhufish, West Australian .................................. | 2
 Dolphinfish (Mahi Mahi) .................................. | 2
 Emperor (combined) .......................................... | 4
 Emperor, Red ..................................................... | 2
-Groper, Blue ...................................................... | 1
-Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
-Hapuku, Trevalla, Bass Groper and Grey Banded Rock Cod (combined) ...................... | 2 |  | 7
+Groper, Blue....................................................... | 1 |  | 4
+Hapuku, Trevalla, Bass Groper and Grey Banded Rock Cod (combined) ...................... | 2
 Mackerel, Shark ................................................. | 2
 Mackerel, Broad-barred Spanish and Narrow-barred Spanish (combined) .............. | 2
 Mackerel, Wahoo .............................................. | 2
@@ -212,14 +211,14 @@ Salmon, Australian ............................................ | 4
 Samson Fish, Amberjack and Yellowtail Kingfish (combined) ...................................... | 2
 Sea Perch, Tropical, except Red Emperor (combined) ..................................................... | 2
 Sharks and Rays (combined) ............................. | 2
-Snapper, Pink, only one of which may be in excess of 70 cm if taken or brought onto land from metropolitan waters .............................. | 4
+Snapper, Pink, only one of which may be in excess of 70 cm if taken or brought onto land from metropolitan waters .............................. | 2
 Snapper, Queen ................................................. | 4
 Snapper, Red (Redfish) and Swallowtail (combined) ..................................................... | 4
 Trevally, Giant and Golden (combined) ........... | 2
 Trout, Brown and Rainbow (combined) ........... | 4
 Tuna, Southern Bluefin, Yellowfin and Bigeye (combined) ..................................................... | 2
 Tuskfish and Baldchin Groper (combined) ....... | 4
-[Division 1 inserted in Gazette 1 Oct 2003 p. 4337-8; amended in Gazette 4 Nov 2005 p. 5316; 22 Dec 2005 p. 6234.]
+[Division 1 inserted in Gazette 1 Oct 2003 p. 4337-8; amended in Gazette 4 Nov 2005 p. 5316; 22 Dec 2005 p. 6234; 19 Dec 2008 p. 5363.]
 ## Division 2 — Grouped bag limit of 16 fish
 [Heading inserted in Gazette 1 Oct 2003 p. 4339.]
 Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
