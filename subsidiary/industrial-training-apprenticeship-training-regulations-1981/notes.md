@@ -1,11 +1,11 @@
 Notes
-This is a compilation of the Industrial Training (Apprenticeship Training) Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 January 2009 of the Industrial Training (Apprenticeship Training) Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Industrial Training (Apprenticeship Training) Regulations 1981 | 17 Jul 1981 p. 2935-40 | 20 Jul 1981 (see r. 2)
 Industrial Training (Apprenticeship Training) Amendment Regulations 1983 | 30 Dec 1983 p. 5027-8 | 1 Jan 1984 (see r. 2)
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 1984 | 25 Jan 1985 p. 350 | 25 Jan 1985
-Industrial Training (Apprenticeship Training) Amendment Regulations (No. 3) 1984, | 1 Feb 1985 p. 450 (publication of 18 Jan 1985 p. 264 cancelled 25 Jan 1985 p. 350) | 1 Feb 1985
+Industrial Training (Apprenticeship Training) Amendment Regulations (No. 3) 1984 | 1 Feb 1985 p. 450 (publication of 18 Jan 1985 p. 264 cancelled 25 Jan 1985 p. 350) | 1 Feb 1985
 Industrial Training (Apprenticeship Training) Amendment Regulations 1985 | 8 Feb 1985 p. 542 | 8 Feb 1985
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 1985 | 1 Nov 1985 p. 4229 | 1 Nov 1985
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 3) 1985 | 8 Nov 1985 p. 4296 | 8 Nov 1985
@@ -42,8 +42,7 @@ Reprint 2: The Industrial Training (Apprenticeship Training) Regulations 1981 as
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 4) 2007 | 1 May 2007 p. 1893-4 | 1 May 2007 (see r. 2)
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 5) 2007 | 21 Dec 2007 p. 6320-5 | r. 1 and 2: 21 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2008 (see r. 2(b))
 Industrial Training Legislation Amendment Regulations 2008 Pt. 3 | 23 Jul 2008 p. 3371-88 | 1 Aug 2008 (see r. 2(b))
-The definition of “Council” was deleted from s. 4 of the Act by the State Employment and Skills Development Authority Act 1990 s. 45(a)(ii). The definition of “Authority” inserted by s. 45(a)(i) of that Act was deleted by the Vocational Education and Training Act 1996 Sch. 3 cl. 12.
-3-6Footnotes no longer applicable.
+Reprint 3: The Industrial Training (Apprenticeship Training) Regulations 1981 as at 2 Jan 2009 (includes amendments listed above)
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 3) 1984 were published in Gazette 18 Jan 1985 p. 264. A corrigendum was published in Gazette 25 Jan 1985 p. 350 stating that the notice publishing those regulations was cancelled. The regulations were then published in Gazette 1 Feb 1985 p. 450.
 The following regulations each contain savings or transition provisions relating to apprentices in trades deleted from Sch. 1 by those regulations:
@@ -53,15 +52,8 @@ Industrial Training (Apprenticeship Training) Amendment Regulations 1995 r. 4
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 1995 r. 7
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 1) 1996 r. 4
 Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 1996 r. 7
-Industrial Training (Apprenticeship Training) Regulations 2001 r. 3.
-The Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 2005 r. 8 reads as follows:
-“
-8.Transitional
-The Industrial Training (Apprenticeship Training) Regulations 1981 as in force immediately before 1 January 2006 continue to apply to and in relation to an apprentice who commenced service under an apprenticeship agreement (but not including any period of employment as a probationer) before 1 January 2006 in one of the following trades —
-(a) Baking (Combined Breadmaking and Pastrycooking);
-(b) Breadmaking; or
-(c) Pastrycooking.
-”.
+Industrial Training (Apprenticeship Training) Amendment Regulations 2001 r. 3
+Industrial Training (Apprenticeship Training) Amendment Regulations (No. 2) 2005 r. 8.
 The Industrial Training (Apprenticeship Training) Amendment Regulations 2006 r. 9 reads as follows:
 “
 9.Transitional
@@ -344,3 +336,18 @@ the Director may, before approving the variation, extend the term of the apprent
 (8) A variation of an apprenticeship agreement under subregulation (5) takes effect on the date on which it is approved by the Director.
 (9) If an apprenticeship agreement is varied under subregulation (5), subregulation (2) ceases to apply to and in relation to the apprentice on the date the variation takes effect.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+amendment regulationsSch. 5 cl. 1(1)
+approved4
+column7(1), 8(1)
+Council4
+directed4
+existing probationerSch. 5 cl. 1(2)
+new termSch. 5 cl. 1(1)
+new tradeSch. 5 cl. 1(1)
+old tradeSch. 5 cl. 1(1)
+stage4
+trade4
+By Authority: JOHN A. STRIJK, Government Printer
