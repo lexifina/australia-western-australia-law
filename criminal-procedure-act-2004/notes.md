@@ -1,18 +1,28 @@
 Notes
-This is a compilation of the Criminal Procedure Act 2004 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 2 January 2009 of the Criminal Procedure Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Criminal Procedure Act 2004 | 71 of 2004 | 8 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Criminal Procedure Act 2004 | 71 of 2004 | 8 Dec 2004 | s. 1 and 2: 8 Dec 2004; Act other than s. 1 and 2: 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 8 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Criminal Law and Evidence Amendment Act 2008 Pt. 3 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Acts Amendment (Justice) Act 2008 Pt. 9 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Criminal Law Amendment (Homicide) Act 2008 s. 30 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 1: The Criminal Procedure Act 2004 as at 2 Jan 2009 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Bail Amendment Act 2008 s. 45 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2)
+Bail Amendment Act 2008 s. 45 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(b))
 Legal Profession Act 2008 s. 657 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 657 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Bail Amendment Act 2008 s. 45 had not come into operation. It reads as follows:
+“
+45.Criminal Procedure Act 2004 amended
+(1) The amendments in this section are to the Criminal Procedure Act 2004.
+(2) Schedule 4 clause 3(3) is amended by inserting after “31” —
+“ , 31A ”.
+(3) Schedule 4 clause 4(3) is amended by inserting after “sections” —
+“ 51A, ”.
+”.
+On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 657 had not come into operation. It reads as follows:
 “
 657.Criminal Procedure Act 2004 amended
 (1) The amendments in this section are to the Criminal Procedure Act 2004.
@@ -46,13 +56,108 @@ legal practitioner means an Australian legal practitioner within the meaning of 
 (11) Section 175(4) is amended by deleting “lawyer.” and inserting instead —
 “ legal practitioner. ”.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Bail Amendment Act 2008 s. 45 had not come into operation. It reads as follows:
-“
-45.Criminal Procedure Act 2004 amended
-(1) The amendments in this section are to the Criminal Procedure Act 2004.
-(2) Schedule 4 clause 3(3) is amended by inserting after “31” —
-“ , 31A ”.
-(3) Schedule 4 clause 4(3) is amended by inserting after “sections” —
-“ 51A, ”.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+accused3(1)
+acquit3(1)
+adjourn18
+alibi evidence62(1), 96(1)
+alleged offender4
+approved notice3(1)
+approved officer4
+arrest warrant3(1)
+attendance date156
+audio link3(1)
+authorised investigator18
+authorised officer4, 80(1)
+authorised person20(1)
+bail documents36
+case3(1)
+charge3(1)
+charge A83(4)
+committed80(1)
+community order121(1)
+confessional material35(1), 42(1), 45(1), 61(1), 95(1)
+convict3(1)
+convicted person121(1)
+corporation3(1)
+corresponding law11(1)
+court3(1), 18, Sch. 1 cl. 11(1)
+court date18
+court document176(1), 178(1)
+court hearing notice3(1)
+court of summary jurisdiction3(1)
+courtroom3(1)
+current licence holder11(1)
+deal with3(1)
+decision70
+detainee177(7)
+determine3(1)
+disclosure requirement63(1), 97(1), 138(1)
+disclosure/committal hearing36
+document3(1)
+DPP3(1)
+either way charge3(1)
+electronic recording3(1)
+evidentiary material42(1), 45(1), 61(1), 95(1)
+exception78(1)
+expert evidence material62(1), 96(1)
+first court date18
+indictable charge3(1)
+indictable offence3(1)
+indictment3(1)
+jurisdictional error169(1)
+lawyer3(1)
+licensed11(1)
+listed simple offence60(1)
+lodge95(1), 96(1)
+lower court99(1)(a)
+magistrate3(1)
+makerSch. 3 cl. 4(3)(a) and 4(4)(a)
+named personSch. 2 cl. 2(2), 3(2) and 4(2)
+new court date75(4)(a)
+new time75(4)(a)
+offence3(1), 180(1)
+officer180(1)
+party3(1)
+payment order185(1)
+police prosecutor35(1)
+post3(1)
+prescribed18, 80(1)
+prescribed Act4
+prescribed court officer3(1)
+prescribed offence4
+prescribed public authority18
+prescribed simple offence35(1)
+proceedings88(1), 171(1)
+prosecution3(1)
+prosecution notice3(1)
+prosecutor3(1)
+public authority3(1)
+receivingSch. 1 cl. 1
+record3(1)
+relevant authorised officer36, 80(1)
+relevant courtSch. 3 cl. 1, Sch. 4 cl. 1
+remand warrant3(1)
+responsible person11(1)
+section 155 notice155(3)
+serve35(1), 42(1), 61(1), 62(1), 95(1), 96(1)
+service informationSch. 2 cl. 1
+simple offence3(1)
+statutory penalty3(1)
+stay order121(1)
+stealingSch. 1 cl. 1
+summons3(1)
+superior court3(1)
+trial date3(1)
+vehicle3(1)
+vehicle licensing law11(1)
+vehicle offence11(1)
+video link3(1)
+witness159(1)(a) and (b), (2) and (3), Sch. 3 cl. 5(1)
+witness documents36
+witness summons3(1)
+witness undertaking3(1), Sch. 4 cl. 1
+working day3(1)
+written plea18
