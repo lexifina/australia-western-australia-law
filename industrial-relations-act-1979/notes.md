@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Industrial Relations Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 January 2009 of the Industrial Relations Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Industrial Arbitration Act 1979 | 114 of 1979 | 21 Dec 1979 | 1 Mar 1980 (see s. 2 and Gazette 8 Feb 1980 p. 383)
@@ -12,10 +12,11 @@ Industrial Arbitration Amendment Act (No. 2) 1984 | 92 of 1984 | 29 Nov 1984 | A
 Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984 Pt. II | 94 of 1984 | 11 Dec 1984 | 1 Mar 1985 (see s. 2(2) and Gazette 1 Mar 1985 p. 778)
 Reprint of the Industrial Relations Act 1979 as at 12 May 1985 (includes amendments listed above)
 Industrial Relations Amendment Act 1985 | 42 of 1985 | 13 May 1985 | 13 May 1985 (see s. 2)
+Reprint of the Industrial Relations Act 1979 as at 9 Jun 1985 (does not include amendments in the Industrial Relations Amendment Act 1985)
 Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
 Judges’ Salaries and Pensions Amendment Act 1987 s. 8 | 82 of 1987 | 1 Dec 1987 | 1 Dec 1987 (see s. 2)
 The Rural and Industries Bank of Western Australia Act 1987 s. 38 | 83 of 1987 | 1 Dec 1987 | 1 Apr 1988 (see s. 2)
-Industrial Relations Amendment Act (No. 4) 1987 | 119 of 1987 | 31 Dec 1987 | Act other than s. 7(1): 4 Mar 1988 (see s. 2 and Gazette 4 Mar 1988 p. 665); s. 7(1): 3 Nov 1992 (see s. 2 and Gazette 3 Nov 1992 p. 5389)
+Industrial Relations Amendment Act (No. 4) 1987 | 119 of 1987 | 31 Dec 1987 | s. 1 and 2: 31 Dec 1987; Act other than s. 1, 2 and 7(1): 4 Mar 1988 (see s. 2 and Gazette 4 Mar 1988 p. 665); s. 7(1): 3 Nov 1992 (see s. 2 and Gazette 3 Nov 1992 p. 5389)
 Acts Amendment (Education) Act 1988 Pt. 6 | 7 of 1988 | 30 Jun 1988 | 8 Jul 1988 (see s. 2 and Gazette 8 Jul 1988 p. 2371)
 R & I Bank Act 1990 s. 45(1) | 73 of 1990 | 20 Dec 1990 | 1 Jan 1991 (see s. 2(2) and Gazette 28 Dec 1990 p. 6369)
 Industrial Relations Amendment Act 1990 | 99 of 1990 (as amended by No. 1 of 1995 s. 35) | 22 Dec 1990 | Act other than s. 10 and 14: 19 Jan 1991 (see s. 2(1)); s. 10: 21 Jun 1991 (see s. 2(2) and Gazette 21 Jun 1991 p. 3005)
@@ -61,18 +62,19 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Mines Safety and Inspection Amendment Act 2004 Pt. 7 Div. 2 | 68 of 2004 | 8 Dec 2004 | 4 Apr 2005 (see s. 2(3)(a) and Gazette 14 Dec 2004 p. 5999-6000)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 10: The Industrial Relations Act 1979 as at 8 Jul 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
+Petroleum Legislation Amendment and Repeal Act 2005 s. 49(1), (2)(b), (3) and (4)(b) | 13 of 2005 | 1 Sep 2005 | 28 Mar 2007 (see s. 2 and Gazette 27 Mar 2007 p. 1405)
 Industrial Relations Amendment Act 2005 | 14 of 2005 | 21 Sep 2005 | 22 Sep 2005 (see s. 2)
-Petroleum Legislation Amendment and Repeal Act 2005 | 13 of 2005 | 1 Sep 2005 | s. 49(1), (2)(b), (3) and 4(b): 28 Mar 2007 (see s. 2 and Gazette 27 Mar 2007 p. 1405)
 Labour Relations Legislation Amendment Act 2006 Pt. 3-5 and 8 | 36 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2(1))
 Reprint 11: The Industrial Relations Act 1979 as at 3 Nov 2006 (includes amendments listed above except those in the Petroleum Legislation Amendment and Repeal Act 2005)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | 1 Aug 2008 (see s. 2 and Gazette 18 Jul 2008 p. 3329)
 Petroleum Amendment Act 2007 s. 97 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Acts Amendment (Justice) Act 2008 Pt. 13 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
-Police Amendment Act 2008 s. 13 and 23(3) | 8 of 2008 | 31 Mar 2008 | s. 13: 1 Apr 2008 (see s. 2(1)) s. 23(3): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
+Police Amendment Act 2008 s. 13 and 23(3) | 8 of 2008 | 31 Mar 2008 | s. 13: 1 Apr 2008 (see s. 2(1)); s. 23(3): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 12: The Industrial Relations Act 1979 as at 2 Jan 2009 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Vocational Education and Training Act 1996 s. 62 | 42 of 1996 | 16 Oct 1996 | To be proclaimed (see s. 2)
@@ -81,6 +83,7 @@ Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 
 Legal Profession Act 2008 s. 668 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Training Legislation Amendment and Repeal Act 2008 s. 53 | 44 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
+Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 of the Commonwealth.
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
 The Labour Relations Reform Act 2002 s. 112, 113(6), 117(2) and (3), 138(2), 140(2), 141(2), 146(2), 152(2), 155(2) and (3), 186(2)-(4) and Sch. 1 read as follows:
 “
@@ -144,7 +147,7 @@ under 16 years | 40%
 (2) The minimum weekly rate of pay for an apprentice or trainee in relation to whom a workplace agreement or an employer-employee agreement is in force is the rate of pay that is provided for under an award that would, if the workplace agreement or employer-employee agreement were not in force, apply to that apprentice or trainee.
 ”.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 “
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
@@ -185,7 +188,7 @@ remains of effect until a State Wage order takes effect.
 (4) A date specified under subsection (3)(b) must not be a date that is earlier than the day on which the order is made.
 (5) Despite section 50A(1)(b), the Commission must not adjust rates of wages paid under awards in a State Wage order made in relation to the period ending 30 June 2007 if, during 2006 and before that State Wage order is made, the Commission has made a General Order under section 50 of the Industrial Relations Act 1979 adjusting rates of wages paid under awards generally.
 ”.
-On the date as at which this compilation was prepared, the Vocational Education and Training Act 1996 s. 62, which gives effect to Sch. 2, had not come into operation. Section 62 and Sch. 2 read as follows:
+On the date as at which this reprint was prepared, the Vocational Education and Training Act 1996 s. 62, which gives effect to Sch. 2, had not come into operation. Section 62 and Sch. 2 read as follows:
 “
 62. Consequential amendments and transitional provisions relating to this Part
 Schedule 2 has effect —
@@ -225,7 +228,8 @@ repealed Act means the Industrial Training Act 1975 repealed by section 61.
 (3) Any regulations made under the repealed Act and in operation immediately before the commencement of section 61 which were applicable to, or in respect of, an apprenticeship or industrial training agreement referred to in subclause (2) are to continue to apply to such an agreement, until regulations are made under this Act in respect of the matters covered by those regulations.
 (4) Regulations may be made, with effect from a time which is not earlier than the commencement of section 61, amending or supplementing the transitional provisions set out in subclauses (2) and (3) for the purpose of providing an effective and efficient transition from the provisions of the repealed Act to the provisions of this Act.
 ”.
-On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2a) and 4(a) had not come into operation. It reads as follows:
+The amendments to s. 7 by the Vocational Education and Training Act 1996 s. 62, which gives effect to Sch. 2, would conflict with amendments in the Labour Relations Reform Act 2002 s. 178(1), (2), (3) and (4).
+On the date as at which this reprint was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2a) and (4)(a) had not come into operation. They read as follows:
 “
 49.Industrial Relations Act 1979 amended
 (2) Section 7(3) is amended as follows:
@@ -233,8 +237,7 @@ On the date as at which this compilation was prepared, the Petroleum Legislation
 (4) Section 113(1)(d)(ii) is amended as follows:
 (a) after item (I) by deleting “and”;
 ”.
-19- 22Footnotes no longer applicable.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 668 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 668 had not come into operation. It reads as follows:
 “
 668.Industrial Relations Act 1979 amended
 (1) The amendments in this section are to the Industrial Relations Act 1979.
@@ -259,7 +262,7 @@ section 12 of the Legal Profession Act 2008
 ”.
 (6) Section 91(3) is repealed.
 ”.
-On the date as at which this compilation was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 53 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 53 had not come into operation. It reads as follows:
 “
 53.Industrial Relations Act 1979 amended
 (1) This section amends the Industrial Relations Act 1979.
@@ -299,3 +302,188 @@ apprentice —
 (b) delete “apprentice or trainee,” and insert:
 apprentice,
 ”.
+Reprints before Reprint 9 are not numbered. Reprint 9 and subsequent reprints are numbered consecutively but are out by one number.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+a revocation order97XG(b)(ii), 97XI(1)
+alteration7(1)
+applicable order48A(3)
+applicant97WR
+application103(3)
+apprentice7(1)
+arbitration functions32A(1)
+arbitrator97WH
+Arbitrator80C(1), Sch. 3 cl. 1
+area and scope provisions29A(1a)
+association7(1)
+Association80C(1)
+Australian Commission7(1), 80ZF
+authorised representative49G
+award7(1), 46(5), 97U(1), 97UG(7), 97VR, 97YA(3)
+bargaining agent51O(1), 97U(1)
+bargaining in good faith42B(2), 51S(2)
+Board80C(1), 80M(1)
+Branch71(1)
+breach103(3)
+calling7(1)
+cancellation agreement97U(1)
+canvasser7(1)
+Chamber7(1)
+Chief Commissioner7(1)
+Chief Magistrate81B(6)
+civil penalty provision7(1)
+collegiate electoral system52
+collective agreement51O(2)(a)
+commencement day20(8b)
+Commission7(1), 16(1), 22A, 42C(6), 50(1), 51C(1), 97VW
+Commission in Court Session7(1)
+commissioner7(1)
+Commonwealth Act7(1)
+comparable award97VR
+complainant96L(2)
+complying superannuation fund or scheme48B(1)
+conciliation functions32A(1)
+constituent authority7(1)
+conveyance98(6)
+corporation96H(3)
+corresponding authority80ZI(3)
+Council7(1)
+counterpart Federal body71(1), 71A(1)
+Court7(1)
+day of execution97UY(6)
+decision7(1), 84(1)
+declaration7(1)
+deputy registrar7(1)
+designated deputy registrar95(3)
+direct voting system52
+discriminatory action96E(4)
+dispute97WH
+EEA7(1), 97WB(2)
+EEA dispute provisions97U(1)
+employee7(1), 51O(2)(b), 97U(2) and (3)
+employer7(1), 51O(2)(c), 80C(1), 97U(2) and (3)
+employer-employee agreement7(1)
+employing authority80C(1)
+employment51O(2)(d)
+employment claim23B(1)
+employment record7(1)
+employment services for persons with disabilities97U(1)
+enterprise72A(1)
+enterprise order7(1), 42I(1)
+existing employee97U(1)
+final offer arbitration7(1)
+finance official74(1)
+finding7(1)
+Full Bench7(1)
+general jurisdiction81CA(1), 81CB(1)
+government officer80C(1)
+group training organisation7(1)
+guardianship order97WS(4)
+head of branch80M(1)
+industrial action7(1)
+industrial agreement7(1), 97UF(4)
+Industrial Gazette7(1)
+industrial inspector7(1)
+industrial instrument29AA(5), 49D(4)
+industrial magistrate’s court7(1)
+industrial matter7(1), 22A
+industry7(1)
+initiating party40C, 51O(1), 51R(1)
+instrument to which this section applies83(2), 98(6)
+irregularity7(1)
+judge7(1), 20(12)
+judgment81CB(1), 88(1)
+labour hire agency7(1)
+legal practitioner7(1)
+limited guardian97WS(4)
+MCE Act7(1)
+medical practitioner72B(1), 97WR
+member80M(1)
+member of the Commission7(1)
+mental disability97WR
+Mines and Metals Association7(1)
+negotiating party40C, 51O(1)
+new employee97U(1)
+no-disadvantage test97U(1)
+nominal expiry date42(8), 51O(2)(e)
+occupier49L(2)
+office7(1)
+officer7(1)
+one-tier collegiate electoral system52
+organisation7(1), 51O(1), 72A(1), 72B(2)(a), 80H(6), 96A
+organisation of employees96A
+original term56A(4)
+party38(1b), 91(2), 97U(1), 97VC(5), Sch. 4 cl. 1(3)
+peak industrial body97VZ(3)
+person with a mental disability97WR
+plenary guardian97WS(4)
+postal ballot52
+post-secondary education institution7(1)
+premises7(1)
+prescribed amount29AA(5)
+prescribed period40C, 42A(1)
+prescribed salary80I(2)
+President7(1), 20(13)
+presiding judge7(1)
+principal executive officer7(1)
+proceedings49(4)
+proposed representative97WR
+prosecution jurisdiction81CA(1)
+protected information97WB(1)
+Public Advocate97WR
+public authority7(1)
+public hospital7(1)
+public service arbitrator80H(7)
+public service officer7(1)
+Public Transport Authority80M(1)
+published in the required manner7(1)
+railway officer80M(1)
+record7(1)
+Registrar7(1), 96(1)
+registration7(1)
+regulations97U(1)
+relevant employee49G
+relevant industrial authority97U(1)
+relevant order97VR
+relevant organisation80H(5)
+relevant person49E(4)
+repealed Act7(1)
+representative7(1)
+represented person7(1)
+revocation order97WR
+salaried position80M(1)
+secondary office7(1)
+section 97UM signatory97U(1)
+Senior Commissioner7(1)
+specified51A(3)
+State organisation71(1), 71A(1)
+State Wage order50A(1)
+sub-head of branch80M(1)
+subscription7(1)
+supported wage provisions97U(1)
+Supported Wage System97U(1)
+teacher80C(1)
+the adopting provision71A(2)
+the affected person23B(1)(a)
+the auditor65(a)
+the Commission49(1)
+the employees36A(1)
+the exposure draft97WA(1)
+the first agreement41(8)
+the new award36A(1)
+the original dispute97WK(1)(a)
+the principal7(6)
+the proposed representative97WV(3), 97XM(3)
+the representative97X, 97XO
+the represented person97X, 97XO
+the respondent77(1)
+the State rules71A(2)
+third party23B(1)
+threats48B(5)
+trainee7(1)
+transport Minister80M(1)
+Union80M(1)
+vary7(1)
+WA Branch of the AMA72B(1)
+Westrail Enterprise Bargaining Agreement80R(2b)
