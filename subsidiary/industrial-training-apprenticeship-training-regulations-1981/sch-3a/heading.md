@@ -25,7 +25,7 @@ Furniture Maker | 320 hours | 320 hours | 160 hours
 Gardener | 332 hours | 332 hours | 332 hours
 General Butcher | 360 hours | 360 hours
 Glazier and Glass Processor | 400 hours | 400 hours
-Graphic Pre Press | 445 hours | 445 hours
+Graphic Pre-Press | 445 hours | 445 hours
 Hairdresser | 325 hours | 325 hours
 Jeweller | 352 hours | 352 hours | 160 hours
 Joinery (Housing) | 320 hours | 236 hours
