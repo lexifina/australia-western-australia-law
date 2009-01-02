@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Criminal Injuries Compensation Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 January 2009 of the Criminal Injuries Compensation Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Injuries Compensation Act 2003 | 77 of 2003 | 15 Dec 2003 | s. 1 and 2: 15 Dec 2003; Act other than s. 1 and 2: 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
@@ -11,13 +11,12 @@ Reprint 1: The Criminal Injuries Compensation Act 2003 as at 7 Sep 2007 (include
 Criminal Law and Evidence Amendment Act 2008 s. 59 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Acts Amendment (Justice) Act 2008 Pt. 7 | 5 of 2008 | 31 Mar 2008 | 31 Jul 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 2: The Criminal Injuries Compensation Act 2003 as at 2 Jan 2009 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 s. 655 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Criminal Injuries Compensation Act 1985 was repealed by s. 73 of this Act.
-The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
-The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
 The Criminal Injuries (Compensation) Act 1970 was repealed by the Criminal Injuries Compensation Act 1982 s. 43(1).
 The Criminal Injuries Compensation Act 1982 was repealed by the Criminal Injuries Compensation Act 1985 s. 50(1).
 The Criminal Injuries Compensation Amendment Act 2004 s. 10 reads as follows:
@@ -27,7 +26,7 @@ The Criminal Injuries Compensation Amendment Act 2004 s. 10 reads as follows:
 (2) An amount received or recovered as described in section 68 of the Criminal Injuries Compensation Act 2003, on or after 1 January 2004, is deemed to create a debt due under the Criminal Injuries Compensation Act 2003, as amended by this Act.
 (3) A notice given under the Criminal Injuries Compensation Act 1985, on or after 1 January 2004, is deemed to have been given under the Criminal Injuries Compensation Act 2003, as amended by this Act.
 ”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 655 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 655 had not come into operation. It reads as follows:
 “
 655.Criminal Injuries Compensation Act 2003 amended
 (1) The amendments in this section are to the Criminal Injuries Compensation Act 2003.
@@ -51,3 +50,39 @@ legal experience means —
 (c)a combination of both kinds of legal experience mentioned in paragraphs (a) and (b).
 ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+alleged offence3
+applicant3
+application51(1)
+assessor3
+award40(1)
+CEO3
+charged offence14(1)
+Chief Assessor3
+close relative3, 4(1)
+commencementSch. 2 cl. 2(1)
+compensation application3, 40(1)
+compensation award3, 48A, 68(2)
+compensation reimbursement order3
+convicted3
+health professional3
+injury3
+interested person3
+lawyer3
+loss3, 6(2) and (3)
+motor vehicle37(1)
+offence3
+personal item6(1)
+personal representative3
+prescribed information70(1)
+proceedings64(1)
+proved offence3
+record3
+registered organisation42(1)
+repealed ActSch. 2 cl. 2(1)
+satisfied3
+specified64(1)
+victim3, 20(1)
+witness63(1)
