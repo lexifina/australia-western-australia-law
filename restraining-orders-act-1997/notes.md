@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Restraining Orders Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 January 2009 of the Restraining Orders Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Restraining Orders Act 1997 | 19 of 1997 | 28 Aug 1997 | 15 Sep 1997 (see s. 2 and Gazette 12 Sep 1997 p. 5149)
+Restraining Orders Act 1997 | 19 of 1997 | 28 Aug 1997 | s. 1 and 2: 28 Aug 1997; Act other than s. 1 and 2: 15 Sep 1997 (see s. 2 and Gazette 12 Sep 1997 p. 5149)
 Family Court (Orders of Registrars) Act 1997 s. 12 | 21 of 1997 | 7 Sep 1997 | 15 Sep 1997 (see s. 2(2) and Gazette 12 Sep 1997 p. 5149)
 Acts Amendment and Repeal (Family Court) Act 1997 s. 36 | 41 of 1997 | 9 Dec 1997 | 26 Sep 1998 (see s. 2 and Gazette 25 Sep 1998 p. 5295)
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 62 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
@@ -19,13 +19,15 @@ Family Legislation Amendment Act 2006 Pt. 6 Div. 3 | 35 of 2006 | 4 Jul 2006 | 1
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 10 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Acts Amendment (Justice) Act 2008 Pt. 19 | 5 of 2008 | 31 Mar 2008 | 31 Oct 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Criminal Law Amendment (Homicide) Act 2008 s. 37 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 3: The Restraining Orders Act 1997 as at 9 Jan 2009 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 s. 699 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Repealed by Children and Community Services Act 2004 s. 250(1)(a).
 Part 9 contained transitional provisions relating to orders to keep the peace in force under the Justices Act 1902 when this Act came into operation.
 The Courts Legislation Amendment and Repeal Act 2004 s. 123 (the amendment to s. 67(2)) and s. 124 (the amendment to s. 4(a)) were repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(3) and (4).
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 699 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 699 had not come into operation. It reads as follows:
 “
 699.Restraining Orders Act 1997 amended
 (1) The amendments in this section are to the Restraining Orders Act 1997.
@@ -34,3 +36,71 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3.
 ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+act of abuse3
+act of family and domestic violence3, 6(1)
+act of personal violence3, 6(2)
+application3
+assaulting6(4)
+authorised magistrate3
+authorised person3
+CEO (child welfare)3
+child3
+child welfare law50B(4)
+child welfare officer3
+Commissioner of Police3
+corresponding law3
+court3
+exposed3
+family and domestic relationship3, 4(1)
+family order3, 5(1)
+final order3
+final order hearing3
+firearm3
+firearms licence3
+firearms order71(1)
+fix a hearing3
+foreign restraining order3
+imagined personal relationship3
+inform the court66(1)
+interested party70A(1)
+interim order3
+interstate order74
+intimidate6(4)
+kidnapping or depriving the person of his or her liberty6(4)
+legal practitioner62(2)
+mention hearing3
+misconduct restraining order3
+other personal relationship4(2)
+person protected3
+person seeking to be protected3
+person who is bound3
+police order3
+prepare and serve3
+prescribed information70A(1)
+proceedings under this Act3
+property3
+pursue6(4)
+registered3
+registered order74
+registrar3, 74
+related4(2)
+remote communication62D(8)
+representation44A(3), 53E(4)
+respondent3, 43A(1)
+responsible person71(1)
+restrained person71(1)
+restraining order3
+satisfied3
+senior officer62D(8)
+specified3
+telephone application3
+telephone order3
+the co-licensee71(2)(a)(iii)
+under this Act70(4)
+video link53B(4)
+violence restraining order3
+violent personal offence63A(5), 63B(3)
+wellbeing3
