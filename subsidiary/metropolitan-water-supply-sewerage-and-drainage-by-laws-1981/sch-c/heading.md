@@ -5,7 +5,7 @@
 1. | Fee in respect of a proposal to connect plumbing to the sewer | 17.20
 2. | Fee for installation of sewer junction —
  | 100 mm sewer junction | 360.00
- | 150 mm sewer junction . | 445.00
+ | 150 mm sewer junction | 445.00
 3. | (a)Fee for installing a meter under by-law 6.7.1A.1 | 290.50
  | (b)Fee for assessing a meter under by-law 6.7.1A.3 | 207.00
  | (c)Fee for assessing a meter and installing a new meter under by-law 6.7.1A.4 | 270.50
