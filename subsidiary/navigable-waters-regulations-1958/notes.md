@@ -119,6 +119,7 @@ Navigable Waters Amendment Regulations (No. 4) 2008 | 24 Jun 2008 p. 2894-5 | r.
 Navigable Waters Amendment Regulations (No. 3) 2008 | 1 Jul 2008 p. 3154 | r. 1 and 2: 1 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2008 (see r. 2(b))
 Reprint 13: The Navigable Waters Regulations 1958 as at 3 Oct 2008 (includes amendments listed above)
 Navigable Waters Amendment Regulations (No. 5) 2008 | 24 Oct 2008 p. 4669-70 | r. 1 and 2: 24 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Oct 2008 (see r. 2(b))
+Navigable Waters Amendment Regulations (No. 6) 2008 | 9 Jan 2009 p. 36-7 | r. 1 and 2: 9 Jan 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jan 2009 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
