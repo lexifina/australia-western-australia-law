@@ -7,10 +7,15 @@ Emergency Management Amendment Regulations 2006 | 12 Jan 2007 p. 50-2 | 12 Jan 2
 Emergency Management Amendment Regulations 2008 | 18 Mar 2008 p. 866-7 | r. 1 and 2: 18 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Mar 2008 (see r. 2(b))
 Reprint 1: The Emergency Management Regulations 2006 as at 18 Apr 2008 (includes amendments listed above)
 Emergency Management Amendment Regulations (No. 2) 2008 | 29 Apr 2008 p. 1577-8 | r. 1 and 2: 29 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Apr 2008 (see r. 2(b))
+Emergency Management Amendment Regulations (No. 3) 2008 | 13 Jan 2009 p. 55-7 | r. 1 and 2: 13 Jan 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jan 2009 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 Agriculture Director General19
+corridor land14
 FESA17(1)
 preparedness14
+prevention14
+Public Transport Authority20(1)
+railway infrastructure14
 response14
