@@ -24,7 +24,7 @@ Criminal Law Amendment Act 2001 Pt. 3 | 23 of 2001 | 26 Nov 2001 | 24 Dec 2001
 Zoological Parks Authority Act 2001 s. 47 | 24 of 2001 | 26 Nov 2001 | 22 May 2002 (see s. 2 and Gazette 10 May 2002 p. 2445)
 Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 64 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
 Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 221(4) | 35 of 2003 | 26 Jun 2003 | 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
-Sentencing Legislation Amendment and Repeal Act 2003Pt. 2, s. 29(3) and 33 | 50 of 2003 (as amended by No. 41 of 2006 s. 94 and No. 5 of 2008 s. 109) | 9 Jul 2003 | Pt. 2 Div. 1 and 3: 30 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); Pt. 2 Div. 2, 4 and 5 and s. 29(3): 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); s. 33: 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
+Sentencing Legislation Amendment and Repeal Act 2003Pt. 2, s. 29(3) and 33 | 50 of 2003 (as amended by No. 41 of 2006 s. 94, No. 5 of 2008 s. 109 and No. 49 of 2008 s. 3-5) | 9 Jul 2003 | Pt. 2 Div. 1 and 3: 30 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); Pt. 2 Div. 2, 4 and 5 and s. 29(3): 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); s. 33: 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Reprint 3: The Sentencing Act 1995 as at 10 Oct 2003 (includes amendments listed above except the Sentencing Legislation Amendment and Repeal Act 2003s. 33)
 Criminal Injuries Compensation Act 2003 s. 73 | 77 of 2003 | 15 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
@@ -54,7 +54,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Sentencing Legislation (Transitional Provisions) Amendment Act 2008 s. 3-5 | 49 of 2008 | 17 Dec 2008 | 14 Jan 2009
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
@@ -67,7 +66,7 @@ The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as
 (2) The Minister may make a recommendation under subsection (1) only if the Minister considers that each amendment proposed to be made by the regulations is necessary or desirable as a consequence of the enactment of the RWWA Act or this Act.
 (3) Nothing in this section prevents subsidiary legislation from being amended in accordance with the Act under which it was made.
 ”.
-The Sentencing Legislation Amendment and Repeal Act 2003 s. 22 and 29(2), which give effect to Sch. 1, read as follows:
+The Sentencing Legislation Amendment and Repeal Act 2003 s. 22 and 29(2), which give effect to Sch. 1 (as amended by No. 5 of 2008 s. 109 and No. 49 of 2008 s. 3-5), read as follows:
 “
 22.Transitional provisions
 Schedule 1 has effect in relation to the amendments effected by this Division.
@@ -88,19 +87,21 @@ old provisions means the Sentencing Act 1995, and the repealed Act, as they woul
 repealed Act means the Sentence Administration Act 1995;
 sentencing amendments means the amendments to the Sentencing Act 1995 effected by Part 2 Division 4 and the repeal of the Sentence Administration Act 1995 effected by section 29(1).
 (2) In this Schedule, words and expressions have the same meanings as they have in the Sentencing Act 1995 and in particular, in Part 13 of that Act.
-2.Sentencing courts to take into account the effect of the sentencing amendments
-(1) If a court sentencing an offender to imprisonment proposes to impose a fixed term (with or without a parole eligibility order), it must impose a fixed term that is two thirds of the fixed term that it would have imposed had the old provisions been in operation at the time of sentencing.
-(2) For the purposes of subclause (1) —
-(a) it does not matter that the court may be proposing to suspend the fixed term under Part 11 of the Sentencing Act 1995; and
-(b) a reference to imposing a fixed term includes a reference to dealing with an offender under section 80 of the Sentencing Act 1995 in respect of a sentence of suspended imprisonment imposed under the old provisions.
-(3) Despite subclause (1), if the sentence required by that subclause would contravene section 86 of the Sentencing Act 1995, if the court considers that a term of imprisonment is warranted in all the circumstances, the court may impose a term of more than 6 months.
-(4) A court does not have to apply this clause if, in sentencing an offender, the court follows the practice of the court as established in accordance with the new provisions and this clause.
-(5) This clause does not apply if —
-(a) the statutory penalty for the offence for which the offender is being sentenced has been amended since the new provisions commenced;
-(b) a guideline judgment given under section 143 of the Sentencing Act 1995 since the new provisions commenced applies to the offender or the offence for which the offender is being sentenced;
-(c) the application of this clause would be inconsistent with or contrary to any other judgment given since the new provisions commenced that binds the sentencing court;
-(d) a court is imposing a term under section 401(4) of The Criminal Code; or
-(e) a court is sentencing an offender to a term that, under the old provisions, would have been a prescribed term within the meaning of section 85 of the Sentencing Act 1995.
+[2.Deleted by No. 49 of 2008 s. 3.]
+3A.Provisions relating to deletion of clause 2
+(1) In this clause —
+clause 2 means clause 2 of this Schedule as in force immediately before the relevant commencement;
+minimum custodial period of a fixed term, is the amount of the fixed term required to be served in custody before the offender would be, or was or would have been, eligible or entitled to be released, whether on parole or on being discharged from the sentence;
+relevant commencement means the commencement of the Sentencing Legislation (Transitional Provisions) Amendment Act 2008.
+(2) After the relevant commencement, clause 2 does not apply to the sentencing of an offender for an offence —
+(a) even if the offence was committed before the relevant commencement; and
+(b) even if the offender was convicted before the relevant commencement; and
+(c) even if the sentencing is as a result of an appeal against a sentence imposed before the relevant commencement,
+despite any written or unwritten law to the contrary.
+(3) A court sentencing an offender to a fixed term can have regard to the minimum custodial period of the fixed term to be imposed and the minimum custodial periods of fixed terms imposed before the relevant commencement, whether or not clause 2 applied to their imposition.
+(4) A court sentencing an offender to a fixed term can impose a penalty up to the statutory penalty for the offence.
+(5) This clause expires 3 years after the relevant commencement.
+[Section 3A inserted by No. 49 of 2008 s. 4.]
 3.Application of Interpretation Act 1984 s. 36
 Section 36 of the Interpretation Act 1984 applies as if the Sentence Administration Act 1995 had been repealed and re-enacted by the Sentence Administration Act 2003.
 4.Community orders imposed before commencement
@@ -193,26 +194,7 @@ The Board’s annual report made under section 112 of the Sentence Administratio
 (a) any release of the person on parole in respect of the sentence is to be by means of a parole order made by the Governor under Part 3 of the Sentence Administration Act 2003;
 (b) the parole period for the parole order is that provided by section 27(3) of the Sentence Administration Act 2003; and
 (c) Part 3 Divisions 6 to 11 and Parts 4 to 10 of the Sentence Administration Act 2003 apply to and in respect of the person and the parole order.
-14.Transitional regulations
-(1) If there is no sufficient provision in this Schedule or in the old provisions or in the new provisions to provide for matters in relation to —
-(a) the application of the old provisions to a sentence of imprisonment imposed before commencement;
-(b) the effect after commencement of a sentence of imprisonment imposed before commencement;
-(c) the imposition after commencement of sentences of imprisonment on offenders who are subject to sentences of imprisonment imposed before commencement;
-(d) the combined effect of a sentence of imprisonment imposed before commencement and of a sentence of imprisonment imposed after commencement;
-(e) the application of the Sentence Administration Act 1995 or the Sentence Administration Act 2003 to orders made under the old provisions or under the Fines, Penalties and Infringement Notices Enforcement Act 1994,
-the Governor may make regulations prescribing all matters that are required, necessary or convenient to be prescribed in relation to those matters.
-(2) Regulations made under subclause (1) may provide that specific provisions of this Schedule, or of the old provisions, or of the new provisions —
-(a) do not apply; or
-(b) apply with specific modifications,
-to or in relation to any matter.
-(3) Regulations made under subclause (1) must be made within 12 months after commencement.
-(4) The Governor may make any regulations that are necessary or convenient for preventing any doubt or difficulty arising as to the application or operation of clause 2 or for resolving any doubt or difficulty that may have arisen in that regard.
-(5) If regulations made under subclause (1) or (4) provide that a specified state of affairs is to be taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations are published in the Gazette but not earlier than commencement, the regulations have effect according to their terms.
-(6) In subclause (5) —
-specified means specified or described in the regulations.
-(7) If regulations contain a provision referred to in subclause (5), the provision does not operate so as —
-(a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the date of publication of those regulations; or
-(b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the date of publication of those regulations.
+[14.Deleted by No. 49 of 2008 s. 5.]
 ”.
 The amendments in the Sentencing Legislation Amendment Act 2004 s. 6(4) erroneously referred to “73(3) and (5)” instead of “75(3) and (5)” when identifying the required amendments to be made to s. 33N(3).
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 59 which purported to replace s. 84E could not be included because s. 84E was not in operation when s. 59 came into operation. S. 59 was subsequently repealed by No. 41 of 2006 s. 74(2).
@@ -223,26 +205,4 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 54.Sentencing Act 1995 amended
 (1) The amendment in this section is to the Sentencing Act 1995.
 (2) Schedule 1 is amended by deleting the item relating to the Cattle Industry Compensation Act 1965.
-”.
-On the date as at which this compilation was prepared, the Sentencing Legislation (Transitional Provisions) Amendment Act 2008 s. 3-5 to amend the Sentencing Legislation Amendment and Repeal Act 2003 had not come into operation. They read as follows:
-“
-3.Schedule 1 clause 2 deleted
-Delete Schedule 1 clause 2.
-4.Schedule 1 clause 3A inserted
-Before Schedule 1 clause 3 insert:
-3A.Provisions relating to deletion of clause 2
-(1) In this clause —
-clause 2 means clause 2 of this Schedule as in force immediately before the relevant commencement;
-minimum custodial period of a fixed term, is the amount of the fixed term required to be served in custody before the offender would be, or was or would have been, eligible or entitled to be released, whether on parole or on being discharged from the sentence;
-relevant commencement means the commencement of the Sentencing Legislation (Transitional Provisions) Amendment Act 2008.
-(2) After the relevant commencement, clause 2 does not apply to the sentencing of an offender for an offence —
-(a) even if the offence was committed before the relevant commencement; and
-(b) even if the offender was convicted before the relevant commencement; and
-(c) even if the sentencing is as a result of an appeal against a sentence imposed before the relevant commencement,
-despite any written or unwritten law to the contrary.
-(3) A court sentencing an offender to a fixed term can have regard to the minimum custodial period of the fixed term to be imposed and the minimum custodial periods of fixed terms imposed before the relevant commencement, whether or not clause 2 applied to their imposition.
-(4) A court sentencing an offender to a fixed term can impose a penalty up to the statutory penalty for the offence.
-(5) This clause expires 3 years after the relevant commencement.
-5.Schedule 1 clause 14 deleted
-Delete Schedule 1 clause 14.
 ”.
