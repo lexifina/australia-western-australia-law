@@ -5,23 +5,23 @@
 [Heading inserted by No. 78 of 1984 s. 14.]
 ## Division 1
 [Heading inserted by No. 78 of 1984 s. 14.]
-Chief Justice of Western Australia or other Judge of the Supreme Court.
+Chief Justice of Western Australia or other judge of the Supreme Court.
 Master of the Supreme Court.
-Chief Judge or other Judge of the District Court.
-President or other Judge or magistrate of the Children’s Court.
-Chief Judge or other Judge of the Family Court of Western Australia.
+Chief Judge or other judge of the District Court.
+President or other judge or magistrate of the Children’s Court.
+Chief Judge or other judge of the Family Court of Western Australia.
 Chief Magistrate, Deputy Chief Magistrate or magistrate of the Magistrates Court.
 Industrial magistrate appointed under the Industrial Relations Act 1979.
 Coroner appointed under the Coroners Act 1996.
 Chief Assessor of Criminal Injuries Compensation or an Assessor of Criminal Injuries Compensation appointed under the Criminal Injuries Compensation Act 2003.
 President of The Western Australian Industrial Relations Commission.
-Chief Commissioner, Senior Commissioner or other Commissioner of The Western Australian Industrial Relations Commission.
+Chief Commissioner, Senior Commissioner or other commissioner of The Western Australian Industrial Relations Commission.
 Chairman or other member of the Salaries and Allowances Tribunal established by the Salaries and Allowances Act 1975.
 Chairman of the Coal Industry Superannuation Board.
 Chairperson or deputy chairperson of the Coal Industry Tribunal of Western Australia constituted under the Coal Industry Tribunal of Western Australia Act 1992.
 President or other member of the Mental Health Review Board established under the Mental Health Act 1996, including a member of a panel established under section 127 of that Act.
-Public Service Arbitrator appointed under Division 2 of Part IIA of the Industrial Relations Act 1979.
-Chairman, or deputy of the Chairman, of the Railways Classification Board established under Division 3 of Part IIA of the Industrial Relations Act 1979.
+Public service arbitrator appointed under Division 2 of Part IIA of the Industrial Relations Act 1979.
+Chairman, or deputy of the chairman, of the Railways Classification Board established under Division 3 of Part IIA of the Industrial Relations Act 1979.
 Member of the State Administrative Tribunal.
 Western Australian Gas Disputes Arbitrator appointed under section 62 of the Gas Pipelines Access (Western Australia) Act 1998.
 [Division 1 inserted by No. 78 of 1984 s. 14; amended by No. 97 of 1986 s. 40; No. 21 of 1987 s. 11; No. 28 of 1989 s. 33(3); No. 15 of 1991 s. 22(a); No. 44 of 1991 s. 3; No. 34 of 1992 s. 85; No. 37 of 1992 s. 39(a); No. 1 of 1995 s. 23(a); No. 2 of 1996 s. 61; No. 65 of 1998 s. 89; No. 34 of 1999 s. 61; No. 77 of 2003 s. 73; No. 55 of 2004 s. 1324; No. 59 of 2004 s. 141; No. 73 of 2006 s. 116(2).]
@@ -72,7 +72,7 @@ being a person appointed or employed by —
 (iv) the chief executive officer or chief employee, within the meaning of the Public Sector Management Act 1994, of that department or SES organization; or
 (v) a person in that department or SES organization in whom the power to make minor appointments is vested in accordance with the proviso to section 74 of the Constitution Act 1889.
 Any person appointed or employed by the holder of an office mentioned in Division 2 of Part 1.
-Any person appointed or employed by a body mentioned in Part 3 or by an instrumentality of which such a body is the governing authority or by the Western Australian Museum constituted under the Museum Act 1969, the Library Board of Western Australia constituted under the Library Board of Western Australia Act 1951, or the Western Australian Alcohol and Drug Authority established under the Alcohol and Drug Authority Act 1974.
+Any person appointed or employed by a body mentioned in Part 3 or by an instrumentality of which such a body is the governing authority or by The Western Australian Museum constituted under the Museum Act 1969, The Library Board of Western Australia constituted under the Library Board of Western Australia Act 1951, or the Western Australian Alcohol and Drug Authority established under the Alcohol and Drug Authority Act 1974.
 Any person who is an employee within the meaning of the Public Sector Management Act 1994 not referred to in a preceding item of this Division.
 Any person who is a member of the Police Force appointed under the Police Act 1892.
 Any person who is a member of the teaching staff appointed under the School Education Act 1999.
@@ -86,7 +86,7 @@ The Aboriginal Housing Board responsible to the Minister for Housing.
 The Aboriginal Lands Trust established by the Aboriginal Affairs Planning Authority Act 1972.
 The Aboriginal Cultural Material Committee established by the Aboriginal Heritage Act 1972.
 The adoption applications committee appointed under the Adoption Act 1994.
-The Advisory Committee constituted under the Charitable Collections Act 1946.
+The advisory committee constituted under the Charitable Collections Act 1946.
 The Advisory Committee constituted under the Control of Vehicles (Off-road Areas) Act 1978.
 The Advisory Committee constituted under section 216 of the Health Act 1911.
 The Advisory Committee appointed under section 435 of the Local Government (Miscellaneous Provisions) Act 1960.
@@ -106,7 +106,7 @@ The Apple Sales Advisory Committee constituted under the Agricultural Products A
 The Architects Board of Western Australia established under the Architects Act 2004.
 The Artificial Breeding Board constituted under the Artificial Breeding Board Act 1965.
 Any board constituted under section 3 of the Parks and Reserves Act 1895 other than the Parliamentary Reserve Board.
-The board of directors of Gold Corporation constituted under the Gold Corporation Act 1987.
+The Board of directors of Gold Corporation constituted under the Gold Corporation Act 1987.
 The Board of Directors of the Honey Pool of Western Australia constituted under the Honey Pool Act 1978.
 The Board of Directors of the Minerals and Energy Research Institute of Western Australia constituted under the Minerals and Energy Research Act 1987.
 The board of directors of the Water Corporation established by the Water Corporation Act 1995.
@@ -114,21 +114,21 @@ The board of directors of the Western Australian Land Authority constituted unde
 The Board of Examiners established under the Mines Safety and Inspection Act 1994.
 The board of management of the Armadale Redevelopment Authority established by the Armadale Redevelopment Act 2001.
 The board of management of the Botanic Gardens and Parks Authority established by the Botanic Gardens and Parks Authority Act 1998.
-The Board of management of the Gascoyne Development Commission established by the Regional Development Commissions Act 1993.
-The Board of management of the Goldfields-Esperance Development Commission established by the Regional Development Commissions Act 1993.
-The Board of management of the Great Southern Development Commission established by the Regional Development Commissions Act 1993.
-The Board of management of the Kimberley Development Commission established by the Regional Development Commissions Act 1993.
-The Board of management of the Mid West Development Commission established by the Regional Development Commissions Act 1993.
-The Board of management of the Peel Development Commission established by the Regional Development Commissions Act 1993.
-The Board of management of the Pilbara Development Commission established by the Regional Development Commissions Act 1993.
-The Board of management of the South West Development Commission established by the Regional Development Commissions Act 1993.
-The Board of management of the Wheatbelt Development Commission established by the Regional Development Commissions Act 1993.
+The board of management of the Gascoyne Development Commission established by the Regional Development Commissions Act 1993.
+The board of management of the Goldfields-Esperance Development Commission established by the Regional Development Commissions Act 1993.
+The board of management of the Great Southern Development Commission established by the Regional Development Commissions Act 1993.
+The board of management of the Kimberley Development Commission established by the Regional Development Commissions Act 1993.
+The board of management of the Mid West Development Commission established by the Regional Development Commissions Act 1993.
+The board of management of the Peel Development Commission established by the Regional Development Commissions Act 1993.
+The board of management of the Pilbara Development Commission established by the Regional Development Commissions Act 1993.
+The board of management of the South West Development Commission established by the Regional Development Commissions Act 1993.
+The board of management of the Wheatbelt Development Commission established by the Regional Development Commissions Act 1993.
 The board of management of the Western Australian Land Information Authority established by the Land Information Authority Act 2006.
 The board of management of the Western Australian Sports Centre Trust constituted under the Western Australian Sports Centre Trust Act 1986.
 Any board of reference constituted under the Construction Safety Act 1972 or the Machinery Safety Act 1974.
 The Board of the Art Gallery of Western Australia constituted under the Art Gallery Act 1959.
 The board of the Western Australian Greyhound Racing Association constituted under the Western Australian Greyhound Racing Association Act 1981.
-The board of valuers established by the Planning and Development Act 2005.
+The Board of Valuers established by the Planning and Development Act 2005.
 The Broome Port Authority established under the Port Authorities Act 1999.
 The Builders’ Registration Board of Western Australia constituted under the Builders’ Registration Act 1939.
 The Building Disputes Tribunal constituted under the Builders’ Registration Act 1939 including a member of a panel established under section 28 of that Act.
@@ -190,7 +190,7 @@ The Law Reform Commission of Western Australia established under the Law Reform 
 The Law Reporting Advisory Board constituted by the Law Reporting Act 1981.
 The Legal Aid Commission of Western Australia established under the Legal Aid Commission Act 1976.
 The Legal Contribution Trust established by the Legal Contribution Trust Act 1967.
-The Legislative Review and Advisory Committee established under the Legislative Review and Advisory Committee Act 1976.
+The Legislative Review and Advisory Committee established under the Legislative Review and Advisory Committee Act 1976 5.
 The Liquor Commission established under the Liquor Control Act 1988.
 The Local Government Advisory Board established under the Local Government Act 1995.
 The Lotteries Commission continued under the Lotteries Commission Act 1990.
@@ -262,7 +262,7 @@ The Trustees of the Technical Education Division Self Supporting Activities appo
 The Urban Lands Council responsible to the Minister for Housing.
 The Veterinary Preparations and Animal Feeding Stuffs Advisory Committee established under the Veterinary Preparations and Animal Feeding Stuffs Act 1976.
 The Veterinary Surgeons’ Board constituted under the Veterinary Surgeons Act 1960.
-The Waste Authority established under the Waste Avoidance and Resources Recovery Act 2007.
+The Waste Authority established under the Waste Avoidance and Resource Recovery Act 2007.
 Any water board constituted under the Water Boards Act 1904 other than a water board constituted by the appointment of a local government to be the water board or a water board of which all of the members are elected.
 The Water Resources Council established by the Water Agencies (Powers) Act 1984.
 The Western Australia Marine Manning Committee established by the Western Australian Marine Act 1982.
@@ -286,4 +286,4 @@ The Western Australian Wildlife Authority constituted under the Wildlife Conserv
 Any wheat products prices committee constituted under the Wheat Products (Prices Fixation) Act 1938.
 The Youth, Sport and Recreation Advisory Committee established under the Youth, Sport and Recreation Act 1978.
 The Zoological Parks Authority established under the Zoological Parks Authority Act 2001.
-[Part 3 inserted by No. 78 of 1984 s. 14; amended by No. 101 of 1986 s. 23; No. 32 of 1987 s. 36; No. 83 of 1987 s. 38; No. 88 of 1987 s. 20; No. 89 of 1987 s. 43; No. 99 of 1987 s. 79; No. 114 of 1987 s. 12; No. 75 of 1988 s. 27(2); No. 6 of 1990 s. 12; No. 10 of 1990 s. 38; No. 16 of 1990 s. 33; No. 27 of 1990 s. 4; No. 39 of 1990 s. 36; No. 40 of 1990 s. 46; No. 73 of 1990 s. 45; No. 76 of 1990 s. 33; No. 91 of 1990 s. 17; No. 104 of 1990 s. 35(1); No. 5 of 1991 s. 35; No. 22 of 1991 s. 63; No. 60 of 1991 s. 21; No. 62 of 1991 s. 59; No. 5 of 1992 s. 12(1); No. 27 of 1992 s. 84; No. 29 of 1992 s. 55; No. 40 of 1992 s. 3(b); No. 59 of 1992 s. 25; No. 77 of 1992 s. 41; No. 2 of 1993 s. 15; No. 10 of 1993 s. 56; No. 26 of 1993 s. 20; No. 32 of 1993 s. 11(2); No. 36 of 1993 s. 58; No. 40 of 1993 s. 20; No. 53 of 1993 s. 44; No. 6 of 1994 s. 13; No. 9 of 1994 s. 145; No. 35 of 1994 s. 67; No. 36 of 1994 s. 35; No. 45 of 1994 s. 21; No. 53 of 1994 s. 264; No. 62 of 1994 s. 109; No. 73 of 1994 s. 4; No. 83 of 1994 s. 50; No. 84 of 1994 s. 46(5); No. 89 of 1994 s. 109; No. 96 of 1994 s. 92; No. 103 of 1994 s. 18; No. 104 of 1994 s. 236; No. 11 of 1995 s. 58(1); No. 14 of 1995 s. 44; No. 26 of 1995 s. 23; No. 34 of 1995 s. 33; No. 73 of 1995 s. 188; No. 78 of 1995 s. 16; No. 14 of 1996 s. 4; No. 15 of 1996 s. 8(1); No. 40 of 1996 s. 152(3); No. 42 of 1996 s. 71; No. 45 of 1996 s. 38; No. 76 of 1996 s. 21; No. 17 of 1997 s. 35; No. 22 of 1997 s. 58; No. 31 of 1997 s. 16; No. 57 of 1997 s. 37; No. 58 of 1997 s. 97; No. 4 of 1998 s. 48; No. 13 of 1998 s. 34(1); No. 23 of 1998 s. 20; No. 30 of 1998 s. 8; No. 42 of 1998 s. 38; No. 45 of 1998 s. 8(1); No. 56 of 1998 s. 56; No. 5 of 1999 s. 21; No. 8 of 1999 s. 16; No. 26 of 1999 s. 67; No. 38 of 1999 s. 70; No. 39 of 1999 s. 11(2); No. 44 of 1999 s. 28(1); No. 58 of 1999 s. 100; No. 2 of 2000 s. 29(2); No. 20 of 2000 s. 33(1); No. 24 of 2000 s. 3(6) and 14(13); No. 35 of 2000 s. 52(1); No. 43 of 2000 s. 35; No. 72 of 2000 s. 44; No. 76 of 2000 s. 61; No. 12 of 2001 s. 47; No. 24 of 2001 s. 47; No. 25 of 2001 s. 69; No. 5 of 2002 s. 15; No. 24 of 2002 s. 22; No. 30 of 2002 s. 47; No. 8 of 2003 s. 87; No. 30 of 2003 s. 43; No. 31 of 2003 s. 202; No. 35 of 2003 s. 20, 50(2), 68(1), 116(1) and 221(1); No. 48 of 2003 s. 62 (renumbered s. 338 by No. 78 of 2003 s. 35(13)); No. 50 of 2003 s. 29(3); No. 73 of 2003 s. 24; No. 8 of 2004 s. 88; No. 20 of 2004 s. 7; No. 34 of 2004 s. 251; No. 40 of 2004 s. 16; No. 42 of 2004 s. 157; No. 53 of 2004 s. 79; No. 54 of 2004 s. 174; No. 55 of 2004 s. 1324; No. 57 of 2004 s. 35; No. 75 of 2004 s. 79; No. 18 of 2005 s. 139; No. 28 of 2005 s. 108; No. 29 of 2005 s. 109; No. 30 of 2005 s. 109; No. 31 of 2005 s. 109; No. 32 of 2005 s. 109; No. 33 of 2005 s. 108; No. 38 of 2005 s. 15; No. 42 of 2005 s. 109; No. 5 of 2006 s. 126; No. 21 of 2006 s. 105; No. 28 of 2006 s. 396; No. 41 of 2006 s. 89; No. 43 of 2006 s. 4; No. 50 of 2006 s. 114; No. 60 of 2006 s. 185; No. 73 of 2006 s. 116(3); No. 7 of 2007 s. 58; No. 10 of 2007 s. 43; No. 19 of 2007 s. 67; No. 36 of 2007 s. 100; No. 38 of 2007 s. 192; No. 22 of 2008 s. 162; No. 28 of 2008 s. 12.]
+[Part 3 inserted by No. 78 of 1984 s. 14; amended by No. 101 of 1986 s. 23; No. 32 of 1987 s. 36; No. 83 of 1987 s. 38; No. 88 of 1987 s. 20; No. 89 of 1987 s. 43; No. 99 of 1987 s. 79; No. 114 of 1987 s. 12; No. 75 of 1988 s. 27(2); No. 6 of 1990 s. 12; No. 10 of 1990 s. 38; No. 16 of 1990 s. 33; No. 27 of 1990 s. 4; No. 39 of 1990 s. 36; No. 40 of 1990 s. 46; No. 73 of 1990 s. 45; No. 76 of 1990 s. 33; No. 91 of 1990 s. 17; No. 104 of 1990 s. 35(1); No. 5 of 1991 s. 35; No. 22 of 1991 s. 63; No. 60 of 1991 s. 21; No. 62 of 1991 s. 59; No. 5 of 1992 s. 12(1); No. 27 of 1992 s. 84; No. 29 of 1992 s. 55; No. 40 of 1992 s. 3(b); No. 59 of 1992 s. 25; No. 77 of 1992 s. 41; No. 2 of 1993 s. 15; No. 10 of 1993 s. 56; No. 26 of 1993 s. 20; No. 32 of 1993 s. 11(2); No. 36 of 1993 s. 58; No. 40 of 1993 s. 20; No. 53 of 1993 s. 44; No. 6 of 1994 s. 13; No. 9 of 1994 s. 145; No. 35 of 1994 s. 67; No. 36 of 1994 s. 35; No. 45 of 1994 s. 21; No. 53 of 1994 s. 264; No. 62 of 1994 s. 109; No. 73 of 1994 s. 4; No. 83 of 1994 s. 50; No. 84 of 1994 s. 46(5); No. 89 of 1994 s. 109; No. 96 of 1994 s. 92; No. 103 of 1994 s. 18; No. 104 of 1994 s. 236; No. 11 of 1995 s. 58(1); No. 14 of 1995 s. 44; No. 26 of 1995 s. 23; No. 34 of 1995 s. 33; No. 73 of 1995 s. 188; No. 78 of 1995 s. 16; No. 14 of 1996 s. 4; No. 15 of 1996 s. 8(1); No. 40 of 1996 s. 152(3); No. 42 of 1996 s. 71; No. 45 of 1996 s. 38; No. 76 of 1996 s. 21; No. 17 of 1997 s. 35; No. 22 of 1997 s. 58; No. 31 of 1997 s. 16; No. 57 of 1997 s. 37; No. 58 of 1997 s. 97; No. 4 of 1998 s. 48; No. 13 of 1998 s. 34(1); No. 23 of 1998 s. 20; No. 30 of 1998 s. 8; No. 42 of 1998 s. 38; No. 45 of 1998 s. 8(1); No. 56 of 1998 s. 56; No. 5 of 1999 s. 21; No. 8 of 1999 s. 16; No. 26 of 1999 s. 67; No. 38 of 1999 s. 70; No. 39 of 1999 s. 11(2); No. 44 of 1999 s. 28(1); No. 58 of 1999 s. 100; No. 2 of 2000 s. 29(2); No. 20 of 2000 s. 33(1); No. 24 of 2000 s. 3(6) and 14(13); No. 35 of 2000 s. 52(1); No. 43 of 2000 s. 35; No. 72 of 2000 s. 44; No. 76 of 2000 s. 61; No. 12 of 2001 s. 47; No. 24 of 2001 s. 47; No. 25 of 2001 s. 69; No. 5 of 2002 s. 15; No. 24 of 2002 s. 22; No. 30 of 2002 s. 47; No. 8 of 2003 s. 87; No. 30 of 2003 s. 43; No. 31 of 2003 s. 202; No. 35 of 2003 s. 20, 50(2), 68(1), 116(1) and 221(1); No. 48 of 2003 s. 62; No. 50 of 2003 s. 29(3); No. 73 of 2003 s. 24; No. 8 of 2004 s. 88; No. 20 of 2004 s. 7; No. 34 of 2004 s. 251; No. 40 of 2004 s. 16; No. 42 of 2004 s. 157; No. 53 of 2004 s. 79; No. 54 of 2004 s. 174; No. 55 of 2004 s. 1324; No. 57 of 2004 s. 35; No. 75 of 2004 s. 79; No. 18 of 2005 s. 139; No. 28 of 2005 s. 108; No. 29 of 2005 s. 109; No. 30 of 2005 s. 109; No. 31 of 2005 s. 109; No. 32 of 2005 s. 109; No. 33 of 2005 s. 108; No. 38 of 2005 s. 15; No. 42 of 2005 s. 109; No. 5 of 2006 s. 126; No. 21 of 2006 s. 105; No. 28 of 2006 s. 396; No. 41 of 2006 s. 89; No. 43 of 2006 s. 4; No. 50 of 2006 s. 114; No. 60 of 2006 s. 185; No. 73 of 2006 s. 116(3); No. 7 of 2007 s. 58; No. 10 of 2007 s. 43; No. 19 of 2007 s. 67; No. 36 of 2007 s. 100; No. 38 of 2007 s. 192; No. 22 of 2008 s. 162; No. 28 of 2008 s. 12.]
