@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Evidence Act 1906 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This reprint is a compilation as at 23 January 2009 of the Evidence Act 1906 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Evidence Act 1906 | 28 of 1906 (6 Edw. VII No. 28) | 14 Dec 1906 | 14 Dec 1906
@@ -97,7 +97,8 @@ Acts Amendment (Justice) Act 2008 Pt. 11 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 12 | 26 of 2008 | 19 Jun 2008 | 1 Jan 2009 (see s. 2(b) and Gazette 9 Dec 2008 p. 5107)
 Criminal Law Amendment (Homicide) Act 2008 s. 33 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 15: The Evidence Act 1906 as at 23 Jan 2009 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 31 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
@@ -107,9 +108,10 @@ The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
 ”.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
+Repealed by the Defamation Act 2005.
 The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
 Largely, but not completely, superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth.
-The Companies Act 1961 was superseded by the Companies (Western Australia) Code which has also been superseded (see endnote 4); see section 18 of the Companies (Application of Laws) Act 1981.
+The Companies Act 1961 was superseded by the Companies (Western Australia) Code which has also been superseded (see endnote 5); see section 18 of the Companies (Application of Laws) Act 1981.
 The Acts Amendment (Video and Audio Links) Act 1998 s. 3 reads as follows:
 “
 3.Power to use certain technology
@@ -158,7 +160,7 @@ as if the substantive provisions of the relevant old Act —
 (d) had not been repealed;
 (e) were a taxation Act for the purposes of the Taxation Administration Act 2003; and
 (f) had been amended to make any modifications necessary for this section to have effect.
-(4) If an objection, appeal or other legal proceeding (the “action”) was instituted under an old Act and was not finally determined before the commencement day —
+(4) If an objection, appeal or other legal proceeding (the action) was instituted under an old Act and was not finally determined before the commencement day —
 (a) the action may be continued;
 (b) any requirement to pay interest on an amount of tax determined in the action to have been overpaid applies and may be enforced;
 (c) any penalty may be imposed and enforced; and
@@ -176,10 +178,9 @@ Part 4 — Transitional and validation
 fee regulations means regulations 6(2) and 13 of the Evidence (Witnesses’ and Interpreters’ Fees and Expenses) Regulations 1976.
 (2) Any payment purporting to have been made under the fee regulations before the coming into operation of section 28 is taken to have been, and to have always been, as valid as it would have been if section 28 had come into operation before the fee regulations were made.
 ”.
-The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to amend s. 56(1) is not included because the subsection it sought to amend was replaced by s. 82 (Sch. 2 it. 118) of the same Act.
+The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to s. 56(1) is not included because that subsection was replaced by s. 82 (Sch. 2 it. 118) of the same Act.
 The amendment in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 36 to s. 106A is not included because the paragraph it sought to amend had been amended by the Children and Community Services Act 2004 Sch. 2 cl. 9.
-16-18Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 31 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 31 had not come into operation. It reads as follows:
 “
 31.Evidence Act 1906 amended
 (1) The amendments in this section are to the Evidence Act 1906.
@@ -204,7 +205,7 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 21A | Obligations of those who operate sexual service business in relation to children
 ”.
 ”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 662 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 662 had not come into operation. It reads as follows:
 “
 662.Evidence Act 1906 amended
 (1) The amendments in this section are to the Evidence Act 1906.
@@ -213,3 +214,106 @@ On the date as at which this compilation was prepared, the Legal Profession Act 
 A person who is entitled to practise as an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3) in a participating jurisdiction is entitled to practise as an Australian legal practitioner —
 ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+a broadcast36C(4)
+accused36A(1), 106A
+Act3
+affected child106A
+application for leave19A(1)
+audio link120(1)
+Australasian colony3
+Australia109(1), 115, 120(1)
+authorised officer50B(1)
+authority104A(5)
+bank3
+bankers’ books3
+broadcast106MB(3)
+business79B
+business day50B(1)
+business record79B
+child106A
+colony3
+complainant19A(1)(a), 36A(1), 36C(4)(a)
+corroboration warning50(1)
+counsel106A
+counselling communication19A(1)
+counsellor19A(1)(a)
+counsels19A(1) and (2)
+court3, 79B
+criminal proceedings119(1)
+derived79B
+disclose19A(1)
+DNA profile50B(1)
+document3, 79B
+duties Act73U(3)
+eligible service119(1)
+examination50B(1), 109(1)
+examined copy3
+forensic scientist50B(1)
+Gazette3
+Government Printer3
+harm19A(1)
+hearing106T(5)
+hearing day50B(1)
+inferior court109(1)
+inquest119(1)
+judge3, 11(3), 12(5), 106M(3)
+judicial authority109(1)
+legal proceeding3
+liable person119(1)
+mental impairment106A
+new offence106A
+officer of the Library Board of Western Australia65A(2)
+opinion rule27B(4)
+participating jurisdiction120(1)
+party19C(7), 50B(1)
+periodical42
+person acting judicially3
+photograph3
+prisoner3
+privilege32A(2)
+Privy Council57(4)
+proceeding3, 106A, 106HB(1)
+proceedings79B, 115
+propensity evidence31A(1)
+property115
+prosecutor106A
+protected communication19A(1)
+protected person19A(1)
+protected witness106G(3)
+qualified person79B
+recognized court120(1)
+relationship evidence31A(1)
+relevant statement106H(3)
+repealed Code section9(6), 36A(1), Sch. 7 it. 1(2)
+request115
+requesting court115
+require disclosure19A(1)
+rules of court32A(2)
+Schedule 7 proceeding106A
+serious sexual offence106A
+sexual offence36A(1)
+special hearing106S(2)
+special witness106A
+stamped73U(3)
+State3
+statement79B
+superior court109(1)
+support person19A(1)
+supporting affidavit19A(1)
+the Commonwealth3
+the protection provisions19A(1)
+the State3
+thing50B(1)
+tribunal120(1)
+uncorroborated evidence3
+video link120(1)
+visual recording106A
+visual recording of evidence106A
+visually recorded interview106A, 106HA(3)
+votes and proceedings3
+WA court120(1)
+witness106RA(1)
+written publication36C(4)
