@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Sentencing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 23 January 2009 of the Sentencing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Sentencing Act 1995 | 76 of 1995 | 16 Jan 1996 | s. 1 and 2: 16 Jan 1996; Act other than s. 1, 2 and 19, and Pt. 12: 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
@@ -16,7 +16,7 @@ Botanic Gardens and Parks Authority Act 1998 s. 56 | 53 of 1998 | 7 Dec 1998 | 1
 Port Authorities (Consequential Provisions) Act 1999 s. 21 | 5 of 1999 | 13 Apr 1999 | 14 Aug 1999 (see s. 2 and Gazette 13 Aug 1999 p. 3823)
 Reprint of the Sentencing Act 1995 as at 16 Apr 1999 (includes amendments listed above except those in the Botanic Gardens and Parks Authority Act 1998 and the Port Authorities (Consequential Provisions) Act 1999)
 Perth Parking Management (Consequential Provisions) Act 1999 s. 7(5) | 16 of 1999 | 19 May 1999 | 7 Aug 1999 (see s. 2 and Gazette 6 Aug 1999 p. 3727)
-Sentencing Legislation Amendment and Repeal Act 1999 s. 6(3), 27-33, 36, 37 and 39 | 57 of 1999 (as amended by No. 62 of 2000 and 50 of 2003 s. 31) | 16 Dec 1999 | s. 37 and 39: 8 Apr 2000 (see s. 2(1) and Gazette 7 Apr 2000 p. 1813); Pt. 3 (s. 27-33): 8 Jan 2001 (see s. 2 and Gazette 29 Dec 2000 p. 7903); s. 6(3) and 36: 30 Jun 2001 (see s. 2(1) and Gazette 29 Jun 2001 p. 3111)
+Sentencing Legislation Amendment and Repeal Act 1999 s. 6(3), 27-33, 36, 37 and 39 | 57 of 1999 (amended by No. 62 of 2000 s. 4-6) | 16 Dec 1999 | s. 37 and 39: 8 Apr 2000 (see s. 2(1) and Gazette 7 Apr 2000 p. 1813); Pt. 3 (s. 27-33): 8 Jan 2001 (see s. 2 and Gazette 29 Dec 2000 p. 7903); s. 6(3) and 36: 30 Jun 2001 (see s. 2(1) and Gazette 29 Jun 2001 p. 3111) Uncommenced provisions repealed by No. 50 of 2003 s. 31 [commenced 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833)
 Sentencing Amendment Regulations 2000 Pt. 3 published in Gazette 3 Mar 2000 p. 1013-15 | 3 Mar 2000
 Acts Amendment (Fines Enforcement) Act 2000 Pt. 3 | 9 of 2000 | 19 May 2000 | 25 Aug 2000 (see s. 2 and Gazette 25 Aug 2000 p. 4903)
 Reprint of the Sentencing Act 1995 as at 4 May 2001 (includes amendments listed above except those in the Sentencing Legislation Amendment and Repeal Act 1999 s. 6(3) and 36)
@@ -24,11 +24,12 @@ Criminal Law Amendment Act 2001 Pt. 3 | 23 of 2001 | 26 Nov 2001 | 24 Dec 2001
 Zoological Parks Authority Act 2001 s. 47 | 24 of 2001 | 26 Nov 2001 | 22 May 2002 (see s. 2 and Gazette 10 May 2002 p. 2445)
 Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 64 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
 Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 221(4) | 35 of 2003 | 26 Jun 2003 | 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
-Sentencing Legislation Amendment and Repeal Act 2003Pt. 2, s. 29(3) and 33 | 50 of 2003 (as amended by No. 41 of 2006 s. 94, No. 5 of 2008 s. 109 and No. 49 of 2008 s. 3-5) | 9 Jul 2003 | Pt. 2 Div. 1 and 3: 30 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); Pt. 2 Div. 2, 4 and 5 and s. 29(3): 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); s. 33: 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
-Reprint 3: The Sentencing Act 1995 as at 10 Oct 2003 (includes amendments listed above except the Sentencing Legislation Amendment and Repeal Act 2003s. 33)
+Sentencing Legislation Amendment and Repeal Act 2003Pt. 2, s. 29(3) and 33 | 50 of 2003 (amended by No. 41 of 2006 s. 94, No. 5 of 2008 s. 109 and No. 49 of 2008 s. 3, 4 and 5) | 9 Jul 2003 | Pt. 2 Div. 1 and 3: 30 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); Pt. 2 Div. 2, 4 and 5 and s. 29(3): 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); s. 33: 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
+Reprint 3: The Sentencing Act 1995 as at 10 Oct 2003 (includes amendments listed above except those in the Sentencing Legislation Amendment and Repeal Act 2003s. 33)
 Criminal Injuries Compensation Act 2003 s. 73 | 77 of 2003 | 15 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Western Australian College of Teaching Act 2004 s. 88 | 8 of 2004 | 10 Jun 2004 | 15 Sep 2004 (see s. 2 and Gazette 3 Sep 2004 p. 3849)
+Criminal Law Amendment (Criminal Property) Act 2004 Pt. 3 | 26 of 2004 | 7 Oct 2004 | 28 May 2008 (see s. 2(2) and Gazette 27 May 2008 p. 2037)
 Sentencing Legislation Amendment Act 2004 Pt. 2 Div. 1 | 27 of 2004 | 14 Oct 2004 | 31 May 2006 (see s. 2 and Gazette 30 May 2006 p. 1965)
 Pig, Potato and Poultry Industries (Compensation Legislation) Repeal Act 2004 s. 18 | 40 of 2004 | 3 Nov 2004 | 1 Feb 2005 (see. s. 2 and Gazette 7 Jan 2005 p. 53)
 Workers’ Compensation Reform Act 2004 s. 169 and 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
@@ -36,29 +37,29 @@ Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Fe
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Community Protection (Offender Reporting) Act 2004 s. 116 | 72 of 2004 | 8 Dec 2004 | 25 Dec 2004 (see s. 2 and Gazette 24 Dec 2004 p. 6266)
 Architects Act 2004 s. 80 | 75 of 2004 | 8 Dec 2004 | 16 Nov 2005 (see s. 2 and Gazette 15 Nov 2005 p. 5597)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 13 and s. 82 | 84 of 2004 (as amended by No. 41 of 2006 s. 74(2) and 75(2)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 4: The Sentencing Act 1995 as at 12 Aug 2005 (includes amendments listed above except those in the Sentencing Legislation Amendment Act 2004 and the Architects Act 2004)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 13 and s. 82 | 84 of 2004 (amended by No. 41 of 2006 s. 74(2) and 75(2)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Reprint 4: The Sentencing Act 1995 as at 12 Aug 2005 (includes amendments listed above except those in the Criminal Law Amendment (Criminal Property) Act 2004, Sentencing Legislation Amendment Act 2004 and the Architects Act 2004)
 Water Legislation Amendment (Competition Policy) Act 2005 s. 53 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
-Criminal Law Amendment (Criminal Property) Act 2004 Pt. 3 | 26 of 2004 | 7 Oct 2004 | 28 May 2008 (see s. 2(2) and Gazette 27 May 2008 p. 2037)
-Parole and Sentencing Legislation Amendment Act 2006 Pt. 3 | 41 of 2006 | 22 Sep 2006 | s. 74 & 75: 22 Sep 2006 (see s. 2(4)(b)); Pt. 3 other than s. 71, 74 & 75: 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867) s. 71: 28 May 2008 (see s. 2(3) and Gazette 27 May 2008 p. 2037)
+Parole and Sentencing Legislation Amendment Act 2006 Pt. 3 | 41 of 2006 | 22 Sep 2006 | s. 74 and 75: 22 Sep 2006 (see s. 2(4)(b)); Pt. 3 other than s. 71, 74 and 75: 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867); s. 71: 28 May 2008 (see s. 2(3)(a) and Gazette 27 May 2008 p. 2037)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 4 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 5: The Sentencing Act 1995 as at 6 Jul 2007 (includes amendments listed above except those in the Criminal Law Amendment (Criminal Property) Act 2004 and Parole and Sentencing Legislation Amendment Act 2006 s. 71)
+Reprint 5: The Sentencing Act 1995 as at 6 Jul 2007 (includes amendments listed above except those in the Criminal Law Amendment (Criminal Property) Act 2004 and the Parole and Sentencing Legislation Amendment Act 2006 s. 71)
 Water Resources Legislation Amendment Act 2007 s. 199 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
-Fines Legislation Amendment Act 2008 Pt.3 | 3 of 2008 | 12 Mar 2008 | 28 Mar 2008 (see s. 2(c) and Gazette 27 Mar 2008 p. 899)
 Criminal Law and Evidence Amendment Act 2008 s. 70 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
-Acts Amendment (Justice) Act 2008 Pt. 20 and 21 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Fines Legislation Amendment Act 2008 Pt. 3 | 3 of 2008 | 12 Mar 2008 | 28 Mar 2008 (see s. 2(c) and Gazette 27 Mar 2008 p. 899)
+Acts Amendment (Justice) Act 2008 Pt. 20 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Criminal Law Amendment (Homicide) Act 2008 Pt. 3 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 6: The Sentencing Act 1995 as at 23 Jan 2009 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
 The Sentencing Act 1995 s. 19 and Pt. 12 did not come into operation and were repealed by the Criminal Law Amendment Act (No. 2) 1998 s. 17 and 18.
-The Sentencing Legislation Amendment and Repeal Act 1999 (other than s. 6(3), 27-33, 36, 37 and 39) did not come into operation and was repealed by No. 50 of 2003 s. 31.
+The Sentencing Legislation Amendment and Repeal Act 1999 Pt. 2 Div. 3 (s. 14-26) are transitional provisions. They did not come into operation before the Act was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 (No. 50 of 2003) s. 31.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 “
 19.Power to amend regulations
@@ -66,7 +67,8 @@ The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as
 (2) The Minister may make a recommendation under subsection (1) only if the Minister considers that each amendment proposed to be made by the regulations is necessary or desirable as a consequence of the enactment of the RWWA Act or this Act.
 (3) Nothing in this section prevents subsidiary legislation from being amended in accordance with the Act under which it was made.
 ”.
-The Sentencing Legislation Amendment and Repeal Act 2003 s. 22 and 29(2), which give effect to Sch. 1 (as amended by No. 5 of 2008 s. 109 and No. 49 of 2008 s. 3-5), read as follows:
+The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 6 requires a review of certain provisions. It was repealed by the Parole and Sentencing Legislation Amendment Act 2006 (No. 41 of 2006) s. 94.
+The Sentencing Legislation Amendment and Repeal Act 2003 s. 22 and 29(2), which give effect to Sch. 1 (amended by No. 5 of 2008 s. 109 and No. 49 of 2008 s. 3-5, read as follows:
 “
 22.Transitional provisions
 Schedule 1 has effect in relation to the amendments effected by this Division.
@@ -199,10 +201,95 @@ The Board’s annual report made under section 112 of the Sentence Administratio
 The amendments in the Sentencing Legislation Amendment Act 2004 s. 6(4) erroneously referred to “73(3) and (5)” instead of “75(3) and (5)” when identifying the required amendments to be made to s. 33N(3).
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 59 which purported to replace s. 84E could not be included because s. 84E was not in operation when s. 59 came into operation. S. 59 was subsequently repealed by No. 41 of 2006 s. 74(2).
 The amendments in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 65 that purported to amend s. 84P(3) could not be included because s. 84P(3) was not in operation when s. 65 came into operation. Those amendments were subsequently repealed by No. 41 of 2006 s. 75(2).
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 had not come into operation. It reads as follows:
 “
 54.Sentencing Act 1995 amended
 (1) The amendment in this section is to the Sentencing Act 1995.
 (2) Schedule 1 is amended by deleting the item relating to the Cattle Industry Compensation Act 1965.
 ”.
+The Sentencing Amendment (Adjustment of Sentences) Act 2000 (No. 62 of 2000) s. 4-6 commenced on 7 Dec 2000 (see s. 2).
+The Parole and Sentencing Legislation Amendment Act 2006 (No. 41 of 2006) s. 94 commenced on 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867).
+The Parole and Sentencing Legislation Amendment Act 2006 (No. 41 of 2006) s. 74(2) and 75(2) commenced on 22 Sep 2006 (see s. 2(4)(b)).
+The Acts Amendment (Justice) Act 2008 (No. 5 of 2008) s. 109 commenced on 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253).
+The Sentencing Legislation (Transitional Provisions) Amendment Act 2008 (No. 49 of 2008) s. 3, 4 and 5 commenced on 14 Jan 2009.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+a third party118(1)
+ammunition106(5)
+bail4(1)
+breach4(1)
+CBO4(2)
+CCO4(2)
+CEO (corrections)4(1)
+community based order4(1)
+community corrections centre4(1)
+community corrections officer4(1)
+community order4(1)
+community work4(1)
+conditional release order4(1)
+conditional suspended imprisonment4(1)
+criminal property confiscation8(6)
+CRO4(2)
+CSI4(2)
+CSI requirement84G
+derived property8(6)
+disqualification order4(1)
+DPP4(2)
+driver’s licence105(5)
+early release order76(4), 81(4)
+excluded offence33A(1)
+fine57(1)
+firearm106(5)
+firearms offence106(5)
+fixed term85(1)
+full sentence37A(1)(a)
+imprisonable offence33A(1)
+indefinite imprisonment85(1)
+intensive supervision order4(1)
+ISO4(2)
+joint offenders55(3)
+marine offence107(5)
+marine qualification107(5)
+motor vehicle105(5)
+motor vehicle offence105(5)
+nominal sentence98(1)
+offence4(1)
+offender4(1), 79(1)(a), 84E(1)(a), 129(1)(a)
+parole eligibility order85(1)
+parole order85(1)
+parole term85(1)
+passport offence108(6)
+pending charge31
+period of imprisonment59(7)
+prescribed term85(1)
+pre-sentence order4(1)
+prisoner85(1)
+property116
+PSO4(2)
+reduced sentence37A(1)
+release85(1)
+release order89(8)
+reparation order109
+requirement33L(1)
+requirements125(1)
+sentence37(5), 37A(5)
+sentencing day33B(1)(a)
+speciality court4(1)
+specified33H(15), 75(15), 84C(15)
+specified place33H(2)(a), 75(2)(a), 84C(2)(a)
+spent conviction order4(1)
+statutory penalty4(1)
+superior court4(1)
+term85(1)
+the award115(2)
+the original offence32(1)
+the speciality court84N(2)
+the third party120(1)(b)
+the victim120(1)
+the term imposed35(1)
+vessel107(5)
+victim13, 116
+video link14A(4)
+WDO57A(4)(b)
+written reasons33A(7), 35(4)
