@@ -1,9 +1,9 @@
 Notes
-This is a compilation of the Transport (Country Taxi-car) Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 30 January 2009 of the Transport (Country Taxi-car) Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
-Transport (Country Taxi-car) Regulations 1982 | 23 Jul 1982 p. 2853-61 (Erratum 30 Jul 1982 p. 2957) | 1 Aug 1982 (see r. 2 and Gazette 23 Jul 1982 p. 2842)
-Transport (Country Taxi-car) Amendment Regulations 1984 | 31 Aug 1984 p. 2783-6 (Erratum 26 Oct 1984 p. 3459) | 30 Sep 1984 (see r. 2)
+Transport (Country Taxi-car) Regulations 1982 | 23 Jul 1982 p. 2853-61 (erratum 30 Jul 1982 p. 2957) | 1 Aug 1982 (see r. 2 and Gazette 23 Jul 1982 p. 2842)
+Transport (Country Taxi-car) Amendment Regulations 1984 | 31 Aug 1984 p. 2783-6 (erratum 26 Oct 1984 p. 3459) | 30 Sep 1984 (see r. 2)
 Transport (Country Taxi-car) Amendment Regulations 1985 | 20 Dec 1985 p. 4856 | 1 Jan 1986 (see r. 2)
 Transport (Country Taxi-car) Amendment Regulations 1986 | 7 Feb 1986 p. 431-2 | 10 Feb 1986 (see r. 2)
 Transport (Country Taxi-car) Amendment Regulations (No. 2) 1986 | 8 Aug 1986 p. 2827 | 8 Aug 1986
@@ -24,7 +24,7 @@ Transport (Country Taxi-car) Amendment Regulations 1989 | 24 Feb 1989 p. 529 | 2
 Transport (Country Taxi-car) Amendment Regulations (No. 2) 1989 | 26 May 1989 p. 1553 | 26 May 1989
 Transport (Country Taxi-car) Amendment Regulations (No. 3) 1989 | 21 Jul 1989 p. 2222-5 | 21 Jul 1989
 Transport (Country Taxi-car) Amendment Regulations 1990 | 2 Mar 1990 p. 1351-2 | 2 Mar 1990
-Transport (Country Taxi-car) Amendment Regulations (No. 2) 1990 | 20 Jul 1990 p. 3544-5 (Erratum 3 Aug 1990 p. 3794) | 20 Jul 1990
+Transport (Country Taxi-car) Amendment Regulations (No. 2) 1990 | 20 Jul 1990 p. 3544-5 (erratum 3 Aug 1990 p. 3794) | 20 Jul 1990
 Transport (Country Taxi-car) Amendment Regulations (No. 3) 1990 | 30 Nov 1990 p. 5941 | 30 Nov 1990
 Country Taxi-cars (Fares and Charges) Regulations 1991 r. 8 | 19 Apr 1991 p. 1815-20 | 19 Apr 1991 (see r. 2)
 Transport (Country Taxi-car) Amendment Regulations 1991 | 27 Sep 1991 p. 5074 | 27 Sep 1991
@@ -40,3 +40,20 @@ Transport (Country Taxi-car) Amendment Regulations 2006 | 14 Jul 2006 p. 2575-81
 Transport (Country Taxi-car) Amendment Regulations 2007 | 22 Jun 2007 p. 2874-5 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Transport (Country Taxi-car) Amendment (Road Traffic) Regulations 2008 | 24 Jun 2008 p. 2913-14 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 Transport (Country Taxi-car) Amendment Regulations 2008 | 1 Jul 2008 p. 3160-1 | r. 1 and 2: 1 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2008 (see r. 2(b))
+Reprint 3: The Transport (Country Taxi-car) Regulations 1982 as at 30 Jan 2009 (includes amendments listed above)
+Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
+If immediately before commencement of the Courts Legislation Amendment and Repeal Act 2004 Pt. 2 Div. 2, a person held office under the Local Courts Act 1904 s. 13 as a clerk, then on commencement the person is taken under the Courts Legislation Amendment and Repeal Act 2004 s. 6(1) to have been appointed as a registrar of the Magistrates Court.
+Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+approved4
+authorised officer4
+for hire sign29(4)
+ordinary taxi-car licence4
+regulation4
+subregulation4
+taxi for hire sign29(4)
+taxi sign29(4)
+taxi-car licence4
+temporary taxi-car licence4
