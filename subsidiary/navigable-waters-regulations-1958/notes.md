@@ -115,45 +115,22 @@ Reprint 12: The Navigable Waters Regulations 1958 as at 4 Aug 2006 (includes ame
 Navigable Waters Amendment Regulations (No. 2) 2006 | 1 Sep 2006 p. 3596-9 | 2 Sep 2006 (see r. 2(a) and Gazette 1 Sep 2006 p. 3591)
 Navigable Waters Amendment Regulations 2007 | 12 Jun 2007 p. 2726-7 | 1 Jul 2007 (see r. 2)
 Navigable Waters Amendment Regulations (No. 2) 2007 | 30 Nov 2007 p. 5938 | r. 1 and 2: 30 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2007 (see r. 2(b))
+Navigable Waters Amendment Regulations (No. 2) 2008 | 24 Jun 2008 p. 2891-2 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2009 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 4) 2008 | 24 Jun 2008 p. 2894-5 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 3) 2008 | 1 Jul 2008 p. 3154 | r. 1 and 2: 1 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2008 (see r. 2(b))
-Reprint 13: The Navigable Waters Regulations 1958 as at 3 Oct 2008 (includes amendments listed above)
+Reprint 13: The Navigable Waters Regulations 1958 as at 3 Oct 2008 (includes amendments listed above except those in the Navigable Waters Amendment Regulations (No. 2) 2008)
 Navigable Waters Amendment Regulations (No. 5) 2008 | 24 Oct 2008 p. 4669-70 | r. 1 and 2: 24 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Oct 2008 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 6) 2008 | 9 Jan 2009 p. 36-7 | r. 1 and 2: 9 Jan 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jan 2009 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Navigable Waters Amendment Regulations (No. 2) 2008 r. 3 and 4 | 24 Jun 2008 p. 2891-2 | 1 Feb 2009 (see r. 2(b))
 The Police Act 1892 Part IIIA was replaced by the Police Amendment Act 2008 s. 10. Under the current Part IIIA Aboriginal police liaison officers are appointed under s. 38B.
 Repealed by the Dangerous Goods Safety Act 2004.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
-On the date as at which this compilation was prepared, the Navigable Waters Amendment Regulations (No. 2) 2008 r. 3 and 4 had not come into operation. They read as follows:
-“
-3.The regulations amended
-The amendments in these regulations are to the Navigable Waters Regulations 1958.
-4.Regulation 52BAB amended
-(1) Regulation 52BAB(1) and (1a) are repealed and the following subregulations are inserted instead —
-“
-(1A) In this regulation —
-AS/NZS, followed by a designation means the Australian/New Zealand Standard having that designation that is jointly published by Standards Australia and the Standards Council of New Zealand;
-MS 241 means the Ministerial Standard for Emergency Position Indicating Radio Beacons, made by the Federal Minister under the Radiocommunications Act 1983 of the Commonwealth section 9;
-prescribed standard means —
-(a)AS/NZS 4280.1:2003; or
-(b)until 1 February 2009 — MS 241 or AS/NZS 4330:1995.
-(1) The owner of a vessel that proceeds more than 2 nautical miles from the mainland, or more than 400 m from an island situated more than 2 nautical miles from the mainland, must ensure that the vessel is equipped with an Emergency Position Indicating Radio Beacon that —
-(a) complies with a prescribed standard; and
-(b) is registered with the Australian Maritime Safety Authority established under the Australian Maritime Safety Authority Act 1990 of the Commonwealth section 5.
-”.
-(2) Regulation 52BAB(2) is amended by deleting “this regulation” and inserting instead —
-“ subregulation (1) ”.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 ABP standard45A(2)
-AN/NZS52BAB(1a)
+AS/NZS52BAB(1A)
 appropriate personal flotation device50B(3)
 appropriate signal19E(4)
 authorised person2
@@ -171,7 +148,7 @@ inspector2
 jetty21
 learner47B(2)
 motor boat2
-MS52BAB(1a)
+MS 24152BAB(1A)
 navigable waters2
 officer of the department2
 owner2, 45A(2), 46(1), 47CA(3)
@@ -180,6 +157,7 @@ personal watercraft46(2)
 PFD Type 146(2)
 PFD Type 246(2)
 PFD Type 346(2)
+prescribed standard52BAB(1A)
 proposed departure date45BAA(1)
 protected waters2
 public jetty2
