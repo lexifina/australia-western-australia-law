@@ -10,35 +10,33 @@
 Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
 Barracuda .................................................... | 4 |  | 7
 Barramundi ................................................. | 2
-Billfish (Marlins, Sailfish and Spearfish) and Swordfish (combined) ........................ | 1
+Billfish (Marlins, Sailfish and Spearfish) and Swordfish (combined) . | 1
 Bonefish ...................................................... | 2
 Cobia ............................................................ | 2
 Cod (combined, except Coral Trout and Coronation Trout) ...................................... | 4
 Cod classified as Epinephelus spp., in excess of 30 kg weight or 1000 mm in length ..................................................... | 0
 Cod, Estuary and Rankin (combined, except Estuary Cod in the waters of the Shark Bay western gulf and the Shark Bay eastern gulf) ............................................... | 2
 Cod, Estuary, in the waters of the Shark Bay western gulf and the Shark Bay eastern gulf ................................................. | 1
-Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
-Coral Trout and Coronation Trout (combined) ................................................. | 1 |  | 7
-Dhufish, West Australian and Pearl Perch (combined) ................................................. | 2
+Coral Trout and Coronation Trout (combined) .................................... | 1
+Dhufish, West Australian and Pearl Perch (combined) ...................... | 2
 Dolphinfish (Mahi Mahi) ............................ | 4
 Emperor and Seabream (combined) ............ | 4
 Emperor, Red .............................................. | 2
 Mackerel, Shark .......................................... | 4
 Mackerel, Broad-barred Spanish and Narrow-barred Spanish (combined) .......... | 2
 Mackerel, Wahoo ........................................ | 2
-Mulloway and Northern Mulloway (combined) ................................................. | 2
+Mulloway and Northern Mulloway (combined) .................................. | 2
 Parrot Fish (combined) ................................ | 4
-Sea Perch, Tropical, except Red Emperor (combined) ................................................. | 4
-Snapper, Pink, except in the waters of Shark Bay ................................................... | 4
+Sea Perch, Tropical, except Red Emperor (combined) .................... | 4
+Snapper, Pink, except in the waters of Shark Bay .......................... | 4
 Snapper, Pink, in the waters of the Shark Bay western gulf and the waters of the Shark Bay eastern gulf ............................... | 1
 Queenfish ..................................................... | 4
-Samson Fish, Amberjack and Yellowtail Kingfish (combined) .................................. | 2
+Samson Fish, Amberjack and Yellowtail Kingfish (combined) ......... | 2
 Sharks and Rays (combined) ....................... | 2
-Tuskfish and Baldchin Groper (combined), except in the waters of the Shark Bay western gulf and the Shark Bay eastern gulf ............................................................. | 4
+Tuskfish and Baldchin Groper (combined), except in the waters of the Shark Bay western gulf and the Shark Bay eastern gulf ............ | 4
 Tuskfish and Baldchin Groper (combined), in the waters of the Shark Bay western gulf and the Shark Bay eastern gulf ........... | 2
-Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
-Trevally, Giant and Golden (combined) ...... | 2 |  | 7
-Tuna, Southern Bluefin, Yellowfin and Bigeye (combined) ..................................... | 2
+Trevally, Giant and Golden (combined) ...... | 2
+Tuna, Southern Bluefin, Yellowfin and Bigeye (combined) .............. | 2
 [Division 1 inserted in Gazette 1 Oct 2003 p. 4332-3; amended in Gazette 6 Apr 2004 p. 1134; 4 Nov 2005 p. 5314; 22 Dec 2005 p. 6229-30.]
 ## Division 2 — Grouped bag limit of 16 fish
 [Heading inserted in Gazette 1 Oct 2003 p. 4334.]
@@ -94,36 +92,35 @@ Ark Shell, Cockle, Pipis, Venus Clams and all other species of edible molluscs n
 ## Division 1 — Grouped bag limit of 7 fish
 [Heading inserted in Gazette 22 Dec 2005 p. 6230.]
 Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
-Barramundi, except when taken from Broome area waters (as defined in r. 64ZJ) or Ord River area waters (as defined in r. 64ZF) ................... | 2 |  | 7
-Barramundi, when taken from Broome area waters (as defined in r. 64ZJ) or Ord River area waters (as defined in r. 64ZF) ........................... | 1
-Billfish (Marlins, Sailfish and Spearfish) and Swordfish (combined) ....................................... | 1
-Cobia ................................................................... | 2
-Cod (combined, except Coral Trout and Coronation Trout) ............................................. | 4
-Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
-Cod classified as Epinephelus spp., in excess of 30 kg in weight or 1000 mm in length ........ | 0 |  | 7
-Cod, Estuary, Malabar and Rankin (combined) .. | 2
-Coral Trout and Coronation Trout when taken from waters east of Poissonnier Point (combined) ....................................................... | 1
-Coral Trout and Coronation Trout when taken from waters west of Poissonnier Point (combined) ....................................................... | 2
-Dolphinfish (Mahi Mahi) .................................... | 4
-Emperor and Seabream (combined) ................... | 4
-Emperor, Red ..................................................... | 2
-Mackerel, Shark ................................................. | 4
-Mackerel, Broad-barred Spanish ........................ | 2
-Mackerel, Narrow-barred Spanish ..................... | 2
-Mackerel, Wahoo ............................................... | 2
-Mangrove Jack, except when taken from Dampier Archipelago waters (as defined in r. 64OB) ........................................................... | 4
-Mangrove Jack, when taken from Dampier Archipelago waters (as defined in r. 64OB) .... | 2
-Mulloway, Northern ........................................... | 2
-Parrot Fish (combined) ........................................ | 4
-Pearl Perch ......................................................... | 4
-Samson Fish, Amberjack and Yellowtail Kingfish (combined) ........................................ | 2
-Sea Perch, Crimson and Scarlet (combined) ...... | 4
-Snapper, Pink ..................................................... | 4
-Sharks and Rays (combined) .............................. | 2
-Threadfin, Giant ................................................. | 2
-Tripletail ............................................................... | 1
-Tuna, Southern Bluefin, Northern Bluefin, Yellowfin, Bigeye and Dogtooth (combined) .. | 2
-Wrasse (combined) ............................................. | 2
+Barramundi, except when taken from Broome area waters (as defined in r. 64ZJ) or Ord River area waters (as defined in r. 64ZF) ............ | 2 |  | 7
+Barramundi, when taken from Broome area waters (as defined in r. 64ZJ) or Ord River area waters (as defined in r. 64ZF) ................ | 1
+Billfish (Marlins, Sailfish and Spearfish) and Swordfish (combined) . | 1
+Cobia ...................................................................................... | 2
+Cod (combined, except Coral Trout and Coronation Trout) .. | 4
+Cod classified as Epinephelus spp., in excess of 30 kg in weight or 1000 mm in length .............................................. | 0
+Cod, Estuary, Malabar and Rankin (combined) .................... | 2
+Coral Trout and Coronation Trout when taken from waters east of Poissonnier Point (combined) .................................. | 1
+Coral Trout and Coronation Trout when taken from waters west of Poissonnier Point (combined) .................................. | 2
+Dolphinfish (Mahi Mahi) ........................................................ | 4
+Emperor and Seabream (combined) ....................................... | 4
+Emperor, Red .......................................................................... | 2
+Mackerel, Shark ...................................................................... | 4
+Mackerel, Broad-barred Spanish ............................................ | 2
+Mackerel, Narrow-barred Spanish ......................................... | 2
+Mackerel, Wahoo .................................................................. | 2
+Mangrove Jack, except when taken from Dampier Archipelago waters (as defined in r. 64OB) ......................... | 4
+Mangrove Jack, when taken from Dampier Archipelago waters (as defined in r. 64OB) ............................................. | 2
+Mulloway, Northern ............................................................... | 2
+Parrot Fish (combined) ........................................................... | 4
+Pearl Perch .............................................................................. | 4
+Samson Fish, Amberjack and Yellowtail Kingfish (combined) ........................................................................... | 2
+Sea Perch, Crimson and Scarlet (combined) .......................... | 4
+Snapper, Pink ......................................................................... | 4
+Sharks and Rays (combined) .................................................. | 2
+Threadfin, Giant ...................................................................... | 2
+Tripletail ................................................................................. | 1
+Tuna, Southern Bluefin, Northern Bluefin, Yellowfin, Bigeye and Dogtooth (combined) .................................................... | 2
+Wrasse (combined) ................................................................ | 2
 [Division 1 inserted in Gazette 22 Dec 2005 p. 6231-2.]
 ## Division 2 — Grouped bag limit of 16 fish
 [Heading inserted in Gazette 22 Dec 2005 p. 6232.]
@@ -192,7 +189,7 @@ Barracuda ........................................................... | 2 |  | 4
 Billfish, Sailfish, Spearfish and Marlins and Swordfish (combined) ................................... | 1
 Cobbler .............................................................. | 4
 Cobia ................................................................. | 2
-Cod (combined, except Coral Trout and Coronation Trout) .......................................... | 4
+Cod (combined, except Coral Trout and Coronation Trout) | 4
 Cod classified as Epinephelus spp., in excess of 30 kg in weight or 1000 mm in length ...... | 0
 Cod, Estuary and Rankin (combined) ............... | 2
 Coral Trout and Coronation Trout (combined) . | 1
@@ -200,7 +197,7 @@ Dhufish, West Australian .................................. | 2
 Dolphinfish (Mahi Mahi) .................................. | 2
 Emperor (combined) .......................................... | 4
 Emperor, Red ..................................................... | 2
-Groper, Blue....................................................... | 1 |  | 4
+Groper, Blue....................................................... | 1
 Hapuku, Trevalla, Bass Groper and Grey Banded Rock Cod (combined) ...................... | 2
 Mackerel, Shark ................................................. | 2
 Mackerel, Broad-barred Spanish and Narrow-barred Spanish (combined) .............. | 2
@@ -209,14 +206,14 @@ Mulloway .......................................................... | 2
 Parrot Fish (combined) ...................................... | 4
 Salmon, Australian ............................................ | 4
 Samson Fish, Amberjack and Yellowtail Kingfish (combined) ...................................... | 2
-Sea Perch, Tropical, except Red Emperor (combined) ..................................................... | 2
+Sea Perch, Tropical, except Red Emperor (combined) ....... | 2
 Sharks and Rays (combined) ............................. | 2
 Snapper, Pink, only one of which may be in excess of 70 cm if taken or brought onto land from metropolitan waters .............................. | 2
 Snapper, Queen ................................................. | 4
-Snapper, Red (Redfish) and Swallowtail (combined) ..................................................... | 4
+Snapper, Red (Redfish) and Swallowtail (combined) ......... | 4
 Trevally, Giant and Golden (combined) ........... | 2
 Trout, Brown and Rainbow (combined) ........... | 4
-Tuna, Southern Bluefin, Yellowfin and Bigeye (combined) ..................................................... | 2
+Tuna, Southern Bluefin, Yellowfin and Bigeye (combined) | 2
 Tuskfish and Baldchin Groper (combined) ....... | 4
 [Division 1 inserted in Gazette 1 Oct 2003 p. 4337-8; amended in Gazette 4 Nov 2005 p. 5316; 22 Dec 2005 p. 6234; 19 Dec 2008 p. 5363.]
 ## Division 2 — Grouped bag limit of 16 fish
