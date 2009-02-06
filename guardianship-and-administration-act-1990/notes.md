@@ -1,11 +1,11 @@
 Notes
-This is a compilation of the Guardianship and Administration Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 February 2009 of the Guardianship and Administration Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Guardianship and Administration Act 1990 | 24 of 1990 | 7 Sep 1990 | Act other than Pt. 4-7, s. 123, 124 and Sch. 2, 4 and 5: 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2649); Pt. 4-7, s. 123, 124 and Sch. 2, 4 and 5: 20 Oct 1992 (see s. 2 and Gazette 2 Oct 1992 p. 4811)
+Guardianship and Administration Act 1990 | 24 of 1990 | 7 Sep 1990 | s. 1 and 2: 7 Sep 1990; Act other than s. 1 and 2, Pt. 4-7, s. 123, 124 and Sch. 2, 4 and 5: 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2649); Pt. 4-7, s. 123, 124 and Sch. 2, 4 and 5: 20 Oct 1992 (see s. 2 and Gazette 2 Oct 1992 p. 4811)
 Guardianship and Administration Amendment Act 1992 | 16 of 1992 | 17 Jun 1992 | 17 Jun 1992 (see s. 2)
 Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
-Guardianship and Administration Amendment Act 1996 | 7 of 1996 | 24 May 1996 | 1 Jul 1996 (see s. 2 and Gazette 28 Jun 1996 p. 3014)
+Guardianship and Administration Amendment Act 1996 | 7 of 1996 | 24 May 1996 | s. 1 and 2: 24 May 1996; Act other than s. 1 and 2: 1 Jul 1996 (see s. 2 and Gazette 28 Jun 1996 p. 3014)
 Mental Health (Consequential Provisions) Act 1996 Pt. 8 | 69 of 1996 | 13 Nov 1996 | 13 Nov 1997 (see s. 2)
 Reprint of the Guardianship and Administration Act 1990 as at 21 Apr 1997 (includes amendments listed above except those in the Mental Health (Consequential Provisions) Act 1996)
 Acts Amendment and Repeal (Family Court) Act 1997 s. 32 | 41 of 1997 | 9 Dec 1997 | 26 Sep 1998 (see s. 2 and Gazette 25 Sep 1998 p. 5295)
@@ -18,7 +18,7 @@ Sentencing Legislation Amendment and Repeal Act 2003 s. 70 | 50 of 2003 | 9 Jul 
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 40 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
-Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 (as amended by No. 2 of 2008 s. 75(3)) | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
+Acts Amendment (Court of Appeal) Act 2004 s. 37 (Sch. 1 cl. 7) | 45 of 2004 (as amended by No. 2 of 2008 s. 75(3)) | 9 Nov 2004 | Sch. 1 cl. 7 (the amendments to s. 18(1) and 19(b)): 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 56 Subdiv. 1 | 55 of 2004 | 24 Nov 2004 | 24 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
@@ -28,7 +28,8 @@ Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
 Acts Amendment (Justice) Act 2008 Pt. 12 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 4: The Guardianship and Administration Act 1990 as at 6 Feb 2009 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 s. 667 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
@@ -49,7 +50,7 @@ and to the extent that subsection (1) conflicts or is inconsistent with such a d
 commencement day means the day on which this Act comes into operation;
 section means a section of the Guardianship and Administration Act 1990.
 ”.
-The Acts Amendment (Court of Appeal) Act 2004 Sch. 1 it. 7 (to amend s. 37A and the heading to Part 3 Div. 4) were repealed by the Criminal Law and Evidence Amendment Act 2008 s. 75(3).
+The Acts Amendment (Court of Appeal) Act 2004 Sch. 1 cl. 7 (to amend s. 37A and the heading to Part 3 Div. 4) was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 75(3).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 52 reads as follows:
 “
@@ -78,7 +79,7 @@ on or after the commencement day, the State Administrative Tribunal may make an 
 (b) a statement of acceptance in the form, or substantially in the form, of the GA Act Schedule 3 Form 2,
 in effect immediately before the commencement day contains a reference to the Guardianship and Administration Board, on and after the commencement day that reference is to be taken to be a reference to the State Administrative Tribunal.
 ”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 667 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 667 had not come into operation. It reads as follows:
 “
 667.Guardianship and Administration Act 1990 amended
 (1) The amendments in this section are to the Guardianship and Administration Act 1990.
@@ -91,8 +92,7 @@ legal practitioner means an Australian legal practitioner within the meaning of 
 (4) Section 70(3) is amended by deleting “Legal Practice Act 2003.” and inserting instead —
 “ Legal Profession Act 2008. ”.
 ”.
-Footnotes no longer applicable.
-On the date as at which this compilation was prepared, the Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 had not come into operation. It reads as follows:
 “
 Part 2 — Guardianship and Administration Act 1990 amended
 3.The Act amended
@@ -569,7 +569,8 @@ a decision in respect of the matter must be made by the guardian.
 (1) The Minister administering the Guardianship and Administration Act 1990 is to carry out a review of the operation and effectiveness of the provisions of the Guardianship and Administration Act 1990 and the relevant sections of The Criminal Code as soon as practicable after the expiration of 3 years from the commencement of this Act.
 (2) The Minister is to prepare a report based on the review made under subsection (1) and cause the report to be laid before each House of Parliament within 4 years after the commencement of this Act.
 ”.
-On the date as at which this compilation was prepared, the Surrogacy Act 2008 Pt. 4 Div. 4 had not come into operation. It reads as follows:
+The amendment to s. 45 in the Acts Amendment (Consent to Medical Treatment) Act 2008 s. 6(3) would conflict with an amendment in the Wills Amendment Act 2007 s. 25.
+On the date as at which this reprint was prepared, the Surrogacy Act 2008 Pt. 4 Div. 4 had not come into operation. It reads as follows:
 “
 Part 4 — Other Acts amended
 Division 4 — Guardianship and Administration Act 1990 amended
@@ -579,3 +580,37 @@ This Division amends the Guardianship and Administration Act 1990.
 After section 45(3)(c) insert:
 (da) consent, under section 21(2)(d) of the Surrogacy Act 2008, to the making of a parentage order under that Act; or
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+act114(4)
+administration order3(1)
+administrator3(1)
+application3(1)
+corporate trustee3(1)
+Court18(1)
+Deputy President3(1)
+designated country67(5)
+determination3(1)
+donee102
+enduring power of attorney102
+executive officer3(1)
+foreign administrator83B(4)
+Full Tribunal3(1)
+guardian3(1)
+guardianship order3(1)
+legal practitioner3(1)
+member3(1)
+mental disability3(1)
+nearest relative3(1)
+party3(1)
+practitioner119(4)
+President3(1)
+procedure for the sterilization56
+Public Advocate3(1)
+Public Trustee3(1)
+relevant finding67(5)
+relevant official83C(4)
+represented person3(1), 56
+treatment3(1)
+urgent treatment119(4)
