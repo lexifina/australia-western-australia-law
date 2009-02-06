@@ -3,7 +3,7 @@ These major towns are specified for the purposes of regulation 3(1) as being wit
 ·Carnarvon — (Shire of Carnarvon)
 ·Dampier, Roebourne, Karratha & Wickham — (Shire of Roebourne)
 ·Denham — (Shire of Shark Bay)
-·Exmouth — Shire of Exmouth)
+·Exmouth — (Shire of Exmouth)
 ·Meekatharra — (Shire of Meekatharra)
 ·Newman — (Shire of East Pilbara)
 ·Port Hedland — (Town of Port Hedland)
