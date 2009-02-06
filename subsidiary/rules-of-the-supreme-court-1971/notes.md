@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 April 2008 of the Rules of the Supreme Court 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint
+This is a compilation of the Rules of the Supreme Court 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint
 Compilation table
 Citation | Gazettal | Commencement
 Rules of the Supreme Court 1971 | 18 Nov 1971 p. 4397-758 | 14 Feb 1972 (see O. 1 r. 2(1))
@@ -119,11 +119,41 @@ Supreme Court Amendment Rules (No. 2) 2005 | 29 Apr 2005 p. 1797-802 | 2 May 200
 Supreme Court Amendment Rules 2007 | 21 Feb 2007 p. 531-96 | 1 Mar 2007 (see r. 2)
 Supreme Court Amendment Rules 2008 | 22 Feb 2008 p. 629-56 | Pt. 1: 22 Feb 2008 (see r. 2(a)); Pt. 2: 23 Feb 2008 (see r. 2(b)); Pt. 3: 25 Feb 2008 (see r. 2(c))
 Reprint 7: The Rules of the Supreme Court 1971 as at 11 Apr 2008 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Supreme Court Amendment Rules 2009 | 6 Feb 2009 p. 243-5 | Operative on commencement of the Legal Profession Act 2008 s. 25
 This Rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
 Formerly referred to as The Partnership Act 1895, the short title of which was changed to the Partnership Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 144. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The commencement date of 1 Jul 1982 that was specified was before the date of gazettal.
 The Supreme Court Amendment Rules 1994 r. 14 is a transitional provision that has no further effect.
 Disallowed on 10 Mar 1998, see Gazette 13 Mar 1998 p. 1389.
+On the date as at which this compilation was prepared, the Supreme Court Amendment Rules 2009 r. 3 and 4 had not come into operation. They read as follows:
+3.Rules amended
+These rules amend the Rules of the Supreme Court 1971.
+4.Order 75A replaced
+Delete Order 75A and insert:
+Order 75A — Legal Profession Act 2008 rules
+1.Terms used in this Order
+In this Order —
+interstate lawyer has the meaning given in the Legal Profession Act 2008 section 4;
+local roll has the meaning given in the Legal Profession Act 2008 section 28;
+Supreme Court (full bench) has the meaning given in the Legal Profession Act 2008 section 3.
+2.Application to the Supreme Court (full bench)
+(1) An application under the Legal Profession Act 2008 section 25 to be admitted to the legal profession must be made to the Supreme Court (full bench) by motion.
+(2) The application must be filed in the Central Office at least 2 months before the proposed date of admission.
+(3) When the application is filed a notice of motion must be served on the Legal Practice Board.
+3.Applicant to attend
+(1) Subject to subrule (2) an applicant for admission must attend in person before the Supreme Court (full bench) when the application is heard.
+(2) If the applicant is an interstate lawyer he or she may be represented at the hearing of the application by counsel and, if represented, is not required to attend in person.
+(3) A person who is admitted without appearing in person must, within 21 days of being admitted, attend at the office of a superior court of a State or Territory or of the High Court and —
+(a) take an oath or affirmation in the form set out in Rule 4; and
+(b) sign the supplementary roll,
+before the principal registrar, a registrar, a deputy registrar or the prothonotary of that court.
+(4) When a person signs the supplementary roll as provided in subrule (3), the person’s name is to be entered in the local roll in the usual manner with the endorsement “See supplementary roll”.
+4.Oath or affirmation
+The form of the oath or affirmation required under the Legal Profession Act 2008 section 26(1)(b) is —
+I, [name] of [address], [insert an oath or affirmation according to the Oaths, Affidavits and Statutory Declarations Act 2005] that I will truly and honestly conduct myself in my practice as a lawyer and as an officer of this honourable court according to the best of my knowledge and ability.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
