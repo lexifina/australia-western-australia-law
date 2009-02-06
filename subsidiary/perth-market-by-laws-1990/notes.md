@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Perth Market By-laws 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 February 2009 of the Perth Market By-laws 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Perth Market By-laws 1990 | 28 Dec 1990 p. 6415-32 | 1 Jan 1991 (see bl. 2)
@@ -14,3 +14,24 @@ Reprint of the Perth Market By-laws 1990 as at 10 Aug 2001 (includes amendments 
 Perth Market Amendment By-laws 2001 | 21 Sep 2001 p. 5219 | 21 Sep 2001
 Perth Market Amendment By-laws 2004 | 21 Sep 2004 p. 4103-6 | 21 Sep 2004
 Perth Market Amendment By-laws 2008 | 10 Oct 2008 p. 4539-42 | bl. 1 and 2: 10 Oct 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 11 Oct 2008 (see bl. 2(b))
+Reprint 2: The Perth Market By-laws 1990 as at 6 Feb 2009 (includes amendments listed above)
+Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+authorised person3(1)
+central trading area3(1)
+certificate of condemnation3(1)
+common area3(1)
+fish3(3)
+forklift3(1)
+form3(1)
+inspector3(1)
+manager3(1)
+no parking area33
+no standing area33
+occupier3(1)
+park33
+stand33
+the public market3(1)
+written agreement3(1)

@@ -1,46 +1,21 @@
-## Schedule 2
-Notices issued pursuant to section 13B
-Form 1
-Perth Market Act 1926
-INFRINGEMENT NOTICE
-No. .......................................................
-Date of service ................................ 20 .....................
-1.It is alleged that at about ..................................................... a.m./p.m. on the .......................................... day of ............................................ 20 .........., you contravened the by-law specified and briefly described in item 2.
-........................................................
-Authorised person
-2.By-law No. Brief description Modified penalty
-of offence
-3.You may dispose of this matter either —
-(a)by payment of the modified penalty within ..................... days of the date of this notice; or
-(b)by having it dealt with by a court.
-4.If the modified penalty is not paid within ........................... days, court proceedings may be taken against you.
-5.Payment may be made by completing item 6 and either posting this form and a cheque, money order or postal note for the amount of the modified penalty specified in item 2, to the Clerk of Petty Sessions, Perth or by delivering this form and paying the amount to the Clerk of Petty Sessions, Perth between the hours of 10.00 a.m. and 3.30 p.m. on Mondays to Fridays.
-6.I, ...............................................................................................................................
-(Name)
-of .........................................................................................................................................
-(number and street)
-.............................................................................................................................................
-(town or suburb)(Postcode)
-admit contravening the by-law indicated in this form.
-...................................................
-(Signature of offender)
-Form 2
-Perth Market Act 1926
-WITHDRAWAL OF INFRINGEMENT NOTICE
-No. .......................................................
-Date of service ................................ 20 .....................
-To ........................................................................................................................................
-(Name)
-of .........................................................................................................................................
-(Address)
-Infringement Notice No. ..................................................................... served on you on the .................................... day of ........................................ 20 .................... for the alleged contravention of by-law ................................................ is hereby withdrawn and no further action will be taken against you in respect of the alleged offence.
-...................................................
-Manager
-Form 3
-Perth Market Act 1926
-CERTIFICATE ISSUED PURSUANT TO SECTION 13C(2)
-CERTIFICATE
-This is to certify that ...........................................................................................................
-(Name)
-is authorised to give infringement notices pursuant to section 13C of the Perth Market Act 1926.
-The holder of this certificate shall produce this certificate whenever required to do so by a person to whom he has given, or is about to give, an infringement notice.
+## Prescribed offences for the purposes of section 13B
+By-law | Brief description of offence | Modified penalty
+ |  | $
+9 | Entering or remaining in the public market without permission | 25
+11 | Littering | 25
+12 | Conducting, organizing or taking part in an assembly or meeting in the public market without permission | 50
+13 | Smoking in a non-smoking area | 100
+14 | Behaving in a disorderly manner | 100
+15 | Writing or distributing obscene material | 20
+16 | Bill posting or writing on a building without permission | 20
+17 | Bringing, keeping or consuming any alcoholic beverage or remaining in the public market when intoxicated | 20
+18 | Obstructing roads or footways | 100
+19 | Bringing an animal into the public market | 20
+20 | Interfering with or damaging Authority’s property | 20
+22 | Littering roads adjacent to premises, failing to provide receptacles for rubbish or keep receptacles in good repair, placing liquid refuse in receptacle | 25
+24 | Soliciting outside own premises or those of employer | 50
+25(1) | Selling of general produce by a non-occupier or agent | 100
+25(2) | Buying general produce when not on the premises of an occupier | 20
+Part 5 | Offences in which the driving, standing or parking of a vehicle is an element | 50
+42B | Offences related to the driving or operating of forklifts | 50
+[Schedule 1 amended in Gazette 27 Nov 1992 p. 5737; 5 Mar 1993 p. 1431; 21 Sep 2004 p. 4105-6.]
