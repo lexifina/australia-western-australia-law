@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Country Taxi-cars (Fares and Charges) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 6 February 2009 of the Country Taxi-cars (Fares and Charges) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Country Taxi-cars (Fares and Charges) Regulations 1991 | 19 Apr 1991 p. 1815-20 | 19 Apr 1991
@@ -18,6 +18,7 @@ Country Taxi-cars (Fares and Charges) Amendment Regulations 1996 | 23 Feb 1996 p
 Country Taxi-cars (Fares and Charges) Amendment Regulations (No. 2) 1996 | 23 Feb 1996 p. 685-7 | 23 Feb 1996
 Country Taxi-cars (Fares and Charges) Amendment Regulations (No. 3) 1996 | 7 Jun 1996 p. 2423 | 7 Jun 1996
 Country Taxi-cars (Fares and Charges) Amendment Regulations 2000 | 28 Mar 2000 p. 1688-94 | 28 Mar 2000
+Reprint of the Country Taxi-cars (Fares and Charges) Regulations 1991 as at 26 Apr 2000 (includes amendments listed above)
 Country Taxi-cars (Fares and Charges) Amendment Regulations (No. 2) 2000 | 20 Jun 2000 p. 3071-5 | 1 Jul 2000 (see r. 2)
 Country Taxi-Cars (Fares and Charges) Amendment Regulations (No. 3) 2000 | 21 Nov 2000 p. 6326-9 | 21 Nov 2000
 Country Taxi-cars (Fares and Charges) Amendment Regulations 2002 | 24 Dec 2002 p. 6605-6 | 24 Dec 2002
@@ -30,3 +31,13 @@ Country Taxi-cars (Fares and Charges) Amendment Regulations (No. 2) 2006 | 8 Dec
 Country Taxi-cars (Fare and Charges) Amendment Regulations 2007 | 21 Dec 2007 p. 6329-38 | r. 1 and 2: 21 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Dec 2007 (see r. 2(b))
 Country Taxi-cars (Fare and Charges) Amendment Regulations 2008 | 31 Jul 2008 p. 3437-48 | r. 1 and 2: 31 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2008 (see r. 2(b))
 Country Taxi-cars (Fares and Charges) Amendment Regulations (No. 2) 2008 | 17 Dec 2008 p. 5335-46 | r. 1 and 2: 17 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2008 (see r. 2(b))
+Reprint 2: The Country Taxi-cars (Fares and Charges) Regulations 1991 as at 6 Feb 2009 (includes amendments listed above)
+Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
+If immediately before commencement of the Courts Legislation Amendment and Repeal Act 2004 Pt. 2 Div. 2, a person held office under the Local Courts Act 1904 s. 13 as a clerk, then on commencement the person is taken under the Courts Legislation Amendment and Repeal Act 2004 s. 6(1) to have been appointed as a registrar of the Magistrates Court.
+Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+a 30 km radius3(4)
+business entity2A
+call out2A

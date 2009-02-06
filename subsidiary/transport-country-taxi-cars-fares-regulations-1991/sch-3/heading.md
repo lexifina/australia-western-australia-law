@@ -13,16 +13,16 @@ OFFICE COPY ONLY
 Please do not detach from Part “A”
 PART “A”
 OFFICIAL RECEIPT
-DEFENDANT’S COPY No. .....................
+DEFENDANT’S COPY No. ......................
 Issue Date ........../........../........
 Sex [ ]Date of birth [ ]/[ ]/[ ]
 M ........................................................................................................................................
 Surname (Block Letters)Other Names in fullMDL Number
-Address ...................................................................................................................………
+Address ...............................................................................................................................
 Number and StreetTown or Suburb Postcode
 Particulars of Taxi
 Plate No. ............................Annual fee due ........./........../..........
-Make .....................................Model ..................................Colour ..............................….
+Make .....................................Model ..................................Colour ....................................
 Company ..................................
 It is alleged that at .............. hours on ......... day of .......................... 20 .......... at ……………………………………………………
 that you committed the offence indicated hereunder.
@@ -33,13 +33,13 @@ Penalty $ [ ] [ ] [ ]
 Signature of authorised person
 Take notice that —
 If you do not wish to have a complaint of the alleged offence heard and determined by a court, you may pay to an officer specified on the reverse side of this notice, within 28 days, the total amount specified.
-If that amount is not paid within 28 days, additional administrative charges may be incurred and action may be taken to suspend your Motor Driver's Licence until you have paid in full the modified penalty and any additional charges OR you have elected to have this matter heard and determined by a court.
+If that amount is not paid within 28 days, additional administrative charges may be incurred and action may be taken to suspend your Motor Drivers Licence until you have paid in full the modified penalty and any additional charges OR you have elected to have this matter heard and determined by a court.
 Payment may be made —
 (i)by post to —
 [Insert appropriate address here]
 (ii)by hand to —
 Clerk of Courts —
-Albany, Armadale, Broome, Bunbury, Busselton, Carnarvon, Collie, Derby, Esperance, Fremantle, Geraldton, Harvey, Kalgoorlie, Karratha, Katanning, Kununurra, Mandurah, Manjimup, Merredin, Moora, Midland, Narrogin, Northam, Pinjarra, Port Hedland, Roebourne, Rockingham and Perth — Court of Petty Sessions, Level 2, Central Law Courts, 30 St George’s Terrace.
+Albany, Armadale, Broome, Bunbury, Busselton, Carnarvon, Collie, Derby, Esperance, Fremantle, Geraldton, Harvey, Kalgoorlie, Karratha, Katanning, Kununurra, Mandurah, Manjimup, Merredin, Moora, Midland, Narrogin, Northam, Pinjarra, Port Hedland, Roebourne, Rockingham and Perth — Magistrates Court, Level 2, Central Law Courts, 30 St Georges Terrace.
 A receipt will not be mailed unless requested.
 Payments will not be accepted at any Department for Planning and Infrastructure offices.
 Inquiries should be made in writing and forwarded by post to —
@@ -60,7 +60,7 @@ COUNTRY TAXI-CARS (FARES AND CHARGES) REGULATIONS 1991 - regulation 7A(3)
 Western Australia
 Department for Planning and Infrastructure
 NOTICE OF WITHDRAWAL OF INFRINGEMENT NOTICE
-Serial No. …………
+Serial No. ...................
 Name
 Address
 Dear Sir/Madam
