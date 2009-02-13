@@ -2,25 +2,25 @@
 [r. 4]
 ## Division 1 — General
 Item | Matter | $
-1. | (a)for every order or conviction drawn up in the Court’s criminal jurisdiction; (b)issue of a duplicate document or order ……………………………….. | 14.50
-2. | For the service of any application, summons, originating process, notice or order of the Court or any other process requiring service | 42.50
+1. | (a)for every order or conviction drawn up in the Court’s criminal jurisdiction; (b)issue of a duplicate document or order ............. | 14.50
+2. | For the service of any application, summons, originating process, notice or order of the Court or any other process requiring service ...................................... | 42.50
 NOTE The fee is payable whether or not the service is successful and covers up to 3 attempts at service at the same address.
 3. | If it is necessary to travel to execute a warrant or other process, or on service of a summons, order of the Court, other process or document, or on making an arrest or for all attempts, attendances and inspections, from the enforcement officer’s office or nearest Police Station — (a)for each kilometre travelled (one way) in the metropolitan area; (b)for each kilometre travelled (one way) outside the metropolitan area. | 1.10 1.20
 NOTE If more than one process or document is executed or served by an enforcement officer at the same time on the same person or on different persons at the same address, only one allowance for kilometres is chargeable.
-4. | (a)for searching any record or proceeding other than a search by or on behalf of a party to the proceedings in the Court’s civil jurisdiction ………………………… (b)listening to or viewing any electronic recording that requires supervision by an officer of the Court, a search fee of ………………………………. And in addition to the search fee, for each hour of the officer’s time …………………... | 25.00 25.00 61.50
+4. | (a)for searching any record or proceeding other than a search by or on behalf of a party to the proceedings in the Court’s civil jurisdiction ...... (b)listening to or viewing any electronic recording that requires supervision by an officer of the Court, a search fee of ..................................... And in addition to the search fee, for each hour of the officer’s time ............................................................ | 25.00 25.00 61.50
 NOTE Item 4(a) does not apply in relation to information provided under the Magistrates Court (General) Rules 2005 rule 41A.
-5. | For provision of information under the Magistrates Court (General) Rules 2005 rule 41A — (a)fee per case specified in the information ……………................... (b)annual fee for information provided by email to approved recipient ……. | 1.05 34 662.00
+5. | For provision of information under the Magistrates Court (General) Rules 2005 rule 41A — (a)fee per case specified in the information ........... (b)annual fee for information provided by email to approved recipient ......................................... | 1.05 34 662.00
 NOTE The fee under item 5(b) is payable on the date on which the recipient is approved by the Attorney General and on each anniversary of that date.
-6. | (a)on an application or summons for the production of records or documents that are required to be produced to any court, tribunal, arbitrator or umpire …………………………… (b)if an officer is required to attend at any court or place out of the Court building where the officer is based, the officer’s reasonable expenses and, in addition for each hour when the officer is necessarily absent from his or her office ……………………. | 36.50 61.50
-7. | (a)copies of documents or exhibits for each page or part of a page ……….. (b)for a copy of reasons for judgment — (i)for each copy consisting of not more than 10 pages issued to a person not a party to the proceedings and for each copy in excess of one copy issued to a party to the proceedings …… (ii)for each copy consisting of 10 or more pages an additional fee per page of ………………………... (c)for certifying that a document is a true copy, an additional fee of ……... | 1.50 8.65 1.10 12.00
+6. | (a)on an application or summons for the production of records or documents that are required to be produced to any court, tribunal, arbitrator or umpire ........................................ (b)if an officer is required to attend at any court or place out of the Court building where the officer is based, the officer’s reasonable expenses and, in addition for each hour when the officer is necessarily absent from his or her office ............................................................ | 36.50 61.50
+7. | (a)copies of documents or exhibits for each page or part of a page ............................................. (b)for a copy of reasons for judgment — (i)for each copy consisting of not more than 10 pages issued to a person not a party to the proceedings and for each copy in excess of one copy issued to a party to the proceedings ........................................... (ii)for each copy consisting of 10 or more pages an additional fee per page of ...................... (c)for certifying that a document is a true copy, an additional fee of ............................................. | 1.50 8.65 1.10 12.00
 NOTE Fee under item 7(a) for a copy of an application is not payable where circumstances under regulation 6(4) exist.
-8. | (a)for a copy of a transcript or notes of evidence, for each page or part of a page ……………….……………... (b)for each copy of a transcript or notes of evidence in electronic format if a fee has been paid under paragraph (a) by the applicant for a copy of the transcript, for each day of transcript … (c)for each copy of a transcript not in electronic format if a fee has been paid under paragraph (a) by the applicant for a copy of the transcript, for each page or part of a page ……. | 4.85 12.00 1.50
+8. | (a)for a copy of a transcript or notes of evidence, for each page or part of a page ........................ (b)for each copy of a transcript or notes of evidence in electronic format if a fee has been paid under paragraph (a) by the applicant for a copy of the transcript, for each day of transcript ................... (c)for each copy of a transcript not in electronic format if a fee has been paid under paragraph (a) by the applicant for a copy of the transcript, for each page or part of a page ......... | 4.85 12.00 1.50
 NOTE 1 A minimum fee of $17.25 is payable under item 8(a). NOTE 2 Fees under this item are payable in the case of an indictable offence dealt with summarily.
 [Division 1 amended in Gazette 23 Jun 2006 p. 2178-9; 26 Jun 2007 p. 3033-4; 16 May 2008 p. 1911; 27 Jun 2008 p. 3068-9.]
 ## Division 2 — Civil jurisdiction
 Item | Matter | Claim not exceeding $10 000 | Claim exceeding $10 000 but not exceeding $50 000 | Claim exceeding $50 000
  |  | Individual $ | Person other than individual $ | Individual $ | Person other than individual $ | Individual $ | Person other than individual $
-1. | On filing any claim or any originating process to commence proceedings in the Court. | 71.50 | 108.00 | 183.00 | 275.00 | 292.00 | 438.00
+1. | On filing any claim or any originating process to commence proceedings in the Court | 71.50 | 108.00 | 183.00 | 275.00 | 292.00 | 438.00
 NOTE Not payable in respect of applications made under item 10 or 11.
 2. | On filing — (a)a counterclaim or a set-off; (b)a third party claim; (c)any other application for which no fee has been provided for in this Division | 46.50 | 70.00 | 85.00 | 109.50 | 135.50 | 174.50
 3. | On commencing an appeal | 24.00 | 47.50 | 36.00 | 72.50 | 48.50 | 97.00
@@ -38,19 +38,19 @@ NOTE 2 The % rate is to be applied to the amount at which the bill is drawn.
 NOTE 3 If the parties agree on the bill of costs and the appointment is cancelled, the following percentage of the fee paid is to be refunded — (a)if the appointment is cancelled less than 3 days before the day of the appointment, nil; (b)if the appointment is cancelled 3 days or more and less than 10 days before the day of the appointment, 50%; (c)if the appointment is cancelled 10 or more days before the day of the appointment, 80%.
 Item | Matter | $
 9. | On the execution of an arrest warrant of any kind —
- | (a)for arresting the person ………………. | 78.00
- | (b)for conveying the person to a court or a custodial place and releasing the person from arrest or custody ………… | 78.00
- | (c)for each 30 minutes after 2 hours and 30 minutes that an enforcement officer is required to keep the person in custody until he or she is conveyed to a court or a custodial place …………….………….………….……. | 20.50
+ | (a)for arresting the person .................................................... | 78.00
+ | (b)for conveying the person to a court or a custodial place and releasing the person from arrest or custody ........................... | 78.00
+ | (c)for each 30 minutes after 2 hours and 30 minutes that an enforcement officer is required to keep the person in custody until he or she is conveyed to a court or a custodial place ............................................................................... | 20.50
 NOTE 1 The fee under paragraph (a) is payable whether or not the Sheriff’s functions under the warrant are performed and includes up to 3 attempts to perform the functions at the same address.
 NOTE 2 The fee under paragraph (a) includes — (a)receipt of the warrant; and (b)attendances and inquiries before attempting arrest; and (c)giving any notice; and (d)making any report.
 10. | For an application for an extraordinary drivers licence under the Road Traffic Act 1974 | 183.00
 11. | On filing — (a)an application for a misconduct restraining order under the Restraining Orders Act 1997; (b)an application under the Disposal of Uncollected Goods Act 1970; (c)an application under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 101 or 101A; (d)an application under the Dividing Fences Act 1961; (e)an application under the Pawnbrokers and Second-hand Dealers Act 1994. | 71.50
-[Division 2 amended in Gazette 23 Jun 2006 p. 2179-81; 26 Jun 2007 p. 3034-5; 27 Jun 2008 p. 3069-70; 23 Dec 2008 p. 5472-3.]
+[Division 2 amended in Gazette 23 Jun 2006 p. 2179-81; 26 Jun 2007 p. 3034-5; 27 Jun 2008 p. 3069-70; 23 Dec 2008 p. 5473.]
 ## Division 3 — Criminal jurisdiction
 Item | Matter | $
 1. | On filing —
  | (a)a prosecution notice;
- | (b)an application under the Criminal Procedure Act 2004 section 71 …………...………......…… | 60.00
-2. | For the issue of a summons or court hearing notice to an accused ………...…………...………......…….…… | 11.50
-3. | For a warrant of any kind — (a)issue of it ……………………………………….. (b)execution of it …………………………………... | 60.00 78.00
+ | (b)an application under the Criminal Procedure Act 2004 section 71 ................................................................ | 60.00
+2. | For the issue of a summons or court hearing notice to an accused ............................................................................ | 11.50
+3. | For a warrant of any kind — (a)issue of it .................................................................. (b)execution of it ........................................................... | 60.00 78.00
 [Division 3 amended in Gazette 23 Jun 2006 p. 2181; 26 Jun 2007 p. 3035; 27 Jun 2008 p. 3070.]
