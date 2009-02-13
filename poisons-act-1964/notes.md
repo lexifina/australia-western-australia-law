@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Poisons Act 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 13 February 2009 of the Poisons Act 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Poisons Act 1964 | 70 of 1964 (13 Eliz. II No. 70) | 11 Dec 1964 | 1 Jul 1965 (see s. 2 and Gazette 25 Jun 1965 p. 1836)
@@ -15,9 +15,9 @@ Acts Amendment (Statutory Designations) and Validation Act 1981 s. 4 | 63 of 198
 Reprint of the Poisons Act 1964 approved 3 Dec 1982 (includes amendments listed above)
 Health Legislation Amendment Act 1984 Pt. XX | 28 of 1984 | 31 May 1984 | 1 Jul 1984 (see s. 2 and Gazette 15 Jun 1984 p. 1629)
 Reprint of the Poisons Act 1964 as at 18 Nov 1986 (includes amendments listed above)
-Poisons Amendment Act 1994 | 12 of 1994 | 15 Apr 1994 | 27 May 1994 (see s. 2 and Gazette 27 May 1994 p. 2205)
+Poisons Amendment Act 1994 | 12 of 1994 | 15 Apr 1994 | s. 1 and 2: 15 Apr 1994; Act other than s. 1 and 2: 27 May 1994 (see s. 2 and Gazette 27 May 1994 p. 2205)
 Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
-Poisons Amendment Act 1995 | 48 of 1995 | 6 Nov 1995 | 20 Mar 1996 (see s. 2 and Gazette 19 Mar 1996 p. 1203)
+Poisons Amendment Act 1995 | 48 of 1995 | 6 Nov 1995 | s. 1 and 2: 6 Nov 1995; Act other than s. 1 and 2: 20 Mar 1996 (see s. 2 and Gazette 19 Mar 1996 p. 1203)
 Poisons (Appendix A Amendment) Order 1996 published in Gazette 19 Mar 1996 p. 1207-10 | 20 Mar 1996 (see cl. 2 and Gazette 19 Mar 1996 p. 1203)
 Reprint of the Poisons Act 1964 as at 9 Apr 1996 (includes amendments listed above)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
@@ -41,15 +41,18 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 11 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 7: The Poisons Act 1964 as at 1 Sep 2006 (includes amendments listed above)
-Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
-Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
+Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
+Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2(1) and Gazette 27 Jul 2007 p. 3735)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 8: The Poisons Act 1964 as at 13 Feb 2009 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Under the Alteration of Statutory Designations Order 2006, a reference to the department of the Public Service with the designation “Department of Agriculture” is, unless the contrary intention appears or the context of the reference otherwise requires, to be read and construed as a reference to the department of the Public Service with the designation “Department of Agriculture and Food”. At the time of this compilation the Minister is known as the Minister for Agriculture and Food.
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
+Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
+The designation of Ministers may be altered by the Governor under the Alteration of Statutory Designations Act 1974. As at the date of this reprint the former Minister for Agriculture is known as the Minister for Agriculture and Food.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 40 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
 “
@@ -62,9 +65,7 @@ commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 ”.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides a general transitional provision for references to a chief executive officer by a title that was given by a provision of an Act where the provision was amended to remove that title, or repealed, by the Machinery of Government (Miscellaneous Amendments) Act 2006.
-The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 40 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 had not come into operation. It reads as follows:
 “
 93.Poisons Act 1964 amended
 (1) The amendments in this section are to the Poisons Act 1964.
@@ -73,3 +74,45 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 under the Biosecurity and Agriculture Management Act 2007
 ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+Advisory Committee5(1)
+analyst60(2)
+authorised officer5(1)
+automatic machine5(1)
+bloodborne infectious disease5(1)
+CEO5(1)
+container5(1)
+corresponding law45(1)
+dentist5(1)
+department5(1)
+document5(1)
+drug of addiction5(1)
+environmental health officer5(1)
+friendly society30(3)
+internal use5(1)
+label5(1)
+labelled5(1)
+licence5(1)
+licensee5(1)
+medical practitioner5(1)
+member5(1)
+needle and syringe programme5(1)
+nurse practitioner5(1)
+package5(1)
+pharmaceutical chemist5(1)
+poison5(1)
+prohibited plant5(1)
+sale5(1)
+Schedule5(1)
+specified5(1)
+specified drug5(1)
+standard5(1)
+subsidiary legislation21(2)
+substance5(1)
+SUSDPApp. A cl. 1
+to sell5(1)
+veterinary surgeon5(1)
+wholesale dealing5(1)
+wholesale supplier5(1)
