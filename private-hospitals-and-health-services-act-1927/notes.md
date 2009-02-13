@@ -1,11 +1,11 @@
 Notes
-This is a compilation of the Hospitals and Health Services Act 1927 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 13 February 2009 of the Hospitals and Health Services Act 1927 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Hospitals Act 1927 | 23 of 1927 | 23 Dec 1927 | 1 Jan 1928 (see s. 1)
-Hospitals Act Amendment Act 1948 | 9 of 1948 | 11 Nov 1948 | 11 Nov 1948
-Hospitals Act Amendment Act 1953 | 16 of 1953 | 20 Nov 1953 | 20 Nov 1953
-Hospitals Act Amendment Act 1955 | 51 of 1955 | 9 Dec 1955 | 9 Dec 1955
+Hospitals Act 1927 | 23 of 1927 (18 Geo. V No. 23) | 23 Dec 1927 | 1 Jan 1928 (see s. 1)
+Hospitals Act Amendment Act 1948 | 9 of 1948 (12 Geo. VI No. 9) | 11 Nov 1948 | 11 Nov 1948
+Hospitals Act Amendment Act 1953 | 16 of 1953 (2 Eliz. II No. 16) | 20 Nov 1953 | 20 Nov 1953
+Hospitals Act Amendment Act 1955 | 51 of 1955 (4 Eliz. II No. 51) | 9 Dec 1955 | 9 Dec 1955
 Reprint of the Hospitals Act 1927 approved 14 Aug 1961 in Volume 15 of Reprinted Acts (includes amendments listed above)
 Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Hospitals Act Amendment Act 1969 | 89 of 1969 | 17 Nov 1969 | 17 Nov 1969
@@ -28,9 +28,9 @@ Reprint of the Hospitals Act 1927 as at 22 Apr 1993 (includes amendments listed 
 Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
 Acts Amendment (Health Services Integration) Act 1994 Pt. 2 | 49 of 1994 | 10 Oct 1994 | 10 Oct 1994 (see s. 2)
 Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
-Hospitals Amendment Act 1994 | 103 of 1994 | 11 Jan 1995 | Act other than it. 8 of s. 18: 3 Feb 1995 (see s. 2 and Gazette 3 Feb 1995 p. 333); it. 8 of s. 18: 17 Dec 1997 (see s. 2 and Gazette 16 Dec 1997 p. 7313)
+Hospitals Amendment Act 1994 | 103 of 1994 | 11 Jan 1995 | s. 1 and 2: 11 Jan 1995; s. 3 and Pt. 2 and 3: 3 Feb 1995 (see s. 2 and Gazette 3 Feb 1995 p. 333)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
-Hospitals and Health Services Amendment Act 1996 | 17 of 1996 | 2 Jul 1996 | 18 Sep 1996 (see s. 2 and Gazette 17 Sep 1996 p. 4691)
+Hospitals and Health Services Amendment Act 1996 | 17 of 1996 | 2 Jul 1996 | s. 1 and 2: 2 Jul 1996; Act other than s. 1 and 2: 18 Sep 1996 (see s. 2 and Gazette 17 Sep 1996 p. 4691)
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
 Mental Health (Consequential Provisions) Act 1996 Pt. 10 | 69 of 1996 | 13 Nov 1996 | 13 Nov 1997 (see s. 2)
 Acts Amendment (Land Administration) Act 1997 Pt. 32 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
@@ -45,21 +45,21 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 67 and 146(2) | 74 of 2003 |
 Workers’ Compensation Reform Act 2004 s. 161 | 42 of 2004 | 9 Nov 2004 | 14 Nov 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131 and 17 Jun 2005 p. 2657); Para (b) of proclamation published 31 Dec 2004 p. 7131 revoked (see Gazette 17 Jun 2005 p. 2657)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 63 Subdiv. 1 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Health Legislation Amendment Act 2004 Pt. 4 | 61 of 2004 | 24 Nov 2004 | 24 Nov 2004 (see s. 2)
-Reprint 5: The Hospitals and Health Services Act 1927 as at 26 Aug 2005 (includes amendments listed above except those in the Workers’ Compensation Reform Act 2004 s. 161)
+Reprint 5: The Hospitals and Health Services Act 1927 as at 26 Aug 2005 (includes amendments listed above except those in the Workers’ Compensation Reform Act 2004)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Hospitals and Health Services Amendment Act 2006 | 45 of 2006 | 4 Oct 2006 | 4 Oct 2006 (see s. 2)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Medical Practitioners Act 2008 Sch. 3 cl. 27 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Reprint 6: The Hospitals and Health Services Act 1927 as at 13 Feb 2009 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-The “appointed day” was 13 Dec 1997 (see Gazette 7 Nov 1997 p. 6136).
-Now see the Workers’ Compensation and Injury Management Act 1981.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 25 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Now known as the Hospitals and Health Services Act 1927; short title changed (see note under s. 1).
-The amendments in the Statutes (Repeals and Minor Amendments) Act 1997 s. 74(1) and (2) are not included because the subsections they sought to amend have been amended by the Mental Health (Consequential Provisions) Act 1996 s. 42 before the amendment purported to come into operation.
+The amendments in the Statutes (Repeals and Minor Amendments) Act 1997 s. 74(1) and (2) are not included because the subsections they sought to amend were amended by the Mental Health (Consequential Provisions) Act 1996 s. 42 before the amendments purported to come into operation.
 The Hospitals and Health Services Amendment Act 2002 s. 8 reads as follows:
 “
 8.Validation
@@ -68,7 +68,17 @@ agency has the same meaning as it has in the Hospitals and Health Services Act 1
 (2) Anything done or purporting to have been done by an agency for the purposes referred to in section 7B(1) of the Hospitals and Health Services Act 1927 is, and is taken always to have been, as valid and effective as it would have been if the amendments to that Act in sections 5 and 6 had at all relevant times been made.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) had not come into operation. It reads as follows:
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
+“
+Division 13 — Transitional provisions
+289.Commissioner of Health
+(1) A thing done or omitted to be done by, to or in relation to, the Commissioner of Health before commencement under, or for the purposes of, an enactment has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the CEO.
+(2) In this section —
+CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
+commencement means the time at which this Division comes into operation;
+Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
+”.
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) had not come into operation. It reads as follows:
 “
 48.Hospitals and Health Services Act 1927 amended
 (2) The Hospitals and Health Services Act 1927 is amended as follows:
@@ -81,15 +91,53 @@ On the date as at which this compilation was prepared, the State Superannuation 
 Members of a superannuation scheme continued by section 29(c) or (d) of the State Superannuation Act 2000.
 ”.
 ”.
-Footnote no longer applicable.
-The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 25 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
-“
-Division 13 — Transitional provisions
-289.Commissioner of Health
-(1) A thing done or omitted to be done by, to or in relation to, the Commissioner of Health before commencement under, or for the purposes of, an enactment has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the CEO.
-(2) In this section —
-CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
-commencement means the time at which this Division comes into operation;
-Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+additional board16(2)(a)
+agency2(1)
+agency board2(1)
+amalgamated board16(2)(b)
+board2(1)
+body corporate26A
+CEO2(1)
+Commonwealth Minister34(5)(b)
+day hospital facility2(1)
+Department2(1)
+document7D(8)
+eligible person34(5)(a)
+eligible persons37(2e)
+Executive Director2(1)
+former board16(2)(b)
+hospital2(1)
+hospital service2(1)
+hospital service provider2(1)
+illness2(1a)
+infectious disease2(1)
+information7D(8)
+licence26A
+mental illness26P
+Minister for Works35C(6)
+nursing home2(1)
+nursing post2(1)
+officer or servant of the board22(1a)
+original board16(2)(a)
+personal information26S(8)
+practitioner2(1)
+private hospital2(1)
+private non-profit hospital2(1)
+private psychiatric hostel26P
+public authority7B(10)
+public hospital2(1)
+public patient34(5)(a)
+recognized hospitals37(2e)
+resident26P
+services18(2b)
+specified22(1a), 37(4)
+State Supply Commission35C(6)
+superannuation arrangement7E(5)
+teaching hospital2(1)
+the Commonwealth Act2(1)
+the contractor35C(1)
+the relevant notice16(1)
+waiting times34(2)
