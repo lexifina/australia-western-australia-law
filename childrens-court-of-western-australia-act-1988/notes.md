@@ -1,10 +1,10 @@
 Notes
-This is a compilation of the Children’s Court of Western Australia Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 13 February 2009 of the Children’s Court of Western Australia Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Children’s Court of Western Australia Act (No. 2) 1988 | 69 of 1988 | 15 Dec 1988 | 1 Dec 1989 (see s. 2 and Gazette 24 Nov 1989 p. 4327)
+Children’s Court of Western Australia Act (No. 2) 1988 | 69 of 1988 | 15 Dec 1988 | s. 1 and 2: 15 Dec 1988; Act other than s. 1 and 2: 1 Dec 1989 (see s. 2 and Gazette 24 Nov 1989 p. 4327)
 Justices Amendment Act 1989 s. 18 | 33 of 1989 | 22 Dec 1989 | 1 Jun 1991 (see s. 2 and Gazette 17 May 1991 p. 2455)
-Children’s Court of Western Australia Amendment Act (No. 2) 1991 | 15 of 1991 | 21 Jun 1991 | s. 8 and 20: 1 Dec 1989 (see s. 2(1)); balance: 9 Aug 1991 (see s. 2(2) and Gazette 9 Aug 1991 p. 4101)
+Children’s Court of Western Australia Amendment Act (No. 2) 1991 | 15 of 1991 | 21 Jun 1991 | s. 1 and 2: 21 Jun 1991; s. 8 and 20: 1 Dec 1989 (see s. 2(1)); balance: 9 Aug 1991 (see s. 2(2) and Gazette 9 Aug 1991 p. 4101)
 Acts Amendment (Sexual Offences) Act 1992 s. 4(3) and 6(8) | 14 of 1992 | 17 Jun 1992 | 1 Aug 1992 (see s. 2 and Gazette 28 Jul 1992 p. 3671)
 Acts Amendment (Ministry of Justice) Act 1993 Pt. 5 | 31 of 1993 | 15 Dec 1993 | 1 Jul 1993 (see s. 2)
 Young Offenders Act 1994 Pt. 11 Div. 2 | 104 of 1994 | 11 Jan 1995 | 13 Mar 1995 (see s. 2 and Gazette 10 Mar 1995 p. 895)
@@ -23,18 +23,19 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 17, 107 and 12
 Statutes (Repeals and Minor Amendments) Act 2003 s. 35 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Reprint 3: The Children’s Court of Western Australia Act 1988 as at 10 Sep 2004 (includes amendments listed above)
-Sentencing Legislation Amendment Act 2004 s. 14(3) | 27 of 2004 (as amended by No. 41 of 2006 s. 95(2) | 14 Oct 2004 | 31 May 2006 (see s. 2 and Gazette 30 May 2006 p. 1965)
+Sentencing Legislation Amendment Act 2004 s. 14(3) | 27 of 2004 (as amended by No. 41 of 2006 s. 95(2)) | 14 Oct 2004 | 31 May 2006 (see s. 2 and Gazette 30 May 2006 p. 1965)
 Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Acts Amendment (Court of Appeal) Act 2004 s. 29 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 7 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 4 and s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 5 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
-Reprint 4: The Children’s Court of Western Australia Act 1988 as at 21 Apr 2006 (includes amendments listed above except those in the Sentencing Legislation Amendment Act 2004 s. 14)
+Reprint 4: The Children’s Court of Western Australia Act 1988 as at 21 Apr 2006 (includes amendments listed above except those in the Sentencing Legislation Amendment Act 2004)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 6 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Criminal Law and Evidence Amendment Act 2008 s. 57 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Acts Amendment (Justice) Act 2008 Pt. 2 | 5 of 2008 | 31 Mar 2008 | 31 Jul 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 5: The Children’s Court of Western Australia Act 1988 as at 13 Feb 2009 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
@@ -44,7 +45,7 @@ Legal Profession Act 2008 s. 643 | 21 of 2008 | 27 May 2008 | To be proclaimed (
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 Chapter XXXII of The Criminal Code was repealed by the Acts Amendment (Evidence) Act 1991 s. 12(9).
 Now known as the Children’s Court of Western Australia Act 1988; short title changed (see note under s. 1).
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 “
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
@@ -54,8 +55,7 @@ Act | Provision
 Children’s Court of Western Australia Act 1988 | s. 7(4)
 ...................... | ........
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Cross-border Justice Act 2008, Pt. 15 Div. 1 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Cross-border Justice Act 2008, Pt. 15 Div. 1 had not come into operation. It reads as follows:
 “
 Part 15 — Consequential amendments to other legislation
 Division 1 — Children’s Court of Western Australia Act 1988 amended
@@ -95,7 +95,7 @@ After section 29(4) the following subsection is inserted —
 (5) This section applies in relation to an act or omission by a person outside the State as if it were an act or omission by the person in the State.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Parental Support and Responsibility Act 2008 s. 43 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Parental Support and Responsibility Act 2008 s. 43 had not come into operation. It reads as follows:
 “
 43.Children’s Court of Western Australia Act 1988 amended
 (1) The amendments in this section are to the Children’s Court of Western Australia Act 1988.
@@ -126,7 +126,7 @@ On the date as at which this compilation was prepared, the Parental Support and 
 (c) in subsection (2)(b) by inserting before “by the CEO” —
 “ if the person is a child, ”.
 ”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 643 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 643 had not come into operation. It reads as follows:
 “
 643.Children’s Court of Western Australia Act 1988 amended
 (1) The amendments in this section are to the Children’s Court of Western Australia Act 1988.
@@ -145,3 +145,23 @@ legal practitioner means an Australian legal practitioner within the meaning of 
 (2) A person is not eligible for appointment as a judge unless that person is an Australian lawyer, within the meaning of that term in the Legal Profession Act 2008 section 3, and has had not less than 8 years’ legal experience.
 ”.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+adult19C(1)(a)(i)
+CEO (young offenders)3(1)
+child3(1)
+Court3(1)
+court record51A(1)
+decision30(3)
+detention21(1)
+judge3(1)
+judgment39A(1)
+legal experience3(2)
+magistrate3(1)
+prescribed officer33(1)
+President3(1)
+prohibited matter36A(1)
+reasons51A(1)
+registrar3(1)
+young offenders agency3(1)
