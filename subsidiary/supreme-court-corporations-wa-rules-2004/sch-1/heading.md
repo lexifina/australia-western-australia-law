@@ -5,7 +5,7 @@ rule 2.1
 Document title
 IN THE SUPREME COURTNo. of [year]
 IN THE MATTER OF [full name of corporation to which the proceeding relates and, if applicable, the words ‘(in liquidation)’, ‘(receiver appointed)’, ‘(receiver and manager appointed)’, ‘(controller acting)’, or ‘(administrator appointed)’]
-ACN or ARBN: [insert ACN or ARBN]
+ABN or ACN or ARBN: [insert ABN or ACN or ARBN]
 AB (and Others)
 Plaintiff(s)
 [list, in a schedule, any further plaintiffs]
@@ -13,12 +13,13 @@ CD (and Others)
 Defendant(s)
 [list, in a schedule, any further defendants]
 [insert information to comply with Order 69 Rule 2(1)(h) of the Rules of the Supreme Court 1971]
+[Form 1 amended in Gazette 13 Feb 2009 p. 312.]
 Form 2
-rule 2.2
+rules 2.2 and 15A.3
 Originating process
 [Title]
 A.DETAILS OF APPLICATION
-This application is made under *section/*regulation [number] of the *Corporations Act/*ASIC Act/*Corporations Regulations.
+This application is made under *section/*regulation [number] of the *Corporations Act/*ASIC Act/*Cross-Border Insolvency Act/ *Corporations Regulations.
 [State briefly the nature of the proceeding, e.g. application for winding-up on ground of insolvency; or complaint about a receiver.]
 On the facts stated in the supporting affidavit(s), the plaintiff claims:
 1
@@ -61,12 +62,13 @@ OR
 [Complete the following section if the time for service has been abridged.]
 The time by which a copy of this originating process is to be served has been abridged by order made by [name of Judge or other Court officer] on [date] to [time and date].
 * Omit if not applicable
+[Form 2 amended in Gazette 13 Feb 2009 p. 308.]
 Form 3
-rule 2.2
+rules 2.2, 15A.4, 15A.8 and 15A.9
 Interlocutory process
 [Title]
 A.DETAILS OF APPLICATION
-*This application is made under *section/*regulation [number] of the *Corporations Act/*ASIC Act/*Corporations Regulations.
+This application is made under *section/*regulation [number] of the *Corporations Act/*ASIC Act/*Cross Border Insolvency Act/ *Corporations Regulations.
 On the facts stated in the supporting affidavit(s), the applicant, [name], applies for the following relief —
 1
 2
@@ -92,7 +94,7 @@ OR
 [Complete the following section if the time for service has been abridged.]
 The time by which a copy of this interlocutory process is to be served has been abridged by order made by [name of Judge or other Court officer] on [date] to [time and date].
 * Omit if not applicable
-[Form 3 amended in Gazette 13 Apr 2007 p. 1673.]
+[Form 3 amended in Gazette 13 Apr 2007 p. 1673; 13 Feb 2009 p. 308.]
 Form 4
 rule 2.9
 Notice of appearance
@@ -187,45 +189,49 @@ rule 5.6
 Notice of application for winding-up order
 IN THE [name of Court]No. of [year]
 [Name of company]
-ACN: [ACN of company to which proceeding relates]
+ABN or ACN: [ABN or ACN of company to which proceeding relates]
 1A proceeding for the winding-up of [name of company] was commenced by the plaintiff, [name of plaintiff], on [date of filing of originating process] and will be heard by . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . at [address of Court] at . . . . . . . . *a.m./*p.m. on . . . . . . . . . . . .Copies of documents filed may be obtained from the plaintiff’s address for service.
 2The plaintiff’s address for service is [address of plaintiff’s legal practitioner or of plaintiff].
 3Any person intending to appear at the hearing must file a notice of appearance, in accordance with the prescribed form, together with any affidavit on which the person intends to rely, and serve a copy of the notice and any affidavit on the plaintiff at the plaintiff’s address for service at least 3 days before the date fixed for the hearing.
 Date:
 Name of plaintiff or plaintiff’s legal practitioner: [name]
 * Omit if not applicable
+[Form 9 amended in Gazette 13 Feb 2009 p. 312.]
 Form 10
 rule 5.10
 Notice of application for winding-up order by substituted plaintiff
 IN THE [name of Court]No. of [year]
 [Name of company]
-ACN: [ACN of company to which proceeding relates]
+ABN or ACN: [ABN or ACN of company to which proceeding relates]
 1[Name of substituted plaintiff], who was, by order of the [name of Court], substituted as a plaintiff, will apply to the Court at . . . . . . *a.m./*p.m. on . . . . . . . . at [address of Court] for an order that the above company be wound up.
 2The address for service of the substituted plaintiff is [address of substituted plaintiff’s legal practitioner or of substituted plaintiff].
 3Any person intending to appear at the hearing must file a notice of appearance, in accordance with the prescribed form, together with any affidavit on which the person intends to rely, and serve a copy of the notice and any affidavit on the substituted plaintiff at its address for service at least 3 days before the date fixed for the hearing.
 Date:
 Name of substituted plaintiff or substituted plaintiff’s legal practitioner: [name]
 * Omit if not applicable
+[Form 10 amended in Gazette 13 Feb 2009 p. 312.]
 Form 11
 rule 5.11
 Notice of winding-up order and of appointment of liquidator
 IN THE [name of Court]
 AT [location of Court]
 IN THE MATTER OF [name of company to which the proceeding relates]
-ACN: [ACN of company to which proceeding relates]
+ABN or ACN: [ABN or ACN of company to which proceeding relates]
 On [date], the [name of Court] in Proceeding No. of [year], ordered the winding-up of [name of company] and I was appointed as liquidator of the company.
 Date:
 Name and address of liquidator: [name and address]
+[Form 11 amended in Gazette 13 Feb 2009 p. 312.]
 Form 12
 rule 6.2
 Notice of appointment of provisional liquidator
 IN THE [name of Court]
 AT [location of Court]
 IN THE MATTER OF [name of company to which the proceeding relates]
-ACN: [ACN of company to which proceeding relates]
+ABN or ACN: [ABN or ACN of company to which proceeding relates]
 On [date], in Proceeding No. of [year], heard by the [name of Court], I was appointed as the provisional liquidator of the above company.
 Date:
 Name and address of provisional liquidator: [name and address]
+[Form 12 amended in Gazette 13 Feb 2009 p. 312.]
 Form 13
 rule 7.6
 Notice by creditor or contributory of objection to release of liquidator
@@ -268,18 +274,19 @@ Notice of application for leave to distribute a surplus
 IN THE [name of Court and address]
 APPLICATION NO:
 IN THE MATTER OF [company name]
-ACN: [ACN of company to which proceeding relates]
+ABN or ACN: [ABN or ACN of company to which proceeding relates]
 On . . . . . . . . at . . . . . . . ., the . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . will hear an application by the liquidator of [name of company] in Proceeding No. of [year] for leave to distribute a surplus in respect of the liquidation of the company.
 Any person intending to appear at the hearing must file a notice of appearance, in accordance with the prescribed form, together with any affidavit on which the person intends to rely, and serve a copy of the notice and affidavit on the liquidator at the address shown below at least 3 days before the date fixed for the hearing.
 Name of liquidator: [name].
 The liquidator’s address for service is [address].
 . . . . . . . . . . . . . . . . . . . . .
 Signature of liquidator
+[Form 15 amended in Gazette 13 Feb 2009 p. 312.]
 Form 16
 rules 9.1, 9.2, 9.3, 9.4 and 9.5
 Notice of intention to apply for remuneration
 IN THE MATTER OF [company name]
-ACN: [ACN of company to which proceeding relates]
+ABN or ACN: [ABN or ACN of company to which proceeding relates]
 TO: [name and address of person to whom notice is given]
 TAKE NOTICE that, not less than 21 days after this notice is served on you, I, [name and address], the *receiver/*administrator/*liquidator/*provisional liquidator/*special manager of the above company, intend to apply to the Court to determine my remuneration.
 If you object to my application, you must, within 21 days after being served with this notice, serve on me a notice of objection stating the grounds of objection to the remuneration claimed.
@@ -288,6 +295,7 @@ Date:
 Signature of *receiver/*administrator/*liquidator/
 *provisional liquidator/*special manager
 * Omit if not applicable
+[Form 16 amended in Gazette 13 Feb 2009 p. 312.]
 Form 16A
 rules 9.2A, 9.4A
 Notice of intention to apply for review of remuneration
@@ -358,5 +366,83 @@ Date:
 . . . . . . . . . . . . . . . . . . . . .
 Principal Registrar
 * Omit if not applicable
+Form 19
+rule 15A.5
+Consent to act as designated person
+[Title]
+I, [name], of [address], an official liquidator, consent to be appointed by the Court and to act as the person designated by the Court under *article 19/*article 21 of the Model Law to distribute the assets of [name of company].
+I am not aware of any conflict of interest or duty that would make it improper for me to act as the person designated by the Court.
+The hourly rates currently charged in respect of work done as the person designated by the Court by me, and by my partners and employees who may perform work in this administration, are set out below or in the Schedule which is attached to this Consent.
+I acknowledge that my appointment by the Court does not constitute an express or implied approval by the Court of these hourly rates.
+Date:
+.................................................
+Signature of official liquidator
+*Omit if not applicable
+[Form 19 inserted in Gazette 13 Feb 2009 p. 309.]
+Schedule
+[description of hourly rate(s)]
+Form 20
+rule 15A.6
+Notice of filing of application for recognition of foreign proceeding
+IN THE [name of Court]No. of [year]
+[Name of company]
+ABN or ACN: [ABN or ACN of company to which proceeding relates]
+TO all the creditors of [name of company].
+TAKE NOTICE that:
+1.An application under the Cross-Border Insolvency Act 2008 (Commonwealth) for recognition of a foreign proceeding in relation to [name of company] was commenced by the plaintiff, [name of plaintiff], on [date of filing of originating process] and will be heard by ............................................................................. at [address of Court] at ............*am/*pm on .................................
+Copies of documents filed may be obtained from the plaintiff’s address for service.
+2.The plaintiff’s address for service is [name and address of plaintiff’s legal practitioner or, if there is no legal practitioner, address of the plaintiff].
+3.Any person intending to appear at the hearing must file a notice of appearance, in accordance with the prescribed form, together with any affidavit on which the person intends to rely, and serve a copy of the notice and any affidavit on the plaintiff at the plaintiff’s address for service at least 3 days before the date fixed for the hearing.
+4.If you are a foreign creditor you must file in the registry of the Court at the address mentioned in paragraph 1 an affidavit setting out the details of any claim, secured or unsecured, that you may have against the company above at least 3 days before the date fixed for the hearing.
+Date:
+Name of plaintiff or plaintiff’s legal practitioner: [name]
+*Omit if not applicable
+[Form 20 inserted in Gazette 13 Feb 2009 p. 309-10.]
+Form 21
+rule 15A.7
+Notice of making of order under the Cross-Border Insolvency Act 2008 (Commonwealth)
+IN THE [name of Court]No. of [year]
+[Name of company]
+ABN or ACN: [ABN or ACN of company to which proceeding relates]
+TO all the creditors of [name of company].
+TAKE NOTICE that:
+1.On [date], the [name of Court] in Proceeding No. of [year], commenced by the plaintiff [name of plaintiff], made the following orders under the Cross-Border Insolvency Act 2008 (Commonwealth) in relation to [name of company]: [insert details of order].
+2.The plaintiff’s address for service is [name and address of plaintiff’s legal practitioner or, if there is no legal practitioner, address of the plaintiff].
+3.The name and address of the foreign representative is [insert name and address].
+4.The name and address of the person entrusted with distribution of the company’s assets is [insert name and address].*
+Date:
+Name of plaintiff or plaintiff’s legal practitioner: [name]
+*Omit if not applicable
+[Form 21 inserted in Gazette 13 Feb 2009 p. 310.]
+Form 22
+rule 15A.7
+Notice of dismissal or withdrawal of application for recognition of foreign proceeding
+IN THE [name of Court]No. of [year]
+[Name of company]
+ABN or ACN: [ABN or ACN of company to which proceeding relates]
+TO all the creditors of [name of company].
+TAKE NOTICE that the application under the Cross-Border Insolvency Act 2008 (Commonwealth) for recognition of a foreign proceeding in relation to [name of company] commenced by the plaintiff, [name of plaintiff], on [date of filing of originating process] was dismissed*/withdrawn* on [date of dismissal/withdrawal]
+Date:
+Name of person giving notice or of person’s legal practitioner [name]
+*Omit if not applicable
+[Form 22 inserted in Gazette 13 Feb 2009 p. 311.]
+Form 23
+rule 15A.9
+Notice of filing of application to modify or terminate an order for recognition or other relief
+IN THE [name of Court]No. of [year]
+[Name of company]
+ABN or ACN: [ABN or ACN of company to which proceeding relates]
+TO all the creditors of [name of company].
+TAKE NOTICE that:
+*1.An application under the Cross-Border Insolvency Act 2008 (Commonwealth) for an order *modifying/*terminating an order for recognition of a foreign proceeding in relation to [name of company] was filed by the applicant, [name of applicant], on [date of filing of interlocutory process] and will be heard by ................................................. at [address of Court] at ........... *am/*pm on ..................................
+Copies of documents filed may be obtained from the applicant’s address for service.
+*1.An application under the Cross-Border Insolvency Act 2008 (Commonwealth) for an order *modifying/*terminating relief granted under *article 19/*article 21 of the Model Law in relation to [name of company] was filed by the applicant, [name of applicant], on [date of filing of interlocutory process] and will be heard by ........................................... at [address of Court] at ........... *am/*pm on ..................................
+Copies of documents filed may be obtained from the applicant’s address for service.
+2.The applicant’s address for service is [name and address of applicant’s legal practitioner or of applicant].
+3.Any person intending to appear at the hearing must file a notice of appearance (if the person has not already done so), in accordance with the prescribed form, together with any affidavit on which the person intends to rely, and serve a copy of the notice (if applicable) and any affidavit on the applicant at the applicant’s address for service at least 3 days before the date fixed for the hearing.
+Date:
+Name of plaintiff or plaintiff’s legal practitioner: [name]
+*Omit if not applicable
+[Form 23 inserted in Gazette 13 Feb 2009 p. 311-12.]
 Schedule
 [description of document(s)]
