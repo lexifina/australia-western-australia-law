@@ -18,13 +18,14 @@ Pigs | Bovines (70kg & under) Other animals | Bovines (over 70kg)
 11 | Manjimup ............................. | 4.12 | 0.82 | 6.60
 12 | Merredin .............................. | 1.10 | 0.22 | 1.76
 13 | Narrogin .............................. | 2.47 | 0.49 | 3.96
-14 | Northam ............................... | — | 0.58 | 4.62
+14 | Northam | — | 0.85 | 7.59
 15 | Plantagenet .......................... | — | 0.66 | 5.28
 16 | Rockingham ........................ | — | 0.40 | —
 17 | Serpentine-Jarrahdale .......... | — | 0.36 | —
 18 | Tammin ............................... | — | 1.00 | —
 19 | Wyndham/East Kimberley .. | — | 0.55 | 4.40
-[Part 1 inserted in Gazette 22 Feb 2005 p. 811-12; amended in Gazette 31 May 2005 p. 2408; 15 Nov 2005 p. 5602; 12 Dec 2006 p. 5493; 30 Jan 2007 p. 213; 26 Jun 2007 p. 3029; 30 Oct 2007 p. 5881; 13 Nov 2007 p. 5695; 2 May 2008 p. 1700.]
+20 | Waroona .............................. | 1.38 | 0.85 | —
+[Part 1 inserted in Gazette 22 Feb 2005 p. 811-12; amended in Gazette 31 May 2005 p. 2408; 15 Nov 2005 p. 5602; 12 Dec 2006 p. 5493; 30 Jan 2007 p. 213; 26 Jun 2007 p. 3029; 30 Oct 2007 p. 5881; 13 Nov 2007 p. 5695; 2 May 2008 p. 1700; 13 Feb 2009 p. 301.]
 ## Part 2 — Game meat premises fees
 [r. 17(1)(f)(ii)]
  |  | $
