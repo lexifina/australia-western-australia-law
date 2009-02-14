@@ -27,18 +27,37 @@ tarspot means a female rock lobster that has a black putty-like mass (spermatoph
 Abalone in the waters or land between 31° 59.48′ south latitude (the main Cottesloe Groyne) and 32° 03.15′ south latitude (Rous Head) and —
 (a)within 800 metres of, and on the seaward side of, the high water mark; or
 (b)within 200 metres of, and on the landward side of, the high water mark.
+Cod in Rowley Shoals Marine Park.
 Coral of the Order Scleractinia in any waters within 3 000 metres in any direction of the service jetty near the end of Port Street in Port Gregory.
+Fish of Class Anthozoa and Class Hydrozoa in Rowley Shoals Marine Park.
 Great White Shark.
 Groper, Queensland.
 Humphead Maori Wrasse.
 Live coral of the Order Scleractinia in the waters bounded by a line commencing from the intersection of 27° 30′ south latitude and 112° 50′ east longitude and extending in an easterly direction to the intersection of 27° 30′ south latitude and 113° 37′ east longitude; thence southeasterly to the intersection of 28° 45′ south latitude and 114° 09′ 52.18″ east longitude; thence southeasterly to the intersection of 29° 30′ south latitude and 114° 30′ east longitude; thence west to 112° 50′ east longitude; thence north to the starting point.
 Leafy Seadragon.
+Molluscs, other than cuttlefish, squid and octopus, in Rowley Shoals Marine Park.
 Potato Cod.
 Rock Lobster tail weighing less than 140 grams.
 Sawfish.
 Shark, Speartooth.
+Shark, Whaler —
+(a)taken from the waters of —
+(i)the South Coast Region; or
+(ii)the West Coast Region;
+and
+(b)with an interdorsal fin length of 70 cm or greater.
 Whale Shark.
-[Division 2 amended in Gazette 5 Dec 1997 p. 7123; 19 Jun 1998 p. 3264; 13 Aug 1999 p. 3827; 28 Nov 2003 p. 4776; 22 Dec 2005 p. 6228.]
+Wrasse in Rowley Shoals Marine Park.
+In this Division —
+interdorsal fin length means the distance between the first and second dorsal fins measured —
+(a)from —
+(i)the first dorsal fin origin; or
+(ii)if all or part of that fin has been removed so that point of origin cannot be ascertained, the anterior end of the cut made to remove the fin or that part of the fin;
+(b)to —
+(i)the second dorsal fin insertion; or
+(ii)if all or part of that fin has been removed so that point of insertion cannot be ascertained, the posterior end of the cut made to remove the fin or that part of the fin;
+Rowley Shoals Marine Park means all waters reserved under the Conservation and Land Management Act 1984 section 13 as Class “A” Marine Reserve No. 3, Rowley Shoals Marine Park.
+[Division 2 amended in Gazette 5 Dec 1997 p. 7123; 19 Jun 1998 p. 3264; 13 Aug 1999 p. 3827; 28 Nov 2003 p. 4776; 22 Dec 2005 p. 6228; 13 Feb 2009 p. 299.]
 ## Division 3 — Marine or fluvio-marine fish
 ## Subdivision 1 — Protected by reference to species, area and period
 [Heading inserted in Gazette 28 Feb 2003 p. 662.]
