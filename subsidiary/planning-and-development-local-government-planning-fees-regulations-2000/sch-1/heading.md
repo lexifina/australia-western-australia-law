@@ -33,27 +33,27 @@ Task | Estimated costs
 1.Preliminaries:
 Preliminary discussions and application registration
 2.Decision to initiate:
-(a) Information and site visit
-(b) Applicant discussion
-(c) Development Control Unit (DCU) meeting
-(d) Action DCU recommend-ation
-(e) Assessment report and agenda preparation MINOR MAJOR
+(a)Information and site visit
+(b)Applicant discussion
+(c)Development Control Unit (DCU) meeting
+(d)Action DCU recommend-ation
+(e)Assessment report and agenda preparation MINOR MAJOR
 3.Approval to advertise:
-(a) Action local government recommend-ation
-(b) Refer to Commiss-ion for approval
-(c) Advertising, notifica-tions, referrals
-(d) Deal with enquiries
-(e) Assess submissions
-(f) Liaise with external agencies
-(g) Applicant discussion and liaison
+(a)Action local government recommend-ation
+(b)Refer to Commission for approval
+(c)Advertising, notifications, referrals
+(d)Deal with enquiries
+(e)Assess submissions
+(f)Liaise with external agencies
+(g)Applicant discussion and liaison
 4.Decision to adopt:
-(a) Finalise amend-ment/plan, report and agenda preparation
-(b) Applicant discussion
-(c) Action local government recommend-ation
+(a)Finalise amendment/plan, report and agenda preparation
+(b)Applicant discussion
+(c)Action local government recommend-ation
 5.Amendment/ plan approved:
-(a) Report on Minister’s approval
-(b) Notify submissions
-(c) Update text and maps
+(a)Report on Minister’s approval
+(b)Notify submissions
+(c)Update text and maps
 HOURS
 COST
 +33.3% (To recover operating overhead costs)
@@ -70,24 +70,24 @@ Task | Estimated costs
 1.Preliminaries:
 Preliminary discussions and registration
 2.Decision to advertise:
-(a) Information and site visit
-(b) Proponent discussion
-(c) Development Control Unit (DCU) meeting
-(d) Action DCU recommend-ation
-(e) Assessment report and agenda preparation
+(a)Information and site visit
+(b)Proponent discussion
+(c)Development Control Unit (DCU) meeting
+(d)Action DCU recommend-ation
+(e)Assessment report and agenda preparation
 3.Approval to advertise:
-(a) Action local government recommend-ation
-(b) Advertising, notifica-tions, referrals
-(c) Deal with enquiries
-(d) Assess submissions
-(e) Liaise with external agencies
-(f) Proponent discussion and liaison
+(a)Action local government recommend-ation
+(b)Advertising, notifications, referrals
+(c)Deal with enquiries
+(d)Assess submissions
+(e)Liaise with external agencies
+(f)Proponent discussion and liaison
 4.Decision to adopt:
-(a) Finalise report and agenda preparation
-(b) Proponent discussion
-(c) Action local government recommend-ation
+(a)Finalise report and agenda preparation
+(b)Proponent discussion
+(c)Action local government recommend-ation
 5.Plan adopted:
-(a) Refer to Commiss-ion for end- orsement
+(a)Refer to Commission for endorse-ment
 (b)Notifications and deposit of plan
 HOURS
 COST
