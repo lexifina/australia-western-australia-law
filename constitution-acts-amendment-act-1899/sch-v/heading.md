@@ -104,7 +104,6 @@ The Animal Resources Authority established by the Animal Resources Authority Act
 The Appeal Costs Board constituted under the Suitors’ Fund Act 1964.
 The Apple Sales Advisory Committee constituted under the Agricultural Products Act 1929.
 The Architects Board of Western Australia established under the Architects Act 2004.
-The Artificial Breeding Board constituted under the Artificial Breeding Board Act 1965.
 Any board constituted under section 3 of the Parks and Reserves Act 1895 other than the Parliamentary Reserve Board.
 The Board of directors of Gold Corporation constituted under the Gold Corporation Act 1987.
 The Board of Directors of the Honey Pool of Western Australia constituted under the Honey Pool Act 1978.
