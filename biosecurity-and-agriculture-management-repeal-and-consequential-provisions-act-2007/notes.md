@@ -2,12 +2,12 @@ Notes
 This is a compilation of the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007. The following table contains information about that Act.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 | 24 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; s. 3, Pt. 2 Div. 1 and 2 (s. 4-17) and s. 85(4): 24 Oct 2007 (see s. 2 and Gazette 23 Oct 2007 p. 5645)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 | 24 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; s. 3, Pt. 2 Div. 1 and 2 (s. 4-17) and s. 85(4): 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645): Pt. 2 Div. 9: 21 Feb 2009 (see s. 2(1) and Gazette 20 Feb 2009 p. 353);
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-18 (s. 18-83) and Pt. 3 (except s. 85(4)) | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-18 (s. 18-83) and Pt. 3 (except s. 85(4)) had not come into operation. They read as follows:
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-8, 10-18 and Pt. 3 (except s. 85(4)) | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-8, 10-18 and Pt. 3 (except s. 85(4)) had not come into operation. They read as follows:
 “
 Division 3 — Aerial Spraying Control Act 1966
 18.Repeal
@@ -183,12 +183,6 @@ The operation of any provision of this Division is not to be regarded —
 Division 8 — Argentine Ant Act 1968
 49.Repeal
 The Argentine Ant Act 1968 is repealed.
-Division 9 — Artificial Breeding of Stock Act 1965
-50.Repeal
-The Artificial Breeding of Stock Act 1965 is repealed.
-51.Constitution Acts Amendment Act 1899 amended
-(1) The amendment in this section is to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended by deleting “The Artificial Breeding Board constituted under the Artificial Breeding Board Act 1965.”.
 Division 10 — Beekeepers Act 1963
 52.Repeal
 The Beekeepers Act 1963 is repealed.
