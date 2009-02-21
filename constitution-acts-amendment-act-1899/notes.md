@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 January 2009 of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Constitution Acts Amendment Act 1899 | 1899 (63 Vict. No. 19) | 18 May 1900 | 18 May 1900 (see s. 52 and Gazette 18 May 1900 p. 1686). Reserved for Royal Assent 16 Dec 1899
@@ -241,24 +241,25 @@ Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 |
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
 Child Care Services Act 2007 Pt. 7 Div. 2 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 Reprint 15: The Constitution Acts Amendment Act 1899 as at 2 Aug 2007 (includes amendments listed above except those in the Commissioner for Children and Young People Act 2006, the Nurses and Midwives Act 2006, the Owner-Drivers (Contracts and Disputes) Act 2007 and the Child Care Services Act 2007)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 51 | 24 of 2007 | 12 Oct 2007 | 21 Feb 2009 (see s. 2 and Gazette 20 Feb 2009 p. 353)
 Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | 1 Jul 2008 (see s. 2(b) and Gazette 20 Jun 2008 p. 2705)
 Water Resources Legislation Amendment Act 2007 s. 192 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Eastern Goldfields Transport Board Repeal Act 2008 s. 12 | 28 of 2008 | 1 Jul 2008 | 29 Jul 2008
-Reprint 16: The Constitution Acts Amendment Act 1899 as at 16 Jan 2009 (includes amendments listed above)
+Reprint 16: The Constitution Acts Amendment Act 1899 as at 16 Jan 2009 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 51)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 s. 57 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22, 35 and 51 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 and 35 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative at “transfer time” fixed under the State Superannuation Act 2000 s. 56 (see s. 2(1)(c))
 Legal Profession Act 2008 s. 650 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions repealed by the Health Amendment Act 1985.
 Established by the Agricultural Practices (Disputes) Act 1995.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22, 35 and 51 had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 and 35 had not come into operation. They read as follows:
 “
 22.Constitution Acts Amendment Act 1899 amended
 (1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
@@ -268,13 +269,10 @@ On the date as at which this reprint was prepared, the Biosecurity and Agricultu
 35.Constitution Acts Amendment Act 1899 amended
 (1) The amendment in this section is to the Constitution Acts Amendment Act 1899.
 (2) Schedule V Part 3 is amended by deleting “The Agriculture Protection Board of Western Australia constituted under the Agriculture Protection Board Act 1950.”.
-51.Constitution Acts Amendment Act 1899 amended
-(1) The amendment in this section is to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended by deleting “The Artificial Breeding Board constituted under the Artificial Breeding Board Act 1965.”.
 ”.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Relevant provisions repealed by the Agricultural Products Amendment Act 1985.
-Repealed by the Herd Improvement Service Act 1984, which was repealed by the Dairy Industry and Herd Improvement Legislation Repeal Act 2000.
+Footnote no longer applicable.
 Repealed by the Honey Pool Repeal Act 1991.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
 Under the Gaming and Wagering Commission Act 1987 s. 112 the Casino Control Committee was merged with the Gaming Commission of Western Australia (which is now the Gaming and Wagering Commission of Western Australia). Under s. 112(2) of that Act a reference to the Casino Control Committee in a written law passed or made before 4 Mar 1988 is, unless the context is such that it would be inappropriate so to do, read and construed as a reference to the Commission.
