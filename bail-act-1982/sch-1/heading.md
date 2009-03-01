@@ -1,8 +1,10 @@
-## Schedule 1
-[Heading amended by No. 45 of 1993 s. 10(1).]
-[Sections 13 and 17]
-## Part A — Jurisdiction to grant bail
-First Column Appearances in court referred to in section 13 | Second Column By whom bail may be granted
+## Schedule 1 — Jurisdiction as to bail and related matters
+[s. 13, 17]
+[Heading inserted by No. 6 of 2008 s. 41(1).]
+## Part A — Jurisdiction relating to bail
+[Heading inserted by No. 6 of 2008 s. 41(2)(a).]
+First Column Appearances in court | Second Column By whom bail may be granted or (where applicable) dispensed with
+[Heading amended by No. 6 of 2008 s. 41(2)(b) and (c).]
 1.Initial appearance (1)The initial appearance in a court of summary jurisdiction or the Children’s Court by an accused in, or in connection with, proceedings for an offence. | In any case — (a)a justice; or (b)an authorised police officer; and in addition, in the case of a child, an authorised community services officer.
 (2)The initial appearance in the District Court or the Supreme Court, not being the initial appearance to which clause 3 applies. | A judge of the District Court or a judge of the Supreme Court, as the case requires.
 [Clause 1 amended by No. 15 of 1988 s. 19; No. 49 of 1988 s. 90(a)(i); No. 59 of 2004 s. 141; No. 84 of 2004 s. 10(1) and 82.]
