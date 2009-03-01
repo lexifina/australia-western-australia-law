@@ -54,12 +54,12 @@ Reprint 5: The Juries Act 1957 as at 8 Jun 2007 (includes amendments listed abov
 Acts Amendment (Justice) Act 2008 Pt. 14 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Police Amendment Act 2008 s. 14 and s. 23(4) | 8 of 2008 | 31 Mar 2008 | s. 14: 1 Apr 2008 (see s. 2(1)) s. 23(4): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Criminal Law and Evidence Amendment Act 2008 s. 64 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+Legal Profession Act 2008 s. 669 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
-Legal Profession Act 2008 s. 669 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Repealed by the Nurses Act 1992.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -80,24 +80,3 @@ On the date as at which this compilation was prepared, the Machinery of Governme
 ”.
 ”.
 The amendment to the Second Schedule, Pt. I it. (2)(i) in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) would not be included because the item it seeks to amend was repealed by the Prisons and Sentencing Legislation Amendment Act 2006 s. 66.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 669 had not come into operation. It reads as follows:
-“
-669.Juries Act 1957 amended
-(1) The amendments in this section are to the Juries Act 1957.
-(2) Section 56A(1) is amended in paragraph (b) of the definition of “prosecuting officer” by deleting “a legal practitioner (as defined in the Legal Practice Act 2003);” and inserting instead —
-“
-an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
-”.
-(3) Section 56B(2)(h) is amended by deleting “a legal practitioner (as defined in the Legal Practice Act 2003)” and inserting instead —
-“
-an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3)
-”.
-(4) Section 56C(2)(g) is amended by deleting “a legal practitioner (as defined in the Legal Practice Act 2003)” and inserting instead —
-“
-an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3)
-”.
-(5) The Second Schedule Part I item 1(f) is deleted and the following paragraph is inserted instead —
-“
-(f) an Australian lawyer (within the meaning of that term in the Legal Profession Act 2008 section 3).
-”.
-”.

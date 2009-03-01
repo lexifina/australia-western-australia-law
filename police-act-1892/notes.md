@@ -115,10 +115,7 @@ Criminal Investigation (Consequential Provisions) Act 2006 Pt. 12 | 59 of 2006 |
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 13: The Police Act 1892 as at 23 Nov 2007 (includes amendments listed above)
 Police Amendment Act 2008 Pt. 2 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Legal Profession Act 2008 s. 692 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Legal Profession Act 2008 s. 692 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Now known as the Police Act 1892; short title changed (see note under s. 3).
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973 s. 3.
 The Police Amendment Act 2003 s. 9 reads as follows:
@@ -187,10 +184,4 @@ repeal day means the day on which section 64 comes into operation.
 (1) In this section —
 repeal day means the day on which section 65 comes into operation.
 (2) If immediately before repeal day any property is subject to an embargo notice granted under the Police Act 1892 section 90B, whether the property was seized under Part V of that Act or under an Act that refers to that section, then on and after repeal day sections 90B and 90C of that Act apply to and in respect of the notice as if they had not been repealed.
-”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 692 had not come into operation. It reads as follows:
-“
-692.Police Act 1892 amended
-(1) The amendment in this section is to the Police Act 1892.
-(2) Section 33K is amended by deleting the definition of “legal practitioner”.
 ”.

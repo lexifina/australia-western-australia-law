@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 February 2009 of the Guardianship and Administration Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Guardianship and Administration Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Guardianship and Administration Act 1990 | 24 of 1990 | 7 Sep 1990 | s. 1 and 2: 7 Sep 1990; Act other than s. 1 and 2, Pt. 4-7, s. 123, 124 and Sch. 2, 4 and 5: 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2649); Pt. 4-7, s. 123, 124 and Sch. 2, 4 and 5: 20 Oct 1992 (see s. 2 and Gazette 2 Oct 1992 p. 4811)
@@ -27,14 +27,14 @@ Family Legislation Amendment Act 2006 Pt. 6 Div. 2 | 35 of 2006 | 4 Jul 2006 | 1
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
 Acts Amendment (Justice) Act 2008 Pt. 12 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-Reprint 4: The Guardianship and Administration Act 1990 as at 6 Feb 2009 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Legal Profession Act 2008 s. 667 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+Medical Practitioners Act 2008 Sch. 3 cl. 22 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Surrogacy Act 2008 Pt. 4 Div. 4 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
+Reprint 4: The Guardianship and Administration Act 1990 as at 6 Feb 2009 (includes amendments listed above except those in the Legal Profession Act 2008 and the Surrogacy Act 2008)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Legal Profession Act 2008 s. 667 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
-Surrogacy Act 2008 Pt. 4 Div. 4 | 47 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Guardianship and Administration Amendment Act 2000 s. 21 reads as follows:
 “
@@ -79,20 +79,8 @@ on or after the commencement day, the State Administrative Tribunal may make an 
 (b) a statement of acceptance in the form, or substantially in the form, of the GA Act Schedule 3 Form 2,
 in effect immediately before the commencement day contains a reference to the Guardianship and Administration Board, on and after the commencement day that reference is to be taken to be a reference to the State Administrative Tribunal.
 ”.
-On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 667 had not come into operation. It reads as follows:
-“
-667.Guardianship and Administration Act 1990 amended
-(1) The amendments in this section are to the Guardianship and Administration Act 1990.
-(2) Section 3(1) is amended by deleting the definition of “legal practitioner” and inserting instead —
-“
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
-”.
-(3) Section 51(3) is amended by deleting “Legal Practice Act 2003.” and inserting instead —
-“ Legal Profession Act 2008. ”.
-(4) Section 70(3) is amended by deleting “Legal Practice Act 2003.” and inserting instead —
-“ Legal Profession Act 2008. ”.
-”.
-On the date as at which this reprint was prepared, the Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 had not come into operation. It reads as follows:
+Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 had not come into operation. It reads as follows:
 “
 Part 2 — Guardianship and Administration Act 1990 amended
 3.The Act amended
@@ -570,16 +558,6 @@ a decision in respect of the matter must be made by the guardian.
 (2) The Minister is to prepare a report based on the review made under subsection (1) and cause the report to be laid before each House of Parliament within 4 years after the commencement of this Act.
 ”.
 The amendment to s. 45 in the Acts Amendment (Consent to Medical Treatment) Act 2008 s. 6(3) would conflict with an amendment in the Wills Amendment Act 2007 s. 25.
-On the date as at which this reprint was prepared, the Surrogacy Act 2008 Pt. 4 Div. 4 had not come into operation. It reads as follows:
-“
-Part 4 — Other Acts amended
-Division 4 — Guardianship and Administration Act 1990 amended
-63.Act amended
-This Division amends the Guardianship and Administration Act 1990.
-64.Section 45 amended
-After section 45(3)(c) insert:
-(da) consent, under section 21(2)(d) of the Surrogacy Act 2008, to the making of a parentage order under that Act; or
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

@@ -244,22 +244,22 @@ Reprint 15: The Constitution Acts Amendment Act 1899 as at 2 Aug 2007 (includes 
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 51 | 24 of 2007 | 12 Oct 2007 | 21 Feb 2009 (see s. 2 and Gazette 20 Feb 2009 p. 353)
 Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | 1 Jul 2008 (see s. 2(b) and Gazette 20 Jun 2008 p. 2705)
 Water Resources Legislation Amendment Act 2007 s. 192 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
+Legal Profession Act 2008 s. 650 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Eastern Goldfields Transport Board Repeal Act 2008 s. 12 | 28 of 2008 | 1 Jul 2008 | 29 Jul 2008
-Reprint 16: The Constitution Acts Amendment Act 1899 as at 16 Jan 2009 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 51)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Reprint 16: The Constitution Acts Amendment Act 1899 as at 16 Jan 2009 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 51 and the Legal Profession Act 2008)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Amendment Act 1991 s. 57 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 and 35 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative at “transfer time” fixed under the State Superannuation Act 2000 s. 56 (see s. 2(1)(c))
-Legal Profession Act 2008 s. 650 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions repealed by the Health Amendment Act 1985.
 Established by the Agricultural Practices (Disputes) Act 1995.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 and 35 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 and 35 had not come into operation. They read as follows:
 “
 22.Constitution Acts Amendment Act 1899 amended
 (1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
@@ -285,7 +285,7 @@ Repealed by the Acts Amendment and Repeal (Statutory Bodies) Act 1985.
 Relevant provisions amended by the Soil and Land Conservation Amendment Act 1988. Committees are now land conservation district committees.
 Under the Environmental Protection Act 1986 Sch. 3 cl. 20, a reference to an environmental appeal board shall be construed as a reference to an appeals committee.
 Authority continued in existence under the Environmental Protection Act 1986 s. 7(1).
-On the date as at which this reprint was prepared, the State Superannuation Amendment Act 2007 s. 79 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 79 had not come into operation. It reads as follows:
 “
 79.Constitution Acts Amendment Act 1899 amended
 (1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
@@ -295,13 +295,7 @@ The State Superannuation Board under the State Superannuation Act 2000.
 ”.
 ”.
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
-On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 650 had not come into operation. It reads as follows:
-“
-650.Constitution Acts Amendment Act 1899 amended
-(1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended in the item relating to the Legal Contribution Trust by deleting “Legal Contribution Trust Act 1967.” and inserting instead —
-“ Legal Profession Act 2008. ”.
-”.
+Footnote no longer applicable.
 Repealed by the Legislative Review and Advisory Committee Repeal Act 1987.
 Relevant provisions repealed by the Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 115. Committee replaced by Mining Industry Advisory Committee established under the Occupational Safety and Health Act 1984 s. 14A.
 The Mine Workers’ Relief Board was dissolved. See the Mine Workers’ Relief Act 1932 Sch. 2 para. 3.
@@ -353,7 +347,7 @@ by reason only of a conviction that occurred before the commencement.
 (5) In subsection (4) —
 commencement means the commencement of this section.
 ”.
-On the date as at which this reprint was prepared, the Conservation and Land Management Amendment Act 1991 s. 57, which gives effect to the Schedule, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 1991 s. 57, which gives effect to the Schedule, had not come into operation. It reads as follows:
 “
 57.Consequential amendments to other Acts
 The Acts referred to in the column of the Schedule are amended in the manner set out in the second column.
@@ -362,7 +356,7 @@ Item 1 of the Schedule reads as follows:
 “
 1.Constitution Acts Amendment Act 1899 | In Schedule V, in Part 3, the following item is inserted in the appropriate alphabetical position — “The Nature Conservation Trust of Western Australia established under Part IXA of the Conservation and Land Management Act 1984.”.
 ”.
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3Consequential amendments
 Schedule 2 has effect.

@@ -9,11 +9,11 @@ Compilation table
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 1: The Planning and Development Act 2005 as at 23 Nov 2007 (includes amendments listed above)
  | Acts Amendment (Justice) Act 2008 Pt. 18 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+ | Legal Profession Act 2008 s. 690 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) | 37 of 2005 (as amended by No. 60 of 2006 s. 147(4)) | 12 Dec 2005 | To be proclaimed (see s. 2)
-Legal Profession Act 2008 s. 690 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
 Repealed by the Mining Act 1978.
 On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) had not come into operation. They read as follows:
@@ -342,14 +342,4 @@ but if the City of Swan does not accept that advice, the City of Swan is to refe
 ”.
 (8) Clause 30B(6) is amended by deleting “council of the Shire” and inserting instead —
 “ City ”.
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 690 had not come into operation. It reads as follows:
-“
-690.Planning and Development Act 2005 amended
-(1) The amendments in this section are to the Planning and Development Act 2005.
-(2) Section 4(1) is amended by deleting the definition of “legal practitioner” and inserting instead —
-“
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
-”.
 ”.

@@ -1,14 +1,12 @@
 Notes
 This is a compilation of the Royal Commission (Police) Act 2002 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
-Short title | Number and Year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
 Royal Commission (Police) Act 2002 | 10 of 2002 | 28 Jun 2002 | 28 Jun 2002 (see s. 2)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 63 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Corruption and Crime Commission Amendment and Repeal Act 2003 s. 71 | 78 of 2003 | 22 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+Legal Profession Act 2008 s. 700 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Legal Profession Act 2008 s. 700 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 3 Div. 4 reads as follows:
 “
 Division 4 — Royal Commission (Police) Act 2002
@@ -32,12 +30,36 @@ records includes —
 (a) are to be transferred to the CCC; and
 (b) become records of the CCC and may be dealt with accordingly.
 ”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 700 had not come into operation. It reads as follows:
-“
-700.Royal Commission (Police) Act 2002 amended
-(1) The amendments in this section are to the Royal Commission (Police) Act 2002.
-(2) Section 3(1) is amended by deleting the definition of “legal practitioner” and inserting instead —
-“
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
-”.
-”.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+1968 Act3(1)
+ACC Act3(1)
+agency21
+appropriate entry24(3)
+assumed identity approval22(1)
+chief employee21
+chief executive officer21
+Commission3(1)
+Commissioner3(1)
+controlled activity28
+controlled operation28
+corrupt conduct3(1)
+court25(4), 43(5)
+criminal conduct3(1)
+Deputy Parliamentary Commissioner3(1)
+disciplinary measures3(1)
+integrity testing programme30(1)
+legal practitioner 3(1)
+officer of the Commission3(1)
+officer of the Parliamentary Commissioner3(1)
+organisation21
+Parliamentary Commissioner3(1)
+police complaint17
+premises3(1)
+produce43(5)
+public authority3(1)
+public officer3(1)
+reasonable excuse41(7)
+restriction on disclosure13(2)
+the matter18(1), 19(1)

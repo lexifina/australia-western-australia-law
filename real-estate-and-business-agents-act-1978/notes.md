@@ -45,11 +45,11 @@ Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 8 | 69 of 2006
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 6: The Real Estate and Business Agents Act 1978 as at 24 Aug 2007 (includes amendments listed above)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Legal Profession Act 2008 s. 696 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 29 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Legal Profession Act 2008 s. 696 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Land Agents Act 1921 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The “appointed day” was 1 December 1979. See Gazette 31 August 1979 p. 2615.
 The Land Agents Act 1921.
@@ -97,14 +97,4 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 (a) after paragraph (b) by inserting —
 “ and ”;
 (b) by deleting paragraph (e) and “and” after it.
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 696 had not come into operation. It reads as follows:
-“
-696.Real Estate and Business Agents Act 1978 amended
-(1) The amendments in this section are to the Real Estate and Business Agents Act 1978.
-(2) Section 4(1) is amended by deleting the definition of “legal practitioner” and inserting instead —
-“
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
-”.
 ”.

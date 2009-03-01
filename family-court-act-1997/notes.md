@@ -20,13 +20,13 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Reprint 2: The Family Court Act 1997 as at 14 Apr 2006 (includes amendments listed above)
 Family Legislation Amendment Act 2006 Pt. 2 and 3 9-11 | 35 of 2006 | 4 Jul 2006 | Pt. 2: 14 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559); Pt. 3: 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 Reprint 3: The Family Court Act 1997 as at 20 Oct 2006 (includes amendments listed above)
+Legal Profession Act 2008 s. 663 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+Surrogacy Act 2008 Pt. 4 Div. 3 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 43(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Family Legislation Amendment Act 2006 Pt. 4 | 35 of 2006 | 4 Jul 2006 | To be proclaimed (see s. 2)
-Legal Profession Act 2008 s. 663 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
-Surrogacy Act 2008 Pt. 4 Div. 3 | 47 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938was repealed by the State Superannuation Act 2000 s. 39. Certain provisions of that Act continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 43(2) had not come into operation. It reads as follows:
 “
@@ -587,55 +587,4 @@ relevant provisions means the following provisions of the Family Court Act 1997,
 and
 (b) does not apply in relation to bankruptcies for which the date of the bankruptcy is before the commencement.
 (3) The relevant provisions apply to proceedings instituted after the commencement, whether the date of the bankruptcy is before, on or after the commencement.
-”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 663 had not come into operation. It reads as follows:
-“
-663.Family Court Act 1997 amended
-(1) The amendments in this section are to the Family Court Act 1997.
-(2) Section 5(1) is amended as follows:
-(a) in the definition of “independent children’s lawyer” by deleting “a certificated practitioner (within the meaning of the Legal Practice Act 2003)” and inserting instead —
-“ an Australian legal practitioner ”;
-(b) by inserting in the appropriate alphabetical position —
-“
-Australian legal practitioner has the meaning given in the Legal Profession Act 2008 section 3;
-”.
-(3) Section 11(3) is repealed and the following subsections are inserted instead —
-“
-(3) A person is not eligible for appointment as a Family Court judge unless the person —
-(a) is an Australian lawyer and has had not less than 8 years’ legal experience; and
-(b) by reason of training, experience, and personality, is a suitable person to deal with matters of family law.
-(3a) In subsection (3)(a) —
-Australian lawyer has the meaning given in the Legal Profession Act 2008 section 3;
-legal experience means —
-(a)standing and practice as an Australian legal practitioner; or
-(b)judicial service (including service as a judge of a court, a magistrate or other judicial officer) in the State or elsewhere in a common law jurisdiction; or
-(c)a combination of both kinds of legal experience mentioned in paragraphs (a) and (b).
-”.
-”.
-On the date as at which this compilation was prepared, the Surrogacy Act 2008 Pt. 4 Div. 3 had not come into operation. It reads as follows:
-“
-Part 4 — Other Acts amended
-Division 3 — Family Court Act 1997 amended
-58.Act amended
-This Division amends the Family Court Act 1997.
-59.Section 5 amended
-In section 5(1) in the definition of child:
-(a) in paragraph (a) delete “adopted child” and insert:
-adopted child, a child whose parentage has been transferred under the Surrogacy Act 2008
-(b) in paragraph (b) delete “adopted child);” and insert:
-adopted child or a child whose parentage has been transferred under the Surrogacy Act 2008);
-60.Section 36 amended
-In section 36(2) delete “Adoption Act 1994” and insert:
-Adoption Act 1994, the Surrogacy Act 2008
-61.Section 39 amended
-In section 39 after “Adoption Act 1994” insert:
-or the Surrogacy Act 2008
-62.Section 205T amended
-In section 205T:
-(a) in the definition of child before paragraph (c) insert:
-(ca)a child whose parentage has, since the commencement of the de facto relationship, been transferred under the Surrogacy Act 2008 to the de facto partners; or
-(b) in the definition of child after paragraph (a) insert:
-or
-(c) in the definition of financial matters after paragraph (a) insert:
-or
 ”.

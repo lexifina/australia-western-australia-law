@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 November 2008 of the Supreme Court Act 1935 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Supreme Court Act 1935 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Supreme Court Act 1935 | 36 of 1935 (26 Geo. V No. 36) | 3 Mar 1936 | 1 May 1936 (see s. 1 and Gazette 9 Apr 1936 p. 527). Reserved for Royal Assent 7 Jan 1936. Assented: 3 Mar 1936 (see Gazette 3 Apr 1936 p. 484)
@@ -79,13 +79,13 @@ Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
 Acts Amendment (Justice) Act 2008 Pt. 23 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
-Reprint 8: The Supreme Court Act 1935 as at 7 Nov 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Bail Amendment Act 2008 s. 46 | 6 of 2008 | 31 Mar 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+Legal Profession Act 2008 s. 709 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+Reprint 8: The Supreme Court Act 1935 as at 7 Nov 2008 (includes amendments listed above except those in the Bail Amendment Act 2008 and the Legal Profession Act 2008)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Bail Amendment Act 2008 s. 46 | 6 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(b))
-Legal Profession Act 2008 s. 709 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Acts Amendment (Court of Appeal) Act 2004 s. 5(2) and Pt. 5 read as follows:
 “
@@ -205,55 +205,6 @@ Section 11B of the Supreme Court Act 1935 is amended as follows:
 ”;
 (b) by repealing subsection (3a).
 ”.
-On the date as at which this reprint was prepared, the Bail Amendment Act 2008 s. 46 had not come into operation. It reads as follows:
-“
-46.Supreme Court Act 1935 amended
-(1) The amendments in this section are to the Supreme Court Act 1935.
-(2) Section 58(1)(b) is amended by inserting before “appeals” —
-“ subject to subsection (1a) ”.
-(3) After section 58(1) the following subsection is inserted —
-“
-(1a) An appeal does not lie to the Court of Appeal under subsection (1)(b) against a bail decision as defined in the Bail Act 1982 section 15A(1).
-”.
-”.
-On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 709 had not come into operation. It reads as follows:
-“
-709.Supreme Court Act 1935 amended
-(1) The amendments in this section are to the Supreme Court Act 1935.
-(2) Section 4(1) is amended as follows:
-(a) by inserting in the appropriate alphabetical position —
-“
-lawyer means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
-”;
-(b) by deleting the definition of “legal practitioner” and inserting instead —
-“
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
-”.
-(3) Section 4(2) is amended as follows:
-(a) in paragraph (a) by deleting “in the State”;
-(b) by deleting paragraph (b);
-(c) in paragraph (d) by deleting “2 or more” and inserting instead —
-“ both ”.
-(4) Section 8(1) is repealed and the following subsection is inserted instead —
-“
-(1) A person is eligible for appointment as a judge of the Court if that person is a lawyer and has had not less than 8 years’ legal experience.
-”.
-(5) Section 11A(2) is amended by deleting “legal practitioner” in both places where it occurs and inserting instead —
-“ lawyer ”.
-(6) Section 11A(2a)(a) is amended by deleting “in the State”.
-(7) Section 11B(1)(c) is amended by deleting “the practice of a barrister or solicitor” and inserting instead —
-“ legal practice ”.
-(8) Section 154(1) is amended by deleting “legal practitioner” and inserting instead —
-“ lawyer ”.
-(9) Section 167(1)(d) is amended by deleting “legal costs determination (as defined in the Legal Practice Act 2003).” and inserting instead —
-“
-costs determination (as defined in the Legal Profession Act 2008 section 252).
-”.
-(10) Section 167(1)(da) is amended by deleting “legal costs determination (as defined in the Legal Practice Act 2003).” and inserting instead —
-“
-costs determination (as defined in the Legal Profession Act 2008 section 252).
-”.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -273,6 +224,7 @@ issue of fact4(1)
 judge of appeal4(1)
 judgment4(1)
 jurisdiction4(1)
+lawyer4(1)
 legal experience4(2)
 legal practitioner4(1)
 lower court17(1)

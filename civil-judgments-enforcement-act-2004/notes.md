@@ -1,16 +1,16 @@
 Notes
-This reprint is a compilation as at 20 February 2009 of the Civil Judgments Enforcement Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Civil Judgments Enforcement Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Civil Judgments Enforcement Act 2004 | 28 of 2004 | 14 Oct 2004 | s. 1 and 2: 14 Oct 2004; Act other than s. 1 and 2: 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Acts Amendment (Justice) Act 2008 Pt. 3 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
-Reprint 1: The Civil Judgments Enforcement Act 2004 as at 20 Feb 2009 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Legal Profession Act 2008 s. 645 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+Reprint 1: The Civil Judgments Enforcement Act 2004 as at 20 Feb 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 20 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Legal Profession Act 2008 s. 645 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
 Part 22 — Transitional provisions
@@ -77,7 +77,7 @@ Division 2 — General
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State) the rights of that person existing before the day of publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of publication.
 ”.
-On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 20 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 20 had not come into operation. It reads as follows:
 “
 20.Civil Judgments Enforcement Act 2004 amended
 (1) The amendments in this section are to the Civil Judgments Enforcement Act 2004.
@@ -85,21 +85,6 @@ On the date as at which this reprint was prepared, the Housing Societies Repeal 
 (a) after paragraph (c) by inserting —
 “ or ”;
 (b) by deleting paragraph (d) and “or” after it.
-”.
-On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 645 had not come into operation. It reads as follows:
-“
-645.Civil Judgments Enforcement Act 2004 amended
-(1) The amendments in this section are to the Civil Judgments Enforcement Act 2004.
-(2) Section 30(1) is repealed and the following section is inserted instead —
-“
-(1) In this section —
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3.
-”.
-(3) Section 30(6) is amended as follows:
-(a) by deleting “lawyer” in both places where it occurs and inserting instead —
-“ legal practitioner ”;
-(b) by deleting “Legal Practice Act 2003 section 123.” and inserting instead —
-“ Legal Profession Act 2008 section 12. ”.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -134,7 +119,7 @@ judgment creditor3
 judgment debt3
 judgment debtor3
 judgment sum3
-lawyer30(1)
+legal practitioner30(1)
 means inquiry3
 mobile home3
 monetary judgment3

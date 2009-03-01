@@ -17,10 +17,10 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 50 | 65 of 200
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Labour Relations Legislation Amendment Act 2006 Pt. 7 Div. 2 | 36 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2(1))
 Reprint 4: The Long Service Leave Act 1958 as at 1 Sep 2006 (includes amendments listed above)
+Legal Profession Act 2008 s. 676 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Legal Profession Act 2008 s. 676 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Training Legislation Amendment and Repeal Act 2008 s. 54 | 44 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 Repealed by the Statute Law Revision Act 1950 of the Commonwealth.
 Repealed by the Defence Legislation Amendment Act 1992 of the Commonwealth.
@@ -52,15 +52,7 @@ The LSL General Order is repealed.
 (5) In this section —
 commencement means the coming into operation of the Labour Relations Legislation Amendment Act 2006 Part 7 Division 2.
 ”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 676 had not come into operation. It reads as follows:
-“
-676.Long Service Leave Act 1958 amended
-(1) The amendments in this section are to the Long Service Leave Act 1958.
-(2) Section 37 is amended by deleting “a certificated practitioner (within the meaning of the Legal Practice Act 2003)” and inserting instead —
-“
-an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3)
-”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 54 had not come into operation. It reads as follows:
 “
 54.Long Service Leave Act 1958 amended

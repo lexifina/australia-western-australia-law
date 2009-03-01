@@ -10,12 +10,12 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 State Superannuation Amendment Act 2007 s. 77 | 25 of 2007 | 16 Oct 2007 | 6 Dec 2007 (see s. 2(1)(b) and Gazette 5 Dec 2007 p. 5973)
 Reprint 1: The Magistrates Court Act 2004 as at 4 Jan 2008 (includes amendments listed above)
 Acts Amendment (Justice) Act 2008 Pt. 15 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Legal Profession Act 2008 s. 677 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Cross-border Justice Act 2008 Pt. 15 Div. 2 | 7 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(b))
-Legal Profession Act 2008 s. 677 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Courts Legislation Amendment and Repeal Act 2004 contains transitional provisions about enforcing judgments given before the Civil Judgments Enforcement Act 2004 commenced, including judgment of Local Courts.
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Cross-border Justice Act 2008 Pt. 15 Div. 2 had not come into operation. It reads as follows:
@@ -61,22 +61,6 @@ After section 15(3) the following subsection is inserted —
 (3) The oath or affirmation of office may be taken at a place outside the State.
 ”.
 (2) Schedule 1 clause 10 is repealed.
-”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 677 had not come into operation. It reads as follows:
-“
-677.Magistrates Court Act 2004 amended
-(1) The amendments in this section are to the Magistrates Court Act 2004.
-(2) Schedule 1 clause 1 is amended by deleting the definition of “legal practitioner” and inserting instead —
-“
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3.
-”.
-(3) Schedule 1 clause 2(1) is amended in the definition of “legal experience” as follows:
-(a) by deleting “any or any combination” and inserting instead —
-“ either or both ”;
-(b) by deleting paragraphs (a) and (b) and inserting instead —
-“
-(a)standing and practice as a legal practitioner;
-”.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

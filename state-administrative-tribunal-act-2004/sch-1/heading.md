@@ -10,7 +10,7 @@ Finance Brokers Control Act 1975
 Fish Resources Management Act 1994
 Hairdressers Registration Act 1946
 Land Valuers Licensing Act 1978
-Legal Practice Act 2003
+Legal Profession Act 2008
 Licensed Surveyors Act 1909
 Medical Practitioners Act 2008
 Medical Radiation Technologists Act 2006
@@ -32,4 +32,4 @@ Taxi Act 1994
 Travel Agents Act 1985
 Valuation of Land Act 1978
 Veterinary Surgeons Act 1960
-[Schedule 1 amended by No. 28 of 2005 s. 108; No. 29 of 2005 s. 109; No. 30 of 2005 s. 109; No. 31 of 2005 s. 109; No. 32 of 2005 s. 109; No. 33 of 2005 s. 108; No. 42 of 2005 s. 109; No. 21 of 2006 s. 105; No. 50 of 2006 s. 114; No. 22 of 2008 s. 162.]
+[Schedule 1 amended by No. 28 of 2005 s. 108; No. 29 of 2005 s. 109; No. 30 of 2005 s. 109; No. 31 of 2005 s. 109; No. 32 of 2005 s. 109; No. 33 of 2005 s. 108; No. 42 of 2005 s. 109; No. 21 of 2006 s. 105; No. 50 of 2006 s. 114; No. 22 of 2008 s. 162; No. 21 of 2008 s. 706(4).]

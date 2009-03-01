@@ -69,11 +69,11 @@ Reprint 8: The Transfer of Land Act 1893 as at 15 Jun 2007 (includes amendments 
 Petroleum Amendment Act 2007 s. 106 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Acts Amendment (Justice) Act 2008 Pt. 24 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Legal Profession Act 2008 s. 711 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
-Legal Profession Act 2008 s. 711 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
 The Transfer of Land Amendment Act 1996 s. 6(2) reads as follows:
@@ -175,34 +175,4 @@ and the proprietors of the freehold in the land (the “proprietors”) wish to 
 57.Section 167 amended
 Section 167 is amended by deleting “or 166A” and inserting instead —
 “ , 166A or 166C ”.
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 711 had not come into operation. It reads as follows:
-“
-711.Transfer of Land Act 1893 amended
-(1) The amendments in this section are to the Transfer of Land Act 1893.
-(2) Section 4(1) is amended by inserting in the appropriate alphabetical position —
-“
-Australian lawyer has the meaning given to that term in the Legal Profession Act 2008 section 3;
-”.
-(3) Section 5(2)(b) is deleted and the following paragraph is inserted instead —
-“
-(b) the person is an Australian lawyer of not less than 7 years’ standing and practice.
-”.
-(4) Section 6(2)(b) is deleted and the following paragraph is inserted instead —
-“
-(b) the person is an Australian lawyer of not less than 5 years’ standing.
-”.
-(5) Section 8(4) is repealed and the following subsection is inserted instead —
-“
-(4) A person cannot be an Examiner of Titles unless the person is an Australian lawyer.
-”.
-(6) Section 12 is amended by deleting “practise as a barrister or an attorney or solicitor or participate in the fees of any other person so practising.” and inserting instead —
-“
-engage in legal practice or share in the profits of a person so engaged.
-”.
-(7) Section 15(1)(c) is deleted and the following paragraph is inserted instead —
-“
-(c) any other member of the Authority’s staff who is an Australian lawyer.
-”.
 ”.

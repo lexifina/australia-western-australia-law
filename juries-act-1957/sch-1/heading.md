@@ -12,8 +12,8 @@
 (db) Parliamentary Inspector of the Corruption and Crime Commission appointed under the Corruption and Crime Commission Act 2003;
 (e) magistrate;
 (ea) magistrate of the Children’s Court;
-(f) legal practitioner (as defined in the Legal Practice Act 2003).
-[Clause 1 inserted by No. 59 of 1984 s. 23; amended by No. 48 of 2003 s. 62; No. 65 of 2003 s. 42(3); No. 34 of 2004 s. 251; No. 59 of 2004 s. 141.]
+(f) an Australian lawyer (within the meaning of that term in the Legal Profession Act 2008 section 3).
+[Clause 1 inserted by No. 59 of 1984 s. 23; amended by No. 48 of 2003 s. 62; No. 65 of 2003 s. 42(3); No. 34 of 2004 s. 251; No. 59 of 2004 s. 141; No. 21 of 2008 s. 669(5).]
 2.A person who is or has been, within a period of 5 years before being summoned to serve as a juror —
 (a) member or officer of the Legislative Assembly;
 (b) member or officer of the Legislative Council;
