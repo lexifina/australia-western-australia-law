@@ -14,4 +14,5 @@ Bail Amendment Regulations (No. 2) 2000 | 22 Aug 2000 p. 4849 | 22 Aug 2000
 Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 3 | 30 Jun 2003 p. 2581-638 | 1 Jul 2003 (see r. 2 and Gazette 30 Jun 2003 p. 2579)
 Sentencing Legislation (Short Sentences) Amendment Regulations 2004 r. 5 | 14 May 2004 p. 1445-7 | 15 May 2004 (see r. 2 and Gazette 14 May 2004 p. 1445)
 Courts and Legal Practice (Consequential Amendments) Regulations 2005 r. 2 | 19 Apr 2005 p. 1294-302 | 19 Apr 2005
+Bail Amendment Regulations 2009 | 25 Feb 2009 p. 471-90 | r. 1 and 2: 25 Feb 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2009 (see r. 2(b) and Gazette 27 Feb 2009 p. 511)
 Repealed by the Liquor Licensing Act 1988 (No. 54 of 1988).
