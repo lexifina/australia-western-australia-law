@@ -1,6 +1,6 @@
 ## Schedule 1 — Court fees
 [r. 105]
-Item | Matter | Judgment not exceeding $10 500 | All other judgments
+Item | Matter | Judgment not exceeding $10 000 | All other judgments
  |  | Fee for individual $ | Fee for person other than an individual $ | Fee for individual $ | Fee for person other than an individual $
 1. | For an application or request under the Act | 60.00 | 89.50 | 97.50 | 147.00
  | Note 1: The fee is payable only once on the first application or request by a judgment creditor or other person entitled to the benefit of the judgment.

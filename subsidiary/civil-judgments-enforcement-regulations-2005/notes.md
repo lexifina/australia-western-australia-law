@@ -12,6 +12,7 @@ Civil Judgments Enforcement Amendment Regulations (No. 2) 2008 | 27 Jun 2008 p. 
 Reprint 1: The Civil Judgments Enforcement Regulations 2005 as at 14 Nov 2008 (includes amendments listed above)
 Civil Judgments Enforcement Amendment Regulations (No. 3) 2008 | 23 Dec 2008 p. 5471 | r. 1 and 2: 23 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Dec 2008 (see r. 2(b))
 Civil Judgments Enforcement Amendment Regulations (No. 5) 2008 | 23 Dec 2008 p. 5472 | r. 1 and 2: 23 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2009 (see r. 2(b))
+Civil Judgments Enforcement Amendment Regulations 2009 | 27 Feb 2009 p. 516-17 | r. 1 and 2: 27 Feb 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2009 (see r. 2(b) and Gazette 27 Feb 2009 p. 511)
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 came into operation on 1 May 2005.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
