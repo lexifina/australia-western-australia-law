@@ -20,10 +20,7 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 7 | 28 of
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Criminal Law and Evidence Amendment Act 2008 s. 63 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Surrogacy Act 2008 Pt. 4 Div. 5 | 47 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(b))
+Surrogacy Act 2008 Pt. 4 Div. 5 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendments to s. 29(3) in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 525(1)(c) are not included because it was unclear where it was intended to be made. Section 525(1)(c) reads as follows:
 “
@@ -39,28 +36,4 @@ Division 13 — Transitional provisions
 CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
 commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
-”.
-On the date as at which this compilation was prepared, the Surrogacy Act 2008 Pt. 4 Div. 5 had not come into operation. It reads as follows:
-“
-Part 4 — Other Acts amended
-Division 5 — Human Reproductive Technology Act 1991 amended
-65.Act amended
-This Division amends the Human Reproductive Technology Act 1991.
-66.Section 18 amended
-After section 18(1)(b) insert:
-(ca) an artificial fertilisation procedure for implementing a surrogacy arrangement as defined in the Surrogacy Act 2008 section 3;
-67.Section 23 amended
-(1) In section 23:
-(a) delete “An” and insert:
-(1) An
-(b) after paragraph (a)(ii) insert:
-(iii) a woman who is unable to give birth to a child due to medical reasons and is a party to a surrogacy arrangement (as defined in the Surrogacy Act 2008 section 3) that is lawful;
-(c) in paragraph (c) delete “the persons seeking to be treated” and insert:
-any persons seeking to be regarded, in applying paragraph (a),
-(d) after each of paragraph (a)(i) and (ii) insert:
-or
-(e) after each of paragraphs (a) to (c) insert:
-and
-(2) At the end of section 23 insert:
-(2) Subsection (1) does not require that the benefit likely to result from the procedure involve the pregnancy of a member of the couple who are, or the woman who is, likely to benefit.
 ”.
