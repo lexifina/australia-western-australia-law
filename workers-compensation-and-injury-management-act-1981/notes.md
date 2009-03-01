@@ -59,13 +59,13 @@ Reprint 7: The Workers’ Compensation and Injury Management Act 1981 as at 3 Fe
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Criminal Law and Evidence Amendment Act 2008 s. 73 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Legal Profession Act 2008 s. 713 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 (as amended by No. 42 of 2004 s. 155) | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Legal Profession Act 2008 s. 713 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The name of the State Government Insurance Commission was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8 (see also note 44.)
 Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia (see also note 44).
 The Workers’ Compensation Legislation Amendment Act 2005 s. 9(2) reads as follows:
@@ -444,33 +444,3 @@ Section 163 | Delete “State Government Insurance Commission”, substitute “
 ”.
 The amendment in the Chiropractors Act 2005 s. 109 relating to s. 176(1b)(d) is not included because the section it sought to amend had been replaced by the Workers’ Compensation Reform Act 2004 s. 130 before the amendment purported to come into operation.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 713 had not come into operation. It reads as follows:
-“
-713.Workers’ Compensation and Injury Management Act 1981 amended
-(1) The amendments in this section are to the Workers’ Compensation and Injury Management Act 1981.
-(2) Section 87(2) is amended by deleting “legal costs determination (as defined in the Legal Practice Act 2003).” and inserting instead —
-“
-costs determination (as defined in the Legal Profession Act 2008 section 252).
-”.
-(3) Section 263 is amended by deleting “Legal Practice Act 2003, and in particular Part 13” and inserting instead —
-“ Legal Profession Act 2008, and in particular Part 10 ”.
-(4) Section 264(3) is amended by deleting “Part 13 Division 3 of the Legal Practice Act 2003” and inserting instead —
-“ the Legal Profession Act 2008 Part 10 Division 8 ”.
-(5) Section 268(2) is amended as follows:
-(a) in paragraph (a) by deleting “Part 13 Division 3 of the Legal Practice Act 2003;” and inserting instead —
-“
-the Legal Profession Act 2008 Part 10 Division 8;
-”;
-(b) in paragraph (b) by deleting “Part 13 Division 3 of the Legal Practice Act 2003” and inserting instead —
-“
-the Legal Profession Act 2008 Part 10 Division 8
-”.
-(6) Section 268(3) is amended by deleting “Legal Practice Act 2003.” and inserting instead —
-“ Legal Profession Act 2008. ”.
-(7) Section 269(1) is amended in the definition of “Legal Costs Committee” by deleting “Legal Practice Act 2003.” and inserting instead —
-“ Legal Profession Act 2008. ”.
-(8) Section 271(2)(b) is amended by deleting “legal costs determination under the Legal Practice Act 2003.” and inserting instead —
-“
-costs determination (as defined in the Legal Profession Act 2008 section 252).
-”.
-”.

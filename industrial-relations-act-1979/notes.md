@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 January 2009 of the Industrial Relations Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Industrial Relations Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Industrial Arbitration Act 1979 | 114 of 1979 | 21 Dec 1979 | 1 Mar 1980 (see s. 2 and Gazette 8 Feb 1980 p. 383)
@@ -72,15 +72,15 @@ Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 |
 Petroleum Amendment Act 2007 s. 97 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Acts Amendment (Justice) Act 2008 Pt. 13 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Police Amendment Act 2008 s. 13 and 23(3) | 8 of 2008 | 31 Mar 2008 | s. 13: 1 Apr 2008 (see s. 2(1)); s. 23(3): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
+Legal Profession Act 2008 s. 668 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-Reprint 12: The Industrial Relations Act 1979 as at 2 Jan 2009 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Reprint 12: The Industrial Relations Act 1979 as at 2 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Vocational Education and Training Act 1996 s. 62 | 42 of 1996 | 16 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
-Legal Profession Act 2008 s. 668 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Training Legislation Amendment and Repeal Act 2008 s. 53 | 44 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 of the Commonwealth.
@@ -147,7 +147,7 @@ under 16 years | 40%
 (2) The minimum weekly rate of pay for an apprentice or trainee in relation to whom a workplace agreement or an employer-employee agreement is in force is the rate of pay that is provided for under an award that would, if the workplace agreement or employer-employee agreement were not in force, apply to that apprentice or trainee.
 ”.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 “
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
@@ -188,7 +188,7 @@ remains of effect until a State Wage order takes effect.
 (4) A date specified under subsection (3)(b) must not be a date that is earlier than the day on which the order is made.
 (5) Despite section 50A(1)(b), the Commission must not adjust rates of wages paid under awards in a State Wage order made in relation to the period ending 30 June 2007 if, during 2006 and before that State Wage order is made, the Commission has made a General Order under section 50 of the Industrial Relations Act 1979 adjusting rates of wages paid under awards generally.
 ”.
-On the date as at which this reprint was prepared, the Vocational Education and Training Act 1996 s. 62, which gives effect to Sch. 2, had not come into operation. Section 62 and Sch. 2 read as follows:
+On the date as at which this compilation was prepared, the Vocational Education and Training Act 1996 s. 62, which gives effect to Sch. 2, had not come into operation. Section 62 and Sch. 2 read as follows:
 “
 62. Consequential amendments and transitional provisions relating to this Part
 Schedule 2 has effect —
@@ -229,7 +229,7 @@ repealed Act means the Industrial Training Act 1975 repealed by section 61.
 (4) Regulations may be made, with effect from a time which is not earlier than the commencement of section 61, amending or supplementing the transitional provisions set out in subclauses (2) and (3) for the purpose of providing an effective and efficient transition from the provisions of the repealed Act to the provisions of this Act.
 ”.
 The amendments to s. 7 by the Vocational Education and Training Act 1996 s. 62, which gives effect to Sch. 2, would conflict with amendments in the Labour Relations Reform Act 2002 s. 178(1), (2), (3) and (4).
-On the date as at which this reprint was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2a) and (4)(a) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2a) and (4)(a) had not come into operation. They read as follows:
 “
 49.Industrial Relations Act 1979 amended
 (2) Section 7(3) is amended as follows:
@@ -237,32 +237,8 @@ On the date as at which this reprint was prepared, the Petroleum Legislation Ame
 (4) Section 113(1)(d)(ii) is amended as follows:
 (a) after item (I) by deleting “and”;
 ”.
-On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 668 had not come into operation. It reads as follows:
-“
-668.Industrial Relations Act 1979 amended
-(1) The amendments in this section are to the Industrial Relations Act 1979.
-(2) Section 7(1) is amended by deleting the definition of “legal practitioner” and inserting instead —
-“
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
-”.
-(3) Section 9(1) is repealed and the following subsections are inserted instead —
-“
-(1) A person is not eligible for appointment as the President unless the person is a lawyer and has had not less than 5 years’ legal experience.
-(1aa) In subsection (1) —
-lawyer means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
-legal experience means —
-(a)standing and practice as a legal practitioner; or
-(b)judicial service (including service as a judge of a court, a magistrate or other judicial officer) in the State or elsewhere in a common law jurisdiction; or
-(c)a combination of both kinds of legal experience mentioned in paragraphs (a) and (b).
-”.
-(4) Section 31(6) is repealed.
-(5) Sections 42B(7), 51Q(4), 97UJ(5) and 112A(3) are amended by deleting “section 123(3)(c) of the Legal Practice Act 2003” in each place where it occurs and inserting instead —
-“
-section 12 of the Legal Profession Act 2008
-”.
-(6) Section 91(3) is repealed.
-”.
-On the date as at which this reprint was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 53 had not come into operation. It reads as follows:
+Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 53 had not come into operation. It reads as follows:
 “
 53.Industrial Relations Act 1979 amended
 (1) This section amends the Industrial Relations Act 1979.
@@ -395,6 +371,8 @@ irregularity7(1)
 judge7(1), 20(12)
 judgment81CB(1), 88(1)
 labour hire agency7(1)
+lawyer9(1aa)
+legal experience9(1aa)
 legal practitioner7(1)
 limited guardian97WS(4)
 MCE Act7(1)

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 February 2009 of the Children’s Court of Western Australia Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Children’s Court of Western Australia Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Children’s Court of Western Australia Act (No. 2) 1988 | 69 of 1988 | 15 Dec 1988 | s. 1 and 2: 15 Dec 1988; Act other than s. 1 and 2: 1 Dec 1989 (see s. 2 and Gazette 24 Nov 1989 p. 4327)
@@ -34,18 +34,18 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 6 | 65 of 2006 | 8 Dec
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Criminal Law and Evidence Amendment Act 2008 s. 57 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Acts Amendment (Justice) Act 2008 Pt. 2 | 5 of 2008 | 31 Mar 2008 | 31 Jul 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
-Reprint 5: The Children’s Court of Western Australia Act 1988 as at 13 Feb 2009 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Legal Profession Act 2008 s. 643 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+Reprint 5: The Children’s Court of Western Australia Act 1988 as at 13 Feb 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Cross-border Justice Act 2008 Pt. 15 Div. 1 | 7 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(b))
 Parental Support and Responsibility Act 2008 s. 43 | 14 of 2008 | 15 Apr 2008 | To be proclaimed (see s. 2)
-Legal Profession Act 2008 s. 643 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 Chapter XXXII of The Criminal Code was repealed by the Acts Amendment (Evidence) Act 1991 s. 12(9).
 Now known as the Children’s Court of Western Australia Act 1988; short title changed (see note under s. 1).
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 “
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
@@ -55,7 +55,7 @@ Act | Provision
 Children’s Court of Western Australia Act 1988 | s. 7(4)
 ...................... | ........
 ”.
-On the date as at which this reprint was prepared, the Cross-border Justice Act 2008, Pt. 15 Div. 1 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Cross-border Justice Act 2008, Pt. 15 Div. 1 had not come into operation. It reads as follows:
 “
 Part 15 — Consequential amendments to other legislation
 Division 1 — Children’s Court of Western Australia Act 1988 amended
@@ -95,7 +95,7 @@ After section 29(4) the following subsection is inserted —
 (5) This section applies in relation to an act or omission by a person outside the State as if it were an act or omission by the person in the State.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Parental Support and Responsibility Act 2008 s. 43 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Parental Support and Responsibility Act 2008 s. 43 had not come into operation. It reads as follows:
 “
 43.Children’s Court of Western Australia Act 1988 amended
 (1) The amendments in this section are to the Children’s Court of Western Australia Act 1988.
@@ -126,25 +126,6 @@ On the date as at which this reprint was prepared, the Parental Support and Resp
 (c) in subsection (2)(b) by inserting before “by the CEO” —
 “ if the person is a child, ”.
 ”.
-On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 643 had not come into operation. It reads as follows:
-“
-643.Children’s Court of Western Australia Act 1988 amended
-(1) The amendments in this section are to the Children’s Court of Western Australia Act 1988.
-(2) Section 3(1) is amended by inserting in the appropriate alphabetical position —
-“
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
-”.
-(3) Section 3(2)(a) and (b) are deleted and the following is inserted instead —
-“
-(a) standing and practice as a legal practitioner; or
-”.
-(4) Section 3(2)(d) is amended by deleting “2 or more” and inserting instead —
-“ both ”.
-(5) Section 7(2) is repealed and the following subsection is inserted instead —
-“
-(2) A person is not eligible for appointment as a judge unless that person is an Australian lawyer, within the meaning of that term in the Legal Profession Act 2008 section 3, and has had not less than 8 years’ legal experience.
-”.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -158,6 +139,7 @@ detention21(1)
 judge3(1)
 judgment39A(1)
 legal experience3(2)
+legal practitioner3(1)
 magistrate3(1)
 prescribed officer33(1)
 President3(1)

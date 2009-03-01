@@ -6,10 +6,7 @@ Law Society Public Purposes Trust Act 1985 | 60 of 1985 | 28 Oct 1985 | 25 Nov 1
 Acts Amendment (Contributions to Legal Aid Funding) Act 1990 Pt. 2 | 86 of 1990 | 17 Dec 1990 | 1 Jul 1989 (see s. 2(1))
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 46 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Reprint 1: The Law Society Public Purposes Trust Act 1985 as at 6 Feb 2004 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Legal Profession Act 2008 s. 673 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Legal Profession Act 2008 s. 673 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Repealed by the Associations Incorporation Act 1987.
 Section 5 expired 30 June 1994. It reads as follows:
 “
@@ -27,17 +24,4 @@ but in all other respects upon the trusts declared by the Trust Deed.
 (3) In this section, Accounting Period, Allocations Committee and Trust Deed have the meanings respectively ascribed to those terms in the Trust Deed.
 (4) This section expires on 30 June 1994.
 [Section 5 inserted by No. 86 of 1990 s. 5.]
-”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 673 had not come into operation. It reads as follows:
-“
-673.Law Society Public Purposes Trust Act 1985 amended
-(1) The amendments in this section are to the Law Society Public Purposes Trust Act 1985.
-(2) Section 2(1) is amended by inserting before the definition of “Law Society” —
-“
-bank means an authorised deposit-taking institution as defined in the Banking Act 1959 of the Commonwealth;
-”.
-(3) Section 2(2) is amended by deleting “Legal Practice Act 2003” and inserting instead —
-“ Legal Profession Act 2008 ”.
-(4) Section 3(1) is amended by deleting “Legal Practice Act 2003” and inserting instead —
-“ Legal Profession Act 2008 ”.
 ”.

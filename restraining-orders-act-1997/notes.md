@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 January 2009 of the Restraining Orders Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Restraining Orders Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Restraining Orders Act 1997 | 19 of 1997 | 28 Aug 1997 | s. 1 and 2: 28 Aug 1997; Act other than s. 1 and 2: 15 Sep 1997 (see s. 2 and Gazette 12 Sep 1997 p. 5149)
@@ -18,24 +18,12 @@ Reprint 2: The Restraining Orders Act 1997 as at 5 May 2006 (includes amendments
 Family Legislation Amendment Act 2006 Pt. 6 Div. 3 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 10 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Acts Amendment (Justice) Act 2008 Pt. 19 | 5 of 2008 | 31 Mar 2008 | 31 Oct 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Legal Profession Act 2008 s. 699 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Criminal Law Amendment (Homicide) Act 2008 s. 37 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-Reprint 3: The Restraining Orders Act 1997 as at 9 Jan 2009 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Legal Profession Act 2008 s. 699 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Reprint 3: The Restraining Orders Act 1997 as at 9 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
 Repealed by Children and Community Services Act 2004 s. 250(1)(a).
 Part 9 contained transitional provisions relating to orders to keep the peace in force under the Justices Act 1902 when this Act came into operation.
 The Courts Legislation Amendment and Repeal Act 2004 s. 123 (the amendment to s. 67(2)) and s. 124 (the amendment to s. 4(a)) were repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(3) and (4).
-On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 699 had not come into operation. It reads as follows:
-“
-699.Restraining Orders Act 1997 amended
-(1) The amendments in this section are to the Restraining Orders Act 1997.
-(2) Section 62(2) is amended by deleting the definition of “legal practitioner” and inserting instead —
-“
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3.
-”.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

@@ -5,46 +5,4 @@ Short title | Number and year | Assent | Commencement
 Magistrates Court (Civil Proceedings) Act 2004 | 48 of 2004 | 12 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7127)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Acts Amendment (Justice) Act 2008 Pt. 16 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Legal Profession Act 2008 s. 678 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 678 had not come into operation. It reads as follows:
-“
-678.Magistrates Court (Civil Proceedings) Act 2004 amended
-(1) The amendments in this section are to the Magistrates Court (Civil Proceedings) Act 2004.
-(2) Section 3(1) is amended as follows:
-(a) in the definition of “applicable costs determination” by deleting “Legal Practice Act 2003 section 210” and inserting instead —
-“ Legal Profession Act 2008 section 275 ”;
-(b) by deleting the definition of “lawyer”;
-(c) by inserting in the appropriate alphabetical position —
-“
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
-”.
-(3) Section 25(8) is amended by deleting “lawyer” and inserting instead —
-“ legal practitioner ”.
-(4) Section 25(10) is amended as follows:
-(a) by deleting “lawyer” in the 6 places where it occurs and inserting instead —
-“ legal practitioner ”;
-(b) by deleting “lawyer’s” in the 3 places where it occurs and inserting instead —
-“ legal practitioner’s ”.
-(5) Section 25(11) is amended by deleting “lawyer” in both places where it occurs and inserting instead —
-“ legal practitioner ”.
-(6) Section 25(12) is amended by deleting “lawyer” and inserting instead —
-“ legal practitioner ”.
-(7) Section 30(1) is amended in the definition of “agent” by deleting “lawyer” and inserting instead —
-“ legal practitioner ”.
-(8) Section 30(3) is amended by deleting “lawyer” and inserting instead —
-“ legal practitioner ”.
-(9) Section 30(4) is amended by deleting “lawyer” in both places where it occurs and inserting instead —
-“ legal practitioner ”.
-(10) Section 30(5) is amended by deleting “lawyer” and inserting instead —
-“ legal practitioner ”.
-(11) Section 30(10) is amended by deleting “lawyer” and inserting instead —
-“ legal practitioner ”.
-(12) Section 44(2) is amended by deleting “lawyer” in both places where it occurs and inserting instead —
-“ legal practitioner ”.
-(13) Section 44(4) is amended by deleting “lawyer” and inserting instead —
-“ legal practitioner ”.
-”.
+Legal Profession Act 2008 s. 678 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)

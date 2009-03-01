@@ -9,11 +9,11 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 117 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 1: The Security and Related Activities (Control) Act 1996 as at 3 Jun 2005 (includes amendments listed above)
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
+Legal Profession Act 2008 s. 703 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Security and Related Activities (Control) Amendment Act 2008 Pt. 2 | 4 of 2008 | 2 Apr 2008 | To be proclaimed (see s. 2(b))
-Legal Profession Act 2008 s. 703 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 62 reads as follows:
 “
@@ -854,13 +854,4 @@ s. 30 | s. 64
 s. 31(1) | s. 78(1)
 s. 32 | s. 79
 s. 33(1)
-”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 703 had not come into operation. It reads as follows:
-“
-703.Security and Related Activities (Control) Act 1996 amended
-(1) The amendments in this section are to the Security and Related Activities (Control) Act 1996.
-(2) Section 28(2)(a) is amended by deleting “certificated practitioner (within the meaning of the Legal Practice Act 2003)” and inserting instead —
-“
-Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3)
-”.
 ”.

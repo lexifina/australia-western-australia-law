@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gas Pipelines Access (Western Australia) Act 1998 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Gas Pipelines Access (Western Australia) Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Gas Pipelines Access (Western Australia) Act 1998 | 65 of 1998 | 15 Jan 1999 | Act other than Sch. 3 Div. 2 Subdiv. 3 and Div. 7 Subdiv. 3: 9 Feb 1999 (see s. 2 and Gazette 8 Feb 1999 p. 441); Sch. 3 Div. 2 Subdiv. 3 and Div. 7 Subdiv. 3: 1 Jan 2000 (see s. 2(1))
@@ -18,10 +18,7 @@ Electricity Corporations Act 2006 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006
 Energy Operators (Powers) Amendment Act 2006 s. 5 | 8 of 2006 | 5 May 2006 | 5 May 2006 (see s. 2)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Legal Profession Act 2008 s. 665 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
+Legal Profession Act 2008 s. 665 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
 The copy of the Code reproduced in Schedule 2 is a copy of the Code in its original form, as agreed by the Council of Australian Governments on 7 November 1997. It does not include subsequent amendments to the Code. Copies of the Code as amended are available from the Code Registrar in accordance with Schedule 1 clause 7.
 Repealed by the Gas Pipelines Access (Western Australia) Act 1998 Sch. 3 cl. 31(1) on approval of Access Arrangement on 18 July 2000.
@@ -83,14 +80,4 @@ The operation of any provision of this Schedule is not to be regarded —
 (c) as giving rise to any remedy by a party to an instrument or as causing or permitting the termination of any instrument, because of a change in the beneficial or legal ownership of any asset, right or liability;
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 665 had not come into operation. It reads as follows:
-“
-665.Gas Pipelines Access (Western Australia) Act 1998 amended
-(1) The amendments in this section are to the Gas Pipelines Access (Western Australia) Act 1998.
-(2) Section 49 is amended by deleting the definition of “legal practitioner” and inserting instead —
-“
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3.
-”.
 ”.

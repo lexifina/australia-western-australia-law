@@ -8,13 +8,13 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Family Legislation Amendment Act 2006 Pt. 6 Div. 1 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 Child Care Services Act 2007 Pt. 7 Div. 1 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 Reprint 1: The Children and Community Services Act 2004 as at 4 Apr 2008 (includes amendments listed above)
+Legal Profession Act 2008 s. 642 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 4-11 | 26 of 2008 | 19 Jun 2008 | 1 Jan 2009 (see s. 2(b) and Gazette 9 Dec 2008 p. 5107)
+Surrogacy Act 2008 Pt. 4 Div. 2 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 Sch. 2 cl. 25 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
-Legal Profession Act 2008 s. 642 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
-Surrogacy Act 2008 Pt. 4 Div. 2 | 47 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 On the date as at which this compilation was prepared, the Children and Community Services Act 2004 Sch. 2 cl. 25 had not come into operation. It reads as follows:
 “
@@ -70,16 +70,4 @@ specified means specified or described in the regulations.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not —
 (a) affect, in a manner prejudicial to any person (other than the State, an authority of the State or a local government), rights that the person had before the regulations were published in the Gazette; or
 (b) impose liabilities on any person (other than the State, an authority of the State or a local government) in respect of anything done or omitted to be done before the regulations were published in the Gazette.
-”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 642 had not come into operation. It reads as follows:
-“
-642.Children and Community Services Act 2004 amended
-(1) The amendments in this section are to the Children and Community Services Act 2004.
-(2) Section 148(1) is repealed and the following subsection is inserted instead —
-“
-(1) In this section —
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3.
-”.
-(3) Section 148(2) and (4) are amended by deleting “lawyer” in each place where it occurs and inserting instead —
-“ legal practitioner ”.
 ”.

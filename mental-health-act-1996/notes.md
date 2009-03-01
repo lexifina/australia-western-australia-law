@@ -17,11 +17,8 @@ Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | 1 Aug 2007 
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 9 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Reprint 2: The Mental Health Act 1996 as at 12 Jan 2007 (includes amendments listed above except those in the Occupational Therapists Act 2005 and the Nurses and Midwives Act 2006)
+Legal Profession Act 2008 s. 680 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Legal Profession Act 2008 s. 680 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Mental Health (Consequential Provisions) Act 1996 Pt. 12 Div. 2 (s. 53-72 inclusive) reads as follows:
 “
 Division 2 — Transitional
@@ -180,40 +177,4 @@ Division 13 — Transitional provisions
 CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
 commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
-”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 680 had not come into operation. It reads as follows:
-“
-680.Mental Health Act 1996 amended
-(1) The amendments in this section are to the Mental Health Act 1996.
-(2) Section 3 is amended as follows:
-(a) by deleting the definition of “legal practitioner” and inserting instead —
-“
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
-”;
-(b) by inserting in the appropriate alphabetical position —
-“
-lawyer means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
-”.
-(3) Section 126(2) is amended as follows:
-(a) in paragraph (b) by deleting “legal practitioner” and inserting instead —
-“ lawyer ”;
-(b) in paragraph (c) by deleting “legal practitioner.” and inserting instead —
-“ lawyer. ”.
-(4) Section 129(5) is amended as follows:
-(a) in paragraph (a) by deleting “legal practitioner;” and inserting instead —
-“ lawyer; ”;
-(b) in paragraph (c) by deleting “legal practitioner” and inserting instead —
-“ lawyer ”.
-(5) Section 130(4)(b) is amended as follows:
-(a) in subparagraph (i) by deleting “legal practitioner;” and inserting instead —
-“ lawyer; ”;
-(b) in subparagraph (iii) by deleting “legal practitioner” and inserting instead —
-“ lawyer ”.
-(6) Section 132(1) is amended as follows:
-(a) in paragraph (b) by deleting “legal practitioner” and inserting instead —
-“ lawyer ”;
-(b) in paragraph (c) by deleting “legal practitioner” in both places where it occurs and inserting instead —
-“ lawyer ”.
-(7) Schedule 2 clause 3(3) is amended by deleting “certificated practitioner (within the meaning of the Legal Practice Act 2003)” and inserting instead —
-“ legal practitioner ”.
 ”.

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 September 2008 of the Builders’ Registration Act 1939 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Builders’ Registration Act 1939 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Builders’ Registration Act 1939 | 29 of 1939 (3 and 4 Geo. VI No. 29) | 16 Dec 1939 | 1 May 1940 (see s. 1 and Gazette 26 Apr 1940 p. 597)
@@ -64,14 +64,14 @@ Land Information Authority Act 2006 s. 119 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 2 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 14 | 11 of 2007 | 29 Jun 2007 | 1 Jul 2008 (see s. 2 and Gazette 6 Jun 2008 p. 2179)
 Reprint 12: The Builders’ Registration Act 1939 as at 12 Sep 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Legal Profession Act 2008 s. 641 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Legal Profession Act 2008 s. 641 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Repealed by the Architects Act 2004.
-In this reprint the renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
+In this compilation the renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
 Land Titles Office diagrams and plans are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 The Builders’ Registration Amendment Act 1986 s. 11(2) is a transitional provision that is of no further effect.
 The Builders’ Registration Amendment Act 1990 s. 16(2) and (3) are transitional provisions that are of no further effect.
@@ -86,30 +86,9 @@ A reference in any written law to the Building Disputes Committee constituted un
 ”.
 The Building Legislation Amendment Act 2000 s. 60 is a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) had not come into operation. It reads as follows:
 “
 (2) Section 5AA(2)(a) of the Builders’ Registration Act 1939 is amended by deleting “, including rights under the Superannuation and Family Benefits Act 1938,”.
-”.
-On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 641 had not come into operation. It reads as follows:
-“
-641.Builders’ Registration Act 1939 amended
-(1) The amendments in this section are to the Builders’ Registration Act 1939.
-(2) Section 2 is amended as follows:
-(a) by deleting the definition of “legal practitioner” and inserting instead —
-“
-lawyer means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
-”;
-(b) by inserting in the appropriate alphabetical position —
-“
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
-”.
-(3) Sections 5A(2), 5B(3), 5C(1a)(a) and 27(2) are amended by deleting “legal practitioner” in each place where it occurs and inserting instead —
-“ lawyer ”.
-(4) Section 45A is amended as follows:
-(a) in subsection (4)(a) by deleting “a certificated practitioner (within the meaning of the Legal Practice Act 2003);” and inserting instead —
-“ a legal practitioner; ”;
-(b) in subsection (5) by deleting “legal practitioner, an articled clerk (as defined in the Legal Practice Act 2003),” and inserting instead —
-“ lawyer ”.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -128,6 +107,7 @@ districtSch. it. 6
 document23D(4)
 farm building2
 information23D(4)
+lawyer2
 legal practitioner2
 legally qualified person45A(5)
 Minister2

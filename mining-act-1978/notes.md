@@ -64,6 +64,7 @@ Mining Amendment Act 2005 | 27 of 2005 | 12 Dec 2005 | 10 Feb 2006 (see s. 2 and
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 6: The Mining Act 1978 as at 10 Apr 2006 (includes amendments listed above except those in the Mining Legislation Amendment and Validation Act 2008 Pt. 2)
 Petroleum Amendment Act 2007 s. 100 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
+Legal Profession Act 2008 s. 681 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Revenue Laws Amendment Act (No. 2) 2008 Pt. 2 Div. 2 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -71,7 +72,6 @@ Short title | Number and year | Assent | Commencement
 Mining Amendment Act 1996 s. 9 | 54 of 1996 | 11 Nov 1996 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999, s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
-Legal Profession Act 2008 s. 681 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in a written law to the Department of Mines is, unless the contrary is intended, to be read and construed as a reference to the Department of Industry and Resources.
@@ -462,13 +462,4 @@ If —
 (a) an application has been made for a miscellaneous licence for a purpose approved or specified by the Director General of Mines; and
 (b) the application has not been determined before the day on which this section comes into operation,
 the application is to be dealt with and determined as if, on and from the time the application was made, the purpose so approved or specified were prescribed for the purposes of the Mining Act 1978 section 91(1).
-”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 681 had not come into operation. It reads as follows:
-“
-681.Mining Act 1978 amended
-(1) The amendments in this section are to the Mining Act 1978.
-(2) Section 162(2)(r) is amended by deleting “by legal costs determination (as defined in the Legal Practice Act 2003)” and inserting instead —
-“
-by a costs determination (as defined in the Legal Profession Act 2008 section 252)
-”.
 ”.

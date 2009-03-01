@@ -24,11 +24,11 @@ Reprint 3: The Finance Brokers Control Act 1975 as at 5 Aug 2005 (includes amend
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Reprint 4: The Finance Brokers Control Act 1975 as at 13 Oct 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Legal Profession Act 2008 s. 664 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 27 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
-Legal Profession Act 2008 s. 664 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The appointed day is 1 August 1977; see Gazette 17 June 1977 p. 1834.
 The Business Licensing Amendment Act 1995 s. 24 is a transitional provision that is of no further effect.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
@@ -115,13 +115,4 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 27.Finance Brokers Control Act 1975 amended
 (1) The amendment in this section is to the Finance Brokers Control Act 1975.
 (2) Section 5(1)(c) is deleted.
-”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 664 had not come into operation. It reads as follows:
-“
-664.Finance Brokers Control Act 1975 amended
-(1) The amendments in this section are to the Finance Brokers Control Act 1975.
-(2) Section 5(1)(f) is deleted and the following paragraph is inserted instead —
-“
-(f) Australian legal practitioners (within the meaning of that term in the Legal Profession Act 2008 section 3) when acting incidentally to the practice of their profession as such;
-”.
 ”.

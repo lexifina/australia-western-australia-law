@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 23 January 2009 of the Evidence Act 1906 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Evidence Act 1906 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Evidence Act 1906 | 28 of 1906 (6 Edw. VII No. 28) | 14 Dec 1906 | 14 Dec 1906
@@ -95,14 +95,14 @@ Reprint 14: The Evidence Act 1906 as at 8 Feb 2008 (includes amendments listed a
 Criminal Law and Evidence Amendment Act 2008 Pt. 5 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Acts Amendment (Justice) Act 2008 Pt. 11 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Legal Profession Act 2008 s. 662 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 12 | 26 of 2008 | 19 Jun 2008 | 1 Jan 2009 (see s. 2(b) and Gazette 9 Dec 2008 p. 5107)
 Criminal Law Amendment (Homicide) Act 2008 s. 33 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-Reprint 15: The Evidence Act 1906 as at 23 Jan 2009 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Reprint 15: The Evidence Act 1906 as at 23 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 31 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Legal Profession Act 2008 s. 662 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 “
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
@@ -180,7 +180,7 @@ fee regulations means regulations 6(2) and 13 of the Evidence (Witnesses’ and 
 ”.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to s. 56(1) is not included because that subsection was replaced by s. 82 (Sch. 2 it. 118) of the same Act.
 The amendment in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 36 to s. 106A is not included because the paragraph it sought to amend had been amended by the Children and Community Services Act 2004 Sch. 2 cl. 9.
-On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 31 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 31 had not come into operation. It reads as follows:
 “
 31.Evidence Act 1906 amended
 (1) The amendments in this section are to the Evidence Act 1906.
@@ -203,15 +203,6 @@ On the date as at which this reprint was prepared, the Prostitution Amendment Ac
 20 | Commercial sexual act at place where child present
 21 | Allowing child to be at place involving commercial sexual act or certain sexual service businesses
 21A | Obligations of those who operate sexual service business in relation to children
-”.
-”.
-On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 662 had not come into operation. It reads as follows:
-“
-662.Evidence Act 1906 amended
-(1) The amendments in this section are to the Evidence Act 1906.
-(2) Section 122 is amended by deleting “Despite section 123 of the Legal Practice Act 2003 a person who is entitled to practise as a legal practitioner in a participating jurisdiction is entitled to practise as a barrister, solicitor or both — ” and inserting instead —
-“
-A person who is entitled to practise as an Australian legal practitioner (within the meaning of that term in the Legal Profession Act 2008 section 3) in a participating jurisdiction is entitled to practise as an Australian legal practitioner —
 ”.
 ”.
 Defined Terms

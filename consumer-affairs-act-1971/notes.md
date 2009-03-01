@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 October 2008 of the Consumer Affairs Act 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Consumer Affairs Act 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Consumer Protection Act 1971 | 68 of 1971 | 22 Dec 1971 | 11 Aug 1972 (see s. 2 and Gazette 11 Aug 1972 p. 3102)
@@ -41,12 +41,12 @@ Reprint 5: The Consumer Affairs Act 1971 as at 16 Jun 2006 (includes amendments 
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 7 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 3 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 6: The Consumer Affairs Act 1971 as at 24 Oct 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Legal Profession Act 2008 s. 651 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+Reprint 6: The Consumer Affairs Act 1971 as at 24 Oct 2008 (includes amendments listed above except those in the Legal Profession Act 2008)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-Legal Profession Act 2008 s. 651 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Legal Practitioners Amendment (Disciplinary and Miscellaneous Provisions) Act 1992 Pt. 2 came into operation on 1 Feb 1993 (see s. 3(a) and Gazette 26 Jan 1993 p. 823).
 Repealed by the Acts Amendment and Repeal (Fair Trading) Act 1988.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -103,7 +103,7 @@ commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 had not come into operation. They read as follows:
 “
 23.Consumer Affairs Act 1971 amended
 (1) The amendment in this section is to the Consumer Affairs Act 1971.
@@ -127,15 +127,6 @@ On the date as at which this reprint was prepared, the Biosecurity and Agricultu
 (1) The amendment in this section is to the Consumer Affairs Act 1971.
 (2) The Schedule is amended by inserting in the appropriate alphabetical position —
 “ Biosecurity and Agriculture Management Act 2007. ”.
-”.
-On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 651 had not come into operation. It reads as follows:
-“
-651.Consumer Affairs Act 1971 amended
-(1) The amendments in this section are to the Consumer Affairs Act 1971.
-(2) Section 4(2b) is repealed and the following subsection is inserted instead —
-“
-(2b) The definition of “services” shall be taken not to include legal services as defined in the Legal Profession Act 2008.
-”.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

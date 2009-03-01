@@ -18,53 +18,12 @@ Reprint 1: The Civil Liability Act 2002 as at 10 Feb 2006 (includes amendments l
 Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | 1 Jul 2007 (see s. 2 and Gazette 26 Jun 2007 p. 3013)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Reprint 2: The Civil Liability Act 2002 as at 5 Oct 2007 (includes amendments listed above)
+Legal Profession Act 2008 s. 646 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Legal Profession Act 2008 s. 646 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 3 | 25 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 646 had not come into operation. It reads as follows:
-“
-646.Civil Liability Act 2002 amended
-(1) The amendments in this section are to the Civil Liability Act 2002.
-(2) Section 16 is amended as follows:
-(a) by deleting the definition of “legal practitioner” and inserting instead —
-“
-legal practitioner means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
-”;
-(b) by inserting in the appropriate alphabetical position —
-“
-law practice has the meaning given in the Legal Profession Act 2008;
-”.
-(3) Section 17(1)(b) is amended by deleting “named firm of legal practitioners” and inserting instead —
-“ named law practice ”.
-(4) Section 17(2)(a)(i) is amended by deleting “within the meaning of the Legal Practice Act 2003;” and inserting instead —
-“
-as defined in the Legal Profession Act 2008 section 252;
-”.
-(5) Section 18(1) is amended as follows:
-(a) by deleting “a firm of legal practitioners” and inserting instead —
-“ a law practice ”;
-(b) by deleting “legal practitioner or firm” in both places where it occurs and inserting instead —
-“ legal practitioner or law practice ”.
-(6) Section 19(4) is amended as follows:
-(a) in paragraph (a) by deleting “firm of legal practitioners” and inserting instead —
-“ law practice ”;
-(b) in paragraph (b) by deleting “firm.” and inserting instead —
-“ law practice. ”.
-(7) Section 19(5) is amended as follows:
-(a) in paragraph (a) by deleting “firms” and inserting instead —
-“ law practices ”;
-(b) in paragraph (b) by deleting “firm of legal practitioners.” and inserting instead —
-“ law practice. ”.
-(8) Section 19(6) is amended as follows:
-(a) by deleting “firms” and inserting instead —
-“ law practices ”;
-(b) by deleting “firm” and inserting instead —
-“ law practice ”.
-”.
-Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 3 had not come into operation. It reads as follows:
 “
 Part 3 — Civil Liability Act 2002 amended

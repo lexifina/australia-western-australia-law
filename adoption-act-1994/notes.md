@@ -21,12 +21,9 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 79 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Reprint 3: The Adoption Act 1994 as at 12 May 2006 (includes amendments listed above)
+Legal Profession Act 2008 s. 638 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Criminal Law Amendment (Homicide) Act 2008 s. 23 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Legal Profession Act 2008 s. 638 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The day fixed under s. 2(1) of the Adoption Amendment Act (No. 2) 2003 is 1 June 2003: see Gazette 20 May 2003 p. 1783.
 Repealed by the Births, Deaths and Marriages Registration Act 1998.
 The Adoption Amendment Act (No. 2) 2003 s. 7(3) is a transitional provision that is of no further effect.
@@ -44,19 +41,3 @@ has no effect on and from the day on which subsection (1) comes into operation.
 ”.
 The amendment in the Children and Community Services Act 2004 Sch. 2 cl. 2(9) to s. 107(d) is not included because the provision it sought to amend was replaced by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 12 before the amendment purported to come into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 638 had not come into operation. It reads as follows:
-“
-638.Adoption Act 1994 amended
-(1) The amendments in this section are to the Adoption Act 1994.
-(2) Section 4(1) is amended as follows:
-(a) by deleting the definition of “lawyer” and inserting instead —
-“
-“lawyer” means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
-”;
-(b) by inserting in the appropriate alphabetical position —
-“
-“legal practitioner” means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
-”.
-(3) Section 133(1) and section 134(2), (3) and (5) are amended by deleting “lawyer” in each place where it occurs and inserting instead —
-“ legal practitioner ”.
-”.

@@ -34,11 +34,11 @@ Criminal Investigation (Consequential Provisions) Act 2006 Pt. 10 | 59 of 2006 |
 Liquor and Gaming Legislation Amendment Act 2006 Pt. 2 | 73 of 2006 | 13 Dec 2006 | s. 6(1)(b) and (u), 67, 68 and 107: 17 Dec 2006 (see s. 2(2) and Gazette 15 Dec 2006 p. 5661); s. 3-5, 6(1)(a), (c)-(t), (v)-(z), (2)-(4), 7-26, 28-66, 69-77, 79-82, 84-106 and 108-111: 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893) s. 78 and 83: 1 Aug 2007 (see s. 2(2) and Gazette 20 Jul 2007 p. 3629); s. 27: 14 Jun 2008 (see s. 2(2) and Gazette 13 Jun 2008 p. 2515)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 5: The Liquor Control Act 1988 as at 3 Jul 2007 (includes amendments listed above except those in the Liquor and Gaming Legislation Amendment Act 2006 s. 78 and 83)
+Legal Profession Act 2008 s. 675 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
  | Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
- | Legal Profession Act 2008 s. 675 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
  | Food Act 2008 s. 148 | 43 of 2008 | 8 Jul 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Acts 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
@@ -58,19 +58,7 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 (7) An application shall not be granted where the licensing authority is satisfied that the premises to which the application relates are premises at or from which a sexual service business within the meaning of the Sexual Services Act 2000 section 3 operates.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 675 had not come into operation. It reads as follows:
-“
-675.Liquor Control Act 1988 amended
-(1) The amendments in this section are to the Liquor Control Act 1988.
-(2) Section 3(1) is amended as follows:
-(a) by deleting the definition of “legal practitioner”;
-(b) by inserting in the appropriate alphabetical position —
-“
-lawyer means an Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3;
-”.
-(3) Sections 9B(4), 9M(2), 25(2d), 28(4a)(a) and 95(7a) are amended by deleting “legal practitioner” in each place where it occurs and inserting instead —
-“ lawyer ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Food Act 2008 s. 148 had not come into operation. It reads as follows:
 “
 148.Liquor Control Act 1988 amended

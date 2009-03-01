@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 November 2008 of the District Court of Western Australia Act 1969 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the District Court of Western Australia Act 1969 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 District Court of Western Australia Act 1969 | 84 of 1969 | 17 Nov 1969 | 1 Apr 1970 (see s. 2 and Gazette 26 Mar 1970 p. 903)
@@ -51,13 +51,13 @@ Reprint 7: The District Court of Western Australia Act 1969 as at 19 Aug 2005 (i
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 5 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 6 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Legal Profession Act 2008 s. 660 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Criminal Law Amendment (Homicide) Act 2008 s. 31 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-Reprint 8: The District Court of Western Australia Act 1969 as at 7 Nov 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Reprint 8: The District Court of Western Australia Act 1969 as at 7 Nov 2008 (includes amendments listed above except those in the Legal Profession Act 2008)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Legal Profession Act 2008 s. 660 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
@@ -130,7 +130,7 @@ The Limitation Legislation Amendment and Repeal Act 2005 s. 10(2) reads as follo
 10.Section 37 amended and a savings provision
 (2) The District Court of Western Australia Act 1969 section 37, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
 ”.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 “
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
@@ -140,49 +140,11 @@ Act | Provision
 District Court of Western Australia Act 1969 | s. 15
 ........................................................... | .........
 ”.
-On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 660 had not come into operation. It reads as follows:
-“
-660.District Court of Western Australia Act 1969 amended
-(1) The amendments in this section are to the District Court of Western Australia Act 1969.
-(2) Section 6(1) is amended as follows:
-(a) by deleting the definition of “legal practitioner” and inserting instead —
-“
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
-”;
-(b) by inserting in the appropriate alphabetical position —
-“
-Australian lawyer has the meaning given in the Legal Profession Act 2008;
-”.
-(3) Section 6(2) is amended as follows:
-(a) by deleting paragraphs (a) and (b) and inserting instead —
-“
-(a) standing and practice as a legal practitioner; or
-”;
-(b) in paragraph (d) by deleting “2 or more” and inserting instead —
-“ both ”.
-(4) Section 10(2) is repealed and the following subsection is inserted instead —
-“
-(2) A person is eligible for appointment as a District Court judge if that person is an Australian lawyer and has had not less than 8 years’ legal experience.
-”.
-(5) Section 39(1) is amended by deleting “certificated practitioner (within the meaning of the Legal Practice Act 2003)” and inserting instead —
-“ legal practitioner ”.
-(6) Section 64(1) is amended by deleting “legal costs determination (as defined in the Legal Practice Act 2003)” and inserting instead —
-“
-costs determination (as defined in the Legal Profession Act 2008 section 252)
-”.
-(7) Section 66 is amended by deleting “legal costs determination (as defined in the Legal Practice Act 2003)” and inserting instead —
-“
-costs determination (as defined in the Legal Profession Act 2008 section 252)
-”.
-(8) Section 88(2)(b) is amended by deleting “legal costs determination (as defined in the Legal Practice Act 2003)” and inserting instead —
-“
-costs determination (as defined in the Legal Profession Act 2008 section 252)
-”.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 action6(1)
+Australian lawyer6(1)
 auxiliary District Court judge6(1)
 cause6(1)
 defendant6(1)

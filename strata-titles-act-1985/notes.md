@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 25 July 2008 of the Strata Titles Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Strata Titles Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Strata Titles Act 1985 | 33 of 1985 | 6 May 1985 | s. 1 and 2: 6 May 1985; Act other than s. 1 and 2: 30 Jun 1985 (see s. 2 and Gazette 21 Jun 1985 p. 2188)
@@ -39,12 +39,12 @@ Reprint 5: The Strata Titles Act 1985 as at 20 May 2005 (includes amendments lis
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Land Information Authority Act 2006 s. 160 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
-Reprint 6: The Strata Titles Act 1985 as at 25 Jul 2008 (includes amendments listed above)
+Legal Profession Act 2008 s. 707 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+Reprint 6: The Strata Titles Act 1985 as at 25 Jul 2008 (includes amendments listed above except those in the Legal Profession Act 2008)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Legal Profession Act 2008 s. 707 | 21 of 2008 | 27 May 2008 | To be proclaimed (see s. 2(b))
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 “
 (5) A plan registered under the principal Act before the provision inserted by subsection (3) came into operation is declared to be, and to have always been, valid if it would have been valid at the time of registration had that provision been then in operation.
@@ -135,21 +135,12 @@ on the commencement day the application is to be taken to be an application by a
 (d) any person who, by the order, is required to do or to refrain from doing a specified act.
 ”.
 The amendment in the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2 cl. 63(9), to amend s. 25B(3) is not included because the subsection it sought to amend had been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1116.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 had not come into operation. It reads as follows:
 “
 67.Strata Titles Act 1985 amended
 Section 73(1)(g)(i) of the Strata Titles Act 1985 is amended by deleting “, and in particular his rights, if any, under the Superannuation and Family Benefits Act 1938.”.
 ”.
 The section that it seeks to amend has been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125.
-On the date as at which this reprint was prepared, the Legal Profession Act 2008 s. 707 had not come into operation. It reads as follows:
-“
-707.Strata Titles Act 1985 amended
-(1) The amendments in this section are to the Strata Titles Act 1985.
-(2) Section 129B(1) is amended by deleting “a legal practitioner (as defined in the Legal Practice Act 2003) or a barrister or solicitor of the Supreme Court of another State or a Territory.” and inserting instead —
-“
-an Australian lawyer (within the meaning of that term in the Legal Profession Act 2008 section 3).
-”.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

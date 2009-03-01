@@ -4,32 +4,5 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Investigation Act 2006 | 58 of 2006 | 16 Nov 2006 | s. 1 and 2: 16 Nov 2006; Act other than s. 1, 2 & 113: 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2837); s. 113: 26 Jul 2008 (see s. 2 and Gazette 25 Jul 2008 p. 3391)
 Acts Amendment (Justice) Act 2008 | 5 of 2008 | 31 Mar 2008 | s. 35-38: 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253) s. 39: 26 Jul 2008 (see s. 2(c) and Gazette 25 Jul 2008 p. 3391)
+Legal Profession Act 2008 s. 656 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Legal Profession Act 2008 s. 656 | 21 of 2008 | 12 Mar 2008 | To be proclaimed (see s. 2(b))
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Legal Profession Act 2008 s. 656 had not come into operation. It reads as follows:
-“
-656.Criminal Investigation Act 2006 amended
-(1) The amendments in this section are to the Criminal Investigation Act 2006.
-(2) Section 3(1) is amended as follows:
-(a) by deleting the definition of “lawyer”;
-(b) by inserting in the appropriate alphabetical position the following definition —
-“
-legal practitioner means an Australian legal practitioner within the meaning of that term in the Legal Profession Act 2008 section 3;
-”.
-(3) Section 117(1) is amended by deleting “lawyer” and inserting instead —
-“ legal practitioner ”.
-(4) Section 120(1) is amended in paragraph (d) of the definition of “authorised person” by deleting “lawyer” and inserting instead —
-“ legal practitioner ”.
-(5) Section 120(2)(b) is amended by deleting “lawyer” and inserting instead —
-“ legal practitioner ”.
-(6) Section 120(5)(b) is amended by deleting “lawyer” and inserting instead —
-“ legal practitioner ”.
-(7) Section 124(1) is amended in paragraph (c) of the definition of “prescribed person” by deleting “lawyer” in both places where it occurs and inserting instead —
-“ legal practitioner ”.
-(8) Section 138(2)(c) is amended by deleting “lawyer” and inserting instead —
-“ legal practitioner ”.
-”.
