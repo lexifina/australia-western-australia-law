@@ -2,7 +2,7 @@ Notes
 This is a compilation of the Taxation Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Taxation Administration Act 2003 | 1 of 2003 | 20 Mar 2003 | s. 1 and 2: 20 Mar 2003; Act other than s. 1, 2, 34(2)(c), (4) and (5), 41(2) and (4), 47(8), 48, 56(3), 57(3), 59 and 127 and the definition of “non-reviewable decision” in the Glossary: 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383); s. 127: 2 Jan 2004 (see s. 2 and Gazette 19 Dec 2003 p. 5137)
+Taxation Administration Act 2003 | 1 of 2003 | 20 Mar 2003 | s. 1 and 2: 20 Mar 2003; Act other than s. 1, 2, 34(2)(c), (4) and (5), 41(2) and (4), 47(8), 48, 56(3), 57(3), 59 and 127 and the definition of “non-reviewable decision” in the Glossary: 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383); s. 127: 2 Jan 2004 (see s. 2 and Gazette 19 Dec 2003 p. 5137); s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59: 2 Mar 2009 (see s. 2 and Gazette 24 Feb 2009 p. 385)
 Business Tax Review (Assessment) Act (No. 2) 2003 s. 95, 100 and 108 | 66 of 2003 | 5 Dec 2003 | s. 108: 1 Jul 2003 (see s. 2(5) and Gazette 27 Jun 2003 p. 2383); s. 95(1)-(4) and (5)(a): 1 Jan 2004 (see s. 2(1) and (2) and Gazette 30 Dec 2003 p. 5721); s. 100: 1 Jul 2004 (see s. 2(3)); s. 95(5)(b): 1 Jul 2004 (see s. 2(1) and (2) and Gazette 21 May 2004 p. 1711)
 Revenue Laws Amendment and Repeal Act 2004 Pt. 4 | 12 of 2004 | 29 Jun 2004 | 29 Jun 2004 (see s. 2(1))
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 124 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
@@ -21,32 +21,9 @@ Reprint 3: The Taxation Administration Act 2003 as at 22 Aug 2008 (includes amen
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Taxation Administration Act 2003 s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59 | 1 of 2003 (as amended by No. 55 of 2004 and No. 31 of 2008 s. 24) | 20 Mar 2003 | To be proclaimed (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 94 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
-On the date as at which this compilation was prepared, the Taxation Administration Act 2003 s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59 (as amended by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004) had not come into operation. They read as follows:
-“
-34.Right to object
-(2)...
-(c) a directly reviewable decision;
-(4) Where a decision of the Commissioner is by any of the taxation Acts declared to be directly reviewable a taxpayer may, within 60 days of being notified of the decision, apply to the State Administrative Tribunal for a review of the decision.
-[Section 34 amended by No. 55 of 2004 s. 1171; No. 31 of 2008 s. 24.]
-47.Arrangements for instalments and extensions of time
-(8) A decision of the Commissioner under this section in connection with extending time for payment of tax or approving payment of tax in instalments is directly reviewable.
-[Section 47 amended by No. 55 of 2004 s. 1179.]
-48.No action to compel approval of tax payment arrangement
-No action can be brought in a court to compel the Commissioner to approve a tax payment arrangement.
-56.Waiver of tax
-(3) A decision by the Commissioner to waive tax, or not to waive tax, is directly reviewable.
-[Section 56 amended by No. 55 of 2004 s. 1180.]
-57.Writing off tax liability
-(3) A decision by the Commissioner to write off a liability, or not to write off a liability, is directly reviewable.
-[Section 57 amended by No. 55 of 2004 s. 1181.]
-59.No action to compel waiver or writing off
-(1) No action can be brought in a court to compel the Commissioner to waive payment of tax or to write off a tax liability.
-(2) Subsection (1) does not prevent an appeal from a decision of the State Administrative Tribunal.
-[Section 59 amended by No. 55 of 2004 s. 1182.]
-”.
+Footnote no longer applicable.
 The amendment to s. 114(3)(f) in the Workers’ Compensation Reform Act 2004 s. 174 is not included because the paragraph it seeks to amend was deleted by the Business Tax Review (Assessment) Act (No. 2) 2003 s. 100.
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 7 Div. 1 of those regulations read as follows:
 “
@@ -263,7 +240,7 @@ Section 125(2) is modified by inserting after “State” —
 ”.
 ”.
 Section 34(5) of this Act had not come into operation when it was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1171(3).
-Section 41 of this Act was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1175.
+Section 41(2) and (4) of this Act had not come into operation when it was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1175.
 The definition of “non reviewable decision” in the Glossary of this Act had not come into operation when it was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1183.
 The Business Tax Review (Assessment) Act (No. 2) 2003 s. 100(3) reads as follows:
 “
