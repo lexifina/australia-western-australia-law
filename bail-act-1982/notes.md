@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Bail Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 March 2009 of the Bail Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Bail Act 1982 | 86 of 1982 | 18 Nov 1982 | 6 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
@@ -49,26 +49,20 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 5 | 65 of 2006 | 8 Dec
 Reprint 6: The Bail Act 1982 as at 14 Sep 2007 (includes amendments listed above)
 Criminal Law and Evidence Amendment Act 2008 s. 56 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Bail Amendment Act 2008 Pt. 2 | 6 of 2008 | 31 Mar 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Medical Practitioners Act 2008 Sch. 3 cl. 4 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Criminal Law Amendment (Homicide) Act 2008 s. 24 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 7: The Bail Act 1982 as at 6 Mar 2009 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
+Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 25. The Act was then repealed by the Criminal Procedure and Appeal (Consequential and Other Provisions) Act 2004.
 The amendment in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 had not come into operation when it was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Bail Amendment Act 1984 s. 10 and 11 were repealed by the Bail Amendment Act 1988 s. 20.
-The Bail Act 1982 was not in operation at the time when the reprint was compiled, but the reprinting was authorised by s. 21 of the Bail Amendment Act 1988.
+The Bail Act 1982 was not in operation at the time when the reprint was compiled, but the reprinting was authorised by the Bail Amendment Act 1988 s. 21.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a transitional provision that is of no further effect.
-The Criminal Procedure Amendment Act 1993 s. 13 reads as follows:
-“
-13.Transitional
-(1) The amendments to the principal Act effected by a provision of this Part apply in relation to —
-(a) a child arrested for any offence; and
-(b) a person, other than a child, arrested for a serious offence,
-on or after the day on which that provision comes into operation.
-(2) In subsection (1) “child” and “serious offence” have the same meanings as in the principal Act.
-”.
+The Criminal Procedure Amendment Act 1993 s. 13 is a transitional provision that is of no further effect.
 The Bail Amendment Act 1998 s. 6(2) is a transitional provision that is of no further effect.
 The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 97 reads as follows:
 “
@@ -76,40 +70,6 @@ The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 97 reads a
 If in a written law or other document or instrument there is a reference to the Crown Solicitor that reference may, where the context so requires, be read as if it had been amended to be a reference to the State Solicitor.
 ”.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 141 (amending Sch. 1 Pt. A cl. 4) is not included because the clause it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 28(4) before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 had not come into operation. It reads as follows:
-“
-Part 3 — Attorney General, and Justice
-Division 1 — Bail Act 1982
-30.The Act amended
-The amendments in this Division are to the Bail Act 1982.
-31.Section 3 amended
-(1) Section 3(1) is amended as follows:
-(a) by inserting the following definitions in the appropriate alphabetical positions —
-“
-CEO means the chief executive officer of the Department;
-Department means the department of the Public Service principally assisting in the administration of this Act;
-”;
-(b) in the definition of “authorised community services officer” in paragraph (a) by deleting “(Justice)” in both places where it occurs;
-(c) by deleting the definition of “CEO (Justice)”.
-(2) Section 3(5) is amended by deleting “department of which he is the chief executive officer” and inserting instead —
-“ Department ”.
-32.Section 66A amended
-Section 66A(2) is amended by deleting “department of which the CEO (Justice) is the chief executive officer” and inserting instead —
-“ Department ”.
-33.Various references to CEO (Justice) changed to CEO
-Each provision listed in the Table to this section is amended by deleting “CEO (Justice)” in each place where it occurs and inserting instead —
-“ CEO ”.
-Table
-s. 3(5) | s. 50E
-s. 24A(4) | s. 50F(1), (3), (4) and (5)
-s. 27A | s. 50H
-s. 50A | s. 50J
-s. 50C(4)(a) and (b) | s. 50L(1)
-s. 50D(1)(a) | Sch. 1 Part D cl. 3(3)(e)
-Note:The headings to sections 27A, 50A, 50E, 50F and 50J will be altered by deleting “(Justice)”.
-”.
-The amendments to the Bail Act 1982 in the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 cl. 31(1)(b) and (c), cl. 32 and 33 would conflict with amendments by the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 5.
-Footnote no longer applicable.
 The Bail Amendment Act 2008 s. 6(2), 9(4)-(11), 10(2), 11(3), 15(5)-(8), 16(2), 18(4)-(5), 21(3), 22(2), 23(4), 24(6)-(7), 27(2)-(3), 28(6), 30(4)-(5), 31(2)-(3), 32(3)-(4), 33(6), 40(2), 41(5)-(9), 42(3) and 44 read as follows:
 “
 6.Section 4A inserted and transitional provision
@@ -195,3 +155,95 @@ specified means specified or described in the transitional regulations.
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
 ”.
+On the date as at which this reprint was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 had not come into operation. It reads as follows:
+“
+Part 3 — Attorney General, and Justice
+Division 1 — Bail Act 1982
+30.The Act amended
+The amendments in this Division are to the Bail Act 1982.
+31.Section 3 amended
+(1) Section 3(1) is amended as follows:
+(a) by inserting the following definitions in the appropriate alphabetical positions —
+“
+CEO means the chief executive officer of the Department;
+Department means the department of the Public Service principally assisting in the administration of this Act;
+”;
+(b) in the definition of “authorised community services officer” in paragraph (a) by deleting “(Justice)” in both places where it occurs;
+(c) by deleting the definition of “CEO (Justice)”.
+(2) Section 3(5) is amended by deleting “department of which he is the chief executive officer” and inserting instead —
+“ Department ”.
+32.Section 66A amended
+Section 66A(2) is amended by deleting “department of which the CEO (Justice) is the chief executive officer” and inserting instead —
+“ Department ”.
+33.Various references to CEO (Justice) changed to CEO
+Each provision listed in the Table to this section is amended by deleting “CEO (Justice)” in each place where it occurs and inserting instead —
+“ CEO ”.
+Table
+s. 3(5) | s. 50E
+s. 24A(4) | s. 50F(1), (3), (4) and (5)
+s. 27A | s. 50H
+s. 50A | s. 50J
+s. 50C(4)(a) and (b) | s. 50L(1)
+s. 50D(1)(a) | Sch. 1 Part D cl. 3(3)(e)
+Note:The headings to sections 27A, 50A, 50E, 50F and 50J will be altered by deleting “(Justice)”.
+”.
+The amendments to the Bail Act 1982 in the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 cl. 31(1)(b) and (c), cl. 32 and 33 would conflict with amendments by the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 5.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+accused3(1), 6(1)(a), 6A(1)
+addressee3A(1)
+adjournment3(1)
+amendment31A(1)
+appeal3(1)
+appropriate judicial officer3(1)
+approved3(1)
+arrester6(1)
+as soon as is practicable3(1)
+audio link66B(1)
+authorised community services officer3(1)
+authorised officer3(1)
+authorised police officer3(1)
+bail decision15A(1)
+bail proceedings66B(1)
+bail undertaking3(1)
+CEO (corrections)3(1)
+Chief Judge3(1)
+Chief Justice3(1)
+child3(1)
+community corrections officer3(1)
+court3(1)
+court custody centre3(1)
+Director of Public Prosecutions3(1)
+early release order3(1)
+electronic address3(1)
+electronic communication3(1)
+home detention condition3(1)
+judge7B(1), Sch. 1 Pt. B cl. 1(1)
+judge of appeal3(1)
+judicial officer3(1)
+lock-up3(1)
+medical practitionerSch. 1 Pt. D cl. 2(7)
+offence3(1)
+police officer3(1)
+proceedings for an offenceSch. 1 Pt. A cl. 7
+proposed surety43A(1)
+prosecutor3(1)
+protective condition or orderSch. 1 Pt. C cl. 3B(6)
+psychiatristSch. 1 Pt. D cl. 2(7)
+registrar3(1)
+released6A(1)
+relevant officer54(1a), 59A(1)
+relevant official43A(1)
+relevant personSch. 1 Pt. C cl. 3B(3)
+responsible personSch. 1 Pt. C cl. 2(1)
+serious offence3(1), 6A(1)
+statute66(3)
+summary court6A(1)
+surety3(1)
+surety approval officer3(1)
+surety undertaking3(1)
+the relevant papers27(2)
+trial3(1), 7E(2), 31A(1), 44(3)
+urban area16A(4)
+video link43A(1), 66B(1)
