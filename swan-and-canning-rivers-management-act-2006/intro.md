@@ -6,4 +6,3 @@ An Act to make provision for —
 ·the management policies to be followed by the Trust and other persons in relation to the Swan and Canning Rivers and associated land;
 ·the establishment of a Foundation with fund-raising and other functions,
 and for related purposes.
-The Parliament of Western Australia enacts as follows:
