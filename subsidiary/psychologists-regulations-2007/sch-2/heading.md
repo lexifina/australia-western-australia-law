@@ -2,5 +2,6 @@
 [r. 19]
  | Type of fee | Fee $
 1. | Fee payable on lodgment of a written notice seeking registration in accordance with mutual recognition principle. | 150
-2. | Registration fee for grant of registration in accordance with mutual recognition principle if registration is effected in the months of January, February, March, April, May or June. | 225
-3. | Registration fee for grant of registration in accordance with mutual recognition principle if registration is effected in the months of July, August, September, October, November or December. | 115
+2. | Registration fee for grant of registration in accordance with mutual recognition principle if registration is effected in the months of January, February, March, April, May or June. | 300
+3. | Registration fee for grant of registration in accordance with mutual recognition principle if registration is effected in the months of July, August, September, October, November or December. | 150
+[Schedule 2 amended in Gazette 6 Mar 2009 p. 685-6.]
