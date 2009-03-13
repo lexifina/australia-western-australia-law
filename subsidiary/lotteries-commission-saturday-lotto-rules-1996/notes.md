@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Lotteries Commission (Saturday Lotto) Rules 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 13 March 2009 of the Lotteries Commission (Saturday Lotto) Rules 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Lotteries Commission (Saturday Lotto) Rules 1996 | 15 Nov 1996 p. 6529-52 | Rules other than r. 35(1): 18 Nov 1996 (see r. 2(1)); r. 35(1): 1 Jan 1997 (see r. 2(2))
@@ -18,3 +18,32 @@ Lotteries Commission (Saturday Lotto) Amendment Rules (No. 2) 2006 | 29 Sep 2006
 Lotteries Commission (Saturday Lotto) Amendment Rules 2007 | 26 Jun 2007 p. 3053-4 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Rules other than r. 1 and 2: 27 Jun 2007 (see r. 2(b))
 Lotteries Commission (Saturday Lotto) Amendment Rules 2008 | 6 Jun 2008 p. 2253-74 | r. 1 and 2: 6 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jun 2008 (see r. 2(b))
 Lotteries Commission (Saturday Lotto) Amendment Rules (No. 2) 2008 | 3 Oct 2008 p. 4497-9 | r. 1 and 2: 3 Oct 2008 (see r. 2(a)); Rules other than r. 1 and 2: 12 Oct 2008 (see r. 2(b))
+Reprint 3: The Lotteries Commission (Saturday Lotto) Rules 1996 as at 13 Mar 2009 (includes amendments listed above)
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+agent3
+agent’s component3
+Australian Lotto Bloc3
+authorised payout centre3
+entry3
+game3
+game board3
+payout period3
+player’s card3
+player’s card number3
+playslip3
+postal entry10(1)
+prize fund3
+prize pool3
+prize reserve fund3
+promotional coupon3
+receipted ticket3
+Saturday lotto3
+Saturday lotto draw3
+selected number3
+selling period3
+supplementary number3
+total prize pool3
+validation period3
+winning number3
