@@ -1,9 +1,42 @@
 Notes
-This is a compilation of the Lotteries Commission (Monday and Wednesday Lotto) Rules 2006 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 20 March 2009 of the Lotteries Commission (Monday and Wednesday Lotto) Rules 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Lotteries Commission (Monday and Wednesday Lotto) Rules 2006 | 21 Apr 2006 p. 1611-45 | 27 Apr 2006 (see r. 2)
 Lotteries Commission (Monday and Wednesday Lotto) Amendment Rules (No. 2) 2006 | 29 Sep 2006 p. 4273-4 | 29 Sep 2006
 Lotteries Commission (Monday and Wednesday Lotto) Rules 2007 | 26 Jun 2007 p. 3056-7 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Rules other than r. 1 and 2: 27 Jun 2007 (see r. 2(b))
 Lotteries Commission (Monday and Wednesday Lotto) Amendment Rules 2008 | 6 Jun 2008 p. 2299-321 | r. 1 and 2: 6 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jun 2008 (see r. 2(b))
-Lotteries Commission (Monday and Wednesday Lotto) Amendment Rules (No. 2) 2008 | 3 Oct 2008 p. 4494-7 | r. 1 and 2: 3 Oct 2008 (see r. 2(a)); Rules other than r. 1 and 2: for Monday lotto - 7 Oct 2008 (see r. 2(b)(i)); for Wednesday lotto – 9 Oct 2008 (see r. 2(b)(ii))
+Lotteries Commission (Monday and Wednesday Lotto) Amendment Rules (No. 2) 2008 | 3 Oct 2008 p. 4494-7 | r. 1 and 2: 3 Oct 2008 (see r. 2(a)); Rules other than r. 1 and 2: for Monday lotto – 7 Oct 2008 (see r. 2(b)(i)); for Wednesday lotto – 9 Oct 2008 (see r. 2(b)(ii))
+Reprint 1: The Lotteries Commission (Monday and Wednesday Lotto) Rules 2006 as at 20 Mar 2009 (includes amendments listed above)
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+agent3(1)
+agent’s component3(1)
+authorised payout centre3(1)
+entry3(1)
+game3(1)
+game board3(1)
+lotto3(2), 3(3)
+lotto draw3(2), 3(3), 10(9), 23(2)
+Monday and Wednesday Lotto Bloc3(1)
+Monday lotto3(1)
+payout period3(2), 3(3)
+player’s card3(1)
+player’s card number3(1)
+playslip3(1)
+postal entry10(1)
+prize fund3(1)
+prize pool3(1), 3(2), 3(3)
+prize reserve fund3(1)
+promotional coupon3(1)
+receipted ticket3(1)
+Saturday lotto3(1)
+Saturday lotto draw3(1)
+selected number3(1)
+selling period3(2), 3(3)
+supplementary number3(2), 3(3)
+total prize pool3(1)
+validation period3(2), 3(3)
+Wednesday lotto3(1)
+winning number3(2), 3(3)
