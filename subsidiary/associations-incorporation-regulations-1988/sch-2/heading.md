@@ -7,7 +7,7 @@ Item | Matter | Fee
 4. | (a)Lodgment of notice of special resolution setting out particulars of alteration of rules of an association under section 17 ................................. (b)Where alteration of rules has effect to change name of an association, on approval of change of name and issue of certificate of incorporation on change of name under section 18(6) .............. (c)Where alteration of rules has effect to change objects or purposes of an association, on approval of the alteration under section 19 ......... | $19.50 $19.50 $19.50
 5. | Lodgment of application for extension of period for holding an annual general meeting under section 23(1)... | $35.00
 6. | Lodgment of application for approval of variation of provisions of rules of an association relating to distribution of surplus property upon winding up under section 33(4) ..................................................................... | $32.50
-7. | Lodgment of distribution plan under section 33(6) ... | $35.00
+7. | Lodgment of distribution plan under section 33(6) .............. | $35.00
 8. | Inspection of document lodged with Commissioner under section 37(2)(a) ......................................................... | $6.75
 9. | Issue of uncertified copy of, or extract from document, other than current rules of an incorporated association, lodged with Commissioner —
  | (a)where fee payable under item 8 for inspection of the document has been paid, for each page ........ | $1.40
