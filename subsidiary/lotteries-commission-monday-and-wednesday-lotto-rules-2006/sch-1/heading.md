@@ -3,7 +3,7 @@
 [Heading inserted in Gazette 3 Oct 2008 p. 4495.]
 The unit cost of entering a Monday lotto or a Wednesday lotto draw is made up of a subscription of 40 cents per game and an agent’s component.
 The agent’s component is calculated as 9% of the total subscription amount for a particular week’s entry, rounded* (where necessary) to the nearest 5 cent multiple.
-((G x $0.40) x .09 —> rounded) x W = T
+((G x $0.40) x .09 ® rounded) x W = T
 where —
 G=No. of games entered in a draw
 W=No. of weeks the entry spans
