@@ -118,4 +118,4 @@ value, in relation to —
 (d)property sold by or for the State — has the meaning given in section 152; and
 (e)the transfer of property — has the meaning given in section 154;
 wealth has the meaning given in section 143.
-[Glossary amended by No. 12 of 2001 s. 51; No. 20 of 2003 s. 19; No. 28 of 2003 s. 42; No. 2 of 2008 s. 61(3); No. 22 of 2008 s. 162.]
+[Glossary amended by No. 12 of 2001 s. 51; No. 20 of 2003 s. 19; No. 28 of 2003 s. 42; No. 2 of 2008 s. 61(3); No. 22 of 2008 Sch. 3 cl. 17.]
