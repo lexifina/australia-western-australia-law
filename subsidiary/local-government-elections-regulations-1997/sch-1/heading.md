@@ -25,6 +25,7 @@ Form | Heading | Section or regulation
 21 | Referendum Ballot Paper | s. 4.99
 22 | Referendum Absent Vote Ballot Paper (front & back) | s. 4.99
 23 | Results of Referendum | s. 4.99
+[List of Forms amended in Gazette 25 Jan 2001 p. 588.]
 Form 1. Declaration by Electoral Officer
 Local Government (Elections) Regulations 1997, reg. 7 DECLARATION BY ELECTORAL OFFICER
 Electoral Officer | Full name:
@@ -45,7 +46,7 @@ Person making claim | Family name:
 Other names: | Date of birth:
 Postal address | No.: | Street name:
 Suburb: | Postcode:
-Phone numbers(H):(W):(M): :
+Phone numbers(H):(W):(M):
 Fax number:Email:
 Rateable property on which claim is based | No.: | Street name:
 Suburb: | Postcode:
@@ -68,10 +69,10 @@ Back of Form 2
 6Which ward | If the property in respect of which this claim is made is partly in one ward and partly in another you may choose which of those wards you want your claim to apply to. If you leave this box blank the Chief Executive Officer of the local government will decide which ward the claim is to apply to. In this form the ward, or if no ward is applicable the district, is referred to as “the electorate”.
 7Qualification under clause 12 | To qualify under clause 12 of Schedule 9.3 to the Local Government Act 1995 you must: ·own or occupy rateable property in the electorate; ·have been on the last electoral roll prepared under the Local Government Act 1960 for that electorate; and ·have owned or occupied rateable property in the electorate continuously since that roll was prepared.
 8Nominations | A nomination must be made in writing and be signed by all or a majority of the owners or occupiers of the property (or if the owner or occupier is a body corporate, be signed by an officer of the body corporate) in accordance with the Local Government (Elections) Regulations 1997. If you are a nominee you must give the nomination to the local government with this form unless the CEO requires the written notice of the nomination to be incorporated into this form. If a body corporate or group of people owns or occupies more than one property in a district, a nomination applies to all of those properties.
-Duration of enrolment of occupiers | If you are an occupier and your enrolment eligibility claim is accepted it will expire in accordance with section 4.33 of the Local Government Act 1995 (this will usually be 6 months after the holding of the second ordinary election after your claim was accepted). If you wish to continue to qualify as an elector after than, you will need to make another enrolment eligibility claim.
+Duration of enrolment of occupiers | If you are an occupier and your enrolment eligibility claim is accepted it will expire in accordance with section 4.33 of the Local Government Act 1995 (this will usually be 6 months after the holding of the second ordinary election after your claim was accepted). If you wish to continue to qualify as an elector after that, you will need to make another enrolment eligibility claim.
 Confidentiality | Your date of birth, phone and fax numbers and email address supplied in this form will be kept confidential and will be used only by the local government and the Western Australian Electoral Commission for the purpose of preparing local government electoral rolls.
 Where to send your form | When you have completed and signed this form, send it to the Chief Executive Officer of your local government. You may send it by post, by fax or by other electronic means so long as it is capable of being printed in its entirety, including a signature. If you send it by fax or electronically you should check that it has been received.
-[Form 2 amended in Gazette 21 Jan 2005 p. 268; 18 Mar 2005 p. 976.]
+[Form 2 amended in Gazette 25 Jan 2001 p. 588-9; 21 Jan 2005 p. 268; 18 Mar 2005 p. 976.]
 Form 3.Notice of Acceptance of Enrolment Eligibility Claim
 Local Government Act 1995, s. 4.32(6) NOTICE OF ACCEPTANCE OF ENROLMENT ELIGIBILITY CLAIM
 Claimant | Name:
@@ -109,7 +110,7 @@ Signature: | Date:
 Information to support your appeal | You should include with this form details of any information which supports your appeal. You may wish to include: Œyour enrolment eligibility claim form; the notice of rejection from the local government; and Žif you are a nominee, a copy of the nomination. Note: The Electoral Commissioner will not be able to process your appeal unless all necessary documentation is provided.
 Back of Form 5
 Where to send your appeal form | When you have completed and signed this form, send it to the Electoral Commissioner at the Western Australian Electoral Commission. You may send your appeal form by post, by fax or by other electronic means so long as it is capable of being printed in its entirety, including a signature. If you send it by fax or electronically you should check that it has been received.
-[Form 5 amended in Gazette 21 Jan 2005 p. 268.]
+[Form 5 amended in Gazette 22 Dec 1998 p. 6873; 21 Jan 2005 p. 268.]
 Form 6.Notice of Cancellation of Eligibility
 Local Government Act 1995, s. 4.35(3) NOTICE OF CANCELLATION OF ELIGIBILITY
 Elector | Name:
@@ -134,7 +135,7 @@ Signature: | Date:
 Information to support your appeal | You should include with this form details of any information which supports your appeal. You may wish to include: Œthe notice of acceptance you received when your enrolment eligibility claim was accepted; the notice of cancellation of eligibility; and Žany other documents that support your appeal. Note: The Electoral Commissioner will not be able to process your appeal unless all necessary documentation is provided.
 Back of Form 7
 Where to send your appeal form | When you have completed and signed this form, send it to the Electoral Commissioner at the Western Australian Electoral Commission. You may send your appeal form by post, by fax or by other electronic means so long as it is capable of being printed in its entirety, including a signature. If you send it by fax or electronically you should check that it has been received.
-[Form 7 amended in Gazette 21 Jan 2005 p. 268.]
+[Form 7 amended in Gazette 22 Dec 1998 p. 6874; 21 Jan 2005 p. 268.]
 Form 8.Nomination for Election by Candidate
 Local Government Act 1995, s. 4.49(a) NOMINATION FOR ELECTION BY CANDIDATE See back for notes on how to make your nomination
 Nominee | Family name:
@@ -359,7 +360,7 @@ If the elector’s certificate is:
 (b)printed on the return envelope, replace “accompanying” with “enclosed”.
 2Postal election
 If the certificate is sent under regulation 41 (Postal election) the form may be modified by deleting the part requiring the elector to supply his or her name and address.
-[Form 14 inserted in Gazette 21 Jan 2005 p. 267
+[Form 14 inserted in Gazette 21 Jan 2005 p. 267.]
 Form 15.Application for Replacement Postal Voting Papers
 Local Government (Elections) Regulations 1997, reg 45 APPLICATION FOR REPLACEMENT POSTAL VOTING PAPERS
 Applicant | Full name:
@@ -375,7 +376,7 @@ Papers required | Please send me another: rballot paper rballot paper envelope r
 Declaration [Making a false declaration is an offence] | I declare that: ·I have not already voted in the election; and ·all of the details set out above are true and correct.
 Signature: | Date:
 What to do with your application | When you have completed and signed this form, you may send it to the Returning Officer for the district. You may send your form by post, by fax or by any other electronic means so long as it is capable of being printed in its entirety, including signatures. Alternatively you may give your form to an electoral officer at a polling place — ·If you are making your application before election day: during normal office hours; or ·if you are making your application on election day: between 8 a.m. and 6 p.m.
-[Form 15 amended in Gazette 21 Jan 2005 p. 268.]
+[Form 15 amended in Gazette 22 Dec 1998 p. 6876; 21 Jan 2005 p. 268.]
 Form 16.Provisional Voter’s Declaration
 Local Government (Elections) Regulations 1997, regs 46 and 62 PROVISIONAL VOTER’S DECLARATION
 Elector | Full name:
@@ -395,7 +396,7 @@ Electoral officer | Full name:
 [Tick appropriate boxes] | In considering this claim, I have had regard to: ra previously compiled electoral roll of the local government; ran electoral roll or other document prepared under the Electoral Act 1907 or the Commonwealth Electoral Act 1918; rthe owners and occupiers register; radvice sent by the CEO as to whether or not the person is an elector; rother relevant documents and materials – (describe briefly)
  | This application is racceptedrrejected
  | Signature: | Date:
-[Form 16 amended in Gazette 21 Jan 2005 p. 268.]
+[Form 16 inserted in Gazette 22 Dec 1998 p. 6877-8; amended in Gazette 21 Jan 2005 p. 268.]
 Form 17.Application for Absent Vote
 Local Government (Elections) Regulations 1997, reg 54 APPLICATION FOR ABSENT VOTE
 Applicant | Full name:
@@ -417,6 +418,7 @@ Back of Form 17
 1Property | If you are eligible to vote in respect of more than one property you need only give the address of one property, but the application process will be facilitated if you list all the properties. Add additional pages if necessary.
 2Electorate | If you are an elector in more than one electorate you must give the details of each electorate for which you wish to make an absent vote.
 3Declaration | You must sign this form before an Electoral Officer of the local government at whose offices the application is made.
+[Form 17 amended in Gazette 22 Dec 1998 p. 6878; 21 Jan 2005 p. 268.]
 Form 18.Appointment of Scrutineer — original copy
 Local Government (Elections) Regulations 1997, reg 69 APPOINTMENT OF SCRUTINEER [To be completed by candidate. See back for notes on how to complete this form]
 Candidate | Full name:
@@ -434,7 +436,6 @@ Signature of candidate: | Date:
 Back of original copy of Form 18
 Where to send this form | When you have completed and signed your part of this form and the declaration by the scrutineer has been completed, send both copies of the form to the Returning Officer for the district or give them to the presiding officer at a polling place. You may send your form by post, by fax or by other electronic means so long as it is capable of being printed in its entirety, including signatures. If you send it by fax or electronically you should check that it has been received.
 Duplicate copy of form | Your must complete 2 copies of this form. The original will be retained by the Returning Officer or presiding officer. The duplicate will be returned and must be given to and retained by the scrutineer.
-[Form 17 amended in Gazette 21 Jan 2005 p. 268.]
 Form 18.Appointment of Scrutineer — duplicate copy
 Local Government (Elections) Regulations 1997, reg 69 APPOINTMENT OF SCRUTINEER To be completed by candidate. See back for notes on how to complete this form
 Candidate | Full name:
@@ -466,7 +467,7 @@ The rights and duties of a scrutineer
 What you may do | As a scrutineer you may: ·attend at a polling place mentioned in your notice of appointment to observe the conduct of the election and to make sure that the Local Government Act 1995 is being complied with; ·observe the checking of absent and postal votes; ·be present at the preparation of postal voting papers but only at a sufficient distance so that you cannot ascertain the markings on the ballot papers; and ·be present when ballot boxes are opened, when preferences indicated on ballot papers are recorded electronically and during the counting of the votes.
 What you must do | As a scrutineer you must: ·wear identification of your appointment as a scrutineer; ·have your copy of the Appointment of Scrutineer form with you at all times and produce it when requested to do so by the Presiding Officer at a polling place; and ·comply with all directions given by the Returning Officer and all reasonable requests made by any other electoral officer.
 What you must not do | As a scrutineer you must not: ·enter a polling place if another scrutineer appointed by the same candidate is already there (unless one of you is just to cast your vote); ·take part in the conduct of the election; ·while in or within 6 metres of a polling place: ·canvass for votes; ·solicit the vote of an elector; ·induce an elector to vote for a particular candidate; ·induce an elector not to vote at the election; ·record the name of a person who attends a polling place to vote or record any information given by a person to an electoral officer in order to receive a ballot paper.
-[Form 18 amended in Gazette 21 Jan 2005 p. 268; 3 Aug 2007 p. 4002 and 4006.]
+[Form 18 amended in Gazette 22 Dec 1998 p. 6878; 25 Jan 2001 p. 590-1; 21 Jan 2005 p. 268; 3 Aug 2007 p. 4002 and 4006.]
 Form 19.Results of Election
 Local Government Act 1995, s. 4.77 Local Government (Elections) Regulations 1997, reg. 80 RESULTS OF ELECTION FOR _________________________________________________________________
 Results | These are the results of the local government election held on ______________.
@@ -501,7 +502,7 @@ If the district is divided into wards, delete the word “District” and repeat
 [Form 19 inserted in Gazette 3 Aug 2007 p. 4003-4.]
 Form 20. Report to Minister
 REPORT TO MINISTER Local Government Act 1995, s. 4.79(2) Local Government (Elections) Regulations 1997, reg. 81
-Part 1 - General information
+Part 1 — General information
 Use one form for each election.
 District and date
 District: Ward (if applicable): Election date:
@@ -516,7 +517,7 @@ Number of persons on rolls
 Number of persons on owners and occupiers roll
 Number of persons on residents roll
 Total number of names of persons on rolls (roll, if consolidated)
-Part 2 - Voter turnout
+Part 2 — Voter turnout
 Voter categories | Number of voters
 Absent voters whose voting papers were rejected
 Postal voters whose voting papers were rejected
@@ -531,10 +532,10 @@ Work out using number of accepted absent voter declarations retained.
 Work out using number of accepted elector certificates retained.
 Work out using number of Form 16s accepted by an electoral officer.
 Total number of eligible electors who attempted to vote by the close of poll.
-Part 3 – Number of late arriving postal packages
+Part 3 — Number of late arriving postal packages
 Number of late arriving postal packages:
 Include packages arriving up to one week after the close of poll. Assume the voting papers include a ballot paper for this election.
-Part 4 – Details of ballot papers, candidates and votes
+Part 4 — Details of ballot papers, candidates and votes
 Ballot papers received
 Total | Formal | Informal | Informal as percentage of total
 Candidates and votes
@@ -546,7 +547,7 @@ If the candidate was elected unopposed under section 4.55 of the Act, insert “
 If the candidate was appointed under section 4.57(3) of the Act, insert “Appointed” and delete columns 4 and 5.
 Insert “Elected” or “Excluded”, as the case requires, followed by the order of the election or exclusion of the candidate in brackets, e.g. “Elected (1)” for the first elected candidate; “Excluded (1)” for the first excluded candidate.
 Insert “Quota” for an elected candidate.
-Part 5 – Candidate/s elected
+Part 5 — Candidate/s elected
 Surname | Other names | Year term expires | Type of vacancy (Ordinary/extraordinary/other)
 Returning officer | Full name:
 Signature: | Date:
@@ -583,6 +584,7 @@ How to make an absent vote
 3Date | Fill in the official referendum voting date — not the day you are filling in this form.
 4Referendum | Set out the question or proposal to be put to electors. If the possible answers are other than Yes or No, alter the answer boxes accordingly and cast your vote by putting a tick in the appropriate box.
 Cast your vote | To cast your vote in the referendum place a þ in the Yes box or the No box. Do not make any other marks on the ballot paper.
+[Form 22 amended in Gazette 25 Jan 2001 p. 591.]
 Form 23. Results of Poll or Referendum
 Local Government Act 1995, s. 4.99 RESULTS OF REFERENDUM
 Local government district:
@@ -595,4 +597,3 @@ Notes to Form 23
 Notes to Returning Officer when preparing Results of Referendum
 Referendum or poll
 In the case of a poll replace all references to “referendum” with “poll”.
-[Schedule 1 amended in Gazette 22 Dec 1998 p. 6873-8; 25 Jan 2001 p. 588-91; 21 Jan 2005 p. 266-8.]
