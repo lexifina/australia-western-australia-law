@@ -139,7 +139,7 @@ Address.........................................................................
 *3)The bee colonies are not in quarantine and are not from a declared quarantine area or declared prohibited zone.
 *4)Pollen used for feedback to bees has been sufficiently irradiated to a minimum of 15 kilo Gray prior to distribution to beekeepers.
 *5)For importation into Western Australia, Tasmania and Northern Territory the State/Territory* from which the bees, honey bee products or equipment originates is free of European foul brood (Melissococcus pluton) (not Tasmania) and chalkbrood disease (Ascosphaera apis) OR:
-*i)The honey/or other apiary products* described herein have been pasteurised by heating to a temperature of 65o Celsius for not less than 8 hours or 70o Celsius for 2 hours (not Northern Territory).
+*i)The honey/or other apiary products* described herein have been pasteurised by heating to a temperature of 65° Celsius for not less than 8 hours or 70° Celsius for 2 hours (not Northern Territory).
 *ii)Honey used in queen candy, pollen or food for package bees containing bee products has been irradiated at a minimum of 15 kilo Gray to inactivate all infectious agents.
 *iii)The beeswax described herein has been refined by heat treatment to melting point at premises approved by the senior apicultural officer (W A only).
 *iv)The equipment described herein is free from honey, beeswax, propolis, hive material and contamination with honey bee diseases and, in the case of beehives, have not previously been used for keeping bees (W A only).
