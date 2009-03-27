@@ -28,3 +28,14 @@ Valuation of Land Amendment Regulations 1997 | 24 Jun 1997 p. 3016-17 | 30 Jun 1
 Valuation of Land Amendment Regulations 1999 | 11 Jun 1999 p. 2552-3 | 30 Jun 1999 (see r. 2)
 Valuation of Land Amendment Regulations 2006 | 29 Dec 2006 p. 5917 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
 Valuation of Land Amendment Regulations 2008 | 20 Jun 2008 p. 2718 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Valuation of Land Amendment Regulations 2009 r. 3-4 | 27 Mar 2009 p. 925-6 | 30 Jun 2009 (see r. 2(b))
+On the date as at which this compilation was prepared, the Valuation of Land Amendment Regulations 2009 r. 3-4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Valuation of Land Regulations 1979.
+4.Regulation 3A replaced
+(1) Delete regulation 3A and insert:
+3A.Prescribed percentage under paragraph (b)(vii)(II) of the definition of unimproved value in section 4(1)
+The prescribed percentage for the purposes of paragraph (b)(vii)(II) of the definition of unimproved value in section 4(1) of the Act in the local government districts of Albany, Augusta-Margaret River, Beverley, Boddington, Boyup Brook, Bridgetown, Brookton, Broomehill-Tambellup, Busselton, Bruce Rock, Capel, Carnamah, Chapman Valley, Chittering, Collie, Coorow, Corrigin, Cranbrook, Cuballing, Cunderdin, Dalwallinu, Dandaragan, Dardanup, Denmark, Donnybrook, Dowerin, Dumbleyung, Esperance, Gingin, Gnowangerup, Goomalling, Geraldton-Greenough, Harvey, Irwin, Jerramungup, Katanning, Kellerberrin, Kent, Kojonup, Kondinin, Koorda, Kulin, Lake Grace, Manjimup, Merredin, Mingenew, Moora, Morawa, Mount Marshall, Mukinbudin, Mullewa, Murray, Nannup, Narembeen, Narrogin (Shire), Northam (Shire), Northampton, Nungarin, Perenjori, Pingelly, Plantagenet, Quairading, Ravensthorpe, Tammin, Three Springs, Toodyay, Trayning, Victoria Plains, Wagin, Wandering, Waroona, West Arthur, Westonia, Wickepin, Williams, Wongan-Ballidu, Woodanilling, Wyalkatchem, Yilgarn and York is 50%.
