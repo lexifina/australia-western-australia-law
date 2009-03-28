@@ -34,15 +34,15 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 13 | 65 of 2006 | 8 De
 Road Traffic Amendment (Drugs) Act 2007 Pt. 3 | 6 of 2007 | 23 May 2007 | 12 Oct 2007 (see s. 2 and Gazette 11 Oct 2007 p. 5475)
 Road Traffic Amendment Act (No. 2) 2007 Pt. 3 | 39 of 2007 | 21 Dec 2007 | 15 Mar 2008 (see s. 2(k) and Gazette 14 Mar 2008 p. 829)
 Acts Amendment (Justice) Act 2008 s. 132 | 5 of 2008 | 31 Mar 2008 | 31 Jul 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Parental Support and Responsibility Act 2008 s. 44 | 14 of 2008 | 15 Apr 2008 | 28 Mar 2009 (see s. 2 and Gazette 27 Mar 2009 p. 917)
 Legal Profession Act 2008 s. 714 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Criminal Law Amendment (Homicide) Act 2008 s. 41 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-Reprint 4: The Young Offenders Act 1994 as at 2 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
+Reprint 4: The Young Offenders Act 1994 as at 2 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008 and the Parental Support and Responsibility Act 2008)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Parental Support and Responsibility Act 2008 s. 44 | 14 of 2008 | 15 Apr 2008 | To be proclaimed (see s. 2)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -94,35 +94,21 @@ s. 17 | Obtaining payment for commercial sexual act by a child
 s. 18 | Agreement for a child to act as a sex worker
 ”.
 ”.
-On the date as at which this compilation was prepared, the Parental Support and Responsibility Act 2008 s. 44 had not come into operation. It reads as follows:
-“
-44.Young Offenders Act 1994 amended
-(1) The amendment in this section is to the Young Offenders Act 1994.
-(2) After section 15A(3) the following subsections are inserted —
-“
-(3a) Upon being requested to do so by an authorised officer, the chief executive officer is to provide —
-(a) the officer with information relating to a child who is, or was, a young offender or detainee, for the purposes of proceedings for or in respect of a responsible parenting order in respect of the child; or
-(b) an appointed person or body with information relating to a person who is, or was, a young offender or detainee, for the purposes of section 39 of that Act.
-(3b) The information provided under subsection (3a)(b) must be in a form that would not reveal the identity of the person.
-(3c) In subsection (3a) —
-appointed person or body means a person or body appointed under section 39(1) of the Parental Support and Responsibility Act 2008;
-authorised officer has the meaning given to that term in section 3 of the Parental Support and Responsibility Act 2008;
-child means a person who is under 15 years of age;
-proceedings for or in respect of a responsible parenting order has the meaning given to “proceedings for or in respect of an order” in section 26 of the Parental Support and Responsibility Act 2008.
-”.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 Aboriginal community3
+appointed person or body15A
 appropriate person23B(3)
 approved35
 attendance conditions3
+authorised officer15A
 authorised person169A(7)
 Board131
 body sample3
 CEO (child welfare)15A(2)
 chief executive officer3
+child15A
 community work conditions3
 community work order63
 conditional release order3
@@ -151,6 +137,7 @@ medical treatment179(1)
 monitor17A
 notice to attend court3
 party32(3)
+proceedings for or in respect of a responsible parenting order15A
 public authority16(1)
 registrar of the court3
 relevant day127(1)

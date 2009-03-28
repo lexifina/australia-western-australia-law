@@ -34,14 +34,14 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 6 | 65 of 2006 | 8 Dec
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Criminal Law and Evidence Amendment Act 2008 s. 57 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Acts Amendment (Justice) Act 2008 Pt. 2 | 5 of 2008 | 31 Mar 2008 | 31 Jul 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Parental Support and Responsibility Act 2008 s. 43 | 14 of 2008 | 15 Apr 2008 | 28 Mar 2009 (see s. 2 and Gazette 27 Mar 2009 p. 917)
 Legal Profession Act 2008 s. 643 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
-Reprint 5: The Children’s Court of Western Australia Act 1988 as at 13 Feb 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
+Reprint 5: The Children’s Court of Western Australia Act 1988 as at 13 Feb 2009 (includes amendments listed above except those in the Legal Profession Act 2008 and the Parental Support and Responsibility Act 2008)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Cross-border Justice Act 2008 Pt. 15 Div. 1 | 7 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(b))
-Parental Support and Responsibility Act 2008 s. 43 | 14 of 2008 | 15 Apr 2008 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 Chapter XXXII of The Criminal Code was repealed by the Acts Amendment (Evidence) Act 1991 s. 12(9).
 Now known as the Children’s Court of Western Australia Act 1988; short title changed (see note under s. 1).
@@ -94,37 +94,6 @@ After section 29(4) the following subsection is inserted —
 “
 (5) This section applies in relation to an act or omission by a person outside the State as if it were an act or omission by the person in the State.
 ”.
-”.
-On the date as at which this compilation was prepared, the Parental Support and Responsibility Act 2008 s. 43 had not come into operation. It reads as follows:
-“
-43.Children’s Court of Western Australia Act 1988 amended
-(1) The amendments in this section are to the Children’s Court of Western Australia Act 1988.
-(2) Section 20 is amended as follows:
-(a) after paragraph (c) by deleting “and”;
-(b) after paragraph (d) by deleting the full stop and inserting instead —
-“
-; and
-(e) under section 14 or 15 of the Parental Support and Responsibility Act 2008.
-”.
-(3) After section 23 the following section is inserted —
-“
-24.Criminal jurisdiction as regards adults
-(1) The Court has exclusive jurisdiction to hear and determine —
-(a) a charge alleging an offence under section 21(1) of the Parental Support and Responsibility Act 2008; and
-(b) a charge alleging an offence under section 131(1) of the Sentencing Act 1995 constituted by the breach of a conditional release order or a community based order imposed by the Court when sentencing a person who has been convicted of an offence under section 21(1) of the Parental Support and Responsibility Act 2008.
-(2) This section applies if section 19 does not apply.
-”.
-(4) After section 36(1)(a) the following paragraph is inserted —
-“
-(ab) a responsible parenting order or an interim responsible parenting order is made in respect of a child under the Parental Support and Responsibility Act 2008; or
-”.
-(5) Section 40 is amended as follows:
-(a) in subsection (1) by deleting “child” in both places where it occurs and inserting instead —
-“ person ”;
-(b) in subsection (2)(a) by deleting “child” and inserting instead —
-“ person ”;
-(c) in subsection (2)(b) by inserting before “by the CEO” —
-“ if the person is a child, ”.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
