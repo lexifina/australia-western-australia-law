@@ -1,33 +1,33 @@
 ## Schedule 2 — Street lighting
 [bl. 4(2)]
-Wattage Groups — Fitting Types — Switching Hours
-Lamp Details
-Item | Wattage | Type | Fitting and Pole Type | Midnight Switch-off (Obsolescent) Cents per day | 1.15 a.m. Switch-off Cents per day | Dawn Switch-off Cents per day
+[Heading inserted in Gazette 30 Mar 2009 p. 1006.]
+Item | Wattage | Type | Midnight Switch-off (Obsolescent) Cents per day | 1.15 a.m. Switch-off Cents per day | Dawn Switch-off Cents per day
 Street lighting on current offer and for existing services
-Z.01 | 50 | Mercury Vapour | Any . . . . . . | 17.09 | 17.47 | 18.77
-Z.02 | 80 | Mercury Vapour | Any . . . . . . | 20.14 | 20.59 | 22.65
-Z.03 | 125 | Mercury Vapour | Any . . . . . . | 24.91 | 25.71 | 28.63
-Z.04 | 140 | Sodium . . . . . . . . . . | Crosswalk Any Pole | 25.49 | 26.32 | 29.65
-Z.07 | 250 | 100% Consumer Cost M.V. Type W | Luminaire, Any Pole | 30.90 | 32.47 | 38.33
-Z.10 | 400 | 100% Consumer Cost M.V. Type W | Luminaire, Any Pole | 45.77 | 48.17 | 57.32
-Z.13 | 150 | 100% Consumer Cost H.P. Sodium | Luminaire, Any Pole | 23.60 | 24.45 | 29.29
-Z.15 | 250 | 100% Consumer Cost H.P. Sodium | Luminaire, Any Pole | 34.97 | 36.82 | 44.02
-Z.18 | per kilowatt | Auxiliary Lighting in Public Places | Service by Negotiation | 100.16 | 105.74 | 127.62
+Z.01 | 50 | Mercury Vapour | 19.657 | 20.086 | 21.604
+Z.02 | 80 | Mercury Vapour | 23.155 | 23.672 | 26.037
+Z.03 | 125 | Mercury Vapour | 28.633 | 29.557 | 32.912
+Z.04 | 140 | Low Pressure Sodium | 29.304 | 30.261 | 34.100
+Z.07 | 250 | Mercury Vapour | 35.530 | 37.334 | 44.077
+Z.10 | 400 | Mercury Vapour | 52.635 | 55.385 | 65.912
+Z.13 | 150 | High Pressure Sodium | 27.126 | 28.116 | 33.682
+Z.15 | 250 | High Pressure Sodium | 40.205 | 42.350 | 50.611
+Z.18 | per kW | Auxiliary Lighting in Public Places | 115.181 | 121.583 | 146.762
 Street lighting for existing services only
-Z.05 | 250 | Mercury Vapour | Open Fitting, Any Pole | 40.04 | 41.60 | 47.48
-Z.06 | 400 | Mercury Vapour | Open Fitting, Luminaire | 54.92 | 57.32 | 66.43
-Z.08 | 250 | 50% E.C. Cost M.V. Type W | Luminaire, Wood Poles | 35.47 | 37.02 | 42.90
-Z.09 | 250 | 100% E.C. Cost M.V. Type W | Luminaire, Wood Poles | 40.04 | 41.60 | 47.48
-Z.11 | 400 | 50% E.C. Cost M.V. Type W | Luminaire, Wood Poles | 50.34 | 52.75 | 61.86
-Z.12 | 400 | 100% E.C. Cost M.V. Type W | Luminaire, Wood Poles | 54.92 | 57.32 | 66.43
-Z.14 | 150 | 100% E.C. Cost H.P. Sodium | Luminaire, Any Pole | 36.39 | 37.25 | 42.06
-Z.16 | 250 | 50% E.C. Cost H.P. Sodium | Luminaire, Any Pole | 41.81 | 43.69 | 50.87
-Z.17 | 250 | 100% E.C. Cost H.P. Sodium | Luminaire, Any Pole | 48.64 | 50.54 | 57.72
-Z.51 | 60 | Incandescent | Any . . . . . . | 17.09 | 17.47 | 18.79
-Z.52 | 100 | Incandescent | Any . . . . . . | 17.09 | 17.47 | 18.79
-Z.53 | 200 | Incandescent | Any . . . . . . | 20.14 | 20.59 | 22.65
-Z.54 | 300 | Incandescent | Any . . . . . . | 24.91 | 25.71 | 28.63
-Z.55 | 500 | Incandescent | Open Fitting, Any Pole | 40.04 | 41.60 | 47.48
-Z.56 | 40 | Fluorescent | Open Fitting, Any Pole | 17.09 | 17.47 | 18.79
-Z.57 | 80 | Fluorescent | Open Fitting, Any Pole | 20.14 | 20.59 | 22.65
-Z.58 | 160 | Fluorescent | — | 28.16 | 28.56 | 33.13
+Z.05 | 250 | Mercury Vapour | 46.046 | 47.839 | 54.593
+Z.06 | 400 | Mercury Vapour | 63.151 | 65.912 | 76.384
+Z.08 | 250 | Mercury Vapour 50% E.C. cost | 40.777 | 42.559 | 49.335
+Z.09 | 250 | Mercury Vapour 100% E.C. cost | 46.046 | 47.839 | 54.593
+Z.11 | 400 | Mercury Vapour 50% E.C. cost | 57.893 | 60.654 | 71.137
+Z.12 | 400 | Mercury Vapour 100% E.C. cost | 63.151 | 65.912 | 76.384
+Z.14 | 150 | H.P. Sodium | 41.844 | 42.823 | 48.367
+Z.16 | 250 | H.P. Sodium 50% E.C. cost | 48.081 | 50.237 | 58.487
+Z.17 | 250 | H.P. Sodium 100% E.C. cost | 55.935 | 58.124 | 66.374
+Z.51 | 60 | Incandescent | 19.657 | 20.086 | 21.604
+Z.52 | 100 | Incandescent | 19.657 | 20.086 | 21.604
+Z.53 | 200 | Incandescent | 23.155 | 23.672 | 26.037
+Z.54 | 300 | Incandescent | 28.633 | 29.557 | 32.912
+Z.55 | 500 | Incandescent | 46.046 | 47.839 | 54.593
+Z.56 | 40 | Fluorescent | 19.657 | 20.086 | 21.604
+Z.57 | 80 | Fluorescent | 23.155 | 23.672 | 26.037
+Z.58 | 160 | Fluorescent | 32.384 | 32.835 | 38.093
+[Schedule 2 inserted in Gazette 30 Mar 2009 p. 1006-8.]
