@@ -20,4 +20,4 @@ Now therefore it is agreed and declared as follows: —
 3. The Authority hereby declares that there is no mortgage or charge upon its property having priority to or ranking pari passu with the said debenture (save and except as the case may be), and the Authority will not at any time during the continuance of this security create any mortgage or charge ranking or which can by any means be made to rank in priority to or pari passu with the said debenture (save as aforesaid).
 In witness whereof the Common Seals of the parties were hereunto affixed the day and year first before written.
 [First Appendix amended in Gazette 22 Dec 1998 p. 6847 and 6849.]
-[Second Appendix repealed in Gazette 22 Dec 1998 p. 6847.]
+[Second Appendix deleted in Gazette 22 Dec 1998 p. 6847.]
