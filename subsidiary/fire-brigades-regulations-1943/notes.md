@@ -82,6 +82,7 @@ Fire Brigades Amendment Regulations 1997 | 9 Sep 1997 p. 5065-6 | 9 Sep 1997
 Fire Brigades Amendment Regulations 1998 | 22 Dec 1998 p. 6844-9 | 1 Jan 1999 (see r. 2 and Gazette 22 Dec 1998 p. 6833)
 Fire Brigades Amendment Regulations 2003 | 16 May 2003 p. 1723-57 | 16 May 2003
 Reprint 4: The Fire Brigades Regulations 1943 as at 26 Sep 2003 (includes amendments listed above)
+Fire Brigades Amendment Regulations 2009 | 31 Mar 2009 p. 1025-7 | r. 1 and 2: 31 Mar 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2009 (see r. 2(b))
 Headings preceding groups of regulations were repealed by the Fire Brigades Amendment Regulations 1989. Regulation 2 of those regulations reads as follows:
 “
 2.Headings deleted
@@ -101,7 +102,7 @@ Regulation 124Regulation 193
 Regulation 128Regulation 228
 ”.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer of the department. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
-Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department of Western Australia is read and construed as a reference to the Department of Health.
+Footnote no longer applicable.
 Now known as the Fire Brigades Regulations 1943; citation changed (see note under r. 1).
 The Fire Brigades Amendment Regulations (No. 4) 1986 was a savings provision that is of no further effect.
 The Fire Brigades Amendment Regulations 2003 r. 30 reads as follows:
