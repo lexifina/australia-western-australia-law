@@ -1,11 +1,12 @@
 Notes
-This reprint is a compilation as at 5 September 2008 of the Motor Vehicle Repairers Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Motor Vehicle Repairers Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Motor Vehicle Repairers Regulations 2007 | 9 Feb 2007 p. 391-426 | 19 Mar 2007 (see r. 2 and Gazette 9 Feb 2007 p. 451)
 Motor Vehicle Repairers Amendment Regulations (No. 2) 2008 | 17 Jun 2008 p. 2554-5 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Motor Vehicle Repairers Amendment Regulations 2008 | 24 Jun 2008 p. 2801-33 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b) and Gazette 24 Jun 2008 p. 2885)
 Reprint 1: The Motor Vehicle Repairers Regulations 2007 as at 5 Sep 2008 (includes amendments listed above)
+Motor Vehicle Repairers Amendment Regulations 2009 | 31 Mar 2009 p. 1021-2 | r. 1 and 2: 31 Mar 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2009 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -70,6 +71,7 @@ proposed refund7B(1)
 qualified repairer7G(1)
 register of certificates3(1)
 relevant authority3(1)
+relevant day7(H)(1)
 repair3(1)
 repairer3(1)
 replacement application3(1)
