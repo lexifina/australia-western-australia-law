@@ -1,6 +1,6 @@
 ## Schedule 4 — Summary of parameters within which Oz lotto is conducted
 [Heading inserted in Gazette 6 Jun 2008 p. 2296.]
-Unit cost | $1.00 (+a 9% agent’s component)
+Unit cost | $1.00 (+ a 9% agent’s component)
 Prize fund % subscriptions | 60.0%
 Prize pool — % of subscriptions | no less than 55.0%
 Prize reserve fund — % of subscriptions | balance of prize fund after prize pool (up to 5.0%)
@@ -26,6 +26,6 @@ Games per oral request (default) | 6, 12, 18, 25, 30 or 50
 Games per oral request (if available) | 1 to 50
 Syndicate entries may be purchased (if available) | (see Part 2A)
 Systems entries per oral request | 1
-Prize payment period | 12 Months
+Prize payment period | 12 months
 Maximum aggregate entry cost | $100 000
 [Schedule 4 inserted in Gazette 6 Jun 2008 p. 2296-7.]
