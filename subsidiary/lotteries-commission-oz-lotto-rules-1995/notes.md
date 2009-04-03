@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Lotteries Commission (Oz Lotto) Rules 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 April 2009 of the Lotteries Commission (Oz Lotto) Rules 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
-Lotteries Commission (Oz Lotto) Rules 1995 | 30 Oct 1995 p. 5007-29 | 20 Nov 1995 (see r. 2 and Gazette 30 Oct 1995 p. 5065)
+Lotteries Commission (Oz Lotto) Rules 1995 | 30 Oct 1995 p. 5007-27 | 20 Nov 1995 (see r. 2 and Gazette 30 Oct 1995 p. 5065)
 Lotteries Commission (Oz Lotto) Amendment Rules 1997 | 29 Apr 1997 p. 2145-6 | 5 May 1997 (see r. 2)
 Lotteries Commission (Lotto and Soccer Pools) Amendment Rules 1997 | 31 Oct 1997 p. 6017 | 3 Nov 1997 (see r. 2)
 Lotteries Commission (Oz Lotto) Amendment Rules 1998 | 15 May 1998 p. 2818 | 15 May 1998
@@ -16,5 +16,29 @@ Lotteries Commission (Oz Lotto) Amendment Rules 2006 | 29 Sep 2006 p. 4270-1 | 2
 Reprint 2: The Lotteries Commission (Oz Lotto) Rules 1995 as at 17 Nov 2006 (includes amendments listed above)
 Lotteries Commission (Oz Lotto) Amendment Rules 2007 | 26 Jun 2007 p. 3054-5 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Rules other than r. 1 and 2: 27 Jun 2007 (see r. 2(b))
 Lotteries Commission (Oz Lotto) Amendment Rules 2008 | 6 Jun 2008 p. 2275-97 | r. 1 and 2: 6 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jun 2008 (see r. 2(b))
+Reprint 3: The Lotteries Commission (Oz Lotto) Rules 1995 as at 3 Apr 2009 (includes amendments listed above)
 Repealed by the Lotteries Commission (Saturday Lotto) Rules 1996.
 The Lotteries Commission (Oz Lotto) Amendment Rules 1997 r. 9 is a transitional provision that is of no further effect.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+agent3
+agent’s component3
+authorised payout centre3
+entry3
+game3
+National Lotto Bloc3
+Oz lotto3
+Oz lotto draw3
+payout period3
+player’s card3
+player’s card number3
+playslip3
+prize pool3
+promotional coupon3
+receipted ticket3
+selling period3
+supplementary number3
+total prize pool3
+validation period3
+winning number3
