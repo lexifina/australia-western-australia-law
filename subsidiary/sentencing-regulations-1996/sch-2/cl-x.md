@@ -10,7 +10,7 @@ Conservation and Land Management Act 1984 s. 105(1), 106
 Conspiracy and Protection of Property Act 1900 s. 6
 Co-operative and Provident Societies Act 1903 s. 36, 55
 Credit (Administration) Act 1984 s. 37, 38, 39(4), 39(6)
-The Criminal Code s. 95, 97, 105, 106, 108, 110, 111, 151 (summary conviction), 208 (summary conviction), 426(4), 426A(3), 429, 430, 431, 434, 435
+The Criminal Code s. 74A, 95, 97, 105, 106, 108, 110, 111, 151 (summary conviction), 208 (summary conviction), 426(4), 426A(3), 429, 430, 431, 434, 435, 557G, 557H, 557I
 Criminal Investigation (Extra-Territorial Offences) Act 1987 s. 6
 Criminal Procedure Act 2004 Sch. 2 cl. 5
 Curriculum Council Act 1997 Sch. 1 cl. 16(1)

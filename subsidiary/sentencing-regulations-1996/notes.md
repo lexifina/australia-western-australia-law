@@ -17,4 +17,5 @@ Sentencing Amendment Regulations (No. 2) 2005 | 24 Jan 2006 p. 429-31 | 24 Jan 2
 Sentencing Amendment Regulations 2006 | 12 May 2006 p. 1785-7 | 31 May 2006 (see r. 2 and Gazette 30 May 2006 p. 1965)
 Reprint 2: The Sentencing Regulations 1996 as at 25 Aug 2006 (includes amendments listed above)
 Sentencing Amendment Regulations 2008 | 27 Mar 2008 p. 901-2 | r. 1 and 2: 27 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Mar 2008 (see r. 2(b) and Gazette 27 Mar 2008 p. 899)
+Sentencing Amendment Regulations 2009 | 21 Apr 2009 p. 1369 | r. 1 and 2: 21 Apr 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Apr 2009 (see r. 2(b))
 Formerly referred to the Electricity Corporation Act 1994 the short title of which was changed to the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 s. 139. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
