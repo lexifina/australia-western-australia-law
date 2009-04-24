@@ -1,28 +1,28 @@
 Notes
-This is a compilation of the Motor Vehicle (Third Party Insurance) Act 1943 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 24 April 2009 of the Motor Vehicle (Third Party Insurance) Act 1943 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Motor Vehicle (Third Party Insurance) Act 1943 | 32 of 1943 | 12 Nov 1943 | 1 Jul 1944 (see s. 1 and Gazette 12 May 1944 p. 375)
-Motor Vehicle (Third Party Insurance) Act Amendment Act 1944 | 40 of 1944 | 11 Jan 1945 | 11 Jan 1945
-Motor Vehicle (Third Party Insurance) Act Amendment Act 1945 | 7 of 1945 | 27 Nov 1945 | 27 Nov 1945
+Motor Vehicle (Third Party Insurance) Act 1943 | 32 of 1943 (7 Geo. VI No. 27) | 12 Nov 1943 | 1 Jul 1944 (see s. 1 and Gazette 12 May 1944 p. 375)
+Motor Vehicle (Third Party Insurance) Act Amendment Act 1944 | 40 of 1944 (8 and 9 Geo. VI No. 40) | 11 Jan 1945 | 11 Jan 1945
+Motor Vehicle (Third Party Insurance) Act Amendment Act 1945 | 7 of 1945 (9 Geo. VI No. 7) | 27 Nov 1945 | 27 Nov 1945
 Reprint of the Motor Vehicle (Third Party Insurance) Act 1943 not in a Volume (includes amendments listed above)
-Motor Vehicle (Third Party Insurance) Act Amendment Act 1948 | 31 of 1948 | 9 Dec 1948 | Pt. I: 17 Dec 1948 (see s. 2(2) and Gazette 17 Dec 1948 p. 2966); Pt. II: 27 May 1949 (see s. 2(3) and Gazette 27 May 1949 p. 1155)
+Motor Vehicle (Third Party Insurance) Act Amendment Act 1948 | 31 of 1948 (12 Geo. VI No. 31) | 9 Dec 1948 | Pt. I: 17 Dec 1948 (see s. 2(2) and Gazette 17 Dec 1948 p. 2966); Pt. II: 27 May 1949 (see s. 2(3) and Gazette 27 May 1949 p. 1155)
 Reprint of the Motor Vehicle (Third Party Insurance) Act 1943 approved 3 Apr 1950 in Volume 3 of Reprinted Acts (includes amendments listed above)
-Motor Vehicle (Third Party Insurance) Act Amendment Act 1951 | 40 of 1951 | 20 Dec 1951 | 20 Dec 1951
+Motor Vehicle (Third Party Insurance) Act Amendment Act 1951 | 40 of 1951 (15 and 16 Geo. VI No. 40) | 20 Dec 1951 | 20 Dec 1951
 Reprint of the Motor Vehicle (Third Party Insurance) Act 1943 approved 23 Aug 1954 (not in a Volume) (includes amendments listed above)
-Motor Vehicle (Third Party Insurance) Act Amendment Act 1954 | 36 of 1954 | 3 Dec 1954 | 3 Dec 1954
+Motor Vehicle (Third Party Insurance) Act Amendment Act 1954 | 36 of 1954 (3 Eliz. II No. 36) | 3 Dec 1954 | 3 Dec 1954
 Reprint of the Motor Vehicle (Third Party Insurance) Act 1943 approved 12 Jun 1957 in Volume 11 of Reprinted Acts (includes amendments listed above)
-Motor Vehicle (Third Party Insurance) Act Amendment Act 1957 | 77 of 1957 | 16 Dec 1957 | 1 Feb 1958 (see s. 2 and Gazette 31 Jan 1958 p. 168)
-Motor Vehicle (Third Party Insurance) Act and Traffic Act Amendment Act 1959 | 18 of 1959 | 8 Oct 1959 | 8 Oct 1959
-Motor Vehicle (Third Party Insurance) Act Amendment Act 1959 | 25 of 1959 | 15 Oct 1959 | 4 Dec 1959 (see s. 2 and Gazette 4 Dec 1959 p. 2975)
-Motor Vehicle (Third Party Insurance) Act Amendment Act 1960 | 31 of 1960 | 21 Oct 1960 | 21 Oct 1960
+Motor Vehicle (Third Party Insurance) Act Amendment Act 1957 | 77 of 1957 (6 Eliz. II No. 77) | 16 Dec 1957 | 1 Feb 1958 (see s. 2 and Gazette 31 Jan 1958 p. 168)
+Motor Vehicle (Third Party Insurance) Act and Traffic Act Amendment Act 1959 | 18 of 1959 (8 Eliz. II No. 18) | 8 Oct 1959 | 8 Oct 1959
+Motor Vehicle (Third Party Insurance) Act Amendment Act 1959 | 25 of 1959 (8 Eliz. II No. 25) | 15 Oct 1959 | 4 Dec 1959 (see s. 2 and Gazette 4 Dec 1959 p. 2975)
+Motor Vehicle (Third Party Insurance) Act Amendment Act 1960 | 31 of 1960 (9 Eliz. II No. 31) | 21 Oct 1960 | 21 Oct 1960
 Reprint of the Motor Vehicle (Third Party Insurance) Act 1943 approved 2 Mar 1961 (not in a Volume) (includes amendments listed above)
-Motor Vehicle (Third Party Insurance) Act Amendment Act 1961 | 70 of 1961 | 28 Nov 1961 | 28 Nov 1961
-Motor Vehicle (Third Party Insurance) Act Amendment Act 1962 | 57 of 1962 | 30 Nov 1962 | 30 Nov 1962
-Motor Vehicle (Third Party Insurance) Act Amendment Act (No. 2) 1962 | 72 of 1962 | 30 Nov 1962 | 30 Nov 1962
-Motor Vehicle (Third Party Insurance) Act Amendment Act (No. 2) 1963 | 71 of 1963 | 17 Dec 1963 | 17 Dec 1963
-Motor Vehicle (Third Party Insurance) Act Amendment Act 1964 | 65 of 1964 | 4 Dec 1964 | 4 Dec 1964
-Motor Vehicle (Third Party Insurance) Act Amendment Act 1966 | 95 of 1966 | 12 Dec 1966 | s. 1, 2, 6-9, 19, 21: 1 Jul 1967 (see s. 2 and Gazette 5 May 1967 p. 1119); balance: 4 Dec 1967 (see s. 2 and Gazette 24 Nov 1967 p. 3195)
+Motor Vehicle (Third Party Insurance) Act Amendment Act 1961 | 70 of 1961 (10 Eliz. II No. 70) | 28 Nov 1961 | 28 Nov 1961
+Motor Vehicle (Third Party Insurance) Act Amendment Act 1962 | 57 of 1962 (11 Eliz. II No. 57) | 30 Nov 1962 | 30 Nov 1962
+Motor Vehicle (Third Party Insurance) Act Amendment Act (No. 2) 1962 | 72 of 1962 (11 Eliz. II No. 72) | 30 Nov 1962 | 30 Nov 1962
+Motor Vehicle (Third Party Insurance) Act Amendment Act (No. 2) 1963 | 71 of 1963 (12 Eliz. II No. 71) | 17 Dec 1963 | 17 Dec 1963
+Motor Vehicle (Third Party Insurance) Act Amendment Act 1964 | 65 of 1964 (13 Eliz. II No. 65) | 4 Dec 1964 | 4 Dec 1964
+Motor Vehicle (Third Party Insurance) Act Amendment Act 1966 | 95 of 1966 | 12 Dec 1966 | s. 1, 2, 6-9, 19, 21: 1 Jul 1967 (see s. 2 and Gazette 5 May 1967 p. 1119); s. 3-5, 10-18 and 20: 4 Dec 1967 (see s. 2 and Gazette 24 Nov 1967 p. 3195)
 Motor Vehicle (Third Party Insurance) Act Amendment Act 1967 | 37 of 1967 | 21 Nov 1967 | 4 Dec 1967 (see s. 2 and Gazette 24 Nov 1967 p. 3195)
 Reprint of the Motor Vehicle (Third Party Insurance) Act 1943 approved 14 Feb 1968 in Volume 21 of Reprinted Acts (includes amendments listed above)
 Motor Vehicle (Third Party Insurance) Act Amendment Act (No. 2) 1969 | 21 of 1969 | 7 May 1969 | 7 May 1969
@@ -60,9 +60,10 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 11: The Motor Vehicle (Third Party Insurance) Act 1943 as at 2 Dec 2005 (includes amendments listed above)
 Motor Vehicle (Third Party Insurance) Amendment Act 2006 | 15 of 2006 | 17 May 2006 | Act other than s. 5: 17 May 2006 (see s. 2(1)); s. 5: 1 Jul 2006 (see s. 2(2) and Gazette 16 Jun 2006 p. 2109)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Duties Legislation Amendment Act 2008 Sch. 1 cl. 23 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Legal Profession Act 2008 s. 682 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+Reprint 12: The Motor Vehicle (Third Party Insurance) Act 1943 as at 24 Apr 2009 (includes amendments listed above)
 For the purposes of s. 3C and 3D, the Amounts A, B, C and D for the financial years beginning after 30 June 1994 up to the date of this reprint are as set out in this Table.
 Financial year beginning | Amount A | Amount B | Amount C | Amount D | Gazette
 1 July 1994 | $201 000 | $10 000 | $30 000 | $5 000 | 24 Jun 1994 p. 2944
@@ -77,6 +78,9 @@ Financial year beginning | Amount A | Amount B | Amount C | Amount D | Gazette
 1 July 2003 | $249 000 | $12 500 | $38 000 | $5 000 | 23 May 2003 p. 1830
 1 July 2004 | $257 000 | $13 000 | $39 500 | $5 000 | 14 May 2004 p. 1459
 1 July 2005 | $268 000 | $13 500 | $41 000 | $5 000 | 22 Apr 2005 p. 1349
+1 July 2006 | $279 000 | $14 000 | $42 500 | $5 000 | 28 Apr 2006 p. 1670
+1 July 2007 | $292 000 | $14 500 | $44 500 | $5 000 | 3 Apr 2007 p. 1512
+1 July 2008 | $309 000 | $15 500 | $47 000 | $5 500 | 22 Apr 2008 p. 1546
 This provision was renumbered in the 1950 Reprint.
 The Motor Vehicle (Third Party Insurance) Amendment Act 1986 s. 4 reads as follows:
 “
@@ -139,3 +143,34 @@ transitional matter means a matter that needs to be dealt with for the purpose o
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State), the rights of that person existing before the day of its publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of its publication.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+action or proceedings16(1)
+Amount A3C(1)
+Amount B3C(1)
+Amount C3C(1)
+Amount D3D(7)
+Commission3(1)
+contract of insurance3(1)
+court16(1)
+Director General3(1)
+District Court3(1)
+driver3(1)
+emergency treatment12(4)
+Fund3(1)
+insured person3(1)
+Minister3(1)
+motor vehicle3(1), 4(9a)(b)
+non-pecuniary loss3C(1)
+owner3(1), 3G(3)
+pending action or proceedings16(1)
+policy of insurance3(1)
+proclaimed date16(1)
+the claimant29(2)
+the recalculation date3C(8), 3D(8)
+the relevant quarter3D(4)
+the Tribunal16(1)
+the ActSch.
+Traffic Act3(1)
+uninsured motor vehicle3(1)
