@@ -1,23 +1,23 @@
 Notes
-This is a compilation of the Dampier to Bunbury Pipeline Act 1997 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 24 April 2009 of the Dampier to Bunbury Pipeline Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Short title | Number and year | Assent | Commencement | Miscellaneous
-Dampier to Bunbury Pipeline Act 1997 | 53 of 1997 | 12 December 1997 | Sch 4, Div 1: operative 30 March 1998 (see clause 2 and Gazette 27 March 1998 p.1765); Sch 4, Div 4 (except cl. 16, 17(1) and (2), 18 and 20): operative on ‘pipeline transfer time’; 11.00 am 25 March 1998 (see Gazette 25 March 1998 p.1655); Sch 4, Div 6: operative 30 March 1998; (see clause 30 and Gazette 27 March 1998 p.1765); balance on Assent
-Gas Pipelines Access (Western Australia) Act 1998, section 89 (Schedule 3, Division 2) | 65 of 1998 | 15 January 1999 | Subdiv 2 of Div 2 of Sch 3: 9 February 1999 (see section 2 and Gazette 8 February 1999 p.441); Subdiv 3 of Div 2 of Sch 3 operative 1 January 2000 (see clause 5) | Clause 4(2) of Sch 3: transitional; Clause 9 of Sch 3: transitional
-Gas Corporation (Business Disposal) Act 1999, sections 41 to 44, 70 to 72, 87 and 88 | 58 of 1999 | 24 December 1999 | Sections 41 to 44: 24 December 1999 (see section 2(1)); sections 70 to 72 and 87 deemed operative immediately before a distribution licence is granted i.e. 1 July 2000 (see section 2(2) and Gazette 4 July 2000 p.3545); section 88 proclaimed 16 December 2000 (see section 2(5) and Gazette 15 December 2000 p.7201)
-Statutes (Repeals and Minor Amendments) Act 2000, section 14(13) | 24 of 2000 | 4 July 2000 | 4 July 2000 (see section 2) | This amendment does not have effect because the section it would have amended was repealed by Act No. 65 of 1998 s.89
+Short title | Number and year | Assent | Commencement
+Dampier to Bunbury Pipeline Act 1997 | 53 of 1997 | 12 Dec 1997 | Act other than Sch. 4 Div. 1, Div. 4 (except cl. 16, 17(1) and (2), 18 and 20) and Div. 6: 12 Dec 1997 (see s. 2); Sch. 4 Div. 1: 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765); Sch. 4 Div. 4 (except cl. 16, 17(1) and (2), 18 and 20): 11.00 am 25 Mar 1998 (see s. 2 and cl. 11 and Gazette 25 Mar 1998 p. 1655); Sch. 4 Div. 6: 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
+Gas Pipelines Access (Western Australia) Act 1998 Sch. 3 Div. 2 | 65 of 1998 | 15 Jan 1999 | Sch. 3 Div. 2 Subdiv. 2: 9 Feb 1999 (see s. 2 and Gazette 8 Feb 1999 p. 441); Sch. 3 Div. 2 Subdiv. 3: 1 Jan 2000 (see cl. 5)
+Gas Corporation (Business Disposal) Act 1999 s. 41-44, 70-72, 87 and 88 | 58 of 1999 | 24 Dec 1999 | s. 41-44: 24 Dec 1999 (see s. 2(1)); s. 70-72 and 87: 1 Jul 2000 (see s. 2(2) and Gazette 4 Jul 2000 p. 3545); s. 88: 16 Dec 2000 (see s. 2(5) and Gazette 15 Dec 2000 p. 7201)
+Reprint of the Dampier to Bunbury Pipeline Act 1997 as at 17 Nov 2000 (includes the amendments listed above except those in the Gas Corporation (Business Disposal) Act 1999 s. 88)
 Statute (Repeals and Minor Amendments) Act 2003 s. 10(2) | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-Short title changed to the Public Works Act 1902, and section 33A repealed, by the Acts Amendment (Land Administration) Act 1997 (No. 31 of 1997).
-Clause 4(2) of Schedule 3 to the Gas Pipelines Access (Western Australia) Act 1998 (No. 65 of 1998) reads as follows —
-“
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 43 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 2: The Dampier to Bunbury Pipeline Act 1997 as at 24 Apr 2009 (includes the amendments listed above)
+The Gas Corporation Act 1994 was repealed by the Gas Corporation (Business Disposal) Act 1999.
+The Gas Transmission Regulations 1994 were repealed by the Gas Transmission Repeal Regulations 1998.
+Short title changed to the Public Works Act 1902, and section 33A repealed, by the Acts Amendment (Land Administration) Act 1997.
+The Gas Pipelines Access (Western Australia) Act 1998 Sch. 3 cl. 4(2) reads as follows:
 (2) Any proceedings for the hearing and determination of a dispute by the referee, as defined in section 46 of the principal Act immediately before the commencement of clause 3, that have been commenced but not completed before that commencement, may be continued and determined by the referee, and any appeal may be brought and disposed of, as if clause 3 and this clause had not been enacted.
-”.
-Section 46 repealed by the Gas Pipelines Access (Western Australia) Act 1998 (No. 65 of 1998) s.89.
-Short title changed to the Public Works Act 1902 by the Acts Amendment (Land Administration) Act 1997 (No. 31 of 1997).
-Clause 9 of Schedule 3 of the Gas Pipelines Access (Western Australia) Act 1998 (No. 65 of 1998) reads as follows —
-“
+Section 46 repealed by the Gas Pipelines Access (Western Australia) Act 1998 Sch. 3 cl. 7.
+Short title changed to the Public Works Act 1902 by the Acts Amendment (Land Administration) Act 1997.
+The Gas Pipelines Access (Western Australia) Act 1998 Sch. 3 cl. 9 reads as follows:
 9.Transitional provisions
 (1) Despite the repeals effected by clauses 7 and 8, the repealed access scheme continues to apply in relation to the privatised DBNGP system, as defined in section 3 of the principal Act, until an Access Arrangement is approved under the Gas Pipelines Access (Western Australia) Law in relation to that system.
 (2) The Governor may make regulations —
@@ -31,4 +31,48 @@ repealed access scheme means —
 (b)Schedule 1 to that Act repealed by clause 8;
 (c)the Dampier to Bunbury Pipeline Regulations 1998; and
 (d)the Gas Referee Regulations 1995.
-”.
+The amendment in the Statutes (Repeals and Minor Amendments) Act 2000 s. 14(13) is not included because the section it sought to amend had been repealed by the Gas Pipelines Access (Western Australia) Act 1998 Sch. 3 Div. 2 before the amendment purported to come into operation.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+access20(5)
+Act Minister27(1)
+affected landSch. 2 cl. 1
+assets14
+assigned contract17(2)
+assigned DBNGP corridor27(1)
+assignee14
+bound recipient10(1)
+civil penalty condition38(6)
+condition37(2)
+Coordinator3
+corporation3
+corporation’s DBNGP system3
+corporation’s transmission business19(4)
+court38(6)
+DBNGP corridor27(1), Sch. 4 cl. 36(5) and 46(2)
+DBNGP Land Access Minister27(1), Sch. 4 cl. 36(5)
+effective date33(5a)
+exempt contract20(5)
+holder27(1)
+land holder42(4)
+liability14
+licence holderSch. 4 cl. 43(2)
+native title holder42(4)
+nominee27(1)
+operate34(2)
+pipeline transfer time3
+privatised DBNGP system3
+property holderSch. 4 cl. 43(2)
+ratesSch. 4 cl. 36(5)
+relevant official22(4), 44(3)
+right14
+right, title, or interest27(1)
+right, title, or interest in land42(4)
+specified16(2)
+State corridor rights27(1)
+statutory price20(5)
+the assignor19(2)
+transfer order14
+transfer time14
+utilised corridor landSch. 4 cl. 36(5)
