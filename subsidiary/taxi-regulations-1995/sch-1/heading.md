@@ -20,7 +20,7 @@ Item | Section of Act or Regulation | Description of Offence | Modified Penalty 
 16 | Regulation 8(2a) | Driver entering false or misleading information on fare voucher | 200
 17 | Regulation 8(3) | Directing driver to contravene fare regulations | 200
 18 | Regulation 9(2) and (3) | Offences relating to setting and stopping meter | 200
-19 | Regulation 9A | Hirer failing to pay fare at termination of hiring or as agreed | 100
+19 | Regulation 9A | Hirer failing to pay fare at termination of hiring or as agreed | 250
 20 | Regulation 11 | Driver failing to use most economical route | 100
 21 | Regulation 13(1) | Driver failing to accept hiring | 200
 22 | Regulation 13(3) | Driver terminating a hiring prior to reaching the agreed destination | 200
@@ -34,4 +34,4 @@ Item | Section of Act or Regulation | Description of Offence | Modified Penalty 
 30 | Regulation 17B | Driver failing to wear uniform, uniform not clean etc. | 200
 31 | Regulation 18(2) | Operating or driving taxi with an unsealed meter | 250
 32 | Regulation 18(4) and (5) | Offences relating to meters | 250
-[Schedule 1 inserted in Gazette 23 Jan 2004 p. 323-5; amended in Gazette 24 Feb 2006 p. 883.]
+[Schedule 1 inserted in Gazette 23 Jan 2004 p. 323-5; amended in Gazette 24 Feb 2006 p. 883; 24 Apr 2009 p. 1387.]
