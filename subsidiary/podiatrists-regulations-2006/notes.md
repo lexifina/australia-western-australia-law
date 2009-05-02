@@ -4,3 +4,4 @@ Compilation table
 Citation | Gazettal | Commencement
 Podiatrists Regulations 2006 | 13 Dec 2006 p. 5585-98 | r. 1-2: 13 Dec 2006; Regulations other than r. 1 and 2: 30 May 2007 (see r. 2 and Gazette 29 May 2007 p. 2486)
 Podiatrists Amendment Regulations 2008 | 1 Feb 2008 p. 263-4 | r. 1 and 2: 1 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Feb 2008 (see r. 2(b))
+Podiatrists Amendment Regulations 2009 | 1 May 2009 p. 1435-6 | r. 1 and 2: 1 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 2 May 2009 (see r. 2(b))
