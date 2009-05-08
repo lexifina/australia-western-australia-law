@@ -61,6 +61,9 @@ Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2008 | 1
 Real Estate and Business Agents (General) Amendment Regulations 2008 | 24 Jun 2008 p. 2886-7 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jun 2008 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations (No. 3) 2008 | 23 Dec 2008 p. 5465-7 | r. 1 and 2: 23 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Dec 2008 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations 2009 | 17 Apr 2009 p. 1319-23 | r. 1 and 2: 17 Apr 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Apr 2009 (see r. 2(b))
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2009 r. 3 and 4 | 8 May 2009 p. 1491-2 | 1 Jul 2009 (see r. 2(b))
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 4(2) (as amended in Gazette 13 Jan 2004 p. 146) reads as follows:
@@ -76,3 +79,14 @@ The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 5(2)
 “
 (2) Despite the amendment effected by subregulation (1), the qualification referred to in regulation 6A(c) of the Real Estate and Business Agents (General) Regulations 1979, as in force immediately before the commencement of these regulations, continues to be a prescribed qualification for the purposes of section 47(2) of the Act in respect of an application for registration as a real estate and business sales representative made under the Act on or before 1 January 2004.
 ”.
+On the date as at which this compilation was prepared, the Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2009 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Real Estate and Business Agents (General) Regulations 1979.
+4.Regulation 6 amended
+In regulation 6(1):
+(a) in paragraph (a) after “passed for” insert:
+the conferral of
+(b) before paragraph (b) insert:
+(ba) the examinations which are required by a registered training provider to be passed for the conferral of a Diploma of Property Services (Agency Management) CPP50307; or
+(c) in paragraph (b) delete “conferring” and insert:
+conferral
