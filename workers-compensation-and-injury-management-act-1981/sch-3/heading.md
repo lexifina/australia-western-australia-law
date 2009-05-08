@@ -19,7 +19,7 @@ Any dematosis, ulceration or injury to the skin or ulceration or injury to the m
 Epitheliomatous cancer or ulceration of skin or of the corneal surface of the eye due to tar, pitch, bitumen, mineral oil, paraffin, or the compounds, products or residues of those substances. | Handling of tar, pitch, bitumen, mineral oil, paraffin, or the compounds, products, or residues of those substances.
 *Pneumoconiosis | Any process entailing exposure to mineral dusts harmful to the lungs.
 Mesothelioma | Any process entailing substantial exposure to asbestos dust.
-Pathological manifestation due to — (a)radium and other radioactive substances | Any process involving exposure to the action of radium, radioactive substances, X-rays or lasers.
+Pathological manifestation due to — (a)radium and other radioactive substances; | Any process involving exposure to the action of radium, radioactive substances, X-rays or lasers.
 (b)X-rays;
 (c)lasers.
 Hepatitis B | Employment in a hospital or other medical centre or a dental hospital or dental centre or employment associated with a blood bank.
