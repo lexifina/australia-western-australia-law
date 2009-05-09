@@ -22,10 +22,11 @@ Gas Standards Act 1972
 Hire-Purchase Act 1959
 Land Valuers Licensing Act 1978
 Painters’ Registration Act 1961
+Real Estate and Business Agents Act 1978
 Residential Tenancies Act 1987
 Retail Trading Hours Act 1987
 Settlement Agents Act 1981
 Street Collections (Regulation) Act 1940
 Sunday Entertainments Act 1979
 Travel Agents Act 1985
-[Schedule 1A inserted in Gazette 14 Jul 2006 p. 2568-9; amended in Gazette 13 Nov 2007 p. 5696.]
+[Schedule 1A inserted in Gazette 14 Jul 2006 p. 2568-9; amended in Gazette 13 Nov 2007 p. 5696; 8 May 2009 p. 1502.]
