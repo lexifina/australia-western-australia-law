@@ -15,3 +15,13 @@ Health (Public Buildings) Amendment Regulations 2006 | 2 May 2006 p. 1701 | 1 Ju
 Reprint 2: The Health (Public Buildings) Regulations 1992 as at 25 Aug 2006 (includes amendments listed above)
 Health (Public Buildings) Amendment Regulations 2007 | 18 May 2007 p. 2254 | 1 Jul 2007 (see r. 2)
 Health (Public Buildings) Amendment Regulations 2008 | 4 Apr 2008 p. 1310 | r. 1 and 2: 4 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health (Public Building) Amendment Regulations 2009 r. 3 and 4 | 15 May 2009 p. 1630 | 1 Jul 2009 (see r. 2(b))
+On the date as at which this compilation was prepared, the Health (Public Building) Amendment Regulations 2009 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Health (Public Buildings) Regulations 1992.
+4.Schedule 1 amended
+In Schedule 1 delete “$766.” and insert:
+$794.
