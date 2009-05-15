@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 December 2008 of the Health (Offensive Trades Fees) Regulations 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health (Offensive Trades Fees) Regulations 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Offensive Trades (Fees) Regulations 1976 | 6 Feb 1976 p. 288-9 | 6 Feb 1976
@@ -14,5 +14,37 @@ Offensive Trades (Fees) Amendment Regulations 2006 | 2 May 2006 p. 1703-4 | 1 Ju
 Health (Offensive Trades Fees) Amendment Regulations 2007 | 18 May 2007 p. 2250-1 | 1 Jul 2007 (see r. 2)
 Health (Offensive Trades Fees) Amendment Regulations 2008 | 4 Apr 2008 p. 1305-6 | r. 1 and 2: 4 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Reprint 2: The Health (Offensive Trades Fees) Regulations 1976 as at 5 Dec 2008 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health (Offensive Trades Fees) Amendment Regulations 2009 r. 3 and 4 | 15 May 2009 p. 1627-8 | 1 Jul 2009 (see r. 2(b))
 Under the Local Government Act 1995 Sch. 9.3 cl. 3(2) a reference to a municipality under the Local Government Act 1960 may, where the context so requires, be read as if it had been amended to include or be a reference to a local government under the Local Government Act 1995. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Health (Offensive Trades Fees) Regulations 1976; citation changed (see note under r. 1).
+On the date as at which this compilation was prepared, the Health (Offensive Trades Fees) Amendment Regulations 2009 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Health (Offensive Trades Fees) Regulations 1976.
+4.Regulation 3 amended
+In regulation 3 delete the Table and insert:
+Table
+Offensive Trade | Fee ($)
+Slaughterhouses | 272
+Piggeries | 272
+Artificial manure depots | 193
+Bone mills | 156
+Places for storing, drying or preserving bones | 156
+Fat melting, fat extracting or tallow melting establishments — (a)Butcher shops and similar (b)Larger establishments | 156 272
+Blood drying | 156
+Gut scraping, preparation of sausage skins | 156
+Fellmongeries | 156
+Manure works | 193
+Fish curing establishments | 193
+Laundries, dry-cleaning establishments | 133
+Bone merchant premises | 156
+Flock factories | 156
+Knackeries | 272
+Poultry processing establishments | 272
+Poultry farming | 272
+Rabbit farming | 272
+Fish processing establishments in which whole fish are cleaned and prepared | 272
+Shellfish and crustacean processing establishments | 272
+Any other offensive trade not specified | 272
