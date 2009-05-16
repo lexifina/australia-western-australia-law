@@ -13,6 +13,7 @@ Reprint 1: The Taxation Administration Regulations 2003 as at 16 Mar 2007 (inclu
 Taxation Administration Amendment Regulations 2008 | 14 Mar 2008 p. 837 | r. 1 and 2: 14 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Mar 2008 (see r. 2(b))
 Taxation Administration Amendment Regulations (No. 2) 2008 | 22 Jul 2008 p. 3354-6 | r. 1 and 2: 22 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jul 2008 (see r. 2(b))
 Taxation Administration Amendment Regulations (No. 3) 2008 | 11 Nov 2008 p. 4845 | r. 1 and 2: 11 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Nov 2008 (see r. 2(b))
+Taxation Administration Amendment Regulations 2009 | 15 May 2009 p. 1639-43 | r. 1 and 2: 15 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 16 May 2009 (see r. 2(b))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. R. 1-4 and Pt. 7 Div. 2 of those regulations read as follows:
 “
 1.Citation
