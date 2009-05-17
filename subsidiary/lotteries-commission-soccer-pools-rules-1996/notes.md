@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 22 August 2008 of the Lotteries Commission (Soccer Pools) Rules 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Lotteries Commission (Soccer Pools) Rules 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Lotteries Commission (Soccer Pools) Rules 1996 | 13 Sep 1996 p. 4615-46 | 13 Sep 1996
@@ -14,6 +14,7 @@ Lotteries Commission (Soccer Pools) Amendment Rules 2006 | 29 Sep 2006 p. 4274-5
 Lotteries Commission (Soccer Pools) Amendment Rules 2007 | 26 Jun 2007 p. 3057-8 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Rules other than r. 1 and 2: 27 Jun 2007 (see r. 2(b))
 Lotteries Commission (Soccer Pools) Amendment Rules 2008 | 6 Jun 2008 p. 2323-46 | r. 1 and 2: 6 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jun 2008 (see r. 2(b))
 Reprint 2: The Lotteries Commission (Soccer Pools) Rules 1996 as at 22 Aug 2008 (includes amendments listed above)
+Lotteries Commission Amendment Rules 2009 Pt. 3 | 15 May 2009 p. 1632-5 | 17 May 2009 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

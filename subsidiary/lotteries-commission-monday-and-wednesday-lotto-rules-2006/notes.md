@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 March 2009 of the Lotteries Commission (Monday and Wednesday Lotto) Rules 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Lotteries Commission (Monday and Wednesday Lotto) Rules 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Lotteries Commission (Monday and Wednesday Lotto) Rules 2006 | 21 Apr 2006 p. 1611-45 | 27 Apr 2006 (see r. 2)
@@ -8,6 +8,7 @@ Lotteries Commission (Monday and Wednesday Lotto) Rules 2007 | 26 Jun 2007 p. 30
 Lotteries Commission (Monday and Wednesday Lotto) Amendment Rules 2008 | 6 Jun 2008 p. 2299-321 | r. 1 and 2: 6 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jun 2008 (see r. 2(b))
 Lotteries Commission (Monday and Wednesday Lotto) Amendment Rules (No. 2) 2008 | 3 Oct 2008 p. 4494-7 | r. 1 and 2: 3 Oct 2008 (see r. 2(a)); Rules other than r. 1 and 2: for Monday lotto – 7 Oct 2008 (see r. 2(b)(i)); for Wednesday lotto – 9 Oct 2008 (see r. 2(b)(ii))
 Reprint 1: The Lotteries Commission (Monday and Wednesday Lotto) Rules 2006 as at 20 Mar 2009 (includes amendments listed above)
+Lotteries Commission Amendment Rules 2009 Pt. 3 | 15 May 2009 p. 1632-5 | 17 May 2009 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
