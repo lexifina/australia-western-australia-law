@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 22 August 2008 of the Lotteries Commission (Cash 3) Rules 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Lotteries Commission (Cash 3) Rules 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Lotteries Commission (Cash 3) Rules 1998 | 4 Sep 1998 p. 4873-87 | 9 Nov 1998 (see r. 2)
@@ -11,6 +11,7 @@ Lotteries Commission (Cash 3) Amendment Rules 2005 | 5 Aug 2005 p. 3598-9 | 5 Au
 Lotteries Commission (Cash 3) Amendment Rules (No. 2) 2005 | 6 Sep 2005 p. 4128-9 | 12 Oct 2005 (see r. 2)
 Lotteries Commission (Cash 3) Amendment Rules 2008 | 6 Jun 2008 p. 2355-65 | r. 1 and 2: 6 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jun 2008 (see r. 2(b))
 Reprint 2: The Lotteries Commission (Cash 3) Rules 1998 as at 22 Aug 2008 (includes amendments listed above)
+Lotteries Commission (Cash 3) Amendment Rules 2009 | 15 May 2009 p. 1636-7 | r. 1 and 2: 15 May 2009 (see r. 2(a)); Rules other than r. 1 and 2: 17 May 2009 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
