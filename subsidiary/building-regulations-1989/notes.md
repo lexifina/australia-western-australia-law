@@ -41,6 +41,7 @@ Building Amendment Regulations 2008 | 4 Mar 2008 p. 738-9 | r. 1 and 2: 4 Mar 20
 Building Amendment Regulations (No. 2) 2008 | 18 Apr 2008 p. 1481 | r. 1 and 2: 18 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2008 (see r. 2(b))
 Building Amendment Regulations (No. 3) 2008 | 6 Jun 2008 p. 2179-88 | r. 1 and 2: 6 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b) and Gazette 6 Jun 2008 p. 2179)
 Building Amendment Regulations (No. 4) 2008 | 22 Jul 2008 p. 3353-4 | r. 1 and 2: 22 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jul 2008 (see r. 2(b))
+Building Amendment Regulations (No. 2) 2009 | 19 May 2009 p. 1663 | r. 1 and 2: 19 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 20 May 2009 (see r. 2(b))
 The Gas Corporation does not exist. The Act that established it was repealed by the Gas Corporation (Business Disposal) Act 1999 s. 93.
 The Building Amendment Regulations (No. 2) 2001 r. 7 reads as follows:
 “
