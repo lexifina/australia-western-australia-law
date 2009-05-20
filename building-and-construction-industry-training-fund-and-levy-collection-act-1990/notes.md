@@ -13,6 +13,7 @@ Building and Construction Industry Training Fund and Levy Collection Amendment A
 Reprint 2: The Building and Construction Industry Training Fund and Levy Collection Act 1990 as at 10 Sep 2004 (includes amendments listed above)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Building and Construction Industry Training Fund and Levy Collection Amendment Act 2009 Pt. 2 | 6 of 2009 | 19 May 2009 | 20 May 2009 (see s. 2(b))
 This Act shall be read as one with the Building and Construction Industry Training Levy Act 1990 (see s. 3 of that Act).
 The Building and Construction Industry Training Fund and Levy Collection Amendment Act 1998 s. 7(2) reads as follows:
 “
