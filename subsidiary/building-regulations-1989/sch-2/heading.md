@@ -9,7 +9,7 @@ Bassendean | Whole district | Whole district | Whole district
 Bayswater | Whole district | Whole district | Whole district
 Belmont | Whole district | Whole district | Whole district
 Beverley | Whole district | Whole district | Whole district
-Bridgetown- Greenbushes | Whole district | Whole district | Whole district
+Bridgetown-Greenbushes | Whole district | Whole district | Whole district
 Brookton | Whole district | Whole district | Whole district
 Broome | Whole district | All townsites | Whole district
 Broomehill | All townsites and area described in Note 1 | All townsites | Whole district
@@ -41,7 +41,7 @@ Dumbleyung | Townsites of Dumbleyung, Kukerin | Whole district | Whole district
 East Fremantle | Whole district | Whole district | Whole district
 Esperance | All townsites and lots measuring 10 ha or less | All townsites and lots measuring 10 ha or less | Whole district
 Fremantle | Whole district | Whole district | Whole district
-Geraldton- Greenough | Whole district | Whole district | Whole district
+Geraldton-Greenough | Whole district | Whole district | Whole district
 Gnowangerup | All townsites | All townsites | Whole district
 Gosnells | Whole district | Whole district | Whole district
 Hall’s Creek | Whole district | All townsites and area subject to Halls Creek Town Planning Scheme | Whole district
