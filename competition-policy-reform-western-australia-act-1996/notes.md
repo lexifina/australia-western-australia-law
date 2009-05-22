@@ -14,7 +14,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 2: The Competition Policy Reform (Western Australia) Act 1996 as at 2 Dec 2005 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 The Federal Courts (State Jurisdiction) Act 1999 s. 18, which would have amended this Act, did not come into operation and was repealed by the Acts Amendment (Federal Courts and Tribunals) Act 2001 s. 16.
-The Acts Amendment (Federal Courts and Tribunals) Act 2001 s. 39, which would have amended this Act, was expressed to come into operation on the commencement of Pt. 4-10 of the Administrative Review Tribunal Act 2001 of the Commonwealth. As that Commonwealth Act has not been passed, s. 39 has not come into operation.
+Section 39 of this Act had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 16.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
@@ -60,3 +60,42 @@ commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+acquisition of primary products by a government body under legislation15(3)
+application law3(1)
+Code40
+Commission3(1)
+Commissioner45
+Commonwealth administrative laws29
+Commonwealth Minister8(6)
+Competition Code3(1)
+Competition Code text3(1)
+Conduct Code Agreement3(1)
+Council3(1)
+cut-off date40
+Department45
+executive officer58(3)
+executive officer of the State Administrative Tribunal45
+existing contract40
+government body15(3)
+information60(3)
+instrument3(1)
+jurisdiction3(1)
+law3(1)
+licence15(3)
+matter45
+modifications3(1)
+month3(1)
+officer3(1)
+operative date40
+participating jurisdiction3(1)
+primary products15(3)
+Schedule version of Part IV3(1)
+State3(1)
+State matter45
+Territory3(1)
+this jurisdiction3(1)
+Trade Practices Act3(1)
+Tribunal3(1)
