@@ -15,4 +15,4 @@ Dated the day of , 20 .
 Member.
 Secretary.
 [Ninth Schedule amended by No. 113 of 1965 s. 8.]
-[Tenth Schedule repealed by No. 59 of 2004 s. 141.]
+[Tenth Schedule deleted by No. 59 of 2004 s. 141.]
