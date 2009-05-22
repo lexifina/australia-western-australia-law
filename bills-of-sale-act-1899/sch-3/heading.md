@@ -5,4 +5,4 @@ In consideration of (here set forth the consideration) the receipt whereof is he
 Dated this day of , 20 .
 Signed in the presence of —
 [Fifth Schedule deleted by No. 40 of 1957 s. 20.]
-[Sixth-Ninth Schedules repealed by No. 20 of 1986 s. 5.]
+[Sixth-Ninth Schedules deleted by No. 20 of 1986 s. 5.]
