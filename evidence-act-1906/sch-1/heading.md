@@ -87,7 +87,7 @@ s. 59A | Dangerous driving causing bodily harm
 s. 60 | Reckless driving
 s. 61 | Dangerous driving
 [Part 2 inserted by No. 48 of 1991 s. 10.]
-[Part 3 repealed by No. 70 of 2004 s. 82.]
+[Part 3 deleted by No. 70 of 2004 s. 82.]
 ## Part 4 — Offences under the Children and Community Services Act 2004
 [Heading inserted by No. 34 of 2004 s. 251.]
 Provision | Description of offence
@@ -103,4 +103,4 @@ s. 33(1) | Attempting to commit an indictable offence under section 6(1) or 7(1)
 s. 33(2) | Conspiring with another to commit an indictable offence under section 6(1) or 7(1)
 s. 33(3) | Inciting another to commit, or becoming an accessory after the fact to, a crime under section 6(1) or 7(1)
 [Part 5 inserted by No. 48 of 1991 s. 10; amended by No. 62 of 2004 s. 9(2).]
-[The Third Schedule repealed by No. 70 of 1988 s. 44.]
+[The Third Schedule deleted by No. 70 of 1988 s. 44.]
