@@ -25,4 +25,4 @@ BELOW THIS LINE FOR OFFICE USE ONLY
  | Initials of Signing Officer. | REGISTRAR OF TITLES
 EXAMINED.
 [Nineteenth Schedule inserted in Gazette 24 Feb 1970 p. 544-5; amended by No. 31 of 1997 s. 133.]
-[Twentieth to Twenty-third Schedules repealed by No. 81 of 1996 s. 151.]
+[Twentieth to Twenty-third Schedules deleted by No. 81 of 1996 s. 151.]

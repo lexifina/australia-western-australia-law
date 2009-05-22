@@ -13,4 +13,4 @@ General Conditions of Sale
 8.That the purchaser shall pay or bear the expense of all duty under the Duties Act 2008 on or in respect of the acceptances or notes provided for by the contract and of the transfer to him.
 9.The vendor shall not at any time be required by any purchaser or purchasers at the present sale to join in erecting any dividing fence upon any part of the land sold or offered for sale nor shall the vendor be liable at any time to contribute towards the expense of erecting any such dividing fence whether the land now offered for sale be sold or not; but this condition shall not prejudice or affect the rights of purchasers as to dividing fences as between themselves and all other parties except the vendor.
 [Twenty-sixth Schedule amended by No. 113 of 1965 s. 8; No. 12 of 2008 s. 52.]
-[Twenty-seventh Schedule repealed by No. 25 of 1909 s. 2.]
+[Twenty-seventh Schedule deleted by No. 25 of 1909 s. 2.]
