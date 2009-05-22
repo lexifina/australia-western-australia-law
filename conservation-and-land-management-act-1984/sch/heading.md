@@ -9,7 +9,7 @@
 (c) he is removed from office by the Governor on the grounds of neglect of duty, misbehaviour, incompetence or mental or physical incapacity impairing the performance of his duties.
 3.(1)Where the chairman and the deputy chairman of a controlling body are both unable to act as chairman by reason of sickness, absence or other cause, the Minister may appoint a person (including a person acting under subclause (2)) to act as chairman, and while so acting according to the tenor of his appointment that person has all the functions of the chairman.
 (2) Where a member is unable to act by reason of sickness, absence or other cause, the Minister may appoint another person to act in his place, and while so acting according to the tenor of his appointment that other person is deemed to be a member.
-[(3)repealed]
+[(3)deleted]
 (4) No act or omission of a person acting in place of another under this clause shall be questioned on the ground that the occasion for his appointment or acting had not arisen or had ceased.
 (5) The appointment of a person as an acting member or an acting chairman may be terminated at any time by the Minister.
 4.(1)The first meeting of a controlling body shall be convened by the chairman of that body and thereafter, subject to subclause (2), meetings shall be held at such times and places as the body determines.
