@@ -42,49 +42,26 @@ Police Amendment Act 2008 s. 19 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 5 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Security and Related Activities (Control) Amendment Act 2008 s. 82 | 4 of 2008 | 2 Apr 2008 | To be proclaimed (see s. 2(b))
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 s. 34, 34B and 40 were repealed by the Young Offenders Act 1994, which was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
 Under the Alteration of Statutory Designations Order 2007 a reference in any law to the Department of Community Development is, unless the contrary is intended, to be read and construed as a reference to the Department for Child Protection.
-On the date as at which this compilation was prepared, the Children and Community Services Act 2004 Sch. 2 cl. 25, had not come into operation. It reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-25.Spent Convictions Act 1988 amended
-(1) The amendments in this clause are to the Spent Convictions Act 1988.
-(2) Schedule 3 is amended in the Table to clause 2(1) as follows:
-(a) in item 3 by deleting “or permit to provide a child care service under the Community Services Act 1972.” and inserting instead —
-“
-to provide a child care service under Part 8 of the Children and Community Services Act 2004.
-”;
-(b) in item 5 by deleting “for licensing as a foster parent under the Child Welfare Act 1947.” and inserting instead —
-“
-for approval in relation to the placement of a child under the Children and Community Services Act 2004.
-”.
-”.
-The amendments to items 3 and 5 in the table to Sch. 3 cl. 2(1) in the Children and Community Services Act 2004 s. 251 would conflict with amendments in the Spent Convictions (Act Amendment) Regulations 2005 (see Gazette 31 May 2005 p. 2420).
+The Children and Community Services Act 2004 Sch. 2 cl. 25 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 32(4).
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 5 had not come into operation. It reads as follows:
-“
 Part 3 — Attorney General, and Justice
 Division 5 — Spent Convictions Act 1988
 42.The Act amended
 The amendments in this Division are to the Spent Convictions Act 1988.
 43.Schedule 3 amended
 Schedule 3 clause 1 item 10 of the Table is amended by deleting “Community and Juvenile Justice Division or the Prisons Division of the Department of Justice” and inserting instead —
-“
 department of the Public Service principally assisting in the administration of this Act
-”.
-”.
 The amendment to item 10 in the table to Sch. 3 cl. 1 in the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 5 would conflict with amendments in the Prisons and Sentencing Legislation Amendment Act 2006 s. 70.
 On the date as at which this compilation was prepared, the Security and Related Activities (Control) Amendment Act 2008 s. 82 had not come into operation. It reads as follows:
-“
 82.Spent Convictions Act 1988 amended
 (1) The amendments in this section are to the Spent Convictions Act 1988.
 (2) Schedule 3 clause 1(1) is amended in the Table by deleting item 8 and inserting instead —
 “
 8.A person who holds a licence or permit, or who is applying for the issue or renewal of a licence or permit, under the Security and Related Activities (Control) Act 1996. | Section 22 and Division 4
-”.
-”.
