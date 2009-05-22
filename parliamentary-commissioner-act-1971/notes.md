@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 October 2008 of the Parliamentary Commissioner Act 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Parliamentary Commissioner Act 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Parliamentary Commissioner Act 1971 | 64 of 1971 | 22 Dec 1971 | 12 May 1972 (see s. 2 and Gazette 12 May 1972 p. 1043)
@@ -108,7 +108,6 @@ Reprint 8: The Parliamentary Commissioner Act 1971 as at 3 Oct 2008 (includes am
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Conservation and Land Management Amendment Act 1991 Sch. It. 6 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -116,12 +115,9 @@ Under the Liquor Control Act 1988 Sch. 1A cl. 9 a reference to the Liquor Licens
 The Health Legislation Administration Act 1984 s. 6(1) was amended by the Mental Health (Consequential Provisions) Act 1996 s. 38 to replace the office of Director, Psychiatric Services with the office of Chief Psychiatrist.
 The amendments in the R & I Holdings Act 1990 s. 22(3)(a)(i), the Caravan Parks and Camping Grounds Act 1995 Sch. 2 it. 5, the Vocational Education and Training Act 1996 Sch. 3 it. 28, the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 10 and the Mental Health (Consequential Provisions) Act 1996 Pt. 14 are not included because the Schedule they sought to amend had been repealed before the amendments purported to come into operation.
 The Statutes (Repeals and Minor Amendments) Act 2003 s. 91(5) and (7) read as follows:
-“
 (5) The amendments made by subsections (2) and (3) do not affect the appointment, or terms and conditions of service, of a person appointed and holding office under section 9 of the Parliamentary Commissioner Act 1971, as in force immediately before the commencement of this section, except that the person is taken to have been appointed under section 9 of that Act, as amended by this section.
 (7) The purported exercises by the Governor of the power conferred by section 9(1) of the Parliamentary Commissioner Act 1971, as in force immediately before the commencement of this section, to appoint officers on secondment are validated and all such appointments are taken to be secondments effected by the Commissioner under section 9(2a) of the Parliamentary Commissioner Act 1971 as if that subsection had been in force at the time the appointments were purportedly made.
-”.
 The Corruption and Crime Commission Amendment and Repeal Act 2003 s. 73 reads as follows:
-“
 73.Parliamentary Commissioner must refer certain investigations to CCC
 (1) In this section —
 records includes —
@@ -132,28 +128,16 @@ records includes —
 (b) refer the investigation to the CCC; and
 (c) transfer to the CCC any records in the possession of the Parliamentary Commissioner immediately before the commencement of this Division that relate to an investigation referred to in section 14(1a) of the Parliamentary Commissioner Act 1971.
 (3) Records transferred under subsection (1) become the records of the CCC and may be dealt with accordingly.
-”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Conservation and Land Management Amendment Act 1991 Sch. It. 6 had not come into operation. It reads as follows:
-“
-6.Parliamentary Commissioner Act 1971 | In the Schedule, after the item relating to the Coal Miners’ Welfare Board of Western Australia, the following item is inserted — “Nature Conservation Trust of Western Australia established under Part IXA of the Conservation and Land Management Act 1984. ”.
-”.
-The Schedule that it seeks to amend has been repealed.
-As at the date on which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
+The Conservation and Land Management Amendment Act 1991 Sch. It. 6 had not come into operation when it was deleted by the Statutes (Repeal and Miscellaneous Amendment) Act 2009 s. 35(3).
+As at the date on which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3Consequential provisions
 Schedule 2 has effect.
-”.
 Schedule 2 cl. 48 reads:
-“
 48.Schedule 1 amended
 Schedule 1 to the Parliamentary Commissioner Act 1971 is amended by inserting in the appropriate alphabetical position the following —
-“
 The Native Title Commission established by the Native Title (State Provisions) Act 1999.
-”.
-”.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
-“
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
@@ -161,7 +145,6 @@ Act | Provision
 .............................................. | ................
 Parliamentary Commissioner Act 1971 | s. 10(2)
 .............................................. | ................
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
