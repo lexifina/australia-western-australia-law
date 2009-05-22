@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 October 2008 of the Pawnbrokers and Second-hand Dealers Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Pawnbrokers and Second-hand Dealers Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Pawnbrokers and Second-hand Dealers Regulations 1996 | 29 Mar 1996 p. 1557-76 | 1 Apr 1996 (see r. 2)
@@ -24,6 +24,7 @@ Pawnbrokers and Second-hand Dealers Amendment Regulations (No. 2) 2007 | 29 Jun 
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2008 | 16 May 2008 p. 1912-13 | r. 1 and 2: 16 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 17 May 2008 (see r. 2(b))
 Pawnbrokers and Second-hand Dealers Amendment Regulations (No. 2) 2008 | 24 Jun 2008 p. 2907-9 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Reprint 3: The Pawnbrokers and Second-hand Dealers Regulations 1996 as at 10 Oct 2008 (includes amendments listed above)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 29 assented to 21 May 2009 | 22 May 2009 (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
 Repealed by the Financial Sector (Collection of Data — Consequential and Transitional Provisions) Act 2001 of the Commonwealth.
 Formerly referred to the Liquor Licensing Regulations 1989 the citation of which was changed to the Liquor Control Regulations 1989 by the Liquor Licensing Amendment Regulations 2007 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
