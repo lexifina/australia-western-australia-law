@@ -69,7 +69,7 @@ Lot/location No.:
 Certificate of Title | Volume: | Folio:
 Details of work | o New building Type of building (e.g.: residential, shop, factory, warehouse):
 o Alteration or addition to existing building Type of alteration or addition (e.g.: carport, bedroom, second storey, store room, office, toilet, games room):
-The building work permitted by this licence — •must be carried out in accordance with the plans, drawings and specifications submitted with Application for Building Licence no. ; and •must be carried out in accordance with the conditions set out on the back of this licence. If the building work permitted by this licence is not substantially commenced within 12 months of the date of this licence, the licence will become void. The building has been assessed as being of Class(es)
+The building work permitted by this licence — •must be carried out in accordance with the plans, drawings and specifications submitted with Application for Building Licence no.; and •must be carried out in accordance with the conditions set out on the back of this licence. If the building work permitted by this licence is not substantially commenced within 12 months of the date of this licence, the licence will become void. The building has been assessed as being of Class(es)
 Building surveyor of the local government | Name:
 Signature: | Date:
 Note: The licensee must produce this licence and the approved plans, drawings and specifications whenever requested by the building surveyor of the local government.
@@ -89,14 +89,14 @@ Certificate of Title | Volume: | Folio:
 Details of work | o New building Type of building (e.g.: residence, shop, factory, warehouse):
 o Alteration or addition to existing building Type of alteration or addition (e.g.: carport, bedroom, second storey, store room, office, toilet, games room):
 o Temporary building Type of building (e.g.: marquee, grandstand, stage):
-The building work permitted by this licence must be carried out in accordance with — •the plans, drawings and specifications submitted with Application for Building Licence no. ; and •the conditions set out on the back of this licence. The building has been assessed as being of Class(es)
+The building work permitted by this licence must be carried out in accordance with — •the plans, drawings and specifications submitted with Application for Building Licence no ; and •the conditions set out on the back of this licence. The building has been assessed as being of Class(es)
 Building surveyor of the local government | Name:
 Signature: | Date:
 Note: The licensee must produce this licence and the approved plans, drawings and specifications whenever requested by the building surveyor of the local government.
 Back of Form 5
 CONDITIONS
 This licence is subject to the following conditions. If you are dissatisfied with these conditions you may apply to the State Administrative Tribunal for a review under section 399 of Local Government (Miscellaneous Provisions) Act 1960.
-[Form 5 inserted in Gazette 20 Jun 1997 p. 2831-2; amended in Gazette 30 Dec 2004 p. 6949; 6 Jun 2008 p. 2186 .]
+[Form 5 inserted in Gazette 20 Jun 1997 p. 2831-2; amended in Gazette 30 Dec 2004 p. 6949; 6 Jun 2008 p. 2186.]
 Form 6. Licence to deposit building material on, or excavate near, a street
 Local Government (Miscellaneous Provisions) Act 1960, s. 377 Building Regulations 1989, reg. 25 LICENCE TO DEPOSIT BUILDING MATERIAL ON, OR EXCAVATE NEAR, A STREET | Licence no.: ____________
 Local Government:
@@ -106,9 +106,9 @@ Property where building to be built or excavation to be carried out | Address | 
 Suburb: | Postcode:
 Lot/location No.:
 Certificate of Title | Volume: | Folio:
-Details of deposit or excavation | o Deposit of building material on a street Type of material:____________________________________________________ Name of street:____________________________________________________ mPart of street (e.g.: outside No. 10): ______________________________________ ___________________________________________________________
-o Excavation near a street Reason for excavation: _____________________________________________ Name of street: _____________________________________________ Part of street likely to be affected (e.g.: outside No. 10): _______________________ ___________________________________________________________
-Period during which part of street may be enclosed: _____________________________ to ___________________________________
+Details of deposit or excavation | o Deposit of building material on a street Type of material: Name of street: Part of street (e.g.: outside No. 10):
+o Excavation near a street Reason for excavation: Name of street: Part of street likely to be affected (e.g.: outside No. 10):
+Period during which part of street may be enclosed: _____________________________ to
 Maximum area of the street which may be enclosed: Frontage:____________ m Width:____________ m Height:____________ m.
 The deposit of building material or excavation permitted by this licence must be carried out in accordance with the conditions set out on the back of this licence.
 Deposit | The local government acknowledges receipt of a deposit of $ __________ paid by the licensee under section 377(4) of the Act.

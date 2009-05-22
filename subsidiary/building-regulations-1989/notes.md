@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 22 May 2009 of the Building Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Building Regulations 1989 | 28 Jul 1989 p. 2261-93 | 28 Jul 1989 (see r. 2)
@@ -42,9 +42,9 @@ Building Amendment Regulations (No. 2) 2008 | 18 Apr 2008 p. 1481 | r. 1 and 2: 
 Building Amendment Regulations (No. 3) 2008 | 6 Jun 2008 p. 2179-88 | r. 1 and 2: 6 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b) and Gazette 6 Jun 2008 p. 2179)
 Building Amendment Regulations (No. 4) 2008 | 22 Jul 2008 p. 3353-4 | r. 1 and 2: 22 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jul 2008 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2009 | 19 May 2009 p. 1663 | r. 1 and 2: 19 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 20 May 2009 (see r. 2(b))
+Reprint 6: The Building Regulations 1989 as at 22 May 2009 (includes amendments listed above)
 The Gas Corporation does not exist. The Act that established it was repealed by the Gas Corporation (Business Disposal) Act 1999 s. 93.
 The Building Amendment Regulations (No. 2) 2001 r. 7 reads as follows:
-“
 7.Transitional
 (1) In this regulation —
 access through a building not of Class 10a means access between the area within an enclosure and a part of a building, other than a Class 10a building under the Building Code, to which there is direct or indirect access from outside the enclosure;
@@ -58,9 +58,7 @@ transitional period means the period beginning on the day on which these regulat
 (a) the door or window may not satisfy the requirements of Australian Standard AS 1926.1; and
 (b) the door may not have been approved by the local government.
 (3) If a swimming pool was installed before 28 July 1989, during the transitional period a gate in its enclosure may open in any direction.
-”.
 The Building Amendment Regulations 2002 r. 5 reads as follows:
-“
 5.Transitional
 (1) In this regulation —
 pre-July 1992 pool means a swimming pool that —
@@ -72,4 +70,26 @@ transitional period means the period beginning on the day on which these regulat
 (2) During the transitional period, despite regulation 38B(3) of the Building Regulations 1989 a building may be included within the area enclosed for a pre-July 1992 pool even though —
 (a) the building is not a Class 10a building under the Building Code; and
 (b) any external door or window in the building does not satisfy the requirements of Australian Standard AS 1926.1.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+access through a building38A
+Act3(1)
+approved3(1)
+Australian Standard AS 1926.138A
+builder3(1)
+Building Code3(1)
+building product11(1b)
+CodeMark certificate11(1b)
+district3(1)
+Fire Brigades Board3(1)
+footing3(1)
+Form3(1)
+local government3(1)
+owner3(1)
+performance requirements3(1)
+person with a disability38C(3)
+relevant electricity corporation31(2)
+repair3(1)
+swimming pool38A
+young child38A
