@@ -25,7 +25,7 @@ Acts Amendment (Equality of Status) Act 2003 Pt. 38 | 28 of 2003 | 22 May 2003 |
 Statutes (Repeals and Minor Amendments) Act 2003 s. 79 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 2: The Local Government Act 1995 as at 2 Apr 2004 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001) (correction in Gazette 1 Oct 2004 p. 4283)
 Workers’ Compensation Reform Act 2004 s. 165 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
-Local Government Amendment Act 2004 s. 4-15, 16(4), 17, 18, 19(1), 21-37, 38(1) and (2) and 39-74 16-19 | 49 of 2004 | 12 Nov 2004 | s. 17, 30-37, 38(1) and (2) and 39-41: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); s. 10-15, 18, 21, 22, 42, 46(3), 47, 48, 53, 55-58, 61-64, 67, 68, 70, 71, 73 and 74: 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029); s. 4-9, 16(4), 19(1), 23-29, 43-45, 46(1), (2) and (4), 49-52, 54, 65, 66, 69 and 72: 7 May 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029 and 29 Apr 2005 p. 1771); Proclamation published 31 Mar 2005 p. 1029 revoked to the extent that the proclamation applies to s. 16(1), (2), (3) and (5) and s. 19(2) (see Gazette 29 Apr 2005 p. 1771); s. 59 and 60: 1 Jul 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
+Local Government Amendment Act 2004 s. 4-15, 16(4), 17, 18, 19(1), 21-37, 38(1) and (2) and 39-74 16-19 | 49 of 2004 (as amended by No. 8 of 2009 s. 88) | 12 Nov 2004 | s. 17, 30-37, 38(1) and (2) and 39-41: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); s. 10-15, 18, 21, 22, 42, 46(3), 47, 48, 53, 55-58, 61-64, 67, 68, 70, 71, 73 and 74: 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029); s. 4-9, 16(4), 19(1), 23-29, 43-45, 46(1), (2) and (4), 49-52, 54, 65, 66, 69 and 72: 7 May 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029 and 29 Apr 2005 p. 1771); Proclamation published 31 Mar 2005 p. 1029 revoked to the extent that the proclamation applies to s. 16(1), (2), (3) and (5) and s. 19(2) (see Gazette 29 Apr 2005 p. 1771); s. 59 and 60: 1 Jul 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029) s. 16(1), (2), (3) & (5) deleted by No. 8 of 2009 s. 88
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
  | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 76 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 11 and s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
@@ -41,10 +41,11 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 | 11 of 2007 | 29 Jun 2007 | 1 Jul 2008 (see s. 2 and Gazette 6 Jun 2008 p. 2179)
  | Reprint 4: The Local Government Act 1995 as at 18 Jan 2008 (includes amendments listed above, except those in the Local Government (Miscellaneous Provisions) Amendment Act 2007)
  | Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+ | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 87 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
-Local Government Amendment Act 2004 s. 16(1)-(3) and (5), 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
+Local Government Amendment Act 2004 s. 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Petroleum Amendment Act 2007 s. 99 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Footnote no longer applicable.
 Repealed by the Mining Act 1978.
@@ -255,14 +256,9 @@ the LG Act means the Local Government Act 1995.
 (3) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.78 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.78.
 ”.
 References to the Executive Director were replaced by references to the Departmental CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
-On the date as at which this compilation was prepared, the Local Government Amendment Act 2004 s. 16(1)-(3) and (5), 19(2), 20 and 38(3) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Local Government Amendment Act 2004 s. 19(2), 20 and 38(3) had not come into operation. They read as follows:
 “
 Part 4 — Other amendments
-16.Amendments about special majority
-(1) Section 1.4 is amended by deleting the definition of “75% majority”.
-(2) Section 5.17(1)(a)(i) is amended by deleting “or a 75% majority”.
-(3) Section 5.43(a) is amended by deleting “or a 75% majority”.
-(5) Schedule 2.4 clause 6(3) is amended by deleting “or a special majority”.
 19.Section 2.25 amended
 (2) Section 2.25(4) is amended by inserting before “is disqualified” —
 “

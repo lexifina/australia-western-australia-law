@@ -248,10 +248,10 @@ Legal Profession Act 2008 s. 650 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Eastern Goldfields Transport Board Repeal Act 2008 s. 12 | 28 of 2008 | 1 Jul 2008 | 29 Jul 2008
 Reprint 16: The Constitution Acts Amendment Act 1899 as at 16 Jan 2009 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 51 and the Legal Profession Act 2008)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 37 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Conservation and Land Management Amendment Act 1991 s. 57 | 20 of 1991 | 25 Jun 1991 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 and 35 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative at “transfer time” fixed under the State Superannuation Act 2000 s. 56 (see s. 2(1)(c))
@@ -347,15 +347,7 @@ by reason only of a conviction that occurred before the commencement.
 (5) In subsection (4) —
 commencement means the commencement of this section.
 ”.
-On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 1991 s. 57, which gives effect to the Schedule, had not come into operation. It reads as follows:
-“
-57.Consequential amendments to other Acts
-The Acts referred to in the column of the Schedule are amended in the manner set out in the second column.
-”.
-Item 1 of the Schedule reads as follows:
-“
-1.Constitution Acts Amendment Act 1899 | In Schedule V, in Part 3, the following item is inserted in the appropriate alphabetical position — “The Nature Conservation Trust of Western Australia established under Part IXA of the Conservation and Land Management Act 1984.”.
-”.
+The Conservation and Land Management Amendment Act 1991 s. 57 had not come into operation when it was deleted by the Statutes (Repeal and Miscellaneous Amendment) Act 2009 s. 35(3).
 On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3Consequential amendments

@@ -21,6 +21,7 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 6 Div. 2 | 28 of
 Reprint 3: The Energy Coordination Act 1994 as at 18 Aug 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Gas and Electricity Safety Legislation Amendment Act 2007 Pt. 3 | 5 of 2007 | 18 Apr 2007 | 1 Dec 2007 (see s. 2 and Gazette 30 Nov 2007 p. 5927)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 52 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 The Energy Legislation Amendment Act 2003 Pt. 3 Div. 3 (other than s. 19) reads as follows:
 “
 Part 3 — Amendments to facilitate a contestable retail gas market, and related transitional provisions

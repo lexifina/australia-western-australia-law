@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 March 2008 of the Fire and Emergency Services Authority of Western Australia Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fire and Emergency Services Authority of Western Australia Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fire and Emergency Services Authority of Western Australia Act 1998 | 41 of 1998 | 4 Nov 1998 | s. 1 and 2: 4 Nov 1998; Act other than s. 1 and 2: 1 Jan 1999 (see s. 2 and Gazette 22 Dec 1998 p. 6833)
@@ -13,6 +13,7 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Petroleum Amendment Act 2007 s. 93 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Reprint 2: The Fire and Emergency Services Authority of Western Australia Act 1998 as at 14 Mar 2008 (includes amendments as listed above)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 57 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Repealed by the Mining Act 1978.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 49 reads as follows:

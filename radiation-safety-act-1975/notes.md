@@ -20,6 +20,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 2: The Radiation Safety Act 1975 as at 4 Nov 2005 (includes amendments listed above)
 Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | 1 Jul 2007 (see s. 2 and Gazette 26 Jun 2007 p. 3013)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 107 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. (b))
 Repealed by the Interpretation Act 1984.
 The Radiation Safety (General) Regulations 1983 were published in Gazette 21 Feb 1983 p. 555-636.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.

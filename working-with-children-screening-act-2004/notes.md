@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 November 2008 of the Working with Children (Criminal Record Checking) Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Working with Children (Criminal Record Checking) Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Working with Children (Criminal Record Checking) Act 2004 | 65 of 2004 | 8 Dec 2004 | s. 1 and 2: 8 Dec 2004; Act other than s. 1, 2 and 50-52: 1 Jan 2006 (see s. 2 and Gazette 30 Dec 2005 p. 6875); s. 50-52: 1 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
@@ -9,12 +9,13 @@ Criminal Law and Evidence Amendment Act 2008 s. 74 | 2 of 2008 | 12 Mar 2008 | 2
 Criminal Law Amendment (Homicide) Act 2008 s. 40 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(c) and (d) and Gazette 22 Jul 2008 p. 3353)
 Community Protection (Offender Reporting) Amendment Act 2008 s. 13 | 27 of 2008 | 1 Jul 2008 | 2 Jul 2008 (see s. 2(b))
 Reprint 1: The Working with Children (Criminal Record Checking) Act 2004 as at 14 Nov 2008 (includes amendments listed above)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 140 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-On the date as at which this reprint was prepared, the Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 had not come into operation. It reads as follows:
 “
 Schedule 1 — Consequential amendments
 [s. 65]
@@ -57,7 +58,7 @@ s. 18(1) and (2) | s. 42(2)
 s. 19(1), (9) and (10) | s. 44(3), (4) and (5)
 s. 20(2), (3), (5) and (6) | s. 45(1), (3), (4) and (6)
 ”.
-On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 35 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 35 had not come into operation. It reads as follows:
 “
 35.Working with Children (Criminal Record Checking) Act 2004 amended
 (1) The amendments in this section are to the Working with Children (Criminal Record Checking) Act 2004.

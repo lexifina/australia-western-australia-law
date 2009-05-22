@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 January 2007 of the Trustees Act 1962 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Trustees Act 1962 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Trustees Act 1962 | 78 of 1962 (11 Eliz. II No. 78) | 6 Dec 1962 | 1 Jan 1963 (see s. 2)
@@ -20,8 +20,9 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 122 | 74 of 2003 | 15 Dec 20
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Limitation Legislation Amendment and Repeal Act 2005 s. 23 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
 Reprint 4: The Trustees Act 1962 as at 19 Jan 2007 (includes amendments listed above)
+ | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 126 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Interpretation Act 1918 repealed by the Interpretation Act 1984.
 Repealed by this Act; see Sch. 1.
 There is no Bills of Exchange Act 1903 (Cwlth). See Bills of Exchange Act 1909 (Cwlth).
 Imperial Acts Adopting Ordinance 1867 (31 Vict. No. 8).
-Marginal notes in the Trustees Act 1962 referring to legislation of other jurisdictions have been omitted from this reprint.
+Marginal notes in the Trustees Act 1962 referring to legislation of other jurisdictions have been omitted from this compilation.

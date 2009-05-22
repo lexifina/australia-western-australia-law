@@ -13,6 +13,7 @@ Law Reform (Miscellaneous Provisions (Asbestos Diseases)) Act 2002 | 1 of 2002 |
 Reprint of the Law Reform (Miscellaneous Provisions) Act 1941 as at 12 Jul 2002 (includes amendments listed above)
 Acts Amendment (Equality of Status) Act 2003 s. 116 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 7 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 84 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 The Supreme Court Act 1935 s. 94 was repealed by the Matrimonial Causes and Personal Status Code 1948 s. 3.
 The Imperial Act 9 and 10 Vict c. 93 (1846) was adopted by the Imperial Acts Adopting Ordinance 1849 (12 Vict. No. 21) and amended by Act No. 37 of 1900. It was repealed in so far as it was part of the law of WA by the Fatal Accidents Act 1959 s. 2.
 The Limitation Legislation Amendment and Repeal Act 2005 s. 15(4) reads as follows:

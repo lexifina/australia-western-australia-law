@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 February 2006 of the Home Building Contracts Act 1991 and includes the amendments made by the other written laws referred to in the following tablea. The table also contains information about any reprint.
+This is a compilation of the Home Building Contracts Act 1991 and includes the amendments made by the other written laws referred to in the following tablea. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Home Building Contracts Act 1991 | 61 of 1991 | 30 Dec 1991 | 4 Apr 1992 (see s. 2 and Gazette 3 Apr 1992 p. 1461)
@@ -18,7 +18,8 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 66 | 74 of 2003 | 15 Dec 200
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Home Building Contracts Act 1991 as at 10 Feb 2006 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 75 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Caravan Parks and Camping Grounds Act 1995 s. 33 | 34 of 1995 | 29 Sep 1995 | To be proclaimed (see s. 2)
@@ -30,7 +31,7 @@ A reference in any written law to the Building Disputes Committee constituted un
 (1) The Minister is to carry out a review of the operation and effectiveness of the amendments made by this Act as soon as is practicable after the expiration of 3 years from the commencement of section 1 of this Act.
 (2) The Minister is to prepare a report based on the review made under subsection (1) and, as soon as is practicable after the report is prepared, is to cause it to be laid before each House of Parliament.
 ”.
-On the date as at which this reprint was prepared, the Caravan Parks and Camping Grounds Act 1995 s. 33, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Caravan Parks and Camping Grounds Act 1995 s. 33, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 33.Consequential amendments
 The Acts referred to in the first column of Schedule 2 are amended in the manner set out in the second column of that Schedule.

@@ -1,8 +1,8 @@
 Notes
-This reprint is a compilation as at 24 April 2009 of the Dampier to Bunbury Pipeline Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Dampier to Bunbury Pipeline Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Dampier to Bunbury Pipeline Act 1997 | 53 of 1997 | 12 Dec 1997 | Act other than Sch. 4 Div. 1, Div. 4 (except cl. 16, 17(1) and (2), 18 and 20) and Div. 6: 12 Dec 1997 (see s. 2); Sch. 4 Div. 1: 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765); Sch. 4 Div. 4 (except cl. 16, 17(1) and (2), 18 and 20): 11.00 am 25 Mar 1998 (see s. 2 and cl. 11 and Gazette 25 Mar 1998 p. 1655); Sch. 4 Div. 6: 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
+Dampier to Bunbury Pipeline Act 1997 | 53 of 1997 (as amended by this Act Sch. 4 Div. 1) | 12 Dec 1997 | Act other than Sch. 4 Div. 1, Div. 4 (except cl. 16, 17(1) and (2), 18 and 20) and Div. 6: 12 Dec 1997 (see s. 2); Sch. 4 Div. 1: 30 Mar 1998 (see s. 2 and cl. 2 and Gazette 27 Mar 1998 p. 1765); Sch. 4 Div. 4 (except cl. 16, 17(1) and (2), 18 and 20): 11.00 am 25 Mar 1998 (see s. 2 and cl. 11 and Gazette 25 Mar 1998 p. 1655); Sch. 4 Div. 6: 30 Mar 1998 (see s. 2 and cl. 2 and Gazette 27 Mar 1998 p. 1765)
 Gas Pipelines Access (Western Australia) Act 1998 Sch. 3 Div. 2 | 65 of 1998 | 15 Jan 1999 | Sch. 3 Div. 2 Subdiv. 2: 9 Feb 1999 (see s. 2 and Gazette 8 Feb 1999 p. 441); Sch. 3 Div. 2 Subdiv. 3: 1 Jan 2000 (see cl. 5)
 Gas Corporation (Business Disposal) Act 1999 s. 41-44, 70-72, 87 and 88 | 58 of 1999 | 24 Dec 1999 | s. 41-44: 24 Dec 1999 (see s. 2(1)); s. 70-72 and 87: 1 Jul 2000 (see s. 2(2) and Gazette 4 Jul 2000 p. 3545); s. 88: 16 Dec 2000 (see s. 2(5) and Gazette 15 Dec 2000 p. 7201)
 Reprint of the Dampier to Bunbury Pipeline Act 1997 as at 17 Nov 2000 (includes the amendments listed above except those in the Gas Corporation (Business Disposal) Act 1999 s. 88)
@@ -10,6 +10,7 @@ Statute (Repeals and Minor Amendments) Act 2003 s. 10(2) | 74 of 2003 | 15 Dec 2
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 43 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Dampier to Bunbury Pipeline Act 1997 as at 24 Apr 2009 (includes the amendments listed above)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 46 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 The Gas Corporation Act 1994 was repealed by the Gas Corporation (Business Disposal) Act 1999.
 The Gas Transmission Regulations 1994 were repealed by the Gas Transmission Repeal Regulations 1998.
 Short title changed to the Public Works Act 1902, and section 33A repealed, by the Acts Amendment (Land Administration) Act 1997.

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 29 August 2008 of the Stamp Act 1921 and includes the amendments made by the other written laws referred to in the following table 1a, 6-10. The table also contains information about any reprint.
+This is a compilation of the Stamp Act 1921 and includes the amendments made by the other written laws referred to in the following table 1a, 6-10. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Stamp Act 1921 | 10 of 1922 (12 Geo. V No. 44) | 31 Jan 1922 | 1 Apr 1922 (see s. 1 and Gazette 17 Mar 1922 p. 479)
@@ -168,7 +168,8 @@ Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2
 Duties Legislation Amendment Act 2008 Pt. 2 Div. 1 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Revenue Laws Amendment Act 2008 s. 8 and Pt. 8 | 30 of 2008 | 27 Jun 2008 | Pt. 8: 6 Feb 2008 (see s. 2(1)(d)); s. 8: 27 Jun 2008 (see s. 2(2)(a))
 Reprint 18: The Stamp Act 1921 as at 29 Aug 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 119 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 30 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
@@ -711,13 +712,13 @@ The Stamp Amendment (Assessment) Act 2005 s. 7 and 8 read as follows:
 “old Part IIIF” means Part IIIF of the Stamp Act 1921 as in force immediately before commencement and, for the purposes of this section, is to be taken to include item 16 of the Second Schedule and item 8 of the Third Schedule of the Stamp Act 1921, as in force immediately before commencement.
 ”.
 The Revenue Laws Amendment (Taxation) Act 2007 s. 13(2) was repealed on 27 Jun 2008 by the Revenue Laws Amendment Act 2008 s. 7(3).
-On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 30 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 30 had not come into operation. It reads as follows:
 “
 30.Stamp Act 1921 amended
 (1) The amendments in this section are to the Stamp Act 1921.
 (2) The Third Schedule is amended by deleting items 3(2) and 7(11).
 ”.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 55 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 55 had not come into operation. It reads as follows:
 “
 55.Stamp Act 1921 amended
 (1) The amendment in this section is to the Stamp Act 1921.

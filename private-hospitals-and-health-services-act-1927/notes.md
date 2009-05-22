@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 February 2009 of the Hospitals and Health Services Act 1927 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Hospitals and Health Services Act 1927 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Hospitals Act 1927 | 23 of 1927 (18 Geo. V No. 23) | 23 Dec 1927 | 1 Jan 1928 (see s. 1)
@@ -52,7 +52,8 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 2
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Medical Practitioners Act 2008 Sch. 3 cl. 27 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 6: The Hospitals and Health Services Act 1927 as at 13 Feb 2009 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 13 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
@@ -78,7 +79,7 @@ CEO has the meaning given by section 3 of the Health Legislation Administration 
 commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 ”.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) had not come into operation. It reads as follows:
 “
 48.Hospitals and Health Services Act 1927 amended
 (2) The Hospitals and Health Services Act 1927 is amended as follows:

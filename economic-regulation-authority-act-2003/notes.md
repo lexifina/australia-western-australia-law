@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 November 2008 of the Economic Regulation Authority Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Economic Regulation Authority Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Economic Regulation Authority Act 2003 | 67 of 2003 | 5 Dec 2003 | s. 1 and 2: 5 Dec 2003; Act other than s. 1, 2, 25(b), 63(2), Sch. 2 Div. 4 and Sch. 4: 1 Jan 2004 (see s. 2(1) and Gazette 30 Dec 2003 p. 5723); s. 25(b), 63(2), Sch. 2 Div. 4 and Sch. 4: 19 Mar 2004 (see s. 2(3) and Gazette 19 Mar 2004 p. 914)
@@ -8,6 +8,7 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 2 | 28 o
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Reprint 1: The Economic Regulation Authority Act 2003 as at 21 Nov 2008 (includes amendments listed above)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 48 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Schedule 2 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined Terms
@@ -39,4 +40,3 @@ regulated industry3
 relevant entity20(5)
 staff member3
 transitional matter63(4)
-By Authority: JOHN A. STRIJK, Government Printer

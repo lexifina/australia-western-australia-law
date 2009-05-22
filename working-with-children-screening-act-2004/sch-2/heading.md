@@ -24,9 +24,9 @@ s. 326 | Aggravated sexual penetration without consent
 s. 327 | Sexual coercion
 s. 328 | Aggravated sexual coercion
 s. 329(2) | Sexually penetrating child known to be lineal relative or de facto child (if the child against whom the offence is committed is 13 or over)
-s. 329(3) | Procuring, inciting or encouraging child known to be lineal relative or de facto child to engage in sexual activity (if the child against whom the offence is committed is 13 or over)
+s. 329(3) | Procuring, inciting or encouraging child known to be lineal relative or de facto child to engage in sexual behaviour (if the child against whom the offence is committed is 13 or over)
 s. 329(4) | Indecent dealing with child known to be lineal relative or de facto child
-s. 329(5) | Procuring, inciting or encouraging child known to be lineal relative or de facto child to engage in sexual activity
+s. 329(5) | Procuring, inciting or encouraging child known to be lineal relative or de facto child to do indecent act
 s. 329(6) | Indecently recording child known to be lineal relative or de facto child
 s. 330 | Sexual offences against incapable person
 s. 331B | Sexual servitude
@@ -55,10 +55,10 @@ s. 50DB | Encouraging offence against Part IIIA
 Criminal Code Act 1995 of the Commonwealth
 s. 474.19 | Using a carriage service for child pornography material
 s. 474.20 | Possessing, controlling, producing, supplying or obtaining child pornography material for use through a carriage service
-s. 474.22 | Using a child carriage service for child abuse material
+s. 474.22 | Using a carriage service for child abuse material
 s. 474.23 | Possessing, controlling, producing, supplying or obtaining child abuse material for use through a carriage service
 s. 474.26 | Using a carriage service to procure persons under 16
 s. 474.27 | Using a carriage service to “groom” persons under 16
 Customs Act 1901 of the Commonwealth
 s. 233BAB | Special offences relating to tier 2 goods (if the offence involves items of child pornography or of child abuse material)
-[Schedule 2 amended by No. 3 of 2006 s. 7; No. 27 of 2008 s. 13(3) and (4); No. 29 of 2008 s. 40.]
+[Schedule 2 amended by No. 3 of 2006 s. 7; No. 27 of 2008 s. 13(3) and (4); No. 29 of 2008 s. 40; No. 8 of 2009 s. 140(3).]

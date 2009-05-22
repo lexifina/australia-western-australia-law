@@ -6,3 +6,4 @@ National Environment Protection Council (Western Australia) Act 1996 | 73 of 199
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 55 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
 Reprint 1: The National Environment Protection Council (Western Australia) Act 1996 as at 12 Mar 2004 (includes amendment listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+ | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 95 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))

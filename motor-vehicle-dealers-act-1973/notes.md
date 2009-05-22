@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 May 2007 of the Motor Vehicle Dealers Act 1973 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Motor Vehicle Dealers Act 1973 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Dealers Act 1973 | 101 of 1973 | 28 Dec 1973 | s. 1-3 and 5-13: 15 Feb 1974 (see s. 2 and Gazette 15 Feb 1974 p. 375); s. 14-24, 30, 50 and 56: 5 Apr 1974 (see s. 2 and Gazette 5 Apr 1974 p. 1180); balance, except s. 40: 12 Aug 1974 (see s. 2 and Gazette 9 Aug 1974 p. 2935)
@@ -33,6 +33,7 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 15 | 28 o
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 7 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 5: The Motor Vehicle Dealers Act 1973 as at 11 May 2007 (includes amendments listed above except those in the Consumer Protection Legislation Amendment and Repeal Act 2006)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 94 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

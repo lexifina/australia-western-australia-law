@@ -1,23 +1,24 @@
 Notes
 This is a compilation of the Fair Trading Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Short title | Number and year | Assent | Commencement
-Fair Trading Act 1987 | 108 of 1987 | 19 Dec 1987 | Pt. I, III, IV and VII: 8 Apr 1988 (see s. 2 and Gazette 8 Apr 1988 p. 1107); balance: 9 Sep 1988 (see s. 2 and Gazette 9 Sep 1988 p. 3518)
-Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
-Sentencing (Consequential Provisions) Act 1995 Pt. 29 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
-Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
-Statutes (Repeals and Minor Amendments) Act 1997 s. 39(10) and 59 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
-Corporations (Consequential Amendments) Act 2001 Pt. 24 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
-Reprint of the Fair Trading Act 1987 as at 16 Nov 2001 (includes amendments listed above)
-Statutes (Repeals and Minor Amendments) Act 2003 s. 53 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
-Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 45 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 2: The Fair Trading Act 1987 as at 24 Jun 2005 (includes amendments listed above)
-Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 12 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Retail Shops and Fair Trading Legislation Amendment Act 2006 Pt. 4 | 47 of 2006 | 4 Oct 2006 | 11 May 2007 (see s. 2 and Gazette 11 May 2007 p. 2017)
-Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 5 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
+ | Short title | Number and year | Assent | Commencement
+ | Fair Trading Act 1987 | 108 of 1987 | 19 Dec 1987 | Pt. I, III, IV and VII: 8 Apr 1988 (see s. 2 and Gazette 8 Apr 1988 p. 1107); balance: 9 Sep 1988 (see s. 2 and Gazette 9 Sep 1988 p. 3518)
+ | Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
+ | Sentencing (Consequential Provisions) Act 1995 Pt. 29 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
+ | Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+ | Statutes (Repeals and Minor Amendments) Act 1997 s. 39(10) and 59 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
+ | Corporations (Consequential Amendments) Act 2001 Pt. 24 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
+ | Reprint of the Fair Trading Act 1987 as at 16 Nov 2001 (includes amendments listed above)
+ | Statutes (Repeals and Minor Amendments) Act 2003 s. 53 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+ | Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
+ | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+ | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 45 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+ | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+ | Reprint 2: The Fair Trading Act 1987 as at 24 Jun 2005 (includes amendments listed above)
+ | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 12 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+ | Retail Shops and Fair Trading Legislation Amendment Act 2006 Pt. 4 | 47 of 2006 | 4 Oct 2006 | 11 May 2007 (see s. 2 and Gazette 11 May 2007 p. 2017)
+ | Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 5 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 56 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 This reference, and all following references, to “TPA”, refers to the Trade Practices Act 1974 of the Commonwealth.
 3-4Footnote no longer applicable.
 Formerly referred to The Sale of Goods Act 1895, the short title of which was changed to the Sale of Goods Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 150(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).

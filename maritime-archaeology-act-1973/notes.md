@@ -1,14 +1,15 @@
 Notes
 This is a compilation of the Maritime Archaeology Act 1973 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Short title | Number and year | Assent | Commencement
-Maritime Archaeology Act 1973 | 66 of 1973 | 28 Nov 1973 | 7 Dec 1973 (see s. 2 and Gazette 7 Dec 1973 p. 4479)
-Sentencing (Consequential Provisions) Act 1995 s. 147 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
-Maritime Archaeology Amendment Act 1997 | 44 of 1997 | 9 Dec 1997 | 9 Dec 1997 (see s. 2)
-Reprint 1: The Maritime Archaeology Act 1973 as at 3 Oct 2003 (includes amendments listed above)
-State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 77 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Criminal Investigation (Consequential Provisions) Act 2006 Pt. 11 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
+ | Short title | Number and year | Assent | Commencement
+ | Maritime Archaeology Act 1973 | 66 of 1973 | 28 Nov 1973 | 7 Dec 1973 (see s. 2 and Gazette 7 Dec 1973 p. 4479)
+ | Sentencing (Consequential Provisions) Act 1995 s. 147 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
+ | Maritime Archaeology Amendment Act 1997 | 44 of 1997 | 9 Dec 1997 | 9 Dec 1997 (see s. 2)
+ | Reprint 1: The Maritime Archaeology Act 1973 as at 3 Oct 2003 (includes amendments listed above)
+ | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 77 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+ | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+ | Criminal Investigation (Consequential Provisions) Act 2006 Pt. 11 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 90 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

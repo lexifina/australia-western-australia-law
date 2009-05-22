@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 April 2008 of the Public and Bank Holidays Act 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Public and Bank Holidays Act 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public and Bank Holidays Act 1972 | 63 of 1972 | 31 Oct 1972 | 22 Jun 1973 (see s. 2 and Gazette 22 Jun 1973 p. 2367)
@@ -14,3 +14,4 @@ Labour Relations Reform Act 2002 s. 24 | 20 of 2002 | 8 Jul 2002 | 15 Sep 2002 (
 Statutes (Repeals and Minor Amendments) Act 2003 s. 96 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Public and Bank Holidays Amendment Act 2004 | 32 of 2004 | 14 Oct 2004 | 14 Oct 2004 (see s. 2)
 Reprint 2: The Public and Bank Holidays Act 1972 as at 18 Apr 2008 (includes amendments listed above)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 103 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))

@@ -10,5 +10,6 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Reprint 1: The Agricultural Practices (Disputes) Act 1995 as at 11 Aug 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Legal Profession Act 2008 s. 639 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 20 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Under the Alteration of Statutory Designations Order 2004 a reference in a written law to the Department of Environmental Protection is, unless the contrary is intended, to be read and construed as a reference to the Department of Environment.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Environment is called the Department of Environment and Conservation.

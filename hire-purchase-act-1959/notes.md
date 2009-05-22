@@ -34,6 +34,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 13 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 7: The Hire-Purchase Act 1959 as at 18 Aug 2006 (includes amendments listed above)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 74 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “

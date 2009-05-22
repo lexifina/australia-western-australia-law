@@ -19,6 +19,7 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Reprint 2: The Water Services Licensing Act 1995 as at 4 Aug 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 133 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Under the Land Administration Act 1997 s. 281(3), references to the Land Act 1933 may be construed as references to the Land Administration Act 1997.
 Now known as the Water Services Licensing Act 1995; short title changed (see note under s. 1).
 The Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996 Pt. 6 reads as follows:

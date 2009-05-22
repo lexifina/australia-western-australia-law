@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 April 2008 of the Racing and Wagering Western Australia Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Racing and Wagering Western Australia Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Racing and Wagering Western Australia Act 2003 | 36 of 2003 | 26 Jun 2003 | s. 1 and 2: 26 Jun 2003; Act other than s. 1 and 2: 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
@@ -12,7 +12,8 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 13 and 17 | 77 o
 Racing and Wagering Legislation Amendment Act 2007 Pt. 2 | 2 of 2007 | 28 Mar 2007 | 1 Jul 2007 (see s. 2)
 Racing, Wagering and Betting Legislation Amendment and Repeal Act 2007 Pt. 5 | 8 of 2007 | 13 Jun 2007 | 14 Jun 2007 (see s. 2)
 Reprint 2: The Racing and Wagering Western Australia Act 2003 as at 4 Apr 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 106 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 86 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
@@ -24,7 +25,7 @@ The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as
 (2) The Minister may make a recommendation under subsection (1) only if the Minister considers that each amendment proposed to be made by the regulations is necessary or desirable as a consequence of the enactment of the RWWA Act or this Act.
 (3) Nothing in this section prevents subsidiary legislation from being amended in accordance with the Act under which it was made.
 ”.
-On the date as at which this reprint was prepared, the State Superannuation Amendment Act 2007 s. 86 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 86 had not come into operation. It reads as follows:
 “
 86.Racing and Wagering Western Australia Act 2003 amended
 (1) The amendments in this section are to the Racing and Wagering Western Australia Act 2003.

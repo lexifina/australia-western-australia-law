@@ -9,6 +9,7 @@ Acts Amendment (Federal Courts and Tribunals) Act 2001 Pt. 6 | 32 of 2001 | 21 D
 Reprint of the Jurisdiction of Courts (Cross-vesting) Act 1987 as at 8 Feb 2002 (includes amendments listed above)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Legal Profession Act 2008 s. 670 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+ | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 82 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 The Jurisdiction of Courts (Cross-vesting) Amendment Act 1994 s. 7 reads as follows:
 “
 7.Application

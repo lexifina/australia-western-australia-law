@@ -1,30 +1,31 @@
 Notes
-This reprint is a compilation as at 20 June 2008 of the Travel Agents Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Travel Agents Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Short title | Number and year | Assent | Commencement
-Travel Agents Act 1985 | 120 of 1985 | 30 Dec 1985 | s. 1 and 2: 30 Dec 1985; Act other than s. 1 and 2: 1 Feb 1987 (see s. 2 and Gazette 16 Jan 1987 p. 82)
-Travel Agents Amendment Act 1989 | 27 of 1989 | 12 Dec 1989 | 9 Jan 1990
-Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
-Pawnbrokers and Second-hand Dealers Act 1994 s. 100 | 88 of 1994 | 5 Jan 1995 | 1 Apr 1996 (see s. 2 and Gazette 29 Mar 1996 p. 1495)
-Business Licensing Amendment Act 1995 Pt. 10 | 56 of 1995 | 20 Dec 1995 | 1 Jan 1996 (see s. 2(3))
-Security and Related Activities (Control) Act 1996 s. 96 | 27 of 1996 | 22 Jul 1996 | 1 Apr 1997 (see s. 2 and Gazette 27 Mar 1997 p. 1693)
-Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
-Reprint of the Travel Agents Act 1985 as at 22 Apr 1997 (includes amendments listed above)
-Statutes (Repeals and Minor Amendments) Act 1997 s. 39(10) and 123 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
-Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 107 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
-Corporations (Consequential Amendments) Act 2001 s. 221 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
-Reprint 2: The Travel Agents Act 1985 as at 6 Jun 2003 (includes amendments listed above)
-Sentencing Legislation Amendment and Repeal Act 2003 s. 100 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
-Motor Vehicle Repairers Act 2003 Pt. 11 | 68 of 2003 | 9 Dec 2003 | 19 Mar 2007 (see s. 2 and Gazette 9 Feb 2007 p. 451)
-Criminal Code Amendment Act 2004 s. 6 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 128 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(2)(e)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 3: The Travel Agents Act 1985 as at 14 Oct 2005 (includes amendments listed above except those in the Motor Vehicle Repairers Act 2003)
-Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 22 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 13 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 4: The Travel Agents Act 1985 as at 20 Jun 2008 (includes amendments listed above)
+ | Short title | Number and year | Assent | Commencement
+ | Travel Agents Act 1985 | 120 of 1985 | 30 Dec 1985 | s. 1 and 2: 30 Dec 1985; Act other than s. 1 and 2: 1 Feb 1987 (see s. 2 and Gazette 16 Jan 1987 p. 82)
+ | Travel Agents Amendment Act 1989 | 27 of 1989 | 12 Dec 1989 | 9 Jan 1990
+ | Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
+ | Pawnbrokers and Second-hand Dealers Act 1994 s. 100 | 88 of 1994 | 5 Jan 1995 | 1 Apr 1996 (see s. 2 and Gazette 29 Mar 1996 p. 1495)
+ | Business Licensing Amendment Act 1995 Pt. 10 | 56 of 1995 | 20 Dec 1995 | 1 Jan 1996 (see s. 2(3))
+ | Security and Related Activities (Control) Act 1996 s. 96 | 27 of 1996 | 22 Jul 1996 | 1 Apr 1997 (see s. 2 and Gazette 27 Mar 1997 p. 1693)
+ | Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
+ | Reprint of the Travel Agents Act 1985 as at 22 Apr 1997 (includes amendments listed above)
+ | Statutes (Repeals and Minor Amendments) Act 1997 s. 39(10) and 123 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
+ | Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 107 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
+ | Corporations (Consequential Amendments) Act 2001 s. 221 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
+ | Reprint 2: The Travel Agents Act 1985 as at 6 Jun 2003 (includes amendments listed above)
+ | Sentencing Legislation Amendment and Repeal Act 2003 s. 100 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
+ | Motor Vehicle Repairers Act 2003 Pt. 11 | 68 of 2003 | 9 Dec 2003 | 19 Mar 2007 (see s. 2 and Gazette 9 Feb 2007 p. 451)
+ | Criminal Code Amendment Act 2004 s. 6 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
+ | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+ | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 128 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+ | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(2)(e)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+ | Reprint 3: The Travel Agents Act 1985 as at 14 Oct 2005 (includes amendments listed above except those in the Motor Vehicle Repairers Act 2003)
+ | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 22 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+ | Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 13 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
+ | Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+ | Reprint 4: The Travel Agents Act 1985 as at 20 Jun 2008 (includes amendments listed above)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 125 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 41 and 64 read as follows:

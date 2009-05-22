@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 July 2008 of the Water Corporation Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Water Corporation Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Water Corporation Act 1995 | 70 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
@@ -22,6 +22,7 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div. 3 | 28 o
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 14 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Water Resources Legislation Amendment Act 2007 Pt. 7 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 3: The Water Corporation Act 1995 as at 4 Jul 2008 (includes amendments listed above)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 132 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 4 is a validation provision.
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 127(5) is not included because the Schedule it sought to amend had been replaced in Gazette 24 May 2002 p. 2605-17 before the amendment purported to come into operation.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.

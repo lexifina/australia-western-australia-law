@@ -22,6 +22,7 @@ Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Unclaimed Money Act 1990 as at 9 Mar 2007 (includes amendments listed above except the amendments in the Criminal Investigation (Consequential Provisions) Act 2006 s. 73)
 Public Trustee and Trustee Companies Legislation Amendment Act 2008 Pt. 4 | 9 of 2008 | 31 Mar 2008 | 1 Jul 2008 (see s. 2 and Gazette 24 Jun 2008 p. 2885)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 11 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 of the Commonwealth.
 The Companies (Western Australia) Code and the Companies (Acquisition of Shares) (Western Australia) Code were superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
 Footnote no longer applicable.

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 May 2008 of the Fish Resources Management Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fish Resources Management Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fish Resources Management Act 1994 | 53 of 1994 | 2 Nov 1994 | s. 1 and 2: 2 Nov 1994; Act other than s. 1 and 2: 1 Oct 1995 (see s. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -26,7 +26,8 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 2
 Fish Resources Management Amendment Act 2007 | 28 of 2007 | 26 Oct 2007 | 26 Oct 2007 (see s. 2)
 Petroleum Amendment Act 2007 s. 94 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Reprint 3: The Fish Resources Management Act 1994 as at 16 May 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 60 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 4 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
@@ -78,14 +79,14 @@ Division 5 — Transitional provisions
 commencement means the time at which section 232 comes into operation.
 ”.
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
-On the date as at which this reprint was prepared, the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 4 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 4 had not come into operation. It reads as follows:
 “
 Part 4 — Amendment to Fish Resources Management Act 1994
 16.Section 114 amended
 Section 114 of the Fish Resources Management Act 1994 is amended by inserting after “Mining Act 1978,” —
 “ the Offshore Minerals Act 2003, ”.
 ”.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 had not come into operation. It reads as follows:
 “
 89.Fish Resources Management Act 1994 amended
 (1) The amendments in this section are to the Fish Resources Management Act 1994.

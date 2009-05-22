@@ -2,7 +2,7 @@ Notes
 This is a compilation of the Credit Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Credit Act 1984 | 99 of 1984 | 27 Dec 1984 | Act other than s. 91(3): 31 Mar 1985 (see s. 2 and Gazette 8 Mar 1985 p. 867)
+Credit Act 1984 | 99 of 1984 | 27 Dec 1984 | Act other than s. 91(3): 31 Mar 1985 (see s. 2 and Gazette 8 Mar 1985 p. 867); s. 91(3) deleted by No. 8 of 2009 s. 44(2)
 Acts Amendment (Credit) Act 1989 Pt. 2 | 47 of 1989 | 9 Jan 1990 | s. 4 and 5: 9 Jan 1990 (see s. 2(1)); s. 3: 31 Mar 1985 (see s. 2(2) and Gazette 8 Mar 1985 p. 867)
 Credit Amendment Act 1992 | 58 of 1992 | 11 Dec 1992 | 11 Jan 1993 (see s. 2 and Gazette 8 Jan 1993 p. 25)
 Consumer Credit (Western Australia) Act 1996 s. 13 | 30 of 1996 | 10 Sep 1996 | 1 Nov 1996 (see s. 2)
@@ -20,16 +20,13 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 2: The Credit Act 1984 as at 24 Jun 2005 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 9 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 44 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Credit Act 1984 s. 91(3) | 99 of 1984 | 27 Dec 1984 | To be proclaimed (see s. 2)
 Housing Societies Repeal Act 2005 s. 24 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Repealed by the Strata Titles Act 1985.
-At the date as at which this compilation was prepared, the Credit Act 1984 s. 91(3) had not come into operation. It reads as follows:
-“
-(3) A regulated mortgage of chattels personal has effect as a security but does not operate to pass the property in the chattels.
-”.
+Footnote no longer applicable.
 Now see the Broadcasting Services Act 1992 of the Commonwealth.
 Repealed by the Revenue Laws Amendment and Repeal Act 2004 s. 37(1).
 The Acts Amendment (Credit) Act 1989 s. 5(2) reads as follows:
