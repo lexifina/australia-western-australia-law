@@ -47,7 +47,7 @@ Senior executive officer within the meaning of the Public Sector Management Act 
 Solicitor-General appointed under the Solicitor-General Act 1969.
 A prescribed office within the meaning of the Salaries and Allowances Act 1975.
 [Division 2 inserted by No. 32 of 1994 s. 9(a); amended by No. 57 of 1997 s. 70; No. 43 of 1999 s. 20; No. 55 of 2000 s. 10; No. 20 of 2002 s. 109; No. 67 of 2003 s. 62; No. 75 of 2003 s. 56(1); No. 48 of 2006 s. 65; No. 77 of 2006 s. 17.]
-[Division 3 repealed by No. 32 of 1994 s. 9(a).]
+[Division 3 deleted by No. 32 of 1994 s. 9(a).]
 ## Part 2
 [Heading inserted by No. 78 of 1984 s. 14.]
 ## Division 1
