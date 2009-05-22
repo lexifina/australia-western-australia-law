@@ -22,14 +22,13 @@ Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 publis
 Energy Legislation Amendment Act 2003 s. 102-108, 109(1)-(3) and 110(1)-(3) | 53 of 2003 | 8 Oct 2003 | 8 Oct 2003 (see s. 2(1) and (2))
 Statutes (Repeals and Minor Amendments) Act 2003 s. 49 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Electricity Legislation Amendment Act 2004 Pt. 2 Div. 2 | 33 of 2004 | 20 Oct 2004 | 24 Nov 2004 (see s. 2 and Gazette 23 Nov 2004 p. 5243)
-Electricity Corporations Act 2005 s. 139 (Sch. 5 cl. 7-22) | 18 of 2005 | 13 Oct 2005 | Sch. 5 (other than cl. 21(2)(a)(ii)): 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
+Electricity Corporations Act 2005 Sch. 5 cl. 7-22 | 18 of 2005 (as amended by No. 8 of 2009 s. 50(3)(b)) | 13 Oct 2005 | Sch. 5 (other than cl. 21(2)(a)(ii)): 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153) Sch. 5 cl. 21(2)(a)(ii) deleted by No. 8 of 2009 s. 50(3)(b)
 Reprint 3: The Electricity Transmission and Distribution Systems (Access) Act 1994 as at 4 Aug 2006 (includes amendments listed above)
 Electricity Transmission and Distribution Systems (Repeal and Related Provisions) Regulations 2007 published in Gazette 26 Jun 2007 p. 3018-21 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Energy Legislation Amendment Act 2003 s. 109(4)-(5), 110(4) and 111 | 53 of 2003 | 8 Oct 2003 | To be proclaimed (see s. 2(1) and (2))
-Electricity Corporations Act 2005 Sch. 5 cl. 21(2)(a)(ii) | 18 of 2005 | 13 Oct 2005 | To be proclaimed (see s. 2(2))
 The Energy Corporations (Transitional and Consequential Provisions) Act 1994 Pt. 3 (as amended by the Electricity Corporations Act 2005 s. 139) reads as follows:
 “
 Part 3 — Transitional provisions for succession from Commission to New Corporations
@@ -260,6 +259,7 @@ The Electricity Corporations Act 2005 Sch. 5 cl. 22(2)-(4) reads as follows:
 (4) In subclause (3) —
 Western Power Corporation has the meaning given to that term in section 142(1).
 ”.
+The Electricity Corporations Act 2005 Sch. 5 cl. 21(2)(a)(ii) was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 50(3)(b).
 On the date as at which this reprint was prepared, the Energy Legislation Amendment Act 2003 s. 109(4)-(5), 110(4) and 111 had not come into operation. They have been superseded by the Electricity Corporations Act 2005 and will not be proclaimed. They read as follows:
 “
 109.Schedule 5 amended
@@ -282,13 +282,6 @@ On the date as at which this reprint was prepared, the Energy Legislation Amendm
 111.Schedule 7 amended
 Schedule 7 clause 2(1) is amended by deleting “prepare annually” and inserting instead —
 “ , not later than the prescribed day in each year, prepare ”.
-”.
-On the date as at which this reprint was prepared, the Electricity Corporations Act 2005 Sch. 5 cl. 21(2)(a)(ii) had not come into operation. As the effect of the provision is unclear, it will not be proclaimed. It reads as follows:
-“
-21.Schedule 6 amended
-(2) Clause 1 is amended as follows:
-(a) in the definition of “new capacity” —
-(ii) by deleting “electricity distribution”;
 ”.
 The Electricity Transmission and Distribution Systems (Repeal and Related Provisions) Regulations 2007 Pt. 4 reads as follows:
 “
