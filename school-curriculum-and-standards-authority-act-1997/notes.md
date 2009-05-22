@@ -12,6 +12,7 @@ Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 publis
 Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 Pt. 3 | 22 of 2005 | 18 Nov 2005 | 1 Jan 2006 (see s. 2(3))
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Curriculum Council Act 1997 as at 13 Apr 2007 (includes amendments listed above)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 45 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

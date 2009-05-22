@@ -28,6 +28,7 @@ Land Information Authority Act 2006 s. 188 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Reprint 4: The Statutory Corporations (Liability of Directors) Act 1996 as at 9 Feb 2007 (includes amendments listed above)
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
 Eastern Goldfields Transport Board Repeal Act 2008 s. 14 | 28 of 2008 | 1 Jul 2008 | 29 Jul 2008
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 121 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

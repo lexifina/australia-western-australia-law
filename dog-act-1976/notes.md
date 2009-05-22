@@ -24,6 +24,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 5: The Dog Act 1976 as at 4 Aug 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 132 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 47 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Footnote no longer applicable.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 “

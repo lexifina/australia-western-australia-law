@@ -34,7 +34,7 @@ Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 
 Sentencing (Consequential Provisions) Act 1995 Pt. 88 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
 Reprint of the Mining Act 1978 as at 27 Feb 1996 (includes amendments listed above except those in the Sentencing (Consequential Provisions) Act 1995) (Correction to reprint in Gazette 19 Apr 1996 p. 1739)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
-Mining Amendment Act 1996 | 54 of 1996 (as amended by No. 39 of 2004 Pt. 11) | 11 Nov 1996 | s. 1-2, 5, 7, 10, 13 and 23: 7 Dec 1996 (see s. 2 and Gazette 6 Dec 1996 p. 6699); s. 3, 4, 6, 8, 11, 12 and 14-22: 11 Feb 2006 (see s. 2 and Gazette 3 Feb 2006 p. 515); Proclamation published 14 Jan 2005 p. 164 revoked (see Gazette 24 Mar 2005 p. 1001)
+Mining Amendment Act 1996 | 54 of 1996 (as amended by No. 39 of 2004 Pt. 11 and No. 8 of 2009 s. 93) | 11 Nov 1996 | s. 1-2, 5, 7, 10, 13 and 23: 7 Dec 1996 (see s. 2 and Gazette 6 Dec 1996 p. 6699); Proclamation published 14 Jan 2005 p. 164 revoked (see Gazette 24 Mar 2005 p. 1001) s. 3, 4, 6, 8, 11, 12 and 14-22: 11 Feb 2006 (see s. 2 and Gazette 3 Feb 2006 p. 515); s. 9 deleted by No. 8 of 2009 s. 93
 Acts Amendment (Marine Reserves) Act 1997 Pt. 3 | 5 of 1997 | 10 Jun 1997 | 29 Aug 1997 (see s. 2 and Gazette 29 Aug 1997 p. 4867)
 Acts Amendment (Land Administration) Act 1997 Pt. 44 and s. 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
 Statutes (Repeals and Minor Amendments) Act 1997 s. 89 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
@@ -66,10 +66,10 @@ Reprint 6: The Mining Act 1978 as at 10 Apr 2006 (includes amendments listed abo
 Petroleum Amendment Act 2007 s. 100 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Legal Profession Act 2008 s. 681 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Revenue Laws Amendment Act (No. 2) 2008 Pt. 2 Div. 2 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 8 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Mining Amendment Act 1996 s. 9 | 54 of 1996 | 11 Nov 1996 | To be proclaimed (see s. 2)
 Native Title (State Provisions) Act 1999, s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
 Repealed by the Interpretation Act 1984 s. 77(1).
@@ -252,14 +252,7 @@ to or in relation to any matter.
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Mining Amendment Act 1996 s. 9 had not come into operation. It reads as follows:
-“
-9.Section 65 amended
-Section 65(1c) of the principal Act is amended —
-(a) by deleting paragraph (a); and
-(b) in paragraph (b) by deleting “at the principal office of the Department at Perth” and substituting the following —
-“ for registration ”.
-”.
+The Mining Amendment Act 1996 s. 9 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 93.
 On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3Consequential amendments

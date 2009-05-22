@@ -4,3 +4,4 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Architects Act 2004 | 75 of 2004 | 8 Dec 2004 | 16 Nov 2005 (see s. 2 and Gazette 15 Nov 2005 p. 5597)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 21 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))

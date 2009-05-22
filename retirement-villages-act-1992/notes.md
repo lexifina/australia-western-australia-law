@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 October 2008 of the Retirement Villages Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Retirement Villages Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Retirement Villages Act 1992 | 34 of 1992 | 19 Jun 1992 | s. 1 and 2: 19 Jun 1992; Act other than s. 1 and 2: 10 Jul 1992 (see s. 2 and Gazette 10 Jul 1992 p. 3185)
@@ -21,7 +21,8 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 21 | 28 o
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 10 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 3: The Retirement Villages Act 1992 as at 10 Oct 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 110 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 60(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))

@@ -1,59 +1,60 @@
 Notes
 This is a compilation of the Water Boards Act 1904 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Short title | Number and year | Assent | Commencement
-Water Boards Act 1904 | 4 of 1904 | 16 Jan 1904 | 16 Jan 1904
-Rights in Water and Irrigation Act 1914 s. 40(4) | 19 of 1914 | 22 Sep 1914 | 22 Sep 1914
-Water Boards Act Amendment Act 1918 | 4 of 1919 | 3 Jan 1919 | 3 Jan 1919
-Ministers’ Titles Act 1925 | 8 of 1925 | 24 Sep 1925 | 24 Sep 1925
-Water Boards Act Amendment Act 1925 | 16 of 1925 | 4 Nov 1925 | 4 Nov 1925
-Water Boards Act Amendment Act 1928 | 26 of 1928 (as amended by No. 19 of 1973 s. 4) | 27 Dec 1928 | 27 Dec 1928
-Water Boards Act Amendment Act 1937 | 25 of 1937 | 18 Jan 1938 | 18 Jan 1938
-Water Boards Act Amendment Act (No. 2) 1941 | 10 of 1941 | 20 Oct 1941 | 20 Oct 1941
-Water Boards Act Amendment Act 1942 | 6 of 1942 | 31 Oct 1942 | 31 Oct 1942
-Water Boards Act Amendment Act 1947 | 26 of 1947 | 12 Nov 1947 | 12 Nov 1947
-Water Boards Act Amendment Act 1949 | 10 of 1949 | 14 Sep 1949 | 14 Sep 1949
-Reprint of the Water Boards Act 1904 approved 23 Feb 1951 in Vol. 5 of Reprinted Acts (includes amendments listed above)
-Acts Amendment (Fire Brigades Board and Fire Hydrants) Act 1951 s. 5 | 41 of 1951 | 20 Dec 1951 | 4 Apr 1952 (see s. 2 and Gazette 4 Apr 1952 p. 799-800)
-Water Boards Act Amendment Act 1953 | 32 of 1953 | 18 Dec 1953 | 18 Dec 1953
-Limitation Act 1935 s. 48A(1) | 35 of 1935 (as amended by No. 73 of 1954 s. 8) | 14 Jan 1955 | Relevant amendments (see s. 48A and Second Sch.) took effect on 1 Mar 1955 (see No. 73 of 1954 s. 2 and Gazette 18 Feb 1955 p. 343)
-Water Boards Act Amendment Act 1964 | 32 of 1964 | 4 Nov 1964 | 4 Nov 1964
-Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
-Water Boards Act Amendment Act 1969 | 54 of 1969 | 29 Sep 1969 | 29 Sep 1969
-Reprint of the Water Boards Act 1904 approved 18 Aug 1971 (includes amendments listed above)
-Water Boards Act Amendment Act 1978 | 51 of 1978 | 6 Sep 1978 | Act other than s. 4-9: 6 Sep 1978 (see s. 2(1)); s. 4-9: 15 Dec 1978 (see s. 2(2) and Gazette 15 Dec 1978 p. 4691-2)
-Acts Amendment and Repeal (Valuation of Land) Act 1978 Pt. XV | 76 of 1978 | 20 Oct 1978 | 1 Jul 1979 (see s. 2 and Gazette 11 May 1979 p. 1211)
-Water Boards Act Amendment Act (No. 2) 1978 | 97 of 1978 | 17 Nov 1978 | 15 Dec 1978 (see s. 2)
-Water Boards Act Amendment Act 1979 | 44 of 1979 | 25 Oct 1979 | 1 Jul 1979 (see s. 2)
-Acts Amendment (Statutory Designations) and Validation Act 1981 s. 4 | 63 of 1981 | 13 Oct 1981 | 13 Oct 1981
-Acts Amendment (Country Water and Sewerage) Act 1982 Pt. III | 14 of 1982 | 14 May 1982 | 11 Jun 1982 (see s. 2 and Gazette 11 Jun 1982 p. 1911)
-Acts Amendment and Repeal (Water Authorities) Act 1985 Pt. X | 25 of 1985 | 6 May 1985 | 1 Jul 1985 (see s. 2 and Gazette 7 Jun 1985 p. 1931)
-Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
-Acts Amendment (Water Authorities) Act 1985 Pt. IX | 110 of 1985 | 17 Dec 1985 | 14 Mar 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726)
-R & I Bank Amendment Act 1994 s. 13 | 6 of 1994 | 11 Apr 1994 | 26 Apr 1994 (see s. 2(2) and Gazette 26 Apr 1994 p. 1743)
-Bank of Western Australia Act 1995 s. 44(1) | 14 of 1995 | 4 Jul 1995 | 1 Dec 1995 (see s. 2 and Gazette 29 Nov 1995 p. 5529)
-Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 9 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 29 Dec 1995 p. 6291)
-Sentencing (Consequential Provisions) Act 1995 Pt. 81 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
-Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996 Pt. 4 | 12 of 1996 | 28 Jun 1996 | 28 Jun 1996 (see s. 2)
-Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
-Statutory Corporations (Liability of Directors) Act 1996 s. 3 | 41 of 1996 | 10 Oct 1996 | 1 Dec 1996 (see s. 2 and Gazette 12 Nov 1996 p. 6301)
-Reprint of the Water Boards Act 1904 as at 4 Nov 1996 (includes amendments listed above except those in the Statutory Corporations (Liability of Directors) Act 1996)
-Transfer of Land Amendment Act 1996 s. 153(1) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
-Acts Amendment (Land Administration) Act 1997 Pt. 65 and s. 142 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
-Fire and Emergency Services Authority of Western Australia (Consequential Provisions) Act 1998 s. 38 | 42 of 1998 | 4 Nov 1998 | 1 Jan 1999 (see s. 2 and Gazette 22 Dec 1998 p. 6833)
-Water Services Coordination Amendment Act 1999 s. 11(8) | 39 of 1999 | 9 Nov 1999 | 19 Jun 2000 (see s. 2 and Gazette 16 Jun 2000 p. 2939)
-Land Administration Amendment Act 2000 s. 51 | 59 of 2000 | 7 Dec 2000 | 10 Apr 2001 (see s. 2(2) and Gazette 10 Apr 2001 p. 2073)
-Reprint 4: The Water Boards Act 1904 as at 3 Jan 2003 (includes amendments listed above)
-Water Boards Amendment Act 2003 | 22 of 2003 | 23 Apr 2003 | 23 Apr 2003 (see s. 2)
-Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 132 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 5: The Water Boards Act 1904 as at 12 Aug 2005 (includes amendments listed above)
-Land Information Authority Act 2006 s. 165 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-Water Resources Legislation Amendment Act 2007 s. 201 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
+ | Short title | Number and year | Assent | Commencement
+ | Water Boards Act 1904 | 4 of 1904 | 16 Jan 1904 | 16 Jan 1904
+ | Rights in Water and Irrigation Act 1914 s. 40(4) | 19 of 1914 | 22 Sep 1914 | 22 Sep 1914
+ | Water Boards Act Amendment Act 1918 | 4 of 1919 | 3 Jan 1919 | 3 Jan 1919
+ | Ministers’ Titles Act 1925 | 8 of 1925 | 24 Sep 1925 | 24 Sep 1925
+ | Water Boards Act Amendment Act 1925 | 16 of 1925 | 4 Nov 1925 | 4 Nov 1925
+ | Water Boards Act Amendment Act 1928 | 26 of 1928 (as amended by No. 19 of 1973 s. 4) | 27 Dec 1928 | 27 Dec 1928
+ | Water Boards Act Amendment Act 1937 | 25 of 1937 | 18 Jan 1938 | 18 Jan 1938
+ | Water Boards Act Amendment Act (No. 2) 1941 | 10 of 1941 | 20 Oct 1941 | 20 Oct 1941
+ | Water Boards Act Amendment Act 1942 | 6 of 1942 | 31 Oct 1942 | 31 Oct 1942
+ | Water Boards Act Amendment Act 1947 | 26 of 1947 | 12 Nov 1947 | 12 Nov 1947
+ | Water Boards Act Amendment Act 1949 | 10 of 1949 | 14 Sep 1949 | 14 Sep 1949
+ | Reprint of the Water Boards Act 1904 approved 23 Feb 1951 in Vol. 5 of Reprinted Acts (includes amendments listed above)
+ | Acts Amendment (Fire Brigades Board and Fire Hydrants) Act 1951 s. 5 | 41 of 1951 | 20 Dec 1951 | 4 Apr 1952 (see s. 2 and Gazette 4 Apr 1952 p. 799-800)
+ | Water Boards Act Amendment Act 1953 | 32 of 1953 | 18 Dec 1953 | 18 Dec 1953
+ | Limitation Act 1935 s. 48A(1) | 35 of 1935 (as amended by No. 73 of 1954 s. 8) | 14 Jan 1955 | Relevant amendments (see s. 48A and Second Sch.) took effect on 1 Mar 1955 (see No. 73 of 1954 s. 2 and Gazette 18 Feb 1955 p. 343)
+ | Water Boards Act Amendment Act 1964 | 32 of 1964 | 4 Nov 1964 | 4 Nov 1964
+ | Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
+ | Water Boards Act Amendment Act 1969 | 54 of 1969 | 29 Sep 1969 | 29 Sep 1969
+ | Reprint of the Water Boards Act 1904 approved 18 Aug 1971 (includes amendments listed above)
+ | Water Boards Act Amendment Act 1978 | 51 of 1978 | 6 Sep 1978 | Act other than s. 4-9: 6 Sep 1978 (see s. 2(1)); s. 4-9: 15 Dec 1978 (see s. 2(2) and Gazette 15 Dec 1978 p. 4691-2)
+ | Acts Amendment and Repeal (Valuation of Land) Act 1978 Pt. XV | 76 of 1978 | 20 Oct 1978 | 1 Jul 1979 (see s. 2 and Gazette 11 May 1979 p. 1211)
+ | Water Boards Act Amendment Act (No. 2) 1978 | 97 of 1978 | 17 Nov 1978 | 15 Dec 1978 (see s. 2)
+ | Water Boards Act Amendment Act 1979 | 44 of 1979 | 25 Oct 1979 | 1 Jul 1979 (see s. 2)
+ | Acts Amendment (Statutory Designations) and Validation Act 1981 s. 4 | 63 of 1981 | 13 Oct 1981 | 13 Oct 1981
+ | Acts Amendment (Country Water and Sewerage) Act 1982 Pt. III | 14 of 1982 | 14 May 1982 | 11 Jun 1982 (see s. 2 and Gazette 11 Jun 1982 p. 1911)
+ | Acts Amendment and Repeal (Water Authorities) Act 1985 Pt. X | 25 of 1985 | 6 May 1985 | 1 Jul 1985 (see s. 2 and Gazette 7 Jun 1985 p. 1931)
+ | Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
+ | Acts Amendment (Water Authorities) Act 1985 Pt. IX | 110 of 1985 | 17 Dec 1985 | 14 Mar 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726)
+ | R & I Bank Amendment Act 1994 s. 13 | 6 of 1994 | 11 Apr 1994 | 26 Apr 1994 (see s. 2(2) and Gazette 26 Apr 1994 p. 1743)
+ | Bank of Western Australia Act 1995 s. 44(1) | 14 of 1995 | 4 Jul 1995 | 1 Dec 1995 (see s. 2 and Gazette 29 Nov 1995 p. 5529)
+ | Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 9 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 29 Dec 1995 p. 6291)
+ | Sentencing (Consequential Provisions) Act 1995 Pt. 81 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
+ | Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996 Pt. 4 | 12 of 1996 | 28 Jun 1996 | 28 Jun 1996 (see s. 2)
+ | Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+ | Statutory Corporations (Liability of Directors) Act 1996 s. 3 | 41 of 1996 | 10 Oct 1996 | 1 Dec 1996 (see s. 2 and Gazette 12 Nov 1996 p. 6301)
+ | Reprint of the Water Boards Act 1904 as at 4 Nov 1996 (includes amendments listed above except those in the Statutory Corporations (Liability of Directors) Act 1996)
+ | Transfer of Land Amendment Act 1996 s. 153(1) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
+ | Acts Amendment (Land Administration) Act 1997 Pt. 65 and s. 142 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
+ | Fire and Emergency Services Authority of Western Australia (Consequential Provisions) Act 1998 s. 38 | 42 of 1998 | 4 Nov 1998 | 1 Jan 1999 (see s. 2 and Gazette 22 Dec 1998 p. 6833)
+ | Water Services Coordination Amendment Act 1999 s. 11(8) | 39 of 1999 | 9 Nov 1999 | 19 Jun 2000 (see s. 2 and Gazette 16 Jun 2000 p. 2939)
+ | Land Administration Amendment Act 2000 s. 51 | 59 of 2000 | 7 Dec 2000 | 10 Apr 2001 (see s. 2(2) and Gazette 10 Apr 2001 p. 2073)
+ | Reprint 4: The Water Boards Act 1904 as at 3 Jan 2003 (includes amendments listed above)
+ | Water Boards Amendment Act 2003 | 22 of 2003 | 23 Apr 2003 | 23 Apr 2003 (see s. 2)
+ | Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+ | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+ | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 132 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+ | Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
+ | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+ | Reprint 5: The Water Boards Act 1904 as at 12 Aug 2005 (includes amendments listed above)
+ | Land Information Authority Act 2006 s. 165 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+ | Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+ | Water Resources Legislation Amendment Act 2007 s. 201 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 131 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Now see Department within the meaning of the Transfer of Land Act 1893.
 Footnote no longer applicable.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources and its administrative head is called the Director General.

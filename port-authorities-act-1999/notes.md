@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 July 2008 of the Port Authorities Act 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Port Authorities Act 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Port Authorities Act 1999 | 22 of 1999 | 29 Jun 1999 | s. 1 and 2: 29 Jun 1999; Act other than s. 1 and 2 and Sch. 1 it. 2: 14 Aug 1999 (see s. 2 and Gazette 13 Aug 1999 p. 3823); Sch. 1 it. 2: 1 Jan 2000 (see s. 2 and Gazette 24 Dec 1999 p. 6871)
@@ -18,7 +18,8 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 11 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Port Authorities Act 1999 as at 4 Jul 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 102 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 84 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
@@ -109,7 +110,7 @@ statutory rule means a regulation, rule or by-law.
 (b) that could not have been validly and lawfully done or omitted if this Act had received the Royal Assent before the FSR commencement time,
 is taken not to be valid, and to never have been valid.
 ”.
-On the date as at which this reprint was prepared, the State Superannuation Amendment Act 2007 s. 84 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 84 had not come into operation. It reads as follows:
 “
 84.Port Authorities Act 1999 amended
 (1) The amendments in this section are to the Port Authorities Act 1999.

@@ -24,4 +24,5 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 3: The Jetties Act 1926 as at 8 Jun 2007 (includes amendments listed above except those in the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 81 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.

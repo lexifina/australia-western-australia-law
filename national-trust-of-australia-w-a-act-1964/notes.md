@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 July 2008 of the National Trust of Australia (W.A.) Act 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the National Trust of Australia (W.A.) Act 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | National Trust of Australia (W.A.) Act 1964 | 85 of 1964 (13 Eliz. II No. 85) | 14 Dec 1964 | 1 Feb 1965 (see s. 2 and Gazette 29 Jan 1965 p. 357)
@@ -15,6 +15,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Reprint 3: The National Trust of Australia (W.A.) Act 1964 as at 11 Jul 2008 (includes amendments listed above)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 96 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Repealed by the Associations Incorporation Act 1987.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 The Western Australian Tourist Development Authority ceased to exist when the Tourist Act 1959 was repealed by the Tourist Act 1973.

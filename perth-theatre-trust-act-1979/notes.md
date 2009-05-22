@@ -15,6 +15,7 @@ Trustees Amendment Act 1997 s. 18 | 1 of 1997 | 6 May 1997 | 16 Jun 1997 (see se
 Equal Opportunity Amendment Act (No. 3) 1997 s. 8 | 42 of 1997 | 9 Dec 1997 | 6 Jan 1998 (see section 2(1))
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 99 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date on which this compilation was prepared, provisions referred to in the following table had not come into operation and are not included in this compilation. For the text of the provisions see the endnote referred to after the short title.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -22,8 +23,7 @@ State Superannuation(Transitional and Consequential Provisions) Act 2000 s. 57 |
 Under section 31(1)(f) of the Acts Amendment (Public Service) Act 1987 (No. 113 of 1987) references to “Permanent Head” may be construed as references to “chief executive officer”.
 Repealed by the Mental Health (Consequential Provisions) Act 1996 (No. 69 of 1996). Now see the Mental Health Act 1996 (No. 68 of 1996).
 Under section 112(2) of the Public Sector Management Act 1994 (No. 31 of 1994) references to the Public Service Board may be construed as references to the Minister for Public Sector Management.
-Now called the Industrial Relations Act 1979 (No. 114 of 1979).
-Repealed by the Acts Amendment and Repeal (Industrial Relations) (No. 2) Act 1984 (No. 94 of 1984).
+Footnote no longer applicable.
 Under section 112(1) of the Public Sector Management Act 1994 (No. 31 of 1994) references to the Public Service Act 1978 are to be construed as references to the Public Sector Management Act 1994).
 On the date on which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 57 had not come into operation. It reads:
 “

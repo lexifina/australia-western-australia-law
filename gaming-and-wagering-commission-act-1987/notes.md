@@ -34,6 +34,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 2
 Racing, Wagering and Betting Legislation Amendment and Repeal Act 2007 Pt. 3 | 8 of 2007 | 13 Jun 2007 | 14 Jun 2007 (see s. 2)
 Reprint 5: The Gaming and Wagering Commission Act 1987 as at 2 Nov 2007 (includes amendments listed above)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 63 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 Now known as the Gaming and Wagering Commission Act 1987; short title changed (see note under s. 1).
 The Acts Amendment (Continuing Lotteries) Act 2000 Pt. 4 (as amended by the Taxation Administration (Consequential Provisions) Act 2002 s. 6) reads as follows:

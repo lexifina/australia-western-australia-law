@@ -99,6 +99,7 @@ Legal Profession Act 2008 s. 662 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 12 | 26 of 2008 | 19 Jun 2008 | 1 Jan 2009 (see s. 2(b) and Gazette 9 Dec 2008 p. 5107)
 Criminal Law Amendment (Homicide) Act 2008 s. 33 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Reprint 15: The Evidence Act 1906 as at 23 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 7 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -109,9 +110,7 @@ The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 ”.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
 Repealed by the Defamation Act 2005.
-The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
-Largely, but not completely, superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth.
-The Companies Act 1961 was superseded by the Companies (Western Australia) Code which has also been superseded (see endnote 5); see section 18 of the Companies (Application of Laws) Act 1981.
+-7Footnote no longer applicable.
 The Acts Amendment (Video and Audio Links) Act 1998 s. 3 reads as follows:
 “
 3.Power to use certain technology

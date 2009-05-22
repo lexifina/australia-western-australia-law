@@ -8,4 +8,5 @@ Agricultural and Veterinary Chemicals (Western Australia) Amendment Act 2001 | 2
 Reprint of the Agricultural and Veterinary Chemicals (Western Australia) Act 1995 as at 1 Mar 2002 (includes amendments listed above)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Gene Technology Act 2006 Pt. 13 | 20 of 2006 | 9 Jun 2006 | 28 Jul 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
-The Acts Amendment (Federal Courts and Tribunals) Act 2001 s. 37 will not come into operation on commencement of Pt. 4-10 of the Administrative Review Tribunal Act 2001 of the Commonwealth as expressed in s. 2(3) because that Act has not been passed.
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 19 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+The Acts Amendment (Federal Courts and Tribunals) Act 2001 s. 37 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 16.

@@ -21,7 +21,8 @@ Acts Amendment (Justice) Act 2008 Pt. 22 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008
 Legal Profession Act 2008 s. 706 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 2: The State Administrative Tribunal Act 2004 as at 16 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
-Repealed by the Architects Act 2004.
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 120 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Footnote no longer applicable.
 Repealed by the Optical Dispensers Repeal Act 2006.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

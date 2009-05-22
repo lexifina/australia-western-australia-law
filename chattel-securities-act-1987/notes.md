@@ -1,20 +1,21 @@
 Notes
 This is a compilation of the Chattel Securities Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Short title | Number and year | Assent | Commencement
-Chattel Securities Act 1987 | 101 of 1987 | 18 Dec 1987 | s. 3, 12-14, 15(1), (2) and (4), 16-23, 31-32: 29 Aug 1988 (see s. 2 and Gazette 5 Aug 1988 p. 2583); s. 4-11, 15(3) and 24-30: 14 Nov 1988 (see s. 2 and Gazette 5 Aug 1988 p. 2583)
-Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
-Chattel Securities Amendment Act 1996 | 39 of 1996 | 27 Sep 1996 | 4 Nov 1996 (see s. 2 and Gazette 29 Oct 1996 p. 5715)
-Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
-Road Traffic Amendment (Vehicle Licensing) Amendment Act 2001 Pt. 3 Div. 1 | 28 of 2001 | 21 Dec 2001 | 4 Dec 2006 (see s. 2 and Gazette 28 Nov 2006 p. 4889)
-Motor Vehicle Dealers Amendment Act 2002 s. 70 | 4 of 2002 | 4 Jun 2002 | 1 Sep 2002 (see s. 2 and Gazette 13 Aug 2002 p. 4151)
-Reprint of the Chattel Securities Act 1987 as at 13 Dec 2002 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001) (correction in Gazette 24 Mar 2006 p. 1102)
-Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 4 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
-Statutes (Repeals and Minor Amendments) Act 2003 s. 34 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
-State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 18 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Reprint 2: The Chattel Securities Act 1987 as at 21 Apr 2006 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001)
-Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+ | Short title | Number and year | Assent | Commencement
+ | Chattel Securities Act 1987 | 101 of 1987 | 18 Dec 1987 | s. 3, 12-14, 15(1), (2) and (4), 16-23, 31-32: 29 Aug 1988 (see s. 2 and Gazette 5 Aug 1988 p. 2583); s. 4-11, 15(3) and 24-30: 14 Nov 1988 (see s. 2 and Gazette 5 Aug 1988 p. 2583)
+ | Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
+ | Chattel Securities Amendment Act 1996 | 39 of 1996 | 27 Sep 1996 | 4 Nov 1996 (see s. 2 and Gazette 29 Oct 1996 p. 5715)
+ | Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
+ | Road Traffic Amendment (Vehicle Licensing) Amendment Act 2001 Pt. 3 Div. 1 | 28 of 2001 | 21 Dec 2001 | 4 Dec 2006 (see s. 2 and Gazette 28 Nov 2006 p. 4889)
+ | Motor Vehicle Dealers Amendment Act 2002 s. 70 | 4 of 2002 | 4 Jun 2002 | 1 Sep 2002 (see s. 2 and Gazette 13 Aug 2002 p. 4151)
+ | Reprint of the Chattel Securities Act 1987 as at 13 Dec 2002 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001) (correction in Gazette 24 Mar 2006 p. 1102)
+ | Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 4 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
+ | Statutes (Repeals and Minor Amendments) Act 2003 s. 34 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+ | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 18 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+ | Reprint 2: The Chattel Securities Act 1987 as at 21 Apr 2006 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001)
+ | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+ | Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 30 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 The provision in this Act amending the Consumer Affairs Act 1971 has been omitted under s. 7(4)(e) of the Reprints Act 1984.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Footnote no longer applicable.

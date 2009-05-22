@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 January 2009 of the Firearms Act 1973 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Firearms Act 1973 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Firearms Act 1973 | 36 of 1973 | 18 Oct 1973 | 1 Jul 1974 (see s. 2 and Gazette 29 Mar 1974 p. 1027)
@@ -27,7 +27,7 @@ Sentencing Legislation Amendment and Repeal Act 2003 s. 62 | 50 of 2003 | 9 Jul 
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 49 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Firearms Amendment Act 2004 | 69 of 2004 | 8 Dec 2004 | s. 13 and 21: 8 Dec 2004 (see s. 2(3)); Act other than s. 13, 17, 21, 22(4)(a) and 26: 1 Jan 2005 (see s. 2 and Gazette 24 Dec 2004 p. 6265); s. 17: 1 Feb 2005 (see s. 2 and Gazette 24 Dec 2004 p. 6265)
+Firearms Amendment Act 2004 | 69 of 2004 (as amended by No. 8 of 2009 s. 59) | 8 Dec 2004 | s. 13 and 21: 8 Dec 2004 (see s. 2(3)); Act other than s. 13, 17, 21, 22(4)(a) and 26: 1 Jan 2005 (see s. 2 and Gazette 24 Dec 2004 p. 6265); s. 17: 1 Feb 2005 (see s. 2 and Gazette 24 Dec 2004 p. 6265); s. 22(4)(a) and 26 deleted by No. 8 of 2009 s. 59
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 4: The Firearms Act 1973 as at 1 Jul 2005 (includes amendments listed above)
 Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 and Gazette 4 May 2007 p. 1963)
@@ -36,7 +36,8 @@ Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 5: The Firearms Act 1973 as at 9 Jan 2009 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 58 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 37 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
@@ -57,8 +58,8 @@ The Firearms Amendment Act 2004 s. 15(3) reads as follows:
 “
 (3) The amendments made by this section do not affect the validity of a licence or permit that a person already holds under the Firearms Act 1973 on the day on which this section comes into operation, but on or after that day the grant, issue, or renewal of a licence or permit has to be in accordance with that Act as amended by this section.
 ”.
-The amendments in the Firearms Amendment Act 2004 s. 22(4)(a) and 26 have not been proclaimed and will not be because the amendments they propose cannot operate due to the amendments made by the Criminal Code Amendment Act 2004 s. 58.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 37 had not come into operation. It reads as follows:
+The Firearms Amendment Act 2004 s. 22(4)(a) and 26 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 59.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 37 had not come into operation. It reads as follows:
 “
 37.Firearms Act 1973 amended
 (1) The amendments in this section are to the Firearms Act 1973.
@@ -93,7 +94,7 @@ department means the department principally assisting in the administration of t
 (d) by deleting the definition of “subsection”;
 (e) by deleting the definition of “the Board”.
 ”.
-On the date as at which this reprint was prepared, the Security and Related Activities (Control) Amendment Act 2008 s. 81 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Security and Related Activities (Control) Amendment Act 2008 s. 81 had not come into operation. It reads as follows:
 “
 81.Firearms Act 1973 amended
 (1) The amendment in this section is to the Firearms Act 1973.

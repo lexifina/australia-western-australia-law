@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 February 2009 of the Queen Elizabeth II Medical Centre Act 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Queen Elizabeth II Medical Centre Act 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Perth Medical Centre Act 1966 | 54 of 1966 | 5 Dec 1966 | 13 Sep 1968 (see s. 2 and Gazette 13 Sep 1968 p. 2747)
@@ -21,6 +21,7 @@ Health Legislation Amendment Act 2004 Pt. 5 | 61 of 2004 | 24 Nov 2004 | 24 Nov 
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 4: The Queen Elizabeth II Medical Centre Act 1966 as at 6 Feb 2009 (includes amendments listed above)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 105 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 The Queen Elizabeth II Medical Centre Amendment Act 1985 s. 9 reads as follows:
 “
 9.Validation

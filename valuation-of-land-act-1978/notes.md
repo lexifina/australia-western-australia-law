@@ -42,6 +42,7 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 6 | 28 o
 Land Information Authority Act 2006 s. 166-182 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Reprint 5: The Valuation of Land Act 1978 as at 2 Feb 2007 (includes amendments listed above)
 Petroleum Amendment Act 2007 s. 107 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 128 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Under the Land Administration Act 1997 s. 281(3), a reference to the Land Act 1933 in a written law is, unless the contrary intention appears, to be read and construed as being a reference to the Land Administration Act 1997.
 The name of the Local Government Act 1960 was changed to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 Repealed by the Interpretation Act 1984 s. 77(1).

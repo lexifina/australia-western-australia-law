@@ -2,7 +2,7 @@ Notes
 This is a compilation of the Children and Community Services Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Children and Community Services Act 2004 | 34 of 2004 | 20 Oct 2004 | s. 1 and 2: 20 Oct 2004; s. 3 and 102: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); Act other than s. 1-3 and 102 and Sch. 2 cl. 9(2) and 25: 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695); Sch. 2 cl. 9(2): 11 Mar 2006 (see s. 2 and Gazette 10 Mar 2006 p. 987)
+Children and Community Services Act 2004 | 34 of 2004 | 20 Oct 2004 | s. 1 and 2: 20 Oct 2004; s. 3 and 102: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); Act other than s. 1-3 and 102 and Sch. 2 cl. 9(2) and 25: 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695); Sch. 2 cl. 9(2): 11 Mar 2006 (see s. 2 and Gazette 10 Mar 2006 p. 987); Sch. 2 cl. 25 deleted by No. 8 of 2009 s. 32(4)
 Working with Children (Criminal Record Checking) Act 2004 Pt. 5 | 65 of 2004 | 8 Dec 2004 | Pt. 5 other than s. 50-52: 1 Jan 2006 (see s. 2 and Gazette 30 Dec 2005 p. 6875); s. 50-52: 1 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 85(4) | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Family Legislation Amendment Act 2006 Pt. 6 Div. 1 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
@@ -11,28 +11,9 @@ Reprint 1: The Children and Community Services Act 2004 as at 4 Apr 2008 (includ
 Legal Profession Act 2008 s. 642 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 4-11 | 26 of 2008 | 19 Jun 2008 | 1 Jan 2009 (see s. 2(b) and Gazette 9 Dec 2008 p. 5107)
 Surrogacy Act 2008 Pt. 4 Div. 2 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Children and Community Services Act 2004 Sch. 2 cl. 25 | 34 of 2004 | 20 Oct 2004 | To be proclaimed (see s. 2)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 32 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
-On the date as at which this compilation was prepared, the Children and Community Services Act 2004 Sch. 2 cl. 25 had not come into operation. It reads as follows:
-“
-Schedule 2 — Amendments to other Acts
-[s. 251]
-25.Spent Convictions Act 1988 amended
-(1) The amendments in this clause are to the Spent Convictions Act 1988.
-(2) Schedule 3 is amended in the Table to clause 2(1) as follows:
-(a) in item 3 by deleting “or permit to provide a child care service under the Community Services Act 1972.” and inserting instead —
-“
-to provide a child care service under Part 8 of the Children and Community Services Act 2004.
-”;
-(b) in item 5 by deleting “for licensing as a foster parent under the Child Welfare Act 1947.” and inserting instead —
-“
-for approval in relation to the placement of a child under the Children and Community Services Act 2004.
-”.
-”.
-Items 3 and 5 in the Table to cl. 2 in Sch. 3 of the Spent Convictions Act 1988 were deleted in Gazette 31 May 2005 p. 2420.
+Footnote no longer applicable.
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions which read as follows:
 “
 Part 6 — Transitional provisions

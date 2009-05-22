@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 April 2009 of the Court Security and Custodial Services Act 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Court Security and Custodial Services Act 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Court Security and Custodial Services Act 1999 | 46 of 1999 | 8 Dec 1999 | s. 1 and 2: 8 Dec 1999; Act other than s. 1, 2 and Pt. 5: 18 Dec 1999 (see s. 2(1) and Gazette 17 Dec 1999 p. 6175); Pt. 5: 18 Jun 2000 (see s. 2(2) and Gazette 16 Jun 2000 p. 2939)
@@ -19,6 +19,7 @@ Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 38 | 77 of 2006 |
 Police Amendment Act 2008 s. 12 and 23(2) | 8 of 2008 | 31 Mar 2008 | s. 12: 1 Apr 2008 (see s. 2(1)); s. 23(2): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Medical Practitioners Act 2008 Sch. 3 cl. 12 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 3: The Court Security and Custodial Services Act 1999 as at 3 Apr 2009 (includes amendments listed above)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 43 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 The “Inspector provisions” as defined in the Prisons Amendment Act 1999 s. 2(4) came into operation on 18 Jun 2000 (see Gazette 16 Jun 2000 p. 2939).
 The Inspector of Custodial Services Act 2003 s. 57 and Sch. 3 are transitional provisions.
 Defined Terms

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 23 March 2007 of the Lotteries Commission Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Lotteries Commission Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Lotteries Commission Act 1990 | 16 of 1990 | 31 Jul 1990 | 1 Jan 1991 (see s. 2 and Gazette 28 Dec 1990 p. 6369)
@@ -17,6 +17,7 @@ Reprint of the Lotteries Commission Act 1990 as at 6 Aug 1999 (includes amendmen
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Lotteries Commission Act 1990 as at 23 Mar 2007 (includes amendments listed above)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 89 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Now known as the Gaming and Wagering Commission Act 1987.

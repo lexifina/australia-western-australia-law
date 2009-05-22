@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 December 2006 of the Surveillance Devices Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Surveillance Devices Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Surveillance Devices Act 1998 | 56 of 1998 | 11 Jan 1999 | 22 Nov 1999 (see s. 2 and Gazette 22 Nov 1999 p. 5843)
@@ -12,6 +12,7 @@ Misuse of Drugs Amendment Act 2004 s. 9(3) | 62 of 2004 | 24 Nov 2004 | 1 Jan 20
 Australian Crime Commission (Western Australia) Act 2004 s. 72 | 74 of 2004 | 8 Dec 2004 | 1 Feb 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Royal Commissions (Powers) Amendment Act 2006 Pt. 3 | 30 of 2006 | 4 Jul 2006 | 16 Sep 2006 (see s. 2 and Gazette 15 Sep 2006 p. 3683)
 Reprint 2: The Surveillance Devices Act 1998 as at 8 Dec 2006 (includes amendments listed above)
+ | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 122 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The provision in this Act amending that Act has been omitted under the Reprints Act 1984 s. 7(4)(e).
 Section 4B expired on 16 Apr 2004 (see Royal Commission (Police) Act 2002 s. 3(3) and Gazette 16 Apr 2004 p. 1214).

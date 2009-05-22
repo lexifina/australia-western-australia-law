@@ -21,7 +21,8 @@ Western Australian Land Authority Amendment Act 2004 Pt. 2 | 67 of 2004 | 8 Dec 
 Reprint 2: The Western Australian Land Authority Act 1992 as at 4 Feb 2005 (includes amendments listed above)
 Land Information Authority Act 2006 s. 119 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 15 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 136 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 72 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
@@ -78,7 +79,7 @@ The Western Australian Land Authority Amendment Act 2004 s. 18(2) reads as follo
 “
 (2) Until the first annual report under section 25BA of the WALA Act as inserted by section 31, the reference in section 17A(3)(b) of the WALA Act to an annual report includes a reference to an annual report under the Financial Administration and Audit Act 1985.
 ”.
-As at the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 72 had not come into operation. It reads as follows:
+As at the date on which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 72 had not come into operation. It reads as follows:
 “
 72.Western Australian Land Authority Act 1992 amended
 Clause 2(4) in Schedule 4 to the Western Australian Land Authority Act 1992 is amended by deleting “(including rights under the Superannuation and Family Benefits Act 1938)”.

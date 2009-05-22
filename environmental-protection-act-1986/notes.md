@@ -28,7 +28,7 @@ Hope Valley-Wattleup Redevelopment Act 2000 s. 37 | 77 of 2000 | 7 Dec 2000 | 1 
 Corporations (Consequential Amendments) Act 2001 Pt. 23 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Armadale Redevelopment Act 2001 s. 69 | 25 of 2001 | 26 Nov 2001 | 23 Mar 2002 (see s. 2 and Gazette 22 Mar 2002 p. 1651)
 Reprint of the Environmental Protection Act 1986 as at 11 Jan 2002 (includes amendments listed above except those in the Environmental Protection Amendment Act 1998 s. 5 and the Armadale Redevelopment Act 2001)
-Environmental Protection Amendment Act 2003 8-12 | 54 of 2003 | 20 Oct 2003 | s. 1 and 2: 20 Oct 2003; Act other than s. 1, 2, 37, 54(2), 55, 72(2) and (4), 75(3) and (4) and Pt. 9: 19 Nov 2003 (see s. 2 and Gazette 18 Nov 2003 p. 4723); s. 37, 54(2), 55, 72(2) and (4), 75(3) and (4) and Pt. 9: 8 Jul 2004 (see s. 2 and Gazette 30 Jun 2004 p. 2581)
+Environmental Protection Amendment Act 2003 8-12 | 54 of 2003 (as amended by No. 8 of 2009 s. 54) | 20 Oct 2003 | s. 1 and 2: 20 Oct 2003; Act other than s. 1, 2, 37, 54(2), 55, 72(2) and (4), 75(3) and (4) and Pt. 9: 19 Nov 2003 (see s. 2 and Gazette 18 Nov 2003 p. 4723); s. 37, 54(2), 55, 72(2) and (4), 75(3) and (4) and Pt. 9: 8 Jul 2004 (see s. 2 and Gazette 30 Jun 2004 p. 2581)
 Contaminated Sites Act 2003 s. 100 | 60 of 2003 (as amended by No. 40 of 2005 s. 13) | 7 Nov 2003 | 1 Dec 2006 (see s. 2 and Gazette 8 Aug 2006 p. 2899)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
@@ -39,6 +39,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 2
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(1), (2), (4) and (5)) | 36 of 2007 | 21 Dec 2007 | Sch. 4 cl. 2(1), (2) and (4): 9 Jan 2008 (see s. 2(b) and Gazette 8 Jan 2008 p. 33) Sch. 4 cl. 2(5): 1 Jul 2008 (see s. 2(b) and Gazette 20 Jun 2008 p. 2705)
 Water Resources Legislation Amendment Act 2007 s. 194 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 6: The Environmental Protection Act 1986 as at 11 Apr 2008 (includes amendments listed above, except those in the Waste Avoidance and Resource Recovery Act 2008 s. 100 (Sch. 4 cl. 2(5))
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 53 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -81,7 +82,7 @@ The Environmental Protection Amendment Act 2003 s. 97(4) and (5) read as follows
 (5) Nothing in this section affects the operation of the Environmental Protection Act 1986 with respect to amendments to the approved policies as amended by this section and revocation of approval of the approved policies as amended by this section.
 ”.
 The Environmental Protection Amendment Act 2003 s. 110(2)-(4) are transitional provisions that are of no further effect.
-The Environmental Protection Amendment Act 2003 s. 111(2)-(5) read as follows:
+The Environmental Protection Amendment Act 2003 s. 111(2)-(5) (as amended by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 54(2) and (3)) read as follows:
 “
 (2) In subsections (3) to (5) —
 CEO has the same meaning as it has in the EP Act;
@@ -97,8 +98,9 @@ or
 (b)would have constituted a contravention of section 41A of the EP Act if that section had been inserted into the EP Act before the thing was done,
 but does not include clearing of a kind set out in Schedule 6 to the EP Act.
 (3) If the CEO suspects on reasonable grounds that unlawful clearing has taken place on any land during the transitional period, the CEO may cause a notice to be given under this subsection in respect of the land.
-(4) Section 70(3) to (11) and 74A of the EP Act apply in relation to a notice given under subsection (3) as if it were a vegetation conservation notice given under section 70(2)(b) of the EP Act and as if the reference to an offence in section 70(6) were a reference to an offence under an enactment mentioned in the definition of “unlawful clearing” in subsection (2).
-(5) Section 74A, Part VA and sections 89 and 103 of the EP Act apply in relation to a notice given under subsection (3) as if it were a vegetation conservation notice given under section 70(2)(b) of the EP Act.
+[(4)deleted]
+(5) Sections 70(3) to (11) and 74A, Part VA and sections 89 and 103 of the EP Act apply in relation to a notice given under subsection (3) as if it were a vegetation conservation notice given under section 70(2)(b) of the EP Act.
+[Section 111 amended by No. 8 of 2009 s. 54(2) and (3).]
 ”.
 On the date as at which this reprint was prepared, the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) had not come into operation. It reads as follows:
 “
