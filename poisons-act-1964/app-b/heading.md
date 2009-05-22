@@ -8,4 +8,4 @@ The 1972 protocol amending the Single Convention on Narcotic Drugs, signed at Ge
 The Convention on Psychotropic Substances, signed at Vienna on 21 February 1971.
 The United Nations Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances 1988.
 [Appendix B inserted by No. 48 of 1995 s. 41.]
-[Appendix C repealed by No. 48 of 1995 s. 42.]
+[Appendix C deleted by No. 48 of 1995 s. 42.]
