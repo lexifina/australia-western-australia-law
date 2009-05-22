@@ -37,7 +37,7 @@ Road Traffic Amendment Act 1985 | 89 of 1985 | 4 Dec 1985 | 4 Dec 1985 (see s. 2
 Road Traffic (Fees for Vehicle Licences) Regulations 1986 published in Gazette 30 May 1986 p. 1769-75 (erratum 13 Jun 1986 p. 1979) | 30 May 1986
 Road Traffic Amendment Act (No. 2) 1986 | 78 of 1986 | 4 Dec 1986 | 4 Dec 1986 (see s. 2)
 Road Traffic (Fees for Vehicle Licences) Regulations 1987 published in Gazette 29 May 1987 p. 2263-73 | 29 May 1987
-Road Traffic Amendment Act (No. 2) 1987 | 121 of 1987 (as amended by No. 84 of 2004 s. 80 cl. 123) | 24 Dec 1987 | s. 1 and 2: 24 Dec 1987; s. 3-6, 8-10: 24 Dec 1987 (see s. 2 and Gazette 24 Dec 1987 p. 4561); s. 7: 1 Oct 1988 (see s. 2 and Gazette 30 Sep 1988 p. 3967); s. 11(a): 21 Dec 1990 (see s. 2 and Gazette 21 Dec 1990 p. 6212)
+Road Traffic Amendment Act (No. 2) 1987 | 121 of 1987 (as amended by No. 84 of 2004 s. 80 cl. 123 and No. 8 of 2009 s. 112) | 24 Dec 1987 | s. 1 and 2: 24 Dec 1987; s. 3-6, 8-10: 24 Dec 1987 (see s. 2 and Gazette 24 Dec 1987 p. 4561); s. 7: 1 Oct 1988 (see s. 2 and Gazette 30 Sep 1988 p. 3967); s. 11(a): 21 Dec 1990 (see s. 2 and Gazette 21 Dec 1990 p. 6212) s. 11(b) deleted by No. 8 of 2009 s. 112
 Road Traffic Amendment Act 1988 | 11 of 1988 | 6 Sep 1988 | s. 1 and 2: 6 Sep 1988; s. 3, 20, 21 and 23: 28 Oct 1988 (see s. 2 and Gazette 28 Oct 1988 p. 4274); s. 8(a) and (b): 4 Nov 1988 (see s. 2 and Gazette 4 Nov 1988 p. 4365); s. 4-7, 9-17, 19, 22 and 24: 16 Nov 1988 (see s. 2 and Gazette 16 Nov 1988 p. 4517); s. 8(c) and 18 (other than paragraph (b)): 21 Jul 1989 (see s. 2 and Gazette 21 Jul 1989 p. 2212); s. 18(b): 19 Sep 1989 (see s. 2 and Gazette 21 Jul 1989 p. 2212)
 Road Traffic Amendment (Random Breath Tests) Act 1988 | 16 of 1988 (as amended by No. 46 of 1989 s. 4; No. 76 of 1996 s. 41 and No. 39 of 2000 s. 67) | 9 Sep 1988 | s. 1 and 2: 9 Sep 1988; Act other than s. 1, 2 and 5: 1 Oct 1988 (see s. 2 and Gazette 30 Sep 1988 p. 3967)
 Road Traffic Amendment Act (No. 3) 1988 | 32 of 1988 | 24 Nov 1988 | s. 1 and 2: 24 Nov 1988; Act other than s. 1 and 2: 21 Jul 1989 (see s. 3 and Gazette 21 Jul 1989 p. 2212)
@@ -133,11 +133,10 @@ Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Road Traffic Amendment Act 2008 (except s. 5(a) and 8) | 24 of 2008 | 13 Jun 2008 | s. 1 and 2: 13 Jun 2008 (see s. 2(1)(a)); s. 3, 4, 5(b)-(f), 6, 7, 9-25: 19 Jul 2008 (see s. 2(1)(b) and Gazette 18 Jul 2008 p. 3329)
 Criminal Law Amendment (Homicide) Act 2008 s. 38 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-Reprint 10: The Road Traffic Act 1974 as at 3 Oct 2008 (includes amendments listed above) (Correction to Reprint in Gazette 19 Oct 2010 p. 5202)
+Reprint 10: The Road Traffic Act 1974 as at 3 Oct 2008 (includes amendments listed above, except those in the Medical Practitioners Act 2008 s. 162) (Correction to Reprint in Gazette 19 Oct 2010 p. 5202)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Amendment Act (No. 2) 1987 s. 11(b) | 121 of 1987 (as amended by No. 84 of 2004 s. 80 (cl. 123)) | 24 Dec 1987 | To be proclaimed (see s. 2)
 Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (s. 27-30) | 39 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(g))
 Road Traffic Amendment Act 2008 s. 5(a) and 8 | 24 of 2008 | 13 Jun 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 Repealed by the Nurses and Midwives Act 2006.
@@ -204,26 +203,7 @@ The Road Traffic Amendment Act (No. 2) 1987 s. 10(2) reads as follows:
 “
 (2) A certificate that was in force under section 72(3)(b) of the principal Act immediately before the commencement of subsection (1)(d) shall have effect after that commencement as if it certified the person named in the certificate as being competent to operate all types of breath analysing equipment.
 ”.
-On the date as at which this compilation was prepared, the Road Traffic Amendment Act (No. 2) 1987 s. 11(b) (as amended by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 (cl. 123)) had not come into operation. It reads as follows:
-“
-11.Section 89 amended
-Section 89 of the principal Act is amended —
-(b) by repealing subsection (3) and substituting the following subsections —
-“
-(3) If a prosecution for an offence under this section has been commenced by a member of the Police Force and the owner of the vehicle has informed a member of the Police Force of loss or damage arising out of the alleged offence, it shall be the duty of the member of the Police Force who commenced the prosecution to make application to the Court by which the charge is heard for compensation under this section on behalf of the owner of the vehicle.
-(4) The Court shall enquire into such application and may, on or after conviction and in addition to any penalty imposed under this section, make such orders for compensation including loss of hire, time, fuel, or other loss and damage sustained by the owner and for the costs of the application against any or all persons convicted of an offence under this section in respect of the vehicle as seems just.
-(5) In determining the application, the Court shall take into account the circumstances of the offence and whether the owner had left the vehicle unlocked or otherwise unsecured and may reduce wholly or in part the amount of compensation accordingly.
-(6) Until the contrary is proved, any loss or damage sustained to the vehicle or by the owner shall be deemed for the purposes of this section to be the responsibility of the person or persons convicted of an offence under this section in respect of the vehicle.
-(7) In the exercise of its jurisdiction under this section —
-(a) the Court shall have the powers of a Local Court under the Local Courts Act 1904 and all such orders that it shall make shall be final but the Court shall not make any order for compensation against any person unless an opportunity has been given to that person to show why the order should not be made;
-(b) the Court shall not be bound by the strict rules of evidence and may receive any written affidavit or statutory declaration evidencing loss or damage as it considers to be reliable.
-(8) No order for compensation under this section shall affect the right of any person to recover by civil proceedings any sum in excess of the amount of the order, and refusal or reduction of compensation under this section shall be no bar to civil proceedings, but no order for compensation against a convicted person shall deprive that person of the right in civil proceedings to contribution from any tortfeasor.
-(9) In this section owner of the vehicle, in relation to an offence under this section, means the owner of the vehicle at the time of the offence and includes a person who was in lawful possession or charge of the vehicle at the time of the offence.
-(10) Section 719 of The Criminal Code does not apply to an offence under this section.
-[Section 11 amended by No. 84 of 2004 s. 80.]
-”.
-”.
-The amendment to s. 89 in the Road Traffic Amendment Act (No. 2) 1987 s. 11(b) has not been proclaimed because the section it sought to amend was repealed by the Criminal Law Amendment (Simple Offences) Act 2004 s. 82.
+Section 11(b) of this Act had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 112.
 The Road Traffic Amendment Act 1988 s. 17(2) and (3) read as follows:
 “
 (2) In subsection (3) the relevant regulations means any regulations purporting to have been made under the principal Act before 1 July 1984 that would have been authorised under section 43(7) or (8) of the Interpretation Act 1984 if they had been made on or after 1 July 1984.
