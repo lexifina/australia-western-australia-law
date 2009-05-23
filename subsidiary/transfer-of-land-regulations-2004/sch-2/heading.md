@@ -1,6 +1,6 @@
 ## Schedule 2 — Services and matters for which fees cannot be charged
-[r. 6(3)]
-[Heading amended in Gazette 27 May 2005 p. 2295.]
+[r. 9A(8)]
+[Heading amended in Gazette 27 May 2005 p. 2295; 22 May 2009 p. 1705.]
 1.Lodgment or withdrawal of a memorial under —
 (a) the Local Government (Miscellaneous Provisions) Act 1960 section 412A or the Local Government Act 1995 Schedule 6.3 clause 2; or
 [(b)deleted]
