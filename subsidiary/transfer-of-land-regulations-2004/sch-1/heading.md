@@ -1,6 +1,6 @@
 ## Schedule 1 — Fees
-[r. 6(1), (1a), (1b), (1c), (2), (2a), (2b)]
-[Heading inserted in Gazette 9 Jan 2009 p. 30.]
+[r. 9A(1), (2), (3), (4), (5), (6), (7)]
+[Heading inserted in Gazette 9 Jan 2009 p. 30; amended in Gazette 22 May 2009 p. 1705.]
 ## Division 1 — Registrations and recordings
 [Heading inserted in Gazette 9 Jan 2009 p. 30.]
 1. | Of a transfer of a mortgage or charge —
@@ -61,8 +61,9 @@ Note:The fees specified in items 1 to 4 include the creation and registration of
 4. | To amend certificates of title of other owners affected by section 170 of the Act — for each certificate of title affected | $105.00
 5. | To serve a section 138A caveator with notice under section 138B of the Act | $210.00
 6. | For each replacement edition of a duplicate certificate of title where a duplicate certificate of title was issued on the registration of the certificate of title | $105.00
+7A. | For information not to be inspected as part of the names index ................................................................ | $105.00
 7. | An application in respect of any matter not specifically provided for in this Division | $105.00
-[Division 4 inserted in Gazette 9 Jan 2009 p. 32.]
+[Division 4 inserted in Gazette 9 Jan 2009 p. 32; amended in Gazette 22 May 2009 p. 1705.]
 ## Division 5 — Certificates
 [Heading inserted in Gazette 9 Jan 2009 p. 32.]
 1. | For the issue of a certificate of title, either on request or where necessary in connection with an application or process (except where this service is included in another fee) | $105.00
