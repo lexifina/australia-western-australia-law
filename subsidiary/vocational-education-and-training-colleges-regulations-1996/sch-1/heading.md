@@ -14,7 +14,5 @@ Item | Fee for | Fee ($)
  | (d)for a band 4 unit | 62.00
 4. | Category B course, per semester (r. 12) | 25.00
 5. | Category C course, per hour, or part of an hour, for the course (r. 12) | 4.15
-6. | Application for accreditation (r. 16B) —
- | (a)of a qualification course | 1 000.00
- | (b)of a course or skills training programme other than a qualification course | 500.00
-[Schedule 1 inserted in Gazette 9 Nov 2007 p. 5609; amended in Gazette 21 Nov 2008 p. 4921.]
+[6.deleted]
+[Schedule 1 inserted in Gazette 9 Nov 2007 p. 5609; amended in Gazette 21 Nov 2008 p. 4921; 22 May 2009 p. 1694.]
