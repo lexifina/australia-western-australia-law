@@ -25,10 +25,36 @@ Pawnbrokers and Second-hand Dealers Amendment Regulations 2008 | 16 May 2008 p. 
 Pawnbrokers and Second-hand Dealers Amendment Regulations (No. 2) 2008 | 24 Jun 2008 p. 2907-9 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Reprint 3: The Pawnbrokers and Second-hand Dealers Regulations 1996 as at 10 Oct 2008 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 29 assented to 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Pawnbrokers and Second-hand Dealers Amendment Regulations 2009 r. 3-6 | 26 May 2009 p. 1808-10 | 1 Jul 2009 (see r. 2(b))
 Repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
 Repealed by the Financial Sector (Collection of Data — Consequential and Transitional Provisions) Act 2001 of the Commonwealth.
 Formerly referred to the Liquor Licensing Regulations 1989 the citation of which was changed to the Liquor Control Regulations 1989 by the Liquor Licensing Amendment Regulations 2007 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Pawnbrokers and Second-hand Dealers Act 1994.
+On the date as at which this compilation was prepared, the Pawnbrokers and Second-hand Dealers Amendment Regulations 2009 r. 3-6 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Pawnbrokers and Second-hand Dealers Regulations 1996.
+4.Regulation 28 amended
+In regulation 28 delete the Table and insert:
+Table — Fees for issue of licences
+ | Licence | 1 year or part thereof ($) | 2 year or part thereof ($) | 3 year or part thereof ($)
+1. | Pawnbroker’s licence only | 472 | 793 | 1 114
+2. | Second-hand dealer’s licence only (computer option) | 425 | 715 | 1 003
+3. | Second-hand dealer’s licence only (facsimile option) | 547 | 1 013 | 1 470
+4. | Pawnbroker’s licence and second-hand dealer’s licence | 535 | 858 | 1 180
+5.Regulation 29 amended
+In regulation 29 delete the Table and insert:
+Table — Fees for renewal of Licences
+ | Licence | 1 year or part thereof ($) | 2 year or part thereof ($) | 3 year or part thereof ($)
+1. | Pawnbroker’s licence only | 347 | 673 | 1 001
+2. | Second-hand dealer’s licence only (computer option) | 315 | 609 | 901
+3. | Second-hand dealer’s licence only (facsimile option) | 504 | 966 | 1 428
+4. | Pawnbroker’s licence and second-hand dealer’s licence | 371 | 723 | 1 050
+6.Regulation 31 amended
+In regulation 31 delete “$11.” and insert:
+$12.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
