@@ -25,4 +25,36 @@ Security and Related Activities (Control) Amendment Regulations (No. 3) 2006 | 3
 Reprint 4: The Security and Related Activities (Control) Regulations 1997 as at 1 Dec 2006 (includes amendments listed above)
 Security and Related Activities (Control) Amendment Regulations 2007 | 29 Jun 2007 p. 3200-1 | r. 1 and 2: 29 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Security and Related Activities (Control) Amendment Regulations 2008 | 24 Jun 2008 p. 2903-4 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Security and Related Activities (Control) Amendment Regulations 2009 r. 3 and 4 | 26 May 2009 p. 1810-12 | 1 Jul 2009 (see r. 2(b))
 Repealed by the Security and Related Activities (Control) Act 1996.
+On the date as at which this compilation was prepared, the Security and Related Activities (Control) Amendment Regulations 2009 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Security and Related Activities (Control) Regulations 1997.
+4.Schedule 4 replaced
+Delete Schedule 4 and insert:
+Schedule 4 — Fees
+[r. 54]
+Provision of Act or regulations Column 1 | Subject matter Column 2 | Fee ($) Column 3
+Agent’s licences
+s. 46(1) | Application for issue of agent’s licence —
+ | for one year or less | 451
+ | for 3 years | 472
+s. 46(1) | Application by licensee for an additional agent’s licence (each) | 176
+s. 49(1)(c) | Application for renewal of agent’s licence — 3 year (each) | 242
+Other licences
+s. 46(1) | Application for issue of any other licence —
+ | for one year or less | 155
+ | for 3 years | 177
+s. 46(1) | Application by licensee for an additional other licence (each) | 114
+s. 49(1)(c) | Application for renewal of any other licence — 3 year (each) | 139
+r. 10 | Application for endorsement under section 24 | 35
+r. 12 | Application for permit under section 25 | 139
+r. 13 | Application for endorsement under section 26 | 35
+Miscellaneous
+s. 10(2) | Application to inspect register | 34
+s. 10(3) | Certified copy of register entry | 35
+s. 46(1) | Fee if fingerprints and palm prints are required under section 48 | 96
+s. 66 | Issue of duplicate licence or duplicate identification card | 22
