@@ -31,3 +31,29 @@ Reprint 2: The Police (Fees) Regulations 1981 as at 21 Apr 2006 (includes amendm
 Police (Fees) Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2297-9 | 1 Jul 2006 (see r. 2)
 Police (Fees) Amendment Regulations 2007 | 29 Jun 2007 p. 3198-200 | r. 1 and 2: 29 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Police (Fees) Amendment Regulations 2008 | 24 Jun 2008 p. 2905-6 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Police (Fees) Amendment Regulations 2009 r. 3-5 | 26 May 2009 p. 1806-8 | 1 Jul 2009 (see r. 2(b))
+On the date as at which this compilation was prepared, the Police (Fees) Amendment Regulations 2009 r. 3-5 had not come into operation. They read as follows:
+Schedule 1 — Fees
+[r. 2(1)]
+1. | Copy of a person’s traffic records — (a)road traffic conviction record (b)traffic infringement notice record | $20.75 $20.75
+2. | Escorts and Guards —
+ | (a)each person provided per hour and part thereof for —
+ | (i)high risk escorts carried out by TRG | $89.95
+ | (ii)emergency escorts | $103.35
+ | (iii)other escorts | $81.95
+ | (b)per km rate for —
+ | (i)motor vehicle | 81.8 cents
+ | (ii)motor cycle | 26.3 cents
+ | (c)cancellation or modification of booking (less than 14 days notice) | $141.35
+3. | Photographs, authorised reproductions — (a)5 or more from the same film, per photograph ... (b)otherwise, per photograph | $12.95 $20.75
+4. | National criminal history record check — (a)issued to a volunteer organisation (b)issued to a public sector body (c)issued to a business | $11.00 $36.00 $41.50
+5. | National police certificate | $53.25
+6. | Traffic offence detection photographs (e.g. traffic speed camera, red light camera) if provided by police, per copy | $20.75
+7. | Provision of accident information —
+ | (a)details of accident to those involved or their representatives (outlining certain accident details) | $36.00
+ | (b)details of accident to Insurance Commission of Western Australia for third party insurance purposes | $36.00
+8. | Provision of information about a reported incident to those involved or their representatives (outlining certain incident details) | $36.00
+9. | Replacement of prosecution documents — (a)a statement of the material facts of a charge, which has already been served (per hour or part of an hour) (b)additional copy of documents already disclosed (per hour or part of an hour) | $92.40 $92.40
