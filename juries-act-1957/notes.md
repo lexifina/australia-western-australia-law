@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Juries Act 1957 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 June 2009 of the Juries Act 1957 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Juries Act 1957 | 50 of 1957 (6 Eliz. II No. 50) | 9 Dec 1957 | 1 Jul 1960 (see s. 1(2) and Gazette 6 Mar 1959 p. 539)
@@ -16,7 +16,7 @@ Juries Amendment Act 1981 | 6 of 1981 | 18 May 1981 | s. 4(a) and (b), and only 
 Acts Amendment (Abolition of Capital Punishment) Act 1984 Pt. IV | 52 of 1984 | 5 Sep 1984 | 3 Oct 1984
 Juries Amendment Act 1984 | 59 of 1984 | 24 Oct 1984 | s. 1 and 2: 24 Oct 1984; Act other than s. 1 and 2: 1 Jul 1985 (see s. 2 and Gazette 14 Dec 1984 p. 4115)
 Reprint of the Juries Act 1957 as at 2 Dec 1987 (includes amendments listed above)
-Juries Amendment Act 1988 | 13 of 1988 | 6 Sep 1988 | s. 1 and 2: 6 Sep 1988; Act other than s. 1 and 2: 4 Oct 1988
+Juries Amendment Act 1988 | 13 of 1988 | 6 Sep 1988 | 4 Oct 1988
 Acts Amendment (Spent Convictions) Act 1988 Pt. 3 | 56 of 1988 | 8 Dec 1988 | 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2644)
 Acts Amendment (Jurisdiction and Criminal Procedure) Act 1992 s. 9(4) | 53 of 1992 | 9 Dec 1992 | 1 Mar 1993 (see s. 2(1) and Gazette 26 Jan 1993 p. 823)
 Juries Amendment Act 1992 | 47 of 1992 | 10 Dec 1992 | 10 Dec 1992 (see s. 2)
@@ -35,48 +35,73 @@ Corruption and Crime Commission Act 2003 s. 62 | 48 of 2003 | 3 Jul 2003 | 1 Jan
 Sentencing Legislation Amendment and Repeal Act 2003 s. 29(3) and 73 | 50 of 2003 | 9 Jul 2003 | s. 29(3): 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); s. 73: 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 42 and 127 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Corruption and Crime Commission Amendment and Repeal Act 2003 s. 74(2) | 78 of 2003 | 22 Dec 2003 | 7 Jul 2004 (see s. 2 and Gazette 6 Jul 2004 p. 2697)
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
+Children and Community Services Act 2004 Sch. 2 cl. 16 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 10 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Electoral Amendment and Repeal Act 2005 s. 9 | 1 of 2005 | 20 May 2005 | 20 May 2005 (see s. 2)
 Reprint 4: The Juries Act 1957 as at 2 Sep 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
-Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 and Gazette 4 May 2007 p. 1963)
-Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
-Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | 23 Feb 2007 (see s. 2 and Gazette 20 Feb 2007 p. 505)
-Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | 30 May 2007 (see s. 2 and Gazette 29 May 2007 p. 2486)
+Psychologists Act 2005 Sch. 3 cl. 7 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 and Gazette 4 May 2007 p. 1963)
+Chiropractors Act 2005 Sch. 3 cl. 5 | 31 of 2005 | 12 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
+Physiotherapists Act 2005 Sch. 3 cl. 5 | 32 of 2005 | 12 Dec 2005 | 23 Feb 2007 (see s. 2 and Gazette 20 Feb 2007 p. 505)
+Osteopaths Act 2005 Sch. 3 cl. 5 | 33 of 2005 | 12 Dec 2005 | 30 May 2007 (see s. 2 and Gazette 29 May 2007 p. 2486)
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(2) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Parole and Sentencing Legislation Amendment Act 2006 s. 91 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
-Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
+Nurses and Midwives Act 2006 Sch. 3 cl. 12 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 9 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 5: The Juries Act 1957 as at 8 Jun 2007 (includes amendments listed above except those in the Chiropractors Act 2005 and the Nurses and Midwives Act 2006)
-Acts Amendment (Justice) Act 2008 Pt. 14 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
-Police Amendment Act 2008 s. 14 and s. 23(4) | 8 of 2008 | 31 Mar 2008 | s. 14: 1 Apr 2008 (see s. 2(1)) s. 23(4): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Criminal Law and Evidence Amendment Act 2008 s. 64 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+Acts Amendment (Justice) Act 2008 Pt. 14 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Police Amendment Act 2008 s. 14 and s. 23(4) | 8 of 2008 | 31 Mar 2008 | s. 14: 1 Apr 2008 (see s. 2(1)); s. 23(4): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Legal Profession Act 2008 s. 669 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Medical Practitioners Act 2008 Sch. 3 cl. 31 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Reprint 6: The Juries Act 1957 as at 5 Jun 2009 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Repealed by the Interpretation Act 1984.
-Repealed by the Nurses Act 1992.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Juries Amendment Act 1984 s. 25 reads as follows:
-“
 25.Saving
 A certificate of permanent exemption issued or purporting to have been issued pursuant to section 34A(2) of the principal Act as in force before the day that this Act comes into operation and in force before that day shall continue to have effect for the purposes of the principal Act after that day and, notwithstanding anything in the principal Act, the person with respect to whom the certificate is issued is not liable to serve as a juror.
-”.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 contains savings and transitional provisions that are of no further effect.
 The Juries Amendment Act 2003 s. 5(2) is a savings provision that is of no further effect.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) had not come into operation. It reads as follows:
-“
+On the date as at which this reprint was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) had not come into operation. It reads as follows:
 39.Second Schedule amended
 (1) The Second Schedule Part I item 2(i) is deleted and the following item is inserted instead —
 “
 (i) Officer or employee of the department of the Public Service principally assisting in the administration of this Act, other than an officer in the Public Trust Office;
 ”.
-”.
 The amendment to the Second Schedule, Pt. I it. (2)(i) in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) would not be included because the item it seeks to amend was repealed by the Prisons and Sentencing Legislation Amendment Act 2006 s. 66.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+Assembly district3(1)
+circuit court3(1)
+civil trial3(1)
+court town3(1)
+criminal trial3(1)
+District Court3(1)
+Electoral Commissioner33(6)
+general jury precept3(1)
+identification number3(1)
+judge3(1)
+jury assembly room3(1)
+jury district3(1)
+jury officer3(1)
+jury pool3(1)
+jury pool supervisor3(1)
+panel3(1)
+police officer3(1)
+pool precept3(1)
+prosecuting officer56A(1)
+protected information56A(1)
+publish56A(1)
+sheriff3(1)
+summoning officer3(1)
+summons and notice list33(2)
+Supreme Court3(1)
+tickets3(1)
+trial3(1)
