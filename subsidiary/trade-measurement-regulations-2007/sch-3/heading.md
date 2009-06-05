@@ -10,7 +10,7 @@ Flavouring essences | mass or volume, if the quantity is not less than 500 g
 Heavy residual fuel oil, industrial diesel fuel and furnace oil | mass or volume
 Honey, malt extract, golden syrup and treacle | mass
 Ice cream | volume
-Linseed oil and other vegetable oils | volume if the quantity is not more than 5 L; mass or volume if the quantity is more than 5 L.
+Linseed oil and other vegetable oils | volume if the quantity is not more than 5 L; mass or volume if the quantity is more than 5 L
 Liquefied petroleum gas | mass
 Liquid chemicals | mass or volume
 Paint (other than paste paint), varnish and varnish stains | volume

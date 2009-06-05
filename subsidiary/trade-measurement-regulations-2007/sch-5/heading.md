@@ -2,7 +2,7 @@
 [r. 108]
 [Heading inserted in Gazette 17 Jun 2008 p. 2561.]
  | $
-1.Application under regulation 103 ……………........... | 43.50
+1.Application under regulation 103 ............................... | 43.50
 2.Application under the principal Act section 55 .......... | 87.00
 3.Periodic licence for servicing licences under the principal Act section 64(1) .......................................... plus an additional amount of ....................................... for each person who, whether as the holder of the licence or an employee of the holder of the licence, will under the authority conferred by the licence — | 206.00 54.50
 (a)test a batch of measuring instruments for the purposes of certification or re-certification; or

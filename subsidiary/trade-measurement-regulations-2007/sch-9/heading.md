@@ -4,9 +4,9 @@ Form 1 — Infringement notice
 Trade Measurement Administration Act 2006 Infringement notice | Infringement notice no.
 Alleged offender | Name:Family name
 Given names
-orCompany name ____________________________________ ACN
-Address ________________________________________________ Postcode
-Alleged offence | Description of offence _____________________________________
+orCompany name ACN
+Address Postcode
+Alleged offence | Description of offence
 Trade Measurement Act 2006 s. OR Trade Measurement Regulations 2007 r.
 Date //20Time a.m./p.m.
 Modified penalty $
@@ -20,14 +20,14 @@ Form 2 — Withdrawal of infringement notice
 Trade Measurement Administration Act 2006; s. 25 Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name:Family name
 Given names
-orCompany name _____________________________________ ACN
-Address _________________________________________________ Postcode
+orCompany name ACN
+Address Postcode
 Infringement notice | Infringement notice no.
 Date of issue //20
-Alleged offence | Description of offence ____________________________________
+Alleged offence | Description of offence
 Trade Measurement Act 2006 s. OR Trade Measurement Regulations 2007 r.
 Date //20Time a.m./p.m.
 Authorised person giving this notice | Name
 _________________________________________ Signature
 Date | Date of withdrawal //20
-Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to: Commissioner, Trade Measurement Trading Standards Branch Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 Signature //20
+Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to: Commissioner, Trade Measurement Trading Standards Branch Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 Signature//20
