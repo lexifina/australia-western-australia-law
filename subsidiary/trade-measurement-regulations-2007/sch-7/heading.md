@@ -6,7 +6,7 @@
 (2) | Any adjustment made by an inspector to —
  | (a) | masses not exceeding 20 kg | per ½ hour or part of ½ hour | 1
  | (b) | masses exceeding 20 kg | per ½ hour or part of ½ hour | 2
- | (c) | caliberating measures | per ½ hour or part of ½ hour | 2
+ | (c) | calibrating measures | per ½ hour or part of ½ hour | 2
 (3) | Distance travelled by an inspector —
  | (a) | not exceeding 100 km | per km (subject to a minimum charge of $10.00) | 0.0355
  | (b) | exceeding 100 km | per km | 0.02
