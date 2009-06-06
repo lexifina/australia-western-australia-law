@@ -122,7 +122,7 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
  | AS 2550.6-1995 | Guided storing and retrieving appliances
  | AS 2550.7-1996 | Builders’ hoists and associated equipment
  | AS/NZS 2550.9:1996 | Vehicle hoists
- | AS 2550.10-1994 | Elevating work platforms
+ | AS/NZS 2550.10-2006 | Cranes, hoists and winches — Safe use — Mobile elevating work platforms
  | AS 2550.11-2004 | Cranes, hoists and winches — Safe use — Vehicle-loading cranes
  | AS 2550.13-1997 | Building maintenance units
  | AS 2550.15-1994 | Concrete placing equipment
@@ -135,7 +135,7 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
 34 | AS 2985-2004 | Workplace atmospheres — Method for sampling and gravimetric determination of respirable dust | 3.37
 35 | AS/NZS 3000:2007 | Electrical installations (known as the Australian/New Zealand Wiring Rules) | 3.101, 4.27
 36 | AS/NZS 3012:2003 | Electrical installations — Construction and demolition sites | 3.58, 3.60, 3.61, 3.62, 3.63, 3.64
-37 | AS/NZS 3108:1994 | Approval and test specification — Particular requirements for isolating transformers and safety isolating transformers | 3.60
+37 | AS/NZS 61558.2.23:2001 | Safety of power transformers, power supply units and similar devices — Particular requirements for transformers for construction sites (IEC 61558-2-23:2000, MOD) | 3.60
 38 | AS/NZS 3509:2003 | LP gas fuel vessels for automotive use | Sch. 4.2, Sch. 4.3
 39 | AS 3533 | Amusement rides and devices | 4.52, Sch. 4.1, Sch. 4.2, Sch. 4.3
  | AS 3533.1-1997 | Amusement rides and devices — Design and construction
@@ -154,7 +154,7 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
 47 | AS/NZS 4114 | Spray painting booths | 3.100
  | AS/NZS 4114.1:2003 | Spray painting booths, designated spray painting areas and paint mixing rooms — Design, construction and testing
  | AS/NZS 4114.2:2003 | Spray painting booths, designated spray painting areas and paint mixing rooms — Installation and maintenance
-48 | AS 4343-1999 | Pressure equipment — Hazard levels | 4.1, Sch. 4.1, Sch. 4.2, Sch. 4.3
+48 | AS 4343-2005 | Pressure equipment — Hazard levels | 4.1, Sch. 4.1, Sch. 4.2, Sch. 4.3
 49 | AS/NZS 4431:1996 | Guidelines for safe working on new lift installations in new constructions | 4.57
 50 | AS/NZS 4576:1995 | Guidelines for scaffolding | 3.26
-[Schedule 1 inserted in Gazette 28 Nov 2008 p. 5032-41.]
+[Schedule 1 inserted in Gazette 28 Nov 2008 p. 5032-41; amended in Gazette 5 Jun 2009 p. 1880-1.]
