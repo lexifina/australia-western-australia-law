@@ -13,4 +13,5 @@ Reprint 1: The Supreme Court (Fees) Regulations 2002 as at 18 Aug 2006 (includes
 Supreme Court (Fees) Amendment Regulations 2007 | 26 Jun 2007 p. 3042-4 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b)(i))
 Supreme Court (Fees) Amendment Regulations 2008 | 8 Feb 2008 p. 313-14 | r. 1 and 2: 8 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2008 (see r. 2(b) and Gazette 8 Feb 2008 p. 313)
 Supreme Court (Fees) Amendment Regulations (No. 2) 2008 | 27 Jun 2008 p. 3059-62 | r. 1 and 2: 27 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Supreme Court (Fees) Amendment Regulations 2009 | 9 Jun 2009 p. 1921-2 | r. 1 and 2: 9 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2009 (see r. 2(b))
 Repealed by the Defamation Act 2005.

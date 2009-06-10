@@ -43,18 +43,18 @@ Item | Matter | Fee for individual $ | Fee for person other than an individual $
  | NOTE:But if the search is made by a recognised service approved by the Attorney General: $1.00.
 12. | (a)On an application for the production of records or documents that are required to be produced to any court, tribunal, arbitrator or umpire ............................................ | 36.50 | 36.50
  | (b)If an officer is required to attend at any court or place out of the Supreme Court building, the officer’s reasonable expenses and, in addition, for each hour or part of an hour when the officer is necessarily absent from his or her office .............................................. | 61.50 | 61.50
-13. | (a)For a copy of a document of any kind or an exhibit, including marking as an office copy if required, for each page or part of a page ................................................ | 3.00 | 3.00
+13. | (a)For a copy of a document of any kind or an exhibit, including marking as an office copy if required, for each page or part of a page ................................................ | 1.50 | 1.50
  | (b)For a copy of reasons for judgment — (i)for each copy consisting of not more than 10 pages issued to a person not a party to the proceedings and for each copy in excess of one copy issued to a party to the proceedings ....... (ii)for each copy consisting of 10 or more pages an additional fee per page of ........................ | 8.65 1.10 | 8.65 1.10
  | (c)For certifying under seal that a document is a true copy, an additional fee of .............................. | 12.00 | 12.00
- | (d)For a certificate under the hand of a registrar .......................................... | 49.50 | 49.50
+ | (d)For a certificate under the hand of a registrar .......................................... | 26.00 | 26.00
  | (e)For sealing a warrant of arrest release, commission for the appraisement or sale of property or for the appraisement or sale in admiralty proceedings .................... | 49.50 | 49.50
 13A. | (a)For a copy of a transcript, for each page or part of a page ..................... | 4.85 | 4.85
  | (b)For each copy of a transcript in electronic format if a fee has been paid under paragraph (a) by the applicant for a copy of the transcript, for each day of transcript | 12.00 | 12.00
  | (c)For each copy of a transcript not in electronic format if a fee has been paid under paragraph (a) by the applicant for a copy of the transcript, for each page or part of a page ................................................ | 1.50 | 1.50
 14. | On filing an application —
- | (a)for the commission to take affidavits or for sealing any other commission, unless otherwise prescribed; or
- | (b)for admission as a practitioner ....... | 246.00 | N/A
-[Division 1 amended in Gazette 15 Feb 2002 p. 643; 30 Dec 2003 p. 5696-8; 28 Apr 2005 p. 1761-2; 23 Jun 2005 p. 2695-7; 23 Jun 2006 p. 2184-5; 26 Jun 2007 p. 3042-3; 27 Jun 2008 p. 3060.]
+ | (a)for the commission to take affidavits or for sealing any other commission, unless otherwise prescribed ...................................... | 246.00 | N/A
+ | (b)for admission as a practitioner ....... | 207.00 | N/A
+[Division 1 amended in Gazette 15 Feb 2002 p. 643; 30 Dec 2003 p. 5696-8; 28 Apr 2005 p. 1761-2; 23 Jun 2005 p. 2695-7; 23 Jun 2006 p. 2184-5; 26 Jun 2007 p. 3042-3; 27 Jun 2008 p. 3060; 9 Jun 2009 p. 1921-2.]
 ## Division 2 — Court of Appeal fees
 [r. 4]
 [Heading inserted in Gazette 23 Jun 2005 p. 2697.]
@@ -79,12 +79,12 @@ Item | Matter | Fee for individual $ | Fee for person other than an individual $
 8. | For searching any proceeding or record other than a search made by or on behalf of a party to an appeal ...................................... | 25.00 | 25.00
  | NOTE:
  | But if the search is made by a recognised service approved by Attorney General: $1.00.
-9. | (a)For a copy of a document of any kind or an exhibit, including marking as an office copy if required, for each page or part thereof ..................................... | 3.00 | 3.00
+9. | (a)For a copy of a document of any kind or an exhibit, including marking as an office copy if required, for each page or part thereof ..................................... | 1.50 | 1.50
  | (b)For a copy of reasons for judgment — (i)for each copy consisting of 10 pages or less issued to a person not a party to the appeal and for each copy in excess of one copy issued to a party to the appeal ......................................... | 8.65 | 8.65
  | (ii)for each copy consisting of more than 10 pages an additional fee per page of.................................. | 1.10 | 1.10
  | (c)For certifying under seal that a document is a true copy, an additional fee of .................................................. | 12.00 | 12.00
- | (d)For a certificate under the hand of a registrar ............................................. | 49.50 | 49.50
+ | (d)For a certificate under the hand of a registrar ............................................. | 26.00 | 26.00
 10. | (a)For a copy of a transcript, for each page or part of a page ......................... | 4.85 | 4.85
  | (b)For each copy of a transcript in electronic format if a fee has been paid under paragraph (a) by the applicant, for a copy of the transcript, for each day of transcript .................... | 12.00 | 12.00
  | (c)For each copy of a transcript not in electronic format if a fee has been paid under paragraph (a) by the applicant for a copy of the transcript, for each page or part of a page ............ | 1.50 | 1.50
-[Division 2 inserted in Gazette 23 Jun 2005 p. 2697-9; amended in Gazette 23 Jun 2006 p. 2185-6; 26 Jun 2007 p. 3043; 27 Jun 2008 p. 3061.]
+[Division 2 inserted in Gazette 23 Jun 2005 p. 2697-9; amended in Gazette 23 Jun 2006 p. 2185-6; 26 Jun 2007 p. 3043; 27 Jun 2008 p. 3061; 9 Jun 2009 p. 1921-2.]
