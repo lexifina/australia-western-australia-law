@@ -13,4 +13,4 @@
 5.Notification of the appointment of any person as chairman or member of a Board of Reference.
 6.Any matter which is prescribed or which is directed by the Court, the President, or the Chief Commissioner to be published or which the Registrar may consider should be published.
 [Schedule 1 amended by No. 94 of 1984 s. 66; No. 15 of 1993 s. 30; No. 79 of 1995 s. 42; No. 20 of 2002 s. 113(5) and 190(10).]
-[Schedule 2 repealed by No. 20 of 2002 s. 194(7).]
+[Schedule 2 deleted by No. 20 of 2002 s. 194(7).]
