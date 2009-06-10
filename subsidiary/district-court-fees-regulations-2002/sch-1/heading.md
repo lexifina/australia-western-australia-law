@@ -52,11 +52,11 @@ Item | Matter | Fee for individuals/personal injury $ | Fee for person other tha
  | The fee under item 11A(b) is payable on the date on which the recipient is approved by the Attorney General and on each anniversary of that date.
 12. | (a)On an application for the production of records or documents that are required to be produced to any court, tribunal, arbitrator or umpire ................................ | 36.50 | 36.50
  | (b)If an officer is required to attend at any court or place out of the District Court building, the officer’s reasonable expenses and, in addition for each hour when the officer is necessarily absent from his or her office ............................. | 61.50 | 61.50
-13. | (a)For a copy of a document of any kind or an exhibit, including marking as an office copy if required, for each page or part thereof ............................................. | 3 | 3
+13. | (a)For a copy of a document of any kind or an exhibit, including marking as an office copy if required, for each page or part thereof ............................................. | 1.50 | 1.50
  | (b)For a copy of reasons for judgment — (i)for each copy consisting of not more than 10 pages issued to a person not a party to the proceedings and for each copy in excess of one copy issued to a party to the proceedings ................. (ii)for each copy consisting of 10 or more pages an additional fee per page of ................................................ | 8.65 1.10 | 8.65 1.10
  | (c)for certifying under seal that a document is a true copy, an additional fee of ...................................................... | 12.00 | 12.00
- | (d)for a certificate under the hand of a registrar ................................................. | 49.50 | 49.50
+ | (d)for a certificate under the hand of a registrar ................................................. | 26.00 | 26.00
 14. | (a)For a copy of a transcript, for each page or part of a page ..................................... | 4.85 | 4.85
  | (b)For each copy of a transcript in electronic format if a fee has been paid under paragraph (a) by the applicant for a copy of the transcript, for each day of transcript ................................................ | 12.00 | 12.00
  | (c)For each copy of a transcript not in electronic format if a fee has been paid under paragraph (a) by the applicant for a copy of the transcript, for each page or part of a page ......................................... | 1.50 | 1.50
-[Schedule 1 amended in Gazette 30 Dec 2003 p. 5705-7; 28 Apr 2005 p. 1754-5; 23 Jun 2005 p. 2690-1; 23 Jun 2006 p. 2188; 26 Jun 2007 p. 3036; 27 Jun 2008 p. 3063.]
+[Schedule 1 amended in Gazette 30 Dec 2003 p. 5705-7; 28 Apr 2005 p. 1754-5; 23 Jun 2005 p. 2690-1; 23 Jun 2006 p. 2188; 26 Jun 2007 p. 3036; 27 Jun 2008 p. 3063; 9 Jun 2009 p. 1923.]
