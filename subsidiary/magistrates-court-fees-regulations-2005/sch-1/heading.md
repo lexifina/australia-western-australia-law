@@ -43,9 +43,9 @@ Item | Matter | $
  | (c)for each 30 minutes after 2 hours and 30 minutes that an enforcement officer is required to keep the person in custody until he or she is conveyed to a court or a custodial place ............................................................................... | 20.50
 NOTE 1 The fee under paragraph (a) is payable whether or not the Sheriff’s functions under the warrant are performed and includes up to 3 attempts to perform the functions at the same address.
 NOTE 2 The fee under paragraph (a) includes — (a)receipt of the warrant; and (b)attendances and inquiries before attempting arrest; and (c)giving any notice; and (d)making any report.
-10. | For an application for an extraordinary drivers licence under the Road Traffic Act 1974 | 183.00
+10. | For an application for an extraordinary drivers licence under the Road Traffic Act 1974 | 149.00
 11. | On filing — (a)an application for a misconduct restraining order under the Restraining Orders Act 1997; (b)an application under the Disposal of Uncollected Goods Act 1970; (c)an application under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 101 or 101A; (d)an application under the Dividing Fences Act 1961; (e)an application under the Pawnbrokers and Second-hand Dealers Act 1994. | 71.50
-[Division 2 amended in Gazette 23 Jun 2006 p. 2179-81; 26 Jun 2007 p. 3034-5; 27 Jun 2008 p. 3069-70; 23 Dec 2008 p. 5473.]
+[Division 2 amended in Gazette 23 Jun 2006 p. 2179-81; 26 Jun 2007 p. 3034-5; 27 Jun 2008 p. 3069-70; 23 Dec 2008 p. 5473; 9 Jun 2009 p. 1924.]
 ## Division 3 — Criminal jurisdiction
 Item | Matter | $
 1. | On filing —
