@@ -27,13 +27,13 @@ Reprint 5: The Occupational Safety and Health Act 1984 as at 24 Jun 2005 (includ
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Petroleum Amendment Act 2007 s. 101 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Police Amendment Act 2008 s. 15 and s. 23(5) | 8 of 2008 | 31 Mar 2008 | s. 15: 1 Apr 2008 (see s. 2(1)); s. 23(5): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
-Reprint 6: The Occupational Safety and Health Act 1984 as at 19 Dec 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Training Legislation Amendment and Repeal Act 2008 s. 57 | 44 of 2998 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
+Reprint 6: The Occupational Safety and Health Act 1984 as at 19 Dec 2008 (includes amendments listed above except those in the Training Legislation Amendment and Repeal Act 2008)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 65, 66 and 68 | 51 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Petroleum Legislation Amendment and Repeal Act 2005 s. 50 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
-Training Legislation Amendment and Repeal Act 2008 s. 57 | 44 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
@@ -114,7 +114,7 @@ as if section 68 had not been enacted.
 (1) An application for leave to appeal made under section 54B(2) of the Occupational Safety and Health Act 1984 but not finally determined before the commencement of section 68, and an appeal for which leave is granted on such an application, may be dealt with and determined as if that section had not been enacted.
 (2) An appeal brought under section 54B(2) of the Occupational Safety and Health Act 1984 but not finally determined before the commencement of section 68, may be dealt with and determined as if that section had not been enacted.
 ”.
-On the date as at which this reprint was prepared, the Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 65, 66 and 68 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 65, 66 and 68 had not come into operation. They read as follows:
 “
 65.Section 51C amended
 (1) Section 51C(1) is amended by deleting paragraph (a) and “and” after that paragraph.
@@ -124,7 +124,7 @@ Section 51D is repealed.
 68.Section 54B amended
 Section 54B(2), (3) and (4) are repealed.
 ”.
-On the date as at which this reprint was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 50 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 50 had not come into operation. It reads as follows:
 “
 50.Occupational Safety and Health Act 1984 amended
 (1) The amendments in this section are to the Occupational Safety and Health Act 1984.
@@ -137,7 +137,7 @@ On the date as at which this reprint was prepared, the Petroleum Legislation Ame
 (d) at which an offshore petroleum operation, as defined in section 4 of the Petroleum (Submerged Lands) Act 1982, is carried on.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Petroleum Amendment Act 2007 s. 101 was proclaimed but cannot take effect until the Petroleum Legislation Amendment and Repeal Act 2005 s. 50 comes into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 101 was proclaimed but cannot take effect until the Petroleum Legislation Amendment and Repeal Act 2005 s. 50 comes into operation. It reads as follows:
 “
 101.Occupational Safety and Health Act 1984 amended
 (1) The amendments in this section are to the Occupational Safety and Health Act 1984 as amended by the Petroleum Legislation Amendment and Repeal Act 2005.
@@ -148,20 +148,6 @@ On the date as at which this reprint was prepared, the Petroleum Amendment Act 2
 “
 Petroleum and Geothermal Energy Resources Act 1967,
 ”.
-”.
-On the date as at which this reprint was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 57 had not come into operation. It reads as follows:
-“
-57.Occupational Safety and Health Act 1984 amended
-(1) This section amends the Occupational Safety and Health Act 1984.
-(2) In section 3(1) delete the definitions of apprentice and trainee.
-(3) In section 3(1) insert in alphabetical order:
-apprentice means a person who is an apprentice under a training contract registered under the Vocational Education and Training Act 1996 Part 7 Division 2;
-(4) In section 3(1) in the definition of employee delete paragraph (b) and insert:
-(b)an apprentice;
-(5) In section 3(1) in the definition of employer delete paragraph (b) and insert:
-(b)in relation to an apprentice, a person who employs the apprentice under a training contract registered under the Vocational Education and Training Act 1996 Part 7 Division 2;
-(6) In section 3(1) in the definition of self-employed person delete paragraph (b) and insert:
-(b)as an apprentice,
 ”.
 A reference to the Petroleum Safety Act 1999 is not included in the table because that Act was repealed before the amendments in Sch. 2 to that Act came into operation. The repeal was made by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51.
 Defined Terms
@@ -250,11 +236,9 @@ that workplace33(4)
 the relevant procedure24(2)
 the workplace33(4), 35(1a)
 trade union3(1)
-trainee3(1)
 transferred law3(1)
 Tribunal3(1), 51G(2)
 visitor57A(2)(a)
 WA Police3(1)
 worker23E(1)9a), 23F(1)
 workplace3(1), 23L(1), 39C(1), 40(1), 43(1a), 49(7)(a)(i)
-By Authority: JOHN A. STRIJK, Government Printer
