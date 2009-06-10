@@ -69,6 +69,7 @@ Liquor Control Amendment Regulations (No. 4) 2008 | 28 Oct 2008 p. 4729-31 | r. 
 Liquor Control Amendment Regulations (No. 8) 2008 | 6 Feb 2009 p. 247-8 | r. 1 and 2: 6 Feb 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Feb 2009 (see r. 2(b))
 Liquor Control Amendment Regulations 2009 | 13 Mar 2009 p. 763-4 | r. 1 and 2: 13 Mar 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Mar 2009 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 2) 2009 | 1 May 2009 p. 1437-8 | r. 1 and 2: 1 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 2 May 2009 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 6) 2009 | 9 Jun 2009 p. 1927-8 | r. 1 and 2: 9 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2009 (see r. 2(b)(i))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Commenced 7 May 2007.
 Now known as the Liquor Control Regulations 1989; citation changed (see note under r. 1).
@@ -79,7 +80,6 @@ The Liquor Control Amendment Regulations (No. 2) 2007 r. 12 could not have effec
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-accredited18F(1)
 aged person8(2)
 aggregate amount24(2)
 alcohol based food essence4A(2)
@@ -87,11 +87,11 @@ alcohol based novelty food item4A(2)
 anticipated number of persons attending3A(1), 14AC(3)
 approved operator8(2)
 approved person18B(5)
+approved VET course18F
 approved viticulture course9A(10e)
 bar11(1)
 caterer9A(13a)
 commencement day8(4)
-course18F(1)
 course of instruction or training9A(10e)
 crowd controller18EB(3)
 current26(1ab)
@@ -112,7 +112,6 @@ retail sale4A(2)
 room service restaurant9A(17)
 sale5(2)(a)
 signature18C(2)
-skills training programme18F(1)
 special event9A(10e)
 tax period3A(1)
 tourist9A(9)
