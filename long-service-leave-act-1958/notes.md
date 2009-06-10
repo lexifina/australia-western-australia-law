@@ -18,10 +18,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Labour Relations Legislation Amendment Act 2006 Pt. 7 Div. 2 | 36 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2(1))
 Reprint 4: The Long Service Leave Act 1958 as at 1 Sep 2006 (includes amendments listed above)
 Legal Profession Act 2008 s. 676 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Training Legislation Amendment and Repeal Act 2008 s. 54 | 44 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(1)(b) and (2))
+Training Legislation Amendment and Repeal Act 2008 s. 54 | 44 of 2008 | 10 Dec 2003 | 10 Jun 2009 (see s. 2(2))
 Repealed by the Statute Law Revision Act 1950 of the Commonwealth.
 Repealed by the Defence Legislation Amendment Act 1992 of the Commonwealth.
 Repealed by the Industrial Relations (Consequential Provisions) Act 1988 of the Commonwealth.
@@ -51,15 +48,4 @@ The LSL General Order is repealed.
 (4) A provision of the Long Service Leave Act 1958 corresponds to a provision of the LSL General Order if the provisions deal with substantially the same matter.
 (5) In this section —
 commencement means the coming into operation of the Labour Relations Legislation Amendment Act 2006 Part 7 Division 2.
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 54 had not come into operation. It reads as follows:
-“
-54.Long Service Leave Act 1958 amended
-(1) This section amends the Long Service Leave Act 1958.
-(2) In section 4(1) delete the definitions of apprentice and industrial trainee.
-(3) In section 4(1) insert in alphabetical order:
-apprentice means a person who is an apprentice under a training contract registered under the Vocational Education and Training Act 1996 Part 7 Division 2;
-(4) In section 4(1) in the definition of employee in paragraph (a) delete “apprentice or industrial trainee;” and insert:
-apprentice;
 ”.

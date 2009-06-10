@@ -14,10 +14,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Retail Shops and Fair Trading Legislation Amendment Act 2006 Pt. 2 | 47 of 2006 | 4 Oct 2006 | 11 May 2007 (see s. 2 and Gazette 11 May 2007 p. 2017)
 Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Reprint 2: The Retail Trading Hours Act 1987 as at 16 Nov 2007 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Training Legislation Amendment and Repeal Act 2008 s. 60 | 44 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(1)(b) and (2))
+Training Legislation Amendment and Repeal Act 2008 s. 60 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
 The Retail Shops and Fair Trading Legislation Amendment Act 2006 s. 18 reads as follows:
@@ -27,11 +24,4 @@ An order made, or purporting to have been made, under the Retail Trading Hours A
 (a) is taken to have been validly made under that section of that Act;
 (b) continues, on and after that commencement, to have effect and the force of law; and
 (c) in relation to an order made under section 5, 12, 13 or 14 of that Act that continues to have effect and the force of law under paragraph (b) — may be amended or revoked as if it had been made under section 12E of that Act as amended by this Act.
-”.
-On the date as at which this compilation was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 60 had not come into operation. It reads as follows:
-“
-60.Retail Trading Hours Act 1987 amended
-(1) This section amends the Retail Trading Hours Act 1987.
-(2) In section 10(3)(bc) delete “apprentice, as defined in the Industrial Training Act 1975 section 4(1))” and insert:
-apprentice under a training contract registered under the Vocational Education and Training Act 1996 Part 7 Division 2)
 ”.

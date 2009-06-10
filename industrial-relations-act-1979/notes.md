@@ -74,15 +74,14 @@ Acts Amendment (Justice) Act 2008 Pt. 13 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008
 Police Amendment Act 2008 s. 13 and 23(3) | 8 of 2008 | 31 Mar 2008 | s. 13: 1 Apr 2008 (see s. 2(1)); s. 23(3): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Legal Profession Act 2008 s. 668 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-Reprint 12: The Industrial Relations Act 1979 as at 2 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
+Training Legislation Amendment and Repeal Act 2008 s. 53 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
+Reprint 12: The Industrial Relations Act 1979 as at 2 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008 and the Training Legislation Amendment and Repeal Act 2008)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 77 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Vocational Education and Training Act 1996 s. 62 | 42 of 1996 | 16 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
-Training Legislation Amendment and Repeal Act 2008 s. 53 | 44 of 2008 | 10 Dec 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 of the Commonwealth.
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
@@ -189,47 +188,7 @@ remains of effect until a State Wage order takes effect.
 (4) A date specified under subsection (3)(b) must not be a date that is earlier than the day on which the order is made.
 (5) Despite section 50A(1)(b), the Commission must not adjust rates of wages paid under awards in a State Wage order made in relation to the period ending 30 June 2007 if, during 2006 and before that State Wage order is made, the Commission has made a General Order under section 50 of the Industrial Relations Act 1979 adjusting rates of wages paid under awards generally.
 ”.
-On the date as at which this compilation was prepared, the Vocational Education and Training Act 1996 s. 62, which gives effect to Sch. 2, had not come into operation. Section 62 and Sch. 2 read as follows:
-“
-62. Consequential amendments and transitional provisions relating to this Part
-Schedule 2 has effect —
-(a) to amend the Industrial Relations Act 1979 as a consequence of the repeal of the Industrial Training Act 1975; and
-(b) in relation to the transition from the operation of the Industrial Training Act 1975 to the operation of this Part.
-Schedule 2
-[Section 62]
-Amendments and transitional provisions relating to Part 7
-1.Industrial Relations Act 1979 amended
-The Industrial Relations Act 1979 is amended in section 7 —
-(a) in the definition of “apprentice” by deleting “an apprentice under the Industrial Training Act 1975” and substituting the following —
-“
-a person who has entered an apprenticeship within the meaning of that term in section 58 of the Vocational Education and Training Act 1996
-”;
-(b) in paragraph (a) of the definition of “employee” by deleting “industrial”;
-(c) by deleting the definition of “industrial trainee”;
-(d) in paragraph (f) of the definition of “industrial matter” —
-(i) by deleting “industrial”;
-(ii) by deleting “Industrial Training Act 1975” and substituting the following —
-“
-relevant training scheme under the Vocational Education and Training Act 1996
-”;
-and
-(iii) by deleting “any agreement of apprenticeship or industrial training agreement” and substituting the following —
-“
-an apprenticeship contract or other agreement forming part of a training scheme under that Act
-”;
-and
-(e) by inserting after the definition of “teacher” the following definition —
-“
-trainee means a trainee under a training scheme established under the Vocational Education and Training Act 1996;
-”.
-2.Transitional
-(1) In this clause —
-repealed Act means the Industrial Training Act 1975 repealed by section 61.
-(2) On the commencement of section 61 any apprenticeship agreement or industrial training agreement entered into and registered under the repealed Act and in force immediately before that commencement is to be taken to be an agreement entered into under a training scheme established or recognised under section 58 but with the same terms, conditions and provisions as were applicable before that commencement.
-(3) Any regulations made under the repealed Act and in operation immediately before the commencement of section 61 which were applicable to, or in respect of, an apprenticeship or industrial training agreement referred to in subclause (2) are to continue to apply to such an agreement, until regulations are made under this Act in respect of the matters covered by those regulations.
-(4) Regulations may be made, with effect from a time which is not earlier than the commencement of section 61, amending or supplementing the transitional provisions set out in subclauses (2) and (3) for the purpose of providing an effective and efficient transition from the provisions of the repealed Act to the provisions of this Act.
-”.
-The amendments to s. 7 by the Vocational Education and Training Act 1996 s. 62, which gives effect to Sch. 2, would conflict with amendments in the Labour Relations Reform Act 2002 s. 178(1), (2), (3) and (4).
+18-19Footnotes no longer applicable.
 On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2a) and (4)(a) had not come into operation. They read as follows:
 “
 49.Industrial Relations Act 1979 amended
@@ -238,48 +197,8 @@ On the date as at which this compilation was prepared, the Petroleum Legislation
 (4) Section 113(1)(d)(ii) is amended as follows:
 (a) after item (I) by deleting “and”;
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Training Legislation Amendment and Repeal Act 2008 s. 53 had not come into operation. It reads as follows:
-“
-53.Industrial Relations Act 1979 amended
-(1) This section amends the Industrial Relations Act 1979.
-(2) In section 7(1) delete the definitions of apprentice and trainee.
-(3) In section 7(1) insert in alphabetical order:
-apprentice means a person who is an apprentice under a training contract registered under the Vocational Education and Training Act 1996 Part 7 Division 2;
-(4) In section 7(1) in the definition of employee in paragraph (a) delete “apprentice or trainee;” and insert:
-apprentice;
-(5) In section 7(1) in the definition of group training organisation delete “and trainees” (each occurrence).
-(6) In section 7(1) in the definition of industrial matter delete paragraph (f) and insert:
-(f)in respect of apprentices, these additional matters —
-(i)their wage rates and, subject to the Vocational Education and Training Act 1996 Part 7 Division 2, other conditions of employment; and
-(ii)the wages, allowances and other remuneration to be paid to them, including for time spent in performing their obligations under training contracts registered under the Vocational Education and Training Act 1996 Part 7 Division 2, whether at their employers’ workplaces or not; and
-(iii)without limiting subparagraphs (i) and (ii), those other rights, duties and liabilities of them and their employers under such contracts that do not relate to the training and assessment they are to undergo, whether at their employers’ workplaces or not;
-(7) In section 50A(1)(a):
-(a) in subparagraph (i) delete “apprentices or trainees;” and insert:
-apprentices;
-(b) delete subparagraph (iii).
-(8) In section 50A(5) delete “employee, apprentice or trainee” (each occurrence) and insert:
-employee or apprentice
-(9) In section 50A(6):
-(a) delete “employee, apprentice or trainee” (first occurrence) and insert:
-employee or apprentice
-(b) delete “employee, apprentice or trainee.” (second occurrence) and insert:
-employee or apprentice.
-(10) In section 50B(1):
-(a) delete “or trainees” (each occurrence);
-(b) delete “apprentice or trainee; or” and insert:
-apprentice; or
-(11) In section 50B(2) delete “or trainees” (each occurrence).
-(12) In section 50B(3):
-(a) delete “apprentice and each class of trainee —” and insert:
-apprentice —
-(b) delete “or trainees, as is relevant to the case,”.
-(13) In section 50B(4):
-(a) delete “or trainees” (each occurrence);
-(b) delete “apprentice or trainee,” and insert:
-apprentice,
-”.
 Reprints before Reprint 9 are not numbered. Reprint 9 and subsequent reprints are numbered consecutively but are out by one number.
+Sch. 2 of the Vocational Education and Training Act 1996 had not come into operation when it was deleted by the Training Legislation Amendment and Repeal Act 2008 s. 48.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -460,7 +379,6 @@ the respondent77(1)
 the State rules71A(2)
 third party23B(1)
 threats48B(5)
-trainee7(1)
 transport Minister80M(1)
 Union80M(1)
 vary7(1)
