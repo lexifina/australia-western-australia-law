@@ -74,6 +74,10 @@ Ports and Harbours Amendment Regulations (No. 2) 2007 | 12 Jun 2007 p. 2723-5 | 
 Reprint 2: The Ports and Harbours Regulations 1966 as at 26 Oct 2007 (includes amendments listed above)
 Ports and Harbours Amendment Regulations 2008 | 1 Jul 2008 p. 3155-6 | r. 1 and 2: 1 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2008 (see r. 2(b))
 Ports and Harbours Amendment Regulations (No. 3) 2008 | 1 Jul 2008 p. 3156-9 | r. 1 and 2: 1 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Ports and Harbours Amendment Regulations 2009 r. 3 and 4 | 12 Jun 2009 p. 2117-18 | 1 Jul 2009 (see r. 2(b))
 Repealed by the Port Authorities (Consequential Provisions) Act 1999.
 Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act. As at the date this compilation was prepared the department principally assisting the Minister in the administration of the Marine and Harbours Act 1981 is the Department of Planning and Infrastructure.
 Now known as the Australian Maritime Safety Authority.
@@ -81,3 +85,23 @@ Repealed by the Pollution of Waters by Oil and Noxious Substances Act 1987.
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 Repealed by the Fish Resources Management Act 1994.
 Now known as the Ports and Harbours Regulations 1966; citation changed (see note under r. 1).
+On the date as at which this compilation was prepared, the Ports and Harbours Amendment Regulations 2009 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Ports and Harbours Regulations 1966.
+4.Third Schedule amended
+(1) In the Third Schedule Division 2 item 1 delete paragraphs (a) and (b) and insert:
+ | (a)subject to paragraph (b), where the length of the vessel exclusive of bowsprit —
+ | (i)does not exceed 6 m | $116.40
+ | (ii)exceeds 6 m but does not exceed 10 m | $152.40
+ | (iii)exceeds 10 m but does not exceed 20 m | $223.00
+ | (iv)exceeds 20 m but does not exceed 30 m | $342.50
+ | (v)exceeds 30 m but does not exceed 50 m | $522.60
+ | (vi)exceeds 50 m but does not exceed 70 m | $816.70
+ | (b)where vessel enters port for coal, fuel oil, supplies or orders, and not loading or unloading cargo or taking on more than 10 passengers | $103.80
+(2) In the Third Schedule Division 2 item 3 delete paragraphs (a) to (f) and insert:
+ | (a)does not exceed 6 m | $116.40
+ | (b)exceeds 6 m but does not exceed 10 m | $152.40
+ | (c)exceeds 10 m but does not exceed 20 m | $223.00
+ | (d)exceeds 20 m but does not exceed 30 m | $342.50
+ | (e)exceeds 30 m but does not exceed 50 m | $522.60
+ | (f)exceeds 50 m | $816.70
