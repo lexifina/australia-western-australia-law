@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 September 2008 of the Mooring Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Mooring Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Mooring Regulations 1998 | 11 Dec 1998 p. 6659-78 | 11 Dec 1998
@@ -15,8 +15,27 @@ Mooring Amendment Regulations (No. 2) 2006 | 23 Jun 2006 p. 2206 | 1 Jul 2006 (s
 Mooring Amendment Regulations 2007 | 12 Jun 2007 p. 2725-6 | 1 Jul 2007 (see r. 2)
 Mooring Amendment Regulations 2008 | 24 Jun 2008 p. 2893 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Reprint 2: The Mooring Regulations 1998 as at 12 Sep 2008 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Mooring Amendment Regulations 2009 r. 3 and 4 | 12 Jun 2009 p. 2119 | 1 Jul 2009 (see r. 2(b))
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
+On the date as at which this compilation was prepared, the Mooring Amendment Regulations 2009 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Mooring Regulations 1998.
+4.Schedule 2 replaced
+Delete Schedule 2 and insert:
+Schedule 2 — Fees
+[r. 9, 12, 13, 15, 16, 25, 27]
+Item |  | Fee
+1. | Application for mooring licence (r. 9(1)(c)) | $82.60
+2. | Annual mooring licence fee (r. 12(1)(c), 13(1)) | $468.40
+3. | Late fee (r. 13(3)) | $82.60
+4. | Exchange of mooring licence (r. 15(2)(b)) | $82.60
+5. | Application for transfer of mooring licence (r. 16(2)(b)) | $82.60
+6. | Substitution of licensed vessel (r. 25(5)(b)) | $82.60
+7. | Application to register additional vessel (r. 27(e)) | $82.60
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
