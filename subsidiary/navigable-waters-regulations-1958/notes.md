@@ -122,11 +122,41 @@ Reprint 13: The Navigable Waters Regulations 1958 as at 3 Oct 2008 (includes ame
 Navigable Waters Amendment Regulations (No. 5) 2008 | 24 Oct 2008 p. 4669-70 | r. 1 and 2: 24 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Oct 2008 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 6) 2008 | 9 Jan 2009 p. 36-7 | r. 1 and 2: 9 Jan 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jan 2009 (see r. 2(b))
 Navigable Waters Amendment Regulations 2009 | 13 Mar 2009 p. 761-2 | r. 1 and 2: 13 Mar 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Mar 2009 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Navigable Waters Amendment Regulations (No. 2) 2009 r. 3-6 | 12 Jun 2009 p. 2129-30 | 1 Jul 2009 (see r. 2(b))
 Footnote no longer applicable.
 Repealed by the Dangerous Goods Safety Act 2004.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
+On the date as at which this compilation was prepared, the Navigable Waters Amendment Regulations (No. 2) 2009 r. 3-6 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Navigable Waters Regulations 1958.
+4.Regulation 45B amended
+(1) Delete the Table to regulation 45B(3a) and insert:
+Table of fees
+Where the length of the vessel is —
+(i)less than 5 m | $76.10
+(ii)5 m or over but less than 10 m | $161.60
+(iii)10 m or over but less than 20 m | $324.40
+(iv)20 m or over | $474.50
+(2) In regulation 45B(4) delete “$29.70.” and insert:
+$40.10.
+5.Regulation 45BAA amended
+In regulation 45BAA(4)(g) delete “$29.70” and insert:
+$40.10
+6.Regulation 45BA amended
+(1) In regulation 45BA(2):
+(a) in paragraph (a) delete “$261.70” and insert:
+$272.70
+(b) in paragraph (b) delete “$71.20” and insert:
+$74.20
+(2) In regulation 45BA(3) delete “$196.90” and insert:
+$205.20
+(3) In regulation 45BA(6a)(b) delete “$71.20.” and insert:
+$74.20.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
