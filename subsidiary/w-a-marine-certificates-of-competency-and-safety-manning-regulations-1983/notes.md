@@ -40,4 +40,27 @@ W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulation
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2007 | 12 Jun 2007 p. 2728-9 | 1 Jul 2007 (see r. 2)
 Reprint 3: The W.A. Marine (Certificates of Competency and Safety Manning) Regulations 1983 as at 3 Aug 2007 (includes amendments listed above)
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations (No. 2) 2008 | 24 Jun 2008 p. 2895-6 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2009 r. 3 and 4 | 12 Jun 2009 p. 2120-1 | 1 Jul 2009 (see r. 2(b))
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
+On the date as at which this compilation was prepared, the W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2009 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the W.A. Marine (Certificates of Competency and Safety Manning) Regulations 1983.
+4.Schedule 3 amended
+In Schedule 3:
+(a) delete “$87.30” (each occurrence) and insert:
+$111.10
+(b) delete “$70.70” (each occurrence) and insert:
+$90.00
+(c) delete “$54.10” and insert:
+$68.90
+(d) delete “$151.70” and insert:
+$193.00
+(e) delete “$141.60/hour” and insert:
+$180.20/hour
+(f) delete “$90.60/hour” and insert:
+$115.30/hour
+(g) delete “$8.60” and insert:
+$11.00
