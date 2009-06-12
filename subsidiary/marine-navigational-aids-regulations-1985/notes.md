@@ -23,4 +23,27 @@ Marine Navigational Aids Amendment Regulations 2006 | 23 Jun 2006 p. 2205 | 1 Ju
 Marine Navigational Aids Amendment Regulations 2007 | 22 Jun 2007 p. 2848-9 | 1 Jul 2007 (see r. 2)
 Reprint 3: The Marine Navigational Aids Regulations 1985 as at 7 Sep 2007 (includes amendments listed above)
 Marine Navigational Aids Amendment Regulations 2008 | 24 Jun 2008 p. 2890-1 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Marine Navigational Aids Amendment Regulations 2009 r. 3-5 | 12 Jun 2009 p. 2127-8 | 1 Jul 2009 (see r. 2(b))
 Formerly referred to the Ports and Harbours Regulations, the citation of which was changed to the Ports and Harbours Regulations 1966 by the Ports and Harbours Amendment Regulations 2005 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+On the date as at which this compilation was prepared, the Marine Navigational Aids Amendment Regulations 2009 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Marine Navigational Aids Regulations 1985.
+4.Regulation 3 amended
+In regulation 3(1) delete “the Schedule” and insert:
+Schedule 1
+5.Schedule replaced
+Delete the Schedule and insert:
+Schedule 1 — Fees — Fishing Boats
+[r. 3]
+The fees in the Table are payable in respect of the provision of marine navigational aids outside any port under the control of a port authority and the approaches to that port.
+Table
+Length of the fishing boat (excluding bowsprit) | Fee ($)
+Not more than 6 m | 116.40
+More than 6 m but not more than 10 m | 152.40
+More than 10 m but not more than 20 m | 223.00
+More than 20 m but not more than 30 m | 342.50
+More than 30 m but not more than 50 m | 522.60
+More than 50 m | 816.70
