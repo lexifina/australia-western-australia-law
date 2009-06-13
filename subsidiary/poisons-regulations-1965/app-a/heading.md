@@ -268,6 +268,6 @@ The authorised officer named in this warrant may, during the time the warrant is
 (e)take and remove a sample of anything in or on premises, vehicles or vessels;
 (f)seize anything reasonably suspected of being relevant to the investigation of an offence against this Act.
 [Form 15 inserted in Gazette 19 Mar 1996 p. 1236-8.]
-[Appendix B repealed in Gazette 1 Oct 1993 p. 5361.]
-[Appendices C, D and E repealed in Gazette 11 Nov 1988 p. 4444.]
-[Appendix F repealed in Gazette 1 Aug 1986 p. 2739.]
+[Appendix B deleted in Gazette 1 Oct 1993 p. 5361.]
+[Appendices C, D and E deleted in Gazette 11 Nov 1988 p. 4444.]
+[Appendix F deleted in Gazette 1 Aug 1986 p. 2739.]

@@ -10,4 +10,4 @@ Chlorpromazine (but not to be supplied for use on horses).
 Procaine penicillin for parenteral injection.
 Streptomycin.
 [Appendix H inserted in Gazette 8 Feb 1985 p. 520 (erratum in Gazette 19 Apr 1985 p. 1409); amended in Gazette 19 Mar 1996 p. 1239.]
-[Appendix I repealed in Gazette 23 May 1986 p. 1720.]
+[Appendix I deleted in Gazette 23 May 1986 p. 1720.]
