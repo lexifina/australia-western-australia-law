@@ -9,6 +9,7 @@ Industrial Relations Commission Amendment Regulations 2008 | 22 Jan 2008 p. 192-
 Reprint 1: The Industrial Relations Commission Regulations 2005 as at 16 May 2008 (includes amendments listed above)
 Industrial Relations Commission Amendment Regulations (No. 2) 2008 | 10 Jun 2008 p. 2491-4 | r. 1 and 2: 10 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Aug 2008 (see r. 2(b) and Act No. 7 of 2007 s. 58)
 Industrial Relations Commission Amendment Regulations (No. 5) 2008 | 31 Oct 2008 p. 4767-8 | r. 1 and 2: 31 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2008 (see r. 2(b))
+Industrial Relations Commission Amendment Regulations (No. 2) 2009 | 16 Jun 2009 p. 2189-91 | r. 1 and 2: 16 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jun 2009 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnote referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement

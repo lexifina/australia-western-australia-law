@@ -203,6 +203,25 @@ on the ground/s set forth in the attached schedule.
  | ..................................................................
  | (signature of appellant/s)
 This form must be completed by the appellant, sealed and, where necessary, sealed by him or her and a statement of the grounds of appeal must be attached. (Stamp of Commission)
+Form 9A — Notice of appeal under Vocational Education and Training Act 1996
+[r. 101(1)]
+Industrial Relations Act 1979
+In the Western Australian Industrial Relations Commission
+ | No. ..............................of 20..........
+Notice of appeal under Vocational Education and Training Act 1996
+To: | (name, address and telephone number of respondent/s)
+TAKE NOTICE THAT
+ | (name, address and telephone number of appellant/s)
+has this day instituted an appeal to the Commission against the decision given on the .......................................... day of 20.
+by the chief executive officer of the department principally assisting the Minister to administer the Vocational Education and Training Act 1996 or
+.
+(state title of person who gave decision)
+in respect of —
+(state briefly the subject matter of the decision)
+on the ground/s set out in the attached schedule.
+ | (signature of appellant/s)
+This form must be completed by the appellant, sealed and, where necessary, sealed by him or her and a statement of the grounds of appeal must be attached. (Stamp of Commission)
+[Form 9A inserted in Gazette 16 Jun 2009 p. 2190-1.]
 ## Form 9 — Notice of appeal to Full Bench
 [r. 99 and 102(1)]
 Industrial Relations Act 1979
