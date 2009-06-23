@@ -30,9 +30,9 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 98 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 4: The Petroleum Act 1967 as at 13 Apr 2007 (includes amendments listed above)
 Petroleum Amendment Act 2007 Pt. 2 Div. 1 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
-Reprint 5: The Petroleum and Geothermal Energy Resources Act 1967 as at 2 May 2008 (includes amendments listed above)
+Reprint 5: The Petroleum and Geothermal Energy Resources Act 1967 as at 2 May 2008 (includes amendments listed above) (correction to reprint in Gazette 23 Jun 2009 p. 2470)
 Revenue Laws Amendment Act (No. 2) 2008 s. 34 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 Sch. 2 Div. 7 | 60 of 1999 | 10 Jan 2000 | s. 7.3 operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
@@ -146,7 +146,7 @@ The Acts Amendment (Mining and Petroleum) Act 1999 s. 26(5) reads as follows:
 (5) Despite the amendments made by this section, section 43F of the Petroleum Act 1967 continues to apply to and in relation to the extension of a drilling reservation in force on the commencement of this section.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 “
 7.3.Consequential amendments
 Schedule 2 has effect.
@@ -202,7 +202,7 @@ After section 116(1) the following subsection is inserted —
 (1a)Where the giving of a consent under subsection (1) is a Part 2 act, a Part 3 act or Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of that subsection is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 Pt. 2 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 Pt. 2 had not come into operation. It reads as follows:
 “
 Part 2 — Petroleum Act 1967
 3.The Act amended
@@ -1420,7 +1420,7 @@ regulations made for the purposes of this subclause may declare that this Schedu
 this Schedule includes regulations made for the purposes of this Schedule.
 ”.
 ”.
-On the date as at which this reprint was prepared, the Petroleum Amendment Act 2007 Pt. 2 Div. 2 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 Pt. 2 Div. 2 had not come into operation. It reads as follows:
 “
 Part 2 — Petroleum Act 1967
 Division 2 — Amendments to Act as amended by the Petroleum Legislation Amendment and Repeal Act 2005
