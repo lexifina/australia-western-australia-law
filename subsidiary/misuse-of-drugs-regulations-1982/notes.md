@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 22 February 2008 of the Misuse of Drugs Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Misuse of Drugs Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Misuse of Drugs Regulations 1982 | 13 Aug 1982 p. 3113-19 | 1 Sep 1982 (see r. 2 and Gazette 20 Aug 1982 p. 3250)
@@ -12,6 +12,7 @@ Misuse of Drugs Amendment Regulations 2004 | 10 Dec 2004 p. 5967-80 | 1 Jan 2005
 Misuse of Drugs Amendment Regulations 2006 | 11 Jul 2006 p. 2543-4 | 11 Jul 2006
 Misuse of Drugs Amendment Regulations 2007 | 20 Apr 2007 p. 1740-2 | 28 Apr 2007 (see r. 2 and Gazette 27 Apr 2007 p. 1775)
 Reprint 2: The Misuse of Drugs Regulations 1982 as at 22 Feb 2008 (includes amendments listed above)
+Misuse of Drugs Amendment Regulations 2009 | 23 Jun 2009 p. 2492-3 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jun 2009 (see r. 2(b))
 Repealed by the Optometrists Act 2005.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Defined Terms

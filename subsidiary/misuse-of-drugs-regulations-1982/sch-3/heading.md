@@ -5,6 +5,7 @@
 [Heading inserted in Gazette 10 Dec 2004 p. 5974.]
 Chemical name | Alternate name | Quantity substance in seized sample
 Acetic anhydride |  | 50 ml
+Acetyl Chloride |  | 50ml
 4-Amino-Butanoic acid | Piperidinic acid
 Bromobenzene | Phenylbromide
 Bromo safrole
@@ -45,9 +46,9 @@ Phosphorus red/white |  | 19 g
 Phosphorous acid | Phosphonic Acid
 Pseudoephedrine (including salts) |  | 37 g
 Pyridine
-[Division 1 inserted in Gazette 10 Dec 2004 p. 5974-5.]
+[Division 1 inserted in Gazette 10 Dec 2004 p. 5974-5; amended in Gazette 23 Jun 2009 p. 2493.]
 ## Division 2 — Things
-[Heading inserted in Gazette 10 Dec 2004 p. 5976.]
-Description | Details
-Gas cylinder containing ammonia gas
-[Division 2 inserted in Gazette 10 Dec 2004 p. 5976.]
+[Heading inserted in Gazette 23 Jun 2009 p. 2493.]
+Item | Description
+1 | Any storage device containing ammonia gas where the mass of the storage device is less than one tonne.
+[Division 2 inserted in Gazette 23 Jun 2009 p. 2493.]
