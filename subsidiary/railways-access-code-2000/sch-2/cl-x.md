@@ -1,2 +1,4 @@
-### Definition
-The railways network is divided into sections for management and costing purposes. In this Schedule the reference to route section is a reference to the sections of the railways network as so divided.
+### Terms used
+1.In item 4 of this Schedule —
+gross tonnage of a train means the total of the weights of the rolling stock of the train and of the freight carried;
+tonnage of freight carried means the gross tonnage of the train less the weight of the rolling stock.

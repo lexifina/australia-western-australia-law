@@ -53,12 +53,14 @@ Dual Gauge Routes
 48.All spur line tracks servicing customer facilities on the dual gauge network except private sidings that are excluded by paragraph (h) of the definition of “railway infrastructure” in section 3.
 Urban Network
 49.The narrow gauge double tracks between Perth and —
-(a)Currambine;
-(b)Fremantle;
+(a)Clarkson; and
+(b)Fremantle; and
 (c)Armadale; and
-(d)Midland.
+(d)Midland; and
+(e)Mandurah.
+50A.The narrow gauge single track between Beckenham Junction and Thornlie.
 50.The dual gauge track between Robb Jetty and Leighton and the spur line between Leighton and North Fremantle.
 51.The narrow gauge mainline track between Armadale and Mundijong Junction.
 TPI Railway and Port Agreement Route
 52.All tracks that are part of the railway constructed pursuant to the TPI Railway and Port Agreement.
-[Schedule 1 inserted in Gazette 23 Jul 2004 p. 2993-5; amended by No. 77 of 2004 s. 13.]
+[Schedule 1 inserted in Gazette 23 Jul 2004 p. 2993-5; amended in Gazette 23 Jun 2009 p. 2416; amended by No. 77 of 2004 s. 13.]
