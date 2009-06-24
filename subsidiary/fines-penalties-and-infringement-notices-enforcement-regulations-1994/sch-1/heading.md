@@ -15,9 +15,13 @@ Curtin University of Technology Act 1966 | 20A
 Dog Act 1976 | 45A
 Edith Cowan University Act 1984 | 29
 Electoral Act 1907 | 156
+Electricity Act 1945
+Energy Coordination Act 1994
+Energy Safety Act 2006
 Environmental Protection Act 1986
 Fish Resources Management Act 1994
 Gaming and Wagering Commission Act 1987
+Gas Standards Act 1972
 Government Railways Act 1904 | 53A
 Home Building Contracts Act 1991
 Hospitals and Health Services Act 1927
@@ -41,4 +45,4 @@ University of Western Australia Act 1911 | 16A
 Water Agencies (Powers) Act 1984 | 103
 Western Australian Marine Act 1982 | 132
 Zoological Parks Authority Act 2001
-[Schedule 1 amended in Gazette 30 Jun 1995 p. 2637 and 2643; 19 Jul 1996 p. 3458; 1 Aug 1997 p. 4394; 23 Jan 1998 p. 408; 8 Dec 1998 p. 6574; 2 Jul 1999 p. 2919; 31 Dec 1999 p. 7076; 27 Aug 2002 p. 4354; 12 Dec 2003 p. 5037; 4 Jun 2004 p. 1933; 13 May 2005 p. 2080; 14 Jul 2006 p. 2564; 18 May 2007 p. 2257; 11 Mar 2008 p. 818-19.]
+[Schedule 1 amended in Gazette 30 Jun 1995 p. 2637 and 2643; 19 Jul 1996 p. 3458; 1 Aug 1997 p. 4394; 23 Jan 1998 p. 408; 8 Dec 1998 p. 6574; 2 Jul 1999 p. 2919; 31 Dec 1999 p. 7076; 27 Aug 2002 p. 4354; 12 Dec 2003 p. 5037; 4 Jun 2004 p. 1933; 13 May 2005 p. 2080; 14 Jul 2006 p. 2564; 18 May 2007 p. 2257; 11 Mar 2008 p. 818-19; 23 Jun 2009 p. 2466.]
