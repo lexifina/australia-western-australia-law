@@ -16,4 +16,4 @@
 3. | Variation of notation of security interest....... | $70
  | Access to register
 1. | Copy of an entry in, or an extract from, the register (s. 26GZI(4)) | $25 for the first page, $1 for each additional page
-[Part 3 repealed in Gazette 30 Dec 2004 p. 7000.]
+[Part 3 deleted in Gazette 30 Dec 2004 p. 7000.]
