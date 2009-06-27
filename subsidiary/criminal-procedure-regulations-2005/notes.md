@@ -14,6 +14,7 @@ Criminal Procedure Amendment Regulations 2009 | 27 Feb 2009 p. 517-18 | r. 1 and
 Criminal Procedure Amendment Regulations (No. 3) 2009 | 21 Apr 2009 p. 1368 | r. 1 and 2: 21 Apr 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Apr 2009 (see r. 2(b))
 Criminal Procedure Amendment Regulations (No. 2) 2009 | 8 May 2009 p. 1501-2 | r. 1 and 2: 8 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 9 May 2009 (see r. 2(b))
 Criminal Procedure Amendment Regulations (No. 5) 2009 | 23 Jun 2009 p. 2467 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jun 2009 (see r. 2(b))
+Criminal Procedure Amendment Regulations (No. 4) 2009 | 26 Jun 2009 p. 2569 | r. 1 and 2: 26 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2009 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

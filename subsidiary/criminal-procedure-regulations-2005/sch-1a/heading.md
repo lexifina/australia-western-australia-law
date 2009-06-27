@@ -18,7 +18,6 @@ Electricity Act 1945
 Employment Agents Act 1976
 Energy Coordination Act 1994
 Energy Safety Act 2006
-Fair Trading Act 1987
 Gas Standards Act 1972
 Hire-Purchase Act 1959
 Land Valuers Licensing Act 1978
@@ -30,4 +29,4 @@ Settlement Agents Act 1981
 Street Collections (Regulation) Act 1940
 Sunday Entertainments Act 1979
 Travel Agents Act 1985
-[Schedule 1A inserted in Gazette 14 Jul 2006 p. 2568-9; amended in Gazette 13 Nov 2007 p. 5696; 8 May 2009 p. 1502; 23 Jun 2009 p. 2467.]
+[Schedule 1A inserted in Gazette 14 Jul 2006 p. 2568-9; amended in Gazette 13 Nov 2007 p. 5696; 8 May 2009 p. 1502; 23 Jun 2009 p. 2467; 26 Jun 2009 p. 2569.]
