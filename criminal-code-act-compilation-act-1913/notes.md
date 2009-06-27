@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 October 2008 of the Criminal Code Act Compilation Act 1913 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Code Act Compilation Act 1913 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Code Act Compilation Act 1913 | 28 of 1913 (4 Geo. V No. 28) | 30 Dec 1913 | 1 Jan 1914 (see s. 1)
@@ -148,13 +148,13 @@ Criminal Code Amendment (Drink and Food Spiking) Act 2007 | 31 of 2007 | 21 Dec 
 Reprint 13: The Criminal Code Act Compilation Act 1913 as at 18 Jan 2008 (includes amendments listed above)
 Criminal Law and Evidence Amendment Act 2008 Pt. 2 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Acts Amendment (Justice) Act 2008 s. 129 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 4 | 25 of 2008 | 19 Jun 2008 | 27 Jun 2009 (see s. 2 and Gazette 26 Jun 2009 p. 2565)
 Criminal Law Amendment (Homicide) Act 2008 Pt. 2 and s. 27 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-Reprint 14: The Criminal Code Act Compilation Act 1913 as at 3 Oct 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Reprint 14: The Criminal Code Act Compilation Act 1913 as at 3 Oct 2008 (includes amendments listed above except those in the Acts Amendment (Consent to Medical Treatment) Act 2008)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 4 | 25 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -194,7 +194,7 @@ Division 2 — Transitional provisions
 (5) If immediately before repeal day a person is in possession of any thing seized or taken under The Criminal Code, then on repeal day, subject to any order previously made in respect of the thing under The Criminal Code section 714, the thing is to be taken to be seized property for the purposes of the Criminal and Found Property Disposal Act 2006 and that Act applies to and in respect of it accordingly.
 (6) If immediately before repeal day proceedings under The Criminal Code section 714A in respect of any property are pending in the Magistrates Court, then section 714A operates in respect of the property on and after repeal day despite its repeal on repeal day.
 ”.
-On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 30 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 30 had not come into operation. It reads as follows:
 “
 30.The Criminal Code amended
 (1) The amendments in this section are to The Criminal Code.
@@ -202,27 +202,6 @@ On the date as at which this reprint was prepared, the Prostitution Amendment Ac
 (3) Section 191 is repealed.
 (4) Section 557K(1) paragraph (h) of the definition of “child sex offender” is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
-”.
-On the date as at which this reprint was prepared, the Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 4 had not come into operation. It reads as follows:
-“
-Part 4 — The Criminal Code amended
-17.The Act amended
-The amendments in this Part are to The Criminal Code.
-18.Section 259 amended
-Section 259 is amended as follows:
-(a) by inserting before “A person” the subsection designation “(1)”;
-(b) by deleting “treatment —” and inserting instead —
-“ treatment (including palliative care) — ”;
-(c) at the end of the section by inserting —
-“
-(2) A person is not criminally responsible for not administering or ceasing to administer, in good faith and with reasonable care and skill, surgical or medical treatment (including palliative care) if not administering or ceasing to administer the treatment is reasonable, having regard to the patient’s state at the time and to all the circumstances of the case.
-”.
-19.Section 265 amended
-Section 265 is amended by inserting after “treatment” —
-“ (including palliative care) ”.
-20.Section 275 amended
-Section 275 is amended by deleting “treatment, and” and inserting instead —
-“ treatment (including palliative care), and ”.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -587,7 +566,7 @@ Defamation | 345
 Defence See also Criminal responsibility; Evidence; Onus of proof; Plea of accused— accident against harmful act autrefois acquit See Autrefois acquit autrefois convict See Autrefois convict belief that child was 13 or over belief that child was 16 or over belief that child was 18 or over claim of right See Claim of right defence of property duress emergency former acquittal See Autrefois acquit former conviction See Autrefois convict home invasion against ignorance of law intoxication or stupefaction lawful authority married to victim necessity provocation self defence surgical operation for benefit of patient unwilled act or omission of custom, in cases of corruption of agents, etc of person against harmful act of property, against trespasser See Trespasser of want of knowledge— on indictment for attempting offence of age of victim on charge of— child-stealing consorting with child sex offender consorting with declared drug trafficker dealing with property used in connection with offence defamation fraud, against trustee or officer of company injuring property permitting carnal connection with child on premises possessing property suspected of being stolen etc. property laundering taking unlawful oath, compulsion, how far a self See Self-defence | 23B 248 17 17 204B(11) 186, 204A(4), 204B(10), 321(9), 321A(9) 322(7) 22 251-255 32 25 17 17 244 22 28 31 321(10), 321A(10), 322(8), 330(9) 265 246 248 259 23A 542 248 251-256 4 205, 331 343 557K 557J 563B 345 422 441 186 428 563A 49
 Defence Force, officer of— giving information of, unlawful oath to order by, as to suppression of riot subject to Code and special Laws | 49 242 15
 Defendant See Accused person
-Definitions See list of Defined Terms after the notes to this reprint
+Definitions See list of Defined Terms after the notes to this compilation
 Delusion, criminal responsibility in case of | 27
 Demanding property, with threats | 396, 397
 Depot, stealing from | 378(5)(c)
@@ -739,7 +718,7 @@ Intention common, to prosecute unlawful purpose fraudulent See Fraudulent intent
 Interest— in thing injured, injury by person having in thing stolen, stealing by person having justice having personal, exercising jurisdiction | 441 376 139(2)
 Interference with See also Injury; Obstruction; Removal administration of justice See Justice bank or wall of sea, etc See Bank or wall boundary mark dead body elections, secrecy at elector Governor Minister navigation works Parliament political liberty possession of land See Land railway See Railway | 122(1) 461 214(2) 104 97, 100, 101 54 54 458 55 75 451, 462
 Internet See computer, electronic communication
-Interpretation of terms See list of Defined Terms after the notes to this reprint
+Interpretation of terms See list of Defined Terms after the notes to this compilation
 Interrogatory, answer to | 738
 Intoxicant— administering deceptively defined offence committed under influence of, liability for supplying to people likely to abuse | 305A 206 28 206
 Intoxication, effect of on criminal responsibility | 28

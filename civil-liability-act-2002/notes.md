@@ -20,22 +20,5 @@ Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see
 Reprint 2: The Civil Liability Act 2002 as at 5 Oct 2007 (includes amendments listed above)
 Legal Profession Act 2008 s. 646 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 3 | 25 of 2008 | 19 Jun 2008 | 27 Jun 2009 (see s. 2 and Gazette 26 Jun 2009 p. 2565)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 33 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 3 | 25 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
-On the date as at which this compilation was prepared, the Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 3 had not come into operation. It reads as follows:
-“
-Part 3 — Civil Liability Act 2002 amended
-15.The Act amended
-The amendments in this Part are to the Civil Liability Act 2002.
-16.Section 5PA amended
-Section 5PA is amended as follows:
-(a) by deleting “includes” and inserting instead —
-“ means ”;
-(b) by deleting paragraph (m) and inserting instead —
-“
-(m) any other person who practises a discipline or profession in the health area that involves the application of a body of learning.
-”.
-”.
