@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Valuation of Land Regulations 1979 and includes the amendments included in the reprint of 23 April 1993 and the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Valuation of Land Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any previous reprints.
 Compilation table
 Citation | Gazettal | Commencement
 Valuation of Land Regulations 1979 | 6 Apr 1979 p. 928 | 1 Jul 1979
@@ -19,6 +19,7 @@ Valuation of Land Amendment Regulations 1992 | 5 Jun 1992 p. 2362 | 1 Jul 1992 (
 Valuation of Land Amendment Regulations (No. 2) 1992 | 26 Jun 1992 p. 2809-10 | 30 Jun 1992 (see r. 2)
 Valuation of Land Amendment Regulations (No. 3) 1992 | 6 Oct 1992 p. 4949 | 6 Oct 1992
 Valuation of Land Amendment Regulations 1993 | 12 Mar 1993 p. 1586-7 | 12 Mar 1993
+Reprinted as at 23 Apr 21993 (correction in Gazette 28 May 1992 p. 2585)
 Valuation of Land Amendment Regulations (No. 2) 1993 | 18 Jun 1993 p. 3016-7 | 30 Jun 1993 (see r. 2)
 Valuation of Land Amendment Regulations 1994 | 17 Jun 1994 p. 2628-9 | 30 Jun 1994 (see r. 2)
 Valuation of Land Amendment Regulations 1995 | 27 Jun 1995 p. 2616-9 | 30 Jun 1995 (see r. 2)
@@ -26,16 +27,7 @@ Valuation of Land Amendment Regulations 1996 | 14 Jun 1996 p. 2607-10 | 30 Jun 1
 Valuation of Land Amendment Regulations (No. 2) 1996 | 27 Dec 1996 p. 7158-60 | 28 Dec 1996 (see r. 2 and Gazette 27 Dec 1996 p. 7153)
 Valuation of Land Amendment Regulations 1997 | 24 Jun 1997 p. 3016-17 | 30 Jun 1997 (see r. 2)
 Valuation of Land Amendment Regulations 1999 | 11 Jun 1999 p. 2552-3 | 30 Jun 1999 (see r. 2)
+Reprinted as at 15 Oct 1999
 Valuation of Land Amendment Regulations 2006 | 29 Dec 2006 p. 5917 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
 Valuation of Land Amendment Regulations 2008 | 20 Jun 2008 p. 2718 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Valuation of Land Amendment Regulations 2009 r. 3-4 | 27 Mar 2009 p. 925-6 | 30 Jun 2009 (see r. 2(b))
-On the date as at which this compilation was prepared, the Valuation of Land Amendment Regulations 2009 r. 3-4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Valuation of Land Regulations 1979.
-4.Regulation 3A replaced
-(1) Delete regulation 3A and insert:
-3A.Prescribed percentage under paragraph (b)(vii)(II) of the definition of unimproved value in section 4(1)
-The prescribed percentage for the purposes of paragraph (b)(vii)(II) of the definition of unimproved value in section 4(1) of the Act in the local government districts of Albany, Augusta-Margaret River, Beverley, Boddington, Boyup Brook, Bridgetown, Brookton, Broomehill-Tambellup, Busselton, Bruce Rock, Capel, Carnamah, Chapman Valley, Chittering, Collie, Coorow, Corrigin, Cranbrook, Cuballing, Cunderdin, Dalwallinu, Dandaragan, Dardanup, Denmark, Donnybrook, Dowerin, Dumbleyung, Esperance, Gingin, Gnowangerup, Goomalling, Geraldton-Greenough, Harvey, Irwin, Jerramungup, Katanning, Kellerberrin, Kent, Kojonup, Kondinin, Koorda, Kulin, Lake Grace, Manjimup, Merredin, Mingenew, Moora, Morawa, Mount Marshall, Mukinbudin, Mullewa, Murray, Nannup, Narembeen, Narrogin (Shire), Northam (Shire), Northampton, Nungarin, Perenjori, Pingelly, Plantagenet, Quairading, Ravensthorpe, Tammin, Three Springs, Toodyay, Trayning, Victoria Plains, Wagin, Wandering, Waroona, West Arthur, Westonia, Wickepin, Williams, Wongan-Ballidu, Woodanilling, Wyalkatchem, Yilgarn and York is 50%.
+Valuation of Land Amendment Regulations 2009 | 27 Mar 2009 p. 925-6 | r. 1 and 2: 27 Mar 2009 (see r. 2(a)) Regulations other than r. 1 and 2: 30 Jun 2009 (see r. 2(b))
