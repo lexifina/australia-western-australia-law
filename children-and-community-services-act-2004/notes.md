@@ -12,6 +12,7 @@ Legal Profession Act 2008 s. 642 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 4-11 | 26 of 2008 | 19 Jun 2008 | 1 Jan 2009 (see s. 2(b) and Gazette 9 Dec 2008 p. 5107)
 Surrogacy Act 2008 Pt. 4 Div. 2 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 32 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Parliamentary Commissioner Amendment Act 2009 s. 11 | 10 of 2009 | 29 Jun 2009 | 30 Jun 2009 (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 Footnote no longer applicable.
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions which read as follows:
