@@ -12,6 +12,7 @@ Petroleum Pipelines Amendment Regulations (No. 2) 2000 | 27 Jun 2000 p. 3251 | 1
 Reprint of the Petroleum Pipelines Regulations 1970 as at 18 May 2001 (includes amendments listed above)
 Petroleum Pipelines Amendment Regulations 2002 | 28 Jun 2002 p. 3095-6 | 1 Jul 2002 (see r. 2)
 Petroleum Pipelines Amendment Regulations 2003 | 28 Feb 2003 p. 671-2 | 28 Feb 2003
+Petroleum Pipelines Amendment Regulations (No. 2) 2009 | 23 Jun 2009 p. 2478-80 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 The Acts Amendment (Petroleum) Act 1990 was proclaimed on 1 Oct 1990 (see Gazette 28 Sep 1990 p. 5099).
 Petroleum Pipelines Act 1969 s. 32B and 32D repealed by Acts Amendment and Repeal (Native Title) Act 1995 s.44.
