@@ -17,6 +17,7 @@ Pay-roll Tax Assessment Amendment Regulations (No. 5) 2006 | 22 Aug 2006 p. 3468
 Reprint 1: The Pay-roll Tax Assessment Regulations 2003 as at 13 Oct 2006 (includes amendments listed above)
 Pay-roll Tax Assessment Amendment Regulations (No. 6) 2006 | 22 Dec 2006 p. 5806-7 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
 Pay-roll Tax Assessment Amendment Regulations 2007 | 15 May 2007 p. 2096 | 1 Jul 2007 (see r. 2)
+Pay-roll Tax Assessment Amendment Regulations 2009 | 19 Jun 2009 p. 2252 | r. 1 and 2: 19 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 5 Div. 3 of those regulations read as follows:
 “
 1.Citation
