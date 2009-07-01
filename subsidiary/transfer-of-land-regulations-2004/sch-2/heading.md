@@ -21,3 +21,4 @@
 8.Lodgment of a dealing, deposited plan or other document by or on behalf of the Minister for Lands (other than such a lodgment by the Minister on behalf of another person).
 9.An application for the issue of a duplicate certificate of title where a duplicate certificate of title was not issued on the registration of the certificate of title.
 [Schedule 2 amended in Gazette 25 Jun 2007 p. 2978; 20 Jun 2008 p. 2717.]
+[Schedule 3 deleted in Gazette 19 Jun 2009 p. 2241.]
