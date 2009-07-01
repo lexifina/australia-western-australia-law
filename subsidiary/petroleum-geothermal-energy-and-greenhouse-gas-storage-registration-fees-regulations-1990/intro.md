@@ -1,3 +1,3 @@
 Western Australia
-Petroleum (Registration Fees) Act 1967
-Petroleum (Registration Fees) Regulations 1990
+Petroleum and Geothermal Energy Resources (Registration Fees) Act 1967
+Petroleum and Geothermal Energy Resources (Registration Fees) Regulations 1990
