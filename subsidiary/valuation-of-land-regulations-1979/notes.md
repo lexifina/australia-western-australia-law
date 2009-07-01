@@ -31,3 +31,4 @@ Reprinted as at 15 Oct 1999
 Valuation of Land Amendment Regulations 2006 | 29 Dec 2006 p. 5917 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
 Valuation of Land Amendment Regulations 2008 | 20 Jun 2008 p. 2718 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Valuation of Land Amendment Regulations 2009 | 27 Mar 2009 p. 925-6 | r. 1 and 2: 27 Mar 2009 (see r. 2(a)) Regulations other than r. 1 and 2: 30 Jun 2009 (see r. 2(b))
+Valuation of Land Amendment Regulations (No. 2) 2009 | 19 Jun 2009 p. 2245 | r. 1 and 2: 19 Jun 2009 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
