@@ -1,7 +1,9 @@
 ## Schedule 1 — Fees
-[Heading amended in Gazette 14 Jul 2006 p. 2578.]
- | $
-1Administration fee on the issue of a new taxi-car licence (reg. 8(2))............................................................................ | 167.90
-2On the issue and renewal of an ordinary taxi-car licence (regs. 8(2) and 10(1)).......................................................... | 95.30
-3On the transfer of an ordinary taxi-car licence (reg. 11(3)).......................................................................... | 167.90
-[Schedule 1 inserted in Gazette 23 Jun 1992 p. 2635; amended in Gazette 29 Jun 1993 p. 3187; 24 Mar 1995 p. 1113; 27 Jun 1997 p. 3147; 23 Jun 2006 p. 2229; 14 Jul 2006 p. 2578; 22 Jun 2007 p. 2875; 1 Jul 2008 p. 3161.]
+[Heading inserted in Gazette 30 Jun 2009 p. 2664.]
+ |  | $
+1 | Administration fee for issuing a new taxi-car licence (r. 8(2)) | 174.95
+2 | For issuing or renewing an ordinary taxi-car licence (r. 8(2) and 10(1)) | 99.30
+3 | For transferring an ordinary taxi-car licence (r. 11(3)) + | 174.95
+4 | For issuing number plates for a vehicle licensed as a taxi-car (r. 14(1)) | 35.00
+5 | For authorising the operation of another vehicle in substitution for a vehicle under repair (r. 17(1)) | 35.00
+[Schedule 1 inserted in Gazette 30 Jun 2009 p. 2664-5.]
