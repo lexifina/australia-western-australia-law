@@ -10,13 +10,13 @@
 6. | Cancellation of pilot ....................................................... | 50% of the charge set out in item 1, 2, 3 or 4, as the case requires.
 [Division 1 inserted in Gazette 2 Oct 2007 p. 4972.]
 ## Division 2 — Port of Bunbury
-[Heading inserted in Gazette 31 Oct 2008 p. 4775.]
-1. | Pilotage of a vessel into and out of the port .................. | $3 979.80
-2. | Pilotage of a vessel from a place in the port to another place in the port ............................................................. | $1 989.90
-3. | Detention of pilot, for each hour or part of an hour ...... | $994.95
-4. | Cancellation of pilot ...................................................... | $994.95
-5. | Cancellation of pilot boat crew only ............................. | $994.95
-[Division 2 inserted in Gazette 31 Oct 2008 p. 4775.]
+[Heading inserted in Gazette 23 Jun 2009 p. 2487.]
+1. | Pilotage of a vessel into and out of the port ................ | $4 298.18
+2. | Pilotage of a vessel from a place in the port to another place in the port .............................................. | $2 149.09
+3. | Detention of pilot, for each hour or part of an hour .... | $1 074.55
+4. | Cancellation of pilot .................................................... | $1 074.55
+5. | Cancellation of pilot boat crew only ........................... | $1 074.55
+[Division 2 inserted in Gazette 23 Jun 2009 p. 2487.]
 ## Division 3 — Port of Esperance
 1. | Pilotage of a vessel of not more than 5 000 gross registered tonnes into and out of the port ...................... | $2 310.00
 2. | Pilotage of a vessel of more than 5 000 but not more than 10 000 gross registered tonnes into and out of the port ................................................................................. | $3 190.00
@@ -46,14 +46,24 @@ Item | 3. | 4. | 5. | 6. | 7.
 3. | Detention of pilot ........................................................... | $595.00 for each hour or part of an hour
 [Division 5 amended in Gazette 16 Sep 2005 p. 4327-8.]
 ## Division 6 — Port of Port Hedland
-[Heading inserted in Gazette 5 Sep 2008 p. 4140.]
+[Heading inserted in Gazette 23 Jun 2009 p. 2487.]
  |  | To or from Nelson Point or PHPA Berth Nos. 1, 2 or 3 | To or from Finucane Island or Anderson Point
-1. | Pilotage of a vessel of not more than 20 000 gross registered tonnes into or out of the port — (a)for each gross registered tonne of vessel .................................. (b)minimum charge ..................... | $0.364 $3 943.61 | $0.419 $4 537.50
-2. | Pilotage of a vessel of more than 20 000 but not more than 40 000 gross registered tonnes into or out of the port ...................... | $7 296.30 | $7 890.19
-3. | Pilotage of a vessel of more than 40 000 but not more than 60 000 gross registered tonnes into or out of the port ..................... | $8 678.56 | $9 272.45
-4. | Pilotage of a vessel of more than 60 000 but not more than 80 000 gross registered tonnes into or out of the port ..................... | $9 664.49 | $10 258.38
-5. | Pilotage of a vessel of more than 80 000 gross registered tonnes into or out of the port ............................................................. | $10 253.98 | $10 847.87
-6. | Additional charge for pilotage of a vessel into the port from the designated pilotage area or out of the port to the designated pilotage area .............................................. | $2 139.72
-7. | Pilotage of a vessel from a place in the port to another place in the port — (a)for a vessel of not more than 1 000 gross registered tonnes .... (b)for a vessel of more than 1 000 gross registered tonnes .... | $986.04 0$1 379.40
-8. | Cancellation of pilot ................................... | $370.92
-[Division 6 inserted in Gazette 5 Sep 2008 p. 4140.]
+1. | Pilotage of a vessel of not more than 20 000 gross registered tonnes into or out of the port — (a)for each gross registered tonne of vessel .............................................. (b)minimum charge ............................. | $0.383 $4 140.40 | $0.440 $4 764.10
+2. | Pilotage of a vessel of more than 20 000 but not more than 40 000 gross registered tonnes into or out of the port .. | $7 661.50 | $8 285.20
+3. | Pilotage of a vessel of more than 40 000 but not more than 60 000 gross registered tonnes into or out of the port .. | $9 113.50 | $9 737.20
+4. | Pilotage of a vessel of more than 60 000 but not more than 80 000 gross registered tonnes into or out of the port .. | $10 147.50 | $10 771.20
+5. | Pilotage of a vessel of more than 80 000 gross registered tonnes into or out of the port ......................................................... | $10 766.80 | $11 390.50
+6. | Additional charge for pilotage of a vessel into the port from the designated pilotage area or out of the port to the designated pilotage area ......................... | $2 246.20
+7. | Pilotage of a vessel from a place in the port to another place in the port — (a)for a vessel of not more than 1 000 gross registered tonnes .................... (b)for a vessel of more than 1 000 gross registered tonnes .......... | $1 035.10 $1 448.70
+8. | Cancellation of pilot ............................... | $389.40
+[Division 6 inserted in Gazette 23 Jun 2009 p. 2487-8.]
+## Division 7 — Port of Albany
+[Heading inserted in Gazette 23 Jun 2009 p. 2488.]
+1. | Pilotage of a vessel of more than 500 gross registered tonnes but not more than 1 000 gross registered tonnes into and out of the port — (a)standard charge ............................ (b)supplementary charge for each movement of the vessel outside normal working hours .................. | $4 240.00 $925.00
+2. | Pilotage of a cargo vessel of more than 1 000 gross registered tonnes into and out of the port — (a)for each deadweight tonne of vessel ............................................. (b)minimum charge ........................... | $0.12 $4 840.00
+3. | Pilotage of a passenger vessel of more than 1 000 gross registered tonnes into and out of the port — (a)for each gross registered tonne of vessel (b)minimum charge | $0.12 $4 840.00
+4. | Pilotage of a vessel of more than 500 gross registered tonnes from berth to anchorage and from anchorage to berth — (a)for each deadweight tonne of vessel ............................................. (b)minimum charge ........................... | $0.06 $2 120.00
+5. | Pilotage of a vessel of more than 500 gross registered tonnes from one berth to another berth .......................................... | $1 060.00
+6. | Cancellation of pilot ............................... | $1 060.00
+7. | Detention of pilot, per hour or part of an hour ........................................................ | $250.00
+[Division 7 inserted in Gazette 23 Jun 2009 p. 2488-9.]
