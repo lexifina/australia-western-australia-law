@@ -106,10 +106,7 @@ Mining Amendment Regulations (No. 3) 2007 | 22 Jun 2007 p. 2857-60 | r. 1 and 2:
 Reprint 7: The Mining Regulations 1981 as at 5 Oct 2007 (includes amendments listed above)
 Mining Amendment Regulations (No. 2) 2008 | 20 Jun 2008 p. 2728-31 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Mining Amendment Regulations 2008 | 1 Aug 2008 p. 3455-6 | r. 1 and 2: 1 Aug 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 2 Aug 2008 (see r. 2(b) and Gazette 1 Aug 2008 p. 3455)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Mining Amendment Regulations (No. 2) 2009 r. 3 and 4 | 12 Jun 2009 p. 2131-3 | 1 Jul 2009 (see r. 2(b))
+Mining Amendment Regulations (No. 2) 2009 | 12 Jun 2009 p. 2131-3 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Mines or to the Department of Minerals and Energy is, unless the contrary intention appears, to be read and construed as a reference to the Department of Industry and Resources.
@@ -135,52 +132,3 @@ The Mining Amendment Regulations (No. 2) 2006 r. 10(7) and (8) read as follows:
 commencement day means the day on which these regulations come into operation;
 existing licence means an exploration licence in force under the Act on the day on which these regulations come into operation.
 ”.
-On the date as at which this compilation was prepared, the Mining Amendment Regulations (No. 2) 2009 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Mining Regulations 1981.
-4.Second Schedule amended
-(1) This regulation amends the Second Schedule.
-(2) Amend the items listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-item 1 | 43.56 | 45.43
-item 1 | 147.18 | 153.34
-item 1 | 274.12 | 285.67
-item 1 | 113.85 | 118.58
-item 1 | 177.10 | 184.58
-item 1 | 240.35 | 250.47
-item 1 | 455.18 | 474.32
-item 1 | 13.31 | 13.86
-item 1 | 14.96 (each occurrence) | 15.62
-item 1 | 13.31 | 13.86
-item 1 | $22.00 | $23.10
-item 1 | 2.20 | 2.31
-item 1 | 6.60 | 6.93
-item 2 | 250.00 | 260.00
-item 2 | 1 070.00 | 1 115.00
-item 2 | 360.00 (each occurrence) | 375.00
-item 2 | 240.00 | 250.00
-item 2 | 605.00 | 630.00
-item 2A | 230.00 | 240.00
-item 2B | 7.25 | 7.50
-item 3 | 7.25 (each occurrence) | 7.50
-item 3A | 6.00 | 6.25
-item 4 | 305.00 | 320.00
-item 4 | 350.00 | 365.00
-item 4 | 420.00 | 440.00
-item 4 | 2 100.00 | 2 200.00
-item 5 | 30.00 | 31.25
-item 7 | 92.00 | 96.00
-item 8 | $24.00 | $25.00
-item 8 | 6.00 | 6.25
-item 9 | 19.00 | 20.00
-item 10 | 92.00 (each occurrence) | 96.00
-item 10 | 6.00 | 6.25
-item 11 | 185.00 | 193.00
-item 11A | 7.25 | 7.50
-item 13 | 52.00 | 54.00
-item 13 | 36.00 | 37.50
-item 13 | 5.20 | 5.40
-item 13 | 15.50 | 16.15
-item 13 | 7.25 | 7.50
-item 13 | 1.00 | 1.05
