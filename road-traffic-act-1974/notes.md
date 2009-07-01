@@ -131,14 +131,13 @@ Road Traffic Amendment Act (No. 2) 2007 Pt. 2 (except s. 27-30) | 39 of 2007 | 2
 Acts Amendment (Justice) Act 2008 s. 131 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-Road Traffic Amendment Act 2008 (except s. 5(a) and 8) | 24 of 2008 | 13 Jun 2008 | s. 1 and 2: 13 Jun 2008 (see s. 2(1)(a)); s. 3, 4, 5(b)-(f), 6, 7, 9-25: 19 Jul 2008 (see s. 2(1)(b) and Gazette 18 Jul 2008 p. 3329)
+Road Traffic Amendment Act 2008 | 24 of 2008 | 13 Jun 2008 | s. 1 and 2: 13 Jun 2008 (see s. 2(1)(a)); Act other than s. 1, 2 5(a) and 8: 19 Jul 2008 (see s. 2(1)(b) and Gazette 18 Jul 2008 p. 3329); s. 5(a) and 8: 1 Jul 2009 (see s. 2(1)(b) and (2) and Gazette 23 Jun 2009 p. 2423)
 Criminal Law Amendment (Homicide) Act 2008 s. 38 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-Reprint 10: The Road Traffic Act 1974 as at 3 Oct 2008 (includes amendments listed above, except those in the Medical Practitioners Act 2008 s. 162) (Correction to Reprint in Gazette 19 Oct 2010 p. 5202)
+Reprint 10: The Road Traffic Act 1974 as at 3 Oct 2008 (includes amendments listed above, except those in the Medical Practitioners Act 2008 s. 162 and the Road Traffic Amendment Act 2008 s. 5(a) and 8) (Correction to Reprint in Gazette 19 Oct 2010 p. 5202)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (s. 27-30) | 39 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(g))
-Road Traffic Amendment Act 2008 s. 5(a) and 8 | 24 of 2008 | 13 Jun 2008 | To be proclaimed (see s. 2(1)(b) and (2))
 Repealed by the Nurses and Midwives Act 2006.
 Repealed by the Interpretation Act 1984.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
@@ -325,26 +324,6 @@ Section 104R(1) is amended by inserting before paragraph (b) —
 “
 (aa) an excessive demerit points (novice driver) notice; or
 ”.
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Road Traffic Amendment Act 2008 s. 5(a) and 8 had not come into operation. They read as follows:
-“
-5.Section 78A amended
-Section 78A is amended as follows:
-(a) by deleting the definition of “impounding offence (driver’s licence)” and inserting instead —
-“
-impounding offence (driver’s licence) means —
-(a)an offence against section 49(1)(a) that is committed by a person described in section 49(3)(a), (b) or (c); or
-(b)an offence against section 77(1)(a); or
-(c)an offence committed before the coming into operation of the Road Traffic Amendment Act 2008 section 5(a) that was an impounding offence (driver’s licence) as defined in this section as in force when the offence was committed;
-”;
-8.Section 79A amended
-Section 79A is amended as follows:
-(a) by deleting “48 hours” and inserting instead —
-“ 28 days ”;
-(b) by inserting at the end of paragraph (a) —
-“ and ”;
-(c) by deleting all of the section after “offence” in paragraph (b) and inserting instead a full stop.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
