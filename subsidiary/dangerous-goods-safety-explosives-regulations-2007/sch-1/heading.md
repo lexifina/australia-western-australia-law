@@ -1,7 +1,7 @@
 ## Schedule 1 — Fees
 [r. 3]
 Item | Fee for | Fee ($)
-1. | Application for a security card (r. 17(3)) | 150
+1. | Application for a security card (r. 17(3)) | 156
 2. | Application for a test permit (r. 27(2)(d)) | 160
 3. | Application to have an explosive authorised (r. 30(2)(j)) | 138
 4. | Application for a fireworks event permit (r. 149(1)(e)) — one fee being whichever of the following is the highest fee applicable to the event —
@@ -26,3 +26,4 @@ Item | Fee for | Fee ($)
  | (k)pyrotechnics (special use) licence | 20
 6. | Replacement card (r. 171(2)) | 20
 7. | Application for renewal of a licence (r. 173(3)(i)) — the fee in item 5 for the licence
+[Schedule 1 amended in Gazette 16 Jun 2009 p. 2196.]
