@@ -1,15 +1,13 @@
-## Schedule 1 — Prescribed fees
-[r. 4, 4A]
-[Heading inserted in Gazette 27 Jun 2006 p. 2271.]
- | $
-1.Grant of licence to a natural person (including triennial certificate) ............................................................................. | 628
-2.Grant of licence to a firm (including triennial certificate)..... | 822
-3.Grant of licence to a body corporate (including triennial certificate) ............................................................................. | 822
-4.Renewal of triennial certificate ............................................. | 404
-5.Inspection of register ............................................................ | 10
-6.Certificate as to an individual registration —
-first page ............................................................................ | 20
-each subsequent page ........................................................ | 2
-7.Certificate as to all registrations in register .......................... | 134
-8.For the purposes of section 30(3a) (the holding fee) ............ | 190
-[Schedule 1 inserted in Gazette 27 Jun 2006 p. 2271; amended in Gazette 17 Jun 2008 p. 2559-60.]
+## Schedule 1 — Fees
+[r. 4 and 4A]
+[Heading inserted in Gazette 23 Jun 2009 p. 2455.]
+Item | Type of fee | Fee
+1. | Grant of licence (including a triennial certificate) to a natural person | $654.00
+2. | Grant of licence (including a triennial certificate) to a firm | $856.00
+3. | Grant of licence (including a triennial certificate) to a body corporate | $856.00
+4. | Renewal of triennial certificate | $421.00
+5. | Inspection of register | $10.00
+6. | Certificate as to an individual registration — first page each subsequence page | $20.00 $2.00
+7. | Certificate as to all registrations in register | $140.00
+8. | For the purposes of section 30(3a) (the holding fee) | $198.00
+[Schedule 1 inserted in Gazette 23 Jun 2009 p. 2455-6.]
