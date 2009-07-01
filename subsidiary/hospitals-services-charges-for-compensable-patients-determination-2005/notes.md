@@ -10,3 +10,4 @@ Hospitals (Services Charges for Compensable Patients) Amendment Determination 20
 Hospitals (Services Charges for Compensable Patients) Amendment Determination 2008 | 25 Jan 2008 p. 214-15 | cl. 1 and 2: 25 Jan 2008 (see cl. 2(a)); Determination other than cl. 1 and 2: 26 Jan 2008 (see cl. 2(b))
 Hospitals (Services Charges for Compensable Patients) Amendment Determination (No. 2) 2008 | 10 Jun 2008 p. 2489-91 | cl. 1 and 2: 10 Jun 2008 (see cl. 2(a)); Clauses other than cl. 1 and 2: 1 Jul 2008 (see cl. 2(b))
 Hospitals (Services Charges for Compensable Patients) Amendment Determination 2009 | 10 Feb 2009 p. 274-5 | cl. 1 and 2: 10 Feb 2009 (see cl. 2(a)); Clauses other than cl. 1 and 2: 11 Feb 2009 (see cl. 2(b))
+Hospitals (Services Charges for Compensable Patients) Amendment Determination (No. 2) 2009 | 23 Jun 2009 p. 2464-5 | cl. 1 and 2: 23 Jun 2009 (see cl. 2(a)); Determination other than cl. 1 and 2: 1 Jul 2009 (see cl. 2(b))
