@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 November 2008 of the Stock (Identification and Movement) Regulations 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Stock (Identification and Movement) Regulations 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Stock (Brands and Movement) Act Regulations | 30 Jun 1972 p. 2205-12 | 30 Jun 1972
@@ -55,6 +55,7 @@ Stock (Identification and Movement) Amendment Regulations 2007 | 15 Jun 2007 p. 
 Stock (Identification and Movement) Amendment Regulations 2008 | 20 May 2008 p. 1941 | r. 1 and 2: 20 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Reprint 4: The Stock (Identification and Movement) Regulations 1972 as at 14 Nov 2008 (includes amendments listed above)
 Stock (Identification and Movement) Amendment Regulations 2009 | 29 May 2009 p. 1831-2 | r. 1 and 2: 29 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 30 May 2008 (see r. 2(b))
+Stock (Identification and Movement) Amendment Regulations (No. 2) 2009 | 26 Jun 2009 p. 2617-18 | r. 1 and 2: 26 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Now known as the Stock (Identification and Movement) Regulations 1972; citation changed (see note under r. 1).
 The commencement date of 1 Jul 1982 that was specified was before the date of gazettal.
 The commencement date of 1 Oct 1983 that was specified was before the date of gazettal.
