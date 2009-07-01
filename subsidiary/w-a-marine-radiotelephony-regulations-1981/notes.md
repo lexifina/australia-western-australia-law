@@ -26,16 +26,5 @@ W.A. Marine (Radiotelephony) Amendment Regulations 2006 | 23 Jun 2006 p. 2213-14
 Reprint 2: The W.A. Marine (Radiotelephony) Regulations 1981 as at 3 Nov 2006 (includes amendments listed above)
 W.A. Marine (Radiotelephony) Amendment Regulations 2007 | 12 Jun 2007 p. 2730-1 | 1 Jul 2007 (see r. 2)
 W.A. Marine (Radiotelephony) Amendment Regulations 2008 | 24 Jun 2008 p. 2897-8 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-W.A. Marine (Radiotelephony) Amendment Regulations 2009 r. 3 and 4 | 12 Jun 2009 p. 2128-9 | 1 Jul 2009 (see r. 2(b))
+W.A. Marine (Radiotelephony) Amendment Regulations 2009 | 12 Jun 2009 p. 2128-9 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Repealed by r. 19 of these regulations.
-On the date as at which this compilation was prepared, the W.A. Marine (Radiotelephony) Amendment Regulations 2009 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the W.A. Marine (Radiotelephony) Regulations 1981.
-4.Regulation 16 amended
-(1) In regulation 16(2a) delete “$459.10” and insert:
-$478.30
-(2) In regulation 16(2b) delete “$226.40.” and insert:
-$235.90.
