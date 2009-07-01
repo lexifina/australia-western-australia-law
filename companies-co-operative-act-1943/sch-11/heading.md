@@ -60,7 +60,7 @@ Services of Summonses, Notices, etc.
 36.Service on a creditor in a case where the last preceding rule does not apply, or on a contributory or shareholder in any special case, may be effected in such manner as a Judge shall direct.
 37.No service under these rules shall be deemed invalid by reason of the christian name or any of the christian names of the person on whom service is sought to be made being omitted, or designated by initial letters in the list of contributories, or in the summons, notice, order or other document wherein the name of any creditor, contributory or shareholder is contained, if the judge is satisfied that such service has been in other respects sufficient.
 Termination of Winding-up
-[38-40.Repealed in Gazette 24 Jun 1949 p. 1373.]
+[38-40.Deleted in Gazette 24 Jun 1949 p. 1373.]
 41.Where no mode of proceeding is prescribed by these rules for any application authorised under the said Act to be made to the Court, and there is no mode of proceeding defined according to the general practice of the Court, such application may be made by summons in chambers or in such other manner as the Court may direct.
 42.The Court shall have power, notwithstanding these rules, to enlarge the time for doing any act, or taking any proceeding although such time may have expired, to abridge any such time, to adjourn or review any proceeding and to give any direction as to the course of proceeding.
 Forms
