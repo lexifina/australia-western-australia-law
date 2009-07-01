@@ -8,4 +8,4 @@ LOCAL AUTHORITY ................................. | ESTIMATED VALUE
 LIC No. ........................................... | $
 Signature of Owner, Occupier or Agent ........................................................................... Date ..............................................................................................................
 [Schedule 1 inserted in Gazette 14 Jul 1987 p. 2654; amended in Gazette 29 Dec 1995 p. 6318.]
-[Schedules 1A and 1B repealed in Gazette 14 Jul 1987 p. 2658.]
+[Schedules 1A and 1B deleted in Gazette 14 Jul 1987 p. 2658.]
