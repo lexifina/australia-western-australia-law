@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 December 2008 of the Exotic Diseases (General) Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Exotic Diseases (General) Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Exotic Diseases (General) Regulations | 24 Jun 1970 p. 1824-9 | 25 Jun 1970 (see order published 24 Jun 1970 p. 1784)
@@ -32,6 +32,7 @@ Exotic Diseases (General) Amendment Regulations 2006 | 16 Jun 2006 p. 2115-16 | 
 Exotic Diseases (General) Amendment Regulations 2007 | 15 Jun 2007 p. 2755-6 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Exotic Diseases (General) Amendment Regulations 2008 | 20 May 2008 p. 1938-9 | r. 1 and 2: 20 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Reprint 2: The Exotic Diseases (General) Regulations 1970 as at 5 Dec 2008 (includes amendments listed above)
+Exotic Diseases (General) Amendment Regulations 2009 | 26 Jun 2009 p. 2603-4 | r. 1 and 2: 26 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 These regulations were originally made under the Stock Diseases (Regulations) Act 1968. By virtue of the Exotic Diseases of Animals Act 1993 s. 59(2), these regulations continue as if they had been made under that Act.
 Now see the Local Government Act 1995.
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is, unless the contrary is intended, to be read and construed as a reference to the Department of Agriculture and Food.
