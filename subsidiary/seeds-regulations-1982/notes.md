@@ -33,3 +33,4 @@ Reprint 2: The Seeds Regulations 1982 as at 16 Sep 2005 (includes amendments lis
 Seeds Amendment Regulations 2006 | 16 Jun 2006 p. 2118-19 | 1 Jul 2006 (see r. 2)
 Seeds Amendment Regulations 2007 | 15 Jun 2007 p. 2758-9 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Seeds Amendment Regulations 2008 | 16 Sep 2008 p. 4187-8 | r. 1 and 2: 16 Sep 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Sep 2008 (see r. 2(b))
+Seeds Amendment Regulations 2009 | 26 Jun 2009 p. 2609-11 | r. 1 and 2: 26 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
