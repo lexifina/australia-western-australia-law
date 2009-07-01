@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 August 2008 of the Aerial Spraying Control Regulations 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Aerial Spraying Control Regulations 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Aerial Spraying Control Regulations | 31 Mar 1971 p. 1065-70 | 31 Mar 1971
@@ -32,8 +32,9 @@ Aerial Spraying Control Amendment Regulations 2006 | 16 Jun 2006 p. 2111 | 1 Jul
 Aerial Spraying Control Amendment Regulations 2007 | 15 Jun 2007 p. 2751 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Aerial Spraying Control Amendment Regulations 2008 | 20 May 2008 p. 1933 | r. 1 and 2: 20 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Reprint 4: The Aerial Spraying Control Regulations 1971 as at 8 Aug 2008 (includes amendments listed above)
+Aerial Spraying Control Amendment Regulations 2009 | 26 Jun 2009 p. 2597-8 | r. 1 and 2: 26 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Now the Director General of Agriculture. See Agriculture Act 1988 s. 16.
-The designation of Ministers may be altered by the Governor under the Alterations of Statutory Designations Act 1974. As at the date of this reprint the former Minister for Agriculture is known as the Minister for Agriculture and Food.
+The designation of Ministers may be altered by the Governor under the Alterations of Statutory Designations Act 1974. As at the date of this compilation the former Minister for Agriculture was known as the Minister for Agriculture and Food.
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 Land Act 1933 repealed. Now see Land Administration Act 1997 s. 6 and Sch. 1.
 Now known as the Aerial Spraying Control Regulations 1971; citation changed (see note under r. 1).
