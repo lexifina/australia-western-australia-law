@@ -29,10 +29,7 @@ Mines Safety and Inspection Amendment Regulations (No. 2) 2007 | 15 Jun 2007 p. 
 Mines Safety and Inspection Amendment Regulations 2008 | 29 Feb 2008 p. 684-92 | r. 1 and 2: 29 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
 Reprint 4: The Mines Safety and Inspection Regulations 1995 as at 20 Mar 2008 (includes amendments listed above)
 Mines Safety and Inspection Amendment Regulations (No. 2) 2008 | 17 Jun 2008 p. 2567-8 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Mines Safety and Inspection Amendment Regulations (No. 2) 2009 r. 3 and 4 | 16 Jun 2009 p. 2191-2 | 1 Jul 2009 (see r. 2(b))
+Mines Safety and Inspection Amendment Regulations (No. 2) 2009 | 16 Jun 2009 p. 2191-2 | r. 1 and 2: 16 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Repealed by the Industrial Relations Commission Regulations 2005 r. 121.
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -52,15 +49,6 @@ The Mines Safety and Inspection Amendment Regulations 2005 r. 13(2)-(3) read as 
 (3) In subregulation (2) —
 Mines Occupational Safety and Health Advisory Board has the meaning given by section 4(1) of the Act as in force before the commencement of section 115(2) of the Occupational Safety and Health Legislation Amendment and Repeal Act 2004.
 ”.
-On the date as at which this compilation was prepared, the Mines Safety and Inspection Amendment Regulations (No. 2) 2009 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Mines Safety and Inspection Regulations 1995.
-4.Schedule 2 amended
-In Schedule 2:
-(a) in item 1 delete “135.00” and insert:
-140.00
-(b) in item 2 delete “135.00” and insert:
-140.00
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
