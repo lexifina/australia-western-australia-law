@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 June 2009 of the Trade Measurement Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Trade Measurement Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Trade Measurement Regulations 2007 | 29 May 2007 p. 2353-474 | 1 Jun 2007 (see r. 2 and Gazette 29 May 2007 p. 2485)
@@ -8,7 +8,8 @@ Trade Measurement Amendment Regulations (No. 2) 2008 | 23 Dec 2008 p. 5467-9 | r
 Trade Measurement Amendment Regulations 2009 | 13 Feb 2009 p. 294 | r. 1 and 2: 13 Feb 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Feb 2009 (see r. 2(b))
 Trade Measurement Amendment Regulations (No. 2) 2009 | 13 Feb 2009 p. 295-7 | r. 1 and 2: 13 Feb 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Feb 2009 (see r. 2(b))
 Reprint 1: The Trade Measurement Regulations 2007 as at 5 Jun 2009 (includes amendments listed above)
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection is called the Department of Commerce.
+Trade Measurement Amendment Regulations (No. 3) 2009 | 23 Jun 2009 p. 2456-8 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Consumer and Employment Protection is called the Department of Commerce.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
