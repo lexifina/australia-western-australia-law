@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum Regulations 1987 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Petroleum and Geothermal Energy Resources Regulations 1987 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Petroleum Regulations 1987 | 23 Oct 1987 p. 3971-2 | 23 Oct 1987
@@ -14,4 +14,6 @@ Petroleum Amendment Regulations (No. 3) 2000 | 15 Dec 2000 p. 7212-15 | 16 Dec 2
 Reprint of the Petroleum Regulations 1987 as at 4 May 2001 (includes amendments listed above)
 Petroleum Amendment Regulations 2002 | 28 Jun 2002 p. 3090-1 | 1 Jul 2002 (see r. 2)
 Petroleum Amendment Regulations 2003 | 28 Feb 2003 p. 669-70 | 28 Feb 2003
+Petroleum Amendment Regulations 2009 | 23 Jun 2009 p. 2471-4 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Commencement day was 16 Dec 2000 (see Gazette 15 Dec 2000 p. 7201).
+Now known as the Petroleum and Geothermal Energy Resources Regulations 1987; citation changed (see note under r. 1).

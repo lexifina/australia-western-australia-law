@@ -1,3 +1,3 @@
 Western Australia
-Petroleum Act 1967
-Petroleum Regulations 1987
+Petroleum and Geothermal Energy Resources Act 1967
+Petroleum and Geothermal Energy Resources Regulations 1987
