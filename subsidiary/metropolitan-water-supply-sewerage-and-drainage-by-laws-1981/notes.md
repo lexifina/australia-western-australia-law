@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 January 2009 of the Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 | 22 Jan 1981 p. 165-384 (corrigendum 30 Jan 1981 p. 488) | 1 Mar 1981 (see bl. 1.0)
@@ -73,6 +73,7 @@ Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2008 | 23 May
 Water Agencies Amendment By-laws 2008 Pt. 6 | 27 Jun 2008 p. 3076-84 | 1 Jul 2008 (see bl. 2(b))
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws (No. 5) 2008 | 26 Aug 2008 p. 4031-2 | bl. 1 and 2: 26 Aug 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Aug 2008 (see bl. 2(b))
 Reprint 6: The Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 as at 9 Jan 2009 (includes amendments listed above)
+Water Agencies Amendment By-laws 2009 Pt. 6 | 19 Jun 2009 p. 2393-406 | bl. 1 and 2: 19 Jun 2009 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2009 (see bl. 2(b))
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 The Water Resources Legislation Amendment Act 2007 s. 223 reads as follows:
 “
@@ -87,12 +88,12 @@ has effect after the transfer time, to the extent to which the agreement or inst
 ”.
 See Bush Fires Act 1954.
 Under the Conservation and Land Management Act 1984 s. 151(a), a reference in any law to the former Forests Department shall be read as a reference to the Department of Conservation and Land Management.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management was called the Department of Environment and Conservation.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Public Health Department is to be read and construed as a reference to the Department of Health.
 Formerly referred to the Pesticides Regulations the citation of which was changed to the Health (Pesticides) Regulations 1956 by the Pesticides Amendment Regulations 1986 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Dangerous Goods Safety Act 2004.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines was to be read and construed as a reference to the Department of Industry and Resources.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Industry and Resources is called the Department of Mines and Petroleum.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Industry and Resources was called the Department of Mines and Petroleum.
 The Flammable Liquids Regulations 1967 were repealed by the Dangerous Goods Regulations 1992 r. 8.2, which were later known as the Explosives and Dangerous Goods (Dangerous Goods Handling and Storage) Regulations 1992 and were repealed by the Dangerous Goods Safety Act 2004.
 See Health Act 1911.
 The Metropolitan Water Supply, Sewerage, and Drainage Act 1909 s. 147 was repealed by the Acts Amendment and Repeal (Water Authorities) Act 1985 s. 76.

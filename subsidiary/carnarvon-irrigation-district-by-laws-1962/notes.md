@@ -41,6 +41,7 @@ Water Agencies Amendment By-laws 2005 Pt. 2 | 1 Jul 2005 p. 3009-17 | 1 Jul 2005
 Water Agencies Amendment By-laws 2006 Pt. 2 | 30 Jun 2006 p. 2399-412 | 1 Jul 2006 (see bl. 2)
 Water Agencies Amendment By-laws 2007 Pt. 2 | 29 Jun 2007 p. 3233-44 | 1 Jul 2007 (see bl. 2)
 Water Agencies Amendment By-laws 2008 Pt. 2 | 27 Jun 2008 p. 3076-84 | 1 Jul 2008 (see bl. 2(b))
+Water Agencies Amendment By-laws 2009 Pt. 2 | 19 Jun 2009 p. 2393-406 | bl. 1 and 2: 19 Jun 2009 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2009 (see bl. 2(b))
 These by-laws have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Now known as the Carnarvon Irrigation District By-laws 1962; citation changed (see note under bl. 1).
 The Water Agencies Amendment By-laws 1997 bl. 3 reads as follows:

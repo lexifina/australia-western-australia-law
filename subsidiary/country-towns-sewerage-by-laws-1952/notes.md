@@ -71,6 +71,7 @@ Water Agencies Amendment By-laws 2007 Pt. 4 | 29 Jun 2007 p. 3233-44 | 1 Jul 200
 Reprint 5: The Country Towns Sewerage By-laws 1952 as at 22 Feb 2008 (includes amendments listed above)
  | Water Agencies Amendment By-laws 2008 Pt. 4 | 27 Jun 2008 p. 3076-84 | 1 Jul 2008 (see bl. 2(b))
  | Country Towns Sewerage Amendment By-laws (No. 3) 2008 | 26 Aug 2008 p. 4030-1 | bl. 1 and 2: 26 Aug 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Aug 2008 (see bl. 2(b))
+ | Water Agencies Amendment By-laws 2009 Pt. 4 | 19 Jun 2009 p. 2393-406 | bl. 1 and 2: 19 Jun 2009 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2009 (see bl. 2(b))
 These by-laws have effect for the purposes of the Country Towns Sewerage Act 1948 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34. See also the Country Towns Sewerage Act 1948 s. 102.
 Refers to the Standards Association of Australia, which has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Footnote no longer applicable.
@@ -145,4 +146,3 @@ trap2
 waste pipe2
 water supply plumbing2
 working day2
-By Authority: JOHN A. STRIJK, Government Printer

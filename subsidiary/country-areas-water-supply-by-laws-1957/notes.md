@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 December 2008 of the Country Areas Water Supply By-laws 1957 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Country Areas Water Supply By-laws 1957 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Untitled by-laws | 20 Jun 1957 p. 1947-78 | 1 Jul 1957 (see bl. 1)
@@ -88,6 +88,7 @@ Country Areas Water Supply Amendment By-laws 2008 | 23 May 2008 p. 2006-8 | bl. 
 Water Agencies Amendment By-laws 2008 Pt. 3 | 27 Jun 2008 p. 3076-84 | 1 Jul 2008 (see bl. 2(b))
 Country Areas Water Supply Amendment By-laws (No. 3) 2008 | 26 Aug 2008 p. 4032 | bl. 1 and 2: 26 Aug 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Aug 2008 (see bl. 2(b))
 Reprint 4: The Country Areas Water Supply By-laws 1957 as at 19 Dec 2008 (includes amendments listed above)
+Water Agencies Amendment By-laws 2009 Pt. 3 | 19 Jun 2009 p. 2393-406 | bl. 1 and 2: 19 Jun 2009 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2009 (see bl. 2(b))
 These by-laws have effect for the purposes of the Country Areas Water Supply Act 1947 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 The Water Resources Legislation Amendment Act 2007 s. 223 reads as follows:
 “

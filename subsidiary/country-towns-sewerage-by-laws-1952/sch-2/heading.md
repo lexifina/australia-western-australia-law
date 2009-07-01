@@ -4,8 +4,8 @@
 [bl. 29(1)(c) and (1b)(c)]
 [Heading inserted in Gazette 27 Jun 2008 p. 3079.]
  |  | $
-1. | Fee in respect of a proposal to connect plumbing to the sewer | 17.20
-[Division 1 inserted in Gazette 27 Jun 2008 p. 3079.]
+1. | Fee in respect of a proposal to connect plumbing to the sewer | 17.90
+[Division 1 inserted in Gazette 27 Jun 2008 p. 3079; amended in Gazette 19 Jun 2009 p. 2401.]
 ## Division 2 — Fees under section 41A
 [bl. 29(1)(b)]
 [Heading inserted in Gazette 27 Jun 2008 p. 3079.]
@@ -25,17 +25,17 @@
 [bl. 225]
 [Heading inserted in Gazette 27 Jun 2008 p. 3080.]
  | $
-3. | Supply of copy of, or extract from, records or plans (other than those stored in digital format) under section 102(3) of the Water Agencies (Powers) Act 1984 (provided on A4 paper) | 13.20
-4. | Property sewer diagram (per A4 copy) | 13.20
-[Division 3 inserted in Gazette 27 Jun 2008 p. 3080.]
+3. | Supply of copy of, or extract from, records or plans (other than those stored in digital format) under section 102(3) of the Water Agencies (Powers) Act 1984 (provided on A4 paper) | 13.75
+4. | Property sewer diagram (per A4 copy) | 13.75
+[Division 3 inserted in Gazette 27 Jun 2008 p. 3080; amended in Gazette 19 Jun 2009 p. 2401.]
 ## Division 4 — Statements and information
 [bl. 224]
 [Heading inserted in Gazette 27 Jun 2008 p. 3080.]
  |  | $
-5. | Electronic lodgment of a combined request for a copy of any portion of the records kept under section 69A of the Water Agencies (Powers) Act 1984 and answers to orders and requisitions in relation to land | 36.40
-6. | Lodgment other than under item 7 of a combined request for a copy of any portion of the records kept under section 69A of the Water Agencies (Powers) Act 1984 and answers to orders and requisitions in relation to land | 62.55
-7. | Provision of information other than under items 7 or 8 that involves research or investigation of 15 minutes or more — per hour or part of an hour | 69.00
-[Division 4 inserted in Gazette 27 Jun 2008 p. 3080.]
+5. | Electronic lodgment of a combined request for a copy of any portion of the records kept under section 69A of the Water Agencies (Powers) Act 1984 and answers to orders and requisitions in relation to land | 37.95
+6. | Lodgment other than under item 7 of a combined request for a copy of any portion of the records kept under section 69A of the Water Agencies (Powers) Act 1984 and answers to orders and requisitions in relation to land | 65.20
+7. | Provision of information other than under items 7 or 8 that involves research or investigation of 15 minutes or more — per hour or part of an hour | 72.10
+[Division 4 inserted in Gazette 27 Jun 2008 p. 3080; amended in Gazette 19 Jun 2009 p. 2401.]
 ## Division 5 — Fees for the provision of plan sheets for preparation of diagrams of property sewer installations
 [bl. 29A(3)]
 [Heading inserted in Gazette 27 Jun 2008 p. 3080.]
@@ -48,6 +48,6 @@
 [bl. 230]
 [Heading inserted in Gazette 27 Jun 2008 p. 3081.]
  |  | $
-11. | 100 mm sewer junction | 360.00
-12. | 150 mm sewer junction | 445.00
-[Division 6 inserted in Gazette 27 Jun 2008 p. 3081.]
+11. | 100 mm sewer junction | 375.00
+12. | 150 mm sewer junction | 463.50
+[Division 6 inserted in Gazette 27 Jun 2008 p. 3081; amended in Gazette 19 Jun 2009 p. 2401.]
