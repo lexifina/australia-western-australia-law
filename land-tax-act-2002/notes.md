@@ -12,6 +12,7 @@ Revenue Laws Amendment Act 2006 Pt. 3 | 31 of 2006 | 4 Jul 2006 | 1 Jul 2006 (se
 Revenue Laws Amendment (Taxation) Act 2007 Pt. 2 | 12 of 2007 | 29 Jun 2007 | 30 Jun 2007 (see s. 2(b))
 Revenue Laws Amendment Act 2008 Pt. 3 | 30 of 2008 | 27 Jun 2008 | 1 Jul 2008 (see s. 2(1)(c))
 Revenue Laws Amendment Act 2009 Pt. 2 | 3 of 2009 | 14 May 2009 | 1 Jul 2008 (see s. 2(b))
+Revenue Laws Amendment (Taxation) Act 2009 Pt. 3 | 19 of 2009 | 16 Sep 2009 | 1 Jul 2009 (see s. 2(b)(ii))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 3 Div. 1 of those regulations read as follows:
 “
 1.Citation

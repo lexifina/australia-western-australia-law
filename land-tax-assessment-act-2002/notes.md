@@ -18,6 +18,7 @@ Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 20
 Revenue Laws Amendment (Taxation) Act 2007 Pt. 3 | 12 of 2007 | 29 Jun 2007 | 30 Jun 2007 (see s. 2(c)(i))
 Reprint 2: The Land Tax Assessment Act 2002 as at 28 Mar 2008 (includes amendments listed above)
 Revenue Laws Amendment Act 2008 Pt. 4 | 30 of 2008 | 27 Jun 2008 | 1 Jul 2008 (see s. 2(1)(c))
+Revenue Laws Amendment (Taxation) Act 2009 Pt. 2 | 19 of 2009 | 16 Sep 2009 | 1 Jul 2009 (see s. 2(b)(ii))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
