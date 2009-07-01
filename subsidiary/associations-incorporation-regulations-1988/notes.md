@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 March 2009 of the Associations Incorporation Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Associations Incorporation Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Associations Incorporation Regulations 1988 | 24 Jun 1988 p. 1998-2001 | 25 Jul 1988 (see r. 2 and Gazette 24 Jun 1988 p. 1995)
@@ -23,7 +23,8 @@ Reprint 3: The Associations Incorporation Regulations 1988 as at 3 Nov 2006 (inc
 Associations Incorporation Amendment Regulations (No. 2) 2006 | 12 Jan 2007 p. 43 | 12 Jan 2007
 Associations Incorporation Amendment Regulations 2007 | 15 Jun 2007 p. 2765-6 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b)(i))
 Reprint 4: The Associations Incorporation Regulations 1988 as at 20 Mar 2009 (includes amendments listed above)
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection is called the Department of Commerce.
+Associations Incorporation Amendment Regulations 2009 | 23 Jun 2009 p. 2430-1 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Consumer and Employment Protection was called the Department of Commerce.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
