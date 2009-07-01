@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 October 2008 of the Painters’ Registration Board Rules 1962 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Painters’ Registration Board Rules 1962 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Painters’ Registration Board Rules 1962 | 27 Dec 1962 p. 4125-34 | 1 Jan 1963
@@ -36,6 +36,7 @@ Painters’ Registration Board Amendment Rules 2006 | 27 Jun 2006 p. 2267-8 | 1 
 Painters’ Registration Board Amendment Rules 2007 | 15 Jun 2007 p. 2780-1 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2007 (see r. 2(b)(i))
 Painters’ Registration Board Amendment Rules 2008 | 17 Jun 2008 p. 2556-7 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2008 (see r. 2(b)(i))
 Reprint 3: The Painters’ Registration Board Rules 1962 as at 17 Oct 2008 (includes amendments listed above)
+Painters’ Registration Board Amendment Rules 2009 | 23 Jun 2009 p. 2451-3 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Repealed by the Industrial Arbitration Act 1979 which is now called the Industrial Relations Act 1979.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

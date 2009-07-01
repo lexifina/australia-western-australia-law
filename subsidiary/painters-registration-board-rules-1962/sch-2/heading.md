@@ -1,16 +1,15 @@
-## Third Appendix
-[Heading inserted in Gazette 17 Jun 2008 p. 2556.]
-Fees
-The following fees are prescribed for the purpose of these rules —
+## Third Appendix — Fees
+[Heading inserted in Gazette 23 Jun 2009 p. 2452.]
+The following fees are prescribed for the purposes of these rules —
  | $
-For examination ........................................................................ | 6.30
+For examination | 6.30
 For application for registration —
-Companies ............................................................................... | 114.00
-Individuals ............................................................................... | 114.00
-Partnerships ............................................................................. | 88.00
+Companies | 118.00
+Individuals | 118.00
+Partnerships | 91.00
 For annual registration fee —
-Companies ............................................................................... | 326.00
-Individuals ............................................................................... | 217.00
-Partnerships ............................................................................. | 135.00
-For any certificate .................................................................... | 10.50
-[Third Appendix inserted in Gazette 17 Jun 2008 p. 2556-7.]
+Companies | 339.00
+Individuals | 226.00
+Partnerships | 140.00
+For any certificate | 11.00
+[Third Appendix inserted in Gazette 23 Jun 2009 p. 2452.]
