@@ -27,11 +27,12 @@ Vocational Education and Training Amendment Regulations 2008 | 30 May 2008 p. 20
 Vocational Education and Training Amendment Regulations (No. 2) 2008 | 21 Nov 2008 p. 4920-1 | r. 1 and 2: 21 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Nov 2008 (see r. 2(b))
 Vocational Education and Training Amendment Regulations 2009 | 31 Dec 2008 p. 5681-2 | r. 1 and 2: 31 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2009 (see r. 2(b))
 Vocational Education and Training Amendment Regulations (No. 2) 2009 | 22 May 2009 p. 1693-4 | r. 1 and 2: 22 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 23 May 2009 (see r. 2(b))
-Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 of the Commonwealth.
+Vocational Education and Training (Colleges) Amendment Regulations 2009 | 26 Jun 2009 p. 2565-8 | r. 1 and 2: 26 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Deleted by the Australian Citizenship (Transitionals and Consequentials) Act 2007 of the Commonwealth.
 Formerly referred, incorrectly, to the Student and Youth Allowances Act 1973 of the Commonwealth. The correct short title of the Act was the Student and Youth Assistance Act 1973. That short title was changed to the Student Assistance Act 1973 by the Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 of the Commonwealth. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
-Repealed by the Skilling Australia’s Workforce (Repeal and Transitional Provisions) Act 2005 of the Commonwealth.
-Repealed by the Vocational Education and Training Act 1996.
-Repealed by the School Education Act 1999.
+Deleted by the Skilling Australia’s Workforce (Repeal and Transitional Provisions) Act 2005 of the Commonwealth.
+Deleted by the Vocational Education and Training Act 1996.
+Deleted by the School Education Act 1999.
 The Vocational Education and Training Amendment Regulations 1997 r. 4 and 5 were disallowed on 21 May 1998 (see Gazette 9 Jun 1998 p. 3098).
 The Vocational Education and Training Amendment Regulations 2005 r. 6(3) reads as follows:
 “

@@ -1,18 +1,15 @@
 ## Schedule 1 — Fees
-[Heading inserted in Gazette 9 Nov 2007 p. 5609.]
+[r. 9 and 12]
+[Heading inserted in Gazette 26 Jun 2009 p. 2567.]
 Item | Fee for | Fee ($)
 1. | Late application (r. 9(2)) | 75.00
-2. | Unit per semester, for a person who is not, under regulation 20(2) or 21, entitled to the concessional rate of course fee (r. 12) —
- | (a)for a band 1 unit | 14.00
- | (b)for a band 2 unit | 31.00
- | (c)for a band 3 unit | 60.00
- | (d)for a band 4 unit | 124.00
-3. | Unit per semester, for a person who is, under regulation 20(2) or 21, entitled to the concessional rate of course fee (r. 12) —
- | (a)for a band 1 unit | 7.00
- | (b)for a band 2 unit | 15.50
- | (c)for a band 3 unit | 30.00
- | (d)for a band 4 unit | 62.00
-4. | Category B course, per semester (r. 12) | 25.00
-5. | Category C course, per hour, or part of an hour, for the course (r. 12) | 4.15
-[6.deleted]
-[Schedule 1 inserted in Gazette 9 Nov 2007 p. 5609; amended in Gazette 21 Nov 2008 p. 4921; 22 May 2009 p. 1694.]
+2. | Category A course (r. 12(4))
+ | (a)Unit per semester, for a person who is not a concessional student and is enrolled to undertake the unit — (i)for a band 1 unit (ii)for a band 2 unit (iii)for a band 3 unit (iv)for a band 4 unit | 14.00 31.00 60.00 124.00
+ | (b)Unit per semester, for a person who is a concessional student and is enrolled to undertake the unit — (i)for a band 1 unit (ii)for a band 2 unit (iii)for a band 3 unit (iv)for a band 4 unit | 7.00 15.50 30.00 62.00
+ | (c)Unit per semester, for a person who is not a concessional student and is enrolled for the purpose of assessment of skills and competency — (i)for a band 1 unit (ii)for a band 2 unit (iii)for a band 3 unit (iv)for a band 4 unit | 7.00 15.50 30.00 62.00
+ | (d)Unit per semester, for a person who is a concessional student and is enrolled for the purpose of an assessment of skills and competency — (i)for a band 1 unit (ii)for a band 2 unit (iii)for a band 3 unit (iv)for a band 4 unit | 3.50 7.75 15.00 31.00
+3. | Category B course, per semester (r. 12(1)) | 25.00
+4. | Category C course, per hour or part of an hour, for the course (r. 12(1)) | 4.15
+A concessional student is a person who is, under regulation 20(2) or 21, entitled to the concessional rate of course fee.
+Assessment of skills and competency is an assessment of whether a person who has not undertaken or successfully completed a unit nevertheless has the skills and competency required for the unit.
+[Schedule 1 inserted in Gazette 26 Jun 2009 p. 2567-8.]
