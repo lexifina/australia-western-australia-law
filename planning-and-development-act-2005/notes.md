@@ -2,7 +2,7 @@ Notes
 This is a compilation of the Planning and Development Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
- | Planning and Development Act 2005 | 37 of 2005 | 12 Dec 2005 | s. 1 and 2: 12 Dec 2005; Act other than s. 1, 2, 149, 150 and Pt. 13 Div. 3: 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077)
+ | Planning and Development Act 2005 | 37 of 2005 | 12 Dec 2005 | s. 1 and 2: 12 Dec 2005; Act other than s. 1, 2, 149, 150 and Pt. 13 Div. 3: 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077) s. 150 and Pt. 13 Div. 3: 1 Jul 2009 (see s. 2 and Gazette 19 Jun 2009 p. 2225)
  | Swan Valley Planning Legislation Amendment Act 2006 s. 20(3) | 7 of 2006 | 19 Apr 2006 | 18 Jun 2006 (see s. 2 and Gazette 16 Jun 2006 p. 2109)
  | Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
  | Land Information Authority Act 2006 s. 147 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
@@ -14,10 +14,10 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 100 | 8 of 2009 | 21
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) | 37 of 2005 (as amended by No. 60 of 2006 s. 147(4)) | 12 Dec 2005 | To be proclaimed (see s. 2)
+Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Repealed by the Land Administration Act 1997.
 Repealed by the Mining Act 1978.
-On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3 (s. 226-235) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149 had not come into operation. It reads as follows:
 “
 149.Conditions on rural land (tied lots)
 (1) In this section —
@@ -48,61 +48,6 @@ a condition referred to in subsection (2) commits an offence.
 (d) the procedure for the approval;
 (e) the certification of relevant facts in relation to the approval; and
 (f) any other matter necessary or convenient to be prescribed for giving effect to the purposes of this section.
-150.Conditions on road access
-(1) Without limiting section 143, the Commission may impose a condition under that section that access to and from a portion of land shown on a plan or diagram of survey relating to the subdivision to a road abutting the portion of land is to be restricted or prohibited as set out in the condition and in accordance with the regulations.
-(2) A condition referred to in subsection (1) is to specify a covenantee.
-(3) Where —
-(a) a diagram or plan of survey of a subdivision, or a plan lodged for registration under the Strata Titles Act 1985, is received by the Authority; and
-(b) it is shown on the plan or diagram that access to and from any portion of land shown on the plan or diagram to and from a road abutting the portion of land is subject to or intended to be subject to a restriction or prohibition as set out in a condition imposed by the Commission,
-the land becomes subject to a covenant so restricting or prohibiting that access —
-(c) in the case of a plan lodged for registration under the Strata Titles Act 1985, at the time the Registrar of Titles registers the plan under that Act; and
-(d) in any other case, at the time the new certificate, or if more than one, all the new certificates, for the land the subject of the diagram or plan have been registered under the Transfer of Land Act 1893.
-(4) It is sufficient description for the purposes of subsection (3)(b) if reference is made on the plan or diagram to this section and regulations made for the purposes of this section.
-[Section 150 amended by No. 60 of 2006 s. 147(4).]
-Part 13 — Enforcement and legal proceedings
-Division 3 — Infringement notices
-226.Interpretation
-In this Division —
-alleged offender means a person who or which is suspected of having committed an offence under this Act or under regulations made under this Act;
-designated person in section 228, 229, 230 or 231 means a person appointed under section 234 to be a designated person for the purposes of the section in which the term is used;
-prescribed offence means an offence prescribed under section 227(1).
-227.Prescribed offences
-(1) The regulations may prescribe an offence under this Act, or under any regulations made under this Act, to be an offence for which an infringement notice may be issued under this Division.
-(2) For each prescribed offence the regulations must prescribe —
-(a) a modified penalty applicable in whatever the circumstances in which the offence is committed; or
-(b) a modified penalty applicable if the offence is committed in circumstances specified in the regulations.
-(3) The modified penalty for an offence is not to exceed 20% of the maximum penalty that could be imposed for that offence by a court.
-228.Giving of infringement notice
-(1) A designated person who has reason to believe that a person has committed a prescribed offence may give an infringement notice to the alleged offender.
-(2) The notice must be given within 6 months after the alleged offence is believed to have been committed.
-229.Content of infringement notice
-(1) An infringement notice is to be in the prescribed form and is to —
-(a) contain a description of the alleged offence;
-(b) specify the amount of the modified penalty for the offence;
-(c) advise that if the alleged offender does not wish to have a complaint of the alleged offence heard and determined by a court, that amount may be paid to a designated person within a period of 28 days after the giving of the notice; and
-(d) inform the alleged offender as to who are designated persons for the purposes of receiving payment of modified penalties.
-(2) The amount referred to in subsection (1)(b) is to be the amount that was the prescribed modified penalty at the time the alleged offence is believed to have been committed.
-230.Extension of time
-A designated person may, in a particular case, extend the period of 28 days within which the modified penalty may be paid and the extension may be allowed whether or not the period of 28 days has elapsed.
-231.Withdrawal of infringement notice
-(1) A designated person may, whether or not the modified penalty has been paid, withdraw an infringement notice by sending to the alleged offender a notice in the prescribed form stating that the infringement notice has been withdrawn.
-(2) If an infringement notice is withdrawn after the modified penalty has been paid, the amount is to be refunded.
-232.Benefit of paying modified penalty
-(1) Subsection (2) applies if the modified penalty specified in an infringement notice has been paid within 28 days or such further time as is allowed and the notice has not been withdrawn.
-(2) If this subsection applies it prevents the bringing of proceedings and the imposition of penalties to the same extent that they would be prevented if the alleged offender had been convicted by a court of, and punished for, the alleged offence.
-(3) Payment of a modified penalty is not to be regarded as an admission for the purposes of any proceedings, whether civil or criminal.
-233.Application of penalties collected
-An amount paid as a modified penalty is, subject to section 231(2), to be dealt with as if it were a penalty imposed by a court as a penalty for an offence.
-234.Appointment of designated persons
-(1) The chief executive officer of a responsible authority may, in writing, appoint persons or classes of persons to be designated persons for the purposes of section 228, 229, 230 or 231 or for the purposes of 2 or more of those sections.
-(2) A person who is authorised to give infringement notices under section 228 is not eligible to be a designated person for the purposes of any of the other sections.
-235.Notice placing onus on vehicle owner
-(1) If an alleged offence is one for which a notice under section 225 can be given to the owner of a vehicle involved in the commission of the offence, that notice can be included in the same document as an infringement notice given to the owner for the alleged offence.
-(2) For the purpose of giving the vehicle owner an infringement notice that is with a notice under section 225 —
-(a) it is a sufficient ground for believing the owner to have committed the alleged offence that the person is the owner; and
-(b) the infringement notice may be addressed and given as specified in section 225(4).
-(3) Where the modified penalty specified in an infringement notice has been paid within 28 days or such further time as is allowed, section 225(6) does not have effect to deem the owner to have committed the offence.
-(4) The statement required by section 225(5) is to include a description of the effect of subsection (3) if an infringement notice is given with a notice under section 225.
 ”.
 Now known as the Local Government (Miscellaneous Provisions) Act 1960. Section 48 was repealed by the Local Government Act 1995 s. 970.
 Lands Titles Office diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
