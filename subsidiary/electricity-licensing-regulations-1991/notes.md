@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 22 August 2008 of the Electricity (Licensing) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity (Licensing) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Electricity (Licensing) Regulations 1991 | 14 Oct 1991 p. 5249-99 (corrigendum 1 Nov 1991 p. 5665) | 1 Nov 1991 (see r. 2)
@@ -26,6 +26,8 @@ Electricity (Licensing) Amendment Regulations (No. 2) 2007 | 15 Jun 2007 p. 2783
 Electricity (Licensing) Amendment Regulations 2007 | 31 Dec 2007 p. 6485-539 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Electricity (Licensing) Amendment Regulations 2008 | 17 Jun 2008 p. 2564-5 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Reprint 4: The Electricity (Licensing) Regulations 1991 as at 22 Aug 2008 (includes amendments listed above)
+Electricity (Licensing) Amendment Regulations (No. 4) 2009 | 23 Jun 2009 p. 2438-9 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Electricity (Licensing) Amendment Regulations (No. 3) 2009 | 30 Jun 2009 p. 2622-3 | r. 1 and 2: 30 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 “
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the “licensing regulations”) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
