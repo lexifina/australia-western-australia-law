@@ -10079,4 +10079,4 @@ Zygopetalum | spp. |  | Orchidaceae
 Zygophlebia | spp. |  | Pteridophyta
 Zygostates | spp. |  | Orchidaceae
 [Schedule 5 inserted in Gazette 16 Mar 2000 p. 1241-459; amended in Gazette 16 Jan 2004 p. 195.]
-[Schedule 6 repealed in Gazette 6 Jan 1998 p. 173.]
+[Schedule 6 deleted in Gazette 6 Jan 1998 p. 173.]
