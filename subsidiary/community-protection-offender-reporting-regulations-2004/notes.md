@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Community Protection (Offender Reporting) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 July 2009 of the Community Protection (Offender Reporting) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Community Protection (Offender Reporting) Regulations 2004 | 31 Dec 2004 p. 7025-39 | 1 Feb 2005 (see r. 2)
@@ -13,5 +13,20 @@ Community Protection (Offender Reporting) Amendment Regulations 2008 | 28 Mar 20
 Community Protection (Offender Reporting) Amendment Regulations (No. 2) 2008 | 14 Nov 2008 p. 4878 | r. 1 and 2: 14 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Nov 2008 (see r. 2(b))
 Community Protection (Offender Reporting) Amendment Regulations (No. 3) 2008 | 25 Nov 2008 p. 4989-90 | r. 1 and 2: 25 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Nov 2008 (see r. 2(b))
 Community Protection (Offender Reporting) Amendment Regulations 2009 | 20 Feb 2009 p. 353-4 | r. 1 and 2: 20 Feb 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Feb 2009 (see r. 2(b))
+Reprint 2: The Community Protection (Offender Reporting) Regulations 2004 as at 3 Jul 2009 (includes amendments listed above)
 Formerly referred to the Criminal Law (Mentally Impaired Defendants) Act 1996 the short title of which was changed to the Criminal Law (Mentally Impaired Accused) Act 1996 by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+Code Act11(2)
+Department of Corrective Services3
+Department of Health7(3)
+detention centre7(3)
+foreign court3
+prison7(3)
+recognised order3
+registrar3
+release order7(3)
+relevant court3
+relevant report15(2)
