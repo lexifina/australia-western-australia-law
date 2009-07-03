@@ -12,14 +12,13 @@ Application Form for Liquor Subsidy (WA Producers Only)
 3.LIQUOR LICENCE NUMBER:
 4.NAME OF PREMISES:
 5.NAME OF LICENSEE:
-ADDRESS OF LICENSED
-PREMISES:
+ADDRESS OF LICENSED PREMISES:
  |  | Postcode
-6.AMOUNT OF SUBSIDY CLAIM: | (a)WET subsidy claimable for Cellar door sales to persons other than liquor merchants (including sales made in a restaurant on the licensed premises). ........ | $
- | (b)WET subsidy claimable for Mail Order Sales. ........................................................ | $
-(a) + (b) + (c) = Total for this period | (c)WET subsidy claimable for Tastings, promotions and donations for which no charge has been made. ............................ | $
+6.AMOUNT OF SUBSIDY CLAIM: | (a)WET subsidy claimable for Cellar door sales to persons other than liquor merchants (including sales made in a restaurant on the licensed premises). ....................................... | $
+ | (b)WET subsidy claimable for Mail Order Sales. ............................................................ | $
+(a) + (b) + (c) = Total for this period | (c)WET subsidy claimable for Tastings, promotions and donations for which no charge has been made. ................................ | $
  | TOTAL FOR THIS PERIOD: | $
-7.ADJUSTMENTS (IF APPLICABLE): | (e)Amount overpaid/underpaid for the month of ................................................... | $
+7.ADJUSTMENTS (IF APPLICABLE): | (e)Amount overpaid/underpaid for the month of .................................................. | $
  | TOTAL AMOUNT CLAIMED: | $
 Have your bank details changed? No r Yes r If yes please provide new bank details below:
 BANK NAME: |  | BRANCH NAME:
@@ -36,8 +35,8 @@ WHERE THE LICENSEE IS ONE OR MORE INDIVIDUAL PERSONS:
 Signature(s)
 ________________________________Date: ____ / ____ / ____Ph No: _________________
 ________________________________Date: ____ / ____ / ____Ph No: _________________
-FOR OFFICE | DATE RECEIVED: ____ / ____ / ____ | AMOUNT PAYABLE: $
-USE ONLY | DATE PAID:____ / ____ / ____ | PAYMENT DETAILS:
+FOR OFFICE | DATE RECEIVED:____ / ____ / ____ | AMOUNT PAYABLE: $
+USE ONLY | DATE PAID: ____ / ____ / ____ | PAYMENT DETAILS:
 [Form 19 inserted in Gazette 9 Jul 2004 p. 2774-5.]
 Form 19A
 Liquor Control Act 1988
@@ -49,11 +48,10 @@ Application for Liquor Subsidy — Low Alcohol (WA Wholesalers/Beer Producers)
 3.LIQUOR LICENCE NUMBER:
 4.NAME OF PREMISES:
 5.NAME OF LICENSEE:
-ADDRESS OF LICENSED
-PREMISES:
+ADDRESS OF LICENSED PREMISES:
  |  | Postcode
 6.AMOUNT OF SUBSIDY CLAIM: | Low Alcohol Beer | $
- | Low Alcohol Wine | $
+Low Alcohol Wine | $
  | TOTAL FOR THIS PERIOD: | $
 7.ADJUSTMENTS (IF APPLICABLE): | Amount overpaid/underpaid for the month of ................................................... | $
  | TOTAL AMOUNT CLAIMED: | $
@@ -103,7 +101,7 @@ Liquor Control Act 1988 Infringement notice | Notice No.
 Date of notice
 Alleged offender | Name:Family name
 Given names
-Address _______________________________________________ Postcode
+Address ______________________________________________ Postcode
 Date of birthMale / Female
 Driver’s licence No. (if available)
 Alleged offence | Description of offence ___________________________________
@@ -121,12 +119,12 @@ Liquor Control Act 1988 Withdrawal of infringement notice | Withdrawal No.
 Date of withdrawal
 Alleged offender | Name:Family name
 Given names
-Address _______________________________________________ Postcode
+Address ______________________________________________ Postcode
 Infringement notice | Infringement notice No.
 Date of issue //20
 Alleged offence | Description of offence ___________________________________
 Liquor Control Act 1988 s. ________ Liquor Control Regulations 1989 r. _________
-Location where offence committed Name of premises (if applicable)_____________________________________________ Address _______________________________________________ Postcode
+Location where offence committed Name of premises (if applicable)____________________________________________ Address ______________________________________________ Postcode
 Date//20Time a.m./p.m.
 Officer withdrawing notice | Director of Liquor Licensing
 Signature
