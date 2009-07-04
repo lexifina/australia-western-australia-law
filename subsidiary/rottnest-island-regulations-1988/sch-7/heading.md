@@ -1,22 +1,32 @@
 ## Schedule 7 — Miscellaneous fees
-[Heading inserted in Gazette 4 Jul 1997 p. 3539.]
+[Heading inserted in Gazette 3 Jul 2009 p. 2701.]
 ## Part 1 — Admission fees and payments
-[Heading inserted in Gazette 4 Jul 1997 p. 3539.]
-1.Admission Fee to Island (r. 5(1)) | $1.00 for a child who has reached 4 years, but is under 13 years of age. $12.90 for every person 13 or more years of age.
-2.Annual payment in lieu of admission fee (r. 7)
-Length of vessel
-8 metres or less | $134.90
-More than 8 metres but less than 10 metres | $153.80
-10 metres or more but less than 15 metres | $184.60
-15 metres or more | $307.70
-2a.Annual payment in lieu of admission fee for aircraft (r. 7) | $135.30
-[Part 1 inserted in Gazette 4 Jul 1997 p. 3539; amended in Gazette 19 Jun 1998 p. 3303; 15 Jun 1999 p. 2574; 23 Jun 2000 p. 3212; 24 Apr 2003 p. 1273; 20 Jun 2003 p. 2252; 27 Jun 2003 p. 2407; 29 Jun 2004 p. 2547; 8 Aug 2006 p. 2907-8; 24 Jul 2007 p. 3666-7; 24 Jun 2008 p. 2912.]
+[Heading inserted in Gazette 3 Jul 2009 p. 2701.]
+1. | Admission fee to Island for person travelling to and from the Island on the same day (r. 5(1))
+ | For child (aged 4 years or over but less than 13 years) | $5.00
+ | For adult (aged 13 years or over) | $14.50
+ | For family (2 adults and 2 children) | $33.25
+2. | Admission fee to Island for person travelling to and from the Island on different days (r. 5(1))
+ | For child (aged 4 years or over but less than 13 years) | $6.50
+ | For adult (aged 13 years or over) | $18.00
+ | For family (2 adults and 2 children) | $41.75
+3. | Annual fee in lieu of admission fee for vessels (r. 7)
+ | Length of vessel
+ | 8 metres or less | $189.00
+ | More than 8 metres but less than 10 metres | $215.50
+ | 10 metres or more but less than 15 metres | $258.50
+ | 15 metres or more | $431.00
+4. | Annual fee in lieu of admission fee for aircraft (r. 7) | $189.50
+[Part 1 inserted in Gazette 3 Jul 2009 p. 2701-2.]
 ## Part 2 — Mooring licences
-[Heading inserted in Gazette 4 Jul 1997 p. 3539.]
-3.Application fee for mooring site licence (reg. 20(3)(c)) | $38.80
-4.Annual mooring site licence fee (regs. 22(3)(b), 33(3)(b), 35D(4)(b)) | $736.50, or $73.40 per metre of length of licensed vessel or vessel to be licensed, whichever is the greater amount
-[Part 2 inserted in Gazette 4 Jul 1997 p. 3539; amended in Gazette 19 Jun 1998 p. 3303; 23 Jun 2000 p. 3212; 27 Jun 2003 p. 2408; 29 Jun 2004 p. 2547; 8 Aug 2006 p. 2907-8; 24 Jul 2007 p. 3667; 24 Jun 2008 p. 2912.]
+[Heading inserted in Gazette 3 Jul 2009 p. 2702.]
+5. | Application fee for mooring site licence (r. 20(3)(c)) | $40.50
+6. | Annual mooring site licence (r. 22(3)(b)(i) and 33(3)(b)(i))
+ | Length of vessel
+ | 10 metres or less | $773.00
+ | More than 10 metres | $77.00/m of length of licensed vessel or vessel to be licensed
+[Part 2 inserted in Gazette 3 Jul 2009 p. 2702.]
 ## Part 3 — Authorised user payment
-[Heading inserted in Gazette 27 Jun 2003 p. 2408.]
-5.Annual authorised user payment (r. 31(4)(ab)) | $36.70 per metre of length of authorised vessel
-[Part 3 inserted in Gazette 27 Jun 2003 p. 2408; amended in Gazette 8 Aug 2006 p. 2907-8; 24 Jul 2007 p. 3667; 24 Jun 2008 p. 2912.]
+[Heading inserted in Gazette 3 Jul 2009 p. 2702.]
+7. | Annual authorised user payment (r. 31(4)(ab)) | $38.50/m of length of authorised vessel
+[Part 3 inserted in Gazette 3 Jul 2009 p. 2702.]

@@ -23,6 +23,7 @@ Reprint 2: The Rottnest Island Regulations 1988 as at 14 Jan 2005 (includes amen
 Rottnest Island Amendment Regulations 2006 | 8 Aug 2006 p. 2906-8 | 8 Aug 2006
 Rottnest Island Amendment Regulations 2007 | 24 Jul 2007 p. 3665-7 | r. 1 and 2: 24 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2007 (see r. 2(b))
 Rottnest Island Amendment Regulations 2008 | 24 Jun 2008 p. 2911-13 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Rottnest Island Amendment Regulations 2009 | 3 Jul 2009 p. 2700-3 | r. 1 and 2: 3 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jul 2009 (see r. 2(b)(ii))
 The Rottnest Island Amendment Regulations 1997 r. 5(2) reads as follows:
 “
 (2) Any payment made under regulation 7 of the principal regulations in respect of the financial year ending 30 June 1997 is taken to have been made in respect of the period ending 31 August 1997.
