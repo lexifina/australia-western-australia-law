@@ -233,7 +233,7 @@ Oyster ..................................................... | Family Ostreidae
 Pipis ........................................................ | Family Donacidae
 Razorfish ................................................ | Family Pinnidae
 Scallop .................................................... | Family Pectinidae
-Division 5 — Other
+## Division 5 — Other
 [Heading inserted in Gazette 13 Nov 2007 p. 5693.]
 Common Name | Scientific Name
 Sea Cucumber (Beche-de-mer, Trepang) | Class Holothurioidae
