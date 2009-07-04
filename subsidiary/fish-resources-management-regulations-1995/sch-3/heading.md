@@ -362,4 +362,4 @@ Fish | Bag limit for one day
 Mulloway ............................................................................................. | 2
 Snapper, Pink ....................................................................................... | 2
 [Part 5, formerly Part 4, amended in Gazette 1 Oct 2003 p. 4341; 22 Dec 2005 p. 6238.]
-[Part 6 repealed in Gazette 1 Oct 2003 p. 4341.]
+[Part 6 deleted in Gazette 1 Oct 2003 p. 4341.]
