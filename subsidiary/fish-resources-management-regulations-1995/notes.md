@@ -119,6 +119,7 @@ Fish Resources Management Amendment Regulations 2009 | 13 Feb 2009 p. 297-300 | 
 Fish Resources Management Amendment Regulations (No. 8) 2009 | 13 Mar 2009 p. 760-1 | r. 1 and 2: 13 Mar 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Mar 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 5) 2009 | 27 Mar 2009 p. 922 | r. 1 and 2: 27 Mar 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Mar 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 9) 2009 | 9 Jun 2009 p. 1911-20 | r. 1 & 2: 9 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 10) 2009 | 3 Jul 2009 p. 2679-80 | r. 1 and 2: 3 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jul 2009 (see r. 2(b))
 Repealed by the Land Administration Act 1997 s. 281(1).
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
