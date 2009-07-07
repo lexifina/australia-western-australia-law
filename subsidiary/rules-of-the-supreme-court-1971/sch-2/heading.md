@@ -1,7 +1,7 @@
 ## The Third Schedule
 O. 24, R. 12
 ## Payment into and out of Court
-[1.Repealed in Gazette 21 Feb 2007 p. 596.]
+[1.Deleted in Gazette 21 Feb 2007 p. 596.]
 2.When any party intends to pay money into court the provisions of regulation 15 shall be complied with. The Accountant, on receiving the money, shall give an official receipt for the money, setting out the particulars. Where the money is paid in upon a notice or pleading, a signed copy of such notice or pleading must first have been filed.
 3.Money paid into court shall be paid by the Accountant to the Treasurer, except when the money is to be invested by the Public Trustee, in which case it shall be transferred to the Public Trustee.
 4.Where money is paid into court under a judgment or order, an office copy of the judgment or order shall be lodged with the Accountant forthwith by the person or party making the payment in or his solicitor. If the money or any part of the money is transferred to the Public Trustee for investment the office copy of the judgment or order shall be forwarded by the Accountant to the Public Trustee.
@@ -24,7 +24,7 @@ O. 24, R. 12
 [Clause 15 amended in Gazette 14 Dec 1979 p. 3872.]
 16.The Principal Registrar shall furnish to the Accountant or Public Trustee, free of charge an office copy of any document filed with the Principal Registrar, which the Accountant or Public Trustee may reasonably require for the purpose of carrying out his duties under this Schedule.
 [Clause 16 amended in Gazette 14 Dec 1979 p. 3872.]
-[Fourth Schedule repealed in Gazette 21 Feb 2007 p. 596.]
-[Fifth Schedule repealed in Gazette 27 Jul 2001 p. 3895.]
-[Sixth Schedule repealed in Gazette 16 Jul 1999 p. 3201.]
-[Seventh Schedule repealed in Gazette 21 May 2004 p. 1712.]
+[Fourth Schedule deleted in Gazette 21 Feb 2007 p. 596.]
+[Fifth Schedule deleted in Gazette 27 Jul 2001 p. 3895.]
+[Sixth Schedule deleted in Gazette 16 Jul 1999 p. 3201.]
+[Seventh Schedule deleted in Gazette 21 May 2004 p. 1712.]

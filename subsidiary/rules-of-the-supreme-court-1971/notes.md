@@ -124,7 +124,7 @@ Supreme Court Amendment Rules (No. 2) 2009 Pt. 1 and 3 | 3 Jul 2009 p. 2682-700 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Supreme Court Amendment Rules (No. 2) 2009 Pt. 2 | 3 Jul 2009 p. 2682-700 | Operative on commence of the Convention on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters, done at the Hague on 15 November 1965, enters into force for Australia
+Supreme Court Amendment Rules (No. 2) 2009 Pt. 2 | 3 Jul 2009 p. 2682-700 (printers correction in Gazette 7 Jul 2009 p. 2719) | Operative on commence of the Convention on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters, done at the Hague on 15 November 1965, enters into force for Australia
 This Rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
 Formerly referred to as The Partnership Act 1895, the short title of which was changed to the Partnership Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 144. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The commencement date of 1 Jul 1982 that was specified was before the date of gazettal.
