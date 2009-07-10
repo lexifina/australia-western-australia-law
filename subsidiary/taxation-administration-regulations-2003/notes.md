@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Taxation Administration Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 10 July 2009 of the Taxation Administration Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Taxation Administration Regulations 2003 | 27 Jun 2003 p. 2419-22 | 1 Jul 2003 (see r. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -14,8 +14,8 @@ Taxation Administration Amendment Regulations 2008 | 14 Mar 2008 p. 837 | r. 1 a
 Taxation Administration Amendment Regulations (No. 2) 2008 | 22 Jul 2008 p. 3354-6 | r. 1 and 2: 22 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jul 2008 (see r. 2(b))
 Taxation Administration Amendment Regulations (No. 3) 2008 | 11 Nov 2008 p. 4845 | r. 1 and 2: 11 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Nov 2008 (see r. 2(b))
 Taxation Administration Amendment Regulations 2009 | 15 May 2009 p. 1639-43 | r. 1 and 2: 15 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 16 May 2009 (see r. 2(b))
+Reprint 2: The Taxation Administration Regulations 2003 as at 10 Jul 2009 (includes amendments listed above)
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. R. 1-4 and Pt. 7 Div. 2 of those regulations read as follows:
-“
 1.Citation
 These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
 2.Commencement
@@ -50,9 +50,7 @@ After regulation 2 the following regulation is inserted —
 (3)In these regulations —
 applied Taxation Administration Regulations means the Taxation Administration Regulations 2003 of Western Australia in their application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act.
 ”.
-”.
 Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. R. 1-5 and Pt. 7 Div. 2 of that notice read as follows:
-“
 1.Citation
 This notice is the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
 2.Commencement
@@ -93,4 +91,16 @@ corresponding Taxation Administration Regulations means the Taxation Administrat
 (3) These regulations are to be read with the corresponding Taxation Administration Regulations as a single body of law.
 (4) In addition to being modified as prescribed by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007, these regulations are deemed to be further modified to any extent that is necessary or convenient to enable these regulations to operate effectively as a law of the Commonwealth.
 ”.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+CEO (Landgate)13C(1)
+CEO (petroleum)13B(1)
+DG (vehicle licensing)13A(1)
+duty5A(3), 13C(1)
+online arrangement5A(3)
+Pastoral Lands Board13(1)
+pastoral lessee13(1)
+senior Board member14A(1)
+settlement agent14A(1)
+STR arrangement14A(1)
