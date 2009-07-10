@@ -1,5 +1,5 @@
 ## Schedule
-Forms
+## Forms
 FORM 1
 Commercial Tenancy (Retail Shops) Agreements Act 1985
 Section 6(4)
@@ -28,8 +28,7 @@ Current Total Lettable Area of Centre/Building
 Current Parking Facilities
 (a)Approximate customer bays................................
 (b)Approximate tenant bays.....................................
-(c)Number of bays allocated
-exclusively to tenant............................................
+(c)Number of bays allocated exclusively to tenant...................................................................
 Centre/Building Facilities
 and Services provided by
 the Landlord available
@@ -71,7 +70,7 @@ Thurs................to...............
 Fri.....................to...............
 Sat....................to...............
 Sun...................to...............
-NOTE: Core hours may not exceed those permitted by legislation.
+NOTE:Core hours may not exceed those permitted by legislation.
 After hours accessMon..................to...............
 to the Centre/BuildingTues..................to...............
 and the premises atWed..................to...............
@@ -125,6 +124,9 @@ Suspended ceiling
 Telephone
 Water supply and waste
 Other:
+_______________________
+_______________________
+_______________________
 Date on which the premises will be available for
 occupation or fit-out.
 Landlord’s requirements as to
@@ -180,6 +182,9 @@ after hours operation)
 Stamp duty
 Wet waste removal
 Other:
+_________________________________________
+_________________________________________
+_________________________________________
 7.Landlord’s Interest
 Landlord’s interest inFREEHOLDLEASEHOLD
 the Centre/Building
@@ -213,7 +218,9 @@ Telephone/facsimile/radio
 Tenancy cleaning
 Wall loading
 Wet/dry waste
-Other:
+Other:________________________________________________
+________________________________________________
+________________________________________________
 You, the Tenant, have made representations to the Landlord which are relied on by the Landlord in respect of the following: (Details are attached).
 DECLARATION BY LANDLORD AND PROSPECTIVE TENANT
 We acknowledge that this Disclosure Statement contains or refers to all agreements and representations that influence us to contemplate entering into the proposed lease of the premises.
@@ -225,27 +232,27 @@ Name of Prospective Tenant:
 Address of Prospective Tenant:
 Signed by or on behalf of the Prospective Tenant:
 Date:
+[Form 1 inserted in Gazette 16 Feb 1993 p. 1270-6; amended in Gazette 18 Jun 1999 p. 2602-6.]
 FORM 2
 Commercial Tenancy (Retail Shops) Agreements Act 1985
 Section 7(1)(a)
 [Reg. 5]
-NOTICE OF ELECTION THAT RENT BE DETERMINED
-BY REFERENCE TO TURNOVER
-TO ..........................................................................................................................
-.........................................................................................................................
-.........................................................................................................................
+NOTICE OF ELECTION THAT RENT BE DETERMINED BY REFERENCE TO TURNOVER
+TO........................................................................................................................
+........................................................................................................................
+........................................................................................................................
 (Full name and address of the landlord)
 1.Where retail shop is in a retail shopping centre —
-......................................................................................................................
+........................................................................................................................
 (Name and address of retail shopping centre)
-......................................................................................................................
+........................................................................................................................
 (Number of the retail shop)
 or
 2.Where the retail shop is not in a retail shopping centre —
-......................................................................................................................
+........................................................................................................................
 (Address of retail shop)
 3.Where the tenant has entered into occupation of the retail shop —
-......................................................................................................................
+.......................................................................................................................
 (the business name under which the tenant conducts business)
 I,..............................................................................................................................
 (Full name of tenant)
@@ -253,17 +260,18 @@ of .............................................................................
 (residential address of tenant, or address of registered office if tenant is a body corporate)
 being the tenant of the abovenamed retail shop, give notice that I elect that the rent is to be determined *in whole/*in part by reference to the turnover of the business.
 Dated:
-................................................................
+..............................................................
 (Signature of tenant or where tenant is a body corporate, the signature of a person duly authorised by the body corporate to give this notice).
 * Strike out whichever does not apply.
+[Form 2 amended in Gazette 18 Jun 1999 p. 2606.]
 FORM 3
 Commercial Tenancy (Retail Shops) Agreements Act 1985
-Section 13(1)[Reg. 6]
+Section 13(1)
+[Reg. 6]
 NOTICE OF EXERCISE OF OPTION
 TO ..........................................................................................................................
 of.............................................................................................................................
-(Full name and address of landlord as
-shown for service of notices in lease)
+(Full name and address of landlord as shown for service of notices in lease)
 1.Where a retail shop is in a retail shopping centre —
 ......................................................................................................................
 (Name and address of retail shopping centre)
@@ -275,23 +283,23 @@ or
 (Address of retail shop)
 3.......................................................................................................................
 (Business name under which tenant conducts business)
-I,..............................................................................................................................
+I,...........................................................................................................................
 (Full name of tenant)
 ...........................................................................................................................
-(Residential address of tenant or address of registered office if tenant is a
-body corporate)
+(Residential address of tenant or address of registered office if tenant is a body corporate)
 being the tenant of the abovenamed retail shop under —
-(a)a lease dated ......................................., between..............................................................................................
+(a)a lease dated ......................................., between......................................................................................................
 (insert the names of each party to the lease and the capacity of each party, e.g. lessor, lessee, guarantor)
 and (where applicable)
 (b)an assignment of lease dated ........................................
-between .............................................................................................
-............................................................................................................
+between .....................................................................................................
+...................................................................................................................
 (insert the names of each party to the assignment of lease and the capacity of each party, e.g. lessor, assignor, assignee, guarantor)
 The current term of the lease of the abovenamed retail shop expires on ............... ....................
 Under section 13(1) of the Commercial Tenancy (Retail Shops) Agreements Act 1985, I give notice that I exercise my option to renew the lease of the abovementioned retail shop for a term commencing immediately after the expiry of the current term and expiring on ..............................
 Date: ................................................
 (Signature of tenant or if tenant is a body corporate, the signature of a person duly authorised by the body corporate to give this notice).
+[Form 3 amended in Gazette 18 Jun 1999 p. 2606.]
 [Forms 4 and 5 deleted in Gazette 30 Dec 2004 p. 6907.]
 FORM 6
 Commercial Tenancy (Retail Shops) Agreements Act 1985
@@ -345,7 +353,7 @@ You can terminate the lease at any time up to 60 days after the lease was “ent
 You can go to the State Administrative Tribunal and get an order for compensation for any pecuniary loss suffered as a result of not being given a “Tenant Guide”.
 PREMISES COVERED BY THE ACT (s.3)
 Generally
-ØThe Act covers a retail shop where the premises are being used wholly or predominantly for a business involving the sale of goods by retail. However other premises trading in a retail shopping centre ( where there are 5 or more retail shops) are also covered by the Act.
+ØThe Act covers a retail shop where the premises are being used wholly or predominantly for a business involving the sale of goods by retail. However other premises trading in a retail shopping centre (where there are 5 or more retail shops) are also covered by the Act.
 ØThe Act and its requirements only apply to retail shop leases when the shops have a retail floor area that does not exceed 1 000m .
 A prospective retail tenant should establish the area under the lease and have this surveyed (if none is available) as early as possible in the agreement – especially in preparation for a net rent lease.
 Specifically
@@ -385,13 +393,13 @@ If you have agreed to a review of your shop rental, then at each review time a s
 The lease, however, cannot give the Lessor the right to choose the greatest return from a range of rent types at any one review.
 Can use a different method next time
 The types of review may vary over the life of the lease, for example Year 1 CPI, Year 2 Market rent, Year 3 a fixed increase then a higher rate if turnover exceeds an agreed level, Year 4 Market rent, Year 5 CPI + a percentage increase.
-No ratchet clauses
+No “ratchet” clauses
 In a rent review your rent can not be held above the current market level (via a ratchet clause) such that the rent can never fall or go below a fixed level. The lease must allow your rent to rise or fall to a level supported by market evidence.
 The role of the Act and the State Administrative Tribunal
 In a market rent review, the Act provides that both parties can:
-(i) initiate the market rent review process,
-(ii) appoint a single licensed valuer to determine the new rental, or
-(iii) each appoint a valuer to represent their interests.
+(i)initiate the market rent review process,
+(ii)appoint a single licensed valuer to determine the new rental, or
+(iii)each appoint a valuer to represent their interests.
 In the case of disagreement the new rent may be referred to the State Administrative Tribunal for determination.
 Until both parties agree to the new rent level or the Tribunal determines the new rent, the current rent will continue to apply. Once the higher or lower rent is agreed, adjustments will be backdated to the review date. The rate of repayment between the parties can be varied at the Tribunal’s discretion if the Tribunal has determined the rent.
 RENT BASED ON TURNOVER (s.7 & s.8)
@@ -399,7 +407,7 @@ Steps needed to base the rent on turnover
 The Act provides that if you have agreed to a rent based on the turnover of your business then that agreement must be based on an agreed formula and must be formalised in writing on a prescribed form (Regulation 5 Form 2).
 The Act also recognises the confidentiality of such figures to a retail business and limits the release and use of this information strictly in accordance with your agreement with the Lessor.
 CONTRIBUTION TO LANDLORD EXPENSES (s.12)
-Only operating expenses not capital expenses
+Only “operating” expenses not “capital” expenses
 The landlord’s expenses are described in the Act as operating expenses. Leases can also refer to them as “outgoings or variable outgoings”. They are costs in operating, repairing, or maintaining the Lessor’s premises including any building common areas. Typically these costs are the rates and taxes, cleaning, airconditioning, security, insurances and other valid expenses of running the property. No capital expenditures (eg asset replacement) are recoverable operating expenses.
 Operating expenses and their payment are to be set out in the Disclosure Statement (Regulation 4 Form 1) and the budget attached to the lease provided by the Lessor.
 You can not be asked to pay management fees — these are costs to the Lessor that are not recoverable from retail tenants.
@@ -428,7 +436,7 @@ A provision in a retail shop lease which requires you to open your premises at s
 As you have the discretion to open (or close) your business at times of your choice the Lessor can not refuse to renew your lease because of your actions. If in the future you believe this to be the reason that your lease was not renewed you may apply in writing to the State Administrative Tribunal for compensation.
 STANDARD TRADING HOURS AND THE COSTS OF OPERATION
 Your retail business will be responsible for a share (limited to the “relevant proportion”) of agreed operating expenses arising from trading within standard trading hours.
-NOTE: “Standard Trading Hours” are prescribed as — (a) 8.00 a.m. to 6.00 p.m. Monday, Tuesday, Wednesday and Friday; (b) 8.00 a.m. to 9.00 p.m. Thursday; and (c) 8.00 a.m. to 5.00 p.m. Saturday. (see regulation 5A.)
+NOTE: “Standard Trading Hours” are prescribed as — (a)8.00 a.m. to 6.00 p.m. Monday, Tuesday, Wednesday and Friday; (b)8.00 a.m. to 9.00 p.m. Thursday; and (c)8.00 a.m. to 5.00 p.m. Saturday. (see regulation 5A.)
 If your retail shop is enclosed in a shopping centre then for practical reasons the opening and closing times (core hours) for the centre may be less than the standard trading hours. These matters will need to be clarified in disclosure by the Lessor.
 If you do not open outside standard trading hours, you can not be required to make a contribution to the expenses related to the extended hours.
 If you open outside the standard trading hours, you will be charged a contribution to the expenses related to the extended hours. These are referable expenses and are limited to the relevant proportion of those shops which open during the extended hours.
@@ -464,4 +472,4 @@ To reduce the possibility of a dispute, before entering a lease you should obtai
 ¨other tenancies as competitors;
 ¨the existence and continuance of major tenants in the centre, and
 ¨marketing support by the Lessor and related costs.
-[Schedule amended in Gazette 3 May 1991 p.1954; 16 February 1993 pp.1269-79; 18 June 1999 pp.2602-26; 28 September 2001 p.5354; 30 Dec 2004 p. 6907-9.]
+[Form 6 inserted in Gazette 18 Jun 1999 p. 2611-26; amended in Gazette 30 Dec 2004 p. 6907-9.]
