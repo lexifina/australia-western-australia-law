@@ -30,6 +30,11 @@ Mines Safety and Inspection Amendment Regulations 2008 | 29 Feb 2008 p. 684-92 |
 Reprint 4: The Mines Safety and Inspection Regulations 1995 as at 20 Mar 2008 (includes amendments listed above)
 Mines Safety and Inspection Amendment Regulations (No. 2) 2008 | 17 Jun 2008 p. 2567-8 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Mines Safety and Inspection Amendment Regulations (No. 2) 2009 | 16 Jun 2009 p. 2191-2 | r. 1 and 2: 16 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Mines Safety and Inspection Amendment Regulations 2009 r. 1-17 and 19-28 | 21 Jul 2009 p. 2918-27 | r. 1 and 2: 21 Jul 2009 (see r. 2(a)); Regulations other than r. 1, 2 and 18: 22 Jul 2009 (see r. 2(c))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Mines Safety and Inspection Amendment Regulations 2009 r. 18 | 21 Jul 2009 p. 2918-27 | 20 Jul 2010 (see r. 2(b));
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Repealed by the Industrial Relations Commission Regulations 2005 r. 121.
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -49,11 +54,45 @@ The Mines Safety and Inspection Amendment Regulations 2005 r. 13(2)-(3) read as 
 (3) In subregulation (2) —
 Mines Occupational Safety and Health Advisory Board has the meaning given by section 4(1) of the Act as in force before the commencement of section 115(2) of the Occupational Safety and Health Legislation Amendment and Repeal Act 2004.
 ”.
+On the date as at which this compilation was prepared, the Mines Safety and Inspection Amendment Regulations 2009 r. 18 had not come into operation. It reads as follows:
+18.Regulation 6.37 amended
+(1) Before regulation 6.37(1) insert:
+(1A) Subject to subregulation (2), a person must not —
+(a) do high risk work of a particular class at a mine unless the person holds a high risk work licence for that class of work; or
+(b) operate or drive a winding engine at a mine unless the person holds a certificate and has the written authorisation of the manager of the mine; or
+(c) operate or drive a hoist at a mine (whether or not that work is covered by paragraph (a)) unless the person has the written authorisation of the manager of the mine; or
+(d) operate or drive any plant not covered by paragraph (a), (b) or (c) at a mine unless the person has been trained and found to be competent by a practical trial in the operation of that plant by the manager of the mine or some other suitable person appointed for that purpose by the manager.
+Penalty: See regulation 17.1.
+(2) In regulation 6.37(1)(a)(i) delete “or under the Occupational Safety and Health Act 1984” and insert:
+or a high risk work licence under the Occupational Safety and Health Act 1984,
+(3) In regulation 6.37(3):
+(a) delete “subregulation (1)(a)” and insert:
+subregulation (1A)(a), (b) or (c) or (1)(a)
+(b) delete “certificate.” and insert:
+certificate or licence.
+(4) After regulation 6.37(4) insert:
+(5) For each person authorised, or found to be competent, by or on behalf of the manager of a mine under subregulation (1A) or (1), the manager must record in the record book —
+(a) the name of the person; and
+(b) the date on which the person was authorised or found to be competent; and
+(c) if the person undertook a test or practical trial — the date on which the test or trial was undertaken and the name and signature of the person who carried out the test or trial.
+Penalty: See regulation 17.1.
+(6) In subregulations (1A) and (1) —
+high risk work and high risk work licence have the meaning given in the Occupational Safety and Health Regulations 1996 regulation 6.1.
+(7) During the 12 month period commencing on the day on which subregulation (1A) (as inserted by the Mines Safety and Inspection Amendment Regulations 2009) came into operation —
+(a) subregulation (1A) does not apply in respect of underground mining operations; and
+(b) subregulation (1) applies in respect of underground mining operations only,
+and, at the end of that period, subregulation (1) ceases to have effect.
+(8) For the purposes of subregulation (1A)(a), if, in relation to a particular class of high risk work, a person does not hold an appropriate high risk work licence but —
+(a) the person holds a certificate of competency under the Occupational Safety and Health Act 1984; and
+(b) the certificate authorises or authorised the person to do that class of work,
+the person is to be taken to hold a high risk work licence for that class of work.
+(9) In this regulation, a reference to a certificate of competency under the Occupational Safety and Health Act 1984 is a reference to such a certificate issued under that Act for which the transition period under that Act has not expired, and which is not suspended.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 absorbed dose16.1
 action level7.1
+additional health assessment3.23
 adequate4.33(2)
 ADG Code7.20
 ADR1.3
@@ -66,6 +105,7 @@ appointed member2.7
 approved7.1, 16.1
 approved person3.23
 AS1.3
+AS/NZS1.3
 asbestos removal work9.1
 assessment form3.23
 atmospheric contaminant9.1
@@ -73,7 +113,6 @@ audiometric test3.23
 Australian Code for the Transport of Dangerous Goods by Road and Rail7.20
 Australian Design Rule1.3
 authorised limit16.1
-authorised medical officer3.23
 authorised person5.31(4), 8.21(6)
 automotive diesel fuel10.47(1)
 best practicable technology16.1
@@ -116,7 +155,6 @@ demolition blasting8.56(1)
 Department of Occupational Safety and Health1.3
 deputy’s certificate1.3
 designated employee16.1
-designated work3.23
 designer6.1
 detonator8.1
 diesel engine10.47(1)
@@ -145,9 +183,9 @@ equivalent dose16.1
 erector6.1
 exemption1.3
 exhaust treatment device10.47(1)
-existing employee3.23
 existing mine1.3
 exposure16.1
+Exposure Standards for Atmospheric Contaminants in the Occupational Environment9.1
 exposure standard9.1
 extra-low voltage5.1
 factor of safety1.3
@@ -162,6 +200,7 @@ function2.4(1)
 gantry crane6.1
 gas cylinder6.1
 guard6.1
+Guidance Note on the Membrane Filter Method for Estimating Airborne Asbestos Fibres9.1
 hazardous area5.1
 hazardous substance1.3
 Health Department1.3
@@ -175,7 +214,6 @@ in-cab signalling15.1
 industrial lift truck6.1
 industrial robot6.1
 inhalable dust9.1
-initial health assessment3.23
 initiating system8.1
 installer6.1
 interlocked6.1
@@ -208,6 +246,7 @@ National Code of Practice for the Preparation of Material Safety Data Sheets7.20
 National Model Regulations for the Control of Workplace Hazardous Substances1.3
 new employee3.23
 night1.3
+NOHSC1.3
 nominateSch. 1 cl. 1
 noise exposure7.1
 noise level7.1
@@ -229,7 +268,6 @@ package depot9.1
 peak9.1
 peak noise level7.1
 periodic health assessment3.23
-Perth Chest Clinic3.23
 portable apparatus5.1
 powerline corridor5.28(2)
 ppm1.3
@@ -295,4 +333,3 @@ winding rope log book11.1
 work box6.1
 working day3.17
 working shift3.17
-Worksafe Australia1.3
