@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 July 2009 of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Liquor Licensing Regulations 1989 | 27 Jan 1989 p. 209-61 | 1 Feb 1989 (see r. 2 and Gazette 27 Jan 1989 p. 263)
@@ -71,6 +71,8 @@ Liquor Control Amendment Regulations 2009 | 13 Mar 2009 p. 763-4 | r. 1 and 2: 1
 Liquor Control Amendment Regulations (No. 2) 2009 | 1 May 2009 p. 1437-8 | r. 1 and 2: 1 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 2 May 2009 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 6) 2009 | 9 Jun 2009 p. 1927-8 | r. 1 and 2: 9 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2009 (see r. 2(b)(i))
 Reprint 8: The Liquor Control Regulations 1989 as at 3 Jul 2009 (includes amendments listed above)
+Liquor Control Amendment Regulations (No. 3) 2009 | 24 Jul 2009 p. 2949 | r. 1 and 2: 24 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2009 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 4) 2009 | 24 Jul 2009 p. 2952 | r. 1 and 2: 24 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2009 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Commenced 7 May 2007.
 Now known as the Liquor Control Regulations 1989; citation changed (see note under r. 1).
