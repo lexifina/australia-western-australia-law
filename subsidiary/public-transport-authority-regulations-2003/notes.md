@@ -10,6 +10,7 @@ Public Transport Authority Amendment Regulations (No. 3) 2007 | 26 Jun 2007 p. 3
 Public Transport Authority Amendment Regulations 2008 | 29 Feb 2008 p. 698-700 | r. 1 and 2: 29 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b))
 Reprint 1: The Public Transport Authority Regulations 2003 as at 4 Jul 2008 (includes amendments listed above)
 Public Transport Authority Amendment Regulations 2009 | 27 Mar 2009 p. 931-2 | r. 1 and 2: 27 Mar 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Mar 2009 (see r. 2(b) and Gazette 27 Mar 2009 p. 917)
+Public Transport Authority Amendment Regulations (No. 2) 2009 | 24 Jul 2009 p. 2953-6 | r. 1 and 2: 24 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2009 (see r. 2(b))
 Repealed by the Health (Smoking in Enclosed Public Places) Regulations 2003 which were repealed by the Tobacco Products Control Act 2006 s. 126.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -37,4 +38,3 @@ standing24
 ticket3
 ticket vending machine24
 working day33A
-By Authority: JOHN A. STRIJK, Government Printer
