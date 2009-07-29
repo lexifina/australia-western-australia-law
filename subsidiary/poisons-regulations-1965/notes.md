@@ -142,6 +142,7 @@ Poisons Amendment Regulations (No. 4) 2007 | 2 Oct 2007 p. 4964-8 | r. 1 and 2: 
 Poisons Amendment Regulations (No. 2) 2008 | 7 Nov 2008 p. 4805-19 | r. 1 and 2: 7 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Nov 2008 (see r. 2(b))
 Poisons Amendment Regulations (No. 2) 2009 | 21 Apr 2009 p. 1359-67 | r. 1 and 2: 21 Apr 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Apr 2009 (see r. 2(b))
 Poisons Amendment Regulations (No. 4) 2009 | 12 Jun 2009 p. 2109-14 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jun 2009 (see r. 2(b))
+Poisons Amendment Regulations (No. 5) 2009 | 28 Jul 2009 p. 2979-80 | r. 1 and 2: 28 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jul 2009 (see r. 2(b))
 Repealed by the Mental Health Act 1981 which was repealed by the Mental Health Act 1996.
 The Poisons Amendment Regulations (No. 3) 2001 r. 4(2) reads as follows:
 “
