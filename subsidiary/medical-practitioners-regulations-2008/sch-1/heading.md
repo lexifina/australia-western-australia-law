@@ -1,7 +1,8 @@
 ## Schedule 1 — Fees
 [r. 15]
  | Type of fee | Provision of Act | Fee $
-1. | Registration fee payable by a person if registration is effected under section 30 | s. 30(1)(b) | 385
+1. | Subject to item 2A, registration fee payable by a person if registration is effected under section 30 | s. 30(1)(b) | 385
+2A. | Registration fee payable by a person if — (a)registration is effected under section 30; and (b)the person is retired from regular practice and intends to practise only on an occasional basis | s. 30(1)(b) | 100
 2. | Registration fee payable by a person if registration is effected under section 31 | s. 31(1)(b) or (2)(b) | 385
 3. | Fee payable by a person who applies for registration under the Act section 30 or 31 for the conduct of criminal record screening | s. 30, 31 and 148(2)(h) | 30
 4. | Registration fee payable by a person for provisional registration | s. 32(1)(c) | 50
@@ -25,4 +26,4 @@
 13. | Fee payable by an applicant for a duplicate certificate of registration | s. 51(2) | 30
 14. | Fee payable by an applicant for amendment of particulars entered in the register | s. 53 | 30
 15. | Fee payable by a medical practitioner for a certificate of good standing | r. 11 and s. 148(2)(h) | 50
-[Schedule 1 correction in Gazette 5 Dec 2008 p. 5087.]
+[Schedule 1 correction in Gazette 5 Dec 2008 p. 5087; amended in Gazette 31 Jul 2009 p. 3025.]
