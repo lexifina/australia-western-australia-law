@@ -61,6 +61,7 @@ Occupational Safety and Health Amendment Regulations 2008 | 28 Nov 2008 p. 5030-
 Occupational Safety and Health Amendment Regulations (No. 2) 2009 | 15 May 2009 p. 1643-4 | r. 1 and 2: 15 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 16 May 2009 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations 2009 | 5 Jun 2009 p. 1878-81 | r. 1 and 2: 5 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jun 2009 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 6) 2009 | 23 Jun 2009 p. 2449-51 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Occupational Safety and Health Amendment Regulations (No. 4) 2009 | 31 Jul 2009 p. 3032-4 | r. 1 and 2: 31 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2009 (see r. 2(b))
 Repealed by the Health (Smoking in Enclosed Public Places) Regulations 2003 which were repealed by the Tobacco Products Control Act 2006.
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
 The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
@@ -75,7 +76,6 @@ amusement structure4.1
 anchorage3.48
 appointed medical practitioner5.1(1)
 approved1.3
-approved safety awareness training course3.135
 article5.1(1)
 AS1.3
 AS/NZS1.3
@@ -124,6 +124,8 @@ concrete placing unit4.1
 confined space3.82
 confirmed blood lead level5.53
 construction diving work3.29(1)
+construction induction training certificate3.135
+construction induction training course3.135
 construction site1.3
 construction work1.3
 consumer package5.1(1)
@@ -132,7 +134,6 @@ contaminant3.82
 conveyor4.1
 crane1.3, 4.1
 curing agent5.72
-current3.135
 damp5.53
 danger tag1.3
 danger zone3.64(1)
@@ -259,8 +260,8 @@ promoter5.72
 purchaser5.1(1)
 qualification or statement of attainment6.1(1)
 reciprocating steam engineSch. 6.3 cl. 10
+recognised construction induction training course3.135
 record5.1(1)
-registered training organisation6.1(1)
 registration6.18
 regulatory authority4.1
 removal level5.53
@@ -277,10 +278,7 @@ rigging workSch. 6.3 cl. 4
 risk phrase5.1(1)
 roof3.44A
 safe work method statement3.137
-safety awareness training certificate3.135
-safety awareness training course3.135
 safety phrase5.1(1)
-safety training induction certificate3.135
 sanitary facilities3.20(1)
 scaffold1.3, 3.66
 scaffolding equipment3.66
@@ -320,7 +318,6 @@ use4.1, 5(1), 6.3(1), Sch. 6.3 cl. 1
 vehicle hoist4.1
 vehicle loading crane4.54(1), Sch. 6.3 cl. 6
 vehicle-mounted concrete placing boomSch. 6.3 cl. 6
-vocational education and training6.1(1)
 wall3.44A, 3.88(1)
 warehouse operator5.1(1)
 welding1.3, 3.94
