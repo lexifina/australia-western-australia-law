@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Occupational Safety and Health Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 August 2009 of the Occupational Safety and Health Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Occupational Safety and Health Regulations 1996 | 27 Sep 1996 p. 4837-5080 | 1 Oct 1996 (see r. 1.2)
@@ -62,8 +62,11 @@ Occupational Safety and Health Amendment Regulations (No. 2) 2009 | 15 May 2009 
 Occupational Safety and Health Amendment Regulations 2009 | 5 Jun 2009 p. 1878-81 | r. 1 and 2: 5 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jun 2009 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 6) 2009 | 23 Jun 2009 p. 2449-51 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 4) 2009 | 31 Jul 2009 p. 3032-4 | r. 1 and 2: 31 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2009 (see r. 2(b))
-Repealed by the Health (Smoking in Enclosed Public Places) Regulations 2003 which were repealed by the Tobacco Products Control Act 2006.
+Reprint 7: The Occupational Safety and Health Regulations 1996 as at 3 Aug 2009 (includes amendments listed above)
+Repealed by the Medical Practitioners Act 2008.
+Repealed by the Training Legislation Amendment and Repeal Act 2008.
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
+Under the Courts Legislation Amendment and Repeal Act 2004 s. 10, a reference in a written law to a Local Court is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court.
 The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -76,6 +79,7 @@ amusement structure4.1
 anchorage3.48
 appointed medical practitioner5.1(1)
 approved1.3
+approved safety awareness training course3.135
 article5.1(1)
 AS1.3
 AS/NZS1.3
@@ -226,6 +230,7 @@ monitoring5.1(1)
 MSDS5.1(1)
 nail gun4.1
 national standard7.9(1)
+NOHSC1.11
 noise3.45
 non-slewing mobile craneSch. 6.3 cl. 6
 notice of satisfactory assessment6.1(1), 7.9(1)
@@ -254,7 +259,7 @@ presence sensing safeguarding system4.1
 pressure equipment4.1
 pressure piping4.1
 pressure vessel1.3, 4.1
-pressurized liquid blast cleaning3.102
+pressurised liquid blast cleaning3.102
 previously registered as an assessor6.22(1)
 promoter5.72
 purchaser5.1(1)
@@ -262,6 +267,7 @@ qualification or statement of attainment6.1(1)
 reciprocating steam engineSch. 6.3 cl. 10
 recognised construction induction training course3.135
 record5.1(1)
+registered training organisation1.3
 registration6.18
 regulatory authority4.1
 removal level5.53
