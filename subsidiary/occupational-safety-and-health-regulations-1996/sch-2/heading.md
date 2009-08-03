@@ -143,7 +143,7 @@ Form 6 — Reference to safety and health magistrate for review of decision
 [Regulation 2.16(2)]
 Occupational Safety and Health Act 1984
  | OFFICE USE ONLY IN THE LOCAL COURT OF WA SITTING AT . . . . . . . . . . . . . . . . . . . . . . . . . . . PLAINT No. . . . . . . . . . . . . . . . . . . . . . . . . . . .
-TO | THE SAFETY AND HEALTH MAGISTRATE SITTING AT THE LOCAL COURT AT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+TO | THE SAFETY AND HEALTH MAGISTRATE SITTING AT THE LOCAL COURT AT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 APPLICANT | TAKE NOTICE THAT I . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Full name) OF . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Phone no.)
 TYPE OF APPLICATION |  | HEREBY REFER FOR REVIEW
 oA decision of the WorkSafe Western Australia Commissioner made on . . . . . . . . . . /. . . . . . . . . . /. . . . . . . . . . oOther matter (Provide details) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
