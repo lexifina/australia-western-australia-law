@@ -43,6 +43,7 @@ Building Amendment Regulations (No. 3) 2008 | 6 Jun 2008 p. 2179-88 | r. 1 and 2
 Building Amendment Regulations (No. 4) 2008 | 22 Jul 2008 p. 3353-4 | r. 1 and 2: 22 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jul 2008 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2009 | 19 May 2009 p. 1663 | r. 1 and 2: 19 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 20 May 2009 (see r. 2(b))
 Reprint 6: The Building Regulations 1989 as at 22 May 2009 (includes amendments listed above)
+Building Amendment Regulations (No. 3) 2009 | 4 Aug 2009 p. 3101 | r. 1 and 2: 4 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Aug 2009 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement

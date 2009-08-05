@@ -86,6 +86,7 @@ Nungarin | All townsites | All townsites | Whole district
 Peppermint Grove | Whole district | Whole district | Whole district
 Perenjori | All townsites and areas subject to town planning schemes | All townsites | Whole district
 Perth | Whole district | Whole district | Whole district
+Pingelly | Whole district | Whole district | Whole district
 Plantagenet | Whole district | Whole district | Whole district
 Port Hedland | All townsites | All townsites | Whole district
 Quairading | All townsites | Whole district | Whole district
@@ -124,4 +125,4 @@ Note 1 — Broomehill
 (b)Lot 17 to 24 being portion of Kojonup Location 256.
 (c)Kojonup Location 1671.
 (d)Reserves 8163, 10285, 10431 and 17230.
-[Schedule 2 inserted in Gazette 5 Apr 2002 p. 1827-32; amended in Gazette 4 Apr 2003 p. 1026-7; 13 Aug 2004 p. 3251; 18 May 2007 p. 2257; 4 March 2008 p. 739; 22 Jul 2008 p. 3354; 19 May 2009 p. 1663.]
+[Schedule 2 inserted in Gazette 5 Apr 2002 p. 1827-32; amended in Gazette 4 Apr 2003 p. 1026-7; 13 Aug 2004 p. 3251; 18 May 2007 p. 2257; 4 March 2008 p. 739; 22 Jul 2008 p. 3354; 19 May 2009 p. 1663; 4 Aug 2009 p. 3101.]
