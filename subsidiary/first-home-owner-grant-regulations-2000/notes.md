@@ -12,3 +12,4 @@ Reprint 1: The First Home Owner Grant Regulations 2000 as at 4 Feb 2005 (include
 First Home Owner Grant Amendment Regulations 2007 | 20 Mar 2007 p. 1048 | 20 Mar 2007
 First Home Owner Grant Amendment Regulations 2008 | 14 Mar 2008 p. 836-7 | r. 1 and 2: 14 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Mar 2008 (see r. 2(b))
 First Home Owner Grant Amendment Regulations (No. 3) 2008 | 23 Dec 2008 p. 5480-1 | r. 1 and 2: 23 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Dec 2008 (see r. 2(b))
+First Home Owner Grant Amendment Regulations 2009 | 4 Aug 2009 p. 3104-5 | r. 1 and 2: 4 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Aug 2009 (see r. 2(b))
