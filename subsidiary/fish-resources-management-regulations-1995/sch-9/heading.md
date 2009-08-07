@@ -3,92 +3,94 @@
 ## Determining the value of fish
 Species of fish | Value per unit of weight ($/kgm) | Value per fish ($)
 Category 1 Fish
-Abalone, Brownlip ............................................... | 75 | 20
-Abalone, Greenlip ................................................ | 90 | 20
-Abalone, Roe’s ..................................................... | 80 | 3
-Barramundi ........................................................... | 6 | 25
-Billfish (Marlins, Sailfish and Spearfish) Swordfish ......................................................... | 5 | 25
-Cod, Potato ........................................................... | 4 | 25
-Cod, Estuary ......................................................... | 4 | 25
-Coral Trout ........................................................... | 9 | 20
-Dhufish, West Australian ..................................... | 10 | 40
-Groper, Blue ......................................................... | 3 | 25
-Groper, Queensland ............................................. | 4 | 25
-Leafy Seadragon ................................................... | 200 | 50
-Marron .................................................................. | 30 | 4
-Rays ...................................................................... | 8 | 120
-Rock Lobster ........................................................ | 30 | 15
-Sharks ................................................................... | 8 | 120
+Abalone, Brownlip | 75 | 20
+Abalone, Greenlip | 90 | 20
+Abalone, Roe’s | 80 | 3
+Barramundi | 6 | 25
+Billfish (Marlins, Sailfish and Spearfish) Swordfish | 5 | 25
+Cod, Potato | 4 | 25
+Cod, Estuary | 4 | 25
+Coral Trout | 9 | 20
+Dhufish, West Australian | 10 | 40
+Groper, Blue | 3 | 25
+Groper, Queensland | 4 | 25
+Leafy Seadragon | 200 | 50
+Marron | 30 | 4
+Rays | 8 | 120
+Rock Lobster | 30 | 15
+Sharks | 8 | 120
 Category 2 Fish
-Bream, Black ........................................................ | 5 | 2
-Bream, Fingermark ............................................... | 4 | 2
-Cobbler (Estuary Catfish) ..................................... | 5 | 2
-Cobia .................................................................... | 2 | 20
-Cod, other than Potato, Estuary and Queensland Groper .............................................................. | 4 | 10
-Crab, Blue Manna ................................................ | 6 | 2
-Crab, Brown Mud and Green Mud ...................... | 20 | 10
-Crab, Champagne ................................................. | 8 | 4
-Crab, Crystal ........................................................ | 15 | 9
-Crab, Giant ........................................................... | 30 | 20
-Emperor, Red ....................................................... | 9 | 25
-Kingfish, Yellowtail ............................................. | 2 | 10
-Mackerel .............................................................. | 6 | 25
-Mackerel, Shark ................................................... | 6 | 25
-Mackerel, Wahoo ................................................. | 6 | 25
-Mangrove Jack ..................................................... | 4 | 10
-Mulloway and Northern Mulloway ...................... | 4 | 10
-Octopus ................................................................. | 4 | 2
-Prawn, Western King. .......................................... | 15 | 1
-Prawn, Western School. ....................................... | 5 | 0.4
-Queenfish ............................................................. | 3 | 10
-Salmon, Australian. .............................................. | 2 | 5
-Samson Fish ......................................................... | 2 | 10
-Snapper, Northwest .............................................. | 4 | 10
-Snapper, Pink ....................................................... | 5 | 15
-Snapper, Queen .................................................... | 2 | 5
-Snapper, Red ........................................................ | 3 | 2
-Squid ..................................................................... | 8 | 2
-Tailor .................................................................... | 3 | 2
-Tuna, Southern Bluefin ........................................ | 5 | 10
-Tuskfish and Baldchin Groper ............................. | 5 | 15
-Whiting, King George (Spotted) .......................... | 5 | 2
+Bream, Black | 5 | 2
+Bream, Fingermark | 4 | 2
+Cobbler (Estuary Catfish) | 5 | 2
+Cobia | 2 | 20
+Cod, other than Potato, Estuary and Queensland Groper | 4 | 10
+Crab, Blue Manna | 6 | 2
+Crab, Brown Mud and Green Mud | 20 | 10
+Crab, Champagne | 8 | 4
+Crab, Crystal | 15 | 9
+Crab, Giant | 30 | 20
+Cuttlefish | 2 | 1
+Dolphinfish (Mahi Mahi) | 5 | 10
+Emperor, Red | 9 | 25
+Kingfish, Yellowtail | 2 | 10
+Mackerel | 6 | 25
+Mackerel, Shark | 6 | 25
+Mackerel, Wahoo | 6 | 25
+Mangrove Jack | 4 | 10
+Mulloway and Northern Mulloway | 4 | 10
+Octopus | 4 | 2
+Prawn, Western King | 15 | 1
+Prawn, Western School | 5 | 0.4
+Queenfish | 3 | 10
+Salmon, Australian. | 2 | 5
+Samson Fish | 2 | 10
+Snapper, Northwest | 4 | 10
+Snapper, Pink | 5 | 15
+Snapper, Queen | 2 | 5
+Snapper, Red | 3 | 2
+Squid | 8 | 2
+Tailor | 3 | 2
+Tuna, Southern Bluefin | 5 | 10
+Tuskfish and Baldchin Groper | 5 | 15
+Whiting, King George (Spotted) | 5 | 2
 Category 3 Fish
-Ark Shell .............................................................. | 7 | 0.1
-Bream, Northwest Black and Yellowfin .............. | 5 | 2
-Cherabin ............................................................... | 5 | 0.2
-Clam, Venus ......................................................... | 7 | 0.1
-Cockle ................................................................... | 7 | 0.1
-Flathead ................................................................ | 3 | 2
-Flounder ............................................................... | 5 | 2
-Freshwater Fish (all species) ................................ | 5 | 1
-Leatherjacket ........................................................ | 2 | 1
-Mussel .................................................................. | 3 | 0.1
-Oyster ................................................................... | 10 | 0.33
-Pike ....................................................................... | 5 | 2
-Snook .................................................................... | 2 | 1
-Tarwhine ............................................................... | 4 | 2
-Threadfin ............................................................. | 4 | 5
-Trevally, Silver ..................................................... | 4 | 1
+Ark Shell | 7 | 0.1
+Bream, Northwest Black and Yellowfin | 5 | 2
+Cherabin | 5 | 0.2
+Clam, Venus | 7 | 0.1
+Cockle | 7 | 0.1
+Flathead | 3 | 2
+Flounder | 5 | 2
+Freshwater Fish (all species) | 5 | 1
+Leatherjacket | 2 | 1
+Mussel | 3 | 0.1
+Oyster | 10 | 0.33
+Pike | 5 | 2
+Snook | 2 | 1
+Tarwhine | 4 | 2
+Threadfin | 4 | 5
+Trevally, Silver | 4 | 1
 Category 4 Fish
-All molluscs not otherwise listed in this Schedule............................................................ | 15 | 5
-Garfish .................................................................. | 4 | 1
-Herring, Australian ............................................... | 2 | 1
-Mackerel, Blue ..................................................... | 1 | 1
-Mullet, Sea ........................................................... | 2 | 1
-Mullet, Yellow-eye .............................................. | 1 | 1
-Prawn, Banana and Brown Tiger ......................... | 15 | 1
-Scad, Yellowtail ................................................... | 1 | 1
-Sea Cucumber (Trepang) ..................................... | 5 | 1
-Sea Urchin ............................................................ | 4 | 1
-Sole ....................................................................... | 5 | 2
-Sweep, Banded or Sea .......................................... | 2 | 1
-Threadfin, Giant ................................................... | 4 | 5
-Trochus ................................................................. | 5 | 1
-Volute ................................................................... |  | 20
-Whiting, Golden-lined ......................................... | 4 | 1
-Whiting, Southern School .................................... | 4 | 1
-Whiting, Western Sand ........................................ | 4 | 1
-Zoila Cowry .......................................................... |  | 50
+All molluscs not otherwise listed in this Schedule | 15 | 5
+Garfish | 4 | 1
+Herring, Australian | 2 | 1
+Mackerel, Blue | 1 | 1
+Mullet, Sea | 2 | 1
+Mullet, Yellow-eye | 1 | 1
+Prawn, Banana and Brown Tiger | 15 | 1
+Scad, Yellowtail | 1 | 1
+Sea Cucumber (Trepang) | 5 | 1
+Sea Urchin | 4 | 1
+Sole | 5 | 2
+Sweep, Banded or Sea | 2 | 1
+Threadfin, Giant | 4 | 5
+Trochus | 5 | 1
+Volute |  | 20
+Whiting, Golden-lined | 4 | 1
+Whiting, Southern School | 4 | 1
+Whiting, Western Sand | 4 | 1
+Zoila Cowry |  | 50
 Other fish
-All fish not otherwise listed in this Schedule ....... | 1 | 1
+All fish not otherwise listed in this Schedule | 1 | 1
 [Schedule 9 amended in Gazette 30 Aug 1996 p. 4321; 1 Oct 2003 p. 4344 and 4345; 30 Sep 2004 p. 4188; 10 Nov 2006 p. 4710; 4 Sep 2007 p. 4520; 13 Nov 2007 p. 5694.]
