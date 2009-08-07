@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Water Agencies (Charges) By-laws 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 August 2009 of the Water Agencies (Charges) By-laws 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Water Authority (Charges) By-laws 1987 | 14 Jul 1987 p. 2658-72 (errata 24 Jul 1987 p. 2841) | 14 Jul 1987
@@ -100,8 +100,9 @@ Water Agencies (Charges) Amendment By-laws 2007 | 13 Apr 2007 p. 1686-8 | 13 Apr
 Water Agencies (Charges) Amendment By-laws (No. 2) 2007 | 29 Jun 2007 p. 3245-88 | bl. 1 and 2: 29 Jun 2007 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2007 (see bl. 2(b))
 Reprint 5: The Water Agencies (Charges) By-laws 1987 as at 5 Oct 2007 (includes amendments listed above)
 Water Agencies (Charges) Amendment By-laws (No. 4) 2007 | 21 Dec 2007 p. 6349 | bl. 1 and 2: 21 Dec 2007 (see bl. 2(a)); By-laws other than bl. 1 and 2: 22 Dec 2007 (see bl. 2(b))
-Water Agencies (Charges) Amendment By-laws 2008 | 27 Jun 2008 p. 2981-3048 | bl. 1 and 2: 17 Jun 2008 (see l. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2008 (see bl. 2(b))
+Water Agencies (Charges) Amendment By-laws 2008 | 27 Jun 2008 p. 2981-3048 | bl. 1 and 2: 27 Jun 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2008 (see bl. 2(b))
 Water Agencies (Charges) Amendment By-laws 2009 | 19 Jun 2009 p. 2319-92 | bl. 1 and 2: 19 Jun 2009 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2009 (see bl. 2(b))
+Reprint 6: The Water Agencies (Charges) By-laws 1987 as at 7 Aug 2009 (includes amendments listed above)
 Now established by the Port Authorities Act 1999 s. 4.
 Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act.
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
@@ -111,6 +112,7 @@ Repealed by the WADC and WA Exim Corporation Repeal Act 1998.
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
 Under the Public Transport Authority Act 2003 s. 85 a reference in a written law to the former Western Australian Government Railways Commission is, unless in the context it would be inappropriate to do so, to be construed as a reference to the Public Transport Authority.
 Formerly referred to the Western Australian Greyhound Racing Authority Act 1981 the short title of which was changed to the Western Australian Greyhound Racing Association Act 1981 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 197. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Repealed by the Racing and Gambling Legislation Amendment and Repeal Act 2003.
 Now known as the Water Agencies (Charges) By-laws 1987; citation changed (see note under bl. 1).
 The Water Authority (Charges) Amendment By-laws (No. 3) 1989 bl. 3 is an application provision that is of no further effect.
 The Water Authority (Charges) Amendment By-laws 1990 bl. 3 is an application provision that is of no further effect.
@@ -119,9 +121,60 @@ The Water Authority (Charges) Amendment By-laws 1992 bl. 4 is an application pro
 The Water Authority (Charges) Amendment By-laws (No. 4) 1992 bl. 4 is an application provision that is of no further effect.
 The Water Agencies (Charges) Amendment By-laws (No. 5) 1997 bl. 10 is a savings provision that is of no further effect.
 The Water Agencies (Charges) Amendment By-laws (No. 2) 1999 bl. 32(2) is a transitional provision that is of no further effect.
-The Water Agencies (Charges) Amendment By-laws (No. 5) 2001 bl. 2 and 6 are transitional and application provisions that are of no further effect.
+The Water Agencies (Charges) Amendment By-Laws (No. 5) 2001 bl. 2 and 6 are transitional and application provisions that are of no further effect.
 The Water Agencies (Charges) Amendment By-laws 2002 bl. 3 reads as follows:
-“
 3.Saving
 Where a hydrant standpipe in the metropolitan area was issued by the Corporation before the commencement of these by-laws, the charge under Schedule 1 item 31 to the Water Agencies (Charges) By-laws 1987 in respect of the standpipe is to be assessed as if these by-laws had not come into operation.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+>2(3)
+≤2(3)
+AGRV14(2), 24(2)
+caravan bay2(1)
+charge7(1)
+charitable purposes4(3)
+consumption year2(1)
+country non-residential or commercial residential property21A
+country sewerage area2(1)
+current year2(1)
+customer33(1)
+development28(3)
+discharge charge2(1)
+discharge factor2(1)
+discharge period2(1)
+discharge volume2(1)
+eligible pensioner18(1), 18A(1), 18B(1)
+formula21A
+Government trading organisation2(1)
+GRV2(1)
+holiday accommodation2(1)
+home for the aged2(1)
+irrigation district2(1)
+land19A(1)
+long term residential caravan bay2(1)
+lot28(3)
+major fixture2(1)
+metropolitan area2(1)
+metropolitan non-residential property21A
+non-commercial Government property2(1)
+option A33(2)(a)
+option B33(2)(b)
+PSch. 3 cl. 18 and 36
+previous year2(1)
+QSch. 3 cl. 19 and 37
+quantity charge2(1)
+RSch. 3 cl. 35
+registered18B(1)
+relevant general valuationSch. 6 cl. 1
+residence2(1)
+residential property2(1)
+retirement village8A(3)
+rural land28(3)
+single capital infrastructure charge2(1)
+site2(1)
+Table21A
+UV2(1)
+water supply2(1)
+water supply connection12(1)
+year2(1)
