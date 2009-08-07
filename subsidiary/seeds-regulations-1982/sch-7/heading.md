@@ -4,7 +4,7 @@
 The fees for the analysis of a seed sample provided under section 25 of the Act and for a report of the result of the analysis are as set out in the Table.
 Table
 Item | Description | Fee ($)
-1. | Pure seed content ana`lysis [Note:The pure seed content analysis group is displayed in column 6 of the First Schedule.]
+1. | Pure seed content analysis [Note:The pure seed content analysis group is displayed in column 6 of the First Schedule.]
  | (a)group 1 | 62
  | (b)group 2 | 79
  | (c)group 3 | 98

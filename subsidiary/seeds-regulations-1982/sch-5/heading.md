@@ -30,7 +30,7 @@ Stated | % | Stated | % | Stated | %
 Where the stated % in question does not appear in the table above, the tolerance applicable is to be derived by straight line extrapolation from the tolerances prescribed for the nearest stated percentages above and below the stated % in question that appear in the table.
 ## Part 2 — Minimum proportion of crop seed that is germinable
 Stated Min. % | Min. % Tolerable | Stated Min. % | Min. % Tolerable | Stated Min. % | Min. % Tolerable | Stated Min. % | Min. % Tolerable
-1 | … | 26 | 17 | 37 | 40 | 76 | 68
+1 | ... | 26 | 17 | 37 | 40 | 76 | 68
 2 | ... | 27 | 18 | 52 | 41 | 77 | 69
 3 | ... | 28 | 19 | 53 | 42 | 78 | 70
 4 | 1 | 29 | 20 | 54 | 43 | 79 | 71

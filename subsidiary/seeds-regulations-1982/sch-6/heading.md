@@ -3,7 +3,7 @@
 ## Sampling and analysis
 ## Part 1 — Sampling
 A sample is not taken in accordance with this Part unless —
-(a) except where the sample is taken at the request of a person who provides the material sampled, the person appearing to be in charge of the material to be sampled (in this Part referred to as “the person in charge”) is first invited to be present, and, where he so wishes, is permitted to be present, while the sample is being taken;
+(a) except where the sample is taken at the request of a person who provides the material sampled, the person appearing to be in charge of the material to be sampled (in this Part referred to as the person in charge) is first invited to be present, and, where he so wishes, is permitted to be present, while the sample is being taken;
 (b) sampling procedures are in accordance with the rules contained in chapter 2, the annexe to chapter 2 and Appendix D of the 1993 International Rules for Seed Testing published by the International Seed Testing Association in “Seed Science and Technology”, Volume 21, Supplement;
 (c) the sample taken is thoroughly mixed, divided into 3 approximately equal portions each of which is of a quantity not less than the sample size specified in the rules referred to in paragraph (b), and each portion is placed in a separate package that is then fastened and sealed;
 (d) the package containing each portion is then identified by writing on it or on a label attached to it —
