@@ -1,6 +1,6 @@
 ## Ninth Schedule
 [s. 266]
-Provisions which do not apply in the case of a Winding-up subject to supervision of the Court
+## Provisions which do not apply in the case of a Winding-up subject to supervision of the Court
 Meetings of creditors and contributories (s. 197).
 Statement of Company’s affairs to be submitted to Official Liquidator (s. 198).
 Report by Official Liquidator (s. 199).

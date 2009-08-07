@@ -1,6 +1,6 @@
 ## Fourth Schedule
 [s. 37 and 409]
-Form of Statement in lieu of Prospectus to be delivered to Registrar by a Proprietary Company on becoming a Public Company
+## Form of Statement in lieu of Prospectus to be delivered to Registrar by a Proprietary Company on becoming a Public Company
 The Companies (Co-operative) Act 1943
 Statement in lieu of prospectus delivered for registration by (insert the name of the company).
 Pursuant to section 37 of the Companies (Co-operative) Act 1943. Delivered for registration by
@@ -34,4 +34,4 @@ Rates of the dividends (if any) paid by the company in respect of each class of 
 Particulars of the cases in which no dividends have been paid in respect of any class of shares in any of these years
 If any of the unissued shares or debentures are to be applied in the purchase of any business the amount, as certified by the persons by whom the accounts of the business have been audited, of the net profits of the business in respect of each of the 3 financial years immediately preceding the date of this statement, provided that in the case of a business which has been carried on for less than 3 years and the accounts of which have only been made up in respect of 2 years or one year, the above requirement shall have effect as if references to 2 years or one year, as the case may be, were substituted for references to 3 years, and in any such case the statement shall say how long the business to be acquired has been carried on
 (Signatures of the persons abovenamed as directors or proposed directors or of their agents authorised in writing.) Date ................................. | ................................. ................................. .................................
-Note.— In this Form the expression “vendor” includes a vendor as defined in Part C of section 50, and the expression “financial year” has the meaning assigned to it in that part of the said section.
+Note.— In this Form the expression vendor includes a vendor as defined in Part C of section 50, and the expression financial year has the meaning assigned to it in that part of the said section.
