@@ -5,7 +5,7 @@
 Column 1 | Column 2
 Name of fish | Method of determining length
 1.Cobbler (Estuary Catfish) and Freshwater Cobbler | By measuring in a direct line — (a)for partial length, from the base of the anterior edge of the caudo dorsal fin to the tip of the tail; and (b)for total length, from the point of the snout, excluding the barbels, to the tip of the tail.
-2.Crab, Champagne Crab, Giant | By measuring from the inside of the frontal groove midway between the eyes on the anterior margin of the carapace along the mid ventral line of the carapace to the posterior margin where it joins the abdomen.
+2.Crab, Champagne Crab, Giant | By measuring from the inside of the frontal groove midway between the eyes on the anterior margin of the carapace along the mid-ventral line of the carapace to the posterior margin where it joins the abdomen.
 2a.Crab, Crystal | By measuring across the carapace at the widest point.
 2b.Crab, any other | By measuring from tip to tip of the posterior carapace spikes.
 3.Garfish | By measuring from the tip of the upper jaw to the tip of the upper half of the tail.

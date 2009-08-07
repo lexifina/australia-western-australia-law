@@ -10,8 +10,7 @@ This is a warrant authorising a fisheries officer to enter and search:
 Place: Time: (specify hours or at any time)
 This warrant ceases to have effect:
 Date: Time:
-I ........................................................... Justice of the Peace of .........................................................
-am satisfied by application supported by evidence on oath —
+I ........................................................ Justice of the Peace of ......................................................... am satisfied by application supported by evidence on oath —
 (a)that there are reasonable grounds for suspecting that there is on or in the place referred to in this warrant anything that may afford evidence of the commission of an offence against the Fish Resources Management Act 1994; or
 (b)that the issue of this warrant is reasonably required for the purpose of ascertaining whether a person has contravened or is contravening the Fish Resources Management Act 1994;
 and I authorise .................................................................................. , a fisheries officer, to enter and search the place referred to in this warrant with such assistance, and by such force, as is reasonably necessary during the time referred to in this warrant.
@@ -92,6 +91,7 @@ Where you must go: When: | TimeDateMonthYear and then from day to day until the 
 Information about this notice:
 Issued at: by: Signature: Telephone contact: | Date: (appointed person)
 If you do not attend or produce the documents:
+______________________________________________________________________________
 It is an offence not to comply with this summons unless you have a reasonable excuse.
 The maximum penalty to which you may be liable is $5 000.
 Form 6
@@ -110,10 +110,12 @@ Period of prohibition: Circumstances and times:
 Information about this notice:
 Issued at: by: Signature: Telephone contact: | The Minister for Fisheries
 If you contravene this notice:
+______________________________________________________________________________
 It is an offence to contravene this notice.
 The maximum penalty to which you may be liable is:
 For an individual: $25 000.
 For a body corporate: $50 000.
+______________________________________________________________________________
 Form 7
 [reg. 174]
 Fish Resources Management Act 1994
@@ -132,10 +134,12 @@ ______________________________________________________________________________
 Information about this notice:
 Issued at: by: Signature: Telephone contact: | The Minister for Fisheries
 If you contravene this notice:
+______________________________________________________________________________
 It is an offence to contravene this notice.
 The maximum penalty to which you may be liable is:
 For an individual: $25 000.
 For a body corporate: $50 000.
+______________________________________________________________________________
 * Delete where not applicable.
 ** Score through this section if not applicable.
 [Form 8 deleted in Gazette 30 Dec 2004 p. 6965.]

@@ -58,7 +58,7 @@ For variation | 453.00
 16.Temporary transfer of part entitlements under section 141 of the Act | 145.00
 17.Register — notation under section 127 of the Act | 145.00
 Register — variation under section 131 of the Act | 145.00
-Register — removal of record under section 131 of the Act | 1 45.00
+Register — removal of record under section 131 of the Act | 145.00
 18.Authority to take or handle fish for genetic or chemical extraction or analysis (reg. 179) | 733.00
 19.Aquatic eco-tourism operator’s licence (reg. 128B) or restricted fishing tour operator’s licence (reg. 128J) | 65.00
 For renewal | 70.00
