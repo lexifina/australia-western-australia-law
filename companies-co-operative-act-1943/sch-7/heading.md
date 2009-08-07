@@ -1,6 +1,6 @@
 ## Seventh Schedule
 [s. 113.]
-Form of Annual Return of Company not having a Share Capital
+## Form of Annual Return of Company not having a Share Capital
 Annual return of the Company, Limited, made up to the day of 20 .
 The address of the registered office of the company is as follows: —
 The total amount of the indebtedness of the company in respect of all mortgages and charges which, or a list of which, are required to be registered with the Registrar of Companies under the Companies (Co-operative) Act 1943
@@ -16,7 +16,7 @@ Note. — This return must include a written copy, certified by a director or by
 The return must be signed at the end by a director or by the manager or secretary of the company.
 Delivered for filing by —
 List of persons who, on 31 March 20 , were members of the company and of persons who since the date of the last return (or in case of first return since date of incorporation) have ceased to be members.
- | Names, Addresses, and Occupations. |  | Date when ceased to be Member and how.
-Folio in Register of Members. | Surname. | Christian Name. | Address. | Occupation. | Date when became Member. | Remarks.
+Folio in Register of Members. | Names, Addresses, and Occupations. | Date when became Member. | Date when ceased to be Member and how. | Remarks.
+Surname. | Christian Name. | Address. | Occupation
 (Signature) .....................................
 (State whether Director or Manager or Secretary)
