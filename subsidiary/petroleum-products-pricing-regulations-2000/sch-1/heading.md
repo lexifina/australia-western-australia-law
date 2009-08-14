@@ -1,5 +1,6 @@
 ## Schedule 1 — Places where regulations 3(1) and 6 apply
 [r. 4(1)(b), 5]
+[Heading inserted in Gazette 13 May 2003 p. 1665.]
 Local government districts
 Albany | Geraldton
 Augusta-Margaret River | Greenough

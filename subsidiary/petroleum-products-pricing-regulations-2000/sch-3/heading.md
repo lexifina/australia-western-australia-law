@@ -27,6 +27,7 @@ Signature ........................................................
 (4) Place at which offence allegedly committed
 (5) Section or regulation designation
 (6) Description of authorised persons
+[Form 1 inserted in Gazette 9 Nov 2001 p. 5927-8.]
 Form 2
 Petroleum Products Pricing Act 1983
 Withdrawal of infringement notice
@@ -47,4 +48,4 @@ Name and title of authorised person giving this notice .........................
 Signature .....................................
 (1) Name of alleged offender given the infringement notice
 (2) Address of alleged offender
-[Schedule 3 inserted in Gazette 9 Nov 2001 p. 5927-9.]
+[Form 2 inserted in Gazette 9 Nov 2001 p. 5928-9.]
