@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Workers’ Compensation and Injury Management Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 August 2009 of the Workers’ Compensation and Injury Management Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Workers’ Compensation and Assistance Regulations 1982 | 8 Apr 1982 p. 1229-50 (corrigendum 23 Apr 1982 p. 1384) | 3 May 1982 (see r. 2 and Gazette 8 Apr 1982 p. 1205)
@@ -61,6 +61,49 @@ Workers’ Compensation and Injury Management Amendment Regulations 2006 | 4 Aug
 Workers’ Compensation and Injury Management Amendment Regulations (No. 2) 2006 | 15 Dec 2006 p. 5636-7 | 15 Dec 2006
 Workers’ Compensation and Injury Management Amendment Regulations 2007 | 2 Nov 2007 p. 5933-4 | r. 1 and 2: 2 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Nov 2007 (see r. 2(b))
 Workers’ Compensation and Injury Management Amendment Regulations 2008 | 17 Dec 2008 p. 5331-4 | r. 1 and 2: 17 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2008 (see r. 2(b))
+Reprint 6: The Workers’ Compensation and Injury Management Regulations 1982 as at 14 Aug 2009 (includes amendments listed above)
 Formerly referred to the Workers’ Compensation and Assistance Act 1981 the short title of which was changed to the Workers’ Compensation and Rehabilitation Act 1981 by the Workers’ Compensation and Assistance Amendment Act 1990 s. 5 and then to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Workers’ Compensation and Injury Management Regulations 1982; citation changed (see note under r. 1).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+action level19I(2)
+actual total cost13(3)
+agent service18B
+applicant18B, 26
+application18B
+approved19A
+approved medical practitioner19A
+approved person19A
+audiologist19A
+audiometric officer19A
+Australian Standard19A
+clause19A
+code of conduct26
+commencement day43(4)
+counselling psychologist44A(1)
+criminal record check28(6)
+dispute resolution body43(4)
+employer26
+estimated total cost13(3)
+exercise physiologist44B(1)
+extension period19N(1)
+fit and proper person26
+independent agent26
+Insurer/Self-Insurer Electronic Data Specification (Edition Q1)13(3)
+L peak19I(2)
+legal service18B
+March CPI17AA(2), 17AE(2), 17A(2)
+MBS item17AB(3)
+pending proceeding43(4)
+prescribed details18L
+registered Australian body3(2)
+registration26
+relevant provisions of the Act18L
+representative LAeq,8h19I(2)
+representatives11(2)
+taxing officer18B
+termination day19N(1)
+the relevant year2A(1)
+treating specialist17AB(3)
