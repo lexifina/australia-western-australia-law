@@ -211,25 +211,32 @@ Local Government (Elections) Regulations 1997
 [r. 30D]
 Form 9A
 DISCLOSURE OF GIFTS
-Details of Candidate
-Surname . . . . . . . . . . . . . . . . . . . . . . . . Other names . . . . . . . . . . . . . . . . . . . . . .
-Complete and sign the declaration at the end of the Form
-Details of Gift (value of which is $200 or more, or which is one of 2 or more gifts with a total value of $200 or more)
-Name and Address of Donor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Date gift promised or received . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Value of gift . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Description of gift. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Note:
-THE DONOR IS THE ORIGINAL SOURCE OF THE GIFT. THE DONOR MAY OR MAY NOT ACTUALLY BE THE PERSON WHO DELIVERS THE GIFT.
-IF YOU ARE UNABLE TO PROVIDE THE INFORMATION REQUIRED BY THIS FORM, SET OUT THE REASONS FOR NOT PROVIDING IT IN THE SPACE BELOW.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-It is declared that all information and details provided are true and correct, and no known, relevant information is omitted.
-Signature . . . . . . . . . . . . . . . . . . . . .Date. . . . . . . . . . . . . . . . . . . . . . . .
-[Form 9A amended in Gazette 3 Aug 2007 p. 3997.]
+Details of person making disclosure
+Candidate ⁯ Donor ⁯ [Tick one box]
+Surname . . . . . . . . . . . . . . . . . . . . . . . Other names . . . . . . . . . . . . . . . . . . . . .
+Details of candidate
+Surname . . . . . . . . . . . . . . . . . . . . . . . Other names . . . . . . . . . . . . . . . . . . . . .
+Details of person making the gift
+Name . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Address . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Details of person on whose behalf the gift is made (if other than the person making the gift)
+Name . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Address . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Details of the gift (value of which is $200 or more, or which is one of 2 or more gifts with a total value of $200 or more)
+Date gift promised, received or made . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Value of gift . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Description of gift . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Candidates only — IF YOU ARE UNABLE TO PROVIDE THE INFORMATION REQUIRED BY THIS FORM, SET OUT THE REASONS FOR NOT PROVIDING IT IN THE SPACE BELOW.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Person making disclosure to complete and sign the declaration below
+I ……………………………………… declare that all information and details provided are true and correct, and no known, relevant information is omitted.
+Signature . . . . . . . . . . . . . . . . . . . . . . .Date . . . . . . . . . . . . . . . . . . . . . . . . .
+[Form 9 inserted in Gazette 14 Aug 2009 p. 3219-20.]
 Form 10.Ballot Paper
 BALLOT PAPER
 Election of ______________________________

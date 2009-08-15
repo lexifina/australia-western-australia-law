@@ -12,6 +12,7 @@ Local Government (Elections) Amendment Regulations 2005 | 21 Jan 2005 p. 263-8 |
 Local Government (Elections) Amendment Regulations (No. 2) 2005 | 18 Mar 2005 p. 975-9 | 18 Mar 2005
 Local Government (Elections) Amendment Regulations 2007 | 3 Aug 2007 p. 3989-4006 | r. 1 and 2: 3 Aug 2007 (see r. 2(a)); r. 3, 15-17, 18(1) and (2) and 19: 4 Aug 2007 (see r. 2(b)); r. 4-14 and 18(3)-(12): 6 Sep 2007 (see r. 2(c) and Gazette 3 Aug 2007 p. 3989)
 Reprint 2: The Local Government (Elections) Regulations 1997 as at 27 Mar 2009 (includes amendments listed above)
+Local Government (Elections) Amendment Regulations 2009 | 14 Aug 2009 p. 3215-20 | r. 1 and 2: 14 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2009 (see r. 2(b))
 The Local Government (Elections) Amendment Regulations 1998 r. 3 reads as follows:
 “
 3.Application
@@ -20,7 +21,10 @@ These amendments to the principal regulations apply to elections that are to tak
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
+address30A
+donor30A
 clause77A(1), 80A(1)
+commencement day30C(3)
 contact number3
 councillor election3
 declaration envelope54(3)
