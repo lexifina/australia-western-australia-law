@@ -44,9 +44,10 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 87 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
- | Short title | Number and year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2004 s. 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Petroleum Amendment Act 2007 s. 99 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
+Local Government Amendment (Elections) Act 2009 s. 3-6 | 15 of 2009 | 17 Aug 2009 | To be proclaimed (see s. 2(b))
 Footnote no longer applicable.
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -318,3 +319,27 @@ permit, drilling reservation, lease or licence held under the Petroleum and Geot
 (5) Section 6.29(2) is amended by deleting “licence or permit” and inserting instead —
 “ permit, drilling reservation, lease or licence ”.
 ”.
+On the date as at which this compilation was prepared, the Local Government Amendment (Elections) Act 2009 s. 3-6 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Local Government Act 1995.
+4.Section 4.69 amended
+(1) In section 4.69(1) delete “election and only 2 candidates are named on the ballot paper,” and insert:
+election,
+(2) Delete section 4.69(2) and (3) and insert:
+(2) If 2 or more offices are to be filled at the election, an elector is to cast his or her vote by marking the ballot paper in accordance with regulations so as to indicate the candidate or candidates named on the ballot paper whom the elector wishes to be elected but is not to mark votes for more candidates than the number of offices to be filled.
+5.Schedule 4.1 replaced
+Delete Schedule 4.1 and insert:
+Schedule 4.1 — How to count votes and ascertain the result of an election
+[s. 4.74]
+1.The number of votes given for each candidate is to be ascertained.
+2.If the election is to fill the office of mayor or president, the candidate who receives the greater or greatest number of votes is elected.
+3.If the election is to fill one office of councillor, the candidate who receives the greater or greatest number of votes is elected.
+4.If the election is to fill 2 or more offices of councillor, the candidates elected are —
+(a) the candidate who receives the greatest number of votes; and
+(b) the candidate who receives the next highest number of votes; and
+(c) the candidate who receives the next highest number of votes,
+and so on up to the number of offices to be filled.
+5.If 2 or more candidates receive the same number of votes so that clause 2, 3 or 4 cannot be applied, the returning officer is to draw lots in accordance with regulations to determine which candidate is elected.
+6.Schedule 4.2 amended
+(1) In Schedule 4.2 clause 8 delete “primary” (each occurrence).
+(2) Delete Schedule 4.2 clause 8A.
