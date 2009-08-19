@@ -14,6 +14,7 @@ Reprint 1: The Road Traffic (Charges and Fees) Regulations 2006 as at 12 Sep 200
 Road Traffic (Charges and Fees) Amendment Regulations (No. 4) 2008 | 2 Dec 2008 p. 5065 | 2 Dec 2008 (see r. 2)
 Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2009 | 22 May 2009 p. 1706 | r. 1 and 2: 22 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 3) 2009 | 22 May 2009 p. 1707-14 | Pt. 1: 22 May 2009 (see r. 2(a)); Pt. 2: 31 May 2009 (see r. 2(b)); Regulations other than Pt. 1 and 2: 1 Jul 2009 (see r. 2(c))
+Road Traffic (Charges and Fees) Amendment Regulations 2009 | 18 Aug 2009 p. 3239-40 | r. 1 and 2: 18 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2009 (see r. 2(b))
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 r. 3 reads as follows:
@@ -31,10 +32,12 @@ Defined Terms
 Defined TermProvision(s)
 agricultural machine3(1)
 agricultural special purpose vehicle3(1)
+current licence41(4)
 exempt motorised wheelchair3(1)
 farm3(1)
 farmer3(1)
 farming business3(1)
+further licence41(4)
 hazard perception testSch. 2
 motor carrier3(1)
 new class4(3)
