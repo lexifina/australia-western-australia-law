@@ -39,6 +39,7 @@ Spent Convictions (Act Amendment) Regulations 2006 published in Gazette 24 Oct 2
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 11 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Reprint 5: The Spent Convictions Act 1988 as at 1 Jun 2007 (includes amendments listed above)
 Police Amendment Act 2008 s. 19 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
+Spent Convictions (Act Amendment) Regulations 2009 published in Gazette 18 Aug 2009 p. 3238-9 | r. 1 and 2: 18 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2009 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
