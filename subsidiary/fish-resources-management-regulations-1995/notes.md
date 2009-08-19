@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 August 2009 of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -121,6 +121,7 @@ Fish Resources Management Amendment Regulations (No. 5) 2009 | 27 Mar 2009 p. 92
 Fish Resources Management Amendment Regulations (No. 9) 2009 | 9 Jun 2009 p. 1911-20 | r. 1 and 2: 9 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 10) 2009 | 3 Jul 2009 p. 2679-80 | r. 1 and 2: 3 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jul 2009 (see r. 2(b))
 Reprint 8: The Fish Resources Management Regulations 1995 as at 7 Aug 2009 (includes amendments listed above (correction in Gazette 1 Sep 2009 p. 3397))
+Fish Resources Management Amendment Regulations (No. 12) 2009 | 18 Aug 2009 p. 3237-8 | r. 1 and 2: 18 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2009 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
@@ -207,6 +208,7 @@ net64ZE(1)
 Ningaloo Marine Park3(1)
 Ningaloo Marine Park Land Zone16L(1), 64ZCA(2)
 non-possession period38O(3)
+notice55B(1A)
 November — April64OD(4)
 one day3(1)
 operator72
