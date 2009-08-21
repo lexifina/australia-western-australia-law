@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Debt Collectors Licensing Regulations 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 21 August 2009 of the Debt Collectors Licensing Regulations 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Debt Collectors Licensing Regulations 1964 | 14 Apr 1965 p. 1031-7 | 1 May 1965 (see Gazette 15 Apr 1965 p. 1041)
@@ -20,6 +20,13 @@ Debt Collectors Licensing Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 22
 Debt Collectors Licensing Amendment Regulations 2006 | 22 Sep 2006 p. 4101-4 | 22 Sep 2006 (see r. 2(a))
 Reprint 3: The Debt Collectors Licensing Regulations 1964 as at 10 Nov 2006 (includes amendments listed above)
 Debt Collectors Licensing Amendment Regulations (No. 3) 2006 | 12 Jan 2007 p. 46-7 | 12 Jan 2007
-Debt Collectors Licensing Amendment Regulations 2007 | 15 Jun 2007 p. 2771-2 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+Debt Collectors Licensing Amendment Regulations 2007 | 15 Jun 2007 p. 2771-2 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b)(i))
 Debt Collectors Licensing Amendment Regulations 2008 | 17 Jun 2008 p. 2549 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Debt Collectors Licensing Amendment Regulations 2009 | 23 Jun 2009 p. 2437 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Reprint 4: The Debt Collectors Licensing Regulations 1964 as at 21 Aug 2009 (includes amendments listed above)
+The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 151(5) provides that a reference to the Commissioner for Fair Trading is to have effect as if it had been amended to be a reference to the Commissioner as defined by the Consumer Affairs Act 1971.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection is called the Department of Commerce.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+the Act1(2)
