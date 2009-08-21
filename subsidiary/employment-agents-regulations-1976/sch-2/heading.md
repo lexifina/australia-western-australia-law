@@ -4,7 +4,7 @@
 Offences under Employment Agents Act 1976 | Modified penalty
 s. 12(1) | Carrying on business as an employment agent without a licence ..................................................... | $100
 s. 12(4) | Carrying on business as an employment agent —
- | (a)under unlicensed name .................................. | $100
+ | (a)under unlicensed name ................................. | $100
  | (b)at unlicensed address .................................... | $100
  | (c)when licence is not in force ......................... | $100
  | (d)in relation to unlicensed class of business ... | $100
