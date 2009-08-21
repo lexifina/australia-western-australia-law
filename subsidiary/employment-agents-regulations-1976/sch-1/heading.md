@@ -125,7 +125,7 @@ Employment Agents Act 1976
 RESTRICTED LICENCE
 This is to certify that .............................................................................................. ........................................................ trading as ....................................................... of ............................................................................................................................ is licensed to carry on business as an employment agent († on behalf of .......................................................................................................) in the following parts of Western Australia: — ................................................................................................................................. ................................................................................................................................. and in relation to the following class or classes of business: — ................................................................................................................................. ................................................................................................................................. at the following places of business: — ................................................................................................................................. ................................................................................................................................. subject to the following conditions, limitations and restrictions: — ................................................................................................................................. ................................................................................................................................. .................................................................................................................................
 Date of issue: ........................................ Date of expiry: ......................................
-................................................................ Commissioner for Consumer Protection
+................................................................ Commissioner for Consumer Protection.
 † Delete if not applicable.
 [Form 8 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
 Form 9
@@ -148,7 +148,7 @@ TAKE NOTICE THAT ................................ trading as ...................
 ANY PERSON who desires to object to the grant of a licence should lodge a notice in writing with the Commissioner, within 14 days of the date of this publication stating in sufficient details the grounds of the objection and is also required to serve a copy of such notice of objection on the applicant or his authorised representative.
 ................................................................ Signature.
 [Form 11 amended in Gazette 30 Dec 2004 p. 6920.]
-Form 12 Employment Agents Act 1976 REGISTER OF EMPLOYMENT AGENTS Business Name ............................................................................................................................................................. Address of Principal Place of Business ....................................................................................................................... Address of Other Places of Business ........................................................................................................................... | Cancellation or Surrender | Date
+Form 12 Employment Agents Act 1976 REGISTER OF EMPLOYMENT AGENTS Business Name Address of Principal Place of Business Address of Other Places of Business | Cancellation or Surrender | Date
 S
 C
 Disqualification of Person, Firm or Body Corporate | To
@@ -159,17 +159,17 @@ From
 LICENCE | Particulars of Conditions, Limitations or Restrictions
 Name of Firm or Body Corporate on behalf whom Granted
 Name of Natural Person to whom Granted
-Type — Gen. Rest. Int.
-Date Expires
+Type — Gen Rest. Int.
+Date Express
 Date Granted or Renewed
-No.
+No
 Form 13
 Employment Agents Act 1976 Infringement notice | Infringement notice no.
 Alleged offender | Name:Family name
 Given names
-orCompany name ____________________________________ ACN
-Address ________________________________________________ Postcode
-Alleged offence | Description of offence _____________________________________
+orCompany name _____________________________ ACN
+Address __________________________________________ Postcode
+Alleged offence | Description of offence _______________________________
 Employment Agents Act 1976 s.
 Date //20Time a.m./p.m.
 Modified penalty $
@@ -177,17 +177,17 @@ Officer issuing notice | Name
 Signature
 Office
 Date | Date of notice //20
-Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque or money order (payable to ‘Approved Officer — Employment Agents Act 1976’) to: Approved Officer — Employment Agents Act 1976 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 In person: Pay the cashier at: Department of Consumer and Employment Protection 219 St George’s Terrace, Perth WA If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act your driver’s licence and/or vehicle licence may be suspended. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Approved Officer at the above postal address. If you want this matter to be dealt with by prosecution in court, sign here _______________________________________ and post this notice to the Approved Officer at the above postal address within 28 days after the date of this notice.
+Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque or money order (payable to ‘Approved Officer — Employment Agents Act 1976’) to: Approved Officer — Employment Agents Act 1976 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 In person: Pay the cashier at: Department of Consumer and Employment Protection 219 St George’s Terrace, Perth WA If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act your driver’s licence and/or vehicle licence may be suspended. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Approved Officer at the above postal address. If you want this matter to be dealt with by prosecution in court, sign here ____________________________________ and post this notice to the Approved Officer at the above postal address within 28 days after the date of this notice.
 [Form 13 inserted in Gazette 22 Sep 2006 p. 4110.]
 Form 14
 Employment Agents Act 1976 Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name:Family name
 Given names
-orCompany name _____________________________________ ACN
-Address _________________________________________________ Postcode
+orCompany name ___________________________ ACN
+Address ________________________________________ Postcode
 Infringement notice | Infringement notice no.
 Date of issue //20
-Alleged offence | Description of offence ____________________________________
+Alleged offence | Description of offence _____________________________
 Employment Agents Act 1976 s.
 Date //20Timea.m./p.m.
 Officer withdrawing notice | Name
