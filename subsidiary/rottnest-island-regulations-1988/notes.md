@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Rottnest Island Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 21 August 2009 of the Rottnest Island Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Rottnest Island Regulations 1988 | 30 May 1988 p. 1825-46 | 30 May 1988 (see r. 2 and Gazette 30 May 1998 p. 1823)
@@ -22,16 +22,84 @@ Rottnest Island Amendment Regulations (No. 2) 2004 | 29 Jun 2004 p. 2545-8 | 1 J
 Reprint 2: The Rottnest Island Regulations 1988 as at 14 Jan 2005 (includes amendments listed above)
 Rottnest Island Amendment Regulations 2006 | 8 Aug 2006 p. 2906-8 | 8 Aug 2006
 Rottnest Island Amendment Regulations 2007 | 24 Jul 2007 p. 3665-7 | r. 1 and 2: 24 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2007 (see r. 2(b))
-Rottnest Island Amendment Regulations 2008 | 24 Jun 2008 p. 2911-13 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Rottnest Island Amendment Regulations 2008 | 24 Jun 2008 p. 2911-13 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Rottnest Island Amendment Regulations 2009 | 3 Jul 2009 p. 2700-3 | r. 1 and 2: 3 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jul 2009 (see r. 2(b)(ii))
-The Rottnest Island Amendment Regulations 1997 r. 5(2) reads as follows:
-“
-(2) Any payment made under regulation 7 of the principal regulations in respect of the financial year ending 30 June 1997 is taken to have been made in respect of the period ending 31 August 1997.
-”.
+Reprint 3: The Rottnest Island Regulations 1988 as at 21 Aug 2009 (includes amendments listed above)
+Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fish Resources Management Act 1994 s. 265.
-Repealed by the Liquor Licensing Act 1988.
+Repealed by the Liquor Control Act 1988.
 Regulations 5, 7 and 18 disallowed on 28 May 1991, see Gazette 31 May 1991 p. 2710-11.
-The Rottnest Island Amendment Regulations 2003 r. 4(3) reads as follows:
-“
-(3) For the purposes of regulation 6(1)(b)(ii) of the Rottnest Island Regulations 1988 as amended by these regulations, the period between the end of the last month immediately before the coming into operation of these regulations and the first Wednesday after the coming into operation of these regulations is taken to be a collection period.
-”.
+The Rottnest Island Amendment Regulations 1997 r. 5(2) is a transitional provision that is of no further effect.
+The Rottnest Island Amendment Regulations 2003 r. 4(3) is a transitional provision that is of no further effect.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+accommodation8(7), 10(2)
+additional vessel19
+adequate insurance cover3
+aircraft63, 66(2)
+alcoholic liquor72(2)
+annual admission payment3
+approved3
+assault70(2)
+authorised person68(2)
+authorised user19
+authorised user’s vessel19
+beach37(2)(a)
+bicycle3
+Board75(9)
+by-law75(9)
+capacitySch. 5
+certificate of registration3
+collection period6(1a)
+commencement35C, 75(9)
+competent operator13(2)
+declare3
+declared3
+eligible applicant35C
+emergency vehicle50(2)
+existing certificate of registration35C
+explosive device59(3a)
+fauna40(3), 59(3)
+fish40(3)
+flora39(2)(a)
+hired bicycle51(2)
+length3
+licensed premises72(2)
+licensed vessel19
+liquid waste38C(1)
+litter60B(2)
+mooring3
+mooring area3
+mooring inspection report19
+mooring site3
+mooring site licence3
+mooring site licensee3
+other road users48(2)
+overall length3
+owner3
+permanent resident3
+permitted area37(2)(b)
+register3
+registered owner35C
+rental licence3
+rental mooring3
+repealed by-laws75(9)
+restricted area36(1)(a)
+sandboard60A(3)
+settlement47(3)
+specified15(6)
+structure52(5)
+suitable vessel19
+sullage38C(1)
+take39(2)(b)
+the aerodrome63
+the loss18(1)
+the previous licensee30(4)
+unlawfully70(2)
+use3
+vehicle3, 46(2)
+vessel3
+waiting list19
+water catchment area61(3)
+waters of the Island3
