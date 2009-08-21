@@ -40,8 +40,7 @@ I ............................................................, of .............
 I tender herewith the prescribed fee of $___________.
 My sole or principal place of business is situated at .............................................. ................................................................................................................................
 The licence number .................................... has not been transferred, terminated, or cancelled.
-I have made diligent search for the licence, but have been unable to find it and am of the opinion that it has been accidentally (or, as the case may be,) lost
-lost destroyed.*
+I have made diligent search for the licence, but have been unable to find it and am of the opinion that it has been accidentally (or, as the case may be,) lost lost destroyed.*
 Dated this ................................... day of .............................................., 20 ...........
 ...................................................
 Applicant
@@ -68,7 +67,7 @@ Form 7
 Debt Collectors Licensing Act 1964 Infringement notice | Infringement notice no.
 Alleged offender | Name:Family name
 Given names
-orCompany name ____________________________________ ACN
+orCompany name __________________________________ ACN
 Address ________________________________________________ Postcode
 Alleged offence | Description of offence _____________________________________
 Debt Collectors Licensing Act 1964 s. Debt Collectors Licensing Regulations 1964 r.
@@ -86,11 +85,11 @@ Form 8
 Debt Collectors Licensing Act 1964 Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name:Family name
 Given names
-orCompany name _____________________________________ ACN
-Address _________________________________________________ Postcode
+orCompany name _________________________________ ACN
+Address _______________________________________________ Postcode
 Infringement notice | Infringement notice no.
 Date of issue //20
-Alleged offence | Description of offence ____________________________________
+Alleged offence | Description of offence ___________________________________
 Debt Collectors Licensing Act 1964 s. Debt Collectors Licensing Regulations 1964 r.
 Date //20Timea.m./p.m.
 Officer withdrawing notice | Name
