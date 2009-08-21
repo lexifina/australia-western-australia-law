@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 21 August 2009 of the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 | 30 Jul 1999 p. 3499-539 | 30 Jul 1999 (see r. 2)
@@ -18,4 +18,57 @@ Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2007 | 30 Nov 2007 p. 5933-7 | r. 1 and 2: 30 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2007 (see r. 2(b) and Gazette 30 Nov 2007 p. 5927)
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2008 | 17 Jun 2008 p. 2565-6 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2009 | 23 Jun 2009 p. 2441-2 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Reprint 3: The Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 as at 21 Aug 2009 (includes amendments listed above)
 The Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2000 r. 16 is a transitional provision that is of no further effect.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+AG3(1)
+apparatus3(1)
+appeal31A
+appellant31A
+appliance3(1)
+approved3(1), Sch. 6 cl. 101
+AS3(1)
+AS/NZS3(1)
+authorisation3(1)
+bathroomSch. 6 cl. 504(4)
+bayonet fittingSch. 6 cl. 504(4)
+bedroomSch. 6 cl. 101
+caravan3(1)
+certificate of competency3(1)
+commission17
+employer16(3)
+fitting3(1)
+fitting line3(1)
+fitting line regulatorSch. 6 cl. 406(2)
+flame safeguard systemSch. 6 cl. 101
+flue3(1)
+flue gas3(1)
+flue terminal3(1)
+gas fitter3(1)
+gas supplier3(1)
+incident42(3)
+LPG3(1)
+master meter3(1)
+maximum hourly input rate3(1)
+meter3(1)
+mobile engine3(1)
+natural gas3(1)
+notice of completion3(1)
+notice of defects17
+permit3(1)
+prescribed pressureSch. 6 cl. 101
+pressure raising device3(1)
+registered gas fitter3(1)
+regulator3(1)
+repealed regulations43(2)
+service apparatus37(2)
+service information23(4)
+servicing3(1)
+specified16(3)
+supervised gas fitter3(1)
+supervising gas fitter3(1)
+technical review panel31A
+Type B appliance3(1)
+valve3(1)
