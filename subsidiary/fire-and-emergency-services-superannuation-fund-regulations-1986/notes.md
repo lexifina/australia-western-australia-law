@@ -28,6 +28,7 @@ Fire and Emergency Services (Superannuation Fund) Amendment Regulations 2004 | 2
 Fire and Emergency Services (Superannuation Fund) Amendment Regulations (No. 2) 2004 | 21 Jan 2005 p. 260-3 | 21 Jan 2005
 Reprint 3: The Fire and Emergency Services (Superannuation Fund) Regulations 1986 as at 11 Jan 2008 (includes amendments listed above)
 Fire and Emergency Services (Superannuation Fund) Amendment Regulations 2008 | 1 Apr 2008 p. 1271-9 | r. 1 and 2: 1 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2008 (see r. 2(b))
+Fire and Emergency Services (Superannuation Fund) Amendment Regulations 2009 | 21 Aug 2009 p. 3267-70 | r. 1 and 2: 21 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Aug 2009 (see r. 2(b))
 Now known as the Fire and Emergency Services (Superannuation Fund) Regulations 1986; citation changed (see note under r. 1).
 The Fire Brigades (Superannuation Fund) Amendment Regulations 1988 r. 5 reads as follows:
 “
@@ -51,6 +52,7 @@ Category C member3(1)
 child9(1)
 complying superannuation fund3(1), 21B(5)
 complying superannuation scheme3(1)
+death benefit3(1)
 effect42(4)
 employer16(1)
 employment12(4)
