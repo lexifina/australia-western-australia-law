@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 August 2007 of the Coal Industry Superannuation Regulations 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Coal Industry Superannuation Regulations 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Coal Industry Superannuation Regulations 1990 | 28 Jun 1990 p. 3109-36 | 1 Jul 1990 (see r. 2 and Gazette 22 Jun 1990 p. 3027)
@@ -17,6 +17,7 @@ Coal Industry Superannuation Amendment Regulations 2005 | 21 Jun 2005 p. 2677-8 
 Coal Industry Superannuation Amendment Regulations 2006 | 11 Jul 2006 p. 2535-40 | 11 Jul 2006
 Coal Industry Superannuation Amendment Regulations 2007 | 20 Feb 2007 p. 506-7 | 20 Feb 2007
 Reprint 3: The Coal Industry Superannuation Regulations 1990 as at 3 Aug 2007 (includes amendments listed above)
+Coal Industry Superannuation Amendment Regulations 2009 | 21 Aug 2009 p. 3266-7 | r. 1 and 2:: 21 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Aug 2009 (see r. 2(b))
 The Superannuation Industry (Supervision) Act 1993 of the Commonwealth.
 The Coal Industry Superannuation Amendment Regulations 1996 r. 34 reads as follows:
 “
@@ -28,3 +29,33 @@ The Coal Industry Superannuation Amendment Regulations 2002 r. 11 reads as follo
 11.Transitional — currently retained benefits
 If, when these regulations come into operation, the multiple recorded by the Board under regulation 22(3) (as in force immediately before these regulations come into operation) in relation to a member’s retained benefit is less than the multiple that would have been recorded under regulation 22(3) if these regulations had come into operation before the member became entitled to the benefit (the “new multiple”), then the member’s multiple is taken to be the new multiple.
 ”.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+account based pension22AC(5)
+accrued benefit3(1)
+accumulation account3(1)
+benchmark amount3(1), 7(1)
+benefit23
+category A member3(1)
+category B member3(1)
+category C member3(1)
+category D member3(1)
+date of disablement19(2)
+dependant3(1)
+discount factor3(1)
+effect47(4)
+former Act3(1)
+in service4A
+in service with an employer4A
+member3(1)
+member’s multiple3(1)
+partner3(1)
+prescribed member46(1)
+previous fund3(1)
+relevant period45(5)
+salary day3(1)
+SIS Regulations3(1)
+splittable contribution3(1)
+the service percentage46(2)
+trustee corporation24(5)
