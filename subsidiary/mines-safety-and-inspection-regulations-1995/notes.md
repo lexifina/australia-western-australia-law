@@ -31,6 +31,7 @@ Reprint 4: The Mines Safety and Inspection Regulations 1995 as at 20 Mar 2008 (i
 Mines Safety and Inspection Amendment Regulations (No. 2) 2008 | 17 Jun 2008 p. 2567-8 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Mines Safety and Inspection Amendment Regulations (No. 2) 2009 | 16 Jun 2009 p. 2191-2 | r. 1 and 2: 16 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Mines Safety and Inspection Amendment Regulations 2009 r. 1-17 and 19-28 | 21 Jul 2009 p. 2918-27 | r. 1 and 2: 21 Jul 2009 (see r. 2(a)); Regulations other than r. 1, 2 and 18: 22 Jul 2009 (see r. 2(c))
+Mines Safety and Inspection Amendment Regulations (No. 3) 2009 | 21 Aug 2009 p. 3270 | r. 1 and 2: 21 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Aug 2009 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
