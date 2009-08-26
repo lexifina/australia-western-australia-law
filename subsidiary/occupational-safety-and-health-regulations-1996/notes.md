@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 August 2009 of the Occupational Safety and Health Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Occupational Safety and Health Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Occupational Safety and Health Regulations 1996 | 27 Sep 1996 p. 4837-5080 | 1 Oct 1996 (see r. 1.2)
@@ -63,6 +63,7 @@ Occupational Safety and Health Amendment Regulations 2009 | 5 Jun 2009 p. 1878-8
 Occupational Safety and Health Amendment Regulations (No. 6) 2009 | 23 Jun 2009 p. 2449-51 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 4) 2009 | 31 Jul 2009 p. 3032-4 | r. 1 and 2: 31 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2009 (see r. 2(b))
 Reprint 7: The Occupational Safety and Health Regulations 1996 as at 3 Aug 2009 (includes amendments listed above)
+Occupational Safety and Health Amendment Regulations (No. 5) 2009 | 25 Aug 2009 p. 3312-13 | r. 1 and 2: 25 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Aug 2009 (see r. 2(b))
 Repealed by the Medical Practitioners Act 2008.
 Repealed by the Training Legislation Amendment and Repeal Act 2008.
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
