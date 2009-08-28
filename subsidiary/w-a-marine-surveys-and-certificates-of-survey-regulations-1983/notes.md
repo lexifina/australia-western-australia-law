@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 28 August 2009 of the W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 | 1 Jul 1983 p. 2195-208 | 1 Jul 1983 (see r. 2)
@@ -36,12 +36,27 @@ W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2005 | 24
 W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2006 | 23 Jun 2006 p. 2214-19 | 1 Jul 2006 (see r. 2)
 Reprint 3: The W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 as at 1 Dec 2006 (includes amendments listed above)
 W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2007 | 22 Jun 2007 p. 2853-7 | 1 Jul 2007 (see r. 2)
-W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2008 | 24 Jun 2008 p. 2898-903 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2008 | 24 Jun 2008 p. 2898-903 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations (No. 2) 2008 | 24 Oct 2008 p. 4678-82 | r. 1 and 2: 24 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Oct 2008 (see r. 2(b))
 W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2009 | 12 Jun 2009 p. 2121-6 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Reprint 4: The W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 as at 28 Aug 2009 (includes amendments listed above)
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 The W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2002 r. 4 reads as follows:
-“
 4.Saving
 If a registration certificate and identification plate in respect of a vessel has been obtained under regulation 10A(1)(c) of the W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 before the commencement of the W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2002, the registration continues to have effect under regulation 10A of the W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 from that commencement in relation to the vessel as if it were intended that the vessel would operate within 5 nautical miles off the mainland of the State.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+class3(1)
+Code3(1)
+existing vessel3(1)
+inspection3(1)
+marine authority3(1)
+measured length3(1)
+new vessel3(1)
+regulation3(1)
+schedule3(1)
+specified form3(1)
+subregulation3(1)
+survey3(1)
+survey authority3(1)
