@@ -7,4 +7,5 @@ Local Government (Constitution) Amendment Regulations 2005 | 31 Mar 2005 p. 1044
 Local Government (Constitution) Amendment Regulations 2006 | 20 Jan 2006 p. 380-1 | 20 Jan 2006
 Reprint 1: The Local Government (Constitution) Regulations 1998 as at 19 Jan 2007 (includes amendments listed above)
 Local Government (Constitution) Amendment Regulations 2007 | 21 Aug 2007 p. 4183-8 | r. 1 and 2: 21 Aug 2007 (see r. 2(a)); r. 3 and 10: 22 Aug 2007 (see r. 2(b)); Regulations other than r. 1-3, 10 and 12: 6 Sep 2007 (see r. 2(d) and Gazette 3 Aug 2007 p. 3989); r. 12: 21 Oct 2007 (see r. 2(c) and Gazette 21 Aug 2007 p. 4173)
+Local Government (Constitution) Amendment Regulations 2009 | 28 Aug 2009 p. 3371-72 | r. 1 and 2: 28 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2009 (see r. 2(b) and Gazette 28 Aug 2009 p. 3347)
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
