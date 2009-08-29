@@ -1,13 +1,8 @@
-## Schedule 2
-[Regulation 7A]
-## Forms
-Form 1
-Western Australia
+## Schedule 2 — Forms
+[r. 15]
+[Heading inserted in Gazette 28 Aug 2009 p. 3349.]
+Form 1 — Application for grant for assistance with incidental expenses under the Real Estate and Business Agents Act 1978 section 131L
 Real Estate and Business Agents Act 1978
-[s. 131L(1)]
-Real Estate and Business Agents (General) Regulations 1979
-[r. 7A]
-APPLICATION FOR GRANT OF WHOLE OR ANY PART OF INCIDENTAL EXPENSES IN CONNECTION WITH PURCHASE OF A DWELLING OR PARTIALLY ERECTED DWELLING
 To be completed by applicant and submitted to a lending institution with application for a housing loan.
 All details in this application form must be supplied.
 1.Particulars of Applicant(s)
@@ -65,4 +60,39 @@ Declarant 2.....................................................................
 (If applicable)
 Before me.......................................................................................................
 [Justice of the Peace, Commissioner for Declarations, or Authorised Person]
-[Schedule 2 inserted in Gazette 2 Jul 1982 p. 2335-6; amended in Gazette 30 Dec 1983 p. 5121-2; 30 Sep 1994 p. 4969-72; 25 Jun 1996 p. 2920-2; 27 Jun 1997 p. 3099-101; 8 Feb 2002 p. 599-602.]
+[Form 1 inserted in Gazette 8 Feb 2002 p. 599-602; amended in Gazette 28 Aug 2009 p. 3349.]
+Form 2 — Infringement notice
+Real Estate and Business Agents Act 1978 Infringement notice | Infringement notice no.
+Alleged offender | Name:Family name
+Given names
+orCompany name ______________________________ ACN
+Address _________________________________________ Postcode
+Alleged offence | Description of offence _____________________________
+ | Real Estate and Business Agents Act 1978 s. Real Estate and Business Agents (General) Regulations 1979 r.
+Date //20Time a.m./p.m.
+Modified penalty $
+Officer issuing notice | Name
+Signature
+Office
+Date | Date of notice //20
+Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque or money order (payable to ‘Approved Officer — Real Estate and Business Agents Act 1978’) to the following address: Approved Officer Real Estate and Business Agents Supervisory Board [Address] In person: Pay the cashier at: Real Estate and Business Agents Supervisory Board [Address] If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act your driver’s licence and/or vehicle licence may be suspended.
+ | If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Approved Officer at the above postal address.
+ | If you want this matter to be dealt with by prosecution in court, sign here ________________________________ and post this notice to the Approved Officer at the above postal address within 28 days after the date of this notice.
+[Form 2 inserted in Gazette 28 Aug 2009 p. 3349-50.]
+Form 3 — Withdrawal of infringement notice
+Real Estate and Business Agents Act 1978 Withdrawal of infringement notice | Withdrawal no.
+Alleged offender | Name:Family name
+Given names
+orCompany name ______________________________ ACN
+Address _________________________________________ Postcode
+Infringement notice | Infringement notice no.
+Date of issue //20
+Alleged offence | Description of offence ______________________________
+ | Real Estate and Business Agents Act 1978 s. Real Estate and Business Agents (General) Regulations 1979 r.
+Date //20Timea.m./p.m.
+Officer withdrawing notice | Name
+Signature
+Office
+Date | Date of withdrawal //20
+Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to: Approved Officer — Real Estate and Business Agents Act 1978 Real Estate and Business Agents Supervisory Board [Address] Signature//20
+[Form 3 inserted in Gazette 28 Aug 2009 p. 3350-1.]
