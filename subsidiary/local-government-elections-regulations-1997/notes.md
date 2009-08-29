@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 27 March 2009 of the Local Government (Elections) Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Local Government (Elections) Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Local Government (Elections) Regulations 1997 | 14 Feb 1997 p. 905-1008 | 14 Feb 1997
@@ -13,6 +13,7 @@ Local Government (Elections) Amendment Regulations (No. 2) 2005 | 18 Mar 2005 p.
 Local Government (Elections) Amendment Regulations 2007 | 3 Aug 2007 p. 3989-4006 | r. 1 and 2: 3 Aug 2007 (see r. 2(a)); r. 3, 15-17, 18(1) and (2) and 19: 4 Aug 2007 (see r. 2(b)); r. 4-14 and 18(3)-(12): 6 Sep 2007 (see r. 2(c) and Gazette 3 Aug 2007 p. 3989)
 Reprint 2: The Local Government (Elections) Regulations 1997 as at 27 Mar 2009 (includes amendments listed above)
 Local Government (Elections) Amendment Regulations 2009 | 14 Aug 2009 p. 3215-20 | r. 1 and 2: 14 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2009 (see r. 2(b))
+Local Government (Elections) Amendment Regulations (No. 2) 2009 | 28 Aug 2009 p. 3359-71 | r. 1 and 2: 28 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2009 (see r. 2(b) and Gazette 28 Aug 2009 p. 3347)
 The Local Government (Elections) Amendment Regulations 1998 r. 3 reads as follows:
 “
 3.Application
