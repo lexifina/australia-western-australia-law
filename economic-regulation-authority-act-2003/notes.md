@@ -9,8 +9,29 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Reprint 1: The Economic Regulation Authority Act 2003 as at 21 Nov 2008 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 48 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+National Gas Access (WA) Act 2009 Pt. 7 Div. 2 | 16 of 2009 | 1 Sep 2009 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Schedule 2 was omitted under the Reprints Act 1984 s. 7(4)(e).
+On the date as at which this compilation was prepared, the National Gas Access (WA) Act 2009 Pt. 7 Div. 2 had not come into operation. It reads as follows:
+Division 2 — Economic Regulation Authority Act 2003
+52.Act amended
+This Division amends the Economic Regulation Authority Act 2003.
+53.Section 25 amended
+In section 25:
+(a) delete paragraph (c) and insert:
+(c) the functions it is given by or under the National Gas Access (WA) Act 2009; and
+(b) after each of paragraphs (a), (b) and (d) insert:
+and
+54.Section 28 amended
+(1) In section 28(3)(b) delete “referred to in section 36(1) of the Gas Pipelines Access (Western Australia) Act 1998 or” and insert:
+given by or under the National Gas Access (WA) Act 2009 or referred to in
+(2) In section 28(5)(b) delete “Gas Pipelines Access (Western Australia) Act 1998, must send a copy of the direction to the Code Registrar within the meaning of that Act.” and insert:
+National Gas Access (WA) Act 2009, must send a copy of the direction to the Australian Energy Market Commission established by section 5 of the Australian Energy Market Commission Establishment Act 2004 of South Australia.
+55.Section 32 amended
+In section 32(1) delete “Gas Pipelines Access (Western Australia) Law” and insert:
+National Gas Access (Western Australia) Law
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
