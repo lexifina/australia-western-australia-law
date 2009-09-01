@@ -255,6 +255,7 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 and 35 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative at “transfer time” fixed under the State Superannuation Act 2000 s. 56 (see s. 2(1)(c))
+National Gas Access (WA) Act 2009 s. 68 | 16 of 2009 | 1 Sep 2009 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions repealed by the Health Amendment Act 1985.
@@ -362,6 +363,14 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
 ”.
+On the date as at which this compilation was prepared, the National Gas Access (WA) Act 2009 s. 68 had not come into operation. It reads as follows:
+68.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 1 Division 1 in the item for the Western Australian Gas Disputes Arbitrator:
+(a) delete “Gas Disputes” and insert:
+Energy Disputes
+(b) delete “Gas Pipelines Access (Western Australia)” and insert:
+Energy Arbitration and Review
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
