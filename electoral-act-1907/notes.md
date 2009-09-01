@@ -96,7 +96,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Electoral Amendment Act 2008 s. 3-5 | 38 of 2008 | 3 Jul 2008 | To be proclaimed (see s. 2)
-Electoral Amendment (Miscellaneous) Act 2009 Pt. 2 | 7 of 2009 | 21 May 2009 | To be proclaimed (see s. 2(b))
+Electoral Amendment (Miscellaneous) Act 2009 Pt. 2 | 7 of 2009 | 21 May 2009 | 1 Oct 2009 (see s. 2(b) and Gazette 1 Sep 2009 p. 3393)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 15.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as a reference to the Public Sector Management Act 1994.
