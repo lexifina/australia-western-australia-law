@@ -20,6 +20,9 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Legal Profession Act 2008 s. 665 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 64 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+National Gas Access (WA) Act 2009 Pt. 7 Div. 1 | 16 of 2009 | 1 Sep 2009 | To be proclaimed (see s. 2(b))
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
 The copy of the Code reproduced in Schedule 2 is a copy of the Code in its original form, as agreed by the Council of Australian Governments on 7 November 1997. It does not include subsequent amendments to the Code. Copies of the Code as amended are available from the Code Registrar in accordance with Schedule 1 clause 7.
 Repealed by the Gas Pipelines Access (Western Australia) Act 1998 Sch. 3 cl. 31(1) on approval of Access Arrangement on 18 July 2000.
@@ -82,3 +85,92 @@ The operation of any provision of this Schedule is not to be regarded —
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
 ”.
+On the date as at which this compilation was prepared, the National Gas Access (WA) Act 2009 Pt. 7 Div. 1 had not come into operation. It reads as follows:
+Division 1 — Gas Pipelines Access (Western Australia) Act 1998
+23.Act amended
+This Division amends the Gas Pipelines Access (Western Australia) Act 1998.
+24.Long title replaced
+Delete the long title and insert:
+An Act to provide for a review board and for an official who may arbitrate certain disputes, and for related purposes.
+25.Preamble deleted
+Delete the preamble.
+26.Section 1 amended
+In section 1 delete “Gas Pipelines Access (Western Australia) Act 1998.” and insert:
+Energy Arbitration and Review Act 1998.
+27.Sections 2 to 4 deleted
+Delete sections 2 to 4.
+28.Section 5 amended
+In section 5 delete “bind” and all of the section before it and insert:
+This Act binds
+29.Sections 6 to 8 deleted
+Delete sections 6 to 8.
+30.Parts 2 to 5 deleted
+Delete Parts 2 to 5.
+31.Part 6 heading replaced
+Delete the heading to Part 6 and insert:
+Part 6 — Review board and arbitrator
+32.Part 6 Division 1 deleted
+Delete Part 6 Division 1.
+33.Part 6 Division 2 heading replaced
+Delete the heading to Part 6 Division 2 and insert:
+Division 2 — Review board
+34.Section 49 amended
+In section 49 in the definition of Board delete “Western Australian Gas Review Board” and insert:
+Western Australian Electricity Review Board
+35.Part 6 Division 2 Subdivision 2 heading replaced
+Delete the heading to Part 6 Division 2 Subdivision 2 and insert:
+Subdivision 2 — Western Australian Electricity Review Board established
+36.Section 50 amended
+(1) In section 50(1) delete “Western Australian Gas Review Board” and insert:
+Western Australian Electricity Review Board
+(2) After section 50(1) insert:
+(2A) The Board has functions under the Electricity Industry Act 2004.
+37.Section 57 amended
+In section 57(1) delete “the Gas Pipelines Access (Western Australia) Law and”.
+38.Section 59 amended
+In section 59(4) delete “Subject to the Gas Pipelines Access (Western Australia) Law, a party” and insert:
+A party
+39.Section 61 amended
+In section 61 in the definition of arbitrator delete “Gas” and insert:
+Energy
+40.Part 6 Division 3 Subdivision 2 heading amended
+In the heading to Part 6 Division 3 Subdivision 2 delete “Gas” and insert:
+Energy
+41.Section 62 amended
+In section 62(1) delete “Gas” and insert:
+Energy
+42.Section 73 amended
+In section 73(1):
+(a) delete paragraphs (a) and (c) and insert:
+(a) by or under the National Gas Access (WA) Act 2009; or
+(b) by or under the Electricity Industry Act 2004; or
+(b) after paragraph (d) delete “and” and insert:
+or
+43.Section 74 amended
+After section 74(2) insert:
+(3) Regulations referred to in subsection (1) may make provision for and in relation to the imposition and payment of fees and charges in connection with the performance of functions the arbitrator has under those regulations.
+(4) If it is inappropriate to prescribe a set fee or charge in connection with the performance of a particular function the regulations may provide for the method of calculating the fee or charge, including calculation according to the cost of performing that function.
+44.Section 76 amended
+In section 76:
+(a) delete “under the Code” and insert:
+in performing functions referred to in section 73(1)
+(b) delete “local Regulator as defined in section 11.” and insert:
+Economic Regulation Authority established by the Economic Regulation Authority Act 2003.
+45.Section 77 amended
+In section 77 delete “provided for by the Gas Pipelines Access (Western Australia) Law and the regulations” and insert:
+involved in performing the arbitrator’s functions
+46.Section 81 amended
+In section 81 delete “under this Act”.
+47.Section 82 amended
+(1) In section 82(2) after “called” insert:
+the “Western Australian Energy Disputes Arbitrator Account”, and it is to be a continuation of the account formerly called
+(2) Delete section 82(3)(a)(ii) and insert:
+(ii) fees and charges payable to the arbitrator or the Board in connection with the performance of the functions of the arbitrator or the Board;
+48.Section 87 deleted
+Delete section 87.
+49.Section 88 deleted
+Delete section 88.
+50.Parts 7 and 8 deleted
+Delete Parts 7 and 8.
+51.Schedules deleted
+Delete Schedule 1 and its Appendix and Schedules 2 and 3.
