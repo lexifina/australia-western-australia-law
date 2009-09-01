@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 27 February 2009 of the Freedom of Information Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Freedom of Information Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Freedom of Information Act 1992 | 76 of 1992 | 15 Dec 1992 | s. 1 and 2: 15 Dec 1992; Pt. 4 Div. 1 and 2: 11 Jun 1993 (see s. 2 and Gazette 11 Jun 1993 p. 2867); Act other than s. 1 and 2 and Pt. 4 Div. 1 and 2: 1 Nov 1993 (see s. 2 and Gazette 29 Oct 1993 p. 5881)
@@ -40,17 +40,18 @@ Parole and Sentencing Legislation Amendment Act 2006 s. 90 | 41 of 2006 | 22 Sep
 Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 6 | 43 of 2006 | 3 Oct 2006 | 31 Oct 2006
 Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 13 | 26 of 2008 | 19 Jun 2008 | 1 Jan 2009 (see s. 2(b) and Gazette 9 Dec 2008 p. 5107)
 Reprint 5: The Freedom of Information Act 1992 as at 27 Feb 2009 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+National Gas Access (WA) Act 2009 s. 70 | 16 of 2009 | 1 Sep 2009 | To be proclaimed (see s. 2(b))
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
 The Acts Amendment (Ministry of Justice) Act 1993 s. 68 is a savings provision that is of no further effect.
 The Corruption and Crime Commission Act 2003 Sch. 3 was renumbered as Sch. 4 by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(12) and the reference to it in s. 62 was amended by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(13).
-On the date as at which this reprint was prepared, the Acts Amendment (ICWA) Act 1996 s. 38, which gives effect to Sch. 1 it. 4, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Acts Amendment (ICWA) Act 1996 s. 38, which gives effect to Sch. 1 it. 4, had not come into operation. It reads as follows:
 “
 38.Consequential Amendments
 The Acts referred to in the Schedule are amended as set out in Schedule 1.
@@ -62,7 +63,7 @@ Schedule 1 — Consequential amendments to other Acts
 Provision amended | Amendment
 Schedule 2 | Delete the item “The State Government Insurance Corporation.”.
 ”.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads:
 “
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
@@ -72,6 +73,15 @@ Act | Provision
 Freedom of Information Act 1992 | s. 62(2)
 ...................... | ........
 ”.
+On the date as at which this compilation was prepared, the National Gas Access (WA) Act 2009 s. 70 had not come into operation. It reads as follows:
+70.Freedom of Information Act 1992 amended
+(1) This section amends the Freedom of Information Act 1992.
+(2) Delete the Glossary clause 7A(1) and insert:
+(1) In this clause —
+access regulation functions means the functions given by or under the National Gas Access (WA) Act 2009;
+arbitrator has the meaning given in section 61 of the Energy Arbitration and Review Act 1998;
+Authority means the Economic Regulation Authority established by the Economic Regulation Authority Act 2003;
+Board has the meaning given in section 49 of the Energy Arbitration and Review Act 1998.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
