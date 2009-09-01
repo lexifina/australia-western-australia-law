@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 26 September 2008 of the Financial Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Financial Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Financial Management Act 2006 | 76 of 2006 | 21 Dec 2006 | s. 1 and 2: 21 Dec 2006; Act other than s. 1 and 2: 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
@@ -16,20 +16,26 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 36 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 State Superannuation Amendment Act 2007 s. 82 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
+National Gas Access (WA) Act 2009 s. 69 | 16 of 2009 | 1 Sep 2009 | To be proclaimed (see s. 2(b))
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 36 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 36 had not come into operation. It reads as follows:
 “
 36.Financial Management Act 2006 amended
 (1) The amendment in this section is to the Financial Management Act 2006.
 (2) Schedule 1 is amended by deleting “The Agriculture Protection Board of Western Australia”.
 ”.
-On the date as at which this reprint was prepared, the State Superannuation Amendment Act 2007 s. 82 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 82 had not come into operation. It reads as follows:
 “
 82.Financial Management Act 2006 amended
 (1) The amendments in this section are to the Financial Management Act 2006.
 (2) Schedule 1 is amended by deleting “Government Employees Superannuation Board” and inserting in the appropriate alphabetical position —
 “ State Superannuation Board ”.
 ”.
+On the date as at which this compilation was prepared, the National Gas Access (WA) Act 2009 s. 69 had not come into operation. It reads as follows:
+69.Financial Management Act 2006 amended
+(1) This section amends the Financial Management Act 2006.
+(2) In Schedule 1 in the item “Western Australian Gas Disputes Arbitrator” delete “Gas” and insert:
+Energy
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
