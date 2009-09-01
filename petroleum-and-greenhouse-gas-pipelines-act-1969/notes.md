@@ -29,6 +29,7 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Petroleum Legislation Amendment and Repeal Act 2005 Pt. 3 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
 Petroleum Amendment Act 2007 s. 102 | 35 of 2007 | 21 Dec 2007 | See
+National Gas Access (WA) Act 2009 s. 72 | 16 of 2009 | 1 Sep 2009 | To be proclaimed (see s. 2(b))
 The Acts Amendment (Petroleum) Act 1990 s. 122(2) reads as follows:
 “
 (2) A declaration made under —
@@ -1328,3 +1329,7 @@ this Schedule includes regulations made for the purposes of this Schedule.
 ”.
 ”.
 When the Petroleum Legislation Amendment and Repeal Act 2005 s. 30(2) commences and inserts the Petroleum Pipelines Act 1969 s. 67(1c) the new s. 67(1c) will be amended by the Petroleum Amendment Act 2007 s. 102 which was proclaimed to come into operation on 19 Jan 2008 (see s. 2(2) and Gazette 18 Jan 2008 p. 147) but can have no effect until the new s. 67(1c) is inserted.
+On the date as at which this compilation was prepared, the National Gas Access (WA) Act 2009 s. 72 had not come into operation. It reads as follows:
+72.Petroleum Pipelines Act 1969 amended
+(1) This section amends the Petroleum Pipelines Act 1969.
+(2) Delete section 5A.
