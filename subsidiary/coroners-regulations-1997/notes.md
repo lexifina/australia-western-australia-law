@@ -7,3 +7,4 @@ Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 10 | 30
 Reprint 1: The Coroners Regulations 1997 as at 16 Jan 2004 (includes amendments listed above)
 Courts and Legal Practice (Consequential Amendments) Regulations 2005 r. 3 | 19 Apr 2005 p. 1294-302 | 19 Apr 2005
 Coroners Amendment Regulations 2008 | 11 Mar 2008 p. 816 | r. 1 and 2: 11 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Mar 2008 (see r. 2(b))
+Coroners Amendment Regulations 2009 | 4 Sep 2009 p. 3491-3 | r. 1 and 2: 4 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2009 (see r. 2(b))
