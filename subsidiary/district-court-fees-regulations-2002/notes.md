@@ -12,6 +12,7 @@ Reprint 1: The District Court (Fees) Regulations 2002 as at 8 Dec 2006 (includes
 District Court (Fees) Amendment Regulations 2007 | 26 Jun 2007 p. 3035-7 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 District Court (Fees) Amendment Regulations 2008 | 27 Jun 2008 p. 3062-4 | r. 1 and 2: 27 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 District Court (Fees) Amendment Regulations 2009 | 9 Jun 2009 p. 1923 | r. 1 and 2: 9 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2009 (see r. 2(b))
+District Court (Fees) Amendment Regulations (No. 2) 2009 | 4 Sep 2009 p. 3488-90 | r. 1 and 2: 4 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2009 (see r. 2(b))
 Repealed by the District Court Rules 2005 r. 72.
 The District Court (Fees) Amendment Regulations 2005 r. 13 reads as follows:
 “
