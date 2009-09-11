@@ -122,6 +122,7 @@ Fish Resources Management Amendment Regulations (No. 9) 2009 | 9 Jun 2009 p. 191
 Fish Resources Management Amendment Regulations (No. 10) 2009 | 3 Jul 2009 p. 2679-80 | r. 1 and 2: 3 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jul 2009 (see r. 2(b))
 Reprint 8: The Fish Resources Management Regulations 1995 as at 7 Aug 2009 (includes amendments listed above (correction in Gazette 1 Sep 2009 p. 3397))
 Fish Resources Management Amendment Regulations (No. 12) 2009 | 18 Aug 2009 p. 3237-8 | r. 1 and 2: 18 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2009 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 15) 2009 | 10 Sep 2009 p. 3539 | r. 1 and 2: 10 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2009 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
