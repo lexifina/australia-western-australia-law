@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 August 2009 of the Rights in Water and Irrigation Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rights in Water and Irrigation Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Rights in Water and Irrigation Regulations 2000 | 10 Jan 2001 p. 165-210 | 10 Jan 2001 (see r. 2 and Gazette 10 Jan 2001 p. 163)
@@ -14,6 +14,7 @@ Rights in Water and Irrigation Amendment Regulations (No. 3) 2007 | 28 Dec 2007 
 Rights in Water and Irrigation Amendment Regulations 2008 | 4 Apr 2008 p. 1312-13 | r. 1 and 2: 4 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Apr 2008 (see r. 2(b))
 Rights in Water and Irrigation Amendment Regulations 2009 | 23 Jun 2009 p. 2495-501 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jun 2009 (see r. 2(b))
 Reprint 2: The Rights in Water and Irrigation Regulations 2000 as at 7 Aug 2009 (includes amendments listed above)
+Rights in Water and Irrigation Amendment Regulations (No. 2) 2009 | 15 Sep 2009 p. 3599-604 | r. 1 and 2: 15 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Sep 2009 (see r. 2(b))
 These regulations have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is given by the Water Agencies (Powers) Act 1984 s. 37.
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
 Disallowed 22 Nov 2007 see Gazette 27 Nov 2007 p. 5910.

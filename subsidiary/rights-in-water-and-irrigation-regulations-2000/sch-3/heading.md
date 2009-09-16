@@ -16,20 +16,84 @@ Declaration by applicant | I,................................apply for a licence
 [Form 1 amended in Gazette 23 Jun 2009 p. 2500.]
 Form 2
 [r. 39]
-Rights in Water and Irrigation Act 1914
-Water Agencies (Powers) Act 1984
+Rights in Water and Irrigation Act 1914 Water Agencies (Powers) Act 1984
 Information to be provided under the Rights in Water and Irrigation Act 1914 s. 26E after constructing or deepening a non-artesian well
-Name and address of licensee ................................................................................
-Location of well, stating local government district and lot or location No. ................................................................................................................................
-Diameter and length of casings inserted, and whether whole or perforated ................................................................................................................................
-If perforated, the sizes and lengths, with the position of each perforated length in the well .............................................................................................................
-The depth reached in the well ...............................................................................
-The depth from the surface, with the thickness and character of each of the different beds of strata pierced ..............................................................................
-Particulars of water struck (if any), whether salt, brackish, or fresh, and the depths from the surface at which each water-bearing bed was struck ................................................................................................................................................................................................................................................................
-Also the height below ground level to which the water will rise in the casing ................................................................................................................................
-I, ...................................................... of .................................................................. in the State of Western Australia, being the holder of a licence for the construction, enlargement, deepening, or alteration of a non-artesian well situated at ......................................................................................... in the local government district of ......................................... the ............................................ hereby forward the statement under section 26E of the Rights in Water and Irrigation Act 1914 in respect of this work.
-................................................. Signature of Licensee
-[Form 2 amended in Gazette 23 Jun 2009 p. 2500.]
+Part 1: Details of any licence granted for the work under the Rights in Water and Irrigation Act 1914 section 26D
+Licence No:
+Licensee’s full name
+Part 2: Details of the person who carried out the work
+Company, corporate, trading or business name of person who carried out the work (Full name)
+Driller’s name (Full name) | ........................................................................................................
+Postal Address: | ........................................................................................................
+Business Phone: | ........................................................................................................
+Business Fax: | ........................................................................................................
+Mobile Phone: | ........................................................................................................
+Email: | ........................................................................................................
+Part 3: Location of well
+Property address of well
+Well coordinates: | £ GPS reading£ Estimate
+Zone |  | Easting/ Latitude |  | Northing/ Longitude
+ |  | Datum |  | GPS reliability
+Location plan: please sketch below a plan showing the position of the well in relation to buildings, boundaries, roads, nearest cross roads and any other features or information to assist in locating the well.*
+Part 4: Construction details Note: All measurements to be taken from ground level.
+Well construction diagram: please sketch below a diagram showing the construction of the well.*
+Production casing details
+Material | Nominal bore | Diameter O.D (mm) | Wall thickness (mm) | Depth
+From (m) | To (m)
+Screens/slots
+Screens/slot (Type) | Diameter O.D (mm) | Aperture (mm) | Top of screen (m) | Bottom of screen (m)
+Gravel pack details
+Gravel size (mm) | From (m) | To (m)
+Annular fill
+Material Type | From (m) | To (m)
+Cementing detail
+£ Pressure cement grouted£ Tremmie
+Casing diameter (mm O.D) | Depth
+From (m) | To (m)
+Total depth drilled (from ground level) |  | Geophysical log required as condition of licence? | £ Yes £ No | Geophysical log taken? (If so, attach log and contractor details) | £ Yes £ No
+From (m) | To (m) | Strata description.*
+Part 5: Particulars of well
+Well name / number
+Drilling start |  | Drilling completion
+1.Drilling start date refers to the date drilling begins. Do not include set up date. | 2.Drilling completion date includes well development and testing.
+Drilling method used | £ Rotary air£ Cable tool£ Auger£ Rotary mud £ Sludge£ Other (specify) _____________________
+Final status of well | £ Ready to operate£ Decommissioned £ Other (specify) __________________________________
+Purpose (use) of well | £ Production£ Investigation£ Monitoring £ Other (specify) __________________________________
+Part 6: Well development
+Date (dd/mm/yy) |  | Duration of development | ................ hours
+Method | £ Airlift£ Pump£ Jetting£ Surging
+Development pump rate (e.g. L/s, m3/day)
+Part 7: Pump testing (If applicable)
+Date start (dd/mm/yy) |  | Date end (dd/mm/yy) |  | Duration of test | ........... hours
+£ Step test £ Constant rate £ Other
+Constant rate - Pump rate (e.g. m3/day) |  | Pump type (e.g. submersible)
+ | Water rest level prior to test (m)
+Measurements taken from £ Top of casing (TOC)£ Ground level (GL) £ Other (specify) __________________________
+Elevation of measurement reference point if known (metres AHD) | £ GPS£ Estimate £ Other (specify) ________________________
+Final drawdown | m | Recommended supply (e.g. m3/day)
+Final drawdown is the distance between the static water level measured prior to the test and the water level measured at the end of the pumping test.
+Comments ...............................................................................................................
+Part 8: Field samples
+Collection method (e.g. pump test, airlift)
+Conductivity (e.g. mS/m) |  | £ Temperature compensated £ Temperature uncompensated | pH
+Water temperature at test
+Comments ...............................................................................................................
+Part 9: Lab samples
+Lab samples taken (Please attach) | £ Yes £ No | TDS (e.g. mg/l) |  | Please submit samples separately to form if not received before the one month submission deadline.
+Part 10: Water levels
+SWL (Static water level) | m | Water cut at | m
+Measurements taken from | £ Top of casing (TOC)£ Ground level (GL) £ Other (specify) _______________________________
+Date of reading (dd/mm/yy)
+Comments ...............................................................................................................
+Part 11: Declaration and signature
+Capacity of person making declaration [tick one box] | An individual who carried out the work. An officer who is a director or secretary of a corporation that carried out the work. other [describe]
+I, ______(name of person making declaration) declare that the information provided on this form is true and correct.
+__________________________________
+Signature of person making declaration
+_____________________
+Date
+* If there is insufficient space, please use, and attach, a separate page.
+[Form 2 inserted in Gazette 15 Sep 2009 p. 3599-604.]
 Form 3
 [r. 53]
 Water Agencies (Powers) Act 1984 s. 103(2)
