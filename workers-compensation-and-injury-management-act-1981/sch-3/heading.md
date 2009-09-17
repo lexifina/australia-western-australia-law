@@ -30,4 +30,4 @@ Extrinsic allergic alveolitis caused by the inhalation of organic dusts | Any pr
 Diseases caused by alcohols, glycols or ketones | Any process entailing exposure to alcohols, glycols or ketones.
 Diseases caused by the asphyxiants carbon monoxide, hydrogen cyanide or its toxic derivatives or hydrogen sulfide | Any process in which carbon monoxide, hydrogen cyanide or its toxic derivatives or hydrogen sulfide is used.
 * See section 48(2)
-[Schedule 3 amended by No. 44 of 1985 s. 43; No. 48 of 1993 s. 42.]
+[Schedule 3 amended by No. 44 of 1985 s. 43; No. 48 of 1993 s. 42; (see Orders made under s. 45).]
