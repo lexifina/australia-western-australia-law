@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 August 2009 of the Vocational Education and Training Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Vocational Education and Training Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Vocational Education and Training Act 1996 | 42 of 1996 | 16 Oct 1996 | s. 1 and 2: 16 Oct 1996; Act other than s. 1 and 2, Pt. 7 and Sch. 2: 1 Jan 1997 (see s. 2 and Gazette 12 Nov 1996 p. 6301)
@@ -11,7 +11,8 @@ Reprint of the Vocational Education and Training Act 1996 as at 11 Jan 2002 (inc
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and Sch. 1 cl. 174 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Training Legislation Amendment and Repeal Act 2008 Pt. 2 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
 Reprint 2: The Vocational Education and Training Act 1996 as at 7 Aug 2009 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Acts Amendment (Bankruptcy) Act 2009 s. 88 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+On the date as at which this was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2)
@@ -27,7 +28,7 @@ Despite the repeal of sections 9A(5)(c) and 27C(3) of the Education Act 1928, se
 (4) In this section —
 Education Minister means the Minister in whom the administration of the Education Act 1928 is for the time being committed by the Governor;
 Vocational Education and Training Minister means the Minister in whom the administration of the Vocational Education and Training Act 1996 is for the time being committed by the Governor.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed

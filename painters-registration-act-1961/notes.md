@@ -29,6 +29,7 @@ Land Information Authority Act 2006 s. 119 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Reprint 4: The Painters’ Registration Act 1961 as at 22 Feb 2008 (includes amendments listed above)
 Training Legislation Amendment and Repeal Act 2008 s. 58 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 97 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Acts Amendment (Bankruptcy) Act 2009 s. 61 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Lands Titles Office plans and diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 The Painters’ Registration Amendment Act 1983 s. 3(2) and (3) and 13(2) are transitional provisions.

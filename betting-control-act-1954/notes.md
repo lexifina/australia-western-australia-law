@@ -52,6 +52,7 @@ Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 20
 Racing, Wagering and Betting Legislation Amendment and Repeal Act 2007 Pt. 2 | 8 of 2007 | 13 Jun 2007 | 14 Jun 2007 (see s. 2)
 Reprint 9: The Betting Control Act 1954 as at 17 Aug 2007 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 25 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Acts Amendment (Bankruptcy) Act 2009 s. 11 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Betting) Act 1992.
 The Betting Control Amendment Act 1998 s. 5(2) and (3) read as follows:
 “

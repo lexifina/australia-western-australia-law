@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 July 2008 of the Credit (Administration) Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Credit (Administration) Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Credit (Administration) Act 1984 | 100 of 1984 | 19 Dec 1984 | s. 1 and 2: 19 Dec 1984; Act other than s. 1, 2 and 6-8: 1 Mar 1985 (see s. 2 and Gazette 22 Feb 1985 p. 657); s. 6-8: 30 Apr 1985 (see s. 2 and Gazette 19 Apr 1985 p. 1381)
@@ -24,7 +24,8 @@ Pawnbrokers and Second-hand Dealers Amendment Act 2006 s. 23 | 46 of 2006 | 4 Oc
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 4 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 4: The Credit (Administration) Act 1984 as at 11 Jul 2008 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Acts Amendment (Bankruptcy) Act 2009 s. 25 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 23 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
@@ -93,7 +94,7 @@ commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
-On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 23 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 23 had not come into operation. It reads as follows:
 “
 23.Credit (Administration) Act 1984 amended
 (1) The amendment in this section is to the Credit (Administration) Act 1984.

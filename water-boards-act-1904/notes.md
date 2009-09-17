@@ -55,6 +55,7 @@ Compilation table
  | Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
  | Water Resources Legislation Amendment Act 2007 s. 201 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 131 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Acts Amendment (Bankruptcy) Act 2009 s. 89 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Now see Department within the meaning of the Transfer of Land Act 1893.
 Footnote no longer applicable.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources and its administrative head is called the Director General.

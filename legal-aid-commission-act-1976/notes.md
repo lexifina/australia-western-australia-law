@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 June 2009 of the Legal Aid Commission Act 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Legal Aid Commission Act 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Legal Aid Commission Act 1976 | 143 of 1976 | 13 Dec 1976 | 17 Jun 1977 (see s. 2 and Gazette 17 Jun 1977 p. 1812)
@@ -33,7 +33,8 @@ Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 96 | 77 of 2006 |
 Duties Legislation Amendment Act 2008 Sch. 1 cl. 19 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Legal Profession Act 2008 s. 674 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Reprint 5: The Legal Aid Commission Act 1976 as at 19 Jun 2009 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Acts Amendment (Bankruptcy) Act 2009 s. 50 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+On the date as at which this compilationwas prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
@@ -46,7 +47,7 @@ The Superannuation and Family Benefits Act 1938 was repealed by the State Supera
 The Legal Contribution Trust Act 1967 Pt. V was repealed by the Legal Contribution Trust Act Amendment Act 1976 s. 6.
 Repealed by the Public Employment (Consequential and Transitional) Amendment Act 1999 s. 3(1) of the Commonwealth (No. 146 of 1999).
 The amendment in the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 47(7) and (11) cannot be done as the section to be amended has already been amended by the Statutes (Repeals and Minor Amendments) Act 2003 s. 75(4).
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed

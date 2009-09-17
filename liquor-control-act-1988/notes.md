@@ -35,6 +35,7 @@ Liquor and Gaming Legislation Amendment Act 2006 Pt. 2 | 73 of 2006 | 13 Dec 200
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 5: The Liquor Control Act 1988 as at 3 Jul 2007 (includes amendments listed above except those in the Liquor and Gaming Legislation Amendment Act 2006 s. 78 and 83)
 Legal Profession Act 2008 s. 675 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+Acts Amendment (Bankruptcy) Act 2009 s. 51 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

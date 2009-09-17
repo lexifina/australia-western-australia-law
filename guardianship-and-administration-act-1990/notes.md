@@ -32,6 +32,7 @@ Medical Practitioners Act 2008 Sch. 3 cl. 22 | 22 of 2008 | 27 May 2008 | 1 Dec 
 Surrogacy Act 2008 Pt. 4 Div. 4 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
 Reprint 4: The Guardianship and Administration Act 1990 as at 6 Feb 2009 (includes amendments listed above except those in the Legal Profession Act 2008 and the Surrogacy Act 2008)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 68 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Acts Amendment (Bankruptcy) Act 2009 s. 38 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

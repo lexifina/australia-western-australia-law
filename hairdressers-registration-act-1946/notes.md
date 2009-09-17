@@ -15,6 +15,7 @@ Compilation table
  | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
  | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 57 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 69 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Acts Amendment (Bankruptcy) Act 2009 s. 39 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Repealed by the Industrial Arbitration Act 1979 s. 4 which is now called the Industrial Relations Act 1979.
 i.e. 40 kilometres.
 See Gazettes — 6 May 1966 p. 1094; 19 August 1966 p. 2237; 28 April 1967 p. 1057; 14 July 1967 p. 1809 and 13 August 1971 p. 2970.

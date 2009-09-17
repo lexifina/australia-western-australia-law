@@ -38,6 +38,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 6: The Dental Act 1939 as at 11 Nov 2005 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 452(1) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Acts Amendment (Bankruptcy) Act 2009 s. 29 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 See Gazette 17 August 1979 p. 2483.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
 Repealed by the Public Service Act 1978, which has since been repealed by the Public Sector Management Act 1994.

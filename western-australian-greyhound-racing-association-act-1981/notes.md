@@ -12,6 +12,7 @@ Statutes (Repeals and Minor Amendments) Act 2000 s. 46 | 24 of 2000 | 4 Jul 2000
 Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 12 Div. 1 | 35 of 2003 | 26 Jun 2003 | s. 195-206, 207(1)(a) and (2), 208-218: 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259); s. 207(1)(b): 30 Jan 2004 (see s. 2 and Gazette 30 Jan 2004 p. 397)
 Reprint 2: The Western Australian Greyhound Racing Association Act 1981 as at 10 Feb 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Acts Amendment (Bankruptcy) Act 2009 s. 91 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 The Western Australian Greyhound Racing Association Amendment Act 1998 s. 16(2), (3) and (4) read as follows:
 “
 (2) The body renamed as the Western Australian Greyhound Racing Authority by subsection (1) is the same body as the Western Australian Greyhound Racing Association previously established under section 5 of the principal Act.

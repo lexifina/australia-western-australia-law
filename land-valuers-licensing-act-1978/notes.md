@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 July 2009 of the Land Valuers Licensing Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Valuers Licensing Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Valuers Licensing Act 1978 | 55 of 1978 | 6 Sep 1978 | 1 Jul 1979 (see s. 2 and Gazette 22 Jun 1979 p. 1677)
@@ -18,6 +18,7 @@ Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 6 | 69 of 2006
 Criminal Law and Evidence Amendment Act 2008 s. 65 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Legal Profession Act 2008 s. 671 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Reprint 3: The Land Valuers Licensing Act 1978 as at 17 Jul 2009 (includes amendments listed above)
+Acts Amendment (Bankruptcy) Act 2009 s. 49 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 The Land Valuers Licensing Amendment Act 1984 s. 4(2) and 6(2) are transitional provisions that are of no further effect.
 The Business Licensing Amendment Act 1995 s. 32 is a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.

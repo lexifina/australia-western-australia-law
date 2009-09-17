@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 March 2009 of the Criminal Property Confiscation Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Property Confiscation Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Property Confiscation Act 2000 | 68 of 2000 | 6 Dec 2000 | s. 1 and 2: 6 Dec 2000; Act other than s. 1 and 2: 1 Jan 2001 (see s. 2 and Gazette 29 Dec 2000 p. 7903)
@@ -14,12 +14,13 @@ Road Traffic Amendment Act 2007 s. 26 | 4 of 2007 | 11 Apr 2007 | 1 May 2007 (se
 Criminal Law and Evidence Amendment Act 2008 s. 61 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Medical Practitioners Act 2008 Sch. 3 cl. 17 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 2: The Criminal Property Confiscation Act 2000 as at 20 Mar 2009 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Acts Amendment (Bankruptcy) Act 2009 s. 27 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 25 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
-On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 25 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 25 had not come into operation. It reads as follows:
 “
 25.Criminal Property Confiscation Act 2000 amended
 (1) The amendment in this section is to the Criminal Property Confiscation Act 2000.

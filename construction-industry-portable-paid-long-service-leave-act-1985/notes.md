@@ -19,6 +19,7 @@ Reprint 2: The Construction Industry Portable Paid Long Service Leave Act 1985 a
 Labour Relations Legislation Amendment Act 2006 Pt. 7 Div. 1 | 36 of 2006 | 4 Jul 2006 | 1 Oct 2006 (see s. 2(2))
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 39 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Acts Amendment (Bankruptcy) Act 2009 s. 21 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Footnote no longer applicable.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 The Construction Industry Portable Paid Long Service Leave Amendment Act 1989 s. 13 and 14 read as follows:

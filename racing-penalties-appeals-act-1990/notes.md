@@ -19,6 +19,7 @@ Reprint 2: The Racing Penalties (Appeals) Act 1990 as at 18 Aug 2006 (includes a
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Racing and Wagering Legislation Amendment Act 2007 Pt. 3 | 2 of 2007 | 28 Mar 2007 | 1 Jul 2007 (see s. 2)
 Legal Profession Act 2008 s. 695 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+Acts Amendment (Bankruptcy) Act 2009 s. 72 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 and Pt. 11 Div. 2 read as follows:
 “

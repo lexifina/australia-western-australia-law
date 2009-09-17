@@ -20,6 +20,7 @@ Compilation table
  | Criminal Law Amendment (Homicide) Act 2008 s. 26 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
  | Reprint 3: The Corruption and Crime Commission Act 2003 as at 10 Oct 2008 (includes amendments listed above, except those in the Medical Practitioners Act 2008 s. 162 and the Legal Profession Act 2008)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 41 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+ | Acts Amendment (Bankruptcy) Act 2009 s. 23 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003.
 Now called the Telecommunications (Interception and Access) Act 1979 (Commonwealth).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.

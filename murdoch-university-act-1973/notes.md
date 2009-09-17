@@ -32,6 +32,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 2: The Murdoch University Act 1973 as at 1 Jul 2005 (includes amendments listed above)
 Universities Legislation Amendment Act 2005 Pt. 4 | 8 of 2005 | 7 Jul 2005 | 13 Aug 2005 (see s. 2 and Gazette 12 Aug 2005 p. 3651)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Acts Amendment (Bankruptcy) Act 2009 s. 58 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Now see the Interpretation Act 1984 s. 60.
 Now see the Interpretation Act 1984 Pt. VI.
 The Murdoch University Amendment Act 1980 s. 5 is a validation provision that is of no further effect.

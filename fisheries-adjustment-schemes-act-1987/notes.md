@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 April 2007 of the Fisheries Adjustment Schemes Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fisheries Adjustment Schemes Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fisheries Adjustment Schemes Act 1987 | 57 of 1987 | 5 Nov 1987 | 1 Jul 1988 (see s. 2 and Gazette 17 Jun 1988 p. 1947)
@@ -17,6 +17,7 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 1 | 28 of
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Fisheries Adjustment Schemes Act 1987 as at 6 April 2007 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 61 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Acts Amendment (Bankruptcy) Act 2009 s. 37 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 5 is a transitional provision that is of no further effect.

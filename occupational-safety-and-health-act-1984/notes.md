@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 December 2008 of the Occupational Safety and Health Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Occupational Safety and Health Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Occupational Health, Safety and Welfare Act 1984 | 101 of 1984 | 19 Dec 1984 | s. 1 and 2: 19 Dec 1984; Act other than s. 1 and 2; 4 Apr 1985 (see s. 2 and Gazette 4 Apr 1985 p. 1241)
@@ -29,6 +29,7 @@ Petroleum Amendment Act 2007 s. 101 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (se
 Police Amendment Act 2008 s. 15 and s. 23(5) | 8 of 2008 | 31 Mar 2008 | s. 15: 1 Apr 2008 (see s. 2(1)); s. 23(5): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Training Legislation Amendment and Repeal Act 2008 s. 57 | 44 of 2998 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
 Reprint 6: The Occupational Safety and Health Act 1984 as at 19 Dec 2008 (includes amendments listed above except those in the Training Legislation Amendment and Repeal Act 2008)
+Acts Amendment (Bankruptcy) Act 2009 s. 60 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

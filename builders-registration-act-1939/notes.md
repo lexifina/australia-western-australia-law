@@ -65,6 +65,7 @@ Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 2 | 69 of 2006
 Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 14 | 11 of 2007 | 29 Jun 2007 | 1 Jul 2008 (see s. 2 and Gazette 6 Jun 2008 p. 2179)
 Reprint 12: The Builders’ Registration Act 1939 as at 12 Sep 2008 (includes amendments listed above)
 Legal Profession Act 2008 s. 641 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+ | Acts Amendment (Bankruptcy) Act 2009 s. 13 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

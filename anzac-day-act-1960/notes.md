@@ -21,3 +21,4 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 3: The Anzac Day Act 1960 as at 15 Sep 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Acts Amendment (Bankruptcy) Act 2009 s. 10 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))

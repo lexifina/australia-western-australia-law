@@ -62,6 +62,7 @@ Legal Profession Act 2008 s. 713 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Medical Practitioners Act 2008 Sch. 3 cl. 54 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 8: The Workers’ Compensation and Injury Management Act 1981 as at 8 May 2009 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 139 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Acts Amendment (Bankruptcy) Act 2009 s. 94 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -407,6 +408,17 @@ Section 5(1) | (a)After the definition of “industrial disease premium”, inse
 Section 162(1) | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
 Section 163 | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
 [Item 16 amended by No. 42 of 2004 s. 155(2)(a).]
+Under s.45 the following order in council was published in Gazette 19 Jun 2009 p. 2253:
+Workers’ Compensation and Injury Management Act 1981
+Workers’ Compensation and Injury Management (Specified Industrial Diseases) Order 2008
+Made by the Governor in Executive Council under section 45 of the Act.
+1.Citation
+This order is the Workers’ Compensation and Injury Management (Specified Industrial Diseases) Order 2008.
+2.Addition to Schedule 3
+The disease and the process named in the Table are included in Schedule 3.
+Column 1 Description of Disease | Column 2 Description of Process
+Pleural plaques (diffuse pleural fibrosis) | Any process entailing substantial exposure to asbestos dust.
+Note:In accordance with section 45(2) of the Act this order takes effect on the expiration of 3 months from the date of publication in the Gazette.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

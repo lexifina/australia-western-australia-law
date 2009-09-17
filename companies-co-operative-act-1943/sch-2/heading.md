@@ -118,12 +118,13 @@ Disqualification of Directors
 73.The office of director shall be vacated if the director —
 (a)ceases to be a director by virtue of section 147 of the Act; or
 (b)without the consent of the company in general meeting holds any other office of profit under the company except that of managing director or manager; or
-(c)becomes bankrupt or takes the benefit whether by assignment, composition or otherwise of any law relating to bankrupt or insolvent debtors; or
+(c)becomes bankrupt; or
 (d)becomes prohibited from being a director by reason of any order made under section 226 or 281 of the Act; or
 (e)is found lunatic or becomes of unsound mind; or
 (f)resigns his office by notice in writing to the company; or
 (g)is directly or indirectly interested in any contract with the company or participates in the profits of any contract with the company.
 Provided, however, that a director shall not vacate his office by reason of his being a member of any corporation or firm which has entered into any contract with or done work for the company if he shall have declared the nature of his interest in manner required by section 154 of the Act; but the director shall not vote in respect of any such contract or work or any matter arising thereout, and if he does so vote his vote shall not be counted.
+[Regulation 73 amended by No. 18 of 2009 s. 18(4).]
 Rotation of Directors
 74.At the first ordinary general meeting of the company the whole of the directors shall retire from office, and at the ordinary general meeting in every subsequent year one-third of the directors for the time being, or if their number is not 3 or a multiple of 3, then the number nearest one-third, shall retire from office.
 75.The directors to retire in every year shall be those who have been longest in office since their last election, but as between persons who become directors on the same day those to retire shall (unless they otherwise agree among themselves) be determined by lot.

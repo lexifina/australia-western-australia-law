@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 February 2007 of the Partnership Act 1895 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Partnership Act 1895 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 The Partnership Act 1895 | 1895 (59 Vict. No. 23) | 2 Oct 1895 | 1 Oct 1895 (see s. 2)
@@ -14,4 +14,5 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 144(1) | 74 of 2003 | 15 Dec
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Partnership Amendment Act 2005 | 3 of 2005 | 1 Jun 2005 | 29 Jun 2005
 Reprint 5: The Partnership Act 1895 as at 9 Feb 2007 (includes amendments listed above)
+Acts Amendment (Bankruptcy) Act 2009 s. 63 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Now known as the Partnership Act 1895; short title changed (see note under s. 1).

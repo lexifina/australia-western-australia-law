@@ -45,6 +45,7 @@ Compilation table
  | Parliamentary Legislation Amendment Act 2006 Pt. 3 | 56 of 2006 | 16 Nov 2006 | 17 Nov 2006 (see s. 2)
  | Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 114 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Acts Amendment (Bankruptcy) Act 2009 s. 78 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 The provision in this Act repealing the Parliamentary Salaries and Allowances Act 1967 was repealed by the Parliamentary Superannuation Legislation Amendment Act 2000 s. 22.
 Now see section 52 of the Interpretation Act 1984.
 The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
