@@ -13,6 +13,7 @@ Acts Amendment (Justice) Act 2008 Pt. 15 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008
 Legal Profession Act 2008 s. 677 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 Sch. 3 cl. 32 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 2: The Magistrates Court Act 2004 as at 15 May 2009 (includes amendments listed above)
+Acts Amendment (Bankruptcy) Act 2009 s. 55 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

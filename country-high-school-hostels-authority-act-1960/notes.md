@@ -20,6 +20,7 @@ School Education Act 1999 s. 247 | 36 of 1999 | 2 Nov 1999 | 1 Jan 2001 (see s. 
 Statutes (Repeals and Minor Amendments) Act 2000 s. 10 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
 Reprint of the Country High School Hostels Authority Act 1960 as at 15 Feb 2002 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Acts Amendment (Bankruptcy) Act 2009 s. 24 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Repealed by the School Education Act 1999 s. 246(1).
 Repealed by the Industrial Arbitration Act 1979 s. 4, the short title of which was changed to the Industrial Relations Act 1979 by the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984.
 Repealed by the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984 s. 83(c).

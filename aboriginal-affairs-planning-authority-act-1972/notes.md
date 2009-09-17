@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 May 2009 of the Aboriginal Affairs Planning Authority Act 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Aboriginal Affairs Planning Authority Act 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Aboriginal Affairs Planning Authority Act 1972 | 24 of 1972 | 9 Jun 1972 | 1 Jul 1972 (see s. 2 and Gazette 30 Jun 1972 p. 2099)
@@ -29,6 +29,7 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 11 Div. 1 | 28 o
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 1 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Petroleum Amendment Act 2007 s. 88 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Reprint 4: The Aboriginal Affairs Planning Authority Act 1972 as at 8 May 2009 (includes amendments listed above)
+Acts Amendment (Bankruptcy) Act 2009 s. 6 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 The provision in this Act repealing the Native Welfare Act 1963 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Mining Act 1978.
 Repealed by the Land Administration Act 1997.

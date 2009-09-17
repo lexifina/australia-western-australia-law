@@ -9,6 +9,7 @@ Trustees Amendment Act 1997 s. 18 | 1 of 1997 | 6 May 1997 | 16 Jun 1997 (see s.
 Acts Amendment (Land Administration) Act 1997 Pt. 61 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
 Reprint of the Uniting Church in Australia Act 1976 as at 6 Sep 2002 (includes amendments listed above)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Acts Amendment (Bankruptcy) Act 2009 s. 85 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 9 November 1979 (see Gazette 9 November 1979 p. 3491).
 Repealed by s. 3 of this Act.
 Associations Incorporation Act 1895 repealed by the Associations Incorporation Act 1987.

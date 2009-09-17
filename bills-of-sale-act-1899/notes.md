@@ -41,6 +41,7 @@ Reprint of the Bills of Sale Act 1899 as at 24 Aug 2001 (includes amendments lis
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 5 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Acts Amendment (Bankruptcy) Act 2009 s. 12 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 The Bills of Sale Amendment Act 1986 s. 6 reads as follows:
 “

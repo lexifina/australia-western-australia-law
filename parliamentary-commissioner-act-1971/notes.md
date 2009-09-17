@@ -106,6 +106,7 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 8: The Parliamentary Commissioner Act 1971 as at 3 Oct 2008 (includes amendments listed above)
 Parliamentary Commissioner Amendment Act 2009 s. 3-10 | 10 of 2009 | 29 Jun 2009 | 30 Jun 2009 (see s. 2(b))
+Acts Amendment (Bankruptcy) Act 2009 s. 62 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

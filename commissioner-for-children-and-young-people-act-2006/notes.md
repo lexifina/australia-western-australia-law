@@ -4,6 +4,7 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 | 48 of 2006 | 4 Oct 2006 | s. 1 and 2: 4 Oct 2006; Act other than s. 1 and 2 and Sch. 1 cl. 2 and 3: 10 Dec 2007 (see s. 2 and Gazette 23 Nov 2007 p. 5861)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Acts Amendment (Bankruptcy) Act 2009 s. 17 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement

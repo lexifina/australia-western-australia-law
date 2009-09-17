@@ -151,6 +151,7 @@ Acts Amendment (Justice) Act 2008 s. 129 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 4 | 25 of 2008 | 19 Jun 2008 | 27 Jun 2009 (see s. 2 and Gazette 26 Jun 2009 p. 2565)
 Criminal Law Amendment (Homicide) Act 2008 Pt. 2 and s. 27 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Reprint 14: The Criminal Code Act Compilation Act 1913 as at 3 Oct 2008 (includes amendments listed above except those in the Acts Amendment (Consent to Medical Treatment) Act 2008)
+Acts Amendment (Bankruptcy) Act 2009 s. 26 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

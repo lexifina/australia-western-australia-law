@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 November 2008 of the Subiaco Redevelopment Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Subiaco Redevelopment Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Subiaco Redevelopment Act 1994 | 35 of 1994 | 8 Jul 1994 | s. 1 and 2: 8 Jul 1994; Act other than s. 1 and 2: 24 Aug 1994 (see s. 2 and Gazette 23 Aug 1994 p. 4364)
@@ -21,6 +21,7 @@ Subiaco Redevelopment (Subtracted Area - Stage 2) Regulations 2006 r. 3 publishe
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Reprint 3: The Subiaco Redevelopment Act 1994 as at 21 Nov 2008 (includes amendments listed above)
+Acts Amendment (Bankruptcy) Act 2009 s. 83 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(1), a reference in a written law to the Public Service Act 1978 is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The Planning Legislation Amendment Act 1996 s. 39(2), (3) and (4) read as follows:
 “

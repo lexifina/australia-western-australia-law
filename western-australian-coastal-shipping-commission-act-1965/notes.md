@@ -13,6 +13,7 @@ Reprint of the Western Australian Coastal Shipping Commission Act 1965 as at 8 M
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 13 Div 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 134 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Acts Amendment (Bankruptcy) Act 2009 s. 90 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 On the date on which this compilation was prepared, provisions referred to in the following table had not come into operation and are therefore not included in this compilation. For the text of the provisions see the endnote referred to after the short title.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

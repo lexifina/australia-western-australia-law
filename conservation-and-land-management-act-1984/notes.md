@@ -51,6 +51,7 @@ Petroleum Amendment Act 2007 s. 92 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see
 Water Resources Legislation Amendment Act 2007 s. 191 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 7: The Conservation and Land Management Act 1984 as at 4 Apr 2008 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 34 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Acts Amendment (Bankruptcy) Act 2009 s. 19 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

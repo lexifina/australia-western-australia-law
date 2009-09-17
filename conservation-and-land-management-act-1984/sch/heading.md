@@ -4,9 +4,10 @@
 1.(1)Except as otherwise provided by this Act a member shall hold office for such term, being not more than 3 years, as is specified in his instrument of appointment, but he may from time to time be reappointed.
 (2) A member, unless he sooner resigns or is removed from office, shall continue in office until his successor comes into office, notwithstanding that the term for which he was appointed may have expired.
 2.The office of a member becomes vacant if —
-(a) he resigns his office by written notice addressed to the Minister;
-(b) he is an undischarged bankrupt or a person whose property is subject to an order or arrangement under the laws relating to bankruptcy; or
+(a) he resigns his office by written notice addressed to the Minister; or
+(b) he is, according to the Interpretation Act 1984 section 13D, a bankrupt or a person whose affairs are under insolvency laws; or
 (c) he is removed from office by the Governor on the grounds of neglect of duty, misbehaviour, incompetence or mental or physical incapacity impairing the performance of his duties.
+[Clause 2 amended by No. 18 of 2009 s. 19.]
 3.(1)Where the chairman and the deputy chairman of a controlling body are both unable to act as chairman by reason of sickness, absence or other cause, the Minister may appoint a person (including a person acting under subclause (2)) to act as chairman, and while so acting according to the tenor of his appointment that person has all the functions of the chairman.
 (2) Where a member is unable to act by reason of sickness, absence or other cause, the Minister may appoint another person to act in his place, and while so acting according to the tenor of his appointment that other person is deemed to be a member.
 [(3)deleted]
@@ -30,4 +31,4 @@
 6.A resolution in writing signed or assented to by letter, telegram or telex by each member shall be as valid and effectual as if it had been passed at a meeting of a controlling body.
 7.A controlling body may grant leave of absence to a member on such terms and conditions as it thinks fit.
 8.Subject to this Act, a controlling body shall determine its own procedures.
-[Schedule amended by No. 73 of 1995 s. 188; No. 5 of 1997 s. 38; No. 35 of 2000 s. 49.]
+[Schedule amended by No. 73 of 1995 s. 188; No. 5 of 1997 s. 38; No. 35 of 2000 s. 49; No. 18 of 2009 s. 19.]

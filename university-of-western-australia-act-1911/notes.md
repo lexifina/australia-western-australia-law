@@ -41,6 +41,7 @@ Universities Legislation Amendment Act 2005 Pt. 6 | 8 of 2005 | 7 Jul 2005 | 13 
 Reprint 4: The University of Western Australia Act 1911 as at 18 Nov 2005 (includes amendments listed above)
 Statute Law Revision Act 2006 s. 9 | 37 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Acts Amendment (Bankruptcy) Act 2009 s. 86 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Repealed by Interpretation Act 1984 s. 77(1).
 The Acts Amendment (Student Guilds and Associations) Act 1983 s. 7 reads as follows:
 “

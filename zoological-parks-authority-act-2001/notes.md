@@ -11,4 +11,5 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 6 | 28 of
 Reprint 1: The Zoological Parks Authority Act 2001 as at 20 Oct 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 141 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Acts Amendment (Bankruptcy) Act 2009 s. 95 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 The provisions of this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).

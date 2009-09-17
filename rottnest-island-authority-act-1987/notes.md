@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 October 2008 of the Rottnest Island Authority Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rottnest Island Authority Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Rottnest Island Authority Act 1987 | 91 of 1987 | 9 Dec 1987 | s. 1 and 2: 9 Dec 1987; Act other than s. 1 and 2: 30 May 1988 (see s. 2 and Gazette 30 May 1988 p. 1823)
@@ -16,6 +16,7 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 106 | 74 of 2003 | 15 Dec 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Rottnest Island Authority Act 1987 as at 10 Oct 2008 (includes amendments listed above)
+Acts Amendment (Bankruptcy) Act 2009 s. 77 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Department of Land Administration plans and diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Public Sector Management Act 1994 s. 110.

@@ -15,6 +15,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 3: The Veterinary Surgeons Act 1960 as at 8 Jul 2005 (includes amendments listed above)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 129 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Acts Amendment (Bankruptcy) Act 2009 s. 87 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

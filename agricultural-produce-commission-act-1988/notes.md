@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 May 2009 of the Agricultural Produce Commission Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Agricultural Produce Commission Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Horticultural Produce Commission Act 1988 | 75 of 1988 | 23 Dec 1988 | s. 1 and 2: 23 Dec 1988; Act other than s. 1 and 2: 1 Sep 1989 (see s. 2 and Gazette 1 Sep 1989 p. 3017)
@@ -13,7 +13,8 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 3 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Agricultural Produce Commission Act 1988 as at 1 May 2009 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Acts Amendment (Bankruptcy) Act 2009 s. 7 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 63 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
@@ -31,7 +32,7 @@ The Horticultural Produce Commission Amendment Act 2000 s. 32 and 34 read as fol
 (b) the name of the committee is deemed to have “Producers’” substituted for “Growers’”.
 (3) If the procedure for establishing a growers’ committee under the Horticultural Produce Commission Act 1988 has been initiated but has not been completed before the commencement of this Act, that procedure may continue to be followed and be completed after the commencement of this Act as if this Act had not come into operation but if a committee is established under that procedure it is established as a producers’ committee with a name containing “Producers’” instead of “Growers’”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 63 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 63 had not come into operation. It reads as follows:
 63.Agricultural Produce Commission Act 1988 amended
 (1) The amendment in this section is to the Agricultural Produce Commission Act 1988.
 (2) After section 12 the following section is inserted —

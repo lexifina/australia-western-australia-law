@@ -35,6 +35,7 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 13 | 28 o
 Reprint 7: The Hire-Purchase Act 1959 as at 18 Aug 2006 (includes amendments listed above)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 74 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Acts Amendment (Bankruptcy) Act 2009 s. 42 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “

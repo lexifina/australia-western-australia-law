@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 22 February 2008 of the Coal Miners’ Welfare Act 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Coal Miners’ Welfare Act 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Coal Miners’ Welfare Act 1947 | 70 of 1947 (11 and 12 Geo. VI No. 70) | 10 Jan 1948 | 1 Mar 1948 (see s. 1(1) and Gazette 27 Feb 1948 p. 461)
@@ -21,6 +21,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Coal Miners’ Welfare Amendment Act 2006 | 17 of 2006 | 17 May 2006 | 1 Jan 2007 (see s. 2)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 3: The Coal Miners’ Welfare Act 1947 as at 22 Feb 2008 (includes amendments listed above)
+Acts Amendment (Bankruptcy) Act 2009 s. 16 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
 The Coal Mines Legislation Amendment and Revival Act 1998 Pt. 3 reads as follows:
 “

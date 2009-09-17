@@ -11,6 +11,7 @@ Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 45 | 10 of 1998 | 30
 Reprint of the Local Government Grants Act 1978 as at 1 Mar 2002 (includes amendments listed above)
 Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Acts Amendment (Bankruptcy) Act 2009 s. 53 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Footnote no longer applicable.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to chief executive officer. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Local Government Grants Amendment Act 1988 s. 7 reads as follows:

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 July 2009 of the Human Reproductive Technology Act 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Human Reproductive Technology Act 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Human Reproductive Technology Act 1991 | 22 of 1991 | 8 Oct 1991 | s. 1 and 2: 8 Oct 1991; Pt. 1 Div. 1 other than s. 1 and 2, Pt. 2, Pt. 6 and Sch.: 6 Mar 1992 (see s. 2 and Gazette 6 Mar 1992 p. 1107); Pt. 1 Div. 2, Pt. 3-5: 8 Apr 1993 (see s. 2)
@@ -23,6 +23,7 @@ Medical Practitioners Act 2008 Sch. 3 cl. 28 | 22 of 2008 | 27 May 2008 | 1 Dec 
 Surrogacy Act 2008 Pt. 4 Div. 5 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 76 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 3: The Human Reproductive Technology Act 1991 as at 17 Jul 2009 (includes amendments listed above)
+Acts Amendment (Bankruptcy) Act 2009 s. 44 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendments to s. 29(3) in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 525(1)(c) are not included because it was unclear where it was intended to be made. Section 525(1)(c) reads as follows:
 (c) by deleting “it” after “as and after “provided”” and inserting instead —

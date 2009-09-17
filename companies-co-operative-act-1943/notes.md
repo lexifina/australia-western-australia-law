@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 August 2009 of the Companies (Co-operative) Act 1943 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Companies (Co-operative) Act 1943 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Companies Act 1943 | 36 of 1943 (7 Geo. VI No. 31) | 3 Dec 1943 | 29 Dec 1947 (see s. 1 and Gazette 7 Nov 1947 p. 2062)
@@ -57,7 +57,8 @@ Duties Legislation Amendment Act 2008 Sch. 1 cl. 3 | 12 of 2008 | 14 Apr 2008 | 
 Legal Profession Act 2008 s. 649 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Companies (Co-operative) (Fees) Regulations 2009 published in Gazette 23 Jun 2009 p. 2434-6 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 4: The Companies (Co-operative) Act 1943 as at 7 Aug 2009 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Acts Amendment (Bankruptcy) Act 2009 s. 18 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 21 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
@@ -71,7 +72,7 @@ Repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995 s
 Repealed by the Statute Law Revision Act 1967 s. 2.
 Repealed by the Business Names Act 1962 s. 3.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines was to be read and construed as a reference to the Department of Industry and Resources.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Industry and Resources is called the Department of Mines and Petroleum.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Industry and Resources is called the Department of Mines and Petroleum.
 Repealed by the Commercial Arbitration Act 1985 s. 3.
 Repealed by the Trustees Act 1962 s. 4.
 Known as The State Reference Library of Western Australia after the coming into operation of the Library Board of Western Australia Act Amendment Act 1974 on 29 Oct 1974.
@@ -118,7 +119,7 @@ In this Division —
 commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
-On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 21 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 21 had not come into operation. It reads as follows:
 21.Companies (Co-operative) Act 1943 amended
 (1) The amendments in this section are to the Companies (Co-operative) Act 1943.
 (2) Section 46(3a) is amended by deleting paragraph (a) and “or” after it.
