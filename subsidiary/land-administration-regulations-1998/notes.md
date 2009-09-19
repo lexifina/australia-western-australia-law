@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 28 August 2009 of the Land Administration Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Administration Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Land Administration Regulations 1998 | 27 Mar 1998 p. 1741-61 | 30 Mar 1998 (see r. 2 and Gazette 27 Mar 1998 p. 1765)
@@ -23,6 +23,7 @@ Land Administration Amendment Regulations 2007 | 22 Jun 2007 p. 2847-8 | 1 Jul 2
 Land Administration Amendment Regulations 2008 | 30 May 2008 p. 2072 | 1 Jul 2008 (see r. 2)
 Land Administration Amendment Regulations 2009 | 23 Jun 2009 p. 2482 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 3: The Land Administration Regulations 1998 as at 28 Aug 2009 (includes amendments listed above)
+Land Administration Amendment Regulations (No. 3) 2009 | 18 Sep 2009 p. 3619-22 | r. 1 and 2: 18 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2009 (see r. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 Published again in Gazette 19 Nov 2004 p. 5081 but amendment of 19 Nov 2004 has no effect.
 Defined Terms
