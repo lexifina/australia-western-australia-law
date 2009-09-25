@@ -3,19 +3,21 @@
 Form 1
 Declaration that a person is a small business or a non-profit association
 In the District Court of Western Australia | No. of 2
-Plaintiff:..................................................................................................
-Defendant:..................................................................................................
-Applicant: | ........................................................................................ Full name
- | ........................................................................................ Address
- | ........................................................................................ Name of small business
-........................................................................................ Position held by applicant in the small business
+Plaintiff:....................................................................................................
+Defendant:.....................................................................................................
+Applicant: | ........................................................................................... Full name
+ | ........................................................................................... Address
+ | ........................................................................................... Name of small business
+........................................................................................... Position held by applicant in the small business
 I declare that the person in respect of which the application is made is a small business or a non-profit association within the meaning of that term in the District Court (Fees) Regulations 2002.
 Signature of applicant:
 Date:
 Note: It is an offence under regulation 4(12) of the District Court (Fees) Regulations 2002 for a person to make a statement or representation in this declaration that the person knows or has reason to believe is false or misleading in a material particular. The maximum fine is $1 000.
-Under regulation 3 of the District Court (Fees) Regulations 2002 a small business is — an individual or individuals in partnership who wholly own and operate a business undertaking that has less than 20 full-time equivalent employees and partners; a corporation that has less than 20 full-time equivalent employees and that is not a subsidiary of a corporation that has 20 or more full-time equivalent employees;
+Under regulation 3 of the District Court (Fees) Regulations 2002 a small business is —
+an individual or individuals in partnership who wholly own and operate a business undertaking that has less than 20 full-time equivalent employees and partners;
+a corporation that has less than 20 full-time equivalent employees and that is not a subsidiary of a corporation that has 20 or more full-time equivalent employees;
 a company within the meaning of the Companies (Co-operative) Act 1943 that has less than 20 full-time equivalent employees and that is not, under section 130(1) of that Act, deemed to be a subsidiary company of another company or corporation that has 20 or more full-time equivalent employees; or a corporation within the meaning of the Statutory Corporations (Liability of Directors) Act 1996 that has less than 20 full-time equivalent employees and that is not a body that would be a subsidiary, if the corporation were a corporation to which the Corporations Act 2001 of the Commonwealth applies, of a corporation within the meaning of the Corporations Act 2001 of the Commonwealth or the Statutory Corporations (Liability of Directors) Act 1996 that has 20 or more full-time equivalent employees.
-Under regulation 3 of the District Court (Fees) Regulations 2002 a non profit association is a society, club, institution, or body that is not for the purpose of trading or securing pecuniary profit for its members from its transactions.
+Under regulation 3 of the District Court (Fees) Regulations 2002 a non-profit association is a society, club, institution, or body that is not for the purpose of trading or securing pecuniary profit for its members from its transactions.
 [Form 1 amended in Gazette 30 Dec 2003 p. 5707-8.]
 Form 2 Application to remit fees
 In the District Court of Western Australia | No. of 2
