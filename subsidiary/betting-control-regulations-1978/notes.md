@@ -50,3 +50,4 @@ Reprint 5: The Betting Control Regulations 1978 as at 24 Aug 2007 (includes amen
 Betting Control Amendment Regulations (No. 3) 2007 | 18 Sep 2007 p. 4716-18 | r. 1 and 2: 18 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2007 (see r. 2(b))
 Betting Control Amendment Regulations (No. 4) 2007 | 9 Oct 2007 p. 5348-50 | r. 1 and 2: 9 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2008 (see r. 2(b))
 Betting Control Amendment Regulations 2008 | 28 Oct 2008 p. 4732-3 | r. 1 and 2: 28 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2009 (see r. 2(b))
+Betting Control Amendment Regulations (No. 3) 2009 | 25 Sep 2009 p. 3751-2 | r. 1 and 2: 25 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2009 (see r. 2(b))
