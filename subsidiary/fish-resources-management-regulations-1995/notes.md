@@ -123,10 +123,368 @@ Fish Resources Management Amendment Regulations (No. 10) 2009 | 3 Jul 2009 p. 26
 Reprint 8: The Fish Resources Management Regulations 1995 as at 7 Aug 2009 (includes amendments listed above (correction in Gazette 1 Sep 2009 p. 3397))
 Fish Resources Management Amendment Regulations (No. 12) 2009 | 18 Aug 2009 p. 3237-8 | r. 1 and 2: 18 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 15) 2009 | 10 Sep 2009 p. 3539 | r. 1 and 2: 10 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2009 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Fish Resources Management Amendment Regulations (No. 14) 2009 r. 3-11 | 29 Sep 2009 p. 3863-82 | 15 Oct 2009 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
+On the date as at which this compilation was prepared, the Fish Resources Management Amendment Regulations (No. 14) 2009 r. 3-11 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Fish Resources Management Regulations 1995.
+4.Regulation 45 inserted
+At the end of Part 4 Division 6 insert:
+45.Closed season for recreational fishing for demersal scalefish in West Coast Region
+(1) In this regulation —
+closed season means the period from 15 October to 15 December, both dates inclusive, in any year;
+demersal scalefish means any fish listed in the Table.
+Table
+Cod | Hapuku
+Cod, Grey Banded Rock | Nannygai
+Coral Trout | Parrot Fish
+Coronation Trout | Seaperch, Tropical
+Dhufish, West Australian | Snapper, Pink
+Emperor and Seabream | Snapper, Queen (Blue Morwong)
+Emperor, Red (Government Bream) | Snapper, Red (Redfish)
+Foxfish, Western and Pigfish | Swallowtail
+Groper, Baldchin | Trevalla
+Groper, Bass | Tuskfish
+Groper, Western Blue
+(2) During the closed season a person must not —
+(a) fish for demersal scalefish in the West Coast Region; or
+(b) be in possession of demersal scalefish on a boat in the waters of the West Coast Region; or
+(c) bring onto land in the West Coast Region any demersal scalefish.
+Penalty: For a first offence a fine of $5 000 or, for a second or subsequent offence, a fine of $10 000 and, for any offence, the penalty provided in section 222 of the Act.
+(3) Subregulation (2) does not apply to or in respect of demersal scalefish taken for a commercial purpose in accordance with an authorisation.
+5.Regulation 156 amended
+In regulation 156 in the Table after “41,” insert:
+45(2),
+6.Regulation 157 amended
+In regulation 157(1)(a) delete “$15” and insert:
+$30
+7.Schedule 3 amended
+(1) In Schedule 3 Part 3 Division 1 after the item relating to Emperor, Red insert:
+Foxfish, Western and Pigfish combined) .................. | 4
+(2) In the heading to Schedule 3 Part 3 Division 2 delete “16 fish” and insert:
+12 fish
+(3) In Schedule 3 Part 3 Division 2:
+(a) in the item relating to Tailor delete “60 cm” and insert:
+50 cm
+(b) in the item relating to Tarwhine delete “16” and insert:
+12
+(c) in the item relating to Whiting, Yellowfinned delete “16” and insert:
+12
+(d) under the heading “Grouped bag limit of all species in the Division for one day” delete “16” and insert:
+12
+(4) In the heading to Schedule 3 Part 3 Division 3 delete “40 fish” and insert:
+30 fish
+(5) In Schedule 3 Part 3 Division 3 under the heading “Grouped bag limit of all species in the Division for one day” delete “40” and insert:
+30
+8.Schedule 4 replaced
+Delete Schedule 4 and insert:
+Schedule 4 — Categories of fish
+[s. 259 and r. 180]
+Category 1 fish
+Abalone, Brownlip
+Abalone, Greenlip
+Abalone, Roe’s
+Amberjack
+Barramundi
+Billfish (Marlins, Sailfish and Spearfish) and Swordfish
+Boarfish
+Cobia
+Cobbler (Estuary Catfish)
+Cod
+Cod, Potato
+Coral Trout
+Coral
+Crab, Blue Manna (Blue Swimmer)
+Crab, Brown Mud
+Crab, Champagne
+Crab, Crystal
+Crab, Giant
+Crab, Green Mud
+Dhufish, West Australian
+Dolphinfish (Mahi Mahi)
+Emperor and Seabream
+Foxfish, Western
+Groper, Baldchin
+Groper, Bass
+Groper, Blue
+Groper, Queensland
+Hapuku
+Kingfish, Yellowtail
+Leafy Seadragon
+Live Rock
+Mackerel, Broad-barred
+Mackerel, Narrow-barred Spanish
+Mackerel, Shark
+Mackerel, Wahoo
+Marron
+Mulloway
+Mulloway, Northern
+Parrot Fish
+Pearl Perch
+Pigfish
+Rays
+Rock Lobster (all species)
+Sawfish
+Sea Perch, Tropical
+Shark, Great White
+Shark, Speartooth
+Shark, Whale
+Sharks
+Snapper, Pink
+Snapper, Queen (Blue Morwong)
+Snapper, Red
+Threadfin, Giant
+Trevalla
+Trevally, Giant
+Trevally, Golden
+Tripletail
+Tuna, Bigeye
+Tuna, Dogtooth
+Tuna, Northern
+Tuna, Southern Bluefin
+Tuna, Yellowfin
+Tuskfish
+Wrasse, Humphead Maori
+Category 2 fish
+Barracuda
+Bonito
+Bream, Black
+Bream, Northwest-Black
+Bream, Yellowfin
+Catfish
+Cherabin
+Cuttlefish
+Dart
+Flathead
+Flounder
+Freshwater Crayfish (all species)
+Goatfish
+Grunter, Sooty
+Javelinfish and Sweetlips
+John Dory
+Leatherjacket
+Octopus
+Pike
+Prawn, Tiger
+Prawn, Western King
+Prawn, Western School
+Queenfish
+Razor shell
+Salmon, Australian
+Samson Fish
+Scallops
+Sea Cucumber (Beche-de-mer, Trepang)
+Sea Urchins
+Snook
+Sole
+Squid
+Sweep, Banded
+Sweep, Sea
+Tailor
+Tarwhine (Silver Bream)
+Threadfin, Blue
+Trevally, Silver (Skipjack)
+Trochus
+Trout, Brown
+Trout, Rainbow
+Tuna, Albacore
+Tuna, Skipjack
+Whiting, King George (Spotted)
+Whiting, Yellow-finned
+Category 3 fish
+Bait Fish
+Cockle, Ark Shell and other edible bivalves
+Clam, Venus
+Freshwater fish (other than freshwater fish listed as category 2 fish)
+Garfish
+Herring, Australian (Tommy Ruff)
+Longtom
+Mackerel, Blue (Common)
+Mullet
+Prawns (other than prawns listed as category 2 fish)
+Whiting (other than whiting listed as category 2 fish)
+Wrasse (other than wrasse listed as category 1 fish)
+Category 4 fish
+Any species of fish not specified in this Schedule to be category 1 fish, category 2 fish or category 3 fish.
+9.Schedule 7 amended
+(1) In Schedule 7 Division 1:
+(a) in the item relating to Dhufish, West Australian delete “hebriacum” and insert:
+hebraicum
+(b) after the item relating to Flounder insert:
+Foxfish, Western and Pigfish ............... | Bodianus spp.
+(c) after the item relating to Sharks insert:
+Snapper, Deep water ........................... | Pristipomoides spp. and Etelis spp.
+Snapper, Goldband .............................. | Pristipomoides multidens
+(2) In Schedule 7 Division 4 under the heading “Common Name” delete “Razorfish” and insert:
+Razor shell
+(3) In Schedule 7 Division 5 before the item relating to Sea Cucumber insert:
+Coral ................................. | Class Anthozoa and Class Hydrozoa
+Live Rock ......................... | Family Corallinaceae, Class Polychaeta, Class Crinoidea, Class Ascidiacea, Class Ophiuroidea, Phylum Bryozoa and Phylum Porifera and dead fish of Class Anthozoa and Class Hydrozoa
+10.Schedule 9 replaced
+Delete Schedule 9 and insert:
+Schedule 9 — Determining the value of fish
+[s. 222(2) and r. 157]
+Species of fish | Value per unit of weight ($/kgm) | Value per fish ($)
+Abalone, Brownlip (shucked) ....................... | 90.00 | 24.00
+Abalone, Brownlip (whole weight) ............... | 36.00 | 24.00
+Abalone, Greenlip (shucked) ........................ | 110.00 | 25.00
+Abalone, Greenlip (whole weight) ................ | 40.00 | 25.00
+Abalone, Roe’s (shucked) ............................. | 60.00 | 3.00
+Abalone, Roe’s (whole weight) .................... | 25.00 | 3.00
+Amberjack ..................................................... | 2.00 | 10.00
+Ark Shell ....................................................... | 10.00 | 0.25
+Barracuda ...................................................... | 2.00 | 10.00
+Barramundi .................................................... | 14.50 | 58.00
+Boarfish ......................................................... | 8.00 | 24.00
+Bonito ............................................................ | 1.50 | 5.00
+Bream, Black ................................................. | 9.00 | 5.00
+Bream, Fingermark ....................................... | 5.00 | 10.00
+Bream, Northwest-Black ............................... | 6.00 | 12.00
+Bream, Yellowfin .......................................... | 6.50 | 3.00
+Catfish ........................................................... | 5.00 | 3.00
+Cherabin ........................................................ | 7.00 | 0.30
+Clam, Venus .................................................. | 8.00 | 0.20
+Cobbler (Estuary Catfish) ............................. | 6.50 | 4.00
+Cobia ............................................................. | 3.50 | 35.00
+Cockle Shell .................................................. | 3.00 | 0.10
+Cod, Breaksea ............................................... | 7.00 | 14.00
+Cod, Estuary .................................................. | 7.00 | 42.00
+Cod, Grey Banded Rock ............................... | 9.00 | 54.00
+Cod, Potato .................................................... | 10.00 | 100.00
+Cod, Rankin .................................................. | 9.50 | 38.00
+Coral .............................................................. | 80.00 | -
+Coral Trout .................................................... | 20.00 | 45.00
+Crab, Blue Manna (Blue Swimmer) ............. | 10.00 | 4.00
+Crab, Brown Mud ......................................... | 25.00 | 14.00
+Crab, Champagne .......................................... | 15.00 | 30.00
+Crab, Crystal ................................................. | 20.00 | 50.00
+Crab, Giant .................................................... | 35.00 | 115.00
+Crab, Green Mud ........................................... | 25.00 | 14.00
+Cuttlefish ....................................................... | 5.00 | 3.00
+Dart ................................................................ | 1.00 | 1.00
+Dhufish, West Australian .............................. | 18.00 | 72.00
+Dolphinfish (Mahi Mahi) .............................. | 2.00 | 4.00
+Dory, John ..................................................... | 9.00 | 18.00
+Emperor, Bluespotted .................................... | 5.00 | 12.00
+Emperor, Blue-lined ...................................... | 4.00 | 10.00
+Emperor, Red ................................................ | 13.00 | 39.00
+Emperor, Spangled ........................................ | 7.00 | 17.50
+Flathead ......................................................... | 6.00 | 5.00
+Flounder ........................................................ | 11.00 | 5.00
+Foxfish, Western ........................................... | 5.50 | 3.00
+Garfish ........................................................... | 7.00 | 2.50
+Goatfish ......................................................... | 4.00 | 2.00
+Groper, Baldchin ........................................... | 12.00 | 36.00
+Groper, Bass .................................................. | 8.50 | 51.00
+Groper, Queensland ...................................... | 10.00 | 100.00
+Groper, Western Blue ................................... | 6.00 | 48.00
+Grunty, Sooty ................................................ | 5.00 | 2.50
+Hapuku .......................................................... | 6.00 | 48.00
+Hardyhead ..................................................... | 3.00 | 0.50
+Harlequin Fish ............................................... | 7.00 | 7.00
+Herring, Australian (Tommy Ruff) ............... | 4.50 | 2.00
+Javelinfish ..................................................... | 5.00 | 5.00
+Kingfish, Yellowtail ...................................... | 1.50 | 7.50
+Leafy Seadragon ........................................... | - | 100.00
+Leatherjacket ................................................. | 2.00 | 2.00
+Live Rock ...................................................... | 8.00 | -
+Longtom ........................................................ | 1.00 | 0.50
+Mackerel, Blue (Common) ........................... | 3.00 | 2.00
+Mackerel, Broad-barred Spanish ................... | 11.00 | 44.00
+Mackerel, Narrow-barred Spanish ................ | 11.00 | 44.00
+Mackerel, Shark ............................................ | 1.00 | 4.00
+Mackerel, Wahoo .......................................... | 7.00 | 28.00
+Mangrove Jack .............................................. | 5.50 | 14.00
+Marlin ............................................................ | 2.00 | 100.00
+Marron ........................................................... | 36.00 | 5.00
+Mullet ............................................................ | 4.50 | 3.00
+Mulloway ...................................................... | 6.00 | 15.00
+Mulloway, Northern ...................................... | 6.00 | 15.00
+Mussel ........................................................... | 3.00 | 0.10
+Nannygai ....................................................... | 9.50 | 20.00
+Octopus ......................................................... | 12.00 | 6.00
+Oyster ............................................................ | 10.00 | 0.60
+Parrot Fish ..................................................... | 6.00 | 12.00
+Pearl Perch .................................................... | 9.00 | 18.00
+Pigfish ........................................................... | 3.00 | 1.50
+Pike ................................................................ | 6.00 | 2.00
+Pilchard ......................................................... | 3.00 | 0.50
+Pipi ................................................................ | 3.00 | 0.10
+Prawn, Brown Tiger ...................................... | 15.00 | 1.00
+Prawn, Western King .................................... | 13.00 | 1.00
+Prawn, Western School ................................. | 4.00 | 0.50
+Prawn (other) ................................................. | 8.00 | 0.50
+Queenfish ...................................................... | 3.00 | 10.00
+Rays ............................................................... | 4.00 | 60.00
+Razor shell ..................................................... | 5.00 | 1.00
+Rock Lobster ................................................. | 30.00 | 15.00
+Rock Lobster (tail weight) ............................ | 60.00 | 15.00
+Sailfish .......................................................... | 1.00 | 40.00
+Salmon, Australian ........................................ | 1.50 | 3.75
+Samson Fish (Sea Kingfish) .......................... | 2.00 | 10.00
+Sawfish .......................................................... | 10.00 | 500.00
+Scallop (shucked) .......................................... | 18.00 | 0.50
+Scallop (whole weight) ................................. | 3.60 | 0.50
+Sea Cucumber (Beche-de-mer, Trepang) ...... | 9.50 | 4.00
+Sea Urchin ..................................................... | 20.00 | 2.00
+Shark, Great White ........................................ | 10.00 | 500.00
+Shark, Speartooth .......................................... | 10.00 | 500.00
+Shark, Whale ................................................. | 10.00 | 500.00
+Sharks (other) ................................................ | 6.00 | 90.00
+Snapper, Deep water ..................................... | 8.00 | 24.00
+Snapper, Goldband ........................................ | 8.00 | 24.00
+Snapper, Northwest ....................................... | 7.00 | 14.00
+Snapper, Pink ................................................ | 9.50 | 28.50
+Snapper, Queen (Blue Morwong) ................. | 3.50 | 8.75
+Snapper, Red ................................................. | 6.00 | 6.00
+Snook ............................................................ | 3.00 | 1.50
+Sole ................................................................ | 6.00 | 2.50
+Spearfish ........................................................ | 1.00 | 25.00
+Sprat, Sandy (Whitebait) ............................... | 3.00 | 0.50
+Squid ............................................................. | 9.00 | 2.50
+Swallowtail .................................................... | 3.50 | 3.00
+Sweep, Banded .............................................. | 1.00 | 0.50
+Sweep, Sea .................................................... | 3.00 | 2.00
+Sweetlips ....................................................... | 4.50 | 4.50
+Swordfish ...................................................... | 10.00 | 50.00
+Tailor ............................................................. | 7.00 | 5.00
+Tarwhine (Silver Bream) .............................. | 6.00 | 3.00
+Threadfin, Blue ............................................. | 4.00 | 12.00
+Threadfin, Giant ............................................ | 11.00 | 33.00
+Trevalla ......................................................... | 6.00 | 24.00
+Trevally, Giant .............................................. | 3.50 | 8.00
+Trevally, Golden ........................................... | 3.50 | 8.00
+Trevally, Silver (Skipjack) ............................ | 3.50 | 1.00
+Trochus .......................................................... | 9.50 | 2.00
+Trout, Brown ................................................. | 7.00 | 3.00
+Trout, Rainbow ............................................. | 7.00 | 3.00
+Tripletail ........................................................ | 8.00 | 20.00
+Tuna, Albacore .............................................. | 3.50 | 14.00
+Tuna, Bigeye ................................................. | 10.00 | 30.00
+Tuna, Dogtooth ............................................. | 2.00 | 20.00
+Tuna, Northern Bluefin ................................. | 5.00 | 25.00
+Tuna, Skipjack .............................................. | 1.00 | 3.00
+Tuna, Southern Bluefin ................................. | 9.00 | 18.00
+Tuna, Yellowfin ............................................ | 9.50 | 19.00
+Tuskfish ......................................................... | 6.00 | 18.00
+Whiting, King George (Spotted) ................... | 20.00 | 8.00
+Whiting, Yellow-finned ................................ | 6.00 | 1.50
+Whiting (other) .............................................. | 6.50 | 1.70
+Wrasse, Brown spot ...................................... | 5.00 | 2.00
+Wrasse, Humphead Maori ............................. | 25.00 | 100.00
+Wrasse, King ................................................. | 3.00 | 2.00
+Yabbie ........................................................... | 12.00 | 2.00
+Zoila Cowry .................................................. | - | 50.00
+All fish not otherwise listed in this Schedule | 1.00 | 1.00
+11.Schedule 12 amended
+In Schedule 12 Part 2 item 5 after “38O(1),” insert:
+45(2),
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
