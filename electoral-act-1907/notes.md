@@ -92,12 +92,12 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 2
 Reprint 14: The Electoral Act 1907 as at 7 Dec 2007 (includes amendments listed above)
 Criminal Law Amendment (Homicide) Act 2008 s. 32 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Acts Amendment (Bankruptcy) Act 2009 s. 34 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Electoral Amendment (Miscellaneous) Act 2009 | 7 of 2009 | 21 May 2009 | Pt. 1: 21 May 2009 (see s. 2(a)); Act other than Part 1: 1 Oct 2009 (see s. 2(b) and Gazette 1 Sep 2009 p. 3393)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Electoral Amendment Act 2008 s. 3-5 | 38 of 2008 | 3 Jul 2008 | To be proclaimed (see s. 2)
-Electoral Amendment (Miscellaneous) Act 2009 Pt. 2 | 7 of 2009 | 21 May 2009 | 1 Oct 2009 (see s. 2(b) and Gazette 1 Sep 2009 p. 3393)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 15.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as a reference to the Public Sector Management Act 1994.
@@ -175,69 +175,3 @@ person with judicial experience means a person who is or has been a judge of the
 (5D) Any remuneration and allowances paid to a person under subsection (5C) do not affect any entitlements the person may have under the Judges’ Salaries and Pensions Act 1950.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Electoral Amendment (Miscellaneous) Act 2009 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Electoral Act 1907 amended
-3.Act amended
-This Part amends the Electoral Act 1907.
-4.Section 4 amended
-Delete section 4(4) and insert:
-(4) A reference in this Act to a full election in a region is a reference to an election in a region for the return of 6 members of the Council.
-5.Section 17 amended
-In section 17(5) delete “and section 17A” and insert:
-and sections 17A and 17B
-6.Section 17B inserted
-After section 17A insert:
-17B.Electors with no fixed address enrolled under Commonwealth Act
-(1) If —
-(a) a person fulfils the requirements of section 17(1)(a) and (b) but does not live in any particular district or sub-district in the State; and
-(b) the person’s name appears on a roll maintained under the Commonwealth Electoral Act 1918 in respect of an address in a Commonwealth subdivision in the State with which the person has established a connection under section 96 of that Act; and
-(c) the Commonwealth roll referred to in paragraph (b) is annotated to indicate that the person is an itinerant elector under the Commonwealth Electoral Act 1918 section 96,
-the person is to be enrolled on the roll for the district or sub-district in which the address referred to in paragraph (b) is situated.
-(2) While the name of the person continues to be included on the Commonwealth roll referred to in subsection (1)(b) with the annotation referred to in subsection (1)(c), the person is entitled —
-(a) to remain enrolled on the roll for the district or sub-district referred to in subsection (1); and
-(b) to vote at —
-(i) any election in the region of which the district or sub-district forms part; and
-(ii) any election in the district or the district of which the sub-district forms part.
-7.Section 18 amended
-In section 18(1):
-(a) delete paragraph (c) and insert:
-(c) is serving or is yet to serve a sentence of detention (imposed under the Young Offenders Act 1994), or imprisonment, of one year or longer; or
-(b) after each of paragraphs (b), (ca), (cb) and (cc) insert:
-or
-8.Section 25A amended
-In section 25A(1a) in the definition of prescribed information:
-(a) in paragraph (c) delete “situated.” and insert:
-situated; and
-(b) after paragraph (c) insert:
-(d) the elector’s date of birth.
-9.Section 40 amended
-In section 40(1a) delete “section 17(4) or 17A.” and insert:
-section 17(4), 17A or 17B.
-10.Section 59 amended
-(1) In section 59(1) in the definition of prisoner delete “section 18(b) to (cd)” and insert:
-section 18(1)(b) to (cd)
-(2) After section 59(3) insert:
-(4) If required information is forwarded to the Electoral Commissioner under subsection (2)(a)(i) or (3)(a)(i) in relation to a person referred to in section 18(1)(c), the chief executive officer, prisons must include in the list containing the required information the length of the term of detention or imprisonment of the person.
-11.Section 62 deleted
-Delete section 62.
-12.Section 90 amended
-After section 90(1)(db) insert:
-(dc) is by reason of —
-(i) serving a sentence of detention (imposed under the Young Offenders Act 1994) or imprisonment; or
-(ii) being otherwise in lawful custody or detention,
-precluded from attending at a polling place; or
-13.Section 93 amended
-In section 93(1):
-(a) in paragraph (c) delete “disabled,” and insert:
-disabled; or
-(b) after paragraph (c) insert:
-(d) who is entitled to vote under section 17A(2),
-(c) after each of paragraphs (a) to (ab) insert:
-or
-14.Section 175C amended
-In section 175C(2) delete “election, the candidate is the agent in relation to the election.” and insert:
-election —
-(a) if the candidate has been endorsed by a political party, the agent of the political party is the agent of the candidate in relation to the election; or
-(b) if paragraph (a) does not apply, the candidate is the agent in relation to the election.
-15.Section 183 amended
-Delete section 183(6).
