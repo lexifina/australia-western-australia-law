@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Ports and Harbours Regulations 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 October 2009 of the Ports and Harbours Regulations 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Ports and Harbours Regulations | 3 Feb 1966 p. 277-92 | 3 Feb 1966
@@ -21,8 +21,8 @@ Untitled regulations | 10 Aug 1979 p. 2433 | 10 Aug 1979
 Untitled regulations | 20 Jun 1980 p. 1832-4 | 1 Jul 1980 (see r. 2)
 Ports and Harbours Amendment Regulations 1980 | 31 Dec 1980 p. 4437 | 1 Jan 1981 (see r. 2)
 Ports and Harbours Amendment Regulations 1981 | 27 Mar 1981 p. 1077 | 27 Mar 1981
-Ports and Harbours Amendment Regulations (No. 2) 1981 | 26 Jun 1981 p. 2417-19 | 1 Jul 1981 (see r. 2)
 Ports and Harbours Amendment Regulations (No. 3) 1981 | 26 Jun 1981 p. 2417 | 1 Jul 1981 (see r. 2)
+Ports and Harbours Amendment Regulations (No. 2) 1981 | 26 Jun 1981 p. 2417-19 | 1 Jul 1981 (see r. 2)
 Ports and Harbours Amendment Regulations (No. 4) 1981 | 28 Aug 1981 p. 3574-5 | 1 Sep 1981 (see r. 2)
 Ports and Harbours Amendment Regulations (No. 6) 1981 | 4 Sep 1981 p. 3859 | 4 Sep 1981
 Ports and Harbours Amendment Regulations 1982 | 21 May 1982 p. 1579 | 21 May 1982
@@ -63,7 +63,7 @@ Ports and Harbours Amendment Regulations 1999 | 22 Jun 1999 p. 2689-90 | 1 Jul 1
 Ports and Harbours Amendment Regulations (No. 2) 1999 | 6 Aug 1999 p. 3732-3 | 30 Sep 1999 (see r. 2)
 Ports and Harbours Amendment Regulations 2000 | 20 Jun 2000 p. 3040-3 | 1 Jul 2000 (see r. 2)
 Ports and Harbours Amendment Regulations 2001 | 27 Jul 2001 p. 3802-3 | 1 Aug 2001 (see r. 2)
-Ports and Harbours Amendment Regulations 2002 | 14 Jun 2002 p. 2820-3 | 1 Jul 2002 (see r. 2)
+Ports and Harbours Amendment Regulations 2002 | 14 Jun 2002 p. 2320-3 | 1 Jul 2002 (see r. 2)
 Ports and Harbours Amendment Regulations 2003 | 27 Jun 2003 p. 2521-5 | 1 Jul 2003 (see r. 2)
 Reprint 1: The Ports and Harbours Regulations as at 1 Aug 2003 (includes amendments listed above)
 Ports and Harbours Amendment Regulations 2004 | 25 Jun 2004 p. 2265-9 | 1 Jul 2004 (see r. 2)
@@ -73,13 +73,38 @@ Ports and Harbours Amendment Regulations 2007 | 12 Jun 2007 p. 2721-2 | 1 Jul 20
 Ports and Harbours Amendment Regulations (No. 2) 2007 | 12 Jun 2007 p. 2723-5 | 1 Jul 2007 (see r. 2)
 Reprint 2: The Ports and Harbours Regulations 1966 as at 26 Oct 2007 (includes amendments listed above)
 Ports and Harbours Amendment Regulations 2008 | 1 Jul 2008 p. 3155-6 | r. 1 and 2: 1 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2008 (see r. 2(b))
-Ports and Harbours Amendment Regulations (No. 3) 2008 | 1 Jul 2008 p. 3156-9 | r. 1 and 2: 1 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Ports and Harbours Amendment Regulations (No. 3) 2008 | 1 Jul 2008 p. 3156-9 | 1 Jul 2008 (see r. 2)
 Ports and Harbours Amendment Regulations 2009 | 12 Jun 2009 p. 2117-18 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Ports and Harbours Amendment Regulations (No. 2) 2009 | 23 Jun 2009 p. 2483-5 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Reprint 3: The Ports and Harbours Regulations 1966 as at 2 Oct 2009 (includes amendments listed above)
 Repealed by the Port Authorities (Consequential Provisions) Act 1999.
-Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act. As at the date this compilation was prepared the department principally assisting the Minister in the administration of the Marine and Harbours Act 1981 is the Department of Planning and Infrastructure.
-Now known as the Australian Maritime Safety Authority.
+Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act. At the time of this reprint the department principally assisting the Minister in the administration of the Marine and Harbours Act 1981 is the Department of Transport.
 Repealed by the Pollution of Waters by Oil and Noxious Substances Act 1987.
-Now see the Workplace Relations Act 1996 of the Commonwealth.
-Repealed by the Fish Resources Management Act 1994.
+Now see the Fair Work (Registered Organisations) Act 2009 of the Commonwealth.
 Now known as the Ports and Harbours Regulations 1966; citation changed (see note under r. 1).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+certificate4
+certificate of health4
+coasting vessel4
+commercial vessel18(2a)
+exempt master4
+gross registered tonnage4
+Harbour Master4
+inflammable liquid30
+International Tonnage Certificate (1969)4
+interstate vessel4
+master4
+oil vessel30
+owner4
+passenger4
+pilot4
+subject port4
+surveyor4
+the Department4
+tonnage4
+tons4
+vessel4
+vessel of war4
+wharf4
