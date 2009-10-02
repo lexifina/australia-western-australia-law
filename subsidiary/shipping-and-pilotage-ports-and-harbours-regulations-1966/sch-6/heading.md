@@ -36,9 +36,10 @@ PORT | CONDITIONS | NAME AND SIGNATURE OF OFFICER | DATE
 ............................ | ....................................... | ..................................................... | ...................
 ............................ | ....................................... | ..................................................... | ...................
 ............................ | ....................................... | ..................................................... | ...................
+[Form 1 inserted in Gazette 19 Jul 1991 p.3648-9.]
 FORM 2
 [r. 16J(1)]
 PILOTAGE EXEMPTION RECORD BOOK
 Port Visits | Medical Certificates
 Port | Date & Time In | Date & Time Out | Name of Vessel | Pilot/Harbour Master Initials | Received | Next Due
-[Sixth Schedule inserted in Gazette 19 Jul 1991 p. 3648-9.]
+[Form 2 inserted in Gazette 19 Jul 1991 p. 3648-9.]
