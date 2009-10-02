@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Carnarvon Irrigation District By-laws 1962 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 October 2009 of the Carnarvon Irrigation District By-laws 1962 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Citation | Gazettal | Commencement
  | Untitled by-laws | 2 Jul 1962 p. 1695-8 | 2 Jul 1962
@@ -39,53 +39,16 @@ Water Agencies Amendment By-laws 2003 Pt. 2 | 27 Jun 2003 p. 2422-32 | 1 Jul 200
 Reprint 1: The Carnarvon Irrigation District By-laws as at 8 Aug 2003 (includes amendments listed above)
 Water Agencies Amendment By-laws 2005 Pt. 2 | 1 Jul 2005 p. 3009-17 | 1 Jul 2005 (see bl. 2)
 Water Agencies Amendment By-laws 2006 Pt. 2 | 30 Jun 2006 p. 2399-412 | 1 Jul 2006 (see bl. 2)
-Water Agencies Amendment By-laws 2007 Pt. 2 | 29 Jun 2007 p. 3233-44 | 1 Jul 2007 (see bl. 2)
+Water Agencies Amendment By-laws 2007 Pt. 2 | 29 Jun 2007 p. 3233-44 | 1 Jul 2007 (see bl. 2(b))
 Water Agencies Amendment By-laws 2008 Pt. 2 | 27 Jun 2008 p. 3076-84 | 1 Jul 2008 (see bl. 2(b))
-Water Agencies Amendment By-laws 2009 Pt. 2 | 19 Jun 2009 p. 2393-406 | bl. 1 and 2: 19 Jun 2009 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2009 (see bl. 2(b))
+Water Agencies Amendment By-laws 2009 Pt. 2 | 19 Jun 2009 p. 2393-406 | 1 Jul 2009 (see bl. 2(b))
+Reprint 2: The Carnarvon Irrigation District By-laws 1962 as at 2 Oct 2009 (includes amendments listed above)
 These by-laws have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Now known as the Carnarvon Irrigation District By-laws 1962; citation changed (see note under bl. 1).
-The Water Agencies Amendment By-laws 1997 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 1997 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 1998 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 1998 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 1999 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 1999 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2000 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2000 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2001 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2001 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2003 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2003 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2006 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2006 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2007 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2007 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2008 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2008 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
+These by-laws contain an application provision concerning fees and charges for a period commencing before, or for a matter or thing done before, the by-laws came into operation.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+District3
+property3
+the Act3
