@@ -1,32 +1,22 @@
 ## Fifth Schedule
 [r. 18(5)]
-CountryRecord
-BritainCertificate of British Registry.
-British Tonnage Certificate.
-PanamaShip’s Register.
-Certificado de Arqueo.
-LiberiaShip’s Register.
-Certificate of Measurement.
-BelgiumShip’s Register.
-Certificat de Jaugeage. (Tonnage Certificate)
-SwedenShip’s Register.
-Internationelt Matbriv. (International Tonnage Certificate)
-NetherlandsShip’s Register.
-Internationale Meetbreef. (International Tonnage Certificate)
-ItalyShip’s Register.
-Certificato di Stazza.
-IndiaCertificate of Indian Registry.
-SingaporeCertificate of Singapore Registry.
-GermanyAmtlich Belaubigter.
-Internationaler Schiffsmessbreef.
-IndonesiaShip’s Register — Certificate of Nationality.
-KoreaCertificate of Vessel’s Nationality.
-JapanCertificate of Vessel’s Nationality.
-YugoslaviaUpisni List.
-ArgentinaCertificado de Matricula.
-GreeceCertificate of Nationality.
-Certificate of Measurement.
-ChinaCertificate of Vessel’s Nationality.
-Tonnage Certificate.
-RussiaShip’s Register.
+Country | Record
+Britain | Certificate of British Registry. British Tonnage Certificate.
+Panama | Ship’s Register. Certificado de Arqueo.
+Liberia | Ship’s Register. Certificate of Measurement.
+Belgium | Ship’s Register. Certificat de Jaugeage. (Tonnage Certificate)
+Sweden | Ship’s Register. Internationelt Matbriv. (International Tonnage Certificate)
+Netherlands | Ship’s Register. Internationale Meetbreef. (International Tonnage Certificate)
+Italy | Ship’s Register. Certificato di Stazza.
+India | Certificate of Indian Registry.
+Singapore | Certificate of Singapore Registry.
+Germany | Amtlich Belaubigter. Internationaler Schiffsmessbreef.
+Indonesia | Ship’s Register — Certificate of Nationality.
+Korea | Certificate of Vessel’s Nationality.
+Japan | Certificate of Vessel’s Nationality.
+Yugoslavia | Upisni List.
+Argentina | Certificado de Matricula.
+Greece | Certificate of Nationality. Certificate of Measurement.
+China | Certificate of Vessel’s Nationality. Tonnage Certificate.
+Russia | Ship’s Register.
 [Fifth Schedule inserted in Gazette 28 Aug 1981 p. 3575.]
