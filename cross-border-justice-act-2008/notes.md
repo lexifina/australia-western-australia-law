@@ -6,7 +6,7 @@ Cross-border Justice Act 2008 s. 1 and 2 | 7 of 2008 | 31 Mar 2008 | 31 Mar 2008
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Cross-border Justice Act 2008 s. 3–18, Pt. 2-15 | 7 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(b))
+Cross-border Justice Act 2008 s. 3–18, Pt. 2-15 | 7 of 2008 | 31 Mar 2008 | Act other than s. 1, 2, 67(b), 68(2)(b) and (e), 108, 110, 117, 119 & 137 & Pt. 15 Div. 1: 1 Nov 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991); s. 67(b), 68(2)(b) and (e), 108, 110, 117, 119 & 137 & Pt. 15 Div. 1: 1 Dec 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991)
 On the date as at which this compilation was prepared, the Cross-border Justice Act 2008 s. 3–18, Pt. 2-15 had not come into operation. It reads as follows:
 “
 3.Act binds Crown
