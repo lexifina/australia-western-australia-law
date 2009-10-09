@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 May 2009 of the Magistrates Court Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Magistrates Court Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Magistrates Court Act 2004 | 47 of 2004 | 12 Nov 2004 | s. 1 and 2: 12 Nov 2004; Act other than s. 1 and 2: 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -17,10 +17,10 @@ Acts Amendment (Bankruptcy) Act 2009 s. 55 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Cross-border Justice Act 2008 Pt. 15 Div. 2 | 7 of 2008 | 31 Mar 2008 | To be proclaimed (see s. 2(b))
+Cross-border Justice Act 2008 Pt. 15 Div. 2 | 7 of 2008 | 31 Mar 2008 | 1 Nov 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991)
 Repealed by the Courts Legislation Amendment and Repeal Act 2004.
 The Courts Legislation Amendment and Repeal Act 2004 contains transitional provisions about enforcing judgments given before the Civil Judgments Enforcement Act 2004 commenced, including judgment of Local Courts.
-On the date as at which this reprint was prepared, the Cross-border Justice Act 2008 Pt. 15 Div. 2 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Cross-border Justice Act 2008 Pt. 15 Div. 2 had not come into operation. It reads as follows:
 Part 15 — Consequential amendments to other legislation
 Division 2 — Magistrates Court Act 2004 amended
 154.The Act amended
