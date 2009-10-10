@@ -34,6 +34,7 @@ Road Traffic Amendment (Holiday Periods) Regulations 2008 r. 4 | 8 Feb 2008 p. 3
 Road Traffic Code Amendment Regulations (No. 4) 2008 | 29 Feb 2008 p. 694-8 | r. 1 and 2: 29 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b))
 Road Traffic Consequential Amendment Regulations 2008 Pt. 6 | 10 Jun 2008 p. 2449-67 | 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 Road Traffic Code Amendment Regulations (No. 3) 2009 | 18 Sep 2009 p. 3626-7 | r. 1 and 2: 18 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2009 (see r. 2(b))
+Road Traffic Code Amendment Regulations (No. 5) 2009 | 9 Oct 2009 p. 3996 | r. 1 and 2: 9 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Oct 2009 (see r. 2(b))
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 “
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
