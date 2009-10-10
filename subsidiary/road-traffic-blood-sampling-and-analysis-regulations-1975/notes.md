@@ -23,3 +23,4 @@ Reprint of the Road Traffic (Blood Sampling and Analysis) Regulations 1975 as at
 Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2006 | 28 Nov 2006 p. 4896-7 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
 Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2007 | 11 Oct 2007 p. 5477-8 | r. 1 and 2: 11 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Oct 2007 (see r. 2(b) and Gazette 11 Oct 2007 p. 5475)
 Road Traffic Legislation Amendment Regulations 2008 Pt. 2 | 14 Mar 2008 p. 832-4 | 15 Mar 2008 (see r. 2(b) and Gazette 14 Mar 2008 p. 829)
+Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2009 | 9 Oct 2009 p. 3997-8 | r. 1 and 2: 9 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Oct 2009 (see r. 2(b))

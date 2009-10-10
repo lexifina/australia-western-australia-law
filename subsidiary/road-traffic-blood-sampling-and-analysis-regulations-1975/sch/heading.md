@@ -41,15 +41,15 @@ ROAD TRAFFIC ACT 1974
 Regulation 10: Road Traffic (Blood Sampling and Analysis) Regulations 1975
 FORM C
 I ............................................................................................................................. of the Chemistry Centre (WA), Perth, an analyst within the meaning of section 65 of the Road Traffic Act 1974, hereby certify that:
-1.On the ............................ day of ..................... 20......... I received a sealed package, comprising Form B of the Road Traffic Blood Sampling and Analysis) Regulations 1975 then intact from ......................... containing a sample of blood in a container numbered .............................................
-2.The certificate (Form B) appearing on the cover of the said package was indorsed (inter alia) as follows:
+1.On the ............................ day of ..................... 20......... the Chemistry Centre (WA), Perth received a sealed package, comprising Form B of the Road Traffic Blood Sampling and Analysis) Regulations 1975 then intact from ......................... containing a sample of blood in a container numbered .............................................
+2.The certificate (Form B) appearing on the cover of the package was endorsed (among other things) as follows:
 Name of subject .............................................................................................
 Doctor .............................................................................................................
 Time and date of taking blood sample ...........................................................
-3.I have analysed that sample in accordance with the Road Traffic (Blood Sampling and Analysis) Regulations 1975 and have found it to contain ............................................. grams of alcohol per 100 mL of blood.
+3.The sample was analysed in accordance with the Road Traffic (Blood Sampling and Analysis) Regulations 1975 and was found to contain ............................................. grams of alcohol per 100 mL of blood.
 ...................................................
 Analyst.
-[Form C amended in Gazette 14 Mar 2008 p. 832.]
+[Form C amended in Gazette 14 Mar 2008 p. 832; 9 Oct 2009 p. 3997-8.]
 Western Australia
 ROAD TRAFFIC ACT 1974
 Regulation 12: Road Traffic (Blood Sampling and Analysis) Regulations 1975
