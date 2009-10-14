@@ -4,3 +4,4 @@ Compilation table
 Citation | Gazettal | Commencement
 Criminal Procedure Rules 2005 | 29 Apr 2005 p. 1885-964 | 2 May 2005 (see r. 2)
 Criminal Prodecure Amendment Rules 2006 | 15 Sep 2006 p. 3683-4 | 15 Sep 2006
+Criminal Procedure Amendment Rules 2009 | 13 Oct 2009 p. 4034-5 | r. 1 and 2: 13 Oct 2009 (see r. 2(a)); Rules other than r. 1 and 2: 14 Oct 2009 (see r. 2(b))
