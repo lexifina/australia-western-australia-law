@@ -123,6 +123,7 @@ Fish Resources Management Amendment Regulations (No. 10) 2009 | 3 Jul 2009 p. 26
 Reprint 8: The Fish Resources Management Regulations 1995 as at 7 Aug 2009 (includes amendments listed above (correction in Gazette 1 Sep 2009 p. 3397))
 Fish Resources Management Amendment Regulations (No. 12) 2009 | 18 Aug 2009 p. 3237-8 | r. 1 and 2: 18 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 15) 2009 | 10 Sep 2009 p. 3539 | r. 1 and 2: 10 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2009 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 13) 2009 | 13 Oct 2009 p. 4031-4 | r. 1 and 2: 13 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Oct 2009 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
