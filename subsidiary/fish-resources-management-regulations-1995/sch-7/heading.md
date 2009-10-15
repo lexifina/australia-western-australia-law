@@ -33,7 +33,7 @@ Cod, Rankin | Epinephelus multinotatus
 Coral Trout | Plectropomus spp.
 Coronation Trout | Variola louti
 Dart | Trachinotus spp.
-Dhufish, West Australian | Glaucosoma hebriacum
+Dhufish, West Australian | Glaucosoma hebraicum
 Dolphinfish (Mahi Mahi) | Coryphaena hippurus
 Dory, John | Zenopsis nebulosus
 Dory, Mirror . | Zeus faber
@@ -47,6 +47,7 @@ Flathead, Blue-spotted (Sand) | Platycephalus speculator
 Flathead, Long-spined (Sand) | Platycephalus longispinus
 Flathead, Marbled | Platycephalus marmoratus
 Flounder | Pseudorhombus spp.
+Foxfish, Western and Pigfish | Bodianus spp.
 Garfish | Family Hemirhamphidae
 Goatfish | Family Mullidae
 Groper | Family Labridae
@@ -109,6 +110,8 @@ Shark, Speartooth | Glyphis spp.
 Shark, Whale | Rhiniodon typus
 Shark, Whaler | Family Carcharhinidae
 Sharks | Orders Squatiniformes, Pristiophoriformes, Squaliformes, Hexanchiformes, Carcharhiniformes, Lamniformes, Orectolobiformes and Heterodontiformes
+Snapper, Deep water | Pristipomoides spp. and Etelis spp.
+Snapper, Goldband | Pristipomoides multidens
 Snapper, Northwest | Lethrinus spp. excluding L. nebulosus
 Snapper, Pink | Pagrus auratus
 Snapper, Queen (Blue Morwong) | Nemadactylus valenciennesi
@@ -151,7 +154,7 @@ Whiting, Southern School (Silver) | Sillago bassensis
 Whiting, Yellow-finned | Sillago schomburgkii
 Wrasse | Family Labridae
 Wrasse, Humphead Maori | Cheilinus undulatus
-[Division 1 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 1 Oct 2003 p. 4341-3; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9; 10 Nov 2006 p. 4710; 13 Nov 2007 p. 5693; 13 Feb 2009 p. 299.]
+[Division 1 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 1 Oct 2003 p. 4341-3; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9; 10 Nov 2006 p. 4710; 13 Nov 2007 p. 5693; 13 Feb 2009 p. 299; 29 Sep 2009 p. 3874.]
 ## Division 2 — Freshwater fish
 [Heading inserted in Gazette 13 Nov 2007 p. 5692.]
 Common Name | Scientific Name
@@ -234,12 +237,14 @@ Mussel, Black Striped | Mytilopsis and Congeria spp.
 Mussel, Blue | Mytilus edulis
 Oyster | Family Ostreidae
 Pipis | Family Donacidae
-Razorfish | Family Pinnidae
+Razor shell | Family Pinnidae
 Scallop | Family Pectinidae
-[Division 4 amended in Gazette 23 Apr 1999 p. 1716; 4 Jun 1999 p. 2271; 1 Oct 2003 p. 4343; 30 Sep 2004 p. 4187; 13 Nov 2007 p. 5693-4.]
+[Division 4 amended in Gazette 23 Apr 1999 p. 1716; 4 Jun 1999 p. 2271; 1 Oct 2003 p. 4343; 30 Sep 2004 p. 4187; 13 Nov 2007 p. 5693-4; 29 Sep 2009 p. 3875.]
 ## Division 5 — Other
 [Heading inserted in Gazette 13 Nov 2007 p. 5693.]
 Common Name | Scientific Name
+Coral | Class Anthozoa and Class Hydrozoa
+Live Rock | Family Corallinaceae, Class Polychaeta, Class Crinoidea, Class Ascidiacea, Class Ophiuroidea, Phylum Bryozoa and Phylum Porifera and dead fish of Class Anthozoa and Class Hydrozoa
 Sea Cucumber (Beche-de-mer, Trepang) | Class Holothurioidae
 Sea Urchin | Class Echinoidea
-[Division 5 amended in Gazette 13 Nov 2007 p. 5694; 13 Feb 2009 p. 300.]
+[Division 5 amended in Gazette 13 Nov 2007 p. 5694; 13 Feb 2009 p. 300; 29 Sep 2009 p. 3875.]

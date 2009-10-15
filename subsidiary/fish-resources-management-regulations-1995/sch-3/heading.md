@@ -198,6 +198,7 @@ Dhufish, West Australian | 2
 Dolphinfish (Mahi Mahi) | 2
 Emperor (combined) | 4
 Emperor, Red | 2
+Foxfish, Western and Pigfish combined) ............. | 4
 Groper, Blue | 1
 Hapuku, Trevalla, Bass Groper and Grey Banded Rock Cod (combined) | 2
 Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
@@ -217,27 +218,27 @@ Trevally, Giant and Golden (combined) | 2
 Trout, Brown and Rainbow (combined) | 4
 Tuna, Southern Bluefin, Yellowfin and Bigeye (combined) | 2
 Tuskfish and Baldchin Groper (combined) | 4
-[Division 1 inserted in Gazette 1 Oct 2003 p. 4337-8; amended in Gazette 4 Nov 2005 p. 5316; 22 Dec 2005 p. 6234; 19 Dec 2008 p. 5363.]
-## Division 2 — Grouped bag limit of 16 fish
-[Heading inserted in Gazette 1 Oct 2003 p. 4339.]
+[Division 1 inserted in Gazette 1 Oct 2003 p. 4337-8; amended in Gazette 4 Nov 2005 p. 5316; 22 Dec 2005 p. 6234; 19 Dec 2008 p. 5363; 29 Sep 2009 p. 3868.]
+## Division 2 — Grouped bag limit of 12 fish
+[Heading inserted in Gazette 1 Oct 2003 p. 4339; amended in Gazette 29 Sep 2009 p. 3868.]
 Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
-Bonito, Leaping and Oriental and any Tuna (combined) | 8 |  | 16
+Bonito, Leaping and Oriental and any Tuna (combined) | 8 |  | 12
 Bream, Black, Northwest-Black and Yellowfin (combined), only 2 of which may be in excess of 40 cm if taken or brought onto land from the waters of the Swan or Canning Rivers or their tributaries | 4
 Flathead and Flounder (combined) | 8
 Goatfish | 8
 Leatherjacket | 8
 Mackerel, Australian Spotted and Queensland School (combined) | 4
 Snook and Pike, Long-finned and Striped Sea (combined) | 8
-Tailor, only 2 of which may be in excess of 60 cm | 8
-Tarwhine | 16
+Tailor, only 2 of which may be in excess of 50 cm | 8
+Tarwhine | 12
 Trevally, except Giant and Golden | 8
 Whiting, King George | 8
-Whiting, Yellowfinned | 16
-[Division 2 inserted in Gazette 1 Oct 2003 p. 4339; amended in Gazette 4 Nov 2005 p. 5316.]
-## Division 3 — Low risk finfish — grouped bag limit of 40 fish
+Whiting, Yellowfinned | 12
+[Division 2 inserted in Gazette 1 Oct 2003 p. 4339; amended in Gazette 4 Nov 2005 p. 5316; 29 Sep 2009 p. 3868.]
+## Division 3 — Low risk finfish — grouped bag limit of 30 fish
 [Heading inserted in Gazette 1 Oct 2003 p. 4340; amended in Gazette 4 Nov 2005 p. 5316.]
 Fish | Grouped bag limit of all species in the Division for one day
-Herring, Australian |  | 40
+Herring, Australian |  | 30
 Dart
 Garfish
 Longtom
@@ -246,7 +247,7 @@ Milkfish
 Mullet, Sea and Yellow-eye
 Whiting, Southern School All other West Coast species of fish not specifically covered in this Part except for — (a)bait fish of the Families Clupeidae (Pilchards and Whitebait), Atherinidae (Hardyheads) and Engraulidae (Anchovy); and
 (b)Redfin Perch, Goldfish, European Carp and Tilapia
-[Division 3 inserted in Gazette 1 Oct 2003 p. 4340; amended in Gazette 4 Nov 2005 p. 5316.]
+[Division 3 inserted in Gazette 1 Oct 2003 p. 4340; amended in Gazette 4 Nov 2005 p. 5316; 29 Sep 2009 p. 3869.]
 ## Division 4 — Crustaceans
 [Heading inserted in Gazette 1 Oct 2003 p. 4340.]
 Fish | Species, or group of species, bag limit for one day
@@ -365,3 +366,133 @@ Mulloway | 2
 Snapper, Pink | 2
 [Part 5, formerly Part 4, amended in Gazette 1 Oct 2003 p. 4341; 22 Dec 2005 p. 6238.]
 [Part 6 deleted in Gazette 1 Oct 2003 p. 4341.]
+## Schedule 4 — Categories of fish
+[s. 259 and r. 180]
+[Heading inserted in Gazette 29 Sep 2009 p. 3869.]
+Category 1 fish
+Abalone, Brownlip
+Abalone, Greenlip
+Abalone, Roe’s
+Amberjack
+Barramundi
+Billfish (Marlins, Sailfish and Spearfish) and Swordfish
+Boarfish
+Cobia
+Cobbler (Estuary Catfish)
+Cod
+Cod, Potato
+Coral Trout
+Coral
+Crab, Blue Manna (Blue Swimmer)
+Crab, Brown Mud
+Crab, Champagne
+Crab, Crystal
+Crab, Giant
+Crab, Green Mud
+Dhufish, West Australian
+Dolphinfish (Mahi Mahi)
+Emperor and Seabream
+Foxfish, Western
+Groper, Baldchin
+Groper, Bass
+Groper, Blue
+Groper, Queensland
+Hapuku
+Kingfish, Yellowtail
+Leafy Seadragon
+Live Rock
+Mackerel, Broad-barred
+Mackerel, Narrow-barred Spanish
+Mackerel, Shark
+Mackerel, Wahoo
+Marron
+Mulloway
+Mulloway, Northern
+Parrot Fish
+Pearl Perch
+Pigfish
+Rays
+Rock Lobster (all species)
+Sawfish
+Sea Perch, Tropical
+Shark, Great White
+Shark, Speartooth
+Shark, Whale
+Sharks
+Snapper, Pink
+Snapper, Queen (Blue Morwong)
+Snapper, Red
+Threadfin, Giant
+Trevalla
+Trevally, Giant
+Trevally, Golden
+Tripletail
+Tuna, Bigeye
+Tuna, Dogtooth
+Tuna, Northern
+Tuna, Southern Bluefin
+Tuna, Yellowfin
+Tuskfish
+Wrasse, Humphead Maori
+Category 2 fish
+Barracuda
+Bonito
+Bream, Black
+Bream, Northwest-Black
+Bream, Yellowfin
+Catfish
+Cherabin
+Cuttlefish
+Dart
+Flathead
+Flounder
+Freshwater Crayfish (all species)
+Goatfish
+Grunter, Sooty
+Javelinfish and Sweetlips
+John Dory
+Leatherjacket
+Octopus
+Pike
+Prawn, Tiger
+Prawn, Western King
+Prawn, Western School
+Queenfish
+Razor shell
+Salmon, Australian
+Samson Fish
+Scallops
+Sea Cucumber (Beche-de-mer, Trepang)
+Sea Urchins
+Snook
+Sole
+Squid
+Sweep, Banded
+Sweep, Sea
+Tailor
+Tarwhine (Silver Bream)
+Threadfin, Blue
+Trevally, Silver (Skipjack)
+Trochus
+Trout, Brown
+Trout, Rainbow
+Tuna, Albacore
+Tuna, Skipjack
+Whiting, King George (Spotted)
+Whiting, Yellow-finned
+Category 3 fish
+Bait Fish
+Cockle, Ark Shell and other edible bivalves
+Clam, Venus
+Freshwater fish (other than freshwater fish listed as category 2 fish)
+Garfish
+Herring, Australian (Tommy Ruff)
+Longtom
+Mackerel, Blue (Common)
+Mullet
+Prawns (other than prawns listed as category 2 fish)
+Whiting (other than whiting listed as category 2 fish)
+Wrasse (other than wrasse listed as category 1 fish)
+Category 4 fish
+Any species of fish not specified in this Schedule to be category 1 fish, category 2 fish or category 3 fish.
+[Schedule 4 inserted in Gazette 29 Sep 2009 p. 3869-74.]
