@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mines Safety and Inspection Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 16 October 2009 of the Mines Safety and Inspection Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Mines Safety and Inspection Regulations 1995 | 8 Dec 1995 p. 5629-932 | 9 Dec 1995 (see r. 1.2 and Gazette 8 Dec 1995 p. 5935)
@@ -32,30 +32,28 @@ Mines Safety and Inspection Amendment Regulations (No. 2) 2008 | 17 Jun 2008 p. 
 Mines Safety and Inspection Amendment Regulations (No. 2) 2009 | 16 Jun 2009 p. 2191-2 | r. 1 and 2: 16 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Mines Safety and Inspection Amendment Regulations 2009 r. 1-17 and 19-28 | 21 Jul 2009 p. 2918-27 | r. 1 and 2: 21 Jul 2009 (see r. 2(a)); Regulations other than r. 1, 2 and 18: 22 Jul 2009 (see r. 2(c))
 Mines Safety and Inspection Amendment Regulations (No. 3) 2009 | 21 Aug 2009 p. 3270 | r. 1 and 2: 21 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Aug 2009 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Reprint 5: The Mines Safety and Inspection Regulations 1995 as at 16 Oct 2009 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Provisions not yet in operation
 Citation | Gazettal | Commencement
-Mines Safety and Inspection Amendment Regulations 2009 r. 18 | 21 Jul 2009 p. 2918-27 | 20 Jul 2010 (see r. 2(b));
+Mines Safety and Inspection Amendment Regulations 2009 r. 18 | 21 Jul 2009 p. 2918-27 | 20 Jul 2010 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
-Repealed by the Industrial Relations Commission Regulations 2005 r. 121.
+Repealed by the Medical Practitioners Act 2008.
+Repealed by the National Occupational Health and Safety Commission (Repeal, Consequential and Transitional Provisions) Act 2005 (Commonwealth).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Mines Safety and Inspection Amendment Regulations 2005 r. 10(2)-(4) read as follows:
-“
 (2) If immediately before the commencement of subregulation (1) —
-(a) there is a form that has the approval of the Mines Occupational Safety and Health Advisory Board for the purposes of the definition of “assessment form” in regulation 3.23; or
-(b) there is a form that has the approval of that Board for the purposes of the definition of “respiratory questionnaire” in that regulation,
+(a) there is a form that has the approval of the Mines Occupational Safety and Health Advisory Board for the purposes of the definition of assessment form in regulation 3.23; or
+(b) there is a form that has the approval of that Board for the purposes of the definition of respiratory questionnaire in that regulation,
 the approval is to be treated as if it had been given by the Mining Industry Advisory Committee.
-(3) Any advice given by the Mines Occupational Safety and Health Advisory Board before the commencement of subregulation (1) for the purposes of paragraph (b) of the definition of “designated work” in regulation 3.23 is to be treated as if it had been given by the Mining Industry Advisory Committee.
+(3) Any advice given by the Mines Occupational Safety and Health Advisory Board before the commencement of subregulation (1) for the purposes of paragraph (b) of the definition of designated work in regulation 3.23 is to be treated as if it had been given by the Mining Industry Advisory Committee.
 (4) In this regulation —
 Mines Occupational Safety and Health Advisory Board has the meaning given by section 4(1) of the Act as in force before the commencement of section 115(2) of the Occupational Safety and Health Legislation Amendment and Repeal Act 2004.
-”.
 The Mines Safety and Inspection Amendment Regulations 2005 r. 13(2)-(3) read as follows:
-“
 (2) Any advice given by the Mines Occupational Safety and Health Advisory Board before the commencement of subregulation (1) for the purposes of regulation 9.2 is to be treated as if it had been given by the Mining Industry Advisory Committee.
 (3) In subregulation (2) —
 Mines Occupational Safety and Health Advisory Board has the meaning given by section 4(1) of the Act as in force before the commencement of section 115(2) of the Occupational Safety and Health Legislation Amendment and Repeal Act 2004.
-”.
-On the date as at which this compilation was prepared, the Mines Safety and Inspection Amendment Regulations 2009 r. 18 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Mines Safety and Inspection Amendment Regulations 2009 r. 18 had not come into operation. It reads as follows:
 18.Regulation 6.37 amended
 (1) Before regulation 6.37(1) insert:
 (1A) Subject to subregulation (2), a person must not —
@@ -97,21 +95,19 @@ additional health assessment3.23
 adequate4.33(2)
 ADG Code7.20
 ADR1.3
-AFFF 10.47(1)
+AFFF10.47(1)
 alter6.1
 an escape route10.10(1)
-applicant2.21(1), 2.22(1), 2.23(1), 2.24(1), 2.25(1),
-2.27(1), 2.28(1), 2.30(1), 3.47(1)
+applicant2.21(1), 2.22(1), 2.23(1), 2.24(1), 2.25(1), 2.28(1), 2.30(1), 3.47(1)
 appointed member2.7
 approved7.1, 16.1
-approved person3.23
+approved person.3.23
 AS1.3
 AS/NZS1.3
 asbestos removal work9.1
-assessment form3.23
+assessment form. 3.23
 atmospheric contaminant9.1
 audiometric test3.23
-Australian Code for the Transport of Dangerous Goods by Road and Rail7.20
 Australian Design Rule1.3
 authorised limit16.1
 authorised person5.31(4), 8.21(6)
@@ -186,8 +182,8 @@ exemption1.3
 exhaust treatment device10.47(1)
 existing mine1.3
 exposure16.1
-Exposure Standards for Atmospheric Contaminants in the Occupational Environment9.1
 exposure standard9.1
+Exposure Standards for Atmospheric Contaminants in the Occupational Environment9.1
 extra-low voltage5.1
 factor of safety1.3
 fault6.1
@@ -248,11 +244,11 @@ National Model Regulations for the Control of Workplace Hazardous Substances1.3
 new employee3.23
 night1.3
 NOHSC1.3
-nominateSch. 1 cl. 1
 noise exposure7.1
 noise level7.1
 noise officer7.10(2)
 noise report7.1
+nominateSch. 1 cl. 1
 non-designated employee16.1
 notice2.4A(1)
 notice of electionSch. 1 cl. 1
