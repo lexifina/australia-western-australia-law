@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 April 2009 of the Road Traffic (Infringements) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Infringements) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Infringements) Regulations 1975 | 29 May 1975 p. 1521-31 | 1 Jun 1975
@@ -77,6 +77,7 @@ Road Traffic Legislation Amendment Regulations 2008 Pt. 5 | 14 Mar 2008 p. 832-4
 Road Traffic Consequential Amendment Regulations 2008 Pt. 4 | 10 Jun 2008 p. 2449-67 | 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 Road Traffic Amendment (Novice Driver Penalties) Regulations 2008 Pt. 3 | 27 Jun 2008 p. 3119-24 | 1 Jul 2008 (see r. 2(b) and Gazette 27 Jun 2008 p. 3117)
 Reprint 6: The Road Traffic (Infringements) Regulations 1975 as at 3 Apr 2009 (includes amendments listed above)
+Road Traffic (Infringements) Amendment Regulations (No. 2) 2009 | 16 Oct 2009 p. 4069 | r. 1 and 2: 16 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Oct 2009 (see r. 2(b))
 This amendment was superseded in Gazette 29 Jun 1979 p. 1777-8.
 The amendments to the First Schedule do not have effect because the items they would have amended were deleted in Gazette 1 Dec 2000 p. 6759.
 Defined Terms
