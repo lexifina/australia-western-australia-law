@@ -62,6 +62,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 21 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Co-operatives Act 2009 s. 490 | 24 of 2009 | 22 Oct 2009 | Operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 This refers to the Commonwealth Bankruptcy Act 1924 which was replaced by the Commonwealth Bankruptcy Act 1966.
 The Companies Act 1893 was repealed by the Companies Act 1943, which was repealed by the Companies Act 1961, s. 4 and 382(2), except in relation to Co-operative Companies, in respect of which it may now be cited as the Companies (Co-operative) Act 1943.
 Repealed by the Public Trustee Act 1941 s. 3.
@@ -126,6 +127,9 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 (3) Section 172(1) is amended by deleting paragraph (a) and “or” after it.
 (4) Section 176A(1)(c) is deleted.
 (5) Section 366 is amended in the definition of “Company” by deleting “, or a society registered under the Housing Societies Act 1976”.
+On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 490 had not come into operation. It reads as follows:
+490.Companies (Co-operative) Act 1943 repealed
+The Companies (Co-operative) Act 1943 is repealed.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
