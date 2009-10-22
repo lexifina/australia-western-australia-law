@@ -38,6 +38,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 19 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Co-operatives Act 2009 s. 515 | 24 of 2009 | 22 Oct 2009 | Operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 Before it was repealed by the Interpretation Act 1984, the Interpretation Act 1918, section 26 read as follows:
 “
 26.Words importing masculine gender and singular number to include feminine gender and plural number
@@ -60,3 +61,8 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 19.Housing Loan Guarantee Act 1957 repealed
 The Housing Loan Guarantee Act 1957 is repealed.
 ”.
+On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 515 had not come into operation. They read as follows:
+515.Housing Loan Guarantee Act 1957 amended
+(1) This section amends the Housing Loan Guarantee Act 1957.
+(2) In section 5(1)(a) delete “or Co-operative and Provident Societies Act 1903”.
+(3) In section 10 delete “or Co-operative and Provident Societies Act 1903”.
