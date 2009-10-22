@@ -19,13 +19,20 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 25 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Co-operatives Act 2009 s. 508 and 513 | 24 of 2009 | 22 Oct 2009 | s. 508: to be proclaimed (see s. 2(b)); s. 513: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 Repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 25 had not come into operation. It reads as follows:
-“
 25.Criminal Property Confiscation Act 2000 amended
 (1) The amendment in this section is to the Criminal Property Confiscation Act 2000.
 (2) The Glossary is amended in the definition of “financial institution” by deleting paragraph (d).
-”.
+On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 508 and 513 had not come into operation. They read as follows:
+508.Criminal Property Confiscation Act 2000 amended
+(1) This section amends the Criminal Property Confiscation Act 2000.
+(2) In the Glossary in paragraph (e) of the definition of financial institution after “1903” insert:
+, or a co-operative registered under the Co-operatives Act 2009 that is permitted under that Act to accept money on deposit
+513.Criminal Property Confiscation Act 2000 amended
+(1) This section amends the Criminal Property Confiscation Act 2000.
+(2) In the Glossary in paragraph (e) of the definition of financial institution delete “a registered society within the meaning of the Co-operative and Provident Societies Act 1903, or”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
