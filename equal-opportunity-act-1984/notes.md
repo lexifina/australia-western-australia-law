@@ -44,6 +44,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 26 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Co-operatives Act 2009 s. 509 and 514 | 24 of 2009 | 22 Oct 2009 | s. 509: to be proclaimed (see s. 2(b)); s .514: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
 Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
 The Uniform Building By-laws 1974 were repealed in Gazette 28 July 1989 p. 2280.
@@ -89,3 +90,17 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 (b) after subparagraph (iii) by deleting “or”;
 (c) by deleting subparagraph (iv).
 ”.
+On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 509 and 514 had not come into operation. They read as follows:
+509.Equal Opportunity Act 1984 amended
+(1) This section amends the Equal Opportunity Act 1984.
+(2) In section 35N(1)(a) after “1903” insert:
+or of a co-operative registered under the Co-operatives Act 2009
+(3) In section 66ZS(1)(a)(i) after “1903” insert:
+or of a co-operative registered under the Co-operatives Act 2009
+(4) In section 69(1)(b)(i) after “1903” insert:
+or of a co-operative registered under the Co-operatives Act 2009
+514.Equal Opportunity Act 1984 amended
+(1) This section amends the Equal Opportunity Act 1984.
+(2) In section 35N(1)(a) delete “of a society registered under the Co-operative and Provident Societies Act 1903 or”.
+(3) In section 66ZS(1)(a)(i) delete “of a society registered under the Co-operative and Provident Societies Act 1903 or”.
+(4) In section 69(1)(b)(i) delete “of a society registered under the Co-operative and Provident Societies Act 1903 or”.
