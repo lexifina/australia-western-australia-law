@@ -27,6 +27,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 31 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Co-operatives Act 2009 s. 511 and 518 | 24 of 2009 | 22 Oct 2009 | s. 511: to be proclaimed (see s. 2(b)); s. 518: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 The Western Australian Treasury Corporation Amendment Act 1992 s. 7(4) reads as follows:
 “
 (4) Any agreement or arrangement entered into, or transaction effected, before the commencement of this section which would have been lawful and valid had —
@@ -95,3 +96,11 @@ has the same effect after commencement, to the extent that it has any force or s
 commencement means the time at which this Division comes into operation;
 Minister means the Minister to whom the administration of the Western Australian Treasury Corporation Act 1986 is committed.
 ”.
+On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 511 and 518 had not come into operation. They read as follows:
+511.Western Australian Treasury Corporation Act 1986 amended
+(1) This section amends the Western Australian Treasury Corporation Act 1986.
+(2) After Schedule 1 item 6 insert:
+7A. | Co-operatives registered under the Co-operatives Act 2009.
+518.Western Australian Treasury Corporation Act 1986 amended
+(1) This section amends the Western Australian Treasury Corporation Act 1986.
+(2) In Schedule 1 delete items 5 and 6.
