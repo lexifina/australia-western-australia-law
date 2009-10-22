@@ -49,6 +49,7 @@ Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2004 s. 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Petroleum Amendment Act 2007 s. 99 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Local Government Amendment Act 2009 s. 3 and Pt. 2-8 | 17 of 2009 | 16 Sep 2009 | To be proclaimed (see s. 2(b))
+Co-operatives Act 2009 s. 506 and 516 | 24 of 2009 | 22 Oct 2009 | s. 506: operative on the day Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d)); s. 516: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 Footnote no longer applicable.
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -636,3 +637,16 @@ Part 8 — Consequential amendments
 (2) Delete section 19(2).
 (3) Delete section 20.
 (4) Delete section 38(3).
+On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 506 and 516 had not come into operation. They read as follows:
+506.Local Government Act 1995 amended
+(1) This section amends the Local Government Act 1995.
+(2) In section 6.26(2)(i) delete “company” (each occurrence) and insert:
+co-operative
+(3) In section 6.26(3) delete “company” and insert:
+co-operative
+516.Local Government Act 1995 amended
+(1) This section amends the Local Government Act 1995.
+(2) In section 5.74 in the definition of corporation:
+(a) delete paragraph (d) and “or” after it;
+(b) after each of paragraphs (a) and (b) insert:
+or
