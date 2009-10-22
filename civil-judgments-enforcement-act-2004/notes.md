@@ -11,6 +11,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 20 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Co-operatives Act 2009 s. 507 and 512 | 24 of 2009 | 22 Oct 2009 | s. 507: to be proclaimed (see s. 2(b)); s. 512: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
 Part 22 — Transitional provisions
@@ -86,6 +87,14 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 “ or ”;
 (b) by deleting paragraph (d) and “or” after it.
 ”.
+On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 507 and 512 had not come into operation. They read as follows:
+507.Civil Judgments Enforcement Act 2004 amended
+(1) This section amends the Civil Judgments Enforcement Act 2004.
+(2) In section 45 in paragraph (c) of the definition of financial institution after “1903” insert:
+, or a co-operative registered under the Co-operatives Act 2009 that is permitted under that Act to accept money on deposit
+512.Civil Judgments Enforcement Act 2004 amended
+(1) This section amends the Civil Judgments Enforcement Act 2004.
+(2) In section 45 in paragraph (c) of the definition of financial institution delete “a society registered or deemed to be registered under the Co-operative and Provident Societies Act 1903, or”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
