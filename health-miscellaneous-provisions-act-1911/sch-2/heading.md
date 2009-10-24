@@ -18,3 +18,4 @@ Places for storing, drying, or preserving bones, hides, hoofs or skins;
 Tripe-boiling establishments;
 Works for boiling down meat, bones, blood, or offal.
 [Schedule 2 amended by No. 25 of 1952 s. 10; No. 26 of 1985 s. 10; and Gazette 20 Sep 1918 p. 1453; 26 Nov 1993 p. 6321; 17 Nov 2000 p. 6289.]
+[Schedule 3 deleted by No. 43 of 2008 s. 147(14).]
