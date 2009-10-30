@@ -11,7 +11,17 @@ Reprint 1: The Casino Control Regulations 1999 as at 21 Jan 2005 (includes amend
 Casino Control Amendment Regulations 2005 | 14 Oct 2005 p. 4560 | 1 Jan 2006 (see r. 2)
 Casino Control Amendment Regulations 2007 | 9 Oct 2007 p. 5350 | r. 1 and 2: 9 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2008 (see r. 2(b))
 Reprint 2: The Casino Control Regulations 1999 as at 6 Mar 2009 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Casino Control Amendment Regulations 2009 r. 3 and 4 | 30 Oct 2009 p. 4314 | 1 Jan 2010 (see r. 2(b))
 The commencement date of 1 Oct 2001 that was specified was before the date of gazettal.
+On the date as at which this compilation was prepared, the Casino Control Amendment Regulations 2009 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Casino Control Regulations 1999.
+4.Regulation 4 amended
+In regulation 4 delete “$125.” and insert:
+$135.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
