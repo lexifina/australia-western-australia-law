@@ -6,4 +6,5 @@ Hospitals (Licensing and Conduct of Private Hospitals) Regulations 1987 | 23 Jan
 Hospitals (Licensing and Conduct of Private Hospitals) Amendment Regulations 1997 | 7 Nov 1997 p. 6132-3 | 13 Nov 1997 (see r. 2)
 Reprint 1: The Hospitals (Licensing and Conduct of Private Hospitals) Regulations 1987 as at 13 Feb 2004 (includes amendments listed above)
 Hospitals (Licensing and Conduct of Private Hospitals) Amendment Regulations 2006 | 15 Dec 2006 p. 5625-6 | 15 Dec 2006
+Hospitals (Licensing and Conduct of Private Hospitals) Amendment Regulations 2009 | 30 Oct 2009 p. 4306-7 | r. 1 and 2: 30 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2009 (see r. 2(b))
 Repealed by the National Health and Medical Research Council Act 1992 s. 54 (No. 225 of 1992) of the Commonwealth.
