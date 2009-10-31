@@ -39,7 +39,8 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Local Government (Official Conduct) Amendment Act 2007 | 1 of 2007 | 28 Mar 2007 | s. 1 and 2: 28 Mar 2007; Act other than s. 1 and 2: 21 Oct 2007 (see s. 2 and Gazette 21 Aug 2007 p. 4173)
  | Local Government Amendment Act 2007 | 9 of 2007 | 25 Jun 2007 | s. 1 and 2: 25 Jun 2007; Act other than s. 1 and 2: 6 Sep 2007 (see s. 2 and Gazette 3 Aug 2007 p. 3989)
  | Local Government (Miscellaneous Provisions) Amendment Act 2007 s. 13 | 11 of 2007 | 29 Jun 2007 | 1 Jul 2008 (see s. 2 and Gazette 6 Jun 2008 p. 2179)
- | Reprint 4: The Local Government Act 1995 as at 18 Jan 2008 (includes amendments listed above, except those in the Local Government (Miscellaneous Provisions) Amendment Act 2007)
+ | Petroleum Amendment Act 2007 s. 99 | 35 of 2007 | 21 Dec 2007 | 31 Oct 2009 (see s. 2(b) and Gazette 30 Oct 2009 p. 4305)
+ | Reprint 4: The Local Government Act 1995 as at 18 Jan 2008 (includes amendments listed above, except those in the Local Government (Miscellaneous Provisions) Amendment Act 2007 and the Petroleum Amendment Act 2007)
  | Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 87 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
  | Local Government Amendment (Elections) Act 2009 | 15 of 2009 | 17 Aug 2009 | s. 1 and 2: 17 Aug 2009 (see s. 2(a)); Act other than s. 1 and 2: 29 Aug 2009 (see s. 2(b) and Gazette 28 Aug 2009 p. 3347)
@@ -47,7 +48,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2004 s. 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
-Petroleum Amendment Act 2007 s. 99 | 35 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Local Government Amendment Act 2009 s. 3 and Pt. 2-8 | 17 of 2009 | 16 Sep 2009 | To be proclaimed (see s. 2(b))
 Co-operatives Act 2009 s. 506 and 516 | 24 of 2009 | 22 Oct 2009 | s. 506: operative on the day Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d)); s. 516: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 Footnote no longer applicable.
@@ -289,38 +289,7 @@ and is not the holder of an office of member of a council other than an office t
 ”.
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 28 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 99 had not come into operation. It reads as follows:
-“
-99.Local Government Act 1995 amended
-(1) The amendments in this section are to the Local Government Act 1995.
-(2) Section 1.4 is amended in paragraph (e)(iii) of the definition of “owner” as follows:
-(a) by deleting “Petroleum Act 1967” and inserting instead —
-“
-Petroleum and Geothermal Energy Resources Act 1967
-”;
-(b) by deleting “petroleum production licence or a petroleum exploration permit” and inserting instead —
-“ permit, drilling reservation, lease or licence ”.
-(3) Section 6.27 is amended as follows:
-(a) in paragraph (c) —
-(i) by deleting “Petroleum Act 1967” and inserting instead —
-“
-Petroleum and Geothermal Energy Resources Act 1967
-”;
-(ii) by deleting “petroleum production licence or exploration permit,” and inserting instead —
-“ permit, drilling reservation, lease or licence, ”;
-(b) by deleting “licence or permit” and inserting instead —
-“ permit, drilling reservation, lease or licence ”.
-(4) Section 6.29(1) is amended as follows:
-(a) by deleting “petroleum production licence or exploration permit held under the Petroleum Act 1967” and inserting instead —
-“
-permit, drilling reservation, lease or licence held under the Petroleum and Geothermal Energy Resources Act 1967
-”;
-(b) by deleting “licence or permit” and inserting instead —
-“ permit, drilling reservation, lease or licence ”.
-(5) Section 6.29(2) is amended by deleting “licence or permit” and inserting instead —
-“ permit, drilling reservation, lease or licence ”.
-”.
+25-27Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Local Government Amendment Act 2009 s. 3 and Pt. 2-8 had not come into operation. They read as follows:
 3.Act amended
 This Act amends the Local Government Act 1995.
