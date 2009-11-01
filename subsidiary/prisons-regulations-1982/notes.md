@@ -40,15 +40,16 @@ Prisons Amendment Regulations 2008 | 28 Mar 2008 p. 907-8 | r. 1 and 2: 28 Mar 2
 Prisons Amendment Regulations (No. 2) 2008 | 9 May 2008 p. 1844-5 | r. 1 and 2: 9 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 10 May 2008 (see r. 2(b))
 Reprint 5: The Prisons Regulations 1982 as at 11 Jul 2008 (includes amendments listed above)
 Prisons Amendment Regulations (No. 3) 2008 | 28 Nov 2008 p. 5029-30 | r. 1 and 2: 28 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Nov 2008 (see r. 2(b))
+Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, these Regulation must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 17 as if these Regulations had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Repealed by the Nurses and Midwives Act 2006.
 Regulation 5 disallowed on 15 Dec 1999 (see Gazette 21 Dec 1999 p. 6417).
 The Inspector of Custodial Services Act 2003 s. 56(2) reads as follows:
 “
 (2) Nothing in this Act prevents any of the Prisons Regulations 1982 from being amended in accordance with the Prisons Act 1981.
 ”.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 aggravated alcohol offence26
 aggravated drug offence26
 allocated81A
