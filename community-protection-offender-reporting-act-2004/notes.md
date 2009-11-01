@@ -8,6 +8,7 @@ Acts Amendment (Justice) Act 2008 s. 127 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008
 Criminal Law Amendment (Homicide) Act 2008 s. 25(1)-(3) | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(b) and (d) and Gazette 22 Jul 2008 p. 3353)
 Community Protection (Offender Reporting) Amendment Act 2008 s. 4-12 | 27 of 2008 | 1 Jul 2008 | 2 Jul 2008 (see s. 2(b))
 Reprint 1: The Community Protection (Offender Reporting) Act 2004 as at 14 Nov 2008 (includes amendments listed above)
+Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 5 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
