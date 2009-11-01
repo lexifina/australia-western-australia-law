@@ -12,6 +12,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 6 and 17 | 77 of 2006 | 2
 Reprint 1: The Sentence Administration Act 2003 as at 20 Jul 2007 (includes amendments listed above)
 Fines Legislation Amendment Act 2008 Pt. 4 | 3 of 2008 | 12 Mar 2008 | 28 Mar 2008 (see s. 2(c) and Gazette 27 Mar 2008 p. 899)
 Criminal Law Amendment (Homicide) Act 2008 s. 39 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
+Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 20 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 2 Div. 4 commenced 31 Aug 2003 (see Gazette 29 Aug 2003 p. 3833).
 The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 6 requires a review of certain provisions. It was repealed by the Parole and Sentencing Legislation Amendment Act 2006 (No. 41 of 2006) s. 94 (commenced on 28 Jan 2007 see s. 2 and Gazette 29 Dec 2006 p. 5867).
 The Parole and Sentencing Legislation Amendment Act 2006 Pt. 7 reads as follows:
