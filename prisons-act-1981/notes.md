@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Prisons Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Prisons Act 1981 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Prisons Act 1981 | 115 of 1981 | 14 Dec 1981 | 1 Aug 1982 (see s. 2 and Gazette 23 Jul 1982 p. 2841)
@@ -48,6 +48,7 @@ Reprint 6: The Prisons Act 1981 as at 16 Nov 2007 (includes amendments listed ab
 Police Amendment Act 2008 s. 16 and 23(6) | 8 of 2008 | 31 Mar 2008 | s. 16: 1 Apr 2008 (see s. 2(1)) s. 23(6): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Criminal Law Amendment (Homicide) Act 2008 s. 36(3) | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
+Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 16 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
