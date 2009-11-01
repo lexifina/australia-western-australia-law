@@ -21,6 +21,7 @@ Acts Amendment (Justice) Act 2008 Pt. 19 | 5 of 2008 | 31 Mar 2008 | 31 Oct 2008
 Legal Profession Act 2008 s. 699 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Criminal Law Amendment (Homicide) Act 2008 s. 37 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Reprint 3: The Restraining Orders Act 1997 as at 9 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
+Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 18 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Repealed by Children and Community Services Act 2004 s. 250(1)(a).
 Part 9 contained transitional provisions relating to orders to keep the peace in force under the Justices Act 1902 when this Act came into operation.
 The Courts Legislation Amendment and Repeal Act 2004 s. 123 (the amendment to s. 67(2)) and s. 124 (the amendment to s. 4(a)) were repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(3) and (4).
