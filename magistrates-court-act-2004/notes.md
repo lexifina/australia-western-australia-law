@@ -10,58 +10,14 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 State Superannuation Amendment Act 2007 s. 77 | 25 of 2007 | 16 Oct 2007 | 6 Dec 2007 (see s. 2(1)(b) and Gazette 5 Dec 2007 p. 5973)
 Reprint 1: The Magistrates Court Act 2004 as at 4 Jan 2008 (includes amendments listed above)
 Acts Amendment (Justice) Act 2008 Pt. 15 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Cross-border Justice Act 2008 Pt. 15 Div. 2 | 7 of 2008 | 31 Mar 2008 | 1 Nov 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991)
 Legal Profession Act 2008 s. 677 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 Sch. 3 cl. 32 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-Reprint 2: The Magistrates Court Act 2004 as at 15 May 2009 (includes amendments listed above)
+Reprint 2: The Magistrates Court Act 2004 as at 15 May 2009 (includes amendments listed above except those in the Cross-border Justice Act 2008 Pt. 15 Div. 2)
 Acts Amendment (Bankruptcy) Act 2009 s. 55 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Cross-border Justice Act 2008 Pt. 15 Div. 2 | 7 of 2008 | 31 Mar 2008 | 1 Nov 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991)
+Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 13 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Repealed by the Courts Legislation Amendment and Repeal Act 2004.
 The Courts Legislation Amendment and Repeal Act 2004 contains transitional provisions about enforcing judgments given before the Civil Judgments Enforcement Act 2004 commenced, including judgment of Local Courts.
-On the date as at which this compilation was prepared, the Cross-border Justice Act 2008 Pt. 15 Div. 2 had not come into operation. It reads as follows:
-Part 15 — Consequential amendments to other legislation
-Division 2 — Magistrates Court Act 2004 amended
-154.The Act amended
-The amendments in this Division are to the Magistrates Court Act 2004.
-155.Section 8 amended
-(1) Section 8(1) and (2) are repealed and the following subsections are inserted instead —
-“
-(1) The Court —
-(a) is to have registries at such places, including places outside the State, as the Minister, by written notice to the Chief Magistrate, decides from time to time; and
-(b) is to sit at places where it has a registry at such times as the Chief Magistrate decides from time to time; and
-(c) may, despite paragraphs (a) and (b), sit or otherwise exercise its jurisdiction at any time and place, but must not do so at a place outside the State without the approval of the Chief Magistrate.
-(2) However, subsection (1) does not authorise the Court to have a registry, to sit, or to otherwise exercise its jurisdiction, at a place outside the State except to the extent allowed by the law of the jurisdiction in which the place is located.
-”.
-(2) Section 8(3) is amended by deleting “subsections (1) and (2)” and inserting instead —
-“ subsection (1)(a) and (b) ”.
-(3) Section 8(4) and (6) are repealed.
-156.Section 15 amended
-After section 15(3) the following subsection is inserted —
-“
-(4) This section applies in relation to an act or omission by a person outside the State as if it were an act or omission by the person in the State.
-”.
-157.Section 26 amended
-(1) Section 26(7) is repealed and the following subsections are inserted instead —
-“
-(7) If the Court is required to perform its functions at a place outside the State, the Minister may appoint as a Registrar or Deputy Registrar of the Court at the place —
-(a) a person who holds office as a registrar or deputy registrar of a court of the jurisdiction in which the place is located; or
-(b) any other person.
-(7a) The conditions of service (including remuneration as defined in Schedule 1 clause 5(1)) of a person appointed under subsection (7)(a) are those that the person is entitled to under the law of that other jurisdiction.
-(7b) A person appointed under subsection (7)(a) ceases to hold office if the person ceases to hold office as a registrar or deputy registrar of the court of that other jurisdiction.
-”.
-(2) After section 26(8) the following subsections are inserted —
-“
-(8a) With the approval of the Minister, a Registrar or Deputy Registrar may concurrently hold office as registrar or deputy registrar of a court of another jurisdiction.
-(8b) Subsection (8a) does not require a Registrar or Deputy Registrar appointed under subsection (7)(a) or (b) to obtain the Minister’s approval to hold another office.
-”.
-158.Schedule 1 amended
-(1) After Schedule 1 clause 4(2) the following subclause is inserted —
-“
-(3) The oath or affirmation of office may be taken at a place outside the State.
-”.
-(2) Schedule 1 clause 10 is repealed.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
