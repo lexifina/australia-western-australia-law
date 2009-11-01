@@ -18,6 +18,7 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 7 | 65 of 2006 | 8 Dec
 Criminal Law and Evidence Amendment Act 2008 s. 60 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Criminal Law Amendment (Homicide) Act 2008 s. 29 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Reprint 3: The Criminal Law (Mentally Impaired Accused) Act 1996 as at 17 Apr 2009 (includes amendments listed above)
+Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 9 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Now known as the Criminal Law (Mentally Impaired Accused) Act 1996; short title changed (see note under s. 1).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
