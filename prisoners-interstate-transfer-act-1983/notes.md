@@ -13,6 +13,7 @@ Reprint of the Prisoners (Interstate Transfer) Act 1983 as at 6 Dec 2002 (includ
  | Criminal Law and Evidence Amendment Act 2008 s. 68 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
  | Prisoners (Interstate Transfer) Amendment Act 2009 | 1 of 2009 | 17 Apr 2009 | s. 1 and 2: 17 Apr 2009 (see s. 2(a)); Act other than s. 1 and 2: 18 Apr 2009 (see s. 2(b))
  | Reprint 2: The Prisoners (Interstate Transfer) Act 1983 as at 24 Jul 2009 (includes amendments listed above)
+Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 15 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
