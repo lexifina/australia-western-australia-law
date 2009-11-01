@@ -30,6 +30,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 1 | 77 o
 Petroleum Amendment Act 2007 s. 88 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Reprint 4: The Aboriginal Affairs Planning Authority Act 1972 as at 8 May 2009 (includes amendments listed above)
 Acts Amendment (Bankruptcy) Act 2009 s. 6 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 2 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The provision in this Act repealing the Native Welfare Act 1963 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Mining Act 1978.
 Repealed by the Land Administration Act 1997.
