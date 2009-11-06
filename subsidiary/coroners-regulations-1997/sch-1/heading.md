@@ -170,7 +170,8 @@ ORDER EXCLUDING PEOPLE FROM AN INQUEST
 This inquest is being held into—
 The death of Which happened on | DayMonthYear
 Information about this order
-Who does it apply to? How long does it apply? What if I have been summoned? | The Coroner has ordered that the following people: must not enter the room where the inquest is being held. This order applies— pFromTimeDayMonthYear pToTimeDayMonthYear pFor the whole of the inquest. You must wait outside the room until you are called in to give evidence or deliver documents or other materials.
+Who does it apply to? How long does it apply? | The Coroner has ordered that the following people: must not enter the room where the inquest is being held. This order applies— pFromTimeDayMonthYear pToTimeDayMonthYear pFor the whole of the inquest.
+What if I have been summoned? | You must wait outside the room until you are called in to give evidence or deliver documents or other materials.
 Information about the making of this order
 Made by Where When Signature | pState Coroner pCoroner TimeDayMonthYear
 Form 13
