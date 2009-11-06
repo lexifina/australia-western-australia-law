@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Radiation Safety Act 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 November 2009 of the Radiation Safety Act 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Radiation Safety Act 1975 | 44 of 1975 | 18 Sep 1975 | 7 May 1976 (see s. 2 and Gazette 7 May 1976 p. 1381)
@@ -18,11 +18,29 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 110 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 79 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129) (correction in Gazette 7 Jan 2005 p. 53)
 Reprint 2: The Radiation Safety Act 1975 as at 4 Nov 2005 (includes amendments listed above)
-Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | 1 Jul 2007 (see s. 2 and Gazette 26 Jun 2007 p. 3013)
-Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
-Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 107 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. (b))
+Medical Radiation Technologists Act 2006 Sch. 3 cl. 5 | 21 of 2006 | 9 Jun 2006 | 1 Jul 2007 (see s. 2 and Gazette 26 Jun 2007 p. 3013)
+Nurses and Midwives Act 2006 Sch. 3 cl. 19 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 107 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 73 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-Repealed by the Interpretation Act 1984.
-The Radiation Safety (General) Regulations 1983 were published in Gazette 21 Feb 1983 p. 555-636.
+Reprint 3: The Radiation Safety Act 1975 as at 6 Nov 2009 (includes amendments listed above)
+Repealed by section 5 of this Act.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 44 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 44 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+authorisation41A(1)
+authorised officer4
+Council4
+electronic product4
+Executive Director4
+irradiating apparatus4
+medical radiation technologist4
+nuclear waste41A(1)
+owner4
+purchaser4
+radioactive substance4
+sell4
+seller4
+supervisor27(2)(bb)(i)
+the repealed Acts4
