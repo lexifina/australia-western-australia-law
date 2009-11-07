@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 April 2008 of the Gas Standards (Gas Supply and System Safety) Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Gas Standards (Gas Supply and System Safety) Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Gas Standards (Gas Supply and System Safety) Regulations 2000 | 4 Jul 2000 p. 3475-540 | 1 Aug 2000 (see r. 2)
@@ -7,6 +7,7 @@ Gas Standards (Gas Supply and System Safety) Amendment Regulations 2000 | 5 Sep 
 Gas Standards (Gas Supply and System Safety) Amendment Regulations 2001 | 3 Aug 2001 p. 3969 | 3 Aug 2001
 Gas Standards (Gas Supply and System Safety) Amendment Regulations 2007 | 4 Jan 2008 p. 3-15 | r. 1 and 2: 4 Jan 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jan 2008 (see r. 2(b))
 Reprint 1: The Gas Standards (Gas Supply and System Safety) Regulations 2000 as at 11 Apr 2008 (includes amendments listed above)
+Gas Standards (Gas Supply and System Safety) Amendment Regulations 2009 | 6 Nov 2009 p. 4468-9 | r. 1 and 2: 6 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Nov 2009 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -19,13 +20,14 @@ AS/NZS3(1)
 auditing period38(3), 61(3)
 badged capacity3(1)
 commencement14
+contractor25(1A)
 corporation17A
 cubic metre3(1)
 determined heating value17A
 determined safety case57(1)
 distribution system3(1)
 emergency17A
-employee3(1)
+employee3(1), 25(1A)
 existing operator17D(1)
 flow weighted average higher heating value17A
 former distribution system26(3)
