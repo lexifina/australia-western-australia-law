@@ -92,7 +92,7 @@ and
 (ii) the design does not make the handgun easier to conceal than a handgun that has a barrel length of 120 mm or 100 mm, as the case requires.
 (4) Subject to subclause (5), an approval or permit may be granted, and a licence may be issued, to a person under subclause (1)(a) in relation to a handgun that has a calibre greater than .38 but not greater than .45 only if the approval, permit or licence is subject to the condition that the handgun must not be used except in either —
 (a) the shooting discipline known as “Metallic Silhouette”; or
-(b) the shooting discipline known as “Western Action” or “Single Shot”.
+(b) the shooting discipline known as “Western Action” or “Single Action”.
 (5) Subclauses (3) and (4) do not apply to a muzzle loading handgun or a cap and ball percussion fired handgun.
 (6) An approval or permit may be granted, and a licence may be issued, to a person under subclause (1)(a) only if it is subject to the condition that —
 (a) if the approval, permit or licence relates to one or more handguns in a single discipline — the licensee must use one of those handguns in at least 6 shooting competitions organised by the club for the discipline on different days in each year; or
@@ -104,4 +104,4 @@ approved means —
 barrel length in relation to a handgun means —
 (a)in the case of a revolver — the distance from the muzzle of the barrel to the breach end immediately in front of the cylinder; and
 (b)in any other case — the distance from the muzzle of the barrel to the point of the breach face (including the chamber), measured with the top slide (if any) in the closed position.
-[Schedule 3 inserted in Gazette 6 Dec 1996 p. 6842-6; amended in Gazette 24 Sep 1997 p. 5367; 12 Aug 2003 p. 3670-1; 24 Dec 2004 p. 6268.]
+[Schedule 3 inserted in Gazette 6 Dec 1996 p. 6842-6; amended in Gazette 24 Sep 1997 p. 5367; 12 Aug 2003 p. 3670-1; 24 Dec 2004 p. 6268; 6 Nov 2009 p. 4445.]
