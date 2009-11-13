@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Poisons Regulations 1965 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 13 November 2009 of the Poisons Regulations 1965 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Poisons Act Regulations 1965 | 29 Jun 1965 p. 1883-914 | 1 Jul 1965
@@ -108,9 +108,9 @@ Poisons Amendment Regulations 1995 | 17 Mar 1995 p. 1026-7 | 17 Mar 1995
 Poisons Amendment Regulations (No. 2) 1995 | 28 Apr 1995 p. 1466 | 28 Apr 1995
 Poisons Amendment Regulations (No. 3) 1995 | 28 Apr 1995 p. 1466-7 | 1 Jun 1995 (see r. 2)
 Poisons Amendment Regulations (No. 4) 1995 | 27 Jun 1995 p. 2550-1 | 1 Jul 1995 (see r. 2)
-Poisons Amendment Regulations (No. 6) 1996 | 5 Sep 1995 p. 4162 | 5 Sep 1995
+Poisons Amendment Regulations (No. 6) 1995 | 5 Sep 1995 p. 4162 | 5 Sep 1995
 Poisons Amendment Regulations (No. 5) 1995 | 19 Sep 1995 p. 4382-4 | 19 Sep 1995
-Poisons Amendment Regulations 1996 | 17 Jan 1996 p. 267 | 17 Jan 1996
+Poisons Amendment Regulations 1996 | 19 Jan 1996 p. 267 | 19 Jan 1996
 Poisons Amendment Regulations (No. 2) 1996 | 19 Mar 1996 p. 1216-39 | 20 Mar 1996 (see r. 2 and Gazette 19 Mar 1996 p. 1203)
 Poisons Amendment Regulations (No. 4) 1996 | 23 Aug 1996 p. 4088-9 | 23 Aug 1996
 Poisons Amendment Regulations (No. 5) 1996 | 1 Oct 1996 p. 5088 | 1 Oct 1996
@@ -146,17 +146,118 @@ Poisons Amendment Regulations (No. 5) 2009 | 28 Jul 2009 p. 2979-80 | r. 1 and 2
 Poisons Amendment Regulations 2009 | 15 Sep 2009 p. 3571-2 | r. 1 and 2: 15 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Sep 2009 (see r. 2(b))
 Poisons Amendment Regulations (No. 3) 2009 | 15 Sep 2009 p. 3573-82 | r. 1 and 2: 15 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Sep 2009 (see r. 2(b))
 Poisons Amendment Regulations (No. 6) 2009 | 25 Sep 2009 p. 3746-7 | r. 1 and 2: 25 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2009 (see r. 2(b))
+Reprint 9: The Poisons Regulations 1965 as at 13 Nov 2009 (includes amendments listed above)
+Repealed by the Medical Practitioners Act 2008.
 Repealed by the Mental Health Act 1981 which was repealed by the Mental Health Act 1996.
-The Poisons Amendment Regulations (No. 3) 2001 r. 4(2) reads as follows:
-“
-(2) A licence issued under regulation 4 of the Poisons Regulations 1965 and in force immediately before the day on which this regulation commences, continues in force on and after that day, as if it were a licence issued under regulation 3 of those regulations as amended by this regulation.
-”.
+Repealed by the Nurses and Midwives Act 2006.
+Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Security and Related Activities (Control) Act 1996.
-The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia
+The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Renumbering of regulation 41 to regulation 40A effected by amendment in Gazette 19 March 1996 p. 1225.
 Now known as the Poisons Regulations 1965; citation amended (see note to r. 1).
+The Poisons Amendment Regulations (No. 3) 2001 r. 4(2) reads as follows:
+(2) A licence issued under regulation 4 of the Poisons Regulations 1965 and in force immediately before the day on which this regulation commences, continues in force on and after that day, as if it were a licence issued under regulation 3 of those regulations as amended by this regulation.
 The Nurses Amendment Act 2003 s. 50 reads as follows:
-“
 50.Existing power to amend regulations unaffected
 Nothing in this Division prevents any of the Poisons Regulations 1965 from being amended in accordance with the Poisons Act 1964.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+access code32A(1)
+animal2(1)
+approved clinic51FA
+approved electronic prescribing system2(1)
+approved health service36AA(1)
+approved name35C(4), 36AA(1), 36AAB(1), 64(1)
+approved needle and syringe programme2(1)
+approved starter pack36AA(1)
+Australian Register of Therapeutic Goods35C(4), 64(1)
+authorised person44(1), 44C(1)
+authorised prescriber51A(1)
+auto-injector41D(1)
+brand64(1)
+brand name35C(4), 36AA(1)
+certificated commercial vessel2(1)
+child2(1)
+child care service41D(1)
+commencement day66
+Commonwealth Schedule51H(3)
+Community Emergency Response Team36AAB(1)
+coordinator2(1)
+co-prescriber51FA
+current clinic51FA
+current clinic prescriber51FA
+current prescriber51FA
+dermatologist2(1)
+direction2(1)
+director of nursing2(1)
+dispense2(1)
+distribute2(1)
+distributor2(1)
+dosage unit2(1)
+drug addict51A(1)
+emergency supplies36A(4)
+entry44C(1)
+experienced person2(1)
+exporter39C(5)
+external2(1)
+former manager51FK
+gynaecologist2(1)
+height21A(4)
+immediate container2(1)
+immediate wrapper2(1)
+inappropriate use32A(1)
+livestock39C(5)
+manager51FA
+manufacture2(1)
+manufacturer2(1)
+master of a ship39C(5)
+Medical Board2(1)
+metropolitan region36AAB(1)
+new manager51FK
+new provisions69
+nominated co-prescriber51FA
+obstetrician2(1)
+old authorisation67(1)(b), 68(1)(b)
+permit2(1)
+personal supervision2(1)
+pharmacotherapy51A(1)
+pharmacy51A(1)
+physician2(1)
+poisons cupboard2(1)
+Policies Manual51A(1)
+prescribe2(1)
+prescription66
+proprietary preparation8A(16)
+psychiatric emergency pack36AAB(1)
+psychiatrist2(1)
+public hospital2(1)
+qualified person2(1)
+quarter2(1)
+racing yacht2(1)
+register44C(1)
+registered nurse2(1)
+remote area nursing post2(1)
+Rural Community Mental Health Team36AAB(1)
+sale2(1)
+sample8A(16)
+Schedule2(1)
+school41D(1)
+sell2(1)
+specialist prescriber51A(1)
+specified3(6)
+specified drug8A(1a)
+SPN practitioner51FA
+starter pack36AA(1)
+starter pack instruction36AA(1)
+stimulant51FA
+Stimulant Prescribing Code51FA
+supply2(1)
+SUSDP2(1)
+system identifier32A(1)
+team medical practitioner36AAB(1)
+team psychiatrist36AAB(1)
+team registered nurse36AAB(1)
+the Act2(1)
+the HDWA Authorisation No.51GB(2)
+to sell2(1)
