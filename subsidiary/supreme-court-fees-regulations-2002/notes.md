@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Supreme Court (Fees) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 13 November 2009 of the Supreme Court (Fees) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Supreme Court (Fees) Regulations 2002 | 27 Dec 2001 p. 6583-616 | 1 Jan 2002 (see r. 2)
@@ -12,6 +12,20 @@ Supreme Court (Fees) Amendment Regulations 2006 | 23 Jun 2006 p. 2184-7 | 1 Jul 
 Reprint 1: The Supreme Court (Fees) Regulations 2002 as at 18 Aug 2006 (includes amendments listed above)
 Supreme Court (Fees) Amendment Regulations 2007 | 26 Jun 2007 p. 3042-4 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b)(i))
 Supreme Court (Fees) Amendment Regulations 2008 | 8 Feb 2008 p. 313-14 | r. 1 and 2: 8 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2008 (see r. 2(b) and Gazette 8 Feb 2008 p. 313)
-Supreme Court (Fees) Amendment Regulations (No. 2) 2008 | 27 Jun 2008 p. 3059-62 | r. 1 and 2: 27 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Supreme Court (Fees) Amendment Regulations (No. 2) 2008 | 27 Jun 2008 p. 3059-62 | r. 1 and 2: 27 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Supreme Court (Fees) Amendment Regulations 2009 | 9 Jun 2009 p. 1921-2 | r. 1 and 2: 9 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2009 (see r. 2(b))
 Supreme Court (Fees) Amendment Regulations (No. 2) 2009 | 4 Sep 2009 p. 3461-72 | r. 1 and 2: 4 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2009 (see r. 2(b))
+Reprint 2: The Supreme Court (Fees) Regulations 2002 as at 13 Nov 2009 (includes amendments listed above)
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+corporation3
+enforcement officer3
+fee9(1), 9A(1)
+grantSch. 3
+individual3
+non-profit association3
+Rules3
+small business3
+special reasons7(1a)
+subsidiary3
