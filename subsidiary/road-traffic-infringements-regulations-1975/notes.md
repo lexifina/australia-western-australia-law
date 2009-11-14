@@ -78,6 +78,7 @@ Road Traffic Consequential Amendment Regulations 2008 Pt. 4 | 10 Jun 2008 p. 244
 Road Traffic Amendment (Novice Driver Penalties) Regulations 2008 Pt. 3 | 27 Jun 2008 p. 3119-24 | 1 Jul 2008 (see r. 2(b) and Gazette 27 Jun 2008 p. 3117)
 Reprint 6: The Road Traffic (Infringements) Regulations 1975 as at 3 Apr 2009 (includes amendments listed above)
 Road Traffic (Infringements) Amendment Regulations (No. 2) 2009 | 16 Oct 2009 p. 4069 | r. 1 and 2: 16 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Oct 2009 (see r. 2(b))
+Road Traffic (Infringements) Amendment Regulations 2009 | 13 Nov 2009 p. 4539-40 | r. 1 and 2: 13 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2009 (see r. 2(b))
 This amendment was superseded in Gazette 29 Jun 1979 p. 1777-8.
 The amendments to the First Schedule do not have effect because the items they would have amended were deleted in Gazette 1 Dec 2000 p. 6759.
 Defined Terms

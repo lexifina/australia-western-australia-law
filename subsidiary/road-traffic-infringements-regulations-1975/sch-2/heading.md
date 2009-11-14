@@ -121,47 +121,60 @@ Signature: |  | Date:
 Mail this completed form to the Department for Planning and Infrastructure PO Box R1290 GPO Perth 6844.
 [Form 3 inserted in Gazette 23 Dec 2005 p. 6287-9.]
 Form 4
-NOTICE REQUESTING INFORMATION / TRAFFIC INFRINGEMENT NOTICE — PHOTOGRAPHIC EVIDENCE
-Road Traffic Act 1974 section 102C(1)
-To: Address: |  | Notice No.:
-Specified Day: |  | Vehicle No.:
-PART AOFFENCE DETAILS
-Offence:
-Location:
-Offence date: | Offence time:
-Issuing officer: | Rank and No.: | Demerit points:
-PART BIMPORTANT INFORMATION
-1. | The primary purpose of this notice is for you to advise the WA Police who was driving or in charge of the vehicle at the time of the offence alleged in Part A. To do this you may complete and return one of the Divisions of Part F of this notice within 14 days of the specified day (specified at the top of this form) to avoid the modified penalty below.
-2. | If photographic evidence of the offence was enclosed with this notice and you failed to comply with s.102C(3) of the Act within 14 days after the specified day shown above, you commit an offence which may be dealt with in the Magistrates Court or by paying the modified penalty shown in this Part to the officer specified in Part E within 28 days after the specified day shown above. Please note that there is further information in Part E (overleaf).
-MODIFIED PENALTY: |  | DUE DATE:
-PART CPHOTOGRAPHIC EVIDENCE
-The images below are a representation of the original photographic evidence. Due to the limitations of printing photographs in this format they are not intended or expected to duplicate the quality of the original images.
-[Photographs of vehicle] These images identify the vehicle. There is no legal requirement for them to identify the driver of the vehicle. You, as the “responsible person” for this vehicle, are required to identify the driver at the time. These images may assist you in this identification. [Does not apply if photographic evidence not enclosed]
-PART DPAYMENT DETAILS
-[Payment details are to be included with this form and the officer to whom payment may be made is to be specified here ]
+MOTOR VEHICLE OFFENCE — NOTICE REQUESTING INFORMATION
+Road Traffic Act 1974 s. 102C, 102D
+[Name and address of responsible person] | Notice No. | [Notice No.]
+Vehicle No. | [Vehicle No.]
+Date of issue | [Issue date]
+Compliance date | [Compliance date]
+REQUEST FOR INFORMATION
+Under the Road Traffic Act 1974 you are a responsible person for the vehicle referred to above. It is alleged that the offence described in Part A was committed involving that vehicle. As a responsible person you are required to give to the WA Police the name and address of the driver or person in charge of the vehicle at the time of the alleged offence. To do this fill in Part B and return this form by the compliance date. Failing to provide the information as requested is an offence. There is more information about this overleaf.
+Issuing officer | PD No.
+PART ADETAILS OF OFFENCE
+Offence
+Location
+Date and time | // hours
+These images identify the vehicle involved in the alleged offence and may assist you to identify the driver.
+[Photographs of vehicle]
+PART BINFORMATION TO BE PROVIDED
+If you know who was driving or in charge of the vehicle at the time of the alleged offence, fill in Division 1. If the vehicle had been stolen or unlawfully taken or used, fill in Division 2. If you do not know who was driving at the time, you may make a statutory declaration to that effect as described in Division 3.
+Division 1 Driver or person in charge known | q Driver or q Person in charge of vehicle
+Surname |  | Given names
+No. and street |  | Suburb |  | Postcode
+Phone No. |  | Driver’s licence | No. | State
+Division 2 Vehicle stolen or unlawfully taken or used | q Stolen or unlawfully taken or used
+Reported to police | q YesReport No.
+Division 3Driver or person in charge not known
+If you do not know and cannot reasonably ascertain the name and address of the driver or person in charge of the vehicle at the time of the alleged offence you may give a statutory declaration to that effect. The statutory declaration must be returned with this form.
+A statutory declaration must be made in accordance with the Oaths, Affidavits and Statutory Declarations Act 2005. It must be signed before an authorised witness. An example statutory declaration is available at [www. Police website ].
+Making a false statutory declaration is an offence for which you may be imprisoned for 5 years.
+SIGN AND RETURN FORM
+Surname |  | Given names
+No. and street |  | Suburb |  | Postcode
+Phone No. |  | Position
+Signature |  | Date
+Return form | By post | [Postal address]
+In person | [Street address]
 Reverse of Form 4
-PART EYOUR OPTIONS — FURTHER DETAILS
-IMPORTANT INFORMATION: If you fail to comply with s.102C(3) of the Act, then — this notice is to be regarded as an infringement notice for your failure to comply; the amount due under Part B is the modified penalty for that failure to comply; and unless you, by .............................., either (1) pay the modified penalty within the time specified or (2) elect to have the matter dealt with in court; you may be liable for extra costs. PAYMENT will only be accepted if — the payment is received on or before .............................. ; the payment is made in full; and the payment is made as specified in this notice.
-PART FINFORMATION REGARDING WHO WAS DRIVING OR IN CHARGE OF THE VEHICLE
-Please complete Division 1 OR 2 or, if photographic evidence was enclosed, Division 3.
-Division 1: The person who was driving / in charge of (delete whichever is inapplicable) the vehicle was —
-Surname: |  | Given name: |  | Ph.:
-Address: |  | Suburb: |  | Postcode:
-Name of person making statement: |  | Position:
-Signature: |  | Date:
-Division 2: At the time of the offence the vehicle was stolen / unlawfully taken or used (delete whichever is inapplicable).
-Date, time and circumstances in which you discovered vehicle had been stolen / taken / unlawfully used:
-_____________________________________________________________________________________________________________
-Name of person making statement: |  | Position:
-Signature: |  | Date:
-Division 3: Statutory Declaration
-I ............................................................................. [name], of ........................................................................................ [address], being authorised to make statements for ....................................................., do solemnly and sincerely declare that I do not know and cannot reasonably ascertain the name and address of the driver or person in charge of the vehicle at the time of the offence alleged in Part A,
-and I make this solemn declaration by virtue of section 106 of the Evidence Act 1906.
-Declared at: |  | Before:
-Signature: |  | Date: |  | Signature: |  | Date:
- |  |  |  |  | JP, CD, Police Officer etc.
-Mail or personally deliver this completed form to the officer in charge, Infringement Management and Operations GPO Box S1400 Perth WA 6845, or personally deliver it to the officer in charge of any police station.
-[Form 4 inserted in Gazette 23 Dec 2005 p. 6289-90.]
+If you have filled in Part B on the front of the form, DO NOT FILL IN THIS SIDE OF THE FORM
+FAILING TO PROVIDE REQUESTED INFORMATION IS AN OFFENCE
+If you do not complete Part B and return this form by the compliance date set out on the front of this form you commit an offence — called the “failing to comply offence”.
+This notice then has effect as an infringement notice about the failing to comply offence. | Infringement No. | [Notice No.]
+If you do not want to be prosecuted for the failing to comply offence, you can pay the modified penalty. To do this you must pay the modified penalty by the payment date. The options for how to pay are set out in Part D below. | Modified penalty | [Modified penalty]
+Payment date | [Payment date]
+If you do not do pay the modified penalty you may be prosecuted for committing the failing to comply offence. The maximum fine for the failing to comply offence is double the maximum fine that could be imposed by a court for the vehicle offence described in Part A. You may also be ordered to pay costs.
+If you want the offence dealt with by a court, fill in Part C and return this form by the payment date.
+PART CFAILING TO COMPLY OFFENCE – ELECTION TO GO TO COURT
+qI elect to have the failing to comply offence described above dealt with by a court.
+Surname |  | Given names
+No. and street |  | Suburb |  | Postcode
+Phone No. |  | Position
+Signature |  | Date
+Return form | By post | [Postal address]
+In person | [Street address]
+PART DFAILING TO COMPLY OFFENCE – PAYMENT OPTIONS
+[Details of how to pay: in person by post by any available electronic or other methods.]
+[Form 4 inserted in Gazette 13 Nov 2009 p. 4539-40.]
 Form 5
 WITHDRAWAL OF TRAFFIC INFRINGEMENT NOTICE
 Road Traffic Act 1974 section 102(5) or 102C(5)
