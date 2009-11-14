@@ -1,6 +1,7 @@
 ## Schedule 3 — Other permitted traffic signs
 [r. 299]
 NoteIn addition to the traffic signs in the Schedules to these regulations, the following are alternative versions of the signs that may be used to regulate traffic in this jurisdiction. These signs are not included in the Australian Standard AS1742 (Manual of Uniform Traffic Control Devices), but they may be still in use on roads in Western Australia.
+Arrester bed sign (reg 91A) | Arrester bed sign (reg 91A)
 Bicycle lane sign (regs 3, 132, 218) | Bridge load limit (mass per axle group) sign (reg 85)
 Bridge load limit (mass per axle group) sign (reg 85) | Bus lane sign (regs 3, 133)
 Bus lane sign (regs 3, 133) | Bus lane sign (regs 3, 133)
@@ -8,7 +9,8 @@ Bus lane sign (regs 3, 133) | Bus lane sign (regs 3, 133)
 Bus lane sign (regs 3, 133) | Buses must enter sign (reg 89)
 Bus zone sign (arrow and words in red) (regs 3, 154) | Bus zone sign (arrow and words in red) (regs 3, 154)
 End area speed limit sign (regs 3, 11) | End bus lane sign (regs 3, 133)
-End freeway sign (background in green) (regs 3, 78, 149) | End school zone sign (circle in red) (regs 3, 11)
+End freeway sign (background in green) (regs 3, 78, 149) | End keep left unless overtaking sign (reg 113)
+End school zone sign (circle in red) (regs 3, 11) | End school zone sign (regs 3, 11)
 End school zone sign (regs 3, 11) | End school zone sign (circle in red) (regs 3, 11)
 End trucks and buses low gear sign (reg 90) | Freeway sign (background in green) (regs 3, 149)
 Hand-held stop sign (background in red) (regs 3, 83) | Keep right sign (regs 81, 117)
@@ -29,12 +31,13 @@ Pedestrians may cross diagonally sign (regs 196, 199) | Permissive parking sign 
 Permissive parking sign (for a length of carriageway) (edge, word and arrow in green) (reg 172) | Permissive parking sign (for a length of carriageway) (edge, word and arrow in green) (reg 172)
 Permissive parking sign (for an area) (letter in green) (reg 172) | Permissive parking sign (for an area) (letter in green) (reg 172)
 Right lane must turn right sign (reg 70) | Right turn only sign (reg 70)
-Right turn only sign (reg 70) | Road access sign (background in green) (regs 78, 195)
-Road access sign (background in green) (regs 78, 195) | Road access sign (regs 78, 195)
+Right turn only sign (reg 70)
 Road access sign (reg 78) | Road access sign (regs 78, 195)
+School zone sign (shading in orange, circle in red) (regs 3, 11)
 Shared path sign (background circle in blue) (regs 208, 218) | Stop here on red signal sign (reg 40)
 Taxi zone sign (arrow, edge and words in red) (regs 3, 154) | Taxi zone sign (regs 3, 154)
 Taxi zone sign (arrow, edge and words in red) (regs 3, 154) | Trucks and buses low gear sign (reg 90)
 Trucks and buses low gear sign (yellow lights) (reg 90) | Trucks must enter sign (reg 87)
 Trucks use left lane sign (reg 137) | Truck zone sign (arrow and words in red) (regs 3, 152)
 Two-way sign (regs 80, 118) | Works zone sign (arrow and words in red) (regs 3, 153)
+[Schedule 3 amended in Gazette 13 Nov 2009 p. 4612-15.]
