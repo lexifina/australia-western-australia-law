@@ -1,5 +1,6 @@
-## First Schedule
-## Modified penalties
+## Schedule 1 — Modified penalties
+[r. 3]
+[Heading inserted in Gazette 13 Nov 2009 p. 4538.]
 Item | Navigable Waters Regulations 1958 | Description of offence | Modified penalty $
 1 | 6A | Failing to comply with directions ...................... | 200
 1A | 14 | Vessel travelling so as to cause nuisance or damage ............................................................... | 160
@@ -105,6 +106,7 @@ Item | Western Australian Marine Act Section | Description of offence | Modified
 69 | 63(2) | Failing to take vessel to nearest port .................. | 100
 70 | 63(5) | Navigating vessel in breach of order ............... | 150
 71 | 64(2) | Failing to render assistance or give details after a collision ........................................................... | 150
+72A | 64(3) | Failing to — (a)render assistance; or (b)give details to certain persons; or (c)report to the Department within 7 days, after a collision, accident or other casualty involving a pleasure vessel ................................ | 150
 72 | 64(4) | Failing to make immediate report of a casualty or injury on, or damage to, a commercial vessel | 150
 73 | 64(5) | Failing to confirm report of a casualty or injury on, or damage to, a commercial vessel .............. | 150
 74 | 66(3)(a) | Obstructing an authorised person in relation to an area closed to navigation ............................... | 200
@@ -140,4 +142,4 @@ Item | Mooring Regulations 1998 | Description of offence | Modified penalty $
 99 | 6(2)(a) | Securing vessel to mooring on licensed mooring site when another vessel is secured to the mooring ............................... | 100
 100 | 6(2)(b) | Securing vessel to another vessel secured to a mooring on a licensed mooring site .... | 100
 101 | 6A | Securing vessel in a mooring control area for more than 6 hours ................................. | 100
-[First Schedule inserted in Gazette 9 Jun 1992 p. 2381-2; amended in Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880.]
+[First Schedule inserted in Gazette 9 Jun 1992 p. 2381-2; amended in Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880; 13 Nov 2009 p. 4538.]

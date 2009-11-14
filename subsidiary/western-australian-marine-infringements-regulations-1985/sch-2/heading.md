@@ -1,6 +1,6 @@
-## Second Schedule
-[Regulation 4]
-## Forms
+## Schedule 2 — Forms
+[r. 4]
+[Heading inserted in Gazette 13 Nov 2009 p. 4538.]
 FORM 1
 This space for cash register imprint
 Western Australia

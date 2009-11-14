@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 February 2009 of the Western Australian Marine (Infringements) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Western Australian Marine (Infringements) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Western Australian Marine (Infringements) Regulations 1985 | 4 Oct 1985 p. 3866-70 | 4 Jan 1986 (see r. 2)
@@ -21,7 +21,8 @@ Western Australian Marine (Infringements) Amendment Regulations (No. 3) 2005 | 2
 Western Australian Marine (Infringements) Amendment Regulations 2005 | 10 Feb 2006 p. 665-6 | 10 Feb 2006 (see r. 2 and Gazette 10 Feb 2006 p. 667)
 Western Australian Marine (Infringements) Amendment Regulations 2006 | 26 May 2006 p. 1880 | 26 May 2006
 Reprint 2: The Western Australian Marine (Infringements) Regulations 1985 as at 13 Feb 2009 (includes amendments listed above)
-Under the Marine and Harbours Act 1981 s. 20, a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act. As at the date of this reprint, the department principally assisting the Minister in the administration of that Act (and of the Western Australian Marine Act 1982) is the Department of Planning and Infrastructure.
+Western Australian Marine (Infringements) Amendment Regulations (No. 2) 2009 | 13 Nov 2009 p. 4537-8 | r. 1 and 2: 13 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2009 (see r. 2(b))
+Under the Marine and Harbours Act 1981 s. 20, a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act. As at the date of this compilation, the department principally assisting the Minister in the administration of that Act (and of the Western Australian Marine Act 1982) is the Department of Planning and Infrastructure.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 clause 2(1), subject to clause 2(2), a reference in a law to the Crown Law Department is to be read and construed as a reference to the Department of Justice.
 Under the Public Sector Management Act 1994 s. 35(2), notice was given (see Gazette 10 Jan 2006 p. 39) that the designation of the department known as “Department of Justice” was altered to “Department of the Attorney General” effective from 1 Feb 2006.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
