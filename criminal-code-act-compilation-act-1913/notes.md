@@ -157,6 +157,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Criminal Code Amendment (Graffiti) Act 2009 s. 3-5 | 26 of 2009 | 17 Nov 2009 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -205,6 +206,26 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 (4) Section 557K(1) paragraph (h) of the definition of “child sex offender” is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
 ”.
+On the date as at which this compilation was prepared, the Criminal Code Amendment (Graffiti) Act 2009 s. 3-5 had not come into operation. They read as follows:
+3.The Criminal Code amended
+This Act amends The Criminal Code.
+4.Chapter XXIV inserted
+After section 215 insert:
+Chapter XXIV — Miscellaneous offences
+216.Selling graffiti implements to children
+(1) In this section —
+graffiti implement means any of these —
+(a)a can of spray paint;
+(b)a pen, marker pen, or similar implement, that —
+(i)has a tip over 6 mm wide; and
+(ii)contains a fluid that is not water soluble and that is capable of marking a surface.
+(2) A person who sells a graffiti implement to a child commits an offence and is liable —
+(a) for a first offence, to a fine of $6 000;
+(b) for a subsequent offence, to a fine of $12 000.
+(3) It is a defence to a charge of an offence under subsection (2) to prove the accused, or a person acting on behalf of the accused, believed on reasonable grounds that the person to whom the implement was sold had reached 18 years of age.
+5.Section 445 amended
+In section 445 delete “12 months and a fine of $12 000.” and insert:
+2 years and a fine of $24 000.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
