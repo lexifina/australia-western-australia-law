@@ -12,12 +12,13 @@ Item | Navigable Waters Regulations 1958 | Description of offence | Modified pen
 6 | 19A | Vessel exceeding speed of 10 knots between sunset and sunrise —
  |  | (a)by not more than 10 knots ....................... | 160
  |  | (b)by more than 10 knots ............................. | 200
-7 | 19B | Using or setting off signal, flare, rocket or other distress signals, except in case of emergency or vessel in distress, without prior written permission of Department .................................. | 100
+7 | 19B | Using or setting off signal, flare, rocket or other distress signals, except in case of emergency or vessel in distress, without prior written permission of Department .................................. | 200
 8 | 19C(1) | Failing to exhibit on vessel required diving flag | 100
 8A | 19C(3) | Failing to display required lights on vessel from which a person is diving ..................................... | 100
 8B | 19D(1)(a) | Failing to display a diving flag at the place where the person is diving ................................ | 100
 8C | 19D(1)(b) | Failing to display required lights when diving at night otherwise than from a vessel ................... | 100
-9 | 19E | Failing to maintain distance of 50 metres between vessel and place or other vessel displaying diving flag or, during the hours of darkness, the appropriate signal, or failing to reduce speed of vessel to slowest navigable speed whilst passing within 50 metres of that place or other vessel ........................................... | 100
+9 | 19E(1) | Failing to maintain distance of 50 metres between vessel and place or other vessel displaying diving flag or, during the hours of darkness, the appropriate signal, or failing to reduce speed of vessel to slowest navigable speed whilst passing within 50 metres of that place or other vessel ........................................... | 200
+10A | 19E(4A) | Failing to proceed at a safe speed or maintain a proper look out while in the vicinity of a place or vessel displaying a diving flag or appropriate signal, but at least 50 metres clear of that place or vessel ............................................................. | 200
 10 | 42(a) | Anchoring or mooring vessel in fairway or channel when not in distress .............................. | 60
 11 | 42(c) | Placing cable or rope or other obstruction across fairway or channel without written permission of Department ................................. | 100
 12 | 43(a) | Obstructing channel or fairway with net or buoyed objects .................................................... | 120
@@ -128,6 +129,7 @@ Item | Western Australian Marine Act Section | Description of offence | Modified
 87 | 72(1)(i) | Refusing to leave a passenger ship at place to which fare has been paid .................................... | 100
 88 | 72(1)(j) | On a passenger ship failing to produce ticket or pay fare when requested ..................................... | 100
 89 | 73 | Damaging equipment, or obstructing the crew, on a passenger ship ............................................ | 100
+90A | 79(2) | Failure of the master or person in charge of a vessel to comply with the Prevention of Collisions at Sea Regulations 1983 ................... | 300
 90 | 91(1) | Carrying dangerous goods without proper markings ............................................................. | 200
 91 | 97(1) | Carrying explosives on a passenger ship without proper protection ................................ | 200
 92 | 132(8) | Removing an infringement notice from a vessel | 100
@@ -142,4 +144,4 @@ Item | Mooring Regulations 1998 | Description of offence | Modified penalty $
 99 | 6(2)(a) | Securing vessel to mooring on licensed mooring site when another vessel is secured to the mooring ............................... | 100
 100 | 6(2)(b) | Securing vessel to another vessel secured to a mooring on a licensed mooring site .... | 100
 101 | 6A | Securing vessel in a mooring control area for more than 6 hours ................................. | 100
-[First Schedule inserted in Gazette 9 Jun 1992 p. 2381-2; amended in Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880; 13 Nov 2009 p. 4538.]
+[First Schedule inserted in Gazette 9 Jun 1992 p. 2381-2; amended in Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880; 13 Nov 2009 p. 4538; 17 Nov 2009 p. 4631-2.]
