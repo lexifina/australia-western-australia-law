@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 September 2008 of the Land Tax Assessment Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Tax Assessment Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Land Tax Assessment Regulations 2003 | 27 Jun 2003 p. 2409-14 | 1 Jul 2003 (see r. 2(1) and Gazette 27 Jun 2003 p. 2383)
@@ -8,6 +8,7 @@ Land Tax Assessment Amendment Regulations 2007 | 20 Mar 2007 p. 1049 | 20 Mar 20
 Land Tax Assessment Amendment Regulations (No. 2) 2007 | 4 Sep 2007 p. 4521-2 | r. 1 and 2: 4 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2007 (see r. 2(b))
 Land Tax Assessment Amendment Regulations 2008 | 30 May 2008 p. 2088 | r. 1 and 2: 30 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 31 May 2008 (see r. 2(b))
 Reprint 1: The Land Tax Assessment Regulations 2003 as at 5 Sep 2008 (includes amendments listed above)
+Land Tax Assessment Amendment Regulations 2009 | 17 Nov 2009 p. 4632-4 | r. 7: 1 Jul 2009 (see r. 2(b)); r. 1 and 2: 17 Nov 2009 (see r. 2(a)); Regulations other than r. 1, 2 and 7: 18 Nov 2009 (see r. 2(c))
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5(d).
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 3 Div. 3 of those regulations read as follows:
 “
