@@ -123,6 +123,7 @@ Navigable Waters Amendment Regulations (No. 5) 2008 | 24 Oct 2008 p. 4669-70 | r
 Navigable Waters Amendment Regulations (No. 6) 2008 | 9 Jan 2009 p. 36-7 | r. 1 and 2: 9 Jan 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jan 2009 (see r. 2(b))
 Navigable Waters Amendment Regulations 2009 | 13 Mar 2009 p. 761-2 | r. 1 and 2: 13 Mar 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Mar 2009 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 2) 2009 | 12 Jun 2009 p. 2129-30 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Navigable Waters Amendment Regulations (No. 3) 2009 | 17 Nov 2009 p. 4628-30 | r. 1 and 2: 17 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2009 (see r. 2(b))
 Footnote no longer applicable.
 Repealed by the Dangerous Goods Safety Act 2004.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
