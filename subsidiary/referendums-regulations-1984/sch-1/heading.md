@@ -1,13 +1,13 @@
 ## Schedule 1 — Forms
-[Heading inserted in Gazette 24 Dec 2004 p. 6250.]
 [r. 4 and 5]
+[Heading inserted: Gazette 24 Dec 2004 p. 6250.]
 Form 1
 Western Australia
 Referendums Act 1983 (s. 5(1))
 WRIT
 Writ for a referendum
 To the Electoral Commissioner:
-Under the Referendums Act 1983 and (1)................, I direct you to proceed with a referendum as to (2) .............................................................................................. .
+Under the Referendums Act 1983 and (1)................, I direct you to proceed with a referendum as to (2) ...............................................................................................
 Polling day:
 I fix Saturday, ........................................................... 20.......... as the day for the taking of the votes of the electors.(3)
 Day for the return of the writ:
@@ -23,16 +23,14 @@ Notes:
 (b)in the case of a referendum other than a referendum as to a Bill, a statement as to the question to be submitted to the electors.
 (3) If the Referendums Act 1983 section 5(3) applies, delete this and insert —
 (a)in the case of a referendum as to a Bill:
-“Under ........... [refer to the Order in Council made under the Constitution Act 1889 fixing the day for taking of the votes of the electors for the purposes of a referendum as to the Bill] ....... the day fixed for the taking of the votes of the electors is Saturday, ............................................................. 20............”; or
+“Under ........... [refer to the Order in Council made under the Constitution Act 1889 fixing the day for taking of the votes of the electors for the purposes of a referendum as to the Bill] ....... the day fixed for the taking of the votes of the electors is Saturday, .................................... 20............”; or
 (b)in the case of a referendum other than a referendum as to a Bill:
 “Under ........... [refer to the title of the Act by which the referendum is authorised or required] ....... the day fixed for the taking of the votes of the electors is Saturday, ............................................................. 20............”.
 (Reverse)
 Indorsement
 My statement required by the Referendums Act 1983 section 30(1) in relation to the referendum held under this writ is as follows:
 [Insert, for each district, the information required.]
-Dated ........................................... 20 ........................................................
+Dated ................................... 20 .......... ..............................................
 Electoral Commissioner
-[Form 1 inserted in Gazette 24 Dec 2004 p. 6250-1.]
-Form 2
-BALLOT PAPER Referendums Act 1983 (s. 17) Daylight Saving Act 2006 (s. 5) tear off here ------------------------------------------------------------------------------- Western AustraliaBallot paper Daylight Saving Act 2006 section 5 HOW TO VOTE If you are in favour, write YES in the box under the question below. If you are not in favour, write NO in the box under the question below. QUESTION Are you in favour of daylight saving being introduced in Western Australia by standard time in the State being advanced one hour from the last Sunday in October 2009 until the last Sunday in March 2010 and in similar fashion for each following year? WRITE ‘YES’ OR ‘NO’
-[Form 2 inserted in Gazette 21 Nov 2008 p. 4925.]
+[Form 1 inserted: Gazette 24 Dec 2004 p. 6250-1.]
+[Form 2 omitted under the Reprints Act 1984 s. 7(4)(e).]
