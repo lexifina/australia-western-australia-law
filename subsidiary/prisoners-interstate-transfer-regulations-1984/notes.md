@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Prisoners (Interstate Transfer) Regulations 1984 and includes the amendments made by the other written laws referred to in the following table. This table also contains information about any previous reprint.
+This is a compilation as at 20 November 2009 of the Prisoners (Interstate Transfer) Regulations 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Prisoners (Interstate Transfer) Regulations 1984 | 29 Jun 1984 p. 1796-809 | 1 Jul 1984 (see r. 2 and Gazette 29 Jun 1984 p. 1753)
@@ -9,4 +9,10 @@ Prisoners (Interstate Transfer) Amendment Regulations 1988 | 2 Sep 1988 p. 3396 
 Miscellaneous Amendments Regulations 1997 | 6 Jan 1998 p. 33 | 6 Jan 1998
 Reprint of the Prisoners (Interstate Transfer) Regulations 1984 as at 15 Nov 2002 (includes amendments listed above)
 Prisoners (Interstate Transfer) Amendment Regulations 2008 | 9 May 2008 p. 1841-4 | r. 1 and 2: 9 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 10 May 2008 (see r. 2(b))
+Reprint 2: The Prisoners (Interstate Transfer) Regulations 1984 as at 20 Nov 2009 (includes amendments listed above)
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to “chief executive officer”. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Department4(1)
+Department of the Attorney General4(1)
