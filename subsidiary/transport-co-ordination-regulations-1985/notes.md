@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Transport Co-ordination Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 20 November 2009 of the Transport Co-ordination Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Transport Co-ordination Regulations 1985 | 20 Dec 1985 p. 4835-55 | 1 Jan 1986 (see r. 2)
@@ -21,5 +21,22 @@ Transport Co-ordination Amendment Regulations 2007 | 22 Jun 2007 p. 2872-3 | r. 
 Transport Co-ordination Amendment Regulations 2008 | 30 May 2008 p. 2087 | r. 1 and 2: 30 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 31 May 2008 (see r. 2(b))
 Transport Co-ordination Amendment Regulations (No. 2) 2008 | 1 Jul 2008 p. 3159-60 | r. 1 and 2: 1 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2008 (see r. 2(b))
 Transport Co-ordination Amendment Regulations 2009 | 30 Jun 2009 p. 2661-2 | r. 1 and 2: 30 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Reprint 3: The Transport Co-ordination Regulations 1985 as at 20 Nov 2009 (includes amendments listed above)
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+charter services3(1)
+credit card charge3(1)
+Form3(1)
+GST3(1)
+licensee3(1)
+load factor3(1)
+net freight revenue3(1)
+net passenger revenue3(1)
+operating costs3(1)
+passenger service fee3(1)
+registration number3(1)
+revenue load factor3(1)
+RPT services3(1)
