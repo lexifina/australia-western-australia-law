@@ -73,6 +73,10 @@ Liquor Control Amendment Regulations (No. 6) 2009 | 9 Jun 2009 p. 1927-8 | r. 1 
 Reprint 8: The Liquor Control Regulations 1989 as at 3 Jul 2009 (includes amendments listed above)
 Liquor Control Amendment Regulations (No. 3) 2009 | 24 Jul 2009 p. 2949 | r. 1 and 2: 24 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2009 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 4) 2009 | 24 Jul 2009 p. 2952 | r. 1 and 2: 24 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2009 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Liquor Control Amendment Regulations (No. 7) 2009 r. 3-5 | 20 Nov 2009 p. 4662-6 | 1 Jan 2010 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Commenced 7 May 2007.
 Now known as the Liquor Control Regulations 1989; citation changed (see note under r. 1).
@@ -80,6 +84,76 @@ Disallowed on 26 Apr 1992, see Gazette 1 May 1992 p. 1844.
 The Liquor Licensing Amendment Regulations (No. 2) 2001 r. 2(3) and (4) are transitional provisions that are of no further effect.
 The amendments in the Liquor Licensing Amendment Regulations 2004 r. 3 and 5 are not included because of an error in the reference to the provisions to be amended.
 The Liquor Control Amendment Regulations (No. 2) 2007 r. 12 could not have effect as the reference to the Liquor Licensing Act 1988 was changed to the Liquor Control Act 1988 under the Reprints Act 1984 s. 7(3)(gb) (see note above).
+On the date as at which this compilation was prepared, the Liquor Control Amendment Regulations (No. 7) 2009 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Liquor Control Regulations 1989.
+4.Regulation 26 amended
+(1) In regulation 26(1aa):
+(a) in paragraph (a) delete “$105.00; or” and insert:
+$200; or
+(b) in paragraph (b) delete “$205.00.” and insert:
+$400.
+(2) In regulation 26(1b) after “equal to” insert:
+half
+5.Schedule 3 replaced
+Delete Schedule 3 and insert:
+Schedule 3 — Fees
+[r. 11, 18B and 26]
+Item | Description | Fee $ | Electronic lodgment fee $
+1. | Application for the grant or removal of a hotel licence, nightclub licence, casino liquor licence, special facility licence or liquor store licence | 2 750 | 2 475
+2. | Application for the grant or removal of a club licence, restaurant licence, producer’s licence or wholesaler’s licence | 750 | 675
+3. | Application for the transfer of a licence | 750
+4. | Licence fee for any licence other than a club restricted licence | 500
+5. | Licence fee for a club restricted licence | 250
+6. | Application for an occasional licence where the anticipated number of persons attending* is —
+ | (a)up to 250 | 50
+ | (b)between 251 and 500 | 100
+ | (c)between 501 and 1 000 | 200
+ | (d)between 1 001 and 5 000 | 1 000
+ | (e)between 5 001 and 10 000 | 2 000
+ | (f)over 10 000 | 4 000
+ | [*See regulation 26(4) as to the anticipated number of persons attending]
+7. | Application for extended trading permit for a period of over 21 days —
+ | (a)issued for a purpose referred to in section 60(4)(ca) ................................ | 400 | 360
+ | (b)issued for a purpose referred to in section 60(4)(h) .............. | 300 | 270
+ | (c)issued for any other purpose ................ | 1 000 | 900
+8. | Application for extended trading permit for a period of 21 days or less —
+ | (a)for each day .............. | 100 (up to a max. of 1 000)
+ | (b)for each occasion within that period that includes times extending beyond 12 midnight on a Saturday or beyond 10 p.m. on a Sunday (in addition to the fee calculated under paragraph (a)) | 100
+9. | Application for approval of manager after licence is granted —
+ | (a)under licence other than club licence or club restricted licence ................................ | 140
+ | (b)under club licence .............. | 95
+ | (c)under club restricted licence ................ | 30
+10. | Application for approval of person in position of authority —
+ | (a)under licence other than club licence or club restricted licence ................................ | 140
+ | (b)under club licence or club restricted licence .............. | 95
+11. | Application for approval for alteration or redefinition of licensed premises z | 320 | 295
+12. | Application for a protection order under section 87(1) | 200
+13. | Application for duplicate licence | 35
+14. | Application for approval of change of name of licensed premises | 70
+15. | Application to add, vary or cancel condition of licence or permit (other than club restricted licence) —
+ | (a)for a period of over 21 days ................................ | 200 | 180
+ | (b)for a period of 21 days or less — for each day.............. | 100 (up to a max. of 1 000)
+16. | Application to add, vary or cancel condition of club restricted licence | 40
+17. | Application under section 62(6) to vary any plans or specifications the subject of a condition | 240 | 215
+18. | Application for approval of agreement or arrangement | 200
+19. | Application under section 126A for approval of entertainment for juveniles on licensed premises | 60
+20. | Application for Proof of Age Card | 25
+21. | Supply of a list of licensed premises or a list of owners of licensed premises | 80
+22. | Supply of a list of licensed premises on computer disk | 50
+23. | Supply of address labels for licensed premises | 120
+24. | Supply of approved heading for advertising an application | 25
+25. | Supply of copy of plan — for each sheet | 25 (up to a max. of 200)
+26. | Supply of certified copy of plan defining licensed premises | 35
+27. | Supply of copy of a licence, a permit or a decision of the Commission (or the former Liquor Licensing Court) or the Director | 25
+28. | For the certification of a copy of a licence, a permit or a decision of the Commission (or the former Liquor Licensing Court) or the Director [In addition to the fee under item 26] | 25
+29. | Supply of copy of documentation, other than that already prescribed, per page | 5
+30. | Issue of a summons to a witness | 20
+31. | For a search of the database of records of licences — per licence | 35
+32. | For a full search of a licence record | 45
+33. | For a search of postcodes —
+ | (a)1 to 10 postcodes | 35
+ | (b)more than 10 postcodes | 75
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
