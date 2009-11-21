@@ -12,4 +12,6 @@ Section 3.27(3) applies.
 Section 3.36 applies.
 Section 3.27(3) applies.
 6.Place on land signs to indicate the names of public thoroughfares.
-7.Make safe a tree that presents serious and immediate danger, without having given the owner the notice otherwise required by regulations. (The cost cannot then be recovered from the owner.)
+7.Make safe a tree that presents serious and immediate danger, without having given the owner the notice otherwise required by regulations.
+8.Obliterate graffiti that is visible from a public place and that has been applied without the consent of the owner or occupier.
+[Schedule 3.2 amended by No. 17 of 2009 s. 47.]
