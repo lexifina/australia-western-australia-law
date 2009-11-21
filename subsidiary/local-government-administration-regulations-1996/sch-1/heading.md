@@ -97,10 +97,10 @@ Discretionary trusts of which the relevant person is a trustee or an object
 Name of trust | Name and address of settlor | Name and address of trustee
 4.Gifts
 Section 5.82 of the Act
-Description of gift | Name and address of giver
+Description of gift | Value of gift | Name and address of giver
 5.Contributions to travel
 Section 5.83 of the Act
-Name of contributor | Address of contributor
+Description of contribution | Value of contribution | Name and address of contributor
 6.Interests and positions in corporations
 Section 5.84 of the Act
 Name and address of corporation | Nature of interest/ position held | Principal business (if required)
@@ -124,3 +124,4 @@ Section 5.87 of the Act
 ................................................................................................................................
 ................................................................................................................................
 Signature ............................................................. Date .........................................
+[Form 3 amended in Gazette 20 Nov 2009 p. 4661.]
