@@ -25,7 +25,7 @@ Acts Amendment (Equality of Status) Act 2003 Pt. 38 | 28 of 2003 | 22 May 2003 |
 Statutes (Repeals and Minor Amendments) Act 2003 s. 79 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 2: The Local Government Act 1995 as at 2 Apr 2004 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001) (correction in Gazette 1 Oct 2004 p. 4283)
 Workers’ Compensation Reform Act 2004 s. 165 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
-Local Government Amendment Act 2004 s. 4-15, 16(4), 17, 18, 19(1), 21-37, 38(1) and (2) and 39-74 16-19 | 49 of 2004 (as amended by No. 8 of 2009 s. 88) | 12 Nov 2004 | s. 17, 30-37, 38(1) and (2) and 39-41: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); s. 10-15, 18, 21, 22, 42, 46(3), 47, 48, 53, 55-58, 61-64, 67, 68, 70, 71, 73 and 74: 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029); s. 4-9, 16(4), 19(1), 23-29, 43-45, 46(1), (2) and (4), 49-52, 54, 65, 66, 69 and 72: 7 May 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029 and 29 Apr 2005 p. 1771); Proclamation published 31 Mar 2005 p. 1029 revoked to the extent that the proclamation applies to s. 16(1), (2), (3) and (5) and s. 19(2) (see Gazette 29 Apr 2005 p. 1771); s. 59 and 60: 1 Jul 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029) s. 16(1), (2), (3) & (5) deleted by No. 8 of 2009 s. 88
+Local Government Amendment Act 2004 16-19, 23 | 49 of 2004 (as amended by No. 8 of 2009 s. 88; No. 17 of 2009 s. 48) | 12 Nov 2004 | s. 17, 30-37, 38(1) and (2) and 39-41: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); s. 10-15, 18, 21, 22, 42, 46(3), 47, 48, 53, 55-58, 61-64, 67, 68, 70, 71, 73 and 74: 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029); s. 4-9, 16(4), 19(1), 23-29, 43-45, 46(1), (2) and (4), 49-52, 54, 65, 66, 69 and 72: 7 May 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029 and 29 Apr 2005 p. 1771); Proclamation published 31 Mar 2005 p. 1029 revoked to the extent that the proclamation applies to s. 16(1), (2), (3) and (5) and s. 19(2) (see Gazette 29 Apr 2005 p. 1771); s. 59 and 60: 1 Jul 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029); s. 16(1), (2), (3) & (5) deleted by No. 8 of 2009 s. 88; s. 19(2), 20 and 38(3) deleted by No. 17 of 2009 s. 48
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
  | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 76 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 11 and s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
@@ -44,11 +44,11 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 87 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
  | Local Government Amendment (Elections) Act 2009 | 15 of 2009 | 17 Aug 2009 | s. 1 and 2: 17 Aug 2009 (see s. 2(a)); Act other than s. 1 and 2: 29 Aug 2009 (see s. 2(b) and Gazette 28 Aug 2009 p. 3347)
+ | Local Government Amendment Act 2009 | 17 of 2009 | 16 Sep 2009 | s. 1 and 2: 16 Sep 2009 (see s. 2(a)); Act other than s. 1, 2 and 34: 21 Nov 2009 (see s. 2(b) and Gazette 20 Nov 2009 p. 4649)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Local Government Amendment Act 2004 s. 19(2), 20 and 38(3) | 49 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
-Local Government Amendment Act 2009 s. 3 and Pt. 2-8 | 17 of 2009 | 16 Sep 2009 | To be proclaimed (see s. 2(b))
+Local Government Amendment Act 2009 s. 34 | 17 of 2009 | 16 Sep 2009 | To be proclaimed (see s. 2(b))
 Co-operatives Act 2009 s. 506 and 516 | 24 of 2009 | 22 Oct 2009 | s. 506: operative on the day Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d)); s. 516: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 Footnote no longer applicable.
 Repealed by the Mining Act 1978.
@@ -259,353 +259,16 @@ the LG Act means the Local Government Act 1995.
 (3) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.78 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.78.
 ”.
 References to the Executive Director were replaced by references to the Departmental CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
-On the date as at which this compilation was prepared, the Local Government Amendment Act 2004 s. 19(2), 20 and 38(3) had not come into operation. They read as follows:
-“
-Part 4 — Other amendments
-19.Section 2.25 amended
-(2) Section 2.25(4) is amended by inserting before “is disqualified” —
-“
-, or throughout all ordinary meetings of the council for a period of 2 months,
-”.
-20.Section 2.27 amended, consequential amendment and transitional provision
-(1) Section 2.27(4)(a) is amended by deleting “28” and inserting instead —
-“ 14 ”.
-(2) Section 2.27(5) is amended by deleting “28” and inserting instead —
-“ 14 ”.
-(3) Section 2.27(6) is amended by deleting from paragraph (b) to the end of the subsection and inserting instead —
-“
-(b) applies to a court of summary jurisdiction asking for a declaration as to whether or not the member is disqualified and gives a copy of the application to the CEO,
-or if, within that time, the member advises the CEO in writing that the member accepts that he or she is disqualified, then the member is disqualified and the CEO is to give the member written notice to that effect without delay.
-”.
-(4) Section 2.27(7) is amended by deleting “A person other than the CEO” and inserting instead —
-“ Notwithstanding subsection (6), any person ”.
-(5) Section 2.32(d) is amended by inserting after “disqualified,” —
-“ is disqualified under section 2.27(6), ”.
-(6) Section 2.27 of the Local Government Act 1995 as in force immediately before the commencement of this section applies to and in respect of a member given notice under section 2.27(3) of that Act before that commencement, with respect to that notice.
-38.Section 4.48 amended
-(3) Section 4.48(2) is amended by inserting after “council” the following —
-“
-and is not the holder of an office of member of a council other than an office the term of which will end on, or before, election day
-”.
-”.
+The Local Government Amendment Act 2004 s. 19(2), 20 and 38(3) had not come into operation when it was deleted by the Local Government Amendment Act 2009 s. 48.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 28 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 25-27Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Local Government Amendment Act 2009 s. 3 and Pt. 2-8 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Local Government Act 1995.
-Part 2 — Amendments about introductory matters and the constitution of local government
-4.Section 2.7 amended
-In section 2.7(1)(a) delete “directs and controls” and insert:
-governs
-5.Section 2.25 amended
-(1) In section 2.25(2) delete “Minister.” and insert:
-Minister, unless all of the meetings are within a period of 3 months.
-(2) After section 2.25(2) insert:
-(3A) Leave is not to be granted in respect of —
-(a) a meeting that has concluded; or
-(b) the part of a meeting before the granting of leave.
-(3) In section 2.25(4):
-(a) delete “first”;
-(b) delete “council.” and insert:
-council, unless all of the meetings are within a 2 month period.
-(4) After section 2.25(4) insert:
-(5A) If a council holds 3 or more ordinary meetings within a 2 month period, and a member is absent without leave throughout each of those meetings, the member is disqualified if he or she is absent without leave throughout the ordinary meeting of the council immediately following the end of that period.
-(5) In section 2.25(5)(b):
-(a) delete “while” (first occurrence);
-(b) at the beginning of subparagraph (i) insert:
-while
-(c) after subparagraph (ii) insert:
-(iiia) while the member is suspended under section 5.117(1)(a)(iv); or
-(d) after subparagraph (i) insert:
-or
-(6) After section 2.25(5) insert:
-(6) A member who before the commencement of the Local Government Amendment Act 2009 section 5 was granted leave during an ordinary meeting of the council from which the member was absent is to be taken to have first obtained leave for the remainder of that meeting.
-6.Section 2.27 amended
-(1) In section 2.27(4)(a) delete “28” and insert:
-14
-(2) In section 2.27(6) delete paragraph (b) and all of the subsection after it and insert:
-(b) applies to the State Administrative Tribunal asking for a declaration as to whether or not the member is disqualified and gives a copy of the application to the CEO,
-the member is taken to have been disqualified for the reasons indicated in the CEO’s notice.
-(3) After section 2.27(6) insert:
-(7A) If subsection (6) applies to a member the CEO is to give the member a written notice to that effect.
-(4) In section 2.27(7) delete “A person other than the CEO” and insert:
-The CEO or any other person
-(5) After section 2.27(9) insert:
-(10) This section as in force immediately before the commencement of the Local Government Amendment Act 2009 section 6 applies to and in respect of a notice given under section 2.27(3) before that commencement.
-7.Section 2.39 amended
-(1) In section 2.39 delete “A commissioner” and insert:
-(1) A commissioner
-(2) At the end of section 2.39 insert:
-(2) Subsection (1) does not prevent the appointment of a person under Schedule 2.4 clause 4 to fill a vacancy in the office of commissioner.
-Part 3 — Amendments about functions of local governments
-8.Section 3.27 amended
-(1) After section 3.27(1) insert:
-(2A) In subsection (1) land includes Crown land the subject of a pastoral lease within the meaning of the Land Administration Act 1997 section 3.
-(2) After section 3.27(3) insert:
-(4A) For the purposes of subsection (3), planting pasture on land for grazing does not amount to cultivating the land.
-9.Section 3.47 amended
-In section 3.47(2b):
-(a) after paragraph (b) delete “and”;
-(b) after paragraph (b) insert:
-(ca) for prescribed non-perishable goods — one month;
-10.Section 3.58 amended
-(1) After section 3.58(3)(a)(i) insert:
-and
-(2) In section 3.58(4):
-(a) delete paragraph (c) and insert:
-(c) the market value of the disposition —
-(i) as ascertained by a valuation carried out not more than 6 months before the proposed disposition; or
-(ii) as declared by a resolution of the local government on the basis of a valuation carried out more than 6 months before the proposed disposition that the local government believes to be a true indication of the value at the time of the proposed disposition.
-(b) after paragraph (a) insert:
-and
-(3) In section 3.58(5):
-(a) delete paragraph (a) and insert:
-(a) a disposition of an interest in land under the Land Administration Act 1997 section 189 or 190; or
-(b) after paragraph (b) insert:
-or
-11.Section 3.64 amended
-In section 3.64(d) after “members” insert:
-and deputy members
-Part 4 — Amendments about elections and other polls
-12.Section 4.17 amended
-(1) In section 4.17(3) delete all the words before “the council may,” and insert:
-If a councillor’s office becomes vacant under section 2.32 and under subsection (4A) this subsection applies,
-(2) After section 4.17(3) insert:
-(4A) Subsection (3) applies —
-(a) if —
-(i) the office is for a district that has no wards; and
-(ii) at least 80% of the number of offices of member of the council in the district are still filled;
-or
-(b) if —
-(i) the office is for a ward for which there are 5 or more offices of councillor; and
-(ii) at least 80% of the number of offices of councillor for the ward are still filled.
-13.Section 4.30 amended
-(1) In section 4.30(1):
-(a) delete paragraph (c) and insert:
-(c) has made a successful eligibility claim that still has effect under section 4.33.
-(b) after paragraph (a) insert:
-and
-(2) After section 4.30(2) insert:
-(3) For the purposes of subsection (1)(c) an eligibility claim is successful if it is accepted under section 4.32, whether or not the acceptance is before the close of enrolments, as defined in section 4.39(1).
-(4) A person who is eligible under subsection (1) to vote at an election held less than 50 days after the commencement of the Local Government Amendment Act 2009 section 13 is eligible to vote at that election.
-14.Section 4.32 amended
-(1) In section 4.32(4) delete “Within” and insert:
-Except as provided for in subsection (5A), within
-(2) After subsection (4) insert:
-(5A) If a claim is made before the close of enrolments as defined in section 4.39(1), but less than 14 days before the close of nominations as defined in section 4.49(a), the CEO is to decide whether to accept or reject the claim before the close of nominations.
-15.Section 4.33 amended
-(1) Delete section 4.33(1a) and (2) and insert:
-(2A) Unless subsection (2B) or (3) applies, if an enrolment eligibility claim made by a person on the basis of occupation of rateable property within the electorate is accepted under section 4.32(4) or (8), the claim expires on the day 6 months after the holding of the second ordinary elections of the local government after the claim is accepted.
-(2B) If an enrolment eligibility claim on the basis of occupation of rateable property within the electorate is —
-(a) made within the period of 49 days before the election day for ordinary elections of the local government; and
-(b) accepted under section 4.32(4) or (8) before the election day,
-the claim expires on the day 6 months after the holding of the third ordinary elections of the local government after the claim is accepted.
-(2) For the purpose of subsection (2A) or (2B), an election that would have been held on a particular day but for the suspension of the council of the local government is to be regarded as having been held on that day.
-(2) In section 4.33(3) delete “subclause (1a)” and insert:
-subsection (2A) or (2B)
-16.Section 4.43 amended
-In section 4.43(3b) after “altered” insert:
-under this section or section 4.44A
-17.Section 4.44A inserted
-After section 4.43 insert:
-4.44A.Alteration of rolls
-(1) The returning officer may alter the owners and occupiers roll by including the name of an elector whose enrolment eligibility claim was made under section 4.32(1) before the close of enrolments, as defined in section 4.39(1), but accepted after that time.
-(2) If the returning officer is not the CEO, the returning officer may direct the CEO to make an alteration to the roll described in subsection (1) and the CEO is to comply with that direction.
-18.Section 4.48 amended
-Delete section 4.48(2) and insert:
-(2) If the election is to fill the office of elector mayor or president, a person can only be a candidate if the person was an elector of the district who, as at the close of enrolments and at the time of nomination, was qualified under section 2.19 to be elected as a member of the council.
-19.Section 4.59 amended
-In section 4.59:
-(a) in paragraph (b) delete “candidates.” and insert:
-candidates; and
-(b) after paragraph (b) insert:
-(c) the provision of information as to expenditure incurred in relation to an election by or for the benefit of candidates.
-Part 5 — Amendments about administration
-20.Section 5.11A inserted
-After section 5.10 insert:
-5.11A.Deputy committee members
-(1) The local government may appoint* a person to be a deputy of a member of a committee and may terminate such an appointment* at any time.
-* Absolute majority required.
-(2) A person who is appointed as a deputy of a member of a committee is to be —
-(a) if the member of the committee is a council member — a council member; or
-(b) if the member of the committee is an employee — an employee; or
-(c) if the member of the committee is not a council member or an employee — a person who is not a council member or an employee; or
-(d) if the member of the committee is a person appointed under section 5.10(5) — a person nominated by the CEO.
-(3) A deputy of a member of a committee may perform the functions of the member when the member is unable to do so by reason of illness, absence or other cause.
-(4) A deputy of a member of a committee, while acting as a member, has all the functions of and all the protection given to a member.
-21.Section 5.36 amended
-(1) In section 5.36(4) delete “If” and insert:
-Unless subsection (5A) applies, if
-(2) After section 5.36(4) insert:
-(5A) Subsection (4) does not require a position to be advertised if it is proposed that the position be filled by a person in a prescribed class.
-22.Section 5.37 amended
-(1) In section 5.37(3) delete “If” and insert:
-Unless subsection (4A) applies, if
-(2) After section 5.37(3) insert:
-(4A) Subsection (3) does not require a position to be advertised if it is proposed that the position be filled by a person in a prescribed class.
-23.Section 5.43 amended
-In section 5.43:
-(a) after paragraph (g) insert:
-(ha) the power under section 9.49A(4) to authorise a person to sign documents on behalf of the local government;
-(b) after paragraph (h) delete “or”.
-24.Section 5.47 replaced
-Delete section 5.47 and insert:
-5.47.Superannuation regulations
-The Governor may make regulations about any matter relating to the provision of superannuation by a local government.
-25.Section 5.48 amended
-In section 5.48(1) delete the definition of employee and insert:
-employee includes an employee of WALGA;
-26.Section 5.62 amended
-In section 5.62(1):
-(a) after paragraph (ea) insert:
-(eb) the relevant person is a council member and since the relevant person was last elected the person —
-(i) gave to the relevant person a gift that section 5.82 requires the relevant person to disclose; or
-(ii) made a contribution to travel undertaken by the relevant person that section 5.83 requires the relevant person to disclose;
-or
-(b) after each of paragraphs (a) to (e) insert:
-or
-27.Section 5.63 amended
-In section 5.63(1)(b) delete “arising from” and insert:
-in
-28.Section 5.78 amended
-Delete section 5.78(2)(b) and insert:
-(b) disclose the actual value, amount or extent of any asset, income, interest, debt or disposition referred to in section 5.79, 5.80, 5.81, 5.84, 5.85 or 5.86.
-29.Section 5.82 amended
-In section 5.82(1) after “description” insert:
-and the amount
-30.Section 5.83 amended
-Delete section 5.83(1) and insert:
-(1) A relevant person is to disclose in an annual return —
-(a) the description and the amount of each financial or other contribution that has been made to any travel undertaken by the person at any time during the return period; and
-(b) the name and address of the person who made each contribution to which paragraph (a) applies.
-31.Section 5.96 amended
-In section 5.96 delete “information and” and insert:
-information and, unless regulations prescribe otherwise,
-32.Part 5 Division 8 heading replaced
-Delete the heading to Part 5 Division 8 and insert:
-Division 8 — Local government payments and gifts to its members
-33.Section 5.98 amended
-After section 5.98(1) insert:
-(2A) A council member who attends a meeting of a prescribed type at the request of the council is entitled to be paid —
-(a) the prescribed minimum fee for attending a meeting of that type; or
-(b) where the local government has set a fee within the prescribed range for meetings of that type, that fee.
+On the date as at which this compilation was prepared, the Local Government Amendment Act 2009 s. 34 had not come into operation. It reads as follows:
 34.Section 5.100A inserted
 After section 5.99A insert:
 5.100A.Gifts to council members
 A local government cannot give a gift to a council member unless —
 (a) the gift is given in prescribed circumstances; and
 (b) the value of the gift is less than a prescribed amount.
-35.Section 5.101A inserted
-After section 5.101 insert:
-5.101A.Regulations about payment of expenses
-Regulations may be made about the method of payment of an expense for which a person can be reimbursed.
-Part 6 — Amendments about financial management
-36.Section 6.14 amended
-In section 6.14(2):
-(a) delete paragraphs (a) and (b);
-(b) after paragraph (c) insert:
-and
-37.Section 6.25 amended
-In section 6.25 insert in alphabetical order:
-owner —
-(a)in relation to land in a retirement village as defined in the Retirement Villages Act 1992 means —
-(i)the owner, as defined in that Act section 3(1); or
-(ii)a mortgagee in possession of the land; or
-(iii)a trustee, executor, administrator, attorney or agent of a person mentioned in this paragraph who is in possession of the land;
-(b)otherwise has the meaning given in section 1.4;
-38.Section 6.29 replaced
-Delete section 6.29 and insert:
-6.29.Valuation and rates on mining and petroleum interests
-(1) In this section —
-relevant interest means —
-(a)a mining tenement held under the Mining Act 1978 (whether within the meaning given to that term by that Act or by the Mining Act 1904); or
-(b)a permit, drilling reservation, lease or licence held under the Petroleum and Geothermal Energy Resources Act 1967.
-(2) Regardless of any determination made under section 6.28(1), the basis for a rate on a relevant interest is to be the unimproved value of the land, except as provided for in subsection (3).
-(3) Subsection (2) does not apply to a relevant interest in a portion of land on which capital improvements are located if —
-(a) the Minister has determined under section 6.28(1) that the gross rental value of the land is to be used as the basis for a rate on that interest; and
-(b) the determination expressly excludes the application of subsection (2).
-(4) The Minister cannot determine under section 6.28(1) that the gross rental value of the land is to be used as the basis for a rate on a relevant interest in a portion of land if another estate in that portion of land is rateable on the basis of the gross rental value of the land.
-(5) For the purpose of subsection (3)(b) a determination is to be taken to expressly exclude the application of subsection (2) if the determination —
-(a) was made before the commencement of the Local Government Amendment Act 2009 section 38; and
-(b) specifically applies to the particular relevant interest.
-39.Section 6.33 amended
-(1) In section 6.33(1):
-(a) in paragraph (a) delete “zoned” and insert:
-zoned, whether or not
-(b) in paragraph (b) delete “the predominant” and insert:
-a
-(2) After section 6.33(4) insert:
-(5) A differential general rate that a local government purported to impose under this Act before the Local Government Amendment Act 2009 section 39(1)(a) came into operation is to be taken to have been as valid as if the amendment made by that paragraph had been made before the purported imposition of that rate.
-40.Section 6.68 amended
-Delete section 6.68(2) and insert:
-(2) A local government is not required to attempt under section 6.56 to recover money due to it before exercising the power of sale where the local government —
-(a) has a reasonable belief that the cost of the proceedings under that section will equal or exceed the value of the land; or
-(b) having made reasonable efforts to locate the owner of the property is unable to do so.
-(3A) A local government is to ensure that a decision to exercise a power of sale without having, within the period of 3 years prior to the exercise of the power of sale, attempted under section 6.56 to recover the money due to it and the reasons for the decision are recorded in the minutes of the meeting at which the decision was made.
-Part 7 — Other amendments
-41.Section 8.2 amended
-(1) In section 8.2(1) delete “local government” (first occurrence) and insert:
-local government, a member of a council, a CEO or an employee
-(2) Delete section 8.2(2) and insert:
-(2) A person who fails to comply with a notice under subsection (1) commits an offence.
-42.Section 9.16 amended
-(1) After section 9.16(1) insert:
-(2A) If a person who is given a notice under section 9.13 about an alleged offence involving a vehicle gives information in accordance with section 9.13(6) about another person who was the driver or person in charge of the vehicle at the time of the alleged offence, the period of 28 days for giving that other person an infringement notice runs from the time the information was given.
-(2) After section 9.16(2) insert:
-(3) An infringement notice given before the commencement of the Local Government Amendment Act 2009 section 42(1) and purporting to be under this section is to be taken to have been as valid as if the amendment made by that subsection had been made before the notice was given.
-43.Sections 9.49A and 9.49B inserted
-At the beginning of Part 9 Division 3 insert:
-9.49A.Execution of documents
-(1) A document is duly executed by a local government if —
-(a) the common seal of the local government is affixed to it in accordance with subsections (2) and (3); or
-(b) it is signed on behalf of the local government by a person or persons authorised under subsection (4) to do so.
-(2) The common seal of a local government is not to be affixed to any document except as authorised by the local government.
-(3) The common seal of the local government is to be affixed to a document in the presence of —
-(a) the mayor or president; and
-(b) the chief executive officer or a senior employee authorised by the chief executive officer,
-each of whom is to sign the document to attest that the common seal was so affixed.
-(4) A local government may, by resolution, authorise the chief executive officer, another employee or an agent of the local government to sign documents on behalf of the local government, either generally or subject to conditions or restrictions specified in the authorisation.
-(5) A document executed by a person under an authority under subsection (4) is not to be regarded as a deed unless the person executes it as a deed and is permitted to do so by the authorisation.
-(6) A document purporting to be executed in accordance with this section is to be presumed to be duly executed unless the contrary is shown.
-(7) When a document is produced bearing a seal purporting to be the common seal of the local government, it is to be presumed that the seal is the common seal of the local government unless the contrary is shown.
-9.49B.Contract formalities
-(1) Insofar as the formalities of making, varying or discharging a contract are concerned, a person acting under the authority of a local government may make, vary or discharge a contract in the name of or on behalf of the local government in the same manner as if that contract was made, varied or discharged by a natural person.
-(2) The making, variation or discharge of a contract in accordance with subsection (1) is effectual in law and binds the local government concerned and other parties to the contract.
-(3) Subsection (1) does not prevent a local government from making, varying or discharging a contract under its common seal.
-44.Various references to “Executive Director” amended
-In the provisions listed in the Table delete “Executive Director” (each occurrence) and insert:
-Departmental CEO
-Table
-s. 5.108(1), (2)(a) and (3) | s. 5.110(2)(b)
-s. 5.111(1) and (2) | s. 5.112(1), (2), (3), (4) and (5)
-s. 5.114(1) and (2) | s. 5.115(1) and (2)
-s. 5.116(1), (2), (3), (4), (5) and (6) | s. 5.117(4) and (5)
-s. 5.118(2) | s. 5.119(1)
-s. 9.69A
-45.Schedule 2.5 amended
-In Schedule 2.5 clause 7(10) delete “procedure.” and insert:
-procedure, and other procedure and practice.
-46.Schedule 3.1 amended
-In Schedule 3.1 Division 1:
-(a) after item 5A insert:
-5B.Ensure that graffiti that is —
-(a)applied with the consent of the owner or occupier; and
-(b)visible from a public place; and
-(c)considered by the local government to be unsightly or offensive,
-is obliterated in a manner acceptable to the local government.
-(b) delete item 6 and insert:
-6.Take specified measures for preventing or minimising the movement of sand, silt, clay or rocks on or from the land if, in the opinion of the local government, that movement would be likely to adversely affect other land.
-47.Schedule 3.2 amended
-In Schedule 3.2:
-(a) in item 7 delete “(The cost cannot then be recovered from the owner.)”;
-(b) after item 7 insert:
-8.Obliterate graffiti that is visible from a public place and that has been applied without the consent of the owner or occupier.
-Part 8 — Consequential amendments
-48.Local Government Amendment Act 2004 amended
-(1) This section amends the Local Government Amendment Act 2004.
-(2) Delete section 19(2).
-(3) Delete section 20.
-(4) Delete section 38(3).
 On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 506 and 516 had not come into operation. They read as follows:
 506.Local Government Act 1995 amended
 (1) This section amends the Local Government Act 1995.
@@ -619,3 +282,229 @@ co-operative
 (a) delete paragraph (d) and “or” after it;
 (b) after each of paragraphs (a) and (b) insert:
 or
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+75% majority1
+abandoned vehicle wreck3(5)
+absent vote4
+absolute majority1
+Absolute majority required1
+acquire3(1)
+additional purpose6(1a)
+address5(1)
+Advisory Board1
+affected electorsSch. 2.1, cl. 1, 2.2, cl. 1
+affected local governmentSch. 2.1, cl. 1
+affected person9
+alleged offender3
+amending ActSch. 9.3, cl. 14A(1)
+amount misapplied8(3)
+an authorised person8(6), 8(6)
+annual budget6
+annual return5(1)
+approved auditor7
+arrangement5(1)
+audit committee7
+auditor1
+authorisation9
+authorised employee9
+authorised land officer9(1)
+authorised person8, 8(3), 9(1), 9
+Authority9(1)
+breach5
+budget deficiency6
+campaign period5(3)
+candidate A4(4)
+candidate B4(4)
+CEO1
+certified copy9
+close of enrolments4(1)
+close of nominations4
+commencement daySch. 9.3, cl. 1
+commissioner1
+committee5
+complaints officer5
+conditions5(5)
+continuing authoritySch. 9.3, cl. 1
+contravention that can lead to impounding3
+corporation5(1)
+council1
+councillor1
+councillor mayor or president1
+court3(5)
+Crown lands1
+Crown lease1
+Crown lessee1
+debt5(3)
+deceptive material4(4)
+decision5(2), 9
+Department1
+Departmental CEO1
+designated employee5(1), Sch. 9.3, cl. 1
+details4(3)
+detriment4(4)
+differential general rate6
+dispose3(1), 3(1)
+disposition of real property5(3)
+disqualified2(1)
+disqualified person7, 7(2)
+district1
+disused materialSch. 3.1,
+early vote4
+election4, Sch. 2.3, cl. 10
+election day4
+election notice4, 4(2)
+election year1
+elector1
+elector mayor or president1
+Electoral Commissioner1
+electoral conduct4(4)
+Electoral Division4(6)
+electoral material4(3)
+electoral officer4
+electoral requirements1, 4
+electoral roll4
+electors5
+eligible body5(1)
+employee1, 5(1), 5(1), 7(2)
+entitled person6(3)
+establishment agreement3(2)
+existing rollSch. 9.3, cl. 12(1)
+extent5
+extraordinary election1, 4(3)
+extraordinary vacancySch. 2.3, cl. 1, 2.3, cl. 6
+financial year1
+former districtSch. 9.3, cl. 1
+former municipalitySch. 9.3, cl. 1
+former provisions2(3), Sch. 9.3, cl. 1
+former section 3003(1)
+former valuationSch. 6.1, cl. 1(2)
+general funds6(4)
+general rate6
+gift5(4)
+goods3
+Government agreement6
+gross rental value6
+inaugural election1, 4(2)
+income5(4)
+inquiry8
+Inquiry Panel1
+interest5(3), 5(2)
+interim valuation6
+invalidity complaint4(2), Sch. 2.3, cl. 11(2)
+judicial proceedings9(1)
+land transaction3(1)
+lease6(1)
+lessee6(1)
+lessor6(1)
+local government1, 9
+local government property1
+local public notice1
+long service benefit5(1)
+major land transaction3(1)
+major trading undertaking3(1)
+making3(8)
+meeting minutes9(2)
+member1, 5, Sch. 2.5, cl. 1, Sch. 5.1, cl. 1
+member of a parliament2(2)
+metropolitan area1
+minimum payment6
+minor breach5
+municipal fund1
+new ordinary election day provisionsSch. 9.3, cl. 14A(1)
+new valuationSch. 6.1, cl. 1(2)
+nomination place4(2)
+non-perishable goods3
+noticeSch. 2.1, cl. 1
+notice recipient3(2)
+notifiable gift5(2)
+occupier1
+official plan9(2)
+officially certified9(2)
+ordinary election1, 4(2)
+ordinary elections day1
+original valuationsSch. 6.1, cl. 2(2)
+other person5(1)
+otherwise unvested facility3(1)
+owner1, 6, 9(1), 9
+parkSch. 9.1, cl. 1(1)
+parking facilitiesSch. 9.1, cl. 1(1)
+parking regionSch. 9.1, cl. 1(1)
+participants3(1)
+party5
+person having an interest3(1)
+political party5(4)
+polling place4
+postal election4(1)
+power of sale6(1)
+power to borrow6(2)
+power to lease6
+prescribed1, 9(1), 9
+prescribed financial market5(2)
+primary return5(1)
+primary standards panel5, 5(1)
+print4(3), 4(4)
+private landSch. 9.1, cl. 7(1)
+private thoroughfareSch. 3.1,, 9.1, cl. 7(1)
+proceedings9(1)
+property3(1)
+proposalSch. 2.1, cl. 1
+public facility9(4)
+publish4(4), 5(2)
+qualified person7
+rate9(3)
+rate record6
+recurrent breach5
+regional purpose3(2)
+registered company auditor7
+regulations7
+relative5(1)
+relevant district2(2)
+relevant interest6(1)
+relevant period4(4)
+relevant person5, 5(1)
+return5(1)
+return period5(1)
+reviewSch. 2.2, cl. 1
+reward4(4)
+rules of conduct5
+senior employeeSch. 9.3, cl. 1
+serious breach5
+serious local government offence2(3)
+service charge6, 6, 6, 6
+Special majority required1
+specified3
+specified area rate6
+standSch. 9.1, cl. 1(1)
+standards panel5
+start day5(1)
+Statewide public notice1
+statutory provision administered by the local government9(2)
+submissionSch. 2.2, cl. 1
+suspended order5(2)
+the authorised person8(6)
+the districtsSch. 2.1, cl. 8(1)
+the election4(2)
+the electorate4(1), 4(1), Sch. 9.3, cl. 12(2)
+the former sectionSch. 9.3, cl. 38(1)
+the officeSch. 2.3, cl. 1, 2.3, cl. 6
+the proposal land5(2)
+this Act4
+this Part4
+thoroughfare1
+trading undertaking3(1)
+travel5(4)
+trust fund6
+unimproved value6
+unsightlySch. 3.1,
+vacant land6
+value5(2)
+vehicle3
+vehicle offence9(1)
+voting in person election4(1)
+voting papers4(2)
+WALGA1
+ward1
+WCIM Act5(1)
+WorkCover WA5(1)
