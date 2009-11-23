@@ -17,6 +17,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 86 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
+Racing and Wagering Legislation Amendment Act 2009 Pt. 4 | 29 of 2009 | 23 Nov 2009 | To be proclaimed (see s. 2(b))
 Under the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 7(2) the appointed day is 30 Jan 2004 (see Gazette 30 Jan 2004 p. 401).
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 “
@@ -32,3 +33,34 @@ On the date as at which this compilation was prepared, the State Superannuation 
 (2) Section 23(1) is amended by deleting “section 30” and inserting instead —
 “ section 76 ”.
 ”.
+On the date as at which this compilation was prepared, the Racing and Wagering Legislation Amendment Act 2009 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Racing and Wagering Western Australia Act 2003 amended
+22.Act amended
+This Part amends the Racing and Wagering Western Australia Act 2003.
+23.Section 30 amended
+Delete section 30(2)(ba) and “and” after it.
+24.Section 59 amended
+In section 59(3) delete “contractual arrangement entered into with that person.” and insert:
+contractual arrangement.
+25.Section 61 amended
+In section 61(3) delete “contractual arrangement entered into with that person.” and insert:
+contractual arrangement.
+26.Section 68 amended
+After section 68(2) insert:
+(3) A strategic development plan must set out the proportions in which funds will be distributed under section 107A(2).
+27.Section 77 amended
+In section 77(2):
+(a) after paragraph (c) insert:
+(da) the proportions in which funds will be distributed under section 107A(2); and
+(b) in paragraph (g) delete “half-yearly and annual reports; and” and insert:
+annual report; and
+(c) after each of paragraphs (a), (b), (c), (d), (e) and (f) insert:
+and
+28.Section 107A inserted
+After section 106 insert:
+107A.Distribution of funds from the racing bets levy
+(1) If RWWA receives moneys from the Commission under the Gaming and Wagering Commission Act 1987 section 110B(5), RWWA is to credit those moneys to an account (the racing bets levy account) maintained under section 88 for the sole purpose of dealing with those moneys under this section.
+(2) The funds in the racing bets levy account are to be paid or credited by RWWA, in such amounts as it determines, to —
+(a) thoroughbred racing clubs registered with RWWA; and
+(b) harness racing clubs registered with RWWA; and
+(c) greyhound racing clubs registered with RWWA.
