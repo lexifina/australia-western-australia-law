@@ -28,3 +28,4 @@ Reprint 2: The Dental Board Rules 1973 as at 1 Aug 2003 (includes amendments lis
 Dental Board Amendment Rules 2004 | 11 Jan 2005 p. 137-9 | 11 Jan 2005 (see r. 2)
 Dental Board Amendment Rules 2005 | 15 Nov 2005 p. 5600-1 | 15 Nov 2005
 Dental Board Amendment Rules 2008 | 13 Jun 2008 p. 2517-18 | r. 1 and 2: 13 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 14 Jun 2008 (see r. 2(b))
+Dental Board Amendment Rules 2009 | 24 Nov 2009 p. 4735-6 | r. 1 and 2: 24 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Nov 2009 (see r. 2(b))
