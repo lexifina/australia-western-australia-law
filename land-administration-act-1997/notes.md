@@ -37,6 +37,7 @@ Water Resources Legislation Amendment Act 2007 s. 196 | 38 of 2007 | 21 Dec 2007
 Reprint 4: The Land Administration Act 1997 as at 4 Jul 2008 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 83 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 48 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Land Administration Amendment Act 2009 s. 3-6 | 32 of 2009 | 26 Nov 2009 | s. 1 and 2: 26 Nov 2009 (see s. 2(a)); Act other than s. 1 and 2: 27 Nov 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilaton. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -403,6 +404,7 @@ alienated land3(1)
 alleged unauthorised structure270(1)
 amenity15(8)
 ancillary purpose106(3)
+annual rent124A
 appointed day3(1)
 appointed members97(1a)
 approved body corporate83(3)
@@ -438,6 +440,8 @@ Department3(1), 202(4)
 designate151(1)
 designated151(1)
 designation151(1)
+determination124A
+determined annual rent124A
 employee72
 existing pastoral lease143(1)
 external Territory3(1)
