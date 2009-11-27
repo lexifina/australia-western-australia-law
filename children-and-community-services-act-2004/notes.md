@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Children and Community Services Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 27 November 2009 of the Children and Community Services Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 | 34 of 2004 | 20 Oct 2004 | s. 1 and 2: 20 Oct 2004; s. 3 and 102: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); Act other than s. 1-3 and 102 and Sch. 2 cl. 9(2) and 25: 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695); Sch. 2 cl. 9(2): 11 Mar 2006 (see s. 2 and Gazette 10 Mar 2006 p. 987); Sch. 2 cl. 25 deleted by No. 8 of 2009 s. 32(4)
@@ -13,12 +13,11 @@ Children and Community Services Amendment (Reporting Sexual Abuse of Children) A
 Surrogacy Act 2008 Pt. 4 Div. 2 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 32 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Parliamentary Commissioner Amendment Act 2009 s. 11 | 10 of 2009 | 29 Jun 2009 | 30 Jun 2009 (see s. 2(b))
+Reprint 2: The Children and Community Services Act 2004 as at 27 Nov 2009 (includes amendments listed above)
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
-Footnote no longer applicable.
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions which read as follows:
-“
 Part 6 — Transitional provisions
-54.Terms used in this Part
+54.Terms used
 In this Part —
 commencement day means the day on which section 65 comes into operation;
 Part 8 provisions means the provisions of the Children and Community Services Act 2004 Part 8 in force immediately before the commencement day.
@@ -52,4 +51,136 @@ specified means specified or described in the regulations.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not —
 (a) affect, in a manner prejudicial to any person (other than the State, an authority of the State or a local government), rights that the person had before the regulations were published in the Gazette; or
 (b) impose liabilities on any person (other than the State, an authority of the State or a local government) in respect of anything done or omitted to be done before the regulations were published in the Gazette.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+Aboriginal child3
+Aboriginal person3
+adult3
+advisory body27(1)
+another law107(1)
+applicant91
+application for assistance235(1)
+authorisationSch. 1 cl. 1
+authorised officer3, 195(1)
+care plan10(4), 89(1), 91
+carer3
+case planning decision91
+case review panel91
+CEO3
+child3, 42, 74, 79(1), 105(1), 126(1), 131, 150(1)
+child protection order157(1)
+child protection proceeding157(1)
+child welfare law157(1)
+Children’s Court157(1)
+commencement day124A, Sch. 1 cl. 1
+Commissioner242A(1)
+Commissioner of Police124D(1)
+condition51(1), 64(1)
+corresponding authority23(1)
+Court3
+delivery work188
+Department3
+departmental record238(1)
+disability3
+disposable article112
+doctor124A
+employ188
+enduring parental carer42
+engage in conduct101(2)
+existing appealSch. 1 cl. 1
+existing orderSch. 1 cl. 1
+existing proceedingsSch. 1 cl. 1
+extended orderSch. 1 cl. 1
+family business188
+firearm112
+first listing date3
+guidelines80(1)
+harm3, 28(1), 101(2)
+home order157(1)
+identified person237(2)
+identifying information124A, 240(1)
+in need of protection3, 28(2)
+in the CEO’s care3, 30
+interested person23(1)
+interim order3, 157(1)
+interstate law157(1)
+interstate officer157(1)
+intervention action32(2)
+intoxicant112
+investigable death242A(1)
+judge3
+leave124H(1)
+legal practitioner148(1)
+magistrate3
+midwife124A
+Ministerial Body17
+neglect28(1)
+negotiated placement agreement3
+notice193(1)
+notifier240(1)
+nurse124A
+officer3, 37(1), 41(1), 87(1), 112
+officer in charge40(1)
+old order237(1)
+order124H(1)
+parent3, 42, 88, 91, 131, 157(1)
+parental responsibility3
+parenting order104(1)
+participating State157(1)
+party3
+party to the initial proceedings42
+personal material97(1)
+place3
+place of residence105(1)
+placed3
+placement3
+placement arrangement3
+police officer3
+pre-hearing conference3
+prescribed period104(1)
+prohibited article112
+proposal143(1)
+proposed carer61(1)
+proposed interstate order158(1)(c), 167(1)
+protection application3
+protection order3
+protection order (enduring parental responsibility)3
+protection order (supervision)3
+protection order (time-limited)3
+protection order (until 18)3
+protection proceedings3
+provide care104(1)
+provisional care plan10(4), 39(1)
+provisional protection and care3
+public authority3
+publish237(1)
+registrar of the Court157(1)
+relative3
+relevant information23(1)
+relevant person73(1)
+remote communication120(1)
+repealed ActSch. 1 cl. 1
+report124A, 138
+reporter124A
+representation146(1)
+responsible person41(1)
+seized117(1)
+sending State157(1)
+service provider3
+sexual abuse124A
+social services3
+specifiedSch. 1 cl. 25(5)
+State157(1)
+teacher124A
+the child124F(1), 240(1)
+Torres Strait Islander3
+Torres Strait Islander child3
+transferred order181(1)
+warrant (access)121(1)
+warrant (apprehension)122(1)
+warrant (provisional protection and care)123(1)
+weapon112
+wellbeing3
+working day3, 157(1)
+young child104(1)
