@@ -1,6 +1,6 @@
 ## Schedule 2 — Sheriff’s fees
 [r. 105]
-Item | Matter | Fee $
+Item | Action | Fee $
 1. | (a)Service of any process when personal service is not required under the Act ................................. | 32.00
  | (b)Service of any process when personal service is required under the Act ........................................ | 44.50
  | (c)Service by post, including postage ..................... | 22.00
@@ -19,7 +19,7 @@ Item | Matter | Fee $
 6. | If travel is necessary to perform a function under an enforcement order, to serve a process or document, to make an arrest under a warrant or for an attempt, attendance or inspection from the Sheriff’s or a bailiff’s office —
  | (a)for each kilometre travelled (one way) in the metropolitan area ............................................... | 1.15
  | (b)for each kilometre travelled (one way) outside the metropolitan area ........................................ | 1.25
- | Note 1: If more than one of the matters referred to in item 6 is done in relation to the same person or on different persons at the same address, only one fee for kilometres travelled is to be charged.
+ | Note 1: If more than one of the actions referred to in item 6 is done in relation to the same person or on different persons at the same address, only one fee for kilometres travelled is to be charged.
  | Note 2: The Sheriff may allow an enforcement officer an additional fee for travel to meet or partially offset any additional expenses arising from special and unusual circumstances.
 7. | Preparation for the sale of real or personal property ..... | 429.00
  | Note 1: The fee includes — (a)REVS and other official records searches; (b)bill of sale or encumbrance searches or investigation; (c)carrying out an advertising program; and (d)preparing particulars and conditions of sale.
@@ -62,4 +62,4 @@ Item | Matter | Fee $
 19. | Copies of documents —
  | (a)Copies of enforcement orders, for each page ..... | 1.50
  | (b)For certifying that a document is a true copy, an additional fee of .................................................. | 12.50
-[Schedule 2 amended in Gazette 23 Jun 2006 p. 2176-7; 26 Jun 2007 p. 3038-9; 27 Jun 2008 p. 3074; 23 Dec 2008 p. 5471; 4 Sep 2009 p. 3486-7.]
+[Schedule 2 amended in Gazette 23 Jun 2006 p. 2176-7; 26 Jun 2007 p. 3038-9; 27 Jun 2008 p. 3074; 23 Dec 2008 p. 5471; 4 Sep 2009 p. 3486-7; 27 Nov 2009 p. 4786.]
