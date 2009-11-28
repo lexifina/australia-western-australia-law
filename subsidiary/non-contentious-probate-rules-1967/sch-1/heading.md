@@ -123,4 +123,5 @@ NOTICE is hereby given that the accounts and plan of distribution in the above e
 , 19 , at o’clock in the noon and inspect the same, and if they shall think fit object thereto; otherwise if the said accounts be not objected to, the same will be examined by me and passed according to law.
 Dated this day of , 19 .
 Registrar.
-[First Schedule amended in Gazette 20 October 1972 p.4162; 7 October 1977 pp.3606-7; 14 December 1979 p.3876; 6 March 1981 p.895; 12 January 1996 p.106.]
+[First Schedule amended: Gazette 20 October 1972 p. 4162; 7 October 1977 p. 3606-7; 14 December 1979 p. 3876; 6 March 1981 p. 895; 12 January 1996 p. 106.]
+[Second Schedule deleted: Gazette 27 Nov 2009 p. 4789.]
