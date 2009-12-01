@@ -34,14 +34,15 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 6 | 65 of 2006 | 8 Dec
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Criminal Law and Evidence Amendment Act 2008 s. 57 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Acts Amendment (Justice) Act 2008 Pt. 2 | 5 of 2008 | 31 Mar 2008 | 31 Jul 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Cross-border Justice Act 2008 Pt. 15 Div. 1 | 7 of 2008 | 31 Mar 2008 | 1 Dec 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991)
 Parental Support and Responsibility Act 2008 s. 43 | 14 of 2008 | 15 Apr 2008 | 28 Mar 2009 (see s. 2 and Gazette 27 Mar 2009 p. 917)
 Legal Profession Act 2008 s. 643 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
-Reprint 5: The Children’s Court of Western Australia Act 1988 as at 13 Feb 2009 (includes amendments listed above except those in the Legal Profession Act 2008 and the Parental Support and Responsibility Act 2008)
+Reprint 5: The Children’s Court of Western Australia Act 1988 as at 13 Feb 2009 (includes amendments listed above except those in the Cross-border Justice Act 2008, the Legal Profession Act 2008 and the Parental Support and Responsibility Act 2008)
+Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross border Justice Regulations 2009 Part 3 Division 4 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Cross-border Justice Act 2008 Pt. 15 Div. 1 | 7 of 2008 | 31 Mar 2008 | 1 Dec 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 Chapter XXXII of The Criminal Code was repealed by the Acts Amendment (Evidence) Act 1991 s. 12(9).
 Now known as the Children’s Court of Western Australia Act 1988; short title changed (see note under s. 1).
@@ -54,46 +55,6 @@ Act | Provision
 .......................... | ........
 Children’s Court of Western Australia Act 1988 | s. 7(4)
 ...................... | ........
-”.
-On the date as at which this compilation was prepared, the Cross-border Justice Act 2008, Pt. 15 Div. 1 had not come into operation. It reads as follows:
-“
-Part 15 — Consequential amendments to other legislation
-Division 1 — Children’s Court of Western Australia Act 1988 amended
-148.The Act amended
-The amendments in this Division are to the Children’s Court of Western Australia Act 1988.
-149.Section 10 amended
-Section 10(5) is amended by deleting “, 10 (except clause 10(7))”.
-150.Section 12 amended
-After section 12(1a) the following subsection is inserted —
-“
-(2) An oath or affirmation referred to in subsection (1) may be taken at a place outside the State.
-”.
-151.Section 13 amended
-(1) Section 13(1) and (2) are repealed and the following subsections are inserted instead —
-“
-(1) The Court —
-(a) is to have registries at such places, including places outside the State, as the Minister, by written notice to the President, decides from time to time; and
-(b) is to sit at places where it has a registry at such times as the President decides from time to time; and
-(c) may, despite paragraphs (a) and (b), sit or otherwise exercise its jurisdiction at any time and place, but must not do so at a place outside the State without the approval of the President.
-(2) However, subsection (1) does not authorise the Court to have a registry, to sit, or to otherwise exercise its jurisdiction, at a place outside the State except to the extent allowed by the law of the jurisdiction in which the place is located.
-”.
-(2) Section 13(3) is amended by deleting “subsections (1) and (2)” and inserting instead —
-“ subsection (1)(a) and (b) ”.
-(3) Section 13(4) and (6) are repealed.
-152.Section 16 amended
-After section 16(3) the following subsection is inserted —
-“
-(4) Section 26(7) to (8b) of the Magistrates Court Act 2004 applies as if —
-(a) each reference to the Magistrates Court were a reference to the Court; and
-(b) each reference to a Registrar or Deputy Registrar of the Magistrates Court were a reference to a registrar or deputy registrar (as the case requires) of the Court; and
-(c) each reference in subsection (8) to a person appointed to an office in the administrative staff of the Magistrates Court were a reference to a person appointed as a registrar, deputy registrar or other officer appointed under section 16(1) to deal with the workload of the Court; and
-(d) the reference in subsection (8b) to section 26(7)(a) or (b) of that Act were a reference to that provision as applied by this subsection.
-”.
-153.Section 29 amended
-After section 29(4) the following subsection is inserted —
-“
-(5) This section applies in relation to an act or omission by a person outside the State as if it were an act or omission by the person in the State.
-”.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
