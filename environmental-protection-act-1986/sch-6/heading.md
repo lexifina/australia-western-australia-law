@@ -37,9 +37,9 @@ of section 23D of the Wildlife Conservation Act 1950 for the purposes of sale un
 (a) clearing for the purposes of any development that is deemed by section 157 of that Act to have been approved by the responsible authority; and
 (b) clearing in any building envelope described in the approved plan or diagram.
 10.Clearing that is done —
-(a) as permitted under section 17(5);
-(b) in accordance with a permit obtained under section 18;
-(c) in accordance with permission granted under section 21(2);
+(a) as permitted under section 17(5); or
+(b) in accordance with a permit obtained under section 18; or
+(c) in accordance with an exemption granted under section 22C; or
 (d) under section 22(2), 23, 26A, 39(1)(d) or 44(1)(c); or
 (e) as authorised by a proclamation under section 26,
 of the Bush Fires Act 1954.
@@ -50,4 +50,4 @@ of the Bush Fires Act 1954.
 (b) the pastoral lease; or
 (c) any relevant condition set or determination made by the Pastoral Board under Part 7 of that Act.
 14.Clearing of aquatic vegetation that occurs under the authority of a licence or permit within the meaning of the Fish Resources Management Act 1994.
-[Schedule 6 inserted by No. 54 of 2003 s. 116; amended by No. 38 of 2005 s. 15.]
+[Schedule 6 inserted by No. 54 of 2003 s. 116; amended by No. 38 of 2005 s. 15; No. 25 of 2009 s. 20.]
