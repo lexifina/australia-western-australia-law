@@ -41,11 +41,11 @@ Water Resources Legislation Amendment Act 2007 s. 194 | 38 of 2007 | 21 Dec 2007
 Reprint 6: The Environmental Protection Act 1986 as at 11 Apr 2008 (includes amendments listed above, except those in the Waste Avoidance and Resource Recovery Act 2008 s. 100 (Sch. 4 cl. 2(5))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 53 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 35 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Bush Fires Amendment Act 2009 Pt. 3 | 25 of 2009 | 17 Nov 2009 | 1 Dec 1009 (see s. 2(b) and Gazette 1 Dec 2009 p. 4829)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
-Bush Fires Amendment Act 2009 Pt. 3 | 25 of 2009 | 17 Nov 2009 | To be proclaimed (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -116,15 +116,6 @@ The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follow
 24.Transitional provision — Waste Management and Recycling Fund
 The Waste Avoidance and Resource Recovery Act 2007 Schedule 5 clause 6 prevails to the extent that there is an inconsistency between that provision and Part VIIA Division 2 of the EP Act.
 ”.
-On the date as at which this compilation was prepared, the Bush Fires Amendment Act 2009 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Consequential amendment
-20.Environmental Protection Act 1986 amended
-(1) This section amends the Environmental Protection Act 1986.
-(2) In Schedule 6 clause 10:
-(a) in paragraph (c) delete “permission granted under section 21(2);” and insert:
-an exemption granted under section 22C; or
-(b) after each of paragraphs (a) and (b) insert:
-or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
