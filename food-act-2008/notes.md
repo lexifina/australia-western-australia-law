@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Food Act 2008 Pt. 8 | 43 of 2008 | 8 Jul 2008 | Pt 8 Div. 1 and 3: 23 Apr 2010 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157); Pt 8 Div. 2: 23 Oct 2010 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157)
+Police Amendment Act 2009 s. 18 | 42 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Food Act 2008 Pt. 8 had not come into operation. It reads as follows:
 Part 8 — Auditing
 Division 1 — Approval of food safety auditors
@@ -138,6 +139,10 @@ Penalty: a fine of $10 000.
 Penalty: a fine of $10 000.
 (3) A person must not threaten or intimidate a food safety auditor in the performance of the food safety auditor’s functions under this Act.
 Penalty: a fine of $10 000.
+On the date as at which this compilation was prepared, the Police Amendment Act 2009 s. 18 had not come into operation. It reads as follows:
+18.Food Act 2008 amended
+(1) This section amends the Food Act 2008.
+(2) In section 8 delete the definition of police officer.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
