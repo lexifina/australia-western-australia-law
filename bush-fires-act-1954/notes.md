@@ -52,6 +52,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 28 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Arson Legislation Amendment Act 2009 Pt. 2 | 44 of 2000 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Provisions of the Bush Fires Act 1954 referred to in s. 64 are not the same references as originally enacted. Under the Interpretation Act 1984 s. 16(2), as a result of amendments to the Bush Fires Act 1954 by the Bush Fires Act Amendment Act 1977 (No. 65 of 1977), those references may be construed as if amended. The references were changed under the Reprints Act 1984 s. 7(3)(g).
 Footnote no longer applicable.
@@ -90,3 +91,10 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 A plant that is a declared pest as that term is defined by the Biosecurity and Agriculture Management Act 2007
 ”.
 ”.
+On the date as at which this compilation was prepared, the Arson Legislation Amendment Act 2009 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Bush Fires Act 1954 amended
+3.Act amended
+This Part amends the Bush Fires Act 1954.
+4.Section 32 amended
+In section 32 delete the Penalty and insert:
+Penalty: Imprisonment for 20 years.
