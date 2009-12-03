@@ -29,9 +29,10 @@ Reprint 3: The Fish Resources Management Act 1994 as at 16 May 2008 (includes am
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 60 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
- | Short title | Number and year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 4 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
+Fish Resources ManagementAmendment Act 2009 s. 3-21 | 37 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 The Fish Resources Management Amendment Act 2002 s. 8(2)-(4) read as follows:
 “
 (2) The arrangements of 15 April 1995 by which the Minister for Fisheries purported to lease from the Minister for Transport that portion of land known as “Aquaculture Park Area”, being a total area of 7.8152 hectares situated in the Broome Port area, for the purposes of establishing an aquaculture park are to be taken to be, and always to have been, as valid as they would have been if the amendments made to the Fish Resources Management Act 1994 by this Act were in effect at the time the arrangements were made.
@@ -106,6 +107,105 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 “ or the Biosecurity and Agriculture Management Act 2007 ”.
 (8) Section 258(i) is deleted.
 ”.
+On the date as at which this compilation was prepared, the Fish Resources ManagementAmendment Act 2009 s. 3-21 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Fish Resources Management Act 1994.
+4.Section 15 amended
+In section 15 insert in alphabetical order:
+corresponding law means a law of the Commonwealth or another State or Territory of the Commonwealth declared by the regulations to be a law corresponding to this Act;
+5.Section 23 amended
+(1) In section 23(1) delete “State,” and insert:
+State (whether or not also in accordance with some other law),
+(2) In section 23(2) delete paragraph (a) and “or” after it.
+6.Section 24A inserted
+After section 23 insert:
+24A.Application of Commonwealth law to limits of State in accordance with arrangements
+If there is in force an arrangement that provides that a particular fishery is to be managed in accordance with the law of the Commonwealth (whether or not also in accordance with some other law), the law of the Commonwealth applies to the limits of the State as a law of the State.
+7.Section 24 amended
+(1) In section 24(1) delete “State,” and insert:
+State (whether or not also in accordance with some other law),
+(2) In section 24(2):
+(a) in paragraph (b) delete “resources.” and insert:
+resources; and
+(b) after paragraph (b) insert:
+(c) generally acting consistently with, and in furtherance of, the objects of this Act.
+8.Section 25 amended
+In section 25(2) delete “State — ” and insert:
+State (whether or not also in accordance with some other law) —
+9.Part 3 Division 4 inserted
+At the end of Part 3 insert:
+Division 4 — Arrangements with other States and Territories
+29A.Arrangements with other States and Territories
+The Minister may enter into an agreement with a Minister administering a corresponding law, or with an authority of another State or Territory concerned in the administration of that law, for the purpose of cooperation in furthering the objects of this Act (whether in this State or in that other State or Territory).
+29B.Functions
+(1) For the purposes of this Division, the Minister may exercise any power and perform any function conferred on the Minister under Division 2 or 3 as if the Commonwealth Act applied under this Division.
+(2) Divisions 2 and 3 apply in respect of agreements under this Division, with such modifications as are necessary.
+10.Part 4 Divisions 1 to 3 deleted
+Delete Part 4 Divisions 1 to 3.
+11.Section 41 amended
+(1) In section 41(2) —
+(a) after “committee” insert:
+established by the Minister
+(b) after “the Minister” insert:
+or the CEO
+(2) After section 41(2) insert:
+(3A) The CEO may, by instrument in writing, establish an advisory committee for a fishery consisting of such persons as the CEO thinks fit.
+(3B) The function of an advisory committee established by the CEO is to provide information and advice to the CEO on matters related to the protection and management of the fishery.
+(3) In section 41(3)(b) delete “Minister’s opinion,” and insert:
+opinion of the person establishing the committee,
+(4) In section 41(4) delete “Minister” and insert:
+person establishing the committee
+12.Section 42 amended
+(1) In section 42(1) after “to the Minister” insert:
+or the CEO
+(2) After section 42(1) insert:
+(2A) The CEO may, by instrument in writing, establish other advisory committees, consisting of such persons as the CEO thinks fit, to provide information and advice to the CEO on matters related to the administration of this Act.
+(3) In section 42(2)(b) delete “Minister’s opinion,” and insert:
+opinion of the person establishing the committee,
+(4) In section 42(3) delete “Minister” and insert:
+person establishing the committee
+13.Part 4 Division 6 inserted
+At the end of Part 4 insert:
+Division 6 — Operation of committees
+43A.Regulations relating to the operation of committees
+The regulations may provide for any matter necessary for the operation of —
+(a) a Fishery Management Advisory Committee established under Division 4; or
+(b) another committee established under Division 5.
+14.Section 62 amended
+In section 62(t) delete “a natural person,” and insert:
+an individual,
+15.Section 78A inserted
+Before section 78 insert:
+78A.Regulations relating to cancellations under section 224
+(1) In this section —
+section 224 means section 224 as it was immediately before the commencement of this section.
+(2) The regulations may —
+(a) provide for the granting of an authorisation to replace an authorisation that has been cancelled by the operation of section 224;
+(b) prescribe fees and charges payable in respect of the issue of replacement authorisations, including the payment of a fee equal to that which would have been payable if the authorisation had not been cancelled under section 224 and had been kept in force;
+(c) provide for an amendment to a management plan that is, in the Minister’s opinion, necessary in connection with the granting of a replacement authorisation.
+16.Section 140 amended
+Before section 140(2)(b) insert:
+(ba) if, in the CEO’s opinion, the applicant, or a person acting for or on behalf of the applicant, may be liable to prosecution for an offence that is prescribed for the purposes of section 224; or
+(bb) if the authorisation is suspended under section 224; or
+17.Section 202A amended
+In section 202A(4) in the definition of person in charge of a fishing tour delete “natural person” and insert:
+individual
+18.Section 224 amended
+(1) In section 224(2) delete “cancel the authorisation.” and insert:
+suspend the authorisation for one year.
+(2) In section 224(3)(a) delete “cancelled” and insert:
+suspended
+(3) Delete section 224(4) and insert:
+(4) Where an authorisation has been suspended under subsection (2), the authorisation remains suspended until the CEO is satisfied that all outstanding fines have been paid in respect of —
+(a) the convictions recorded with respect to the authorisation under this section; and
+(b) any other convictions of the authorisation holder under this Act,
+and the time period imposed under subsection (2) has elapsed.
+19.Section 245 deleted
+Delete section 245.
+20.Schedule 1 deleted
+Delete Schedule 1.
+21.Schedule 3 amended
+In Schedule 3 delete clause 6.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
