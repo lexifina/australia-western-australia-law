@@ -25,6 +25,7 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 52 | 8 of 2009 | 21 
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 National Gas Access (WA) Act 2009 Pt. 7 Div. 4 | 16 of 2009 | 1 Sep 2009 | To be proclaimed (see s. 2(b))
+Gas Supply (Gas Quality Specifications) Act 2009 Pt. 7 Div. 1 | 35 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 The Energy Legislation Amendment Act 2003 Pt. 3 Div. 3 (other than s. 19) reads as follows:
 “
 Part 3 — Amendments to facilitate a contestable retail gas market, and related transitional provisions
@@ -313,3 +314,10 @@ Delete section 11ZAC(4)(b) and insert:
 67.Schedule 1A amended
 In Schedule 1A in paragraph (a) delete “Gas Pipelines Access (Western Australia) Law;” and insert:
 National Gas Access (Western Australia) Law;
+On the date as at which this compilation was prepared, the Gas Supply (Gas Quality Specifications) Act 2009 Pt. 7 Div. 1 had not come into operation. It reads as follows:
+Part 7 — Acts amended
+Division 1 — Energy Coordination Act 1994 amended
+35.Act amended
+This Division amends the Energy Coordination Act 1994.
+36.Section 26 amended
+Delete section 26(3), (4) and (5).
