@@ -10,3 +10,15 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 Reprint 1: The Public Interest Disclosure Act 2003 as at 12 Oct 2007 (includes amendments listed above)
 Police Amendment Act 2008 s. 18 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 104 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Police Amendment Act 2009 s.22 | 42 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Police Amendment Act 2009 s. 22 had not come into operation. It reads as follows:
+22.Public Interest Disclosure Act 2003 amended
+(1) This section amends the Public Interest Disclosure Act 2003.
+(2) In section 3(1) delete the definition of police officer.
+(3) In section 3(1) in the definition of public officer delete paragraph (e) and insert:
+(e)a person who holds an appointment made under the Police Act 1892 Part I, III, IIIA or IIIB;
+(4) In section 5(3)(d) delete “a police officer —” and insert:
+a person who holds an appointment made under the Police Act 1892 Part I, III, IIIA or IIIB —
