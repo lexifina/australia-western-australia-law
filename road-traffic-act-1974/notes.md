@@ -140,6 +140,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (s. 27-30) | 39 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(g))
 Road Traffic Amendment (Hoons) Act 2009 Pt. 2 | 23 of 2009 | 6 Oct 2009 | To be proclaimed (see s. 2(1)(b) and (2))
+Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 2 | 39 of 2009 | 3 Dec 2009 | 1 Jan 2010 (see s. 2(b))
 Repealed by the Nurses and Midwives Act 2006.
 Repealed by the Interpretation Act 1984.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
@@ -619,6 +620,39 @@ After section 80K insert:
 80LA.Liability for unrecovered expenses of selling uncollected vehicle
 (1) This section applies if a vehicle is sold under section 80J(2) as an uncollected vehicle and a person (the offender) has been convicted of the offence for which the vehicle was impounded.
 (2) If the proceeds of the sale are insufficient to pay the expenses reasonably incurred to sell the vehicle (the selling expenses), the offender is liable to pay to the Commissioner an amount specified by the Commissioner as being equivalent to the selling expenses that remain to be recovered.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Road Traffic Act 1974 amended
+3.Act amended
+This Part amends the Road Traffic Act 1974.
+4.Section 27 amended
+(1) In section 27(1) delete “granted, and shall upon the grant or renewal of any vehicle licence issue to the applicant a registration label evidencing the grant of the licence.” and insert:
+granted.
+(2) Delete section 27(2) and (3).
+5.Section 27AA inserted
+After section 27 insert:
+27AA.Labels to be affixed to certain vehicles
+Regulations may provide for —
+(a) the Director General to issue a label (label) on the grant or renewal, under this Part, of a vehicle licence for a vehicle of a prescribed class; and
+(b) specified information about a vehicle to be contained in or on a label for the vehicle; and
+(c) matters relating to the affixing to vehicles, and display, of labels.
+6.Section 38 deleted
+Delete section 38.
+7.Section 40 amended
+After section 40(d) insert:
+(ea) provide for —
+(i) the Director General to issue a label (label) on the grant, extension or renewal, under this Part, of a vehicle licence for a vehicle of a prescribed class; and
+(ii) specified information about a vehicle to be contained in or on a label for the vehicle; and
+(iii) matters relating to the affixing to vehicles, and display, of labels;
+8.Section 97 amended
+(1) At the beginning of section 97 insert:
+(1) In this section —
+label means a label issued under a regulation mentioned in section 27AA or 40(ea).
+(2) In section 97:
+(a) delete “A person” and insert:
+(2) A person
+(b) in paragraphs (c), (d), (e), (f)(i), (ii) and (iii), (g) and (h) delete “registration” (each occurrence).
+9.Section 100 amended
+In section 100(2) delete “registration”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
