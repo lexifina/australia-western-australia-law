@@ -23,6 +23,7 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 64 | 8 of 2009 | 21 
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 National Gas Access (WA) Act 2009 Pt. 7 Div. 1 | 16 of 2009 | 1 Sep 2009 | To be proclaimed (see s. 2(b))
+Gas Supply (Gas Quality Specifications) Act 2009 Pt. 7 Div. 2 | 35 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
 The copy of the Code reproduced in Schedule 2 is a copy of the Code in its original form, as agreed by the Council of Australian Governments on 7 November 1997. It does not include subsequent amendments to the Code. Copies of the Code as amended are available from the Code Registrar in accordance with Schedule 1 clause 7.
 Repealed by the Gas Pipelines Access (Western Australia) Act 1998 Sch. 3 cl. 31(1) on approval of Access Arrangement on 18 July 2000.
@@ -174,3 +175,13 @@ Delete section 88.
 Delete Parts 7 and 8.
 51.Schedules deleted
 Delete Schedule 1 and its Appendix and Schedules 2 and 3.
+On the date as at which this compilation was prepared, the Gas Supply (Gas Quality Specifications) Act 2009 Pt. 7 Div. 2 had not come into operation. It reads as follows:
+Part 7 — Acts amended
+Division 2 — Gas Pipelines Access (Western Australia) Act 1998 amended
+37.Act amended
+This Division amends —
+(a) if this section comes into operation before the day on which the National Gas Access (WA) Act 2009 section 26 comes into operation — the Gas Pipelines Access (Western Australia) Act 1998; or
+(b) otherwise — the Gas Pipelines Access (Western Australia) Act 1998 (as amended by the National Gas Access (WA) Act 2009 and cited as the Energy Arbitration and Review Act 1998).
+38.Section 73 amended
+Before section 73(1)(d) insert:
+(da) under the Gas Supply (Gas Quality Specifications) Act 2009; or
