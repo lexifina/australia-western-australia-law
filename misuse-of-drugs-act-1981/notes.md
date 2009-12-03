@@ -33,6 +33,10 @@ Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see
 Misuse of Drugs (Amounts of Prohibited Drugs) Order 2007 published in Gazette 7 Dec 2007 p. 5985 | cl. 1 and 2: 7 Dec 2007 (see cl. 2(a)); Order other than cl. 1 and 2: 8 Dec 2007 (see cl. 2(b))
 Reprint 4: The Misuse of Drugs Act 1981 as at 29 Feb 2008 (includes amendments listed above)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Police Amendment Act 2009 s. 21 | 42 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
 “
@@ -91,6 +95,10 @@ If, immediately before the commencement of this Act, a warrant issued under the 
 (9) To the extent that a provision of this section relating to any property is inconsistent with the Transfer of Land Act 1983, the provision prevails, but this section does not otherwise affect the operation of that Act in relation to the property.
 ”.
 This should read “1893”.
+On the date as at which this compilation was prepared, the Police Amendment Act 2009 s. 21 had not come into operation. It reads as follows:
+21.Misuse of Drugs Act 1981 amended
+(1) This section amends the Misuse of Drugs Act 1981.
+(2) In section 3(1) delete the definition of police officer.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
