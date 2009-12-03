@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 | 39 of 2008 | 15 Aug 2008 | To be proclaimed (see s. 2(b))
+Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 3 | 39 of 2009 | 3 Dec 2009 | 1 Jan 2010 (see s. 2(b))
 On the date as at which this compilation was prepared, the Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 had not come into operation. They read as follows:
 “
 3.Crown bound
@@ -1491,126 +1492,11 @@ Division 2 — Amendments to regulations as a consequence of certain 2008 enactm
 (1) The Governor, on the recommendation of the Minister to whom the administration of this Act is committed (the Minister), may make regulations amending subsidiary legislation made under any Act.
 (2) The Minister may make a recommendation under subsection (1) only if the Minister considers that each amendment proposed to be made by the regulations is necessary or desirable as a consequence of the enactment of this Act, the Road Traffic (Authorisation to Drive) Act 2008, the Road Traffic (Vehicles) Act 2008 or the Road Traffic (Consequential Provisions) Act 2008.
 (3) Nothing in this section prevents subsidiary legislation from being amended in accordance with the Act under which it was made.
-Defined Terms
-[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-administrative action18(1)
-administrative authority18(1)
-alleged offender83(1)
-amending Act147
-Australian driver licence4
-Australian driver licensing authority4
-Australian police officer4
-authorised person47(1), 59(1), 117(1)
-authorised to drive a vehicle29(3)
-authorised to run the engine of a vehicle29(3)
-axle4
-axle group4
-bodily harm4
-broken down31
-business address4
-CEO4
-certificate126(1)
-co-driver4, 28, 28, 38
-commencement day147
-Commissioner140(1)
-compensation order123
-condition4
-contractor135(6)
-corresponding4
-corresponding authority4
-demerit points register4
-director119(1), 137(1)
-Disq7
-distance measuring equipment117(1)
-district4
-drive4
-driver4, 28, 38
-driver identity request35(1)
-driver’s licence4
-driver’s licence document36(3)
-driver’s licence register4
-engaging in conduct119(1)
-equipment4
-extract4
-fit to drive a vehicle or to run its engine29(2)
-GCM4
-Government road132(1)
-GVM4
-heavy traffic132(1)
-heavy vehicle4
-home address4
-incident26(1)
-incident particulars12(1)
-infringement notice4, 14(1), 79
-inspection station4
-involved person4
-issuing authority21
-journey documentation4
-jurisdiction4
-learner’s permit4
-licence12(1)
-licence holder6(1)
-licensed6(1)
-light140(1)
-light vehicle4
-load4
-loadmeter113(1)
-Max7
-MDLR compliance purposes4, 28
-MDLR offence4, 28
-Min7
-Minister117(1)
-modified penalty104(1)
-motor vehicle4
-number plate36(3)
-occupier4
-offence81(1)
-offence particulars12(1)
-office holder116(1)
-order19(1)
-owner4, 5(1), 140(1)
-passenger4
-period for complying90, 97
-permit12(1)
-personal details32(1)
-photographic evidence90
-power assisted pedal cycle4
-predominantly for residential purposes51(2)
-premises4, 54(1), 55(1)
-prescribed area40(1), 47(1)
-present offence107
-PU7
-public authority4
-public place28
-public safety4, 28
-qualified to drive a vehicle or to run its engine29(1)
-reasonable excuse56(5), 57(5), 58(6)
-records4
-remote communication62
-residential purposes51(1), 51(1)
-responsible person4, 34(1)
-road4
-road authority123
-road infrastructure4, 123
-road law4, 17(2)
-road transport4
-RT Act147
-run28
-speed measuring equipment117(1)
-state of mind119(1)
-stop39(1)
-suitable location40(1)
-supply12(1)
-the Minister166(1)
-traffic4
-transport documentation4
-unattended30(1)
-unloaded mass16(2)
-use4
-vehicle4, 38, 52(1), 53(1)
-vehicle licence4
-warden4
-warden’s function21
-warrant62
-”.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Road Traffic (Administration) Act 2008 amended
+10.Act amended
+This Part amends the Road Traffic (Administration) Act 2008.
+11.Section 36 amended
+(1) In section 36(2)(b), (c), (d), (e)(i), (ii) and (iii), (f) and (g) delete “registration” (each occurrence).
+(2) In section 36(3) insert in alphabetical order —
+label means a label issued under a regulation mentioned in the Road Traffic (Vehicles) Act 2009 section 15 or 26;
