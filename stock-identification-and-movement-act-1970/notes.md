@@ -31,6 +31,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 79 and 81 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Police Amendment Act 2009 s. 24 | 42 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 Now known as the Stock (Identification and Movement) Act 1970; short title changed (see note under s. 1).
 The Third Schedule was inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 79 and 81 had not come into operation. They read as follows:
@@ -49,3 +50,15 @@ repealed Act means the Stock (Identification and Movement) Act 1970.
 (4) Subsections (2) and (3) apply, with such modifications and adaptations as are necessary, to earmarks registered under the repealed Act.
 (5) A registration referred to in this section, unless sooner cancelled or re-registered under the BAM Act, expires 5 years after the date of registration or re-registration, as the case may be, under the repealed Act.
 ”.
+On the date as at which this compilation was prepared, the Police Amendment Act 2009 s. 24 had not come into operation. It reads as follows:
+24.Stock (Identification and Movement) Act 1970 amended
+(1) This section amends the Stock (Identification and Movement) Act 1970.
+(2) In section 5 delete the definition of Police officer.
+(3) In the provisions listed in the Table delete “Police” (each occurrence) and insert:
+police
+Table
+s. 5 def. of legible | s. 37(3)
+s. 38 | s. 40
+s. 43(3) | s. 47
+s. 48 | s. 50(2)
+s. 50(3) | s. 54(2)
