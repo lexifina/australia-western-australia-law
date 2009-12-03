@@ -45,6 +45,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 5 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Security and Related Activities (Control) Amendment Act 2008 s. 82 | 4 of 2008 | 2 Apr 2008 | To be proclaimed (see s. 2(b))
+Police Amendment Act 2009 s. 23 | 42 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 s. 34, 34B and 40 were repealed by the Young Offenders Act 1994, which was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
@@ -66,3 +67,8 @@ On the date as at which this compilation was prepared, the Security and Related 
 (2) Schedule 3 clause 1(1) is amended in the Table by deleting item 8 and inserting instead —
 “
 8.A person who holds a licence or permit, or who is applying for the issue or renewal of a licence or permit, under the Security and Related Activities (Control) Act 1996. | Section 22 and Division 4
+On the date as at which this compilation was prepared, the Police Amendment Act 2009 s. 23 had not come into operation. It reads as follows:
+23.Spent Convictions Act 1988 amended
+(1) This section amends the Spent Convictions Act 1988.
+(2) In Schedule 3 clause 1(1) in the Table item 3 after “constable” insert:
+or police auxiliary officer
