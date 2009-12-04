@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 May 2008 of the Public Works Act 1902 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Public Works Act 1902 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Works Act 1902 | 1902 (2 Edw. VII No. 47) | 20 Dec 1902 | 20 Dec 1902
@@ -64,6 +64,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 2
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 5) | 36 of 2007 | 21 Dec 2007 | 9 Jan 2008 (see s. 2(b) and Gazette 8 Jan 2008 p. 33)
 Water Resources Legislation Amendment Act 2007 s. 198 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 10: The Public Works Act 1902 as at 16 May 2008 (includes amendments listed above)
+ | Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Roads Act 1911 which was repealed by the Road Districts Act 1919 which was repealed by the Local Government Act 1960 which is now cited as the Local Government (Miscellaneous Provisions) Act 1960. The main Act now dealing with local governments is the Local Government Act 1995.
 Repealed by the Dividing Fences Act 1961 s. 2(1).

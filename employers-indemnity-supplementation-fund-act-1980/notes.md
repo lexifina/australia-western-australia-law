@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 November 2007 of the Employers’ Indemnity Supplementation Fund Act 1980 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Employers’ Indemnity Supplementation Fund Act 1980 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Workers’ Compensation Supplementation Fund Act 1980 | 80 of 1980 | 5 Dec 1980 | 8 May 1981 (see s. 2 and Gazette 8 May 1981 p. 1402)
@@ -21,6 +21,7 @@ Workers’ Compensation (Common Law Proceedings) Act 2004 s. 12 | 35 of 2004 | 2
 Workers’ Compensation Reform Act 2004 s. 159 and 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 3: The Employers’ Indemnity Supplementation Fund Act 1980 as at 16 Nov 2007 (includes amendments listed above)
+Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Now known as the Employers’ Indemnity Supplementation Fund Act 1980; short title changed (see note under s. 1).
 The Employers’ Indemnity Supplementation Fund Amendment Act 1993 s. 5(2) and 15 read as follows:
 “
@@ -29,3 +30,24 @@ The Employers’ Indemnity Supplementation Fund Amendment Act 1993 s. 5(2) and 1
 15.Saving
 Notwithstanding the amendments and repeals effected by sections 8, 9 and 10 of this Act, sections 20, 21, 22 and 23 of the principal Act as in force immediately before the commencement of this Act continue to apply in respect of claims that had been lodged with the liquidator of an insurer under section 19(4) of the principal Act before the commencement of this Act as if this Act had not been enacted.
 ”.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+compensation19(5)
+Corporations Act3
+damages19(5)
+employer3
+employer’s policy3
+Fund3
+General Account6A(3)
+Insurance Commission3
+insurer3
+liquidator3
+self-insurer3
+surcharge period3
+the appropriate surcharge3
+the employer’s policy3
+the moneys advanced7(3)
+the moneys available7(3)
+Treasurer3
+WorkCover WA3

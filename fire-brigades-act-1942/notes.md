@@ -84,6 +84,7 @@ Fire Brigades (Fire Districts) Notice 2005 published in Gazette 28 Jun 2005 p. 2
 Emergency Management Act 2005 s. 104 | 15 of 2005 | 27 Sep 2005 | 24 Dec 2005 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Fire Brigades (Fire Districts) Notice (No. 2) 2005 published in Gazette 29 Nov 2005 p. 5782-3 | 29 Nov 2005
 Reprint 7: The Fire Brigades Act 1942 as at 2 Jun 2006 (includes amendments listed above)
+Statutes (Repeals and Minor Amendments) Act 2009 s. 9 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 The Fire and Emergency Services Legislation (Emergency Services Levy) Amendment Act 2002 s. 36, which gives effect to Sch. 1, reads as follows:
 “
 36.Transitional provisions

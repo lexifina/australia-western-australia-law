@@ -19,6 +19,7 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 11 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Port Authorities Act 1999 as at 4 Jul 2008 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 102 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -203,4 +204,3 @@ Treasurer3(1)
 under compulsory pilotage95(1)
 vessel3(1)
 vested3(1)
-By Authority: JOHN A. STRIJK, Government Printer

@@ -8,6 +8,7 @@ Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006
 Reprint 1: The Electricity Industry Act 2004 as at 16 Jun 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Electricity Industry Amendment Act 2007 | 32 of 2007 | 21 Dec 2007 | s. 1 and 2: 21 Dec 2007 (see s. 2(a)); Act other than s. 1 and 2: 22 Dec 2007 (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 National Gas Access (WA) Act 2009 Pt. 7 Div. 3 | 16 of 2009 | 1 Sep 2009 | To be proclaimed (see s. 2(b))

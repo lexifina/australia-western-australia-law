@@ -25,6 +25,7 @@ Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 4 | 69 of 2006
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 4: The Credit (Administration) Act 1984 as at 11 Jul 2008 (includes amendments listed above)
 Acts Amendment (Bankruptcy) Act 2009 s. 25 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

@@ -1,11 +1,12 @@
 Notes
-This reprint is a compilation as at 6 March 2009 of the Swan and Canning Rivers Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Swan and Canning Rivers Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Swan and Canning Rivers Management Act 2006 | 51 of 2006 | 6 Oct 2006 | s. 1 and 2: 6 Oct 2006; Act other than s. 1 and 2: 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Swan and Canning Rivers Management Regulations 2007 r. 45 published in Gazette 25 Sep 2007 p. 4787-831 | 25 Sep 2007 (see note under r. 1 and Gazette 25 Sep 2007 p. 4835)
 Reprint 1: The Swan and Canning Rivers Management Act 2006 as at 6 Mar 2009 (includes amendments listed above)
+Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
