@@ -25,10 +25,6 @@ Electricity Legislation Amendment Act 2004 Pt. 2 Div. 2 | 33 of 2004 | 20 Oct 20
 Electricity Corporations Act 2005 Sch. 5 cl. 7-22 | 18 of 2005 (as amended by No. 8 of 2009 s. 50(3)(b)) | 13 Oct 2005 | Sch. 5 (other than cl. 21(2)(a)(ii)): 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153) Sch. 5 cl. 21(2)(a)(ii) deleted by No. 8 of 2009 s. 50(3)(b)
 Reprint 3: The Electricity Transmission and Distribution Systems (Access) Act 1994 as at 4 Aug 2006 (includes amendments listed above)
 Electricity Transmission and Distribution Systems (Repeal and Related Provisions) Regulations 2007 published in Gazette 26 Jun 2007 p. 3018-21 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Energy Legislation Amendment Act 2003 s. 109(4)-(5), 110(4) and 111 | 53 of 2003 | 8 Oct 2003 | To be proclaimed (see s. 2(1) and (2))
 The Energy Corporations (Transitional and Consequential Provisions) Act 1994 Pt. 3 (as amended by the Electricity Corporations Act 2005 s. 139) reads as follows:
 “
 Part 3 — Transitional provisions for succession from Commission to New Corporations
@@ -139,7 +135,7 @@ in accordance with a transfer order.
 (1a) In subsection (1)(b) —
 new corporation and transfer order have the meanings given to those terms in section 142(1) of the Electricity Corporations Act 2005.
 (2) The Governor may, by further regulations, amend or repeal the regulations referred to in subsection (1).
-[Section 50 amended by No. 18 of 2005 s. 139.]
+[Section 50 amended: No. 18 of 2005 s. 139.]
 51.Guarantees in respect of Commission
 (1) A guarantee under section 30 or 108 of the principal Act as in force immediately before the commencement day is not affected by —
 (a) any provision of this Act, including without limitation the transfer of any liability of the Commission under section 45, 46 or 47 to a corporation or the corporations jointly; or
@@ -260,29 +256,7 @@ The Electricity Corporations Act 2005 Sch. 5 cl. 22(2)-(4) reads as follows:
 Western Power Corporation has the meaning given to that term in section 142(1).
 ”.
 The Electricity Corporations Act 2005 Sch. 5 cl. 21(2)(a)(ii) was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 50(3)(b).
-On the date as at which this reprint was prepared, the Energy Legislation Amendment Act 2003 s. 109(4)-(5), 110(4) and 111 had not come into operation. They have been superseded by the Electricity Corporations Act 2005 and will not be proclaimed. They read as follows:
-“
-109.Schedule 5 amended
-(4) Clause 4(1) is amended by deleting “prepare annually” and inserting instead —
-“ , not later than the prescribed day in each year, prepare ”.
-(5) Clause 4(2) is repealed and the following subclauses are inserted instead —
-“
-(2) Any existing or prospective user may request the corporation to provide a report and forecast of firm capacity, non-firm capacity, and spare capacity as applicable to that user’s particular requirements.
-(3) The corporation may make a reasonable charge in respect of the cost of complying with the request.
-(4) Subject to payment of the charge referred to in subclause (3), the corporation must comply with a request under subclause (2) within the prescribed number of days after the request is made.
-”.
-110.Schedule 6 amended
-(4) Clause 4 is repealed and the following clause is inserted instead —
-“
-4.Obligation to provide information
-(1) Any existing or prospective user may request the corporation to provide a report and forecast of electricity distribution capacity as applicable to that user’s particular requirements.
-(2) The corporation may make a reasonable charge in respect of the cost of complying with the request.
-(3) Subject to payment of the charge referred to in subclause (2), the corporation must comply with a request under subclause (1) within the prescribed number of days after the request is made.
-”.
-111.Schedule 7 amended
-Schedule 7 clause 2(1) is amended by deleting “prepare annually” and inserting instead —
-“ , not later than the prescribed day in each year, prepare ”.
-”.
+The Energy Legislation Amendment Act 2003 s. 109(4)-(5), 110(4) and 111 had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2009 s. 6.
 The Electricity Transmission and Distribution Systems (Repeal and Related Provisions) Regulations 2007 Pt. 4 reads as follows:
 “
 Part 4 — Transitional provisions
@@ -299,3 +273,19 @@ effect, unless the contract expressly provides that the provision applies despit
 effect, unless the contract expressly provides that the provision applies despite any inconsistency with the essential terms and conditions.
 ”.
 ”.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+corporation2
+declaration95A(5)
+electricity distribution capacity89(1)
+electricity distribution system89(1)
+electricity transmission capacity89(1)
+electricity transmission system89(1)
+existing access agreement95(2)
+isolated system2
+North West interconnected system2
+regulations89(1)
+relevant provision95A(5)
+specified95A(5)
+user89(2)
