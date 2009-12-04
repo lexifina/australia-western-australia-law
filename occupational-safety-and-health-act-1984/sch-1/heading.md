@@ -1,5 +1,6 @@
-## Schedule
-## Subject matter for regulations
+## Schedule 1 — Subject matter for regulations
+[s. 60(5)]
+[Heading inserted by No. 36 of 2009 s. 16.]
 1.Safety and health standards or procedures to be complied with —
 (a) at any workplace;
 (b) in the performance of any work;

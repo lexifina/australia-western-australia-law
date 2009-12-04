@@ -30,11 +30,13 @@ Police Amendment Act 2008 s. 15 and s. 23(5) | 8 of 2008 | 31 Mar 2008 | s. 15: 
 Training Legislation Amendment and Repeal Act 2008 s. 57 | 44 of 2998 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
 Reprint 6: The Occupational Safety and Health Act 1984 as at 19 Dec 2008 (includes amendments listed above except those in the Training Legislation Amendment and Repeal Act 2008)
 Acts Amendment (Bankruptcy) Act 2009 s. 60 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Occupational Safety and Health Legislation Amendment Act 2009 | 36 of 2009 | 3 Dec 2009 | 3-10, 14 and 16: 4 Dec 2009 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 65, 66 and 68 | 51 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
 Petroleum Legislation Amendment and Repeal Act 2005 s. 50 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
+Occupational Safety and Health Legislation Amendment Act 2009 s. 11-13 and 15 | 36 of 2009 | 3 Dec 2009 | s. 11, 12 and 15: to be proclaimed (see s. 2(b)); s. 13: 31 Dec 2009 (see s. 2(c))
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
@@ -151,6 +153,31 @@ Petroleum and Geothermal Energy Resources Act 1967,
 ”.
 ”.
 A reference to the Petroleum Safety Act 1999 is not included in the table because that Act was repealed before the amendments in Sch. 2 to that Act came into operation. The repeal was made by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51.
+On the date as at which this compilation was prepared, the Occupational Safety and Health Legislation Amendment Act 2009 s. 11-13 and 15 had not come into operation. They read as follows:
+11.Section 51A amended
+In section 51A(2) delete “in the prescribed form”.
+12.Section 51G amended
+In section 51G(1) delete “(3) and 51A(1).” and insert:
+(3), 51A(1) and 61A.
+13.Section 51H amended
+(1) Delete section 51H(1)(a) and “or” after it and insert:
+(a) by the commissioner designated under the Industrial Relations Act 1979 section 16(2A) to exercise the jurisdiction; or
+(2) After section 51H(3) insert:
+(4) A person who is a commissioner may, even though the person’s designation has ceased to have effect under the Industrial Relations Act 1979 section 16(2B), continue and complete the hearing and determination of part-heard proceedings after another commissioner has been designated under section 16(2A) of that Act.
+15.Section 61A inserted
+After section 60 insert:
+61A.Review of Commissioner’s decisions under the regulations
+(1) In this section —
+reviewable decision means —
+(a)a decision made under the regulations by the Commissioner himself or herself; and
+(b)a determination of the Commissioner on the review, under the regulations, of a decision made under the regulations by a person other than the Commissioner, whether or not the decision was made by that person as a delegate of the Commissioner,
+but does not include a decision made by a person acting as a delegate of the Commissioner.
+(2) A person who is not satisfied with a reviewable decision may, within 14 days of receiving notice of the decision, refer the decision to the Tribunal for review.
+(3) On reference of a decision under subsection (2), the Tribunal is to inquire into the circumstances relevant to the decision and may —
+(a) affirm the decision; or
+(b) set aside the decision; or
+(c) substitute for the decision any decision that the Tribunal considers the Commissioner should have made in the first instance.
+(4) Pending the decision on a reference under this section, the operation of the reviewable decision is to continue, subject to any decision to the contrary made by the Tribunal.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
