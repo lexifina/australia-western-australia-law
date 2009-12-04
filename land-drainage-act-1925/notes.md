@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 April 2007 of the Land Drainage Act 1925 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Drainage Act 1925 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Drainage Act 1925 | 43 of 1925 (16 Geo. V No. 43) | 31 Dec 1925 | 1 Jul 1926 (see s. 1 and Gazette 7 May 1926 p. 945)
@@ -30,6 +30,7 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Land Information Authority Act 2006 s. 141 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Reprint 4: The Land Drainage Act 1925 as at 5 Apr 2007 (includes amendment listed above)
+Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Now known as the Water Agencies (Powers) Act 1984. Short title changed by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 commenced 1 Jan 1996.
 Repealed by the Land Administration Act 1997.

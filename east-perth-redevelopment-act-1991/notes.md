@@ -30,6 +30,7 @@ Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 3: The East Perth Redevelopment Act 1991 as at 4 May 2007 (includes amendments listed above except those in the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006)
 Acts Amendment (Bankruptcy) Act 2009 s. 32 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.

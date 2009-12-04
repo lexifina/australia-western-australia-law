@@ -22,6 +22,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 20
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Reprint 3: The Subiaco Redevelopment Act 1994 as at 21 Nov 2008 (includes amendments listed above)
 Acts Amendment (Bankruptcy) Act 2009 s. 83 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(1), a reference in a written law to the Public Service Act 1978 is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The Planning Legislation Amendment Act 1996 s. 39(2), (3) and (4) read as follows:
 “

@@ -13,6 +13,7 @@ Acts Amendment (Student Guilds and Associations) Act 2002 Pt. 5 | 44 of 2002 | 3
 Universities Legislation Amendment Act 2005 Pt. 5 | 8 of 2005 | 7 Jul 2005 | 13 Aug 2005 (see s. 2 and Gazette 12 Aug 2005 p. 3651)
 Reprint 2: The University of Notre Dame Australia Act 1989 as at 3 Feb 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Statutes (Repeals and Minor Amendments) Act 2009 s. 16 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 The Voluntary Membership of Student Guilds and Associations Act 1994 s. 2(2), (3) and (4) are transitional provisions that are of no further effect.
 The Acts Amendment (Education Loan Scheme) Act 1998 Pt. 5 reads as follows:
 “
@@ -56,3 +57,18 @@ have effect, by force of this section, as if —
 (9) An investment common fund established under the UNDA Act section 23 that was in effect immediately before commencement day is, on and after that day, to be treated as if it were established by the Board of Directors.
 (10) If, immediately before commencement day, any duty imposed by the UNDA Act section 30 on the Board of Governors has not been complied with in relation to the Board of Governors for any University year that expired before commencement day, that duty subsists and is to be performed by the Board of Directors.
 ”.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Board of Directors3
+Board of Governors3
+capital works25B(4)
+companies laws26
+general Trustees3
+nominee Trustees3
+operating account25D(3)
+statute3
+this Act3
+Trustees3
+University3
+Vice-Chancellor3

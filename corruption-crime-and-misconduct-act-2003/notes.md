@@ -15,12 +15,13 @@ Compilation table
  | Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
  | Acts Amendment (Justice) Act 2008 s. 128 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
  | Police Amendment Act 2008 s. 11 and 23(1) | 8 of 2008 | 31 Mar 2008 | s. 11: 1 Apr 2008 (see s. 2(1)); s. 23(1): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
- | Legal Profession Act 2008 s. 654 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+Legal Profession Act 2008 s. 654 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
  | Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
  | Criminal Law Amendment (Homicide) Act 2008 s. 26 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
  | Reprint 3: The Corruption and Crime Commission Act 2003 as at 10 Oct 2008 (includes amendments listed above, except those in the Medical Practitioners Act 2008 s. 162 and the Legal Profession Act 2008)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 41 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
  | Acts Amendment (Bankruptcy) Act 2009 s. 23 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+ | Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003.
 Now called the Telecommunications (Interception and Access) Act 1979 (Commonwealth).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.

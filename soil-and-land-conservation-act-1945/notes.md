@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 October 2008 of the Soil and Land Conservation Act 1945 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Soil and Land Conservation Act 1945 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Soil Conservation Act 1945 | 15 of 1945 (9 and 10 Geo. VI No. 15) | 9 Jan 1946 | 1 Jul 1946 (see s. 1 and Gazette 28 Jun 1946 p. 789)
@@ -50,6 +50,7 @@ Petroleum Amendment Act 2007 s. 105 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (se
 Water Resources Legislation Amendment Act 2007 s. 200 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Reprint 8: The Soil and Land Conservation Act 1945 as at 17 Oct 2008 (includes amendments listed above)
+Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 July 2008 of the Armadale Redevelopment Act 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Armadale Redevelopment Act 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Armadale Redevelopment Act 2001 | 25 of 2001 | 26 Nov 2001 | s. 1 and 2: 26 Nov 2001; Act other than s. 1 and 2: 23 Mar 2002 (see s. 2 and Gazette 22 Mar 2002 p. 1651)
@@ -17,6 +17,7 @@ Armadale Redevelopment (Addition of Land to Redevelopment Area) Regulations 2007
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Armadale Redevelopment (Addition of Land to Redevelopment Area) Regulations 2008 published in Gazette 17 Jun 2008 p. 2568-70 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jun 2008 (see r. 2(b))
 Reprint 2: The Armadale Redevelopment Act 2001 as at 18 Jul 2008 (includes amendments listed above)
+Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Defined Terms
