@@ -18,6 +18,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 2
 Reprint 2: The Fisheries Adjustment Schemes Act 1987 as at 6 April 2007 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 61 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 37 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Fisheries Adjustment Schemes Amendment Act 2009 | 38 of 2009 | 3 Dec 2009 | s. 1 and 2: 3 Dec 2009 (see s. 2(a)); Act other than s. 1 and 2: 4 Dec 2009 (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 5 is a transitional provision that is of no further effect.
