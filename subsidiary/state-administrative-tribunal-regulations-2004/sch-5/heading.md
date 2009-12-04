@@ -36,7 +36,7 @@ Emergency Management Act 2005 s. 83
 Employment Agents Act 1976 s. 22(4)
 Finance Brokers Control Act 1975 s. 23(1), 35(5), 72(1), 73(1), (2) or (4)(b), 77 or 78(1) or (3)
 Firearms Act 1973 s. 22(2)
-Fire Brigades Act 1942 s. 25A(4) or 33(e)(ii)
+Fire Brigades Act 1942 s. 25A(4) or 33(3)
 Fisheries Adjustment Schemes Act 1987 s. 14J(1) or 14L(1)
 Fishing and Related Industries Compensation (Marine Reserves) Act 1997 s. 8(1a) or (2) or 10(1)
 Fish Resources Management Act 1994 s. 149(1) or 255(5)
@@ -107,4 +107,4 @@ Water Services Licensing Act 1995 s. 44(1) or 54(1)
 Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 r. 19(2a), 29(1) or 100(2)
 Waterways Conservation Act 1976 s. 46(11)
 Western Australian Meat Industry Authority Act 1976 s. 22(1)
-[Schedule 5 inserted in Gazette 26 Jun 2007 p. 2988-93; amended in Gazette 27 Jun 2008 p. 3066-7.]
+[Schedule 5 inserted in Gazette 26 Jun 2007 p. 2988-93; amended in Gazette 27 Jun 2008 p. 3066-7; amended by No. 46 of 2009 s. 10.]
