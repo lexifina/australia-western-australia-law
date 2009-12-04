@@ -23,6 +23,7 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Mines Safety and Inspection Amendment Act 2008 | 16 of 2008 | 16 Apr 2008 | s. 1 and 2: 16 Apr 2008 (see s. 2(a)); Act other than s. 1 and 2: 17 Apr 2008 (see s. 2(b))
 Reprint 4: The Mines Safety and Inspection Act 1994 as at 16 May 2008 (includes amendments listed above)
 Training Legislation Amendment and Repeal Act 2008 s. 55 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
+Mines Safety and Inspection Amendment Act 2009 | 45 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 The amendment in the Coroners Act 1996 Sch. 1 it. 11 is not included because of an error in the reference to the provision to be amended. The amendment intended was made in the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 51.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 100 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(10).
 The Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 115(7) reads as follows:
