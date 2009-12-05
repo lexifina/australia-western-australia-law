@@ -23,7 +23,8 @@ Item | Regulation | Matter to which regulation relates | Modified penalty $
 19. | 37(1)(a) | Beaching vessel in Thomson, Longreach or Geordie Bay without permission and not in permitted area | 50
 20. | 37(1)(b) | Beach-anchoring a vessel in Thomson, Longreach or Geordie Bay without permission and not in permitted area | 50
 21. | 38A(3) | Exceeding speed limit set for vessel in defined area | 100
-22. | 38B(3) | Using vessel contrary to notice setting aside area and imposing conditions for use of that vessel | 100
+22. | 38BA(3) | Using vessel of specified class outside specified area or in breach of conditions | 100
+23A. | 37B(3) | Using vessel in specified area if vessel not of specified class or in breach of conditions | 100
 23. | 38C(2) | Discharging or depositing sullage from vessel other than by approved system | 100
 24. | 39(1) | Injuring etc. flora or removing stake or label relating to flora | 100
 25. | 40 | Interfering etc. with fauna or habitat etc. of fauna | 100
@@ -50,4 +51,4 @@ Item | Regulation | Matter to which regulation relates | Modified penalty $
 46. | 70(3) | Writing etc. or distributing or otherwise disseminating indecent or obscene matter | 80
 47. | 71 | Causing or producing noise that unreasonably interferes with convenience, comfort or amenity of any person | 80
 48. | 72(1) | Consuming alcoholic liquor in unauthorised place | 80
-[Schedule 4 inserted in Gazette 4 Jul 1997 p. 3535-8; amended in Gazette 7 Dec 2001 p. 6190.]
+[Schedule 4 inserted in Gazette 4 Jul 1997 p. 3535-8; amended in Gazette 7 Dec 2001 p. 6190; 4 Dec 2009 p. 4926.]

@@ -28,5 +28,5 @@
 [Part 2 inserted in Gazette 3 Jul 2009 p. 2702.]
 ## Part 3 — Authorised user payment
 [Heading inserted in Gazette 3 Jul 2009 p. 2702.]
-7. | Annual authorised user payment (r. 31(4)(ab)) | $38.50/m of length of authorised vessel
-[Part 3 inserted in Gazette 3 Jul 2009 p. 2702.]
+7. | Annual authorised user payment (r. 31B(3)(a)(ii) and 31E(1)(b)) | $38.50/m of length of authorised vessel
+[Part 3 inserted in Gazette 3 Jul 2009 p. 2702; amended in Gazette 4 Dec 2009 p. 4925.]
