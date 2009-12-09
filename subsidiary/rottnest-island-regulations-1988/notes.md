@@ -26,6 +26,7 @@ Rottnest Island Amendment Regulations 2008 | 24 Jun 2008 p. 2911-13 | r. 1 and 2
 Rottnest Island Amendment Regulations 2009 | 3 Jul 2009 p. 2700-3 | r. 1 and 2: 3 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jul 2009 (see r. 2(b)(ii))
 Reprint 3: The Rottnest Island Regulations 1988 as at 21 Aug 2009 (includes amendments listed above)
 Rottnest Island Amendment Regulations (No. 2) 2009 | 4 Dec 2009 p. 4920-6 | r. 1 and 2: 4 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2009 (see r. 2(b))
+Rottnest Island Amendment Regulations (No. 3) 2009 | 8 Dec 2009 p. 5002-9 | r. 1 and 2: 8 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Dec 2009 (see r. 2(b))
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fish Resources Management Act 1994 s. 265.
 Repealed by the Liquor Control Act 1988.
