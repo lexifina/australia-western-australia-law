@@ -46,6 +46,7 @@ Reprint 6: The Building Regulations 1989 as at 22 May 2009 (includes amendments 
 Building Amendment Regulations 2009 | 31 Jul 2009 p. 3017-24 | 1 Oct 2009 (see r. 2(b)(i))
 Building Amendment Regulations (No. 3) 2009 | 4 Aug 2009 p. 3101 | r. 1 and 2: 4 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Aug 2009 (see r. 2(b))
 Building Amendment Regulations (No. 4) 2009 | 1 Sep 2009 p. 3393-4 | r. 1 and 2: 1 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Sep 2009 (see r. 2(b))
+Building Amendment Regulations (No. 5) 2009 | 8 Dec 2009 p. 4991 | r. 1 and 2: 8 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Dec 2009 (see r. 2(b))
 The Gas Corporation does not exist. The Act that established it was repealed by the Gas Corporation (Business Disposal) Act 1999 s. 93.
 The Building Amendment Regulations (No. 2) 2001 r. 7 reads as follows:
 7.Transitional

@@ -36,6 +36,7 @@ Dandaragan | All townsites | All townsites | Whole district
 Dardanup | Whole district | Whole district | Whole district
 Denmark | Whole district | All townsites | Whole district
 Derby-West Kimberley | All townsites | Whole district | Whole district
+Donnybook-Balingup | Whole district | Whole district | Whole district
 Dowerin | All townsites | All townsites | Whole district
 Dumbleyung | Townsites of Dumbleyung, Kukerin | Whole district | Whole district
 East Fremantle | Whole district | Whole district | Whole district
@@ -125,4 +126,4 @@ Note 1 — Broomehill
 (b)Lot 17 to 24 being portion of Kojonup Location 256.
 (c)Kojonup Location 1671.
 (d)Reserves 8163, 10285, 10431 and 17230.
-[Schedule 2 inserted in Gazette 5 Apr 2002 p. 1827-32; amended in Gazette 4 Apr 2003 p. 1026-7; 13 Aug 2004 p. 3251; 18 May 2007 p. 2257; 4 March 2008 p. 739; 22 Jul 2008 p. 3354; 19 May 2009 p. 1663; 4 Aug 2009 p. 3101; 1 Sep 2009 p. 3394.]
+[Schedule 2 inserted in Gazette 5 Apr 2002 p. 1827-32; amended in Gazette 4 Apr 2003 p. 1026-7; 13 Aug 2004 p. 3251; 18 May 2007 p. 2257; 4 March 2008 p. 739; 22 Jul 2008 p. 3354; 19 May 2009 p. 1663; 4 Aug 2009 p. 3101; 1 Sep 2009 p. 3394; 8 Dec 2009 p. 4991.]
