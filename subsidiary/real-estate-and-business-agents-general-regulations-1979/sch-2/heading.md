@@ -63,9 +63,9 @@ Before me.......................................................................
 [Form 1 inserted in Gazette 8 Feb 2002 p. 599-602; amended in Gazette 28 Aug 2009 p. 3349.]
 Form 2 — Infringement notice
 Real Estate and Business Agents Act 1978 Infringement notice | Infringement notice no.
-Alleged offender | Name:Family name
+Alleged offender | Name: Family name
 Given names
-orCompany name ______________________________ ACN
+or Company name______________________________ ACN
 Address _________________________________________ Postcode
 Alleged offence | Description of offence _____________________________
  | Real Estate and Business Agents Act 1978 s. Real Estate and Business Agents (General) Regulations 1979 r.
@@ -75,15 +75,16 @@ Officer issuing notice | Name
 Signature
 Office
 Date | Date of notice //20
-Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque or money order (payable to ‘Approved Officer — Real Estate and Business Agents Act 1978’) to the following address: Approved Officer Real Estate and Business Agents Supervisory Board [Address] In person: Pay the cashier at: Real Estate and Business Agents Supervisory Board [Address] If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act your driver’s licence and/or vehicle licence may be suspended.
+Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice.
+ | How to pay By post: Send a cheque or money order (payable to ‘Approved Officer — Real Estate and Business Agents Act 1978’) to the following address: Approved Officer Real Estate and Business Agents Supervisory Board [Address] In person: Pay the cashier at: Real Estate and Business Agents Supervisory Board [Address] If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act your driver’s licence and/or vehicle licence may be suspended.
  | If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Approved Officer at the above postal address.
  | If you want this matter to be dealt with by prosecution in court, sign here ________________________________ and post this notice to the Approved Officer at the above postal address within 28 days after the date of this notice.
 [Form 2 inserted in Gazette 28 Aug 2009 p. 3349-50.]
 Form 3 — Withdrawal of infringement notice
 Real Estate and Business Agents Act 1978 Withdrawal of infringement notice | Withdrawal no.
-Alleged offender | Name:Family name
+Alleged offender | Name: Family name
 Given names
-orCompany name ______________________________ ACN
+or Company name______________________________ ACN
 Address _________________________________________ Postcode
 Infringement notice | Infringement notice no.
 Date of issue //20
