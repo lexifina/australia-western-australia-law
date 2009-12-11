@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Real Estate and Business Agents (General) Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 December 2009 of the Real Estate and Business Agents (General) Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Real Estate and Business Agents (General) Regulations 1979 | 31 Aug 1979 p. 2616-18 | 1 Sep 1979
@@ -65,18 +65,39 @@ Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2009 | 8
 Real Estate and Business Agents (General) Amendment Regulations (No. 4) 2009 | 23 Jun 2009 p. 2453-4 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations (No. 3) 2009 | 28 Aug 2009 p. 3347-52 | r. 1 and 2: 28 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2009 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations (No. 5) 2009 | 10 Nov 2009 p. 4495-6 | r. 1 and 2: 10 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Nov 2009 (see r. 2(b))
+Reprint 6: The Real Estate and Business Agents (General) Regulations 1979 as at 11 Dec 2009 (includes amendments listed above)
+Evidence Act 1906 s. 106 repealed by Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 51.
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 4(2) (as amended in Gazette 13 Jan 2004 p. 146) reads as follows:
-“
 (2) Despite the amendments effected by subregulation (1), examinations referred to in a provision of the Real Estate and Business Agents (General) Regulations 1979 referred to in column 1 of the Table to this subregulation, as in force immediately before the commencement of these regulations, continue to be prescribed examinations for the purposes of clause 1(a) of the Schedule to the Act until the date specified in column 2 of that Table opposite the reference to the provision.
 Table
 r. 6(a)(i) | 1 Jul 2003
 r. 6(a)(ii), (b) or (c) | 1 Jan 2004
 r. 6(a)(iii) | 1 Jan 2006
 [Regulation 4(2) amended in Gazette 13 Jan 2004 p. 146.]
-”.
 The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 5(2) reads as follows:
-“
 (2) Despite the amendment effected by subregulation (1), the qualification referred to in regulation 6A(c) of the Real Estate and Business Agents (General) Regulations 1979, as in force immediately before the commencement of these regulations, continues to be a prescribed qualification for the purposes of section 47(2) of the Act in respect of an application for registration as a real estate and business sales representative made under the Act on or before 1 January 2004.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+authorised financial institution6C
+business6E(2)
+calendar year2
+CPD activity2
+CPD subject2
+CPP07 Property Services Training Package6A(2)
+dwelling2
+educational activity2
+holding fee4A(1)
+lending institution7AA
+mandatory CPD activity2
+mandatory CPD subject2
+point value2
+record2
+register2
+registered training provider2
+regulated person2
+relevant bank accepted bills rate6F(2)
+relevant day2
+working day2
