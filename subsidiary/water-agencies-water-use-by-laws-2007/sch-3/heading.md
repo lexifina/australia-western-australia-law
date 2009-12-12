@@ -1,6 +1,6 @@
 ## Schedule 3 — Specified days for watering by reticulation in the south of the State
 [bl. 3, 6, Sch 2 cl. 4]
-Last digit of property’s street or lot number | Days for watering by reticulation
+Last digit of property’s street number or, where there is no street number, lot number | Days for watering by reticulation
 1 | Wednesday and Saturday
 2 | Thursday and Sunday
 3 | Friday and Monday
@@ -11,3 +11,4 @@ Last digit of property’s street or lot number | Days for watering by reticulat
 8 | Wednesday and Saturday
 9 | Thursday and Sunday
 0 | Friday and Monday
+[Schedule 3 amended in Gazette 11 Dec 2009 p. 5062.]
