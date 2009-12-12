@@ -26,3 +26,4 @@ Reprint 2: The W.A. Marine (Hire and Drive Vessels) Regulations 1983 as at 10 No
 W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2007 | 12 Jun 2007 p. 2729-30 | 1 Jul 2007 (see r. 2)
 W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2008 | 24 Jun 2008 p. 2896-7 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 W.A. Marine (Hire and Drive Vessels) Amendment Regulations (No. 2) 2008 | 24 Oct 2008 p. 4673-5 | r. 1 and 2: 24 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Oct 2008 (see r. 2(b))
+W.A. Marine Amendment Regulations 2009 Pt. 6 | 11 Dec 2009 p. 5087-109 | 12 Dec 2009 (see r. 2(b))

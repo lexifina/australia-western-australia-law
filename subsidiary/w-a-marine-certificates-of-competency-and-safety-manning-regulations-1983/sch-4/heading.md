@@ -33,7 +33,7 @@ successfully complete approved courses in —
 —simulated radar navigation and anticollision exercises
 produce an acceptable certificate indicating a specified minimum standard of physical fitness.
 Examination Subjects
-The examination for a certificate of competency as Master Class III shall be in accordance with the syllabuses set out in Schedule 1 to Section 2 of the Code and shall consist of —
+The examination for a certificate of competency as Master Class III shall be in accordance with the syllabuses set out in Schedule One to Section 2 of the Code and shall consist of —
  | Subject No. | Pass Mark
 PART B-1 |  | %
 Meteorology | 1 | 50
@@ -79,7 +79,7 @@ successfully complete approved courses in —
 —proficiency in administering first aid to the injured;
 produce an acceptable certificate indicating a specified minimum standard of physical fitness.
 Examination Subjects
-The examination for a certificate of competency as Master Class IV shall be in accordance with the syllabuses set out in Schedule 1 to Section 2 of the Code and shall consist of —
+The examination for a certificate of competency as Master Class IV shall be in accordance with the syllabuses set out in Schedule One to Section 2 of the Code and shall consist of —
  | Subject No. | Pass Mark
 PART B-1 |  | %
 Bridge Equipment | 1 | 60
@@ -118,7 +118,7 @@ successfully complete approved courses in —
 —proficiency in administering first aid to the injured;
 produce an acceptable certificate indicating a specified minimum standard of physical fitness.
 Examination Subjects
-The examination for a certificate of competency as Mate Class IV shall be the same as that for a certificate of competency as Master Class IV except that the examination in Nautical Knowledge may be varied so as to take into consideration that the holder will not be permitted to take command of a vessel. The examination shall be in accordance with the syllabuses set out in Schedule 1 to Section 2 of the Code and shall consist of —
+The examination for a certificate of competency as Mate Class IV shall be the same as that for a certificate of competency as Master Class IV except that the examination in Nautical Knowledge may be varied so as to take into consideration that the holder will not be permitted to take command of a vessel. The examination shall be in accordance with the syllabuses set out in Schedule One to Section 2 of the Code and shall consist of —
  | Subject No. | Pass Mark
 PART B-1 |  | %
 Bridge Equipment | 1 | 60
@@ -157,7 +157,7 @@ satisfactorily complete approved courses in —
 —radiotelephony; and
 produce an acceptable certificate indicating a specified minimum standard of physical fitness.
 Examination Subjects
-The examination for a certificate of competency as Master Class V shall be in accordance with the syllabuses set out in Schedule 1 to Section 2 of the Code and shall consist of —
+The examination for a certificate of competency as Master Class V shall be in accordance with the syllabuses set out in Schedule One to Section 2 of the Code and shall consist of —
  | Subject No. | Pass Mark
 PART B-1 |  | %
 Radar | 1 | 60
@@ -198,7 +198,7 @@ a period of service appropriate to the qualification based on the above requirem
 (ii)To qualify for issue of the certificate of competency —
 —In addition to obtaining a satisfactory pass in the oral and/or practical examination, candidates must satisfy the following requirements —
 Examination Subjects
-The examination for a certificate of competency as Coxswain shall be in accordance with the syllabuses set out in Schedule 1 to Section 2 of the Code and shall consist of —
+The examination for a certificate of competency as Coxswain shall be in accordance with the syllabuses set out in Schedule One to Section 2 of the Code and shall consist of —
  | Subject No.
 Boat Handling..................................................................... | 1
 Emergency and Safety........................................................ | 2
@@ -240,7 +240,7 @@ produced evidence of a satisfactory minimum standard of medical fitness.
 Attained the age of 20 years.
 Note: Before the certificate may be used on vessels of 3 000 kW propulsion power, or over, it shall be endorsed for completion of an approved course in prevention and control of fires in ships.
 Examination Subjects
-The examination for Marine Engineer Class III set out in Schedule 2 to Section 2 of the Code except that Engineering Knowledge shall be divided into 2 subjects so that the examination shall consist of:
+The examination for Marine Engineer Class III set out in Schedule Two to Section 2 of the Code except that Engineering Knowledge shall be divided into 2 subjects so that the examination shall consist of:
 Practical Mathematics (1 3-hour paper).
 Engineering Knowledge — Mechanical (1 2-hour paper and an oral examination).
 Engineering Knowledge — Electrical (1 1-hour paper and an oral examination).
@@ -264,15 +264,15 @@ passed the requisite examination; and
 hold, or be eligible for the granting of a certificate as Marine Engine-Driver Grade I.
 Note: Applicants who hold a refrigeration endorsement of a certificate as Marine Engine-Driver Grade II may be exempted from the examination.
 Examination Subjects —
-(a)The examination for Marine Engine-Driver Grade I set out in Schedule 2 to Section 2 of the Code except that Engineering Knowledge shall be divided into 2 subjects so that the examination shall consist of:
+(a)The examination for Marine Engine-Driver Grade I set out in Schedule Two to Section 2 of the Code except that Engineering Knowledge shall be divided into 2 subjects so that the examination shall consist of:
 Practical Mathematics (1 3-hour paper).
 Engineering Knowledge — Mechanical (1 2-hour paper and an oral examination).
 Engineering Knowledge — Electrical (1 1-hour paper and an oral examination).
-(b)The examination for the motor or steam endorsement to the limited certificate of competency shall be in accordance with the syllabus set out in Schedule 2 to Section 2 of the Code and shall consist of —
+(b)The examination for the motor or steam endorsement to the limited certificate of competency shall be in accordance with the syllabus set out in Schedule Two to Section 2 of the Code and shall consist of —
 Engineering Knowledge (1 2-hour paper).
 Engineering Knowledge (Oral).
 (c)The examination for the full certificate of competency as Marine Engine-Driver Grade I shall consist of all the examinations listed in subparagraphs (a) and (b) above.
-(d)The examination for refrigeration endorsement of a certificate as Marine Engine-Driver Grade I shall be in accordance with the syllabus set out in Schedule 2 to Section 2 of the Code.
+(d)The examination for refrigeration endorsement of a certificate as Marine Engine-Driver Grade I shall be in accordance with the syllabus set out in Schedule Two to Section 2 of the Code.
 MARINE ENGINE-DRIVER GRADE II — Prerequisites —
 (a)Qualifying service —
 (i)9 months as apprentice, or journeyman mechanical fitter, or motor mechanic, or as assistant to a journeyman mechanical fitter, or motor mechanic, engaged in work on engines or motors, and 3 months’ qualifying service afloat in vessels of 10 QN or over; or
@@ -289,11 +289,11 @@ Before endorsement of the certificate an applicant shall have —
 passed the requisite examination; and
 hold, or be eligible for the granting of, a certificate as Marine Engine-Driver Grade II.
 Examination Subjects —
-(a)The examination for a certificate of competency as Marine Engine-Driver Grade II shall be in accordance with the syllabuses set out in Schedule 2 to Section 2 of the Code and shall consist of —
+(a)The examination for a certificate of competency as Marine Engine-Driver Grade II shall be in accordance with the syllabuses set out in Schedule Two to Section 2 of the Code and shall consist of —
 Engineering Knowledge (1 3-hour paper)
 Engineering Knowledge (Oral)
-(b)The examination for refrigeration endorsement of a certificate as Marine Engine-Driver Grade II shall be in accordance with the syllabuses set out in Schedule 2 to Section 2 of the Code.
-[Schedule 4 amended in Gazette 2 Aug 1985 p. 2697; 11 Aug 1992 p. 3977; 24 Aug 2004 p. 3661; 8 Dec 2006 p. 5390.]
+(b)The examination for refrigeration endorsement of a certificate as Marine Engine-Driver Grade II shall be in accordance with the syllabuses set out in Schedule Two to Section 2 of the Code.
+[Schedule 4 amended in Gazette 2 Aug 1985 p. 2697; 11 Aug 1992 p. 3977; 24 Aug 2004 p. 3661; 8 Dec 2006 p. 5390; 11 Dec 2009 p. 5091.]
 Schedule 5 [r. 28] Safety manning PART I TOTAL SAFETY MANNING FOR SHELTERED WATERS (SEE NOTE 7) AND INSHORE OPERATIONAL AREAS | Engine room manning | Other personnel | As determined by Manning Committee
 Certificated personnel (see Note 1) | Qualification (see Note 3) | Marine Engine Driver Grade I | Marine Engine Driver Grade II | Master’s certificate with Engineer Endorsement (see Note 9)
 Duty | Engineer | Engineer | Engineer

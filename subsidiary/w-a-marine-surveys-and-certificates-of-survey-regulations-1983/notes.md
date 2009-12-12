@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 28 August 2009 of the W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 | 1 Jul 1983 p. 2195-208 | 1 Jul 1983 (see r. 2)
@@ -40,6 +40,7 @@ W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2008 | 24
 W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations (No. 2) 2008 | 24 Oct 2008 p. 4678-82 | r. 1 and 2: 24 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Oct 2008 (see r. 2(b))
 W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2009 | 12 Jun 2009 p. 2121-6 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 4: The W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 as at 28 Aug 2009 (includes amendments listed above)
+W.A. Marine Amendment Regulations 2009 Pt. 11 | 11 Dec 2009 p. 5087-109 | 12 Dec 2009 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 The W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2002 r. 4 reads as follows:
 4.Saving
@@ -49,14 +50,11 @@ Defined Terms
 Defined TermProvision(s)
 class3(1)
 Code3(1)
-existing vessel3(1)
 inspection3(1)
+List 7 vessel3(1)
 marine authority3(1)
 measured length3(1)
-new vessel3(1)
-regulation3(1)
-schedule3(1)
+NSCV Part C Section 6A3(1)
 specified form3(1)
-subregulation3(1)
 survey3(1)
 survey authority3(1)
