@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 August 2007 of the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Water Services Coordination (Plumbers Licensing) Regulations 2000 | 16 Jun 2000 p. 2897-936 | 19 Jun 2000 (see r. 2 and Gazette 16 Jun 2000 p. 2939)
@@ -17,6 +17,7 @@ Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment R
 Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations (No. 2) 2007 | 29 May 2007 p. 2502-6 | r. 1 and 2: 29 May 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jun 2007 (see r. 2(b))
 Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations (No. 3) 2007 | 26 Jun 2007 p. 3062-70 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Reprint 2: The Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 as at 3 Aug 2007 (includes amendments listed above)
+Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations 2009 | 11 Dec 2009 p. 5060-1 | r. 1 and 2: 11 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Dec 2009 (see r. 2(b))
 Formerly referred to the Water Services Coordination Act 1995 the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62.
 Now known as the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000; citation changed (see note under r. 1).
 The Water Services Coordination (Plumbers Licensing) Amendment Regulations (No. 2) 2004 Pt. 3 reads as follows:
