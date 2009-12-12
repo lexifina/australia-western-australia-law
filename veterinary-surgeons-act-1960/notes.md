@@ -15,18 +15,9 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 3: The Veterinary Surgeons Act 1960 as at 8 Jul 2005 (includes amendments listed above)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 129 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Veterinary Surgeons Amendment Act 2009 | 9 of 2009 | 21 May 2009 | s. 1 and 2: 21 May 2009 (see s. 2(a)); Act other than s. 1 and 2: 12 Dec 2009 (see s. 2(b) and Gazette 11 Dec 2009 p. 5045)
 Acts Amendment (Bankruptcy) Act 2009 s. 87 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Veterinary Surgeons Amendment Act 2009 s. 3 and 4 | 9 of 2009 | 21 May 2009 | To be proclaimed (see s. 2(b))
 The provision of this Act repealing those Acts has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Now known as Manager, Animal Industry Protection, Animal Protection Program.
 Repealed by s. 1(3) of this Act, which was omitted under the Reprints Act 1984 s. 7(4)(f).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Veterinary Surgeons Amendment Act 2009 s. 3 and 4 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Veterinary Surgeons Act 1960.
-4.Section 20 amended
-In section 20(1)(a) delete “from a university in the Commonwealth of Australia; or” and insert:
-prescribed, or in a class prescribed, by the regulations; or
