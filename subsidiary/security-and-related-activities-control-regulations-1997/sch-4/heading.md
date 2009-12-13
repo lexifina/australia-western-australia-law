@@ -8,6 +8,7 @@ s. 46(1) | Application for issue of agent’s licence —
  | for 3 years | 472
 s. 46(1) | Application by licensee for an additional agent’s licence (each) | 176
 s. 49(1)(c) | Application for renewal of agent’s licence — 3 year (each) | 242
+s. 46(1) | Application for issue of temporary agent’s licence | 451
 Other licences
 s. 46(1) | Application for issue of any other licence —
  | for one year or less | 155
@@ -17,9 +18,10 @@ s. 49(1)(c) | Application for renewal of any other licence — 3 year (each) | 1
 r. 10 | Application for endorsement under section 24 | 35
 r. 12 | Application for permit under section 25 | 139
 r. 13 | Application for endorsement under section 26 | 35
+s. 46(1) | Application for issue of temporary licence other than a temporary agent’s licence | 155
 Miscellaneous
 s. 10(2) | Application to inspect register | 34
 s. 10(3) | Certified copy of register entry | 35
 s. 46(1) | Fee if fingerprints and palm prints are required under section 48 | 96
 s. 66 | Issue of duplicate licence or duplicate identification card | 22
-[Schedule 4 inserted in Gazette 26 May 2009 p. 1811-12.]
+[Schedule 4 inserted in Gazette 26 May 2009 p. 1811-12; amended in Gazette 4 Dec 2009 p. 4916.]
