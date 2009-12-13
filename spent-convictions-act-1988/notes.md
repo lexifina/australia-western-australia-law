@@ -39,12 +39,12 @@ Spent Convictions (Act Amendment) Regulations 2006 published in Gazette 24 Oct 2
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 11 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Reprint 5: The Spent Convictions Act 1988 as at 1 Jun 2007 (includes amendments listed above)
 Police Amendment Act 2008 s. 19 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
+Security and Related Activities (Control) Amendment Act 2008 s. 82 | 4 of 2008 | 2 Apr 2008 | 13 Dec 2009 (see s. 2 and Gazette 4 Dec 2009 p. 4919)
 Spent Convictions (Act Amendment) Regulations 2009 published in Gazette 18 Aug 2009 p. 3238-9 | r. 1 and 2: 18 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2009 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 5 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
-Security and Related Activities (Control) Amendment Act 2008 s. 82 | 4 of 2008 | 2 Apr 2008 | To be proclaimed (see s. 2(b))
 Police Amendment Act 2009 s. 23 | 42 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
@@ -61,12 +61,7 @@ The amendments in this Division are to the Spent Convictions Act 1988.
 Schedule 3 clause 1 item 10 of the Table is amended by deleting “Community and Juvenile Justice Division or the Prisons Division of the Department of Justice” and inserting instead —
 department of the Public Service principally assisting in the administration of this Act
 The amendment to item 10 in the table to Sch. 3 cl. 1 in the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 5 would conflict with amendments in the Prisons and Sentencing Legislation Amendment Act 2006 s. 70.
-On the date as at which this compilation was prepared, the Security and Related Activities (Control) Amendment Act 2008 s. 82 had not come into operation. It reads as follows:
-82.Spent Convictions Act 1988 amended
-(1) The amendments in this section are to the Spent Convictions Act 1988.
-(2) Schedule 3 clause 1(1) is amended in the Table by deleting item 8 and inserting instead —
-“
-8.A person who holds a licence or permit, or who is applying for the issue or renewal of a licence or permit, under the Security and Related Activities (Control) Act 1996. | Section 22 and Division 4
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Police Amendment Act 2009 s. 23 had not come into operation. It reads as follows:
 23.Spent Convictions Act 1988 amended
 (1) This section amends the Spent Convictions Act 1988.
