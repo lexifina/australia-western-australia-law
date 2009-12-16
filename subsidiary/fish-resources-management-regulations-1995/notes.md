@@ -127,6 +127,7 @@ Fish Resources Management Amendment Regulations (No. 14) 2009 | 29 Sep 2009 p. 3
 Fish Resources Management Amendment Regulations (No. 13) 2009 | 13 Oct 2009 p. 4031-4 | r. 1 and 2: 13 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Oct 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 16) 2009 | 5 Nov 2009 p. 4411-15 | r. 1 and 2: 5 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Nov 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 4) 2009 | 6 Nov 2009 p. 4470-1 | r. 1 and 2: 6 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Nov 2009 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 18) 2009 | 8 Dec 2009 p. 4993-8 (Printer’s correction in Gazette 15 Dec 2009 p. 5140) | r. 1 and 2: 8 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Dec 2009 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
@@ -154,6 +155,7 @@ Broome area waters64ZJ
 camp72
 carrier boat119(1)
 carrier boat licence3(1)
+charter boat16E(1)
 chlorine tarping110(2)
 closed season38G, 45
 commercial fishing licence3(1)
@@ -165,7 +167,7 @@ Dampier Archipelago waters64OB(3)
 day trip16E(1), 22(5)
 dB(A)104(4)
 deep sea crab38A
-demersal scalefish45
+demersal scalefish45, 64OAA
 disease3(1)
 disposable part16B(5)
 eastern gulf land area3(1)
@@ -231,6 +233,7 @@ pull3(1)
 recreational fishing licence3(1)
 recreational fishing licence receipt124A(1)
 region3(1)
+release weight64OAA
 reserve72
 restricted fishing tour128S(1)
 rock lobster64ZCA(2)
@@ -265,9 +268,9 @@ waters of Point Quobba113D
 waters of Shark Bay3(1)
 waters of the Shark Bay eastern gulf3(1)
 waters of the Shark Bay western gulf3(1)
+West Coast Demersal Scalefish (Interim) Managed Fishery64OAA
 West Coast Purse Seine Managed Fishery boat64ZE(1)
 West Coast Region3(1)
-West Coast Region Division 1 fish16E(1)
 western gulf land area3(1)
 whole fish3(1)
 whole shark or ray16B(5)

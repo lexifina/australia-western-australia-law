@@ -183,58 +183,59 @@ Sea Urchin | 20
 ## Part 3 — Bag limits in the West Coast Region
 [Reg. 64ZA]
 [Heading inserted in Gazette 1 Oct 2003 p. 4337.]
-## Division 1 — Grouped bag limit of 4 fish
-[Heading inserted in Gazette 1 Oct 2003 p. 4337; amended in Gazette 19 Dec 2008 p. 5363.]
-Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
-Barracuda | 2 |  | 4
-Billfish, Sailfish, Spearfish and Marlins and Swordfish (combined) | 1
-Cobbler | 4
-Cobia . | 2
-Cod (combined, except Coral Trout and Coronation Trout) | 4
+## Division 1 — Grouped bag limit of 2 fish (demersal scalefish)
+[Heading inserted in Gazette 8 Dec 2009 p. 4996.]
+Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in this Division for one day
+Cod (combined, except Coral Trout and Coronation Trout) | 2 |  | 2
 Cod classified as Epinephelus spp., in excess of 30 kg in weight or 1000 mm in length | 0
-Cod, Estuary and Rankin (combined) ………….. | 2
-Coral Trout and Coronation Trout (combined) … | 1
-Dhufish, West Australian | 2
-Dolphinfish (Mahi Mahi) | 2
-Emperor (combined) | 4
-Emperor, Red | 2
-Foxfish, Western and Pigfish combined) ............. | 4
+Coral Trout and Coronation Trout (combined) | 1
+Dhufish, West Australian | 1
+Emperor and Seabream (combined) | 2
+Foxfish, Western and Pigfish (combined) | 2
 Groper, Blue | 1
 Hapuku, Trevalla, Bass Groper and Grey Banded Rock Cod (combined) | 2
+Parrot Fish (combined) | 2
+Sea Perch, Tropical (combined) | 2
+Snapper, Pink | 2
+Snapper, Queen | 2
+Snapper, Red (Redfish) and Swallowtail (combined) | 2
+Tuskfish and Baldchin Groper (combined) | 2
+[Division 1 inserted in Gazette 8 Dec 2009 p. 4996 (Printer’s correction in Gazette 15 Dec 2009 p. 5140).]
+## Division 2A — Grouped bag limit of 2 fish (pelagic species)
+[Heading inserted in Gazette 8 Dec 2009 p. 4997.]
 Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
-Mackerel, Shark | 2 |  | 4
+Barracuda | 2 |  | 2
+Billfish, Sailfish, Spearfish and Marlins and Swordfish (combined) | 1
+Cobia | 2
+Dolphinfish (Mahi Mahi) | 2
 Mackerel, Broad-barred Spanish and Narrow-barred Spanish (combined) | 2
+Mackerel, Shark | 2
 Mackerel, Wahoo | 2
-Mulloway | 2
-Parrot Fish (combined) | 4
-Salmon, Australian | 4
 Samson Fish, Amberjack and Yellowtail Kingfish (combined) | 2
-Sea Perch, Tropical, except Red Emperor (combined) | 2
-Sharks and Rays (combined) | 2
-Snapper, Pink, only one of which may be in excess of 70 cm if taken or brought onto land from metropolitan waters | 2
-Snapper, Queen | 4
-Snapper, Red (Redfish) and Swallowtail (combined) | 4
 Trevally, Giant and Golden (combined) | 2
-Trout, Brown and Rainbow (combined) | 4
 Tuna, Southern Bluefin, Yellowfin and Bigeye (combined) | 2
-Tuskfish and Baldchin Groper (combined) | 4
-[Division 1 inserted in Gazette 1 Oct 2003 p. 4337-8; amended in Gazette 4 Nov 2005 p. 5316; 22 Dec 2005 p. 6234; 19 Dec 2008 p. 5363; 29 Sep 2009 p. 3868.]
+[Division 2A inserted in Gazette 8 Dec 2009 p. 4997.]
 ## Division 2 — Grouped bag limit of 12 fish
 [Heading inserted in Gazette 1 Oct 2003 p. 4339; amended in Gazette 29 Sep 2009 p. 3868.]
 Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
 Bonito, Leaping and Oriental and any Tuna (combined) | 8 |  | 12
 Bream, Black, Northwest-Black and Yellowfin (combined), only 2 of which may be in excess of 40 cm if taken or brought onto land from the waters of the Swan or Canning Rivers or their tributaries | 4
+Cobbler | 4
 Flathead and Flounder (combined) | 8
 Goatfish | 8
 Leatherjacket | 8
 Mackerel, Australian Spotted and Queensland School (combined) | 4
+Mulloway | 2
+Salmon, Australian | 4
+Sharks and Rays (combined) | 2
 Snook and Pike, Long-finned and Striped Sea (combined) | 8
 Tailor, only 2 of which may be in excess of 50 cm | 8
 Tarwhine | 12
 Trevally, except Giant and Golden | 8
+Trout, Brown and Rainbow (combined) | 4
 Whiting, King George | 8
 Whiting, Yellowfinned | 12
-[Division 2 inserted in Gazette 1 Oct 2003 p. 4339; amended in Gazette 4 Nov 2005 p. 5316; 29 Sep 2009 p. 3868.]
+[Division 2 inserted in Gazette 1 Oct 2003 p. 4339; amended in Gazette 4 Nov 2005 p. 5316; 29 Sep 2009 p. 3868; 8 Dec 2009 p. 4997.]
 ## Division 3 — Low risk finfish — grouped bag limit of 30 fish
 [Heading inserted in Gazette 1 Oct 2003 p. 4340; amended in Gazette 4 Nov 2005 p. 5316.]
 Fish | Grouped bag limit of all species in the Division for one day

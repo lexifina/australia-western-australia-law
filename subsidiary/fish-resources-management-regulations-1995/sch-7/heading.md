@@ -25,7 +25,7 @@ Cod | Family Serranidae
 Cod, Breaksea | Epinephelus armatus
 Cod, Chinaman (Charlie Court) | Epinephelus rivulatus
 Cod, Estuary | Epinephelus coioides
-Cod, Grey Banded Rock | Epinephelus octofasciatus
+Cod, Grey Banded Rock | Hyporthodus octofasciatus
 Cod, Malabar | Epinephelus Malabaricus
 Cod, Murray | Maccullochela peeli
 Cod, Potato | Epinephelus tukula
@@ -154,7 +154,7 @@ Whiting, Southern School (Silver) | Sillago bassensis
 Whiting, Yellow-finned | Sillago schomburgkii
 Wrasse | Family Labridae
 Wrasse, Humphead Maori | Cheilinus undulatus
-[Division 1 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 1 Oct 2003 p. 4341-3; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9; 10 Nov 2006 p. 4710; 13 Nov 2007 p. 5693; 13 Feb 2009 p. 299; 29 Sep 2009 p. 3874.]
+[Division 1 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 1 Oct 2003 p. 4341-3; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9; 10 Nov 2006 p. 4710; 13 Nov 2007 p. 5693; 13 Feb 2009 p. 299; 29 Sep 2009 p. 3874; 8 Dec 2009 p. 4997.]
 ## Division 2 — Freshwater fish
 [Heading inserted in Gazette 13 Nov 2007 p. 5692.]
 Common Name | Scientific Name
