@@ -6,7 +6,8 @@ Guardianship and Administration Regulations 2005 | 21 Jan 2005 p. 268-9 | 24 Jan
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Guardianship and Administration Amendment Regulations 2009 r. 3-7 | 15 Sep 2009 p. 3583-97 | On commencement of the Acts Amendment (Consent to Medical Treatment) Act 2008 s. 4)
+Guardianship and Administration Amendment Regulations 2009 r. 3-7 | 15 Sep 2009 p. 3583-97 | On commencement of the Acts Amendment (Consent to Medical Treatment) Act 2008 s. 4
+Guardianship and Administration Amendment Regulations (No. 2) 2009 r. 3-5 | 18 Dec 2009 p. 5168-9 | On commencement of the Acts Amendment (Consent to Medical Treatment) Act 2008 s. 4
 On the date as at which this compilation was prepared, the Guardianship and Administration Amendment Regulations 2009 r. 3-7 had not come into operation. They read as follows:
 3.Regulations amended
 These regulations amend the Guardianship and Administration Regulations 2005.
@@ -432,3 +433,12 @@ I have made an enduring power of guardianship.£
 7GAA Act s. 110Q(1)(d) and (e) and (3)
 8Oaths, Affidavits and Statutory Declarations Act 2005 s. 12(6) and Sch. 2
 9GAA Act s. 110Q(1)(b) and (2) and 110QA
+On the date as at which this compilation was prepared, the Guardianship and Administration Amendment Regulations (No. 2) 2009 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Guardianship and Administration Regulations 2005.
+4.Schedule 1 amended
+Delete “witness’s residential” (each occurrence) and insert:
+witness’s
+5.Schedule 2 amended
+Delete “witness’s residential” (each occurrence) and insert:
+witness’s
