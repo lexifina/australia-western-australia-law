@@ -154,6 +154,7 @@ Reprint 14: The Criminal Code Act Compilation Act 1913 as at 3 Oct 2008 (include
 Acts Amendment (Bankruptcy) Act 2009 s. 26 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Criminal Code Amendment Act 2009 | 21 of 2009 | 21 Sep 2009 | s. 1 and 2: 21 Sep 2009 (see s. 2(a)); Act other than s. 1 and 2: 22 Sep 2009 (see s. 2(b))
 Acts Amendment (Weapons) Act 2009 Pt. 2 | 34 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(c))
+Arson Legislation Amendment Act 2009 Pt. 3 | 43 of 2009 | 3 Dec 2009 | 19 Dec 2009 (see s. 2(b) and Gazette 18 Dec 2009 p. 5167)
 Criminal Code Amendment Act (No. 2) 2009 | 44 of 2009 | 3 Dec 2009 | s. 1 and 2: 3 Dec 2009 (see s. 2(a)); Act other than s. 1 and 2: 4 Dec 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -161,7 +162,6 @@ Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Graffiti) Act 2009 s. 3-5 | 26 of 2009 | 17 Nov 2009 | To be proclaimed (see s. 2(b))
 Police Amendment Act 2009 s. 14 | 42 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
-Arson Legislation Amendment Act 2009 Pt. 331 | 44 of 2000 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -234,44 +234,6 @@ On the date as at which this compilation was prepared, the Police Amendment Act 
 14.The Criminal Code amended
 (1) This section amends The Criminal Code.
 (2) In section 70A(1) delete the definition of police officer.
-On the date as at which this compilation was prepared, the Arson Legislation Amendment Act 2009 Pt. 3 had not come into operation. It reads as follows:
-Part 2 — The Criminal Code amended
-5.Act amended
-This Part amends The Criminal Code.
-6.Section 23A amended
-In section 23A(1) after “Chapter XXVII” insert:
-and section 444A
-7.Section 23B amended
-In section 23B(1) after “Chapter XXVII” insert:
-and section 444A
-8.Section 266 amended
-(1) In section 266 delete “It is” and insert:
-(2) It is
-(2) At the beginning of section 266 insert:
-(1) In this section —
-anything includes a source of ignition and a fire.
-9.Chapter XLV heading amended
-In the heading to Chapter XLV delete “Definitions” and insert:
-Preliminary matters
-10.Section 444A inserted
-In Chapter XLV after section 443 insert:
-444A.Duty of person in control of ignition source or fire
-(1) It is the duty of a person who has charge of or is in control of a source of ignition to use reasonable care and take reasonable precautions to avoid lighting a fire that destroys or may destroy or cause damage to property that the person is not entitled to damage or destroy; and the person is held to have caused any destruction or damage to that property by reason of any omission to perform that duty.
-(2) It is the duty of a person who has charge of or is in control of a fire to use reasonable care and take reasonable precautions to contain that fire so that it does not destroy or damage property that the person is not entitled to damage or destroy; and the person is held to have caused any destruction or damage to that property by reason of any omission to perform that duty.
-(3) A person does not breach a duty imposed by this section if the fire does not spread beyond the capacity of the person to extinguish it.
-(4) Property that is capable of being destroyed or damaged by fire includes vegetation.
-11.Section 444 amended
-(1) In section 444:
-(a) delete “Any person” and insert:
-(1) Any person
-(b) in paragraph (a) delete “imprisonment for 14 years or, if the offence is committed in circumstances of racial aggravation, to imprisonment for 20 years; or” and insert:
-life imprisonment; or
-(2) At the end of section 444 insert:
-(2) Property that is capable of being destroyed or damaged by fire includes vegetation.
-12.Section 445A inserted
-Before section 445 insert:
-445A.Fires causing damage to vegetation
-A person who unlawfully omits or refuses to do any act which it is the person’s duty to do under section 444A is guilty of a crime, and is liable to imprisonment for 15 years.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -285,6 +247,7 @@ alternative offence10B
 amendment ActSch. 1 cl. 1
 animal370
 animosity towards76
+anything266
 applies force222
 assault1(1), 222
 associated place244(6)
