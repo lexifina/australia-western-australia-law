@@ -64,11 +64,220 @@ Occupational Safety and Health Amendment Regulations (No. 6) 2009 | 23 Jun 2009 
 Occupational Safety and Health Amendment Regulations (No. 4) 2009 | 31 Jul 2009 p. 3032-4 | r. 1 and 2: 31 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2009 (see r. 2(b))
 Reprint 7: The Occupational Safety and Health Regulations 1996 as at 3 Aug 2009 (includes amendments listed above)
 Occupational Safety and Health Amendment Regulations (No. 5) 2009 | 25 Aug 2009 p. 3312-13 | r. 1 and 2: 25 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Aug 2009 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Occupational Safety and Health Amendment Regulations (No. 3) 2009 r. 3-17 | 22 Dec 2009 p. 5233-50 | 1 Mar 2010 (see r. 2(b))
 Repealed by the Medical Practitioners Act 2008.
 Repealed by the Training Legislation Amendment and Repeal Act 2008.
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 10, a reference in a written law to a Local Court is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court.
 The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
+On the date as at which this compilation was prepared, the Occupational Safety and Health Amendment Regulations (No. 3) 2009 r. 3-17 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Occupational Safety and Health Regulations 1996.
+4.Regulation 1.3 amended
+In regulation 1.3 in the definition of asbestos delete “5.42;” and insert:
+5.1;
+5.Regulation 3.114 amended
+In regulation 3.114:
+(a) in the definition of class 1 paragraph (i) delete “or asbestos cement roofing material”;
+(b) delete the definition of class 3 and insert:
+class 3, in relation to demolition work, means work comprising the removal of more than 200 m² of brittle or fragile roofing material from a building or structure;
+6.Regulation 3.126 replaced
+Delete regulation 3.126 and insert:
+3.126.Demolition work involving asbestos
+(1) In this regulation —
+asbestos-containing material has the meaning given in regulation 5.42;
+asbestos demolition site means a workplace where demolition work is being done that involves the demolition of a building or structure in which there is any asbestos-containing material.
+(2) A person who, at an asbestos demolition site, is an employer, the main contractor, a self-employed person or the person having control of the workplace must ensure that the work —
+(a) does not commence or immediately ceases when the presence of asbestos-containing material is apparent; and
+(b) does not proceed until the material has been removed in accordance with regulation 5.45.
+Penalty for a person who commits the offence as an employee: the regulation 1.15 penalty.
+Penalty in any other case: the regulation 1.16 penalty.
+7.Regulation 5.42 amended
+(1) In regulation 5.42:
+(a) delete “In this” and insert:
+(1) In this
+(b) delete the definitions of asbestos removal area, asbestos removal site, asbestos removal work and licensed asbestos removalist;
+(c) insert in alphabetical order:
+asbestos-containing material means any material, object, product or debris that contains asbestos;
+asbestos work means work involving the removal of asbestos-containing material;
+asbestos work area means the place where asbestos work occurs and the area in the immediate vicinity of that place that is required under the Code of Practice for the Safe Removal of Asbestos 2nd Edition [NOHSC: 2002 (2005)] to be cordoned off;
+friable asbestos-containing material means any asbestos-containing material that, when dry —
+(a)is in a crumbled, pulverised or powder form; or
+(b)can be crumbled, pulverised or reduced to powder by hand pressure;
+licence means an unrestricted licence or a restricted licence;
+non-friable asbestos-containing material means asbestos-containing material that is not friable asbestos-containing material;
+restricted licence means a restricted asbestos licence granted under regulation 5.45B
+unrestricted licence means an unrestricted asbestos licence granted under regulation 5.45A.
+(2) At the end of regulation 5.42 insert:
+(2) In this Subdivision, an application is finalised —
+(a) when, in the ordinary course of events, notice of the Commissioner’s decision on the application would have been received by the applicant; or
+(b) when the applicant withdraws or is taken to have withdrawn the application.
+8.Regulation 5.44 replaced
+Delete regulation 5.44 and insert:
+5.44.Application for grant of licence
+(1) An application for —
+(a) an unrestricted licence to do asbestos work; or
+(b) a restricted licence to do asbestos work involving only non-friable asbestos-containing material,
+must be made to the Commissioner in an approved form and be accompanied by the application fee set out in Schedule 6.2A.
+(2) After receiving an application the Commissioner may in writing direct the applicant to provide additional information within the period specified in the direction.
+(3) If an applicant fails to comply with a direction under subregulation (2), the applicant is taken to have withdrawn the application.
+5.45A.Decision to grant unrestricted asbestos licence
+After receiving an application made under regulation 5.44(1)(a) the Commissioner may grant an unrestricted asbestos licence if the Commissioner is satisfied that —
+(a) if the applicant is an individual —
+(i) the applicant is able to do asbestos work in a safe and proper manner; and
+(ii) the applicant has the training and experience to properly supervise and manage asbestos work done under the licence;
+or
+(b) if the applicant is not an individual —
+(i) the applicant has systems of work in place to ensure that asbestos work will be done in a safe and proper manner; and
+(ii) the applicant has nominated at least one person employed or otherwise engaged by the applicant who has the training and experience to properly supervise and manage asbestos work done under the licence.
+5.45B.Decision to grant restricted asbestos licence
+After receiving an application under regulation 5.44(1)(b) the Commissioner may grant a restricted asbestos licence if the Commissioner is satisfied that —
+(a) if the applicant is an individual —
+(i) the applicant is able to do asbestos work involving non-friable asbestos-containing material in a safe and proper manner; and
+(ii) the applicant has the training and experience to properly supervise and manage asbestos work involving non-friable asbestos-containing material done under the licence;
+or
+(b) if the applicant is not an individual —
+(i) the applicant has systems of work in place to ensure that asbestos work involving non-friable asbestos-containing material will be done in a safe and proper manner; and
+(ii) the applicant has nominated at least one person employed or otherwise engaged by the applicant who has the training and experience to properly supervise and manage asbestos work involving non-friable asbestos-containing material done under the licence.
+5.45C.Application for renewal of licence
+(1) The holder of a licence may, at any time no later than 30 days after the licence expires, apply for the renewal of the licence.
+(2) An application for the renewal of a licence must be made to the Commissioner in an approved form and be accompanied by the application fee set out in Schedule 6.2A.
+(3) After receiving an application the Commissioner may in writing direct the applicant to provide additional information within the period specified in the direction.
+(4) If an applicant fails to comply with a direction under subregulation (3), the applicant is to be taken to have withdrawn the application.
+(5) Subregulation (1) does not apply to a person who —
+(a) holds an unrestricted licence that is taken to have been granted under regulation 5.53A(2); or
+(b) holds a restricted licence that is taken to have been granted under regulation 5.53A(3).
+5.45D.Decision to renew licence
+After receiving an application made under regulation 5.45C, the Commissioner may renew the licence if the Commissioner is satisfied that —
+(a) if the licence is an unrestricted licence — the applicant continues to satisfy the relevant requirements in regulation 5.45A; or
+(b) if the licence is a restricted licence — the applicant continues to satisfy the relevant requirements in regulation 5.45B.
+5.45E.Conditions on licence
+A licence may be granted or renewed subject to such conditions, if any, as the Commissioner sees fit and endorses on the licence.
+5.45F.Duration of licence
+(1) A licence —
+(a) takes effect on the day it is granted; and
+(b) expires at the end of the period of 3 years beginning on the day it is granted.
+(2) If the holder of a licence applies for the renewal of the licence on or before the day the licence expires (the expiry date) the following provisions apply —
+(a) if the application is not finalised on or before the expiry date, the licence continues to have effect until the application is finalised;
+(b) if the Commissioner decides to renew the licence (whether the decision is made before, on or after the expiry date), the renewed licence —
+(i) takes effect, or is deemed to have taken effect, on the day after the expiry date; and
+(ii) expires at the end of the period of 3 years beginning on the day after the expiry date.
+(3) If the holder of a licence applies for the renewal of the licence after the expiry date, the following provisions apply —
+(a) the licence has no effect after the expiry date until the holder applies for the renewal and thereafter the licence continues to have effect until the application is finalised;
+(b) if the Commissioner decides to renew the licence, the renewed licence —
+(i) is deemed to have taken effect on the day the holder applies for the renewal; and
+(ii) expires at the end of the period of 3 years beginning on the day after the expiry date.
+(4) Subregulations (2) and (3) also apply to the renewal of a licence renewed under either of those subregulations.
+5.45G.Suspension or cancellation of licence
+(1) The Commissioner may suspend or cancel a licence if the holder of the licence —
+(a) is convicted of an offence against these regulations or the Act; or
+(b) in the opinion of the Commissioner —
+(i) breaches a condition of the licence; or
+(ii) is unable to comply with a condition of the licence or a provision of these regulations or the Act.
+(2) If the Commissioner suspends or cancels a licence under this regulation, the Commissioner is to give to the holder of the licence written notice of the suspension or cancellation.
+(3) Suspension under this regulation has effect —
+(a) from the time specified in the written notice, which is to be no earlier than when, in the ordinary course of events, the notice would have been received by the holder of the licence; and
+(b) for the period or until the happening of the event specified in the written notice.
+(4) Cancellation under this regulation has effect from the time specified in the written notice, which is to be no earlier than when, in the ordinary course of events, the notice would have been received by the holder of the licence.
+5.45H.Notifying Commissioner of change of address
+The holder of a licence must notify the Commissioner in writing of any change in the holder’s residential or postal address within 14 days of the change.
+Penalty: the regulation 1.15 penalty.
+9.Regulation 5.45 amended
+(1) Delete regulation 5.45(1) and insert:
+(1) A person who, at a workplace, is an employer, the main contractor, a self-employed person or the person having control of the workplace must ensure that any asbestos work at the workplace involving friable asbestos-containing material —
+(a) is done by —
+(i) the holder of an unrestricted licence; or
+(ii) a person employed or otherwise engaged by the holder of an unrestricted licence;
+and
+(b) is done in accordance with —
+(i) the Code of Practice for the Safe Removal of Asbestos 2nd Edition [NOHSC: 2002 (2005)]; and
+(ii) the unrestricted licence.
+Penalty: the regulation 1.16 penalty.
+(2A) Subject to regulation 5.53A(5), a person who, at a workplace, is an employer, the main contractor, a self-employed person or the person having control of the workplace must ensure that any asbestos work at the workplace involving more than 10 m² of non-friable asbestos-containing material —
+(a) is done by —
+(i) the holder of an unrestricted licence or a restricted licence; or
+(ii) a person employed or otherwise engaged by the holder of an unrestricted licence or a restricted licence;
+and
+(b) is done in accordance with —
+(i) Part 9 of the Code of Practice for the Safe Removal of Asbestos 2nd Edition [NOHSC: 2002 (2005)]; and
+(ii) the unrestricted licence or the restricted licence, as the case requires.
+Penalty: the regulation 1.16 penalty.
+(2B) A person who, at a workplace, is an employer, the main contractor, a self-employed person or the person having control of the workplace must ensure that any asbestos work at the workplace involving 10 m² or less of non-friable asbestos-containing material is done in accordance with Part 9 of the Code of Practice for the Safe Removal of Asbestos 2nd Edition [NOHSC: 2002 (2005)].
+Penalty: the regulation 1.16 penalty.
+(2) In regulation 5.45(2) delete “asbestos removal work” and insert:
+asbestos work
+10.Regulation 5.46 amended
+In regulation 5.46(1):
+(a) delete “A licensed asbestos removalist —” and insert:
+The holder of an unrestricted licence —
+(b) in paragraph (a) delete “every person employed to do asbestos removal work; and” and insert:
+any person employed or otherwise engaged to do work involving friable asbestos-containing material; and
+(c) delete paragraph (b) and insert:
+(b) within 7 days after the commencement or termination of the employment or engagement by the licensee of a person to do asbestos work involving friable asbestos-containing material, must notify the Commissioner of the name, address and date of birth of that person.
+(d) delete each penalty and insert:
+Penalty: the regulation 1.16 penalty.
+11.Regulation 5.47 amended
+In regulation 5.47:
+(a) delete “A licensed asbestos removalist” and insert:
+The holder of an unrestricted licence or a restricted licence
+(b) delete “asbestos removal work” and insert:
+asbestos work
+(c) delete “are produced” and insert:
+is produced
+(d) delete each penalty and insert:
+Penalty: the regulation 1.16 penalty.
+(e) after paragraph (a) insert:
+and
+12.Regulation 5.48 amended
+(1) Delete regulation 5.48(1)(b) and insert:
+(b) to cause any asbestos-containing material at the workplace to be removed in accordance with the Code of Practice for the Safe Removal of Asbestos 2nd Edition [NOHSC: 2002 (2005)] or in such other manner and within the time set out in the direction.
+(2) In regulation 5.48(3) delete “removal” (each occurrence).
+13.Regulation 5.49 amended
+(1) In regulation 5.49(1):
+(a) delete “removal” (each occurrence) and insert:
+work
+(b) delete “site” and insert:
+area
+(2) In regulation 5.49(2) delete “removal site” and insert:
+work area
+(3) In regulation 5.49(3):
+(a) delete “removal”;
+(b) delete “material containing asbestos” and insert:
+asbestos-containing material
+14.Regulations 5.50 and 5.51 deleted
+Delete regulations 5.50 and 5.51.
+15.Regulation 5.52 amended
+In regulation 5.52 delete “asbestos waste material,” and insert:
+waste asbestos-containing material,
+16.Regulation 5.53A inserted
+At the end of Part 5 Division 4 Subdivision 1 insert:
+5.53A.Transitional arrangements for certain licence holders and certain asbestos work
+(1) In this regulation —
+asbestos removalist licence means a licence issued under regulation 5.44, as in force immediately before 1 March 2010;
+demolition licence means a licence issued under regulation 3.116(2) to do class 1, class 2 or class 3 demolition work.
+(2) A person holding, immediately before 1 March 2010, an asbestos removalist licence is to be taken to have been granted an unrestricted licence that expires on the day the asbestos removalist licence would have expired, and has effect subject to —
+(a) these regulations; and
+(b) such conditions, if any, as the Commissioner sees fit and imposes by written notice to the holder of the asbestos removalist licence.
+(3) A person holding, immediately before 1 March 2010, a demolition licence is to be taken to have been granted a restricted licence that expires on the day the demolition licence expires, and has effect subject to —
+(a) these regulations; and
+(b) such conditions, if any, as the Commissioner sees fit and imposes by written notice to the holder of the demolition licence.
+(4) Nothing in subregulation (3) affects a person’s authority under a demolition licence.
+(5) A person is not required to comply with regulation 5.45(2A) in respect of asbestos work at a workplace if the asbestos work is done —
+(a) within the period that begins on 1 March 2010 and ends on 31 May 2010; and
+(b) in accordance with Part 9 of the Code of Practice for the Safe Removal of Asbestos 2nd Edition [NOHSC: 2002 (2005)].
+(6) Subregulation 5 does not apply to asbestos work involving more than 200 m² of asbestos cement roofing.
+17.Schedule 6.2A replaced
+Delete Schedule 6.2A and insert:
+Schedule 6.2A — Fees under Part 5 Division 4
+[r. 5.44 and 5.45C]
+ |  | $
+1. | Application for unrestricted licence (r. 5.44(1)(a)).………. | 3 990
+2. | Application for restricted licence (r. 5.44(1)(b))…………. | 508
+3. | Application for renewal of unrestricted licence (r. 5.45C).. | 3 990
+4. | Application for renewal of restricted licence (r. 5.45C)….. | 508
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
