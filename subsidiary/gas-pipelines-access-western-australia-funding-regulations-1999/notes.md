@@ -9,3 +9,4 @@ Gas Pipelines Access (Western Australia) (Funding) Amendment Regulations 2003 | 
 Reprint 1: The Gas Pipelines Access (Western Australia) (Funding) Regulations 1999 as at 4 Mar 2005 (includes amendments listed above)
 Gas Pipelines Access (Western Australia) (Funding) Amendment Regulations 2005 | 1 Jul 2005 p. 2999 | 1 Jul 2005
 Gas Pipelines Access (Western Australia) (Funding) Amendment Regulations (No. 2) 2006 | 30 Jun 2006 p. 2359-60 | 1 Jul 2006 (see r. 2)
+Gas Pipelines Access (Western Australia) (Funding) Amendment Regulations 2009 | 22 Dec 2009 p. 5254-5 | 22 Dec 2009 (see r. 2)
