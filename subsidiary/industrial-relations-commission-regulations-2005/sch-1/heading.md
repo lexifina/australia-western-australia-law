@@ -701,7 +701,8 @@ for the revocation of an authority issued under section 49J of that Act to —
 Dated at Perth this................................. day of .................................... 20 ................
 [Form 30 amended in Gazette 28 Apr 2006 p. 1656; 10 Jul 2009 p. 2744.]
 Form 31 — Notice of appeal against a decision of the Commissioner of Police to take removal action
-[r. 90(a)(i)]
+[r. 90]
+[Heading amended in Gazette 22 Dec 2009 p. 5272.]
 Industrial Relations Act 1979
 In the Western Australian Industrial Relations Commission
  | No. .................................. | of 20........................
@@ -720,5 +721,5 @@ The relief sought is ...........................................................
 (state whether the removal is sought to be of no effect or whether compensation is sought)
  | ..................................................................
  | (signature of appellant/s)
-NOTE:A summary of facts or issues of law relied upon by the appellant including any relevant matters set out in section 33Q(4) of the Police Act 1892 is to be attached to this Notice of appeal. This Notice of appeal and any attached summary of facts or issues of law are to be served by the appellant upon the Commissioner of Police. (Stamp of Commission)
-[Form 31 amended in Gazette 10 Jul 2009 p. 2744.]
+NOTE1:This Notice of appeal is to be served by the appellant upon the Commissioner of Police within 7 days after it is filed in the office of the Registrar. NOTE2:Proof of service of the notice on the Commissioner of Police is to be given in accordance with the Industrial Relations Commission Regulations 2005 regulation 28. (Stamp of Commission)
+[Form 31 amended in Gazette 10 Jul 2009 p. 2744; 22 Dec 2009 p. 5272.]
