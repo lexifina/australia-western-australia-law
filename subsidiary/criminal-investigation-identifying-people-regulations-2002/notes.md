@@ -8,3 +8,4 @@ Criminal Investigation (Identifying People) Amendment Regulations 2005 | 14 Oct 
 Criminal Investigation (Identifying People) Amendment Regulations 2006 | 27 Jun 2006 p. 2304-6 | 27 Jun 2006
 Reprint 1: The Criminal Investigation (Identifying People) Regulations 2002 as at 23 Mar 2007 (includes amendments listed above)
 Criminal Investigation (Identifying People) Amendment Regulations 2007 | 2 Oct 2007 p. 4972-3 | r. 1 and 2: 2 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2007 (see r. 2(b))
+Criminal Investigation (Identifying People) Amendment Regulations 2009 | 22 Dec 2009 p. 5274-5 | r. 1 and 2: 22 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2009 (see r. 2(b))
