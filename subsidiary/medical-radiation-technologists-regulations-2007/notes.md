@@ -4,3 +4,4 @@ Compilation table
 Citation | Gazettal | Commencement
 Medical Radiation Technologists Regulations 2007 | 26 Jun 2007 p. 2997-3009 | 1 Jul 2007 (see r. 2 and Gazette 26 Jun 2007 p. 3013)
 Medical Radiation Technologists Amendment Regulations 2009 | 7 Aug 2009 p. 3121-2 | r. 1 and 2: 7 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Aug 2009 (see r. 2(b))
+Medical Radiation Technologists Amendment Regulations 2009 | 22 Dec 2009 p. 5258-60 | r. 1 and 2: 22 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2009 (see r. 2(b))
