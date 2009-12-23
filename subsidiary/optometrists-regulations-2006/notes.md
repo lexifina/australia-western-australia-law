@@ -1,5 +1,6 @@
 Notes
-This is a compilation of the Optometrists Regulations 2006. The following table contains information about those regulations.
+This is a compilation of the Optometrists Regulations 2006 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Optometrists Regulations 2006 | 13 Dec 2006 p. 5573-84 | 20 Apr 2007 (see r. 2 and Gazette 30 Mar 2007 p. 1451)
+Optometrists Amendment Regulations 2009 | 22 Dec 2009 p. 5262-3 | r. 1 and 2: 22 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2009 (see r. 2(b))
