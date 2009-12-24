@@ -24,11 +24,14 @@ Land Administration Amendment Regulations 2008 | 30 May 2008 p. 2072 | 1 Jul 200
 Land Administration Amendment Regulations 2009 | 23 Jun 2009 p. 2482 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 3: The Land Administration Regulations 1998 as at 28 Aug 2009 (includes amendments listed above)
 Land Administration Amendment Regulations (No. 3) 2009 | 18 Sep 2009 p. 3619-22 | r. 1 and 2: 18 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2009 (see r. 2(b))
+Land Administration Amendment Regulations (No. 2) 2009 | 24 Dec 2009 p. 5297-8 | r. 4: 1 Jul 2009 (see r. 2(c)); r. 1 and 2: 24 Dec 2009 (see r. 2(a)); r. 3: 25 Dec 2009 (see r. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 Published again in Gazette 19 Nov 2004 p. 5081 but amendment of 19 Nov 2004 has no effect.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
+2004 determined rent15
+2009 determined rent15
 authorised survey18
 Crown land transaction3A(3)
 departmental surveyor18
