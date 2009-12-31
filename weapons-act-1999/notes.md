@@ -7,24 +7,23 @@ Public Transport Authority Act 2003 s. 209 | 31 of 2003 | 26 May 2003 | 1 Jul 20
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 1: The Weapons Act 1999 as at 4 Nov 2005 (includes amendments listed above)
-Acts Amendment (Weapons) Act 2009 s. 5-7 and 9-12 | 34 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(c))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Acts Amendment (Weapons) Act 2009 s. 8 | 34 of 2009 | 3 Dec 2009 | 31 Dec 2009 (see s. 2(b))
+Acts Amendment (Weapons) Act 2009 Pt. 3 | 34 of 2009 | 3 Dec 2009 | s. 5-7 and 9-12: 4 Dec 2009 (see s. 2(c)); s. 8: 31 Dec 2009 (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
-On the date as at which this compilation was prepared, the Acts Amendment (Weapons) Act 2009 s. 8 had not come into operation. It reads as follows:
-8.Section 8A inserted
-After section 7 insert:
-8A.Selling and supplying controlled weapons to children
-(1) In this section —
-child means a person under 18 years of age.
-(2) A person who sells a controlled weapon to a child commits an offence.
-Penalty: imprisonment for 2 years and a fine of $24 000.
-(3) A person who supplies a controlled weapon to a child commits an offence.
-Penalty: imprisonment for 2 years and a fine of $24 000.
-(4) It is a defence to a charge of an offence under subsection (3) to prove the accused believed on reasonable grounds that —
-(a) possession by the child of the weapon would be lawful under section 7; or
-(b) the child supplied with the weapon intended to use it only —
-(i) to commit lawful acts in the course of a sporting or recreational activity; or
-(ii) in circumstances, if any, prescribed by the regulations.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+article3
+carry3
+child8A(1)
+Commissioner12(1)
+controlled weapon3
+conveyance3
+defence3
+dwelling8(4)
+firearm3
+juvenile justice team12(1)
+offence12(1)
+possess3
+prohibited weapon3
+relevant day17(2)
+weapon3
