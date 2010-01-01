@@ -23,13 +23,13 @@ Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | 1 Mar 2008 (se
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 99 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2(2) and Gazette 21 Mar 2006 p. 1078)
 Reprint 3: The Petroleum Pipelines Act 1969 as at 7 Jul 2006 (includes amendments listed above, except those in the Dangerous Goods Safety Act 2004 s. 70)
+National Gas Access (WA) Act 2009 s. 72 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Petroleum Legislation Amendment and Repeal Act 2005 Pt. 3 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
 Petroleum Amendment Act 2007 s. 102 | 35 of 2007 | 21 Dec 2007 | See
-National Gas Access (WA) Act 2009 s. 72 | 16 of 2009 | 1 Sep 2009 | To be proclaimed (see s. 2(b))
 The Acts Amendment (Petroleum) Act 1990 s. 122(2) reads as follows:
 “
 (2) A declaration made under —
@@ -1329,7 +1329,3 @@ this Schedule includes regulations made for the purposes of this Schedule.
 ”.
 ”.
 When the Petroleum Legislation Amendment and Repeal Act 2005 s. 30(2) commences and inserts the Petroleum Pipelines Act 1969 s. 67(1c) the new s. 67(1c) will be amended by the Petroleum Amendment Act 2007 s. 102 which was proclaimed to come into operation on 19 Jan 2008 (see s. 2(2) and Gazette 18 Jan 2008 p. 147) but can have no effect until the new s. 67(1c) is inserted.
-On the date as at which this compilation was prepared, the National Gas Access (WA) Act 2009 s. 72 had not come into operation. It reads as follows:
-72.Petroleum Pipelines Act 1969 amended
-(1) This section amends the Petroleum Pipelines Act 1969.
-(2) Delete section 5A.

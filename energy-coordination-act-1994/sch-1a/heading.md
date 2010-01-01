@@ -2,7 +2,7 @@
 [s. 11M]
 [Heading inserted by No. 20 of 1999 s. 9; amended by No. 53 of 2003 s. 96.]
 A licence may include provisions —
-(a) requiring the licensee to enter into agreements on specified terms or on terms of a specified type, other than agreements relating to the provision of access to gas distribution capacity that are covered by the Gas Pipelines Access (Western Australia) Law; and
+(a) requiring the licensee to enter into agreements on specified terms or on terms of a specified type, other than agreements relating to the provision of access to gas distribution capacity that are covered by the National Gas Access (Western Australia) Law; and
 (b) requiring the licensee to observe specified industry codes with such modifications or exemptions as may be determined by the Authority; and
 (c) requiring the licensee to maintain specified accounting records and to prepare accounts according to specified principles; and
 (d) preventing the licensee from engaging in or undertaking specified business activities or any other business in the gas industry in the State; and
@@ -29,4 +29,4 @@ A licence may include provisions —
 (iv) with respect to the consideration to be provided in respect of any disposal or transfer; and
 (v) with respect to the arbitration of disputes that arise in connection with any disposal or transfer; and
 (vi) of a supplementary, consequential or transitional nature in relation to any disposal or transfer.
-[Schedule 1A inserted as Schedule 1 by No. 20 of 1999 s. 9; amended by No. 58 of 1999 s. 51; renumbered as Schedule 1A by No. 53 of 2003 s. 96; amended by No. 53 of 2003 s. 30; No. 67 of 2003 s. 62; No. 8 of 2009 s. 52(3).]
+[Schedule 1A inserted as Schedule 1 by No. 20 of 1999 s. 9; amended by No. 58 of 1999 s. 51; renumbered as Schedule 1A by No. 53 of 2003 s. 96; amended by No. 53 of 2003 s. 30; No. 67 of 2003 s. 62; No. 8 of 2009 s. 52(3); No. 16 of 2009 s. 67.]

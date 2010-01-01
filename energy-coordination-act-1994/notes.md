@@ -22,9 +22,9 @@ Reprint 3: The Energy Coordination Act 1994 as at 18 Aug 2006 (includes amendmen
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Gas and Electricity Safety Legislation Amendment Act 2007 Pt. 3 | 5 of 2007 | 18 Apr 2007 | 1 Dec 2007 (see s. 2 and Gazette 30 Nov 2007 p. 5927)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 52 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+National Gas Access (WA) Act 2009 Pt. 7 Div. 4 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327)
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-National Gas Access (WA) Act 2009 Pt. 7 Div. 4 | 16 of 2009 | 1 Sep 2009 | To be proclaimed (see s. 2(b))
 Gas Supply (Gas Quality Specifications) Act 2009 Pt. 7 Div. 1 | 35 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 The Energy Legislation Amendment Act 2003 Pt. 3 Div. 3 (other than s. 19) reads as follows:
 “
@@ -296,24 +296,7 @@ The operation of any provision of this Schedule is not to be regarded —
 (e) as releasing or allowing the release of any surety.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the National Gas Access (WA) Act 2009 Pt. 7 Div. 4 had not come into operation. It reads as follows:
-Division 4 — Energy Coordination Act 1994
-62.Act amended
-This Division amends the Energy Coordination Act 1994.
-63.Section 11J deleted
-Delete section 11J.
-64.Section 11M amended
-In section 11M(5) delete paragraph (a) and “or” after it and insert:
-(a) the National Gas Access (Western Australia) Law; or
-65.Section 11V amended
-Delete section 11V(2) and insert:
-(2) A licence does not have effect to the extent that it would be inconsistent with the National Gas Access (Western Australia) Law.
-66.Section 11ZAC amended
-Delete section 11ZAC(4)(b) and insert:
-(b) an access arrangement under the National Gas Access (Western Australia) Law.
-67.Schedule 1A amended
-In Schedule 1A in paragraph (a) delete “Gas Pipelines Access (Western Australia) Law;” and insert:
-National Gas Access (Western Australia) Law;
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Gas Supply (Gas Quality Specifications) Act 2009 Pt. 7 Div. 1 had not come into operation. It reads as follows:
 Part 7 — Acts amended
 Division 1 — Energy Coordination Act 1994 amended
