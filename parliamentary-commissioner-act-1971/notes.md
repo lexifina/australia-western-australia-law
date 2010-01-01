@@ -106,13 +106,13 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 8: The Parliamentary Commissioner Act 1971 as at 3 Oct 2008 (includes amendments listed above)
 Parliamentary Commissioner Amendment Act 2009 s. 3-10 | 10 of 2009 | 29 Jun 2009 | 30 Jun 2009 (see s. 2(b))
+National Gas Access (WA) Act 2009 s. 71 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327
 Acts Amendment (Bankruptcy) Act 2009 s. 62 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-National Gas Access (WA) Act 2009 s. 71 | 16 of 2009 | 1 Sep 2009 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Under the Liquor Control Act 1988 Sch. 1A cl. 9 a reference to the Liquor Licensing Court is to be read and construed as a reference to the Liquor Commission.
 The Health Legislation Administration Act 1984 s. 6(1) was amended by the Mental Health (Consequential Provisions) Act 1996 s. 38 to replace the office of Director, Psychiatric Services with the office of Chief Psychiatrist.
@@ -148,11 +148,6 @@ Act | Provision
 .............................................. | ................
 Parliamentary Commissioner Act 1971 | s. 10(2)
 .............................................. | ................
-On the date as at which this compilation was prepared, the National Gas Access (WA) Act 2009 s. 71 had not come into operation. It reads as follows:
-71.Parliamentary Commissioner Act 1971 amended
-(1) This section amends the Parliamentary Commissioner Act 1971.
-(2) In Schedule 1 in the item for the Economic Regulation Authority delete “referred to in section 36(1) of the Gas Pipelines Access (Western Australia) Act 1998 and” and insert:
-given by or under the National Gas Access (WA) Act 2009 or referred to in
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

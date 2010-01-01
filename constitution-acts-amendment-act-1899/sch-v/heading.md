@@ -23,8 +23,8 @@ President or other member of the Mental Health Review Board established under th
 Public service arbitrator appointed under Division 2 of Part IIA of the Industrial Relations Act 1979.
 Chairman, or deputy of the chairman, of the Railways Classification Board established under Division 3 of Part IIA of the Industrial Relations Act 1979.
 Member of the State Administrative Tribunal.
-Western Australian Gas Disputes Arbitrator appointed under section 62 of the Gas Pipelines Access (Western Australia) Act 1998.
-[Division 1 inserted by No. 78 of 1984 s. 14; amended by No. 97 of 1986 s. 40; No. 21 of 1987 s. 11; No. 28 of 1989 s. 33(3); No. 15 of 1991 s. 22(a); No. 44 of 1991 s. 3; No. 34 of 1992 s. 85; No. 37 of 1992 s. 39(a); No. 1 of 1995 s. 23(a); No. 2 of 1996 s. 61; No. 65 of 1998 s. 89; No. 34 of 1999 s. 61; No. 77 of 2003 s. 73; No. 55 of 2004 s. 1324; No. 59 of 2004 s. 141; No. 73 of 2006 s. 116(2).]
+Western Australian Energy Disputes Arbitrator appointed under section 62 of the Energy Arbitration and Review Act 1998.
+[Division 1 inserted by No. 78 of 1984 s. 14; amended by No. 97 of 1986 s. 40; No. 21 of 1987 s. 11; No. 28 of 1989 s. 33(3); No. 15 of 1991 s. 22(a); No. 44 of 1991 s. 3; No. 34 of 1992 s. 85; No. 37 of 1992 s. 39(a); No. 1 of 1995 s. 23(a); No. 2 of 1996 s. 61; No. 65 of 1998 s. 89; No. 34 of 1999 s. 61; No. 77 of 2003 s. 73; No. 55 of 2004 s. 1324; No. 59 of 2004 s. 141; No. 73 of 2006 s. 116(2); No. 16 of 2009 s. 68.]
 ## Division 2
 [Heading inserted by No. 32 of 1994 s. 9(a).]
 Auditor General appointed under the Auditor General Act 2006.

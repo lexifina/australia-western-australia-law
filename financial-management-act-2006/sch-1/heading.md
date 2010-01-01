@@ -99,7 +99,7 @@ West Coast TAFE
 Western Australian Alcohol and Drug Authority
 Western Australian Building Management Authority
 Western Australian Coastal Shipping Commission
-Western Australian Gas Disputes Arbitrator
+Western Australian Energy Disputes Arbitrator
 Western Australian Greyhound Racing Association
 Western Australian Health Promotion Foundation
 Western Australian Institute of Sport
@@ -112,4 +112,4 @@ Western Australian Treasury Corporation
 Wheatbelt Development Commission
 WorkCover Western Australia Authority
 Zoological Parks Authority
-[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; No. 38 of 2007 s. 195; No. 28 of 2008 s. 13; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29; 8 Feb 2008 p. 323.]
+[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; No. 38 of 2007 s. 195; No. 28 of 2008 s. 13; No. 16 of 2009 s. 69; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29; 8 Feb 2008 p. 323.]
