@@ -6,9 +6,9 @@ Road Traffic (Administration) Act 2008 s. 1 and 2 | 39 of 2008 | 15 Aug 2008 | 1
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 | 39 of 2008 | 15 Aug 2008 | To be proclaimed (see s. 2(b))
+Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 | 39 of 2008 (as amended by No. 39 of 2009 s. 11) | 15 Aug 2008 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 3 | 39 of 2009 | 3 Dec 2009 | 1 Jan 2010 (see s. 2(b))
-On the date as at which this compilation was prepared, the Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 (as amended by the Road Traffic (Administration) Act 2008 s. 11) had not come into operation. They read as follows:
 “
 3.Crown bound
 (1) Each of the road laws binds the Crown in right of the State and, so far as the legislative power of the Parliament of the State permits, the Crown in all its other capacities.
@@ -443,20 +443,22 @@ Penalty:
 Penalty: a fine of 50 PU.
 (2) A person must not —
 (a) while disqualified from obtaining a driver’s licence or a vehicle licence in respect of a vehicle apply for or obtain such a licence; or
-(b) forge or fraudulently alter a driver’s licence document, vehicle licence, number plate or registration label; or
-(c) use a forged or fraudulently altered driver’s licence document, vehicle licence, number plate or registration label, or use a driver’s licence document, vehicle licence, number plate or registration label to which the person is not entitled; or
-(d) fraudulently permit the person’s driver’s licence document, vehicle licence, number plate or registration label to be used by another person; or
+(b) forge or fraudulently alter a driver’s licence document, vehicle licence, number plate or label; or
+(c) use a forged or fraudulently altered driver’s licence document, vehicle licence, number plate or label, or use a driver’s licence document, vehicle licence, number plate or label to which the person is not entitled; or
+(d) fraudulently permit the person’s driver’s licence document, vehicle licence, number plate or label to be used by another person; or
 (e) drive a vehicle or cause or permit a vehicle to be driven on any road while it has on it —
-(i) a forged or fraudulently altered number plate or registration label; or
-(ii) a replica or imitation of a number plate or registration label; or
-(iii) a number plate or registration label other than one issued for that vehicle;
+(i) a forged or fraudulently altered number plate or label; or
+(ii) a replica or imitation of a number plate or label; or
+(iii) a number plate or label other than one issued for that vehicle;
 or
-(f) without lawful excuse have in the person’s possession with intent to deceive a driver’s licence document or vehicle licence or an article resembling such a document or licence, or a registration label or any article resembling a registration label; or
-(g) lend or allow to be used by another person a driver’s licence document or vehicle licence or a number plate or registration label.
+(f) without lawful excuse have in the person’s possession with intent to deceive a driver’s licence document or vehicle licence or an article resembling such a document or licence, or a label or any article resembling a label; or
+(g) lend or allow to be used by another person a driver’s licence document or vehicle licence or a number plate or label.
 Penalty: a fine of 50 PU.
 (3) In subsection (2) —
 driver’s licence document includes a learner’s permit;
+label means a label issued under a regulation mentioned in the Road Traffic (Vehicles) Act 2009 section 15 or 26;
 number plate has the meaning given to that term in the Road Traffic (Vehicles) Act 2008 section 3(1).
+[Section 36 amended by No. 39 of 2009 s. 11.]
 37.Manner of giving directions etc. under this Division
 A direction or request under this Division may be given orally or in writing.
 Division 3 — Directions to stop, move or leave vehicles
