@@ -8,4 +8,5 @@ Electricity Corporations (Consequential Amendments) Regulations 2006 Pt. 3 | 31 
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2) 2006 | 29 Dec 2006 p. 5881-3 | 29 Dec 2006
 Reprint 1: The Electricity Industry (Wholesale Electricity Market) Regulations 2004 as at 23 Feb 2007 (includes amendments listed above)
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2008 | 12 Feb 2008 p. 337-8 | r. 1 and 2: 12 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Feb 2008 (see r. 2(b))
+Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2009 | 31 Dec 2009 p. 5375-7 | 1 Jan 2010 (see r. 2 and Gazette 31 Dec 2009 p 5327)
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
