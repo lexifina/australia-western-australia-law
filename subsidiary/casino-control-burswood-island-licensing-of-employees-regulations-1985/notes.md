@@ -26,23 +26,4 @@ Reprint 2: The Casino Control (Burswood Island) (Licensing of Employees) Regulat
 Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2006 | 14 Nov 2006 p. 4730-1 | 1 Jan 2007 (see r. 2)
 Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2007 | 9 Oct 2007 p. 5351-2 | r. 1 and 2: 9 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2008 (see r. 2(b))
 Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2008 | 28 Oct 2008 p. 4739-40 | r. 1 and 2: 28 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2009 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2009 r. 3 and 4 | 30 Oct 2009 p. 4315-16 | 1 Jan 2010 (see r. 2(b))
-On the date as at which this compilation was prepared, Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2009 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985.
-4.Regulation 6 amended
-(1) In regulation 6(1):
-(a) in paragraph (a) delete “$380; and” and insert:
-$400; and
-(b) in paragraph (b) delete “$240.” and insert:
-$250.
-(2) In regulation 6(1a):
-(a) in paragraph (a) delete “$105; and” and insert:
-$110; and
-(b) in paragraph (b) delete “$105.” and insert:
-$110.
-(3) In regulation 6(2)(a) delete “$275;” and insert:
-$290;
+Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2009 | 30 Oct 2009 p. 4315-16 | r. 1 and 2: 30 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
