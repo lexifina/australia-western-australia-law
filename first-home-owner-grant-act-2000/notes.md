@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the First Home Owner Grant Act 2000 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the First Home Owner Grant Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 First Home Owner Grant Act 2000 | 16 of 2000 | 9 Jun 2000 | 1 Jul 2000 (see s. 2)
@@ -14,11 +14,7 @@ Reprint 1: The First Home Owner Grant Act 2000 as at 3 Jun 2005 (includes amendm
 First Home Owner Grant Amendment Act 2005 | 26 of 2005 | 12 Dec 2005 | Act other than s. 4: 12 Dec 2005 (see s. 2(1)); s. 4: 1 Jul 2000 (see s. 2(2))
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Revenue Laws Amendment Act (No. 2) 2008 s. 33 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
-First Home Owner Grant Amendment Act 2009 | 27 of 2009 | 17 Nov 2009 | s. 3 and Pt. 2; 14 Oct 2008 (see s. 2(b)); s. 1 and 2: 17 Nov 2009 (see s. 2(a)); Pt. 4: 18 Nov 2009: (see s. 2(d))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-First Home Owner Grant Amendment Act 2009 Pt. 3 | 27 of 2009 | 17 Nov 2009 | To be proclaimed (see s. 2(c))
+First Home Owner Grant Amendment Act 2009 | 27 of 2009 | 17 Nov 2009 | s. 3 and Pt. 2: 14 Oct 2008 (see s. 2(b)); s. 1 and 2: 17 Nov 2009 (see s. 2(a)); Pt. 4: 18 Nov 2009 (see s. 2(d)); Pt. 3: 1 Jan 2010 (see s. 2(c) and Gazette 22 Dec 2009 p. 5253)
 The First Home Owner Grant Amendment Act 2001 s. 7 reads as follows:
 “
 7.Saving of right to object
@@ -109,137 +105,3 @@ If an application is made to the Commissioner under section 75AG for the amount 
 (ii) the day on which the First Home Owner Grant Amendment Act 2005 receives the Royal Assent.
 ”.
 ”.
-On the date as at which this compilation was prepared, the First Home Owner Grant Amendment Act 2009 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Amendments to cap value of eligible transactions
-8.Section 3 amended
-(1) In section 3(1) delete the definitions of:
-commencement date
-completed
-consideration
-(2) In section 3(1) insert in alphabetical order:
-cap amount has the meaning given by section 14AD;
-commencement date, in relation to a transaction, has the meaning given by section 14AA;
-completed, in relation to a transaction, has the meaning given by section 14AA;
-consideration, in relation to a transaction, has the meaning given by section 14AB;
-property means —
-(a)a home; or
-(b)land; or
-(c)a relevant interest in land;
-total value, in relation to a transaction, has the meaning given by section 14AC(1);
-transaction means —
-(a)a contract for the purchase of a home in the State; or
-(b)a comprehensive home building contract made by the owner of land in the State, or a person who will on completion of the contract be the owner of land in the State, to have a home built on the land; or
-(c)the building of a home in the State by an owner builder;
-unencumbered value has the meaning given by section 14AE(1).
-(3) In section 3(1) in the definition of the home delete “relates.” and insert:
-relates;
-9.Section 14 amended
-(1) Delete section 14(1) and insert:
-(1) An eligible transaction is a transaction —
-(a) with a commencement date on or after 1 July 2000; and
-(b) that has a total value that is less than or equal to any cap amount that applies —
-(i) in the case of a contract — on the commencement date; or
-(ii) in the case of the building of a home by an owner builder — on the date the transaction is completed.
-(2) Delete section 14(5) to (8) and insert:
-(5) If the commencement date of the building of a home by an owner builder is before the date the First Home Owner Grant Amendment Act 2009 section 9 comes into operation no cap amount applies to the transaction.
-10.Sections 14AA to 14AE inserted
-At the end of Part 2 Division 3 Subdivision 1 insert:
-14AA.Commencement and completion of transaction
-(1) The commencement date of a transaction is —
-(a) in the case of a contract — the date when the contract is made; or
-(b) in the case of the building of a home by an owner builder —
-(i) the date when laying the foundations for the home begins; or
-(ii) another date (on or after 1 July 2000) the Commissioner considers appropriate in the circumstances of the case.
-(2) Subject to any qualifications prescribed by the regulations, a transaction is completed when —
-(a) in the case of a contract for the purchase of a home —
-(i) the purchaser becomes entitled to possession of the home under the contract; and
-(ii) if the purchaser is to obtain a registered title to the land on which the home is situated — the necessary steps to obtain registration of the purchaser’s title have been taken;
-or
-(b) in the case of a contract to have a home built — the building is ready for occupation as a place of residence; or
-(c) in the case of the building of a home by an owner builder — the building is ready for occupation as a place of residence.
-(3) If a person purchases a movable building and intends to use it as a place of residence on land in which the person has a relevant interest but on which the building is not situated at the time of purchase —
-(a) this Act applies as if the person were an owner builder building a home on the land; and
-(b) the commencement date of the transaction is taken to be the date of the contract to purchase the movable building; and
-(c) the transaction is taken to be completed when the movable building is ready for occupation as a place of residence on land in which the purchaser has a relevant interest.
-14AB.Term used: consideration
-The consideration for a transaction is —
-(a) in the case of a contract for the purchase of a home — the consideration for the purchase; or
-(b) in the case of a comprehensive home building contract — the total consideration payable for the building work; or
-(c) in the case of the building of a home by an owner builder — the actual costs to the owner of carrying out the work, excluding any allowance for the owner builder’s own labour.
-14AC.Term used: total value
-(1) The total value of a transaction is —
-(a) in the case of a contract for the purchase of a home, the greater of —
-(i) the consideration for the transaction; and
-(ii) the unencumbered value, at the commencement date, of the property the subject of the transaction;
-or
-(b) in the case of a comprehensive home building contract, the amount calculated by adding —
-(i) the consideration for the transaction; and
-(ii) the value, at the commencement date, of the relevant interest in the land on which the home is to be built;
-or
-(c) in the case of the building of a home by an owner builder, the amount calculated by adding —
-(i) the unencumbered value, at the date the transaction is completed, of the home; and
-(ii) the value, at the date the transaction is completed, of the relevant interest in the land on which the home is built.
-(2) For the purposes of subsections (1)(b)(ii) and (1)(c)(ii) the value of a relevant interest in land is the greater of —
-(a) the consideration paid for the interest; and
-(b) the unencumbered value of the interest.
-14AD.Term used: cap amount
-The cap amount that applies in respect of a transaction is —
-(a) in relation to a home south of the 26th parallel of South Latitude, $750 000; or
-(b) in relation to a home north of the 26th parallel of South Latitude, $1 000 000,
-except that the regulations may prescribe another amount as the cap amount for the purposes of paragraph (a) or (b).
-14AE.Term used: unencumbered value
-(1) The unencumbered value of property is the value of the property determined without regard to —
-(a) any encumbrance to which the property is subject, whether contingently or otherwise; or
-(b) any arrangement —
-(i) the parties to which are not dealing with each other at arm’s length; and
-(ii) that results in the reduction of the value of the property;
-or
-(c) any scheme or arrangement for which a significant purpose of any party to the scheme or arrangement was, in the opinion of the Commissioner, the reduction of the value of the property; or
-(d) where the property is held by a person on trust as guardian for another person who is under a legal disability — the liabilities of the trust, including the liability to indemnify the trustee.
-(2) For the purposes of subsection (1)(c), the Commissioner may have regard to —
-(a) the duration of the scheme or arrangement before the commencement date of the transaction to which the property relates; and
-(b) whether there is any commercial efficacy to the making of the scheme or arrangement other than to reduce the value of the property; and
-(c) any other matters the Commissioner considers relevant.
-11.Section 18 amended
-(1) Delete section 18(2)(b) and insert:
-(b) the interests of the State can be adequately protected by conditions requiring repayment of the grant if —
-(i) the transaction is not completed within a reasonable time; or
-(ii) on completion of the transaction, the total value of the transaction exceeds the cap amount that applies in respect of the transaction.
-(2) After section 18(2) insert:
-(3) A payment authorised under subsection (2) is made on condition that, if the applicant becomes aware that the total value of the transaction exceeds, or will exceed, the cap amount that applies in respect of the transaction, the applicant must within 30 days after the day on which the applicant becomes so aware —
-(a) give written notice of that fact to the Commissioner; and
-(b) either repay the amount of the grant, or make an application under section 52(2) for the Commissioner to approve an arrangement for the repayment of the amount of the grant.
-(4) In the case of a joint application, each joint applicant is individually liable to comply with subsection (3)(a) and (b), but compliance by any one or more of the joint applicants is taken to be compliance by both or all of them.
-(5) The Commissioner may, by written notice, impose a penalty on an applicant if the applicant —
-(a) does not comply with subsection (3)(b) within the 30 day period mentioned in subsection (3); or
-(b) does not repay the amount of the grant in accordance with an arrangement approved for the purposes of subsection (3)(b).
-(6) The amount of a penalty imposed under subsection (5) is not to exceed the amount that the applicant is required to repay under subsection (3).
-(7) Subject to section 52, the amount of a penalty imposed under subsection (5) must be paid by the applicant within 28 days after the date on which notice of the penalty is given to the applicant.
-12.Section 26 amended
-In section 26 in the definition of decision on the application:
-(a) in paragraph (c) before “21(2)” insert:
-18(3) or
-(b) in paragraph (d) before “21(5)” insert:
-18(5),
-13.Section 41A inserted
-After section 40 insert:
-41A.Power to have valuation made
-(1) In this section —
-applicant, in relation to a transaction, means a person who made an application in respect of the transaction;
-licensed valuer means a person licensed under the Land Valuers Licensing Act 1978.
-(2) For the purposes of determining whether a transaction is an eligible transaction, the Commissioner may —
-(a) have a valuation made of any property or consideration; or
-(b) adopt any available valuation of the property or consideration by a licensed valuer that the Commissioner considers appropriate.
-(3) The Commissioner may have a valuation made, or adopt a valuation, regardless of whether —
-(a) the Commissioner has required the applicant to provide information under section 40 about the value of the property or consideration; or
-(b) the applicant has complied with such a requirement.
-14.Section 52 amended
-In section 52(1)(a) delete “section 21” and insert:
-section 18, 21
-15.Other provisions amended
-In the provisions listed in the Table delete “eligible”.
-Table
-s. 3(1) def. of de facto partner | s. 7(1)
-s. 7A | s. 7B
-s. 12(3) | s. 15(5)(a) and (b)
-s. 16(3) def. of interested person | s. 19(1)(a)
