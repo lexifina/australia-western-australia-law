@@ -134,13 +134,13 @@ Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (s
 Road Traffic Amendment Act 2008 | 24 of 2008 | 13 Jun 2008 | s. 1 and 2: 13 Jun 2008 (see s. 2(1)(a)); Act other than s. 1, 2 5(a) and 8: 19 Jul 2008 (see s. 2(1)(b) and Gazette 18 Jul 2008 p. 3329); s. 5(a) and 8: 1 Jul 2009 (see s. 2(1)(b) and (2) and Gazette 23 Jun 2009 p. 2423)
 Criminal Law Amendment (Homicide) Act 2008 s. 38 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Reprint 10: The Road Traffic Act 1974 as at 3 Oct 2008 (includes amendments listed above, except those in the Medical Practitioners Act 2008 s. 162 and the Road Traffic Amendment Act 2008 s. 5(a) and 8) (Correction to Reprint in Gazette 19 Oct 2010 p. 5202)
+Road Traffic Amendment (Hoons) Act 2009 Pt. 2 | 23 of 2009 | 6 Oct 2009 | 1 Jan 2010 (see s. 2(1)(b) and (2) and Gazette 31 Dec 2009 p. 5421)
+Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 2 | 39 of 2009 | 3 Dec 2009 | 1 Jan 2010 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (s. 27-30) | 39 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(g))
-Road Traffic Amendment (Hoons) Act 2009 Pt. 2 | 23 of 2009 | 6 Oct 2009 | To be proclaimed (see s. 2(1)(b) and (2))
-Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 2 | 39 of 2009 | 3 Dec 2009 | 1 Jan 2010 (see s. 2(b))
 Repealed by the Nurses and Midwives Act 2006.
 Repealed by the Interpretation Act 1984.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
@@ -328,331 +328,6 @@ Section 104R(1) is amended by inserting before paragraph (b) —
 (aa) an excessive demerit points (novice driver) notice; or
 ”.
 ”.
-On the date as at which this compilation was prepared, the Road Traffic Amendment (Hoons) Act 2009 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Road Traffic Act 1974 amended
-3.Act amended
-This Part amends the Road Traffic Act 1974.
-4.Section 23A amended
-After section 23A(2) insert:
-(3) If requested under section 79BD to do so, the Director General must, in accordance with the request —
-(a) suspend the licence in respect of a vehicle; or
-(b) revoke the suspension of the licence in respect of a vehicle.
-Note:The heading to amended section 23A is to read:
-Cancellation or suspension of vehicle licence in certain circumstances
-5.Section 60 amended
-(1) After section 60(1c) insert:
-(1D) A member of the Police Force who reasonably suspects that a person has committed an offence against this section may, without a warrant, arrest the person.
-(2) In section 60(2) delete “section 61 or 62.” and insert:
-section 61 or 62 or, if the charge is of an offence against subsection (1), an offence against section 62A.
-6.Section 61 amended
-In section 61(2) delete “section 62.” and insert:
-section 62 or 62A.
-7.Section 78A amended
-(1) In section 78A delete the definitions of:
-circumstances of aggravation
-impounding offence (driver’s licence)
-impounding offence (driving)
-(2) In section 78A insert in alphabetical order:
-day of the offence means the day on which the relevant offence was committed;
-impounding offence (driver’s licence) means —
-(a)an offence against section 49(1)(a) that is committed by a person described in section 49(3)(a), (b) or (c); or
-(b)an offence against section 77(1)(a); or
-(c)an offence committed before the coming into operation of the Road Traffic Amendment Act 2008 section 5(a) that was an impounding offence (driver’s licence) as defined in this section as in force when the offence was committed;
-impounding offence (driving) means an offence against section 60 or 62A committed after the coming into operation of the Road Traffic Amendment (Hoons) Act 2009 section 7 or an offence committed before the coming into operation of that section that was an impounding offence (driving) as defined in this section as in force when the offence was committed;
-(3) In section 78A in the definition of impounding or confiscation order delete “80(1),”.
-(4) In section 78A in the definition of impounding order delete “80(1),”.
-(5) In section 78A in the definition of impounding period after “vehicle is” insert:
-specified to be
-8.Section 78C amended
-(1) In section 78C(1) delete “or 79A” and insert:
-or 79A(1)
-(2) After section 78C(1) insert:
-(2A) A member of the Police Force may take possession of a vehicle for the purpose of impounding it by operation of section 79BB(2).
-(3) In section 78C(2) —
-(a) after “effect to” insert:
-the impounding of a vehicle by operation of section 79BB(2) or
-(b) delete “a vehicle that is the subject of the order — ” and insert:
-the vehicle concerned —
-(4) In section 78C(3):
-(a) in paragraph (a) delete “79A; or” and insert:
-79A(1); or
-(b) after paragraph (a) insert:
-(ba) impounded, or to be impounded, by operation of section 79BB(2); or
-(5) Delete section 78C(4) and insert:
-(4) If a member of the Police Force reasonably suspects that the keys to a vehicle referred to in subsection (3)(ba) or (b) are, or the vehicle is, in any premises, the member may, without a warrant, at any time, enter the premises for either or both of the following purposes —
-(a) seizing the keys;
-(b) driving, towing or otherwise conveying the vehicle to a place where the vehicle is to be stored.
-9.Section 78D amended
-In section 78D:
-(a) in paragraph (a) delete “section 79(1) or 79A or” and insert:
-section 79(1), 79A(1) or 79BB or
-(b) after paragraph (a) insert:
-(ba) the surrender of vehicles under this Division;
-(c) delete paragraph (b) and insert:
-(b) the storage and the release of vehicles that are, or have been, impounded or confiscated under this Division;
-(d) after paragraph (b) insert:
-(ca) the sale or other disposal of vehicles or items under section 80J;
-10.Section 78E amended
-In section 78E delete “80H or 80K” and insert:
-80H, 80K or 80LA
-Note:The heading to amended section 78E is to read:
-Recovery of expenses owed to Commissioner
-11.Section 79 amended
-(1) Delete section 79(1) and insert:
-(1A) In this section —
-previous offender means a person —
-(a)who has previously been convicted of an impounding offence (driving); or
-(b)against whom a charge of an impounding offence (driving) is pending;
-surrender notice has the meaning given in section 79BA.
-(1) If a member of the Police Force reasonably suspects that, while driving a vehicle, the driver has committed an impounding offence (driving), the member must, unless in the circumstances it is impracticable to do so, impound the vehicle within a period of 28 days after the day of the offence.
-(2) In section 79(2):
-(a) in paragraph (a) delete “the 7th day” and insert:
-the 28th day
-(b) delete paragraph (b) and insert:
-(b) if, under subsection (3A), the member of the Police Force specifies that the length of the impounding period is to be 3 months, on the last day of the period of 3 months commencing on the day after the day on which the vehicle was impounded;
-(c) in paragraph (c) delete “the 28th day after the day on which the vehicle is” and insert:
-the last day of the period of 3 months commencing on the day after the day on which the vehicle was
-(3) Delete section 79(3) and insert:
-(3A) If, at the time of impounding the vehicle, the member of the Police Force reasonably believes that the driver of the vehicle is a previous offender, the member must specify that the length of the impounding period is to be 3 months.
-(3B) An impounding period the length of which is specified as 28 days or 3 months under this section, or in a surrender notice for which subsection (1) of this section is the impounding provision, includes the part of the day on which the vehicle is impounded that is after the impounding occurred even though including that part of the day makes the period more than 28 days or 3 months, as the case requires.
-(3) If the driver of the vehicle is a previous offender but the member of the Police Force does not specify under subsection (3A) that the length of the impounding period is to be 3 months, the Commissioner must, on being satisfied that the driver is a previous offender, extend the impounding period to end on the last day of the period of 3 months commencing on the day after the day on which the vehicle was impounded.
-12.Section 79A replaced
-Delete section 79A and insert:
-79A.Impounding of vehicle for impounding offence (driver’s licence)
-(1) If a member of the Police Force reasonably suspects that, while driving a vehicle, the driver has committed an impounding offence (driver’s licence), the member must, unless in the circumstances it is impracticable to do so, impound the vehicle within a period of 28 days after the day of the offence.
-(2) The period for which the vehicle is impounded ends on the 28th day after the day on which the vehicle is impounded.
-79BA.Notice to surrender vehicle for impoundment
-(1) This section applies if —
-(a) a member of the Police Force (the member) suspects that the driver of a vehicle (the vehicle) has committed an offence (the offence); and
-(b) the member —
-(i) would have been required by section 79(1) or 79A(1) (the impounding provision) to impound the vehicle if it had been practicable to do so but, because it was impracticable, the vehicle was not impounded; or
-(ii) is required by section 79(1) or 79A(1) (the impounding provision) to impound the vehicle but by the time the member forms the necessary suspicion the impounding can most conveniently be achieved by giving a notice under this section.
-(2) If this section applies the member may give to a responsible person for the vehicle, personally or by registered post, a notice in accordance with this section (a surrender notice).
-(3) The surrender notice cannot be given after the expiry of a period of 28 days from the day of the offence.
-(4) The surrender notice must contain a statement to the effect that, because the vehicle was used in the commission of the offence, the vehicle is required to be surrendered to the Commissioner for impounding, and the notice must specify —
-(a) sufficient details of the vehicle to identify it; and
-(b) the time and place at which the offence is suspected to have been committed; and
-(c) sufficient other details of the offence to identify the grounds for giving the notice; and
-(d) if known, the name of the person who was driving the vehicle when the offence is suspected to have been committed; and
-(e) which of sections 79(1) and 79A(1) is the impounding provision; and
-(f) if the impounding provision is section 79(1) and the notice is given on the basis that the driver is a previous offender as defined in section 79(1A), sufficient details to explain why the driver is regarded as a previous offender; and
-(g) the length of the impounding period, which is to be —
-(i) if section 79(1) is the impounding provision, either 28 days or 3 months according to which of those periods is the impounding period for which section 79(1) requires the vehicle to be impounded or would require the vehicle to be impounded if it applied; and
-(ii) if section 79A(1) is the impounding provision, 28 days;
-and
-(h) the place at which, and the time of day during which, the vehicle and its keys are required to be surrendered under this Division; and
-(i) the last day on or before which the vehicle and its keys are required to be surrendered, being the 7th day after the day on which the notice is given.
-(5) The surrender notice must also include —
-(a) a statement to the effect that this Division contains law about the notice and the impounding of the vehicle; and
-(b) a statement as to the effect of section 79BB(5); and
-(c) a statement to the effect that failure to comply with the notice will result in the vehicle being impounded by operation of section 79BB(2).
-79BB.Consequences of surrender notice
-(1) If a responsible person for a vehicle who is given a surrender notice surrenders the vehicle according to the notice, the vehicle is impounded by operation of this subsection for a period that commences at the time when the vehicle is surrendered.
-(2) If a responsible person for a vehicle who is given a surrender notice fails to surrender the vehicle according to the notice, the vehicle is impounded by operation of this subsection for a period that commences at the time when a member of the Police Force takes possession of the vehicle for the purpose of impounding it.
-(3) The time when the period for which a vehicle is impounded by operation of subsection (1) or (2) commences is not required to be within a period of 28 days after the day of the offence.
-(4) The period for which a vehicle is impounded by operation of subsection (1) or (2) ends when the impounding period has passed since the end of the day on which the vehicle was impounded.
-(5) A responsible person for a vehicle who has been given a surrender notice relating to the vehicle commits an offence and is liable to a fine of 50 PU if, when the vehicle has not been impounded by operation of subsection (1) or (2) as a consequence of the notice, the person disposes of an interest that the person has in the vehicle.
-79BC.Effect of resolving pending charge in favour of driver
-(1) This section applies if —
-(a) because of a pending charge of an impounding offence (driving) against a person (the driver), the person has been regarded under this Subdivision as a previous offender as defined in section 79(1A) (a previous offender); and
-(b) the driver is acquitted of or discharged from the charge; and
-(c) the driver would not otherwise have been a previous offender.
-(2) If the acquittal or discharge occurs when a vehicle has been impounded on the basis that the person is a previous offender but the impounding period that would have applied if the person had not been a previous offender (the shorter impounding period) has not yet elapsed, the impounding period is reduced by this section to the shorter impounding period.
-(3) If the acquittal or discharge occurs when a vehicle has been impounded on the basis that the person is a previous offender and the impounding period that would have applied if the person had not been a previous offender (the shorter impounding period) has already elapsed but the vehicle is still impounded, the impounding period is reduced by this section to end on the day on which the acquittal or discharge occurs.
-(4) The Commissioner is to ensure that each person, other than the Director General, to whom a notice of the impounding of the vehicle has been given under section 79B is given a notice of a reduction of the impounding period by this section.
-(5) Whether the acquittal or discharge occurs while the vehicle is still impounded or not, for calculating a liability under this Division to pay an amount by reference to the expenses incurred by the Commissioner in impounding the vehicle those expenses are limited to expenses that would have been incurred in impounding the vehicle for the shorter impounding period.
-(6) A person who has already paid under this Division an amount that exceeds the amount calculated according to subsection (5) is entitled to a refund from the Commissioner of the amount of the excess.
-79BD.Suspension of vehicle licence at request of Commissioner
-(1) If a responsible person for a vehicle who is given a surrender notice fails to surrender the vehicle according to the notice, the Commissioner may request the Director General to suspend the licence in respect of the vehicle until the vehicle is impounded under this Division or the Commissioner requests the Director General to revoke the suspension.
-(2) The Commissioner is required, on being satisfied that a circumstance described in section 79D(2)(a), (b) or (c) exists, to request the Director General to revoke the suspension and may, if for any other reason the Commissioner considers it appropriate to do so, request the Director General to revoke the suspension.
-(3) While the licence in respect of a vehicle is suspended according to a request under this section —
-(a) the licence is of no effect; and
-(b) an application to renew the licence cannot be granted, even if the application was made before the licence was suspended.
-(4) The suspension does not extend the period for which the licence may be valid or effective beyond the expiration of the period for which the licence was expressed to be granted or renewed.
-13.Section 79B amended
-(1) Delete section 79B(1) and insert:
-(1) The Commissioner is to ensure that, as soon as practicable after a vehicle is impounded under section 79(1), 79A(1) or 79BB, notice of the impounding is given to —
-(a) each responsible person; and
-(b) if the driver is not a responsible person, the driver; and
-(c) if the licence in respect of the vehicle is for the time being suspended under section 79BD, the Director General.
-(2) In section 79B(2):
-(a) delete paragraph (ca) and “and” after it and insert:
-(ca) if under section 79(3A) the length of the impounding period is specified to be 3 months, the charge or previous conviction because of which the driver was a previous offender as defined in section 79(1A); and
-(cb) the vehicle sufficient to identify it; and
-(cc) the time and place at which the offence, in the commission of which the vehicle was used, is suspected to have been committed; and
-(cd) the offence sufficient to identify the grounds on which the vehicle was impounded; and
-(ce) if known, the person who was driving the vehicle when the offence is suspected to have been committed; and
-(cf) the length of the impounding period, which is to be —
-(i) if section 79(1) is the impounding provision, either 28 days or 3 months according to which of those periods is the impounding period for which section 79(1) requires the vehicle to be impounded or would require the vehicle to be impounded if it applied; and
-(ii) if section 79A(1) is the impounding provision, 28 days;
-and
-(cg) the grounds on which the vehicle may be released under section 79D; and
-(b) in paragraph (d) delete “80,”.
-(3) In section 79B(4):
-(a) in paragraph (c) before “previous conviction” insert:
-charge or
-(b) in paragraph (d) delete “80,”.
-14.Section 79C amended
-(1) In section 79C(1):
-(a) delete “79A is to” and insert:
-79A(1) or gives a surrender notice under section 79BA is to
-(b) delete “impounded, of —” and insert:
-impounded or the notice is given, as the case requires, of —
-(c) in paragraph (a) delete “section 79(1)(a) and (b) or 79A(a) and (b),” and insert:
-section 79(1) or 79A(1),
-(d) delete paragraph (b) and insert:
-(b) if the member specified that the length of the impounding period was to be 3 months, the charge or previous conviction because of which the driver of the vehicle was a previous offender as defined in section 79(1A).
-(2) In section 79C(2):
-(a) delete “informed by a member of the Police Force of a vehicle impoundment pursuant to subsection (1)” and insert:
-informed under subsection (1) by a member of the Police Force of a vehicle impoundment or the giving of a surrender notice
-(b) in paragraph (a) delete “section 79(1)(a) and (b) or 79A(a) and (b),” and insert:
-section 79(1) or 79A(1),
-(c) delete paragraph (b) and insert:
-(b) if the member specified that the length of the impounding period was to be 3 months, that there are reasonable grounds for believing that the driver of the vehicle is a previous offender as defined in section 79(1A).
-(3) Delete section 79C(3) and insert:
-(3) If a senior police officer is not satisfied as required by subsection (2)(a) —
-(a) if the vehicle has been impounded, the senior police officer and the member of the Police Force are to take measures to ensure that the vehicle is released from impoundment and returned to a responsible person, or if no responsible person is available, to the driver of the vehicle;
-(b) if a surrender notice has been given but the vehicle has not yet been surrendered, the senior police officer is to cancel the notice and immediately notify the person to whom the notice was given that the notice has been cancelled.
-(4) In section 79C(4):
-(a) delete “the 7th day” and insert:
-the 28th day
-(b) delete “the impounding.” and insert:
-the impounding and, if the vehicle has not yet been impounded, to the person who was given the surrender notice.
-15.Section 79D amended
-In section 79D(1) in the definition of impounded vehicle delete “section 79(1) or 79A.” and insert:
-section 79(1), 79A(1) or 79BB.
-16.Section 79E replaced
-Delete section 79E and insert:
-79E.Liability for expenses of police impounding
-If a vehicle is impounded under this Subdivision and a person is convicted of the offence for which the vehicle was impounded, that person is liable to pay to the Commissioner an amount specified by the Commissioner as being equivalent to all expenses reasonably incurred by the Commissioner in impounding the vehicle less —
-(a) any amount received by the Commissioner under section 80IB(1); and
-(b) any amount received by the Commissioner under section 80JA(8)(b),
-in relation to impounding the vehicle.
-17.Section 80 deleted
-Delete section 80.
-18.Section 80E amended
-In section 80E(1) delete “80(1) or”.
-Note:The heading to amended section 80E is to read:
-Court not to confiscate vehicle that was stolen, hired or lent
-19.Section 80FA amended
-In section 80FA(1) delete “80A(1),”.
-Note:The heading to amended section 80FA is to read:
-Cases when court may order impounding instead of confiscation
-20.Section 80G amended
-(1) In section 80G(1) insert in alphabetical order:
-Commissioner includes a person for the time being authorised by the Commissioner in writing to perform functions of the Commissioner under this section;
-(2) In section 80G(1) in the definition of order delete “80(1),”.
-(3) In section 80G(2)(b)(ii) delete “brought” and insert:
-commenced
-(4) In section 80G(4) delete “A court is not to make an order unless it has given” and insert:
-Before a court makes an order it has to give
-(5) In section 80G(5) after “for an order” insert:
-other than an order under section 80A(1)
-(6) After section 80G(5) insert:
-(6A) The court is required to grant an application for an order that it may make under section 80A(1) unless it is satisfied that the order would cause severe financial or physical hardship to a person, other than the driver of the vehicle, who has an interest in the vehicle or is the usual driver of the vehicle.
-(7) In section 80G(6) delete “dispose of any interest that the person has in the vehicle unless a court has made an order approving of the proposed disposal.” and insert:
-do a restricted act in respect of the vehicle unless a court has made an order approving of the proposed act.
-(8) After section 80G(6) insert:
-(7A) A person does a restricted act in respect of the vehicle if the person —
-(a) disposes of any interest that the person has in the vehicle; or
-(b) does anything, or causes or permits another person to do anything, that results or will result in a reduction in the value of the vehicle.
-21.Section 80IA amended
-In section 80IA(1) delete “section 79(1) or 79A” and insert:
-Subdivision 2
-22.Section 80IB amended
-In section 80IB(1) and (5) delete “section 79(1) or 79A” and insert:
-Subdivision 2
-23.Section 80I amended
-In section 80I(1) delete “section 79(1) or 79A” and insert:
-Subdivision 2
-24.Section 80JA inserted
-After section 80I insert:
-80JA.Commissioner may sell vehicle impounded under s. 79A at any time with consent of owner etc.
-(1) In this section —
-impounded vehicle means a vehicle that is impounded under section 79A;
-interest, in relation to a vehicle, means a legal or equitable interest, right or title in or to the ownership or possession of the vehicle.
-(2) If the Commissioner is satisfied that each person who has an interest in an impounded vehicle has, in accordance with subsection (4), consented to the Commissioner doing so, the Commissioner, on behalf of those persons, may sell or otherwise dispose of the vehicle.
-(3) The Commissioner may sell or otherwise dispose of a vehicle under subsection (2) —
-(a) even if the impounding period has not elapsed; and
-(b) even if the Commissioner may sell the vehicle under section 80J; and
-(c) whether or not a charge of an offence for which the vehicle was impounded has been heard or determined by a court; and
-(d) whether or not any appeal against the conviction for an offence for which the vehicle was impounded or confiscated has been concluded.
-(4) The consent of a person who has an interest in an impounded vehicle to the Commissioner selling or otherwise disposing of the vehicle has no effect unless —
-(a) the person has been informed in accordance with subsection (5); and
-(b) the consent is in writing and signed by the person; and
-(c) the consent is given at least 48 hours after the vehicle is impounded.
-(5) The Commissioner must ensure a person who has an interest in an impounded vehicle is informed —
-(a) of the effect of this Division in relation to impounding and selling vehicles; and
-(b) of the liabilities that this Division imposes on persons for the costs and expenses incurred by the Commissioner.
-(6) The Commissioner may require a person who has an interest in an impounded vehicle to provide information to the Commissioner for the purposes of this section in a statutory declaration.
-(7) If the Commissioner sells or otherwise disposes of an impounded vehicle under subsection (2) —
-(a) the Commissioner must release the vehicle to the buyer; and
-(b) the buyer obtains a good title to the vehicle if the person acquires it in good faith and without notice of any failure to comply with this section in relation to the sale or disposal; and
-(c) the proceeds of the sale are to be paid in the order of priority provided by subsection (8).
-(8) The proceeds of the sale or disposal of a vehicle under subsection (2) are to be paid in the following order of priority —
-(a) for expenses incurred in selling the vehicle;
-(b) for the expenses specified by the Commissioner as being equivalent to all expenses reasonably incurred by the Commissioner in impounding the vehicle;
-(c) if the sale or disposal occurs after the impounding period ends, for expenses (if any) incurred in storing the vehicle after that period ends;
-(d) the balance —
-(i) if only one person has an interest in the vehicle, to that person;
-(ii) if there are 2 or more persons who each have an interest in the vehicle, to each such person according to the proportion that the value of the person’s interest bears to the value of the vehicle.
-(9) If an impounded vehicle is sold or otherwise disposed of under subsection (2) and —
-(a) no charge is laid for the offence for which the vehicle was impounded within 3 months after the date of the offence; or
-(b) the charge for that offence is withdrawn or dismissed for want of prosecution; or
-(c) the person charged with that offence is acquitted,
-the Commissioner must pay to the person or persons referred to in subsection (8)(d) in accordance with that paragraph an amount equal to the amounts paid under subsection (8)(a), (b) and (c).
-25.Section 80J amended
-(1) In section 80J(1) in the definition of item in paragraph (a) delete “section 79(1) or 79A;” and insert:
-Subdivision 2; or
-(2) In section 80J(1) in the definition of uncollected vehicle delete “section 79(1) or 79A” and insert:
-Subdivision 2
-(3) After each of section 80J(4)(a) and (b) insert:
-and
-(4) In section 80J(7)(j)(i) delete “the Treasurer of the State for the public uses of the State;” and insert:
-the credit of the Road Trauma Trust Account established in accordance with the Road Safety Council Act 2002 section 12;
-26.Section 80K amended
-(1) At the beginning of section 80K insert:
-(1) If a vehicle is sold under section 80JA(2) but the proceeds of the sale are insufficient to pay the expenses incurred in selling it, the person because of whose conviction the vehicle was impounded is liable to pay to the Commissioner the difference between the amount of those expenses and the proceeds of the sale.
-(2) In section 80K delete “If” and insert:
-(2) If
-27.Section 80LA inserted
-After section 80K insert:
-80LA.Liability for unrecovered expenses of selling uncollected vehicle
-(1) This section applies if a vehicle is sold under section 80J(2) as an uncollected vehicle and a person (the offender) has been convicted of the offence for which the vehicle was impounded.
-(2) If the proceeds of the sale are insufficient to pay the expenses reasonably incurred to sell the vehicle (the selling expenses), the offender is liable to pay to the Commissioner an amount specified by the Commissioner as being equivalent to the selling expenses that remain to be recovered.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Road Traffic Act 1974 amended
-3.Act amended
-This Part amends the Road Traffic Act 1974.
-4.Section 27 amended
-(1) In section 27(1) delete “granted, and shall upon the grant or renewal of any vehicle licence issue to the applicant a registration label evidencing the grant of the licence.” and insert:
-granted.
-(2) Delete section 27(2) and (3).
-5.Section 27AA inserted
-After section 27 insert:
-27AA.Labels to be affixed to certain vehicles
-Regulations may provide for —
-(a) the Director General to issue a label (label) on the grant or renewal, under this Part, of a vehicle licence for a vehicle of a prescribed class; and
-(b) specified information about a vehicle to be contained in or on a label for the vehicle; and
-(c) matters relating to the affixing to vehicles, and display, of labels.
-6.Section 38 deleted
-Delete section 38.
-7.Section 40 amended
-After section 40(d) insert:
-(ea) provide for —
-(i) the Director General to issue a label (label) on the grant, extension or renewal, under this Part, of a vehicle licence for a vehicle of a prescribed class; and
-(ii) specified information about a vehicle to be contained in or on a label for the vehicle; and
-(iii) matters relating to the affixing to vehicles, and display, of labels;
-8.Section 97 amended
-(1) At the beginning of section 97 insert:
-(1) In this section —
-label means a label issued under a regulation mentioned in section 27AA or 40(ea).
-(2) In section 97:
-(a) delete “A person” and insert:
-(2) A person
-(b) in paragraphs (c), (d), (e), (f)(i), (ii) and (iii), (g) and (h) delete “registration” (each occurrence).
-9.Section 100 amended
-In section 100(2) delete “registration”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -670,14 +345,15 @@ authorised person65, 98A(1)
 blood alcohol content65
 bodily harm49AA
 breath analysing equipment65
-circumstances of aggravation59B(3), 78A
+circumstances of aggravation59B(3)
 commencement day28A(3), 72A(1)
-Commissioner78A, 87(1)
+Commissioner78A, 80G(1), 87(1)
 condition41A
 conduct65
 confiscated vehicle80J(1)
 contractor101(3)
 current demerit points104(1)
+day of the offence78A
 dealt with by infringement notice104(1)
 demerit period104N(1)
 demerit point action104(1)
@@ -694,7 +370,7 @@ distance measuring equipment98A(1)
 district5(1)
 drive5(1)
 driver5(1), 49A(1), 54(1), (2) and (6), 55(1) and (4),
-56(1) and (4), 59(1), 59A(1)
+56(1) and (4), 59(1), 59A(1), 79BC(1)
 driver assessment65
 driver identity request58A(1)
 driver licence44C(2)
@@ -714,14 +390,15 @@ Government road5(1)
 grievous bodily harm49AA
 gross vehicle mass111AB(4)
 hired78A
-impounded vehicle79D(1)
+impounded vehicle79D(1), 80JA(1)
 impounding offence (driver’s licence)78A
 impounding offence (driving)78A
 impounding or confiscation order78A
 impounding order78A
 impounding period78A
+impounding provision 79BA(1)
 infringement notice45(5), 104(1)
-interest80G(1)
+interest80G(1), 80JA(1)
 item80J(1)
 jurisdiction5(1)
 learner’s permit5(1)
@@ -734,6 +411,7 @@ light87(1)
 material time71(1)
 mechanical power5(1)
 medical practitioner65
+member79BA(1)
 minimum fine106(1)
 modified penalty102D(1)
 motor vehicle5(1)
@@ -747,7 +425,7 @@ novice driver64AAA(2), 104(1)
 novice driver (type 1)104(1)
 novice driver (type 2)104(1)
 number plate5(1)
-offence98(2c)
+offence79BA(1), 98(2c)
 offence particulars8(1)
 offender71B(1)
 omnibus5(1)
@@ -765,6 +443,7 @@ preliminary test65
 prescribed area86(1)
 prescribed illicit drug65
 prescribed offence75(6)
+previous offender79(1A), 79BC(1)
 provisional licence5(1)
 recording fee5(1)
 registered nurse65
@@ -781,12 +460,14 @@ section 104J election104(1)
 section 104J election period104(1)
 self-testing breath analysing equipment65
 senior police officer78A
+shorter impounding period79BC(2) and (3)
 specified day28A(3)
 speed measuring equipment98A(1)
 starting time104N(2)
 stock5(1)
 subject71A(1)
 supply8(1)
+surrender notice79(1A), 79BA(2)
 surrender period78A
 technologist70(7)
 the present offence75(1a), (2)(c) and (2b), 105(a)
@@ -795,7 +476,7 @@ traffic infringement notice5(1), 102(1)
 traffic regulation provisions of this Act5(1)
 uncollected vehicle80J(1)
 undergoes65
-vehicle5(1)
+vehicle5(1), 79BA(1)
 vehicle licence charge5(1)
 vehicle referred to in section 80GA78A
 victim54(2) and (6)
