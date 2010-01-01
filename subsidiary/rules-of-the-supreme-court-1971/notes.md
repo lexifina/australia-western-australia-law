@@ -120,7 +120,8 @@ Supreme Court Amendment Rules 2007 | 21 Feb 2007 p. 531-96 | 1 Mar 2007 (see r. 
 Supreme Court Amendment Rules 2008 | 22 Feb 2008 p. 629-56 | Pt. 1: 22 Feb 2008 (see r. 2(a)); Pt. 2: 23 Feb 2008 (see r. 2(b)); Pt. 3: 25 Feb 2008 (see r. 2(c))
 Reprint 7: The Rules of the Supreme Court 1971 as at 11 Apr 2008 (includes amendments listed above)
 Supreme Court Amendment Rules 2009 | 6 Feb 2009 p. 243-5 | r. 1 and 2: 6 Feb 2009 (see r. 2(a)); Rules other than r. 1 and 2: 1 Mar 2009 (see r. 2(b) and Gazette 27 Feb 2009 p. 511)
-Supreme Court Amendment Rules (No. 2) 2009 Pt. 1 and 3 | 3 Jul 2009 p. 2682-700 | Pt. 1: 3 Jul 2009: (see r. 2(a)) Pt. 3: 4 Jul 2009 (see r. 2(c))
+Supreme Court Amendment Rules (No. 2) 2009 Pt. 1 and 3 | 3 Jul 2009 p. 2682-700 | Pt. 1: 3 Jul 2009 (see r. 2(a)) Pt. 3: 4 Jul 2009 (see r. 2(c))
+Supreme Court Amendment Rules (No. 3) 2009 | 22 Dec 2009 p. 5273-4 | 1 Jan 2010 (see r. 2 and Gazette 31 Dec 2009 p. 5327)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
@@ -505,6 +506,7 @@ montho. 3 r. 1
 mortgageo. 10 r. 1(2), o. 62A r. 1(2) and (3)
 mortgageeo. 10 r. 1(2)
 mortgagoro. 10 r. 1(2)
+national gas transitional provisionso. 81D r. 1A(2)
 objecto. 29A r. 3(2)(n)
 objectiono. 81FA r. 1
 officero. 1 r. 4(1)
