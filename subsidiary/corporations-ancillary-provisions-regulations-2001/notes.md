@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 January 2005 of the Corporations (Ancillary Provisions) Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Corporations (Ancillary Provisions) Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Corporations (Ancillary Provisions) Regulations 2001 | 29 Jun 2001 p. 3258-60 | 15 Jul 2001 (see r. 2 and Cwlth Gazette 13 Jul 2001 No. S285)
@@ -9,3 +9,8 @@ Corporations (Ancillary Provisions) Amendment Regulations (No. 2) 2001 | 7 Dec 2
 Corporations (Ancillary Provisions) Amendment Regulations 2002 | 8 Oct 2002 p. 5096 | 8 Oct 2002
 Corporations (Ancillary Provisions) Amendment Regulations 2003 | 1 Aug 2003 p. 3295-6 | 1 Aug 2003
 Reprint 1: The Corporations (Ancillary Provisions) Regulations 2001 as at 21 Jan 2005 (includes amendments listed above)
+Corporations (Ancillary Provisions) Amendment Regulations 2009 | 31 Dec 2009 p. 5401-2 | 1 Jan 2010 (see r. 2 and Gazette 31 Dec 2009 p. 5327)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+new reference3
