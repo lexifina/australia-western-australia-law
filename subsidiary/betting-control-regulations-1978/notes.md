@@ -51,40 +51,4 @@ Betting Control Amendment Regulations (No. 3) 2007 | 18 Sep 2007 p. 4716-18 | r.
 Betting Control Amendment Regulations (No. 4) 2007 | 9 Oct 2007 p. 5348-50 | r. 1 and 2: 9 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2008 (see r. 2(b))
 Betting Control Amendment Regulations 2008 | 28 Oct 2008 p. 4732-3 | r. 1 and 2: 28 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2009 (see r. 2(b))
 Betting Control Amendment Regulations (No. 3) 2009 | 25 Sep 2009 p. 3751-2 | r. 1 and 2: 25 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2009 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Betting Control Amendment Regulations (No. 4) 2009 r. 3-5 | 30 Oct 2009 p. 4312-13 | 1 Jan 2010 (see r. 2(b))
-On the date as at which this compilation was prepared, the Betting Control Amendment Regulations (No. 4) 2009 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Betting Control Regulations 1978.
-4.Regulation 17 amended
-(1) In regulation 17(1):
-(a) in paragraph (ab) delete “$60;” and insert:
-$65;
-(b) in paragraph (ac) delete “$300;” and insert:
-$310;
-(c) in paragraph (a) delete “$595;” and insert:
-$620;
-(d) in paragraph (b) delete “$25;” and insert:
-$30;
-(e) in paragraph (ba) delete “$145;” and insert:
-$150;
-(f) in paragraph (c) delete “$140;” and insert:
-$145;
-(g) in paragraph (e) delete “$25;” and insert:
-$30;
-(h) in paragraph (f) delete “$550.” and insert:
-$575.
-(2) In regulation 17(2) delete “$90.” and insert:
-$95.
-(3) In regulation 17(3) delete “$90.” and insert:
-$95.
-5.Regulation 17A amended
-In regulation 17A(1):
-(a) in paragraph (a)(i) delete “$315;” and insert:
-$340;
-(b) in paragraph (a)(ii) delete “$635;” and insert:
-$685;
-(c) in paragraph (a)(iii) delete “$955;” and insert:
-$1 030;
+Betting Control Amendment Regulations (No. 4) 2009 | 30 Oct 2009 p. 4312-13 | r. 1 and 2: 30 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
