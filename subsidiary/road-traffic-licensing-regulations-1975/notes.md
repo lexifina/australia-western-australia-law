@@ -132,6 +132,7 @@ Reprint 7: The Road Traffic (Vehicle Licensing) Regulations 1975 as at 18 May 20
 Road Traffic (Vehicle Licensing) Amendment Regulations (No. 4) 2007 | 22 Jun 2007 p. 2871-2 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)) Regulations other than r. 1 and 2: 23 Jun 2007 (see r. (2(b))
 Road Traffic (Vehicle Licensing) Amendment Regulations 2007 | 22 Jun 2007 p. 2873-4 | 22 Jun 2007
 Road Traffic (Licensing) Amendment Regulations (No. 3) 2008 | 30 May 2008 p. 2083-4 | r. 1 and 2: 30 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Road Traffic (Licensing) Amendment Regulations 2009 | 31 Dec 2009 p. 5405-13 | r. 1 and 2: 31 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
 Revoked on 4 Oct 1974 (see Gazette 3 Oct 1974 p. 3701).
 Revoked on 1 Jun 1975 (see Gazette 29 May 1975 p. 1577).
 Under the Local Government Act 1995 Sch. 9.3 cl. 3(2) a reference to a municipality or municipal district under the Local Government Act 1960 may, when the context requires, be read as if it had been amended to include or be a reference to a local government or local government district under the Local Government Act 1995. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
