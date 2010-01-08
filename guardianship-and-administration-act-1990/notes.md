@@ -36,7 +36,7 @@ Acts Amendment (Bankruptcy) Act 2009 s. 38 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | To be proclaimed (see s. 2)
+Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | s. 3-10, 11 (other than to the extent that it inserts s. 110RA, 110ZAA, 110ZAB and 110ZAC), 13 and 14: 15 Feb 2010 (see s. 2 and Gazette 8 Jan 2010 p. 9); s. 11 (to the extent that it inserts s. 110RA, 110ZAA, 110ZAB and 110ZAC) and 12: to be proclaimed (see s. 2)
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Guardianship and Administration Amendment Act 2000 s. 21 reads as follows:
 “
