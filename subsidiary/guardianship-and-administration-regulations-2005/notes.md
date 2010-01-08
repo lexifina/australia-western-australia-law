@@ -6,8 +6,8 @@ Guardianship and Administration Regulations 2005 | 21 Jan 2005 p. 268-9 | 24 Jan
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Guardianship and Administration Amendment Regulations 2009 r. 3-7 | 15 Sep 2009 p. 3583-97 | On commencement of the Acts Amendment (Consent to Medical Treatment) Act 2008 s. 4
-Guardianship and Administration Amendment Regulations (No. 2) 2009 r. 3-5 | 18 Dec 2009 p. 5168-9 | On commencement of the Acts Amendment (Consent to Medical Treatment) Act 2008 s. 4
+Guardianship and Administration Amendment Regulations 2009 r. 3-7 | 15 Sep 2009 p. 3583-97 | 15 Feb 2010 (see r. 2(b) and Gazette 8 Jan 2010 p. 9)
+Guardianship and Administration Amendment Regulations (No. 2) 2009 r. 3-5 | 18 Dec 2009 p. 5168-9 | 15 Feb 2010 (see r. 2(b) and Gazette 8 Jan 2010 p. 9)
 On the date as at which this compilation was prepared, the Guardianship and Administration Amendment Regulations 2009 r. 3-7 had not come into operation. They read as follows:
 3.Regulations amended
 These regulations amend the Guardianship and Administration Regulations 2005.
