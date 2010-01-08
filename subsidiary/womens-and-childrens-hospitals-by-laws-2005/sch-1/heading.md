@@ -1,17 +1,17 @@
 ## Schedule 1 — Hospital sites
 [bl. 2]
 King Edward Memorial Hospital for Women
-1 | Perth Suburban Lots 229 and 230, folio 535
+1 | Perth Suburban Lots 229 and 230, Folio 535
 2 | Portion of Perth Suburban Lot 228, being part of Lot 17 on Plan 1178
 3 | Portion of Perth Suburban Lot 228, being part of Lot 17 on Plan 1178
 4 | Portion of Perth Suburban Lot 228, being part of Lot 18 on Plan 1178
 5 | Portion of Perth Suburban Lot 228, being part of Lots 18 and 19 on Plan 1178
 6 | Portion of Suburban Lot 228, being part of Lot 19 on Plan 1178
-7 | Portion of Perth Suburban Lot 228, being Lot 20 on plan 1178
+7 | Portion of Perth Suburban Lot 228, being Lot 20 on Plan 1178
 8 | Portion of Perth Suburban Lot 228, being Lots 108 to 117 (inclusive) on Plan 1178 and Lots 1, 2, 3 and 4 on Diagram 22405
 9 | Portion of Perth Suburban Lot 228, being Lot 24 on Plan 1178
 10 | Portion of Perth Suburban Lot 228, being Lot 23 of Plan 1178
-11 | Portion of Perth Suburban lot 228, being part of Lot 22 on Plan 1178
+11 | Portion of Perth Suburban Lot 228, being part of Lot 22 on Plan 1178
 12 | Portion of Perth Suburban Lot 228, being Lot 21 and part of Lot 22 on Plan 1178
 13 | Crown Reserve 40541, Swan Location, Lot 11162
 14 | Unnumbered Rail Reserve shown on Public Transport Authority Plan 2106 (Railway Road Reserve, Daglish) So much of the Reserve as is leased from the Public Transport Authority for the purposes of the Hospital while it is leased for that purpose.
