@@ -1,2 +1,30 @@
 ## Schedule 3 — Forms
 [bl. 18 and 19]
+1.Infringement Notice (by-law 18)
+Women’s and Children’s Hospitals By-laws 2005 Infringement Notice | Notice No:
+Hospital | ❑King Edward Memorial Hospital for Women ❑Princess Margaret Hospital for Children ❑State Child Development Centre ❑Stubbs Terrace Hospital
+Vehicle | Make
+Model
+Plate no. | Colour
+Alleged offence | Description of offence ………………………………………… …………………………………………………………………
+By-law
+Date and time ………/……../20……. …………….a.m./p.m.
+Modified penalty $
+Issuing officer | Name
+Signature
+Date ………/……../20…….
+What you must do | You have 28 days from when this notice was given to you to pay the modified penalty or elect to go to court. If you don’t, enforcement proceedings will be taken against you. To pay the modified penalty — By post: Send your payment to — Women’s and Children’s Health Service PO Box 134, Subiaco, WA 6904 In person:Pay the cashier at King Edward Memorial Hospital for Women or Princess Margaret Hospital for Children. To elect to go to court, sign this Notice here ….……………………………………………………………… then send it to the Chief Executive Officer of the Women’s and Children’s Health Service, PO Box 134 Subiaco, WA 6904. Make sure you keep a copy. If you go to court and are convicted you may be fined $50 and ordered to pay costs. If enforcement proceedings are taken against you, your driver’s licence and/or vehicle licence may be suspended until you pay the modified penalty and expenses or you elect to go to court.
+2.Withdrawal of Infringement Notice (by-law 19)
+Women’s and Children’s Hospitals By-laws 2005 Withdrawal of Infringement Notice | Notice No:
+To [Person to whom Infringement Notice was issued] | Family name
+Other names
+Address
+Infringement Notice | Infringement Notice No.
+Issued at — ❑King Edward Memorial Hospital for Women ❑Princess Margaret Hospital for Children ❑State Child Development Centre ❑Stubbs Terrace Hospital
+Date of issue ………/……../20…….
+Alleged offence
+Vehicle plate no.
+The Infringement Notice has been withdrawn. If you paid the modified penalty before the Infringement Notice was withdrawn, take your receipt and this notice to the cashier at King Edward Memorial Hospital for Women or Princess Margaret Hospital for Children and your payment will be refunded.
+Notice withdrawn by | Name
+Signature
+Date ………/……../20…….
