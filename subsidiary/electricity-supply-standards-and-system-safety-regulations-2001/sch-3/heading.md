@@ -14,8 +14,8 @@ ESAA – ND/NL – 04 – 1995 Guidelines for Use of Helicopters for Live Line W
 AS 1222.1 – 1992 Steel conductors and stays – Bare overhead Galvanized (SC/GZ).
 AS 1222.2 – 1992 Steel conductors and stays – Bare overhead Aluminium clad (SC/AC).
 AS 1531 – 1991 Conductors – Bare overhead – Aluminium and aluminium alloy.
-AS 1746 – 1991 Conductors– Bare overhead – Hard drawn copper.
-AS 3607 – 1989 Conductors– Bare overhead – Aluminium and aluminium alloy – Steel reinforced.
+AS 1746 – 1991 Conductors – Bare overhead – Hard drawn copper.
+AS 3607 – 1989 Conductors – Bare overhead – Aluminium and aluminium alloy – Steel reinforced.
 AS 1720.1 – 1997 Timber structures – Design methods.
 AS 1720.2 – 1990 Timber structures – Timber properties.
 AS 2209 – 1994 Timber – Poles for overhead lines.
