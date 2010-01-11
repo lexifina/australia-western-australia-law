@@ -35,10 +35,7 @@ Racing, Wagering and Betting Legislation Amendment and Repeal Act 2007 Pt. 3 | 8
 Reprint 5: The Gaming and Wagering Commission Act 1987 as at 2 Nov 2007 (includes amendments listed above)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 63 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Racing and Wagering Legislation Amendment Act 2009 Pt. 3 | 29 of 2009 | 23 Nov 2009 | To be proclaimed (see s. 2(b))
+Racing and Wagering Legislation Amendment Act 2009 Pt. 3 | 29 of 2009 | 23 Nov 2009 | 11 Jan 2010 (see s. 2(b) and Gazette 8 Jan 2010 p. 9-10)
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 Now known as the Gaming and Wagering Commission Act 1987; short title changed (see note under s. 1).
 The Acts Amendment (Continuing Lotteries) Act 2000 Pt. 4 (as amended by the Taxation Administration (Consequential Provisions) Act 2002 s. 6) reads as follows:
@@ -84,39 +81,3 @@ Division 2 — Transitional and savings provisions
 170.Members of the Commission
 Each person holding office as a member of the Gaming Commission under the Gaming Commission Act 1987 immediately before the coming into operation of this section continues in office as a member of the Gaming and Wagering Commission under and subject to the Gaming and Wagering Commission Act 1987 until the expiry of the term of office.
 ”.
-On the date as at which this compilation was prepared, the Racing and Wagering Legislation Amendment Act 2009 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Gaming and Wagering Commission Act 1987 amended
-18.Act amended
-This Part amends the Gaming and Wagering Commission Act 1987.
-19.Section 43A amended
-In section 43A(3):
-(a) before paragraph (d) insert:
-(da) a person who in another State or a Territory is authorised under a law of the State or Territory to engage in or conduct the business of betting on races or sporting events; or
-(b) after each of paragraphs (a) and (b) insert:
-or
-20.Section 110B inserted
-After section 110A insert:
-110B.Racing Bets Levy Account
-(1) An account called the Racing Bets Levy Account is to be established —
-(a) as an agency special purpose account under the Financial Management Act 2006 section 16; or
-(b) with the approval of the Treasurer, at a bank as defined in section 3 of that Act,
-to which the Commission must credit moneys paid to or recovered by the Commission under the Betting Control Act 1954 section 14A.
-(2) The Racing Bets Levy Account is to be administered by the Commission.
-(3) The Racing Bets Levy Account is to be applied for the purpose of the payment of the outgoings and expenses referred to in subsection (4)(a).
-(4) The Commission is to —
-(a) withdraw from the Racing Bets Levy Account, at monthly intervals, a sum approved by the Minister for outgoings and expenses incurred by the Commission in administering the Account; and
-(b) pay or credit, at prescribed intervals, the balance of that Account in accordance with this section.
-(5) The balance of the Racing Bets Levy Account is to be paid or credited to RWWA or paid or credited by the Commission, in such amounts as it determines, to the following —
-(a) thoroughbred racing clubs registered with RWWA;
-(b) harness racing clubs registered with RWWA;
-(c) greyhound racing clubs registered with RWWA.
-21.Section 117 amended
-In section 117:
-(a) in paragraph (d) delete “Commission.” and insert:
-Commission; and
-(b) after paragraph (d) insert:
-(e) for regulating (including prohibiting advertisements of a type that are not in the public interest) the content of advertisements that convey, or are likely to be understood as conveying, the existence (in this State or elsewhere) of —
-(i) a person referred to in section 43A(3)(a) to (da); or
-(ii) a person or class of person prescribed under section 43A(3)(d).
-(c) after each of paragraphs (a) and (b) insert:
-and
