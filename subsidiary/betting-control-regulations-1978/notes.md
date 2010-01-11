@@ -52,3 +52,4 @@ Betting Control Amendment Regulations (No. 4) 2007 | 9 Oct 2007 p. 5348-50 | r. 
 Betting Control Amendment Regulations 2008 | 28 Oct 2008 p. 4732-3 | r. 1 and 2: 28 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2009 (see r. 2(b))
 Betting Control Amendment Regulations (No. 3) 2009 | 25 Sep 2009 p. 3751-2 | r. 1 and 2: 25 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2009 (see r. 2(b))
 Betting Control Amendment Regulations (No. 4) 2009 | 30 Oct 2009 p. 4312-13 | r. 1 and 2: 30 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
+Betting Control Amendment Regulations (No. 5) 2009 | 8 Jan 2010 p. 19-27 | r. 1 and 2: 8 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jan 2010 (see r. 2(b) and Gazette 8 Jan 2010 p. 9-10)
