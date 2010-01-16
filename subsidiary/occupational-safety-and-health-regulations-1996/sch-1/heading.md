@@ -111,7 +111,7 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
 24 | AS/NZS 2299 | Occupational diving operations | 3.29
  | AS/NZS 2299.1:1999 | Occupational diving operations — Standard operational practice
  | AS/NZS 2299.1 Supplement 1:1999 | Standard operational practice — AS/NZS 2299 Diving Medical Examination Forms
-25 | AS 2375-1980 | Guide to the selection, care and use of clothing for protection against heat and fire | 3.33
+25 | AS/NZS ISO 2800: 2008 | Clothing for protection against heat and flame — General recommendations for selection, use, care and maintenance | 3.33
 26 | AS 2397-1993 | Safe use of lasers in the building and construction industry | 4.49
 27 | AS 2444-2001 | Portable fire extinguishers and fire blankets — Selection and location | 3.9
 28 | AS 2550 | Cranes — Safe use | 4.54
@@ -131,7 +131,7 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
 30 | AS 2601-2001 | Demolition of structures | 3.119, 3.120, 3.122, 3.123, 3.124, 3.125
 31 | AS/NZS 2604:1998 | Sunscreen products — Evaluation and classification | 3.33
 32 | AS/NZS 2865:2001 | Safe working in a confined space | 3.85
-33 | AS 2971-2002 | Serially produced pressure vessels | Sch. 4.2
+33 | AS 2971-2007 | Serially produced pressure vessels | Sch. 4.2
 34 | AS 2985-2004 | Workplace atmospheres — Method for sampling and gravimetric determination of respirable dust | 3.37
 35 | AS/NZS 3000:2007 | Electrical installations (known as the Australian/New Zealand Wiring Rules) | 3.101, 4.27
 36 | AS/NZS 3012:2003 | Electrical installations — Construction and demolition sites | 3.58, 3.60, 3.61, 3.62, 3.63, 3.64
@@ -146,7 +146,7 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
  | AS 3533.4.1-2005 | Amusement rides and devices — Specific requirements — Land-borne inflatable devices
 40 | AS 3640-2004 | Workplace atmospheres — Method for sampling and gravimetric determination of inhalable dust | 3.37
 41 | AS 3765-1990 | Clothing for protection against hazardous chemicals | 3.33
-42 | AS/NZS 3788:2001 | Pressure equipment — In-service inspection | 4.43
+42 | AS/NZS 3788:2006 | Pressure equipment — In-service inspection | 4.43
 43 | AS 3850-2003 | Tilt-up concrete construction | 3.88, 3.88B, 3.88C, 3.88D, 3.88E
 44 | AS 3873-2001 | Pressure equipment — Operation and maintenance | 4.43
 45 | AS 3892-2001 | Pressure equipment — Installation | 4.43
@@ -157,4 +157,4 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
 48 | AS 4343-2005 | Pressure equipment — Hazard levels | 4.1, Sch. 4.1, Sch. 4.2, Sch. 4.3
 49 | AS/NZS 4431:1996 | Guidelines for safe working on new lift installations in new constructions | 4.57
 50 | AS/NZS 4576:1995 | Guidelines for scaffolding | 3.26
-[Schedule 1 inserted in Gazette 28 Nov 2008 p. 5032-41; amended in Gazette 5 Jun 2009 p. 1880-1.]
+[Schedule 1 inserted in Gazette 28 Nov 2008 p. 5032-41; amended in Gazette 5 Jun 2009 p. 1880-1; 15 Jan 2010 p. 75.]

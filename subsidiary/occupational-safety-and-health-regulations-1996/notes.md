@@ -64,11 +64,12 @@ Occupational Safety and Health Amendment Regulations (No. 6) 2009 | 23 Jun 2009 
 Occupational Safety and Health Amendment Regulations (No. 4) 2009 | 31 Jul 2009 p. 3032-4 | r. 1 and 2: 31 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2009 (see r. 2(b))
 Reprint 7: The Occupational Safety and Health Regulations 1996 as at 3 Aug 2009 (includes amendments listed above)
 Occupational Safety and Health Amendment Regulations (No. 5) 2009 | 25 Aug 2009 p. 3312-13 | r. 1 and 2: 25 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Aug 2009 (see r. 2(b))
+Occupational Safety and Health Amendment Regulations (No. 7) 2009 | 15 Jan 2010 p. 74-5 | r. 1 and 2: 15 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jan 2010 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Occupational Safety and Health Amendment Regulations (No. 3) 2009 r. 3-17 | 22 Dec 2009 p. 5233-50 | 1 Mar 2010 (see r. 2(b))
-Repealed by the Medical Practitioners Act 2008.
+Footnote no longer applicable.
 Repealed by the Training Legislation Amendment and Repeal Act 2008.
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 10, a reference in a written law to a Local Court is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court.
