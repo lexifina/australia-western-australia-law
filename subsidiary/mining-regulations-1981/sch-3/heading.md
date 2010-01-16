@@ -1,3 +1,3 @@
-## Third Schedule — Transitional provisions relating to Geocentric Datum of Australia
+## Schedule 3 — Transitional provisions relating to Geocentric Datum of Australia
 [r. 89A]
-[Heading inserted in Gazette 15 Dec 2000 p. 7220.]
+[Heading inserted in Gazette 15 Jan 2010 p. 135.]

@@ -107,6 +107,7 @@ Reprint 7: The Mining Regulations 1981 as at 5 Oct 2007 (includes amendments lis
 Mining Amendment Regulations (No. 2) 2008 | 20 Jun 2008 p. 2728-31 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Mining Amendment Regulations 2008 | 1 Aug 2008 p. 3455-6 | r. 1 and 2: 1 Aug 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 2 Aug 2008 (see r. 2(b) and Gazette 1 Aug 2008 p. 3455)
 Mining Amendment Regulations (No. 2) 2009 | 12 Jun 2009 p. 2131-3 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Mining Amendment Regulations 2009 | 15 Jan 2010 p. 97-136 | r. 1 and 2: 15 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jan 2010 (see r. 2(b))
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Mines or to the Department of Minerals and Energy is, unless the contrary intention appears, to be read and construed as a reference to the Department of Industry and Resources.
