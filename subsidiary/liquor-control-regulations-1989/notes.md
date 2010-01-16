@@ -74,6 +74,7 @@ Reprint 8: The Liquor Control Regulations 1989 as at 3 Jul 2009 (includes amendm
 Liquor Control Amendment Regulations (No. 3) 2009 | 24 Jul 2009 p. 2949 | r. 1 and 2: 24 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2009 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 4) 2009 | 24 Jul 2009 p. 2952 | r. 1 and 2: 24 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2009 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 7) 2009 | 20 Nov 2009 p. 4662-6 | r. 1 and 2: 20 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 8) 2009 | 15 Jan 2010 p. 70-2 | r. 1 and 2: 15 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jan 2010 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Commenced 7 May 2007.
 Now known as the Liquor Control Regulations 1989; citation changed (see note under r. 1).
@@ -84,6 +85,7 @@ The Liquor Control Amendment Regulations (No. 2) 2007 r. 12 could not have effec
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
+accredited higher education course18F(1)
 aged person8(2)
 aggregate amount24(2)
 alcohol based food essence4A(2)
@@ -101,6 +103,8 @@ course of instruction or training9A(10e)
 crowd controller18EB(3)
 current26(1ab)
 disabled person8(2)
+higher education course3A(1)
+higher education institution3A(1)
 host club9G
 hostel8(2)
 notional wholesale selling price3A(1)
