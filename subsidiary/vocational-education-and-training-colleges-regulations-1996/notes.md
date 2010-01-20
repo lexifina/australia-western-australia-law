@@ -30,6 +30,7 @@ Vocational Education and Training Amendment Regulations (No. 2) 2009 | 22 May 20
 Vocational Education and Training (Colleges) Amendment Regulations 2009 | 26 Jun 2009 p. 2565-8 | r. 1 and 2: 26 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 4: The Vocational Education and Training (Colleges) Regulations 1996 as at 7 Aug 2009 (includes amendments listed above)
 Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2009 | 18 Dec 2009 p. 5172-5 | r. 1 and 2: 18 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2009 (see r. 2(b))
+Vocational Education and Training (Colleges) Amendment Regulations 2010 | 19 Jan 2010 p. 141-7 | r. 1 and 2: 19 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Jan 2010 (see r. 2(b))
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 of the Commonwealth.
 Formerly referred, incorrectly, to the Student and Youth Allowances Act 1973 of the Commonwealth. The correct short title of the Act was the Student and Youth Assistance Act 1973. That short title was changed to the Student Assistance Act 1973 by the Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 of the Commonwealth. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Now known as the Vocational Education and Training (Colleges) Regulations 1996; citation changed (see note under r. 1).
@@ -54,6 +55,10 @@ concessional student3(1)
 course3(1), 5
 hours3(1)
 Job Services Australia provider14(1)
+payment period24A
+payment plan13C(1)
+pro rata refund24A
 the seal book31(1)
 unemployed person14(1)
+unforseen circumstances24A
 unit3(1)
