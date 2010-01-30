@@ -41,6 +41,7 @@ Reprint 5: The Spent Convictions Act 1988 as at 1 Jun 2007 (includes amendments 
 Police Amendment Act 2008 s. 19 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
 Security and Related Activities (Control) Amendment Act 2008 s. 82 | 4 of 2008 | 2 Apr 2008 | 13 Dec 2009 (see s. 2 and Gazette 4 Dec 2009 p. 4919)
 Spent Convictions (Act Amendment) Regulations 2009 published in Gazette 18 Aug 2009 p. 3238-9 | r. 1 and 2: 18 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2009 (see r. 2(b))
+Spent Convictions (Act Amendment) Regulations (No. 2) 2009 published in Gazette 29 Jan 2010 p. 197-9 | r. 1 and 2: 29 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2010 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
