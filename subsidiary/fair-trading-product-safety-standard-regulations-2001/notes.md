@@ -24,6 +24,7 @@ Fair Trading (Product Safety Standard) Amendment Regulations (No. 2) 2008 | 27 J
 Fair Trading (Product Safety Standard) Amendment Regulations (No. 3) 2008 | 22 Aug 2008 p. 3659-67 | r. 1 and 2: 22 Aug 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Aug 2008 (see r. 2(b))
 Reprint 3: The Fair Trading (Product Safety Standard) Regulations 2001 as at 28 Nov 2008 (includes amendments listed above)
 Fair Trading (Product Safety Standard) Amendment Regulations (No. 4) 2008 | 30 Dec 2008 p. 5634-9 | r. 1 and 2: 30 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2008 (see r. 2(b))
+Fair Trading (Product Safety Standard) Amendment Regulations (No. 2) 2009 | 2 Feb 2010 p. 224-6 | r. 1 and 2: 2 Feb 2010 (see r. 2(a)); r. 3 and 4: 3 Feb 2010 (see r. 2(b)); r. 5 and 6: 3 Feb 200 (see r. 2(c)(ii))
 The amendments in the Fair Trading (Product Safety Standard) Amendment Regulations 2002 (published in Gazette 26 Mar 2002 p. 1741-3) were not included because, before they came into operation, they were repealed by the Fair Trading (Product Safety Standard) Amendment Repeal Regulations 2002 (see Gazette 23 Apr 2002 p. 2123-4).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -44,6 +45,7 @@ candle accessory54
 child carrying seat40
 child restraint58
 children’s nightwear and limited daywear having reduced fire hazard32
+children’s toys92
 child-resistant slide-fastener43
 cot47
 CPI number3(2)
@@ -78,4 +80,5 @@ spit or sputter2
 Statistician3(2)
 stopper64
 stroller61
+treadmill90
 young child2
