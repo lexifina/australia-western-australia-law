@@ -8,8 +8,8 @@ Standard Gauge Routes
 5.The track between West Kalgoorlie and Esperance.
 6.The track between Kambalda and Redmine.
 7.The track between Cockburn North and Robb Jetty.
-8.All tracks servicing the facilities of Co-operative Bulk Handling Limited on the standard gauge network except private sidings that are excluded by paragraph (h) of the definition of “railway infrastructure” in section 3.
-9.All spur line tracks servicing customer facilities on the standard gauge network except private sidings that are excluded by paragraph (h) of the definition of “railway infrastructure” in section 3.
+8.All tracks servicing the facilities of Co-operative Bulk Handling Limited on the standard gauge network except private sidings that are excluded by paragraph (h) of the definition of railway infrastructure in section 3.
+9.All spur line tracks servicing customer facilities on the standard gauge network except private sidings that are excluded by paragraph (h) of the definition of railway infrastructure in section 3.
 Narrow Gauge Routes
 10.The track between Kwinana and Mundijong Junction.
 11.The track between Mundijong Junction and Picton Junction.
@@ -43,14 +43,14 @@ Narrow Gauge Routes
 39.The track between Dongara and Eneabba South.
 40.The track between Narngulu and Maya.
 41.The track between Toodyay West and Miling.
-42.All tracks servicing the facilities of Co-operative Bulk Handling Limited on the narrow gauge network except private sidings that are excluded by paragraph (h) of the definition of “railway infrastructure” in section 3.
-43.All spur line tracks servicing customer facilities on the narrow gauge network except private sidings that are excluded by paragraph (h) of the definition of “railway infrastructure” in section 3.
+42.All tracks servicing the facilities of Co-operative Bulk Handling Limited on the narrow gauge network except private sidings that are excluded by paragraph (h) of the definition of railway infrastructure in section 3.
+43.All spur line tracks servicing customer facilities on the narrow gauge network except private sidings that are excluded by paragraph (h) of the definition of railway infrastructure in section 3.
 Dual Gauge Routes
 44.The track between Midland and Avon.
 45.The track between Midland and Kwinana and the western leg of the Woodbridge Triangle from Signal 94 to Woodbridge South.
 46.The track between Cockburn North and Cockburn East.
 47.The track between Cockburn North and Cockburn South.
-48.All spur line tracks servicing customer facilities on the dual gauge network except private sidings that are excluded by paragraph (h) of the definition of “railway infrastructure” in section 3.
+48.All spur line tracks servicing customer facilities on the dual gauge network except private sidings that are excluded by paragraph (h) of the definition of railway infrastructure in section 3.
 Urban Network
 49.The narrow gauge double tracks between Perth and —
 (a)Clarkson; and

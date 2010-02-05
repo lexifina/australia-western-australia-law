@@ -10,7 +10,7 @@
 8.Other services to be provided by the railway owner.
 9.Certification of the operator’s staff and contractors —
 (a)as being competent to carry out functions in rail operations; and
-(b)to ensure compliance with the railway owner’s safety standards under section 9 of the Rail Safety Act 1998.
+(b) to ensure compliance with the railway owner’s safety standards under section 9 of the Rail Safety Act 1998.
 10.The standards and other requirements to be met in respect of rolling stock.
 11.Performance standards to be met by the railway owner and the operator.
 12.The powers of the railway owner in relation to —
