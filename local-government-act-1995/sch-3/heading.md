@@ -31,8 +31,8 @@ which might result from cyclonic activity.
 11.Remove bees that are likely to endanger the safety of any person or create a serious public nuisance.
 12.Ensure that an unsightly, dilapidated or dangerous fence or gate that separates the land from land that is local government property is modified or repaired.
 13.Take specific measures to prevent —
-(a) artificial light being emitted from the land; or
-(b) natural or artificial light being reflected from something on the land,
+(a)artificial light being emitted from the land; or
+(b)natural or artificial light being reflected from something on the land,
 creating a nuisance.
 14.(1)Remove or make safe anything that is obstructing or otherwise prejudicially affecting a private thoroughfare so that danger to anyone using the thoroughfare is prevented or minimised.
 (2)In this item —
