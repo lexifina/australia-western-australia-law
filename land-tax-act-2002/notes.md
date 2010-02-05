@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Tax Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 February 2010 of the Land Tax Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Tax Act 2002 | 51 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -10,11 +10,11 @@ Revenue Laws Amendment Act (No. 3) 2005 Pt. 2 | 10 of 2005 | 29 Aug 2005 | 1 Jul
 Reprint 1: The Land Tax Act 2002 as at 4 Nov 2005 (includes amendments listed above)
 Revenue Laws Amendment Act 2006 Pt. 3 | 31 of 2006 | 4 Jul 2006 | 1 Jul 2006 (see s. 2(5))
 Revenue Laws Amendment (Taxation) Act 2007 Pt. 2 | 12 of 2007 | 29 Jun 2007 | 30 Jun 2007 (see s. 2(b))
-Revenue Laws Amendment Act 2008 Pt. 3 | 30 of 2008 | 27 Jun 2008 | 1 Jul 2008 (see s. 2(1)(c))
+Revenue Laws Amendment Act 2008 Pt. 3 | 30 of 2008 | 27 Jun 2008 | 1 Jul 2008 (see s. 2(1)(c)(i))
 Revenue Laws Amendment Act 2009 Pt. 2 | 3 of 2009 | 14 May 2009 | 1 Jul 2008 (see s. 2(b))
 Revenue Laws Amendment (Taxation) Act 2009 Pt. 3 | 19 of 2009 | 16 Sep 2009 | 1 Jul 2009 (see s. 2(b)(ii))
-Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 3 Div. 1 of those regulations read as follows:
-“
+Reprint 2: The Land Tax Act 2002 as at 5 Feb 2010 (includes amendments listed above)
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 (W.A.) s. 7, this Act is to be read and construed with certain modifications. The Commonwealth Places (Mirror Taxes Administration) Regulations 2007 (W.A.) r. 1-4 and Pt. 3 Div. 1 prescribe particular modifications and read as follows:
 1.Citation
 These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
 2.Commencement
@@ -42,14 +42,12 @@ This Division sets out modifications of the Land Tax Act 2002 in its application
 After section 4 the following section is inserted —
 “
 4A.Application of Act in non-Commonwealth places
-(1)In this Act, unless the contrary intention appears —
-(a)a reference to this Act is to be read as a reference to this Act in its application as a law of Western Australia; and
-(b)a reference to the Land Tax Assessment Act 2002 is to be read as a reference to that Act in its application as a law of Western Australia.
-(2)This Act is to be read with the applied Land Tax Act as a single body of law.
+(1) In this Act, unless the contrary intention appears —
+(a) a reference to this Act is to be read as a reference to this Act in its application as a law of Western Australia; and
+(b) a reference to the Land Tax Assessment Act 2002 is to be read as a reference to that Act in its application as a law of Western Australia.
+(2) This Act is to be read with the applied Land Tax Act as a single body of law.
 ”.
-”.
-Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. r. 1-5 and Pt. 3 Div. 1 of that notice read as follows:
-“
+Under the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 6(4), this Act has effect subject to any modifications under s. 8. Under s. 8(2) of that Act the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007 (Commonwealth) has been made and cl. 1-5 and Pt. 3 Div. 1 of it read as follows:
 1.Citation
 This notice is the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
 2.Commencement
@@ -90,5 +88,4 @@ After section 4 the following section is inserted —
 (3) In addition to being modified as prescribed by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007, this Act is deemed to be further modified to any extent that is necessary or convenient —
 (a) to enable this Act to operate effectively as a law of the Commonwealth; and
 (b) to ensure that the combined liability of a taxpayer under this Act and the corresponding Land Tax Act is as nearly as possible the same as the taxpayer’s liability would be under the corresponding Land Tax Act alone if the Commonwealth places in Western Australia were not Commonwealth places.
-”.
 ”.
