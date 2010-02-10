@@ -19,5 +19,5 @@ Column 1 Item | Column 2 Provision of Act | Column 3 Amount of prescribed fee ($
 15. | s. 86(1) | 17.00
 16. | s. 87(3) | 41.00
 17. | s. 111(2)(d) | 813.00
-18. | s. 141 | 120.00
-[Schedule 1 inserted in Gazette 23 Jun 2009 p. 2476.]
+18. | s. 141 | 115.00
+[Schedule 1 inserted in Gazette 23 Jun 2009 p. 2476; amended in Gazette 9 Feb 2010 p. 270.]

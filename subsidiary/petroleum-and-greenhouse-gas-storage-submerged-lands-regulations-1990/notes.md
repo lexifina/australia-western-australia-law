@@ -12,5 +12,6 @@ Petroleum (Submerged Lands) Amendment Regulations (No. 3) 2000 | 15 Dec 2000 p. 
 Petroleum (Submerged Lands) Amendment Regulations 2002 | 28 Jun 2002 p. 3092-4 | 1 Jul 2002 (see r. 2)
 Petroleum (Submerged Lands) Amendment Regulations 2003 | 28 Feb 2003 p. 673-5 | 28 Feb 2003
 Petroleum (Submerged Lands) Amendment Regulations 2009 | 23 Jun 2009 p. 2474-7 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Petroleum (Submerged Lands) Amendment Regulations 2010 | 9 Feb 2010 p. 270 | r. 1 and 2: 9 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jul 2010 (see r. 2(b))
 Division 4A (sections 74A to 74I) of the Petroleum (Submerged Lands) Act 1982 was repealed by the Acts Amendment and Repeal (Native Title) Act 1995 (No. 52 of 1995).
 Commencement day was 16 December 2000 (see Gazette 15 December 2000 p. 7201).
