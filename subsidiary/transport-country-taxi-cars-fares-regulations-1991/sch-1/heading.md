@@ -2,4 +2,4 @@
 [r. 3]
 [Heading inserted in Gazette 21 Dec 2007 p. 6330.]
 ## Division 1 — Goldfields region
-[Heading inserted in Gazette 21 Dec 2007 p. 6330.]
+[Heading inserted in Gazette 9 Feb 2010 p. 272.]

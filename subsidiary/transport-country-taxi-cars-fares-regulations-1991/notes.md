@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 February 2009 of the Country Taxi-cars (Fares and Charges) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Country Taxi-cars (Fares and Charges) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Country Taxi-cars (Fares and Charges) Regulations 1991 | 19 Apr 1991 p. 1815-20 | 19 Apr 1991
@@ -32,6 +32,7 @@ Country Taxi-cars (Fare and Charges) Amendment Regulations 2007 | 21 Dec 2007 p.
 Country Taxi-cars (Fare and Charges) Amendment Regulations 2008 | 31 Jul 2008 p. 3437-48 | r. 1 and 2: 31 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2008 (see r. 2(b))
 Country Taxi-cars (Fares and Charges) Amendment Regulations (No. 2) 2008 | 17 Dec 2008 p. 5335-46 | r. 1 and 2: 17 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2008 (see r. 2(b))
 Reprint 2: The Country Taxi-cars (Fares and Charges) Regulations 1991 as at 6 Feb 2009 (includes amendments listed above)
+Country Taxi-cars (Fares and Charges) Amendment Regulations 2010 | 9 Feb 2010 p. 272-81 | r. 1 and 2: 9 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Feb 2010 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
 If immediately before commencement of the Courts Legislation Amendment and Repeal Act 2004 Pt. 2 Div. 2, a person held office under the Local Courts Act 1904 s. 13 as a clerk, then on commencement the person is taken under the Courts Legislation Amendment and Repeal Act 2004 s. 6(1) to have been appointed as a registrar of the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
