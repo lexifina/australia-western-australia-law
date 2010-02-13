@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 October 2008 of the Trustee Companies Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Trustee Companies Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Trustee Companies Act 1987 | 111 of 1987 | 19 Dec 1987 | s. 1 and 2: 19 Dec 1987; Act other than s. 1 and 2: 1 Sep 1988 (see s. 2 and Gazette 26 Aug 1988 p. 3271)
@@ -24,6 +24,7 @@ Trustee Companies (Designation of Trustee Companies) Regulations 2006 published 
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
 Public Trustee and Trustee Companies Legislation Amendment Act 2008 Pt. 3 | 9 of 2008 | 31 Mar 2008 | 1 Jul 2008 (see s. 2(2) and Gazette 24 Jun 2008 p. 2885)
 Reprint 3: The Trustee Companies Act 1987 as at 10 Oct 2008 (includes amendments listed above)
+Trustee Companies (Designation of Trustee Companies) Regulations 2010 published in Gazette 12 Feb 2010 p. 591 | r. 1 and 2: 12 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Feb 2010 (see r. 2(b))
 Repealed by the Revenue Laws Amendment and Repeal Act 2004.
 Repealed by the Unclaimed Money Act 1990.
 Defined Terms
