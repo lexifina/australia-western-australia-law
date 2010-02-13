@@ -9,4 +9,5 @@ Perpetual Limited (ACN 000 431 827).
 Perpetual Trustees Consolidated Limited (ACN 004 029 841).
 Perpetual Trustees W.A. Ltd (ACN 008 666 886).
 Plan B Trustees Limited (ACN 054 737 156).
-[Schedule 1 inserted in Gazette 21 Mar 2006 p. 1083.]
+Trust Company Limited (ACN 004 027 749)
+[Schedule 1 inserted in Gazette 21 Mar 2006 p. 1083; amended in Gazette 12 Feb 2010 p. 591.]
