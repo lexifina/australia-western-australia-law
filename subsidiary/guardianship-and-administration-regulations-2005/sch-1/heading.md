@@ -1,0 +1,257 @@
+## Schedule 1 — Enduring power of guardianship form
+[r. 6]
+[Heading inserted in Gazette 15 Sep 2009 p. 3584.]
+Enduring Power of Guardianship
+Notes: •To make an enduring power of guardianship, you must be 18 years of age or older and have full legal capacity. •A person who makes an enduring power of guardianship is called “the appointor”.
+This enduring power of guardianship is made under the Guardianship and Administration Act 1990 Part 9A on
+the .......................................... day of ...................................................... 20.....
+by .......................................................................................................................
+(appointor’s full name)
+of ........................................................................................................................
+(appointor’s residential address)
+born on ...............................................................................................................
+(appointor’s date of birth)
+This enduring power of guardianship has effect, subject to its terms, at any time I am unable to make reasonable judgments in respect of matters relating to my person.
+1.Appointment of enduring guardian(s)
+Notes for section 1: •You can only appoint a person to be your enduring guardian if that person is 18 years of age or older and has full legal capacity. •If you want to appoint only one person to be your enduring guardian, complete section 1A and cross out and initial section 1B. •If you want to appoint 2 people to be your joint enduring guardians, cross out and initial section 1A and complete section 1B. •If you want to appoint more than 2 people to be your joint enduring guardians, cross out and initial section 1A, complete section 1B for 2 of the people and include the details of the additional people in an attachment to this form. •Joint enduring guardians must make unanimous decisions.
+1A.Sole enduring guardian
+I appoint ................................................................................................………….
+(appointee’s full name)
+of ...........................................................................................................…………
+(appointee’s residential address)
+to be my enduring guardian.
+OR
+1B.Joint enduring guardians
+I appoint ................................................................................................…………
+(appointee’s full name)
+of ...........................................................................................................…………
+(appointee’s residential address)
+and ........................................................................................................…………
+(appointee’s full name)
+of ...........................................................................................................…………
+(appointee’s residential address)
+to be my joint enduring guardians.
+2.Appointment of substitute enduring guardian(s)
+Notes for section 2: •You may appoint one or more people (called “substitute enduring guardians”) to act instead of your sole enduring guardian or to act instead of one or more of your joint enduring guardians. •You can only appoint a person to be a substitute enduring guardian if that person is 18 years of age or older and has full legal capacity. •You must specify the circumstances in which the substitute enduring guardian(s) is (are) to act. For example — (a)if my sole enduring guardian A dies or becomes incapacitated, my substitute enduring guardian X is to be my sole enduring guardian; (b)if one of my joint enduring guardians B and C dies or becomes incapacitated, the remaining enduring guardian and my substitute enduring guardian Y are to be my joint enduring guardians. •If you do not want to appoint any substitute enduring guardians, cross out and initial section 2.
+I appoint ................................................................................................………….
+(appointee’s full name)
+of ...........................................................................................................………….
+(appointee’s residential address)
+to be my substitute enduring guardian in substitution
+of ...........................................................................................................………….
+(enduring guardian’s name)
+I appoint ................................................................................................………….
+(appointee’s full name)
+of ...........................................................................................................………….
+(appointee’s residential address)
+to be my substitute enduring guardian in substitution
+of ...........................................................................................................………….
+(enduring guardian’s name)
+My substitute enduring guardian(s) is (are) to be my enduring guardian(s) in the following circumstances:
+...............................................................................................................…………..
+...............................................................................................................………….
+...............................................................................................................…………..
+3.Death of joint enduring guardian
+Notes for section 3: •If you are appointing only one person to be your enduring guardian, cross out and initial sections 3A and 3B. •If you are appointing 2 or more people to be your joint enduring guardians and you want the surviving enduring guardian(s) to act if a joint enduring guardian dies, cross out and initial section 3B. •If you are appointing 2 or more people to be your joint enduring guardians but you do not want the surviving enduring guardian(s) to act if a joint enduring guardian dies, cross out and initial section 3A.
+3A.Surviving joint enduring guardians to act
+If one or more of my joint enduring guardians die, I want the surviving enduring guardian(s) to act.
+OR
+3B.Surviving joint enduring guardians not to act
+If one or more of my joint enduring guardians die, I do not want the surviving enduring guardian(s) to act.
+4.Functions of enduring guardian(s)
+Notes for section 4: •If you do not want to limit the functions that your enduring guardian(s) can perform, cross out and initial section 4B. •If you want to limit the functions that your enduring guardian(s) can perform, cross out and initial section 4A and complete section 4B. •If you do not want your enduring guardian(s) to perform a function specified in paragraphs (a) to (i) of section 4B, cross out and initial the paragraph. •If you want your enduring guardian(s) to perform a function that is not specified in paragraphs (a) to (i) of section 4B, specify the function in another paragraph. •Your enduring guardian(s) cannot perform any of the following functions on your behalf — (a)make decisions about your property or estate; (b)vote in an election; (c)make or change your will without an order from the Supreme Court; (d)consent to an adoption; (e)consent to your sterilisation without the State Administrative Tribunal’s consent; (f)consent to the marriage of a person who is under 18 years of age. •If you make an advance health directive that applies to any treatment, your enduring guardian(s) cannot consent or refuse consent on your behalf to that treatment.
+4A.All functions authorised
+I authorise my enduring guardian(s) to perform in relation to me all of the functions of an enduring guardian, including making all decisions about my health care and lifestyle.
+OR
+4B.Only specified functions authorised
+I authorise my enduring guardian(s) to perform in relation to me only the following functions —
+(a)decide where I am to live, whether permanently or temporarily;
+(b)decide with whom I am to live;
+(c)decide whether I should work and, if so, any matters related to my working;
+(d)consent, or refuse consent, on my behalf to any medical, surgical or dental treatment or other health care (including palliative care and life sustaining measures such as assisted ventilation and cardiopulmonary resuscitation);
+(e)decide what education and training I am to receive;
+(f)decide with whom I am to associate;
+(g)commence, defend, conduct or settle on my behalf any legal proceedings except proceedings relating to my property or estate;
+(h)advocate for, and make decisions about, which support services I should have access to;
+(i)seek and receive information on my behalf from any person, body or organisation;
+(j).............................................................……………........................
+...........................................................................………….............
+(k).........................................................................................…………
+.........................................................................................…………
+5.Circumstances in which enduring guardian(s) may act
+Notes for section 5: •If you do not want to limit the circumstances in which your enduring guardian(s) may act, cross out and initial section 5. •If you want to limit the circumstances in which your enduring guardian(s) may act, you must specify the circumstances. For example, for as long as my enduring guardian(s) live(s) in the same city or town as me.
+My enduring guardian(s) may act only in the following circumstances:
+...............................................................................................................……….
+...............................................................................................................……….
+...............................................................................................................……….
+6.Directions about how enduring guardian(s) to perform functions
+Notes for section 6: •If you do not want to include any directions about how your enduring guardian(s) is (are) to perform his/her (their) functions, cross out and initial section 6. •If you want to include any directions about how your enduring guardian(s) is (are) to perform his/her (their) functions, you must specify the directions. For example — (a)if I need to be moved into a residential care facility, do not move me into XYZ Nursing Home; (b)I would prefer to continue seeing my current GP, Dr C.D., for my general medical needs because she has been my GP for many years; (c)if possible, all of my children are to be consulted before any major decisions are made on my behalf.
+My enduring guardian(s) is (are) to perform his/her (their) functions in accordance with the following directions:
+...............................................................................................................………….
+...............................................................................................................………….
+...............................................................................................................………….
+Notes for appointor about signing and witnessing: •If you are physically incapable of signing this enduring power of guardianship, you can ask another person to sign for you. You must be present when the person signs for you. •Two (2) witnesses must be present when you sign this enduring power of guardianship or when another person signs for you. •Each of the witnesses must be 18 years of age or older and cannot be you, the person signing for you (if applicable) or an appointee. •At least one of the witnesses must be authorised to witness statutory declarations. For a list of people who are authorised to witness statutory declarations, see the Oaths, Affidavits and Statutory Declarations Act 2005. •The witnesses must also sign this enduring power of guardianship. Both witnesses must be present when each of them signs. You and the person signing for you (if applicable) must also be present when the witnesses sign.
+Signed by:
+...............................................................................................................………….
+(appointor’s signature)
+Witnessed by a person authorised to witness statutory declarations:
+...............................................................................................................…………..
+(authorised witness’s signature)
+...............................................................................................................…………..
+(authorised witness’s full name)
+...............................................................................................................………….
+(authorised witness’s address)
+...............................................................................................................………….
+(occupation of authorised witness)
+...............................................................................................................…………
+(date)
+and by another person:
+...............................................................................................................…………
+(other witness’s signature)
+...............................................................................................................…………
+(other witness’s full name)
+...............................................................................................................…………
+(other witness’s address)
+...............................................................................................................…………
+(date)
+Optional statement about advance health directive
+Notes about statement: •If you wish to indicate that you have made an advance health directive, put a tick (P) or cross (O) in the box next to the statement. •You do not have to say anything in this enduring power of guardianship about whether or not you have made an advance health directive. You can leave the box next to the statement blank.
+I have made an advance health directive£
+Notes for appointee(s) about signing and witnessing: •Each appointee must sign an acceptance to indicate the appointee’s acceptance of the appointment. •Two (2) witnesses must be present when an appointee signs the acceptance. •The appointor does not have to be present when an appointee signs the acceptance. •Each of the witnesses must be 18 years of age or older and cannot be the appointor, the person signing for the appointor (if applicable) or an appointee. •At least one of the witnesses must be authorised to witness statutory declarations. For a list of people who are authorised to witness statutory declarations, see the Oaths, Affidavits and Statutory Declarations Act 2005. •The witnesses must also sign the acceptance. Both witnesses must be present when each of them signs. The appointee must also be present when the witnesses sign. •The appointees can sign at the same time or at different times. Different witnesses can witness each appointee’s signature.
+Acceptance of appointment as enduring guardian
+I, ............................................................................................................…………
+(name of appointee)
+accept the appointment as an enduring guardian.
+Signed by:
+...............................................................................................................…………
+(appointee’s signature)
+...............................................................................................................…………
+(date)
+Witnessed by a person authorised to witness statutory declarations:
+...............................................................................................................…………
+(authorised witness’s signature)
+...............................................................................................................…………
+(authorised witness’s full name)
+...............................................................................................................…………
+(authorised witness’s address)
+...............................................................................................................…………
+(occupation of authorised witness)
+...............................................................................................................…………
+(date)
+and by another person:
+...............................................................................................................…………
+(other witness’s signature)
+...............................................................................................................…………
+(other witness’s full name)
+...............................................................................................................…………
+(other witness’s address)
+...............................................................................................................…………
+(date)
+Acceptance of appointment as enduring guardian
+I, ............................................................................................................…………
+(name of appointee)
+accept the appointment as an enduring guardian.
+Signed by:
+.................................................................................................................………
+(appointee’s signature)
+.................................................................................................................………
+(date)
+Witnessed by a person authorised to witness statutory declarations:
+.................................................................................................................………
+(authorised witness’s signature)
+.................................................................................................................………
+(authorised witness’s full name)
+.................................................................................................................………
+(authorised witness’s address)
+.................................................................................................................………
+(occupation of authorised witness)
+.................................................................................................................………
+(date)
+and by another person:
+.................................................................................................................………
+(other witness’s signature)
+.................................................................................................................………
+(other witness’s full name)
+.................................................................................................................………
+(other witness’s address)
+.................................................................................................................………
+(date)
+Acceptance of appointment as substitute enduring guardian
+I, ..............................................................................................................………
+(name of appointee)
+accept the appointment as a substitute enduring guardian.
+Signed by:
+.................................................................................................................………
+(appointee’s signature)
+.................................................................................................................………
+(date)
+Witnessed by a person authorised to witness statutory declarations:
+.................................................................................................................………
+(authorised witness’s signature)
+.................................................................................................................………
+(authorised witness’s full name)
+.................................................................................................................………
+(authorised witness’s address)
+.........................................................................................................…………....
+(occupation of authorised witness)
+.................................................................................................................………
+(date)
+and by another person:
+.................................................................................................................………
+(other witness’s signature)
+.................................................................................................................………
+(other witness’s full name)
+.................................................................................................................………
+(other witness’s address)
+.................................................................................................................………
+(date)
+Acceptance of appointment as substitute enduring guardian
+I, ..............................................................................................................………
+(name of appointee)
+accept the appointment as a substitute enduring guardian.
+Signed by:
+.................................................................................................................………
+(appointee’s signature)
+.................................................................................................................………
+(date)
+Witnessed by a person authorised to witness statutory declarations:
+.................................................................................................................………
+(authorised witness’s signature)
+.................................................................................................................………
+(authorised witness’s full name)
+.................................................................................................................………
+(authorised witness’s address)
+.................................................................................................................………
+(occupation of authorised witness)
+.................................................................................................................………
+(date)
+and by another person:
+.................................................................................................................………
+(other witness’s signature)
+.................................................................................................................………
+(other witness’s full name)
+.................................................................................................................………
+(other witness’s address)
+.................................................................................................................………
+(date)
+…………………………………………………………………………………
+Guardianship and Administration Act 1990 (GAA Act) s. 110B
+GAA Act s. 110D
+GAA Act s. 110B(a)
+GAA Act s. 110B(b)
+GAA Act s. 53(a) as applied by s. 110H(b)
+GAA Act s. 110C
+GAA Act s. 54 as applied by s. 110H(c)
+GAA Act s. 110G(1)
+GAA Act s. 110G(2)
+GAA Act s. 110G(1)
+GAA Act s. 110ZJ
+GAA Act s. 3(1), definitions of life sustaining measure, palliative care and treatment
+13GAA Act s. 110G(3)
+14GAA Act s. 110G(4)
+15GAA Act s. 110E(1)(b)
+16GAA Act s. 110E(1)(c) and (d) and (2)
+17Oaths, Affidavits and Statutory Declarations Act 2005 s. 12(6) and Sch. 2
+18GAA Act s. 110E(1)(e)
+19GAA Act s. 110E(1)(f) and (g) and (2)
+[Schedule 1 inserted in Gazette 15 Sep 2009 p. 3584-93; amended in Gazette 18 Dec 2009 p. 5169.]
