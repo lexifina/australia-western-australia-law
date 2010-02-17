@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 July 2008 of the Animal Welfare (General) Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Animal Welfare (General) Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Animal Welfare (General) Regulations 2003 | 4 Apr 2003 p. 1077-96 | 4 Apr 2003 (see r. 2 and Gazette 4 Apr 2003 p. 1023)
@@ -9,6 +9,7 @@ Animal Welfare (General) Amendment Regulations 2007 | 12 Jun 2007 p. 2720-1 | r.
 Animal Welfare (General) Amendment Regulations (No. 2) 2008 | 20 Jun 2008 p. 2719 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Jun 2008 (see r. 2(b))
 Animal Welfare (General) Amendment Regulations (No. 3) 2008 | 18 Jul 2008 p. 3330 | r. 1 and 2: 18 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jul 2008 (see r. 2(b))
 Reprint 1: The Animal Welfare (General) Regulations 2003 as at 21 Jul 2008 (includes amendments listed above)
+Animal Welfare (General) Amendment Regulations (No. 2) 2010 | 16 Feb 2010 p. 644-5 | r. 1 and 2: 16 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Feb 2010 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
