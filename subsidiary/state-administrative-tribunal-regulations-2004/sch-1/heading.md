@@ -1,4 +1,4 @@
-## Schedule 1 — Enabling Acts prescribed for the purposes of the definition of “vocational regulatory body”
+## Schedule 1 — Enabling Acts prescribed for the purposes of the definition of vocational regulatory body
 [r. 4]
 Architects Act 2004
 Boxing Control Act 1987
