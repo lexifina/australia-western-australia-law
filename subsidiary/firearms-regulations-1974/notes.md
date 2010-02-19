@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Firearms Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 February 2010 of the Firearms Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Firearms Regulations 1974 | 29 Mar 1974 p. 1056-76 | 1 Jul 1974 (see r. 1 and Gazette 29 Mar 1974 p. 1027)
@@ -71,29 +71,32 @@ Firearms Amendment Regulations (No. 2) 2006 | 12 Jan 2007 p. 53-4 | 12 Jan 2007
 Firearms Amendment Regulations 2007 | 29 Jun 2007 p. 3196-8 | r. 1 and 2: 29 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Firearms Amendment Regulations (No. 2) 2007 | 16 Nov 2007 p. 5721-78 | r. 1 and 2: 16 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Nov 2007 (see r. 2(b))
 Reprint 6: The Firearms Regulations 1974 as at 8 Feb 2008 (includes amendments listed above)
-Firearms Amendment Regulations 2008 | 24 Jun 2008 p. 2909-2910 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Firearms Amendment Regulations 2008 | 24 Jun 2008 p. 2909-10 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Firearms Amendment Regulations (No. 2) 2009 | 17 Apr 2009 p. 1324-5 | r. 1 and 2: 17 Apr 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Apr 2009 (see r. 2(b))
 Firearms Amendment Regulations 2009 | 23 Jun 2009 p. 2493-4 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Firearms Amendment Regulations (No. 3) 2009 | 17 Jul 2009 p. 2881-2 | r. 1 and 2: 17 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jul 2009 (see r. 2(b))
 Firearms Amendment Regulations (No. 4) 2009 | 6 Nov 2009 p. 4417-45 | r. 1 and 2: 6 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Nov 2009 (see r. 2(b))
+Reprint 7: The Firearms Regulations 1974 as at 19 Feb 2010 (includes amendments listed above)
+The Explosives and Dangerous Goods Act 1961 was repealed by the Dangerous Goods Safety Act 2004 s. 70.
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
-“
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 approvedSch. 3
+authorised person25A(1)
 barrel lengthSch. 3
 category2
 close associate6C(2)
-commissioned officer25(5)
+current firearm serviceability certificate2
 faceSch. 4 cl. 1(6)
 fee2
+firearm serviceability certificate25A(1)
+firearms safety test2
 Form2
+licence20(1)
 locking pointSch. 4 cl. 4(8)
 major firearm part18(1a)
-police district25(5)
 prescribed person6F(1)
 relevant financial interest6C(1)
 relevant position6C(1)
