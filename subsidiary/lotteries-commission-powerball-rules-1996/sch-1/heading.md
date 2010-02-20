@@ -1,7 +1,7 @@
 ## Schedule 1 — Calculating the total cost of entry — Powerball draw
 [r. 3 and 5]
 [Heading inserted in Gazette 6 Jun 2008 p. 2247.]
-The unit cost of entering a powerball draw is made up of a subscription of 60 cents per game and an agent’s component.
+The unit cost of entering a powerball draw up to and including the powerball draw numbered 719 is made up of a subscription of 60 cents per game and an agent’s component.
 The agent’s component is calculated as 9% of the total subscription amount for a particular week’s entry, rounded* (where necessary) to the nearest 5 cent multiple.
 ((G x $0.60) x .09 ® rounded) x W = T
 where —
@@ -37,4 +37,4 @@ Rounding not required
 Total cost of entry for one week=$16.35
 Total cost of entry for 10 weeks=$163.50
 * Rounding is calculated using the method known as “bankers rounding” or “round-to-even” rounding.
-[Schedule 1 inserted in Gazette 6 Jun 2008 p. 2247-9.]
+[Schedule 1 inserted in Gazette 6 Jun 2008 p. 2247-9; amended in Gazette 19 Feb 2010 p. 664.]
