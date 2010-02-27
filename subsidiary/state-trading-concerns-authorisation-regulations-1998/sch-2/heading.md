@@ -9,11 +9,12 @@ Disability Services Commission
 Fire and Emergency Services Authority of Western Australia
 Metropolitan Cemeteries Board
 Small Business Development Corporation
+Swan River Trust
 The Western Australian Government Railways Commission
 Western Australian Alcohol and Drug Authority
 Wheatbelt Development Commission
 WorkCover Western Australia Authority
-[Part 1 inserted in Gazette 18 Feb 2000 p. 917; amended in Gazette 20 Feb 2001 p. 1085; 22 Feb 2002 p. 766; 26 Feb 2002 p. 787; 3 Jan 2003 p. 12-13; 28 Mar 2003 p. 985; 1 Jul 2003 p. 2664; 28 Oct 2003 p. 4530; 15 Jul 2005 p. 3305; 13 Jul 2007 p. 3455; 23 May 2008 p. 1995.]
+[Part 1 inserted in Gazette 18 Feb 2000 p. 917; amended in Gazette 20 Feb 2001 p. 1085; 22 Feb 2002 p. 766; 26 Feb 2002 p. 787; 3 Jan 2003 p. 12-13; 28 Mar 2003 p. 985; 1 Jul 2003 p. 2664; 28 Oct 2003 p. 4530; 15 Jul 2005 p. 3305; 13 Jul 2007 p. 3455; 23 May 2008 p. 1995; 26 Feb 2010 p. 817.]
 ## Part 2 — Prescribed activities (regulation 5)
 Boards of public hospitals
 The provision by a hospital board of goods, information or intellectual property relating to the functions of that hospital board.
@@ -45,6 +46,11 @@ The provision by Small Business Development Corporation of —
 (a)goods, information, or intellectual property developed by the Corporation;
 (b)scientific, technical, educational, training, management, or advisory services; or
 (c)advertising opportunities.
+Swan River Trust
+The provision by the Swan River Trust of —
+(a)goods, information or intellectual property relating to the functions of the Trust; or
+(b)scientific, technical, educational, training, management or advisory services relating to the functions of the Trust; or
+(c)advertising opportunities or opportunities to participate in arrangements in the nature of advertising or having a purpose similar to advertising in connection with the functions of the Trust.
 The Western Australian Government Railways Commission
 The provision (in the State or elsewhere) by The Western Australian Government Railways Commission of training, management, or advisory services.
 Western Australian Alcohol and Drug Authority
@@ -58,4 +64,4 @@ The provision by the Wheatbelt Development Commission of —
 (c)advertising opportunities.
 WorkCover Western Australia Authority
 The sale, leasing or licensing by the WorkCover Western Australia Authority of intellectual property or software that is, or has been, developed to meet the operational requirements of the WorkCover Western Australia Authority.
-[Part 2 inserted in Gazette 18 Feb 2000 p. 917; amended in Gazette 20 Feb 2001 p. 1085; 22 Feb 2002 p. 766; 26 Feb 2002 p. 788; 3 Jan 2003 p. 13; 28 Mar 2003 p. 986; 1 Jul 2003 p. 2664; 28 Oct 2003 p. 4530-1; 15 Jul 2005 p. 3305; 13 Jul 2007 p. 3455; 23 May 2008 p. 1995.]
+[Part 2 inserted in Gazette 18 Feb 2000 p. 917; amended in Gazette 20 Feb 2001 p. 1085; 22 Feb 2002 p. 766; 26 Feb 2002 p. 788; 3 Jan 2003 p. 13; 28 Mar 2003 p. 986; 1 Jul 2003 p. 2664; 28 Oct 2003 p. 4530-1; 15 Jul 2005 p. 3305; 13 Jul 2007 p. 3455; 23 May 2008 p. 1995; 26 Feb 2010 p. 818.]

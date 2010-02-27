@@ -2,6 +2,7 @@
 [Heading inserted in Gazette 31 Aug 1999 p. 4241.]
 ## Part 1 — Prescribed financial entities (regulation 2)
 Commissioner for Equal Opportunity
+Department for Communities
 Department for Community Development
 Department for Planning and Infrastructure
 Department of Consumer and Employment Protection
@@ -13,16 +14,21 @@ Department of Justice
 Department of Treasury and Finance
 Department of Culture and the Arts
 Department of Premier and Cabinet
+Department of Transport
 Office of the Auditor General
 Office of the Public Sector Standards Commissioner
 Office of Water Regulation
 Western Australia Police Service
-[Part 1 inserted in Gazette 31 Aug 1999 p. 4241; amended in Gazette 21 Jan 2000 p. 346; 18 Feb 2000 p. 916 (correction in Gazette 29 Feb 2000 p. 996); 5 May 2000 p. 2140; 3 Nov 2000 p. 6109; 7 Jun 2002 p. 2733; 9 Aug 2002 p. 3856; 12 Nov 2002 p. 5468; 3 Jan 2003 p. 12; 13 Jun 2003 p. 2118; 30 Sep 2003 p. 4259; 24 Oct 2003 p. 4500; 19 Mar 2004 p. 916 and 917; 23 Mar 2004 p. 979; 1 Oct 2004 p. 4285; 15 Jul 2005 p. 3303-4; 12 Aug 2005 p. 3657; 22 Dec 2006 p. 5810; 13 Jul 2007 p. 3455; 23 May 2008 p. 1994.]
+[Part 1 inserted in Gazette 31 Aug 1999 p. 4241; amended in Gazette 21 Jan 2000 p. 346; 18 Feb 2000 p. 916 (correction in Gazette 29 Feb 2000 p. 996); 5 May 2000 p. 2140; 3 Nov 2000 p. 6109; 7 Jun 2002 p. 2733; 9 Aug 2002 p. 3856; 12 Nov 2002 p. 5468; 3 Jan 2003 p. 12; 13 Jun 2003 p. 2118; 30 Sep 2003 p. 4259; 24 Oct 2003 p. 4500; 19 Mar 2004 p. 916 and 917; 23 Mar 2004 p. 979; 1 Oct 2004 p. 4285; 15 Jul 2005 p. 3303-4; 12 Aug 2005 p. 3657; 22 Dec 2006 p. 5810; 13 Jul 2007 p. 3455; 23 May 2008 p. 1994; 26 Feb 2010 p. 819.]
 ## Part 2 — Prescribed activities (regulation 3)
 Commissioner for Equal Opportunity
 The provision by the Commissioner for Equal Opportunity of training services related to promoting the objects of the Equal Opportunity Act 1984.
+Department for Communities
+The sale by the Department for Communities of goods, information or intellectual property, relating to community development.
+The provision or sale by the Department for Communities of advertising opportunities or opportunities having a purpose similar to advertising, relating to community development.
+The provision by the Department for Communities of training, management or advisory services, relating to community development.
 Department for Community Development
-The sale by the Department for Community Development of goods, information, publications, or intellectual property, relating to community development.
+The sale by the Department for Community Development of goods, information or intellectual property, relating to community development.
 The provision or sale by the Department for Community Development of advertising opportunities or opportunities having a purpose similar to advertising, relating to community development.
 The provision by the Department for Community Development of training, management, or advisory services, relating to community development.
 Department for Planning and Infrastructure
@@ -64,6 +70,8 @@ The provision by the Department of Premier and Cabinet of —
 (a) goods, information, or intellectual property;
 (b) training, management, or advisory services; or
 (c) advertising opportunities, or opportunities to participate in arrangements having a purpose similar to advertising.
+Department of Transport
+The provision or sale by the Department of Transport of advertising opportunities, or opportunities to participate in arrangements in the nature of advertising or having a purpose similar to advertising, in relation to its activities
 Office of the Auditor General
 The provision by the Office of the Auditor General of information or intellectual property, and training, management or advisory services, relating to auditing, and other activities developed, or currently carried out, by the Office of the Auditor General.
 Office of the Public Sector Standards Commissioner
@@ -73,4 +81,4 @@ Office of Water Regulation
 The provision or sale by the Office of Water Regulation of goods, information, or publications as a part of, or incidental to, the hosting of a 4 day international conference between 29 September and 2 October 2003.
 Western Australia Police Service
 The provision by the Western Australia Police Service of goods, information or intellectual property, technical, educational, training, management or advisory services relating to services provided by or activities carried out by Western Australia Police Service.
-[Part 2 inserted in Gazette 31 Aug 1999 p. 4241-3; amended in Gazette 21 Jan 2000 p. 346; 18 Feb 2000 p. 916 (correction in Gazette 29 Feb 2000 p. 996); 5 May 2000 p. 2140; 3 Nov 2000 p. 6109; 5 Jan 2001 p. 126; 7 Jun 2002 p. 2733; 9 Aug 2002 p. 3856; 12 Nov 2002 p. 5468; 3 Jan 2003 p. 12; 13 Jun 2003 p. 2118-19; 30 Sep 2003 p. 4259; 24 Oct 2003 p. 4500; 19 Mar 2004 p. 916 and 917; 23 Mar 2004 p. 979; 1 Oct 2004 p. 4285; 15 Jul 2005 p. 3303 and 3304; 12 Aug 2005 p. 3657; 15 Nov 2005 p. 5620; 17 Mar 2006 p. 1028; 22 Dec 2006 p. 5810; 13 Jul 2007 p. 3455; 23 May 2008 p. 1994-5.]
+[Part 2 inserted in Gazette 31 Aug 1999 p. 4241-3; amended in Gazette 21 Jan 2000 p. 346; 18 Feb 2000 p. 916 (correction in Gazette 29 Feb 2000 p. 996); 5 May 2000 p. 2140; 3 Nov 2000 p. 6109; 5 Jan 2001 p. 126; 7 Jun 2002 p. 2733; 9 Aug 2002 p. 3856; 12 Nov 2002 p. 5468; 3 Jan 2003 p. 12; 13 Jun 2003 p. 2118-19; 30 Sep 2003 p. 4259; 24 Oct 2003 p. 4500; 19 Mar 2004 p. 916 and 917; 23 Mar 2004 p. 979; 1 Oct 2004 p. 4285; 15 Jul 2005 p. 3303 and 3304; 12 Aug 2005 p. 3657; 15 Nov 2005 p. 5620; 17 Mar 2006 p. 1028; 22 Dec 2006 p. 5810; 13 Jul 2007 p. 3455; 23 May 2008 p. 1994-5; 26 Feb 2010 p. 819.]
