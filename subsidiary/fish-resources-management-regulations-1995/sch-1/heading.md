@@ -23,13 +23,7 @@ For variation | 453.00
 For transfer | 453.00
 For variation | 453.00
 3.Commercial fishing licence, grant or renewal (reg. 122) | 82.00
-4.Recreational fishing licence, grant, variation or renewal (reg. 124) —
-(a)Fishing for rock lobster | 38.00
-(b)Fishing for marron | 26.00
-(c)Fishing for abalone | 44.00
-(d)Fishing for all freshwater fish (other than crustaceans) in waters south of 29 degrees south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 26.00
-(e)Fishing by means of a fishing net | 31.00
-(f)All the activities specified in paragraphs (a) to (e) endorsed on one licence | 87.00
+[4.deleted]
 5.Rock lobster pot licence, grant or renewal (reg. 126) | 82.00
 For transfer | 310.00
 6.Application for authority to use another boat (reg. 132) | 453.00
@@ -68,7 +62,7 @@ For variation | 393.00
 For renewal | 70.00
 For transfer | 393.00
 For variation | 393.00
-[Part 2 inserted in Gazette 9 Jun 2009 p. 1913-14.]
+[Part 2 inserted in Gazette 9 Jun 2009 p. 1913-14; amended in Gazette 12 Feb 2010 p. 586.]
 ## Part 3 — Fees for the grant or renewal of authorisations
 [reg. 137]
 [Heading inserted in Gazette 9 Jun 2009 p. 1915.]
@@ -179,4 +173,11 @@ Fee | $
 (1)a boat 6.5 m or longer | 315.00
 (2)a boat shorter than 6.5 m | 85.00
 7.Tag authorising the possession of one pink snapper in the Freycinet Estuary | 10.00
-[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539.]
+8.Recreational fishing licence (r. 124) —
+(a)fishing for rock lobster | 40.00
+(b)fishing for marron | 40.00
+(c)fishing for abalone | 40.00
+(d)fishing for all freshwater fish (other than crustaceans) in waters south of 29 degrees south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 40.00
+(e)fishing by means of a fishing net | 40.00
+9.Recreational (boat) fishing licence (r. 124C) | 30.00
+[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7.]

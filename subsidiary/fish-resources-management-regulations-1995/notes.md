@@ -128,73 +128,12 @@ Fish Resources Management Amendment Regulations (No. 13) 2009 | 13 Oct 2009 p. 4
 Fish Resources Management Amendment Regulations (No. 16) 2009 | 5 Nov 2009 p. 4411-15 | r. 1 and 2: 5 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Nov 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 4) 2009 | 6 Nov 2009 p. 4470-1 | r. 1 and 2: 6 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Nov 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 18) 2009 | 8 Dec 2009 p. 4993-8 (Printer’s correction in Gazette 15 Dec 2009 p. 5140) | r. 1 and 2: 8 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Dec 2009 (see r. 2(b))
+Fish Resources Management Amendment Regulations 2010 | 12 Feb 2010 p. 584-7 | r. 1 and 2: 12 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Mar 2010 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 2) 2010 | 12 Feb 2010 p. 587-8 | r. 1 and 2: 12 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Feb 2010 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Fish Resources Management Amendment Regulations 2010 r. 3-10 | 12 Feb 2010 p. 584-7 | 2 Mar 2010 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
-On the date as at which this compilation was prepared, the Fish Resources Management Amendment Regulations 2010 r. 3-10 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Fish Resources Management Regulations 1995.
-4.Part 11 Division 2 Subdivision 1 heading inserted
-At the beginning of Part 11 Division 2 insert:
-Subdivision 1 — Recreational fishing licence
-5.Regulation 123 amended
-Delete regulation 123(3).
-6.Part 11 Division 2 Subdivision 2 inserted
-At the end of Part 11 Division 2 insert:
-Subdivision 2 — Recreational (boat) fishing licence
-124B.Recreational (boat) fishing licence
-(1) In this regulation —
-boat means a vessel propelled by a motor.
-(2) A person who fishes by use of a boat must hold a recreational (boat) fishing licence unless —
-(a) the person is not required to hold a recreational (boat) fishing licence under subregulation (3); or
-(b) the person is not required to hold a recreational (boat) fishing licence under subregulation (5); or
-(c) the person is fishing for a commercial purpose; or
-(d) the person is an Aboriginal person not required to hold a recreational fishing licence under section 6 of the Act.
-Penalty: a fine of $2 000.
-(3) A person (an unlicensed person) is not required to hold a recreational (boat) fishing licence to fish by use of a boat if the unlicensed person is fishing with another person who holds a recreational (boat) fishing licence.
-(4) For the purposes of determining whether a bag limit has been exceeded, any fish taken by an unlicensed person when fishing under the authority conferred by subregulation (3) are to be regarded as having been taken by the other person who holds a recreational (boat) fishing licence.
-(5) A person is not required to hold a recreational (boat) fishing licence to fish by use of a boat if the person in doing so engages only in an activity set out in the Table to regulation 124 for which the person holds a recreational fishing licence specifying that the person may engage in that activity.
-(6) This regulation does not limit the operation of regulation 123.
-124C.Grant of recreational (boat) fishing licence
-If a person applies to the CEO, the CEO may grant to the person a recreational (boat) fishing licence.
-7.Regulation 136 amended
-(1) At the beginning of regulation 136 insert:
-(1) In this regulation —
-recreational fishing licence includes a recreational (boat) fishing licence applied for under regulation 124C.
-(2) In regulation 136 delete “Where” and insert:
-(2) Where
-8.Regulation 137 amended
-After regulation 137(5) insert:
-(6) If —
-(a) an application is made under regulation 124; and
-(b) the application relates to 2 or more of the activities set out in the Table to that regulation,
-the fees set out in Schedule 1 Part 3 item 8 to be paid in respect of the grant of the recreational fishing licence are each to be reduced by 10%.
-(7) Subregulation (8) applies if —
-(a) an application is made by a person under regulation 124 relating to one or more of the activities set out in the Table to that regulation; and
-(b) at the same time an application is made by the person under regulation 124C.
-(8) If this subregulation applies —
-(a) the fee or fees set out in Schedule 1 Part 3 item 8 to be paid in respect of the grant of the recreational fishing licence; and
-(b) the fee set out in Schedule 1 Part 3 item 9 to be paid in respect of the grant of the recreational (boat) fishing licence,
-are each to be reduced by 10%.
-9.Schedule 1 amended
-(1) Delete Schedule 1 Part 2 item 4.
-(2) At the end of Schedule 1 Part 3 insert:
-8.Recreational fishing licence (r. 124) —
-(a)fishing for rock lobster | 40.00
-(b)fishing for marron | 40.00
-(c)fishing for abalone | 40.00
-(d)fishing for all freshwater fish (other than crustaceans) in waters south of 29 degrees south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 40.00
-(e)fishing by means of a fishing net | 40.00
-9.Recreational (boat) fishing licence (r. 124C) | 30.00
-10.Schedule 12 amended
-In Schedule 12 Part 2 item 3 after “123(1),” insert:
-124B(2),
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -212,6 +151,7 @@ attend64B, 64M
 automatic location communicator55A
 bag limit3(1)
 bait fish64OE(4)
+boat124B
 bona fide64I(2)
 Broome area64ZJ
 Broome area waters64ZJ
@@ -293,7 +233,7 @@ prawn hand trawl net3(1)
 prescribed abalone17(2)
 principal place of residence3(1)
 pull3(1)
-recreational fishing licence3(1)
+recreational fishing licence3(1), 136(1)
 recreational fishing licence receipt124A(1)
 region3(1)
 release weight64OAA
@@ -326,6 +266,7 @@ the full amount outstanding of the fee137(5)
 the GDA152(1)
 the package61(3a)
 unauthorised structure87
+unlicensed person124B
 usual entitlement118A(2)
 waters of Point Quobba113D
 waters of Shark Bay3(1)
