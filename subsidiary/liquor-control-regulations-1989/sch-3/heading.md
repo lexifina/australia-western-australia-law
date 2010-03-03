@@ -38,7 +38,7 @@ Item | Description | Fee $ | Electronic lodgment fee $
  | (b)for a period of 21 days or less — for each day.............. | 100 (up to a max. of 1 000)
 16. | Application to add, vary or cancel condition of club restricted licence | 40
 17. | Application under section 62(6) to vary any plans or specifications the subject of a condition | 240 | 215
-18. | Application for approval of agreement or arrangement | 200
+18. | Application for approval of agreement or arrangement ……………………………… and for each person who is a party to the agreement or arrangement and in relation to whom a background check is sought from the Police Service …...……………... | 200 140
 19. | Application under section 126A for approval of entertainment for juveniles on licensed premises | 60
 20. | Application for Proof of Age Card | 25
 21. | Supply of a list of licensed premises or a list of owners of licensed premises | 80
@@ -56,4 +56,4 @@ Item | Description | Fee $ | Electronic lodgment fee $
 33. | For a search of postcodes —
  | (a)1 to 10 postcodes | 35
  | (b)more than 10 postcodes | 75
-[Schedule 3 inserted in Gazette 20 Nov 2009 p. 4663-6.]
+[Schedule 3 inserted in Gazette 20 Nov 2009 p. 4663-6; amended in Gazette 2 Mar 2010 p. 834.]
