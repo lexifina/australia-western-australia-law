@@ -5,11 +5,9 @@ Form 1Certificate of Participation of applicant in Compensation Scheme
 WESTERN AUSTRALIA
 TRAVEL AGENTS ACT 1985
 TRAVEL AGENTS REGULATIONS 1986
-CERTIFICATE OF
-PARTICIPATION IN COMPENSATION SCHEME
-(TRAVEL AGENTS COMPENSATION FUND)
-This is to certify that....................................................................................................
-of..................................................................................................................................
+CERTIFICATE OF PARTICIPATION IN COMPENSATION SCHEME (TRAVEL AGENTS COMPENSATION FUND)
+This is to certify that...............................................................................................
+of.............................................................................................................................
 is a participant in the Compensation Scheme referred to in the Travel Agents Act 1985 and otherwise known as the Travel Agents Compensation Fund.
 Dated...................................
 .........................................................
@@ -20,9 +18,9 @@ Form 2Infringement notice
 Travel Agents Act 1985 Infringement notice | Infringement notice no.
 Alleged offender | Name:Family name
 Given names
-orCompany name ____________________________________ ACN
-Address ________________________________________________ Postcode
-Alleged offence | Description of offence _____________________________________
+orCompany name _________________________________ ACN
+Address ______________________________________________ Postcode
+Alleged offence | Description of offence __________________________________
 Travel Agents Act 1985 s.
 Date//20Timea.m./p.m.
 Modified penalty $
@@ -38,11 +36,11 @@ Form 3Withdrawal of infringement notice
 Travel Agents Act 1985 Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name:Family name
 Given names
-orCompany name _____________________________________ ACN
-Address _________________________________________________ Postcode
+orCompany name _____________________________ ACN
+Address __________________________________________ Postcode
 Infringement notice | Infringement notice no.
 Date of issue //20
-Alleged offence | Description of offence _____________________________________
+Alleged offence | Description of offence ______________________________
 Travel Agents Act 1985 s.
 Date//20Timea.m./p.m.
 Officer withdrawing notice | Name
