@@ -19,8 +19,7 @@ Article 2
 2The Convention covers only adoptions which create a permanent parent-child relationship.
 Article 3
 The Convention ceases to apply if the agreements mentioned in Article 17, sub-paragraph c, have not been given before the child attains the age of eighteen years.
-CHAPTER II — REQUIREMENTS FOR INTERCOUNTRY
-ADOPTIONS
+CHAPTER II — REQUIREMENTS FOR INTERCOUNTRY ADOPTIONS
 Article 4
 An adoption within the scope of the Convention shall take place only if the competent authorities of the State of origin —
 ahave established that the child is adoptable;
@@ -125,7 +124,7 @@ athe legal parent-child relationship between the child and his or her adoptive p
 bparental responsibility of the adoptive parents for the child;
 cthe termination of a pre-existing legal relationship between the child and his or her mother and father, if the adoption has this effect in the Contracting State where it was made.
 2In the case of an adoption having the effect of terminating a pre-existing legal parent-child relationship, the child shall enjoy in the receiving State, and in any other Contracting State where the adoption is recognised, rights equivalent to those resulting from adoptions having this effect in each such State.
-3The preceeding paragraphs shall not prejudice the application of any provision more favourable for the child, in force in the Contracting State which recognises the adoption.
+3The preceding paragraphs shall not prejudice the application of any provision more favourable for the child, in force in the Contracting State which recognises the adoption.
 Article 27
 1Where an adoption granted in the State of origin does not have the effect of terminating a pre-existing legal parent-child relationship, it may, in the receiving State which recognises the adoption under the Convention, be converted into an adoption having such an effect —
 aif the law of the receiving State so permits; and
