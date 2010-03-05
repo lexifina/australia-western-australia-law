@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the W.A. Marine (Radiotelephony) Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 March 2010 of the W.A. Marine (Radiotelephony) Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 W.A. Marine (Radiotelephony) Regulations 1981 | 27 Nov 1981 p. 4839-46 | 27 Nov 1981
@@ -25,7 +25,30 @@ W.A. Marine (Radiotelephony) Amendment Regulations 2005 | 24 Jun 2005 p. 2781-2 
 W.A. Marine (Radiotelephony) Amendment Regulations 2006 | 23 Jun 2006 p. 2213-14 | 1 Jul 2006 (see r. 2)
 Reprint 2: The W.A. Marine (Radiotelephony) Regulations 1981 as at 3 Nov 2006 (includes amendments listed above)
 W.A. Marine (Radiotelephony) Amendment Regulations 2007 | 12 Jun 2007 p. 2730-1 | 1 Jul 2007 (see r. 2)
-W.A. Marine (Radiotelephony) Amendment Regulations 2008 | 24 Jun 2008 p. 2897-8 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
-W.A. Marine (Radiotelephony) Amendment Regulations 2009 | 12 Jun 2009 p. 2128-9 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+W.A. Marine (Radiotelephony) Amendment Regulations 2008 | 24 Jun 2008 p. 2897-8 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+W.A. Marine (Radiotelephony) Amendment Regulations 2009 | 12 Jun 2009 p. 2128-9 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 W.A. Marine Amendment Regulations 2009 Pt. 10 | 11 Dec 2009 p. 5087-109 | 12 Dec 2009 (see r. 2(b))
-Repealed by r. 19 of these regulations.
+Reprint 3: The W.A. Marine (Radiotelephony) Regulations 1981 as at 5 Mar 2010 (includes amendments listed above)
+The Overseas Telecommunications Act 1946 (Cwlth.) was repealed by the Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991 (Cwlth. Act No. 99 of 1991) s. 24.
+The Wireless Telegraphy Act 1905 (Cwlth.) was repealed by the Radiocommunications (Transitional Provisions and Consequential Amendments) Act 1983(Cwlth. Act No. 136 of 1983) s. 4.
+Repealed by these regulations on 27 November 1981.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+at sea2(1)
+carrier frequency16(8)
+certificate of survey16(8)
+coast station2(1)
+Code19(1)
+installation2A
+limited coast station2(1)
+master2(1)
+NSCV19(1)
+radio surveyor2A
+radio watch2(1)
+seagoing ship2(1)
+silence periods2(1)
+survey2(1)
+temporary certificate16(8)
+the former regulations2(1)
+vessel19(1)
