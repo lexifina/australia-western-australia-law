@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 November 2009 of the Poisons Regulations 1965 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Poisons Regulations 1965 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Poisons Act Regulations 1965 | 29 Jun 1965 p. 1883-914 | 1 Jul 1965
@@ -147,6 +147,7 @@ Poisons Amendment Regulations 2009 | 15 Sep 2009 p. 3571-2 | r. 1 and 2: 15 Sep 
 Poisons Amendment Regulations (No. 3) 2009 | 15 Sep 2009 p. 3573-82 | r. 1 and 2: 15 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Sep 2009 (see r. 2(b))
 Poisons Amendment Regulations (No. 6) 2009 | 25 Sep 2009 p. 3746-7 | r. 1 and 2: 25 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2009 (see r. 2(b))
 Reprint 9: The Poisons Regulations 1965 as at 13 Nov 2009 (includes amendments listed above)
+Poisons Amendment Regulations (No. 2) 2010 | 5 Mar 2010 p. 845-7 | r. 1 and 2: 5 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2010 (see r. 2(b))
 Repealed by the Medical Practitioners Act 2008.
 Repealed by the Mental Health Act 1981 which was repealed by the Mental Health Act 1996.
 Repealed by the Nurses and Midwives Act 2006.
@@ -166,6 +167,7 @@ Defined TermProvision(s)
 access code32A(1)
 animal2(1)
 approved clinic51FA
+approved computer program51(1C)
 approved electronic prescribing system2(1)
 approved health service36AA(1)
 approved name35C(4), 36AA(1), 36AAB(1), 64(1)
@@ -216,6 +218,7 @@ Medical Board2(1)
 metropolitan region36AAB(1)
 new manager51FK
 new provisions69
+NIMC38A, 51AAA
 nominated co-prescriber51FA
 obstetrician2(1)
 old authorisation67(1)(b), 68(1)(b)
