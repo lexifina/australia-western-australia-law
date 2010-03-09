@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Cross-border Justice Act 2008. The following table contains information about that Act.
+This is a compilation of the Cross-border Justice Act 2008 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Cross-border Justice Act 2008 | 7 of 2008 | 31 Mar 2008 | s. 1 and 2: 31 Mar 2008 (see s.2(a)); Act other than s. 1, 2, 67(b), 68(2)(b) and (e), 108, 110, 117, 119, 137 and Pt. 15 Div. 1: 1 Nov 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991); s. 67(b), 68(2)(b) and (e), 108, 110, 117, 119, 137 and Pt. 15 Div. 1: 1 Dec 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991)
+Cross-border Justice Amendment Act 2010 | 1 of 2010 | 9 Mar 2010 | s. 1 and 2: 9 Mar 2010 (see s. 2(a)); Act other than s. 1 and 2: 9 Mar 2010 (see s. 2(b)(ii))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
