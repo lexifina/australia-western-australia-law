@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Duties Act 2008. The following table contains information about that Act.
+This is a compilation of the Duties Act 2008 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Duties Act 2008 | 11 of 2008 | 14 Apr 2008 | s. 1 and 2: 14 Apr 2008 (see s. 2(a)) Act other than s. 1 and 2: 1 Jul 2008 (see s. 2(b))
@@ -41,6 +41,8 @@ Section 277 is repealed.
 32.Schedule 2 Division 2 amended
 Schedule 2 Division 2 is amended by deleting the item relating to section 147.
 ”.
+Section 260 has a retrospective commencement date effective from 10 Mar 2010; see the Revenue Laws Amendment Act 2010 s. 5.
+Schedule 3 Division 4 has a retrospective commencement date effective from 10 Mar 2010; see the Revenue Laws Amendment Act 2010 s. 6.
 Section 70 has a retrospective amendment, commencement date effective from 1 Jul 2008; see the Revenue Laws Amendment and Repeal Act 2010 s. 12.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
