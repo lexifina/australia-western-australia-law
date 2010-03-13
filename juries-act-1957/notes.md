@@ -57,12 +57,12 @@ Police Amendment Act 2008 s. 14 and s. 23(4) | 8 of 2008 | 31 Mar 2008 | s. 14: 
 Legal Profession Act 2008 s. 669 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 Sch. 3 cl. 31 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 6: The Juries Act 1957 as at 5 Jun 2009 (includes amendments listed above)
+Police Amendment Act 2009 s. 20 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
-Police Amendment Act 2009 s. 20 | 42 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Juries Amendment Act 1984 s. 25 reads as follows:
@@ -70,17 +70,13 @@ The Juries Amendment Act 1984 s. 25 reads as follows:
 A certificate of permanent exemption issued or purporting to have been issued pursuant to section 34A(2) of the principal Act as in force before the day that this Act comes into operation and in force before that day shall continue to have effect for the purposes of the principal Act after that day and, notwithstanding anything in the principal Act, the person with respect to whom the certificate is issued is not liable to serve as a juror.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 contains savings and transitional provisions that are of no further effect.
 The Juries Amendment Act 2003 s. 5(2) is a savings provision that is of no further effect.
-On the date as at which this reprint was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) had not come into operation. It reads as follows:
 39.Second Schedule amended
 (1) The Second Schedule Part I item 2(i) is deleted and the following item is inserted instead —
 “
 (i) Officer or employee of the department of the Public Service principally assisting in the administration of this Act, other than an officer in the Public Trust Office;
 ”.
 The amendment to the Second Schedule, Pt. I it. (2)(i) in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) would not be included because the item it seeks to amend was repealed by the Prisons and Sentencing Legislation Amendment Act 2006 s. 66.
-On the date as at which this reprint was prepared, the Police Amendment Act 2009 s. 20 had not come into operation. It reads as follows:
-20.Juries Act 1957 amended
-(1) This section amends the Juries Act 1957.
-(2) In section 3(1) delete the definition of police officer.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -100,7 +96,6 @@ jury officer3(1)
 jury pool3(1)
 jury pool supervisor3(1)
 panel3(1)
-police officer3(1)
 pool precept3(1)
 prosecuting officer56A(1)
 protected information56A(1)

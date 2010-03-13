@@ -1,13 +1,13 @@
 Notes
-This is a compilation of the Food Act 2008. The following table contains information about that Act.
+This is a compilation of the Food Act 2008 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Food Act 2008 | 43 of 2008 | 8 Jul 2008 | s. 1 and 2: 8 Jul 2008 (see s. 2(1)(a)); s. 3-7, Pt. 2-7 and 9-14: 24 Oct 2009 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157)
+Police Amendment Act 2009 s. 18 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Food Act 2008 Pt. 8 | 43 of 2008 | 8 Jul 2008 | Pt 8 Div. 1 and 3: 23 Apr 2010 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157); Pt 8 Div. 2: 23 Oct 2010 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157)
-Police Amendment Act 2009 s. 18 | 42 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Food Act 2008 Pt. 8 had not come into operation. It reads as follows:
 Part 8 — Auditing
 Division 1 — Approval of food safety auditors
@@ -139,10 +139,6 @@ Penalty: a fine of $10 000.
 Penalty: a fine of $10 000.
 (3) A person must not threaten or intimidate a food safety auditor in the performance of the food safety auditor’s functions under this Act.
 Penalty: a fine of $10 000.
-On the date as at which this compilation was prepared, the Police Amendment Act 2009 s. 18 had not come into operation. It reads as follows:
-18.Food Act 2008 amended
-(1) This section amends the Food Act 2008.
-(2) In section 8 delete the definition of police officer.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -182,7 +178,6 @@ national guidelines120(3)
 offence128(1)
 officer128(1)
 package8
-police officer8
 premises8
 prescribed6(1), 126(1)
 primary food production8, 11(1), 11(2)

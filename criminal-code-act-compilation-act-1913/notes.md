@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 February 2010 of the Criminal Code and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Code and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Code Act Compilation Act 1913 | 28 of 1913 (4 Geo. V No. 28) | 30 Dec 1913 | 1 Jan 1914 (see s. 1)
@@ -158,11 +158,11 @@ Acts Amendment (Weapons) Act 2009 Pt. 2 | 34 of 2009 | 3 Dec 2009 | 4 Dec 2009 (
 Arson Legislation Amendment Act 2009 Pt. 3 | 43 of 2009 | 3 Dec 2009 | 19 Dec 2009 (see s. 2(b) and Gazette 18 Dec 2009 p. 5167)
 Criminal Code Amendment Act (No. 2) 2009 | 44 of 2009 | 3 Dec 2009 | Pt. 1: 3 Dec 2009 (see s. 2(a)); Act other than Pt. 1: 4 Dec 2009 (see s. 2(b))
 Reprint 15: The Criminal Code Act Compilation Act 1913 as at 19 Feb 2010 (includes amendments listed above)
+Police Amendment Act 2009 s. 14 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Police Amendment Act 2009 s. 14 | 42 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -202,17 +202,13 @@ repeal day means the day on which section 27 comes into operation.
 (4) If immediately before repeal day a warrant issued under The Criminal Code section 716 is in force but not executed, then, subject to the terms of the warrant, the warrant may be executed on or after repeal day and, if any person is found under it, then, despite section 716 and the warrant, the person must be released unless another written law provides to the contrary.
 (5) If immediately before repeal day a person is in possession of any thing seized or taken under The Criminal Code, then on repeal day, subject to any order previously made in respect of the thing under The Criminal Code section 714, the thing is to be taken to be seized property for the purposes of the Criminal and Found Property Disposal Act 2006 and that Act applies to and in respect of it accordingly.
 (6) If immediately before repeal day proceedings under The Criminal Code section 714A in respect of any property are pending in the Magistrates Court, then section 714A operates in respect of the property on and after repeal day despite its repeal on repeal day.
-On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 30 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 30 had not come into operation. It reads as follows:
 30.The Criminal Code amended
 (1) The amendments in this section are to The Criminal Code.
 (2) Section 190 is repealed.
 (3) Section 191 is repealed.
 (4) Section 557K(1) paragraph (h) of the definition of child sex offender is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
-On the date as at which this reprint was prepared, the Police Amendment Act 2009 s. 14 had not come into operation. It reads as follows:
-14.The Criminal Code amended
-(1) This section amends The Criminal Code.
-(2) In section 70A(1) delete the definition of police officer.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -339,7 +335,6 @@ person in authority70A(1)
 picture204B(1)
 place244(6), 254(1), 400(1)
 place of public entertainment68B(1)
-police officer70A(1)
 possession1(1)
 prescribed circumstances297(8), 318(5)
 prescribed offence321A(1)
