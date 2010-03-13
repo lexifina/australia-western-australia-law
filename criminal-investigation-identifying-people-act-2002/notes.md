@@ -12,18 +12,9 @@ Criminal Investigation (Consequential Provisions) Act 2006 Pt. 7 | 59 of 2006 | 
 Medical Practitioners Act 2008 Sch. 3 cl. 15 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Criminal Law Amendment (Homicide) Act 2008 s. 28 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Reprint 2: The Criminal Investigation (Identifying People) Act 2002 as at 18 Sep 2009 (includes amendments listed above)
+Police Amendment Act 2009 s. 16 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 8 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Police Amendment Act 2009 s. 16 | 42 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 Section 95 of this Act gave effect to Sch. 1 which set out some temporary provisions relating to obtaining and using identifying particulars of people in custody and others. These provisions ceased to have effect on 29 June 2005.
-On the date as at which this compilation was prepared, the Police Amendment Act 2009 s. 16 had not come into operation. It reads as follows:
-16.Criminal Investigation (Identifying People) Act 2002 amended
-(1) This section amends the Criminal Investigation (Identifying People) Act 2002.
-(2) In section 3(1) delete the definition of police officer.
-(3) In section 22(1) delete “III or IIIA” and insert:
-III, IIIA or IIIB
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -65,7 +56,6 @@ official details3(1)
 participating jurisdiction3(1), 87
 personal details3(1), 16(1)
 photograph3(1)
-police officer3(1)
 private parts3(1)
 protected person3(1)
 Public Advocate3(1)

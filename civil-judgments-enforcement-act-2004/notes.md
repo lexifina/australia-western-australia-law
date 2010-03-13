@@ -7,12 +7,12 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Acts Amendment (Justice) Act 2008 Pt. 3 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 645 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Reprint 1: The Civil Judgments Enforcement Act 2004 as at 20 Feb 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
+Police Amendment Act 2009 s. 13 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 20 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Co-operatives Act 2009 s. 507 and 512 | 24 of 2009 | 22 Oct 2009 | s. 507: to be proclaimed (see s. 2(b)); s. 512: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
-Police Amendment Act 2009 s. 13 | 42 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
 Part 22 — Transitional provisions
@@ -96,16 +96,6 @@ On the date as at which this compilation was prepared, the Co-operatives Act 200
 512.Civil Judgments Enforcement Act 2004 amended
 (1) This section amends the Civil Judgments Enforcement Act 2004.
 (2) In section 45 in paragraph (c) of the definition of financial institution delete “a society registered or deemed to be registered under the Co-operative and Provident Societies Act 1903, or”.
-On the date as at which this compilation was prepared, the Police Amendment Act 2009 s. 13 had not come into operation. It reads as follows:
-13.Civil Judgments Enforcement Act 2004 amended
-(1) This section amends the Civil Judgments Enforcement Act 2004.
-(2) In section 106 delete the definition of police officer.
-(3) In section 106 insert in alphabetical order:
-police office-holder means a person who holds an appointment made under the Police Act 1892 Part I, III, IIIA or IIIB;
-(4) In section 107(2)(c) delete “police officer,” and insert:
-police office-holder,
-(5) In section 109(6) delete “police officer)” and insert:
-police office-holder)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -150,7 +140,7 @@ original order103(1)
 partnership3
 personal property3
 place3
-police officer106
+police office-holder106
 proceeds72(1)
 property (seizure and delivery) order3
 property (seizure and sale) order3

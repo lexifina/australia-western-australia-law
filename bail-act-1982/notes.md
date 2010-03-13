@@ -52,12 +52,12 @@ Bail Amendment Act 2008 Pt. 2 | 6 of 2008 | 31 Mar 2008 | 1 Mar 2009 (see s. 2(b
 Medical Practitioners Act 2008 Sch. 3 cl. 4 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Criminal Law Amendment (Homicide) Act 2008 s. 24 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Reprint 7: The Bail Act 1982 as at 6 Mar 2009 (includes amendments listed above)
+Police Amendment Act 2009 s. 12 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
-Police Amendment Act 2009 s. 12 | 42 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 25. The Act was then repealed by the Criminal Procedure and Appeal (Consequential and Other Provisions) Act 2004.
 The amendment in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 had not come into operation when it was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -190,20 +190,6 @@ s. 50D(1)(a) | Sch. 1 Part D cl. 3(3)(e)
 Note:The headings to sections 27A, 50A, 50E, 50F and 50J will be altered by deleting “(Justice)”.
 ”.
 The amendments to the Bail Act 1982 in the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 cl. 31(1)(b) and (c), cl. 32 and 33 would conflict with amendments by the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 5.
-On the date as at which this compilation was prepared, the Police Amendment Act 2009 s. 12 had not come into operation. It reads as follows:
-12.Bail Act 1982 amended
-(1) This section amends the Bail Act 1982.
-(2) In section 3(1) delete the definitions of:
-authorised police officer
-police officer
-(3) In section 3(1) insert in alphabetical order:
-authorised police officer means —
-(a)a police officer who holds the rank of sergeant, or a higher rank;
-(b)the police officer who is for the time being in charge of a police station;
-(c)whichever of these officers is for the time being in charge of a lock-up —
-(i)a police officer;
-(ii)a special constable appointed under the Police Act 1892 Part III whose powers, duties and obligations are or include those of an authorised police officer under this Act;
-(iii)a police auxiliary officer appointed under the Police Act 1892 Part IIIB whose powers, duties and obligations are or include those of an authorised police officer under this Act;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -241,7 +227,6 @@ judicial officer3(1)
 lock-up3(1)
 medical practitionerSch. 1 Pt. D cl. 2(7)
 offence3(1)
-police officer3(1)
 proceedings for an offenceSch. 1 Pt. A cl. 7
 proposed surety43A(1)
 prosecutor3(1)

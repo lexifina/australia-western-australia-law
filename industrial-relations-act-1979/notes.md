@@ -79,12 +79,12 @@ Reprint 12: The Industrial Relations Act 1979 as at 2 Jan 2009 (includes amendme
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 77 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 45 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Occupational Safety and Health Legislation Amendment Act 2009 Pt. 3 | 36 of 2009 | 3 Dec 2009 | 31 Dec 2009 (see s. 2(c))
+Police Amendment Act 2009 s. 19 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
-Police Amendment Act 2009 s. 19 | 42 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 of the Commonwealth.
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
@@ -202,12 +202,6 @@ On the date as at which this compilation was prepared, the Petroleum Legislation
 ”.
 Reprints before Reprint 9 are not numbered. Reprint 9 and subsequent reprints are numbered consecutively but are out by one number.
 Sch. 2 of the Vocational Education and Training Act 1996 had not come into operation when it was deleted by the Training Legislation Amendment and Repeal Act 2008 s. 48.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Police Amendment Act 2009 s. 19 had not come into operation. It reads as follows:
-19.Industrial Relations Act 1979 amended
-(1) This section amends the Industrial Relations Act 1979.
-(2) Delete Schedule 3 clause 2(3) and insert:
-(3) Despite subclause (2), an Arbitrator does not have jurisdiction to enquire into or deal with, or refer to the Commission in Court Session or the Full Bench, any matter relating to or arising from the transfer, demotion, reduction in salary, suspension from duty, removal, discharge, dismissal or cancellation of the appointment under the Police Act 1892 of a police officer, police auxiliary officer or Aboriginal police liaison officer or, in the case of a special constable, the cancellation under that Act of the constable’s appointment.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

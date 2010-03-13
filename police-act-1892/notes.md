@@ -117,11 +117,8 @@ Compilation table
  | Police Amendment Act 2008 Pt. 2 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
  | Legal Profession Act 2008 s. 692 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Acts Amendment (Bankruptcy) Act 2009 s. 68 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Police Amendment Act 2009 Pt. 2 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 14 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Police Amendment Act 2009 Pt. 2 | 42 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
 Now known as the Police Act 1892; short title changed (see note under s. 3).
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973 s. 3.
 The Police Amendment Act 2003 s. 9 reads as follows:
@@ -191,97 +188,3 @@ repeal day means the day on which section 64 comes into operation.
 repeal day means the day on which section 65 comes into operation.
 (2) If immediately before repeal day any property is subject to an embargo notice granted under the Police Act 1892 section 90B, whether the property was seized under Part V of that Act or under an Act that refers to that section, then on and after repeal day sections 90B and 90C of that Act apply to and in respect of the notice as if they had not been repealed.
 ”.
-On the date as at which this compilation was prepared, the Police Amendment Act 2009 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Police Act 1892 amended
-3.Act amended
-This Part amends the Police Act 1892.
-4.Section 9 amended
-In section 9 after “Force,” (each occurrence) insert:
-police auxiliary officers,
-5.Section 13 amended
-In section 13 after “ordinary, and every” insert:
-police auxiliary officer and
-6.Section 23 amended
-(1) In section 23(1) after “Force,” (each occurrence) insert:
-police auxiliary officer,
-(2) In section 23(4):
-(a) after “Force or any” insert:
-police auxiliary officer,
-(b) after “such member,” insert:
-police auxiliary officer,
-(c) in paragraph (b) after “member,” insert:
-police auxiliary officer,
-(d) delete paragraph (c) and insert:
-(c) demotion;
-(e) in paragraph (d) delete “rank” and insert:
-office
-(f) in paragraph (f) delete “of an” and insert:
-of a police auxiliary officer or
-(3) In section 23(5):
-(a) delete “reduction in rank or” and insert:
-demotion or reduction in
-(b) in paragraph (a) delete “or of a” and insert:
-or of a police auxiliary officer,
-(4) Delete section 23(7) and insert:
-(7) A fine imposed on a person under this section may be recovered —
-(a) by deducting the amount from the salary of the person as a single sum or by instalments, as the Commissioner decides; or
-(b) as a debt due to the State in a court of competent jurisdiction.
-7.Section 33 replaced
-Delete section 33 and insert:
-33.Fines and penalties to be credited to Consolidated Account
-All fines and penalties imposed under this Part on a person appointed under this Act must be credited to the Consolidated Account.
-8.Section 33E amended
-In section 33E:
-(a) after “Force,” (first occurrence) insert:
-a police auxiliary officer,
-(b) delete “that member cadet” and insert:
-that member, cadet, police auxiliary officer,
-(c) after “office of” insert:
-police auxiliary officer or
-9.Section 33K amended
-(1) In section 33K in the definition of member after paragraph (d) insert:
-(e)a police auxiliary officer;
-(2) In section 33K in the definition of removal from office after paragraph (b) insert:
-(c)the cancellation of the appointment of a police auxiliary officer under section 38G(4);
-10.Part IIIB inserted
-After Part IIIA insert:
-Part IIIB — Police auxiliary officers
-38F.Terms used
-In this Part —
-Commissioner means the Commissioner of Police appointed under section 5;
-police auxiliary officer means a police auxiliary officer appointed under section 38G;
-police officer means a person appointed under Part I as an officer or constable of the Police Force, other than as the Commissioner.
-38G.Appointing police auxiliary officers
-(1) The Commissioner may appoint any person as a police auxiliary officer.
-(2) A police auxiliary officer’s appointment is —
-(a) for such period as the Commissioner decides; and
-(b) on such terms and conditions of service, including remuneration, as the Commissioner decides from time to time; but they must not be less favourable than is provided for in —
-(i) any applicable award, order or agreement under the Industrial Relations Act 1979; or
-(ii) the Minimum Conditions of Employment Act 1993.
-(3) The Commissioner may at any time amend the terms of a police auxiliary officer’s appointment referred to in section 38H(3).
-(4) Subject to Part IIB, the Commissioner may at any time cancel the appointment of a police auxiliary officer.
-(5) The appointment of a police auxiliary officer, its terms and conditions and any cancellation of it must be in writing and signed by the Commissioner.
-(6) The Commissioner must issue a police auxiliary officer with a certificate of his or her appointment as a police auxiliary officer.
-(7) A police auxiliary officer whose appointment as such ceases must return any certificate issued to him or her under subsection (6) to the Commissioner.
-Penalty: a fine of $500.
-38H.Functions of police auxiliary officers
-(1) Unless the document appointing a police auxiliary officer says otherwise —
-(a) a police auxiliary officer has all of the powers, duties and obligations that a police officer or a member of the Police Force has under any written law other than this Act; and
-(b) any authorisation, exemption or exception in any written law other than this Act that applies to a police officer or a member of the Police Force applies to a police auxiliary officer,
-unless that written law expressly says otherwise.
-(2) If a provision of a written law other than this Act refers to a police officer or to a member of the Police Force but does not confer a power, duty or obligation on, or create an authorisation, exemption or exception for, a police officer or a member of the Police Force, the provision is to be taken to include a reference to a police auxiliary officer, unless the contrary intention appears in the provision.
-(3) The document appointing a police auxiliary officer may limit the powers, duties or obligations of the officer or the application of any authorisation, exemption or exception to the officer in any way the Commissioner thinks fit.
-(4) Without limiting subsection (3) or section 38G(3), the document appointing a police auxiliary officer may do any or all of the following —
-(a) limit the powers that the officer may exercise;
-(b) limit when the officer may exercise his or her powers or any of them;
-(c) limit where in the State the officer may exercise his or her powers or any of them;
-(d) limit the circumstances in which the officer may exercise his or her powers or any of them;
-(e) limit the offences in respect of which the officer may exercise his or her powers or any of them;
-(f) limit the purposes for which the officer may exercise his or her powers or any of them;
-(g) limit or prohibit the possession or use of any thing that the officer would otherwise be authorised under a written law to possess or use, despite the written law.
-38I.Police auxiliary officers not in the Police Force
-(1) A police auxiliary officer is not a member of the Police Force of Western Australia for the purposes of this Act.
-(2) Subsection (1) does not affect the operation of section 38H(1) or (2) or 136.
-11.Section 136 amended
-In section 136(1) in the definition of member of the Police Force delete “III or IIIA.” and insert:
-III, IIIA or IIIB.
