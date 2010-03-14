@@ -20,6 +20,7 @@ Lotteries Commission (Saturday Lotto) Amendment Rules 2008 | 6 Jun 2008 p. 2253-
 Lotteries Commission (Saturday Lotto) Amendment Rules (No. 2) 2008 | 3 Oct 2008 p. 4497-9 | r. 1 and 2: 3 Oct 2008 (see r. 2(a)); Rules other than r. 1 and 2: 12 Oct 2008 (see r. 2(b))
 Reprint 3: The Lotteries Commission (Saturday Lotto) Rules 1996 as at 13 Mar 2009 (includes amendments listed above)
 Lotteries Commission Amendment Rules 2009 Pt. 3 | 15 May 2009 p. 1632-5 | 17 May 2009 (see r. 2(b))
+Lotteries Commission (Saturday Lotto) Amendment Rules 2010 | 12 Mar 2010 p. 948-50 | r. 1 and 2: 12 Mar 2010 (see r. 2(a)); Rules other than r. 1 and 2: 14 Mar 2010 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -45,6 +46,7 @@ Saturday lotto draw3
 selected number3
 selling period3
 supplementary number3
+syndicate sales (subscription) adjustment14B
 total prize pool3
 validation period3
 winning number3
