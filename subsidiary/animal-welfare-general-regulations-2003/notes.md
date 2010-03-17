@@ -10,6 +10,7 @@ Animal Welfare (General) Amendment Regulations (No. 2) 2008 | 20 Jun 2008 p. 271
 Animal Welfare (General) Amendment Regulations (No. 3) 2008 | 18 Jul 2008 p. 3330 | r. 1 and 2: 18 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jul 2008 (see r. 2(b))
 Reprint 1: The Animal Welfare (General) Regulations 2003 as at 21 Jul 2008 (includes amendments listed above)
 Animal Welfare (General) Amendment Regulations (No. 2) 2010 | 16 Feb 2010 p. 644-5 | r. 1 and 2: 16 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Feb 2010 (see r. 2(b))
+Animal Welfare (General) Amendment Regulations 2010 | 16 Mar 2010 p. 977-8 | r. 1 and 2: 16 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Mar 2010 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
