@@ -1,35 +1,32 @@
 ## Appendix
-[Forms 1 and 2 deleted in Gazette 10 March 1978 p. 709]
+[Forms 1 and 2 deleted in Gazette 10 Mar 1978 p. 709.]
 Form 3
 Western Australia
 Bush Fires Act 1954
 Regulation 15
 PERMIT TO SET FIRE TO THE BUSH
-Subject to the provisions of the Bush Fires Act 1954, and the regulations made thereunder and to the due observance and performance of the conditions endorsed on this permit including the provisions of section 18 of the said Act permission is hereby granted to Mr . . . . . . . . . . . ., of . . . . . . . . . . . . . . . . . . . . .,
-to set fire to the bush on locations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-on the . . . . . . . day of . . . . . . . . . . . . . . . . . . . . . 20 . . . . . . .
+Subject to the provisions of the Bush Fires Act 1954, and the regulations made thereunder and to the due observance and performance of the conditions endorsed on this permit including the provisions of section 18 of the said Act permission is hereby granted to Mr . . . . . . . . . . . ., of . . . . . . . . . . . . . . . . . . . . ., to set fire to the bush on locations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . on the . . . . . . . day of . . . . . . . . . . . . . . . . . . . . . 20 . . . . . . .
 Dated this . . . . . . . day of . . . . . . . . . . . . . . . . . . 20 . . . . . . .
 Note. — This permit is not valid during a declared prohibited burning time and is issued subject to the provisions of section 46 of the Bush Fires Act and may be revoked or suspended by a bush fire control officer if, in his opinion, the fire, if lit, would become a source of danger.
 A bush fire control officer is not compelled to inspect an area to be burnt before issuing a permit to burn. The onus lies on the person not only to comply with the provisions of the Bush Fires Act but also to ensure there is no danger of the fire escaping. The issue of this permit in no way affects that responsibility.
 Plan and any special conditions to be observed: —
 Signed . . . . . . . . . . . . . . . . . . . . .,
 Bush Fire Control Officer.
+[Form 3 inserted in Gazette 10 Mar 1978 p. 709.]
 Form 4
 Western Australia
 Fire and Emergency Services Authority of Western Australia
 Bush Fires Act 1954
 Regulation 18
 APPLICATION FOR PERMIT TO BURN CLOVER DURING A PROHIBITED BURNING TIME
-I (a) . . . . . . . . . . . . . . . . . . . . . . . . . . of (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-the owner (or occupier) of (c) . . . . . . . . . . . . . . . . . location No. . . . . . . . . . . . .,
-upon which subterranean clover is growing, hereby apply pursuant to section 24 of the Bush Fires Act 1954, for a permit to burn upon the said location a total area of . . . . . . . . . . . . . . . . . hectares (not to exceed 30 hectares), shown on the annexed sketch upon the following day, namely: —
+I (a) . . . . . . . . . . . . . . . . . . . . . . . . . . of (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . the owner (or occupier) of (c) . . . . . . . . . . . . . . . . . location No. . . . . . . . . . . . ., upon which subterranean clover is growing, hereby apply pursuant to section 24 of the Bush Fires Act 1954, for a permit to burn upon the said location a total area of . . . . . . . . . . . . . . . . . hectares (not to exceed 30 hectares), shown on the annexed sketch upon the following day, namely: —
 . . . . . . . . . . . . . . . . . , 20 . . . . . . . . . . . . . . hectares
 . . . . . . . . . . . . . . . . . , 20 . . . . . . . . . . . . . . hectares
 . . . . . . . . . . . . . . . . . , 20 . . . . . . . . . . . . . . hectares
 such days being within a time of the year during which it has been declared, by notice published in the Government Gazette pursuant to section 17 of the said Act, to be unlawful to set fire to the bush within the district or part of the State named in the said notice within which the location aforesaid is situated.
 . . . . . . . . . . . . . . . . . . . . . .
 Applicant.
-To . . . . . . . . . . . . . . . . . . .
+To. . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . .
 Note. — This application must be lodged with the nearest authorised officer at least 7 days before the day upon which it is intended to commence burning.
 (Sketch.)
@@ -47,6 +44,7 @@ Declared at . . . . . . . . . . . . . . . . in the State of Western Australia th
 Signature of Applicant.
 Before me —
 Note. — The declaration may be made before a Justice of the Peace, a Commissioner for Declarations, Chief Executive Officer of a local government, Electoral Registrar, Postmaster, Classified Officer in the State or Commonwealth Public Service, Classified State School Teacher, or a member of the Police Force.
+[Form 4 amended in Gazette 16 Oct 1963 p. 3076; 12 Jul 1974 p. 2612-13; 22 Dec 1998 p. 6855 and 6859.]
 Form 5
 Western Australia
 Fire and Emergency Services Authority of Western Australia
@@ -63,6 +61,7 @@ Given under my hand at . . . . . . . . . . . . . . . . . this . . . . . . . . da
 . . . . . . . . . . . . . . . . . . . . . . .
 Authorised Officer.
 (a) Name of authorised officer in full and occupation; (b) address; (c) name of permit holder; (d) address; (e) name of location.
+[Form 5 amended in Gazette 12 Jul 1974 p. 2613; 22 Dec 1998 p. 6855 and 6859.]
 Form 6
 Western Australia
 Fire and Emergency Services Authority of Western Australia
@@ -79,6 +78,7 @@ Applicant.
 To . . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . .
 Note. — This application must be lodged with the chief executive officer of the local government within whose district the proposed burning is to take place, or the nearest authorised officer at least 7 days before the day upon which it is intended to commence burning.
+________________________________________________________________
 (a) Name of applicant in full. (b) Address. (c) Name of location. (d) Description of the plants the refuse of which is to be burned.
 (To be endorsed on Form 6.)
 STATUTORY DECLARATION
@@ -93,6 +93,7 @@ Declared at . . . . . . . . . . . . . . . . . . in the State of Western Australi
 Signature of Applicant.
 Before me: . . . . . . . . . . . . . . . . . . . .
 Note. — The declaration may be made before a Justice of the Peace, a Commissioner for Declarations, Chief Executive Officer of a local government, Electoral Registrar, Postmaster, Classified Officer of the State or Commonwealth Public Service, Classified State School Teacher, or a member of the Police Force.
+[Form 6 inserted in Gazette 27 Oct 1966 p. 2782; amended in Gazette 12 Jul 1974 p. 2613; 22 Dec 1998 p. 6855 and 6859.]
 Form 7
 Western Australia
 Fire and Emergency Services Authority of Western Australia
@@ -108,6 +109,7 @@ subject however, to the provisions of the said Act and the regulations made ther
 Given under my hand at . . . . . . . . . . . . . . . . . . . . . . . this . . . . . day of . . . . . . . . . . . . . . . . . . . . , 20 . . . ..
 Chief executive officer of the . . . . . . . . . . . . . . . . . . . .
 or Authorised Officer.
+________________________________________________________________
 (a) Name of chief executive officer or authorised officer, in full and occupation, (b) Address. (c) Name of permit holder. (d) Address. (e) Name of location. (f) Description of the plants the refuse of which is to be burned.
 (To be endorsed on back of Form 7.)
 Extracts from Regulations dealing with the burning of the refuse of plants read as follows: —
@@ -125,6 +127,7 @@ Extracts from Regulations dealing with the burning of the refuse of plants read 
 (d)carry out the burning operations only between the hours of 8 p.m. and midnight;
 (e)cause all ash resulting from the burning operations to be covered completely with earth or sand before 10 a.m. on the next day following the burning operations.
 32.In the event of any fire escaping beyond the boundaries of the area in respect of which a permit to burn the refuse of plants has been granted, the holder of such permit shall, if possible, immediately notify the nearest bush fire control officer or authorised officer and shall within 24 hours of the suppression of the fire report in full the circumstances causing the escape to the authorised officer by whom the permit was granted.
+[Form 7 inserted in Gazette 27 Oct 1966 p. 2783-4; amended in Gazette 12 Jul 1974 p. 2613; 22 Dec 1998 p. 6855 and 6859.]
 Form 8
 Western Australia
 Fire and Emergency Services Authority of Western Australia
@@ -142,6 +145,7 @@ To . . . . . . . . . . . . . . . . . . . .
 Note —
 (1)The statutory declaration endorsed on this form need only be completed if this is required by the authorised officer.
 (2)This application must be submitted to the authorised officer at least 7 days before the day burning is intended to be commenced, unless a shorter period is agreed with that officer.
+________________________________________________________________
 (a) Name in full of applicant. (b) Address. (c) Name of location. (d) Description of the proclaimed plant to be burned.
 (To be endorsed on Form 8.)
 STATUTORY DECLARATION
@@ -156,6 +160,7 @@ Declared at . . . . . . . . . . . . . . in the State of Western Australia this .
 Signature of Applicant.
 Before me . . . . . . . . . . . . . . . . . . . .
 Note. — The declaration may be made before a Justice of the Peace, a Commissioner of Declarations, Chief Executive Officer of a local government, Electoral Registrar, Postmaster, Classified Officer in the State or Commonwealth Public Service, Classified State School Teacher, or a member of the Police Force.
+[Form 8 inserted in Gazette 27 Oct 1966 p. 2784-5; amended in Gazette 12 Jul 1974 p. 2613-14; 27 Oct 1989 p. 3898; 22 Dec 1998 p. 6855 and 6859.]
 Form 9
 Western Australia
 Fire and Emergency Services Authority of Western Australia
@@ -163,8 +168,7 @@ Bush Fires Act 1954
 Regulation 33
 Permit No. . . . . . . . . . . . . .
 PERMIT TO BURN PROCLAIMED PLANTS DURING A PROHIBITED BURNING TIME
-I, (a) . . . . . . . . . . . . . . . . . . . . . . . of (b) . . . . . . . . . . . . . . . . . . . chief executive officer of the . . . . . . . . . . . . . . . . . . . . . . . or a duly authorised officer within the meaning of the regulations made under and for the purposes of the Bush Fires Act 1954, having been satisfied that the provisions of section 26 of the said Act have been complied with hereby grant authority to (c) . . . . . . . . . . . . . . . . . . . . of (d) . . . . . . . . . . . . . . . . . . . ., the owner (or occupier) or (e) . . . . . . . . . . . . . . . . . . . . location No. . . . . . . . . . . . . . .
-to burn upon the said location a total area shown on the annexed sketch of . . . . . . . . . . . . . . . . . hectares of (f) . . . . . . . . . . . . . . . . . . . . . . . . . upon the following days, viz.: —
+I, (a) . . . . . . . . . . . . . . . . . . . . . . . of (b) . . . . . . . . . . . . . . . . . . . chief executive officer of the . . . . . . . . . . . . . . . . . . . . . . . or a duly authorised officer within the meaning of the regulations made under and for the purposes of the Bush Fires Act 1954, having been satisfied that the provisions of section 26 of the said Act have been complied with hereby grant authority to (c) . . . . . . . . . . . . . . . . . . . . of (d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ., the owner (or occupier) of (e) . . . . . . . . . . . . . . . . . . . . . . . . location No. . . . . . . . . . . . . . . to burn upon the said location a total area shown on the annexed sketch of . . . . . . . . . . . . . . . . . hectares of (f) . . . . . . . . . . . . . . . . . . . . . . . . . upon the following days, viz.: —
 . . . . . . . . . . . . . . . . . ., 20. . . . . . . . . . . . . . . hectares
 . . . . . . . . . . . . . . . . . ., 20. . . . . . . . . . . . . . . hectares
 . . . . . . . . . . . . . . . . . ., 20. . . . . . . . . . . . . . . hectares
@@ -172,6 +176,7 @@ subject, however, to the provisions of the said Act and the regulations made the
 Given under my hand at . . . . . . . . . . . . . . . this . . . . . . . . day of . . . . . . . . . . . . . . . . . . . . . . . . . . . , 20 . . . . . . . .
 Chief executive officer of the . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
 another authorised officer.
+________________________________________________________________
 (a) Name of chief executive officer or authorised officer in full and occupation. (b) Address. (c) Name of permit holder. (d) Address. (e) Name of location. (f) Description of proclaimed plant.
 (To be endorsed on Form 9)
 EXTRACTS FROM REGULATIONS
@@ -192,6 +197,7 @@ and such notice shall be given —
 (13)No fire shall be lit pursuant to the provisions of this regulation on a day, or during any period of a day, if for that day or that period the fire danger forecast issued by the Bureau of Meteorology in Perth in respect of the locality where it is proposed to burn the proclaimed plant is “catastrophic”, “extreme”, “severe” or “very high”, and the person who has received the permit under the provisions of this regulation shall not burn a proclaimed plant in the locality on that day or during that period, but may burn the plant in that locality on the first day, next following the day or period of a day on which the fire danger forecast issued by the Bureau of Meteorology in Perth in respect of the locality is below “very high”.
 (14)The owner or occupier of the area to be burned shall himself arrange for and provide at least 3 persons to be constantly in attendance at the fire in the area from the time it is lit until it is completely extinguished and to assist in keeping the fire under control and preventing it from spreading beyond the area proposed to be burned.
 36.In the event of any fire escaping beyond the boundaries of the area in respect of which a permit to burn has been granted, the holder of the permit shall, if possible, immediately notify the nearest bush fire control officer or authorised officer and within 24 hours of the suppression of the fire shall report in full the circumstances causing the escape to the authorised officer by whom the permit was granted.
+[Form 9 inserted in Gazette 27 Oct 1966 p. 2785-7; amended in Gazette 12 Jul 1974 p. 2614; 27 Oct 1989 p. 3898; 22 Dec 1998 p. 6855, 6858, 6859; 1 Dec 2009 p. 4842.]
 Form 10
 Western Australia
 Fire and Emergency Services Authority of Western Australia
@@ -208,7 +214,9 @@ Applicant.
 To . . . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . .
 Note. — This application must be lodged with the chief executive officer of the local government within whose district the proposed burning is to take place, or the nearest authorised officer, within 7 days before the day upon which it is intended to commence burning.
+________________________________________________________________
 (a) Name of applicant in full. (b) Address. (c) Name of location. (d) Description of declared plants.
+[Form 10 inserted in Gazette 10 Mar 1978 p. 709-10; amended in Gazette 22 Dec 1998 p. 6855 and 6859.]
 Form 11
 Western Australia
 Fire and Emergency Services Authority of Western Australia
@@ -228,7 +236,9 @@ Chief executive officer of the
 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 or Authorised Officer.
 Requirements and Directions
+________________________________________________________________
 (a) Name of chief executive officer or authorised officer in full and occupation. (b) Address. (c) Name of permit holder. (d) Address. (e) Name of location. (f) Description of declared plants.
+[Form 11 inserted in Gazette 10 Mar 1978 p. 710; amended in Gazette 22 Dec 1998 p. 6855 and 6859.]
 Form 12
 Western Australia
 Bush Fires Act 1954
@@ -246,4 +256,4 @@ Lieutenants1. . . . . . . . . . . . . . . . . . . .
 Secretary . . . . . . . . . . . . . . . . . . . . . . .
 Signature . . . . . . . . . . . . . . . . . . . . . . . . . .
 Chief executive officer.
-[Appendix amended in Gazette 16 October 1963 pp. 3076-9; 27 October 1966 pp. 2782-7; 12 July 1974 pp. 2612-14; 10 March 1978 pp. 709-11; 27 October 1989 p. 3898; 22 December 1998 pp. 6855, 6858, 6859; 1 Dec 2009 p. 4842.]
+[Form 12 inserted in Gazette 10 Mar 1978 p. 711; amended in Gazette 22 Dec 1998 p. 6859.]
