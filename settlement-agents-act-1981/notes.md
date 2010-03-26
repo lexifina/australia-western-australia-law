@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Settlement Agents Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 26 March 2010 of the Settlement Agents Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Settlement Agents Act 1981 | 33 of 1981 | 26 May 1981 | 1 Jul 1981 (see s. 2 and Gazette 26 Jun 1981 p. 2285)
@@ -16,14 +16,14 @@ Strata Titles Amendment Act 1995 s. 98 | 58 of 1995 | 20 Dec 1995 | 14 Apr 1996 
 Real Estate Legislation Amendment Act 1995 Pt. 4 | 59 of 1995 | 20 Dec 1995 | 1 Jul 1996 (see s. 2 and Gazette 25 Jun 1996 p. 2902)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Reprint of the Settlement Agents Act 1981 as at 23 Sep 1996 (includes amendments listed above)
-Settlement Agents Amendment Act 1996 | 62 of 1996 | 11 Nov 1996 | 24 May 1997 (see s. 2 and Gazette 23 May 1997 p. 2417)
+Settlement Agents Amendment Act 1996 | 62 of 1996 | 11 Nov 1996 | s. 1 and 2: 11 Nov 1996; Act other than s. 1 and 2: 24 May 1997 (see s. 2 and Gazette 23 May 1997 p. 2417)
 Transfer of Land Amendment Act 1996 s. 153(1) and (2) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
 Acts Amendment (Land Administration) Act 1997 s. 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
 Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 102 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
 Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 Pt. 3 | 3 of 2000 | 12 Apr 2000 | 12 Apr 2000 (see s. 2)
 Reprint of the Settlement Agents Act 1981 as at 3 Nov 2000 (includes amendments listed above)
-Corporations (Consequential Amendments) Act 2001 s. 220 and 222 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
-Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 13 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth Gazette 24 Oct 2001 No. GN42)
+Corporations (Consequential Amendments) Act 2001 s. 220 and 222 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth. Gazette 13 Jul 2001 No. S285)
+Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 13 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth. Gazette 24 Oct 2001 No. GN42)
 Acts Amendment (Equality of Status) Act 2003 Pt. 53 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 66 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 109 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
@@ -35,25 +35,22 @@ Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Land Information Authority Act 2006 s. 158 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 11 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 4: The Settlement Agents Act 1981 as at 25 May 2007 (includes amendments listed above, except those in the Consumer Protection Legislation Amendment and Repeal Act 2006)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 156 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 4: The Settlement Agents Act 1981 as at 25 May 2007 (includes amendments listed above except those in the Consumer Protection Legislation Amendment and Repeal Act 2006)
+Duties Legislation Amendment Act 2008 Sch. 1 cl. 34 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Legal Profession Act 2008 s. 704 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 117 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 80 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-Statutes (Repeals and Minor Amendments) Act 2009 s 15 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2009 s. 15 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
+Reprint 5: The Settlement Agents Act 1981 as at 26 Mar 2010 (includes amendments listed above)
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
-“
 (2) A person may give notice of a claim under section 93(2) as amended by this section even if the time within which that notice was to be given under that section before that amendment had expired.
 (3) Where a person may give notice of a claim under section 93(2) as amended by this section, notice of the claim given by the person previously in writing to the Board (whether or not dealt with by the Board) is to be taken to be notice of the claim for the purposes of that section.
-”.
 Repealed by the Real Estate and Business Agents Act 1978 s. 5.
 Repealed by the Land Administration Act 1997 s. 281.
 The Real Estate Legislation Amendment Act 1995 s. 65(2) and 87 are saving and transitional provisions that are of no further effect.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
-“
 2.Commencement
 (1) If this Act receives the Royal Assent before the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act comes into operation at the same time as that Schedule comes into operation.
 (2) If this Act receives the Royal Assent on or after the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act is deemed to have come into operation at the same time as that Schedule comes into operation.
@@ -70,5 +67,67 @@ statutory rule means a regulation, rule or by-law.
 (a) that could only have been validly and lawfully done or omitted because this Act received the Royal Assent after the FSR commencement time; and
 (b) that could not have been validly and lawfully done or omitted if this Act had received the Royal Assent before the FSR commencement time,
 is taken not to be valid, and to never have been valid.
-”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+Account3(1)
+agent49(5b)
+appointed day3(1), 26(2)
+approved3(1)
+auditor3(1)
+authorised financial institution48
+AuthoritySch. 2 cl. 1(1)(a)
+bank3(1)
+bank account48
+banker48
+Board3(1)
+body corporate36(3)
+business3(1)
+business day48
+business licenceSch. 1 cl. 6
+business settlement agent3(1)
+business transaction3(1)
+Chairman3(1)
+code of conduct3(1)
+defalcation by a licensee3(1)
+discharge of mortgage46(6)(b)
+document12C(4)
+Fidelity Guarantee Account3(1)
+fidelity guarantee fee3(1)
+fit and proper27(2)
+General Purpose Account3(1)
+information12C(4)
+inspector3(1)
+Interest Account3(1)
+land3(1)
+legal practitioner3(1)
+licence3(1)
+licensed3(1)
+licensee3(1)
+member3(1)
+person aggrieved23(2)
+prescribed financial market36(4)
+real estate3(1)
+real estate settlement agent3(1)
+real estate transaction3(1)
+Registrar3(1)
+renewal3(1)
+request49A(7)
+reviewable decision23(2)
+reward3(1)
+separate account48
+settlement3(1)
+settlement agent3(1), 4(1), 73(5)(b)
+settlement agents’ code of conduct3(1)
+supervisor3(1)
+transaction3(1)
+Treasurer3(1)
+Treasury3(1)
+triennial certificate3(1)
+trust account73(5)(a)
+trust accounts48
+trustee company3(1)
+vendor49(5b)
+year48
+By Authority: JOHN A. STRIJK, Government Printer
