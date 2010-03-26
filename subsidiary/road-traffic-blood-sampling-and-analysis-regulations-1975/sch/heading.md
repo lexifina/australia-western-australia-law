@@ -10,6 +10,7 @@ Dated at Perth this ............................. day of .......................
 Signature.
 (Reverse Side)
 Note: This package should be opened by cutting along this fold.
+[Form A amended in Gazette 10 Mar 1978 p. 688; 29 Jun 1984 p. 1795; 30 Jan 2001 p. 624.]
 Western Australia
 ROAD TRAFFIC ACT 1974
 Regulation 8: Road Traffic (Blood Sampling and Analysis) Regulations 1975
@@ -35,13 +36,13 @@ Alleged time of last drink containing alcohol consumed by subject:
 ..................... m. on ................................................................................................
 ...................................................
 Signature, Rank and Number.
-[Form B amended in Gazette 8 Jan 2010 p. 33.]
+[Form B amended in Gazette 2 Feb 1982 p. 398; 30 Jan 2001 p. 625; 8 Jan 2010 p. 33.]
 Western Australia.
 ROAD TRAFFIC ACT 1974
 Regulation 10: Road Traffic (Blood Sampling and Analysis) Regulations 1975
 FORM C
 I ............................................................................................................................. of the Chemistry Centre (WA), Perth, an analyst within the meaning of section 65 of the Road Traffic Act 1974, hereby certify that:
-1.On the ............................ day of ..................... 20......... the Chemistry Centre (WA), Perth received a sealed package, comprising Form B of the Road Traffic Blood Sampling and Analysis) Regulations 1975 then intact from ......................... containing a sample of blood in a container numbered .............................................
+1.On the ............................ day of ........................... 20......... the Chemistry Centre (WA), Perth received a sealed package, comprising Form B of the Road Traffic (Blood Sampling and Analysis) Regulations 1975 then intact from ........................................ containing a sample of blood in a container numbered .............................................
 2.The certificate (Form B) appearing on the cover of the package was endorsed (among other things) as follows:
 Name of subject .............................................................................................
 Doctor .............................................................................................................
@@ -49,14 +50,14 @@ Time and date of taking blood sample ...........................................
 3.The sample was analysed in accordance with the Road Traffic (Blood Sampling and Analysis) Regulations 1975 and was found to contain ............................................. grams of alcohol per 100 mL of blood.
 ...................................................
 Analyst.
-[Form C amended in Gazette 14 Mar 2008 p. 832; 9 Oct 2009 p. 3997-8.]
+[Form C amended in Gazette 23 Jan 1976 p. 132; 9 Aug 1991 p. 4232; 30 Jan 2001 p. 625; 14 Mar 2008 p. 832; 9 Oct 2009 p. 3997-8.]
 Western Australia
 ROAD TRAFFIC ACT 1974
 Regulation 12: Road Traffic (Blood Sampling and Analysis) Regulations 1975
 FORM D
 To:(1) ...................................................................................................................
 at (2) ...................................................................................................................
-Acting pursuant to the provisions of section 66(5) or 66B(1) of the Road Traffic Act 1974, I, the undersigned member of the Police Force, hereby request you the said (1) ...................................................................... to take a sample of the blood of (3) ...................................................................................................... presently at (4) .................................................................................................. in accordance with the abovementioned regulations.
+Acting pursuant to the provisions of section 66(5) or 66B(1) of the Road Traffic Act 1974, I, the undersigned member of the Police Force, hereby request you the said (1) .............................................................................. to take a sample of the blood of (3) ............................................................................................................ presently at (4) ................................................................................................... in accordance with the abovementioned regulations.
 Dated at ................................................ this ......................................... day of........................................, 20..............
 ...................................................
 Signature, Rank and Number.
@@ -64,25 +65,24 @@ Signature, Rank and Number.
 (2)Address or name of hospital, as the case may require.
 (3)Name of subject.
 (4)Place where subject is then to be found.
-[Form D amended in Gazette 11 Oct 2007 p. 5478.]
+[Form D amended in Gazette 2 Feb 1982 p. 398; 30 Jan 2001 p. 625; 11 Oct 2007 p. 5478.]
 FORM E
 Western Australia
 ROAD TRAFFIC ACT 1974
 Road Traffic (Blood Sampling and Analysis) Regulations 1975
 (Regulation 13)
-I, ............................................................................................................................. chief executive officer of the Chemistry Centre (WA), hereby certify that ................................. ................................................................................................................................ of ............................................................................................................................ * is an analyst/* was as at ................................................................... an analyst.
+I, ............................................................................................................................. chief executive officer of the Chemistry Centre (WA), hereby certify that .......... ................................................................................................................................ of ............................................................................................................................ * is an analyst/* was as at ................................................................... an analyst.
 .....................................................
 chief executive officer, Chemistry Centre (WA).
 * Delete whichever is not applicable.
-[Form E amended in Gazette 14 Mar 2008 p. 832.]
+[Form E inserted in Gazette 25 Feb 1983 p. 650; amended in Gazette 9 Aug 1991 p. 4232; 14 Mar 2008 p. 832.]
 FORM F
 Western Australia
 ROAD TRAFFIC ACT 1974
 Road Traffic (Blood Sampling and Analysis) Regulations 1975
 (Regulation 14)
-I, ............................................................................................................................. chief executive officer of the Chemistry Centre (WA), hereby certify that ................................. ................................................................................................................................ of .......................................................................................................................... * is a drug analyst/ * was as at ..................................................... a drug analyst.
+I, ............................................................................................................................. chief executive officer of the Chemistry Centre (WA), hereby certify that .......... ................................................................................................................................ of ............................................................................................................................ * is a drug analyst/ * was as at ..................................................... a drug analyst.
 .....................................................
 chief executive officer, Chemistry Centre (WA).
 * Delete whichever is not applicable.
-[Form F amended in Gazette 14 Mar 2008 p. 832.]
-[Schedule amended in Gazette 23 Jan 1976 p. 132; 10 Mar 1978 p. 688; 2 Feb 1982 p. 398; 25 Feb 1983 p. 650-1; 29 Jun 1984 p. 1795; 9 Aug 1991 p. 4232; 30 Jan 2001 p. 624-5; 11 Oct 2007 p. 5478; 14 Mar 2008 p. 832.]
+[Form F inserted in Gazette 25 Feb 1983 p. 651; amended in Gazette 9 Aug 1991 p. 4232; 14 Mar 2008 p. 832.]
