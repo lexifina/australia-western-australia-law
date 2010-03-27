@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 March 2010 of the Energy Arbitration and Review Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Energy Arbitration and Review Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Gas Pipelines Access (Western Australia) Act 1998 | 65 of 1998 | 15 Jan 1999 | s. 1 and 2: 15 Jan 1999; Act other than s. 1, 2 and Sch. 3 Div. 2 Subdiv. 3 and Div. 7 Subdiv. 3: 9 Feb 1999 (see s. 2 and Gazette 8 Feb 1999 p. 441); Sch. 3 Div. 2 Subdiv. 3 and Div. 7 Subdiv. 3: 1 Jan 2000 (see s. 2(1))
@@ -21,11 +21,8 @@ Duties Legislation Amendment Act 2008 Sch. 1 cl. 10 | 12 of 2008 | 14 Apr 2008 |
 Legal Profession Act 2008 s. 665 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 64 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 National Gas Access (WA) Act 2009 Pt. 7 Div. 1 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327
-Reprint 3: The Energy Arbitration and Review Act 1998 as at 19 Mar 2010 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Gas Supply (Gas Quality Specifications) Act 2009 Pt. 7 Div. 2 | 35 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
+Gas Supply (Gas Quality Specifications) Act 2009 Pt. 7 Div. 2 | 35 of 2009 | 3 Dec 2009 | 27 Mar 2010 (see s. 2(b) and Gazette 26 Mar 2010 p. 1133)
+Reprint 3: The Energy Arbitration and Review Act 1998 as at 19 Mar 2010 (includes amendments listed above except those in the Gas Supply (Gas Quality Specifications) Act 2009)
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
 The amendment in the Federal Courts (State Jurisdiction) Act 1999 s. 10(3) is not included because s. 20 which it sought to amend had been deleted before the amendment purported to come into operation.
 Now known as the Energy Arbitration and Review Act 1998; short title changed (see note under s. 1).
@@ -82,16 +79,6 @@ The operation of any provision of this Schedule is not to be regarded —
 (c) as giving rise to any remedy by a party to an instrument or as causing or permitting the termination of any instrument, because of a change in the beneficial or legal ownership of any asset, right or liability;
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
-On the date as at which this reprint was prepared, the Gas Supply (Gas Quality Specifications) Act 2009 Pt. 7 Div. 2 had not come into operation. It reads as follows:
-Part 7 — Acts amended
-Division 2 — Gas Pipelines Access (Western Australia) Act 1998 amended
-37.Act amended
-This Division amends —
-(a) if this section comes into operation before the day on which the National Gas Access (WA) Act 2009 section 26 comes into operation — the Gas Pipelines Access (Western Australia) Act 1998; or
-(b) otherwise — the Gas Pipelines Access (Western Australia) Act 1998 (as amended by the National Gas Access (WA) Act 2009 and cited as the Energy Arbitration and Review Act 1998).
-38.Section 73 amended
-Before section 73(1)(d) insert:
-(da) under the Gas Supply (Gas Quality Specifications) Act 2009; or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

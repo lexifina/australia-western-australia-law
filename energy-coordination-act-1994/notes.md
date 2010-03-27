@@ -23,9 +23,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 Gas and Electricity Safety Legislation Amendment Act 2007 Pt. 3 | 5 of 2007 | 18 Apr 2007 | 1 Dec 2007 (see s. 2 and Gazette 30 Nov 2007 p. 5927)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 52 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 National Gas Access (WA) Act 2009 Pt. 7 Div. 4 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327)
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Gas Supply (Gas Quality Specifications) Act 2009 Pt. 7 Div. 1 | 35 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
+Gas Supply (Gas Quality Specifications) Act 2009 Pt. 7 Div. 1 | 35 of 2009 | 3 Dec 2009 | 27 Mar 2010 (see s. 2(b) and Gazette 26 Mar 2010 p. 1133)
 The Energy Legislation Amendment Act 2003 Pt. 3 Div. 3 (other than s. 19) reads as follows:
 “
 Part 3 — Amendments to facilitate a contestable retail gas market, and related transitional provisions
@@ -297,10 +295,3 @@ The operation of any provision of this Schedule is not to be regarded —
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Gas Supply (Gas Quality Specifications) Act 2009 Pt. 7 Div. 1 had not come into operation. It reads as follows:
-Part 7 — Acts amended
-Division 1 — Energy Coordination Act 1994 amended
-35.Act amended
-This Division amends the Energy Coordination Act 1994.
-36.Section 26 amended
-Delete section 26(3), (4) and (5).
