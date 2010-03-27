@@ -2,61 +2,12 @@ Notes
 This is a compilation of the Royalties for Regions Act 2009. The following table contains information about that Act.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Royalties for Regions Act 2009 s. 1 and 2 | 41 of 2009 | 3 Dec 2009 | 3 Dec 2009 (see s. 2(a))
+Royalties for Regions Act 2009 | 41 of 2009 | 3 Dec 2009 | s. 1 and 2: 3 Dec 2009 (see s. 2(a)) s. 3, 4 and Pt. 2 and 4: 27 Mar 2010 (see s. 2(b) and Gazette 26 Mar 2010 p. 1133)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Royalties for Regions Act 2009 s. 3, 4 and Pt. 2-5 | 41 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Royalties for Regions Act 2009 s. 3, 4 and Pt. 2-5 had not come into operation. They read as follows:
-3.Terms used
-In this Act —
-CEO means the chief executive officer of the Department;
-chairperson means the chairperson of the Trust;
-Department means the department of the Public Service principally assisting in the administration of Part 3;
-deputy chairperson means the deputy chairperson of the Trust;
-Fund means the account called the Royalties for Regions Fund established as a Treasurer’s special purpose account under the Financial Management Act 2006 section 10(a);
-member means a member of the Trust;
-Minister means the Minister responsible for the administration of Part 3;
-regional development commission means a body established under the Regional Development Commissions Act 1993 Part 2;
-regional Western Australia means the regions described in the Regional Development Commissions Act 1993 Schedule 1;
-Trust means the Western Australian Regional Development Trust established by section 11.
-4.Object
-The object of this Act is to promote and facilitate economic, business and social development in regional Western Australia through the operation of the Fund.
-Part 2 — Royalties for Regions Fund
-5.Subsidiary accounts of Fund
-(1) The Fund is to consist of the following subsidiary accounts —
-(a) the Country Local Government Fund;
-(b) the Regional Community Services Fund;
-(c) the Regional Infrastructure and Headworks Fund;
-(d) any other account determined by the Treasurer, on the recommendation of the Minister, to be a subsidiary account.
-(2) The Treasurer, on the recommendation of the Minister, is to determine from time to time the way in which money standing to the credit of the Fund is to be allocated between the subsidiary accounts.
-6.Treasurer to make payments into Fund
-(1) In this section —
-forecast royalty income, for a financial year, means the estimate of royalty income for the financial year set out in —
-(a)the part of the budget papers for the financial year, tabled in the Legislative Assembly, that is titled “General Government Operating Statement”; or
-(b)if the regulations prescribe another part of those budget papers — that other part.
-(2) In each financial year the Treasurer is to cause to be credited to the Fund an amount equal to 25% of the forecast royalty income for the financial year.
-(3) The Treasurer is not to cause an amount to be credited under subsection (2) to the extent that to do so would be contrary to section 8.
-(4) Amounts credited under subsection (2) are to be charged to the Consolidated Account.
-7.Money credited to Fund
-(1) In addition to amounts credited under section 6(2), the Treasurer is to cause to be credited to the Fund —
-(a) income derived from the investment of money standing to the credit of the Fund; and
-(b) any other money lawfully made available to the Fund.
-(2) The Treasurer is not to cause money to be credited to the Fund under subsection (1) to the extent that to do so would be contrary to section 8.
-8.Limit on amount in Fund
-The Treasurer is to ensure that the amount of money standing to the credit of the Fund at any time does not exceed $1 billion.
-9.Application of Fund
-(1) The Minister, with the Treasurer’s concurrence, may authorise the expenditure of money standing to the credit of the Fund for the following purposes —
-(a) to provide infrastructure and services in regional Western Australia;
-(b) to develop and broaden the economic base of regional Western Australia;
-(c) to maximise job creation and improve career opportunities in regional Western Australia.
-(2) There are to be charged to the Fund —
-(a) expenditure authorised under subsection (1); and
-(b) expenditure incurred in the administration of the Fund; and
-(c) expenditure incurred in the administration of the Trust, including any remuneration or allowances payable to its members; and
-(d) any other expenditure incurred in the administration of this Act.
-10.Annual report of Department to include information about Fund
-Without limiting the Financial Management Act 2006 section 61, the annual report for a financial year prepared by the accountable authority of the Department under that section is to contain information about the operation of the Fund during the financial year.
+Royalties for Regions Act 2009 Pt. 3 and 5 | 41 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Royalties for Regions Act 2009 Pt. 3 and 5 had not come into operation. They read as follows:
 Part 3 — Western Australian Regional Development Trust
 Division 1 — Establishment and functions
 11.Trust established
@@ -152,11 +103,22 @@ A person who is or has been a member must not, directly or indirectly, record, d
 (c) with the written consent of the person to whom the information relates; or
 (d) in prescribed circumstances.
 Penalty: a fine of $12 000.
-Part 4 — Miscellaneous
-31.Regulations
-The Governor may make regulations prescribing all matters that are required or permitted by this Act to be prescribed, or are necessary or convenient to be prescribed for giving effect to the purposes of this Act.
 Part 5 — Consequential amendment
 32.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 after the item for The Western Australian Post-Secondary Education Commission insert:
 The Western Australian Regional Development Trust established under the Royalties for Regions Act 2009.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+CEO3
+chairperson3
+Department3
+deputy chairperson3
+forecast royalty income6(1)
+Fund3
+member3
+Minister3
+regional development commission3
+regional Western Australia3
+Trust3
