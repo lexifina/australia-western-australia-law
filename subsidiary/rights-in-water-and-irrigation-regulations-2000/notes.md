@@ -15,21 +15,11 @@ Rights in Water and Irrigation Amendment Regulations 2008 | 4 Apr 2008 p. 1312-1
 Rights in Water and Irrigation Amendment Regulations 2009 | 23 Jun 2009 p. 2495-501 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jun 2009 (see r. 2(b))
 Reprint 2: The Rights in Water and Irrigation Regulations 2000 as at 7 Aug 2009 (includes amendments listed above)
 Rights in Water and Irrigation Amendment Regulations (No. 2) 2009 | 15 Sep 2009 p. 3599-604 | r. 1 and 2: 15 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Sep 2009 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Rights in Water and Irrigation Amendment Regulations 2010 r. 3 and 4 | 16 Mar 2010 p. 985 | 1 Apr 2010 (see r. 2(b))
+Rights in Water and Irrigation Amendment Regulations 2010 | 16 Mar 2010 p. 985 | r. 1 and 2: 16 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2010 (see r. 2(b))
 These regulations have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is given by the Water Agencies (Powers) Act 1984 s. 37.
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
 Disallowed 22 Nov 2007 see Gazette 27 Nov 2007 p. 5910.
 Disallowed 8 Apr 2008 see Gazette 11 Apr 2008 p. 1396.
-On the date as at which this compilation was prepared, the Rights in Water and Irrigation Amendment Regulations 2010 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Rights in Water and Irrigation Regulations 2000.
-4.Regulation 52A replaced
-Delete regulation 52A and insert:
-52A.Persons authorised to give infringement notices
-For the purposes of the Water Agencies (Powers) Act 1984 section 103, any person employed in the Department who is authorised in writing by the chief executive officer is authorised to give an infringement notice in respect of an offence prescribed by regulation 50.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
