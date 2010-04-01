@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 September 2009 of the Energy Coordination (Gas Tariffs) Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Energy Coordination (Gas Tariffs) Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Energy Coordination (Gas Tariffs) Regulations 2000 | 28 Jun 2000 p. 3300-12 | 2 Jul 2000 (see r. 2 and Gazette 28 Jun 2000 p. 3285)
@@ -7,6 +7,7 @@ Energy Coordination (Gas Tariffs) Amendment Regulations 2002 | 18 Oct 2002 p. 52
 Energy Coordination (Gas Tariffs) Amendment Regulations 2008 | 30 Jun 2008 p. 3131-6 | 1 Jul 2008 (see r. 2)
 Energy Coordination (Gas Tariffs) Amendment Regulations 2009 | 30 Jun 2009 p. 2667-73 | r. 1 and 2: 30 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 1: The Energy Coordination (Gas Tariffs) Regulations 2000 as at 18 Sep 2009 (includes amendments listed above)
+Energy Coordination (Gas Tariffs) Amendment Regulations 2010 | 26 Mar 2010 p. 1142-5 | r. 1 and 2: 26 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2010 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
