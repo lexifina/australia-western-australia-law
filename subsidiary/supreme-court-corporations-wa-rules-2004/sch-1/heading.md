@@ -372,7 +372,7 @@ Form 19
 rule 15A.5
 Consent to act as designated person
 [Title]
-I, [name], of [address], an official liquidator, consent to be appointed by the Court and to act as the person designated by the Court under *article 19/*article 21 of the Model Law to distribute the assets of [name of company].
+I, [name], of [address], an official liquidator, consent to be appointed by the Court and to act as the person designated by the Court under *article 19/*article 21 of the Model Law to *administer/*realise/*distribute the assets of [name of company].
 I am not aware of any conflict of interest or duty that would make it improper for me to act as the person designated by the Court.
 The hourly rates currently charged in respect of work done as the person designated by the Court by me, and by my partners and employees who may perform work in this administration, are set out below or in the Schedule which is attached to this Consent.
 I acknowledge that my appointment by the Court does not constitute an express or implied approval by the Court of these hourly rates.
@@ -382,7 +382,7 @@ Signature of official liquidator
 *Omit if not applicable
 Schedule
 [description of hourly rate(s)]
-[Form 19 inserted in Gazette 13 Feb 2009 p. 309.]
+[Form 19 inserted in Gazette 13 Feb 2009 p. 309; amended in Gazette 1 Apr 2010 p. 1279.]
 Form 20
 rule 15A.6
 Notice of filing of application for recognition of foreign proceeding
