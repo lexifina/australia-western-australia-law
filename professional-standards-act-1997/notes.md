@@ -10,4 +10,5 @@ Reprint 1: The Professional Standards Act 1997 as at 18 Mar 2005 (includes amend
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Bankruptcy) Act 2009 s. 70 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Professional Standards Amendment Act 2010 | 3 of 2010 | 7 Apr 2010 | Pt. 1: 7 Apr 2010 (see s. 2(a)); Act other than Pt. 1: 8 Apr 2010 (see s. 2(b))
 On 15 July 2001 the Corporations (Western Australia) Act 1990 was superseded by the Corporations Act 2001 of the Commonwealth, see Part 2 of the Corporations (Ancillary Provisions) Act 2001.
