@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Betting Control Regulations 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 April 2010 of the Betting Control Regulations 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Betting Control Regulations 1978 | 22 Jun 1978 p. 1991-2014 | 22 Jun 1978
@@ -53,3 +53,46 @@ Betting Control Amendment Regulations 2008 | 28 Oct 2008 p. 4732-3 | r. 1 and 2:
 Betting Control Amendment Regulations (No. 3) 2009 | 25 Sep 2009 p. 3751-2 | r. 1 and 2: 25 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2009 (see r. 2(b))
 Betting Control Amendment Regulations (No. 4) 2009 | 30 Oct 2009 p. 4312-13 | r. 1 and 2: 30 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
 Betting Control Amendment Regulations (No. 5) 2009 | 8 Jan 2010 p. 19-27 | r. 1 and 2: 8 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jan 2010 (see r. 2(b) and Gazette 8 Jan 2010 p. 9-10)
+Reprint 6: The Betting Control Regulations 1978 as at 9 Apr 2010 (includes amendments listed above)
+Under the Alteration of Statutory Designations Order (No. 2) 1996 a reference in any law to the Commissioner of State Taxation is read and construed as a reference to the Commissioner of State Revenue unless the contrary intention appears.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+all up betApp. r. 1(1)
+another jurisdiction98
+approval98
+approved officer104(2), 107(2)
+approved offshore betting operator101
+Australian Greyhound Racing Rules78(1)
+Australian Rules of Harness Racing78(1)
+Australian Rules of Racing78(1)
+authorisation98
+barrierApp. r. 1(1)
+betting98
+betting sheetApp. r. 1(1)
+cash3(1)
+commencement day102(1)
+committeeApp. r. 1(1)
+concession bet3(1)
+country3(1)
+doubleApp. r. 1(1)
+each way bet3(1)
+Flexi Bet3(1)
+grandstand enclosure3(1)
+host club91(1)
+internet betting3(1)
+leger3(1)
+local on-course totalisator78(1)
+multiple doubleApp. r. 10(2)
+objectionApp. r. 1(1)
+on-course totalisator78(1)
+play or payApp. r. 1(1)
+prescribed information104(1), 107(1)
+relevant person98
+rules of racing3(1)
+rules of wagering3(1)
+runner3(1)
+Scale of Deduction TableApp. r. 1(1)
+sporting event3(1)
+trebleApp. r. 1(1)
+walk-overApp. r. 1(1)
