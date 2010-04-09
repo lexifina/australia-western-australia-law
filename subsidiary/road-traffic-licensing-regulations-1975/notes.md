@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Licensing) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 April 2010 of the Road Traffic (Licensing) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Licensing) Regulations 1975 | 29 May 1975 p. 1577-88 | 1 Jun 1975
@@ -22,7 +22,7 @@ Untitled regulations | 10 Mar 1978 p. 688 | 10 Mar 1978
 Untitled regulations | 30 Jun 1978 p. 2141 | 30 Jun 1978
 Untitled regulations | 29 Sep 1978 p. 3578-9 | 29 Sep 1978
 Untitled regulations | 3 Nov 1978 p. 4165 | 3 Nov 1978
-Reprint of the Road Traffic (Licensing) Regulations 1975 in Gazette 29 Dec 1978 p. 4849-66 (includes amendments listed above except those in Gazette 30 Jun 1978, 29 Sep 1978 and 3 Nov 1978)
+Reprint of the Road Traffic (Licensing) Regulations 1975 authorised 21 Dec 1978 in Gazette 29 Dec 1978 p. 4849-66 (includes amendments listed above except those in Gazette 30 Jun 1978, 29 Sep 1978 and 3 Nov 1978)
 Untitled regulations | 11 May 1979 p. 1221 | 11 May 1979
 Untitled regulations | 15 Feb 1980 p. 464-6 | 15 Feb 1980 (see Gazette 15 Feb 1980 p. 456)
 Road Traffic (Licensing) Amendment Regulations 1980 | 12 Dec 1980 p. 4215 | 1 Jan 1981 (see r. 2)
@@ -42,7 +42,7 @@ Road Traffic (Licensing) Amendment Regulations (No. 3) 1983 | 27 May 1983 p. 161
 Road Traffic (Licensing) Amendment Regulations (No. 4) 1983 | 23 Sep 1983 p. 3815 | 1 Nov 1983 (see r. 2)
 Road Traffic (Licensing) Amendment Regulations (No. 5) 1983 | 21 Oct 1983 p. 4269-70 | 1 Nov 1983 (see r. 2)
 Road Traffic (Licensing) Amendment Regulations (No. 6) 1983 | 11 Nov 1983 p. 4512 | 11 Nov 1983
-Reprint of the Road Traffic (Licensing) Regulations 1975 in Gazette 28 Aug 1984 p. 2663-82 (includes amendments listed above)
+Reprint of the Road Traffic (Licensing) Regulations 1975 authorised 21 Aug 1984 in Gazette 28 Aug 1984 p. 2663-82 (includes amendments listed above)
 Road Traffic (Licensing) Amendment Regulations 1984 | 26 Oct 1984 p. 3457 | 1 Nov 1984 (see r. 2)
 Road Traffic (Licensing) Amendment Regulations (No. 2) 1984 | 14 Dec 1984 p. 4129 | 14 Dec 1984
 Road Traffic (Licensing) Amendment Regulations 1985 | 24 May 1985 p. 1760-1 | 24 May 1985
@@ -86,7 +86,7 @@ Road Traffic (Licensing) Amendment Regulations (No. 3) 1995 | 27 Jun 1995 p. 260
 Road Traffic (Licensing) Amendment Regulations (No. 4) 1995 | 24 Nov 1995 p. 5448-55 | 25 Nov 1995 (see r. 2 and Gazette 24 Nov 1995 p. 5390)
 Road Traffic (Licensing) Amendment Regulations (No. 6) 1995 | 28 Nov 1995 p. 5521 | 28 Nov 1995
 Road Traffic (Licensing) Amendment Regulations (No. 5) 1995 | 22 Dec 1995 p. 6194-6 | 22 Dec 1995
-Road Traffic (Licensing) Amendment Regulations 1996 | 24 May 1996 p. 2172-81 | r. 6, 7 and 13: 1 Jul 1996 (see r. 2(1)); balance: 1 Jun 1996 (see r. 2(2))
+Road Traffic (Licensing) Amendment Regulations 1996 | 24 May 1996 p. 2172-81 | Regulations other than r. 6, 7 and 13: 1 Jun 1996 (see r. 2(2)); r. 6, 7 and 13: 1 Jul 1996 (see r. 2(1))
 Road Traffic (Licensing) Amendment Regulations (No. 3) 1996 | 17 Dec 1996 p. 7013-14 | 17 Dec 1996
 Road Traffic (Licensing) Amendment Regulations 1997 | 31 Jan 1997 p. 682-4 | 1 Feb 1997 (see r. 2 and Gazette 31 Jan 1997 p. 613)
 Road Traffic (Licensing) Amendment Regulations (No. 2) 1997 | 26 Mar 1997 p. 1650 | 1 Apr 1997 (see r. 2)
@@ -129,10 +129,13 @@ Road Traffic (Licensing) Amendment Regulations (No. 2) 2006 | 26 May 2006 p. 188
 Road Traffic (Licensing) Amendment Regulations (No. 3) 2006 | 26 May 2006 p. 1888-92 | 1 Jul 2006 (see r. 2)
 Road Traffic (Licensing) Amendment Regulations 2006 | 28 Nov 2006 p. 4898-911 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
 Reprint 7: The Road Traffic (Vehicle Licensing) Regulations 1975 as at 18 May 2007 (includes amendments listed above)
-Road Traffic (Vehicle Licensing) Amendment Regulations (No. 4) 2007 | 22 Jun 2007 p. 2871-2 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)) Regulations other than r. 1 and 2: 23 Jun 2007 (see r. (2(b))
+Road Traffic (Vehicle Licensing) Amendment Regulations (No. 4) 2007 | 22 Jun 2007 p. 2871-2 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2007 (see r. (2(b))
 Road Traffic (Vehicle Licensing) Amendment Regulations 2007 | 22 Jun 2007 p. 2873-4 | 22 Jun 2007
 Road Traffic (Licensing) Amendment Regulations (No. 3) 2008 | 30 May 2008 p. 2083-4 | r. 1 and 2: 30 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Road Traffic (Licensing) Amendment Regulations 2009 | 31 Dec 2009 p. 5405-13 | r. 1 and 2: 31 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
+Reprint 8: The Road Traffic (Licensing) Regulations 1975 as at 9 Apr 2010 (includes amendments listed above)
+Repealed by the Trade Measurement Administration Act 2006.
+Repealed by the Motor Vehicle (Third Party Insurance) Regulations 2009.
 Revoked on 4 Oct 1974 (see Gazette 3 Oct 1974 p. 3701).
 Revoked on 1 Jun 1975 (see Gazette 29 May 1975 p. 1577).
 Under the Local Government Act 1995 Sch. 9.3 cl. 3(2) a reference to a municipality or municipal district under the Local Government Act 1960 may, when the context requires, be read as if it had been amended to include or be a reference to a local government or local government district under the Local Government Act 1995. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
@@ -142,7 +145,54 @@ The Road Traffic (Licensing) Amendment Regulations 1996 r. 15 is a transitional 
 The Road Traffic (Licensing) Amendment Regulations (No. 3) 1996 r. 6 is a transitional provision of no further effect.
 Disallowance of the Road Traffic (Licensing) Amendment Regulations (No. 2) 1997 r. 3(a) on 26 Aug 1997 in Gazette 2 Sep 1997 p. 5001 has no effect as the relevant provision was subsequently amended prior to disallowance.
 The Road Traffic (Licensing) Amendment Regulations (No. 3) 2000 r. 6 reads as follows:
-“
 6.Transitional
 A licence for a vehicle of a class described in the portion of the Table deleted by regulation 5(4) is to be taken to be a licence for the appropriate class of vehicle described in the portion of the Table inserted by that regulation.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+agricultural implement3(1)
+agricultural machine3(1)
+agricultural vehicle3(1)
+authorised vehicle examiner3(1)
+axle3(1)
+car or bus3(1)
+compliance plate3(1)
+converter dolly3(1)
+goods vehicle3(1)
+goods vehicle derivativeSch. 3 cl. 1(3)
+heavy trailer3(1)
+heavy vehicle3(1)
+identifier3(1)
+imitation plate27A
+licence holder3(1)
+manufacturer’s gross vehicle mass3(1)
+motor cycle3(1)
+motor home3(1)
+motor vehicle3(1)
+motorised wheelchair3(1)
+MRC3(1)
+name plates3(1)
+new owner16A(1)
+ordinary plates3(1)
+permit11(1)
+personalised plates3(1)
+plate fee26D
+prime mover3(1)
+reflective plates3(1)
+registration label32(1), 33(1)
+renewal period3(1)
+repairable write-off3(1)
+restricted access vehicle3(1)
+seasonal heavy vehicle licence3(1)
+semi-trailer3(1)
+set26D
+special plates3(1)
+special purpose vehicle3(1)
+statutory write-off3(1)
+tow truck3(1)
+trailer3(1)
+trailer derivativeSch. 3 cl. 1(3)
+unloaded mass3(1)
+vehicle identification number3(1)
+Vehicle Standards3(1)
+Written-Off Vehicle Register3(1)
