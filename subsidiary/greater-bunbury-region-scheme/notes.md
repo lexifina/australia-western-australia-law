@@ -3,6 +3,8 @@ This is a compilation of the Greater Bunbury Region Scheme. The following table 
 Compilation table
 Citation | Gazettal | Commencement
 Greater Bunbury Region Scheme | 17 Oct 2007 p. 5555-601 | 17 Oct 2007
+Greater Bunbury Region Scheme Amendment No. 0009/57 | 9 Apr 2010 p. 1363 | 9 Apr 2010
+Region Planning Schemes Amendments Instrument 2012 Pt. 3 | 1 Jun 2012 p. 2284-5 | 1 Jun 2012
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
