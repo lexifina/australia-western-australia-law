@@ -177,7 +177,7 @@ Ark Shells, Pipis, Venus Clams and all other species of edible molluscs not spec
 ## Division 6 — Miscellaneous
 [Heading inserted in Gazette 22 Dec 2005 p. 6234.]
 Fish | Species, or group of species, bag limit for one day
-Bait fish of the Families Clupeidae (Pilchards and Whitebait), Atherinidae (Hardyheads) and Engraulidae (Anchovy) (combined) . | 9 litres
+Bait fish of the Families Clupeidae (Pilchards and Whitebait), Atherinidae (Hardyheads) and Engraulidae (Anchovy) (combined) | 9 litres
 Sea Urchin | 20
 [Division 6 inserted in Gazette 22 Dec 2005 p. 6234.]
 ## Part 3 — Bag limits in the West Coast Region

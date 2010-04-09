@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 April 2010 of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -120,16 +120,17 @@ Fish Resources Management Amendment Regulations (No. 8) 2009 | 13 Mar 2009 p. 76
 Fish Resources Management Amendment Regulations (No. 5) 2009 | 27 Mar 2009 p. 922 | r. 1 and 2: 27 Mar 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Mar 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 9) 2009 | 9 Jun 2009 p. 1911-20 | r. 1 and 2: 9 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 10) 2009 | 3 Jul 2009 p. 2679-80 | r. 1 and 2: 3 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jul 2009 (see r. 2(b))
-Reprint 8: The Fish Resources Management Regulations 1995 as at 7 Aug 2009 (includes amendments listed above (correction in Gazette 1 Sep 2009 p. 3397))
+Reprint 8: The Fish Resources Management Regulations 1995 as at 7 Aug 2009 (includes amendments listed above) (correction in Gazette 1 Sep 2009 p. 3397)
 Fish Resources Management Amendment Regulations (No. 12) 2009 | 18 Aug 2009 p. 3237-8 | r. 1 and 2: 18 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 15) 2009 | 10 Sep 2009 p. 3539 | r. 1 and 2: 10 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 14) 2009 | 29 Sep 2009 p. 3863-82 | r. 1 and 2: 29 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Oct 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 13) 2009 | 13 Oct 2009 p. 4031-4 | r. 1 and 2: 13 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Oct 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 16) 2009 | 5 Nov 2009 p. 4411-15 | r. 1 and 2: 5 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Nov 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 4) 2009 | 6 Nov 2009 p. 4470-1 | r. 1 and 2: 6 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Nov 2009 (see r. 2(b))
-Fish Resources Management Amendment Regulations (No. 18) 2009 | 8 Dec 2009 p. 4993-8 (Printer’s correction in Gazette 15 Dec 2009 p. 5140) | r. 1 and 2: 8 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Dec 2009 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 18) 2009 | 8 Dec 2009 p. 4993-8 (printer’s correction 15 Dec 2009 p. 5140) | r. 1 and 2: 8 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Dec 2009 (see r. 2(b))
 Fish Resources Management Amendment Regulations 2010 | 12 Feb 2010 p. 584-7 | r. 1 and 2: 12 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Mar 2010 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 2) 2010 | 12 Feb 2010 p. 587-8 | r. 1 and 2: 12 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Feb 2010 (see r. 2(b))
+Reprint 9: The Fish Resources Management Regulations 1995 as at 9 Apr 2010 (includes amendments listed above)
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
@@ -151,7 +152,7 @@ attend64B, 64M
 automatic location communicator55A
 bag limit3(1)
 bait fish64OE(4)
-boat124B
+boat124B(1)
 bona fide64I(2)
 Broome area64ZJ
 Broome area waters64ZJ
@@ -160,7 +161,7 @@ carrier boat119(1)
 carrier boat licence3(1)
 charter boat16E(1)
 chlorine tarping110(2)
-closed season38G, 45
+closed season38G, 45(1)
 commercial fishing licence3(1)
 complying drop net3(1)
 Cottesloe Reef waters3(1)
@@ -170,7 +171,7 @@ Dampier Archipelago waters64OB(3)
 day trip16E(1), 22(5)
 dB(A)104(4)
 deep sea crab38A
-demersal scalefish45, 64OAA
+demersal scalefish45(1), 64OAA(1)
 disease3(1)
 disposable part16B(5)
 eastern gulf land area3(1)
@@ -184,7 +185,7 @@ fishing boat licence3(1)
 fishing net3(1)
 fishing year16G
 form3(1)
-Freycinet Estuary3(1)
+Freycinet Estuary 3(1)
 Freycinet Estuary area16G
 Gascoyne Region3(1)
 gear identification number3(1)
@@ -228,7 +229,7 @@ Ord River area16M(3), 64ZF
 Ord River area waters64ZF
 package22(5)
 Pilbara and Kimberley Region3(1)
-Point Quobba Restricted area113D
+Point Quobba restricted area113D
 prawn hand trawl net3(1)
 prescribed abalone17(2)
 principal place of residence3(1)
@@ -236,7 +237,7 @@ pull3(1)
 recreational fishing licence3(1), 136(1)
 recreational fishing licence receipt124A(1)
 region3(1)
-release weight64OAA
+release weight64OAA(1)
 reserve72
 restricted fishing tour128S(1)
 rock lobster64ZCA(2)
@@ -266,15 +267,16 @@ the full amount outstanding of the fee137(5)
 the GDA152(1)
 the package61(3a)
 unauthorised structure87
-unlicensed person124B
+unlicensed person124B(3)
 usual entitlement118A(2)
 waters of Point Quobba113D
 waters of Shark Bay3(1)
 waters of the Shark Bay eastern gulf3(1)
 waters of the Shark Bay western gulf3(1)
-West Coast Demersal Scalefish (Interim) Managed Fishery64OAA
+West Coast Demersal Scalefish (Interim) Managed Fishery64OAA(1)
 West Coast Purse Seine Managed Fishery boat64ZE(1)
 West Coast Region3(1)
+West Coast Rock Lobster Managed FisherySch. 13 Pt. 2 cl. 2A
 western gulf land area3(1)
 whole fish3(1)
 whole shark or ray16B(5)
