@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 April 2010 of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Administration Act 1997 | 30 of 1997 | 3 Oct 1997 | s. 1 and 2: 3 Oct 1997; Act other than s. 1 and 2: 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
@@ -30,23 +30,23 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 13 Div. 1 | 28 o
 Reprint 3: The Land Administration Act 1997 as at 15 Sep 2006 (includes amendments listed above except those in the Contaminated Sites Act 2003)
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
 Land Information Authority Act 2006 s. 139 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 93 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 11 | 24 of 2007 | 12 Oct 2007 | 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645)
 Petroleum Amendment Act 2007 s. 98 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Water Resources Legislation Amendment Act 2007 s. 196 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 4: The Land Administration Act 1997 as at 4 Jul 2008 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 83 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 48 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-Land Administration Amendment Act 2009 s. 3-6 | 32 of 2009 | 26 Nov 2009 | s. 1 and 2: 26 Nov 2009 (see s. 2(a)); Act other than s. 1 and 2: 27 Nov 2009 (see s. 2(b))
+Land Administration Amendment Act 2009 | 32 of 2009 | 26 Nov 2009 | s. 1 and 2: 26 Nov 2009 (see s. 2(a)); Act other than s. 1 and 2: 27 Nov 2009 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilaton. For the text of the provisions see the endnotes referred to in the table.
+Reprint 5: The Land Administration Act 1997 as at 9 Apr 2010 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
-“
+On the date as at which this reprint was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 4.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
 “
@@ -65,15 +65,11 @@ After section 152 the following section is inserted —
 152A.This Part subject to Native Title (State Provisions) Act 1998
 Where the taking of land or an interest in land under this Part is a Part 3 act, a Part 4 act or a Part 5 act within the meaning of the Native Title (State Provisions) Act 1998, the operation of this Part is subject to section 3.6, 4.5 or 5.3, as the case may be, of that Act.
 ”.
-”.
-The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this compilation was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this compilation had also not come into operation (see endnotes 1a and 4).
-On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-“
+The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this reprint was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this reprint had also not come into operation (see endnotes 1a and 4).
+On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3.Consequential amendments
 Schedule 2 has effect.
-”.
 Schedule 2 Div. 4 reads as follows:
-“
 Division 4 — Land Administration Act 1997
 6.The Act amended
 The amendments in this Division are to the Land Administration Act 1997.
@@ -102,7 +98,7 @@ in relation to the land affected by the taking;
 (c)it is not apparent from the terms of, or reasons for, the determination that native title did not exist in relation to the land affected by the taking immediately before the taking;
 registered native title body corporate and registered native title claimant have the same meaning as they have in the NTA;
 ”;
-(b) in the definition of “proprietor” in paragraph (b) by inserting after “registered” —
+(b) in the definition of proprietor in paragraph (b) by inserting after “registered” —
 “
 , or a registered native title body corporate or registered native title claimant in relation to the land
 ”.
@@ -113,7 +109,7 @@ After section 152 the following section is inserted —
 Where the taking of land or an interest in land under this Part is a Part 2 act, a Part 3 act or a Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of this Part is subject to section 2.6, 3.5, or 4.3 of that Act.
 ”.
 10.Section 153 amended
-Section 153(3) is amended in paragraph (a) of the definition of “in accordance with the NTA” as follows:
+Section 153(3) is amended in paragraph (a) of the definition of in accordance with the NTA as follows:
 (a) by deleting “5” in the 3 places where it occurs and inserting instead —
 “ 4 ”;
 (b) by deleting “1998” and inserting instead —
@@ -123,7 +119,7 @@ Section 153(3) is amended in paragraph (a) of the definition of “in accordance
 “
 (b) the taking of those interests would be a compulsory acquisition that is referred to in section 26(1)(c)(iii) of the NTA.
 ”.
-(2) Section 154(3) is amended in the definition of “in accordance with the NTA” as follows:
+(2) Section 154(3) is amended in the definition of in accordance with the NTA as follows:
 (a) in paragraph (a) —
 (i) by deleting “Part 3” in the 3 places where it occurs and inserting instead —
 “ Part 2 ”;
@@ -199,7 +195,7 @@ Section 186(3)(a) is amended by deleting “and to” and inserting instead —
 any registered native title body corporate or registered native title claimant, and
 ”.
 25.Section 206 amended
-Section 206 (1) is amended by inserting after “interest in land” —
+Section 206(1) is amended by inserting after “interest in land” —
 “ , other than a native title right or interest, ”.
 26.Section 207 amended
 After section 207(2) the following subsection is inserted —
@@ -269,9 +265,7 @@ Section 224(7) is amended by deleting “the judgment of the Court under section
 “
 (1a) In determining the amount of compensation (if any) to be offered, paid, or awarded for native title rights and interests taken under Part 9, regard may be had to the matters referred to in this section.
 ”.
-”.
 The Land Administration Amendment Act 2000 s. 8(6), (7) and (8) read as follows:
-“
 (6) Despite section 18(6) of the Land Administration Act 1997, an act —
 (a) done in contravention of section 18(1), (2), (3) or (4) of that Act on or before the coming into operation of this section;
 (b) that, if it had been done after the coming into operation of this section, would have required the approval in writing of the Minister; and
@@ -282,39 +276,29 @@ is, and is taken always to have been, as valid and effective as it would have be
 (b) that, if it had been done after the coming into operation of this section, would not have required the approval in writing of the Minister,
 is, and is taken always to have been, as valid and effective as it would have been if the act were done with the approval in writing of the Minister.
 (8) Despite section 18(6) of the Land Administration Act 1997, if within 12 months of the day on which this section comes into operation an act is done in contravention of section 18(1), (2), (3), or (4) of that Act as amended by this section that act is valid and effective if, within 12 months of the day on which this subsection comes into operation, the Minister approves the act in writing.
-”.
 The Mental Health Act 1962 was repealed by the Mental Health (Consequential Provisions) Act 1996 s. 52.
 The Land Act 1898 was repealed by the Land Act 1933, which was repealed by the Land Administration Act 1997 s. 281(1).
 The Land Administration Amendment Act 2000 s. 12(4), (5) and (6) read as follows:
-“
 (4) Section 46(3a) of the Land Administration Act 1997 as inserted by subsection (1) applies in respect of any order made under section 46(3)(a) of that Act, whether that order was made on, before, or after the coming into operation of subsection (1).
 (5) Section 46(3b) of the Land Administration Act 1997 as inserted by subsection (1) applies in respect of an order made under section 46(3)(a) of that Act, whether that order was made on, before, or after the coming into operation of subsection (1).
-(6) Section 46(7), (8), (9), and (10) of the Land Administration Act 1997 (the “Act”), as inserted by section 12(3) of the Land Administration Amendment Act 2000 applies in respect of —
+(6) Section 46(7), (8), (9), and (10) of the Land Administration Act 1997 (the Act), as inserted by section 12(3) of the Land Administration Amendment Act 2000 applies in respect of —
 (a) any order made, or purportedly made, under section 46(1) of the Act;
 (b) a lease, sublease, or licence granted, or purportedly granted, by a person referred to in section 46(10) in a manner consistent with the order, any order made under section 46(3)(a) of the Act and the Act; and
 (c) any other instrument entered into, or purportedly entered into, by a person referred to in section 46(10) in relation to the care, control and management of a reserve,
 on or before the coming into operation of section 12(3) of the Land Administration Amendment Act 2000 as if section 46(7), (8), (9), and (10) had come into operation on the day on which the Act came into operation.
-”.
 The Land Administration Amendment Act 2000 s. 18(2) reads as follows:
-“
 (2) If the Minister has not caused notice of the registration of an order made under section 58(4) of the Land Administration Act 1997 to be published in a newspaper circulating in the district of the relevant local government under section 58(5)(c) of the Land Administration Act 1997, that failure does not render the order invalid and the order is, and is taken always to have been, as valid and effective as it would have been if the notice had been so published.
-”.
 The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 13(3) reads as follows:
-“
 (3) The application of section 170 of the Land Administration Act 1997 as amended by this section extends to a notice of intention, as defined in section 151 of that Act, that is current at the commencement of this section.
-”.
 The Discharged Soldiers’ Settlement Act 1918 was repealed by the Miscellaneous Repeals Act 1986.
 The Permanent Reserves Act 1899 was repealed by the Native Flora Protection Act 1935, which was repealed by the Wildlife Conservation Act Amendment Act 1976.
-The Acts Amendment (Court of Appeal) Act 2004 Sch. 1 cl. 22 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 75(4).
+The Acts Amendment (Court of Appeal) Act 2004 Sch. 1 cl. 22 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 75(4).
 The Rail Freight System Act 2000 s. 100 and 101 read as follows:
-“
 100.Sections 187-191 not to apply
 Sections 187 to 191 do not apply to or in relation to corridor land.
 101.Taking of land to be as if for the conferral of rights
 When applying the Land Administration Act 1997, the taking of land for the purpose of dealing with it as corridor land under this Act is to be regarded as being for the purpose of, and the land is to be regarded as being required for the purpose of, the grant of interests in the land under this Act, whether or not interests have already been granted under this Act in respect of the land.
-”.
 The Land Administration Amendment Act 2000 s. 48, 49 and 50 read as follows:
-“
 48.Validation of certain purported offers of leases
 (1) If a lessee of a pastoral lease or a former lessee of a pastoral lease —
 (a) was given a notice under section 98(11) of the Land Act 1933; or
@@ -360,27 +344,21 @@ If a person is given a notice under section 143(6)(d) of the Land Administration
 (d) the notice stating that rent reviews during the lease or the extension of the lease are to be under section 123(4) of the Land Administration Act 1997, in which case the annual rent payable for the lease or extension of a lease, as the case may be, is to be and is taken always to have been determined under section 123 of the Land Administration Act 1997; and
 (e) the notice not stating that the land the subject of the offer is the land contained in the existing pastoral lease other than any land excluded under section 143(6d) to (6i), in which case the offer is to be regarded as being accepted in relation to the land contained in the existing pastoral lease at the time the offer is accepted (other than any land excluded under those subsections),
 and, unless otherwise provided in this subsection, the text and terms and conditions of the lease or extension of the lease are the terms and conditions specified in the notice given to the lessee.
-”.
 The Land Administration Amendment Act 2000 s. 52 reads as follows:
-“
 52.Reserve No. 1667
 (1) Reserve No. 1667 in the City of Nedlands, classified as a class A reserve, comprising 8.2005 hectares dedicated to the purpose of an “Old Men’s Depot site”, is amended, despite sections 42 and 43 of the Land Administration Act 1997, by changing the purpose of the Reserve to “Retirement village, parks and recreation, community, and ancillary commercial purposes”.
 (2) The Reserve is taken to have been reserved under section 41 of the Land Administration Act 1997 for the purpose specified in subsection (1).
 (3) The Minister is to make an order that is to be taken to be an order made by the Minister under the Land Administration Act 1997 that the purpose of Reserve No. 1667 is changed in the manner referred to in subsection (1).
-”.
-The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 26 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 26 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 33 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 33 reads as follows:
-“
 33.Land Administration Act 1997
 (1) In this regulation —
 commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 67 comes into operation.
 (2) If a matter has been partly or fully heard, but not determined, by a Compensation Court under the Land Administration Act 1997 immediately before the commencement day —
 (a) the Act section 167(4)(b) does not apply; and
 (b) the matter is to continue to be dealt with as if the written law applicable to the matter in force immediately before the commencement day continued to apply.
-”.
 On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 had not come into operation. It reads as follows:
-“
 90.Land Administration Act 1997 amended
 (1) The amendments in this section are to the Land Administration Act 1997.
 (2) Section 111(3) is amended by deleting “declared animals and declared plants on the land under the lease in compliance with the Agriculture and Related Resources Protection Act 1976” and inserting instead —
@@ -392,7 +370,6 @@ declared pests on the land under the lease in compliance with the Biosecurity an
 (4) Section 117(a) is deleted and the following paragraph is inserted instead —
 “
 (a) the Biosecurity and Agriculture Management Act 2007;
-”.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
