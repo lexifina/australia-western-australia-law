@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Industrial Relations Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 April 2010 of the Industrial Relations Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Industrial Arbitration Act 1979 | 114 of 1979 | 21 Dec 1979 | 1 Mar 1980 (see s. 2 and Gazette 8 Feb 1980 p. 383)
@@ -55,7 +55,7 @@ Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 4 publish
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 41 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 68 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 9: The Industrial Relations Act 1979 as at 18 Jun 2004 (includes amendments listed above)
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
+Children and Community Services Act 2004 Sch. 2 cl. 15 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Occupational Safety and Health Legislation Amendment and Repeal Act 2004 Pt. 6 Div. 2 | 51 of 2004 | 12 Nov 2004 | 4 Apr 2005 (see s. 2 and Gazette 14 Dec 2004 p. 5999-6000)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 14 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 469 | 55 of 2004 | 24 Nov 2004 | 24 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
@@ -73,14 +73,15 @@ Petroleum Amendment Act 2007 s. 97 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see
 Acts Amendment (Justice) Act 2008 Pt. 13 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Police Amendment Act 2008 s. 13 and 23(3) | 8 of 2008 | 31 Mar 2008 | s. 13: 1 Apr 2008 (see s. 2(1)); s. 23(3): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Legal Profession Act 2008 s. 668 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Medical Practitioners Act 2008 Sch. 3 cl. 30 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Training Legislation Amendment and Repeal Act 2008 s. 53 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
 Reprint 12: The Industrial Relations Act 1979 as at 2 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008 and the Training Legislation Amendment and Repeal Act 2008)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 77 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 45 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Occupational Safety and Health Legislation Amendment Act 2009 Pt. 3 | 36 of 2009 | 3 Dec 2009 | 31 Dec 2009 (see s. 2(c))
 Police Amendment Act 2009 s. 19 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 13: The Industrial Relations Act 1979 as at 9 Apr 2010 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
@@ -89,7 +90,6 @@ Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now s
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 of the Commonwealth.
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
 The Labour Relations Reform Act 2002 s. 112, 113(6), 117(2) and (3), 138(2), 140(2), 141(2), 146(2), 152(2), 155(2) and (3), 186(2)-(4) and Sch. 1 read as follows:
-“
 112.Transitional provisions relating to section 111(4)
 (1) A claim that —
 (a) was referred to the Industrial Relations Commission under section 7G of the Industrial Relations Act 1979 before the commencement of section 111(4); and
@@ -148,32 +148,30 @@ under 16 years | 40%
 4.Minimum weekly rate of pay for apprentices and trainees
 (1) The minimum weekly rate of pay for an apprentice or trainee in relation to whom a workplace agreement or an employer-employee agreement is not in force is the rate of pay that is provided for under an award that applies to that apprentice or trainee.
 (2) The minimum weekly rate of pay for an apprentice or trainee in relation to whom a workplace agreement or an employer-employee agreement is in force is the rate of pay that is provided for under an award that would, if the workplace agreement or employer-employee agreement were not in force, apply to that apprentice or trainee.
-”.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
-“
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
 Act | Provision
 ...................... | ........
 Industrial Relations Act 1979 | s. 20(8), (8a), (8b), (8c), (8d)
-...................... | ........
-”.
+The Long Service Leave Act 1958 s. 36 was deleted by the Labour Relations Legislation Amendment Act 2006 s. 62.
 Now known as the Industrial Relations Act 1979; short title changed (see note under s. 1).
-The Industrial Relations Amendment Act 1990 s. 14 was repealed before it came into operation by the Industrial Legislation Amendment Act 1995 s. 35.
+The Industrial Relations Amendment Act 1990 s. 14 was deleted before it came into operation by the Industrial Legislation Amendment Act 1995 s. 35.
 The Acts Amendment (Industrial Magistrate’s Courts) Act 1991 s. 6 contains transitional provisions relating to persons who were industrial magistrates when that section commenced and to proceedings begun and decisions made before that commencement.
 The Acts Amendment (Parliamentary, Electorate and Gubernatorial Staff) Act 1992 s. 9(2) is a transitional provision that is spent.
 The Industrial Relations Amendment Act 1993 s. 15(2) is a transitional provision that is spent. Section 18 of that Act contains savings provisions relating to the Long Service Leave General Order.
-The Hospitals Amendment Act 1994 the Table to s. 18 it. 11 fourth paragraph was repealed before it came into operation by the Industrial Legislation Amendment and Repeal Act 1995 s. 36(4).
+The Hospitals Amendment Act 1994 the Table to s. 18 it. 11 fourth paragraph was deleted before it came into operation by the Industrial Legislation Amendment and Repeal Act 1995 s. 36(4).
 The Industrial Legislation Amendment Act 1995 contains transitional and other provisions —
 (a) in Part 2 Div. 3, relating to the Government School Teachers Tribunal;
 (b) in s. 34, relating to the Promotions Appeal Board; and
 (c) in s. 42, relating to dismissals occurring before the commencement of that section.
 The Industrial Relations Legislation Amendment and Repeal Act 1995 s. 12 and 13 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation.
+The Vocational Education and Training Act 1996 Sch. 2 had not come into operation when it was deleted by the Training Legislation Amendment and Repeal Act 2008 s. 48.
+Reprints before Reprint 9 are not numbered. Reprint 9 and subsequent reprints are numbered consecutively but are out by one number.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Labour Relations Legislation Amendment Act 2006 s. 22 reads as follows:
-“
 22.Transitional provisions
 (1) In this section —
 commencement day means the day on which Part 4 of the Labour Relations Legislation Amendment Act 2006 comes into operation;
@@ -190,30 +188,24 @@ remains of effect until a State Wage order takes effect.
 (c) if it comes into effect on a date after 1 July, is applicable in respect of an employee, apprentice or trainee on and from the commencement of the first pay period of the employee, apprentice or trainee on or after that date.
 (4) A date specified under subsection (3)(b) must not be a date that is earlier than the day on which the order is made.
 (5) Despite section 50A(1)(b), the Commission must not adjust rates of wages paid under awards in a State Wage order made in relation to the period ending 30 June 2007 if, during 2006 and before that State Wage order is made, the Commission has made a General Order under section 50 of the Industrial Relations Act 1979 adjusting rates of wages paid under awards generally.
-”.
-18-19Footnotes no longer applicable.
-On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2a) and (4)(a) had not come into operation. They read as follows:
-“
+On the date as at which this reprint was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2a) and (4)(a) had not come into operation. They read as follows:
 49.Industrial Relations Act 1979 amended
 (2) Section 7(3) is amended as follows:
 (a) after paragraph (a) by deleting “or”;
 (4) Section 113(1)(d)(ii) is amended as follows:
 (a) after item (I) by deleting “and”;
-”.
-Reprints before Reprint 9 are not numbered. Reprint 9 and subsequent reprints are numbered consecutively but are out by one number.
-Sch. 2 of the Vocational Education and Training Act 1996 had not come into operation when it was deleted by the Training Legislation Amendment and Repeal Act 2008 s. 48.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-a revocation order97XG(b)(ii), 97XI(1)
+Defined termProvision(s)
+a revocation order97XG, 97XI(1)
 alteration7(1)
 applicable order48A(3)
 applicant97WR
 application103(3)
 apprentice7(1)
 arbitration functions32A(1)
-arbitrator97WH
 Arbitrator80C(1), Sch. 3 cl. 1
+arbitrator97WH
 area and scope provisions29A(1a)
 association7(1)
 Association80C(1)
@@ -232,8 +224,8 @@ Chamber7(1)
 Chief Commissioner7(1)
 Chief Magistrate81B(6)
 civil penalty provision7(1)
+collective agreement51O(2)
 collegiate electoral system52
-collective agreement51O(2)(a)
 commencement16(2E)
 commencement day20(8b)
 Commission7(1), 16(1), 22A, 42C(6), 50(1), 51C(1), 97VW
@@ -261,11 +253,11 @@ discriminatory action96E(4)
 dispute97WH
 EEA7(1), 97WB(2)
 EEA dispute provisions97U(1)
-employee7(1), 51O(2)(b), 97U(2) and (3)
-employer7(1), 51O(2)(c), 80C(1), 97U(2) and (3)
+employee7(1), 51O(2), 97U(2), 97U(3)
+employer7(1), 51O(2), 80C(1), 97U(2), 97U(3)
 employer-employee agreement7(1)
 employing authority80C(1)
-employment51O(2)(d)
+employment51O(2)
 employment claim23B(1)
 employment record7(1)
 employment services for persons with disabilities97U(1)
@@ -308,12 +300,12 @@ Mines and Metals Association7(1)
 negotiating party40C, 51O(1)
 new employee97U(1)
 no-disadvantage test97U(1)
-nominal expiry date42(8), 51O(2)(e)
+nominal expiry date42(8), 51O(2)
 occupier49L(2)
 office7(1)
 officer7(1)
 one-tier collegiate electoral system52
-organisation7(1), 51O(1), 72A(1), 72B(2)(a), 80H(6), 96A
+organisation7(1), 51O(1), 72A(1), 72B(2), 80H(6), 96A
 organisation of employees96A
 original term56A(4)
 party38(1b), 91(2), 97U(1), 97VC(5), Sch. 4 cl. 1(3)
@@ -323,9 +315,9 @@ plenary guardian97WS(4)
 postal ballot52
 post-secondary education institution7(1)
 premises7(1)
-prescribed amount29AA(5)
 prescribed period40C, 42A(1)
 prescribed salary80I(2)
+prescribed amount29AA(5)
 President7(1), 20(13)
 presiding judge7(1)
 principal executive officer7(1)
@@ -366,21 +358,21 @@ subscription7(1)
 supported wage provisions97U(1)
 Supported Wage System97U(1)
 teacher80C(1)
-the adopting provision71A(2)
-the affected person23B(1)(a)
-the auditor65(a)
+the affected person23B(1)
+the auditor65
 the Commission49(1)
 the employees36A(1)
 the exposure draft97WA(1)
 the first agreement41(8)
 the new award36A(1)
-the original dispute97WK(1)(a)
+the original dispute97WK(1)
 the principal7(6)
 the proposed representative97WV(3), 97XM(3)
 the representative97X, 97XO
 the represented person97X, 97XO
 the respondent77(1)
 the State rules71A(2)
+the adopting provision71A(2)
 third party23B(1)
 threats48B(5)
 transport Minister80M(1)
