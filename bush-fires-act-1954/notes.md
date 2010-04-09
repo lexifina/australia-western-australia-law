@@ -1,13 +1,13 @@
 Notes
-This is a compilation of the Bush Fires Act 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 April 2010 of the Bush Fires Act 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Bush Fires Act 1954 | 53 of 1954 | 23 Dec 1954 | 29 Apr 1955 (see s. 3 and Gazette 29 Apr 1955 p. 749)
-Bush Fires Act Amendment Act 1957 | 35 of 1957 | 5 Nov 1957 | 5 Nov 1957
-Bush Fires Act Amendment Act 1958 | 20 of 1958 | 22 Oct 1958 | 22 Oct 1958
+Bush Fires Act 1954 | 53 of 1954 (3 Eliz. II No. 53) | 23 Dec 1954 | 29 Apr 1955 (see s. 3 and Gazette 29 Apr 1955 p. 749)
+Bush Fires Act Amendment Act 1957 | 35 of 1957 (6 Eliz. II No. 35) | 5 Nov 1957 | 5 Nov 1957
+Bush Fires Act Amendment Act 1958 | 20 of 1958 (7 Eliz. II No. 20) | 22 Oct 1958 | 22 Oct 1958
 Reprint of the Bush Fires Act 1954 approved 3 Jul 1961 in Vol. 15 of Reprinted Acts (includes amendments listed above)
-Bush Fires Act Amendment Act 1963 | 11 of 1963 | 22 Oct 1963 | 22 Nov 1963 (see s. 2 and Gazette 22 Nov 1963 p. 3618)
-Bush Fires Act Amendment Act 1964 | 23 of 1964 | 28 Oct 1964 | 28 Oct 1964
+Bush Fires Act Amendment Act 1963 | 11 of 1963 (12 Eliz. II No. 11) | 22 Oct 1963 | 22 Nov 1963 (see s. 2 and Gazette 22 Nov 1963 p. 3618)
+Bush Fires Act Amendment Act 1964 | 23 of 1964 (13 Eliz. II No. 23) | 28 Oct 1964 | 28 Oct 1964
 Bush Fires Act Amendment Act 1965 | 15 of 1965 | 1 Oct 1965 | 1 Oct 1965
 Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Bush Fires Act Amendment Act 1969 | 101 of 1969 | 25 Nov 1969 | 25 Nov 1969
@@ -45,41 +45,23 @@ Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 7: The Bush Fires Act 1954 as at 3 Mar 2006 (includes amendments listed above)
-Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 14 Div 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 14 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Land Information Authority Act 2006 s. 126 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Bush Fires Amendment Act 2009 Pt. 2 | 25 of 2009 | 17 Nov 2009 | 1 Dec 1009 (see s. 2(b) and Gazette 1 Dec 2009 p. 4829)
-Arson Legislation Amendment Act 2009 Pt. 2 | 43 of 2009 | 3 Dec 2009 | 19 Dec 2009 (see s. 2(b) and Gazette 18 Dec 2009 p. 5167
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Arson Legislation Amendment Act 2009 Pt. 2 | 43 of 2009 | 3 Dec 2009 | 19 Dec 2009 (see s. 2(b) and Gazette 18 Dec 2009 p. 5167)
+Reprint 8: The Bush Fires Act 1954 as at 9 Apr 2010 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 28 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 28 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Provisions of the Bush Fires Act 1954 referred to in s. 64 are not the same references as originally enacted. Under the Interpretation Act 1984 s. 16(2), as a result of amendments to the Bush Fires Act 1954 by the Bush Fires Act Amendment Act 1977 (No. 65 of 1977), those references may be construed as if amended. The references were changed under the Reprints Act 1984 s. 7(3)(g).
-Footnote no longer applicable.
-At the time this compilation was prepared this office was known as the Director General of Mines.
-Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is, unless the contrary is intended, to be read and construed as a reference to the Department of Industry and Resources.
 The Third Schedule was inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
 The Bush Fires Amendment Act 1992 s. 6(2) reads as follows:
-“
 (2) Where, immediately before the commencement of this Act, a delegation was in force under section 9(1)(a) or (c) of the principal Act, the delegation shall, on and after that commencement, be deemed to be a delegation to the Chief Executive Officer under section 9(1)(a) of the principal Act as in force after that commencement, and may be varied or revoked accordingly.
-”.
-The Fire and Emergency Services Authority of Western Australia (Consequential Provisions) Act 1998 s. 11(2) reads as follows:
-“
-(2) Any funds standing to the credit of the Bush Fires Board Fund under section 16A of the Bush Fires Act 1954, as in force immediately before the commencement of this section, are to be credited to the Fire and Emergency Services Authority Account referred to in section 30 of the FESA Act.
-”.
-The Fire and Emergency Services Legislation Amendment Act 2002 s. 27(2) and (3) read as follows:
-“
-(2) Despite the repeal effected by subsection (1) a rubbish tip notice that is in force immediately before the commencement day continues in force until the day 5 years after the day on which the notice was published in the Gazette, subject to the Bush Fires Act 1954 (as amended by this Act), as if it were a notice issued under section 24E of that Act, permitting the specified local government to burn garden refuse at the specified place in accordance with the specified conditions (if any).
-(3) In subsection (2) —
-commencement day means the day on which this section comes into operation;
-rubbish tip notice means —
-(a)the Bush Fires (Section 25B) Notice 2000 — Shire of Broome issued by the Minister under section 25B of the Bush Fires Act 1954 and published in the Gazette on 28 April 2000;
-(b)the Bush Fires (Section 25B) Notice 2000 — Shire of Williams issued by the Minister under section 25B of the Bush Fires Act 1954 and published in the Gazette on 18 August 2000; or
-(c)the Bush Fires (Section 25B) Notice 2000 — Shire of Pingelly issued by the Minister under section 25B of the Bush Fires Act 1954 and published in the Gazette on 18 August 2000;
-specified, in relation to a rubbish tip notice, means specified in the notice.
-”.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 28 had not come into operation. It reads as follows:
-“
+The Fire and Emergency Services Authority of Western Australia (Consequential Provisions) Act 1998 s. 11(2) is a transitional provision that is of no further effect.
+The Fire and Emergency Services Legislation Amendment Act 2002 s. 27(2) and (3) are transitional provisions that are of no further effect.
+On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 28 had not come into operation. It reads as follows:
 28.Bush Fires Act 1954 amended
 (1) The amendments in this section are to the Bush Fires Act 1954.
 (2) Section 26(5) is repealed and the following subsection is inserted instead —
@@ -90,4 +72,53 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 “
 A plant that is a declared pest as that term is defined by the Biosecurity and Agriculture Management Act 2007
 ”.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+adjoining7(1)
+affected area14B(1)
+approved local government38(6)(a)
+area of the State21
+authorisation14B(1)
+authorised CALM Act officer7(1)
+authorised period14B(1)
+authorised person13(6), 14B(1)
+Authority7(1)
+burn garden refuse24C
+bush7(1)
+bush fire35A
+bush fire brigade7(1)
+bush fire officer45A(1)(a), 45(1)
+CALM Act45(1)
+CALM Act CEO7(1)
+CALM Act Department7(1)
+Chief Executive Officer7(1)
+common boundary22(1)
+conservation land9, 45(1)
+crop53(3)
+exempt land22(1)
+forest land7(1)
+incendiary material27D(1)
+infringement notice59A(2)
+land other than conservation land9, 45(1)
+limited burning times24C
+loss or damage35A
+member of the Authority7(1)
+normal brigade activities35A
+occupier of land7(1)
+owner or occupier of land33(9)
+plant26(5)
+prescribed amount37(6)
+prescribed condition18(5)(d)
+prohibited burning times7(1)
+property32(1)
+prosecutor59A(1)
+publish17(9)
+relevant bush fire14B(1)
+restricted burning times7(1)
+rubbish tip24C
+specified24C
+specified injury37(6)
+the FESA Act7(1)
+total fire ban21
+volunteer fire fighter35A
