@@ -1,0 +1,26 @@
+Notes
+This is a compilation of the Mines Safety and Inspection Levy Regulations 2010. The following table contains information about those regulations.
+Compilation table
+Citation | Gazettal | Commencement
+Mines Safety and Inspection Levy Regulations 2010 | 23 Apr 2010 p. 1545-77 | r. 1 and 2: 23 Apr 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Apr 2010 (see r. 2(b))
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+assessment3(1)
+assessment officer3(1)
+authorised person3(1)
+CEO3(1)
+departmental officer3(1)
+due date17(1)
+initial levy3(1)
+initial levy period3(1)
+investigation purposes37(1)
+levy3(1)
+notice3(1)
+number of assessed hours3(1)
+original assessment14(1)
+place37(1)
+quarter 3(1)
+reassessment3(1)
+reviewer20
+worker3(1)
