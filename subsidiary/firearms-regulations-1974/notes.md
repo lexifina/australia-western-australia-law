@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 February 2010 of the Firearms Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Firearms Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Firearms Regulations 1974 | 29 Mar 1974 p. 1056-76 | 1 Jul 1974 (see r. 1 and Gazette 29 Mar 1974 p. 1027)
@@ -77,6 +77,7 @@ Firearms Amendment Regulations 2009 | 23 Jun 2009 p. 2493-4 | r. 1 and 2: 23 Jun
 Firearms Amendment Regulations (No. 3) 2009 | 17 Jul 2009 p. 2881-2 | r. 1 and 2: 17 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jul 2009 (see r. 2(b))
 Firearms Amendment Regulations (No. 4) 2009 | 6 Nov 2009 p. 4417-45 | r. 1 and 2: 6 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Nov 2009 (see r. 2(b))
 Reprint 7: The Firearms Regulations 1974 as at 19 Feb 2010 (includes amendments listed above)
+Firearms Amendment (Manufacture of Frangible Ammunition) Regulations 2010 | 23 Apr 2010 p. 1523-5 | r. 1 and 2: 23 Apr 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Apr 2010 (see r. 2(b))
 The Explosives and Dangerous Goods Act 1961 was repealed by the Dangerous Goods Safety Act 2004 s. 70.
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
