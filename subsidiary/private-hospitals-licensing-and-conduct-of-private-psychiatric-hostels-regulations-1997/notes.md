@@ -6,3 +6,4 @@ Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Regulations 199
 Reprint 1: The Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Regulations 1997 as at 2 Apr 2004
 Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Amendment Regulations 2006 | 15 Dec 2006 p. 5626-7 | 15 Dec 2006
 Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Amendment Regulations 2009 | 30 Oct 2009 p. 4308-9 | r. 1 and 2: 30 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2009 (see r. 2(b))
+Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Amendment Regulations 2010 | 27 Apr 2010 p. 1582 | r. 1 and 2: 27 Apr 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Apr 2010 (see r. 2(b))
