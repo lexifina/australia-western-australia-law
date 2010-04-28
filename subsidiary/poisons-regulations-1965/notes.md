@@ -149,6 +149,7 @@ Poisons Amendment Regulations (No. 6) 2009 | 25 Sep 2009 p. 3746-7 | r. 1 and 2:
 Reprint 9: The Poisons Regulations 1965 as at 13 Nov 2009 (includes amendments listed above)
 Poisons Amendment Regulations (No. 2) 2010 | 5 Mar 2010 p. 845-7 | r. 1 and 2: 5 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2010 (see r. 2(b))
 Poisons Amendment Regulations (No. 3) 2010 | 26 Mar 2010 p. 1145-8 | r. 1 and 2: 26 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Mar 2010 (see r. 2(b))
+Poisons Amendment Regulations 2010 | 27 Apr 2010 p. 1583-4 | r. 1 and 2: 27 Apr 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Apr 2010 (see r. 2(b))
 Repealed by the Medical Practitioners Act 2008.
 Repealed by the Mental Health Act 1981 which was repealed by the Mental Health Act 1996.
 Repealed by the Nurses and Midwives Act 2006.
@@ -240,6 +241,7 @@ qualified person2(1)
 quarter2(1)
 racing yacht2(1)
 register44C(1)
+registered midwife2(1)
 registered nurse2(1)
 remote area nursing post2(1)
 Rural Community Mental Health Team36AAB(1)
