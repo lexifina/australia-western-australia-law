@@ -91,13 +91,13 @@ Electoral Legislation Amendment Act 2006 Pt. 3 | 64 of 2006 | 8 Dec 2006 | 5 Mar
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 14: The Electoral Act 1907 as at 7 Dec 2007 (includes amendments listed above)
 Criminal Law Amendment (Homicide) Act 2008 s. 32 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-Acts Amendment (Bankruptcy) Act 2009 s. 34 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Electoral Amendment Act 2008 | 38 of 2008 | 3 Jul 2008 | 30 Apr 2010 (see s. 2(b) and Gazette 23 Apr 2010 p. 1523)
 Electoral Amendment (Miscellaneous) Act 2009 | 7 of 2009 | 21 May 2009 | Pt. 1: 21 May 2009 (see s. 2(a)); Act other than Part 1: 1 Oct 2009 (see s. 2(b) and Gazette 1 Sep 2009 p. 3393)
+Acts Amendment (Bankruptcy) Act 2009 s. 34 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Electoral Amendment Act 2008 s. 3-5 | 38 of 2008 | 3 Jul 2008 | To be proclaimed (see s. 2)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 15.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as a reference to the Public Sector Management Act 1994.
@@ -141,37 +141,4 @@ Act | Provision
 ……………………….. | …….
 Electoral Act 1907 | s. 5E(2)
 ……………………….. | …….
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Electoral Amendment Act 2008 s. 3-5 had not come into operation. They read as follows:
-“
-3.The Act amended
-The amendments in this Act are to the Electoral Act 1907.
-4.Section 16A amended
-Section 16A is amended by inserting in the appropriate alphabetical position —
-“
-person with judicial experience means a person who is or has been a judge of the Supreme Court of Western Australia;
-”.
-5.Section 16B amended
-(1) Section 16B(1)(a) is deleted and the following is inserted instead —
-“
-(a) one shall be a person with judicial experience, appointed by the Governor on the recommendation of the Premier, who shall be chairman; and
-”.
-(2) Section 16B(2) is repealed and the following subsection is inserted instead —
-“
-(2) If the person appointed an Electoral Distribution Commissioner under subsection (1)(a) is absent or is for any other reason unable to act as an Electoral Distribution Commissioner, the Governor, on the recommendation of the Premier, may appoint another person with judicial experience to act in the office of Electoral Distribution Commissioner and as chairman during the absence or inability.
-”.
-(3) After section 16B(4) the following subsection is inserted —
-“
-(4A) Before making a recommendation under subsection (1)(a) or (2) that a judge of the Supreme Court of Western Australia be appointed, the Premier shall consult the Chief Justice of Western Australia.
-”.
-(4) Section 16B(5) is amended by inserting after “subsection” —
-“ (1)(a), (2) or ”.
-(5) After section 16B(5) the following subsections are inserted —
-“
-(5A) A person appointed under subsection (1)(a) shall hold office for such term, not exceeding 5 years, as is specified in his or her instrument of appointment, and is eligible for reappointment once.
-(5B) The appointment of a person who is a judge of the Supreme Court of Western Australia under subsection (1)(a) or (2) does not affect the person’s tenure of office as, or status as, a judge of the Supreme Court of Western Australia nor the payment of the person’s salary or allowances as a judge nor any other rights or privileges of the person as a judge.
-(5C) If a person appointed under subsection (1)(a) or (2) is not a judge of the Supreme Court of Western Australia, the person’s conditions of service as an Electoral Distribution Commissioner, including remuneration and allowances, are to be determined by the Governor from time to time.
-(5D) Any remuneration and allowances paid to a person under subsection (5C) do not affect any entitlements the person may have under the Judges’ Salaries and Pensions Act 1950.
-”.
 ”.
