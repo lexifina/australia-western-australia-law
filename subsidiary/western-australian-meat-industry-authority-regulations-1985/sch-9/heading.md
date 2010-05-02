@@ -13,8 +13,8 @@
 5.Any other notification under regulation 23 ..................... | $ 50
 6.Application for variation of approval conditions ............ | $ 50
 [Part 1 inserted in Gazette 2 Feb 1996 p. 392.]
-## Part 2 — Midland Saleyard: sale fees
-[Heading inserted in Gazette 31 Jul 2008 p. 3450.]
+## Part 2 — Muchea Livestock Centre: sale fees
+[Heading inserted in Gazette 31 Jul 2008 p. 3450; amended in Gazette 30 Apr 2010 p. 1600-1.]
 Animal | Fee per head
 Calves | $3.00
 Cattle | $4.50
@@ -23,8 +23,8 @@ Horses | $4.50
 Lambs | $0.50
 Sheep | $0.50
 [Part 2 inserted in Gazette 31 Jul 2008 p. 3450.]
-## Part 3 — Midland Saleyard: transhipment fees
-[Heading inserted in Gazette 31 Jul 2008 p. 3451.]
+## Part 3 — Muchea Livestock Centre: transhipment fees
+[Heading inserted in Gazette 31 Jul 2008 p. 3451; amended in Gazette 30 Apr 2010 p. 1600-1.]
 Animal | Fee per head
 Calves | $0.90
 Cattle | $0.90
