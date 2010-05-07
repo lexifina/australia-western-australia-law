@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Western Australian Sports Centre Trust Act 1986 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 7 May 2010 of the Western Australian Sports Centre Trust Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Western Australian Sports Centre Trust Act 1986 | 101 of 1986 | 12 Dec 1986 | 24 Dec 1986 (see s. 2 and Gazette 24 Dec 1986 p. 4963)
+Western Australian Sports Centre Trust Act 1986 | 101 of 1986 | 12 Dec 1986 | s. 1 and 2: 12 Dec 1986; Act other than s. 1 and 2: 24 Dec 1986 (see s. 2 and Gazette 24 Dec 1986 p. 4963)
 Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
 Western Australian Sports Centre Trust Amendment Act 1997 | 4 of 1997 | 10 Jun 1997 | 10 Jun 1997 (see s. 2)
@@ -11,20 +11,35 @@ Equal Opportunity Amendment Act (No. 3) 1997 s. 8 | 42 of 1997 | 9 Dec 1997 | 6 
 Reprint of the Western Australian Sports Centre Trust Act 1986 as at 22 Mar 2002 (includes amendments listed above)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 5 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 184 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Duties Legislation Amendment Act 2008 Sch. 1 cl. 41 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Acts Amendment (Bankruptcy) Act 2009 s. 92 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-On the date on which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 2: The Western Australian Sports Centre Trust Act 1986 as at 7 May 2010 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+The provision of this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads:
-“
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
 Act | Provision
 Western Australian Sports Centre Trust Act 1986 | s. 19(3)
 ...................... | ........
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+authorised officer18A(2), 18C(1), 18D(3)
+board3
+Centre3
+document14A(5)
+general manager3
+information14A(5)
+motor vehicle18D(3)
+owner18D(3)
+specified18(3)
+Trust3
+Trust property3
+trustee3
