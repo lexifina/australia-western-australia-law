@@ -1,7 +1,7 @@
 ## Schedule 1 — Bodies that are not authorities
 [Section 3]
 [Heading inserted by No. 25 of 1998 s. 24.]
-Classes of body corporate not included in definition of “authority”
+Classes of body corporate not included in definition of authority
 Item | Class of body corporate
 1. | Associations incorporated under or deemed to be incorporated under the Associations Incorporation Act 1987.
 2. | Corporations as defined by section 9 of the Corporations Act 2001 of the Commonwealth.

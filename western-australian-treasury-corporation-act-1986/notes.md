@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Western Australian Treasury Corporation Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 May 2010 of the Western Australian Treasury Corporation Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Western Australian Treasury Corporation Act 1986 | 16 of 1986 | 25 Jul 1986 | 1 Jul 1986 (see s. 2)
@@ -9,7 +9,7 @@ Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 A
 Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
-Western Australian Treasury Corporation Amendment Act 1998 s. 1-25 4-6 | 25 of 1998 | 30 Jun 1998 | 10 Nov 1998 (see s. 2 and Gazette 10 Nov 1998 p. 6149)
+Western Australian Treasury Corporation Amendment Act 1998 s. 1-25 4-6 | 25 of 1998 | 30 Jun 1998 | s. 1 and 2: 30 Jun 1998; Act other than s. 1 and 2: 10 Nov 1998 (see s. 2 and Gazette 10 Nov 1998 p. 6149)
 Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 111 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 47 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
 Reprint of the Western Australian Treasury Corporation Act 1986 as at 5 Jan 2001 (includes amendments listed above)
@@ -20,43 +20,33 @@ Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 17 | 21 of 2003 | 2
 Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 132 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 2: The Western Australian Treasury Corporation Act 1986 as at 2 Sep 2005 (includes amendments listed above)
-Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div 11 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Financial Legislation Amendment and Repeal Act 2006 s. 4, 16 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 11 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 16 and Sch. 1 cl. 186 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 138 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+ | Reprint 3: The Western Australian Treasury Corporation Act 1986 as at 7 May 2010 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and Year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 31 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Co-operatives Act 2009 s. 511 and 518 | 24 of 2009 | 22 Oct 2009 | s. 511: to be proclaimed (see s. 2(b)); s. 518: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 The Western Australian Treasury Corporation Amendment Act 1992 s. 7(4) reads as follows:
-“
 (4) Any agreement or arrangement entered into, or transaction effected, before the commencement of this section which would have been lawful and valid had —
 (a) section 10(2)(fa) and (fb) of the principal Act as inserted by subsection (1); and
-(b) the definition of “interest rate” in section 3(1) of the principal Act as inserted by section 4,
+(b) the definition of interest rate in section 3(1) of the principal Act as inserted by section 4,
 been in operation when that agreement, arrangement or transaction was entered into or effected shall be deemed to be, and always to have been, lawful and valid.
-”.
 The Western Australian Treasury Corporation Amendment Act 1992 s. 9(2) reads as follows:
-“
 (2) Section 14(3) of the principal Act as inserted by this section applies in respect of moneys lent before or after the commencement of this section.
-”.
 The Western Australian Treasury Corporation Amendment Act 1998 s. 7(2) reads as follows:
-“
 (2) The amendments to the principal Act made by subsection (1) do not affect the corporate identity of the Western Australian Treasury Corporation or its rights or obligations.
-”.
 The Western Australian Treasury Corporation Amendment Act 1998 s. 9(2) reads as follows:
-“
 (2) Section 7 as inserted in the principal Act by subsection (1) does not apply to a deed or other instrument that —
 (a) has been signed or sealed by or on behalf of all parties that are required to do so; or
 (b) evidences a transaction that was completed,
 before the commencement of this Act.
-”.
 The Western Australian Treasury Corporation Amendment Act 1998 s. 10(2) and (3) read as follows:
-“
 (2) The person who immediately before the commencement of this Act held the office of chief executive officer of the Corporation shall be taken from that commencement to have been appointed as the chief executive officer under section 8 as inserted in the principal Act by subsection (1).
 (3) All persons who immediately before the commencement of this Act were in the employment of the Corporation shall be taken from that commencement to have been engaged under section 8B as inserted in the principal Act by subsection (1).
-”.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
-“
 2.Commencement
 (1) If this Act receives the Royal Assent before the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act comes into operation at the same time as that Schedule comes into operation.
 (2) If this Act receives the Royal Assent on or after the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act is deemed to have come into operation at the same time as that Schedule comes into operation.
@@ -73,15 +63,7 @@ statutory rule means a regulation, rule or by-law.
 (a) that could only have been validly and lawfully done or omitted because this Act received the Royal Assent after the FSR commencement time; and
 (b) that could not have been validly and lawfully done or omitted if this Act had received the Royal Assent before the FSR commencement time,
 is taken not to be valid, and to never have been valid.
-”.
-On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 31 had not come into operation. It reads as follows:
-“
-31.Western Australian Treasury Corporation Act 1986 amended
-(1) The amendment in this section is to the Western Australian Treasury Corporation Act 1986.
-(2) Schedule 1 item 4 is deleted.
-”.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 12 reads as follows:
-“
 Division 12 — Transitional provisions
 451.Western Australian Treasury Corporation Act 1986 and Gold Corporation Act 1987
 (1) A thing done by the Treasurer before commencement under, or for the purposes of —
@@ -95,8 +77,11 @@ has the same effect after commencement, to the extent that it has any force or s
 (3) In this section —
 commencement means the time at which this Division comes into operation;
 Minister means the Minister to whom the administration of the Western Australian Treasury Corporation Act 1986 is committed.
-”.
-On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 511 and 518 had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 31 had not come into operation. It reads as follows:
+31.Western Australian Treasury Corporation Act 1986 amended
+(1) The amendment in this section is to the Western Australian Treasury Corporation Act 1986.
+(2) Schedule 1 item 4 is deleted.
+On the date as at which this reprint was prepared, the Co-operatives Act 2009 s. 511 and 518 had not come into operation. They read as follows:
 511.Western Australian Treasury Corporation Act 1986 amended
 (1) This section amends the Western Australian Treasury Corporation Act 1986.
 (2) After Schedule 1 item 6 insert:
@@ -104,3 +89,31 @@ On the date as at which this compilation was prepared, the Co-operatives Act 200
 518.Western Australian Treasury Corporation Act 1986 amended
 (1) This section amends the Western Australian Treasury Corporation Act 1986.
 (2) In Schedule 1 delete items 5 and 6.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+appointed director3(1)
+authorities9(1a)
+authority3(1)
+board3(1)
+borrow3(1)
+chief executive officer3(1)
+create3(1)
+debt paper3(1)
+director3(1)
+document21A(4)
+eligible person18(1a)
+financial institution3(1)
+foreign13(4)
+information21A(4)
+interest rate3(1)
+latest draft plan16F(2)
+latest draft statement16N(2)
+lend3(1)
+parliamentary purposes21A(4)
+prescribed debt paper10(4a)
+the Account3(1)
+the Corporation3(1)
+the repealed Act3(1)
+Treasury3(1)
+Under Treasurer3(1)
