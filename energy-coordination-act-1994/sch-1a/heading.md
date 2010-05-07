@@ -14,11 +14,12 @@ A licence may include provisions —
 (ia) if the licence is a distribution licence, requiring the licensee to undertake an extension of, or an expansion to, the distribution system located within an area specified in the licence; and
 (ib) if the licence is a trading licence, requiring the licensee to ensure the supply of gas to existing or new customers who require it, in such circumstances as may be specified in the licence whether by reference to a class of gas customer, the amount of gas to be supplied to the customer or customers of a class, where the gas is to be consumed, or any other factor; and
 (ic) if the licence is a trading licence, regulating the extent to which the licensee’s gas customers may be of a particular class; and
-(id) requiring the licensee to lodge with the Authority securities in an amount and of a nature acceptable to the Authority securing the performance by the licensee of the requirements, responsibilities and obligations under the licence. and
+(id) requiring the licensee to lodge with the Authority securities in an amount and of a nature acceptable to the Authority securing the performance by the licensee of the requirements, responsibilities and obligations under the licence; and
 (j) relating to the performance of functions by the licensee including —
 (i) the range of functions that may be performed by the licensee; and
 (ii) performance criteria to be met by the licensee; and
 (iii) community service obligations, that is obligations that are not commercially justified, to be discharged by the licensee;
+and
 (k) if the licence is a trading licence, specifying any limitation on the capacity of the parties by express agreement to exclude, modify or restrict the terms and conditions of the customer contract; and
 (l) if the licence is a trading licence, specifying standards of customer service to be applied in supplying gas under the authority of the licence; and
 (m) relating to obligations of the licensee with respect to public authorities and other licensees; and

@@ -1,15 +1,16 @@
 Notes
-This is a compilation of the Energy Coordination Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 May 2010 of the Energy Coordination Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Energy Coordination Act 1994 | 71 of 1994 | 9 Dec 1994 | 1 Jan 1995 (see s. 2 and Gazette 23 Dec 1994 p. 7069)
+Energy Coordination Act 1994 | 71 of 1994 | 9 Dec 1994 | s. 1 and 2: 9 Dec 1994; Act other than s. 1 and 2: 1 Jan 1995 (see s. 2 and Gazette 23 Dec 1994 p. 7069)
 Statutes (Repeals and Minor Amendments) Act 1997 s. 53 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
 Gas Pipelines Access (Western Australia) Act 1998 s. 89 | 65 of 1998 | 15 Jan 1999 | 9 Feb 1999 (see s. 2 and Gazette 8 Feb 1999 p. 441)
 Energy Coordination Amendment Act 1999 | 20 of 1999 | 24 Jun 1999 | 16 Oct 1999 (see s. 2 and Gazette 15 Oct 1999 p. 4865)
 Gas Corporation (Business Disposal) Act 1999 s. 47-52, 74, 75 and 109 | 58 of 1999 | 24 Dec 1999 | s. 47-52: 24 Dec 1999 (see s. 2(1)); s. 109: 1 Jan 2000 (see s. 2(7)); s. 74-75: 1 Jul 2000 (see s. 2(2) and Gazette 4 Jul 2000 p. 3545)
 Reprint of the Energy Coordination Act 1994 as at 5 May 2000 (includes amendments listed above except those in the Gas Corporation (Business Disposal) Act 1999 s. 74-75)
-Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
-Energy Legislation Amendment Act 2003 Pt. 2, Pt. 3 Div. 1-9 (other than s. 34) and 11, Pt. 4, 5 and 6 Div. 2 & 3 and s. 118 2-5 | 53 of 2003 (as amended by No. 55 of 2004 s. 299) | 8 Oct 2003 | Pt. 3 Div. 11, Pt. 4, Pt. 5 and s. 97, 98 and 118: 8 Oct 2003 (see s. 2(1) and (2)); Pt. 2 and Pt. 6 (other than s. 97 and 98): 19 Mar 2004 (see s. 2(2)(a) and (c) and Gazette 19 Mar 2004 p. 913); Pt. 3 Div. 1-2, 4-6 (other than s. 34), 7 and 9: 31 May 2004 (see s. 2(2)(b) and (3) and Gazette 28 May 2004 p. 1827);
+Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth. Gazette 13 Jul 2001 No. S285)
+Energy Legislation Amendment Act 2003 Pt. 2, Pt. 3 Div. 1-9 (other than s. 34) and 11, Pt. 4, 5 and 6 Div. 2 & 3 and s. 118 3-6 | 53 of 2003 (as amended by No. 55 of 2004 s. 299) | 8 Oct 2003 | Pt. 3 Div. 11, Pt. 4, Pt. 5 and s. 97, 98 and 118: 8 Oct 2003 (see s. 2(1) and (2)); Pt. 2 and Pt. 6 (other than s. 97 and 98): 19 Mar 2004 (see s. 2(2)(a) and (c) and Gazette 19 Mar 2004 p. 913);
+ |  |  | Pt. 3 Div. 1, 2, 4-6 (other than s. 34), 7 and 9: 31 May 2004 (see s. 2(2)(b) and (3) and Gazette 28 May 2004 p. 1827);
  |  |  | Pt. 3 Div. 8: 14 May 2005 (see s. 2(2)(b) and Gazette 13 May 2005 p. 2073); Pt. 3 Div. 3: 31 May 2005 (see s. 2(4))
 Economic Regulation Authority Act 2003 s. 62 (Sch. 2 Div. 4) | 67 of 2003 | 5 Dec 2003 | 19 Mar 2004 (see s. 2(3) and Gazette 19 Mar 2004 p. 914)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 10(3) and 50 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
@@ -19,13 +20,14 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Financial Administration Legislation Amendment Act 2005 s. 39 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 6 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 3: The Energy Coordination Act 1994 as at 18 Aug 2006 (includes amendments listed above)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 57 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Gas and Electricity Safety Legislation Amendment Act 2007 Pt. 3 | 5 of 2007 | 18 Apr 2007 | 1 Dec 2007 (see s. 2 and Gazette 30 Nov 2007 p. 5927)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 52 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 National Gas Access (WA) Act 2009 Pt. 7 Div. 4 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327)
 Gas Supply (Gas Quality Specifications) Act 2009 Pt. 7 Div. 1 | 35 of 2009 | 3 Dec 2009 | 27 Mar 2010 (see s. 2(b) and Gazette 26 Mar 2010 p. 1133)
+Reprint 4: The Energy Coordination Act 1994 as at 7 May 2010 (includes amendments listed above)
+Expired 30 June 1988.
 The Energy Legislation Amendment Act 2003 Pt. 3 Div. 3 (other than s. 19) reads as follows:
-“
 Part 3 — Amendments to facilitate a contestable retail gas market, and related transitional provisions
 Division 3 — Transfer of Minister’s functions under Part 2B of principal Act
 17.Definitions
@@ -59,10 +61,8 @@ has effect after the commencement day as if —
 (2) If in the opinion of the Minister an anomaly arises in the operation of any provision of this Division, the Governor may by regulations make such provision as is necessary —
 (a) to remove the anomaly; and
 (b) to achieve the purpose mentioned in section 18.
-”.
 The Energy Legislation Amendment Act 2003 s. 19(4) is not included because the section it sought to replace was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 299 before the subsection came into operation.
 The Energy Legislation Amendment Act 2003 Pt. 3 Div. 11 reads as follows:
-“
 Division 11 — Transitional provisions for this Part
 Subdivision 1 — Preliminary
 42.Definitions for this Division
@@ -193,9 +193,7 @@ Division 6A provisions means —
 (b)regulations of the kind mentioned in section 11ZAK(a) as so inserted.
 61.Regulations for transitional matters
 If in the opinion of the Minister an anomaly arises in connection with the determination of the supplier of last resort or the last resort supply plan referred to in section 60, the Governor may by regulations make such provision as is necessary to remove the anomaly.
-”.
 The Energy Legislation Amendment Act 2003 s. 97-101 read as follows:
-“
 97.Definitions
 In this Division, unless the contrary intention appears —
 commencement day means the day on which this Part, other than this section and section 98, comes into operation;
@@ -238,20 +236,14 @@ An agreement or instrument relating to a sustainable energy research matter that
 has effect as if —
 (c) the Coordinator were substituted for the Institute as a party; and
 (d) any reference to the Institute were, unless the context otherwise requires, a reference to the Coordinator.
-”.
 The Economic Regulation Authority Act 2003 s. 25(b) reads as follows:
-“
 25.Functions
 The functions of the Authority are —
 (b) the functions referred to in section 11AA of the Energy Coordination Act 1994;
-”.
 The Economic Regulation Authority Act 2003 s. 63(2), which gives effect to Sch. 4, reads as follows:
-“
 63.Transitional and saving provisions
 (2) Schedule 4 has effect to make transitional and saving provisions in respect of the amendments made in Schedule 2 Division 4.
-”.
 Schedule 4 reads as follows:
-“
 Schedule 4 — Transitional and saving provisions for amendments in Schedule 2 Division 4
 [s. 63(2)]
 1.Definitions
@@ -292,6 +284,83 @@ The operation of any provision of this Schedule is not to be regarded —
 (c) as giving rise to any remedy by a party to an instrument or as causing or permitting the termination of any instrument, because of a change in the beneficial or legal ownership of any asset, right or liability;
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
-”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-Footnote no longer applicable.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+amendment11ZOL(5)
+appropriate amendment11WI(3)
+approved11ZOA
+approved scheme11ZPX
+associate11ZOW(2)
+Authority3(1)
+business11ZP(5)
+classification11N(2)
+code of conduct11ZPL
+commercial information3(1)
+committee11ZPL
+component3(1)
+contravene11ZOA
+cooling-off period11WC(1)(b)
+Coordinator3(1)
+CourtSch. 2A cl. 1
+customer11WB, 11ZPL, 11ZPX
+customer contract11ZPX
+decision19B(1)
+delivery point11WJ
+Director3(1)
+distribution licence3(1)
+distribution system3(1)
+distribution works3(1)
+document4E(4), 11(4)
+electricity3(1)
+emergencySch. 3 cl. 1(1)
+emergency orderSch. 3 cl. 1(1)
+emergency plan24C(1)
+energy3(1), 20A
+energy researchSch. 1 cl. 1
+existing operator11I(1)
+formal entity11ZOA
+gas3(1)
+gas business operator11ZOA
+gas distribution operator11ZOA, 11ZOC(1)(a)
+gas industry ombudsman11ZPX, 11ZPZ(1)
+gas market participant11ZOA, 11ZOC(1)
+gas marketing agent11ZPL, 11ZPX
+gas transmission operator11ZOA, 11ZOD(1)(a)
+governing body of a scheme11ZPA(7)
+information4E(4), 11(4)
+inspector3(1)
+last resort supply plan11ZAA
+licence3(1)
+licensee3(1), 11ZO(4), 11ZPL
+marketing11ZPL
+member11ZOA
+Minister3(1)
+network operator3(1)
+non-standard contract11WB
+period of exclusivity11WM(2)
+prescribed person11ZOD(1)(b)
+prescribed provision11ZO(4)
+prohibited conduct11ZOV(1)
+public authority11ZJ(2)
+relevant interest11ZJ(2)
+relevant official24(1)
+relevant provisions11ZOA
+researcherSch. 1 cl. 1
+retail competition implementation costs11Q(4)
+retail gas operator11ZOA, 11ZOC(1)(b)
+retail market rules11WJ, 11ZOA
+retail market scheme11WJ, 11ZOA
+safety provision24A(3)
+seriously affectedSch. 3 cl. 1(1)
+small use customer3(1)
+standard form contract11WB
+supplier of last resort11ZAA, 11ZAC(1)
+supply3(1)
+supply area3(1), 11ZAA
+supply authority3(1)
+supply systemSch. 3 cl. 1(1)
+trade secret3(1)
+trading licence3(1)
+transmission works3(1)
