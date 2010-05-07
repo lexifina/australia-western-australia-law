@@ -52,7 +52,8 @@ more than 15 minutes to 30 minutes | $53.40
 more than 30 minutes | $80.00
 CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments, etc.
 per hour | $229.65
-TRAVELLING FEES Rate per kilometre | $4.10
+TRAVELLING FEES
+Rate per kilometre | $4.10
 PHYSICIANS, OCCUPATIONAL & REHABILITATION PHYSICIANS
 PHYSICIANS
 CONSULTATIONS
@@ -529,14 +530,14 @@ Pulmonary artery pressure monitoring | no | no | 3
 Left atrial pressure monitoring via left atrial catheter | no | no | 3
 Invasive pressure monitoring, not otherwise listed | no | no | 3
 Measurement of the mechanical or gas exchange function of the respiration system, or of respiratory muscle function, or of ventilatory control mechanisms, using measurements of parameters including pressures, volumes, flow, gas concentrations in inspired or expired air, alveolar gas or blood and incorporating serial arterial blood gas analysis and a written record of the results, when performed in association with the administration of anaesthesia | no | no | 7
-Central vein catheterization, percutaneous via jugular, subclavian or femoral vein | no | no | 3
-Central vein catheterization by cutdown | no | no | 5
+Central vein catheterisation, percutaneous via jugular, subclavian or femoral vein | no | no | 3
+Central vein catheterisation by cutdown | no | no | 5
 Central venous pressure monitoring | no | no | 3
 Arterial cannulation, percutaneous | no | no | 3
 Arterial puncture, withdrawal of blood for diagnosis | no | no | 1
 Arterial cannulation, by cutdown | no | no | 5
 Intra arterial pressure monitoring | no | no | 3
-Catheterization, umbilical artery, newborn, for diagnosis, or therapy | no | no | 5
+Catheterisation, umbilical artery, newborn, for diagnosis, or therapy | no | no | 5
 Intra-arterial infusion or retrograde intravenous perfusion of a sympatholytic agent | no | no | 4
 Intravenous regional anaesthesia of limb by retrograde perfusion | no | no | 4
 Perfusion of limb or organ | no | no | 12
