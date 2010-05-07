@@ -10,11 +10,7 @@ EXE20 | Initial Consultation/Assessment Insurer approval must be obtained prior 
  | ·Program design based on above.
  | ·Exercise facility/equipment coordination (pool or gym based).
  | Provider to patient ratio must be 1:1 for the duration of the consultation.
-EXE21 | Subsequent Exercise Consultation/Assessment Includes — ·program implementation — prescription and provision of exercises (land or pool based); | $155.10 per hour to a maximum of one hour**
- | ·program monitoring;
- | ·post program screening questionnaire relating to worker’s level of function;
- | ·psychosocial reassessment;
- | ·communication/liaison with relevant parties.
+EXE21 | Subsequent Exercise Consultation/Assessment Includes — ·program implementation — prescription and provision of exercises (land or pool based); ·program monitoring; ·post program screening questionnaire relating to worker’s level of function; ·psychosocial reassessment; ·communication/liaison with relevant parties. | $155.10 per hour to a maximum of one hour**
 EXE02 | Initial report Includes — ·initial assessment report outlining results (self-reported and objective), recommendations and exercise rehabilitation plan; | $155.10 per hour to a maximum of one hour**
  | ·current status as per medical certification and proposed outcome status;
  | ·detailed cost plan outlining proposed outcome, services required and proposed costs for insurer approval.
