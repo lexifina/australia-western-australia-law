@@ -1,7 +1,7 @@
 ## Schedule 4 — Scale of fees — occupational therapists
 [r. 5]
 [Heading inserted in Gazette 30 Oct 2009 p. 4385.]
- | Type of Service | Fee $
+ | Type of service | Fee $
 1. | Brief consultation (< 15 minutes) | 23.20
 2. | Short consultation (15 minutes to < 30 minutes) | 46.55
 3. | Standard consultation (30 minutes to < 45 minutes) | 76.70
