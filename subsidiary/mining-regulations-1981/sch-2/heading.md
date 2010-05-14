@@ -52,11 +52,11 @@ Judgment/Order of Court ................................................ | Reg. 
 Mortgage .......................................................................... | Reg. 77 | 96.00
 Power of Attorney — each .............................................. | Reg. 108 | 96.00
 Seizure — Notice of ........................................................ | Reg. 132 | 96.00
-Tax memorial ............................................... | Reg. 84A | 96.00
+Tax memorial ............................................................... | Reg. 84A | 96.00
 Transfer —
-Mining Tenement ............................ | Reg. 75 | 96.00
-Mortgage ......................................... | Reg. 84 | 96.00
-Withdrawal of memorial .............................. | Reg. 84A | 6.25
+Mining Tenement ............................................. | Reg. 75 | 96.00
+Mortgage .......................................................... | Reg. 84 | 96.00
+Withdrawal of memorial .............................................. | Reg. 84A | 6.25
 11.Restoration of Mining Tenement .................................... | Reg. 51 | 193.00
 11A.Copy of front page of Form 5, together with either Attachment 1 — “Summary of Mineral Exploration/Mining Activities” or Attachment 2 — “Summary of Prospecting and/or Small Scale Mining Activities”, as the case may be ....................................... | Reg. 96(3) | 7.50
 [12.deleted]
