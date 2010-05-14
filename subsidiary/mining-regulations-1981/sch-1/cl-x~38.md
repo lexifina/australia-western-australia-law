@@ -1,12 +1,15 @@
-### Form 31Power of attorney
-Form 31 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 108)
- | POWER OF ATTORNEYNo.
-(a)Full name and address of donor | I, (a)
-(b)Full name and address of donee | DO HEREBY APPOINT (b)
- | (hereinafter referred to as the donee) as my attorney to apply for and acquire on my behalf any mining tenement under the Mining Act 1978 and to sell all or any mining tenements, mortgages or charges whether now belonging to me or which shall hereafter belong to me under or by virtue of the said Act. Also to mortgage or sublet all or any such mining tenements for any sum at any rate of interest or rental. Also to withdraw or surrender any mining tenement in which I am or may be interested. Also to exercise and execute all powers which now are or shall hereafter be vested in or conferred upon me as a sub-lessor or mortgagee of mining tenements under the said Act.
-*or otherwise according to the nature and extent of the powers intended to be conferred | *
- | And for me and in my name to sign all such applications, notices, transfers, mortgages, sub-leases, and other instruments, and do all such acts matters and things as may be necessary or expedient for carrying out the powers hereby given, and for recovering all sums of money that are now or may become due or owing to me, and for enforcing or varying any contract, covenant, or condition binding upon any lessee, tenant, or occupier or upon any other person in respect of the said lands and for recovering and maintaining possession of the said lands, and for protecting them from waste, damage, or trespass. And I agree that all and whatsoever the said donee shall lawfully do under this power I will at all times ratify and confirm.
- | The words “mining tenement” herein include any share or interest in a mining tenement, or application therefor.
- | DATED this day of 20 (c)Signature of donor:Signed (c)........................................ in the presence of (d)Signature of witness:Signed (d)........................................ (e)Signature of donee:Signed (e)........................................
-O F F I C E U S E
-[Form 31 amended in Gazette 2 Oct 1987 p. 3835; 8 Dec 2009 p. 132.]
+### Form 32Security
+Form 32 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 126 Reg. 112)
+ | SECURITY
+ | By this security the subscriber is for himself, his executors and administrators or in the case of a subscriber being a corporation for its successors and assigns pursuant to the Mining Act 1978 bound to the Minister in the State of Western Australia in the sum of
+(a)Amount of security | (a)
+ | subject only to this condition that, if
+(b)Full name and residential or business address (see Note 1) of applicant or holder | (b)
+ | shall comply with the conditions to which
+(c)Insert details of type number and Mineral Field for the mining tenement or application therefor | (c)
+ | is, or will from time to time be subject, and with the provisions of the Mining Act 1978 and regulations thereunder then this security shall be thereby discharged.
+ | DATED at this day of 20
+(d)Signature of applicant/holder (e)Signature of witness | Applicant orin the presence of Witness signs here Holder signs here (d)(e)
+O F F I C E U S E |  | Received at ...............................m. on the ................... day of ...................... 20 .................... ........................................................... (Mining Registrar)
+Note 1:A Post Office Box address is not an acceptable residential or business address. A Post Office Box address may be included in addition to the residential or business address.
+[Form 32 amended in Gazette 2 Oct 1987 p. 3836 (erratum in Gazette 6 Nov 1987 p. 4110); 24 Jun 1994 p. 2939; 4 Apr 1997 p. 1780; 17 Jan 2003 p. 114; 15 Jan 2010 p. 132.]

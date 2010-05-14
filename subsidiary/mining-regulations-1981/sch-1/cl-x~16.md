@@ -1,12 +1,24 @@
-### Form 14Partial surrender
-Form 14 *If applicable, add whether the surrender is under section 26A or section 65 | WESTERN AUSTRALIA Mining Act 1978 (Secs. 26A, 65, 95 Reg. 45) PARTIAL SURRENDER* (This form must be accompanied by a map clearly delineating the portion of the tenement being — (i) surrendered; and (ii) retained.)
-(a)Type (b)Number (c)Mineral Field | Details of Mining Tenement (a)(b) (c)
-(d)Full name and address of each holder | Holder (d)
-**If the surrender is a conditional one, add “conditionally on application for ........... being granted” (e)Describe the boundaries of the portion being surrendered | THE HOLDER of the abovementioned mining tenement hereby applies to surrender all right, title and interest in that portion described hereunder.**
-PORTION BEING SURRENDERED (e)
- |  | Area***
-***In ha/km2 or number of blocks | DATED this day of 20
-(f)Signature of holder (g)Signature of witness | Holders sign in the presence ofWitnesses sign herehere (f)....................................(g)........................................ ............................................................................
-LODGING PARTY (h) Full name and address (for return of documents) | (h)
-O F F I C E U S E |  | Received at ................................... on .................................................. with fee of $ ................................. ....................................................... (Mining Registrar)
-[Form 14 inserted in Gazette 31 May 1991 p. 2701-2; amended in Gazette 15 Jan 2010 p. 123.]
+### Form 15Application for forfeiture under section 96(1)(a)
+Form 15 WESTERN AUSTRALIA
+Mining Act 1978
+(Sec. 96 Reg. 49)
+APPLICATION FOR FORFEITURE UNDER SECTION 96(1)(a)
+To the Warden,
+Mineral Field
+Application is made for forfeiture of the mining tenement/s referred to in Column 1 hereunder for the breach of condition stated opposite in Column 2 or 3 —
+Column 1 | Column 2 | Column 3
+Mining Tenement | Failure to pay rental | Other Breach
+ | Amount | Date Due
+DATED this day of 20
+...........................................................................
+Mining Registrar
+To the Mining Registrar,
+The date on which I intend to hear an application for forfeiture is ........../........../..........
+In accordance with regulation 49 of the Mining Regulations 1981 —
+(a)notify the holder by post
+(b)notify any registered mortgagee
+(c)post a notice on your notice board
+(d)publish a notice in the Government Gazette
+...........................................................................
+Warden
+[Form 15 amended in Gazette 9 Mar 2007 p. 905; 15 Jan 2010 p. 123.]

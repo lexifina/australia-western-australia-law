@@ -1,9 +1,9 @@
-### Form 12Surrender
-Form 12 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 95 Reg. 43) SURRENDER
+### Form 13Notice of re-marking
+Form 13 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 45) NOTICE OF RE-MARKING (to be fixed to Datum Post of retained portion)
 (a)Type (b)Number (c)Mineral Field | Details of Mining Tenement (a)(b) (c)
-(d)Full name and address of each holder | Holder (d)
-*If the surrender is a conditional one, add “conditionally on application for being granted” | THE HOLDER of the abovementioned mining tenement hereby applies to surrender all right title and interest therein.* DATED this day of 20
-(e)Signature of holder (f)Signature of witness | Holders signin the presence ofWitnesses heresign here (e)...................................(f)................................... ...................................................................... ......................................................................................................... ......................................................................
-LODGING PARTY (g)Full name and address (for return of documents) | (g)
-O F F I C E U S E |  | Received at ....................m. on ........................................ ............................................. (Mining Registrar)
-[Form 12 amended in Gazette 2 Oct 1987 p. 3831; 15 Jan 2010 p. 122.]
+(d)Full name and address of holder | Holder (d)
+ | The abovementioned mining tenement has been re-marked for the purpose of a surrender of part of the tenement under the provisions of the Mining Act 1978. The following is a description of the retained portion —
+(e)Describe boundaries of retained portion (f)Area of retained portion | Portion Retained (e) (f)
+(g)Date and time of re-marking | (g)
+(h)Signature of holder | (h) ............................................................................................................
+[Form 13 amended in Gazette 15 Jan 2010 p. 122.]

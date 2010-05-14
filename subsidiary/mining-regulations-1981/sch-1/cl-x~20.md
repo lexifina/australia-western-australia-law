@@ -1,13 +1,8 @@
-### Form 18Application for exemption
-Form 18 | WESTERN AUSTRALIA Mining Act 1978 (s. 102, r. 54) | Office Use
- |  |  |  |  | No.
- | APPLICATION FOR EXEMPTION
-(a)Type (b)Number (c)Mineral Field | Details of mining tenement/s (a) (b) (c)
-(d)Full name and address of each holder | Holder (d)
-(e)Amount of expenditure for which exemption is sought (f)Expiry date/s of period to which exemption relates (g)Reasons for application (include relevant paragraph/s of section 102(2) of the Mining Act 1978 if applicable) (See Note 1) | Exemption details (for each tenement affected) (e) $ (f) (g)
-(h)Signature of holder or authorised agent | APPLICATION is made for exemption for the period specified from the expenditure conditions applicable to the abovementioned mining tenement/s. DATED this day of 20 (h) ....................................................................................
- | OBJECTIONS to this application may be lodged at the office of the mining registrar at ..................................................................................................................... on or before the day of 20 Where an objection to this application is lodged the hearing will take place on a date to be set.
-O F F I C E U S E |  | Received at ........................................................m on .......................................................................... with fee of $........................................................... ............................................................................... (Mining Registrar)
-Note 1:A statutory declaration setting out reasons in support of the application must be lodged at the office of the mining registrar within 28 days after lodgment of the application or within any extension of that period.
-(See regulation 54(3) and (4) of the Mining Regulations 1981.)
-[Form 18 inserted in Gazette 17 Jan 2003 p. 107-8; amended in Gazette 3 Feb 2006 p. 603; 15 Jan 2010 p. 123.]
+### Form 19Certificate of exemption
+Form 19 | WESTERN AUSTRALIA Mining Act 1978 (s. 102 and 102A, r. 58)
+ | CERTIFICATE OF EXEMPTION No. This is to certify that the holder of —
+(a) | Type of tenement/s Number/s and Mineral Field | (a) has been granted exemption from expenditure under section/s —
+(b) | Section/s of the Mining Act 1978 under which exemption granted | (b) in the amount/s of —
+(c) | Amount of expenditure (for each mining tenement affected) | (c) ($) for the above mining tenement/s during the year/s of the term of the tenement/s ending on —
+(d) | Expiry date/s of year/s to which exemption relates | (d) DATED this day of 20 ............................................ Mining Registrar .................................................. Mineral Field
+[Form 19 inserted in Gazette 17 Jan 2003 p. 108-9; amended in Gazette 15 Jan 2010 p. 124.]

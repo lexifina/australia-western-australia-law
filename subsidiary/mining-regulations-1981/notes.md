@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 May 2010 of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Mining Regulations 1981 | 13 Nov 1981 p. 4601-76 | 1 Jan 1982 (see r. 1(2) and Gazette 11 Dec 1981 p. 5085)
@@ -104,33 +104,140 @@ Mining Amendment Regulations (No. 6) 2006 | 23 Jun 2006 p. 2219-22 | 1 Jul 2006 
 Mining Amendment Regulations 2007 | 9 Mar 2007 p. 861-920 | 31 Mar 2007 (see r. 2 and Gazette 9 Mar 2007 p. 847)
 Mining Amendment Regulations (No. 3) 2007 | 22 Jun 2007 p. 2857-60 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Reprint 7: The Mining Regulations 1981 as at 5 Oct 2007 (includes amendments listed above)
-Mining Amendment Regulations (No. 2) 2008 | 20 Jun 2008 p. 2728-31 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
-Mining Amendment Regulations 2008 | 1 Aug 2008 p. 3455-6 | r. 1 and 2: 1 Aug 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 2 Aug 2008 (see r. 2(b) and Gazette 1 Aug 2008 p. 3455)
+Mining Amendment Regulations (No. 2) 2008 | 20 Jun 2008 p. 2728-31 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Mining Amendment Regulations 2008 | 1 Aug 2008 p. 3455-6 | r. 1 and 2: 1 Aug 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Aug 2008 (see r. 2(b) and Gazette 1 Aug 2008 p. 3455)
 Mining Amendment Regulations (No. 2) 2009 | 12 Jun 2009 p. 2131-3 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Mining Amendment Regulations 2009 | 15 Jan 2010 p. 97-136 | r. 1 and 2: 15 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jan 2010 (see r. 2(b))
 Mining Amendment Regulations 2010 | 5 Mar 2010 p. 849-50 | r. 1 and 2: 5 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2010 (see r. 2(b))
+Reprint 8: The Mining Regulations 1981 as at 14 May 2010 (includes amendments listed above)
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
-Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Mines or to the Department of Minerals and Energy is, unless the contrary intention appears, to be read and construed as a reference to the Department of Industry and Resources.
-Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Aboriginal Affairs Department is, unless the contrary intention appears, to be read and construed as a reference to the Department of Indigenous Affairs.
+Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Mining Act 1978.
 The Mining Amendment Regulations (No. 6) 2001 r. 13 reads as follows:
-“
 13.Saving
 Despite the amendments effected by these regulations, the Mining Regulations 1981 as in force immediately before the commencement of these regulations continue to apply in relation to the determination and payment of, and returns in respect of, royalties for minerals first sold, transferred or otherwise disposed of before that commencement.
-”.
 The Mining Amendment Regulations (No. 7) 2002 r. 6(2) reads as follows:
-“
 (2) Despite the repeal effected by subregulation (1), regulation 85A of the Mining Regulations 1981 as in force immediately before the commencement of these regulations continues to apply in relation to the month of December 2002.
-”.
 The Mining Amendment Regulations (No. 5) 2004 r. 4(2) reads as follows:
-“
 (2) Despite the amendment effected by subregulation (1), the Table to regulation 86 of the Mining Regulations 1981 as in force immediately before the commencement of these regulations continues to apply for the purpose of determining the rate of royalty payable for ilmenite produced before that commencement.
-”.
 The Mining Amendment Regulations (No. 2) 2006 r. 10(7) and (8) read as follows:
-“
 (7) Despite the amendments made by this regulation, where, in relation to an existing licence, the commencement day is a day other than the anniversary date of the commencement of the term of the existing licence, regulation 21 of the Mining Regulations 1981 as in force immediately before the commencement day continues to apply for the purpose of determining the expenditure required for the year of the term of the existing licence in which the commencement day falls.
 (8) In subregulation (7) —
 commencement day means the day on which these regulations come into operation;
 existing licence means an exploration licence in force under the Act on the day on which these regulations come into operation.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+aerial photography120P
+agent137(1)
+allowable deductions85(1)
+allowed period84B(1)
+Amount A86(2a)
+Amount B86(2a)
+another tenementSch. 3 cl. 7(5)
+approved surveyor116
+Australian Geodetic DatumSch. 3 cl. 1(1)
+beneficiation plant86AC(1)
+block2, Sch. 3 cl. 1(1)
+CSch. 4 cl. 1
+circumstances justifying royalty relief86F(3)
+combined mineral exploration report96(1)
+commencement daySch. 3 cl. 1(1)
+concentrate85(1)
+contractor120P
+counselSch. 4 cl. 1
+date of application2
+date of issue4A
+datum post37(1)(a)
+decreasing adjustment85AA(5)
+deliverer86AA(11)
+determination137(1)
+Director120P
+Director, Environment Division2
+environmental officer2
+existing amount86(2d)
+existing exploration licence2, Sch. 3 cl. 1(1)
+expense85AA(3)
+first body corporate85(1)
+Form2
+gold bearing material86AA(11)
+gold metal86AA(11), 86F(3)
+gold royalty project86AA(11)
+gold spot price86AA(11)
+graticular exploration licence2
+graticular section2
+gross invoice value85(1)
+GRS8089A(3)
+GST85AA(5)
+hearing137(1)
+ilmenite feedstock86AC(1)
+increasing adjustment85AA(5)
+input tax credit85AA(5)
+inspector120F(5)
+issuing officer4A
+JLSch. 4 cl. 1
+JORC Code89C(1)
+junior lawyerSch. 4 cl. 1
+lawyer2
+lease application63A(1)
+licensed surveyor116
+licensee statement4A
+lodge137(1)
+mention hearing137(1)
+mineral exploration report2, 96(1)
+mining information96(1)
+mining survey116
+mining tenement86AA(11)
+net GST85AA(5)
+net input tax credit85AA(4)
+nickel by-product85(1)
+numberSch. 3 cl. 1(1)
+objection137(1)
+operations report96(1)
+optional royalty period86AB(1)
+optional royalty rate86AB(1)
+other tenementSch. 3 cl. 7(5)
+party137(1)
+permit4A
+permit holder4A
+PLSch. 4 cl. 1
+prescribed application69A(1)
+prescribed fee2
+prescribed landSch. 3 cl. 1(1)
+prescribed period84F(1)
+proceedings137(1)
+purchaser85(1)
+quarter85(1)
+quarterly period2
+RBA rate85AB(1)
+refiner86AA(11)
+refinery86AA(11)
+related corporation85(1)
+release96(1)
+release date23(2)
+relevant depth101A(1)
+relevant exploration licence4A
+relevant land22A(b)(iii)
+relevant operations report58A(1)
+relevant period86(2a)
+reversion licence63A(1)
+royalty base86F(3)
+royalty return2
+royalty value85(1)
+sale85(1)
+SCSch. 4 cl. 1
+section2
+senior counselSch. 4 cl. 1
+senior inspector120F(5)
+senior lawyerSch. 4 cl. 1
+shipment date85(1)
+SLSch. 4 cl. 1
+sold85(1)
+summons125(1a)
+supply85AA(5)
+tenement116
+the Act2
+the Director116
+the GDA89A(2)
+treatment facility86AA(11)

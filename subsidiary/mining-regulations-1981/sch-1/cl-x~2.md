@@ -1,12 +1,12 @@
-### Form 1AApplication for permit under section 20A
-Form 1A | WESTERN AUSTRALIA Mining Act 1978 (Sec. 20A Reg. 4D)
- | APPLICATION FOR PERMIT UNDER SECTION 20ANo. To:The Mining Registrar/Customer Service Coordinator, Mineral Titles Division
-(a)Full name, address, telephone number and Miner’s Right number of applicant(s) (maximum of 3 applicants) | (a)Applicant 1 Name: ...................................................................... Address: .................................................................. ................................................................................. Telephone No.: ....................................................... Miner’s Right No.: ................................................. Applicant 2 Name: ...................................................................... Address: .................................................................. ................................................................................. Telephone No.: ....................................................... Miner’s Right No.: ................................................. Applicant 3 Name: ...................................................................... Address: .................................................................. ................................................................................. Telephone No.: ....................................................... Miner’s Right No.: .................................................
-(b)Number of relevant exploration licence | (b)Exploration Licence No. .........................................
-(c)Area of Crown land in respect of which permit sought (maximum of 10 blocks) | (c)
-(d)Full name and address of holder of relevant exploration licence | (d)
-(e)Make, model and registration number of vehicle(s) to be used | (e)
-DATED this day of 20
-(f)Signature of applicant(s) | (f)................................................................................ Applicant 1 ................................................................................ Applicant 2 ................................................................................ Applicant 3
-O F F I C E U S E |  | Received at ................................m. on .................................................. with fee of $................................... ........................................................ (Mining Registrar/Customer Service Coordinator, Mineral Titles Division) | Receipt No:
-[Form 1A inserted in Gazette 2 Feb 2001 p. 710-11; amended in Gazette 15 Jan 2010 p. 119.]
+### Form 2Application for permit to enter upon private land
+Form 2 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 30 Reg. 5)
+ | APPLICATION FOR PERMIT TO ENTER UPON PRIVATE LANDNo. To:The Warden,
+(a)Mineral Field | (a)Mineral Field The undersigned hereby makes application for a permit to enter upon
+(b)Set out particulars of the land, location or Lot numbers, etc. to be stated | (b)
+* Map to be attached, as delineated on the *attached map, for the purpose of
+(c)State whether the application is for the purpose of searching for minerals or to mark out a mining tenement and the type of such tenement | (c)
+(d)Full name and address of applicant | (d)
+DATED this day of 20 .
+(e)Signature of applicant | (e) .............................................................................................
+O F F I C E U S E |  | Received at ................................m. on .................................................. with fee of $................................... ........................................................ (Mining Registrar)
+[Form 2 amended in Gazette 15 Jan 2010 p. 119.]

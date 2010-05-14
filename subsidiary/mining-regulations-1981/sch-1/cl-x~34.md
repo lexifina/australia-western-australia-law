@@ -1,28 +1,11 @@
-### Form 27AQuarterly gold production report
-Form 27AWESTERN AUSTRALIA
-Mining Act 1978
-(Reg. 85A(2))
-QUARTERLY GOLD PRODUCTION REPORT
-(Please Note! Separate report required for each gold royalty project. Complete and furnish to Director General of Mines within 30 days of expiry of relevant quarter.)
-Report for ...........................................................................................................
-(insert relevant quarter, eg. March quarter, and year)
-Mining Tenement(s) No(s) .................................................................................
-Holder .................................................................................................................
-Mineral Field ......................................................................................................
-District .......................................................... Project .........................................
-MATERIAL TREATED |  | Tonnes
-Ore
-Sands
-Slimes
-Tailings
-Concentrates
-Other
-METAL PRODUCED* |  | Ounces
-Gold Metal
-Silver Metal (By-product)
-(* Include metal that is to be regarded because of regulation 86AA as having been produced.)
-I certify that the information supplied in this report is a true statement of all production for the period stated.
-Dated ....................................................................
-Signed ...................................................................
-(Holder/Applicant)
-[Form 27A inserted in Gazette 3 Oct 1987 p. 5535; amended in Gazette 13 Dec 2002 p. 5806; 15 Jan 2010 p. 129.]
+### Form 28Devolution
+Form 28 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 102)
+ | DEVOLUTIONNo.
+(a)Type (b)Number (c)Mineral Field (d)Number of shares | Details of Mining Tenement (or application therefor) and interest (a)(b) (c)(d)
+(e)Document from which title derived | (e)
+(f)Full name and address of executor or administrator | (f)
+*Copy of document to be attached | hereby applies to be registered as the holder of the above mentioned interest and *attached hereto is a copy of the document referred to in (e) above DATED this day of 20
+(g)Signature of executor or administrator | (g) ...............................................................................................................
+LODGING PARTY (h)Full name and address (for return of documents) | (h)
+O F F I C E U S E |  | Received at ........................................m. on ........................................................... with fee of $............................................ ................................................................ (Mining Registrar)
+[Form 28 amended in Gazette 2 Oct 1987 p. 3835; 31 May 1991 p. 2705-6; 3 Feb 2006 p. 528; 15 Jan 2010 p. 130.]

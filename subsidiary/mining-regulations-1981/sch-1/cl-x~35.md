@@ -1,11 +1,13 @@
-### Form 28Devolution
-Form 28 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 102)
- | DEVOLUTIONNo.
-(a)Type (b)Number (c)Mineral Field (d)Number of shares | Details of Mining Tenement (or application therefor) and interest (a)(b) (c)(d)
-(e)Document from which title derived | (e)
-(f)Full name and address of executor or administrator | (f)
-*Copy of document to be attached | hereby applies to be registered as the holder of the above mentioned interest and *attached hereto is a copy of the document referred to in (e) above DATED this day of 20
-(g)Signature of executor or administrator | (g) ...............................................................................................................
-LODGING PARTY (h)Full name and address (for return of documents) | (h)
-O F F I C E U S E |  | Received at ........................................m. on ........................................................... with fee of $............................................ ................................................................ (Mining Registrar)
-[Form 28 amended in Gazette 2 Oct 1987 p. 3835; 31 May 1991 p. 2705-6; 3 Feb 2006 p. 528; 15 Jan 2010 p. 130.]
+### Form 29Application for copy document
+Form 29 | WESTERN AUSTRALIA Mining Act 1978 (r. 105)
+ | APPLICATION FOR COPY DOCUMENTNo.
+(a)Full name (b)Address (c)Occupation | I, (a) of (b) (c) sincerely declare that the document specified cannot be produced for the reasons indicated and request that a copy of the document be issued.
+(d)Description of document | Details of document (d)
+(e)State whether document lost, destroyed or obliterated as the case may be and the circumstances | Reason for non-production (e)
+ | This declaration is true and I know that it is an offence to make a declaration knowing that it is false in a material particular.
+ | This declaration is made under the Oaths, Affidavits and Statutory Declarations Act 2005 at — ...................................................................................................…. on this .................... day of ....................................... 20 ............... by —
+(f)Signature of person making declaration | (f) in the presence of —
+(g)Signature of authorised witness See Note 1. | (g)
+O F F I C E U S E |  | Received at ................................m. on ................................................... with fee of $ ................................... ......................................................... (Mining Registrar)
+Note 1:This declaration may be made before a person who is an authorised witness for a statutory declaration under the Oaths, Affidavits and Statutory Declarations Act 2005 section 12(6).
+[Form 29 inserted in Gazette 15 Jan 2010 p. 130-1.]
