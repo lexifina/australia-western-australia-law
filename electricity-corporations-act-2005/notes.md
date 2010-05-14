@@ -1,20 +1,112 @@
 Notes
-This is a compilation of the Electricity Corporations Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 May 2010 of the Electricity Corporations Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
- | Electricity Corporations Act 2005 | 18 of 2005 | 13 Oct 2005 | Pt. 1, s. 141, 142, 144-152, 153(1) and 179: 13 Oct 2005 (see s. 2(1)) Pt. 2-8, s. 143, 153(2)-(4), 154-178, 180-192, Sch. 1-4 and Sch. 5 (other than cl. 21(2)(a)(ii)): 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153); Sch. 5 cl. 21(2)(a)(ii) deleted by No. 8 of 2009 s. 50(3)(b)
+ | Electricity Corporations Act 2005 | 18 of 2005 | 13 Oct 2005 | Pt. 1, s. 141, 142, 144-152, 153(1) and 179: 13 Oct 2005 (see s. 2(1)); Pt. 2-8, s. 143, 153(2)-(4), 154-178, 180-192, Sch. 1-4 and Sch. 5 (other than cl. 21(2)(a)(ii)): 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153); Sch. 5 cl. 21(2)(a)(ii) deleted by No. 8 of 2009 s. 50(3)(b)
  | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
- | Financial Legislation Amendment and Repeal Act 2006 s. 4 , 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+ | Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and Sch. 1 cl. 53 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 50 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 1: The Electricity Corporations Act 2005 as at 14 May 2010 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 81 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
-Schedule 5 clause 21(2)(a)(ii) of this Act had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendment) Act 2009 s. 50(3)(b).
-On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 81 had not come into operation. It reads as follows:
-“
+The provisions in this Act amending these Acts have, except for Sch. 5 Div. 4 cl. 7 and 22, been omitted under the Reprints Act 1984 s. 7(4)(e).
+Schedule 5 clause 21(2)(a)(ii) of this Act had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 50(3)(b).
+On the date as at which this reprint was prepared, the State Superannuation Amendment Act 2007 s. 81 had not come into operation. It reads as follows:
 81.Electricity Corporations Act 2005 amended
 (1) The amendments in this section are to the Electricity Corporations Act 2005.
 (2) Section 26(4) is amended by deleting “section 30.” and inserting instead —
 “ section 76. ”.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+accounting standardSch. 4 cl. 1(2)
+acquire34(1)
+ancillary services34(1)
+area of operations52(1)
+arrangement75(3)(a)
+asset142(1)
+Authority72
+bank121(2)
+board3(1)
+business arrangement59(1)
+chief executive officer3(1)
+commencement day142(1)
+Commissioner for Public Sector Standards3(1)
+community service obligations99(1)
+companySch. 4 cl. 1(2)
+corporation3(1), 35, 41, 44, 50, 60(1), 80, 114(1)
+corporation or corporations previously concerned161(1), 164(2)
+Corporations Act3(1)
+customer54(1)
+debt paper127(1)
+declared matters53(2)(a)
+director3(1), Sch. 1 cl. 1
+disposal order67(2)
+dispose of67(1)
+distribution licence54(1)
+document116(1)
+Economic Regulation Authority3(1)
+electricity3(1)
+electricity distribution system60(1)
+Electricity Generation Corporation3(1)
+Electricity Networks Corporation3(1)
+Electricity Retail Corporation3(1)
+electricity transmission system60(1)
+energy efficient technologies34(1)
+executive officer3(1)
+financial recordsSch. 4 cl. 1(2)
+financial yearSch. 4 cl. 1(1)
+function3(1)
+gas3(1)
+Gas Corporation assignee175(1)
+Government agreement152(1)
+information116(1)
+instrument187(1)
+integrated regional licence54(1)
+interest rate129(2)
+latest draft plan93(1)
+latest draft statement102(1)
+liability142(1), 192(3)
+management21(2)
+member of staff3(1)
+members of staff26(1), 31(1)
+new corporation142(1)
+non-executive director3(1)
+notifiable interestSch. 2 cl. 12(1)
+original guarantee174(2)(a)
+participate59(1)
+paySch. 2 cl. 15(6)
+prescribed contract80
+prescribed customer54(1)
+prescribed daySch. 4 cl. 32(1)
+principal Act142(1)
+public service officer12(1)
+records142(1)
+Regional Power Corporation3(1)
+regulationsSch. 4 cl. 1(1)
+relativeSch. 2 cl. 14(1)
+relevant new corporation187(1)
+relevant officials178(1)
+renewable sources34(1)
+right142(1)
+second party77(1)
+services54(1)
+significant asset67(1)
+South West interconnected system3(1)
+specified54(6), 80, 114(1)
+specified day164(2), 166(1)
+State tax177(1)
+subsidiary3(1)
+tariff customer181(1)
+telecommunication services34(1)
+the 1994 Act142(1)
+the designated period38(2), 47(2)
+third party77(1)
+transaction68(1)
+transfer order142(1)
+Treasurer3(1)
+Treasury officer137(1)
+unallocated asset or liability53(1)
+Western Power Corporation142(1)
