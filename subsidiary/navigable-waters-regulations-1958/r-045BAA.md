@@ -16,7 +16,7 @@ proposed departure date in relation to a foreign pleasure vessel means the date 
 Table
 Where the length of the vessel is — | $
 (i)less than 5 metres .................... | 4.00
-(ii)5 metres or over but less than 10 metres ......................... | 7.25
+(ii)5 metres or over but less than 10 metres ................................. | 7.25
 (iii)10 metres or over but less than 20 metres ................................. | 9.50
 (iv)20 metres or over but less than 30 metres ................................. | 19.00
 (v)30 metres or over but less than 40 metres ................................. | 38.00
@@ -30,4 +30,4 @@ Where the length of the vessel is — | $
 (6a) A person who contravenes subregulation (6) commits an offence.
 (7) Where an application for registration as a foreign pleasure vessel is duly made under this regulation and is accompanied by the prescribed fees the department shall issue a certificate of registration for a period commencing on the date shown on the receipt imprinted on the certificate and expiring on the proposed departure date.
 (8) Where a foreign pleasure vessel previously registered under this regulation does not leave navigable waters on the proposed departure date and application for registration of the vessel under this regulation is duly made under subregulation (4) and is accompanied by the prescribed fee before that registration expires or within 30 days immediately succeeding the day on which that registration expires the department shall register the vessel for a period expiring on the proposed departure date shown in that application and the registration shall be deemed to be a continuation of the previous registration and to have effect on and from the day next succeeding the day on which that registration expires.
-[Regulation 45BAA inserted in Gazette 21 Feb 1986 p. 566-7; amended in Gazette 2 Mar 1990 p. 1328; 1 Aug 1990 p. 3647; 10 Apr 1992 p. 1597; 30 Jun 1992 p. 2900; 29 Jun 1993 p. 3188; 14 Jun 1994 p. 2482; 27 Jun 1997 p. 3151; 12 May 1998 p. 2796; 1 Dec 2000 p. 6765; 27 Jul 2001 p. 3800; 14 Jun 2002 p. 2825; 27 Jun 2003 p. 2536; 25 Jun 2004 p. 2264; 24 Jun 2005 p. 2778; 23 Jun 2006 p. 2207; 12 Jun 2007 p. 2727; 24 Jun 2008 p. 2895; 12 Jun 2009 p. 2130.]
+[Regulation 45BAA inserted in Gazette 21 Feb 1986 p. 566-7; amended in Gazette 2 Mar 1990 p. 1328; 1 Aug 1990 p. 3647; 10 Apr 1992 p. 1597; 30 Jun 1992 p. 2900; 29 Jun 1993 p. 3188; 14 Jun 1994 p. 2482; 27 Jun 1997 p. 3151; 12 May 1998 p. 2796; 1 Dec 2000 p. 6765; 27 Jul 2001 p. 3800; 14 Jun 2002 p. 2325; 27 Jun 2003 p. 2536; 25 Jun 2004 p. 2264; 24 Jun 2005 p. 2778; 23 Jun 2006 p. 2207; 12 Jun 2007 p. 2727; 24 Jun 2008 p. 2895; 12 Jun 2009 p. 2130.]

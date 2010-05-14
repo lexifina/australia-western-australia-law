@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 May 2010 of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Navigable Waters Regulations | 2 Apr 1958 p. 622-32 | 1 May 1958 (see r. 1)
@@ -101,7 +101,7 @@ Navigable Waters Amendment Regulations 2000 | 20 Jun 2000 p. 3038-9 | 1 Jul 2000
 Navigable Waters Amendment Regulations (No. 2) 2000 | 1 Dec 2000 p. 6763-8 | 28 Feb 2001 (see r. 2)
 Navigable Waters Amendment Regulations 2001 | 8 May 2001 p. 2273 | 8 May 2001
 Navigable Waters Amendment Regulations (No. 2) 2001 | 27 Jul 2001 p. 3799-800 | 1 Aug 2001 (see r. 2)
-Navigable Waters Amendment Regulations (No. 2) 2002 | 14 Jun 2002 p. 2824-5 | 1 Jul 2002 (see r. 2)
+Navigable Waters Amendment Regulations (No. 2) 2002 | 14 Jun 2002 p. 2324-5 | 1 Jul 2002 (see r. 2)
 Navigable Waters Amendment Regulations 2002 | 11 Mar 2003 p. 752-5 | 11 Mar 2003
 Reprint 11: The Navigable Waters Regulations as at 21 Mar 2003 (includes amendments listed above)
 Navigable Waters Amendment Regulations (No. 2) 2003 | 27 Jun 2003 p. 2536-7 | 1 Jul 2003 (see r. 2)
@@ -126,9 +126,8 @@ Navigable Waters Amendment Regulations (No. 2) 2009 | 12 Jun 2009 p. 2129-30 | r
 Navigable Waters Amendment Regulations (No. 3) 2009 | 17 Nov 2009 p. 4628-30 | r. 1 and 2: 17 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2009 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 4) 2009 | 11 Dec 2009 p. 5058-9 | r. 1 and 2: 11 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Dec 2009 (see r. 2(b))
 Navigable Waters Amendment Regulations 2010 | 19 Mar 2010 p. 1036 | r. 1 and 2: 19 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Mar 2010 (see r. 2(b))
-Footnote no longer applicable.
+Reprint 14: The Navigable Waters Regulations 1958 as at 14 May 2010 (includes amendments listed above)
 Repealed by the Dangerous Goods Safety Act 2004.
-The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
 Defined Terms
