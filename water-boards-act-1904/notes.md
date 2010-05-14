@@ -1,23 +1,23 @@
 Notes
-This is a compilation of the Water Boards Act 1904 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 May 2010 of the Water Boards Act 1904 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
- | Water Boards Act 1904 | 4 of 1904 | 16 Jan 1904 | 16 Jan 1904
- | Rights in Water and Irrigation Act 1914 s. 40(4) | 19 of 1914 | 22 Sep 1914 | 22 Sep 1914
- | Water Boards Act Amendment Act 1918 | 4 of 1919 | 3 Jan 1919 | 3 Jan 1919
- | Ministers’ Titles Act 1925 | 8 of 1925 | 24 Sep 1925 | 24 Sep 1925
- | Water Boards Act Amendment Act 1925 | 16 of 1925 | 4 Nov 1925 | 4 Nov 1925
- | Water Boards Act Amendment Act 1928 | 26 of 1928 (as amended by No. 19 of 1973 s. 4) | 27 Dec 1928 | 27 Dec 1928
- | Water Boards Act Amendment Act 1937 | 25 of 1937 | 18 Jan 1938 | 18 Jan 1938
- | Water Boards Act Amendment Act (No. 2) 1941 | 10 of 1941 | 20 Oct 1941 | 20 Oct 1941
- | Water Boards Act Amendment Act 1942 | 6 of 1942 | 31 Oct 1942 | 31 Oct 1942
- | Water Boards Act Amendment Act 1947 | 26 of 1947 | 12 Nov 1947 | 12 Nov 1947
- | Water Boards Act Amendment Act 1949 | 10 of 1949 | 14 Sep 1949 | 14 Sep 1949
+ | Water Boards Act 1904 | 4 of 1904 (3 Edw. VII No. 19) | 16 Jan 1904 | 16 Jan 1904
+ | Rights in Water and Irrigation Act 1914 s. 40(4) | 19 of 1914 (5 Geo. V No. 19) | 22 Sep 1914 | 22 Sep 1914
+ | Water Boards Act Amendment Act 1918 | 4 of 1919 (9 Geo. V No. 34) | 3 Jan 1919 | 3 Jan 1919
+ | Ministers’ Titles Act 1925 | 8 of 1925 (16 Geo. V No. 8) | 24 Sep 1925 | 24 Sep 1925
+ | Water Boards Act Amendment Act 1925 | 16 of 1925 (16 Geo. V No. 16) | 4 Nov 1925 | 4 Nov 1925
+ | Water Boards Act Amendment Act 1928 | 26 of 1928 (19 Geo. V No. 26) (as amended by No. 19 of 1973 s. 4) | 27 Dec 1928 | 27 Dec 1928
+ | Water Boards Act Amendment Act 1937 | 25 of 1937 (1 & 2 Geo. VI No. 25) | 18 Jan 1938 | 18 Jan 1938
+ | Water Boards Act Amendment Act (No. 2) 1941 | 10 of 1941 (5 Geo. VI No. 10) | 20 Oct 1941 | 20 Oct 1941
+ | Water Boards Act Amendment Act 1942 | 6 of 1942 (6 Geo. VI No. 6) | 31 Oct 1942 | 31 Oct 1942
+ | Water Boards Act Amendment Act 1947 | 26 of 1947 (11 Geo. VI No. 26) | 12 Nov 1947 | 12 Nov 1947
+ | Water Boards Act Amendment Act 1949 | 10 of 1949 (13 Geo. VI No. 96) | 14 Sep 1949 | 14 Sep 1949
  | Reprint of the Water Boards Act 1904 approved 23 Feb 1951 in Vol. 5 of Reprinted Acts (includes amendments listed above)
- | Acts Amendment (Fire Brigades Board and Fire Hydrants) Act 1951 s. 5 | 41 of 1951 | 20 Dec 1951 | 4 Apr 1952 (see s. 2 and Gazette 4 Apr 1952 p. 799-800)
- | Water Boards Act Amendment Act 1953 | 32 of 1953 | 18 Dec 1953 | 18 Dec 1953
- | Limitation Act 1935 s. 48A(1) | 35 of 1935 (as amended by No. 73 of 1954 s. 8) | 14 Jan 1955 | Relevant amendments (see s. 48A and Second Sch.) took effect on 1 Mar 1955 (see No. 73 of 1954 s. 2 and Gazette 18 Feb 1955 p. 343)
- | Water Boards Act Amendment Act 1964 | 32 of 1964 | 4 Nov 1964 | 4 Nov 1964
+ | Acts Amendment (Fire Brigades Board and Fire Hydrants) Act 1951 s. 5 | 41 of 1951 (15 & 16 Geo. VI No. 41) | 20 Dec 1951 | 4 Apr 1952 (see s. 2 and Gazette 4 Apr 1952 p. 799-800)
+ | Water Boards Act Amendment Act 1953 | 32 of 1953 (2 Eliz. II No. 32) | 18 Dec 1953 | 18 Dec 1953
+ | Limitation Act 1935 s. 48A(1) | 35 of 1935 (26 Geo. V No. 35) (as amended by No. 73 of 1954 s. 8) | 14 Jan 1955 | Relevant amendments (see s. 48A and Second Sch.) took effect on 1 Mar 1955 (see No. 73 of 1954 s. 2 and Gazette 18 Feb 1955 p. 343)
+ | Water Boards Act Amendment Act 1964 | 32 of 1964 (13 Eliz. II No. 32) | 4 Nov 1964 | 4 Nov 1964
  | Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
  | Water Boards Act Amendment Act 1969 | 54 of 1969 | 29 Sep 1969 | 29 Sep 1969
  | Reprint of the Water Boards Act 1904 approved 18 Aug 1971 (includes amendments listed above)
@@ -52,26 +52,21 @@ Compilation table
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
  | Reprint 5: The Water Boards Act 1904 as at 12 Aug 2005 (includes amendments listed above)
  | Land Information Authority Act 2006 s. 165 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
- | Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+ | Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 176 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
  | Water Resources Legislation Amendment Act 2007 s. 201 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 131 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 89 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-Now see Department within the meaning of the Transfer of Land Act 1893.
-Footnote no longer applicable.
-Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources and its administrative head is called the Director General.
+Reprint 6: The Water Boards Act 1904 as at 14 May 2010 (includes amendments listed above)
 The Water Boards Act Amendment Act 1918 and the Water Boards Act Amendment Act 1928 which were to be read as one with this Act were repealed by the Acts Amendment and Repeal (Water Authorities) Act 1985 s. 361.
 Section 48A and the Second Schedule were inserted by No. 73 of 1954 s. 5 and 8.
 The Acts Amendment (Statutory Designations) and Validation Act 1981 s. 5 was a validation provision that is of no further effect.
 The Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996 s. 13 reads as follows:
-“
 13. Application
 (1) The amendments made by section 14 apply if the request to defer payment of an amount in respect of headworks is made after 30 June 1996, regardless of whether the requirement to pay the amount was imposed before or after this Act commenced.
 (2) The amendments made by section 15 apply only in relation to a charge in respect of a lot created through a subdivisional plan or diagram approved by the Western Australian Planning Commission after 30 June 1996.
-”.
 The Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996 Pt. 6 is a review provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 66 reads as follows:
-“
 66.Water Boards Act 1904
 (1) In this regulation —
 commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 132 comes into operation;
@@ -80,4 +75,55 @@ Water Board means a Water Board constituted under the WB Act.
 (2) If advice has been given under the WB Act section 87(7) before the commencement day, on or after the commencement day the advice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
 (3) If a Water Board receives, before the commencement day, a notice in accordance with the WB Act section 88(1) (as in force when the notice was received by the Water Board) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Water Board must refer the relevant entry in the rating records to the State Administrative Tribunal for a review as if the notice were a notice served on the Water Board under the WB Act section 88(1).
 (4) If a Water Board receives, before the commencement day, a notice in accordance with the WB Act section 89(1) (as in force when the notice was received by the Water Board) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Water Board must refer the decision to refuse to extend time to the State Administrative Tribunal for a review as if the notice were a notice served on the Water Board under the WB Act section 89(1).
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+agreement62C(10)
+alleged offence162(1)
+alleged offender162(1)
+authorised3(1)
+authorised person162(1)
+Authority63(1)
+board3(1)
+by-laws3(1)
+chairman3(1)
+concession period93B(5)
+Corporation3(1)
+country land3(1)
+deferred amount62C(10)
+designated person162(1)
+developer62C(10)
+district3(1)
+Fire Brigades Act63(1)
+fire district63(1)
+fire hydrant63(1)
+gross rental value76A
+habitable lot62C(10), 93B(5)
+headworks62C(10)
+holding3(1)
+infringement notice162(1)
+lot62C(10), 93B(5)
+member3(1)
+modified penalty162(1)
+prescribed162(1)
+prescribed amount10A(2)
+prescribed fee62D(9)
+prescribed person162(1)
+proclaimed day63(1)
+rateable land3(1)
+ratepayer3(1)
+rating year76A
+Registrar62D(9)
+re-instatement63(1)
+reticulation62C(10)
+subdivision93B(5)
+the developer62B
+the subdivider62A(1)
+unimproved value76A
+water area3(1)
+water board3(1)
+Water Fund111(1)
+water reserve or catchment area36(4)
+watercourse3(1)
+waterworks3(1)
+works3(1)
