@@ -25,23 +25,23 @@ Exceeding 30 000 | $9 618.04
 [Heading inserted in Gazette 24 Jun 2005 p. 2776.]
 1. | Conservancy dues payable in respect of any vessel, other than a fishing vessel or a vessel referred to in regulation 18(1)(a) to (j), on the day of first entry of that vessel —
  | (a)subject to paragraph (b), where the length of the vessel exclusive of bowsprit —
- | (i)does not exceed 6 m | $116.40
- | (ii)exceeds 6 m but does not exceed 10 m | $152.40
- | (iii)exceeds 10 m but does not exceed 20 m | $223.00
- | (iv)exceeds 20 m but does not exceed 30 m | $342.50
- | (v)exceeds 30 m but does not exceed 50 m | $522.60
- | (vi)exceeds 50 m but does not exceed 70 m | $816.70
- | (b)where vessel enters port for coal, fuel oil, supplies or orders, and not loading or unloading cargo or taking on more than 10 passengers | $103.80
+ | (i)does not exceed 6 m | $105.82
+ | (ii)exceeds 6 m but does not exceed 10 m | $138.55
+ | (iii)exceeds 10 m but does not exceed 20 m | $202.73
+ | (iv)exceeds 20 m but does not exceed 30 m | $311.36
+ | (v)exceeds 30 m but does not exceed 50 m | $475.09
+ | (vi)exceeds 50 m but does not exceed 70 m | $742.45
+ | (b)where vessel enters port for coal, fuel oil, supplies or orders, and not loading or unloading cargo or taking on more than 10 passengers | $94.36
 2. | Conservancy dues payable in advance in respect of vessels engaged in pearl fishing north of North West Cape —
- | (a)Storeships, for each period of 12 months ending on 31 December, in any year | $15.00
- | (b)Other pearl fishing vessels, for each period of 6 months ending on 30 June and 31 December respectively, in any year | $7.00
+ | (a)Storeships, for each period of 12 months ending on 31 December, in any year | $13.64
+ | (b)Other pearl fishing vessels, for each period of 6 months ending on 30 June and 31 December respectively, in any year | $6.37
 3. | Conservancy dues payable in respect of the use by a fishing vessel of —
  | ·the Emu Point Fishing Boat Harbour, Albany; ·the Fishing Boat Harbour, Carnarvon; ·the Bandy Creek Small Boat Harbour, Esperance; ·the Fishing Boat Harbour, Fremantle; ·the Inner Harbour, Geraldton; or ·the Fishing Boat Harbour, Port Denison,
  | for a period of 12 months ending on 30 June, where the length of the vessel exclusive of the bowsprit —
- | (a)does not exceed 6 m | $116.40
- | (b)exceeds 6 m but does not exceed 10 m | $152.40
- | (c)exceeds 10 m but does not exceed 20 m | $223.00
- | (d)exceeds 20 m but does not exceed 30 m | $342.50
- | (e)exceeds 30 m but does not exceed 50 m | $522.60
- | (f)exceeds 50 m | $816.70
-[Division 2 inserted in Gazette 24 Jun 2005 p. 2776-7; amended in Gazette 23 Jun 2006 p. 2210-11; 12 Jun 2007 p. 2722; 1 Jul 2008 p. 3158-9; 12 Jun 2009 p. 2118.]
+ | (a)does not exceed 6 m | $105.82
+ | (b)exceeds 6 m but does not exceed 10 m | $138.55
+ | (c)exceeds 10 m but does not exceed 20 m | $202.73
+ | (d)exceeds 20 m but does not exceed 30 m | $311.36
+ | (e)exceeds 30 m but does not exceed 50 m | $475.09
+ | (f)exceeds 50 m | $742.45
+[Division 2 inserted in Gazette 24 Jun 2005 p. 2776-7; amended in Gazette 23 Jun 2006 p. 2210-11; 12 Jun 2007 p. 2722; 1 Jul 2008 p. 3158-9; 12 Jun 2009 p. 2118; 14 May 2010 p. 2017-18.]

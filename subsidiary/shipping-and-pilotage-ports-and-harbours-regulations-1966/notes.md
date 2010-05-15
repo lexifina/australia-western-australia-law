@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 October 2009 of the Ports and Harbours Regulations 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Ports and Harbours Regulations 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Ports and Harbours Regulations | 3 Feb 1966 p. 277-92 | 3 Feb 1966
@@ -77,6 +77,7 @@ Ports and Harbours Amendment Regulations (No. 3) 2008 | 1 Jul 2008 p. 3156-9 | 1
 Ports and Harbours Amendment Regulations 2009 | 12 Jun 2009 p. 2117-18 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Ports and Harbours Amendment Regulations (No. 2) 2009 | 23 Jun 2009 p. 2483-5 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 3: The Ports and Harbours Regulations 1966 as at 2 Oct 2009 (includes amendments listed above)
+Ports and Harbours Amendment Regulations (No. 2) 2010 | 14 May 2010 p. 2017-18 | r. 1 and 2: 14 May 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 15 May 2010 (see r. 2(b))
 Repealed by the Port Authorities (Consequential Provisions) Act 1999.
 Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act. At the time of this reprint the department principally assisting the Minister in the administration of the Marine and Harbours Act 1981 is the Department of Transport.
 Repealed by the Pollution of Waters by Oil and Noxious Substances Act 1987.
