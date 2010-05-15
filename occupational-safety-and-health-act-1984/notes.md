@@ -24,18 +24,18 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Mines Safety and Inspection Amendment Act 2004 s. 94 | 68 of 2004 | 8 Dec 2004 | 4 Apr 2005 (see s. 2(1) and Gazette 11 Feb 2005 p. 695)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 5: The Occupational Safety and Health Act 1984 as at 24 Jun 2005 (includes amendments listed above)
+Petroleum Legislation Amendment and Repeal Act 2005 s. 50 | 13 of 2005 | 1 Sep 2005 | 15 May 2010 (see s. 2(2) and Gazette 14 May 2010 p. 2015)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Petroleum Amendment Act 2007 s. 101 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Police Amendment Act 2008 s. 15 and s. 23(5) | 8 of 2008 | 31 Mar 2008 | s. 15: 1 Apr 2008 (see s. 2(1)); s. 23(5): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
-Training Legislation Amendment and Repeal Act 2008 s. 57 | 44 of 2998 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
-Reprint 6: The Occupational Safety and Health Act 1984 as at 19 Dec 2008 (includes amendments listed above except those in the Training Legislation Amendment and Repeal Act 2008)
+Training Legislation Amendment and Repeal Act 2008 s. 57 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
+Reprint 6: The Occupational Safety and Health Act 1984 as at 19 Dec 2008 (includes amendments listed above except those in the Petroleum Legislation Amendment and Repeal Act 2005, the Petroleum Amendment Act 2007 and the Training Legislation Amendment and Repeal Act 2008)
 Acts Amendment (Bankruptcy) Act 2009 s. 60 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Occupational Safety and Health Legislation Amendment Act 2009 | 36 of 2009 | 3 Dec 2009 | 3-10, 14 and 16: 4 Dec 2009 (see s. 2(d)) s. 13: 31 Dec 2009 (see s. 2(c))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 65, 66 and 68 | 51 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
-Petroleum Legislation Amendment and Repeal Act 2005 s. 50 | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
 Occupational Safety and Health Legislation Amendment Act 2009 s. 11, 12 and 15 | 36 of 2009 | 3 Dec 2009 | s. 11, 12 and 15: to be proclaimed (see s. 2(b));
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -127,31 +127,8 @@ Section 51D is repealed.
 68.Section 54B amended
 Section 54B(2), (3) and (4) are repealed.
 ”.
-On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 50 had not come into operation. It reads as follows:
-“
-50.Occupational Safety and Health Act 1984 amended
-(1) The amendments in this section are to the Occupational Safety and Health Act 1984.
-(2) Section 4(2) is repealed and the following section is inserted instead —
-“
-(2) Subject to this section and except as may be otherwise expressly provided by Parliament, this Act does not apply to or in relation to a workplace —
-(a) that is, or at which work is carried out on, a mine to which the Mining Act 1978, or the Mines Safety and Inspection Act 1994, applies;
-(b) at which a petroleum operation, as defined in section 5(1) of the Petroleum Act 1967, is carried on;
-(c) at which a pipeline operation, as defined in section 4(1) of the Petroleum Pipelines Act 1969, is carried on; or
-(d) at which an offshore petroleum operation, as defined in section 4 of the Petroleum (Submerged Lands) Act 1982, is carried on.
-”.
-”.
-On the date as at which this compilation was prepared, the Petroleum Amendment Act 2007 s. 101 was proclaimed but cannot take effect until the Petroleum Legislation Amendment and Repeal Act 2005 s. 50 comes into operation. It reads as follows:
-“
-101.Occupational Safety and Health Act 1984 amended
-(1) The amendments in this section are to the Occupational Safety and Health Act 1984 as amended by the Petroleum Legislation Amendment and Repeal Act 2005.
-(2) Section 4(2)(b) is amended as follows:
-(a) after “petroleum operation” by inserting —
-“ or geothermal energy operation ”;
-(b) by deleting “Petroleum Act 1967,” and inserting instead —
-“
-Petroleum and Geothermal Energy Resources Act 1967,
-”.
-”.
+Footnote no longer applicable.
+This amendment took effect on 15 May 2010 when the Petroleum Legislation Amendment and Repeal Act 2005 s. 50 came into operation, see Gazette 14 May 2010 p. 2015.
 A reference to the Petroleum Safety Act 1999 is not included in the table because that Act was repealed before the amendments in Sch. 2 to that Act came into operation. The repeal was made by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51.
 On the date as at which this compilation was prepared, the Occupational Safety and Health Legislation Amendment Act 2009 s. 11, 12 and 15 had not come into operation. They read as follows:
 11.Section 51A amended
