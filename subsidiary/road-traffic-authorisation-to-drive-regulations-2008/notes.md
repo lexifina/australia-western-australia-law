@@ -4,6 +4,7 @@ Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Authorisation to Drive) Regulations 2008 | 10 Jun 2008 p. 2367-429 | r. 1 and 2: 10 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 Road Traffic Amendment (Novice Driver Penalties) Regulations 2008 Pt. 2 | 27 Jun 2008 p. 3119-24 | r. 1 and 2: 27 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b) and Gazette 27 Jun 2008 p. 3117)
+Road Traffic (Authorisation to Drive) Amendment Regulations 2010 | 14 May 2010 p. 2021-2 | r. 1 and 2: 14 May 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 15 May 2010 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
