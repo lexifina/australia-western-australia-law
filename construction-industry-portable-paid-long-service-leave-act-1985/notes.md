@@ -1,10 +1,10 @@
 Notes
-This is a compilation of the Construction Industry Portable Paid Long Service Leave Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 21 May 2010 of the Construction Industry Portable Paid Long Service Leave Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Construction Industry Portable Paid Long Service Leave Act 1985 | 72 of 1985 | 13 Dec 1985 | 19 Dec 1986 (see s. 2 and Gazette 19 Dec 1986 p. 4860)
+Construction Industry Portable Paid Long Service Leave Act 1985 | 72 of 1985 | 13 Dec 1985 | s. 1 and 2: 13 Dec 1985; Act other than s. 1 and 2: 19 Dec 1986 (see s. 2 and Gazette 19 Dec 1986 p. 4860)
 Act Amendment (Financial Administration and Audit) Act 1986 s. 4 | 4 of 1986 | 27 Jun 1986 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
-Construction Industry Portable Paid Long Service Leave Amendment Act 1989 | 30 of 1989 | 12 Dec 1989 | 29 Dec 1989 (see s. 2 and Gazette 29 Dec 1989 p. 4665)
+Construction Industry Portable Paid Long Service Leave Amendment Act 1989 | 30 of 1989 | 12 Dec 1989 | s. 1 and 2: 12 Dec 1989; Act other than s. 1 and 2: 29 Dec 1989 (see s. 2 and Gazette 29 Dec 1989 p. 4665)
 Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
 Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
@@ -17,13 +17,12 @@ Acts Amendment (Equality of Status) Act 2003 Pt. 7 | 28 of 2003 | 22 May 2003 | 
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Construction Industry Portable Paid Long Service Leave Act 1985 as at 4 Nov 2005 (includes amendments listed above)
 Labour Relations Legislation Amendment Act 2006 Pt. 7 Div. 1 | 36 of 2006 | 4 Jul 2006 | 1 Oct 2006 (see s. 2(2))
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 31 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 39 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 21 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-Footnote no longer applicable.
+Reprint 3: The Construction Industry Portable Paid Long Service Leave Act 1985 as at 21 May 2010 (includes amendments listed above)
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 The Construction Industry Portable Paid Long Service Leave Amendment Act 1989 s. 13 and 14 read as follows:
-“
 13.Transitional
 (1) In this section —
 Board, day of service, employee and employer have the same meaning as in the principal Act; and
@@ -33,5 +32,25 @@ the appointed day means the day fixed by the Minister by Order published in the 
 (4) Notwithstanding anything in section 34 of the principal Act, an employer shall pay to the Board in respect of any person referred to in subsection (3) whose service with the employer has been continuous for a period of at least 10 years ending on the appointed day such amount as is assessed by the Board as contributions in respect of the paid long service leave contributions in relation to that person.
 (5) An amount assessed by the Board under subsection (4) shall, if not paid within the time specified by the Board, constitute a debt to the Board and is recoverable by the Board in any court of competent jurisdiction.
 14.Validation
-Where a regulation is made under section 3(4)(c) of the principal Act, any Act done or thing omitted to be done before the coming into operation of that regulation which constituted a contravention of the principal Act but which would have been lawful if done or omitted to be done after the coming into operation of the regulation, shall be deemed to have been lawfully done.
-”.
+Where a regulation is made under section 3(4)(c) of the principal Act, any act done or thing omitted to be done before the coming into operation of that regulation which constituted a contravention of the principal Act but which would have been lawful if done or omitted to be done after the coming into operation of the regulation, shall be deemed to have been lawfully done.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+appointed day3(1)
+award3(1)
+Board3(1)
+books3(1)
+chief executive officer3(1)
+commencement daySch. cl. 3(7)
+construction industry3(1), 29A(1)
+corresponding law29A(1)
+corresponding public employer in this State29A(1)
+day of service3(1)
+employee3(1)
+employees register3(1)
+employer3(1)
+employers register3(1)
+member3(1)
+ordinary pay3(1), 21(3), 51(2)
+union3(1)
+year of service3(1)
