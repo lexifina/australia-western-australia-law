@@ -1,13 +1,13 @@
 ## Second Schedule
 [s. 6]
-Other ships from which relics are believed to have been recovered prior to 18th December, 1964
+## Other ships from which relics are believed to have been recovered prior to 18 December 1964
 Name of Ship | Year of loss | Approximate location
 Known as the —
 “Elizabeth” | 1839 | South of Cottesloe Beach.
 “Lancier” | 1839 | Stragglers Rocks.
 “Cervantes” | 1844 | Thirsty Point.
 “Eglinton” | 1852 | Eglinton Rocks.
-“Zedora” (formerly believed to be Lancier) | 1875 | South of Hügel Passage.
+“Zedora” (formerly believed to be “Lancier”) | 1875 | South of Hügel Passage.
 “Georgette” | 1876 | South of Margaret River.
 “Lady Elizabeth” | 1878 | North of Dyer’s Island.
 “James Service” | 1878 | Murray Reef.
