@@ -31,6 +31,10 @@ Petroleum Amendment Act 2007 s. 88 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see
 Reprint 4: The Aboriginal Affairs Planning Authority Act 1972 as at 8 May 2009 (includes amendments listed above)
 Acts Amendment (Bankruptcy) Act 2009 s. 6 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 2 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Aboriginal Housing Legislation Amendment Act 2010 Pt. 3 | 6 of 2010 | 25 May 2010 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Native Welfare Act 1963 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Mining Act 1978.
 Repealed by the Land Administration Act 1997.
@@ -45,6 +49,15 @@ commencement means the time at which section 342 comes into operation;
 Commissioner has the meaning given to “Commissioner for Aboriginal Affairs” by section 10 of the Aboriginal Affairs Planning Authority Act 1972 as in force before commencement.
 The requirement to appoint a Commissioner for Aboriginal Planning was removed from the Act and references to the Commissioner were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 11 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Commissioner in written laws.
 The amendment to s. 10(2) in the Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 1 (now known as the Financial Management (Transitional Provisions) Act 2006) is not included because the section it sought to amend was repealed by the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 344.
+On the date as at which this compilation was prepared, the Aboriginal Housing Legislation Amendment Act 2010 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Aboriginal Affairs Planning Authority Act 1972 amended
+10.Act amended
+This Part amends the Aboriginal Affairs Planning Authority Act 1972.
+11.Section 33A inserted
+At the end of Part III insert:
+33A.Power to grant leases over Part III land
+(1) To avoid doubt, it is declared that the Authority has, and has always had, power to grant a lease over land whenever vested in the Authority under section 27.
+(2) To avoid doubt, it is declared that the powers delegated to the Trust by a proclamation whenever made under section 24 in respect of land to which this Part applies include, and have always included, power to grant a lease over that land unless the proclamation expressly excludes that power.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
