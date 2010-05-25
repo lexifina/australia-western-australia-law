@@ -20,23 +20,11 @@ Cremation Amendment Regulations 2002 | 24 Sep 2002 p. 4766-8 | 24 Sep 2002
 Cremation Amendment Regulations 2004 | 30 Dec 2004 p. 6933 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Cremation Amendment Regulations 2008 | 4 Apr 2008 p. 1299-304 | 1 Jul 2008 (see r. 2)
 Reprint 3: The Cremation Regulations 1954 as at 1 Aug 2008 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Cremation Amendment Regulations 2010 | 13 Apr 2010 p. 1373 | 25 May 2010 (see r. 2(b))
+Cremation Amendment Regulations 2010 | 13 Apr 2010 p. 1373 | r. 1 and 2: 13 Apr 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 25 May 2010 (see r. 2(b))
 Repealed by the Cemeteries Act 1986.
 Repealed by the Associations Incorporation Act 1987.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date referred to in r. 2 was before the date of gazettal.
-On the date as at which this compilation was prepared, the Cremation Amendment Regulations 2010 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Cremation Regulations 1954.
-4.Appendix “B” amended
-In Appendix “B”:
-(a) delete “34.10” and insert:
-62.00
-(b) delete “57.20” and insert:
-94.00
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
