@@ -32,6 +32,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 s. 28 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Aboriginal Housing Legislation Amendment Act 2010 Pt. 2 | 6 of 2010 | 25 May 2010 | To be proclaimed (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Housing Amendment Act 1983 s. 4(2) is a transitional provision that is of no further effect.
@@ -78,3 +79,162 @@ On the date as at which this compilation was prepared, the Housing Societies Rep
 (2) Section 52(1) is amended in the definition of “lending institution” by deleting paragraph (a).
 (3) Section 55(5) is amended by deleting “or on termination of the lending institution in the case of a housing society;”.
 ”.
+On the date as at which this compilation was prepared, the Aboriginal Housing Legislation Amendment Act 2010 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Housing Act 1980 amended
+3.Act amended
+This Part amends the Housing Act 1980.
+4.Section 4 amended
+In section 4:
+(a) after paragraph (b) insert:
+(ca) the letting and leasing of houses, the provision of services relating to the letting and leasing of houses and the entry into arrangements for the provision of such services;
+(b) in paragraph (d) after “encouragement of” insert:
+and participation in
+5.Section 5 amended
+In section 5(1) insert in alphabetical order:
+Crown land has the meaning given in the Land Administration Act 1997 section 3(1);
+6.Section 12A replaced
+Delete section 12A and insert:
+12A.Joint ventures
+(1) To further the objects of this Act or the Government Employees’ Housing Act 1964, subject to subsection (3), the Authority may enter into a joint venture arrangement.
+(2) Without limiting the powers that the Authority may exercise under either of those Acts for the purposes of participating in and giving effect to a joint venture arrangement relating to a project, the Authority may —
+(a) seek and maintain appropriate representation on a board or other body having responsibility for carrying out, managing or controlling the project; and
+(b) subject to any contract relating to the project —
+(i) receive contributions or other moneys relating to the project; and
+(ii) disburse or distribute, or arrange for the disbursement or distribution of, those contributions or other moneys.
+(3) The Authority can only enter into a joint venture arrangement —
+(a) with the approval of the Minister; and
+(b) on terms and conditions approved by the Treasurer.
+7.Section 13 replaced
+Delete section 13 and insert:
+13.Delegation: powers and duties generally
+(1) The Authority may delegate under this section to an officer of the Authority —
+(a) any power or duty of the Authority under this Act, except a power or duty referred to in section 62K(1); or
+(b) any power or duty of the Authority under the Government Employees’ Housing Act 1964.
+(2) The delegation must be in writing executed by the Authority.
+(3) An officer to whom a power or duty is delegated under this section cannot delegate that power or duty.
+(4) An officer exercising or performing a power or duty that has been delegated to the officer under this section is taken to do so in accordance with the terms of the delegation unless the contrary is shown.
+(5) This section does not limit the ability of the Authority to perform a function through an officer of the Authority or an agent.
+8.Section 22 amended
+In section 22(1):
+(a) delete “has power —” and insert:
+has these powers —
+(b) in paragraph (a) delete “any area in which land held by the Authority is situated, and with the consent of the Minister,” and insert:
+any land except Crown land not held by the Authority and
+(c) in paragraph (b) delete “with the consent of the Minister,”;
+(d) in paragraph (b) delete “held by the Authority”;
+(e) in paragraph (d) delete “with the consent of the Minister,”;
+(f) after paragraph (h) insert:
+(ia) to arrange, effect or take out insurance in connection with a matter referred to in paragraphs (a) to (h);
+9.Part VIIA inserted
+After section 61 insert:
+Part VIIA — Housing on Aboriginal land
+Division 1 — Preliminary matters
+62A.Terms used
+In this Part —
+AAPA means The Aboriginal Affairs Planning Authority continued in existence under the AAPA Act section 8(1);
+AAPA Act means the Aboriginal Affairs Planning Authority Act 1972;
+Aboriginal entity means any of these entities —
+(a)AAPA;
+(b)ALT;
+(c)a corporation registered under the Corporations (Aboriginal and Torres Strait Islander) Act 2006 (Commonwealth);
+(d)an incorporated association under the Associations Incorporation Act 1987 the membership of which is wholly or principally composed of persons of Aboriginal descent as defined in the AAPA Act section 4;
+(e)an entity prescribed by the regulations for this definition;
+Aboriginal land means —
+(a)Crown land; or
+(b)freehold land that is owned by AAPA, ALT or the State,
+over which an Aboriginal entity has power to grant a lease;
+ALT means the Aboriginal Lands Trust established by the AAPA Act section 20(1);
+housing management agreement means an agreement entered into under section 62B(1);
+lease includes a sublease;
+nominated house, in relation to a housing management agreement, has the meaning given in section 62D(2);
+nominated lot, in relation to a housing management agreement, has the meaning given in section 62D(1);
+residential tenancy agreement has the meaning given in the Residential Tenancies Act 1987 section 3.
+Division 2 — Housing management agreements
+62B.Authority may enter into housing management agreement
+(1) The Authority may enter into a housing management agreement in respect of Aboriginal land with an Aboriginal entity.
+(2) The purpose of a housing management agreement is to enable the Authority to control and manage, on behalf of the Aboriginal entity, the letting and leasing of housing on the Aboriginal land.
+(3) This Part does not require the Authority to enter into a housing management agreement with an Aboriginal entity.
+62C.Wishes of Aboriginal inhabitants to be ascertained
+The Authority cannot —
+(a) enter into a housing management agreement; or
+(b) list under section 62D a lot or house as a lot or house in relation to which a housing management agreement applies,
+unless the Authority is satisfied that doing so would accord with the wishes of the Aboriginal inhabitants of the Aboriginal land to the extent those wishes can be ascertained and are practicable.
+62D.Lots and houses to which housing management agreement applies
+(1) A housing management agreement applies in relation to a lot (a nominated lot) that is listed in the housing management agreement for the period specified for the lot in the housing management agreement.
+(2) A housing management agreement applies in relation to a house (a nominated house) that —
+(a) is on a nominated lot; and
+(b) is listed in the housing management agreement,
+for the period specified for the house in the housing management agreement.
+(3) A housing management agreement must provide for these matters —
+(a) a lot to be added to, or removed from, the list referred to in subsection (1);
+(b) a house to be added to, or removed from, the list referred to in subsection (2)(b);
+(c) a period referred to in subsection (1) or (2) to be varied.
+62E.Rent for nominated lots and nominated houses
+(1) In this section —
+rent has the meaning given in the Residential Tenancies Act 1987 section 3.
+(2) Rent for the let or lease of a nominated lot or nominated house is payable to the Authority.
+(3) The amount of rent payable is the amount determined by the Authority and approved by the Minister.
+(4) A determination under subsection (3) may provide for all or any of these matters —
+(a) the payment of different rents in respect of different nominated lots or nominated houses or different classes of nominated lots or nominated houses;
+(b) the payment of different rents by tenants of different classes;
+(c) the allowance of rebates in the circumstances and subject to the conditions specified in the determination.
+62F.Other terms of housing management agreement
+A housing management agreement must provide for these matters —
+(a) the Authority to determine, subject to this Part and the Residential Tenancies Act 1987 as applied by section 62G(1), the terms of a residential tenancy agreement in respect of a nominated lot or nominated house;
+(b) the Authority to decide, having regard to the wishes of the Aboriginal inhabitants of the Aboriginal land to the extent those wishes can be ascertained and are practicable, to whom a nominated lot or nominated house can be let or leased;
+(c) the Authority to execute, on behalf of the Aboriginal entity as lessor, a residential tenancy agreement in respect of a nominated lot or nominated house;
+(d) the period for which the housing management agreement has effect;
+(e) the early termination of the housing management agreement, but only if the parties to the agreement agree to the early termination;
+(f) the variation of the housing management agreement, but only if the parties to the agreement agree to the variation;
+(g) the effect of early termination or variation of the housing management agreement on a residential tenancy agreement executed by the Authority under the housing management agreement;
+(h) any other matters prescribed by the regulations for this section.
+62G.Application of Residential Tenancies Act 1987
+(1) Subject to this Part and the housing management agreement, the Residential Tenancies Act 1987 applies in relation to the let or lease of a nominated lot or nominated house as if —
+(a) the nominated lot or nominated house were residential premises as defined in section 3 of that Act; and
+(b) the Authority were the owner, as defined in section 3 of that Act, of those premises.
+(2) However, the Authority is not to be treated as the owner of a nominated lot or nominated house for any other purpose.
+62H.No interest in land created, property acquired or compensation payable
+(1) A housing management agreement does not create any interest in Aboriginal land in favour of the Authority.
+(2) A housing management agreement is not an acquisition of property.
+(3) Compensation is not payable under any written law to an Aboriginal entity or other person because —
+(a) an Aboriginal entity enters into a housing management agreement; or
+(b) the Authority does anything that it is required or permitted to do under a housing management agreement.
+62I.No fees or charges payable in respect of housing management agreement
+A party to a housing management agreement cannot require the payment of a fee or charge for —
+(a) entering into the housing management agreement; or
+(b) doing anything that the party is required or permitted to do under the housing management agreement.
+62J.Authority may act through agent
+(1) The Authority may enter into an agreement (an agency agreement) with a person or body under which the person or body is authorised to exercise as the Authority’s agent all or any of the powers conferred on the Authority under a housing management agreement.
+(2) The powers conferred on the Authority’s agent under the agency agreement are exercisable by the Authority’s agent in accordance with this Act, the housing management agreement and the agency agreement.
+(3) The agency agreement may provide for the payment of a fee by the Authority to the Authority’s agent or another person for anything that the Authority’s agent is required or permitted to do under the agency agreement.
+62K.Delegation: powers and duties in relation to housing management agreement
+(1) The Authority may delegate under this section to an officer of the Authority any power or duty of the Authority under any of these provisions —
+(a) another provision of this Division;
+(b) a provision of a housing management agreement;
+(c) a provision of a residential tenancy agreement in respect of a nominated lot or nominated house;
+(d) a provision of the Residential Tenancies Act 1987 as applied by section 62G(1).
+(2) The delegation must be in writing executed by the Authority.
+(3) An officer to whom a power or duty is delegated under this section cannot delegate that power or duty.
+(4) An officer exercising or performing a power or duty that has been delegated to the officer under this section is taken to do so in accordance with the terms of the delegation unless the contrary is shown.
+(5) This section does not limit the ability of the Authority to perform a function through an officer of the Authority or an agent.
+Division 3 — Miscellaneous matters
+62L.Approval of Minister for Indigenous Affairs, AAPA or ALT not required
+(1) In this section —
+Minister for Indigenous Affairs means the Minister to whom the administration of the AAPA Act is committed.
+(2) Subsection (3) applies despite —
+(a) the AAPA Act and any other written law; and
+(b) the terms and conditions of the grant of any interest, licence, right, title or estate under any written law by —
+(i) the Minister for Indigenous Affairs; or
+(ii) AAPA; or
+(iii) ALT.
+(3) The prior approval or consent of the Minister for Indigenous Affairs, AAPA or ALT is not required for a person —
+(a) to enter into —
+(i) a housing management agreement; or
+(ii) a residential tenancy agreement in respect of a nominated lot or nominated house;
+or
+(b) to do anything the person is required or permitted to do under an agreement referred to in paragraph (a).
+62M.Application of Land Administration Act 1997
+(1) In this section —
+reserved Aboriginal land means Aboriginal land that is Crown land reserved for the purpose of the use and benefit of Aboriginal inhabitants (however that purpose is described).
+(2) This Part does not affect the application of the Land Administration Act 1997 in relation to Aboriginal land that is Crown land.
+(3) To avoid doubt, it is declared that the letting and leasing of housing on reserved Aboriginal land is, and always has been, consistent with the purpose for which that land is reserved.
