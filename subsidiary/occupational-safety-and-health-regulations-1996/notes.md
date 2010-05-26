@@ -66,11 +66,8 @@ Reprint 7: The Occupational Safety and Health Regulations 1996 as at 3 Aug 2009 
 Occupational Safety and Health Amendment Regulations (No. 5) 2009 | 25 Aug 2009 p. 3312-13 | r. 1 and 2: 25 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Aug 2009 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 3) 2009 | 22 Dec 2009 p. 5233-50 | r. 1 and 2: 22 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2010 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 7) 2009 | 15 Jan 2010 p. 74-5 | r. 1 and 2: 15 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jan 2010 (see r. 2(b))
-The amendment to r. 5.46 in the Occupational Safety and Health Amendment Regulations (No. 3) 2009 r. 10(b) is not included because it was unclear where the amendment was intended to be made. Regulation 10(b) reads as follows:
-10.Regulation 5.46 amended
-In regulation 5.46(1):
-(b) in paragraph (a) delete “every person employed to do asbestos removal work; and” and insert:
-any person employed or otherwise engaged to do work involving friable asbestos-containing material; and
+Occupational Safety and Health Amendment Regulations 2010 | 25 May 2010 p. 2276-7 | r. 1 and 2: 25 May 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 26 May 2010 (see r. 2(b))
+Footnote no longer applicable.
 Repealed by the Training Legislation Amendment and Repeal Act 2008.
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 10, a reference in a written law to a Local Court is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court.
