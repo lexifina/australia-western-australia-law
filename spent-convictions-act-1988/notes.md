@@ -47,6 +47,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 5 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
+Working with Children (Criminal Record Checking) Amendment Act 2010 Pt. 3 | 7 of 2010 | 27 May 2010 | To be proclaimed (see s. 2)
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 s. 34, 34B and 40 were repealed by the Young Offenders Act 1994, which was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
@@ -62,3 +63,19 @@ The amendments in this Division are to the Spent Convictions Act 1988.
 Schedule 3 clause 1 item 10 of the Table is amended by deleting “Community and Juvenile Justice Division or the Prisons Division of the Department of Justice” and inserting instead —
 department of the Public Service principally assisting in the administration of this Act
 The amendment to item 10 in the table to Sch. 3 cl. 1 in the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 5 would conflict with amendments in the Prisons and Sentencing Legislation Amendment Act 2006 s. 70.
+On the date as at which this compilation was prepared, the Working with Children (Criminal Record Checking) Amendment Act 2010 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Spent Convictions Act 1988 amended
+26.Act amended
+This Part amends the Spent Convictions Act 1988.
+27.Section 28 amended
+(1) Before section 28(1) insert:
+(1A) In this section —
+child means a person under 18 years of age;
+official criminal record means a record containing information about the results of criminal proceedings kept for the purposes of its functions by any police force, court, government department, local or other public authority in Western Australia.
+(2) Delete section 28(2) and insert:
+(2) Subsection (1) does not apply to a prescribed person if —
+(a) the person is required or permitted under a prescribed law of the Commonwealth, another State or a Territory to obtain or deal with information about a person who works, or seeks to work, with a child; and
+(b) the purpose of obtaining the information from an official criminal record is to obtain or deal with the information in accordance with the prescribed law.
+28.Schedule 3 amended
+After Schedule 3 clause 2(6) insert:
+(7) The CEO as defined in the Working with Children (Criminal Record Checking) Act 2004 section 4 is excepted from the provisions of section 28(1) in respect of all spent convictions in disclosing information under section 37(2) of that Act if the disclosure is to a corresponding authority as defined in section 37(1) of that Act and that authority is a person prescribed under section 28(2).
