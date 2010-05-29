@@ -1,3 +1,5 @@
 ## Schedule 6 — Standards for vehicle support stands
 [r. 28]
-Australian Standard AS 2538: 1995 “Vehicle Support Stands”, approved by Standards Australia on 31 January 1995.
+[Heading inserted in Gazette 28 May 2010 p. 2368.]
+## Division 1 — AS/NZS 2538:2004
+[Heading inserted in Gazette 28 May 2010 p. 2368.]
