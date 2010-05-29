@@ -47,20 +47,20 @@ Name of real estate agent ......................................................
 Expense | Amount $ | Carried forward | $
 Stamp duty — transfer — mortgage Registration fees — transfer — mortgage — caveat Conveyancing fees Solicitor’s fees Valuation fees |  | Lending institution fees for lodging this application Mortgage guarantee fees or mortgage insurance premium (not house and contents insurance or mortgage protection insurance) Inspection fees Establishment fees
 Sub Total | $ | Total | $
-Declaration
-I do solemnly declare that:
-(a)the information provided by me in this application is true and correct;
-(b)I do not intend to lease the dwelling, or permit it to be leased, for the period of 12 months after settlement on its purchase; and
-(c)the dwelling, unless it is a partly built dwelling, is to be used as the principal place of residence of myself and my immediate family for at least the period referred to in paragraph (b) of this declaration.
-And I make this solemn declaration by virtue of section 106 of the Evidence Act 1906.
-Declared at.......................................................................................................
-Dated this................... day of ................................................... 2 ................
-Declarant 1........................................................................................................
-Declarant 2........................................................................................................
-(If applicable)
-Before me.......................................................................................................
-[Justice of the Peace, Commissioner for Declarations, or Authorised Person]
-[Form 1 inserted in Gazette 8 Feb 2002 p. 599-602; amended in Gazette 28 Aug 2009 p. 3349.]
+Statutory declaration
+I/We,
+[name, address and occupation of person(s) making the declaration]
+sincerely declare as follows —
+(a)the information provided by me/us in this application is true and correct;
+(b)I/we do not intend to lease the dwelling, or permit it to be leased, for the period of 12 months after settlement on its purchase;
+(c)the dwelling, unless it is a partly built dwelling, is to be used as the principal place of residence of myself/ourselves and my/our immediate family for at least the period referred to in paragraph (b) of this declaration.
+This declaration is true and I/we know that it is an offence to make a declaration knowing that it is false in a material particular.
+This declaration is made under the Oaths, Affidavits and Statutory Declarations Act 2005 at [place] on [date] by —
+[Signature(s) of person(s) making the declaration]
+in the presence of —
+[Signature of authorised witness]
+[Name of authorised witness and qualification as such a witness]
+[Form 1 inserted in Gazette 8 Feb 2002 p. 599-602; amended in Gazette 28 Aug 2009 p. 3349; 28 May 2010 p. 2298.]
 Form 2 — Infringement notice
 Real Estate and Business Agents Act 1978 Infringement notice | Infringement notice no.
 Alleged offender | Name: Family name

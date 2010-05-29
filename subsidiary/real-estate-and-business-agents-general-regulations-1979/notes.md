@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 December 2009 of the Real Estate and Business Agents (General) Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Real Estate and Business Agents (General) Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Real Estate and Business Agents (General) Regulations 1979 | 31 Aug 1979 p. 2616-18 | 1 Sep 1979
@@ -66,6 +66,7 @@ Real Estate and Business Agents (General) Amendment Regulations (No. 4) 2009 | 2
 Real Estate and Business Agents (General) Amendment Regulations (No. 3) 2009 | 28 Aug 2009 p. 3347-52 | r. 1 and 2: 28 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2009 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations (No. 5) 2009 | 10 Nov 2009 p. 4495-6 | r. 1 and 2: 10 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Nov 2009 (see r. 2(b))
 Reprint 6: The Real Estate and Business Agents (General) Regulations 1979 as at 11 Dec 2009 (includes amendments listed above)
+Real Estate and Business Agents (General) Amendment Regulations 2010 | 28 May 2010 p. 2297-8 | r. 1 and 2: 28 May 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 29 May 2010 (see r. 2(b))
 Evidence Act 1906 s. 106 repealed by Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 51.
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
