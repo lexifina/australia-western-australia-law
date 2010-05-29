@@ -9,6 +9,7 @@ Trade Measurement Amendment Regulations 2009 | 13 Feb 2009 p. 294 | r. 1 and 2: 
 Trade Measurement Amendment Regulations (No. 2) 2009 | 13 Feb 2009 p. 295-7 | r. 1 and 2: 13 Feb 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Feb 2009 (see r. 2(b))
 Reprint 1: The Trade Measurement Regulations 2007 as at 5 Jun 2009 (includes amendments listed above)
 Trade Measurement Amendment Regulations (No. 3) 2009 | 23 Jun 2009 p. 2456-8 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Trade Measurement Amendment Regulations 2010 | 28 May 2010 p. 2299 | r. 1 and 2: 28 May 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 29 May 2010 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Consumer and Employment Protection is called the Department of Commerce.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
