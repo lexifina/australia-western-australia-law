@@ -154,19 +154,19 @@ Fee | $
 (ii)for each additional associated power boat with a surveyed length of 4.5 m or more but 7.5 m or less | 259.00
 (iii)for a licence to operate a boat in more than one zone, for each additional zone | 129.00
 5.Fishing tour operator’s licence Types of operation —
-(1)(a)Using a boat with a surveyed length of more than 7.5 m and an open water passenger capacity of 20 persons or less and an associated power boat with a length of 4.5 m or more but 7.5 m or less, in one zone | 636.00
+(1)(a)Using a boat with a surveyed length of more than 7.5 m and an open water passenger capacity of 10 persons or less and an associated power boat with a length of 4.5 m or more but 7.5 m or less, in one zone | 1 786.00
 (b)In addition to the fee specified in item 5(1)(a) —
-(i)for each additional associated power boat with a surveyed length of more than 7.5 m and a maximum passenger carrying capacity of 20 passengers or less | 636.00
+(i)for each additional associated power boat with a surveyed length of more than 7.5 m and a maximum passenger carrying capacity of 10 passengers or less | 1 786.00
 (ii)for each additional associated power boat with a surveyed length of more than 4.5 m but less than 7.5 m | 312.00
-(iii)for each additional passenger carrying capacity of 10 passengers or a part thereof | 312.00
+(iii)for a licence to operate with a passenger carrying capacity of more than 10 passengers | 1 150.00
 (iv)for a licence to operate in more than one zone, for each additional zone | 636.00
 (2)(a)A land based operation, authorised to operate in one zone with a maximum capacity of 20 passengers | 259.00
 (b)In addition to the fee specified in item 5(2)(a) —
 (i)for each additional 10 passengers carrying capacity or part thereof | 129.00
 (ii)for a licence to operate in more than one zone, for each additional zone | 129.00
-(3)(a)A combination of boat and land or boat and aircraft operations with a total passenger carrying capacity of 20 persons or less, authorised to operate in one zone and a maximum of 2 boats with a surveyed length of 4.5 m or more but 7.5 m or less | 636.00
+(3)(a)A combination of boat and land or boat and aircraft operations with a total passenger carrying capacity of 10 persons or less, authorised to operate in one zone and a maximum of 2 boats with a surveyed length of 4.5 m or more but 7.5 m or less | 1 786.00
 (b)In addition to the fee specified in item 5(3)(a) —
-(i)for each additional capacity of 10 passengers or part thereof | 312.00
+(i)for a licence to operate with a passenger carrying capacity of more than 10 passengers | 1 150.00
 (ii)for each additional associated power boat with a surveyed length of 4.5 m or more but 7.5 m or less | 312.00
 (iii)for a licence to operate a boat in more than one zone, for each additional zone | 636.00
 6.Fishing boat licence Types of boat —
@@ -180,4 +180,4 @@ Fee | $
 (d)fishing for all freshwater fish (other than crustaceans) in waters south of 29 degrees south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 40.00
 (e)fishing by means of a fishing net | 40.00
 9.Recreational (boat) fishing licence (r. 124C) | 30.00
-[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7.]
+[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5.]
