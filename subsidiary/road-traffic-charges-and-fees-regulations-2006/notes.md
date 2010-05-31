@@ -16,10 +16,11 @@ Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2009 | 22 May 2009
 Road Traffic (Charges and Fees) Amendment Regulations (No. 3) 2009 | 22 May 2009 p. 1707-14 | Pt. 1: 22 May 2009 (see r. 2(a)); Pt. 2: 31 May 2009 (see r. 2(b)); Regulations other than Pt. 1 and 2: 1 Jul 2009 (see r. 2(c))
 Road Traffic (Charges and Fees) Amendment Regulations 2009 | 18 Aug 2009 p. 3239-40 | r. 1 and 2: 18 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2009 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 5) 2009 | 31 Dec 2009 p. 5417 | r. 1 and 2: 31 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
+Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2010 | 7 May 2010 p. 1726-31 | Pt. 1: 7 May 2010 (see r. 2(a)); Pt. 2: 31 May 2010 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2010 Pt. 2 and 3 | 7 May 2010 p. 1726-31 | Pt. 2: 31 May 2010 (see r. 2(b)); Pt. 3: 1 Jul 2010 (see r. 2(c))
+Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2010 Pt. 3 | 7 May 2010 p. 1726-31 | Pt. 3: 1 Jul 2010 (see r. 2(c))
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 r. 3 reads as follows:
@@ -32,22 +33,7 @@ The Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2008 r. 4 read
 4.Specified day: section 28A
 For the purposes of section 28A(3) of the Act, the specified day in relation to these regulations is 1 July 2008.
 ”.
-On the date as at which this compilation was prepared, the Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2010 Pt. 2 and 3 have not come into operation. They read as follows:
-Part 2 — Changes to vehicle licence charges
-4.Specified day: section 28A
-For the purposes of section 28A(3) of the Act, the specified day in relation to this Part is 1 July 2010.
-5.Regulation 20 amended
-In regulation 20(1) delete “$63” (each occurrence) and insert:
-$65
-6.Schedule 1 Division 1 Subdivision 2 amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 1 Div. 1 cl. 3 | $16.67 | $17.02
-Sch. 1 Div. 1 cl. 5 | $8.34 | $8.51
-Sch. 1 Div. 1 cl. 6(1) | $33.34 | $34.04
-Sch. 1 Div. 1 cl. 6(2) | $50.02 | $51.08
-Sch. 1 Div. 1 cl. 7 | $4.17 | $4.26
+On the date as at which this compilation was prepared, the Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2010 Pt. 3 had not come into operation. It reads as follows:
 Part 3 — Other provisions
 7.Regulation 35 amended
 In regulation 35 delete “item 29” and insert:
