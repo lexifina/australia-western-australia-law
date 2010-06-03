@@ -35,6 +35,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Aboriginal Housing Legislation Amendment Act 2010 Pt. 3 | 6 of 2010 | 25 May 2010 | To be proclaimed (see s. 2(b))
+Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 2 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Native Welfare Act 1963 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Mining Act 1978.
 Repealed by the Land Administration Act 1997.
@@ -58,6 +59,16 @@ At the end of Part III insert:
 33A.Power to grant leases over Part III land
 (1) To avoid doubt, it is declared that the Authority has, and has always had, power to grant a lease over land whenever vested in the Authority under section 27.
 (2) To avoid doubt, it is declared that the powers delegated to the Trust by a proclamation whenever made under section 24 in respect of land to which this Part applies include, and have always included, power to grant a lease over that land unless the proclamation expressly excludes that power.
+On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Aboriginal Affairs Planning Authority Act 1972 amended
+3.Act amended
+This Part amends the Aboriginal Affairs Planning Authority Act 1972.
+4.Section 21A amended
+(1) Delete section 21A(2) and (3).
+(2) Delete section 21A(8).
+5.Section 30 amended
+In section 30 delete “Mining Act 1904” and insert:
+Mining Act 1978
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
