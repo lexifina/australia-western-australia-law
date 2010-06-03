@@ -20,6 +20,10 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Petroleum Amendment Act 2007 s. 89 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Reprint 4: The Aboriginal Heritage Act 1972 as at 7 Mar 2008 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 3 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Aboriginal Heritage Amendment Act 1995 s. 19(2), (3) and (4) read as follows:
 “
@@ -34,3 +38,25 @@ The Aboriginal Heritage Amendment Act 1995 s. 51(2) and (3) read as follows:
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 1 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Aboriginal Heritage Act 1972 amended
+6.Act amended
+This Part amends the Aboriginal Heritage Act 1972.
+7.Section 66 inserted
+At the beginning of Part VIII insert:
+66.Authority to perform certain functions in relation to Crown land for purposes of this Act
+(1) If, under section 18(2) or 24, the owner of Crown land or freehold land in the name of the State may give, or is required to give, notice that notice may be given by —
+(a) the Minister as defined in the Land Administration Act 1997 section 3(1) (the Minister for Lands); or
+(b) a person who is authorised in writing by the Minister for Lands to do so.
+(2) Nothing in this section limits the ability of the Minister for Lands to otherwise perform a function through an officer or agent.
+(3) Nothing in this section affects —
+(a) a right that any other person has under section 18(2) or (5) in relation to land mentioned in subsection (1) if the person is an owner of that land because of section 18(1) or (1a); or
+(b) how that right may be exercised.
+8.Section 67 amended
+(1) In section 67 delete “A person” and insert:
+(1) A person
+(2) At the end of section 67 insert:
+(2) An action in tort does not lie against a person acting under an authority mentioned in section 66(1) for anything that the person has done, in good faith, in the performance or purported performance of a function to which the authority applies.
+(3) The protection given by this section applies even though the thing done as described in subsection (1) or (2) may have been capable of being done whether or not this Act had been enacted.
+(4) Despite subsections (1) and (2), the State is not relieved of any liability that it might have for another person having done anything as described in those subsections.
+(5) In this section, a reference to the doing of anything includes a reference to an omission to do anything.
