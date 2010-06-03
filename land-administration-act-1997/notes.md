@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 April 2010 of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Administration Act 1997 | 30 of 1997 | 3 Oct 1997 | s. 1 and 2: 3 Oct 1997; Act other than s. 1 and 2: 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
@@ -40,13 +40,14 @@ Acts Amendment (Bankruptcy) Act 2009 s. 48 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Land Administration Amendment Act 2009 | 32 of 2009 | 26 Nov 2009 | s. 1 and 2: 26 Nov 2009 (see s. 2(a)); Act other than s. 1 and 2: 27 Nov 2009 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Reprint 5: The Land Administration Act 1997 as at 9 Apr 2010 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-On the date as at which this reprint was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
+Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 5 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 4.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
 “
@@ -66,7 +67,7 @@ After section 152 the following section is inserted —
 Where the taking of land or an interest in land under this Part is a Part 3 act, a Part 4 act or a Part 5 act within the meaning of the Native Title (State Provisions) Act 1998, the operation of this Part is subject to section 3.6, 4.5 or 5.3, as the case may be, of that Act.
 ”.
 The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this reprint was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this reprint had also not come into operation (see endnotes 1a and 4).
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3.Consequential amendments
 Schedule 2 has effect.
 Schedule 2 Div. 4 reads as follows:
@@ -358,7 +359,7 @@ commencement day means the day on which the State Administrative Tribunal (Confe
 (2) If a matter has been partly or fully heard, but not determined, by a Compensation Court under the Land Administration Act 1997 immediately before the commencement day —
 (a) the Act section 167(4)(b) does not apply; and
 (b) the matter is to continue to be dealt with as if the written law applicable to the matter in force immediately before the commencement day continued to apply.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 had not come into operation. It reads as follows:
 90.Land Administration Act 1997 amended
 (1) The amendments in this section are to the Land Administration Act 1997.
 (2) Section 111(3) is amended by deleting “declared animals and declared plants on the land under the lease in compliance with the Agriculture and Related Resources Protection Act 1976” and inserting instead —
@@ -371,6 +372,42 @@ declared pests on the land under the lease in compliance with the Biosecurity an
 “
 (a) the Biosecurity and Agriculture Management Act 2007;
 ”.
+On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Land Administration Act 1997 amended
+12.Act amended
+This Part amends the Land Administration Act 1997.
+13.Section 91 amended
+In section 91(5):
+(a) delete “there is in effect an agreement between the Minister and”;
+(b) delete “Governor enabling that area to be” and insert:
+Governor, or a public service officer of the department that is principally assisting in the administration of the relevant Act, who is authorised in writing by that Minister to do so, approves of that area being
+14.Section 259 amended
+In section 259(2) delete “who is the Minister, a delegate of the Minister, an authorised land officer or a public service officer of the Department”.
+15.Section 275A inserted
+After section 274 insert:
+275A.Disclosure of information about Crown land interest holders
+(1) In this section —
+contact details includes postal address, telephone number, facsimile number and email address;
+Crown land interest holder means the holder of —
+(a)a pastoral lease or other lease; or
+(b)a licence; or
+(c)an interest in relation to Crown land;
+public authority means —
+(a)a department of the Public Service; or
+(b)a State instrumentality; or
+(c)a local government; or
+(d)a body that provides to members of the public water, drainage, gas, electricity or ambulance or other emergency services; or
+(e)a prescribed agency of the Commonwealth.
+(2) The chief executive officer of the Department may disclose the name and contact details of a Crown land interest holder to —
+(a) an officer or employee of a public authority for use in the performance of the public authority’s functions; or
+(b) the Director General of Mines, as defined in the Mining Act 1978 section 8(1), for providing the information to applicants for, or holders of, mining tenements, as defined in that section, or to any other person who is required, under that Act, to give notice to a Crown land interest holder; or
+(c) a prescribed person, in the circumstances and on such conditions as may be prescribed.
+(3) For the purposes of this section, the Pastoral Lands Board may disclose the name and contact details of a pastoral lessee to the chief executive officer of the Department from the most recent return submitted by the pastoral lessee under section 113.
+(4) Information may be disclosed under subsection (2) or (3), or provided under subsection (2)(b), despite any written law relating to confidentiality or secrecy.
+(5) If information is disclosed, in good faith, under subsection (2) or (3), or provided under subsection (2)(b) (the disclosure) —
+(a) no civil or criminal liability, or liability to be punished for a contempt of court, is incurred in respect of the disclosure; and
+(b) the disclosure is not to be regarded as a breach of any duty of confidentiality or secrecy imposed by law; and
+(c) the disclosure is not to be regarded as a breach of professional ethics or standards or as unprofessional conduct.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
