@@ -31,6 +31,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Petroleum Legislation Amendment and Repeal Act 2005 s. 29(2) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
+Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 7 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
 The Acts Amendment (Petroleum) Act 1990 s. 122(2) reads as follows:
 “
 (2) A declaration made under —
@@ -139,6 +140,19 @@ On the date as at which this compilation was prepared, the Petroleum Legislation
 29.Sections 66BA and 66BB inserted and transitional provision
 (2) Section 51 of the Justices Act 1902 as in force immediately before the commencement of subsection (1) applies to an offence against the Petroleum Pipelines Act 1969 committed before that commencement as if subsection (1) had not been enacted.
 The Petroleum Amendment Act 2007 s. 102 commenced on 19 Jan 2008 (see s. 2(2) and Gazette 18 Jan 2008 p. 147). It purported to amend the Petroleum Pipelines Act 1969 s. 67(1c). However, on 19 Jan 2008 s. 67(1c) had not been inserted in the Petroleum Pipelines Act 1969 by the Petroleum Legislation Amendment and Repeal Act 2005 s. 30(2) because s. 30(2) had not commenced. Section 30(2) commenced on 15 May 2010 (see s. 2(b) and Gazette 14 May 2010 p. 2015) and the amendment to s. 67(1c) by s. 102 has been taken to have occurred on 15 May 2010.
+On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 7 had not come into operation. It reads as follows:
+Part 7 — Petroleum Pipelines Act 1969 amended
+21.Act amended
+This Part amends the Petroleum Pipelines Act 1969.
+22.Section 4 amended
+In section 4(1) in the definition of the Minister for Lands delete “of the Crown to whom the Governor has for the time being committed the administration of the Land Administration Act 1997;” and insert:
+as defined in the Land Administration Act 1997 section 3(1);
+23.Section 16 amended
+In section 16:
+(a) delete “unalienated Crown land, the Governor, on the recommendation of the Minister for Lands,” and insert:
+Crown land, the Minister for Lands, or a public service officer of the Department, as defined in the Land Administration Act 1997 section 3(1), who is authorised in writing by the Minister for Lands to do so in that Minister’s name,
+(b) delete “Governor thinks” and insert:
+grantor thinks
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
