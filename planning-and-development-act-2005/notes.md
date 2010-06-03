@@ -15,6 +15,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 8 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
 Repealed by the Mining Act 1978.
 On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149 had not come into operation. It reads as follows:
@@ -289,3 +290,29 @@ but if the City of Swan does not accept that advice, the City of Swan is to refe
 (8) Clause 30B(6) is amended by deleting “council of the Shire” and inserting instead —
 “ City ”.
 ”.
+On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 8 had not come into operation. It reads as follows:
+Part 8 — Planning and Development Act 2005 amended
+24.Act amended
+This Part amends the Planning and Development Act 2005.
+25.Section 267A inserted
+After section 266 insert:
+267A.Authority to perform certain functions in relation to Crown land for purposes of this Act
+(1) If the approval or signature of the owner of Crown land or freehold land in the name of the State is required for the purposes of this Act, the approval or signature may be given by —
+(a) the Minister as defined in the Land Administration Act 1997 section 3(1) (the Minister for Lands); or
+(b) a person who is authorised in writing by the Minister for Lands to do so.
+(2) Nothing in this section limits the ability of the Minister for Lands to otherwise perform a function through an officer or agent.
+(3) Nothing in this section affects —
+(a) a right or obligation that any other person, as an owner of land mentioned in subsection (1), has under this Act in relation to that land; or
+(b) how that right may be exercised or that obligation may be satisfied.
+26.Section 267 amended
+(1) Delete section 267(1) and (2) and insert:
+(1) An action in tort does not lie against —
+(a) a person for anything that the person has done, in good faith, in the performance or purported performance of a function under this Act; or
+(b) a person acting under an authority mentioned in section 152(5)(c) or 267A(1) for anything that the person has done, in good faith, in the performance or purported performance of a function to which the authority applies.
+(2) In section 267(3) delete “subsection (2)” and insert:
+subsection (1)
+(3) In section 267(4):
+(a) delete “subsection (2)” and insert:
+subsection (1)
+(b) delete “Commission nor the State” and insert:
+Commission, the State nor a local government
