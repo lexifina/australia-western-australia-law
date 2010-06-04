@@ -21,6 +21,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2010 Pt. 3 | 7 May 2010 p. 1726-31 | Pt. 3: 1 Jul 2010 (see r. 2(c))
+Road Traffic (Charges and Fees) Amendment Regulations (No. 3) 2010 | 4 Jun 2010 p. 2484-5 | 1 Jul 2010 (see r. 2(b))
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 r. 3 reads as follows:
@@ -105,6 +106,17 @@ Item | Regulation No. | Service | Fee $
 8.90
 (2) In Schedule 2 item 9 delete “19.20” and insert:
 19.60
+On the date as at which this compilation was prepared, the Road Traffic (Charges and Fees) Amendment Regulations (No. 3) 2010 r. 3-4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Road Traffic (Charges and Fees) Regulations 2006.
+4.Regulation 56 amended
+In regulation 56(1) delete the Table and insert:
+Table
+ | $
+category 1 event | 158.00
+category 2 event | 95.00
+category 3 event | 64.00
+category 4 event | 64.00
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
