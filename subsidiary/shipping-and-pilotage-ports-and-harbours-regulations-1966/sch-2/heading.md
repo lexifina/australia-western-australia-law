@@ -1,4 +1,6 @@
-## Second Schedule
+## Schedule 2 — Signals to be displayed on vessels
+[r. 6, 7 and 8]
+[Heading inserted in Gazette 4 Jun 2010 p. 2459.]
 Table 1 — General Port Signals
 Purpose of Signal | Signal to be Displayed
 Pilot Required..................... | By day — (1)International Code Flag “G”; or (2)The Pilot Jack.

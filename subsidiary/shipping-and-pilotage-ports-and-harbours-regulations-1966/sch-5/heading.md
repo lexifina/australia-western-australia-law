@@ -1,5 +1,6 @@
-## Fifth Schedule
-[r. 18(5)]
+## Schedule 5 — Specified documents
+[r. 18A(1)(b)(ii)]
+[Heading inserted in Gazette 4 Jun 2010 p. 2460.]
 Country | Record
 Britain | Certificate of British Registry. British Tonnage Certificate.
 Panama | Ship’s Register. Certificado de Arqueo.

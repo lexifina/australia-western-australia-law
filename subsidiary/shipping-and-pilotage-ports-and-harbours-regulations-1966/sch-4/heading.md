@@ -1,4 +1,6 @@
-## Fourth Schedule
+## Schedule 4 — Specified countries
+[r. 18A(1)(a)]
+[Heading inserted in Gazette 4 Jun 2010 p. 2460.]
 A country within the Commonwealth of Nations
 Belgium
 Burma

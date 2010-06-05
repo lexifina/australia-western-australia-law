@@ -1,10 +1,10 @@
-## Sixth Schedule
-## Forms
+## Schedule 6 — Forms
+[Heading inserted in Gazette 4 Jun 2010 p. 2461.]
 FORM 1
 [r. 16H(1)]
 PILOTAGE EXEMPTION CERTIFICATE
 THIS IS TO CERTIFY THAT...............................................................................
-whose signature appears below, has, in accordance with the provisions of the PORTS AND HARBOURS REGULATIONS, become entitled to navigate a vessel into and out of the ports specified herein without the services of a pilot and is EXEMPTED accordingly from the requirement to take on board a pilot.
+whose signature appears below, has, in accordance with the provisions of the Shipping And Pilotage (Ports And Harbours) Regulations 1966, become entitled to navigate a vessel into and out of the pilotage areas specified in this Form without the services of a pilot and is EXEMPTED accordingly from the requirement to take on board a pilot.
 This certificate is subject to the conditions specified in it.
 Dated........................................................20........
 .............................................................................................
@@ -12,9 +12,9 @@ EXECUTIVE DIRECTORSIGNATURE OF HOLDER
  |  |  | PERSONAL PARTICULARS
  | PASSPORT SIZE PHOTOGRAPH
 NAME IN FULL ADDRESS DATE OF BIRTH PLACE | ......................................................................................... ......................................................................................... ......................................................................................... ......................................................................................... ......................................................................................... .......................................... COUNTRY..........................
-If found this certificate should be returned to: Department of Marine and Harbours Marine House 1 Essex Street FREMANTLE WA 6160
-PORTS AS TO WHICH CERTIFICATE APPLIES
-PORT | CONDITIONS | NAME AND SIGNATURE OF OFFICER | DATE
+If found this certificate should be returned to: Department of Transport Marine House 1 Essex Street FREMANTLE WA 6160
+PILOTAGE AREAS TO WHICH CERTIFICATE APPLIES
+PILOTAGE AREA | CONDITIONS | NAME AND SIGNATURE OF OFFICER | DATE
 ............................ | ....................................... | ..................................................... | ...................
 ............................ | ....................................... | ..................................................... | ...................
 ............................ | ....................................... | ..................................................... | ...................
@@ -36,10 +36,10 @@ PORT | CONDITIONS | NAME AND SIGNATURE OF OFFICER | DATE
 ............................ | ....................................... | ..................................................... | ...................
 ............................ | ....................................... | ..................................................... | ...................
 ............................ | ....................................... | ..................................................... | ...................
-[Form 1 inserted in Gazette 19 Jul 1991 p.3648-9.]
+[Form 1 inserted in Gazette 19 Jul 1991 p.3648-9; amended in Gazette 4 Jun 2010 p. 2461.]
 FORM 2
 [r. 16J(1)]
 PILOTAGE EXEMPTION RECORD BOOK
-Port Visits | Medical Certificates
-Port | Date & Time In | Date & Time Out | Name of Vessel | Pilot/Harbour Master Initials | Received | Next Due
-[Form 2 inserted in Gazette 19 Jul 1991 p. 3648-9.]
+Pilotage Area Visits | Medical Certificates
+Pilotage Area | Date & Time In | Date & Time Out | Name of Vessel | Pilot/Harbour Master Initials | Received | Next Due
+[Form 2 inserted in Gazette 19 Jul 1991 p. 3648-9; amended in Gazette 4 Jun 2010 p. 2462.]

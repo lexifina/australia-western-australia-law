@@ -1,5 +1,5 @@
-## Third Schedule — Fees and charges
-[Heading inserted in Gazette 24 Jun 2005 p. 2775.]
+## Schedule 3 — Fees and charges
+[Heading inserted in Gazette 4 Jun 2010 p. 2460.]
 ## Division 1 — Pilotage at Wyndham
 [r. 15]
 [Heading inserted in Gazette 24 Jun 2005 p. 2775.]
