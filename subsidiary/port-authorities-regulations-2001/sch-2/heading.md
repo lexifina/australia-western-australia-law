@@ -47,10 +47,11 @@ Item | Service | to 30 June 2008 | 1 July 2008 to 30 June 2009 | on and from 1 J
 7. | Cancellation of pilot | $330.27 | $355.04 | $381.67
 [Division 4 inserted in Gazette 22 Jun 2007 p. 2851.]
 ## Division 5 — Port of Geraldton
-1. | Pilotage of a vessel into and out of the port ............. | $0.3373 for each gross registered tonne of vessel
-2. | Pilotage of a vessel from a place in the port to another place in the port ........................................... | $0.03373 for each gross registered tonne of vessel
-3. | Detention of pilot ..................................................... | $595.00 for each hour or part of an hour
-[Division 5 amended in Gazette 16 Sep 2005 p. 4327-8.]
+1. | Pilotage of a vessel into and out of the port ............. | $0.38609 for each gross registered tonne of vessel
+2. | Pilotage of a vessel from a place in the port to another place in the port ........................................... | $0.038609 for each gross registered tonne of vessel
+3. | Detention of pilot ..................................................... | $676.30 for each hour or part of an hour
+4. | Cancellation of pilot ................................................. | $676.30
+[Division 5 amended in Gazette 16 Sep 2005 p. 4327-8; 4 Jun 2010 p. 2475.]
 ## Division 6 — Port of Port Hedland
 [Heading inserted in Gazette 23 Jun 2009 p. 2487.]
  |  | To or from Nelson Point or PHPA Berth Nos. 1, 2 or 3 | To or from Finucane Island or Anderson Point
