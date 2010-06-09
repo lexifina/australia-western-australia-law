@@ -77,6 +77,7 @@ Liquor Control Amendment Regulations (No. 7) 2009 | 20 Nov 2009 p. 4662-6 | r. 1
 Liquor Control Amendment Regulations (No. 8) 2009 | 15 Jan 2010 p. 70-2 | r. 1 and 2: 15 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jan 2010 (see r. 2(b))
 Liquor Control Amendment Regulations 2010 | 2 Mar 2010 p. 833-4 | r. 1 and 2: 2 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Mar 2010 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 2) 2010 | 28 May 2010 p. 2301 | r. 1 and 2: 28 May 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 29 May 2010 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 3) 2010 | 8 Jun 2010 p. 2619 | r. 1 and 2: 8 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jun 2010 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Commenced 7 May 2007.
 Now known as the Liquor Control Regulations 1989; citation changed (see note under r. 1).
