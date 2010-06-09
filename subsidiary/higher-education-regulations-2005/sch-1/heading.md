@@ -1,5 +1,6 @@
-## Schedule 1 — Information to be included in applications for a section 10 determination or a provider’s authorisation
-[r. 4, 6]
+## Schedule 1 — Information prescribed under section 7, 9, 13A or 13
+[r. 3, 4, 5A, 6]
+[Heading inserted in Gazette 8 Jun 2010 p. 2610.]
 1.The applicant’s name.
 2.The applicant’s registered business name (if any).
 3.The applicant’s postal address.
@@ -35,4 +36,6 @@
 (b) if so, particulars of the nature of the offence, the date and place of the conviction and the penalty (if any) imposed for the offence.
 21.A detailed description of the buildings, equipment and facilities that will be provided at each campus of the applicant in Western Australia.
 22.A statement of the applicant’s policies and procedures for dealing with any grievances of academic staff or students.
-23.Any other information in the possession or control of the applicant that is relevant to determining whether or not the applicant meets the criteria referred to in section 10(1) or 14(1) of the Act, as the case requires.
+23A.Any other information in the possession or control of the applicant that is likely to be relevant to a higher education advisory committee appointed to make a report under section 7(1) of the Act.
+23.Any other information in the possession or control of the applicant that is relevant to determining whether or not the applicant meets the criteria referred to in section 10(1), 13B(1)or 14(1) of the Act, as the case requires.
+[Schedule 1 amended in Gazette 8 Jun 2010 p. 2610-11.]
