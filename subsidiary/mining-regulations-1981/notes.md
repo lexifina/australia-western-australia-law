@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 May 2010 of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Mining Regulations 1981 | 13 Nov 1981 p. 4601-76 | 1 Jan 1982 (see r. 1(2) and Gazette 11 Dec 1981 p. 5085)
@@ -110,6 +110,10 @@ Mining Amendment Regulations (No. 2) 2009 | 12 Jun 2009 p. 2131-3 | r. 1 and 2: 
 Mining Amendment Regulations 2009 | 15 Jan 2010 p. 97-136 | r. 1 and 2: 15 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jan 2010 (see r. 2(b))
 Mining Amendment Regulations 2010 | 5 Mar 2010 p. 849-50 | r. 1 and 2: 5 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2010 (see r. 2(b))
 Reprint 8: The Mining Regulations 1981 as at 14 May 2010 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Mining Amendment Regulations (No. 2) 2010 r. 3-4 | 11 Jun 2010 p. 2633-5 | 1 Jul 2010 (see r. 2(b))
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -126,6 +130,28 @@ The Mining Amendment Regulations (No. 2) 2006 r. 10(7) and (8) read as follows:
 (8) In subregulation (7) —
 commencement day means the day on which these regulations come into operation;
 existing licence means an exploration licence in force under the Act on the day on which these regulations come into operation.
+On the date as at which this compilation was prepared, the Mining Amendment Regulations (No. 2) 2010 r. 3-4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Mining Regulations 1981.
+4.Schedule 2 amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 2 it. 1. | 45.43 153.34 285.67 118.58 184.58 250.47 474.32 13.86 (each occurrence) 15.62 (each occurrence) 6.93 | 46.42 156.53 291.72 121.11 188.43 255.75 484.33 14.19 15.95 7.04
+Sch. 2 it. 2. | 260.00 1 115.00 375.00 (each occurrence) 250.00 630.00 | 265.00 1 140.00 385.00 255.00 645.00
+Sch. 2 it. 2A. | 240.00 | 245.00
+Sch. 2 it. 2B. | 7.50 | 7.70
+Sch. 2 it. 3. | 7.50 (each occurrence) | 7.70
+Sch. 2 it. 3A. | 6.25 | 6.40
+Sch. 2 it. 4. | 320.00 365.00 440.00 2 200.00 | 325.00 370.00 450.00 2 250.00
+Sch. 2 it. 5. | 31.25 | 32.00
+Sch. 2 it. 7. | 96.00 | 98.00
+Sch. 2 it. 8. | $25.00) 6.25 | $25.60) 6.40
+Sch. 2 it. 9. | 20.00 | 20.40
+Sch. 2 it. 10. | 96.00 (each occurrence) 6.25 (each occurrence) | 98.00 6.40
+Sch. 2 it. 11. | 193.00 | 197.00
+Sch. 2 it. 11A. | 7.50 | 7.70
+Sch. 2 it. 13. | 54.00 37.50 5.40 16.15 7.50 | 55.00 38.00 5.50 16.40 7.70
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
