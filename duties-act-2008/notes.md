@@ -6,16 +6,16 @@ Duties Act 2008 | 11 of 2008 | 14 Apr 2008 | s. 1 and 2: 14 Apr 2008 (see s. 2(a
 Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 1 and 2 | 12 of 2008 (as amended by No. 30 of 2008 s. 3) | 14 Apr 2008 | 1 Jul 2008 (see s. 2(b) and (d))
 Revenue Laws Amendment Act 2008 Pt. 2 Div. 1 and Pt. 7 | 30 of 2008 | 27 Jun 2008 | Pt. 2 Div. 1: 27 Jun 2008 (see s. 2(2)(a)) Pt. 7: 1 Jul 2008 (see s. 2(1)(c))
 Revenue Laws Amendment Act (No. 2) 2008 s. 32 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
-Revenue Laws Amendment Act 2010 Pt. 2 (except s. 4) and Pt. 3 Div. 2 | 9 of 2010 | 10 Jun 2010 | s. 5 &6: 10 Mar 2010 (see s. 2(d)); s. 3: 10 Jun 2010 (see s. 2(a)); Pt. 3 Div. 2: 10 Jun 2010 (see s. 2(b)(i))
+Revenue Laws Amendment Act 2010 Pt. 2 and Pt. 3 Div. 2 | 9 of 2010 | 10 Jun 2010 | s. 5 and 6: 10 Mar 2010 (see s. 2(d)); s. 3: 10 Jun 2010 (see s. 2(a)); Pt. 3 Div. 2: 10 Jun 2010 (see s. 2(b)(i)); s. 4: 11 Jun 2010 (see s. 2(c))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv 3 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2013 (see s. 2(c))
-Revenue Laws Amendment Act 2010 s. 4 | 9 of 2010 | 10 Jun 2010 | 11 Jun 2010 (see s. 2(c))
+Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv 3 | 12 of 2008 (as amended by No. 9 of 2010 Pt. 3 Div. 1) | 14 Apr 2008 | 1 Jul 2013 (see s. 2(c))
 On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 3 had not come into operation. It reads as follows:
 Part 2 — Amendments
 Division 2 — Duties Act 2008 amended
 Subdivision 3 — Amendments commencing on 1 July 2013
+[Heading amended by No. 9 of 2010 s. 9.]
 25.Section 9 amended
 Section 9 is amended as follows:
 (a) in the definition of “unencumbered value” by deleting “36;” and inserting instead —
@@ -41,15 +41,6 @@ Chapter 2 Part 6 Division 4 is repealed.
 Section 277 is repealed.
 32.Schedule 2 Division 2 amended
 Schedule 2 Division 2 is amended by deleting the item relating to section 147.
-Section 260 has a retrospective commencement date effective from 10 Mar 2010; see the Revenue Laws Amendment Act 2010 s. 5.
-Schedule 3 Division 4 has a retrospective commencement date effective from 10 Mar 2010; see the Revenue Laws Amendment Act 2010 s. 6.
-On the date as at which this compilation was prepared, the Revenue Laws Amendment Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Section 127 amended
-In section 127:
-(a) in paragraph (b) delete “fund.” and insert:
-fund; and
-(b) after paragraph (b) insert:
-(c) there is, or will be, no consideration for the transfer or agreement.
 Section 70 has a retrospective amendment, commencement date effective from 1 Jul 2008; see the Revenue Laws Amendment and Repeal Act 2010 s. 12.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
