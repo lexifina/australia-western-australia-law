@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Murdoch University Act 1973 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 June 2010 of the Murdoch University Act 1973 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Murdoch University Act 1973 | 20 of 1973 | 6 Jun 1973 | 1 Jul 1973 (see s. 2 and Gazette 26 Jun 1973 p. 2488-9)
@@ -31,14 +31,14 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 86 | 74 of 2003 | 15 Dec 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Murdoch University Act 1973 as at 1 Jul 2005 (includes amendments listed above)
 Universities Legislation Amendment Act 2005 Pt. 4 | 8 of 2005 | 7 Jul 2005 | 13 Aug 2005 (see s. 2 and Gazette 12 Aug 2005 p. 3651)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 111 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Bankruptcy) Act 2009 s. 58 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Reprint 3: The Murdoch University Act 1973 as at 11 Jun 2010 (includes amendments listed above)
 Now see the Interpretation Act 1984 s. 60.
 Now see the Interpretation Act 1984 Pt. VI.
 The Murdoch University Amendment Act 1980 s. 5 is a validation provision that is of no further effect.
 The Voluntary Membership of Student Guilds and Associations Act 1994 s. 2 contains transitional provisions that are of no further effect.
 The Universities Legislation Amendment Act 2005 s. 26 reads as follows:
-“
 26.Transitional provisions
 (1) In this section —
 commencement day means the day on which the Universities Legislation Amendment Act 2005 comes into operation;
@@ -54,4 +54,21 @@ Senate means the Murdoch University Senate.
 (8) The persons who, immediately before commencement day, were members of the Senate under repealed section 12(1)(g) or (i) continue in office as members of the Senate under new section 12(1)(f) on and from commencement day.
 (9) The persons who, immediately before commencement day, were members of the Senate under repealed section 12(1)(j) continue in office as members of the Senate under new section 12(1)(g) on and from commencement day.
 (10) A person who, under this section, continues in office as a member of the Senate on and from commencement day, continues in office for the balance of the term of office that applied to the person immediately before commencement day.
-”.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+absolute majority3(1)
+Academic Council3(1)
+Chancellor3(1)
+Convocation3(1)
+examination3(1)
+Guild3(1)
+prescribed3(1)
+Pro-Chancellor3(1)
+regulation3(1)
+section3(1)
+Statute3(1)
+student3(1)
+Treasurer3(1)
+Vice-Chancellor3(1)
+Visitor3(1)
