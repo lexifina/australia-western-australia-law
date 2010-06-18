@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 18 June 2010 of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Liquor Licensing Regulations 1989 | 27 Jan 1989 p. 209-61 | 1 Feb 1989 (see r. 2 and Gazette 27 Jan 1989 p. 263)
@@ -29,7 +29,7 @@ Liquor Licensing Amendment Regulations (No. 2) 2000 | 28 Jul 2000 p. 4029-32 | 2
 Liquor Licensing Amendment Regulations (No. 3) 2000 | 29 Sep 2000 p. 5549 | 30 Sep 2000 (see r. 2 and Gazette 29 Sep 2000 p. 5533)
 Liquor Licensing Amendment Regulations 2001 | 6 Jul 2001 p. 3415 | 6 Jul 2001
 Liquor Licensing Amendment Regulations (No. 2) 2001 | 17 Jul 2001 p. 3637-8 | 17 Jul 2001
-Corporations (Consequential Amendments) Regulations 2001 Pt. 8 | 28 Sep 2001 p. 5353-8 | 15 Jul 2001 (see r. 2 and Cwlth Gazette 13 Jul 2001 No. S285)
+Corporations (Consequential Amendments) Regulations 2001 Pt. 8 | 28 Sep 2001 p. 5353-8 | 15 Jul 2001 (see r. 2 and Cwlth. Gazette 13 Jul 2001 No. S285)
 Liquor Licensing Amendment Regulations (No. 3) 2001 | 2 Oct 2001 p. 5455-7 | 2 Oct 2001
 Liquor Licensing Amendment Regulations (No. 4) 2001 | 4 Jan 2002 p. 7-15 | 7 Jan 2002 (see r. 2 and Gazette 4 Jan 2002 p. 3)
 Reprint of the Liquor Licensing Regulations 1989 as at 8 Mar 2002 (includes amendments listed above)
@@ -78,7 +78,9 @@ Liquor Control Amendment Regulations (No. 8) 2009 | 15 Jan 2010 p. 70-2 | r. 1 a
 Liquor Control Amendment Regulations 2010 | 2 Mar 2010 p. 833-4 | r. 1 and 2: 2 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Mar 2010 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 2) 2010 | 28 May 2010 p. 2301 | r. 1 and 2: 28 May 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 29 May 2010 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 3) 2010 | 8 Jun 2010 p. 2619 | r. 1 and 2: 8 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jun 2010 (see r. 2(b))
+Reprint 9: The Liquor Control Regulations 1989 as at 18 Jun 2010 (includes amendments listed above)
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 of the Commonwealth.
 Commenced 7 May 2007.
 Now known as the Liquor Control Regulations 1989; citation changed (see note under r. 1).
 Disallowed on 26 Apr 1992, see Gazette 1 May 1992 p. 1844.
@@ -101,7 +103,6 @@ approved viticulture course9A(10e)
 bar11(1)
 caterer9A(13a)
 commencement day8(4)
-course18F(1)
 course of instruction or training9A(10e)
 crowd controller18EB(3)
 current26(1ab)
@@ -114,7 +115,7 @@ notional wholesale selling price3A(1)
 photograph18B(3a), 18C(2)
 producer3A(1)
 purchase5(2)(b)
-relevant body corporate5B(2), (3) and (4)
+relevant body corporate5B(2), (3) and (4)(a)
 relevant lot11(1)
 relevant premises11(1)
 relevant purposes9E(1)
