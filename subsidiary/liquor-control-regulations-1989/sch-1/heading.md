@@ -1,7 +1,7 @@
 ## Schedule 1
 [Regulation 3]
 ## Forms
-[Form 1-18 deleted in Gazette 1 May 2007 p. 1887.]
+[Forms 1-18 deleted in Gazette 1 May 2007 p. 1887.]
 Form 19
 Liquor Control Act 1988
 [Regulation 19(1)]
