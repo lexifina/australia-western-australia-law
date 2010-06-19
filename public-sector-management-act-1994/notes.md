@@ -86,6 +86,7 @@ Water Resources Legislation Amendment Act 2007 s. 197 | 38 of 2007 | 21 Dec 2007
 Reprint 8: The Public Sector Management Act 1994 as at 14 Nov 2008 (includes amendments listed above)
 Public Sector Management (SES Organisations) Regulations 2009 published in Gazette 9 Jun 2009 p. 1926 | r. 1 and 2: 9 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2009 (see r. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 71 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Public Sector Management (SES Organisations) Regulations 2010 published in Gazette 18 Jun 2010 p. 2696-7 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jun 2010 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
