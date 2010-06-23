@@ -6,21 +6,13 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 2. | Regulation 22 | 300 | 1 500
 3. | Regulation 54 | 600 | 3 000
 4. | Regulation 61 | 600 | 3 000
-5. | Regulation 62(1) | 600 | 3 000
-6. | Regulation 72 | 600 | 3 000
-7. | Regulation 73 | 600 | 3 000
-8. | Regulation 74 | 600 | 3 000
-9. | Regulation 78 | 600 | 3 000
-10. | Regulation 79 | 300 | —
-11. | Regulation 81(1) | 600 | 3 000
-12. | Regulation 85 | 600 | 3 000
-13. | Regulation 86(2) | 300 | —
-14. | Regulation 88(1) | 600 | 3 000
-15. | Regulation 92(1) | 600 | 3 000
-16. | Regulation 94(1) | 600 | 3 000
-17. | Regulation 96 | 600 | 3 000
-18. | Regulation 97(1) | 600 | 3 000
-19. | Regulation 99(1) | 600 | 3 000
+5. | Regulation 69(1) | 600 | 3 000
+6. | Regulation 69(3) | 600 | 3 000
+7. | Regulation 70 | 600 | 3 000
+8. | Regulation 71(1) | 600 | 3 000
+9. | Regulation 71(2) | 600 | 3 000
+10. | Regulation 74(1) | 600 | 3 000
+[11-19 | deleted]
 20. | Regulation 101 | 300 | 1 500
 21. | Regulation 107 | (a)for a large packaging or overpack — 300 | (a)for a large packaging or overpack — 1 500
  |  | (b)in any other case — 100 | (b)in any other case — 500
@@ -28,7 +20,8 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 23. | Regulation 116 | 600 | 3 000
 24. | Regulation 119 | 600 | 3 000
 25. | Regulation 123 | 300 | —
-26. | Regulation 127 | 300 | —
+26. | Regulation 127(1) | 300 | —
+27. | Regulation 127(2) | 300 | —
 27. | Regulation 138(3) | 300 | 1 500
 28. | Regulation 140(3) | 600 | —
 29. | Regulation 141(1) | 300 | —
@@ -79,3 +72,4 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 74. | Regulation 257(1) | 600 | 3 000
 75. | Regulation 258(1) | 600 | 3 000
 76. | Regulation 259(2) | 200 | 1 000
+[Schedule 1 amended in Gazette 22 Jun 2010 p. 2740.]
