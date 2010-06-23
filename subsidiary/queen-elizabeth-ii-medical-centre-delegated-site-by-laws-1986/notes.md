@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 and includes the amendments referred to in the following Table.
+This is a compilation of the Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 | 24 Oct 1986 p. 3947-54 | 1 Nov 1986 (see by-law 2 and Gazette 24 Oct 1986 p.3938)
@@ -12,5 +12,6 @@ Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 199
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 1995 | 22 Aug 1995 p. 3802-3 | 22 Aug 1995
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 1996 | 28 Jun 1996 pp.3019-20 | 28 Jun 1996
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2001 | 29 Jun 2001 p. 3111-14 | 29 Jun 2001
-Repealed by the Road Traffic Code 1975 which will be repealed by the Road Traffic Code 2000 which comes into operation on 1 December 2000 (see Gazette No. 159 pp.4213-538).
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2010 | 22 Jun 2010 p. 2772-80 | r. 1 and 2: 22 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2010 (see r. 2(b))
+Footnote no longer applicable.
 Repealed by the Taxi Act 1994 (No. 83 of 1994).
