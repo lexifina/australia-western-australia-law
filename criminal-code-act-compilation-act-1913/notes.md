@@ -163,6 +163,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Criminal Code Amendment (Identity Crime) Act 2010 s. 3-5 | 16 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -209,6 +210,73 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 (3) Section 191 is repealed.
 (4) Section 557K(1) paragraph (h) of the definition of child sex offender is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
+On the date as at which this compilation was prepared, the Criminal Code Amendment (Identity Crime) Act 2010 s. 3-5 had not come into operation. They read as follows:
+3.The Criminal Code amended
+This Act amends The Criminal Code.
+4.Part VI Division III heading replaced
+Delete the heading to Part VI Division III and insert:
+Division III — Forgery and like offences: Identity crime: Personation
+5.Chapter LI inserted
+After Chapter L insert:
+Chapter LI — Identity crime
+489.Terms used
+In this Chapter —
+digital signature means encrypted electronic data intended for the exclusive use of a particular person as a means of identifying the person as the sender of an electronic communication;
+electronic communication has the meaning given in the Electronic Transactions Act 2003 section 5;
+identification information means information relating to a person, whether living or dead or whether real or fictitious, that is capable of being used, whether alone or in conjunction with other information, to identify or purportedly identify the person and includes —
+(a)a name, address, date of birth or place of birth;
+(b)information about a person’s marital status;
+(c)information that identifies a person as another person’s relative;
+(d)a driver’s licence number;
+(e)a passport number;
+(f)biometric data;
+(g)a voice print;
+(h)information stored on a credit card or debit card;
+(i)a financial account number, user name or password;
+(j)a digital signature;
+(k)a series of numbers or letters, or both numbers and letters, intended for use as a means of personal identification;
+(l)an Australian Business Number, as defined in the A New Tax System (Australian Business Number) Act 1999 (Commonwealth);
+identification material means —
+(a)identification information; or
+(b)a record that contains identification information;
+voice print means electronic data recording the unique characteristics of a person’s voice.
+490.Making, using or supplying identification material with intent to commit indictable offence
+(1) A person who makes, uses or supplies identification material with the intention that the material will be used, by the person or some other person, to commit an indictable offence or to facilitate the commission of an indictable offence is guilty of a crime and is liable to the penalty that is the greater of —
+(a) imprisonment for 7 years; or
+(b) the penalty to which the person would have been liable if convicted of attempting to commit the indictable offence.
+Alternative offence: s. 491(1).
+(2) For the purposes of subsection (1), it does not matter that it is impossible in fact to commit the indictable offence.
+(3) It is not a defence to a charge of an offence under subsection (1) involving identification material relating to a person other than the accused person that the other person consented to the making, use or supply of the identification material by the accused person.
+491.Possession of identification material with intent to commit indictable offence
+(1) A person who is in possession of identification material with the intention that the material will be used, by the person or some other person, to commit an indictable offence or to facilitate the commission of an indictable offence is guilty of a crime and is liable to imprisonment for 5 years.
+Summary conviction penalty: imprisonment for 24 months and a fine of $24 000.
+(2) For the purposes of subsection (1), it does not matter that it is impossible in fact to commit the indictable offence.
+(3) It is not a defence to a charge of an offence under subsection (1) involving identification material relating to a person other than the accused person that the other person consented to the possession of the identification material by the accused person.
+492.Possession of identification equipment with intent that it be used to commit indictable offence
+(1) In this section —
+identification equipment means any thing capable of being used to make, use, supply or retain identification material.
+(2) A person who is in possession of identification equipment with the intention that the equipment will be used, by the person or some other person, to commit an indictable offence or to facilitate the commission of an indictable offence is guilty of a crime and is liable to imprisonment for 5 years.
+Summary conviction penalty: imprisonment for 24 months and a fine of $24 000.
+(3) For the purposes of subsection (2), it does not matter that it is impossible in fact to commit the indictable offence.
+493.Attempt offences do not apply
+Section 552(1) does not apply to an offence against section 490, 491 or 492.
+494.Court may grant certificate to victim of identity offence
+(1) In this section —
+identification material, of a victim, means identification material relating to the victim;
+identity offence means an offence against this Division;
+victim, of an identity offence, means a person whose identification material has been used, without the person’s consent, in connection with the commission of the offence.
+(2) If a court convicts a person of an identity offence, the court may issue a certificate to a victim of the offence setting out —
+(a) the identity offence to which the certificate relates; and
+(b) the name of the victim; and
+(c) any matter prescribed by regulations made under subsection (7); and
+(d) any other matter the court considers relevant.
+(3) The court may issue the certificate on its own initiative or on an application made by the prosecutor or the victim.
+(4) Unless the offender is convicted of the identity offence on a plea of guilty, the certificate must not be issued to the victim until —
+(a) the end of any period allowed for an appeal against conviction; or
+(b) if an appeal is commenced — the end of any proceedings on the appeal.
+(5) A certificate issued under this section is, in the absence of evidence to the contrary, evidence of its contents.
+(6) A court, for good reason and either on its own initiative or on an application made by the prosecutor, may cancel a certificate it has issued under this section.
+(7) The Governor may make regulations providing for any matter to be set out in certificates issued under this section.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
