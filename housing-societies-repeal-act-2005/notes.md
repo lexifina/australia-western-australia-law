@@ -7,8 +7,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Housing Societies Repeal Act 2005 Pt. 3 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) & (4))
+Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 81 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 Pt. 3 had not come into operation. It reads as follows:
-“
 Part 3 — Repeal of Acts and consequential amendments to other Acts
 18.Housing Societies Act 1976 repealed
 The Housing Societies Act 1976 is repealed.
@@ -78,4 +78,7 @@ The Housing Loan Guarantee Act 1957 is repealed.
 31.Western Australian Treasury Corporation Act 1986 amended
 (1) The amendment in this section is to the Western Australian Treasury Corporation Act 1986.
 (2) Schedule 1 item 4 is deleted.
-”.
+On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 81 had not come into operation. It reads as follows:
+81.Housing Societies Repeal Act 2005 amended
+(1) This section amends the Housing Societies Repeal Act 2005.
+(2) If, when this section comes into operation, the Housing Societies Repeal Act 2005 section 27 has not come into operation, repeal section 27.
