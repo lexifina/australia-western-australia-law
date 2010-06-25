@@ -22,8 +22,16 @@ Legal Profession Act 2008 s. 706 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 2: The State Administrative Tribunal Act 2004 as at 16 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 120 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
 Footnote no longer applicable.
 Repealed by the Optical Dispensers Repeal Act 2006.
+On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
+82.State Administrative Tribunal Act 2004 amended
+(1) This section amends the State Administrative Tribunal Act 2004.
+(2) In Schedule 1 delete “Finance Brokers Control Act 1975”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
