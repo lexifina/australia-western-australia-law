@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 August 2009 of the Pay-roll Tax Assessment Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Pay-roll Tax Assessment Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Pay-roll Tax Assessment Regulations 2003 | 27 Jun 2003 p. 2341-80 | 1 Jul 2003 (see r. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -19,12 +19,13 @@ Pay-roll Tax Assessment Amendment Regulations (No. 6) 2006 | 22 Dec 2006 p. 5806
 Pay-roll Tax Assessment Amendment Regulations 2007 | 15 May 2007 p. 2096 | 1 Jul 2007 (see r. 2)
 Pay-roll Tax Assessment Amendment Regulations 2009 | 19 Jun 2009 p. 2252 | r. 1 and 2: 19 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 2: The Pay-roll Tax Assessment Regulations 2003 as at 14 Aug 2009 (includes amendments listed above)
+Pay-roll Tax Assessment Amendment Act 2010 Part 3 assented to 25 Jun 2010 | 25 Jun 2010 (see s. 2(a))
 The Workplace Agreements Act 1993 expired 14 Sep 2003.
 At the time of this reprint the Commissioner of Workplace Agreements does not exist.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection is called the Department of Commerce.
 The Office of Water Regulation was abolished with effect 1 Jan 2004 (see Notice in Gazette 6 Jan 2004 p. 41).
 The Water Resources Legislation Amendment Act 2007 s. 223 reads as follows:
-223. Agreements and instruments generally
+223.Agreements and instruments generally
 (1) Any agreement or instrument (including subsidiary legislation) in force immediately before the transfer time —
 (a) to which a former body was a party; or
 (b) which contains a reference to a former body,
@@ -111,12 +112,13 @@ corresponding Pay-roll Tax Assessment Regulations means the Pay-roll Tax Assessm
 38.Glossary modified
 The Glossary clause 1 is modified in paragraph (c) of the definition of “industrial award” by deleting “another State” and inserting instead —
 “ a State other than Western Australia ”.
+The Pay-roll Tax Assessment Amendment Act 2010 s. 45 reads as follows:
+45.Power to amend or repeal regulations unaffected
+This Part does not prevent the Pay-roll Tax Assessment Regulations 2003 from being amended or repealed under the Pay-roll Tax Assessment Act 2002.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-actual value method Gl.
 actuarial determination Gl.
-adjustment period 40(4), Gl.
 allowance period Gl.
 averaging method Gl.
 BK percentage Gl.
@@ -125,23 +127,14 @@ business kilometre Gl.
 business night Gl.
 continuous recording method Gl.
 continuous recording period Gl.
-contribution day Gl.
 dependant Gl.
 education costs Gl.
 employee Gl.
-employee share acquisition scheme Gl.
-estimated value method Gl.
 expense payment fringe benefit Gl.
-fringe benefits tax Gl.
-FBT year Gl.
-grossed-up value Gl.
 industrial award Gl.
 loan fringe benefit Gl.
-motor vehicle allowance Gl.
 portable long service leave fund Gl.
 property fringe benefit Gl.
-qualified valuer Gl.
-recognised financial market Gl.
 redundancy benefits scheme Gl.
 remote area holiday transport Gl.
 remote area housing fringe benefit Gl.
@@ -152,6 +145,4 @@ remote area residential property option fee Gl.
 remote area residential property repurchase consideration Gl.
 residential fuel Gl.
 residual fringe benefit Gl.
-unlisted public unit trust Gl.
 vehicle Gl.
-WA fringe benefits Gl.
