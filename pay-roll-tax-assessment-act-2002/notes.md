@@ -10,6 +10,11 @@ Revenue Laws Amendment Act 2005 Pt. 2 | 11 of 2005 | 30 Aug 2005 | 18 May 2005 (
 Reprint 1: The Pay-roll Tax Assessment Act 2002 as at 6 Jan 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Training Legislation Amendment and Repeal Act 2008 s. 59 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2008 (see s. 2(2))
+Pay-roll Tax Assessment Amendment Act 2010 Pt. 2 Div. 1 and 2 | 15 of 2010 | 25 Jun 2010 | 25 Jun 2010 (see s. 2(a))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Pay-roll Tax Assessment Amendment Act 2010 Pt. 2 Div. 3 | 15 of 2010 | 25 Jun 2010 | 1 Jul 2012 (see s. 2(b))
 The Revenue Laws Amendment (Tax Relief) Act 2004 s. 5(6) reads as follows:
 “
 (6) The amendments made by this section do not affect an exemption given before the coming into operation of this section.
@@ -220,3 +225,130 @@ corresponding Pay-roll Tax Assessment Act means the Pay-roll Tax Assessment Act 
 (3) In subclause (1)(a) and (b), a reference to Western Australia (except the references inserted by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007 clause 35(5)(a)) is to be read as referring only to Commonwealth places in Western Australia.
 ”.
 ”.
+On the date as at which this compilation was prepared, the Pay-roll Tax Assessment Amendment Act 2010 Pt. 2 Div. 3 had not come into operation. It reads as follows:
+Division 3 — Amendments relating to grouping of employers
+20.Section 31 amended
+In section 31(4) delete the passage that begins with “section 38” and continues to the end of the subsection and insert:
+section 38.
+21.Section 32 amended
+Delete section 32(3) and (4) and insert:
+(3) The Commissioner may exclude a person from a group in accordance with section 38.
+22.Section 33 amended
+In section 33(7) delete “related corporation” and insert:
+related body corporate
+23.Section 35 replaced
+Delete section 35 and insert:
+35A.Groups arising from tracing of interests in corporations
+(1) For the purposes of this section —
+associated person means a person who is associated with another person in accordance with any of the following —
+(a)persons are associated persons if they are related persons;
+(b)individuals are associated persons if they are partners in a partnership;
+(c)private companies are associated persons if common shareholders have a majority interest in each private company;
+(d)trustees are associated persons if any person is a beneficiary common to the trusts (not including a public unit trust scheme) of which they are trustees;
+(e)a private company and a trustee are associated persons if a related body corporate of the company is a beneficiary of the trust (not including a public unit trust scheme) of which the trustee is a trustee;
+entity means —
+(a)a person; or
+(b)2 or more persons who are associated persons;
+private company means a company that is not limited by shares, or whose shares are not quoted on the Australian Stock Exchange or any exchange of the World Federation of Exchanges;
+related person means a person who is related to another person in accordance with any of the following —
+(a)individuals are related persons if —
+(i)one is the spouse or de facto partner of the other; or
+(ii)the relationship between them is that of parent and child, brothers, sisters, or brother and sister;
+(b)private companies are related persons if they are related bodies corporate;
+(c)an individual and a private company are related persons if the individual is a majority shareholder or director of the company or of another private company that is a related body corporate of the company;
+(d)an individual and a trustee are related persons if the individual is a beneficiary of the trust (not being a public unit trust scheme) of which the trustee is a trustee;
+(e)a private company and a trustee are related persons if the company, or a majority shareholder or director of the company, is a beneficiary of the trust (not being a public unit trust scheme) of which the trustee is a trustee.
+(2) An entity and a corporation form part of a group if the entity has a controlling interest in the corporation.
+(3) An entity has a controlling interest in a corporation if the corporation has share capital and —
+(a) the entity has a direct interest in the corporation the value of which exceeds 50%; or
+(b) the entity has an indirect interest in the corporation the value of which exceeds 50%; or
+(c) the entity has an aggregate interest in the corporation the value of which exceeds 50%.
+(4) The Commissioner may exclude an entity from a group in accordance with section 38.
+35B.Direct interests
+(1) An entity has a direct interest in a corporation if —
+(a) in the case of an entity that is a person — the person can, directly or indirectly, exercise, control the exercise of, or substantially influence the exercise of, the voting power attached to any voting shares issued by the corporation; or
+(b) in the case of an entity that is 2 or more persons who are associated persons — each of the associated persons can, directly or indirectly, exercise, control the exercise of, or substantially influence the exercise of, the voting power attached to any voting shares issued by the corporation.
+(2) The value of the direct interest of the entity in the corporation is the proportion (expressed as a percentage) of the voting power of all voting shares issued by the corporation that —
+(a) in the case of an entity that is a person — the person can directly or indirectly exercise, control the exercise of, or substantially influence the exercise of; or
+(b) in the case of an entity that is 2 or more persons who are associated persons — the associated persons can, if acting together, directly or indirectly exercise, control the exercise of, or substantially influence the exercise of.
+35C.Indirect interests
+(1) An entity has an indirect interest in a corporation if the corporation is linked to another corporation (the directly controlled corporation) in which the entity has a direct interest.
+(2) A corporation is linked to a directly controlled corporation if the corporation is part of a chain of corporations —
+(a) that starts with the directly controlled corporation; and
+(b) in which a link in the chain is formed if a corporation has a direct interest in the next corporation in the chain.
+(3) The value of the indirect interest of an entity in a corporation (an indirectly controlled corporation) that is linked to a directly controlled corporation is calculated by multiplying together the following —
+(a) the value of the direct interest of the entity in the directly controlled corporation;
+(b) the value of each direct interest that forms a link in the chain of corporations by which the indirectly controlled corporation is linked to the directly controlled corporation.
+(4) If an entity has more than one indirect interest in a corporation, the value of those interests is worked out under section 35D.
+35D.Aggregate interests
+(1) An entity has an aggregate interest in a corporation if —
+(a) the entity has a direct interest and one or more indirect interests in the corporation; or
+(b) the entity has more than one indirect interest in the corporation.
+(2) The value of the aggregate interest of an entity in a corporation is the sum of the following —
+(a) the value of the direct interest (if any) of the entity in the corporation;
+(b) the value of each indirect interest of the entity in the corporation.
+24.Section 36 amended
+(1) In section 36(3) delete the passage that begins with “Act except” and continues to the end of the subsection and insert:
+Act.
+(2) After section 36(3) insert:
+(4) The Commissioner may exclude a person from a group in accordance with section 38.
+25.Section 38 amended
+Delete section 38(1) and insert:
+(1) The Commissioner may exclude a person from a group under section 31(4), 32(3), 35A(3) or 36(4) in relation to a business carried on by the person if satisfied that the business is carried on independently of, and is not connected with the carrying on of, a business carried on by any other member of the group, having regard to —
+(a) the nature and degree of ownership and control of the businesses; and
+(b) the nature of the businesses; and
+(c) any other matters the Commissioner considers relevant.
+26.Schedule 1 amended
+After Schedule 1 clause 3 insert:
+Division 2 — Provisions for the Pay-roll Tax Assessment Amendment Act 2010 in relation to grouping of employers
+4.Exclusion, from a group, in force before 1 July 2012
+If the Commissioner has excluded a person from a group under section 31(4) or 32(3) (as in force before 1 July 2012) and that exclusion was in force immediately before 1 July 2012, that exclusion has effect, according to its terms, on and after 1 July 2012, as if it had been granted under Part 4 (as in force on and after 1 July 2012).
+5.Exclusion, from a group, granted on or after 1 July 2012
+An exclusion of a person from a group under Part 4 (as in force on and after 1 July 2012) cannot have effect before 1 July 2012 despite section 38(5).
+6.Exclusion, from a group, having effect before 1 July 2012
+The Commissioner may, on and after 1 July 2012, exclude a person from a group for a period that is before 1 July 2012 but not on or after 1 July 2012, and may do so as if the Pay-roll Tax Assessment Amendment Act 2010 Part 2 Division 3 had not come into operation.
+27.Glossary amended
+(1) In the Glossary clause 1 delete the definition of related corporation.
+(2) In the Glossary clause 1 insert in alphabetical order:
+related body corporate has the meaning given in section 9 of the Corporations Act;
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+2004/5 year22A(1)
+actual value9BB(2)
+adoption leave41A(1)
+AV9BE(1)
+calculation provision22A(5)
+Commonwealth income tax provisions9DD(1)
+employee9CA
+employer9CA
+employment termination payment9EA(2)
+expected pay-roll tax liability28A(3), 29(1b)
+FBT rate9BB(1)
+first part of the tax period22A(4)
+first period22A(2)
+instrument6D(1)
+local company9DH(1)
+maternity leave41A(1)
+N9BE(1)
+new rate22A(2)
+notional contribution9CA
+old rate22A(2)
+parental leave41A(1)
+part period factor22A(6)
+quarter29(4d)
+relevant day9DA(4)
+relevant part period22A(5)
+second part of the tax period22A(4)
+second period22A(2)
+smaller group36(1), 36(2)
+superannuation contribution9CA
+tax period22A(4)
+taxes42(2), 43(11)
+termination payment9EA(2)
+TV9BB(1)
+unused annual leave payment9EA(2)
+unused long service leave payment9EA(2)
+vesting day9DB(2), 9DB(3)
+WA taxable wages5(2)
+wages9AA(1)
