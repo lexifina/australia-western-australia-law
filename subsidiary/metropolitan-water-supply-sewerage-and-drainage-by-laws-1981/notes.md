@@ -74,6 +74,7 @@ Water Agencies Amendment By-laws 2008 Pt. 6 | 27 Jun 2008 p. 3076-84 | 1 Jul 200
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws (No. 5) 2008 | 26 Aug 2008 p. 4031-2 | bl. 1 and 2: 26 Aug 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Aug 2008 (see bl. 2(b))
 Reprint 6: The Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 as at 9 Jan 2009 (includes amendments listed above)
 Water Agencies Amendment By-laws 2009 Pt. 6 | 19 Jun 2009 p. 2393-406 | bl. 1 and 2: 19 Jun 2009 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2009 (see bl. 2(b))
+Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws (No. 2) 2010 | 25 Jun 2010 p. 2883 | bl. 1 and 2: 25 Jun 2010 (see bl. 2(a)); By-laws other than bl. 1 and 2: 26 Jun 2010 (see bl. 2(b))
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 The Water Resources Legislation Amendment Act 2007 s. 223 reads as follows:
 “
@@ -165,6 +166,7 @@ private service1.1
 production well1.1
 residential building1.1
 sanitary plumbing1.1
+shared fire service6.4.6.7
 size1.1
 spill level1.1
 tank5.6.1
