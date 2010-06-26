@@ -15,6 +15,7 @@ First Home Owner Grant Amendment Act 2005 | 26 of 2005 | 12 Dec 2005 | Act other
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Revenue Laws Amendment Act (No. 2) 2008 s. 33 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 First Home Owner Grant Amendment Act 2009 | 27 of 2009 | 17 Nov 2009 | s. 3 and Pt. 2: 14 Oct 2008 (see s. 2(b)); s. 1 and 2: 17 Nov 2009 (see s. 2(a)); Pt. 4: 18 Nov 2009 (see s. 2(d)); Pt. 3: 1 Jan 2010 (see s. 2(c) and Gazette 22 Dec 2009 p. 5253)
+Revenue Laws Amendment and Repeal Act 2010 Pt. 3 | 17 of 2010 | 25 Jun 2010 | 26 Jun 2010 (see s. 2(b))
 The First Home Owner Grant Amendment Act 2001 s. 7 reads as follows:
 “
 7.Saving of right to object
