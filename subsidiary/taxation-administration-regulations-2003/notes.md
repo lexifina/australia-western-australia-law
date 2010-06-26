@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 July 2009 of the Taxation Administration Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Taxation Administration Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Taxation Administration Regulations 2003 | 27 Jun 2003 p. 2419-22 | 1 Jul 2003 (see r. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -15,6 +15,7 @@ Taxation Administration Amendment Regulations (No. 2) 2008 | 22 Jul 2008 p. 3354
 Taxation Administration Amendment Regulations (No. 3) 2008 | 11 Nov 2008 p. 4845 | r. 1 and 2: 11 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Nov 2008 (see r. 2(b))
 Taxation Administration Amendment Regulations 2009 | 15 May 2009 p. 1639-43 | r. 1 and 2: 15 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 16 May 2009 (see r. 2(b))
 Reprint 2: The Taxation Administration Regulations 2003 as at 10 Jul 2009 (includes amendments listed above)
+Revenue Laws Amendment and Repeal Act 2010 s. 31 assented to 25 Jun 2010 | 26 Jun 2010 (see s. 2(b))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. R. 1-4 and Pt. 7 Div. 2 of those regulations read as follows:
 1.Citation
 These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
