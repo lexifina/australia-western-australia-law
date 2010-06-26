@@ -18,6 +18,7 @@ Reprint 2: The Taxation Administration Act 2003 as at 7 Sep 2007 (includes amend
 Duties Legislation Amendment Act 2008 Pt. 2 Div. 3 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Revenue Laws Amendment Act (No. 2) 2008 Pt. 2 Div. 1 and 3 and Pt. 3 | 31 of 2008 | 27 Jun 2008 | Pt. 2 Div. 1 and Pt. 3 Div. 1 and 2: 28 Jun 2008 (see s. 2(b)); Pt. 2 Div. 3: 1 Jul 2008 (see s. 2(c)(ii)) Pt. 3 Div. 3: 11 Oct 2008 (see s. 2(d) and Gazette 10 Oct 2008 p. 4539)
 Reprint 3: The Taxation Administration Act 2003 as at 22 Aug 2008 (includes amendments listed above, except those the Revenue Laws Amendment Act (No. 2) 2008 Pt. 3 Div. 3)
+Revenue Laws Amendment and Repeal Act 2010 Pt. 5 and s. 30 | 17 of 2010 | 25 Jun 2010 | 26 Jun 2010 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -358,6 +359,7 @@ primary liabilityGl
 publishGl
 real property76A(1)
 reassessmentGl
+reassessment period39(3), 43(4A)
 recognised jurisdictionGl
 recognised revenue lawGl
 recordGl

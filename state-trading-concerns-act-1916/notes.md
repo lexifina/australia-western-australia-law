@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 March 2010 of the State Trading Concerns Act 1916 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the State Trading Concerns Act 1916 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 State Trading Concerns Act 1916 | 12 of 1917 (7 Geo. V No. 32) | 28 Mar 1917 | 1 Apr 1917 (see s. 1 and Gazette 25 May 1917 p. 849)
@@ -22,6 +22,7 @@ State Trading Concerns Amendment Act 1999 | 45 of 1999 | 7 Dec 1999 | 7 Dec 1999
 Reprint 3: The State Trading Concerns Act 1916 as at 6 Feb 2004 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 6, 9 and Sch. 1 cl. 162 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 4: The State Trading Concerns Act 1916 as at 5 Mar 2010 (includes amendments listed above)
+Revenue Laws Amendment and Repeal Act 2010 Pt. 4 | 17 of 2010 | 25 Jun 2010 | 26 Jun 2010 (see s. 2(b))
 Repealed by section 2 of this Act.
 Repealed by the Acts Amendment (Western Australian Meat Commission) Act 1975.
 Under the Acts Amendment (Meat Industry) Act 1985 s. 37, a reference to the Western Australian Meat Commission in a written law, in relation to its meat marketing operations, was, unless the context was such that it would be inappropriate, to be read as a reference to the Western Australian Meat Marketing Corporation. The Western Australian Meat Marketing Corporation has not existed since the Marketing of Meat Act 1971 expired as a result of the amendment made to it by the Marketing of Meat Amendment Act 1999 s. 14.
@@ -37,10 +38,13 @@ appointed day26A(1), 26B(1), 26C(1)
 chief executive officer4B(1)
 concern26A(1), 26C(1)
 corporate body26A(1) 26C(1)
+credit card5A
+credit or debit card administration fee5A
+debit card5A
 financial entity4A(1)
 Minister4B(1), 26B(1)
 Minister responsible4A(1), 4B(1)
 Reserve 26A(1)
-statutory corporation4B(1)
+statutory corporation4B(1), 5A
 The Commission26C(1)
 trading concern4(3)
