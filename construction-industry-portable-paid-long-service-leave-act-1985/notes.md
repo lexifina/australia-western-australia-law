@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 May 2010 of the Construction Industry Portable Paid Long Service Leave Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Construction Industry Portable Paid Long Service Leave Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Construction Industry Portable Paid Long Service Leave Act 1985 | 72 of 1985 | 13 Dec 1985 | s. 1 and 2: 13 Dec 1985; Act other than s. 1 and 2: 19 Dec 1986 (see s. 2 and Gazette 19 Dec 1986 p. 4860)
@@ -21,6 +21,10 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 31 | 77 
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 39 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 21 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Reprint 3: The Construction Industry Portable Paid Long Service Leave Act 1985 as at 21 May 2010 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 The Construction Industry Portable Paid Long Service Leave Amendment Act 1989 s. 13 and 14 read as follows:
 13.Transitional
@@ -33,6 +37,13 @@ the appointed day means the day fixed by the Minister by Order published in the 
 (5) An amount assessed by the Board under subsection (4) shall, if not paid within the time specified by the Board, constitute a debt to the Board and is recoverable by the Board in any court of competent jurisdiction.
 14.Validation
 Where a regulation is made under section 3(4)(c) of the principal Act, any act done or thing omitted to be done before the coming into operation of that regulation which constituted a contravention of the principal Act but which would have been lawful if done or omitted to be done after the coming into operation of the regulation, shall be deemed to have been lawfully done.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+14.Construction Industry Portable Paid Long Service Leave Act 1985
+Sch. cl. 1 | 1. Notwithstanding | 1.Service prior to application Notwithstanding
+Sch. cl. 2 | 2. (1)Notwithstanding | 2.Contributions for service prior to appointed day (1)Notwithstanding
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
