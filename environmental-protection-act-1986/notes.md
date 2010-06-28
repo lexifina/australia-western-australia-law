@@ -47,6 +47,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 4 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -137,6 +138,12 @@ In section 121(1) delete “against a person for anything that the person has do
 against —
 (a) a person for anything that the person has done, in good faith, in the performance or purported performance of a function under this Act; or
 (b) a person acting under an authority mentioned in section 121A(1) for anything that the person has done, in good faith, in the performance or purported performance of a function to which the authority applies.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
+Act | Identifier | Title | Shoulder note
+Environmental Protection Act 1986 | Schedule 1
+Schedule 2
+Schedule 3
+Schedule 4
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
