@@ -43,6 +43,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 38 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Standardisation of Formatting Act 2010 s. 4 and 43 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Industrial Relations Act 1979.
 Repealed by the School Education Act 1999 s. 246(1).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 14.
@@ -96,3 +97,18 @@ The Curtin University of Technology Act 1966 is amended as follows:
 Member of a superannuation scheme continued by section 29(c) or (d) of the State Superannuation Act 2000.
 ”.
 ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 and 43 had not come into operation. They read as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Table
+Act | Identifier | Title | Shoulder note
+Curtin University of Technology Act 1966 | Schedule 1 | University land
+Schedule 2
+43.Part heading inserted before section 1
+(1) This section amends the Acts listed in Tables 1 and 2.
+(2) In the Acts listed in Table 1 before section 1 insert:
+Part IA — Preliminary
