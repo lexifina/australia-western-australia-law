@@ -48,6 +48,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 5 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Working with Children (Criminal Record Checking) Amendment Act 2010 Pt. 3 | 7 of 2010 | 27 May 2010 | To be proclaimed (see s. 2)
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 s. 34, 34B and 40 were repealed by the Young Offenders Act 1994, which was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
@@ -79,3 +80,15 @@ official criminal record means a record containing information about the results
 28.Schedule 3 amended
 After Schedule 3 clause 2(6) insert:
 (7) The CEO as defined in the Working with Children (Criminal Record Checking) Act 2004 section 4 is excepted from the provisions of section 28(1) in respect of all spent convictions in disclosing information under section 37(2) of that Act if the disclosure is to a corresponding authority as defined in section 37(1) of that Act and that authority is a person prescribed under section 28(2).
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Table
+Act | Identifier | Title | Shoulder note
+Spent Convictions Act 1988 | Schedule 1
+Schedule 2
+Schedule 3
