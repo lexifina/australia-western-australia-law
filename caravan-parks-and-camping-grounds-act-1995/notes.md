@@ -12,7 +12,20 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 2: The Caravan Parks and Camping Grounds Act 1995 as at 7 Jul 2006 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 26 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Appointed day for the purpose of section 6(1): 1 October 1997, see Gazette 20 Jun 1997 p. 2853.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Act | Identifier | Title | Shoulder note
+Caravan Parks and Camping Grounds Act 1995 | Schedule 1
+Schedule 2
 Section 200 of the Local Government Act 1960 was repealed by Sch. 9.2 cl. 5(b) of the Local Government Act 1995 before the Caravan Parks and Camping Grounds Act 1995 came into operation. Consequently, Sch. 2 cl. 4 of the Caravan Parks and Camping Grounds Act 1995, the provision that purported to repeal s. 200 of the Local Government Act 1960, was amended, before it came into operation, by Sch. 1 to the Local Government (Consequential Amendments) Act 1996 to delete the reference to s. 200 of the Local Government Act 1960. Transitional provisions relating to existing facilities are now contained in Sch. 9 to the Caravan Parks and Camping Grounds Regulations 1997.
