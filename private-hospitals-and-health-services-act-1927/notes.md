@@ -58,6 +58,7 @@ On the date as at which this was compiled, provisions referred to in the followi
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 25 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Now known as the Hospitals and Health Services Act 1927; short title changed (see note under s. 1).
@@ -93,6 +94,26 @@ On the date as at which this compilation was prepared, the State Superannuation 
 Members of a superannuation scheme continued by section 29(c) or (d) of the State Superannuation Act 2000.
 ”.
 ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 and 51 had not come into operation. They read as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Table
+Act | Identifier | Title | Shoulder note
+Hospitals and Health Services Act 1927 | Schedule
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+30.Hospitals and Health Services Act 1927
+s. 21(1) | following: — (a)The control. (aa)The to the board. (b)The hospital. (c)Repairing, Minister. (d)The injured. (e)The services. (f)Making suffering. (g)The | following — (a)the control; (aa)the to the board; (b)the hospital; (c)repairing, Minister; (d)the injured; (e)the services; (f)making suffering; (g)the
+s. 22(1) | matters: — (a)Subject hospital. (each occurrence) (b)Maintaining (c)Prescribing board. (each occurrence) (d)Preventing thereto. (da)Regulating penalty was paid. (e)Prohibiting (f)Regulating (g)Prescribing (ga)Prescribing (h)Generally thereof. (i)Providing | matters — (a)subject hospital; (b)maintaining (c)prescribing board; (d)preventing thereto; (da)regulating penalty was paid; (e)prohibiting (f)regulating (g)prescribing (ga)prescribing (h)generally thereof; (i)providing
+s. 27(1) | medical practitioner: Provided that no Provided also, that no | medical practitioner. (1A)Despite subsection (1), no (1B)Despite subsection (1), no
+s. 29 | apply: — The buildings this Act. Any money | apply — (a)the buildings this Act; and (b)any money
+s. 34(2) | as follows — Medicare | as set out in the Table. Table of Medicare
+s. 37(2d) | effect to — (a)any (i)ensuring (ii)prescribing | effect to any (a)ensuring (b)prescribing
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
