@@ -16,9 +16,19 @@ Compilation table
  | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 57 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 69 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 39 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Industrial Arbitration Act 1979 s. 4 which is now called the Industrial Relations Act 1979.
 i.e. 40 kilometres.
 See Gazettes — 6 May 1966 p. 1094; 19 August 1966 p. 2237; 28 April 1967 p. 1057; 14 July 1967 p. 1809 and 13 August 1971 p. 2970.
 Under the Health Legislation Amendment Act 1984 the former Commissioner of Public Health is now called the Commissioner of Health.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 22 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+26.Hairdressers Registration Act 1946
+s. 14(4) | (4)(a)Every (b)Where (i)the fee (ii)the Board | (3)Every (4)Where (a)the fee (b)the Board
