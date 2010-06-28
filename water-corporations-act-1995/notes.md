@@ -23,9 +23,25 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 14 and 17 | 77 o
 Water Resources Legislation Amendment Act 2007 Pt. 7 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 3: The Water Corporation Act 1995 as at 4 Jul 2008 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 132 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 4 is a validation provision.
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 127(5) is not included because the Schedule it sought to amend had been replaced in Gazette 24 May 2002 p. 2605-17 before the amendment purported to come into operation.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Table
+Act | Identifier | Title | Shoulder note
+Water Corporation Act 1995 | Schedule 1
+Schedule 2
+Schedule 4
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
