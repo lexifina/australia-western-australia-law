@@ -39,9 +39,71 @@ Reprint 6: The Dental Act 1939 as at 11 Nov 2005 (includes amendments listed abo
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 452(1) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Acts Amendment (Bankruptcy) Act 2009 s. 29 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 17, 43(3) and 56 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 See Gazette 17 August 1979 p. 2483.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
 Repealed by the Public Service Act 1978, which has since been repealed by the Public Sector Management Act 1994.
 Now known as the Dental Act 1939; short title changed (see note under s. 1).
 The Dental Amendment Act 1996 s. 19 is a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 17, 43(3) and 56 had not come into operation. They read as follows:
+17.Dental Act 1939 amended
+(1) This section amends the Dental Act 1939.
+(2) In Schedule 2:
+(a) delete “Schedule 2”;
+(b) delete “[Sections 50A, 50B and 50D]”;
+(c) delete “Part 1”;
+(d) delete “Core acts”,
+and insert:
+Schedule 2 — Acts of dentistry: dental therapists, dental hygienists and school dental therapists
+[s. 50A, 50B and 50D]
+Part 1 — Core acts
+(3) In Schedule 2:
+(a) delete “Part 2”;
+(b) delete “Local analgesia acts”,
+and insert:
+Part 2 — Local analgesia acts
+(4) In Schedule 2:
+(a) delete “Part 3”;
+(b) delete “Orthodontic acts”,
+and insert:
+Part 3 — Orthodontic acts
+(5) In Schedule 2:
+(a) delete “Part 4”;
+(b) delete “Dental therapy acts”,
+and insert:
+Part 4 — Dental therapy acts
+(6) In Schedule 2 delete “Part 5” and insert:
+Part 5 — Restoration of prepared cavities
+(7) In Schedule 2 delete “Part 6” and insert:
+Part 6 — Root planing
+(8) In Schedule 2 delete “Part 7” and insert:
+Part 7 — Caries detection
+43.Part heading inserted before section 1
+(1) This section amends the Acts listed in Tables 1 and 2.
+(3) In the Acts listed in Table 2:
+(a) before section 1 insert:
+Part I — Preliminary
+(b) before the section listed in Table 2 for that Act delete the heading to Part I.
+56.Dental Act 1939 amended
+(1) This section amends the Dental Act 1939.
+(2) In section 55:
+(a) in subsection (1)(a) delete the proviso;
+(b) after subsection (1) insert:
+(1A) This section shall not apply to —
+(a) any dentist when he is practising his profession as a dentist as the employee of or as agent for any executor or administrator as provided by section 52 or as the employee of or as agent for any person or persons engaged in the business or practice of dentistry under the authority of section 56; or
+(b) any dentist when he is practising the said profession as employee of or as agent in any dental hospital or dental college or in any dental clinic established by or under the Crown or by any local government.
+(3) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+ | s. 8(2) | Board: Provided that the | Board. (2A)The
+ | s. 23(1) | Provided that, if | (1A)Despite subsection (1), if
+ | s. 46(6) | Provided that — (ii)licences | (6A)Licences
+ | s. 46(7) | subsection (6), | subsections (6) and (6A),
+ | s. 51 | Subject as or it: Provided that this | (1)Subject as or it. (2)This
+ | s. 54(1) | regulations: Provided that any | regulations. (1A)Despite subsection (1), any
+ | s. 55(1) | a dentist: | a dentist; or
+ | s. 56(4) | (4)Provided that — (a)every person; and (b)this section | (4A)Every person. (4B)This section
