@@ -51,6 +51,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2009 s. 34 | 17 of 2009 | 16 Sep 2009 | To be proclaimed (see s. 2(b))
 Co-operatives Act 2009 s. 506 and 516 | 24 of 2009 | 22 Oct 2009 | s. 506: operative on the day Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d)); s. 516: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
+Standardisation of Formatting Act 2010 s. 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -247,6 +248,27 @@ co-operative
 (a) delete paragraph (d) and “or” after it;
 (b) after each of paragraphs (a) and (b) insert:
 or
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 44(2) and 51 had not come into operation. They read as follows:
+44.Ad hoc headings
+(1) This section amends the Acts listed in Tables 1 and 2.
+(2) In each Act listed in Table 1 before each section listed in the Table delete the heading and insert the heading or headings set out in the Table in relation to that section.
+2.Local Government Act 1995
+s. 4.36 | Division 9 — Electoral process Subdivision 1 — Stages of electoral process
+s. 4.37 | Subdivision 2 — Stage 1: Preparing the electoral roll
+s. 4.47 | Subdivision 3 — Stage 2: Nomination of candidates
+s. 4.54 | Subdivision 4 — Stage 3: After nominations close
+s. 4.60 | Subdivision 5 — Stage 4: Preparing for voting
+s. 4.65 | Subdivision 6 — Stage 5: Voting
+s. 4.72 | Subdivision 7 — Stage 6: Counting the votes
+s. 4.77 | Subdivision 8 — Stage 7: Declaring the result
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+42.Local Government Act 1995
+s. 4.31(1) | the following provisions occupation — Property divided by district boundaries (a)Section 4.30 Property divided by ward boundaries (b)If an (i)the ward (ii)if no Right of occupation (c)A person Separate occupancies (d)A reference (i)a separate (ii)some Joint owners (e)If more Joint occupiers (f)If more Corporate ownership or occupation (g)If a body One nomination for all property in the district (h)A nomination under paragraph (e), (f) or (g) | subsections (1A) to (1H) occupation. (1A)Section 4.30 (1B)If an (a)the ward (b)if no (1C)A person (1D)A reference (a)a separate (b)some (1E)If more (1F)If more (1G)If a body (1H)A nomination under subsection (1E), (1F) or (1G)
+s. 4.31(2) | subsection (1) | subsections (1) to (1H)
+s. 4.36(1) | Stage 1 roll Stage 2 candidates Stage 3 close Stage 4 voting Stage 5 Voting Stage 6 votes Stage 7 | (a)Stage 1 roll; (b)Stage 2 candidates; (c)Stage 3 close; (d)Stage 4 voting; (e)Stage 5 Voting; (f)Stage 6 votes; (g)Stage 7
+s. 6.30(1) | $1.00 per $0.75 per $0.50 per $0.25 for each | (c)$1.00 per (d)$0.75 per (e)$0.50 per (f)$0.25 for each
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
