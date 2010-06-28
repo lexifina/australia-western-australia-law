@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Government Railways Act 1904 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Government Railways Act 1904 and includes the amendments made by the other written laws referred to in the following table,. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Government Railways Act 1904 | 23 of 1904 | 16 Jan 1904 | 16 Jan 1904
@@ -71,7 +71,44 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 8: The Government Railways Act 1904 as at 2 Sep 2005 (includes amendments listed above)
 Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Rail Safety Act 2010 Pt. 11 Div. 1 | 18 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 60 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 60 had not come into operation. It reads as follows:
+60.Government Railways Act 1904 amended
+(1) This section amends the Government Railways Act 1904.
+(2) In section 23(1)(6) delete the proviso.
+(3) Before section 23(2) insert:
+(1B) Despite subsection (1)(f), while regulations for the checking of luggage are in force, no liability shall be incurred by Her Majesty or the Authority in respect of luggage which has not been duly checked.
+(4) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+s. 2 def. of railway | (1)all (2)all | (a)all (b)all
+s. 18 | Notwithstanding the following special provisions shall apply — | (1A)Notwithstanding subsections (1) to (7) apply.
+s. 23(1) | (1)regulating (2)regulating (3)imposing (4)regulating (5)regulating (6)regulating luggage: (7)preventing (8)prohibiting (9)prohibiting (10)preventing (12)regulating (13)regulating (14)preventing (16)regulating (17)regulating (18)facilitating (19)regulating (20)regulating (21)regulating (22)providing (23)regulating (23a)providing (a)officers (b)persons (c)the public (d)such (23b)generally to paragraph (23a) (a)prescribing (b)prescribing (c)providing (d)regulating (e)exempting (f)prescribing (g)prescribing (h)prescribing, (i)prescribing (j)prescribing (k)prescribing (23c)subject to (24)regulating (25)regulating (26)for (26a)prescribing (28)for the (28a)prescribing (29)and generally thereon: Provided that such by-laws | (a)regulating (b)regulating (c)imposing (d)regulating (e)regulating (f)regulating luggage; (g)preventing (h)prohibiting (i)prohibiting (j)preventing (k)regulating (l)regulating (m)preventing (n)regulating (o)regulating (p)facilitating (q)regulating (r)regulating (s)regulating (t)providing (u)regulating (v)providing (i)officers (ii)persons (iii)the public (iv)such (w)generally to paragraph (v) (i)prescribing (ii)prescribing (iii)providing (iv)regulating (v)exempting (vi)prescribing (vii)prescribing (viii)prescribing, (ix)prescribing (x)prescribing (xi)prescribing (x)subject to (y)regulating (za)regulating (zb)for (zc)prescribing (zd)for the (ze)prescribing (zf)generally thereon. (1A)The by-laws
+s. 23(2) | paragraph (23c) of subsection (1) | subsection (1)(x)
+s. 24 | In respect to by-laws made under the last preceding section, the following provisions shall apply — due to him: Penalties recovered under this subsection | (1A)This section applies in respect to by-laws made under section 23. due to him. (7A)Penalties recovered under subsection (7)
+s. 26 | (1)For (2)For damage; | (a)for (b)for damage,
+s. 34(1) | If any person | (1A)If any person
+s. 40 | (1)For (2)To (3)For | (a)for (b)to (c)for
+s. 43 | (1)obstructs (2)damages (3)defaces (4)writes (5)behaves | (a)obstructs (b)damages (c)defaces (d)writes (e)behaves
+s. 44 | (1)fails (2)travels (3)travels (4)not | (a)fails (b)travels (c)travels (d)not
+s. 45 | (1)alters (2)sells (3)sells (4)sells (5)is brought | (a)alters (b)sells (c)sells (d)sells (e)is brought
+s. 46 | (1)uses (2)not (3)having (5)refuses (6)having | (a)uses (b)not (c)having (d)refuses (e)having
+s. 48 | (1)affixes (2)neglects (3)trespasses | (a)affixes (b)neglects (c)trespasses
+s. 49 | (1)trespasses (2)is drunk, (3)does (4)offends | (a)trespasses (b)is drunk, (c)does (d)offends
+s. 53A(2) | section 23(23b), | section 23(1)(w),
+s. 53A(4) | section 23(1)(28a) | section 23(1)(ze)
+s. 72 | Notwithstanding Every such | (1)Notwithstanding (2)Every such
+s. 73(2) | in this subsection offence: Except that, if paragraph (a)(iii), paragraph (a)(ii) and (iv), paragraph (a)(i). | in this subsection or subsection (2A) offence. (2A)Despite subsection (2), if subsection (2)(a)(iii), subsection (2)(a)(ii) and (iv), subsection (2)(a)(i).
+s. 74(2) | section 23(26a) | section 23(1)(zc)
+s. 77 | Any person (1)fined (2)reduced (3)dismissed (4)suspended (5)transferred No person | (1)Any person (a)fined (b)reduced (c)dismissed (d)suspended (e)transferred (2)No person
+s. 80 | Notice Where the Where, for incurred: Provided that if | (1)Notice (2)Where the (3)Where, for incurred. (4)If
+s. 82 | With respect to the procedure on appeals, the following provisions shall apply — behalf: Provided that no | (1A)This section applies with respect to the procedure on appeals. behalf. (4A)Despite subsection (4), no
+s. 83 | The Appeal (first occurrence) The Appeal (second occurrence) All costs (first occurrence) All costs (second occurrence) | (1)The Appeal (2)The Appeal (3)All costs (4)All costs
+s. 84 | The (1)Relating section 78(1)(c). (2)Regulating distance. (3)Prescribing expenses. (4)Prescribing Court; prescribing the procedure appeals; prescribing the allowances expenses; and incorporating in regulations made under this paragraph | (1)The (a)relating section 78(1)(c); (b)regulating distance; (c)prescribing expenses; (d)prescribing Court; (e)prescribing the procedure appeals; (f)prescribing the allowances expenses. (2)Regulations made under subsection (1)(d), (e) and (f) may incorporate
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 62 is not included because the subsection it sought to amend had been replaced by the Public Transport Authority Act 2003 s. 137(1) before the amendment purported to come into operation.
 The Second Schedule was inserted by the Limitation Act Amendment Act 1954 s. 8.
 The Government Railways Act Amendment Act 1957 s. 11 and 12 are validation and savings provisions that are of no further effect.
@@ -171,5 +208,18 @@ The operation of a provision of this Part is not to be regarded as —
 (d) causing any contract or instrument to be void or otherwise unenforceable; or
 (e) releasing, or allowing the release of, any surety.
 ”.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Rail Safety Act 2010 Pt. 11 Div. 1 had not come into operation. It reads as follows:
+Part 11 — Consequential amendments
+Division 1 — Government Railways Act 1904 amended
+259.Act amended
+This Division amends the Government Railways Act 1904.
+260.Section 2A amended
+In section 2A delete “Rail Safety Act 1998” and insert:
+Rail Safety Act 2010
+261.Section 13 amended
+In section 13(1a) delete paragraph (d) and insert:
+(d) the Rail Safety Act 2010.
+262.Section 61 amended
+In section 61(5) delete “Rail Safety Act 1998.” and insert:
+Rail Safety Act 2010.
 Office of Titles plans are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
