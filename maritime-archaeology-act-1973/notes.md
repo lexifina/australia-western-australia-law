@@ -15,6 +15,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Sentencing Legislation Amendment and Repeal Act 2003 s. 78 | 50 of 2003 | 9 Jul 2003 | To be proclaimed (see s. 2)
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Museum Act 1959 was repealed by the Museum Act 1969.
 The Museum Act 1969 s. 42 was deleted by the Museum Act Amendment Act 1973 s. 9 (see s. 2 and Gazette 7 Dec 1973 p. 4480).
 Museum Act Amendment Act 1964 operative 18 Dec 1964 (see s. 2 and Gazette 18 Dec 1964 p. 4039). See also endnote 2.
@@ -26,6 +27,17 @@ On the date as at which this reprint was prepared, the Sentencing Legislation Am
 (1) The amendments in this section are to the Maritime Archaeology Act 1973.
 (2) Section 9(6) is amended by deleting the penalty clause and inserting the following penalty clause instead —
 “ Penalty: $1 000. ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Act | Identifier | Title | Shoulder note
+Maritime Archaeology Act 1973 | First Schedule | Ships notified under Museums Acts
+Second Schedule
+Third Schedule
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
