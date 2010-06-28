@@ -32,6 +32,10 @@ Conservation and Land Management Regulations 2002 r. 115(c) | 3 May 2002 p. 2233
 Reprint of the Wildlife Conservation Regulations 1970 as at 7 Jun 2002 (includes amendments listed above)
 Wildlife Conservation Amendment Regulations 2002 | 24 Sep 2002 p. 4763-6 | 24 Sep 2002
 Wildlife Conservation Amendment Regulations 2003 | 4 Feb 2003 p. 323-6 | 4 Feb 2003
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Now know as the Zoological Parks Authority.
 Repealed by the Zoological Parks Authority Act 2001.
 Under the Financial Administration Legislation Amendment Act 1993 s. 17(a) a reference to the Consolidated Revenue Fund or the General Loan and Capital Works Fund is to be construed, or to have effect, as if it had been amended to be a reference to the Consolidated Fund. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
@@ -49,3 +53,12 @@ The Conservation and Land Management Regulations 2002 r. 116 reads as follows:
 former provision means a provision repealed by regulation 114 or 115.
 ”.
 The commencement date referred to in r. 2 was before the date of gazettal.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+98.Wildlife Conservation Regulations 1970 (consequential amendments)
+r. 26(1) | section 18(1) | section 18(1A)
+r. 63(1) | section 14(2)(ba) | section 14(4)
