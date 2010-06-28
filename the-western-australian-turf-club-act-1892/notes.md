@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 July 2008 of The Western Australian Turf Club Act 1892 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of The Western Australian Turf Club Act 1892 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 The Western Australian Turf Club Act 1892 | 1892 (55 Vict. Private Act) | 18 Mar 1892 | 18 Mar 1892
@@ -12,6 +12,10 @@ Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 14 Div. 1 | 35
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Reprint 3: The Western Australian Turf Club Act 1892 as at 4 Jul 2008 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 37 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by Government Railways Act 1904.
 This Act is to be read in conjunction with the Western Australian Turf Club (Property) Act 1944 (see s. 2 of that Act).
@@ -39,6 +43,17 @@ Division 2 — Transitional provision
 (3) The by-laws continued in force under subsection (1), expire 12 months after the coming into operation of this section, or on a day fixed by order of the Minister published in the Gazette, whichever is the earlier day.
 (4) Nothing in this section affects the operation of section 36 of the RWWA Act.
 ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 37 had not come into operation. It reads as follows:
+37.The Western Australian Turf Club Act 1892 amended
+(1) This section amends The Western Australian Turf Club Act 1892.
+(2) In the First Schedule:
+(a) delete “First Schedule”;
+(b) delete “THE WESTERN AUSTRALIAN TURF CLUB”;
+(c) delete “Section 4”,
+and insert:
+First Schedule — Form of memorial
+[s. 4]
+THE WESTERN AUSTRALIAN TURF CLUB
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
