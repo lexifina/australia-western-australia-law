@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 March 2010 of the Guardianship and Administration Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Guardianship and Administration Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Guardianship and Administration Act 1990 | 24 of 1990 | 7 Sep 1990 | s. 1 and 2: 7 Sep 1990; Act other than s. 1 and 2, Pt. 4-7, s. 123, 124 and Sch. 2, 4 and 5: 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2649); Pt. 4-7, s. 123, 124 and Sch. 2, 4 and 5: 20 Oct 1992 (see s. 2 and Gazette 2 Oct 1992 p. 4811)
@@ -39,6 +39,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | s. 11 (to the extent that it inserts s. 110RA, 110ZAA, 110ZAB and 110ZAC) and s. 12: to be proclaimed (see s. 2)
+Standardisation of Formatting Act 2010 s. 18 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The reference in s. 45(2)(d) is a reference to subsection (4) as inserted by the Acts Amendment (Consent to Medical Treatment) Act 2008 s. 6(3), which reads as follows:
 (4) A plenary guardian cannot consent to the sterilisation of the represented person, except in accordance with Division 3.
 Section 45(4) (second occurrence) was inserted by the Wills Amendment Act 2007 s. 25.
@@ -130,6 +131,47 @@ The Acts Amendment (Consent to Medical Treatment) Act 2008 s. 14 reads as follow
 14,Review of the Guardianship and Administration Act 1990
 (1) The Minister administering the Guardianship and Administration Act 1990 is to carry out a review of the operation and effectiveness of the provisions of the Guardianship and Administration Act 1990 and the relevant sections of The Criminal Code as soon as practicable after the expiration of 3 years from the commencement of this Act.
 (2) The Minister is to prepare a report based on the review made under subsection (1) and cause the report to be laid before each House of Parliament within 4 years after the commencement of this Act.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 18 and 51 had not come into operation. They read as follows:
+18.Guardianship and Administration Act 1990 amended
+(1) This section amends the Guardianship and Administration Act 1990.
+(2) In the provisions listed in the Table delete “Part B of Schedule 1” and insert:
+Schedule 1
+Table
+s. 3(1) def. of party | s. 17(1)
+s. 17B(2)(b) | s. 41(2)(b)(i)
+s. 60(2)(b)(i) | s. 89(2)(c)(i)
+(3) In Schedule 1:
+(a) delete “Schedule 1”;
+(b) delete “[section 17]”;
+(c) delete “Part B”;
+(d) delete “Provisions as to proceedings of State Administrative Tribunal”,
+and insert:
+Schedule 1 — Provisions as to proceedings of State Administrative Tribunal
+[s. 17]
+(4) In Schedule 2:
+(a) delete “Schedule 2”;
+(b) delete “[sections 71(3) and 72(1)]”;
+(c) delete “Part A”,
+and insert:
+Schedule 2 — Functions for administration of estates
+[s. 71(3) and 72(1)]
+Part A — Administrator
+(5) In Schedule 2 delete “Part B” and insert:
+Part B — State Administrative Tribunal
+(6) In Schedule 3:
+(a) delete “Schedule 3”;
+(b) delete “[section 104]”,
+and insert:
+Schedule 3 — Forms for enduring power of attorney
+[s. 104]
+(7) In Schedule 5 reformat the heading to the Schedule so it is in the current format.
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+25.Guardianship and Administration Act 1990
+s. 4(1) | subsection (2). | this section.
+s. 4(2) | (2)(a)The primary (b)Every (i)looking (ii)making (iii)managing (iv)making (c)A guardianship (d)A plenary (e)An order (f)In considering | (2)The primary (3)Every (a)looking (b)making (c)managing (d)making (4)A guardianship (5)A plenary (6)An order (7)In considering
+s. 71(5) | section 4(2)(a), | section 4(2),
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
