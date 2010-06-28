@@ -30,6 +30,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 54 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Standardisation of Formatting Act 2010 s. 44(3) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to the Permanent Head is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Department of the Arts is read and construed as a reference to the Department of Culture and the Arts.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -78,3 +79,19 @@ The Library Board of Western Australia Act 1951 is amended as follows:
 (a) in section 5(14) by deleting “or the Superannuation and Family Benefits Act 1938-1950,”;
 (b) in section 6(2) by deleting “and to such rights prescribed by or pursuant to the provisions of the Superannuation and Family Benefits Act 1938-1950,”.
 ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 44(3) and 51 had not come into operation. They read as follows:
+44.Ad hoc headings
+(1) This section amends the Acts listed in Tables 1 and 2.
+(3) In each Act listed in Table 2 before each section listed in the Table delete the heading.
+Library Board of Western Australia Act 1951 | s. 4
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+38.Library Board of Western Australia Act 1951
+s. 5(9) | (9)(a)The Governor the provisions of the next succeeding paragraph, (aa)A member (b)(i)In the event (ii)In the event | (9A)The Governor subsection (9B), (9B)A member (9C)In the event (9D)In the event
+s. 5(12) | 7 members all matters each member, | (a)7 members (b)all matters (c)each member,
+s. 6(1) | (1)(a)The Board (b)The person (c)The Board | (1A)The Board (1B)The person (1C)The Board
+s. 20A(3) | (3)(a)So much (b)The Board | (3A)So much (3B)The Board
+s. 20A(4) | (4)(a)On the (b)Where any paragraph (a) (c)All | (4A)On the (4B)Where any subsection (4A) (4C)All
+s. 20A(5) | (5)(a)All gifts (b)All gifts | (5A)All gifts (5B)All gifts
+s. 20A(7) | (7)(a)All officers (b)All rights | (7A)All officers (7B)All rights
