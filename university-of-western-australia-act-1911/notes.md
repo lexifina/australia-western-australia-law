@@ -42,6 +42,10 @@ Reprint 4: The University of Western Australia Act 1911 as at 18 Nov 2005 (inclu
 Statute Law Revision Act 2006 s. 9 | 37 of 2006 | 4 Jul 2006 | 4 Jul 2006 (see s. 2)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Bankruptcy) Act 2009 s. 86 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 48 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by Interpretation Act 1984 s. 77(1).
 The Acts Amendment (Student Guilds and Associations) Act 1983 s. 7 reads as follows:
 “
@@ -75,3 +79,36 @@ Senate means the University of Western Australia Senate.
 (7) The persons who, immediately before commencement day, were members of the Senate under repealed section 10(k) continue in office as members of the Senate under new section 8(1)(i) on and from commencement day.
 (8) A person who, under this section, continues in office as a member of the Senate on and from commencement day, continues in office for the balance of the term of office that applied to the person immediately before commencement day.
 ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 48 and 51 had not come into operation. They read as follows:
+48.University of Western Australia Act 1911 amended
+(1) This section amends the University of Western Australia Act 1911.
+(2) Before section 34 delete “Affiliated institutions”.
+(3) Before each section listed in the Table delete the heading and insert the heading or headings set out in the Table in relation to that section.
+Table
+s. 1 | Part 1 — Preliminary
+s. 3 | Part 2 — Establishment of the University
+s. 7 | Part 3 — Visitor
+s. 8 | Part 4 — Senate, officers and Convocation Division 1 — Senate
+s. 12 | Division 2 — Chancellor and Pro-Chancellor
+s. 13 | Division 3 — Powers of Senate
+s. 17 | Division 4 — Convocation
+s. 19 | Division 5 — Vacancies
+s. 24 | Division 6 — Proceedings
+s. 27 | Division 7 — Vice-Chancellor
+s. 28 | Part 5 — Guild of Undergraduates
+s. 29 | Part 6 — Instruction, degrees, examination
+s. 31 | Part 7 — Statutes
+s. 35 | Part 8 — Endowment and revenue
+s. 39 | Part 9 — General provisions
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+89.University of Western Australia Act 1911
+s. 4 | The University students: Provided that until being: Provided also that on | (1)The University students. (2)Despite subsection (1), until being. (3)On
+s. 15A(3) | (3)(a)When (b)The rate (c)The number (d)As and (e)As and | (3A)When (3B)The rate (3C)The number (3D)As and (3E)As and
+s. 15A(4) | subsection (3)(d) | subsection (3D)
+s. 16A(2) | Provided that no such by-law | (3A)No by-law
+s. 29 | Subject to persons: Provided that all | (1)Subject to persons. (2)All
+s. 31(4) | (4)(a)When (b)When | (4A)When (4B)When
+s. 34 | It shall licences: Provided always that no such Statutes | (1)It shall licences. (2)No Statutes
+s. 37 | University the following sums, that is to say — (b)Such amounts | University such amounts
