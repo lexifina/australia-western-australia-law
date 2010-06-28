@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 August 2008 of the Local Government (Miscellaneous Provisions) Act 1960 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Local Government (Miscellaneous Provisions) Act 1960 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Local Government Act 1960 | 84 of 1960 (9 Eliz. II No. 84) | 20 Dec 1960 | 1 Jul 1961 (see s. 2 and Gazette 10 Feb 1961 p. 385)
@@ -133,6 +133,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
+Standardisation of Formatting Act 2010 s. 21, 49 and 62 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Act No. 90 of 1964 was passed as the Local Government Act Amendment Act (No. 2) 1964, but was proclaimed to come into operation as the Local Government Act Amendment Act 1964.
 Repealed by the Stock (Brands and Movement) Act 1970, which is now known as the Stock (Identification and Movement) Act 1970.
 Repealed by the Auction Sales Act 1973 s. 3(1).
@@ -316,6 +317,94 @@ On the date as at which this reprint was prepared, the Biosecurity and Agricultu
 label it with an identifier in accordance with the Biosecurity and Agriculture Management Act 2007.
 ”.
 ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 21, 49 and 62 had not come into operation. They read as follows:
+21.Local Government (Miscellaneous Provisions) Act 1960 amended
+(1) This section amends the Local Government (Miscellaneous Provisions) Act 1960.
+(2) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+s. 455(1), (2)(a) | Part 1 of the Fifteenth Schedule. | Schedule 1.
+s. 458(2)(b) | Part 2 of the Fifteenth Schedule | Schedule 2
+s. 462(1) | Part 3 of the Fifteenth Schedule, that Part of (each occurrence) | Schedule 3,
+s. 463(1) | Part 4 of the Fifteenth Schedule, that Part of | Schedule 4,
+s. 464 | the Fifteenth Schedule | Schedules 2, 3 and 4
+s. 469(5) | Part 5 of the Fifteenth Schedule | Schedule 5
+s. 485 | Part 4 of the Fifteenth Schedule, | Schedule 4,
+(3) In the Fifteenth Schedule delete:
+Fifteenth Schedule
+[s. 455(1)]
+Western Australia
+Local Government (Miscellaneous Provisions) Act 1960
+Part 1 — Form of poundkeeper’s book
+and insert:
+Schedule 1 — Poundkeeper’s book
+[s. 455(1)]
+(4) In the Fifteenth Schedule delete:
+Western Australia
+Local Government (Miscellaneous Provisions) Act 1960
+[s. 458(2)(b)]
+Part 2
+Ranger’s fees
+Table of Fees Chargeable by Ranger, officer or other authorised person in respect of Cattle Impounded by him
+and insert:
+Schedule 2 — Ranger’s fees
+[s. 458(2)(b)]
+(5) In the Fifteenth Schedule delete:
+Western Australia
+Local Government (Miscellaneous Provisions) Act 1960
+[s. 462(1)]
+Part 3
+and insert:
+Schedule 3 — Poundage fees and sustenance charges
+[s. 462(1)]
+(6) In the Fifteenth Schedule delete:
+Western Australia
+Local Government (Miscellaneous Provisions) Act 1960
+[s. 463(1)]
+Part 4
+Rates for damage by trespass by cattle
+and insert:
+Schedule 4 — Rates for damage by trespass by cattle
+[s. 463(1)]
+(7) In the Fifteenth Schedule delete:
+Western Australia
+Local Government (Miscellaneous Provisions) Act 1960
+[s. 469(5)]
+Part 5
+Form of advertisement in the Government Gazette or newspaper circulating in the locality
+and insert:
+Schedule 5 — Form of advertisement
+[s. 469(5)]
+49.Local Government (Miscellaneous Provisions) Act 1960 amended
+(1) This section amends the Local Government (Miscellaneous Provisions) Act 1960.
+(2) Delete the heading to Part XII Division 1.
+(3) Delete the heading to Part XII Division 2.
+(4) Delete the heading to Part XII Division 9.
+62.Local Government (Miscellaneous Provisions) Act 1960 amended
+(1) This section amends the Local Government (Miscellaneous Provisions) Act 1960.
+(2) Delete section 484(5) and insert:
+(5) For the purposes of this section cattle in the charge of a person are to be regarded as being at large if the cattle —
+(a) are on a street, or other public place, which street or public place is in a city, town or townsite; and
+(b) do not travel at the rate of at least 8 kilometres a day in a direct line,
+unless —
+(c) the day is that on which a market is held for the sale of cattle or the preceding day; and
+(d) the cattle are travelling to the market at a less rate.
+(6) Subsection (5) does not affect the decision of the question as to whether cattle are at large in a street or other public place elsewhere than in a city, town or townsite, or in circumstances other than those mentioned in that subsection.
+(3) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+s. 364(3) | (3)(a)In this subsection building (b)Except in paragraph (c), (c)The | (3A)In subsection (3B) — building (3B)Except in subsection (3C), (3C)The
+s. 364(5) | (5)(a)This subsection (b)Land (i)dedicated (ii)revested (iii)has (iv)is on | (4A)Subsection (5) (5)Land (a)dedicated (b)revested (c)has (d)is on
+s. 364(9) | on the Registrar of Titles, on the Registrar of Deeds Act; | (a)on the Registrar of Titles, (b)on the Registrar of Deeds Act,
+s. 455(2) | (2)(a)The (b)A person (c)On | (2A)The (2B)A person (2C)On
+s. 455(5) | (5)(a)The (b)The | (5A)The (5B)The
+s. 458(2) | (2)(a)A person (i)found (ii)found (b)The ranger, (c)Cattle | (2A)A person (a)found (b)found (2B)The ranger, (2C)Cattle
+s. 460(3) | (3)(a)A person (b)If the (i)impound (ii)arrange subparagraph (i) | (3)A person (3AA) If the (a)impound (b)arrange paragraph (a)
+s. 460(5) | (a)In every (b)The above | (6)In every (7)The above
+s. 465(2) | section 458(2)(a), | section 458(2A),
+s. 474(2) | (2)(a)Where (b)The provisions of paragraph (a) do | (2A)Where (2B)Subsection (2A) does
+s. 474(3) | (3)(a)Where (i)if the (ii)that subsection (2) (b)Destruction | (3A)Where (a)if the (b)that subsection (2A) (3B)Destruction
+s. 479 | firstly, secondly, thirdly, fourthly, (a)in (b)where | (a)firstly, (b)secondly, (c)thirdly, (d)fourthly, (i)in (ii)where
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
