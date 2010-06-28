@@ -20,6 +20,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Business Licensing Amendment Act 1995 Pt. 3 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 42 and 46 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 46 reads as follows:
 “
@@ -72,3 +73,12 @@ Section 26 of the principal Act is amended —
 ”.
 The insertion of s. 12A in the Business Licensing Amendment Act 1995 s. 9 would conflict with an amendment in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 226.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 13 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+17.Debt Collectors Licensing Act 1964
+s. 8(2) | (2)(a)Subject (i)testimonials (ii)the (b)The prescribed | (2A)Subject (a)testimonials (b)the (2B)The prescribed
+s. 8(5) | (5)(a)The (b)Any paragraph (a), (c)Where | (5A)The (5B)Any subsection (5A), (5C)Where
+s. 8(10) | subsection (2)(a)(i), | subsection (2A)(a),
+s. 21(1) | (1)(a)A fidelity (b)The notice (c)The obligation (i)in respect (ii)for the | (1A)A fidelity (1B)The notice (1C)The obligation (a)in respect (b)for the
