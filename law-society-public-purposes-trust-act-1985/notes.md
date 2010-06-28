@@ -7,6 +7,10 @@ Acts Amendment (Contributions to Legal Aid Funding) Act 1990 Pt. 2 | 86 of 1990 
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 46 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Reprint 1: The Law Society Public Purposes Trust Act 1985 as at 6 Feb 2004 (includes amendments listed above)
 Legal Profession Act 2008 s. 673 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Associations Incorporation Act 1987.
 Section 5 expired 30 June 1994. It reads as follows:
 “
@@ -25,3 +29,12 @@ but in all other respects upon the trusts declared by the Trust Deed.
 (4) This section expires on 30 June 1994.
 [Section 5 inserted by No. 86 of 1990 s. 5.]
 ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Act | Identifier | Title | Shoulder note
+Law Society Public Purposes Trust Act 1985 | Schedule | Law Society Public Purposes Trust Deed
