@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 July 2007 of the Constitution Act 1889 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Constitution Act 1889 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 The Constitution Act 1889 | 1889 (52 Vict. No. 23) | Reserved for Royal Assent 29 Apr 1889. Assented to 15 Aug 1890 | Act except for Pt. III: 21 Oct 1890 (see s. 77 and Gazette 23 Oct 1890 p. 790-1); Pt. III: 18 Oct 1893 (see s. 42 and Gazette 18 Jul 1893 p. 727)
@@ -32,6 +32,10 @@ Constitution (Parliamentary Privileges) Amendment Act 2004 Pt. 2 | 41 of 2004 | 
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 3 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 5(1) | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 6: The Constitution Act 1889 as at 13 Jul 2007 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 13 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 N.B.:The Constitution Act 1889 was or is affected by —
 An Act to augment Ministerial Salaries. 55 Vict. No. 23 (1892). (Repealed by 60 Vict. No. 18.)
 The Officers of Parliament Act 1893. (56 Vict. No. 17). (Repealed by 63 Vict. No. 19.)
@@ -60,3 +64,8 @@ See Western Australia Constitution Act 1890 (U.K.) (53 and 54 Vict. c. 26) s. 2 
 [Note the proviso was amended by the Australian States Constitution Act 1907 (U.K.) (7 Ed. VII c. 7).]
 Now known as the Constitution Act 1889; short title amended (see note under s. 78).
 The Aborigines Act 1905 commenced on 23 April 1906 (see s. 1 and Gazette 20 Apr 1906 p. 1221, 21 Apr 1906 p. 1261 and 27 Apr 1906 p. 1263). It is not clear why there were 3 Gazettals.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 13 had not come into operation. It reads as follows:
+13.Constitution Act 1889 amended
+(1) This section amends the Constitution Act 1889.
+(2) Delete section 71.
+(3) Delete Schedule D.
