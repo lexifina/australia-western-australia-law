@@ -22,6 +22,10 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 2
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 4: The Queen Elizabeth II Medical Centre Act 1966 as at 6 Feb 2009 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 105 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 27 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Queen Elizabeth II Medical Centre Amendment Act 1985 s. 9 reads as follows:
 “
 9.Validation
@@ -63,6 +67,27 @@ Minister means the Minister in whom the management of a teaching hospital is ves
 principal Act means the Queen Elizabeth II Medical Centre Act 1966;
 teaching hospital means a hospital to which section 16(1) of the principal Act applies.
 ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 27 and 51 had not come into operation. They read as follows:
+27.Queen Elizabeth II Medical Centre Act 1966 amended
+(1) This section amends the Queen Elizabeth II Medical Centre Act 1966.
+(2) In the Schedule:
+(a) delete “The Schedule”;
+(b) delete “Part I”,
+and insert:
+Schedule — Medical centre land
+[s. 4, 5 and 6]
+Part I — Original land
+(3) In the Schedule delete “Part II” and insert:
+Part II — Further land
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+69.Queen Elizabeth II Medical Centre Act 1966
+s. 4(2) | (2)(a)The (b)On the | (2)The (3)On the
+s. 7(4) | (4)(a)The member (b)The Vice | (4A)The member (4B)The Vice
+s. 13(2a)(b) | subsection (3); and | subsection (3A); and
+s. 13(2m)(b) and (2o)(a) | subsection (3); | subsection (3A);
+s. 13(3) | (3)(a)The Trust (b)The Treasurer this subsection | (3A)The Trust (3B)The Treasurer subsection (3A)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
