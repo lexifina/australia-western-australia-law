@@ -11,10 +11,19 @@ Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Fe
 Legal Profession Act 2008 s. 670 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 82 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
  | Reprint 2: The Jurisdiction of Courts (Cross-vesting) Act 1987 as at 24 Jul 2009 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 50 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Federal Courts (State Jurisdiction) Act 1999 s. 21 had not come into operation when it was deleted by the Acts Amendment (Federal Courts and Tribunals) Act 2001 s. 16.
 The Jurisdiction of Courts (Cross-vesting) Amendment Act 1994 s. 7 reads as follows:
 7.Application
 Despite the amendments of the principal Act made by this Part, the principal Act as in force immediately before the commencement of section 5 of this Act continues to apply in relation to a proceeding pending in a court to which section 6 of the principal Act applied before that commencement.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 50 had not come into operation. It reads as follows:
+50.Heading to preamble
+(1) This section amends the Acts listed in the Table.
+(2) In each Act listed in the Table after the long title insert:
+Preamble
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
