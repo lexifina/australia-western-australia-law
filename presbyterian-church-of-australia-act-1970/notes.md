@@ -9,6 +9,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Presbyterian Church of Australia Act 1970 s. 7 | 91 of 1970 | 30 Nov 1970 | Notice to be published (see s. 7(2))
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 As at the date of this compilation a notice under s. 2(1)(c) had not been published in the Gazette.
 Notice under s. 4(1)(b) see Gazette 3 Dec 1971 p. 5009.
 As at the date of this compilation the Presbyterian Church of Australia Act 1970 s. 7 had not come into operation (see note 2). It reads as follows:
@@ -43,3 +44,12 @@ Presbyterian Church of Australia Act 1901;
 Presbyterian Church Act 1908;
 Presbyterian Church Act Amendment Act 1919;
 Presbyterian Church Act Amendment Act 1924.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Act | Identifier | Title | Shoulder note
+Presbyterian Church of Australia Act 1970 | Schedule | Basis of Union | [s. 2]
