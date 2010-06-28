@@ -16,6 +16,10 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 Casino (Burswood Island) Agreement Amendment Order 2007 (see Gazette 12 Jun 2007 p. 2731-5) | 12 Jun 2007
 Reprint 2: The Casino (Burswood Island) Agreement Act 1985 as at 1 Feb 2008 (includes amendments listed above)
 Casino (Burswood Island) Agreement Amendment Act 2008 | 17 of 2008 | 16 Apr 2008 | s. 1 and 2: 16 Apr 2008 (see s. 2(a)); Act other than s. 1 and 2: 17 Apr 2008 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Liquor Licensing (Moratorium) Act 1983 expired on 31 December 1986.
 The Liquor Act 1970 was repealed by the Liquor Licensing Act 1988 which is now known as the Liquor Control Act 1988.
 Lands and Surveys and Department of Land Administration plans and surveys are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
@@ -25,6 +29,24 @@ On the date as at which this compilation was prepared the title of the Minister 
 The Land Act 1933 was repealed by the Land Administration Act 1997.
 The page number index to the Agreement set out in Schedule 1 does not reflect the relevant page numbers of this compilation.
 Marginal notes in the agreements have been represented as bold headnotes in this compilation but that does not change their status as marginal notes.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Act | Identifier | Title | Shoulder note
+Casino (Burswood Island) Agreement Act 1985 | Schedule 1 | Casino (Burswood Island) Agreement
+Schedule 2 | Supplementary Agreement
+Schedule 3 | Second Supplementary Agreement
+Schedule 4 | Seventh Supplementary Agreement
+Schedule 5 | Third Supplementary Agreement
+Schedule 6 | Fourth Supplementary Agreement
+Schedule 7 | Fifth Supplementary Agreement
+Schedule 8 | Sixth Supplementary Agreement
+Schedule 9 | Eighth Supplementary Agreement
+Schedule 10 | Ninth Supplementary Agreement
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
