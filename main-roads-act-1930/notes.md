@@ -48,6 +48,10 @@ Statutes (Repeals and Minor Amendments) Act 1997, section 84 | 57 of 1997 | 15 D
 Reprinted as at 28 Jan 2000
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 13 Div 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 44(2) and 63 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Proclamation published in Gazette 28 November 1930 p. 2564.
 Section 5 of the Main Roads Amendment Act 1984 (No. 38 of 1984) reads as follows —
 “
@@ -57,3 +61,39 @@ Where before the coming into operation of this Act a person was appointed by the
 Under section 112(1) of the Public Sector Management Act 1994 references to the Public Service Act 1978 may be construed as references to the Public Sector Management Act 1994 (No. 31 of 1994).
 Section 35 was renumbered as section 34 in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia).
 The Limitation Act 1935 s. 48A and the Second Schedule were inserted by No. 73 of 1954 s. 8.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 44(2) and 63 had not come into operation. They read as follows:
+44.Ad hoc headings
+(1) This section amends the Acts listed in Tables 1 and 2.
+(2) In each Act listed in Table 1 before each section listed in the Table delete the heading and insert the heading or headings set out in the Table in relation to that section.
+3.Main Roads Act 1930
+s. 1 | Part 1 — Preliminary
+s. 7 | Part 2 — Commissioner of Main Roads
+s. 12A | Part 3 — Main Roads Advisory Board
+s. 13 | Part 4 — Highways and main roads
+s. 16 | Part 5 — Powers and duties of Commissioner
+s. 24 | Part 6 — Secondary roads
+s. 27A | Part 7 — Roads other than declared roads
+s. 28 | Part 8 — Motor traffic passes
+s. 28A | Part 9 — Control of access
+s. 31 | Part 10 — Main Roads Trust Account
+s. 33B | Part 11 — Control of advertisements
+s. 35 | Part 12 — Regulations
+63.Main Roads Act 1930 amended
+(1) This section amends the Main Roads Act 1930.
+(2) In section 32(1):
+(a) delete “the Inner Metropolitan Councils’ Urban Road Account or the Outer Metropolitan Councils’ Urban Road Account maintained under subsection (5)(f) or”;
+(b) delete paragraph (d);
+(c) in paragraph (e) delete “fourthly,” and insert:
+thirdly,
+(3) Delete section 32(2) to (13).
+(4) Delete the Second Schedule.
+(5) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+s. 17 | (1)carry out (a)what (b)the nature (c)the most (d)what (2)conduct (3)record, (4)purchase | (a)carry out (i)what (ii)the nature (iii)the most (iv)what (b)conduct (c)record, (d)purchase
+s. 20(2) | access: Provided that, before | access. (3)Before
+s. 28A(1) | (1)(a)Where (i)that any (ii)that any (b)On the (i)that such (ii)that the (c)Where (d)If of (e)Proclamations this subsection, (f)The powers | (1A)Where (a)that any (b)that any (1B)On the (a)that such (b)that the (1C)Where (1D)If of (1E)Proclamations subsection (1B) or (1D), (1F)The powers
+s. 28A(2) | (2)(a)There (b)Where of paragraph (a) (c)The amount paragraph (d) or paragraph (e) in paragraph (j). (d)If the to in paragraph (c) (e)If the mentioned in paragraph (c) (f)The Commissioner (g)By an (i)on the (ii)to pay (iii)to the (h)Where of this subsection (i)For the subsection, section 207 of subsection (1). (j)(i)Where agreement, if any, paragraph (g)(iii); benefit, if any, (ii)Where there in subparagraph (i), | (2A)There (2B)Where of subsection (2A) (2C)The amount subsection (2D) or (2E) in subsection (2J). (2D)If the to in subsection (2C) (2E)If the mentioned in subsection (2C) (2F)The Commissioner (2G)By an (a)on the (b)to pay (c)to the (2H)Where of subsections (2A) to (2K) (2I)For the subsections (2A) to (2K), section 207 of subsection (1B) or (1D). (2J)Where (a)agreement, if any, subsection (2G)(c); and (b)benefit, if any, (2K)Where there in subsection (2J),
+s. 28A(3) | The provisions of — section 13(4); sections 15 to 19, both inclusive; sections 21 to 23 both inclusive; and sections 29 to 35 both inclusive, of this Act, apply, | Sections 13(4), 15 to 19, 21 to 23 and 29 to 35 apply,
+s. 28A(5) | (5)(a)The (b)The provisions | (5A)The (5B)The provisions
+s. 33B(2) | (2)(a)Any person (b)The Minister (c)The decision | (2A)Any person (2B)The Minister (2C)The decision
