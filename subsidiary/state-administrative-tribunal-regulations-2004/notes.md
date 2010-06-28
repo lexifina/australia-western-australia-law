@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 February 2010 of the State Administrative Tribunal Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the State Administrative Tribunal Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 State Administrative Tribunal Regulations 2004 | 30 Dec 2004 p. 6747-848 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7129)
@@ -12,6 +12,10 @@ State Administrative Tribunal Amendment Regulations 2008 | 27 Jun 2008 p. 3064-7
 State Administrative Tribunal Amendment Regulations 2009 | 4 Sep 2009 p. 3479-83 | r. 1 and 2: 4 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2009 (see r. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 10 assented to 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Reprint 2: The State Administrative Tribunal Regulations 2004 as at 19 Feb 2010 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Nurses Act 1992 was repealed by the Nurses and Midwives Act 2006.
 The Occupational Therapists Registration Act 1980was repealed by the Occupational Therapists Act 2005.
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
@@ -26,6 +30,12 @@ The Medical Act 1894 was repealed by the Medical Practitioners Act 2008.
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Gas (Standards) Act 1947 was repealed by the Gas Standards Act 1972.
 The Legal Contribution Trust Act 1967was repealed by the Legal Profession Act 2008.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+49.State Administrative Tribunal Regulations 2004 (consequential amendments)
+Sch. 5 it. for Motor Vehicle Drivers Instructors Act 1963 | s. 10(2)(a) | s. 10(2)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
