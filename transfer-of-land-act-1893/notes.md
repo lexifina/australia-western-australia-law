@@ -77,6 +77,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 9 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 38 and 43(2) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
 The Transfer of Land Amendment Act 1996 s. 6(2) reads as follows:
@@ -191,6 +192,170 @@ for Lands
 32.Section 198 amended
 In section 198 after “them” insert:
 or of the Minister for Lands
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 38, 43(2) and 51 had not come into operation. They read as follows:
+38.Transfer of Land Act 1893 amended
+(1) This section amends the Transfer of Land Act 1893.
+(2) In section 4(3) delete “Schedule 9A” and insert:
+the Tenth Schedule
+(3) In section 65(3) delete “Schedule 9A” and insert:
+the Tenth Schedule
+(4) In the First Schedule:
+(a) delete “First Schedule”;
+(b) delete “[Section 2]”;
+(c) delete “Western Australia”,
+and insert:
+First Schedule — Acts repealed
+[s. 2]
+(5) In the Second Schedule:
+(a) delete “Second Schedule”;
+(b) delete “[Section 20]”,
+and insert:
+Second Schedule — Application to bring land under Act
+[s. 20]
+(6) In the Third Schedule:
+(a) delete “Third Schedule”;
+(b) delete “[Section 24]”,
+and insert:
+Third Schedule — Notice to be posted on land
+[s. 24]
+(7) In the Fourth Schedule:
+(a) delete “Fourth Schedule”;
+(b) delete “[Section 222]”,
+and insert:
+Fourth Schedule — Application to be registered as proprietor by possession
+[s. 222]
+(8) In the Ninth Schedule:
+(a) delete “Ninth Schedule”;
+(b) delete “[Section 65]”;
+(c) delete “Western Australia”,
+and insert:
+Ninth Schedule — Creation of rights of carriage-way
+[s. 65]
+(9) In Schedule 9A:
+(a) delete “Schedule 9A”;
+(b) delete “Short and long forms of certain easements”;
+(c) delete “[Section 65(3)]”,
+and insert:
+Tenth Schedule — Short and long forms of certain easements
+[s. 65(3)]
+(10) In the Twelfth Schedule:
+(a) delete “Twelfth Schedule”;
+(b) delete “[Section 94]”,
+and insert:
+Twelfth Schedule — Short form of covenants by lessee
+[s. 94]
+(11) In the Sixteenth Schedule:
+(a) delete “Sixteenth Schedule”;
+(b) delete “[Section 115]”,
+and insert:
+Sixteenth Schedule — Short form of covenant by mortgagor to insure
+[s. 115]
+(12) In the Nineteenth Schedule delete “Nineteenth Schedule” and insert:
+Nineteenth Schedule — Power of Attorney
+[s. 143(1)]
+(13) In the Twenty-fourth Schedule:
+(a) delete “Twenty-fourth Schedule”;
+(b) delete “[Section 172]”,
+and insert:
+Twenty-fourth Schedule — Form of application to amend certificate or amend or replace relevant graphic
+[s. 172]
+(14) In the Twenty-fifth Schedule:
+(a) delete “Twenty-fifth Schedule”;
+(b) delete “[Section 180]”,
+and insert:
+Twenty-fifth Schedule — Form of summons
+[s. 180]
+(15) In the Twenty-sixth Schedule:
+(a) delete “Twenty-sixth Schedule”;
+(b) delete “[Section 237]”;
+(c) delete “Western Australia”;
+(d) delete “Table A”;
+(e) delete “General Conditions of Sale”,
+and insert:
+Twenty-sixth Schedule — General conditions of sale
+[s. 237]
+Table A
+(16) In the Twenty-eighth Schedule:
+(a) delete “Twenty-eighth Schedule”;
+(b) delete “[Section 81B]”,
+and insert:
+Twenty-eighth Schedule — Application to register Crown lease
+[s. 81B]
+43.Part heading inserted before section 1
+(1) This section amends the Acts listed in Tables 1 and 2.
+(2) In the Acts listed in Table 1 before section 1 insert:
+Part IA — Preliminary
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+85.Transfer of Land Act 1893
+s. 2(1) | repealed. Provided that such | repealed. (1A)Such
+s. 20 | Land alienated Schedule; which (i)the person (ii)persons (iii)persons (iv)the person (v)trustees (vi)the guardian (vii)a tenant Provided always that a thereto; nor a mortgagee name. Provided also that the | (1)Land alienated Schedule. (2)The (a)the person (b)persons (c)persons (d)the person (e)trustees (f)the guardian (g)a tenant (3)Despite subsection (2), a thereto. (4)Despite subsection (2), a mortgagee shall not be entitled to make such application name. (5)Despite subsection (2), the
+s. 20A | In applications evidence — recitals, 20 years, and an applicant negative, except agents, the | (1)In applications evidence recitals, 20 years. (2)In applications to bring land under the Act an applicant negative, except agents, the
+s. 22 | If it Act. The | (1)If it Act. (2)The
+s. 23 | The Registrar land. Notwithstanding | (1)The Registrar land. (2)Notwithstanding
+s. 30 | Any person Act. Every claimed; and the Registrar interest. Unless lapse. A caveat | (1)Any person Act. (2)Every claimed. (3)The Registrar interest. (4)Unless lapse. (5)A caveat
+s. 31 | The Registrar judge. The | (1)The Registrar judge. (2)The
+s. 32 | After Act. A caveat | (1)After Act. (2)A caveat
+s. 33 | After an fix. All | (1)After an fix. (2)All
+s. 35 | Upon memorandum. Provided always that if same. No person Commissioner. No | (1)Upon memorandum. (2)Despite subsection (1), if same. (3)No person Commissioner. (4)No
+s. 39 | Land leased land. The Act. Every notification. The | (1)Land leased land. (2)The Act. (3)Every notification. (4)The
+s. 61 | Upon thereto. Two property. In | (1)Upon thereto. (2)Two property. (3)In
+s. 62 | Before made; after the expiration of which necessary. The | (1)Before made. (2)After the expiration of that necessary. (3)The
+s. 68(1) | purchaser. Provided always that the | purchaser. (1A)Despite subsection (1), the
+s. 69 | Notwithstanding writing. And notwithstanding the proviso to the said last preceding section | (1)Notwithstanding writing. (2)Notwithstanding section 68(1A)
+s. 74 | The Registrar required. If entered. If entered. The freehold. Provided always that before | (1)The Registrar required. (2)If entered. (3)If entered. (4)The freehold. (5)Despite subsections (1) to (4), before
+s. 75(1) | Provided that the | (1AA)The
+s. 82(1) | form. Upon | form. (1A)Upon
+s. 83 | By virtue thereof. Provided always that nothing | (1)By virtue thereof. (2)Nothing
+s. 92 | (i)that he (ii)that he | (a)that he (b)that he
+s. 93 | (1)that he (2)that in | (a)that he (b)that in
+s. 94 | Whenever number. There | (1)Whenever number. (2)There
+s. 98 | A lease witness. The made. Upon term; and production surrendered. Provided that no | (1)A lease witness. (2)The made. (3)Upon term. (4)Production surrendered. (5)Despite subsection (1), no
+s. 103 | the following covenant transferees (that is to say): That he | a covenant transferees that he
+s. 104(1) | section 93(2) | section 93(b)
+s. 109(1) | (1)The purchase money arising from the sale of the mortgaged or charged land shall be applied as follows: If the sale be by the mortgagee or his transferees — First (first occurrence) behalf; secondly mortgage; thirdly priorities; and the mortgagor. Provided always that if If the sale be by the annuitant or his transferees — First (second occurrence) default; then in payment transferees; and the residue | (1)If mortgaged or charged land is sold by the mortgagee or his transferees, the purchase money arising from the sale shall be applied as follows — (a)firstly behalf; (b)secondly mortgage; (c)thirdly priorities, and the mortgagor. (1A)However, if (1B)If mortgaged or charged land is sold by the annuitant or his transferees, the purchase money arising from the sale shall be applied as follows — (a)firstly default; (b)then in payment transferees, and the residue
+s. 112 | Subject sale. Provided that no rent; and provided also that if | (1)Subject sale. (2)Despite subsection (1), no rent. (3)If
+s. 115 | Whenever transferees. There | (1)Whenever transferees. (2)There
+s. 116 | In addition Act. Nothing | (1)In addition Act. (2)Nothing
+s. 117 | A mortgagor consent. Provided however that if | (1)A mortgagor consent. (2)Despite subsection (1), if
+s. 119 | Any mortgagee parties. Provided always that every | (1)Any mortgagee parties. (2)Every
+s. 121(1) | foreclosure; and such mortgage. Such require; and the | foreclosure. (1A)Such mortgage. (1B)Such require. (1C)The
+s. 126(1) | accrue; and the mortgage; and if section 74B(2). The respectively. The Account. For the purposes of this subsection the words mortgage | accrue. (1A)The mortgage. (1B)If section 74B(2). (1C)The respectively. (1D)The Account. (1E)In subsections (1) to (1D) — mortgage
+s. 130 | A corporation seal. The | (1)A corporation seal. (2)The
+s. 136 | Where part sealed. Provided always that if part. Provided also that where | (1)Where part sealed. (2)If part. (3)Where
+s. 137(1) | caveat. Every agent. The caveat. If void. A caveat | caveat. (1A)Every agent. (1B)The caveat. (1C)If void. (1D)A caveat
+s. 143(1) | thereof. Every | thereof. (1A)Every
+s. 152 | Every land. Provided that nothing | (1)Every land. (2)Nothing
+s. 154 | (i)have (ii)have | (a)have (b)have
+s. 155 | From and represented; and such line. No action limits; and in | (1)From and represented. (2)Such line. (3)No action limits. (4)In
+s. 156 | On any fit. All | (1)On any fit. (2)All
+s. 162 | After land; such Commissioner. But it | (1)After land. (2)Such Commissioner. (3)It
+s. 163(1) | thereof. And the | thereof. (1A)The
+s. 168 | On an both. Any mentioned; and abuttals | (1)On an both. (2)Any mentioned. (3)Abuttals
+s. 169 | For the abuttal: Any water-course; and mention | (1)For the abuttal — any water-course. (2)Mention
+s. 188 | The Registrar the following power and duties (that is to say): (i)He may (ii)He shall Act; but in same; and in section 74B(2); and every (iii)He shall (iv)He may, | (1)The Registrar the powers and duties set out in subsections (2) to (8). (2)The Registrar may (3)The Registrar shall Act. (4)In same. (5)In section 74B(2). (6)Every (7)The Registrar shall (8)The Registrar may,
+s. 189 | The Registrar Authority. Provided always that such correction section 188(ii) | (1)The Registrar Authority. (2)Such correction must section 188(3) to (6)
+s. 196(1) | damages. Provided always that any Court. Provided also that the | damages. (1A)Any Court. (1B)The
+s. 199 | (i)the case (ii)the case (iii)the case (iv)the case (v)the case (vi)the case | (a)the case (b)the case (c)the case (d)the case (e)the case (f)the case
+s. 201 | Any person misdescription. Provided always that except contained; and in defendant; and all accordingly. Provided also that in | (1)Any person misdescription. (2)Despite subsection (1), except contained. (3)In defendant. (4)All accordingly. (5)In
+s. 203 | If upon proprietor. Upon order and all | (1)If upon proprietor. (2)Upon order. (3)All
+s. 205 | Any person damages; in estimating which | (1)Any person damages. (2)In estimating those
+s. 207 | Any person damages. And where | (1)Any person damages. (2)Where
+s. 208 | Any person declaration. If | (1)Any person declaration. (2)If
+s. 211 | No action deprivation. Provided nevertheless that any deprivation. The | (1)No action deprivation. (2)Despite subsection (1), any deprivation. (3)The
+s. 212 | In the tried. Provided that the | (1)In the tried. (2)Despite subsection (1), the
+s. 219 | A devisee necessary. Such property. The | (1)A devisee necessary. (2)Such property. (3)The
+s. 220 | Such transmitted. Upon thereof. Provided always that the thereof. The | (1)Such transmitted. (2)Upon thereof. (3)The thereof. (4)The
+s. 221 | Any person transmission. Such section. If | (1)Any person transmission. (2)Such section. (3)If
+s. 222 | Any person title. Such | (1)Any person title. (2)Such
+s. 223 | Such land. Upon | (1)Such land. (2)Upon
+s. 223A | A person application. Such | (1)A person application. (2)Such
+s. 229 | The proprietor person; but nevertheless such | (1)The proprietor person. (2)Such
+s. 231 | If upon thereof. In fit. Provided always that no metre. Provided also that the | (1)If upon thereof. (2)In fit. (3)Despite subsection (1), no metre. (4)The
+s. 232 | On any form. Provided that documents | (1)On any form. (2)Documents
+s. 234 | Every thereof. All | (1)Every thereof. (2)All
+s. 242(1) | (1)(a)Where (b)If the (c)The disposition disposition: Provided that nothing in this subsection | (1A)Where (1B)If the (1C)The disposition disposition. (1D)Nothing in subsections (1A) to (1C)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
