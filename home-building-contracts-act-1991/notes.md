@@ -23,6 +23,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Caravan Parks and Camping Grounds Act 1995 s. 33 | 34 of 1995 | 29 Sep 1995 | To be proclaimed (see s. 2)
+Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Building Legislation Amendment Act 2000 s. 59 and 62 read as follows:
 “
 59.References to Committee in other written laws
@@ -40,3 +41,22 @@ Schedule 2 item 3 reads as follows:
 “
 3. | Home Building Contracts Act 1991 | In the definition of “dwelling” in section 3(1), insert after “residence” the following — “, but does not include a park home, as defined in the Caravan Parks and Camping Grounds Act 1995 ”.
 ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 and 51 had not come into operation. They read as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Table
+Act | Identifier | Title | Shoulder note
+Home Building Contracts Act 1991 | Schedule 1
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+29.Home Building Contracts Act 1991
+Sch. 1 cl. 1 | 1.If any | 1.Failure by builder If any
+Sch. 1 cl. 2 | 2.If any | 2.Failure by owner If any
+Sch. 1 cl. 3 | 3.If any | 3.Failure by builder and owner If any
+Sch. 1 cl. 4 | 4.Where | 4.Rights of builder and owner Where
+Sch. 1 cl. 5 | 5.(1)If the | 5.Right of review (1)If the
