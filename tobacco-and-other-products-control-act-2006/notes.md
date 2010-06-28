@@ -12,6 +12,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Tobacco Products Control Amendment Act 2009 s. 3-13 | 22 of 2009 | 22 Sep 2009 | 23 Sep 2010 (see s. 2(b))
+ | Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Tobacco Control Act 1990 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 On the date as at which this compilation was prepared, the Tobacco Products Control Amendment Act 2009 s. 3-13 had not come into operation. They read as follows:
@@ -125,6 +126,12 @@ restaurant licence, in relation to a place, means —
 (i)to the effect that a provision of that Act relating to restaurant licences applies to that place; or
 (ii)that otherwise has an effect in relation to that place that is similar to a provision of that Act relating to restaurant licences;
 smoking zone means a place allocated under section 107B(4);
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+84.Tobacco Products Control Act 2006
+Glossary | In this Act — | 1.Terms used In this Act —
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
