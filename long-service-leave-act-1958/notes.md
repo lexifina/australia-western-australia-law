@@ -19,6 +19,10 @@ Labour Relations Legislation Amendment Act 2006 Pt. 7 Div. 2 | 36 of 2006 | 4 Ju
 Reprint 4: The Long Service Leave Act 1958 as at 1 Sep 2006 (includes amendments listed above)
 Legal Profession Act 2008 s. 676 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Training Legislation Amendment and Repeal Act 2008 s. 54 | 44 of 2008 | 10 Dec 2003 | 10 Jun 2009 (see s. 2(2))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Statute Law Revision Act 1950 of the Commonwealth.
 Repealed by the Defence Legislation Amendment Act 1992 of the Commonwealth.
 Repealed by the Industrial Relations (Consequential Provisions) Act 1988 of the Commonwealth.
@@ -49,3 +53,10 @@ The LSL General Order is repealed.
 (5) In this section —
 commencement means the coming into operation of the Labour Relations Legislation Amendment Act 2006 Part 7 Division 2.
 ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+43.Long Service Leave Act 1958
+s. 6(2)(a) | subsection (4); | subsections (4) and (5);
+s. 6(4) | (4)(i)Where (ii)In this subsection transmission includes | (4)Where (5)In subsection (4) — transmission includes
