@@ -45,6 +45,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 95 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Now known as the Wildlife Conservation Act 1950; short title changed (see note under s. 1).
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The amendments in the Statutes (Repeals and Minor Amendments) Act 1997 s. 132(23) to s. 15(1a) and (16) and 23C(2a) are not included because the provisions to be amended were repealed by s. 132(3) and (13) of that Act.
@@ -57,3 +58,21 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 a declared pest as that term is defined in the Biosecurity and Agriculture Management Act 2007
 ”.
 ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+97.Wildlife Conservation Act 1950
+s. 14(2) | (2)(a)Subject time declare — that any of fit, and for these purposes may from time to time by notice published in the Government Gazette declare — a close season (b)The Minister (ba)The Minister (i)such (ii)a person (c)A declaration | (2)Subject time, by notice published in the Government Gazette — (a)declare that any of fit; and (b)for these purposes declare a close season (3)The Minister (4)The Minister (a)such (b)a person (5)A declaration
+s. 15(2) | (2)(a)The Minister (b)Where (c)Where (ca)The Minister (i)the (ii)a licence (d)Where | (2A)The Minister (2B)Where (2C)Where (2CA) The Minister (a)the (b)a licence (2D)Where
+s. 15(3) | (3)(a)The Minister (b)Where (c)Every | (3A)The Minister (3B)Where (3C)Every
+s. 15A(1) | section 14(2)(a) | section 14(2)
+s. 16(1) | section 14(2), the authority (first occurrence) the authority (second occurrence) | section 14(2) to (5), (a)the authority (b)the authority
+s. 16(1a) | section 14(2)(ba) | section 14(4)
+s. 16(2) | section 14(2) | section 14(2) to (5)
+s. 18(1) | (1)(a)Subject paragraph (b), (aa)The (b)The (c)The | (1A)Subject subsection (1B), (1AA) The (1B)The (1C)The
+s. 18(2) | subsection (1)(b). | subsection (1B).
+s. 20(2) | any weapon, any fauna (first occurrence) | (i)any weapon, (ii)any fauna
+s. 20(3) | (3)(a)If it (i)anything (ii)anything (iii)anything (b)The (c)Where | (3A)If it (a)anything (b)anything (c)anything (3B)The (3C)Where
+s. 23(1) | person — who 1972, may flora — upon land, sufficient sale — and the Governor | person who 1972, may flora upon land, sufficient sale. (1A)The Governor
+s. 27(1) | offender — if orders, be | offender, if orders, be
