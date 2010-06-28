@@ -70,6 +70,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 (as amended by No. 42 of 2004 s. 155) | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Standardisation of Formatting Act 2010 s. 4, 42(3) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The name of the State Government Insurance Commission was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8 (see also note 47).
 Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia (see also note 47).
 Repealed by the Industrial Relations (Consequential Provisions) Act 1998 (C’th). Now see Workplace Relations Act 1996 (C’th).
@@ -410,6 +411,30 @@ Section 5(1) | (a)After the definition of “industrial disease premium”, inse
 Section 162(1) | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
 Section 163 | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
 [Item 16 amended by No. 42 of 2004 s. 155(2)(a).]
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4, 42(3) and 51 had not come into operation. They read as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Table
+Act | Identifier | Title | Shoulder note
+Workers’ Compensation and Injury Management Act 1981 | Schedule 1 |  | [s. 18]
+Schedule 2 |  | [s. 24]
+Schedule 3 |  | [s. 32]
+Schedule 4 |  | [s. 49]
+42.“The Schedules” and “Schedules” headings deleted
+(1) This section amends the Acts listed in Tables 1 and 2.
+(3) In each Act listed in Table 2 before the first of the Schedules to the Act delete “Schedules”.
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+100.Workers’ Compensation and Injury Management Act 1981
+s. 26(1) | (1)When, by a compensable use of — any part or Schedule 2 — and by subsequent use of — that part or faculty of the body — | (1)When — (a)by a compensable use of any part or Schedule 2; and (b)by subsequent use of that part or faculty of the body,
+s. 26(2) | table — whether in one use of — that part or faculty of the body — or in several use of — that part or faculty of the body, then | table, whether — (a)in one use of that part or faculty of the body; or (b)in several use of that part or faculty of the body, then
+s. 46(2) | compensation — that payment, in respect | compensation that payment, in respect
+s. 154(2) | of it — (a)to WorkCover allow; stating | of it to WorkCover allow, stating
 Under s.45 the following order in council was published in Gazette 19 June 2009 p 2253:
 Workers’ Compensation and Injury Management Act 1981
 Workers’ Compensation and Injury Management (Specified Industrial Diseases) Order 2008
