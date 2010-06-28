@@ -22,6 +22,10 @@ Coal Miners’ Welfare Amendment Act 2006 | 17 of 2006 | 17 May 2006 | 1 Jan 200
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 3: The Coal Miners’ Welfare Act 1947 as at 22 Feb 2008 (includes amendments listed above)
 Acts Amendment (Bankruptcy) Act 2009 s. 16 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 43(3) | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
 The Coal Mines Legislation Amendment and Revival Act 1998 Pt. 3 reads as follows:
 “
@@ -73,6 +77,13 @@ before the commencement of this Act is as valid and effective as it would have b
 12.Expiry of revived provisions
 When the Minister is satisfied that there are no moneys in the Relief Fund and no moneys to be paid into the Relief Fund, the Minister is to make an order to that effect, and publish that order in the Gazette.
 ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 43(3) had not come into operation. It reads as follows:
+43.Part heading inserted before section 1
+(1) This section amends the Acts listed in Tables 1 and 2.
+(3) In the Acts listed in Table 2:
+(a) before section 1 insert:
+Part I — Preliminary
+(b) before the section listed in Table 2 for that Act delete the heading to Part I.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
