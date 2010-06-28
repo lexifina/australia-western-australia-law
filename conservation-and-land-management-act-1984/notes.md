@@ -56,6 +56,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of the Offshore Minerals Act 2003 (see s. 2)
+Standardisation of Formatting Act 2010 s. 4, 44(3) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Land Act 1933 was repealed by section 281 of the Land Administration Act 1997.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
 The Acts Amendment (Marine Reserves) Act 1997 s. 7(2) reads as follows:
@@ -240,6 +241,34 @@ Section 4(1) is amended by inserting after “Mining Act 1978,” —
 Section 60(2b) is amended by inserting after “Mining Act 1978,” —
 “ the Offshore Minerals Act 2003, ”.
 ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4, 44(3) and 51 had not come into operation. They read as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Table
+Act | Identifier | Title | Shoulder note
+Conservation and Land Management Act 1984 | Schedule
+44.Ad hoc headings
+(1) This section amends the Acts listed in Tables 1 and 2.
+(3) In each Act listed in Table 2 before each section listed in the Table delete the heading.
+Conservation and Land Management Act 1984 | s. 116 s. 124 s. 125
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+12.Conservation and Land Management Act 1984
+s. 14(3) | (3)(a)Notification (b)Notwithstanding paragraph (a) | (3A)Notification (3B)Notwithstanding subsection (3A)
+Sch. cl. 1 | 1.(1)Except | 1.Term of office of member (1)Except
+Sch. cl. 2 | 2.The office | 2.Vacation of office The office
+Sch. cl. 3 | 3.(1)Where | 3.Acting chairman and members (1)Where
+Sch. cl. 4 | 4.(1)The first | 4.Meetings (1)The first
+Sch. cl. 5 | 5.(1)A controlling | 5.Committees (1)A controlling
+Sch. cl. 5A | 5A.(1)The Conservation | 5A.Temporary advisory committees (1)The Conservation
+Sch. cl. 6 | 6.A resolution | 6.Resolution in writing A resolution
+Sch. cl. 7 | 7.A controlling | 7.Member may be granted leave A controlling
+Sch. cl. 8 | 8.Subject | 8.Controlling body to determine own procedure Subject
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
