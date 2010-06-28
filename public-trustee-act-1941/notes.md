@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 October 2008 of the Public Trustee Act 1941 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Public Trustee Act 1941 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Trustee Act 1941 | 26 of 1941 (5 Geo. VI No. 26) | 8 Dec 1941 | 1 Jul 1942 (see s. 1(2) and Gazette 26 Jun 1942 p. 689)
@@ -44,12 +44,16 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 2
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
 Public Trustee and Trustee Companies Legislation Amendment Act 2008 Pt. 2 | 9 of 2008 | 31 Mar 2008 | 1 Jul 2008 (see s. 2(2) and Gazette 24 Jun 2008 p. 2885)
 Reprint 6: The Public Trustee Act 1941 as at 10 Oct 2008 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed in the First Schedule to this Act.
 The Administration Act 1903 s. 22 was repealed by the Public Trustee Act 1941 s. 3.
 Repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988, and which is now known as the Liquor Control Act 1988.
 Under the Liquor Control Act 1988 Sch. 1A cl. 9 a reference to the Liquor Licensing Court is to be read and construed as a reference to the Liquor Commission.
 Repealed by the Unclaimed Money Act 1990 s. 24.
-Marginal notes in the Public Trustee Act 1941 referring to the legislation from which provisions were derived have been omitted from this reprint.
+Marginal notes in the Public Trustee Act 1941 referring to the legislation from which provisions were derived have been omitted from this compilation.
 The Public Trustee Amendment Act 1984 s. 7(2) is a transitional provision that is of no further effect.
 The Public Trustee Amendment Act 1989 s. 6(2) reads as follows:
 “
@@ -64,6 +68,26 @@ The Public Trustee and Trustee Companies Legislation Amendment Act 2008 s. 25(2)
 “
 (2) The last rates of interest fixed and published in the Gazette before the day on which section 25 of the Public Trustee and Trustee Companies Legislation Amendment Act 2008 comes into operation are to be taken on and after that day to be the rates fixed and published in the Gazette under section 39A(5) of the Public Trustee Act 1941 until rates are fixed under section 39A(5).
 ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 and 51 had not come into operation. They read as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Table
+Act | Identifier | Title | Shoulder note
+Public Trustee Act 1941 | Sixth Schedule | Purchased land
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+67.Public Trustee Act 1941
+s. 16(1) | (1)(a)When (b)Where | (1A)When (1B)Where
+s. 16(2) | (2)(a)When (b)Such balance | (2A)When (2B)The balance referred to in subsection (2A)
+s. 21(4) | sole trustee: Provided that — trustees on any matter relating to the trusts or the estate; and Trustee on any matter relating to the trusts or the estate. | sole trustee. (4A)On any matter relating to the trusts or the estate — trustees; and Trustee.
+s. 37(3) | (3)(a)All moneys (b)The thereupon hold the said moneys (c)Any such sum | (3A)All moneys (3B)The hold money received under subsection (3A) (3C)Any money received under subsection (3A)
+s. 41(2) | Provided that, on | (2A)Despite subsection (2), on
+s. 56(1) | Provided that, where | (1A)Despite subsection (1), where
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
