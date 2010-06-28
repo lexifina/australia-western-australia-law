@@ -34,6 +34,10 @@ Water Legislation Amendment (Competition Policy) Act 2005 Pt. 78 | 25 of 2005 | 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 3: The Water Agencies (Powers) Act 1984 as at 4 Aug 2006 (includes amendments listed above)
 Water Resources Legislation Amendment Act 2007 Pt. 6 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Acts Amendment (Water Authority Rates and Charges) Act 1987 s. 4 reads as follows:
 “
@@ -78,3 +82,10 @@ Now known as the Water Agencies (Powers) Act 1984; short title changed (see note
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 14 contains transitional provisions relating to the replacement of the Water Authority and Waterways Commission with the Water Corporation, Water and Rivers Commission and the Coordinator of Water Services.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+94.Water Agencies (Powers) Act 1984
+s. 5(1) | Metropolitan (first occurrence) 1982. Metropolitan (second occurrence) 1909. Rights 1914. Water Supply, (first occurrence) 1912. Water Supply, (second occurrence) 1981. Country Areas 1947. Country Towns 1948. Land 1925. Water Boards | (a)Metropolitan 1982; (b)Metropolitan 1909; (c)Rights 1914; (d)Water Supply, 1912; (e)Water Supply, 1981; (f)Country Areas 1947; (g)Country Towns 1948; (h)Land 1925; (i)Water Board
+s. 65 | For the Part — (a)unless provided; (b)a reference reticulation, as the case may require, and cognate expressions shall be construed accordingly; and (c)any | (1)For the Part, unless provided. (2)For the purposes of this Part a reference reticulation. (3)For the purposes of this Part any
