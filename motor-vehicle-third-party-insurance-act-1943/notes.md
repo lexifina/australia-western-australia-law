@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 April 2009 of the Motor Vehicle (Third Party Insurance) Act 1943 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Motor Vehicle (Third Party Insurance) Act 1943 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Motor Vehicle (Third Party Insurance) Act 1943 | 32 of 1943 (7 Geo. VI No. 27) | 12 Nov 1943 | 1 Jul 1944 (see s. 1 and Gazette 12 May 1944 p. 375)
@@ -64,6 +64,10 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 Duties Legislation Amendment Act 2008 Sch. 1 cl. 23 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Legal Profession Act 2008 s. 682 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Reprint 12: The Motor Vehicle (Third Party Insurance) Act 1943 as at 24 Apr 2009 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 23 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 For the purposes of s. 3C and 3D, the Amounts A, B, C and D for the financial years beginning after 30 June 1994 up to the date of this reprint are as set out in this Table.
 Financial year beginning | Amount A | Amount B | Amount C | Amount D | Gazette
 1 July 1994 | $201 000 | $10 000 | $30 000 | $5 000 | 24 Jun 1994 p. 2944
@@ -143,6 +147,35 @@ transitional matter means a matter that needs to be dealt with for the purpose o
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State), the rights of that person existing before the day of its publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of its publication.
 ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 23 and 51 had not come into operation. They read as follows:
+23.Motor Vehicle (Third Party Insurance) Act 1943 amended
+(1) This section amends the Motor Vehicle (Third Party Insurance) Act 1943.
+(2) In the Schedule:
+(a) delete “Schedule”;
+(b) delete “INSURANCE POLICY — issued under the MOTOR VEHICLE (THIRD PARTY INSURANCE) ACT 1943”;
+(c) delete “[s. 6]”,
+and insert:
+Schedule — Form of insurance policy
+[s. 6]
+INSURANCE POLICY issued under the Motor Vehicle (Third Party Insurance) Act 1943
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+50.Motor Vehicle (Third Party Insurance) Act 1943
+s. 3(3) | Provided that in | (3A)Despite subsection (3), in
+s. 3(4) | (4)(a)It shall (b)The this subsection | (4)It shall (4B)The subsection (4)
+s. 3R(4) | (4)(a)The Director (b)The Director (c)The Treasurer paragraph (b) | (4A)The Director (4B)The Director (4C)The Treasurer subsection (4B)
+s. 4(3) | (3)(a)Where (b)A person paragraph (a) (c)Upon this subsection, | (3A)Where (3B)A person subsection (3A) (3C)Upon subsection (3A),
+s. 4(5) | Provided that no such proceedings | (5A)Despite subsection (5), no proceedings for an offence under this section
+s. 4(7) | (7)(a)Any (b)The this subsection (c)Any | (7A)Any (7B)The subsection (7A) (7C)Any
+s. 4(9a) | (9a)(a) The Director (b)The any such vehicle | (9)The Director (10)The a vehicle referred to in subsection (9)
+s. 7(1) | unsatisfied: Provided that — (i)when this subsection (each occurrence) commenced; and (ii)the | unsatisfied. (1A)When subsection (1) commenced. (1B)The
+s. 8(1) | Provided that, where execution of such judgment Provided further that, when such judgment was obtained within the State, this subsection | (1A)Where execution of a judgment referred to in subsection (1) (1B)When a judgment referred to in subsection (1) was obtained within the State, that subsection
+s. 8(3) | against it: Provided that — (i)it shall (I)the fact (II)at the (ii)in any (iii)it shall | against it. (4)In an action under subsection (3) — (a)it shall (i)the fact (ii)at the (b)in any (c)it shall
+s. 8(5) | (5)(a)Where — (i)liability (ii)such (iii)such smaller amount: Provided that — (i)such person shall not be entitled so to recover thereof; and (ii)the inquiry | (5)Where — (a)liability (b)such (c)such smaller amount. (6)A person shall not be entitled to recover under subsection (5) thereof. (7)For the purposes of subsection (5), the inquiry
+s. 12(1) | (a)(i)any in respect of bodily injury (including fatal injury) to any person directly caused by, or by the driving of, a motor vehicle which is insured under this Act or is an uninsured vehicle; or arose, the (i)to the (iii)to any paragraph (a), | (a)bodily injury (including fatal injury) to any person directly caused by, or by the driving of, a motor vehicle which is insured under this Act or is an uninsured vehicle occurs and either — (i)any to the person; or arose, the (c)to the (d)to any paragraph (a)(ii),
+s. 21(1) | (1)(a)Where subsection, paragraph (b) (b)If a paragraph (a), that paragraph is, by this paragraph that paragraph, (c)If however of 15 days (i)the motor (ii)the new (iii)the premium | (1A)Where section, subsection (1B) (1B)If a subsection (1A), that subsection is, by this subsection that subsection, (1C)If however of 15 days — (a)the motor (b)the new (c)the premium
+s. 21(2) | subsection (1) | this section
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
