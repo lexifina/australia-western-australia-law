@@ -10,6 +10,10 @@ Reprint of the Pollution of Waters by Oil and Noxious Substances Act 1987 as at 
 Ports and Marine Legislation Amendment Act 2003 Pt. 3 | 71 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2(1))
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Port Authorities (Consequential Provisions) Act 1999.
 On the date as at which this compilation was prepared the amendments to the Western Australian Marine Act 1982 which are to be effected by the Western Australian Marine Amendment Act 1987 s. 6 had not come into operation. The relevant part of s. 6 reads:
 “
@@ -31,6 +35,19 @@ Division 6 — Prevention of Pollution from Ships Convention (Ships Carrying or 
 (5)Orders made in pursuance of the regulations made under subsection (1) shall be read subject to this Act and the regulations and so as not to exceed the power conferred by this Act and the regulations to the intent that where such orders would, but for this subsection, have been construed as being in excess of the power conferred by subsection (1) and the regulations, they shall be deemed to be valid orders to the extent that they are not in excess of that power.
 (6)Where an order made in pursuance of the regulations made under subsection (1) is inconsistent with a provision of this Act or the regulations, the latter shall prevail and the former shall, to the extent of the inconsistency, be of no force or effect.
 ”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Act | Identifier | Title | Shoulder note
+Pollution of Waters By Oil and Noxious Substances Act 1987 | Schedule 1 | 1973 Convention
+Schedule 2 | 1978 Protocol
+Schedule 3 | 1984 amendments to annex to Protocol
+Schedule 4 | 1985 amendments to annex to Protocol
+Schedule 5 | 1985 amendments to Protocol I
 [3] * Reference is made to the Recommendation on International Performance Specifications for Oily-Water Separating Equipment and Oil Content Meters adopted by the Organization by Resolution A.233(VII).
 [4] **Reference is made to “Clean Seas Guide for Oil Tankers”, published by the International Chamber of Shipping and the Oil Companies International Marine Forum.
 [5] * Reference is made to the Recommendation on International Performance Specifications for Oily-Water Separating Equipment and Oil Content Meters adopted by the Organization by Resolution A.233(VII).
