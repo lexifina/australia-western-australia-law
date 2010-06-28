@@ -16,6 +16,7 @@ On the date as at which this was prepared, provisions referred to in the followi
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2)
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Pt. 7 (s. 58-62) and Sch. 2 of this Act had not come into operation when they were deleted by the Training Legislation Amendment and Repeal Act 2008 s. 39 and 48.
 The Acts Amendment (Education Loan Scheme) Act 1998 Pt. 5 reads as follows:
 Part 5 — Transitional
@@ -37,6 +38,16 @@ Act | Provision
 Vocational Education and Training Act 1996 | Sch. 4, cl. 7A
 ...................... | ........
 The Schedule that it seeks to amend has been deleted.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Table
+Act | Identifier | Title | Shoulder note
+Vocational Education and Training Act 1996 | Schedule 1
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
