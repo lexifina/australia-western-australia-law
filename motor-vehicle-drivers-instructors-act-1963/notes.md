@@ -18,6 +18,10 @@ Machinery of Government (Planning and Infrastructure) Amendment Act 2002 Pt. 3 |
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 87 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 3: The Motor Vehicle Drivers Instructors Act 1963 as at 1 Jul 2005 (includes amendments listed above)
 Road Traffic Amendment Act 2006 Pt. 4 Div. 2 | 54 of 2006 | 26 Oct 2006 | 30 Jun 2008 (see s. 2 and Gazette 10 Jun 2008 p. 2471)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
 “
 67.Agreements under former Transport Co-ordination Act 1966 section 15C
@@ -72,3 +76,9 @@ transitional matter means a matter that needs to be dealt with for the purpose o
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 33 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+48.Motor Vehicle Drivers Instructors Act 1963
+s. 10(2) | (2)(a)The | (2)The
