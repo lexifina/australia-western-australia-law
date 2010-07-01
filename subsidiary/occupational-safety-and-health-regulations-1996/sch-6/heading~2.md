@@ -1,6 +1,6 @@
 ## Schedule 6.1A — Fees under Part 3 Division 9
 [r. 3.116.]
-1. | Application for class 1 demolition work licence (reg. 3.116(1)) | $3 905
-2. | Application for class 2 demolition work licence (reg. 3.116(1)) | $2 590
-3. | Application for class 3 demolition work licence (reg. 3.116(1)) | $1 295
-[Schedule 6.1A inserted in Gazette 30 Mar 2001 p. 1783; amended in Gazette 21 May 2002 p. 2595; 27 Jun 2003 p. 2433; 25 Jun 2004 p. 2294; 28 Jun 2005 p. 2912; 27 Jun 2006 p. 2281; 15 Jun 2007 p. 2793; 17 Jun 2008 p. 2574; 23 Jun 2009 p. 2450.]
+1. | Application for class 1 demolition work licence (reg. 3.116(1)) | $3 987
+2. | Application for class 2 demolition work licence (reg. 3.116(1)) | $2 644
+3. | Application for class 3 demolition work licence (reg. 3.116(1)) | $1 322
+[Schedule 6.1A inserted in Gazette 30 Mar 2001 p. 1783; amended in Gazette 21 May 2002 p. 2595; 27 Jun 2003 p. 2433; 25 Jun 2004 p. 2294; 28 Jun 2005 p. 2912; 27 Jun 2006 p. 2281; 15 Jun 2007 p. 2793; 17 Jun 2008 p. 2574; 23 Jun 2009 p. 2450; 25 Jun 2010 p. 2885.]

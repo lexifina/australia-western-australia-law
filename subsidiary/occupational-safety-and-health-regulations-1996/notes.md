@@ -67,6 +67,7 @@ Occupational Safety and Health Amendment Regulations (No. 5) 2009 | 25 Aug 2009 
 Occupational Safety and Health Amendment Regulations (No. 3) 2009 | 22 Dec 2009 p. 5233-50 | r. 1 and 2: 22 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2010 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 7) 2009 | 15 Jan 2010 p. 74-5 | r. 1 and 2: 15 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jan 2010 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations 2010 | 25 May 2010 p. 2276-7 | r. 1 and 2: 25 May 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 26 May 2010 (see r. 2(b))
+Occupational Safety and Health Amendment Regulations (No. 3) 2010 | 25 Jun 2010 p. 2885-6 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Footnote no longer applicable.
 Repealed by the Training Legislation Amendment and Repeal Act 2008.
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
