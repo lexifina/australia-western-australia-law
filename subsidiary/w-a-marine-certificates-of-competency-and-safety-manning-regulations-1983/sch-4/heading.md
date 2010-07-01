@@ -359,3 +359,4 @@ NOTE 8 — For vessels of 50 QN and over but less than 1 500 kW propulsion power
 NOTE 9 — In the case of a vessel fitted with refrigerated equipment associated with the carriage of refrigerated commercial cargo or the refrigerated commercial catch on a commercial vessel, the person in charge of the machinery shall hold a Marine Engine-Driver Grade II certificate with refrigeration endorsement and be a person other than the Master.
 [Schedule 5 amended in Gazette 29 Jun 1984 p. 1760; 11 Aug 1992 p. 3977.]
 [Schedule 6 omitted under the Reprints Act 1984 s. 7(4)(e).]
+·
