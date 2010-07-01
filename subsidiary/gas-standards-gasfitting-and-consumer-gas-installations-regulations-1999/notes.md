@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 August 2009 of the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 | 30 Jul 1999 p. 3499-539 | 30 Jul 1999 (see r. 2)
@@ -19,6 +19,7 @@ Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2008 | 17 Jun 2008 p. 2565-6 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2009 | 23 Jun 2009 p. 2441-2 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 3: The Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 as at 21 Aug 2009 (includes amendments listed above)
+Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2010 | 25 Jun 2010 p. 2865-6 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 The Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2000 r. 16 is a transitional provision that is of no further effect.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
