@@ -83,13 +83,14 @@ Compilation table
  | Legal Profession Act 2008 s. 709 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
  | Reprint 8: The Supreme Court Act 1935 as at 7 Nov 2008 (includes amendments listed above except those in the Bail Amendment Act 2008 and the Legal Profession Act 2008)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 9 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 13 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Standardisation of Formatting Act 2010 s. 4, 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Acts Amendment (Court of Appeal) Act 2004 s. 5(2) and Pt. 5 read as follows:
-“
 5.Sections 6 and 7 replaced by sections 6, 7 and 7A, and transitional provision
 (2) A person who holds any of the offices of which the Court consists immediately before the coming into operation of subsection (1) continues to hold the corresponding office in the General Division when subsection (1) comes into operation.
 Part 5 — Transitional provisions
@@ -105,7 +106,6 @@ then the hearing and determination of the appeal or application may be completed
 39.References to “Full Court” or “Court of Criminal Appeal” to be read as references to “Court of Appeal”
 (1) A reference in a written law or book, document or writing to the Full Court of the Supreme Court (whether those or some other words are used) is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Court of Appeal.
 (2) A reference in a written law or book, document or writing to the Court of Criminal Appeal is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Court of Appeal.
-”.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Companies Act 1961 was superseded by the Companies (Western Australia) Code, see section 18 of the Companies (Application of Laws) Act 1981. The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
 Supreme Court Ordinance 1861 commenced on 18 June 1861. It was repealed by this Act, s. 3.
@@ -116,17 +116,14 @@ Repealed by the Statute Law Revision Act 1967.
 The commencement date was amended by the Judges’ Salaries and Pensions Act 1950 s. 4.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The Courts Legislation Amendment Act 2000 Pt. 6 reads as follows:
-“
 Part 6 — Validation
 26.Validation
 To the extent that, before the coming into operation of section 22, provisions of the Rules of the Supreme Court 1971 related or purported to relate to mediation —
 (a) those provisions are to be regarded as having been validly and lawfully made and published under and within the authority of the Supreme Court Act 1935 and to have always had effect according to their terms; and
 (b) anything done under or purportedly done under those provisions is to be regarded as having been validly done and, to have always been, effectual in all respects.
-”.
 The Acts Amendment (Court of Appeal) Act 2004 s. 14 repealed by the Criminal Law and Evidence Amendment Act 2008 s. 75(2).
 The Courts Legislation Amendment and Repeal Act 2004 s. 128 (to amend s. 20) was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(5).
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
-“
 Part 22 — Transitional provisions
 Division 1 — Provisions about enforcing judgments
 143.Interpretation
@@ -190,14 +187,12 @@ Division 2 — General
 (3) To the extent that a provision of regulations made under subsection (1) has effect before the day on which it is published in the Gazette, it does not —
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State) the rights of that person existing before the day of publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of publication.
-”.
 The Limitation Legislation Amendment and Repeal Act 2005 s. 18(2) reads as follows:
 “
 18.Section 29 repealed and a savings provision
 (2) The Supreme Court Act 1935 section 29, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
 ”.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 had not come into operation. It reads as follows:
-“
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 had not come into operation. It reads as follows:
 68.Supreme Court Act 1935 amended
 Section 11B of the Supreme Court Act 1935 is amended as follows:
 (a) by repealing subsection (2) and inserting the following subsection instead —
@@ -205,7 +200,42 @@ Section 11B of the Supreme Court Act 1935 is amended as follows:
 (2)Where a Master was, immediately before his appointment as such, an officer of the Public Service of the State he retains his existing and accruing rights and for the purpose of determining those rights, his service as Master shall be taken into account as if it were service in the Public Service of the State.
 ”;
 (b) by repealing subsection (3a).
-”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4, 44(2) and 51 had not come into operation. They read as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Table
+Act | Identifier | Title | Shoulder note
+Supreme Court Act 1935 | First Schedule
+44.Ad hoc headings
+(1) This section amends the Acts listed in Tables 1 and 2.
+(2) In each Act listed in Table 1 before each section listed in the Table delete the heading and insert the heading or headings set out in the Table in relation to that section.
+6.Supreme Court Act 1935
+s. 16 | Division 1 — Jurisdiction
+s. 24 | Division 2 — Law and equity
+s. 25 | Division 3 — Miscellaneous rules of law
+s. 38 | Division 1 — Sittings and vacations
+s. 46 | Division 2 — Circuit towns
+s. 49 | Division 3 — Jurisdiction of a commissioner
+s. 50 | Division 4 — Inquiries and trials by referees
+s. 56 | Division 5 — Assessors
+s. 57 | Division 6 — The Court of Appeal
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+81.Supreme Court Act 1935
+s. 3 | The Acts stated: Provided that, subject 1918: — (a)Nothing (b)Any (c)Save as (i)shall this Act: (ii)shall thereof: (iii)shall (d)All | (1)The Acts stated. (2)Subject 1918, subsections (3) to (6) have effect in respect of those repeals. (3)Nothing (4)Any (5)Save as (a)shall this Act; (b)shall thereof; (c)shall (6)All
+s. 24 | Subject to rules following: — Every person as aforesaid defence thereto: Provided that — | (1A)Subject to rules set out in subsections (1) to (7). (3A)Every person as mentioned in subsection (3)(b) defence thereto. (5A)However —
+s. 25 | The law as follows: — directs: Provided that nothing in this subsection from this subsection. | (1)The law as set out in subsections (6) to (12). directs. (10A) Nothing in subsection (10) from that subsection.
+s. 26(1) | in fault: Provided that if, | in fault. (1A)If,
+s. 28(1) | in fault: Provided that no | in fault. (1A)However, no
+s. 42 | Subject as without a jury: Provided that the | (1)Subject as without a jury. (2)The
+s. 63(2) | judge: Provided that the plaintiff custody: Provided also that where | judge. (2A)The plaintiff custody. (2B)Where
+s. 167(1) | purposes: — (a)For be made. (b)For chambers. (ba)For specify. (each occurrence) (bb)For (c)For exercise. (d)For section 252). (each occurrence) (da)For (e)For apply. (f)For jury. (g)For proceedings. (h)For thereto. (i)For thereof. (ia)For Registrar. (j)For appeals. (k)Relating Court. (l)For business. (m)For otherwise. (o)For subparagraph (i). (oa)For matter). (ob)For cause. (oc)For enforced. (p)For evidence. (q)For mediation. (r)For The power given by the preceding paragraphs | purposes — (a)for be made; (b)for chambers; (ba)for specify; (bb)for (c)for exercise; (d)for section 252); (da)for (e)for apply; (f)for jury; (g)for proceedings; (h)for thereto; (i)for thereof; (ia)for Registrar; (j)for appeals; (k)relating Court; (l)for business; (m)for otherwise; (o)for subparagraph (i); (oa)for matter); (ob)for cause; (oc)for enforced; (p)for evidence; (q)for mediation; (r)for (1A)The power given by subsection (1)
+s. 170(2) | This subsection | (2A)Subsection (2)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

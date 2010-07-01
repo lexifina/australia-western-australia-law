@@ -9,3 +9,4 @@ Consumer Credit (Western Australia) Act 1996 s. 13 | 30 of 1996 | 10 Sep 1996 | 
 Corporations (Consequential Amendments) Act 2001 Pt. 20 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Reprint of the Door to Door Trading Act 1987 as at 17 Aug 2001 (includes amendments listed above)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 79 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 10 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)

@@ -24,6 +24,7 @@ Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 11 | 20 of 2003 | 2
 Sentencing Legislation Amendment and Repeal Act 2003 s. 72 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 64 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Housing Societies Repeal Act 2005 s. 16 | 17 of 2005 | 5 Oct 2005 | 5 Oct 2005 (see s. 2(1))
+Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 78 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
@@ -31,23 +32,15 @@ Housing Societies Repeal Act 2005 s. 18 | 17 of 2005 | 5 Oct 2005 | To be procla
 Repealed by the Housing Loans Insurance Corporation (Sale of Assets and Abolition) Act 1990 s. 22 (Cwlth. Act No. 16 of 1991).
 Now known as the Housing Societies Act 1976; short title changed (see note under s. 1).
 The Statutes (Repeals and Minor Amendments) Act 2000 s. 7(3) and (4) read as follows:
-“
 (3) Anything of a continuing nature done or begun under the Act before the commencement of this section by, on behalf of or in relation to the Registrar of Co-operative and Financial Institutions continues to have the same status, operation and effect as if this section had not been enacted.
 (4) In subsection (3) —
 Registrar of Co-operative and Financial Institutions means the person holding or acting in the office of that name referred to in section 6(1) of the Act, as in force before the commencement of this section.
-”.
 Part 11 of the Corporations (Consequential Amendments) Act 2001 did not come into operation because the Corporations Act 2001 of the Commonwealth came into operation after the Building Societies Amendment Act 2001 came into operation (see s. 2(6)).
 The Building Societies Amendment Act 2001 s. 5(2) reads as follows:
-“
 (2) Unless the contrary intention appears, a reference in subsidiary legislation or any other document to the “Building Societies Act 1976” is taken to be a reference to the “Housing Societies Act 1976”.
-”.
 The Building Societies Amendment Act 2001 s. 12(2) reads as follows:
-“
 (2) During the period of 12 months after the day on which this Act commences, a society (within the meaning of the Housing Societies Act 1976) does not breach section 23(1a) of that Act, even though it does not comply with that provision, if it would not have been in breach of that provision had subsection (1) not been enacted.
-”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 18 had not come into operation. It reads as follows:
-“
 18.Housing Societies Act 1976 repealed
 The Housing Societies Act 1976 is repealed.
-”.
