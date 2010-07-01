@@ -22,3 +22,4 @@ Credit (Administration) Amendment Regulations 2006 | 22 Sep 2006 p. 4094-7 | 22 
 Reprint 2: The Credit (Administration) Regulations 1985 as at 10 Nov 2006 (includes amendments listed above)
 Credit (Administration) Amendment Regulations 2007 | 15 Jun 2007 p. 2770-1 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Credit (Administration) Amendment Regulations 2008 | 17 Jun 2008 p. 2548 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Credit (Administration) Amendment Regulations 2010 | 30 Jun 2010 p. 3177-9 | 1 Jul 2010 (see r. 2(a)(ii), (b)(ii) and Gazette 30 Jun 2010 p. 3187)
