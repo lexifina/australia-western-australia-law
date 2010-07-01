@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 October 2009 of the Carnarvon Irrigation District By-laws 1962 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Carnarvon Irrigation District By-laws 1962 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Citation | Gazettal | Commencement
  | Untitled by-laws | 2 Jul 1962 p. 1695-8 | 2 Jul 1962
@@ -43,6 +43,7 @@ Water Agencies Amendment By-laws 2007 Pt. 2 | 29 Jun 2007 p. 3233-44 | 1 Jul 200
 Water Agencies Amendment By-laws 2008 Pt. 2 | 27 Jun 2008 p. 3076-84 | 1 Jul 2008 (see bl. 2(b))
 Water Agencies Amendment By-laws 2009 Pt. 2 | 19 Jun 2009 p. 2393-406 | 1 Jul 2009 (see bl. 2(b))
 Reprint 2: The Carnarvon Irrigation District By-laws 1962 as at 2 Oct 2009 (includes amendments listed above)
+Water Agencies Amendment By-laws 2010 Pt. 2 | 25 Jun 2010 p. 2983-96 | 1 Jul 2010 (see bl. 2(b))
 These by-laws have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Now known as the Carnarvon Irrigation District By-laws 1962; citation changed (see note under bl. 1).
 These by-laws contain an application provision concerning fees and charges for a period commencing before, or for a matter or thing done before, the by-laws came into operation.
