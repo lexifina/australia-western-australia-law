@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 September 2009 of the Builders’ Registration Regulations and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Builders’ Registration Regulations and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Builders’ Registration Act Regulations | 26 Apr 1940 p. 622-7 | 1 May 1940 (see Gazette 26 Apr 1940 p. 597)
@@ -36,6 +36,7 @@ Builders’ Registration Amendment Regulations (No. 2) 2008 | 17 Jun 2008 p. 254
 Builders’ Registration Amendment Regulations 2009 | 23 Jun 2009 p. 2431-2 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b)(i))
 Builders’ Registration Amendment Regulations (No. 2) 2009 | 23 Jun 2009 p. 2433 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b)(i) and Gazette 23 Jun 2009 p. 2431)
 Reprint 4: The Builders’ Registration Regulations as at 11 Sep 2009 (includes amendments listed above)
+Builders’ Registration Amendment Regulations 2010 | 25 Jun 2010 p. 2856-7 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Under the Alteration of Statutory Designations Order 2007 a reference in any law to the Department for Community Welfare is, unless the contrary is intended, to be read and construed as a reference to the Department for Child Protection.
 The Builders’ Registration Amendment Regulations 2003 as published in Gazette 12 Sep 2003 p. 4071 have no effect because they were made in error by the Governor instead of the Board.
 Now known as the Builders’ Registration Regulations; citation changed (see note under r. 1).
