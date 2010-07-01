@@ -51,10 +51,7 @@ Motor Vehicle Drivers Instructors Amendment Regulations 2007 | 22 Jun 2007 p. 28
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2007 | 22 Jun 2007 p. 2876-7 | r. 1 and 2: 22 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Motor Vehicle Drivers Instructors Amendment (Road Traffic) Regulations 2008 | 13 Jun 2008 p. 2524-5 | r. 1 and 2: 13 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 Reprint 5: The Motor Vehicle Drivers Instructors Regulations 1964 as at 5 Dec 2008 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Motor Vehicle Drivers Instructors Amendment Regulations 2010 | 4 Jun 2010 p. 2485-6 | 1 Jul 2010 (see r. 2(b))
+Motor Vehicle Drivers Instructors Amendment Regulations 2010 | 4 Jun 2010 p. 2485-6 | r. 1 and 2: 4 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Under the Alteration of Statutory Designations Order 2003 the name of the former Education Department of Western Australia was changed to the Department of Education and Training.
 Now superseded by the Public Transport Authority of Western Australia.
 Now superseded by the Fire and Emergency Services Authority of Western Australia.
@@ -105,17 +102,6 @@ Any motor cycle | R
 All classes of motor vehicles | R and MC
 [Schedule 2 inserted in Gazette 13 Jul 2001 p. 3472.]
 ”.
-On the date as at which this compilation was prepared, the Motor Vehicle Drivers Instructors Amendment Regulations 2010 r. 3-4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Motor Vehicle Drivers Instructors Regulations 1964.
-4.Regulation 13 amended
-Amend regulation 13 as set out in the Table.
-Table
-Delete | Insert
-85.50 | 87.30
-4.80 (each occurrence) | 4.90
-147.20 | 150.30
-7.10 | 7.30
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
