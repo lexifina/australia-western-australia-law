@@ -6,6 +6,7 @@ Iron Ore (Mount Bruce) Agreement Act 1972 | 37 of 1972 | 16 Jun 1972 | 16 Jun 19
 Iron Ore (Mount Bruce) Agreement Act Amendment Act 1976 | 94 of 1976 | 12 Nov 1976 | 12 Nov 1976
 Iron Ore (Mount Bruce) Agreement Amendment Act 1987 | 26 of 1987 | 29 Jun 1987 | 29 Jun 1987 (see s. 2)
 Reprint 1 as at 7 Feb 2003
+Iron Ore Agreements Legislation Amendment Act 2010 Pt. 6 | 34 of 2010 | 26 Aug 2010 | 1 Jul 2010 (see s. 2(b)(ii))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

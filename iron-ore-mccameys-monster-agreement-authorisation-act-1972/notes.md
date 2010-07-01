@@ -7,6 +7,7 @@ Iron Ore (McCamey’s Monster) Agreement Authorisation Amendment Act 1986 | 45 o
 Acts Amendment (Mount Goldsworthy, McCamey’s Monster and Marillana Creek Iron Ore Agreements) Act 1994 Pt. 3 | 29 of 1994 | 8 Jul 1994 | 8 Jul 1994 (see s. 2)
 Acts Amendment (Iron Ore Agreements) Act 2000 Pt. 4 | 57 of 2000 | 7 Dec 2000 | 7 Dec 2000 (see s. 2)
 Reprint 1: The Iron Ore (McCamey’s Monster) Agreement Authorisation Act 1972 as at 11 Apr 2003 (includes amendments listed above)
+Iron Ore Agreements Legislation Amendment Act 2010 Pt. 5 | 34 of 2010 | 26 Aug 2010 | 1 Jul 2010 (see s. 2(b)(ii))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

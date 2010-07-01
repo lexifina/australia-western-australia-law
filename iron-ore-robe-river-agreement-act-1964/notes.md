@@ -11,6 +11,7 @@ Iron Ore (Cleveland-Cliffs) Agreement Amendment Act 1984 | 37 of 1984 | 20 Jun 1
 Iron Ore (Cleveland-Cliffs) Agreement Amendment Act 1985 | 95 of 1985 | 4 Dec 1985 | 4 Dec 1985 (see s. 2)
 Iron Ore (Cleveland-Cliffs) Agreement Amendment Act 1987 | 87 of 1987 | 9 Dec 1987 | 9 Dec 1987 (see s. 2)
 Reprint of the Iron Ore (Robe River) Agreement Act 1964 as at 3 Aug 2001 (includes amendments listed above)
+Iron Ore Agreements Legislation Amendment Act 2010 Pt. 10 | 34 of 2010 | 26 Aug 2010 | 1 Jul 2010 (see s. 2(b)(ii))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
