@@ -28,6 +28,7 @@ Security and Related Activities (Control) Amendment Regulations 2008 | 24 Jun 20
 Security and Related Activities (Control) Amendment Regulations 2009 | 26 May 2009 p. 1810-12 | r. 1 and 2: 26 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Security and Related Activities (Control) Amendment Regulations (No. 2) 2009 | 4 Dec 2009 p. 4887-916 | r. 1 and 2: 4 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2009 (see r. 2(b) and Gazette 4 Dec 2009 p. 4919)
 Reprint 5: The Security and Related Activities (Control) Regulations 1997 as at 5 Mar 2010 (includes amendments listed above)
+Security and Related Activities (Control) Amendment Regulations 2010 | 18 Jun 2010 p. 2691-3 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Security and Related Activities (Control) Amendment Regulations (No. 2) 2010 | 22 Jun 2010 p. 2784 | r. 1 and 2: 22 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2010 (see r. 2(b))
 The Medical Act 1894 was repealed by the Medical Practitioners Act 2008.
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
