@@ -36,3 +36,4 @@ Motor Vehicle Dealers (Licensing) Amendment Regulations 2007 | 15 Jun 2007 p. 27
 Reprint 4: The Motor Vehicle Dealers (Licensing) Regulations 1974 as at 3 Aug 2007 (includes amendments listed above)
 Motor Vehicle Dealers (Licensing) Amendment Regulations 2008 | 17 Jun 2008 p. 2552-4 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Motor Vehicle Dealers (Licensing) Amendment Regulations 2009 | 23 Jun 2009 p. 2444-6 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Motor Vehicle Dealers (Licensing) Amendment Regulations 2010 | 25 Jun 2010 p. 2848-51 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
