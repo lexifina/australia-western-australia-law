@@ -41,6 +41,7 @@ W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations (No. 2) 2
 W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2009 | 12 Jun 2009 p. 2121-6 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 4: The W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 as at 28 Aug 2009 (includes amendments listed above)
 W.A. Marine Amendment Regulations 2009 Pt. 11 | 11 Dec 2009 p. 5087-109 | 12 Dec 2009 (see r. 2(b))
+W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2010 | 18 Jun 2010 p. 2684-9 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 The W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2002 r. 4 reads as follows:
 4.Saving
