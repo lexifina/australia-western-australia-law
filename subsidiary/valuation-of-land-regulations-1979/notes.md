@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 August 2009 of the Valuation of Land Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Valuation of Land Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Valuation of Land Regulations 1979 | 6 Apr 1979 p. 928 | 1 Jul 1979 (see Gazette 11 May 1979 p. 1211)
@@ -33,6 +33,7 @@ Valuation of Land Amendment Regulations 2008 | 20 Jun 2008 p. 2718 | r. 1 and 2:
 Valuation of Land Amendment Regulations 2009 | 27 Mar 2009 p. 925-6 | r. 1 and 2: 27 Mar 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2009 (see r. 2(b))
 Valuation of Land Amendment Regulations (No. 2) 2009 | 19 Jun 2009 p. 2245 | r. 1 and 2: 19 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 3: The Valuation of Land Regulations 1979 as at 14 Aug 2009 (includes amendments listed above)
+Valuation of Land Amendment Regulations 2010 | 18 Jun 2010 p. 2682-3 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
