@@ -21,6 +21,7 @@ Reprint 2: The Credit Act 1984 as at 24 Jun 2005 (includes amendments listed abo
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 9 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 44 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 9 and Pt. 3 Div. 2 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -30,20 +31,15 @@ Footnote no longer applicable.
 Now see the Broadcasting Services Act 1992 of the Commonwealth.
 Repealed by the Revenue Laws Amendment and Repeal Act 2004 s. 37(1).
 The Acts Amendment (Credit) Act 1989 s. 5(2) reads as follows:
-“
 (2) Nothing in section 86A of the principal Act as enacted by subsection (1) —
 (a) applies to any failure, error or misdescription in any regulated contract as defined in the principal Act that is the subject of an application made under section 85 or 86 of the principal Act before the day that this section comes into operation and that is pending on the day;
 (b) affects any final order made under section 85 or 86 of the principal Act before the day that this section comes into operation.
-”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 24 had not come into operation. It reads as follows:
-“
 24.Credit Act 1984 amended
 (1) The amendment in this section is to the Credit Act 1984.
 (2) Section 18(1) is amended by deleting “, or a society registered under the Housing Societies Act 1976,”.
-”.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
-“
 Division 23 — Transitional provisions
 151.Commissioner for Fair Trading
 (1) On commencement, the person holding the office of Commissioner for Fair Trading immediately before commencement is to be taken to have been designated as the Commissioner or Registrar (as the case requires) for the purposes of each of the following enactments —
@@ -85,4 +81,3 @@ In this Division —
 commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
-”.

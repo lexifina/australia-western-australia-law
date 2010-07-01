@@ -136,6 +136,7 @@ Criminal Law Amendment (Homicide) Act 2008 s. 38 | 29 of 2008 | 27 Jun 2008 | 1 
 Reprint 10: The Road Traffic Act 1974 as at 3 Oct 2008 (includes amendments listed above, except those in the Medical Practitioners Act 2008 s. 162 and the Road Traffic Amendment Act 2008 s. 5(a) and 8) (Correction to Reprint in Gazette 19 Oct 2010 p. 5202)
 Road Traffic Amendment (Hoons) Act 2009 Pt. 2 | 23 of 2009 | 6 Oct 2009 | 1 Jan 2010 (see s. 2(1)(b) and (2) and Gazette 31 Dec 2009 p. 5421)
 Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 2 | 39 of 2009 | 3 Dec 2009 | 1 Jan 2010 (see s. 2(b))
+Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 12 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -144,7 +145,6 @@ Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (s. 27-30) | 39 of 2007 | 2
 Repealed by the Nurses and Midwives Act 2006.
 Repealed by the Interpretation Act 1984.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
-“
 67.Agreements under former Transport Co-ordination Act 1966 section 15C
 (1) To the extent that, immediately before the commencement of this Act, an agreement under the former section 15C made provision about the performance of functions of the former Director General under a relevant Act, the agreement continues, when this Act comes into operation, as an agreement under the new provision of the relevant Act.
 (2) To the extent that the agreement continues under subsection (1), it applies as if —
@@ -194,53 +194,37 @@ transitional matter means a matter that needs to be dealt with for the purpose o
 (4) To the extent that a regulation including a provision described in subsection (1) may have effect before the day of its publication in the Gazette, it does not —
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State), the rights of that person existing before the day of its publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of its publication.
-”.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted s. 16(a), (b) and (c) and repealed s. 23 of the Road Traffic Act Amendment Act 1978.
 The Road Traffic Amendment Act (No. 2) 1980 s. 10(2) reads as follows:
-“
 (2) A traffic sign or traffic control signal or similar device purported to have been erected for the purposes of the principal Act and the regulations made thereunder before the coming into operation of this section shall be and always have been a valid and effective traffic sign, traffic control signal, or device for those purposes.
-”.
 The Road Traffic Amendment Act (No. 2) 1982 s. 21(2) is a transitional provision that is of no further effect.
 The Road Traffic Amendment Act (No. 2) 1987 s. 10(2) reads as follows:
-“
 (2) A certificate that was in force under section 72(3)(b) of the principal Act immediately before the commencement of subsection (1)(d) shall have effect after that commencement as if it certified the person named in the certificate as being competent to operate all types of breath analysing equipment.
-”.
 Section 11(b) of this Act had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 112.
 The Road Traffic Amendment Act 1988 s. 17(2) and (3) read as follows:
-“
 (2) In subsection (3) the relevant regulations means any regulations purporting to have been made under the principal Act before 1 July 1984 that would have been authorised under section 43(7) or (8) of the Interpretation Act 1984 if they had been made on or after 1 July 1984.
 (3) The principal Act as enacted from time to time before 1 July 1984 is deemed to have authorised the making of the relevant regulations and those regulations shall be deemed to have taken effect and had the force of law accordingly.
-”.
 The Road Traffic Amendment (Random Breath Tests) Act 1989 s. 4 and the Road Traffic Amendment Act 1996 s. 41 amended the Road Traffic Amendment (Random Breath Tests) Act 1988 s. 5 which was repealed by the Road Traffic Amendment Act 2000 s. 67.
 The Acts Amendment (Chemistry Centre (WA)) Act 1990 s. 9 and 10 read as follows:
-“
 9.Saving of certificates and labels
 A certificate or label issued under the principal Act that purports to have been signed by the director of the Government Chemical Laboratories or prepared by the Government Chemical Laboratories before the commencement of this Act shall continue to have effect as if this Act had not come into operation.
 10.Validation
 Every act or thing purporting to have been done by the Director or any other officer of the Chemistry Centre (WA) under the principal Act before the commencement of this Act that would have been lawful if this Act had been in force at the time when it was done is hereby validated and declared to have been lawfully done.
-”.
 The Criminal Law Amendment Act 1991 it. 1(2) of Pt. A of the Sch. reads as follows:
-“
 (2) Notwithstanding subclause (1), section 59(2), as it was immediately before the commencement of this clause, continues to apply in relation to —
 (a) any death that occurred before the commencement of this clause; and
 (b) any death that occurs after the commencement of this clause if the driving which directly or indirectly causes the death occurs not less than a year and a day before the commencement of this clause.
-”.
 The Road Traffic Amendment Act 1996 s. 52 reads as follows:
-“
 52.Actions of delegates validated
 (1) Anything done before the commencement of this section by a person acting under any delegation purporting to have been made by the Traffic Board under any written law, is as valid and has the same force and effect, and is to be regarded as having always been as valid and had the same force and effect, as if it had been done by the Traffic Board.
 (2) In subsection (1) —
 Traffic Board means the Traffic Board constituted under section 6 of the Road Traffic Act 1974 as it was before the commencement of this Act.
-”.
 The Road Traffic Amendment Act 1996 s. 8(3) was repealed by the Road Traffic Amendment Act 2006 s. 43(2).
 The amendment to s. 20(2) referred to in the Road Traffic Amendment Act 1997 s. 13 did not come into operation because of an error in the reference to the provision to be amended.
 The Road Traffic Amendment Act 2000 s. 48, which gives effect to Sch. 1, reads as follows:
-“
 48.Savings and transitional
 Schedule 1 has effect.
-”.
 Schedule 1 reads as follows:
-“
 Schedule 1 — Savings and transitional
 [s. 48]
 1.Interpretation
@@ -260,7 +244,6 @@ If —
 (a) after the commencement day a person applies for a duplicate of a driver’s licence under section 48B of the Road Traffic Act 1974; and
 (b) the licence was issued before the commencement day without the photograph and signature of the licence holder,
 then section 42B of the Road Traffic Act 1974 applies to the issue of the duplicate as if it were the issue of a driver’s licence.
-”.
 The amendment in the Road Traffic Amendment Act 2000 s. 16(2) to amend s. 25(2) is not included because the subsection it sought to amend had been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1062(2).
 The amendments in the Road Traffic Amendment Act 2000 s. 33 to amend —
 s. 59(1a) is not included because the subsection it sought to amend had been repealed by the Criminal Code Amendment Act 2004 Sch. 3 cl. 27(3);
@@ -269,27 +252,22 @@ The amendment in the Road Traffic Amendment Act 2000 s. 39 to amend s. 89 is not
 The Taxation Administration (Consequential Provisions) Act 2002 s. 30 and 32 will not come into operation (see s. 2(2)).
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 105(4) is not included because the section it sought to amend had been replaced by the Sentencing Legislation Amendment and Repeal Act 2003 s. 28.
 The Road Traffic Amendment (Dangerous Driving) Act 2004 s. 12 reads as follows:
-“
 12.Review
 (1) The Minister is to carry out a review of the operations and effectiveness of the amendments made to the Road Traffic Act 1974 by this Act as soon as is practicable after the expiry of 18 months from the commencement of the Road Traffic Amendment (Dangerous Driving) Act 2004.
 (2) The Minister is to prepare a report based on the review carried out under subsection (1) and is to cause that report to be laid before each House of Parliament as soon as practicable.
-”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 46 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment in the Road Traffic Amendment Act 2006 —
 s. 15(a) to amend the Table to s. 64(2) is not included because the subsection it sought to amend had been amended by the Road Traffic Amendment Act (No. 2) 2007 s. 6.
 s. 22(9) to amend s. 76 is not included because the subsection it sought to amend had been amended by the Road Traffic Amendment (Vehicle Licensing) Act 2001 s. 23.
 The Road Traffic Amendment Act 2006 s. 35(2) and Pt. 3 read as follows:
-“
 35.Sections 111AA and 111AB inserted and saving
 (2) A declaration under section 103A of the Road Traffic Act 1974 or regulation under section 103B of that Act made before the commencement of this section is to have effect after the commencement of this section as if it was made under section 111AA or 111AB, as the case requires, of that Act.
 Part 3 — Transitional provision
 36.Existing demerit points
 Points currently recorded in respect of a person under section 103 of the Road Traffic Act 1974 immediately before that section is repealed by section 29, and details of any offence in respect of which the points were recorded, are to be recorded as demerit points against the person in the demerit points register referred to in Part VIA of the Road Traffic Act 1974 as inserted by section 31.
-”.
 The Road Traffic Amendment Act 2006 Pt. 4 Div. 4 will not be included because the Road Traffic Amendment (Vehicle Licensing) Act 2001 has already commenced (see s. 45-48).
 On the date as at which this compilation was prepared, the Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 had not come into operation. It reads as follows:
-“
 Part 2 — Road Traffic Act 1974 amended
 Division 4 — Amendments about graduated demerit point system for novice drivers
 27.Section 104IA inserted
@@ -326,7 +304,6 @@ Section 104J(2) is amended by deleting the full stop at the end of the subsectio
 Section 104R(1) is amended by inserting before paragraph (b) —
 “
 (aa) an excessive demerit points (novice driver) notice; or
-”.
 ”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
