@@ -79,6 +79,8 @@ Ports and Harbours Amendment Regulations (No. 2) 2009 | 23 Jun 2009 p. 2483-5 | 
 Reprint 3: The Ports and Harbours Regulations 1966 as at 2 Oct 2009 (includes amendments listed above)
 Ports and Harbours Amendment Regulations (No. 2) 2010 | 14 May 2010 p. 2017-18 | r. 1 and 2: 14 May 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 15 May 2010 (see r. 2(b))
 Ports and Harbours Amendment Regulations 2010 | 4 Jun 2010 p. 2417-67 | r. 1 and 2: 4 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jun 2010 (see r. 2(b) and Gazette 4 Jun 2010 p. 2471)
+Shipping and Pilotage (Ports and Harbours) Amendment Regulations (No. 3) 2010 | 30 Jun 2010 p. 3167-70 | r. 1 and 2: 30 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b)(i))
+Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2010 | 30 Jun 2010 p. 3171-3 | r. 1 and 2: 30 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Citation was initially the Ports and Harbours Regulations and was subsequently changed to the Ports and Harbours Regulations 1966 and then to the Shipping and Pilotage (Ports and Harbours) Regulations 1966 (see note under r. 1).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
