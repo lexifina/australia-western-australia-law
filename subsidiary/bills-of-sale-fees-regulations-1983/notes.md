@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 March 2009 of the Bills of Sale (Fees) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Bills of Sale (Fees) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Bills of Sale (Fees) Regulations 1983 | 20 Jan 1984 p. 137 | 1 Mar 1984 (see r. 2)
@@ -11,3 +11,4 @@ Bills of Sale (Fees) Amendment Regulations 2005 | 28 Jun 2005 p. 2908-9 | 1 Jul 
 Bills of Sale (Fees) Amendment Regulations 2006 | 27 Jun 2006 p. 2249-50 | 1 Jul 2006 (see r. 2)
 Bills of Sale (Fees) Amendment Regulations 2008 | 17 Jun 2008 p. 2543-4 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Reprint 2: The Bills of Sale (Fees) Regulations 1983 as at 6 Mar 2009 (includes amendments listed above)
+Bills of Sale (Fees) Amendment Regulations 2010 | 25 Jun 2010 p. 2843-4 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
