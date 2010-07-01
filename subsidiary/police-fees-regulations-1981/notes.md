@@ -32,3 +32,4 @@ Police (Fees) Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2297-9 | 1 Jul
 Police (Fees) Amendment Regulations 2007 | 29 Jun 2007 p. 3198-200 | r. 1 and 2: 29 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Police (Fees) Amendment Regulations 2008 | 24 Jun 2008 p. 2905-6 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Police (Fees) Amendment Regulations 2009 | 26 May 2009 p. 1806-8 | r. 1 and 2: 26 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Police (Fees) Amendment Regulations 2010 | 18 Jun 2010 p. 2689-91 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
