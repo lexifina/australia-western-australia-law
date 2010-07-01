@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 October 2009 of the Mines Safety and Inspection Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Mines Safety and Inspection Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Mines Safety and Inspection Regulations 1995 | 8 Dec 1995 p. 5629-932 | 9 Dec 1995 (see r. 1.2 and Gazette 8 Dec 1995 p. 5935)
@@ -33,7 +33,8 @@ Mines Safety and Inspection Amendment Regulations (No. 2) 2009 | 16 Jun 2009 p. 
 Mines Safety and Inspection Amendment Regulations 2009 r. 1-17 and 19-28 | 21 Jul 2009 p. 2918-27 | r. 1 and 2: 21 Jul 2009 (see r. 2(a)); Regulations other than r. 1, 2 and 18: 22 Jul 2009 (see r. 2(c))
 Mines Safety and Inspection Amendment Regulations (No. 3) 2009 | 21 Aug 2009 p. 3270 | r. 1 and 2: 21 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Aug 2009 (see r. 2(b))
 Reprint 5: The Mines Safety and Inspection Regulations 1995 as at 16 Oct 2009 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Mines Safety and Inspection Amendment Regulations 2010 | 25 Jun 2010 p. 2871 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions not yet in operation
 Citation | Gazettal | Commencement
 Mines Safety and Inspection Amendment Regulations 2009 r. 18 | 21 Jul 2009 p. 2918-27 | 20 Jul 2010 (see r. 2(b))
@@ -53,7 +54,7 @@ The Mines Safety and Inspection Amendment Regulations 2005 r. 13(2)-(3) read as 
 (2) Any advice given by the Mines Occupational Safety and Health Advisory Board before the commencement of subregulation (1) for the purposes of regulation 9.2 is to be treated as if it had been given by the Mining Industry Advisory Committee.
 (3) In subregulation (2) —
 Mines Occupational Safety and Health Advisory Board has the meaning given by section 4(1) of the Act as in force before the commencement of section 115(2) of the Occupational Safety and Health Legislation Amendment and Repeal Act 2004.
-On the date as at which this reprint was prepared, the Mines Safety and Inspection Amendment Regulations 2009 r. 18 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Mines Safety and Inspection Amendment Regulations 2009 r. 18 had not come into operation. It reads as follows:
 18.Regulation 6.37 amended
 (1) Before regulation 6.37(1) insert:
 (1A) Subject to subregulation (2), a person must not —
