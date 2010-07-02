@@ -1,32 +1,32 @@
 Notes
-This is a compilation of the Corruption and Crime Commission Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 July 2010 of the Corruption and Crime Commission Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
- | Short title | Number and year | Assent | Commencement
- | Corruption and Crime Commission Act 2003 | 48 of 2003 | 3 Jul 2003 | s. 1 and 2: 3 Jul 2003; Act other than s. 1 and 2: 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
- | Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 2 | 78 of 2003 | 22 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
- | Reprint 1: The Corruption and Crime Commission Act 2003 as at 5 Jan 2004 (includes amendments listed above)
- | Criminal Code Amendment Act 2004 s. 24 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
- | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
- | Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
- | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 79 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
- | Reprint 2: The Corruption and Crime Commission Act 2003 as at 7 Jul 2006 (includes amendments listed above)
- | Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
- | Criminal Investigation (Consequential Provisions) Act 2006 Pt. 3 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
- | Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
- | Acts Amendment (Justice) Act 2008 s. 128 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
- | Police Amendment Act 2008 s. 11 and 23(1) | 8 of 2008 | 31 Mar 2008 | s. 11: 1 Apr 2008 (see s. 2(1)); s. 23(1): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
+Short title | Number and year | Assent | Commencement
+Corruption and Crime Commission Act 2003 | 48 of 2003 | 3 Jul 2003 | s. 1 and 2: 3 Jul 2003; Act other than s. 1 and 2: 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 2 | 78 of 2003 | 22 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+Reprint 1: The Corruption and Crime Commission Act 2003 as at 5 Jan 2004 (includes amendments listed above)
+Criminal Code Amendment Act 2004 s. 24 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 79 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Reprint 2: The Corruption and Crime Commission Act 2003 as at 7 Jul 2006 (includes amendments listed above)
+Nurses and Midwives Act 2006 Sch. 3 cl. 4 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
+Criminal Investigation (Consequential Provisions) Act 2006 Pt. 3 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 35 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Acts Amendment (Justice) Act 2008 s. 128 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Police Amendment Act 2008 s. 11 and 23(1) | 8 of 2008 | 31 Mar 2008 | s. 11: 1 Apr 2008 (see s. 2(1)); s. 23(1): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Legal Profession Act 2008 s. 654 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
- | Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
- | Criminal Law Amendment (Homicide) Act 2008 s. 26 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
- | Reprint 3: The Corruption and Crime Commission Act 2003 as at 10 Oct 2008 (includes amendments listed above, except those in the Medical Practitioners Act 2008 s. 162 and the Legal Profession Act 2008)
+Medical Practitioners Act 2008 Sch. 3 cl. 11 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Criminal Law Amendment (Homicide) Act 2008 s. 26 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
+Reprint 3: The Corruption and Crime Commission Act 2003 as at 10 Oct 2008 (includes amendments listed above except those in the Medical Practitioners Act 2008 and the Legal Profession Act 2008)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 41 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
- | Acts Amendment (Bankruptcy) Act 2009 s. 23 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
- | Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
-Repealed by the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003.
+Acts Amendment (Bankruptcy) Act 2009 s. 23 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
+Reprint 4: The Corruption and Crime Commission Act 2003 as at 2 Jul 2010 (includes amendments listed above)
+The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Now called the Telecommunications (Interception and Access) Act 1979 (Commonwealth).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 3 Div. 3 Subdiv. 2 reads as follows:
-“
 Part 3 — Repeals, transitional and savings provisions, and consequential amendments
 Division 3 — Anti-Corruption Commission Act 1988
 Subdivision 2 — Repeal of the Anti-Corruption Commission Act 1988 and transitional and savings provisions
@@ -100,9 +100,7 @@ except that the period to which the final report is to relate is the final perio
 (3) If at the commencement, any duty imposed by Part II Division 14 of the FAA Act on the accountable authority of the A-CC has not been complied with in relation to the A-CC for any financial year that expired before the commencement, that duty subsists and is to be performed by the reporting officer as if the reporting officer were the accountable authority.
 (4) The time within which the reporting officer is to perform a duty referred to in subsection (3) is extended until the end of the day that is 2 months after the day on which the reporting officer is appointed, but this subsection does not prevent the time from being extended again under section 70 of the FAA Act.
 (5) The CCC is to give the reporting officer access to the records referred to in section 64 for the purposes of this section.
-”.
 The Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 3 Div. 7 reads as follows:
-“
 Part 3 — Repeals, transitional and savings provisions, and consequential amendments
 Division 7 — General
 75.Further transitional provisions may be made
@@ -124,12 +122,11 @@ to or in relation to any matter.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as to —
 (a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 A-CC3(1)
-allegation3, 220(1)
+allegation3(1), 220(1)
 ancillary activity132(1)
 appropriate authority3(1)
 appropriate entry105(6)
@@ -171,7 +168,6 @@ integrity testing programme119, 123(1)
 interested person67(1)
 investigation3(1), 45
 issuing agency102
-judgeSch. 2 cl. 3(3)
 juvenile81(2)
 lawyer3(1)
 legal experience190(1)
