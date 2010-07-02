@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Salaries and Allowances Act 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 July 2010 of the Salaries and Allowances Act 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Salaries and Allowances Tribunal Act 1975 | 27 of 1975 | 16 May 1975 | Act other than s. 13: 16 May 1975 (see s. 2(1)); s. 13: 8 Aug 1975 (see s. 2(2) and Gazette 12 Aug 1975 p. 2951)
@@ -22,7 +22,7 @@ Compilation table
  | Salaries and Allowances Amendment Act 1992 | 68 of 1992 | 11 Dec 1992 | 11 Dec 1992 (see s. 2)
  | Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
  | Acts Amendment (Official Corruption Commission) Act 1994 s. 20 | 14 of 1994 | 22 Apr 1994 | 24 May 1994 (see s. 2 and Gazette 24 May 1994 p. 2193)
- | Reprint of the Salaries and Allowances Act 1975 as at 26 Apr 1994 (includes amendments listed above)
+ | Reprint of the Salaries and Allowances Act 1975 as at 26 Apr 1994 (includes amendments listed above except the Acts Amendment (Official Corruption Commission) Act 1994)
  | Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
  | Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
  | Industrial Legislation Amendment Act 1995 s. 37 | 1 of 1995 | 9 May 1995 | 9 May 1995 (see s. 2(1))
@@ -32,7 +32,7 @@ Compilation table
  | Acts Amendment (Auxiliary Judges) Act 1997 Pt. 9 | 23 of 1997 | 18 Sep 1997 | 18 Sep 1997 (see s. 2)
  | Equal Opportunity Amendment Act (No. 3) 1997 s. 8 | 42 of 1997 | 9 Dec 1997 | 6 Jan 1998 (see s. 2(1))
  | Reprint of the Salaries and Allowances Act 1975 as at 8 Sep 2000 (includes amendments listed above)
- | Electoral Amendment Act 2000 s. 26 and 57 | 36 of 2000 | 10 Oct 2000 | 21 Oct 2000 (see s. 2 and Gazette 20 Oct 2000 p. 5899
+ | Electoral Amendment Act 2000 s. 26 and 57 | 36 of 2000 | 10 Oct 2000 | 21 Oct 2000 (see s. 2 and Gazette 20 Oct 2000 p. 5899)
  | Parliamentary Superannuation Legislation Amendment Act 2000 Pt. 3 | 37 of 2000 | 10 Oct 2000 | 10 Oct 2000 (see s. 2)
  | Salaries and Allowances Amendment Act 2001 | 22 of 2001 | 26 Nov 2001 | 26 Nov 2001 (see s. 2)
  | Corruption and Crime Commission Act 2003 s. 62 | 48 of 2003 | 3 Jul 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
@@ -46,14 +46,26 @@ Compilation table
  | Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 114 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 78 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Reprint 5: The Salaries and Allowances Act 1975 as at 2 Jul 2010 (includes amendments listed above)
 The provision in this Act repealing the Parliamentary Salaries and Allowances Act 1967 was repealed by the Parliamentary Superannuation Legislation Amendment Act 2000 s. 22.
-Now see section 52 of the Interpretation Act 1984.
+Now see the Interpretation Act 1984 s. 52.
 The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
-“
 6.Transitional provision
 (1) Section 6C of the principal Act applies whether or not the offence was committed before the day when this Act commences and whether or not the person was dealt with before that day, but if the person was dealt with before that day the disqualification takes effect on that day instead of the day when the person was dealt with.
 (2) For the purposes of subsection (1) a person is dealt with —
 (a) if the offence was a Schedule 1 offence committed by the person while holding public office, on the day when the person is convicted;
 (b) in any other case, on the day when the person was sentenced.
-”.
 Now known as the Salaries and Allowances Act 1975; short title changed (see note under s. 1).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+Chairman4(1)
+former office entitlement6C(1)
+holding public office6C(1)
+member4(1)
+Minister of the Crown4(1)
+remuneration4(1)
+Schedule 1 offence6C(1)
+section4(1)
+the fresh election6(5b)(b)
+Tribunal4(1)
