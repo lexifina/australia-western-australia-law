@@ -22,7 +22,7 @@ s. 563A
 Criminal Property Confiscation Act 2000
 s. 50(1)
 2.An offence against regulations made under s. 6(1) of the Firearms Act 1973 that —
-(a) is committed in respect of 2 or more firearms; or
-(b) is committed in respect of a firearm and in association with the commission, by the same or any other person, of an offence against s. 557I of The Criminal Code.
+(a)is committed in respect of 2 or more firearms; or
+(b)is committed in respect of a firearm and in association with the commission, by the same or any other person, of an offence against s. 557I of The Criminal Code.
 3.An offence referred to in s. 32A(1)(b) of the Misuse of Drugs Act 1981.
 [Schedule 1 inserted by No. 78 of 2003 s. 33; amended by No. 4 of 2004 s. 24; No. 70 of 2004 s. 82; No. 29 of 2008 s. 26; No. 8 of 2009 s. 41(9).]
