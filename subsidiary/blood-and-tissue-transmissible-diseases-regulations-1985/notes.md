@@ -8,3 +8,4 @@ Blood and Tissue (Transmissible Diseases) Amendment Regulations 1988 | 13 May 19
 Blood and Tissue (Transmissible Diseases) Amendment Regulations 1991 | 17 May 1991 p. 2480-1 | 17 May 1991
 Blood and Tissue (Transmissible Diseases) Amendment Regulations 1999 | 12 Feb 1999 p. 474-7 | 12 Feb 1999
 Reprint of the Blood and Tissue (Transmissible Diseases) Regulations 1985 as at 11 Oct 2002 (includes amendments listed above)
+Blood and Tissue (Transmissible Diseases) Amendment Regulations 2010 | 22 Jun 2010 p. 2769-71 | r. 1 and 2: 22 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jul 2010 (see r. 2(b))
