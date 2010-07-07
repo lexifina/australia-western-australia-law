@@ -22,6 +22,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 Pt. 2 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 s. 14 | 21 of 2010 | 7 Jul 2010 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 Pt. 2 had not come into operation. It reads as follows:
@@ -557,3 +558,14 @@ s. 6(1) | s. 6(3)(a) | s. 6(4)(c)
 s. 6(2)(a) | s. 6(3)(b)(i)
 s. 6(3) | s. 6(3)(b)(ii)
 ”.
+On the date as at which this compilation was prepared, the Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 s. 14 had not come into operation. It reads as follows:
+14.Prostitution Act 2000 amended
+(1) This section amends the Prostitution Act 2000.
+(2) In Schedule 1:
+(a) under the heading relating to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 delete “s. 60” and insert:
+the deleted s. 60
+(b) after the item relating to The Criminal Code s. 204A insert:
+s. 217
+s. 218
+s. 219
+s. 220
