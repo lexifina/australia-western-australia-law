@@ -140,8 +140,10 @@ Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 201
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (s. 27-30) | 39 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(g))
+ | Short title | Number and year | Assent | Commencement
+ | Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (s. 27-30) | 39 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(g))
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Road Traffic Amendment Act 2010 s. 3-13 | 20 of 2010 | 7 Jul 2010 | To be proclaimed (see s.2(b))
 Repealed by the Nurses and Midwives Act 2006.
 Repealed by the Interpretation Act 1984.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
@@ -305,6 +307,251 @@ Section 104R(1) is amended by inserting before paragraph (b) —
 “
 (aa) an excessive demerit points (novice driver) notice; or
 ”.
+On the date as at which this compilation was prepared, the Road Traffic Amendment Act 2010 s. 3-13 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Road Traffic Act 1974.
+4.Section 78C amended
+(1) In section 78C(2A) delete “section 79BB(2).” and insert:
+section 79BB(2), 79BCB(2) or 79BCE(2).
+(2) In section 78C(2) delete “section 79BB(2)” and insert:
+section 79BB(2), 79BCB(2) or 79BCE(2)
+(3) In section 78C(3)(ba) delete “section 79BB(2); or” and insert:
+section 79BB(2), 79BCB(2) or 79BCE(2); or
+5.Section 78D amended
+In section 78D(a) delete “79A(1) or 79BB” and insert:
+79A(1), 79BB, 79BCB or 79BCE
+6.Sections 79BCA to 79BCE inserted
+After section 79BB insert:
+79BCA.Notice to surrender substitute vehicle for impoundment
+(1) This section applies if —
+(a) a vehicle (the initially impounded vehicle) is impounded under section 79, 79A or 79BB; and
+(b) under section 79D(2), the initially impounded vehicle is released before the impounding period ends; and
+(c) the person (the alleged offender) who allegedly committed the offence in respect of which the initially impounded vehicle was impounded (the offence) is a responsible person for one or more other vehicles.
+(2) If this section applies, a member of the Police Force may give the alleged offender, personally or by registered post, a notice in accordance with this section (a surrender substitute vehicle notice).
+(3) The surrender substitute vehicle notice cannot be given after 28 days after the date of the release of the initially impounded vehicle.
+(4) The surrender substitute vehicle notice must contain a statement to the effect that, because the initially impounded vehicle has been released, a vehicle for which the alleged offender is a responsible person (the substitute vehicle) is required to be surrendered to the Commissioner for impounding instead of the initially impounded vehicle.
+(5) The surrender substitute vehicle notice must specify the following —
+(a) in relation to the offence, its details and the time and place at which it is suspected to have been committed;
+(b) which of sections 79(1) and 79A(1) is the provision that authorised the impounding of the initially impounded vehicle (the impounding provision);
+(c) sufficient details of the initially impounded vehicle to identify it;
+(d) when the initially impounded vehicle was impounded;
+(e) when the initially impounded vehicle was released under section 79D(2);
+(f) sufficient details of the substitute vehicle to identify it;
+(g) if the impounding provision is section 79(1) and the alleged offender is a previous offender as defined in section 79(1A), sufficient details to explain why the alleged offender is regarded as a previous offender;
+(h) the length of the impounding period for the substitute vehicle, which is to be —
+(i) if section 79(1) was the impounding provision for the initially impounded vehicle, either 28 days or 3 months according to which of those periods was the impounding period for which section 79(1) required the initially impounded vehicle to be impounded; and
+(ii) if section 79A(1) was the impounding provision for the initially impounded vehicle, 28 days;
+(i) the place at which, and the time of day during which, the vehicle and its keys are required to be surrendered under this Division; and
+(j) the last day on or before which the vehicle and its keys are required to be surrendered, being the seventh day after the day on which the notice is given.
+(6) The surrender substitute vehicle notice must also include —
+(a) a statement to the effect that this Division contains law about the notice and the impounding of the vehicle; and
+(b) a statement as to the effect of section 79BCB(5); and
+(c) a statement to the effect that failure to comply with the notice will result in the vehicle being impounded by operation of section 79BCB(2).
+(7) If the alleged offender is a responsible person for 2 or more other vehicles, the surrender substitute vehicle notice must specify only one of them as the substitute vehicle, being the one decided by the member of the Police Force issuing the notice.
+79BCB.Consequences of surrender of substitute vehicle notice
+(1) If a responsible person who is given a surrender substitute vehicle notice under section 79BCA surrenders the substitute vehicle specified in the notice according to the notice, the vehicle is impounded by operation of this subsection for a period that commences at the time when the vehicle is surrendered.
+(2) If a responsible person who is given a surrender substitute vehicle notice under section 79BCA fails to surrender the substitute vehicle specified in the notice according to the notice, the vehicle is impounded by operation of this subsection for a period that commences at the time when a member of the Police Force takes possession of the vehicle for the purpose of impounding it.
+(3) An impounding period the length of which is specified as 28 days or 3 months in a surrender substitute vehicle notice includes the part of the day on which the vehicle is impounded that is after the impounding occurred even though including that part of the day makes the period more than 28 days or 3 months, as the case requires.
+(4) The period for which a vehicle is impounded by operation of subsection (1) or (2) ends when the impounding period has passed since the end of the day on which the vehicle was impounded.
+(5) A responsible person who is given a surrender substitute vehicle notice under section 79BCA commits an offence and is liable to a fine of 50 PU if, when the substitute vehicle specified in the notice has not been impounded by operation of subsection (1) or (2) as a consequence of the notice, the person disposes of an interest that the person has in the vehicle.
+79BCC.Cancelling notices to surrender
+(1) In this section —
+notice to surrender means —
+(a)a surrender notice given under section 79BA; or
+(b)a surrender substitute vehicle notice given under section 79BCA; or
+(c)a surrender alternative vehicle notice given under section 79BCD.
+(2) If a senior police officer is satisfied that —
+(a) a notice to surrender has been given to a person in respect of a vehicle; and
+(b) the vehicle has not been impounded under section 79BB, 79BCB or 79BCE, as the case may be; and
+(c) either —
+(i) if the vehicle were so impounded, the vehicle would be a vehicle that could, under section 79D, be released before the impounding period ends; or
+(ii) the vehicle’s condition is such that it no longer functions as a vehicle and a licence could not be issued for it under Part III,
+the officer may cancel the notice to surrender.
+(3) As soon as is practicable after a senior police officer cancels a notice to surrender, the officer must give a written notice of the cancellation to the person to whom the notice to surrender was given.
+79BCD.Notice to surrender alternative vehicle if surrender notice cancelled
+(1) This section applies if —
+(a) under section 79BA a surrender notice is given to a person responsible for a vehicle (vehicle A) the driver of which (the alleged offender) is suspected of having committed an offence (the offence); and
+(b) under section 79BCC the surrender notice is cancelled before vehicle A is impounded under section 79BB; and
+(c) the alleged offender is a responsible person for one or more other vehicles.
+(2) If this section applies, a member of the Police Force may give the alleged offender, personally or by registered post, a notice in accordance with this section (a surrender alternative vehicle notice).
+(3) The surrender alternative vehicle notice cannot be given after 28 days after the date on which the surrender notice was cancelled.
+(4) The surrender alternative vehicle notice must contain a statement to the effect that, because vehicle A will not be impounded, a vehicle for which the alleged offender is a responsible person (the alternative vehicle) is required to be surrendered to the Commissioner for impounding instead of vehicle A.
+(5) The surrender alternative vehicle notice must specify the following —
+(a) in relation to the offence, its details and the time and place at which it is suspected to have been committed;
+(b) which of sections 79(1) and 79A(1) is the provision that authorised the impounding of vehicle A (the impounding provision);
+(c) sufficient details of vehicle A to identify it;
+(d) when the surrender notice was cancelled under section 79BCC;
+(e) sufficient details of the alternative vehicle to identify it;
+(f) if the impounding provision is section 79(1) and the alleged offender is a previous offender as defined in section 79(1A), sufficient details to explain why the alleged offender is regarded as a previous offender;
+(g) the length of the impounding period for the alternative vehicle, which is to be —
+(i) if section 79(1) was the impounding provision for vehicle A, either 28 days or 3 months according to which of those periods was the impounding period for which section 79(1) required vehicle A to be impounded; and
+(ii) if section 79A(1) was the impounding provision for vehicle A, 28 days;
+(h) the place at which, and the time of day during which, the alternative vehicle and its keys are required to be surrendered under this Division;
+(i) the last day on or before which the alternative vehicle and its keys are required to be surrendered, being the seventh day after the day on which the notice is given.
+(6) The surrender alternative vehicle notice must also include —
+(a) a statement to the effect that this Division contains law about the notice and the impounding of the vehicle; and
+(b) a statement as to the effect of section 79BCE(5); and
+(c) a statement to the effect that failure to comply with the notice will result in the vehicle being impounded by operation of section 79BCE(2).
+(7) If the alleged offender is a responsible person for 2 or more other vehicles, the surrender alternative vehicle notice must specify only one of them as the alternative vehicle, being the one decided by the member of the Police Force issuing the notice.
+79BCE.Consequences of surrender of alternative vehicle notice
+(1) If a responsible person who is given a surrender alternative vehicle notice under section 79BCD surrenders the alternative vehicle specified in the notice according to the notice, the vehicle is impounded by operation of this subsection for a period that commences at the time when the vehicle is surrendered.
+(2) If a responsible person who is given a surrender alternative vehicle notice under section 79BCD fails to surrender the alternative vehicle specified in the notice according to the notice, the vehicle is impounded by operation of this subsection for a period that commences at the time when a member of the Police Force takes possession of the vehicle for the purpose of impounding it.
+(3) An impounding period the length of which is specified as 28 days or 3 months in a surrender alternative vehicle notice includes the part of the day on which the vehicle is impounded that is after the impounding occurred even though including that part of the day makes the period more than 28 days or 3 months, as the case requires.
+(4) The period for which a vehicle is impounded by operation of subsection (1) or (2) ends when the impounding period has passed since the end of the day on which the vehicle was impounded.
+(5) A responsible person who is given a surrender alternative vehicle notice under section 79BCD commits an offence and is liable to a fine of 50 PU if, when the alternative vehicle specified in the notice has not been impounded by operation of subsection (1) or (2) as a consequence of the notice, the person disposes of an interest that the person has in the vehicle.
+7.Section 79BD amended
+(1) Delete section 79BD(1) and insert:
+(1) If —
+(a) a responsible person for a vehicle who is given a surrender notice under section 79BA fails to surrender the vehicle specified in the notice according to the notice; or
+(b) a responsible person for a vehicle who is given a surrender substitute vehicle notice under section 79BCA fails to surrender the substitute vehicle specified in the notice according to the notice; or
+(c) a responsible person for a vehicle who is given a surrender alternative vehicle notice under section 79BCD fails to surrender the alternative vehicle specified in the notice according to the notice,
+the Commissioner may request the Director General to suspend the licence in respect of the vehicle until the vehicle is impounded under this Division or the Commissioner requests the Director General to revoke the suspension.
+(2) In section 79BD(2) delete “section 79D(2)(a), (b) or (c)” and insert:
+a paragraph of section 79D(2)
+8.Section 79B amended
+(1) In section 79B(2) after “notice of the impounding” insert:
+given under subsection (1)
+(2) After section 79B(2) insert:
+(3A) The Commissioner is to ensure that, as soon as practicable after a vehicle (the substitute vehicle) is impounded under section 79BCB following the issue of a surrender substitute vehicle notice to a responsible person for the vehicle under section 79BCA, notice of the impounding is given to —
+(a) each responsible person for the vehicle; and
+(b) if the licence in respect of the vehicle is for the time being suspended under section 79BD, the Director General.
+(3B) The notice of the impounding given under subsection (3A) is to be in an approved form and contain details of —
+(a) the time and place at which the offence, in the commission of which the initially impounded vehicle (as defined in section 79BCA(1)) was used, is suspected to have been committed; and
+(b) the offence sufficient to identify the grounds on which the initially impounded vehicle was impounded; and
+(c) the person who was driving the initially impounded vehicle when the offence is suspected to have been committed; and
+(d) the substitute vehicle sufficient to identify it; and
+(e) the time when the substitute vehicle was impounded; and
+(f) the address of the place where the substitute vehicle is stored; and
+(g) the length of the impounding period for the substitute vehicle which is to be the period specified in the surrender substitute vehicle notice under section 79BCA(5)(h); and
+(h) the grounds on which the substitute vehicle may be released under section 79D; and
+(i) how, when and to whom the substitute vehicle can be released; and
+(j) the powers of a court under sections 80A, 80B, 80C and 80FA in relation to the impounding and confiscation of vehicles.
+(3C) The Commissioner is to ensure that, as soon as practicable after a vehicle (the alternative vehicle) is impounded under section 79BCE following the issue of a surrender alternative vehicle notice to a responsible person for the vehicle under section 79BCD, notice of the impounding is given to —
+(a) each responsible person for the vehicle; and
+(b) if the licence in respect of the vehicle is for the time being suspended under section 79BD, the Director General.
+(3D) The notice of the impounding given under subsection (3C) is to be in an approved form and contain details of —
+(a) the offence referred to in section 79BCD(1)(a) including the time and place at which it is suspected to have been committed; and
+(b) the alternative vehicle sufficient to identify it; and
+(c) the time when the alternative vehicle was impounded; and
+(d) the address of the place where the alternative vehicle is stored; and
+(e) the length of the impounding period for the alternative vehicle which is to be the period specified in the surrender alternative vehicle notice under section 79BCD(5)(g); and
+(f) the grounds on which the alternative vehicle may be released under section 79D; and
+(g) how, when and to whom the alternative vehicle can be released; and
+(h) the powers of a court under sections 80A, 80B, 80C and 80FA in relation to the impounding and confiscation of vehicles.
+9.Section 79C amended
+(1) In section 79C(1):
+(a) after “section 79BA” insert:
+or a surrender substitute vehicle notice under section 79BCA or a surrender alternative vehicle notice under section 79BCD
+(b) before paragraph (a) insert:
+(aa) the impounding, or the giving of the notice, as the case requires; and
+(2) In section 79C(2) delete “of a vehicle impoundment or the giving of a surrender notice”.
+(3) In section 79C(3):
+(a) in paragraph (a) delete “impounded,” and insert:
+impounded under section 79, 79A or 79BB,
+(b) in paragraph (b) after “if” insert:
+under section 79BA
+(c) in paragraph (b) delete “cancelled.” and insert:
+cancelled;
+(d) after paragraph (b) insert:
+(c) if a substitute vehicle has been impounded under section 79BCB, or an alternative vehicle has been impounded under section 79BCE, the senior police officer and the member of the Police Force are to take measures to ensure that the vehicle is released from impoundment and returned to a responsible person;
+(d) if under section 79BCA a surrender substitute vehicle notice has been given, or under section 79BCD a surrender alternative vehicle notice has been given, but the vehicle has not yet been surrendered, the senior police officer is to cancel the notice and immediately notify the person to whom the notice was given that the notice has been cancelled.
+(4) In section 79C(4) delete “notice.” and insert:
+notice or surrender substitute vehicle notice or surrender alternative vehicle notice, as the case may be.
+10.Section 79D amended
+(1) In section 79D(1) insert in alphabetical order:
+service, in relation to a vehicle, includes to clean, examine, improve, inspect, paint, park, repair, store and transport it;
+taxi means a vehicle —
+(a)on which taxi plates issued under the Taxi Act 1994 are being used; or
+(b)in respect of which a taxi-car licence has been issued under the Transport Co-ordination Act 1966 Part IIIB,
+and it does not matter whether or not, at the relevant time, it is standing or plying for hire or carrying passengers for reward;
+taxi operator, of a taxi, means a person who —
+(a)under the Taxi Act 1994, owns or leases the taxi plates, issued under that Act, that are being used on the taxi; or
+(b)holds the taxi-car licence issued under the Transport Co-ordination Act 1966 in respect of the taxi;
+vehicle service provider means a person who, for reward in the course of a business, services vehicles.
+(2) In section 79D(1) in the definition of impounded vehicle delete “79A(1) or 79BB.” and insert:
+79A(1), 79BB, 79BCB or 79BCE;
+(3) In section 79D(2):
+(a) in paragraph (c) delete “case.” and insert:
+case; or
+(b) after paragraph (c) insert:
+(d) a senior police officer is satisfied that, at the time the offence in respect of which the vehicle was impounded was committed —
+(i) the vehicle, with the consent of a person lawfully in possession of it, was in the possession of a vehicle service provider for the purposes of being serviced by the vehicle service provider; and
+(ii) the person who allegedly committed the offence was the vehicle service provider or a person employed by, contracted to or acting with the authority of the vehicle service provider; and
+(iii) the person who allegedly committed the offence was not a responsible person for the vehicle;
+or
+(e) a senior police officer is satisfied that, at the time the offence in respect of which the vehicle was impounded was committed —
+(i) the vehicle had been lent by a vehicle service provider to the person who allegedly committed the offence for use while the vehicle service provider was servicing a vehicle for the person; and
+(ii) the person who allegedly committed the offence was not a responsible person for the vehicle;
+or
+(f) a senior police officer is satisfied that, at the time the offence in respect of which the vehicle was impounded was committed —
+(i) the vehicle was for sale; and
+(ii) the person who allegedly committed the offence (the alleged offender) was test-driving the vehicle with the consent of the person selling it for the purpose of deciding whether to buy it; and
+(iii) the person who consented to the alleged offender test-driving the vehicle had complied with subsection (3); and
+(iv) the alleged offender was not employed by or contracted to the person selling the vehicle; and
+(v) the alleged offender was not a responsible person for the vehicle;
+or
+(g) a senior police officer is satisfied that, at the time the offence in respect of which the vehicle was impounded was committed —
+(i) the vehicle was used primarily in the course of a business conducted by a person (the business owner); and
+(ii) the person who allegedly committed the offence (the alleged offender) was an employee or contractor of the business owner; and
+(iii) the alleged offender was driving the vehicle with the consent of the business owner or an agent of the business owner; and
+(iv) the person who consented to the alleged offender driving the vehicle had complied with subsection (4); and
+(v) the alleged offender was not a responsible person for the vehicle;
+or
+(h) a senior police officer is satisfied that, at the time the offence in respect of which the vehicle was impounded was committed —
+(i) the vehicle was a taxi; and
+(ii) the person who allegedly committed the offence (the alleged offender) was driving the taxi under an agreement between him or her and the taxi operator of the taxi, or an agent of the taxi operator, under which the alleged offender pays the operator or agent in order to be allowed to drive the taxi for reward; and
+(iii) the taxi operator or agent who entered into the agreement with the alleged offender had complied with subsection (5); and
+(iv) the alleged offender was not a responsible person for the vehicle;
+or
+(i) a senior police officer is satisfied that, at the time the offence in respect of which the vehicle was impounded was committed —
+(i) the vehicle was licensed under the Transport Co-ordination Act 1966 to be operated as an omnibus; and
+(ii) the person who allegedly committed the offence (the alleged offender) was an employee or contractor of the holder of that licence; and
+(iii) the alleged offender was driving the vehicle with the consent of the holder of that licence; and
+(iv) the person who consented to the alleged offender driving the vehicle had complied with subsection (4); and
+(v) the alleged offender was not a responsible person for the vehicle;
+or
+(j) a senior police officer is satisfied that —
+(i) the vehicle cannot be released under any of paragraphs (a) to (i) or under circumstances prescribed under paragraph (k); and
+(ii) unless the vehicle is released, manifest injustice or manifest unfairness will be suffered by a person other than the alleged offender;
+or
+(k) circumstances prescribed by the regulations exist.
+(c) after paragraph (a) insert:
+or
+(4) After section 79D(2) insert:
+(3) For the purposes of subsection (2)(f)(iii), a person who consents to a person test-driving a vehicle must —
+(a) ensure the driver has a driver’s licence that authorises him or her to drive the vehicle; and
+(b) inform the driver that he or she must obey the law when test-driving the vehicle.
+(4) For the purposes of subsection (2)(g)(iv) and (i)(iv), a person who consents to an employee or contractor driving a vehicle must —
+(a) ensure the driver has a driver’s licence that authorises him or her to drive the vehicle; and
+(b) ensure the driver has been instructed to obey the law when driving the vehicle.
+(5) For the purposes of subsection (2)(h)(iii), a taxi operator or agent who enters into an agreement with a driver must —
+(a) ensure the driver has a driver’s licence that authorises him or her to drive the vehicle; and
+(b) ensure the driver has been instructed to obey the law when driving the vehicle.
+(6) For the purposes of subsection (2)(j) none of these factors by itself means manifest injustice or manifest unfairness will be suffered by a person —
+(a) if the offence in respect of which the vehicle was impounded was an impounding offence (driver’s licence), the fact that a person responsible for the vehicle concerned had no grounds to suspect the alleged offender was not authorised to drive the vehicle at the time of the offence;
+(b) the fact that, although a responsible person for the vehicle expressly or impliedly authorised the person who allegedly committed the offence in respect of which the vehicle was impounded (the alleged offender) to drive the vehicle, the responsible person had no grounds to suspect the alleged offender would drive in a manner that contravened this Act.
+(7) A member of the Police Force or a senior police officer may require a person seeking the release of an impounded vehicle to provide information to him or her for the purposes of this section in a statutory declaration.
+(8) Circumstances that may be prescribed by regulations made for the purposes of subsection (2)(k) are not limited by the circumstances described in the other paragraphs of subsection (2).
+11.Section 79E amended
+In section 79E:
+(a) after “impounding the vehicle” insert:
+and any substitute vehicle impounded under section 79BCB and any alternative vehicle impounded under section 79BCE
+(b) delete “vehicle.” and insert:
+vehicle or vehicles.
+12.Section 80IB amended
+After section 80IB(1) insert:
+(2A) If the vehicle impounded under Subdivision 2 is a substitute vehicle impounded under section 79BCB, the expenses referred to in subsection (1) are both the expenses incurred in impounding the substitute vehicle and any unpaid expenses incurred in impounding the initially impounded vehicle (as defined in section 79BCA(1)).
+13.Section 80I amended
+After section 80I(1) insert:
+(2A) If the vehicle impounded under Subdivision 2 is a substitute vehicle impounded under section 79BCB, the expenses referred to in subsection (1) are both the expenses incurred in storing the substitute vehicle and any unpaid expenses incurred in storing the initially impounded vehicle (as defined in section 79BCA(1)).
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+51.Road Traffic Act 1974 (consequential amendments)
+s. 15(3)(c) | section 4(3)(a) | section 4(3A)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
