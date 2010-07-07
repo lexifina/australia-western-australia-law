@@ -164,6 +164,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Identity Crime) Act 2010 s. 3-5 | 16 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
+Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 Pt. 2 Div. 1 | 21 of 2010 | 7 Jul 2010 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -277,6 +278,84 @@ victim, of an identity offence, means a person whose identification material has
 (5) A certificate issued under this section is, in the absence of evidence to the contrary, evidence of its contents.
 (6) A court, for good reason and either on its own initiative or on an application made by the prosecutor, may cancel a certificate it has issued under this section.
 (7) The Governor may make regulations providing for any matter to be set out in certificates issued under this section.
+On the date as at which this compilation was prepared, the Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 Pt. 2 Div. 1 had not come into operation. It reads as follows:
+Part 2 — Child exploitation material offences
+Division 1 — The Criminal Code amended
+3.Act amended
+This Division amends The Criminal Code.
+4.Part IV Chapter XXIV inserted
+At the end of Part IV insert:
+Chapter XXIV — Child exploitation material
+216.Terms used
+In this Chapter —
+child means a person under 16 years of age;
+child exploitation material means —
+(a)child pornography; or
+(b)material that, in a way likely to offend a reasonable person, describes, depicts or represents a person, or part of a person, who is, or appears to be, a child —
+(i)in an offensive or demeaning context; or
+(ii)being subjected to abuse, cruelty or torture (whether or not in a sexual context);
+child pornography means material that, in a way likely to offend a reasonable person, describes, depicts or represents a person, or part of a person, who is, or appears to be a child —
+(a)engaging in sexual activity; or
+(b)in a sexual context;
+material includes —
+(a)any object, picture, film, written or printed matter, data or other thing; and
+(b)any thing from which text, pictures, sound or data can be produced or reproduced, with or without the aid of anything else;
+picture has the meaning given in section 204B.
+217.Involving child in child exploitation
+(1) For the purposes of this section, a person involves a child in child exploitation if the person —
+(a) invites a child to be in any way involved in the production of child exploitation material; or
+(b) causes a child to be in any way involved in the production of child exploitation material; or
+(c) procures a child for the purpose of the production of child exploitation material; or
+(d) offers a child for the purpose of the production of child exploitation material.
+(2) A person who involves a child in child exploitation is guilty of a crime and is liable to imprisonment for 10 years.
+218.Production of child exploitation material
+A person who produces child exploitation material is guilty of a crime and is liable to imprisonment for 10 years.
+219.Distribution of child exploitation material
+(1) In this section —
+distribute child exploitation material, includes —
+(a)communicate, exhibit, sell, send, supply, offer or transmit child exploitation material to another person, or enter into an agreement or arrangement to do so; or
+(b)make child exploitation material available for access by electronic or other means by another person, or enter into an agreement or arrangement to do so.
+(2) A person who distributes child exploitation material is guilty of a crime and is liable to imprisonment for 10 years.
+(3) A person who has possession of child exploitation material with the intention of distributing the material is guilty of a crime and is liable to imprisonment for 10 years.
+220.Possession of child exploitation material
+A person who has possession of child exploitation material is guilty of a crime and is liable to imprisonment for 7 years.
+221A.Defences and exclusions for section 217, 218, 219 or 220
+(1A) It is no defence to a charge of an offence under section 217, 218, 219 or 220 to prove that the accused person did not know the age of the child to whom the charge relates, or the age of the child described, depicted or represented in the material to which the charge relates, or believed that the child was of or over 16 years of age.
+(1) It is a defence to a charge of an offence under section 217, 218, 219 or 220 to prove that —
+(a) the material to which the charge relates was classified (whether before or after the commission of the alleged offence) under the Classification (Publications, Films and Computer Games) Act 1995 (Commonwealth), other than as refused classification (RC); or
+(b) the accused person did not know, and could not reasonably be expected to have known, that the material to which the charge relates describes, depicts or represents a person or part of a person in a way likely to offend a reasonable person; or
+(c) the material to which the charge relates was —
+(i) of recognised literary, artistic or scientific merit; or
+(ii) of a genuine medical character,
+and that the act to which the charge relates is justified as being for the public good; or
+(d) the accused person was acting for a genuine child protection or legal purpose, and that the person’s conduct was reasonable for that purpose.
+(2) It is a defence to a charge of an offence under section 220 to prove that —
+(a) the material to which the charge relates came into the accused person’s possession unsolicited; and
+(b) as soon as the accused person became aware of the nature of the material the accused person took reasonable steps to get rid of it.
+(3) Nothing in section 219 or 220 makes it an offence —
+(a) for a member or officer of a law enforcement agency to possess or distribute child exploitation material when acting in the course of his or her official duties; or
+(b) for a person to possess or distribute child exploitation material in the exercise of a function relating to the classification of such material conferred or imposed on the person under the Classification (Publications, Films and Computer Games) Act 1995 (Commonwealth).
+(4) In subsection (3)(a) —
+law enforcement agency means —
+(a)the Police Force of the State; or
+(b)the Police Service of the State; or
+(c)the Office of the Director of Public Prosecutions of the State; or
+(d)the Corruption and Crime Commission; or
+(e)any entity of another State or a Territory, the Commonwealth or another country that has functions similar to functions of an entity referred to in paragraph (a), (b), (c) or (d).
+221B.Forfeiture
+(1) If a person is charged with an offence against section 217, 218, 219 or 220, the court may order the material to which the charge relates be forfeited to the State.
+(2) The court may make an order under subsection (1) whether or not the person is convicted of the offence.
+(3) This section does not limit the court’s powers under section 731 or under the Criminal Property Confiscation Act 2000.
+5.Section 557K amended
+In section 557K(1) in the definition of child sex offender:
+(a) after paragraph (a)(i) insert:
+(iia)Chapter XXIV — Child exploitation material;
+(b) in paragraph (e) after “offence under” insert:
+the deleted
+(c) in paragraph (f)(ii) delete “child pornography;” and insert —
+child exploitation material (as defined in section 216);
+(d) after each of paragraphs (a) to (i) insert:
+or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
