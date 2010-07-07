@@ -12,10 +12,11 @@ Reprint 1: The Working with Children (Criminal Record Checking) Act 2004 as at 1
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 140 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
-Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Working with Children (Criminal Record Checking) Amendment Act 2010 Pt. 2 | 7 of 2010 | 27 May 2010 | To be proclaimed (see s. 2)
+ | Short title | Number and year | Assent | Commencement
+ | Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
+ | Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+ | Working with Children (Criminal Record Checking) Amendment Act 2010 Pt. 2 | 7 of 2010 | 27 May 2010 | To be proclaimed (see s. 2)
+Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 s. 15 | 21 of 2010 | 7 Jul 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 had not come into operation. It reads as follows:
 “
 Schedule 1 — Consequential amendments
@@ -366,6 +367,17 @@ s. 328 | Aggravated sexual coercion (if the person against whom the offence is c
 25.Schedule 2 amended
 In Schedule 2 under the heading relating to The Criminal Code delete the item relating to section 186 and insert:
 s. 186(1) | Occupier or owner allowing a child to be on premises for unlawful carnal knowledge (if the child in relation to whom the offence is committed is 13 or over)
+On the date as at which this compilation was prepared, the Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 s. 15 had not come into operation. It reads as follows:
+15.Working with Children (Criminal Record Checking) Act 2004 amended
+(1) This section amends the Working with Children (Criminal Record Checking) Act 2004.
+(2) In Schedule 2:
+(a) after the item relating to The Criminal Code s. 204B insert:
+s. 217 | Involving child in child exploitation
+s. 218 | Production of child exploitation material
+s. 219 | Distribution of child exploitation material
+s. 220 | Possession of child exploitation material
+(b) under the heading relating to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 delete “s. 60” and insert:
+the deleted s. 60
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
