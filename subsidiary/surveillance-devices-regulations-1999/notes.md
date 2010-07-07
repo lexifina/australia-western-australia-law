@@ -9,3 +9,4 @@ Surveillance Devices Amendment Regulations 2005 | 23 Sep 2005 p. 4363 | 23 Sep 2
 Surveillance Devices Amendment Regulations 2006 | 5 May 2006 p. 1735-6 | 5 May 2006
 Reprint 1: The Surveillance Devices Regulations 1999 as at 15 Dec 2006 (includes amendments listed above)
 Surveillance Devices Amendment Regulations 2007 | 21 Sep 2007 p. 4734-5 | r. 1 and 2: 21 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Sep 2007 (see r. 2(b))
+Surveillance Devices Amendment Regulations 2010 | 6 Jul 2010 p. 3224-5 | r. 1 and 2: 6 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jul 2010 (see r. 2(b))
