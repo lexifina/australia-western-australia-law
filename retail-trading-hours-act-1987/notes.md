@@ -16,6 +16,7 @@ Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 20
 Reprint 2: The Retail Trading Hours Act 1987 as at 16 Nov 2007 (includes amendments listed above)
 Training Legislation Amendment and Repeal Act 2008 s. 60 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
 Acts Amendment (Bankruptcy) Act 2009 s. 75 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Retail Trading Hours Amendment (Joondalup Special Trading Precinct) Act 2010 | 22 of 2010 | 7 Jul 2010 | s. 1 and 2: 7 Jul 2010 (see s. 2(a)); Act other than s. 1 and 2: 8 Jul 2010 (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
 The Retail Shops and Fair Trading Legislation Amendment Act 2006 s. 18 reads as follows:
@@ -26,3 +27,40 @@ An order made, or purporting to have been made, under the Retail Trading Hours A
 (b) continues, on and after that commencement, to have effect and the force of law; and
 (c) in relation to an order made under section 5, 12, 13 or 14 of that Act that continues to have effect and the force of law under paragraph (b) — may be amended or revoked as if it had been made under section 12E of that Act as amended by this Act.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+accessory14A(2)
+agreement3(1)
+authorised person3(1)
+chief executive officer3(1)
+commencement day42(2)
+Committee3(1)
+corporation10(3ab)
+filling station3(1)
+Fremantle special trading precinct12A(4)
+Fremantle tourism precinct12A(4)
+fuel3(1)
+holiday resort12A(4)
+inspector3(1)
+Joondalup special trading precinct12A(4)
+member3(1)
+motor vehicle3(1)
+motor vehicle shop3(1)
+officer10(3ab)
+operate3(1)
+Perth special trading precinct12A(4)
+Perth tourism precinct12A(4)
+place3(1)
+prescribed services3(1)
+publish26(2)
+related body corporate10(3ab)
+retail sale3(1)
+retail shop3(1)
+Rockingham holiday resort12A(4)
+Rottnest Island holiday resort12A(4)
+sell3(1)
+special trading precinct12A(4)
+specified12E(8)
+tourism precinct12A(4)
+Wanneroo holiday resort12A(4)
