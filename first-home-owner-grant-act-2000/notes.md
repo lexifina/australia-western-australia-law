@@ -1,67 +1,28 @@
 Notes
-This is a compilation of the First Home Owner Grant Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 July 2010 of the First Home Owner Grant Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 First Home Owner Grant Act 2000 | 16 of 2000 | 9 Jun 2000 | 1 Jul 2000 (see s. 2)
-First Home Owner Grant Amendment Act 2000 | 61 of 2000 | 7 Dec 2000 | s. 8: 1 Jul 2000 (see s. 2(2)); balance: 7 Dec 2000 (see s. 2(1))
+First Home Owner Grant Amendment Act 2000 | 61 of 2000 | 7 Dec 2000 | s. 8: 1 Jul 2000 (see s. 2(2)); Act other than s. 8: 7 Dec 2000 (see s. 2(1))
 First Home Owner Grant Amendment Act 2001 | 14 of 2001 | 14 Aug 2001 | 9 Mar 2001 (see s. 2)
-First Home Owner Grant Amendment Act 2003 | 13 of 2003 | 17 Apr 2003 | s. 5(5): 9 Mar 2001 (see s. 2(3)); s. 5 (except s. 5(5)) and 6: 9 Oct 2001 (see s. 2(2)); balance: 17 Apr 2003 (see s. 2(1))
+First Home Owner Grant Amendment Act 2003 | 13 of 2003 | 17 Apr 2003 | s. 5(5): 9 Mar 2001 (see s. 2(3)); s. 5 (except s. 5(5)) and 6: 9 Oct 2001 (see s. 2(2)); Act other than s. 5 and 6: 17 Apr 2003 (see s. 2(1))
 Acts Amendment (Equality of Status) Act 2003 Pt. 22 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 First Home Owner Grant Amendment Act 2004 | 52 of 2004 | 18 Nov 2004 | Pt. 2 and 3: 1 Jul 2004 (see s. 2(2)); Pt. 1: 18 Nov 2004 (see s. 2(1))
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 50 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 1: The First Home Owner Grant Act 2000 as at 3 Jun 2005 (includes amendments listed above)
-First Home Owner Grant Amendment Act 2005 | 26 of 2005 | 12 Dec 2005 | Act other than s. 4: 12 Dec 2005 (see s. 2(1)); s. 4: 1 Jul 2000 (see s. 2(2))
-Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+First Home Owner Grant Amendment Act 2005 | 26 of 2005 | 12 Dec 2005 | s. 4: 1 Jul 2000 (see s. 2(2)); Act other than s. 4: 12 Dec 2005 (see s. 2(1))
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and Sch. 1 cl. 67 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Revenue Laws Amendment Act (No. 2) 2008 s. 33 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 First Home Owner Grant Amendment Act 2009 | 27 of 2009 | 17 Nov 2009 | s. 3 and Pt. 2: 14 Oct 2008 (see s. 2(b)); s. 1 and 2: 17 Nov 2009 (see s. 2(a)); Pt. 4: 18 Nov 2009 (see s. 2(d)); Pt. 3: 1 Jan 2010 (see s. 2(c) and Gazette 22 Dec 2009 p. 5253)
 Revenue Laws Amendment and Repeal Act 2010 Pt. 3 | 17 of 2010 | 25 Jun 2010 | 26 Jun 2010 (see s. 2(b))
-The First Home Owner Grant Amendment Act 2001 s. 7 reads as follows:
-“
-7.Saving of right to object
-(1) Section 28 of the First Home Owner Grant Act 2000 applies in relation to an application for a first home owner grant for an eligible transaction that is a special eligible transaction as if subsection (1) of that section were repealed and the following subsection were inserted instead —
-“
-(1)An objection to a decision on the application is to be lodged within 60 days after the later of —
-(a)the date on which notice of the decision is given to the objector; or
-(b)the day on which the First Home Owner Grant Amendment Act 2001 received the Royal Assent.
-”.
-(2) In subsection (1) —
-eligible transaction, first home owner grant and special eligible transaction each has the same meaning as it has in the First Home Owner Grant Act 2000, as amended by this Act.
-”.
-The First Home Owner Grant Amendment Act 2003 s. 10 reads as follows:
-“
-10.Saving of right to object
-(1) Section 28 (the relevant section) of the First Home Owner Grant Act 2000 applies in relation to an application for a first home owner grant for an eligible transaction that is —
-(a) a class 1 eligible transaction, but only to the extent that the objection referred to in the relevant section relates to a date referred to in section 14B(5)(a) of that Act;
-(b) a class 2 eligible transaction, but only to the extent that the objection referred to in the relevant section relates to —
-(i) a period referred to in section 14B(1a)(b) of that Act; or
-(ii) a date referred to in section 14B(5)(a) of that Act;
-or
-(c) a class 3 eligible transaction,
-as if subsection (1) of the relevant section were repealed and the following subsection were inserted instead —
-“
-(1)An objection to a decision on the application is to be lodged within 60 days after the later of —
-(a)the date on which notice of the decision is given to the objector; or
-(b)the day on which the First Home Owner Grant Amendment Act 2003 received the Royal Assent.
-”.
-(2) In subsection (1) —
-class 1 eligible transaction, class 2 eligible transaction, class 3 eligible transaction, eligible transaction and first home owner grant each has the same meaning as it has in the First Home Owner Grant Act 2000;
-First Home Owner Grant Act 2000 means that Act as amended by this Act.
-”.
-The First Home Owner Grant Amendment Act 2004 Pt. 3 reads as follows:
-“
-Part 3 — Transitional provisions
-15.Definitions
-A term used in this Part that is defined in the First Home Owner Grant Act 2000 has the same meaning in this Part as it has in that Act.
-16.Application of amendments to minimum age requirements
-Despite the amendments effected by section 6, the First Home Owner Grant Act 2000 as in force immediately before the commencement of that section continues to apply in relation to an eligible transaction the commencement date of which is before 1 July 2004.
-17.Application of amendments to residence requirements
-Despite the amendments effected by section 9, the First Home Owner Grant Act 2000 as in force immediately before the commencement of that section continues to apply in relation to an eligible transaction the commencement date of which is before 1 July 2004.
-”.
+Reprint 2: The First Home Owner Grant Act 2000 as at 9 Jul 2010 (includes amendments listed above)
+The First Home Owner Grant Amendment Act 2001 s. 7 is a savings provision of no further effect.
+The First Home Owner Grant Amendment Act 2003 s. 10 is a savings provision of no further effect.
+The First Home Owner Grant Amendment Act 2004 Pt. 3 is a transitional provision of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 20 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 20 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The First Home Owner Grant Amendment Act 2005 Pt. 3 reads as follows:
-“
 Part 3 — Transitional provisions
 Division 1 — First home owner grant
 5.Terms used in this Division
@@ -105,4 +66,78 @@ If an application is made to the Commissioner under section 75AG for the amount 
 (i) the completion of the eligible transaction; or
 (ii) the day on which the First Home Owner Grant Amendment Act 2005 receives the Royal Assent.
 ”.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+administration agreement37(1)
+applicant,41A(1)
+application3(1)
+approved30(1A), 32(1)
+Australian citizen3(1), 7A
+authorised investigator3(1), 48(3)
+building3(1)
+cap amount3(1), 14AD
+class 1 eligible transaction14B(1)
+class 2 eligible transaction14B(1a)
+class 3 eligible transaction14B(1b)
+class 4 eligible transaction14B(2)
+class 5 eligible transaction14B(3)
+class 6 eligible transaction14B(4A)
+class 7 eligible transaction14B(4B)
+commencement date3(1), 14AA(1)
+Commissioner3(1)
+completed3(1), 14AA(2)
+comprehensive home building contract3(1)
+confidential information65(7)
+consideration3(1), 14AB
+corresponding Commissioner3(1)
+corresponding law3(1)
+cut-off date14A
+de facto partner3(1)
+decision on the application26
+document47(3)
+eligibility criteria3(1)
+eligible transaction3(1), 14(1)
+established home14A
+first home owner grant3(1)
+first home owner grant scheme3(1)
+guardian3(1)
+home3(1), 4
+home owner5
+identity card3(1)
+interested person16(3)
+licensed valuer41A(1)
+new home14A
+non-conforming interest6(3)
+objector26
+option to purchase3(1)
+outstanding amount58(1)(a)(i)
+owner3(1), 5
+owner builder3(1)
+permanent resident3(1), 7B
+premises3(1)
+property3(1)
+registered55(6)
+Registrar3(1)
+relevant amount19(3)
+relevant date14A
+relevant day21(3)
+relevant interest3(1), 6(1)
+relevant material3(1)
+repayment arrangement3(1)
+required repayment52(1)(a)
+required residence period3(1), 13(2)
+residence requirements3(1)
+residential property3(1), 3(2)
+special eligible transaction14A
+spouse3(1), 7(1)
+State65(7)
+substantially renovated home14A
+take-up period3(1), 13(5)
+taxation law3(1)
+the applicant11(1)(b)
+the home3(1)
+the other grant11(1)(b)
+total value3(1), 14AC(1)
+transaction3(1)
+unencumbered value3(1), 14AE(1)
