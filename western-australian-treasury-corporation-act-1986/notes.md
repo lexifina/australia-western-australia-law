@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 May 2010 of the Western Australian Treasury Corporation Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Western Australian Treasury Corporation Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Western Australian Treasury Corporation Act 1986 | 16 of 1986 | 25 Jul 1986 | 1 Jul 1986 (see s. 2)
@@ -20,14 +20,14 @@ Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 17 | 21 of 2003 | 2
 Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 132 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 2: The Western Australian Treasury Corporation Act 1986 as at 2 Sep 2005 (includes amendments listed above)
+Housing Societies Repeal Act 2005 s. 31 | 17 of 2005 | 5 Oct 2005 | 10 Jul 2010 (see s. 2(3) and Gazette 9 Jul 2010 p. 3239)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 11 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 16 and Sch. 1 cl. 186 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 138 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
- | Reprint 3: The Western Australian Treasury Corporation Act 1986 as at 7 May 2010 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+ | Reprint 3: The Western Australian Treasury Corporation Act 1986 as at 7 May 2010 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 31)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Housing Societies Repeal Act 2005 s. 31 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Co-operatives Act 2009 s. 511 and 518 | 24 of 2009 | 22 Oct 2009 | s. 511: to be proclaimed (see s. 2(b)); s. 518: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 The Western Australian Treasury Corporation Amendment Act 1992 s. 7(4) reads as follows:
 (4) Any agreement or arrangement entered into, or transaction effected, before the commencement of this section which would have been lawful and valid had —
@@ -77,11 +77,8 @@ has the same effect after commencement, to the extent that it has any force or s
 (3) In this section —
 commencement means the time at which this Division comes into operation;
 Minister means the Minister to whom the administration of the Western Australian Treasury Corporation Act 1986 is committed.
-On the date as at which this reprint was prepared, the Housing Societies Repeal Act 2005 s. 31 had not come into operation. It reads as follows:
-31.Western Australian Treasury Corporation Act 1986 amended
-(1) The amendment in this section is to the Western Australian Treasury Corporation Act 1986.
-(2) Schedule 1 item 4 is deleted.
-On the date as at which this reprint was prepared, the Co-operatives Act 2009 s. 511 and 518 had not come into operation. They read as follows:
+Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 511 and 518 had not come into operation. They read as follows:
 511.Western Australian Treasury Corporation Act 1986 amended
 (1) This section amends the Western Australian Treasury Corporation Act 1986.
 (2) After Schedule 1 item 6 insert:

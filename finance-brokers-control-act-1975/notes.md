@@ -21,8 +21,9 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 46 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | s. 78: 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53)); s. 80 and 82: 31 Oct 2005 (see s. 2 and Gazette 28 Oct 2005 p. 4839)
 Reprint 3: The Finance Brokers Control Act 1975 as at 5 Aug 2005 (includes amendments listed above except those in the Finance Brokers Control Amendment Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82)
+Housing Societies Repeal Act 2005 s. 27 | 17 of 2005 | 5 Oct 2005 | 10 Jul 2010 (see s. 2(3) and Gazette 9 Jul 2010 p. 3239)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
-Reprint 4: The Finance Brokers Control Act 1975 as at 13 Oct 2006 (includes amendments listed above)
+Reprint 4: The Finance Brokers Control Act 1975 as at 13 Oct 2006 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 27)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Legal Profession Act 2008 s. 664 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
@@ -30,8 +31,8 @@ Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 201
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Housing Societies Repeal Act 2005 s. 27 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 5 Div. 1 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The appointed day is 1 August 1977; see Gazette 17 June 1977 p. 1834.
 The Business Licensing Amendment Act 1995 s. 24 is a transitional provision that is of no further effect.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
@@ -109,12 +110,24 @@ transitional matter means a matter or thing necessary or convenient to provide f
 The amendment in the Finance Brokers Amendment Act 2004 s. 74(2) is not included because the subsection it sought to amend had been replaced by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 before it purported to come into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment in the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 to amend s. 15(2)(c)(iv) is not included because the subsection it sought to amend had been replaced by the Finance Brokers Control Amendment Act 2004 s. 10.
-On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 27 had not come into operation. It reads as follows:
-27.Finance Brokers Control Act 1975 amended
-(1) The amendment in this section is to the Finance Brokers Control Act 1975.
-(2) Section 5(1)(c) is deleted.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 5 Div. 1 had not come into operation. It reads as follows:
 Part 5 — Finance Brokers Control Act 1975 repealed
 Division 1 — Repeal
 80.Finance Brokers Control Act 1975 repealed
 The Finance Brokers Control Act 1975 is repealed.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 and 51 had not come into operation. They read as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Table
+Act | Identifier | Title | Shoulder note
+Finance Brokers Control Act 1975 | Schedule
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+21.Finance Brokers Control Act 1975
+Sch. | (1)The rate (2)(a)In lieu (i)to calculate (ii)to convert (b)For the | 1.Formula for calculating percentage rate of interest (1)The rate (2A)In lieu (a)to calculate (b)to convert (2B)For the

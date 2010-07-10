@@ -21,9 +21,10 @@ Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 87 | 26 of 1999 
 Building Societies Amendment Act 2001 s. 49 and 51 | 12 of 2001 | 13 Jul 2001 | 13 Jul 2001 (see s. 2)
 Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 10 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
 Acts Amendment (Equality of Status) Act 2003 Pt. 29 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
+Housing Societies Repeal Act 2005 s. 28 | 17 of 2005 | 5 Oct 2005 | 10 Jul 2010 (see s. 2(3) and Gazette 9 Jul 2010 p. 3239)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 10 Div. 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Reprint 2: The Housing Act 1980 as at 18 Aug 2006 (includes amendments listed above)
+Reprint 2: The Housing Act 1980 as at 18 Aug 2006 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 28)
 Land Information Authority Act 2006 s. 137 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
@@ -32,7 +33,7 @@ Aboriginal Housing Legislation Amendment Act 2010 Pt. 2 | 6 of 2010 | 25 May 201
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Housing Societies Repeal Act 2005 s. 28 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Housing Amendment Act 1983 s. 4(2) is a transitional provision that is of no further effect.
@@ -70,11 +71,13 @@ former body means —
 (a)the Country Housing Authority established by section 4 of the Country Housing Act 1998 as in force before commencement;
 (b)the Government Employees’ Housing Authority established by section 8 of the Government Employees’ Housing Act 1964 as in force before commencement;
 Housing Authority means the Housing Authority referred to in section 6(4) of the Housing Act 1980 as in force after commencement.
-On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 28 had not come into operation. It reads as follows:
-28.Housing Act 1980 amended
-(1) The amendments in this section are to the Housing Act 1980.
-(2) Section 52(1) is amended in the definition of “lending institution” by deleting paragraph (a).
-(3) Section 55(5) is amended by deleting “or on termination of the lending institution in the case of a housing society;”.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+31.Housing Act 1980
+s. 5(1) | (a)approved the State; (b)a reference (c)a reference (d)a reference (e)a reference | approved the State. (1A)In this Act unless the contrary intention appears — (a)a reference (b)a reference (c)a reference (d)a reference
+s. 55(5) | until proceedings institution, whether under or on termination or by such institution; or unless and until the State, pursuant to | until — (a)proceedings institution, whether — (i)under or (ii)on termination or (iii)by such institution; or (b)the State, pursuant to
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
