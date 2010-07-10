@@ -1,6 +1,6 @@
 ## Eleventh Schedule
 [s. 407]
-## Rules for Proceedings for Winding-up Companies by Order of the Court*
+Rules for Proceedings for Winding-up Companies by Order of the Court*
 *[See also Companies (Liquidators’ Accounts) Rules 1949 published in Gazette dated 24 June 1949.]
 Petition
 1.Every petition for winding-up a company by order of the Court shall be intituled in the matter of the Companies (Co-operative) Act 1943, and of the company to which the petition relates, describing the company by its most usual name or firm.
@@ -212,7 +212,7 @@ In the matter, etc.
 Appearance Book.
 Date when Appearance Entered. | Party’s Name. | Whether Creditor, Contributory, Shareholder. | If he appears in Person, his address for Service. | If he appears by a Solicitor, his Solicitor’s Name. | Solicitor’s Address. | Amount of Debt (or Number of Shares).
 [Forms 22 and 23 deleted in Gazette 24 Jun 1949 p. 1373.]
-## Rules for meetings of creditors, contributories, or shareholders of a company under liquidation.
+Rules for meetings of creditors, contributories, or shareholders of a company under liquidation.
 1.The liquidator of the company shall summon any meeting of creditors, contributories or shareholders of the company, by giving not less than 14 days’ notice of the time and place thereof in the Government Gazette, and in daily newspapers published in Perth. At least 14 days’ notice of such meeting shall also be sent by post to every person appearing to be a creditor of the company in the case of a meeting of creditors, and to every contributory or shareholder in the case of a meeting of contributories or shareholders. The notice shall state the object of the meeting unless a Judge otherwise directs.
 2.The meeting shall be held at such place as is in the opinion of the liquidator most convenient for the majority of the creditors or contributories or shareholders, as the case may be.
 3.The liquidator, or some person nominated by him or by the Court, shall be the chairman at the meetings.
