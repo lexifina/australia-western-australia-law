@@ -50,18 +50,18 @@ Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Companies (Co-operative) (Fees) Regulations 2005 published in Gazette 28 Jun 2005 p. 2903-5 | 1 Jul 2005 (see r. 2)
 Reprint 3: The Companies (Co-operative) Act 1943 as at 19 Aug 2005 (includes amendments listed above)
+Housing Societies Repeal Act 2005 s. 21 | 17 of 2005 | 5 Oct 2005 | 10 Jul 2010 (see s. 2(3) and Gazette 9 Jul 2010 p. 3239)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 5 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Companies (Co-operative) (Fees) Regulations 2007 published in Gazette 15 Jun 2007 p. 2767-70 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Duties Legislation Amendment Act 2008 Sch. 1 cl. 3 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Legal Profession Act 2008 s. 649 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Companies (Co-operative) (Fees) Regulations 2009 published in Gazette 23 Jun 2009 p. 2434-6 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
-Reprint 4: The Companies (Co-operative) Act 1943 as at 7 Aug 2009 (includes amendments listed above)
+Reprint 4: The Companies (Co-operative) Act 1943 as at 7 Aug 2009 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 21)
 Acts Amendment (Bankruptcy) Act 2009 s. 18 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Housing Societies Repeal Act 2005 s. 21 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Co-operatives Act 2009 s. 490 | 24 of 2009 | 22 Oct 2009 | Operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 This refers to the Commonwealth Bankruptcy Act 1924 which was replaced by the Commonwealth Bankruptcy Act 1966.
 The Companies Act 1893 was repealed by the Companies Act 1943, which was repealed by the Companies Act 1961, s. 4 and 382(2), except in relation to Co-operative Companies, in respect of which it may now be cited as the Companies (Co-operative) Act 1943.
@@ -120,13 +120,7 @@ In this Division —
 commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
-On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 21 had not come into operation. It reads as follows:
-21.Companies (Co-operative) Act 1943 amended
-(1) The amendments in this section are to the Companies (Co-operative) Act 1943.
-(2) Section 46(3a) is amended by deleting paragraph (a) and “or” after it.
-(3) Section 172(1) is amended by deleting paragraph (a) and “or” after it.
-(4) Section 176A(1)(c) is deleted.
-(5) Section 366 is amended in the definition of “Company” by deleting “, or a society registered under the Housing Societies Act 1976”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 490 had not come into operation. It reads as follows:
 490.Companies (Co-operative) Act 1943 repealed
 The Companies (Co-operative) Act 1943 is repealed.

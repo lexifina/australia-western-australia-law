@@ -18,6 +18,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 30 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Credit Act 1984 as at 24 Jun 2005 (includes amendments listed above)
+Housing Societies Repeal Act 2005 s. 24 | 17 of 2005 | 5 Oct 2005 | 10 Jul 2010 (see s. 2(3) and Gazette 9 Jul 2010 p. 3239)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 9 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 44 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
@@ -25,9 +26,23 @@ Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 201
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Housing Societies Repeal Act 2005 s. 24 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Strata Titles Act 1985.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Act | Identifier | Title | Shoulder note
+Credit Act 1984 | Schedule 1
+Schedule 2
+Schedule 3
+Schedule 4
+Schedule 5
+Schedule 6
+Schedule 7
 Now see the Broadcasting Services Act 1992 of the Commonwealth.
 Repealed by the Revenue Laws Amendment and Repeal Act 2004 s. 37(1).
 The Acts Amendment (Credit) Act 1989 s. 5(2) reads as follows:
@@ -35,10 +50,7 @@ The Acts Amendment (Credit) Act 1989 s. 5(2) reads as follows:
 (a) applies to any failure, error or misdescription in any regulated contract as defined in the principal Act that is the subject of an application made under section 85 or 86 of the principal Act before the day that this section comes into operation and that is pending on the day;
 (b) affects any final order made under section 85 or 86 of the principal Act before the day that this section comes into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 24 had not come into operation. It reads as follows:
-24.Credit Act 1984 amended
-(1) The amendment in this section is to the Credit Act 1984.
-(2) Section 18(1) is amended by deleting “, or a society registered under the Housing Societies Act 1976,”.
+Footnote no longer applicable.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 Division 23 — Transitional provisions
 151.Commissioner for Fair Trading

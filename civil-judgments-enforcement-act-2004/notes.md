@@ -3,15 +3,15 @@ This is a compilation of the Civil Judgments Enforcement Act 2004 and includes t
 Compilation table
 Short title | Number and year | Assent | Commencement
 Civil Judgments Enforcement Act 2004 | 28 of 2004 | 14 Oct 2004 | s. 1 and 2: 14 Oct 2004; Act other than s. 1 and 2: 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Housing Societies Repeal Act 2005 s. 20 | 17 of 2005 | 5 Oct 2005 | 10 Jul 2010 (see s. 2(3) and Gazette 9 Jul 2010 p. 3239)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Acts Amendment (Justice) Act 2008 Pt. 3 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 645 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
-Reprint 1: The Civil Judgments Enforcement Act 2004 as at 20 Feb 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
+Reprint 1: The Civil Judgments Enforcement Act 2004 as at 20 Feb 2009 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 20 and the Legal Profession Act 2008 s. 645)
 Police Amendment Act 2009 s. 13 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Housing Societies Repeal Act 2005 s. 20 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Co-operatives Act 2009 s. 507 and 512 | 24 of 2009 | 22 Oct 2009 | s. 507: to be proclaimed (see s. 2(b)); s. 512: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
@@ -79,15 +79,7 @@ Division 2 — General
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State) the rights of that person existing before the day of publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of publication.
 ”.
-On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 20 had not come into operation. It reads as follows:
-“
-20.Civil Judgments Enforcement Act 2004 amended
-(1) The amendments in this section are to the Civil Judgments Enforcement Act 2004.
-(2) Section 45 is amended in the definition of “financial institution” as follows:
-(a) after paragraph (c) by inserting —
-“ or ”;
-(b) by deleting paragraph (d) and “or” after it.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 507 and 512 had not come into operation. They read as follows:
 507.Civil Judgments Enforcement Act 2004 amended
 (1) This section amends the Civil Judgments Enforcement Act 2004.

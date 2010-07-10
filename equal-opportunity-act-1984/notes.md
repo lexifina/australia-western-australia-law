@@ -31,19 +31,19 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 33 and 112 | 6
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 43 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Reprint 4: The Equal Opportunity Act 1984 as at 1 Apr 2005 (includes amendments listed above except those in the Courts Legislation Amendment and Repeal Act 2004)
+Housing Societies Repeal Act 2005 s. 26 | 17 of 2005 | 5 Oct 2005 | 10 Jul 2010 (see s. 2(3) and Gazette 9 Jul 2010 p. 3239)
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 452(1) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Solicitor-General Amendment Act 2006 s. 12 | 29 of 2006 | 30 Jun 2006 | 18 Jul 2006 (see s. 2)
 Liquor and Gaming Legislation Amendment Act 2006 s. 117 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 5: The Equal Opportunity Act 1984 as at 2 Mar 2007 (includes amendments listed above)
+Reprint 5: The Equal Opportunity Act 1984 as at 2 Mar 2007 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 26)
 Acts Amendment (Justice) Act 2008 Pt. 10 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 661 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Acts Amendment (Bankruptcy) Act 2009 s. 36 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Housing Societies Repeal Act 2005 s. 26 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Co-operatives Act 2009 s. 509 and 514 | 24 of 2009 | 22 Oct 2009 | s. 509: to be proclaimed (see s. 2(b)); s .514: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 Equal Opportunity Amendment Act 2010 s. 3-21 | 2 of 2010 | 1 Apr 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
@@ -71,26 +71,7 @@ The State Administrative Tribunal Regulations 2004 r. 48 reads as follows:
 Unless the context otherwise requires, where in an arrangement made under the Equal Opportunity Act 1984 section 7 there is a reference to the Equal Opportunity Tribunal that reference is to be read and construed as a reference to the State Administrative Tribunal.
 ”.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
-On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 26 had not come into operation. It reads as follows:
-“
-26.Equal Opportunity Act 1984 amended
-(1) The amendments in this section are to the Equal Opportunity Act 1984.
-(2) Section 35N(1) is amended as follows:
-(a) after paragraph (b) by inserting —
-“ or ”;
-(b) after paragraph (c) by deleting “; or” and inserting a full stop;
-(c) by deleting paragraph (d).
-(3) Section 66ZS(1)(a) is amended as follows:
-(a) after subparagraph (ii) by inserting —
-“ or ”;
-(b) after subparagraph (iii) by deleting “or”;
-(c) by deleting subparagraph (iv).
-(4) Section 69(1)(b) is amended as follows:
-(a) after subparagraph (ii) by inserting —
-“ or ”;
-(b) after subparagraph (iii) by deleting “or”;
-(c) by deleting subparagraph (iv).
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 509 and 514 had not come into operation. They read as follows:
 509.Equal Opportunity Act 1984 amended
 (1) This section amends the Equal Opportunity Act 1984.

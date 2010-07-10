@@ -18,19 +18,16 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 40(4) | 74 of 2003 | 15 Dec 
 Reprint 2: The Credit (Administration) Act 1984 as at 6 Aug 2004 (includes amendments listed above)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 31 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+Housing Societies Repeal Act 2005 s. 23 | 17 of 2005 | 5 Oct 2005 | 10 Jul 2010 (see s. 2(3) and Gazette 9 Jul 2010 p. 3239)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 10 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Reprint 3: The Credit (Administration) Act 1984 as at 4 Aug 2006 (includes amendments listed above)
+Reprint 3: The Credit (Administration) Act 1984 as at 4 Aug 2006 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 23 )
 Pawnbrokers and Second-hand Dealers Amendment Act 2006 s. 23 | 46 of 2006 | 4 Oct 2006 | 1 May 2007 (see s. 2 and Gazette 30 Apr 2007 p. 1833)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 4 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 4: The Credit (Administration) Act 1984 as at 11 Jul 2008 (includes amendments listed above)
+Reprint 4: The Credit (Administration) Act 1984 as at 11 Jul 2008 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 23 )
 Acts Amendment (Bankruptcy) Act 2009 s. 25 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 3 Div. 1 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Housing Societies Repeal Act 2005 s. 23 | 17 of 2005 | 5 Oct 2005 | To be proclaimed (see s. 2(3) and (4))
 Repealed by the Strata Titles Act 1985.
 Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 of the Commonwealth.
 Footnote no longer applicable.
@@ -92,10 +89,6 @@ In this Division —
 commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
-On the date as at which this compilation was prepared, the Housing Societies Repeal Act 2005 s. 23 had not come into operation. It reads as follows:
-23.Credit (Administration) Act 1984 amended
-(1) The amendment in this section is to the Credit (Administration) Act 1984.
-(2) Section 7(1)(h) is deleted.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

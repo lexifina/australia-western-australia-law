@@ -48,7 +48,7 @@ financial institution means —
 (a)an ADI within the meaning of section 5 of the Banking Act 1959 of the Commonwealth;
 (b)the Reserve Bank of Australia;
 (c)a person who carries on State banking within the meaning of section 51(xiii) of the Commonwealth Constitution;
-(d)a society to which the Housing Societies Act 1976 applies;
+[(d)deleted]
 (e)a registered society within the meaning of the Co-operative and Provident Societies Act 1903;
 (f)a financial corporation within the meaning of section 51(xx) of the Constitution of the Commonwealth; or
 (g)a body corporate that would be a financial corporation within the meaning of section 51(xx) of the Constitution of the Commonwealth if the body had been incorporated in Australia;
@@ -118,4 +118,4 @@ value, in relation to —
 (d)property sold by or for the State — has the meaning given in section 152; and
 (e)the transfer of property — has the meaning given in section 154;
 wealth has the meaning given in section 143.
-[Glossary amended by No. 12 of 2001 s. 51; No. 20 of 2003 s. 19; No. 28 of 2003 s. 42; No. 2 of 2008 s. 61(3); No. 22 of 2008 Sch. 3 cl. 17.]
+[Glossary amended by No. 12 of 2001 s. 51; No. 20 of 2003 s. 19; No. 28 of 2003 s. 42; No. 17 of 2005 s. 25; No. 2 of 2008 s. 61(3); No. 22 of 2008 Sch. 3 cl. 17.]
