@@ -139,18 +139,4 @@ Signature of person referring notice for review:
 Date:
 NOTE:A reference of a prohibition notice for review must be made to the Commissioner within 7 days of the issue of the notice or such further time as may be allowed by the Commissioner [section 51(2)(b) of the Act].
 [Form 5 amended in Gazette 7 Jun 2002 p. 2736.]
-Form 6 — Reference to safety and health magistrate for review of decision
-[Regulation 2.16(2)]
-Occupational Safety and Health Act 1984
- | OFFICE USE ONLY IN THE LOCAL COURT OF WA SITTING AT . . . . . . . . . . . . . . . . . . . . . . . . . . . PLAINT No. . . . . . . . . . . . . . . . . . . . . . . . . . . .
-TO | THE SAFETY AND HEALTH MAGISTRATE SITTING AT THE LOCAL COURT AT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-APPLICANT | TAKE NOTICE THAT I . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Full name) OF . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Phone no.)
-TYPE OF APPLICATION |  | HEREBY REFER FOR REVIEW
-oA decision of the WorkSafe Western Australia Commissioner made on . . . . . . . . . . /. . . . . . . . . . /. . . . . . . . . . oOther matter (Provide details) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
- | THE DECISION/MATTER RELATES TO THE WORKPLACE AT
- | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Address of Workplace) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .(Name of Employer)
-SECTION OF ACT OR | AND CONCERNS
-REGULATION | SECTION/REGULATION No.
-GROUNDS OF APPLICATION | AND I REQUEST THE REVIEW ON THE FOLLOWING GROUNDS
-SIGNATURE OF APPLICANT AND DATE | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Signature of person calling for review) . . . . . . . . . /. . . . . . . . . /. . . . . . . . .(Date of Application)
-[Form 6 amended in Gazette 1 Apr 2005 p. 1067.]
+[Form 6 deleted in Gazette 9 Jul 2010 p. 3247.]
