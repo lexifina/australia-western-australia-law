@@ -19,7 +19,7 @@ Occupational Safety and Health (Validation) Act 1998 | 63 of 1998 | 12 Jan 1999 
 Reprint of the Occupational Safety and Health Act 1984 as at 22 Mar 1999 (includes amendments listed above)
 Occupational Safety and Health Amendment Act 2002 | 54 of 2002 | 3 Jan 2003 | s. 1, 2 and 8: 3 Jan 2003 (see s. 2(2)); Act other than s. 1, 2 and 8: 3 Jan 2004 (see s. 2(1))
 Statutes (Repeals and Minor Amendments) Act 2003 s. 87 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
-Occupational Safety and Health Legislation Amendment and Repeal Act 2004 Pt. 1-6 (other than s. 65, 66 and 68), Pt. 7 and s. 104-114 | 51 of 2004 | 12 Nov 2004 | s. 1 and 2: 12 Nov 2004; Act other than s. 1 and 2, Pt. 4 and 6 and s. 105 and 106: 1 Jan 2005 (see s. 2 and Gazette 14 Dec 2004 p. 5999-6000); Pt. 4 and 6 (other than s. 65, 66 and 68), s. 105 and 106: 4 Apr 2005 (see s. 2 and Gazette 14 Dec 2004 p. 5999-6000)
+Occupational Safety and Health Legislation Amendment and Repeal Act 2004 | 51 of 2004 | 12 Nov 2004 | s. 1 and 2: 12 Nov 2004; Act other than s. 1 and 2, Pt. 4 and 6 and s. 105 and 106: 1 Jan 2005 (see s. 2 and Gazette 14 Dec 2004 p. 5999-6000); Pt. 4 and 6, s. 105 and 106: 4 Apr 2005 (see s. 2 and Gazette 14 Dec 2004 p. 5999-6000); s. 65, 66 and 68: 14 Jul 2010 (see s. 2 and Gazette 13 Jul 2010 p.. 3291)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Mines Safety and Inspection Amendment Act 2004 s. 94 | 68 of 2004 | 8 Dec 2004 | 4 Apr 2005 (see s. 2(1) and Gazette 11 Feb 2005 p. 695)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
@@ -31,12 +31,11 @@ Police Amendment Act 2008 s. 15 and s. 23(5) | 8 of 2008 | 31 Mar 2008 | s. 15: 
 Training Legislation Amendment and Repeal Act 2008 s. 57 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
 Reprint 6: The Occupational Safety and Health Act 1984 as at 19 Dec 2008 (includes amendments listed above except those in the Petroleum Legislation Amendment and Repeal Act 2005, the Petroleum Amendment Act 2007 and the Training Legislation Amendment and Repeal Act 2008)
 Acts Amendment (Bankruptcy) Act 2009 s. 60 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-Occupational Safety and Health Legislation Amendment Act 2009 | 36 of 2009 | 3 Dec 2009 | 3-10, 14 and 16: 4 Dec 2009 (see s. 2(d)) s. 13: 31 Dec 2009 (see s. 2(c))
+Occupational Safety and Health Legislation Amendment Act 2009 Pt. 2 | 36 of 2009 | 3 Dec 2009 | s. 3-10, 14 and 16: 4 Dec 2009 (see s. 2(d)) s. 13: 31 Dec 2009 (see s. 2(c)) s. 11, 12 and 15: 14 Jul 2010 (see s. 2(b) and Gazette 13 Jul 2010 p. 3291)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 65, 66 and 68 | 51 of 2004 | 12 Nov 2004 | To be proclaimed (see s. 2)
-Occupational Safety and Health Legislation Amendment Act 2009 s. 11, 12 and 15 | 36 of 2009 | 3 Dec 2009 | s. 11, 12 and 15: to be proclaimed (see s. 2(b));
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
@@ -117,39 +116,18 @@ as if section 68 had not been enacted.
 (1) An application for leave to appeal made under section 54B(2) of the Occupational Safety and Health Act 1984 but not finally determined before the commencement of section 68, and an appeal for which leave is granted on such an application, may be dealt with and determined as if that section had not been enacted.
 (2) An appeal brought under section 54B(2) of the Occupational Safety and Health Act 1984 but not finally determined before the commencement of section 68, may be dealt with and determined as if that section had not been enacted.
 ”.
-On the date as at which this compilation was prepared, the Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 65, 66 and 68 had not come into operation. They read as follows:
-“
-65.Section 51C amended
-(1) Section 51C(1) is amended by deleting paragraph (a) and “and” after that paragraph.
-(2) Section 51C(2), (3) and (4) are repealed.
-66.Section 51D repealed
-Section 51D is repealed.
-68.Section 54B amended
-Section 54B(2), (3) and (4) are repealed.
-”.
-Footnote no longer applicable.
+Footnotes no longer applicable.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
+4.Schedule headings reformatted
+(1) This section amends the Acts listed in the Table.
+(2) In each Schedule listed in the Table:
+(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
+(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
+(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
+Act | Identifier | Title | Shoulder note
+Occupational Safety and Health Act 1984 | Schedule |  | [s. 60(5)]
 This amendment took effect on 15 May 2010 when the Petroleum Legislation Amendment and Repeal Act 2005 s. 50 came into operation, see Gazette 14 May 2010 p. 2015.
 A reference to the Petroleum Safety Act 1999 is not included in the table because that Act was repealed before the amendments in Sch. 2 to that Act came into operation. The repeal was made by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51.
-On the date as at which this compilation was prepared, the Occupational Safety and Health Legislation Amendment Act 2009 s. 11, 12 and 15 had not come into operation. They read as follows:
-11.Section 51A amended
-In section 51A(2) delete “in the prescribed form”.
-12.Section 51G amended
-In section 51G(1) delete “(3) and 51A(1).” and insert:
-(3), 51A(1) and 61A.
-15.Section 61A inserted
-After section 60 insert:
-61A.Review of Commissioner’s decisions under the regulations
-(1) In this section —
-reviewable decision means —
-(a)a decision made under the regulations by the Commissioner himself or herself; and
-(b)a determination of the Commissioner on the review, under the regulations, of a decision made under the regulations by a person other than the Commissioner, whether or not the decision was made by that person as a delegate of the Commissioner,
-but does not include a decision made by a person acting as a delegate of the Commissioner.
-(2) A person who is not satisfied with a reviewable decision may, within 14 days of receiving notice of the decision, refer the decision to the Tribunal for review.
-(3) On reference of a decision under subsection (2), the Tribunal is to inquire into the circumstances relevant to the decision and may —
-(a) affirm the decision; or
-(b) set aside the decision; or
-(c) substitute for the decision any decision that the Tribunal considers the Commissioner should have made in the first instance.
-(4) Pending the decision on a reference under this section, the operation of the reviewable decision is to continue, subject to any decision to the contrary made by the Tribunal.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -221,6 +199,7 @@ residential premises23G(1)
 responsible agency55D(1)(a)
 responsible person23L(2)(d)
 review notice51AH(2)
+reviewable decision61A
 risk3(1)
 safety and health committee3(1)
 safety and health magistrate3(1)
