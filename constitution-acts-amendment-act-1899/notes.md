@@ -251,13 +251,14 @@ Reprint 16: The Constitution Acts Amendment Act 1899 as at 16 Jan 2009 (includes
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 37 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 National Gas Access (WA) Act 2009 s. 68 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327)
 Acts Amendment (Bankruptcy) Act 2009 s. 20 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Royalties for Regions Act 2009 Pt. 5 | 41 of 2009 | 3 Dec 2009 | 17 Jul 2010 (see s. 2(b) and Gazette 16 Jul 2010 p. 3357)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 and 35 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative at “transfer time” fixed under the State Superannuation Act 2000 s. 56 (see s. 2(1)(c))
-Royalties for Regions Act 2009 Pt. 5 | 41 of 2009 | 3 Dec 2009 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 14, 43(2), 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions repealed by the Health Amendment Act 1985.
@@ -365,13 +366,48 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Royalties for Regions Act 2009 Pt. 5 had not come into operation. It reads as follows:
-Part 5 — Consequential amendment
-32.Constitution Acts Amendment Act 1899 amended
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 14, 43(2), 44(2) and 51 had not come into operation. They read as follows:
+14.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
-(2) In Schedule V Part 3 after the item for The Western Australian Post-Secondary Education Commission insert:
-The Western Australian Regional Development Trust established under the Royalties for Regions Act 2009.
+(2) In Schedule I reformat the heading to the Schedule so it is in the current format.
+(3) In Schedule V:
+(a) delete “Schedule V”;
+(b) delete “[Sections 34 and 37]”;
+(c) delete “Part 1”;
+(d) delete “Division 1” (first occurrence),
+and insert:
+Schedule V — Offices and bodies to which Part I Division 3 applies
+[s. 34 and 37]
+Part 1 — Disqualifying offices
+Division 1 — Judicial, tribunal and similar offices
+(4) In Schedule V Part 1 delete “Division 2” and insert:
+Division 2 — Other offices
+(5) In Schedule V Part 2:
+(a) delete “Part 2”;
+(b) delete “Division 1”,
+and insert:
+Part 2 — Offices or places vacated on election
+Division 1 — Tribunal and board offices
+(6) In Schedule V Part 2 delete “Division 2” and insert:
+Division 2 — Other offices or places
+(7) In Schedule V Part 3 delete “Part 3” and insert:
+Part 3 — Bodies membership of which is vacated on election
+43.Part heading inserted before section 1
+(1) This section amends the Acts listed in Tables 1 and 2.
+(2) In the Acts listed in Table 1 before section 1 insert:
+Part IA — Preliminary
+44.Ad hoc headings
+(1) This section amends the Acts listed in Tables 1 and 2.
+(2) In each Act listed in Table 1 before each section listed in the Table delete the heading and insert the heading or headings set out in the Table in relation to that section.
+1.Constitution Acts Amendment Act 1899
+s. 5 | Division 1 — Legislative Council
+s. 18 | Division 2 — Legislative Assembly
+s. 31 | Division 3 — General
+51.Various written laws amended
+(1) This section amends the written laws listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+13.Constitution Acts Amendment Act 1899
+s. 31 | In the succeeding provisions of this Part — (a)disqualified (i)any member (ii)any deputy, Assembly; (second occurrence) (b)a reference | (1)In this Division — disqualified (a)any member (b)any deputy, Assembly. (2)In this Division a reference
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
