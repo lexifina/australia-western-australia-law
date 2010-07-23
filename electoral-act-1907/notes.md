@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electoral Act 1907 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 23 July 2010 of the Electoral Act 1907 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electoral Act 1907 | 27 of 1907 (7 Edw. VII No. 27) | 20 Dec 1907 | 1 Mar 1908 (see s. 2)
@@ -16,7 +16,7 @@ Electoral Act Amendment Act 1940 | 18 of 1940 (4 Geo. VI No. 18) | 29 Nov 1940 |
 Electoral Act Amendment Act (No. 3) 1940 | 47 of 1940 (4 & 5 Geo. VI No. 47) | 30 Dec 1940 | 30 Dec 1940
 Reprint of the Electoral Act 1907 in Volume 2 of Reprinted Acts (includes amendments listed above)
 Electoral Act Amendment Act 1948 | 63 of 1948 (12 & 13 Geo. VI No. 63) | 21 Jan 1949 | 27 May 1949 (see s. 1 and Gazette 27 May 1949 p. 1133)
-Reprint of the Electoral Act 1907 approved 21 Oct 1949 (not in a Volume) (includes amendments listed above)
+Reprint of the Electoral Act 1907 approved 21 Oct 1949 (not in a Volume) (includes amendments listed above and in the Electoral Act Amendment Act 1949)
 Electoral Act Amendment Act 1949 | 26 of 1949 (13 Geo. VI No. 112) | 22 Oct 1949 | 22 Oct 1949
 Electoral Act Amendment Act 1951 | 58 of 1951 (15 & 16 Geo. VI No. 58) | 7 Jan 1952 | 7 Jan 1952
 Electoral Act Amendment Act 1952 | 57 of 1952 (1 Eliz. II No. 57) | 23 Dec 1952 | 23 Dec 1952
@@ -79,7 +79,7 @@ Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 20
 Sentencing Legislation Amendment and Repeal Act 2003 s. 56 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 47 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
+Children and Community Services Act 2004 Sch. 2 cl. 8 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 468 | 55 of 2004 | 24 Nov 2004 | 24 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
@@ -88,39 +88,33 @@ Constitution and Electoral Amendment Act 2005 s. 4 | 2 of 2005 | 23 May 2005 | 2
 Reprint 13: The Electoral Act 1907 as at 9 Sep 2005 (includes amendments listed above except those in the Electoral Amendment (Political Finance) Act 1992 s. 5 and 6 and the Children and Community Services Act 2004)
 Electoral Reform (Electoral Funding) Act 2006 | 55 of 2006 | 26 Oct 2006 | 27 Oct 2006 (see s. 2)
 Electoral Legislation Amendment Act 2006 Pt. 3 | 64 of 2006 | 8 Dec 2006 | 5 Mar 2007 (see s. 2(2) and Gazette 2 Mar 2007 p. 689)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 51 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 14: The Electoral Act 1907 as at 7 Dec 2007 (includes amendments listed above)
 Criminal Law Amendment (Homicide) Act 2008 s. 32 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-Electoral Amendment Act 2008 | 38 of 2008 | 3 Jul 2008 | 30 Apr 2010 (see s. 2(b) and Gazette 23 Apr 2010 p. 1523)
+Electoral Amendment Act 2008 | 38 of 2008 | 3 Jul 2008 | s. 1 and 2: 3 Jul 2008 (see s. 2(a)); Act other than s. 1 and 2: 30 Apr 2010 (see s. 2(b) and Gazette 23 Apr 2010 p. 1523)
 Electoral Amendment (Miscellaneous) Act 2009 | 7 of 2009 | 21 May 2009 | Pt. 1: 21 May 2009 (see s. 2(a)); Act other than Part 1: 1 Oct 2009 (see s. 2(b) and Gazette 1 Sep 2009 p. 3393)
 Acts Amendment (Bankruptcy) Act 2009 s. 34 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 15: The Electoral Act 1907 as at 23 Jul 2010 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 15.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as a reference to the Public Sector Management Act 1994.
-Repealed by the Interpretation Act 1984.
+The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
 In this reprint the renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
 The Acts Amendment (Electoral Reform) Act 1987 s. 19(2) reads as follows:
-“
 (2) References to the Chief Electoral Officer in any written law shall, unless because of the context it would be inappropriate so to do, be read and construed as references to the Electoral Commissioner.
-”.
 The Acts Amendment (Electoral Reform) Act 1987 s. 21(2) reads as follows:
-“
-(2) A Registrar or Returning Officer holding office immediately before the commencement of this Act shall, on and from that commencement, be deemed to have been appointed by the Electoral Commissioner.
-”.
+(2) A Registrar or returning officer holding office immediately before the commencement of this Act shall, on and from that commencement, be deemed to have been appointed by the Electoral Commissioner.
 The Electoral Amendment (Political Finance) Act 1992 s. 8 is a transitional provision of no further effect.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Electoral Amendment Act 2000 s. 81(2) reads as follows:
-“
 (2) The repeal of Schedule 3 does not affect the operation of the Electoral (Ballot Paper Forms) Regulations 1990.
-”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Electoral Legislation Amendment Act 2006 s. 27(2)-(4) read as follows:
-“
 (2) A person who is a member of the Legislative Assembly or the Legislative Council immediately before the commencement —
 (a) does not become disqualified, on the commencement, for membership of the Legislative Assembly or the Legislative Council for the purposes of the Constitution Acts Amendment Act 1899 section 38(a) or 40(a); and
 (b) is not prevented from completing his or her current term as a member,
@@ -131,9 +125,7 @@ by reason only of not being an Australian citizen as defined in the Electoral Ac
 by reason only of not being an Australian citizen as defined in the Electoral Act 1907 section 4(1).
 (4) In subsections (2) and (3) —
 commencement means the coming into operation of this section.
-”.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
-“
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
@@ -141,4 +133,138 @@ Act | Provision
 ……………………….. | …….
 Electoral Act 1907 | s. 5E(2)
 ……………………….. | …….
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+A175LC(2)
+absent voter4(1)
+absolute majority of votes144(3)
+advertise75(4)
+agent175
+application name62J(1)
+approved175
+Assembly4(1)
+associated entity175
+Australian citizen4(1)
+Australian Electoral Officer31(6)
+authorised officer175W(1)
+authorised witness4(1)
+automated146I(6)
+average district enrolment16A, 16G(1)
+B175LC(2)
+ballotSch. 2 it. 2
+ballot paper regulations213(3)
+ballot papers99B(1)
+breach or neglect of official duty180
+bribery182
+broadcast175
+C175LC(2)
+campaign committee175
+candidate4(1)
+chief executive officer, prisons59(1)
+christian name4(1)
+Commissioners16A
+conjoint election4(1)
+consenting candidate156D(1)
+constitution4(1)
+continuing candidateSch. 1 it. 2(1)
+Council4(1)
+CPI175LC(3)
+Deputy Electoral Commissioner4(1)
+disposition of property175
+district4(1)
+division175
+early ballot paper4(1)
+early vote4(1)
+election4(1), 175LA(1), 175Q(6)
+election period62C(1), 175
+elector4(1)
+electoral census4(1)
+Electoral Commissioner4(1), 5B(1)
+electoral expenditure175
+electoral matter175
+electoral paper191(3)
+eligible political party62C(1) and (4)
+eligible vote175LA(1)
+enrolment information4(1)
+entity 175
+existing party62J(1)
+financial controller175
+general election4(1), 175
+general polling place4(1), 100(3)
+gift175
+Government Statistician16A
+group4(1)
+hour of nomination4(1)
+input tax credit175LG(2)
+issuing officer90(2)
+journal175
+large district allowance16G(4)
+member62C(1)
+mentally impaired accused59(1)
+metropolitan area of Perth16H(2)
+modified penalty156(6)(c)(iii) and (12)(d)
+name113C(10)
+non-participating candidate156D(14)
+officer4(1)
+official paper4(1)
+original election156A
+parent body62C(4)
+parliamentary party25A(6), 62C(1)
+party group175LA(1)
+party nomination81A(1)
+permitted purpose25D(2)
+person with judicial experience16A
+political gift199A(2)
+political party4(1)
+polling place4(1), 193(2)
+polling day69(b)
+preference mark146E(7)
+prescribed information25A(1a)
+prescribed manner140(3), 146E(2)
+President4(1)
+previous electoral distribution16L(1)
+previously elected member156D(14)
+principal officer175
+prison4(1)
+prisoner59(1)
+property175
+public agency175
+public body name62J(1)
+publish191A(4)
+qualified person156A
+referendum4(1)
+region4(1)
+register of political parties62C(1)
+registered political party4(1), 62C(1)
+related political party62C(1)
+relevant citizenship law4(1)
+relevant day16A
+relevant number4(1)
+relevant period191A(4)
+required deposit81(2)
+required information59(1)
+response date156(6)(c) and (12)(d)
+returning officer4(1)
+roll4(1)
+secretary4(1)
+secretary, Mentally Impaired Accused Review Board59(1)
+single member election4(1)
+Speaker4(1)
+specified amount175
+State party62C(4)
+sub-district4(1)
+surplus votesSch. 1 it. 4
+the donor175R(1)
+the enrolment officer42(c)
+the party agents register175F(1)
+the recipient175R(1)
+the relevant election175O(2), 175Q(4)
+the tied candidates145(3)
+tied candidates144(2)(g), Sch. 1 it. 17
+undue influence184
+vacancy156A
+valid and sufficient reason156(16)(a)
+voting ticket4(1)
+voting ticket square4(1)
+writ4(1)
