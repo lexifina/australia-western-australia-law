@@ -159,29 +159,18 @@ Wrasse, Humphead Maori | Cheilinus undulatus
 [Heading inserted in Gazette 13 Nov 2007 p. 5692.]
 Common Name | Scientific Name
 Carp, European (Common) | Cyprinus carpio
-Carp, Grass | Ctenopharyngodon idellus
-Catfish, Parasitic | Family Trichomycteridae
-Catfish Tiger | Pseudoplatystoma fasciatum
-Catfish, Walking | Clarias batrachus
 Cobbler, Freshwater | Tandanus bostocki
 Cod, Murray | Maccullochella peeli
 Eel, Short-finned | Anguilla australis
 Goldfish | Carassius auratus
 Grunter, Sooty | Hephaestus fuliginasus
 Perch, Golden | Macquaria ambigua
-Perch, Nile | Lates niloticus
 Perch, Redfin (English or European) | Perca fluviatilis
 Perch, Silver | Bidyanus bidyanus
-Pike, Cichlid | Crenicichla lepidota
-Piranha | Serrasalmus spp.
 Sawfish | Family Pristidae
-Snakehead | Channa spp.
-Tigerfish | Hydroeyanus goliath
-Tilapia | Oreochromis mossambicus
 Trout, Brown | Salmo trutta
 Trout, Rainbow | Oncorhynchus mykiss
-Weatherloach | Misgurnus anguillicardatus
-[Division 2 amended in Gazette 22 Dec 2005 p. 6239; 13 Nov 2007 p. 5693.]
+[Division 2 amended in Gazette 22 Dec 2005 p. 6239; 13 Nov 2007 p. 5693; 23 Jul 2010 p. 3406.]
 ## Division 3 — Crustaceans
 [Heading inserted in Gazette 13 Nov 2007 p. 5692.]
 Common Name | Scientific Name
@@ -233,13 +222,12 @@ Ark Shell | Family Arcidae
 Clam, Venus | Family Veneridae, Katelysia spp.
 Cockle | Family Cardiidae
 Mussel | Family Mytilidae
-Mussel, Black Striped | Mytilopsis and Congeria spp.
 Mussel, Blue | Mytilus edulis
 Oyster | Family Ostreidae
 Pipis | Family Donacidae
 Razor shell | Family Pinnidae
 Scallop | Family Pectinidae
-[Division 4 amended in Gazette 23 Apr 1999 p. 1716; 4 Jun 1999 p. 2271; 1 Oct 2003 p. 4343; 30 Sep 2004 p. 4187; 13 Nov 2007 p. 5693-4; 29 Sep 2009 p. 3875.]
+[Division 4 amended in Gazette 23 Apr 1999 p. 1716; 4 Jun 1999 p. 2271; 1 Oct 2003 p. 4343; 30 Sep 2004 p. 4187; 13 Nov 2007 p. 5693-4; 29 Sep 2009 p. 3875; 23 Jul 2010 p. 3406.]
 ## Division 5 — Other
 [Heading inserted in Gazette 13 Nov 2007 p. 5693.]
 Common Name | Scientific Name

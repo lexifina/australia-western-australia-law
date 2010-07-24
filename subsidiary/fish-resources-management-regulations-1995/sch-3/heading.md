@@ -64,8 +64,8 @@ Longtom
 Mackerel, Blue (Common)
 Milkfish
 Mullet, Sea and Yellow-eye
-Whiting, Southern School All other Gascoyne species of fish not specifically covered in this Part except for — (a)bait fish of the Families Clupeidae (Pilchards and Whitebait), Atherinidae (Hardyheads) and Engraulidae (Anchovy); and (b)Redfin Perch, Goldfish, European Carp and Tilapia
-[Division 3 inserted in Gazette 1 Oct 2003 p. 4335; amended in Gazette 4 Nov 2005 p. 5314-15.]
+Whiting, Southern School All other Gascoyne species of fish not specifically covered in this Part except for — (a)bait fish of the Families Clupeidae (Pilchards and Whitebait), Atherinidae (Hardyheads) and Engraulidae (Anchovy); and (b)Redfin Perch, Goldfish and European Carp
+[Division 3 inserted in Gazette 1 Oct 2003 p. 4335; amended in Gazette 4 Nov 2005 p. 5314-15; 23 Jul 2010 p. 3402.]
 ## Division 4 — Crustaceans
 [Heading inserted in Gazette 1 Oct 2003 p. 4335.]
 Fish | Species, or group of species, bag limit for one day
@@ -153,8 +153,8 @@ Longtom
 Milkfish
 Mullet, Sea and Yellow-eye
 Whiting
-All other Pilbara and Kimberley species of fish not specifically covered in this Part except Redfin Perch, Goldfish, European Carp and Tilapia
-[Division 3 inserted in Gazette 22 Dec 2005 p. 6233.]
+All other Pilbara and Kimberley species of fish not specifically covered in this Part except Redfin Perch, Goldfish and European Carp ….
+[Division 3 inserted in Gazette 22 Dec 2005 p. 6233; amended in Gazette 23 Jul 2010 p. 3403.]
 ## Division 4 — Crustaceans
 [Heading inserted in Gazette 22 Dec 2005 p. 6233.]
 Fish | Species, or group of species, bag limit for one day
@@ -247,8 +247,8 @@ Mackerel, Blue (Common)
 Milkfish
 Mullet, Sea and Yellow-eye
 Whiting, Southern School All other West Coast species of fish not specifically covered in this Part except for — (a)bait fish of the Families Clupeidae (Pilchards and Whitebait), Atherinidae (Hardyheads) and Engraulidae (Anchovy); and
-(b)Redfin Perch, Goldfish, European Carp and Tilapia
-[Division 3 inserted in Gazette 1 Oct 2003 p. 4340; amended in Gazette 4 Nov 2005 p. 5316; 29 Sep 2009 p. 3869.]
+(b)Redfin Perch, Goldfish and European Carp
+[Division 3 inserted in Gazette 1 Oct 2003 p. 4340; amended in Gazette 4 Nov 2005 p. 5316; 29 Sep 2009 p. 3869; 23 Jul 2010 p. 3403.]
 ## Division 4 — Crustaceans
 [Heading inserted in Gazette 1 Oct 2003 p. 4340.]
 Fish | Species, or group of species, bag limit for one day
@@ -329,8 +329,8 @@ Garfish .
 Mackerel, Blue (Common)
 Mullet, Sea and Yellow-eye
 Whiting, Southern School and Western Sand
-All other South Coast species of fish not specifically covered in this Part except for — (a)bait fish of the Families Clupeidae (Pilchards and Whitebait), Atherinidae (Hardyheads) and Engraulidae (Anchovy); (b)Redfin Perch, Goldfish, European Carp and Tilapia
-[Division 3 inserted in Gazette 22 Dec 2005 p. 6237.]
+All other South Coast species of fish not specifically covered in this Part except for — (a)bait fish of the Families Clupeidae (Pilchards and Whitebait), Atherinidae (Hardyheads) and Engraulidae (Anchovy); (b)Redfin Perch, Goldfish and European Carp
+[Division 3 inserted in Gazette 22 Dec 2005 p. 6237; amended in Gazette 23 Jul 2010 p. 3403.]
 ## Division 4 — Crustaceans
 [Heading inserted in Gazette 22 Dec 2005 p. 6237.]
 Fish | Species, or group of species, bag limit for one day
