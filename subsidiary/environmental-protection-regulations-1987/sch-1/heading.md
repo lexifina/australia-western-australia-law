@@ -5,12 +5,7 @@
 Category number | Description of category | Production or design capacity
 1 | Cattle feedlot: premises on which the watering and feeding of cattle occurs, being premises — (a)situated less than 100 metres from a watercourse; and (b)on which the number of cattle per hectare exceeds 50. | 500 animals or more
 2 | Intensive piggery: premises on which pigs are fed, watered and housed in pens. | 1 000 animals or more
-3 | Aquaculture (ponds or tanks): premises on which — (a)marine, estuarine or freshwater fish or prawns are propagated or reared; and | Biomass 1 000 kilograms or more
- | (b)supplementary feeding occurs, in ponds or tanks that discharge waste into waters or onto land.
-4 | Aquaculture (natural waters): premises on which — | Not applicable
- | (a)marine, estuarine or freshwater fish or prawns are propagated or reared; and
- | (b)supplementary feeding occurs,
- | in enclosures in naturally occurring waters.
+[3, 4 | deleted]
 5 | Processing or beneficiation of metallic or non-metallic ore: premises on which — | 50 000 tonnes or more per year
  | (a)metallic or non-metallic ore is crushed, ground, milled or otherwise processed;
  | (b)tailings from metallic or non-metallic ore are reprocessed; or
@@ -87,7 +82,7 @@ Category number | Description of category | Production or design capacity
 66 | Class V intractable landfill site: premises on which waste (as determined by reference to the waste type set out in the document entitled “Landfill Waste Classification and Waste Definitions 1996” published by the Chief Executive Officer and as amended from time to time) is accepted for burial. | Not applicable
 67 | Fuel burning: premises on which gaseous, liquid or solid fuel is burnt in a boiler for the supply of steam or in power generation equipment. | In aggregate 500 kilograms or more per hour (fuel with a sulphur content of 0.25% or more) or In aggregate 2 000 kilograms or more per hour (fuel with a sulphur content of less than 0.25%)
 67A | Compost manufacturing and soil blending: premises on which organic material (excluding silage) or waste is stored pending processing, mixing, drying or composting to produce commercial quantities of compost or blended soils. | 1 000 tonnes or more per year
-[Part 1 amended in Gazette 22 Jun 2007 p. 2843, 30 Oct 2007 p. 5877.]
+[Part 1 amended in Gazette 22 Jun 2007 p. 2843, 30 Oct 2007 p. 5877; 23 Jul 2010 p. 3401.]
 ## Part 2
 Category number | Description of category | Production or design capacity
 68 | Cattle feedlot: premises on which the watering and feeding of cattle occurs, being premises — (a)situated 100 metres or more from a watercourse; and (b)on which the number of cattle per hectare exceeds 50. | 500 animals or more
@@ -114,4 +109,4 @@ Category number | Description of category | Production or design capacity
 87 | Fuel burning: premises on which gaseous, liquid or solid fuel with a sulphur content of less than 0.25% is burnt in a boiler for the supply of steam or in power generation equipment. | More than 500 but less than 2 000 kilograms per hour in aggregate
 88 | Metal finishing: premises on which — (a)metals are chemically cleaned or metals, plastics or metal or plastic products are plated, electroplated, anodised, coloured or otherwise coated or finished; and (b)from which liquid waste is discharged into a sewer. | Not applicable
 89 | Putrescible landfill site: premises on which waste (as determined by reference to the waste type set out in the document entitled “Landfill Waste Classification and Waste Definitions 1996” published by the Chief Executive Officer, as amended from time to time) is accepted for burial. | More than 20 but less than 5 000 tonnes per year
-[Schedule 1 inserted in Gazette 13 Sep 1996 p. 4549-59; amended in Gazette 10 Dec 1996 p. 6877; 12 Sep 1997 p. 5151; 15 Aug 2000 p. 4715-17; 14 Jun 2002 p. 2793-4; 13 Dec 2005 p. 5983; 22 Jun 2007 p. 2843.]
+[Schedule 1 inserted in Gazette 13 Sep 1996 p. 4549-59; amended in Gazette 10 Dec 1996 p. 6877; 12 Sep 1997 p. 5151; 15 Aug 2000 p. 4715-17; 14 Jun 2002 p. 2793-4; 13 Dec 2005 p. 5983; 22 Jun 2007 p. 2843; 23 Jul 2010 p. 3401.]

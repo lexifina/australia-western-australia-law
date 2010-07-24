@@ -7,7 +7,7 @@ Category | Production or design capacity | Fee units
 Categories 1 and 2 | Not more than 2 000 animals | 25
  | More than 2 000 animals but not more than 5 000 animals | 50
  | More than 5 000 animals | 100
-Categories 3 and 4 | Not applicable | 20
+[Categories 3 and 4 deleted]
 Categories 5, 7, 8, 9, 12, 13, and 14 | Not more than 50 000 tonnes per year | 50
  | More than 50 000 but not more than 100 000 tonnes per year | 100
  | More than 100 000 but not more than 500 000 tonnes per year | 200
@@ -122,7 +122,7 @@ Category 67A | Not more than 500 tonnes per year | Nil
 Categories 68 to 85 | Not applicable | 24
 Category 86 | Not applicable | 500
 Categories 87 to 89 | Not applicable | 24
-[Part 1 inserted in Gazette 13 Sep 1996 p. 4560-7; amended in Gazette 10 Dec 1996 p. 6878; 15 Aug 2000 p. 4717-18; 14 Jun 2002 p. 2794; 13 Dec 2005 p. 5983; 22 Jun 2007 p. 2844; 30 Oct 2007 p. 5878.]
+[Part 1 inserted in Gazette 13 Sep 1996 p. 4560-7; amended in Gazette 10 Dec 1996 p. 6878; 15 Aug 2000 p. 4717-18; 14 Jun 2002 p. 2794; 13 Dec 2005 p. 5983; 22 Jun 2007 p. 2844; 30 Oct 2007 p. 5878; 23 Jul 2010 p. 3401.]
 ## Part 2 — Part 2 waste
 [Heading inserted in Gazette 13 Dec 2005 p. 5984.]
 Discharge quantity | Fee units
