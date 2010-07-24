@@ -38,6 +38,7 @@ Painters’ Registration Board Amendment Rules 2008 | 17 Jun 2008 p. 2556-7 | r.
 Reprint 3: The Painters’ Registration Board Rules 1962 as at 17 Oct 2008 (includes amendments listed above)
 Painters’ Registration Board Amendment Rules 2009 | 23 Jun 2009 p. 2451-3 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Painters’ Registration Board Amendment Rules (No. 2) 2010 | 25 Jun 2010 p. 2855-6 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Painters’ Registration Board Amendment Rules 2010 | 23 Jul 2010 p. 3399-400 | r. 1 and 2: 23 Jul 2010 (see r. 2(a)); Rules other than r. 1 and 2: 24 Jul 2010 (see r. 2(b))
 Repealed by the Industrial Arbitration Act 1979 which is now called the Industrial Relations Act 1979.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

@@ -21,17 +21,17 @@ To the PAINTERS’ REGISTRATION BOARD, 18 Harvest Terrace, West Perth, Western A
  | 3.The prescribed application fee accompanies this application.
 (f) Date of Application. | Dated the (f) .......................... day of ............................. 20.......
 (g) Signature. | (g)........................................................Applicant
-DECLARATION
-I, the abovenamed applicant, do solemnly and sincerely declare that the particulars contained in my above application and accompanying statements are true and correct.
-And I make this declaration under the provisions of section 106 of the Evidence Act 1906.
-DECLARED at Perth in the State of Western Australia
-this........................................................
-day of.................................................... .........................................................
-Applicant
-20..................
-Before me.........................................................................................
-J.P. or Commissioner for Declarations
-[Form 2 inserted in Gazette 30 Jan 1976 p. 238-9; amended in Gazette 2 Dec 1983 p. 4800; 24 Dec 1991 p. 6396; 15 Jun 2007 p. 2780.]
+Statutory declaration
+I,
+[name, address and occupation of person making the declaration]
+sincerely declare that the information provided by me in this application is true and correct.
+This declaration is true and I know that it is an offence to make a declaration knowing that it is false in a material particular.
+This declaration is made under the Oaths, Affidavits and Statutory Declarations Act 2005 at [place] on [date] by —
+[Signature of person making the declaration]
+in the presence of —
+[Signature of authorised witness]
+[Name of authorised witness and qualification as such a witness]
+[Form 2 inserted in Gazette 30 Jan 1976 p. 238-9; amended in Gazette 2 Dec 1983 p. 4800; 24 Dec 1991 p. 6396; 15 Jun 2007 p. 2780; 23 Jul 2010 p. 3400.]
 Form No. 3
 Western Australia
 Painters’ Registration Act 1961
