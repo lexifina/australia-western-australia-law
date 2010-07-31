@@ -2,20 +2,20 @@
 [r. 4]
 [Heading amended in Gazette 23 Jun 2005 p. 2690.]
 Item | Matter | Fee for individuals/personal injury $ | Fee for person other than an individual $
-1. | On filing any originating process by which a cause, matter or other proceeding in the court is commenced, other than proceedings of the kind referred to in item 2, 3 or 8 .............................................. | 512.00 | 768.00
+1. | On filing any originating process by which a cause, matter or other proceeding in the court is commenced, other than proceedings of the kind referred to in item 2, 3 or 8 .............................................. | 512.00 | 998.00
 2. | On filing —
- | (a)a counterclaim ................................. | 512.00 | 768.00
- | (b)a third party notice ........................... | 512.00 | 768.00
- | (c)an application — (i)to extend a period of time fixed by law, including an application to extend time before proceedings are commenced; (ii)to limit a period of time within which proceedings may be taken; (iii)for leave to serve a writ or notice of a writ out of jurisdiction; (iv)for leave to appeal ................... | 193.00 | 255.00
- | (d)any other application for which no fee has been provided in this Schedule .......................................... | 193.00 | 255.00
-3. | Commencing an appeal ............................. | 64.00 | 128.00
+ | (a)a counterclaim ................................. | 512.00 | 998.00
+ | (b)a third party notice ........................... | 512.00 | 998.00
+ | (c)an application — (i)to extend a period of time fixed by law, including an application to extend time before proceedings are commenced; (ii)to limit a period of time within which proceedings may be taken; (iii)for leave to serve a writ or notice of a writ out of jurisdiction; (iv)for leave to appeal ................... | 193.00 | 331.00
+ | (d)any other application for which no fee has been provided in this Schedule .......................................... | 193.00 | 331.00
+3. | Commencing an appeal ............................. | 64.00 | 166.00
 [4.deleted]
-5. | Entry for hearing a cause or matter (including the assessment of damages in an action for personal injury) or notice of an appointment to hear an originating summons .................................................... | 512.00 | 768.00
+5. | Entry for hearing a cause or matter (including the assessment of damages in an action for personal injury) or notice of an appointment to hear an originating summons .................................................... | 512.00 | 998.00
  | NOTE:
  | This item does not apply to entering an appeal for hearing.
-6. | Allocation of hearing date, for each day allocated ..................................................... | 450.00 | 900.00
+6. | Allocation of hearing date, for each day allocated ..................................................... | 450.00 | 1 170.00
  | NOTE: See regulation 9.
-7. | Daily hearing fee before a court constituted by a judge ................................ | 450.00 | 900.00
+7. | Daily hearing fee before a court constituted by a judge ................................ | 450.00 | 1 170.00
  | NOTE 1:
  | No fee is payable if the proceedings are of an interlocutory nature only.
  | NOTE 2:
@@ -30,7 +30,7 @@ Item | Matter | Fee for individuals/personal injury $ | Fee for person other tha
  | (i)interlocutory application or summons or motion returnable;
  | (ii)application for assessment of damages other than in an action for personal injury; or
  | (iii)application for summary judgment,
- | before a judge or registrar in chambers ..... | 128.00 | 193.00
+ | before a judge or registrar in chambers ..... | 128.00 | 250.00
  | NOTE 1:
  | This fee includes the first day of hearing of the application or summons and includes any adjournment of the hearing.
  | NOTE 2:
@@ -39,7 +39,7 @@ Item | Matter | Fee for individuals/personal injury $ | Fee for person other tha
  | NOTE:
  | The daily fee becomes payable on a day to day basis and is payable prior to the daily reconvening of the hearing.
 10. | On an appointment to tax a bill of costs in a cause or matter or under the Commercial Arbitration Act 1985 —
- | (a)lodgement fee .................................. | 128.00 | 193.00
+ | (a)lodgement fee .................................. | 128.00 | 250.00
  | (b)in addition to the lodgement fee, a taxing fee at the rate of ..................... | 2.5% | 2.5%
  | NOTE 1:
  | The % rate is to be applied to the amount at which the bill is drawn.
@@ -65,4 +65,4 @@ Item | Matter | Fee for individuals/personal injury $ | Fee for person other tha
 14. | (a)For a copy of a transcript, for each page or part of a page ....................... | 5.05 | 5.05
  | (b)For each copy of a transcript in electronic format if a fee has been paid under paragraph (a) by the applicant for a copy of the transcript, for each day of transcript | 12.50 | 12.50
  | (c)For each copy of a transcript not in electronic format if a fee has been paid under paragraph (a) by the applicant for a copy of the transcript, for each page or part of a page .................................................. | 1.50 | 1.50
-[Schedule 1 amended in Gazette 30 Dec 2003 p. 5705-7; 28 Apr 2005 p. 1754-5; 23 Jun 2005 p. 2690-1; 23 Jun 2006 p. 2188; 26 Jun 2007 p. 3036; 27 Jun 2008 p. 3063; 9 Jun 2009 p. 1923; 4 Sep 2009 p. 3488-90.]
+[Schedule 1 amended in Gazette 30 Dec 2003 p. 5705-7; 28 Apr 2005 p. 1754-5; 23 Jun 2005 p. 2690-1; 23 Jun 2006 p. 2188; 26 Jun 2007 p. 3036; 27 Jun 2008 p. 3063; 9 Jun 2009 p. 1923; 4 Sep 2009 p. 3488-90; 30 Jul 2010 p. 3498.]
