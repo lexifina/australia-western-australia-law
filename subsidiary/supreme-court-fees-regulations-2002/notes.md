@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 November 2009 of the Supreme Court (Fees) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Supreme Court (Fees) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Supreme Court (Fees) Regulations 2002 | 27 Dec 2001 p. 6583-616 | 1 Jan 2002 (see r. 2)
@@ -16,6 +16,7 @@ Supreme Court (Fees) Amendment Regulations (No. 2) 2008 | 27 Jun 2008 p. 3059-62
 Supreme Court (Fees) Amendment Regulations 2009 | 9 Jun 2009 p. 1921-2 | r. 1 and 2: 9 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2009 (see r. 2(b))
 Supreme Court (Fees) Amendment Regulations (No. 2) 2009 | 4 Sep 2009 p. 3461-72 | r. 1 and 2: 4 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2009 (see r. 2(b))
 Reprint 2: The Supreme Court (Fees) Regulations 2002 as at 13 Nov 2009 (includes amendments listed above)
+Supreme Court (Fees) Amendment Regulations 2010 | 30 Jul 2010 p. 3496-7 | r. 1 and 2: 30 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Jul 2010 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
