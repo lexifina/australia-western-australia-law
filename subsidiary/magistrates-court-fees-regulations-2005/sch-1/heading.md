@@ -24,31 +24,31 @@ NOTE 2 Fees under this item are payable in the case of an indictable offence dea
 [Heading inserted in Gazette 4 Sep 2009 p. 3475.]
 Item | Matter | Claim not exceeding $10 000 | Claim exceeding $10 000 but not exceeding $50 000 | Claim exceeding $50 000
  |  | Individual $ | Person other than individual $ | Individual $ | Person other than individual $ | Individual $ | Person other than individual $
-1. | On filing any claim or any originating process to commence proceedings in the Court | 74.50 | 112.50 | 190.50 | 287.00 | 304.00 | 456.00
+1. | On filing any claim or any originating process to commence proceedings in the Court | 74.50 | 146.00 | 190.50 | 373.00 | 304.00 | 592.00
 NOTE Not payable in respect of applications made under item 10 or 11.
-2. | On filing — (a)a counterclaim or a set-off; (b)a third party claim; (c)any other application for which no fee has been provided for in this Division | 48.50 | 73.00 | 88.50 | 114.00 | 141.00 | 182.00
-3. | On commencing an appeal | 25.00 | 49.50 | 37.50 | 75.50 | 50.50 | 101.00
-4. | Application for hearing | 118.50 | 177.50 | 215.00 | 321.00 | 240.00 | 358.00
+2. | On filing — (a)a counterclaim or a set-off; (b)a third party claim; (c)any other application for which no fee has been provided for in this Division | 48.50 | 94.50 | 88.50 | 148.00 | 141.00 | 236.00
+3. | On commencing an appeal | 25.00 | 64.00 | 37.50 | 98.00 | 50.50 | 131.00
+4. | Application for hearing | 118.50 | 230.00 | 215.00 | 417.00 | 240.00 | 465.00
 NOTE 1 No fee is payable for applications for hearing of matters dealt with under the minor cases procedure, residential tenancies proceedings, applications under item 10 or 11 or for relisting a hearing, or if the proceedings are of an interlocutory nature only.
 NOTE 2 No fee is payable in respect of listing an appeal for hearing.
 NOTE 3 No fee is payable by the defendant for applications for hearing of a set-off or counterclaim providing this fee has been paid previously by the applicant.
 NOTE 4 Includes pre-trial conference, mediation conference, directions hearing and listing conference.
-5. | For allocation of a date or dates of hearing of an application, appeal or proceedings, for each half day allocated | 68.50 | 137.50 | 120.00 | 240.00 | 171.50 | 343.00
+5. | For allocation of a date or dates of hearing of an application, appeal or proceedings, for each half day allocated | 68.50 | 178.50 | 120.00 | 312.00 | 171.50 | 445.00
 NOTE 1 This fee is not payable for matters dealt with under the minor cases procedure, residential tenancies proceedings or applications under item 10 or 11.
 NOTE 2 No fee is payable if the proceedings are of an interlocutory nature only.
 NOTE 3 The fee to be charged is to be determined on the basis that the days allocated for a hearing are the number of days determined by the Court at a listing conference.
 NOTE 4 The fee is to be refunded or transferred to a new allocated date or dates if the Court or registrar is satisfied that an adjournment was due to circumstances beyond the control of the parties. Otherwise the fee is non-refundable in respect of any allocated dates that are not required.
 NOTE 5 If written advice of settlement or written notice of intended adjournment is received by the Court not later than 35 days before the date allocated for the commencement of the hearing of the proceedings, an amount equal to 75% of the fee is refundable. If written advice of settlement or written notice of intended adjournment is received by the Court no later than 21 days before the date allocated for the commencement of the hearing of the proceedings, an amount equal to 50% of the fee is refundable.
-6. | Half daily hearing fee before the Court constituted by a magistrate | 68.50 | 137.50 | 120.00 | 240.00 | 171.50 | 343.00
+6. | Half daily hearing fee before the Court constituted by a magistrate | 68.50 | 178.50 | 120.00 | 312.00 | 171.50 | 445.00
 NOTE 1 This fee is not payable for matters dealt with under the minor cases procedure, residential tenancies proceedings, applications under item 10 or 11 or if the proceedings are of an interlocutory nature only.
 NOTE 2 The fee to be charged is to be paid in respect of any number of hearing days or half days greater than the number of hearing days for which a fee has been paid under item 5.
 NOTE 3 This fee is payable for each additional day or part day that a hearing proceeds beyond the date or dates allocated in item 5.
 NOTE 4 The daily fee becomes payable on a day-to-day basis and is payable prior to the daily reconvening of the hearing.
-7. | On filing of an interlocutory application or application for assessment of damages or summary judgment that requires hearing before a magistrate or registrar | 62.50 | 93.50 | 75.50 | 113.00 | 101.50 | 153.50
+7. | On filing of an interlocutory application or application for assessment of damages or summary judgment that requires hearing before a magistrate or registrar | 62.50 | 121.50 | 75.50 | 146.50 | 101.50 | 199.50
 NOTE 1 This fee is not payable for matters dealt with under the minor cases procedure, residential tenancies proceedings or applications under item 10 or 11.
 NOTE 2 This fee is inclusive of the hearing of the application and includes any adjournment of the hearing.
 NOTE 3 This fee is not payable for matters dealt with in the absence of a party.
-8. | On an appointment to assess a bill of costs — (a)lodgment fee | 62.50 | 93.50 | 75.50 | 113.00 | 101.50 | 153.50
+8. | On an appointment to assess a bill of costs — (a)lodgment fee | 62.50 | 121.50 | 75.50 | 146.50 | 101.50 | 199.50
  | (b)in addition to the lodgment fee, an assessment fee at the rate per annum of | 2.5% | 2.5% | 2.5% | 2.5% | 2.5% | 2.5%
 NOTE 1 This fee is not payable for matters dealt with under the minor cases procedure, residential tenancies proceedings or applications under item 10 or 11.
 NOTE 2 The % rate is to be applied to the amount at which the bill is drawn.
@@ -62,7 +62,7 @@ NOTE 1 The fee under paragraph (a) is payable whether or not the Sheriff’s fun
 NOTE 2 The fee under paragraph (a) includes — (a)receipt of the warrant; and (b)attendances and inquiries before attempting arrest; and (c)giving any notice; and (d)making any report.
 10. | For an application for an extraordinary drivers licence under the Road Traffic Act 1974 | 155.00
 11. | On filing — (a)an application for a misconduct restraining order under the Restraining Orders Act 1997; (b)an application under the Disposal of Uncollected Goods Act 1970; (c)an application under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 101 or 101A; (d)an application under the Dividing Fences Act 1961; (e)an application under the Pawnbrokers and Second-hand Dealers Act 1994. | 74.50
-[Division 2 inserted in Gazette 4 Sep 2009 p. 3475-8.]
+[Division 2 inserted in Gazette 4 Sep 2009 p. 3475-8; amended in Gazette 30 Jul 2010 p. 3499-500.]
 ## Division 3 — Criminal jurisdiction
 [Heading inserted in Gazette 4 Sep 2009 p. 3478.]
 Item | Matter | $
