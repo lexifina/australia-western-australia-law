@@ -12,9 +12,10 @@ Small Business Development Corporation
 Swan River Trust
 The Western Australian Government Railways Commission
 Western Australian Alcohol and Drug Authority
+Western Australian Sports Centre Trust
 Wheatbelt Development Commission
 WorkCover Western Australia Authority
-[Part 1 inserted in Gazette 18 Feb 2000 p. 917; amended in Gazette 20 Feb 2001 p. 1085; 22 Feb 2002 p. 766; 26 Feb 2002 p. 787; 3 Jan 2003 p. 12-13; 28 Mar 2003 p. 985; 1 Jul 2003 p. 2664; 28 Oct 2003 p. 4530; 15 Jul 2005 p. 3305; 13 Jul 2007 p. 3455; 23 May 2008 p. 1995; 26 Feb 2010 p. 817.]
+[Part 1 inserted in Gazette 18 Feb 2000 p. 917; amended in Gazette 20 Feb 2001 p. 1085; 22 Feb 2002 p. 766; 26 Feb 2002 p. 787; 3 Jan 2003 p. 12-13; 28 Mar 2003 p. 985; 1 Jul 2003 p. 2664; 28 Oct 2003 p. 4530; 15 Jul 2005 p. 3305; 13 Jul 2007 p. 3455; 23 May 2008 p. 1995; 26 Feb 2010 p. 817; 3 Aug 2010 p. 3568.]
 ## Part 2 — Prescribed activities (regulation 5)
 Boards of public hospitals
 The provision by a hospital board of goods, information or intellectual property relating to the functions of that hospital board.
@@ -57,6 +58,11 @@ Western Australian Alcohol and Drug Authority
 Subject to section 5(4)(e) of the Alcohol and Drug Authority Act 1974, the sale, leasing or licensing by the Western Australian Alcohol and Drug Authority of goods that are, or have been, developed in relation to alcohol or drug programs.
 The sale, leasing or licensing by the Western Australian Alcohol and Drug Authority of information or intellectual property that is, or has been, developed in relation to alcohol or drug programs.
 The provision by the Western Australian Alcohol and Drug Authority of scientific, technical, educational, training, managerial and advisory services, in relation to alcohol or drug programs.
+Western Australian Sports Centre Trust
+The provision by the Western Australian Sports Centre Trust of —
+(a)goods, information or intellectual property relating to the functions of the Trust; or
+(b)scientific, technical, educational, training, management or advisory services relating to the functions of the Trust; or
+(c)advertising opportunities or opportunities to participate in arrangements in the nature of advertising or having a purpose similar to advertising in connection with the functions of the Trust.
 Wheatbelt Development Commission
 The provision by the Wheatbelt Development Commission of —
 (a)goods, information or intellectual property developed by the Commission;
@@ -64,4 +70,4 @@ The provision by the Wheatbelt Development Commission of —
 (c)advertising opportunities.
 WorkCover Western Australia Authority
 The sale, leasing or licensing by the WorkCover Western Australia Authority of intellectual property or software that is, or has been, developed to meet the operational requirements of the WorkCover Western Australia Authority.
-[Part 2 inserted in Gazette 18 Feb 2000 p. 917; amended in Gazette 20 Feb 2001 p. 1085; 22 Feb 2002 p. 766; 26 Feb 2002 p. 788; 3 Jan 2003 p. 13; 28 Mar 2003 p. 986; 1 Jul 2003 p. 2664; 28 Oct 2003 p. 4530-1; 15 Jul 2005 p. 3305; 13 Jul 2007 p. 3455; 23 May 2008 p. 1995; 26 Feb 2010 p. 818.]
+[Part 2 inserted in Gazette 18 Feb 2000 p. 917; amended in Gazette 20 Feb 2001 p. 1085; 22 Feb 2002 p. 766; 26 Feb 2002 p. 788; 3 Jan 2003 p. 13; 28 Mar 2003 p. 986; 1 Jul 2003 p. 2664; 28 Oct 2003 p. 4530-1; 15 Jul 2005 p. 3305; 13 Jul 2007 p. 3455; 23 May 2008 p. 1995; 26 Feb 2010 p. 818; 3 Aug 2010 p. 3568.]
