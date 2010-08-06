@@ -44,7 +44,7 @@ Albany, Armadale, Broome, Bunbury, Busselton, Carnarvon, Collie, Derby, Esperanc
 A receipt will not be mailed unless requested.
 Payments will not be accepted at any Department for Planning and Infrastructure offices.
 Inquiries should be made in writing and forwarded by post to —
-(Insert appropriate address here)
+[Insert appropriate address here]
 TAXI INFRINGEMENT NOTICE CREDIT CARD SLIP
 Do not detach — Return complete document with payment to —
 [Insert appropriate address here]
@@ -53,7 +53,7 @@ Bankcard [ ]Mastercard [ ]Visacard [ ]
 Card Number [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 Amount [ ] [ ] [ ] [ ]
 Cardholder Name: ..............................................................................................................................
-Signature: ........................................................................................... Expiry Date: ......../......../........
+Signature: ............................................................ Expiry Date: ......../......../........
 [Form 1 inserted in Gazette 14 Jul 2006 p. 2580-1.]
 FORM 2
 TRANSPORT CO-ORDINATION ACT 1966 — section 58A
