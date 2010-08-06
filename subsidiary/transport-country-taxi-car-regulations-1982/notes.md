@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Transport (Country Taxi-car) Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 August 2010 of the Transport (Country Taxi-car) Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Transport (Country Taxi-car) Regulations 1982 | 23 Jul 1982 p. 2853-61 (erratum 30 Jul 1982 p. 2957) | 1 Aug 1982 (see r. 2 and Gazette 23 Jul 1982 p. 2842)
@@ -45,6 +45,8 @@ Transport (Country Taxi-car) Amendment Regulations 2009 | 30 Jun 2009 p. 2663-5 
 Transport (Country Taxi-car) Amendment Regulations (No. 2) 2009 | 8 Sep 2009 p. 3525 | r. 1 and 2: 8 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Sep 2009 (see r. 2(b))
 Transport (Country Taxi-car) Amendment Regulations (No. 3) 2009 | 31 Dec 2009 p. 5419 | r. 1 and 2: 31 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
 Transport (Country Taxi-car) Amendment Regulations 2010 | 18 Jun 2010 p. 2698-9 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Reprint 4: The Transport (Country Taxi-car) Regulations 1982 as at 6 Aug 2010 (includes amendments listed above)
+Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
 If immediately before commencement of the Courts Legislation Amendment and Repeal Act 2004 Pt. 2 Div. 2, a person held office under the Local Courts Act 1904 s. 13 as a clerk, then on commencement the person is taken under the Courts Legislation Amendment and Repeal Act 2004 s. 6(1) to have been appointed as a registrar of the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
