@@ -6,7 +6,7 @@ Co-operatives Act 2009 s. 1 and 2 | 24 of 2009 | 22 Oct 2009 | 23 Oct 2009 (see 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Co-operatives Act 2009 s. 3-11, Pt. 2-20 and Sch. 1-6 | 24 of 2009 | 22 Oct 2009 | Act other than s. 1, 2, 490 and 491 and Pt. 20 Div. 1 and 3: to be proclaimed (see s. 2(b)); s. 490 and 491 and Pt. 20 Div. 3: operative on the last day of the period 2 years after the day fixed under s. 2(b)); Pt. 20 Div. 1: operative on the day that Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d))
+Co-operatives Act 2009 s. 3-11, Pt. 2-20 and Sch. 1-6 | 24 of 2009 | 22 Oct 2009 | Act other than s. 1, 2, 490 and 491 and Pt. 20 Div. 1 and 3: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); s. 490 and 491 and Pt. 20 Div. 3: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975); Pt. 20 Div. 1: operative on the day that Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d))
 On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 3-11, Pt. 2-10 and Sch. 1-6 had not come into operation. They read as follows:
 “
 3.Objects of this Act
