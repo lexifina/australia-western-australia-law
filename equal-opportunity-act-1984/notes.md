@@ -44,7 +44,7 @@ Acts Amendment (Bankruptcy) Act 2009 s. 36 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Co-operatives Act 2009 s. 509 and 514 | 24 of 2009 | 22 Oct 2009 | s. 509: to be proclaimed (see s. 2(b)); s .514: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
+Co-operatives Act 2009 s. 509 and 514 | 24 of 2009 | 22 Oct 2009 | s. 509: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); s. 514: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
 Equal Opportunity Amendment Act 2010 s. 3-21 | 2 of 2010 | 1 Apr 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
 Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
