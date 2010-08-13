@@ -21,7 +21,7 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Co-operatives Act 2009 s. 510 and 517 | 24 of 2009 | 22 Oct 2009 | s. 510: to be proclaimed (see s. 2(b)); s. 517: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
+Co-operatives Act 2009 s. 510 and 517 | 24 of 2009 | 22 Oct 2009 | s. 510: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); s. 517: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
 The provision in this Act repealing the Taxi-car Control Act 1985 has been omitted under s. 7(4)(f) of the Reprints Act 1984.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Land Administration Act 1997.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
