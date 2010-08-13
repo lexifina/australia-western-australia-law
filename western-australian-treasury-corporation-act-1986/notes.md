@@ -28,7 +28,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 16 and Sch. 1 cl. 186 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Co-operatives Act 2009 s. 511 and 518 | 24 of 2009 | 22 Oct 2009 | s. 511: to be proclaimed (see s. 2(b)); s. 518: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
+Co-operatives Act 2009 s. 511 and 518 | 24 of 2009 | 22 Oct 2009 | s. 511: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); s. 518: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
 The Western Australian Treasury Corporation Amendment Act 1992 s. 7(4) reads as follows:
 (4) Any agreement or arrangement entered into, or transaction effected, before the commencement of this section which would have been lawful and valid had —
 (a) section 10(2)(fa) and (fb) of the principal Act as inserted by subsection (1); and
