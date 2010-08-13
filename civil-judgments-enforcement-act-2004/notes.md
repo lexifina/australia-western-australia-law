@@ -12,7 +12,7 @@ Police Amendment Act 2009 s. 13 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Co-operatives Act 2009 s. 507 and 512 | 24 of 2009 | 22 Oct 2009 | s. 507: to be proclaimed (see s. 2(b)); s. 512: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
+Co-operatives Act 2009 s. 507 and 512 | 24 of 2009 | 22 Oct 2009 | s. 507: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); s. 512: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
 Part 22 — Transitional provisions
