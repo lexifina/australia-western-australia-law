@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 13 August 2010 of the Building Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Building Regulations 1989 | 28 Jul 1989 p. 2261-93 | 28 Jul 1989 (see r. 2)
@@ -43,10 +43,11 @@ Building Amendment Regulations (No. 3) 2008 | 6 Jun 2008 p. 2179-88 | r. 1 and 2
 Building Amendment Regulations (No. 4) 2008 | 22 Jul 2008 p. 3353-4 | r. 1 and 2: 22 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jul 2008 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2009 | 19 May 2009 p. 1663 | r. 1 and 2: 19 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 20 May 2009 (see r. 2(b))
 Reprint 6: The Building Regulations 1989 as at 22 May 2009 (includes amendments listed above)
-Building Amendment Regulations 2009 | 31 Jul 2009 p. 3017-24 | 1 Oct 2009 (see r. 2(b)(i))
+Building Amendment Regulations 2009 | 31 Jul 2009 p. 3017-24 | r. 1 and 2: 31 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2009 (see r. 2(b)(i))
 Building Amendment Regulations (No. 3) 2009 | 4 Aug 2009 p. 3101 | r. 1 and 2: 4 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Aug 2009 (see r. 2(b))
 Building Amendment Regulations (No. 4) 2009 | 1 Sep 2009 p. 3393-4 | r. 1 and 2: 1 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Sep 2009 (see r. 2(b))
 Building Amendment Regulations (No. 5) 2009 | 8 Dec 2009 p. 4991 | r. 1 and 2: 8 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Dec 2009 (see r. 2(b))
+Reprint 7: The Building Regulations 1989 as at 13 Aug 2010 (includes amendments listed above)
 The Gas Corporation does not exist. The Act that established it was repealed by the Gas Corporation (Business Disposal) Act 1999 s. 93.
 The Building Amendment Regulations (No. 2) 2001 r. 7 reads as follows:
 7.Transitional
@@ -93,9 +94,11 @@ Fire Brigades Board3(1)
 footing3(1)
 Form3(1)
 local government3(1)
+new owner38K(1)
 owner3(1), 38I(1)
 performance requirements3(1)
 person with a disability38C(3)
+prior owner38K(1)
 relevant electricity corporation31(2)
 repair3(1)
 residential tenancy agreement38I(1)
