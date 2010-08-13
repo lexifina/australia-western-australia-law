@@ -19,7 +19,7 @@ Acts Amendment (Bankruptcy) Act 2009 s. 27 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Co-operatives Act 2009 s. 508 and 513 | 24 of 2009 | 22 Oct 2009 | s. 508: to be proclaimed (see s. 2(b)); s. 513: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
+Co-operatives Act 2009 s. 508 and 513 | 24 of 2009 | 22 Oct 2009 | s. 508: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); s. 513: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 Footnote no longer applicable.
