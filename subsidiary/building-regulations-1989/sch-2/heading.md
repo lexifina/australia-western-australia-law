@@ -1,7 +1,7 @@
 ## Schedule 2 — Application
 [r. 2A]
 Column 1 | Column 2 | Column 3 | Column 4
-District | Class 10 Buildings | Part 10 | Rest of regulations
+District | Class 10 buildings | Part 10 | Rest of regulations
 Albany | Whole district | Whole district | Whole district
 Armadale | Whole district | Whole district | Whole district
 Augusta- Margaret River | Whole district | Whole district | Whole district
