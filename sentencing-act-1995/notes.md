@@ -44,20 +44,20 @@ Parole and Sentencing Legislation Amendment Act 2006 Pt. 3 | 41 of 2006 | 22 Sep
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 4 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 5: The Sentencing Act 1995 as at 6 Jul 2007 (includes amendments listed above except those in the Criminal Law Amendment (Criminal Property) Act 2004 and the Parole and Sentencing Legislation Amendment Act 2006 s. 71)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 | 24 of 2007 | 12 Oct 2007 | 14 Aug 2010 (see s. 2(1) and Gazette 13 Aug 2010 p. 4021)
 Water Resources Legislation Amendment Act 2007 s. 199 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Criminal Law and Evidence Amendment Act 2008 s. 70 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Fines Legislation Amendment Act 2008 Pt. 3 | 3 of 2008 | 12 Mar 2008 | 28 Mar 2008 (see s. 2(c) and Gazette 27 Mar 2008 p. 899)
 Acts Amendment (Justice) Act 2008 Pt. 20 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Criminal Law Amendment (Homicide) Act 2008 Pt. 3 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-Reprint 6: The Sentencing Act 1995 as at 23 Jan 2009 (includes amendments listed above)
+Reprint 6: The Sentencing Act 1995 as at 23 Jan 2009 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 115 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
- | Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
@@ -205,12 +205,7 @@ The Board’s annual report made under section 112 of the Sentence Administratio
 The amendments in the Sentencing Legislation Amendment Act 2004 s. 6(4) erroneously referred to “73(3) and (5)” instead of “75(3) and (5)” when identifying the required amendments to be made to s. 33N(3).
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 59 which purported to replace s. 84E could not be included because s. 84E was not in operation when s. 59 came into operation. S. 59 was subsequently repealed by No. 41 of 2006 s. 74(2).
 The amendments in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 65 that purported to amend s. 84P(3) could not be included because s. 84P(3) was not in operation when s. 65 came into operation. Those amendments were subsequently repealed by No. 41 of 2006 s. 75(2).
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54 had not come into operation. It reads as follows:
-“
-54.Sentencing Act 1995 amended
-(1) The amendment in this section is to the Sentencing Act 1995.
-(2) Schedule 1 is amended by deleting the item relating to the Cattle Industry Compensation Act 1965.
-”.
+Footnote no longer applicable.
 The Sentencing Amendment (Adjustment of Sentences) Act 2000 (No. 62 of 2000) s. 4-6 commenced on 7 Dec 2000 (see s. 2).
 The Parole and Sentencing Legislation Amendment Act 2006 (No. 41 of 2006) s. 94 commenced on 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867).
 The Parole and Sentencing Legislation Amendment Act 2006 (No. 41 of 2006) s. 74(2) and 75(2) commenced on 22 Sep 2006 (see s. 2(4)(b)).
