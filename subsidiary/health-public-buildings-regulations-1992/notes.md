@@ -16,3 +16,4 @@ Reprint 2: The Health (Public Buildings) Regulations 1992 as at 25 Aug 2006 (inc
 Health (Public Buildings) Amendment Regulations 2007 | 18 May 2007 p. 2254 | 1 Jul 2007 (see r. 2)
 Health (Public Buildings) Amendment Regulations 2008 | 4 Apr 2008 p. 1310 | r. 1 and 2: 4 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Health (Public Building) Amendment Regulations 2009 | 15 May 2009 p. 1630 | r. 1 and 2: 15 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Health (Public Buildings) Amendment Regulations 2010 | 13 Aug 2010 p. 3978-9 | r. 1 and 2: 13 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Aug 2010 (see r. 2(b))
