@@ -2,12 +2,12 @@ Notes
 This is a compilation of the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007. The following table contains information about that Act.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 | 24 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; s. 3, Pt. 2 Div. 1 and 2 (s. 4-17) and s. 85(4): 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645): Pt. 2 Div. 9: 21 Feb 2009 (see s. 2(1) and Gazette 20 Feb 2009 p. 353);
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 | 24 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; s. 3, Pt. 2 Div. 1 and 2 (s. 4-17) and s. 85(4): 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645): Pt. 2 Div. 9: 21 Feb 2009 (see s. 2(1) and Gazette 20 Feb 2009 p. 353); Pt. 2 Div. 11 and 14: 14 Aug 2010 (see s. 2(1), (4) and (5) and Gazette 13 Aug 2010 p. 4021 and Notices published in Gazette 13 Aug 2010 p. 4028)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-8, 10-18 and Pt. 3 (except s. 85(4)) | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-8, 10-18 and Pt. 3 (except s. 85(4)) had not come into operation. They read as follows:
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-8, 10, 12, 13 and 15-18 and Pt. 3 (except s. 85(4)) | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-8, 10, 12, 13 and 15 18 and Pt. 3 (except s. 85(4)) had not come into operation. They read as follows:
 “
 Division 3 — Aerial Spraying Control Act 1966
 18.Repeal
@@ -186,33 +186,6 @@ The Argentine Ant Act 1968 is repealed.
 Division 10 — Beekeepers Act 1963
 52.Repeal
 The Beekeepers Act 1963 is repealed.
-Division 11 — Cattle Industry Compensation Act 1965
-Subdivision 1 — Repeal and consequential amendments
-53.Repeal
-The Cattle Industry Compensation Act 1965 is repealed.
-54.Sentencing Act 1995 amended
-(1) The amendment in this section is to the Sentencing Act 1995.
-(2) Schedule 1 is amended by deleting the item relating to the Cattle Industry Compensation Act 1965.
-55.Stamp Act 1921 amended
-(1) The amendment in this section is to the Stamp Act 1921.
-(2) The Second Schedule item 3 is deleted.
-Subdivision 2 — Transitional provisions
-56.Meaning of terms used in this Subdivision
-In this Subdivision —
-commencement day means the day on which section 53 comes into operation;
-former account means the Cattle Industry Compensation Fund established under the repealed Act section 21;
-repealed Act means the Cattle Industry Compensation Act 1965.
-57.Compensation claims made before repeal
-Despite section 53, an application for compensation under the repealed Act that arose but that was not fully dealt with before the commencement day is to be dealt with under the repealed Act as if the Act had not been repealed.
-58.Funds in, or payable to, former account
-(1) On the commencement day any moneys standing to the credit of the former account are to be credited to an account established for the cattle industry under the BAM Act section 141 to be applied —
-(a) in the payment of compensation payable on an application referred to in section 57 made under the repealed Act; and
-(b) in the payment of any liabilities of the former account which arose before the commencement day; and
-(c) for the purposes set out in the regulations under the BAM Act section 141 establishing the account for the cattle industry,
-and the former account is then to be closed.
-(2) The account established for the cattle industry under the BAM Act section 141 is to be credited with any money that became payable to the former account before the commencement day and that is paid after that day.
-59.Reference to former account
-If in an agreement, instrument or other document there is a reference to the former account, that reference is, unless the context otherwise requires, to be read and have effect on and after the commencement day as if it were a reference to the account established under the BAM Act section 141 for the cattle industry.
 Division 12 — Fertilizers Act 1977
 60.Repeal
 The Fertilizers Act 1977 is repealed.
@@ -255,50 +228,6 @@ and the former account is then to be closed.
 (2) The Modified Penalties Revenue Account established under the BAM Act is to be credited with any money that became payable to the former account before the commencement day and that is paid after that day.
 67.Reference to former account
 If in an agreement, instrument or other document there is a reference to the former account, that reference is, unless the context otherwise requires, to be read and have effect on and after the commencement day as if it were a reference to the Modified Penalties Revenue Account established under the BAM Act.
-Division 14 — Plant Pests and Diseases (Eradication Funds) Act 1974
-Subdivision 1 — Repeal and consequential amendment
-68.Repeal
-The Plant Pests and Diseases (Eradication Funds) Act 1974 is repealed.
-69.Bulk Handling Act 1967 amended
-(1) The amendments in this section are to the Bulk Handling Act 1967.
-(2) Section 34D is repealed and the following section is inserted instead —
-“
-34D.Company authorised to pay certain statutory contributions
-(1) The Company is authorised, without further authority than this section, to pay, in accordance with the provisions of —
-(a) the Plant Pests and Diseases (Eradication Funds) Act 1974; or
-(b) regulations made for the purposes of the Biosecurity and Agriculture Management Act 2007 section 141,
-the amount of any contribution for which a person who has delivered any grain or seed to the Company appears to be liable under those provisions.
-(2) The amount of a contribution so paid —
-(a) is a debt due to the Company by the person in respect of whom it is paid; and
-(b) is a first charge in priority to all claims on the moneys payable to that person in respect of grain and seed, other than a charge created under any other section.
-(3) Payment of an amount under subsection (1) operates to discharge the person from liability for that amount.
-”.
-(3) Section 51(1)(aa) is amended by deleting “the contribution paid by the Company in respect of a grower under the Plant Pests and Diseases (Eradication Funds) Act 1974” and inserting instead —
-“
-a contribution paid by the Company in respect of a person in accordance with a written law referred to in section 34D(1)
-”.
-Subdivision 2 — Transitional provisions
-70.Meaning of terms used in this Subdivision
-In this Subdivision, unless the contrary intention appears —
-commencement day means the day on which section 68 comes into operation;
-grain and seed crops account means the prescribed account referred to in section 2(5)(a);
-repealed Act means the Plant Pests and Diseases (Eradication Funds) Act 1974.
-71.Compensation claims made before repeal
-(1) Despite section 68, an application for compensation under the repealed Act that arose but was not fully dealt with before the commencement day is to be dealt with under the repealed Act as if that Act had not been repealed.
-(2) The amount of any compensation payable on a claim referred to in subsection (1) is to be paid from the grain and seed crops account.
-72.Transfer and payment of skeleton weed moneys to relevant account
-(1) On and after the commencement day —
-(a) all moneys standing to the credit of the Skeleton Weed Eradication Fund established by the repealed Act section 5 (the Fund) are to be credited to the grain and seed crops account, and the Skeleton Weed Eradication Fund is then to be closed; and
-(b) any contribution that —
-(i) immediately before the commencement day is in the hands of a receiver under the repealed Act for payment to the Fund; or
-(ii) after the commencement day is deducted as mentioned in subsection (2),
-is to be paid to the grain and seed crops account.
-(2) Sections 12 and 16 of the repealed Act are taken to continue to apply after the commencement day in respect of any contribution that was required to be, but that was not actually, deducted before that day.
-73.Application of other Funds under the repealed Act
-(1) This section applies to any moneys that after the commencement day are standing to the credit of —
-(a) the Resistant Grain Insects Eradication Fund established by the repealed Act section 8A; or
-(b) the Plant Diseases Eradication Fund established by the repealed Act section 8D.
-(2) On the commencement day any moneys referred to in subsection (1) are to be credited to the grain and seed crops account, and the funds referred to in subsection (1)(a) and (b) are then to be closed.
 Division 15 — Seeds Act 1981
 74.Repeal
 The Seeds Act 1981 is repealed.
