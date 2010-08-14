@@ -165,15 +165,15 @@ Revenue Laws Amendment Act 2006 Pt. 2 (s. 3-16) | 31 of 2006 | 4 Jul 2006 | s. 4
 Stamp Amendment Act 2006 | 67 of 2006 | 11 Dec 2006 | s. 4: 27 Jun 2006 (see s. 2(2)); Act other than s. 4: 12 Dec 2006 (see s. 2(1))
 Revenue Laws Amendment (Taxation) Act 2007 Pt. 5 | 12 of 2007 (as amended by No. 30 of 2008 s. 7) | 29 Jun 2007 | Pt. 5 other than s. 13(2): 1 Jul 2007 (see s. 2(d)(i))
 Reprint 17: The Stamp Act 1921 as at 24 Aug 2007 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 30)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 55 | 24 of 2007 | 12 Oct 2007 | 14 Aug 2010 (see s. 2(1) and Gazette 13 Aug 2010 p. 4021)
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
 Duties Legislation Amendment Act 2008 Pt. 2 Div. 1 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Revenue Laws Amendment Act 2008 s. 8 and Pt. 8 | 30 of 2008 | 27 Jun 2008 | Pt. 8: 6 Feb 2008 (see s. 2(1)(d)); s. 8: 27 Jun 2008 (see s. 2(2)(a))
-Reprint 18: The Stamp Act 1921 as at 29 Aug 2008 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 30)
+Reprint 18: The Stamp Act 1921 as at 29 Aug 2008 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 30 and the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 55)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 119 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 55 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(1))
  | Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Mining Act 1978.
 Section 75AH has a retrospective commencement date effective from 1 Jul 2004; see the Revenue Laws Amendment Act 2006 s. 2(3).
@@ -729,12 +729,6 @@ Third Schedule
 (2) Amend the provisions listed in the Table as set out in the Table.
 79.Stamp Act 1921
 s. 79(2) | Provided that this subsection | (3)Subsection (2)
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 55 had not come into operation. It reads as follows:
-“
-55.Stamp Act 1921 amended
-(1) The amendment in this section is to the Stamp Act 1921.
-(2) The Second Schedule item 3 is deleted.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
