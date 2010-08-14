@@ -15,5 +15,6 @@ Health (Offensive Trades Fees) Amendment Regulations 2007 | 18 May 2007 p. 2250-
 Health (Offensive Trades Fees) Amendment Regulations 2008 | 4 Apr 2008 p. 1305-6 | r. 1 and 2: 4 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Reprint 2: The Health (Offensive Trades Fees) Regulations 1976 as at 5 Dec 2008 (includes amendments listed above)
 Health (Offensive Trades Fees) Amendment Regulations 2009 | 15 May 2009 p. 1627-8 | r. 1 and 2: 15 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Health (Offensive Trades Fees) Amendment Regulations 2010 | 13 Aug 2010 p. 3976-8 | r. 1 and 2: 13 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Aug 2010 (see r. 2(b))
 Under the Local Government Act 1995 Sch. 9.3 cl. 3(2) a reference to a municipality under the Local Government Act 1960 may, where the context so requires, be read as if it had been amended to include or be a reference to a local government under the Local Government Act 1995. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Health (Offensive Trades Fees) Regulations 1976; citation changed (see note under r. 1).
