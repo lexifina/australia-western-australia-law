@@ -23,5 +23,5 @@
 (b)at all entrances giving access to the controlled area; and
 (c)in a prominent position near the laser,
 area warning signs in accordance with Section 10.5 of the laser safety standard.
-16.Persons operating or using the laser system are to undergo eye examinations in accordance with Appendix E to the laser safety standard.
-[Schedule XIII amended in Gazette 10 Oct 1986 p. 3846; 15 Oct 1996 p. 5451.]
+16.Persons operating or using the laser system are to undergo eye examinations in accordance with section 10.11 of the laser safety standard.
+[Schedule XIII amended in Gazette 10 Oct 1986 p. 3846; 15 Oct 1996 p. 5451; 17 Aug 2010 p. 4048.]

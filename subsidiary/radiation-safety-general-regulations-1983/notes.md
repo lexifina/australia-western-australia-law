@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 December 2008 of the Radiation Safety (General) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Radiation Safety (General) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Radiation Safety (General) Regulations 1983 | 21 Feb 1983 p. 555-636 | 21 Aug 1993 (see r. 2)
@@ -48,6 +48,7 @@ Radiation Safety (General) Amendment Regulations (No. 2) 2002 | 16 Jul 2002 p. 3
 Radiation Safety (General) Amendment Regulations 2003 | 2 Jan 2004 p. 3 | 2 Jan 2004
 Radiation Safety (General) Amendment Regulations 2008 | 2 Sep 2008 p. 4117-20 | r. 1 and 2: 2 Sep 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Sep 2008 (see r. 2(b))
 Reprint 3: The Radiation Safety (General) Regulations 1983 as at 19 Dec 2008 (includes amendments listed above)
+Radiation Safety (General) Amendment Regulations 2010 | 17 Aug 2010 p. 4045-8 | r. 1 and 2: 17 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Aug 2010 (see r. 2(b))
 Repealed by the Chiropractors Act 2005.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Repealed by the Medical Practitioners Act 2008.
