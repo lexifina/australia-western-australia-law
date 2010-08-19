@@ -48,6 +48,7 @@ Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 4 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 2 Subdiv. 1 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -144,6 +145,49 @@ Environmental Protection Act 1986 | Schedule 1
 Schedule 2
 Schedule 3
 Schedule 4
+On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 2 Subdiv 1 had not come into operation. It reads as follows:
+Division 2 — Consequential amendments
+Subdivision 1 — Environmental Protection Act 1986 amended
+24.Act amended
+This Subdivision amends the Environmental Protection Act 1986.
+25.Section 3 amended
+(1) In section 3(1) insert in alphabetical order:
+improvement scheme has the meaning given in the Planning and Development Act 2005 section 4(1);
+(2) In section 3(1) in the definition of assessed scheme:
+(a) after paragraph (b)(iii) insert:
+(iv)which is a local planning scheme or a region planning scheme, or an amendment to a local planning scheme or a region planning scheme, amended under the Planning and Development Act 2005 section 122J or 122K to the extent, if any, necessary in relation to an improvement scheme, or an amendment to an improvement scheme, which amendment or scheme is a scheme referred to in paragraph (a) or subparagraph (i) or (ii);
+(b) after paragraph (b)(i) and (iii) insert:
+or
+(3) In section 3(1) in the definition of final approval:
+(a) after paragraph (e) insert:
+(f)an improvement scheme, or an amendment to an improvement scheme, means an approval under the Planning and Development Act 2005 section 87(2), as read with section 122B(1) of that Act;
+(b) after each of paragraphs (a) to (c) and (e) insert:
+or
+(4) In section 3(1) in the definition of period of public review:
+(a) after paragraph (e) insert:
+(f)an improvement scheme, or an amendment to an improvement scheme, means the period of advertisement for public inspection prescribed for the purposes of the Planning and Development Act 2005 section 84, as read with section 122B(1) of that Act;
+(b) after each of paragraphs (a) to (c) and (e) insert:
+or
+(5) In section 3(1) in the definition of responsible authority:
+(a) after paragraph (a)(viii) insert:
+(ix)an improvement scheme, or an amendment to an improvement scheme, means the Western Australian Planning Commission;
+(b) in paragraph (a) after each of subparagraphs (i) to (vi) and (viii) insert:
+or
+(6) In section 3(1) in the definition of scheme:
+(a) after paragraph (h) insert:
+(i)an improvement scheme or an amendment to an improvement scheme;
+(b) after each of paragraphs (a) to (f) and (h) insert:
+or
+26.Section 48C amended
+In section 48C(7) in the definition of public review:
+(a) in paragraph (e) delete “that Act.” and insert:
+that Act; or
+(b) after paragraph (e) insert:
+(f)an improvement scheme, or an amendment to an improvement scheme, means the procedure referred to in the Planning and Development Act 2005 sections 84 and 87(1) as read with section 122B(1) of that Act.
+(c) in each of paragraphs (a) to (e) after “means” insert:
+the
+(d) after each of paragraphs (a) to (c) insert:
+or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
