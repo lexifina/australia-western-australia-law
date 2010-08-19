@@ -18,8 +18,19 @@ Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2
 Armadale Redevelopment (Addition of Land to Redevelopment Area) Regulations 2008 published in Gazette 17 Jun 2008 p. 2568-70 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jun 2008 (see r. 2(b))
 Reprint 2: The Armadale Redevelopment Act 2001 as at 18 Jul 2008 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 28 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 28 had not come into operation. It reads as follows:
+28.Armadale Redevelopment Act 2001 amended
+(1) This section amends the Armadale Redevelopment Act 2001.
+(2) In section 5(4)(a) after “local planning scheme” insert:
+or improvement scheme
+(3) In section 43(1) in the definition of planning scheme paragraph (aa) after “local planning scheme” insert:
+or improvement scheme
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
