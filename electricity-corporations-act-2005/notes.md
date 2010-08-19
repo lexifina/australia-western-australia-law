@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 May 2010 of the Electricity Corporations Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Corporations Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Electricity Corporations Act 2005 | 18 of 2005 | 13 Oct 2005 | Pt. 1, s. 141, 142, 144-152, 153(1) and 179: 13 Oct 2005 (see s. 2(1)); Pt. 2-8, s. 143, 153(2)-(4), 154-178, 180-192, Sch. 1-4 and Sch. 5 (other than cl. 21(2)(a)(ii)): 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153); Sch. 5 cl. 21(2)(a)(ii) deleted by No. 8 of 2009 s. 50(3)(b)
@@ -7,17 +7,28 @@ Compilation table
  | Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and Sch. 1 cl. 53 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 50 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 1: The Electricity Corporations Act 2005 as at 14 May 2010 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 81 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
+Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 31 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending these Acts have, except for Sch. 5 Div. 4 cl. 7 and 22, been omitted under the Reprints Act 1984 s. 7(4)(e).
 Schedule 5 clause 21(2)(a)(ii) of this Act had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 50(3)(b).
-On the date as at which this reprint was prepared, the State Superannuation Amendment Act 2007 s. 81 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 81 had not come into operation. It reads as follows:
 81.Electricity Corporations Act 2005 amended
 (1) The amendments in this section are to the Electricity Corporations Act 2005.
 (2) Section 26(4) is amended by deleting “section 30.” and inserting instead —
 “ section 76. ”.
+On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 31 had not come into operation. It reads as follows:
+31.Electricity Corporations Act 2005 amended
+(1) This section amends the Electricity Corporations Act 2005.
+(2) In section 60(3):
+(a) delete “sections 221 and 218,” and insert:
+sections 218 and 221,
+(b) in paragraph (b) delete “scheme,” and insert:
+scheme; or
+(c) after paragraph (b) insert:
+(c) an improvement scheme,
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
