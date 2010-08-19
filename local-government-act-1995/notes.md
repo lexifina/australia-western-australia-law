@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 February 2010 of the Local Government Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Local Government Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Local Government Act 1995 | 74 of 1995 | 9 Jan 1996 | 1 Jul 1996 (see s. 1.2)
@@ -52,6 +52,7 @@ Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2009 s. 34 | 17 of 2009 | 16 Sep 2009 | To be proclaimed (see s. 2(b))
 Co-operatives Act 2009 s. 506 and 516 | 24 of 2009 | 22 Oct 2009 | s. 506: operative on the day Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d)); s. 516: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 Standardisation of Formatting Act 2010 s. 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 34 and Pt. 5 Div 2 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -269,6 +270,20 @@ s. 4.31(1) | the following provisions occupation — Property divided by distric
 s. 4.31(2) | subsection (1) | subsections (1) to (1H)
 s. 4.36(1) | Stage 1 roll Stage 2 candidates Stage 3 close Stage 4 voting Stage 5 Voting Stage 6 votes Stage 7 | (a)Stage 1 roll; (b)Stage 2 candidates; (c)Stage 3 close; (d)Stage 4 voting; (e)Stage 5 Voting; (f)Stage 6 votes; (g)Stage 7
 s. 6.30(1) | $1.00 per $0.75 per $0.50 per $0.25 for each | (c)$1.00 per (d)$0.75 per (e)$0.50 per (f)$0.25 for each
+On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 34 and Pt. 5 Div 2 had not come into operation. They read as follows:
+34.Local Government Act 1995 amended
+(1) This section amends the Local Government Act 1995.
+(2) In section 6.33(1)(a) after “planning scheme” insert:
+or improvement scheme
+Part 5 — Other amendments related to Planning and Development Act 2005
+Division 2 — Local Government Act 1995 amended
+69.Act amended
+This Division amends the Local Government Act 1995.
+70.Section 5.42 amended
+In section 5.42(1) delete “duties under this Act other than those referred to in section 5.43.” and insert:
+duties under —
+(a) this Act other than those referred to in section 5.43; or
+(b) the Planning and Development Act 2005 section 214(2), (3) or (5).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
