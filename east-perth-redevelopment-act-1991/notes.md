@@ -35,6 +35,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 30 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
@@ -54,3 +55,10 @@ On the date as at which this compilation was prepared, the Standardisation of Fo
 (c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
 East Perth Redevelopment Act 1991 | Schedule 1
 Schedule 2
+On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 30 had not come into operation. It reads as follows:
+30.East Perth Redevelopment Act 1991 amended
+(1) This section amends the East Perth Redevelopment Act 1991.
+(2) In section 5(4)(a) after “local planning scheme” insert:
+or improvement scheme
+(3) In section 38(3) in the definition of planning schemes paragraph (aa) after “local planning scheme” insert:
+or improvement scheme
