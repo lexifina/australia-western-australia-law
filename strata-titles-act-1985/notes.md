@@ -46,6 +46,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 37 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 “
 (5) A plan registered under the principal Act before the provision inserted by subsection (3) came into operation is declared to be, and to have always been, valid if it would have been valid at the time of registration had that provision been then in operation.
@@ -156,6 +157,21 @@ Schedule 2 | Schedule 2 by-laws
 Schedule 2A
 Schedule 3
 Schedule 4
+On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 37 had not come into operation. It reads as follows:
+37.Strata Titles Act 1985 amended
+(1) This section amends the Strata Titles Act 1985.
+(2) In section 21U(3) delete “planning scheme” and insert:
+planning scheme or improvement scheme
+(3) In section 21U(5) delete “planning scheme.” and insert:
+planning scheme or improvement scheme.
+(4) In section 23(2):
+(a) in paragraph (a) after “local planning scheme” insert:
+or improvement scheme
+(b) in paragraph (b) delete “local”.
+(5) In section 31F(2)(e) after “local planning scheme” insert:
+or improvement scheme
+(6) In section 31F(4) delete “scheme.” and insert:
+scheme or improvement scheme.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
