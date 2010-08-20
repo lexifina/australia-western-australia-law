@@ -37,10 +37,14 @@ Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985
 NOTIFICATION OF COMMENCEMENT OF EMPLOYMENT OR WORK
 TO: Chief Casino Officer
 Gaming and Wagering Commission of Western Australia
-I, ............................................................................................................................. (full name)
-being ....................................................................................................................... (position held)
-for and on behalf of ................................................................................................ (Operator)
-hereby advise that .................................................................................................. (name of licensee)
+I, .............................................................................................................................
+(full name)
+being .......................................................................................................................
+(position held)
+for and on behalf of ................................................................................................
+(Operator)
+hereby advise that ..................................................................................................
+(name of licensee)
 the holder of a * Casino Key Employee Licence/Casino Employee Licence No. .............................. commenced * duty as such employee/working with permission of the Operator
 on ............................................................................................................................
 Dated .................................................................................................... 20.............
@@ -54,10 +58,14 @@ Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985
 NOTIFICATION OF TERMINATION OR CESSATION OF EMPLOYMENT OR WORK
 TO: Chief Casino Officer
 Gaming and Wagering Commission of Western Australia
-I, ............................................................................................................................. (full name)
-being ....................................................................................................................... (position held)
-of ............................................................................................................................ (Operator)
-hereby notify in respect of ..................................................................................... (full name of employee)
+I, .............................................................................................................................
+(full name)
+being .......................................................................................................................
+(position held)
+of ............................................................................................................................
+(Operator)
+hereby notify in respect of .....................................................................................
+(full name of employee)
 the holder of a * casino key employee licence/casino employee licence No. ....... that as from ................................... 20..............
 *the Operator has terminated the employment of the employee
 *the employee has * terminated the employment/ceased working with the Operator
