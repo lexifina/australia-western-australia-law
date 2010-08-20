@@ -2,13 +2,13 @@
 Settlement Agents Act 1981 Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name:Family name
 Given names
-orCompany name _____________________________________ ACN
-Address _________________________________________________ Postcode
+orCompany name ____________________________________ ACN
+Address ________________________________________________ Postcode
 Infringement notice | Infringement notice no.
 Date of issue //20
-Alleged offence | Description of offence ____________________________________
+Alleged offence | Description of offence _____________________________________
 Settlement Agents Act 1981 s.
-Date //20Timea.m./p.m.
+Date //20Time a.m./p.m.
 Officer withdrawing notice | Name
 Signature
 Office

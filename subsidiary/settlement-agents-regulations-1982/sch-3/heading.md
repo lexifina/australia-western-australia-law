@@ -27,7 +27,7 @@
 8. The vendor is to list all applications, transfers, instruments, statutory declarations, discharges of mortgages, withdrawals of caveats or other documents to be tendered at settlement in order for the purchaser to become registered as the proprietor of the freehold of the land without any encumbrances on the title to it.
 [Part B inserted in Gazette 23 May 1997 p. 2421-2; amended in Gazette 15 Jun 2004 p. 2026; 22 Dec 2006 p. 5808.]
 ## Part C — Documents for registration or lodgement
-1.Under or for the purposes of the Strata Titles Act 1985 the following documents, subject to the condition that a licensee shall not draft a resolution of a strata company under or for the purposes of that Act:
+1.Under or for the purposes of the Strata Titles Act 1985 the following documents, subject to the condition that a licensee shall not draft a resolution of a strata company under or for the purposes of that Act —
 (a)these documents for the purposes of these provisions of that Act:
 Provision | Description of document
 ss. 4-5B | Application for registration of a strata plan or a survey-strata plan
@@ -42,7 +42,7 @@ Form | Description of form
 15 | Notification of Resolution of Termination of Scheme
 16 | Notice of Change of Address for Service of Notices
 17 | Notice of Change of Name of Scheme and Change of Address for Service of Notices
-19 | Notice of Resolution to Vary, Remove or Add a Restriction;
+19 | Notice of Resolution to Vary, Remove or Add a Restriction
 20 | Application for Re-subdivision by Strata Company
 21 | Notice of Amendment, Repeal or Addition of By-law
 22 | Disposition on Subdivision
