@@ -12,7 +12,8 @@ Financial Management (Statutory Authorities) Regulations 2008 published in Gazet
 Eastern Goldfields Transport Board Repeal Act 2008 s. 13 | 28 of 2008 | 1 Jul 2008 | 29 Jul 2008
 Reprint 1: The Financial Management Act 2006 as at 26 Sep 2008 (includes amendments listed above)
 National Gas Access (WA) Act 2009 s. 69 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Financial Management (Statutory Authorities) Regulations 2010 published in Gazette 20 Aug 2010 p. 4071-2 | r. 1 and 2: 20 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2010 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 36 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
