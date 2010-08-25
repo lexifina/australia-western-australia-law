@@ -259,6 +259,7 @@ Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 1
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 and 35 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative at “transfer time” fixed under the State Superannuation Act 2000 s. 56 (see s. 2(1)(c))
 Standardisation of Formatting Act 2010 s. 14, 43(2), 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Grain Marketing Repeal Act 2010 s. 4 | 30 of 2010 | 25 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions repealed by the Health Amendment Act 1985.
@@ -408,6 +409,10 @@ s. 31 | Division 3 — General
 (2) Amend the provisions listed in the Table as set out in the Table.
 13.Constitution Acts Amendment Act 1899
 s. 31 | In the succeeding provisions of this Part — (a)disqualified (i)any member (ii)any deputy, Assembly; (second occurrence) (b)a reference | (1)In this Division — disqualified (a)any member (b)any deputy, Assembly. (2)In this Division a reference
+On the date as at which this compilation was prepared, the Grain Marketing Repeal Act 2010 s. 4 had not come into operation. It reads as follows:
+4.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3 delete “The Grain Licensing Authority appointed under the Grain Marketing Act 2002.”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
