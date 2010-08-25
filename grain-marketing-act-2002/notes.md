@@ -11,11 +11,14 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 505 | 24 of 2009 | 22 Oct 2009 | Operative on the date the Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d))
+Grain Marketing Repeal Act 2010 s. 3 | 30 of 2010 | 25 Aug 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 505 had not come into operation. It reads as follows:
-“
 505.Grain Marketing Act 2002 amended
 (1) This section amends the Grain Marketing Act 2002.
 (2) In section 48(2)(b) delete subparagraph (ii) and insert:
 (ii) Co-operative Bulk Handling Limited, a co-operative registered under the Co-operatives Act 2009,
 (3) In Schedule 1 clause 5(3) in the definition of CBH delete the passage that begins with “a company” and ends with “1943.” and insert:
 a co-operative registered under the Co-operatives Act 2009.
+On the date as at which this compilation was prepared, the Grain Marketing Repeal Act 2010 s. 3 had not come into operation. It reads as follows:
+3.Act repealed
+The Grain Marketing Act 2002 is repealed.
