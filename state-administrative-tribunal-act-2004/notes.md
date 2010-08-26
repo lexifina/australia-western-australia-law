@@ -26,12 +26,21 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
+Pharmacy Act 2010 Pt. 8 Div. 2 | 32 of 2010 | 26 Aug 2010 | To be proclaimed (see s. 2(b))
 Footnote no longer applicable.
 Repealed by the Optical Dispensers Repeal Act 2006.
 On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
 82.State Administrative Tribunal Act 2004 amended
 (1) This section amends the State Administrative Tribunal Act 2004.
 (2) In Schedule 1 delete “Finance Brokers Control Act 1975”.
+On the date as at which this compilation was prepared, the Pharmacy Act 2010 Pt. 8 Div. 2 had not come into operation. It reads as follows:
+Part 8 — Consequential amendments
+Division 2 — State Administrative Tribunal Act 2004 amended
+75.Act amended
+This Division amends the State Administrative Tribunal Act 2004.
+76.Schedule 1 amended
+In Schedule 1 insert in alphabetical order:
+Pharmacy Act 2010
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
