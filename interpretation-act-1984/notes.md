@@ -46,6 +46,7 @@ Reprint 6: The Interpretation Act 1984 as at 25 May 2007 (includes amendments li
 Criminal Law Amendment (Homicide) Act 2008 s. 35 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Surrogacy Act 2008 Pt. 4 Div. 6 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
 Acts Amendment (Bankruptcy) Act 2009 Pt. 2 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Interpretation and Reprints Amendment Act 2010 Pt. 2 | 31 of 2010 | 25 Aug 2010 | 26 Aug 2010 (see s. 2(b))
 Now see the Public Sector Management Act 1994.
 Under s. 77(2), the Interpretation Act 1918 s. 11 continues to apply to Acts passed before 1 July 1984. Section 11 reads as follows:
 11.Exercise of statutory power between passing and coming into operation of an Act or any provision thereof.
