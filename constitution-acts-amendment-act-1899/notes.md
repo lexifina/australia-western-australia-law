@@ -260,6 +260,7 @@ Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative at “transfer time” fixed under the State Superannuation Act 2000 s. 56 (see s. 2(1)(c))
 Standardisation of Formatting Act 2010 s. 14, 43(2), 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Grain Marketing Repeal Act 2010 s. 4 | 30 of 2010 | 25 Aug 2010 | To be proclaimed (see s. 2(b))
+Pharmacy Act 2010 Pt. 8 Div. 1 | 32 of 2010 | 26 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions repealed by the Health Amendment Act 1985.
@@ -413,6 +414,14 @@ On the date as at which this compilation was prepared, the Grain Marketing Repea
 4.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete “The Grain Licensing Authority appointed under the Grain Marketing Act 2002.”.
+On the date as at which this compilation was prepared, the Pharmacy Act 2010 Pt. 8 Div. 1 had not come into operation. It reads as follows:
+Part 8 — Consequential amendments
+Division 1 — Constitution Acts Amendment Act 1899 amended
+73.Act amended
+This Division amends the Constitution Acts Amendment Act 1899.
+74.Schedule V Part 3 amended
+In Schedule V Part 3 insert in alphabetical order:
+The Pharmacy Registration Board of Western Australia established under the Pharmacy Act 2010.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
