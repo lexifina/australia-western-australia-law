@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 May 2010 of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Navigable Waters Regulations | 2 Apr 1958 p. 622-32 | 1 May 1958 (see r. 1)
@@ -127,9 +127,24 @@ Navigable Waters Amendment Regulations (No. 3) 2009 | 17 Nov 2009 p. 4628-30 | r
 Navigable Waters Amendment Regulations (No. 4) 2009 | 11 Dec 2009 p. 5058-9 | r. 1 and 2: 11 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Dec 2009 (see r. 2(b))
 Navigable Waters Amendment Regulations 2010 | 19 Mar 2010 p. 1036 | r. 1 and 2: 19 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Mar 2010 (see r. 2(b))
 Reprint 14: The Navigable Waters Regulations 1958 as at 14 May 2010 (includes amendments listed above)
+Navigable Waters Amendment Regulations (No. 3) 2010 | 27 Aug 2010 p. 4112-14 | r. 1 and 2: 27 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Aug 2010 (see r. 2(b))
+Navigable Waters Amendment Regulations (No. 4) 2010 | 27 Aug 2010 p. 4114-15 | r. 1 and 2: 27 Aug 2010 (see r. 2(a)); r. 3, 4(2), 5 and 6: 28 Aug 2010 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Navigable Waters Amendment Regulations (No. 4) 2010 | 27 Aug 2010 p. 4114-15 | r. 4(2): 1 Sep 2010 (see r. 2(c))
 Repealed by the Dangerous Goods Safety Act 2004.
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
+5On the date as at which this compilation was prepared, the Navigable Waters Amendment Regulations (No. 4) 2010 r. 4(2) had not come into operation. It reads as follows:
+4.Regulation 45B amended
+(1) In regulation 45B(3a) delete the Table and insert:
+Table of fees
+Length of vessel | Fee ($)
+(i)less than 5 m | 77.70
+(ii)5 m or more but less than 10 m | 165.00
+(iii)10 m or more but less than 20 m | 331.20
+(iv)20 m or more | 484.50
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
