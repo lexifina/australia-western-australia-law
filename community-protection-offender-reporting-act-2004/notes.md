@@ -8,13 +8,13 @@ Acts Amendment (Justice) Act 2008 s. 127 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008
 Criminal Law Amendment (Homicide) Act 2008 s. 25(1)-(3) | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(b) and (d) and Gazette 22 Jul 2008 p. 3353)
 Community Protection (Offender Reporting) Amendment Act 2008 s. 4-12 | 27 of 2008 | 1 Jul 2008 | 2 Jul 2008 (see s. 2(b))
 Reprint 1: The Community Protection (Offender Reporting) Act 2004 as at 14 Nov 2008 (includes amendments listed above)
+Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 s. 13 | 21 of 2010 | 7 Jul 2010 | 28 Aug 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 5 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 | 72 of 2004 (as amended by No. 29 of 2008 s. 25(4)) | 8 Dec 2004 | s. 12 and Sch. 3: to be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 29 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 s. 13 | 21 of 2010 | 7 Jul 2010 | To be proclaimed (see s. 2(b))
 Formerly referred to the Criminal Law (Mentally Impaired Defendants) Act 1996 the short title of which was changed to the Criminal Law (Mentally Impaired Accused) Act 1996 by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82. This reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 On the date as at which this compilation was prepared, the Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 (as amended by the Criminal Law Amendment (Homicide) Act 2008 s. 25(4)) had not come into operation. They read as follows:
 “
@@ -53,17 +53,6 @@ s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
 s. 17 | Obtaining payment for commercial sexual act by a child
 ”.
 ”.
-On the date as at which this compilation was prepared, the Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 s. 13 had not come into operation. It reads as follows:
-13.Community Protection (Offender Reporting) Act 2004 amended
-(1) This section amends the Community Protection (Offender Reporting) Act 2004.
-(2) In Schedule 2:
-(a) after the item relating to The Criminal Code s. 204B(3) insert:
-s. 217 | Involving child in child exploitation
-s. 218 | Production of child exploitation material
-s. 219 | Distribution of child exploitation material
-s. 220 | Possession of child exploitation material
-(b) under the heading relating to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 delete “s. 60” and insert:
-the deleted s. 60
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
