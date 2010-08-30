@@ -23,6 +23,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 36 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The Labour Relations Reform Act 2002 s. 165(3)-(5) reads as follows:
 “
 (3) An agreement continues to have effect on and from the commencement day in respect of the employee’s entitlement to annual leave that accrued before the commencement day as if former section 8 had not been amended by this Act.
@@ -90,6 +91,13 @@ On the date as at which this compilation was prepared, the Standardisation of Fo
 (c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
 Act | Identifier | Title | Shoulder note
 Minimum Conditions of Employment Act 1993 | Schedule 1
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 36 had not come into operation. It reads as follows:
+Division 36 — Minimum Conditions of Employment Act 1993 amended
+115.Act amended
+This Division amends the Minimum Conditions of Employment Act 1993.
+116.Section 3 amended
+In section 3(1) delete the definition of medical practitioner and insert:
+medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
