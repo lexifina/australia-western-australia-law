@@ -27,6 +27,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
 Pharmacy Act 2010 Pt. 8 Div. 2 | 32 of 2010 | 26 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 47 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Footnote no longer applicable.
 Repealed by the Optical Dispensers Repeal Act 2006.
 On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
@@ -41,6 +42,30 @@ This Division amends the State Administrative Tribunal Act 2004.
 76.Schedule 1 amended
 In Schedule 1 insert in alphabetical order:
 Pharmacy Act 2010
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 47 had not come into operation. It reads as follows:
+Division 47 — State Administrative Tribunal Act 2004 amended
+156.Act amended
+This Division amends the State Administrative Tribunal Act 2004.
+157.Schedule 1 amended
+(1) In Schedule 1:
+(a) delete the items for:
+Chiropractors Act 2005
+Dental Act 1939
+Dental Prosthetists Act 1985
+Medical Practitioners Act 2008
+Nurses and Midwives Act 2006
+Optical Dispensers Act 1966
+Optometrists Act 2005
+Osteopaths Act 2005
+Physiotherapists Act 2005
+Podiatrists Act 2005
+Psychologists Act 2005
+(b) insert in alphabetical order:
+Health Practitioner Regulation National Law (Western Australia)
+(2) In Schedule 1 delete “Pharmacy Act 1964”.
+(3) In Schedule 1 delete the items for:
+Medical Radiation Technologists Act 2006
+Occupational Therapists Act 2005
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
