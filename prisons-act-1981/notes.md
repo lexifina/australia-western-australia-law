@@ -53,6 +53,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 41 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
 Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference to the Western Australian Prisons Department was, unless the contrary intention appears, to be read and construed as a reference to the Department of Justice.
@@ -83,6 +84,16 @@ Schedule 2 cl. 6(5) reads as follows:
 The amendments in the Corruption and Crime Commission Amendment and Repeal Act 2003 Sch. 2 cl. 11(3)-(6) are not included because the sections they sought to amend had been repealed by No. 75 of 2003 s. 56(1) before the amendment purported to come into operation.
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Sch. 1 cl. 25 (amendment to s. 23) was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 78(4).
 Footnotes no longer applicable.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 41 had not come into operation. It reads as follows:
+Division 41 — Prisons Act 1981 amended
+135.Act amended
+This Division amends the Prisons Act 1981.
+136.Section 3 amended
+In section 3(1) in the definition of medical practitioner delete paragraph (a) and “and” after it and insert:
+(a)a person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession; and
+137.Section 46 amended
+In section 46 delete “a medical practitioner registered under the Medical Practitioners Act 2008” and insert:
+a person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession
 On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 36(2) had not come into operation. It reads as follows:
 “
 36.Prisons Act 1981
