@@ -42,6 +42,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 37 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 20 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Firearms and Guns Act 1931 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
 The Firearms Amendment Act 1996 s. 9(2), 10(2), 11(2), 15(2), 39 and 53 are transitional, savings and related provisions that are of no further effect.
@@ -94,6 +95,18 @@ department means the department principally assisting in the administration of t
 (d) by deleting the definition of “subsection”;
 (e) by deleting the definition of “the Board”.
 ”.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 20 had not come into operation. It reads as follows:
+Division 20 — Firearms Act 1973 amended
+63.Act amended
+This Division amends the Firearms Act 1973.
+64.Section 4 amended
+In section 4 delete the definition of medical practitioner and insert:
+medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
+65.Section 23B amended
+(1) In section 23B(3) in the definition of health professional delete paragraph (b) and insert:
+(b)a person registered under the Health Practitioner Regulation National Law (Western Australia) in the psychology profession;
+(2) In section 23B(3) delete the definition of registered nurse and insert:
+registered nurse means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession whose name is entered on Division 1 of the Register of Nurses kept under that Law as a registered nurse.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
