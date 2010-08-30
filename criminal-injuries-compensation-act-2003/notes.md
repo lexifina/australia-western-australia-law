@@ -13,6 +13,10 @@ Acts Amendment (Justice) Act 2008 Pt. 7 | 5 of 2008 | 31 Mar 2008 | 31 Jul 2008 
 Legal Profession Act 2008 s. 655 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 2: The Criminal Injuries Compensation Act 2003 as at 2 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 15 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The Criminal Injuries Compensation Act 1985 was repealed by s. 73 of this Act.
 The Criminal Injuries (Compensation) Act 1970 was repealed by the Criminal Injuries Compensation Act 1982 s. 43(1).
 The Criminal Injuries Compensation Act 1982 was repealed by the Criminal Injuries Compensation Act 1985 s. 50(1).
@@ -23,6 +27,16 @@ The Criminal Injuries Compensation Amendment Act 2004 s. 10 reads as follows:
 (2) An amount received or recovered as described in section 68 of the Criminal Injuries Compensation Act 2003, on or after 1 January 2004, is deemed to create a debt due under the Criminal Injuries Compensation Act 2003, as amended by this Act.
 (3) A notice given under the Criminal Injuries Compensation Act 1985, on or after 1 January 2004, is deemed to have been given under the Criminal Injuries Compensation Act 2003, as amended by this Act.
 ”.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 15 had not come into operation. It reads as follows:
+Division 15 — Criminal Injuries Compensation Act 2003 amended
+53.Act amended
+This Division amends the Criminal Injuries Compensation Act 2003.
+54.Section 3 amended
+In section 3 delete the definition of health professional and insert:
+health professional means —
+(a)a person registered under the Health Practitioner Regulation National Law (Western Australia) in the dental profession whose name is entered on the Dentists Division of the Register of Dental Practitioners kept under that Law or under a law of another place that is substantially similar to that Law; or
+(b)a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession or under a law of another place that is substantially similar to that Law; or
+(c)a person registered under the Health Practitioner Regulation National Law (Western Australia) in the psychology profession or under a law of another place that is substantially similar to that Law;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
