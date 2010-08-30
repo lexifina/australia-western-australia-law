@@ -45,6 +45,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 51 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -108,6 +109,13 @@ Act | Identifier | Title | Shoulder note
 Young Offenders Act 1994 | Schedule 1 | Schedule 1 offences
 Schedule 2 | Schedule 2 offences
 Schedule 3
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 51 had not come into operation. It reads as follows:
+Division 51 — Young Offenders Act 1994 amended
+165.Act amended
+This Division amends the Young Offenders Act 1994.
+166.Section 179 amended
+In section 179(1) delete the definition of medical officer and insert:
+medical officer means an officer of the Department who is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
