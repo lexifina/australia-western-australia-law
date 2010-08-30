@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 November 2009 of the Liquor Control Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Liquor Control Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Liquor Licensing Act 1988 | 54 of 1988 | 9 Dec 1988 | s. 1 and 2: 9 Dec 1988; Act other than s. 1 and 2: 1 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
@@ -38,11 +38,12 @@ Legal Profession Act 2008 s. 675 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Food Act 2008 s. 148 | 43 of 2008 | 8 Jul 2008 | 24 Oct 2009 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157)
 Acts Amendment (Bankruptcy) Act 2009 s. 51 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Reprint 6: The Liquor Control Act 1988 as at 20 Nov 2009 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
  | Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
  | Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+ | Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 31 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Acts 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
@@ -51,7 +52,7 @@ Repealed by the Liquor Act 1970, which was repealed by this Act.
 Now known as the Liquor Control Act 1988; short title changed (see note under s. 1).
 The Courts Legislation Amendment Act 2000 s. 14 is a transitional provision that is of no further effect.
 The Liquor Licensing Amendment Act 2001 s. 5(2) and 6(2) are transitional provisions that are of no further effect.
-On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 32 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 32 had not come into operation. It reads as follows:
 32.Liquor Control Act 1988 amended
 (1) The amendment in this section is to the Liquor Control Act 1988.
 (2) After section 37(6) the following subsection is inserted —
@@ -66,6 +67,15 @@ On the date as at which this compilation was prepared, the Standardisation of Fo
 Act | Identifier | Title | Shoulder note
 Liquor Control Act 1988 | Schedule 1
 Schedule 2 | Unincorporated clubs
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 31 had not come into operation. It reads as follows:
+Division 31 — Liquor Control Act 1988 amended
+103.Act amended
+This Division amends the Liquor Control Act 1988.
+104.Section 6 amended
+Delete section 6(1)(b) and insert:
+(b) where liquor is sold or administered for medicinal purposes —
+(i) by a person registered under the Health Practitioner Regulation National Law (Western Australia) in the pharmacy profession; or
+(ii) by or on the prescription of a person registered under the Health Practitioner Regulation National Law (Western Australia) in the dental profession whose name is entered on the Dentists Division of the Register of Dental Practitioners kept under that Law or registered under that Law in the medical profession;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
