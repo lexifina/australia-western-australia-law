@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 November 2009 of the Health Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Act 1911 | 34 of 1911 (1 Geo. V No. 45) | 16 Feb 1911 | 1 Jun 1911 (see s. 1 and Gazette 3 Mar 1911 p. 961)
@@ -129,6 +129,10 @@ Criminal Law Amendment (Homicide) Act 2008 s. 34 | 29 of 2008 | 27 Jun 2008 | 1 
 Food Act 2008 s. 147 | 43 of 2008 | 8 Jul 2008 | 24 Oct 2009 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 71 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 15: The Health Act 1911 as at 20 Nov 2009 (includes amendments listed above) (Correction in Gazette 14 Dec 2010 p. 6301)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 22 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 Repealed by the Nurses and Midwives Act 2006.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
@@ -201,6 +205,41 @@ specified means specified or described in the regulations.
 (4) If regulations contain a provision referred to in subsection (2), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the day of publication; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 22 had not come into operation. It reads as follows:
+Division 22 — Health Act 1911 amended
+68.Act amended
+This Division amends the Health Act 1911.
+69.Section 3 amended
+(1) In section 3(1) delete the definitions of:
+medical practitioner
+midwife
+nurse practitioner
+(2) In section 3(1) insert in alphabetical order:
+medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
+midwife means a person registered under the Health Practitioner Regulation National Law (Western Australia) whose name is entered on the Register of Midwives kept under that Law;
+nurse practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) whose name is entered on the Register of Nurses kept under that Law as being qualified to practise as a nurse practitioner;
+70.Section 246A amended
+In section 246A(3) delete “Pharmacy Act 1964” and insert:
+Health Practitioner Regulation National Law (Western Australia)
+Note:The heading to amended section 246A is to read:
+Crown bound, but Health Practitioner Regulation National Law (Western Australia) and Poisons Act 1964 not affected by Division 8
+71.Section 246D amended
+In section 246D(1)(n) delete “a medical practitioner within the meaning given to that term in the Medical Practitioners Act 2008 section 4” and insert:
+a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession
+72.Section 331 inserted
+At the beginning of Part XIII insert:
+331.Terms used in this Part
+In this Part —
+dentist means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the dental profession whose name is entered on the Dentists Division of the Register of Dental Practitioners kept under that Law;
+school dental service means the service established under section 337A;
+school dental therapist means a person who holds or is taken to hold general registration under the Health Practitioner Regulation National Law (Western Australia) in the dental therapist profession.
+73.Section 337 amended
+In section 337(2):
+(a) delete “duly registered”;
+(b) delete “Health or by the local government,” and insert:
+Health,
+74.Section 337A amended
+Delete section 337A(5).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
