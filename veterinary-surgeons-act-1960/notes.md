@@ -21,6 +21,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 49 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The provision of this Act repealing those Acts has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Now known as Manager, Animal Industry Protection, Animal Protection Program.
 Repealed by s. 1(3) of this Act, which was omitted under the Reprints Act 1984 s. 7(4)(f).
@@ -34,3 +35,10 @@ s. 17(4) | (4)(a)In (b)Courts, | (4A)In (4B)Courts,
 s. 17(5) | (5)(a)The (b)The | (5A)The (5B)The
 s. 17(6) | (6)(a)A copy (b)The | (6A)A copy (6B)The
 s. 20B(2) | (i)until (ii)until | (a)until (b)until
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 49 had not come into operation. It reads as follows:
+Division 49 — Veterinary Surgeons Act 1960 amended
+161.Act amended
+This Division amends the Veterinary Surgeons Act 1960.
+162.Section 28 amended
+In section 28(a) delete “any registered pharmaceutical chemist” and insert:
+a person registered under the Health Practitioner Regulation National Law (Western Australia) in the pharmacy profession
