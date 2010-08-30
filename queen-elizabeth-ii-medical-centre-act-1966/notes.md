@@ -26,6 +26,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 27 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 43 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The Queen Elizabeth II Medical Centre Amendment Act 1985 s. 9 reads as follows:
 “
 9.Validation
@@ -88,6 +89,13 @@ s. 7(4) | (4)(a)The member (b)The Vice | (4A)The member (4B)The Vice
 s. 13(2a)(b) | subsection (3); and | subsection (3A); and
 s. 13(2m)(b) and (2o)(a) | subsection (3); | subsection (3A);
 s. 13(3) | (3)(a)The Trust (b)The Treasurer this subsection | (3A)The Trust (3B)The Treasurer subsection (3A)
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 43 had not come into operation. It reads as follows:
+Division 43 — Queen Elizabeth II Medical Centre Act 1966 amended
+140.Act amended
+This Division amends the Queen Elizabeth II Medical Centre Act 1966.
+141.Section 16 amended
+In section 16(4a) delete “a medical practitioner as defined in the Medical Practitioners Act 2008 section 4.” and insert:
+a person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
