@@ -38,6 +38,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 1 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 37 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
 “
@@ -112,6 +114,19 @@ Schedule V
 Schedule VI
 Schedule VII
 Schedule VIII
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 37 had not come into operation. It reads as follows:
+Division 37 — Misuse of Drugs Act 1981 amended
+117.Act amended
+This Division amends the Misuse of Drugs Act 1981.
+118.Section 3 amended
+(1) In section 3(1) delete the definitions of:
+dentist
+medical practitioner
+nurse practitioner
+(2) In section 3(1) insert in alphabetical order:
+dentist means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the dental profession whose name is entered on the Dentists Division of the Register of Dental Practitioners kept under that Law;
+medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
+nurse practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) whose name is entered on the Register of Nurses kept under that Law as a being qualified to practise as a nurse practitioner;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
