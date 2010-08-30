@@ -9,4 +9,18 @@ Reprint 1: The Blood Donation (Limitation of Liability) Act 1985 as at 1 Aug 200
 Workers’ Compensation Reform Act 2004 s. 156 and 174 | 42 of 2004 | 9 Nov 2004 | s. 174: 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131); s. 156: 14 Nov 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131 and 17 Jun 2005 p. 2657); Para (b) of proclamation published 31 Dec 2004 p. 7131 revoked (see Gazette 17 Jun 2005 p. 2657)
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 7 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Formerly referred to the Workers’ Compensation and Assistance Act 1981 the short title of which was changed to the Workers’ Compensation and Rehabilitation Act 1981 by the Workers’ Compensation and Assistance Amendment Act 1990 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 7 had not come into operation. It reads as follows:
+Division 7 — Blood Donation (Limitation of Liability) Act 1985 amended
+35.Act amended
+This Division amends the Blood Donation (Limitation of Liability) Act 1985.
+36.Section 3 amended
+In section 3 delete the definition of medical practitioner and insert:
+medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
+37.Section 11 amended
+Delete section 11(1)(e) and insert:
+(e) registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession whose name is entered on Division 1 of the Register of Nurses kept under that Law as a registered nurse and is employed for the taking of tissue,
