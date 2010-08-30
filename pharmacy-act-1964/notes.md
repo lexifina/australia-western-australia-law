@@ -32,6 +32,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 s. 14(j) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment to s. 18(3) in the Criminal Law Amendment (Simple Offences) Act 2004 s. 82 is not included because the subsection it seeks to amend was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 926.
@@ -53,3 +54,7 @@ Third Schedule | Certificate of registration
 60.Pharmacy Act 1964
 s. 36(1) | subsection (2), | subsections (2A) to (2D),
 s. 36(2) | (2)(a)Nothing (b)Every this paragraph (c)The (d)Nothing (ii)to prevent (iii)to permit (iv)to prevent | (2A)Nothing (2B)Every this subsection (2C)The (2D)Nothing (a)to prevent (b)to permit (c)to prevent
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 14(j) had not come into operation. It reads as follows:
+14.Acts repealed
+These Acts are repealed:
+(j) the Pharmacy Act 1964;
