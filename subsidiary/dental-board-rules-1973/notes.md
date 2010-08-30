@@ -30,3 +30,10 @@ Dental Board Amendment Rules 2005 | 15 Nov 2005 p. 5600-1 | 15 Nov 2005
 Dental Board Amendment Rules 2008 | 13 Jun 2008 p. 2517-18 | r. 1 and 2: 13 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 14 Jun 2008 (see r. 2(b))
 Dental Board Amendment Rules 2009 | 24 Nov 2009 p. 4735-6 | r. 1 and 2: 24 Nov 2009 (see r. 2(a)); Rules other than r. 1 and 2: 25 Nov 2009 (see r. 2(b))
 Dental Board Amendment Rules 2010 | 5 Mar 2010 p. 843-4 | r. 1 and 2: 5 Mar 2010 (see r. 2(a)); Rules other than r. 1 and 2: 6 Mar 2010 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Practitioner Regulation National Law (WA) Act 2010 s. 15(3) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 15(3) had not come into operation. It reads as follows:
+15.Codes of practice, regulations and rules repealed
+(3) The Dental Board Rules 1973 are repealed.
