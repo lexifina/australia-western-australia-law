@@ -25,6 +25,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 11 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The provision of this Act repealing that Act has been omitted under s. 7(4)(f) of the Reprints Act 1984.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) had not come into operation. It reads as follows:
@@ -43,3 +44,10 @@ The Courts Legislation Amendment and Repeal Act 2004 s. 75(2) reads as follows:
 “
 (2) If immediately before the commencement of this section a person holds office as a Coroner’s clerk, then on the commencement the person is to be taken to have been appointed as a Coroner’s registrar.
 ”.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 11 had not come into operation. It reads as follows:
+Division 11 — Coroners Act 1996 amended
+45.Act amended
+This Division amends the Coroners Act 1996.
+46.Section 3 amended
+In section 3 delete the definition of doctor and insert:
+doctor means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
