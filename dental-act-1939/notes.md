@@ -43,6 +43,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 17, 43(3) and 56 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 s. 14(b) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 See Gazette 17 August 1979 p. 2483.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
 Repealed by the Public Service Act 1978, which has since been repealed by the Public Sector Management Act 1994.
@@ -107,3 +108,7 @@ Provision | Delete | Insert
  | s. 54(1) | regulations: Provided that any | regulations. (1A)Despite subsection (1), any
  | s. 55(1) | a dentist: | a dentist; or
  | s. 56(4) | (4)Provided that — (a)every person; and (b)this section | (4A)Every person. (4B)This section
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 14(b) had not come into operation. It reads as follows:
+14.Acts repealed
+These Acts are repealed:
+(b) the Dental Act 1939;
