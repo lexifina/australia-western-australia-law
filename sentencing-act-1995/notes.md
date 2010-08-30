@@ -59,6 +59,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+ | Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 46 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
@@ -221,6 +222,12 @@ On the date as at which this compilation was prepared, the Standardisation of Fo
 Table
 Act | Identifier | Title | Shoulder note
 Sentencing Act 1995 | Schedule 1
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 46 had not come into operation. It reads as follows:
+Division 46 — Sentencing Act 1995 amended
+154.Act amended
+This Division amends the Sentencing Act 1995.
+155.Schedule 1 amended
+In Schedule 1 delete the items relating to the Dental Act 1939 and the Medical Practitioners Act 2008.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
