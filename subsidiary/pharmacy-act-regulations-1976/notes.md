@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 August 2008 of the Pharmacy Act Regulations 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Pharmacy Act Regulations 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Pharmacy Act Regulations 1976 | 17 Sep 1976 p. 3430-43 | 1 Nov 1976
@@ -22,8 +22,16 @@ Pharmacy Amendment Regulations 2004 | 30 Dec 2004 p. 6969-70 | 1 Jan 2005 (see r
 Pharmacy Amendment Regulations 2005 | 15 Nov 2005 p. 5599 | 1 Jan 2006 (see r. 2)
 Pharmacy Amendment Regulations 2007 | 15 May 2007 p. 2093-4 | r. 1 and 2: 15 May 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 16 May 2007 (see r. 2(b))
 Reprint 3: The Pharmacy Act Regulations 1976 as at 8 Aug 2008 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Practitioner Regulation National Law (WA) Act 2010 s. 15(2)(k) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Friendly Societies (Western Australia) Act 1999.
 The commencement date of 1 Jul 1985 that was specified was before the date of gazettal.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 15(2)(k) had not come into operation. It reads as follows:
+15.Codes of practice, regulations and rules repealed
+(2) These regulations are repealed:
+(k) the Pharmacy Act Regulations 1976;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
