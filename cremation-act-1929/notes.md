@@ -26,6 +26,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 14 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Associations Incorporation Act 1987.
 The renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and subsequent reprints has been retained. References to the original numbering are contained in the 1943 reprint.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -38,6 +39,13 @@ s. 3 | No person Provided that nothing in this section shall prevent | (1)No per
 s. 8(3) | (3)(a)An application (i)an (ii)a person (iii)a person (b)Where (i)make (ii)supply | (3A)An application (a)an (b)a person (c)a person (3B)Where (a)make (b)supply
 s. 8(4) | (4)(a)A person (b)The medical | (4A)A person (4B)The medical
 s. 16 | The Governor crematorium; and void: Provided that no order paragraph (a) or (b) | (1)The Governor crematorium, and void. (2)No order subsection (1)(a) or (b)
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 14 had not come into operation. It reads as follows:
+Division 14 — Cremation Act 1929 amended
+51.Act amended
+This Division amends the Cremation Act 1929.
+52.Section 2 amended
+In section 2 delete the definition of medical practitioner and insert:
+medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
