@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 27 November 2009 of the Children and Community Services Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Children and Community Services Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 | 34 of 2004 | 20 Oct 2004 | s. 1 and 2: 20 Oct 2004; s. 3 and 102: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); Act other than s. 1-3 and 102 and Sch. 2 cl. 9(2) and 25: 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695); Sch. 2 cl. 9(2): 11 Mar 2006 (see s. 2 and Gazette 10 Mar 2006 p. 987); Sch. 2 cl. 25 deleted by No. 8 of 2009 s. 32(4)
@@ -14,6 +14,10 @@ Surrogacy Act 2008 Pt. 4 Div. 2 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 32 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Parliamentary Commissioner Amendment Act 2009 s. 11 | 10 of 2009 | 29 Jun 2009 | 30 Jun 2009 (see s. 2(b))
 Reprint 2: The Children and Community Services Act 2004 as at 27 Nov 2009 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 8 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions which read as follows:
 Part 6 — Transitional provisions
@@ -51,6 +55,19 @@ specified means specified or described in the regulations.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not —
 (a) affect, in a manner prejudicial to any person (other than the State, an authority of the State or a local government), rights that the person had before the regulations were published in the Gazette; or
 (b) impose liabilities on any person (other than the State, an authority of the State or a local government) in respect of anything done or omitted to be done before the regulations were published in the Gazette.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 8 had not come into operation. It reads as follows:
+Division 8 — Children and Community Services Act 2004 amended
+38.Act amended
+This Division amends the Children and Community Services Act 2004.
+39.Section 124A amended
+(1) In section 124A delete the definitions of:
+doctor
+midwife
+nurse
+(2) In section 124A insert in alphabetical order:
+doctor means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
+midwife means a person registered under the Health Practitioner Regulation National Law (Western Australia) whose name is entered on the Register of Midwives kept under that Law;
+nurse means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession whose name is entered on the Register of Nurses kept under that Law;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
