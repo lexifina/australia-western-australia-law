@@ -29,6 +29,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 82 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 48 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Now known as the Veterinary Chemical Control and Animal Feeding Stuffs Act 1976; short title changed (see note under s. 1).
 The Acts Amendment (Chemistry Centre (W.A.) Act 1990 s. 13 reads as follows:
 “
@@ -43,3 +44,17 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 82.Repeal
 The Veterinary Chemical Control and Animal Feeding Stuffs Act 1976 is repealed.
 ”.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 48 had not come into operation. It reads as follows:
+Division 48 — Veterinary Chemical Control and Animal Feeding Stuffs Act 1976 amended
+158.Act amended
+This Division amends the Veterinary Chemical Control and Animal Feeding Stuffs Act 1976.
+159.Section 5 amended
+In section 5(1) in the definition of veterinary chemical product paragraph (a)(i) delete “pharmaceutical chemist registered under the Pharmacy Act 1964; or” and insert:
+person registered under the Health Practitioner Regulation National Law (Western Australia) in the pharmacy profession; or
+160.Section 65 amended
+(1) Delete section 65(b).
+(2) In section 65(c):
+(a) delete “registered pharmaceutical chemist,” and insert:
+person registered under the Health Practitioner Regulation National Law (Western Australia) in the pharmacy profession (pharmaceutical chemist),
+(b) delete subparagraph (i) and insert:
+(i) in the case of a pharmaceutical chemist, by the chief executive officer of the National Agency as defined in the Health Practitioner Regulation National Law (Western Australia) section 5; and
