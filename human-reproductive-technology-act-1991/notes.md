@@ -28,6 +28,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 27 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendments to s. 29(3) in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 525(1)(c) are not included because it was unclear where it was intended to be made. Section 525(1)(c) reads as follows:
 (c) by deleting “it” after “as and after “provided”” and inserting instead —
@@ -57,6 +58,13 @@ Human Reproductive Technology Act 1991 | Schedule
 s. 16(2)(d) | subsection (3) | subsection (3A) or (3B)
 s. 16(3) | (3)(a)Where (i)the motion (ii)if the (iii)such subparagraphs (i) or (ii); (b)Where | (3A)Where (a)the motion (b)if the (c)such paragraph (a) or (b). (3B)Where
 s. 16(4) | subsection (3), | subsection (3A),
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 27 had not come into operation. It reads as follows:
+Division 27 — Human Reproductive Technology Act 1991 amended
+94.Act amended
+This Division amends the Human Reproductive Technology Act 1991.
+95.Section 3 amended
+In section 3(1) delete the definition of medical practitioner and insert:
+medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
