@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 August 2010 of the Civil Liability Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Civil Liability Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Civil Liability Act 2002 | 35 of 2002 | 20 Nov 2002 | s. 1 and 2: 20 Nov 2002; Act other than s. 1 and 2: 1 Jan 2003 (see s. 2 and Gazette 17 Dec 2002 p. 5905)
@@ -23,6 +23,55 @@ Medical Practitioners Act 2008 Sch. 3 cl. 8 | 22 of 2008 | 27 May 2008 | 1 Dec 2
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 3 | 25 of 2008 | 19 Jun 2008 | 27 Jun 2009 (see s. 2 and Gazette 26 Jun 2009 p. 2565)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 33 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 3: The Civil Liability Act 2002 as at 20 Aug 2010 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 9 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 9 had not come into operation. It reads as follows:
+Division 9 — Civil Liability Act 2002 amended
+40.Act amended
+This Division amends the Civil Liability Act 2002.
+41.Section 5PA amended
+(1) In section 5PA delete the definition of health professional and insert:
+health professional means —
+(a)a person registered under the Health Practitioner Regulation National Law (Western Australia) in any of the following health professions —
+(i)chiropractic;
+(ii)dental;
+(iii)medical;
+(iv)nursing and midwifery;
+(v)optometry;
+(vi)osteopathy;
+(vii)pharmacy;
+(viii)physiotherapy;
+(ix)podiatry;
+(x)psychology;
+or
+(b)any of the following —
+(i)a medical radiation technologist as defined in the Medical Radiation Technologists Act 2006 section 3;
+(ii)an occupational therapist as defined in the Occupational Therapists Act 2005 section 3;
+(iii)any other person who practises a discipline or profession in the health area that involves the application of a body of learning.
+(2) In section 5PA delete the definition of health professional and insert:
+health professional means —
+(a)a person registered under the Health Practitioner Regulation National Law (Western Australia) in any of the following health professions —
+(i)Aboriginal and Torres Strait Islander health practice;
+(ii)Chinese medicine;
+(iii)chiropractic;
+(iv)dental;
+(v)medical;
+(vi)medical radiation practice;
+(vii)nursing and midwifery;
+(viii)occupational therapy;
+(ix)optometry;
+(x)osteopathy;
+(xi)pharmacy;
+(xii)physiotherapy;
+(xiii)podiatry;
+(xiv)psychology;
+or
+(b)any other person who practises a discipline or profession in the health area that involves the application of a body of learning.
+42.Section 5AB amended
+In section 5AB in the definition of medical qualifications delete paragraph (a) and insert:
+(a)registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession; or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
