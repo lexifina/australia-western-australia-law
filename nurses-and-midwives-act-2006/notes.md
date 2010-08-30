@@ -9,6 +9,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 33 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Health and Disability Services Legislation Amendment Act 2010 s. 61 | 33 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 s. 14(f) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 33 had not come into operation. It reads as follows:
 “
 33.Nurses and Midwives Act 2006 amended
@@ -16,3 +18,14 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 (2) Schedule 3 clause 18(1) is amended by deleting “Prostitution Act 2000.” and inserting instead —
 “ Sexual Services Act 2000. ”.
 ”.
+On the date as at which this compilation was prepared, the Health and Disability Services Legislation Amendment Act 2010 s. 61 had not come into operation. It reads as follows:
+61.Nurses and Midwives Act 2006 amended
+(1) This section amends the Nurses and Midwives Act 2006.
+(2) In section 3 delete the definition of Director and insert:
+Director means the Director of the Health and Disability Services Complaints Office appointed under the Health and Disability Services (Complaints) Act 1995;
+(3) In sections 54(3), 57(4)(b) and 60(2)(b) delete “Health Services (Conciliation and Review) Act 1995” and insert:
+Health and Disability Services (Complaints) Act 1995
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 14(f) had not come into operation. It reads as follows:
+14.Acts repealed
+These Acts are repealed:
+(f) the Nurses and Midwives Act 2006;
