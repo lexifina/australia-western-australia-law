@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 July 2009 of the Births, Deaths and Marriages Registration Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Births, Deaths and Marriages Registration Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Births, Deaths and Marriages Registration Act 1998 | 39 of 1998 | 30 Oct 1998 | s. 1 and 2: 30 Oct 1998; Act other than s. 1 and 2: 14 Apr 1999 (see s. 2 and Gazette 9 Apr 1999 p. 1433)
@@ -9,7 +9,18 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Medical Practitioners Act 2008 Sch. 3 cl. 5 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Surrogacy Act 2008 Pt. 4 Div. 1 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
 Reprint 2: The Births, Deaths and Marriages Registration Act 1998 as at 24 Jul 2009 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 6 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 6 had not come into operation. It reads as follows:
+Division 6 — Births, Deaths and Marriages Registration Act 1998 amended
+33.Act amended
+This Division amends the Births, Deaths and Marriages Registration Act 1998.
+34.Section 4 amended
+In section 4 delete the definition of doctor and insert:
+doctor means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
