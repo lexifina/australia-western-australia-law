@@ -15,6 +15,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 19 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Repealed by the Acts Amendment and Repeal (Credit) Act 1984.
 Repealed by the Mining Act 1978.
@@ -33,3 +34,10 @@ Diamond (Argyle Diamond Mines Joint Venture) Agreement Act 1981 | Schedule 1 | M
 Schedule 2 | Diamond (Argyle Diamond Mines Joint Venture) Agreement | [s. 2]
 Schedule 3 | First supplementary agreement | [s. 2]
 Schedule 4 | Second supplementary agreement
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 19 had not come into operation. It reads as follows:
+Division 19 — Diamond (Argyle Diamond Mines Joint Venture) Agreement Act 1981 amended
+61.Act amended
+This Division amends the Diamond (Argyle Diamond Mines Joint Venture) Agreement Act 1981.
+62.Section 14 amended
+In section 14 delete the definition of medical practitioner and insert:
+medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
