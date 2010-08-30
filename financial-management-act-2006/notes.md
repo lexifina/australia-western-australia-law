@@ -18,6 +18,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 36 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 State Superannuation Amendment Act 2007 s. 82 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
+Health and Disability Services Legislation Amendment Act 2010 s. 56 | 33 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 36 had not come into operation. It reads as follows:
 “
@@ -32,6 +33,13 @@ On the date as at which this compilation was prepared, the State Superannuation 
 (2) Schedule 1 is amended by deleting “Government Employees Superannuation Board” and inserting in the appropriate alphabetical position —
 “ State Superannuation Board ”.
 ”.
+On the date as at which this compilation was prepared, the Health and Disability Services Legislation Amendment Act 2010 s. 56 had not come into operation. It reads as follows:
+56.Financial Management Act 2006 amended
+(1) This section amends the Financial Management Act 2006.
+(2) In Schedule 1:
+(a) delete “Office of Health Review”;
+(b) insert in alphabetical order:
+Health and Disability Services Complaints Office
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
