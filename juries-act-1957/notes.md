@@ -64,6 +64,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Standardisation of Formatting Act 2010 s. 20 43(3) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 30 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Juries Amendment Act 1984 s. 25 reads as follows:
@@ -126,6 +127,22 @@ s. 29(1) | subsection (2). | this section.
 s. 29(2) | (2)(a)At a time (b)The numbers (c)Persons (d)The (e)Each (f)Where (g)The (h)If for | (2A)At a time (2B)The numbers (2C)Persons (2D)The (2E)Each (2F)Where (2G)The (2H)If for
 s. 29A(1)(b) | section 29(2)(a), (b), (d), (f), (g), (h) and (3). | section 29(2A), (2B), (2D), (2F), (2G), (2H) and (3).
 s. 29A(2) | or 29(2), the section 29(2)(a), | or 29(2A) to (2H), the section 29(2A),
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 30 had not come into operation. It reads as follows:
+Division 30 — Juries Act 1957 amended
+101.Act amended
+This Division amends the Juries Act 1957.
+102.Second Schedule amended
+In the Second Schedule Part II delete clause 2 and insert:
+2.Health.
+A person registered under the Health Practitioner Regulation National Law (Western Australia) in the chiropractic profession if actually practising.
+A person registered under the Health Practitioner Regulation National Law (Western Australia) in the dental profession whose name is entered on the Dentists Division of the Register of Dental Practitioners kept under that Law if actually practising.
+A person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession if actually practising.
+A person registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession if actually practising.
+A person registered under the Health Practitioner Regulation National Law (Western Australia) in the osteopathy profession if actually practising.
+A person registered under the Health Practitioner Regulation National Law (Western Australia) in the pharmacy profession if actually in business whether as principal or manager for a principal.
+A person registered under the Health Practitioner Regulation National Law (Western Australia) in the physiotherapy profession if actually practising.
+A person registered under the Health Practitioner Regulation National Law (Western Australia) in the psychology profession if actually practising.
+Veterinary surgeons registered under the Veterinary Surgeons Act 1960 if actually practising.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
