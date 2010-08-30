@@ -19,6 +19,10 @@ Reprint of the Anatomy Act 1930 as at 22 Feb 2002 (includes amendments listed ab
 Acts Amendment (Equality of Status) Act 2003 Pt. 2 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 3 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Human Tissue and Transplant Act 1982.
 The Limitation Act 1935 s. 48A(2) reads as follows:
 “
@@ -43,3 +47,10 @@ The Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 17(3), (4) and (
 (b) valid for 6 months from that commencement.
 (5) A licence granted by the Governor under section 5 of the Act and in force immediately before the commencement of this section continues to have effect, on and after that commencement, as if this section had not been enacted.
 ”.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 3 had not come into operation. It reads as follows:
+Division 3 — Anatomy Act 1930 amended
+26.Act amended
+This Division amends the Anatomy Act 1930.
+27.Section 2 amended
+In section 2 delete the definition of medical practitioner and insert:
+medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
