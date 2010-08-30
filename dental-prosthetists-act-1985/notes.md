@@ -13,6 +13,10 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 2: The Dental Prosthetists Act 1985 as at 20 Oct 2006 (includes amendments listed above)
 Acts Amendment (Bankruptcy) Act 2009 s. 30 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+ | Health Practitioner Regulation National Law (WA) Act 2010 s. 14(c) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department of Western Australia is read and construed as a reference to the Department of Health.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
@@ -28,3 +32,7 @@ commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 14 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 14(c) had not come into operation. It reads as follows:
+14.Acts repealed
+These Acts are repealed:
+(c) the Dental Prosthetists Act 1985;
