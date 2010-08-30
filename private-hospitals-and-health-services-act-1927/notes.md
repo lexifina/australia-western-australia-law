@@ -59,6 +59,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 26 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 25 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Now known as the Hospitals and Health Services Act 1927; short title changed (see note under s. 1).
@@ -114,6 +115,15 @@ s. 27(1) | medical practitioner: Provided that no Provided also, that no | medic
 s. 29 | apply: — The buildings this Act. Any money | apply — (a)the buildings this Act; and (b)any money
 s. 34(2) | as follows — Medicare | as set out in the Table. Table of Medicare
 s. 37(2d) | effect to — (a)any (i)ensuring (ii)prescribing | effect to any (a)ensuring (b)prescribing
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 26 had not come into operation. It reads as follows:
+Division 26 — Hospitals and Health Services Act 1927 amended
+92.Act amended
+This Division amends the Hospitals and Health Services Act 1927.
+93.Section 2 amended
+In section 2(1) delete the definition of practitioner and insert:
+practitioner includes —
+(a)a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession; and
+(b)any other person practising in the field of health or medicine who is declared by the Minister under section 3(5) to be a practitioner for the purposes of this Act;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
