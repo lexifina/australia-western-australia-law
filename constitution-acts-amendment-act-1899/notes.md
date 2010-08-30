@@ -261,6 +261,8 @@ State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Opera
 Standardisation of Formatting Act 2010 s. 14, 43(2), 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Grain Marketing Repeal Act 2010 s. 4 | 30 of 2010 | 25 Aug 2010 | To be proclaimed (see s. 2(b))
 Pharmacy Act 2010 Pt. 8 Div. 1 | 32 of 2010 | 26 Aug 2010 | To be proclaimed (see s. 2(b))
+Health and Disability Services Legislation Amendment Act 2010 s. 55 | 33 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 10 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions repealed by the Health Amendment Act 1985.
@@ -422,6 +424,47 @@ This Division amends the Constitution Acts Amendment Act 1899.
 74.Schedule V Part 3 amended
 In Schedule V Part 3 insert in alphabetical order:
 The Pharmacy Registration Board of Western Australia established under the Pharmacy Act 2010.
+On the date as at which this compilation was prepared, the Health and Disability Services Legislation Amendment Act 2010 s. 55 had not come into operation. It reads as follows:
+55.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 1 Division 2:
+(a) delete “The Director appointed under the Health Services (Conciliation and Review) Act 1995.”;
+(b) insert in alphabetical order:
+Director of the Health and Disability Services Complaints Office appointed under the Health and Disability Services (Complaints) Act 1995.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 10 had not come into operation. It reads as follows:
+Division 10 — Constitution Acts Amendment Act 1899 amended
+43.Act amended
+This Division amends the Constitution Acts Amendment Act 1899.
+44.Schedule V Part 3 amended
+(1) In Schedule V Part 3 insert in alphabetical order:
+The Aboriginal and Torres Strait Islander Health Practice Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
+The Chinese Medicine Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
+(2) In Schedule V Part 3 delete the item commencing “The Chiropractors Registration Board of Western Australia” and insert:
+The Chiropractic Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
+(3) In Schedule V Part 3 delete the item commencing “The Chiropodists Registration Board”.
+(4) In Schedule V Part 3 delete the item commencing “The Dental Board of Western Australia” and insert:
+The Dental Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
+(5) In Schedule V Part 3 delete the item commencing “The Dental Charges Committee”.
+(6) In Schedule V Part 3 delete the item commencing “The Medical Board of Western Australia” and insert:
+The Medical Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
+(7) In Schedule V Part 3 delete the item commencing “The Medical Radiation Technologists Registration Board of Western Australia” and insert:
+The Medical Radiation Practice Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
+(8) In Schedule V Part 3 delete the item commencing “The Nurses and Midwives Board of Western Australia” and insert:
+The Nursing and Midwifery Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
+(9) In Schedule V Part 3 delete the item commencing “The Occupational Therapists Registration Board of Western Australia” and insert:
+The Occupational Therapy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
+(10) In Schedule V Part 3 delete the item commencing “The Optometrists Registration Board of Western Australia” and insert:
+The Optometry Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
+(11) In Schedule V Part 3 delete the item commencing “The Osteopaths Registration Board of Western Australia” and insert:
+The Osteopathy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
+(12) In Schedule V Part 3 insert in alphabetical order:
+The Pharmacy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
+(13) In Schedule V Part 3 delete the item commencing “The Physiotherapists Registration Board of Western Australia” and insert:
+The Physiotherapy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
+(14) In Schedule V Part 3 delete the item commencing “The Podiatrists Registration Board of Western Australia” and insert:
+The Podiatry Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
+(15) In Schedule V Part 3 delete the item commencing “The Psychologists Registration Board of Western Australia” and insert:
+The Psychology Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
