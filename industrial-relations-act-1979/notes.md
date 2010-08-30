@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 April 2010 of the Industrial Relations Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Industrial Relations Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Industrial Arbitration Act 1979 | 114 of 1979 | 21 Dec 1979 | 1 Mar 1980 (see s. 2 and Gazette 8 Feb 1980 p. 383)
@@ -81,12 +81,13 @@ Acts Amendment (Bankruptcy) Act 2009 s. 45 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Occupational Safety and Health Legislation Amendment Act 2009 Pt. 3 | 36 of 2009 | 3 Dec 2009 | 31 Dec 2009 (see s. 2(c))
 Police Amendment Act 2009 s. 19 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Reprint 13: The Industrial Relations Act 1979 as at 9 Apr 2010 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+ | Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 29 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 of the Commonwealth.
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
@@ -150,7 +151,7 @@ under 16 years | 40%
 (1) The minimum weekly rate of pay for an apprentice or trainee in relation to whom a workplace agreement or an employer-employee agreement is not in force is the rate of pay that is provided for under an award that applies to that apprentice or trainee.
 (2) The minimum weekly rate of pay for an apprentice or trainee in relation to whom a workplace agreement or an employer-employee agreement is in force is the rate of pay that is provided for under an award that would, if the workplace agreement or employer-employee agreement were not in force, apply to that apprentice or trainee.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
@@ -189,7 +190,7 @@ remains of effect until a State Wage order takes effect.
 (c) if it comes into effect on a date after 1 July, is applicable in respect of an employee, apprentice or trainee on and from the commencement of the first pay period of the employee, apprentice or trainee on or after that date.
 (4) A date specified under subsection (3)(b) must not be a date that is earlier than the day on which the order is made.
 (5) Despite section 50A(1)(b), the Commission must not adjust rates of wages paid under awards in a State Wage order made in relation to the period ending 30 June 2007 if, during 2006 and before that State Wage order is made, the Commission has made a General Order under section 50 of the Industrial Relations Act 1979 adjusting rates of wages paid under awards generally.
-On the date as at which this reprint was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2a) and (4)(a) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2a) and (4)(a) had not come into operation. They read as follows:
 49.Industrial Relations Act 1979 amended
 (2) Section 7(3) is amended as follows:
 (a) after paragraph (a) by deleting “or”;
@@ -204,28 +205,28 @@ On the date as at which this compilation was prepared, the Standardisation of Fo
 (c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
 Act | Identifier | Title | Shoulder note
 Industrial Relations Act 1979 | Schedule 1 |  | [s. 93(3) and 105]
-the represented person97X, 97XO
-the respondent77(1)
-the State rules71A(2)
-third party23B(1)
-threats48B(5)
-transport Minister80M(1)
-Union80M(1)
-vary7(1)
-WA Branch of the AMA72B(1)
-Westrail Enterprise Bargaining Agreement80R(2b)
-Defined terms
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 29 had not come into operation. It reads as follows:
+Division 29 — Industrial Relations Act 1979 amended
+98.Act amended
+This Division amends the Industrial Relations Act 1979.
+99.Section 72B amended
+In section 72B(1) delete the definition of medical practitioner and insert:
+medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
+100.Section 97WR amended
+In section 97WR delete the definition of medical practitioner and insert:
+medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
+Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined termProvision(s)
-a revocation order97XG, 97XI(1)
+Defined TermProvision(s)
+a revocation order97XG(b)(ii), 97XI(1)
 alteration7(1)
 applicable order48A(3)
 applicant97WR
 application103(3)
 apprentice7(1)
 arbitration functions32A(1)
-Arbitrator80C(1), Sch. 3 cl. 1
 arbitrator97WH
+Arbitrator80C(1), Sch. 3 cl. 1
 area and scope provisions29A(1a)
 association7(1)
 Association80C(1)
@@ -244,7 +245,7 @@ Chamber7(1)
 Chief Commissioner7(1)
 Chief Magistrate81B(6)
 civil penalty provision7(1)
-collective agreement51O(2)
+collective agreement51O(2)(a)
 collegiate electoral system52
 commencement16(2E)
 commencement day20(8b)
@@ -273,11 +274,11 @@ discriminatory action96E(4)
 dispute97WH
 EEA7(1), 97WB(2)
 EEA dispute provisions97U(1)
-employee7(1), 51O(2), 97U(2), 97U(3)
-employer7(1), 51O(2), 80C(1), 97U(2), 97U(3)
+employee7(1), 51O(2)(b), 97U(2) and (3)
+employer7(1), 51O(2)(e), 80C(1), 97U(2) and (3)
 employer-employee agreement7(1)
 employing authority80C(1)
-employment51O(2)
+employment51O(2)(d)
 employment claim23B(1)
 employment record7(1)
 employment services for persons with disabilities97U(1)
@@ -320,12 +321,12 @@ Mines and Metals Association7(1)
 negotiating party40C, 51O(1)
 new employee97U(1)
 no-disadvantage test97U(1)
-nominal expiry date42(8), 51O(2)
+nominal expiry date42(8), 51O(2)(e)
 occupier49L(2)
 office7(1)
 officer7(1)
 one-tier collegiate electoral system52
-organisation7(1), 51O(1), 72A(1), 72B(2), 80H(6), 96A
+organisation7(1), 51O(1), 72A(1), 72B(2)(a), 80H(6), 96A
 organisation of employees96A
 original term56A(4)
 party38(1b), 91(2), 97U(1), 97VC(5), Sch. 4 cl. 1(3)
@@ -335,9 +336,9 @@ plenary guardian97WS(4)
 postal ballot52
 post-secondary education institution7(1)
 premises7(1)
+prescribed amount29AA(5)
 prescribed period40C, 42A(1)
 prescribed salary80I(2)
-prescribed amount29AA(5)
 President7(1), 20(13)
 presiding judge7(1)
 principal executive officer7(1)
@@ -378,21 +379,21 @@ subscription7(1)
 supported wage provisions97U(1)
 Supported Wage System97U(1)
 teacher80C(1)
-the affected person23B(1)
-the auditor65
+the adopting provision71A(2)
+the affected person23B(1)(a)
+the auditor65(a)
 the Commission49(1)
 the employees36A(1)
 the exposure draft97WA(1)
 the first agreement41(8)
 the new award36A(1)
-the original dispute97WK(1)
+the original dispute97WK(1)(a)
 the principal7(6)
 the proposed representative97WV(3), 97XM(3)
 the representative97X, 97XO
 the represented person97X, 97XO
 the respondent77(1)
 the State rules71A(2)
-the adopting provision71A(2)
 third party23B(1)
 threats48B(5)
 transport Minister80M(1)
