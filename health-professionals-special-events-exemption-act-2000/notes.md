@@ -19,9 +19,28 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Health and Disability Services Legislation Amendment Act 2010 s. 58 | 33 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 24 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
 51.Various written laws amended
 (1) This section amends the written laws listed in the Table.
 (2) Amend the provisions listed in the Table as set out in the Table.
 27.Health Professionals (Special Events Exemption) Act 2000
 s. 3(1) def. of Health Registration Act | Chiropractors Dental Act Dental Prosthetists Medical Practitioners Medical Radiation Nurses Occupational Optometrists Osteopaths Pharmacy Physiotherapists Podiatrists Psychologists | (a)Chiropractors (b)Dental Act (c)Dental Prosthetists (d)Medical Practitioners (e)Medical Radiation (f)Nurses (g)Occupational (h)Optometrists (i)Osteopaths (j)Pharmacy (k)Physiotherapists (l)Podiatrists (m)Psychologists
+On the date as at which this compilation was prepared, the Health and Disability Services Legislation Amendment Act 2010 s. 58 had not come into operation. It reads as follows:
+58.Health Professionals (Special Events Exemption) Act 2000 amended
+(1) This section amends the Health Professionals (Special Events Exemption) Act 2000.
+(2) In section 13(1) delete “Health Services (Conciliation and Review) Act 1995” and insert:
+Health and Disability Services (Complaints) Act 1995
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 24 had not come into operation. It reads as follows:
+Division 24 — Health Professionals (Special Events Exemption) Act 2000 amended
+77.Act amended
+This Division amends the Health Professionals (Special Events Exemption) Act 2000.
+78.Section 3 amended
+(1) In section 3(1) delete the definition of Health Registration Act and insert:
+Health Registration Act means any of the following Acts —
+(a)Medical Radiation Technologists Act 2006;
+(b)National Health Practitioner Regulation National Law (Western Australia);
+(c)Occupational Therapists Act 2005;
+(2) In section 3(1) delete the definition of Health Registration Act and insert:
+Health Registration Act means the National Health Practitioner Regulation National Law (Western Australia);
