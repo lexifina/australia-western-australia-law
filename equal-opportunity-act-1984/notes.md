@@ -41,10 +41,11 @@ Reprint 5: The Equal Opportunity Act 1984 as at 2 Mar 2007 (includes amendments 
 Acts Amendment (Justice) Act 2008 Pt. 10 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 661 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Acts Amendment (Bankruptcy) Act 2009 s. 36 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Co-operatives Act 2009 s. 509 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Co-operatives Act 2009 s. 509 and 514 | 24 of 2009 | 22 Oct 2009 | s. 509: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); s. 514: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
+Co-operatives Act 2009 s. 514 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
 Equal Opportunity Amendment Act 2010 s. 3-21 | 2 of 2010 | 1 Apr 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
 Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
@@ -72,15 +73,7 @@ Unless the context otherwise requires, where in an arrangement made under the Eq
 ”.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 509 and 514 had not come into operation. They read as follows:
-509.Equal Opportunity Act 1984 amended
-(1) This section amends the Equal Opportunity Act 1984.
-(2) In section 35N(1)(a) after “1903” insert:
-or of a co-operative registered under the Co-operatives Act 2009
-(3) In section 66ZS(1)(a)(i) after “1903” insert:
-or of a co-operative registered under the Co-operatives Act 2009
-(4) In section 69(1)(b)(i) after “1903” insert:
-or of a co-operative registered under the Co-operatives Act 2009
+On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 514 had not come into operation. It reads as follows:
 514.Equal Opportunity Act 1984 amended
 (1) This section amends the Equal Opportunity Act 1984.
 (2) In section 35N(1)(a) delete “of a society registered under the Co-operative and Provident Societies Act 1903 or”.
