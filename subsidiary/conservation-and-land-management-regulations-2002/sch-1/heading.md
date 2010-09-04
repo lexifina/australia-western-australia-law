@@ -1,6 +1,6 @@
 ## Schedule 1 — Fees
-[r. 49, 83, 92, 97, 99, 99A, 100, 100A, 101, 102, 102A, 103]
-[Heading amended in Gazette 29 Sep 2006 p. 4326.]
+[r. 49, 83, 92, 97, 98C, 99, 99A, 100, 100A, 101, 102, 102A, 103]
+[Heading amended in Gazette 29 Sep 2006 p. 4326; 3 Sep 2010 p. 4283.]
 ## Division 1 — Daily entrance fees where an entrance fee is charged
  |  | $
 1. | *Daily entrance fee for non-tour motor vehicle that is a motorcycle | 5.00
@@ -80,3 +80,11 @@
 7. | One month pass for family (2 adults and 2 children of more than 5 and less than 16 years of age) | 30.00
 8. | One month pass for holder of a concession card | 10.00
 [Division 10 inserted in Gazette 28 Aug 2009 p. 3356.]
+## Division 11 — Apiary permit and licence fees
+[Heading inserted in Gazette 3 Sep 2010 p. 4283.]
+ |  | $
+1. | Application for grant of apiary authority where item 4 does not apply — (a)for apiary site in South-west zone (fee per 5 sites) (b)for apiary site outside the South-west zone (fee per 5 sites) | 135.00 65.00
+2. | Application to transfer apiary authority | 12.00
+3. | Application to vary apiary licence to change the site to which it relates — (a)where new site is in the South-west zone (fee per 5 new sites) (b)where new site is outside the South-west zone (fee per 5 new sites) | 100.00 50.00
+4. | Application for grant of apiary permit where permit is sought to replace a permit held by the applicant for a different site which will be surrendered if the application is granted — (a)where new site is in the South-west zone (fee per 5 new sites) (b)where new site is outside the South-west zone (fee per 5 new sites) | 100.00 50.00
+[Division 11 inserted in Gazette 3 Sep 2010 p. 4283.]

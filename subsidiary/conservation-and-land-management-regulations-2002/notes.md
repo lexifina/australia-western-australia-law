@@ -12,6 +12,7 @@ Conservation and Land Management Amendment Regulations 2007 | 27 Feb 2007 p. 625
 Conservation and Land Management Amendment Regulations (No. 2) 2007 | 29 Jan 2008 p. 241-2 | r. 1 and 2: 29 Jan 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2008 (see r. 2(b))
 Financial Management (Transitional Provisions) Regulations 2009 | 27 Feb 2009 p. 529-30 | r. 1 and 2: 27 Feb 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Feb 2009 (see r. 2(b))
 Conservation and Land Management Amendment Regulations 2009 | 28 Aug 2009 p. 3354-7 | r. 1 and 2: 28 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2009 (see r. 2(b))
+Conservation and Land Management Amendment Regulations (No. 2) 2010 | 3 Sep 2010 p. 4278-84 | r. 1 and 2: 3 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Sep 2010 (see r. 2(b) and Gazette 3 Sep 2010 p. 4273)
 Repealed by these regulations r. 115.
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
 “

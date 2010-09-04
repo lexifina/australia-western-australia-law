@@ -34,3 +34,5 @@ It is proposed to commence court proceedings against you for the alleged offence
 Chief Executive Officer,
 Department of Environment and Conservation
 [Form 2 amended in Gazette 29 Sep 2006 p. 4333.]
+Form 3 — Apiary permit
+[Form 3 inserted in Gazette 3 Sep 2010 p. 4284.]
