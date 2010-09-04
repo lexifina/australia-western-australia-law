@@ -9,12 +9,6 @@ Column 1 | Column 2
 4.Extract from a register or provision of copy of lease, permit, forest produce licence, contract or other document | 1.00
  | per page
 5.Preparation of timber shipping certificate | 10.00
-6.Transfer of a lease or permit other than an apiary site permit | 30.00
-7.Grant of an apiary site permit in the south-west zone —
-per 5 permits or less granted on one application | 100.00
-8.Grant of an apiary site permit outside the south-west zone —
-per 5 permits or less granted on one application | 50.00
-9.Transfer of an apiary site permit | 8.50
-10.Variation of an apiary site permit so as to change the location of the area to which the permit applies to a location in the south-west zone | 75.00
-11.Variation of an apiary site permit so as to change the location of the area to which the permit applies to a location outside the south-west zone | 37.50
-[Schedule 5 amended in Gazette 21 April 1998 pp.2113-14.]
+6.Transfer of a lease or permit | 30.00
+[7-11deleted]
+[Schedule 5 amended in Gazette 21 Apr 1998 p. 2113-14; 3 Sep 2010 p. 4276.]

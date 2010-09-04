@@ -47,53 +47,16 @@ CONDITIONS
 3.[insert other conditions here]
 LIMITATIONS (if any)
 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-for Executive Director
+for CEO
 Date of issue of licence . . . . . . . . . . . . . . . . . . . . . .
 Received the sum of ............. dollars ............... cents ($... c..) in prepayment of royalty/stumpage and other charges.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-for Executive Director
+for CEO
 Date . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Forest produce removal record
 Date of removal | Quantity removed | Site removed to | Signature of licensee
-Form 2
-[Regulation 73(4)]
-Forest Management Regulations 1993
-APIARY SITE PERMIT
-Permit No. . . . . . . . . . . . . . .
-……………………………………………………………………………………
-(name of permit-holder)
-of …………………………………………………………………………………
-(address)
-is authorized, subject to the Act and the Forest Management Regulations 1993—
-(a)to occupy Crown land for the purposes of an apiary; and
-(b)to take forest produce for the purposes of that apiary,
-in accordance with the terms and conditions and any limitations set out below, and not otherwise.
-Note: The authority conferred by this permit is of no effect at any time when a term, condition or limitation of the permit is not being complied with.
-TERMS
-Type of permit (delete types not applicable):
-Extended Temporary Limited
-Site that may be occupied:
-Location of site: | District: | CALM map ref:
- | Other Location details:
-Period during which site may be occupied:
-First day of period ……………………………………………………………………………………….. Last day of period . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . but subject in the case of a temporary permit to regulation 74(1)(c).
-CONDITIONS
-1.The permit-holder in exercising his or her rights under this permit is to comply with the following enactments —
-(a)the Conservation and Land Management Act 1984;
-(b)the Forest Management Regulations 1993;
-(c)the Bush Fires Act 1954;
-(d)the Health Act 1911;
-(e)any relevant subsidiary legislation made under an Act referred to in paragraph (c) or (d);
-(f)any Act or subsidiary legislation relating to the protection of water catchments and the regulation of water supplies.
-2.[insert other conditions here]
-LIMITATIONS (if any)
-. . . . . . . . . . . . . . . . . . . . . . . . . . . .
-for Executive Director
-Date of issue of permit . . . . . . . . . . . . . . . . . . . .
-Received the sum of ............. dollars ............... cents ($... c..) in prepayment of rent and other charges.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . .
-for Executive Director
-Date . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[Form 1 amended in Gazette 3 Sep 2010 p. 4276-7.]
+[Form 2 deleted in Gazette 3 Sep 2010 p. 4275.]
 [Forms 3 and 4 deleted]
-[Schedule 2 amended in Gazette 29 March 1996 pp.1508-09; 3 May 2002 p.2295.]
+[Schedule 2 amended in Gazette 29 Mar 1996 p. 1508-09; 3 May 2002 p. 2295; 3 Sep 2010 p. 4275 and p. 4276-7.]
 [Schedules 2A and 2B Deleted in Gazette 3 May 2002 p.2294-5.]
