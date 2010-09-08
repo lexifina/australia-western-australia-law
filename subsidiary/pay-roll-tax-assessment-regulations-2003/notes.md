@@ -115,6 +115,7 @@ The Glossary clause 1 is modified in paragraph (c) of the definition of “indus
 The Pay-roll Tax Assessment Amendment Act 2010 s. 45 reads as follows:
 45.Power to amend or repeal regulations unaffected
 This Part does not prevent the Pay-roll Tax Assessment Regulations 2003 from being amended or repealed under the Pay-roll Tax Assessment Act 2002.
+The amendments set out in the Pay-roll Tax Assessment Amendment Regulations 2010 have not been included in this compilation; equivalent amendments were made by the Pay-roll Tax Assessment Amendment Act 2010 Part 3.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
