@@ -10,16 +10,16 @@ Surveillance Devices Act 1998, s. 13, 14, 17, 19 and 22 Warrant |  | o Supreme C
 Person to whom warrant is issued | Name
 pMember of police force pOfficer of the Corruption and Crime Commission pOfficer of a designated Commission pMember of staff of Australian Crime Commission
 pWarrant issued on behalf of another law enforcement officer (Name)
-Person, object or premises under surveillance | pPerson____________________________________________________ pUnknown person pObject____________________________________________________ pPremises__________________________________________________
-Offence | Offence_______________________________________________________ Act or Regulations______________________________________________ Section or regulation no.
+Person, object or premises under surveillance | pPerson______________________________________________ pUnknown person ____________________________________ pObject______________________________________________ pPremises____________________________________________
+Offence | Offence_________________________________________________ Act or Regulations _______________________________________ Section or regulation no.
 Authority to use surveillance device | This warrant authorises you — pto attach or install, use, maintain and retrieve a — plistening device poptical surveillance device ptracking device pin relation to a tracking device attached to, or installed in, a vehicle, to — pmaintain the device pretrieve the device pmaintain and retrieve the device pto retrieve a — plistening device poptical surveillance device ptracking device attached or installed under an emergency authorisation
-The surveillance device may be attached or installed, used or maintained — pin, on or at the premises under surveillance pin or on the object under surveillance pin respect of the private conversations, private activities or geographical location of the person under surveillance, at premises where the person is reasonably believed to be or is likely to be
+ | The surveillance device may be attached or installed, used or maintained — pin, on or at the premises under surveillance pin or on the object under surveillance pin respect of the private conversations, private activities or geographical location of the person under surveillance, at premises where the person is reasonably believed to be or is likely to be
 pWhere practicable the surveillance device should be retrieved or rendered inoperable during the period that the warrant is in force
 Authority to enter premises | This warrant authorises you to enter, by force if necessary — p(specified premises) __________________________________ _____________________________________________________ pany premises where the object or person under surveillance is reasonably believed to be or is likely to be and any premises adjoining or providing access to those premises pany premises where the vehicle on or in which the device is attached or installed may for the time being be pany premises where the surveillance device to be retrieved may for the time being be
 Authority to use electricity supply | pThis warrant authorises you to connect the surveillance device to an electricity supply system and to use electricity from that system to operate the device
 Authority to remove vehicle | pThis warrant authorises you to temporarily remove this vehicle from this premises for the purpose of — pattaching pinstalling pmaintainingpretrieving a tracking device
 Vehicle
-Premises______________________________________________________
+Premises_____________________________________________________
 You must return the vehicle to the premises when the device has been attached, installed, maintained or retrieved
 Period of warrant | ___/___/______ to ___/___/______, being ___________________days
 The warrant may be used at any time of the day or night
@@ -36,23 +36,24 @@ pMember of police force pOfficer of the Corruption and Crime Commission pOfficer
 Person, object or premises under surveillance | pPerson______________________________________________ pUnknown person pObject______________________________________________ pPremises____________________________________________
 Action for which authorisation is required | Authorisation is required to — pattach or installpusepmaintain pa listening device to record, monitor, or listen to a private conversation pan optical surveillance device to record visually or observe a private activity pa tracking device to determine the geographical location of a person or object in relation to the — ppremises under surveillance pobject under surveillance pperson under surveillance pretrieve — pa listening device pan optical surveillance device pa tracking device
 Grounds | Imminent threat
-pThreat of serious violence to a person Name______________________________________________ pThreat of substantial damage to property Description
+ | pThreat of serious violence to a person Name______________________________________________ pThreat of substantial damage to property Description
 Grounds cont. | Offence
 pIndictable drug offence Relevant section of Misuse of Drugs Act 1981 — p 6(1)p 7(1)p 33(1)(a)p 33(2)(a) oExternal indictable drug offence External law ________________________________________ Corresponding section of Misuse of Drugs Act 1981 — p 6(1)p 7(1)p 33(1)(a)p 33(2)(a) pOffence punishable by 2 or more years imprisonment Offence_____________________________________________ Relevant Act_________________________________________ section
  | The offence — phas been committedpmay have been committed pis being committedpis about to be committed pis likely to be committed Date offence committed or expected to be committed
 The use of the surveillance device is immediately necessary for the purpose of — pdealing with the threat pinvestigating the offence penabling evidence to be obtained of — pthe commission of the offence pthe identity of the offender pthe location of the offender
 These factors make the circumstances serious___________________ _______________________________________________________ _______________________________________________________ _______________________________________________________ These factors make the matter urgent _________________________ _______________________________________________________ _______________________________________________________
 Reasons an application under section 15 or 16 for a warrant is not practicable ______________________________________________ _______________________________________________________
-Grounds cont. | Retrieval to avoid jeopardizing investigation of drug offence
-pIndictable drug offence Relevant section of Misuse of Drugs Act 1981 — p 6(1)p 7(1)p 33(1)(a)p 33(2)(a) pExternal indictable drug offence External law: __________________________________________ Corresponding section of Misuse of Drugs Act 1981 — p 6(1)p 7(1)p 33(1)(a)p 33(2)(a)
-These factors make the circumstances serious______________________ __________________________________________________________ __________________________________________________________ These factors make the matter urgent ____________________________ __________________________________________________________
-Reasons an application under section 22 for a warrant is not practicable_ __________________________________________________________
-Entry to premises | Entry, by force if necessary, is required to — p(specified premises) _________________________________ __________________________________________________ pany premises where the object or person under surveillance is reasonably believed to be or is likely to be and any premises adjoining or providing access to those premises
+ | Retrieval to avoid jeopardizing investigation of drug offence
+ | pIndictable drug offence Relevant section of Misuse of Drugs Act 1981 — p 6(1)p 7(1)p 33(1)(a)p 33(2)(a)
+Grounds cont. | pExternal indictable drug offence External law: __________________________________________ Corresponding section of Misuse of Drugs Act 1981 — p 6(1)p 7(1)p 33(1)(a)p 33(2)(a)
+ | These factors make the circumstances serious____________________ __________________________________________________________ __________________________________________________________ These factors make the matter urgent___________________________ __________________________________________________________
+Reasons an application under section 22 for a warrant is not practicable_________________________________________________
+Entry to premises | Entry, by force if necessary, is required to — p(specified premises) ________________________________ __________________________________________________ pany premises where the object or person under surveillance is reasonably believed to be or is likely to be and any premises adjoining or providing access to those premises
 Use of electricity supply | pAuthorisation is required to connect the surveillance device to an electricity supply system and use electricity from that system to operate the device
 Removal of vehicle | pAuthorisation is required to temporarily remove a vehicle from a premises for the purpose of — pattaching pinstalling pmaintainingpretrieving a tracking device
 Vehicle
 Premises___________________________________________________
-Period of authorisation | Period for which authorisation is required ____________________days Reason this period is required__________________________________ __________________________________________________________
+Period of authorisation | Period for which authorisation is required __________________days Reason this period is required _______________________________ __________________________________________________________
 Signature of applicant | Date
 [Form amended by No. 74 of 2004 s. 73(3); amended in Gazette 5 May 2006 p. 1736; 21 Sep 2007 p. 4735.]
 Surveillance Devices Act 1998, s. 21 Emergency authorisation
@@ -110,4 +111,4 @@ Note 1 — Identification of person under surveillance
 The person under surveillance may be identified by a numerical reference identifying the relevant law enforcement agency and the year in which the application is made. For example —WAPS 1/1999 (for the first application in 1999 by a member of the WA police force)
 Note 2 — Lodging of Application for warrant
 The application is to be lodged with the magistrate. An application must be accompanied by — •an “Authorisation of surveillance”; and •an affidavit containing a “Statement of facts in support of application for warrant” in accordance with Surveillance Devices Act 1998, s. 15(3)(a), (b), (c) and (f). An application should also be accompanied by a draft warrant in the form of the warrant being sought.
-[Form inserted in Gazette 8 Feb 2000 p. 458-60; amended in Gazette 5 May 2006 p. 1736; amended by No. 74 of 2004 s. 73(3); 21 Sep 2007 p. 4735.]
+[Form inserted in Gazette 8 Feb 2000 p. 458-60; amended by No. 74 of 2004 s. 73(3); amended in Gazette 5 May 2006 p. 1736; 21 Sep 2007 p. 4735.]
