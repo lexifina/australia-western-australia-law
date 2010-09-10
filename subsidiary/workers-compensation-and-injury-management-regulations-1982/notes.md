@@ -63,9 +63,176 @@ Workers’ Compensation and Injury Management Amendment Regulations 2007 | 2 Nov
 Workers’ Compensation and Injury Management Amendment Regulations 2008 | 17 Dec 2008 p. 5331-4 | r. 1 and 2: 17 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2008 (see r. 2(b))
 Reprint 6: The Workers’ Compensation and Injury Management Regulations 1982 as at 14 Aug 2009 (includes amendments listed above)
 Workers’ Compensation and Injury Management Amendment Regulations 2010 | 19 Mar 2010 p. 1038-9 | r. 1 and 2: 19 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Mar 2010 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Workers’ Compensation and Injury Management Amendment Regulations (No. 2) 2010 | 10 Sep 2010 p. 4351-7 | 1 Oct 2010 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Assistance Act 1981 the short title of which was changed to the Workers’ Compensation and Rehabilitation Act 1981 by the Workers’ Compensation and Assistance Amendment Act 1990 s. 5 and then to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Workers’ Compensation and Injury Management Regulations 1982; citation changed (see note under r. 1).
+On the date as at which this compilation was prepared, the Workers’ Compensation and Injury Management Amendment Regulations (No. 2) 2010 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Workers’ Compensation and Injury Management Regulations 1982.
+4.Regulation 6AA amended
+(1) In regulation 6AA(1) delete “the prescribed form under” and insert:
+prescribed for the purposes of a claim made by a worker in accordance with
+(2) Delete regulation 6AA(2).
+(3) Delete regulation 6AA(3) and insert:
+(3) Form 2D in Appendix I is prescribed for the purposes of a claim for compensation made by dependants in the case of the death of a worker in accordance with section 178(1)(b) of the Act.
+5.Appendix I Form 2B replaced
+In Appendix I delete Form 2B and insert:
+Workers’ Compensation Claim Form
+Insurer please complete
+Date form received from employer:
+ASCO (office use only):
+Insurer name:
+Claim number:
+ANZSIC code:
+Policy number:
+WorkCover number:
+Has employer contacted medical practitioner?
+Estimated time off work:
+⁯ less than one day
+⁯ 1-4 work days (inclusive)
+⁯ 5-9 work days (inclusive)
+⁯ 10-20 work days (inclusive)
+⁯ more than 20 work days
+⁯ fatality
+Employer please complete
+Name of policy holder/employer:
+Trading as (if different to above):
+Address:
+Postcode:
+Contact person:
+Name:
+Phone number:
+Email:
+Address of injured worker’s usual workplace or base:
+Postcode:
+Major activity of workplace: (e.g. sheep farming, plumbing)
+Date employer received the completed claim form from the injured worker:
+Date employer received first medical certificate from the injured worker:
+Date employer sent the claim form and medical certificate/s to insurer:
+Worker please complete
+Surname:
+Other names:
+Date of birth:
+⁯ Male ⁯ Female
+Preferred language (if not English):
+Address
+Postcode
+Email:
+Daytime contact phone number:
+Occupation (e.g. first class welder):
+Main tasks/duties performed (e.g. welding of high pressure steam pipes):
+At the time of the injury I was working as a:
+⁯ direct employee
+⁯ working director
+⁯ contractor
+⁯ employee of a contractor
+⁯ subcontractor
+⁯ visa worker
+⁯ other
+At the time of the injury I was engaged as:
+⁯ full-time
+⁯ part-time
+⁯ permanent
+⁯ temporary
+⁯ casual
+Worker please complete — Other employment
+Do you have any other job?
+If yes, please give details:
+Employer name:
+Contact phone number:
+Hours of work per week:
+Worker please complete — Occurrence details
+Day of occurrence:
+Date of occurrence:
+Time of occurrence:
+At what address did the occurrence happen?
+Did you have to stop working?
+If so when?
+Date:
+Time:
+Were you:
+⁯ working — at your normal workplace
+⁯ working — away from normal workplace
+⁯ working — road traffic accident
+⁯ on work break — at normal workplace
+⁯ on work break — away from normal workplace
+⁯ other duty status
+⁯ commuting/journey
+Describe the occurrence. Include:
+(i)What action was involved (i.e. fall, struck by object,): [Mechanism]
+(ii)What object/machine/substance was involved (i.e. fumes, door frame): [Agency]
+(iii)The most serious injury or disease caused (i.e. fracture, burn, abrasion): [Nature]
+(iv)The bodily location of the injury or disease (i.e. upper arm, eye): [Bodily location]
+Worker please complete — Occurrence report — Describe how it happened
+Where did the occurrence happen? (i.e. store room, machinery shop):
+What were you doing at the time of the occurrence?
+What were the normal working hours for that day?
+Starting time:
+Finish time:
+When did you first report the occurrence?
+Date:
+Time:
+Who did you report the occurrence to?
+Name:
+Position:
+Phone number:
+If you didn’t report the occurrence immediately, please state the reason if any:
+Please provide the name and daytime contact phone number of witnesses of the occurrence:
+Name:
+Phone number:
+Name:
+Phone number:
+Worker please complete — Medical help/history — This occurrence
+When did you first seek medical attention?
+Date:
+Time:
+If not immediately, please state the reason:
+Was the part of the body affected by this occurrence healthy before this occurrence?
+If not, please give details:
+Is the present injury completely related to this occurrence?
+If not, please give details:
+Please give details of any similar injury prior to this occurrence:
+Name and contact details of your usual medical practitioner and any health provider who has treated you for a similar injury:
+Name:
+Address:
+Phone number:
+Worker please complete — Other / Previous claims
+Are you claiming compensation from any other source?
+If yes, from whom?
+Have you had any similar or related workers’ compensation claims?
+If yes, please give details:
+Name of employer:
+Address of employer:
+Name of insurer (if known):
+Type of injury or disease:
+Worker’s declaration — worker please complete
+I solemnly and sincerely declare that each and every answer above and the particulars contained herein or annexed hereto relating to myself and the occurrence are true both in substance and in fact to the best of my knowledge and belief.
+I take notice that, under the provisions of section 59(2) of the Workers’ Compensation and Injury Management Act 1981, I am required to notify my employer in writing within 7 days if I commence work with another employer after making a claim, or while receiving weekly payments of workers’ compensation.
+Dated this day of: Year:
+Signature of worker
+Signature of witness
+Consent authority 1 (to be signed at the option of the worker)
+I authorise any doctor who treats me (whether named in this certificate or not) to discuss my medical condition, in relation to my claim for workers’ compensation and return to work options, with my employer and with their insurer.
+Signed:
+Date:
+Print your name:
+Witness signature:
+Witness print name:
+Consent authority 2 (to be signed at the option of the worker)
+I consent to my employer’s insurer and its appointed service providers collecting personal information, inclusive of sensitive information such as medical information about me and using it for the purpose of assessing and managing my workers’ compensation claim, including determining liability and whether my claim is true.
+This consent extends to my employer’s insurer disclosing my personal information, inclusive of sensitive information, to other insurers, medical practitioners, rehabilitation providers, investigators, legal practitioners and other experts or consultants for the purpose of assessing and managing my claim.
+My personal information, inclusive of sensitive information, may also be disclosed as required or permitted by law. I also consent to my employer’s insurer disclosing my personal details to WorkCover WA which is authorised to use this information to fulfil its functions and obligations under the Workers’ Compensation and Injury Management Act 1981.
+I have read all the information on this form regarding the consent authority and I consent to the Insurer dealing with my personal information in the manner described.
+Signed:
+Date:
+Print your name:
+Witness signature:
+Witness print name:
+IMPORTANT: FAILURE TO PROVIDE YOUR SIGNATURE ON EITHER THE DECLARATION OR THE CONSENT AUTHORITIES MAY DELAY A DECISION BY THE INSURER ON YOUR CLAIM.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
