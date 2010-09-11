@@ -64,7 +64,7 @@ Medical Radiation Technologists Act 2006 s. 36(3), 56(1), 59(1), 69(1) or 99
 Metropolitan Water Authority Act 1982 s. 57D(1), 57G(7) or 43(11) or (13)
 Metropolitan Water Supply, Sewerage, and Drainage Act 1909 s. 57D(1)
 Motor Vehicle Dealers Act 1973 s. 20(1), (2) or (3), 22(1) or (3), 32K(1), 32L(1) or (3), 32M(1), 32N(1) or (3) or 37B(2)
-Motor Vehicle Drivers Instructors Act 1963 s. 10(2)(a)
+Motor Vehicle Drivers Instructors Act 1963 s. 10(2)
 Nurses and Midwives Act 2006 s. 37(3), 58(1), 61(1), 71(1) or 106
 Occupational Therapists Act 2005 s. 36(3), 56(1), 59(1), 69(1) or 101
 Optometrists Act 2005 s. 35(3), 55(1), 58(1), 68(1) or 101
@@ -107,4 +107,4 @@ Water Services Licensing Act 1995 s. 44(1) or 54(1)
 Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 r. 19(2a), 29(1) or 100(2)
 Waterways Conservation Act 1976 s. 46(11)
 Western Australian Meat Industry Authority Act 1976 s. 22(1)
-[Schedule 5 inserted in Gazette 26 Jun 2007 p. 2988-93; amended in Gazette 27 Jun 2008 p. 3066-7; amended by Act No. 46 of 2009 s. 10.]
+[Schedule 5 inserted in Gazette 26 Jun 2007 p. 2988-93; amended in Gazette 27 Jun 2008 p. 3066-7; amended by Act No. 46 of 2009 s. 10; No. 19 of 2010 s. 51.]
